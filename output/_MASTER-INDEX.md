@@ -80,20 +80,20 @@ Setiap bab IPA + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - [x] `osn-sd-ipa-03-gaya-gerak-energi-sedang-sulit.md`
 
 **IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat**
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-campur.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-campur.md`
 - [x] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah.md`
 - [x] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang.md`
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-sulit.md`
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah-sedang.md`
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang-sulit.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-sulit.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah-sedang.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang-sulit.md`
 
 **IPA-05 · Bumi, Antariksa, dan Lingkungan**
-- [ ] `osn-sd-ipa-05-bumi-antariksa-campur.md`
-- [ ] `osn-sd-ipa-05-bumi-antariksa-mudah.md`
-- [ ] `osn-sd-ipa-05-bumi-antariksa-sedang.md`
-- [ ] `osn-sd-ipa-05-bumi-antariksa-sulit.md`
-- [ ] `osn-sd-ipa-05-bumi-antariksa-mudah-sedang.md`
-- [ ] `osn-sd-ipa-05-bumi-antariksa-sedang-sulit.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-campur.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-mudah.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-sedang.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-sulit.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-mudah-sedang.md`
+- [x] `osn-sd-ipa-05-bumi-antariksa-sedang-sulit.md`
 
 ### Kategori E · MTK Per-Materi (8 bab × 6 tingkat = 48 file)
 Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
@@ -111,38 +111,38 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - [x] `osn-sd-mtk-02-pecahan-desimal-persen-mudah.md`
 - [x] `osn-sd-mtk-02-pecahan-desimal-persen-sedang.md`
 - [x] `osn-sd-mtk-02-pecahan-desimal-persen-sulit.md`
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-mudah-sedang.md`
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-sedang-sulit.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-mudah-sedang.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-sedang-sulit.md`
 
 **MTK-03 · Geometri Datar**
 - [x] `osn-sd-mtk-03-geometri-datar-campur.md`
 - [x] `osn-sd-mtk-03-geometri-datar-mudah.md`
-- [ ] `osn-sd-mtk-03-geometri-datar-sedang.md`
-- [ ] `osn-sd-mtk-03-geometri-datar-sulit.md`
-- [ ] `osn-sd-mtk-03-geometri-datar-mudah-sedang.md`
-- [ ] `osn-sd-mtk-03-geometri-datar-sedang-sulit.md`
+- [x] `osn-sd-mtk-03-geometri-datar-sedang.md`
+- [x] `osn-sd-mtk-03-geometri-datar-sulit.md`
+- [x] `osn-sd-mtk-03-geometri-datar-mudah-sedang.md`
+- [x] `osn-sd-mtk-03-geometri-datar-sedang-sulit.md`
 
 **MTK-04 · Geometri Ruang**
-- [ ] `osn-sd-mtk-04-geometri-ruang-campur.md`
-- [ ] `osn-sd-mtk-04-geometri-ruang-mudah.md`
-- [ ] `osn-sd-mtk-04-geometri-ruang-sedang.md`
-- [ ] `osn-sd-mtk-04-geometri-ruang-sulit.md`
-- [ ] `osn-sd-mtk-04-geometri-ruang-mudah-sedang.md`
-- [ ] `osn-sd-mtk-04-geometri-ruang-sedang-sulit.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-campur.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-mudah.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-sedang.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-sulit.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-mudah-sedang.md`
+- [x] `osn-sd-mtk-04-geometri-ruang-sedang-sulit.md`
 
 **MTK-05 · Pengukuran**
-- [ ] `osn-sd-mtk-05-pengukuran-campur.md`
-- [ ] `osn-sd-mtk-05-pengukuran-mudah.md`
-- [ ] `osn-sd-mtk-05-pengukuran-sedang.md`
-- [ ] `osn-sd-mtk-05-pengukuran-sulit.md`
-- [ ] `osn-sd-mtk-05-pengukuran-mudah-sedang.md`
-- [ ] `osn-sd-mtk-05-pengukuran-sedang-sulit.md`
+- [x] `osn-sd-mtk-05-pengukuran-campur.md`
+- [x] `osn-sd-mtk-05-pengukuran-mudah.md`
+- [x] `osn-sd-mtk-05-pengukuran-sedang.md`
+- [x] `osn-sd-mtk-05-pengukuran-sulit.md`
+- [x] `osn-sd-mtk-05-pengukuran-mudah-sedang.md`
+- [x] `osn-sd-mtk-05-pengukuran-sedang-sulit.md`
 
 **MTK-06 · Aritmetika Sosial**
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-campur.md`
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-mudah.md`
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-sedang.md`
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-sulit.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-campur.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-mudah.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-sedang.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-sulit.md`
 - [ ] `osn-sd-mtk-06-aritmetika-sosial-mudah-sedang.md`
 - [ ] `osn-sd-mtk-06-aritmetika-sosial-sedang-sulit.md`
 
