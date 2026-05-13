@@ -25,64 +25,64 @@
 ### Kategori A · Komprehensif Lintas Mapel (6 file)
 Distribusi 65 MTK + 35 IPA campur lintas 13 bab.
 
-- [x] `osn-sd-komprehensif-campur.md` ✅ **(SELESAI — flagship reference)**
-- [ ] `osn-sd-komprehensif-mudah.md`
-- [ ] `osn-sd-komprehensif-sedang.md`
-- [ ] `osn-sd-komprehensif-sulit.md`
-- [ ] `osn-sd-komprehensif-mudah-sedang.md`
-- [ ] `osn-sd-komprehensif-sedang-sulit.md`
+- [x] `osn-sd-komprehensif-campur.md`
+- [x] `osn-sd-komprehensif-mudah.md`
+- [x] `osn-sd-komprehensif-sedang.md`
+- [x] `osn-sd-komprehensif-sulit.md`
+- [x] `osn-sd-komprehensif-mudah-sedang.md`
+- [x] `osn-sd-komprehensif-sedang-sulit.md`
 
 ### Kategori B · IPA Komprehensif (6 file)
 100 soal IPA campur 5 bab. Distribusi proporsional ~20 soal per bab.
 
-- [ ] `osn-sd-ipa-komprehensif-campur.md`
-- [ ] `osn-sd-ipa-komprehensif-mudah.md`
-- [ ] `osn-sd-ipa-komprehensif-sedang.md`
-- [ ] `osn-sd-ipa-komprehensif-sulit.md`
-- [ ] `osn-sd-ipa-komprehensif-mudah-sedang.md`
-- [ ] `osn-sd-ipa-komprehensif-sedang-sulit.md`
+- [x] `osn-sd-ipa-komprehensif-campur.md`
+- [x] `osn-sd-ipa-komprehensif-mudah.md`
+- [x] `osn-sd-ipa-komprehensif-sedang.md`
+- [x] `osn-sd-ipa-komprehensif-sulit.md`
+- [x] `osn-sd-ipa-komprehensif-mudah-sedang.md`
+- [x] `osn-sd-ipa-komprehensif-sedang-sulit.md`
 
 ### Kategori C · MTK Komprehensif (6 file)
 100 soal MTK campur 8 bab. Distribusi proporsional ~12-13 soal per bab.
 
-- [ ] `osn-sd-mtk-komprehensif-campur.md`
-- [ ] `osn-sd-mtk-komprehensif-mudah.md`
-- [ ] `osn-sd-mtk-komprehensif-sedang.md`
-- [ ] `osn-sd-mtk-komprehensif-sulit.md`
-- [ ] `osn-sd-mtk-komprehensif-mudah-sedang.md`
-- [ ] `osn-sd-mtk-komprehensif-sedang-sulit.md`
+- [x] `osn-sd-mtk-komprehensif-campur.md`
+- [x] `osn-sd-mtk-komprehensif-mudah.md`
+- [x] `osn-sd-mtk-komprehensif-sedang.md`
+- [x] `osn-sd-mtk-komprehensif-sulit.md`
+- [x] `osn-sd-mtk-komprehensif-mudah-sedang.md`
+- [x] `osn-sd-mtk-komprehensif-sedang-sulit.md`
 
 ### Kategori D · IPA Per-Materi (5 bab × 6 tingkat = 30 file)
 Setiap bab IPA + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 
 **IPA-01 · Makhluk Hidup & Lingkungan**
-- [ ] `osn-sd-ipa-01-makhluk-hidup-campur.md`
-- [ ] `osn-sd-ipa-01-makhluk-hidup-mudah.md`
-- [ ] `osn-sd-ipa-01-makhluk-hidup-sedang.md`
-- [ ] `osn-sd-ipa-01-makhluk-hidup-sulit.md`
-- [ ] `osn-sd-ipa-01-makhluk-hidup-mudah-sedang.md`
-- [ ] `osn-sd-ipa-01-makhluk-hidup-sedang-sulit.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-campur.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-mudah.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-sedang.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-sulit.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-mudah-sedang.md`
+- [x] `osn-sd-ipa-01-makhluk-hidup-sedang-sulit.md`
 
 **IPA-02 · Tubuh Manusia & Kesehatan**
-- [ ] `osn-sd-ipa-02-tubuh-manusia-campur.md`
-- [ ] `osn-sd-ipa-02-tubuh-manusia-mudah.md`
-- [ ] `osn-sd-ipa-02-tubuh-manusia-sedang.md`
-- [ ] `osn-sd-ipa-02-tubuh-manusia-sulit.md`
-- [ ] `osn-sd-ipa-02-tubuh-manusia-mudah-sedang.md`
-- [ ] `osn-sd-ipa-02-tubuh-manusia-sedang-sulit.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-campur.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-mudah.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-sedang.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-sulit.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-mudah-sedang.md`
+- [x] `osn-sd-ipa-02-tubuh-manusia-sedang-sulit.md`
 
 **IPA-03 · Gaya, Gerak, dan Energi**
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-campur.md`
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-mudah.md`
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-sedang.md`
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-sulit.md`
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-mudah-sedang.md`
-- [ ] `osn-sd-ipa-03-gaya-gerak-energi-sedang-sulit.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-campur.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-mudah.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-sedang.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-sulit.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-mudah-sedang.md`
+- [x] `osn-sd-ipa-03-gaya-gerak-energi-sedang-sulit.md`
 
 **IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat**
 - [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-campur.md`
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah.md`
-- [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah.md`
+- [x] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang.md`
 - [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-sulit.md`
 - [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-mudah-sedang.md`
 - [ ] `osn-sd-ipa-04-cahaya-bunyi-panas-sedang-sulit.md`
@@ -99,24 +99,24 @@ Setiap bab IPA + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 
 **MTK-01 · Bilangan & Operasi**
-- [ ] `osn-sd-mtk-01-bilangan-operasi-campur.md`
-- [ ] `osn-sd-mtk-01-bilangan-operasi-mudah.md`
-- [ ] `osn-sd-mtk-01-bilangan-operasi-sedang.md`
-- [ ] `osn-sd-mtk-01-bilangan-operasi-sulit.md`
-- [ ] `osn-sd-mtk-01-bilangan-operasi-mudah-sedang.md`
-- [ ] `osn-sd-mtk-01-bilangan-operasi-sedang-sulit.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-campur.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-mudah.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-sedang.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-sulit.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-mudah-sedang.md`
+- [x] `osn-sd-mtk-01-bilangan-operasi-sedang-sulit.md`
 
 **MTK-02 · Pecahan, Desimal, dan Persen**
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-campur.md`
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-mudah.md`
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-sedang.md`
-- [ ] `osn-sd-mtk-02-pecahan-desimal-persen-sulit.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-campur.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-mudah.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-sedang.md`
+- [x] `osn-sd-mtk-02-pecahan-desimal-persen-sulit.md`
 - [ ] `osn-sd-mtk-02-pecahan-desimal-persen-mudah-sedang.md`
 - [ ] `osn-sd-mtk-02-pecahan-desimal-persen-sedang-sulit.md`
 
 **MTK-03 · Geometri Datar**
-- [ ] `osn-sd-mtk-03-geometri-datar-campur.md`
-- [ ] `osn-sd-mtk-03-geometri-datar-mudah.md`
+- [x] `osn-sd-mtk-03-geometri-datar-campur.md`
+- [x] `osn-sd-mtk-03-geometri-datar-mudah.md`
 - [ ] `osn-sd-mtk-03-geometri-datar-sedang.md`
 - [ ] `osn-sd-mtk-03-geometri-datar-sulit.md`
 - [ ] `osn-sd-mtk-03-geometri-datar-mudah-sedang.md`

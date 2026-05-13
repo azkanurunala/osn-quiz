@@ -2764,3 +2764,840 @@ D. Asma
 
 ---
 
+### Soal 80 · IPA-03 · Jenis Gaya · Kabupaten
+
+**(1) Soal:**
+Saat kita menendang bola, gaya yang bekerja pada bola adalah gaya...
+
+**(2) Pilihan Jawaban:**
+
+A. Gravitasi
+B. Magnet
+C. Otot
+D. Pegas
+
+**(3) Jawaban:** **C. Otot**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mengenal jenis-jenis gaya berdasarkan sumbernya.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Gravitasi** — Salah. Gravitasi adalah gaya tarik bumi yang membuat benda jatuh ke bawah, bukan gaya yang mendorong bola saat ditendang.
+  - **B. Magnet** — Salah. Gaya magnet hanya bekerja pada benda logam tertentu (besi, nikel), bukan pada bola.
+  - **C. Otot** — Benar. Saat menendang, otot kaki kita berkontraksi dan menghasilkan gaya yang mendorong bola. Inilah gaya otot.
+  - **D. Pegas** — Salah. Gaya pegas timbul dari benda elastis seperti per, bukan dari tendangan kaki.
+
+- **Langkah Penyelesaian:**
+  1. Identifikasi sumber gaya: kaki (otot) menendang bola.
+  2. Gaya dari kontraksi otot disebut gaya otot.
+
+- **Hasil akhir:** Gaya otot
+
+- **💭 Tips:** Ingat 5 gaya utama: otot (tubuh), gravitasi (bumi menarik), magnet (logam), pegas (per), gesek (permukaan).
+
+---
+
+### Soal 81 · IPA-03 · Pengaruh Gaya · Kabupaten
+
+**(1) Soal:**
+Berikut yang BUKAN pengaruh gaya terhadap benda adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Mengubah bentuk benda
+B. Mengubah arah gerak benda
+C. Mengubah warna benda
+D. Membuat benda bergerak
+
+**(3) Jawaban:** **C. Mengubah warna benda**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Efek/pengaruh gaya pada benda.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mengubah bentuk benda** — Salah (karena ini PENGARUH gaya). Contoh: plastisin ditekan jadi pipih.
+  - **B. Mengubah arah gerak benda** — Salah (ini juga pengaruh gaya). Contoh: bola yang menggelinding ditendang berbelok arah.
+  - **C. Mengubah warna benda** — Benar (sebagai jawaban "BUKAN"). Warna ditentukan oleh zat/cat, bukan gaya. Mendorong benda tidak mengubah warnanya.
+  - **D. Membuat benda bergerak** — Salah (ini pengaruh gaya). Contoh: meja didorong jadi bergeser.
+
+- **Langkah Penyelesaian:**
+  1. Pengaruh gaya: gerak (mulai/berhenti/cepat/lambat/belok) dan bentuk.
+  2. Warna tidak termasuk.
+
+- **Hasil akhir:** Mengubah warna benda
+
+- **💭 Tips:** Pengaruh gaya = berkaitan dengan gerak dan bentuk. Warna, suhu, rasa BUKAN pengaruh gaya.
+
+---
+
+### Soal 82 · IPA-03 · Bentuk Energi · Kabupaten
+
+**(1) Soal:**
+Energi yang dihasilkan oleh matahari adalah energi...
+
+**(2) Pilihan Jawaban:**
+
+A. Listrik
+B. Kimia
+C. Cahaya dan panas
+D. Bunyi
+
+**(3) Jawaban:** **C. Cahaya dan panas**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bentuk energi dari sumber matahari.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Listrik** — Salah. Matahari tidak langsung menghasilkan listrik; perlu panel surya untuk mengubah cahaya menjadi listrik.
+  - **B. Kimia** — Salah. Energi kimia tersimpan dalam baterai, makanan, bahan bakar — bukan dari matahari langsung.
+  - **C. Cahaya dan panas** — Benar. Matahari memancarkan energi cahaya (membuat terang) dan energi panas (membuat hangat) ke bumi.
+  - **D. Bunyi** — Salah. Bunyi berasal dari getaran benda, bukan dari matahari.
+
+- **Langkah Penyelesaian:**
+  1. Rasakan: matahari membuat terang (cahaya) dan hangat (panas).
+  2. Maka energi matahari = cahaya + panas.
+
+- **Hasil akhir:** Cahaya dan panas
+
+- **💭 Tips:** Matahari adalah sumber utama energi di bumi — cahaya bantu tumbuhan fotosintesis, panas hangatkan bumi.
+
+---
+
+### Soal 83 · IPA-03 · Perubahan Energi · Kabupaten
+
+**(1) Soal:**
+Saat senter dinyalakan, perubahan energi yang terjadi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cahaya menjadi listrik
+B. Listrik menjadi cahaya
+C. Panas menjadi cahaya
+D. Bunyi menjadi cahaya
+
+**(3) Jawaban:** **B. Listrik menjadi cahaya**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan bentuk energi pada alat sehari-hari.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Cahaya menjadi listrik** — Salah. Ini terjadi pada panel surya, bukan senter.
+  - **B. Listrik menjadi cahaya** — Benar. Baterai senter menyimpan energi kimia → diubah menjadi listrik → bola lampu mengubahnya menjadi cahaya (dan sedikit panas).
+  - **C. Panas menjadi cahaya** — Salah. Tidak ada sumber panas yang sengaja dipakai senter.
+  - **D. Bunyi menjadi cahaya** — Salah. Senter tidak berbunyi sebagai sumber energi.
+
+- **Langkah Penyelesaian:**
+  1. Senter pakai baterai → menghasilkan listrik.
+  2. Listrik mengalir ke bola lampu → menyala (cahaya).
+
+- **Hasil akhir:** Listrik menjadi cahaya
+
+- **💭 Tips:** Daftar perubahan energi populer: setrika (listrik→panas), kipas (listrik→gerak), radio (listrik→bunyi), senter (listrik→cahaya).
+
+---
+
+### Soal 84 · IPA-03 · Gerak Benda · Kabupaten
+
+**(1) Soal:**
+Benda yang bergerak dengan kecepatan tetap dan arah lurus mengalami gerak...
+
+**(2) Pilihan Jawaban:**
+
+A. Lurus beraturan
+B. Melingkar
+C. Berputar
+D. Bolak-balik
+
+**(3) Jawaban:** **A. Lurus beraturan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mengenal jenis-jenis gerak benda.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lurus beraturan** — Benar. "Lurus" karena arahnya lurus, "beraturan" karena kecepatannya tetap.
+  - **B. Melingkar** — Salah. Gerak melingkar lintasannya berbentuk lingkaran (contoh: roda berputar).
+  - **C. Berputar** — Salah. Berputar adalah benda berputar di tempat (contoh: gasing).
+  - **D. Bolak-balik** — Salah. Gerak bolak-balik contohnya bandul jam (ke kiri lalu ke kanan).
+
+- **Langkah Penyelesaian:**
+  1. Ciri 1: arah lurus → gerak lurus.
+  2. Ciri 2: kecepatan tetap → beraturan.
+  3. Gabungan = gerak lurus beraturan.
+
+- **Hasil akhir:** Lurus beraturan
+
+- **💭 Tips:** Hafal jenis gerak: lurus, melingkar, berputar (rotasi), bolak-balik (ayunan), jatuh (gravitasi).
+
+---
+
+### Soal 85 · IPA-03 · Gaya Gesek · Kabupaten
+
+**(1) Soal:**
+Gaya gesek paling besar terjadi pada permukaan...
+
+**(2) Pilihan Jawaban:**
+
+A. Kaca licin
+B. Es
+C. Aspal kasar
+D. Lantai keramik basah
+
+**(3) Jawaban:** **C. Aspal kasar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Faktor yang memengaruhi gaya gesek (kekasaran permukaan).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kaca licin** — Salah. Permukaan kaca halus → gaya gesek kecil → benda mudah bergeser.
+  - **B. Es** — Salah. Es sangat licin → gaya gesek kecil sekali (itu sebabnya orang mudah terpeleset).
+  - **C. Aspal kasar** — Benar. Permukaan kasar = gaya gesek besar. Itu sebabnya mobil tidak slip di aspal.
+  - **D. Lantai keramik basah** — Salah. Air membuat keramik licin → gaya gesek kecil.
+
+- **Langkah Penyelesaian:**
+  1. Aturan: semakin kasar permukaan, semakin besar gaya gesek.
+  2. Aspal paling kasar dibanding pilihan lain.
+
+- **Hasil akhir:** Aspal kasar
+
+- **💭 Tips:** Gaya gesek = "rem alami". Kasar → gesek besar (aman tidak slip). Licin → gesek kecil (mudah meluncur).
+
+---
+
+### Soal 86 · IPA-03 · Sumber Energi Alternatif · Kabupaten
+
+**(1) Soal:**
+Berikut yang termasuk sumber energi alternatif (terbarukan) adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Minyak bumi
+B. Batu bara
+C. Angin
+D. Gas alam
+
+**(3) Jawaban:** **C. Angin**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Membedakan sumber energi terbarukan dan tidak terbarukan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Minyak bumi** — Salah. Minyak bumi terbentuk jutaan tahun → tidak terbarukan, akan habis.
+  - **B. Batu bara** — Salah. Sama seperti minyak bumi, hasil tambang fosil → tidak terbarukan.
+  - **C. Angin** — Benar. Angin selalu ada selama ada perbedaan tekanan udara → terbarukan/alternatif. Dipakai untuk kincir angin/PLTB.
+  - **D. Gas alam** — Salah. Termasuk bahan bakar fosil → tidak terbarukan.
+
+- **Langkah Penyelesaian:**
+  1. Tidak terbarukan = bahan fosil (minyak, batu bara, gas).
+  2. Terbarukan = matahari, angin, air, panas bumi, biomassa.
+
+- **Hasil akhir:** Angin
+
+- **💭 Tips:** Cek apakah sumbernya "tidak habis-habis" (matahari, angin, air) → terbarukan. Yang ditambang dari perut bumi → biasanya tidak terbarukan.
+
+---
+
+### Soal 87 · IPA-04 · Sifat Cahaya · Kabupaten
+
+**(1) Soal:**
+Cahaya matahari dapat menembus kaca jendela. Sifat cahaya yang ditunjukkan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cahaya dapat dipantulkan
+B. Cahaya dapat menembus benda bening
+C. Cahaya dapat dibiaskan
+D. Cahaya merambat lurus
+
+**(3) Jawaban:** **B. Cahaya dapat menembus benda bening**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sifat-sifat cahaya.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Cahaya dapat dipantulkan** — Salah. Pemantulan terjadi pada cermin/permukaan mengkilap, bukan saat menembus.
+  - **B. Cahaya dapat menembus benda bening** — Benar. Kaca adalah benda bening sehingga cahaya bisa lewat dan kita melihat ke luar.
+  - **C. Cahaya dapat dibiaskan** — Salah. Pembiasan adalah pembelokan saat cahaya berpindah medium (contoh: pensil terlihat patah dalam air).
+  - **D. Cahaya merambat lurus** — Salah. Itu sifat umum cahaya, tapi yang ditanya khusus "menembus kaca".
+
+- **Langkah Penyelesaian:**
+  1. Kaca = benda bening (tembus pandang).
+  2. Cahaya bisa lewat → sifat menembus benda bening.
+
+- **Hasil akhir:** Cahaya dapat menembus benda bening
+
+- **💭 Tips:** 5 sifat cahaya: merambat lurus, menembus benda bening, dipantulkan, dibiaskan, dapat diuraikan (pelangi).
+
+---
+
+### Soal 88 · IPA-04 · Sumber Bunyi · Kabupaten
+
+**(1) Soal:**
+Bunyi dihasilkan oleh benda yang...
+
+**(2) Pilihan Jawaban:**
+
+A. Diam
+B. Bergetar
+C. Panas
+D. Bercahaya
+
+**(3) Jawaban:** **B. Bergetar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Asal-usul (sumber) bunyi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Diam** — Salah. Benda diam tidak menghasilkan bunyi.
+  - **B. Bergetar** — Benar. Semua sumber bunyi pasti bergetar: senar gitar dipetik, drum dipukul, pita suara bergetar saat bicara.
+  - **C. Panas** — Salah. Panas tidak otomatis menghasilkan bunyi (api kompor bisa hampir tanpa bunyi).
+  - **D. Bercahaya** — Salah. Bercahaya tidak berhubungan dengan bunyi (lampu menyala tapi tidak berbunyi).
+
+- **Langkah Penyelesaian:**
+  1. Pegang tenggorokan saat bicara → terasa bergetar.
+  2. Sentuh speaker yang menyala → bergetar.
+  3. Maka sumber bunyi = benda yang bergetar.
+
+- **Hasil akhir:** Bergetar
+
+- **💭 Tips:** Bunyi = getaran yang merambat melalui medium (udara/air/zat padat). Tanpa getaran, tidak ada bunyi.
+
+---
+
+### Soal 89 · IPA-04 · Perpindahan Panas · Kabupaten
+
+**(1) Soal:**
+Saat kita memasak air dalam panci di atas kompor, perpindahan panas yang utama dalam air adalah secara...
+
+**(2) Pilihan Jawaban:**
+
+A. Konduksi
+B. Konveksi
+C. Radiasi
+D. Isolasi
+
+**(3) Jawaban:** **B. Konveksi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis perpindahan panas pada zat cair.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Konduksi** — Salah. Konduksi terjadi pada zat padat (contoh: sendok logam di air panas, gagangnya jadi panas).
+  - **B. Konveksi** — Benar. Pada zat cair dan gas, panas berpindah lewat aliran. Air di dasar panas → naik, air dingin di atas turun → terbentuk arus konveksi.
+  - **C. Radiasi** — Salah. Radiasi tidak butuh medium (contoh: panas matahari sampai ke bumi).
+  - **D. Isolasi** — Salah. Isolasi adalah pencegah panas pindah, bukan jenis perpindahan.
+
+- **Langkah Penyelesaian:**
+  1. Medium: air (zat cair).
+  2. Zat cair/gas → perpindahan utamanya konveksi (mengalir).
+
+- **Hasil akhir:** Konveksi
+
+- **💭 Tips:** Aturan medium: padat → konduksi, cair/gas → konveksi, tanpa medium → radiasi.
+
+---
+
+### Soal 90 · IPA-04 · Sifat Zat (Wujud) · Kabupaten
+
+**(1) Soal:**
+Es krim yang dibiarkan di suhu ruang akan mencair. Perubahan wujud yang terjadi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Membeku
+B. Mencair
+C. Menguap
+D. Menyublim
+
+**(3) Jawaban:** **B. Mencair**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Nama-nama perubahan wujud zat.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Membeku** — Salah. Membeku = cair → padat (contoh: air jadi es). Kebalikan dari soal.
+  - **B. Mencair** — Benar. Es krim (padat) berubah menjadi cair → namanya mencair atau melebur.
+  - **C. Menguap** — Salah. Menguap = cair → gas (contoh: air mendidih jadi uap).
+  - **D. Menyublim** — Salah. Menyublim = padat → gas langsung (contoh: kapur barus).
+
+- **Langkah Penyelesaian:**
+  1. Wujud awal: padat (es krim beku).
+  2. Wujud akhir: cair.
+  3. Padat → cair = mencair.
+
+- **Hasil akhir:** Mencair
+
+- **💭 Tips:** Hafal 6 perubahan: mencair (padat→cair), membeku (cair→padat), menguap (cair→gas), mengembun (gas→cair), menyublim (padat→gas), mengkristal/deposisi (gas→padat).
+
+---
+
+### Soal 91 · IPA-04 · Cermin · Kabupaten
+
+**(1) Soal:**
+Cermin yang biasa digunakan di kaca spion mobil bagian samping adalah cermin...
+
+**(2) Pilihan Jawaban:**
+
+A. Datar
+B. Cekung
+C. Cembung
+D. Bias
+
+**(3) Jawaban:** **C. Cembung**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis cermin dan penggunaannya.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Datar** — Salah. Cermin datar memantulkan ukuran sama, tapi area pandang sempit — kurang cocok untuk spion.
+  - **B. Cekung** — Salah. Cermin cekung membesarkan bayangan (dipakai untuk berdandan, reflektor senter), area pandang sempit.
+  - **C. Cembung** — Benar. Cermin cembung menghasilkan bayangan lebih kecil tetapi area pandang luas — sangat cocok untuk spion agar bisa melihat banyak kendaraan di belakang.
+  - **D. Bias** — Salah. "Bias" bukan jenis cermin; pembiasan terjadi pada lensa/kaca tembus.
+
+- **Langkah Penyelesaian:**
+  1. Spion butuh sudut pandang luas.
+  2. Cermin yang memberikan sudut pandang luas = cermin cembung.
+
+- **Hasil akhir:** Cembung
+
+- **💭 Tips:** Cembung → bayangan kecil, area luas (spion, tikungan jalan). Cekung → bayangan besar (berdandan, sendok terbalik).
+
+---
+
+### Soal 92 · IPA-04 · Cepat Rambat Bunyi · Kabupaten
+
+**(1) Soal:**
+Bunyi dapat merambat paling cepat melalui zat...
+
+**(2) Pilihan Jawaban:**
+
+A. Padat
+B. Cair
+C. Gas
+D. Hampa udara
+
+**(3) Jawaban:** **A. Padat**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pengaruh medium terhadap kecepatan rambat bunyi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Padat** — Benar. Pada zat padat, molekul rapat sehingga getaran merambat sangat cepat. Contoh: telinga ditempel rel kereta, suara kereta terdengar lebih cepat.
+  - **B. Cair** — Salah. Bunyi merambat di air lebih cepat dari di udara, tapi lebih lambat dari zat padat.
+  - **C. Gas** — Salah. Molekul gas (udara) renggang, bunyi merambat paling lambat dibanding padat/cair.
+  - **D. Hampa udara** — Salah. Tanpa medium, bunyi TIDAK BISA merambat sama sekali.
+
+- **Langkah Penyelesaian:**
+  1. Urutan kecepatan rambat bunyi: padat > cair > gas.
+  2. Hampa udara: bunyi tidak merambat.
+  3. Paling cepat → padat.
+
+- **Hasil akhir:** Padat
+
+- **💭 Tips:** Bunyi butuh medium. Semakin rapat partikel → semakin cepat bunyi merambat. Itu sebabnya di luar angkasa (hampa), suara tidak terdengar.
+
+---
+
+### Soal 93 · IPA-04 · Sifat Zat · Kabupaten
+
+**(1) Soal:**
+Berikut ini yang merupakan sifat benda cair adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Bentuk tetap, volume tetap
+B. Bentuk berubah sesuai wadah, volume tetap
+C. Bentuk berubah, volume berubah
+D. Bentuk tetap, volume berubah
+
+**(3) Jawaban:** **B. Bentuk berubah sesuai wadah, volume tetap**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sifat-sifat benda padat, cair, gas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Bentuk tetap, volume tetap** — Salah. Ini sifat benda PADAT (contoh: batu).
+  - **B. Bentuk berubah sesuai wadah, volume tetap** — Benar. Air di gelas berbentuk gelas, di botol berbentuk botol — tapi 1 liter tetap 1 liter.
+  - **C. Bentuk berubah, volume berubah** — Salah. Ini sifat benda GAS (mengisi seluruh ruangan).
+  - **D. Bentuk tetap, volume berubah** — Salah. Tidak ada wujud zat yang sifatnya seperti ini.
+
+- **Langkah Penyelesaian:**
+  1. Cair: bentuk mengikuti wadah, tapi banyaknya (volume) tetap.
+
+- **Hasil akhir:** Bentuk berubah sesuai wadah, volume tetap
+
+- **💭 Tips:** Padat (B tetap, V tetap), Cair (B berubah, V tetap), Gas (B berubah, V berubah).
+
+---
+
+### Soal 94 · IPA-05 · Rotasi Bumi · Kabupaten
+
+**(1) Soal:**
+Akibat dari rotasi bumi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Pergantian musim
+B. Pergantian siang dan malam
+C. Gerhana matahari
+D. Pasang surut air laut
+
+**(3) Jawaban:** **B. Pergantian siang dan malam**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Akibat rotasi (perputaran bumi pada porosnya).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pergantian musim** — Salah. Pergantian musim adalah akibat REVOLUSI bumi (mengelilingi matahari) selama 1 tahun.
+  - **B. Pergantian siang dan malam** — Benar. Rotasi bumi 1× = 24 jam. Bagian bumi yang menghadap matahari = siang; yang membelakangi = malam.
+  - **C. Gerhana matahari** — Salah. Gerhana terjadi saat bulan berada di antara matahari dan bumi (terkait posisi, bukan rotasi).
+  - **D. Pasang surut air laut** — Salah. Pasang surut disebabkan gaya tarik bulan (dan matahari) terhadap air laut.
+
+- **Langkah Penyelesaian:**
+  1. Rotasi = bumi berputar pada porosnya (24 jam).
+  2. Setengah bumi yang kena matahari = siang; setengah lainnya = malam.
+
+- **Hasil akhir:** Pergantian siang dan malam
+
+- **💭 Tips:** Bedakan rotasi (1 hari → siang-malam) dengan revolusi (1 tahun → pergantian musim & tanggal).
+
+---
+
+### Soal 95 · IPA-05 · Tata Surya · Kabupaten
+
+**(1) Soal:**
+Planet yang paling dekat dengan matahari adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Venus
+B. Merkurius
+C. Mars
+D. Bumi
+
+**(3) Jawaban:** **B. Merkurius**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Urutan planet dalam tata surya.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Venus** — Salah. Venus adalah planet kedua dari matahari, bukan paling dekat.
+  - **B. Merkurius** — Benar. Merkurius adalah planet pertama (terdekat) dari matahari. Karena dekat, suhunya sangat panas di sisi siang.
+  - **C. Mars** — Salah. Mars adalah planet keempat (setelah bumi). Dikenal sebagai planet merah.
+  - **D. Bumi** — Salah. Bumi adalah planet ketiga, tempat kita tinggal.
+
+- **Langkah Penyelesaian:**
+  1. Urutan planet: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus.
+  2. Yang pertama (terdekat) = Merkurius.
+
+- **Hasil akhir:** Merkurius
+
+- **💭 Tips:** Jembatan keledai urutan planet: "Mengerikan! Vampir Bisa Menggigit Jari Saudara Untuk Nakal" (Mer-Ven-Bumi-Mar-Jup-Sat-Ura-Nep).
+
+---
+
+### Soal 96 · IPA-05 · Daur Air · Kabupaten
+
+**(1) Soal:**
+Dalam daur air, air laut yang terkena panas matahari akan mengalami...
+
+**(2) Pilihan Jawaban:**
+
+A. Pengembunan
+B. Penguapan
+C. Pembekuan
+D. Pencairan
+
+**(3) Jawaban:** **B. Penguapan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tahapan-tahapan daur air di alam.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pengembunan** — Salah. Pengembunan terjadi nanti di atas, saat uap air dingin di udara → membentuk awan/titik air.
+  - **B. Penguapan** — Benar. Panas matahari mengubah air laut (cair) menjadi uap (gas) → naik ke atas. Ini proses awal daur air.
+  - **C. Pembekuan** — Salah. Pembekuan = cair → padat (jadi es), terjadi di tempat dingin, bukan di laut panas.
+  - **D. Pencairan** — Salah. Pencairan = padat → cair (es jadi air), tidak relevan dengan air laut yang sudah cair.
+
+- **Langkah Penyelesaian:**
+  1. Air laut + panas matahari → cair menjadi gas.
+  2. Cair → gas = penguapan (evaporasi).
+
+- **Hasil akhir:** Penguapan
+
+- **💭 Tips:** Daur air singkat: PENGUAPAN → PENGEMBUNAN (awan) → HUJAN → ke sungai/laut lagi. Begitu seterusnya.
+
+---
+
+### Soal 97 · IPA-05 · Sumber Daya Alam · Kabupaten
+
+**(1) Soal:**
+Berikut ini yang termasuk sumber daya alam yang tidak dapat diperbarui adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Air
+B. Udara
+C. Minyak bumi
+D. Pohon
+
+**(3) Jawaban:** **C. Minyak bumi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Membedakan SDA terbarukan & tidak terbarukan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Air** — Salah. Air bisa diperbarui lewat daur air (hujan terus terjadi).
+  - **B. Udara** — Salah. Udara terus diperbarui oleh tumbuhan (fotosintesis menghasilkan oksigen).
+  - **C. Minyak bumi** — Benar. Minyak bumi terbentuk dari fosil makhluk hidup jutaan tahun lalu. Sekali habis, tidak bisa dibuat dalam waktu singkat.
+  - **D. Pohon** — Salah. Pohon bisa ditanam kembali (reboisasi) → bisa diperbarui.
+
+- **Langkah Penyelesaian:**
+  1. Tidak dapat diperbarui = butuh waktu sangat lama untuk terbentuk lagi.
+  2. Minyak bumi = fosil → jutaan tahun → tidak terbarukan.
+
+- **Hasil akhir:** Minyak bumi
+
+- **💭 Tips:** Tidak terbarukan = minyak bumi, batu bara, gas alam, logam. Terbarukan = air, udara, sinar matahari, hewan, tumbuhan.
+
+---
+
+### Soal 98 · IPA-05 · Pelestarian Lingkungan · Kabupaten
+
+**(1) Soal:**
+Cara mencegah banjir di lingkungan sekolah yang paling tepat adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Membakar sampah di selokan
+B. Membuang sampah ke sungai
+C. Membersihkan selokan secara rutin
+D. Menutup selokan dengan beton
+
+**(3) Jawaban:** **C. Membersihkan selokan secara rutin**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tindakan pelestarian lingkungan dan pencegahan banjir.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Membakar sampah di selokan** — Salah. Membakar sampah mencemari udara dan tidak mengatasi penyumbatan selokan.
+  - **B. Membuang sampah ke sungai** — Salah. Justru memperparah banjir karena sungai tersumbat.
+  - **C. Membersihkan selokan secara rutin** — Benar. Selokan bersih → air hujan mengalir lancar → tidak tergenang → tidak banjir.
+  - **D. Menutup selokan dengan beton** — Salah. Menutup selokan menghalangi aliran air hujan, justru menyebabkan banjir.
+
+- **Langkah Penyelesaian:**
+  1. Penyebab banjir: air tidak bisa mengalir karena selokan tersumbat.
+  2. Solusi: jaga aliran tetap lancar → bersihkan selokan.
+
+- **Hasil akhir:** Membersihkan selokan secara rutin
+
+- **💭 Tips:** Pencegahan banjir 3R: Resapan (tanam pohon, biopori), Reduksi sampah, Rajin bersihkan saluran air.
+
+---
+
+### Soal 99 · IPA-05 · Cuaca dan Iklim · Kabupaten
+
+**(1) Soal:**
+Alat untuk mengukur suhu udara adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Barometer
+B. Termometer
+C. Higrometer
+D. Anemometer
+
+**(3) Jawaban:** **B. Termometer**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Alat-alat pengukur cuaca.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Barometer** — Salah. Barometer mengukur tekanan udara (bisa untuk memprediksi cuaca).
+  - **B. Termometer** — Benar. Termometer mengukur suhu (panas/dingin). Bisa untuk badan, ruangan, atau udara luar.
+  - **C. Higrometer** — Salah. Higrometer mengukur kelembapan udara (kadar uap air).
+  - **D. Anemometer** — Salah. Anemometer mengukur kecepatan angin.
+
+- **Langkah Penyelesaian:**
+  1. Yang ditanya: pengukur SUHU.
+  2. Awalan "termo" = panas/suhu → termometer.
+
+- **Hasil akhir:** Termometer
+
+- **💭 Tips:** Ingat awalan: termo (suhu), baro (tekanan), higro (kelembapan), anemo (angin).
+
+---
+
+### Soal 100 · IPA-05 · Lapisan Bumi · Kabupaten
+
+**(1) Soal:**
+Lapisan bumi yang paling luar tempat manusia hidup disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Inti bumi
+B. Mantel bumi
+C. Kerak bumi
+D. Atmosfer
+
+**(3) Jawaban:** **C. Kerak bumi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Struktur lapisan bumi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Inti bumi** — Salah. Inti bumi adalah lapisan paling dalam, sangat panas (berisi besi & nikel cair/padat).
+  - **B. Mantel bumi** — Salah. Mantel adalah lapisan tengah, berupa batuan panas semi-cair.
+  - **C. Kerak bumi** — Benar. Kerak bumi adalah lapisan padat paling luar — tempat tanah, gunung, laut, dan tempat manusia tinggal.
+  - **D. Atmosfer** — Salah. Atmosfer adalah lapisan udara/gas yang menyelimuti bumi, bukan lapisan tanah tempat berpijak.
+
+- **Langkah Penyelesaian:**
+  1. Urutan dari luar ke dalam: kerak → mantel → inti luar → inti dalam.
+  2. Kita berdiri di lapisan paling luar = kerak.
+
+- **Hasil akhir:** Kerak bumi
+
+- **💭 Tips:** Bayangkan bumi seperti telur rebus: cangkang = kerak, putih = mantel, kuning = inti. Kita hidup di "cangkang".
+
+---
+
+# Bagian II — Ringkasan Kunci & Refleksi
+
+> Tabel ringkasan 100 soal: kunci jawaban, kode bab, sub-topik, dan tingkat. Gunakan untuk koreksi cepat dan untuk melihat di bab mana kamu masih lemah.
+
+## Tabel Kunci Jawaban (100 Soal)
+
+| No | Jawaban | Kode Bab | Sub-topik | Tingkat |
+|----|---------|----------|-----------|---------|
+| 1 | A | MTK-01 | Operasi Hitung Bilangan Bulat | Kabupaten |
+| 2 | C | MTK-01 | FPB | Kabupaten |
+| 3 | B | MTK-01 | KPK | Kabupaten |
+| 4 | C | MTK-01 | Bilangan Prima | Kabupaten |
+| 5 | C | MTK-01 | Bilangan Kuadrat | Kabupaten |
+| 6 | C | MTK-01 | Faktor Bilangan | Kabupaten |
+| 7 | B | MTK-01 | Operasi Hitung Bilangan Bulat | Kabupaten |
+| 8 | C | MTK-01 | Akar Kuadrat | Kabupaten |
+| 9 | B | MTK-02 | Pecahan Senilai | Kabupaten |
+| 10 | D | MTK-02 | Operasi Pecahan | Kabupaten |
+| 11 | C | MTK-02 | Konversi Pecahan ke Desimal | Kabupaten |
+| 12 | B | MTK-02 | Persen sebagai Bagian | Kabupaten |
+| 13 | C | MTK-02 | Operasi Desimal | Kabupaten |
+| 14 | C | MTK-02 | Konversi Desimal ke Persen | Kabupaten |
+| 15 | B | MTK-02 | Menyederhanakan Pecahan | Kabupaten |
+| 16 | C | MTK-02 | Persen Aplikatif | Kabupaten |
+| 17 | C | MTK-03 | Luas Persegi Panjang | Kabupaten |
+| 18 | C | MTK-03 | Keliling Persegi | Kabupaten |
+| 19 | B | MTK-03 | Luas Segitiga | Kabupaten |
+| 20 | B | MTK-03 | Keliling Lingkaran | Kabupaten |
+| 21 | D | MTK-03 | Luas Lingkaran | Kabupaten |
+| 22 | C | MTK-03 | Luas Trapesium | Kabupaten |
+| 23 | B | MTK-03 | Jumlah Sudut Segitiga | Kabupaten |
+| 24 | D | MTK-03 | Luas Jajar Genjang | Kabupaten |
+| 25 | C | MTK-03 | Sifat Bangun Datar | Kabupaten |
+| 26 | C | MTK-04 | Volume Kubus | Kabupaten |
+| 27 | D | MTK-04 | Volume Balok | Kabupaten |
+| 28 | D | MTK-04 | Luas Permukaan Kubus | Kabupaten |
+| 29 | C | MTK-04 | Jaring-jaring Kubus | Kabupaten |
+| 30 | C | MTK-04 | Volume Balok Aplikatif | Kabupaten |
+| 31 | B | MTK-04 | Sifat Bangun Ruang | Kabupaten |
+| 32 | D | MTK-04 | Volume Prisma Segitiga | Kabupaten |
+| 33 | C | MTK-04 | Luas Permukaan Balok | Kabupaten |
+| 34 | C | MTK-05 | Konversi Panjang | Kabupaten |
+| 35 | C | MTK-05 | Konversi Berat | Kabupaten |
+| 36 | C | MTK-05 | Konversi Waktu | Kabupaten |
+| 37 | C | MTK-05 | Kecepatan | Kabupaten |
+| 38 | C | MTK-05 | Konversi Volume | Kabupaten |
+| 39 | B | MTK-05 | Operasi Waktu | Kabupaten |
+| 40 | C | MTK-05 | Konversi Luas | Kabupaten |
+| 41 | C | MTK-05 | Jarak Waktu Kecepatan | Kabupaten |
+| 42 | B | MTK-06 | Untung Rugi | Kabupaten |
+| 43 | B | MTK-06 | Diskon | Kabupaten |
+| 44 | C | MTK-06 | Perbandingan | Kabupaten |
+| 45 | B | MTK-06 | Skala | Kabupaten |
+| 46 | C | MTK-06 | Persentase Untung | Kabupaten |
+| 47 | C | MTK-06 | Perbandingan Senilai | Kabupaten |
+| 48 | C | MTK-06 | Diskon Aplikatif | Kabupaten |
+| 49 | C | MTK-06 | Harga Beli Total | Kabupaten |
+| 50 | B | MTK-07 | Mean (Rata-rata) | Kabupaten |
+| 51 | C | MTK-07 | Modus | Kabupaten |
+| 52 | B | MTK-07 | Median | Kabupaten |
+| 53 | B | MTK-07 | Jangkauan | Kabupaten |
+| 54 | D | MTK-07 | Diagram Batang | Kabupaten |
+| 55 | D | MTK-07 | Peluang Sederhana | Kabupaten |
+| 56 | B | MTK-07 | Mean Aplikatif | Kabupaten |
+| 57 | B | MTK-07 | Membaca Diagram Lingkaran | Kabupaten |
+| 58 | C | MTK-08 | Pola Bilangan | Kabupaten |
+| 59 | D | MTK-08 | Pola Bilangan Geometri | Kabupaten |
+| 60 | B | MTK-08 | Persamaan Sederhana | Kabupaten |
+| 61 | B | MTK-08 | Pola Gambar | Kabupaten |
+| 62 | C | MTK-08 | Soal Logika | Kabupaten |
+| 63 | B | MTK-08 | Suku Ke-n | Kabupaten |
+| 64 | C | MTK-08 | Persamaan Aplikatif | Kabupaten |
+| 65 | C | MTK-08 | Pola Khusus | Kabupaten |
+| 66 | B | IPA-01 | Klasifikasi Hewan | Kabupaten |
+| 67 | B | IPA-01 | Adaptasi Tumbuhan | Kabupaten |
+| 68 | B | IPA-01 | Rantai Makanan | Kabupaten |
+| 69 | B | IPA-01 | Metamorfosis | Kabupaten |
+| 70 | A | IPA-01 | Simbiosis | Kabupaten |
+| 71 | C | IPA-01 | Reproduksi Tumbuhan | Kabupaten |
+| 72 | B | IPA-01 | Ekosistem | Kabupaten |
+| 73 | C | IPA-02 | Sistem Pencernaan | Kabupaten |
+| 74 | D | IPA-02 | Sistem Pernapasan | Kabupaten |
+| 75 | B | IPA-02 | Sistem Peredaran Darah | Kabupaten |
+| 76 | D | IPA-02 | Sistem Indera | Kabupaten |
+| 77 | A | IPA-02 | Gizi Seimbang | Kabupaten |
+| 78 | C | IPA-02 | Sistem Rangka | Kabupaten |
+| 79 | C | IPA-02 | Kebersihan Diri | Kabupaten |
+| 80 | C | IPA-03 | Jenis Gaya | Kabupaten |
+| 81 | C | IPA-03 | Pengaruh Gaya | Kabupaten |
+| 82 | C | IPA-03 | Bentuk Energi | Kabupaten |
+| 83 | B | IPA-03 | Perubahan Energi | Kabupaten |
+| 84 | A | IPA-03 | Gerak Benda | Kabupaten |
+| 85 | C | IPA-03 | Gaya Gesek | Kabupaten |
+| 86 | C | IPA-03 | Sumber Energi Alternatif | Kabupaten |
+| 87 | B | IPA-04 | Sifat Cahaya | Kabupaten |
+| 88 | B | IPA-04 | Sumber Bunyi | Kabupaten |
+| 89 | B | IPA-04 | Perpindahan Panas | Kabupaten |
+| 90 | B | IPA-04 | Sifat Zat (Wujud) | Kabupaten |
+| 91 | C | IPA-04 | Cermin | Kabupaten |
+| 92 | A | IPA-04 | Cepat Rambat Bunyi | Kabupaten |
+| 93 | B | IPA-04 | Sifat Zat | Kabupaten |
+| 94 | B | IPA-05 | Rotasi Bumi | Kabupaten |
+| 95 | B | IPA-05 | Tata Surya | Kabupaten |
+| 96 | B | IPA-05 | Daur Air | Kabupaten |
+| 97 | C | IPA-05 | Sumber Daya Alam | Kabupaten |
+| 98 | C | IPA-05 | Pelestarian Lingkungan | Kabupaten |
+| 99 | B | IPA-05 | Cuaca dan Iklim | Kabupaten |
+| 100 | C | IPA-05 | Lapisan Bumi | Kabupaten |
+
+---
+
+## Refleksi Siswa
+
+Selamat! Kamu telah menyelesaikan 100 soal komprehensif tingkat Kabupaten. Sekarang waktunya merefleksi: hitung jumlah jawaban benarmu per kode bab (MTK-01 sampai IPA-05). Bab dengan benar di bawah 60% adalah bab yang perlu kamu pelajari ulang minggu ini — buka kembali pembahasan soal-soal yang salah dan tulis ulang langkah penyelesaiannya di buku catatan.
+
+Untuk soal MTK, biasakan **menghitung ulang** dengan cara berbeda agar yakin. Untuk soal IPA, perkuat **hafalan kata kunci** (misal: termo=suhu, konduksi=padat, mencair=padat→cair). Jangan hanya menghafal kunci jawaban — pahami pembahasan A/B/C/D agar tahu mengapa pilihan lain salah; di KSN-K sering muncul jebakan serupa.
+
+Target naik tingkat: setelah lancar dengan paket Kabupaten ini (skor ≥ 85), lanjut ke paket tingkat Provinsi yang lebih banyak menuntut C3–C4 (analisis dan aplikasi multi-langkah). Tetap semangat — keajaiban belajar terjadi saat kamu mau mengulang soal yang dulu salah!
+
+---

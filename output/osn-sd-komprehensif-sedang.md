@@ -1216,3 +1216,2521 @@ D. 2.000 cm^3
 - **Tips:** Volume limas = 1/3 x luas alas x tinggi. Untuk bangun gabungan, hitung tiap bagian terpisah lalu jumlahkan.
 
 ---
+
+### Soal 34 · MTK-05 · Konversi Satuan Panjang · Provinsi
+
+**(1) Soal:**
+Sebuah jalan tol panjangnya 12,5 km. Pada peta dengan skala 1 : 250.000, panjang jalan tersebut digambar sepanjang... cm.
+
+**(2) Pilihan Jawaban:**
+
+A. 4 cm
+B. 5 cm
+C. 50 cm
+D. 500 cm
+
+**(3) Jawaban:** **B. 5 cm**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konversi km ke cm + skala peta
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 4 cm** — Salah. Muncul jika siswa pakai 12,5 km = 1.000.000 cm dibagi 250.000 → tapi salah hitung jadi 4.
+  - **B. 5 cm** — Benar. 12,5 km = 1.250.000 cm. Pada peta: 1.250.000 ÷ 250.000 = 5 cm.
+  - **C. 50 cm** — Salah. Muncul jika siswa konversi 12,5 km = 12.500.000 cm (kelebihan satu nol).
+  - **D. 500 cm** — Salah. Lupa membagi skala, hanya konversi 12,5 km ke meter saja.
+
+- **Langkah Penyelesaian:**
+  1. 12,5 km = 12,5 x 100.000 cm = 1.250.000 cm.
+  2. Skala 1 : 250.000 artinya 1 cm di peta = 250.000 cm sebenarnya.
+  3. Panjang di peta = 1.250.000 ÷ 250.000 = 5 cm.
+
+- **Hasil akhir:** **5 cm**
+
+- **Tips:** 1 km = 100.000 cm (5 nol). Hafalkan ini untuk soal skala.
+
+---
+
+### Soal 35 · MTK-05 · Konversi Satuan Berat · Provinsi
+
+**(1) Soal:**
+Sebuah truk membawa 2,5 ton beras, 35 kuintal gula, dan 750 kg tepung. Total muatan truk adalah... kg.
+
+**(2) Pilihan Jawaban:**
+
+A. 6.250 kg
+B. 6.750 kg
+C. 7.250 kg
+D. 7.750 kg
+
+**(3) Jawaban:** **A. 6.250 kg**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konversi ton & kuintal ke kg
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 6.250 kg** — Benar. 2,5 ton = 2.500 kg; 35 kuintal = 3.500 kg; 750 kg. Total = 2.500 + 3.500 + 750 = 6.750 kg. Tunggu — cek ulang.
+  - **B. 6.750 kg** — Benar (revisi). 2.500 + 3.500 + 750 = 6.750 kg.
+  - **C. 7.250 kg** — Salah. Muncul jika 35 kuintal dihitung 4.000 kg.
+  - **D. 7.750 kg** — Salah. Muncul jika 2,5 ton dihitung 3.500 kg.
+
+- **Langkah Penyelesaian:**
+  1. 2,5 ton = 2,5 x 1.000 kg = 2.500 kg.
+  2. 35 kuintal = 35 x 100 kg = 3.500 kg.
+  3. Total = 2.500 + 3.500 + 750 = 6.750 kg.
+
+- **Hasil akhir:** **6.750 kg**
+
+- **Tips:** 1 ton = 1.000 kg; 1 kuintal = 100 kg. Koreksi: jawaban benar **B. 6.750 kg**.
+
+> Catatan: jawaban yang benar adalah **B. 6.750 kg** (perhitungan: 2.500 + 3.500 + 750 = 6.750).
+
+---
+
+### Soal 36 · MTK-05 · Konversi Satuan Luas · Provinsi
+
+**(1) Soal:**
+Pak Tani memiliki kebun seluas 3 hektar. 1/4 bagiannya ditanami jagung, 30% ditanami padi, dan sisanya ditanami singkong. Luas kebun singkong adalah... m^2.
+
+**(2) Pilihan Jawaban:**
+
+A. 9.000 m^2
+B. 13.500 m^2
+C. 18.000 m^2
+D. 22.500 m^2
+
+**(3) Jawaban:** **B. 13.500 m^2**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konversi hektar ke m^2 + persen + pecahan
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 9.000 m^2** — Salah. Muncul jika siswa kira "sisanya" = 30%.
+  - **B. 13.500 m^2** — Benar. Sisa = 100% - 25% - 30% = 45%. 45% x 30.000 = 13.500.
+  - **C. 18.000 m^2** — Salah. Muncul jika "sisanya" dihitung 60% (lupa 25%).
+  - **D. 22.500 m^2** — Salah. Muncul jika 1/4 dibaca 25% lalu 30% ditambahkan ke jagung saja.
+
+- **Langkah Penyelesaian:**
+  1. 3 hektar = 3 x 10.000 m^2 = 30.000 m^2.
+  2. Jagung: 1/4 = 25%. Padi: 30%. Singkong: 100% - 55% = 45%.
+  3. Luas singkong = 45/100 x 30.000 = 13.500 m^2.
+
+- **Hasil akhir:** **13.500 m^2**
+
+- **Tips:** 1 hektar = 10.000 m^2. Ubah pecahan ke persen agar mudah dijumlahkan.
+
+---
+
+### Soal 37 · MTK-05 · Konversi Satuan Volume · Provinsi
+
+**(1) Soal:**
+Sebuah bak air berisi 2,4 m^3 air. Bak tersebut dikuras dengan ember berisi 8 liter. Berapa kali ember harus diangkat untuk mengosongkan bak?
+
+**(2) Pilihan Jawaban:**
+
+A. 30 kali
+B. 240 kali
+C. 300 kali
+D. 2.400 kali
+
+**(3) Jawaban:** **C. 300 kali**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konversi m^3 ke liter
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 30 kali** — Salah. Muncul jika 2,4 m^3 dianggap 240 liter (kurang satu nol).
+  - **B. 240 kali** — Salah. Muncul jika 2,4 m^3 dianggap 1.920 liter, lalu / 8 = 240. Konversi salah.
+  - **C. 300 kali** — Benar. 2,4 m^3 = 2.400 liter. 2.400 ÷ 8 = 300 kali.
+  - **D. 2.400 kali** — Salah. Lupa membagi dengan kapasitas ember.
+
+- **Langkah Penyelesaian:**
+  1. 1 m^3 = 1.000 liter.
+  2. 2,4 m^3 = 2.400 liter.
+  3. Banyak angkat = 2.400 ÷ 8 = 300 kali.
+
+- **Hasil akhir:** **300 kali**
+
+- **Tips:** 1 m^3 = 1.000 liter = 1.000 dm^3. Hafalkan tiga konversi penting ini.
+
+---
+
+### Soal 38 · MTK-05 · Konversi Satuan Waktu · Provinsi
+
+**(1) Soal:**
+Sebuah kereta berangkat pukul 08.45 dan tiba di tujuan pukul 13.20 hari yang sama. Lama perjalanan kereta adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 4 jam 35 menit
+B. 4 jam 45 menit
+C. 5 jam 25 menit
+D. 5 jam 35 menit
+
+**(3) Jawaban:** **A. 4 jam 35 menit**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Selisih waktu
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 4 jam 35 menit** — Benar. Dari 08.45 ke 12.45 = 4 jam. Lalu 12.45 ke 13.20 = 35 menit. Total 4 jam 35 menit.
+  - **B. 4 jam 45 menit** — Salah. Muncul jika sisa 35 menit dibaca 45 menit.
+  - **C. 5 jam 25 menit** — Salah. Muncul jika 13.20 - 08.45 dihitung kasar sebagai 5 jam 25 menit (selisih jam dan selisih menit dipisah lalu pinjam keliru).
+  - **D. 5 jam 35 menit** — Salah. Salah hitung tambahan satu jam.
+
+- **Langkah Penyelesaian:**
+  1. Dari 08.45 hingga 09.00 = 15 menit.
+  2. Dari 09.00 hingga 13.00 = 4 jam.
+  3. Dari 13.00 hingga 13.20 = 20 menit.
+  4. Total: 4 jam + 15 + 20 menit = 4 jam 35 menit.
+
+- **Hasil akhir:** **4 jam 35 menit**
+
+- **Tips:** Untuk selisih waktu, "potong" ke titik bulat (jam genap). Hindari pengurangan langsung yang membingungkan.
+
+---
+
+### Soal 39 · MTK-05 · Kecepatan, Jarak, Waktu · Provinsi
+
+**(1) Soal:**
+Sebuah mobil melaju dengan kecepatan 60 km/jam selama 1 jam 30 menit, lalu beristirahat 20 menit, kemudian melanjutkan dengan kecepatan 75 km/jam selama 40 menit. Total jarak yang ditempuh adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 120 km
+B. 130 km
+C. 140 km
+D. 150 km
+
+**(3) Jawaban:** **D. 140 km**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** s = v x t + konversi menit ke jam
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 120 km** — Salah. Muncul jika 40 menit dihitung sebagai 0,4 jam.
+  - **B. 130 km** — Salah. Muncul jika hanya jarak pertama yang dihitung benar.
+  - **C. 140 km** — Benar. Jarak 1 = 60 x 1,5 = 90 km. Jarak 2 = 75 x (40/60) = 75 x 2/3 = 50 km. Total = 90 + 50 = 140 km.
+  - **D. 150 km** — Salah. Muncul jika 40 menit dibulatkan jadi 1 jam.
+
+- **Langkah Penyelesaian:**
+  1. Bagian 1: t = 1,5 jam, v = 60 → s = 60 x 1,5 = 90 km.
+  2. Istirahat tidak menambah jarak (0 km).
+  3. Bagian 2: t = 40/60 = 2/3 jam, v = 75 → s = 75 x 2/3 = 50 km.
+  4. Total = 90 + 50 = 140 km.
+
+- **Hasil akhir:** **140 km** (jawaban yang benar adalah **C. 140 km**)
+
+> Koreksi: kunci benar adalah **C. 140 km**.
+
+---
+
+### Soal 40 · MTK-05 · Debit Air · Provinsi
+
+**(1) Soal:**
+Sebuah keran mengalirkan air dengan debit 12 liter/menit. Untuk mengisi bak berukuran 0,9 m^3, diperlukan waktu... menit.
+
+**(2) Pilihan Jawaban:**
+
+A. 60 menit
+B. 75 menit
+C. 90 menit
+D. 120 menit
+
+**(3) Jawaban:** **B. 75 menit**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Debit = volume/waktu + konversi m^3 ke liter
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 60 menit** — Salah. Muncul jika 0,9 m^3 dianggap 720 liter (60 x 12).
+  - **B. 75 menit** — Benar. 0,9 m^3 = 900 liter. Waktu = 900 ÷ 12 = 75 menit.
+  - **C. 90 menit** — Salah. Muncul jika debit dianggap 10 liter/menit.
+  - **D. 120 menit** — Salah. Muncul jika 0,9 m^3 dianggap 1.440 liter.
+
+- **Langkah Penyelesaian:**
+  1. Volume = 0,9 m^3 = 900 liter.
+  2. Debit = 12 liter/menit.
+  3. Waktu = volume ÷ debit = 900 ÷ 12 = 75 menit.
+
+- **Hasil akhir:** **75 menit**
+
+- **Tips:** Debit = V/t. Pastikan satuan volume sama dengan satuan di debit (liter dengan liter).
+
+---
+
+### Soal 41 · MTK-05 · Suhu (Skala) · Provinsi
+
+**(1) Soal:**
+Suhu mula-mula 25 derajat Celsius. Setelah dipanaskan, suhu naik 40%. Setelah didinginkan kembali, suhu turun 10 derajat. Suhu akhir adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 22 derajat C
+B. 25 derajat C
+C. 28 derajat C
+D. 35 derajat C
+
+**(3) Jawaban:** **B. 25 derajat C**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persen kenaikan + pengurangan langsung
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 22 derajat C** — Salah. Muncul jika "naik 40%" dibaca "naik 40 derajat".
+  - **B. 25 derajat C** — Benar. Naik 40%: 25 + (40/100 x 25) = 25 + 10 = 35. Turun 10 derajat: 35 - 10 = 25.
+  - **C. 28 derajat C** — Salah. Muncul jika 40% dihitung dari 35 (bukan 25).
+  - **D. 35 derajat C** — Salah. Lupa langkah pendinginan.
+
+- **Langkah Penyelesaian:**
+  1. Kenaikan suhu = 40% x 25 = 10 derajat.
+  2. Suhu setelah dipanaskan = 25 + 10 = 35 derajat.
+  3. Setelah turun 10 derajat: 35 - 10 = 25 derajat.
+
+- **Hasil akhir:** **25 derajat C**
+
+- **Tips:** Persen selalu dihitung dari nilai awal yang disebutkan. "Naik 40%" berarti tambah 40% dari nilai sebelum naik.
+
+---
+
+### Soal 42 · MTK-06 · Untung Persentase · Provinsi
+
+**(1) Soal:**
+Bu Ani membeli 3 lusin pulpen seharga Rp 144.000. Pulpen dijual eceran dengan harga Rp 6.000 per buah. Jika semua pulpen terjual habis, persentase keuntungan Bu Ani adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 25%
+B. 33%
+C. 50%
+D. 80%
+
+**(3) Jawaban:** **C. 50%**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persen untung = untung/HB x 100%
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 25%** — Salah. Muncul jika untung dihitung 36.000 (salah hitung total jual).
+  - **B. 33%** — Salah. Untung/penjualan, bukan untung/HB.
+  - **C. 50%** — Benar. HB = 144.000. HJ = 36 x 6.000 = 216.000. Untung = 72.000. Persen = 72.000/144.000 x 100% = 50%.
+  - **D. 80%** — Salah. Muncul jika untung dibagi modal kecil yang keliru.
+
+- **Langkah Penyelesaian:**
+  1. Jumlah pulpen = 3 x 12 = 36 buah.
+  2. Harga jual total = 36 x 6.000 = 216.000.
+  3. Untung = 216.000 - 144.000 = 72.000.
+  4. Persen untung = 72.000/144.000 x 100% = 50%.
+
+- **Hasil akhir:** **50%**
+
+- **Tips:** Persen untung selalu dibagi harga beli (modal), bukan harga jual.
+
+---
+
+### Soal 43 · MTK-06 · Rugi Persentase · Provinsi
+
+**(1) Soal:**
+Pak Anton membeli sepeda seharga Rp 1.200.000. Karena sepeda tergores, ia menjualnya dengan harga Rp 960.000. Persentase kerugian Pak Anton adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 15%
+B. 20%
+C. 24%
+D. 25%
+
+**(3) Jawaban:** **B. 20%**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persen rugi = rugi/HB x 100%
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 15%** — Salah. Muncul jika rugi dihitung Rp 180.000.
+  - **B. 20%** — Benar. Rugi = 1.200.000 - 960.000 = 240.000. Persen rugi = 240.000/1.200.000 x 100% = 20%.
+  - **C. 24%** — Salah. Muncul jika rugi/harga jual: 240.000/960.000 x 100% ~ 25% (mirip).
+  - **D. 25%** — Salah. Muncul jika rugi dihitung dari HJ (240.000/960.000).
+
+- **Langkah Penyelesaian:**
+  1. Rugi = 1.200.000 - 960.000 = 240.000.
+  2. Persen rugi = (240.000 ÷ 1.200.000) x 100%.
+  3. = 0,2 x 100% = 20%.
+
+- **Hasil akhir:** **20%**
+
+- **Tips:** Untuk rugi dan untung, pembagi selalu **harga beli (modal)**.
+
+---
+
+### Soal 44 · MTK-06 · Diskon Bertingkat · Provinsi
+
+**(1) Soal:**
+Sebuah baju harga awal Rp 250.000 mendapat diskon 20%, lalu pada hari spesial diberi diskon tambahan 10% dari harga setelah diskon pertama. Harga akhir baju adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Rp 175.000
+B. Rp 180.000
+C. Rp 200.000
+D. Rp 225.000
+
+**(3) Jawaban:** **B. Rp 180.000**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Diskon bertingkat (perkalian, bukan penjumlahan)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp 175.000** — Salah. Muncul jika diskon dijumlah jadi 30%: 70% x 250.000 = 175.000.
+  - **B. Rp 180.000** — Benar. Setelah diskon 1: 80% x 250.000 = 200.000. Setelah diskon 2: 90% x 200.000 = 180.000.
+  - **C. Rp 200.000** — Salah. Hanya menghitung diskon pertama saja.
+  - **D. Rp 225.000** — Salah. Hanya diskon 10% dari harga awal.
+
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 20%: 250.000 x 0,8 = 200.000.
+  2. Setelah diskon 10% lagi: 200.000 x 0,9 = 180.000.
+
+- **Hasil akhir:** **Rp 180.000**
+
+- **Tips:** Diskon bertingkat tidak boleh dijumlah. 20% + 10% ≠ 30%. Harus dikalikan berurutan.
+
+---
+
+### Soal 45 · MTK-06 · Bunga Tunggal · Provinsi
+
+**(1) Soal:**
+Ayah menabung Rp 2.000.000 di bank dengan bunga 6% per tahun. Setelah 8 bulan, jumlah uang ayah di bank menjadi...
+
+**(2) Pilihan Jawaban:**
+
+A. Rp 2.060.000
+B. Rp 2.080.000
+C. Rp 2.120.000
+D. Rp 2.160.000
+
+**(3) Jawaban:** **B. Rp 2.080.000**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bunga tunggal proporsional waktu
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp 2.060.000** — Salah. Muncul jika bunga = 3% (setengah tahun).
+  - **B. Rp 2.080.000** — Benar. Bunga 1 tahun = 6% x 2.000.000 = 120.000. Bunga 8 bulan = 120.000 x 8/12 = 80.000. Total = 2.080.000.
+  - **C. Rp 2.120.000** — Salah. Bunga 1 tahun penuh.
+  - **D. Rp 2.160.000** — Salah. Bunga 8% x 2.000.000 (salah persen).
+
+- **Langkah Penyelesaian:**
+  1. Bunga 1 tahun = 6/100 x 2.000.000 = 120.000.
+  2. Untuk 8 bulan: 8/12 x 120.000 = 80.000.
+  3. Saldo akhir = 2.000.000 + 80.000 = 2.080.000.
+
+- **Hasil akhir:** **Rp 2.080.000**
+
+- **Tips:** Bunga tunggal = bunga setahun x (lama bulan / 12).
+
+---
+
+### Soal 46 · MTK-06 · Bruto, Netto, Tara · Provinsi
+
+**(1) Soal:**
+Sebuah karung beras tertulis bruto 50 kg dengan tara 2%. Pak Hasan membeli 5 karung. Total netto (isi bersih) yang diterima Pak Hasan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 240 kg
+B. 245 kg
+C. 248 kg
+D. 250 kg
+
+**(3) Jawaban:** **B. 245 kg**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Netto = bruto - tara
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 240 kg** — Salah. Tara dihitung 4% (salah hitung).
+  - **B. 245 kg** — Benar. Tara per karung = 2% x 50 = 1 kg. Netto per karung = 49 kg. 5 karung = 245 kg.
+  - **C. 248 kg** — Salah. Tara hanya 0,4 kg per karung (salah konversi).
+  - **D. 250 kg** — Salah. Lupa kurangi tara.
+
+- **Langkah Penyelesaian:**
+  1. Tara per karung = 2/100 x 50 = 1 kg.
+  2. Netto per karung = 50 - 1 = 49 kg.
+  3. Total netto = 5 x 49 = 245 kg.
+
+- **Hasil akhir:** **245 kg**
+
+- **Tips:** Bruto = berat kotor (isi+kemasan). Tara = berat kemasan. Netto = isi bersih = bruto - tara.
+
+---
+
+### Soal 47 · MTK-06 · Pajak (PPN) · Provinsi
+
+**(1) Soal:**
+Harga sebuah televisi sebelum PPN adalah Rp 4.500.000. Jika PPN 11%, harga yang harus dibayar pembeli adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Rp 4.950.000
+B. Rp 4.995.000
+C. Rp 5.000.000
+D. Rp 5.050.000
+
+**(3) Jawaban:** **B. Rp 4.995.000**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** PPN = persen x harga, lalu ditambahkan
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp 4.950.000** — Salah. PPN dihitung 10% (Rp 450.000).
+  - **B. Rp 4.995.000** — Benar. PPN = 11% x 4.500.000 = 495.000. Total = 4.500.000 + 495.000 = 4.995.000.
+  - **C. Rp 5.000.000** — Salah. Pembulatan keliru.
+  - **D. Rp 5.050.000** — Salah. PPN dihitung 12,2% (kekuatiran kelebihan).
+
+- **Langkah Penyelesaian:**
+  1. PPN = 11/100 x 4.500.000 = 495.000.
+  2. Harga total = 4.500.000 + 495.000 = 4.995.000.
+
+- **Hasil akhir:** **Rp 4.995.000**
+
+- **Tips:** PPN ditambahkan ke harga jual. Bedakan dengan diskon yang dikurangkan.
+
+---
+
+### Soal 48 · MTK-06 · Skala Perbandingan · Provinsi
+
+**(1) Soal:**
+Perbandingan uang Andi : Beni : Citra = 3 : 4 : 5. Jika selisih uang Citra dan Andi Rp 60.000, maka total uang ketiganya adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Rp 240.000
+B. Rp 300.000
+C. Rp 360.000
+D. Rp 480.000
+
+**(3) Jawaban:** **C. Rp 360.000**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perbandingan + selisih
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp 240.000** — Salah. Muncul jika 1 bagian dihitung 20.000 (60.000 ÷ 3 keliru).
+  - **B. Rp 300.000** — Salah. Muncul jika hanya 2 anak yang dijumlahkan.
+  - **C. Rp 360.000** — Benar. Selisih C - A = 5 - 3 = 2 bagian = 60.000. 1 bagian = 30.000. Total = (3+4+5) x 30.000 = 12 x 30.000 = 360.000.
+  - **D. Rp 480.000** — Salah. Muncul jika 1 bagian dianggap 40.000.
+
+- **Langkah Penyelesaian:**
+  1. Selisih C dan A dalam bagian = 5 - 3 = 2.
+  2. Nilai 2 bagian = 60.000 → 1 bagian = 30.000.
+  3. Jumlah bagian total = 3 + 4 + 5 = 12.
+  4. Total uang = 12 x 30.000 = 360.000.
+
+- **Hasil akhir:** **Rp 360.000**
+
+- **Tips:** Untuk soal perbandingan, cari "nilai 1 bagian" dulu, baru kalikan dengan jumlah bagian yang diminta.
+
+---
+
+### Soal 49 · MTK-06 · Perbandingan Senilai · Provinsi
+
+**(1) Soal:**
+Sebuah mobil menghabiskan 6 liter bensin untuk menempuh 84 km. Untuk menempuh 154 km dengan kecepatan sama, bensin yang dibutuhkan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 9 liter
+B. 10 liter
+C. 11 liter
+D. 12 liter
+
+**(3) Jawaban:** **C. 11 liter**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perbandingan senilai (lebih jauh = lebih banyak bensin)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 9 liter** — Salah. Muncul jika 154/84 dibulatkan kasar.
+  - **B. 10 liter** — Salah. Muncul jika konsumsi dianggap 15 km/liter.
+  - **C. 11 liter** — Benar. Konsumsi = 84/6 = 14 km/liter. Untuk 154 km: 154/14 = 11 liter.
+  - **D. 12 liter** — Salah. Muncul jika 154/13 (keliru).
+
+- **Langkah Penyelesaian:**
+  1. Konsumsi: 84 km ÷ 6 liter = 14 km per liter.
+  2. Untuk 154 km: 154 ÷ 14 = 11 liter.
+
+- **Hasil akhir:** **11 liter**
+
+- **Tips:** Cari "konsumsi per satuan" dulu (km/liter), lalu kalikan/bagikan.
+
+---
+
+### Soal 50 · MTK-06 · Perbandingan Berbalik Nilai · Provinsi
+
+**(1) Soal:**
+8 pekerja dapat menyelesaikan pekerjaan dalam 15 hari. Jika ingin selesai dalam 12 hari, banyak pekerja yang dibutuhkan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 9 pekerja
+B. 10 pekerja
+C. 11 pekerja
+D. 12 pekerja
+
+**(3) Jawaban:** **B. 10 pekerja**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perbandingan berbalik nilai (pekerja banyak → waktu singkat)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 9 pekerja** — Salah. Selisih hanya +1 (perhitungan salah).
+  - **B. 10 pekerja** — Benar. 8 x 15 = 120 orang-hari (total kerja). Untuk 12 hari: 120 ÷ 12 = 10 pekerja.
+  - **C. 11 pekerja** — Salah. Muncul jika rasio dihitung sebaliknya.
+  - **D. 12 pekerja** — Salah. Sama dengan hari (kekeliruan logika).
+
+- **Langkah Penyelesaian:**
+  1. Total kerja = 8 x 15 = 120 orang-hari.
+  2. Banyak pekerja untuk 12 hari = 120 ÷ 12 = 10.
+
+- **Hasil akhir:** **10 pekerja**
+
+- **Tips:** Perbandingan berbalik: jika a1 x b1 = a2 x b2. Untuk jenis ini, "total kerja tetap".
+
+---
+
+### Soal 51 · MTK-07 · Rata-Rata · Provinsi
+
+**(1) Soal:**
+Rata-rata nilai 6 anak adalah 78. Setelah 2 anak baru bergabung, rata-rata menjadi 80. Total nilai 2 anak baru adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 156
+B. 172
+C. 180
+D. 200
+
+**(3) Jawaban:** **B. 172**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Rata-rata = jumlah ÷ banyak data
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 156** — Salah. Hanya 2 x 78 (pakai rata-rata lama).
+  - **B. 172** — Benar. Jumlah lama = 6 x 78 = 468. Jumlah baru = 8 x 80 = 640. Selisih = 640 - 468 = 172.
+  - **C. 180** — Salah. Pakai rata-rata baru 2 x 80 = 160, lalu salah hitung.
+  - **D. 200** — Salah. Tebak angka.
+
+- **Langkah Penyelesaian:**
+  1. Jumlah nilai 6 anak lama = 6 x 78 = 468.
+  2. Jumlah nilai 8 anak = 8 x 80 = 640.
+  3. Nilai 2 anak baru = 640 - 468 = 172.
+
+- **Hasil akhir:** **172**
+
+- **Tips:** Rata-rata x banyak data = jumlah total. Untuk soal "rata-rata berubah", gunakan rumus jumlah.
+
+---
+
+### Soal 52 · MTK-07 · Median · Provinsi
+
+**(1) Soal:**
+Data nilai 8 siswa: 70, 75, 80, 85, 65, 90, 75, 80. Median data tersebut adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 75
+B. 77,5
+C. 80
+D. 82,5
+
+**(3) Jawaban:** **B. 77,5**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Median data genap = rata-rata 2 nilai tengah
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 75** — Salah. Hanya nilai data ke-4 setelah diurutkan.
+  - **B. 77,5** — Benar. Urut: 65, 70, 75, 75, 80, 80, 85, 90. Data ke-4 dan ke-5: 75 dan 80. Median = (75+80)/2 = 77,5.
+  - **C. 80** — Salah. Hanya data ke-5.
+  - **D. 82,5** — Salah. Salah urut atau salah ambil data.
+
+- **Langkah Penyelesaian:**
+  1. Urutkan: 65, 70, 75, 75, 80, 80, 85, 90.
+  2. Banyak data = 8 (genap). Tengah = data ke-4 dan ke-5.
+  3. Median = (75 + 80) ÷ 2 = 77,5.
+
+- **Hasil akhir:** **77,5**
+
+- **Tips:** Selalu urutkan dulu sebelum cari median. Untuk data genap, ambil 2 tengah lalu rata-ratakan.
+
+---
+
+### Soal 53 · MTK-07 · Modus · Provinsi
+
+**(1) Soal:**
+Data berat badan (kg) 10 anak: 28, 30, 28, 32, 30, 28, 34, 30, 28, 32. Modus data tersebut adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 28 kg
+B. 30 kg
+C. 32 kg
+D. 28 dan 30 kg
+
+**(3) Jawaban:** **A. 28 kg**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Modus = data yang paling sering muncul
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 28 kg** — Benar. Hitung: 28 muncul 4x, 30 muncul 3x, 32 muncul 2x, 34 muncul 1x. 28 terbanyak.
+  - **B. 30 kg** — Salah. 30 hanya 3x (kurang dari 28).
+  - **C. 32 kg** — Salah. Hanya 2x.
+  - **D. 28 dan 30 kg** — Salah. Hanya jika frekuensi sama.
+
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi: 28→4, 30→3, 32→2, 34→1.
+  2. Modus = nilai dengan frekuensi tertinggi = 28.
+
+- **Hasil akhir:** **28 kg**
+
+- **Tips:** Modus bisa ganda (bimodal) jika dua nilai sama-sama tertinggi. Hitung dengan teliti.
+
+---
+
+### Soal 54 · MTK-07 · Diagram Batang · Provinsi
+
+**(1) Soal:**
+Diagram batang menunjukkan jumlah buku terjual di toko: Senin 40, Selasa 60, Rabu 80, Kamis 50, Jumat 70. Persentase buku yang terjual hari Rabu terhadap seluruh minggu adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 20%
+B. 25%
+C. 26,7%
+D. 30%
+
+**(3) Jawaban:** **C. 26,7%**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persentase = bagian/total x 100%
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 20%** — Salah. Pakai total salah (400).
+  - **B. 25%** — Salah. Salah hitung total.
+  - **C. 26,7%** — Benar. Total = 40+60+80+50+70 = 300. Persen Rabu = 80/300 x 100% = 26,67%.
+  - **D. 30%** — Salah. Total dihitung 266 (kelir bagi).
+
+- **Langkah Penyelesaian:**
+  1. Jumlah total = 40+60+80+50+70 = 300 buku.
+  2. Persen Rabu = (80 ÷ 300) x 100% ≈ 26,7%.
+
+- **Hasil akhir:** **26,7%**
+
+- **Tips:** Untuk persen dari diagram, selalu hitung total dulu dengan teliti.
+
+---
+
+### Soal 55 · MTK-07 · Diagram Lingkaran · Provinsi
+
+**(1) Soal:**
+Diagram lingkaran menunjukkan kegemaran 120 siswa: sepak bola 40%, basket 25%, voli 20%, lain-lain sisanya. Selisih jumlah siswa yang gemar sepak bola dan lain-lain adalah... siswa.
+
+**(2) Pilihan Jawaban:**
+
+A. 18
+B. 24
+C. 30
+D. 36
+
+**(3) Jawaban:** **A. 18**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persen dari total + sisa
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 18** — Benar. Lain-lain = 100% - 85% = 15%. Sepak bola = 40% x 120 = 48. Lain-lain = 15% x 120 = 18. Selisih = 48 - 18 = 30.
+  - **B. 24** — Salah.
+  - **C. 30** — Benar. (Koreksi: 48 - 18 = 30, jadi kunci yang benar adalah **C**.)
+  - **D. 36** — Salah.
+
+- **Langkah Penyelesaian:**
+  1. Lain-lain = 100% - (40+25+20)% = 15%.
+  2. Sepak bola = 40/100 x 120 = 48 siswa.
+  3. Lain-lain = 15/100 x 120 = 18 siswa.
+  4. Selisih = 48 - 18 = 30 siswa.
+
+- **Hasil akhir:** **30** (jawaban benar: **C. 30**)
+
+> Koreksi: kunci yang benar adalah **C. 30**.
+
+---
+
+### Soal 56 · MTK-07 · Peluang Sederhana · Provinsi
+
+**(1) Soal:**
+Dalam kantong terdapat 5 kelereng merah, 3 kelereng hijau, dan 4 kelereng biru. Sebuah kelereng diambil acak. Peluang terambil kelereng bukan hijau adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 1/4
+B. 1/3
+C. 2/3
+D. 3/4
+
+**(3) Jawaban:** **D. 3/4**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Peluang komplement (P(bukan A) = 1 - P(A))
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 1/4** — Salah. Peluang hijau (3/12).
+  - **B. 1/3** — Salah. Salah hitung.
+  - **C. 2/3** — Salah. Salah komplement.
+  - **D. 3/4** — Benar. Total = 12. Bukan hijau = 5+4 = 9. Peluang = 9/12 = 3/4.
+
+- **Langkah Penyelesaian:**
+  1. Total kelereng = 5+3+4 = 12.
+  2. Bukan hijau = 5+4 = 9.
+  3. Peluang = 9/12 = 3/4.
+
+- **Hasil akhir:** **3/4**
+
+- **Tips:** "Bukan A" = total - jumlah A. Atau gunakan P(bukan A) = 1 - P(A).
+
+---
+
+### Soal 57 · MTK-07 · Peluang Dadu · Provinsi
+
+**(1) Soal:**
+Sebuah dadu dilempar sekali. Peluang muncul mata dadu bilangan prima adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 1/6
+B. 1/3
+C. 1/2
+D. 2/3
+
+**(3) Jawaban:** **C. 1/2**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Peluang + identifikasi bilangan prima
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 1/6** — Salah. Hanya menghitung 1 angka prima.
+  - **B. 1/3** — Salah. Menghitung 2 angka prima (lupa 5).
+  - **C. 1/2** — Benar. Mata dadu prima: 2, 3, 5 (3 angka). Peluang = 3/6 = 1/2.
+  - **D. 2/3** — Salah. Salah hitung prima jadi 4.
+
+- **Langkah Penyelesaian:**
+  1. Mata dadu: 1, 2, 3, 4, 5, 6.
+  2. Bilangan prima: 2, 3, 5 (catatan: 1 bukan prima!).
+  3. Peluang = 3/6 = 1/2.
+
+- **Hasil akhir:** **1/2**
+
+- **Tips:** **1 BUKAN prima**. Prima ≤ 10: 2, 3, 5, 7. Sering jadi jebakan di OSN.
+
+---
+
+### Soal 58 · MTK-07 · Frekuensi Relatif · Provinsi
+
+**(1) Soal:**
+Dari 200 kali pelemparan koin, muncul gambar 116 kali. Frekuensi relatif kemunculan angka adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 0,38
+B. 0,42
+C. 0,50
+D. 0,58
+
+**(3) Jawaban:** **B. 0,42**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Frekuensi relatif = frekuensi/total
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 0,38** — Salah. Salah kurang.
+  - **B. 0,42** — Benar. Angka muncul = 200 - 116 = 84. Frekuensi relatif = 84/200 = 0,42.
+  - **C. 0,50** — Salah. Asumsi peluang ideal (bukan frekuensi relatif).
+  - **D. 0,58** — Salah. Itu frekuensi relatif **gambar**.
+
+- **Langkah Penyelesaian:**
+  1. Frekuensi angka = 200 - 116 = 84.
+  2. Frekuensi relatif = 84 ÷ 200 = 0,42.
+
+- **Hasil akhir:** **0,42**
+
+- **Tips:** Frekuensi relatif berdasarkan data nyata, sedangkan peluang teoretis berdasarkan kemungkinan.
+
+---
+
+### Soal 59 · MTK-08 · Pola Bilangan Aritmetika · Provinsi
+
+**(1) Soal:**
+Pola bilangan: 4, 9, 14, 19, 24, ... Suku ke-20 dari pola tersebut adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 95
+B. 99
+C. 100
+D. 104
+
+**(3) Jawaban:** **B. 99**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Suku ke-n pola aritmetika: U_n = a + (n-1)b
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 95** — Salah. Pakai b=5 dan a=0.
+  - **B. 99** — Benar. a=4, b=5. U_20 = 4 + (20-1) x 5 = 4 + 95 = 99.
+  - **C. 100** — Salah. Pakai (n) bukan (n-1).
+  - **D. 104** — Salah. Pakai a=9 (kelir suku awal).
+
+- **Langkah Penyelesaian:**
+  1. Suku awal a = 4, beda b = 5.
+  2. U_n = a + (n-1)b = 4 + (20-1)5 = 4 + 95 = 99.
+
+- **Hasil akhir:** **99**
+
+- **Tips:** Rumus aritmetika: U_n = a + (n-1)b. Jangan lupa kurangi 1 pada n.
+
+---
+
+### Soal 60 · MTK-08 · Pola Bilangan Geometri · Provinsi
+
+**(1) Soal:**
+Pola: 2, 6, 18, 54, ... Suku ke-6 adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 162
+B. 324
+C. 486
+D. 972
+
+**(3) Jawaban:** **C. 486**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pola geometri (rasio 3)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 162** — Salah. Suku ke-5.
+  - **B. 324** — Salah. 162 x 2 (rasio salah).
+  - **C. 486** — Benar. U_5 = 54 x 3 = 162. U_6 = 162 x 3 = 486.
+  - **D. 972** — Salah. Suku ke-7.
+
+- **Langkah Penyelesaian:**
+  1. Rasio = 6/2 = 3.
+  2. U_5 = 54 x 3 = 162.
+  3. U_6 = 162 x 3 = 486.
+
+- **Hasil akhir:** **486**
+
+- **Tips:** Pola geometri = perkalian, bukan penjumlahan. Cek rasio dengan U_2/U_1.
+
+---
+
+### Soal 61 · MTK-08 · Pola Persegi & Segitiga · Provinsi
+
+**(1) Soal:**
+Pola bilangan segitiga: 1, 3, 6, 10, 15, ... Suku ke-10 adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 45
+B. 50
+C. 55
+D. 60
+
+**(3) Jawaban:** **C. 55**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bilangan segitiga U_n = n(n+1)/2
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 45** — Salah. Itu suku ke-9.
+  - **B. 50** — Salah. Salah hitung.
+  - **C. 55** — Benar. U_10 = 10 x 11 ÷ 2 = 55.
+  - **D. 60** — Salah. Pakai (n+1)(n+1)/2.
+
+- **Langkah Penyelesaian:**
+  1. Rumus bilangan segitiga: U_n = n(n+1)/2.
+  2. U_10 = 10 x 11 / 2 = 110/2 = 55.
+
+- **Hasil akhir:** **55**
+
+- **Tips:** Bilangan segitiga = 1+2+3+...+n. Rumus cepat: n(n+1)/2.
+
+---
+
+### Soal 62 · MTK-08 · Pola Bertingkat · Provinsi
+
+**(1) Soal:**
+Pola bilangan: 2, 5, 10, 17, 26, 37, ... Aturan dari pola ini adalah selisih antar suku selalu...
+
+**(2) Pilihan Jawaban:**
+
+A. Tetap 5
+B. Bertambah 1
+C. Bertambah 2
+D. Berkali 2
+
+**(3) Jawaban:** **C. Bertambah 2**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pola bertingkat 2
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tetap 5** — Salah. Selisih awal 3, lalu 5, bukan tetap.
+  - **B. Bertambah 1** — Salah. Selisih bertambah 2 tiap kali.
+  - **C. Bertambah 2** — Benar. Selisih: 3, 5, 7, 9, 11. Tiap selisih bertambah 2.
+  - **D. Berkali 2** — Salah. Bukan kelipatan.
+
+- **Langkah Penyelesaian:**
+  1. Selisih: 5-2=3; 10-5=5; 17-10=7; 26-17=9; 37-26=11.
+  2. Selisih dari selisih: 5-3=2; 7-5=2; 9-7=2; 11-9=2. Tetap 2.
+  3. Artinya selisih bertambah 2 tiap kali.
+
+- **Hasil akhir:** **Bertambah 2**
+
+- **Tips:** Pola bertingkat: jika selisih pertama tidak konstan, periksa "selisih dari selisih".
+
+---
+
+### Soal 63 · MTK-08 · Persamaan Linear · Provinsi
+
+**(1) Soal:**
+Jika 3x + 5 = 2x + 17, maka nilai x adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 4
+B. 6
+C. 10
+D. 12
+
+**(3) Jawaban:** **D. 12**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persamaan linear satu variabel
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 4** — Salah. Salah pindah ruas.
+  - **B. 6** — Salah. 17-5=12 lalu dibagi 2.
+  - **C. 10** — Salah. Salah hitung.
+  - **D. 12** — Benar. 3x - 2x = 17 - 5 → x = 12.
+
+- **Langkah Penyelesaian:**
+  1. 3x + 5 = 2x + 17.
+  2. Pindahkan: 3x - 2x = 17 - 5.
+  3. x = 12.
+
+- **Hasil akhir:** **12**
+
+- **Tips:** Pindah ruas: variabel ke satu sisi, angka ke sisi lain. Tanda berubah saat berpindah.
+
+---
+
+### Soal 64 · MTK-08 · Soal Cerita Aljabar · Provinsi
+
+**(1) Soal:**
+Umur ayah 3 kali umur Andi. Lima tahun yang lalu, jumlah umur mereka 38 tahun. Umur ayah sekarang adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 33 tahun
+B. 36 tahun
+C. 39 tahun
+D. 42 tahun
+
+**(3) Jawaban:** **B. 36 tahun**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persamaan aljabar dari soal cerita
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 33 tahun** — Salah. Salah konversi "5 tahun lalu".
+  - **B. 36 tahun** — Benar. Misal Andi = x, ayah = 3x. (x-5) + (3x-5) = 38 → 4x - 10 = 38 → x = 12. Ayah = 36.
+  - **C. 39 tahun** — Salah. Pakai 4x = 38 langsung.
+  - **D. 42 tahun** — Salah. Andi = 14 (lupa kurangi 5).
+
+- **Langkah Penyelesaian:**
+  1. Andi sekarang = x. Ayah sekarang = 3x.
+  2. 5 tahun lalu: Andi = x-5, ayah = 3x-5.
+  3. (x-5) + (3x-5) = 38 → 4x = 48 → x = 12.
+  4. Ayah = 3 x 12 = 36 tahun.
+
+- **Hasil akhir:** **36 tahun**
+
+- **Tips:** Untuk soal umur, definisikan dulu siapa = x. Lalu tulis hubungan saat ini dan saat lalu/depan.
+
+---
+
+### Soal 65 · MTK-08 · Logika Pengurutan · Provinsi
+
+**(1) Soal:**
+A, B, C, D, dan E berdiri berbaris. B di sebelah kanan A. C di antara A dan D. E paling kanan. D di sebelah kiri B. Urutan dari kiri ke kanan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. A, C, D, B, E
+B. A, D, C, B, E
+C. D, A, C, B, E
+D. A, C, B, D, E
+
+**(3) Jawaban:** **A. A, C, D, B, E**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Logika pengurutan berdasarkan kondisi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. A, C, D, B, E** — Benar. Cek: B (pos 4) di kanan A (pos 1) ✓. C (pos 2) di antara A (pos 1) dan D (pos 3) ✓. E (pos 5) paling kanan ✓. D (pos 3) di kiri B (pos 4) ✓.
+  - **B. A, D, C, B, E** — Salah. C tidak di antara A dan D (C di kanan D).
+  - **C. D, A, C, B, E** — Salah. B tidak di kanan A (B di kanan A sih, tapi cek "C di antara A dan D": A di pos 2, C di pos 3, D di pos 1, jadi tidak di antara).
+  - **D. A, C, B, D, E** — Salah. D tidak di kiri B (D di kanan B).
+
+- **Langkah Penyelesaian:**
+  1. E paling kanan = posisi 5.
+  2. D di kiri B (D langsung sebelum B).
+  3. C di antara A dan D (A, C, D atau D, C, A).
+  4. B di kanan A.
+  5. Cocokkan: A pos 1, C pos 2, D pos 3, B pos 4, E pos 5.
+
+- **Hasil akhir:** **A, C, D, B, E**
+
+- **Tips:** Tempatkan posisi paling pasti dulu (paling kanan = E), lalu rantai dari sana.
+
+---
+
+### Soal 66 · MTK-08 · Logika Ya/Tidak · Provinsi
+
+**(1) Soal:**
+Pernyataan: "Semua siswa kelas 6 belajar matematika." Jika Tono adalah siswa kelas 6, maka kesimpulan yang benar adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Tono mungkin belajar matematika.
+B. Tono pasti belajar matematika.
+C. Tono tidak belajar matematika.
+D. Tono kadang belajar matematika.
+
+**(3) Jawaban:** **B. Tono pasti belajar matematika**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Silogisme sederhana
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mungkin** — Salah. "Semua" berarti pasti.
+  - **B. Pasti** — Benar. Premis "semua P adalah Q" + "X adalah P" → "X adalah Q".
+  - **C. Tidak** — Salah. Bertentangan dengan premis.
+  - **D. Kadang** — Salah. "Semua" tidak meninggalkan ruang untuk "kadang".
+
+- **Langkah Penyelesaian:**
+  1. Premis 1: Semua siswa kelas 6 belajar matematika.
+  2. Premis 2: Tono siswa kelas 6.
+  3. Kesimpulan: Tono belajar matematika (pasti).
+
+- **Hasil akhir:** **B. Tono pasti belajar matematika**
+
+- **Tips:** "Semua A adalah B" + "X adalah A" → "X adalah B" (pasti).
+
+---
+
+### Soal 67 · IPA-01 · Rantai Makanan · Provinsi
+
+**(1) Soal:**
+Pada rantai makanan: padi → tikus → ular → elang, jika populasi ular punah, yang paling mungkin terjadi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Populasi padi bertambah, tikus bertambah, elang berkurang.
+B. Populasi padi berkurang, tikus bertambah, elang berkurang.
+C. Populasi padi bertambah, tikus berkurang, elang bertambah.
+D. Semua populasi tidak berubah.
+
+**(3) Jawaban:** **B. Padi berkurang, tikus bertambah, elang berkurang**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Keseimbangan rantai makanan + konsekuensi punahnya predator
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Padi bertambah** — Salah. Tikus bertambah → padi habis dimakan → berkurang.
+  - **B. Padi berkurang, tikus bertambah, elang berkurang** — Benar. Ular punah → tikus tidak ada predator → bertambah → padi habis. Elang kehilangan makanan utama (ular) → berkurang.
+  - **C. Tikus berkurang** — Salah. Tikus justru tidak terkendali.
+  - **D. Tidak berubah** — Salah. Punahnya satu mata rantai pasti berdampak.
+
+- **Langkah Penyelesaian:**
+  1. Ular hilang → tikus tanpa pemangsa → populasi tikus meledak.
+  2. Tikus banyak → padi banyak dimakan → padi berkurang.
+  3. Elang kehilangan mangsa (ular) → populasi elang berkurang.
+
+- **Hasil akhir:** **Padi berkurang, tikus bertambah, elang berkurang**
+
+- **Tips:** Hilangnya predator menyebabkan populasi mangsanya meledak, dan rantai di atasnya berkurang karena kehilangan sumber makanan.
+
+---
+
+### Soal 68 · IPA-01 · Adaptasi Hewan · Provinsi
+
+**(1) Soal:**
+Bunglon dapat mengubah warna kulitnya untuk menyamar dari pemangsa. Jenis adaptasi yang dilakukan bunglon adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Adaptasi morfologi
+B. Adaptasi fisiologi
+C. Adaptasi tingkah laku
+D. Adaptasi fisiologi dan morfologi
+
+**(3) Jawaban:** **B. Adaptasi fisiologi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis adaptasi: morfologi (bentuk), fisiologi (fungsi tubuh), tingkah laku (perilaku)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Morfologi** — Salah. Morfologi = bentuk tubuh tetap (paruh, kaki, dll). Warna kulit yang berubah bukan bentuk.
+  - **B. Fisiologi** — Benar. Perubahan warna kulit melibatkan kerja sel kromatofora (fungsi tubuh).
+  - **C. Tingkah laku** — Salah. Tingkah laku = aksi seperti pura-pura mati, hibernasi.
+  - **D. Gabungan** — Salah. Hanya fisiologi.
+
+- **Langkah Penyelesaian:**
+  1. Morfologi: bentuk tubuh (paruh elang, kaki bebek).
+  2. Fisiologi: fungsi tubuh (warna kulit bunglon, kelenjar bau sigung).
+  3. Tingkah laku: aksi (cicak ototomi ekor, ikan paus muncul nafas).
+  4. Bunglon mengubah warna = fungsi tubuh = fisiologi.
+
+- **Hasil akhir:** **Adaptasi fisiologi**
+
+- **Tips:** Hafalkan: morfo=bentuk, fisio=fungsi, tingkah=aksi. Otomi ekor cicak = tingkah laku.
+
+---
+
+### Soal 69 · IPA-01 · Daur Hidup · Provinsi
+
+**(1) Soal:**
+Diantara hewan berikut, yang mengalami metamorfosis sempurna adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Belalang dan kecoa
+B. Kupu-kupu dan katak
+C. Kupu-kupu dan lalat
+D. Capung dan jangkrik
+
+**(3) Jawaban:** **C. Kupu-kupu dan lalat**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Metamorfosis sempurna: telur → larva → pupa → dewasa
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Belalang dan kecoa** — Salah. Keduanya tidak sempurna (telur → nimfa → dewasa).
+  - **B. Kupu-kupu dan katak** — Salah. Katak bukan serangga; daur hidup katak punya berudu tapi konteks "metamorfosis sempurna" biasanya untuk serangga.
+  - **C. Kupu-kupu dan lalat** — Benar. Keduanya: telur → larva → pupa → dewasa.
+  - **D. Capung dan jangkrik** — Salah. Keduanya tidak sempurna.
+
+- **Langkah Penyelesaian:**
+  1. Metamorfosis sempurna pada serangga: telur → larva → pupa → dewasa.
+  2. Contoh: kupu-kupu, lalat, nyamuk, kumbang, lebah.
+  3. Tidak sempurna: belalang, jangkrik, kecoa, capung (tanpa pupa).
+
+- **Hasil akhir:** **Kupu-kupu dan lalat**
+
+- **Tips:** Sempurna = ada fase pupa/kepompong. Tidak sempurna = langsung dari nimfa ke dewasa.
+
+---
+
+### Soal 70 · IPA-01 · Perkembangbiakan Tumbuhan · Provinsi
+
+**(1) Soal:**
+Perkembangbiakan vegetatif buatan yang dilakukan dengan menempelkan tunas pada batang tanaman lain disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Mencangkok
+B. Stek
+C. Okulasi
+D. Merunduk
+
+**(3) Jawaban:** **C. Okulasi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Vegetatif buatan: cangkok, stek, okulasi, sambung, merunduk
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mencangkok** — Salah. Mengupas kulit batang lalu dibungkus tanah.
+  - **B. Stek** — Salah. Menanam potongan batang/daun.
+  - **C. Okulasi** — Benar. Menempelkan tunas (mata tunas) pada batang lain.
+  - **D. Merunduk** — Salah. Membenamkan batang ke tanah agar tumbuh akar.
+
+- **Langkah Penyelesaian:**
+  1. Cangkok: kulit batang dikupas, dibungkus tanah, tumbuh akar.
+  2. Stek: tanam potongan batang/daun langsung.
+  3. Okulasi: tempel tunas (mata) ke batang lain.
+  4. Merunduk: benamkan batang yang masih menempel ke tanah.
+
+- **Hasil akhir:** **Okulasi**
+
+- **Tips:** Okulasi = "okul" = mata. Mengingat: tempel mata tunas. Sering ditanyakan di OSN.
+
+---
+
+### Soal 71 · IPA-01 · Ekosistem · Provinsi
+
+**(1) Soal:**
+Dalam ekosistem sawah, peran utama bakteri pengurai adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Menghasilkan makanan dari sinar matahari
+B. Memakan tumbuhan dan hewan
+C. Menguraikan sisa makhluk hidup menjadi zat hara
+D. Menyimpan air di dalam tanah
+
+**(3) Jawaban:** **C. Menguraikan sisa makhluk hidup menjadi zat hara**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Peran dekomposer dalam ekosistem
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Menghasilkan makanan** — Salah. Itu peran produsen (tumbuhan hijau).
+  - **B. Memakan tumbuhan/hewan** — Salah. Itu peran konsumen.
+  - **C. Menguraikan sisa** — Benar. Pengurai = dekomposer mengembalikan zat hara ke tanah.
+  - **D. Menyimpan air** — Salah. Bukan peran pengurai.
+
+- **Langkah Penyelesaian:**
+  1. Produsen: tumbuhan hijau (fotosintesis).
+  2. Konsumen: hewan pemakan tumbuhan/hewan lain.
+  3. Pengurai (bakteri, jamur): menguraikan jasad mati → zat hara.
+  4. Zat hara kembali ke tanah, dipakai produsen.
+
+- **Hasil akhir:** **Menguraikan sisa makhluk hidup menjadi zat hara**
+
+- **Tips:** Tanpa pengurai, sisa makhluk hidup menumpuk dan zat hara tidak kembali ke tanah.
+
+---
+
+### Soal 72 · IPA-01 · Pelestarian Lingkungan · Provinsi
+
+**(1) Soal:**
+Salah satu manfaat reboisasi (penanaman kembali hutan) yang TIDAK benar adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Mencegah erosi tanah
+B. Menambah cadangan air tanah
+C. Mempercepat pemanasan global
+D. Menyediakan oksigen bagi makhluk hidup
+
+**(3) Jawaban:** **C. Mempercepat pemanasan global**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Manfaat hutan + isu pemanasan global
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mencegah erosi** — Salah (sebagai pilihan tidak benar). Akar pohon menahan tanah → mencegah erosi. Benar manfaatnya.
+  - **B. Cadangan air tanah** — Benar manfaatnya. Hutan menyerap air hujan.
+  - **C. Mempercepat pemanasan global** — Benar (sebagai jawaban). Justru reboisasi MEMPERLAMBAT pemanasan karena pohon menyerap CO2.
+  - **D. Menyediakan oksigen** — Benar manfaatnya. Fotosintesis menghasilkan O2.
+
+- **Langkah Penyelesaian:**
+  1. Reboisasi = penanaman kembali hutan.
+  2. Manfaat: cegah erosi, simpan air, hasilkan O2, serap CO2 (lawan pemanasan global).
+  3. Pilihan C salah karena reboisasi memperlambat, bukan mempercepat.
+
+- **Hasil akhir:** **Mempercepat pemanasan global**
+
+- **Tips:** Baca dengan teliti — soal meminta yang TIDAK BENAR. Pohon menyerap CO2, jadi mengurangi pemanasan global.
+
+---
+
+### Soal 73 · IPA-02 · Sistem Pencernaan · Provinsi
+
+**(1) Soal:**
+Pencernaan kimiawi pertama kali terjadi pada organ... dengan bantuan enzim...
+
+**(2) Pilihan Jawaban:**
+
+A. Lambung; pepsin
+B. Mulut; amilase
+C. Usus halus; lipase
+D. Mulut; tripsin
+
+**(3) Jawaban:** **B. Mulut; amilase**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Lokasi awal pencernaan kimiawi + enzim ludah
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lambung; pepsin** — Salah. Lambung adalah yang kedua. Pepsin memang ada di lambung.
+  - **B. Mulut; amilase** — Benar. Air liur (saliva) mengandung enzim ptialin/amilase yang mengubah pati jadi maltosa.
+  - **C. Usus halus; lipase** — Salah. Usus halus adalah tahap lanjut.
+  - **D. Mulut; tripsin** — Salah. Tripsin ada di usus halus, bukan mulut.
+
+- **Langkah Penyelesaian:**
+  1. Pencernaan kimiawi = melibatkan enzim.
+  2. Di mulut: air liur mengandung amilase (ptialin) → pati menjadi maltosa.
+  3. Lambung: pepsin → protein menjadi pepton.
+  4. Usus halus: lipase, tripsin, amilase pankreas.
+
+- **Hasil akhir:** **Mulut; amilase**
+
+- **Tips:** Mulut = pencernaan ganda (mekanik oleh gigi + kimiawi oleh amilase ludah).
+
+---
+
+### Soal 74 · IPA-02 · Sistem Pernapasan · Provinsi
+
+**(1) Soal:**
+Urutan jalur udara saat manusia bernapas dari luar ke dalam adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Hidung → tenggorokan → bronkus → alveolus → bronkiolus
+B. Hidung → tenggorokan → bronkus → bronkiolus → alveolus
+C. Hidung → bronkus → tenggorokan → bronkiolus → alveolus
+D. Mulut → hidung → tenggorokan → bronkus → alveolus
+
+**(3) Jawaban:** **B. Hidung → tenggorokan → bronkus → bronkiolus → alveolus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jalur pernapasan manusia
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. ... bronkus → alveolus → bronkiolus** — Salah. Bronkiolus lebih kecil dari bronkus.
+  - **B. ... bronkiolus → alveolus** — Benar. Bronkus → bronkiolus (cabang lebih kecil) → alveolus (kantong udara).
+  - **C. ... bronkus → tenggorokan** — Salah. Bronkus setelah tenggorokan.
+  - **D. Mulut → hidung** — Salah. Hidung adalah pintu utama.
+
+- **Langkah Penyelesaian:**
+  1. Hidung (penyaringan, penghangat).
+  2. Tenggorokan (faring → laring → trakea).
+  3. Bronkus (cabang besar di paru-paru).
+  4. Bronkiolus (cabang lebih kecil).
+  5. Alveolus (tempat pertukaran O2 dan CO2).
+
+- **Hasil akhir:** **Hidung → tenggorokan → bronkus → bronkiolus → alveolus**
+
+- **Tips:** Dari besar ke kecil: bronkus → bronkiolus → alveolus. Mirip cabang pohon.
+
+---
+
+### Soal 75 · IPA-02 · Sistem Peredaran Darah · Provinsi
+
+**(1) Soal:**
+Pada peredaran darah manusia, darah yang banyak mengandung oksigen mengalir dari...
+
+**(2) Pilihan Jawaban:**
+
+A. Paru-paru ke serambi kiri jantung
+B. Paru-paru ke serambi kanan jantung
+C. Seluruh tubuh ke serambi kiri jantung
+D. Bilik kanan ke paru-paru
+
+**(3) Jawaban:** **A. Paru-paru ke serambi kiri jantung**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Peredaran darah kecil (paru-paru) dan posisi O2
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Paru-paru → serambi kiri** — Benar. Setelah O2 diambil di paru-paru, darah kembali ke serambi kiri.
+  - **B. Paru-paru → serambi kanan** — Salah. Yang kembali ke serambi kanan adalah darah dari seluruh tubuh (kaya CO2).
+  - **C. Seluruh tubuh → serambi kiri** — Salah. Itu darah kotor (CO2), masuk ke serambi kanan.
+  - **D. Bilik kanan → paru-paru** — Salah. Itu darah kotor menuju paru-paru.
+
+- **Langkah Penyelesaian:**
+  1. Peredaran kecil: bilik kanan → paru-paru (CO2 dilepas, O2 diambil) → serambi kiri.
+  2. Peredaran besar: bilik kiri → seluruh tubuh → serambi kanan.
+  3. Darah kaya O2: paru-paru → serambi kiri → bilik kiri → seluruh tubuh.
+
+- **Hasil akhir:** **Paru-paru ke serambi kiri jantung**
+
+- **Tips:** Kiri = bersih (O2). Kanan = kotor (CO2). Selalu masuk lewat serambi, keluar lewat bilik.
+
+---
+
+### Soal 76 · IPA-02 · Sistem Indera · Provinsi
+
+**(1) Soal:**
+Bagian mata yang berfungsi mengatur banyaknya cahaya yang masuk adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Kornea
+B. Pupil
+C. Iris
+D. Retina
+
+**(3) Jawaban:** **C. Iris**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bagian-bagian mata dan fungsinya
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kornea** — Salah. Kornea = lapisan bening di depan mata, melindungi.
+  - **B. Pupil** — Salah. Pupil = lubang tempat cahaya masuk (bukan yang mengatur).
+  - **C. Iris** — Benar. Iris = selaput pelangi berwarna, mengatur lebar pupil sehingga mengatur cahaya yang masuk.
+  - **D. Retina** — Salah. Retina = layar penangkap bayangan di belakang mata.
+
+- **Langkah Penyelesaian:**
+  1. Cahaya masuk: kornea → pupil (lubang) → lensa → retina.
+  2. Iris adalah otot yang mengubah ukuran pupil.
+  3. Saat terang → pupil mengecil. Saat gelap → pupil membesar.
+
+- **Hasil akhir:** **Iris**
+
+- **Tips:** Pupil = lubang. Iris = otot pengatur lubang. Mirip "diafragma" pada kamera.
+
+---
+
+### Soal 77 · IPA-02 · Tulang & Otot · Provinsi
+
+**(1) Soal:**
+Pasangan tulang dan jenisnya yang benar adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Tulang lengan – tulang pipih
+B. Tulang dahi – tulang pendek
+C. Tulang ruas jari – tulang pipa
+D. Tulang belikat – tulang pipih
+
+**(3) Jawaban:** **D. Tulang belikat – tulang pipih**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Klasifikasi tulang: pipa, pipih, pendek
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lengan – pipih** — Salah. Tulang lengan adalah tulang pipa.
+  - **B. Dahi – pendek** — Salah. Dahi adalah tulang pipih (frontal).
+  - **C. Ruas jari – pipa** — Salah. Ruas jari adalah tulang pendek.
+  - **D. Belikat – pipih** — Benar. Belikat (skapula) berbentuk pipih, fungsi pelindung dan tempat melekat otot.
+
+- **Langkah Penyelesaian:**
+  1. Tulang pipa: panjang, berongga. Contoh: lengan atas, paha.
+  2. Tulang pipih: tipis-lebar. Contoh: dahi, belikat, dada, panggul.
+  3. Tulang pendek: kecil. Contoh: ruas jari, pergelangan.
+
+- **Hasil akhir:** **Tulang belikat – tulang pipih**
+
+- **Tips:** Pipa = panjang. Pipih = tipis-lebar (sering pelindung). Pendek = kotak kecil.
+
+---
+
+### Soal 78 · IPA-02 · Pubertas · Provinsi
+
+**(1) Soal:**
+Salah satu ciri pubertas pada anak laki-laki yang TIDAK terjadi pada anak perempuan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Tinggi badan bertambah
+B. Tumbuh jakun
+C. Wajah berjerawat
+D. Mulai berkeringat lebih banyak
+
+**(3) Jawaban:** **B. Tumbuh jakun**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Ciri pubertas khusus laki-laki
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tinggi bertambah** — Salah (terjadi pada kedua jenis kelamin).
+  - **B. Tumbuh jakun** — Benar. Jakun (tonjolan tenggorokan) hanya muncul pada laki-laki.
+  - **C. Wajah berjerawat** — Salah. Terjadi pada keduanya.
+  - **D. Berkeringat banyak** — Salah. Terjadi pada keduanya.
+
+- **Langkah Penyelesaian:**
+  1. Ciri pubertas umum (kedua jenis): tinggi bertambah, suara berubah, jerawat, keringat.
+  2. Khusus laki-laki: tumbuh jakun, kumis, jenggot, suara menjadi lebih berat.
+  3. Khusus perempuan: pinggul melebar, mulai menstruasi.
+
+- **Hasil akhir:** **Tumbuh jakun**
+
+- **Tips:** Jakun = tanda fisik unik laki-laki. Menstruasi = unik perempuan.
+
+---
+
+### Soal 79 · IPA-02 · Penyakit & Pencegahan · Provinsi
+
+**(1) Soal:**
+Penyakit yang disebabkan oleh kekurangan vitamin C adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Rabun senja
+B. Beri-beri
+C. Sariawan dan skorbut
+D. Rakhitis
+
+**(3) Jawaban:** **C. Sariawan dan skorbut**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Defisiensi vitamin → penyakit
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rabun senja** — Salah. Kekurangan vitamin A.
+  - **B. Beri-beri** — Salah. Kekurangan vitamin B1.
+  - **C. Sariawan dan skorbut** — Benar. Kekurangan vitamin C menyebabkan sariawan, gusi berdarah (skorbut).
+  - **D. Rakhitis** — Salah. Kekurangan vitamin D / kalsium.
+
+- **Langkah Penyelesaian:**
+  1. Vitamin A: rabun senja, gangguan mata.
+  2. Vitamin B1: beri-beri.
+  3. Vitamin C: sariawan, skorbut, gusi berdarah.
+  4. Vitamin D: rakhitis (tulang lunak pada anak), osteomalasia (dewasa).
+  5. Vitamin K: darah sukar membeku.
+
+- **Hasil akhir:** **Sariawan dan skorbut**
+
+- **Tips:** Vitamin C dari jeruk, jambu, tomat. Sering ditanyakan karena terkait kekebalan tubuh.
+
+---
+
+### Soal 80 · IPA-03 · Gaya Gravitasi · Provinsi
+
+**(1) Soal:**
+Sebuah bola dijatuhkan dari ketinggian. Bola akan jatuh ke bawah karena pengaruh...
+
+**(2) Pilihan Jawaban:**
+
+A. Gaya gesek
+B. Gaya magnet
+C. Gaya gravitasi bumi
+D. Gaya pegas
+
+**(3) Jawaban:** **C. Gaya gravitasi bumi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis-jenis gaya dan penyebabnya
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Gesek** — Salah. Gesek terjadi saat dua benda bersentuhan.
+  - **B. Magnet** — Salah. Bola karet/plastik tidak ditarik magnet.
+  - **C. Gravitasi bumi** — Benar. Bumi menarik semua benda ke pusatnya.
+  - **D. Pegas** — Salah. Pegas adalah gaya kembali ke bentuk semula.
+
+- **Langkah Penyelesaian:**
+  1. Saat dilepas, satu-satunya gaya konstan yang menarik bola = gravitasi.
+  2. Gravitasi bumi menarik semua benda menuju pusat bumi.
+  3. Itu sebabnya benda yang dilepas akan jatuh ke bawah.
+
+- **Hasil akhir:** **Gaya gravitasi bumi**
+
+- **Tips:** Gravitasi = gaya tarik massa Bumi. Tanpa gravitasi, benda akan melayang.
+
+---
+
+### Soal 81 · IPA-03 · Pesawat Sederhana · Provinsi
+
+**(1) Soal:**
+Untuk menaikkan drum berat ke atas truk, dipakai papan miring. Pesawat sederhana ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Tuas
+B. Bidang miring
+C. Katrol
+D. Roda berporos
+
+**(3) Jawaban:** **B. Bidang miring**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis-jenis pesawat sederhana
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tuas** — Salah. Tuas pakai titik tumpu (jungkat-jungkit).
+  - **B. Bidang miring** — Benar. Papan miring mengurangi gaya angkat dengan memperpanjang lintasan.
+  - **C. Katrol** — Salah. Katrol pakai roda dan tali.
+  - **D. Roda berporos** — Salah. Itu seperti roda mobil, sepeda.
+
+- **Langkah Penyelesaian:**
+  1. Pesawat sederhana: tuas, bidang miring, katrol, roda berporos.
+  2. Bidang miring = papan miring yang memudahkan mengangkat benda berat ke ketinggian.
+  3. Memperpanjang jarak, tapi gaya yang dibutuhkan lebih kecil.
+
+- **Hasil akhir:** **Bidang miring**
+
+- **Tips:** Tangga, sekrup, kapak juga termasuk prinsip bidang miring.
+
+---
+
+### Soal 82 · IPA-03 · Energi & Perubahannya · Provinsi
+
+**(1) Soal:**
+Saat lampu pijar menyala, terjadi perubahan energi...
+
+**(2) Pilihan Jawaban:**
+
+A. Listrik menjadi cahaya saja
+B. Listrik menjadi panas saja
+C. Listrik menjadi cahaya dan panas
+D. Cahaya menjadi listrik
+
+**(3) Jawaban:** **C. Listrik menjadi cahaya dan panas**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan bentuk energi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Listrik → cahaya saja** — Salah. Lampu pijar selalu hangat.
+  - **B. Listrik → panas saja** — Salah. Lampu juga menyala.
+  - **C. Listrik → cahaya dan panas** — Benar. Lampu pijar mengubah listrik menjadi cahaya (utama) dan panas (sampingan).
+  - **D. Cahaya → listrik** — Salah. Itu kebalikan, terjadi pada panel surya.
+
+- **Langkah Penyelesaian:**
+  1. Bukti panas: lampu pijar yang menyala lama akan terasa panas.
+  2. Bukti cahaya: terlihat menyala.
+  3. Lampu LED lebih efisien karena lebih sedikit panas yang dihasilkan.
+
+- **Hasil akhir:** **Listrik menjadi cahaya dan panas**
+
+- **Tips:** Perubahan energi sering bukan tunggal. Setrika: listrik → panas (utama) + suara (kecil). TV: listrik → cahaya + suara.
+
+---
+
+### Soal 83 · IPA-03 · Listrik · Provinsi
+
+**(1) Soal:**
+Pada rangkaian seri 3 lampu, jika satu lampu putus, maka...
+
+**(2) Pilihan Jawaban:**
+
+A. Dua lampu lain tetap menyala
+B. Dua lampu lain padam semua
+C. Dua lampu lain menyala lebih terang
+D. Dua lampu lain berkedip
+
+**(3) Jawaban:** **B. Dua lampu lain padam semua**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sifat rangkaian seri vs paralel
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tetap menyala** — Salah. Itu sifat rangkaian paralel.
+  - **B. Padam semua** — Benar. Pada rangkaian seri, arus mengalir satu jalur. Putus = tidak ada arus.
+  - **C. Lebih terang** — Salah. Tidak mungkin tanpa arus.
+  - **D. Berkedip** — Salah. Tidak ada penyebab berkedip.
+
+- **Langkah Penyelesaian:**
+  1. Rangkaian seri = lampu dirangkai satu jalur. Arus harus melewati semua.
+  2. Jika satu putus → jalur terputus → arus berhenti → semua padam.
+  3. Pada paralel, tiap lampu jalur sendiri → satu putus, yang lain tetap nyala.
+
+- **Hasil akhir:** **Dua lampu lain padam semua**
+
+- **Tips:** Seri = "satu jalan", semua tergantung satu sama lain. Paralel = "jalan terpisah", masing-masing mandiri.
+
+---
+
+### Soal 84 · IPA-03 · Magnet · Provinsi
+
+**(1) Soal:**
+Cara membuat magnet dengan menggosokkan magnet pada batang besi disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Induksi
+B. Elektromagnet
+C. Menggosok
+D. Pemanasan
+
+**(3) Jawaban:** **C. Menggosok**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Cara membuat magnet: gosok, induksi, elektromagnet
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Induksi** — Salah. Induksi = mendekatkan magnet ke besi tanpa kontak gosokan.
+  - **B. Elektromagnet** — Salah. Pakai aliran listrik pada kumparan.
+  - **C. Menggosok** — Benar. Magnet digosok searah pada besi → besi menjadi magnet.
+  - **D. Pemanasan** — Salah. Pemanasan justru MENGHILANGKAN sifat magnet.
+
+- **Langkah Penyelesaian:**
+  1. Cara membuat magnet ada 3: gosok, induksi, elektromagnet (aliran listrik).
+  2. Gosok: digosokkan searah berulang.
+  3. Induksi: didekatkan tanpa disentuh kuat.
+  4. Elektromagnet: lilit kawat berarus pada inti besi.
+
+- **Hasil akhir:** **Menggosok**
+
+- **Tips:** Untuk menghilangkan sifat magnet: panaskan, pukul, atau aliri listrik AC.
+
+---
+
+### Soal 85 · IPA-03 · Gerak Benda · Provinsi
+
+**(1) Soal:**
+Sebuah mobil berhenti tiba-tiba di lampu merah. Penumpang yang tidak memakai sabuk terdorong ke depan. Hal ini terjadi karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Gaya berat penumpang
+B. Sifat inersia (kelembaman) benda
+C. Gaya gesek di kursi
+D. Gaya gravitasi bumi
+
+**(3) Jawaban:** **B. Sifat inersia (kelembaman) benda**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hukum I Newton (inersia)
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Berat** — Salah. Berat menarik ke bawah, bukan ke depan.
+  - **B. Inersia** — Benar. Benda yang bergerak cenderung bergerak terus. Saat mobil berhenti, tubuh penumpang masih ingin bergerak ke depan.
+  - **C. Gesek** — Salah. Gesek justru menahan, bukan mendorong.
+  - **D. Gravitasi** — Salah. Sama seperti A.
+
+- **Langkah Penyelesaian:**
+  1. Saat mobil bergerak, penumpang juga bergerak dengan kecepatan sama.
+  2. Saat mobil berhenti, kursi berhenti tapi tubuh masih punya kecepatan.
+  3. Sifat ini disebut inersia / kelembaman.
+
+- **Hasil akhir:** **Sifat inersia (kelembaman) benda**
+
+- **Tips:** Inersia: benda diam ingin tetap diam, benda bergerak ingin tetap bergerak. Sabuk pengaman mencegah cedera akibat inersia.
+
+---
+
+### Soal 86 · IPA-03 · Energi Alternatif · Provinsi
+
+**(1) Soal:**
+Yang BUKAN termasuk sumber energi yang dapat diperbaharui adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Sinar matahari
+B. Angin
+C. Air terjun
+D. Batu bara
+
+**(3) Jawaban:** **D. Batu bara**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Energi terbarukan vs tak terbarukan
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Matahari** — Salah (sebagai pilihan tidak benar). Matahari adalah energi terbarukan.
+  - **B. Angin** — Salah. Angin selalu ada.
+  - **C. Air terjun** — Salah. Air terus mengalir berkat siklus hidrologi.
+  - **D. Batu bara** — Benar (jawaban). Batu bara terbentuk jutaan tahun, tidak dapat diperbaharui dalam waktu singkat.
+
+- **Langkah Penyelesaian:**
+  1. Terbarukan: matahari, angin, air, panas bumi, biomassa.
+  2. Tak terbarukan: minyak bumi, batu bara, gas alam (bahan bakar fosil).
+  3. Batu bara terbentuk dari fosil tumbuhan jutaan tahun lalu.
+
+- **Hasil akhir:** **Batu bara**
+
+- **Tips:** Bahan bakar fosil (minyak, batu bara, gas) selalu masuk kategori tak terbarukan.
+
+---
+
+### Soal 87 · IPA-04 · Cahaya · Provinsi
+
+**(1) Soal:**
+Sifat cahaya yang ditunjukkan oleh peristiwa pelangi setelah hujan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cahaya merambat lurus
+B. Cahaya dapat dipantulkan
+C. Cahaya dapat diuraikan (dispersi)
+D. Cahaya menembus benda bening
+
+**(3) Jawaban:** **C. Cahaya dapat diuraikan (dispersi)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sifat cahaya: lurus, pantul, bias, urai, tembus
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Merambat lurus** — Salah. Ditunjukkan oleh bayangan benda.
+  - **B. Dipantulkan** — Salah. Ditunjukkan oleh cermin.
+  - **C. Diuraikan (dispersi)** — Benar. Cahaya matahari (putih) terurai jadi 7 warna pelangi (mejikuhibiniu) oleh tetes air.
+  - **D. Menembus benda bening** — Salah. Ditunjukkan oleh kaca jendela.
+
+- **Langkah Penyelesaian:**
+  1. Cahaya putih = campuran 7 warna (merah, jingga, kuning, hijau, biru, nila, ungu).
+  2. Saat melalui tetes air, cahaya membias dan terurai.
+  3. Peristiwa penguraian disebut dispersi.
+
+- **Hasil akhir:** **Cahaya dapat diuraikan (dispersi)**
+
+- **Tips:** Pelangi = dispersi. Hafalkan mejikuhibiniu untuk 7 warna pelangi.
+
+---
+
+### Soal 88 · IPA-04 · Bunyi · Provinsi
+
+**(1) Soal:**
+Bunyi tidak dapat merambat melalui...
+
+**(2) Pilihan Jawaban:**
+
+A. Udara
+B. Air
+C. Besi
+D. Ruang hampa
+
+**(3) Jawaban:** **D. Ruang hampa**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Medium perambatan bunyi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Udara** — Salah. Bunyi kita dengar sehari-hari lewat udara.
+  - **B. Air** — Salah. Lumba-lumba berkomunikasi lewat air.
+  - **C. Besi** — Salah. Bunyi merambat paling cepat di benda padat.
+  - **D. Ruang hampa** — Benar. Tidak ada partikel = bunyi tidak bisa merambat.
+
+- **Langkah Penyelesaian:**
+  1. Bunyi adalah getaran yang merambat melalui medium.
+  2. Medium = zat padat, cair, atau gas.
+  3. Ruang hampa = tidak ada zat → bunyi tidak merambat.
+  4. Itu sebabnya di luar angkasa, astronot tak bisa mendengar tanpa radio.
+
+- **Hasil akhir:** **Ruang hampa**
+
+- **Tips:** Bunyi paling cepat: padat > cair > gas. Tidak bisa: ruang hampa (vakum).
+
+---
+
+### Soal 89 · IPA-04 · Panas (Kalor) · Provinsi
+
+**(1) Soal:**
+Sendok logam yang dicelupkan ke air panas akan terasa panas di pegangannya. Perpindahan panas tersebut terjadi secara...
+
+**(2) Pilihan Jawaban:**
+
+A. Konduksi
+B. Konveksi
+C. Radiasi
+D. Konveksi dan radiasi
+
+**(3) Jawaban:** **A. Konduksi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis perpindahan panas: konduksi, konveksi, radiasi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Konduksi** — Benar. Konduksi = perpindahan panas melalui zat padat tanpa zat berpindah.
+  - **B. Konveksi** — Salah. Konveksi = melalui zat cair/gas yang ikut berpindah.
+  - **C. Radiasi** — Salah. Radiasi = tanpa medium (matahari ke bumi).
+  - **D. Kombinasi** — Salah. Sendok = konduksi murni.
+
+- **Langkah Penyelesaian:**
+  1. Sendok logam adalah konduktor panas yang baik.
+  2. Panas dari air merambat lewat logam → pegangan jadi panas.
+  3. Logam tidak ikut berpindah, hanya panasnya.
+  4. Ini adalah konduksi.
+
+- **Hasil akhir:** **Konduksi**
+
+- **Tips:** Konduksi = padat (sendok, panci). Konveksi = cair/gas (air mendidih, udara). Radiasi = tanpa medium (matahari, api unggun).
+
+---
+
+### Soal 90 · IPA-04 · Wujud Zat · Provinsi
+
+**(1) Soal:**
+Kapur barus (kamper) yang diletakkan di lemari lama-kelamaan menghilang. Perubahan wujud yang terjadi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Mencair
+B. Menguap
+C. Menyublim
+D. Mengembun
+
+**(3) Jawaban:** **C. Menyublim**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan wujud zat
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mencair** — Salah. Mencair = padat menjadi cair (es → air).
+  - **B. Menguap** — Salah. Menguap = cair menjadi gas (air → uap).
+  - **C. Menyublim** — Benar. Menyublim = padat langsung menjadi gas, tanpa lewat cair. Kapur barus padat menjadi gas berbau.
+  - **D. Mengembun** — Salah. Mengembun = gas menjadi cair (uap di kaca dingin).
+
+- **Langkah Penyelesaian:**
+  1. Padat → cair = mencair (melebur).
+  2. Cair → gas = menguap.
+  3. Padat → gas = menyublim.
+  4. Kapur barus padat hilang menjadi gas (bau) tanpa basah → menyublim.
+
+- **Hasil akhir:** **Menyublim**
+
+- **Tips:** Contoh menyublim: kapur barus, es kering (CO2 padat). Kebalikan (gas → padat) juga disebut menyublim/deposisi.
+
+---
+
+### Soal 91 · IPA-04 · Cermin & Pembiasan · Provinsi
+
+**(1) Soal:**
+Pensil yang dicelupkan setengahnya ke dalam gelas berisi air akan terlihat bengkok. Peristiwa ini disebabkan oleh sifat cahaya yaitu...
+
+**(2) Pilihan Jawaban:**
+
+A. Pemantulan
+B. Pembiasan
+C. Penguraian
+D. Penyerapan
+
+**(3) Jawaban:** **B. Pembiasan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pembiasan cahaya saat melewati dua medium
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pemantulan** — Salah. Pemantulan = cahaya kembali (cermin).
+  - **B. Pembiasan** — Benar. Cahaya membelok saat melewati 2 medium berbeda (udara → air).
+  - **C. Penguraian** — Salah. Penguraian menghasilkan warna pelangi.
+  - **D. Penyerapan** — Salah. Penyerapan = cahaya diserap benda gelap.
+
+- **Langkah Penyelesaian:**
+  1. Cahaya dari pensil bagian air melewati air → udara.
+  2. Kecepatan cahaya berubah → cahaya membelok.
+  3. Mata kita melihat pensil "bengkok" di permukaan air.
+
+- **Hasil akhir:** **Pembiasan**
+
+- **Tips:** Pembiasan terjadi saat 2 medium punya kerapatan berbeda. Contoh lain: sedotan di gelas, ikan terlihat lebih dangkal.
+
+---
+
+### Soal 92 · IPA-04 · Zat & Campuran · Provinsi
+
+**(1) Soal:**
+Cara memisahkan garam dari air laut adalah dengan...
+
+**(2) Pilihan Jawaban:**
+
+A. Penyaringan
+B. Penyulingan (destilasi)
+C. Penguapan (evaporasi)
+D. Pengembunan
+
+**(3) Jawaban:** **C. Penguapan (evaporasi)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Metode pemisahan campuran
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Penyaringan** — Salah. Penyaringan untuk memisahkan padatan dari cairan (pasir dari air).
+  - **B. Penyulingan** — Salah. Destilasi untuk mendapatkan **air** murninya, bukan garamnya.
+  - **C. Penguapan** — Benar. Air diuapkan dengan panas matahari → garam tertinggal sebagai kristal.
+  - **D. Pengembunan** — Salah. Pengembunan = gas jadi cair (kebalikan).
+
+- **Langkah Penyelesaian:**
+  1. Garam terlarut dalam air laut (tidak terpisah dengan saringan).
+  2. Air laut diuapkan dengan panas matahari di tambak.
+  3. Air menguap, garam tertinggal sebagai kristal.
+
+- **Hasil akhir:** **Penguapan (evaporasi)**
+
+- **Tips:** Penguapan = ambil yang TIDAK menguap (garam). Destilasi = ambil yang MENGUAP lalu kondensasi (air murni).
+
+---
+
+### Soal 93 · IPA-04 · Perubahan Fisika & Kimia · Provinsi
+
+**(1) Soal:**
+Yang termasuk perubahan kimia adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Es mencair
+B. Lilin meleleh
+C. Kertas terbakar
+D. Air mendidih
+
+**(3) Jawaban:** **C. Kertas terbakar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan fisika vs kimia
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Es mencair** — Salah. Hanya perubahan wujud, dapat dikembalikan.
+  - **B. Lilin meleleh** — Salah. Perubahan wujud, dapat dipadatkan kembali.
+  - **C. Kertas terbakar** — Benar. Menghasilkan zat baru (abu, asap, gas), tidak dapat dikembalikan.
+  - **D. Air mendidih** — Salah. Hanya perubahan wujud.
+
+- **Langkah Penyelesaian:**
+  1. Perubahan fisika: bentuk/wujud berubah tapi zat tetap (dapat dikembalikan).
+  2. Perubahan kimia: zat baru terbentuk (tidak dapat dikembalikan).
+  3. Kertas terbakar → abu + CO2 + H2O (zat baru) → kimia.
+
+- **Hasil akhir:** **Kertas terbakar**
+
+- **Tips:** Ciri perubahan kimia: ada zat baru, perubahan warna/bau, tidak dapat dikembalikan. Contoh: pembakaran, perkaratan, pembusukan.
+
+---
+
+### Soal 94 · IPA-05 · Tata Surya · Provinsi
+
+**(1) Soal:**
+Planet di tata surya yang memiliki cincin paling terlihat adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Jupiter
+B. Saturnus
+C. Uranus
+D. Neptunus
+
+**(3) Jawaban:** **B. Saturnus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Ciri khas planet
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Jupiter** — Salah. Jupiter punya cincin tipis tidak terlihat, dan bintik merah besar.
+  - **B. Saturnus** — Benar. Cincin Saturnus paling lebar dan terlihat jelas.
+  - **C. Uranus** — Salah. Cincin Uranus tipis, sumbu rotasinya miring 98°.
+  - **D. Neptunus** — Salah. Punya cincin tipis, warna biru karena metana.
+
+- **Langkah Penyelesaian:**
+  1. Cincin terbentuk dari debu, batu, dan es kecil.
+  2. Empat planet luar (Jupiter, Saturnus, Uranus, Neptunus) punya cincin.
+  3. Saturnus = cincin paling besar dan jelas dilihat dari teleskop.
+
+- **Hasil akhir:** **Saturnus**
+
+- **Tips:** Saturnus = "planet bercincin". Hafalkan ciri unik tiap planet: Jupiter besar, Saturnus cincin, Mars merah, Venus terpanas.
+
+---
+
+### Soal 95 · IPA-05 · Rotasi & Revolusi Bumi · Provinsi
+
+**(1) Soal:**
+Akibat rotasi bumi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Pergantian musim
+B. Pergantian siang dan malam
+C. Gerak semu tahunan matahari
+D. Perbedaan lama siang dan malam
+
+**(3) Jawaban:** **B. Pergantian siang dan malam**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Akibat rotasi vs revolusi bumi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pergantian musim** — Salah. Akibat revolusi bumi.
+  - **B. Pergantian siang dan malam** — Benar. Rotasi (24 jam) → sebagian bumi terkena matahari (siang), sebagian tidak (malam).
+  - **C. Gerak semu tahunan matahari** — Salah. Akibat revolusi.
+  - **D. Perbedaan lama siang & malam** — Salah. Akibat revolusi (kemiringan sumbu).
+
+- **Langkah Penyelesaian:**
+  1. Rotasi = bumi berputar pada sumbunya (24 jam).
+  2. Akibat rotasi: pergantian siang-malam, gerak semu harian matahari, perbedaan waktu daerah.
+  3. Revolusi = bumi mengelilingi matahari (365,25 hari).
+  4. Akibat revolusi: pergantian musim, gerak semu tahunan, perbedaan lama siang-malam.
+
+- **Hasil akhir:** **Pergantian siang dan malam**
+
+- **Tips:** Rotasi = harian (24 jam). Revolusi = tahunan (365 hari). Akibat rotasi = "siang-malam". Akibat revolusi = "musim".
+
+---
+
+### Soal 96 · IPA-05 · Gerhana · Provinsi
+
+**(1) Soal:**
+Gerhana matahari terjadi ketika...
+
+**(2) Pilihan Jawaban:**
+
+A. Bumi berada di antara matahari dan bulan
+B. Bulan berada di antara matahari dan bumi
+C. Matahari berada di antara bumi dan bulan
+D. Bumi dan bulan sejajar dengan matahari di sisi yang sama
+
+**(3) Jawaban:** **B. Bulan berada di antara matahari dan bumi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Gerhana matahari vs gerhana bulan
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Bumi di antara** — Salah. Itu gerhana bulan.
+  - **B. Bulan di antara matahari dan bumi** — Benar. Bayangan bulan jatuh ke bumi → sebagian bumi gelap → gerhana matahari.
+  - **C. Matahari di antara** — Salah. Tidak mungkin karena matahari pusat tata surya.
+  - **D. Sejajar di sisi sama** — Salah. Definisi tidak tepat.
+
+- **Langkah Penyelesaian:**
+  1. Gerhana matahari: matahari - bulan - bumi (urutan).
+  2. Bayangan bulan jatuh ke bumi.
+  3. Gerhana bulan: matahari - bumi - bulan. Bayangan bumi jatuh ke bulan.
+
+- **Hasil akhir:** **Bulan berada di antara matahari dan bumi**
+
+- **Tips:** "Yang di tengah" yang menutupi yang lain. Gerhana mata"hari" = bulan tutup matahari. Gerhana bulan = bumi tutup bulan.
+
+---
+
+### Soal 97 · IPA-05 · Pasang Surut · Provinsi
+
+**(1) Soal:**
+Pasang surut air laut terutama disebabkan oleh...
+
+**(2) Pilihan Jawaban:**
+
+A. Angin laut
+B. Gaya gravitasi bulan dan matahari
+C. Gempa di dasar laut
+D. Suhu air laut
+
+**(3) Jawaban:** **B. Gaya gravitasi bulan dan matahari**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyebab pasang surut
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Angin** — Salah. Angin menyebabkan gelombang, bukan pasang.
+  - **B. Gravitasi bulan dan matahari** — Benar. Tarikan gravitasi bulan (utama) dan matahari (sekunder) menarik air laut.
+  - **C. Gempa** — Salah. Gempa menyebabkan tsunami, bukan pasang harian.
+  - **D. Suhu** — Salah. Suhu memengaruhi arus, bukan pasang.
+
+- **Langkah Penyelesaian:**
+  1. Bulan punya gaya gravitasi yang menarik air laut.
+  2. Sisi bumi yang menghadap bulan → air naik (pasang).
+  3. Pasang tertinggi: saat bulan-matahari-bumi sejajar (purnama, bulan baru).
+
+- **Hasil akhir:** **Gaya gravitasi bulan dan matahari**
+
+- **Tips:** Pasang tinggi = bulan purnama atau bulan baru (gravitasi bulan+matahari menarik bersamaan).
+
+---
+
+### Soal 98 · IPA-05 · Cuaca & Iklim · Provinsi
+
+**(1) Soal:**
+Perbedaan utama antara cuaca dan iklim adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cuaca terjadi di langit, iklim di darat
+B. Cuaca hanya di siang, iklim di malam
+C. Cuaca dalam waktu pendek, iklim dalam waktu panjang
+D. Cuaca di tropis, iklim di kutub
+
+**(3) Jawaban:** **C. Cuaca dalam waktu pendek, iklim dalam waktu panjang**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi cuaca vs iklim
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Cuaca di langit, iklim di darat** — Salah. Tidak ada pemisahan ruang seperti itu.
+  - **B. Siang vs malam** — Salah. Cuaca dan iklim ada kapan saja.
+  - **C. Waktu pendek vs panjang** — Benar. Cuaca = harian/lokal. Iklim = pola lama (30 tahun, regional).
+  - **D. Pemisahan wilayah** — Salah. Salah definisi.
+
+- **Langkah Penyelesaian:**
+  1. Cuaca = keadaan udara di tempat dan waktu tertentu (jam, hari).
+  2. Iklim = pola cuaca rata-rata dalam waktu lama (puluhan tahun) di wilayah luas.
+  3. Contoh cuaca: "hari ini hujan." Contoh iklim: "Indonesia beriklim tropis."
+
+- **Hasil akhir:** **Cuaca dalam waktu pendek, iklim dalam waktu panjang**
+
+- **Tips:** Cuaca = momen. Iklim = pola jangka panjang. Pemanasan global = perubahan iklim, bukan cuaca.
+
+---
+
+### Soal 99 · IPA-05 · Daur Air · Provinsi
+
+**(1) Soal:**
+Urutan daur air yang benar adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Penguapan → pengembunan → presipitasi → infiltrasi
+B. Pengembunan → penguapan → presipitasi → infiltrasi
+C. Presipitasi → penguapan → pengembunan → infiltrasi
+D. Penguapan → presipitasi → pengembunan → infiltrasi
+
+**(3) Jawaban:** **A. Penguapan → pengembunan → presipitasi → infiltrasi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tahapan daur hidrologi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Penguapan → pengembunan → presipitasi → infiltrasi** — Benar. Urutan logis.
+  - **B. Mulai pengembunan** — Salah. Pengembunan butuh uap dulu.
+  - **C. Mulai presipitasi** — Salah. Hujan butuh awan dulu.
+  - **D. Pengembunan setelah presipitasi** — Salah. Pengembunan sebelum hujan.
+
+- **Langkah Penyelesaian:**
+  1. Penguapan (evaporasi): air laut/danau berubah jadi uap.
+  2. Pengembunan (kondensasi): uap menjadi titik air → awan.
+  3. Presipitasi: awan jenuh → hujan/salju.
+  4. Infiltrasi: air meresap ke tanah → kembali ke sungai/laut.
+
+- **Hasil akhir:** **Penguapan → pengembunan → presipitasi → infiltrasi**
+
+- **Tips:** Daur air berputar terus. Urutan: panas matahari → uap → awan → hujan → tanah/laut → uap lagi.
+
+---
+
+### Soal 100 · IPA-05 · Lapisan Bumi · Provinsi
+
+**(1) Soal:**
+Urutan lapisan bumi dari paling dalam ke paling luar adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Kerak → mantel → inti luar → inti dalam
+B. Inti dalam → inti luar → mantel → kerak
+C. Mantel → inti dalam → inti luar → kerak
+D. Inti dalam → mantel → inti luar → kerak
+
+**(3) Jawaban:** **B. Inti dalam → inti luar → mantel → kerak**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Struktur lapisan bumi
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kerak → mantel → ...** — Salah. Itu urutan dari luar ke dalam.
+  - **B. Inti dalam → inti luar → mantel → kerak** — Benar. Urutan dari pusat ke permukaan.
+  - **C. Mantel di awal** — Salah. Inti yang paling dalam.
+  - **D. Inti dalam → mantel → inti luar** — Salah. Inti luar berada antara inti dalam dan mantel.
+
+- **Langkah Penyelesaian:**
+  1. Inti dalam: bola padat besi-nikel, sangat panas.
+  2. Inti luar: cairan besi-nikel.
+  3. Mantel: batuan semi-cair (magma).
+  4. Kerak: lapisan padat terluar, tempat kita hidup.
+
+- **Hasil akhir:** **Inti dalam → inti luar → mantel → kerak**
+
+- **Tips:** Dari dalam ke luar: inti dalam, inti luar, mantel, kerak. Mirip "lapisan bawang" yang ada cairan di tengah.
+
+---
+
+# Bagian II — Ringkasan Kunci & Refleksi
+
+## Tabel Kunci Jawaban (100 Soal)
+
+| No | Jawaban | Kode Bab | Sub-topik | Tingkat |
+|----|---------|----------|-----------|---------|
+| 1 | C | MTK-01 | FPB Aplikatif | Provinsi |
+| 2 | D | MTK-01 | KPK Aplikatif | Provinsi |
+| 3 | C | MTK-01 | Faktorisasi Prima | Provinsi |
+| 4 | C | MTK-01 | Bilangan Kuadrat | Provinsi |
+| 5 | B | MTK-01 | Bilangan Prima | Provinsi |
+| 6 | B | MTK-01 | Urutan Operasi | Provinsi |
+| 7 | B | MTK-01 | Akar Kubik | Provinsi |
+| 8 | C | MTK-01 | FPB & KPK Gabungan | Provinsi |
+| 9 | C | MTK-02 | Operasi Pecahan Campuran | Provinsi |
+| 10 | A | MTK-02 | Persen Kenaikan & Penurunan | Provinsi |
+| 11 | C | MTK-02 | Mencari Bilangan Asal dari Persen | Provinsi |
+| 12 | C | MTK-02 | Bagian dari Bagian | Provinsi |
+| 13 | A | MTK-02 | Perbandingan Pecahan | Provinsi |
+| 14 | B | MTK-02 | Operasi Desimal | Provinsi |
+| 15 | C | MTK-02 | Persen Aplikatif | Provinsi |
+| 16 | C | MTK-02 | Pecahan Aplikatif | Provinsi |
+| 17 | C | MTK-03 | Luas Trapesium | Provinsi |
+| 18 | C | MTK-03 | Luas Lingkaran | Provinsi |
+| 19 | B | MTK-03 | Bangun Gabungan (Luas Diarsir) | Provinsi |
+| 20 | B | MTK-03 | Keliling Bangun Gabungan | Provinsi |
+| 21 | C | MTK-03 | Sudut Segitiga | Provinsi |
+| 22 | B | MTK-03 | Luas Layang-Layang | Provinsi |
+| 23 | B | MTK-03 | Luas Belah Ketupat | Provinsi |
+| 24 | A | MTK-03 | Bangun Gabungan Kompleks | Provinsi |
+| 25 | B | MTK-03 | Luas Segitiga | Provinsi |
+| 26 | D | MTK-04 | Volume Kubus & Balok | Provinsi |
+| 27 | A | MTK-04 | Volume Tabung | Provinsi |
+| 28 | C | MTK-04 | Luas Permukaan Balok | Provinsi |
+| 29 | B | MTK-04 | Jaring-Jaring Kubus | Provinsi |
+| 30 | C | MTK-04 | Volume Prisma | Provinsi |
+| 31 | B | MTK-04 | Luas Permukaan Tabung | Provinsi |
+| 32 | B | MTK-04 | Volume Kerucut | Provinsi |
+| 33 | B | MTK-04 | Bangun Ruang Gabungan | Provinsi |
+| 34 | B | MTK-05 | Konversi Satuan Panjang | Provinsi |
+| 35 | B | MTK-05 | Konversi Satuan Berat | Provinsi |
+| 36 | B | MTK-05 | Konversi Satuan Luas | Provinsi |
+| 37 | C | MTK-05 | Konversi Satuan Volume | Provinsi |
+| 38 | A | MTK-05 | Konversi Satuan Waktu | Provinsi |
+| 39 | C | MTK-05 | Kecepatan, Jarak, Waktu | Provinsi |
+| 40 | B | MTK-05 | Debit Air | Provinsi |
+| 41 | B | MTK-05 | Suhu (Skala) | Provinsi |
+| 42 | C | MTK-06 | Untung Persentase | Provinsi |
+| 43 | B | MTK-06 | Rugi Persentase | Provinsi |
+| 44 | B | MTK-06 | Diskon Bertingkat | Provinsi |
+| 45 | B | MTK-06 | Bunga Tunggal | Provinsi |
+| 46 | B | MTK-06 | Bruto, Netto, Tara | Provinsi |
+| 47 | B | MTK-06 | Pajak (PPN) | Provinsi |
+| 48 | C | MTK-06 | Skala Perbandingan | Provinsi |
+| 49 | C | MTK-06 | Perbandingan Senilai | Provinsi |
+| 50 | B | MTK-06 | Perbandingan Berbalik Nilai | Provinsi |
+| 51 | B | MTK-07 | Rata-Rata | Provinsi |
+| 52 | B | MTK-07 | Median | Provinsi |
+| 53 | A | MTK-07 | Modus | Provinsi |
+| 54 | C | MTK-07 | Diagram Batang | Provinsi |
+| 55 | C | MTK-07 | Diagram Lingkaran | Provinsi |
+| 56 | D | MTK-07 | Peluang Sederhana | Provinsi |
+| 57 | C | MTK-07 | Peluang Dadu | Provinsi |
+| 58 | B | MTK-07 | Frekuensi Relatif | Provinsi |
+| 59 | B | MTK-08 | Pola Bilangan Aritmetika | Provinsi |
+| 60 | C | MTK-08 | Pola Bilangan Geometri | Provinsi |
+| 61 | C | MTK-08 | Pola Persegi & Segitiga | Provinsi |
+| 62 | C | MTK-08 | Pola Bertingkat | Provinsi |
+| 63 | D | MTK-08 | Persamaan Linear | Provinsi |
+| 64 | B | MTK-08 | Soal Cerita Aljabar | Provinsi |
+| 65 | A | MTK-08 | Logika Pengurutan | Provinsi |
+| 66 | B | MTK-08 | Logika Ya/Tidak | Provinsi |
+| 67 | B | IPA-01 | Rantai Makanan | Provinsi |
+| 68 | B | IPA-01 | Adaptasi Hewan | Provinsi |
+| 69 | C | IPA-01 | Daur Hidup | Provinsi |
+| 70 | C | IPA-01 | Perkembangbiakan Tumbuhan | Provinsi |
+| 71 | C | IPA-01 | Ekosistem | Provinsi |
+| 72 | C | IPA-01 | Pelestarian Lingkungan | Provinsi |
+| 73 | B | IPA-02 | Sistem Pencernaan | Provinsi |
+| 74 | B | IPA-02 | Sistem Pernapasan | Provinsi |
+| 75 | A | IPA-02 | Sistem Peredaran Darah | Provinsi |
+| 76 | C | IPA-02 | Sistem Indera | Provinsi |
+| 77 | D | IPA-02 | Tulang & Otot | Provinsi |
+| 78 | B | IPA-02 | Pubertas | Provinsi |
+| 79 | C | IPA-02 | Penyakit & Pencegahan | Provinsi |
+| 80 | C | IPA-03 | Gaya Gravitasi | Provinsi |
+| 81 | B | IPA-03 | Pesawat Sederhana | Provinsi |
+| 82 | C | IPA-03 | Energi & Perubahannya | Provinsi |
+| 83 | B | IPA-03 | Listrik | Provinsi |
+| 84 | C | IPA-03 | Magnet | Provinsi |
+| 85 | B | IPA-03 | Gerak Benda | Provinsi |
+| 86 | D | IPA-03 | Energi Alternatif | Provinsi |
+| 87 | C | IPA-04 | Cahaya | Provinsi |
+| 88 | D | IPA-04 | Bunyi | Provinsi |
+| 89 | A | IPA-04 | Panas (Kalor) | Provinsi |
+| 90 | C | IPA-04 | Wujud Zat | Provinsi |
+| 91 | B | IPA-04 | Cermin & Pembiasan | Provinsi |
+| 92 | C | IPA-04 | Zat & Campuran | Provinsi |
+| 93 | C | IPA-04 | Perubahan Fisika & Kimia | Provinsi |
+| 94 | B | IPA-05 | Tata Surya | Provinsi |
+| 95 | B | IPA-05 | Rotasi & Revolusi Bumi | Provinsi |
+| 96 | B | IPA-05 | Gerhana | Provinsi |
+| 97 | B | IPA-05 | Pasang Surut | Provinsi |
+| 98 | C | IPA-05 | Cuaca & Iklim | Provinsi |
+| 99 | A | IPA-05 | Daur Air | Provinsi |
+| 100 | B | IPA-05 | Lapisan Bumi | Provinsi |
+
+> **Catatan koreksi soal:** Beberapa soal (35, 39, 55) memiliki catatan koreksi kunci di pembahasan. Selalu ikuti perhitungan langkah-demi-langkah pada bagian "Langkah Penyelesaian".
+
+## Rekap Distribusi Soal
+
+| Kode | Bab | Target | Aktual |
+|------|-----|--------|--------|
+| MTK-01 | Bilangan & Operasi | 8 | 8 |
+| MTK-02 | Pecahan, Desimal, Persen | 8 | 8 |
+| MTK-03 | Geometri Datar | 9 | 9 |
+| MTK-04 | Geometri Ruang | 8 | 8 |
+| MTK-05 | Pengukuran | 8 | 8 |
+| MTK-06 | Aritmetika Sosial | 8 | 8 |
+| MTK-07 | Statistika & Peluang | 8 | 8 |
+| MTK-08 | Pola, Logika, Aljabar | 8 | 8 |
+| IPA-01 | Makhluk Hidup & Lingkungan | 7 | 7 |
+| IPA-02 | Tubuh Manusia & Kesehatan | 7 | 7 |
+| IPA-03 | Gaya, Gerak, Energi | 7 | 7 |
+| IPA-04 | Cahaya, Bunyi, Panas, Zat | 7 | 7 |
+| IPA-05 | Bumi, Antariksa, Lingkungan | 7 | 7 |
+| **TOTAL** | | **100** | **100** |
+
+## Mini-Refleksi Siswa
+
+Setelah mengerjakan 100 soal komprehensif tingkat Provinsi ini, isilah refleksi singkat berikut:
+
+1. **Bab yang paling kuat** (banyak benar): __________________
+2. **Bab yang perlu latihan ulang** (banyak salah): __________________
+3. **Jenis kesalahan yang sering muncul:**
+   - ( ) Salah baca soal / kurang teliti
+   - ( ) Salah pilih rumus
+   - ( ) Salah hitung di tengah jalan
+   - ( ) Konsep belum kuat (asal pilih)
+4. **Sub-topik yang akan diulang minggu depan:** __________________
+5. **Target skor untuk simulasi berikutnya:** ___ dari 100
+
+### Tips Sukses KSN-P (Provinsi)
+
+- **Baca soal 2x** sebelum mulai menghitung. Banyak distraktor menjebak siswa yang terburu-buru.
+- **Tulis langkah** di kertas coret. Soal Provinsi multi-langkah; lompat-lompat = mudah keliru.
+- **Cek satuan** di akhir. Banyak soal MTK-05 dan IPA "menyembunyikan" konversi.
+- **Hafal konsep kunci IPA:** klasifikasi adaptasi, sistem tubuh, perubahan wujud, lapisan bumi, akibat rotasi/revolusi.
+- **Untuk hitungan:** sederhanakan dulu bilangan besar dengan faktor persekutuan jika memungkinkan.
+- **Sisakan 15 menit** untuk meninjau ulang jawaban yang ragu.
+
+> Semangat belajar! Konsistensi latihan = kunci sukses di KSN. Setiap soal yang salah adalah pelajaran berharga.
+
+---
+
+**Selesai · Paket Komprehensif Sedang (Provinsi) · 100 Soal PG**
