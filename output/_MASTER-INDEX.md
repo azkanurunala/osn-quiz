@@ -143,24 +143,24 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - [x] `osn-sd-mtk-06-aritmetika-sosial-mudah.md`
 - [x] `osn-sd-mtk-06-aritmetika-sosial-sedang.md`
 - [x] `osn-sd-mtk-06-aritmetika-sosial-sulit.md`
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-mudah-sedang.md`
-- [ ] `osn-sd-mtk-06-aritmetika-sosial-sedang-sulit.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-mudah-sedang.md`
+- [x] `osn-sd-mtk-06-aritmetika-sosial-sedang-sulit.md`
 
 **MTK-07 · Statistika & Peluang**
-- [ ] `osn-sd-mtk-07-statistika-peluang-campur.md`
-- [ ] `osn-sd-mtk-07-statistika-peluang-mudah.md`
-- [ ] `osn-sd-mtk-07-statistika-peluang-sedang.md`
-- [ ] `osn-sd-mtk-07-statistika-peluang-sulit.md`
-- [ ] `osn-sd-mtk-07-statistika-peluang-mudah-sedang.md`
-- [ ] `osn-sd-mtk-07-statistika-peluang-sedang-sulit.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-campur.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-mudah.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-sedang.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-sulit.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-mudah-sedang.md`
+- [x] `osn-sd-mtk-07-statistika-peluang-sedang-sulit.md`
 
 **MTK-08 · Pola Bilangan, Logika, & Aljabar Dasar**
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-campur.md`
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-mudah.md`
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-sedang.md`
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-sulit.md`
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-mudah-sedang.md`
-- [ ] `osn-sd-mtk-08-pola-logika-aljabar-sedang-sulit.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-campur.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-mudah.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-sedang.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-sulit.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-mudah-sedang.md`
+- [x] `osn-sd-mtk-08-pola-logika-aljabar-sedang-sulit.md`
 
 ---
 
