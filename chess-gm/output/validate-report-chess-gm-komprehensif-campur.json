@@ -1,16 +1,16 @@
 {
   "file": "chess-gm-komprehensif-campur.md",
-  "validated_at": "2026-05-17T17:36:11.267617+07:00",
+  "validated_at": "2026-05-17T17:38:23.369941+07:00",
   "stockfish_depth": 18,
   "engine_used": true,
   "total_soal": 100,
   "summary": {
     "fen_illegal": 0,
     "san_illegal": 56,
-    "engine_top_match": 0,
-    "engine_alt_ok": 0,
-    "engine_disagree": 0,
-    "engine_skipped": 100
+    "engine_top_match": 15,
+    "engine_alt_ok": 4,
+    "engine_disagree": 40,
+    "engine_skipped": 41
   },
   "soal": [
     {
@@ -60,8 +60,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 2,
@@ -110,8 +110,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Italian Game' is illegal — cannot compare"
     },
     {
       "number": 3,
@@ -160,8 +160,8 @@
           "mate": 2
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 4,
@@ -210,8 +210,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 5,
@@ -260,8 +260,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 6,
@@ -310,8 +310,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Sicilian Defense' is illegal — cannot compare"
     },
     {
       "number": 7,
@@ -360,8 +360,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 16: character maps to <undefined>"
+      "engine_agree": "ALT_OK",
+      "notes": "marked is engine #2, eval within 50cp of top"
     },
     {
       "number": 8,
@@ -410,8 +410,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 16: character maps to <undefined>"
+      "engine_agree": "ALT_OK",
+      "notes": "marked is engine #2, eval within 50cp of top"
     },
     {
       "number": 9,
@@ -460,8 +460,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Tukar benteng dengan Rxc8' is illegal — cannot compare"
     },
     {
       "number": 10,
@@ -510,8 +510,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Nd6+' not in engine top-3 ['a4', 'f3', 'Kd1']"
     },
     {
       "number": 11,
@@ -560,8 +560,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Ruy Lopez' is illegal — cannot compare"
     },
     {
       "number": 12,
@@ -610,8 +610,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 17: character maps to <undefined>"
+      "engine_agree": "ALT_OK",
+      "notes": "marked is engine #2, eval within 50cp of top"
     },
     {
       "number": 13,
@@ -660,8 +660,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Rb4 (build bridge)' is illegal — cannot compare"
     },
     {
       "number": 14,
@@ -710,8 +710,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'a3' not in engine top-3 ['O-O', 'a4', 'h3']"
     },
     {
       "number": 15,
@@ -760,8 +760,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Ne5' not in engine top-3 ['Rxe8+', 'Bg5', 'h3']"
     },
     {
       "number": 16,
@@ -810,8 +810,8 @@
           "mate": 2
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 17,
@@ -860,8 +860,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Najdorf' is illegal — cannot compare"
     },
     {
       "number": 18,
@@ -910,8 +910,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Di endgame murni' is illegal — cannot compare"
     },
     {
       "number": 19,
@@ -960,8 +960,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 20,
@@ -1010,8 +1010,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'French Defense' is illegal — cannot compare"
     },
     {
       "number": 21,
@@ -1060,8 +1060,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Bxh7+' not in engine top-3 ['a3', 'Bd2', 'Qe2']"
     },
     {
       "number": 22,
@@ -1110,8 +1110,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Posisi terbuka dengan struktur bidak cair' is illegal — cannot compare"
     },
     {
       "number": 23,
@@ -1160,8 +1160,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 24,
@@ -1210,8 +1210,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Nxe5' not in engine top-3 ['h3', 'd3', 'd4']"
     },
     {
       "number": 25,
@@ -1260,8 +1260,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 26,
@@ -1310,8 +1310,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Caro-Kann Defense' is illegal — cannot compare"
     },
     {
       "number": 27,
@@ -1360,8 +1360,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 28,
@@ -1410,8 +1410,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 29,
@@ -1460,8 +1460,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Catalan' is illegal — cannot compare"
     },
     {
       "number": 30,
@@ -1510,8 +1510,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 31,
@@ -1560,8 +1560,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Pengorbanan menteri berulang di kotak menarget pin diagonal' is illegal — cannot compare"
     },
     {
       "number": 32,
@@ -1610,8 +1610,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Tidak bisa, bidak promosi' is illegal — cannot compare"
     },
     {
       "number": 33,
@@ -1660,8 +1660,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Ya — attacker (2) ≥ defender (2), dan urutan tukar untung' is illegal — cannot compare"
     },
     {
       "number": 34,
@@ -1710,8 +1710,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang' is illegal — cannot compare"
     },
     {
       "number": 35,
@@ -1760,8 +1760,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN \"Queen's Gambit\" is illegal — cannot compare"
     },
     {
       "number": 36,
@@ -1810,8 +1810,8 @@
           "mate": 5
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 17: character maps to <undefined>"
+      "engine_agree": "ALT_OK",
+      "notes": "marked is engine #2, eval within 50cp of top"
     },
     {
       "number": 37,
@@ -1860,8 +1860,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Keduanya promosi bersamaan, posisi remis dengan QvQ' is illegal — cannot compare"
     },
     {
       "number": 38,
@@ -1910,8 +1910,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Nf4+ (discovered check)' is illegal — cannot compare"
     },
     {
       "number": 39,
@@ -1960,8 +1960,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'h3 (prevent Ng4)' is illegal — cannot compare"
     },
     {
       "number": 40,
@@ -2010,8 +2010,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)' is illegal — cannot compare"
     },
     {
       "number": 41,
@@ -2060,8 +2060,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Skak ke raja, raja pindah, lalu ambil bidak di belakang' is illegal — cannot compare"
     },
     {
       "number": 42,
@@ -2110,8 +2110,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'O-O (Berlin Wall)' is illegal — cannot compare"
     },
     {
       "number": 43,
@@ -2160,8 +2160,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Saling melindungi saat maju — sulit dihentikan' is illegal — cannot compare"
     },
     {
       "number": 44,
@@ -2210,8 +2210,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'London System' is illegal — cannot compare"
     },
     {
       "number": 45,
@@ -2260,8 +2260,8 @@
           "mate": 9
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#' is illegal — cannot compare"
     },
     {
       "number": 46,
@@ -2310,8 +2310,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'a4' not in engine top-3 ['d4', 'Nf3', 'e4']"
     },
     {
       "number": 47,
@@ -2360,8 +2360,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang' is illegal — cannot compare"
     },
     {
       "number": 48,
@@ -2410,8 +2410,8 @@
           "mate": 12
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Re8+ Kf7 Ra7# (skak terpotong)' is illegal — cannot compare"
     },
     {
       "number": 49,
@@ -2460,8 +2460,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang' is illegal — cannot compare"
     },
     {
       "number": 50,
@@ -2510,8 +2510,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 51,
@@ -2560,8 +2560,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 52,
@@ -2610,8 +2610,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Trompowsky Attack' is illegal — cannot compare"
     },
     {
       "number": 53,
@@ -2660,8 +2660,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 54,
@@ -2710,8 +2710,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'e5' not in engine top-3 ['exd5', 'dxc5', 'Bg5']"
     },
     {
       "number": 55,
@@ -2760,8 +2760,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Bxf7+' not in engine top-3 ['dxe5', 'Nxe5', 'Be2']"
     },
     {
       "number": 56,
@@ -2810,8 +2810,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Slav Defense' is illegal — cannot compare"
     },
     {
       "number": 57,
@@ -2860,8 +2860,8 @@
           "mate": 5
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked 'Bxg7+' not in engine top-3 ['Qg1', 'Qg4', 'Qd7']"
     },
     {
       "number": 58,
@@ -2910,8 +2910,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 59,
@@ -2960,8 +2960,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "SKIPPED",
-      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
+      "engine_agree": "DISAGREE",
+      "notes": "marked SAN 'Remis' is illegal — cannot compare"
     },
     {
       "number": 60,
