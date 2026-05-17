@@ -1,12 +1,12 @@
 {
   "file": "chess-gm-komprehensif-campur.md",
-  "validated_at": "2026-05-17T15:46:25.518087+07:00",
-  "stockfish_depth": null,
-  "engine_used": false,
+  "validated_at": "2026-05-17T17:36:11.267617+07:00",
+  "stockfish_depth": 18,
+  "engine_used": true,
   "total_soal": 100,
   "summary": {
-    "fen_illegal": 1,
-    "san_illegal": 70,
+    "fen_illegal": 0,
+    "san_illegal": 56,
     "engine_top_match": 0,
     "engine_alt_ok": 0,
     "engine_disagree": 0,
@@ -43,9 +43,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nxe5",
+          "eval_cp": 46,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": -291,
+          "mate": null
+        },
+        {
+          "san": "Be2",
+          "eval_cp": -300,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
     },
     {
       "number": 2,
@@ -77,16 +93,32 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Bc5",
+          "eval_cp": -16,
+          "mate": null
+        },
+        {
+          "san": "Nf6",
+          "eval_cp": -21,
+          "mate": null
+        },
+        {
+          "san": "Be7",
+          "eval_cp": -53,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
     },
     {
       "number": 3,
       "level": "P",
       "pilar": "END",
       "tema": "Skakmat Raja & Menteri (KQ vs K)",
-      "fen": "7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
+      "fen": "7k/8/5K2/6Q1/8/8/8/8 w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -94,26 +126,42 @@
       "opsi": [
         "Qg7#",
         "Qh5+",
-        "Qa8+",
-        "Kg7"
+        "Qd5",
+        "Qg6"
       ],
       "opsi_legality": [
-        false,
         true,
-        false,
-        false
+        true,
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('Qg7#') failed: illegal san: 'Qg7#' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
         "",
-        "parse_san('Qa8+') failed: illegal san: 'Qa8+' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
-        "parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1"
+        "",
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Qg7#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Qh6+",
+          "eval_cp": null,
+          "mate": 2
+        },
+        {
+          "san": "Kg6",
+          "eval_cp": null,
+          "mate": 2
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
     },
     {
       "number": 4,
@@ -145,9 +193,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "e4",
+          "eval_cp": 39,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": 25,
+          "mate": null
+        },
+        {
+          "san": "Nf3",
+          "eval_cp": 25,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
     },
     {
       "number": 5,
@@ -179,9 +243,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Ra8#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Kf1",
+          "eval_cp": 634,
+          "mate": null
+        },
+        {
+          "san": "Rc1",
+          "eval_cp": 607,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 16: character maps to <undefined>"
     },
     {
       "number": 6,
@@ -213,9 +293,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nf3",
+          "eval_cp": 46,
+          "mate": null
+        },
+        {
+          "san": "c3",
+          "eval_cp": 31,
+          "mate": null
+        },
+        {
+          "san": "Nc3",
+          "eval_cp": 29,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
     },
     {
       "number": 7,
@@ -247,9 +343,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rxe7",
+          "eval_cp": 819,
+          "mate": null
+        },
+        {
+          "san": "Bxh7+",
+          "eval_cp": 770,
+          "mate": null
+        },
+        {
+          "san": "Bxc8",
+          "eval_cp": 704,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 16: character maps to <undefined>"
     },
     {
       "number": 8,
@@ -281,9 +393,25 @@
       ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kc3",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
+          "san": "Ke3",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
+          "san": "Kc2",
+          "eval_cp": 29,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 16: character maps to <undefined>"
     },
     {
       "number": 9,
@@ -315,43 +443,75 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rd1",
+          "eval_cp": 17,
+          "mate": null
+        },
+        {
+          "san": "Kf1",
+          "eval_cp": -1,
+          "mate": null
+        },
+        {
+          "san": "Re1",
+          "eval_cp": -3,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 16: character maps to <undefined>"
     },
     {
       "number": 10,
       "level": "P",
       "pilar": "TAK",
       "tema": "Knight Fork Royal (Garpu Kuda Royal)",
-      "fen": "r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
+      "fen": "r3k2r/ppp2ppp/8/1q6/4N3/8/PPP2PPP/4K2R w Kkq - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Nd6",
-        "Nf6",
-        "Nc6",
-        "Ne6"
+        "Nd6+",
+        "Nf6+",
+        "Nc5",
+        "Nc3"
       ],
       "opsi_legality": [
-        false,
-        false,
+        true,
+        true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Nd6') failed: illegal san: 'Nd6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
-        "parse_san('Nf6') failed: illegal san: 'Nf6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
+        "",
+        "",
         "",
         ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "a4",
+          "eval_cp": -914,
+          "mate": null
+        },
+        {
+          "san": "f3",
+          "eval_cp": -957,
+          "mate": null
+        },
+        {
+          "san": "Kd1",
+          "eval_cp": -971,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 11,
@@ -383,9 +543,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nf6",
+          "eval_cp": -27,
+          "mate": null
+        },
+        {
+          "san": "a6",
+          "eval_cp": -41,
+          "mate": null
+        },
+        {
+          "san": "Nd4",
+          "eval_cp": -44,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 12,
@@ -417,9 +593,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Bg5",
+          "eval_cp": 44,
+          "mate": null
+        },
+        {
+          "san": "O-O",
+          "eval_cp": 34,
+          "mate": null
+        },
+        {
+          "san": "Ne2",
+          "eval_cp": 33,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 17: character maps to <undefined>"
     },
     {
       "number": 13,
@@ -451,9 +643,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kb8",
+          "eval_cp": 654,
+          "mate": null
+        },
+        {
+          "san": "Kb7",
+          "eval_cp": 497,
+          "mate": null
+        },
+        {
+          "san": "Rb5",
+          "eval_cp": 431,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 14,
@@ -485,9 +693,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "O-O",
+          "eval_cp": 37,
+          "mate": null
+        },
+        {
+          "san": "a4",
+          "eval_cp": 35,
+          "mate": null
+        },
+        {
+          "san": "h3",
+          "eval_cp": 33,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 15,
@@ -519,9 +743,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rxe8+",
+          "eval_cp": 33,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": 11,
+          "mate": null
+        },
+        {
+          "san": "h3",
+          "eval_cp": 0,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 16,
@@ -553,9 +793,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Ra8#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Rb1",
+          "eval_cp": null,
+          "mate": 2
+        },
+        {
+          "san": "Ra2",
+          "eval_cp": null,
+          "mate": 2
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 17,
@@ -587,9 +843,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "f3",
+          "eval_cp": 42,
+          "mate": null
+        },
+        {
+          "san": "Be2",
+          "eval_cp": 35,
+          "mate": null
+        },
+        {
+          "san": "Be3",
+          "eval_cp": 34,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 18,
@@ -621,9 +893,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "d4",
+          "eval_cp": -81,
+          "mate": null
+        },
+        {
+          "san": "d3",
+          "eval_cp": -96,
+          "mate": null
+        },
+        {
+          "san": "g3",
+          "eval_cp": -99,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 19,
@@ -655,9 +943,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "g6",
+          "eval_cp": 47,
+          "mate": null
+        },
+        {
+          "san": "Qe7",
+          "eval_cp": 17,
+          "mate": null
+        },
+        {
+          "san": "Qf6",
+          "eval_cp": -13,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 20,
@@ -689,9 +993,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nc3",
+          "eval_cp": 35,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": 30,
+          "mate": null
+        },
+        {
+          "san": "Nf3",
+          "eval_cp": 24,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 21,
@@ -723,9 +1043,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "a3",
+          "eval_cp": 132,
+          "mate": null
+        },
+        {
+          "san": "Bd2",
+          "eval_cp": 128,
+          "mate": null
+        },
+        {
+          "san": "Qe2",
+          "eval_cp": 126,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 22,
@@ -757,9 +1093,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Ne2",
+          "eval_cp": 505,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": 502,
+          "mate": null
+        },
+        {
+          "san": "h3",
+          "eval_cp": 501,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 23,
@@ -791,9 +1143,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kb6",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kb5",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Ka5",
+          "eval_cp": -23,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 24,
@@ -825,9 +1193,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "h3",
+          "eval_cp": 53,
+          "mate": null
+        },
+        {
+          "san": "d3",
+          "eval_cp": 43,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": 26,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 25,
@@ -859,9 +1243,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nf3",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
+          "san": "Nc3",
+          "eval_cp": 9,
+          "mate": null
+        },
+        {
+          "san": "Bc4",
+          "eval_cp": 1,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 26,
@@ -893,9 +1293,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "d4",
+          "eval_cp": 40,
+          "mate": null
+        },
+        {
+          "san": "Nc3",
+          "eval_cp": 31,
+          "mate": null
+        },
+        {
+          "san": "Nf3",
+          "eval_cp": 31,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 27,
@@ -927,9 +1343,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kg7",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kh7",
+          "eval_cp": -506,
+          "mate": null
+        },
+        {
+          "san": "c7",
+          "eval_cp": -509,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 28,
@@ -961,9 +1393,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Ra8#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "f4",
+          "eval_cp": 623,
+          "mate": null
+        },
+        {
+          "san": "Kf1",
+          "eval_cp": 615,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 29,
@@ -995,9 +1443,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Be7",
+          "eval_cp": -25,
+          "mate": null
+        },
+        {
+          "san": "d5",
+          "eval_cp": -31,
+          "mate": null
+        },
+        {
+          "san": "Bb4+",
+          "eval_cp": -33,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 30,
@@ -1029,9 +1493,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nf6",
+          "eval_cp": -1,
+          "mate": null
+        },
+        {
+          "san": "Bb4",
+          "eval_cp": -53,
+          "mate": null
+        },
+        {
+          "san": "d6",
+          "eval_cp": -60,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 31,
@@ -1063,9 +1543,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rxe8#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Bc4",
+          "eval_cp": 548,
+          "mate": null
+        },
+        {
+          "san": "Rxc5",
+          "eval_cp": 546,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 32,
@@ -1097,9 +1593,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kg2",
+          "eval_cp": 507,
+          "mate": null
+        },
+        {
+          "san": "Kh2",
+          "eval_cp": 507,
+          "mate": null
+        },
+        {
+          "san": "e5",
+          "eval_cp": 506,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 33,
@@ -1131,9 +1643,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nxe5",
+          "eval_cp": 517,
+          "mate": null
+        },
+        {
+          "san": "dxe5",
+          "eval_cp": 498,
+          "mate": null
+        },
+        {
+          "san": "Bb5",
+          "eval_cp": 495,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 34,
@@ -1165,9 +1693,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Re1",
+          "eval_cp": 493,
+          "mate": null
+        },
+        {
+          "san": "Qe2",
+          "eval_cp": 487,
+          "mate": null
+        },
+        {
+          "san": "b3",
+          "eval_cp": 487,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 35,
@@ -1199,9 +1743,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "e6",
+          "eval_cp": -24,
+          "mate": null
+        },
+        {
+          "san": "dxc4",
+          "eval_cp": -30,
+          "mate": null
+        },
+        {
+          "san": "c6",
+          "eval_cp": -34,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 36,
@@ -1233,9 +1793,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Qxh7#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Nf7#",
+          "eval_cp": null,
+          "mate": 1
+        },
+        {
+          "san": "Nxh7",
+          "eval_cp": null,
+          "mate": 5
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2248' in position 17: character maps to <undefined>"
     },
     {
       "number": 37,
@@ -1267,9 +1843,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "h4",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kg2",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kg1",
+          "eval_cp": -2,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 38,
@@ -1301,9 +1893,25 @@
       ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kd2",
+          "eval_cp": -8,
+          "mate": null
+        },
+        {
+          "san": "Nd4",
+          "eval_cp": -12,
+          "mate": null
+        },
+        {
+          "san": "Kd1",
+          "eval_cp": -12,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 39,
@@ -1335,9 +1943,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "h3",
+          "eval_cp": 507,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": 505,
+          "mate": null
+        },
+        {
+          "san": "Nd2",
+          "eval_cp": 503,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 40,
@@ -1369,9 +1993,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Ke4",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kd3",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Ke3",
+          "eval_cp": -1,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 41,
@@ -1403,9 +2043,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kf2+",
+          "eval_cp": 412,
+          "mate": null
+        },
+        {
+          "san": "Re1",
+          "eval_cp": 397,
+          "mate": null
+        },
+        {
+          "san": "Ra1",
+          "eval_cp": 392,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 42,
@@ -1437,9 +2093,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "O-O",
+          "eval_cp": 20,
+          "mate": null
+        },
+        {
+          "san": "d3",
+          "eval_cp": 5,
+          "mate": null
+        },
+        {
+          "san": "Bxc6",
+          "eval_cp": -7,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 43,
@@ -1471,9 +2143,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kh2",
+          "eval_cp": 961,
+          "mate": null
+        },
+        {
+          "san": "f4",
+          "eval_cp": 961,
+          "mate": null
+        },
+        {
+          "san": "Kg2",
+          "eval_cp": 960,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 44,
@@ -1505,9 +2193,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "c5",
+          "eval_cp": -9,
+          "mate": null
+        },
+        {
+          "san": "Bf5",
+          "eval_cp": -16,
+          "mate": null
+        },
+        {
+          "san": "e6",
+          "eval_cp": -17,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 45,
@@ -1539,9 +2243,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Re1",
+          "eval_cp": null,
+          "mate": 7
+        },
+        {
+          "san": "f4",
+          "eval_cp": null,
+          "mate": 8
+        },
+        {
+          "san": "Qd8+",
+          "eval_cp": null,
+          "mate": 9
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 46,
@@ -1573,9 +2293,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "d4",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
+          "san": "Nf3",
+          "eval_cp": 26,
+          "mate": null
+        },
+        {
+          "san": "e4",
+          "eval_cp": 22,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 47,
@@ -1607,9 +2343,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Re3+",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Rh2",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kc6",
+          "eval_cp": 0,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 48,
@@ -1641,9 +2393,25 @@
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rec1",
+          "eval_cp": null,
+          "mate": 11
+        },
+        {
+          "san": "Re6",
+          "eval_cp": null,
+          "mate": 11
+        },
+        {
+          "san": "Ra7",
+          "eval_cp": null,
+          "mate": 12
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 49,
@@ -1675,9 +2443,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "exd5",
+          "eval_cp": 33,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": 10,
+          "mate": null
+        },
+        {
+          "san": "d3",
+          "eval_cp": -16,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 50,
@@ -1690,28 +2474,44 @@
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Qb8+! (queen sacrifice)",
+        "Qb8+",
         "Rxd7",
-        "Bxd7+",
+        "Bf6",
         "Qxe6+"
       ],
       "opsi_legality": [
-        false,
         true,
-        false,
+        true,
+        true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Qb8+! (queen sacrifice)') failed: invalid san: 'Qb8+! (queen sacrifice)'",
         "",
-        "parse_san('Bxd7+') failed: illegal san: 'Bxd7+' in 4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 17",
+        "",
+        "",
         ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Qb8+",
+          "eval_cp": null,
+          "mate": 2
+        },
+        {
+          "san": "Qc3",
+          "eval_cp": 362,
+          "mate": null
+        },
+        {
+          "san": "Qb7",
+          "eval_cp": 331,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 51,
@@ -1743,9 +2543,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nxc6",
+          "eval_cp": -450,
+          "mate": null
+        },
+        {
+          "san": "Nc4",
+          "eval_cp": -468,
+          "mate": null
+        },
+        {
+          "san": "d4",
+          "eval_cp": -483,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 52,
@@ -1777,9 +2593,25 @@
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "d5",
+          "eval_cp": -4,
+          "mate": null
+        },
+        {
+          "san": "c6",
+          "eval_cp": -14,
+          "mate": null
+        },
+        {
+          "san": "e6",
+          "eval_cp": -17,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 53,
@@ -1811,9 +2643,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kg7",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kh7",
+          "eval_cp": -516,
+          "mate": null
+        },
+        {
+          "san": "c7",
+          "eval_cp": -547,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 54,
@@ -1845,16 +2693,32 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "exd5",
+          "eval_cp": -2,
+          "mate": null
+        },
+        {
+          "san": "dxc5",
+          "eval_cp": -36,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": -75,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 55,
       "level": "K",
       "pilar": "TAK",
       "tema": "Zwischenzug (In-Between Move)",
-      "fen": "r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
+      "fen": "r1bq1rk1/pp1pbppp/2n2n2/4n3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -1863,25 +2727,41 @@
         "dxe5",
         "Bxf7+",
         "Nxe5",
-        "Nxd5"
+        "Nd5"
       ],
       "opsi_legality": [
         true,
-        false,
+        true,
         true,
         true
       ],
       "opsi_errors": [
         "",
-        "parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
+        "",
         "",
         ""
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "dxe5",
+          "eval_cp": 269,
+          "mate": null
+        },
+        {
+          "san": "Nxe5",
+          "eval_cp": 128,
+          "mate": null
+        },
+        {
+          "san": "Be2",
+          "eval_cp": -402,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 56,
@@ -1913,9 +2793,25 @@
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Nf3",
+          "eval_cp": 33,
+          "mate": null
+        },
+        {
+          "san": "Nc3",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
+          "san": "cxd5",
+          "eval_cp": 23,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 57,
@@ -1947,9 +2843,25 @@
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Qg1",
+          "eval_cp": null,
+          "mate": 3
+        },
+        {
+          "san": "Qg4",
+          "eval_cp": null,
+          "mate": 3
+        },
+        {
+          "san": "Qd7",
+          "eval_cp": null,
+          "mate": 5
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 58,
@@ -1981,9 +2893,25 @@
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Rd7",
+          "eval_cp": 731,
+          "mate": null
+        },
+        {
+          "san": "f3",
+          "eval_cp": 725,
+          "mate": null
+        },
+        {
+          "san": "h4",
+          "eval_cp": 718,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2713' in position 17: character maps to <undefined>"
     },
     {
       "number": 59,
@@ -2015,9 +2943,25 @@
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
-      "engine_top3": [],
+      "engine_top3": [
+        {
+          "san": "Kd3",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kd2",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Bg1",
+          "eval_cp": 0,
+          "mate": null
+        }
+      ],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "validation crashed: 'charmap' codec can't encode character '\\u2717' in position 17: character maps to <undefined>"
     },
     {
       "number": 60,
@@ -2051,7 +2995,7 @@
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine process died unexpectedly (exit code: 3221225477)"
     },
     {
       "number": 61,
@@ -2085,7 +3029,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 62,
@@ -2119,7 +3063,7 @@
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 63,
@@ -2153,7 +3097,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 64,
@@ -2187,32 +3131,32 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 65,
       "level": "K",
       "pilar": "TAK",
       "tema": "Anastasia's Mate",
-      "fen": "7k/4N1pp/8/8/8/8/8/6RK w - - 0 1",
+      "fen": "8/4N1pk/8/4R3/8/8/8/6K1 w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Rh1+",
+        "Rh5#",
         "Nf5",
-        "Nxg6+",
-        "Rg2"
+        "Ng6",
+        "Rg5"
       ],
       "opsi_legality": [
-        false,
+        true,
         true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Rh1+') failed: illegal san: 'Rh1+' in 7k/4N1pp/8/8/8/8/8/6RK w - - 0 1",
+        "",
         "",
         "",
         ""
@@ -2221,7 +3165,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 66,
@@ -2255,7 +3199,7 @@
       "jawaban_idx": 3,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 67,
@@ -2289,7 +3233,7 @@
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 68,
@@ -2323,7 +3267,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 69,
@@ -2357,7 +3301,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 70,
@@ -2391,7 +3335,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 71,
@@ -2425,7 +3369,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 72,
@@ -2459,7 +3403,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 73,
@@ -2493,7 +3437,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 74,
@@ -2527,7 +3471,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 75,
@@ -2540,28 +3484,28 @@
       "giliran": "b",
       "giliran_text": "Hitam",
       "opsi": [
-        "...d4",
-        "...Ke5",
-        "...Kc5",
-        "...Ke6"
+        "d4",
+        "Ke5",
+        "Kc5",
+        "Ke6"
       ],
       "opsi_legality": [
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('...d4') failed: invalid san: '...d4'",
-        "parse_san('...Ke5') failed: invalid san: '...Ke5'",
-        "parse_san('...Kc5') failed: invalid san: '...Kc5'",
-        "parse_san('...Ke6') failed: invalid san: '...Ke6'"
+        "",
+        "",
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 76,
@@ -2574,28 +3518,28 @@
       "giliran": "b",
       "giliran_text": "Hitam",
       "opsi": [
-        "...Nxc3",
-        "...Nb6",
-        "...Nf6",
-        "...e5"
+        "Nxc3",
+        "Nb6",
+        "Nf6",
+        "e5"
       ],
       "opsi_legality": [
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('...Nxc3') failed: invalid san: '...Nxc3'",
-        "parse_san('...Nb6') failed: invalid san: '...Nb6'",
-        "parse_san('...Nf6') failed: invalid san: '...Nf6'",
-        "parse_san('...e5') failed: invalid san: '...e5'"
+        "",
+        "",
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 77,
@@ -2629,33 +3573,33 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 78,
       "level": "P",
       "pilar": "STR",
       "tema": "Open File Control dengan Benteng Ganda",
-      "fen": "r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
+      "fen": "r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R4RK1 w - - 0 14",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Rdd1",
+        "Rfe1",
         "Rad1",
         "Ne5",
         "Bc1"
       ],
       "opsi_legality": [
-        false,
-        false,
+        true,
+        true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Rdd1') failed: illegal san: 'Rdd1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
-        "parse_san('Rad1') failed: illegal san: 'Rad1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
+        "",
+        "",
         "",
         ""
       ],
@@ -2663,7 +3607,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 79,
@@ -2697,7 +3641,7 @@
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 80,
@@ -2710,28 +3654,28 @@
       "giliran": "b",
       "giliran_text": "Hitam",
       "opsi": [
-        "...O-O",
-        "...e6",
-        "...d5",
-        "...c6"
+        "O-O",
+        "e6",
+        "d5",
+        "c6"
       ],
       "opsi_legality": [
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('...O-O') failed: invalid san: '...O-O'",
-        "parse_san('...e6') failed: invalid san: '...e6'",
-        "parse_san('...d5') failed: invalid san: '...d5'",
-        "parse_san('...c6') failed: invalid san: '...c6'"
+        "",
+        "",
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 81,
@@ -2765,31 +3709,41 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 82,
       "level": "M",
       "pilar": "TAK",
       "tema": "X-Ray Attack",
-      "fen": "r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1",
-      "fen_legal": false,
-      "fen_error": "chess.Board(fen) raised: invalid half-move clock in fen: 'r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1'",
+      "fen": "7r/8/8/4k3/8/8/P1P2PPP/R1B1K2R w KQ - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Bh3",
-        "Bc4",
-        "Bb5+",
-        "Ra8+"
+        "Bd2",
+        "Bh6",
+        "Bb2+",
+        "Bf4+"
       ],
-      "opsi_legality": [],
-      "opsi_errors": [],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 83,
@@ -2823,7 +3777,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 84,
@@ -2857,7 +3811,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 85,
@@ -2891,7 +3845,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 86,
@@ -2925,41 +3879,41 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 87,
       "level": "P",
       "pilar": "TAK",
       "tema": "Smothered Mate",
-      "fen": "6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1",
+      "fen": "5r1k/6pp/3N4/8/8/1Q6/8/7K w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Nf3",
-        "Qd8+",
+        "Nf5",
+        "Qg8+",
         "Nf7+",
-        "Qh5"
+        "Qh3"
       ],
       "opsi_legality": [
         true,
         true,
-        false,
+        true,
         true
       ],
       "opsi_errors": [
         "",
         "",
-        "parse_san('Nf7+') failed: illegal san: 'Nf7+' in 6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1",
+        "",
         ""
       ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 88,
@@ -2993,48 +3947,48 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 89,
       "level": "P",
       "pilar": "END",
       "tema": "King Opposition dalam Pion Endgame",
-      "fen": "8/8/4k3/8/4K3/4P3/8/8 w - - 0 1",
+      "fen": "8/4k3/8/8/4K3/4P3/8/8 w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "e4",
+        "Kd5",
         "Kd4",
         "Kf4",
         "Ke5"
       ],
       "opsi_legality": [
-        false,
         true,
         true,
-        false
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('e4') failed: illegal san: 'e4' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1",
         "",
         "",
-        "parse_san('Ke5') failed: illegal san: 'Ke5' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1"
+        "",
+        ""
       ],
       "jawaban_letter": "D",
       "jawaban_idx": 3,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 90,
       "level": "M",
       "pilar": "STR",
       "tema": "Prophylaxis: Mencegah Rencana Lawan",
-      "fen": "r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10",
+      "fen": "r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ1BPPP/R4RK1 w - - 0 10",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -3046,13 +4000,13 @@
         "b4"
       ],
       "opsi_legality": [
-        false,
+        true,
         true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Bd3') failed: illegal san: 'Bd3' in r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10",
+        "",
         "",
         "",
         ""
@@ -3061,7 +4015,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 91,
@@ -3095,41 +4049,41 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 92,
       "level": "K",
       "pilar": "TAK",
       "tema": "Overloading a Piece",
-      "fen": "r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
+      "fen": "r2qk2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 w kq - 0 8",
       "fen_legal": true,
       "fen_error": "",
-      "giliran": "b",
-      "giliran_text": "Hitam",
+      "giliran": "w",
+      "giliran_text": "Putih",
       "opsi": [
         "Nxd5",
-        "Bxf7+",
-        "Nd5",
+        "exd5",
+        "Bxd5",
         "Re3"
       ],
       "opsi_legality": [
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('Nxd5') failed: illegal san: 'Nxd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
-        "parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
-        "parse_san('Nd5') failed: illegal san: 'Nd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
-        "parse_san('Re3') failed: illegal san: 'Re3' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8"
+        "",
+        "",
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 93,
@@ -3163,14 +4117,14 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 94,
       "level": "M",
       "pilar": "STR",
       "tema": "Weak Squares dan Color Weakness",
-      "fen": "r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10",
+      "fen": "r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 10",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -3178,17 +4132,17 @@
       "opsi": [
         "Ne5",
         "Bb5",
-        "f4",
-        "Qh5"
+        "g3",
+        "Qe2"
       ],
       "opsi_legality": [
-        false,
+        true,
         true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Ne5') failed: illegal san: 'Ne5' in r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10",
+        "",
         "",
         "",
         ""
@@ -3197,7 +4151,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 95,
@@ -3231,7 +4185,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 96,
@@ -3265,7 +4219,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 97,
@@ -3299,7 +4253,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 98,
@@ -3333,7 +4287,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 99,
@@ -3367,7 +4321,7 @@
       "jawaban_idx": 0,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     },
     {
       "number": 100,
@@ -3401,7 +4355,7 @@
       "jawaban_idx": 1,
       "engine_top3": [],
       "engine_agree": "SKIPPED",
-      "notes": ""
+      "notes": "engine.analyse failed: engine event loop dead"
     }
   ]
 }

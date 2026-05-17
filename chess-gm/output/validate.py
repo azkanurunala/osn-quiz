@@ -742,14 +742,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                         soal, board, engine, args.depth, args.alt_tolerance_cp,
                     )
                     status = soal.engine_agree
-                    if status == "DISAGREE":
-                        marker = "✗"
-                    elif status == "TOP":
-                        marker = "✓"
-                    elif status == "ALT_OK":
-                        marker = "≈"
-                    else:
-                        marker = "·"
+                    marker = {"DISAGREE": "X", "TOP": "+", "ALT_OK": "~"}.get(status, ".")
                     print(f"  [{i:3d}] Soal {soal.number}: {marker} {status}")
             except Exception as e:
                 soal.notes = f"validation crashed: {e}"

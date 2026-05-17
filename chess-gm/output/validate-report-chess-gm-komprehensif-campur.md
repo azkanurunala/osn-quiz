@@ -1,7 +1,7 @@
 # Validation Report — chess-gm-komprehensif-campur.md
 
-Generated: 2026-05-17T15:46:25+07:00  
-Stockfish depth: (engine check skipped)  
+Generated: 2026-05-17T17:36:11+07:00  
+Stockfish depth: 18  
 Total soal: 100
 
 ## Summary
@@ -12,8 +12,8 @@ Total soal: 100
 | Engine ALT acceptable | 0 |
 | Engine disagree | 0 |
 | Engine skipped | 100 |
-| FEN illegal | 1 |
-| Soal with illegal SAN in opsi | 70 |
+| FEN illegal | 0 |
+| Soal with illegal SAN in opsi | 56 |
 
 ## Flagged Soal — Engine DISAGREE
 
@@ -24,11 +24,7 @@ _None._
 
 ## Soal With FEN Issues
 
-### Soal 82
-- **Tema:** TAK — X-Ray Attack
-- **FEN:** `r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1`
-- **Error:** chess.Board(fen) raised: invalid half-move clock in fen: 'r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1'
-
+_None._
 ## Soal With Illegal SAN
 
 ### Soal 2
@@ -38,14 +34,6 @@ _None._
   - B. `Ruy Lopez` — ILLEGAL — parse_san('Ruy Lopez') failed: invalid san: 'Ruy Lopez'
   - C. `Scotch Game` — ILLEGAL — parse_san('Scotch Game') failed: invalid san: 'Scotch Game'
   - D. `Four Knights Game` — ILLEGAL — parse_san('Four Knights Game') failed: invalid san: 'Four Knights Game'
-
-### Soal 3
-- **Tema:** END — Skakmat Raja & Menteri (KQ vs K)
-- **FEN:** `7k/8/6K1/6Q1/8/8/8/8 w - - 0 1`
-  - A. `Qg7#` — ILLEGAL — parse_san('Qg7#') failed: illegal san: 'Qg7#' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1
-  - B. `Qh5+` — OK
-  - C. `Qa8+` — ILLEGAL — parse_san('Qa8+') failed: illegal san: 'Qa8+' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1
-  - D. `Kg7` — ILLEGAL — parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1
 
 ### Soal 5
 - **Tema:** TAK — Back-Rank Mate (Mat Baris Belakang)
@@ -86,14 +74,6 @@ _None._
   - B. `Mundurkan benteng ke baris 2` — ILLEGAL — parse_san('Mundurkan benteng ke baris 2') failed: invalid san: 'Mundurkan benteng ke baris 2'
   - C. `Mainkan b4 dorong sayap menteri` — ILLEGAL — parse_san('Mainkan b4 dorong sayap menteri') failed: invalid san: 'Mainkan b4 dorong sayap menteri'
   - D. `Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)` — ILLEGAL — parse_san('Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)') failed: invalid san: 'Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)'
-
-### Soal 10
-- **Tema:** TAK — Knight Fork Royal (Garpu Kuda Royal)
-- **FEN:** `r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1`
-  - A. `Nd6` — ILLEGAL — parse_san('Nd6') failed: illegal san: 'Nd6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1
-  - B. `Nf6` — ILLEGAL — parse_san('Nf6') failed: illegal san: 'Nf6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1
-  - C. `Nc6` — OK
-  - D. `Ne6` — OK
 
 ### Soal 11
 - **Tema:** BUK — Identifikasi Pembukaan Ruy Lopez
@@ -327,14 +307,6 @@ _None._
   - C. `Variasi endgame Ruy Lopez` — ILLEGAL — parse_san('Variasi endgame Ruy Lopez') failed: invalid san: 'Variasi endgame Ruy Lopez'
   - D. `Anti-Berlin Defense oleh Putih` — ILLEGAL — parse_san('Anti-Berlin Defense oleh Putih') failed: invalid san: 'Anti-Berlin Defense oleh Putih'
 
-### Soal 50
-- **Tema:** TAK — Morphy's Opera Game Queen Sacrifice (Paris 1858)
-- **FEN:** `4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 17`
-  - A. `Qb8+! (queen sacrifice)` — ILLEGAL — parse_san('Qb8+! (queen sacrifice)') failed: invalid san: 'Qb8+! (queen sacrifice)'
-  - B. `Rxd7` — OK
-  - C. `Bxd7+` — ILLEGAL — parse_san('Bxd7+') failed: illegal san: 'Bxd7+' in 4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 17
-  - D. `Qxe6+` — OK
-
 ### Soal 52
 - **Tema:** BUK — Identifikasi Trompowsky Attack
 - **FEN:** `rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2`
@@ -350,14 +322,6 @@ _None._
   - B. `exd5` — OK
   - C. `dxc5` — OK
   - D. `d5` — ILLEGAL — parse_san('d5') failed: illegal san: 'd5' in r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6
-
-### Soal 55
-- **Tema:** TAK — Zwischenzug (In-Between Move)
-- **FEN:** `r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8`
-  - A. `dxe5` — OK
-  - B. `Bxf7+` — ILLEGAL — parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8
-  - C. `Nxe5` — OK
-  - D. `Nxd5` — OK
 
 ### Soal 56
 - **Tema:** BUK — Identifikasi Slav Defense
@@ -407,14 +371,6 @@ _None._
   - C. `Sama saja` — ILLEGAL — parse_san('Sama saja') failed: invalid san: 'Sama saja'
   - D. `Gajah, tapi hanya kalau berwarna sama Raja lawan` — ILLEGAL — parse_san('Gajah, tapi hanya kalau berwarna sama Raja lawan') failed: unsupported multi-leg move: 'Gajah, tapi hanya kalau berwarna sama Raja lawan'
 
-### Soal 65
-- **Tema:** TAK — Anastasia's Mate
-- **FEN:** `7k/4N1pp/8/8/8/8/8/6RK w - - 0 1`
-  - A. `Rh1+` — ILLEGAL — parse_san('Rh1+') failed: illegal san: 'Rh1+' in 7k/4N1pp/8/8/8/8/8/6RK w - - 0 1
-  - B. `Nf5` — OK
-  - C. `Nxg6+` — OK
-  - D. `Rg2` — OK
-
 ### Soal 67
 - **Tema:** BUK — Identifikasi King's Indian Defense
 - **FEN:** `rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4`
@@ -447,22 +403,6 @@ _None._
   - C. `e4` — OK
   - D. `cxb4` — ILLEGAL — parse_san('cxb4') failed: illegal san: 'cxb4' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30
 
-### Soal 75
-- **Tema:** END — Philidor Position (Teknik Remis)
-- **FEN:** `8/8/3k4/3p4/8/8/3K4/3R4 b - - 0 1`
-  - A. `...d4` — ILLEGAL — parse_san('...d4') failed: invalid san: '...d4'
-  - B. `...Ke5` — ILLEGAL — parse_san('...Ke5') failed: invalid san: '...Ke5'
-  - C. `...Kc5` — ILLEGAL — parse_san('...Kc5') failed: invalid san: '...Kc5'
-  - D. `...Ke6` — ILLEGAL — parse_san('...Ke6') failed: invalid san: '...Ke6'
-
-### Soal 76
-- **Tema:** BUK — Grünfeld Defense: Ide Pokok
-- **FEN:** `rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5`
-  - A. `...Nxc3` — ILLEGAL — parse_san('...Nxc3') failed: invalid san: '...Nxc3'
-  - B. `...Nb6` — ILLEGAL — parse_san('...Nb6') failed: invalid san: '...Nb6'
-  - C. `...Nf6` — ILLEGAL — parse_san('...Nf6') failed: invalid san: '...Nf6'
-  - D. `...e5` — ILLEGAL — parse_san('...e5') failed: invalid san: '...e5'
-
 ### Soal 77
 - **Tema:** TAK — Windmill Pattern
 - **FEN:** `5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24`
@@ -471,14 +411,6 @@ _None._
   - C. `Bh6` — OK
   - D. `Re1` — OK
 
-### Soal 78
-- **Tema:** STR — Open File Control dengan Benteng Ganda
-- **FEN:** `r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14`
-  - A. `Rdd1` — ILLEGAL — parse_san('Rdd1') failed: illegal san: 'Rdd1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14
-  - B. `Rad1` — ILLEGAL — parse_san('Rad1') failed: illegal san: 'Rad1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14
-  - C. `Ne5` — OK
-  - D. `Bc1` — OK
-
 ### Soal 79
 - **Tema:** END — Zugzwang dalam Pion Endgame
 - **FEN:** `8/8/4k3/4p3/4P3/4K3/8/8 w - - 0 1`
@@ -486,14 +418,6 @@ _None._
   - B. `Remis — karena posisi simetri` — ILLEGAL — parse_san('Remis — karena posisi simetri') failed: invalid san: 'Remis — karena posisi simetri'
   - C. `Putih kalah — karena zugzwang` — ILLEGAL — parse_san('Putih kalah — karena zugzwang') failed: invalid san: 'Putih kalah — karena zugzwang'
   - D. `Tergantung — bisa menang atau remis tergantung respons Hitam` — ILLEGAL — parse_san('Tergantung — bisa menang atau remis tergantung respons Hitam') failed: invalid san: 'Tergantung — bisa menang atau remis tergantung respons Hitam'
-
-### Soal 80
-- **Tema:** BUK — Dutch Defense: Variasi Leningrad
-- **FEN:** `rnbqk2r/ppppp1bp/5np1/5p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 0 6`
-  - A. `...O-O` — ILLEGAL — parse_san('...O-O') failed: invalid san: '...O-O'
-  - B. `...e6` — ILLEGAL — parse_san('...e6') failed: invalid san: '...e6'
-  - C. `...d5` — ILLEGAL — parse_san('...d5') failed: invalid san: '...d5'
-  - D. `...c6` — ILLEGAL — parse_san('...c6') failed: invalid san: '...c6'
 
 ### Soal 81
 - **Tema:** STR — Exchange Sacrifice untuk Dominasi Posisional
@@ -519,38 +443,6 @@ _None._
   - C. `Karena Raja lebih aktif dari Gajah dalam endgame` — ILLEGAL — parse_san('Karena Raja lebih aktif dari Gajah dalam endgame') failed: invalid san: 'Karena Raja lebih aktif dari Gajah dalam endgame'
   - D. `Karena pion menjadi lebih penting dari Gajah di endgame` — ILLEGAL — parse_san('Karena pion menjadi lebih penting dari Gajah di endgame') failed: invalid san: 'Karena pion menjadi lebih penting dari Gajah di endgame'
 
-### Soal 87
-- **Tema:** TAK — Smothered Mate
-- **FEN:** `6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1`
-  - A. `Nf3` — OK
-  - B. `Qd8+` — OK
-  - C. `Nf7+` — ILLEGAL — parse_san('Nf7+') failed: illegal san: 'Nf7+' in 6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1
-  - D. `Qh5` — OK
-
-### Soal 89
-- **Tema:** END — King Opposition dalam Pion Endgame
-- **FEN:** `8/8/4k3/8/4K3/4P3/8/8 w - - 0 1`
-  - A. `e4` — ILLEGAL — parse_san('e4') failed: illegal san: 'e4' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1
-  - B. `Kd4` — OK
-  - C. `Kf4` — OK
-  - D. `Ke5` — ILLEGAL — parse_san('Ke5') failed: illegal san: 'Ke5' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1
-
-### Soal 90
-- **Tema:** STR — Prophylaxis: Mencegah Rencana Lawan
-- **FEN:** `r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10`
-  - A. `Bd3` — ILLEGAL — parse_san('Bd3') failed: illegal san: 'Bd3' in r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10
-  - B. `Ne5` — OK
-  - C. `Qd2` — OK
-  - D. `b4` — OK
-
-### Soal 92
-- **Tema:** TAK — Overloading a Piece
-- **FEN:** `r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8`
-  - A. `Nxd5` — ILLEGAL — parse_san('Nxd5') failed: illegal san: 'Nxd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8
-  - B. `Bxf7+` — ILLEGAL — parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8
-  - C. `Nd5` — ILLEGAL — parse_san('Nd5') failed: illegal san: 'Nd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8
-  - D. `Re3` — ILLEGAL — parse_san('Re3') failed: illegal san: 'Re3' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8
-
 ### Soal 93
 - **Tema:** END — Pawn Majority dalam Endgame
 - **FEN:** `8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1`
@@ -558,14 +450,6 @@ _None._
   - B. `f4` — OK
   - C. `Kf4` — OK
   - D. `g4` — ILLEGAL — parse_san('g4') failed: illegal san: 'g4' in 8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1
-
-### Soal 94
-- **Tema:** STR — Weak Squares dan Color Weakness
-- **FEN:** `r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10`
-  - A. `Ne5` — ILLEGAL — parse_san('Ne5') failed: illegal san: 'Ne5' in r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10
-  - B. `Bb5` — OK
-  - C. `f4` — OK
-  - D. `Qh5` — OK
 
 ### Soal 95
 - **Tema:** BUK — Benko Gambit: Filosofi dan Struktur
