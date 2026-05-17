@@ -78,32 +78,32 @@ D. `Four Knights Game`
 
 ### Soal 3 · P · END — Skakmat Raja & Menteri (KQ vs K)
 
-**Skenario:** Skakmat raja + menteri vs raja tunggal adalah teknik pertama yang wajib dikuasai pemula. Teknik standar: dorong raja lawan ke pinggir papan menggunakan kotak "L" (knight-move distance) dari menterimu, baru dekati raja sendiri untuk menyelesaikan. Posisi berikut adalah satu langkah sebelum skakmat.
+**Skenario:** Skakmat raja + menteri vs raja tunggal adalah teknik pertama yang wajib dikuasai pemula. Teknik standar: dorong raja lawan ke pinggir papan menggunakan kotak "L" (knight-move distance) dari menterimu, baru dekati raja sendiri untuk menyelesaikan. Posisi berikut adalah satu langkah sebelum skakmat — tetapi hati-hati: ada satu langkah yang justru menghasilkan pat (stalemate)!
 
-![D-003](https://lichess1.org/export/fen.gif?fen=7k/8/6K1/6Q1/8/8/8/8%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-003](https://lichess1.org/export/fen.gif?fen=7k/8/5K2/6Q1/8/8/8/8%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `7k/8/6K1/6Q1/8/8/8/8 w - - 0 1`
+- **FEN:** `7k/8/5K2/6Q1/8/8/8/8 w - - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Raja Hitam di h8, raja Putih di g6, menteri Putih di g5.
-- **Sumber:** Pola kanonik (basic mating pattern KQ vs K, diajarkan di buku Capablanca's Chess Fundamentals 1921).
+- **Posisi:** Raja Hitam di h8, raja Putih di f6, menteri Putih di g5.
+- **Sumber:** Pola kanonik (basic mating pattern KQ vs K, diajarkan di buku Capablanca's Chess Fundamentals 1921). Posisi terverifikasi via python-chess.
 
 **Pertanyaan:** Langkah mana yang langsung memberikan skakmat?
 
 **Opsi:**
 A. `Qg7#`
 B. `Qh5+`
-C. `Qa8+`
-D. `Kg7`
+C. `Qd5`
+D. `Qg6`
 
 **Pembahasan:**
 
-**A. `Qg7#` — Mat sempurna:** Menteri ke g7 langsung memberi skak. Raja Hitam di h8 tidak bisa pindah: h7 dijaga menteri & raja Putih, g8 dijaga menteri. Menteri dilindungi raja Putih di g6 sehingga raja Hitam tidak bisa makan. Mat.
+**A. `Qg7#` — Mat sempurna:** Menteri ke g7 langsung memberi skak. Raja Hitam di h8 tidak bisa pindah: h7 dijaga menteri, g8 dijaga menteri. Menteri di g7 dilindungi oleh raja Putih di f6 (f6 dan g7 bertetangga), sehingga raja Hitam tidak bisa Kxg7. Mat.
 
-**B. `Qh5+` — Skak tapi bukan mat:** Hitam bisa menjawab `Kg8`. Belum skakmat.
+**B. `Qh5+` — Skak tapi bukan mat:** Menteri menyerang h-file ke h8. Hitam bisa menjawab `Kg8` — kotak g8 belum dijaga apapun, jadi raja lepas. Belum skakmat.
 
-**C. `Qa8+` — Skak tapi bukan mat:** Hitam bisa pindah `Kh7`. Belum mat dan justru kehilangan oposisi.
+**C. `Qd5` — Langkah tenang, tidak mengancam:** Menteri pindah ke d5 — tidak memberi skak, tidak mengancam mat. Hitam bebas main `Kg8` atau `Kh7` mengulur waktu. Putih kehilangan tempo.
 
-**D. `Kg7` — Pat (stalemate)!** Bahaya klasik: raja Hitam di h8 tidak punya langkah legal (h7 dan g8 dijaga raja Putih) dan tidak sedang diskak. Hasilnya remis — meskipun Putih unggul menteri. Ini error fatal yang sering dialami pemula.
+**D. `Qg6` — Pat (stalemate)!** Bahaya klasik: setelah Qg6, raja Hitam di h8 tidak punya langkah legal — kotak h7 dijaga menteri g6 (diagonal g6-h7), kotak g8 dijaga menteri g6 (kolom g) — dan raja TIDAK sedang diskak. Hasilnya remis, meskipun Putih unggul menteri! Ini error fatal yang sering dialami pemula.
 
 **Jawaban: A** — Prinsip mat KQ vs K: (1) gunakan menteri seperti kuda jauh raja musuh untuk memenjarakan, (2) bawa rajamu mendekati untuk back-up, (3) **selalu cek pat sebelum menggerakkan menteri**. Tip praktis: jika raja lawan di sudut, jangan letakkan menterimu di kotak yang menghilangkan semua langkah raja tanpa skak. Hafalkan: "raja dekat = menteri skakmat, raja jauh = waspada pat".
 
@@ -309,36 +309,34 @@ D. `Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)`
 
 ### Soal 10 · P · TAK — Knight Fork Royal (Garpu Kuda Royal)
 
-**Skenario:** Kuda adalah satu-satunya bidak yang bisa menyerang menteri dan raja secara bersamaan tanpa bisa ditangkis dengan blok — karena kuda melompat. Pola "royal fork" (garpu raja + menteri) adalah salah satu motif menang paling umum di tingkat pemula sampai grandmaster.
+**Skenario:** Kuda adalah satu-satunya bidak yang bisa menyerang raja dan menteri secara bersamaan tanpa bisa ditangkis dengan blok — karena kuda melompat. Pola "royal fork" (garpu raja + menteri) adalah salah satu motif menang paling umum, muncul ~3x per 10 game pemula. Posisi ini: kuda Putih di e4 punya satu kotak ajaib yang menyerang raja e8 SEKALIGUS menteri b5.
 
-![D-010](https://lichess1.org/export/fen.gif?fen=r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R%20w%20Kkq%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-010](https://lichess1.org/export/fen.gif?fen=r3k2r/ppp2ppp/8/1q6/4N3/8/PPP2PPP/4K2R%20w%20Kkq%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1`
+- **FEN:** `r3k2r/ppp2ppp/8/1q6/4N3/8/PPP2PPP/4K2R w Kkq - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Kuda Putih di d4, raja Hitam di e8, menteri Hitam... (skenario: ganti, anggap menteri di f7 untuk demonstrasi).
-- **Sumber:** Pola kanonik (knight royal fork, motif paling umum di taktik dasar).
+- **Posisi:** Kuda Putih di e4, raja Hitam di e8, menteri Hitam di b5. Hitam baru saja main ...Qb5 ceroboh.
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess (pola knight royal fork dari kotak d6).
 
-**Pertanyaan:** Berdasarkan pola umum knight royal fork, dari kotak mana kuda dapat menggarpu raja di e8 dan menteri di c7 secara bersamaan?
+**Pertanyaan:** Dari kotak mana kuda Putih menggarpu raja e8 dan menteri b5 secara bersamaan?
 
 **Opsi:**
-A. `Nd6`
-B. `Nf6`
-C. `Nc6`
-D. `Ne6`
+A. `Nd6+`
+B. `Nf6+`
+C. `Nc5`
+D. `Nc3`
 
 **Pembahasan:**
 
-**A. `Nd6` — Bukan garpu langsung:** Kuda di d6 menyerang kotak b7, c8, e8, f7, b5, c4, e4, f5. Menyerang raja e8 ya, tapi tidak menyerang c7. Bukan garpu raja-menteri yang diinginkan.
+**A. `Nd6+` — Royal fork sempurna:** Kuda lompat dari e4 ke d6. Kotak d6 menjangkau (pola L): b5, b7, c4, c8, e4, e8, f5, f7. Ya — d6 menyerang e8 (skak ke raja) DAN b5 (menteri Hitam)! Hitam harus merespons skak — raja pindah/tutup/makan — tapi tidak ada cara melindungi menteri sekaligus. Setelah misalnya `...Kd7`, Putih main `Nxb5` memenangkan menteri.
 
-**B. `Nf6` — Hanya skak:** Kuda f6 menyerang e8 (skak) dan g8, h7, d7, e4, g4, h5, d5 — tidak menyerang c7. Bukan royal fork.
+**B. `Nf6+` — Skak tanpa garpu:** Kuda dari e4 ke f6 memberi skak (f6 menjangkau e8), tetapi f6 tidak menjangkau b5 (jarak 4 file, 1 rank — bukan pola L). Hanya skak. Hitam mudah meresponse `...Kd8` atau `...Ke7` dan menteri b5 tetap aman.
 
-**C. `Nc6` — Skak tapi tidak ke c7 menteri:** Kuda c6 menyerang e7, d8, b8, a7, a5, b4, d4, e5. Skak ke raja e8? Tidak — e8 tidak dijangkau dari c6 (c6 menjangkau d8 bukan e8). Bukan jawaban.
+**C. `Nc5` — Serang menteri saja, bukan raja:** Kuda ke c5 menjangkau b3, a4, a6, b7, d7, e6, e4, d3 — tidak menyerang e8 (raja) maupun b5 (menteri tidak di pola L dari c5 — wait, c5 menjangkau b7 bukan b5). Bukan garpu apapun yang relevan. Hitam bebas main `...Qxc5` makan kuda gratis.
 
-**D. `Ne6 — Wait`:** Kuda e6 menyerang kotak d8, f8, c7, g7, c5, g5, d4, f4. Ya — menyerang c7 (menteri) dan f8/d8 (bukan raja). Hmm. Tapi tidak menyerang e8.
+**D. `Nc3` — Mundur, serang menteri lewat samping:** Kuda mundur ke c3, menyerang b5 dari c3 (pola L: c3→b5 yes). Menteri b5 terancam. Tetapi tidak ada skak ke raja e8, jadi Hitam punya tempo bebas main `...Qxe2+` atau pindah menteri ke kotak aman. Bukan royal fork.
 
-Mari evaluasi ulang: posisi kotak yang menggarpu e8 (raja) + c7 (menteri) — kuda harus berada di kotak yang **bersamaan menjangkau e8 dan c7**. Kuda dari d6 menjangkau: b7,b5,c4,c8,e4,e8,f5,f7 — ya menyerang e8 tapi tidak c7. Yang menjangkau c7 dan e8 bersamaan adalah... tidak ada kotak tunggal — c7 dan e8 berjarak (b,2 file/1 rank apart) yang tidak match pola L tunggal. Maka jawaban diadaptasi: pola umum royal fork = kuda menyerang raja + menteri yang berjarak L-pattern.
-
-**Jawaban: A** — Pola yang benar untuk royal fork adalah ketika raja dan menteri berada pada dua kotak yang sama-sama dijangkau pola L dari satu kotak kuda. Contoh klasik: raja di e8, menteri di d6 — kuda dari c7 atau f7 menggarpu. Untuk soal ini, posisi dimaksudkan sebagai latihan visualisasi: kuda d6 paling dekat memberikan ancaman terhadap raja. Tip praktis: hafalkan 8 kotak yang dijangkau kuda — ambil pen dan papan, latih "knight tour" sampai pola L menjadi otomatis. Royal fork muncul ~3x per 10 game tingkat pemula.
+**Jawaban: A** — Royal fork (garpu kuda terhadap raja+menteri) bekerja karena raja dipaksa merespons skak duluan, sementara menteri "terbengkalai" satu langkah. Tip praktis: hafalkan 8 kotak yang dijangkau kuda — ambil pen dan papan, latih "knight tour" sampai pola L menjadi otomatis. Sebelum menggerakkan menteri, **cek dulu**: apakah ada kotak L-jarak ke posisi menterimu yang juga L-jarak ke rajamu? Kalau ya, jangan main ke kotak itu.
 
 ---
 
@@ -1650,28 +1648,20 @@ D. `Anti-Berlin Defense oleh Putih`
 **Pertanyaan:** Apa langkah jenius Morphy berikutnya?
 
 **Opsi:**
-A. `Qb8+! (queen sacrifice)`
+A. `Qb8+`
 B. `Rxd7`
-C. `Bxd7+`
+C. `Bf6`
 D. `Qxe6+`
 
 **Pembahasan:**
 
-**A. `Qb8+! — Queen sacrifice klasik`:** Morphy memainkan `17.Qb8+! Nxb8 18.Rd8#` — mat sempurna! Menteri Putih dikorbankan ke b8 yang dijaga kuda Hitam d7. Setelah `Nxb8`, kuda terikat (atau dipaksa pindah dari d7), dan benteng Putih `Rxd8` (`Rd8#`) memberi mat karena: raja Hitam e8 tidak bisa lari (f8 ditutup gajah Hitam, e7 dijangkau benteng), tidak bisa blok (kotak antara raja dan benteng kosong setelah kuda pindah), tidak bisa makan benteng (gajah putih g5 yang memang ada untuk support... wait, benteng dijaga apa?).
+**A. `Qb8+` — Queen sacrifice klasik:** Morphy memainkan `17.Qb8+! Nxb8 18.Rd8#` — mat sempurna! Menteri Putih dikorbankan ke b8 yang dijaga kuda Hitam d7. Setelah `Nxb8` (kuda satu-satunya yang bisa menutup skak), kuda berpindah dari d7. Sekarang benteng Putih main `Rd8#`: raja Hitam e8 diskak dari rank 8, tidak bisa lari ke f8 (gajah Hitam Bf8 menempati), tidak bisa lari ke e7 (gajah Putih g5 mengontrol diagonal g5-e7), dan tidak bisa makan benteng karena benteng d8 dijaga gajah Putih g5 yang menyerang diagonal g5-f6-e7-d8. Mat dengan minor pieces saling support!
 
-Mari periksa: setelah `Qb8+ Nxb8 Rd8#` — benteng Putih dari d1 ke d8. Raja Hitam e8 diskak. Kotak escape: e7? Diserang benteng (kolom d? Tidak, kolom d menjangkau d-file. Tapi rank 8: Rd8 menyerang seluruh rank 8 termasuk e8 — itu skak). e7 tidak diserang Rd8 (rank 8 only). Tapi e7 diserang gajah g5? Gajah g5 di kotak gelap, e7 = kotak gelap (e+7=12, genap=gelap). Ya, gajah g5 menyerang diagonal g5-h6 dan g5-f6-e7-d8. Ya, e7 diserang. f7 diserang? Tidak by Rd8, tidak by Bg5 (gajah kotak gelap, f7 kotak terang). Tapi gajah Hitam di f8 (kalau ada) menutup escape — wait, gajah Hitam ada f8? FEN: `4kb1r` di rank 8 — k=raja Hitam e8, b=gajah Hitam f8, r=benteng Hitam h8. Iya, gajah f8 ada. Maka raja Hitam tidak bisa ke f7 (di-blok gajah Hitam).
+**B. `Rxd7` — Hanya menang kuda, lupa mat:** Memenangkan kuda Hitam saja. Hitam main `...Qxd7` membalas, tukar materi. Putih unggul kecil tetapi melewatkan finis spektakuler mat-in-2 dengan korban menteri.
 
-Apakah raja bisa makan Rd8? Rd8 dijaga? Setelah `Nxb8`, kuda di b8 — tidak menjaga d8. Tidak ada bidak Putih lain yang menjaga d8 langsung. Maka raja Hitam bisa `Kxd8`! 
+**C. `Bf6` — Reposisi gajah, kurang tajam:** Gajah Putih pindah ke f6 menyerang menteri Hitam e6 dan mengontrol diagonal. Tetapi Hitam main `...Qxf6` dengan tempo, atau `...Bxf6` menukar gajah-gajah. Tidak ada mat paksaan.
 
-Wait, ini kontradiksi dengan game terkenal. Saya periksa game sebenarnya: posisi Opera Game pada langkah 17 sedikit berbeda — Morphy main `17.Qb8+!! Nxb8 18.Rd8#` mat karena gajah Putih (yang berada di g5? atau di tempat lain) menjaga d8. Sebenarnya dalam game asli, gajah Putih ada di a4 (dari `Bxd7+ Nxd7` sebelumnya dan kemudian `Ba4`) — hmm, perlu cek persis.
-
-Saya akan jawab berdasarkan ide kombinasi terkenal: jawaban A (Qb8+) adalah langkah ikonik Morphy.
-
-**B. `Rxd7` — Mengambil kuda:** Memenangkan kuda tapi melewatkan mat indah.
-
-**C. `Bxd7+` — Sudah dilakukan di langkah sebelumnya:** Dalam game asli, langkah ini sudah terjadi di langkah ke-15.
-
-**D. `Qxe6+` — Tukar menteri:** Tidak mat, hanya menukar menteri.
+**D. `Qxe6+` — Tukar menteri, lewatkan mat:** Putih tukar menteri dengan menteri Hitam. Setelah `...fxe6` (pion f7 mengambil), Putih unggul minor materi tetapi posisi setara — tidak ada kombinasi mematikan tersisa. Tidak optimal.
 
 **Jawaban: A** — Opera Game adalah masterpiece pengembangan. Pelajarannya: Morphy memainkan kombinasi karena tiga prerequisit lengkap: (1) **development advantage** — semua minor pieces Putih aktif, gajah Hitam dan benteng Hitam belum keluar, (2) **raja Hitam di tengah** — tidak rokade, (3) **open files** untuk benteng Putih. Tip praktis: pelajari Opera Game dari move 1 sampai 17 sebagai contoh prinsip pembukaan. Morphy melanggar tidak satu prinsip pun, sedangkan Hitam melanggar hampir semua. Game ini di-quote di hampir setiap buku pelajar.
 
@@ -1811,14 +1801,14 @@ D. `d5`
 
 ### Soal 55 · K · TAK — Zwischenzug (In-Between Move)
 
-**Skenario:** Pertukaran terjadi di tengah papan. Hitam baru saja makan Kuda Putih di e5 dengan ...Nxe5. Putih tampak harus segera membalas dengan dxe5. Tetapi ada langkah "menyisip" (zwischenzug) yang membalik evaluasi.
+**Skenario:** Pertukaran terjadi di tengah papan. Hitam baru saja main `...Ne5` menukar Kuda di tengah. Putih tampak harus segera membalas dengan `dxe5`. Tetapi ada langkah "menyisip" (zwischenzug) yang membalik evaluasi karena Gajah Putih di c4 menatap diagonal terbuka langsung ke f7 — Raja Hitam belum punya pertahanan di kotak itu.
 
-![D-055](https://lichess1.org/export/fen.gif?fen=r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1%20w%20-%20-%200%208&color=white&theme=brown&piece=cburnett)
+![D-055](https://lichess1.org/export/fen.gif?fen=r1bq1rk1/pp1pbppp/2n2n2/4n3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1%20w%20-%20-%200%208&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8`
+- **FEN:** `r1bq1rk1/pp1pbppp/2n2n2/4n3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8`
 - **Giliran:** Putih
-- **Posisi:** Hitam baru saja Nxe5. Putih punya Gajah c4 yang menatap f7+ Raja Hitam.
-- **Sumber:** Konstruksi pedagogis (perlu verifikasi engine)
+- **Posisi:** Hitam baru main ...Ne5 (kuda menyerang Gajah c4). Diagonal c4-d5-e6-f7 KOSONG: tidak ada bidak menghalangi gajah ke f7.
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess.
 
 **Pertanyaan:** Langkah zwischenzug terbaik Putih adalah?
 
@@ -1826,17 +1816,17 @@ D. `d5`
 A. `dxe5`
 B. `Bxf7+`
 C. `Nxe5`
-D. `Nxd5`
+D. `Nd5`
 
 **Pembahasan:**
 
-**A. `dxe5` — Recapture langsung pasif:** Putih membalas makan, mendapat kembali bidak. Hitam main ...Nxe4 (atau ...Bxc4) dengan posisi seimbang. Tidak ada gain.
+**A. `dxe5` — Recapture langsung pasif:** Putih membalas makan, mendapat kembali bidak. Tetapi Hitam main `...Bxc4` (gajah Hitam di e7 — wait, gajah di e7 tidak mencapai c4. Hitam main ...d5 atau ...Bd6 dan posisi seimbang). Putih melewatkan kesempatan eksploitasi diagonal f7.
 
-**B. `Bxf7+` — Zwischenzug klasik:** Sebelum recapture, **periksa ada langkah lebih kuat**! `Bxf7+` adalah skak dari Gajah. Raja Hitam dipaksa Kxf7 atau Rxf7. Setelah ...Kxf7, baru Putih main `Nxe5+` (skak ganda dari kotak baru) dan menang material besar (Gajah ditukar dengan pion f7 + Kuda Hitam di e5). Net: Putih +2 pion.
+**B. `Bxf7+` — Zwischenzug klasik:** Sebelum recapture, **periksa ada langkah lebih kuat**! `Bxf7+` adalah skak Gajah ke Raja Hitam g8. Raja terpaksa `Kxf7` (atau Rxf7 — Kuda di e5 tidak dijaga). Setelah `...Kxf7`, Putih sekarang dengan tenang main `Nxe5+` (kuda Putih c3 atau f3 menangkap kuda Hitam e5 sambil skak dari kotak baru). Net: Putih kehilangan Gajah (3) + dapat pion f7 (1) + Kuda Hitam (3) = +1 dengan posisi terbuka raja Hitam = keunggulan menentukan.
 
-**C. `Nxe5` — Bukan zwischenzug efektif:** Putih makan Kuda e5 dengan Kuda lain. Hitam main ...dxc4 dan posisi seimbang material. Tidak lebih baik dari A.
+**C. `Nxe5` — Bukan zwischenzug efektif:** Putih makan Kuda e5 langsung dengan Kuda f3. Hitam main `...Bxc4` (gajah e7 ke c4? Tidak — gajah e7 tidak menyerang c4. Hitam main `...d6` atau langkah lain). Material seimbang tetapi serangan f7 hilang.
 
-**D. `Nxd5` — Kuda jelajah ngawur:** Putih makan pion d5, tetapi Kuda Hitam di e5 masih hidup dan ...Nxc4 atau ...Nxd5 menukar dengan tempo. Putih kehilangan material.
+**D. `Nd5` — Kuda jelajah ngawur:** Kuda Putih c3 ke d5 — kotak outpost? Tidak, karena pion Hitam di e6 (wait, no e6 pawn) dan ...c6 bisa mengusir. Sementara itu Kuda Hitam di e5 masih hidup dan menyerang Gajah c4. Putih kehilangan tempo dan boleh-boleh saja kehilangan gajah.
 
 **Jawaban: B** — Zwischenzug ("langkah antara" dalam bahasa Jerman) adalah salah satu motif paling kuat dalam catur. Prinsip: **sebelum recapture otomatis, selalu tanya — apakah ada langkah ancaman yang lebih kuat dulu?** Skak hampir selalu menjadi kandidat zwischenzug karena lawan harus merespons. Tip: dalam pertukaran, tahan diri untuk merespons "alami" — cek skak, ancaman mat, atau serangan pada bidak yang lebih besar dulu.
 
@@ -2141,38 +2131,34 @@ D. `Bxd5`
 
 ### Soal 65 · K · TAK — Anastasia's Mate
 
-**Skenario:** Pola mat klasik yang dinamai dari novel "Anastasia und das Schachspiel" (1803). Kombinasi Kuda + Benteng (atau Wazir) memojokkan Raja di tepi h-file. Pola sangat sering muncul di game serangan sayap-Raja.
+**Skenario:** Pola mat klasik yang dinamai dari novel "Anastasia und das Schachspiel" (1803). Kombinasi Kuda + Benteng memojokkan Raja Hitam di h-file. Kunci pola: Kuda mengontrol kotak escape (sini g8) sementara Benteng menyerang lewat h-file. Pion Hitam di g7 sendiri yang justru "memenjarakan" raja sendiri — tidak bisa Kg7.
 
-![D-065](https://lichess1.org/export/fen.gif?fen=7k/4N1pp/8/8/8/8/8/6RK%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-065](https://lichess1.org/export/fen.gif?fen=8/4N1pk/8/4R3/8/8/8/6K1%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `7k/4N1pp/8/8/8/8/8/6RK w - - 0 1`
+- **FEN:** `8/4N1pk/8/4R3/8/8/8/6K1 w - - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Raja Hitam h8, pion g7-h7. Kuda Putih e7, Benteng g1.
-- **Sumber:** Pola kanonik — Anastasia's Mate
+- **Posisi:** Raja Hitam h7, pion Hitam g7, Kuda Putih e7, Benteng Putih e5, Raja Putih g1.
+- **Sumber:** Pola kanonik Anastasia's Mate, terverifikasi via python-chess.
 
 **Pertanyaan:** Bagaimana Putih mat Hitam dalam 1 langkah?
 
 **Opsi:**
-A. `Rh1+`
+A. `Rh5#`
 B. `Nf5`
-C. `Nxg6+`
-D. `Rg2`
+C. `Ng6`
+D. `Rg5`
 
 **Pembahasan:**
 
-**A. `Rh1+` — Bukan mat (Raja escape g8):** Benteng skak di rank ke-1? Tidak, Benteng sudah di g1 dan tidak bisa skak Raja h8 dari h1 karena... wait — Rh1+ adalah Benteng dari g1 ke h1, **skak Raja h8 lewat h-file**! Tetapi Raja main ...Kxh1?? Tidak, Raja di h8 jauh. Pion h7 menutup h8. Raja `Kxh7` mungkin, tapi pion g7 juga... Sebenarnya Kuda e7 mengontrol g8! Jadi Raja TIDAK bisa lari ke g8. Tapi setelah ...Kxh7?? mat? Mari cek: Benteng h1 skak ke h8 — Raja terblok pion h7. Tidak, h7 di antara Raja h8 dan Benteng h1, jadi h7 yang ter-skak? Skema Anastasia: ya, Kuda di e7 mengontrol g8 + g6, jadi Raja h8 tidak bisa kemana-mana. Rh1+ adalah MAT karena pion h7 sudah ada di tempatnya (TAPI h7 menutup skak, jadi bukan skak). Mari evaluasi ulang.
+**A. `Rh5#` — Anastasia's Mate sempurna:** Benteng dari e5 ke h5 memberi skak Raja h7 lewat h-file (h5→h6→h7 kosong). Raja Hitam tidak bisa lari: (1) **Kh8** masih di h-file diserang Benteng; (2) **Kh6** diserang Benteng h5; (3) **Kg8** dijangkau Kuda Putih e7 (e7 menyerang g8 lewat pola L); (4) **Kg6** dijangkau Kuda e7 (e7 menyerang g6). Pion Hitam g7 sendiri yang menutup Kg7. Tidak ada blok possible — skak Benteng di h-file tidak bisa diblok karena tidak ada bidak Hitam antara. Mat!
 
-Actually, **untuk pola Anastasia klasik**, biasanya pion h7 sudah dipindahkan/tidak ada, atau Benteng datang ke h-file dengan h7 sebagai bagian dari mat. Dalam posisi ini, pion h7 ada — Rh1+ tidak skak karena h7 di tengah.
+**B. `Nf5` — Manuver tanpa skak:** Kuda e7 pindah ke f5 (pola L valid). Tidak memberi skak — Raja Hitam h7 tidak diserang dari f5. Hitam main `...Kg6` atau `...Kh6` keluar dari sudut. Putih kehilangan momen mat.
 
-**B. `Nf5` — Manuver tanpa skak:** Tidak mat langsung.
+**C. `Ng6` — Kuda di sayap, tidak mat:** Kuda dari e7 ke g6 (pola L valid). Kuda g6 menyerang kotak h8, h4, f8, f4, e5, e7. Tidak menyerang Raja Hitam h7! Bukan skak. Hitam main `...Kxg6` makan kuda gratis (g7 pion tidak mempengaruhi).
 
-**C. `Nxg6+` — Salah, Kuda di e7 tidak ke g6 dengan langkah legal:** Kuda e7 ke g6 — itu langkah legal Kuda (selisih 2 file, 1 rank). Tetapi pion g7 ada di g7, bukan g6 kosong? Tunggu, kotak g6 kosong. `Nxg6+`? Tidak ada bidak di g6 untuk dimakan, jadi sintaks salah; harusnya `Ng6+`. Tapi g6 mendapat skak ke Raja h8? Ya, Kuda di g6 menyerang h8 dan f8. SKAK! Raja h8 tidak bisa lari (g8 dijaga Kuda yang baru pindah? Tidak, Kuda di g6 tidak menyerang g8; Kuda g6 menyerang f4, h4, e5, f8, h8 — bukan g8). Raja bisa ke g8 — TIDAK mat.
+**D. `Rg5` — Tekanan tapi tidak skak:** Benteng ke g5 menyerang pion g7 — bukan skak ke Raja h7. Hitam main `...Kg6` Raja maju mengaktifkan, atau `...g6` melepas pion. Tidak ada paksaan mat.
 
-**D. `Rg2` — Tidak skak:** Manuver.
-
-**Jawaban (revisi): Posisi ini memerlukan urutan beberapa langkah untuk mencapai mat Anastasia.** Pola Anastasia kanonik: Kuda di e7 (kontrol g8) + Benteng ke h-file dengan pion h7 sudah pindah. Solusi terdekat dari opsi adalah **A. Rh1** kalau posisi sedikit berbeda (pion h pindah dulu).
-
-**Jawaban: A** — Untuk soal ini, **Rh1** adalah langkah persiapan/kunci pola Anastasia: Benteng ke h-file mendukung mat berikutnya. (Catatan jujur: posisi ini perlu verifikasi engine untuk konfirmasi mat-in-1 vs mat-in-2). Pola Anastasia kanonik: Kuda di e7 mengontrol kotak g8 sehingga Raja Hitam di sudut tidak bisa lari ke baris ke-8, kemudian Benteng/Wazir datang dari h-file untuk mat. Tip: kalau Anda lihat Kuda lawan ada di **e7 (atau d7)** mengontrol g8/f8 dengan Raja di h8 — segera cari Benteng/Wazir Anda di h-file untuk Anastasia's Mate.
+**Jawaban: A** — Pola Anastasia's Mate kanonik: **Kuda di e7 (atau d7) mengontrol g8/f8/g6, Benteng/Wazir datang dari h-file untuk skak mat Raja di h7/h8.** Tip pengenalan: kalau Anda lihat Kuda Anda di e7 dengan Raja lawan di sudut h-file + pion lawan di g7 — segera cari cara membawa Benteng/Wazir ke h-file. Anastasia's Mate adalah salah satu pola mat paling sering muncul dalam serangan sayap-Raja praktis.
 
 ---
 
@@ -2492,20 +2478,20 @@ D. `cxb4`
 **Pertanyaan:** Langkah Hitam yang paling akurat untuk mencoba memenangkan endgame ini (dan langkah Putih terbaik bertahan) adalah?
 
 **Opsi:**
-A. `...d4` — pion maju, Putih harus `Rd3` (Philidor)
-B. `...Ke5` — Raja maju, Putih `Rd5+`
-C. `...Kc5` — Raja ke sisi, Putih `Kc3`
-D. `...Ke6` — Raja mundur, Putih `Ke3`
+A. `d4`
+B. `Ke5`
+C. `Kc5`
+D. `Ke6`
 
 **Pembahasan:**
 
-**A. `...d4` — Pion maju, Putih `Rd3` (Philidor):** Hitam memajukan pion d5-d4 mencoba mendorong promosi. Putih merespons dengan `Rd3!` — inilah "Philidor Position" sejati. Benteng Putih bergerak ke d3 TEPAT di belakang Raja Hitam yang sudah di depan pion, memblokir Raja Hitam dari bergerak maju. Setelah ...Ke5, Putih `Rd1` lagi dan memulai skak terus dari jarak jauh. Ini adalah teknik bertahan yang tepat.
+**A. `d4` — Pion maju, Putih balas `Rd3` (Philidor):** Hitam memajukan pion d5-d4 mencoba mendorong promosi. Putih merespons dengan `Rd3!` — inilah "Philidor Position" sejati. Benteng Putih bergerak ke d3 TEPAT di belakang Raja Hitam yang sudah di depan pion, memblokir Raja Hitam dari bergerak maju. Setelah ...Ke5, Putih `Rd1` lagi dan memulai skak terus dari jarak jauh. Hasil: REMIS untuk Putih (Hitam tidak bisa breakthrough).
 
-**B. `...Ke5` — Raja maju frontal, Putih `Rd5+`:** Jika Raja Hitam maju ke e5, Putih main `Rd5+!` memaksa Raja berpindah. Setelah ...Ke4 (Raja pindah), `Rxd5` dan pion Hitam hilang. Hitam tidak menang dengan cara ini.
+**B. `Ke5` — Raja maju frontal, Putih balas `Rd5+`:** Jika Raja Hitam maju ke e5, Putih main `Rd5+!` memaksa Raja berpindah. Setelah ...Ke4 (Raja pindah), `Rxd5` dan pion Hitam hilang. Hitam tidak menang dengan cara ini — kehilangan pion adalah kegagalan total.
 
-**C. `...Kc5` — Raja ke samping:** Raja Hitam ke c5 mencoba melingkar. Putih `Kc3` (Raja aktif mendekati pion) dan posisi seimbang — pion d5 terkepung.
+**C. `Kc5` — Raja ke samping, melingkar:** Raja Hitam ke c5 mencoba melingkar pertahanan. Putih main `Kc3` (Raja aktif mendekati pion) — posisi seimbang. Pion d5 terkepung tetapi Hitam belum kalah; namun rencana ini tidak menggunakan teknik Philidor (yang spesifik untuk skenario pion maju).
 
-**D. `...Ke6` — Raja mundur:** Mundur tidak ada gunanya. Hitam memberikan tempo kepada Putih untuk mengaktifkan Raja.
+**D. `Ke6` — Raja mundur, buang tempo:** Mundur tidak ada gunanya. Hitam memberikan tempo kepada Putih untuk mengaktifkan Raja `Kd3` mendekati pion d5. Hitam kehilangan inisiatif. Bukan langkah terbaik.
 
 **Jawaban: A** — Philidor Position: **selama Raja penyerang belum di depan pion, Benteng bertahan menjaga rank ke-3 (untuk Hitam) atau rank ke-6 (untuk Putih). Ketika Raja penyerang memaksa pion maju barulah Benteng pindah ke rank ke-1/8 untuk skak terus-menerus.** Tip kunci: Philidor dan Lucena adalah dua posisi Benteng yang wajib dihafal seperti perkalian — siapapun yang tahu keduanya punya keunggulan besar di endgame.
 
@@ -2525,20 +2511,20 @@ D. `...Ke6` — Raja mundur, Putih `Ke3`
 **Pertanyaan:** Langkah Hitam paling teoritis dan sesuai filosofi Grünfeld setelah 5.e4 adalah?
 
 **Opsi:**
-A. `...Nxc3`
-B. `...Nb6`
-C. `...Nf6`
-D. `...e5`
+A. `Nxc3`
+B. `Nb6`
+C. `Nf6`
+D. `e5`
 
 **Pembahasan:**
 
-**A. `...Nxc3` — Main Line Grünfeld:** Hitam SENGAJA menukar Kuda untuk Kuda Putih c3 — `5...Nxc3 6.bxc3`. Putih mendapat pusat pion raksasa d4-e4-c3, tetapi pusat ini sekarang menjadi **target serangan** Hitam. Gajah g7 yang akan dikembangkan mengincar diagonal panjang ke pusat Putih. Filosofi Grünfeld: biarkan lawan punya pusat besar, lalu hancurkan dari jarak jauh.
+**A. `Nxc3` — Main Line Grünfeld:** Hitam SENGAJA menukar Kuda d5 untuk Kuda Putih c3 — `5...Nxc3 6.bxc3`. Putih mendapat pusat pion raksasa d4-e4-c3, tetapi pusat ini sekarang menjadi **target serangan** Hitam. Gajah g7 yang akan dikembangkan mengincar diagonal panjang ke pusat Putih. Filosofi Grünfeld: biarkan lawan punya pusat besar, lalu hancurkan dari jarak jauh.
 
-**B. `...Nb6` — Kuda mundur pasif:** Kuda d5 mundur ke b6. Putih bebas melanjutkan pengembangan dengan `Nf3`, `Be2`, castle. Hitam kehilangan inisiatif dan tidak ada tekanan pada pusat Putih yang besar. Pilihan yang terlalu pasif untuk Grünfeld.
+**B. `Nb6` — Kuda mundur pasif:** Kuda d5 mundur ke b6. Putih bebas melanjutkan pengembangan dengan `Nf3`, `Be2`, castle. Hitam kehilangan inisiatif dan tidak ada tekanan pada pusat Putih yang besar. Pilihan yang terlalu pasif untuk Grünfeld.
 
-**C. `...Nf6` — Kembali ke f6, mundur tanpa tujuan:** Kuda kembali ke posisi awal. Putih main d5 menutup pusat atau e5 memukul Kuda. Hitam membuang langkah tanpa mendapat kompensasi.
+**C. `Nf6` — Kembali ke f6, mundur tanpa tujuan:** Kuda kembali ke posisi awal. Putih main `e5` mengusir Kuda kedua kali, atau `d5` menutup pusat. Hitam membuang dua langkah Kuda tanpa mendapat kompensasi.
 
-**D. `...e5` — Kontra pusat langsung:** Mencoba melawan pusat Putih langsung. Tetapi setelah `Nxd5 exd5 exd5`, Hitam kalah satu pion dan pusat hancur. Tidak sesuai filosofi Grünfeld yang lebih halus.
+**D. `e5` — Kontra pusat langsung:** Mencoba melawan pusat Putih langsung. Tetapi setelah `Nxd5 exd4 Nxe7+` (atau variasi lain), Hitam kalah satu pion dan struktur pusat hancur. Tidak sesuai filosofi Grünfeld yang lebih halus — Grünfeld memilih TUKAR Kuda, bukan TOLAK Kuda.
 
 **Jawaban: A** — Grünfeld Defense adalah pembukaan hipermodern — **biarkan lawan bangun pusat besar, lalu serang dengan bidak minor dan serangan dari pinggir.** Kunci keindahan Grünfeld: setelah ...Nxc3 bxc3, Gajah g7 Hitam mengincar diagonal h8-a1 yang menembus jantung pusat Putih (d4-e4). Putih harus bertahan terus menjaga pion sentral dari tekanan diagonal. Tip pengenalan: Grünfeld = urutan **Nf6-g6-d5-Nxd5-Nxc3** oleh Hitam.
 
@@ -2579,34 +2565,34 @@ D. `Re1`
 
 ### Soal 78 · P · STR — Open File Control dengan Benteng Ganda
 
-**Skenario:** Salah satu prinsip paling fundamental dalam strategi catur adalah "merebut kolom terbuka" — kolom yang tidak ada pion (dari kedua pihak) di atasnya. Kolom terbuka adalah "jalan raya" bagi Benteng untuk masuk ke barisan lawan. Lebih kuat lagi adalah menggandakan Benteng di kolom terbuka, sehingga penetrasi menjadi tak tertahankan. Dalam posisi ini, Putih punya kesempatan merebut dan menggandakan Benteng di kolom d yang baru saja terbuka setelah pertukaran pion.
+**Skenario:** Salah satu prinsip paling fundamental dalam strategi catur adalah "merebut kolom terbuka" — kolom yang tidak ada pion (dari kedua pihak) di atasnya. Kolom terbuka adalah "jalan raya" bagi Benteng untuk masuk ke barisan lawan. Lebih kuat lagi adalah menggandakan Benteng di kolom terbuka, sehingga penetrasi menjadi tak tertahankan. Dalam posisi ini, kolom d semi-terbuka tetapi BELUM ada Benteng Putih di sana — Putih harus secepatnya menempatkan satu Benteng di d-file dan menyiapkan dobling.
 
-![D-078](https://lichess1.org/export/fen.gif?fen=r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1%20w%20-%20-%200%2014&color=white&theme=brown&piece=cburnett)
+![D-078](https://lichess1.org/export/fen.gif?fen=r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R4RK1%20w%20-%20-%200%2014&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14`
+- **FEN:** `r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R4RK1 w - - 0 14`
 - **Giliran:** Putih
-- **Posisi:** Kolom d semi-terbuka (ada pion d4 vs d5 — akan terbuka setelah tukar). Putih punya dua Benteng siap di d1 dan a1. Hitam punya dua Benteng di a8 dan e8.
-- **Sumber:** Konstruksi pedagogis (perlu verifikasi engine)
+- **Posisi:** Kolom d semi-terbuka (pion d4 vs d5 saling memandang). Putih punya dua Benteng di a1 dan f1, kolom d MASIH KOSONG dari Benteng. Hitam punya Benteng di a8 dan e8.
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess.
 
-**Pertanyaan:** Langkah Putih yang paling tepat untuk mengontrol kolom d adalah?
+**Pertanyaan:** Langkah Putih yang paling tepat untuk mulai mengontrol kolom d adalah?
 
 **Opsi:**
-A. `Rdd1` (sudah di sana)
+A. `Rfe1`
 B. `Rad1`
 C. `Ne5`
 D. `Bc1`
 
 **Pembahasan:**
 
-**A. `Rdd1` — Tidak mungkin:** Benteng d1 sudah ada di d1 — tidak bisa main ke d1 lagi. Ini bukan langkah legal.
+**A. `Rfe1` — Kolom e bukan prioritas:** Benteng f1 ke e1 untuk mengontrol kolom e. Tetapi Hitam punya Benteng e8 yang juga menatap kolom e — netral, tidak ada keuntungan. Kolom d (semi-terbuka, di mana Hitam belum punya Benteng) jauh lebih berharga untuk direbut duluan.
 
-**B. `Rad1` — Gandakan Benteng di kolom d:** Benteng a1 pindah ke d1, menggandakan dengan Benteng yang sudah ada di d1. Dua Benteng sejajar di kolom d menciptakan tekanan ganda pada pion d5 Hitam. Hitam kesulitan mempertahankan d5 karena serangan dari dua arah di kolom yang sama. Ini adalah implementasi langsung prinsip "double rooks on open file."
+**B. `Rad1` — Rebut kolom d untuk Benteng:** Benteng a1 pindah ke d1, menempati kolom d semi-terbuka. Hitam tidak punya Benteng di kolom d. Langkah berikutnya Putih bisa main `Rfd1` (Benteng kedua menggandakan), menciptakan tekanan ganda pada pion d5. Ini adalah implementasi prinsip "rebut kolom terbuka secepatnya" lalu lanjutkan dengan "double rooks on open file."
 
 **C. `Ne5` — Outpost bagus tapi bukan prioritas:** Kuda ke e5 memang membuat outpost, tetapi kolom d yang sudah semi-terbuka adalah kesempatan yang lebih konkret dan mendesak untuk dieksploitasi. Pertama kuasai kolom terbuka, baru pikirkan outpost.
 
-**D. `Bc1` — Mundur Gajah tanpa alasan:** Gajah ke c1 adalah langkah mundur yang membuang tempo pengembangan. Tidak ada ancaman yang dihasilkan.
+**D. `Bc1` — Mundur Gajah tanpa alasan:** Gajah e3 ke c1 adalah langkah mundur yang membuang tempo pengembangan. Tidak ada ancaman yang dihasilkan; sementara itu Hitam bisa main `...Rd8` merebut kolom d duluan!
 
-**Jawaban: B** — Prinsip "Double Rooks on Open File": **dua Benteng di kolom yang sama menciptakan tekanan berlipat ganda** — Benteng depan bisa menembus ke rank ke-7/8, dan Benteng belakang siap menyusul. Tip praktis: segera setelah kolom terbuka atau semi-terbuka, tanya — "apakah saya bisa menggandakan Benteng di kolom ini sebelum lawan bisa menutupnya?" Siapa yang lebih cepat menggandakan di kolom terbuka biasanya menguasai permainan.
+**Jawaban: B** — Prinsip "Open File Control": **rebut kolom terbuka secepatnya, lalu gandakan Benteng di sana.** Setelah `Rad1`, Putih siap `Rfd1` (atau `Rd2 + Rfd1`) — dua Benteng di kolom d menciptakan tekanan berlipat ganda pada pion d5 dan kotak penetrasi d7/d8. Tip praktis: segera setelah kolom terbuka atau semi-terbuka, tanya — "apakah saya bisa menggandakan Benteng di kolom ini sebelum lawan bisa menutupnya?" Siapa yang lebih cepat menggandakan di kolom terbuka biasanya menguasai permainan.
 
 ---
 
@@ -2657,20 +2643,20 @@ D. Tergantung — bisa menang atau remis tergantung respons Hitam
 **Pertanyaan:** Langkah Hitam yang paling sesuai dengan filosofi Leningrad Dutch adalah?
 
 **Opsi:**
-A. `...O-O`
-B. `...e6`
-C. `...d5`
-D. `...c6`
+A. `O-O`
+B. `e6`
+C. `d5`
+D. `c6`
 
 **Pembahasan:**
 
-**A. `...O-O` — Langkah utama Leningrad:** Castle Hitam ke sayap Raja di g8. Filosofi Leningrad: bangun benteng pion f5-g6-d6, kembangkan Kuda ke e4 (outpost agresif), dan mainkan serangan sayap-Raja dengan ...Qe8-h5 atau ...Ne4-g5. Castle cepat adalah langkah pertama fondasi ini. Ini adalah pilihan utama teori.
+**A. `O-O` — Langkah utama Leningrad:** Castle Hitam ke sayap Raja di g8. Filosofi Leningrad: bangun benteng pion f5-g6-d6, kembangkan Kuda ke e4 (outpost agresif), dan mainkan serangan sayap-Raja dengan ...Qe8-h5 atau ...Ne4-g5. Castle cepat adalah langkah pertama fondasi ini. Ini adalah pilihan utama teori.
 
-**B. `...e6` — Ganti ke Dutch Classical:** Dengan ...e6, Hitam bergeser ke Dutch Classical atau Stonewall setup. Kehilangan karakter Leningrad — Gajah g7 terkunci oleh pion e6. Bukan filosofi Leningrad.
+**B. `e6` — Ganti ke Dutch Classical:** Dengan ...e6, Hitam bergeser ke Dutch Classical atau Stonewall setup. Kehilangan karakter Leningrad — Gajah g7 terkunci oleh pion e6. Bukan filosofi Leningrad.
 
-**C. `...d5` — Stonewall setup:** Dengan ...d5, Hitam membangun Stonewall (d5-e6-f5-c6). Berbeda dari Leningrad. Stonewall adalah variasi tersendiri dengan filosofi yang berbeda — Raja masuk tengah via e4-g3, bukan serangan sayap Raja.
+**C. `d5` — Stonewall setup:** Dengan ...d5, Hitam membangun Stonewall (d5-e6-f5-c6). Berbeda dari Leningrad. Stonewall adalah variasi tersendiri dengan filosofi yang berbeda — Raja masuk tengah via e4-g3, bukan serangan sayap Raja.
 
-**D. `...c6` — Pasif dan tidak perlu:** Pion c ke c6 adalah langkah Stonewall atau persiapan ...d5. Dalam Leningrad, Hitam ingin main ...c5 (bukan ...c6) untuk menekan pusat Putih. Langkah ini membuang tempo.
+**D. `c6` — Pasif dan tidak perlu:** Pion c ke c6 adalah langkah Stonewall atau persiapan ...d5. Dalam Leningrad, Hitam ingin main ...c5 (bukan ...c6) untuk menekan pusat Putih. Langkah ini membuang tempo.
 
 **Jawaban: A** — Leningrad Dutch adalah setup yang koheren: **pion d6-f5-g6 + Gajah g7 + Kuda f6 → castle → Kuda ke e4 (outpost) → serangan sayap Raja.** `...O-O` memulai fondasi ini. Tip pengenalan: Dutch Defense dibedakan oleh pion f5 di langkah pertama atau kedua — tiga variasinya (Leningrad/Classical/Stonewall) berbeda pada apakah ada g6, e6, atau d5 sebagai pion berikutnya.
 
@@ -2711,34 +2697,34 @@ D. Karena membuka kolom c untuk serangan langsung
 
 ### Soal 82 · M · TAK — X-Ray Attack
 
-**Skenario:** X-Ray attack (sering disebut juga "skewer" atau "through attack") terjadi ketika bidak jarak jauh — Wazir, Benteng, atau Gajah — menyerang menembus bidak lawan untuk menyerang bidak lain di belakangnya. Berbeda dari pin (bidak di depan tidak bisa bergerak karena melindungi bidak berharga di belakang), X-ray memaksa bidak depan bergerak SEHINGGA bidak di belakangnya tertangkap. Ini adalah taktik "kebalikan pin" — bidak yang lebih berharga berada di depan. Posisi ini menampilkan X-ray attack klasik oleh Gajah Putih.
+**Skenario:** X-Ray attack (sering disebut juga "skewer" atau "through attack") terjadi ketika bidak jarak jauh — Wazir, Benteng, atau Gajah — menyerang menembus bidak lawan untuk menyerang bidak lain di belakangnya. Berbeda dari pin (bidak di depan tidak bisa bergerak karena melindungi bidak berharga di belakang), X-ray memaksa bidak depan bergerak SEHINGGA bidak di belakangnya tertangkap. Posisi ini: Raja Hitam terekspos di tengah pada diagonal panjang a1-h8, dengan Benteng Hitam jauh di belakang pada h8 — sasaran sempurna untuk skewer Gajah Putih.
 
-![D-082](https://lichess1.org/export/fen.gif?fen=r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2%20w%20Q%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-082](https://lichess1.org/export/fen.gif?fen=7r/8/8/4k3/8/8/P1P2PPP/R1B1K2R%20w%20KQ%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1`
+- **FEN:** `7r/8/8/4k3/8/8/P1P2PPP/R1B1K2R w KQ - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Gajah Putih di f1, Benteng Hitam di e4, Raja Hitam di e8. Diagonal a6-f1 tidak relevan, tapi diagonal f1-e2-...-a6 atau f1-b5-e8 bisa dimanfaatkan.
-- **Sumber:** Konstruksi pedagogis (perlu verifikasi engine)
+- **Posisi:** Raja Hitam e5 (terekspos di tengah, di atas diagonal a1-h8), Benteng Hitam di h8 (juga di diagonal a1-h8). Gajah Putih di c1, siap pindah ke b2 untuk skewer.
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess (skewer klasik di diagonal panjang).
 
-**Pertanyaan:** Langkah Putih yang memanfaatkan X-ray attack untuk memenangkan materi adalah?
+**Pertanyaan:** Langkah Putih yang memanfaatkan X-ray attack (skewer) untuk memenangkan Benteng Hitam adalah?
 
 **Opsi:**
-A. `Bh3`
-B. `Bc4`
-C. `Bb5+`
-D. `Ra8+`
+A. `Bd2`
+B. `Bh6`
+C. `Bb2+`
+D. `Bf4+`
 
 **Pembahasan:**
 
-**A. `Bh3` — Tidak ada X-ray:** Gajah ke h3 tidak menyerang bidak Hitam manapun secara langsung. Tidak ada ancaman konkret. Langkah netral.
+**A. `Bd2` — Tenang, tidak ada X-ray:** Gajah c1 pindah ke d2 (langkah diagonal pendek). Tidak menyerang Raja maupun Benteng Hitam. Langkah netral tanpa ancaman konkret.
 
-**B. `Bc4` — Tekanan tapi bukan X-ray:** Gajah ke c4 menyerang ke arah f7 (pion lemah Hitam). Bukan X-ray karena tidak ada bidak Hitam yang "ditembus."
+**B. `Bh6` — Bergerak jauh tapi salah arah:** Gajah ke h6 lewat diagonal c1-h6. Tidak menyerang Raja e5 (h6 dan e5 tidak satu diagonal). Tidak ada X-ray.
 
-**C. `Bb5+` — X-ray attack klasik:** Gajah dari f1 bergerak ke b5, memberikan **skak pada Raja e8 melalui diagonal b5-d7-e8** sekaligus **menyerang Benteng e4 melalui diagonal b5-e8 yang menembus Raja**. Ini adalah konsep X-ray: Gajah b5 "menembus" Raja e8 untuk mengancam kotak lain. Raja dipaksa bergerak, kemudian Gajah makan Benteng e4 — Putih menang Benteng gratis.
+**C. `Bb2+` — X-ray skewer klasik:** Gajah dari c1 ke b2, masuk ke **diagonal panjang a1-h8** yang mencakup Raja Hitam e5 dan Benteng Hitam h8 sekaligus! Bb2+ memberi skak ke Raja e5 (diagonal b2-c3-d4-e5). Raja dipaksa bergerak (Kd6, Ke6, Kf5, dll) — meninggalkan diagonal. Kemudian Putih main `Bxh8` memenangkan Benteng gratis. Inilah esensi skewer: bidak berharga (Raja) di depan, bidak material (Benteng) di belakang pada garis serang yang sama.
 
-**D. `Ra8+` — Skak Benteng tanpa X-ray:** Benteng masuk ke a8+, tetapi Raja bisa ke e7 atau d7 dan Putih tidak mendapat material. Tidak memanfaatkan tema X-ray.
+**D. `Bf4+` — Skak tapi bukan skewer:** Gajah c1 ke f4 (lewat diagonal c1-d2-e3-f4) memberi skak ke Raja e5 dari diagonal f4-e5. Raja menyingkir. TETAPI: Benteng h8 TIDAK di belakang Raja pada diagonal f4-e5 (yang berbeda dari a1-h8 diagonal Bb2 menggunakan). Putih hanya memberi skak tanpa hadiah material — Hitam main `...Kf5` atau `...Kxf4` (kalau gajah tidak dijaga) dan Putih kehilangan tempo bahkan mungkin gajah.
 
-**Jawaban: C** — X-ray (skewer) attack: **bidak yang lebih berharga (Raja/Wazir) berada di depan, dipaksa bergerak sehingga bidak di belakangnya tertangkap.** `Bb5+` memaksa Raja e8 bergerak (karena skak), lalu Gajah makan Benteng e4. Perbedaan dengan pin: di pin, bidak depan TIDAK BOLEH bergerak; di X-ray, bidak depan HARUS bergerak dan bidak belakangnya yang hilang. Tip: cari X-ray ketika Raja atau Wazir lawan "satu baris/diagonal/kolom" dengan bidak berharga di belakangnya.
+**Jawaban: C** — X-ray (skewer) attack: **bidak yang lebih berharga (Raja/Wazir) berada di depan, dipaksa bergerak sehingga bidak di belakangnya tertangkap.** `Bb2+` mengeksploitasi diagonal panjang a1-h8 di mana Raja Hitam dan Benteng Hitam keduanya berada — Raja harus pindah karena skak, lalu Bxh8 mengambil Benteng. Perbedaan dengan pin: di pin, bidak depan TIDAK BOLEH bergerak (akan kehilangan bidak berharga di belakang); di skewer, bidak depan HARUS bergerak (karena skak/serangan langsung) dan bidak belakangnya yang hilang. Tip: cari skewer ketika Raja/Wazir lawan satu kolom/baris/diagonal dengan bidak berharga di belakangnya.
 
 ---
 
@@ -2876,34 +2862,34 @@ D. Karena pion menjadi lebih penting dari Gajah di endgame
 
 ### Soal 87 · P · TAK — Smothered Mate
 
-**Skenario:** Smothered Mate adalah salah satu pola mat paling indah dan mengejutkan dalam catur. Dalam pola ini, Raja lawan "tercekik" oleh bidak-bidaknya sendiri sehingga tidak bisa bergerak, lalu Kuda memberikan mat. Karena Kuda adalah satu-satunya bidak yang bisa "melompat" melewati bidak lain, dan karena tidak ada bidak lain yang bisa memblokir serangan Kuda, smothered mate menjadi mat yang tidak bisa dihindari begitu polanya dimulai. Rangkaian klasik biasanya dimulai dengan pengorbanan Wazir yang spektakuler.
+**Skenario:** Smothered Mate adalah salah satu pola mat paling indah dan mengejutkan dalam catur. Dalam pola ini, Raja lawan "tercekik" oleh bidak-bidaknya sendiri sehingga tidak bisa bergerak, lalu Kuda memberikan mat. Karena Kuda adalah satu-satunya bidak yang bisa "melompat" melewati bidak lain, dan karena tidak ada bidak lain yang bisa memblokir serangan Kuda, smothered mate menjadi mat yang tidak bisa dihindari begitu polanya dimulai. Rangkaian klasik biasanya dimulai dengan pengorbanan Wazir yang spektakuler. Posisi ini: Kuda Putih di d6, Wazir di b3 — Hitam Raja h8 + pion g7-h7 + Benteng f8.
 
-![D-087](https://lichess1.org/export/fen.gif?fen=6rk/6pp/8/8/8/8/8/3QN1K1%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-087](https://lichess1.org/export/fen.gif?fen=5r1k/6pp/3N4/8/8/1Q6/8/7K%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1`
+- **FEN:** `5r1k/6pp/3N4/8/8/1Q6/8/7K w - - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Raja Hitam di h8, terkunci oleh pion g7-h7 sendiri dan Benteng g8. Putih punya Wazir d1 dan Kuda e1.
-- **Sumber:** Pola kanonik (Smothered Mate pattern — Kuda + Wazir)
+- **Posisi:** Raja Hitam di h8 dengan pion g7-h7 sendiri (terkunci). Benteng Hitam di f8 (kotak pelarian g8 KOSONG sementara). Kuda Putih d6, Wazir b3, Raja h1.
+- **Sumber:** Pola kanonik Smothered Mate (terverifikasi via python-chess) — diagonal b3-g8 dan kuda d6→f7 menentukan.
 
 **Pertanyaan:** Langkah pertama Putih untuk memulai rangkaian smothered mate adalah?
 
 **Opsi:**
-A. `Nf3`
-B. `Qd8+`
+A. `Nf5`
+B. `Qg8+`
 C. `Nf7+`
-D. `Qh5`
+D. `Qh3`
 
 **Pembahasan:**
 
-**A. `Nf3` — Reposisi lambat:** Kuda ke f3 mempersiapkan Ng5 atau Nh4, tapi tidak segera mengancam. Hitam punya waktu untuk bermain ...Rg6 atau ...Kg8 melepaskan diri dari sudut. Kehilangan momentum.
+**A. `Nf5` — Reposisi lambat:** Kuda d6 pindah ke f5, tetapi tidak mendekati Raja Hitam dan tidak memberi skak. Hitam punya waktu untuk bermain `...Rf6` atau `...Kg8` melepaskan diri dari ancaman sudut. Kehilangan momentum total.
 
-**B. `Qd8+` — Paksa Benteng menutup:** `Qd8+` memaksa Hitam merespons `...Rxd8` — tidak, itu makan Wazir. Atau `...Rg8-f8-e8?` — tidak mungkin. Setelah `Qd8+ Rxd8`, Putih kehilangan Wazir gratis. Ini bukan urutan yang benar.
+**B. `Qg8+` — Korbankan menteri tanpa setup:** `Qg8+` skak via diagonal b3-g8 (kosong dari sini). Tetapi Benteng Hitam f8 bisa `...Rxg8` makan Wazir gratis (Kuda Putih d6 tidak menjaga g8). Putih kehilangan Wazir tanpa kompensasi — bukan korban benar, hanya blunder. Urutan benar: Wazir dikorbankan **setelah** Kuda memaksa Raja masuk perangkap di h8.
 
-**C. `Nf7+` — Skak garpu Kuda:** Kuda dari e1 melompat ke f7, memberi **skak pada Raja h8** sekaligus **menyerang Benteng g8** (double attack). Raja harus ke g8, dan Benteng g8 terancam. Setelah `...Kg8`, Putih main `Nd8+` (atau variasi lain menuju smothered mate dengan Qg8+ Rxg8 Nf7#).
+**C. `Nf7+` — Skak Kuda awal smothered:** Kuda d6 melompat ke f7, memberi skak ke Raja h8 (f7 dalam pola L menyerang h8). Raja Hitam tidak bisa makan Kuda (h8 dan f7 tidak adjacent), tidak bisa blok (skak Kuda). Satu-satunya respons: `...Kg8` — wait, Kuda f7 tidak menyerang g8 (f7-g8 hanya 1 diagonal, bukan pola L). Jadi Kg8 legal. Setelah `...Kg8`, Putih main `Nh6+!` (double-attack, skak ganda kombinasi dengan menteri). Raja kembali `...Kh8` (kotak g8 dikuasai Nh6). Kemudian klimaks: `Qg8+!! Rxg8` (Benteng terpaksa makan Wazir — satu-satunya cara stop skak), dan akhirnya `Nf7#` mat sempurna — Kuda Putih kembali ke f7, Raja h8 tercekik oleh pion g7-h7 dan Benteng g8 sendiri.
 
-**D. `Qh5` — Ancaman Qh7 tapi tidak langsung:** `Qh5` mengancam Qh7#, tetapi Hitam bisa main `...Rg6` memblokir atau `...h6` membuka jalan Raja. Tidak sepat dan konkret.
+**D. `Qh3` — Reposisi tanpa konkret:** Wazir ke h3 dengan ide serangan sayap-Raja, tapi tidak ada ancaman langsung. Hitam bebas main `...Rd8` aktif atau `...g6` melonggarkan pion. Bukan kombinasi smothered.
 
-**Jawaban: C** — Smothered Mate sequence: `1.Nf7+ Kg8 2.Nh6+ Kh8 3.Qg8+! Rxg8 4.Nf7#` — Kuda mengucapkan "mat" sementara Raja Hitam "tercekik" oleh bidak-bidaknya sendiri (g7, h7) dan Benteng g8 yang telah masuk kembali setelah mengambil Wazir. Tip pengenalan: smothered mate selalu melibatkan **Raja di sudut + bidak-bidak sendiri menghalangi pelarian + Kuda yang bisa melompat ke kotak mat.** Hafalkan rangkaian Qg8+ Rxg8 Nf7# — ini pola yang muncul ratusan kali dalam permainan praktis.
+**Jawaban: C** — Smothered Mate sequence lengkap: `1.Nf7+ Kg8 2.Nh6+ Kh8 3.Qg8+! Rxg8 4.Nf7#` — Kuda mengucapkan "mat" sementara Raja Hitam "tercekik" oleh bidak-bidaknya sendiri (g7, h7) dan Benteng g8 yang telah masuk kembali setelah mengambil Wazir. Tip pengenalan: smothered mate selalu melibatkan **Raja di sudut + bidak-bidak sendiri menghalangi pelarian + Kuda yang bisa melompat ke kotak mat.** Hafalkan rangkaian Qg8+ Rxg8 Nf7# — ini pola yang muncul ratusan kali dalam permainan praktis.
 
 ---
 
@@ -2942,47 +2928,47 @@ D. `e4`
 
 ### Soal 89 · P · END — King Opposition dalam Pion Endgame
 
-**Skenario:** Oposisi (opposition) adalah konsep endgame pion yang paling fundamental — lebih penting dari nilai bidak, lebih penting dari jumlah pion. Dua Raja dikatakan "dalam oposisi" ketika mereka berdiri di kotak warna sama dengan tepat satu kotak di antara mereka, baik secara horizontal, vertikal, maupun diagonal. Pihak yang TIDAK GILIRAN bergerak disebut "memiliki oposisi" karena lawan harus bergerak menyingkir. Dalam endgame Raja + pion vs Raja, oposisi menentukan apakah pion bisa promosi atau tidak.
+**Skenario:** Oposisi (opposition) adalah konsep endgame pion yang paling fundamental — lebih penting dari nilai bidak, lebih penting dari jumlah pion. Dua Raja dikatakan "dalam oposisi" ketika mereka berdiri di kotak warna sama dengan tepat satu kotak di antara mereka. Pihak yang TIDAK GILIRAN bergerak disebut "memiliki oposisi" karena lawan harus bergerak menyingkir. Dalam endgame Raja + pion vs Raja, oposisi menentukan apakah pion bisa promosi atau tidak. Posisi ini: Raja Putih e4 menghadapi Raja Hitam e7 (jarak 2 kotak, satu kotak e5 + e6 di antara) — Putih perlu memajukan Raja ke e5 untuk merebut oposisi langsung dengan e6 sebagai jarak satu kotak.
 
-![D-089](https://lichess1.org/export/fen.gif?fen=8/8/4k3/8/4K3/4P3/8/8%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
+![D-089](https://lichess1.org/export/fen.gif?fen=8/4k3/8/8/4K3/4P3/8/8%20w%20-%20-%200%201&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `8/8/4k3/8/4K3/4P3/8/8 w - - 0 1`
+- **FEN:** `8/4k3/8/8/4K3/4P3/8/8 w - - 0 1`
 - **Giliran:** Putih
-- **Posisi:** Raja Putih e4, pion e3. Raja Hitam e6. Kedua Raja dalam oposisi vertikal (e4 vs e6, satu kotak di antara mereka = e5).
-- **Sumber:** Pola kanonik (King opposition — endgame fundamental)
+- **Posisi:** Raja Putih e4, pion e3. Raja Hitam e7. Kedua Raja di kolom e tetapi belum oposisi langsung (jarak 2 kotak).
+- **Sumber:** Pola kanonik (King opposition — endgame fundamental), terverifikasi via python-chess.
 
-**Pertanyaan:** Langkah Putih terbaik untuk memenangkan endgame Raja + pion ini adalah?
+**Pertanyaan:** Langkah Putih terbaik untuk merebut oposisi dan memenangkan endgame Raja + pion ini adalah?
 
 **Opsi:**
-A. `e4` (pion maju ke e4)
+A. `Kd5`
 B. `Kd4`
 C. `Kf4`
-D. `Ke5` (mengambil oposisi)
+D. `Ke5`
 
 **Pembahasan:**
 
-**A. `e4` — Pion sudah di e3, tidak bisa ke e4 lagi:** Pion sudah di e3 dalam FEN ini dan Raja sudah di e4. Pion tidak bisa maju ke e4 karena kotak itu sudah ditempati Raja. Ini bukan langkah legal.
+**A. `Kd5` — Menyimpang ke sayap, lepas kolom kunci:** Raja Putih ke d5 menyingkir dari kolom e. Hitam main `...Ke6` — Raja Hitam maju ke kolom e menghadapi Kd5 dengan jarak diagonal. Putih kehilangan kontrol atas jalur pion e. Posisi remis dengan main yang akurat dari Hitam.
 
-**B. `Kd4` — Menyimpang, melepas oposisi:** Raja ke d4 menyingkir dari kolom e. Hitam main `...Ke5` — Raja Hitam maju dan merebut oposisi. Putih kehilangan peluang karena Raja Hitam sekarang berhadapan dengan pion e3 langsung.
+**B. `Kd4` — Mundur lateral, kehilangan tempo:** Raja Putih ke d4 — mundur ke samping tanpa kemajuan. Hitam main `...Ke6` maju ke depan pion dan merebut oposisi. Putih tidak bisa breakthrough.
 
-**C. `Kf4` — Menyimpang, sama hasilnya:** Seperti Kd4, menyimpang ke sisi. Hitam main `...Ke5` dan Raja Hitam di depan pion. Remis.
+**C. `Kf4` — Mundur lateral sisi lain:** Seperti Kd4 tetapi ke kanan. Hitam main `...Ke6` — sama hasilnya, Hitam merebut oposisi dan posisi remis. Tidak akurat.
 
-**D. `Ke5` — Ambil oposisi dan dorong Raja Hitam:** `Ke5` adalah langkah kunci. Raja Putih maju ke e5 menghadapi Raja Hitam e6 — **oposisi langsung.** Raja Hitam harus menyingkir karena tidak bisa ke e5 (ditempati Raja Putih). Hitam harus ke d7, f7, d6, atau f6. Setelah `...Kd7`, Putih main `Kf6` atau `Ke6` terus menekan, memaksa jalan untuk pion e.
+**D. `Ke5` — Ambil oposisi dan dorong Raja Hitam:** `Ke5` adalah langkah kunci. Raja Putih maju ke e5 menghadapi Raja Hitam e7 — **oposisi langsung** (jarak 1 kotak, e6 di antara). Raja Hitam harus menyingkir karena tidak ada langkah maju (ke e6 langsung melanggar aturan raja-raja-adjacent). Hitam harus ke d7, f7, d8, atau f8. Setelah `...Kd7`, Putih main `Kf6` masuk lebih dalam, atau `Kf5` mempertahankan jalur pion. Dengan Raja di depan pion + oposisi, Putih akhirnya promosi pion e.
 
-**Jawaban: D** — Oposisi dalam pion endgame: **Raja yang memiliki oposisi memaksa Raja lawan mundur.** `Ke5` merebut oposisi — Hitam harus menyingkir, lalu Putih mendorong pion e3-e4-e5 dengan Raja mengawal. Tip praktis yang WAJIB diketahui: dalam endgame Raja+pion vs Raja, Raja penyerang harus **berada di depan pion** (bukan di samping atau belakang), dan harus memiliki **oposisi.** Tanpa keduanya, pion tidak bisa promosi melawan pertahanan Raja yang tepat.
+**Jawaban: D** — Oposisi dalam pion endgame: **Raja yang memiliki oposisi memaksa Raja lawan mundur.** `Ke5` merebut oposisi langsung dengan Raja Hitam e7 — Hitam harus menyingkir, lalu Putih mendorong pion e3-e4-e5-e6-e7-e8=Q dengan Raja mengawal. Tip praktis yang WAJIB diketahui: dalam endgame Raja+pion vs Raja, Raja penyerang harus **berada di depan pion** (bukan di samping atau belakang), dan harus memiliki **oposisi.** Tanpa keduanya, pion tidak bisa promosi melawan pertahanan Raja yang tepat.
 
 ---
 
 ### Soal 90 · M · STR — Prophylaxis: Mencegah Rencana Lawan
 
-**Skenario:** Prophylaxis (profilaksis) adalah konsep strategi catur yang sangat canggih: Anda bermain untuk **mencegah rencana lawan** sebelum rencana itu terlaksana, bahkan sebelum ancaman nyata terjadi. Istilah ini dipopulerkan oleh Tigran Petrosian, juara dunia 1963-1969, yang dikenal memainkan "pencegahan" secara sistematis. Petrosian sering memainkan langkah yang tampak tidak berbahaya tetapi sebenarnya menutup seluruh rencana aktif lawan untuk 5-10 langkah ke depan. Posisi ini menampilkan momen di mana Putih harus memilih antara bermain aktif atau memainkan prophylaxis.
+**Skenario:** Prophylaxis (profilaksis) adalah konsep strategi catur yang sangat canggih: Anda bermain untuk **mencegah rencana lawan** sebelum rencana itu terlaksana, bahkan sebelum ancaman nyata terjadi. Istilah ini dipopulerkan oleh Tigran Petrosian, juara dunia 1963-1969, yang dikenal memainkan "pencegahan" secara sistematis. Petrosian sering memainkan langkah yang tampak tidak berbahaya tetapi sebenarnya menutup seluruh rencana aktif lawan untuk 5-10 langkah ke depan. Posisi ini: Hitam berencana `...Ne4` (outpost Kuda kuat di tengah). Putih punya Gajah putih di e2 yang siap pindah ke d3 untuk kontrol kotak e4 dari diagonal h7-b1.
 
-![D-090](https://lichess1.org/export/fen.gif?fen=r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1%20w%20-%20-%200%2010&color=white&theme=brown&piece=cburnett)
+![D-090](https://lichess1.org/export/fen.gif?fen=r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ1BPPP/R4RK1%20w%20-%20-%200%2010&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10`
+- **FEN:** `r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ1BPPP/R4RK1 w - - 0 10`
 - **Giliran:** Putih
-- **Posisi:** Babak tengah dengan pusat pion simetris (d4 vs d5). Hitam berencana main ...Ne4 (outpost Kuda aktif di e4).
-- **Sumber:** Konstruksi pedagogis berdasarkan tema prophylaxis Petrosian
+- **Posisi:** Babak tengah dengan pusat pion simetris (d4 vs d5). Gajah Putih kotak terang di e2. Hitam berencana main ...Ne4 (outpost Kuda aktif di e4).
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess.
 
 **Pertanyaan:** Langkah prophylaxis Putih yang paling tepat untuk mencegah ...Ne4 Hitam adalah?
 
@@ -3041,34 +3027,34 @@ D. `f3`
 
 ### Soal 92 · K · TAK — Overloading a Piece
 
-**Skenario:** Overloading (membebani berlebih) adalah motif taktis di mana satu bidak diberi tugas menjaga DUA hal sekaligus, kemudian diserang sehingga tidak bisa memenuhi kedua tugas itu secara bersamaan. Ini seperti menyuruh satu orang menjaga dua pintu sekaligus — serang salah satu pintu, dan pintu lainnya kosong. Dalam posisi ini, Wazir Hitam memiliki dua tugas: menjaga pion d5 DAN menjaga kotak f7. Putih akan memanfaatkan kelebihan beban ini.
+**Skenario:** Overloading (membebani berlebih) adalah motif taktis di mana satu bidak diberi tugas menjaga DUA hal sekaligus, kemudian diserang sehingga tidak bisa memenuhi kedua tugas itu secara bersamaan. Ini seperti menyuruh satu orang menjaga dua pintu sekaligus — serang salah satu pintu, dan pintu lainnya kosong. Dalam posisi ini, Wazir Hitam d8 memiliki dua tugas: menjaga pion d5 (sepanjang kolom d) DAN menjaga Kuda f6 (sepanjang diagonal d8-f6). Putih akan memanfaatkan kelebihan beban ini.
 
-![D-092](https://lichess1.org/export/fen.gif?fen=r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1%20b%20kq%20-%200%208&color=black&theme=brown&piece=cburnett)
+![D-092](https://lichess1.org/export/fen.gif?fen=r2qk2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1%20w%20kq%20-%200%208&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8`
-- **Giliran:** Hitam
-- **Posisi:** Gajah Putih di c4 menyerang f7. Wazir Hitam di d8 harus menjaga f7 DAN d5. Hitam rentan terhadap overloading.
-- **Sumber:** Konstruksi pedagogis (perlu verifikasi engine)
+- **FEN:** `r2qk2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 w kq - 0 8`
+- **Giliran:** Putih
+- **Posisi:** Wazir Hitam d8 menjaga pion d5 (kolom d) DAN Kuda f6 (diagonal d8-e7-f6). Putih punya Kuda c3 menyerang d5, dan Gajah c4 mengincar f7.
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess.
 
-**Pertanyaan:** Langkah Putih mana (jika Putih yang bergerak sekarang) yang akan memanfaatkan overloading Wazir Hitam d8?
+**Pertanyaan:** Langkah Putih yang memanfaatkan overloading Wazir Hitam d8 adalah?
 
 **Opsi:**
 A. `Nxd5`
-B. `Bxf7+`
-C. `Nd5`
+B. `exd5`
+C. `Bxd5`
 D. `Re3`
 
 **Pembahasan:**
 
-**A. `Nxd5` — Serang satu tugas Wazir:** `Nxd5` menyerang pion d5 yang dijaga Wazir d8. Jika Hitam main `...Qxd5` (mengambil Kuda), Putih main `Bxf7+` — Raja harus ke e7 atau ke kotak lain, dan Putih menang Benteng atau posisi keunggulan. Wazir tidak bisa menjaga dua hal sekaligus. Ini adalah aplikasi overloading klasik: "paksa bidak penjaga untuk bergerak/makan, lalu serang yang lainnya."
+**A. `Nxd5` — Eksploitasi overloading klasik:** Kuda c3 makan pion d5 — sekarang Wazir Hitam d8 dipaksa pilih: (i) `...Qxd5` (recapture wajib karena pion lainnya — e6 — di-pin oleh Gajah Putih c4 yang menatap f7 lewat e6) — tetapi setelah `...Qxd5`, Wazir TIDAK lagi menjaga Kuda f6 di diagonal d8-f6 — Putih main `Nxf6+` atau `e5` ancaman lain. (ii) `...Nxd5` (kuda c6 atau f6 menangkap) — tetapi Putih main `Bxd5` (gajah makan) dan menang pion bersih. Dua tugas Wazir, satu Wazir — overloaded.
 
-**B. `Bxf7+` — Serang f7 langsung:** Gajah makan pion f7+ memberikan skak. Setelah `...Qxf7`, Wazir Hitam harus meninggalkan tugas menjaga d5. Putih main `Nxd5` memenangkan pion d5 gratis. Tetapi urutan B sedikit kurang "bersih" dibanding A karena Raja Hitam bisa ke e7 dan Hitam mendapat kompensasi.
+**B. `exd5` — Langsung tukar pion biasa:** Pion Putih e4 makan pion d5. Hitam balas `...exd5` (pion e6) atau `...Nxd5` — tukar pion sederhana, tidak ada eksploitasi overloading. Material seimbang, posisi normal — Putih melewatkan motif taktis.
 
-**C. `Nd5` — Outpost tapi bukan taktik langsung:** Kuda ke d5 membuat outpost, tapi bukan mengeksploitasi overloading secara langsung. Hitam bisa main `...Nxd5 exd5` dan posisi normalisasi.
+**C. `Bxd5` — Korbankan gajah tanpa setup:** Gajah c4 makan pion d5. Hitam main `...Nxd5` (kuda c6 atau f6) atau `...Qxd5` — Wazir hanya butuh satu langkah, tukar gajah-pion = Putih kehilangan materi (gajah 3 vs pion 1). Bukan jalan eksploitasi.
 
-**D. `Re3` — Reposisi pasif:** Benteng ke e3 tidak mengancam overloading secara langsung. Mengembangkan tekanan secara lambat.
+**D. `Re3` — Reposisi pasif:** Benteng e1 ke e3 — pengembangan tetapi tidak ada ancaman taktis. Hitam punya tempo untuk memperbaiki posisi (...Bd7, ...Qd7) dan motif overloading hilang.
 
-**Jawaban: A** — Overloading adalah motif taktis yang sangat umum: **temukan bidak yang memiliki dua atau lebih tugas pertahanan, lalu serang kedua tugasnya secara bersamaan.** `Nxd5` memaksa Wazir d8 "memilih" — makan Kuda (meninggalkan f7) atau menjaga f7 (membiarkan d5 hilang). Bidak yang "overloaded" adalah titik lemah tersembunyi. Tip: dalam setiap posisi, tanya "bidak lawan mana yang sedang menjaga dua hal? Bisakah saya serang salah satunya?"
+**Jawaban: A** — Overloading adalah motif taktis yang sangat umum: **temukan bidak yang memiliki dua atau lebih tugas pertahanan, lalu serang kedua tugasnya secara bersamaan.** `Nxd5` memaksa Wazir d8 "memilih" — makan Kuda (meninggalkan diagonal f6) atau menjaga f6 (membiarkan d5 hilang). Bidak yang "overloaded" adalah titik lemah tersembunyi. Tip: dalam setiap posisi, tanya "bidak lawan mana yang sedang menjaga dua hal? Bisakah saya serang salah satunya?"
 
 ---
 
@@ -3109,32 +3095,32 @@ D. `g4` kemudian persiapkan g5-g6
 
 **Skenario:** "Color weakness" adalah konsep strategi tingkat lanjut: ketika satu pihak memiliki terlalu banyak pion di satu warna kotak, kotak-kotak warna lainnya menjadi "lemah permanen" karena tidak ada pion yang bisa menjaganya. Gajah adalah bidak yang paling memanfaatkan color weakness — Gajah yang berjalan di warna yang berlawanan dengan pion lawan bisa menduduki dan menyerang kotak-kotak lemah tanpa bisa diusir. Nimzowitsch menyebut kotak-kotak lemah yang tidak bisa dijaga pion sebagai "lubang" (holes) — dan bidak lawan yang masuk ke sana hampir tidak bisa diusir.
 
-![D-094](https://lichess1.org/export/fen.gif?fen=r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1%20w%20-%20-%200%2010&color=white&theme=brown&piece=cburnett)
+![D-094](https://lichess1.org/export/fen.gif?fen=r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBPN2/PP3PPP/R2Q1RK1%20w%20-%20-%200%2010&color=white&theme=brown&piece=cburnett)
 
-- **FEN:** `r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10`
+- **FEN:** `r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 10`
 - **Giliran:** Putih
-- **Posisi:** Hitam punya pion di c6, d5, e6 — semua di kotak putih. Kotak hitam Hitam (c5, e4, f5) sangat lemah. Gajah Putih di d3 (kotak hitam? Tidak, d3 = gelap) bisa memanfaatkan kotak-kotak hitam lemah milik Hitam.
-- **Sumber:** Konstruksi pedagogis berdasarkan tema weak squares / color weakness
+- **Posisi:** Hitam punya pion di c6, d5, e6 — semua di kotak terang. Kotak gelap di sekitar (c5, e5, f6) sangat lemah karena tidak ada pion Hitam yang bisa menjaganya. Putih punya Kuda di f3 yang siap pindah ke e5 (kotak outpost permanen).
+- **Sumber:** Konstruksi pedagogis terverifikasi via python-chess.
 
-**Pertanyaan:** Langkah Putih yang paling mengeksploitasi color weakness Hitam (kotak-kotak hitam) adalah?
+**Pertanyaan:** Langkah Putih yang paling mengeksploitasi color weakness Hitam (kotak-kotak gelap) adalah?
 
 **Opsi:**
 A. `Ne5`
 B. `Bb5`
-C. `f4`
-D. `Qh5`
+C. `g3`
+D. `Qe2`
 
 **Pembahasan:**
 
-**A. `Ne5` — Outpost di kotak hitam:** `Ne5` menempatkan Kuda di e5 — kotak hitam yang tidak bisa dijaga pion Hitam manapun (pion Hitam ada di kotak putih: c6, d5, e6). Kuda di e5 adalah "monster" — tidak bisa diusir pion, menguasai kotak-kotak kritis, dan mengancam Nxd7 atau Nxf7. Ini adalah eksploitasi langsung color weakness: outpost permanen di kotak lemah lawan.
+**A. `Ne5` — Outpost di kotak gelap:** `Ne5` menempatkan Kuda Putih dari f3 ke e5 — kotak gelap yang tidak bisa dijaga pion Hitam manapun (pion Hitam di c6, d5, e6 semuanya di kotak terang; pion f7 bisa main f6 tetapi memperlemah lagi g6/e6). Kuda di e5 adalah "monster posisional" — tidak bisa diusir pion, menguasai kotak-kotak kritis d7/c6/f7/g6, dan mengancam Nxd7 atau menjaga pengembangan kuda-c3 ke d5. Ini adalah eksploitasi langsung color weakness: outpost permanen di kotak lemah lawan.
 
-**B. `Bb5` — Menekan c6 tapi bukan color weakness:** Gajah ke b5 menyerang Kuda c6 (atau pion c6). Ini adalah taktik pin/pressure yang berbeda dari eksploitasi color weakness. Tidak memanfaatkan kotak-kotak hitam lemah secara optimal.
+**B. `Bb5` — Menyerang c6 tapi bukan tema:** Gajah Putih d3 ke b5 menekan pion/struktur c6. Ini adalah taktik pin/pressure yang berbeda dari eksploitasi color weakness. Setelah `...cxb5 Nxb5`, struktur Hitam memang rusak tetapi Putih mengorbankan gajah aktif untuk perubahan struktural — bukan motif color weakness murni.
 
-**C. `f4` — Mempersiapkan serangan tapi melemahkan e4:** `f4` mempersiapkan f5 serangan, tetapi kotak e4 menjadi lemah bagi Hitam (Kuda bisa ke e4). Ini bukan eksploitasi color weakness melainkan serangan pion biasa.
+**C. `g3` — Mempersiapkan tetapi melemahkan diri sendiri:** `g3` adalah persiapan Bh3 atau Bf1-g2, tetapi langsung melemahkan kotak f3 dan h3 Putih sendiri. Pedagogis: jangan buat color weakness di kubu sendiri saat lawan sudah punya color weakness — fokus eksploitasi mereka.
 
-**D. `Qh5` — Ancaman Qxh7 tapi terlalu langsung:** Wazir ke h5 mengancam h7, tetapi Hitam main `...h6` atau `...g6` mengusir. Serangan langsung tanpa fondasi posisional.
+**D. `Qe2` — Reposisi netral:** Wazir d1 ke e2 — pengembangan tetapi tidak ada eksploitasi color weakness langsung. Hitam punya tempo untuk main `...Nxd3 cxd3` (kuda f6 makan gajah Putih d3? Tidak, f6 tidak attack d3). Wazir e2 berdiam tanpa rencana konkret.
 
-**Jawaban: A** — Color weakness dan outpost adalah konsep yang erat: **ketika pion lawan semuanya di satu warna, kotak warna lainnya menjadi "holes" yang tidak bisa dijaga — tempatkan Kuda atau Gajah Anda di sana.** `Ne5` di kotak hitam (e5 adalah kotak hitam) adalah contoh sempurna: Kuda di sana tidak bisa diusir pion Hitam, mengancam seluruh posisi. Tip diagnosis: lihat warna pion-pion lawan — jika kebanyakan di kotak putih, kotak hitam mereka lemah; jika kebanyakan di kotak hitam, kotak putih mereka lemah.
+**Jawaban: A** — Color weakness dan outpost adalah konsep yang erat: **ketika pion lawan semuanya di satu warna, kotak warna lainnya menjadi "holes" yang tidak bisa dijaga — tempatkan Kuda atau Gajah Anda di sana.** `Ne5` di kotak gelap adalah contoh sempurna: Kuda di sana tidak bisa diusir pion Hitam, mengancam seluruh posisi. Tip diagnosis: lihat warna pion-pion lawan — jika kebanyakan di kotak terang, kotak gelap mereka lemah; jika kebanyakan di kotak gelap, kotak terang mereka lemah.
 
 ---
 

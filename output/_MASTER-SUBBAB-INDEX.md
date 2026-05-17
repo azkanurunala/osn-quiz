@@ -342,7 +342,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sedang-sulit.md`
 
 **IPA-03j · Listrik (Rangkaian Seri & Paralel)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03j-listrik-seri-paralel-campur.md`
+- [x] `osn-sd-ipa-03j-listrik-seri-paralel-campur.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-mudah.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sedang.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sulit.md`

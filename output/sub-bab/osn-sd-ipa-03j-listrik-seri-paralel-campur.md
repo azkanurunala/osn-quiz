@@ -2646,6 +2646,713 @@ D. Hambatan kabel besar tetapi mudah dihitung
 
 ---
 
-> **🚧 [SOAL 81–100 — akan ditambahkan di batch berikutnya]**
->
-> - **Soal 81–100 (Nas)**: aplikasi lanjut (sekering, MCB, korsleting, ground), AC vs DC, hukum Kirchhoff (intro), aplikasi industri (transformator, transmisi tegangan tinggi)
+### Soal 81 · Sekering · Nas
+
+**(1) Soal:**
+Sekering (fuse) pada instalasi listrik berfungsi untuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Menambah tegangan
+B. Memutus arus listrik secara otomatis ketika arus melebihi batas aman
+C. Menghemat baterai
+D. Mempercepat aliran arus
+
+**(3) Jawaban:** **B. Memutus arus listrik secara otomatis ketika arus melebihi batas aman**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi pengaman sekering.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Menambah tegangan** — Salah. Itu fungsi transformator step-up.
+  - **B. Memutus arus berlebih** — Benar. Kawat sekering mencair saat arus melebihi nilai nominalnya → memutus rangkaian → cegah kebakaran.
+  - **C. Hemat baterai** — Salah.
+  - **D. Mempercepat arus** — Salah.
+- **Langkah Penyelesaian:**
+  1. Sekering = pengaman dari overcurrent.
+  2. Memutus arus berlebih untuk lindungi instalasi.
+- **Hasil akhir:** Memutus arus berlebih.
+- **💭 Tips:** Sekering ada nilai nominal (mis. 5 A, 10 A). Jika sekering "putus" karena melebihi, ganti dengan nilai SAMA — jangan diakali dengan kawat tembaga (berbahaya).
+
+---
+
+### Soal 82 · MCB (Miniature Circuit Breaker) · Nas
+
+**(1) Soal:**
+MCB (Miniature Circuit Breaker) di kotak listrik rumah modern adalah pengganti sekering tradisional dengan kelebihan utama...
+
+**(2) Pilihan Jawaban:**
+
+A. Dapat di-reset (di-ON-kan kembali) tanpa diganti setelah memutus
+B. Lebih murah
+C. Tidak pernah putus
+D. Memberi tegangan lebih besar
+
+**(3) Jawaban:** **A. Dapat di-reset (di-ON-kan kembali) tanpa diganti setelah memutus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Kelebihan MCB dibanding sekering.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Bisa di-reset** — Benar. MCB pakai bimetal/elektromagnet, bisa di-ON kembali setelah trip (memutus).
+  - **B. Lebih murah** — Salah (umumnya lebih mahal di awal, tapi hemat jangka panjang).
+  - **C. Tidak pernah putus** — Salah. Justru tugasnya untuk memutus saat bahaya.
+  - **D. Tegangan lebih besar** — Salah.
+- **Langkah Penyelesaian:**
+  1. Beda kunci sekering vs MCB: ganti vs reset.
+- **Hasil akhir:** Bisa di-reset tanpa diganti.
+- **💭 Tips:** Sekering pakai kawat yang meleleh saat overcurrent (perlu diganti). MCB pakai mekanisme bimetal/magnet (bisa dipakai berulang). MCB jadi standar modern.
+
+---
+
+### Soal 83 · Korsleting · Nas
+
+**(1) Soal:**
+Korsleting (hubung-singkat / short circuit) terjadi ketika...
+
+**(2) Pilihan Jawaban:**
+
+A. Lampu putus secara normal
+B. Kabel positif dan negatif bersentuhan langsung tanpa melalui beban, menyebabkan arus sangat besar
+C. Sakelar mati
+D. Tegangan terlalu rendah
+
+**(3) Jawaban:** **B. Kabel positif dan negatif bersentuhan langsung tanpa melalui beban, menyebabkan arus sangat besar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi korsleting.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lampu putus normal** — Salah.
+  - **B. Hubung singkat** — Benar. Tanpa beban, hambatan jalur sangat kecil → arus melonjak besar (V/R dengan R≈0) → bisa picu kebakaran/ledakan.
+  - **C. Sakelar mati** — Salah.
+  - **D. Tegangan rendah** — Salah.
+- **Langkah Penyelesaian:**
+  1. Kabel + dan − langsung nyambung tanpa beban = korsleting.
+  2. Arus melonjak (hampir tak terbatas) sampai sekering/MCB putus.
+- **Hasil akhir:** Kabel positif & negatif langsung nyambung, arus besar.
+- **💭 Tips:** Penyebab korsleting di rumah: kabel lapuk, instalasi salah, tikus menggigit kabel. Sekering & MCB melindungi dari dampaknya.
+
+---
+
+### Soal 84 · Grounding (Arde) · Nas
+
+**(1) Soal:**
+Grounding (arde) pada instalasi listrik rumah berfungsi untuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Menghemat listrik
+B. Mengalirkan arus bocor ke tanah agar manusia tidak tersengat saat terjadi gangguan
+C. Memperbesar tegangan
+D. Menghaluskan suara TV
+
+**(3) Jawaban:** **B. Mengalirkan arus bocor ke tanah agar manusia tidak tersengat saat terjadi gangguan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi grounding/arde.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hemat listrik** — Salah.
+  - **B. Pengaman bocor** — Benar. Kawat arde menyalurkan arus bocor (misalnya dari kasus body kulkas yang teraliri listrik) langsung ke tanah, sehingga manusia tidak tersengat.
+  - **C. Tegangan** — Salah.
+  - **D. Suara** — Salah.
+- **Langkah Penyelesaian:**
+  1. Grounding = jalur paling mudah ke tanah (0 V).
+  2. Arus bocor lebih suka jalur arde daripada tubuh manusia.
+- **Hasil akhir:** Mengalirkan arus bocor ke tanah agar aman.
+- **💭 Tips:** Stop kontak modern punya 3 kawat: phase (live), netral, dan **arde** (ground). Itulah sebabnya ada 3 lubang/pin pada stop kontak modern.
+
+---
+
+### Soal 85 · AC vs DC · Nas
+
+**(1) Soal:**
+Apa perbedaan utama antara arus searah (DC) dan arus bolak-balik (AC)?
+
+**(2) Pilihan Jawaban:**
+
+A. DC dari PLN, AC dari baterai
+B. DC mengalir satu arah tetap; AC arah arusnya bolak-balik berulang-ulang
+C. DC lebih berbahaya dari AC
+D. Tidak ada perbedaan
+
+**(3) Jawaban:** **B. DC mengalir satu arah tetap; AC arah arusnya bolak-balik berulang-ulang**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi DC vs AC.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Terbalik** — Salah. DC dari baterai, AC dari PLN.
+  - **B. Definisi tepat** — Benar.
+  - **C. Bahaya** — Salah. Keduanya bisa berbahaya bergantung tegangan.
+  - **D. Sama** — Salah.
+- **Langkah Penyelesaian:**
+  1. DC = Direct Current = arus searah.
+  2. AC = Alternating Current = arus bolak-balik.
+- **Hasil akhir:** DC satu arah, AC bolak-balik.
+- **💭 Tips:** Baterai dan aki = DC. PLN (stop kontak rumah) = AC. Elektronik (HP, laptop) butuh DC → adaptor mengubah AC PLN jadi DC.
+
+---
+
+### Soal 86 · Frekuensi PLN · Nas
+
+**(1) Soal:**
+Frekuensi arus listrik PLN di Indonesia adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 30 Hz
+B. 50 Hz
+C. 60 Hz
+D. 100 Hz
+
+**(3) Jawaban:** **B. 50 Hz**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Standar frekuensi PLN Indonesia.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 30 Hz** — Salah.
+  - **B. 50 Hz** — Benar. Standar Indonesia & sebagian besar dunia (Eropa, Asia, Afrika).
+  - **C. 60 Hz** — Salah. Itu standar Amerika Utara, Jepang sebagian.
+  - **D. 100 Hz** — Salah.
+- **Langkah Penyelesaian:**
+  1. Indonesia & sebagian besar dunia = 50 Hz.
+- **Hasil akhir:** 50 Hz.
+- **💭 Tips:** 50 Hz artinya arus AC bolak-balik berubah arah 100 kali per detik (50 putaran penuh, tiap putaran 2 arah). Beberapa alat (mis. trafo) dirancang khusus untuk frekuensi ini.
+
+---
+
+### Soal 87 · Konversi AC ke DC · Nas
+
+**(1) Soal:**
+Adaptor charger HP mengubah listrik PLN (AC 220 V) menjadi listrik...
+
+**(2) Pilihan Jawaban:**
+
+A. DC 5 V (atau sesuai kebutuhan baterai HP)
+B. AC 220 V tetap
+C. AC 5 V
+D. DC 220 V
+
+**(3) Jawaban:** **A. DC 5 V (atau sesuai kebutuhan baterai HP)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi adaptor.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. DC tegangan rendah** — Benar. Adaptor punya 2 fungsi: (1) menurunkan tegangan (220 V → 5 V), (2) mengubah AC → DC.
+  - **B. AC tetap** — Salah. Baterai butuh DC.
+  - **C. AC 5 V** — Salah. Baterai tidak terima AC.
+  - **D. DC 220 V** — Salah. HP tidak butuh tegangan setinggi itu.
+- **Langkah Penyelesaian:**
+  1. Baterai = DC tegangan rendah.
+  2. Adaptor mengubah AC tinggi → DC rendah.
+- **Hasil akhir:** DC 5 V.
+- **💭 Tips:** Komponen adaptor: transformator (turunkan tegangan), dioda rectifier (AC→DC), kapasitor (perhalus), regulator (atur tegangan output).
+
+---
+
+### Soal 88 · Elektronik Butuh DC · Nas
+
+**(1) Soal:**
+Mengapa hampir semua perangkat elektronik (laptop, HP, TV) di dalamnya menggunakan listrik DC, bukan AC?
+
+**(2) Pilihan Jawaban:**
+
+A. Karena DC lebih mahal
+B. Karena komponen elektronik (transistor, IC, LED) bekerja dengan arus searah; AC merusak komponen
+C. Karena DC lebih terang
+D. Tidak ada alasan khusus
+
+**(3) Jawaban:** **B. Karena komponen elektronik (transistor, IC, LED) bekerja dengan arus searah; AC merusak komponen**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mengapa elektronik internal pakai DC.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lebih mahal** — Salah.
+  - **B. Komponen butuh DC** — Benar. Transistor, IC, dan LED dirancang untuk arah arus tertentu. AC mengubah arah → merusak komponen.
+  - **C. Lebih terang** — Salah.
+  - **D. Tanpa alasan** — Salah.
+- **Langkah Penyelesaian:**
+  1. Elektronik = transistor + IC + LED.
+  2. Semua butuh DC karena memiliki kutub positif & negatif tetap.
+- **Hasil akhir:** Komponen elektronik bekerja dengan DC.
+- **💭 Tips:** Itulah mengapa setiap elektronik selalu punya power supply / adaptor untuk konversi AC→DC.
+
+---
+
+### Soal 89 · Hukum Kirchhoff I · Nas
+
+**(1) Soal:**
+Hukum Kirchhoff I (Hukum Arus / KCL — Kirchhoff's Current Law) menyatakan...
+
+**(2) Pilihan Jawaban:**
+
+A. Total arus yang masuk ke suatu simpul = total arus yang keluar dari simpul itu
+B. Total tegangan di seluruh loop = nol
+C. Arus selalu berbanding lurus tegangan
+D. Hambatan dapat dijumlahkan
+
+**(3) Jawaban:** **A. Total arus yang masuk ke suatu simpul = total arus yang keluar dari simpul itu**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hukum Kirchhoff I.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. KCL** — Benar. Berdasar konservasi muatan: tidak ada muatan menumpuk di simpul → masuk = keluar.
+  - **B. KVL** — Salah. Itu Kirchhoff II.
+  - **C. Hukum Ohm** — Salah.
+  - **D. Hambatan** — Salah.
+- **Langkah Penyelesaian:**
+  1. Simpul = titik pertemuan kabel.
+  2. Muatan masuk = muatan keluar.
+- **Hasil akhir:** Arus masuk = arus keluar di simpul.
+- **💭 Tips:** Analogi: aliran air di percabangan pipa. Air yang masuk dari pipa utama = jumlah air yang keluar dari pipa-pipa cabang. Tidak ada air "menghilang" di pertemuan pipa.
+
+---
+
+### Soal 90 · Hukum Kirchhoff II · Nas
+
+**(1) Soal:**
+Hukum Kirchhoff II (Hukum Tegangan / KVL — Kirchhoff's Voltage Law) menyatakan...
+
+**(2) Pilihan Jawaban:**
+
+A. Jumlah tegangan di sepanjang suatu loop tertutup = nol
+B. Arus masuk = arus keluar
+C. Hambatan total = hambatan terkecil
+D. Tegangan baterai tidak bisa diubah
+
+**(3) Jawaban:** **A. Jumlah tegangan di sepanjang suatu loop tertutup = nol**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hukum Kirchhoff II.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. KVL** — Benar. Berdasar konservasi energi: energi yang ditambahkan baterai = energi yang dihabiskan beban di loop tertutup.
+  - **B. KCL** — Salah. Itu Kirchhoff I.
+  - **C. Hambatan** — Salah.
+  - **D. Baterai** — Salah.
+- **Langkah Penyelesaian:**
+  1. Loop = jalur tertutup arus.
+  2. Tegangan baterai = jumlah tegangan komponen sepanjang loop.
+- **Hasil akhir:** Jumlah tegangan di loop = nol.
+- **💭 Tips:** Cara hafalkan: KCL = K-current (arus), KVL = K-voltage (tegangan). Keduanya dasar analisis rangkaian elektronika.
+
+---
+
+### Soal 91 · Aplikasi Kirchhoff · Nas
+
+**(1) Soal:**
+Pada simpul rangkaian, arus 5 A masuk dari satu kabel. Dari simpul ini keluar 2 kabel: yang satu membawa 2 A. Berapa arus pada kabel kedua?
+
+**(2) Pilihan Jawaban:**
+
+A. 7 A
+B. 3 A
+C. 1 A
+D. 0 A
+
+**(3) Jawaban:** **B. 3 A**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Aplikasi Kirchhoff I.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 7 A** — Salah. 5 + 2 (salah operasi).
+  - **B. 3 A** — Benar. Masuk = Keluar → 5 = 2 + I₂ → I₂ = 3 A.
+  - **C. 1 A** — Salah.
+  - **D. 0 A** — Salah.
+- **Langkah Penyelesaian:**
+  1. KCL: I masuk = I keluar.
+  2. 5 = 2 + I₂.
+  3. I₂ = 5 − 2 = 3 A.
+- **Hasil akhir:** 3 A.
+- **💭 Tips:** Aturan tanda: anggap masuk = positif, keluar = negatif. ΣI = 0. Atau ganti tanda: I masuk = I keluar.
+
+---
+
+### Soal 92 · Hambatan Kabel Transmisi · Nas
+
+**(1) Soal:**
+Pada kabel transmisi listrik antar kota yang sangat panjang (puluhan-ratusan kilometer), hambatan kabel TIDAK BISA diabaikan karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Kabel sangat dingin
+B. Hambatan total kabel jadi cukup besar untuk menimbulkan rugi daya (panas) yang signifikan
+C. Kabel cepat putus
+D. Tidak ada listrik yang lewat
+
+**(3) Jawaban:** **B. Hambatan total kabel jadi cukup besar untuk menimbulkan rugi daya (panas) yang signifikan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pengaruh panjang kabel pada rugi daya.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Dingin** — Salah.
+  - **B. Rugi daya** — Benar. R kabel ~ panjang. Kabel panjang → R besar → rugi daya P = I²R signifikan.
+  - **C. Putus** — Salah.
+  - **D. Tidak ada listrik** — Salah.
+- **Langkah Penyelesaian:**
+  1. R sebanding panjang kabel.
+  2. Rugi daya P = I²R sebanding R.
+  3. Kabel panjang = R besar = rugi besar.
+- **Hasil akhir:** Hambatan total besar, rugi daya signifikan.
+- **💭 Tips:** Solusinya: turunkan ARUS dengan menaikkan TEGANGAN (P = V×I, kalau V naik 10×, I turun 10× → rugi P = I²R turun 100×). Itulah sebabnya transmisi pakai tegangan tinggi.
+
+---
+
+### Soal 93 · Transformator · Nas
+
+**(1) Soal:**
+Transformator (trafo) berfungsi untuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Mengubah AC menjadi DC
+B. Menaikkan (step-up) atau menurunkan (step-down) tegangan AC
+C. Menyimpan listrik
+D. Mempercepat motor
+
+**(3) Jawaban:** **B. Menaikkan (step-up) atau menurunkan (step-down) tegangan AC**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi transformator.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. AC→DC** — Salah. Itu rectifier.
+  - **B. Naik/turun tegangan AC** — Benar. Trafo pakai induksi elektromagnet dua kumparan; rasio lilitan menentukan rasio tegangan.
+  - **C. Menyimpan** — Salah. Itu baterai/kapasitor.
+  - **D. Motor** — Salah.
+- **Langkah Penyelesaian:**
+  1. Trafo step-up: lilitan sekunder > primer → tegangan naik.
+  2. Trafo step-down: lilitan sekunder < primer → tegangan turun.
+- **Hasil akhir:** Naik/turun tegangan AC.
+- **💭 Tips:** Trafo hanya bekerja pada AC (butuh perubahan fluks magnet). Tidak bisa dipakai untuk DC murni.
+
+---
+
+### Soal 94 · Transmisi Tegangan Tinggi · Nas
+
+**(1) Soal:**
+Listrik di-transmisikan dari pembangkit ke kota dengan TEGANGAN TINGGI (mis. 150 kV) karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Tegangan tinggi lebih murah
+B. Untuk mengurangi rugi daya pada kabel transmisi (dengan tegangan tinggi, arus jadi kecil, rugi P = I²R berkurang)
+C. Agar lebih terang
+D. Agar lebih cepat sampai
+
+**(3) Jawaban:** **B. Untuk mengurangi rugi daya pada kabel transmisi (dengan tegangan tinggi, arus jadi kecil, rugi P = I²R berkurang)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Strategi transmisi listrik jarak jauh.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Murah** — Salah. Justru infrastrukturnya mahal.
+  - **B. Kurangi rugi daya** — Benar. P transmisi = V×I tetap; jika V tinggi → I rendah → P_rugi = I²R rendah.
+  - **C. Terang** — Salah.
+  - **D. Cepat** — Salah. Kecepatan listrik mendekati c, tidak terpengaruh tegangan.
+- **Langkah Penyelesaian:**
+  1. Untuk daya P sama: V×I = konstan.
+  2. Naikkan V → turunkan I.
+  3. Rugi I²R turun drastis (kuadrat).
+- **Hasil akhir:** Mengurangi rugi daya.
+- **💭 Tips:** Itulah peran trafo: di pembangkit (step-up untuk transmisi), di kota (step-down untuk distribusi), di rumah (step-down lagi jika perlu).
+
+---
+
+### Soal 95 · Distribusi PLN · Nas
+
+**(1) Soal:**
+Urutan distribusi listrik PLN dari pembangkit ke rumah yang BENAR adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Pembangkit → trafo step-up → transmisi tegangan tinggi → trafo step-down → distribusi tegangan menengah → trafo step-down lagi → rumah
+B. Pembangkit → langsung ke rumah
+C. Pembangkit → rumah → trafo
+D. Pembangkit → baterai → rumah
+
+**(3) Jawaban:** **A. Pembangkit → trafo step-up → transmisi tegangan tinggi → trafo step-down → distribusi tegangan menengah → trafo step-down lagi → rumah**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Alur distribusi listrik.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Alur lengkap** — Benar. Step-up untuk transmisi jauh; step-down bertingkat untuk distribusi.
+  - **B. Langsung** — Salah. Tidak efisien karena rugi daya.
+  - **C. Terbalik** — Salah.
+  - **D. Baterai** — Salah. PLN tidak pakai baterai untuk distribusi massal.
+- **Langkah Penyelesaian:**
+  1. Pembangkit ~10-25 kV.
+  2. Trafo step-up → 150-500 kV (transmisi).
+  3. Gardu induk step-down → 20 kV (distribusi).
+  4. Trafo distribusi step-down → 220 V (rumah).
+- **Hasil akhir:** Multi-tahap dengan trafo.
+- **💭 Tips:** Tiang-tiang besi raksasa = SUTET (Saluran Udara Tegangan Ekstra Tinggi) untuk transmisi jarak jauh.
+
+---
+
+### Soal 96 · Rugi Daya I²R · Nas
+
+**(1) Soal:**
+Rumus rugi daya pada kabel transmisi (panas yang terbuang) adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. P = I² × R
+B. P = V × R
+C. P = I + R
+D. P = R / I
+
+**(3) Jawaban:** **A. P = I² × R**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Rumus rugi daya.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. P = I²R** — Benar. Daya yang berubah jadi panas di hambatan sebanding KUADRAT arus.
+  - **B. P = VR** — Salah.
+  - **C. P = I + R** — Salah.
+  - **D. P = R/I** — Salah.
+- **Langkah Penyelesaian:**
+  1. Daya = V × I; substitusi V = IR → P = I² R.
+- **Hasil akhir:** P = I²R.
+- **💭 Tips:** Karena rugi sebanding KUADRAT arus, sedikit penurunan arus = pengurangan rugi yang jauh lebih besar. Itulah filosofi transmisi tegangan tinggi.
+
+---
+
+### Soal 97 · Aplikasi Seri (Baterai) · Nas
+
+**(1) Soal:**
+Pada senter dengan 2 baterai 1,5 V yang disusun seri (kutub + dengan kutub −), total tegangan yang dihasilkan adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 3 V
+B. 1,5 V
+C. 0,75 V
+D. 0 V
+
+**(3) Jawaban:** **A. 3 V**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penjumlahan tegangan baterai seri.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 3 V** — Benar. Baterai seri: V total = V₁ + V₂ = 1,5 + 1,5 = 3 V.
+  - **B. 1,5 V** — Salah. Itu paralel.
+  - **C. 0,75 V** — Salah.
+  - **D. 0 V** — Salah.
+- **Langkah Penyelesaian:**
+  1. Baterai seri = tegangan dijumlah.
+- **Hasil akhir:** 3 V.
+- **💭 Tips:** Inilah cara mendapatkan tegangan yang dibutuhkan: 4 baterai 1,5 V seri = 6 V; 2 baterai 12 V seri = 24 V. Aki mobil 12 V sebenarnya 6 sel 2 V berseri.
+
+---
+
+### Soal 98 · Aplikasi Paralel (Rumah) · Nas
+
+**(1) Soal:**
+Mengapa stop kontak di rumah disusun paralel sehingga banyak alat bisa dipakai sekaligus tanpa saling mengganggu?
+
+**(2) Pilihan Jawaban:**
+
+A. Stop kontak harus disusun seri agar hemat kabel
+B. Paralel memastikan tiap stop kontak tetap mendapat tegangan penuh PLN; tiap alat punya cabang independen
+C. Susunan acak lebih baik
+D. Tidak ada rangkaian khusus
+
+**(3) Jawaban:** **B. Paralel memastikan tiap stop kontak tetap mendapat tegangan penuh PLN; tiap alat punya cabang independen**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Aplikasi paralel di rumah.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Seri** — Salah. Seri tidak praktis.
+  - **B. Paralel** — Benar. Tegangan penuh + independen.
+  - **C. Acak** — Salah.
+  - **D. Tidak ada** — Salah.
+- **Langkah Penyelesaian:**
+  1. Paralel: tegangan penuh + cabang mandiri.
+- **Hasil akhir:** Paralel agar tegangan penuh & mandiri.
+- **💭 Tips:** Inilah kelebihan paralel: gunakan TV + kulkas + lampu + AC sekaligus tanpa saling memengaruhi tegangan masing-masing.
+
+---
+
+### Soal 99 · Smart Grid & Energi Terbarukan · Nas
+
+**(1) Soal:**
+"Smart grid" adalah konsep jaringan listrik modern yang memungkinkan...
+
+**(2) Pilihan Jawaban:**
+
+A. Listrik gratis
+B. Integrasi sumber energi terbarukan (panel surya, angin), distribusi dua arah (rumah bisa jual listrik balik ke PLN), monitoring real-time, & efisiensi tinggi
+C. Listrik tanpa kabel
+D. Hanya untuk pabrik besar
+
+**(3) Jawaban:** **B. Integrasi sumber energi terbarukan (panel surya, angin), distribusi dua arah (rumah bisa jual listrik balik ke PLN), monitoring real-time, & efisiensi tinggi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konsep grid listrik masa depan.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Gratis** — Salah.
+  - **B. Definisi smart grid** — Benar. Smart grid + EBT = sistem masa depan.
+  - **C. Tanpa kabel** — Salah.
+  - **D. Pabrik saja** — Salah.
+- **Langkah Penyelesaian:**
+  1. Smart grid = grid + teknologi informasi.
+  2. Mendukung energi terbarukan & efisiensi.
+- **Hasil akhir:** Integrasi EBT + dua arah + monitoring.
+- **💭 Tips:** Indonesia mendorong PLTS atap (panel surya rumah) — kelebihan listrik bisa dijual balik ke PLN (net metering). Itulah salah satu fitur smart grid.
+
+---
+
+### Soal 100 · Sintesis Rangkaian · Nas
+
+**(1) Soal:**
+Manakah pernyataan PALING TEPAT tentang pemilihan rangkaian seri vs paralel?
+
+**(2) Pilihan Jawaban:**
+
+A. Seri selalu lebih baik dari paralel
+B. Pilihan tergantung kebutuhan: seri untuk total tegangan tinggi dari sumber rendah & lampu hias berderet hemat; paralel untuk independensi komponen, tegangan penuh tiap komponen, & instalasi rumah
+C. Paralel selalu lebih baik
+D. Keduanya tidak ada bedanya
+
+**(3) Jawaban:** **B. Pilihan tergantung kebutuhan: seri untuk total tegangan tinggi dari sumber rendah & lampu hias berderet hemat; paralel untuk independensi komponen, tegangan penuh tiap komponen, & instalasi rumah**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sintesis pemilihan rangkaian.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Seri selalu** — Salah. Ada kasus paralel lebih cocok.
+  - **B. Tergantung kebutuhan** — Benar.
+  - **C. Paralel selalu** — Salah.
+  - **D. Sama** — Salah.
+- **Langkah Penyelesaian:**
+  1. Tidak ada yang absolut "lebih baik".
+  2. Pilih sesuai konteks: hemat & berderet → seri; keandalan & independensi → paralel.
+- **Hasil akhir:** Tergantung kebutuhan.
+- **💭 Tips:** Insinyur listrik selalu menganalisis kebutuhan dulu sebelum mendesain rangkaian. Rumah modern umumnya rangkaian campuran (paralel utama + seri pada sakelar tiap cabang).
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban (Soal 1–100)
+
+| No | Jw | Sub-topik | Tk | | No | Jw | Sub-topik | Tk |
+|----|----|-----------|-----|---|----|----|-----------|----|
+| 1  | B | Konsep Dasar Listrik | Kab | | 51 | B | Tegangan Seri | Prov |
+| 2  | C | Konsep Dasar Listrik | Kab | | 52 | B | Tegangan Paralel | Prov |
+| 3  | B | Konsep Dasar Listrik | Kab | | 53 | B | Arus Seri | Prov |
+| 4  | C | Sumber Listrik | Kab | | 54 | B | Arus Paralel | Prov |
+| 5  | B | Sumber Listrik | Kab | | 55 | B | Tegangan vs Arus | Prov |
+| 6  | B | Sumber Listrik | Kab | | 56 | A | Definisi Hambatan | Prov |
+| 7  | C | Sumber Listrik | Kab | | 57 | C | Satuan Hambatan | Prov |
+| 8  | B | Sumber Listrik | Kab | | 58 | C | Hambatan Total Seri | Prov |
+| 9  | B | Komponen Rangkaian | Kab | | 59 | C | Hambatan Total Paralel | Prov |
+| 10 | C | Komponen Rangkaian | Kab | | 60 | B | Konduktor & Hambatan | Prov |
+| 11 | B | Komponen Rangkaian | Kab | | 61 | B | Hukum Ohm | Prov |
+| 12 | C | Konduktor vs Isolator | Kab | | 62 | C | Cari Arus | Prov |
+| 13 | C | Konduktor vs Isolator | Kab | | 63 | A | Cari Hambatan | Prov |
+| 14 | C | Rangkaian Seri | Kab | | 64 | B | Cari Tegangan | Prov |
+| 15 | B | Rangkaian Paralel | Kab | | 65 | A | Aplikasi Ohm | Prov |
+| 16 | B | Seri vs Paralel | Kab | | 66 | C | Rangkaian Campuran | Prov |
+| 17 | B | Seri vs Paralel | Kab | | 67 | C | Identifikasi Campuran | Prov |
+| 18 | B | Seri vs Paralel | Kab | | 68 | C | Hambatan Total Campuran | Prov |
+| 19 | A | Seri vs Paralel | Kab | | 69 | A | Arus Utama Campuran | Prov |
+| 20 | B | Instalasi Rumah | Kab | | 70 | A | Lampu Rumah vs Hias | Prov |
+| 21 | B | Konsep Dasar Listrik | Kab | | 71 | B | Voltmeter | Prov |
+| 22 | C | Konsep Dasar Listrik | Kab | | 72 | B | Amperemeter | Prov |
+| 23 | B | Sumber Listrik | Kab | | 73 | B | Satuan Voltmeter | Prov |
+| 24 | C | Komponen Rangkaian | Kab | | 74 | B | Satuan Amperemeter | Prov |
+| 25 | C | Konduktor vs Isolator | Kab | | 75 | C | Multimeter | Prov |
+| 26 | B | Rangkaian Seri | Kab | | 76 | C | Kabel Terputus Seri | Prov |
+| 27 | B | Rangkaian Paralel | Kab | | 77 | A | Kabel Terputus Paralel | Prov |
+| 28 | A | Komponen Penghantar | Kab | | 78 | B | Sakelar di Cabang Paralel | Prov |
+| 29 | B | Fungsi Sakelar | Kab | | 79 | A | Lampu PLN Paralel | Prov |
+| 30 | C | Sumber Arus | Kab | | 80 | B | Hambatan Kabel | Prov |
+| 31 | B | Sakelar Tertutup | Kab | | 81 | B | Sekering | Nas |
+| 32 | B | Sakelar Terbuka | Kab | | 82 | A | MCB | Nas |
+| 33 | B | Seri 1 Putus | Kab | | 83 | B | Korsleting | Nas |
+| 34 | B | Paralel 1 Putus | Kab | | 84 | B | Grounding (Arde) | Nas |
+| 35 | B | Paralel Lebih Terang | Kab | | 85 | B | AC vs DC | Nas |
+| 36 | C | Energi Baterai | Kab | | 86 | B | Frekuensi PLN | Nas |
+| 37 | B | Bahan Inti Kabel | Kab | | 87 | A | Konversi AC → DC | Nas |
+| 38 | A | Filamen Lampu Pijar | Kab | | 88 | B | Elektronik Butuh DC | Nas |
+| 39 | B | Simbol Baterai | Kab | | 89 | A | Hukum Kirchhoff I | Nas |
+| 40 | A | Simbol Lampu | Kab | | 90 | A | Hukum Kirchhoff II | Nas |
+| 41 | B | Lampu Rumah Paralel | Kab | | 91 | B | Aplikasi Kirchhoff | Nas |
+| 42 | B | Lampu Natal Lama | Kab | | 92 | B | Hambatan Kabel Transmisi | Nas |
+| 43 | C | Aliran Elektron | Kab | | 93 | B | Transformator | Nas |
+| 44 | B | Arah Arus Konvensional | Kab | | 94 | B | Transmisi Tegangan Tinggi | Nas |
+| 45 | B | Kontak Sakelar | Kab | | 95 | A | Distribusi PLN | Nas |
+| 46 | B | Tegangan Lampu Seri | Kab | | 96 | A | Rugi Daya I²R | Nas |
+| 47 | A | Sakelar Utama | Kab | | 97 | A | Aplikasi Seri (Baterai) | Nas |
+| 48 | B | Baterai vs Aki | Kab | | 98 | B | Aplikasi Paralel (Rumah) | Nas |
+| 49 | B | Watt = Daya | Kab | | 99 | B | Smart Grid & EBT | Nas |
+| 50 | B | Hemat Listrik | Kab | | 100 | B | Sintesis Rangkaian | Nas |
+
+## 📊 Rekap Distribusi (final)
+
+**Per Sub-topik (semua tingkat):**
+- Konsep dasar listrik & sumber: ~12 soal
+- Komponen rangkaian (kabel, sakelar, lampu, baterai): ~14 soal
+- Konduktor vs isolator: ~5 soal
+- Rangkaian seri & paralel (definisi, sifat, 1-putus, terang): ~25 soal
+- Tegangan, arus, hambatan (Hukum Ohm): ~15 soal
+- Rangkaian campuran: ~5 soal
+- Alat ukur (voltmeter, amperemeter, multimeter): ~5 soal
+- Aplikasi rumah & lampu hias: ~5 soal
+- Aplikasi lanjut Nas (sekering, MCB, korsleting, grounding, AC/DC, Kirchhoff, transmisi, transformator): ~14 soal
+
+**Per Tingkat:**
+- 🟢 Kabupaten: 50 soal (1–50)
+- 🔵 Provinsi: 30 soal (51–80)
+- 🔴 Nasional: 20 soal (81–100)
+
+**Format:** 100% Pilihan Ganda (4 opsi A–D) · Pembahasan analisis 4 opsi.
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Per tingkat — benar:** Kab ___/50 · Prov ___/30 · Nas ___/20
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+### Patokan Skor
+
+| Skor | Predikat | Rekomendasi |
+|------|----------|-------------|
+| ≥ 90 | 🏆 Luar biasa | Lanjut sub-bab IPA-03k (Konduktor & Isolator) atau IPA-03l (Magnet) |
+| 75–89 | 👍 Bagus | Ulangi sub-topik yang masih lemah (terutama Hukum Ohm & rangkaian campuran), lalu lanjut |
+| 60–74 | 💪 Cukup | Baca ulang Bagian I (Teori), kerjakan ulang soal yang salah |
+| < 60 | 📚 Perlu pengulangan | Pelajari kembali Bagian I dari awal; coba lagi minggu depan |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Sub-bab terkait dalam Bab IPA-03:**
+  - [IPA-03k · Konduktor & Isolator Listrik](osn-sd-ipa-03k-konduktor-isolator-campur.md) — dalami bahan yang dipakai dalam instalasi listrik
+  - [IPA-03l · Magnet](osn-sd-ipa-03l-magnet-campur.md) — listrik & magnet adalah dua sisi fenomena elektromagnetik
+  - [IPA-03i · Perubahan Energi](osn-sd-ipa-03i-perubahan-energi-campur.md) — rantai energi listrik dalam alat sehari-hari
+  - [IPA-03h · Bentuk Energi](osn-sd-ipa-03h-bentuk-energi-campur.md) — listrik sebagai salah satu bentuk energi
+
+---
+
+> **✅ FILE LENGKAP** — 100 soal PG dengan pembahasan komprehensif (analisis 4 opsi A/B/C/D), Bagian I Teori (A–F), Bagian II 100 Soal, dan Bagian III Ringkasan & Refleksi. Sesuai standar mutu OSN/KSN SD Indonesia.
