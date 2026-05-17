@@ -33,6 +33,123 @@ Berdasarkan kurikulum standar pelatihan catur kompetitif (FIDE Trainer Syllabus,
 
 ---
 
+## ♟ Format Soal Wajib — Diagram & Notasi (WAJIB untuk Semua Soal Chess GM)
+
+Berbeda dari paket OSN/KSN tekstual, **setiap soal Road to Chess Grandmaster WAJIB mengandung diagram posisi**. Istilah baku: **"diagram"** (sesuai konvensi FIDE, Informant, ChessBase, dan literatur catur internasional). Istilah lain yang valid: "diagram catur", "diagram posisi". Hindari kata "gambar papan" — itu non-baku.
+
+### Sumber kebenaran tunggal: FEN (Forsyth–Edwards Notation)
+
+Setiap soal **harus** menyertakan minimum 4 field metadata berikut:
+
+| Field | Wajib? | Contoh | Catatan |
+|-------|--------|--------|---------|
+| `diagram_id` | Wajib | `D-012` | Nomor diagram per file (D-001 s/d D-100) |
+| `fen` | Wajib | `r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4` | Sumber kebenaran tunggal — engine pakai ini untuk render |
+| `giliran` | Wajib | `Putih` atau `Hitam` | Redundan dgn FEN tapi membantu pembaca pemula |
+| `konteks_pgn` | Opsional | `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6` | Daftar langkah pembuka jika posisi datang dari opening klasik / game master |
+
+### Notasi langkah dalam soal & pembahasan
+
+- **Wajib SAN (Standard Algebraic Notation)** — gunakan `Nxe5`, `Qh5+`, `O-O`, `O-O-O`, `e8=Q`, `exd5 e.p.` — bukan koordinat lama (`e2-e4`) dan bukan deskriptif (`P-K4`).
+- **Notasi figurine boleh** untuk file `.html` (♘×e5, ♕h5+), tapi versi `.md` tetap pakai huruf SAN (N, B, R, Q, K) supaya plain-text-friendly.
+- Setiap opsi A/B/C/D = 1 langkah SAN (atau 1 urutan langkah jika kombinasi).
+- Pembahasan menjelaskan tiap opsi dengan SAN + alasan posisional/taktis.
+
+### Pipeline render: FEN → Diagram (Hybrid 2-Track, WAJIB)
+
+Paket Road to Chess GM punya dua format output (sama seperti OSN SMP yang punya `.md` & `.html`). Tiap format pakai pipeline render yang berbeda — **FEN string tetap satu-satunya sumber kebenaran yang ditulis manual** saat generate soal. Gambar/diagram dihasilkan otomatis dari FEN.
+
+#### Track A · Versi `.md` → embed Lichess Board Image API
+
+Untuk file markdown statis (mau dibuka di GitHub, VS Code, Obsidian, converter md manapun). **Cara render = embed `<img>`/markdown image dari Lichess URL** yang deterministik dari FEN.
+
+Template URL:
+```
+https://lichess1.org/export/fen.gif?fen=<URL-ENCODED-FEN>&color=<white|black>&theme=brown&piece=cburnett
+```
+
+Parameter:
+- `fen` — FEN string (wajib URL-encode: spasi → `%20` atau `+`, `/` boleh dibiarkan, tapi aman jika di-encode jadi `%2F`)
+- `color` — orientasi bawah papan: `white` (default, sudut h1 kanan-bawah) atau `black` (flip)
+- `theme` — `brown` (default), `blue`, `green`, `wood`, `marble`, dst.
+- `piece` — `cburnett` (default), `merida`, `alpha`, `chess7`, dst.
+
+Contoh embed di markdown:
+```markdown
+![Diagram D-012](https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2Fpppp1ppp%2F2n2n2%2F4p3%2F2B1P3%2F5N2%2FPPPP1PPP%2FRNBQK2R%20w%20KQkq%20-%204%204&color=white&theme=brown&piece=cburnett)
+```
+
+Pro: zero-setup, langsung kelihatan tanpa install apa-apa. Con: butuh internet di waktu baca (mitigasi: build step optional pre-fetch & cache ke `diagrams/D-NNN.gif` lokal).
+
+#### Track B · Versi `.html` interaktif → chessboard.js + FEN data
+
+Untuk file HTML interaktif (analog `template-html-interaktif.md` di OSN). Render real chess board: bidak bisa di-drag, animasi langkah jawaban bisa play setelah user klik opsi, ada arrow/highlight untuk pembahasan.
+
+Setup minimal:
+```html
+<link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+
+<div id="diagram-D-012" style="width: 400px"></div>
+<script>
+  Chessboard('diagram-D-012', {
+    position: 'r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R',
+    orientation: 'white',
+    showNotation: true
+  });
+</script>
+```
+
+`SOAL_DATA` array (analog OSN HTML template) berisi 100 obyek dengan field `{diagram_id, fen, giliran, konteks_pgn, opsi: ['Ng5', 'd3', 'O-O', 'Nc3'], jawaban: 'B', pembahasan: {...}}`.
+
+Pro: UX premium, bidak nyata, animasi langkah jawaban, navigable. Con: butuh JS + asset (CDN sudah cukup, tidak perlu npm install).
+
+#### Track C (opsional, offline only) · python-chess pre-render
+
+Hanya kalau internet tidak boleh sama sekali. `python-chess` + `cairosvg`:
+```python
+import chess, chess.svg, cairosvg
+board = chess.Board("r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4")
+svg = chess.svg.board(board, size=400, orientation=chess.WHITE)
+cairosvg.svg2png(bytestring=svg.encode(), write_to="diagrams/D-012.png")
+```
+
+Pre-render 100 diagram saat build → file `.md` reference asset lokal `![](./diagrams/D-012.png)`. Hanya pakai ini kalau Track A tidak feasible.
+
+### Contoh blok soal lengkap (format markdown referensi)
+
+```markdown
+**Soal 12.** Italian Game, posisi setelah 3...Nf6. Putih giliran. Manakah langkah terbaik?
+
+**Diagram D-012**
+
+![D-012](https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2Fpppp1ppp%2F2n2n2%2F4p3%2F2B1P3%2F5N2%2FPPPP1PPP%2FRNBQK2R%20w%20KQkq%20-%204%204&color=white&theme=brown&piece=cburnett)
+
+- **FEN:** `r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4`
+- **Giliran:** Putih
+- **Konteks:** 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6
+
+A. Ng5
+B. d3
+C. O-O
+D. Nc3
+
+**Pembahasan:**
+- **A. Ng5** — Fried Liver Attack. Mengincar f7 tapi setelah 4...d5 5.exd5 Na5 Hitam aman. Kuat di blitz, tapi di klasik tidak optimal untuk tingkat Master.
+- **B. d3** — Italian klasik (Giuoco Pianissimo). Sound, fleksibel, mempertahankan ketegangan.
+- **C. O-O** — Castle dulu, prinsip raja aman. Bagus tapi mengundang ...Nxe4 jika d3 belum dimainkan (Hitam bisa tukar bidak tengah).
+- **D. Nc3** — Four Knights setup. Solid tapi pasif untuk Putih, melepas inisiatif.
+
+**Jawaban: B**. Di tingkat Master, d3 dipilih untuk struktur pawn yang fleksibel sebelum komit.
+```
+
+> **Catatan FEN→PGN:** PGN adalah list langkah seluruh game, bukan 1 posisi. Tidak ada konversi langsung "PGN → 1 PNG" — alurnya **PGN → ekstrak FEN pada ply N → render FEN ke PNG**. Untuk paket ini, semua soal dimulai dari FEN posisi target; PGN (kalau ada) hanya jadi konteks teks di field `konteks_pgn` untuk membantu pemain mengerti asal-usul posisi.
+
+Aturan ini **berlaku untuk seluruh 198 file + 1.734 file sub-bab** di paket Road to Chess Grandmaster.
+
+---
+
 ## Kategori File (33 kategori × 6 tingkat = 198 file)
 
 ### Kategori A · Komprehensif Lintas Pilar (6 file)
@@ -367,5 +484,7 @@ Setiap bab BUK + Bagian I Materi (teori 6 sub-bagian A–F: ide, varian utama, j
 - Urutan default: Kategori A → B → C → D → E → F → G → H → I → J (komprehensif dulu, per-materi belakangan).
 - Untuk Road to GM, **Strategi + Endgame disajikan terintegrasi** pada Kategori C (analog dengan IPA terpadu pada SMP), karena evaluasi posisi sering memerlukan visualisasi posisi endgame.
 - Tingkat kognitif: Pemula (C2–C3, pattern recognition 1–2 langkah), Klub (C3–C4, kalkulasi 3–5 langkah), Master (C4–C5, kombinasi dalam, sacrifice posisional, studi endgame, profilaksis).
-- Setiap soal **wajib** menyertakan diagram posisi (FEN string atau SVG 8×8 board), notasi aljabar standar, dan pembahasan analisis 4 opsi (A/B/C/D — alasan kuat/lemah pedagogis, bukan sekedar "salah").
+- Setiap soal **wajib** menyertakan **diagram** posisi (lihat seksi "♟ Format Soal Wajib — Diagram & Notasi"): FEN sebagai sumber kebenaran + giliran (Putih/Hitam) + opsional konteks PGN. Render hybrid 2-track: **Track A (`.md`)** = embed Lichess Board Image API (URL deterministik dari FEN, zero setup), **Track B (`.html`)** = chessboard.js interaktif dengan FEN data inline. Track C (python-chess offline) opsional kalau internet tidak feasible.
+- Setiap opsi A/B/C/D **wajib** ditulis dalam SAN (Standard Algebraic Notation: `Nxe5`, `Qh5+`, `O-O`, `e8=Q`) — bukan koordinat (`e2-e4`) dan bukan deskriptif lama (`P-K4`).
+- Pembahasan menganalisis 4 opsi (A/B/C/D — alasan kuat/lemah pedagogis, bukan sekedar "salah").
 - User boleh redirect urutan kapan saja.

@@ -1955,3 +1955,1869 @@ D. Ginjal — tulang panggul
 
 ---
 
+### Soal 51 · Sendi · Prov
+
+**(1) Soal:**
+Saat Andi melemparkan bola softball ke atas, sendi pada bahunya bekerja sebagai sendi...
+
+**(2) Pilihan Jawaban:**
+
+A. Engsel — karena bahu hanya buka-tutup
+B. Peluru — karena bahu bisa diputar ke segala arah
+C. Pelana — karena gerakannya seperti naik kuda
+D. Mati — karena tidak bisa digerakkan
+
+**(3) Jawaban:** **B. Peluru — karena bahu bisa diputar ke segala arah**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Aplikasi sendi peluru pada gerakan lempar.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Engsel — karena bahu hanya buka-tutup** — Salah. Bahu bisa diputar 360°, bukan engsel.
+  - **B. Peluru — karena bahu bisa diputar ke segala arah** — Benar. Kepala humerus (bola) masuk ke mangkuk skapula → bisa diayun bebas. Itu sebabnya kita bisa melempar, mengayun, berenang gaya bebas.
+  - **C. Pelana — karena gerakannya seperti naik kuda** — Salah. Pelana hanya di pangkal ibu jari tangan.
+  - **D. Mati — karena tidak bisa digerakkan** — Salah. Justru bahu salah satu sendi paling lentur.
+
+- **Langkah Penyelesaian:**
+  1. Gerakan melempar = mengayun lengan ke segala arah.
+  2. Hanya sendi peluru yang memungkinkan gerakan rotasi 360° → bahu.
+
+- **Hasil akhir:** Peluru.
+
+- **💭 Tips:** Justru karena sangat lentur, sendi bahu juga paling rentan **dislokasi** (pergeseran) — sering terjadi pada pelempar/pemain olahraga kontak.
+
+---
+
+### Soal 52 · Sendi · Prov
+
+**(1) Soal:**
+Sari memutar pergelangan tangan untuk memutar tutup botol. Sendi pergelangan tangan termasuk jenis sendi...
+
+**(2) Pilihan Jawaban:**
+
+A. Sendi peluru murni
+B. Sendi engsel
+C. Sendi luncur / ellipsoid (2 sumbu)
+D. Sendi mati
+
+**(3) Jawaban:** **C. Sendi luncur / ellipsoid (2 sumbu)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis sendi pergelangan tangan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sendi peluru murni** — Salah. Peluru ada di bahu/panggul (3 sumbu), pergelangan tangan hanya 2 sumbu.
+  - **B. Sendi engsel** — Salah. Engsel hanya 1 arah; pergelangan bisa naik-turun dan samping.
+  - **C. Sendi luncur / ellipsoid (2 sumbu)** — Benar. Pergelangan tangan adalah kombinasi sendi luncur antar-karpal + sendi ellipsoid antara radius–karpal yang memungkinkan gerakan ke 2 sumbu.
+  - **D. Sendi mati** — Salah. Justru sendi yang sangat lincah.
+
+- **Langkah Penyelesaian:**
+  1. Pergelangan tangan bisa naik-turun (fleksi-ekstensi) + ke samping (deviasi radial-ulnar).
+  2. 2 sumbu gerak = ellipsoid/luncur, bukan peluru (3 sumbu) bukan engsel (1 sumbu).
+
+- **Hasil akhir:** Sendi luncur / ellipsoid.
+
+- **💭 Tips:** Memutar pergelangan tangan (sambil tangan menghadap atas-bawah) sebenarnya gerakan rotasi **lengan bawah** (radius berputar di atas ulna), bukan pergelangan tangan itu sendiri.
+
+---
+
+### Soal 53 · Sendi · Prov
+
+**(1) Soal:**
+Dimas mengangguk-anggukkan kepalanya saat setuju. Gerakan ini memanfaatkan sendi antara tengkorak dengan ruas tulang leher pertama yang termasuk jenis sendi...
+
+**(2) Pilihan Jawaban:**
+
+A. Sendi peluru
+B. Sendi engsel
+C. Sendi pelana
+D. Sendi putar
+
+**(3) Jawaban:** **B. Sendi engsel**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bedakan gerakan mengangguk vs menggeleng.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sendi peluru** — Salah. Kepala tidak bisa ke segala arah seperti bahu.
+  - **B. Sendi engsel** — Benar. Mengangguk = membuka-menutup ke atas-bawah, satu arah → seperti engsel pintu. Sendi antara tengkorak dengan atlas (ruas leher 1) memungkinkan gerakan ini.
+  - **C. Sendi pelana** — Salah. Pelana = pangkal ibu jari.
+  - **D. Sendi putar** — Salah. Putar dipakai saat **menggeleng** (rotasi), antara atlas dengan aksis (ruas leher 2).
+
+- **Langkah Penyelesaian:**
+  1. Mengangguk = naik-turun = engsel (tengkorak–atlas).
+  2. Menggeleng = berputar = putar (atlas–aksis).
+
+- **Hasil akhir:** Sendi engsel.
+
+- **💭 Tips:** Ada 2 sendi penting di pangkal leher: atlanto-oksipital (engsel, untuk mengangguk) dan atlanto-aksial (putar, untuk menggeleng). Soal sering hanya minta "salah satu" — perhatikan gerakannya.
+
+---
+
+### Soal 54 · Sendi · Prov
+
+**(1) Soal:**
+Antara dua ruas tulang belakang (vertebra) terdapat bantalan tulang rawan. Sendi antar-ruas ini termasuk jenis sendi...
+
+**(2) Pilihan Jawaban:**
+
+A. Sinartrosis (mati)
+B. Amfiartrosis (kaku, sedikit bergerak)
+C. Diartrosis peluru
+D. Diartrosis engsel
+
+**(3) Jawaban:** **B. Amfiartrosis (kaku, sedikit bergerak)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Klasifikasi sendi antar-vertebra.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sinartrosis (mati)** — Salah. Sendi antar-vertebra masih bisa bergerak sedikit (kita bisa membungkuk, memutar pinggang).
+  - **B. Amfiartrosis (kaku, sedikit bergerak)** — Benar. Sendi antar-vertebra hanya bisa bergerak sedikit per ruas, tapi kumulasi dari banyak ruas memungkinkan tubuh menekuk fleksibel.
+  - **C. Diartrosis peluru** — Salah. Bukan bisa segala arah seperti bahu.
+  - **D. Diartrosis engsel** — Salah. Tidak hanya buka-tutup; bisa ke berbagai arah sedikit-sedikit.
+
+- **Langkah Penyelesaian:**
+  1. Sedikit bergerak per ruas → amfiartrosis (sendi kaku).
+  2. Bantalan tulang rawan (cakram intervertebralis) memungkinkan gerakan terbatas.
+
+- **Hasil akhir:** Amfiartrosis.
+
+- **💭 Tips:** Cedera **hernia nukleus pulposus (HNP)** = bantalan antar-ruas vertebra menonjol keluar dan menjepit saraf → nyeri pinggang berat. Sering pada orang yang sering mengangkat beban dengan postur salah.
+
+---
+
+### Soal 55 · Otot Bekerja · Prov
+
+**(1) Soal:**
+Saat seorang atlet meluruskan lutut untuk menendang bola, otot yang bekerja kontraksi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Otot bisep
+B. Otot hamstring (paha belakang)
+C. Otot kuadrisep (paha depan)
+D. Otot trisep
+
+**(3) Jawaban:** **C. Otot kuadrisep (paha depan)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pasangan antagonis di paha (kuadrisep–hamstring).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Otot bisep** — Salah. Bisep ada di lengan, bukan paha.
+  - **B. Otot hamstring (paha belakang)** — Salah. Hamstring bekerja saat **menekuk** lutut (bukan meluruskan).
+  - **C. Otot kuadrisep (paha depan)** — Benar. Quad- = "empat", kuadrisep punya 4 kepala otot di depan paha. Saat kontraksi, menarik tibia ke depan → lutut lurus.
+  - **D. Otot trisep** — Salah. Trisep ada di lengan, bukan paha.
+
+- **Langkah Penyelesaian:**
+  1. Meluruskan lutut = ekstensi = otot paha **depan** = kuadrisep.
+  2. Menekuk lutut = fleksi = otot paha **belakang** = hamstring.
+
+- **Hasil akhir:** Kuadrisep.
+
+- **💭 Tips:** Kuadrisep–hamstring adalah pasangan antagonis paha, mirip bisep–trisep di lengan. Latihan keseimbangan keduanya penting untuk cegah cedera lutut.
+
+---
+
+### Soal 56 · Otot Bekerja · Prov
+
+**(1) Soal:**
+Bu Rina sedang menulis menggunakan tangan kanannya. Pasangan otot yang bekerja bersama (sinergis) untuk menjaga lengan tetap stabil saat menulis adalah contoh otot...
+
+**(2) Pilihan Jawaban:**
+
+A. Antagonis
+B. Sinergis
+C. Aktagonis
+D. Polos
+
+**(3) Jawaban:** **B. Sinergis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi otot sinergis.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Antagonis** — Salah. Antagonis = berlawanan, bukan bersama.
+  - **B. Sinergis** — Benar. Sin- = "bersama", -ergis = "kerja". Sinergis = otot yang sama-sama berkontraksi ke arah yang sama untuk satu gerakan.
+  - **C. Aktagonis** — Salah. Istilah ini tidak ada.
+  - **D. Polos** — Salah. Polos adalah jenis otot, bukan istilah cara kerja.
+
+- **Langkah Penyelesaian:**
+  1. Bekerja bersama ke arah sama → sinergis.
+  2. Bekerja berlawanan → antagonis.
+
+- **Hasil akhir:** Sinergis.
+
+- **💭 Tips:** Contoh lain sinergis: otot-otot di antara rusuk (otot interkostalis eksternal) yang bersama-sama menarik rusuk ke atas saat menarik napas.
+
+---
+
+### Soal 57 · 3 Jenis Otot · Prov
+
+**(1) Soal:**
+Ciri-ciri otot polos yang membedakannya dari otot lurik adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Bekerja sadar, banyak inti di tepi, cepat lelah
+B. Bekerja tak sadar, satu inti di tengah, tidak cepat lelah
+C. Bekerja tak sadar, lurik bercabang, hanya di jantung
+D. Bekerja sadar, bentuk gelendong, tidak cepat lelah
+
+**(3) Jawaban:** **B. Bekerja tak sadar, satu inti di tengah, tidak cepat lelah**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perbedaan otot polos vs lurik (struktur & cara kerja).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Itu ciri otot **lurik** (sadar, inti di tepi, cepat lelah).
+  - **B.** Benar. Otot polos: tak sadar (otonom), bentuk gelendong, 1 inti di tengah, kerja lambat & tidak cepat lelah.
+  - **C.** Salah. Itu ciri otot **jantung**.
+  - **D.** Salah. Inkonsisten — bentuk gelendong polos (cocok), tapi polos tidak sadar (bukan sadar).
+
+- **Langkah Penyelesaian:**
+  1. Periksa 3 atribut: sadar/tidak, jumlah & lokasi inti, kelelahan.
+  2. Cocokkan dengan otot polos: tak sadar + 1 inti tengah + tidak lelah.
+
+- **Hasil akhir:** Bekerja tak sadar, satu inti di tengah, tidak cepat lelah.
+
+- **💭 Tips:** Otot polos di lambung tidak pernah berhenti bekerja saat kita mencerna — pekerjaan lambat tapi terus-menerus. Itu sebabnya tidak boleh cepat lelah.
+
+---
+
+### Soal 58 · 3 Jenis Otot · Prov
+
+**(1) Soal:**
+Otot jantung memiliki ciri unik yang membedakannya dari otot polos dan lurik, yaitu...
+
+**(2) Pilihan Jawaban:**
+
+A. Lurik tetapi bercabang & bekerja tak sadar
+B. Polos & bekerja sadar
+C. Lurik & bekerja sadar
+D. Polos & bekerja tak sadar
+
+**(3) Jawaban:** **A. Lurik tetapi bercabang & bekerja tak sadar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Ciri unik otot jantung sebagai "campuran" lurik + polos.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Lurik tetapi bercabang & bekerja tak sadar** — Benar. Otot jantung = struktur lurik seperti otot rangka, TAPI bercabang dan bekerja **tak sadar** seperti otot polos. Unik.
+  - **B. Polos & sadar** — Salah. Tidak sadar; juga bukan polos (lurik).
+  - **C. Lurik & sadar** — Salah. Itu otot **rangka**, bukan jantung.
+  - **D. Polos & tak sadar** — Salah. Itu otot **polos** biasa (di organ dalam).
+
+- **Langkah Penyelesaian:**
+  1. Jantung perlu kerja keras (lurik) tapi tak boleh berhenti & tak boleh dipikirkan (tak sadar).
+  2. Bentuk bercabang membantu sinyal listrik menyebar cepat ke semua sel jantung.
+
+- **Hasil akhir:** Lurik tetapi bercabang & bekerja tak sadar.
+
+- **💭 Tips:** Sel-sel otot jantung dihubungkan oleh "diskus interkalaris" (disk berlekuk) yang memungkinkan sinyal listrik mengalir cepat → semua sel berdetak serempak.
+
+---
+
+### Soal 59 · Tendon vs Ligamen · Prov
+
+**(1) Soal:**
+Saat Dimas terpeleset dan terkilir di pergelangan kaki, yang mengalami cedera (tertarik atau robek) adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Tulang (fraktur)
+B. Otot (strain)
+C. Ligamen (sprain)
+D. Saraf
+
+**(3) Jawaban:** **C. Ligamen (sprain)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Identifikasi cedera terkilir.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tulang (fraktur)** — Salah. Fraktur = patah tulang, biasanya ada bunyi & deformitas hebat. Terkilir biasanya tulang utuh.
+  - **B. Otot (strain)** — Salah. Strain = otot/tendon tertarik (mis. otot paha "ketarik"). Terkilir pergelangan bukan otot utama.
+  - **C. Ligamen (sprain)** — Benar. Sprain = ligamen yang mengikat tulang di sendi tertarik atau robek. Pergelangan kaki terkilir = ligamen di sisi kaki tertarik.
+  - **D. Saraf** — Salah. Cedera saraf langsung jarang terjadi pada terkilir biasa.
+
+- **Langkah Penyelesaian:**
+  1. Terkilir → cedera **ligamen** sendi → sprain.
+  2. Otot ketarik → strain.
+
+- **Hasil akhir:** Ligamen.
+
+- **💭 Tips:** Penanganan terkilir: **RICE** = **R**est (istirahat), **I**ce (kompres es), **C**ompression (perban tekan), **E**levation (kaki diangkat). Jangan langsung dipijat keras karena bisa memperparah robekan ligamen.
+
+---
+
+### Soal 60 · Tendon vs Ligamen · Prov
+
+**(1) Soal:**
+Tendon Achilles terletak di...
+
+**(2) Pilihan Jawaban:**
+
+A. Belakang pergelangan kaki (menghubungkan otot betis ke tulang tumit)
+B. Depan paha (menghubungkan otot kuadrisep ke tempurung lutut)
+C. Bahu (menghubungkan otot bisep ke skapula)
+D. Pinggang (menghubungkan otot perut ke tulang panggul)
+
+**(3) Jawaban:** **A. Belakang pergelangan kaki (menghubungkan otot betis ke tulang tumit)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Lokasi tendon Achilles.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Belakang pergelangan kaki** — Benar. Tendon Achilles = tendon terbesar & terkuat di tubuh, menghubungkan otot betis (gastroknemius & soleus) ke tulang tumit (kalkaneus).
+  - **B. Depan paha** — Salah. Itu tendon kuadrisep (juga ada, tapi bukan namanya Achilles).
+  - **C. Bahu** — Salah. Tidak ada tendon dengan nama Achilles di bahu.
+  - **D. Pinggang** — Salah. Achilles spesifik di pergelangan kaki.
+
+- **Langkah Penyelesaian:**
+  1. Hafalkan: Achilles = pergelangan kaki belakang.
+  2. Nama dari mitologi Yunani — pahlawan Achilles tewas karena luka di tumitnya.
+
+- **Hasil akhir:** Belakang pergelangan kaki.
+
+- **💭 Tips:** Saat jinjit, tendon Achilles menarik tumit ke atas. Robek tendon Achilles = cedera serius — pasien tidak bisa jinjit dan butuh operasi pemulihan.
+
+---
+
+### Soal 61 · Gangguan Rangka · Prov
+
+**(1) Soal:**
+Penyakit tulang yang sering dialami anak-anak akibat kekurangan vitamin D dan kalsium, menyebabkan tulang melunak dan kaki melengkung adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Osteoporosis
+B. Rakhitis
+C. Skoliosis
+D. Artritis
+
+**(3) Jawaban:** **B. Rakhitis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyakit tulang akibat defisiensi vitamin D pada anak.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Osteoporosis** — Salah. Osteoporosis pada lansia (tulang keropos), bukan tulang melunak pada anak.
+  - **B. Rakhitis** — Benar. Rakhitis = tulang anak gagal mengeras sempurna karena vitamin D kurang → kalsium tidak terserap → tulang lunak & kaki bengkok seperti huruf O atau X.
+  - **C. Skoliosis** — Salah. Skoliosis = lengkung tulang belakang ke samping.
+  - **D. Artritis** — Salah. Artritis = radang sendi.
+
+- **Langkah Penyelesaian:**
+  1. Anak + kurang vitamin D + tulang lunak → rakhitis.
+  2. Dewasa (perempuan terlebih) + kalsium kurang + tulang keropos → osteoporosis.
+
+- **Hasil akhir:** Rakhitis.
+
+- **💭 Tips:** Pencegahan rakhitis: berjemur pagi (10-30 menit, jam 8–10) agar kulit memproduksi vitamin D + asupan susu, ikan berlemak, telur, dan suplemen vitamin D bila perlu.
+
+---
+
+### Soal 62 · Gangguan Rangka · Prov
+
+**(1) Soal:**
+Bu Sari (55 tahun) sering merasa pegal di lutut setiap pagi, sendi terasa kaku dan sakit saat ditekuk. Setelah diperiksa dokter, ia mengalami peradangan sendi. Penyakit ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Osteoporosis
+B. Skoliosis
+C. Artritis
+D. Atrofi
+
+**(3) Jawaban:** **C. Artritis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Identifikasi artritis (radang sendi).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Osteoporosis** — Salah. Osteoporosis = pengeroposan tulang (bukan radang sendi).
+  - **B. Skoliosis** — Salah. Skoliosis = kelainan tulang belakang.
+  - **C. Artritis** — Benar. Arthr- = "sendi", -itis = "radang". Sendi meradang, bengkak, sakit, kaku. Banyak jenisnya: osteoartritis (aus), rematoid artritis (autoimun), gout (asam urat).
+  - **D. Atrofi** — Salah. Atrofi = otot mengecil, bukan radang sendi.
+
+- **Langkah Penyelesaian:**
+  1. Sendi nyeri & meradang → artritis.
+  2. Cek detil: aus karena tua = osteoartritis; autoimun = rematoid; kristal asam urat = gout.
+
+- **Hasil akhir:** Artritis.
+
+- **💭 Tips:** Rematoid artritis biasanya menyerang **simetris** (kedua tangan/lutut bersamaan), sedangkan osteoartritis biasanya pada sendi yang sering menahan beban (lutut, pinggul, tangan dominan).
+
+---
+
+### Soal 63 · Sistem Otot · Prov
+
+**(1) Soal:**
+Sel otot lurik memiliki ciri unik berupa banyak inti sel yang terletak di...
+
+**(2) Pilihan Jawaban:**
+
+A. Tengah sel
+B. Tepi sel
+C. Hanya di salah satu ujung
+D. Tidak punya inti
+
+**(3) Jawaban:** **B. Tepi sel**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Posisi inti sel pada 3 jenis otot.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tengah sel** — Salah. Itu ciri otot polos (1 inti) atau otot jantung (1–2 inti di tengah).
+  - **B. Tepi sel** — Benar. Sel otot lurik panjang dengan **banyak** inti yang tersebar di pinggir sel.
+  - **C. Hanya di salah satu ujung** — Salah. Tersebar merata di pinggir, bukan satu ujung.
+  - **D. Tidak punya inti** — Salah. Semua sel hidup punya inti.
+
+- **Langkah Penyelesaian:**
+  1. Lurik: banyak inti, di tepi.
+  2. Polos: 1 inti, di tengah.
+  3. Jantung: 1–2 inti, di tengah, sel bercabang.
+
+- **Hasil akhir:** Tepi sel.
+
+- **💭 Tips:** Sel otot lurik dibentuk dari peleburan beberapa sel embrio → wajar punya banyak inti yang "terdorong" ke pinggir saat serabut otot terbentuk.
+
+---
+
+### Soal 64 · Sendi · Prov
+
+**(1) Soal:**
+Sendi yang memungkinkan gerakan memutar antara tulang radius dan ulna saat kita memutar telapak tangan ke atas atau ke bawah adalah jenis...
+
+**(2) Pilihan Jawaban:**
+
+A. Sendi engsel
+B. Sendi peluru
+C. Sendi putar
+D. Sendi pelana
+
+**(3) Jawaban:** **C. Sendi putar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sendi putar antara radius–ulna.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sendi engsel** — Salah. Engsel = 1 arah buka-tutup; ini gerakan rotasi.
+  - **B. Sendi peluru** — Salah. Peluru = segala arah; ini hanya 1 sumbu rotasi.
+  - **C. Sendi putar** — Benar. Radius berputar mengelilingi ulna → telapak tangan bisa menelungkup (pronasi) & menengadah (supinasi).
+  - **D. Sendi pelana** — Salah. Pelana = pangkal ibu jari, 2 arah.
+
+- **Langkah Penyelesaian:**
+  1. Telapak tangan diputar ↔ rotasi radius pada ulna → sendi putar.
+
+- **Hasil akhir:** Sendi putar.
+
+- **💭 Tips:** Selain di leher dan lengan bawah, contoh sendi putar lain: antara ruas leher 1 (atlas) dan 2 (aksis) saat kita menggeleng kepala.
+
+---
+
+### Soal 65 · Otot Bekerja · Prov
+
+**(1) Soal:**
+Saat Koko meluruskan lututnya untuk berdiri tegak dari posisi jongkok, otot yang berkontraksi adalah otot... dan otot yang relaksasi adalah otot...
+
+**(2) Pilihan Jawaban:**
+
+A. Hamstring — kuadrisep
+B. Kuadrisep — hamstring
+C. Bisep — trisep
+D. Trisep — bisep
+
+**(3) Jawaban:** **B. Kuadrisep — hamstring**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pasangan antagonis paha saat berdiri.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hamstring — kuadrisep** — Salah. Terbalik; hamstring kontraksi saat menekuk lutut.
+  - **B. Kuadrisep — hamstring** — Benar. Untuk meluruskan lutut, kuadrisep (depan paha) kontraksi → menarik tibia ke depan. Hamstring (belakang paha) harus relaksasi.
+  - **C. Bisep — trisep** — Salah. Bisep & trisep ada di lengan, bukan paha.
+  - **D. Trisep — bisep** — Salah. Sama, salah lokasi.
+
+- **Langkah Penyelesaian:**
+  1. Berdiri dari jongkok = meluruskan lutut.
+  2. Otot yang meluruskan lutut = kuadrisep (depan).
+  3. Pasangan antagonisnya = hamstring (belakang) → harus mengendur.
+
+- **Hasil akhir:** Kuadrisep kontraksi, hamstring relaksasi.
+
+- **💭 Tips:** Squat = latihan kuadrisep + hamstring + gluteus secara seimbang. Sangat baik untuk kekuatan kaki, asal posturnya benar (lutut tidak melebihi ujung kaki).
+
+---
+
+### Soal 66 · Gangguan Otot · Prov
+
+**(1) Soal:**
+Penyakit yang membuat seluruh otot mendadak kaku dan kejang karena toksin bakteri Clostridium tetani yang masuk lewat luka dalam disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Polio
+B. Tetanus
+C. Distrofi otot
+D. Kram
+
+**(3) Jawaban:** **B. Tetanus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyakit tetanus dan penyebabnya.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Polio** — Salah. Polio = virus yang menyerang saraf → kelumpuhan, bukan kekakuan otot.
+  - **B. Tetanus** — Benar. Bakteri Clostridium tetani menghasilkan toksin tetanospasmin yang mengacaukan sinyal saraf → otot kontraksi terus tanpa relaksasi (kejang/kaku).
+  - **C. Distrofi otot** — Salah. Distrofi = penyakit genetik bawaan, bukan akibat bakteri.
+  - **D. Kram** — Salah. Kram bersifat lokal & sementara, bukan seluruh tubuh.
+
+- **Langkah Penyelesaian:**
+  1. Kejang seluruh otot + sebab bakteri → tetanus.
+  2. Pencegahan: vaksin DPT (rutin saat anak) + perawatan luka bersih.
+
+- **Hasil akhir:** Tetanus.
+
+- **💭 Tips:** Bakteri tetanus suka tempat tanpa oksigen (anaerob) — luka dalam, luka tusuk paku, gigitan binatang yang dalam. Selalu bersihkan luka dengan air mengalir & sabun, lalu antiseptik.
+
+---
+
+### Soal 67 · Sintesis Rangka–Otot · Prov
+
+**(1) Soal:**
+Urutan kerja yang BENAR untuk menggerakkan lengan menekuk adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Otot kontraksi → tulang ditarik → saraf mengirim sinyal → gerakan
+B. Saraf mengirim sinyal → otot kontraksi → tendon menarik tulang → gerakan
+C. Tulang bergerak → otot ikut bergerak → saraf bereaksi → gerakan
+D. Sendi bergerak → ligamen menarik → otot kontraksi → gerakan
+
+**(3) Jawaban:** **B. Saraf mengirim sinyal → otot kontraksi → tendon menarik tulang → gerakan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Urutan kerja sistem gerak secara terpadu.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Saraf mengirim sinyal DULU sebelum otot kontraksi.
+  - **B.** Benar. Urutannya: otak/sumsum mengirim impuls → otot menerima sinyal → kontraksi → tendon menarik tulang → tulang bergerak di sendi.
+  - **C.** Salah. Tulang tidak bisa bergerak duluan (pasif).
+  - **D.** Salah. Ligamen tidak bisa menarik aktif — hanya memperkuat sendi.
+
+- **Langkah Penyelesaian:**
+  1. Sumber perintah = saraf (otak).
+  2. Pelaksana = otot (kontraksi).
+  3. Penyalur = tendon ke tulang.
+  4. Hasil = gerakan.
+
+- **Hasil akhir:** Saraf → otot → tendon → tulang → gerakan.
+
+- **💭 Tips:** Tanpa saraf yang sehat, otot meski kuat tidak akan bergerak (mis. pasien polio atau cedera tulang belakang). Inilah pentingnya 3 sistem (saraf + otot + rangka) berkoordinasi.
+
+---
+
+### Soal 68 · Otot Bekerja · Prov
+
+**(1) Soal:**
+Saat kita menarik napas dalam-dalam, otot diafragma berkontraksi dan otot antar-rusuk juga bekerja bersama. Hubungan kerja otot ini termasuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Antagonis
+B. Sinergis
+C. Statis
+D. Refleks
+
+**(3) Jawaban:** **B. Sinergis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sinergis pada pernapasan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Antagonis** — Salah. Antagonis = berlawanan. Di sini kedua otot bekerja sama untuk memperluas rongga dada.
+  - **B. Sinergis** — Benar. Diafragma turun + interkostalis eksternal menarik rusuk ke atas → rongga dada meluas → udara masuk. Keduanya bekerja searah (memperluas).
+  - **C. Statis** — Salah. Statis = diam, padahal otot ini aktif kontraksi.
+  - **D. Refleks** — Salah. Refleks = respons cepat tanpa kesadaran; ini bukan istilah pasangan kerja otot.
+
+- **Langkah Penyelesaian:**
+  1. Dua otot bekerja sama searah → sinergis.
+  2. Dua otot bekerja berlawanan → antagonis.
+
+- **Hasil akhir:** Sinergis.
+
+- **💭 Tips:** Saat menghembuskan napas (normal), diafragma & otot interkostalis relaksasi — udara keluar pasif. Kalau hembusan kuat (mis. meniup lilin), otot perut & interkostalis internal kontraksi → ini contoh aktif lagi.
+
+---
+
+### Soal 69 · Gangguan Rangka · Prov
+
+**(1) Soal:**
+Sari (kelas 6 SD) sering membawa tas ransel berat hanya di satu bahu sebelah kanan. Lama-kelamaan punggungnya menjadi miring. Kelainan tulang belakang yang bisa terjadi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Kifosis (bungkuk)
+B. Lordosis (pinggang menonjol)
+C. Skoliosis (melengkung ke samping)
+D. Osteoporosis
+
+**(3) Jawaban:** **C. Skoliosis (melengkung ke samping)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hubungan kebiasaan postur dengan skoliosis.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kifosis (bungkuk)** — Salah. Kifosis terjadi karena postur membungkuk ke depan (biasanya saat duduk).
+  - **B. Lordosis (pinggang menonjol)** — Salah. Lordosis = pinggang cembung ke depan (lebih ke postur, kehamilan, dst).
+  - **C. Skoliosis (melengkung ke samping)** — Benar. Beban hanya di satu sisi → tulang belakang menyesuaikan diri melengkung ke samping → skoliosis.
+  - **D. Osteoporosis** — Salah. Osteoporosis = pengeroposan tulang (faktor usia & gizi), bukan postur.
+
+- **Langkah Penyelesaian:**
+  1. Beban tidak seimbang kiri-kanan → tulang miring ke samping → skoliosis.
+
+- **Hasil akhir:** Skoliosis.
+
+- **💭 Tips:** Pencegahan: pakai ransel di kedua bahu, atur agar beban tas tidak lebih dari 10% berat badan, ergonomi belajar yang baik (kursi & meja sesuai tinggi).
+
+---
+
+### Soal 70 · Bentuk Tulang · Prov
+
+**(1) Soal:**
+Tulang panjang seperti femur, humerus, dan tibia memiliki struktur yang serupa: ujungnya membesar dengan tulang rawan, tengahnya berongga. Bagian ujung yang membesar ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Diafisis
+B. Epifisis
+C. Periosteum
+D. Sumsum
+
+**(3) Jawaban:** **B. Epifisis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Struktur tulang pipa (anatomi dasar).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Diafisis** — Salah. Diafisis = bagian batang/tengah tulang pipa (yang berongga).
+  - **B. Epifisis** — Benar. Epifisis = bagian ujung tulang pipa yang membesar, dilapisi tulang rawan (untuk sendi), berisi sumsum merah (produksi sel darah).
+  - **C. Periosteum** — Salah. Periosteum = selaput luar tulang (tempat melekatnya otot, pembuluh darah, saraf).
+  - **D. Sumsum** — Salah. Sumsum = isi dalam tulang (kuning atau merah), bukan bagian luar.
+
+- **Langkah Penyelesaian:**
+  1. Tulang pipa: epifisis (ujung) + diafisis (tengah) + metafisis (transisi) + periosteum (selaput luar).
+  2. Ujung membesar = epifisis.
+
+- **Hasil akhir:** Epifisis.
+
+- **💭 Tips:** Pertumbuhan tinggi badan terjadi di **lempeng epifisis** (cakram pertumbuhan) — tulang rawan di metafisis yang masih bisa berproliferasi hingga akhir masa remaja.
+
+---
+
+### Soal 71 · Sumsum Tulang · Prov
+
+**(1) Soal:**
+Sumsum tulang merah berbeda dari sumsum tulang kuning karena sumsum tulang merah...
+
+**(2) Pilihan Jawaban:**
+
+A. Hanya menyimpan lemak
+B. Memproduksi sel-sel darah merah, putih, dan trombosit
+C. Mengangkut oksigen
+D. Menyaring darah
+
+**(3) Jawaban:** **B. Memproduksi sel-sel darah merah, putih, dan trombosit**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Beda fungsi sumsum merah vs kuning.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hanya menyimpan lemak** — Salah. Itu sumsum **kuning** (di rongga tulang pipa orang dewasa).
+  - **B. Memproduksi sel-sel darah** — Benar. Sumsum merah adalah pabrik utama eritrosit (sel darah merah), leukosit (sel darah putih), dan trombosit (keping darah).
+  - **C. Mengangkut oksigen** — Salah. Itu fungsi hemoglobin dalam sel darah merah.
+  - **D. Menyaring darah** — Salah. Itu fungsi ginjal (urin) atau hati (toksin).
+
+- **Langkah Penyelesaian:**
+  1. Merah → buat sel **darah** (yang juga merah karena hemoglobin).
+  2. Kuning → simpan **lemak** (warna kuning lemak).
+
+- **Hasil akhir:** Memproduksi sel-sel darah.
+
+- **💭 Tips:** Sumsum merah banyak di tulang pipih (rusuk, dada, panggul, tengkorak) dan di epifisis tulang pipa. Pada bayi semua sumsum merah; pada dewasa, sebagian berubah jadi sumsum kuning di diafisis.
+
+---
+
+### Soal 72 · 3 Jenis Otot · Prov
+
+**(1) Soal:**
+Berikut ini pernyataan yang BENAR membandingkan otot polos dan otot jantung adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Keduanya bekerja sadar
+B. Keduanya bekerja tak sadar
+C. Otot polos lurik, otot jantung polos
+D. Otot polos cepat lelah, otot jantung tidak
+
+**(3) Jawaban:** **B. Keduanya bekerja tak sadar**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Persamaan otot polos & jantung.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Keduanya bekerja sadar** — Salah. Yang sadar adalah otot lurik (rangka).
+  - **B. Keduanya bekerja tak sadar** — Benar. Otot polos & otot jantung dikendalikan saraf otonom — kita tidak bisa "memerintahkan" jantung berhenti atau usus berhenti dengan kemauan.
+  - **C. Otot polos lurik, otot jantung polos** — Salah. Justru terbalik: otot polos tidak lurik, otot jantung lurik (bercabang).
+  - **D. Otot polos cepat lelah** — Salah. Justru otot polos & jantung sama-sama tidak cepat lelah; hanya otot lurik (rangka) yang cepat lelah.
+
+- **Langkah Penyelesaian:**
+  1. Cek persamaan: cara kerja (sadar/tak sadar) → keduanya tak sadar.
+  2. Cek perbedaan: struktur (polos tidak lurik vs jantung lurik bercabang), lokasi (organ dalam vs jantung saja).
+
+- **Hasil akhir:** Keduanya bekerja tak sadar.
+
+- **💭 Tips:** Kontrol "tak sadar" diatur saraf otonom (simpatis & parasimpatis). Itu sebabnya jantung tetap berdetak saat kita tidur — tubuh kita "auto-pilot".
+
+---
+
+### Soal 73 · Sendi · Prov
+
+**(1) Soal:**
+Cairan licin di dalam sendi gerak yang berfungsi sebagai pelumas agar tulang-tulang tidak bergesekan langsung disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Cairan empedu
+B. Cairan sinovial
+C. Plasma darah
+D. Cairan ludah
+
+**(3) Jawaban:** **B. Cairan sinovial**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Komponen sendi gerak.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Cairan empedu** — Salah. Empedu dari hati, untuk emulsi lemak di pencernaan.
+  - **B. Cairan sinovial** — Benar. Cairan kental & licin di rongga sendi (kapsul sendi) yang melumasi ujung tulang berlapis rawan.
+  - **C. Plasma darah** — Salah. Plasma di pembuluh darah, bukan rongga sendi.
+  - **D. Cairan ludah** — Salah. Ludah di mulut, untuk mencerna pati.
+
+- **Langkah Penyelesaian:**
+  1. Sendi gerak butuh pelumas → cairan sinovial.
+  2. Sinovium = membran yang memproduksi cairan ini.
+
+- **Hasil akhir:** Cairan sinovial.
+
+- **💭 Tips:** Saat usia tua, cairan sinovial berkurang & tulang rawan menipis → tulang ujung bergesekan → osteoartritis (sendi nyeri saat digerakkan). Itu sebabnya banyak lansia mengeluh "sendi kering".
+
+---
+
+### Soal 74 · Gangguan Rangka · Prov
+
+**(1) Soal:**
+Kelainan pada tulang yang patah hingga menembus kulit (terlihat dari luar) disebut fraktur...
+
+**(2) Pilihan Jawaban:**
+
+A. Tertutup
+B. Terbuka
+C. Hijau (greenstick)
+D. Stres
+
+**(3) Jawaban:** **B. Terbuka**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis fraktur berdasarkan luka kulit.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tertutup** — Salah. Tertutup = tulang patah di dalam, tapi kulit masih utuh.
+  - **B. Terbuka** — Benar. Tulang patah & ujungnya menembus kulit, terlihat dari luar (juga disebut fraktur kompleks). Lebih berbahaya karena risiko infeksi.
+  - **C. Hijau (greenstick)** — Salah. Fraktur hijau = retak tidak penuh, seperti ranting muda dipatahkan. Sering pada anak (tulang masih lentur).
+  - **D. Stres** — Salah. Fraktur stres = retakan kecil akibat tekanan berulang (mis. atlet lari).
+
+- **Langkah Penyelesaian:**
+  1. Tulang menembus kulit → fraktur terbuka.
+  2. Tulang patah tapi kulit utuh → fraktur tertutup.
+
+- **Hasil akhir:** Fraktur terbuka.
+
+- **💭 Tips:** Fraktur terbuka adalah kasus gawat darurat — perlu segera ditutup steril, beri antibiotik, dan operasi. Risiko utama: infeksi tulang (osteomielitis).
+
+---
+
+### Soal 75 · Gangguan Otot · Prov
+
+**(1) Soal:**
+Penyakit otot yang bersifat genetik, membuat otot rangka melemah secara progresif sejak anak-anak, disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Tetanus
+B. Atrofi
+C. Distrofi otot
+D. Kram
+
+**(3) Jawaban:** **C. Distrofi otot**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Identifikasi distrofi otot.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tetanus** — Salah. Tetanus = infeksi bakteri, bukan genetik.
+  - **B. Atrofi** — Salah. Atrofi = pengecilan otot karena tidak dipakai (bukan genetik bawaan).
+  - **C. Distrofi otot** — Benar. Distrofi otot = kelompok penyakit genetik (mis. distrofi Duchenne) yang menyebabkan otot melemah dan menyusut secara progresif.
+  - **D. Kram** — Salah. Kram = kontraksi otot mendadak sementara.
+
+- **Langkah Penyelesaian:**
+  1. Genetik + melemah progresif → distrofi otot.
+
+- **Hasil akhir:** Distrofi otot.
+
+- **💭 Tips:** Distrofi Duchenne paling sering pada anak laki-laki karena gen penyebab di kromosom X (anak perempuan punya 2 X → 1 sehat bisa "menutupi"). Belum ada obat tuntas, tapi terapi fisik & medis bisa memperlambat.
+
+---
+
+### Soal 76 · Sendi · Prov
+
+**(1) Soal:**
+Sendi pelana memungkinkan gerakan ke 2 arah. Selain di pangkal ibu jari tangan, contoh sendi pelana adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Antara tulang pergelangan tangan dengan jari kelingking
+B. Hampir tidak ada di tubuh manusia (sendi pelana sangat khas dan jarang)
+C. Antara tulang panggul dengan tulang paha
+D. Antara tulang rusuk dengan tulang dada
+
+**(3) Jawaban:** **B. Hampir tidak ada di tubuh manusia (sendi pelana sangat khas dan jarang)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Lokasi sendi pelana — pengetahuan bahwa sendi ini sangat jarang.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Pangkal kelingking & jari lain selain ibu jari = sendi geser/luncur, bukan pelana.
+  - **B.** Benar. Sendi pelana hampir spesifik hanya di pangkal ibu jari tangan (karpometakarpal I). Karena itu, ciri ini sering jadi penanda khas manusia & primata.
+  - **C.** Salah. Antara panggul–paha = sendi peluru (segala arah), bukan pelana.
+  - **D.** Salah. Antara rusuk–dada = sendi kaku/amfiartrosis dengan sedikit gerak.
+
+- **Langkah Penyelesaian:**
+  1. Sendi pelana hampir eksklusif di pangkal ibu jari tangan.
+  2. Itu sebabnya manusia bisa "menggenggam dengan kuat" — opposable thumb.
+
+- **Hasil akhir:** Hampir tidak ada di tempat lain.
+
+- **💭 Tips:** Beberapa anatomi mengelompokkan sendi sternoklavikular (klavikula–sternum) sebagai sendi pelana juga, tapi di buku SD biasanya cukup disebut "pangkal ibu jari".
+
+---
+
+### Soal 77 · Gangguan Rangka · Prov
+
+**(1) Soal:**
+Penyakit asam urat (gout) yang menyebabkan sendi terasa nyeri terutama di pangkal ibu jari kaki termasuk kelompok gangguan...
+
+**(2) Pilihan Jawaban:**
+
+A. Tulang (osteoporosis)
+B. Sendi (artritis)
+C. Otot (atrofi)
+D. Tendon (tendinitis)
+
+**(3) Jawaban:** **B. Sendi (artritis)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Klasifikasi gout sebagai artritis.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tulang (osteoporosis)** — Salah. Osteoporosis = tulang keropos; gout bukan masalah kepadatan tulang.
+  - **B. Sendi (artritis)** — Benar. Gout = artritis akibat penumpukan kristal asam urat di sendi → peradangan, bengkak, nyeri hebat.
+  - **C. Otot (atrofi)** — Salah. Atrofi = otot mengecil, tidak terkait gout.
+  - **D. Tendon (tendinitis)** — Salah. Tendinitis = radang tendon (mis. tennis elbow); berbeda dari gout.
+
+- **Langkah Penyelesaian:**
+  1. Nyeri di sendi → kategori artritis.
+  2. Sub-tipenya gout (kristal asam urat).
+
+- **Hasil akhir:** Sendi (artritis).
+
+- **💭 Tips:** Pencegahan gout: kurangi makanan tinggi purin (jeroan, daging merah, kerang, melinjo), perbanyak air putih, jaga berat badan ideal.
+
+---
+
+### Soal 78 · Sendi · Prov
+
+**(1) Soal:**
+Sendi gerak yang memungkinkan tulang bergeser sedikit terhadap tulang lain, seperti pada antar-tulang pergelangan tangan, disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Sendi engsel
+B. Sendi peluru
+C. Sendi luncur (geser)
+D. Sendi pelana
+
+**(3) Jawaban:** **C. Sendi luncur (geser)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Identifikasi sendi luncur/geser.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sendi engsel** — Salah. Engsel = membuka-menutup 1 arah, bukan geser tipis.
+  - **B. Sendi peluru** — Salah. Peluru = segala arah, sangat lentur.
+  - **C. Sendi luncur (geser)** — Benar. Permukaan sendi datar atau hampir datar; tulang bergeser tipis terhadap satu sama lain. Contoh: antar-karpal di pergelangan tangan, antar-tarsal di pergelangan kaki.
+  - **D. Sendi pelana** — Salah. Pelana spesifik di pangkal ibu jari tangan.
+
+- **Langkah Penyelesaian:**
+  1. Gerakan kecil "geser tipis" antar-tulang → sendi luncur.
+
+- **Hasil akhir:** Sendi luncur (geser).
+
+- **💭 Tips:** Sendi luncur banyak di pergelangan, antar-vertebra (selain bantalan), dan antara tulang dada–klavikula. Gerakannya kecil tapi memungkinkan keluwesan kumulatif yang besar.
+
+---
+
+### Soal 79 · Sintesis · Prov
+
+**(1) Soal:**
+Otot-otot yang membungkus tulang punggung berfungsi menjaga tubuh tetap tegak. Otot ini juga dapat menjaga kepala tetap pada posisinya. Hal ini menunjukkan fungsi otot sebagai...
+
+**(2) Pilihan Jawaban:**
+
+A. Penghasil panas tubuh
+B. Penggerak organ dalam
+C. Pembentuk postur tubuh
+D. Pembentuk sel darah
+
+**(3) Jawaban:** **C. Pembentuk postur tubuh**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi otot menjaga postur.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Penghasil panas tubuh** — Termasuk fungsi otot (terutama saat menggigil), tapi soal ini tentang menjaga posisi tubuh.
+  - **B. Penggerak organ dalam** — Itu fungsi otot polos (mis. peristaltik usus), bukan otot punggung.
+  - **C. Pembentuk postur tubuh** — Benar. Otot punggung & leher kontraksi terus-menerus (lemah tapi konstan) untuk menahan tubuh tegak melawan gravitasi.
+  - **D. Pembentuk sel darah** — Salah. Itu fungsi sumsum tulang merah, bukan otot.
+
+- **Langkah Penyelesaian:**
+  1. Menjaga tubuh tetap tegak / kepala tetap = postur.
+  2. Postur dijaga otot rangka, bekerja terus-menerus dengan kontraksi rendah.
+
+- **Hasil akhir:** Pembentuk postur tubuh.
+
+- **💭 Tips:** Itu sebabnya orang yang lama duduk membungkuk merasa pegal — otot punggung & leher dipaksa kontraksi dalam posisi tidak alami. Latihan core (perut, punggung) penting untuk postur yang baik.
+
+---
+
+### Soal 80 · Sintesis · Prov
+
+**(1) Soal:**
+Pasangan **gangguan – penyebab utama** berikut yang TIDAK BENAR adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Osteoporosis — kekurangan kalsium
+B. Rakhitis — kekurangan vitamin D
+C. Skoliosis — sikap duduk yang buruk
+D. Tetanus — kekurangan vitamin A
+
+**(3) Jawaban:** **D. Tetanus — kekurangan vitamin A**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sebab tiap gangguan rangka & otot.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Osteoporosis — kekurangan kalsium** — BENAR (cocok). Massa tulang menurun karena kalsium kurang & faktor lain (hormonal, usia).
+  - **B. Rakhitis — kekurangan vitamin D** — BENAR (cocok). Vitamin D dibutuhkan untuk penyerapan kalsium; kekurangan → tulang anak lunak.
+  - **C. Skoliosis — sikap duduk yang buruk** — BENAR (salah satu penyebab umum, di samping bawaan).
+  - **D. Tetanus — kekurangan vitamin A** — TIDAK BENAR. Tetanus disebabkan **bakteri Clostridium tetani**, bukan kekurangan vitamin A. Vitamin A kurang menyebabkan rabun senja, bukan tetanus.
+
+- **Langkah Penyelesaian:**
+  1. Cek tiap pasangan apakah sebab-akibatnya cocok.
+  2. Tetanus = penyebab bakteri, bukan defisiensi gizi.
+
+- **Hasil akhir:** Tetanus — kekurangan vitamin A (TIDAK benar).
+
+- **💭 Tips:** Untuk membedakan sebab gangguan tubuh: bakteri/virus → penyakit menular; gen → bawaan/distrofi; gizi → defisiensi vitamin/mineral; postur → kelainan bentuk tulang.
+
+---
+
+### Soal 81 · Osifikasi · Nas
+
+**(1) Soal:**
+Tinggi badan manusia masih bisa bertambah hingga usia akhir remaja karena pertumbuhan tulang terjadi di...
+
+**(2) Pilihan Jawaban:**
+
+A. Sumsum kuning tulang pipa
+B. Lempeng epifisis (cakram pertumbuhan) yang masih berupa tulang rawan
+C. Periosteum yang sudah mengeras sempurna
+D. Tendon Achilles
+
+**(3) Jawaban:** **B. Lempeng epifisis (cakram pertumbuhan) yang masih berupa tulang rawan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme pertumbuhan panjang tulang.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sumsum kuning** — Salah. Sumsum kuning hanya menyimpan lemak, tidak ada peran pertumbuhan panjang tulang.
+  - **B. Lempeng epifisis** — Benar. Di antara epifisis dan diafisis tulang pipa ada lempeng tulang rawan yang terus memproduksi sel baru — sel-sel ini lalu mengeras (osifikasi), sehingga tulang memanjang.
+  - **C. Periosteum** — Salah. Periosteum berperan pada pertumbuhan **diameter** (lebar tulang), bukan panjang.
+  - **D. Tendon Achilles** — Salah. Tendon = jaringan ikat, tidak tumbuh memanjangkan tulang.
+
+- **Langkah Penyelesaian:**
+  1. Tulang panjang tumbuh memanjang di lempeng epifisis (cakram pertumbuhan).
+  2. Saat akhir remaja, lempeng ini mengeras menutup → pertumbuhan tinggi berhenti.
+
+- **Hasil akhir:** Lempeng epifisis.
+
+- **💭 Tips:** Sebelum lempeng epifisis menutup, asupan gizi & tidur cukup sangat penting. Setelah menutup (~17–21 tahun), tidak ada lagi cara alami untuk menambah tinggi badan (mitos "minum susu setelah 20 tahun" tidak menambah tinggi).
+
+---
+
+### Soal 82 · Sumsum Tulang · Nas
+
+**(1) Soal:**
+Pada bayi baru lahir, sumsum tulang merah hampir terdapat di semua tulang. Seiring usia, sumsum di rongga tulang pipa orang dewasa berubah menjadi sumsum kuning karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Tubuh dewasa sudah tidak butuh sel darah
+B. Kebutuhan produksi sel darah turun, jaringan diisi lemak sebagai cadangan energi
+C. Sumsum merah pindah ke pembuluh darah
+D. Tulang dewasa lebih kering
+
+**(3) Jawaban:** **B. Kebutuhan produksi sel darah turun, jaringan diisi lemak sebagai cadangan energi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan sumsum merah ke kuning seiring usia.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Dewasa tetap butuh sel darah, hanya produksi tidak perlu sebesar bayi.
+  - **B.** Benar. Pada dewasa, produksi sel darah terkonsentrasi di tulang pipih & ujung tulang pipa; rongga tengah tulang pipa diisi lemak (sumsum kuning) sebagai cadangan energi.
+  - **C.** Salah. Sumsum tidak "pindah" ke pembuluh darah.
+  - **D.** Salah. Tulang dewasa tidak lebih kering secara signifikan.
+
+- **Langkah Penyelesaian:**
+  1. Bayi: sumsum merah hampir di semua tulang (banyak butuh darah saat tumbuh cepat).
+  2. Dewasa: sumsum merah tinggal di tulang pipih + ujung tulang pipa; sisanya diisi lemak (sumsum kuning).
+
+- **Hasil akhir:** Kebutuhan produksi sel darah turun, jaringan diisi lemak.
+
+- **💭 Tips:** Dalam keadaan darurat (mis. perdarahan hebat atau anemia berat), tubuh bisa "mengaktifkan kembali" sumsum kuning jadi sumsum merah untuk memproduksi sel darah lebih banyak.
+
+---
+
+### Soal 83 · Distrofi Otot · Nas
+
+**(1) Soal:**
+Distrofi otot Duchenne lebih sering ditemukan pada anak laki-laki karena gen penyebabnya terletak di kromosom...
+
+**(2) Pilihan Jawaban:**
+
+A. Autosom
+B. X (kromosom seks)
+C. Y (kromosom seks)
+D. Tidak ada hubungan dengan kromosom
+
+**(3) Jawaban:** **B. X (kromosom seks)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Genetika distrofi otot Duchenne (penyakit terpaut X).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Autosom** — Salah. Penyakit pada autosom diturunkan tanpa beda jenis kelamin.
+  - **B. X (kromosom seks)** — Benar. Gen distrofi Duchenne ada di kromosom X. Anak laki-laki (XY) hanya punya 1 X — kalau X cacat, langsung menderita. Anak perempuan (XX) jika 1 X cacat dan 1 sehat → biasanya hanya pembawa, tidak menderita.
+  - **C. Y** — Salah. Penyakit pada Y akan hanya menyerang laki-laki dan diturunkan dari ayah ke semua anak laki-laki — tidak cocok dengan pola Duchenne.
+  - **D. Tidak ada hubungan** — Salah. Faktanya ada pola jenis kelamin yang jelas.
+
+- **Langkah Penyelesaian:**
+  1. Lebih banyak pada laki-laki + diturunkan dari ibu → terpaut X (X-linked recessive).
+  2. Laki-laki tanpa cadangan X kedua → mudah terkena.
+
+- **Hasil akhir:** Kromosom X.
+
+- **💭 Tips:** Pola pewarisan terpaut X membuat banyak penyakit "anak laki-laki" — selain Duchenne, juga hemofilia (pembekuan darah) dan buta warna.
+
+---
+
+### Soal 84 · Miastenia Gravis · Nas
+
+**(1) Soal:**
+Pada penyakit autoimun miastenia gravis, otot rangka menjadi lemah karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Tulang patah
+B. Sinyal saraf ke otot terganggu (reseptor di otot diserang antibodi sendiri)
+C. Kekurangan kalsium dalam tulang
+D. Bakteri di otot
+
+**(3) Jawaban:** **B. Sinyal saraf ke otot terganggu (reseptor di otot diserang antibodi sendiri)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme miastenia gravis (penyakit autoimun saraf-otot).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tulang patah** — Salah. Miastenia gravis tidak terkait fraktur tulang.
+  - **B. Sinyal saraf terganggu** — Benar. Sistem imun salah menyerang reseptor asetilkolin di otot → sinyal dari saraf tidak diterima sempurna → otot lemah saat dipakai.
+  - **C. Kekurangan kalsium** — Salah. Itu osteoporosis/rakhitis, bukan miastenia.
+  - **D. Bakteri di otot** — Salah. Miastenia adalah autoimun, bukan infeksi bakteri.
+
+- **Langkah Penyelesaian:**
+  1. Auto- = "diri sendiri", imun = "kekebalan". Tubuh menyerang dirinya sendiri.
+  2. Pada miastenia, target = reseptor di otot (sambungan saraf-otot).
+
+- **Hasil akhir:** Sinyal saraf ke otot terganggu.
+
+- **💭 Tips:** Gejala khas miastenia: kelopak mata turun (ptosis), wajah lemah, lengan/kaki lelah cepat. Membaik setelah istirahat, memburuk setelah aktivitas — pola unik yang membantu diagnosis.
+
+---
+
+### Soal 85 · Atrofi · Nas
+
+**(1) Soal:**
+Astronot yang bertugas lama di luar angkasa sering mengalami penurunan massa otot dan kepadatan tulang. Penyebab utamanya adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Radiasi kosmik
+B. Tidak ada gravitasi (mikrogravitasi) sehingga tulang & otot kurang dibebani
+C. Kekurangan oksigen di pesawat
+D. Pola makan yang berbeda
+
+**(3) Jawaban:** **B. Tidak ada gravitasi (mikrogravitasi) sehingga tulang & otot kurang dibebani**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Atrofi disuse pada lingkungan tanpa gravitasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Radiasi kosmik** — Salah. Radiasi memang berbahaya, tapi efek utamanya bukan pada tulang & otot langsung.
+  - **B. Mikrogravitasi → tulang & otot kurang dibebani** — Benar. Di bumi, gravitasi menarik tubuh ke bawah; otot & tulang harus menahan beban → tetap kuat. Di luar angkasa, tidak ada beban → otot atrofi, tulang kehilangan kalsium.
+  - **C. Kekurangan oksigen** — Salah. Pesawat luar angkasa punya pasokan oksigen normal.
+  - **D. Pola makan** — Salah. Makanan astronot sudah dirancang bergizi.
+
+- **Langkah Penyelesaian:**
+  1. Tanpa gravitasi → otot & tulang tidak "dilatih" → mengecil/kehilangan mineral.
+  2. Astronot harus rutin olahraga di pesawat (treadmill, sepeda khusus) untuk mengurangi efek ini.
+
+- **Hasil akhir:** Mikrogravitasi.
+
+- **💭 Tips:** Setelah kembali ke bumi, astronot butuh waktu lama untuk pulih sepenuhnya. Studi NASA menemukan kehilangan tulang ~1–2% per bulan di luar angkasa — alasan utama mengapa misi panjang Mars sangat menantang.
+
+---
+
+### Soal 86 · Sintesis · Nas
+
+**(1) Soal:**
+Konsumsi susu kaya kalsium ditambah paparan sinar matahari pagi yang cukup membantu mencegah pengeroposan tulang karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Sinar matahari membakar lemak di tulang
+B. Sinar matahari membantu tubuh memproduksi vitamin D yang dibutuhkan agar kalsium dari susu dapat diserap usus
+C. Susu membuat tulang lebih lentur
+D. Sinar matahari menambah jumlah tulang
+
+**(3) Jawaban:** **B. Sinar matahari membantu tubuh memproduksi vitamin D yang dibutuhkan agar kalsium dari susu dapat diserap usus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sinergi kalsium + vitamin D + matahari untuk tulang sehat.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Sinar matahari tidak "membakar lemak tulang".
+  - **B.** Benar. Sinar UV pagi mengubah pro-vitamin D di kulit menjadi vitamin D aktif → vitamin D membantu usus menyerap kalsium → kalsium dipakai untuk membangun tulang.
+  - **C.** Salah. Susu membuat tulang lebih **kuat**, bukan lentur.
+  - **D.** Salah. Jumlah tulang dewasa sudah tetap (~206); yang bertambah adalah massa/kepadatan.
+
+- **Langkah Penyelesaian:**
+  1. Rantai: matahari → vitamin D di kulit → vitamin D bantu serap kalsium → kalsium ke tulang.
+  2. Tanpa vitamin D, kalsium dari makanan tidak terserap optimal.
+
+- **Hasil akhir:** Sinar matahari → vitamin D → bantu serap kalsium.
+
+- **💭 Tips:** Waktu terbaik berjemur: pagi (jam 8–10) atau sore (jam 15–17). 10–15 menit cukup. Hindari tengah hari karena UV terlalu kuat (risiko kulit terbakar).
+
+---
+
+### Soal 87 · Sendi · Nas
+
+**(1) Soal:**
+Saat seorang penari ballet melakukan gerakan memutar di atas satu jari kaki (pirouette), sendi yang paling banyak berperan dalam rotasi tubuh tersebut adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Sendi engsel di lutut
+B. Sendi peluru di pinggul + sendi luncur di pergelangan kaki
+C. Sendi pelana di pangkal ibu jari kaki
+D. Sendi mati di tengkorak
+
+**(3) Jawaban:** **B. Sendi peluru di pinggul + sendi luncur di pergelangan kaki**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Aplikasi sendi pada gerakan kompleks.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Engsel di lutut** — Salah. Lutut hanya membuka-menutup, tidak berputar penuh.
+  - **B. Peluru di pinggul + luncur di pergelangan kaki** — Benar. Pinggul (sendi peluru) memungkinkan tubuh berputar relatif terhadap kaki tumpuan; pergelangan kaki bergeser tipis menyesuaikan posisi jari kaki di lantai.
+  - **C. Pelana di ibu jari kaki** — Salah. Ibu jari kaki tidak punya sendi pelana (sendi pelana spesifik di pangkal ibu jari **tangan**, bukan kaki).
+  - **D. Sendi mati di tengkorak** — Salah. Sendi mati tidak bergerak.
+
+- **Langkah Penyelesaian:**
+  1. Identifikasi gerakan: rotasi seluruh tubuh di atas satu titik tumpu.
+  2. Pinggul memungkinkan rotasi badan (sendi peluru, segala arah).
+  3. Pergelangan kaki menyesuaikan posisi (sendi luncur).
+
+- **Hasil akhir:** Peluru di pinggul + luncur di pergelangan kaki.
+
+- **💭 Tips:** Gerakan kompleks selalu melibatkan **banyak sendi** sekaligus. Penari, atlet, dan pemain musik melatih koordinasi banyak sendi dalam waktu bersamaan.
+
+---
+
+### Soal 88 · 3 Jenis Otot · Nas
+
+**(1) Soal:**
+Otot jantung tidak pernah berhenti bekerja seumur hidup. Salah satu rahasia mengapa otot jantung tidak cepat lelah adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Otot jantung tidak memerlukan energi
+B. Otot jantung memiliki sangat banyak mitokondria (pabrik energi sel)
+C. Otot jantung tidak mengandung darah
+D. Otot jantung sebenarnya istirahat saat tidur
+
+**(3) Jawaban:** **B. Otot jantung memiliki sangat banyak mitokondria (pabrik energi sel)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Adaptasi otot jantung untuk daya tahan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tidak memerlukan energi** — Salah. Semua otot butuh energi (ATP).
+  - **B. Banyak mitokondria** — Benar. Sel otot jantung punya mitokondria ~30% volume sel (vs ~3% di otot lurik) → produksi energi terus-menerus & efisien menggunakan oksigen.
+  - **C. Tidak mengandung darah** — Salah. Justru otot jantung dialiri pembuluh koroner sendiri yang kaya oksigen.
+  - **D. Istirahat saat tidur** — Salah. Jantung tetap berdetak saat tidur (sekitar 60 kali/menit saat tidur, 70-80 kali saat bangun).
+
+- **Langkah Penyelesaian:**
+  1. Daya tahan otot = tergantung jumlah mitokondria + suplai O₂.
+  2. Otot jantung kaya keduanya → bisa bekerja seumur hidup.
+
+- **Hasil akhir:** Banyak mitokondria.
+
+- **💭 Tips:** Itu sebabnya saat penyumbatan pembuluh koroner (serangan jantung), otot jantung yang kekurangan O₂ langsung rusak parah dalam menit-menit — tidak punya cadangan energi anaerob seperti otot rangka.
+
+---
+
+### Soal 89 · Sintesis · Nas
+
+**(1) Soal:**
+Saat seorang pelari sprint berlari 100 meter dengan kecepatan tinggi, otot kaki akan terasa pegal setelah selesai. Penyebab utama rasa pegal ini adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Tulang kaki memendek
+B. Penumpukan asam laktat akibat metabolisme anaerob saat kekurangan oksigen
+C. Saraf di kaki terputus
+D. Sendi lutut keluar dari tempatnya
+
+**(3) Jawaban:** **B. Penumpukan asam laktat akibat metabolisme anaerob saat kekurangan oksigen**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyebab biokimia kelelahan otot pasca-olahraga intens.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah. Tulang tidak memendek; tulang rigid.
+  - **B.** Benar. Saat sprint, oksigen tidak cukup memenuhi kebutuhan otot → metabolisme glukosa berjalan tanpa oksigen (anaerob) → menghasilkan **asam laktat** yang menumpuk di otot → terasa pegal dan kaku.
+  - **C.** Salah. Saraf tidak terputus pada olahraga normal.
+  - **D.** Salah. Sendi keluar = dislokasi, bukan rasa pegal biasa.
+
+- **Langkah Penyelesaian:**
+  1. Olahraga intens + cepat → otot kekurangan O₂ → respirasi anaerob.
+  2. Asam laktat menumpuk → pH otot turun → pegal & lelah.
+
+- **Hasil akhir:** Penumpukan asam laktat.
+
+- **💭 Tips:** Pendinginan (cooling down) ringan setelah olahraga membantu sirkulasi darah membawa asam laktat keluar dari otot lebih cepat → mengurangi pegal keesokan harinya.
+
+---
+
+### Soal 90 · Sendi · Nas
+
+**(1) Soal:**
+Bayi baru lahir punya celah lunak di tengkorak yang disebut ubun-ubun (fontanel) yang akan menutup di usia ~2 tahun. Pada masa bayi, sendi antar-tulang tengkorak ini termasuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Sinartrosis sejak lahir
+B. Amfiartrosis (sedikit bergerak) yang akan berubah menjadi sinartrosis (mati) saat dewasa
+C. Diartrosis peluru
+D. Diartrosis engsel
+
+**(3) Jawaban:** **B. Amfiartrosis (sedikit bergerak) yang akan berubah menjadi sinartrosis (mati) saat dewasa**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perubahan sendi tengkorak dari bayi ke dewasa.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sinartrosis sejak lahir** — Salah. Pada bayi, tulang tengkorak masih terpisah dengan celah membran fleksibel; bisa sedikit bergerak — itu sebabnya kepala bayi bisa "berubah bentuk" saat lahir lewat jalan lahir.
+  - **B. Amfiartrosis → sinartrosis** — Benar. Pada bayi sedikit bergerak (amfiartrosis), seiring osifikasi celah menutup menjadi sendi mati (sinartrosis) saat dewasa.
+  - **C. Diartrosis peluru** — Salah. Tengkorak tidak pernah menjadi sendi gerak.
+  - **D. Diartrosis engsel** — Salah. Sama, tidak pernah.
+
+- **Langkah Penyelesaian:**
+  1. Bayi: tulang tengkorak terpisah + ubun-ubun → sedikit bergerak.
+  2. Dewasa: tulang menyatu → tidak bergerak.
+
+- **Hasil akhir:** Amfiartrosis → sinartrosis.
+
+- **💭 Tips:** Mobilitas tengkorak bayi penting saat persalinan — kepala bayi bisa "memipih" sementara melewati jalan lahir tanpa cedera otak. Ubun-ubun yang menutup terlalu cepat (kraniosinostosis) bisa mengganggu pertumbuhan otak.
+
+---
+
+### Soal 91 · Osteoporosis · Nas
+
+**(1) Soal:**
+Osteoporosis lebih sering menyerang wanita pasca-menopause dibanding pria seusianya karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Wanita lebih jarang berolahraga
+B. Penurunan hormon estrogen pasca-menopause mempercepat hilangnya massa tulang
+C. Tulang wanita lebih kecil sejak lahir sehingga lebih lemah
+D. Wanita lebih banyak makan permen
+
+**(3) Jawaban:** **B. Penurunan hormon estrogen pasca-menopause mempercepat hilangnya massa tulang**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hormon dan kesehatan tulang.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Wanita jarang berolahraga** — Salah. Generalisasi yang tidak akurat sebagai sebab utama biologis.
+  - **B. Penurunan estrogen** — Benar. Estrogen membantu mempertahankan massa tulang. Saat menopause, produksi estrogen turun drastis → laju pengeroposan tulang meningkat → osteoporosis lebih cepat terjadi.
+  - **C. Tulang wanita lebih kecil** — Sebagian benar (rata-rata wanita memang punya massa tulang lebih sedikit), tapi BUKAN penyebab utama pada konteks pasca-menopause.
+  - **D. Banyak makan permen** — Salah. Tidak ada hubungan langsung dengan jenis kelamin.
+
+- **Langkah Penyelesaian:**
+  1. Wanita pasca-menopause + estrogen turun + tulang rapuh → karena estrogen melindungi tulang.
+
+- **Hasil akhir:** Penurunan hormon estrogen.
+
+- **💭 Tips:** Pencegahan dini: bangun kepadatan tulang maksimal di usia muda (sebelum 30 tahun) lewat asupan kalsium-vitamin D + olahraga berbeban. Setelah menopause, kepadatan ini jadi "cadangan" yang lebih sulit habis.
+
+---
+
+### Soal 92 · Anatomi Tulang · Nas
+
+**(1) Soal:**
+Total ruas tulang belakang manusia dewasa adalah 26 buah, terbagi menjadi 5 bagian. Bagian leher (servikal) terdiri dari ... ruas.
+
+**(2) Pilihan Jawaban:**
+
+A. 5 ruas
+B. 7 ruas
+C. 12 ruas
+D. 26 ruas
+
+**(3) Jawaban:** **B. 7 ruas**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jumlah ruas tulang belakang per bagian.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 5 ruas** — Salah. 5 ruas adalah pinggang (lumbal).
+  - **B. 7 ruas** — Benar. Leher (servikal) = 7 ruas. Standar pada hampir semua mamalia, dari tikus sampai jerapah.
+  - **C. 12 ruas** — Salah. 12 ruas adalah punggung (torakal), yang masing-masing terhubung dengan 1 pasang tulang rusuk.
+  - **D. 26 ruas** — Salah. Itu total seluruh vertebra (7 + 12 + 5 + 1 sakrum + 1 koksigis).
+
+- **Langkah Penyelesaian:**
+  1. Hafalkan: **7** servikal (leher) + **12** torakal (punggung) + **5** lumbal (pinggang) + **1** sakrum (5 ruas menyatu) + **1** koksigis (4 ruas menyatu) = **26**.
+
+- **Hasil akhir:** 7 ruas.
+
+- **💭 Tips:** Trik mengingat angka 7-12-5: "Sarapan jam 7, makan siang jam 12, makan malam jam 5". Itu jumlah ruas vertebra leher–punggung–pinggang.
+
+---
+
+### Soal 93 · Otot Sinergis · Nas
+
+**(1) Soal:**
+Saat melakukan senyum tulus, beberapa otot wajah bekerja bersama: otot zygomaticus mayor (menarik sudut bibir ke atas) dan otot orbicularis oculi (mengangkat pipi & mengerutkan ekor mata). Hubungan kerja kedua otot ini adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Antagonis
+B. Sinergis
+C. Mati (tidak berkaitan)
+D. Bekerja sendiri-sendiri tanpa pola
+
+**(3) Jawaban:** **B. Sinergis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sinergis otot wajah pada ekspresi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Antagonis** — Salah. Antagonis = berlawanan; otot-otot ini bekerja sama menghasilkan satu ekspresi.
+  - **B. Sinergis** — Benar. Keduanya kontraksi bersama-sama menghasilkan "senyum mata" (Duchenne smile), bukan hanya bibir.
+  - **C. Mati** — Salah. Justru aktif bekerja.
+  - **D. Tanpa pola** — Salah. Pola koordinasi sangat jelas.
+
+- **Langkah Penyelesaian:**
+  1. Dua atau lebih otot kontraksi bersama untuk satu gerakan terpadu → sinergis.
+
+- **Hasil akhir:** Sinergis.
+
+- **💭 Tips:** Senyum yang melibatkan kedua otot ini (Duchenne smile) dianggap senyum **tulus** — sulit dipalsukan karena orbicularis oculi sulit dikontrol secara sadar. Riset psikologi sering memakainya untuk menilai emosi asli.
+
+---
+
+### Soal 94 · Sumsum & Sel Darah · Nas
+
+**(1) Soal:**
+Pada pasien leukemia (kanker darah), sumsum tulang merah memproduksi sel darah putih yang abnormal dan berlebihan. Dampak ini menunjukkan hubungan langsung antara sistem rangka dengan sistem...
+
+**(2) Pilihan Jawaban:**
+
+A. Pencernaan
+B. Pernapasan
+C. Peredaran darah / imun
+D. Reproduksi
+
+**(3) Jawaban:** **C. Peredaran darah / imun**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Integrasi sistem rangka dengan sistem darah/imun.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pencernaan** — Salah. Sumsum tidak produksi enzim pencernaan.
+  - **B. Pernapasan** — Salah. Sumsum tidak terkait pertukaran gas.
+  - **C. Peredaran darah / imun** — Benar. Sumsum tulang merah memproduksi semua sel darah (merah, putih, trombosit) yang menjadi komponen utama sistem peredaran dan imun.
+  - **D. Reproduksi** — Salah. Reproduksi terkait organ kelamin, bukan sumsum.
+
+- **Langkah Penyelesaian:**
+  1. Sel darah putih = pertahanan imun.
+  2. Sel darah dibuat di sumsum tulang merah → rangka ↔ darah/imun.
+
+- **Hasil akhir:** Peredaran darah / imun.
+
+- **💭 Tips:** Itu sebabnya pengobatan leukemia bisa berupa **transplantasi sumsum tulang** — mengganti sumsum yang sakit dengan sumsum sehat dari donor. Sumsum yang baru akan kembali memproduksi sel darah normal.
+
+---
+
+### Soal 95 · Sintesis · Nas
+
+**(1) Soal:**
+Ketika menulis di kertas, kombinasi sistem tubuh yang bekerja dengan tepat adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Hanya sistem otot
+B. Saraf (perintah) + otot (kontraksi) + rangka (kerangka penopang) + sendi (titik tumpu)
+C. Hanya sistem rangka
+D. Sistem peredaran darah saja
+
+**(3) Jawaban:** **B. Saraf (perintah) + otot (kontraksi) + rangka (kerangka penopang) + sendi (titik tumpu)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Integrasi multi-sistem dalam gerakan halus.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hanya otot** — Salah. Tanpa saraf, otot tak akan kontraksi.
+  - **B.** Benar. Menulis melibatkan: otak mengirim perintah (saraf) → otot tangan kontraksi → tendon menarik tulang → tulang bergerak pada sendi-sendi jari.
+  - **C. Hanya rangka** — Salah. Rangka pasif, butuh otot.
+  - **D. Peredaran darah** — Salah. Peredaran darah mendukung (suplai O₂), tapi bukan pelaku gerakan langsung.
+
+- **Langkah Penyelesaian:**
+  1. Gerakan halus (motorik halus) = saraf + otot + tulang + sendi bekerja bersama.
+
+- **Hasil akhir:** Saraf + otot + rangka + sendi.
+
+- **💭 Tips:** Menulis halus melibatkan otot kecil di tangan & lengan bawah — sekitar 30+ otot bekerja sinergis. Latihan motorik halus sangat penting untuk anak SD agar tulisan rapi.
+
+---
+
+### Soal 96 · Fraktur · Nas
+
+**(1) Soal:**
+Pada anak-anak, tulang yang patah bisa berbentuk seperti ranting muda yang dipatahkan — retak di satu sisi sementara sisi lain masih utuh. Jenis fraktur ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Fraktur terbuka
+B. Fraktur stres
+C. Fraktur greenstick (hijau / kayu muda)
+D. Fraktur kominutif
+
+**(3) Jawaban:** **C. Fraktur greenstick (hijau / kayu muda)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis fraktur khas anak.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Fraktur terbuka** — Salah. Itu klasifikasi berdasarkan menembus kulit, bukan pola patah.
+  - **B. Fraktur stres** — Salah. Itu retak halus akibat tekanan berulang (atlet).
+  - **C. Fraktur greenstick** — Benar. Tulang anak masih banyak kolagen & lentur → patah hanya di satu sisi seperti ranting hijau. Lebih ringan & cepat sembuh.
+  - **D. Fraktur kominutif** — Salah. Kominutif = tulang patah jadi 3+ pecahan kecil. Lebih berat & jarang pada anak.
+
+- **Langkah Penyelesaian:**
+  1. Tulang anak lentur → patah parsial → greenstick.
+  2. Tulang dewasa lebih keras → cenderung patah penuh.
+
+- **Hasil akhir:** Fraktur greenstick.
+
+- **💭 Tips:** Tulang anak punya kemampuan **remodeling** yang luar biasa — bahkan fraktur dengan posisi sedikit miring bisa tumbuh kembali lurus seiring waktu. Pengobatan biasanya cukup dengan gips beberapa minggu.
+
+---
+
+### Soal 97 · Otot Polos · Nas
+
+**(1) Soal:**
+Otot polos di dinding pembuluh darah dapat menyempitkan atau melebarkan pembuluh tanpa kita sadari. Fungsi pengaturan ini sangat berguna untuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Membuat tubuh lebih tinggi
+B. Mengatur tekanan darah dan aliran darah ke organ tertentu
+C. Memproduksi sel darah merah
+D. Mencerna makanan
+
+**(3) Jawaban:** **B. Mengatur tekanan darah dan aliran darah ke organ tertentu**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi otot polos pembuluh darah dalam regulasi sirkulasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tinggi badan** — Salah. Otot polos tidak menambah tinggi.
+  - **B.** Benar. Saat kita berolahraga, otot polos arteri ke otot melebar (vasodilatasi) → aliran darah meningkat. Saat istirahat menyempit (vasokonstriksi). Ini juga mengatur tekanan darah.
+  - **C.** Salah. Itu fungsi sumsum tulang merah.
+  - **D.** Salah. Pencernaan dilakukan sistem pencernaan.
+
+- **Langkah Penyelesaian:**
+  1. Pembuluh menyempit/melebar → diameter pembuluh berubah → tekanan & laju darah berubah.
+
+- **Hasil akhir:** Mengatur tekanan darah & aliran ke organ.
+
+- **💭 Tips:** Saat malu/grogi, wajah memerah — otot polos di pembuluh wajah melebar tiba-tiba. Saat takut, wajah pucat — pembuluh menyempit. Semua dikendalikan otonom, tidak kita sadari.
+
+---
+
+### Soal 98 · Kalsium & Vitamin D · Nas
+
+**(1) Soal:**
+Vitamin D memiliki peran kunci pada kesehatan tulang. Sumber utama vitamin D bagi tubuh adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Hanya dari makanan
+B. Sinar matahari (sintesis di kulit) + makanan tertentu (ikan berlemak, kuning telur, susu fortifikasi)
+C. Hanya dari obat suplemen
+D. Hanya dari sayur hijau
+
+**(3) Jawaban:** **B. Sinar matahari (sintesis di kulit) + makanan tertentu (ikan berlemak, kuning telur, susu fortifikasi)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sumber vitamin D bagi manusia.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hanya dari makanan** — Salah. Ada sumber utama dari matahari.
+  - **B.** Benar. Vitamin D sebagian besar diproduksi kulit saat terkena UVB matahari, sisanya dari makanan (ikan salmon/tuna/sarden, kuning telur, susu yang difortifikasi).
+  - **C. Hanya suplemen** — Salah. Suplemen pilihan jika sumber alami kurang.
+  - **D. Hanya sayur hijau** — Salah. Sayur hijau kaya vitamin K & kalsium, tapi bukan sumber utama vitamin D.
+
+- **Langkah Penyelesaian:**
+  1. Vitamin D dijuluki "vitamin matahari" karena tubuh bisa membuatnya sendiri di kulit dengan UVB.
+  2. Indonesia kaya matahari → relatif jarang kekurangan vitamin D, asal cukup terpapar.
+
+- **Hasil akhir:** Sinar matahari + makanan tertentu.
+
+- **💭 Tips:** Penggunaan tabir surya yang berlebihan + jarang keluar rumah + tinggal di daerah kurang sinar matahari dapat menyebabkan defisiensi vitamin D meski tinggal di negara tropis.
+
+---
+
+### Soal 99 · Sintesis · Nas
+
+**(1) Soal:**
+Mengangkat barbel berat dengan tangan kanan akan membuat otot bisep kanan membesar (hipertrofi). Tetapi jika lengan kanan dipasang gips selama 6 minggu tanpa digerakkan, otot bisep akan...
+
+**(2) Pilihan Jawaban:**
+
+A. Tetap sama
+B. Mengecil (atrofi) karena tidak dipakai
+C. Berubah menjadi otot polos
+D. Tetap membesar selamanya
+
+**(3) Jawaban:** **B. Mengecil (atrofi) karena tidak dipakai**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hubungan aktivitas otot dengan ukuran (use it or lose it).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tetap sama** — Salah. Tanpa rangsangan, otot pasti menyusut.
+  - **B. Mengecil (atrofi)** — Benar. Aturan dasar otot: "use it or lose it". Tanpa rangsangan kontraksi, sel-sel otot menyusut & kehilangan kekuatan dalam beberapa minggu.
+  - **C. Berubah jadi otot polos** — Salah. Jenis otot tidak berubah-ubah; otot lurik tetap lurik.
+  - **D. Tetap membesar selamanya** — Salah. Hipertrofi butuh latihan terus-menerus untuk dipertahankan.
+
+- **Langkah Penyelesaian:**
+  1. Dipakai → hipertrofi.
+  2. Tidak dipakai → atrofi.
+
+- **Hasil akhir:** Mengecil (atrofi).
+
+- **💭 Tips:** Setelah gips dilepas, pemulihan otot bisa dipercepat dengan fisioterapi: peregangan, latihan beban ringan, lalu bertahap normal. Tanpa fisioterapi, atrofi bisa berlangsung lama.
+
+---
+
+### Soal 100 · Integrasi Multi-Sistem · Nas
+
+**(1) Soal:**
+Saat seorang atlet panahan menarik anak panah dan membidik sasaran, sistem-sistem tubuh yang BEKERJA SECARA TERPADU adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Saraf (mata-otak), otot (lengan-bahu), rangka (kerangka tegak), sendi (peluru bahu + engsel siku), tendon-ligamen (transmisi tarikan)
+B. Hanya otot lengan
+C. Hanya sistem pencernaan
+D. Hanya sistem peredaran darah
+
+**(3) Jawaban:** **A. Saraf (mata-otak), otot (lengan-bahu), rangka (kerangka tegak), sendi (peluru bahu + engsel siku), tendon-ligamen (transmisi tarikan)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Integrasi semua komponen sistem gerak dalam aktivitas presisi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar. Memanah melibatkan: mata melihat sasaran (saraf-indera), otak menghitung jarak (saraf pusat), otot lengan menarik tali busur (otot lurik), rangka menopang tubuh tegak (rangka aksial), sendi peluru bahu + engsel siku memungkinkan gerakan, tendon-ligamen mentransmisikan & menstabilkan tarikan.
+  - **B. Hanya otot lengan** — Salah. Tanpa rangka & sendi, tidak ada tumpuan; tanpa saraf, tidak ada koordinasi.
+  - **C. Hanya pencernaan** — Salah. Pencernaan tidak relevan untuk gerakan presisi sesaat.
+  - **D. Hanya peredaran darah** — Salah. Peredaran mendukung (suplai O₂), tapi bukan pelaku utama.
+
+- **Langkah Penyelesaian:**
+  1. Aktivitas presisi = membutuhkan semua komponen sistem gerak + sistem saraf + indera.
+  2. Tidak ada gerakan kompleks yang hanya pakai 1 sistem.
+
+- **Hasil akhir:** Saraf + otot + rangka + sendi + tendon-ligamen.
+
+- **💭 Tips:** Pemain biola, ahli bedah, pelukis, pebasket, penembak — semua mengandalkan integrasi sistem gerak + saraf-indera dengan presisi yang luar biasa. Latihan bertahun-tahun melatih semua komponen ini bekerja serempak.
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban (Soal 1–100)
+
+| No | Jawaban | Sub-topik | Tingkat |
+|----|---------|-----------|---------|
+| 1  | C | Fungsi Rangka | Kab |
+| 2  | B | Fungsi Rangka | Kab |
+| 3  | B | Fungsi Rangka | Kab |
+| 4  | B | Fungsi Rangka | Kab |
+| 5  | C | Jumlah Tulang | Kab |
+| 6  | B | Jumlah Tulang | Kab |
+| 7  | B | Identifikasi Tulang | Kab |
+| 8  | B | Identifikasi Tulang | Kab |
+| 9  | C | Identifikasi Tulang | Kab |
+| 10 | A | Identifikasi Tulang | Kab |
+| 11 | B | Identifikasi Tulang | Kab |
+| 12 | A | Identifikasi Tulang | Kab |
+| 13 | C | Bentuk Tulang | Kab |
+| 14 | C | Bentuk Tulang | Kab |
+| 15 | B | Bentuk Tulang | Kab |
+| 16 | D | Bentuk Tulang | Kab |
+| 17 | B | Bentuk Tulang | Kab |
+| 18 | C | Tulang Rawan vs Keras | Kab |
+| 19 | B | Tulang Rawan vs Keras | Kab |
+| 20 | C | Tulang Rawan vs Keras | Kab |
+| 21 | B | Otot | Kab |
+| 22 | B | Otot | Kab |
+| 23 | C | Otot | Kab |
+| 24 | B | 3 Jenis Otot | Kab |
+| 25 | B | 3 Jenis Otot | Kab |
+| 26 | B | 3 Jenis Otot | Kab |
+| 27 | C | 3 Jenis Otot | Kab |
+| 28 | A | 3 Jenis Otot | Kab |
+| 29 | B | Otot Bekerja | Kab |
+| 30 | B | Otot Bekerja | Kab |
+| 31 | B | Otot Bekerja | Kab |
+| 32 | C | Sendi | Kab |
+| 33 | B | Sendi | Kab |
+| 34 | C | Sendi | Kab |
+| 35 | C | Sendi | Kab |
+| 36 | A | Sendi | Kab |
+| 37 | C | Sendi | Kab |
+| 38 | B | Tendon vs Ligamen | Kab |
+| 39 | B | Tendon vs Ligamen | Kab |
+| 40 | B | Gangguan Rangka | Kab |
+| 41 | C | Gangguan Rangka | Kab |
+| 42 | B | Gangguan Rangka | Kab |
+| 43 | C | Gangguan Rangka | Kab |
+| 44 | B | Gangguan Rangka | Kab |
+| 45 | B | Gangguan Otot | Kab |
+| 46 | B | Gangguan Otot | Kab |
+| 47 | A | Gangguan Otot | Kab |
+| 48 | C | Sintesis | Kab |
+| 49 | B | Sintesis | Kab |
+| 50 | B | Sintesis | Kab |
+| 51 | B | Sendi | Prov |
+| 52 | C | Sendi | Prov |
+| 53 | B | Sendi | Prov |
+| 54 | B | Sendi | Prov |
+| 55 | C | Otot Bekerja | Prov |
+| 56 | B | Otot Bekerja | Prov |
+| 57 | B | 3 Jenis Otot | Prov |
+| 58 | A | 3 Jenis Otot | Prov |
+| 59 | C | Tendon vs Ligamen | Prov |
+| 60 | A | Tendon vs Ligamen | Prov |
+| 61 | B | Gangguan Rangka | Prov |
+| 62 | C | Gangguan Rangka | Prov |
+| 63 | B | Sistem Otot | Prov |
+| 64 | C | Sendi | Prov |
+| 65 | B | Otot Bekerja | Prov |
+| 66 | B | Gangguan Otot | Prov |
+| 67 | B | Sintesis Rangka–Otot | Prov |
+| 68 | B | Otot Bekerja | Prov |
+| 69 | C | Gangguan Rangka | Prov |
+| 70 | B | Bentuk Tulang | Prov |
+| 71 | B | Sumsum Tulang | Prov |
+| 72 | B | 3 Jenis Otot | Prov |
+| 73 | B | Sendi | Prov |
+| 74 | B | Gangguan Rangka | Prov |
+| 75 | C | Gangguan Otot | Prov |
+| 76 | B | Sendi | Prov |
+| 77 | B | Gangguan Rangka | Prov |
+| 78 | C | Sendi | Prov |
+| 79 | C | Sintesis | Prov |
+| 80 | D | Sintesis | Prov |
+| 81 | B | Osifikasi | Nas |
+| 82 | B | Sumsum Tulang | Nas |
+| 83 | B | Distrofi Otot | Nas |
+| 84 | B | Miastenia Gravis | Nas |
+| 85 | B | Atrofi | Nas |
+| 86 | B | Sintesis Kalsium-Vit D | Nas |
+| 87 | B | Sendi | Nas |
+| 88 | B | 3 Jenis Otot | Nas |
+| 89 | B | Sintesis (Asam Laktat) | Nas |
+| 90 | B | Sendi (Bayi) | Nas |
+| 91 | B | Osteoporosis | Nas |
+| 92 | B | Anatomi Tulang | Nas |
+| 93 | B | Otot Sinergis | Nas |
+| 94 | C | Sumsum & Sel Darah | Nas |
+| 95 | B | Sintesis Multi-sistem | Nas |
+| 96 | C | Fraktur | Nas |
+| 97 | B | Otot Polos | Nas |
+| 98 | B | Vitamin D | Nas |
+| 99 | B | Atrofi | Nas |
+| 100 | A | Integrasi Multi-Sistem | Nas |
+
+## 📊 Rekap Distribusi (final)
+
+**Per Sub-topik (semua tingkat):**
+- Fungsi Rangka: 4 soal (1–4)
+- Jumlah Tulang: 2 soal (5–6)
+- Identifikasi Tulang: 6 soal (7–12)
+- Bentuk Tulang & Struktur: 6 soal (13–17, 70)
+- Tulang Rawan vs Keras & Osifikasi: 4 soal (18–20, 81)
+- Otot (umum & fungsi): 3 soal (21–23)
+- 3 Jenis Otot: 9 soal (24–28, 57–58, 72, 88)
+- Otot Bekerja (antagonis/sinergis): 8 soal (29–31, 55–56, 65, 68, 93)
+- Sendi: 16 soal (32–37, 51–54, 64, 73, 76, 78, 87, 90)
+- Tendon vs Ligamen: 4 soal (38–39, 59–60)
+- Gangguan Rangka: 10 soal (40–44, 61–62, 69, 74, 77, 91)
+- Gangguan Otot: 7 soal (45–47, 66, 75, 83–84, 99)
+- Sumsum Tulang: 3 soal (71, 82, 94)
+- Sintesis & Integrasi: 8 soal (48–50, 67, 79–80, 86, 89, 95, 100)
+- Fraktur, Atrofi, Vitamin D (Nas khusus): 3 soal (85, 96, 98)
+- Otot Polos (regulasi): 1 soal (97)
+- Anatomi (jumlah ruas): 1 soal (92)
+
+**Per Tingkat:**
+- 🟢 Kabupaten: 50 soal (1–50)
+- 🔵 Provinsi: 30 soal (51–80)
+- 🔴 Nasional: 20 soal (81–100)
+
+**Format:** 100% Pilihan Ganda (4 opsi A–D) · Pembahasan analisis 4 opsi.
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Per tingkat — benar:** Kab ___/50 · Prov ___/30 · Nas ___/20
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Miskonsepsi yang baru saya sadari:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+### Patokan Skor
+
+| Skor | Predikat | Rekomendasi |
+|------|----------|-------------|
+| ≥ 90 | 🏆 Luar biasa | Lanjut sub-bab IPA-02g atau bab IPA berikutnya |
+| 75–89 | 👍 Bagus | Ulangi sub-topik yang masih lemah, lalu lanjut |
+| 60–74 | 💪 Cukup | Baca ulang Bagian I (Teori) + ulangi soal salah |
+| < 60 | 📚 Perlu pengulangan | Pelajari kembali dari Bagian I; coba lagi minggu depan |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Sub-bab terkait dalam Bab IPA-02:**
+  - [IPA-02e · Sistem Saraf & Indera](osn-sd-ipa-02e-saraf-indera-campur.md) — saraf adalah pengirim sinyal yang menggerakkan otot; pelajari otak & sumsum yang memerintah otot
+  - [IPA-02i · Gizi Seimbang](osn-sd-ipa-02i-gizi-seimbang-campur.md) — perdalam peran kalsium, fosfor, vitamin D, protein untuk tulang & otot yang sehat
+- **Bab IPA lain yang membangun di atas konsep ini:**
+  - [IPA-03 · Gaya, Gerak, dan Energi](osn-sd-ipa-03-gaya-gerak-campur.md) — bagaimana tubuh memakai prinsip pesawat sederhana (tuas) untuk efisiensi gerak
+  - [IPA-01a · Ciri-ciri Makhluk Hidup](osn-sd-ipa-01a-ciri-makhluk-hidup-campur.md) — bergerak sebagai salah satu ciri kehidupan, didukung sistem rangka & otot
+
+---
+
+> **✅ FILE LENGKAP** — 100 soal PG dengan pembahasan komprehensif (analisis 4 opsi A/B/C/D), Bagian I Teori (A–F), Bagian II 100 Soal, dan Bagian III Ringkasan & Refleksi. Sesuai standar mutu OSN/KSN SD Indonesia.

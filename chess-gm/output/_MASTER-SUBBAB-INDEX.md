@@ -24,7 +24,9 @@ chess-gm-{pilar}-{kodeBab}{kodeSubbab}-{slug}-{tingkat}.md
 
 **Contoh:** `chess-gm-tak-03b-knight-fork-klasik-sulit.md` = TAK Bab 03 sub-bab b (Knight Fork — Pola Klasik), 100 soal tingkat Master+ saja.
 
-Untuk konvensi tingkat (komposisi soal Pemula/Klub/Master), distribusi, dan aturan kualitas — lihat [_MASTER-INDEX.md](_MASTER-INDEX.md) dan [SKILL.md](../../osn-sd-prep-extracted/osn-sd-prep/SKILL.md).
+Untuk konvensi tingkat (komposisi soal Pemula/Klub/Master), distribusi, **aturan format Diagram & FEN-Notasi**, dan aturan kualitas umum — lihat [_MASTER-INDEX.md](_MASTER-INDEX.md) seksi "♟ Format Soal Wajib — Diagram & Notasi" dan [SKILL.md](../../osn-sd-prep-extracted/osn-sd-prep/SKILL.md).
+
+> **Wajib (ringkasan):** setiap soal punya **diagram** (istilah baku — bukan "gambar papan") yang di-render dari **FEN** string. Opsi A/B/C/D ditulis dalam **SAN** (`Nxe5`, `Qh5+`, `O-O`). Spesifikasi lengkap di MASTER-INDEX.
 
 > **Catatan:** Saat generate file sub-bab, **seluruh 100 soal harus pada sub-topik tunggal** itu — bukan campur lintas sub-bab. Variasi diciptakan melalui ragam posisi (FEN unik), ragam buah yang terlibat, ragam pola pengenalan, dan ragam sumber (game master klasik, komposisi studi, posisi pelatihan) untuk sub-topik tersebut.
 
@@ -35,7 +37,7 @@ Untuk konvensi tingkat (komposisi soal Pemula/Klub/Master), distribusi, dan atur
 Karena seluruh 100 soal per file berada di satu sub-topik yang sama, **risiko duplikasi sangat tinggi** dan harus dicegah secara aktif.
 
 1. **Tetap 100 soal per file** — tidak boleh dipotong jadi 50/75/dsb untuk "menghindari pengulangan". Kalau sub-topik kelihatan sempit, perluas dengan ragam posisi/buah/konteks — bukan dengan mengurangi jumlah.
-2. **Tidak boleh ada dua soal yang sama persis dalam satu file** — bukan hanya posisi (FEN), tapi juga **kombinasi (FEN + pertanyaan + jawaban + 4 opsi)** harus berbeda. Reword saja ≠ soal baru. Posisi mirror/refleksi yang menghasilkan jawaban identik juga dihitung duplikat.
+2. **Tidak boleh ada dua soal yang sama persis dalam satu file** — bukan hanya posisi (FEN), tapi juga **kombinasi (FEN + pertanyaan + jawaban + 4 opsi SAN)** harus berbeda. Reword saja ≠ soal baru. Posisi mirror/refleksi (warna ditukar atau dipantulkan sumbu) yang menghasilkan jawaban identik secara taktis juga dihitung duplikat. **Cek dengan hash FEN saat verifikasi.**
 3. **Tidak boleh sama persis dengan soal di file sub-bab tingkat lain** (mis. soal nomor 12 di `…-mudah.md` tidak boleh sama persis dengan soal nomor 12 di `…-campur.md`).
 4. **Diversifikasi via 5 sumbu** — kombinasikan agar 100 soal terasa beda:
    - **Posisi (FEN)**: gunakan posisi unik untuk tiap soal. Setiap posisi minimal berbeda 1 buah penting (bukan sekadar geser bidak h2-h3 tanpa pengaruh).

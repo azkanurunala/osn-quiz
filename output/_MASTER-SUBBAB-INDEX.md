@@ -204,7 +204,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02e-saraf-indera-sedang-sulit.md`
 
 **IPA-02f · Sistem Rangka & Otot** (fokus Kab)
-- [ ] `osn-sd-ipa-02f-rangka-otot-campur.md`
+- [x] `osn-sd-ipa-02f-rangka-otot-campur.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-mudah.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-sedang.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-sulit.md`
@@ -212,7 +212,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02f-rangka-otot-sedang-sulit.md`
 
 **IPA-02g · Sistem Reproduksi (Level Dasar SD)** (fokus Kab)
-- [ ] `osn-sd-ipa-02g-reproduksi-campur.md`
+- [x] `osn-sd-ipa-02g-reproduksi-campur.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-mudah.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-sedang.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-sulit.md`
@@ -220,7 +220,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02g-reproduksi-sedang-sulit.md`
 
 **IPA-02h · Pubertas & Perubahan Tubuh** (fokus Kab)
-- [ ] `osn-sd-ipa-02h-pubertas-campur.md`
+- [x] `osn-sd-ipa-02h-pubertas-campur.md`
 - [ ] `osn-sd-ipa-02h-pubertas-mudah.md`
 - [ ] `osn-sd-ipa-02h-pubertas-sedang.md`
 - [ ] `osn-sd-ipa-02h-pubertas-sulit.md`
@@ -236,7 +236,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02i-gizi-sedang-sulit.md`
 
 **IPA-02j · Penyakit Menular (TBC, DBD, COVID-19, Influenza)** (fokus Prov)
-- [ ] `osn-sd-ipa-02j-penyakit-menular-campur.md`
+- [x] `osn-sd-ipa-02j-penyakit-menular-campur.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-mudah.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sedang.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sulit.md`

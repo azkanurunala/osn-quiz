@@ -2912,4 +2912,823 @@ D. Pubertas membawa perubahan fisik dan emosi
 
 ---
 
+### Soal 81 · Pubertas Dini · Nas
+
+**(1) Soal:**
+Pubertas yang dimulai sebelum usia 8 tahun pada perempuan atau 9 tahun pada laki-laki disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Pubertas terlambat
+B. Pubertas dini (*precocious puberty*)
+C. Pubertas normal
+D. Menopause dini
+
+**(3) Jawaban:** **B. Pubertas dini (*precocious puberty*)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pubertas prekoks.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Berlawanan (di atas batas usia).
+  - **B.** Benar; istilah medis untuk pubertas terlalu cepat.
+  - **C.** Salah; di luar rentang normal.
+  - **D.** Menopause = berhentinya haid, konteks berbeda.
+
+- **Langkah Penyelesaian:**
+  1. Sebelum batas = "dini".
+  2. Pilih B.
+
+- **Hasil akhir:** Pubertas dini.
+
+- **💭 Tips:** Faktor pemicu: genetik, hormon, tumor, atau gangguan otak — perlu pemeriksaan dokter.
+
+---
+
+### Soal 82 · Faktor Genetik · Nas
+
+**(1) Soal:**
+Bila ibu Sinta mengalami haid pertama di usia 10 tahun, kemungkinan Sinta juga mengalami menarche pada usia yang relatif... karena pengaruh faktor...
+
+**(2) Pilihan Jawaban:**
+
+A. Sama; genetik
+B. Sangat berbeda; cuaca
+C. Sama; makanan saja
+D. Tidak ada hubungan apa pun
+
+**(3) Jawaban:** **A. Sama; genetik**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pewarisan waktu pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; pola usia haid sering diwariskan secara genetik.
+  - **B & D.** Salah; ada korelasi genetik.
+  - **C.** Makanan berpengaruh tapi bukan satu-satunya.
+
+- **Langkah Penyelesaian:**
+  1. Cari faktor terkuat: genetik.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Tetap bervariasi ±1–2 tahun karena gizi & lingkungan.
+
+---
+
+### Soal 83 · Folikel Rambut · Nas
+
+**(1) Soal:**
+Rambut pubertas tumbuh dari struktur kulit yang disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Pembuluh darah
+B. Folikel rambut
+C. Kelenjar keringat
+D. Kelenjar getah bening
+
+**(3) Jawaban:** **B. Folikel rambut**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Anatomi folikel.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A, C, D.** Bukan tempat rambut tumbuh.
+  - **B.** Benar; folikel = "kantong" di dalam kulit tempat akar rambut berada.
+
+- **Langkah Penyelesaian:**
+  1. Rambut tumbuh dari folikel.
+  2. Pilih B.
+
+- **Hasil akhir:** Folikel rambut.
+
+- **💭 Tips:** Folikel ada sejak lahir, tapi hormon pubertas mengubah produksinya dari halus ke kasar.
+
+---
+
+### Soal 84 · Jerawat: Hormon vs Bakteri · Nas
+
+**(1) Soal:**
+Pembentukan jerawat saat pubertas melibatkan dua faktor utama, yaitu...
+
+**(2) Pilihan Jawaban:**
+
+A. Hormon (kelenjar minyak aktif) + bakteri (*P. acnes*) yang berkembang di pori-pori tersumbat
+B. Cuaca dingin + tidak makan
+C. Kurang olahraga + banyak air
+D. Sinar matahari + buah
+
+**(3) Jawaban:** **A. Hormon (kelenjar minyak aktif) + bakteri (*P. acnes*) yang berkembang di pori-pori tersumbat**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Patogenesis jerawat.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; minyak berlebih + sel kulit mati menyumbat pori + bakteri = peradangan/jerawat.
+  - **B–D.** Tidak benar secara ilmiah.
+
+- **Langkah Penyelesaian:**
+  1. Cari kombinasi hormon + bakteri.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Pengobatan jerawat sering menggunakan obat anti-bakteri & pengurang minyak.
+
+---
+
+### Soal 85 · Siklus Tidak Teratur Awal Pubertas · Nas
+
+**(1) Soal:**
+Pada 1–2 tahun pertama setelah menarche, siklus haid remaja putri sering tidak teratur. Ini umumnya...
+
+**(2) Pilihan Jawaban:**
+
+A. Tidak normal — perlu hormon segera
+B. Normal — karena sistem hormon sedang "mengatur diri"; biasanya akan stabil setelah beberapa tahun
+C. Tanda penyakit serius
+D. Tidak pernah terjadi
+
+**(3) Jawaban:** **B. Normal — karena sistem hormon sedang "mengatur diri"; biasanya akan stabil setelah beberapa tahun**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Variasi awal pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A, C.** Berlebihan; awal pubertas memang variatif.
+  - **B.** Benar; sistem endokrin perlu waktu untuk stabil.
+  - **D.** Salah; sangat umum.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi paling akurat secara medis.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Bila tetap tidak teratur >2–3 tahun setelah menarche, konsultasi dokter.
+
+---
+
+### Soal 86 · Hipotalamus → Hipofisis · Nas
+
+**(1) Soal:**
+Bagian otak yang memerintahkan hipofisis melepas hormon pemicu pubertas adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Hipotalamus
+B. Otak kecil (cerebellum)
+C. Sumsum tulang belakang
+D. Batang otak
+
+**(3) Jawaban:** **A. Hipotalamus**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sumbu hipotalamus-hipofisis-gonad.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; hipotalamus melepas GnRH → hipofisis melepas FSH/LH.
+  - **B.** Pengatur keseimbangan & koordinasi, bukan hormon.
+  - **C & D.** Fungsi lain.
+
+- **Langkah Penyelesaian:**
+  1. Pusat awal hormonal = hipotalamus.
+  2. Pilih A.
+
+- **Hasil akhir:** Hipotalamus.
+
+- **💭 Tips:** Rantai: hipotalamus → hipofisis → gonad → hormon kelamin.
+
+---
+
+### Soal 87 · Pubertas pada Anak Kondisi Khusus · Nas
+
+**(1) Soal:**
+Anak dengan kondisi medis tertentu (mis. kekurangan gizi berat atau penyakit kronik) bisa mengalami pubertas yang...
+
+**(2) Pilihan Jawaban:**
+
+A. Lebih cepat
+B. Lebih lambat atau tertunda
+C. Tidak pernah
+D. Sama persis dengan anak sehat
+
+**(3) Jawaban:** **B. Lebih lambat atau tertunda**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pengaruh kesehatan pada pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Justru sebaliknya untuk gizi kurang.
+  - **B.** Benar; tubuh memprioritaskan kelangsungan hidup di atas reproduksi.
+  - **C.** Belum tentu, sebagian besar tetap akan pubertas setelah pulih.
+  - **D.** Salah; ada pengaruh.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi paling masuk akal secara fisiologis.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Inilah pentingnya gizi & kesehatan optimal di masa anak-anak.
+
+---
+
+### Soal 88 · Soal Cerita Lintas Siklus · Nas
+
+**(1) Soal:**
+Rina haid mulai 5 Januari & 4 Februari. Berapakah panjang siklus haidnya?
+
+**(2) Pilihan Jawaban:**
+
+A. 28 hari
+B. 29 hari
+C. 30 hari
+D. 31 hari
+
+**(3) Jawaban:** **C. 30 hari**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perhitungan siklus lintas bulan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - Dari 5 Jan ke 5 Feb = 31 hari (Januari = 31 hari).
+  - Karena haid berikutnya 4 Feb (1 hari lebih awal dari 5 Feb): siklus = 31 − 1 = **30 hari**.
+  - **A.** Salah.
+  - **B.** Salah.
+  - **C.** Benar; 30 hari.
+  - **D.** Salah; itu jika haid berikutnya 5 Feb.
+
+- **Langkah Penyelesaian:**
+  1. 5 Jan + 31 hari = 5 Feb.
+  2. Haid kedua 4 Feb (sehari sebelum) → siklus 30 hari.
+
+- **Hasil akhir:** 30 hari.
+
+- **💭 Tips:** Selalu hitung dari hari pertama haid bulan ini ke hari pertama haid bulan berikutnya.
+
+---
+
+### Soal 89 · Pubertas Tahap-Tahap (Tanner) · Nas
+
+**(1) Soal:**
+Para dokter membagi tahapan perkembangan pubertas menjadi 5 tingkatan, dikenal sebagai...
+
+**(2) Pilihan Jawaban:**
+
+A. Skala Mohs
+B. Skala Tanner
+C. Skala Beaufort
+D. Skala Richter
+
+**(3) Jawaban:** **B. Skala Tanner**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Klasifikasi medis pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Kekerasan mineral.
+  - **B.** Benar; 5 tahap Tanner (T1 = belum pubertas hingga T5 = dewasa).
+  - **C.** Skala kecepatan angin.
+  - **D.** Skala gempa bumi.
+
+- **Langkah Penyelesaian:**
+  1. Hafal skala medis pubertas.
+  2. Pilih B.
+
+- **Hasil akhir:** Skala Tanner.
+
+- **💭 Tips:** Dokter menggunakan skala ini untuk memantau tumbuh-kembang remaja.
+
+---
+
+### Soal 90 · Hipogonadisme · Nas
+
+**(1) Soal:**
+Kelainan ketika tubuh tidak menghasilkan cukup hormon seks (testosteron/estrogen) disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Hipertensi
+B. Hipogonadisme
+C. Hipoglikemia
+D. Hiperaktif
+
+**(3) Jawaban:** **B. Hipogonadisme**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Gangguan hormon seks.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Tekanan darah tinggi.
+  - **B.** Benar; "hipo-" = kurang, "gonad" = organ kelamin.
+  - **C.** Gula darah rendah.
+  - **D.** Gangguan perilaku.
+
+- **Langkah Penyelesaian:**
+  1. Cocokkan istilah.
+  2. Pilih B.
+
+- **Hasil akhir:** Hipogonadisme.
+
+- **💭 Tips:** Dapat diatasi dengan terapi hormon di bawah pengawasan dokter spesialis.
+
+---
+
+### Soal 91 · Beda Pertumbuhan & Perkembangan · Nas
+
+**(1) Soal:**
+Manakah pasangan yang BENAR antara "pertumbuhan" dan "perkembangan" saat pubertas?
+
+**(2) Pilihan Jawaban:**
+
+A. Pertumbuhan: bisa diukur dengan angka (tinggi, berat); Perkembangan: kematangan organ & psikologis
+B. Pertumbuhan: kematangan psikologis; Perkembangan: tinggi badan
+C. Keduanya sama saja
+D. Pertumbuhan hanya untuk tumbuhan, perkembangan untuk manusia
+
+**(3) Jawaban:** **A. Pertumbuhan: bisa diukur dengan angka (tinggi, berat); Perkembangan: kematangan organ & psikologis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pertumbuhan vs perkembangan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; pertumbuhan = kuantitatif, perkembangan = kualitatif.
+  - **B.** Terbalik.
+  - **C.** Salah; berbeda makna.
+  - **D.** Tidak akurat.
+
+- **Langkah Penyelesaian:**
+  1. Hafal definisi.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Anak bisa "tumbuh" tinggi cepat tapi "berkembang" emosi lambat — itu normal.
+
+---
+
+### Soal 92 · Bahaya Pernikahan Anak · Nas
+
+**(1) Soal:**
+Walaupun seorang anak sudah haid/mimpi basah saat SD–SMP, secara medis & sosial pernikahan anak (di bawah 19 tahun) tetap berbahaya karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Tubuh belum siap menanggung kehamilan & risiko kesehatan tinggi
+B. Tidak ada bahaya
+C. Hanya bahaya secara sosial
+D. Justru baik untuk pertumbuhan
+
+**(3) Jawaban:** **A. Tubuh belum siap menanggung kehamilan & risiko kesehatan tinggi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pubertas ≠ kesiapan menikah.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; rahim, panggul, & mental belum matang penuh; risiko keguguran, kematian ibu/bayi tinggi.
+  - **B–D.** Tidak sesuai fakta medis.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi sesuai data WHO/kesehatan.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Pubertas = tubuh mulai berkembang; siap menjadi orang tua butuh kematangan tubuh + mental + ekonomi (umumnya >20 tahun).
+
+---
+
+### Soal 93 · Suhu Tubuh Saat Ovulasi · Nas
+
+**(1) Soal:**
+Saat ovulasi, suhu tubuh basal wanita biasanya sedikit...
+
+**(2) Pilihan Jawaban:**
+
+A. Turun drastis
+B. Naik sekitar 0,3–0,5 °C
+C. Tidak berubah
+D. Naik 5 °C
+
+**(3) Jawaban:** **B. Naik sekitar 0,3–0,5 °C**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tanda fisiologis ovulasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A & C.** Salah; suhu naik, bukan turun/sama.
+  - **B.** Benar; progesteron memicu kenaikan suhu kecil.
+  - **D.** Berlebihan; itu sudah demam tinggi.
+
+- **Langkah Penyelesaian:**
+  1. Hafal: ovulasi → suhu sedikit naik.
+  2. Pilih B.
+
+- **Hasil akhir:** Naik 0,3–0,5 °C.
+
+- **💭 Tips:** Pengukuran suhu basal kadang dipakai untuk pelacakan kesuburan.
+
+---
+
+### Soal 94 · Asi-Lemak-Pubertas · Nas
+
+**(1) Soal:**
+Pada perempuan, kadar lemak tubuh minimum tertentu dibutuhkan agar menstruasi dapat berlangsung teratur. Hal ini menunjukkan bahwa...
+
+**(2) Pilihan Jawaban:**
+
+A. Lemak tubuh sangat berlebihan diperlukan
+B. Komposisi lemak tubuh berperan dalam fungsi hormonal & reproduksi wanita
+C. Lemak tidak berpengaruh apa-apa
+D. Lemak bikin haid berhenti permanen
+
+**(3) Jawaban:** **B. Komposisi lemak tubuh berperan dalam fungsi hormonal & reproduksi wanita**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Lemak tubuh & menstruasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Berlebihan justru menimbulkan masalah kesehatan lain.
+  - **B.** Benar; lemak diperlukan untuk produksi estrogen.
+  - **C.** Salah; ada pengaruh.
+  - **D.** Tidak akurat.
+
+- **Langkah Penyelesaian:**
+  1. Cari opsi paling akurat secara fisiologis.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Atlet dengan lemak tubuh terlalu rendah kadang mengalami amenorrhea (tidak haid sementara).
+
+---
+
+### Soal 95 · Pubertas & Sosial Media · Nas
+
+**(1) Soal:**
+Saat pubertas, banyak remaja membandingkan tubuhnya dengan figur di media sosial. Sikap yang sehat adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Ingin sama persis dengan figur tersebut
+B. Memahami bahwa tubuh setiap orang berbeda & banyak gambar media sudah diedit; lebih fokus pada kesehatan
+C. Berhenti makan agar kurus
+D. Pakai obat pelangsing
+
+**(3) Jawaban:** **B. Memahami bahwa tubuh setiap orang berbeda & banyak gambar media sudah diedit; lebih fokus pada kesehatan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Body image yang sehat.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A, C, D.** Berbahaya — bisa memicu gangguan makan, obat tanpa resep berisiko serius.
+  - **B.** Benar; literasi media + fokus kesehatan = sikap sehat.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi paling sehat & realistis.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Berat ideal = sesuai umur, tinggi, & aktivitas — bukan menyamai foto edit di internet.
+
+---
+
+### Soal 96 · Hormon DHEA · Nas
+
+**(1) Soal:**
+Hormon yang diproduksi kelenjar adrenal dan memicu adrenarche (rambut ketiak/kemaluan) baik pada pria maupun wanita adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Insulin
+B. DHEA (dehidroepiandrosteron) & androgen adrenal lain
+C. Melatonin
+D. Tiroksin
+
+**(3) Jawaban:** **B. DHEA (dehidroepiandrosteron) & androgen adrenal lain**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hormon adrenarche.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Gula darah.
+  - **B.** Benar; DHEA berperan dalam adrenarche.
+  - **C.** Pengatur tidur.
+  - **D.** Tiroid/metabolisme.
+
+- **Langkah Penyelesaian:**
+  1. Adrenarche = hormon dari adrenal.
+  2. Pilih B.
+
+- **Hasil akhir:** DHEA.
+
+- **💭 Tips:** Hormon ini ada di pria & wanita, makanya keduanya juga tumbuh rambut tubuh.
+
+---
+
+### Soal 97 · Pubertas: Faktor Pemicu Modern · Nas
+
+**(1) Soal:**
+Beberapa studi menunjukkan bahwa rata-rata usia menarche pada anak perempuan dalam 100 tahun terakhir cenderung menurun. Salah satu penjelasannya adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Perbaikan gizi & kesehatan masyarakat secara umum
+B. Pengaruh sinar bulan
+C. Pakaian zaman dulu
+D. Pengaruh musim hujan
+
+**(3) Jawaban:** **A. Perbaikan gizi & kesehatan masyarakat secara umum**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tren historis pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; gizi & kesehatan yang lebih baik mempercepat tubuh siap pubertas.
+  - **B–D.** Tidak terkait secara ilmiah.
+
+- **Langkah Penyelesaian:**
+  1. Cari penyebab yang masuk akal.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Kelebihan berat badan & paparan zat kimia tertentu juga diteliti sebagai faktor.
+
+---
+
+### Soal 98 · Pengaruh Hormon di Otak · Nas
+
+**(1) Soal:**
+Selain perubahan fisik, hormon pubertas juga mempengaruhi otak — terutama bagian yang mengatur emosi dan keputusan. Bagian otak ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Sistem limbik & prefrontal cortex
+B. Telinga dalam
+C. Sumsum tulang belakang
+D. Saraf jari
+
+**(3) Jawaban:** **A. Sistem limbik & prefrontal cortex**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Anatomi otak remaja.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Benar; limbik = pusat emosi, prefrontal = pusat keputusan. Keduanya berkembang saat remaja.
+  - **B–D.** Bukan pusat emosi/keputusan.
+
+- **Langkah Penyelesaian:**
+  1. Hafal bagian otak emosi & pengambilan keputusan.
+  2. Pilih A.
+
+- **Hasil akhir:** A.
+
+- **💭 Tips:** Karena prefrontal cortex masih berkembang, remaja kadang impulsif — wajar tapi perlu bimbingan.
+
+---
+
+### Soal 99 · Pubertas pada Hewan vs Manusia · Nas
+
+**(1) Soal:**
+Pubertas adalah fenomena yang dialami...
+
+**(2) Pilihan Jawaban:**
+
+A. Hanya manusia
+B. Manusia & mamalia lain (dengan istilah berbeda, mis. "musim kawin pertama")
+C. Tumbuhan
+D. Benda mati
+
+**(3) Jawaban:** **B. Manusia & mamalia lain (dengan istilah berbeda, mis. "musim kawin pertama")**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pubertas dalam perspektif biologi umum.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Salah; mamalia lain juga mengalami pematangan reproduksi.
+  - **B.** Benar; namun istilah & manifestasinya bervariasi antar spesies.
+  - **C.** Tumbuhan punya proses tersendiri (bunga pertama, dsb.), bukan disebut pubertas.
+  - **D.** Tidak relevan.
+
+- **Langkah Penyelesaian:**
+  1. Pikirkan universalitas mamalia.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Tetapi aspek psikologis-sosial pubertas paling kompleks pada manusia.
+
+---
+
+### Soal 100 · Sikap Akhir Bermartabat · Nas
+
+**(1) Soal:**
+Kesimpulan yang paling tepat tentang menghadapi pubertas adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cemas & ditutupi
+B. Menerima sebagai proses alami, menjaga kebersihan & kesehatan, menghormati diri & orang lain, serta bertanya pada sumber tepercaya
+C. Tidak peduli sama sekali
+D. Membandingkan diri dengan teman terus
+
+**(3) Jawaban:** **B. Menerima sebagai proses alami, menjaga kebersihan & kesehatan, menghormati diri & orang lain, serta bertanya pada sumber tepercaya**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sikap holistik menghadapi pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** Justru memperburuk kecemasan.
+  - **B.** Benar; mencakup penerimaan + kebersihan + etika + sumber informasi yang baik.
+  - **C.** Mengabaikan dapat merugikan kesehatan.
+  - **D.** Merusak kepercayaan diri.
+
+- **Langkah Penyelesaian:**
+  1. Pilih sikap paling sehat & dewasa.
+  2. Pilih B.
+
+- **Hasil akhir:** B.
+
+- **💭 Tips:** Pubertas adalah anugerah pertumbuhan — disambut dengan tenang, dijalani dengan sehat.
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban
+
+| No  | Jawaban | Sub-topik | Tingkat |
+|-----|---------|-----------|---------|
+| 1   | B       | Definisi pubertas | Kab |
+| 2   | C       | Usia pubertas wanita | Kab |
+| 3   | C       | Usia pubertas pria | Kab |
+| 4   | B       | Hormon pria | Kab |
+| 5   | C       | Hormon wanita | Kab |
+| 6   | D       | Tanda pubertas pria | Kab |
+| 7   | C       | Tanda pubertas wanita | Kab |
+| 8   | B       | Mimpi basah | Kab |
+| 9   | C       | Menstruasi | Kab |
+| 10  | B       | Organ sperma | Kab |
+| 11  | C       | Organ ovum | Kab |
+| 12  | C       | Sifat pubertas | Kab |
+| 13  | A       | Kebersihan haid | Kab |
+| 14  | C       | Mandi rutin | Kab |
+| 15  | A       | Jerawat | Kab |
+| 16  | C       | Suara pria | Kab |
+| 17  | B       | Rambut pubertas | Kab |
+| 18  | A       | Growth spurt | Kab |
+| 19  | B       | Pinggul wanita | Kab |
+| 20  | B       | Otot pria | Kab |
+| 21  | A       | Perawatan jerawat | Kab |
+| 22  | A       | Bau badan | Kab |
+| 23  | A       | Pakaian dalam | Kab |
+| 24  | B       | Definisi hormon | Kab |
+| 25  | C       | Variasi pubertas | Kab |
+| 26  | B       | Tinggi cepat wanita | Kab |
+| 27  | B       | Tidur cukup | Kab |
+| 28  | A       | Gizi pubertas | Kab |
+| 29  | B       | Konsultasi orang dewasa | Kab |
+| 30  | B       | Awal pubertas wanita | Kab |
+| 31  | B       | Awal pubertas pria | Kab |
+| 32  | B       | Sel baru | Kab |
+| 33  | A       | Sabun wajah | Kab |
+| 34  | B       | Olahraga | Kab |
+| 35  | A       | Mood swing | Kab |
+| 36  | A       | Privasi tubuh | Kab |
+| 37  | B       | Pakaian dalam tidak dibagi | Kab |
+| 38  | B       | Hormon wanita kedua | Kab |
+| 39  | A       | Menarche | Kab |
+| 40  | B       | Lokasi jerawat | Kab |
+| 41  | B       | Wanita lebih dulu | Kab |
+| 42  | C       | Hipofisis | Kab |
+| 43  | B       | Pertumbuhan vs perkembangan | Kab |
+| 44  | B       | Air putih | Kab |
+| 45  | C       | Perubahan fisik+emosi | Kab |
+| 46  | B       | Dukungan sosial | Kab |
+| 47  | A       | Tampilan diri | Kab |
+| 48  | A       | Kelenjar keringat | Kab |
+| 49  | B       | Bagian tidak berubah | Kab |
+| 50  | B       | Tanggung jawab pubertas | Kab |
+| 51  | B       | Primer vs sekunder | Prov |
+| 52  | B       | Siklus haid normal | Prov |
+| 53  | B       | Lama haid | Prov |
+| 54  | A       | Rantai hormon | Prov |
+| 55  | B       | Soal cerita siklus | Prov |
+| 56  | B       | Adrenarche | Prov |
+| 57  | B       | Ovulasi & siklus | Prov |
+| 58  | B       | Kromosom XY | Prov |
+| 59  | B       | PMS | Prov |
+| 60  | C       | Testosteron & otot | Prov |
+| 61  | B       | Estrogen & pinggul | Prov |
+| 62  | B       | Kalsium & vit D | Prov |
+| 63  | B       | Growth spurt anak | Prov |
+| 64  | A       | Sikap variasi pubertas | Prov |
+| 65  | B       | Praktik haid | Prov |
+| 66  | B       | Frekuensi mimpi basah | Prov |
+| 67  | A       | Klasifikasi primer | Prov |
+| 68  | A       | Faktor lingkungan | Prov |
+| 69  | B       | Organ internal tumbuh | Prov |
+| 70  | A       | Sperma–ovum | Prov |
+| 71  | B       | Perkembangan otak | Prov |
+| 72  | A       | Kelenjar vs hormon | Prov |
+| 73  | B       | Perawatan rambut | Prov |
+| 74  | B       | Kepadatan tulang | Prov |
+| 75  | B       | PMS & emosi | Prov |
+| 76  | B       | Wajah berubah | Prov |
+| 77  | A       | Hormon tidur | Prov |
+| 78  | B       | Pubertas tertunda | Prov |
+| 79  | C       | Rambut terminal | Prov |
+| 80  | C       | Pubertas ≠ dewasa | Prov |
+| 81  | B       | Pubertas dini | Nas |
+| 82  | A       | Genetik menarche | Nas |
+| 83  | B       | Folikel rambut | Nas |
+| 84  | A       | Patogenesis jerawat | Nas |
+| 85  | B       | Siklus awal pubertas | Nas |
+| 86  | A       | Hipotalamus | Nas |
+| 87  | B       | Pubertas & kondisi medis | Nas |
+| 88  | C       | Siklus lintas bulan | Nas |
+| 89  | B       | Skala Tanner | Nas |
+| 90  | B       | Hipogonadisme | Nas |
+| 91  | A       | Pertumbuhan vs perkembangan | Nas |
+| 92  | A       | Bahaya pernikahan anak | Nas |
+| 93  | B       | Suhu ovulasi | Nas |
+| 94  | B       | Lemak tubuh & haid | Nas |
+| 95  | B       | Body image sehat | Nas |
+| 96  | B       | DHEA | Nas |
+| 97  | A       | Tren historis pubertas | Nas |
+| 98  | A       | Otak remaja | Nas |
+| 99  | B       | Pubertas mamalia | Nas |
+| 100 | B       | Sikap holistik | Nas |
+
+## 📊 Rekap Distribusi
+
+- **Per Sub-topik (klaster utama):**
+  - Definisi & sifat pubertas: ~8 soal
+  - Usia pubertas: ~6 soal
+  - Hormon & sumber: ~12 soal
+  - Tanda primer (haid, mimpi basah, sperma, ovum): ~14 soal
+  - Tanda sekunder (suara, rambut, payudara, pinggul, otot, jakun): ~16 soal
+  - Kebersihan diri & perawatan: ~12 soal
+  - Pertumbuhan & growth spurt: ~6 soal
+  - Psikologis & sosial: ~10 soal
+  - Etika, privasi, tanggung jawab: ~6 soal
+  - Gray area Nasional (Tanner, DHEA, pubertas dini, hipogonadisme, kromosom, dll): ~10 soal
+
+- **Per Tingkat:** 50 Kabupaten (1–50) · 30 Provinsi (51–80) · 20 Nasional (81–100)
+
+- **Format:** 100% Pilihan Ganda (4 opsi A–D)
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+### 📏 Patokan Skor
+
+| Skor | Kategori | Saran |
+|------|----------|-------|
+| 90–100 | Sangat Baik | Lanjut ke sub-bab IPA-02i (Gizi Seimbang) atau tingkat sulit |
+| 75–89 | Baik | Ulangi soal yang salah, lanjut topik berikutnya |
+| 60–74 | Cukup | Pelajari ulang Bagian I, kerjakan ulang Nasional |
+| <60 | Perlu Bimbingan | Baca ulang materi & diskusikan dengan guru/orang tua |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Sub-bab terkait:** [IPA-02g · Sistem Reproduksi (level dasar SD)](osn-sd-ipa-02g-sistem-reproduksi-campur.md) — memperdalam organ-organ reproduksi.
+- **Sub-bab pengembangan:** [IPA-02i · Gizi Seimbang](osn-sd-ipa-02i-gizi-campur.md) — nutrisi yang mendukung tumbuh-kembang optimal saat pubertas.
+- **Tingkat lanjut sub-bab yang sama:** `osn-sd-ipa-02h-pubertas-sulit.md` (100 soal khusus Nasional) untuk asah tipe gray area.
+
+
 

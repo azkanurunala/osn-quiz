@@ -2889,3 +2889,812 @@ D. Bayi belum siap lahir
 
 ---
 
+### Soal 81 · Kromosom seks pria · Nas
+
+**(1) Soal:** Kromosom seks pria pada manusia adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. XX
+B. XY
+C. YY
+D. XO
+
+**(3) Jawaban:** **B. XY**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Kromosom seks manusia.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. XX** — keliru; itu pola wanita.
+  - **B. XY** — benar; pria punya 1 X + 1 Y.
+  - **C. YY** — tidak terjadi pada manusia normal.
+  - **D. XO** — kondisi medis tidak biasa (sindrom Turner), bukan pola umum pria.
+
+- **Langkah Penyelesaian:**
+  1. Manusia normal: 23 pasang kromosom; pasangan ke-23 = seks.
+  2. Pria: XY; Wanita: XX.
+
+- **Hasil akhir:** XY.
+
+- **💭 Tips:** Kromosom Y menentukan jenis kelamin pria. Karena hanya pria yang punya Y, jenis kelamin anak ditentukan oleh sperma (ayah).
+
+---
+
+### Soal 82 · Kromosom seks wanita · Nas
+
+**(1) Soal:** Kromosom seks wanita pada manusia adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. XX
+B. XY
+C. YY
+D. ZW
+
+**(3) Jawaban:** **A. XX**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Kromosom wanita.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. XX** — benar; wanita memiliki 2 kromosom X.
+  - **B. XY** — pola pria.
+  - **C. YY** — tidak ada pada manusia normal.
+  - **D. ZW** — sistem kromosom seks pada burung, bukan manusia.
+
+- **Langkah Penyelesaian:**
+  1. Ingat: wanita = XX, pria = XY.
+  2. Pilih XX.
+
+- **Hasil akhir:** XX.
+
+- **💭 Tips:** Pada burung sistemnya terbalik: betina ZW, jantan ZZ. Manusia tidak demikian.
+
+---
+
+### Soal 83 · Penentu jenis kelamin · Nas
+
+**(1) Soal:** Penentu jenis kelamin anak manusia berasal dari…
+
+**(2) Pilihan Jawaban:**
+
+A. Kromosom dari ovum ibu
+B. Kromosom dari sperma ayah (X atau Y)
+C. Cuaca saat hamil
+D. Makanan ibu saat hamil
+
+**(3) Jawaban:** **B. Kromosom dari sperma ayah (X atau Y)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Determinasi jenis kelamin.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; ovum ibu selalu membawa X (tidak menentukan kelamin).
+  - **B.** — benar; sperma membawa X atau Y. X + X = wanita, X + Y = pria.
+  - **C.** — keliru; mitos, tidak ada dasar ilmiah.
+  - **D.** — keliru; makanan tidak menentukan kelamin.
+
+- **Langkah Penyelesaian:**
+  1. Ibu (XX) hanya bisa berikan X.
+  2. Ayah (XY) bisa berikan X atau Y → menentukan kelamin anak.
+
+- **Hasil akhir:** Sperma ayah (X atau Y).
+
+- **💭 Tips:** Secara probabilitas, peluang anak pria atau wanita kurang lebih 50–50, ditentukan secara acak oleh sperma mana yang membuahi.
+
+---
+
+### Soal 84 · DNA kembar identik · Nas
+
+**(1) Soal:** Pada kembar identik, DNA mereka…
+
+**(2) Pilihan Jawaban:**
+
+A. Berbeda total
+B. Hampir sama persis karena berasal dari 1 zigot
+C. Hanya 50% sama
+D. Tidak ada DNA
+
+**(3) Jawaban:** **B. Hampir sama persis karena berasal dari 1 zigot**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Genetika kembar identik.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; bila dari 1 zigot, DNA pasti sangat mirip.
+  - **B.** — benar; berasal dari pembelahan 1 zigot → DNA hampir identik.
+  - **C.** — itu rata-rata saudara biasa (50% kesamaan).
+  - **D.** — keliru; semua sel hidup punya DNA.
+
+- **Langkah Penyelesaian:**
+  1. 1 zigot membelah → 2 individu dengan DNA awal sama.
+  2. Variasi kecil bisa muncul karena mutasi, tapi mayoritas sama.
+
+- **Hasil akhir:** Hampir sama persis.
+
+- **💭 Tips:** Karena DNA-nya sama, kembar identik sering dijadikan subjek penelitian ilmiah "nature vs nurture".
+
+---
+
+### Soal 85 · Bayi kembar siam · Nas
+
+**(1) Soal:** Kembar siam (bayi kembar yang menyatu di sebagian tubuh) terjadi karena…
+
+**(2) Pilihan Jawaban:**
+
+A. Dua ovum yang dibuahi
+B. Pembelahan zigot terjadi terlambat sehingga embrio tidak terpisah sempurna
+C. Plasenta terlalu besar
+D. Ibu makan terlalu banyak
+
+**(3) Jawaban:** **B. Pembelahan zigot terjadi terlambat sehingga embrio tidak terpisah sempurna**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyebab kembar siam.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — itu kembar fraternal, tidak akan siam.
+  - **B.** — benar; pembelahan zigot terlambat (> 13 hari) → tidak terpisah sempurna.
+  - **C.** — bukan penyebab.
+  - **D.** — mitos, tidak ilmiah.
+
+- **Langkah Penyelesaian:**
+  1. Kembar identik dimulai dari pembelahan zigot.
+  2. Bila pembelahan terlambat, embrio terhubung di sebagian tubuh → siam.
+
+- **Hasil akhir:** Pembelahan zigot terlambat.
+
+- **💭 Tips:** Kembar siam termasuk kondisi langka. Beberapa bisa dipisahkan dengan operasi tergantung organ yang berbagi.
+
+---
+
+### Soal 86 · Perkembangan otak janin · Nas
+
+**(1) Soal:** Perkembangan otak janin paling pesat terjadi pada trimester…
+
+**(2) Pilihan Jawaban:**
+
+A. Trimester pertama (bulan 1–3)
+B. Trimester kedua dan ketiga (bulan 4–9), terus berlanjut setelah lahir
+C. Hanya saat bayi lahir
+D. Tidak ada perkembangan otak saat hamil
+
+**(3) Jawaban:** **B. Trimester kedua dan ketiga (bulan 4–9), terus berlanjut setelah lahir**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perkembangan otak janin.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — trimester 1 = pembentukan **struktur dasar**; pertumbuhan pesat masih di belakang.
+  - **B.** — benar; sinaps & mielinasi banyak terbentuk di trimester 2-3 & lanjut pasca lahir.
+  - **C.** — keliru; otak sudah berkembang sebelum lahir.
+  - **D.** — sangat keliru.
+
+- **Langkah Penyelesaian:**
+  1. Pahami fase: bentuk dasar (trim 1) → pertumbuhan + jaringan saraf (trim 2-3).
+  2. Pilih opsi yang sesuai.
+
+- **Hasil akhir:** Trimester 2-3, terus pasca lahir.
+
+- **💭 Tips:** Karena itu gizi ibu saat hamil (terutama asam folat, DHA, zat besi) penting untuk perkembangan otak janin.
+
+---
+
+### Soal 87 · Pubertas dini · Nas
+
+**(1) Soal:** Pubertas dini adalah kondisi pubertas yang terjadi…
+
+**(2) Pilihan Jawaban:**
+
+A. Tepat di usia normal
+B. Sangat dini (sebelum usia 8 tahun pada wanita, 9 tahun pada pria)
+C. Sangat terlambat di usia 30 tahun
+D. Tidak pernah terjadi
+
+**(3) Jawaban:** **B. Sangat dini (sebelum usia 8 tahun pada wanita, 9 tahun pada pria)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi pubertas dini.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — bukan dini namanya bila tepat waktu.
+  - **B.** — benar; ada batas usia medis untuk klasifikasi pubertas dini.
+  - **C.** — itu pubertas terlambat.
+  - **D.** — keliru; ada kondisi medisnya.
+
+- **Langkah Penyelesaian:**
+  1. Patokan: wanita < 8 thn, pria < 9 thn → pubertas dini.
+  2. Pilih opsi yang sesuai.
+
+- **Hasil akhir:** Sebelum usia 8 (wanita) / 9 (pria).
+
+- **💭 Tips:** Pubertas dini perlu konsultasi dokter karena bisa mempengaruhi tinggi badan akhir & psikologis anak.
+
+---
+
+### Soal 88 · Inkubator prematur · Nas
+
+**(1) Soal:** Bayi prematur sering ditempatkan di inkubator karena…
+
+**(2) Pilihan Jawaban:**
+
+A. Untuk hiburan
+B. Inkubator menjaga suhu, kelembapan, dan kebersihan agar bayi yang belum matang tumbuh aman
+C. Inkubator memberi makanan
+D. Untuk menambah berat secara instan
+
+**(3) Jawaban:** **B. Inkubator menjaga suhu, kelembapan, dan kebersihan agar bayi yang belum matang tumbuh aman**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi inkubator.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — bukan tujuan medis.
+  - **B.** — benar; inkubator = "lingkungan buatan" yang stabil untuk bayi prematur.
+  - **C.** — makanan via ASI/selang khusus, bukan inkubator itu sendiri.
+  - **D.** — tidak instan.
+
+- **Langkah Penyelesaian:**
+  1. Bayi prematur tidak bisa atur suhu sendiri, paru belum matang.
+  2. Inkubator = ruang stabil untuk tumbuh.
+
+- **Hasil akhir:** Menjaga suhu/kelembapan/kebersihan.
+
+- **💭 Tips:** Banyak inkubator juga menyediakan dukungan oksigen tambahan bila paru belum sempurna.
+
+---
+
+### Soal 89 · ASI > susu formula · Nas
+
+**(1) Soal:** Pernyataan paling akurat tentang perbandingan ASI dan susu formula adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Susu formula selalu lebih baik dari ASI
+B. ASI memiliki keunggulan unik (antibodi, gizi sesuai usia bayi, ikatan ibu-bayi) yang sulit ditiru sempurna oleh susu formula
+C. Tidak ada perbedaan antara keduanya
+D. ASI berbahaya bagi bayi
+
+**(3) Jawaban:** **B. ASI memiliki keunggulan unik (antibodi, gizi sesuai usia bayi, ikatan ibu-bayi) yang sulit ditiru sempurna oleh susu formula**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Keunggulan ASI dibanding susu formula.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; rekomendasi WHO tetap ASI sebagai pilihan utama.
+  - **B.** — benar; ASI menyesuaikan kebutuhan bayi + antibodi.
+  - **C.** — tidak akurat; ada perbedaan.
+  - **D.** — sangat keliru.
+
+- **Langkah Penyelesaian:**
+  1. Bandingkan kandungan & manfaat.
+  2. ASI lebih unggul untuk bayi normal.
+
+- **Hasil akhir:** ASI memiliki keunggulan unik dibanding formula.
+
+- **💭 Tips:** Susu formula tetap pilihan baik bila ASI tidak tersedia (misal ibu sakit/bayi adopsi). Tapi ASI adalah pilihan pertama.
+
+---
+
+### Soal 90 · Vena & arteri tali pusat · Nas
+
+**(1) Soal:** Tali pusat manusia berisi pembuluh darah dengan jumlah…
+
+**(2) Pilihan Jawaban:**
+
+A. 1 arteri & 1 vena
+B. 2 arteri & 1 vena
+C. 3 arteri & 3 vena
+D. Tidak ada pembuluh darah
+
+**(3) Jawaban:** **B. 2 arteri & 1 vena**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Anatomi tali pusat.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; jumlah sebenarnya 2 arteri.
+  - **B.** — benar; pola baku: 2 arteri umbilikal + 1 vena umbilikal.
+  - **C.** — terlalu banyak.
+  - **D.** — keliru; tali pusat berisi pembuluh darah.
+
+- **Langkah Penyelesaian:**
+  1. Ingat fakta anatomi: "2 + 1".
+  2. Vena membawa darah O₂-kaya dari plasenta ke janin; arteri membawa darah CO₂-kaya kembali ke plasenta.
+
+- **Hasil akhir:** 2 arteri + 1 vena.
+
+- **💭 Tips:** Berbeda dengan tubuh dewasa, di tali pusat **vena membawa darah segar (O₂ tinggi)**, sedangkan arteri membawa darah yang perlu dibuang CO₂-nya — karena fungsinya berbalik.
+
+---
+
+### Soal 91 · Persalinan tahap · Nas
+
+**(1) Soal:** Persalinan normal umumnya dibagi menjadi 3 tahap (kala), yaitu…
+
+**(2) Pilihan Jawaban:**
+
+A. Pembukaan jalan lahir → pengeluaran bayi → pengeluaran plasenta
+B. Pengeluaran plasenta → bayi → pembukaan
+C. Hanya 1 tahap saja
+D. 10 tahap
+
+**(3) Jawaban:** **A. Pembukaan jalan lahir → pengeluaran bayi → pengeluaran plasenta**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Tahap persalinan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — benar; Kala I (pembukaan), Kala II (lahir bayi), Kala III (lahir plasenta).
+  - **B.** — terbalik.
+  - **C. & D.** — tidak sesuai.
+
+- **Langkah Penyelesaian:**
+  1. Ingat urutan: leher rahim membuka → bayi keluar → ari-ari keluar.
+  2. Pilih urutan tepat.
+
+- **Hasil akhir:** Pembukaan → bayi → plasenta.
+
+- **💭 Tips:** Beberapa buku menambahkan **Kala IV** (1–2 jam setelah plasenta lahir, untuk pemantauan ibu).
+
+---
+
+### Soal 92 · USG · Nas
+
+**(1) Soal:** Alat yang biasa dipakai dokter untuk melihat janin dalam kandungan tanpa bedah adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Rontgen sinar-X
+B. USG (ultrasonografi)
+C. MRI khusus magnet besar
+D. Termometer
+
+**(3) Jawaban:** **B. USG (ultrasonografi)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Alat pencitraan kehamilan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — rontgen pakai radiasi → tidak aman untuk janin (kecuali kondisi darurat).
+  - **B.** — benar; USG pakai gelombang suara tinggi → aman bagi janin.
+  - **C.** — MRI bisa dipakai tapi mahal & jarang.
+  - **D.** — termometer hanya ukur suhu.
+
+- **Langkah Penyelesaian:**
+  1. Aman + umum + lihat janin = USG.
+  2. Pilih USG.
+
+- **Hasil akhir:** USG (ultrasonografi).
+
+- **💭 Tips:** USG dilakukan beberapa kali selama kehamilan untuk memantau pertumbuhan janin.
+
+---
+
+### Soal 93 · Kolostrum · Nas
+
+**(1) Soal:** ASI yang keluar pertama kali (kuning kental) setelah ibu melahirkan disebut…
+
+**(2) Pilihan Jawaban:**
+
+A. Kolostrum
+B. Whey
+C. Plasma
+D. Sukrosa
+
+**(3) Jawaban:** **A. Kolostrum**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** ASI pertama.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — benar; kolostrum sangat kaya antibodi & nutrisi konsentrat.
+  - **B. Whey** — salah satu protein ASI, bukan jenis ASI.
+  - **C. Plasma** — bagian cair darah, bukan ASI.
+  - **D. Sukrosa** — jenis gula, bukan ASI.
+
+- **Langkah Penyelesaian:**
+  1. ASI ada 3 fase: kolostrum (1-3 hari) → transisi → ASI matur.
+  2. Pilih kolostrum.
+
+- **Hasil akhir:** Kolostrum.
+
+- **💭 Tips:** Kolostrum sering disebut "imunisasi pertama" karena kandungan antibodinya sangat tinggi.
+
+---
+
+### Soal 94 · Infertilitas konsep · Nas
+
+**(1) Soal:** Infertilitas adalah kondisi…
+
+**(2) Pilihan Jawaban:**
+
+A. Tidak bisa melihat warna
+B. Kesulitan memiliki keturunan setelah berusaha cukup lama
+C. Hanya bisa punya satu anak
+D. Tubuh tidak punya darah
+
+**(3) Jawaban:** **B. Kesulitan memiliki keturunan setelah berusaha cukup lama**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi infertilitas dasar.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — itu buta warna, bukan infertilitas.
+  - **B.** — benar; istilah medis untuk kesulitan mendapatkan keturunan.
+  - **C.** — tidak ada hubungannya.
+  - **D.** — tidak ilmiah.
+
+- **Langkah Penyelesaian:**
+  1. In = tidak, fertil = subur → tidak subur / sulit punya anak.
+  2. Pilih definisi yang sesuai.
+
+- **Hasil akhir:** Kesulitan memiliki keturunan.
+
+- **💭 Tips:** Infertilitas bisa dari pihak pria (mis. jumlah sperma rendah) atau wanita (mis. masalah ovulasi). Bukan selalu salah satu pihak.
+
+---
+
+### Soal 95 · Menopause · Nas
+
+**(1) Soal:** Menopause pada wanita adalah masa…
+
+**(2) Pilihan Jawaban:**
+
+A. Mulai menstruasi
+B. Berhentinya menstruasi secara alami pada usia ≈ 45–55 tahun
+C. Hamil pertama kali
+D. Kelahiran anak pertama
+
+**(3) Jawaban:** **B. Berhentinya menstruasi secara alami pada usia ≈ 45–55 tahun**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Menopause.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — itu menarke (haid pertama).
+  - **B.** — benar; menopause = ovulasi berhenti permanen.
+  - **C. & D.** — tidak berkaitan dengan istilah ini.
+
+- **Langkah Penyelesaian:**
+  1. Menarke (awal) ≠ menopause (akhir).
+  2. Pilih akhir siklus reproduksi.
+
+- **Hasil akhir:** Berhentinya menstruasi (≈ 45–55 thn).
+
+- **💭 Tips:** Setelah menopause, wanita tidak bisa hamil secara alami lagi. Pria tetap memproduksi sperma sampai usia lanjut (meski menurun).
+
+---
+
+### Soal 96 · Janin merasakan suara · Nas
+
+**(1) Soal:** Penelitian menunjukkan janin sudah bisa mendengar suara dari luar mulai trimester…
+
+**(2) Pilihan Jawaban:**
+
+A. Pertama (bulan 1)
+B. Akhir kedua hingga ketiga (mulai ≈ bulan 5-6)
+C. Setelah lahir saja
+D. Tidak pernah bisa mendengar
+
+**(3) Jawaban:** **B. Akhir kedua hingga ketiga (mulai ≈ bulan 5-6)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perkembangan indera pendengaran janin.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — telinga belum berkembang di bulan 1.
+  - **B.** — benar; sekitar bulan 5-6 telinga janin bisa menerima suara dari luar.
+  - **C.** — keliru.
+  - **D.** — keliru.
+
+- **Langkah Penyelesaian:**
+  1. Telinga mulai berkembang trimester 1, matang trimester 2-3.
+  2. Pilih waktu pendengaran aktif.
+
+- **Hasil akhir:** Akhir trimester 2 - trimester 3.
+
+- **💭 Tips:** Karena itu beberapa orang tua bercerita atau memainkan musik untuk janinnya — janin sudah mulai bisa "kenal" suara orang tua.
+
+---
+
+### Soal 97 · Konsultasi ke dokter · Nas
+
+**(1) Soal:** Sebagai siswa SD, jika ada pertanyaan/masalah tentang tubuh saat pubertas, sikap paling tepat adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Mencari info di sumber tidak jelas dari teman saja
+B. Bertanya ke orang tua, guru, atau tenaga kesehatan yang terpercaya
+C. Menyimpan rasa khawatir sendiri
+D. Menganggap perubahan tubuh sebagai penyakit
+
+**(3) Jawaban:** **B. Bertanya ke orang tua, guru, atau tenaga kesehatan yang terpercaya**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Literasi kesehatan reproduksi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — info tidak jelas bisa keliru / membahayakan.
+  - **B.** — benar; orang tua / tenaga kesehatan = sumber paling tepercaya.
+  - **C.** — keliru; menyimpan kekhawatiran malah memberi tekanan.
+  - **D.** — keliru; pubertas normal, bukan penyakit.
+
+- **Langkah Penyelesaian:**
+  1. Cari sumber tepercaya.
+  2. Jangan andalkan informasi sembarangan.
+
+- **Hasil akhir:** Bertanya ke orang dewasa terpercaya.
+
+- **💭 Tips:** Perubahan tubuh saat pubertas wajar. Tidak ada pertanyaan yang "memalukan" untuk ditanyakan ke orang tua atau dokter.
+
+---
+
+### Soal 98 · Cyber-safety reproduksi · Nas
+
+**(1) Soal:** Saat melihat konten di internet yang membuat tidak nyaman tentang tubuh atau hal sensual, sikap aman adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Menonton sampai habis
+B. Menutupnya & memberi tahu orang tua/guru
+C. Membagikan ke teman
+D. Menyimpan diam-diam
+
+**(3) Jawaban:** **B. Menutupnya & memberi tahu orang tua/guru**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Keamanan digital terkait konten dewasa.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; bisa berbahaya secara mental.
+  - **B.** — benar; tutup + lapor adalah respons paling sehat.
+  - **C.** — keliru; menyebarkan justru memperluas masalah.
+  - **D.** — keliru; rahasia seperti ini sebaiknya dibagi ke orang dewasa.
+
+- **Langkah Penyelesaian:**
+  1. Konten dewasa bukan untuk anak SD.
+  2. Tutup → lapor → minta bantuan filter.
+
+- **Hasil akhir:** Tutup + beri tahu orang tua/guru.
+
+- **💭 Tips:** Banyak perangkat punya fitur "Parental Control" untuk membantu memfilter konten. Mintalah pasang dari orang tua bila perlu.
+
+---
+
+### Soal 99 · Apakah perubahan pubertas penyakit · Nas
+
+**(1) Soal:** Tumbuhnya jerawat, perubahan suara, atau munculnya menstruasi saat pubertas adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Penyakit menular yang harus dirawat di rumah sakit
+B. Proses biologis normal yang dialami semua manusia saat pubertas
+C. Tanda tubuh sedang rusak
+D. Sesuatu yang harus disembunyikan dari semua orang
+
+**(3) Jawaban:** **B. Proses biologis normal yang dialami semua manusia saat pubertas**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Normalisasi perubahan pubertas.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — keliru; bukan penyakit menular.
+  - **B.** — benar; semua orang mengalami; sangat normal.
+  - **C.** — keliru; justru tanda tubuh tumbuh sehat.
+  - **D.** — keliru; tidak perlu malu, boleh tanya orang terpercaya.
+
+- **Langkah Penyelesaian:**
+  1. Identifikasi: pubertas = tahap normal hidup.
+  2. Pilih opsi yang menormalisasi.
+
+- **Hasil akhir:** Proses biologis normal.
+
+- **💭 Tips:** Bila perubahan terasa berlebihan/membuat tidak nyaman secara medis, konsultasi ke dokter — bukan malu sendiri.
+
+---
+
+### Soal 100 · Integrasi · Nas
+
+**(1) Soal:** Pernyataan yang PALING TEPAT tentang sistem reproduksi manusia secara keseluruhan adalah…
+
+**(2) Pilihan Jawaban:**
+
+A. Reproduksi hanya tentang melahirkan bayi, tidak ada urusan dengan kesehatan
+B. Reproduksi mencakup proses biologis (pembentukan sel kelamin, pembuahan, kehamilan, kelahiran), tahap kehidupan (pubertas, dewasa, lansia), serta sikap menjaga kesehatan & batas tubuh
+C. Reproduksi manusia sama persis dengan tumbuhan
+D. Reproduksi hanya berlaku bagi orang dewasa yang menikah dan tidak perlu dipahami anak SD
+
+**(3) Jawaban:** **B. Reproduksi mencakup proses biologis (pembentukan sel kelamin, pembuahan, kehamilan, kelahiran), tahap kehidupan (pubertas, dewasa, lansia), serta sikap menjaga kesehatan & batas tubuh**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pemahaman holistik sistem reproduksi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A.** — terlalu sempit; reproduksi juga melibatkan kesehatan & literasi.
+  - **B.** — benar; menggabungkan aspek biologis + perkembangan + literasi.
+  - **C.** — keliru; cara reproduksi sangat berbeda (vivipar vs vegetatif/generatif tumbuhan).
+  - **D.** — keliru; anak SD pun perlu literasi dasar untuk menjaga diri & paham perubahan tubuh.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi paling komprehensif.
+  2. Mencakup biologi + perkembangan + sikap.
+
+- **Hasil akhir:** Reproduksi = proses biologis + tahap hidup + sikap menjaga kesehatan & batas tubuh.
+
+- **💭 Tips:** Sub-bab ini bukan hanya untuk hafalan ujian — pengetahuannya dipakai sepanjang hidup untuk menjaga diri sendiri & menghormati orang lain.
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban
+
+> Untuk quick reference dan tracking oleh guru/orang tua. Detail pembahasan ada di Bagian II.
+
+| No | Jawaban | Sub-topik | Tingkat |
+|----|---------|-----------|---------|
+| 1 | B | Tujuan reproduksi | Kab |
+| 2 | C | Alat reproduksi pria | Kab |
+| 3 | B | Alat reproduksi wanita | Kab |
+| 4 | C | Sel kelamin wanita | Kab |
+| 5 | B | Sel kelamin pria | Kab |
+| 6 | B | Tempat janin tumbuh | Kab |
+| 7 | B | Cara reproduksi manusia | Kab |
+| 8 | C | Lama kehamilan | Kab |
+| 9 | B | Hasil pembuahan | Kab |
+| 10 | C | Ciri mamalia | Kab |
+| 11 | C | ASI eksklusif | Kab |
+| 12 | C | Tempat pembuahan | Kab |
+| 13 | B | Urutan perkembangan | Kab |
+| 14 | B | Tahap manusia | Kab |
+| 15 | B | Definisi vivipar | Kab |
+| 16 | C | Contoh ovipar | Kab |
+| 17 | C | Pubertas wanita usia | Kab |
+| 18 | C | Pubertas pria usia | Kab |
+| 19 | C | Tanda pubertas pria | Kab |
+| 20 | B | Tanda pubertas wanita | Kab |
+| 21 | C | Hormon pria | Kab |
+| 22 | B | Hormon wanita | Kab |
+| 23 | B | Fungsi plasenta | Kab |
+| 24 | A | Tali pusat | Kab |
+| 25 | C | Kelahiran plasenta | Kab |
+| 26 | B | Sperma vs ovum ukuran | Kab |
+| 27 | D | Jumlah sperma | Kab |
+| 28 | A | Jumlah ovum | Kab |
+| 29 | B | Sperma bergerak | Kab |
+| 30 | B | Ovum digerakkan | Kab |
+| 31 | B | Tujuan keluarga | Kab |
+| 32 | B | Reproduksi seksual | Kab |
+| 33 | B | Vivipar plasentalia | Kab |
+| 34 | B | Kembar identik | Kab |
+| 35 | B | Caesar | Kab |
+| 36 | A | Bayi prematur | Kab |
+| 37 | B | Manfaat ASI | Kab |
+| 38 | C | Mamalia menyusui | Kab |
+| 39 | B | Pertumbuhan | Kab |
+| 40 | C | Sel terbesar | Kab |
+| 41 | A | Sel terkecil | Kab |
+| 42 | B | Lokasi testis | Kab |
+| 43 | B | Lokasi ovarium | Kab |
+| 44 | B | Definisi pubertas | Kab |
+| 45 | C | Vivipar kecuali | Kab |
+| 46 | C | Fungsi vagina | Kab |
+| 47 | C | Pertumbuhan tinggi | Kab |
+| 48 | B | Kebersihan reproduksi | Kab |
+| 49 | B | Privasi tubuh | Kab |
+| 50 | B | Mamalia bertelur | Kab |
+| 51 | B | Pembuahan internal | Prov |
+| 52 | C | Kehamilan gajah | Prov |
+| 53 | B | Kehamilan kucing | Prov |
+| 54 | B | Embrio | Prov |
+| 55 | B | Trimester | Prov |
+| 56 | B | Fungsi tali pusat | Prov |
+| 57 | B | Kembar fraternal | Prov |
+| 58 | B | Letak plasenta | Prov |
+| 59 | B | Air ketuban | Prov |
+| 60 | C | Tahap janin | Prov |
+| 61 | A | Kehamilan tikus | Prov |
+| 62 | A | Plasenta antibodi | Prov |
+| 63 | C | Hormon kehamilan | Prov |
+| 64 | B | Pubertas pria awal | Prov |
+| 65 | B | Pubertas wanita awal | Prov |
+| 66 | A | Estrogen produksi | Prov |
+| 67 | B | Testosteron produksi | Prov |
+| 68 | C | Siklus menstruasi | Prov |
+| 69 | C | Ciri vivipar umum | Prov |
+| 70 | C | Ovovivipar | Prov |
+| 71 | B | Ketuban fungsi | Prov |
+| 72 | B | Wanita pubertas dulu | Prov |
+| 73 | A | ASI komposisi | Prov |
+| 74 | B | Vas deferens | Prov |
+| 75 | B | Mamalia laut | Prov |
+| 76 | B | Testis suhu | Prov |
+| 77 | B | Endometrium | Prov |
+| 78 | B | Plasenta & obat | Prov |
+| 79 | D | Kehamilan kuda | Prov |
+| 80 | B | Tangisan bayi | Prov |
+| 81 | B | Kromosom pria | Nas |
+| 82 | A | Kromosom wanita | Nas |
+| 83 | B | Penentu kelamin | Nas |
+| 84 | B | DNA kembar identik | Nas |
+| 85 | B | Kembar siam | Nas |
+| 86 | B | Perkembangan otak | Nas |
+| 87 | B | Pubertas dini | Nas |
+| 88 | B | Inkubator | Nas |
+| 89 | B | ASI vs formula | Nas |
+| 90 | B | Tali pusat anatomi | Nas |
+| 91 | A | Tahap persalinan | Nas |
+| 92 | B | USG | Nas |
+| 93 | A | Kolostrum | Nas |
+| 94 | B | Infertilitas | Nas |
+| 95 | B | Menopause | Nas |
+| 96 | B | Pendengaran janin | Nas |
+| 97 | B | Konsultasi dokter | Nas |
+| 98 | B | Cyber-safety | Nas |
+| 99 | B | Pubertas normal | Nas |
+| 100 | B | Integrasi | Nas |
+
+## 📊 Rekap Distribusi
+
+- **Per Tingkat:** 50 Kabupaten (Soal 1–50) · 30 Provinsi (Soal 51–80) · 20 Nasional (Soal 81–100)
+- **Per Sub-topik (perkiraan):**
+  - Alat reproduksi pria/wanita: ≈ 15 soal
+  - Sel kelamin (sperma & ovum): ≈ 12 soal
+  - Pembuahan & kehamilan (zigot, embrio, janin): ≈ 15 soal
+  - Plasenta, tali pusat, air ketuban: ≈ 10 soal
+  - Vivipar, ovipar, ovovivipar, mamalia: ≈ 10 soal
+  - Pubertas (tanda, usia, hormon, etika): ≈ 14 soal
+  - Kelahiran (normal, caesar, prematur, persalinan): ≈ 8 soal
+  - ASI & kolostrum: ≈ 5 soal
+  - Genetika dasar (kromosom, kembar, kembar siam): ≈ 6 soal
+  - Kesehatan & literasi reproduksi (kebersihan, privasi, konsultasi, cyber-safety): ≈ 5 soal
+- **Format:** 100% Pilihan Ganda (4 opsi A–D)
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+## 📏 Patokan Skor
+
+| Skor | Kategori | Saran |
+|------|----------|-------|
+| 90–100 | Sangat Baik | Lanjut ke sub-bab IPA-02h (Pubertas) atau ke bab IPA-01 untuk perbandingan reproduksi hewan |
+| 75–89 | Baik | Ulangi soal yang salah, fokus pada miskonsepsi (sperma-ovum, plasenta-tali pusat, zigot-embrio-janin) |
+| 60–74 | Cukup | Baca ulang Bagian I (terutama tabel B1–B6), kerjakan ulang Kab terlebih dahulu |
+| < 60 | Perlu Penguatan | Diskusikan dengan guru/orang tua; fokus dahulu pada hafalan alat reproduksi & urutan perkembangan |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Sub-bab terkait langsung:** [IPA-02h · Pubertas & Perubahan Tubuh](osn-sd-ipa-02h-pubertas-campur.md) — pendalaman tanda pubertas, hormon, dan menjaga kesehatan saat pubertas
+- **Sub-bab pelengkap di Bab IPA-01:** [IPA-01f · Reproduksi Hewan (Ovipar, Vivipar, Ovovivipar)](osn-sd-ipa-01f-reproduksi-hewan-campur.md) — memperluas pemahaman reproduksi pada hewan untuk perbandingan
+- **Sub-bab pendukung tubuh manusia:** sistem ekskresi (IPA-02d), sistem peredaran darah (IPA-02c), dan gizi seimbang (IPA-02i) — penting untuk pemahaman menyeluruh kesehatan tubuh & ibu hamil
