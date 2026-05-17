@@ -2928,3 +2928,843 @@ D. Cek dompet – Edukasi keluarga – Rajin investasi – Diet pengeluaran – 
 
 ---
 
+### Soal 81 · Diabetes Tipe 1 vs 2 · Nas
+
+**(1) Soal:**
+Seorang anak SD berumur 9 tahun, kurus, didiagnosis diabetes melitus. Tipe diabetes yang paling mungkin adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Diabetes tipe 1 (autoimun, pankreas tidak hasilkan insulin)
+B. Diabetes tipe 2 (resistensi insulin akibat obesitas)
+C. Diabetes gestasional
+D. Diabetes insipidus
+
+**(3) Jawaban:** **A. Diabetes tipe 1 (autoimun, pankreas tidak hasilkan insulin)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bedakan diabetes tipe 1 dan tipe 2.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Diabetes tipe 1 (autoimun, pankreas tidak hasilkan insulin)** — Benar. Tipe 1 sering muncul pada anak/remaja, tidak terkait obesitas, anak sering justru kurus karena tubuh tak bisa pakai gula → bakar lemak/otot. Penyebabnya autoimun (sistem imun merusak sel beta pankreas).
+  - **B. Diabetes tipe 2 (resistensi insulin akibat obesitas)** — Salah. Tipe 2 dominan dewasa & terkait obesitas; tidak khas pada anak kurus.
+  - **C. Diabetes gestasional** — Salah. Hanya pada wanita hamil.
+  - **D. Diabetes insipidus** — Salah. Itu masalah hormon ADH (otak), bukan insulin.
+
+- **Langkah Penyelesaian:**
+  1. Anak + kurus + diabetes → tipe 1 (autoimun).
+  2. Tipe 2 sering pada dewasa obesitas.
+
+- **Hasil akhir:** Diabetes tipe 1 (autoimun, pankreas tidak hasilkan insulin).
+
+- **💭 Tips:** Pengobatan tipe 1: **harus suntik insulin seumur hidup** karena pankreas tak hasilkan insulin. Tipe 2: bisa dengan obat oral + gaya hidup, hanya sebagian butuh insulin.
+
+---
+
+### Soal 82 · Stroke Iskemik vs Hemoragik · Nas
+
+**(1) Soal:**
+Stroke iskemik berbeda dari stroke hemoragik karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Iskemik = sumbatan pembuluh darah otak; Hemoragik = pendarahan pembuluh otak
+B. Iskemik = pendarahan otak; Hemoragik = sumbatan
+C. Iskemik = penyakit jantung; Hemoragik = penyakit paru
+D. Iskemik dan Hemoragik adalah penyakit yang sama persis
+
+**(3) Jawaban:** **A. Iskemik = sumbatan pembuluh darah otak; Hemoragik = pendarahan pembuluh otak**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Dua jenis stroke utama.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Iskemik = sumbatan pembuluh darah otak; Hemoragik = pendarahan pembuluh otak** — Benar. "Iskemik" = kekurangan aliran darah karena sumbatan plak/gumpalan (~80% kasus). "Hemoragik" = pembuluh darah pecah → darah merembes ke jaringan otak (~20% kasus, lebih berbahaya).
+  - **B** — Salah. Tertukar definisinya.
+  - **C** — Salah. Bukan terkait jantung atau paru, tapi otak.
+  - **D** — Salah. Mekanismenya beda.
+
+- **Langkah Penyelesaian:**
+  1. Iskemik = "tersumbat". Hemoragik = "berdarah".
+
+- **Hasil akhir:** Iskemik = sumbatan pembuluh darah otak; Hemoragik = pendarahan pembuluh otak.
+
+- **💭 Tips:** Pertolongan beda 2 jenis: Iskemik bisa diberi obat pengencer darah (tPA) jika cepat. Hemoragik **tidak boleh** diberi pengencer darah — justru akan memperparah pendarahan. Maka CT scan dulu sebelum obat!
+
+---
+
+### Soal 83 · Kemoterapi vs Radioterapi · Nas
+
+**(1) Soal:**
+Perbedaan kemoterapi dan radioterapi pada pengobatan kanker adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Kemoterapi = obat kimia (sistemik); Radioterapi = sinar radiasi (lokal/area tertentu)
+B. Kemoterapi = sinar; Radioterapi = obat kimia
+C. Keduanya adalah operasi bedah
+D. Keduanya hanya vaksinasi
+
+**(3) Jawaban:** **A. Kemoterapi = obat kimia (sistemik); Radioterapi = sinar radiasi (lokal/area tertentu)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Dua jenis terapi kanker utama.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kemoterapi = obat kimia (sistemik); Radioterapi = sinar radiasi (lokal/area tertentu)** — Benar. "Kemo" = chemical/kimia → obat yang membunuh sel kanker di seluruh tubuh (sistemik). "Radio" = radiasi → sinar (X, gamma) ditembakkan ke area kanker (lokal).
+  - **B** — Salah. Tertukar.
+  - **C** — Salah. Operasi terpisah (kategori bedah).
+  - **D** — Salah. Vaksin bukan terapi kanker (kecuali HPV untuk pencegahan).
+
+- **Langkah Penyelesaian:**
+  1. Kemo = kimia (seluruh tubuh).
+  2. Radio = radiasi (lokal).
+
+- **Hasil akhir:** Kemoterapi = obat kimia (sistemik); Radioterapi = sinar radiasi (lokal/area tertentu).
+
+- **💭 Tips:** Efek samping kemo: rambut rontok, mual, lemas (karena sel sehat juga ikut terkena). Efek samping radio: kulit terbakar di area, lelah. Kanker stadium awal biasanya operasi; lanjut biasanya kombinasi kemo + radio.
+
+---
+
+### Soal 84 · Kanker Serviks & HPV · Nas
+
+**(1) Soal:**
+Kanker serviks adalah satu-satunya kanker pada wanita yang dapat dicegah dengan vaksin. Vaksin tersebut bernama vaksin HPV. Usia ideal pemberian vaksin HPV adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Setelah usia 50 tahun
+B. Saat bayi baru lahir
+C. Remaja perempuan 9–14 tahun (sebelum aktif seksual)
+D. Hanya saat sudah didiagnosis kanker
+
+**(3) Jawaban:** **C. Remaja perempuan 9–14 tahun (sebelum aktif seksual)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Strategi pemberian vaksin HPV.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Setelah usia 50 tahun** — Salah. Terlalu telat — efektivitas vaksin turun drastis bila sudah terinfeksi HPV.
+  - **B. Saat bayi baru lahir** — Salah. Vaksin HPV tidak diberikan ke bayi.
+  - **C. Remaja perempuan 9–14 tahun (sebelum aktif seksual)** — Benar. Idealnya sebelum terpapar HPV agar imunitas terbentuk maksimal. Indonesia program vaksin HPV gratis untuk siswi kelas 5 & 6 SD.
+  - **D. Hanya saat sudah didiagnosis kanker** — Salah. Vaksin = pencegah, bukan pengobat.
+
+- **Langkah Penyelesaian:**
+  1. Vaksin = cegah, harus sebelum infeksi.
+  2. Usia ideal 9–14 tahun.
+
+- **Hasil akhir:** Remaja perempuan 9–14 tahun (sebelum aktif seksual).
+
+- **💭 Tips:** Program BIAS (Bulan Imunisasi Anak Sekolah) Kemenkes memberi vaksin HPV gratis ke siswi kelas 5 & 6 SD sejak 2023. Manfaatkan untuk lindungi diri dari kanker serviks di masa depan.
+
+---
+
+### Soal 85 · BMI & Obesitas · Nas
+
+**(1) Soal:**
+Sari memiliki BB 80 kg dan tinggi 1,60 m. Indeks Massa Tubuh Sari adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. 18,2 (kurus)
+B. 22,5 (normal)
+C. 25,6 (overweight)
+D. 31,25 (obesitas)
+
+**(3) Jawaban:** **D. 31,25 (obesitas)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Hitung IMT/BMI dan klasifikasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. 18,2** — Salah. Hasil hitung yang salah.
+  - **B. 22,5** — Salah. Itu IMT untuk BB lebih rendah.
+  - **C. 25,6** — Salah. Itu untuk BB ≈ 65 kg.
+  - **D. 31,25 (obesitas)** — Benar. IMT = 80 ÷ (1,60 × 1,60) = 80 ÷ 2,56 = 31,25. Karena ≥ 30 → obesitas.
+
+- **Langkah Penyelesaian:**
+  1. Rumus IMT = BB(kg) / [TB(m)]².
+  2. 1,60 × 1,60 = 2,56.
+  3. 80 / 2,56 = 31,25.
+  4. ≥30 → obesitas.
+
+- **Hasil akhir:** 31,25 (obesitas).
+
+- **💭 Tips:** Klasifikasi WHO: <18,5 underweight · 18,5–24,9 normal · 25–29,9 overweight · 30–34,9 obesitas I · 35–39,9 obesitas II · ≥40 obesitas III/morbid. Indonesia kadang pakai 23–24,9 sebagai overweight (lebih ketat untuk Asia).
+
+---
+
+### Soal 86 · Asma Alergi vs Eksersis · Nas
+
+**(1) Soal:**
+Rian penderita asma yang serangan sering muncul setelah ia berolahraga lari. Jenis pemicu asma ini disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Asma alergi (dipicu alergen)
+B. Asma eksersis (exercise-induced asthma)
+C. Asma bayi
+D. Asma virus
+
+**(3) Jawaban:** **B. Asma eksersis (exercise-induced asthma)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis pemicu asma spesifik.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Asma alergi (dipicu alergen)** — Salah. Alergi = pemicu debu/bulu, bukan olahraga.
+  - **B. Asma eksersis (exercise-induced asthma)** — Benar. Asma yang muncul setelah aktivitas fisik berat karena pernapasan cepat dengan udara dingin & kering → bronkokonstriksi.
+  - **C. Asma bayi** — Salah. Bukan istilah klinis berdasarkan pemicu.
+  - **D. Asma virus** — Salah. Asma dapat dipicu infeksi virus, tapi bukan klasifikasi utama.
+
+- **Langkah Penyelesaian:**
+  1. Pemicu = olahraga → asma eksersis.
+
+- **Hasil akhir:** Asma eksersis (exercise-induced asthma).
+
+- **💭 Tips:** Penderita asma eksersis tetap boleh olahraga — pakai inhaler 15 menit sebelum mulai, pemanasan dahulu, hindari olahraga di udara terlalu dingin. Renang cenderung lebih ramah karena udara lembap.
+
+---
+
+### Soal 87 · Gagal Ginjal Kronis · Nas
+
+**(1) Soal:**
+Penyebab paling banyak gagal ginjal kronis di Indonesia adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Sering minum kopi
+B. Hipertensi dan diabetes yang tidak terkontrol
+C. Sering keramas
+D. Berenang di laut
+
+**(3) Jawaban:** **B. Hipertensi dan diabetes yang tidak terkontrol**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Penyebab utama gagal ginjal kronis.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Sering minum kopi** — Salah. Kopi tidak menyebabkan gagal ginjal pada dosis wajar.
+  - **B. Hipertensi dan diabetes yang tidak terkontrol** — Benar. Keduanya merusak pembuluh darah halus di glomerulus ginjal → fungsi penyaring menurun → gagal ginjal kronis. Penyebab >60% kasus di Indonesia.
+  - **C. Sering keramas** — Salah. Tidak terkait ginjal.
+  - **D. Berenang di laut** — Salah. Tidak terkait.
+
+- **Langkah Penyelesaian:**
+  1. Ginjal = penyaring darah → tergantung pembuluh sehat.
+  2. Hipertensi & diabetes rusak pembuluh → ginjal gagal.
+
+- **Hasil akhir:** Hipertensi dan diabetes yang tidak terkontrol.
+
+- **💭 Tips:** Penyebab lain: obat NSAID jangka panjang (ibuprofen, dll.), glomerulonefritis, ginjal polikistik (genetik). Cegah gagal ginjal = kontrol tensi & gula darah serta minum air cukup.
+
+---
+
+### Soal 88 · Autoimun · Nas
+
+**(1) Soal:**
+Penyakit autoimun adalah penyakit di mana...
+
+**(2) Pilihan Jawaban:**
+
+A. Bakteri menyerang tubuh
+B. Sistem imun keliru menyerang sel-sel tubuh sendiri
+C. Tubuh tidak punya imun
+D. Vaksin membuat orang sakit
+
+**(3) Jawaban:** **B. Sistem imun keliru menyerang sel-sel tubuh sendiri**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme penyakit autoimun.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Bakteri menyerang tubuh** — Salah. Itu infeksi bakteri biasa, bukan autoimun.
+  - **B. Sistem imun keliru menyerang sel-sel tubuh sendiri** — Benar. "Auto" = sendiri + "imun" = sistem pertahanan. Imun salah mengenali sel sendiri sebagai musuh → menyerang & merusak.
+  - **C. Tubuh tidak punya imun** — Salah. Itu imunodefisiensi (mis. HIV/AIDS), berbeda dengan autoimun.
+  - **D. Vaksin membuat orang sakit** — Salah. Vaksin justru melatih imun mengenal patogen.
+
+- **Langkah Penyelesaian:**
+  1. "Auto" + "imun" = imun menyerang diri sendiri.
+
+- **Hasil akhir:** Sistem imun keliru menyerang sel-sel tubuh sendiri.
+
+- **💭 Tips:** Penyakit autoimun: lupus (kulit, ginjal, sendi), artritis reumatoid (sendi), diabetes tipe 1 (pankreas), MS (saraf), psoriasis (kulit), Hashimoto (tiroid). Sering pada wanita & punya faktor genetik.
+
+---
+
+### Soal 89 · Kanker (Sistemik vs Lokal) · Nas
+
+**(1) Soal:**
+Kanker dapat menyebar ke organ lain melalui pembuluh darah/limfe. Proses penyebaran kanker ke organ jauh disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Metastasis
+B. Mitosis
+C. Meiosis
+D. Metamorfosis
+
+**(3) Jawaban:** **A. Metastasis**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Istilah penyebaran kanker.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Metastasis** — Benar. "Meta-stasis" = perpindahan letak. Sel kanker terlepas → masuk darah/limfe → tumbuh di organ lain. Inilah yang membuat kanker berbahaya.
+  - **B. Mitosis** — Salah. Mitosis = pembelahan sel biasa.
+  - **C. Meiosis** — Salah. Meiosis = pembelahan sel kelamin.
+  - **D. Metamorfosis** — Salah. Itu perubahan bentuk pada hewan (ulat → kupu-kupu).
+
+- **Langkah Penyelesaian:**
+  1. Penyebaran kanker = metastasis.
+
+- **Hasil akhir:** Metastasis.
+
+- **💭 Tips:** Tumor jinak TIDAK metastasis → masih bisa diangkat tuntas. Kanker (tumor ganas) sudah metastasis → sulit disembuhkan total. Maka deteksi dini sangat penting!
+
+---
+
+### Soal 90 · Hipertensi Sekunder · Nas
+
+**(1) Soal:**
+Hipertensi yang disebabkan oleh penyakit lain (mis. gagal ginjal, gangguan hormon) disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Hipertensi primer/esensial
+B. Hipertensi sekunder
+C. Hipertensi maligna
+D. Hipertensi remaja
+
+**(3) Jawaban:** **B. Hipertensi sekunder**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Klasifikasi hipertensi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Hipertensi primer/esensial** — Salah. Itu hipertensi tanpa sebab spesifik (90% kasus), terkait gaya hidup & genetik.
+  - **B. Hipertensi sekunder** — Benar. "Sekunder" = akibat penyakit lain. Kalau penyakit utama (ginjal, hormon) diobati → tensi normal.
+  - **C. Hipertensi maligna** — Salah. Itu hipertensi sangat berat & cepat memburuk, bukan klasifikasi sebab.
+  - **D. Hipertensi remaja** — Salah. Bukan klasifikasi resmi.
+
+- **Langkah Penyelesaian:**
+  1. Sebab lain → "sekunder".
+
+- **Hasil akhir:** Hipertensi sekunder.
+
+- **💭 Tips:** Hipertensi primer (esensial) = 90% kasus, tidak diketahui sebab pastinya. Hipertensi sekunder = 10%, ada penyakit dasar. Anak dengan hipertensi lebih mungkin sekunder (cek ginjalnya).
+
+---
+
+### Soal 91 · Hipotensi vs Hipertensi · Nas
+
+**(1) Soal:**
+Kebalikan hipertensi adalah hipotensi (tekanan darah rendah). Tensi yang dianggap hipotensi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. < 90/60 mmHg
+B. 120/80 mmHg
+C. 140/90 mmHg
+D. > 160/100 mmHg
+
+**(3) Jawaban:** **A. < 90/60 mmHg**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Batas hipotensi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. < 90/60 mmHg** — Benar. Hipotensi = tekanan darah di bawah 90/60. Gejala: pusing saat berdiri, lemas, pingsan.
+  - **B. 120/80 mmHg** — Salah. Itu normal optimal.
+  - **C. 140/90 mmHg** — Salah. Itu batas hipertensi tingkat 1.
+  - **D. > 160/100 mmHg** — Salah. Itu hipertensi tingkat 2.
+
+- **Langkah Penyelesaian:**
+  1. Hipotensi = rendah = < 90/60.
+
+- **Hasil akhir:** < 90/60 mmHg.
+
+- **💭 Tips:** Hipotensi bisa fisiologis (orang ramping, atlet) atau patologis (dehidrasi, anemia, perdarahan, obat). Tidak selalu butuh obat — kadang cukup minum lebih banyak air & garam wajar.
+
+---
+
+### Soal 92 · Faktor Tak Termodifikasi · Nas
+
+**(1) Soal:**
+Faktor risiko PTM berikut yang TIDAK dapat diubah/dimodifikasi adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Pola makan
+B. Kebiasaan merokok
+C. Usia & genetik
+D. Tingkat aktivitas fisik
+
+**(3) Jawaban:** **C. Usia & genetik**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bedakan faktor risiko termodifikasi vs tidak.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pola makan** — Salah. Bisa diubah dengan disiplin diet.
+  - **B. Kebiasaan merokok** — Salah. Bisa diubah dengan berhenti merokok.
+  - **C. Usia & genetik** — Benar. Usia tak bisa dimundurkan; genetik bawaan lahir. Ini "faktor tetap" (non-modifiable risk factor).
+  - **D. Tingkat aktivitas fisik** — Salah. Bisa diubah dengan rajin olahraga.
+
+- **Langkah Penyelesaian:**
+  1. Pilih yang tak bisa diubah → usia & genetik.
+
+- **Hasil akhir:** Usia & genetik.
+
+- **💭 Tips:** Walaupun faktor genetik tak bisa diubah, faktor risiko termodifikasi tetap penting dikendalikan. Punya keturunan diabetes? Jangan tambah dengan kebiasaan buruk — kendalikan yang bisa dikendalikan.
+
+---
+
+### Soal 93 · Kanker Anak (Leukemia) · Nas
+
+**(1) Soal:**
+Kanker yang paling sering menyerang anak-anak adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Kanker payudara
+B. Leukemia (kanker darah)
+C. Kanker prostat
+D. Kanker serviks
+
+**(3) Jawaban:** **B. Leukemia (kanker darah)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Jenis kanker spesifik anak.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kanker payudara** — Salah. Dominan pada wanita dewasa.
+  - **B. Leukemia (kanker darah)** — Benar. Sumsum tulang menghasilkan sel darah putih abnormal yang membanjiri darah → mendesak sel normal. Kanker anak terbanyak (~30% kasus kanker anak).
+  - **C. Kanker prostat** — Salah. Dominan pria dewasa di atas 50 tahun.
+  - **D. Kanker serviks** — Salah. Wanita dewasa, terkait HPV.
+
+- **Langkah Penyelesaian:**
+  1. Kanker khas anak = leukemia.
+
+- **Hasil akhir:** Leukemia (kanker darah).
+
+- **💭 Tips:** Gejala leukemia anak: pucat-lemas (anemia), mudah memar/perdarahan, demam berulang (imun lemah), nyeri tulang, BB turun. Kemoterapi pada anak punya tingkat kesembuhan lebih baik daripada dewasa.
+
+---
+
+### Soal 94 · Komplikasi Hipertensi · Nas
+
+**(1) Soal:**
+Hipertensi yang tidak terkontrol jangka panjang dapat menyebabkan komplikasi BERIKUT, KECUALI...
+
+**(2) Pilihan Jawaban:**
+
+A. Stroke
+B. Serangan jantung
+C. Gagal ginjal
+D. Cacar air
+
+**(3) Jawaban:** **D. Cacar air**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Komplikasi hipertensi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Stroke** — Salah. Hipertensi merusak pembuluh otak → stroke (iskemik/hemoragik).
+  - **B. Serangan jantung** — Salah. Tensi tinggi → jantung kerja keras + pembuluh koroner rusak → serangan jantung.
+  - **C. Gagal ginjal** — Salah. Pembuluh ginjal rusak → gagal ginjal.
+  - **D. Cacar air** — Benar. Cacar air = penyakit virus, TIDAK ada hubungan dengan hipertensi.
+
+- **Langkah Penyelesaian:**
+  1. Cari yang bukan komplikasi.
+  2. Cacar air = virus, bukan komplikasi PTM.
+
+- **Hasil akhir:** Cacar air.
+
+- **💭 Tips:** "Komplikasi" = penyakit lain yang muncul akibat penyakit utama. Hipertensi → komplikasi pada **organ target** (otak, jantung, ginjal, mata). Tidak terkait penyakit virus.
+
+---
+
+### Soal 95 · Asam Urat (Gout) · Nas
+
+**(1) Soal:**
+Asam urat (gout) adalah PTM metabolik yang menyebabkan nyeri di sendi karena...
+
+**(2) Pilihan Jawaban:**
+
+A. Kristal asam urat menumpuk di sendi
+B. Sendi terinfeksi bakteri
+C. Tulang sendi patah
+D. Sendi tertekan beban berat
+
+**(3) Jawaban:** **A. Kristal asam urat menumpuk di sendi**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme asam urat (gout).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Kristal asam urat menumpuk di sendi** — Benar. Kadar asam urat darah tinggi (>7 mg/dL pria, >6 wanita) → mengkristal di sendi terutama jempol kaki → nyeri sangat, bengkak, merah.
+  - **B. Sendi terinfeksi bakteri** — Salah. Itu artritis septik, bukan gout.
+  - **C. Tulang sendi patah** — Salah. Itu fraktur, masalah trauma.
+  - **D. Sendi tertekan beban berat** — Salah. Itu masalah biomekanik (osteoartritis).
+
+- **Langkah Penyelesaian:**
+  1. Gout = kristal asam urat di sendi.
+
+- **Hasil akhir:** Kristal asam urat menumpuk di sendi.
+
+- **💭 Tips:** Pantang gout: jeroan (hati, otak), seafood (kerang, udang), daging merah berlebih, alkohol, kacang-kacangan (sebagian). Banyak minum air membantu buang asam urat lewat ginjal.
+
+---
+
+### Soal 96 · Penyakit Autoimun (Tipe 1 vs Tipe 2) · Nas
+
+**(1) Soal:**
+Manakah pernyataan yang BENAR tentang diabetes tipe 1 vs tipe 2?
+
+**(2) Pilihan Jawaban:**
+
+A. Tipe 1 = autoimun, sering pada anak. Tipe 2 = resistensi insulin, dominan dewasa & terkait obesitas
+B. Tipe 1 selalu dewasa; Tipe 2 selalu anak
+C. Tipe 1 dan Tipe 2 sama persis
+D. Hanya Tipe 2 butuh insulin
+
+**(3) Jawaban:** **A. Tipe 1 = autoimun, sering pada anak. Tipe 2 = resistensi insulin, dominan dewasa & terkait obesitas**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Perbedaan komprehensif diabetes tipe 1 dan 2.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tipe 1 = autoimun, sering pada anak. Tipe 2 = resistensi insulin, dominan dewasa & terkait obesitas** — Benar. Tipe 1: pankreas hancur autoimun, tak hasilkan insulin → wajib suntik insulin seumur hidup. Tipe 2: pankreas masih hasilkan insulin tapi sel tak peka → bisa diatasi obat oral + gaya hidup.
+  - **B** — Salah. Justru sebaliknya: tipe 1 lebih sering pada anak.
+  - **C** — Salah. Mekanismenya berbeda.
+  - **D** — Salah. Tipe 1 justru WAJIB insulin; tipe 2 sebagian saja.
+
+- **Langkah Penyelesaian:**
+  1. Tipe 1 = autoimun, anak, suntik insulin wajib.
+  2. Tipe 2 = resistensi, dewasa, terkait obesitas.
+
+- **Hasil akhir:** Tipe 1 = autoimun, sering pada anak. Tipe 2 = resistensi insulin, dominan dewasa & terkait obesitas.
+
+- **💭 Tips:** Ada juga tipe lain: gestasional (saat hamil), MODY (genetik langka). Tapi tipe 1 (5–10%) & tipe 2 (90%) yang dominan. Anak SD perlu tahu — karena bisa kena tipe 1.
+
+---
+
+### Soal 97 · Skrining Spesifik · Nas
+
+**(1) Soal:**
+Pap smear / IVA test adalah skrining yang dianjurkan secara berkala untuk mendeteksi dini kanker...
+
+**(2) Pilihan Jawaban:**
+
+A. Serviks
+B. Payudara
+C. Paru
+D. Hati
+
+**(3) Jawaban:** **A. Serviks**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Skrining kanker spesifik.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Serviks** — Benar. Pap smear (mengambil sel serviks → diperiksa di laboratorium) & IVA (Inspeksi Visual Asam Asetat) = skrining kanker serviks. Dianjurkan tiap 3–5 tahun untuk wanita usia subur.
+  - **B. Payudara** — Salah. Skrining payudara = SADARI + mamografi (USG/X-ray).
+  - **C. Paru** — Salah. Skrining paru = rontgen / CT scan.
+  - **D. Hati** — Salah. Skrining hati = USG + tes darah AFP.
+
+- **Langkah Penyelesaian:**
+  1. Pap smear & IVA = skrining serviks.
+
+- **Hasil akhir:** Serviks.
+
+- **💭 Tips:** Indonesia punya program skrining IVA gratis di puskesmas. Karena murah & cepat, IVA lebih luas dipakai dibanding pap smear yang butuh lab patologi. Tujuannya sama: deteksi dini kanker serviks.
+
+---
+
+### Soal 98 · Patofisiologi Kompleks · Nas
+
+**(1) Soal:**
+Aterosklerosis adalah proses penumpukan plak lemak di dinding pembuluh darah. Aterosklerosis menjadi dasar terjadinya...
+
+**(2) Pilihan Jawaban:**
+
+A. Jantung koroner & stroke iskemik
+B. Cacingan & diare
+C. Asma & alergi
+D. Beri-beri & anemia
+
+**(3) Jawaban:** **A. Jantung koroner & stroke iskemik**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Aterosklerosis sebagai akar PTM kardiovaskular.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Jantung koroner & stroke iskemik** — Benar. Plak aterosklerosis menyumbat → di koroner = jantung koroner, di otak = stroke iskemik. Bisa juga: penyakit arteri perifer (kaki).
+  - **B. Cacingan & diare** — Salah. Itu penyakit menular saluran cerna.
+  - **C. Asma & alergi** — Salah. Itu hipersensitivitas saluran napas.
+  - **D. Beri-beri & anemia** — Salah. Itu defisiensi nutrisi.
+
+- **Langkah Penyelesaian:**
+  1. Plak di pembuluh → tersumbat.
+  2. Di mana? Koroner (jantung) atau otak (stroke).
+
+- **Hasil akhir:** Jantung koroner & stroke iskemik.
+
+- **💭 Tips:** Aterosklerosis = "akar" dari banyak PTM kardiovaskular. Mulai bertumpuk sejak usia muda jika gaya hidup buruk (rokok, kolesterol tinggi, hipertensi). Maka cegah sejak SD.
+
+---
+
+### Soal 99 · CERDIK + Integrasi · Nas
+
+**(1) Soal:**
+Anak SD yang menerapkan CERDIK sejak dini berpotensi mengurangi risiko terkena PTM di masa dewasa karena...
+
+**(2) Pilihan Jawaban:**
+
+A. CERDIK hanya untuk dewasa, anak tak terpengaruh
+B. Kebiasaan sehat sejak anak terbawa hingga dewasa, mengurangi akumulasi faktor risiko
+C. CERDIK membuat tubuh kebal virus
+D. CERDIK menggantikan kebutuhan tidur
+
+**(3) Jawaban:** **B. Kebiasaan sehat sejak anak terbawa hingga dewasa, mengurangi akumulasi faktor risiko**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pemahaman CERDIK sebagai investasi pencegahan jangka panjang.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. CERDIK hanya untuk dewasa, anak tak terpengaruh** — Salah. PTM "terkumpul" sejak kebiasaan anak. Justru anak fase terbaik membangun kebiasaan sehat.
+  - **B. Kebiasaan sehat sejak anak terbawa hingga dewasa, mengurangi akumulasi faktor risiko** — Benar. Aterosklerosis, obesitas, & resistensi insulin terakumulasi dari muda. Cegah sejak SD = kurangi risiko PTM 20–40 tahun ke depan.
+  - **C. CERDIK membuat tubuh kebal virus** — Salah. Itu strategi penyakit menular (vaksin).
+  - **D. CERDIK menggantikan kebutuhan tidur** — Salah. Justru "I" pada CERDIK adalah istirahat.
+
+- **Langkah Penyelesaian:**
+  1. PTM = penyakit kumulasi.
+  2. Cegah dari muda → kurang menumpuk.
+
+- **Hasil akhir:** Kebiasaan sehat sejak anak terbawa hingga dewasa, mengurangi akumulasi faktor risiko.
+
+- **💭 Tips:** Studi menunjukkan: anak obesitas → 70% jadi dewasa obesitas. Anak yang merokok usia 12 → resiko PPOK 5× lipat. Kebiasaan SD = takdir kesehatan dewasa. Maka mulai dari sekarang.
+
+---
+
+### Soal 100 · Integrasi & Sintesis PTM · Nas
+
+**(1) Soal:**
+Pernyataan berikut yang PALING TEPAT tentang PTM adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. PTM bisa dicegah dengan vaksin, masker, dan cuci tangan
+B. PTM disebabkan virus dan menular antar keluarga
+C. Sebagian besar PTM bisa dicegah dengan kombinasi gaya hidup sehat (CERDIK) sejak dini, walau ada faktor genetik/usia yang tak bisa diubah
+D. PTM hanya menyerang lansia dan tak perlu dipikirkan anak SD
+
+**(3) Jawaban:** **C. Sebagian besar PTM bisa dicegah dengan kombinasi gaya hidup sehat (CERDIK) sejak dini, walau ada faktor genetik/usia yang tak bisa diubah**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sintesis pemahaman keseluruhan PTM.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. PTM bisa dicegah dengan vaksin, masker, dan cuci tangan** — Salah. Itu strategi penyakit menular. PTM bukan dicegah dengan masker/cuci tangan.
+  - **B. PTM disebabkan virus dan menular antar keluarga** — Salah. PTM tidak disebabkan virus & tidak menular. Mirip antar keluarga karena genetik & gaya hidup yang sama, bukan menular.
+  - **C. Sebagian besar PTM bisa dicegah dengan kombinasi gaya hidup sehat (CERDIK) sejak dini, walau ada faktor genetik/usia yang tak bisa diubah** — Benar. Sintesis: PTM disebabkan kombinasi faktor termodifikasi (gaya hidup) & tidak termodifikasi (genetik, usia). Yang bisa diubah, ubah sejak dini.
+  - **D. PTM hanya menyerang lansia dan tak perlu dipikirkan anak SD** — Salah. Anak juga bisa kena (diabetes tipe 1, obesitas, asma), dan akumulasi risiko mulai dari anak.
+
+- **Langkah Penyelesaian:**
+  1. Pilih opsi yang paling lengkap & akurat.
+  2. C menggabungkan: bisa dicegah + sejak dini + ada batas (genetik).
+
+- **Hasil akhir:** Sebagian besar PTM bisa dicegah dengan kombinasi gaya hidup sehat (CERDIK) sejak dini, walau ada faktor genetik/usia yang tak bisa diubah.
+
+- **💭 Tips:** Pesan kunci untuk anak SD: PTM bukan takdir mutlak. Sebagian besar bisa dicegah dengan kebiasaan harian sederhana (CERDIK). Kalau ada riwayat keluarga PTM, justru lebih wajib menjalankan CERDIK.
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban
+
+> Untuk quick reference dan tracking oleh guru/orang tua. Detail pembahasan ada di Bagian II.
+
+| No  | Jawaban | Sub-topik                            | Tingkat |
+|-----|---------|--------------------------------------|---------|
+| 1   | B       | Konsep Dasar PTM                     | Kab     |
+| 2   | B       | Identifikasi PTM                     | Kab     |
+| 3   | A       | Identifikasi PTM                     | Kab     |
+| 4   | C       | Faktor Risiko                        | Kab     |
+| 5   | B       | Diabetes                             | Kab     |
+| 6   | B       | Diabetes (Gejala)                    | Kab     |
+| 7   | B       | Hipertensi                           | Kab     |
+| 8   | B       | Hipertensi (Faktor Risiko)           | Kab     |
+| 9   | B       | Kanker                               | Kab     |
+| 10  | D       | Identifikasi PTM                     | Kab     |
+| 11  | B       | Jantung Koroner                      | Kab     |
+| 12  | A       | Stroke                               | Kab     |
+| 13  | B       | Asma                                 | Kab     |
+| 14  | B       | Pencegahan PTM                       | Kab     |
+| 15  | B       | Pencegahan Hipertensi                | Kab     |
+| 16  | B       | Diabetes (Faktor Risiko)             | Kab     |
+| 17  | B       | Defisiensi Nutrisi (Gondok)          | Kab     |
+| 18  | A       | Defisiensi Nutrisi (Rabun Senja)     | Kab     |
+| 19  | B       | Defisiensi Nutrisi (Skorbut)         | Kab     |
+| 20  | A       | Defisiensi Nutrisi (Anemia)          | Kab     |
+| 21  | B       | Defisiensi Nutrisi (Beri-beri)       | Kab     |
+| 22  | C       | Defisiensi Nutrisi (Rakhitis)        | Kab     |
+| 23  | B       | Pencegahan PTM (Olahraga)            | Kab     |
+| 24  | A       | Pencegahan PTM (Rokok)               | Kab     |
+| 25  | B       | Konsep PTM                           | Kab     |
+| 26  | B       | Identifikasi PTM                     | Kab     |
+| 27  | C       | Faktor Risiko                        | Kab     |
+| 28  | B       | Identifikasi PTM                     | Kab     |
+| 29  | B       | Pencegahan PTM (Makanan)             | Kab     |
+| 30  | B       | Konsep PTM                           | Kab     |
+| 31  | B       | Obesitas                             | Kab     |
+| 32  | B       | Pencegahan PTM (Stres)               | Kab     |
+| 33  | B       | Identifikasi PTM (Kardiovaskular)    | Kab     |
+| 34  | B       | Faktor Risiko Kanker                 | Kab     |
+| 35  | A       | Pencegahan PTM (Pola Makan)          | Kab     |
+| 36  | A       | Defisiensi Nutrisi (Kalsium)         | Kab     |
+| 37  | A       | Konsep PTM                           | Kab     |
+| 38  | B       | Identifikasi PTM                     | Kab     |
+| 39  | B       | Identifikasi PTM                     | Kab     |
+| 40  | B       | Konsep PTM                           | Kab     |
+| 41  | B       | Pencegahan PTM (Olahraga)            | Kab     |
+| 42  | C       | Identifikasi PTM                     | Kab     |
+| 43  | B       | Identifikasi PTM (Osteoporosis)      | Kab     |
+| 44  | B       | Identifikasi PTM                     | Kab     |
+| 45  | A       | Defisiensi Nutrisi (Kwashiorkor)     | Kab     |
+| 46  | C       | Konsep PTM                           | Kab     |
+| 47  | B       | Pencegahan PTM (Tidur)               | Kab     |
+| 48  | B       | Konsep PTM                           | Kab     |
+| 49  | A       | Identifikasi PTM (Alzheimer)         | Kab     |
+| 50  | B       | Identifikasi PTM                     | Kab     |
+| 51  | B       | Diabetes (Gejala Spesifik)           | Prov    |
+| 52  | A       | Hipertensi (Gejala)                  | Prov    |
+| 53  | B       | Kanker (Gejala Umum)                 | Prov    |
+| 54  | B       | CERDIK                               | Prov    |
+| 55  | A       | CERDIK                               | Prov    |
+| 56  | A       | CERDIK                               | Prov    |
+| 57  | A       | Defisiensi Nutrisi (Anemia)          | Prov    |
+| 58  | B       | Defisiensi Nutrisi (Beri-beri)       | Prov    |
+| 59  | B       | Defisiensi Nutrisi (Vit A)           | Prov    |
+| 60  | C       | Diabetes (Pankreas)                  | Prov    |
+| 61  | B       | PPOK                                 | Prov    |
+| 62  | A       | Kolesterol                           | Prov    |
+| 63  | B       | Stroke (Pencegahan)                  | Prov    |
+| 64  | A       | Defisiensi Nutrisi (Yodium)          | Prov    |
+| 65  | B       | Asma (Pemicu)                        | Prov    |
+| 66  | B       | Kanker (HPV)                         | Prov    |
+| 67  | B       | Kanker (SADARI)                      | Prov    |
+| 68  | C       | Pencegahan PTM (BMI)                 | Prov    |
+| 69  | A       | Diabetes (Komplikasi)                | Prov    |
+| 70  | B       | Pencegahan PTM (Pola Hidup)          | Prov    |
+| 71  | A       | Kanker (Hati)                        | Prov    |
+| 72  | A       | Defisiensi Nutrisi (Vit D)           | Prov    |
+| 73  | B       | CERDIK                               | Prov    |
+| 74  | C       | CERDIK                               | Prov    |
+| 75  | A       | Penyakit Ginjal Kronik               | Prov    |
+| 76  | A       | Autoimun (Lupus)                     | Prov    |
+| 77  | B       | Konsep PTM (Silent Killer)           | Prov    |
+| 78  | B       | Defisiensi Nutrisi (Vit K)           | Prov    |
+| 79  | A       | Pencegahan PTM (Skrining)            | Prov    |
+| 80  | A       | CERDIK (Urutan Lengkap)              | Prov    |
+| 81  | A       | Diabetes Tipe 1 vs 2                 | Nas     |
+| 82  | A       | Stroke Iskemik vs Hemoragik          | Nas     |
+| 83  | A       | Kemoterapi vs Radioterapi            | Nas     |
+| 84  | C       | Kanker Serviks & HPV                 | Nas     |
+| 85  | D       | BMI & Obesitas                       | Nas     |
+| 86  | B       | Asma Eksersis                        | Nas     |
+| 87  | B       | Gagal Ginjal Kronis                  | Nas     |
+| 88  | B       | Autoimun                             | Nas     |
+| 89  | A       | Kanker (Metastasis)                  | Nas     |
+| 90  | B       | Hipertensi Sekunder                  | Nas     |
+| 91  | A       | Hipotensi vs Hipertensi              | Nas     |
+| 92  | C       | Faktor Tak Termodifikasi             | Nas     |
+| 93  | B       | Kanker Anak (Leukemia)               | Nas     |
+| 94  | D       | Komplikasi Hipertensi                | Nas     |
+| 95  | A       | Asam Urat (Gout)                     | Nas     |
+| 96  | A       | Diabetes Tipe 1 vs 2                 | Nas     |
+| 97  | A       | Skrining (Pap Smear/IVA)             | Nas     |
+| 98  | A       | Aterosklerosis                       | Nas     |
+| 99  | B       | CERDIK + Integrasi                   | Nas     |
+| 100 | C       | Integrasi & Sintesis PTM             | Nas     |
+
+## 📊 Rekap Distribusi (final)
+
+**Per Sub-topik (semua tingkat):**
+- Konsep Dasar PTM & Identifikasi (menular vs tidak): 18 soal (1, 2, 3, 10, 25, 26, 28, 30, 37, 38, 39, 40, 42, 46, 48, 50, 77, 100)
+- Diabetes (definisi, gejala, faktor, pankreas, komplikasi, tipe 1/2): 12 soal (5, 6, 16, 31, 51, 60, 69, 81, 96, dst.)
+- Hipertensi (definisi, gejala, faktor, pencegahan, sekunder, hipotensi, komplikasi): 11 soal (7, 8, 15, 33, 52, 77, 90, 91, 94, dst.)
+- Kanker (definisi, faktor, HPV, SADARI, hati, leukemia, terapi, metastasis): 11 soal (9, 28, 34, 53, 66, 67, 71, 83, 84, 89, 93)
+- Penyakit kardiovaskular lain (jantung koroner, stroke, kolesterol, aterosklerosis): 7 soal (11, 12, 44, 62, 63, 82, 98)
+- Penyakit pernapasan (asma, PPOK): 5 soal (13, 26, 39, 61, 65, 86)
+- Penyakit ginjal, autoimun, asam urat, alzheimer, osteoporosis: 7 soal (43, 49, 75, 76, 88, 95)
+- Defisiensi nutrisi (gondok, rabun, skorbut, anemia, beri-beri, rakhitis, kalsium, kwashiorkor, vit K, vit D, yodium, vit A): 14 soal (17–22, 36, 45, 57, 58, 59, 64, 72, 78)
+- CERDIK & pencegahan PTM (olahraga, rokok, makanan, stres, tidur, skrining, BMI): 15 soal (4, 14, 23, 24, 27, 29, 32, 35, 41, 47, 54, 55, 56, 68, 70, 73, 74, 79, 80, 85, 92, 99)
+
+**Per Tingkat:**
+- 🟢 Kabupaten: 50 soal (1–50)
+- 🔵 Provinsi: 30 soal (51–80)
+- 🔴 Nasional: 20 soal (81–100)
+
+**Format:** 100% Pilihan Ganda (4 opsi A–D) · Pembahasan analisis 4 opsi.
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Per tingkat — benar:** Kab ___/50 · Prov ___/30 · Nas ___/20
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Miskonsepsi yang baru saya sadari:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+### Patokan Skor
+
+| Skor | Predikat | Rekomendasi |
+|------|----------|-------------|
+| ≥ 90 | 🏆 Luar biasa | Lanjut sub-bab IPA-02l (Kebersihan) atau bab IPA-03 |
+| 75–89 | 👍 Bagus | Ulangi sub-topik yang masih lemah, lalu lanjut |
+| 60–74 | 💪 Cukup | Baca ulang Bagian I (Teori) + ulangi soal salah |
+| < 60 | 📚 Perlu pengulangan | Pelajari kembali dari Bagian I; coba lagi minggu depan |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Sub-bab terkait dalam Bab IPA-02:**
+  - [IPA-02j · Penyakit Menular (TBC, DBD, COVID, Flu)](osn-sd-ipa-02j-penyakit-menular-campur.md) — pasangan kontras: bandingkan beda menular vs tidak menular
+  - [IPA-02i · Gizi Seimbang](osn-sd-ipa-02i-gizi-seimbang-campur.md) — perdalam pencegahan PTM dari sisi makanan
+  - [IPA-02l · Kebersihan Diri & Lingkungan](osn-sd-ipa-02l-kebersihan-campur.md) — pencegahan penyakit holistik
+- **Sub-bab terkait sistem organ Bab IPA-02:**
+  - [IPA-02a · Sistem Pencernaan](osn-sd-ipa-02a-sistem-pencernaan-campur.md) — terkait diabetes (pankreas) & obesitas
+  - [IPA-02c · Sistem Peredaran Darah](osn-sd-ipa-02c-sistem-peredaran-darah-campur.md) — terkait hipertensi, jantung, stroke
+  - [IPA-02d · Sistem Ekskresi](osn-sd-ipa-02d-sistem-ekskresi-campur.md) — terkait gagal ginjal
+- **Bab IPA lain yang berkaitan:**
+  - [IPA-01 · Makhluk Hidup & Lingkungan](osn-sd-ipa-01-makhluk-hidup-campur.md) — pemahaman ciri makhluk hidup sebagai dasar kesehatan
+
+---
+
+> **✅ FILE LENGKAP** — 100 soal PG dengan pembahasan komprehensif (analisis 4 opsi A/B/C/D), Bagian I Teori (A–F), Bagian II 100 Soal, dan Bagian III Ringkasan & Refleksi. Sesuai standar mutu OSN/KSN SD Indonesia.

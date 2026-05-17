@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Road to Chess GM · Komprehensif Lintas Pilar (Campur)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700;900&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+<style>
+:root{
+  --red:#E53935; --red-dark:#C62828; --red-light:#EF5350;
+  --bg:#0F1117; --bg-2:#161922; --bg-3:#1F2330;
+  --glass:rgba(255,255,255,0.06); --glass-border:rgba(255,255,255,0.10);
+  --text:#F5F7FA; --text-mute:#A0A6B8; --text-faint:#6B7280;
+  --green:#34D399; --amber:#FBBF24; --blue:#60A5FA; --purple:#A78BFA;
+  --shadow-lg:0 24px 60px rgba(0,0,0,0.45);
+  --shadow-glow:0 0 40px rgba(229,57,53,0.25);
+  --radius:16px; --radius-sm:10px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',system-ui,sans-serif;min-height:100vh;-webkit-font-smoothing:antialiased}
+body{background:
+  radial-gradient(ellipse 80% 50% at 50% -10%, rgba(229,57,53,0.18), transparent 60%),
+  radial-gradient(ellipse 60% 40% at 80% 100%, rgba(96,165,250,0.10), transparent 70%),
+  var(--bg);
+  background-attachment:fixed;
+}
+.container{max-width:1280px;margin:0 auto;padding:32px 24px 64px}
+
+/* HEADER */
+.hero{display:flex;flex-direction:column;gap:8px;margin-bottom:28px;padding:24px 28px;background:var(--glass);backdrop-filter:blur(20px);border:1px solid var(--glass-border);border-radius:var(--radius);box-shadow:var(--shadow-lg)}
+.hero-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
+.hero-title{font-family:'DM Sans',sans-serif;font-weight:900;font-size:28px;letter-spacing:-0.02em;line-height:1.1;display:flex;align-items:center;gap:12px}
+.hero-title .crown{color:var(--red);filter:drop-shadow(0 0 12px rgba(229,57,53,0.6))}
+.hero-sub{color:var(--text-mute);font-size:14px;font-weight:400}
+.hero-stats{display:flex;gap:8px;flex-wrap:wrap}
+.stat{display:flex;align-items:center;gap:6px;padding:6px 12px;background:rgba(255,255,255,0.04);border:1px solid var(--glass-border);border-radius:999px;font-size:12px;font-weight:500;color:var(--text-mute)}
+.stat b{color:var(--text);font-weight:700}
+
+/* PROGRESS */
+.progress-wrap{margin-top:16px;display:flex;align-items:center;gap:12px}
+.progress-bar{flex:1;height:6px;background:rgba(255,255,255,0.06);border-radius:999px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--red) 0%,var(--red-light) 100%);width:0%;transition:width 0.4s cubic-bezier(0.4,0,0.2,1);box-shadow:0 0 12px rgba(229,57,53,0.5)}
+.progress-text{font-family:'DM Sans',sans-serif;font-weight:700;font-size:13px;color:var(--text);min-width:80px;text-align:right}
+
+/* MAIN LAYOUT */
+.main{display:grid;grid-template-columns:minmax(0,1fr) 420px;gap:24px;align-items:start}
+@media(max-width:980px){.main{grid-template-columns:1fr}}
+
+/* SOAL CARD */
+.card{background:var(--glass);backdrop-filter:blur(20px);border:1px solid var(--glass-border);border-radius:var(--radius);padding:28px;box-shadow:var(--shadow-lg)}
+.soal-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:20px;flex-wrap:wrap}
+.soal-nomor{font-family:'DM Sans',sans-serif;font-weight:900;font-size:20px;color:var(--text)}
+.soal-nomor span{color:var(--text-faint);font-weight:500;font-size:14px;margin-left:4px}
+.badges{display:flex;gap:6px;flex-wrap:wrap}
+.badge{padding:4px 10px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;font-family:'DM Sans',sans-serif}
+.badge.P{background:rgba(52,211,153,0.15);color:var(--green);border:1px solid rgba(52,211,153,0.3)}
+.badge.K{background:rgba(96,165,250,0.15);color:var(--blue);border:1px solid rgba(96,165,250,0.3)}
+.badge.M{background:rgba(229,57,53,0.15);color:var(--red-light);border:1px solid rgba(229,57,53,0.35)}
+.badge.tak{background:rgba(167,139,250,0.12);color:var(--purple);border:1px solid rgba(167,139,250,0.25)}
+.badge.str{background:rgba(251,191,36,0.12);color:var(--amber);border:1px solid rgba(251,191,36,0.25)}
+.badge.end{background:rgba(96,165,250,0.10);color:var(--blue);border:1px solid rgba(96,165,250,0.25)}
+.badge.buk{background:rgba(52,211,153,0.10);color:var(--green);border:1px solid rgba(52,211,153,0.25)}
+
+.tema{font-family:'DM Sans',sans-serif;font-size:24px;font-weight:700;line-height:1.2;margin-bottom:12px;letter-spacing:-0.01em}
+.konteks{color:var(--text-mute);font-size:14px;line-height:1.55;margin-bottom:20px}
+.giliran-badge{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:rgba(255,255,255,0.05);border:1px solid var(--glass-border);border-radius:8px;font-size:13px;font-weight:500;margin-bottom:16px}
+.giliran-dot{width:10px;height:10px;border-radius:50%;border:1px solid #555}
+.giliran-dot.w{background:#fff}
+.giliran-dot.b{background:#222}
+
+.fen-row{display:flex;align-items:center;gap:8px;padding:8px 12px;background:rgba(0,0,0,0.30);border:1px solid var(--glass-border);border-radius:var(--radius-sm);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text-mute);margin-bottom:20px;overflow-x:auto;white-space:nowrap}
+.fen-row code{flex:1;color:var(--text);font-family:inherit;font-size:11px}
+.fen-copy{padding:4px 8px;background:rgba(255,255,255,0.05);border:1px solid var(--glass-border);border-radius:6px;color:var(--text-mute);cursor:pointer;font-size:11px;transition:all 0.2s;font-family:'DM Sans',sans-serif;font-weight:600}
+.fen-copy:hover{background:var(--red);color:#fff;border-color:var(--red)}
+
+/* OPTIONS */
+.opsi-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}
+@media(max-width:560px){.opsi-grid{grid-template-columns:1fr}}
+.opsi-btn{display:flex;align-items:center;gap:12px;padding:14px 18px;background:rgba(255,255,255,0.04);border:1.5px solid var(--glass-border);border-radius:var(--radius-sm);color:var(--text);font-family:'IBM Plex Sans',sans-serif;font-size:15px;font-weight:500;cursor:pointer;transition:all 0.2s;text-align:left;width:100%}
+.opsi-btn:hover:not(:disabled){background:rgba(229,57,53,0.08);border-color:rgba(229,57,53,0.4);transform:translateY(-1px)}
+.opsi-btn:disabled{cursor:not-allowed;opacity:0.6}
+.opsi-btn .label{font-family:'DM Sans',sans-serif;font-weight:900;color:var(--red);background:rgba(229,57,53,0.15);width:28px;height:28px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0}
+.opsi-btn .san{font-family:'IBM Plex Mono',monospace;font-weight:600;color:var(--text)}
+.opsi-btn.correct{background:rgba(52,211,153,0.12);border-color:var(--green)}
+.opsi-btn.correct .label{background:rgba(52,211,153,0.25);color:var(--green)}
+.opsi-btn.wrong{background:rgba(229,57,53,0.10);border-color:var(--red)}
+
+/* PEMBAHASAN */
+.pembahasan{margin-top:20px;padding:20px;background:rgba(0,0,0,0.30);border:1px solid var(--glass-border);border-radius:var(--radius-sm);display:none}
+.pembahasan.show{display:block;animation:fadeIn 0.3s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.pembahasan h4{font-family:'DM Sans',sans-serif;font-size:14px;font-weight:700;color:var(--red-light);margin-bottom:12px;text-transform:uppercase;letter-spacing:0.05em;display:flex;align-items:center;gap:6px}
+.pmb-list{list-style:none;display:flex;flex-direction:column;gap:10px}
+.pmb-list li{font-size:14px;line-height:1.55;color:var(--text-mute);padding-left:32px;position:relative}
+.pmb-list li .lbl{position:absolute;left:0;top:0;font-family:'DM Sans',sans-serif;font-weight:900;font-size:12px;color:var(--red);background:rgba(229,57,53,0.15);width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center}
+.pmb-list li.correct{color:var(--text)}
+.pmb-list li.correct .lbl{background:rgba(52,211,153,0.20);color:var(--green)}
+.jawaban-final{margin-top:16px;padding:12px 16px;background:linear-gradient(135deg,rgba(52,211,153,0.15),rgba(52,211,153,0.05));border:1px solid rgba(52,211,153,0.30);border-radius:var(--radius-sm);font-size:14px;color:var(--text);display:flex;align-items:center;gap:8px}
+.jawaban-final .key{font-family:'DM Sans',sans-serif;font-weight:900;color:var(--green);font-size:18px}
+
+/* RIGHT PANEL: BOARD */
+.board-wrap{position:sticky;top:24px;display:flex;flex-direction:column;gap:14px}
+.board-card{background:var(--glass);backdrop-filter:blur(20px);border:1px solid var(--glass-border);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow-lg)}
+#board{width:100%;max-width:380px;margin:0 auto}
+.board-foot{margin-top:14px;display:flex;justify-content:space-between;gap:8px;font-size:12px;color:var(--text-faint);font-family:'IBM Plex Mono',monospace}
+.board-foot .flip-btn{padding:6px 10px;background:rgba(255,255,255,0.05);border:1px solid var(--glass-border);border-radius:6px;color:var(--text-mute);cursor:pointer;transition:all 0.2s;font-family:'DM Sans',sans-serif;font-weight:600;font-size:11px;display:flex;align-items:center;gap:4px}
+.board-foot .flip-btn:hover{background:rgba(229,57,53,0.10);color:var(--red);border-color:var(--red)}
+
+/* NAV */
+.nav-card{background:var(--glass);backdrop-filter:blur(20px);border:1px solid var(--glass-border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-lg)}
+.nav-row{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px}
+.nav-btn{display:flex;align-items:center;justify-content:center;gap:6px;padding:12px;background:rgba(255,255,255,0.04);border:1px solid var(--glass-border);border-radius:var(--radius-sm);color:var(--text);font-family:'DM Sans',sans-serif;font-weight:700;font-size:13px;cursor:pointer;transition:all 0.2s}
+.nav-btn:hover:not(:disabled){background:rgba(229,57,53,0.10);border-color:var(--red);color:var(--red-light)}
+.nav-btn:disabled{opacity:0.4;cursor:not-allowed}
+.nav-btn.primary{background:var(--red);border-color:var(--red);color:#fff}
+.nav-btn.primary:hover{background:var(--red-dark);box-shadow:var(--shadow-glow)}
+.jump-row{display:flex;gap:6px;align-items:center}
+.jump-row label{font-size:11px;color:var(--text-faint);font-family:'DM Sans',sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:0.05em}
+.jump-row input{flex:1;padding:8px 10px;background:rgba(0,0,0,0.30);border:1px solid var(--glass-border);border-radius:6px;color:var(--text);font-family:'IBM Plex Mono',monospace;font-size:13px;text-align:center;width:60px}
+.jump-row input:focus{outline:none;border-color:var(--red)}
+.jump-btn{padding:8px 12px;background:rgba(255,255,255,0.04);border:1px solid var(--glass-border);border-radius:6px;color:var(--text);cursor:pointer;font-family:'DM Sans',sans-serif;font-weight:600;font-size:12px;transition:all 0.2s}
+.jump-btn:hover{background:var(--red);color:#fff;border-color:var(--red)}
+
+/* SCORE */
+.score-card{background:var(--glass);backdrop-filter:blur(20px);border:1px solid var(--glass-border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-lg)}
+.score-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
+.score-cell{padding:12px;background:rgba(0,0,0,0.20);border-radius:var(--radius-sm);text-align:center}
+.score-cell .num{font-family:'DM Sans',sans-serif;font-weight:900;font-size:22px;color:var(--text);line-height:1}
+.score-cell .lbl{font-size:10px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;margin-top:4px;font-family:'DM Sans',sans-serif;font-weight:600}
+.score-cell.correct .num{color:var(--green)}
+.score-cell.wrong .num{color:var(--red)}
+.reset-btn{margin-top:12px;width:100%;padding:10px;background:transparent;border:1px solid rgba(229,57,53,0.30);color:var(--red-light);border-radius:var(--radius-sm);cursor:pointer;font-family:'DM Sans',sans-serif;font-weight:600;font-size:12px;transition:all 0.2s;display:flex;align-items:center;justify-content:center;gap:6px}
+.reset-btn:hover{background:rgba(229,57,53,0.10);border-color:var(--red);color:var(--red)}
+
+/* SCROLLBAR */
+::-webkit-scrollbar{width:10px;height:10px}
+::-webkit-scrollbar-track{background:var(--bg-2)}
+::-webkit-scrollbar-thumb{background:var(--bg-3);border-radius:5px}
+::-webkit-scrollbar-thumb:hover{background:#2A2F3D}
+
+/* Chessboard.js piece transparency fix on dark bg */
+.white-1e1d7,.black-3c85d{}
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header class="hero">
+    <div class="hero-top">
+      <div>
+        <h1 class="hero-title"><i data-lucide="crown" class="crown"></i>Road to Chess Grandmaster</h1>
+        <p class="hero-sub">Komprehensif Lintas Pilar · Tingkat Campur · 100 Soal Pilihan Ganda</p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><i data-lucide="target" style="width:13px;height:13px"></i><b>100</b>&nbsp;soal</div>
+        <div class="stat"><i data-lucide="layers" style="width:13px;height:13px"></i><b>4</b>&nbsp;pilar</div>
+        <div class="stat"><i data-lucide="trending-up" style="width:13px;height:13px"></i>P&nbsp;<b>50</b>&nbsp;·&nbsp;K&nbsp;<b>30</b>&nbsp;·&nbsp;M&nbsp;<b>20</b></div>
+      </div>
+    </div>
+    <div class="progress-wrap">
+      <div class="progress-bar"><div class="progress-fill" id="progFill"></div></div>
+      <div class="progress-text" id="progText">0 / 100</div>
+    </div>
+  </header>
+
+  <div class="main">
+    <!-- LEFT: SOAL CARD -->
+    <section class="card" id="soalCard">
+      <div class="soal-head">
+        <div class="soal-nomor">Soal <span id="soalNum">1</span><span id="soalTotal">/ 100</span></div>
+        <div class="badges">
+          <span class="badge" id="bLevel">P</span>
+          <span class="badge" id="bPilar">TAK</span>
+        </div>
+      </div>
+      <h2 class="tema" id="tema">—</h2>
+      <p class="konteks" id="konteks">—</p>
+      <div class="giliran-badge"><span class="giliran-dot" id="gilDot"></span><span id="gilText">—</span></div>
+      <div class="fen-row">
+        <code id="fenCode">—</code>
+        <button class="fen-copy" id="fenCopyBtn">Copy</button>
+      </div>
+      <div class="opsi-grid" id="opsiGrid"></div>
+      <div class="pembahasan" id="pmb">
+        <h4><i data-lucide="book-open" style="width:14px;height:14px"></i>Pembahasan (4 opsi)</h4>
+        <ul class="pmb-list" id="pmbList"></ul>
+        <div class="jawaban-final" id="jwbFinal"></div>
+      </div>
+    </section>
+
+    <!-- RIGHT: BOARD + NAV + SCORE -->
+    <aside class="board-wrap">
+      <div class="board-card">
+        <div id="board"></div>
+        <div class="board-foot">
+          <span id="boardSize">8×8 · cburnett</span>
+          <button class="flip-btn" id="flipBtn"><i data-lucide="rotate-cw" style="width:11px;height:11px"></i>Flip</button>
+        </div>
+      </div>
+      <div class="nav-card">
+        <div class="nav-row">
+          <button class="nav-btn" id="prevBtn"><i data-lucide="chevron-left" style="width:14px;height:14px"></i>Prev</button>
+          <button class="nav-btn primary" id="nextBtn">Next<i data-lucide="chevron-right" style="width:14px;height:14px"></i></button>
+        </div>
+        <div class="jump-row">
+          <label>Jump</label>
+          <input type="number" min="1" max="100" id="jumpInput" placeholder="1-100">
+          <button class="jump-btn" id="jumpBtn">Go</button>
+        </div>
+      </div>
+      <div class="score-card">
+        <div class="score-grid">
+          <div class="score-cell correct"><div class="num" id="scCorrect">0</div><div class="lbl">Benar</div></div>
+          <div class="score-cell wrong"><div class="num" id="scWrong">0</div><div class="lbl">Salah</div></div>
+          <div class="score-cell"><div class="num" id="scTotal">0</div><div class="lbl">Total</div></div>
+        </div>
+        <button class="reset-btn" id="resetBtn"><i data-lucide="refresh-cw" style="width:11px;height:11px"></i>Reset Skor</button>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<script>
+// ============ SOAL_DATA (100 soal) ============
+// Format: {n, lvl: P|K|M, pilar: tak|str|end|buk, tema, fen, giliran: w|b, konteks, opsi: [4×SAN], jwb: 0-3 (A=0..D=3), pmb: [4×reasoning]}
+const SOAL_DATA = [
+{n:1,lvl:"P",pilar:"tak",tema:"Hanging Knight",fen:"r1bqkb1r/pppp1ppp/2n2n2/4N3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4",giliran:"b",konteks:"Putih bermain Nxe5? padahal kuda c6 Hitam membela e5.",opsi:["Nxe5","d6","h6","Bb4"],jwb:0,pmb:["Tangkap kuda Putih yang menganggur di e5 — Nc6 menyerang dan tidak ada pembela.","Mengusir kuda tapi memberi Putih waktu mundur.","Tidak relevan terhadap kuda e5.","Pengembangan, tapi melepas kuda gratis."]},
+{n:2,lvl:"P",pilar:"buk",tema:"Italian Game (Move 3)",fen:"r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",giliran:"w",konteks:"1.e4 e5 2.Nf3 Nc6 — siap memilih pembukaan.",opsi:["Bc4","d4","Nc3","a3"],jwb:0,pmb:["Italian Game (3.Bc4) — gajah mengincar f7, target lemah Hitam.","Scotch Game, valid tapi pembukaan berbeda.","Four Knights / Three Knights, pasif.","Tidak mengembangkan, anti-prinsip."]},
+{n:3,lvl:"P",pilar:"tak",tema:"Back Rank Mate-in-1",fen:"6k1/5ppp/8/8/8/8/8/4R1K1 w - - 0 1",giliran:"w",konteks:"Raja Hitam terkurung bidak f7-g7-h7.",opsi:["Re8#","Kg2","Re7","Kf2"],jwb:0,pmb:["Benteng skak rank 8, raja tidak bisa lari/blok/tangkap. Mate!","Tidak menyerang.","Skak tapi Kf8 lolos.","Pasif, tidak mengancam."]},
+{n:4,lvl:"P",pilar:"end",tema:"Promosi Hindari Stalemate",fen:"8/P7/8/8/8/8/8/k6K w - - 0 1",giliran:"w",konteks:"Bidak a7, raja Hitam terjebak di a1.",opsi:["a8=Q","a8=R","a8=N","a8=B"],jwb:1,pmb:["Stalemate! Raja a1 tidak ada gerakan legal dan tidak ter-skak. Seri.","Promosi ke Benteng — tidak stalemate, mate tetap dicapai.","Kuda tidak cukup untuk mate dari sudut.","KB-K = seri (insufficient)."]},
+{n:5,lvl:"K",pilar:"tak",tema:"Capture Menteri Bebas",fen:"r3k2r/pp3ppp/2p5/8/3qN3/8/PPP2PPP/R3K2R w KQkq - 0 1",giliran:"w",konteks:"Kuda e4 dapat menangkap menteri Hitam d4.",opsi:["Nf6+","Nd6+","Nc5","Nxd4"],jwb:3,pmb:["Skak ke raja tanpa menyerang menteri d4.","Skak yang membiarkan menteri d4 hidup.","Tidak menyerang menteri.","Tangkap menteri langsung = +6 material."]},
+{n:6,lvl:"P",pilar:"str",tema:"Pengendalian Pusat",fen:"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",giliran:"w",konteks:"Posisi awal — pilih langkah pertama terbaik.",opsi:["a4","h4","e4","Nh3"],jwb:2,pmb:["Bidak sayap, tidak menguasai pusat.","Melemahkan raja, tidak menyerang pusat.","Menempati pusat + buka jalur Bf1 dan Qd1. Prinsip klasik.","Kuda ke pinggir — 'knight on the rim is dim'."]},
+{n:7,lvl:"K",pilar:"buk",tema:"Ruy Lopez (Move 3)",fen:"r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",giliran:"w",konteks:"1.e4 e5 2.Nf3 Nc6 — pembukaan paling klasik untuk Ruy Lopez.",opsi:["Bb5","Bc4","d4","Nc3"],jwb:0,pmb:["Ruy Lopez — gajah menekan pembela e5.","Italian, bukan Ruy Lopez.","Scotch Game.","Three/Four Knights."]},
+{n:8,lvl:"P",pilar:"end",tema:"Opposition Dasar (K+P vs K)",fen:"8/8/8/4k3/8/4K3/4P3/8 w - - 0 1",giliran:"w",konteks:"Mendorong bidak dengan dukungan raja.",opsi:["Kd3","Kf3","e3","e4+"],jwb:3,pmb:["Mundur, kehilangan tempo.","Mundur ke samping.","Tidak mengambil opposition.","Dorong bidak dengan skak, paksa raja Hitam mundur."]},
+{n:9,lvl:"P",pilar:"tak",tema:"Scholar's Mate Pattern",fen:"rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 e5 — mempersiapkan Scholar's Mate.",opsi:["Qh5","Nf3","Bc4","d4"],jwb:0,pmb:["Bagian Scholar's Mate (2.Qh5), mengincar Qxf7#.","Pembukaan normal, bukan Scholar's.","Italian setup.","Scotch."]},
+{n:10,lvl:"K",pilar:"str",tema:"Doubled Pawns (Ruy Lopez Exchange)",fen:"r1bqkbnr/pp1p1ppp/2p5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4",giliran:"w",konteks:"Setelah Bxc6 dxc6, Hitam doubled pawns c6/c7.",opsi:["Hitam menang karena 2 bidak sentral","Putih unggul struktur (doubled pawns c6/c7)","Posisi seri sempurna","Hitam unggul karena pasangan gajah"],jwb:1,pmb:["Salah — Hitam tidak punya 2 bidak sentral.","Doubled pawns = lemah, kurang mobile. Putih unggul struktur jangka panjang.","Tidak seri — ketidakseimbangan jelas.","Bishop pair tidak cukup kompensasi."]},
+{n:11,lvl:"P",pilar:"buk",tema:"Queen's Gambit (Move 2)",fen:"rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.d4 d5 — pilih pembukaan utama Putih.",opsi:["c4","Nf3","Bf4","e3"],jwb:0,pmb:["Queen's Gambit — menawarkan bidak c untuk mengalihkan d5.","Pengembangan biasa.","London System.","Pasif."]},
+{n:12,lvl:"P",pilar:"tak",tema:"Pin Relatif dengan Bg4",fen:"rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",giliran:"b",konteks:"1.e4 e5 2.Nf3 — Hitam pasang pin ke kuda f3.",opsi:["Bg4","Nc6","Nf6","d6"],jwb:0,pmb:["Bg4 pin kuda f3 ke menteri d1 (pin relatif).","Pengembangan biasa.","Pengembangan kuda.","Bidak pusat."]},
+{n:13,lvl:"K",pilar:"end",tema:"Lucena's Bridge",fen:"1K1k4/1P6/8/8/8/8/r7/2R5 w - - 0 1",giliran:"w",konteks:"Lucena Position — teknik 'building a bridge'.",opsi:["Rc4","Kc8","b8=Q+","Rc7"],jwb:0,pmb:["Bangun jembatan: benteng ke rank 4 untuk lindungi raja.","Ra8+ skak ulang.","Rxb8+ tukar = endgame seri.","Tidak menyiapkan jembatan."]},
+{n:14,lvl:"P",pilar:"tak",tema:"Counting Material",fen:"r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 3",giliran:"b",konteks:"Hitung material kedua pihak setelah 3.d3.",opsi:["Putih +1 bidak","Hitam +1 kuda","Material seimbang","Putih +1 gajah"],jwb:2,pmb:["Bidak sama jumlah 8 vs 8.","Kuda sama jumlah.","Benar — semua buah masih ada di kedua pihak (40 poin masing-masing).","Gajah sama."]},
+{n:15,lvl:"K",pilar:"tak",tema:"Pola Mate dengan Knight",fen:"6rk/5Npp/8/8/8/8/8/7K w - - 0 1",giliran:"w",konteks:"Kuda f7 + raja Hitam h8 = setup untuk pola mate dengan kuda.",opsi:["Nh6","Nxg7","Ng5","Nd6"],jwb:3,pmb:["Tidak mate, Kxh6 lolos (tanpa pembela).","Kxg7 lolos.","Hilang dari serangan.","Serangan ke benteng g8 + lanjut tekan; tidak mate-in-1 tapi paling produktif."]},
+{n:16,lvl:"P",pilar:"buk",tema:"Scandinavian Defense (Identifikasi)",fen:"rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 d5 — pembukaan Hitam ini disebut?",opsi:["Scandinavian","Caro-Kann","French","Sicilian"],jwb:0,pmb:["Scandinavian (Center Counter) — d5 langsung di move 1.","Caro-Kann mulai 1.e4 c6.","French mulai 1.e4 e6.","Sicilian mulai 1.e4 c5."]},
+{n:17,lvl:"P",pilar:"tak",tema:"Mengenali Check",fen:"4k3/8/8/8/8/8/8/4R3 b - - 0 1",giliran:"b",konteks:"Benteng e1, raja Hitam e8 di file yang sama.",opsi:["Skak (check)","Mate","Stalemate","Aman"],jwb:0,pmb:["Benar — benteng e1 menyerang raja e8 lewat file e terbuka.","Bukan mate, raja bisa pindah ke d7/d8/f7/f8.","Bukan stalemate, raja sedang terancam.","Salah, jelas terancam."]},
+{n:18,lvl:"K",pilar:"str",tema:"Half-Open File untuk Rook",fen:"r1bqk2r/pp1n1ppp/2pbpn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 8",giliran:"w",konteks:"QGD-like — Putih cari aktivitas file c.",opsi:["Rc1","Nh4","a3","g4"],jwb:0,pmb:["Setup benteng ke file c half-open — tekanan ke c6.","Mundur ke pinggir.","Tidak menyerang.","Melemahkan raja sendiri."]},
+{n:19,lvl:"P",pilar:"tak",tema:"Fool's Mate",fen:"rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3",giliran:"w",konteks:"1.f3?? e5 2.g4?? Qh4# — Fool's Mate.",opsi:["Kf2","g3","Mate","Qe2"],jwb:2,pmb:["Tidak legal, raja masih ter-skak via diagonal.","Tidak legal, bidak g sudah di g4.","Benar — Fool's Mate. Tidak ada cara blok/tangkap menteri h4.","Tidak menutup diagonal h4-e1."]},
+{n:20,lvl:"K",pilar:"buk",tema:"Sicilian Najdorf (...a6)",fen:"rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",giliran:"w",konteks:"1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 — Najdorf.",opsi:["Cegah Nb5 + siapkan ...b5","Serang gajah Putih","Persiapan O-O cepat","Maju ke a5"],jwb:0,pmb:["Benar — a6 karakteristik Najdorf.","Tidak ada gajah Putih yang diancam.","Castling tidak butuh a6.","a5 ide pembukaan berbeda."]},
+{n:21,lvl:"M",pilar:"tak",tema:"Greek Gift Pattern",fen:"r1bqk2r/ppp1bppp/2n2n2/3p4/3P4/2N1PN2/PPP1BPPP/R1BQK2R w KQkq - 0 1",giliran:"w",konteks:"Identifikasi pola Greek Gift Sacrifice.",opsi:["Bxh7+ lalu Ng5+ setelah Kxh7","Qxd5 ambil bidak","O-O-O castling","Nxe5 tangkap"],jwb:0,pmb:["Greek Gift klasik: Bxh7+ Kxh7 Ng5+ Kg8 Qh5 → mate atau material.","Tangkap bidak biasa.","Castling tidak relevan tema.","Tangkapan biasa."]},
+{n:22,lvl:"P",pilar:"end",tema:"Mate K+Q vs K",fen:"4k3/8/4K3/8/8/8/8/3Q4 w - - 0 1",giliran:"w",konteks:"Mate-in-1 dengan K+Q vs K.",opsi:["Qd8#","Qe2","Kd6","Qh5"],jwb:0,pmb:["Mate! Raja Hitam tidak ada petak escape (raja Putih e6 menutup d7/e7/f7).","Tidak menyerang.","Tidak mate.","Tidak mate."]},
+{n:23,lvl:"K",pilar:"tak",tema:"Definisi Discovered Check",fen:"r1bqkbnr/pppp1Bpp/2n5/4p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 0 4",giliran:"b",konteks:"Konsep discovered check.",opsi:["Skak langsung","Buka buah di belakang yang skak","Skak dua kali","Memenangkan menteri"],jwb:1,pmb:["Itu skak biasa.","Benar — pindahkan buah penutup → buah long-range di belakang skak raja.","Itu double check (kasus khusus).","Itu fork/double attack."]},
+{n:24,lvl:"P",pilar:"str",tema:"Pengembangan Efisien",fen:"rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"Setelah 1.e4 e5 — kembangkan dengan efisien.",opsi:["Qh5","Nf3","a3","Ke2"],jwb:1,pmb:["Menteri keluar terlalu awal, mudah diserang.","Kuda ke petak aktif — kontrol e5, d4, g5, h4. Prinsip klasik.","Bukan pengembangan.","Raja tidak aman."]},
+{n:25,lvl:"K",pilar:"end",tema:"Philidor's Position",fen:"4k3/R7/4K3/4P3/8/8/8/5r2 b - - 0 1",giliran:"b",konteks:"R+P vs R — pertahanan Philidor (3rd rank defense).",opsi:["Rf6","Kf8","Rxa7","Rf2+"],jwb:0,pmb:["Pertahanan Philidor — benteng di rank 6 (rank 3 dari sudut Hitam).","Pasif, Putih konsolidasi.","Tukar benteng = endgame menang Putih.","Skak tunggal tidak cukup."]},
+{n:26,lvl:"P",pilar:"buk",tema:"Caro-Kann Defense",fen:"rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 c6 — apa ide utama Hitam?",opsi:["Siapkan ...d5 dengan dukungan c6","Serang e4 langsung","Buka diagonal Bc8","Mengembangkan kuda"],jwb:0,pmb:["Benar — Caro-Kann: c6 siapkan d5 di move 2.","c6 tidak menyerang e4.","Justru tidak terkunci seperti French.","Kuda belum keluar."]},
+{n:27,lvl:"P",pilar:"tak",tema:"Skewer ke Menteri",fen:"8/8/8/8/3k4/8/3q4/3K3R w - - 0 1",giliran:"w",konteks:"File d: raja Hitam d4, menteri Hitam d2, raja Putih d1.",opsi:["Rh4+","Rd1+","Kxd2","Rxh7"],jwb:1,pmb:["File beda, bukan skak.","Skak file d, raja wajib pindah, lalu Rxd2 menang menteri.","Tidak legal, raja-raja berdekatan.","Tidak relevan."]},
+{n:28,lvl:"K",pilar:"buk",tema:"King's Indian Defense",fen:"rnbqkb1r/pppppp1p/5np1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3",giliran:"w",konteks:"Black setup fianchetto g6+Bg7 = KID.",opsi:["Hitam ...d5 simetris","Hitam fianchetto + serang kingside ...f5","Hitam tukar pusat","Hitam ...c5 Sicilian-style"],jwb:1,pmb:["Itu Grunfeld, bukan KID.","Benar — KID khas: Bg7, ...d6 ...e5 ...f5 serangan king.","Bukan, biarkan ketegangan.","Benoni, bukan KID."]},
+{n:29,lvl:"P",pilar:"tak",tema:"Kembangkan dengan Tempo",fen:"rnb1kbnr/pppp1ppp/8/4p3/3P3q/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3",giliran:"w",konteks:"Menteri Hitam keluar awal ke h4.",opsi:["dxe5","Nf3","g3","Qe2"],jwb:1,pmb:["Tukar tapi tidak unggul jelas.","Mengembangkan + serang menteri = tempo. Hitam wajib pindah.","Mengusir tapi lemahkan diagonal raja.","Tidak menyerang."]},
+{n:30,lvl:"K",pilar:"tak",tema:"Removing the Defender",fen:"r1b1k2r/pppp1ppp/2n5/4P3/1bB5/2N5/PP3PPP/R1BQK2R w KQkq - 0 1",giliran:"w",konteks:"Bxc6+ menghilangkan pembela kuncinya.",opsi:["Bxc6+","O-O","a3","e6"],jwb:0,pmb:["Tangkap pembela. Struktur Hitam rusak setelah bxc6.","Aman tapi tidak aktif.","Usir gajah tapi tidak menang material.","Bidak terlalu maju tanpa dukungan."]},
+{n:31,lvl:"P",pilar:"str",tema:"Kuasai Petak Lemah Lawan",fen:"rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",giliran:"w",konteks:"Hitam ...c5 + ...e5 = petak d5 lemah permanent.",opsi:["Bc4 + setup ke d5","f4 pusat dorong","Nh3 kuda pinggir","a3 bidak pinggir"],jwb:0,pmb:["Tekan f7 + persiapan kuda ke d5 outpost.","Agresif tapi lemahkan raja.","Anti-prinsip.","Tidak relevan."]},
+{n:32,lvl:"P",pilar:"buk",tema:"Pirc Defense",fen:"rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 d6 — pembukaan Hitam.",opsi:["Pirc","Modern","Caro-Kann","French"],jwb:0,pmb:["Benar — Pirc ditandai 1.e4 d6 lalu ...Nf6 ...g6 ...Bg7.","Modern mulai dengan ...g6.","Caro-Kann mulai dengan ...c6.","French mulai dengan ...e6."]},
+{n:33,lvl:"K",pilar:"end",tema:"Active Rook in Endgame",fen:"r5k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1",giliran:"w",konteks:"R vs R, material seimbang. Cari plan.",opsi:["Rd8+ tukar → seri","Rd5 aktifkan benteng","f3 pasif","Kf1 pasif"],jwb:1,pmb:["Tukar = endgame K+3P vs K+3P seri.","Aktivitas benteng menang jangka panjang.","Tidak buruk tapi pasif.","Pasif."]},
+{n:34,lvl:"P",pilar:"tak",tema:"Pawn Promotion Race",fen:"8/4P3/8/8/8/k7/p7/7K w - - 0 1",giliran:"w",konteks:"Race promosi — keduanya 1 langkah dari promo.",opsi:["Seri material","Putih e8=Q lalu Qa4+ menang Q","Hitam menang","Seri"],jwb:1,pmb:["Bukan otomatis seri, Putih punya tempo.","Promosi dulu → Qa4+ skak menteri Hitam → Qxa1 menang.","Salah.","Salah."]},
+{n:35,lvl:"M",pilar:"str",tema:"Nilai Bishop Pair",fen:"r1bqk2r/ppp1bppp/2n2n2/3p4/3P4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 1",giliran:"w",konteks:"Evaluasi nilai bishop pair di engine modern.",opsi:["Tidak punya nilai tetap","≈ +0.5 pawn-unit","Selalu lebih lemah dari knight pair","Hanya berguna di endgame"],jwb:1,pmb:["Salah, ada konsensus.","Benar — Kaufman (1999): bishop pair ≈ +0.5.","Sebaliknya — bishop pair lebih kuat di posisi terbuka.","Berguna juga di middlegame."]},
+{n:36,lvl:"P",pilar:"buk",tema:"Slav Defense",fen:"rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",giliran:"w",konteks:"1.d4 d5 2.c4 c6 — keunggulan vs QGD?",opsi:["Hitam langsung tukar d5","Gajah c8 tidak terkurung","...g6 cepat","Tidak ada beda"],jwb:1,pmb:["Tidak otomatis tukar.","Benar — c6 (bukan e6) biarkan gajah c8 keluar via f5/g4.","Bukan ide utama.","Jelas beda."]},
+{n:37,lvl:"P",pilar:"tak",tema:"Serang Menteri Keluar Awal",fen:"rnb1kbnr/ppp1pppp/8/3p4/3P2q1/2N5/PPP1PPPP/R1BQKBNR w KQkq - 1 3",giliran:"w",konteks:"Menteri Hitam keluar ke g4.",opsi:["f3 — serang menteri","Nxd5 — tangkap bidak","Qd3 — pasif","e3 — pasif"],jwb:0,pmb:["Serang menteri → Hitam wajib mundur → Putih dapat tempo.","Salah — Qxd1+ tangkap menteri.","Tidak menyerang.","Pengembangan pasif."]},
+{n:38,lvl:"K",pilar:"end",tema:"Triangulation",fen:"8/8/4k3/8/4P3/4K3/8/8 w - - 0 1",giliran:"w",konteks:"K+P vs K — teknik untuk menang.",opsi:["Triangulation","Dorong bidak tanpa raja","Tukar buah","Tidak bisa menang"],jwb:0,pmb:["Benar — buat segitiga 3-petak untuk paksa zugzwang.","Bidak ditangkap tanpa dukungan.","Tidak ada yang ditukar.","Salah, menang dengan teknik."]},
+{n:39,lvl:"P",pilar:"str",tema:"Castling Cepat",fen:"r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",giliran:"w",konteks:"Italian — prudent vs agresif.",opsi:["O-O cepat","Ng5 Fried Liver","d4","Qe2"],jwb:0,pmb:["Prinsip pembukaan klasik: castling cepat.","Tajam di blitz, tidak optimal di klasik.","Center expansion, OK tapi castling dulu.","O-O-O lambat."]},
+{n:40,lvl:"M",pilar:"tak",tema:"Anastasia's Mate Pattern",fen:"7k/6pp/8/4N3/8/8/8/4R2K w - - 0 1",giliran:"w",konteks:"Pola Anastasia: kuda + benteng + raja di tepi.",opsi:["Nf6+ Kg8 Re8#","Re8+ Kxe8 buang","Nxg7 Kxg7","Nf6+ ... Nh6+"],jwb:0,pmb:["Pola kombinasi N+R untuk mate-in-2 (varian Anastasia/back rank).","Buang benteng tanpa hasil.","Tidak mate.","Salah, tidak ada menteri."]},
+{n:41,lvl:"P",pilar:"tak",tema:"Tangkap Menteri Lawan",fen:"rnb1kbnr/ppp1pppp/8/8/8/4q3/PPPP1PPP/RNBQKBNR w KQkq - 0 1",giliran:"w",konteks:"Menteri Hitam di e3 — tidak dibela.",opsi:["fxe3","Qe2","Nf3","Bxe3"],jwb:0,pmb:["Tangkap menteri dengan bidak — Hitam kehilangan menteri (-9).","Tidak menangkap menteri yang hanging.","Pengembangan tapi lewatkan menteri gratis.","Bxe3 tidak legal, gajah c1 terhalang bidak d2."]},
+{n:42,lvl:"K",pilar:"buk",tema:"Nimzo-Indian Defense",fen:"rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 1",giliran:"w",konteks:"1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 — Nimzo-Indian.",opsi:["Pin kuda c3 + gertak struktur","Memaksa Putih tukar gajah","Cepat ke endgame","Persiapan O-O-O"],jwb:0,pmb:["Benar — Bb4 pin kuda c3, gertak Bxc3+ bxc3 rusak struktur.","Tidak otomatis tukar.","Tidak relevan.","Hitam castle kingside di Nimzo."]},
+{n:43,lvl:"P",pilar:"end",tema:"Mate K+R vs K",fen:"4k3/8/4K3/8/8/8/8/4R3 w - - 0 1",giliran:"w",konteks:"K+R vs K — mate-in-1.",opsi:["Re8#","Kd6","Ra1","Kf6"],jwb:0,pmb:["Mate! Raja Putih e6 menutup d7/e7/f7, raja Hitam tidak ada escape.","Tidak skak.","Tidak skak.","Tidak skak."]},
+{n:44,lvl:"M",pilar:"str",tema:"Knight Outpost",fen:"r1bq1rk1/pp3ppp/2n1pn2/2bp4/3P4/2N1PN2/PP1B1PPP/R2QKB1R w KQ - 0 1",giliran:"w",konteks:"QGD — cari outpost untuk kuda Putih.",opsi:["e5 (pusat, tidak ada bidak Hitam bela)","g5 agresif","a4 pinggir","h3 pinggir"],jwb:0,pmb:["Outpost sejati — Hitam tidak punya d6/f6 untuk usir.","Diserang ...h6.","Pinggir.","Pinggir."]},
+{n:45,lvl:"P",pilar:"buk",tema:"Bird's Opening",fen:"rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1",giliran:"b",konteks:"1.f4 — pembukaan ini disebut?",opsi:["Bird's","King's Indian Attack","Reti","Larsen's"],jwb:0,pmb:["Benar — 1.f4 = Bird's Opening.","KIA pakai 1.Nf3 dulu.","Reti = 1.Nf3.","Larsen = 1.b3."]},
+{n:46,lvl:"K",pilar:"tak",tema:"Zwischenzug (In-Between Move)",fen:"r2qk2r/pp3ppp/2n1bn2/8/1bBpP3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 0 1",giliran:"w",konteks:"Bidak d4 ancam kuda c3 — cari in-between move.",opsi:["Nxd4 langsung","Nb5! zwischenzug serang menteri d8","axb4 tukar gajah","Bxe6 tangkap"],jwb:1,pmb:["Tukar standar tanpa gain.","Zwischenzug — serang menteri sebelum jawab d4, dapat tempo ganda.","Lupa serangan d4.","Spekulatif."]},
+{n:47,lvl:"P",pilar:"str",tema:"Connected Passed Pawns",fen:"8/8/8/2PP4/8/8/8/8 w - - 0 1",giliran:"w",konteks:"Bidak c5+d5 connected (di rank yang sama).",opsi:["Saling melindungi saat maju","Tidak punya nilai khusus","Lebih lemah dari isolated","Hanya pembukaan"],jwb:0,pmb:["Benar — Capablanca: 2 connected passers di rank 6 menang vs benteng.","Sangat penting.","Sebaliknya.","Berguna terutama endgame."]},
+{n:48,lvl:"P",pilar:"tak",tema:"Identifikasi Penyerang",fen:"r1bqkb1r/pppp1ppp/2n2n2/4N3/8/8/PPPP1PPP/RNBQKB1R b KQkq - 0 1",giliran:"b",konteks:"Hitung penyerang ke kuda e5 Putih.",opsi:["1 (Nc6)","2 (Nc6 + Nf6)","0","3"],jwb:0,pmb:["Benar — hanya Nc6 yang menyerang e5; Nf6 jangkau e4/e8/d5/d7/g4/g8/h5/h7.","Salah — Nf6 tidak jangkau e5.","Salah.","Salah."]},
+{n:49,lvl:"K",pilar:"buk",tema:"Catalan Opening",fen:"rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3",giliran:"b",konteks:"1.d4 Nf6 2.c4 e6 3.g3 — Catalan.",opsi:["Fianchetto Bg2 tekan diagonal a8-h1","Persiapan Nh3","Mengembangkan ke Nh3-f4","Pelemahan kingside"],jwb:0,pmb:["Benar — Catalan: gajah ke g2 tekan diagonal panjang.","Bukan tujuan utama.","Salah.","Tidak melemah jika castling cepat."]},
+{n:50,lvl:"P",pilar:"tak",tema:"Tangkapan Gratis Bidak",fen:"rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 f5? — Duras Gambit buruk.",opsi:["exf5 tangkap","d4","Nf3","Bc4"],jwb:0,pmb:["Tangkap bidak gratis. Struktur Hitam f-file lemah.","Tidak menangkap gratis = kehilangan kesempatan.","Sama.","Sama."]},
+{n:51,lvl:"K",pilar:"str",tema:"Hanging Pawns",fen:"r1bq1rk1/pp3ppp/2nbpn2/8/2pP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 0 1",giliran:"w",konteks:"Konsep hanging pawns (2 bidak adjacent tanpa support).",opsi:["Bidak akan jatuh","Tidak ada bidak bisa bela mereka","Selalu kuat","Pasif"],jwb:1,pmb:["Kiasan saja.","Benar — tidak ada bidak adjacent untuk bela. Dinamis kuat, statis lemah.","Tidak akurat.","Bisa dinamis kuat."]},
+{n:52,lvl:"P",pilar:"buk",tema:"English Opening",fen:"rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1",giliran:"b",konteks:"1.c4 — pembukaan flank klasik.",opsi:["English","Reti","Queen's Gambit","Bird's"],jwb:0,pmb:["Benar — 1.c4 = English Opening.","Reti = 1.Nf3.","QG = 1.d4 d5 2.c4.","Bird's = 1.f4."]},
+{n:53,lvl:"P",pilar:"tak",tema:"Pin Mutlak vs Relatif",fen:"rnbqkb1r/ppp2ppp/3p1n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 1 4",giliran:"w",konteks:"Konsep pin relatif (bukan ke raja).",opsi:["Buah wajib tetap (illegal pindah)","Boleh tukar tapi tidak optimal","Posisi seri","Putih kalah"],jwb:1,pmb:["Itu pin mutlak.","Benar — pin relatif tidak melarang gerakan, hanya tidak optimal.","Tidak relevan.","Tidak relevan."]},
+{n:54,lvl:"M",pilar:"tak",tema:"Combination dengan Sacrifice",fen:"r1bq1rk1/ppp2ppp/2n2n2/2bpp3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w - - 0 1",giliran:"w",konteks:"Italian Game advanced — d5 dari Hitam.",opsi:["exd5 standar","Bxd5 dengan gajah","Nxe5 sacrifice","d4 lambat"],jwb:0,pmb:["Tangkap, aman, posisi standar.","Aman tapi tidak unggul jelas.","Sacrifice spekulatif (Nxe5 dxe5 d5).","Lambat."]},
+{n:55,lvl:"K",pilar:"end",tema:"Bishop vs Knight (Open Position)",fen:"8/5kpp/8/8/3B4/8/PPP2PPP/3K4 w - - 0 1",giliran:"w",konteks:"Endgame terbuka — bishop vs knight.",opsi:["Bishop > Knight (diagonal panjang)","Knight > Bishop (warna apa saja)","Tergantung struktur","Selalu sama"],jwb:0,pmb:["Benar — posisi terbuka favor bishop.","Knight unggul di posisi tertutup.","Juga benar tapi default terbuka.","Salah."]},
+{n:56,lvl:"P",pilar:"buk",tema:"Scandinavian Main Line",fen:"rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",giliran:"w",konteks:"1.e4 d5 2.exd5 Qxd5 — Scandinavian.",opsi:["Nc3 + serang menteri","d4 pusat","Nf3 kembang","Bd3 kembang"],jwb:0,pmb:["Benar — kembangkan kuda + serang menteri = tempo.","Pusat tapi tidak serang menteri.","Kembang tapi tidak ke menteri.","Pasif."]},
+{n:57,lvl:"K",pilar:"tak",tema:"Tukar Benteng di Endgame",fen:"4r1k1/1pp2ppp/p1n5/8/8/2N5/PPP2PPP/4R1K1 w - - 0 1",giliran:"w",konteks:"R+N vs R+N — pilih plan.",opsi:["Rxe8+ Nxe8 → Nd5","Rxe8 buang","Nb5 manuver","Nxa6 capture pawn"],jwb:0,pmb:["Tukar benteng simpel + kontrol petak.","Buang benteng tanpa skak follow-up.","Manuver tanpa tema.","Capture tapi tidak optimal."]},
+{n:58,lvl:"P",pilar:"tak",tema:"Skewer Pemahaman",fen:"8/8/8/8/8/3k4/3q4/3K3R w - - 0 1",giliran:"w",konteks:"File d: raja Hitam, menteri Hitam, raja Putih.",opsi:["Rh3+","Kxd2","Rd1 skak","Posisi tidak menang Putih"],jwb:3,pmb:["Tidak skak ke raja file d.","Tidak legal — raja-raja berdekatan.","Tidak bisa karena raja sendiri menutup file.","Benar — Putih menteri-skak, Putih harus pindah, Hitam menang material."]},
+{n:59,lvl:"K",pilar:"str",tema:"Color Complex Weakness",fen:"r1bq1rk1/pp2bppp/2nppn2/4p3/2B1P3/3P1N1P/PPP2PP1/RNBQ1RK1 w - - 0 1",giliran:"w",konteks:"Bidak Hitam + gajah di petak gelap.",opsi:["Hitam kuat di petak terang","Hitam lemah di petak terang","Seimbang","Hitam kuat di petak gelap"],jwb:1,pmb:["Salah — gajah terang Hitam tidak efektif.","Benar — petak terang Hitam jadi lubang strategis (kuda f5/d5 outpost).","Tidak seimbang.","Salah."]},
+{n:60,lvl:"P",pilar:"tak",tema:"Discovered Attack Setup",fen:"r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 1",giliran:"w",konteks:"Kuda c3 menutupi gajah c1 — potensi discovered.",opsi:["Pindah Nc3 sambil buka gajah","Tukar gajah","Castling","Bidak maju"],jwb:0,pmb:["Benar — kuda c3 = buah penutup. Mis. Nd5 buka diagonal gajah.","Tidak discovered.","Tidak.","Tidak."]},
+{n:61,lvl:"K",pilar:"end",tema:"Bishop in Endgame (Both Sides)",fen:"8/4kppp/8/8/3P4/3N4/3B1PPP/4K3 w - - 0 1",giliran:"w",konteks:"Endgame dengan bidak di kedua sayap.",opsi:["Bishop > Knight","Knight > Bishop","Sama","Bishop lemah"],jwb:0,pmb:["Benar — diagonal panjang bishop bisa bela kedua sayap.","Knight lambat pindah sayap.","Salah.","Salah."]},
+{n:62,lvl:"P",pilar:"buk",tema:"Vienna Game",fen:"rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2",giliran:"b",konteks:"1.e4 e5 2.Nc3 — Vienna Game.",opsi:["Persiapan f4 (Vienna Gambit) sambil dukung e4","Castling cepat","Cegah ...d5","Pengembangan biasa"],jwb:0,pmb:["Benar — Vienna siap f4 King's-Gambit-like.","Tidak terkait Nc3.","Tidak otomatis.","Vienna tidak biasa."]},
+{n:63,lvl:"P",pilar:"end",tema:"K+Q vs K Maksimal Langkah",fen:"8/8/8/8/3k4/8/3Q4/3K4 w - - 0 1",giliran:"w",konteks:"Endgame K+Q vs K — efisiensi mate.",opsi:["5","10","15","50"],jwb:1,pmb:["Terlalu cepat dari posisi paling buruk.","Benar — maksimal 10 langkah dengan teknik benar.","Terlalu lama, ada 50-move rule.","Terlalu lama."]},
+{n:64,lvl:"P",pilar:"str",tema:"Rooks on the 7th Rank",fen:"4k3/1R3ppp/8/8/8/8/5PPP/4K3 w - - 0 1",giliran:"w",konteks:"Tarrasch's principle.",opsi:["Serang bidak rank 7 + batasi raja ke rank 8","Tidak signifikan","Hanya rank 8 yang kuat","Lemah"],jwb:0,pmb:["Benar — 'Rook on 7th = +1 pawn' aksiom Tarrasch.","Salah.","Salah.","Salah."]},
+{n:65,lvl:"K",pilar:"tak",tema:"Knight Activation",fen:"r1bqkb1r/ppp2ppp/3p1n2/3Pp3/8/8/PPPN1PPP/R1BQKBNR w KQkq - 0 1",giliran:"w",konteks:"Bidak d5 Putih + kuda d2.",opsi:["d6 push","Nc4 kembang","dxe6 capture (illegal)","Nb3"],jwb:1,pmb:["Push tapi tidak fork.","Kembangkan kuda dari d2 ke c4 (aktif).","Tidak legal, e6 kosong.","Pengembangan."]},
+{n:66,lvl:"P",pilar:"buk",tema:"London System",fen:"rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2",giliran:"b",konteks:"1.d4 d5 2.Bf4 — London System.",opsi:["Setup system Bf4 + e3 + Nf3 + c3","Gambit agresif","Pertahanan Hitam","Pembukaan rare"],jwb:0,pmb:["Benar — London = system, fleksibel, populer GM era modern.","Bukan gambit.","Untuk Putih.","Justru sangat populer."]},
+{n:67,lvl:"P",pilar:"tak",tema:"Royal Fork",fen:"4r1k1/5ppp/8/3N4/8/8/5PPP/6K1 w - - 0 1",giliran:"w",konteks:"Kuda d5 — cari fork.",opsi:["Nf6+ fork raja + benteng","Nb6","Ne7+ tapi raja tangkap","Nc7"],jwb:0,pmb:["Benar — Nf6+ menyerang raja g8 DAN benteng e8 = royal fork.","Tidak skak.","Skak tapi raja Rxe7.","Tidak skak."]},
+{n:68,lvl:"K",pilar:"str",tema:"Open vs Closed Position",fen:"r1bq1rk1/ppp2ppp/2nbpn2/3p4/3P4/2NBPN2/PPP2PPP/R1BQ1RK1 w - - 0 1",giliran:"w",konteks:"Pusat tertutup, banyak bidak.",opsi:["Knight (manuver outpost)","Bishop (diagonal panjang)","Tukar semua","Tidak ada keunggulan"],jwb:0,pmb:["Benar — closed favors knight (lompat lewat bidak).","Diagonal terhalang.","Salah.","Ada keunggulan."]},
+{n:69,lvl:"P",pilar:"tak",tema:"Capture in Center",fen:"rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2",giliran:"b",konteks:"1.e4 e5 2.d4 — capture pusat.",opsi:["exd4 tangkap bidak","f5 agresif sayap","h6 pinggir","a6 pinggir"],jwb:0,pmb:["Tangkap bidak pusat = prinsip Pemula.","Tidak mengembangkan.","Tidak.","Tidak."]},
+{n:70,lvl:"M",pilar:"buk",tema:"Berlin Defense (Kramnik vs Kasparov 2000)",fen:"r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",giliran:"w",konteks:"3.Bb5 Nf6 = Berlin Defense.",opsi:["Kramnik vs Kasparov 2000","Karpov-Kasparov 1985","Fischer-Spassky 1972","Anand-Carlsen 2014"],jwb:0,pmb:["Benar — Kramnik pakai Berlin secara konsisten WC 2000, rebut gelar.","Tidak terkait Berlin signature.","Tidak.","Tidak."]},
+{n:71,lvl:"P",pilar:"tak",tema:"Capture vs Develop",fen:"rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2",giliran:"b",konteks:"London setup — banyak opsi valid.",opsi:["c5 counter pusat","Bf5 symmetric","Nc6 kembang","Semua valid"],jwb:3,pmb:["Tantangan pusat OK.","Symmetric London OK.","Pengembangan OK.","Benar — semua valid; pembukaan banyak transposisi."]},
+{n:72,lvl:"K",pilar:"end",tema:"Wrong Color Bishop",fen:"8/8/8/8/8/k1K5/P7/2B5 w - - 0 1",giliran:"w",konteks:"KBP-K dengan rook pawn + bishop warna salah.",opsi:["Menang Putih","Seri kalau raja Hitam capai promo square","Tergantung","Hitam menang"],jwb:1,pmb:["Salah — wrong color bishop.","Benar — Hitam tinggal duduk di sudut promo = seri.","Tidak.","Tidak."]},
+{n:73,lvl:"P",pilar:"buk",tema:"Reti Opening",fen:"rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",giliran:"b",konteks:"1.Nf3 — pembukaan flank Putih.",opsi:["Reti","King's Indian Attack","English","Pirc"],jwb:0,pmb:["Benar — 1.Nf3 = Reti Opening (Zukertort).","KIA sistem lanjutan setelah Nf3.","English = 1.c4.","Pirc untuk Hitam."]},
+{n:74,lvl:"P",pilar:"tak",tema:"Pin Mutlak ke Raja",fen:"rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 0 3",giliran:"b",konteks:"Pasang pin ke kuda c3 Putih.",opsi:["Bb4 pin ke raja e1","Bd7","Nc6","exd4"],jwb:0,pmb:["Pin mutlak — gajah b4 → kuda c3 → raja e1 diagonal.","Tidak pin.","Tidak pin.","Tukar."]},
+{n:75,lvl:"M",pilar:"end",tema:"Triangulation Lanjutan",fen:"8/8/8/3kpK2/4P3/8/8/8 w - - 0 1",giliran:"w",konteks:"K+P vs K+P kritis.",opsi:["Tidak bisa menang","Triangulation Kg4-Kd6-Kf5","Push bidak e5","Tukar bidak"],jwb:1,pmb:["Bisa menang dengan teknik.","Benar — triangulation untuk paksa zugzwang.","Bidak ditangkap.","Tidak bisa tukar."]},
+{n:76,lvl:"P",pilar:"tak",tema:"Pawn Capture Geometry",fen:"rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2",giliran:"w",konteks:"1.e4 c5 — bisakah exc5?",opsi:["Tidak, e4 tidak menyerang c5","Bisa en passant","Bisa langsung","Hanya jika dibela"],jwb:0,pmb:["Benar — bidak e4 hanya serang d5 dan f5 diagonal.","Tidak en passant — bukan rank 5 dengan bidak adjacent.","Tidak.","Tidak."]},
+{n:77,lvl:"K",pilar:"tak",tema:"Capture Hanging Queen",fen:"r4rk1/ppp2ppp/8/3qp3/8/2NPP3/PP3PPP/R1BQ1RK1 w - - 0 1",giliran:"w",konteks:"Menteri Hitam d5 — bisa di-capture.",opsi:["Nxd5 langsung","Be3","Qa4","f4"],jwb:0,pmb:["Tangkap menteri = +6 material.","Pengembangan.","Counter-pressure.","Agresif."]},
+{n:78,lvl:"P",pilar:"buk",tema:"Sicilian Dragon",fen:"rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",giliran:"w",konteks:"1.e4 c5 ... 5...g6 = Dragon.",opsi:["Fianchetto Bg7 + serangan diagonal panjang","Solid simetris","Castle queenside cepat","Tidak castle"],jwb:0,pmb:["Benar — Bg7 fianchetto, kontrol a1-h8.","Bukan karakter Dragon.","Tidak.","Tidak."]},
+{n:79,lvl:"P",pilar:"str",tema:"Aturan Castling",fen:"r3k2r/8/8/8/8/8/8/R3K2R w KQkq - 0 1",giliran:"w",konteks:"Aturan castling FIDE.",opsi:["Raja & benteng tidak gerak, tidak lewati petak diserang","Hanya awal permainan","Boleh kapan saja","Hanya O-O"],jwb:0,pmb:["Benar — 5 syarat castling FIDE.","Salah.","Salah.","Salah."]},
+{n:80,lvl:"K",pilar:"tak",tema:"Sacrifice Reasons",fen:"r1bqk2r/pppp1ppp/2n2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 1",giliran:"b",konteks:"Mengapa sacrifice — mana yang BUKAN sebab?",opsi:["Inisiatif & serangan ke raja","Positional sacrifice","Tukar untuk seri material","Buka file/diagonal"],jwb:2,pmb:["Sebab klasik (Tal, Morphy).","Petrosian-style.","BUKAN sebab — sacrifice memberi material, tidak mengurangi.","Sebab valid."]},
+{n:81,lvl:"P",pilar:"end",tema:"Insufficient Material",fen:"8/8/8/4k3/8/4K3/8/8 w - - 0 1",giliran:"w",konteks:"K vs K — hasil otomatis?",opsi:["Seri (insufficient material)","Putih menang","Hitam menang","Tidak tentu"],jwb:0,pmb:["Benar — K vs K = insufficient. K-K, K-K+N, K-K+B otomatis seri.","Salah.","Salah.","Tentu."]},
+{n:82,lvl:"M",pilar:"buk",tema:"Petroff Defense",fen:"rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",giliran:"w",konteks:"1.e4 e5 2.Nf3 Nf6 = Petroff.",opsi:["Kontra-serang simetri (tidak bela e5, serang e4)","Tukar cepat ke seri","Pertahanan agresif","Klasik dengan ...Nc6"],jwb:0,pmb:["Benar — Petroff simetri serang e4.","Sering seri tapi bukan filosofi inti.","Tenang.","Bukan ini."]},
+{n:83,lvl:"K",pilar:"tak",tema:"Doubling Rooks on File",fen:"r4rk1/pp3ppp/2n5/3qp3/8/8/PPP2PPP/3R1RK1 w - - 0 1",giliran:"w",konteks:"Q+R Hitam vs R+R Putih di file d.",opsi:["Rxd5 capture spekulatif","Rd2 pasif","Rd3 lambat","Rfd1 gandakan benteng"],jwb:3,pmb:["Tukar R untuk Q? Tergantung kuda c6 pembela.","Pasif.","Lambat.","Benar — gandakan benteng = tekanan ganda → menang material jangka panjang."]},
+{n:84,lvl:"P",pilar:"tak",tema:"Mate dengan Queen + King",fen:"6k1/5Qpp/8/8/8/8/8/6K1 w - - 0 1",giliran:"w",konteks:"Mate-in-1 dengan menteri.",opsi:["Qf8#","Qg7","Qh5","Qe8+"],jwb:0,pmb:["Mate! Menteri f8 skak raja g8 + tutup escape.","Tidak mate.","Tidak.","Skak tapi tidak mate."]},
+{n:85,lvl:"K",pilar:"str",tema:"Castling Priority",fen:"r1bq1rk1/pp3ppp/2n2n2/2bp4/8/3PPN2/PP3PPP/RNBQKB1R w KQ - 0 1",giliran:"w",konteks:"Hitam castled, Putih belum.",opsi:["Be2 + O-O","Nbd2 + e4","a3","h3"],jwb:0,pmb:["Castling adalah prioritas — raja aman = base operasi.","Bisa nanti.","Bukan prioritas.","Bukan."]},
+{n:86,lvl:"P",pilar:"buk",tema:"King's Gambit",fen:"rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2",giliran:"b",konteks:"1.e4 e5 2.f4 — King's Gambit.",opsi:["exf4 ambil bidak","d6 tolak solid","Keduanya valid","Hanya bisa tolak"],jwb:2,pmb:["KGA — ambil bidak (Putih dapat pusat + serangan).","KGD — Bc5/d6/Nc6.","Benar — keduanya valid teori.","Salah."]},
+{n:87,lvl:"K",pilar:"tak",tema:"Battery Definition",fen:"r1bq1rk1/ppp2ppp/2n2n2/3pp3/8/3PPN1P/PPPB1PP1/RN1QKB1R w KQ - 0 1",giliran:"w",konteks:"Konsep battery.",opsi:["Susunan 2+ buah long-range di garis sama","Kuda + menteri","Raja + benteng","2 bidak adjacent"],jwb:0,pmb:["Benar — battery: Q+R, R+R, B+Q di file/rank/diagonal yang sama.","Bukan battery.","Bukan.","Bukan."]},
+{n:88,lvl:"P",pilar:"str",tema:"Develop Toward Center",fen:"rnbqkbnr/pppppppp/8/8/8/4N3/PPPPPPPP/RNBQKB1R b KQkq - 1 1",giliran:"b",konteks:"1.Ne3? — pengembangan buruk.",opsi:["Tidak kontrol pusat + halangi gajah","Bidak di belakang","Tidak ada masalah","Lemahkan raja"],jwb:0,pmb:["Benar — Ne3 lemah: tidak kontrol pusat + halang e2.","Bukan masalah utama.","Salah.","Bukan raja."]},
+{n:89,lvl:"P",pilar:"tak",tema:"Counter Queen with Tempo",fen:"rnb1kbnr/ppp2ppp/3p4/4p2q/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 1 4",giliran:"w",konteks:"Menteri Hitam keluar awal ke h5.",opsi:["Nf3 + serang menteri","g3 usir (lemahkan)","d3 bidak","Nge2 pengembangan"],jwb:0,pmb:["Kembangkan + serang menteri = tempo.","Usir tapi lemahkan diagonal.","Tidak menyerang.","Tidak optimal."]},
+{n:90,lvl:"M",pilar:"tak",tema:"Italian + Pin Counter",fen:"r1bq1rk1/ppp2ppp/2n2n2/3pp3/1bB1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 1",giliran:"w",konteks:"Italian + Bb4 pin kuda c3.",opsi:["a3 paksa gajah","Bd2 defend","Nxe5 sacrifice","Qb3 counter ke f7"],jwb:3,pmb:["Paksa gajah keluar tapi rusak struktur.","Solid defense.","Spekulatif.","Counter-pressure ke f7 = ide klasik."]},
+{n:91,lvl:"P",pilar:"buk",tema:"Latvian Gambit Evaluation",fen:"rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq f6 0 3",giliran:"w",konteks:"1.e4 e5 2.Nf3 f5? = Latvian.",opsi:["Berbahaya tapi sound","Tidak sound, Putih menang dengan main benar","Seimbang","Hitam menang otomatis"],jwb:1,pmb:["Tidak akurat.","Benar — Latvian secara teori buruk untuk Hitam.","Salah.","Salah."]},
+{n:92,lvl:"K",pilar:"end",tema:"KBP-K Non-Rook Pawn",fen:"8/8/2k5/8/8/2K5/2P5/2B5 w - - 0 1",giliran:"w",konteks:"KBP-K dengan c-file pawn (non-rook).",opsi:["Selalu menang (always)","Menang dengan teknik benar (non-rook pawn)","Seri","Hitam menang"],jwb:1,pmb:["Bergantung posisi.","Benar — non-rook pawn KBP-K menang dengan teknik.","Salah.","Salah."]},
+{n:93,lvl:"P",pilar:"tak",tema:"Hanging Piece Priority",fen:"rnbqkbnr/pp1p1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 1",giliran:"w",konteks:"Hanging piece concept.",opsi:["Tangkap dengan buah termurah","Abaikan","Tukar dengan gajah","Tunggu dibela"],jwb:0,pmb:["Benar — capture termurah dulu (bidak > kuda > benteng).","Tidak optimal.","Tergantung.","Lewatkan kesempatan."]},
+{n:94,lvl:"K",pilar:"str",tema:"King Position Weakness",fen:"r1bq1rk1/pp1p1ppp/2n1p3/8/2BPP3/2N5/PPP2nPP/R1BQK2R w KQ - 0 1",giliran:"w",konteks:"Kuda Hitam infiltrasi ke f2.",opsi:["Kxf2 tangkap","Qd2","Bxf2 (illegal)","Tidak bisa tangkap"],jwb:0,pmb:["Tangkap kuda — Raja e1 ke f2 = adjacent.","Tidak optimal.","Tidak bisa, c1 tidak jangkau f2.","Bisa tangkap."]},
+{n:95,lvl:"P",pilar:"buk",tema:"Trompowsky Attack",fen:"rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2",giliran:"b",konteks:"1.d4 Nf6 2.Bg5 = Trompowsky.",opsi:["Pin kuda f6 saja","Castling cepat","Bxf6 rusak struktur Hitam","Pengembangan biasa"],jwb:2,pmb:["Sebagian benar.","Bukan ide utama.","Benar — ide Trompowsky: Bxf6 rusak struktur gxf6/exf6.","Bukan."]},
+{n:96,lvl:"P",pilar:"tak",tema:"Rank 8 Tukar Benteng",fen:"6rk/5ppp/8/8/8/8/8/R5K1 w - - 0 1",giliran:"w",konteks:"R vs R + bidak f-g-h Hitam.",opsi:["Ra8 ke rank 8","Rxa7 (tidak ada)","Kg2","Rb1"],jwb:0,pmb:["Tekan benteng Hitam di rank 8 — tukar.","Bidak tidak ada.","Pasif.","Pasif."]},
+{n:97,lvl:"M",pilar:"str",tema:"Plan in Closed Position",fen:"r1bq1rk1/ppp2ppp/2nbpn2/3p4/3P4/2NBPN2/PPP2PPP/R1BQ1RK1 w - - 0 1",giliran:"w",konteks:"Posisi tertutup simetris.",opsi:["Cari outpost untuk knight (e5/c5)","Tukar semua → seri","h-pawn push attack","Castle queenside"],jwb:0,pmb:["Benar — closed favors knight outpost.","Menerima seri.","Berisiko, raja Putih juga kingside.","Tidak optimal."]},
+{n:98,lvl:"P",pilar:"buk",tema:"Modern Defense",fen:"rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",giliran:"w",konteks:"1.e4 g6 = Modern Defense.",opsi:["Fianchetto Bg7 + biarkan Putih pusat","Simetri","Serang pusat","Castle queenside"],jwb:0,pmb:["Benar — Modern hyper-modern, fianchetto + counter dari sayap.","Salah.","Bukan.","Tidak."]},
+{n:99,lvl:"M",pilar:"end",tema:"King + Passed Pawn Endgame",fen:"8/1p3kpp/8/3K1P2/8/8/8/8 w - - 0 1",giliran:"w",konteks:"Endgame K+P vs K dengan passed pawn.",opsi:["Push f-pawn + raja batasi","Tukar bidak","Hindari raja Hitam","Push semua"],jwb:0,pmb:["Benar — king activity + passed pawn = formula menang.","Tidak optimal.","Salah.","Tidak terkoordinasi."]},
+{n:100,lvl:"M",pilar:"tak",tema:"Famous Mate Pattern",fen:"2r3k1/5ppp/8/4N3/8/8/5PPP/R6K w - - 0 1",giliran:"w",konteks:"Kuda + benteng + raja di sudut = klasik mate.",opsi:["Nf6+ Kh8 Ra8# (mate-in-2)","Re1 quiet","Nxg7 capture","Ng4"],jwb:0,pmb:["Mate-in-2! Nf6+ Kh8 Ra8# — kuda f6 tutup escape, benteng skak rank 8.","Tidak.","Tidak mate.","Tidak."]}
+];
+
+// ============ STATE & RENDER ============
+let curr = 0; // index 0..99
+let board = null;
+let orientation = 'white';
+const answered = {}; // {n: choice 0..3}
+const corrects = {}; // {n: bool}
+
+function pilarName(p){return {tak:'TAK',str:'STR',end:'END',buk:'BUK'}[p]}
+function lvlName(l){return {P:'Pemula',K:'Klub',M:'Master+'}[l]}
+
+function render(){
+  const s = SOAL_DATA[curr];
+  const giliran = s.giliran === 'w' ? 'Putih' : 'Hitam';
+
+  // Header
+  document.getElementById('soalNum').textContent = s.n;
+  const bLvl = document.getElementById('bLevel');
+  bLvl.textContent = s.lvl + ' · ' + lvlName(s.lvl);
+  bLvl.className = 'badge ' + s.lvl;
+  const bPil = document.getElementById('bPilar');
+  bPil.textContent = pilarName(s.pilar);
+  bPil.className = 'badge ' + s.pilar;
+
+  // Tema, konteks, giliran
+  document.getElementById('tema').textContent = s.tema;
+  document.getElementById('konteks').textContent = s.konteks;
+  document.getElementById('gilText').textContent = 'Giliran: ' + giliran;
+  document.getElementById('gilDot').className = 'giliran-dot ' + s.giliran;
+
+  // FEN
+  document.getElementById('fenCode').textContent = s.fen;
+
+  // Board
+  orientation = s.giliran === 'w' ? 'white' : 'black';
+  if(board){
+    board.orientation(orientation);
+    board.position(s.fen.split(' ')[0], false);
+  }
+
+  // Opsi
+  const grid = document.getElementById('opsiGrid');
+  grid.innerHTML = '';
+  ['A','B','C','D'].forEach((L,i)=>{
+    const btn = document.createElement('button');
+    btn.className = 'opsi-btn';
+    btn.innerHTML = '<span class="label">'+L+'</span><span class="san">'+s.opsi[i]+'</span>';
+    btn.dataset.idx = i;
+    btn.onclick = ()=>chooseOpsi(i);
+    // Apply previous state if answered
+    if(answered[s.n] !== undefined){
+      btn.disabled = true;
+      if(i === s.jwb) btn.classList.add('correct');
+      else if(i === answered[s.n]) btn.classList.add('wrong');
+    }
+    grid.appendChild(btn);
+  });
+
+  // Pembahasan
+  const pmb = document.getElementById('pmb');
+  const list = document.getElementById('pmbList');
+  list.innerHTML = '';
+  s.pmb.forEach((text,i)=>{
+    const li = document.createElement('li');
+    if(i === s.jwb) li.classList.add('correct');
+    li.innerHTML = '<span class="lbl">'+'ABCD'[i]+'</span><b>'+s.opsi[i]+'</b> — '+text;
+    list.appendChild(li);
+  });
+  const jwbF = document.getElementById('jwbFinal');
+  jwbF.innerHTML = '<i data-lucide="check-circle" style="width:16px;height:16px;color:var(--green)"></i>Jawaban: <span class="key">'+'ABCD'[s.jwb]+'</span> · <b>'+s.opsi[s.jwb]+'</b>';
+  if(answered[s.n] !== undefined){
+    pmb.classList.add('show');
+  } else {
+    pmb.classList.remove('show');
+  }
+
+  // Nav buttons
+  document.getElementById('prevBtn').disabled = curr === 0;
+  document.getElementById('nextBtn').disabled = curr === SOAL_DATA.length - 1;
+
+  // Progress
+  const answeredCnt = Object.keys(answered).length;
+  document.getElementById('progFill').style.width = (answeredCnt/SOAL_DATA.length*100)+'%';
+  document.getElementById('progText').textContent = answeredCnt + ' / ' + SOAL_DATA.length;
+
+  // Score
+  let cc = 0, ww = 0;
+  Object.values(corrects).forEach(v=>{if(v)cc++;else ww++});
+  document.getElementById('scCorrect').textContent = cc;
+  document.getElementById('scWrong').textContent = ww;
+  document.getElementById('scTotal').textContent = answeredCnt;
+
+  if(window.lucide) lucide.createIcons();
+}
+
+function chooseOpsi(idx){
+  const s = SOAL_DATA[curr];
+  if(answered[s.n] !== undefined) return;
+  answered[s.n] = idx;
+  corrects[s.n] = (idx === s.jwb);
+  render();
+}
+
+function prev(){if(curr>0){curr--;render()}}
+function next(){if(curr<SOAL_DATA.length-1){curr++;render()}}
+function jump(){
+  const v = parseInt(document.getElementById('jumpInput').value,10);
+  if(v>=1 && v<=SOAL_DATA.length){curr = v-1; render()}
+}
+function reset(){
+  if(!confirm('Reset semua skor & jawaban?')) return;
+  Object.keys(answered).forEach(k=>delete answered[k]);
+  Object.keys(corrects).forEach(k=>delete corrects[k]);
+  curr = 0;
+  render();
+}
+function flipBoard(){
+  if(board) board.flip();
+}
+function copyFen(){
+  const f = SOAL_DATA[curr].fen;
+  navigator.clipboard.writeText(f).then(()=>{
+    const btn = document.getElementById('fenCopyBtn');
+    const old = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(()=>btn.textContent = old, 1200);
+  });
+}
+
+// Init
+window.addEventListener('load', ()=>{
+  board = Chessboard('board', {
+    position: SOAL_DATA[0].fen.split(' ')[0],
+    orientation: SOAL_DATA[0].giliran === 'w' ? 'white' : 'black',
+    showNotation: true,
+    pieceTheme: 'https://chessboardjs.com/img/chesspieces/wikipedia/{piece}.png'
+  });
+  document.getElementById('prevBtn').onclick = prev;
+  document.getElementById('nextBtn').onclick = next;
+  document.getElementById('jumpBtn').onclick = jump;
+  document.getElementById('jumpInput').addEventListener('keypress', e=>{if(e.key==='Enter')jump()});
+  document.getElementById('resetBtn').onclick = reset;
+  document.getElementById('flipBtn').onclick = flipBoard;
+  document.getElementById('fenCopyBtn').onclick = copyFen;
+  document.addEventListener('keydown', e=>{
+    if(e.key==='ArrowLeft')prev();
+    else if(e.key==='ArrowRight')next();
+  });
+  render();
+  if(window.lucide) lucide.createIcons();
+});
+</script>
+</body>
+</html>

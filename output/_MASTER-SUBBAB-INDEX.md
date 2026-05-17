@@ -244,7 +244,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sedang-sulit.md`
 
 **IPA-02k · Penyakit Tidak Menular (Diabetes, Hipertensi, Kanker)** (fokus Prov)
-- [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-campur.md`
+- [x] `osn-sd-ipa-02k-penyakit-tidak-menular-campur.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-mudah.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sedang.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sulit.md`
@@ -252,7 +252,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sedang-sulit.md`
 
 **IPA-02l · Kebersihan Diri & Lingkungan** (fokus Kab)
-- [ ] `osn-sd-ipa-02l-kebersihan-campur.md`
+- [x] `osn-sd-ipa-02l-kebersihan-campur.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-mudah.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-sedang.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-sulit.md`
@@ -260,7 +260,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02l-kebersihan-sedang-sulit.md`
 
 **IPA-02m · Soal Terapan (Gejala → Diagnosis Sederhana)** (fokus Prov–Nas)
-- [ ] `osn-sd-ipa-02m-diagnosis-gejala-campur.md`
+- [x] `osn-sd-ipa-02m-diagnosis-gejala-campur.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-mudah.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-sedang.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-sulit.md`
@@ -270,7 +270,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-03 · Gaya, Gerak, dan Energi (12 sub-bab)
 
 **IPA-03a · Pengertian & Jenis Gaya (Gesek, Gravitasi, Magnet, Otot, Pegas)** (fokus Kab)
-- [ ] `osn-sd-ipa-03a-jenis-gaya-campur.md`
+- [x] `osn-sd-ipa-03a-jenis-gaya-campur.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-mudah.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sedang.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sulit.md`
@@ -278,7 +278,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sedang-sulit.md`
 
 **IPA-03b · Gerak (Benda Diam/Bergerak, Lurus/Melingkar)** (fokus Kab)
-- [ ] `osn-sd-ipa-03b-gerak-campur.md`
+- [x] `osn-sd-ipa-03b-gerak-campur.md`
 - [ ] `osn-sd-ipa-03b-gerak-mudah.md`
 - [ ] `osn-sd-ipa-03b-gerak-sedang.md`
 - [ ] `osn-sd-ipa-03b-gerak-sulit.md`
@@ -286,7 +286,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03b-gerak-sedang-sulit.md`
 
 **IPA-03c · Pengaruh Gaya terhadap Benda** (fokus Kab)
-- [ ] `osn-sd-ipa-03c-pengaruh-gaya-campur.md`
+- [x] `osn-sd-ipa-03c-pengaruh-gaya-campur.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-mudah.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sedang.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sulit.md`

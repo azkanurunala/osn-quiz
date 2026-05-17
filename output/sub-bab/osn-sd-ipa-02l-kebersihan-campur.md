@@ -2931,3 +2931,816 @@ D. Tidak perlu, cukup tidak tidur saja
 - **💭 Tips:** Alternatif lebih aman: **kelambu**, **kipas angin** (nyamuk sulit terbang melawan angin), atau **tanaman pengusir nyamuk**.
 
 ---
+
+### Soal 81 · Resistensi Antibiotik · Nas
+
+**(1) Soal:**
+Penggunaan antibiotik yang berlebihan & tidak sesuai resep dapat menyebabkan...
+
+**(2) Pilihan Jawaban:**
+
+A. Tubuh kebal dari semua penyakit
+B. Bakteri menjadi kebal terhadap antibiotik (resistensi antibiotik)
+C. Antibiotik berubah jadi vitamin
+D. Virus jadi cepat mati
+
+**(3) Jawaban:** **B. Bakteri menjadi kebal terhadap antibiotik (resistensi antibiotik)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konsep antimicrobial resistance (AMR).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tubuh kebal dari semua penyakit** — Salah. Salah konsep; antibiotik tidak membentuk kekebalan adaptif.
+  - **B. Bakteri menjadi kebal terhadap antibiotik (resistensi antibiotik)** — Benar. Bakteri yang terpapar antibiotik subdosis/tidak tuntas → bermutasi & menjadi kebal → kebal turun-temurun → "superbug".
+  - **C. Antibiotik berubah jadi vitamin** — Salah. Tidak ada konversi kimiawi semacam ini.
+  - **D. Virus jadi cepat mati** — Salah. Antibiotik **tidak membunuh virus** sama sekali.
+
+- **Langkah Penyelesaian:**
+  1. Aturan: antibiotik hanya untuk infeksi **bakteri** sesuai resep dokter.
+  2. Habiskan dosis sampai tuntas, jangan setengah-setengah.
+
+- **Hasil akhir:** Bakteri menjadi kebal terhadap antibiotik (resistensi antibiotik).
+
+- **💭 Tips:** WHO memperingatkan **AMR** sebagai 1 dari 10 ancaman kesehatan global terbesar abad ini — bisa membuat infeksi sederhana kembali mematikan.
+
+---
+
+### Soal 82 · Mikroplastik · Nas
+
+**(1) Soal:**
+Pecahan plastik berukuran kurang dari 5 mm yang masuk ke laut & rantai makanan disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Makroplastik
+B. Mikroplastik
+C. Bioplastik
+D. Termoplastik
+
+**(3) Jawaban:** **B. Mikroplastik**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Definisi mikroplastik & dampak lingkungan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Makroplastik** — Salah. Justru sebaliknya — potongan besar (>5 mm) yang masih terlihat.
+  - **B. Mikroplastik** — Benar. Plastik <5 mm; dimakan plankton → ikan kecil → ikan besar → manusia.
+  - **C. Bioplastik** — Salah. Bioplastik = plastik dari bahan organik (jagung, singkong) yang bisa terurai.
+  - **D. Termoplastik** — Salah. Termoplastik = jenis plastik yang bisa dilelehkan ulang (sifat kimia, bukan ukuran).
+
+- **Langkah Penyelesaian:**
+  1. Mikroplastik = bahaya jangka panjang ekosistem laut & kesehatan manusia.
+  2. Cegah dengan kurangi sampah plastik sejak dari rumah.
+
+- **Hasil akhir:** Mikroplastik.
+
+- **💭 Tips:** Sumber mikroplastik di rumah tangga: serat sintetis dari **cuci baju polyester** + sabun scrub butiran plastik (banyak diganti scrub natural sekarang).
+
+---
+
+### Soal 83 · SDG-6 · Nas
+
+**(1) Soal:**
+**SDG nomor 6** dari Tujuan Pembangunan Berkelanjutan PBB berfokus pada...
+
+**(2) Pilihan Jawaban:**
+
+A. Pendidikan untuk semua
+B. Air bersih & sanitasi layak
+C. Energi terbarukan
+D. Mengakhiri kemiskinan
+
+**(3) Jawaban:** **B. Air bersih & sanitasi layak**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sustainable Development Goals (SDGs).
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Pendidikan untuk semua** — Salah. Itu SDG-4.
+  - **B. Air bersih & sanitasi layak** — Benar. SDG-6: "Clean Water and Sanitation" — akses air bersih & sanitasi layak untuk semua di 2030.
+  - **C. Energi terbarukan** — Salah. Itu SDG-7.
+  - **D. Mengakhiri kemiskinan** — Salah. Itu SDG-1.
+
+- **Langkah Penyelesaian:**
+  1. SDG-6 = air bersih + sanitasi → fondasi kebersihan global.
+
+- **Hasil akhir:** Air bersih & sanitasi layak.
+
+- **💭 Tips:** Hari Air Sedunia (**22 Maret**) mengangkat tema SDG-6 setiap tahunnya.
+
+---
+
+### Soal 84 · Sampah Plastik Lautan · Nas
+
+**(1) Soal:**
+Indonesia adalah salah satu negara penyumbang sampah plastik terbesar ke laut. Dampak terbesar untuk biota laut adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Ikan jadi lebih cepat tumbuh
+B. Terjeratnya penyu/biota & masuknya mikroplastik ke rantai makanan
+C. Air laut jadi tawar
+D. Hilangnya pasir pantai
+
+**(3) Jawaban:** **B. Terjeratnya penyu/biota & masuknya mikroplastik ke rantai makanan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Dampak sampah plastik laut.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Ikan jadi lebih cepat tumbuh** — Salah. Justru terganggu/mati.
+  - **B. Terjeratnya penyu/biota & masuknya mikroplastik ke rantai makanan** — Benar. Penyu sering tertukar plastik dengan ubur-ubur → tertelan; mikroplastik masuk plankton → naik rantai → manusia.
+  - **C. Air laut jadi tawar** — Salah. Plastik tidak mengubah salinitas air.
+  - **D. Hilangnya pasir pantai** — Salah. Erosi pantai disebabkan gelombang & manusia, bukan plastik.
+
+- **Langkah Penyelesaian:**
+  1. Cegah dari hulu: kurangi pakai plastik sekali pakai + pilah sampah + dukung bank sampah.
+
+- **Hasil akhir:** Terjeratnya penyu/biota & masuknya mikroplastik ke rantai makanan.
+
+- **💭 Tips:** Tahukah kamu? **Diperkirakan 2050** berat sampah plastik di laut akan melebihi berat ikan kalau tren tidak berubah.
+
+---
+
+### Soal 85 · Hand Sanitizer Saat Tak Ada Air · Nas
+
+**(1) Soal:**
+Hand sanitizer berbasis alkohol PALING tepat digunakan saat...
+
+**(2) Pilihan Jawaban:**
+
+A. Tangan terlihat kotor & berlumpur
+B. Tidak ada air & sabun, dan tangan tidak kotor kasat mata
+C. Habis menyentuh daging mentah
+D. Habis dari toilet
+
+**(3) Jawaban:** **B. Tidak ada air & sabun, dan tangan tidak kotor kasat mata**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Batasan efektivitas hand sanitizer.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Tangan terlihat kotor & berlumpur** — Salah. Alkohol tidak mengangkat kotoran fisik.
+  - **B. Tidak ada air & sabun, dan tangan tidak kotor kasat mata** — Benar. Sanitizer = pengganti darurat, hanya efektif pada tangan tidak terlihat kotor.
+  - **C. Habis menyentuh daging mentah** — Salah. Daging mentah meninggalkan lemak & cairan → wajib sabun + air.
+  - **D. Habis dari toilet** — Salah. Setelah toilet selalu lebih baik sabun + air (terutama bila ada kotoran).
+
+- **Langkah Penyelesaian:**
+  1. CDC: sabun + air = pilihan pertama; sanitizer = pilihan kedua saat air tak tersedia.
+
+- **Hasil akhir:** Tidak ada air & sabun, dan tangan tidak kotor kasat mata.
+
+- **💭 Tips:** Bawa sanitizer kecil di tas perjalanan untuk situasi darurat (di kendaraan umum, tempat wisata, dll) — tapi tetap pilih air & sabun bila tersedia.
+
+---
+
+### Soal 86 · Pembuangan Obat · Nas
+
+**(1) Soal:**
+Obat yang sudah kedaluwarsa atau tidak dipakai sebaiknya...
+
+**(2) Pilihan Jawaban:**
+
+A. Dibuang ke wastafel atau toilet
+B. Diserahkan ke apotek / fasilitas kesehatan untuk pembuangan B3
+C. Dimakan sebelum kedaluwarsa habis
+D. Dibakar di rumah
+
+**(3) Jawaban:** **B. Diserahkan ke apotek / fasilitas kesehatan untuk pembuangan B3**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Pembuangan obat sebagai sampah B3.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Dibuang ke wastafel atau toilet** — Salah. Mencemari air & menambah residu antibiotik di lingkungan → memicu resistensi antibiotik di alam.
+  - **B. Diserahkan ke apotek / fasilitas kesehatan untuk pembuangan B3** — Benar. Apotek/puskesmas punya jalur pemusnahan resmi (insinerator suhu tinggi).
+  - **C. Dimakan sebelum kedaluwarsa habis** — Salah. Obat hanya diminum sesuai resep, bukan untuk dihabiskan.
+  - **D. Dibakar di rumah** — Salah. Asap obat berbahaya, suhu bakar rumah tidak cukup tinggi → residu beracun.
+
+- **Langkah Penyelesaian:**
+  1. Obat = B3; jalurnya khusus.
+
+- **Hasil akhir:** Diserahkan ke apotek / fasilitas kesehatan untuk pembuangan B3.
+
+- **💭 Tips:** Program **Drug Take Back** di banyak puskesmas/apotek menerima obat bekas — manfaatkan!
+
+---
+
+### Soal 87 · WASH · Nas
+
+**(1) Soal:**
+Program WASH internasional adalah singkatan dari...
+
+**(2) Pilihan Jawaban:**
+
+A. World Aid for Sick Health
+B. Water, Sanitation, and Hygiene
+C. Wide Area Safety Hub
+D. Washing And Safe Health
+
+**(3) Jawaban:** **B. Water, Sanitation, and Hygiene**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Akronim WASH dalam kebijakan global kebersihan.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. World Aid for Sick Health** — Salah. Karangan, bukan akronim resmi.
+  - **B. Water, Sanitation, and Hygiene** — Benar. WASH = paket akses air bersih + sanitasi + higiene yang dipromosikan WHO/UNICEF.
+  - **C. Wide Area Safety Hub** — Salah. Tidak ada hubungan dengan kesehatan.
+  - **D. Washing And Safe Health** — Salah. Karangan.
+
+- **Langkah Penyelesaian:**
+  1. WASH = tiga pilar inti SDG-6.
+
+- **Hasil akhir:** Water, Sanitation, and Hygiene.
+
+- **💭 Tips:** WASH di sekolah disebut **WinS** (WASH in Schools) — meliputi air bersih, toilet terpisah, sabun, & edukasi higiene.
+
+---
+
+### Soal 88 · Eutrofikasi · Nas
+
+**(1) Soal:**
+Pencemaran air oleh detergen & pupuk berlebih dapat memicu **eutrofikasi**, yaitu...
+
+**(2) Pilihan Jawaban:**
+
+A. Suhu air turun drastis
+B. Pertumbuhan ganggang/alga berlebih yang menghabiskan oksigen air
+C. Air berubah jadi padat
+D. Ikan jadi 2× lebih besar
+
+**(3) Jawaban:** **B. Pertumbuhan ganggang/alga berlebih yang menghabiskan oksigen air**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme eutrofikasi.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Suhu air turun drastis** — Salah. Eutrofikasi tidak menurunkan suhu signifikan.
+  - **B. Pertumbuhan ganggang/alga berlebih yang menghabiskan oksigen air** — Benar. Fosfat (detergen) & nitrat (pupuk) memicu ledakan ganggang → ganggang mati → bakteri urai → konsumsi O₂ habis → ikan mati lemas.
+  - **C. Air berubah jadi padat** — Salah. Tidak ada perubahan wujud.
+  - **D. Ikan jadi 2× lebih besar** — Salah. Justru ikan mati massal.
+
+- **Langkah Penyelesaian:**
+  1. Eutrofikasi = "blooming algae" → "dead zone" oksigen rendah.
+
+- **Hasil akhir:** Pertumbuhan ganggang/alga berlebih yang menghabiskan oksigen air.
+
+- **💭 Tips:** Contoh eutrofikasi di Indonesia: Danau Limboto & Rawa Pening — pertumbuhan eceng gondok berlebih akibat pupuk/detergen.
+
+---
+
+### Soal 89 · Dioksin · Nas
+
+**(1) Soal:**
+Membakar sampah plastik di halaman menghasilkan gas beracun bernama... yang dapat memicu kanker.
+
+**(2) Pilihan Jawaban:**
+
+A. Oksigen
+B. Dioksin
+C. Karbon murni
+D. Uap air
+
+**(3) Jawaban:** **B. Dioksin**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bahaya pembakaran plastik.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Oksigen** — Salah. Oksigen adalah gas pendukung pembakaran, bukan hasil.
+  - **B. Dioksin** — Benar. Pembakaran plastik (PVC, PP) suhu rendah menghasilkan **dioksin** & furan — senyawa karsinogen kuat yang menumpuk di lemak tubuh.
+  - **C. Karbon murni** — Salah. Hasil pembakaran tidak sempurna umumnya CO + jelaga, bukan karbon murni; & tidak menyebabkan kanker langsung.
+  - **D. Uap air** — Salah. Uap air ada, tapi tidak beracun.
+
+- **Langkah Penyelesaian:**
+  1. Plastik & PVC bila dibakar suhu rendah (api rumah) = sumber dioksin.
+
+- **Hasil akhir:** Dioksin.
+
+- **💭 Tips:** Pembakaran sampah hanya boleh dilakukan di **insinerator industri** suhu >1000°C yang menghancurkan dioksin — bukan di halaman rumah.
+
+---
+
+### Soal 90 · Toxic Shock Syndrome · Nas
+
+**(1) Soal:**
+Pembalut/tampon menstruasi yang tidak diganti terlalu lama dapat memicu **Toxic Shock Syndrome (TSS)**, yaitu...
+
+**(2) Pilihan Jawaban:**
+
+A. Mata jadi minus
+B. Sindrom akibat racun bakteri Staphylococcus aureus yang berkembang dalam darah haid menggenang
+C. Tinggi badan bertambah cepat
+D. Rambut jadi lurus
+
+**(3) Jawaban:** **B. Sindrom akibat racun bakteri Staphylococcus aureus yang berkembang dalam darah haid menggenang**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bahaya kesehatan dari kebersihan menstruasi yang buruk.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Mata jadi minus** — Salah. Tidak terkait.
+  - **B. Sindrom akibat racun bakteri Staphylococcus aureus yang berkembang dalam darah haid menggenang** — Benar. Bakteri S. aureus tumbuh di darah haid yang lama tidak diganti, mengeluarkan **toksin TSST-1** yang masuk darah → demam tinggi, ruam, syok.
+  - **C. Tinggi badan bertambah cepat** — Salah. Tidak terkait.
+  - **D. Rambut jadi lurus** — Salah. Tidak terkait.
+
+- **Langkah Penyelesaian:**
+  1. Ganti pembalut tiap 3–4 jam = pencegahan TSS utama.
+
+- **Hasil akhir:** Sindrom akibat racun bakteri Staphylococcus aureus yang berkembang dalam darah haid menggenang.
+
+- **💭 Tips:** TSS jarang tapi bisa fatal. Gejala awal: demam mendadak >39°C + ruam merah seperti terbakar matahari + diare. Segera ke dokter.
+
+---
+
+### Soal 91 · Greenwashing · Nas
+
+**(1) Soal:**
+Produk yang diklaim "ramah lingkungan" padahal sebenarnya tetap mencemari disebut...
+
+**(2) Pilihan Jawaban:**
+
+A. Greenwashing
+B. Recycling
+C. Composting
+D. Upcycling
+
+**(3) Jawaban:** **A. Greenwashing**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Konsep greenwashing dalam pemasaran.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Greenwashing** — Benar. "Mencuci hijau" — klaim ramah lingkungan tanpa bukti nyata (mis. botol plastik diberi label "eco" padahal tetap plastik tunggal).
+  - **B. Recycling** — Salah. Recycling = proses daur ulang nyata.
+  - **C. Composting** — Salah. Pengomposan sampah organik.
+  - **D. Upcycling** — Salah. Membuat barang baru bernilai lebih dari sampah (mis. ban bekas jadi kursi).
+
+- **Langkah Penyelesaian:**
+  1. Periksa label & sertifikasi resmi (FSC, Ecolabel) sebelum percaya klaim "ramah lingkungan".
+
+- **Hasil akhir:** Greenwashing.
+
+- **💭 Tips:** Tanda greenwashing: warna hijau & gambar daun banyak, tapi tidak ada sertifikasi pihak ketiga.
+
+---
+
+### Soal 92 · Hipoklorit · Nas
+
+**(1) Soal:**
+Zat aktif yang umum dipakai sebagai pemutih & disinfektan toilet (sekaligus pembunuh kuman air) adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Natrium klorida (NaCl)
+B. Natrium hipoklorit (NaClO)
+C. Natrium hidroksida (NaOH) saja
+D. Air murni (H₂O)
+
+**(3) Jawaban:** **B. Natrium hipoklorit (NaClO)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Bahan aktif disinfektan rumah tangga.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Natrium klorida (NaCl)** — Salah. Garam dapur biasa; tidak membunuh kuman secara berarti.
+  - **B. Natrium hipoklorit (NaClO)** — Benar. Bahan aktif pemutih (Bayclin, dll) & disinfektan; juga digunakan untuk klorinasi air minum.
+  - **C. Natrium hidroksida (NaOH) saja** — Salah. NaOH = soda api, korosif, untuk pembersih saluran tersumbat — bukan disinfektan utama.
+  - **D. Air murni (H₂O)** — Salah. Air saja tidak membunuh kuman.
+
+- **Langkah Penyelesaian:**
+  1. Disinfeksi toilet & air = NaClO (hipoklorit).
+
+- **Hasil akhir:** Natrium hipoklorit (NaClO).
+
+- **💭 Tips:** Jangan campur pemutih (NaClO) dengan pembersih amonia/asam — menghasilkan gas klorin beracun yang sangat berbahaya.
+
+---
+
+### Soal 93 · Cuci Tangan COVID · Nas
+
+**(1) Soal:**
+Selama pandemi COVID-19, cuci tangan pakai sabun direkomendasikan karena sabun dapat...
+
+**(2) Pilihan Jawaban:**
+
+A. Membunuh hanya bakteri, tidak virus
+B. Memecah lapisan lemak (lipid envelope) di permukaan virus → virus rusak
+C. Mengganti vaksin COVID
+D. Menambah kekebalan dengan cara diminum
+
+**(3) Jawaban:** **B. Memecah lapisan lemak (lipid envelope) di permukaan virus → virus rusak**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme sabun terhadap virus berenvelope.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Membunuh hanya bakteri, tidak virus** — Salah. Sabun efektif juga untuk virus berenvelope (corona, flu, HIV).
+  - **B. Memecah lapisan lemak (lipid envelope) di permukaan virus → virus rusak** — Benar. SARS-CoV-2 punya selubung lipid; sabun = surfaktan yang melarutkan lipid → virus pecah & tidak bisa menginfeksi.
+  - **C. Mengganti vaksin COVID** — Salah. CTPS = pencegahan, vaksin = kekebalan adaptif; keduanya berbeda peran.
+  - **D. Menambah kekebalan dengan cara diminum** — Salah. Sabun tidak diminum; tidak ada kekebalan dari sabun.
+
+- **Langkah Penyelesaian:**
+  1. CTPS = mekanisme fisik & kimia menghancurkan envelope virus.
+
+- **Hasil akhir:** Memecah lapisan lemak (lipid envelope) di permukaan virus → virus rusak.
+
+- **💭 Tips:** Itulah mengapa sabun **lebih murah & efektif** dari sebagian besar disinfektan mahal untuk virus pernapasan.
+
+---
+
+### Soal 94 · Zero Waste · Nas
+
+**(1) Soal:**
+Prinsip **Zero Waste** dalam pengelolaan sampah berarti...
+
+**(2) Pilihan Jawaban:**
+
+A. Membuang semua sampah ke laut
+B. Berusaha mengurangi produksi sampah hingga mendekati nol melalui Reduce, Reuse, Recycle, dan Rot (kompos)
+C. Membakar semua sampah secara terbuka
+D. Tidak pernah produksi sampah sama sekali sejak lahir
+
+**(3) Jawaban:** **B. Berusaha mengurangi produksi sampah hingga mendekati nol melalui Reduce, Reuse, Recycle, dan Rot (kompos)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Gaya hidup Zero Waste.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Membuang semua sampah ke laut** — Salah. Justru kebalikannya.
+  - **B. Berusaha mengurangi produksi sampah hingga mendekati nol melalui Reduce, Reuse, Recycle, dan Rot (kompos)** — Benar. Zero Waste = gerakan global memperluas 3R + Refuse + Rot → target sedikit/tidak ada sampah ke TPA.
+  - **C. Membakar semua sampah secara terbuka** — Salah. Tidak ramah lingkungan & melawan prinsip Zero Waste.
+  - **D. Tidak pernah produksi sampah sama sekali sejak lahir** — Salah. Tidak realistis; Zero Waste mendekati nol, bukan mutlak nol.
+
+- **Langkah Penyelesaian:**
+  1. 5R Zero Waste: Refuse → Reduce → Reuse → Recycle → Rot.
+
+- **Hasil akhir:** Berusaha mengurangi produksi sampah hingga mendekati nol melalui R-R-R-R.
+
+- **💭 Tips:** Aksi Zero Waste anak SD: tumbler air sendiri, bekal kotak makan, tolak sedotan plastik, pisahkan sampah organik untuk kompos.
+
+---
+
+### Soal 95 · IPAL Komunal · Nas
+
+**(1) Soal:**
+IPAL Komunal di permukiman berfungsi untuk...
+
+**(2) Pilihan Jawaban:**
+
+A. Memproduksi listrik dari matahari
+B. Mengolah air limbah rumah tangga warga sebelum dibuang ke lingkungan
+C. Menampung air hujan untuk minum
+D. Menjadi tempat bermain anak
+
+**(3) Jawaban:** **B. Mengolah air limbah rumah tangga warga sebelum dibuang ke lingkungan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Fungsi IPAL Komunal.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Memproduksi listrik dari matahari** — Salah. Itu PLTS, bukan IPAL.
+  - **B. Mengolah air limbah rumah tangga warga sebelum dibuang ke lingkungan** — Benar. IPAL = Instalasi Pengolahan Air Limbah; menetralkan limbah cair (deterjen, sisa makanan, tinja) sebelum kembali ke sungai/tanah.
+  - **C. Menampung air hujan untuk minum** — Salah. Itu PAH (Penampung Air Hujan).
+  - **D. Menjadi tempat bermain anak** — Salah. Tentu tidak.
+
+- **Langkah Penyelesaian:**
+  1. IPAL = unit sanitasi komunal untuk limbah cair.
+
+- **Hasil akhir:** Mengolah air limbah rumah tangga warga sebelum dibuang ke lingkungan.
+
+- **💭 Tips:** Program **SANIMAS** Kemen-PUPR menyediakan IPAL Komunal gratis untuk permukiman padat — mengurangi pencemaran sungai.
+
+---
+
+### Soal 96 · Pestisida Pertanian · Nas
+
+**(1) Soal:**
+Sayuran yang dijual di pasar tradisional perlu dicuci ekstra hati-hati karena bisa mengandung residu...
+
+**(2) Pilihan Jawaban:**
+
+A. Logam mulia
+B. Pestisida & pupuk kimia
+C. Garam dapur
+D. Vitamin sintetis
+
+**(3) Jawaban:** **B. Pestisida & pupuk kimia**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Sumber kontaminasi makanan & pencucian.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Logam mulia** — Salah. Tidak ada logam mulia di sayur konvensional.
+  - **B. Pestisida & pupuk kimia** — Benar. Sayur konvensional umumnya disemprot pestisida (insektisida, fungisida) untuk hama; residu menempel di permukaan.
+  - **C. Garam dapur** — Salah. Tidak digunakan dalam budidaya sayur.
+  - **D. Vitamin sintetis** — Salah. Vitamin sintetis biasanya disuntikkan ke ternak/manusia, bukan disemprot ke sayur.
+
+- **Langkah Penyelesaian:**
+  1. Cuci sayur dengan air mengalir + (opsional) baking soda 1 sdm/L untuk hilangkan residu pestisida.
+
+- **Hasil akhir:** Pestisida & pupuk kimia.
+
+- **💭 Tips:** Sayur **organik bersertifikat** punya residu pestisida jauh lebih rendah — bila bujet memungkinkan, prioritaskan untuk sayur yang dimakan kulitnya (anggur, stroberi, apel).
+
+---
+
+### Soal 97 · MPASI Higiene · Nas
+
+**(1) Soal:**
+Saat memberi MPASI (Makanan Pendamping ASI) untuk bayi 6 bulan, kebersihan paling kritis adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Cuci tangan ibu + alat masak + bahan makanan
+B. Memberi makanan langsung dari toko tanpa proses
+C. Memberi makanan basi agar bayi cepat kebal
+D. Tidak perlu sterilisasi alat
+
+**(3) Jawaban:** **A. Cuci tangan ibu + alat masak + bahan makanan**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Kebersihan saat menyiapkan MPASI.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Cuci tangan ibu + alat masak + bahan makanan** — Benar. Sistem imun bayi 6 bulan masih lemah → kebersihan tiga rantai (tangan-alat-bahan) wajib.
+  - **B. Memberi makanan langsung dari toko tanpa proses** — Salah. Bisa terkontaminasi & tidak sesuai tekstur bayi.
+  - **C. Memberi makanan basi agar bayi cepat kebal** — Salah. Berbahaya, bisa keracunan fatal.
+  - **D. Tidak perlu sterilisasi alat** — Salah. Botol & alat makan bayi wajib steril (rebus/sterilizer).
+
+- **Langkah Penyelesaian:**
+  1. Bayi rentan diare → kebersihan ekstra tiap tahap penyiapan MPASI.
+
+- **Hasil akhir:** Cuci tangan ibu + alat masak + bahan makanan.
+
+- **💭 Tips:** Sterilisasi botol bayi: rebus dalam air mendidih 5–10 menit atau gunakan sterilizer uap.
+
+---
+
+### Soal 98 · Plastic Free July · Nas
+
+**(1) Soal:**
+Gerakan global **Plastic Free July** mengajak masyarakat untuk... selama bulan Juli.
+
+**(2) Pilihan Jawaban:**
+
+A. Memakai plastik 2× lebih banyak
+B. Menahan diri dari menggunakan plastik sekali pakai
+C. Membakar plastik di halaman
+D. Membuat plastik di rumah
+
+**(3) Jawaban:** **B. Menahan diri dari menggunakan plastik sekali pakai**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Kampanye lingkungan global.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Memakai plastik 2× lebih banyak** — Salah. Justru kebalikannya.
+  - **B. Menahan diri dari menggunakan plastik sekali pakai** — Benar. Plastic Free July (dari Australia, kini global) = tantangan 1 bulan tanpa single-use plastic untuk memulai kebiasaan jangka panjang.
+  - **C. Membakar plastik di halaman** — Salah. Justru harus dihindari.
+  - **D. Membuat plastik di rumah** — Salah. Bukan tujuan.
+
+- **Langkah Penyelesaian:**
+  1. Refuse plastik sekali pakai → buktikan bisa hidup tanpa itu → kebiasaan baru.
+
+- **Hasil akhir:** Menahan diri dari menggunakan plastik sekali pakai.
+
+- **💭 Tips:** Mulai dari 4 item paling umum: kantong plastik, sedotan, botol minum sekali pakai, sendok plastik.
+
+---
+
+### Soal 99 · Karies Gigi · Nas
+
+**(1) Soal:**
+Lubang gigi (karies) terbentuk akibat bakteri *Streptococcus mutans* yang mengubah gula sisa makanan menjadi asam yang melarutkan email. Pencegahan paling efektif adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Banyak makan permen tiap hari
+B. Sikat gigi 2× sehari + kurangi gula + periksa gigi 6 bulan sekali
+C. Minum kopi setiap pagi
+D. Berkumur dengan minuman bersoda
+
+**(3) Jawaban:** **B. Sikat gigi 2× sehari + kurangi gula + periksa gigi 6 bulan sekali**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mekanisme karies & pencegahan terpadu.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Banyak makan permen tiap hari** — Salah. Gula = makanan utama S. mutans → asam → karies.
+  - **B. Sikat gigi 2× sehari + kurangi gula + periksa gigi 6 bulan sekali** — Benar. Tiga pilar pencegahan karies sesuai PDGI.
+  - **C. Minum kopi setiap pagi** — Salah. Kopi malah menempel & meninggalkan stain di gigi.
+  - **D. Berkumur dengan minuman bersoda** — Salah. Soda asam (pH ~2,5) melarutkan email — kebalikan dari pencegahan.
+
+- **Langkah Penyelesaian:**
+  1. Putus rantai bakteri + gula + asam = sikat + kurangi gula + cek rutin.
+
+- **Hasil akhir:** Sikat gigi 2× sehari + kurangi gula + periksa gigi 6 bulan sekali.
+
+- **💭 Tips:** Setelah makan/minum manis, **berkumur dengan air putih** dulu sebelum sikat gigi (tunggu 30 menit) — email yang masih lunak akibat asam tidak terkikis sikat.
+
+---
+
+### Soal 100 · Sanitasi Total Berbasis Masyarakat (STBM) · Nas
+
+**(1) Soal:**
+Program **STBM** (Sanitasi Total Berbasis Masyarakat) di Indonesia memiliki **5 pilar**, salah satunya adalah...
+
+**(2) Pilihan Jawaban:**
+
+A. Stop BAB Sembarangan (Open Defecation Free)
+B. Stop main HP saat makan
+C. Stop minum air putih
+D. Stop berolahraga di pagi hari
+
+**(3) Jawaban:** **A. Stop BAB Sembarangan (Open Defecation Free)**
+
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** 5 pilar STBM Kemenkes.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Stop BAB Sembarangan (Open Defecation Free)** — Benar. Pilar pertama STBM: 100% warga BAB di jamban sehat, bukan sungai/kebun.
+  - **B. Stop main HP saat makan** — Salah. Bukan pilar STBM.
+  - **C. Stop minum air putih** — Salah. Air putih malah dianjurkan.
+  - **D. Stop berolahraga di pagi hari** — Salah. Olahraga pagi justru sehat.
+
+- **Langkah Penyelesaian:**
+  1. 5 pilar STBM: (1) Stop BAB Sembarangan, (2) CTPS, (3) Pengelolaan Air Minum & Makanan, (4) Pengelolaan Sampah RT, (5) Pengelolaan Limbah Cair RT.
+
+- **Hasil akhir:** Stop BAB Sembarangan (Open Defecation Free).
+
+- **💭 Tips:** Desa yang mencapai 100% pilar pertama STBM dinyatakan sebagai **Desa ODF** (Open Defecation Free) — kebanggaan & syarat berbagai bantuan kesehatan.
+
+---
+
+# Bagian III — Ringkasan Kunci & Refleksi
+
+## 🔑 Tabel Ringkasan Kunci Jawaban
+
+> Untuk quick reference dan tracking oleh guru/orang tua. Detail pembahasan ada di Bagian II.
+
+| No  | Jawaban | Sub-topik | Tingkat |
+|-----|---------|-----------|---------|
+| 1   | B       | Cuci Tangan | Kab |
+| 2   | C       | Cuci Tangan | Kab |
+| 3   | B       | Sikat Gigi | Kab |
+| 4   | C       | Sikat Gigi | Kab |
+| 5   | B       | Mandi | Kab |
+| 6   | B       | Kuku | Kab |
+| 7   | C       | Mata | Kab |
+| 8   | B       | Telinga | Kab |
+| 9   | C       | Pakaian | Kab |
+| 10  | B       | Rambut | Kab |
+| 11  | C       | Sampah | Kab |
+| 12  | B       | Sampah Organik | Kab |
+| 13  | C       | Sampah Anorganik | Kab |
+| 14  | C       | 3M DBD | Kab |
+| 15  | B       | Diare | Kab |
+| 16  | B       | Air Minum | Kab |
+| 17  | C       | Jamban Sehat | Kab |
+| 18  | B       | Cuci Tangan | Kab |
+| 19  | B       | Pasta Gigi | Kab |
+| 20  | C       | Periksa Gigi | Kab |
+| 21  | A       | Handuk | Kab |
+| 22  | B       | Tempat Sampah | Kab |
+| 23  | A       | Sapu | Kab |
+| 24  | B       | Selokan | Kab |
+| 25  | B       | Lalat | Kab |
+| 26  | B       | Toilet | Kab |
+| 27  | B       | Sabun | Kab |
+| 28  | B       | Cacingan | Kab |
+| 29  | B       | Panu | Kab |
+| 30  | C       | Sapu Lidi | Kab |
+| 31  | C       | Pakaian Kotor | Kab |
+| 32  | B       | Setrika | Kab |
+| 33  | B       | Botol Bekas (3R) | Kab |
+| 34  | B       | Mandi Sore | Kab |
+| 35  | B       | ISPA | Kab |
+| 36  | B       | Ventilasi | Kab |
+| 37  | C       | Lantai | Kab |
+| 38  | B       | Cuci Tangan Sebelum | Kab |
+| 39  | B       | Buah Sebelum Makan | Kab |
+| 40  | B       | Septic Tank | Kab |
+| 41  | B       | Mata | Kab |
+| 42  | B       | Sariawan | Kab |
+| 43  | C       | Air Galon | Kab |
+| 44  | C       | Tikus | Kab |
+| 45  | B       | Sayuran | Kab |
+| 46  | C       | Mata Merah | Kab |
+| 47  | B       | Sapu Pagi | Kab |
+| 48  | A       | Sapu Tangan | Kab |
+| 49  | B       | Air Genangan | Kab |
+| 50  | C       | Cuci Tangan Hewan | Kab |
+| 51  | B       | Urutan Cuci Tangan WHO | Prov |
+| 52  | D       | Kapan Cuci Tangan | Prov |
+| 53  | D       | 3M Plus DBD | Prov |
+| 54  | B       | PHBS Indikator | Prov |
+| 55  | B       | Sampah B3 | Prov |
+| 56  | A       | 3R | Prov |
+| 57  | A       | CTPS | Prov |
+| 58  | B       | Pubertas Wajah | Prov |
+| 59  | B       | Pubertas Bau Badan | Prov |
+| 60  | C       | Haid | Prov |
+| 61  | B       | Air Bersih | Prov |
+| 62  | D       | Diagnosis Tinja | Prov |
+| 63  | B       | Kompos | Prov |
+| 64  | B       | Biogas | Prov |
+| 65  | C       | Hand Sanitizer | Prov |
+| 66  | B       | Sabun vs Sanitizer | Prov |
+| 67  | B       | Tikus Leptospirosis | Prov |
+| 68  | D       | Kelambu | Prov |
+| 69  | A       | Kebersihan Sekolah | Prov |
+| 70  | B       | Bank Sampah | Prov |
+| 71  | B       | Cuci Pakaian Bersama | Prov |
+| 72  | B       | Mata Sekolah (20-20-20) | Prov |
+| 73  | B       | CERDIK | Prov |
+| 74  | B       | Imunisasi | Prov |
+| 75  | B       | PHBS Sekolah | Prov |
+| 76  | B       | Vaksin Cuci Tangan | Prov |
+| 77  | B       | Toilet Sekolah | Prov |
+| 78  | B       | Kebersihan Pubertas Perempuan | Prov |
+| 79  | B       | Limbah Cair | Prov |
+| 80  | B       | Pestisida Rumah | Prov |
+| 81  | B       | Resistensi Antibiotik | Nas |
+| 82  | B       | Mikroplastik | Nas |
+| 83  | B       | SDG-6 | Nas |
+| 84  | B       | Sampah Plastik Lautan | Nas |
+| 85  | B       | Hand Sanitizer Saat Tak Ada Air | Nas |
+| 86  | B       | Pembuangan Obat | Nas |
+| 87  | B       | WASH | Nas |
+| 88  | B       | Eutrofikasi | Nas |
+| 89  | B       | Dioksin | Nas |
+| 90  | B       | Toxic Shock Syndrome | Nas |
+| 91  | A       | Greenwashing | Nas |
+| 92  | B       | Hipoklorit | Nas |
+| 93  | B       | Cuci Tangan COVID | Nas |
+| 94  | B       | Zero Waste | Nas |
+| 95  | B       | IPAL Komunal | Nas |
+| 96  | B       | Pestisida Pertanian | Nas |
+| 97  | A       | MPASI Higiene | Nas |
+| 98  | B       | Plastic Free July | Nas |
+| 99  | B       | Karies Gigi | Nas |
+| 100 | A       | STBM | Nas |
+
+## 📊 Rekap Distribusi
+
+- **Per Tingkat:** 50 Kabupaten · 30 Provinsi · 20 Nasional
+- **Per Klaster Sub-topik (gabungan kategori):**
+  - Cuci tangan & CTPS/sanitizer: ~14 soal (1, 2, 18, 38, 50, 51, 52, 57, 65, 66, 76, 85, 93, …)
+  - Kebersihan diri (mandi, gigi, kuku, rambut, mata, telinga, pakaian, handuk, sapu tangan): ~22 soal
+  - Pubertas & higiene reproduksi: 4 soal (58, 59, 60, 78, 90)
+  - Sampah, 3R, Bank Sampah, B3, Zero Waste, Plastic Free July: ~13 soal (11, 12, 13, 22, 30, 33, 55, 56, 63, 64, 70, 89, 91, 94, 98)
+  - Kebersihan lingkungan rumah/sekolah/toilet/lantai/sapu/selokan/ventilasi/tikus: ~14 soal
+  - Pencegahan penyakit terkait kebersihan (DBD, diare, ISPA, panu, cacingan, konjungtivitis, leptospirosis, TSS, karies): ~13 soal
+  - Air bersih, sanitasi, jamban, IPAL, septic tank, STBM, SDG-6, WASH: ~9 soal
+  - PHBS, CERDIK, UKS, imunisasi: ~6 soal
+  - Gray-area kimia & global (resistensi antibiotik, mikroplastik, dioksin, eutrofikasi, hipoklorit, greenwashing, pestisida): ~7 soal
+- **Format:** 100% Pilihan Ganda (4 opsi A–D)
+
+## 🎯 Refleksi untuk Siswa
+
+Isi setelah selesai mengerjakan semua 100 soal:
+
+- **Jumlah jawaban benar:** ___ / 100
+- **Sub-topik yang dirasa paling sulit:** ____________________
+- **Sub-topik yang dirasa paling mudah:** ____________________
+- **Konsep yang masih perlu didalami:** ____________________
+- **Target untuk latihan berikutnya:** ____________________
+
+### Patokan Skor (1 jawaban = 1 poin, total 100)
+
+| Skor | Kategori | Catatan |
+|------|----------|---------|
+| 90–100 | Luar biasa | Siap maju ke seleksi sekolah/kecamatan; kuasai juga sub-bab lain. |
+| 80–89 | Sangat baik | Sasaran ideal selesai sub-bab; perbaiki sedikit konsep gray-area Nas. |
+| 70–79 | Baik | Bagus untuk Kab; perdalam tipe soal Prov (3M Plus, PHBS, 3R, pubertas, biogas). |
+| 60–69 | Cukup | Ulangi Tabel 1–6 & contoh terbimbing; latih kembali Kab + Prov. |
+| <60 | Perlu pengulangan | Baca Bagian I lagi pelan-pelan, kerjakan 50 soal Kab dulu, baru lanjut Prov & Nas. |
+
+## 📚 Rekomendasi Materi Lanjutan
+
+Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan lanjut ke:
+
+- **Bab terkait:** **IPA-02j · Penyakit Menular** (memperdalam mekanisme penularan diare, DBD, TBC, ISPA yang sudah disinggung di sini) dan **IPA-05l · Pelestarian Lingkungan & Pencemaran** (memperluas sampah, 3R, Zero Waste, mikroplastik ke skala bumi/ekosistem).
+- **Bab pengembangan:** **IPA-02k · Penyakit Tidak Menular** (CERDIK lebih dalam: hipertensi, diabetes, kanker) dan **IPA-05k · Pemanasan Global & Efek Rumah Kaca** (gas metana biogas, dioksin, dampak sampah plastik secara global).
