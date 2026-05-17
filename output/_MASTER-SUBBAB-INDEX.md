@@ -172,7 +172,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02a-pencernaan-sedang-sulit.md`
 
 **IPA-02b · Sistem Pernapasan** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-02b-pernapasan-campur.md`
+- [x] `osn-sd-ipa-02b-pernapasan-campur.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-mudah.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-sedang.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-sulit.md`
@@ -180,7 +180,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02b-pernapasan-sedang-sulit.md`
 
 **IPA-02c · Sistem Peredaran Darah (Jantung, Pembuluh, Darah)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-02c-peredaran-darah-campur.md`
+- [x] `osn-sd-ipa-02c-peredaran-darah-campur.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-mudah.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sedang.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sulit.md`
@@ -188,7 +188,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sedang-sulit.md`
 
 **IPA-02d · Sistem Ekskresi (Ginjal, Kulit, Paru-paru, Hati)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-02d-ekskresi-campur.md`
+- [x] `osn-sd-ipa-02d-ekskresi-campur.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-mudah.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-sedang.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-sulit.md`
@@ -196,7 +196,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02d-ekskresi-sedang-sulit.md`
 
 **IPA-02e · Sistem Saraf & Indera (Mata, Telinga, Hidung, Lidah, Kulit)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-02e-saraf-indera-campur.md`
+- [x] `osn-sd-ipa-02e-saraf-indera-campur.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-mudah.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-sedang.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-sulit.md`
