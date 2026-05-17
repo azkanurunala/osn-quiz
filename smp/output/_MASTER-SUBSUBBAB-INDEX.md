@@ -4284,3 +4284,600 @@ Pada level sub-sub-bab, **risiko duplikasi soal jauh lebih tinggi** dibanding le
 - [ ] `osn-smp-bio-07i-1-kimia-rumah-sulit.md`
 - [ ] `osn-smp-bio-07i-1-kimia-rumah-mudah-sedang.md`
 - [ ] `osn-smp-bio-07i-1-kimia-rumah-sedang-sulit.md`
+
+---
+
+## D · IPS Per Sub-Sub-Bab
+
+### IPS-01 · Geografi (~22 sub-sub-bab)
+
+#### IPS-01a · Letak Astronomis & Geografis Indonesia
+**IPS-01a-1 · Letak Astronomis Indonesia (Garis Lintang & Bujur)** (fokus Kab)
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-campur.md`
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-mudah.md`
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-sedang.md`
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-sulit.md`
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-mudah-sedang.md`
+- [ ] `osn-smp-ips-01a-1-letak-astronomis-sedang-sulit.md`
+
+**IPS-01a-2 · Letak Geografis Indonesia (Posisi Silang)** (fokus Kab)
+- [ ] `osn-smp-ips-01a-2-letak-geografis-campur.md`
+- [ ] `osn-smp-ips-01a-2-letak-geografis-mudah.md`
+- [ ] `osn-smp-ips-01a-2-letak-geografis-sedang.md`
+- [ ] `osn-smp-ips-01a-2-letak-geografis-sulit.md`
+- [ ] `osn-smp-ips-01a-2-letak-geografis-mudah-sedang.md`
+- [ ] `osn-smp-ips-01a-2-letak-geografis-sedang-sulit.md`
+
+#### IPS-01b · Iklim & Cuaca
+**IPS-01b-1 · Iklim Tropis Indonesia (Karakteristik & Akibat)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-campur.md`
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-mudah.md`
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-sedang.md`
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-sulit.md`
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-mudah-sedang.md`
+- [ ] `osn-smp-ips-01b-1-iklim-tropis-sedang-sulit.md`
+
+**IPS-01b-2 · Musim & Angin Muson** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01b-2-musim-muson-campur.md`
+- [ ] `osn-smp-ips-01b-2-musim-muson-mudah.md`
+- [ ] `osn-smp-ips-01b-2-musim-muson-sedang.md`
+- [ ] `osn-smp-ips-01b-2-musim-muson-sulit.md`
+- [ ] `osn-smp-ips-01b-2-musim-muson-mudah-sedang.md`
+- [ ] `osn-smp-ips-01b-2-musim-muson-sedang-sulit.md`
+
+#### IPS-01c · Flora & Fauna Indonesia
+**IPS-01c-1 · Garis Wallace & Weber, Pembagian Flora-Fauna** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01c-1-wallace-weber-campur.md`
+- [ ] `osn-smp-ips-01c-1-wallace-weber-mudah.md`
+- [ ] `osn-smp-ips-01c-1-wallace-weber-sedang.md`
+- [ ] `osn-smp-ips-01c-1-wallace-weber-sulit.md`
+- [ ] `osn-smp-ips-01c-1-wallace-weber-mudah-sedang.md`
+- [ ] `osn-smp-ips-01c-1-wallace-weber-sedang-sulit.md`
+
+**IPS-01c-2 · Flora-Fauna Khas Indonesia & Statusnya (Endemik, Langka)** (fokus Prov)
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-campur.md`
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-mudah.md`
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-sedang.md`
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-sulit.md`
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-mudah-sedang.md`
+- [ ] `osn-smp-ips-01c-2-flora-fauna-khas-sedang-sulit.md`
+
+#### IPS-01d · SDA Indonesia
+**IPS-01d-1 · SDA Tambang (Minyak, Batu Bara, Mineral)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01d-1-sda-tambang-campur.md`
+- [ ] `osn-smp-ips-01d-1-sda-tambang-mudah.md`
+- [ ] `osn-smp-ips-01d-1-sda-tambang-sedang.md`
+- [ ] `osn-smp-ips-01d-1-sda-tambang-sulit.md`
+- [ ] `osn-smp-ips-01d-1-sda-tambang-mudah-sedang.md`
+- [ ] `osn-smp-ips-01d-1-sda-tambang-sedang-sulit.md`
+
+**IPS-01d-2 · SDA Hayati (Hutan, Pertanian, Perikanan)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01d-2-sda-hayati-campur.md`
+- [ ] `osn-smp-ips-01d-2-sda-hayati-mudah.md`
+- [ ] `osn-smp-ips-01d-2-sda-hayati-sedang.md`
+- [ ] `osn-smp-ips-01d-2-sda-hayati-sulit.md`
+- [ ] `osn-smp-ips-01d-2-sda-hayati-mudah-sedang.md`
+- [ ] `osn-smp-ips-01d-2-sda-hayati-sedang-sulit.md`
+
+#### IPS-01e · Bentang Alam
+**IPS-01e-1 · Bentang Alam Indonesia (Gunung Berapi, Sungai Besar, Pantai)** (fokus Kab)
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-campur.md`
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-mudah.md`
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-sedang.md`
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-sulit.md`
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-mudah-sedang.md`
+- [ ] `osn-smp-ips-01e-1-bentang-alam-indonesia-sedang-sulit.md`
+
+#### IPS-01f · Kependudukan
+**IPS-01f-1 · Demografi Indonesia (Jumlah, Pertumbuhan, Komposisi)** (fokus Prov)
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-campur.md`
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-mudah.md`
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-sedang.md`
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-sulit.md`
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-mudah-sedang.md`
+- [ ] `osn-smp-ips-01f-1-demografi-indonesia-sedang-sulit.md`
+
+**IPS-01f-2 · Piramida Penduduk Indonesia & Bonus Demografi** (fokus Prov)
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-campur.md`
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-mudah.md`
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-sedang.md`
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-sulit.md`
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-mudah-sedang.md`
+- [ ] `osn-smp-ips-01f-2-piramida-bonus-sedang-sulit.md`
+
+#### IPS-01g · Persebaran Penduduk & Migrasi
+**IPS-01g-1 · Persebaran Penduduk Indonesia (Konsentrasi di Jawa)** (fokus Prov)
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-campur.md`
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-mudah.md`
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-sedang.md`
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-sulit.md`
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-mudah-sedang.md`
+- [ ] `osn-smp-ips-01g-1-persebaran-jawa-sedang-sulit.md`
+
+**IPS-01g-2 · Migrasi (Transmigrasi, Urbanisasi, Emigrasi)** (fokus Prov)
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-campur.md`
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-mudah.md`
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-sedang.md`
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-sulit.md`
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-mudah-sedang.md`
+- [ ] `osn-smp-ips-01g-2-migrasi-jenis-sedang-sulit.md`
+
+#### IPS-01h · ASEAN
+**IPS-01h-1 · Negara-negara Anggota ASEAN (Ibukota, Karakteristik)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01h-1-negara-asean-campur.md`
+- [ ] `osn-smp-ips-01h-1-negara-asean-mudah.md`
+- [ ] `osn-smp-ips-01h-1-negara-asean-sedang.md`
+- [ ] `osn-smp-ips-01h-1-negara-asean-sulit.md`
+- [ ] `osn-smp-ips-01h-1-negara-asean-mudah-sedang.md`
+- [ ] `osn-smp-ips-01h-1-negara-asean-sedang-sulit.md`
+
+**IPS-01h-2 · Sejarah & Tujuan Pembentukan ASEAN** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-campur.md`
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-mudah.md`
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-sedang.md`
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-sulit.md`
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-mudah-sedang.md`
+- [ ] `osn-smp-ips-01h-2-sejarah-asean-sedang-sulit.md`
+
+#### IPS-01i · Benua Asia & Dunia
+**IPS-01i-1 · Benua Asia (Pembagian Wilayah & Karakteristik)** (fokus Prov–Nas)
+- [ ] `osn-smp-ips-01i-1-benua-asia-campur.md`
+- [ ] `osn-smp-ips-01i-1-benua-asia-mudah.md`
+- [ ] `osn-smp-ips-01i-1-benua-asia-sedang.md`
+- [ ] `osn-smp-ips-01i-1-benua-asia-sulit.md`
+- [ ] `osn-smp-ips-01i-1-benua-asia-mudah-sedang.md`
+- [ ] `osn-smp-ips-01i-1-benua-asia-sedang-sulit.md`
+
+**IPS-01i-2 · Benua Lain (Eropa, Afrika, Amerika, Australia)** (fokus Prov–Nas)
+- [ ] `osn-smp-ips-01i-2-benua-lain-campur.md`
+- [ ] `osn-smp-ips-01i-2-benua-lain-mudah.md`
+- [ ] `osn-smp-ips-01i-2-benua-lain-sedang.md`
+- [ ] `osn-smp-ips-01i-2-benua-lain-sulit.md`
+- [ ] `osn-smp-ips-01i-2-benua-lain-mudah-sedang.md`
+- [ ] `osn-smp-ips-01i-2-benua-lain-sedang-sulit.md`
+
+#### IPS-01j · Interaksi Antarruang
+**IPS-01j-1 · Interaksi Spasial Lokal, Nasional, Global** (fokus Prov)
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-campur.md`
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-mudah.md`
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-sedang.md`
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-sulit.md`
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-mudah-sedang.md`
+- [ ] `osn-smp-ips-01j-1-interaksi-spasial-sedang-sulit.md`
+
+#### IPS-01k · Peta & Atlas
+**IPS-01k-1 · Komponen Peta & Membaca Skala** (fokus Kab)
+- [ ] `osn-smp-ips-01k-1-komponen-peta-campur.md`
+- [ ] `osn-smp-ips-01k-1-komponen-peta-mudah.md`
+- [ ] `osn-smp-ips-01k-1-komponen-peta-sedang.md`
+- [ ] `osn-smp-ips-01k-1-komponen-peta-sulit.md`
+- [ ] `osn-smp-ips-01k-1-komponen-peta-mudah-sedang.md`
+- [ ] `osn-smp-ips-01k-1-komponen-peta-sedang-sulit.md`
+
+### IPS-02 · Sejarah (~24 sub-sub-bab)
+
+#### IPS-02a · Praaksara
+**IPS-02a-1 · Manusia Purba Indonesia (Pithecanthropus, Homo Soloensis, dll)** (fokus Kab)
+- [ ] `osn-smp-ips-02a-1-manusia-purba-campur.md`
+- [ ] `osn-smp-ips-02a-1-manusia-purba-mudah.md`
+- [ ] `osn-smp-ips-02a-1-manusia-purba-sedang.md`
+- [ ] `osn-smp-ips-02a-1-manusia-purba-sulit.md`
+- [ ] `osn-smp-ips-02a-1-manusia-purba-mudah-sedang.md`
+- [ ] `osn-smp-ips-02a-1-manusia-purba-sedang-sulit.md`
+
+**IPS-02a-2 · Zaman Batu (Paleo, Meso, Neo, Mega) & Zaman Logam** (fokus Kab)
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-campur.md`
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-mudah.md`
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-sedang.md`
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-sulit.md`
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-mudah-sedang.md`
+- [ ] `osn-smp-ips-02a-2-zaman-batu-logam-sedang-sulit.md`
+
+#### IPS-02b · Hindu-Buddha
+**IPS-02b-1 · Kerajaan Hindu (Kutai, Tarumanegara, Mataram Kuno, dll)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-campur.md`
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-mudah.md`
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-sedang.md`
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-sulit.md`
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-mudah-sedang.md`
+- [ ] `osn-smp-ips-02b-1-kerajaan-hindu-sedang-sulit.md`
+
+**IPS-02b-2 · Kerajaan Buddha (Sriwijaya, Majapahit) & Peninggalannya** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-campur.md`
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-mudah.md`
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-sedang.md`
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-sulit.md`
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-mudah-sedang.md`
+- [ ] `osn-smp-ips-02b-2-kerajaan-buddha-sedang-sulit.md`
+
+#### IPS-02c · Masa Islam
+**IPS-02c-1 · Masuknya Islam ke Indonesia (Teori-teori)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-campur.md`
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-mudah.md`
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-sedang.md`
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-sulit.md`
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-mudah-sedang.md`
+- [ ] `osn-smp-ips-02c-1-masuknya-islam-sedang-sulit.md`
+
+**IPS-02c-2 · Kerajaan Islam (Samudra Pasai, Demak, Mataram Islam, Aceh, dll)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-campur.md`
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-mudah.md`
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-sedang.md`
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-sulit.md`
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-mudah-sedang.md`
+- [ ] `osn-smp-ips-02c-2-kerajaan-islam-sedang-sulit.md`
+
+#### IPS-02d · Kedatangan Bangsa Eropa
+**IPS-02d-1 · Portugis, Spanyol, Belanda, Inggris (Motif, Jalur, Pendaratan)** (fokus Kab)
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-campur.md`
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-mudah.md`
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-sedang.md`
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-sulit.md`
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-mudah-sedang.md`
+- [ ] `osn-smp-ips-02d-1-bangsa-eropa-motif-sedang-sulit.md`
+
+#### IPS-02e · Penjajahan Belanda & VOC
+**IPS-02e-1 · VOC (Pembentukan, Hak Oktroi, Bubarnya)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02e-1-voc-campur.md`
+- [ ] `osn-smp-ips-02e-1-voc-mudah.md`
+- [ ] `osn-smp-ips-02e-1-voc-sedang.md`
+- [ ] `osn-smp-ips-02e-1-voc-sulit.md`
+- [ ] `osn-smp-ips-02e-1-voc-mudah-sedang.md`
+- [ ] `osn-smp-ips-02e-1-voc-sedang-sulit.md`
+
+**IPS-02e-2 · Tanam Paksa & Politik Etis** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-campur.md`
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-mudah.md`
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-sedang.md`
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-sulit.md`
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-mudah-sedang.md`
+- [ ] `osn-smp-ips-02e-2-tanam-paksa-etis-sedang-sulit.md`
+
+#### IPS-02f · Penjajahan Jepang
+**IPS-02f-1 · Kependudukan Jepang (1942-1945): Kebijakan, Romusha, BPUPKI/PPKI** (fokus Kab)
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-campur.md`
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-mudah.md`
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-sedang.md`
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-sulit.md`
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-mudah-sedang.md`
+- [ ] `osn-smp-ips-02f-1-jepang-bpupki-sedang-sulit.md`
+
+#### IPS-02g · Pergerakan Nasional
+**IPS-02g-1 · Organisasi Pergerakan (Boedi Oetomo, SI, Indische Partij, PI, PNI)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-campur.md`
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-mudah.md`
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-sedang.md`
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-sulit.md`
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-mudah-sedang.md`
+- [ ] `osn-smp-ips-02g-1-organisasi-pergerakan-sedang-sulit.md`
+
+**IPS-02g-2 · Sumpah Pemuda & Kongres Pemuda** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-campur.md`
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-mudah.md`
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-sedang.md`
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-sulit.md`
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-mudah-sedang.md`
+- [ ] `osn-smp-ips-02g-2-sumpah-pemuda-sedang-sulit.md`
+
+#### IPS-02h · Proklamasi
+**IPS-02h-1 · Peristiwa Rengasdengklok & Proklamasi 17 Agustus 1945** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-campur.md`
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-mudah.md`
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-sedang.md`
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-sulit.md`
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-mudah-sedang.md`
+- [ ] `osn-smp-ips-02h-1-rengasdengklok-proklamasi-sedang-sulit.md`
+
+**IPS-02h-2 · Perjuangan Mempertahankan Kemerdekaan (Pertempuran, Diplomasi, Agresi)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-campur.md`
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-mudah.md`
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-sedang.md`
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-sulit.md`
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-mudah-sedang.md`
+- [ ] `osn-smp-ips-02h-2-mempertahankan-kemerdekaan-sedang-sulit.md`
+
+#### IPS-02i · Orde Lama
+**IPS-02i-1 · Demokrasi Liberal (1950-1959) & Pemilu 1955** (fokus Prov)
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-campur.md`
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-mudah.md`
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-sedang.md`
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-sulit.md`
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-mudah-sedang.md`
+- [ ] `osn-smp-ips-02i-1-demokrasi-liberal-pemilu-sedang-sulit.md`
+
+**IPS-02i-2 · Demokrasi Terpimpin (1959-1966) & Konfrontasi** (fokus Prov)
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-campur.md`
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-mudah.md`
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-sedang.md`
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-sulit.md`
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-mudah-sedang.md`
+- [ ] `osn-smp-ips-02i-2-demokrasi-terpimpin-sedang-sulit.md`
+
+#### IPS-02j · Orde Baru
+**IPS-02j-1 · Pemerintahan Soeharto (Trilogi Pembangunan, Repelita)** (fokus Prov)
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-campur.md`
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-mudah.md`
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-sedang.md`
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-sulit.md`
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-mudah-sedang.md`
+- [ ] `osn-smp-ips-02j-1-orde-baru-soeharto-sedang-sulit.md`
+
+#### IPS-02k · Reformasi
+**IPS-02k-1 · Krisis Moneter, Pengunduran Soeharto, Reformasi 1998** (fokus Prov)
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-campur.md`
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-mudah.md`
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-sedang.md`
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-sulit.md`
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-mudah-sedang.md`
+- [ ] `osn-smp-ips-02k-1-krisis-reformasi-sedang-sulit.md`
+
+#### IPS-02l · Sejarah Dunia
+**IPS-02l-1 · Perang Dunia I & II (Penyebab, Jalannya, Akhir)** (fokus Prov–Nas)
+- [ ] `osn-smp-ips-02l-1-perang-dunia-campur.md`
+- [ ] `osn-smp-ips-02l-1-perang-dunia-mudah.md`
+- [ ] `osn-smp-ips-02l-1-perang-dunia-sedang.md`
+- [ ] `osn-smp-ips-02l-1-perang-dunia-sulit.md`
+- [ ] `osn-smp-ips-02l-1-perang-dunia-mudah-sedang.md`
+- [ ] `osn-smp-ips-02l-1-perang-dunia-sedang-sulit.md`
+
+**IPS-02l-2 · Perang Dingin (Blok Barat vs Timur, Runtuhnya Uni Soviet)** (fokus Prov–Nas)
+- [ ] `osn-smp-ips-02l-2-perang-dingin-campur.md`
+- [ ] `osn-smp-ips-02l-2-perang-dingin-mudah.md`
+- [ ] `osn-smp-ips-02l-2-perang-dingin-sedang.md`
+- [ ] `osn-smp-ips-02l-2-perang-dingin-sulit.md`
+- [ ] `osn-smp-ips-02l-2-perang-dingin-mudah-sedang.md`
+- [ ] `osn-smp-ips-02l-2-perang-dingin-sedang-sulit.md`
+
+### IPS-03 · Ekonomi (~18 sub-sub-bab)
+
+#### IPS-03a · Dasar Ekonomi
+**IPS-03a-1 · Kebutuhan & Kelangkaan (Primer, Sekunder, Tersier)** (fokus Kab)
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-campur.md`
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-mudah.md`
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-sedang.md`
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-sulit.md`
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-mudah-sedang.md`
+- [ ] `osn-smp-ips-03a-1-kebutuhan-kelangkaan-sedang-sulit.md`
+
+#### IPS-03b · Tindakan, Motif, Prinsip
+**IPS-03b-1 · Tindakan & Motif Ekonomi** (fokus Kab)
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-campur.md`
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-mudah.md`
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-sedang.md`
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-sulit.md`
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-mudah-sedang.md`
+- [ ] `osn-smp-ips-03b-1-tindakan-motif-sedang-sulit.md`
+
+**IPS-03b-2 · Prinsip Ekonomi & Politik Ekonomi** (fokus Kab)
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-campur.md`
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-mudah.md`
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-sedang.md`
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-sulit.md`
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-mudah-sedang.md`
+- [ ] `osn-smp-ips-03b-2-prinsip-politik-ekonomi-sedang-sulit.md`
+
+#### IPS-03c · Pelaku Ekonomi
+**IPS-03c-1 · Rumah Tangga Konsumen, Produsen, Pemerintah, Luar Negeri** (fokus Kab)
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-campur.md`
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-mudah.md`
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-sedang.md`
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-sulit.md`
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-mudah-sedang.md`
+- [ ] `osn-smp-ips-03c-1-pelaku-ekonomi-sedang-sulit.md`
+
+#### IPS-03d · Pasar
+**IPS-03d-1 · Jenis Pasar (Tradisional, Modern, Konkret, Abstrak)** (fokus Kab)
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-campur.md`
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-mudah.md`
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-sedang.md`
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-sulit.md`
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-mudah-sedang.md`
+- [ ] `osn-smp-ips-03d-1-jenis-pasar-sedang-sulit.md`
+
+#### IPS-03e · Permintaan, Penawaran, Harga
+**IPS-03e-1 · Hukum Permintaan & Kurva Permintaan** (fokus Prov)
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-campur.md`
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-mudah.md`
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-sedang.md`
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-sulit.md`
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-mudah-sedang.md`
+- [ ] `osn-smp-ips-03e-1-permintaan-kurva-sedang-sulit.md`
+
+**IPS-03e-2 · Hukum Penawaran & Harga Keseimbangan** (fokus Prov)
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-campur.md`
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-mudah.md`
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-sedang.md`
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-sulit.md`
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-mudah-sedang.md`
+- [ ] `osn-smp-ips-03e-2-penawaran-keseimbangan-sedang-sulit.md`
+
+#### IPS-03f · Uang
+**IPS-03f-1 · Fungsi & Jenis Uang (Asli, Giral, Logam, Kertas)** (fokus Kab)
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-campur.md`
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-mudah.md`
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-sedang.md`
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-sulit.md`
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-mudah-sedang.md`
+- [ ] `osn-smp-ips-03f-1-fungsi-jenis-uang-sedang-sulit.md`
+
+#### IPS-03g · Bank & Lembaga Keuangan
+**IPS-03g-1 · Bank Sentral & Bank Umum (Fungsi)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-campur.md`
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-mudah.md`
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-sedang.md`
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-sulit.md`
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-mudah-sedang.md`
+- [ ] `osn-smp-ips-03g-1-bank-sentral-umum-sedang-sulit.md`
+
+**IPS-03g-2 · Lembaga Keuangan Bukan Bank (Asuransi, Pegadaian, Koperasi)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-03g-2-lkbb-campur.md`
+- [ ] `osn-smp-ips-03g-2-lkbb-mudah.md`
+- [ ] `osn-smp-ips-03g-2-lkbb-sedang.md`
+- [ ] `osn-smp-ips-03g-2-lkbb-sulit.md`
+- [ ] `osn-smp-ips-03g-2-lkbb-mudah-sedang.md`
+- [ ] `osn-smp-ips-03g-2-lkbb-sedang-sulit.md`
+
+#### IPS-03h · Kewirausahaan
+**IPS-03h-1 · Karakteristik Wirausaha & Strategi Bisnis** (fokus Kab)
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-campur.md`
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-mudah.md`
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-sedang.md`
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-sulit.md`
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-mudah-sedang.md`
+- [ ] `osn-smp-ips-03h-1-karakter-wirausaha-sedang-sulit.md`
+
+#### IPS-03i · Aritmetika Sosial
+**IPS-03i-1 · Tabungan, Bunga, Pajak (Persoalan Hitungan)** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-campur.md`
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-mudah.md`
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-sedang.md`
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-sulit.md`
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-mudah-sedang.md`
+- [ ] `osn-smp-ips-03i-1-tabungan-bunga-pajak-sedang-sulit.md`
+
+#### IPS-03j · Perdagangan Antarnegara
+**IPS-03j-1 · Ekspor-Impor Indonesia & Faktor Pendorong** (fokus Prov)
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-campur.md`
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-mudah.md`
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-sedang.md`
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-sulit.md`
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-mudah-sedang.md`
+- [ ] `osn-smp-ips-03j-1-ekspor-impor-indonesia-sedang-sulit.md`
+
+### IPS-04 · Sosiologi & Antropologi (~16 sub-sub-bab)
+
+#### IPS-04a · Interaksi Sosial
+**IPS-04a-1 · Interaksi Asosiatif (Kerjasama, Akomodasi, Asimilasi)** (fokus Kab)
+- [ ] `osn-smp-ips-04a-1-asosiatif-campur.md`
+- [ ] `osn-smp-ips-04a-1-asosiatif-mudah.md`
+- [ ] `osn-smp-ips-04a-1-asosiatif-sedang.md`
+- [ ] `osn-smp-ips-04a-1-asosiatif-sulit.md`
+- [ ] `osn-smp-ips-04a-1-asosiatif-mudah-sedang.md`
+- [ ] `osn-smp-ips-04a-1-asosiatif-sedang-sulit.md`
+
+**IPS-04a-2 · Interaksi Disosiatif (Persaingan, Kontravensi, Konflik)** (fokus Kab)
+- [ ] `osn-smp-ips-04a-2-disosiatif-campur.md`
+- [ ] `osn-smp-ips-04a-2-disosiatif-mudah.md`
+- [ ] `osn-smp-ips-04a-2-disosiatif-sedang.md`
+- [ ] `osn-smp-ips-04a-2-disosiatif-sulit.md`
+- [ ] `osn-smp-ips-04a-2-disosiatif-mudah-sedang.md`
+- [ ] `osn-smp-ips-04a-2-disosiatif-sedang-sulit.md`
+
+#### IPS-04b · Sosialisasi
+**IPS-04b-1 · Sosialisasi Primer & Sekunder, Agen Sosialisasi** (fokus Kab)
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-campur.md`
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-mudah.md`
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-sedang.md`
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-sulit.md`
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-mudah-sedang.md`
+- [ ] `osn-smp-ips-04b-1-sosialisasi-primer-sekunder-sedang-sulit.md`
+
+#### IPS-04c · Lembaga Sosial
+**IPS-04c-1 · Lembaga Keluarga, Agama, Pendidikan** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-campur.md`
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-mudah.md`
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-sedang.md`
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-sulit.md`
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-mudah-sedang.md`
+- [ ] `osn-smp-ips-04c-1-keluarga-agama-pendidikan-sedang-sulit.md`
+
+**IPS-04c-2 · Lembaga Politik & Ekonomi** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-campur.md`
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-mudah.md`
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-sedang.md`
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-sulit.md`
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-mudah-sedang.md`
+- [ ] `osn-smp-ips-04c-2-politik-ekonomi-lembaga-sedang-sulit.md`
+
+#### IPS-04d · Mobilitas Sosial
+**IPS-04d-1 · Mobilitas Vertikal (Naik, Turun) & Horizontal** (fokus Prov)
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-campur.md`
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-mudah.md`
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-sedang.md`
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-sulit.md`
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-mudah-sedang.md`
+- [ ] `osn-smp-ips-04d-1-mobilitas-vertikal-horizontal-sedang-sulit.md`
+
+#### IPS-04e · Stratifikasi & Diferensiasi
+**IPS-04e-1 · Stratifikasi Sosial (Kekayaan, Kekuasaan, Pendidikan)** (fokus Prov)
+- [ ] `osn-smp-ips-04e-1-stratifikasi-campur.md`
+- [ ] `osn-smp-ips-04e-1-stratifikasi-mudah.md`
+- [ ] `osn-smp-ips-04e-1-stratifikasi-sedang.md`
+- [ ] `osn-smp-ips-04e-1-stratifikasi-sulit.md`
+- [ ] `osn-smp-ips-04e-1-stratifikasi-mudah-sedang.md`
+- [ ] `osn-smp-ips-04e-1-stratifikasi-sedang-sulit.md`
+
+#### IPS-04f · Konflik & Integrasi
+**IPS-04f-1 · Jenis Konflik Sosial & Penyelesaiannya** (fokus Prov)
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-campur.md`
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-mudah.md`
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-sedang.md`
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-sulit.md`
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-mudah-sedang.md`
+- [ ] `osn-smp-ips-04f-1-konflik-penyelesaian-sedang-sulit.md`
+
+#### IPS-04g · Perubahan Sosial
+**IPS-04g-1 · Perubahan Sosial Cepat & Lambat (Evolusi, Revolusi)** (fokus Prov)
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-campur.md`
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-mudah.md`
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-sedang.md`
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-sulit.md`
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-mudah-sedang.md`
+- [ ] `osn-smp-ips-04g-1-perubahan-cepat-lambat-sedang-sulit.md`
+
+#### IPS-04h · Budaya Indonesia
+**IPS-04h-1 · Keragaman Suku, Bahasa, Adat, Rumah Adat, Tarian** (fokus Kab–Prov)
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-campur.md`
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-mudah.md`
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-sedang.md`
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-sulit.md`
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-mudah-sedang.md`
+- [ ] `osn-smp-ips-04h-1-keragaman-suku-budaya-sedang-sulit.md`
+
+#### IPS-04i · Globalisasi
+**IPS-04i-1 · Globalisasi Ekonomi, Sosial, Budaya, IPTEK** (fokus Prov)
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-campur.md`
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-mudah.md`
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-sedang.md`
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-sulit.md`
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-mudah-sedang.md`
+- [ ] `osn-smp-ips-04i-1-globalisasi-bidang-sedang-sulit.md`
+
+#### IPS-04j · Kearifan Lokal
+**IPS-04j-1 · Kearifan Lokal di Indonesia (Contoh & Manfaat)** (fokus Prov)
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-campur.md`
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-mudah.md`
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-sedang.md`
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-sulit.md`
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-mudah-sedang.md`
+- [ ] `osn-smp-ips-04j-1-kearifan-lokal-indonesia-sedang-sulit.md`
+
+---
+
+## Rekap Statistik Sub-Sub-Bab SMP
+
+| Mapel | Bab | Sub-Bab | Sub-Sub-Bab | File (×6) | Soal |
+|-------|-----|---------|-------------|-----------|------|
+| MTK   | 10  | 102     | ~250        | ~1.500    | ~150.000 |
+| Fisika| 8   | 74      | ~180        | ~1.080    | ~108.000 |
+| Biologi| 7  | 70      | ~155        | ~930      | ~93.000 |
+| IPS   | 4   | 43      | ~80         | ~480      | ~48.000 |
+| **TOTAL** | **29** | **289** | **~665** | **~3.990** | **~399.000** |
+
+---
+
+## Catatan Eksekusi
+
+- **1 file = 100 soal PG**, semua pada satu mikrotopik tunggal. Variasi via ragam konteks (12+ setting), angka, subjek, sudut tanya, bentuk soal.
+- Default ekstensi `.md` (Bagian I Materi mikrotopik + Bagian II 100 Soal + Bagian III Ringkasan). HTML interaktif hanya jika user eksplisit minta.
+- Update centang `[ ]` → `[x]` setiap file selesai. Index ini sumber kebenaran tingkat sub-sub-bab.
+- File ini **melengkapi** [_MASTER-SUBBAB-INDEX.md](_MASTER-SUBBAB-INDEX.md). Gunakan sub-bab untuk paket luas dalam satu sub-bab; sub-sub-bab untuk drill ultra-fokus.
+- Urutan default mengikuti alfabetis (a, b, c, ... per sub-bab; 1, 2, 3, ... per sub-sub-bab).
+
+### Trigger Generation Sub-Sub-Bab
+
+- "Generate `osn-smp-mtk-01c-3-cerita-kpk-sulit.md`"
+- "Sub-sub-bab MTK-01c-4 Soal Cerita FPB, tingkat campur"
+- "Lanjutkan dari MASTER-SUBSUBBAB-INDEX baris berikutnya yang belum dicentang"
+
+Default behaviour: skill akan baca taksonomi terkait → ambil **Tipe Soal Khas OSN** + **Miskonsepsi** untuk mikrotopik itu → distribusikan 100 soal dengan komposisi tingkat sesuai slug.

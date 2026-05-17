@@ -294,7 +294,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sedang-sulit.md`
 
 **IPA-03d · Pesawat Sederhana: Tuas (3 Jenis)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03d-tuas-campur.md`
+- [x] `osn-sd-ipa-03d-tuas-campur.md`
 - [ ] `osn-sd-ipa-03d-tuas-mudah.md`
 - [ ] `osn-sd-ipa-03d-tuas-sedang.md`
 - [ ] `osn-sd-ipa-03d-tuas-sulit.md`
@@ -302,7 +302,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03d-tuas-sedang-sulit.md`
 
 **IPA-03e · Pesawat Sederhana: Katrol (Tetap, Bergerak, Ganda)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03e-katrol-campur.md`
+- [x] `osn-sd-ipa-03e-katrol-campur.md`
 - [ ] `osn-sd-ipa-03e-katrol-mudah.md`
 - [ ] `osn-sd-ipa-03e-katrol-sedang.md`
 - [ ] `osn-sd-ipa-03e-katrol-sulit.md`
@@ -310,7 +310,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03e-katrol-sedang-sulit.md`
 
 **IPA-03f · Pesawat Sederhana: Bidang Miring** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03f-bidang-miring-campur.md`
+- [x] `osn-sd-ipa-03f-bidang-miring-campur.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-mudah.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-sedang.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-sulit.md`
@@ -318,7 +318,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03f-bidang-miring-sedang-sulit.md`
 
 **IPA-03g · Pesawat Sederhana: Roda Berporos** (fokus Kab)
-- [ ] `osn-sd-ipa-03g-roda-berporos-campur.md`
+- [x] `osn-sd-ipa-03g-roda-berporos-campur.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-mudah.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-sedang.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-sulit.md`
@@ -326,7 +326,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03g-roda-berporos-sedang-sulit.md`
 
 **IPA-03h · Energi & Bentuk-bentuknya (Kinetik, Potensial, Panas, Cahaya, Bunyi, Kimia, Listrik)** (fokus Kab)
-- [ ] `osn-sd-ipa-03h-bentuk-energi-campur.md`
+- [x] `osn-sd-ipa-03h-bentuk-energi-campur.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-mudah.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sedang.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sulit.md`
@@ -334,7 +334,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sedang-sulit.md`
 
 **IPA-03i · Perubahan Energi (Rantai Energi pada Alat)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03i-perubahan-energi-campur.md`
+- [x] `osn-sd-ipa-03i-perubahan-energi-campur.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-mudah.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sedang.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sulit.md`
