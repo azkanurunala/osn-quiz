@@ -350,7 +350,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sedang-sulit.md`
 
 **IPA-03k · Konduktor & Isolator Listrik** (fokus Kab)
-- [ ] `osn-sd-ipa-03k-konduktor-isolator-campur.md`
+- [x] `osn-sd-ipa-03k-konduktor-isolator-campur.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-mudah.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sedang.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sulit.md`
@@ -368,7 +368,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat (14 sub-bab)
 
 **IPA-04a · Sifat-sifat Cahaya (Merambat Lurus, Dipantulkan, Dibiaskan, Diuraikan)** (fokus Kab)
-- [ ] `osn-sd-ipa-04a-sifat-cahaya-campur.md`
+- [x] `osn-sd-ipa-04a-sifat-cahaya-campur.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-mudah.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sedang.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sulit.md`
@@ -376,7 +376,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sedang-sulit.md`
 
 **IPA-04b · Cermin (Datar, Cekung, Cembung) — Sifat Bayangan** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04b-cermin-campur.md`
+- [x] `osn-sd-ipa-04b-cermin-campur.md`
 - [ ] `osn-sd-ipa-04b-cermin-mudah.md`
 - [ ] `osn-sd-ipa-04b-cermin-sedang.md`
 - [ ] `osn-sd-ipa-04b-cermin-sulit.md`
@@ -384,7 +384,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04b-cermin-sedang-sulit.md`
 
 **IPA-04c · Pembiasan Cahaya & Lensa (Cembung, Cekung)** (fokus Prov)
-- [ ] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
+- [x] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-mudah.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sulit.md`
@@ -392,7 +392,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang-sulit.md`
 
 **IPA-04d · Penguraian Cahaya (Prisma, Pelangi)** (fokus Prov)
-- [ ] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
+- [x] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-mudah.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sulit.md`
@@ -400,7 +400,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang-sulit.md`
 
 **IPA-04e · Sifat-sifat Bunyi (Sumber, Perambatan, Frekuensi)** (fokus Kab)
-- [ ] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
+- [x] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sulit.md`
@@ -408,7 +408,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang-sulit.md`
 
 **IPA-04f · Pemantulan Bunyi (Gema, Gaung)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
+- [x] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sulit.md`
@@ -416,7 +416,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang-sulit.md`
 
 **IPA-04g · Perambatan Bunyi di Padat/Cair/Gas** (fokus Kab)
-- [ ] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
+- [x] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sulit.md`
@@ -424,7 +424,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang-sulit.md`
 
 **IPA-04h · Suhu & Termometer** (fokus Kab)
-- [ ] `osn-sd-ipa-04h-suhu-termometer-campur.md`
+- [x] `osn-sd-ipa-04h-suhu-termometer-campur.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-mudah.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sulit.md`
@@ -432,7 +432,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang-sulit.md`
 
 **IPA-04i · Perpindahan Panas (Konduksi, Konveksi, Radiasi)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
+- [x] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-mudah.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sulit.md`
@@ -440,7 +440,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang-sulit.md`
 
 **IPA-04j · Wujud Zat (Padat, Cair, Gas) & Sifatnya** (fokus Kab)
-- [ ] `osn-sd-ipa-04j-wujud-zat-campur.md`
+- [x] `osn-sd-ipa-04j-wujud-zat-campur.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-mudah.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sedang.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sulit.md`

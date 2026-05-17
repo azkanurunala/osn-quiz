@@ -1,6 +1,6 @@
 # Validation Report — chess-gm-komprehensif-campur.md
 
-Generated: 2026-05-17T17:38:23+07:00  
+Generated: 2026-05-17T18:23:37+07:00  
 Stockfish depth: 18  
 Total soal: 100
 
@@ -8,12 +8,12 @@ Total soal: 100
 
 | Metric | Count |
 |--------|------:|
-| Engine TOP match | 15 |
-| Engine ALT acceptable | 4 |
-| Engine disagree | 40 |
+| Engine TOP match | 17 |
+| Engine ALT acceptable | 5 |
+| Engine disagree | 37 |
 | Engine skipped | 41 |
 | FEN illegal | 0 |
-| Soal with illegal SAN in opsi | 56 |
+| Soal with illegal SAN in opsi | 41 |
 
 ## Flagged Soal — Engine DISAGREE
 
@@ -38,271 +38,251 @@ Total soal: 100
 - **Engine top-3:** 1. `Rd1` (+0.17) | 2. `Kf1` (-0.01) | 3. `Re1` (-0.03)
 - **Note:** marked SAN 'Tukar benteng dengan Rxc8' is illegal — cannot compare
 
-### Soal 10 — DISAGREE
-- **Tema:** TAK — Knight Fork Royal (Garpu Kuda Royal)
-- **FEN:** `r3k2r/ppp2ppp/8/1q6/4N3/8/PPP2PPP/4K2R w Kkq - 0 1`
-- **Marked jawaban:** A. `Nd6+`
-- **Engine top-3:** 1. `a4` (-9.14) | 2. `f3` (-9.57) | 3. `Kd1` (-9.71)
-- **Note:** marked 'Nd6+' not in engine top-3 ['a4', 'f3', 'Kd1']
-
 ### Soal 11 — DISAGREE
 - **Tema:** BUK — Identifikasi Pembukaan Ruy Lopez
 - **FEN:** `r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3`
 - **Marked jawaban:** A. `Ruy Lopez`
-- **Engine top-3:** 1. `Nf6` (-0.27) | 2. `a6` (-0.41) | 3. `Nd4` (-0.44)
+- **Engine top-3:** 1. `Nf6` (-0.30) | 2. `a6` (-0.42) | 3. `Be7` (-0.53)
 - **Note:** marked SAN 'Ruy Lopez' is illegal — cannot compare
 
 ### Soal 13 — DISAGREE
 - **Tema:** END — Lucena Position (Building the Bridge)
 - **FEN:** `2K5/2P1k3/8/8/8/8/1R6/4r3 w - - 0 1`
 - **Marked jawaban:** A. `Rb4 (build bridge)`
-- **Engine top-3:** 1. `Kb8` (+6.54) | 2. `Kb7` (+4.97) | 3. `Rb5` (+4.31)
+- **Engine top-3:** 1. `Kb7` (+6.82) | 2. `Kb8` (+6.73) | 3. `Rb7` (+4.16)
 - **Note:** marked SAN 'Rb4 (build bridge)' is illegal — cannot compare
 
 ### Soal 14 — DISAGREE
 - **Tema:** TAK — Basic Pin (Pin Dasar)
 - **FEN:** `rnbqk2r/ppp2ppp/3p1n2/4p3/1bB1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 2 5`
 - **Marked jawaban:** A. `a3`
-- **Engine top-3:** 1. `O-O` (+0.37) | 2. `a4` (+0.35) | 3. `h3` (+0.33)
-- **Note:** marked 'a3' not in engine top-3 ['O-O', 'a4', 'h3']
+- **Engine top-3:** 1. `O-O` (+0.42) | 2. `a4` (+0.35) | 3. `Bd2` (+0.32)
+- **Note:** marked 'a3' not in engine top-3 ['O-O', 'a4', 'Bd2']
 
 ### Soal 15 — DISAGREE
 - **Tema:** STR — Outpost untuk Kuda
 - **FEN:** `r1bqr1k1/pp3ppp/2nb1n2/3p4/3P4/2NB1N2/PP3PPP/R1BQR1K1 w - - 0 1`
 - **Marked jawaban:** A. `Ne5`
-- **Engine top-3:** 1. `Rxe8+` (+0.33) | 2. `Bg5` (+0.11) | 3. `h3` (+0.00)
+- **Engine top-3:** 1. `Rxe8+` (+0.31) | 2. `Bg5` (+0.15) | 3. `h3` (+0.00)
 - **Note:** marked 'Ne5' not in engine top-3 ['Rxe8+', 'Bg5', 'h3']
 
 ### Soal 17 — DISAGREE
 - **Tema:** BUK — Sicilian Najdorf vs Dragon
 - **FEN:** `rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6`
 - **Marked jawaban:** A. `Najdorf`
-- **Engine top-3:** 1. `f3` (+0.42) | 2. `Be2` (+0.35) | 3. `Be3` (+0.34)
+- **Engine top-3:** 1. `Be3` (+0.42) | 2. `f3` (+0.39) | 3. `h3` (+0.32)
 - **Note:** marked SAN 'Najdorf' is illegal — cannot compare
 
 ### Soal 18 — DISAGREE
 - **Tema:** STR — Doubled Pawns (Bidak Ganda)
 - **FEN:** `rnbqkbnr/pp3ppp/2p5/3pp3/8/2P5/PP1PPPPP/RNBQKBNR w KQkq - 0 4`
 - **Marked jawaban:** A. `Di endgame murni`
-- **Engine top-3:** 1. `d4` (-0.81) | 2. `d3` (-0.96) | 3. `g3` (-0.99)
+- **Engine top-3:** 1. `d4` (-0.75) | 2. `g3` (-0.92) | 3. `d3` (-0.98)
 - **Note:** marked SAN 'Di endgame murni' is illegal — cannot compare
 
 ### Soal 20 — DISAGREE
 - **Tema:** BUK — Identifikasi Pembukaan French Defense
 - **FEN:** `rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2`
 - **Marked jawaban:** A. `French Defense`
-- **Engine top-3:** 1. `Nc3` (+0.35) | 2. `d4` (+0.30) | 3. `Nf3` (+0.24)
+- **Engine top-3:** 1. `d4` (+0.44) | 2. `Nc3` (+0.38) | 3. `Nf3` (+0.31)
 - **Note:** marked SAN 'French Defense' is illegal — cannot compare
 
 ### Soal 21 — DISAGREE
 - **Tema:** TAK — Greek Gift Sacrifice (Bxh7+)
-- **FEN:** `r1bq1rk1/pp2bppp/2n1pn2/3p4/3P4/2NBPN2/PPP2PPP/R1BQ1RK1 w - - 4 8`
+- **FEN:** `r1bq1rk1/ppp1bppp/2n2n2/3p4/3P4/2NBPN2/PPP2PPP/R1BQK2R w KQ - 0 1`
 - **Marked jawaban:** A. `Bxh7+`
-- **Engine top-3:** 1. `a3` (+1.32) | 2. `Bd2` (+1.28) | 3. `Qe2` (+1.26)
-- **Note:** marked 'Bxh7+' not in engine top-3 ['a3', 'Bd2', 'Qe2']
+- **Engine top-3:** 1. `a3` (+1.52) | 2. `h3` (+1.41) | 3. `O-O` (+1.40)
+- **Note:** marked 'Bxh7+' not in engine top-3 ['a3', 'h3', 'O-O']
 
 ### Soal 22 — DISAGREE
 - **Tema:** STR — Bishop Pair Value (Nilai Sepasang Gajah)
 - **FEN:** `r2q1rk1/pppb1ppp/2n2n2/3p4/3P4/2NB1N2/PPP2PPP/R1BQ1RK1 w - - 4 8`
 - **Marked jawaban:** A. `Posisi terbuka dengan struktur bidak cair`
-- **Engine top-3:** 1. `Ne2` (+5.05) | 2. `Bg5` (+5.02) | 3. `h3` (+5.01)
+- **Engine top-3:** 1. `Ne2` (+5.06) | 2. `h3` (+5.03) | 3. `Bg5` (+4.99)
 - **Note:** marked SAN 'Posisi terbuka dengan struktur bidak cair' is illegal — cannot compare
 
 ### Soal 24 — DISAGREE
 - **Tema:** TAK — Légal's Mate
 - **FEN:** `r1bqk1nr/pppp1ppp/2n5/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 4`
 - **Marked jawaban:** A. `Nxe5`
-- **Engine top-3:** 1. `h3` (+0.53) | 2. `d3` (+0.43) | 3. `d4` (+0.26)
+- **Engine top-3:** 1. `h3` (+0.53) | 2. `d3` (+0.52) | 3. `d4` (+0.29)
 - **Note:** marked 'Nxe5' not in engine top-3 ['h3', 'd3', 'd4']
 
 ### Soal 26 — DISAGREE
 - **Tema:** BUK — Identifikasi Pembukaan Caro-Kann
 - **FEN:** `rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2`
 - **Marked jawaban:** A. `Caro-Kann Defense`
-- **Engine top-3:** 1. `d4` (+0.40) | 2. `Nc3` (+0.31) | 3. `Nf3` (+0.31)
+- **Engine top-3:** 1. `d4` (+0.37) | 2. `c3` (+0.28) | 3. `Nf3` (+0.26)
 - **Note:** marked SAN 'Caro-Kann Defense' is illegal — cannot compare
 
 ### Soal 29 — DISAGREE
 - **Tema:** BUK — Catalan Opening
 - **FEN:** `rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3`
 - **Marked jawaban:** A. `Catalan`
-- **Engine top-3:** 1. `Be7` (-0.25) | 2. `d5` (-0.31) | 3. `Bb4+` (-0.33)
+- **Engine top-3:** 1. `d5` (-0.35) | 2. `Bb4+` (-0.37) | 3. `Be7` (-0.39)
 - **Note:** marked SAN 'Catalan' is illegal — cannot compare
 
 ### Soal 31 — DISAGREE
 - **Tema:** TAK — Adams-Torre Mate (Smothered Mate Variation, Bauer 1925)
 - **FEN:** `4r1k1/5ppp/r1p5/p1n1RP2/8/1B6/PPP3PP/3R2K1 w - - 0 1`
 - **Marked jawaban:** A. `Pengorbanan menteri berulang di kotak menarget pin diagonal`
-- **Engine top-3:** 1. `Rxe8#` (M+1) | 2. `Bc4` (+5.48) | 3. `Rxc5` (+5.46)
+- **Engine top-3:** 1. `Rxe8#` (M+1) | 2. `Rxc5` (+5.54) | 3. `Bc4` (+5.52)
 - **Note:** marked SAN 'Pengorbanan menteri berulang di kotak menarget pin diagonal' is illegal — cannot compare
 
 ### Soal 32 — DISAGREE
 - **Tema:** END — Square of the Pawn (Aturan Persegi Bidak)
 - **FEN:** `8/8/8/8/4P3/8/8/k6K w - - 0 1`
 - **Marked jawaban:** A. `Tidak bisa, bidak promosi`
-- **Engine top-3:** 1. `Kg2` (+5.07) | 2. `Kh2` (+5.07) | 3. `e5` (+5.06)
+- **Engine top-3:** 1. `e5` (+5.20) | 2. `Kh2` (+5.19) | 3. `Kg2` (+5.15)
 - **Note:** marked SAN 'Tidak bisa, bidak promosi' is illegal — cannot compare
 
 ### Soal 33 — DISAGREE
 - **Tema:** TAK — Sederet Tukar Menguntungkan (Counting Captures)
 - **FEN:** `r2qkb1r/ppp2ppp/2n2n2/3pp3/3P4/2N1PN2/PPP2PPP/R1BQKB1R w KQkq - 0 6`
 - **Marked jawaban:** A. `Ya — attacker (2) ≥ defender (2), dan urutan tukar untung`
-- **Engine top-3:** 1. `Nxe5` (+5.17) | 2. `dxe5` (+4.98) | 3. `Bb5` (+4.95)
+- **Engine top-3:** 1. `dxe5` (+5.12) | 2. `Nxe5` (+5.00) | 3. `Bb5` (+4.79)
 - **Note:** marked SAN 'Ya — attacker (2) ≥ defender (2), dan urutan tukar untung' is illegal — cannot compare
 
 ### Soal 34 — DISAGREE
 - **Tema:** STR — Color Complex (Kompleks Warna)
 - **FEN:** `r2q1rk1/ppp2ppp/3p1n2/4p3/4P3/3P1N2/PPP2PPP/R1BQ1RK1 w - - 0 1`
 - **Marked jawaban:** A. `Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang`
-- **Engine top-3:** 1. `Re1` (+4.93) | 2. `Qe2` (+4.87) | 3. `b3` (+4.87)
+- **Engine top-3:** 1. `Qe2` (+4.90) | 2. `Re1` (+4.90) | 3. `Bg5` (+4.87)
 - **Note:** marked SAN 'Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang' is illegal — cannot compare
 
 ### Soal 35 — DISAGREE
 - **Tema:** BUK — Identifikasi Pembukaan Queen's Gambit
 - **FEN:** `rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2`
 - **Marked jawaban:** A. `Queen's Gambit`
-- **Engine top-3:** 1. `e6` (-0.24) | 2. `dxc4` (-0.30) | 3. `c6` (-0.34)
+- **Engine top-3:** 1. `dxc4` (-0.33) | 2. `e6` (-0.34) | 3. `c6` (-0.34)
 - **Note:** marked SAN "Queen's Gambit" is illegal — cannot compare
 
 ### Soal 37 — DISAGREE
 - **Tema:** END — KP-K Race (Lomba Bidak)
 - **FEN:** `8/p7/8/8/8/8/7P/k6K w - - 0 1`
 - **Marked jawaban:** A. `Keduanya promosi bersamaan, posisi remis dengan QvQ`
-- **Engine top-3:** 1. `h4` (+0.00) | 2. `Kg2` (+0.00) | 3. `Kg1` (-0.02)
+- **Engine top-3:** 1. `h4` (+0.00) | 2. `Kg2` (+0.00) | 3. `Kg1` (-0.01)
 - **Note:** marked SAN 'Keduanya promosi bersamaan, posisi remis dengan QvQ' is illegal — cannot compare
 
 ### Soal 38 — DISAGREE
 - **Tema:** TAK — Diskoveri Skak (Discovered Check)
 - **FEN:** `r3k3/8/8/8/2B5/8/4N3/4K3 w - - 0 1`
 - **Marked jawaban:** C. `Nf4+ (discovered check)`
-- **Engine top-3:** 1. `Kd2` (-0.08) | 2. `Nd4` (-0.12) | 3. `Kd1` (-0.12)
+- **Engine top-3:** 1. `Kd2` (-0.11) | 2. `Nd4` (-0.13) | 3. `Kf2` (-0.14)
 - **Note:** marked SAN 'Nf4+ (discovered check)' is illegal — cannot compare
 
 ### Soal 39 — DISAGREE
 - **Tema:** STR — Prophylaxis (Pencegahan)
 - **FEN:** `r2q1rk1/pp2bppp/2n1pn2/3p4/3P1B2/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 1`
 - **Marked jawaban:** A. `h3 (prevent Ng4)`
-- **Engine top-3:** 1. `h3` (+5.07) | 2. `Bg5` (+5.05) | 3. `Nd2` (+5.03)
+- **Engine top-3:** 1. `h3` (+5.19) | 2. `Nd2` (+5.12) | 3. `Bg5` (+5.01)
 - **Note:** marked SAN 'h3 (prevent Ng4)' is illegal — cannot compare
 
 ### Soal 40 — DISAGREE
 - **Tema:** END — Triangulasi Raja
 - **FEN:** `8/8/4k3/4P3/3K4/8/8/8 w - - 0 1`
 - **Marked jawaban:** A. `Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)`
-- **Engine top-3:** 1. `Ke4` (+0.00) | 2. `Kd3` (+0.00) | 3. `Ke3` (-0.01)
+- **Engine top-3:** 1. `Ke4` (+0.00) | 2. `Kc3` (+0.00) | 3. `Kd3` (+0.00)
 - **Note:** marked SAN 'Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)' is illegal — cannot compare
 
 ### Soal 41 — DISAGREE
 - **Tema:** TAK — Skewer (Tusuk Sate)
 - **FEN:** `8/8/8/8/8/3k4/8/3R2K1 w - - 0 1`
 - **Marked jawaban:** A. `Skak ke raja, raja pindah, lalu ambil bidak di belakang`
-- **Engine top-3:** 1. `Kf2+` (+4.12) | 2. `Re1` (+3.97) | 3. `Ra1` (+3.92)
+- **Engine top-3:** 1. `Kf2+` (+4.49) | 2. `Kf1+` (+4.15) | 3. `Kh1+` (+4.10)
 - **Note:** marked SAN 'Skak ke raja, raja pindah, lalu ambil bidak di belakang' is illegal — cannot compare
 
 ### Soal 42 — DISAGREE
 - **Tema:** BUK — Berlin Defense (Kramnik-Kasparov 2000)
 - **FEN:** `r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4`
 - **Marked jawaban:** A. `O-O (Berlin Wall)`
-- **Engine top-3:** 1. `O-O` (+0.20) | 2. `d3` (+0.05) | 3. `Bxc6` (-0.07)
+- **Engine top-3:** 1. `O-O` (+0.19) | 2. `d3` (+0.10) | 3. `Nc3` (+0.03)
 - **Note:** marked SAN 'O-O (Berlin Wall)' is illegal — cannot compare
 
 ### Soal 43 — DISAGREE
 - **Tema:** STR — Connected Pawns (Bidak Terhubung)
 - **FEN:** `8/8/8/8/8/4PP2/8/k6K w - - 0 1`
 - **Marked jawaban:** A. `Saling melindungi saat maju — sulit dihentikan`
-- **Engine top-3:** 1. `Kh2` (+9.61) | 2. `f4` (+9.61) | 3. `Kg2` (+9.60)
+- **Engine top-3:** 1. `Kg2` (+13.09) | 2. `e4` (+13.09) | 3. `Kh2` (+13.09)
 - **Note:** marked SAN 'Saling melindungi saat maju — sulit dihentikan' is illegal — cannot compare
 
 ### Soal 44 — DISAGREE
 - **Tema:** BUK — Identifikasi Pembukaan London System
 - **FEN:** `rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 2 3`
 - **Marked jawaban:** A. `London System`
-- **Engine top-3:** 1. `c5` (-0.09) | 2. `Bf5` (-0.16) | 3. `e6` (-0.17)
+- **Engine top-3:** 1. `c5` (+0.00) | 2. `e6` (-0.07) | 3. `Bf5` (-0.21)
 - **Note:** marked SAN 'London System' is illegal — cannot compare
 
 ### Soal 45 — DISAGREE
 - **Tema:** TAK — Deflection (Pengalihan)
 - **FEN:** `6k1/5pp1/8/8/8/8/5PP1/3Q1RK1 w - - 0 1`
 - **Marked jawaban:** A. `Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#`
-- **Engine top-3:** 1. `Re1` (M+7) | 2. `f4` (M+8) | 3. `Qd8+` (M+9)
+- **Engine top-3:** 1. `Re1` (M+6) | 2. `Qh5` (M+6) | 3. `Qd5` (M+7)
 - **Note:** marked SAN 'Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#' is illegal — cannot compare
 
 ### Soal 46 — DISAGREE
 - **Tema:** STR — Bidak Sayap Tidak Pertama (Don't Move Wing Pawns First)
 - **FEN:** `rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1`
 - **Marked jawaban:** A. `a4`
-- **Engine top-3:** 1. `d4` (+0.29) | 2. `Nf3` (+0.26) | 3. `e4` (+0.22)
-- **Note:** marked 'a4' not in engine top-3 ['d4', 'Nf3', 'e4']
+- **Engine top-3:** 1. `Nf3` (+0.29) | 2. `d4` (+0.29) | 3. `e4` (+0.27)
+- **Note:** marked 'a4' not in engine top-3 ['Nf3', 'd4', 'e4']
 
 ### Soal 47 — DISAGREE
 - **Tema:** END — Philidor Position (Third Rank Defense)
 - **FEN:** `8/8/8/2k5/2P5/2K5/4r3/3R4 b - - 0 1`
 - **Marked jawaban:** A. `Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang`
-- **Engine top-3:** 1. `Re3+` (+0.00) | 2. `Rh2` (+0.00) | 3. `Kc6` (+0.00)
+- **Engine top-3:** 1. `Rf2` (+0.00) | 2. `Rh2` (+0.00) | 3. `Rg2` (+0.00)
 - **Note:** marked SAN 'Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang' is illegal — cannot compare
 
 ### Soal 48 — DISAGREE
 - **Tema:** TAK — Mat dalam 2 Langkah (Mate in Two)
 - **FEN:** `6k1/6pp/8/8/8/8/8/R3R1K1 w - - 0 1`
 - **Marked jawaban:** B. `Re8+ Kf7 Ra7# (skak terpotong)`
-- **Engine top-3:** 1. `Rec1` (M+11) | 2. `Re6` (M+11) | 3. `Ra7` (M+12)
+- **Engine top-3:** 1. `Re7` (M+15) | 2. `Ra7` (M+15) | 3. `Ra8+` (+8.25)
 - **Note:** marked SAN 'Re8+ Kf7 Ra7# (skak terpotong)' is illegal — cannot compare
 
 ### Soal 49 — DISAGREE
 - **Tema:** BUK — Marshall Attack
 - **FEN:** `r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9`
 - **Marked jawaban:** A. `Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang`
-- **Engine top-3:** 1. `exd5` (+0.33) | 2. `d4` (+0.10) | 3. `d3` (-0.16)
+- **Engine top-3:** 1. `exd5` (+0.47) | 2. `d4` (+0.10) | 3. `d3` (-0.18)
 - **Note:** marked SAN 'Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang' is illegal — cannot compare
 
 ### Soal 52 — DISAGREE
 - **Tema:** BUK — Identifikasi Trompowsky Attack
 - **FEN:** `rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2`
 - **Marked jawaban:** B. `Trompowsky Attack`
-- **Engine top-3:** 1. `d5` (-0.04) | 2. `c6` (-0.14) | 3. `e6` (-0.17)
+- **Engine top-3:** 1. `d5` (+0.02) | 2. `Ne4` (-0.08) | 3. `g6` (-0.16)
 - **Note:** marked SAN 'Trompowsky Attack' is illegal — cannot compare
 
 ### Soal 54 — DISAGREE
 - **Tema:** STR — Connected Pawns
 - **FEN:** `r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6`
 - **Marked jawaban:** A. `e5`
-- **Engine top-3:** 1. `exd5` (-0.02) | 2. `dxc5` (-0.36) | 3. `Bg5` (-0.75)
+- **Engine top-3:** 1. `exd5` (-0.01) | 2. `dxc5` (-0.37) | 3. `Bg5` (-0.69)
 - **Note:** marked 'e5' not in engine top-3 ['exd5', 'dxc5', 'Bg5']
-
-### Soal 55 — DISAGREE
-- **Tema:** TAK — Zwischenzug (In-Between Move)
-- **FEN:** `r1bq1rk1/pp1pbppp/2n2n2/4n3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8`
-- **Marked jawaban:** B. `Bxf7+`
-- **Engine top-3:** 1. `dxe5` (+2.69) | 2. `Nxe5` (+1.28) | 3. `Be2` (-4.02)
-- **Note:** marked 'Bxf7+' not in engine top-3 ['dxe5', 'Nxe5', 'Be2']
 
 ### Soal 56 — DISAGREE
 - **Tema:** BUK — Identifikasi Slav Defense
 - **FEN:** `rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3`
 - **Marked jawaban:** B. `Slav Defense`
-- **Engine top-3:** 1. `Nf3` (+0.33) | 2. `Nc3` (+0.29) | 3. `cxd5` (+0.23)
+- **Engine top-3:** 1. `Nf3` (+0.40) | 2. `Nc3` (+0.35) | 3. `e3` (+0.33)
 - **Note:** marked SAN 'Slav Defense' is illegal — cannot compare
-
-### Soal 57 — DISAGREE
-- **Tema:** TAK — Mate-in-2 Sederhana
-- **FEN:** `6rk/6pp/8/8/8/8/1B6/3Q3K w - - 0 1`
-- **Marked jawaban:** B. `Bxg7+`
-- **Engine top-3:** 1. `Qg1` (M+3) | 2. `Qg4` (M+3) | 3. `Qd7` (M+5)
-- **Note:** marked 'Bxg7+' not in engine top-3 ['Qg1', 'Qg4', 'Qd7']
 
 ### Soal 59 — DISAGREE
 - **Tema:** END — Insufficient Material
 - **FEN:** `8/8/4k3/8/8/4B3/4K3/8 w - - 0 1`
 - **Marked jawaban:** B. `Remis`
-- **Engine top-3:** 1. `Kd3` (+0.00) | 2. `Kd2` (+0.00) | 3. `Bg1` (+0.00)
+- **Engine top-3:** 1. `Kd2` (+0.00) | 2. `Bg1` (+0.00) | 3. `Kd3` (+0.00)
 - **Note:** marked SAN 'Remis' is illegal — cannot compare
 
 ## Soal — Engine ALT_OK (acceptable alternatives)
 
 - Soal 7 (TAK) — marked A. `Bxh7+` · top: `Rxe7` (+8.19) | `Bxh7+` (+7.70) | `Bxc8` (+7.04)
 - Soal 8 (END) — marked C. `Ke3` · top: `Kc3` (+0.29) | `Ke3` (+0.29) | `Kc2` (+0.29)
-- Soal 12 (STR) — marked A. `O-O` · top: `Bg5` (+0.44) | `O-O` (+0.34) | `Ne2` (+0.33)
-- Soal 36 (TAK) — marked A. `Nf7#` · top: `Qxh7#` (M+1) | `Nf7#` (M+1) | `Nxh7` (M+5)
+- Soal 12 (STR) — marked A. `O-O` · top: `Bg5` (+0.43) | `O-O` (+0.41) | `Nd5` (+0.36)
+- Soal 36 (TAK) — marked A. `Nf7#` · top: `Qxh7#` (M+1) | `Nf7#` (M+1) | `Nxh7` (M+7)
+- Soal 51 (TAK) — marked A. `Nxc6` · top: `Nc4` (-4.55) | `Nxc6` (-4.56) | `d4` (-4.83)
 
 ## Soal With FEN Issues
 
@@ -317,14 +297,6 @@ _None._
   - C. `Scotch Game` — ILLEGAL — parse_san('Scotch Game') failed: invalid san: 'Scotch Game'
   - D. `Four Knights Game` — ILLEGAL — parse_san('Four Knights Game') failed: invalid san: 'Four Knights Game'
 
-### Soal 5
-- **Tema:** TAK — Back-Rank Mate (Mat Baris Belakang)
-- **FEN:** `6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1`
-  - A. `Ra8#` — OK
-  - B. `Rh1` — ILLEGAL — parse_san('Rh1') failed: illegal san: 'Rh1' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1
-  - C. `Kg2` — ILLEGAL — parse_san('Kg2') failed: illegal san: 'Kg2' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1
-  - D. `Ra7` — OK
-
 ### Soal 6
 - **Tema:** BUK — Identifikasi Pembukaan Sicilian Defense
 - **FEN:** `rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2`
@@ -332,22 +304,6 @@ _None._
   - B. `French Defense` — ILLEGAL — parse_san('French Defense') failed: invalid san: 'French Defense'
   - C. `Caro-Kann Defense` — ILLEGAL — parse_san('Caro-Kann Defense') failed: invalid san: 'Caro-Kann Defense'
   - D. `Pirc Defense` — ILLEGAL — parse_san('Pirc Defense') failed: invalid san: 'Pirc Defense'
-
-### Soal 7
-- **Tema:** TAK — Lasker's Double Bishop Sacrifice (Lasker–Bauer 1889)
-- **FEN:** `r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1`
-  - A. `Bxh7+` — OK
-  - B. `Nxd5` — ILLEGAL — parse_san('Nxd5') failed: illegal san: 'Nxd5' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1
-  - C. `Bxf6` — ILLEGAL — parse_san('Bxf6') failed: illegal san: 'Bxf6' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1
-  - D. `Re3` — OK
-
-### Soal 8
-- **Tema:** END — Promosi Bidak (King and Pawn vs King, Opposition)
-- **FEN:** `8/8/8/3k4/8/3K4/3P4/8 w - - 0 1`
-  - A. `d4+` — ILLEGAL — parse_san('d4+') failed: illegal san: 'd4+' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1
-  - B. `Kc3` — OK
-  - C. `Ke3` — OK
-  - D. `Kd3` — ILLEGAL — parse_san('Kd3') failed: illegal san: 'Kd3' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1
 
 ### Soal 9
 - **Tema:** STR — Open File untuk Benteng
@@ -365,14 +321,6 @@ _None._
   - C. `Bishop's Opening` — ILLEGAL — parse_san("Bishop's Opening") failed: invalid san: "Bishop's Opening"
   - D. `Vienna Game` — ILLEGAL — parse_san('Vienna Game') failed: invalid san: 'Vienna Game'
 
-### Soal 12
-- **Tema:** STR — Prioritas Rokade (Castle Priority)
-- **FEN:** `r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 4 5`
-  - A. `O-O` — OK
-  - B. `h4` — OK
-  - C. `Nd5` — OK
-  - D. `Bxf7+?!` — ILLEGAL — parse_san('Bxf7+?!') failed: invalid san: 'Bxf7+?!'
-
 ### Soal 13
 - **Tema:** END — Lucena Position (Building the Bridge)
 - **FEN:** `2K5/2P1k3/8/8/8/8/1R6/4r3 w - - 0 1`
@@ -380,14 +328,6 @@ _None._
   - B. `c8=Q (promosi langsung)` — ILLEGAL — parse_san('c8=Q (promosi langsung)') failed: invalid san: 'c8=Q (promosi langsung)'
   - C. `Kb7 (raja minggir)` — ILLEGAL — parse_san('Kb7 (raja minggir)') failed: invalid san: 'Kb7 (raja minggir)'
   - D. `Rxe1 (tukar benteng)` — ILLEGAL — parse_san('Rxe1 (tukar benteng)') failed: invalid san: 'Rxe1 (tukar benteng)'
-
-### Soal 16
-- **Tema:** END — Skakmat Raja & Benteng (KR vs K)
-- **FEN:** `7k/8/6K1/8/8/8/8/R7 w - - 0 1`
-  - A. `Ra8#` — OK
-  - B. `Rh1+` — OK
-  - C. `Kf7` — OK
-  - D. `Kg7` — ILLEGAL — parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/8/8/8/8/R7 w - - 0 1
 
 ### Soal 17
 - **Tema:** BUK — Sicilian Najdorf vs Dragon
@@ -421,14 +361,6 @@ _None._
   - C. `Endgame raja vs raja saja` — ILLEGAL — parse_san('Endgame raja vs raja saja') failed: invalid san: 'Endgame raja vs raja saja'
   - D. `Pembukaan dengan banyak minor piece` — ILLEGAL — parse_san('Pembukaan dengan banyak minor piece') failed: invalid san: 'Pembukaan dengan banyak minor piece'
 
-### Soal 23
-- **Tema:** END — KP-K Promosi Hindari Stalemate
-- **FEN:** `k7/P7/K7/8/8/8/8/8 w - - 0 1`
-  - A. `Kb6` — OK
-  - B. `a8=Q+ (stalemate?)` — ILLEGAL — parse_san('a8=Q+ (stalemate?)') failed: invalid san: 'a8=Q+ (stalemate?)'
-  - C. `a8=R+` — ILLEGAL — parse_san('a8=R+') failed: illegal san: 'a8=R+' in k7/P7/K7/8/8/8/8/8 w - - 0 1
-  - D. `Kb5` — OK
-
 ### Soal 26
 - **Tema:** BUK — Identifikasi Pembukaan Caro-Kann
 - **FEN:** `rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2`
@@ -436,14 +368,6 @@ _None._
   - B. `Sicilian Defense` — ILLEGAL — parse_san('Sicilian Defense') failed: invalid san: 'Sicilian Defense'
   - C. `French Defense` — ILLEGAL — parse_san('French Defense') failed: invalid san: 'French Defense'
   - D. `Modern Defense` — ILLEGAL — parse_san('Modern Defense') failed: invalid san: 'Modern Defense'
-
-### Soal 27
-- **Tema:** END — Réti's Endgame Study (1921)
-- **FEN:** `7K/8/k1P5/7p/8/8/8/8 w - - 0 1`
-  - A. `Kg7` — OK
-  - B. `Kh7` — OK
-  - C. `c7` — OK
-  - D. `Kh8` — ILLEGAL — parse_san('Kh8') failed: illegal san: 'Kh8' in 7K/8/k1P5/7p/8/8/8/8 w - - 0 1
 
 ### Soal 29
 - **Tema:** BUK — Catalan Opening
@@ -597,14 +521,6 @@ _None._
   - C. `Torre Attack` — ILLEGAL — parse_san('Torre Attack') failed: invalid san: 'Torre Attack'
   - D. `Veresov` — ILLEGAL — parse_san('Veresov') failed: invalid san: 'Veresov'
 
-### Soal 54
-- **Tema:** STR — Connected Pawns
-- **FEN:** `r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6`
-  - A. `e5` — OK
-  - B. `exd5` — OK
-  - C. `dxc5` — OK
-  - D. `d5` — ILLEGAL — parse_san('d5') failed: illegal san: 'd5' in r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6
-
 ### Soal 56
 - **Tema:** BUK — Identifikasi Slav Defense
 - **FEN:** `rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3`
@@ -620,22 +536,6 @@ _None._
   - B. `Remis` — ILLEGAL — parse_san('Remis') failed: invalid san: 'Remis'
   - C. `Hitam menang` — ILLEGAL — parse_san('Hitam menang') failed: invalid san: 'Hitam menang'
   - D. `Remis tapi hanya jika 50 langkah` — ILLEGAL — parse_san('Remis tapi hanya jika 50 langkah') failed: invalid san: 'Remis tapi hanya jika 50 langkah'
-
-### Soal 60
-- **Tema:** TAK — Anderssen's Immortal Game Highlight
-- **FEN:** `r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20`
-  - A. `Kxg1` — ILLEGAL — parse_san('Kxg1') failed: illegal san: 'Kxg1' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20
-  - B. `Nf6+` — OK
-  - C. `Bd6` — OK
-  - D. `Qf6+` — ILLEGAL — parse_san('Qf6+') failed: illegal san: 'Qf6+' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20
-
-### Soal 61
-- **Tema:** TAK — Pin Absolut
-- **FEN:** `r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 3 4`
-  - A. `Bxc6 dxc6` — ILLEGAL — parse_san('Bxc6 dxc6') failed: invalid san: 'Bxc6 dxc6'
-  - B. `Nxe5` — OK
-  - C. `d4` — OK
-  - D. `O-O` — OK
 
 ### Soal 62
 - **Tema:** BUK — Identifikasi London System
@@ -661,14 +561,6 @@ _None._
   - C. `King's Indian Defense` — ILLEGAL — parse_san("King's Indian Defense") failed: invalid san: "King's Indian Defense"
   - D. `Pirc Defense` — ILLEGAL — parse_san('Pirc Defense') failed: invalid san: 'Pirc Defense'
 
-### Soal 69
-- **Tema:** TAK — Removing the Defender
-- **FEN:** `r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5`
-  - A. `Bg4` — OK
-  - B. `Nxe4` — OK
-  - C. `O-O` — ILLEGAL — parse_san('O-O') failed: illegal san: 'O-O' in r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5
-  - D. `d4` — OK
-
 ### Soal 72
 - **Tema:** BUK — Nimzo-Indian Defense: Konsep Utama
 - **FEN:** `rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4`
@@ -676,22 +568,6 @@ _None._
   - B. `Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3` — ILLEGAL — parse_san('Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3') failed: invalid san: 'Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3'
   - C. `Mempersiapkan O-O-O (castle panjang)` — ILLEGAL — parse_san('Mempersiapkan O-O-O (castle panjang)') failed: invalid san: 'Mempersiapkan O-O-O (castle panjang)'
   - D. `Menjaga pion e5 dari serangan` — ILLEGAL — parse_san('Menjaga pion e5 dari serangan') failed: invalid san: 'Menjaga pion e5 dari serangan'
-
-### Soal 74
-- **Tema:** STR — Principle of Two Weaknesses
-- **FEN:** `6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30`
-  - A. `g4` — OK
-  - B. `Kf2` — ILLEGAL — parse_san('Kf2') failed: illegal san: 'Kf2' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30
-  - C. `e4` — OK
-  - D. `cxb4` — ILLEGAL — parse_san('cxb4') failed: illegal san: 'cxb4' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30
-
-### Soal 77
-- **Tema:** TAK — Windmill Pattern
-- **FEN:** `5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24`
-  - A. `Bxf8` — OK
-  - B. `Ra8` — ILLEGAL — parse_san('Ra8') failed: illegal san: 'Ra8' in 5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24
-  - C. `Bh6` — OK
-  - D. `Re1` — OK
 
 ### Soal 79
 - **Tema:** END — Zugzwang dalam Pion Endgame
@@ -709,14 +585,6 @@ _None._
   - C. `Karena memaksa Raja Hitam membuka posisi` — ILLEGAL — parse_san('Karena memaksa Raja Hitam membuka posisi') failed: invalid san: 'Karena memaksa Raja Hitam membuka posisi'
   - D. `Karena membuka kolom c untuk serangan langsung` — ILLEGAL — parse_san('Karena membuka kolom c untuk serangan langsung') failed: invalid san: 'Karena membuka kolom c untuk serangan langsung'
 
-### Soal 83
-- **Tema:** END — Triangulation (Teknik Segitiga Raja)
-- **FEN:** `8/8/3k4/3p1p2/3P1P2/3K4/8/8 w - - 0 1`
-  - A. `Ke3` — OK
-  - B. `Kc3` — OK
-  - C. `Kd2` — OK
-  - D. `Ke4` — ILLEGAL — parse_san('Ke4') failed: illegal san: 'Ke4' in 8/8/3k4/3p1p2/3P1P2/3K4/8/8 w - - 0 1
-
 ### Soal 86
 - **Tema:** END — Bishop Endgame: Same Color vs Different Color
 - **FEN:** `8/5p2/3k2p1/7p/7P/3K2P1/5P2/6B1 w - - 0 1`
@@ -724,14 +592,6 @@ _None._
   - B. `Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan` — ILLEGAL — parse_san('Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan') failed: invalid san: 'Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan'
   - C. `Karena Raja lebih aktif dari Gajah dalam endgame` — ILLEGAL — parse_san('Karena Raja lebih aktif dari Gajah dalam endgame') failed: invalid san: 'Karena Raja lebih aktif dari Gajah dalam endgame'
   - D. `Karena pion menjadi lebih penting dari Gajah di endgame` — ILLEGAL — parse_san('Karena pion menjadi lebih penting dari Gajah di endgame') failed: invalid san: 'Karena pion menjadi lebih penting dari Gajah di endgame'
-
-### Soal 93
-- **Tema:** END — Pawn Majority dalam Endgame
-- **FEN:** `8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1`
-  - A. `h4` — OK
-  - B. `f4` — OK
-  - C. `Kf4` — OK
-  - D. `g4` — ILLEGAL — parse_san('g4') failed: illegal san: 'g4' in 8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1
 
 ### Soal 95
 - **Tema:** BUK — Benko Gambit: Filosofi dan Struktur

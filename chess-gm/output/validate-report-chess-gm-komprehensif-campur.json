@@ -1,15 +1,15 @@
 {
   "file": "chess-gm-komprehensif-campur.md",
-  "validated_at": "2026-05-17T17:38:23.369941+07:00",
+  "validated_at": "2026-05-17T18:23:37.867544+07:00",
   "stockfish_depth": 18,
   "engine_used": true,
   "total_soal": 100,
   "summary": {
     "fen_illegal": 0,
-    "san_illegal": 56,
-    "engine_top_match": 15,
-    "engine_alt_ok": 4,
-    "engine_disagree": 40,
+    "san_illegal": 41,
+    "engine_top_match": 17,
+    "engine_alt_ok": 5,
+    "engine_disagree": 37,
     "engine_skipped": 41
   },
   "soal": [
@@ -225,20 +225,20 @@
       "giliran_text": "Putih",
       "opsi": [
         "Ra8#",
-        "Rh1",
-        "Kg2",
+        "Rb1",
+        "Kh1",
         "Ra7"
       ],
       "opsi_legality": [
         true,
-        false,
-        false,
+        true,
+        true,
         true
       ],
       "opsi_errors": [
         "",
-        "parse_san('Rh1') failed: illegal san: 'Rh1' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
-        "parse_san('Kg2') failed: illegal san: 'Kg2' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+        "",
+        "",
         ""
       ],
       "jawaban_letter": "A",
@@ -325,20 +325,20 @@
       "giliran_text": "Putih",
       "opsi": [
         "Bxh7+",
-        "Nxd5",
-        "Bxf6",
+        "Bg6",
+        "Ng5",
         "Re3"
       ],
       "opsi_legality": [
         true,
-        false,
-        false,
+        true,
+        true,
         true
       ],
       "opsi_errors": [
         "",
-        "parse_san('Nxd5') failed: illegal san: 'Nxd5' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1",
-        "parse_san('Bxf6') failed: illegal san: 'Bxf6' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1",
+        "",
+        "",
         ""
       ],
       "jawaban_letter": "A",
@@ -374,22 +374,22 @@
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "d4+",
+        "Kc2",
         "Kc3",
         "Ke3",
-        "Kd3"
+        "Ke2"
       ],
       "opsi_legality": [
-        false,
         true,
         true,
-        false
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('d4+') failed: illegal san: 'd4+' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1",
         "",
         "",
-        "parse_san('Kd3') failed: illegal san: 'Kd3' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1"
+        "",
+        ""
       ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
@@ -468,7 +468,7 @@
       "level": "P",
       "pilar": "TAK",
       "tema": "Knight Fork Royal (Garpu Kuda Royal)",
-      "fen": "r3k2r/ppp2ppp/8/1q6/4N3/8/PPP2PPP/4K2R w Kkq - 0 1",
+      "fen": "r3k2r/pp3ppp/2p5/1q6/4N3/8/PPP2PPP/4K2R w Kkq - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -495,23 +495,23 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
+          "san": "Nd6+",
+          "eval_cp": -611,
+          "mate": null
+        },
+        {
           "san": "a4",
-          "eval_cp": -914,
+          "eval_cp": -897,
           "mate": null
         },
         {
-          "san": "f3",
-          "eval_cp": -957,
-          "mate": null
-        },
-        {
-          "san": "Kd1",
-          "eval_cp": -971,
+          "san": "c4",
+          "eval_cp": -913,
           "mate": null
         }
       ],
-      "engine_agree": "DISAGREE",
-      "notes": "marked 'Nd6+' not in engine top-3 ['a4', 'f3', 'Kd1']"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 11,
@@ -546,17 +546,17 @@
       "engine_top3": [
         {
           "san": "Nf6",
-          "eval_cp": -27,
+          "eval_cp": -30,
           "mate": null
         },
         {
           "san": "a6",
-          "eval_cp": -41,
+          "eval_cp": -42,
           "mate": null
         },
         {
-          "san": "Nd4",
-          "eval_cp": -44,
+          "san": "Be7",
+          "eval_cp": -53,
           "mate": null
         }
       ],
@@ -577,36 +577,36 @@
         "O-O",
         "h4",
         "Nd5",
-        "Bxf7+?!"
+        "Bxf7+"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('Bxf7+?!') failed: invalid san: 'Bxf7+?!'"
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [
         {
           "san": "Bg5",
-          "eval_cp": 44,
+          "eval_cp": 43,
           "mate": null
         },
         {
           "san": "O-O",
-          "eval_cp": 34,
+          "eval_cp": 41,
           "mate": null
         },
         {
-          "san": "Ne2",
-          "eval_cp": 33,
+          "san": "Nd5",
+          "eval_cp": 36,
           "mate": null
         }
       ],
@@ -645,18 +645,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Kb8",
-          "eval_cp": 654,
-          "mate": null
-        },
-        {
           "san": "Kb7",
-          "eval_cp": 497,
+          "eval_cp": 682,
           "mate": null
         },
         {
-          "san": "Rb5",
-          "eval_cp": 431,
+          "san": "Kb8",
+          "eval_cp": 673,
+          "mate": null
+        },
+        {
+          "san": "Rb7",
+          "eval_cp": 416,
           "mate": null
         }
       ],
@@ -696,7 +696,7 @@
       "engine_top3": [
         {
           "san": "O-O",
-          "eval_cp": 37,
+          "eval_cp": 42,
           "mate": null
         },
         {
@@ -705,13 +705,13 @@
           "mate": null
         },
         {
-          "san": "h3",
-          "eval_cp": 33,
+          "san": "Bd2",
+          "eval_cp": 32,
           "mate": null
         }
       ],
       "engine_agree": "DISAGREE",
-      "notes": "marked 'a3' not in engine top-3 ['O-O', 'a4', 'h3']"
+      "notes": "marked 'a3' not in engine top-3 ['O-O', 'a4', 'Bd2']"
     },
     {
       "number": 15,
@@ -746,12 +746,12 @@
       "engine_top3": [
         {
           "san": "Rxe8+",
-          "eval_cp": 33,
+          "eval_cp": 31,
           "mate": null
         },
         {
           "san": "Bg5",
-          "eval_cp": 11,
+          "eval_cp": 15,
           "mate": null
         },
         {
@@ -777,19 +777,19 @@
         "Ra8#",
         "Rh1+",
         "Kf7",
-        "Kg7"
+        "Ra7"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/8/8/8/8/R7 w - - 0 1"
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
@@ -805,7 +805,7 @@
           "mate": 2
         },
         {
-          "san": "Ra2",
+          "san": "Re1",
           "eval_cp": null,
           "mate": 2
         }
@@ -845,18 +845,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "f3",
+          "san": "Be3",
           "eval_cp": 42,
           "mate": null
         },
         {
-          "san": "Be2",
-          "eval_cp": 35,
+          "san": "f3",
+          "eval_cp": 39,
           "mate": null
         },
         {
-          "san": "Be3",
-          "eval_cp": 34,
+          "san": "h3",
+          "eval_cp": 32,
           "mate": null
         }
       ],
@@ -896,17 +896,17 @@
       "engine_top3": [
         {
           "san": "d4",
-          "eval_cp": -81,
-          "mate": null
-        },
-        {
-          "san": "d3",
-          "eval_cp": -96,
+          "eval_cp": -75,
           "mate": null
         },
         {
           "san": "g3",
-          "eval_cp": -99,
+          "eval_cp": -92,
+          "mate": null
+        },
+        {
+          "san": "d3",
+          "eval_cp": -98,
           "mate": null
         }
       ],
@@ -951,12 +951,12 @@
         },
         {
           "san": "Qe7",
-          "eval_cp": 17,
+          "eval_cp": 16,
           "mate": null
         },
         {
           "san": "Qf6",
-          "eval_cp": -13,
+          "eval_cp": -4,
           "mate": null
         }
       ],
@@ -995,18 +995,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Nc3",
-          "eval_cp": 35,
+          "san": "d4",
+          "eval_cp": 44,
           "mate": null
         },
         {
-          "san": "d4",
-          "eval_cp": 30,
+          "san": "Nc3",
+          "eval_cp": 38,
           "mate": null
         },
         {
           "san": "Nf3",
-          "eval_cp": 24,
+          "eval_cp": 31,
           "mate": null
         }
       ],
@@ -1018,7 +1018,7 @@
       "level": "K",
       "pilar": "TAK",
       "tema": "Greek Gift Sacrifice (Bxh7+)",
-      "fen": "r1bq1rk1/pp2bppp/2n1pn2/3p4/3P4/2NBPN2/PPP2PPP/R1BQ1RK1 w - - 4 8",
+      "fen": "r1bq1rk1/ppp1bppp/2n2n2/3p4/3P4/2NBPN2/PPP2PPP/R1BQK2R w KQ - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
@@ -1027,7 +1027,7 @@
         "Bxh7+",
         "Ng5",
         "Qd2",
-        "Re1"
+        "Bd2"
       ],
       "opsi_legality": [
         true,
@@ -1046,22 +1046,22 @@
       "engine_top3": [
         {
           "san": "a3",
-          "eval_cp": 132,
+          "eval_cp": 152,
           "mate": null
         },
         {
-          "san": "Bd2",
-          "eval_cp": 128,
+          "san": "h3",
+          "eval_cp": 141,
           "mate": null
         },
         {
-          "san": "Qe2",
-          "eval_cp": 126,
+          "san": "O-O",
+          "eval_cp": 140,
           "mate": null
         }
       ],
       "engine_agree": "DISAGREE",
-      "notes": "marked 'Bxh7+' not in engine top-3 ['a3', 'Bd2', 'Qe2']"
+      "notes": "marked 'Bxh7+' not in engine top-3 ['a3', 'h3', 'O-O']"
     },
     {
       "number": 22,
@@ -1096,17 +1096,17 @@
       "engine_top3": [
         {
           "san": "Ne2",
-          "eval_cp": 505,
-          "mate": null
-        },
-        {
-          "san": "Bg5",
-          "eval_cp": 502,
+          "eval_cp": 506,
           "mate": null
         },
         {
           "san": "h3",
-          "eval_cp": 501,
+          "eval_cp": 503,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": 499,
           "mate": null
         }
       ],
@@ -1118,45 +1118,45 @@
       "level": "P",
       "pilar": "END",
       "tema": "KP-K Promosi Hindari Stalemate",
-      "fen": "k7/P7/K7/8/8/8/8/8 w - - 0 1",
+      "fen": "k7/2K5/1P6/8/8/8/8/8 w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Kb6",
-        "a8=Q+ (stalemate?)",
-        "a8=R+",
-        "Kb5"
+        "b7+",
+        "Kc8",
+        "Kc6",
+        "Kd7"
       ],
       "opsi_legality": [
         true,
-        false,
-        false,
+        true,
+        true,
         true
       ],
       "opsi_errors": [
         "",
-        "parse_san('a8=Q+ (stalemate?)') failed: invalid san: 'a8=Q+ (stalemate?)'",
-        "parse_san('a8=R+') failed: illegal san: 'a8=R+' in k7/P7/K7/8/8/8/8/8 w - - 0 1",
+        "",
+        "",
         ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Kb6",
-          "eval_cp": 0,
-          "mate": null
+          "san": "b7+",
+          "eval_cp": null,
+          "mate": 3
         },
         {
-          "san": "Kb5",
-          "eval_cp": 0,
-          "mate": null
+          "san": "Kc6",
+          "eval_cp": null,
+          "mate": 6
         },
         {
-          "san": "Ka5",
-          "eval_cp": -23,
+          "san": "Kd6",
+          "eval_cp": 0,
           "mate": null
         }
       ],
@@ -1201,12 +1201,12 @@
         },
         {
           "san": "d3",
-          "eval_cp": 43,
+          "eval_cp": 52,
           "mate": null
         },
         {
           "san": "d4",
-          "eval_cp": 26,
+          "eval_cp": 29,
           "mate": null
         }
       ],
@@ -1246,17 +1246,17 @@
       "engine_top3": [
         {
           "san": "Nf3",
-          "eval_cp": 29,
+          "eval_cp": 25,
           "mate": null
         },
         {
           "san": "Nc3",
-          "eval_cp": 9,
+          "eval_cp": 16,
           "mate": null
         },
         {
-          "san": "Bc4",
-          "eval_cp": 1,
+          "san": "Ne2",
+          "eval_cp": 3,
           "mate": null
         }
       ],
@@ -1296,17 +1296,17 @@
       "engine_top3": [
         {
           "san": "d4",
-          "eval_cp": 40,
+          "eval_cp": 37,
           "mate": null
         },
         {
-          "san": "Nc3",
-          "eval_cp": 31,
+          "san": "c3",
+          "eval_cp": 28,
           "mate": null
         },
         {
           "san": "Nf3",
-          "eval_cp": 31,
+          "eval_cp": 26,
           "mate": null
         }
       ],
@@ -1327,19 +1327,19 @@
         "Kg7",
         "Kh7",
         "c7",
-        "Kh8"
+        "Kg8"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('Kh8') failed: illegal san: 'Kh8' in 7K/8/k1P5/7p/8/8/8/8 w - - 0 1"
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
@@ -1351,12 +1351,12 @@
         },
         {
           "san": "Kh7",
-          "eval_cp": -506,
+          "eval_cp": -692,
           "mate": null
         },
         {
           "san": "c7",
-          "eval_cp": -509,
+          "eval_cp": -704,
           "mate": null
         }
       ],
@@ -1400,13 +1400,13 @@
           "mate": 1
         },
         {
-          "san": "f4",
-          "eval_cp": 623,
+          "san": "h4",
+          "eval_cp": 627,
           "mate": null
         },
         {
-          "san": "Kf1",
-          "eval_cp": 615,
+          "san": "f3",
+          "eval_cp": 623,
           "mate": null
         }
       ],
@@ -1445,18 +1445,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Be7",
-          "eval_cp": -25,
-          "mate": null
-        },
-        {
           "san": "d5",
-          "eval_cp": -31,
+          "eval_cp": -35,
           "mate": null
         },
         {
           "san": "Bb4+",
-          "eval_cp": -33,
+          "eval_cp": -37,
+          "mate": null
+        },
+        {
+          "san": "Be7",
+          "eval_cp": -39,
           "mate": null
         }
       ],
@@ -1496,17 +1496,17 @@
       "engine_top3": [
         {
           "san": "Nf6",
-          "eval_cp": -1,
+          "eval_cp": -6,
           "mate": null
         },
         {
           "san": "Bb4",
-          "eval_cp": -53,
+          "eval_cp": -48,
           "mate": null
         },
         {
           "san": "d6",
-          "eval_cp": -60,
+          "eval_cp": -62,
           "mate": null
         }
       ],
@@ -1550,13 +1550,13 @@
           "mate": 1
         },
         {
-          "san": "Bc4",
-          "eval_cp": 548,
+          "san": "Rxc5",
+          "eval_cp": 554,
           "mate": null
         },
         {
-          "san": "Rxc5",
-          "eval_cp": 546,
+          "san": "Bc4",
+          "eval_cp": 552,
           "mate": null
         }
       ],
@@ -1595,18 +1595,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Kg2",
-          "eval_cp": 507,
+          "san": "e5",
+          "eval_cp": 520,
           "mate": null
         },
         {
           "san": "Kh2",
-          "eval_cp": 507,
+          "eval_cp": 519,
           "mate": null
         },
         {
-          "san": "e5",
-          "eval_cp": 506,
+          "san": "Kg2",
+          "eval_cp": 515,
           "mate": null
         }
       ],
@@ -1645,18 +1645,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Nxe5",
-          "eval_cp": 517,
+          "san": "dxe5",
+          "eval_cp": 512,
           "mate": null
         },
         {
-          "san": "dxe5",
-          "eval_cp": 498,
+          "san": "Nxe5",
+          "eval_cp": 500,
           "mate": null
         },
         {
           "san": "Bb5",
-          "eval_cp": 495,
+          "eval_cp": 479,
           "mate": null
         }
       ],
@@ -1695,17 +1695,17 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Re1",
-          "eval_cp": 493,
-          "mate": null
-        },
-        {
           "san": "Qe2",
-          "eval_cp": 487,
+          "eval_cp": 490,
           "mate": null
         },
         {
-          "san": "b3",
+          "san": "Re1",
+          "eval_cp": 490,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
           "eval_cp": 487,
           "mate": null
         }
@@ -1745,13 +1745,13 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "e6",
-          "eval_cp": -24,
+          "san": "dxc4",
+          "eval_cp": -33,
           "mate": null
         },
         {
-          "san": "dxc4",
-          "eval_cp": -30,
+          "san": "e6",
+          "eval_cp": -34,
           "mate": null
         },
         {
@@ -1807,7 +1807,7 @@
         {
           "san": "Nxh7",
           "eval_cp": null,
-          "mate": 5
+          "mate": 7
         }
       ],
       "engine_agree": "ALT_OK",
@@ -1856,7 +1856,7 @@
         },
         {
           "san": "Kg1",
-          "eval_cp": -2,
+          "eval_cp": -1,
           "mate": null
         }
       ],
@@ -1896,17 +1896,17 @@
       "engine_top3": [
         {
           "san": "Kd2",
-          "eval_cp": -8,
+          "eval_cp": -11,
           "mate": null
         },
         {
           "san": "Nd4",
-          "eval_cp": -12,
+          "eval_cp": -13,
           "mate": null
         },
         {
-          "san": "Kd1",
-          "eval_cp": -12,
+          "san": "Kf2",
+          "eval_cp": -14,
           "mate": null
         }
       ],
@@ -1946,17 +1946,17 @@
       "engine_top3": [
         {
           "san": "h3",
-          "eval_cp": 507,
-          "mate": null
-        },
-        {
-          "san": "Bg5",
-          "eval_cp": 505,
+          "eval_cp": 519,
           "mate": null
         },
         {
           "san": "Nd2",
-          "eval_cp": 503,
+          "eval_cp": 512,
+          "mate": null
+        },
+        {
+          "san": "Bg5",
+          "eval_cp": 501,
           "mate": null
         }
       ],
@@ -2000,13 +2000,13 @@
           "mate": null
         },
         {
-          "san": "Kd3",
+          "san": "Kc3",
           "eval_cp": 0,
           "mate": null
         },
         {
-          "san": "Ke3",
-          "eval_cp": -1,
+          "san": "Kd3",
+          "eval_cp": 0,
           "mate": null
         }
       ],
@@ -2046,17 +2046,17 @@
       "engine_top3": [
         {
           "san": "Kf2+",
-          "eval_cp": 412,
+          "eval_cp": 449,
           "mate": null
         },
         {
-          "san": "Re1",
-          "eval_cp": 397,
+          "san": "Kf1+",
+          "eval_cp": 415,
           "mate": null
         },
         {
-          "san": "Ra1",
-          "eval_cp": 392,
+          "san": "Kh1+",
+          "eval_cp": 410,
           "mate": null
         }
       ],
@@ -2096,17 +2096,17 @@
       "engine_top3": [
         {
           "san": "O-O",
-          "eval_cp": 20,
+          "eval_cp": 19,
           "mate": null
         },
         {
           "san": "d3",
-          "eval_cp": 5,
+          "eval_cp": 10,
           "mate": null
         },
         {
-          "san": "Bxc6",
-          "eval_cp": -7,
+          "san": "Nc3",
+          "eval_cp": 3,
           "mate": null
         }
       ],
@@ -2145,18 +2145,18 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Kh2",
-          "eval_cp": 961,
-          "mate": null
-        },
-        {
-          "san": "f4",
-          "eval_cp": 961,
-          "mate": null
-        },
-        {
           "san": "Kg2",
-          "eval_cp": 960,
+          "eval_cp": 1309,
+          "mate": null
+        },
+        {
+          "san": "e4",
+          "eval_cp": 1309,
+          "mate": null
+        },
+        {
+          "san": "Kh2",
+          "eval_cp": 1309,
           "mate": null
         }
       ],
@@ -2196,17 +2196,17 @@
       "engine_top3": [
         {
           "san": "c5",
-          "eval_cp": -9,
-          "mate": null
-        },
-        {
-          "san": "Bf5",
-          "eval_cp": -16,
+          "eval_cp": 0,
           "mate": null
         },
         {
           "san": "e6",
-          "eval_cp": -17,
+          "eval_cp": -7,
+          "mate": null
+        },
+        {
+          "san": "Bf5",
+          "eval_cp": -21,
           "mate": null
         }
       ],
@@ -2247,17 +2247,17 @@
         {
           "san": "Re1",
           "eval_cp": null,
+          "mate": 6
+        },
+        {
+          "san": "Qh5",
+          "eval_cp": null,
+          "mate": 6
+        },
+        {
+          "san": "Qd5",
+          "eval_cp": null,
           "mate": 7
-        },
-        {
-          "san": "f4",
-          "eval_cp": null,
-          "mate": 8
-        },
-        {
-          "san": "Qd8+",
-          "eval_cp": null,
-          "mate": 9
         }
       ],
       "engine_agree": "DISAGREE",
@@ -2295,23 +2295,23 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
+          "san": "Nf3",
+          "eval_cp": 29,
+          "mate": null
+        },
+        {
           "san": "d4",
           "eval_cp": 29,
           "mate": null
         },
         {
-          "san": "Nf3",
-          "eval_cp": 26,
-          "mate": null
-        },
-        {
           "san": "e4",
-          "eval_cp": 22,
+          "eval_cp": 27,
           "mate": null
         }
       ],
       "engine_agree": "DISAGREE",
-      "notes": "marked 'a4' not in engine top-3 ['d4', 'Nf3', 'e4']"
+      "notes": "marked 'a4' not in engine top-3 ['Nf3', 'd4', 'e4']"
     },
     {
       "number": 47,
@@ -2345,7 +2345,7 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Re3+",
+          "san": "Rf2",
           "eval_cp": 0,
           "mate": null
         },
@@ -2355,7 +2355,7 @@
           "mate": null
         },
         {
-          "san": "Kc6",
+          "san": "Rg2",
           "eval_cp": 0,
           "mate": null
         }
@@ -2395,19 +2395,19 @@
       "jawaban_idx": 1,
       "engine_top3": [
         {
-          "san": "Rec1",
+          "san": "Re7",
           "eval_cp": null,
-          "mate": 11
-        },
-        {
-          "san": "Re6",
-          "eval_cp": null,
-          "mate": 11
+          "mate": 15
         },
         {
           "san": "Ra7",
           "eval_cp": null,
-          "mate": 12
+          "mate": 15
+        },
+        {
+          "san": "Ra8+",
+          "eval_cp": 825,
+          "mate": null
         }
       ],
       "engine_agree": "DISAGREE",
@@ -2446,7 +2446,7 @@
       "engine_top3": [
         {
           "san": "exd5",
-          "eval_cp": 33,
+          "eval_cp": 47,
           "mate": null
         },
         {
@@ -2456,7 +2456,7 @@
         },
         {
           "san": "d3",
-          "eval_cp": -16,
+          "eval_cp": -18,
           "mate": null
         }
       ],
@@ -2501,12 +2501,12 @@
         },
         {
           "san": "Qc3",
-          "eval_cp": 362,
+          "eval_cp": 363,
           "mate": null
         },
         {
           "san": "Qb7",
-          "eval_cp": 331,
+          "eval_cp": 344,
           "mate": null
         }
       ],
@@ -2545,13 +2545,13 @@
       "jawaban_idx": 0,
       "engine_top3": [
         {
-          "san": "Nxc6",
-          "eval_cp": -450,
+          "san": "Nc4",
+          "eval_cp": -455,
           "mate": null
         },
         {
-          "san": "Nc4",
-          "eval_cp": -468,
+          "san": "Nxc6",
+          "eval_cp": -456,
           "mate": null
         },
         {
@@ -2560,8 +2560,8 @@
           "mate": null
         }
       ],
-      "engine_agree": "TOP",
-      "notes": ""
+      "engine_agree": "ALT_OK",
+      "notes": "marked is engine #2, eval within 50cp of top"
     },
     {
       "number": 52,
@@ -2596,17 +2596,17 @@
       "engine_top3": [
         {
           "san": "d5",
-          "eval_cp": -4,
+          "eval_cp": 2,
           "mate": null
         },
         {
-          "san": "c6",
-          "eval_cp": -14,
+          "san": "Ne4",
+          "eval_cp": -8,
           "mate": null
         },
         {
-          "san": "e6",
-          "eval_cp": -17,
+          "san": "g6",
+          "eval_cp": -16,
           "mate": null
         }
       ],
@@ -2650,13 +2650,13 @@
           "mate": null
         },
         {
-          "san": "Kh7",
-          "eval_cp": -516,
+          "san": "Kg8",
+          "eval_cp": -725,
           "mate": null
         },
         {
-          "san": "c7",
-          "eval_cp": -547,
+          "san": "Kh7",
+          "eval_cp": -899,
           "mate": null
         }
       ],
@@ -2677,36 +2677,36 @@
         "e5",
         "exd5",
         "dxc5",
-        "d5"
+        "Bd3"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('d5') failed: illegal san: 'd5' in r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
       "engine_top3": [
         {
           "san": "exd5",
-          "eval_cp": -2,
+          "eval_cp": -1,
           "mate": null
         },
         {
           "san": "dxc5",
-          "eval_cp": -36,
+          "eval_cp": -37,
           "mate": null
         },
         {
           "san": "Bg5",
-          "eval_cp": -75,
+          "eval_cp": -69,
           "mate": null
         }
       ],
@@ -2717,7 +2717,7 @@
       "number": 55,
       "level": "K",
       "pilar": "TAK",
-      "tema": "Zwischenzug (In-Between Move)",
+      "tema": "Counting Material: Recapture vs Premature Sacrifice",
       "fen": "r1bq1rk1/pp1pbppp/2n2n2/4n3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
       "fen_legal": true,
       "fen_error": "",
@@ -2741,27 +2741,27 @@
         "",
         ""
       ],
-      "jawaban_letter": "B",
-      "jawaban_idx": 1,
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
       "engine_top3": [
         {
           "san": "dxe5",
-          "eval_cp": 269,
+          "eval_cp": 244,
           "mate": null
         },
         {
           "san": "Nxe5",
-          "eval_cp": 128,
+          "eval_cp": 129,
           "mate": null
         },
         {
-          "san": "Be2",
-          "eval_cp": -402,
+          "san": "Bd5",
+          "eval_cp": -401,
           "mate": null
         }
       ],
-      "engine_agree": "DISAGREE",
-      "notes": "marked 'Bxf7+' not in engine top-3 ['dxe5', 'Nxe5', 'Be2']"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 56,
@@ -2796,17 +2796,17 @@
       "engine_top3": [
         {
           "san": "Nf3",
-          "eval_cp": 33,
+          "eval_cp": 40,
           "mate": null
         },
         {
           "san": "Nc3",
-          "eval_cp": 29,
+          "eval_cp": 35,
           "mate": null
         },
         {
-          "san": "cxd5",
-          "eval_cp": 23,
+          "san": "e3",
+          "eval_cp": 33,
           "mate": null
         }
       ],
@@ -2818,15 +2818,15 @@
       "level": "P",
       "pilar": "TAK",
       "tema": "Mate-in-2 Sederhana",
-      "fen": "6rk/6pp/8/8/8/8/1B6/3Q3K w - - 0 1",
+      "fen": "6rk/6pp/8/8/8/8/1B5Q/7K w - - 0 1",
       "fen_legal": true,
       "fen_error": "",
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Qd8",
+        "Qh6",
         "Bxg7+",
-        "Qd5",
+        "Qd2",
         "Qh5"
       ],
       "opsi_legality": [
@@ -2841,27 +2841,27 @@
         "",
         ""
       ],
-      "jawaban_letter": "B",
-      "jawaban_idx": 1,
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
       "engine_top3": [
+        {
+          "san": "Qh6",
+          "eval_cp": null,
+          "mate": 2
+        },
         {
           "san": "Qg1",
           "eval_cp": null,
           "mate": 3
         },
         {
-          "san": "Qg4",
+          "san": "Qg3",
           "eval_cp": null,
           "mate": 3
-        },
-        {
-          "san": "Qd7",
-          "eval_cp": null,
-          "mate": 5
         }
       ],
-      "engine_agree": "DISAGREE",
-      "notes": "marked 'Bxg7+' not in engine top-3 ['Qg1', 'Qg4', 'Qd7']"
+      "engine_agree": "TOP",
+      "notes": ""
     },
     {
       "number": 58,
@@ -2896,17 +2896,17 @@
       "engine_top3": [
         {
           "san": "Rd7",
-          "eval_cp": 731,
+          "eval_cp": 738,
           "mate": null
         },
         {
-          "san": "f3",
-          "eval_cp": 725,
+          "san": "f4",
+          "eval_cp": 720,
           "mate": null
         },
         {
           "san": "h4",
-          "eval_cp": 718,
+          "eval_cp": 720,
           "mate": null
         }
       ],
@@ -2945,17 +2945,17 @@
       "jawaban_idx": 1,
       "engine_top3": [
         {
-          "san": "Kd3",
-          "eval_cp": 0,
-          "mate": null
-        },
-        {
           "san": "Kd2",
           "eval_cp": 0,
           "mate": null
         },
         {
           "san": "Bg1",
+          "eval_cp": 0,
+          "mate": null
+        },
+        {
+          "san": "Kd3",
           "eval_cp": 0,
           "mate": null
         }
@@ -2974,22 +2974,22 @@
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Kxg1",
+        "exf6",
         "Nf6+",
         "Bd6",
-        "Qf6+"
+        "Kf3"
       ],
       "opsi_legality": [
-        false,
         true,
         true,
-        false
+        true,
+        true
       ],
       "opsi_errors": [
-        "parse_san('Kxg1') failed: illegal san: 'Kxg1' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20",
         "",
         "",
-        "parse_san('Qf6+') failed: illegal san: 'Qf6+' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20"
+        "",
+        ""
       ],
       "jawaban_letter": "C",
       "jawaban_idx": 2,
@@ -3008,19 +3008,19 @@
       "giliran": "w",
       "giliran_text": "Putih",
       "opsi": [
-        "Bxc6 dxc6",
+        "Bxc6",
         "Nxe5",
         "d4",
         "O-O"
       ],
       "opsi_legality": [
-        false,
+        true,
         true,
         true,
         true
       ],
       "opsi_errors": [
-        "parse_san('Bxc6 dxc6') failed: invalid san: 'Bxc6 dxc6'",
+        "",
         "",
         "",
         ""
@@ -3282,19 +3282,19 @@
       "opsi": [
         "Bg4",
         "Nxe4",
-        "O-O",
+        "Be7",
         "d4"
       ],
       "opsi_legality": [
         true,
         true,
-        false,
+        true,
         true
       ],
       "opsi_errors": [
         "",
         "",
-        "parse_san('O-O') failed: illegal san: 'O-O' in r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5",
+        "",
         ""
       ],
       "jawaban_letter": "A",
@@ -3451,21 +3451,21 @@
       "giliran_text": "Putih",
       "opsi": [
         "g4",
-        "Kf2",
+        "Kf1",
         "e4",
-        "cxb4"
+        "f3"
       ],
       "opsi_legality": [
         true,
-        false,
         true,
-        false
+        true,
+        true
       ],
       "opsi_errors": [
         "",
-        "parse_san('Kf2') failed: illegal san: 'Kf2' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30",
         "",
-        "parse_san('cxb4') failed: illegal san: 'cxb4' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30"
+        "",
+        ""
       ],
       "jawaban_letter": "A",
       "jawaban_idx": 0,
@@ -3553,19 +3553,19 @@
       "giliran_text": "Putih",
       "opsi": [
         "Bxf8",
-        "Ra8",
+        "Bf6",
         "Bh6",
         "Re1"
       ],
       "opsi_legality": [
         true,
-        false,
+        true,
         true,
         true
       ],
       "opsi_errors": [
         "",
-        "parse_san('Ra8') failed: illegal san: 'Ra8' in 5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24",
+        "",
         "",
         ""
       ],
@@ -3759,19 +3759,19 @@
         "Ke3",
         "Kc3",
         "Kd2",
-        "Ke4"
+        "Ke2"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('Ke4') failed: illegal san: 'Ke4' in 8/8/3k4/3p1p2/3P1P2/3K4/8/8 w - - 0 1"
+        ""
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
@@ -4099,19 +4099,19 @@
         "h4",
         "f4",
         "Kf4",
-        "g4"
+        "f3"
       ],
       "opsi_legality": [
         true,
         true,
         true,
-        false
+        true
       ],
       "opsi_errors": [
         "",
         "",
         "",
-        "parse_san('g4') failed: illegal san: 'g4' in 8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1"
+        ""
       ],
       "jawaban_letter": "B",
       "jawaban_idx": 1,
