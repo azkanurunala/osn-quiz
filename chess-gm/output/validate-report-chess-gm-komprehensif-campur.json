@@ -1,0 +1,3407 @@
+{
+  "file": "chess-gm-komprehensif-campur.md",
+  "validated_at": "2026-05-17T15:46:25.518087+07:00",
+  "stockfish_depth": null,
+  "engine_used": false,
+  "total_soal": 100,
+  "summary": {
+    "fen_illegal": 1,
+    "san_illegal": 70,
+    "engine_top_match": 0,
+    "engine_alt_ok": 0,
+    "engine_disagree": 0,
+    "engine_skipped": 100
+  },
+  "soal": [
+    {
+      "number": 1,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Hanging Piece (Bidak Menggantung)",
+      "fen": "rnbqkb1r/pppp1ppp/5n2/4n3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxe5",
+        "d3",
+        "Bc4",
+        "Nc3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 2,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan Italian Game",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Italian Game",
+        "Ruy Lopez",
+        "Scotch Game",
+        "Four Knights Game"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Italian Game') failed: invalid san: 'Italian Game'",
+        "parse_san('Ruy Lopez') failed: invalid san: 'Ruy Lopez'",
+        "parse_san('Scotch Game') failed: invalid san: 'Scotch Game'",
+        "parse_san('Four Knights Game') failed: invalid san: 'Four Knights Game'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 3,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Skakmat Raja & Menteri (KQ vs K)",
+      "fen": "7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Qg7#",
+        "Qh5+",
+        "Qa8+",
+        "Kg7"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Qg7#') failed: illegal san: 'Qg7#' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
+        "",
+        "parse_san('Qa8+') failed: illegal san: 'Qa8+' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1",
+        "parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/6Q1/8/8/8/8 w - - 0 1"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 4,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Penguasaan Pusat (Center Control)",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "e4",
+        "h4",
+        "a3",
+        "Nh3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 5,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Back-Rank Mate (Mat Baris Belakang)",
+      "fen": "6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ra8#",
+        "Rh1",
+        "Kg2",
+        "Ra7"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('Rh1') failed: illegal san: 'Rh1' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+        "parse_san('Kg2') failed: illegal san: 'Kg2' in 6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 6,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan Sicilian Defense",
+      "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Sicilian Defense",
+        "French Defense",
+        "Caro-Kann Defense",
+        "Pirc Defense"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Sicilian Defense') failed: invalid san: 'Sicilian Defense'",
+        "parse_san('French Defense') failed: invalid san: 'French Defense'",
+        "parse_san('Caro-Kann Defense') failed: invalid san: 'Caro-Kann Defense'",
+        "parse_san('Pirc Defense') failed: invalid san: 'Pirc Defense'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 7,
+      "level": "M",
+      "pilar": "TAK",
+      "tema": "Lasker's Double Bishop Sacrifice (Lasker–Bauer 1889)",
+      "fen": "r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bxh7+",
+        "Nxd5",
+        "Bxf6",
+        "Re3"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('Nxd5') failed: illegal san: 'Nxd5' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1",
+        "parse_san('Bxf6') failed: illegal san: 'Bxf6' in r1b2rk1/pp2qppp/2p2n2/3p1B2/3P4/3B1N2/PPPQ1PPP/4RRK1 w - - 0 1",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 8,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Promosi Bidak (King and Pawn vs King, Opposition)",
+      "fen": "8/8/8/3k4/8/3K4/3P4/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "d4+",
+        "Kc3",
+        "Ke3",
+        "Kd3"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('d4+') failed: illegal san: 'd4+' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1",
+        "",
+        "",
+        "parse_san('Kd3') failed: illegal san: 'Kd3' in 8/8/8/3k4/8/3K4/3P4/8 w - - 0 1"
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 9,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Open File untuk Benteng",
+      "fen": "2r3k1/pp3ppp/2p5/8/8/2P5/PP3PPP/2R3K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Tukar benteng dengan Rxc8",
+        "Mundurkan benteng ke baris 2",
+        "Mainkan b4 dorong sayap menteri",
+        "Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Tukar benteng dengan Rxc8') failed: invalid san: 'Tukar benteng dengan Rxc8'",
+        "parse_san('Mundurkan benteng ke baris 2') failed: invalid san: 'Mundurkan benteng ke baris 2'",
+        "parse_san('Mainkan b4 dorong sayap menteri') failed: invalid san: 'Mainkan b4 dorong sayap menteri'",
+        "parse_san('Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)') failed: invalid san: 'Kembangkan minor piece dulu (sebenarnya tidak ada di posisi ini)'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 10,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Knight Fork Royal (Garpu Kuda Royal)",
+      "fen": "r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nd6",
+        "Nf6",
+        "Nc6",
+        "Ne6"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Nd6') failed: illegal san: 'Nd6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
+        "parse_san('Nf6') failed: illegal san: 'Nf6' in r3k2r/ppp2ppp/8/8/3N4/8/PPP2PPP/4K2R w Kkq - 0 1",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 11,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan Ruy Lopez",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Ruy Lopez",
+        "Italian Game",
+        "Bishop's Opening",
+        "Vienna Game"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Ruy Lopez') failed: invalid san: 'Ruy Lopez'",
+        "parse_san('Italian Game') failed: invalid san: 'Italian Game'",
+        "parse_san(\"Bishop's Opening\") failed: invalid san: \"Bishop's Opening\"",
+        "parse_san('Vienna Game') failed: invalid san: 'Vienna Game'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 12,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Prioritas Rokade (Castle Priority)",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 4 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "O-O",
+        "h4",
+        "Nd5",
+        "Bxf7+?!"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('Bxf7+?!') failed: invalid san: 'Bxf7+?!'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 13,
+      "level": "K",
+      "pilar": "END",
+      "tema": "Lucena Position (Building the Bridge)",
+      "fen": "2K5/2P1k3/8/8/8/8/1R6/4r3 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Rb4 (build bridge)",
+        "c8=Q (promosi langsung)",
+        "Kb7 (raja minggir)",
+        "Rxe1 (tukar benteng)"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Rb4 (build bridge)') failed: invalid san: 'Rb4 (build bridge)'",
+        "parse_san('c8=Q (promosi langsung)') failed: invalid san: 'c8=Q (promosi langsung)'",
+        "parse_san('Kb7 (raja minggir)') failed: invalid san: 'Kb7 (raja minggir)'",
+        "parse_san('Rxe1 (tukar benteng)') failed: invalid san: 'Rxe1 (tukar benteng)'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 14,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Basic Pin (Pin Dasar)",
+      "fen": "rnbqk2r/ppp2ppp/3p1n2/4p3/1bB1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 2 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "a3",
+        "Bd2",
+        "Kf1",
+        "Bxf7+"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 15,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Outpost untuk Kuda",
+      "fen": "r1bqr1k1/pp3ppp/2nb1n2/3p4/3P4/2NB1N2/PP3PPP/R1BQR1K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ne5",
+        "Bd2",
+        "Qb3",
+        "h3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 16,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Skakmat Raja & Benteng (KR vs K)",
+      "fen": "7k/8/6K1/8/8/8/8/R7 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ra8#",
+        "Rh1+",
+        "Kf7",
+        "Kg7"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('Kg7') failed: illegal san: 'Kg7' in 7k/8/6K1/8/8/8/8/R7 w - - 0 1"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 17,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "Sicilian Najdorf vs Dragon",
+      "fen": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Najdorf",
+        "Dragon",
+        "Sveshnikov",
+        "Taimanov"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Najdorf') failed: invalid san: 'Najdorf'",
+        "parse_san('Dragon') failed: invalid san: 'Dragon'",
+        "parse_san('Sveshnikov') failed: invalid san: 'Sveshnikov'",
+        "parse_san('Taimanov') failed: invalid san: 'Taimanov'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 18,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Doubled Pawns (Bidak Ganda)",
+      "fen": "rnbqkbnr/pp3ppp/2p5/3pp3/8/2P5/PP1PPPPP/RNBQKBNR w KQkq - 0 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Di endgame murni",
+        "Di tengah game dengan banyak bidak",
+        "Saat ada banyak gajah di papan",
+        "Tidak pernah merugikan"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Di endgame murni') failed: invalid san: 'Di endgame murni'",
+        "parse_san('Di tengah game dengan banyak bidak') failed: invalid san: 'Di tengah game dengan banyak bidak'",
+        "parse_san('Saat ada banyak gajah di papan') failed: invalid san: 'Saat ada banyak gajah di papan'",
+        "parse_san('Tidak pernah merugikan') failed: invalid san: 'Tidak pernah merugikan'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 19,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Scholar's Mate (Mat Tukang Sekolah)",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "g6",
+        "Nf6",
+        "Nh6",
+        "d6"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 20,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan French Defense",
+      "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "French Defense",
+        "Caro-Kann",
+        "Sicilian",
+        "Pirc"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('French Defense') failed: invalid san: 'French Defense'",
+        "parse_san('Caro-Kann') failed: invalid san: 'Caro-Kann'",
+        "parse_san('Sicilian') failed: invalid san: 'Sicilian'",
+        "parse_san('Pirc') failed: invalid san: 'Pirc'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 21,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Greek Gift Sacrifice (Bxh7+)",
+      "fen": "r1bq1rk1/pp2bppp/2n1pn2/3p4/3P4/2NBPN2/PPP2PPP/R1BQ1RK1 w - - 4 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bxh7+",
+        "Ng5",
+        "Qd2",
+        "Re1"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 22,
+      "level": "M",
+      "pilar": "STR",
+      "tema": "Bishop Pair Value (Nilai Sepasang Gajah)",
+      "fen": "r2q1rk1/pppb1ppp/2n2n2/3p4/3P4/2NB1N2/PPP2PPP/R1BQ1RK1 w - - 4 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Posisi terbuka dengan struktur bidak cair",
+        "Posisi tertutup dengan banyak bidak terkunci",
+        "Endgame raja vs raja saja",
+        "Pembukaan dengan banyak minor piece"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Posisi terbuka dengan struktur bidak cair') failed: invalid san: 'Posisi terbuka dengan struktur bidak cair'",
+        "parse_san('Posisi tertutup dengan banyak bidak terkunci') failed: invalid san: 'Posisi tertutup dengan banyak bidak terkunci'",
+        "parse_san('Endgame raja vs raja saja') failed: invalid san: 'Endgame raja vs raja saja'",
+        "parse_san('Pembukaan dengan banyak minor piece') failed: invalid san: 'Pembukaan dengan banyak minor piece'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 23,
+      "level": "P",
+      "pilar": "END",
+      "tema": "KP-K Promosi Hindari Stalemate",
+      "fen": "k7/P7/K7/8/8/8/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Kb6",
+        "a8=Q+ (stalemate?)",
+        "a8=R+",
+        "Kb5"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('a8=Q+ (stalemate?)') failed: invalid san: 'a8=Q+ (stalemate?)'",
+        "parse_san('a8=R+') failed: illegal san: 'a8=R+' in k7/P7/K7/8/8/8/8/8 w - - 0 1",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 24,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Légal's Mate",
+      "fen": "r1bqk1nr/pppp1ppp/2n5/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxe5",
+        "h3",
+        "O-O",
+        "Bxf7+"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 25,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Knight Development First (Kuda Dulu, Gajah Belakangan)",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nf3",
+        "Bc4",
+        "Bd3",
+        "Qh5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 26,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan Caro-Kann",
+      "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Caro-Kann Defense",
+        "Sicilian Defense",
+        "French Defense",
+        "Modern Defense"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Caro-Kann Defense') failed: invalid san: 'Caro-Kann Defense'",
+        "parse_san('Sicilian Defense') failed: invalid san: 'Sicilian Defense'",
+        "parse_san('French Defense') failed: invalid san: 'French Defense'",
+        "parse_san('Modern Defense') failed: invalid san: 'Modern Defense'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 27,
+      "level": "M",
+      "pilar": "END",
+      "tema": "Réti's Endgame Study (1921)",
+      "fen": "7K/8/k1P5/7p/8/8/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Kg7",
+        "Kh7",
+        "c7",
+        "Kh8"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('Kh8') failed: illegal san: 'Kh8' in 7K/8/k1P5/7p/8/8/8/8 w - - 0 1"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 28,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Mat dalam 1 Langkah (Mate in One)",
+      "fen": "6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ra8#",
+        "Rd1",
+        "Kf1",
+        "Re1"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 29,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "Catalan Opening",
+      "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Catalan",
+        "Queen's Indian",
+        "King's Indian",
+        "Nimzo-Indian"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Catalan') failed: invalid san: 'Catalan'",
+        "parse_san(\"Queen's Indian\") failed: invalid san: \"Queen's Indian\"",
+        "parse_san(\"King's Indian\") failed: invalid san: \"King's Indian\"",
+        "parse_san('Nimzo-Indian') failed: invalid san: 'Nimzo-Indian'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 30,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Kembangkan Kedua Kuda Sebelum Gajah",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Nf6",
+        "Bc5",
+        "Bd6",
+        "f6"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 31,
+      "level": "M",
+      "pilar": "TAK",
+      "tema": "Adams-Torre Mate (Smothered Mate Variation, Bauer 1925)",
+      "fen": "4r1k1/5ppp/r1p5/p1n1RP2/8/1B6/PPP3PP/3R2K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Pengorbanan menteri berulang di kotak menarget pin diagonal",
+        "Pengorbanan benteng untuk back-rank mate",
+        "Knight royal fork",
+        "Stalemate trick"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Pengorbanan menteri berulang di kotak menarget pin diagonal') failed: invalid san: 'Pengorbanan menteri berulang di kotak menarget pin diagonal'",
+        "parse_san('Pengorbanan benteng untuk back-rank mate') failed: invalid san: 'Pengorbanan benteng untuk back-rank mate'",
+        "parse_san('Knight royal fork') failed: invalid san: 'Knight royal fork'",
+        "parse_san('Stalemate trick') failed: invalid san: 'Stalemate trick'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 32,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Square of the Pawn (Aturan Persegi Bidak)",
+      "fen": "8/8/8/8/4P3/8/8/k6K w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Tidak bisa, bidak promosi",
+        "Bisa, raja menangkap di e7",
+        "Bisa, raja menangkap di e8",
+        "Tergantung langkah pertama Putih lain"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Tidak bisa, bidak promosi') failed: unsupported multi-leg move: 'Tidak bisa, bidak promosi'",
+        "parse_san('Bisa, raja menangkap di e7') failed: unsupported multi-leg move: 'Bisa, raja menangkap di e7'",
+        "parse_san('Bisa, raja menangkap di e8') failed: unsupported multi-leg move: 'Bisa, raja menangkap di e8'",
+        "parse_san('Tergantung langkah pertama Putih lain') failed: invalid san: 'Tergantung langkah pertama Putih lain'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 33,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Sederet Tukar Menguntungkan (Counting Captures)",
+      "fen": "r2qkb1r/ppp2ppp/2n2n2/3pp3/3P4/2N1PN2/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ya — attacker (2) ≥ defender (2), dan urutan tukar untung",
+        "Tidak — defender selalu menang dalam tukar",
+        "Ya, tapi hanya dengan menteri",
+        "Tergantung warna kotak"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Ya — attacker (2) ≥ defender (2), dan urutan tukar untung') failed: unsupported multi-leg move: 'Ya — attacker (2) ≥ defender (2), dan urutan tukar untung'",
+        "parse_san('Tidak — defender selalu menang dalam tukar') failed: invalid san: 'Tidak — defender selalu menang dalam tukar'",
+        "parse_san('Ya, tapi hanya dengan menteri') failed: unsupported multi-leg move: 'Ya, tapi hanya dengan menteri'",
+        "parse_san('Tergantung warna kotak') failed: invalid san: 'Tergantung warna kotak'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 34,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Color Complex (Kompleks Warna)",
+      "fen": "r2q1rk1/ppp2ppp/3p1n2/4p3/4P3/3P1N2/PPP2PPP/R1BQ1RK1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang",
+        "Tukar semua gajah segera",
+        "Push bidak ke promosi sebanyak mungkin",
+        "Defend dengan benteng saja"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang') failed: unsupported multi-leg move: 'Tempatkan bidak di kotak gelap, manfaatkan gajah terang di kotak terang'",
+        "parse_san('Tukar semua gajah segera') failed: invalid san: 'Tukar semua gajah segera'",
+        "parse_san('Push bidak ke promosi sebanyak mungkin') failed: invalid san: 'Push bidak ke promosi sebanyak mungkin'",
+        "parse_san('Defend dengan benteng saja') failed: invalid san: 'Defend dengan benteng saja'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 35,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan Queen's Gambit",
+      "fen": "rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Queen's Gambit",
+        "London System",
+        "Catalan",
+        "Slav Defense"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san(\"Queen's Gambit\") failed: invalid san: \"Queen's Gambit\"",
+        "parse_san('London System') failed: invalid san: 'London System'",
+        "parse_san('Catalan') failed: invalid san: 'Catalan'",
+        "parse_san('Slav Defense') failed: invalid san: 'Slav Defense'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 36,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Smothered Mate (Mat Tercekik)",
+      "fen": "6rk/6pp/8/6NQ/8/8/8/6K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nf7#",
+        "Qxh7#",
+        "Nh7+",
+        "Qg6"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 37,
+      "level": "P",
+      "pilar": "END",
+      "tema": "KP-K Race (Lomba Bidak)",
+      "fen": "8/p7/8/8/8/8/7P/k6K w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Keduanya promosi bersamaan, posisi remis dengan QvQ",
+        "Putih promosi duluan dan menang",
+        "Hitam promosi duluan dan menang",
+        "Putih kalah karena bidak h lebih jauh"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Keduanya promosi bersamaan, posisi remis dengan QvQ') failed: unsupported multi-leg move: 'Keduanya promosi bersamaan, posisi remis dengan QvQ'",
+        "parse_san('Putih promosi duluan dan menang') failed: invalid san: 'Putih promosi duluan dan menang'",
+        "parse_san('Hitam promosi duluan dan menang') failed: invalid san: 'Hitam promosi duluan dan menang'",
+        "parse_san('Putih kalah karena bidak h lebih jauh') failed: invalid san: 'Putih kalah karena bidak h lebih jauh'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 38,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Diskoveri Skak (Discovered Check)",
+      "fen": "r3k3/8/8/8/2B5/8/4N3/4K3 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nd4+ (discovered check + menyerang benteng a8 lewat kuda? Tidak — Nd4 tidak buka diagonal)",
+        "Nc3+ (discovered check + menyerang benteng a8 dengan kuda? Kuda c3 tidak menyerang a8)",
+        "Nf4+ (discovered check)",
+        "Bxe6+"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Nd4+ (discovered check + menyerang benteng a8 lewat kuda? Tidak — Nd4 tidak buka diagonal)') failed: invalid san: 'Nd4+ (discovered check + menyerang benteng a8 lewat kuda? Tidak — Nd4 tidak buka diagonal)'",
+        "parse_san('Nc3+ (discovered check + menyerang benteng a8 dengan kuda? Kuda c3 tidak menyerang a8)') failed: invalid san: 'Nc3+ (discovered check + menyerang benteng a8 dengan kuda? Kuda c3 tidak menyerang a8)'",
+        "parse_san('Nf4+ (discovered check)') failed: invalid san: 'Nf4+ (discovered check)'",
+        ""
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 39,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Prophylaxis (Pencegahan)",
+      "fen": "r2q1rk1/pp2bppp/2n1pn2/3p4/3P1B2/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "h3 (prevent Ng4)",
+        "Bxh7+ (Greek Gift)",
+        "Rxa7 (snatch pawn)",
+        "Qd2 (preparation)"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('h3 (prevent Ng4)') failed: invalid san: 'h3 (prevent Ng4)'",
+        "parse_san('Bxh7+ (Greek Gift)') failed: invalid san: 'Bxh7+ (Greek Gift)'",
+        "parse_san('Rxa7 (snatch pawn)') failed: invalid san: 'Rxa7 (snatch pawn)'",
+        "parse_san('Qd2 (preparation)') failed: invalid san: 'Qd2 (preparation)'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 40,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Triangulasi Raja",
+      "fen": "8/8/4k3/4P3/3K4/8/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)",
+        "e6+ langsung promosi",
+        "Kc4 -> kembali ke d4 (2-square approach)",
+        "Kxe5 (raja makan bidak sendiri ilegal)"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)') failed: invalid san: 'Kd3 -> Ke3 -> Kd4 (triangle dengan 1 tempo loss)'",
+        "parse_san('e6+ langsung promosi') failed: invalid san: 'e6+ langsung promosi'",
+        "parse_san('Kc4 -> kembali ke d4 (2-square approach)') failed: invalid san: 'Kc4 -> kembali ke d4 (2-square approach)'",
+        "parse_san('Kxe5 (raja makan bidak sendiri ilegal)') failed: invalid san: 'Kxe5 (raja makan bidak sendiri ilegal)'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 41,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Skewer (Tusuk Sate)",
+      "fen": "8/8/8/8/8/3k4/8/3R2K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Skak ke raja, raja pindah, lalu ambil bidak di belakang",
+        "Skak yang langsung mat",
+        "Tukar benteng untuk simplifikasi",
+        "Mundur benteng untuk fianchetto"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Skak ke raja, raja pindah, lalu ambil bidak di belakang') failed: unsupported multi-leg move: 'Skak ke raja, raja pindah, lalu ambil bidak di belakang'",
+        "parse_san('Skak yang langsung mat') failed: invalid san: 'Skak yang langsung mat'",
+        "parse_san('Tukar benteng untuk simplifikasi') failed: invalid san: 'Tukar benteng untuk simplifikasi'",
+        "parse_san('Mundur benteng untuk fianchetto') failed: invalid san: 'Mundur benteng untuk fianchetto'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 42,
+      "level": "M",
+      "pilar": "BUK",
+      "tema": "Berlin Defense (Kramnik-Kasparov 2000)",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "O-O (Berlin Wall)",
+        "Bxc6 immediately",
+        "d3 quiet",
+        "Nc3 four knights"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('O-O (Berlin Wall)') failed: invalid san: 'O-O (Berlin Wall)'",
+        "parse_san('Bxc6 immediately') failed: invalid san: 'Bxc6 immediately'",
+        "parse_san('d3 quiet') failed: invalid san: 'd3 quiet'",
+        "parse_san('Nc3 four knights') failed: invalid san: 'Nc3 four knights'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 43,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Connected Pawns (Bidak Terhubung)",
+      "fen": "8/8/8/8/8/4PP2/8/k6K w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Saling melindungi saat maju — sulit dihentikan",
+        "Tidak bisa di-block oleh bidak musuh",
+        "Otomatis promosi dalam 2 langkah",
+        "Aman dari skak menteri musuh"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Saling melindungi saat maju — sulit dihentikan') failed: invalid san: 'Saling melindungi saat maju — sulit dihentikan'",
+        "parse_san('Tidak bisa di-block oleh bidak musuh') failed: invalid san: 'Tidak bisa di-block oleh bidak musuh'",
+        "parse_san('Otomatis promosi dalam 2 langkah') failed: invalid san: 'Otomatis promosi dalam 2 langkah'",
+        "parse_san('Aman dari skak menteri musuh') failed: invalid san: 'Aman dari skak menteri musuh'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 44,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Pembukaan London System",
+      "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 2 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "London System",
+        "Queen's Gambit",
+        "Trompowsky",
+        "Réti Opening"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('London System') failed: invalid san: 'London System'",
+        "parse_san(\"Queen's Gambit\") failed: invalid san: \"Queen's Gambit\"",
+        "parse_san('Trompowsky') failed: invalid san: 'Trompowsky'",
+        "parse_san('Réti Opening') failed: invalid san: 'Réti Opening'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 45,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Deflection (Pengalihan)",
+      "fen": "6k1/5pp1/8/8/8/8/5PP1/3Q1RK1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#",
+        "Push f4 g4 mendorong sayap raja",
+        "Trade pieces simplify",
+        "Defend with Rf1-e1 movement"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#') failed: unsupported multi-leg move: 'Cari bidak Hitam yang menjaga baris belakang, deflect, lalu Rf8#'",
+        "parse_san('Push f4 g4 mendorong sayap raja') failed: invalid san: 'Push f4 g4 mendorong sayap raja'",
+        "parse_san('Trade pieces simplify') failed: invalid san: 'Trade pieces simplify'",
+        "parse_san('Defend with Rf1-e1 movement') failed: invalid san: 'Defend with Rf1-e1 movement'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 46,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Bidak Sayap Tidak Pertama (Don't Move Wing Pawns First)",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "a4",
+        "e4",
+        "d4",
+        "Nf3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 47,
+      "level": "K",
+      "pilar": "END",
+      "tema": "Philidor Position (Third Rank Defense)",
+      "fen": "8/8/8/2k5/2P5/2K5/4r3/3R4 b - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang",
+        "Tukar benteng segera",
+        "Push raja ke depan",
+        "Mundur ke sudut"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang') failed: unsupported multi-leg move: 'Benteng Hitam tetap di rank 6 (sudut Putih = rank 3 sudut Hitam) mencegah raja Putih maju, sampai bidak push lalu skak dari belakang'",
+        "parse_san('Tukar benteng segera') failed: invalid san: 'Tukar benteng segera'",
+        "parse_san('Push raja ke depan') failed: invalid san: 'Push raja ke depan'",
+        "parse_san('Mundur ke sudut') failed: invalid san: 'Mundur ke sudut'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 48,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Mat dalam 2 Langkah (Mate in Two)",
+      "fen": "6k1/6pp/8/8/8/8/8/R3R1K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ra8+ Kf7 (only legal) Re7#",
+        "Re8+ Kf7 Ra7# (skak terpotong)",
+        "Ra1-Ra8 dengan benteng ladder",
+        "Re1-Re8 mat instant"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Ra8+ Kf7 (only legal) Re7#') failed: invalid san: 'Ra8+ Kf7 (only legal) Re7#'",
+        "parse_san('Re8+ Kf7 Ra7# (skak terpotong)') failed: invalid san: 'Re8+ Kf7 Ra7# (skak terpotong)'",
+        "parse_san('Ra1-Ra8 dengan benteng ladder') failed: invalid san: 'Ra1-Ra8 dengan benteng ladder'",
+        "parse_san('Re1-Re8 mat instant') failed: invalid san: 'Re1-Re8 mat instant'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 49,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "Marshall Attack",
+      "fen": "r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang",
+        "Sistem pertahanan defensif untuk Hitam",
+        "Variasi endgame Ruy Lopez",
+        "Anti-Berlin Defense oleh Putih"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang') failed: invalid san: 'Pengorbanan bidak Hitam untuk serangan menteri-sayap raja jangka panjang'",
+        "parse_san('Sistem pertahanan defensif untuk Hitam') failed: invalid san: 'Sistem pertahanan defensif untuk Hitam'",
+        "parse_san('Variasi endgame Ruy Lopez') failed: invalid san: 'Variasi endgame Ruy Lopez'",
+        "parse_san('Anti-Berlin Defense oleh Putih') failed: invalid san: 'Anti-Berlin Defense oleh Putih'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 50,
+      "level": "M",
+      "pilar": "TAK",
+      "tema": "Morphy's Opera Game Queen Sacrifice (Paris 1858)",
+      "fen": "4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 17",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Qb8+! (queen sacrifice)",
+        "Rxd7",
+        "Bxd7+",
+        "Qxe6+"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Qb8+! (queen sacrifice)') failed: invalid san: 'Qb8+! (queen sacrifice)'",
+        "",
+        "parse_san('Bxd7+') failed: illegal san: 'Bxd7+' in 4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 17",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 51,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Discovered Attack Dasar",
+      "fen": "r1b2rk1/ppq2ppp/2n2n2/4N3/8/8/PBPP1PPP/R2QK2R w KQ - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxc6",
+        "Nf3",
+        "Nd3",
+        "Ng4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 52,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "Identifikasi Trompowsky Attack",
+      "fen": "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "London System",
+        "Trompowsky Attack",
+        "Torre Attack",
+        "Veresov"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('London System') failed: invalid san: 'London System'",
+        "parse_san('Trompowsky Attack') failed: invalid san: 'Trompowsky Attack'",
+        "parse_san('Torre Attack') failed: invalid san: 'Torre Attack'",
+        "parse_san('Veresov') failed: invalid san: 'Veresov'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 53,
+      "level": "M",
+      "pilar": "END",
+      "tema": "Réti Endgame Study",
+      "fen": "7K/8/k1P5/7p/8/8/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Kg7",
+        "Kh7",
+        "c7",
+        "Kg8"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 54,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Connected Pawns",
+      "fen": "r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "e5",
+        "exd5",
+        "dxc5",
+        "d5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('d5') failed: illegal san: 'd5' in r1bqkb1r/pp3ppp/2n1pn2/2pp4/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 55,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Zwischenzug (In-Between Move)",
+      "fen": "r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "dxe5",
+        "Bxf7+",
+        "Nxe5",
+        "Nxd5"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r1bq1rk1/pp2bppp/2n2n2/3pn3/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 56,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi Slav Defense",
+      "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Queen's Gambit Declined",
+        "Slav Defense",
+        "Albin Counter-Gambit",
+        "Chigorin Defense"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san(\"Queen's Gambit Declined\") failed: invalid san: \"Queen's Gambit Declined\"",
+        "parse_san('Slav Defense') failed: invalid san: 'Slav Defense'",
+        "parse_san('Albin Counter-Gambit') failed: invalid san: 'Albin Counter-Gambit'",
+        "parse_san('Chigorin Defense') failed: invalid san: 'Chigorin Defense'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 57,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Mate-in-2 Sederhana",
+      "fen": "6rk/6pp/8/8/8/8/1B6/3Q3K w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Qd8",
+        "Bxg7+",
+        "Qd5",
+        "Qh5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 58,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Tarrasch's Rule: Rook on 7th Rank",
+      "fen": "8/p4pkp/1p4p1/8/8/1P6/P4PPP/3R2K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Rd7",
+        "Rd5",
+        "Rd3",
+        "Re1"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 59,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Insufficient Material",
+      "fen": "8/8/4k3/8/8/4B3/4K3/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Putih menang",
+        "Remis",
+        "Hitam menang",
+        "Remis tapi hanya jika 50 langkah"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Putih menang') failed: invalid san: 'Putih menang'",
+        "parse_san('Remis') failed: invalid san: 'Remis'",
+        "parse_san('Hitam menang') failed: invalid san: 'Hitam menang'",
+        "parse_san('Remis tapi hanya jika 50 langkah') failed: invalid san: 'Remis tapi hanya jika 50 langkah'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 60,
+      "level": "M",
+      "pilar": "TAK",
+      "tema": "Anderssen's Immortal Game Highlight",
+      "fen": "r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Kxg1",
+        "Nf6+",
+        "Bd6",
+        "Qf6+"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Kxg1') failed: illegal san: 'Kxg1' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20",
+        "",
+        "",
+        "parse_san('Qf6+') failed: illegal san: 'Qf6+' in r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 w - - 0 20"
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 61,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Pin Absolut",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 3 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bxc6 dxc6",
+        "Nxe5",
+        "d4",
+        "O-O"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Bxc6 dxc6') failed: invalid san: 'Bxc6 dxc6'",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 62,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi London System",
+      "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Trompowsky",
+        "Colle System",
+        "London System",
+        "Torre Attack"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Trompowsky') failed: invalid san: 'Trompowsky'",
+        "parse_san('Colle System') failed: invalid san: 'Colle System'",
+        "parse_san('London System') failed: invalid san: 'London System'",
+        "parse_san('Torre Attack') failed: invalid san: 'Torre Attack'"
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 63,
+      "level": "K",
+      "pilar": "END",
+      "tema": "Bishop vs Knight in Open Position",
+      "fen": "8/p4pkp/1p4p1/8/P4P1P/1P4P1/5K2/3B1n2 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Gajah",
+        "Kuda",
+        "Sama saja",
+        "Gajah, tapi hanya kalau berwarna sama Raja lawan"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Gajah') failed: invalid san: 'Gajah'",
+        "parse_san('Kuda') failed: invalid san: 'Kuda'",
+        "parse_san('Sama saja') failed: invalid san: 'Sama saja'",
+        "parse_san('Gajah, tapi hanya kalau berwarna sama Raja lawan') failed: unsupported multi-leg move: 'Gajah, tapi hanya kalau berwarna sama Raja lawan'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 64,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Don't Move Same Piece Twice in Opening",
+      "fen": "r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxf7",
+        "exd5",
+        "Nf3",
+        "Bxd5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 65,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Anastasia's Mate",
+      "fen": "7k/4N1pp/8/8/8/8/8/6RK w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Rh1+",
+        "Nf5",
+        "Nxg6+",
+        "Rg2"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Rh1+') failed: illegal san: 'Rh1+' in 7k/4N1pp/8/8/8/8/8/6RK w - - 0 1",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 66,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Double Attack (Fork) Dasar Kuda",
+      "fen": "r3k2r/pppq1ppp/2n5/3pp3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nb5",
+        "Nd5",
+        "Ng5",
+        "Nxe5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "D",
+      "jawaban_idx": 3,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 67,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Identifikasi King's Indian Defense",
+      "fen": "rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Grünfeld Defense",
+        "Modern Defense",
+        "King's Indian Defense",
+        "Pirc Defense"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Grünfeld Defense') failed: invalid san: 'Grünfeld Defense'",
+        "parse_san('Modern Defense') failed: invalid san: 'Modern Defense'",
+        "parse_san(\"King's Indian Defense\") failed: invalid san: \"King's Indian Defense\"",
+        "parse_san('Pirc Defense') failed: invalid san: 'Pirc Defense'"
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 68,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "King Safety: Castle Early",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 4 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "O-O",
+        "Bg5",
+        "Nc3",
+        "Qe2"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 69,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Removing the Defender",
+      "fen": "r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Bg4",
+        "Nxe4",
+        "O-O",
+        "d4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "parse_san('O-O') failed: illegal san: 'O-O' in r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 70,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Outpost Knight di d5",
+      "fen": "r2q1rk1/pp2bppp/2p1pn2/3N4/3P4/2N1B3/PP3PPP/R2Q1RK1 w - - 0 12",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxf6+",
+        "Qd3",
+        "f4",
+        "Nxe7+"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 71,
+      "level": "K",
+      "pilar": "END",
+      "tema": "Lucena Position",
+      "fen": "1K1k4/1P6/8/8/5r2/8/8/4R3 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Re8+",
+        "Re4",
+        "Rb1",
+        "Re7"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 72,
+      "level": "M",
+      "pilar": "BUK",
+      "tema": "Nimzo-Indian Defense: Konsep Utama",
+      "fen": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Menyerang pion c4 secara langsung",
+        "Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3",
+        "Mempersiapkan O-O-O (castle panjang)",
+        "Menjaga pion e5 dari serangan"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Menyerang pion c4 secara langsung') failed: invalid san: 'Menyerang pion c4 secara langsung'",
+        "parse_san('Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3') failed: invalid san: 'Merusak struktur pion Putih dengan menukar Gajah untuk Kuda c3'",
+        "parse_san('Mempersiapkan O-O-O (castle panjang)') failed: invalid san: 'Mempersiapkan O-O-O (castle panjang)'",
+        "parse_san('Menjaga pion e5 dari serangan') failed: invalid san: 'Menjaga pion e5 dari serangan'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 73,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Clearance Sacrifice",
+      "fen": "r1bqk2r/pp3ppp/2p1pn2/8/3N4/2NB4/PPP2PPP/R2QR1K1 w kq - 0 10",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nxc6",
+        "Nd5",
+        "Nf5",
+        "Nf3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 74,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Principle of Two Weaknesses",
+      "fen": "6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "g4",
+        "Kf2",
+        "e4",
+        "cxb4"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('Kf2') failed: illegal san: 'Kf2' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30",
+        "",
+        "parse_san('cxb4') failed: illegal san: 'cxb4' in 6k1/5ppp/p7/1p6/1Pp5/2P1P3/5PPP/6K1 w - - 0 30"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 75,
+      "level": "M",
+      "pilar": "END",
+      "tema": "Philidor Position (Teknik Remis)",
+      "fen": "8/8/3k4/3p4/8/8/3K4/3R4 b - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "...d4",
+        "...Ke5",
+        "...Kc5",
+        "...Ke6"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('...d4') failed: invalid san: '...d4'",
+        "parse_san('...Ke5') failed: invalid san: '...Ke5'",
+        "parse_san('...Kc5') failed: invalid san: '...Kc5'",
+        "parse_san('...Ke6') failed: invalid san: '...Ke6'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 76,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Grünfeld Defense: Ide Pokok",
+      "fen": "rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "...Nxc3",
+        "...Nb6",
+        "...Nf6",
+        "...e5"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('...Nxc3') failed: invalid san: '...Nxc3'",
+        "parse_san('...Nb6') failed: invalid san: '...Nb6'",
+        "parse_san('...Nf6') failed: invalid san: '...Nf6'",
+        "parse_san('...e5') failed: invalid san: '...e5'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 77,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Windmill Pattern",
+      "fen": "5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bxf8",
+        "Ra8",
+        "Bh6",
+        "Re1"
+      ],
+      "opsi_legality": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "parse_san('Ra8') failed: illegal san: 'Ra8' in 5rk1/p4pBp/1p2p3/2p5/8/1B6/PP3PPP/R5K1 w - - 0 24",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 78,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Open File Control dengan Benteng Ganda",
+      "fen": "r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Rdd1",
+        "Rad1",
+        "Ne5",
+        "Bc1"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Rdd1') failed: illegal san: 'Rdd1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
+        "parse_san('Rad1') failed: illegal san: 'Rad1' in r1b1r1k1/pp3ppp/2p2n2/3p4/3P4/2N1BN2/PP3PPP/R2R2K1 w - - 0 14",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 79,
+      "level": "M",
+      "pilar": "END",
+      "tema": "Zugzwang dalam Pion Endgame",
+      "fen": "8/8/4k3/4p3/4P3/4K3/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Putih menang — dengan maju pion e5",
+        "Remis — karena posisi simetri",
+        "Putih kalah — karena zugzwang",
+        "Tergantung — bisa menang atau remis tergantung respons Hitam"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Putih menang — dengan maju pion e5') failed: invalid san: 'Putih menang — dengan maju pion e5'",
+        "parse_san('Remis — karena posisi simetri') failed: invalid san: 'Remis — karena posisi simetri'",
+        "parse_san('Putih kalah — karena zugzwang') failed: invalid san: 'Putih kalah — karena zugzwang'",
+        "parse_san('Tergantung — bisa menang atau remis tergantung respons Hitam') failed: invalid san: 'Tergantung — bisa menang atau remis tergantung respons Hitam'"
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 80,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Dutch Defense: Variasi Leningrad",
+      "fen": "rnbqk2r/ppppp1bp/5np1/5p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 0 6",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "...O-O",
+        "...e6",
+        "...d5",
+        "...c6"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('...O-O') failed: invalid san: '...O-O'",
+        "parse_san('...e6') failed: invalid san: '...e6'",
+        "parse_san('...d5') failed: invalid san: '...d5'",
+        "parse_san('...c6') failed: invalid san: '...c6'"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 81,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Exchange Sacrifice untuk Dominasi Posisional",
+      "fen": "r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 w - - 0 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Karena Benteng bernilai lebih tinggi dari Kuda/Gajah",
+        "Karena menghancurkan struktur pion Hitam dan mendapat outpost",
+        "Karena memaksa Raja Hitam membuka posisi",
+        "Karena membuka kolom c untuk serangan langsung"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Karena Benteng bernilai lebih tinggi dari Kuda/Gajah') failed: invalid san: 'Karena Benteng bernilai lebih tinggi dari Kuda/Gajah'",
+        "parse_san('Karena menghancurkan struktur pion Hitam dan mendapat outpost') failed: invalid san: 'Karena menghancurkan struktur pion Hitam dan mendapat outpost'",
+        "parse_san('Karena memaksa Raja Hitam membuka posisi') failed: invalid san: 'Karena memaksa Raja Hitam membuka posisi'",
+        "parse_san('Karena membuka kolom c untuk serangan langsung') failed: invalid san: 'Karena membuka kolom c untuk serangan langsung'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 82,
+      "level": "M",
+      "pilar": "TAK",
+      "tema": "X-Ray Attack",
+      "fen": "r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1",
+      "fen_legal": false,
+      "fen_error": "chess.Board(fen) raised: invalid half-move clock in fen: 'r3k3/ppp2ppp/8/8/4r3/8/PPP2PPP/R3KB2 w Q - - 0 1'",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bh3",
+        "Bc4",
+        "Bb5+",
+        "Ra8+"
+      ],
+      "opsi_legality": [],
+      "opsi_errors": [],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 83,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Triangulation (Teknik Segitiga Raja)",
+      "fen": "8/8/3k4/3p1p2/3P1P2/3K4/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ke3",
+        "Kc3",
+        "Kd2",
+        "Ke4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('Ke4') failed: illegal san: 'Ke4' in 8/8/3k4/3p1p2/3P1P2/3K4/8/8 w - - 0 1"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 84,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "King's Gambit: Ide dan Respons Modern",
+      "fen": "rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nf3",
+        "d4",
+        "Bc4",
+        "Qf3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 85,
+      "level": "P",
+      "pilar": "STR",
+      "tema": "Centralization of Pieces",
+      "fen": "r1bqkb1r/pp3ppp/2n1pn2/3p4/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 7",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ne5",
+        "Ng5",
+        "Nh4",
+        "Na4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 86,
+      "level": "M",
+      "pilar": "END",
+      "tema": "Bishop Endgame: Same Color vs Different Color",
+      "fen": "8/5p2/3k2p1/7p/7P/3K2P1/5P2/6B1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Karena Gajah tidak bisa membantu pion promosi",
+        "Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan",
+        "Karena Raja lebih aktif dari Gajah dalam endgame",
+        "Karena pion menjadi lebih penting dari Gajah di endgame"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Karena Gajah tidak bisa membantu pion promosi') failed: invalid san: 'Karena Gajah tidak bisa membantu pion promosi'",
+        "parse_san('Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan') failed: invalid san: 'Karena Gajah bertahan bisa memblokir di warna yang tidak bisa diserang Gajah lawan'",
+        "parse_san('Karena Raja lebih aktif dari Gajah dalam endgame') failed: invalid san: 'Karena Raja lebih aktif dari Gajah dalam endgame'",
+        "parse_san('Karena pion menjadi lebih penting dari Gajah di endgame') failed: invalid san: 'Karena pion menjadi lebih penting dari Gajah di endgame'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 87,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Smothered Mate",
+      "fen": "6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nf3",
+        "Qd8+",
+        "Nf7+",
+        "Qh5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "parse_san('Nf7+') failed: illegal san: 'Nf7+' in 6rk/6pp/8/8/8/8/8/3QN1K1 w - - 0 1",
+        ""
+      ],
+      "jawaban_letter": "C",
+      "jawaban_idx": 2,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 88,
+      "level": "K",
+      "pilar": "BUK",
+      "tema": "Budapest Gambit: Karakteristik dan Ide",
+      "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nf3",
+        "Bf4",
+        "f4",
+        "e4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 89,
+      "level": "P",
+      "pilar": "END",
+      "tema": "King Opposition dalam Pion Endgame",
+      "fen": "8/8/4k3/8/4K3/4P3/8/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "e4",
+        "Kd4",
+        "Kf4",
+        "Ke5"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('e4') failed: illegal san: 'e4' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1",
+        "",
+        "",
+        "parse_san('Ke5') failed: illegal san: 'Ke5' in 8/8/4k3/8/4K3/4P3/8/8 w - - 0 1"
+      ],
+      "jawaban_letter": "D",
+      "jawaban_idx": 3,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 90,
+      "level": "M",
+      "pilar": "STR",
+      "tema": "Prophylaxis: Mencegah Rencana Lawan",
+      "fen": "r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Bd3",
+        "Ne5",
+        "Qd2",
+        "b4"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Bd3') failed: illegal san: 'Bd3' in r2q1rk1/ppp2ppp/2n1pn2/3p4/3P4/2N1PN2/PPQ2PPP/R1B2RK1 w - - 0 10",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 91,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Sicilian Dragon: Identifikasi dan Ide",
+      "fen": "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Be2",
+        "Be3",
+        "Bc4",
+        "f3"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 92,
+      "level": "K",
+      "pilar": "TAK",
+      "tema": "Overloading a Piece",
+      "fen": "r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Nxd5",
+        "Bxf7+",
+        "Nd5",
+        "Re3"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Nxd5') failed: illegal san: 'Nxd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
+        "parse_san('Bxf7+') failed: illegal san: 'Bxf7+' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
+        "parse_san('Nd5') failed: illegal san: 'Nd5' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8",
+        "parse_san('Re3') failed: illegal san: 'Re3' in r3k2r/ppp2ppp/2n1pn2/3p4/2B1P3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 0 8"
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 93,
+      "level": "P",
+      "pilar": "END",
+      "tema": "Pawn Majority dalam Endgame",
+      "fen": "8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "h4",
+        "f4",
+        "Kf4",
+        "g4"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        "parse_san('g4') failed: illegal san: 'g4' in 8/5ppp/6k1/8/8/6K1/5PPP/8 w - - 0 1"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 94,
+      "level": "M",
+      "pilar": "STR",
+      "tema": "Weak Squares dan Color Weakness",
+      "fen": "r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Ne5",
+        "Bb5",
+        "f4",
+        "Qh5"
+      ],
+      "opsi_legality": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "parse_san('Ne5') failed: illegal san: 'Ne5' in r2q1rk1/pp1b1ppp/2p1pn2/3p4/3P4/2NBP3/PP3PPP/R2Q1RK1 w - - 0 10",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 95,
+      "level": "P",
+      "pilar": "BUK",
+      "tema": "Benko Gambit: Filosofi dan Struktur",
+      "fen": "rnbqkb1r/p3pppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Serangan langsung ke Raja Putih",
+        "Tekanan permanen di sayap Wazir via kolom a dan b terbuka",
+        "Pusat pion yang kuat dengan d5+e5",
+        "Pasangan Gajah yang aktif di diagonal terbuka"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Serangan langsung ke Raja Putih') failed: invalid san: 'Serangan langsung ke Raja Putih'",
+        "parse_san('Tekanan permanen di sayap Wazir via kolom a dan b terbuka') failed: invalid san: 'Tekanan permanen di sayap Wazir via kolom a dan b terbuka'",
+        "parse_san('Pusat pion yang kuat dengan d5+e5') failed: invalid san: 'Pusat pion yang kuat dengan d5+e5'",
+        "parse_san('Pasangan Gajah yang aktif di diagonal terbuka') failed: invalid san: 'Pasangan Gajah yang aktif di diagonal terbuka'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 96,
+      "level": "K",
+      "pilar": "END",
+      "tema": "Queen vs Rook Endgame",
+      "fen": "8/8/8/8/8/5k2/5r2/5K1Q w - - 0 1",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Menyerang Benteng langsung dengan Wazir untuk memenangkan materi",
+        "Memaksa Raja lawan ke sudut, lalu fork atau memisahkan Raja dari Bentengnya",
+        "Menukar Wazir untuk Benteng dan bermain Raja+pion endgame",
+        "Menggunakan pion sebagai alat tempur utama"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san('Menyerang Benteng langsung dengan Wazir untuk memenangkan materi') failed: invalid san: 'Menyerang Benteng langsung dengan Wazir untuk memenangkan materi'",
+        "parse_san('Memaksa Raja lawan ke sudut, lalu fork atau memisahkan Raja dari Bentengnya') failed: unsupported multi-leg move: 'Memaksa Raja lawan ke sudut, lalu fork atau memisahkan Raja dari Bentengnya'",
+        "parse_san('Menukar Wazir untuk Benteng dan bermain Raja+pion endgame') failed: invalid san: 'Menukar Wazir untuk Benteng dan bermain Raja+pion endgame'",
+        "parse_san('Menggunakan pion sebagai alat tempur utama') failed: invalid san: 'Menggunakan pion sebagai alat tempur utama'"
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 97,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Interference Tactic",
+      "fen": "r2qkb1r/ppp2ppp/2n1pn2/8/3P4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 0 7",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nb5",
+        "d5",
+        "Bb5",
+        "Ne5"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 98,
+      "level": "K",
+      "pilar": "STR",
+      "tema": "Pawn Majority dan Passed Pawn Queenside",
+      "fen": "5rk1/1pp2ppp/p7/8/PPP5/8/5PPP/5RK1 w - - 0 25",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "a5",
+        "b5",
+        "c5",
+        "Ra1"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 99,
+      "level": "P",
+      "pilar": "TAK",
+      "tema": "Trapped Piece",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/2B1P3/5N1b/PPPP1PPP/RNBQ1RK1 w kq - 4 5",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "w",
+      "giliran_text": "Putih",
+      "opsi": [
+        "Nh4",
+        "Ng5",
+        "g3",
+        "Re1"
+      ],
+      "opsi_legality": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "opsi_errors": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban_letter": "A",
+      "jawaban_idx": 0,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    },
+    {
+      "number": 100,
+      "level": "M",
+      "pilar": "BUK",
+      "tema": "Modern Defense: Ide dan Karakteristik",
+      "fen": "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3",
+      "fen_legal": true,
+      "fen_error": "",
+      "giliran": "b",
+      "giliran_text": "Hitam",
+      "opsi": [
+        "Modern Defense memainkan ...d5 sementara King's Indian tidak",
+        "Modern Defense menunda Kuda f6 untuk menjaga fleksibilitas, King's Indian langsung ...Nf6",
+        "Modern Defense menggunakan pion e5 sebagai counter, King's Indian tidak",
+        "Modern Defense hanya bisa dimainkan melawan 1.e4, King's Indian hanya melawan 1.d4"
+      ],
+      "opsi_legality": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "opsi_errors": [
+        "parse_san(\"Modern Defense memainkan ...d5 sementara King's Indian tidak\") failed: invalid san: \"Modern Defense memainkan ...d5 sementara King's Indian tidak\"",
+        "parse_san(\"Modern Defense menunda Kuda f6 untuk menjaga fleksibilitas, King's Indian langsung ...Nf6\") failed: unsupported multi-leg move: \"Modern Defense menunda Kuda f6 untuk menjaga fleksibilitas, King's Indian langsung ...Nf6\"",
+        "parse_san(\"Modern Defense menggunakan pion e5 sebagai counter, King's Indian tidak\") failed: unsupported multi-leg move: \"Modern Defense menggunakan pion e5 sebagai counter, King's Indian tidak\"",
+        "parse_san(\"Modern Defense hanya bisa dimainkan melawan 1.e4, King's Indian hanya melawan 1.d4\") failed: unsupported multi-leg move: \"Modern Defense hanya bisa dimainkan melawan 1.e4, King's Indian hanya melawan 1.d4\""
+      ],
+      "jawaban_letter": "B",
+      "jawaban_idx": 1,
+      "engine_top3": [],
+      "engine_agree": "SKIPPED",
+      "notes": ""
+    }
+  ]
+}

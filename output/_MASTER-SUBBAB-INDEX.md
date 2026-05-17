@@ -358,7 +358,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sedang-sulit.md`
 
 **IPA-03l · Magnet (Sifat, Kutub, Jenis, Membuat Magnet)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-03l-magnet-campur.md`
+- [x] `osn-sd-ipa-03l-magnet-campur.md`
 - [ ] `osn-sd-ipa-03l-magnet-mudah.md`
 - [ ] `osn-sd-ipa-03l-magnet-sedang.md`
 - [ ] `osn-sd-ipa-03l-magnet-sulit.md`

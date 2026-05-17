@@ -116,7 +116,7 @@ class Soal:
 #   ### Soal 1 · [P] · TAK — Hanging Knight
 SOAL_HEADER_RE = re.compile(
     r"^###\s+Soal\s+(\d+)\s*"
-    r"(?:·\s*\[([PKM])\]\s*)?"          # optional [P]/[K]/[M]
+    r"(?:·\s*\[?([PKM])\]?\s*)?"        # optional level: P, [P], or omitted
     r"·\s*([A-Z]{3})\s*"                # pilar
     r"(?:·|—|-)\s*(.+?)\s*$",           # tema
     re.MULTILINE,

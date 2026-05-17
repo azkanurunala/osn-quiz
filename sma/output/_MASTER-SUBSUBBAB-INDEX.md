@@ -4676,3 +4676,1950 @@ Pada level mikrotopik level SMA, duplikasi soal sangat mudah terjadi karena topi
 - [ ] `osn-sma-ast-07h-1-pengamatan-lapangan-sulit.md`
 - [ ] `osn-sma-ast-07h-1-pengamatan-lapangan-mudah-sedang.md`
 - [ ] `osn-sma-ast-07h-1-pengamatan-lapangan-sedang-sulit.md`
+
+---
+
+## F · Kebumian Per Sub-Sub-Bab
+
+### KEB-01 · Geologi (~10 sub-sub-bab)
+
+#### KEB-01a · Struktur Bumi
+**KEB-01a-1 · Inti (Dalam, Luar), Mantel, Kerak (Sifat & Komposisi)** (fokus Kab)
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-campur.md`
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-mudah.md`
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-sedang.md`
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-sulit.md`
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-01a-1-struktur-bumi-detail-sedang-sulit.md`
+
+#### KEB-01b · Mineral
+**KEB-01b-1 · Identifikasi Mineral (Kekerasan Mohs, Cleavage, Warna)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-campur.md`
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-mudah.md`
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-sedang.md`
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-sulit.md`
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-mudah-sedang.md`
+- [ ] `osn-sma-keb-01b-1-mineral-identifikasi-sedang-sulit.md`
+
+#### KEB-01c · Batuan Beku
+**KEB-01c-1 · Batuan Beku Intrusif (Granit) vs Ekstrusif (Basalt)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-campur.md`
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-mudah.md`
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-sedang.md`
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-sulit.md`
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-mudah-sedang.md`
+- [ ] `osn-sma-keb-01c-1-beku-intrusif-ekstrusif-sedang-sulit.md`
+
+#### KEB-01d · Batuan Sedimen
+**KEB-01d-1 · Sedimen Klastik, Kimiawi, Organik (Contoh)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-campur.md`
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-mudah.md`
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-sedang.md`
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-sulit.md`
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-mudah-sedang.md`
+- [ ] `osn-sma-keb-01d-1-sedimen-jenis-sedang-sulit.md`
+
+#### KEB-01e · Batuan Metamorf
+**KEB-01e-1 · Metamorf Kontak vs Regional (Marmer, Sekis)** (fokus Prov)
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-campur.md`
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-mudah.md`
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-sedang.md`
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-sulit.md`
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-mudah-sedang.md`
+- [ ] `osn-sma-keb-01e-1-metamorf-tipe-sedang-sulit.md`
+
+#### KEB-01f · Siklus Batuan
+**KEB-01f-1 · Siklus Batuan (Diagram & Proses Transformasi)** (fokus Prov)
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-campur.md`
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-mudah.md`
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-sedang.md`
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-sulit.md`
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-mudah-sedang.md`
+- [ ] `osn-sma-keb-01f-1-siklus-batuan-sedang-sulit.md`
+
+#### KEB-01g · Tektonik Lempeng
+**KEB-01g-1 · Batas Konvergen, Divergen, Transform & Fenomena Terkait** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-campur.md`
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-mudah.md`
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-sedang.md`
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-sulit.md`
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-mudah-sedang.md`
+- [ ] `osn-sma-keb-01g-1-batas-lempeng-sedang-sulit.md`
+
+#### KEB-01h · Seismologi
+**KEB-01h-1 · Gelombang P & S, Episentrum, Skala Richter/MMI** (fokus Prov)
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-campur.md`
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-mudah.md`
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-sedang.md`
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-sulit.md`
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-mudah-sedang.md`
+- [ ] `osn-sma-keb-01h-1-seismologi-gelombang-sedang-sulit.md`
+
+#### KEB-01i · Vulkanologi
+**KEB-01i-1 · Tipe Gunung Api (Strato, Perisai, Cinder) & Tipe Erupsi** (fokus Prov)
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-campur.md`
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-mudah.md`
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-sedang.md`
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-sulit.md`
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-mudah-sedang.md`
+- [ ] `osn-sma-keb-01i-1-tipe-gunung-erupsi-sedang-sulit.md`
+
+#### KEB-01j · Stratigrafi
+**KEB-01j-1 · Hukum Superposisi & Skala Waktu Geologi (Eon, Era, Periode)** (fokus Prov–Nas)
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-campur.md`
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-mudah.md`
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-sedang.md`
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-sulit.md`
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-mudah-sedang.md`
+- [ ] `osn-sma-keb-01j-1-stratigrafi-skala-sedang-sulit.md`
+
+### KEB-02 · Meteorologi & Klimatologi (~10 sub-sub-bab)
+
+#### KEB-02a · Lapisan Atmosfer
+**KEB-02a-1 · Troposfer, Stratosfer, Mesosfer, Termosfer, Eksosfer** (fokus Kab)
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-campur.md`
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-mudah.md`
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-sedang.md`
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-sulit.md`
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-02a-1-lapisan-atmosfer-detail-sedang-sulit.md`
+
+#### KEB-02b · Tekanan & Suhu Atm
+**KEB-02b-1 · Profil Tekanan & Suhu vs Ketinggian** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-02b-1-profil-p-t-campur.md`
+- [ ] `osn-sma-keb-02b-1-profil-p-t-mudah.md`
+- [ ] `osn-sma-keb-02b-1-profil-p-t-sedang.md`
+- [ ] `osn-sma-keb-02b-1-profil-p-t-sulit.md`
+- [ ] `osn-sma-keb-02b-1-profil-p-t-mudah-sedang.md`
+- [ ] `osn-sma-keb-02b-1-profil-p-t-sedang-sulit.md`
+
+#### KEB-02c · Kelembaban
+**KEB-02c-1 · Kelembaban Absolut, Relatif (RH), Titik Embun** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-campur.md`
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-mudah.md`
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-sedang.md`
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-sulit.md`
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-mudah-sedang.md`
+- [ ] `osn-sma-keb-02c-1-kelembaban-titik-embun-sedang-sulit.md`
+
+#### KEB-02d · Awan
+**KEB-02d-1 · Klasifikasi Awan (Cirrus, Cumulus, Stratus & Tinggi)** (fokus Kab)
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-campur.md`
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-mudah.md`
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-sedang.md`
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-sulit.md`
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-mudah-sedang.md`
+- [ ] `osn-sma-keb-02d-1-klasifikasi-awan-sedang-sulit.md`
+
+#### KEB-02e · Presipitasi
+**KEB-02e-1 · Jenis Hujan (Konvektif, Orografis, Frontal) & Salju, Hail** (fokus Kab)
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-campur.md`
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-mudah.md`
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-sedang.md`
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-sulit.md`
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-mudah-sedang.md`
+- [ ] `osn-sma-keb-02e-1-jenis-hujan-sedang-sulit.md`
+
+#### KEB-02f · Sirkulasi Atmosfer
+**KEB-02f-1 · Sel Hadley, Ferrel, Polar & Angin Pasat** (fokus Prov)
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-campur.md`
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-mudah.md`
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-sedang.md`
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-sulit.md`
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-mudah-sedang.md`
+- [ ] `osn-sma-keb-02f-1-sirkulasi-sel-sedang-sulit.md`
+
+#### KEB-02g · Massa Udara & Front
+**KEB-02g-1 · Front Dingin, Hangat, Stasioner, Tertutup** (fokus Prov)
+- [ ] `osn-sma-keb-02g-1-front-cuaca-campur.md`
+- [ ] `osn-sma-keb-02g-1-front-cuaca-mudah.md`
+- [ ] `osn-sma-keb-02g-1-front-cuaca-sedang.md`
+- [ ] `osn-sma-keb-02g-1-front-cuaca-sulit.md`
+- [ ] `osn-sma-keb-02g-1-front-cuaca-mudah-sedang.md`
+- [ ] `osn-sma-keb-02g-1-front-cuaca-sedang-sulit.md`
+
+#### KEB-02h · Siklon, Badai
+**KEB-02h-1 · Siklon Tropis (Hurricane, Tifun, Siklon) & Pembentukan** (fokus Prov–Nas)
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-campur.md`
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-mudah.md`
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-sedang.md`
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-sulit.md`
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-mudah-sedang.md`
+- [ ] `osn-sma-keb-02h-1-siklon-tropis-sedang-sulit.md`
+
+#### KEB-02i · Klasifikasi Koppen
+**KEB-02i-1 · Sistem Koppen (A, B, C, D, E) & Indonesia (Af, Am, Aw)** (fokus Prov)
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-campur.md`
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-mudah.md`
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-sedang.md`
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-sulit.md`
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-mudah-sedang.md`
+- [ ] `osn-sma-keb-02i-1-koppen-indonesia-sedang-sulit.md`
+
+#### KEB-02j · Pemanasan Global
+**KEB-02j-1 · Penyebab (CO₂, CH₄, N₂O) & Dampak (Iklim, Sea Level Rise)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-campur.md`
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-mudah.md`
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-sedang.md`
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-sulit.md`
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-mudah-sedang.md`
+- [ ] `osn-sma-keb-02j-1-pg-penyebab-dampak-sedang-sulit.md`
+
+### KEB-03 · Oseanografi (~9 sub-sub-bab)
+
+#### KEB-03a · Sifat Air Laut
+**KEB-03a-1 · Komposisi Kimia Air Laut (Na, Cl, dll) & Sifat Fisik** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-campur.md`
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-mudah.md`
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-sedang.md`
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-sulit.md`
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-mudah-sedang.md`
+- [ ] `osn-sma-keb-03a-1-komposisi-air-laut-sedang-sulit.md`
+
+#### KEB-03b · Salinitas & Densitas
+**KEB-03b-1 · Salinitas (~35 ppt) & Pengaruh ke Densitas** (fokus Prov)
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-campur.md`
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-mudah.md`
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-sedang.md`
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-sulit.md`
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-mudah-sedang.md`
+- [ ] `osn-sma-keb-03b-1-salinitas-densitas-sedang-sulit.md`
+
+#### KEB-03c · Suhu & Termoklin
+**KEB-03c-1 · Termoklin Permanen & Musiman** (fokus Prov)
+- [ ] `osn-sma-keb-03c-1-termoklin-campur.md`
+- [ ] `osn-sma-keb-03c-1-termoklin-mudah.md`
+- [ ] `osn-sma-keb-03c-1-termoklin-sedang.md`
+- [ ] `osn-sma-keb-03c-1-termoklin-sulit.md`
+- [ ] `osn-sma-keb-03c-1-termoklin-mudah-sedang.md`
+- [ ] `osn-sma-keb-03c-1-termoklin-sedang-sulit.md`
+
+#### KEB-03d · Arus Laut
+**KEB-03d-1 · Arus Permukaan (Gulf Stream, Kuroshio) & Dalam (Termohalin)** (fokus Prov)
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-campur.md`
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-mudah.md`
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-sedang.md`
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-sulit.md`
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-mudah-sedang.md`
+- [ ] `osn-sma-keb-03d-1-arus-permukaan-dalam-sedang-sulit.md`
+
+#### KEB-03e · Gelombang Laut
+**KEB-03e-1 · Gelombang Angin, Tsunami, Seiche & Pembentukan** (fokus Prov)
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-campur.md`
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-mudah.md`
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-sedang.md`
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-sulit.md`
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-mudah-sedang.md`
+- [ ] `osn-sma-keb-03e-1-gelombang-laut-jenis-sedang-sulit.md`
+
+#### KEB-03f · Pasang Surut
+**KEB-03f-1 · Pasut Diurnal, Semi-Diurnal, Pasut Purnama (Spring) & Perbani (Neap)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-campur.md`
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-mudah.md`
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-sedang.md`
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-sulit.md`
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-mudah-sedang.md`
+- [ ] `osn-sma-keb-03f-1-pasut-jenis-sedang-sulit.md`
+
+#### KEB-03g · Topografi Dasar Laut
+**KEB-03g-1 · Continental Shelf, Slope, Abyssal Plain, Mid-Ocean Ridge, Trench** (fokus Kab)
+- [ ] `osn-sma-keb-03g-1-topografi-laut-campur.md`
+- [ ] `osn-sma-keb-03g-1-topografi-laut-mudah.md`
+- [ ] `osn-sma-keb-03g-1-topografi-laut-sedang.md`
+- [ ] `osn-sma-keb-03g-1-topografi-laut-sulit.md`
+- [ ] `osn-sma-keb-03g-1-topografi-laut-mudah-sedang.md`
+- [ ] `osn-sma-keb-03g-1-topografi-laut-sedang-sulit.md`
+
+#### KEB-03h · Ekosistem Laut
+**KEB-03h-1 · Zona Laut (Pelagik, Bentik, Fotik, Afotik) & Komunitas** (fokus Kab)
+- [ ] `osn-sma-keb-03h-1-zona-laut-campur.md`
+- [ ] `osn-sma-keb-03h-1-zona-laut-mudah.md`
+- [ ] `osn-sma-keb-03h-1-zona-laut-sedang.md`
+- [ ] `osn-sma-keb-03h-1-zona-laut-sulit.md`
+- [ ] `osn-sma-keb-03h-1-zona-laut-mudah-sedang.md`
+- [ ] `osn-sma-keb-03h-1-zona-laut-sedang-sulit.md`
+
+#### KEB-03i · El Niño & La Niña
+**KEB-03i-1 · ENSO (El Niño, La Niña, ENSO Netral) & Dampak ke Indonesia** (fokus Prov–Nas)
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-campur.md`
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-mudah.md`
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-sedang.md`
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-sulit.md`
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-mudah-sedang.md`
+- [ ] `osn-sma-keb-03i-1-enso-indonesia-sedang-sulit.md`
+
+### KEB-04 · Astronomi Kebumian (~8 sub-sub-bab)
+
+#### KEB-04a · Rotasi & Revolusi Bumi
+**KEB-04a-1 · Rotasi (24 jam) & Revolusi (365.25 hari)** (fokus Kab)
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-campur.md`
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-mudah.md`
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-sedang.md`
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-sulit.md`
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-mudah-sedang.md`
+- [ ] `osn-sma-keb-04a-1-rotasi-revolusi-sedang-sulit.md`
+
+#### KEB-04b · Kemiringan & Musim
+**KEB-04b-1 · Kemiringan 23.5° & Empat Musim (Equinox, Solstice)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-campur.md`
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-mudah.md`
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-sedang.md`
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-sulit.md`
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-mudah-sedang.md`
+- [ ] `osn-sma-keb-04b-1-kemiringan-musim-sedang-sulit.md`
+
+#### KEB-04c · Gerak Bulan & Fase
+**KEB-04c-1 · Sinodik vs Sideris & Fase Bulan** (fokus Kab)
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-campur.md`
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-mudah.md`
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-sedang.md`
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-sulit.md`
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-mudah-sedang.md`
+- [ ] `osn-sma-keb-04c-1-fase-sinodik-sideris-sedang-sulit.md`
+
+#### KEB-04d · Gerhana
+**KEB-04d-1 · Gerhana Matahari (Total, Sebagian, Cincin) & Gerhana Bulan** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-campur.md`
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-mudah.md`
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-sedang.md`
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-sulit.md`
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-mudah-sedang.md`
+- [ ] `osn-sma-keb-04d-1-gerhana-jenis-sedang-sulit.md`
+
+#### KEB-04e · Penanggalan & Kalender
+**KEB-04e-1 · Kalender Hijriyah, Saka, Cina (Lunisolar)** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-campur.md`
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-mudah.md`
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-sedang.md`
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-sulit.md`
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-mudah-sedang.md`
+- [ ] `osn-sma-keb-04e-1-kalender-tradisional-sedang-sulit.md`
+
+#### KEB-04f · Posisi Bumi
+**KEB-04f-1 · Aphelium, Perihelium, Goldilocks Zone** (fokus Kab)
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-campur.md`
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-mudah.md`
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-sedang.md`
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-sulit.md`
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-mudah-sedang.md`
+- [ ] `osn-sma-keb-04f-1-aphelium-goldilocks-sedang-sulit.md`
+
+#### KEB-04g · Pasut Bulan-Matahari
+**KEB-04g-1 · Mekanisme Pasut (Tarikan Bulan + Matahari)** (fokus Prov)
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-campur.md`
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-mudah.md`
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-sedang.md`
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-sulit.md`
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-mudah-sedang.md`
+- [ ] `osn-sma-keb-04g-1-mekanisme-pasut-sedang-sulit.md`
+
+#### KEB-04h · Aktivitas Matahari & Bumi
+**KEB-04h-1 · Sunspot, Solar Flare, Aurora, Pengaruh Komunikasi** (fokus Prov)
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-campur.md`
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-mudah.md`
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-sedang.md`
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-sulit.md`
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-mudah-sedang.md`
+- [ ] `osn-sma-keb-04h-1-matahari-bumi-aurora-sedang-sulit.md`
+
+### KEB-05 · Hidrologi & SDA Air (~7 sub-sub-bab)
+
+#### KEB-05a · Siklus Hidrologi
+**KEB-05a-1 · Evapotranspirasi, Presipitasi, Infiltrasi, Runoff** (fokus Kab)
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-campur.md`
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-mudah.md`
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-sedang.md`
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-sulit.md`
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-mudah-sedang.md`
+- [ ] `osn-sma-keb-05a-1-siklus-hidrologi-sedang-sulit.md`
+
+#### KEB-05b · Air Permukaan
+**KEB-05b-1 · Sungai (Hulu-Hilir, Meander) & Danau (Jenis: Tektonik, Vulkanik)** (fokus Kab)
+- [ ] `osn-sma-keb-05b-1-sungai-danau-campur.md`
+- [ ] `osn-sma-keb-05b-1-sungai-danau-mudah.md`
+- [ ] `osn-sma-keb-05b-1-sungai-danau-sedang.md`
+- [ ] `osn-sma-keb-05b-1-sungai-danau-sulit.md`
+- [ ] `osn-sma-keb-05b-1-sungai-danau-mudah-sedang.md`
+- [ ] `osn-sma-keb-05b-1-sungai-danau-sedang-sulit.md`
+
+#### KEB-05c · Air Tanah
+**KEB-05c-1 · Akuifer (Confined, Unconfined) & Mata Air** (fokus Prov)
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-campur.md`
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-mudah.md`
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-sedang.md`
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-sulit.md`
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-mudah-sedang.md`
+- [ ] `osn-sma-keb-05c-1-akuifer-mata-air-sedang-sulit.md`
+
+#### KEB-05d · DAS
+**KEB-05d-1 · Konsep DAS, Penampang & Pengelolaan Hulu-Hilir** (fokus Prov)
+- [ ] `osn-sma-keb-05d-1-das-penampang-campur.md`
+- [ ] `osn-sma-keb-05d-1-das-penampang-mudah.md`
+- [ ] `osn-sma-keb-05d-1-das-penampang-sedang.md`
+- [ ] `osn-sma-keb-05d-1-das-penampang-sulit.md`
+- [ ] `osn-sma-keb-05d-1-das-penampang-mudah-sedang.md`
+- [ ] `osn-sma-keb-05d-1-das-penampang-sedang-sulit.md`
+
+#### KEB-05e · Erosi & Sedimentasi
+**KEB-05e-1 · Erosi Aliran, Angin, Glasial & Pembentukan Delta** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-campur.md`
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-mudah.md`
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-sedang.md`
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-sulit.md`
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-05e-1-erosi-sedimentasi-detail-sedang-sulit.md`
+
+#### KEB-05f · Pengelolaan SDA Air
+**KEB-05f-1 · Konservasi Air, Pemanfaatan Berkelanjutan, Hk Air** (fokus Prov)
+- [ ] `osn-sma-keb-05f-1-konservasi-air-campur.md`
+- [ ] `osn-sma-keb-05f-1-konservasi-air-mudah.md`
+- [ ] `osn-sma-keb-05f-1-konservasi-air-sedang.md`
+- [ ] `osn-sma-keb-05f-1-konservasi-air-sulit.md`
+- [ ] `osn-sma-keb-05f-1-konservasi-air-mudah-sedang.md`
+- [ ] `osn-sma-keb-05f-1-konservasi-air-sedang-sulit.md`
+
+#### KEB-05g · Banjir & Kekeringan
+**KEB-05g-1 · Penyebab, Dampak & Mitigasi Banjir & Kekeringan** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-campur.md`
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-mudah.md`
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-sedang.md`
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-sulit.md`
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-05g-1-banjir-kekeringan-detail-sedang-sulit.md`
+
+### KEB-06 · Mitigasi Bencana & Geologi Lingkungan (~8 sub-sub-bab)
+
+#### KEB-06a · Mitigasi Gempa
+**KEB-06a-1 · Mitigasi Pra-Gempa (Struktur Tahan Gempa) & Tanggap Darurat** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-campur.md`
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-mudah.md`
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-sedang.md`
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-sulit.md`
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-06a-1-mitigasi-gempa-detail-sedang-sulit.md`
+
+#### KEB-06b · Tsunami
+**KEB-06b-1 · Mekanisme Tsunami (Gempa Bawah Laut, Longsor) & Early Warning** (fokus Prov)
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-campur.md`
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-mudah.md`
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-sedang.md`
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-sulit.md`
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-mudah-sedang.md`
+- [ ] `osn-sma-keb-06b-1-tsunami-warning-sedang-sulit.md`
+
+#### KEB-06c · Mitigasi Vulkanik
+**KEB-06c-1 · Status Aktivitas (Normal, Waspada, Siaga, Awas) & Evakuasi** (fokus Kab–Prov)
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-campur.md`
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-mudah.md`
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-sedang.md`
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-sulit.md`
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-mudah-sedang.md`
+- [ ] `osn-sma-keb-06c-1-status-vulkanik-sedang-sulit.md`
+
+#### KEB-06d · Tanah Longsor
+**KEB-06d-1 · Faktor Penyebab (Curah Hujan, Lereng, Vegetasi) & Mitigasi** (fokus Kab)
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-campur.md`
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-mudah.md`
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-sedang.md`
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-sulit.md`
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-06d-1-tanah-longsor-detail-sedang-sulit.md`
+
+#### KEB-06e · Mitigasi Banjir
+**KEB-06e-1 · Tata Ruang, Drainase, Reboisasi, Sumur Resapan** (fokus Kab)
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-campur.md`
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-mudah.md`
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-sedang.md`
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-sulit.md`
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-mudah-sedang.md`
+- [ ] `osn-sma-keb-06e-1-mitigasi-banjir-detail-sedang-sulit.md`
+
+#### KEB-06f · Pencemaran Tanah-Air
+**KEB-06f-1 · Limbah Industri, Pestisida, Mikroplastik, Bioremediasi** (fokus Kab)
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-campur.md`
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-mudah.md`
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-sedang.md`
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-sulit.md`
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-mudah-sedang.md`
+- [ ] `osn-sma-keb-06f-1-pencemaran-bioremediasi-sedang-sulit.md`
+
+#### KEB-06g · Eksploitasi Mineral
+**KEB-06g-1 · Tambang Terbuka vs Tertutup, Dampak Lingkungan, Reklamasi** (fokus Prov)
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-campur.md`
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-mudah.md`
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-sedang.md`
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-sulit.md`
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-mudah-sedang.md`
+- [ ] `osn-sma-keb-06g-1-tambang-reklamasi-sedang-sulit.md`
+
+#### KEB-06h · Pemetaan Risiko SIG
+**KEB-06h-1 · SIG untuk Pemetaan Rawan Bencana (Hazard Map)** (fokus Prov)
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-campur.md`
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-mudah.md`
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-sedang.md`
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-sulit.md`
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-mudah-sedang.md`
+- [ ] `osn-sma-keb-06h-1-sig-hazard-map-sedang-sulit.md`
+
+---
+
+## G · Geografi Per Sub-Sub-Bab
+
+### GEO-01 · Dasar Geografi, Peta & Inderaja (~9 sub-sub-bab)
+
+**GEO-01a-1 · 10 Konsep Esensial Geografi** (fokus Kab)
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-campur.md`
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-mudah.md`
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-sedang.md`
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-sulit.md`
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-mudah-sedang.md`
+- [ ] `osn-sma-geo-01a-1-10-konsep-esensial-sedang-sulit.md`
+
+**GEO-01b-1 · 4 Prinsip (Distribusi, Interelasi, Deskripsi, Korologi)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-01b-1-4-prinsip-campur.md`
+- [ ] `osn-sma-geo-01b-1-4-prinsip-mudah.md`
+- [ ] `osn-sma-geo-01b-1-4-prinsip-sedang.md`
+- [ ] `osn-sma-geo-01b-1-4-prinsip-sulit.md`
+- [ ] `osn-sma-geo-01b-1-4-prinsip-mudah-sedang.md`
+- [ ] `osn-sma-geo-01b-1-4-prinsip-sedang-sulit.md`
+
+**GEO-01b-2 · 3 Pendekatan (Keruangan, Ekologi, Kompleks Wilayah)** (fokus Prov)
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-campur.md`
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-mudah.md`
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-sedang.md`
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-sulit.md`
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-mudah-sedang.md`
+- [ ] `osn-sma-geo-01b-2-3-pendekatan-sedang-sulit.md`
+
+**GEO-01c-1 · Aspek Geografi Fisik vs Sosial** (fokus Kab)
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-campur.md`
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-mudah.md`
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-sedang.md`
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-sulit.md`
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-mudah-sedang.md`
+- [ ] `osn-sma-geo-01c-1-aspek-fisik-sosial-sedang-sulit.md`
+
+**GEO-01d-1 · Komponen Peta (Judul, Skala, Legenda, Orientasi) & Proyeksi (Mercator, Conic)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-campur.md`
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-mudah.md`
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-sedang.md`
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-sulit.md`
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-mudah-sedang.md`
+- [ ] `osn-sma-geo-01d-1-komponen-proyeksi-sedang-sulit.md`
+
+**GEO-01e-1 · Skala Numerik, Verbal, Grafis & Konversi** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-01e-1-skala-konversi-campur.md`
+- [ ] `osn-sma-geo-01e-1-skala-konversi-mudah.md`
+- [ ] `osn-sma-geo-01e-1-skala-konversi-sedang.md`
+- [ ] `osn-sma-geo-01e-1-skala-konversi-sulit.md`
+- [ ] `osn-sma-geo-01e-1-skala-konversi-mudah-sedang.md`
+- [ ] `osn-sma-geo-01e-1-skala-konversi-sedang-sulit.md`
+
+**GEO-01f-1 · Konsep Inderaja, Citra Aktif vs Pasif** (fokus Prov)
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-campur.md`
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-mudah.md`
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-sedang.md`
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-sulit.md`
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-mudah-sedang.md`
+- [ ] `osn-sma-geo-01f-1-inderaja-konsep-sedang-sulit.md`
+
+**GEO-01g-1 · Unsur Interpretasi Citra (Rona, Bentuk, Ukuran, Tekstur)** (fokus Prov–Nas)
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-campur.md`
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-mudah.md`
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-sedang.md`
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-sulit.md`
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-mudah-sedang.md`
+- [ ] `osn-sma-geo-01g-1-interpretasi-citra-sedang-sulit.md`
+
+### GEO-02 · Geografi Fisik (~9 sub-sub-bab)
+
+**GEO-02a-1 · Pembentukan Tata Surya & Bumi** (fokus Kab)
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-campur.md`
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-mudah.md`
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-sedang.md`
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-sulit.md`
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-mudah-sedang.md`
+- [ ] `osn-sma-geo-02a-1-pembentukan-bumi-sedang-sulit.md`
+
+**GEO-02b-1 · Litosfer (Batuan, Tektonik, Vulkanik, Seismik)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-campur.md`
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-mudah.md`
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-sedang.md`
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-sulit.md`
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-mudah-sedang.md`
+- [ ] `osn-sma-geo-02b-1-litosfer-detail-sedang-sulit.md`
+
+**GEO-02c-1 · Pedosfer (Jenis Tanah Indonesia: Andosol, Latosol, dll) & Erosi** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-campur.md`
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-mudah.md`
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-sedang.md`
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-sulit.md`
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-mudah-sedang.md`
+- [ ] `osn-sma-geo-02c-1-pedosfer-jenis-sedang-sulit.md`
+
+**GEO-02d-1 · Atmosfer (Lapisan, Cuaca, Iklim, Awan, Angin)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-campur.md`
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-mudah.md`
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-sedang.md`
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-sulit.md`
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-mudah-sedang.md`
+- [ ] `osn-sma-geo-02d-1-atmosfer-cuaca-iklim-sedang-sulit.md`
+
+**GEO-02e-1 · Hidrosfer Darat (Sungai, Danau, Rawa) & Laut** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-campur.md`
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-mudah.md`
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-sedang.md`
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-sulit.md`
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-mudah-sedang.md`
+- [ ] `osn-sma-geo-02e-1-hidrosfer-darat-laut-sedang-sulit.md`
+
+**GEO-02f-1 · Biosfer (Persebaran Flora-Fauna Bioma & Wallace-Weber)** (fokus Kab)
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-campur.md`
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-mudah.md`
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-sedang.md`
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-sulit.md`
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-mudah-sedang.md`
+- [ ] `osn-sma-geo-02f-1-biosfer-wallace-sedang-sulit.md`
+
+**GEO-02g-1 · Antroposfer (Karakteristik Penduduk, Aktivitas Manusia)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-campur.md`
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-mudah.md`
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-sedang.md`
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-sulit.md`
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-mudah-sedang.md`
+- [ ] `osn-sma-geo-02g-1-antroposfer-karakter-sedang-sulit.md`
+
+### GEO-03 · Geografi Manusia (~9 sub-sub-bab)
+
+**GEO-03a-1 · Natalitas, Mortalitas, Pertumbuhan Alami** (fokus Kab)
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-campur.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-mudah.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-sedang.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-sedang.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-sulit.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-mudah-sedang.md`
+- [ ] `osn-sma-geo-03a-1-natalitas-mortalitas-sedang-sulit.md`
+
+**GEO-03b-1 · Piramida Ekspansif, Stasioner, Konstriktif & Rasio Ketergantungan** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-campur.md`
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-mudah.md`
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-sedang.md`
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-sulit.md`
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-mudah-sedang.md`
+- [ ] `osn-sma-geo-03b-1-piramida-rasio-sedang-sulit.md`
+
+**GEO-03c-1 · Migrasi Internal & Internasional (Faktor Pendorong-Penarik)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-campur.md`
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-mudah.md`
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-sedang.md`
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-sulit.md`
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-mudah-sedang.md`
+- [ ] `osn-sma-geo-03c-1-migrasi-faktor-sedang-sulit.md`
+
+**GEO-03d-1 · Pola Permukiman (Memusat, Tersebar, Linear)** (fokus Kab)
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-campur.md`
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-mudah.md`
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-sedang.md`
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-sulit.md`
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-mudah-sedang.md`
+- [ ] `osn-sma-geo-03d-1-pola-permukiman-sedang-sulit.md`
+
+**GEO-03e-1 · Urbanisasi (Faktor, Dampak Positif-Negatif) & Tipe Kota** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-campur.md`
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-mudah.md`
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-sedang.md`
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-sulit.md`
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-mudah-sedang.md`
+- [ ] `osn-sma-geo-03e-1-urbanisasi-tipe-sedang-sulit.md`
+
+**GEO-03f-1 · Klasifikasi Desa (Swadaya, Swakarya, Swasembada) & Pola** (fokus Kab)
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-campur.md`
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-mudah.md`
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-sedang.md`
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-sulit.md`
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-mudah-sedang.md`
+- [ ] `osn-sma-geo-03f-1-desa-klasifikasi-sedang-sulit.md`
+
+**GEO-03g-1 · Interaksi Desa-Kota (Teori Gravitasi, Indeks Konektivitas)** (fokus Prov)
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-campur.md`
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-mudah.md`
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-sedang.md`
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-sulit.md`
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-mudah-sedang.md`
+- [ ] `osn-sma-geo-03g-1-interaksi-gravitasi-sedang-sulit.md`
+
+### GEO-04 · Geografi Ekonomi (~9 sub-sub-bab)
+
+**GEO-04a-1 · Pertanian Lahan Basah, Lahan Kering, Perkebunan** (fokus Kab)
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-campur.md`
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-mudah.md`
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-sedang.md`
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-sulit.md`
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-mudah-sedang.md`
+- [ ] `osn-sma-geo-04a-1-pertanian-jenis-sedang-sulit.md`
+
+**GEO-04b-1 · Klasifikasi Industri & Teori Lokasi (Weber, Losch)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-04b-1-industri-weber-campur.md`
+- [ ] `osn-sma-geo-04b-1-industri-weber-mudah.md`
+- [ ] `osn-sma-geo-04b-1-industri-weber-sedang.md`
+- [ ] `osn-sma-geo-04b-1-industri-weber-sulit.md`
+- [ ] `osn-sma-geo-04b-1-industri-weber-mudah-sedang.md`
+- [ ] `osn-sma-geo-04b-1-industri-weber-sedang-sulit.md`
+
+**GEO-04c-1 · SDA Logam, Non-Logam, Batubara & Persebaran** (fokus Kab)
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-campur.md`
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-mudah.md`
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-sedang.md`
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-sulit.md`
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-mudah-sedang.md`
+- [ ] `osn-sma-geo-04c-1-sda-persebaran-sedang-sulit.md`
+
+**GEO-04d-1 · Jaringan Transportasi (Darat, Laut, Udara) & Aksesibilitas** (fokus Prov)
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-campur.md`
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-mudah.md`
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-sedang.md`
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-sulit.md`
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-mudah-sedang.md`
+- [ ] `osn-sma-geo-04d-1-transportasi-jaringan-sedang-sulit.md`
+
+**GEO-04e-1 · Pasar Tradisional, Modern, Internasional** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-campur.md`
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-mudah.md`
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-sedang.md`
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-sulit.md`
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-mudah-sedang.md`
+- [ ] `osn-sma-geo-04e-1-pasar-tradisional-internasional-sedang-sulit.md`
+
+**GEO-04f-1 · Pariwisata Alam, Budaya, Buatan (Faktor Pendukung)** (fokus Kab)
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-campur.md`
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-mudah.md`
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-sedang.md`
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-sulit.md`
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-mudah-sedang.md`
+- [ ] `osn-sma-geo-04f-1-pariwisata-jenis-sedang-sulit.md`
+
+**GEO-04g-1 · Tata Ruang (RTRW), Wilayah Fungsional & Formal** (fokus Prov–Nas)
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-campur.md`
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-mudah.md`
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-sedang.md`
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-sulit.md`
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-mudah-sedang.md`
+- [ ] `osn-sma-geo-04g-1-tata-ruang-wilayah-sedang-sulit.md`
+
+### GEO-05 · Geografi Regional (~10 sub-sub-bab)
+
+**GEO-05a-1 · Sumatera & Kalimantan (SDA, Demografi, Ekonomi)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-campur.md`
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-mudah.md`
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-sedang.md`
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-sulit.md`
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-mudah-sedang.md`
+- [ ] `osn-sma-geo-05a-1-sumatera-kalimantan-sedang-sulit.md`
+
+**GEO-05b-1 · Jawa, Bali, Nusa Tenggara (Karakteristik Regional)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-campur.md`
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-mudah.md`
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-sedang.md`
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-sulit.md`
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-mudah-sedang.md`
+- [ ] `osn-sma-geo-05b-1-jawa-bali-nt-sedang-sulit.md`
+
+**GEO-05c-1 · Sulawesi, Maluku, Papua (Karakteristik Regional)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-campur.md`
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-mudah.md`
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-sedang.md`
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-sulit.md`
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-mudah-sedang.md`
+- [ ] `osn-sma-geo-05c-1-sulawesi-maluku-papua-sedang-sulit.md`
+
+**GEO-05d-1 · Asia Tenggara, Timur, Selatan, Barat (Karakter Negara)** (fokus Prov)
+- [ ] `osn-sma-geo-05d-1-asia-regional-campur.md`
+- [ ] `osn-sma-geo-05d-1-asia-regional-mudah.md`
+- [ ] `osn-sma-geo-05d-1-asia-regional-sedang.md`
+- [ ] `osn-sma-geo-05d-1-asia-regional-sulit.md`
+- [ ] `osn-sma-geo-05d-1-asia-regional-mudah-sedang.md`
+- [ ] `osn-sma-geo-05d-1-asia-regional-sedang-sulit.md`
+
+**GEO-05e-1 · Eropa & Amerika (Karakter Negara Maju & Berkembang)** (fokus Prov)
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-campur.md`
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-mudah.md`
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-sedang.md`
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-sulit.md`
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-mudah-sedang.md`
+- [ ] `osn-sma-geo-05e-1-eropa-amerika-sedang-sulit.md`
+
+**GEO-05f-1 · Afrika & Oseania (Karakteristik Wilayah)** (fokus Prov)
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-campur.md`
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-mudah.md`
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-sedang.md`
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-sulit.md`
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-mudah-sedang.md`
+- [ ] `osn-sma-geo-05f-1-afrika-oseania-sedang-sulit.md`
+
+**GEO-05g-1 · ASEAN (Anggota, Kerjasama Ekonomi, Tantangan)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-campur.md`
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-mudah.md`
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-sedang.md`
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-sulit.md`
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-mudah-sedang.md`
+- [ ] `osn-sma-geo-05g-1-asean-kerjasama-sedang-sulit.md`
+
+**GEO-05h-1 · Negara Maju vs Berkembang (Indikator: HDI, GDP per Kapita)** (fokus Prov)
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-campur.md`
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-mudah.md`
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-sedang.md`
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-sulit.md`
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-mudah-sedang.md`
+- [ ] `osn-sma-geo-05h-1-maju-berkembang-hdi-sedang-sulit.md`
+
+### GEO-06 · SIG, Mitigasi & Pembangunan Berkelanjutan (~9 sub-sub-bab)
+
+**GEO-06a-1 · Komponen SIG (Hardware, Software, Data, Brainware)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-06a-1-komponen-sig-campur.md`
+- [ ] `osn-sma-geo-06a-1-komponen-sig-mudah.md`
+- [ ] `osn-sma-geo-06a-1-komponen-sig-sedang.md`
+- [ ] `osn-sma-geo-06a-1-komponen-sig-sulit.md`
+- [ ] `osn-sma-geo-06a-1-komponen-sig-mudah-sedang.md`
+- [ ] `osn-sma-geo-06a-1-komponen-sig-sedang-sulit.md`
+
+**GEO-06b-1 · Data Vektor (Titik, Garis, Poligon) & Raster (Pixel)** (fokus Prov)
+- [ ] `osn-sma-geo-06b-1-vektor-raster-campur.md`
+- [ ] `osn-sma-geo-06b-1-vektor-raster-mudah.md`
+- [ ] `osn-sma-geo-06b-1-vektor-raster-sedang.md`
+- [ ] `osn-sma-geo-06b-1-vektor-raster-sulit.md`
+- [ ] `osn-sma-geo-06b-1-vektor-raster-mudah-sedang.md`
+- [ ] `osn-sma-geo-06b-1-vektor-raster-sedang-sulit.md`
+
+**GEO-06c-1 · Analisis Buffer, Overlay, Network, 3D** (fokus Prov–Nas)
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-campur.md`
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-mudah.md`
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-sedang.md`
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-sulit.md`
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-mudah-sedang.md`
+- [ ] `osn-sma-geo-06c-1-analisis-spasial-sedang-sulit.md`
+
+**GEO-06d-1 · SIG untuk Pemetaan Lahan, Bencana, Sumber Daya** (fokus Prov)
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-campur.md`
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-mudah.md`
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-sedang.md`
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-sulit.md`
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-mudah-sedang.md`
+- [ ] `osn-sma-geo-06d-1-aplikasi-sig-sedang-sulit.md`
+
+**GEO-06e-1 · Mitigasi Bencana Berbasis SIG (Zonasi, Early Warning)** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-campur.md`
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-mudah.md`
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-sedang.md`
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-sulit.md`
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-mudah-sedang.md`
+- [ ] `osn-sma-geo-06e-1-mitigasi-sig-sedang-sulit.md`
+
+**GEO-06f-1 · 17 SDGs PBB & Implementasi di Indonesia** (fokus Kab–Prov)
+- [ ] `osn-sma-geo-06f-1-sdgs-17-campur.md`
+- [ ] `osn-sma-geo-06f-1-sdgs-17-mudah.md`
+- [ ] `osn-sma-geo-06f-1-sdgs-17-sedang.md`
+- [ ] `osn-sma-geo-06f-1-sdgs-17-sulit.md`
+- [ ] `osn-sma-geo-06f-1-sdgs-17-mudah-sedang.md`
+- [ ] `osn-sma-geo-06f-1-sdgs-17-sedang-sulit.md`
+
+**GEO-06g-1 · Ketahanan Pangan (Diversifikasi) & Energi (Terbarukan)** (fokus Prov)
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-campur.md`
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-mudah.md`
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-sedang.md`
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-sulit.md`
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-mudah-sedang.md`
+- [ ] `osn-sma-geo-06g-1-ketahanan-pangan-energi-sedang-sulit.md`
+
+---
+
+## H · Ekonomi Per Sub-Sub-Bab
+
+### EKO-01 · Konsep Dasar & Permintaan-Penawaran (~12 sub-sub-bab)
+
+**EKO-01a-1 · Kebutuhan, Kelangkaan, Skala Prioritas** (fokus Kab)
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-campur.md`
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-mudah.md`
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-sedang.md`
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-sulit.md`
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-mudah-sedang.md`
+- [ ] `osn-sma-eko-01a-1-kebutuhan-kelangkaan-sedang-sulit.md`
+
+**EKO-01b-1 · Biaya Peluang & Kurva Kemungkinan Produksi (PPF)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-campur.md`
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-mudah.md`
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-sedang.md`
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-sulit.md`
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-mudah-sedang.md`
+- [ ] `osn-sma-eko-01b-1-biaya-peluang-ppf-sedang-sulit.md`
+
+**EKO-01c-1 · Sistem Ekonomi (Tradisional, Komando, Pasar, Campuran)** (fokus Kab)
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-campur.md`
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-mudah.md`
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-sedang.md`
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-sulit.md`
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-mudah-sedang.md`
+- [ ] `osn-sma-eko-01c-1-sistem-ekonomi-sedang-sulit.md`
+
+**EKO-01d-1 · Hukum Permintaan & Fungsi Permintaan (Qd = a - bP)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-campur.md`
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-mudah.md`
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-sedang.md`
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-sulit.md`
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-mudah-sedang.md`
+- [ ] `osn-sma-eko-01d-1-fungsi-permintaan-sedang-sulit.md`
+
+**EKO-01e-1 · Hukum Penawaran & Fungsi Penawaran (Qs = a + bP)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-campur.md`
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-mudah.md`
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-sedang.md`
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-sulit.md`
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-mudah-sedang.md`
+- [ ] `osn-sma-eko-01e-1-fungsi-penawaran-sedang-sulit.md`
+
+**EKO-01f-1 · Harga & Kuantitas Keseimbangan (Qd = Qs) & Pengaruh Pajak/Subsidi** (fokus Prov)
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-campur.md`
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-mudah.md`
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-sedang.md`
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-sulit.md`
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-mudah-sedang.md`
+- [ ] `osn-sma-eko-01f-1-keseimbangan-pajak-subsidi-sedang-sulit.md`
+
+**EKO-01g-1 · Elastisitas Permintaan (Ed: Elastis, Inelastis, Uniter)** (fokus Prov)
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-campur.md`
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-mudah.md`
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-sedang.md`
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-sulit.md`
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-mudah-sedang.md`
+- [ ] `osn-sma-eko-01g-1-elastisitas-permintaan-sedang-sulit.md`
+
+**EKO-01h-1 · Elastisitas Penawaran & Elastisitas Silang/Pendapatan** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-campur.md`
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-mudah.md`
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-sedang.md`
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-sulit.md`
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-mudah-sedang.md`
+- [ ] `osn-sma-eko-01h-1-elastisitas-penawaran-silang-sedang-sulit.md`
+
+**EKO-01i-1 · Pergeseran Kurva karena Faktor Non-Harga** (fokus Prov)
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-campur.md`
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-mudah.md`
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-sedang.md`
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-sulit.md`
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-mudah-sedang.md`
+- [ ] `osn-sma-eko-01i-1-pergeseran-kurva-sedang-sulit.md`
+
+### EKO-02 · Pasar & Struktur Pasar (~10 sub-sub-bab)
+
+**EKO-02a-1 · Pasar Persaingan Sempurna (Ciri, Kurva, P=MC)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-campur.md`
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-mudah.md`
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-sedang.md`
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-sulit.md`
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-mudah-sedang.md`
+- [ ] `osn-sma-eko-02a-1-persaingan-sempurna-sedang-sulit.md`
+
+**EKO-02b-1 · Pasar Monopoli (Penyebab, Diskriminasi Harga)** (fokus Prov)
+- [ ] `osn-sma-eko-02b-1-monopoli-campur.md`
+- [ ] `osn-sma-eko-02b-1-monopoli-mudah.md`
+- [ ] `osn-sma-eko-02b-1-monopoli-sedang.md`
+- [ ] `osn-sma-eko-02b-1-monopoli-sulit.md`
+- [ ] `osn-sma-eko-02b-1-monopoli-mudah-sedang.md`
+- [ ] `osn-sma-eko-02b-1-monopoli-sedang-sulit.md`
+
+**EKO-02c-1 · Pasar Oligopoli (Kartel, Game Theory Pengantar)** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-campur.md`
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-mudah.md`
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-sedang.md`
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-sulit.md`
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-mudah-sedang.md`
+- [ ] `osn-sma-eko-02c-1-oligopoli-game-sedang-sulit.md`
+
+**EKO-02d-1 · Pasar Persaingan Monopolistik (Diferensiasi Produk)** (fokus Prov)
+- [ ] `osn-sma-eko-02d-1-monopolistik-campur.md`
+- [ ] `osn-sma-eko-02d-1-monopolistik-mudah.md`
+- [ ] `osn-sma-eko-02d-1-monopolistik-sedang.md`
+- [ ] `osn-sma-eko-02d-1-monopolistik-sulit.md`
+- [ ] `osn-sma-eko-02d-1-monopolistik-mudah-sedang.md`
+- [ ] `osn-sma-eko-02d-1-monopolistik-sedang-sulit.md`
+
+**EKO-02e-1 · Pasar Faktor Produksi (Upah, Sewa, Bunga, Laba)** (fokus Prov)
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-campur.md`
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-mudah.md`
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-sedang.md`
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-sulit.md`
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-mudah-sedang.md`
+- [ ] `osn-sma-eko-02e-1-pasar-faktor-sedang-sulit.md`
+
+**EKO-02f-1 · Diskriminasi Harga Derajat 1, 2, 3** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-campur.md`
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-mudah.md`
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-sedang.md`
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-sulit.md`
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-mudah-sedang.md`
+- [ ] `osn-sma-eko-02f-1-diskriminasi-derajat-sedang-sulit.md`
+
+**EKO-02g-1 · Eksternalitas (Positif/Negatif) & Barang Publik** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-campur.md`
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-mudah.md`
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-sedang.md`
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-sulit.md`
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-mudah-sedang.md`
+- [ ] `osn-sma-eko-02g-1-eksternalitas-publik-sedang-sulit.md`
+
+**EKO-02h-1 · Surplus Konsumen & Produsen (Dead Weight Loss)** (fokus Prov)
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-campur.md`
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-mudah.md`
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-sedang.md`
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-sulit.md`
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-mudah-sedang.md`
+- [ ] `osn-sma-eko-02h-1-surplus-dwl-sedang-sulit.md`
+
+### EKO-03 · Mikroekonomi (~10 sub-sub-bab)
+
+**EKO-03a-1 · Utilitas Total & Marginal (Hukum Gossen I)** (fokus Prov)
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-campur.md`
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-mudah.md`
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-sedang.md`
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-sulit.md`
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-mudah-sedang.md`
+- [ ] `osn-sma-eko-03a-1-utilitas-gossen-sedang-sulit.md`
+
+**EKO-03b-1 · Pendekatan Kardinal vs Ordinal** (fokus Prov)
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-campur.md`
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-mudah.md`
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-sedang.md`
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-sulit.md`
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-mudah-sedang.md`
+- [ ] `osn-sma-eko-03b-1-kardinal-ordinal-sedang-sulit.md`
+
+**EKO-03c-1 · Teori Produksi Jangka Pendek & Panjang** (fokus Prov)
+- [ ] `osn-sma-eko-03c-1-teori-produksi-campur.md`
+- [ ] `osn-sma-eko-03c-1-teori-produksi-mudah.md`
+- [ ] `osn-sma-eko-03c-1-teori-produksi-sedang.md`
+- [ ] `osn-sma-eko-03c-1-teori-produksi-sulit.md`
+- [ ] `osn-sma-eko-03c-1-teori-produksi-mudah-sedang.md`
+- [ ] `osn-sma-eko-03c-1-teori-produksi-sedang-sulit.md`
+
+**EKO-03d-1 · Hukum Pertambahan Hasil Berkurang (Diminishing Returns)** (fokus Prov)
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-campur.md`
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-mudah.md`
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-sedang.md`
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-sulit.md`
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-mudah-sedang.md`
+- [ ] `osn-sma-eko-03d-1-diminishing-returns-sedang-sulit.md`
+
+**EKO-03e-1 · Biaya Produksi (FC, VC, TC, AC, MC) & Kurva** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-campur.md`
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-mudah.md`
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-sedang.md`
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-sulit.md`
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-mudah-sedang.md`
+- [ ] `osn-sma-eko-03e-1-biaya-produksi-kurva-sedang-sulit.md`
+
+**EKO-03f-1 · Pendapatan (TR, MR, AR)** (fokus Prov)
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-campur.md`
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-mudah.md`
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-sedang.md`
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-sulit.md`
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-mudah-sedang.md`
+- [ ] `osn-sma-eko-03f-1-pendapatan-tr-mr-sedang-sulit.md`
+
+**EKO-03g-1 · Laba Maksimum (Syarat MR = MC)** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-campur.md`
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-mudah.md`
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-sedang.md`
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-sulit.md`
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-mudah-sedang.md`
+- [ ] `osn-sma-eko-03g-1-laba-maks-mr-mc-sedang-sulit.md`
+
+**EKO-03h-1 · Kurva Indiferens & Garis Anggaran (Keseimbangan Konsumen)** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-campur.md`
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-mudah.md`
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-sedang.md`
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-sulit.md`
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-mudah-sedang.md`
+- [ ] `osn-sma-eko-03h-1-indiferens-anggaran-sedang-sulit.md`
+
+### EKO-04 · Makroekonomi (~10 sub-sub-bab)
+
+**EKO-04a-1 · PDB, PNB, PNN, PI, DI (Definisi & Hubungan)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-campur.md`
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-mudah.md`
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-sedang.md`
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-sulit.md`
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-mudah-sedang.md`
+- [ ] `osn-sma-eko-04a-1-pdb-pnb-pi-di-sedang-sulit.md`
+
+**EKO-04b-1 · 3 Pendekatan Perhitungan PDB (Produksi, Pendapatan, Pengeluaran)** (fokus Prov)
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-campur.md`
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-mudah.md`
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-sedang.md`
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-sulit.md`
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-mudah-sedang.md`
+- [ ] `osn-sma-eko-04b-1-3-pendekatan-pdb-sedang-sulit.md`
+
+**EKO-04c-1 · Pertumbuhan vs Pembangunan Ekonomi (Indikator)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-campur.md`
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-mudah.md`
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-sedang.md`
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-sulit.md`
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-mudah-sedang.md`
+- [ ] `osn-sma-eko-04c-1-pertumbuhan-pembangunan-sedang-sulit.md`
+
+**EKO-04d-1 · Inflasi (Jenis, Penyebab, Indeks Harga, Dampak)** (fokus Prov)
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-campur.md`
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-mudah.md`
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-sedang.md`
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-sulit.md`
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-mudah-sedang.md`
+- [ ] `osn-sma-eko-04d-1-inflasi-indeks-sedang-sulit.md`
+
+**EKO-04e-1 · Pengangguran (Friksional, Struktural, Siklikal) & Dampak** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-campur.md`
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-mudah.md`
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-sedang.md`
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-sulit.md`
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-mudah-sedang.md`
+- [ ] `osn-sma-eko-04e-1-pengangguran-jenis-sedang-sulit.md`
+
+**EKO-04f-1 · Fungsi Konsumsi & Tabungan (MPC, MPS, APC, APS)** (fokus Prov)
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-campur.md`
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-mudah.md`
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-sedang.md`
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-sulit.md`
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-mudah-sedang.md`
+- [ ] `osn-sma-eko-04f-1-konsumsi-mpc-mps-sedang-sulit.md`
+
+**EKO-04g-1 · Angka Pengganda (Multiplier = 1/(1-MPC))** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-04g-1-multiplier-campur.md`
+- [ ] `osn-sma-eko-04g-1-multiplier-mudah.md`
+- [ ] `osn-sma-eko-04g-1-multiplier-sedang.md`
+- [ ] `osn-sma-eko-04g-1-multiplier-sulit.md`
+- [ ] `osn-sma-eko-04g-1-multiplier-mudah-sedang.md`
+- [ ] `osn-sma-eko-04g-1-multiplier-sedang-sulit.md`
+
+**EKO-04h-1 · Siklus Bisnis (Ekspansi, Puncak, Resesi, Trough)** (fokus Prov)
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-campur.md`
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-mudah.md`
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-sedang.md`
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-sulit.md`
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-mudah-sedang.md`
+- [ ] `osn-sma-eko-04h-1-siklus-bisnis-sedang-sulit.md`
+
+### EKO-05 · Uang, Bank & Moneter (~8 sub-sub-bab)
+
+**EKO-05a-1 · Fungsi & Jenis Uang, Standar Moneter** (fokus Kab)
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-campur.md`
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-mudah.md`
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-sedang.md`
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-sulit.md`
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-mudah-sedang.md`
+- [ ] `osn-sma-eko-05a-1-fungsi-jenis-uang-sedang-sulit.md`
+
+**EKO-05b-1 · Teori Kuantitas Uang (MV = PT, Irving Fisher)** (fokus Prov)
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-campur.md`
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-mudah.md`
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-sedang.md`
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-sulit.md`
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-mudah-sedang.md`
+- [ ] `osn-sma-eko-05b-1-teori-kuantitas-uang-sedang-sulit.md`
+
+**EKO-05c-1 · Bank Sentral, Umum, Syariah & Penciptaan Uang Giral** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-campur.md`
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-mudah.md`
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-sedang.md`
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-sulit.md`
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-mudah-sedang.md`
+- [ ] `osn-sma-eko-05c-1-bank-penciptaan-giral-sedang-sulit.md`
+
+**EKO-05d-1 · Kebijakan Moneter Ekspansif vs Kontraktif** (fokus Prov)
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-campur.md`
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-mudah.md`
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-sedang.md`
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-sulit.md`
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-mudah-sedang.md`
+- [ ] `osn-sma-eko-05d-1-moneter-ekspansif-kontraktif-sedang-sulit.md`
+
+**EKO-05e-1 · Instrumen Moneter (Suku Bunga, OPT, GWM, Diskonto)** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-campur.md`
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-mudah.md`
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-sedang.md`
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-sulit.md`
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-mudah-sedang.md`
+- [ ] `osn-sma-eko-05e-1-instrumen-moneter-sedang-sulit.md`
+
+**EKO-05f-1 · Cadangan Wajib & Money Multiplier (1/rr)** (fokus Nas)
+- [ ] `osn-sma-eko-05f-1-money-multiplier-campur.md`
+- [ ] `osn-sma-eko-05f-1-money-multiplier-mudah.md`
+- [ ] `osn-sma-eko-05f-1-money-multiplier-sedang.md`
+- [ ] `osn-sma-eko-05f-1-money-multiplier-sulit.md`
+- [ ] `osn-sma-eko-05f-1-money-multiplier-mudah-sedang.md`
+- [ ] `osn-sma-eko-05f-1-money-multiplier-sedang-sulit.md`
+
+**EKO-05g-1 · LKBB (Asuransi, Pegadaian, Dana Pensiun, Leasing)** (fokus Kab)
+- [ ] `osn-sma-eko-05g-1-lkbb-campur.md`
+- [ ] `osn-sma-eko-05g-1-lkbb-mudah.md`
+- [ ] `osn-sma-eko-05g-1-lkbb-sedang.md`
+- [ ] `osn-sma-eko-05g-1-lkbb-sulit.md`
+- [ ] `osn-sma-eko-05g-1-lkbb-mudah-sedang.md`
+- [ ] `osn-sma-eko-05g-1-lkbb-sedang-sulit.md`
+
+### EKO-06 · APBN, Pajak & Fiskal (~9 sub-sub-bab)
+
+**EKO-06a-1 · Struktur & Fungsi APBN/APBD** (fokus Kab)
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-campur.md`
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-mudah.md`
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-sedang.md`
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-sulit.md`
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-mudah-sedang.md`
+- [ ] `osn-sma-eko-06a-1-apbn-apbd-struktur-sedang-sulit.md`
+
+**EKO-06b-1 · Sumber Penerimaan Negara (Pajak, PNBP, Hibah)** (fokus Kab)
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-campur.md`
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-mudah.md`
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-sedang.md`
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-sulit.md`
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-mudah-sedang.md`
+- [ ] `osn-sma-eko-06b-1-penerimaan-negara-sedang-sulit.md`
+
+**EKO-06c-1 · Pengeluaran Negara (Belanja Pusat, Transfer Daerah)** (fokus Kab)
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-campur.md`
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-mudah.md`
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-sedang.md`
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-sulit.md`
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-mudah-sedang.md`
+- [ ] `osn-sma-eko-06c-1-pengeluaran-negara-sedang-sulit.md`
+
+**EKO-06d-1 · Jenis Pajak (Langsung/Tidak Langsung, Progresif/Regresif)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-campur.md`
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-mudah.md`
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-sedang.md`
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-sulit.md`
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-mudah-sedang.md`
+- [ ] `osn-sma-eko-06d-1-jenis-pajak-sedang-sulit.md`
+
+**EKO-06e-1 · Perhitungan PPh (PTKP, Tarif Progresif)** (fokus Prov)
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-campur.md`
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-mudah.md`
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-sedang.md`
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-sulit.md`
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-mudah-sedang.md`
+- [ ] `osn-sma-eko-06e-1-pph-perhitungan-sedang-sulit.md`
+
+**EKO-06f-1 · Perhitungan PPN & PBB** (fokus Prov)
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-campur.md`
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-mudah.md`
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-sedang.md`
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-sulit.md`
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-mudah-sedang.md`
+- [ ] `osn-sma-eko-06f-1-ppn-pbb-sedang-sulit.md`
+
+**EKO-06g-1 · Kebijakan Fiskal Ekspansif vs Kontraktif** (fokus Prov)
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-campur.md`
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-mudah.md`
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-sedang.md`
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-sulit.md`
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-mudah-sedang.md`
+- [ ] `osn-sma-eko-06g-1-fiskal-ekspansif-kontraktif-sedang-sulit.md`
+
+**EKO-06h-1 · Anggaran Surplus, Defisit, Berimbang & Pembiayaan** (fokus Prov)
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-campur.md`
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-mudah.md`
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-sedang.md`
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-sulit.md`
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-mudah-sedang.md`
+- [ ] `osn-sma-eko-06h-1-anggaran-surplus-defisit-sedang-sulit.md`
+
+### EKO-07 · Perdagangan Internasional & Kurs (~9 sub-sub-bab)
+
+**EKO-07a-1 · Teori Keunggulan Absolut (Smith) & Komparatif (Ricardo)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-campur.md`
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-mudah.md`
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-sedang.md`
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-sulit.md`
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-mudah-sedang.md`
+- [ ] `osn-sma-eko-07a-1-absolut-komparatif-sedang-sulit.md`
+
+**EKO-07b-1 · Ekspor-Impor (Faktor Pendorong & Dampak)** (fokus Kab)
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-campur.md`
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-mudah.md`
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-sedang.md`
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-sulit.md`
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-mudah-sedang.md`
+- [ ] `osn-sma-eko-07b-1-ekspor-impor-sedang-sulit.md`
+
+**EKO-07c-1 · Neraca Perdagangan & Neraca Pembayaran (Current/Capital Account)** (fokus Prov)
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-campur.md`
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-mudah.md`
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-sedang.md`
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-sulit.md`
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-mudah-sedang.md`
+- [ ] `osn-sma-eko-07c-1-neraca-pembayaran-sedang-sulit.md`
+
+**EKO-07d-1 · Kurs (Beli/Jual, Apresiasi/Depresiasi) & Perhitungan** (fokus Prov)
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-campur.md`
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-mudah.md`
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-sedang.md`
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-sulit.md`
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-mudah-sedang.md`
+- [ ] `osn-sma-eko-07d-1-kurs-perhitungan-sedang-sulit.md`
+
+**EKO-07e-1 · Devisa (Sumber, Penggunaan, Cadangan Devisa)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-07e-1-devisa-campur.md`
+- [ ] `osn-sma-eko-07e-1-devisa-mudah.md`
+- [ ] `osn-sma-eko-07e-1-devisa-sedang.md`
+- [ ] `osn-sma-eko-07e-1-devisa-sulit.md`
+- [ ] `osn-sma-eko-07e-1-devisa-mudah-sedang.md`
+- [ ] `osn-sma-eko-07e-1-devisa-sedang-sulit.md`
+
+**EKO-07f-1 · Kebijakan Perdagangan (Tarif, Kuota, Subsidi, Dumping)** (fokus Prov)
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-campur.md`
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-mudah.md`
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-sedang.md`
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-sulit.md`
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-mudah-sedang.md`
+- [ ] `osn-sma-eko-07f-1-kebijakan-tarif-kuota-sedang-sulit.md`
+
+**EKO-07g-1 · Globalisasi Ekonomi (MNC, Liberalisasi)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-campur.md`
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-mudah.md`
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-sedang.md`
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-sulit.md`
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-mudah-sedang.md`
+- [ ] `osn-sma-eko-07g-1-globalisasi-mnc-sedang-sulit.md`
+
+**EKO-07h-1 · Kerjasama Ekonomi (WTO, IMF, World Bank, ASEAN, APEC)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-campur.md`
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-mudah.md`
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-sedang.md`
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-sulit.md`
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-mudah-sedang.md`
+- [ ] `osn-sma-eko-07h-1-kerjasama-wto-imf-sedang-sulit.md`
+
+### EKO-08 · Akuntansi & Manajemen (~9 sub-sub-bab)
+
+**EKO-08a-1 · Persamaan Dasar Akuntansi (A = L + E)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-campur.md`
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-mudah.md`
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-sedang.md`
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-sulit.md`
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-mudah-sedang.md`
+- [ ] `osn-sma-eko-08a-1-persamaan-akuntansi-sedang-sulit.md`
+
+**EKO-08b-1 · Siklus Akuntansi (Tahapan Lengkap)** (fokus Prov)
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-campur.md`
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-mudah.md`
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-sedang.md`
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-sulit.md`
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-mudah-sedang.md`
+- [ ] `osn-sma-eko-08b-1-siklus-akuntansi-sedang-sulit.md`
+
+**EKO-08c-1 · Jurnal Umum (Debit-Kredit, Analisis Transaksi)** (fokus Prov)
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-campur.md`
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-mudah.md`
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-sedang.md`
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-sulit.md`
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-mudah-sedang.md`
+- [ ] `osn-sma-eko-08c-1-jurnal-umum-sedang-sulit.md`
+
+**EKO-08d-1 · Buku Besar & Neraca Saldo** (fokus Prov)
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-campur.md`
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-mudah.md`
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-sedang.md`
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-sulit.md`
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-mudah-sedang.md`
+- [ ] `osn-sma-eko-08d-1-buku-besar-neraca-saldo-sedang-sulit.md`
+
+**EKO-08e-1 · Jurnal Penyesuaian (Beban Dibayar Dimuka, Depresiasi)** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-campur.md`
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-mudah.md`
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-sedang.md`
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-sulit.md`
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-mudah-sedang.md`
+- [ ] `osn-sma-eko-08e-1-jurnal-penyesuaian-sedang-sulit.md`
+
+**EKO-08f-1 · Laporan Laba-Rugi, Neraca, Perubahan Modal** (fokus Prov–Nas)
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-campur.md`
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-mudah.md`
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-sedang.md`
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-sulit.md`
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-mudah-sedang.md`
+- [ ] `osn-sma-eko-08f-1-laporan-keuangan-sedang-sulit.md`
+
+**EKO-08g-1 · Fungsi Manajemen (POAC) & Tingkatan Manajemen** (fokus Kab)
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-campur.md`
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-mudah.md`
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-sedang.md`
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-sulit.md`
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-mudah-sedang.md`
+- [ ] `osn-sma-eko-08g-1-poac-manajemen-sedang-sulit.md`
+
+**EKO-08h-1 · Kewirausahaan & Studi Kelayakan Usaha (BEP)** (fokus Kab–Prov)
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-campur.md`
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-mudah.md`
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-sedang.md`
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-sulit.md`
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-mudah-sedang.md`
+- [ ] `osn-sma-eko-08h-1-kewirausahaan-bep-sedang-sulit.md`
+
+---
+
+## I · Informatika Per Sub-Sub-Bab
+
+### INF-01 · Logika, Proposisi & Pemecahan Masalah (~9 sub-sub-bab)
+
+**INF-01a-1 · Proposisi & Nilai Kebenaran** (fokus Kab)
+- [ ] `osn-sma-inf-01a-1-proposisi-campur.md`
+- [ ] `osn-sma-inf-01a-1-proposisi-mudah.md`
+- [ ] `osn-sma-inf-01a-1-proposisi-sedang.md`
+- [ ] `osn-sma-inf-01a-1-proposisi-sulit.md`
+- [ ] `osn-sma-inf-01a-1-proposisi-mudah-sedang.md`
+- [ ] `osn-sma-inf-01a-1-proposisi-sedang-sulit.md`
+
+**INF-01b-1 · Operator Logika (AND, OR, NOT, XOR) & Tabel Kebenaran** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-01b-1-operator-tabel-campur.md`
+- [ ] `osn-sma-inf-01b-1-operator-tabel-mudah.md`
+- [ ] `osn-sma-inf-01b-1-operator-tabel-sedang.md`
+- [ ] `osn-sma-inf-01b-1-operator-tabel-sulit.md`
+- [ ] `osn-sma-inf-01b-1-operator-tabel-mudah-sedang.md`
+- [ ] `osn-sma-inf-01b-1-operator-tabel-sedang-sulit.md`
+
+**INF-01c-1 · Membuat & Membaca Tabel Kebenaran Multi-Variabel** (fokus Prov)
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-campur.md`
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-mudah.md`
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-sedang.md`
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-sulit.md`
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-mudah-sedang.md`
+- [ ] `osn-sma-inf-01c-1-tabel-multi-var-sedang-sulit.md`
+
+**INF-01d-1 · Implikasi, Konvers, Invers, Kontraposisi** (fokus Prov)
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-campur.md`
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-mudah.md`
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-sedang.md`
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-sulit.md`
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-mudah-sedang.md`
+- [ ] `osn-sma-inf-01d-1-implikasi-kontraposisi-sedang-sulit.md`
+
+**INF-01e-1 · Tautologi, Kontradiksi, Ekuivalensi Logika** (fokus Prov)
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-campur.md`
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-mudah.md`
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-sedang.md`
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-sulit.md`
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-mudah-sedang.md`
+- [ ] `osn-sma-inf-01e-1-tautologi-ekuivalensi-sedang-sulit.md`
+
+**INF-01f-1 · Validitas Argumen (Modus Ponens, Tollens, Silogisme)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-campur.md`
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-mudah.md`
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-sedang.md`
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-sulit.md`
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-mudah-sedang.md`
+- [ ] `osn-sma-inf-01f-1-validitas-argumen-sedang-sulit.md`
+
+**INF-01g-1 · Logika Predikat & Kuantor (∀, ∃)** (fokus Nas)
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-campur.md`
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-mudah.md`
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-sedang.md`
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-sulit.md`
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-mudah-sedang.md`
+- [ ] `osn-sma-inf-01g-1-predikat-kuantor-sedang-sulit.md`
+
+**INF-01h-1 · Soal Penalaran Logis (Knights & Knaves, Deduksi)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-campur.md`
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-mudah.md`
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-sedang.md`
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-sulit.md`
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-mudah-sedang.md`
+- [ ] `osn-sma-inf-01h-1-penalaran-knights-knaves-sedang-sulit.md`
+
+### INF-02 · Aritmetika Komputasional & Representasi Data (~9 sub-sub-bab)
+
+**INF-02a-1 · Sistem Biner (Konversi Desimal↔Biner)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-02a-1-biner-konversi-campur.md`
+- [ ] `osn-sma-inf-02a-1-biner-konversi-mudah.md`
+- [ ] `osn-sma-inf-02a-1-biner-konversi-sedang.md`
+- [ ] `osn-sma-inf-02a-1-biner-konversi-sulit.md`
+- [ ] `osn-sma-inf-02a-1-biner-konversi-mudah-sedang.md`
+- [ ] `osn-sma-inf-02a-1-biner-konversi-sedang-sulit.md`
+
+**INF-02b-1 · Oktal & Heksadesimal (Konversi)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-02b-1-oktal-heks-campur.md`
+- [ ] `osn-sma-inf-02b-1-oktal-heks-mudah.md`
+- [ ] `osn-sma-inf-02b-1-oktal-heks-sedang.md`
+- [ ] `osn-sma-inf-02b-1-oktal-heks-sulit.md`
+- [ ] `osn-sma-inf-02b-1-oktal-heks-mudah-sedang.md`
+- [ ] `osn-sma-inf-02b-1-oktal-heks-sedang-sulit.md`
+
+**INF-02c-1 · Konversi Antar Basis Sembarang (Basis-n)** (fokus Prov)
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-campur.md`
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-mudah.md`
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-sedang.md`
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-sulit.md`
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-mudah-sedang.md`
+- [ ] `osn-sma-inf-02c-1-konversi-basis-n-sedang-sulit.md`
+
+**INF-02d-1 · Aritmetika Biner (Penjumlahan, Pengurangan, Perkalian)** (fokus Prov)
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-campur.md`
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-mudah.md`
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-sedang.md`
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-sulit.md`
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-mudah-sedang.md`
+- [ ] `osn-sma-inf-02d-1-aritmetika-biner-sedang-sulit.md`
+
+**INF-02e-1 · Komplemen 2 & Representasi Bilangan Negatif** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-02e-1-komplemen-2-campur.md`
+- [ ] `osn-sma-inf-02e-1-komplemen-2-mudah.md`
+- [ ] `osn-sma-inf-02e-1-komplemen-2-sedang.md`
+- [ ] `osn-sma-inf-02e-1-komplemen-2-sulit.md`
+- [ ] `osn-sma-inf-02e-1-komplemen-2-mudah-sedang.md`
+- [ ] `osn-sma-inf-02e-1-komplemen-2-sedang-sulit.md`
+
+**INF-02f-1 · Floating Point IEEE 754 (Pengantar)** (fokus Nas)
+- [ ] `osn-sma-inf-02f-1-floating-point-campur.md`
+- [ ] `osn-sma-inf-02f-1-floating-point-mudah.md`
+- [ ] `osn-sma-inf-02f-1-floating-point-sedang.md`
+- [ ] `osn-sma-inf-02f-1-floating-point-sulit.md`
+- [ ] `osn-sma-inf-02f-1-floating-point-mudah-sedang.md`
+- [ ] `osn-sma-inf-02f-1-floating-point-sedang-sulit.md`
+
+**INF-02g-1 · ASCII & Unicode (Encoding Karakter)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-campur.md`
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-mudah.md`
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-sedang.md`
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-sulit.md`
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-mudah-sedang.md`
+- [ ] `osn-sma-inf-02g-1-ascii-unicode-sedang-sulit.md`
+
+**INF-02h-1 · Operasi Bitwise (AND, OR, XOR, Shift)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-02h-1-bitwise-campur.md`
+- [ ] `osn-sma-inf-02h-1-bitwise-mudah.md`
+- [ ] `osn-sma-inf-02h-1-bitwise-sedang.md`
+- [ ] `osn-sma-inf-02h-1-bitwise-sulit.md`
+- [ ] `osn-sma-inf-02h-1-bitwise-mudah-sedang.md`
+- [ ] `osn-sma-inf-02h-1-bitwise-sedang-sulit.md`
+
+### INF-03 · Analitika Data & Tabel (~7 sub-sub-bab)
+
+**INF-03a-1 · Struktur Tabel & Referensi Sel (Absolut/Relatif)** (fokus Kab)
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-campur.md`
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-mudah.md`
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-sedang.md`
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-sulit.md`
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-mudah-sedang.md`
+- [ ] `osn-sma-inf-03a-1-tabel-referensi-sel-sedang-sulit.md`
+
+**INF-03b-1 · Formula (SUM, AVERAGE, IF, VLOOKUP, COUNTIF)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-campur.md`
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-mudah.md`
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-sedang.md`
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-sulit.md`
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-mudah-sedang.md`
+- [ ] `osn-sma-inf-03b-1-formula-fungsi-sedang-sulit.md`
+
+**INF-03c-1 · Sorting & Filtering Multi-Kriteria** (fokus Prov)
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-campur.md`
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-mudah.md`
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-sedang.md`
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-sulit.md`
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-mudah-sedang.md`
+- [ ] `osn-sma-inf-03c-1-sorting-filtering-sedang-sulit.md`
+
+**INF-03d-1 · Pivot Table & Agregasi Data** (fokus Prov)
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-campur.md`
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-mudah.md`
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-sedang.md`
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-sulit.md`
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-mudah-sedang.md`
+- [ ] `osn-sma-inf-03d-1-pivot-agregasi-sedang-sulit.md`
+
+**INF-03e-1 · Interpretasi Grafik & Chart (Bar, Line, Pie, Scatter)** (fokus Kab)
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-campur.md`
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-mudah.md`
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-sedang.md`
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-sulit.md`
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-mudah-sedang.md`
+- [ ] `osn-sma-inf-03e-1-interpretasi-chart-sedang-sulit.md`
+
+**INF-03f-1 · Database Relasional & Query SELECT/JOIN (Pengantar)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-03f-1-database-query-campur.md`
+- [ ] `osn-sma-inf-03f-1-database-query-mudah.md`
+- [ ] `osn-sma-inf-03f-1-database-query-sedang.md`
+- [ ] `osn-sma-inf-03f-1-database-query-sulit.md`
+- [ ] `osn-sma-inf-03f-1-database-query-mudah-sedang.md`
+- [ ] `osn-sma-inf-03f-1-database-query-sedang-sulit.md`
+
+**INF-03g-1 · Konsep Big Data (Volume, Velocity, Variety)** (fokus Nas)
+- [ ] `osn-sma-inf-03g-1-big-data-3v-campur.md`
+- [ ] `osn-sma-inf-03g-1-big-data-3v-mudah.md`
+- [ ] `osn-sma-inf-03g-1-big-data-3v-sedang.md`
+- [ ] `osn-sma-inf-03g-1-big-data-3v-sulit.md`
+- [ ] `osn-sma-inf-03g-1-big-data-3v-mudah-sedang.md`
+- [ ] `osn-sma-inf-03g-1-big-data-3v-sedang-sulit.md`
+
+### INF-04 · Algoritma & Pseudocode (~10 sub-sub-bab)
+
+**INF-04a-1 · Konsep Algoritma, Flowchart, Pseudocode** (fokus Kab)
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-campur.md`
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-mudah.md`
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-sedang.md`
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-sulit.md`
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-mudah-sedang.md`
+- [ ] `osn-sma-inf-04a-1-konsep-flowchart-sedang-sulit.md`
+
+**INF-04b-1 · Sekuensial & Tracing Variabel (Swap, Update)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-campur.md`
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-mudah.md`
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-sedang.md`
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-sulit.md`
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-04b-1-sekuensial-tracing-sedang-sulit.md`
+
+**INF-04c-1 · Percabangan If-Else, Nested, Switch** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-campur.md`
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-mudah.md`
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-sedang.md`
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-sulit.md`
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-04c-1-percabangan-tracing-sedang-sulit.md`
+
+**INF-04d-1 · Perulangan For, While, Nested Loop (Tracing Output)** (fokus Prov)
+- [ ] `osn-sma-inf-04d-1-loop-tracing-campur.md`
+- [ ] `osn-sma-inf-04d-1-loop-tracing-mudah.md`
+- [ ] `osn-sma-inf-04d-1-loop-tracing-sedang.md`
+- [ ] `osn-sma-inf-04d-1-loop-tracing-sulit.md`
+- [ ] `osn-sma-inf-04d-1-loop-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-04d-1-loop-tracing-sedang-sulit.md`
+
+**INF-04e-1 · Rekursi (Faktorial, Fibonacci, Tower of Hanoi)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-campur.md`
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-mudah.md`
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-sedang.md`
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-sulit.md`
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-04e-1-rekursi-tracing-sedang-sulit.md`
+
+**INF-04f-1 · Pencarian Linear & Biner (Kompleksitas O(n), O(log n))** (fokus Prov)
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-campur.md`
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-mudah.md`
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-sedang.md`
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-sulit.md`
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-mudah-sedang.md`
+- [ ] `osn-sma-inf-04f-1-pencarian-linear-biner-sedang-sulit.md`
+
+**INF-04g-1 · Pengurutan (Bubble, Selection, Insertion) - Tracing** (fokus Prov)
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-campur.md`
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-mudah.md`
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-sedang.md`
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-sulit.md`
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-04g-1-sorting-tracing-sedang-sulit.md`
+
+**INF-04h-1 · Tracing Algoritma Kompleks & Prediksi Output** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-campur.md`
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-mudah.md`
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-sedang.md`
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-sulit.md`
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-mudah-sedang.md`
+- [ ] `osn-sma-inf-04h-1-tracing-kompleks-sedang-sulit.md`
+
+### INF-05 · Struktur Data (~9 sub-sub-bab)
+
+**INF-05a-1 · Array 1D & 2D (Indexing, Traversal)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-campur.md`
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-mudah.md`
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-sedang.md`
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-sulit.md`
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-mudah-sedang.md`
+- [ ] `osn-sma-inf-05a-1-array-1d-2d-sedang-sulit.md`
+
+**INF-05b-1 · String & Manipulasi (Substring, Reverse, Palindrome)** (fokus Prov)
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-campur.md`
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-mudah.md`
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-sedang.md`
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-sulit.md`
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-mudah-sedang.md`
+- [ ] `osn-sma-inf-05b-1-string-manipulasi-sedang-sulit.md`
+
+**INF-05c-1 · Stack (LIFO) - Operasi Push/Pop & Aplikasi (Balanced Parentheses)** (fokus Prov)
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-campur.md`
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-mudah.md`
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-sedang.md`
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-sulit.md`
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-mudah-sedang.md`
+- [ ] `osn-sma-inf-05c-1-stack-aplikasi-sedang-sulit.md`
+
+**INF-05d-1 · Queue (FIFO) & Circular Queue** (fokus Prov)
+- [ ] `osn-sma-inf-05d-1-queue-campur.md`
+- [ ] `osn-sma-inf-05d-1-queue-mudah.md`
+- [ ] `osn-sma-inf-05d-1-queue-sedang.md`
+- [ ] `osn-sma-inf-05d-1-queue-sulit.md`
+- [ ] `osn-sma-inf-05d-1-queue-mudah-sedang.md`
+- [ ] `osn-sma-inf-05d-1-queue-sedang-sulit.md`
+
+**INF-05e-1 · Linked List (Single, Double) - Traversal & Operasi** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-05e-1-linked-list-campur.md`
+- [ ] `osn-sma-inf-05e-1-linked-list-mudah.md`
+- [ ] `osn-sma-inf-05e-1-linked-list-sedang.md`
+- [ ] `osn-sma-inf-05e-1-linked-list-sulit.md`
+- [ ] `osn-sma-inf-05e-1-linked-list-mudah-sedang.md`
+- [ ] `osn-sma-inf-05e-1-linked-list-sedang-sulit.md`
+
+**INF-05f-1 · Binary Tree & BST (Traversal Inorder, Preorder, Postorder)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-05f-1-tree-traversal-campur.md`
+- [ ] `osn-sma-inf-05f-1-tree-traversal-mudah.md`
+- [ ] `osn-sma-inf-05f-1-tree-traversal-sedang.md`
+- [ ] `osn-sma-inf-05f-1-tree-traversal-sulit.md`
+- [ ] `osn-sma-inf-05f-1-tree-traversal-mudah-sedang.md`
+- [ ] `osn-sma-inf-05f-1-tree-traversal-sedang-sulit.md`
+
+**INF-05g-1 · Hash Table & Collision (Pengantar)** (fokus Nas)
+- [ ] `osn-sma-inf-05g-1-hash-table-campur.md`
+- [ ] `osn-sma-inf-05g-1-hash-table-mudah.md`
+- [ ] `osn-sma-inf-05g-1-hash-table-sedang.md`
+- [ ] `osn-sma-inf-05g-1-hash-table-sulit.md`
+- [ ] `osn-sma-inf-05g-1-hash-table-mudah-sedang.md`
+- [ ] `osn-sma-inf-05g-1-hash-table-sedang-sulit.md`
+
+**INF-05h-1 · Analisis Kompleksitas (Big-O) Struktur Data** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-campur.md`
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-mudah.md`
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-sedang.md`
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-sulit.md`
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-mudah-sedang.md`
+- [ ] `osn-sma-inf-05h-1-big-o-struktur-sedang-sulit.md`
+
+### INF-06 · Graf, Pencarian & Optimasi (~9 sub-sub-bab)
+
+**INF-06a-1 · Konsep Graf (Vertex, Edge, Degree, Path, Cycle)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-06a-1-konsep-graf-campur.md`
+- [ ] `osn-sma-inf-06a-1-konsep-graf-mudah.md`
+- [ ] `osn-sma-inf-06a-1-konsep-graf-sedang.md`
+- [ ] `osn-sma-inf-06a-1-konsep-graf-sulit.md`
+- [ ] `osn-sma-inf-06a-1-konsep-graf-mudah-sedang.md`
+- [ ] `osn-sma-inf-06a-1-konsep-graf-sedang-sulit.md`
+
+**INF-06b-1 · Representasi Graf (Adjacency Matrix vs List)** (fokus Prov)
+- [ ] `osn-sma-inf-06b-1-representasi-graf-campur.md`
+- [ ] `osn-sma-inf-06b-1-representasi-graf-mudah.md`
+- [ ] `osn-sma-inf-06b-1-representasi-graf-sedang.md`
+- [ ] `osn-sma-inf-06b-1-representasi-graf-sulit.md`
+- [ ] `osn-sma-inf-06b-1-representasi-graf-mudah-sedang.md`
+- [ ] `osn-sma-inf-06b-1-representasi-graf-sedang-sulit.md`
+
+**INF-06c-1 · BFS - Tracing Urutan Kunjungan** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-campur.md`
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-mudah.md`
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-sedang.md`
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-sulit.md`
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-06c-1-bfs-tracing-sedang-sulit.md`
+
+**INF-06d-1 · DFS - Tracing Urutan Kunjungan** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-campur.md`
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-mudah.md`
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-sedang.md`
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-sulit.md`
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-06d-1-dfs-tracing-sedang-sulit.md`
+
+**INF-06e-1 · Dijkstra - Shortest Path (Tracing Tabel Jarak)** (fokus Nas)
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-campur.md`
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-mudah.md`
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-sedang.md`
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-sulit.md`
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-mudah-sedang.md`
+- [ ] `osn-sma-inf-06e-1-dijkstra-tracing-sedang-sulit.md`
+
+**INF-06f-1 · MST Kruskal & Prim (Tracing)** (fokus Nas)
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-campur.md`
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-mudah.md`
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-sedang.md`
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-sulit.md`
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-mudah-sedang.md`
+- [ ] `osn-sma-inf-06f-1-mst-kruskal-prim-sedang-sulit.md`
+
+**INF-06g-1 · Pewarnaan Graf (Chromatic Number)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-campur.md`
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-mudah.md`
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-sedang.md`
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-sulit.md`
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-mudah-sedang.md`
+- [ ] `osn-sma-inf-06g-1-pewarnaan-graf-sedang-sulit.md`
+
+**INF-06h-1 · Euler & Hamilton Path/Circuit** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-campur.md`
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-mudah.md`
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-sedang.md`
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-sulit.md`
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-mudah-sedang.md`
+- [ ] `osn-sma-inf-06h-1-euler-hamilton-sedang-sulit.md`
+
+### INF-07 · Kombinatorika Komputasional (~9 sub-sub-bab)
+
+**INF-07a-1 · Counting (Aturan Perkalian & Penjumlahan)** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-07a-1-counting-campur.md`
+- [ ] `osn-sma-inf-07a-1-counting-mudah.md`
+- [ ] `osn-sma-inf-07a-1-counting-sedang.md`
+- [ ] `osn-sma-inf-07a-1-counting-sulit.md`
+- [ ] `osn-sma-inf-07a-1-counting-mudah-sedang.md`
+- [ ] `osn-sma-inf-07a-1-counting-sedang-sulit.md`
+
+**INF-07b-1 · Permutasi & Kombinasi Komputasional** (fokus Prov)
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-campur.md`
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-mudah.md`
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-sedang.md`
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-sulit.md`
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-mudah-sedang.md`
+- [ ] `osn-sma-inf-07b-1-permutasi-kombinasi-sedang-sulit.md`
+
+**INF-07c-1 · Backtracking (N-Queens, Sudoku Tracing)** (fokus Nas)
+- [ ] `osn-sma-inf-07c-1-backtracking-campur.md`
+- [ ] `osn-sma-inf-07c-1-backtracking-mudah.md`
+- [ ] `osn-sma-inf-07c-1-backtracking-sedang.md`
+- [ ] `osn-sma-inf-07c-1-backtracking-sulit.md`
+- [ ] `osn-sma-inf-07c-1-backtracking-mudah-sedang.md`
+- [ ] `osn-sma-inf-07c-1-backtracking-sedang-sulit.md`
+
+**INF-07d-1 · Brute Force Enumeration & Kompleksitas** (fokus Prov)
+- [ ] `osn-sma-inf-07d-1-brute-force-campur.md`
+- [ ] `osn-sma-inf-07d-1-brute-force-mudah.md`
+- [ ] `osn-sma-inf-07d-1-brute-force-sedang.md`
+- [ ] `osn-sma-inf-07d-1-brute-force-sulit.md`
+- [ ] `osn-sma-inf-07d-1-brute-force-mudah-sedang.md`
+- [ ] `osn-sma-inf-07d-1-brute-force-sedang-sulit.md`
+
+**INF-07e-1 · Dynamic Programming (Knapsack, LCS - Pengantar)** (fokus Nas)
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-campur.md`
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-mudah.md`
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-sedang.md`
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-sulit.md`
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-mudah-sedang.md`
+- [ ] `osn-sma-inf-07e-1-dp-knapsack-lcs-sedang-sulit.md`
+
+**INF-07f-1 · Greedy Algorithm (Coin Change, Activity Selection)** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-07f-1-greedy-campur.md`
+- [ ] `osn-sma-inf-07f-1-greedy-mudah.md`
+- [ ] `osn-sma-inf-07f-1-greedy-sedang.md`
+- [ ] `osn-sma-inf-07f-1-greedy-sulit.md`
+- [ ] `osn-sma-inf-07f-1-greedy-mudah-sedang.md`
+- [ ] `osn-sma-inf-07f-1-greedy-sedang-sulit.md`
+
+**INF-07g-1 · Inklusi-Eksklusi Komputasional** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-campur.md`
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-mudah.md`
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-sedang.md`
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-sulit.md`
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-mudah-sedang.md`
+- [ ] `osn-sma-inf-07g-1-inklusi-eksklusi-sedang-sulit.md`
+
+**INF-07h-1 · Tracing Algoritma Kombinatorik (Generate Permutasi/Subset)** (fokus Nas)
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-campur.md`
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-mudah.md`
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-sedang.md`
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-sulit.md`
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-mudah-sedang.md`
+- [ ] `osn-sma-inf-07h-1-tracing-kombinatorik-sedang-sulit.md`
+
+### INF-08 · Berpikir Komputasional & Bebras (~8 sub-sub-bab)
+
+**INF-08a-1 · Dekomposisi Masalah Kompleks** (fokus Kab)
+- [ ] `osn-sma-inf-08a-1-dekomposisi-campur.md`
+- [ ] `osn-sma-inf-08a-1-dekomposisi-mudah.md`
+- [ ] `osn-sma-inf-08a-1-dekomposisi-sedang.md`
+- [ ] `osn-sma-inf-08a-1-dekomposisi-sulit.md`
+- [ ] `osn-sma-inf-08a-1-dekomposisi-mudah-sedang.md`
+- [ ] `osn-sma-inf-08a-1-dekomposisi-sedang-sulit.md`
+
+**INF-08b-1 · Pengenalan Pola (Pattern Recognition)** (fokus Kab)
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-campur.md`
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-mudah.md`
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-sedang.md`
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-sulit.md`
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-mudah-sedang.md`
+- [ ] `osn-sma-inf-08b-1-pengenalan-pola-sedang-sulit.md`
+
+**INF-08c-1 · Abstraksi & Generalisasi** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-08c-1-abstraksi-campur.md`
+- [ ] `osn-sma-inf-08c-1-abstraksi-mudah.md`
+- [ ] `osn-sma-inf-08c-1-abstraksi-sedang.md`
+- [ ] `osn-sma-inf-08c-1-abstraksi-sulit.md`
+- [ ] `osn-sma-inf-08c-1-abstraksi-mudah-sedang.md`
+- [ ] `osn-sma-inf-08c-1-abstraksi-sedang-sulit.md`
+
+**INF-08d-1 · Bebras Tipe Logika** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-08d-1-bebras-logika-campur.md`
+- [ ] `osn-sma-inf-08d-1-bebras-logika-mudah.md`
+- [ ] `osn-sma-inf-08d-1-bebras-logika-sedang.md`
+- [ ] `osn-sma-inf-08d-1-bebras-logika-sulit.md`
+- [ ] `osn-sma-inf-08d-1-bebras-logika-mudah-sedang.md`
+- [ ] `osn-sma-inf-08d-1-bebras-logika-sedang-sulit.md`
+
+**INF-08e-1 · Bebras Tipe Algoritma** (fokus Kab–Prov)
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-campur.md`
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-mudah.md`
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-sedang.md`
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-sulit.md`
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-mudah-sedang.md`
+- [ ] `osn-sma-inf-08e-1-bebras-algoritma-sedang-sulit.md`
+
+**INF-08f-1 · Bebras Tipe Data & Representasi** (fokus Prov)
+- [ ] `osn-sma-inf-08f-1-bebras-data-campur.md`
+- [ ] `osn-sma-inf-08f-1-bebras-data-mudah.md`
+- [ ] `osn-sma-inf-08f-1-bebras-data-sedang.md`
+- [ ] `osn-sma-inf-08f-1-bebras-data-sulit.md`
+- [ ] `osn-sma-inf-08f-1-bebras-data-mudah-sedang.md`
+- [ ] `osn-sma-inf-08f-1-bebras-data-sedang-sulit.md`
+
+**INF-08g-1 · Bebras Tipe Jaringan & Struktur Sosial** (fokus Prov)
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-campur.md`
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-mudah.md`
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-sedang.md`
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-sulit.md`
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-mudah-sedang.md`
+- [ ] `osn-sma-inf-08g-1-bebras-jaringan-sosial-sedang-sulit.md`
+
+**INF-08h-1 · Studi Kasus Berpikir Komputasional Terintegrasi** (fokus Prov–Nas)
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-campur.md`
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-mudah.md`
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-sedang.md`
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-sulit.md`
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-mudah-sedang.md`
+- [ ] `osn-sma-inf-08h-1-studi-kasus-bk-sedang-sulit.md`
+
+---
+
+## Rekap Statistik Sub-Sub-Bab SMA
+
+| Mapel | Bab | Sub-Bab | Sub-Sub-Bab | File (×6) | Soal |
+|-------|-----|---------|-------------|-----------|------|
+| MTK | 8 | 82 | ~165 | ~990 | ~99.000 |
+| Fisika | 10 | 94 | ~165 | ~990 | ~99.000 |
+| Kimia | 10 | 86 | ~125 | ~750 | ~75.000 |
+| Biologi | 8 | 75 | ~115 | ~690 | ~69.000 |
+| Astronomi | 7 | 60 | ~75 | ~450 | ~45.000 |
+| Kebumian | 6 | 52 | ~60 | ~360 | ~36.000 |
+| Geografi | 6 | 43 | ~58 | ~348 | ~34.800 |
+| Ekonomi | 8 | 64 | ~75 | ~450 | ~45.000 |
+| Informatika | 8 | 63 | ~70 | ~420 | ~42.000 |
+| **TOTAL** | **71** | **619** | **~908** | **~5.448** | **~544.800** |
+
+> Catatan: tabel di atas menggunakan estimasi konservatif; jumlah pasti mengikuti daftar sub-sub-bab yang tercantum di atas. Sub-sub-bab dapat ditambah/dimekarkan per mapel sesuai kebutuhan pembinaan (mis. MTK & Fisika tingkat Nas bisa dipecah lebih halus).
+
+---
+
+## Catatan Eksekusi
+
+- **1 file = 100 soal PG**, semua pada satu mikrotopik tunggal level olimpiade. Variasi via konteks (lab, industri, real-world, abstrak), angka & satuan, bentuk soal (numerik, derivasi, tabel, grafik, identifikasi).
+- Default ekstensi `.md` (Bagian I Materi mikrotopik + Bagian II 100 Soal + Bagian III Ringkasan).
+- Update centang `[ ]` → `[x]` setiap file selesai.
+- File ini **melengkapi** [_MASTER-SUBBAB-INDEX.md](_MASTER-SUBBAB-INDEX.md). Gunakan sub-sub-bab untuk drill ultra-fokus pada satu mikrotopik olimpiade.
+- Konvensi opsi: A–D default; A–E untuk Astronomi & Kebumian (terutama Prov/Nas) sesuai pola IOAA/IESO.
+- **Mikrotopik beberapa sub-bab masih bisa dipecah lebih halus** (mis. FIS-09e-2 Wheatstone → Wheatstone setimbang vs tidak setimbang). Daftar ini adalah baseline yang cukup detail untuk pembinaan; perluas per permintaan.
+
+### Trigger Generation Sub-Sub-Bab
+
+- "Generate `osn-sma-fis-04f-2-kekekalan-l-sulit.md`"
+- "Sub-sub-bab KIM-08f-1 Buffer Asam, tingkat campur"
+- "Lanjutkan dari MASTER-SUBSUBBAB-INDEX baris berikutnya yang belum dicentang"
+
+Default behaviour: skill akan baca taksonomi & contoh soal terkait → ambil **Tipe Soal Khas Olimpiade** + **Miskonsepsi** untuk mikrotopik itu → distribusikan 100 soal dengan komposisi tingkat sesuai slug.

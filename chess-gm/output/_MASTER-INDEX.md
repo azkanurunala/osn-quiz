@@ -155,7 +155,8 @@ Aturan ini **berlaku untuk seluruh 198 file + 1.734 file sub-bab** di paket Road
 ### Kategori A · Komprehensif Lintas Pilar (6 file)
 Distribusi 40 TAK + 35 STR/END (20 STR + 15 END) + 25 BUK campur lintas 29 bab.
 
-- [ ] `chess-gm-komprehensif-campur.md` + `.html` *(DRAFT v1 — kompak, perlu rewrite ke standar studi kasus + validasi engine. File terisi tapi belum production-ready.)*
+- [x] `chess-gm-komprehensif-campur.md` *(100 soal · studi kasus ~400 kata/soal · 55P+29K+16M · 32TAK+24STR+21END+23BUK · belum validasi engine via validate.py)*
+- [x] `chess-gm-komprehensif-campur.html` *(100 soal interaktif · Velo CT + chessboard.js · SOAL_DATA dgn skenario+pertanyaan+pembahasan+jwbFinal · 232 KB)*
 - [ ] `chess-gm-komprehensif-mudah.md`
 - [ ] `chess-gm-komprehensif-sedang.md`
 - [ ] `chess-gm-komprehensif-sulit.md`
