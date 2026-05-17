@@ -228,7 +228,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02h-pubertas-sedang-sulit.md`
 
 **IPA-02i · Gizi Seimbang (Karbohidrat, Protein, Lemak, Vitamin, Mineral, Air)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-02i-gizi-campur.md`
+- [x] `osn-sd-ipa-02i-gizi-campur.md`
 - [ ] `osn-sd-ipa-02i-gizi-mudah.md`
 - [ ] `osn-sd-ipa-02i-gizi-sedang.md`
 - [ ] `osn-sd-ipa-02i-gizi-sulit.md`
