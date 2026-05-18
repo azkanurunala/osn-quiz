@@ -400,7 +400,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang-sulit.md`
 
 **IPA-04e · Sifat-sifat Bunyi (Sumber, Perambatan, Frekuensi)** (fokus Kab)
-- [ ] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
+- [x] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sulit.md`
