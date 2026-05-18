@@ -376,7 +376,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sedang-sulit.md`
 
 **IPA-04b · Cermin (Datar, Cekung, Cembung) — Sifat Bayangan** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04b-cermin-campur.md`
+- [x] `osn-sd-ipa-04b-cermin-campur.md`
 - [ ] `osn-sd-ipa-04b-cermin-mudah.md`
 - [ ] `osn-sd-ipa-04b-cermin-sedang.md`
 - [ ] `osn-sd-ipa-04b-cermin-sulit.md`
@@ -384,7 +384,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04b-cermin-sedang-sulit.md`
 
 **IPA-04c · Pembiasan Cahaya & Lensa (Cembung, Cekung)** (fokus Prov)
-- [ ] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
+- [x] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-mudah.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sulit.md`
@@ -392,7 +392,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang-sulit.md`
 
 **IPA-04d · Penguraian Cahaya (Prisma, Pelangi)** (fokus Prov)
-- [ ] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
+- [x] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-mudah.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sulit.md`
