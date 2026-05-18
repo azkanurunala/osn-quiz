@@ -40,10 +40,9 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
   const [volume, setVolume] = useState(0.4);
   const [layoutSplit, setLayoutSplit] = useState(true);
 
-  // Cinematic Cheerful Intro Screen States (Multi-stage flow!)
+  // Cinematic Minimalist Countdown Intro Screen States
   const [showIntro, setShowIntro] = useState(false);
-  const [introStage, setIntroStage] = useState('title'); // 'title' | 'rules' | 'ready'
-  const [introTimeLeft, setIntroTimeLeft] = useState(4); // seconds per stage
+  const [introTimeLeft, setIntroTimeLeft] = useState(3); // 3 seconds circular countdown
 
   const audioRef = useRef(null);
   const explanationScrollRef = useRef(null);
@@ -90,7 +89,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
     }
   }, [currentIndex, autoPilot, timerEnabled, isChecked, selectedOption, currentQuestion]);
 
-  // Cinematic Multi-stage Cheerful Intro Countdown Timer effect
+  // Cinematic 3s Circular Countdown Intro effect
   useEffect(() => {
     if (isCleanMode && showIntro) {
       if (introTimeLeft > 0) {
@@ -99,24 +98,15 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
         }, 1000);
         return () => clearTimeout(timer);
       } else {
-        // Stage complete! Transition to next or start quiz
-        if (introStage === 'title') {
-          setIntroStage('rules');
-          setIntroTimeLeft(4);
-        } else if (introStage === 'rules') {
-          setIntroStage('ready');
-          setIntroTimeLeft(3);
-        } else {
-          setShowIntro(false);
-          // Start the question timer phase seamlessly after the intro!
-          if (timerEnabled) {
-            setTimeLeft(10);
-            setTimerPhase('question');
-          }
+        setShowIntro(false);
+        // Start the question timer phase seamlessly after the intro!
+        if (timerEnabled) {
+          setTimeLeft(10);
+          setTimerPhase('question');
         }
       }
     }
-  }, [isCleanMode, showIntro, introTimeLeft, introStage, timerEnabled]);
+  }, [isCleanMode, showIntro, introTimeLeft, timerEnabled]);
 
   // High-performance smooth autoscroll loop for Explanation sidebar
   useEffect(() => {
@@ -273,7 +263,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
 
   const isSplitActive = showPembahasan && layoutSplit;
 
-  // --- RENDERING: 1. Cinematic Cheerful Multi-Stage Intro Screens ---
+  // --- RENDERING: 1. Sleek Minimalist Glowing 3s Circular Countdown Intro Screen ---
   if (isCleanMode && showIntro) {
     return (
       <div className="fixed inset-0 w-screen h-screen overflow-hidden bg-[#7B2CBF] flex flex-col items-center justify-center font-sans z-50 select-none">
@@ -286,145 +276,31 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
           </svg>
         </div>
 
-        {/* Dynamic Stage Rendering */}
-        {introStage === 'title' && (
-          <div className="relative w-full max-w-2xl px-6 flex flex-col items-center justify-center">
-            
-            {/* Clean Emojis and Lucide icons around the main card */}
-            <div className="absolute -top-8 -left-8 bg-white/95 text-pink-500 w-16 h-16 rounded-2xl flex items-center justify-center shadow-xl border-4 border-pink-400 text-3xl animate-bounce">
-              📚
-            </div>
-            <div className="absolute -bottom-8 -left-8 bg-white/95 text-blue-500 w-16 h-16 rounded-2xl flex items-center justify-center shadow-xl border-4 border-pink-400 text-3xl animate-spin-slow">
-              🔍
-            </div>
-            <div className="absolute -bottom-8 -right-8 bg-white/95 text-amber-500 w-16 h-16 rounded-2xl flex items-center justify-center shadow-xl border-4 border-pink-400 text-3xl animate-pulse">
-              🎨
-            </div>
-
-            {/* Main Title Desktop Window Panel */}
-            <div className="bg-[#FDF7F4] border-[8px] border-pink-400 rounded-[2rem] p-10 text-center shadow-2xl relative w-full space-y-6 animate-scale-in">
-              {/* Desktop Window Controls */}
-              <div className="absolute top-4 right-6 flex gap-2 text-pink-500 font-extrabold text-sm">
-                <span>_</span>
-                <span className="ml-1">o</span>
-                <span className="ml-1">x</span>
-              </div>
-
-              <div className="space-y-3">
-                <h3 className="text-sm font-black tracking-widest text-[#7B2CBF] uppercase font-heading flex items-center justify-center gap-2">
-                  <Sparkles className="w-4 h-4 text-pink-500 animate-pulse" /> Quiz <Sparkles className="w-4 h-4 text-pink-500 animate-pulse" />
-                </h3>
-                <h1 className="text-4xl sm:text-5xl font-black text-[#1E293B] font-heading tracking-tight uppercase leading-none">
-                  CERDAS CERMAT
-                </h1>
-                <p className="text-base font-extrabold text-slate-500">
-                  {questions.length} Soal dan Pembahasan
-                </p>
-              </div>
-
-              {/* Colorful Tag Pills */}
-              <div className="flex items-center justify-center gap-3 pt-2">
-                <span className="bg-[#3B82F6] text-white font-black px-6 py-2 rounded-full uppercase tracking-wider text-xs shadow-md border-2 border-white/20">
-                  IPA SD
-                </span>
-                <span className="bg-[#F97316] text-white font-black px-6 py-2 rounded-full uppercase tracking-wider text-xs shadow-md border-2 border-white/20">
-                  {currentQuestion.level === 'Kab' ? 'SEDANG' : 'SULIT'}
-                </span>
-              </div>
-
-              <div className="pt-4 border-t border-dashed border-slate-200">
-                <p className="text-xs font-black text-slate-600 tracking-wider">
-                  Materi: {currentQuestion.subTopic || 'Cermin Pemantul & Optik'}
-                </p>
-              </div>
-            </div>
-
-            <div className="mt-8 text-center text-xs font-bold text-white/80 tracking-widest uppercase flex items-center gap-2">
-              <span className="h-2 w-2 rounded-full bg-red-400 animate-pulse"></span>
-              Menyiapkan video... {introTimeLeft}s
-            </div>
+        {/* Minimalist Glowing Countdown Ring */}
+        <div className="relative flex flex-col items-center justify-center space-y-8 animate-scale-in">
+          <div className="w-36 h-36 rounded-full border-4 border-white/20 flex items-center justify-center relative shadow-2xl">
+            <div className="absolute inset-0 rounded-full border-4 border-t-white border-r-white/40 border-b-white/10 border-l-white/10 animate-spin"></div>
+            <span className="text-6xl font-black text-white font-heading tracking-tight drop-shadow-[0_4px_12px_rgba(255,255,255,0.4)] animate-pulse">
+              {introTimeLeft > 0 ? introTimeLeft : 'Mulai!'}
+            </span>
           </div>
-        )}
-
-        {introStage === 'rules' && (
-          <div className="relative w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-6 items-center px-6 animate-fade-in">
-            
-            {/* Left Column: Energetic Rocket Emoji inside a gorgeous clean card */}
-            <div className="md:col-span-4 bg-[#FF758F] border-[6px] border-pink-400 rounded-3xl p-6 flex flex-col items-center justify-center shadow-xl h-80 relative overflow-hidden text-center">
-              <div className="absolute inset-0 bg-gradient-to-tr from-pink-600/20 to-transparent"></div>
-              <div className="text-7xl mb-4 animate-bounce select-none">🚀</div>
-              <span className="text-white font-black text-lg tracking-wider font-heading">Mari Belajar!</span>
-              <span className="text-white/85 text-xs font-semibold mt-1">Siapkan fokus terbaikmu</span>
-            </div>
-
-            {/* Right Column: Rules Desktop Window Card */}
-            <div className="md:col-span-8 bg-[#FDF7F4] border-[6px] border-pink-400 rounded-3xl p-8 shadow-xl relative h-80 flex flex-col justify-between">
-              {/* Vintage control buttons */}
-              <div className="absolute top-4 right-6 flex gap-2 text-pink-500 font-extrabold text-xs">
-                <span>_</span>
-                <span className="ml-1">o</span>
-                <span className="ml-1">x</span>
-              </div>
-
-              <div className="space-y-2">
-                <h2 className="text-xl font-black text-[#EF4899] font-heading tracking-wide">PERATURAN</h2>
-                <p className="text-xs font-semibold text-slate-600 leading-relaxed">
-                  Bersenang-senanglah! Jadikan setiap pertanyaan sebagai tantangan seru dan nikmati setiap momennya.
-                </p>
-              </div>
-
-              <div className="space-y-3 pt-2">
-                <div className="flex items-start gap-3">
-                  <span className="w-7 h-7 rounded-full bg-[#FF758F] text-white font-black flex items-center justify-center text-xs shrink-0 shadow-md">
-                    1
-                  </span>
-                  <p className="text-xs font-semibold text-slate-700 leading-relaxed pt-0.5">
-                    Gunakan kesempatan ini untuk bersaing sehat dengan teman sebaya dan saling memotivasi.
-                  </p>
-                </div>
-                <div className="flex items-start gap-3">
-                  <span className="w-7 h-7 rounded-full bg-[#FF758F] text-white font-black flex items-center justify-center text-xs shrink-0 shadow-md">
-                    2
-                  </span>
-                  <p className="text-xs font-semibold text-slate-700 leading-relaxed pt-0.5">
-                    Tetap santai, nikmati prosesnya, dan biarkan semangat bersaing membuat latihan ini menyenangkan.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {introStage === 'ready' && (
-          <div className="relative flex flex-col items-center justify-center space-y-6 animate-scale-in">
-            {/* Clean student emoji inside round gradient border */}
-            <div className="bg-[#FDF7F4] border-[6px] border-pink-400 rounded-full p-6 shadow-2xl w-40 h-40 flex items-center justify-center relative bg-gradient-to-tr from-rose-100 to-white">
-              <div className="absolute inset-0 rounded-full border-4 border-dashed border-pink-500 animate-spin-slow"></div>
-              <div className="text-6xl animate-pulse">🧑‍🎓</div>
-            </div>
-
-            {/* CSS-only Ribbed Ribbon Banner */}
-            <div className="relative">
-              <div className="bg-white border-2 border-slate-200 px-12 py-3 shadow-xl rounded-xl text-center relative z-10">
-                <h2 className="text-2xl font-black text-red-500 tracking-widest uppercase font-heading">
-                  KAMU SIAP?
-                </h2>
-              </div>
-            </div>
-            
-            <p className="text-xs font-bold text-white/80 tracking-widest uppercase animate-pulse">
-              Perekaman soal dimulai dalam {introTimeLeft}s...
+          <div className="text-center space-y-1">
+            <h2 className="text-xl font-extrabold text-white tracking-wide uppercase font-heading">
+              {questionsData?.title || 'CERDAS CERMAT OSN'}
+            </h2>
+            <p className="text-xs text-white/70 font-semibold uppercase tracking-widest">
+              Menyiapkan Mode Perekaman...
             </p>
           </div>
-        )}
+        </div>
       </div>
     );
   }
 
-  // --- RENDERING: 2. Premium Full Viewport layout specifically for Clean Recording Mode! ---
+  // --- RENDERING: 2. Restored Modern Glassmorphism Clean Mode! ---
   if (isCleanMode) {
     return (
-      <div className="fixed inset-0 w-screen h-screen overflow-hidden flex flex-col justify-between bg-[#7B2CBF] font-sans z-40 relative select-none">
+      <div className="fixed inset-0 w-screen h-screen overflow-hidden flex flex-col justify-between bg-[#7B2CBF] font-sans z-50 select-none">
         
         {/* Wave background decor */}
         <div className="absolute inset-0 opacity-15 pointer-events-none select-none">
@@ -446,45 +322,20 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
         {/* Responsive Grid Split */}
         <div className="w-full h-full grid grid-cols-1 lg:grid-cols-12 gap-0 overflow-hidden">
           
-          {/* Left panel: Neat Vintage Pink Browser Card */}
+          {/* Left panel: Restored Glassmorphic Question Card */}
           <div className={`h-full flex flex-col justify-center p-8 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-6' : 'lg:col-span-12 max-w-4xl mx-auto'}`}>
             
-            {/* Clean floating icon badges wrapped in Tailwind cards */}
-            <div className="absolute top-8 left-8 bg-white/95 w-14 h-14 rounded-2xl flex items-center justify-center shadow-lg border-2 border-pink-300 text-2xl hidden xl:flex animate-bounce">
-              🔍
-            </div>
-            <div className="absolute bottom-8 right-8 bg-white/95 w-14 h-14 rounded-2xl flex items-center justify-center shadow-lg border-2 border-pink-300 text-2xl hidden xl:flex animate-pulse">
-              🎨
-            </div>
-
-            {/* Pink window container card */}
-            <div className="bg-[#FDF7F4] border-[8px] border-pink-400 rounded-3xl p-6 sm:p-8 space-y-5 shadow-2xl relative max-w-2xl w-full mx-auto animate-scale-in">
+            <div className="glass-card rounded-3xl p-8 space-y-6 shadow-2xl relative max-w-2xl w-full mx-auto animate-scale-in">
               
-              {/* Window exit/size markers */}
-              <div className="absolute top-4 right-6 flex gap-2 text-pink-500 font-extrabold text-xs">
-                <span>_</span>
-                <span className="ml-1">o</span>
-                <span className="ml-1">x</span>
-              </div>
-
-              {/* Centered Hanging Ribbon for dynamic question number */}
-              <div className="absolute -top-5 left-1/2 transform -translate-x-1/2 z-20">
-                <div className="bg-white border-2 border-slate-200 px-8 py-1 shadow-md rounded-lg text-center">
-                  <span className="text-red-500 font-black tracking-widest text-[10px] uppercase font-heading">
-                    SOAL {currentIndex + 1}
-                  </span>
-                </div>
-              </div>
-
               {/* Dynamic countdown slider */}
               {timerEnabled && (
                 <div className="space-y-1.5 pt-1">
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
                     <span className="flex items-center gap-1.5">
                       <span className={`h-2.5 w-2.5 rounded-full animate-ping ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
-                      {timerPhase === 'question' ? 'Waktu Menjawab...' : 'Durasi Membaca Pembahasan...'}
+                      {timerPhase === 'question' ? 'Waktu Menjawab...' : 'Durasi Pembahasan...'}
                     </span>
-                    <span className={`text-sm font-black ${
+                    <span className={`text-base font-black ${
                       timerPhase === 'question' && timeLeft <= 3 ? 'text-red-500 animate-bounce' : 
                       timerPhase === 'explanation' ? 'text-brand-accent' : 'text-gray-800'
                     }`}>
@@ -505,43 +356,35 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
               )}
 
               {/* Question tags */}
-              <div className="flex items-center justify-between border-b border-dashed border-slate-200 pb-2.5 pt-1">
-                <span className="bg-red-500/10 text-brand-primary text-[9px] font-black px-2.5 py-1 rounded-full uppercase tracking-wider">
-                  OSN SD IPA — {currentQuestion.level === 'Kab' ? 'Kabupaten' : 'Provinsi'}
-                </span>
-                <span className="bg-[#FF758F]/15 text-[#FF758F] text-[9px] font-bold px-3 py-1 rounded-full uppercase tracking-wider">
+              <div className="space-y-3">
+                <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
                   {currentQuestion.subTopic || 'Topik Utama'}
                 </span>
-              </div>
-
-              {/* Question Text */}
-              <div className="space-y-1">
-                <h2 className="text-lg sm:text-xl font-black font-heading leading-relaxed text-[#1E293B]">
+                <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-850">
                   {renderMarkdown(currentQuestion.question)}
                 </h2>
               </div>
 
-              {/* Options - Pristine Coral Buttons matching the screenshots exactly */}
+              {/* Options (Standard beautiful modern option card layout) */}
               <div className="grid grid-cols-1 gap-3">
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
                   if (!value) return null;
 
-                  // Coral/pink color theme as default in image 4
-                  let optionBg = 'bg-[#FF85A2] text-white border border-[#FFA6C9] hover:bg-[#FF7096] transition-all font-semibold shadow-sm';
+                  let optionBg = 'bg-white/50 border-gray-200 hover:bg-white hover:border-gray-300';
                   let icon = null;
 
                   if (isChecked) {
                     if (isCorrectOption(key)) {
-                      optionBg = 'bg-gradient-to-r from-emerald-500 to-emerald-400 text-white border-emerald-300 shadow-md ring-4 ring-emerald-500/15 font-bold';
-                      icon = <CheckCircle className="w-5 h-5 text-white shrink-0" />;
+                      optionBg = 'bg-emerald-50 border-emerald-300 ring-2 ring-emerald-500/20 text-emerald-800';
+                      icon = <CheckCircle className="w-5 h-5 text-emerald-500 shrink-0" />;
                     } else if (isSelectedOption(key)) {
-                      optionBg = 'bg-gradient-to-r from-red-500 to-red-400 text-white border-red-300 shadow-md ring-4 ring-red-500/15 font-bold';
-                      icon = <XCircle className="w-5 h-5 text-white shrink-0" />;
+                      optionBg = 'bg-red-50 border-red-300 ring-2 ring-red-500/20 text-red-800';
+                      icon = <XCircle className="w-5 h-5 text-red-500 shrink-0" />;
                     } else {
-                      optionBg = 'bg-gray-100 border-gray-200 text-gray-400 opacity-50';
+                      optionBg = 'bg-gray-50/50 border-gray-100 opacity-60';
                     }
                   } else if (isSelectedOption(key)) {
-                    optionBg = 'bg-[#FF4D6D] border-[#FFB3C1] ring-4 ring-[#FF758F]/30 text-white font-extrabold';
+                    optionBg = 'bg-red-50/60 border-brand-primary ring-2 ring-red-500/10 text-brand-primary font-semibold';
                   }
 
                   return (
@@ -549,13 +392,13 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
                       key={key}
                       disabled={isChecked}
                       onClick={() => handleOptionSelect(key)}
-                      className={`w-full flex items-center justify-between text-left p-3.5 rounded-full border transition-all text-sm ${optionBg}`}
+                      className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm ${optionBg}`}
                     >
                       <div className="flex items-center gap-3">
-                        {/* Perfect white circle indicator inside button */}
-                        <span className={`w-8 h-8 rounded-full flex items-center justify-center font-black text-xs shrink-0 ${
-                          isChecked && isCorrectOption(key) ? 'bg-white text-emerald-600' :
-                          isChecked && isSelectedOption(key) ? 'bg-white text-red-600' : 'bg-white text-[#FF758F]'
+                        <span className={`w-8 h-8 rounded-xl flex items-center justify-center font-bold text-xs shrink-0 ${
+                          isSelectedOption(key) && !isChecked ? 'bg-brand-primary text-white' : 
+                          isChecked && isCorrectOption(key) ? 'bg-emerald-500 text-white' :
+                          isChecked && isSelectedOption(key) ? 'bg-red-500 text-white' : 'bg-gray-100 text-gray-500'
                         }`}>
                           {key}
                         </span>
@@ -567,36 +410,42 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
                 })}
               </div>
 
-              {/* Window footer */}
-              <div className="flex items-center justify-between border-t border-dashed border-slate-200 pt-4">
-                <div className="text-xl font-black text-red-500 tracking-wider">
-                  0{currentIndex + 1}
-                </div>
-
+              {/* Actions */}
+              <div className="flex items-center justify-between border-t border-gray-100 pt-6">
                 <div className="flex items-center gap-2">
                   <button
                     onClick={handlePrevQuestion}
                     disabled={currentIndex === 0}
-                    className="p-2.5 bg-white hover:bg-slate-50 border border-slate-200 disabled:opacity-40 rounded-full shadow-sm transition"
+                    className="p-3 border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition"
                   >
-                    <ChevronLeft className="w-4 h-4 text-slate-700" />
+                    <ChevronLeft className="w-5 h-5 text-gray-600" />
                   </button>
                   <button
                     onClick={handleNextQuestion}
                     disabled={currentIndex === questions.length - 1}
-                    className="p-2.5 bg-white hover:bg-slate-50 border border-slate-200 disabled:opacity-40 rounded-full shadow-sm transition"
+                    className="p-3 border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition"
                   >
-                    <ChevronRight className="w-4 h-4 text-slate-700" />
+                    <ChevronRight className="w-5 h-5 text-gray-600" />
                   </button>
                 </div>
 
-                <button
-                  onClick={isChecked ? handleNextQuestion : handleCheckAnswer}
-                  disabled={!selectedOption && !isChecked}
-                  className="p-3 bg-red-500 hover:bg-red-600 disabled:opacity-40 text-white rounded-full shadow-lg shadow-red-500/20 transition-all font-black"
-                >
-                  <span className="text-lg leading-none">→</span>
-                </button>
+                {!isChecked ? (
+                  <button
+                    onClick={handleCheckAnswer}
+                    disabled={!selectedOption}
+                    className="bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm"
+                  >
+                    Cek Jawaban
+                  </button>
+                ) : (
+                  <button
+                    onClick={handleNextQuestion}
+                    disabled={currentIndex === questions.length - 1}
+                    className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-blue-500/10 text-sm flex items-center gap-1"
+                  >
+                    Soal Selanjutnya <ChevronRight className="w-4 h-4" />
+                  </button>
+                )}
               </div>
             </div>
           </div>
@@ -691,22 +540,22 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
       <div className="flex items-center justify-between glass-card rounded-2xl p-4">
         <button 
           onClick={onBack}
-          className="flex items-center gap-1.5 text-gray-500 hover:text-brand-primary font-bold text-sm transition"
+          className="flex items-center gap-1.5 text-gray-500 hover:text-brand-primary font-bold text-sm transition font-sans"
         >
           <ChevronLeft className="w-5 h-5" /> Kembali ke Roadmap
         </button>
-        <div className="flex items-center gap-4 text-xs font-bold">
+        <div className="flex items-center gap-4 text-xs font-bold font-sans">
           <span className="bg-red-500/10 text-brand-primary px-3 py-1 rounded-full uppercase tracking-wider">
             Tingkat: {currentQuestion.level === 'Kab' ? 'Kabupaten' : currentQuestion.level === 'Prov' ? 'Provinsi' : 'Nasional'}
           </span>
-          <span className="text-gray-400">
+          <span className="text-gray-400 font-sans">
             Soal {currentIndex + 1} dari {questions.length}
           </span>
         </div>
       </div>
 
       {/* Futuristic Video Producer Panel */}
-      <div className="glass-card rounded-3xl p-6 border border-brand-primary/20 shadow-lg shadow-red-500/5 space-y-4">
+      <div className="glass-card rounded-3xl p-6 border border-brand-primary/20 shadow-lg shadow-red-500/5 space-y-4 font-sans">
         <div className="flex items-center justify-between border-b border-gray-100 pb-3">
           <div className="flex items-center gap-2">
             <span className="flex h-2.5 w-2.5 rounded-full bg-red-600 animate-ping"></span>
@@ -721,7 +570,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
             <span className="text-xs font-bold text-gray-600">Timer Soal (10s)</span>
             <button 
               onClick={() => setTimerEnabled(!timerEnabled)}
-              className="text-brand-primary transition"
+              className="text-brand-primary transition animate-pulse"
             >
               {timerEnabled ? (
                 <ToggleRight className="w-10 h-10 text-red-500 fill-red-100" />
@@ -790,12 +639,11 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
             onClick={() => {
               setIsCleanMode(true);
               setShowIntro(true);
-              setIntroStage('title');
-              setIntroTimeLeft(4);
+              setIntroTimeLeft(3);
             }}
             className="bg-brand-primary hover:bg-brand-hover text-white font-extrabold px-6 py-2.5 rounded-2xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1.5"
           >
-            <Video className="w-3.5 h-3.5 fill-white" /> Mulai Rekam (Layar Bersih)
+            <Video className="w-3.5 h-3.5 fill-white animate-pulse" /> Mulai Rekam (Layar Bersih)
           </button>
         </div>
       </div>
@@ -810,11 +658,11 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
           {timerEnabled && (
             <div className="space-y-2">
               <div className="flex justify-between items-center text-xs font-bold text-gray-500">
-                <span className="flex items-center gap-1.5">
+                <span className="flex items-center gap-1.5 font-sans">
                   <span className={`h-2.5 w-2.5 rounded-full animate-ping ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
                   {timerPhase === 'question' ? 'Waktu Menjawab...' : 'Durasi Membaca Pembahasan...'}
                 </span>
-                <span className={`text-base font-black tracking-tight ${
+                <span className={`text-base font-black tracking-tight font-sans ${
                   timerPhase === 'question' && timeLeft <= 3 ? 'text-red-500 animate-bounce' : 
                   timerPhase === 'explanation' ? 'text-brand-accent' : 'text-gray-800'
                 }`}>
@@ -836,7 +684,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
 
           {/* Question tag & text */}
           <div className="space-y-3">
-            <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
+            <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider font-sans">
               {currentQuestion.subTopic || 'Topik Utama'}
             </span>
             <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-800">
@@ -871,7 +719,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
                   key={key}
                   disabled={isChecked}
                   onClick={() => handleOptionSelect(key)}
-                  className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm ${optionBg}`}
+                  className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm font-sans ${optionBg}`}
                 >
                   <div className="flex items-center gap-3">
                     <span className={`w-8 h-8 rounded-xl flex items-center justify-center font-bold text-xs shrink-0 ${
@@ -912,7 +760,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
               <button
                 onClick={handleCheckAnswer}
                 disabled={!selectedOption}
-                className="bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm"
+                className="bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm font-sans"
               >
                 Cek Jawaban
               </button>
@@ -920,7 +768,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
               <button
                 onClick={handleNextQuestion}
                 disabled={currentIndex === questions.length - 1}
-                className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-blue-500/10 text-sm flex items-center gap-1"
+                className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-blue-500/10 text-sm flex items-center gap-1 font-sans"
               >
                 Soal Selanjutnya <ChevronRight className="w-4 h-4" />
               </button>
@@ -932,7 +780,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
         {isSplitActive && (
           <div 
             ref={explanationScrollRef}
-            className="lg:col-span-6 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3"
+            className="lg:col-span-6 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans"
           >
             <div className="flex items-center gap-2">
               <div className="p-2 bg-red-100 rounded-xl">
@@ -1009,7 +857,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
 
       {/* Classic bottom Pembahasan Panel (if split layout is disabled) */}
       {showPembahasan && !layoutSplit && (
-        <div className="glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-fade-in space-y-6">
+        <div className="glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-fade-in space-y-6 font-sans">
           <div className="flex items-center gap-2">
             <div className="p-2 bg-red-100 rounded-xl">
               <Lightbulb className="text-brand-primary w-5 h-5" />
@@ -1074,7 +922,7 @@ export default function PracticeArea({ subBabId, questionsData, onBack, onAddXp,
                 <Compass className="w-4 h-4" />
               </div>
               <div className="text-xs leading-relaxed">
-                <span className="font-bold text-yellow-800 block mb-1">Tips Olimpiade 💭</span>
+                <span className="font-bold text-yellow-850 block mb-1">Tips Olimpiade 💭</span>
                 <p className="text-yellow-900 font-medium">{renderMarkdown(currentQuestion.tips)}</p>
               </div>
             </div>

@@ -408,7 +408,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang-sulit.md`
 
 **IPA-04f · Pemantulan Bunyi (Gema, Gaung)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
+- [x] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sulit.md`
@@ -416,7 +416,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang-sulit.md`
 
 **IPA-04g · Perambatan Bunyi di Padat/Cair/Gas** (fokus Kab)
-- [ ] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
+- [x] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sulit.md`
@@ -424,7 +424,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang-sulit.md`
 
 **IPA-04h · Suhu & Termometer** (fokus Kab)
-- [ ] `osn-sd-ipa-04h-suhu-termometer-campur.md`
+- [x] `osn-sd-ipa-04h-suhu-termometer-campur.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-mudah.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sulit.md`
@@ -432,7 +432,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang-sulit.md`
 
 **IPA-04i · Perpindahan Panas (Konduksi, Konveksi, Radiasi)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
+- [x] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-mudah.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sulit.md`
@@ -440,7 +440,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang-sulit.md`
 
 **IPA-04j · Wujud Zat (Padat, Cair, Gas) & Sifatnya** (fokus Kab)
-- [ ] `osn-sd-ipa-04j-wujud-zat-campur.md`
+- [x] `osn-sd-ipa-04j-wujud-zat-campur.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-mudah.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sedang.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sulit.md`
@@ -448,7 +448,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04j-wujud-zat-sedang-sulit.md`
 
 **IPA-04k · Perubahan Wujud Zat (6 Jenis)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-04k-perubahan-wujud-campur.md`
+- [x] `osn-sd-ipa-04k-perubahan-wujud-campur.md`
 - [ ] `osn-sd-ipa-04k-perubahan-wujud-mudah.md`
 - [ ] `osn-sd-ipa-04k-perubahan-wujud-sedang.md`
 - [ ] `osn-sd-ipa-04k-perubahan-wujud-sulit.md`
@@ -456,7 +456,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04k-perubahan-wujud-sedang-sulit.md`
 
 **IPA-04l · Sifat Fisika vs Sifat Kimia** (fokus Kab)
-- [ ] `osn-sd-ipa-04l-sifat-fisika-kimia-campur.md`
+- [x] `osn-sd-ipa-04l-sifat-fisika-kimia-campur.md`
 - [ ] `osn-sd-ipa-04l-sifat-fisika-kimia-mudah.md`
 - [ ] `osn-sd-ipa-04l-sifat-fisika-kimia-sedang.md`
 - [ ] `osn-sd-ipa-04l-sifat-fisika-kimia-sulit.md`
@@ -464,7 +464,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04l-sifat-fisika-kimia-sedang-sulit.md`
 
 **IPA-04m · Pemisahan Campuran (Filtrasi, Evaporasi, Distilasi, Kromatografi, Sublimasi)** (fokus Prov)
-- [ ] `osn-sd-ipa-04m-pemisahan-campuran-campur.md`
+- [x] `osn-sd-ipa-04m-pemisahan-campuran-campur.md`
 - [ ] `osn-sd-ipa-04m-pemisahan-campuran-mudah.md`
 - [ ] `osn-sd-ipa-04m-pemisahan-campuran-sedang.md`
 - [ ] `osn-sd-ipa-04m-pemisahan-campuran-sulit.md`
@@ -472,7 +472,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04m-pemisahan-campuran-sedang-sulit.md`
 
 **IPA-04n · Larutan, Suspensi, Koloid (Level Dasar)** (fokus Prov–Nas)
-- [ ] `osn-sd-ipa-04n-larutan-koloid-campur.md`
+- [x] `osn-sd-ipa-04n-larutan-koloid-campur.md`
 - [ ] `osn-sd-ipa-04n-larutan-koloid-mudah.md`
 - [ ] `osn-sd-ipa-04n-larutan-koloid-sedang.md`
 - [ ] `osn-sd-ipa-04n-larutan-koloid-sulit.md`
