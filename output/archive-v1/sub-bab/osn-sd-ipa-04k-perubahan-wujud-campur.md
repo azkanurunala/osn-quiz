@@ -1787,11 +1787,433 @@ Kalor laten, fase diagram, supercooling, superheating, lyophilization, refrigera
 
 ---
 
+## 🏆 Tingkat Nasional (20 Soal · Soal 81–100)
+
+---
+
+### Soal 81 · First Order vs Second Order Transition · Nas
+
+**First-order phase transitions** (mencair, mendidih) berbeda dari **second-order** (BEC, ferromagnetik) dalam?
+
+- A. Sama
+- B. **First-order: ada kalor laten, diskontinuitas density; second-order: kontinuitas, tapi diskontinuitas turunan; first-order = "klasik," second-order = transisi quantum kritis**
+- C. Magic
+- D. Tidak ada beda
+
+**📝 Pembahasan:**
+
+- **Konsep:** Klasifikasi Ehrenfest. First-order vs second-order = beda fundamental.
+- **Analisis opsi:**
+  - **A salah:** Beda.
+  - **B benar:** Klasifikasi.
+  - **C salah:** Sains.
+  - **D salah:** Beda fundamental.
+- **💭 Tips:** Magnetisasi feromagnet di Tc = second order; melting es = first order.
+
+---
+
+### Soal 82 · BEC Transition · Nas
+
+**Bose-Einstein Condensation** = phase transition di mana?
+
+- A. Magic
+- B. **Suhu sangat rendah (T_BEC ~nanokelvin), bosons (helium, atom alkali) "kondens" ke ground state quantum yang sama → fase quantum dengan sifat collective (superfluidity, vortex)**
+- C. Tidak ada transisi
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** BEC = quantum phase transition. Realized 1995.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** BEC mechanism.
+  - **C salah:** Ada transisi.
+  - **D salah:** Demonstrated.
+- **💭 Tips:** Tc untuk Rb-87 ~170 nK. Untuk He-4 superfluid ~2.17 K.
+
+---
+
+### Soal 83 · Glass Transition · Nas
+
+**Glass transition (Tg)** beda dari melting karena?
+
+- A. Sama
+- B. **Bukan true thermodynamic transition; "freezing" dari liquid ke amorphous solid tanpa ordering kristal. Viskositas naik dramatis dengan T turun**
+- C. Magic
+- D. Hanya kaca
+
+**📝 Pembahasan:**
+
+- **Konsep:** Glass transition = kinetic transition, bukan equilibrium phase transition. Polymer, kaca, dll.
+- **Analisis opsi:**
+  - **A salah:** Beda.
+  - **B benar:** Glass transition.
+  - **C salah:** Sains.
+  - **D salah:** Banyak material.
+- **💭 Tips:** Glass transition temperature (Tg) = parameter penting plastik & coating engineering.
+
+---
+
+### Soal 84 · Critical Phenomena · Nas
+
+Di sekitar **critical point**, sistem menunjukkan **critical phenomena** seperti?
+
+- A. Magic
+- B. **Universal critical exponents (independen dari detail mikroskopik), critical opalescence (cair memutih), large fluctuations di semua skala — basis universality classes di fisika statistik**
+- C. Tidak ada hal khusus
+- D. Hanya magnetik
+
+**📝 Pembahasan:**
+
+- **Konsep:** Critical phenomena = riset penting condensed matter, statistical physics, dan field theory.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Critical phenomena.
+  - **C salah:** Khas.
+  - **D salah:** Banyak sistem.
+- **💭 Tips:** Renormalization group theory (Wilson, Nobel 1982) menjelaskan universality.
+
+---
+
+### Soal 85 · Phase Transitions Early Universe · Nas
+
+Di **early universe**, fase transition terjadi yang membentuk struktur materi sekarang. Contoh?
+
+- A. Tidak ada
+- B. **Electroweak symmetry breaking (Higgs mechanism) ~10⁻¹¹ s pasca Big Bang; quark-hadron transition ~10⁻⁵ s; recombination (plasma → atom netral) ~380.000 tahun pasca BB**
+- C. Magic
+- D. Hanya satu
+
+**📝 Pembahasan:**
+
+- **Konsep:** Cosmological phase transitions = fondasi cosmology modern.
+- **Analisis opsi:**
+  - **A salah:** Banyak.
+  - **B benar:** Daftar fase transition kosmologi.
+  - **C salah:** Sains.
+  - **D salah:** Multiple.
+- **💭 Tips:** CMB = "fosil" recombination phase transition.
+
+---
+
+### Soal 86 · Superkonduktor Phase · Nas
+
+**Superkonduktor** mengalami phase transition di **Tc** (suhu kritis). Apa terjadi?
+
+- A. Magic
+- B. **Di T < Tc, elektron berpasangan (Cooper pairs) → quantum coherent → resistansi nol & Meissner effect; di T > Tc = logam biasa**
+- C. Tidak ada transisi
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** Superconductivity = second-order phase transition with quantum order.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Superconductivity mechanism.
+  - **C salah:** Ada transisi.
+  - **D salah:** Aplikasi luas.
+- **💭 Tips:** High-Tc cuprates (BSCCO, YBCO) di Tc ~80-150 K. Goal: room-temperature superconductivity.
+
+---
+
+### Soal 87 · Liquid Helium · Nas
+
+**Helium cair** punya transisi unik di **2,17 K**. Disebut apa?
+
+- A. Membeku
+- B. **Lambda transition: He-I (cair biasa) → He-II (superfluid); cair dengan zero viscosity, "merangkak di dinding," thermal conductivity yang sangat tinggi**
+- C. Magic
+- D. Tidak ada
+
+**📝 Pembahasan:**
+
+- **Konsep:** Liquid helium-4 phase transition unique. Pertama disebut "lambda" karena bentuk kurva.
+- **Analisis opsi:**
+  - **A salah:** He-4 sulit beku (perlu tekanan).
+  - **B benar:** Lambda transition.
+  - **C salah:** Sains.
+  - **D salah:** Demonstrated.
+- **💭 Tips:** Kapitza & Allen (1937) discovery superfluidity. Nobel 1978 (Kapitza).
+
+---
+
+### Soal 88 · Cosmic Inflation Phase Transition · Nas
+
+Apakah **cosmic inflation** (~10⁻³² s pasca Big Bang) terkait phase transition?
+
+- A. Tidak
+- B. **Beberapa model mengaitkan: inflasi dipicu oleh "false vacuum" decay (first-order phase transition di sektor inflaton); end of inflation = transisi ke "true vacuum"**
+- C. Magic
+- D. Tidak relevan
+
+**📝 Pembahasan:**
+
+- **Konsep:** Inflationary cosmology mengusulkan phase transition primordial.
+- **Analisis opsi:**
+  - **A salah:** Mungkin terkait.
+  - **B benar:** Model false vacuum.
+  - **C salah:** Sains.
+  - **D salah:** Sangat relevan.
+- **💭 Tips:** Riset aktif tentang gravitational waves dari first-order phase transitions di alam semesta awal.
+
+---
+
+### Soal 89 · Quark-Gluon Phase Transition · Nas
+
+**Quark-Gluon Plasma → Hadronic Matter** transition (~10⁻⁵ s pasca Big Bang) = ?
+
+- A. Tidak terjadi
+- B. **Suhu turun di alam semesta awal → quark & gluon "freeze" ke proton, neutron, dll. (confinement transition). Diuji di RHIC, LHC heavy-ion collision**
+- C. Magic
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** QCD confinement-deconfinement transition. Penting di fisika partikel + kosmologi.
+- **Analisis opsi:**
+  - **A salah:** Terjadi.
+  - **B benar:** Mechanism.
+  - **C salah:** Sains.
+  - **D salah:** Eksperimen aktif.
+- **💭 Tips:** Recent: lattice QCD shows it's a smooth crossover, bukan first-order, untuk kondisi awal universe.
+
+---
+
+### Soal 90 · Magnetic Phase Transition · Nas
+
+**Ferromagnetisme** (magnet permanen) hilang di atas suhu **Curie (Tc)**. Karena?
+
+- A. Magic
+- B. **Di atas Tc, thermal fluctuations melampaui ordering magnetik → spin acak → fase paramagnetik (no net magnetization). Second-order phase transition**
+- C. Magnet tidak tahan panas
+- D. Tidak benar
+
+**📝 Pembahasan:**
+
+- **Konsep:** Curie temperature = phase transition magnetic. Untuk besi Tc = 770°C, untuk nikel Tc = 358°C.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Curie transition.
+  - **C salah:** Lebih tepat: spin disorder thermal.
+  - **D salah:** Terjadi.
+- **💭 Tips:** Hard drive memory pakai antiferromagnetik dengan Tc tertentu untuk stability.
+
+---
+
+### Soal 91 · Polymorphism · Nas
+
+**Polymorphism** = ?
+
+- A. Banyak warna
+- B. **Suatu zat bisa eksis dalam berbagai struktur kristal padat (polimorf), masing-masing dengan sifat berbeda. Contoh: C punya intan & grafit. Banyak obat punya polimorf yang penting untuk efikasi**
+- C. Magic
+- D. Tidak ada
+
+**📝 Pembahasan:**
+
+- **Konsep:** Polymorphism = penting di pharmaceuticals & materials.
+- **Analisis opsi:**
+  - **A salah:** Bukan optik.
+  - **B benar:** Struktural polimorf.
+  - **C salah:** Sains.
+  - **D salah:** Banyak contoh.
+- **💭 Tips:** Ranitidine (Zantac) polymorph case = patent battle.
+
+---
+
+### Soal 92 · Phase Transition Quantum Hall · Nas
+
+**Quantum Hall effect** menunjukkan phase transition unique di?
+
+- A. Tidak ada
+- B. **Sistem 2D elektron + medan magnet kuat di T rendah → resistivitas terkuantum di rasio fundamental e²/h; quantum phase transition antara plateau diatur tekanan magnet**
+- C. Magic
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** Integer & Fractional Quantum Hall Effect = riset Nobel (Klitzing 1985, Laughlin/Stormer/Tsui 1998).
+- **Analisis opsi:**
+  - **A salah:** Banyak transisi.
+  - **B benar:** QHE transitions.
+  - **C salah:** Sains.
+  - **D salah:** Demonstrated.
+- **💭 Tips:** QHE = standar metrologi resistensi. Topological phase transitions = generalisasi modern.
+
+---
+
+### Soal 93 · Topological Phase Transition · Nas
+
+**Topological phase transitions** beda dari klasik karena?
+
+- A. Sama
+- B. **Tidak ada local order parameter; ditandai oleh perubahan topology (winding number) elektron states; basis untuk topological insulators, anyon, quantum computing**
+- C. Magic
+- D. Tidak penting
+
+**📝 Pembahasan:**
+
+- **Konsep:** Topological phases = riset Nobel 2016 (Thouless, Haldane, Kosterlitz).
+- **Analisis opsi:**
+  - **A salah:** Beda fundamental.
+  - **B benar:** Topological mechanism.
+  - **C salah:** Sains.
+  - **D salah:** Sangat penting.
+- **💭 Tips:** Berlin-Kosterlitz-Thouless transition di 2D = first topological phase transition discovered.
+
+---
+
+### Soal 94 · Mott Insulator Transition · Nas
+
+**Mott insulator transition** = ?
+
+- A. Magic
+- B. **Material yang seharusnya konduktor (band theory) menjadi insulator karena strong electron-electron interaction (Hubbard model); kunci untuk high-Tc superconductivity & strongly correlated materials**
+- C. Tidak ada
+- D. Hanya satu
+
+**📝 Pembahasan:**
+
+- **Konsep:** Mott transition = strongly correlated electron physics. Fundamental.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Mott insulator.
+  - **C salah:** Riset luas.
+  - **D salah:** Banyak material.
+- **💭 Tips:** Cuprate parent compound (La₂CuO₄) = Mott insulator. Doping → superconductor.
+
+---
+
+### Soal 95 · Wigner Crystal Transition · Nas
+
+**Wigner crystal** = ?
+
+- A. Magic
+- B. **Pada densitas elektron sangat rendah & T sangat rendah, elektron mengkristal ke kisi teratur (Wigner crystal); transition dari electron liquid → electron solid (phase transition akustik)**
+- C. Tidak ada
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** Wigner crystal = predicted 1934, observed di 2D electron gas heterostructures.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Wigner crystal.
+  - **C salah:** Demonstrated.
+  - **D salah:** Eksperimen ada.
+- **💭 Tips:** Quantum melting Wigner crystal = quantum phase transition.
+
+---
+
+### Soal 96 · Mesophase Material · Nas
+
+**Mesophase materials** (liquid crystal, liquid metal, plastic crystal) menunjukkan?
+
+- A. Tidak menarik
+- B. **Phase transition multi-tahap: dari solid → mesophase (intermediate) → liquid, dengan sifat unik di tahap intermediate (e.g., LC orientational order tanpa positional order)**
+- C. Magic
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** Mesophase = intermediate states dengan partial ordering.
+- **Analisis opsi:**
+  - **A salah:** Sangat menarik.
+  - **B benar:** Multi-stage transitions.
+  - **C salah:** Sains.
+  - **D salah:** Aplikasi LCD.
+- **💭 Tips:** Cholesteric LC = helical structure → "selective reflection" warna-warni saat T berubah.
+
+---
+
+### Soal 97 · Spin Glass Transition · Nas
+
+**Spin glass** menunjukkan transition unique di T_SG. Karena?
+
+- A. Magic
+- B. **Random + frustrated magnetic interactions → no global ordering, tapi quenched dalam keadaan "frozen" complex; transition antara paramagnetic & spin glass = fenomena baru di stat mech**
+- C. Sama dengan ferromagnetic
+- D. Tidak ada
+
+**📝 Pembahasan:**
+
+- **Konsep:** Spin glass = riset Parisi (Nobel 2021). Aplikasi di neural networks, optimization.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Spin glass mechanism.
+  - **C salah:** Beda fundamental.
+  - **D salah:** Demonstrated.
+- **💭 Tips:** Spin glass models = inspirasi untuk Hopfield neural networks.
+
+---
+
+### Soal 98 · Many-Body Localization · Nas
+
+**Many-body localization (MBL)** = phase transition unik di?
+
+- A. Tidak ada
+- B. **Sistem quantum disorder yang melanggar thermalization; di MBL phase, sistem tidak ekuilibrium meski lama; berbeda dengan thermal phase yang normal**
+- C. Magic
+- D. Klasik
+
+**📝 Pembahasan:**
+
+- **Konsep:** MBL = riset hot di quantum statistical mechanics. Anderson localization untuk many-body.
+- **Analisis opsi:**
+  - **A salah:** Ada.
+  - **B benar:** MBL.
+  - **C salah:** Sains.
+  - **D salah:** Quantum.
+- **💭 Tips:** MBL = potential untuk quantum memory (no thermalization → preservation of info).
+
+---
+
+### Soal 99 · Higgs Mechanism Phase Transition · Nas
+
+**Higgs mechanism** di Standar Model = phase transition yang?
+
+- A. Magic
+- B. **Spontaneously broken electroweak symmetry: di awal universe (>10¹⁵ K), symmetry was unbroken; saat cooling, Higgs field "condensed" → particles acquired mass; observed Higgs boson 2012**
+- C. Tidak ada
+- D. Hanya teori
+
+**📝 Pembahasan:**
+
+- **Konsep:** Higgs phase transition = milestone of cosmology + particle physics.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Higgs mechanism.
+  - **C salah:** Confirmed.
+  - **D salah:** Boson observed LHC 2012.
+- **💭 Tips:** Nobel 2013 untuk Higgs & Englert (theory of Higgs mechanism).
+
+---
+
+### Soal 100 · Sintesis Total · Nas
+
+Perubahan wujud dari 6 jenis klasik (cair-padat-gas) hingga eksotik (BEC, Higgs, topological) — semuanya = phase transitions di sistem fisis. **Prinsip pemersatu**?
+
+- A. Magic
+- B. **Phase transitions = perubahan dramatis sifat sistem saat parameter (T, P, density, field) melewati nilai kritis; energi laten/kontinuitas tergantung jenis; fondasi statistical mechanics, condensed matter, cosmology, dan field theory modern**
+- C. Hanya untuk laboratorium
+- D. Tidak penting
+
+**📝 Pembahasan:**
+
+- **Konsep:** Phase transitions = "language" universal di fisika.
+- **Analisis opsi:**
+  - **A salah:** Sains.
+  - **B benar:** Pemersatu komprehensif.
+  - **C salah:** Universal.
+  - **D salah:** Sangat penting.
+- **💭 Tips:** Dari es batu mencair di kulkas hingga electroweak symmetry breaking di Big Bang — semua adalah phase transitions. Selamat: 100 soal tuntas! 🧊💧💨
+
+---
+
 # Bagian III — Ringkasan Kunci & Refleksi
 
-> Bagian ini akan dilengkapi penuh setelah seluruh 100 soal selesai di-generate.
-
-## 🔑 Tabel Kunci Jawaban (Soal 1–50)
+## 🔑 Tabel Kunci Jawaban (Soal 1–100)
 
 | No | Jw | Sub-topik | Tk |
 |----|----|-----------|-----|
@@ -1820,8 +2242,99 @@ Kalor laten, fase diagram, supercooling, superheating, lyophilization, refrigera
 | 23 | B | Eksotermik | Kab |
 | 24 | B | Keringat Dingin | Kab |
 | 25 | B | Awan Embun | Kab |
-| 26–100 | — | (menunggu batch berikutnya) | — |
+| 26 | B | Iodine Sublimasi | Kab |
+| 27 | B | Kabut Mengembun | Kab |
+| 28 | B | Wajan Menguap | Kab |
+| 29 | B | Es Mencair Kamar | Kab |
+| 30 | B | Kalor Lebur | Kab |
+| 31 | B | Kalor Uap | Kab |
+| 32 | B | Hujan | Kab |
+| 33 | B | Embun Hilang | Kab |
+| 34 | B | Air Kaca Botol | Kab |
+| 35 | B | Sup Berasap | Kab |
+| 36 | B | Lilin 2 Perubahan | Kab |
+| 37 | B | Heating Air | Kab |
+| 38 | B | Iglo Isolasi | Kab |
+| 39 | B | Bulan Menguap | Kab |
+| 40 | B | Freezing Fog | Kab |
+| 41 | B | Mentega Beku | Kab |
+| 42 | B | Pancake Solid | Kab |
+| 43 | B | Tirai Mandi | Kab |
+| 44 | B | Ban Dingin | Kab |
+| 45 | B | Es Dinginkan | Kab |
+| 46 | B | Pipa Pecah | Kab |
+| 47 | B | Tubuh Tidak Beku | Kab |
+| 48 | B | Garam Es | Kab |
+| 49 | B | Air Laut | Kab |
+| 50 | B | Sintesis | Kab |
+| 51 | B | Q = mL | Prov |
+| 52 | B | L_f 334k | Prov |
+| 53 | B | L_v 2260k | Prov |
+| 54 | B | 167.000 J | Prov |
+| 55 | B | 226.000 J | Prov |
+| 56 | B | Sublimasi Total | Prov |
+| 57 | B | Triple Air | Prov |
+| 58 | B | Critical Air | Prov |
+| 59 | B | Supercooling | Prov |
+| 60 | B | Superheating | Prov |
+| 61 | B | Sensible+Latent | Prov |
+| 62 | B | Phase Diagram | Prov |
+| 63 | B | Pressure Cooker | Prov |
+| 64 | B | Gunung Lambat | Prov |
+| 65 | B | Keringat Cool | Prov |
+| 66 | B | AC Refrigerasi | Prov |
+| 67 | B | Kulkas | Prov |
+| 68 | B | Hail | Prov |
+| 69 | B | Garam Beku | Prov |
+| 70 | B | Iron Pack | Prov |
+| 71 | B | NH4NO3 Cold | Prov |
+| 72 | B | Es Krim | Prov |
+| 73 | B | Steam Engine | Prov |
+| 74 | B | Lyophilization | Prov |
+| 75 | B | CO2 Pemadam | Prov |
+| 76 | B | Adiabatic | Prov |
+| 77 | B | Lap Basah | Prov |
+| 78 | B | Transpirasi | Prov |
+| 79 | B | Anomali Es | Prov |
+| 80 | B | Sintesis Prov | Prov |
+| 81 | B | First vs Second | Nas |
+| 82 | B | BEC | Nas |
+| 83 | B | Glass Transition | Nas |
+| 84 | B | Critical Phenomena | Nas |
+| 85 | B | Early Universe | Nas |
+| 86 | B | Superkonduktor Tc | Nas |
+| 87 | B | He-II Lambda | Nas |
+| 88 | B | Inflation Phase | Nas |
+| 89 | B | QGP-Hadron | Nas |
+| 90 | B | Curie | Nas |
+| 91 | B | Polymorphism | Nas |
+| 92 | B | Quantum Hall | Nas |
+| 93 | B | Topological | Nas |
+| 94 | B | Mott Insulator | Nas |
+| 95 | B | Wigner Crystal | Nas |
+| 96 | B | Mesophase | Nas |
+| 97 | B | Spin Glass | Nas |
+| 98 | B | MBL | Nas |
+| 99 | B | Higgs | Nas |
+| 100 | B | Sintesis Total | Nas |
+
+## 💡 Konsep Inti yang Wajib Dikuasai
+
+1. **6 perubahan wujud**: mencair, membeku, menguap, mengembun, menyublim, mengkristal.
+2. **Endotermik** (butuh panas): mencair, menguap, menyublim. **Eksotermik** (lepas panas): membeku, mengembun, mengkristal.
+3. **Suhu tetap saat transisi fase** (energi = kalor laten).
+4. **Q = mL** (untuk fase transition); Q = mcΔT (untuk sensible heat).
+5. **Air**: L_fusion ~334 kJ/kg, L_vap ~2.260 kJ/kg.
+6. **Anomali air**: es kurang padat → mengapung; volume bertambah 9% saat beku.
+7. **Sublimasi**: kapur barus, dry ice, iodine.
+8. **Deposisi**: kristal salju, frost freezer.
 
 ## 📚 Rekomendasi Materi Lanjutan
 
-- **Sub-bab terkait:** IPA-04j (Wujud Zat), IPA-04h (Suhu & Termometer)
+- **Sub-bab terkait:** IPA-04j (Wujud Zat), IPA-04h (Suhu & Termometer), IPA-04i (Perpindahan Panas)
+- **Materi lanjutan SMP/SMA:** Kalorimetri kuantitatif, fase diagram, hukum termodinamika, statistik fisika.
+- **Eksperimen di rumah:** Es batu mencair → ukur waktu. Mendidihkan air → catat suhu tetap. Embun di kaca dingin.
+
+---
+
+🧊💧💨 **100/100 — Tuntas! Selamat belajar perubahan wujud, dari es batu di kulkas hingga Higgs mechanism di Big Bang.**

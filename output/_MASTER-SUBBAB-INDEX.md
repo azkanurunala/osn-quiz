@@ -58,7 +58,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-01 · Makhluk Hidup & Lingkungan (13 sub-bab)
 
 **IPA-01a · Ciri-ciri Makhluk Hidup** (fokus Kab)
-- [x] `osn-sd-ipa-01a-ciri-makhluk-hidup-campur.md`
+- [ ] `osn-sd-ipa-01a-ciri-makhluk-hidup-campur.md`
 - [ ] `osn-sd-ipa-01a-ciri-makhluk-hidup-mudah.md`
 - [ ] `osn-sd-ipa-01a-ciri-makhluk-hidup-sedang.md`
 - [ ] `osn-sd-ipa-01a-ciri-makhluk-hidup-sulit.md`
@@ -66,7 +66,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01a-ciri-makhluk-hidup-sedang-sulit.md`
 
 **IPA-01b · Klasifikasi Hewan (Vertebrata/Invertebrata)** (fokus Kab)
-- [x] `osn-sd-ipa-01b-klasifikasi-hewan-campur.md`
+- [ ] `osn-sd-ipa-01b-klasifikasi-hewan-campur.md`
 - [ ] `osn-sd-ipa-01b-klasifikasi-hewan-mudah.md`
 - [ ] `osn-sd-ipa-01b-klasifikasi-hewan-sedang.md`
 - [ ] `osn-sd-ipa-01b-klasifikasi-hewan-sulit.md`
@@ -74,7 +74,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01b-klasifikasi-hewan-sedang-sulit.md`
 
 **IPA-01c · Klasifikasi Tumbuhan (Monokotil/Dikotil)** (fokus Kab)
-- [x] `osn-sd-ipa-01c-klasifikasi-tumbuhan-campur.md`
+- [ ] `osn-sd-ipa-01c-klasifikasi-tumbuhan-campur.md`
 - [ ] `osn-sd-ipa-01c-klasifikasi-tumbuhan-mudah.md`
 - [ ] `osn-sd-ipa-01c-klasifikasi-tumbuhan-sedang.md`
 - [ ] `osn-sd-ipa-01c-klasifikasi-tumbuhan-sulit.md`
@@ -82,7 +82,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01c-klasifikasi-tumbuhan-sedang-sulit.md`
 
 **IPA-01d · Struktur & Fungsi Bagian Tumbuhan** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01d-struktur-tumbuhan-campur.md`
+- [ ] `osn-sd-ipa-01d-struktur-tumbuhan-campur.md`
 - [ ] `osn-sd-ipa-01d-struktur-tumbuhan-mudah.md`
 - [ ] `osn-sd-ipa-01d-struktur-tumbuhan-sedang.md`
 - [ ] `osn-sd-ipa-01d-struktur-tumbuhan-sulit.md`
@@ -90,7 +90,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01d-struktur-tumbuhan-sedang-sulit.md`
 
 **IPA-01e · Reproduksi Tumbuhan (Vegetatif & Generatif)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01e-reproduksi-tumbuhan-campur.md`
+- [ ] `osn-sd-ipa-01e-reproduksi-tumbuhan-campur.md`
 - [ ] `osn-sd-ipa-01e-reproduksi-tumbuhan-mudah.md`
 - [ ] `osn-sd-ipa-01e-reproduksi-tumbuhan-sedang.md`
 - [ ] `osn-sd-ipa-01e-reproduksi-tumbuhan-sulit.md`
@@ -98,7 +98,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01e-reproduksi-tumbuhan-sedang-sulit.md`
 
 **IPA-01f · Reproduksi Hewan (Ovipar, Vivipar, Ovovivipar)** (fokus Kab)
-- [x] `osn-sd-ipa-01f-reproduksi-hewan-campur.md`
+- [ ] `osn-sd-ipa-01f-reproduksi-hewan-campur.md`
 - [ ] `osn-sd-ipa-01f-reproduksi-hewan-mudah.md`
 - [ ] `osn-sd-ipa-01f-reproduksi-hewan-sedang.md`
 - [ ] `osn-sd-ipa-01f-reproduksi-hewan-sulit.md`
@@ -106,7 +106,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01f-reproduksi-hewan-sedang-sulit.md`
 
 **IPA-01g · Daur Hidup Hewan (Metamorfosis)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01g-metamorfosis-campur.md`
+- [ ] `osn-sd-ipa-01g-metamorfosis-campur.md`
 - [ ] `osn-sd-ipa-01g-metamorfosis-mudah.md`
 - [ ] `osn-sd-ipa-01g-metamorfosis-sedang.md`
 - [ ] `osn-sd-ipa-01g-metamorfosis-sulit.md`
@@ -114,7 +114,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01g-metamorfosis-sedang-sulit.md`
 
 **IPA-01h · Adaptasi Hewan (Morfologi, Fisiologi, Tingkah Laku)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01h-adaptasi-hewan-campur.md`
+- [ ] `osn-sd-ipa-01h-adaptasi-hewan-campur.md`
 - [ ] `osn-sd-ipa-01h-adaptasi-hewan-mudah.md`
 - [ ] `osn-sd-ipa-01h-adaptasi-hewan-sedang.md`
 - [ ] `osn-sd-ipa-01h-adaptasi-hewan-sulit.md`
@@ -122,7 +122,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01h-adaptasi-hewan-sedang-sulit.md`
 
 **IPA-01i · Adaptasi Tumbuhan (Xerofit, Hidrofit, Higrofit)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01i-adaptasi-tumbuhan-campur.md`
+- [ ] `osn-sd-ipa-01i-adaptasi-tumbuhan-campur.md`
 - [ ] `osn-sd-ipa-01i-adaptasi-tumbuhan-mudah.md`
 - [ ] `osn-sd-ipa-01i-adaptasi-tumbuhan-sedang.md`
 - [ ] `osn-sd-ipa-01i-adaptasi-tumbuhan-sulit.md`
@@ -130,7 +130,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01i-adaptasi-tumbuhan-sedang-sulit.md`
 
 **IPA-01j · Ekosistem & Komponen-komponennya** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01j-ekosistem-campur.md`
+- [ ] `osn-sd-ipa-01j-ekosistem-campur.md`
 - [ ] `osn-sd-ipa-01j-ekosistem-mudah.md`
 - [ ] `osn-sd-ipa-01j-ekosistem-sedang.md`
 - [ ] `osn-sd-ipa-01j-ekosistem-sulit.md`
@@ -138,7 +138,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01j-ekosistem-sedang-sulit.md`
 
 **IPA-01k · Rantai & Jaring-jaring Makanan** (fokus Prov)
-- [x] `osn-sd-ipa-01k-rantai-makanan-campur.md`
+- [ ] `osn-sd-ipa-01k-rantai-makanan-campur.md`
 - [ ] `osn-sd-ipa-01k-rantai-makanan-mudah.md`
 - [ ] `osn-sd-ipa-01k-rantai-makanan-sedang.md`
 - [ ] `osn-sd-ipa-01k-rantai-makanan-sulit.md`
@@ -146,7 +146,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01k-rantai-makanan-sedang-sulit.md`
 
 **IPA-01l · Simbiosis (Mutualisme, Komensalisme, Parasitisme)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-01l-simbiosis-campur.md`
+- [ ] `osn-sd-ipa-01l-simbiosis-campur.md`
 - [ ] `osn-sd-ipa-01l-simbiosis-mudah.md`
 - [ ] `osn-sd-ipa-01l-simbiosis-sedang.md`
 - [ ] `osn-sd-ipa-01l-simbiosis-sulit.md`
@@ -154,7 +154,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01l-simbiosis-sedang-sulit.md`
 
 **IPA-01m · Pelestarian Makhluk Hidup & Taman Nasional** (fokus Prov–Nas)
-- [x] `osn-sd-ipa-01m-pelestarian-campur.md`
+- [ ] `osn-sd-ipa-01m-pelestarian-campur.md`
 - [ ] `osn-sd-ipa-01m-pelestarian-mudah.md`
 - [ ] `osn-sd-ipa-01m-pelestarian-sedang.md`
 - [ ] `osn-sd-ipa-01m-pelestarian-sulit.md`
@@ -164,7 +164,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-02 · Tubuh Manusia & Kesehatan (13 sub-bab)
 
 **IPA-02a · Sistem Pencernaan (Organ, Enzim, Fungsi)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02a-pencernaan-campur.md`
+- [ ] `osn-sd-ipa-02a-pencernaan-campur.md`
 - [ ] `osn-sd-ipa-02a-pencernaan-mudah.md`
 - [ ] `osn-sd-ipa-02a-pencernaan-sedang.md`
 - [ ] `osn-sd-ipa-02a-pencernaan-sulit.md`
@@ -172,7 +172,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02a-pencernaan-sedang-sulit.md`
 
 **IPA-02b · Sistem Pernapasan** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02b-pernapasan-campur.md`
+- [ ] `osn-sd-ipa-02b-pernapasan-campur.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-mudah.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-sedang.md`
 - [ ] `osn-sd-ipa-02b-pernapasan-sulit.md`
@@ -180,7 +180,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02b-pernapasan-sedang-sulit.md`
 
 **IPA-02c · Sistem Peredaran Darah (Jantung, Pembuluh, Darah)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02c-peredaran-darah-campur.md`
+- [ ] `osn-sd-ipa-02c-peredaran-darah-campur.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-mudah.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sedang.md`
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sulit.md`
@@ -188,7 +188,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02c-peredaran-darah-sedang-sulit.md`
 
 **IPA-02d · Sistem Ekskresi (Ginjal, Kulit, Paru-paru, Hati)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02d-ekskresi-campur.md`
+- [ ] `osn-sd-ipa-02d-ekskresi-campur.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-mudah.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-sedang.md`
 - [ ] `osn-sd-ipa-02d-ekskresi-sulit.md`
@@ -196,7 +196,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02d-ekskresi-sedang-sulit.md`
 
 **IPA-02e · Sistem Saraf & Indera (Mata, Telinga, Hidung, Lidah, Kulit)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02e-saraf-indera-campur.md`
+- [ ] `osn-sd-ipa-02e-saraf-indera-campur.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-mudah.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-sedang.md`
 - [ ] `osn-sd-ipa-02e-saraf-indera-sulit.md`
@@ -204,7 +204,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02e-saraf-indera-sedang-sulit.md`
 
 **IPA-02f · Sistem Rangka & Otot** (fokus Kab)
-- [x] `osn-sd-ipa-02f-rangka-otot-campur.md`
+- [ ] `osn-sd-ipa-02f-rangka-otot-campur.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-mudah.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-sedang.md`
 - [ ] `osn-sd-ipa-02f-rangka-otot-sulit.md`
@@ -212,7 +212,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02f-rangka-otot-sedang-sulit.md`
 
 **IPA-02g · Sistem Reproduksi (Level Dasar SD)** (fokus Kab)
-- [x] `osn-sd-ipa-02g-reproduksi-campur.md`
+- [ ] `osn-sd-ipa-02g-reproduksi-campur.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-mudah.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-sedang.md`
 - [ ] `osn-sd-ipa-02g-reproduksi-sulit.md`
@@ -220,7 +220,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02g-reproduksi-sedang-sulit.md`
 
 **IPA-02h · Pubertas & Perubahan Tubuh** (fokus Kab)
-- [x] `osn-sd-ipa-02h-pubertas-campur.md`
+- [ ] `osn-sd-ipa-02h-pubertas-campur.md`
 - [ ] `osn-sd-ipa-02h-pubertas-mudah.md`
 - [ ] `osn-sd-ipa-02h-pubertas-sedang.md`
 - [ ] `osn-sd-ipa-02h-pubertas-sulit.md`
@@ -228,7 +228,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02h-pubertas-sedang-sulit.md`
 
 **IPA-02i · Gizi Seimbang (Karbohidrat, Protein, Lemak, Vitamin, Mineral, Air)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-02i-gizi-campur.md`
+- [ ] `osn-sd-ipa-02i-gizi-campur.md`
 - [ ] `osn-sd-ipa-02i-gizi-mudah.md`
 - [ ] `osn-sd-ipa-02i-gizi-sedang.md`
 - [ ] `osn-sd-ipa-02i-gizi-sulit.md`
@@ -236,7 +236,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02i-gizi-sedang-sulit.md`
 
 **IPA-02j · Penyakit Menular (TBC, DBD, COVID-19, Influenza)** (fokus Prov)
-- [x] `osn-sd-ipa-02j-penyakit-menular-campur.md`
+- [ ] `osn-sd-ipa-02j-penyakit-menular-campur.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-mudah.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sedang.md`
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sulit.md`
@@ -244,7 +244,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02j-penyakit-menular-sedang-sulit.md`
 
 **IPA-02k · Penyakit Tidak Menular (Diabetes, Hipertensi, Kanker)** (fokus Prov)
-- [x] `osn-sd-ipa-02k-penyakit-tidak-menular-campur.md`
+- [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-campur.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-mudah.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sedang.md`
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sulit.md`
@@ -252,7 +252,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02k-penyakit-tidak-menular-sedang-sulit.md`
 
 **IPA-02l · Kebersihan Diri & Lingkungan** (fokus Kab)
-- [x] `osn-sd-ipa-02l-kebersihan-campur.md`
+- [ ] `osn-sd-ipa-02l-kebersihan-campur.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-mudah.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-sedang.md`
 - [ ] `osn-sd-ipa-02l-kebersihan-sulit.md`
@@ -260,7 +260,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02l-kebersihan-sedang-sulit.md`
 
 **IPA-02m · Soal Terapan (Gejala → Diagnosis Sederhana)** (fokus Prov–Nas)
-- [x] `osn-sd-ipa-02m-diagnosis-gejala-campur.md`
+- [ ] `osn-sd-ipa-02m-diagnosis-gejala-campur.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-mudah.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-sedang.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-sulit.md`
@@ -270,7 +270,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-03 · Gaya, Gerak, dan Energi (12 sub-bab)
 
 **IPA-03a · Pengertian & Jenis Gaya (Gesek, Gravitasi, Magnet, Otot, Pegas)** (fokus Kab)
-- [x] `osn-sd-ipa-03a-jenis-gaya-campur.md`
+- [ ] `osn-sd-ipa-03a-jenis-gaya-campur.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-mudah.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sedang.md`
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sulit.md`
@@ -278,7 +278,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03a-jenis-gaya-sedang-sulit.md`
 
 **IPA-03b · Gerak (Benda Diam/Bergerak, Lurus/Melingkar)** (fokus Kab)
-- [x] `osn-sd-ipa-03b-gerak-campur.md`
+- [ ] `osn-sd-ipa-03b-gerak-campur.md`
 - [ ] `osn-sd-ipa-03b-gerak-mudah.md`
 - [ ] `osn-sd-ipa-03b-gerak-sedang.md`
 - [ ] `osn-sd-ipa-03b-gerak-sulit.md`
@@ -286,7 +286,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03b-gerak-sedang-sulit.md`
 
 **IPA-03c · Pengaruh Gaya terhadap Benda** (fokus Kab)
-- [x] `osn-sd-ipa-03c-pengaruh-gaya-campur.md`
+- [ ] `osn-sd-ipa-03c-pengaruh-gaya-campur.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-mudah.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sedang.md`
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sulit.md`
@@ -294,7 +294,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03c-pengaruh-gaya-sedang-sulit.md`
 
 **IPA-03d · Pesawat Sederhana: Tuas (3 Jenis)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03d-tuas-campur.md`
+- [ ] `osn-sd-ipa-03d-tuas-campur.md`
 - [ ] `osn-sd-ipa-03d-tuas-mudah.md`
 - [ ] `osn-sd-ipa-03d-tuas-sedang.md`
 - [ ] `osn-sd-ipa-03d-tuas-sulit.md`
@@ -302,7 +302,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03d-tuas-sedang-sulit.md`
 
 **IPA-03e · Pesawat Sederhana: Katrol (Tetap, Bergerak, Ganda)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03e-katrol-campur.md`
+- [ ] `osn-sd-ipa-03e-katrol-campur.md`
 - [ ] `osn-sd-ipa-03e-katrol-mudah.md`
 - [ ] `osn-sd-ipa-03e-katrol-sedang.md`
 - [ ] `osn-sd-ipa-03e-katrol-sulit.md`
@@ -310,7 +310,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03e-katrol-sedang-sulit.md`
 
 **IPA-03f · Pesawat Sederhana: Bidang Miring** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03f-bidang-miring-campur.md`
+- [ ] `osn-sd-ipa-03f-bidang-miring-campur.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-mudah.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-sedang.md`
 - [ ] `osn-sd-ipa-03f-bidang-miring-sulit.md`
@@ -318,7 +318,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03f-bidang-miring-sedang-sulit.md`
 
 **IPA-03g · Pesawat Sederhana: Roda Berporos** (fokus Kab)
-- [x] `osn-sd-ipa-03g-roda-berporos-campur.md`
+- [ ] `osn-sd-ipa-03g-roda-berporos-campur.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-mudah.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-sedang.md`
 - [ ] `osn-sd-ipa-03g-roda-berporos-sulit.md`
@@ -326,7 +326,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03g-roda-berporos-sedang-sulit.md`
 
 **IPA-03h · Energi & Bentuk-bentuknya (Kinetik, Potensial, Panas, Cahaya, Bunyi, Kimia, Listrik)** (fokus Kab)
-- [x] `osn-sd-ipa-03h-bentuk-energi-campur.md`
+- [ ] `osn-sd-ipa-03h-bentuk-energi-campur.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-mudah.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sedang.md`
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sulit.md`
@@ -334,7 +334,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03h-bentuk-energi-sedang-sulit.md`
 
 **IPA-03i · Perubahan Energi (Rantai Energi pada Alat)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03i-perubahan-energi-campur.md`
+- [ ] `osn-sd-ipa-03i-perubahan-energi-campur.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-mudah.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sedang.md`
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sulit.md`
@@ -342,7 +342,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03i-perubahan-energi-sedang-sulit.md`
 
 **IPA-03j · Listrik (Rangkaian Seri & Paralel)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03j-listrik-seri-paralel-campur.md`
+- [ ] `osn-sd-ipa-03j-listrik-seri-paralel-campur.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-mudah.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sedang.md`
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sulit.md`
@@ -350,7 +350,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03j-listrik-seri-paralel-sedang-sulit.md`
 
 **IPA-03k · Konduktor & Isolator Listrik** (fokus Kab)
-- [x] `osn-sd-ipa-03k-konduktor-isolator-campur.md`
+- [ ] `osn-sd-ipa-03k-konduktor-isolator-campur.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-mudah.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sedang.md`
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sulit.md`
@@ -358,7 +358,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03k-konduktor-isolator-sedang-sulit.md`
 
 **IPA-03l · Magnet (Sifat, Kutub, Jenis, Membuat Magnet)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-03l-magnet-campur.md`
+- [ ] `osn-sd-ipa-03l-magnet-campur.md`
 - [ ] `osn-sd-ipa-03l-magnet-mudah.md`
 - [ ] `osn-sd-ipa-03l-magnet-sedang.md`
 - [ ] `osn-sd-ipa-03l-magnet-sulit.md`
@@ -368,7 +368,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat (14 sub-bab)
 
 **IPA-04a · Sifat-sifat Cahaya (Merambat Lurus, Dipantulkan, Dibiaskan, Diuraikan)** (fokus Kab)
-- [x] `osn-sd-ipa-04a-sifat-cahaya-campur.md`
+- [ ] `osn-sd-ipa-04a-sifat-cahaya-campur.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-mudah.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sedang.md`
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sulit.md`
@@ -376,7 +376,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04a-sifat-cahaya-sedang-sulit.md`
 
 **IPA-04b · Cermin (Datar, Cekung, Cembung) — Sifat Bayangan** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-04b-cermin-campur.md`
+- [ ] `osn-sd-ipa-04b-cermin-campur.md`
 - [ ] `osn-sd-ipa-04b-cermin-mudah.md`
 - [ ] `osn-sd-ipa-04b-cermin-sedang.md`
 - [ ] `osn-sd-ipa-04b-cermin-sulit.md`
@@ -384,7 +384,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04b-cermin-sedang-sulit.md`
 
 **IPA-04c · Pembiasan Cahaya & Lensa (Cembung, Cekung)** (fokus Prov)
-- [x] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
+- [ ] `osn-sd-ipa-04c-lensa-pembiasan-campur.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-mudah.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang.md`
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sulit.md`
@@ -392,7 +392,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04c-lensa-pembiasan-sedang-sulit.md`
 
 **IPA-04d · Penguraian Cahaya (Prisma, Pelangi)** (fokus Prov)
-- [x] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
+- [ ] `osn-sd-ipa-04d-penguraian-cahaya-campur.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-mudah.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang.md`
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sulit.md`
@@ -400,7 +400,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04d-penguraian-cahaya-sedang-sulit.md`
 
 **IPA-04e · Sifat-sifat Bunyi (Sumber, Perambatan, Frekuensi)** (fokus Kab)
-- [x] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
+- [ ] `osn-sd-ipa-04e-sifat-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sulit.md`
@@ -408,7 +408,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04e-sifat-bunyi-sedang-sulit.md`
 
 **IPA-04f · Pemantulan Bunyi (Gema, Gaung)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
+- [ ] `osn-sd-ipa-04f-pemantulan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sulit.md`
@@ -416,7 +416,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04f-pemantulan-bunyi-sedang-sulit.md`
 
 **IPA-04g · Perambatan Bunyi di Padat/Cair/Gas** (fokus Kab)
-- [x] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
+- [ ] `osn-sd-ipa-04g-perambatan-bunyi-campur.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-mudah.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang.md`
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sulit.md`
@@ -424,7 +424,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04g-perambatan-bunyi-sedang-sulit.md`
 
 **IPA-04h · Suhu & Termometer** (fokus Kab)
-- [x] `osn-sd-ipa-04h-suhu-termometer-campur.md`
+- [ ] `osn-sd-ipa-04h-suhu-termometer-campur.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-mudah.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang.md`
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sulit.md`
@@ -432,7 +432,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04h-suhu-termometer-sedang-sulit.md`
 
 **IPA-04i · Perpindahan Panas (Konduksi, Konveksi, Radiasi)** (fokus Kab–Prov)
-- [x] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
+- [ ] `osn-sd-ipa-04i-perpindahan-panas-campur.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-mudah.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang.md`
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sulit.md`
@@ -440,7 +440,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04i-perpindahan-panas-sedang-sulit.md`
 
 **IPA-04j · Wujud Zat (Padat, Cair, Gas) & Sifatnya** (fokus Kab)
-- [x] `osn-sd-ipa-04j-wujud-zat-campur.md`
+- [ ] `osn-sd-ipa-04j-wujud-zat-campur.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-mudah.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sedang.md`
 - [ ] `osn-sd-ipa-04j-wujud-zat-sulit.md`

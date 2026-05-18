@@ -1,0 +1,2581 @@
+{
+  "title": "OSN SD · IPA · Sub-bab IPA-04b · Cermin (Datar, Cekung, Cembung)",
+  "theory": [
+    {
+      "title": "A. Konsep Dasar & Definisi",
+      "content": "**Cermin** adalah benda yang permukaannya halus dan mengkilap, sehingga dapat **memantulkan cahaya dengan teratur** (pemantulan teratur). Saat cahaya jatuh ke cermin, hampir seluruh cahaya dipantulkan kembali → membentuk bayangan.\n\n### Bahan Cermin\nCermin biasa dibuat dari **kaca bening** dengan lapisan tipis logam (perak atau aluminium) di bagian belakang. Lapisan logam inilah yang memantulkan cahaya secara efisien (>90% cahaya yang masuk dipantulkan).\n\n### Klasifikasi Cermin\nBerdasarkan bentuk permukaan pantulnya, cermin dibagi menjadi 3 jenis:\n\n1. **Cermin Datar** — permukaan rata.\n2. **Cermin Cekung (konkaf)** — permukaan melengkung ke dalam (seperti bagian dalam mangkok).\n3. **Cermin Cembung (konveks)** — permukaan melengkung ke luar (seperti bagian luar bola)."
+    },
+    {
+      "title": "B. Aturan Kunci & Sifat Bayangan",
+      "content": "### Hukum Pemantulan (berlaku untuk SEMUA cermin)\n- **Sudut datang = Sudut pantul** (diukur dari garis normal / tegak lurus permukaan).\n- Sinar datang, sinar pantul, dan garis normal terletak pada satu bidang.\n\n### Sifat Bayangan Tiap Cermin\n\n| Jenis Cermin | Sifat Bayangan | Aplikasi Utama |\n|--------------|----------------|----------------|\n| **Datar** | Maya · Tegak · Sama besar · Jarak bayangan = jarak benda · Kiri-kanan terbalik | Cermin rias, kaca dinding, kaca rumah |\n| **Cekung** | Beragam (bergantung jarak benda dari cermin): bisa maya tegak diperbesar, atau nyata terbalik (diperbesar/sama/diperkecil) · **MENGUMPULKAN cahaya** (konvergen) | Lampu sorot, antena parabola, cermin kosmetik (pembesar wajah), teleskop reflektor, tungku surya |\n| **Cembung** | SELALU: maya · tegak · diperkecil · sudut pandang luas · **MENYEBARKAN cahaya** (divergen) | Spion mobil/motor, cermin di tikungan jalan, cermin di toko/supermarket untuk pengawasan |\n\n### Maya vs Nyata (Bayangan)\n- **Bayangan maya (semu)**: terbentuk di belakang cermin, tidak bisa ditangkap layar. Bayangan yang kita lihat di cermin sehari-hari (cermin datar, cermin cembung).\n- **Bayangan nyata (sejati)**: terbentuk di depan cermin, bisa ditangkap layar (mis. bayangan terbalik dari cermin cekung pada jarak tertentu).\n\n### Pembagian Ruang pada Cermin Cekung (untuk Provinsi/Nasional)\nCermin cekung punya **titik fokus (F)** dan **pusat kelengkungan (2F)**. Letak benda menentukan sifat bayangan:\n\n| Letak Benda | Sifat Bayangan |\n|-------------|----------------|\n| Antara cermin dan F (jarak < F) | **Maya · tegak · diperbesar** (seperti lup wajah) |\n| Tepat di F | Bayangan di tak hingga (tidak terbentuk) |\n| Antara F dan 2F | Nyata · terbalik · **diperbesar** |\n| Tepat di 2F | Nyata · terbalik · **sama besar** |\n| Di luar 2F | Nyata · terbalik · **diperkecil** |"
+    },
+    {
+      "title": "C. Tipe Soal yang Sering Muncul di OSN",
+      "content": "- **Tipe 1: Identifikasi jenis cermin** — dari aplikasi, bentuk, atau ciri bayangan.\n- **Tipe 2: Sifat bayangan cermin datar** — maya, tegak, sama besar.\n- **Tipe 3: Aplikasi cermin** — di mana dipakai? (spion, lampu sorot, kaca rias).\n- **Tipe 4: Cermin cembung untuk pengawasan** — alasan dipakai (sudut pandang luas).\n- **Tipe 5: Cermin cekung mengumpulkan cahaya** — alasan dipakai di lampu sorot, antena parabola.\n- **Tipe 6: Letak benda di cermin cekung** — pengaruh ke sifat bayangan (untuk Prov/Nas)."
+    },
+    {
+      "title": "D. Strategi Penyelesaian per Tipe",
+      "content": "**Tipe 1 (Identifikasi):**\n- Lihat aplikasi → langsung tahu jenis:\n  - Spion → cembung\n  - Cermin di tikungan → cembung\n  - Kaca rias rumah → datar\n  - Lampu sorot mobil → cekung (sebagai reflektor)\n  - Antena parabola → cekung\n  - Cermin kosmetik (zoom wajah) → cekung\n\n**Tipe 2 (Cermin datar):** Hafalkan 4 sifat: **maya, tegak, sama besar, kiri-kanan terbalik**.\n\n**Tipe 4 (Cembung untuk pengawasan):** Karena sudut pandang **lebih luas** (memperkecil bayangan tapi mencakup area lebih besar).\n\n**Tipe 5 (Cekung mengumpulkan):** Karena bentuk lengkung **memfokuskan** sinar pantul ke satu titik (titik fokus F).\n\n**Tipe 6 (Letak benda cekung):** Gunakan tabel ruang. Jarak benda <F = bayangan maya tegak diperbesar (mis. lup wajah)."
+    },
+    {
+      "title": "E. Miskonsepsi Umum yang Harus Dihindari",
+      "content": "- ❌ **Salah:** \"Bayangan di cermin datar kebalikan atas-bawah.\"\n  ✅ **Benar:** Bayangan cermin datar TIDAK terbalik atas-bawah; HANYA terbalik kiri-kanan. (Itulah mengapa tulisan yang dibaca di cermin terbaca terbalik kiri-kanan, bukan atas-bawah.)\n\n- ❌ **Salah:** \"Spion mobil = cermin cekung.\"\n  ✅ **Benar:** Spion = **cermin cembung**. Bayangan terlihat lebih kecil tapi sudut pandang lebih luas. Ada peringatan \"**objects in mirror are closer than they appear**\" karena bayangan terlihat lebih jauh.\n\n- ❌ **Salah:** \"Cermin cekung selalu memperbesar bayangan.\"\n  ✅ **Benar:** Tergantung jarak benda. Hanya saat benda **lebih dekat dari titik fokus** maka bayangan maya diperbesar. Lebih jauh dari 2F → diperkecil.\n\n- ❌ **Salah:** \"Bayangan di cermin = nyata (real).\"\n  ✅ **Benar:** Bayangan di cermin datar dan cembung adalah **maya** — terbentuk di \"belakang\" cermin, tidak bisa ditangkap layar/kertas.\n\n- ❌ **Salah:** \"Bayangan tinggi badan di cermin lebih kecil dari aslinya.\"\n  ✅ **Benar:** Bayangan di cermin **datar** = SAMA BESAR dengan benda aslinya. Cuma terlihat kecil kalau cermin jauh — tapi ukurannya sebenarnya tetap.\n\n- ❌ **Salah:** \"Cermin cekung dan cembung sama saja.\"\n  ✅ **Benar:** Cekung **mengumpulkan** cahaya (konvergen, fokus nyata); Cembung **menyebarkan** cahaya (divergen, fokus maya). Sifat bayangan sangat berbeda."
+    },
+    {
+      "title": "F. Contoh Soal Terbimbing",
+      "content": "### Contoh Soal Terbimbing 1\n\n**Soal:** Cermin di spion sepeda motor membuat objek di belakang terlihat lebih kecil tetapi mencakup sudut pandang yang luas. Jenis cermin yang dipakai adalah...\n\n**Pilihan:**\nA. Cermin datar\nB. Cermin cekung\nC. Cermin cembung\nD. Cermin bola\n\n**Cara berpikir:**\n\n**Langkah 1: Identifikasi ciri.**\n> Bayangan lebih KECIL + sudut pandang LUAS.\n\n**Langkah 2: Cocokkan dengan jenis cermin.**\n> - Cermin datar: bayangan sama besar, sudut pandang sama.\n> - Cermin cekung: bayangan beragam (besar/kecil tergantung jarak), tapi sudut pandang sempit.\n> - Cermin cembung: bayangan SELALU kecil, sudut pandang LUAS — cocok!\n\n**Langkah 3: Jawaban.**\n> Cermin cembung.\n\n**Jawaban akhir:** **C. Cermin cembung**\n\n**💡 Insight:** Spion dirancang cembung untuk keselamatan — pengendara bisa lihat banyak kendaraan di belakang & samping sekaligus. Trade-off: jarak terlihat lebih jauh dari aslinya. Itulah peringatan \"objek lebih dekat dari yang terlihat\".\n\n---\n\n### Contoh Soal Terbimbing 2\n\n**Soal:** Saat seseorang berdiri di depan cermin datar setinggi 1 m, dia berdiri 50 cm dari cermin. Jarak bayangan dirinya dari cermin adalah...\n\n**Pilihan:**\nA. 25 cm\nB. 50 cm (jarak bayangan = jarak benda)\nC. 100 cm\nD. 200 cm\n\n**Cara berpikir:**\n\n**Langkah 1: Ingat sifat cermin datar.**\n> Cermin datar: bayangan maya, tegak, sama besar, dan **jarak bayangan = jarak benda dari cermin**.\n\n**Langkah 2: Aplikasikan ke soal.**\n> Benda (orang) 50 cm dari cermin → bayangan 50 cm di belakang cermin.\n\n**Langkah 3: Pilih jawaban.**\n> 50 cm.\n\n**Jawaban akhir:** **B. 50 cm (jarak bayangan = jarak benda)**\n\n**💡 Insight:** Total jarak antara orang dan bayangannya = 2 × jarak ke cermin = 100 cm dalam soal ini. Pertimbangan ini penting untuk desain ruangan: cermin di ruang kecil terasa membuat ruangan lebih luas karena membuat \"ruang ganda\" virtual.\n\n---\n\n### Contoh Soal Terbimbing 3\n\n**Soal:** Lampu sorot mobil menggunakan reflektor cermin cekung di belakang lampu. Mengapa cermin cekung digunakan?\n\n**Pilihan:**\nA. Karena lebih murah\nB. Karena cermin cekung mengumpulkan cahaya menjadi berkas paralel terang ke depan\nC. Karena cermin cekung menyebarkan cahaya\nD. Karena cermin cekung tidak mahal\n\n**Cara berpikir:**\n\n**Langkah 1: Apa fungsi reflektor di lampu mobil?**\n> Mengarahkan cahaya lampu ke depan, menerangi jalan jauh-jauh.\n\n**Langkah 2: Cermin apa yang bisa \"mengarahkan\" cahaya ke depan?**\n> Cermin cekung. Jika sumber cahaya (bohlam) ditempatkan di **titik fokus F** cermin cekung, sinar pantul akan keluar sejajar (paralel) ke depan → berkas cahaya terkonsentrasi.\n\n**Langkah 3: Pilih jawaban.**\n> Cermin cekung untuk mengumpulkan & arahkan cahaya.\n\n**Jawaban akhir:** **B. Karena cermin cekung mengumpulkan cahaya menjadi berkas paralel terang ke depan**\n\n**💡 Insight:** Prinsip ini sama dengan **antena parabola** (yang menerima sinyal dari atas dan mengumpulkan ke titik fokus) dan **teleskop reflektor** (yang mengumpulkan cahaya bintang dari ruang luas ke titik fokus). Cermin cekung = \"alat pengumpul\" energi cahaya/gelombang.\n\n---"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "subTopic": "Cermin Pemantul",
+      "level": "Kab",
+      "question": "Cermin adalah benda yang permukaan mengkilapnya berfungsi untuk...",
+      "options": {
+        "A": "Menyerap cahaya",
+        "B": "Memantulkan cahaya secara teratur",
+        "C": "Menghasilkan cahaya",
+        "D": "Menyimpan cahaya"
+      },
+      "answerKey": "B",
+      "concept": "Definisi cermin.",
+      "analysis": {
+        "A": "Salah. Itu benda gelap/hitam.",
+        "B": "Benar. Permukaan halus → pemantulan teratur → bayangan jelas.",
+        "C": "Salah. Cermin tidak bercahaya sendiri.",
+        "D": "Salah. Cahaya tidak disimpan."
+      },
+      "steps": [
+        "Cermin = pemantul cahaya.",
+        "**Hasil akhir:** Memantulkan cahaya secara teratur."
+      ],
+      "tips": "Cermin di rumah biasanya dilapisi **perak (Ag)** di belakang kaca. Bagian belakang kaca dicat hitam agar pantulan dari kaca tidak interferensi.\n---"
+    },
+    {
+      "number": 2,
+      "subTopic": "3 Jenis Cermin",
+      "level": "Kab",
+      "question": "Berdasarkan bentuk permukaannya, cermin dibedakan menjadi 3 jenis, yaitu...",
+      "options": {
+        "A": "Cermin merah, kuning, biru",
+        "B": "Cermin datar, cekung, cembung",
+        "C": "Cermin besar, sedang, kecil",
+        "D": "Cermin pagi, siang, malam"
+      },
+      "answerKey": "B",
+      "concept": "Klasifikasi 3 jenis cermin.",
+      "analysis": {
+        "A": "Salah. Bukan kriteria klasifikasi.",
+        "B": "Benar. Berdasarkan bentuk permukaan.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bentuk permukaan = 3 jenis.",
+        "**Hasil akhir:** Datar, cekung, cembung."
+      ],
+      "tips": "Cermin cekung = \"concave mirror\"; cermin cembung = \"convex mirror\". Ingat: **CE**kung lengkung ke da**LA**m, **CEM**bung lengkung ke **LU**ar.\n---"
+    },
+    {
+      "number": 3,
+      "subTopic": "Bentuk Cermin Datar",
+      "level": "Kab",
+      "question": "Cermin yang permukaan pantulnya rata (tidak melengkung) disebut cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Bulat"
+      },
+      "answerKey": "A",
+      "concept": "Identifikasi cermin datar.",
+      "analysis": {
+        "A": "Benar. Permukaan rata.",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Rata = datar.",
+        "**Hasil akhir:** Datar."
+      ],
+      "tips": "Cermin di kamar mandi, di lemari pakaian, di kaca rias — hampir semua cermin di rumah berukuran wajar adalah cermin datar.\n---"
+    },
+    {
+      "number": 4,
+      "subTopic": "Bentuk Cermin Cekung",
+      "level": "Kab",
+      "question": "Cermin yang permukaan pantulnya melengkung ke DALAM (seperti bagian dalam mangkok) disebut cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Berbentuk segitiga"
+      },
+      "answerKey": "B",
+      "concept": "Identifikasi cermin cekung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Melengkung ke dalam.",
+        "C": "Salah. Melengkung ke luar.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Melengkung ke dalam = cekung.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Sendok di rumah! Coba lihat bayangan di SISI DALAM sendok logam → itulah cermin cekung. Bayangan kamu tampak terbalik & diperkecil dari jarak normal.\n---"
+    },
+    {
+      "number": 5,
+      "subTopic": "Bentuk Cermin Cembung",
+      "level": "Kab",
+      "question": "Cermin yang permukaan pantulnya melengkung ke LUAR (seperti bagian luar bola) disebut cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Lurus"
+      },
+      "answerKey": "C",
+      "concept": "Identifikasi cermin cembung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Salah. Itu ke dalam.",
+        "C": "Benar. Melengkung ke luar.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Melengkung ke luar = cembung.",
+        "**Hasil akhir:** Cembung."
+      ],
+      "tips": "Sendok lagi! Sekarang lihat bayangan di SISI LUAR sendok (bagian belakangnya) → itulah cermin cembung. Bayangan kamu tampak tegak tapi diperkecil — sama persis dengan spion sepeda motor.\n---"
+    },
+    {
+      "number": 6,
+      "subTopic": "Sifat Cermin Datar 1",
+      "level": "Kab",
+      "question": "Sifat bayangan yang dihasilkan oleh cermin datar adalah...",
+      "options": {
+        "A": "Nyata, terbalik, sama besar",
+        "B": "Maya, tegak, sama besar",
+        "C": "Maya, terbalik, diperbesar",
+        "D": "Nyata, tegak, diperkecil"
+      },
+      "answerKey": "B",
+      "concept": "3 sifat bayangan cermin datar.",
+      "analysis": {
+        "A": "Salah. Itu cermin cekung pada posisi tertentu.",
+        "B": "Benar. 3 sifat khas cermin datar.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin datar: maya + tegak + sama besar.",
+        "**Hasil akhir:** Maya, tegak, sama besar."
+      ],
+      "tips": "Selain 3 sifat di atas, ada sifat ke-4: **kiri-kanan terbalik**. Itulah sebabnya tangan kanan kamu terlihat seperti tangan kiri di bayangan cermin.\n---"
+    },
+    {
+      "number": 7,
+      "subTopic": "Jarak Bayangan Cermin Datar",
+      "level": "Kab",
+      "question": "Jika kita berdiri 1 meter di depan cermin datar, jarak bayangan kita dari cermin adalah...",
+      "options": {
+        "A": "0,5 meter",
+        "B": "1 meter (sama dengan jarak benda)",
+        "C": "2 meter",
+        "D": "0 meter"
+      },
+      "answerKey": "B",
+      "concept": "Aturan jarak bayangan cermin datar.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Aturan cermin datar: jarak bayangan = jarak benda dari cermin.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Jarak benda dari cermin = 1 m.",
+        "Jarak bayangan dari cermin = 1 m (di belakang cermin).",
+        "**Hasil akhir:** 1 meter."
+      ],
+      "tips": "Total \"jarak\" antara kamu dan bayanganmu = 1 m (kamu ke cermin) + 1 m (cermin ke bayangan) = 2 m. Tapi bayangan itu maya — hanya tampak di belakang cermin.\n---"
+    },
+    {
+      "number": 8,
+      "subTopic": "Kiri Kanan Terbalik",
+      "level": "Kab",
+      "question": "Jika kita melambaikan tangan KANAN di depan cermin datar, bayangan kita di cermin akan melambaikan tangan...",
+      "options": {
+        "A": "Kanan (sama)",
+        "B": "Kiri (terbalik kiri-kanan)",
+        "C": "Tidak melambai",
+        "D": "Dua tangan sekaligus"
+      },
+      "answerKey": "B",
+      "concept": "Sifat kiri-kanan terbalik pada cermin datar.",
+      "analysis": {
+        "A": "Salah. Bayangan terbalik.",
+        "B": "Benar. Tangan kanan kita terlihat sebagai tangan kiri di bayangan (kiri-kanan terbalik).",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin datar: kiri-kanan terbalik.",
+        "**Hasil akhir:** Kiri."
+      ],
+      "tips": "Tulisan **AMBULANCE** di depan ambulance ditulis terbalik kiri-kanan supaya bisa dibaca normal di **spion mobil** orang yang ada di depannya (yang dilihat lewat cermin spionnya = terbalik balik → terbaca normal).\n---"
+    },
+    {
+      "number": 9,
+      "subTopic": "Cermin Cekung Mengumpulkan",
+      "level": "Kab",
+      "question": "Sifat utama cermin cekung terhadap berkas sinar paralel yang datang adalah...",
+      "options": {
+        "A": "Menyebarkan sinar",
+        "B": "Mengumpulkan sinar ke satu titik (titik fokus F) — disebut konvergen",
+        "C": "Tidak ada efek",
+        "D": "Mengubah warna sinar"
+      },
+      "answerKey": "B",
+      "concept": "Sifat konvergen cermin cekung.",
+      "analysis": {
+        "A": "Salah. Itu cermin cembung.",
+        "B": "Benar. Sinar paralel masuk → dipantulkan ke titik fokus.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin cekung = konvergen.",
+        "**Hasil akhir:** Mengumpulkan ke titik fokus."
+      ],
+      "tips": "Aplikasi: **antena parabola** mengumpulkan gelombang sinyal satelit ke titik fokus tempat receiver. **Tungku surya** mengumpulkan cahaya matahari ke titik fokus untuk memanaskan air/memasak.\n---"
+    },
+    {
+      "number": 10,
+      "subTopic": "Cermin Cembung Menyebarkan",
+      "level": "Kab",
+      "question": "Sifat utama cermin cembung terhadap berkas sinar paralel yang datang adalah...",
+      "options": {
+        "A": "Mengumpulkan sinar",
+        "B": "Menyebarkan sinar (divergen)",
+        "C": "Tidak ada efek",
+        "D": "Membentuk sinar pelangi"
+      },
+      "answerKey": "B",
+      "concept": "Sifat divergen cermin cembung.",
+      "analysis": {
+        "A": "Salah. Itu cermin cekung.",
+        "B": "Benar. Sinar paralel masuk → tersebar (seolah-olah dari titik fokus maya di belakang cermin).",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin cembung = divergen.",
+        "**Hasil akhir:** Menyebarkan."
+      ],
+      "tips": "Karena sinar tersebar, cermin cembung **memperkecil bayangan** tapi memperluas **sudut pandang** — cocok untuk pengawasan area luas.\n---"
+    },
+    {
+      "number": 11,
+      "subTopic": "Spion Sepeda Motor",
+      "level": "Kab",
+      "question": "Cermin spion (kaca pandang belakang) sepeda motor menggunakan jenis cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Bola"
+      },
+      "answerKey": "C",
+      "concept": "Aplikasi cermin cembung.",
+      "analysis": {
+        "A": "Salah. Sudut pandang sempit.",
+        "B": "Salah. Bayangan beragam, tidak konsisten.",
+        "C": "Benar. Bayangan kecil + sudut pandang luas → cocok untuk melihat lalu lintas belakang.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Butuh sudut pandang luas → cembung.",
+        "**Hasil akhir:** Cembung."
+      ],
+      "tips": "Coba lihat spion di motormu — pegang sendok dengan sisi LUARnya menghadap kamu, bandingkan. Bayangan kamu serupa: kecil tapi sudut pandang luas.\n---"
+    },
+    {
+      "number": 12,
+      "subTopic": "Cermin Rias",
+      "level": "Kab",
+      "question": "Cermin rias yang umum di kamar (yang menampilkan bayangan kita sama besar dengan ukuran asli) adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Bercat"
+      },
+      "answerKey": "A",
+      "concept": "Aplikasi cermin datar.",
+      "analysis": {
+        "A": "Benar. Bayangan sama besar, tegak, jelas → cocok untuk berdandan.",
+        "B": "Salah (kecuali cermin kosmetik khusus untuk pembesaran wajah).",
+        "C": "Salah. Bayangan terlalu kecil.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Bayangan sama besar = cermin datar.",
+        "**Hasil akhir:** Datar."
+      ],
+      "tips": "Cermin tinggi lebar di kamar = cermin datar. Cermin kosmetik pembesar untuk make-up detail = cermin cekung khusus (dengan jarak fokus tertentu).\n---"
+    },
+    {
+      "number": 13,
+      "subTopic": "Lampu Sorot Mobil",
+      "level": "Kab",
+      "question": "Reflektor di belakang bohlam lampu sorot (headlight) mobil menggunakan cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung (untuk mengumpulkan & arahkan cahaya paralel ke depan)",
+        "C": "Cembung",
+        "D": "Tidak ada reflektor"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cekung di lampu sorot.",
+      "analysis": {
+        "A": "Salah. Cahaya akan tersebar acak.",
+        "B": "Benar. Bohlam di titik fokus → sinar pantul keluar paralel ke depan → berkas cahaya terkonsentrasi & jauh.",
+        "C": "Salah. Justru menyebarkan.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Butuh cahaya terkonsentrasi & jauh.",
+        "Cermin cekung di belakang bohlam = solusi.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Lampu sorot pakai 2 jenis cahaya: **low beam** (sudut bawah, jangkauan dekat untuk dalam kota) & **high beam** (sudut horizontal, jangkauan jauh untuk jalan sepi). Posisi bohlam di reflektor menentukan arah berkas.\n---"
+    },
+    {
+      "number": 14,
+      "subTopic": "Antena Parabola",
+      "level": "Kab",
+      "question": "Antena parabola berbentuk lengkungan untuk menangkap sinyal TV satelit. Bentuk lengkungannya seperti cermin...",
+      "options": {
+        "A": "Cekung (mengumpulkan sinyal ke titik fokus tempat receiver)",
+        "B": "Cembung",
+        "C": "Datar",
+        "D": "Bersegi banyak"
+      },
+      "answerKey": "A",
+      "concept": "Aplikasi cermin cekung sebagai pengumpul gelombang.",
+      "analysis": {
+        "A": "Benar. Bentuk parabola = cermin cekung 3D yang mengumpulkan gelombang radio/satelit ke titik fokus.",
+        "B": "Salah. Justru menyebarkan.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Antena parabola = cermin cekung untuk gelombang.",
+        "Receiver di titik fokus mendapatkan sinyal terkonsentrasi.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Antena parabola juga dipakai astronom (radio teleskop), militer (radar), komunikasi satelit (downlink TV). Semua memanfaatkan prinsip cermin cekung.\n---"
+    },
+    {
+      "number": 15,
+      "subTopic": "Cermin di Tikungan Jalan",
+      "level": "Kab",
+      "question": "Cermin besar yang dipasang di pojok tikungan jalan agar pengendara bisa melihat kendaraan dari arah berlawanan adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung (sudut pandang luas)",
+        "D": "Plastik"
+      },
+      "answerKey": "C",
+      "concept": "Aplikasi cermin cembung untuk pengawasan.",
+      "analysis": {
+        "A": "Salah. Sudut pandang sempit.",
+        "B": "Salah. Bayangan tidak konsisten.",
+        "C": "Benar. Sudut pandang luas → bisa lihat banyak arah dalam 1 cermin.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Tikungan = butuh lihat banyak arah.",
+        "Sudut pandang luas = cermin cembung.",
+        "**Hasil akhir:** Cembung."
+      ],
+      "tips": "Cermin tikungan ukuran besar di Indonesia umumnya pakai cermin cembung dari **akrilik atau stainless steel** yang dilengkungkan. Lebih ringan & tahan cuaca dibanding kaca.\n---"
+    },
+    {
+      "number": 16,
+      "subTopic": "Bayangan di Air Tenang",
+      "level": "Kab",
+      "question": "Bayangan pohon di permukaan air danau yang tenang mirip dengan bayangan di cermin...",
+      "options": {
+        "A": "Datar (permukaan air tenang = cermin datar alami)",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Tidak ada bayangan"
+      },
+      "answerKey": "A",
+      "concept": "Permukaan air tenang sebagai cermin datar.",
+      "analysis": {
+        "A": "Benar. Air tenang permukaannya rata → pemantulan teratur → bayangan mirip cermin datar.",
+        "B": "Salah.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Permukaan rata + halus = cermin datar.",
+        "**Hasil akhir:** Datar."
+      ],
+      "tips": "Saat air berombak/beriak, permukaannya jadi kasar → pemantulan baur → bayangan tidak jelas. Foto refleksi danau paling indah saat air sangat tenang (pagi atau senja tanpa angin).\n---"
+    },
+    {
+      "number": 17,
+      "subTopic": "Bayangan Tegak",
+      "level": "Kab",
+      "question": "Bayangan kita di cermin datar di kamar adalah tegak (tidak terbalik atas-bawah). Hal ini karena cermin datar memiliki sifat bayangan...",
+      "options": {
+        "A": "Terbalik atas-bawah",
+        "B": "Tegak (tidak terbalik atas-bawah)",
+        "C": "Berputar 90°",
+        "D": "Tidak punya bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Sifat tegak bayangan cermin datar.",
+      "analysis": {
+        "A": "Salah. Cermin datar TIDAK membalik atas-bawah.",
+        "B": "Benar. Kepala tetap di atas, kaki tetap di bawah.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin datar = bayangan tegak (kepala-kaki sesuai).",
+        "**Hasil akhir:** Tegak."
+      ],
+      "tips": "Hanya KIRI-KANAN yang terbalik (tangan kanan asli = tangan kiri bayangan). Atas-bawah tetap. Ini sering jadi pertanyaan jebakan.\n---"
+    },
+    {
+      "number": 18,
+      "subTopic": "Maya vs Nyata",
+      "level": "Kab",
+      "question": "Bayangan di cermin datar adalah bayangan MAYA. Artinya...",
+      "options": {
+        "A": "Bayangan tidak ada",
+        "B": "Bayangan terbentuk di belakang cermin, tidak bisa ditangkap di layar atau kertas",
+        "C": "Bayangan berbeda warna",
+        "D": "Bayangan ada di depan cermin"
+      },
+      "answerKey": "B",
+      "concept": "Definisi bayangan maya.",
+      "analysis": {
+        "A": "Salah. Bayangan ada (kita lihat).",
+        "B": "Benar. Tampak di belakang cermin (di mana cermin tidak benar-benar ada bayangan), tidak bisa ditangkap layar.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Maya = terbentuk di belakang cermin, di mana sinar tidak benar-benar bertemu (hanya perpanjangan).",
+        "**Hasil akhir:** Di belakang cermin, tidak bisa ditangkap layar."
+      ],
+      "tips": "Coba: pegang cermin & layar putih di belakangnya. Bayangan kamu di cermin TIDAK akan muncul di layar — karena bayangan maya, sinar tidak benar-benar sampai ke belakang cermin.\n---"
+    },
+    {
+      "number": 19,
+      "subTopic": "Hukum Pemantulan",
+      "level": "Kab",
+      "question": "Pada pemantulan cahaya di cermin (datar maupun lengkung), hukum yang berlaku adalah...",
+      "options": {
+        "A": "Sudut datang > sudut pantul",
+        "B": "Sudut datang = sudut pantul (diukur dari garis normal)",
+        "C": "Sudut datang < sudut pantul",
+        "D": "Sudut datang tidak ada hubungannya"
+      },
+      "answerKey": "B",
+      "concept": "Hukum pemantulan untuk semua cermin.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Aturan dasar berlaku untuk cermin datar dan lengkung.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Hukum pemantulan = sudut datang = sudut pantul.",
+        "Diukur dari garis normal di titik datang.",
+        "**Hasil akhir:** Sudut datang = sudut pantul."
+      ],
+      "tips": "Pada cermin lengkung, garis normal berbeda arah di tiap titik (mengarah ke pusat lengkung). Tapi hukum sudut datang = pantul tetap berlaku di tiap titik.\n---"
+    },
+    {
+      "number": 20,
+      "subTopic": "Permukaan Halus Cermin",
+      "level": "Kab",
+      "question": "Cermin bisa menghasilkan bayangan jelas karena permukaannya...",
+      "options": {
+        "A": "Kasar dan menyerap",
+        "B": "Halus dan mengkilap (untuk pemantulan teratur)",
+        "C": "Berlubang-lubang",
+        "D": "Bergelombang"
+      },
+      "answerKey": "B",
+      "concept": "Syarat permukaan cermin.",
+      "analysis": {
+        "A": "Salah. Itu pemantulan baur.",
+        "B": "Benar. Pemantulan teratur → bayangan jelas.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin = pemantulan teratur.",
+        "Butuh permukaan halus + mengkilap.",
+        "**Hasil akhir:** Halus dan mengkilap."
+      ],
+      "tips": "Permukaan kaca cermin **lebih halus dari rambut manusia** — secara mikroskopis sangat datar. Hanya pada skala kecil ini pemantulan teratur sempurna terjadi.\n---"
+    },
+    {
+      "number": 21,
+      "subTopic": "Cermin di Toko",
+      "level": "Kab",
+      "question": "Cermin besar yang dipasang di atas kasir supermarket untuk mengawasi seluruh area toko adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung (sudut pandang luas)",
+        "D": "Tidak ada"
+      },
+      "answerKey": "C",
+      "concept": "Aplikasi cermin cembung di toko.",
+      "analysis": {
+        "A": "Salah. Sudut pandang sempit.",
+        "B": "Salah.",
+        "C": "Benar. 1 cermin → lihat banyak rak/lorong sekaligus.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Pengawasan area luas → cermin cembung.",
+        "**Hasil akhir:** Cembung."
+      ],
+      "tips": "Cermin cembung di toko biasanya berbentuk **setengah bola** atau **kuartal bola** — sudut pandang sangat luas hingga 180° atau lebih.\n---"
+    },
+    {
+      "number": 22,
+      "subTopic": "Cermin Kosmetik Pembesar",
+      "level": "Kab",
+      "question": "Cermin kosmetik di salon yang memperbesar wajah saat dipakai berdandan (untuk pemakaian alis, kulit) adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung (saat wajah dekat dari titik fokus, bayangan diperbesar)",
+        "C": "Cembung",
+        "D": "Berlapis emas"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cekung untuk pembesaran.",
+      "analysis": {
+        "A": "Salah. Tidak memperbesar.",
+        "B": "Benar. Saat wajah dekat (< F), bayangan maya, tegak, diperbesar.",
+        "C": "Salah. Justru memperkecil.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Memperbesar = cermin cekung pada jarak < F.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Cermin pembesar untuk dokter gigi juga sama prinsipnya — cermin cekung kecil pada gagang panjang untuk melihat detail gigi.\n---"
+    },
+    {
+      "number": 23,
+      "subTopic": "Bayangan Spion Terlihat Kecil",
+      "level": "Kab",
+      "question": "Mengapa kendaraan di belakang yang terlihat di spion mobil tampak lebih jauh dari kenyataan?",
+      "options": {
+        "A": "Karena cermin spion = cermin datar",
+        "B": "Karena cermin spion = cermin cembung yang membuat bayangan diperkecil & terlihat lebih jauh",
+        "C": "Karena ada kabut",
+        "D": "Karena pengemudi mengantuk"
+      },
+      "answerKey": "B",
+      "concept": "Persepsi jarak di cermin cembung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Bayangan kecil → otak menginterpretasi sebagai \"jauh\".",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cembung = bayangan diperkecil.",
+        "Persepsi jarak = lebih jauh dari sebenarnya.",
+        "**Hasil akhir:** Cermin cembung memperkecil bayangan."
+      ],
+      "tips": "Itulah peringatan pada spion mobil USA: **\"Objects in mirror are closer than they appear\"** — pengemudi perlu sadar agar tidak menyusul terlalu cepat.\n---"
+    },
+    {
+      "number": 24,
+      "subTopic": "Letak Bayangan Cermin Datar",
+      "level": "Kab",
+      "question": "Bayangan yang kita lihat di cermin datar sebenarnya terbentuk di...",
+      "options": {
+        "A": "Di permukaan cermin",
+        "B": "Di belakang cermin (di tempat di mana cermin tidak benar-benar ada — itu lokasi bayangan maya)",
+        "C": "Di depan cermin",
+        "D": "Di mata kita"
+      },
+      "answerKey": "B",
+      "concept": "Lokasi bayangan maya cermin datar.",
+      "analysis": {
+        "A": "Salah. Bayangan ada \"di kedalaman\" sama dengan benda di depan.",
+        "B": "Benar. Bayangan maya tampak di belakang cermin pada jarak yang sama dengan jarak benda dari cermin.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bayangan maya cermin datar = di belakang cermin.",
+        "**Hasil akhir:** Di belakang cermin."
+      ],
+      "tips": "Itulah sebabnya cermin di ruang kecil membuat ruangan terasa lebih besar — secara visual menambah \"ruang virtual\" di belakang cermin sama besar dengan ruang asli.\n---"
+    },
+    {
+      "number": 25,
+      "subTopic": "Mengapa Cermin Tikungan",
+      "level": "Kab",
+      "question": "Mengapa di tikungan tajam jalan raya sering dipasang cermin cembung besar?",
+      "options": {
+        "A": "Sebagai hiasan",
+        "B": "Agar pengendara bisa melihat kendaraan dari arah yang tidak terlihat langsung — sudut pandang luas membantu mencegah tabrakan",
+        "C": "Untuk kompetisi seni",
+        "D": "Untuk memantulkan matahari"
+      },
+      "answerKey": "B",
+      "concept": "Tujuan keselamatan cermin tikungan.",
+      "analysis": {
+        "A": "Salah. Bukan estetika.",
+        "B": "Benar. Cermin cembung mencakup area yang luas → pengendara bisa melihat sebelum melewati tikungan buta.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Tikungan tajam = jarak pandang terhalang.",
+        "Cermin cembung memperluas jarak pandang.",
+        "**Hasil akhir:** Untuk keselamatan & jangkauan pandang luas."
+      ],
+      "tips": "Cermin tikungan paling banyak dipasang di **gang sempit perumahan** (untuk lihat kendaraan dari arah berlawanan), **gedung parkir** (di sudut sempit), **jalan pegunungan berliku**.\n---"
+    },
+    {
+      "number": 26,
+      "subTopic": "Periskop",
+      "level": "Kab",
+      "question": "Periskop kapal selam (untuk melihat di atas permukaan air saat kapal selam terendam) memakai 2 cermin pada sudut...",
+      "options": {
+        "A": "Saling sejajar",
+        "B": "Saling tegak lurus (90°) dengan sudut datang 45° pada masing-masing",
+        "C": "Saling membentuk 30°",
+        "D": "Hanya 1 cermin"
+      },
+      "answerKey": "B",
+      "concept": "Konstruksi periskop.",
+      "analysis": {
+        "A": "Salah. Sinar akan terus berputar.",
+        "B": "Benar. Cermin pertama membelokkan cahaya 90°, cermin kedua membelokkan lagi 90° → cahaya bergerak dari atas ke mata di bawah.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cahaya dari atas → cermin 1 (45°) → belok 90° ke bawah.",
+        "Cermin 2 (45°) → belok 90° ke mata.",
+        "**Hasil akhir:** Tegak lurus dengan sudut 45°."
+      ],
+      "tips": "Periskop sederhana bisa dibuat di rumah dengan 2 cermin kecil + tabung karton bekas tisu gulung. Eksperimen IPA SD klasik.\n---"
+    },
+    {
+      "number": 27,
+      "subTopic": "Periskop di Kapal Selam",
+      "level": "Kab",
+      "question": "Manfaat utama periskop di kapal selam adalah...",
+      "options": {
+        "A": "Memantulkan torpedo",
+        "B": "Memungkinkan awak kapal melihat ke atas permukaan laut tanpa menaikkan kapal selam",
+        "C": "Mendengar bunyi di luar",
+        "D": "Mengukur kedalaman"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi periskop di kapal selam.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Strategis untuk pengintaian.",
+        "C": "Salah. Itu sonar.",
+        "D": "Salah. Itu pengukur tekanan."
+      },
+      "steps": [
+        "Periskop = tabung panjang dengan 2 cermin untuk lihat ke atas.",
+        "**Hasil akhir:** Lihat permukaan tanpa harus naik."
+      ],
+      "tips": "Periskop modern banyak digantikan **kamera elektronik + serat optik** — lebih ringan, fleksibel, dan bisa rekam.\n---"
+    },
+    {
+      "number": 28,
+      "subTopic": "Cermin Lipat 2 Buah",
+      "level": "Kab",
+      "question": "Jika 2 cermin datar dilipat membentuk sudut tertentu, bayangan suatu benda yang diletakkan di depan keduanya akan menjadi...",
+      "options": {
+        "A": "Tidak ada bayangan",
+        "B": "Lebih dari 1 (banyak bayangan, tergantung sudut)",
+        "C": "Selalu 2 saja",
+        "D": "Selalu 1"
+      },
+      "answerKey": "B",
+      "concept": "Multiple images dari cermin lipat.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Jumlah bayangan = (360°/sudut) − 1.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "2 cermin lipat → pantulan ganda.",
+        "Jumlah bayangan tergantung sudut.",
+        "**Hasil akhir:** Banyak bayangan."
+      ],
+      "tips": "Coba di rumah: 2 cermin kecil yang bisa berdiri sendiri. Buat sudut 90° → kamu lihat 3 bayangan. Buat sudut lebih kecil → bayangan makin banyak.\n---"
+    },
+    {
+      "number": 29,
+      "subTopic": "Cermin Lipat 90°",
+      "level": "Kab",
+      "question": "Bila 2 cermin datar membentuk sudut 90°, jumlah bayangan yang terbentuk adalah...",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answerKey": "C",
+      "concept": "Hitungan jumlah bayangan cermin lipat.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Salah.",
+        "C": "Benar. Rumus: n = (360°/90°) − 1 = 4 − 1 = 3.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Rumus: n = (360°/θ) − 1.",
+        "n = (360/90) − 1 = 3.",
+        "**Hasil akhir:** 3 bayangan."
+      ],
+      "tips": "Coba sendiri: 2 cermin tegak lurus + sebuah pensil. Hitung jumlah bayangan pensil → akan ada 3.\n---"
+    },
+    {
+      "number": 30,
+      "subTopic": "Cermin Lipat 60°",
+      "level": "Kab",
+      "question": "Bila 2 cermin datar membentuk sudut 60°, jumlah bayangan yang terbentuk adalah...",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "answerKey": "C",
+      "concept": "Aplikasi rumus jumlah bayangan.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Salah.",
+        "C": "Benar. n = (360°/60°) − 1 = 6 − 1 = 5.",
+        "D": "Salah."
+      },
+      "steps": [
+        "n = (360/60) − 1 = 5.",
+        "**Hasil akhir:** 5 bayangan."
+      ],
+      "tips": "**Kaleidoskop** (mainan teropong dengan pola simetris) menggunakan 3 cermin pada sudut 60° → menghasilkan banyak bayangan simetris yang indah.\n---"
+    },
+    {
+      "number": 31,
+      "subTopic": "Rumus Jumlah Bayangan",
+      "level": "Kab",
+      "question": "Rumus untuk menghitung jumlah bayangan yang terbentuk oleh 2 cermin datar yang dilipat dengan sudut θ adalah...",
+      "options": {
+        "A": "n = 360° + θ",
+        "B": "n = (360° / θ) − 1",
+        "C": "n = θ / 360°",
+        "D": "n = 360° × θ"
+      },
+      "answerKey": "B",
+      "concept": "Rumus standar untuk multiple images.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Rumus standar.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Hafal: n = (360°/θ) − 1.",
+        "**Hasil akhir:** (360°/θ) − 1."
+      ],
+      "tips": "Rumus berlaku jika 360° habis dibagi θ. Misal θ = 90° → n = 3, θ = 72° → n = 4, θ = 60° → n = 5. Sudut yang lebih kecil → bayangan lebih banyak.\n---"
+    },
+    {
+      "number": 32,
+      "subTopic": "Cermin Dokter Gigi",
+      "level": "Kab",
+      "question": "Cermin kecil pada gagang yang dipakai dokter gigi untuk melihat gigi belakang pasien biasanya adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung (membesarkan gambar gigi)",
+        "C": "Cembung",
+        "D": "Berwarna emas"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cekung di kedokteran gigi.",
+      "analysis": {
+        "A": "Salah. Tidak memperbesar.",
+        "B": "Benar. Dokter butuh lihat detail gigi → cermin cekung memperbesar bayangan saat di jarak dekat.",
+        "C": "Salah. Memperkecil bayangan.",
+        "D": "Salah (bukan kriteria)."
+      },
+      "steps": [
+        "Butuh perbesaran = cermin cekung.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Cermin dokter gigi modern banyak yang punya **lampu LED** terintegrasi + kepala bisa diputar. Untuk gambar lebih detail, dokter gigi modern pakai kamera intraoral mini.\n---"
+    },
+    {
+      "number": 33,
+      "subTopic": "Lift Gedung Cermin",
+      "level": "Kab",
+      "question": "Cermin yang dipasang di dinding dalam lift gedung biasanya bertujuan untuk...",
+      "options": {
+        "A": "Hiasan saja",
+        "B": "Memperluas ruang visual lift agar penumpang tidak terlalu merasa sesak",
+        "C": "Mengukur tinggi penumpang",
+        "D": "Memantulkan suara"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin datar untuk persepsi ruang.",
+      "analysis": {
+        "A": "Salah (kurang tepat sebagai tujuan utama).",
+        "B": "Benar. Cermin datar = \"ruang ganda\" virtual → lift terasa kurang sesak.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin datar membuat ruangan terlihat 2× lebih luas.",
+        "**Hasil akhir:** Perluas ruang visual."
+      ],
+      "tips": "Trik ini juga dipakai di restoran kecil, toilet umum, kamar tidur kecil — cermin besar di dinding membuat ruangan terasa lebih lapang.\n---"
+    },
+    {
+      "number": 34,
+      "subTopic": "Cermin Gym",
+      "level": "Kab",
+      "question": "Cermin besar di gym (tempat fitness) berfungsi agar...",
+      "options": {
+        "A": "Pengunjung gym bisa melihat & mengoreksi postur tubuh saat berolahraga",
+        "B": "Mengukur kekuatan otot",
+        "C": "Mengubah berat badan",
+        "D": "Memantulkan musik"
+      },
+      "answerKey": "A",
+      "concept": "Aplikasi cermin datar di gym.",
+      "analysis": {
+        "A": "Benar. Cermin datar lebar = pelatih virtual untuk koreksi gerakan.",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin datar = umpan balik visual untuk postur.",
+        "**Hasil akhir:** Koreksi postur."
+      ],
+      "tips": "Cermin di studio dansa & tari ballet juga sama fungsinya — penari bisa melihat formasi & gerakan langsung tanpa rekaman.\n---"
+    },
+    {
+      "number": 35,
+      "subTopic": "Teleskop Reflektor",
+      "level": "Kab",
+      "question": "Teleskop besar untuk astronomi (mis. teleskop Hubble di antariksa) memakai cermin sebagai komponen utamanya. Cermin tersebut adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung besar (untuk mengumpulkan cahaya bintang dari area luas ke titik fokus)",
+        "C": "Cembung",
+        "D": "Kaca biasa"
+      },
+      "answerKey": "B",
+      "concept": "Cermin cekung pada teleskop reflektor.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Mengumpulkan cahaya redup bintang → fokus → bayangan terang.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Teleskop reflektor (Newton) = cermin cekung besar.",
+        "**Hasil akhir:** Cekung besar."
+      ],
+      "tips": "Teleskop Hubble pakai cermin cekung diameter 2,4 meter. Teleskop James Webb (peluncuran 2021) pakai 18 cermin segmented bersama-sama membentuk cermin cekung 6,5 meter.\n---"
+    },
+    {
+      "number": 36,
+      "subTopic": "Cermin Datar Lipat Buku",
+      "level": "Kab",
+      "question": "Cermin lipat 2 buah seperti yang ada di buku (tutup buka), saat ditutup membentuk sudut...",
+      "options": {
+        "A": "0° (cermin pertama menempel cermin kedua, tidak ada celah)",
+        "B": "90°",
+        "C": "180° (cermin terbuka penuh, jadi sejajar)",
+        "D": "Tidak ada sudut"
+      },
+      "answerKey": "A",
+      "concept": "Konsep sudut cermin lipat.",
+      "analysis": {
+        "A": "Benar. Saat tertutup penuh, sudut antara cermin = 0°.",
+        "B": "Salah. Itu sudut tegak.",
+        "C": "Salah. Itu sudut datar (cermin sejajar).",
+        "D": "Salah."
+      },
+      "steps": [
+        "Tertutup penuh = 0°.",
+        "**Hasil akhir:** 0°."
+      ],
+      "tips": "Pada sudut 0°, cermin tidak bisa menampilkan bayangan benda karena tidak ada celah cahaya masuk.\n---"
+    },
+    {
+      "number": 37,
+      "subTopic": "Lift Cermin Datar",
+      "level": "Kab",
+      "question": "Cermin yang umum dipasang di gedung perkantoran (di lobby & koridor) untuk membuat ruangan tampak luas adalah cermin...",
+      "options": {
+        "A": "Datar lebar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Hologram"
+      },
+      "answerKey": "A",
+      "concept": "Aplikasi cermin datar di gedung.",
+      "analysis": {
+        "A": "Benar. Bayangan sama besar + ruang ganda virtual.",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Perluas ruang visual = cermin datar.",
+        "**Hasil akhir:** Datar lebar."
+      ],
+      "tips": "Lobby hotel besar sering pakai cermin datar setinggi langit-langit untuk efek megah. Trik desain interior klasik.\n---"
+    },
+    {
+      "number": 38,
+      "subTopic": "Lampu Senter",
+      "level": "Kab",
+      "question": "Di dalam kepala senter, di belakang bohlam ada lapisan mengkilap berbentuk seperti cawan. Bagian ini adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung (mengumpulkan cahaya bohlam ke arah depan)",
+        "C": "Cembung",
+        "D": "Berwarna"
+      },
+      "answerKey": "B",
+      "concept": "Cermin cekung di senter.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Bohlam di titik fokus → pantulan keluar paralel → berkas terang ke depan.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Senter butuh berkas terkonsentrasi ke depan.",
+        "Cermin cekung di belakang bohlam = solusi.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Sama dengan prinsip lampu sorot mobil. Senter, lampu mobil, lampu suluh — semua pakai cermin cekung di belakang sumber cahaya.\n---"
+    },
+    {
+      "number": 39,
+      "subTopic": "Cermin Tangan Dokter THT",
+      "level": "Kab",
+      "question": "Dokter THT (Telinga-Hidung-Tenggorokan) memakai cermin kecil bergagang panjang untuk melihat tenggorokan pasien. Cermin ini adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung (perbesar tampilan)",
+        "C": "Cembung (tampilan kecil)",
+        "D": "Cermin warna"
+      },
+      "answerKey": "B",
+      "concept": "Cermin cekung untuk pemeriksaan medis.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Untuk lihat detail dalam mulut/tenggorokan → cermin cekung memperbesar.",
+        "C": "Salah. Memperkecil tampilan.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Pemeriksaan medis butuh detail = cermin cekung.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Cermin THT kuno digantikan oleh **endoscope** modern — kamera fiber optik kecil yang bisa melihat ke organ dalam dengan layar HD.\n---"
+    },
+    {
+      "number": 40,
+      "subTopic": "Dashboard Cermin",
+      "level": "Kab",
+      "question": "Cermin spion bagian dalam mobil (di tengah atas kaca depan) untuk melihat ke belakang melalui kaca belakang adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Lampu"
+      },
+      "answerKey": "A",
+      "concept": "Cermin spion dalam mobil.",
+      "analysis": {
+        "A": "Benar. Spion tengah dalam = cermin datar (jarak terlihat sebenarnya).",
+        "B": "Salah.",
+        "C": "Salah (itu spion samping).",
+        "D": "Salah."
+      },
+      "steps": [
+        "Spion samping = cermin cembung.",
+        "Spion tengah dalam = cermin datar.",
+        "**Hasil akhir:** Datar."
+      ],
+      "tips": "Mengapa spion dalam datar tapi samping cembung? Spion dalam pengemudi sudah cukup dekat → datar bagus untuk akurasi jarak. Spion samping perlu cakupan luas → cembung.\n---"
+    },
+    {
+      "number": 41,
+      "subTopic": "Cermin Sferis",
+      "level": "Kab",
+      "question": "Cermin cekung dan cembung biasanya berupa lengkung permukaan bola (bagian dari bola). Cermin seperti ini disebut...",
+      "options": {
+        "A": "Cermin datar",
+        "B": "Cermin sferis (lengkung bola)",
+        "C": "Cermin segi enam",
+        "D": "Cermin lurus"
+      },
+      "answerKey": "B",
+      "concept": "Istilah cermin lengkung bola.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. \"Sphere\" = bola. Permukaan diambil dari bagian bola.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bagian permukaan bola = sferis.",
+        "**Hasil akhir:** Sferis."
+      ],
+      "tips": "Selain sferis, ada juga **cermin parabolik** (permukaan = irisan parabola). Cermin parabolik lebih akurat untuk fokus sempurna (di teleskop, antena), tapi lebih sulit dibuat.\n---"
+    },
+    {
+      "number": 42,
+      "subTopic": "Cermin Konvergen vs Divergen",
+      "level": "Kab",
+      "question": "Cermin yang sifatnya KONVERGEN (mengumpulkan cahaya ke titik) adalah cermin...",
+      "options": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Cembung",
+        "D": "Plat datar tebal"
+      },
+      "answerKey": "B",
+      "concept": "Istilah konvergen vs divergen.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Konvergen = mengumpulkan = cekung.",
+        "C": "Salah. Divergen = menyebarkan.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Konvergen = cermin cekung.",
+        "Divergen = cermin cembung.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Istilah \"konvergen/divergen\" juga dipakai untuk lensa: lensa cembung = konvergen (mirip cermin cekung dari aspek mengumpulkan); lensa cekung = divergen.\n---"
+    },
+    {
+      "number": 43,
+      "subTopic": "Cermin Galileo",
+      "level": "Kab",
+      "question": "Galileo Galilei adalah orang pertama yang membuat teleskop modern dengan menggabungkan...",
+      "options": {
+        "A": "2 cermin datar",
+        "B": "2 lensa cembung",
+        "C": "1 lensa cembung + 1 lensa cekung",
+        "D": "Banyak cermin lipat"
+      },
+      "answerKey": "C",
+      "concept": "Sejarah teleskop refraktor (lensa).",
+      "analysis": {
+        "A": "Salah. Teleskop Galileo pakai LENSA, bukan cermin.",
+        "B": "Salah (itu teleskop Kepler).",
+        "C": "Benar. Teleskop Galileo asli (1609).",
+        "D": "Salah."
+      },
+      "steps": [
+        "Teleskop Galileo = refraktor (pakai lensa).",
+        "Cembung di depan + cekung di belakang.",
+        "**Hasil akhir:** Cembung + cekung."
+      ],
+      "tips": "Teleskop **REFRAKTOR** (pakai lensa) ditemukan tahun 1608. Teleskop **REFLEKTOR** (pakai cermin) ditemukan oleh Newton tahun 1668 — cermin cekung sebagai pengumpul.\n---"
+    },
+    {
+      "number": 44,
+      "subTopic": "Pemantulan di Air Bergelombang",
+      "level": "Kab",
+      "question": "Saat air danau beriak/bergelombang, bayangan pohon di air...",
+      "options": {
+        "A": "Tetap jelas seperti cermin datar",
+        "B": "Menjadi kabur/tidak jelas karena pemantulan baur (permukaan tidak rata)",
+        "C": "Berputar",
+        "D": "Hilang sama sekali"
+      },
+      "answerKey": "B",
+      "concept": "Pemantulan baur saat permukaan tidak rata.",
+      "analysis": {
+        "A": "Salah. Hanya pada air tenang.",
+        "B": "Benar. Permukaan kasar → sinar pantul acak → bayangan tersebar.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Air berombak = permukaan kasar.",
+        "Pemantulan baur → bayangan kabur.",
+        "**Hasil akhir:** Kabur (pemantulan baur)."
+      ],
+      "tips": "Fotografi refleksi terbaik diambil saat air danau sangat tenang (pagi hari sebelum angin/perahu). Foto refleksi sempurna terlihat seperti dunia simetris atas-bawah.\n---"
+    },
+    {
+      "number": 45,
+      "subTopic": "Bayangan Tinggi di Cermin Datar",
+      "level": "Kab",
+      "question": "Tinggi bayangan kita di cermin datar dibandingkan tinggi tubuh asli...",
+      "options": {
+        "A": "Lebih kecil",
+        "B": "Sama besar",
+        "C": "Lebih besar",
+        "D": "Bertambah tinggi seiring waktu"
+      },
+      "answerKey": "B",
+      "concept": "Sifat sama besar bayangan cermin datar.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Sifat khas cermin datar: bayangan sama besar dengan benda.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin datar = bayangan sama besar.",
+        "**Hasil akhir:** Sama besar."
+      ],
+      "tips": "Itu sebabnya kita bisa mengukur tinggi badan dengan cermin (kalau cermin cukup tinggi). Cermin minimal setengah tinggi badan untuk bisa melihat dari kepala ke kaki — fakta matematis dari geometri pemantulan.\n---"
+    },
+    {
+      "number": 46,
+      "subTopic": "Pemantulan Teratur vs Baur",
+      "level": "Kab",
+      "question": "Permukaan kertas putih tidak bisa dipakai sebagai cermin karena pemantulannya bersifat...",
+      "options": {
+        "A": "Teratur (seperti cermin)",
+        "B": "Baur/difus (cahaya tersebar ke berbagai arah)",
+        "C": "Menyerap semua cahaya",
+        "D": "Memancarkan cahaya sendiri"
+      },
+      "answerKey": "B",
+      "concept": "Pemantulan baur kertas.",
+      "analysis": {
+        "A": "Salah. Hanya cermin atau permukaan sangat halus.",
+        "B": "Benar. Kertas terlihat kasar pada skala mikroskopis → pantulan tersebar.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Kertas = permukaan kasar mikroskopis.",
+        "Pemantulan baur → bayangan tidak jelas.",
+        "**Hasil akhir:** Baur/difus."
+      ],
+      "tips": "Walau pemantulan baur, kertas putih memantulkan banyak cahaya (~80%) → terlihat terang. Hitam pekat hanya memantulkan ~5%. Hampir tidak ada bahan yang memantul 0% (cosmik hitam pekat) atau 100% (cermin sempurna).\n---"
+    },
+    {
+      "number": 47,
+      "subTopic": "Letak Bayangan Cermin Datar Detail",
+      "level": "Kab",
+      "question": "Saat kita berdiri 2 meter di depan cermin datar, bayangan kita terlihat berjarak...",
+      "options": {
+        "A": "1 meter dari kita",
+        "B": "2 meter dari kita (di permukaan cermin)",
+        "C": "4 meter dari kita (2m kita ke cermin + 2m cermin ke bayangan)",
+        "D": "6 meter dari kita"
+      },
+      "answerKey": "C",
+      "concept": "Jarak total kita ke bayangan.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Salah. Bayangan bukan di permukaan cermin.",
+        "C": "Benar. Kita 2 m ke cermin + bayangan 2 m di belakang cermin = 4 m total.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Kita ke cermin = 2 m.",
+        "Cermin ke bayangan = 2 m (sama jaraknya).",
+        "Total = 4 m.",
+        "**Hasil akhir:** 4 m."
+      ],
+      "tips": "Walau jarak total = 4 m, kita tetap fokuskan mata pada jarak ini, bukan 2 m. Itulah sebabnya pengoperasian mata saat lihat ke cermin = melihat objek \"jauh\" — bukan permukaan cermin.\n---"
+    },
+    {
+      "number": 48,
+      "subTopic": "Cermin Pengamanan",
+      "level": "Kab",
+      "question": "Mengapa cermin cembung dipakai di pojok-pojok tikungan untuk pengamanan, BUKAN cermin datar?",
+      "options": {
+        "A": "Cermin cembung lebih murah",
+        "B": "Cermin datar lebih murah, tapi sudut pandangnya terbatas; cermin cembung memberi sudut pandang lebih luas walau bayangan kecil",
+        "C": "Cermin cembung lebih berat",
+        "D": "Cermin datar tidak bisa dipasang di luar ruangan"
+      },
+      "answerKey": "B",
+      "concept": "Trade-off sudut pandang vs ukuran bayangan.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Untuk keselamatan, pandang luas lebih penting daripada akurasi ukuran.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Tikungan butuh lihat banyak arah → sudut pandang luas.",
+        "Cermin cembung menang.",
+        "**Hasil akhir:** Cembung untuk sudut pandang luas."
+      ],
+      "tips": "Trade-off ini = inti desain optik. Tidak ada cermin \"terbaik mutlak\" — tergantung kebutuhan: cermin datar untuk berdandan, cembung untuk pengawasan, cekung untuk perbesaran.\n---"
+    },
+    {
+      "number": 49,
+      "subTopic": "Cermin Lebar Ruang Tamu",
+      "level": "Kab",
+      "question": "Cermin lebar setinggi langit-langit yang dipasang di ruang tamu rumah untuk membuat ruangan terasa lebih besar adalah cermin...",
+      "options": {
+        "A": "Cekung",
+        "B": "Cembung",
+        "C": "Datar (sama besar + perluas ruang virtual)",
+        "D": "Bercat warna"
+      },
+      "answerKey": "C",
+      "concept": "Aplikasi desain interior cermin datar.",
+      "analysis": {
+        "A": "Salah. Bayangan distorted.",
+        "B": "Salah. Bayangan terlalu kecil & distorted.",
+        "C": "Benar. Sama besar + tampak natural + perluas ruang virtual.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Untuk perluas ruang visual & tampilan natural = cermin datar.",
+        "**Hasil akhir:** Datar."
+      ],
+      "tips": "Trik desain interior: tempatkan cermin di dinding yang berhadapan dengan jendela → cahaya alami terpantul masuk → ruangan lebih terang & terasa lebih luas. Win-win.\n---"
+    },
+    {
+      "number": 50,
+      "subTopic": "Sintesis 3 Cermin",
+      "level": "Kab",
+      "question": "Pernyataan PALING TEPAT tentang 3 jenis cermin (datar, cekung, cembung) adalah...",
+      "options": {
+        "A": "Ketiganya menghasilkan bayangan yang sama",
+        "B": "Cermin datar (bayangan sama besar untuk berdandan), cermin cekung (mengumpulkan cahaya untuk lampu sorot/teleskop/zoom wajah), cermin cembung (menyebarkan cahaya untuk pengamatan area luas/spion)",
+        "C": "Hanya cermin datar yang berguna",
+        "D": "Cermin cekung dan cembung sama saja"
+      },
+      "answerKey": "B",
+      "concept": "Sintesis 3 jenis cermin & aplikasinya.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Tiap jenis punya peran khusus.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bedakan sifat: datar (sama besar) · cekung (konvergen, fokus) · cembung (divergen, luas).",
+        "Bedakan aplikasi: berdandan · sorot/zoom · pengawasan.",
+        "**Hasil akhir:** Tiap cermin punya sifat & aplikasi berbeda."
+      ],
+      "tips": "Ingat dengan \"**Cara Calon Engineer**\": **C**ermin **D**atar untuk dandanan; **C**ermin **CE**kung untuk fokus cahaya (CE/cekung mengumpulkan ke titik fokus); **C**ermin **CEM**bung untuk pengaMatan area luas.\n---"
+    },
+    {
+      "number": 51,
+      "subTopic": "Titik Fokus (F)",
+      "level": "Prov",
+      "question": "Pada cermin cekung, semua sinar paralel yang datang akan dipantulkan menuju satu titik yang disebut...",
+      "options": {
+        "A": "Pusat optik",
+        "B": "Titik fokus (F)",
+        "C": "Titik tengah cermin",
+        "D": "Titik refleksi"
+      },
+      "answerKey": "B",
+      "concept": "Definisi titik fokus.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Tempat sinar paralel berkumpul setelah dipantulkan.",
+        "C": "Salah. Itu pusat geometris.",
+        "D": "Salah (bukan istilah baku)."
+      },
+      "steps": [
+        "Sinar paralel → cermin cekung → kumpul di titik F.",
+        "**Hasil akhir:** Titik fokus (F)."
+      ],
+      "tips": "Jarak F dari cermin disebut **jarak fokus (f)**. Pada cermin sferis, f = R/2 (R = jari-jari kelengkungan).\n---"
+    },
+    {
+      "number": 52,
+      "subTopic": "Pusat Kelengkungan",
+      "level": "Prov",
+      "question": "Pada cermin sferis (lengkung bola), titik pusat dari bola yang membentuk cermin disebut...",
+      "options": {
+        "A": "Titik fokus (F)",
+        "B": "Pusat kelengkungan (M atau 2F)",
+        "C": "Titik vertex",
+        "D": "Titik balik"
+      },
+      "answerKey": "B",
+      "concept": "Konsep pusat kelengkungan.",
+      "analysis": {
+        "A": "Salah. F = setengah jarak ke pusat kelengkungan.",
+        "B": "Benar. Pusat dari bola sferis yang membentuk cermin. Jarak M dari cermin = R (jari-jari).",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Pusat kelengkungan = pusat bola = M.",
+        "Letak M = 2F dari cermin.",
+        "**Hasil akhir:** Pusat kelengkungan (M atau 2F)."
+      ],
+      "tips": "Sinar yang datang melalui titik M selalu dipantulkan kembali ke M sendiri (sinar tegak lurus permukaan cermin = arah balik).\n---"
+    },
+    {
+      "number": 53,
+      "subTopic": "Hubungan f dan R",
+      "level": "Prov",
+      "question": "Hubungan antara jarak fokus (f) dan jari-jari kelengkungan (R) pada cermin sferis adalah...",
+      "options": {
+        "A": "f = R",
+        "B": "f = R/2 (jarak fokus = setengah jari-jari kelengkungan)",
+        "C": "f = 2R",
+        "D": "f = 0"
+      },
+      "answerKey": "B",
+      "concept": "Rumus geometri cermin sferis.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Rumus standar untuk cermin sferis.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "F berada di tengah-tengah antara cermin dan M.",
+        "f = R/2.",
+        "**Hasil akhir:** f = R/2."
+      ],
+      "tips": "Contoh: cermin cekung dengan R = 20 cm → f = 10 cm. Letak F = 10 cm di depan cermin; letak M = 20 cm di depan cermin.\n---"
+    },
+    {
+      "number": 54,
+      "subTopic": "Sinar Paralel ke F",
+      "level": "Prov",
+      "question": "Sinar paralel yang datang ke cermin cekung akan dipantulkan...",
+      "options": {
+        "A": "Sejajar dengan sinar datang",
+        "B": "Menuju titik fokus (F)",
+        "C": "Menuju pusat kelengkungan (M)",
+        "D": "Tidak dipantulkan"
+      },
+      "answerKey": "B",
+      "concept": "Sinar istimewa 1 pada cermin cekung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Sinar utama 1: paralel → F (pantul).",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Sinar paralel sumbu utama → setelah pantul → menuju F.",
+        "**Hasil akhir:** Menuju F."
+      ],
+      "tips": "3 sinar utama untuk diagram cermin cekung: (1) paralel → F, (2) lewat F → paralel, (3) lewat M → balik sendiri.\n---"
+    },
+    {
+      "number": 55,
+      "subTopic": "Sinar dari F",
+      "level": "Prov",
+      "question": "Sinar yang datang ke cermin cekung melewati titik fokus (F) akan dipantulkan...",
+      "options": {
+        "A": "Menuju F lagi",
+        "B": "Sejajar dengan sumbu utama (paralel)",
+        "C": "Menuju M",
+        "D": "Tegak lurus cermin"
+      },
+      "answerKey": "B",
+      "concept": "Sinar istimewa 2 pada cermin cekung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Sinar dari F → setelah pantul → keluar paralel.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Kebalikan sinar 1: dari F → paralel keluar.",
+        "**Hasil akhir:** Sejajar sumbu utama."
+      ],
+      "tips": "Itulah prinsip lampu sorot — bohlam di titik F → sinar keluar paralel ke depan → berkas terkonsentrasi.\n---"
+    },
+    {
+      "number": 56,
+      "subTopic": "Sinar dari M",
+      "level": "Prov",
+      "question": "Sinar yang datang ke cermin cekung melewati pusat kelengkungan (M) akan dipantulkan kembali...",
+      "options": {
+        "A": "Sejajar",
+        "B": "Menuju F",
+        "C": "Melalui M sendiri (kembali ke arah datangnya)",
+        "D": "Tegak lurus"
+      },
+      "answerKey": "C",
+      "concept": "Sinar istimewa 3 pada cermin cekung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Salah.",
+        "C": "Benar. Sinar yang lewat M = tegak lurus permukaan cermin → dipantulkan kembali ke jalur yang sama.",
+        "D": "Salah (sebagian — itu deskripsi tapi belum jawaban)."
+      },
+      "steps": [
+        "Lewat M = tegak lurus cermin → balik ke arah yang sama.",
+        "**Hasil akhir:** Balik ke M."
+      ],
+      "tips": "3 sinar utama ini = \"alat melukis\" diagram pembentukan bayangan. Cukup pakai 2 sinar untuk menentukan letak bayangan dari benda.\n---"
+    },
+    {
+      "number": 57,
+      "subTopic": "Benda di Ruang I (Cekung)",
+      "level": "Prov",
+      "question": "Bila benda diletakkan di antara cermin cekung dan titik fokus F (jarak < f), sifat bayangannya adalah...",
+      "options": {
+        "A": "Nyata, terbalik, sama besar",
+        "B": "Maya, tegak, diperbesar (di belakang cermin)",
+        "C": "Nyata, terbalik, diperkecil",
+        "D": "Tidak ada bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Pembentukan bayangan ruang I cermin cekung.",
+      "analysis": {
+        "A": "Salah. Itu di 2F.",
+        "B": "Benar. Inilah prinsip lup wajah / cermin kosmetik / cermin dokter gigi.",
+        "C": "Salah. Itu di luar 2F.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Ruang I (< F) → bayangan maya, tegak, diperbesar.",
+        "**Hasil akhir:** Maya, tegak, diperbesar."
+      ],
+      "tips": "Cermin kosmetik pembesar wajah dirancang agar wajah berada di ruang I (lebih dekat dari F). Jika ditarik terlalu jauh, bayangan berubah jadi terbalik & nyata.\n---"
+    },
+    {
+      "number": 58,
+      "subTopic": "Benda di Ruang II (Cekung)",
+      "level": "Prov",
+      "question": "Bila benda diletakkan di antara F dan 2F (ruang II) pada cermin cekung, sifat bayangannya adalah...",
+      "options": {
+        "A": "Maya, tegak, diperbesar",
+        "B": "Nyata, terbalik, diperbesar",
+        "C": "Nyata, terbalik, diperkecil",
+        "D": "Maya, terbalik, sama besar"
+      },
+      "answerKey": "B",
+      "concept": "Bayangan di ruang II.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Bayangan di luar 2F.",
+        "C": "Salah.",
+        "D": "Salah (bayangan maya selalu tegak)."
+      },
+      "steps": [
+        "Ruang II (F-2F) → bayangan nyata, terbalik, diperbesar di luar 2F.",
+        "**Hasil akhir:** Nyata, terbalik, diperbesar."
+      ],
+      "tips": "Aplikasi: **proyektor film** (benda = film slide di antara F-2F → bayangan diperbesar di layar). Cermin cekung dengan benda di ruang II = \"proyektor cermin\".\n---"
+    },
+    {
+      "number": 59,
+      "subTopic": "Benda di 2F (Cekung)",
+      "level": "Prov",
+      "question": "Bila benda diletakkan tepat di pusat kelengkungan (2F) pada cermin cekung, sifat bayangannya adalah...",
+      "options": {
+        "A": "Maya, tegak",
+        "B": "Nyata, terbalik, sama besar dengan benda (di 2F juga)",
+        "C": "Nyata, terbalik, diperbesar",
+        "D": "Tidak ada bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Bayangan di pusat kelengkungan.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Posisi spesial: bayangan = benda dalam ukuran & jaraknya juga di 2F.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Benda di 2F → bayangan di 2F dengan sama besar.",
+        "**Hasil akhir:** Nyata, terbalik, sama besar."
+      ],
+      "tips": "Inilah satu-satunya posisi cermin cekung di mana bayangan nyata sama besar dengan benda. Posisi di antara dua ekstrem (diperbesar vs diperkecil).\n---"
+    },
+    {
+      "number": 60,
+      "subTopic": "Benda di Luar 2F (Cekung)",
+      "level": "Prov",
+      "question": "Bila benda diletakkan jauh di luar pusat kelengkungan 2F pada cermin cekung, sifat bayangannya adalah...",
+      "options": {
+        "A": "Maya, tegak, diperbesar",
+        "B": "Nyata, terbalik, diperkecil",
+        "C": "Nyata, terbalik, sama besar",
+        "D": "Tidak ada bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Bayangan di luar 2F.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Posisi jauh → bayangan kecil di antara F-2F.",
+        "C": "Salah. Itu di 2F.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Benda jauh (> 2F) → bayangan diperkecil di ruang F-2F.",
+        "**Hasil akhir:** Nyata, terbalik, diperkecil."
+      ],
+      "tips": "Aplikasi: **teleskop reflektor** — objek di \"tak hingga\" (bintang) → bayangan kecil tepat di titik fokus → diperbesar lagi dengan lensa mata teleskop.\n---"
+    },
+    {
+      "number": 61,
+      "subTopic": "Titik Fokus Cermin Cembung",
+      "level": "Prov",
+      "question": "Pada cermin cembung, titik fokus terletak di...",
+      "options": {
+        "A": "Di depan cermin (di mana sinar pantul berkumpul)",
+        "B": "Di belakang cermin (titik perpotongan PERPANJANGAN sinar pantul; titik maya)",
+        "C": "Di permukaan cermin",
+        "D": "Tidak ada titik fokus"
+      },
+      "answerKey": "B",
+      "concept": "Titik fokus maya cermin cembung.",
+      "analysis": {
+        "A": "Salah. Itu cermin cekung.",
+        "B": "Benar. Karena cermin cembung menyebarkan sinar, perpanjangan sinar terbentuk titik fokus virtual di belakang cermin.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin cembung divergen.",
+        "Sinar pantul menyebar → perpanjangannya bertemu di titik fokus maya di belakang cermin.",
+        "**Hasil akhir:** Titik fokus maya di belakang cermin."
+      ],
+      "tips": "Karena F-nya maya, jarak fokus cermin cembung biasanya ditulis **negatif** (f = −) dalam rumus optik. Tanda minus = \"di belakang cermin\".\n---"
+    },
+    {
+      "number": 62,
+      "subTopic": "Bayangan Cermin Cembung",
+      "level": "Prov",
+      "question": "Untuk SEMUA posisi benda di depan cermin cembung, sifat bayangannya adalah...",
+      "options": {
+        "A": "Selalu nyata, terbalik",
+        "B": "Selalu maya, tegak, diperkecil (tidak peduli jarak benda)",
+        "C": "Beragam tergantung jarak",
+        "D": "Tidak ada bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Sifat tetap bayangan cermin cembung.",
+      "analysis": {
+        "A": "Salah. Cermin cembung tidak pernah hasilkan bayangan nyata untuk benda biasa.",
+        "B": "Benar. Sifat konsisten cermin cembung di semua jarak.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin cembung divergen.",
+        "Bayangan SELALU maya, tegak, diperkecil.",
+        "**Hasil akhir:** Selalu maya, tegak, diperkecil."
+      ],
+      "tips": "Inilah yang membuat cermin cembung \"predictable\" — sifat selalu sama. Beda dengan cermin cekung yang sifat bayangannya berubah-ubah.\n---"
+    },
+    {
+      "number": 63,
+      "subTopic": "Diagram Sinar",
+      "level": "Prov",
+      "question": "Untuk melukis pembentukan bayangan di cermin cekung secara akurat, dibutuhkan paling sedikit...",
+      "options": {
+        "A": "1 sinar saja",
+        "B": "2 dari 3 sinar utama (paralel→F, F→paralel, M→balik)",
+        "C": "10 sinar",
+        "D": "Tidak perlu sinar"
+      },
+      "answerKey": "B",
+      "concept": "Konstruksi diagram bayangan.",
+      "analysis": {
+        "A": "Salah. Tidak cukup untuk menentukan titik perpotongan.",
+        "B": "Benar. Dua sinar yang berbeda akan berpotongan di satu titik = letak bayangan.",
+        "C": "Tidak perlu sebanyak itu.",
+        "D": "Salah."
+      },
+      "steps": [
+        "2 garis berbeda → potong di 1 titik = bayangan.",
+        "**Hasil akhir:** 2 sinar utama."
+      ],
+      "tips": "Sinar utama 1 & 2 paling sering dipakai (paralel→F dan F→paralel). Sinar 3 (M→balik) sebagai verifikasi.\n---"
+    },
+    {
+      "number": 64,
+      "subTopic": "Letak Wajah Cermin Pembesar",
+      "level": "Prov",
+      "question": "Saat memakai cermin kosmetik pembesar wajah, agar bayangan diperbesar & jelas, wajah harus berada di...",
+      "options": {
+        "A": "Lebih jauh dari titik fokus F",
+        "B": "Lebih dekat dari titik fokus F (di ruang I)",
+        "C": "Tepat di titik F",
+        "D": "Sangat jauh dari cermin"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi ruang I cermin cekung.",
+      "analysis": {
+        "A": "Salah. Bayangan jadi terbalik / kecil.",
+        "B": "Benar. Posisi ini menghasilkan bayangan maya, tegak, diperbesar.",
+        "C": "Salah. Bayangan di tak hingga (tidak jelas).",
+        "D": "Salah."
+      },
+      "steps": [
+        "Pembesaran wajah tegak = ruang I.",
+        "**Hasil akhir:** Lebih dekat dari F."
+      ],
+      "tips": "Coba di rumah: pakai sisi DALAM sendok logam sebagai cermin cekung. Saat sendok jauh dari wajah → bayangan terbalik & kecil. Tarik perlahan dekat → bayangan jadi tegak & diperbesar saat melewati titik F.\n---"
+    },
+    {
+      "number": 65,
+      "subTopic": "Teleskop Reflektor Newton",
+      "level": "Prov",
+      "question": "Teleskop reflektor Newton untuk astronomi memakai cermin cekung besar untuk...",
+      "options": {
+        "A": "Memperkecil bintang",
+        "B": "Mengumpulkan cahaya redup dari bintang yang sangat jauh ke titik fokus, lalu diperbesar dengan lensa mata",
+        "C": "Sebagai cermin rias astronom",
+        "D": "Mengukur jarak bintang"
+      },
+      "answerKey": "B",
+      "concept": "Prinsip teleskop reflektor.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cahaya dari \"tak hingga\" (bintang sangat jauh) terfokus di F → bayangan kecil tapi terang → lensa mata memperbesar.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin cekung besar menangkap cahaya dari area luas.",
+        "Fokus di F → diperbesar dengan lensa mata.",
+        "**Hasil akhir:** Mengumpulkan cahaya bintang."
+      ],
+      "tips": "Diameter cermin teleskop = \"kunci\" — semakin besar diameter, semakin banyak cahaya tertangkap, semakin redup bintang yang bisa dilihat. Teleskop hobby 200 mm, teleskop riset 10 m, teleskop antariksa Hubble 2,4 m.\n---"
+    },
+    {
+      "number": 66,
+      "subTopic": "Lensa Fish-eye Kamera",
+      "level": "Prov",
+      "question": "Lensa \"fish-eye\" pada kamera (atau spion all-around) memberi sudut pandang sangat luas (sampai 180°). Prinsip ini analog dengan cermin...",
+      "options": {
+        "A": "Cermin datar",
+        "B": "Cermin cembung (mengkrunsi & menyebar sudut pandang)",
+        "C": "Cermin cekung",
+        "D": "Tidak ada hubungan"
+      },
+      "answerKey": "B",
+      "concept": "Analogi optik fish-eye dengan cermin cembung.",
+      "analysis": {
+        "A": "Salah. Sudut pandang biasa.",
+        "B": "Benar. Cembung punya sudut pandang luas, sama seperti fish-eye lensa.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Sudut pandang luas + distorsi = analog cermin cembung.",
+        "**Hasil akhir:** Cermin cembung."
+      ],
+      "tips": "Fish-eye lens di kamera memang lensa cekung kuat (bentuknya seperti mata ikan, jadi nama \"fish-eye\"). Memberi efek distorsi karakteristik tapi cakupan luar biasa luas.\n---"
+    },
+    {
+      "number": 67,
+      "subTopic": "Cermin Parabolik",
+      "level": "Prov",
+      "question": "Cermin pada lampu sorot mobil & antena parabola idealnya berbentuk **parabolik** (bukan sferis biasa). Mengapa?",
+      "options": {
+        "A": "Lebih murah",
+        "B": "Cermin parabolik menghasilkan fokus titik sempurna untuk sinar paralel — sferis ada **aberasi sferis** (fokus tidak tepat)",
+        "C": "Lebih ringan",
+        "D": "Lebih indah"
+      },
+      "answerKey": "B",
+      "concept": "Cermin parabolik vs sferis.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Geometri parabola memberi titik fokus presisi.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Parabolik = fokus tepat untuk sinar paralel.",
+        "Sferis = ada aberasi → fokus tersebar.",
+        "**Hasil akhir:** Fokus presisi (parabolik)."
+      ],
+      "tips": "Cermin sferis lebih mudah dibuat secara massal (mesin pengasah otomatis). Cermin parabolik lebih sulit (perlu ground khusus) tapi lebih akurat untuk aplikasi presisi.\n---"
+    },
+    {
+      "number": 68,
+      "subTopic": "Pembesaran (M)",
+      "level": "Prov",
+      "question": "Pembesaran bayangan (M) didefinisikan sebagai...",
+      "options": {
+        "A": "M = tinggi bayangan × tinggi benda",
+        "B": "M = tinggi bayangan / tinggi benda",
+        "C": "M = tinggi bayangan + tinggi benda",
+        "D": "M = tinggi benda / tinggi bayangan"
+      },
+      "answerKey": "B",
+      "concept": "Definisi pembesaran.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Rasio bayangan terhadap benda.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "M = h_bayangan / h_benda.",
+        "Bisa juga M = jarak bayangan / jarak benda (besarannya).",
+        "**Hasil akhir:** M = h_bayangan / h_benda."
+      ],
+      "tips": "**M > 1** = diperbesar. **M = 1** = sama besar. **M < 1** = diperkecil. Untuk cermin cekung, M bisa lebih dari 1 atau kurang. Untuk cermin cembung, M selalu < 1.\n---"
+    },
+    {
+      "number": 69,
+      "subTopic": "Pembesaran Cermin Cekung Bervariasi",
+      "level": "Prov",
+      "question": "Pada cermin cekung, pembesaran bayangan (M) memiliki sifat...",
+      "options": {
+        "A": "Selalu sama persis 1",
+        "B": "Bisa lebih dari 1 (diperbesar) atau kurang dari 1 (diperkecil), tergantung jarak benda",
+        "C": "Selalu kurang dari 1",
+        "D": "Selalu nol"
+      },
+      "answerKey": "B",
+      "concept": "Pembesaran cermin cekung yang bervariasi.",
+      "analysis": {
+        "A": "Salah. Hanya di posisi 2F.",
+        "B": "Benar. Tergantung di ruang berapa benda berada.",
+        "C": "Salah.",
+        "D": "Salah."
+      },
+      "steps": [
+        "Cermin cekung: ruang I (>1), 2F (=1), > 2F (<1).",
+        "**Hasil akhir:** Bervariasi."
+      ],
+      "tips": "Itulah fleksibilitas cermin cekung — bisa berfungsi sebagai pembesar (cermin kosmetik), reproduksi sama besar (di 2F), atau pengecilan & terbalik (proyektor cermin).\n---"
+    },
+    {
+      "number": 70,
+      "subTopic": "Pembesaran Cermin Cembung",
+      "level": "Prov",
+      "question": "Pada cermin cembung, pembesaran bayangan (M)...",
+      "options": {
+        "A": "Selalu lebih besar dari 1",
+        "B": "Selalu kurang dari 1 (diperkecil, untuk semua jarak benda)",
+        "C": "Sama dengan 1",
+        "D": "Bisa nol"
+      },
+      "answerKey": "B",
+      "concept": "Pembesaran tetap cermin cembung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Tidak peduli jarak benda, bayangan selalu diperkecil.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin cembung: bayangan selalu diperkecil.",
+        "**Hasil akhir:** Selalu < 1."
+      ],
+      "tips": "Itulah trade-off cermin cembung: bayangan kecil + sudut pandang luas. Untuk pengawasan, ini ideal.\n---"
+    },
+    {
+      "number": 71,
+      "subTopic": "Bayangan Terbalik di Ruang II",
+      "level": "Prov",
+      "question": "Mengapa bayangan benda yang ditaruh di antara F dan 2F pada cermin cekung TERBALIK (kepala-kaki)?",
+      "options": {
+        "A": "Karena bayangan maya",
+        "B": "Karena sinar dari atas benda dipantulkan ke bawah & sebaliknya — di luar cermin, bayangan terbentuk dengan posisi atas-bawah terbalik",
+        "C": "Karena cermin berputar",
+        "D": "Karena cahaya berputar"
+      },
+      "answerKey": "B",
+      "concept": "Mekanisme bayangan terbalik nyata.",
+      "analysis": {
+        "A": "Salah. Bayangannya justru nyata.",
+        "B": "Benar. Bayangan nyata terbalik atas-bawah.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Sinar dari titik tinggi benda → pantul ke titik rendah di bayangan.",
+        "Sinar dari titik rendah benda → pantul ke titik tinggi di bayangan.",
+        "Hasil: bayangan terbalik.",
+        "**Hasil akhir:** Sinar silang menghasilkan bayangan terbalik."
+      ],
+      "tips": "Sama dengan prinsip kamera & mata kita — bayangan di retina sebenarnya terbalik! Otak kita membalik kembali secara otomatis.\n---"
+    },
+    {
+      "number": 72,
+      "subTopic": "Aplikasi Tungku Surya",
+      "level": "Prov",
+      "question": "Tungku surya (solar cooker) yang dapat memasak makanan tanpa bahan bakar menggunakan...",
+      "options": {
+        "A": "Cermin datar besar",
+        "B": "Cermin cekung besar / kumpulan cermin yang membentuk lengkung cekung — mengumpulkan cahaya matahari ke titik fokus berisi panci",
+        "C": "Cermin cembung besar",
+        "D": "Tidak pakai cermin"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cekung sebagai pengumpul energi surya.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Energi matahari terkonsentrasi → suhu tinggi → memasak.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Tungku surya = cermin cekung + fokus = panas terkonsentrasi.",
+        "**Hasil akhir:** Cermin cekung mengumpulkan."
+      ],
+      "tips": "Tungku surya ada banyak desain: parabola tunggal (paling efisien), box solar cooker, dan **Fresnel mirror** (banyak cermin datar yang bersama-sama bertindak seperti cermin cekung).\n---"
+    },
+    {
+      "number": 73,
+      "subTopic": "Teleskop Cassegrain",
+      "level": "Prov",
+      "question": "Beberapa teleskop modern (mis. teleskop Hubble) memakai 2 cermin: cermin cekung BESAR di belakang + cermin CEMBUNG kecil di depan untuk mengirim cahaya ke mata pengamat. Sistem ini disebut...",
+      "options": {
+        "A": "Teleskop refraktor",
+        "B": "Teleskop Cassegrain (kombinasi cermin cekung + cermin cembung)",
+        "C": "Teleskop Galileo",
+        "D": "Mikroskop"
+      },
+      "answerKey": "B",
+      "concept": "Teleskop Cassegrain.",
+      "analysis": {
+        "A": "Salah. Itu pakai lensa.",
+        "B": "Benar. Cermin cembung di depan mengirim cahaya kembali ke lubang di tengah cermin cekung → mata pengamat di belakang.",
+        "C": "Salah. Pakai lensa.",
+        "D": "Salah."
+      },
+      "steps": [
+        "2 cermin (cekung + cembung) = Cassegrain.",
+        "**Hasil akhir:** Cassegrain."
+      ],
+      "tips": "Keuntungan Cassegrain: tabung teleskop bisa pendek walau jarak fokus efektif panjang → portabel. Hubble Space Telescope = teleskop Cassegrain modifikasi.\n---"
+    },
+    {
+      "number": 74,
+      "subTopic": "Lampu Studio Foto",
+      "level": "Prov",
+      "question": "Lampu studio fotografi yang memberi cahaya terang & terarah ke subjek pemotretan biasanya memakai reflektor...",
+      "options": {
+        "A": "Cermin datar",
+        "B": "Cermin cekung (untuk konsentrasi cahaya ke subjek)",
+        "C": "Cermin cembung",
+        "D": "Cermin berpola"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cekung di fotografi.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Reflektor cekung di belakang bohlam → cahaya terarah & terkonsentrasi.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Butuh cahaya terkonsentrasi & terarah = cermin cekung.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Fotografer profesional pakai berbagai aksesori cahaya: **softbox** (mendifusi cahaya jadi lembut), **umbrella** (memantulkan cahaya), **snoot** (mengkonsentrasi cahaya sangat sempit). Semua memakai prinsip pemantulan & difusi.\n---"
+    },
+    {
+      "number": 75,
+      "subTopic": "Spion Truk",
+      "level": "Prov",
+      "question": "Truk besar sering memiliki spion samping yang sangat besar dengan bentuk cembung. Sebabnya...",
+      "options": {
+        "A": "Hiasan",
+        "B": "Truk butuh sudut pandang lebih luas dari sedan biasa untuk pengamatan blind spot — cermin cembung memberi sudut pandang sangat luas walau bayangan diperkecil",
+        "C": "Lebih murah",
+        "D": "Lebih ringan"
+      },
+      "answerKey": "B",
+      "concept": "Aplikasi cermin cembung di truk.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Truk panjang & lebar → banyak blind spot → butuh sudut pandang ekstra luas.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Truk panjang → blind spot luas.",
+        "Cermin cembung besar = solusi keselamatan.",
+        "**Hasil akhir:** Sudut pandang luas untuk blind spot."
+      ],
+      "tips": "Truk-truk besar di Eropa & Indonesia ada juga \"**fresnel lens**\" di sisi pintu — lensa plastik tipis dengan pola lingkaran konsentrik yang membantu pengemudi lihat blind spot bawah-samping kanan.\n---"
+    },
+    {
+      "number": 76,
+      "subTopic": "Cermin Hidung Pesawat",
+      "level": "Prov",
+      "question": "Pada beberapa pesawat terbang & lampu sorot besar, dipakai cermin parabolik. Bentuk parabolik berbeda dari sferis karena...",
+      "options": {
+        "A": "Lebih bulat",
+        "B": "Parabolik = irisan parabola (kurva geometri spesifik); sferis = irisan lingkaran. Parabolik fokus presisi, sferis ada aberasi",
+        "C": "Berwarna",
+        "D": "Sama saja"
+      },
+      "answerKey": "B",
+      "concept": "Cermin parabolik vs sferis (tegas).",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Parabola ≠ lingkaran/bola.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Sferis = potongan bola.",
+        "Parabolik = potongan parabola.",
+        "**Hasil akhir:** Geometri berbeda, fokus presisi parabolik."
+      ],
+      "tips": "Untuk diameter cermin kecil & f panjang, cermin sferis cukup baik (aberasi minim). Untuk diameter besar & f pendek, parabolik wajib (aberasi sferis besar pada sferis).\n---"
+    },
+    {
+      "number": 77,
+      "subTopic": "Aberasi Sferis",
+      "level": "Prov",
+      "question": "Pada cermin sferis cekung besar, sinar paralel yang mengenai bagian tepi cermin TIDAK terfokus tepat di F (sedikit lebih dekat ke cermin). Cacat ini disebut...",
+      "options": {
+        "A": "Pembiasan",
+        "B": "Aberasi sferis (spherical aberration)",
+        "C": "Dispersi",
+        "D": "Polarisasi"
+      },
+      "answerKey": "B",
+      "concept": "Cacat optik cermin sferis.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cacat khas cermin/lensa berbentuk sferis.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Sferis tidak fokus sempurna di pinggir.",
+        "Cacat ini = aberasi sferis.",
+        "**Hasil akhir:** Aberasi sferis."
+      ],
+      "tips": "Aberasi sferis Hubble Telescope (saat baru diluncurkan 1990) menyebabkan gambar buram. NASA mengirim astronot untuk memasang lensa korektor (COSTAR) tahun 1993 → gambar tajam kembali. Salah satu \"perbaikan ruang angkasa\" paling terkenal.\n---"
+    },
+    {
+      "number": 78,
+      "subTopic": "Cermin Multifaset",
+      "level": "Prov",
+      "question": "Bola disko (mirror ball) di klub malam menghasilkan banyak titik cahaya yang menari di ruangan. Bola disko adalah...",
+      "options": {
+        "A": "Cermin tunggal cekung",
+        "B": "Bola dengan banyak cermin datar kecil di permukaannya (multifaset) yang berputar",
+        "C": "Bola transparan",
+        "D": "Bola lampu"
+      },
+      "answerKey": "B",
+      "concept": "Cermin multifaset di disco ball.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Banyak cermin kecil datar pada bola berputar → tiap cermin memantulkan cahaya ke titik berbeda → efek seribu bintang.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bola berputar + banyak permukaan datar = efek banyak titik cahaya.",
+        "**Hasil akhir:** Bola multifaset."
+      ],
+      "tips": "Bola disko adalah aplikasi sederhana cermin datar yang efektif menghasilkan efek cahaya kompleks dengan teknologi sederhana.\n---"
+    },
+    {
+      "number": 79,
+      "subTopic": "Cermin Bulat Bias",
+      "level": "Prov",
+      "question": "Pada lampu fluoresen (TL/neon) di rumah, sering ada lapisan reflektif di belakang tabung. Lapisan ini biasanya...",
+      "options": {
+        "A": "Datar saja",
+        "B": "Cermin cekung kecil / parabolik untuk mengarahkan cahaya ke depan",
+        "C": "Cermin cembung",
+        "D": "Tanpa cermin"
+      },
+      "answerKey": "B",
+      "concept": "Reflektor lampu rumah.",
+      "analysis": {
+        "A": "Salah. Cahaya menyebar.",
+        "B": "Benar. Mengarahkan cahaya yang ke belakang menjadi ke depan.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Tujuan: cahaya menerangi ruangan, bukan langit-langit.",
+        "Cermin cekung mengarahkan cahaya ke depan.",
+        "**Hasil akhir:** Cekung."
+      ],
+      "tips": "Untuk maksimum efisiensi pencahayaan, reflektor harus bersih & tidak rusak. Reflektor kusam = energi cahaya terbuang.\n---"
+    },
+    {
+      "number": 80,
+      "subTopic": "Sintesis Prov",
+      "level": "Prov",
+      "question": "Pernyataan PALING TEPAT tentang cermin cekung dan cembung adalah...",
+      "options": {
+        "A": "Keduanya sama",
+        "B": "Cermin cekung KONVERGEN (mengumpulkan cahaya, fokus nyata, bayangan beragam tergantung jarak) — untuk lampu sorot, teleskop, kosmetik pembesar; Cermin cembung DIVERGEN (menyebarkan cahaya, fokus maya, bayangan selalu maya-tegak-diperkecil) — untuk spion, pengawasan area luas",
+        "C": "Cermin cekung tidak berguna",
+        "D": "Cermin cembung selalu memperbesar"
+      },
+      "answerKey": "B",
+      "concept": "Sintesis sifat & aplikasi 2 jenis cermin lengkung.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cekung: konvergen, mengumpulkan, beragam.",
+        "Cembung: divergen, menyebarkan, selalu sama (maya-tegak-diperkecil).",
+        "**Hasil akhir:** Definisi lengkap kedua jenis cermin."
+      ],
+      "tips": "Mempersiapkan untuk Nas — soal akan menggabung konsep cermin dengan optik modern (laser, teleskop besar, segmented mirror).\n---"
+    },
+    {
+      "number": 81,
+      "subTopic": "Teleskop Newton",
+      "level": "Nas",
+      "question": "Sir Isaac Newton membangun teleskop pertama yang memakai cermin (1668) untuk menghindari masalah aberasi kromatik pada teleskop refraktor. Pada teleskop Newton, sinar dari objek dipantulkan ke samping oleh...",
+      "options": {
+        "A": "Cermin cekung besar di belakang + cermin datar kecil 45° di depan untuk membelokkan cahaya 90° ke mata",
+        "B": "Lensa",
+        "C": "Prisma",
+        "D": "Sebuah cermin saja"
+      },
+      "answerKey": "A",
+      "concept": "Sejarah & konstruksi teleskop Newton.",
+      "analysis": {
+        "A": "Benar. Teleskop Newton (1668).",
+        "B": "Salah. Itu refraktor.",
+        "C": "Salah.",
+        "D": "Salah. Newton pakai 2 cermin."
+      },
+      "steps": [
+        "Cermin cekung primer di belakang mengumpulkan cahaya.",
+        "Cermin datar 45° di depan membelokkan ke samping → mata pengamat.",
+        "**Hasil akhir:** Cekung primer + datar 45°."
+      ],
+      "tips": "Teleskop Newton sangat populer untuk amatir karena murah & relatif mudah dirawat. Diameter 200-300 mm cukup untuk lihat detail bulan, planet, banyak galaksi.\n---"
+    },
+    {
+      "number": 82,
+      "subTopic": "Cermin Parabolik vs Sferis Aberasi",
+      "level": "Nas",
+      "question": "Pada teleskop diameter besar, cermin sferis menyebabkan aberasi sferis (sinar paralel dari pinggir cermin terfokus di titik yang berbeda dari sinar tengah). Solusinya...",
+      "options": {
+        "A": "Memperkecil cermin",
+        "B": "Pakai cermin parabolik — geometri parabola membuat SEMUA sinar paralel terfokus di satu titik sempurna",
+        "C": "Pakai cermin datar",
+        "D": "Pakai cermin cembung"
+      },
+      "answerKey": "B",
+      "concept": "Solusi aberasi sferis.",
+      "analysis": {
+        "A": "Salah (mengurangi cahaya tertangkap).",
+        "B": "Benar. Sifat geometri parabola: semua sinar paralel ke sumbu utama terfokus persis di satu titik.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Sferis: aberasi.",
+        "Parabolik: fokus sempurna.",
+        "**Hasil akhir:** Cermin parabolik."
+      ],
+      "tips": "Walaupun parabolik lebih akurat, tetap ada keterbatasan: hanya sempurna untuk sinar paralel ke sumbu utama. Sinar dari sudut lain (off-axis) tetap punya aberasi (coma).\n---"
+    },
+    {
+      "number": 83,
+      "subTopic": "Coating Cermin",
+      "level": "Nas",
+      "question": "Cermin modern untuk teleskop besar tidak lagi dilapisi perak di belakang kaca, melainkan lapisan tipis di DEPAN. Bahan lapisan ini umumnya...",
+      "options": {
+        "A": "Plastik bening",
+        "B": "Aluminium yang diuapkan dalam vakum (pantulan ~90%, tahan oksidasi sedikit)",
+        "C": "Kayu",
+        "D": "Karet"
+      },
+      "answerKey": "B",
+      "concept": "Coating cermin modern.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Lapisan tipis aluminium di permukaan depan kaca cermin teleskop. Memantulkan ~90% cahaya tampak.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Coating depan = no cahaya hilang lewat 2x kaca.",
+        "Aluminium ekonomis + tahan oksidasi sedikit (Al₂O₃ lapisan tipis melindungi diri).",
+        "**Hasil akhir:** Aluminium uap."
+      ],
+      "tips": "Untuk pantulan lebih tinggi (>99%), dipakai coating **dielectric** multi-lapisan (mis. SiO₂/TiO₂ alternating) — sering untuk laser & instrumen presisi tinggi.\n---"
+    },
+    {
+      "number": 84,
+      "subTopic": "Cermin Segmented Teleskop",
+      "level": "Nas",
+      "question": "Teleskop raksasa modern (mis. Keck Telescope, James Webb Space Telescope) memakai banyak cermin heksagonal kecil yang disatukan secara presisi membentuk satu cermin besar virtual. Ini disebut...",
+      "options": {
+        "A": "Multi-mirror disco",
+        "B": "Cermin segmented (segmented mirror)",
+        "C": "Cermin Fresnel",
+        "D": "Cermin mosaik biasa"
+      },
+      "answerKey": "B",
+      "concept": "Cermin segmented teleskop modern.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cermin tunggal ukuran besar (>8 meter) sulit dibuat & diangkut. Solusi: beberapa segmen yang dikontrol komputer untuk presisi.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin tunggal besar = mahal & rapuh.",
+        "Multi-segmen = lebih praktis.",
+        "**Hasil akhir:** Cermin segmented."
+      ],
+      "tips": "**James Webb Space Telescope** (peluncuran 2021) punya 18 cermin heksagonal emas yang membentuk cermin diameter 6,5 meter. Tiap segmen bisa disesuaikan secara independen untuk presisi nanometer.\n---"
+    },
+    {
+      "number": 85,
+      "subTopic": "Cermin Laser High Reflective",
+      "level": "Nas",
+      "question": "Pada sistem laser, dipakai cermin dengan pantulan SANGAT TINGGI (>99,99%) di kedua ujung. Cermin ini disebut...",
+      "options": {
+        "A": "Cermin biasa",
+        "B": "Cermin high reflective (HR mirror) dengan coating dielectric multi-lapisan",
+        "C": "Cermin kosmetik",
+        "D": "Cermin disco"
+      },
+      "answerKey": "B",
+      "concept": "Cermin presisi untuk laser.",
+      "analysis": {
+        "A": "Salah. Pantulan biasa 90% terlalu banyak rugi.",
+        "B": "Benar. Cermin HR untuk membentuk **resonator laser** — sinar bolak-balik berkali-kali sebelum keluar lewat cermin \"output coupler\" (sedikit kurang reflektif).",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Laser butuh amplifikasi via banyak pantulan.",
+        "Cermin HR menjaga foton di dalam resonator.",
+        "**Hasil akhir:** HR mirror."
+      ],
+      "tips": "Cermin laser bisa pantulan 99,9999% untuk panjang gelombang spesifik — hampir foton tidak ada yang hilang per pantulan. Dasar laser bertenaga tinggi.\n---"
+    },
+    {
+      "number": 86,
+      "subTopic": "Cermin Fresnel",
+      "level": "Nas",
+      "question": "Cermin Fresnel adalah cermin yang terdiri dari banyak cermin datar kecil yang dipasang dengan sudut berbeda-beda untuk meniru fungsi cermin cekung besar. Aplikasinya...",
+      "options": {
+        "A": "Hiasan rumah",
+        "B": "Pembangkit tenaga surya konsentrat (PLTS termal), mercu suar, lampu jalan",
+        "C": "Mainan anak",
+        "D": "Tidak ada aplikasi"
+      },
+      "answerKey": "B",
+      "concept": "Cermin Fresnel & aplikasi.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Banyak cermin datar lebih murah & ringan daripada satu cermin cekung besar.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin Fresnel = banyak segmen datar.",
+        "Hemat material, ringan, scalable.",
+        "**Hasil akhir:** PLTS termal, mercu suar."
+      ],
+      "tips": "**Ivanpah Solar Power Facility** (California, USA) memakai >170.000 cermin datar yang bersama-sama bertindak seperti cermin cekung raksasa → memfokuskan cahaya matahari ke menara penerima → memanaskan air → uap → turbin → listrik.\n---"
+    },
+    {
+      "number": 87,
+      "subTopic": "Smart Mirror",
+      "level": "Nas",
+      "question": "Smart mirror (cermin pintar) yang juga menampilkan informasi digital (mis. cuaca, jadwal) adalah kombinasi...",
+      "options": {
+        "A": "Cermin biasa + cat",
+        "B": "Layar monitor + lapisan cermin one-way di depannya (memantulkan saat dimatikan; saat layar nyala, informasi tampak melalui cermin)",
+        "C": "Cermin yang berpikir sendiri",
+        "D": "Cermin sihir"
+      },
+      "answerKey": "B",
+      "concept": "Konstruksi smart mirror.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. One-way mirror memantulkan dari sisi terang & transparan dari sisi gelap. Saat layar mati = gelap di belakang → cermin biasa. Saat layar nyala = lampu dari belakang → terlihat lewat cermin.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin one-way + layar = smart mirror.",
+        "**Hasil akhir:** Layar + cermin one-way."
+      ],
+      "tips": "DIY smart mirror = proyek elektronika populer. Pakai monitor LCD bekas + acrylic mirror one-way + Raspberry Pi untuk run software dashboard.\n---"
+    },
+    {
+      "number": 88,
+      "subTopic": "One-Way Mirror",
+      "level": "Nas",
+      "question": "Cermin \"one-way\" yang sering dipakai di ruang interogasi (terlihat seperti cermin dari sisi terang, transparan dari sisi gelap) bekerja dengan prinsip...",
+      "options": {
+        "A": "Sihir",
+        "B": "Lapisan reflektif TIPIS — sebagian cahaya dipantulkan, sebagian diteruskan. Yang menentukan: pencahayaan kedua sisi",
+        "C": "Bahan khusus",
+        "D": "Cermin biasa"
+      },
+      "answerKey": "B",
+      "concept": "Prinsip cermin one-way.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cermin sebenarnya **two-way** secara fisik, tapi karena sisi terang mendominasi (cahaya pantul jauh lebih kuat dari yang lewat), sisi gelap tampak transparan dari arahnya.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Sebagian transparan + sebagian reflektif.",
+        "Pencahayaan menentukan persepsi.",
+        "**Hasil akhir:** Lapisan tipis + pencahayaan asimetris."
+      ],
+      "tips": "Kalau pencahayaan disamakan kedua sisi, atau dibalik (sisi \"tertuduh\" lebih terang), maka cermin tidak lagi one-way. Sering jadi kelemahan di film: aktor lupa atur lampu.\n---"
+    },
+    {
+      "number": 89,
+      "subTopic": "Coating Perak vs Aluminium",
+      "level": "Nas",
+      "question": "Cermin rumah tradisional pakai coating perak (Ag) di belakang kaca, sedangkan cermin teleskop modern pakai aluminium (Al) di depan kaca. Mengapa perak tidak dipakai di teleskop modern?",
+      "options": {
+        "A": "Perak terlalu mahal",
+        "B": "Perak teroksidasi cepat di udara terbuka (jadi kusam/hitam); aluminium lebih tahan karena lapisan oksida tipis yang melindungi",
+        "C": "Perak terlalu berat",
+        "D": "Aluminium lebih murah saja"
+      },
+      "answerKey": "B",
+      "concept": "Perbandingan coating cermin.",
+      "analysis": {
+        "A": "Salah (sebagian — tapi bukan alasan utama).",
+        "B": "Benar. Perak tarnish (jadi hitam) saat oksidasi. Aluminium membentuk Al₂O₃ tipis transparan yang melindungi.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin rumah: perak terlindungi cat & kaca → tahan lama.",
+        "Cermin teleskop: di depan, terbuka → butuh bahan tahan oksidasi.",
+        "**Hasil akhir:** Aluminium tahan oksidasi."
+      ],
+      "tips": "Cermin teleskop tetap perlu **re-coating aluminium** tiap beberapa tahun karena lapisan oksida menebal & menurunkan reflektivitas. Proses dilakukan di vakum di lab khusus.\n---"
+    },
+    {
+      "number": 90,
+      "subTopic": "LIGO Cermin",
+      "level": "Nas",
+      "question": "LIGO (Laser Interferometer Gravitational-wave Observatory) memakai cermin presisi nanometer di kedua ujung 2 lengan sepanjang 4 km untuk mendeteksi gelombang gravitasi dari peristiwa antariksa. Cermin LIGO adalah...",
+      "options": {
+        "A": "Cermin biasa rumah",
+        "B": "Cermin pantulan ultra tinggi (>99,999%), digantung dalam vakum, tahan getaran, dengan presisi posisi kurang dari diameter proton (10⁻¹⁹ m)",
+        "C": "Cermin disco",
+        "D": "Cermin mainan"
+      },
+      "answerKey": "B",
+      "concept": "Cermin presisi LIGO.",
+      "analysis": {
+        "A": "Salah. Tidak cukup presisi.",
+        "B": "Benar. Cermin LIGO mendeteksi perubahan jarak akibat gelombang gravitasi yang sangat kecil.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Gelombang gravitasi sangat halus → cermin harus ekstra presisi.",
+        "**Hasil akhir:** Cermin presisi nanometer."
+      ],
+      "tips": "LIGO mendeteksi gelombang gravitasi pertama kali 2015 (peristiwa tabrakan 2 lubang hitam). Penemuan ini dapat Hadiah Nobel Fisika 2017 — konfirmasi teori Einstein 1916.\n---"
+    },
+    {
+      "number": 91,
+      "subTopic": "Cermin Atom",
+      "level": "Nas",
+      "question": "Para fisikawan modern bahkan bisa membuat \"cermin atom\" — cermin di skala 1 atom yang dapat memantulkan elektron tunggal. Bidang ini disebut...",
+      "options": {
+        "A": "Optik klasik",
+        "B": "Optika kuantum / mekanika kuantum",
+        "C": "Botani",
+        "D": "Geografi"
+      },
+      "answerKey": "B",
+      "concept": "Optik di skala kuantum.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Eksperimen modern bekerja pada level atom & foton tunggal.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Skala atom & foton tunggal = mekanika kuantum.",
+        "**Hasil akhir:** Optika kuantum."
+      ],
+      "tips": "Eksperimen optik kuantum membuka pintu ke **komputer kuantum**, **kriptografi kuantum**, **teleportasi kuantum** — teknologi masa depan yang memanfaatkan sifat dualitas gelombang-partikel cahaya & materi.\n---"
+    },
+    {
+      "number": 92,
+      "subTopic": "Cermin di Proyektor LCD",
+      "level": "Nas",
+      "question": "Proyektor LCD modern memakai cermin & prisma untuk menggabungkan 3 warna dasar (merah, hijau, biru) menjadi gambar berwarna. Cermin khusus ini disebut...",
+      "options": {
+        "A": "Cermin datar biasa",
+        "B": "Dichroic mirror (cermin yang memantulkan warna tertentu & meneruskan warna lain)",
+        "C": "Cermin disco",
+        "D": "Cermin matahari"
+      },
+      "answerKey": "B",
+      "concept": "Cermin selektif warna.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cermin dengan lapisan dielectric yang memantulkan panjang gelombang spesifik dan meneruskan lain.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "3 cahaya dasar perlu digabung tanpa loss.",
+        "Dichroic mirror = solusi presisi.",
+        "**Hasil akhir:** Dichroic mirror."
+      ],
+      "tips": "Filter \"**dichroic**\" juga dipakai di mikroskop fluoresensi, kamera profesional, sinematik (split warna untuk efek khusus).\n---"
+    },
+    {
+      "number": 93,
+      "subTopic": "Mata Kucing & Tapetum",
+      "level": "Nas",
+      "question": "Mata kucing bersinar di malam hari saat terkena cahaya karena adanya lapisan reflektif di belakang retina yang disebut...",
+      "options": {
+        "A": "Iris ekstra",
+        "B": "Tapetum lucidum (lapisan cermin alami yang memantulkan cahaya kembali ke retina untuk meningkatkan penglihatan malam)",
+        "C": "Sklera",
+        "D": "Kelopak ketiga"
+      },
+      "answerKey": "B",
+      "concept": "Cermin biologis pada hewan night-vision.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. \"Tapetum\" = karpet, \"lucidum\" = mengkilap. Cermin alami untuk peningkatan penglihatan malam.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cahaya yang masuk mata kucing pertama kali → retina (sebagian terdeteksi).",
+        "Sisa cahaya → tapetum memantulkan kembali → retina lagi (deteksi 2x).",
+        "**Hasil akhir:** Tapetum lucidum."
+      ],
+      "tips": "Hewan night-vision lain dengan tapetum: anjing, sapi, rusa, beberapa ikan laut dalam. Itulah sebabnya mata mereka \"bercahaya\" saat dilampu senter di malam hari. Manusia tidak punya tapetum.\n---"
+    },
+    {
+      "number": 94,
+      "subTopic": "Cermin Adaptive Optics",
+      "level": "Nas",
+      "question": "Teleskop modern di bumi memakai cermin deformable yang berubah bentuknya secara real-time untuk mengoreksi pembiasan atmosfer (yang membuat bintang berkedip). Teknik ini disebut...",
+      "options": {
+        "A": "Soft optics",
+        "B": "Adaptive optics (optika adaptif)",
+        "C": "Quantum optics",
+        "D": "Fixed optics"
+      },
+      "answerKey": "B",
+      "concept": "Teknologi mutakhir teleskop bumi.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cermin berubah bentuk ratusan kali per detik untuk meng-cancel out gangguan atmosfer.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Atmosfer = pembiasan acak → gambar kabur.",
+        "Adaptive optics = real-time correction.",
+        "**Hasil akhir:** Adaptive optics."
+      ],
+      "tips": "Dengan adaptive optics, teleskop bumi modern bisa menghasilkan gambar setajam atau lebih tajam dari Hubble Space Telescope — sangat menghemat biaya antariksa.\n---"
+    },
+    {
+      "number": 95,
+      "subTopic": "Cermin & Gelombang",
+      "level": "Nas",
+      "question": "Selain memantulkan cahaya, cermin juga dapat memantulkan...",
+      "options": {
+        "A": "Hanya cahaya",
+        "B": "Berbagai jenis gelombang elektromagnetik (radio, mikro, IR, UV, X-ray) dengan coating yang tepat",
+        "C": "Hanya bunyi",
+        "D": "Hanya panas"
+      },
+      "answerKey": "B",
+      "concept": "Cermin sebagai pemantul gelombang EM.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Antena parabola = cermin radio; teleskop X-ray pakai cermin X-ray khusus; gelombang mikro dipantulkan logam.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin = pemantul gelombang EM, bukan hanya tampak.",
+        "**Hasil akhir:** Berbagai gelombang EM."
+      ],
+      "tips": "Cermin X-ray sangat sulit dibuat karena X-ray cenderung diserap. Solusi: cermin **grazing incidence** — sudut datang sangat dekat ke permukaan, ditempelkan banyak cermin tipis. Teleskop X-ray seperti Chandra menggunakan ini.\n---"
+    },
+    {
+      "number": 96,
+      "subTopic": "Cermin di Auto Headlight",
+      "level": "Nas",
+      "question": "Lampu sorot mobil modern (LED matrix headlights) memakai banyak elemen LED yang bisa nyala/mati independen + lensa khusus. Tapi mobil klasik masih pakai reflektor parabolik karena...",
+      "options": {
+        "A": "Klasik tidak butuh teknologi",
+        "B": "Reflektor parabolik = solusi optik klasik yang murah & efektif untuk mengarahkan cahaya bohlam tunggal ke depan dengan berkas paralel",
+        "C": "Tidak ada alasan",
+        "D": "LED tidak ada di zaman dulu"
+      },
+      "answerKey": "B",
+      "concept": "Optik klasik vs modern di lampu mobil.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Untuk 1 bohlam halogen, reflektor parabolik adalah desain optimal.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Reflektor parabolik sesuai prinsip cermin parabolik.",
+        "Cost-effective untuk teknologi standar.",
+        "**Hasil akhir:** Solusi klasik yang efektif."
+      ],
+      "tips": "Lampu modern (LED matrix) bisa membentuk **adaptive beam** — bisa \"buat lubang\" di area kendaraan lain agar tidak menyilaukan pengemudi lain, sambil tetap menerangi area lain. Teknologi keselamatan canggih.\n---"
+    },
+    {
+      "number": 97,
+      "subTopic": "Cermin di Lampu Operasi",
+      "level": "Nas",
+      "question": "Lampu operasi medis berfungsi memberi cahaya terang & merata ke area operasi tanpa bayangan tangan dokter. Desainnya biasanya...",
+      "options": {
+        "A": "Lampu tunggal saja",
+        "B": "Banyak sumber cahaya yang dipantulkan dari banyak cermin/reflektor cekung kecil — cahaya datang dari banyak sudut untuk mengurangi bayangan",
+        "C": "Cermin datar saja",
+        "D": "Hanya LED tanpa cermin"
+      },
+      "answerKey": "B",
+      "concept": "Optik lampu operasi.",
+      "analysis": {
+        "A": "Salah. Akan ada bayangan tajam.",
+        "B": "Benar. Cahaya dari banyak sudut = \"shadow-less\" effect.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Bayangan = cahaya tunggal terhalang.",
+        "Multi-arah → bayangan terpisah samar.",
+        "**Hasil akhir:** Multi-source + reflektor."
+      ],
+      "tips": "Lampu operasi premium juga punya color rendering index (CRI) tinggi — warna jaringan tubuh terlihat akurat. Penting untuk diagnosis selama operasi.\n---"
+    },
+    {
+      "number": 98,
+      "subTopic": "Cermin Spy Satellite",
+      "level": "Nas",
+      "question": "Satelit mata-mata (spy satellite) memakai teleskop dengan cermin diameter sangat besar (sekitar 2-3 meter) untuk mengintai dari orbit. Resolusinya bisa membaca plat nomor mobil dari ruang angkasa. Cermin tersebut mirip dengan...",
+      "options": {
+        "A": "Spion mobil",
+        "B": "Cermin cekung besar mirip teleskop Hubble (untuk mengumpulkan cahaya & resolusi tinggi)",
+        "C": "Cermin disco",
+        "D": "Cermin kosmetik"
+      },
+      "answerKey": "B",
+      "concept": "Optik satelit pengintai.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Tapi terbalik: spy satellite melihat ke bawah (bumi), Hubble lihat ke atas (antariksa). Optiknya prinsip sama.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Resolusi tinggi = butuh cermin besar & presisi.",
+        "**Hasil akhir:** Cermin cekung besar."
+      ],
+      "tips": "Resolusi optik diameter D pada panjang gelombang λ: resolusi sudut θ ≈ 1,22 × λ/D. Diameter besar → resolusi sudut lebih baik. Itulah sebabnya satelit pengintai punya cermin besar.\n---"
+    },
+    {
+      "number": 99,
+      "subTopic": "Anti-Reflective Coating",
+      "level": "Nas",
+      "question": "Pada beberapa aplikasi (mis. lensa kamera, layar HP), pekerjaan justru bukan \"memantulkan banyak\" tapi \"memantulkan sedikit\". Lapisan untuk MENGURANGI pantulan disebut...",
+      "options": {
+        "A": "High reflective coating",
+        "B": "Anti-reflective (AR) coating — lapisan tipis dengan interferensi destruktif untuk menghilangkan pantulan",
+        "C": "Cermin datar",
+        "D": "Tidak ada lapisan"
+      },
+      "answerKey": "B",
+      "concept": "AR coating (kebalikan cermin).",
+      "analysis": {
+        "A": "Salah. Itu untuk maksimalkan pantulan.",
+        "B": "Benar. Lapisan tipis kuartal panjang gelombang menyebabkan interferensi destruktif → meminimalkan pantulan dari permukaan.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Lensa kamera & layar tidak ingin \"berkilau\".",
+        "AR coating → lebih banyak cahaya lewat lensa / lebih sedikit silau di layar.",
+        "**Hasil akhir:** AR coating."
+      ],
+      "tips": "Bagaimana kamu tahu lensa berlapis AR? **Warna ungu/hijau** saat dilihat dari sudut. Pantulan parsial tertentu yang tertinggal menampilkan warna khas — kebalikan dari cermin yang pantulkan semua warna.\n---"
+    },
+    {
+      "number": 100,
+      "subTopic": "Sintesis Cermin",
+      "level": "Nas",
+      "question": "Pernyataan PALING TEPAT tentang peran cermin di teknologi modern adalah...",
+      "options": {
+        "A": "Cermin hanya untuk berdandan",
+        "B": "Cermin (datar, cekung, cembung, parabolik, dichroic, segmented, deformable, dengan coating khusus) adalah komponen FUNDAMENTAL di banyak teknologi: optik, astronomi, medis, energi, komunikasi, fisika riset",
+        "C": "Cermin tidak penting di teknologi",
+        "D": "Cermin hanya untuk dekorasi"
+      },
+      "answerKey": "B",
+      "concept": "Sintesis akhir peran cermin.",
+      "analysis": {
+        "A": "Salah.",
+        "B": "Benar. Cermin = pemantul gelombang EM untuk tujuan spesifik.",
+        "C": "",
+        "D": ""
+      },
+      "steps": [
+        "Cermin sederhana di rumah → cermin presisi di teleskop & laser.",
+        "Variasi geometri & coating → variasi aplikasi.",
+        "**Hasil akhir:** Komponen fundamental teknologi modern."
+      ],
+      "tips": "Mungkin kamu yang baca ini = ilmuwan/insinyur masa depan yang akan merancang cermin untuk **observatorium di bulan**, **mikroskop atom**, atau **laser quantum**. Optika tetap salah satu bidang fisika & engineering yang sangat aktif.\n---"
+    }
+  ]
+}
