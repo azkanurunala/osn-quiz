@@ -63,15 +63,28 @@ node scripts/build-data.mjs
 ```
 
 ### Parser ([scripts/build-data.mjs](scripts/build-data.mjs))
-Mengenali **3 format markdown**:
+Mengenali **4 format markdown** + banyak varian:
 
 | Format | Marker khas | Contoh file |
 |---|---|---|
-| **A/B** (chapter) | `### Soal N · subTopic · Level` + `**(1) Soal:** / **(2) Pilihan:** / **(3) Jawaban:** / **(4) Pembahasan:**` | `osn-sd-ipa-01-makhluk-hidup-campur.md` |
+| **A** (chapter, multi-line) | `### Soal N · subTopic · Level` + `**(1) Soal:** \n Text \n **(2) Pilihan Jawaban:** \n A. \n B. ...` | `osn-sd-ipa-01-makhluk-hidup-campur.md` |
+| **A-inline** (chapter, compact) | `**(1) Soal:** Text inline` + `**(2) Pilihan Jawaban:** A. x B. y C. z D. w` (semua di satu baris) | `osn-sd-ipa-komprehensif-sulit.md` (soal 3+) |
+| **A-short** (no parenthesis) | `**Soal:** Text` + `**Pilihan:**` + `**Jawaban:** **B**` | `osn-sd-ipa-01-makhluk-hidup-sedang-sulit.md` |
 | **C** (compact) | `## SOAL ...` atau `## BAGIAN ...` + `**N.**` + `**Kunci: X**` + `**Pembahasan:**` | `osn-sd-mtk-02f-operasi-desimal-campur.md` |
-| **C-bare** (compact, no dash) | `A. text` tanpa `- ` prefix + verdict `**BENAR**/**SALAH**` | `osn-sd-mtk-03a-jenis-bangun-datar-campur.md` |
+| **C-bare** | `A. text` tanpa `- ` prefix + verdict `**BENAR**/**SALAH**` (caps OK) | `osn-sd-mtk-03a-jenis-bangun-datar-campur.md` |
+| **C-multi-on-line** | `A. x   B. y   C. z   D. w` (4 opsi 1 baris) | `osn-sd-mtk-04i-lp-prisma-limas-campur.md` |
 
-Parser tahan terhadap: CRLF line endings, separator `· • ・ . | - – —` di header soal, verdict caps/lowercase, optional `- ` di options.
+Parser tahan terhadap:
+- CRLF (`\r\n`) line endings dinormalisasi
+- Separator header soal: `· • ・ . | - – —`
+- Soal header dengan 4 segment (mis. `### Soal 1 · IPA-01 · subTopic · Level`) — parser memilih subTopic & level secara graceful
+- Verdict caps/lowercase: `Benar/Salah`, `BENAR/SALAH`, `benar/salah`
+- Options dengan atau tanpa leading `- ` prefix
+- `**(1)`, `**(2)`, `**(3)`, `**(4)` prefix opsional di marker Soal/Pilihan/Jawaban/Pembahasan
+- Analysis bullet bisa top-level (no indent) atau nested di bawah "Analisis tiap opsi:"
+- `**Jawaban:** **B**` (letter only) atau `**(3) Jawaban:** **C · text**` (letter+text)
+- Inline Soal text: `**Soal:** Text on same line`
+- Inline options: `**(2) Pilihan Jawaban:** A. x B. y C. z D. w`
 
 ### JSON shape per paket
 ```json
@@ -207,11 +220,18 @@ Hidup di codebase, siap dipakai:
 
 ```bash
 cd c:\Prospects\osn-sd\osn-app
-npm install                 # one-time
-node scripts/build-data.mjs # generate JSON dari output/*.md (jalankan setelah edit MD)
-npm run dev                 # localhost:5173
-npm run build               # production → dist/
+npm install                    # one-time
+node scripts/build-data.mjs    # generate JSON dari output/*.md (jalankan setelah edit MD)
+node scripts/validate-data.mjs # validasi shape semua paket JSON
+npm run dev                    # localhost:5173
+npm run build                  # production → dist/
 ```
+
+### Workflow tambah/edit konten
+1. Edit/tambah file `output/<…>.md` atau `output/sub-bab/<…>.md`
+2. `node scripts/build-data.mjs` → regenerate semua `public/data/*.json`
+3. `node scripts/validate-data.mjs` → cek tidak ada regression
+4. `npm run build` → confirm build masih pass
 
 Output Vite build:
 - `dist/assets/index-*.js` ~115 KB gz
@@ -319,6 +339,7 @@ osn-app/
 | 7 | UX manifest leverage | Cross-subBab Tryout, Dashboard search |
 | 8 | **100% coverage** | CRLF + format variants → 216/216 file |
 | 9 | **Settings + Unlock all** | SettingsPanel, default Video Production ON, gear icon |
+| 10 | **Deep parser audit + validator** | `validate-data.mjs` baru; menemukan 4 critical bug (question/options kosong); 3 format varian baru di-handle (A-inline, A-short, C-multi-on-line); 218/218 file, 21,747 soal validated, 0 error |
 
 ---
 
