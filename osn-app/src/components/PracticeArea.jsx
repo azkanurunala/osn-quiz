@@ -418,8 +418,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
           </div>
           {isSplitActive && (
-            <div ref={explanationScrollRef} className="lg:col-span-6 h-full bg-slate-900 text-slate-100 border-l border-slate-800 p-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
-              <div className="flex items-center gap-3 border-b border-slate-800 pb-3">
+            <div ref={explanationScrollRef} className="lg:col-span-6 h-full bg-slate-900 text-slate-100 border-l border-slate-800 px-10 pb-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
+              <div className="sticky top-0 pt-10 bg-slate-900 z-10 flex items-center gap-3 border-b border-slate-800 pb-3">
                 <div className="p-2 bg-red-950 border border-red-800/35 rounded-xl text-red-400"><Lightbulb className="w-5 h-5" /></div>
                 <div>
                   <h3 className="text-lg font-bold font-heading text-white">Pembahasan Komprehensif</h3>

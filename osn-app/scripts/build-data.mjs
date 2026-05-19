@@ -77,7 +77,7 @@ function parseFormatCBlock(blockLines, level, subTopicHint) {
   let optionsStart = -1, kunciLine = -1, pembLine = -1;
   for (let i = 0; i < blockLines.length; i++) {
     const ln = blockLines[i];
-    if (optionsStart === -1 && /^-\s+[A-D]\.\s+/.test(ln)) optionsStart = i;
+    if (optionsStart === -1 && (/^-\s+[A-D]\.\s+/.test(ln) || /^[A-D]\.\s+/.test(ln))) optionsStart = i;
     if (kunciLine === -1 && /^\*\*Kunci:?\s*[A-D]/i.test(ln)) kunciLine = i;
     if (pembLine === -1 && /^\*\*Pembahasan:?\*\*/i.test(ln)) pembLine = i;
   }
@@ -91,11 +91,12 @@ function parseFormatCBlock(blockLines, level, subTopicHint) {
     qText = (qText + (qText && cont ? '\n' : '') + cont).trim();
   }
 
-  // Options
+  // Options — accept "- A. text" OR bare "A. text"
   const options = { A: '', B: '', C: '', D: '' };
   const optEnd = kunciLine !== -1 ? kunciLine : (pembLine !== -1 ? pembLine : blockLines.length);
   for (let i = optionsStart; i < optEnd; i++) {
-    const om = blockLines[i].match(/^-\s+([A-D])\.\s+(.+)$/);
+    let om = blockLines[i].match(/^-\s+([A-D])\.\s+(.+)$/);
+    if (!om) om = blockLines[i].match(/^([A-D])\.\s+(.+)$/);
     if (om) {
       let t = om[2].trim();
       const fb = t.match(/^\*\*(.+)\*\*(.*)$/);
@@ -118,15 +119,37 @@ function parseFormatCBlock(blockLines, level, subTopicHint) {
   const steps = [];
 
   if (pembLine !== -1) {
+    // Multiple analysis-bullet patterns:
+    //   (a) "- **A benar** — text"                  (sub-bab style)
+    //   (b) "- **A. text** — BENAR. reason"         (chapter-like, with caps)
+    //   (c) "- A) **BENAR**. reason"                (mtk-02f-style)
+    //   (d) "- A. **BENAR**. reason"
+    const patA = /^-\s+\*\*([A-D])\s+(benar|salah)\*\*\s*[—–\-]?\s*(.*)$/i;
+    const patB = /^-\s+\*\*([A-D])\.\s+([^*]+)\*\*\s*[—–\-]\s*(\w+)\.?\s*(.*)$/i;
+    const patC = /^-\s+([A-D])\)\s+\*\*(BENAR|SALAH|benar|salah)\*\*\.?\s*(.*)$/i;
+    const patD = /^-\s+([A-D])\.\s+\*\*(BENAR|SALAH|benar|salah)\*\*\.?\s*(.*)$/i;
+
     for (let i = pembLine + 1; i < blockLines.length; i++) {
       const line = blockLines[i];
       const t = line.trim();
       if (t === '---') break;
-      const am = line.match(/^-\s+\*\*([A-D])\s+(benar|salah)\*\*\s*[—–\-]?\s*(.*)$/i);
-      if (am) {
-        const letter = am[1];
-        const verdict = am[2].toLowerCase();
-        analysis[letter] = am[3].trim();
+
+      let mt;
+      if ((mt = line.match(patA))) {
+        const letter = mt[1], verdict = mt[2].toLowerCase();
+        analysis[letter] = mt[3].trim();
+        if (verdict === 'benar' && !answerKey) answerKey = letter;
+        continue;
+      }
+      if ((mt = line.match(patB))) {
+        const letter = mt[1], verdict = mt[3].toLowerCase();
+        analysis[letter] = mt[4].trim();
+        if (verdict === 'benar' && !answerKey) answerKey = letter;
+        continue;
+      }
+      if ((mt = line.match(patC)) || (mt = line.match(patD))) {
+        const letter = mt[1], verdict = mt[2].toLowerCase();
+        analysis[letter] = mt[3].trim();
         if (verdict === 'benar' && !answerKey) answerKey = letter;
         continue;
       }
@@ -174,12 +197,12 @@ function parseFormatC(lines, theoryEnd) {
 
   for (let i = theoryEnd; i < lines.length; i++) {
     const ln = lines[i];
-    // section heading like "### KAB · Soal 1–50" or "### Bagian Kabupaten"
-    if (/^###\s/.test(ln) && !/^###\s+Soal\s/i.test(ln) && !/^\*\*\d+\.\*\*/.test(ln)) {
+    // section heading: any ##+ heading (level 2 or 3) that's NOT a soal number marker
+    if (/^#{2,3}\s/.test(ln) && !/^###\s+Soal\s/i.test(ln) && !/^\*\*\d+\.\*\*/.test(ln)) {
       flushBlock();
       const lvl = levelFromHeader(ln);
       if (lvl) curLevel = lvl;
-      curSubTopicHint = ln.replace(/^###\s+/, '').replace(/·.*/, '').trim();
+      curSubTopicHint = ln.replace(/^#+\s+/, '').replace(/[·•・|.\-–—].*/, '').trim();
       continue;
     }
     if (/^\*\*\d+\.\*\*/.test(ln)) {
@@ -199,7 +222,8 @@ function parseFormatC(lines, theoryEnd) {
 }
 
 function parseMarkdown(text) {
-  const lines = text.split('\n');
+  // Normalize line endings: CRLF / CR → LF, strip stray \r
+  const lines = text.replace(/\r\n?/g, '\n').split('\n');
 
   let title = '';
   for (const line of lines) {
@@ -209,21 +233,30 @@ function parseMarkdown(text) {
     }
   }
 
-  // Locate theory range + first soal
-  let theoryStart = -1;
-  let firstSoalLine = -1;
+  // Locate theory + question region markers
+  let bagianISection = -1;     // theory start marker
+  let bagianIISection = -1;    // questions section marker
+  let firstFormatABBlock = -1; // earliest `### Soal N ·`
+  let firstFormatCMarker = -1; // earliest `**N.**`
   for (let i = 0; i < lines.length; i++) {
     const ln = lines[i];
-    if (theoryStart === -1 && (/^#\s+Bagian I\b/i.test(ln) || /^##\s+BAGIAN I\b/i.test(ln))) {
-      theoryStart = i + 1;
-    }
-    if (firstSoalLine === -1 && /^###\s+Soal\s/i.test(ln)) { firstSoalLine = i; }
-    // also detect format C Bagian II markers
-    if (firstSoalLine === -1 && (/^##\s+BAGIAN II\b/i.test(ln) || /^#\s+Bagian II\b/i.test(ln))) {
-      firstSoalLine = i;
-    }
+    if (bagianISection === -1 && /^#{1,3}\s+(Bagian|BAGIAN)\s+I\b/.test(ln) && !/II\b/.test(ln)) bagianISection = i;
+    if (bagianIISection === -1 && /^#{1,3}\s+(Bagian|BAGIAN)\s+II\b/.test(ln)) bagianIISection = i;
+    if (firstFormatABBlock === -1 && /^###\s+Soal\s/i.test(ln)) firstFormatABBlock = i;
+    if (firstFormatCMarker === -1 && /^\*\*\d+\.\*\*/.test(ln)) firstFormatCMarker = i;
   }
-  const theoryEnd = firstSoalLine === -1 ? lines.length : firstSoalLine;
+
+  // Theory range
+  let theoryStart = -1;
+  let theoryEnd = lines.length;
+  if (bagianISection !== -1) {
+    theoryStart = bagianISection + 1;
+    const candidates = [bagianIISection, firstFormatABBlock, firstFormatCMarker].filter((x) => x !== -1);
+    if (candidates.length) theoryEnd = Math.min(...candidates);
+  }
+  // Region after theory where questions live
+  const questionsRegionStart = [bagianIISection, firstFormatABBlock, firstFormatCMarker].filter((x) => x !== -1).sort((a, b) => a - b)[0];
+  const firstSoalLine = firstFormatABBlock !== -1 ? firstFormatABBlock : (questionsRegionStart ?? -1);
 
   // Parse theory into [{title, content}] by ## or ### headings
   const theory = [];
@@ -273,7 +306,10 @@ function parseMarkdown(text) {
 
   // Fallback to format C if no questions detected via format A/B headers
   if (questions.length === 0) {
-    questions = parseFormatC(lines, theoryEnd);
+    const cStart = (firstFormatCMarker !== -1)
+      ? (questionsRegionStart ?? firstFormatCMarker)
+      : theoryEnd;
+    questions = parseFormatC(lines, cStart);
   }
 
   return { title, theory, questions };
@@ -289,7 +325,9 @@ function normLevel(raw) {
 
 function parseQuestionBlock(lines) {
   const header = lines[0];
-  const m = header.match(/^###\s+Soal\s+(\d+)\s*[·•]\s*(.+?)\s*[·•]\s*(.+)$/);
+  // Accept any of: · (U+00B7) • (U+2022) ・ (U+30FB) . (period) | - – —
+  const SEP = '[·•・|.\\-–—]';
+  const m = header.match(new RegExp(`^###\\s+Soal\\s+(\\d+)\\s*${SEP}\\s*(.+?)\\s*${SEP}\\s*(.+)$`));
   if (!m) return null;
   const number = parseInt(m[1], 10);
   const subTopic = m[2].trim();
@@ -351,8 +389,9 @@ function parseQuestionBlock(lines) {
   let answerFromMarker = null;
   if (jawabanMarkerLine !== -1) {
     const jl = lines[jawabanMarkerLine];
-    const jm = jl.match(/\*\*\(3\)\s*Jawaban:?\*\*[:\s]*\*?\*?([A-D])[.)\s]/i)
-            || jl.match(/Jawaban:?\*?\*?[:\s]*\*\*([A-D])[.)\s]/i);
+    // Match "(3) Jawaban: **C. text**" or "(3) Jawaban: **C · text**" or "Jawaban: C" etc.
+    const jm = jl.match(/Jawaban:?\*?\*?[:\s]*\*?\*?([A-D])\s*[.·•・)\s]/i)
+            || jl.match(/Jawaban:?\*?\*?[:\s]*\*?\*?([A-D])\s*$/i);
     if (jm) answerFromMarker = jm[1].toUpperCase();
   }
 

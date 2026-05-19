@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen, Zap, X } from 'lucide-react';
+import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen, Zap, X, Search } from 'lucide-react';
 import DailyChallenge from './DailyChallenge';
 import ActivityHeatmap from './ActivityHeatmap';
 import QuickQuiz from './QuickQuiz';
@@ -33,9 +33,19 @@ function decorateFromManifest(metaList, progress) {
 
 export default function Dashboard({ stats, progress, manifest, manifestLoading, onSelectSubBab, onAddXp, questionsData }) {
   const [quickQuizOpen, setQuickQuizOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
   const grouped = useMemo(() => buildRoadmap(manifest), [manifest]);
   const ipaRoadmap = useMemo(() => decorateFromManifest(grouped.ipa || [], progress), [grouped.ipa, progress]);
   const mathRoadmap = useMemo(() => decorateFromManifest(grouped.mtk || [], progress), [grouped.mtk, progress]);
+
+  const q = searchQuery.trim().toLowerCase();
+  const filterByQuery = (items) => {
+    if (!q) return items;
+    return items.filter((it) => it.title.toLowerCase().includes(q) || it.id.toLowerCase().includes(q));
+  };
+  const ipaFiltered = filterByQuery(ipaRoadmap);
+  const mathFiltered = filterByQuery(mathRoadmap);
+  const totalMatches = ipaFiltered.length + mathFiltered.length;
 
   const next = ipaRoadmap.find((x) => x.active) || mathRoadmap.find((x) => x.active) || ipaRoadmap[0] || mathRoadmap[0] || { id: 'ipa-04b', title: 'Optika & Cermin', progress: 0 };
   const showRoadmapPlaceholder = manifestLoading && !manifest;
@@ -163,13 +173,38 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
         <div className="glass-card rounded-3xl p-10 text-center text-gray-400 text-sm">Memuat daftar bab dan sub-bab…</div>
       ) : null}
 
+      {/* Sub-bab search */}
+      <div className="glass-card rounded-2xl p-3 flex items-center gap-3">
+        <Search className="w-4 h-4 text-gray-400 shrink-0 ml-1.5" />
+        <input
+          type="text"
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          placeholder="Cari sub-bab… (mis. cermin, fpb, pecahan)"
+          className="flex-1 bg-transparent outline-none text-sm font-medium placeholder:text-gray-400"
+        />
+        {searchQuery && (
+          <>
+            <span className="text-[10px] text-gray-400 font-bold tabular-nums">{totalMatches} hasil</span>
+            <button
+              onClick={() => setSearchQuery('')}
+              className="p-1 rounded-md hover:bg-gray-100 text-gray-400 hover:text-gray-700"
+              aria-label="Bersihkan pencarian"
+            >
+              <X className="w-3.5 h-3.5" />
+            </button>
+          </>
+        )}
+      </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <RoadmapColumn
           title="Roadmap IPA (Olimpiade Sains)"
           subtitle="Taksonomi konsep fisika, biologi, & bumi"
           icon={<Compass className="text-brand-primary w-5 h-5" />}
           iconBg="bg-red-100"
-          items={ipaRoadmap}
+          items={ipaFiltered}
+          emptyHint={q ? 'Tidak ada sub-bab IPA cocok.' : null}
           activeBadge="Aktif"
           accent="brand-primary"
           onSelect={onSelectSubBab}
@@ -180,7 +215,8 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
           subtitle="Asah logika, pecahan, hingga geometri"
           icon={<BookOpen className="text-brand-accent w-5 h-5" />}
           iconBg="bg-blue-100"
-          items={mathRoadmap}
+          items={mathFiltered}
+          emptyHint={q ? 'Tidak ada sub-bab Matematika cocok.' : null}
           activeBadge="Lanjutkan"
           accent="brand-accent"
           onSelect={onSelectSubBab}
@@ -192,7 +228,7 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
   );
 }
 
-function RoadmapColumn({ title, subtitle, icon, iconBg, items, activeBadge, accent, onSelect }) {
+function RoadmapColumn({ title, subtitle, icon, iconBg, items, activeBadge, accent, onSelect, emptyHint }) {
   const accentText = accent === 'brand-primary' ? 'text-brand-primary' : 'text-brand-accent';
   const accentBg = accent === 'brand-primary' ? 'bg-brand-primary' : 'bg-brand-accent';
   const accentRing = accent === 'brand-primary' ? 'ring-brand-primary/50 bg-red-500/5' : 'ring-brand-accent/50 bg-blue-500/5';
@@ -211,6 +247,9 @@ function RoadmapColumn({ title, subtitle, icon, iconBg, items, activeBadge, acce
       </div>
 
       <div className="space-y-4">
+        {items.length === 0 && emptyHint ? (
+          <div className="glass-card rounded-2xl p-5 text-center text-xs text-gray-400 italic">{emptyHint}</div>
+        ) : null}
         {items.map((item, index) => (
           <div
             key={item.id}

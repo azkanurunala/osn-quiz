@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildTime": "2026-05-19T03:28:45.460Z",
+  "buildTime": "2026-05-19T03:44:15.652Z",
   "items": [
     {
       "id": "ipa-01-makhluk-hidup-campur",
@@ -653,6 +653,19 @@
       "file": "mtk-02-pecahan-desimal-persen-mudah-sedang.json"
     },
     {
+      "id": "mtk-02-pecahan-desimal-persen-mudah",
+      "type": "chapter",
+      "subject": "mtk",
+      "chapter": "mtk-02",
+      "subBab": null,
+      "slug": "pecahan-desimal-persen",
+      "tier": "mudah",
+      "title": "OSN SD · Matematika · MTK-02 Pecahan, Desimal, dan Persen (Tingkat Kabupaten)",
+      "questionCount": 100,
+      "theorySectionCount": 11,
+      "file": "mtk-02-pecahan-desimal-persen-mudah.json"
+    },
+    {
       "id": "mtk-02-pecahan-desimal-persen-sedang-sulit",
       "type": "chapter",
       "subject": "mtk",
@@ -1017,6 +1030,19 @@
       "file": "mtk-07-statistika-peluang-campur.json"
     },
     {
+      "id": "mtk-07-statistika-peluang-mudah-sedang",
+      "type": "chapter",
+      "subject": "mtk",
+      "chapter": "mtk-07",
+      "subBab": null,
+      "slug": "statistika-peluang",
+      "tier": "mudah-sedang",
+      "title": "OSN SD · Matematika · Statistika & Peluang (Tingkat Mudah–Sedang)",
+      "questionCount": 100,
+      "theorySectionCount": 9,
+      "file": "mtk-07-statistika-peluang-mudah-sedang.json"
+    },
+    {
       "id": "mtk-07-statistika-peluang-mudah",
       "type": "chapter",
       "subject": "mtk",
@@ -1028,6 +1054,19 @@
       "questionCount": 100,
       "theorySectionCount": 8,
       "file": "mtk-07-statistika-peluang-mudah.json"
+    },
+    {
+      "id": "mtk-07-statistika-peluang-sedang-sulit",
+      "type": "chapter",
+      "subject": "mtk",
+      "chapter": "mtk-07",
+      "subBab": null,
+      "slug": "statistika-peluang",
+      "tier": "sedang-sulit",
+      "title": "OSN SD · Matematika · Statistika & Peluang (Tingkat Sedang–Sulit)",
+      "questionCount": 100,
+      "theorySectionCount": 10,
+      "file": "mtk-07-statistika-peluang-sedang-sulit.json"
     },
     {
       "id": "mtk-07-statistika-peluang-sedang",
@@ -1233,7 +1272,7 @@
       "slug": "klasifikasi-hewan",
       "tier": "campur",
       "title": "OSN SD · IPA · Sub-bab IPA-01b · Klasifikasi Hewan (Vertebrata/Invertebrata)",
-      "questionCount": 20,
+      "questionCount": 100,
       "theorySectionCount": 6,
       "file": "ipa-01b-klasifikasi-hewan-campur.json"
     },
@@ -1246,7 +1285,7 @@
       "slug": "klasifikasi-tumbuhan",
       "tier": "campur",
       "title": "OSN SD · IPA · Sub-bab IPA-01c · Klasifikasi Tumbuhan (Monokotil/Dikotil)",
-      "questionCount": 50,
+      "questionCount": 100,
       "theorySectionCount": 8,
       "file": "ipa-01c-klasifikasi-tumbuhan-campur.json"
     },
@@ -2278,6 +2317,19 @@
       "file": "mtk-02e-konversi-pecahan-desimal-persen-campur.json"
     },
     {
+      "id": "mtk-02f-operasi-desimal-campur",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-02",
+      "subBab": "mtk-02f",
+      "slug": "operasi-desimal",
+      "tier": "campur",
+      "title": "OSN SD · MTK · Sub-bab MTK-02f · Operasi Desimal (+, −, ×, ÷)",
+      "questionCount": 100,
+      "theorySectionCount": 6,
+      "file": "mtk-02f-operasi-desimal-campur.json"
+    },
+    {
       "id": "mtk-02g-pembulatan-desimal-campur",
       "type": "subbab",
       "subject": "mtk",
@@ -2343,6 +2395,19 @@
       "file": "mtk-02k-cerita-persen-campur.json"
     },
     {
+      "id": "mtk-03a-jenis-bangun-datar-campur",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-03",
+      "subBab": "mtk-03a",
+      "slug": "jenis-bangun-datar",
+      "tier": "campur",
+      "title": "OSN SD — Matematika Sub-Bab 03a: Jenis Bangun Datar & Sifat-sifatnya",
+      "questionCount": 100,
+      "theorySectionCount": 0,
+      "file": "mtk-03a-jenis-bangun-datar-campur.json"
+    },
+    {
       "id": "mtk-03b-keliling-persegi-campur",
       "type": "subbab",
       "subject": "mtk",
@@ -2367,6 +2432,19 @@
       "questionCount": 100,
       "theorySectionCount": 8,
       "file": "mtk-03c-keliling-segitiga-campur.json"
+    },
+    {
+      "id": "mtk-03d-keliling-jajar-trapesium-layang-belah-campur",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-03",
+      "subBab": "mtk-03d",
+      "slug": "keliling-jajar-trapesium-layang-belah",
+      "tier": "campur",
+      "title": "OSN SD — Matematika Sub-Bab 03d",
+      "questionCount": 100,
+      "theorySectionCount": 0,
+      "file": "mtk-03d-keliling-jajar-trapesium-layang-belah-campur.json"
     },
     {
       "id": "mtk-03e-keliling-lingkaran-campur",
@@ -2473,30 +2551,5 @@
       "file": "mtk-03l-sudut-jenis-campur.json"
     }
   ],
-  "errors": [
-    {
-      "file": "osn-sd-mtk-02-pecahan-desimal-persen-mudah.md",
-      "reason": "no questions parsed"
-    },
-    {
-      "file": "osn-sd-mtk-07-statistika-peluang-mudah-sedang.md",
-      "reason": "no questions parsed"
-    },
-    {
-      "file": "osn-sd-mtk-07-statistika-peluang-sedang-sulit.md",
-      "reason": "no questions parsed"
-    },
-    {
-      "file": "osn-sd-mtk-02f-operasi-desimal-campur.md",
-      "reason": "no questions parsed"
-    },
-    {
-      "file": "osn-sd-mtk-03a-jenis-bangun-datar-campur.md",
-      "reason": "no questions parsed"
-    },
-    {
-      "file": "osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-campur.md",
-      "reason": "no questions parsed"
-    }
-  ]
+  "errors": []
 }

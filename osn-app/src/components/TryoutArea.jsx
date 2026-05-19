@@ -4,7 +4,7 @@ import { InlineMarkdown } from '../utils/markdown.jsx';
 import ShareResultCard from './ShareResultCard';
 import { fireMedalUnlock } from '../utils/milestones';
 
-export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
+export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal }) {
   const [examQuestions, setExamQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState({}); // {questionId: selectedOption}
@@ -16,14 +16,43 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
   
   const timerRef = useRef(null);
 
-  // Initialize tryout with 10 random questions from the question bank
+  // Initialize tryout with 10 random questions, sampled across multiple sub-bab files via manifest.
   useEffect(() => {
-    if (questionsData?.questions) {
-      const shuffled = [...questionsData.questions].sort(() => 0.5 - Math.random());
-      const selected = shuffled.slice(0, 10);
-      setExamQuestions(selected);
+    let cancelled = false;
+
+    async function buildExam() {
+      // Prefer cross-subBab sampling when manifest is available
+      const items = (manifest?.items || []).filter((it) => it.type === 'subbab' && it.tier === 'campur');
+      if (items.length >= 3) {
+        const pickN = Math.min(4, items.length);
+        const shuffledItems = [...items].sort(() => 0.5 - Math.random()).slice(0, pickN);
+        try {
+          const datas = await Promise.all(
+            shuffledItems.map((m) => fetch(`/data/${m.file}`, { cache: 'force-cache' }).then((r) => r.ok ? r.json() : null))
+          );
+          const pool = [];
+          datas.forEach((d) => {
+            if (d?.questions) pool.push(...d.questions);
+          });
+          if (pool.length >= 10) {
+            const shuffled = [...pool].sort(() => 0.5 - Math.random()).slice(0, 10);
+            if (!cancelled) setExamQuestions(shuffled);
+            return;
+          }
+        } catch {
+          // fall through to single-source path
+        }
+      }
+      // Fallback: sample from currently-loaded questionsData
+      if (questionsData?.questions) {
+        const shuffled = [...questionsData.questions].sort(() => 0.5 - Math.random()).slice(0, 10);
+        if (!cancelled) setExamQuestions(shuffled);
+      }
     }
-  }, [questionsData]);
+
+    buildExam();
+    return () => { cancelled = true; };
+  }, [manifest, questionsData]);
 
   // Timer logic
   useEffect(() => {

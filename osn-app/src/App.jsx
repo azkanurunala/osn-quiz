@@ -173,6 +173,7 @@ export default function App() {
         {currentTab === 'tryout' && (
           <TryoutArea
             questionsData={questionsData}
+            manifest={manifest}
             onBack={() => setCurrentTab('dashboard')}
             onAddMedal={handleAddMedal}
           />
