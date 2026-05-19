@@ -1043,7 +1043,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05f-operasi-waktu-sedang-sulit.md`
 
 **MTK-05g · Kecepatan, Jarak, Waktu** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-05g-kecepatan-jarak-waktu-campur.md`
+- [x] `osn-sd-mtk-05g-kecepatan-jarak-waktu-campur.md`
 - [ ] `osn-sd-mtk-05g-kecepatan-jarak-waktu-mudah.md`
 - [ ] `osn-sd-mtk-05g-kecepatan-jarak-waktu-sedang.md`
 - [ ] `osn-sd-mtk-05g-kecepatan-jarak-waktu-sulit.md`
@@ -1051,7 +1051,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05g-kecepatan-jarak-waktu-sedang-sulit.md`
 
 **MTK-05h · Konversi Satuan Kecepatan (km/jam ↔ m/detik)** (fokus Prov)
-- [ ] `osn-sd-mtk-05h-konversi-kecepatan-campur.md`
+- [x] `osn-sd-mtk-05h-konversi-kecepatan-campur.md`
 - [ ] `osn-sd-mtk-05h-konversi-kecepatan-mudah.md`
 - [ ] `osn-sd-mtk-05h-konversi-kecepatan-sedang.md`
 - [ ] `osn-sd-mtk-05h-konversi-kecepatan-sulit.md`

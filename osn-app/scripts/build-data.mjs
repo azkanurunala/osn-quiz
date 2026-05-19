@@ -91,9 +91,19 @@ function parseFormatCBlock(blockLines, level, subTopicHint) {
     qText = (qText + (qText && cont ? '\n' : '') + cont).trim();
   }
 
-  // Options — accept "- A. text" OR bare "A. text"
+  // Options — accept "- A. text", bare "A. text", or inline "A. x   B. y   C. z   D. w"
   const options = { A: '', B: '', C: '', D: '' };
   const optEnd = kunciLine !== -1 ? kunciLine : (pembLine !== -1 ? pembLine : blockLines.length);
+  function extractInlineOptsLocal(text) {
+    const re = /([A-D])\.\s+([^]+?)(?=\s{2,}[A-D]\.\s+|\s+[A-D]\.\s+|$)/g;
+    const result = {};
+    let m;
+    while ((m = re.exec(text)) !== null) {
+      const v = m[2].trim();
+      if (v) result[m[1]] = v;
+    }
+    return Object.keys(result).length >= 2 ? result : null;
+  }
   for (let i = optionsStart; i < optEnd; i++) {
     let om = blockLines[i].match(/^-\s+([A-D])\.\s+(.+)$/);
     if (!om) om = blockLines[i].match(/^([A-D])\.\s+(.+)$/);
@@ -101,7 +111,12 @@ function parseFormatCBlock(blockLines, level, subTopicHint) {
       let t = om[2].trim();
       const fb = t.match(/^\*\*(.+)\*\*(.*)$/);
       if (fb && !fb[2].trim()) t = fb[1].trim();
-      options[om[1]] = t;
+      const multi = extractInlineOptsLocal(`${om[1]}. ${t}`);
+      if (multi && Object.keys(multi).length >= 3) {
+        Object.assign(options, multi);
+      } else {
+        options[om[1]] = t;
+      }
     }
   }
 
@@ -342,56 +357,101 @@ function parseQuestionBlock(lines) {
   let firstDashOptionLine = -1, firstBareOptionLine = -1;
   for (let i = 1; i < lines.length; i++) {
     const ln = lines[i];
-    if (soalMarkerLine === -1 && /^\*\*\(1\)\s*Soal:?\*\*/i.test(ln)) soalMarkerLine = i;
-    if (pilihanMarkerLine === -1 && /^\*\*\(2\)\s*Pilihan/i.test(ln)) pilihanMarkerLine = i;
-    if (jawabanMarkerLine === -1 && /^\*\*\(3\)\s*Jawaban:?\*\*/i.test(ln)) jawabanMarkerLine = i;
+    if (soalMarkerLine === -1 && /^\*\*(?:\(1\)\s*)?Soal:?\*\*/i.test(ln)) soalMarkerLine = i;
+    if (pilihanMarkerLine === -1 && /^\*\*(?:\(2\)\s*)?Pilihan(?:\s+Jawaban)?:?\*\*/i.test(ln)) pilihanMarkerLine = i;
+    if (jawabanMarkerLine === -1 && /^\*\*(?:\(3\)\s*)?Jawaban:?\*\*/i.test(ln)) jawabanMarkerLine = i;
     if (pembahasanLine === -1 && /\*\*[📖🔍]?\s*(?:\(\d+\)\s*)?Pembahasan/i.test(ln)) pembahasanLine = i;
     if (firstDashOptionLine === -1 && /^-\s+[A-D]\.\s+/.test(ln)) firstDashOptionLine = i;
     if (firstBareOptionLine === -1 && /^[A-D]\.\s+/.test(ln)) firstBareOptionLine = i;
   }
 
   // ----- Question text -----
+  // Support both multi-line ("**(1) Soal:**\nText") and inline ("**(1) Soal:** Text").
   let questionLines;
+  let inlineQ = '';
   if (soalMarkerLine !== -1) {
+    const inlineMatch = lines[soalMarkerLine].match(/^\*\*(?:\(1\)\s*)?Soal:?\*\*\s*(.+)$/i);
+    if (inlineMatch && inlineMatch[1].trim()) inlineQ = inlineMatch[1].trim();
     const end = pilihanMarkerLine !== -1 ? pilihanMarkerLine : (pembahasanLine !== -1 ? pembahasanLine : lines.length);
     questionLines = lines.slice(soalMarkerLine + 1, end);
   } else {
     const end = firstDashOptionLine !== -1 ? firstDashOptionLine : (firstBareOptionLine !== -1 ? firstBareOptionLine : (pembahasanLine !== -1 ? pembahasanLine : lines.length));
     questionLines = lines.slice(1, end);
   }
-  const questionText = questionLines
+  const continuation = questionLines
     .map(l => l.replace(/^\s+/, '').replace(/\s+$/, ''))
     .filter(l => l && l !== '---')
     .join('\n').trim();
+  const questionText = (inlineQ && continuation) ? `${inlineQ}\n${continuation}` : (inlineQ || continuation);
 
   // ----- Options -----
+  // Support 3 layouts:
+  //   (a) "- A. text" per line (sub-bab style)
+  //   (b) "A. text" per line (bare)
+  //   (c) inline on pilihanMarker / single line: "A. x   B. y   C. z   D. w"
   const options = { A: '', B: '', C: '', D: '' };
   let answerFromBold = null;
-  const optionsStart = firstDashOptionLine !== -1 ? firstDashOptionLine : firstBareOptionLine;
-  if (optionsStart === -1) return null;
-  const optionsEnd = jawabanMarkerLine !== -1 ? jawabanMarkerLine : (pembahasanLine !== -1 ? pembahasanLine : lines.length);
-  for (let i = optionsStart; i < optionsEnd; i++) {
-    const ln = lines[i];
-    let om = ln.match(/^-\s+([A-D])\.\s+(.+)$/);
-    if (!om) om = ln.match(/^([A-D])\.\s+(.+)$/);
-    if (om) {
-      let text = om[2].trim();
-      const fullyBold = text.match(/^\*\*(.+)\*\*(.*)$/);
-      if (fullyBold && !fullyBold[2].trim()) {
-        text = fullyBold[1].trim();
-        if (!answerFromBold) answerFromBold = om[1];
-      }
-      options[om[1]] = text;
+
+  function extractInlineOptions(text) {
+    // Greedy left-to-right scan; capture text after each [A-D]. up to next [A-D]. or EOL.
+    const re = /([A-D])\.\s+([^]+?)(?=\s{2,}[A-D]\.\s+|\s+[A-D]\.\s+|$)/g;
+    const result = {};
+    let m;
+    while ((m = re.exec(text)) !== null) {
+      const txt = m[2].trim();
+      if (txt) result[m[1]] = txt;
+    }
+    return Object.keys(result).length >= 2 ? result : null;
+  }
+
+  // (c) Inline options on pilihanMarker line itself
+  if (pilihanMarkerLine !== -1) {
+    const pl = lines[pilihanMarkerLine].replace(/^\*\*(?:\(2\)\s*)?Pilihan(?:\s+Jawaban)?:?\*\*\s*/i, '');
+    if (pl.trim()) {
+      const inline = extractInlineOptions(pl);
+      if (inline) Object.assign(options, inline);
     }
   }
 
-  // ----- Explicit jawaban marker (chapter format) -----
+  // (a)/(b) Per-line options
+  const optionsStart = firstDashOptionLine !== -1 ? firstDashOptionLine : firstBareOptionLine;
+  if (optionsStart !== -1) {
+    const optionsEnd = jawabanMarkerLine !== -1 ? jawabanMarkerLine : (pembahasanLine !== -1 ? pembahasanLine : lines.length);
+    for (let i = optionsStart; i < optionsEnd; i++) {
+      const ln = lines[i];
+      let om = ln.match(/^-\s+([A-D])\.\s+(.+)$/);
+      if (!om) om = ln.match(/^([A-D])\.\s+(.+)$/);
+      if (om) {
+        let text = om[2].trim();
+        const fullyBold = text.match(/^\*\*(.+)\*\*(.*)$/);
+        if (fullyBold && !fullyBold[2].trim()) {
+          text = fullyBold[1].trim();
+          if (!answerFromBold) answerFromBold = om[1];
+        }
+        // Single-line multi-options? e.g. "A. 79 cm²    B. 120 cm²    C. ..."
+        const multi = extractInlineOptions(`${om[1]}. ${text}`);
+        if (multi && Object.keys(multi).length >= 3) {
+          Object.assign(options, multi);
+        } else {
+          options[om[1]] = text;
+        }
+      }
+    }
+  }
+
+  // Bail if still no options at all
+  if (!options.A && !options.B && !options.C && !options.D) return null;
+
+  // ----- Explicit jawaban marker -----
   let answerFromMarker = null;
   if (jawabanMarkerLine !== -1) {
     const jl = lines[jawabanMarkerLine];
-    // Match "(3) Jawaban: **C. text**" or "(3) Jawaban: **C · text**" or "Jawaban: C" etc.
-    const jm = jl.match(/Jawaban:?\*?\*?[:\s]*\*?\*?([A-D])\s*[.·•・)\s]/i)
-            || jl.match(/Jawaban:?\*?\*?[:\s]*\*?\*?([A-D])\s*$/i);
+    // Match a wide range:
+    //   "**(3) Jawaban:** **C. text**"
+    //   "**Jawaban:** **B**"
+    //   "Jawaban: C"
+    //   "**(3) Jawaban:** **C · text**"
+    const jm = jl.match(/Jawaban:?\*?\*?[:\s]*\*?\*?([A-D])\s*(?:[.·•・)*\s]|$)/i);
     if (jm) answerFromMarker = jm[1].toUpperCase();
   }
 
@@ -421,12 +481,12 @@ function parseQuestionBlock(lines) {
       modeBuf = [];
     };
 
-    // Match analysis sub-bullets in either format:
-    //   - **A benar:** text                (sub-bab)
+    // Match analysis sub-bullets in either format (allow with or without leading whitespace):
+    //   - **A benar:** text                (sub-bab; also seen top-level in some files)
     //   - **A salah — tag:** text
     //   - **A. opt text** — Benar/Salah. Reason  (chapter)
-    const analysisItemRe1 = /^\s+-\s+\*\*([A-D])\s+(benar|salah)([^*]*?)\*\*:?\s*(.*)$/i;
-    const analysisItemRe2 = /^\s+-\s+\*\*([A-D])\.\s+([^*]+)\*\*\s*[—–\-]\s*(\w+)\.?\s*(.*)$/i;
+    const analysisItemRe1 = /^\s*-\s+\*\*([A-D])\s+(benar|salah)([^*]*?)\*\*:?\s*(.*)$/i;
+    const analysisItemRe2 = /^\s*-\s+\*\*([A-D])\.\s+([^*]+)\*\*\s*[—–\-]\s*(\w+)\.?\s*(.*)$/i;
 
     const tryAnalysisItem = (line) => {
       let mt = line.match(analysisItemRe1);
@@ -463,17 +523,19 @@ function parseQuestionBlock(lines) {
       if (tipsMatch) { flushMode(); mode = 'tips'; curLetter = null; const r = tipsMatch[1].trim(); if (r) modeBuf.push(r); continue; }
       if (hasilMatch) { flushMode(); mode = null; curLetter = null; continue; }
 
-      if (mode === 'analysis' || mode === 'analysis-item') {
-        const item = tryAnalysisItem(line);
-        if (item) {
-          flushMode();
-          curLetter = item.letter;
-          modeBuf = item.text ? [item.text] : [];
-          if (item.verdict === 'benar' && !answerKey) answerKey = curLetter;
-          mode = 'analysis-item';
-        } else if (mode === 'analysis-item' && /^\s{2,}/.test(line) && trimmed && !line.startsWith('---')) {
-          modeBuf.push(trimmed);
-        }
+      // Try analysis-item match regardless of mode — some files omit
+      // the "Analisis tiap opsi:" header and put analysis bullets at top-level.
+      const item = tryAnalysisItem(line);
+      if (item) {
+        flushMode();
+        curLetter = item.letter;
+        modeBuf = item.text ? [item.text] : [];
+        if (item.verdict === 'benar' && !answerKey) answerKey = curLetter;
+        mode = 'analysis-item';
+        continue;
+      }
+      if (mode === 'analysis-item' && /^\s{2,}/.test(line) && trimmed && !line.startsWith('---')) {
+        modeBuf.push(trimmed);
       } else if (mode === 'concept') {
         if (trimmed === '') continue;
         if (/^\s+/.test(line) && !line.startsWith('-')) modeBuf.push(trimmed);

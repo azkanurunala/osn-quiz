@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildTime": "2026-05-19T03:57:29.792Z",
+  "buildTime": "2026-05-19T04:15:20.026Z",
   "items": [
     {
       "id": "ipa-01-makhluk-hidup-campur",
@@ -466,7 +466,7 @@
       "slug": "komprehensif",
       "tier": "sulit",
       "title": "OSN SD · IPA Komprehensif · Tingkat Nasional (Sulit)",
-      "questionCount": 2,
+      "questionCount": 100,
       "theorySectionCount": 0,
       "file": "ipa-komprehensif-sulit.json"
     },
@@ -2809,6 +2809,32 @@
       "questionCount": 100,
       "theorySectionCount": 10,
       "file": "mtk-05f-operasi-waktu-campur.json"
+    },
+    {
+      "id": "mtk-05g-kecepatan-jarak-waktu-campur",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-05",
+      "subBab": "mtk-05g",
+      "slug": "kecepatan-jarak-waktu",
+      "tier": "campur",
+      "title": "OSN/KSN SD — MTK · Sub-Bab 05g: Kecepatan, Jarak, dan Waktu (Tingkat Campur)",
+      "questionCount": 100,
+      "theorySectionCount": 8,
+      "file": "mtk-05g-kecepatan-jarak-waktu-campur.json"
+    },
+    {
+      "id": "mtk-05h-konversi-kecepatan-campur",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-05",
+      "subBab": "mtk-05h",
+      "slug": "konversi-kecepatan",
+      "tier": "campur",
+      "title": "OSN/KSN SD — MATEMATIKA",
+      "questionCount": 104,
+      "theorySectionCount": 6,
+      "file": "mtk-05h-konversi-kecepatan-campur.json"
     }
   ],
   "errors": []
