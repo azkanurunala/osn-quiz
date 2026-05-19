@@ -70,61 +70,92 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const explanationScrollRef = useRef(null);
   const autoscrollIntervalRef = useRef(null);
   const recorderRef = useRef(null);
+  const recAttemptedRef = useRef(false); // StrictMode-safe init gate
   const recorderStartTickRef = useRef(0);
   const [recElapsed, setRecElapsed] = useState(0);
   const [recError, setRecError] = useState(null);
+  // Gate the entire practice UI until recorder confirms started (or user falls back)
+  const [recPreparing, setRecPreparing] = useState(isAutoRecord);
 
   const currentQuestion = questions[currentIndex];
 
-  // ----- Auto-record mode: force flags, start recorder on mount -----
-  useEffect(() => {
+  // ----- Auto-record start logic (extracted so retry button can call it) -----
+  const startAutoRecord = useCallback(() => {
     if (!isAutoRecord || !subBabId) return;
-    // Force flags for clean-mode recording
-    setTimerEnabled(true);
-    setAutoPilot(true);
-    setIsMuted(false);
-    setLayoutSplit(true);
-    setIsCleanMode(true);
-    setShowIntro(true);
-    setIntroTimeLeft(3);
-
-    // Already running? skip
-    if (recorderRef.current) return;
-
+    if (recorderRef.current) return; // already running
+    setRecError(null);
+    setRecPreparing(true);
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
-    let cancelled = false;
     startRecording({ filename })
       .then((rec) => {
-        if (cancelled) {
+        if (recorderRef.current) {
           rec.stop({ autoDownload: false }).catch(() => {});
           return;
         }
         recorderRef.current = rec;
         recorderStartTickRef.current = Date.now();
+        setRecElapsed(0);
+
+        setTimerEnabled(true);
+        setAutoPilot(true);
+        setIsMuted(false);
+        setLayoutSplit(true);
+        setIsCleanMode(true);
+        setShowIntro(true);
+        setIntroTimeLeft(3);
+        setRecPreparing(false);
+
         rec.onUserStopped(() => {
-          // user clicked browser's native "Stop sharing" — bail out gracefully
           recorderRef.current = null;
-          setRecError('Rekaman dihentikan dari browser. Lanjut tanpa rekaman.');
+          const fn = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
+          setSavedToast({ name: fn, size: 0 });
+          setTimeout(() => setSavedToast(null), 8000);
         });
       })
       .catch((err) => {
-        if (!cancelled) setRecError(err?.message || 'Gagal memulai perekaman.');
+        console.error('[recorder] startRecording failed:', err);
+        const msg = err?.name === 'NotAllowedError'
+          ? 'Izin perekaman dibatalkan. Pilih "Coba Lagi" untuk minta izin lagi, atau Kembali untuk pilih mode manual.'
+          : (err?.message || 'Gagal memulai perekaman.');
+        setRecError(msg);
+        setRecPreparing(false);
       });
+  }, [isAutoRecord, subBabId, questionsData]);
 
-    return () => { cancelled = true; };
+  // ----- Auto-record mode: kick off recorder on mount -----
+  useEffect(() => {
+    if (!isAutoRecord || !subBabId) return;
+    if (recAttemptedRef.current) return;
+    recAttemptedRef.current = true;
+    startAutoRecord();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isAutoRecord, subBabId]);
 
-  // Tick the REC duration display
+  // Tick the REC duration display — poll the ref every 500ms while in auto-record mode
   useEffect(() => {
-    if (!isAutoRecord || !recorderRef.current) return;
+    if (!isAutoRecord) return;
     const id = setInterval(() => {
       if (recorderRef.current?.isActive()) {
         setRecElapsed(Math.floor((Date.now() - recorderStartTickRef.current) / 1000));
       }
     }, 500);
     return () => clearInterval(id);
-  }, [isAutoRecord, recElapsed]);
+  }, [isAutoRecord]);
+
+  // Manual Stop & Save button handler
+  const [savedToast, setSavedToast] = useState(null);
+  const handleStopAndSave = useCallback(() => {
+    if (!recorderRef.current) return;
+    const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
+    const rec = recorderRef.current;
+    recorderRef.current = null;
+    rec.stop({ autoDownload: true, filename })
+      .then((blob) => {
+        setSavedToast({ name: filename, size: blob?.size || 0 });
+        setTimeout(() => setSavedToast(null), 8000);
+      })
+      .catch(() => {});
+  }, [subBabId, questionsData]);
 
   // Stop recorder + auto-download when sub-bab completed
   useEffect(() => {
@@ -363,6 +394,64 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     );
   }
 
+  // Auto-record mode: gate practice UI behind share-screen permission flow
+  if (isAutoRecord && (recPreparing || (recError && !recorderRef.current))) {
+    return (
+      <div className="fixed inset-0 z-50 bg-[#7B2CBF] flex flex-col items-center justify-center font-sans select-none p-6">
+        <div className="absolute inset-0 opacity-15 pointer-events-none">
+          <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+            <path d="M 0 100 Q 300 200 600 100 T 1200 100 T 1800 100" fill="none" stroke="white" strokeWidth="4" />
+            <path d="M 0 500 Q 400 400 800 500 T 1600 500" fill="none" stroke="white" strokeWidth="4" />
+          </svg>
+        </div>
+        <div className="relative max-w-md text-center space-y-6 animate-fade-in">
+          {recError ? (
+            <>
+              <div className="w-20 h-20 mx-auto rounded-full bg-red-500/20 border-2 border-red-400/40 flex items-center justify-center">
+                <XCircle className="w-10 h-10 text-red-200" />
+              </div>
+              <div>
+                <h2 className="text-xl font-extrabold text-white font-heading">Rekaman Tidak Dimulai</h2>
+                <p className="text-sm text-white/80 mt-2 leading-relaxed">{recError}</p>
+              </div>
+              <div className="flex items-center justify-center gap-3 pt-2">
+                <button
+                  onClick={() => startAutoRecord()}
+                  className="bg-white text-[#7B2CBF] hover:bg-white/90 font-extrabold px-5 py-2.5 rounded-xl text-xs transition shadow-lg"
+                >
+                  Coba Lagi
+                </button>
+                <button
+                  onClick={onBack}
+                  className="bg-white/10 hover:bg-white/20 text-white font-bold px-5 py-2.5 rounded-xl text-xs transition border border-white/20"
+                >
+                  Kembali
+                </button>
+              </div>
+            </>
+          ) : (
+            <>
+              <div className="w-20 h-20 mx-auto rounded-full border-4 border-white/20 border-t-white animate-spin"></div>
+              <div>
+                <h2 className="text-xl font-extrabold text-white font-heading">Menunggu Izin Perekaman…</h2>
+                <p className="text-sm text-white/80 mt-2 leading-relaxed">
+                  Browser sedang menampilkan popup pilih layar. Pilih <strong className="text-white">tab ini</strong> (atau seluruh layar), centang <strong className="text-white">"Share tab audio"</strong>, lalu klik <strong className="text-white">Bagikan / Share</strong>.
+                </p>
+                <p className="text-[11px] text-white/60 mt-2">Soal dan timer baru mulai setelah perekaman aktif.</p>
+              </div>
+              <button
+                onClick={onBack}
+                className="bg-white/10 hover:bg-white/20 text-white font-bold px-5 py-2 rounded-xl text-xs transition border border-white/20"
+              >
+                Batalkan
+              </button>
+            </>
+          )}
+        </div>
+      </div>
+    );
+  }
+
   const handleOptionSelect = (option) => { if (!isChecked) setSelectedOption(option); };
   const isCorrectOption = (opt) => opt === currentQuestion.answerKey;
   const isSelectedOption = (opt) => opt === selectedOption;
@@ -417,19 +506,35 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           <Settings className="w-4 h-4 animate-spin-slow" />
         </button>
 
-        {/* REC indicator (only in auto-record mode) */}
+        {/* REC indicator + Stop & Save button (only in auto-record mode) */}
         {isAutoRecord && (
-          <div className="fixed top-4 left-4 z-50 flex items-center gap-2 px-3 py-1.5 bg-red-600/90 text-white rounded-full backdrop-blur-sm shadow-lg font-mono text-xs font-bold">
-            <span className="w-2 h-2 rounded-full bg-white animate-pulse"></span>
-            REC
-            <span className="text-white/80 tabular-nums">{Math.floor(recElapsed / 60).toString().padStart(2,'0')}:{(recElapsed % 60).toString().padStart(2,'0')}</span>
-            {bulkQueueRemaining > 0 && (
-              <span className="ml-1 px-1.5 py-0.5 bg-white/20 rounded-full text-[10px]">Antrian: {bulkQueueRemaining + 1}</span>
-            )}
+          <div className="fixed top-4 left-4 z-50 flex items-center gap-2">
+            <div className="flex items-center gap-2 px-3 py-1.5 bg-red-600/90 text-white rounded-full backdrop-blur-sm shadow-lg font-mono text-xs font-bold">
+              <span className="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+              REC
+              <span className="text-white/80 tabular-nums">{Math.floor(recElapsed / 60).toString().padStart(2,'0')}:{(recElapsed % 60).toString().padStart(2,'0')}</span>
+              {bulkQueueRemaining > 0 && (
+                <span className="ml-1 px-1.5 py-0.5 bg-white/20 rounded-full text-[10px]">Antrian: {bulkQueueRemaining + 1}</span>
+              )}
+            </div>
+            <button
+              onClick={handleStopAndSave}
+              className="px-3 py-1.5 bg-white/90 hover:bg-white text-gray-800 hover:text-brand-primary text-[11px] font-extrabold rounded-full shadow-lg transition flex items-center gap-1.5"
+              title="Hentikan rekaman dan simpan file sekarang"
+            >
+              ⬛ Stop & Save
+            </button>
           </div>
         )}
         {recError && (
           <div className="fixed top-16 left-4 z-50 px-3 py-1.5 bg-yellow-100 text-yellow-800 text-[11px] rounded-lg shadow-md max-w-xs">{recError}</div>
+        )}
+        {savedToast && (
+          <div className="fixed top-16 left-4 z-50 px-4 py-2.5 bg-emerald-600 text-white text-xs font-bold rounded-xl shadow-lg max-w-sm animate-slide-in">
+            ✓ Video tersimpan di folder Downloads
+            <div className="text-[10px] font-mono opacity-90 mt-0.5 break-all">{savedToast.name}</div>
+            <div className="text-[10px] opacity-80">{(savedToast.size / (1024*1024)).toFixed(1)} MB · Buka folder Downloads browser-mu</div>
+          </div>
         )}
         <div className="w-full h-full grid grid-cols-1 lg:grid-cols-12 gap-0 overflow-hidden">
           <div className={`h-full flex flex-col justify-center p-8 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-6' : 'lg:col-span-12 max-w-4xl mx-auto'}`}>

@@ -55,10 +55,17 @@ export async function startRecording({
   const stopped = new Promise((r) => { resolveStop = r; });
   recorder.onstop = () => resolveStop(new Blob(chunks, { type: mime }));
 
-  // Detect user clicking browser's native "Stop sharing" → auto-stop recorder
+  // Detect user clicking browser's native "Stop sharing" → auto-stop recorder + save what we have
   const userStoppedCallbacks = [];
+  let userStoppedFlag = false;
   const onTrackEnded = () => {
+    if (userStoppedFlag) return;
+    userStoppedFlag = true;
     if (recorder.state !== 'inactive') recorder.stop();
+    // Auto-download what we have so far (partial recording > nothing)
+    stopped.then((blob) => {
+      if (blob.size > 0) downloadBlob(blob, filename);
+    }).catch(() => {});
     userStoppedCallbacks.forEach((cb) => { try { cb(); } catch { /* ignore */ } });
   };
   stream.getVideoTracks().forEach((t) => t.addEventListener('ended', onTrackEnded));
