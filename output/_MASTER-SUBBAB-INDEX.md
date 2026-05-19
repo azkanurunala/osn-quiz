@@ -1059,7 +1059,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05h-konversi-kecepatan-sedang-sulit.md`
 
 **MTK-05i · Debit (Volume per Waktu)** (fokus Prov)
-- [ ] `osn-sd-mtk-05i-debit-campur.md`
+- [x] `osn-sd-mtk-05i-debit-campur.md`
 - [ ] `osn-sd-mtk-05i-debit-mudah.md`
 - [ ] `osn-sd-mtk-05i-debit-sedang.md`
 - [ ] `osn-sd-mtk-05i-debit-sulit.md`
@@ -1067,7 +1067,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05i-debit-sedang-sulit.md`
 
 **MTK-05j · Konversi Satuan Debit** (fokus Prov)
-- [ ] `osn-sd-mtk-05j-konversi-debit-campur.md`
+- [x] `osn-sd-mtk-05j-konversi-debit-campur.md`
 - [ ] `osn-sd-mtk-05j-konversi-debit-mudah.md`
 - [ ] `osn-sd-mtk-05j-konversi-debit-sedang.md`
 - [ ] `osn-sd-mtk-05j-konversi-debit-sulit.md`
@@ -1075,7 +1075,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05j-konversi-debit-sedang-sulit.md`
 
 **MTK-05k · Soal Cerita Pengukuran Kompleks** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-05k-cerita-pengukuran-campur.md`
+- [x] `osn-sd-mtk-05k-cerita-pengukuran-campur.md`
 - [ ] `osn-sd-mtk-05k-cerita-pengukuran-mudah.md`
 - [ ] `osn-sd-mtk-05k-cerita-pengukuran-sedang.md`
 - [ ] `osn-sd-mtk-05k-cerita-pengukuran-sulit.md`
@@ -1083,7 +1083,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05k-cerita-pengukuran-sedang-sulit.md`
 
 **MTK-05l · Selisih Waktu/Jarak/Kecepatan** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-05l-selisih-waktu-jarak-campur.md`
+- [x] `osn-sd-mtk-05l-selisih-waktu-jarak-campur.md`
 - [ ] `osn-sd-mtk-05l-selisih-waktu-jarak-mudah.md`
 - [ ] `osn-sd-mtk-05l-selisih-waktu-jarak-sedang.md`
 - [ ] `osn-sd-mtk-05l-selisih-waktu-jarak-sulit.md`
@@ -1093,7 +1093,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-06 · Aritmetika Sosial (10 sub-bab)
 
 **MTK-06a · Harga Beli, Harga Jual, Untung, Rugi** (fokus Kab)
-- [ ] `osn-sd-mtk-06a-untung-rugi-campur.md`
+- [x] `osn-sd-mtk-06a-untung-rugi-campur.md`
 - [ ] `osn-sd-mtk-06a-untung-rugi-mudah.md`
 - [ ] `osn-sd-mtk-06a-untung-rugi-sedang.md`
 - [ ] `osn-sd-mtk-06a-untung-rugi-sulit.md`
@@ -1101,7 +1101,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06a-untung-rugi-sedang-sulit.md`
 
 **MTK-06b · Persentase Untung & Rugi** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-06b-persen-untung-rugi-campur.md`
+- [x] `osn-sd-mtk-06b-persen-untung-rugi-campur.md`
 - [ ] `osn-sd-mtk-06b-persen-untung-rugi-mudah.md`
 - [ ] `osn-sd-mtk-06b-persen-untung-rugi-sedang.md`
 - [ ] `osn-sd-mtk-06b-persen-untung-rugi-sulit.md`
@@ -1109,7 +1109,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06b-persen-untung-rugi-sedang-sulit.md`
 
 **MTK-06c · Diskon (Potongan Harga)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-06c-diskon-campur.md`
+- [x] `osn-sd-mtk-06c-diskon-campur.md`
 - [ ] `osn-sd-mtk-06c-diskon-mudah.md`
 - [ ] `osn-sd-mtk-06c-diskon-sedang.md`
 - [ ] `osn-sd-mtk-06c-diskon-sulit.md`
@@ -1117,7 +1117,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06c-diskon-sedang-sulit.md`
 
 **MTK-06d · Diskon Berlapis / Diskon Ganda** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-06d-diskon-berlapis-campur.md`
+- [x] `osn-sd-mtk-06d-diskon-berlapis-campur.md`
 - [ ] `osn-sd-mtk-06d-diskon-berlapis-mudah.md`
 - [ ] `osn-sd-mtk-06d-diskon-berlapis-sedang.md`
 - [ ] `osn-sd-mtk-06d-diskon-berlapis-sulit.md`
@@ -1125,7 +1125,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06d-diskon-berlapis-sedang-sulit.md`
 
 **MTK-06e · Bunga Tunggal** (fokus Prov)
-- [ ] `osn-sd-mtk-06e-bunga-tunggal-campur.md`
+- [x] `osn-sd-mtk-06e-bunga-tunggal-campur.md`
 - [ ] `osn-sd-mtk-06e-bunga-tunggal-mudah.md`
 - [ ] `osn-sd-mtk-06e-bunga-tunggal-sedang.md`
 - [ ] `osn-sd-mtk-06e-bunga-tunggal-sulit.md`
@@ -1133,7 +1133,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06e-bunga-tunggal-sedang-sulit.md`
 
 **MTK-06f · Pajak (PPN, Pajak Penghasilan)** (fokus Prov)
-- [ ] `osn-sd-mtk-06f-pajak-campur.md`
+- [x] `osn-sd-mtk-06f-pajak-campur.md`
 - [ ] `osn-sd-mtk-06f-pajak-mudah.md`
 - [ ] `osn-sd-mtk-06f-pajak-sedang.md`
 - [ ] `osn-sd-mtk-06f-pajak-sulit.md`
@@ -1141,7 +1141,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06f-pajak-sedang-sulit.md`
 
 **MTK-06g · Perbandingan Senilai** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-06g-perbandingan-senilai-campur.md`
+- [x] `osn-sd-mtk-06g-perbandingan-senilai-campur.md`
 - [ ] `osn-sd-mtk-06g-perbandingan-senilai-mudah.md`
 - [ ] `osn-sd-mtk-06g-perbandingan-senilai-sedang.md`
 - [ ] `osn-sd-mtk-06g-perbandingan-senilai-sulit.md`
@@ -1149,7 +1149,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06g-perbandingan-senilai-sedang-sulit.md`
 
 **MTK-06h · Perbandingan Berbalik Nilai** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-06h-perbandingan-berbalik-campur.md`
+- [x] `osn-sd-mtk-06h-perbandingan-berbalik-campur.md`
 - [ ] `osn-sd-mtk-06h-perbandingan-berbalik-mudah.md`
 - [ ] `osn-sd-mtk-06h-perbandingan-berbalik-sedang.md`
 - [ ] `osn-sd-mtk-06h-perbandingan-berbalik-sulit.md`
@@ -1157,7 +1157,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06h-perbandingan-berbalik-sedang-sulit.md`
 
 **MTK-06i · Skala pada Peta/Denah** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-06i-skala-campur.md`
+- [x] `osn-sd-mtk-06i-skala-campur.md`
 - [ ] `osn-sd-mtk-06i-skala-mudah.md`
 - [ ] `osn-sd-mtk-06i-skala-sedang.md`
 - [ ] `osn-sd-mtk-06i-skala-sulit.md`
@@ -1165,7 +1165,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-06i-skala-sedang-sulit.md`
 
 **MTK-06j · Soal Cerita Kombinasi** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-06j-cerita-kombinasi-campur.md`
+- [x] `osn-sd-mtk-06j-cerita-kombinasi-campur.md`
 - [ ] `osn-sd-mtk-06j-cerita-kombinasi-mudah.md`
 - [ ] `osn-sd-mtk-06j-cerita-kombinasi-sedang.md`
 - [ ] `osn-sd-mtk-06j-cerita-kombinasi-sulit.md`
@@ -1175,7 +1175,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-07 · Statistika & Peluang (13 sub-bab)
 
 **MTK-07a · Pengumpulan & Penyajian Data (Tabel, Turus)** (fokus Kab)
-- [ ] `osn-sd-mtk-07a-penyajian-data-campur.md`
+- [x] `osn-sd-mtk-07a-penyajian-data-campur.md`
 - [ ] `osn-sd-mtk-07a-penyajian-data-mudah.md`
 - [ ] `osn-sd-mtk-07a-penyajian-data-sedang.md`
 - [ ] `osn-sd-mtk-07a-penyajian-data-sulit.md`
@@ -1183,7 +1183,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07a-penyajian-data-sedang-sulit.md`
 
 **MTK-07b · Membaca Diagram Batang** (fokus Kab)
-- [ ] `osn-sd-mtk-07b-diagram-batang-campur.md`
+- [x] `osn-sd-mtk-07b-diagram-batang-campur.md`
 - [ ] `osn-sd-mtk-07b-diagram-batang-mudah.md`
 - [ ] `osn-sd-mtk-07b-diagram-batang-sedang.md`
 - [ ] `osn-sd-mtk-07b-diagram-batang-sulit.md`
@@ -1191,7 +1191,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07b-diagram-batang-sedang-sulit.md`
 
 **MTK-07c · Membaca Diagram Garis** (fokus Kab)
-- [ ] `osn-sd-mtk-07c-diagram-garis-campur.md`
+- [x] `osn-sd-mtk-07c-diagram-garis-campur.md`
 - [ ] `osn-sd-mtk-07c-diagram-garis-mudah.md`
 - [ ] `osn-sd-mtk-07c-diagram-garis-sedang.md`
 - [ ] `osn-sd-mtk-07c-diagram-garis-sulit.md`
@@ -1199,7 +1199,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07c-diagram-garis-sedang-sulit.md`
 
 **MTK-07d · Membaca Diagram Lingkaran (%, Derajat)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-07d-diagram-lingkaran-campur.md`
+- [x] `osn-sd-mtk-07d-diagram-lingkaran-campur.md`
 - [ ] `osn-sd-mtk-07d-diagram-lingkaran-mudah.md`
 - [ ] `osn-sd-mtk-07d-diagram-lingkaran-sedang.md`
 - [ ] `osn-sd-mtk-07d-diagram-lingkaran-sulit.md`
@@ -1207,7 +1207,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07d-diagram-lingkaran-sedang-sulit.md`
 
 **MTK-07e · Mean (Rata-rata) Sederhana** (fokus Kab)
-- [ ] `osn-sd-mtk-07e-mean-campur.md`
+- [x] `osn-sd-mtk-07e-mean-campur.md`
 - [ ] `osn-sd-mtk-07e-mean-mudah.md`
 - [ ] `osn-sd-mtk-07e-mean-sedang.md`
 - [ ] `osn-sd-mtk-07e-mean-sulit.md`
@@ -1215,7 +1215,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07e-mean-sedang-sulit.md`
 
 **MTK-07f · Mean dengan Data Hilang** (fokus Prov)
-- [ ] `osn-sd-mtk-07f-mean-data-hilang-campur.md`
+- [x] `osn-sd-mtk-07f-mean-data-hilang-campur.md`
 - [ ] `osn-sd-mtk-07f-mean-data-hilang-mudah.md`
 - [ ] `osn-sd-mtk-07f-mean-data-hilang-sedang.md`
 - [ ] `osn-sd-mtk-07f-mean-data-hilang-sulit.md`
@@ -1223,7 +1223,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07f-mean-data-hilang-sedang-sulit.md`
 
 **MTK-07g · Median** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-07g-median-campur.md`
+- [x] `osn-sd-mtk-07g-median-campur.md`
 - [ ] `osn-sd-mtk-07g-median-mudah.md`
 - [ ] `osn-sd-mtk-07g-median-sedang.md`
 - [ ] `osn-sd-mtk-07g-median-sulit.md`
@@ -1231,7 +1231,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07g-median-sedang-sulit.md`
 
 **MTK-07h · Modus** (fokus Kab)
-- [ ] `osn-sd-mtk-07h-modus-campur.md`
+- [x] `osn-sd-mtk-07h-modus-campur.md`
 - [ ] `osn-sd-mtk-07h-modus-mudah.md`
 - [ ] `osn-sd-mtk-07h-modus-sedang.md`
 - [ ] `osn-sd-mtk-07h-modus-sulit.md`
@@ -1239,7 +1239,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07h-modus-sedang-sulit.md`
 
 **MTK-07i · Jangkauan** (fokus Kab)
-- [ ] `osn-sd-mtk-07i-jangkauan-campur.md`
+- [x] `osn-sd-mtk-07i-jangkauan-campur.md`
 - [ ] `osn-sd-mtk-07i-jangkauan-mudah.md`
 - [ ] `osn-sd-mtk-07i-jangkauan-sedang.md`
 - [ ] `osn-sd-mtk-07i-jangkauan-sulit.md`
@@ -1247,7 +1247,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07i-jangkauan-sedang-sulit.md`
 
 **MTK-07j · Statistik Gabungan (Mean Baru setelah Penambahan)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-07j-statistik-gabungan-campur.md`
+- [x] `osn-sd-mtk-07j-statistik-gabungan-campur.md`
 - [ ] `osn-sd-mtk-07j-statistik-gabungan-mudah.md`
 - [ ] `osn-sd-mtk-07j-statistik-gabungan-sedang.md`
 - [ ] `osn-sd-mtk-07j-statistik-gabungan-sulit.md`
@@ -1255,7 +1255,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07j-statistik-gabungan-sedang-sulit.md`
 
 **MTK-07k · Peluang Sederhana (Dadu, Koin)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-07k-peluang-sederhana-campur.md`
+- [x] `osn-sd-mtk-07k-peluang-sederhana-campur.md`
 - [ ] `osn-sd-mtk-07k-peluang-sederhana-mudah.md`
 - [ ] `osn-sd-mtk-07k-peluang-sederhana-sedang.md`
 - [ ] `osn-sd-mtk-07k-peluang-sederhana-sulit.md`
@@ -1263,7 +1263,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07k-peluang-sederhana-sedang-sulit.md`
 
 **MTK-07l · Peluang Kombinasi Sederhana** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-07l-peluang-kombinasi-campur.md`
+- [x] `osn-sd-mtk-07l-peluang-kombinasi-campur.md`
 - [ ] `osn-sd-mtk-07l-peluang-kombinasi-mudah.md`
 - [ ] `osn-sd-mtk-07l-peluang-kombinasi-sedang.md`
 - [ ] `osn-sd-mtk-07l-peluang-kombinasi-sulit.md`
@@ -1271,7 +1271,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-07l-peluang-kombinasi-sedang-sulit.md`
 
 **MTK-07m · Soal Cerita Statistika Aplikatif** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-07m-cerita-statistika-campur.md`
+- [x] `osn-sd-mtk-07m-cerita-statistika-campur.md`
 - [ ] `osn-sd-mtk-07m-cerita-statistika-mudah.md`
 - [ ] `osn-sd-mtk-07m-cerita-statistika-sedang.md`
 - [ ] `osn-sd-mtk-07m-cerita-statistika-sulit.md`
@@ -1281,7 +1281,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-08 · Pola Bilangan, Logika, & Aljabar Dasar (11 sub-bab)
 
 **MTK-08a · Pola Bilangan Aritmetika** (fokus Kab)
-- [ ] `osn-sd-mtk-08a-pola-aritmetika-campur.md`
+- [x] `osn-sd-mtk-08a-pola-aritmetika-campur.md`
 - [ ] `osn-sd-mtk-08a-pola-aritmetika-mudah.md`
 - [ ] `osn-sd-mtk-08a-pola-aritmetika-sedang.md`
 - [ ] `osn-sd-mtk-08a-pola-aritmetika-sulit.md`
@@ -1289,7 +1289,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08a-pola-aritmetika-sedang-sulit.md`
 
 **MTK-08b · Pola Bilangan Geometri** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-08b-pola-geometri-campur.md`
+- [x] `osn-sd-mtk-08b-pola-geometri-campur.md`
 - [ ] `osn-sd-mtk-08b-pola-geometri-mudah.md`
 - [ ] `osn-sd-mtk-08b-pola-geometri-sedang.md`
 - [ ] `osn-sd-mtk-08b-pola-geometri-sulit.md`
@@ -1297,7 +1297,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08b-pola-geometri-sedang-sulit.md`
 
 **MTK-08c · Pola Bilangan Khusus (Fibonacci, Segitiga, Persegi)** (fokus Prov)
-- [ ] `osn-sd-mtk-08c-pola-khusus-campur.md`
+- [x] `osn-sd-mtk-08c-pola-khusus-campur.md`
 - [ ] `osn-sd-mtk-08c-pola-khusus-mudah.md`
 - [ ] `osn-sd-mtk-08c-pola-khusus-sedang.md`
 - [ ] `osn-sd-mtk-08c-pola-khusus-sulit.md`
@@ -1305,7 +1305,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08c-pola-khusus-sedang-sulit.md`
 
 **MTK-08d · Suku ke-n Barisan Sederhana** (fokus Prov)
-- [ ] `osn-sd-mtk-08d-suku-ke-n-campur.md`
+- [x] `osn-sd-mtk-08d-suku-ke-n-campur.md`
 - [ ] `osn-sd-mtk-08d-suku-ke-n-mudah.md`
 - [ ] `osn-sd-mtk-08d-suku-ke-n-sedang.md`
 - [ ] `osn-sd-mtk-08d-suku-ke-n-sulit.md`
@@ -1313,7 +1313,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08d-suku-ke-n-sedang-sulit.md`
 
 **MTK-08e · Pola Gambar (Visual → Angka)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-08e-pola-gambar-campur.md`
+- [x] `osn-sd-mtk-08e-pola-gambar-campur.md`
 - [ ] `osn-sd-mtk-08e-pola-gambar-mudah.md`
 - [ ] `osn-sd-mtk-08e-pola-gambar-sedang.md`
 - [ ] `osn-sd-mtk-08e-pola-gambar-sulit.md`
@@ -1321,7 +1321,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08e-pola-gambar-sedang-sulit.md`
 
 **MTK-08f · Persamaan Satu Variabel** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-08f-persamaan-satu-variabel-campur.md`
+- [x] `osn-sd-mtk-08f-persamaan-satu-variabel-campur.md`
 - [ ] `osn-sd-mtk-08f-persamaan-satu-variabel-mudah.md`
 - [ ] `osn-sd-mtk-08f-persamaan-satu-variabel-sedang.md`
 - [ ] `osn-sd-mtk-08f-persamaan-satu-variabel-sulit.md`
@@ -1329,7 +1329,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08f-persamaan-satu-variabel-sedang-sulit.md`
 
 **MTK-08g · Pertidaksamaan Sederhana** (fokus Prov)
-- [ ] `osn-sd-mtk-08g-pertidaksamaan-campur.md`
+- [x] `osn-sd-mtk-08g-pertidaksamaan-campur.md`
 - [ ] `osn-sd-mtk-08g-pertidaksamaan-mudah.md`
 - [ ] `osn-sd-mtk-08g-pertidaksamaan-sedang.md`
 - [ ] `osn-sd-mtk-08g-pertidaksamaan-sulit.md`
@@ -1337,7 +1337,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08g-pertidaksamaan-sedang-sulit.md`
 
 **MTK-08h · Teka-teki Logika (Kombinatorial)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-08h-teka-teki-logika-campur.md`
+- [x] `osn-sd-mtk-08h-teka-teki-logika-campur.md`
 - [ ] `osn-sd-mtk-08h-teka-teki-logika-mudah.md`
 - [ ] `osn-sd-mtk-08h-teka-teki-logika-sedang.md`
 - [ ] `osn-sd-mtk-08h-teka-teki-logika-sulit.md`
@@ -1345,7 +1345,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08h-teka-teki-logika-sedang-sulit.md`
 
 **MTK-08i · Penalaran Deduktif (Jika-Maka)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-08i-penalaran-deduktif-campur.md`
+- [x] `osn-sd-mtk-08i-penalaran-deduktif-campur.md`
 - [ ] `osn-sd-mtk-08i-penalaran-deduktif-mudah.md`
 - [ ] `osn-sd-mtk-08i-penalaran-deduktif-sedang.md`
 - [ ] `osn-sd-mtk-08i-penalaran-deduktif-sulit.md`
@@ -1353,7 +1353,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08i-penalaran-deduktif-sedang-sulit.md`
 
 **MTK-08j · Soal Cerita Aljabar (Umur, Usia, dst.)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-08j-cerita-aljabar-campur.md`
+- [x] `osn-sd-mtk-08j-cerita-aljabar-campur.md`
 - [ ] `osn-sd-mtk-08j-cerita-aljabar-mudah.md`
 - [ ] `osn-sd-mtk-08j-cerita-aljabar-sedang.md`
 - [ ] `osn-sd-mtk-08j-cerita-aljabar-sulit.md`
@@ -1361,7 +1361,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-08j-cerita-aljabar-sedang-sulit.md`
 
 **MTK-08k · Soal Kombinatorik Dasar** (fokus Nas)
-- [ ] `osn-sd-mtk-08k-kombinatorik-campur.md`
+- [x] `osn-sd-mtk-08k-kombinatorik-campur.md`
 - [ ] `osn-sd-mtk-08k-kombinatorik-mudah.md`
 - [ ] `osn-sd-mtk-08k-kombinatorik-sedang.md`
 - [ ] `osn-sd-mtk-08k-kombinatorik-sulit.md`

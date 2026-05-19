@@ -1,0 +1,1782 @@
+# OSN/KSN SD — MATEMATIKA
+## Sub-Bab 08g: Pertidaksamaan Linear Satu Variabel
+### Tingkat: CAMPUR (50 Kab + 30 Prov + 20 Nas) — 100 Soal PG
+
+---
+
+**Profil Paket**
+- Mata Pelajaran: Matematika
+- Bab: 08 (Aljabar Dasar)
+- Sub-Bab: 08g Pertidaksamaan Linear Satu Variabel
+- Jumlah Soal: 100 Pilihan Ganda (4 opsi A/B/C/D)
+- Distribusi: 50 Kabupaten (mudah) + 30 Provinsi (sedang) + 20 Nasional (sulit)
+- Target: Siswa SD kelas 5–6 persiapan OSN/KSN
+- Kunci: terdistribusi balanced 25/25/25/25
+
+---
+
+## BAGIAN I — KONSEP & STRATEGI
+
+### 1. Apa itu Pertidaksamaan?
+
+Kalau **persamaan** memakai tanda **=** (sama dengan), maka **pertidaksamaan** memakai tanda **<, >, ≤, atau ≥**. Persamaan biasanya punya satu jawaban tunggal, tapi pertidaksamaan punya **banyak jawaban** sekaligus — sebuah rentang nilai.
+
+Contoh sederhana:
+- **Persamaan:** x + 3 = 7. Jawabannya x = 4 (hanya satu).
+- **Pertidaksamaan:** x + 3 > 7. Jawabannya x > 4, artinya x bisa 5, 6, 7, 10, 100, dan seterusnya.
+
+### 2. Arti Empat Tanda
+
+| Tanda | Dibaca | Contoh | Artinya |
+|:-:|:--|:--|:--|
+| **<** | kurang dari | x < 5 | x boleh 4, 3, 2, ... TIDAK boleh 5 |
+| **>** | lebih dari | x > 5 | x boleh 6, 7, 8, ... TIDAK boleh 5 |
+| **≤** | kurang dari atau sama dengan | x ≤ 5 | x boleh 5, 4, 3, ... boleh 5 |
+| **≥** | lebih dari atau sama dengan | x ≥ 5 | x boleh 5, 6, 7, ... boleh 5 |
+
+**Trik mengingat:** kalau ada **garis di bawah** tanda (≤ atau ≥), berarti "atau sama dengan" — boleh angka batas. Kalau tidak ada garis, batas TIDAK boleh dipakai.
+
+### 3. Aturan Dasar Menyelesaikan Pertidaksamaan
+
+Mirip persamaan, kita boleh:
+1. **Tambah/kurang** kedua ruas dengan angka yang sama → tanda **TETAP**.
+2. **Kali/bagi** kedua ruas dengan **bilangan POSITIF** → tanda **TETAP**.
+3. **Kali/bagi** kedua ruas dengan **bilangan NEGATIF** → tanda **BERBALIK**!
+
+Aturan ke-3 ini yang paling sering bikin salah. Hafalkan baik-baik:
+
+> **Kalikan/bagi dengan minus → tanda < jadi >, tanda > jadi <, tanda ≤ jadi ≥, tanda ≥ jadi ≤.**
+
+### 4. Contoh Pengerjaan Bertahap
+
+**Contoh A (tanpa balik tanda):**
+Selesaikan 2x + 3 > 11.
+- Kurangi kedua ruas 3: 2x > 8.
+- Bagi kedua ruas 2 (positif, tanda tetap): x > 4.
+- Jawaban: **x > 4**.
+
+**Contoh B (dengan balik tanda):**
+Selesaikan −3x + 4 ≥ 13.
+- Kurangi kedua ruas 4: −3x ≥ 9.
+- Bagi kedua ruas dengan −3 (negatif, tanda **BERBALIK**): x ≤ −3.
+- Jawaban: **x ≤ −3**.
+
+**Contoh C (variabel di dua sisi):**
+Selesaikan 5x − 2 < 3x + 8.
+- Kurangi kedua ruas 3x: 2x − 2 < 8.
+- Tambah kedua ruas 2: 2x < 10.
+- Bagi 2: x < 5.
+
+### 5. Penulisan Himpunan Jawaban
+
+Setelah dapat jawaban "x > 3" atau "x ≤ 7", penulisannya bisa beberapa cara:
+
+- **Notasi pertidaksamaan:** x > 3.
+- **Himpunan:** {x | x > 3, x ∈ R} atau jika diminta bilangan bulat {x | x > 3, x ∈ Z}.
+- **Daftar (jika x bilangan asli):** untuk x > 3 → x = 4, 5, 6, ...
+- **Garis bilangan:** titik **terbuka** (lingkaran kosong) untuk < dan >, titik **tertutup** (lingkaran penuh) untuk ≤ dan ≥, lalu panah ke arah yang dimaksud.
+
+### 6. Aplikasi Soal Cerita
+
+Pertidaksamaan sangat berguna untuk soal "minimal" dan "maksimal":
+
+- **"Minimal"** → memakai **≥** (paling sedikit, sekurang-kurangnya).
+- **"Maksimal"** → memakai **≤** (paling banyak, sebanyak-banyaknya).
+- **"Lebih dari"** → memakai **>**.
+- **"Kurang dari"** → memakai **<**.
+- **"Tidak kurang dari"** → memakai **≥** (sama atau lebih).
+- **"Tidak lebih dari"** → memakai **≤** (sama atau kurang).
+
+**Contoh aplikasi pembelian:**
+Andi punya uang Rp50.000. Ia ingin membeli pulpen seharga Rp4.000 per pulpen. Berapa pulpen maksimal yang bisa ia beli?
+- Misal banyak pulpen = x. Maka 4.000x ≤ 50.000.
+- Bagi 4.000: x ≤ 12,5.
+- Karena x bilangan bulat (pulpen tidak bisa setengah), x maksimal = **12 pulpen**.
+
+**Contoh aplikasi berat:**
+Sebuah lift memiliki daya angkut maksimal 600 kg. Berat satu orang dewasa rata-rata 60 kg. Berapa orang maksimal yang boleh naik lift?
+- 60x ≤ 600 → x ≤ 10 → **maksimal 10 orang**.
+
+### 7. Strategi Cepat di Soal OSN
+
+1. **Identifikasi tanda** — perhatikan ada/tidak garis di bawah.
+2. **Pindahkan suku** — variabel ke kiri, konstanta ke kanan (tetap perhatikan tanda).
+3. **Sederhanakan** koefisien variabel.
+4. **AWAS!** Jika koefisien menjadi negatif, ketika dibagi → **BALIK TANDA**.
+5. **Cek jawaban** — masukkan satu nilai di rentang ke pertidaksamaan asli; harus benar.
+6. **Soal cerita:** baca kata kunci minimal/maksimal/lebih dari/kurang dari. Bangun pertidaksamaan, baru selesaikan.
+
+### 8. Anti-Jebakan Klasik
+
+- **Lupa balik tanda** saat kali/bagi negatif → distractor paling sering.
+- **Tukar ≤ dengan <** (atau ≥ dengan >) — beda 1 nilai batas.
+- **Salah arah panah** di garis bilangan.
+- **Soal cerita:** "minimal" salah ditulis ≤, harusnya ≥.
+- **Jangan lupa konteks:** banyak orang/barang harus bilangan bulat non-negatif.
+
+Yuk mulai latihan 100 soal!
+
+---
+
+## BAGIAN II — 100 SOAL LATIHAN
+
+### A. SOAL TINGKAT KABUPATEN (Soal 1–50)
+
+**1.** Tentukan penyelesaian dari x + 5 > 9.
+- A. x < 4
+- B. x > 4
+- C. x > 14
+- D. x < 14
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x < 4. Salah balik tanda. Pengurangan 5 ke kedua ruas tidak membalik arah.
+- **B** — **BENAR.** Kurangi kedua ruas 5: x > 9 − 5, jadi x > 4. Tanda tetap.
+- **C** — x > 14. Salah operasi: menjumlahkan 9 + 5 = 14 padahal seharusnya dikurangi.
+- **D** — x < 14. Dua kesalahan: balik tanda padahal tidak perlu, dan salah operasi tambah.
+
+---
+
+**2.** Tentukan penyelesaian dari x − 3 < 7.
+- A. x < 10
+- B. x > 10
+- C. x < 4
+- D. x > 4
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Tambah kedua ruas 3: x < 7 + 3, jadi x < 10. Tanda tetap.
+- **B** — x > 10. Salah balik tanda. Penambahan tidak membalik tanda.
+- **C** — x < 4. Salah operasi: mengurangi 7−3=4 padahal harus menambah.
+- **D** — x > 4. Dua kesalahan: salah operasi dan salah balik tanda.
+
+---
+
+**3.** Tentukan penyelesaian dari 2x ≥ 10.
+- A. x ≤ 5
+- B. x ≥ 20
+- C. x ≥ 5
+- D. x ≤ 20
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≤ 5. Salah balik tanda. Bagi dengan +2 tidak membalik tanda.
+- **B** — x ≥ 20. Salah operasi: mengalikan 10 × 2 = 20 padahal seharusnya dibagi.
+- **C** — **BENAR.** Bagi kedua ruas 2: x ≥ 5. Karena pembagi positif, tanda tetap ≥.
+- **D** — x ≤ 20. Dua kesalahan: salah operasi dan balik tanda.
+
+---
+
+**4.** Tentukan penyelesaian dari 3x ≤ 15.
+- A. x ≥ 5
+- B. x ≤ 45
+- C. x ≥ 45
+- D. x ≤ 5
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≥ 5. Salah balik tanda. Pembagi +3 tidak membalik tanda.
+- **B** — x ≤ 45. Salah operasi: mengalikan 15 × 3 padahal dibagi.
+- **C** — x ≥ 45. Dua kesalahan sekaligus.
+- **D** — **BENAR.** Bagi kedua ruas 3: x ≤ 5. Tanda tetap ≤ karena pembagi positif.
+
+---
+
+**5.** Tentukan penyelesaian dari x + 4 ≤ 10.
+- A. x ≤ 6
+- B. x ≥ 6
+- C. x ≤ 14
+- D. x ≥ 14
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi kedua ruas 4: x ≤ 10 − 4 = 6. Jadi x ≤ 6.
+- **B** — x ≥ 6. Salah balik tanda. Pengurangan tidak membalik.
+- **C** — x ≤ 14. Salah operasi: menjumlahkan 10 + 4 = 14.
+- **D** — x ≥ 14. Dua kesalahan.
+
+---
+
+**6.** Tentukan penyelesaian dari 2x + 1 > 7.
+- A. x > 4
+- B. x > 8
+- C. x > 3
+- D. x < 3
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 4. Lupa membagi 2, hanya mengurangi 1 dari 7 lalu langsung pakai.
+- **B** — x > 8. Mengurangi terbalik (7+1=8) dan lupa membagi 2.
+- **C** — **BENAR.** Kurangi 1: 2x > 6. Bagi 2: x > 3.
+- **D** — x < 3. Salah balik tanda saat membagi +2.
+
+---
+
+**7.** Tentukan penyelesaian dari 3x − 2 ≥ 7.
+- A. x ≥ 3
+- B. x ≤ 3
+- C. x ≥ 5/3
+- D. x ≥ 9
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Tambah 2: 3x ≥ 9. Bagi 3: x ≥ 3.
+- **B** — x ≤ 3. Salah balik tanda. Bagi +3 tidak membalik.
+- **C** — x ≥ 5/3. Salah operasi: mengurangi 7−2=5 lalu bagi 3.
+- **D** — x ≥ 9. Lupa membagi 3 di akhir.
+
+---
+
+**8.** Tentukan penyelesaian dari 4x − 1 < 11.
+- A. x > 3
+- B. x < 12
+- C. x < 5/2
+- D. x < 3
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 3. Salah balik tanda padahal pembagi +4.
+- **B** — x < 12. Lupa membagi 4 di akhir, hanya tambah 1.
+- **C** — x < 5/2. Salah operasi: mengurangi 11−1=10/4=5/2 (salah arah).
+- **D** — **BENAR.** Tambah 1: 4x < 12. Bagi 4: x < 3.
+
+---
+
+**9.** Tentukan penyelesaian dari 5x + 3 ≤ 18.
+- A. x ≤ 3
+- B. x ≥ 3
+- C. x ≤ 21/5
+- D. x ≤ 15
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi 3: 5x ≤ 15. Bagi 5: x ≤ 3.
+- **B** — x ≥ 3. Salah balik tanda. Bagi +5 tidak membalik.
+- **C** — x ≤ 21/5. Salah operasi: menambah 3 padahal harus mengurangi (18+3=21).
+- **D** — x ≤ 15. Lupa membagi 5 di akhir.
+
+---
+
+**10.** Tentukan penyelesaian dari 6x − 5 ≥ 13.
+- A. x ≤ 3
+- B. x ≥ 3
+- C. x ≥ 8/6
+- D. x ≥ 18
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≤ 3. Salah balik tanda. Bagi +6 tidak membalik.
+- **B** — **BENAR.** Tambah 5: 6x ≥ 18. Bagi 6: x ≥ 3.
+- **C** — x ≥ 8/6. Salah operasi: mengurangi 13−5=8 padahal harus menambah.
+- **D** — x ≥ 18. Lupa membagi 6 di akhir.
+
+---
+
+**11.** Tentukan penyelesaian dari −x > 4.
+- A. x > 4
+- B. x > −4
+- C. x < −4
+- D. x < 4
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 4. Mengabaikan tanda minus pada koefisien.
+- **B** — x > −4. Membalik tanda angkanya tapi lupa membalik arah pertidaksamaan.
+- **C** — **BENAR.** Kalikan kedua ruas dengan −1, tanda BALIK: x < −4.
+- **D** — x < 4. Membalik tanda pertidaksamaan tapi lupa membalik tanda angka.
+
+---
+
+**12.** Tentukan penyelesaian dari −2x ≤ 8.
+- A. x ≤ −4
+- B. x ≤ 4
+- C. x ≥ 4
+- D. x ≥ −4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≤ −4. Tidak membalik tanda saat bagi −2.
+- **B** — x ≤ 4. Membalik tanda angka tapi lupa membalik tanda pertidaksamaan.
+- **C** — x ≥ 4. Tidak membalik tanda angka padahal sudah membalik tanda pertidaksamaan.
+- **D** — **BENAR.** Bagi kedua ruas dengan −2, tanda BALIK: x ≥ 8/(−2) = −4. Jadi x ≥ −4.
+
+---
+
+**13.** Tentukan penyelesaian dari −3x < 12.
+- A. x > −4
+- B. x < −4
+- C. x < 4
+- D. x > 4
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Bagi −3, tanda BALIK: x > 12/(−3) = −4. Jadi x > −4.
+- **B** — x < −4. Lupa membalik tanda saat bagi negatif.
+- **C** — x < 4. Lupa minus pada hasil dan lupa balik tanda.
+- **D** — x > 4. Membalik tanda tapi lupa tanda minus pada angka.
+
+---
+
+**14.** Tentukan penyelesaian dari −5x ≥ 20.
+- A. x ≥ −4
+- B. x ≥ 4
+- C. x ≤ −4
+- D. x ≤ 4
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ −4. Lupa membalik tanda saat bagi negatif.
+- **B** — x ≥ 4. Dua kesalahan: lupa balik tanda dan lupa minus.
+- **C** — **BENAR.** Bagi −5, tanda BALIK: x ≤ 20/(−5) = −4. Jadi x ≤ −4.
+- **D** — x ≤ 4. Membalik tanda pertidaksamaan tapi lupa minus pada angka.
+
+---
+
+**15.** Tentukan penyelesaian dari −4x ≤ −16.
+- A. x ≥ 4
+- B. x ≤ 4
+- C. x ≥ −4
+- D. x ≤ −4
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Bagi −4, tanda BALIK: x ≥ (−16)/(−4) = 4. Jadi x ≥ 4.
+- **B** — x ≤ 4. Lupa membalik tanda saat bagi negatif.
+- **C** — x ≥ −4. Membalik tanda dengan benar tapi salah tanda hasil pembagian.
+- **D** — x ≤ −4. Dua kesalahan: lupa balik tanda dan salah hitung pembagian.
+
+---
+
+**16.** Tentukan penyelesaian dari −x + 3 > 7.
+- A. x < 4
+- B. x > 4
+- C. x > −4
+- D. x < −4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 4. Membalik tanda dengan benar, tapi lupa minus pada hasil.
+- **B** — x > 4. Lupa membalik tanda dan lupa minus.
+- **C** — x > −4. Lupa membalik tanda saat kalikan negatif.
+- **D** — **BENAR.** Kurangi 3: −x > 4. Kalikan −1, tanda BALIK: x < −4.
+
+---
+
+**17.** Tentukan penyelesaian dari −2x + 5 ≤ 1.
+- A. x ≤ −2
+- B. x ≥ −2
+- C. x ≤ 2
+- D. x ≥ 2
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≤ −2. Lupa membalik tanda dan salah tanda hasil.
+- **B** — x ≥ −2. Membalik tanda dengan benar tapi salah tanda pembagian.
+- **C** — x ≤ 2. Lupa membalik tanda saat bagi negatif.
+- **D** — **BENAR.** Kurangi 5: −2x ≤ −4. Bagi −2, tanda BALIK: x ≥ (−4)/(−2) = 2.
+
+---
+
+**18.** Tentukan penyelesaian dari −3x + 1 ≥ −8.
+- A. x ≤ −3
+- B. x ≤ 3
+- C. x ≥ 3
+- D. x ≥ −3
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≤ −3. Salah tanda hasil pembagian (−9)/(−3)=+3, bukan −3.
+- **B** — **BENAR.** Kurangi 1: −3x ≥ −9. Bagi −3, tanda BALIK: x ≤ 3.
+- **C** — x ≥ 3. Lupa membalik tanda saat bagi negatif.
+- **D** — x ≥ −3. Dua kesalahan: lupa balik tanda dan salah tanda hasil.
+
+---
+
+**19.** Tentukan penyelesaian dari 2(x − 1) > 6.
+- A. x > 2
+- B. x < 4
+- C. x > 4
+- D. x > 5
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 2. Salah hitung: 6÷2=3, lalu 3−1=2 (urutan salah).
+- **B** — x < 4. Salah balik tanda padahal tidak perlu.
+- **C** — **BENAR.** Bagi 2 dulu: x − 1 > 3. Tambah 1: x > 4. Atau buka kurung: 2x − 2 > 6 → 2x > 8 → x > 4.
+- **D** — x > 5. Salah buka kurung: 2(x−1)=2x−1 (lupa kalikan 2 ke −1), lalu 2x>7, x>3,5 dibulatkan 5? Atau jenis kesalahan lain.
+
+---
+
+**20.** Tentukan penyelesaian dari 3(x + 2) ≤ 15.
+- A. x ≤ 3
+- B. x ≤ 5
+- C. x ≤ 7
+- D. x ≤ 13
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Bagi 3: x + 2 ≤ 5. Kurangi 2: x ≤ 3.
+- **B** — x ≤ 5. Lupa mengurangi 2 setelah membagi 3.
+- **C** — x ≤ 7. Salah buka kurung: 3(x+2)=3x+2, lalu 3x≤13, salah.
+- **D** — x ≤ 13. Hanya mengurangi 2 dari 15 (15−2=13) tanpa membagi 3.
+
+---
+
+**21.** Tentukan penyelesaian dari 4(x − 3) ≥ 8.
+- A. x ≥ 5
+- B. x ≤ 5
+- C. x ≥ 2
+- D. x ≥ 11
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Bagi 4: x − 3 ≥ 2. Tambah 3: x ≥ 5.
+- **B** — x ≤ 5. Salah balik tanda padahal pembagi +4.
+- **C** — x ≥ 2. Lupa menambah 3 setelah membagi.
+- **D** — x ≥ 11. Salah operasi: 8+3=11 tanpa membagi 4.
+
+---
+
+**22.** Tentukan penyelesaian dari 5(x + 1) < 30.
+- A. x < 25
+- B. x < 7
+- C. x < 6
+- D. x < 5
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 25. Salah operasi: 30 − 5 = 25 tanpa membagi.
+- **B** — x < 7. Salah arah: menambah 1 alih-alih menguranginya.
+- **C** — x < 6. Lupa mengurangi 1 setelah membagi.
+- **D** — **BENAR.** Bagi 5: x + 1 < 6. Kurangi 1: x < 5.
+
+---
+
+**23.** Tentukan penyelesaian dari 2x + 5 < x + 8.
+- A. x < 13
+- B. x > 3
+- C. x < 3
+- D. x > 13
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x < 13. Salah operasi: menjumlahkan 5+8=13 tanpa memindahkan x.
+- **B** — x > 3. Salah balik tanda padahal koefisien x positif.
+- **C** — **BENAR.** Kurangi kedua ruas x: x + 5 < 8. Kurangi 5: x < 3.
+- **D** — x > 13. Dua kesalahan.
+
+---
+
+**24.** Tentukan penyelesaian dari 3x − 4 ≥ x + 2.
+- A. x ≥ 3
+- B. x ≤ 3
+- C. x ≥ 6
+- D. x ≥ −1
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi kedua ruas x: 2x − 4 ≥ 2. Tambah 4: 2x ≥ 6. Bagi 2: x ≥ 3.
+- **B** — x ≤ 3. Salah balik tanda.
+- **C** — x ≥ 6. Lupa membagi 2.
+- **D** — x ≥ −1. Salah arah: 2 − 4 = −2 lalu bagi 2 = −1.
+
+---
+
+**25.** Tentukan penyelesaian dari 4x + 1 ≤ 2x + 9.
+- A. x ≤ 5
+- B. x ≤ 2
+- C. x ≥ 4
+- D. x ≤ 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≤ 5. Lupa membagi 2: 2x ≤ 8 lalu langsung 5 (salah).
+- **B** — x ≤ 2. Salah memindahkan: 4x−2x=2x, 1−9=−8 (salah tanda).
+- **C** — x ≥ 4. Salah balik tanda.
+- **D** — **BENAR.** Kurangi 2x: 2x + 1 ≤ 9. Kurangi 1: 2x ≤ 8. Bagi 2: x ≤ 4.
+
+---
+
+**26.** Tentukan penyelesaian dari 5x + 2 > 3x + 10.
+- A. x < 4
+- B. x > 6
+- C. x > 4
+- D. x > 12
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x < 4. Salah balik tanda.
+- **B** — x > 6. Salah memindahkan dan menjumlahkan.
+- **C** — **BENAR.** Kurangi 3x: 2x + 2 > 10. Kurangi 2: 2x > 8. Bagi 2: x > 4.
+- **D** — x > 12. Lupa membagi 2: hasilnya disalin langsung 12.
+
+---
+
+**27.** Tentukan penyelesaian dari 6x − 3 ≥ 4x + 7.
+- A. x ≥ 2
+- B. x ≤ 5
+- C. x ≥ 5
+- D. x ≥ 10
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 2. Lupa menjumlahkan: 6x−4x=2x, kemudian salah angka.
+- **B** — x ≤ 5. Salah balik tanda.
+- **C** — **BENAR.** Kurangi 4x: 2x − 3 ≥ 7. Tambah 3: 2x ≥ 10. Bagi 2: x ≥ 5.
+- **D** — x ≥ 10. Lupa membagi 2 di akhir.
+
+---
+
+**28.** Tentukan penyelesaian dari 7x − 2 < 3x + 14.
+- A. x < 16
+- B. x < 3
+- C. x > 4
+- D. x < 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 16. Lupa membagi 4.
+- **B** — x < 3. Salah hitung: 4x<12 (dari 14−2 salah jadi 12).
+- **C** — x > 4. Salah balik tanda.
+- **D** — **BENAR.** Kurangi 3x: 4x − 2 < 14. Tambah 2: 4x < 16. Bagi 4: x < 4.
+
+---
+
+**29.** Tentukan penyelesaian dari 8x + 3 ≤ 5x + 18.
+- A. x ≤ 3
+- B. x ≤ 7
+- C. x ≤ 5
+- D. x ≥ 5
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≤ 3. Salah memindahkan 5x.
+- **B** — x ≤ 7. Salah hitung: 18+3=21, lalu 21÷3=7 (operasi terbalik).
+- **C** — **BENAR.** Kurangi 5x: 3x + 3 ≤ 18. Kurangi 3: 3x ≤ 15. Bagi 3: x ≤ 5.
+- **D** — x ≥ 5. Salah balik tanda.
+
+---
+
+**30.** Tentukan penyelesaian dari 2x − 5 > 11.
+- A. x > 3
+- B. x > 16
+- C. x < 8
+- D. x > 8
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 3. Salah operasi: 11−5=6, lalu 6÷2=3 (salah arah tambah/kurang).
+- **B** — x > 16. Lupa membagi 2 di akhir.
+- **C** — x < 8. Salah balik tanda padahal pembagi +2.
+- **D** — **BENAR.** Tambah 5: 2x > 16. Bagi 2: x > 8.
+
+---
+
+**31.** Tentukan penyelesaian dari 3x + 7 ≥ 22.
+- A. x ≥ 7
+- B. x ≥ 5
+- C. x ≥ 15
+- D. x ≥ 4
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 7. Salah operasi: 22−7=15, lalu salah bagi.
+- **B** — **BENAR.** Kurangi 7: 3x ≥ 15. Bagi 3: x ≥ 5.
+- **C** — x ≥ 15. Lupa membagi 3.
+- **D** — x ≥ 4. Salah operasi: 22÷3≈7, lalu salah lagi.
+
+---
+
+**32.** Tentukan penyelesaian dari 4x − 9 < 7.
+- A. x < 4
+- B. x > 4
+- C. x < 16
+- D. x < −1/2
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Tambah 9: 4x < 16. Bagi 4: x < 4.
+- **B** — x > 4. Salah balik tanda.
+- **C** — x < 16. Lupa membagi 4.
+- **D** — x < −1/2. Salah operasi: 7−9=−2, lalu bagi 4 = −1/2 (arah salah).
+
+---
+
+**33.** Tentukan penyelesaian dari 5x + 4 ≤ 19.
+- A. x ≥ 3
+- B. x ≤ 23/5
+- C. x ≤ 15
+- D. x ≤ 3
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≥ 3. Salah balik tanda.
+- **B** — x ≤ 23/5. Salah operasi: 19+4=23 lalu bagi 5.
+- **C** — x ≤ 15. Lupa membagi 5.
+- **D** — **BENAR.** Kurangi 4: 5x ≤ 15. Bagi 5: x ≤ 3.
+
+---
+
+**34.** Tentukan penyelesaian dari 6x − 1 ≥ 17.
+- A. x ≥ 3
+- B. x ≥ 16/6
+- C. x ≥ 18
+- D. x ≤ 3
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Tambah 1: 6x ≥ 18. Bagi 6: x ≥ 3.
+- **B** — x ≥ 16/6. Salah operasi: 17−1=16 lalu bagi 6 (kurangi padahal harus tambah).
+- **C** — x ≥ 18. Lupa membagi 6.
+- **D** — x ≤ 3. Salah balik tanda.
+
+---
+
+**35.** Tentukan penyelesaian dari 7x + 3 > 24.
+- A. x > 27/7
+- B. x > 3
+- C. x > 21
+- D. x < 3
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x > 27/7. Salah operasi: 24+3=27 lalu bagi 7.
+- **B** — **BENAR.** Kurangi 3: 7x > 21. Bagi 7: x > 3.
+- **C** — x > 21. Lupa membagi 7.
+- **D** — x < 3. Salah balik tanda.
+
+---
+
+**36.** Tentukan penyelesaian dari 8x − 5 ≤ 27.
+- A. x ≥ 4
+- B. x ≤ 22/8
+- C. x ≤ 32
+- D. x ≤ 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≥ 4. Salah balik tanda.
+- **B** — x ≤ 22/8. Salah operasi: 27−5=22 lalu bagi 8.
+- **C** — x ≤ 32. Lupa membagi 8: 27+5=32.
+- **D** — **BENAR.** Tambah 5: 8x ≤ 32. Bagi 8: x ≤ 4.
+
+---
+
+**37.** Tentukan penyelesaian dari x/2 + 3 > 5.
+- A. x > 16
+- B. x < 4
+- C. x > 4
+- D. x > 1
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 16. Salah operasi: (5+3)×2=16 (tambah padahal kurang).
+- **B** — x < 4. Salah balik tanda.
+- **C** — **BENAR.** Kurangi 3: x/2 > 2. Kalikan 2: x > 4.
+- **D** — x > 1. Salah operasi: 5÷2=2,5 lalu kurang 3 → −0,5 (salah arah).
+
+---
+
+**38.** Tentukan penyelesaian dari x/3 − 1 ≤ 2.
+- A. x ≤ 9
+- B. x ≤ 3
+- C. x ≤ 5
+- D. x ≥ 9
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Tambah 1: x/3 ≤ 3. Kalikan 3: x ≤ 9.
+- **B** — x ≤ 3. Lupa mengalikan 3 di akhir.
+- **C** — x ≤ 5. Salah operasi: (2−1)×3=3 (salah lagi) atau campur aduk.
+- **D** — x ≥ 9. Salah balik tanda.
+
+---
+
+**39.** Tentukan penyelesaian dari x/4 + 2 ≥ 5.
+- A. x ≥ 28
+- B. x ≤ 12
+- C. x ≥ 12
+- D. x ≥ 3
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 28. Salah operasi: (5+2)×4=28.
+- **B** — x ≤ 12. Salah balik tanda.
+- **C** — **BENAR.** Kurangi 2: x/4 ≥ 3. Kalikan 4: x ≥ 12.
+- **D** — x ≥ 3. Lupa mengalikan 4 di akhir.
+
+---
+
+**40.** Tentukan penyelesaian dari x/5 − 3 < 1.
+- A. x < 10
+- B. x < −10
+- C. x < 4
+- D. x < 20
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 10. Salah operasi: (1−3)×5=−10 (kurang padahal harus tambah).
+- **B** — x < −10. Tidak menyadari hasil negatif tidak masuk akal di sini.
+- **C** — x < 4. Lupa mengalikan 5.
+- **D** — **BENAR.** Tambah 3: x/5 < 4. Kalikan 5: x < 20.
+
+---
+
+**41.** Tentukan penyelesaian dari 2x/3 > 4.
+- A. x < 6
+- B. x > 8/3
+- C. x > 8
+- D. x > 6
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 6. Salah balik tanda.
+- **B** — x > 8/3. Salah operasi: 4×2/3 = 8/3.
+- **C** — x > 8. Salah: kalikan 3 lalu lupa bagi 2 → 12/?=8 (salah).
+- **D** — **BENAR.** Kalikan 3: 2x > 12. Bagi 2: x > 6. Atau kalikan 3/2: x > 4 × 3/2 = 6.
+
+---
+
+**42.** Tentukan penyelesaian dari 3x/4 ≤ 6.
+- A. x ≥ 8
+- B. x ≤ 8
+- C. x ≤ 18
+- D. x ≤ 9/2
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 8. Salah balik tanda.
+- **B** — **BENAR.** Kalikan 4: 3x ≤ 24. Bagi 3: x ≤ 8. Atau kalikan 4/3: x ≤ 6 × 4/3 = 8.
+- **C** — x ≤ 18. Salah: 6×4=24 lalu lupa bagi 3 → ditulis 18 (kesalahan hitung).
+- **D** — x ≤ 9/2. Salah: 6×3/4=18/4=9/2 (arah pengali terbalik).
+
+---
+
+**43.** Tentukan penyelesaian dari 5x/2 ≥ 10.
+- A. x ≥ 5
+- B. x ≥ 4
+- C. x ≤ 4
+- D. x ≥ 20
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 5. Salah hitung: 10÷2=5 lalu lupa lagi.
+- **B** — **BENAR.** Kalikan 2: 5x ≥ 20. Bagi 5: x ≥ 4. Atau kalikan 2/5: x ≥ 10 × 2/5 = 4.
+- **C** — x ≤ 4. Salah balik tanda.
+- **D** — x ≥ 20. Lupa bagi 5 setelah kalikan 2.
+
+---
+
+**44.** Tentukan penyelesaian dari 7x/3 < 14.
+- A. x > 6
+- B. x < 42/7
+- C. x < 2
+- D. x < 6
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 6. Salah balik tanda.
+- **B** — x < 42/7. Setengah benar — hasil belum disederhanakan (42/7=6, tapi nilai jawaban harusnya angka tunggal 6).
+- **C** — x < 2. Salah operasi: 14÷7=2 lupa kalikan 3.
+- **D** — **BENAR.** Kalikan 3: 7x < 42. Bagi 7: x < 6.
+
+---
+
+**45.** Tentukan penyelesaian dari 4x + 2 > 3x + 9.
+- A. x > 7
+- B. x < 7
+- C. x > 11
+- D. x > 5
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi 3x: x + 2 > 9. Kurangi 2: x > 7.
+- **B** — x < 7. Salah balik tanda.
+- **C** — x > 11. Salah operasi: 9+2=11 tanpa memindahkan x dengan benar.
+- **D** — x > 5. Salah hitung: 9−4=5 (mengurangi koefisien, bukan konstanta).
+
+---
+
+**46.** Tentukan penyelesaian dari 5x − 1 ≤ 4x + 6.
+- A. x ≥ 7
+- B. x ≤ 7
+- C. x ≤ 5
+- D. x ≤ 1
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 7. Salah balik tanda.
+- **B** — **BENAR.** Kurangi 4x: x − 1 ≤ 6. Tambah 1: x ≤ 7.
+- **C** — x ≤ 5. Salah operasi: 6−1=5 (arah salah).
+- **D** — x ≤ 1. Salah memindahkan: hanya kurangi 5x dengan 4x.
+
+---
+
+**47.** Tentukan penyelesaian dari 2x + 8 < 5x − 1.
+- A. x < 3
+- B. x > 9
+- C. x > 3
+- D. x < 9
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x < 3. Salah balik tanda.
+- **B** — x > 9. Salah operasi: 8+1=9 lalu lupa membagi.
+- **C** — **BENAR.** Kurangi 2x: 8 < 3x − 1. Tambah 1: 9 < 3x. Bagi 3: 3 < x, atau x > 3.
+- **D** — x < 9. Dua kesalahan.
+
+---
+
+**48.** Tentukan penyelesaian dari 4x − 5 ≥ 2x + 3.
+- A. x ≥ 4
+- B. x ≤ 4
+- C. x ≥ 2
+- D. x ≥ −1
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi 2x: 2x − 5 ≥ 3. Tambah 5: 2x ≥ 8. Bagi 2: x ≥ 4.
+- **B** — x ≤ 4. Salah balik tanda.
+- **C** — x ≥ 2. Salah hitung: 3−5=−2/2=−1 (arah salah dan sebagainya).
+- **D** — x ≥ −1. Salah arah: 3−5=−2 lalu bagi 2 = −1.
+
+---
+
+**49.** Tentukan penyelesaian dari 6x + 1 ≤ 4x + 11.
+- A. x ≤ 6
+- B. x ≥ 5
+- C. x ≤ 5
+- D. x ≤ 12
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≤ 6. Salah hitung: 11+1=12, lalu bagi 2 = 6.
+- **B** — x ≥ 5. Salah balik tanda.
+- **C** — **BENAR.** Kurangi 4x: 2x + 1 ≤ 11. Kurangi 1: 2x ≤ 10. Bagi 2: x ≤ 5.
+- **D** — x ≤ 12. Salah operasi: 11+1=12 lupa membagi 2.
+
+---
+
+**50.** Tentukan penyelesaian dari 7x − 2 > 3x + 14.
+- A. x > 3
+- B. x > 12
+- C. x < 4
+- D. x > 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 3. Salah hitung: 14−2=12 lalu bagi 4 = 3.
+- **B** — x > 12. Lupa membagi 4: 14+2=16... mungkin salah lagi (jadi 12 secara berbeda).
+- **C** — x < 4. Salah balik tanda.
+- **D** — **BENAR.** Kurangi 3x: 4x − 2 > 14. Tambah 2: 4x > 16. Bagi 4: x > 4.
+
+---
+
+### B. SOAL TINGKAT PROVINSI (Soal 51–80)
+
+**51.** Tentukan penyelesaian dari 2x + 36 ≤ 5x.
+- A. x ≥ 4
+- B. x ≤ 4
+- C. x ≤ 12
+- D. x ≥ 12
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≥ 4. Salah hitung: 36÷9 atau salah operasi koefisien.
+- **B** — x ≤ 4. Dua kesalahan: balik tanda dan salah hitung.
+- **C** — x ≤ 12. Salah balik tanda padahal pembagi positif (3).
+- **D** — **BENAR.** Kurangi 2x: 36 ≤ 3x. Bagi 3: 12 ≤ x, jadi x ≥ 12.
+
+---
+
+**52.** Tentukan penyelesaian dari 4x + 9 ≥ 3(2x − 1).
+- A. x ≥ 5
+- B. x ≥ 6
+- C. x ≤ 6
+- D. x ≤ 3
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 5. Salah buka kurung: 3(2x−1)=6x−1 (hanya kalikan 3 ke 2x).
+- **B** — x ≥ 6. Lupa membalik tanda saat membagi koefisien negatif.
+- **C** — **BENAR.** Buka kurung: 4x + 9 ≥ 6x − 3. Kurangi 6x: −2x + 9 ≥ −3. Kurangi 9: −2x ≥ −12. Bagi −2 (negatif), tanda BALIK: x ≤ 6.
+- **D** — x ≤ 3. Salah hitung di tengah jalan.
+
+---
+
+**53.** Tentukan penyelesaian dari 5(x − 2) < 3(x + 4).
+- A. x > 22
+- B. x < 22
+- C. x > 11
+- D. x < 11
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 22. Dua kesalahan.
+- **B** — x < 22. Lupa membagi 2 di akhir.
+- **C** — x > 11. Salah balik tanda.
+- **D** — **BENAR.** Buka kurung: 5x − 10 < 3x + 12. Kurangi 3x: 2x − 10 < 12. Tambah 10: 2x < 22. Bagi 2: x < 11.
+
+---
+
+**54.** Tentukan penyelesaian dari 2(3x + 1) − 5 ≤ 4x + 11.
+- A. x ≥ 14
+- B. x ≤ 7
+- C. x ≤ 14
+- D. x ≥ 7
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 14. Lupa membagi 2 dan salah balik tanda.
+- **B** — **BENAR.** Buka kurung: 6x + 2 − 5 ≤ 4x + 11 → 6x − 3 ≤ 4x + 11. Kurangi 4x: 2x − 3 ≤ 11. Tambah 3: 2x ≤ 14. Bagi 2: x ≤ 7.
+- **C** — x ≤ 14. Lupa membagi 2.
+- **D** — x ≥ 7. Salah balik tanda.
+
+---
+
+**55.** Tentukan penyelesaian dari 4(x + 1) − 2x > 10.
+- A. x > 6
+- B. x < 3
+- C. x > 3
+- D. x > 8
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 6. Lupa membagi 2: 4x+4−2x>10 → 2x>6 → x>3 (jika dibagi); 6 muncul dari lupa membagi.
+- **B** — x < 3. Salah balik tanda.
+- **C** — **BENAR.** Buka kurung: 4x + 4 − 2x > 10. Sederhanakan: 2x + 4 > 10. Kurangi 4: 2x > 6. Bagi 2: x > 3.
+- **D** — x > 8. Salah hitung: 10−4+2=8 (campur aduk).
+
+---
+
+**56.** Tentukan penyelesaian dari 3x + 2(x − 3) ≤ 14.
+- A. x ≥ 4
+- B. x ≤ 5
+- C. x ≤ 8/5
+- D. x ≤ 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x ≥ 4. Salah balik tanda.
+- **B** — x ≤ 5. Salah buka kurung: 3x + 2x − 3 ≤ 14 → 5x ≤ 17 → x ≤ 17/5 (atau dibulatkan keliru jadi 5).
+- **C** — x ≤ 8/5. Salah hitung: 14−2(3)=14−6=8, lalu lupa kalau 2(x−3)=2x−6 dan koefisien total 5.
+- **D** — **BENAR.** Buka kurung: 3x + 2x − 6 ≤ 14 → 5x − 6 ≤ 14. Tambah 6: 5x ≤ 20. Bagi 5: x ≤ 4.
+
+---
+
+**57.** Tentukan penyelesaian dari 5(2x − 1) > 3(x + 4).
+- A. x > 17/7
+- B. x < 17/7
+- C. x > 5
+- D. x > 1
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Buka kurung: 10x − 5 > 3x + 12. Kurangi 3x: 7x − 5 > 12. Tambah 5: 7x > 17. Bagi 7: x > 17/7.
+- **B** — x < 17/7. Salah balik tanda.
+- **C** — x > 5. Salah operasi: 10−5=5 atau cara campur aduk.
+- **D** — x > 1. Salah operasi: 5+12=17 lalu bagi 17 = 1.
+
+---
+
+**58.** Tentukan penyelesaian dari 2(x + 5) − 3(x − 1) ≥ 0.
+- A. x ≤ 13
+- B. x ≥ 13
+- C. x ≤ −13
+- D. x ≥ −13
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Buka kurung: 2x + 10 − 3x + 3 ≥ 0 → −x + 13 ≥ 0. Kurangi 13: −x ≥ −13. Kalikan −1, tanda BALIK: x ≤ 13.
+- **B** — x ≥ 13. Lupa membalik tanda saat kalikan negatif.
+- **C** — x ≤ −13. Salah tanda hasil akhir.
+- **D** — x ≥ −13. Dua kesalahan: lupa balik tanda dan salah tanda hasil.
+
+---
+
+**59.** Tentukan penyelesaian dari 4 − 2(x − 3) < 6.
+- A. x < 2
+- B. x > 2
+- C. x > −2
+- D. x < −2
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x < 2. Lupa membalik tanda saat bagi negatif.
+- **B** — **BENAR.** Buka kurung: 4 − 2x + 6 < 6 → 10 − 2x < 6. Kurangi 10: −2x < −4. Bagi −2, tanda BALIK: x > 2.
+- **C** — x > −2. Membalik tanda dengan benar tapi salah hitung pembagian.
+- **D** — x < −2. Dua kesalahan.
+
+---
+
+**60.** Tentukan penyelesaian dari 3(x − 2) + 2x ≤ 4(x + 1).
+- A. x ≥ 10
+- B. x ≤ 5
+- C. x ≤ 10
+- D. x ≤ 2
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 10. Salah balik tanda.
+- **B** — x ≤ 5. Salah hitung: 4+6=10 lalu bagi 2 = 5 (salah, koefisien x setelah dikumpul = 1, bukan 2).
+- **C** — **BENAR.** Buka kurung: 3x − 6 + 2x ≤ 4x + 4 → 5x − 6 ≤ 4x + 4. Kurangi 4x: x − 6 ≤ 4. Tambah 6: x ≤ 10.
+- **D** — x ≤ 2. Salah arah: 4−6=−2 lalu salah lagi.
+
+---
+
+**61.** Tentukan penyelesaian dari (x + 1)/2 > 3.
+- A. x > 5
+- B. x > 7
+- C. x > 6
+- D. x < 5
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kalikan 2: x + 1 > 6. Kurangi 1: x > 5.
+- **B** — x > 7. Salah arah: kurangi 1 lalu kalikan 2 → (3−1)×2 lalu... (campur).
+- **C** — x > 6. Lupa mengurangi 1 di akhir.
+- **D** — x < 5. Salah balik tanda.
+
+---
+
+**62.** Tentukan penyelesaian dari (2x − 3)/4 ≤ 5.
+- A. x ≥ 23/2
+- B. x ≤ 13/2
+- C. x ≤ 23/2
+- D. x ≤ 8
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 23/2. Salah balik tanda.
+- **B** — x ≤ 13/2. Salah hitung: 5×4=20, lalu 20−3=17? campur aduk; atau 5−3=2/...×4/2 (membingungkan).
+- **C** — **BENAR.** Kalikan 4: 2x − 3 ≤ 20. Tambah 3: 2x ≤ 23. Bagi 2: x ≤ 23/2.
+- **D** — x ≤ 8. Salah perhitungan: dibulatkan dari 11,5 ke 8 atau jenis lain.
+
+---
+
+**63.** Tentukan penyelesaian dari (3x + 2)/5 ≥ 4.
+- A. x ≥ 22/3
+- B. x ≥ 6
+- C. x ≥ 18/5
+- D. x ≤ 6
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 22/3. Salah arah: 4×5=20, lalu 20+2=22, lalu bagi 3 (operasi salah).
+- **B** — **BENAR.** Kalikan 5: 3x + 2 ≥ 20. Kurangi 2: 3x ≥ 18. Bagi 3: x ≥ 6.
+- **C** — x ≥ 18/5. Lupa mengalikan 5 dulu, langsung 18/5.
+- **D** — x ≤ 6. Salah balik tanda.
+
+---
+
+**64.** Tentukan penyelesaian dari (x − 4)/3 < 2.
+- A. x > 10
+- B. x < 10
+- C. x < 2
+- D. x < −2
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x > 10. Salah balik tanda.
+- **B** — **BENAR.** Kalikan 3: x − 4 < 6. Tambah 4: x < 10.
+- **C** — x < 2. Lupa mengalikan 3 di awal.
+- **D** — x < −2. Salah arah: 2−4=−2 lalu pasti salah lagi.
+
+---
+
+**65.** Tentukan penyelesaian dari (5 − 2x)/3 ≥ 1.
+- A. x ≥ 1
+- B. x ≥ −1
+- C. x ≤ 1
+- D. x ≤ −1
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 1. Lupa membalik tanda saat bagi negatif.
+- **B** — x ≥ −1. Dua kesalahan.
+- **C** — **BENAR.** Kalikan 3: 5 − 2x ≥ 3. Kurangi 5: −2x ≥ −2. Bagi −2, tanda BALIK: x ≤ 1.
+- **D** — x ≤ −1. Tanda hasil salah.
+
+---
+
+**66.** Tentukan penyelesaian dari (4x + 1)/3 − x > 1.
+- A. x > 2
+- B. x < 2
+- C. x > 4
+- D. x > −2
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kalikan 3: 4x + 1 − 3x > 3 → x + 1 > 3. Kurangi 1: x > 2.
+- **B** — x < 2. Salah balik tanda.
+- **C** — x > 4. Salah operasi: 3+1=4 setelah mengalikan tanpa mengurangi 3x.
+- **D** — x > −2. Lupa kalikan 3 ke ruas kanan: salah hitung.
+
+---
+
+**67.** Tentukan penyelesaian dari x/2 + x/3 ≤ 5.
+- A. x ≥ 6
+- B. x ≤ 30
+- C. x ≤ 6
+- D. x ≤ 10
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≥ 6. Salah balik tanda.
+- **B** — x ≤ 30. Salah samakan penyebut: salah pakai 5×6=30 (jangan kalikan 5 dengan 6).
+- **C** — **BENAR.** Samakan: 3x/6 + 2x/6 ≤ 5 → 5x/6 ≤ 5. Kalikan 6/5: x ≤ 6.
+- **D** — x ≤ 10. Salah: 5×2=10, salah kali (hanya satu penyebut).
+
+---
+
+**68.** Tentukan penyelesaian dari 2x/3 − x/4 > 5.
+- A. x > 12
+- B. x > 5
+- C. x > 60
+- D. x < 12
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Samakan: 8x/12 − 3x/12 > 5 → 5x/12 > 5. Kalikan 12/5: x > 12.
+- **B** — x > 5. Lupa proses penyederhanaan.
+- **C** — x > 60. Salah: 5×12=60 lalu lupa bagi 5.
+- **D** — x < 12. Salah balik tanda.
+
+---
+
+**69.** Tentukan penyelesaian dari x − 2x/3 ≤ 4.
+- A. x ≤ 6
+- B. x ≤ 12
+- C. x ≥ 12
+- D. x ≤ 8
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≤ 6. Salah samakan penyebut.
+- **B** — **BENAR.** x − 2x/3 = 3x/3 − 2x/3 = x/3. Jadi x/3 ≤ 4 → x ≤ 12.
+- **C** — x ≥ 12. Salah balik tanda.
+- **D** — x ≤ 8. Salah: 4×2=8 (kalikan dengan koefisien yang salah).
+
+---
+
+**70.** Tentukan penyelesaian dari (x + 2)/3 ≤ (x − 1)/2.
+- A. x ≤ 7
+- B. x ≤ 0
+- C. x ≥ 7
+- D. x ≥ 0
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≤ 7. Salah balik tanda.
+- **B** — x ≤ 0. Salah pengembangan: 2(x+2) ≤ 3(x−1) → 2x+4 ≤ 3x−3, salah kelompokkan.
+- **C** — **BENAR.** Kalikan silang 6: 2(x+2) ≤ 3(x−1) → 2x+4 ≤ 3x−3. Kurangi 2x: 4 ≤ x−3. Tambah 3: 7 ≤ x, jadi x ≥ 7.
+- **D** — x ≥ 0. Salah hitung: 4+3=7, lalu salah lagi 7−7=0.
+
+---
+
+**71.** Tentukan penyelesaian dari (2x − 1)/5 > (x + 1)/3.
+- A. x < 8
+- B. x > 4
+- C. x > 8
+- D. x > 4/5
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x < 8. Salah balik tanda.
+- **B** — x > 4. Salah hitung 3+5=8 lalu bagi 2 = 4 (lupa koefisien x sudah jadi 1).
+- **C** — **BENAR.** Kalikan 15: 3(2x−1) > 5(x+1) → 6x−3 > 5x+5. Kurangi 5x: x − 3 > 5. Tambah 3: x > 8.
+- **D** — x > 4/5. Salah hitung: bagi 5 tanpa proses memindahkan dengan benar.
+
+---
+
+**72.** Tentukan penyelesaian dari x − (2x − 5)/3 ≤ 4.
+- A. x ≥ −7
+- B. x ≤ 7
+- C. x ≥ 7
+- D. x ≤ −7
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ −7. Salah hitung tanda.
+- **B** — **BENAR.** Kalikan 3: 3x − (2x − 5) ≤ 12 → 3x − 2x + 5 ≤ 12 → x + 5 ≤ 12. Kurangi 5: x ≤ 7.
+- **C** — x ≥ 7. Salah balik tanda.
+- **D** — x ≤ −7. Salah tanda hasil.
+
+---
+
+**73.** Tentukan penyelesaian dari 2x + 3 ≤ 5x − 9.
+- A. x ≤ 4
+- B. x ≥ 4
+- C. x ≥ 6
+- D. x ≤ 2
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≤ 4. Salah balik tanda.
+- **B** — **BENAR.** Kurangi 2x: 3 ≤ 3x − 9. Tambah 9: 12 ≤ 3x. Bagi 3: 4 ≤ x, jadi x ≥ 4.
+- **C** — x ≥ 6. Salah hitung: 9+3=12 lalu bagi 2 = 6.
+- **D** — x ≤ 2. Salah operasi dan tanda.
+
+---
+
+**74.** Tentukan penyelesaian dari 3x + 8 > 7x − 4.
+- A. x < 1
+- B. x > 1
+- C. x > 3
+- D. x < 3
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 1. Salah hitung: 8+4=12 lalu bagi (8+4) atau campur.
+- **B** — x > 1. Salah balik tanda.
+- **C** — x > 3. Salah balik tanda dua kali.
+- **D** — **BENAR.** Kurangi 3x: 8 > 4x − 4. Tambah 4: 12 > 4x. Bagi 4: 3 > x, jadi x < 3.
+
+---
+
+**75.** Tentukan penyelesaian dari 4x + 1 ≥ 6x − 9.
+- A. x ≤ 4
+- B. x ≥ 4
+- C. x ≤ 5
+- D. x ≥ 5
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x ≤ 4. Salah hitung: 9+1=10 lalu bagi (membuat 5 salah).
+- **B** — x ≥ 4. Salah balik tanda.
+- **C** — **BENAR.** Kurangi 4x: 1 ≥ 2x − 9. Tambah 9: 10 ≥ 2x. Bagi 2: 5 ≥ x, jadi x ≤ 5.
+- **D** — x ≥ 5. Salah balik tanda.
+
+---
+
+**76.** Tentukan penyelesaian dari 5x − 7 < 3x + 1.
+- A. x > 4
+- B. x < 8
+- C. x > 8
+- D. x < 4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x > 4. Salah balik tanda.
+- **B** — x < 8. Lupa membagi 2.
+- **C** — x > 8. Dua kesalahan.
+- **D** — **BENAR.** Kurangi 3x: 2x − 7 < 1. Tambah 7: 2x < 8. Bagi 2: x < 4.
+
+---
+
+**77.** Tentukan penyelesaian dari 6x + 2 ≤ 4x + 12.
+- A. x ≥ 5
+- B. x ≤ 5
+- C. x ≤ 7
+- D. x ≤ 14
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 5. Salah balik tanda.
+- **B** — **BENAR.** Kurangi 4x: 2x + 2 ≤ 12. Kurangi 2: 2x ≤ 10. Bagi 2: x ≤ 5.
+- **C** — x ≤ 7. Salah hitung: 12−2=10, lalu bagi salah cara.
+- **D** — x ≤ 14. Salah operasi: 2+12=14 tanpa membagi.
+
+---
+
+**78.** Tentukan penyelesaian dari 7x − 5 ≥ 2x + 10.
+- A. x ≥ 3
+- B. x ≤ 3
+- C. x ≥ 5/3
+- D. x ≥ 5
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Kurangi 2x: 5x − 5 ≥ 10. Tambah 5: 5x ≥ 15. Bagi 5: x ≥ 3.
+- **B** — x ≤ 3. Salah balik tanda.
+- **C** — x ≥ 5/3. Salah operasi: lupa menambah 5 (10−5=5 atau salah).
+- **D** — x ≥ 5. Salah hitung: 10+5=15 lalu bagi 5 = 3, atau lupa membagi.
+
+---
+
+**79.** Tentukan penyelesaian dari 2(x + 3) > 3(x − 1).
+- A. x > 9
+- B. x < 9
+- C. x > 5
+- D. x > 3
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x > 9. Salah balik tanda padahal koefisien negatif setelah dipindahkan.
+- **B** — **BENAR.** Buka kurung: 2x + 6 > 3x − 3. Kurangi 3x: −x + 6 > −3. Kurangi 6: −x > −9. Kalikan −1, tanda BALIK: x < 9.
+- **C** — x > 5. Salah hitung: 6−3+3=... atau campur.
+- **D** — x > 3. Salah arah dan campur aduk.
+
+---
+
+**80.** Tentukan penyelesaian dari 4(x − 2) ≤ 3(x + 1).
+- A. x ≤ 11
+- B. x ≥ 11
+- C. x ≤ 5
+- D. x ≥ 5
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Buka kurung: 4x − 8 ≤ 3x + 3. Kurangi 3x: x − 8 ≤ 3. Tambah 8: x ≤ 11.
+- **B** — x ≥ 11. Salah balik tanda.
+- **C** — x ≤ 5. Salah hitung: 8−3=5 (arah salah).
+- **D** — x ≥ 5. Dua kesalahan.
+
+---
+
+### C. SOAL TINGKAT NASIONAL (Soal 81–100)
+
+**81.** Andi memiliki uang Rp50.000. Ia ingin membeli buku tulis seharga Rp4.500 per buku. Berapa buku tulis terbanyak yang dapat ia beli?
+- A. 15 buah
+- B. 12 buah
+- C. 10 buah
+- D. 11 buah
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — 15 buah. Salah operasi: 50.000÷3.333 ≈ 15 (memakai harga lain) atau hitung kasar.
+- **B** — 12 buah. Membulatkan ke atas 11,11 → 12, padahal uang tidak cukup untuk 12 buku (12×4.500=54.000 > 50.000).
+- **C** — 10 buah. Membulatkan terlalu jauh ke bawah.
+- **D** — **BENAR.** Misal banyak buku = x. Maka 4.500x ≤ 50.000 → x ≤ 50.000/4.500 ≈ 11,11. Karena buku harus bilangan bulat, maksimal x = 11.
+
+---
+
+**82.** Sebuah lift bisa mengangkut maksimal 480 kg. Jika berat satu orang dewasa diperkirakan 60 kg, berapa orang maksimal yang boleh naik lift bersamaan?
+- A. 7 orang
+- B. 8 orang
+- C. 9 orang
+- D. 6 orang
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 7 orang. Pembulatan terlalu ketat: takut overload, mengurangi satu.
+- **B** — **BENAR.** 60x ≤ 480 → x ≤ 8. Maksimal 8 orang. Tepat pas dengan kapasitas.
+- **C** — 9 orang. Overload: 9×60=540 > 480.
+- **D** — 6 orang. Pembulatan terlalu jauh.
+
+---
+
+**83.** Hasil ujian Maya akan dianggap lulus jika nilai akhir lebih dari atau sama dengan 75. Nilai akhir dihitung dari rata-rata 4 nilai ujian. Tiga nilai pertama Maya: 80, 70, 75. Berapa nilai minimal ujian keempat agar Maya lulus?
+- A. 70
+- B. 72
+- C. 75
+- D. 80
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — 70. Salah operasi: hanya menjumlahkan tanpa rata-rata.
+- **B** — 72. Salah hitung: 80+70+75=225, lalu dibagi 3 (bukan 4).
+- **C** — **BENAR.** Misal nilai ke-4 = x. Rata-rata ≥ 75 → (80+70+75+x)/4 ≥ 75 → 225+x ≥ 300 → x ≥ 75. Minimal nilai 75.
+- **D** — 80. Salah membaca: dipikir butuh nilai rata setara 80.
+
+---
+
+**84.** Sebuah taksi mengenakan tarif buka pintu Rp10.000 dan tarif per kilometer Rp3.500. Berapa jarak tempuh maksimal dengan uang Rp80.000?
+- A. 18 km
+- B. 19 km
+- C. 22 km
+- D. 20 km
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — 18 km. Salah operasi: 80.000−10.000=70.000, lalu 70.000÷4.000 (salah harga) = 17,5 → 18.
+- **B** — 19 km. Salah pembulatan dari 19,99... atau salah operasi.
+- **C** — 22 km. Lupa kurangi tarif buka pintu: 80.000÷3.500=22,8.
+- **D** — **BENAR.** Misal jarak = x. Maka 10.000 + 3.500x ≤ 80.000 → 3.500x ≤ 70.000 → x ≤ 20. Maksimal 20 km.
+
+---
+
+**85.** Diketahui suhu sebuah lemari es harus lebih rendah dari atau sama dengan 4°C. Saat ini suhu lemari 12°C dan turun 2°C tiap jam. Setelah berapa jam minimal suhu lemari mencapai standar?
+- A. 3 jam
+- B. 4 jam
+- C. 5 jam
+- D. 6 jam
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 3 jam. Salah: 12−2(3)=6 > 4, belum mencapai standar.
+- **B** — **BENAR.** Misal waktu = t jam. Suhu setelah t jam: 12 − 2t ≤ 4 → −2t ≤ −8 → BALIK saat bagi −2: t ≥ 4. Minimal 4 jam.
+- **C** — 5 jam. Salah: lebih dari minimum, tetapi soal tanya MINIMAL.
+- **D** — 6 jam. Sama, lebih dari minimum.
+
+---
+
+**86.** Suatu bangunan memerlukan minimal 240 batu bata per baris. Jika 1 palet berisi 75 batu bata, berapa minimal palet yang harus dibeli untuk satu baris?
+- A. 3 palet
+- B. 4 palet
+- C. 5 palet
+- D. 2 palet
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 3 palet. 3×75=225 < 240, tidak cukup.
+- **B** — **BENAR.** Misal palet = x. 75x ≥ 240 → x ≥ 3,2. Karena palet bilangan bulat dan harus ≥ 3,2, minimal x = 4 palet.
+- **C** — 5 palet. Pembulatan terlalu jauh dari 3,2.
+- **D** — 2 palet. 2×75=150 < 240, sangat kurang.
+
+---
+
+**87.** Toni ingin membeli boneka untuk hadiah ulang tahun adik kembarnya. Tiap boneka berharga Rp35.000 dan dia harus menabung tambahan Rp10.000 untuk kado lain. Jika tabungan Toni Rp150.000, berapa banyak boneka maksimal yang bisa dibeli?
+- A. 4 boneka
+- B. 3 boneka
+- C. 5 boneka
+- D. 6 boneka
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Misal boneka = x. 35.000x + 10.000 ≤ 150.000 → 35.000x ≤ 140.000 → x ≤ 4. Maksimal 4 boneka.
+- **B** — 3 boneka. Pembulatan terlalu ketat.
+- **C** — 5 boneka. Lupa kurangi 10.000: 150.000/35.000 ≈ 4,28 → dibulatkan 5 (overestimate).
+- **D** — 6 boneka. Salah operasi total.
+
+---
+
+**88.** Perusahaan X mensyaratkan pelamar berusia minimal 18 tahun dan maksimal 30 tahun. Manakah pertidaksamaan yang menggambarkan syarat usia pelamar?
+- A. 18 ≤ x ≤ 30
+- B. 18 < x < 30
+- C. 18 ≤ x < 30
+- D. 18 < x ≤ 30
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** "Minimal 18" → x ≥ 18 (boleh 18). "Maksimal 30" → x ≤ 30 (boleh 30). Gabungkan: 18 ≤ x ≤ 30.
+- **B** — 18 < x < 30. Salah tafsir: minimal/maksimal berarti BOLEH menyentuh batas, jadi ≤ bukan <.
+- **C** — 18 ≤ x < 30. Salah di sisi atas: "maksimal 30" boleh 30.
+- **D** — 18 < x ≤ 30. Salah di sisi bawah: "minimal 18" boleh 18.
+
+---
+
+**89.** Sebuah kotak makanan ringan untuk acara harus berisi kue lebih dari 12 buah, tetapi tidak lebih dari 20 buah. Jika dalam tiap kotak ada n kue, mana pertidaksamaan yang tepat?
+- A. 12 ≤ n ≤ 20
+- B. 12 < n ≤ 20
+- C. 12 < n < 20
+- D. 12 ≤ n < 20
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 12 ≤ n ≤ 20. Salah: "lebih dari 12" artinya TIDAK boleh 12 (jadi >, bukan ≥).
+- **B** — **BENAR.** "Lebih dari 12" → n > 12 (TIDAK boleh 12). "Tidak lebih dari 20" → n ≤ 20 (BOLEH 20). Jadi 12 < n ≤ 20.
+- **C** — 12 < n < 20. Salah di sisi atas: "tidak lebih dari 20" BOLEH 20.
+- **D** — 12 ≤ n < 20. Dua salah arah tanda.
+
+---
+
+**90.** Dalam suatu turnamen catur, peserta lolos ke babak final jika mengumpulkan minimal 18 poin dari 25 pertandingan. Setiap kemenangan bernilai 1 poin, seri 0,5 poin. Jika Budi sudah bermain 25 kali dengan 6 kali seri, berapa minimal kemenangan agar lolos?
+- A. 15 kemenangan
+- B. 14 kemenangan
+- C. 16 kemenangan
+- D. 18 kemenangan
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Misal menang = m. Poin = m × 1 + 6 × 0,5 = m + 3. Syarat m + 3 ≥ 18 → m ≥ 15. Minimal 15 kemenangan.
+- **B** — 14 kemenangan. Salah: 14+3=17, kurang dari 18.
+- **C** — 16 kemenangan. Lebih dari minimum.
+- **D** — 18 kemenangan. Salah hitung: dipikir butuh 18 menang langsung, lupa poin seri menambah.
+
+---
+
+**91.** Sebuah pertidaksamaan: 3(x − 2) + 5 ≤ 2(x + 1) + 7. Selesaikan!
+- A. x ≤ 10
+- B. x ≤ 12
+- C. x ≥ 10
+- D. x ≤ 8
+
+**Kunci: A**
+
+**Pembahasan:**
+- **A** — **BENAR.** Buka kurung: 3x − 6 + 5 ≤ 2x + 2 + 7 → 3x − 1 ≤ 2x + 9. Kurangi 2x: x − 1 ≤ 9. Tambah 1: x ≤ 10.
+- **B** — x ≤ 12. Salah hitung: −6+5+9+2 = 10 (salah arah).
+- **C** — x ≥ 10. Salah balik tanda.
+- **D** — x ≤ 8. Salah operasi: 9−1=8.
+
+---
+
+**92.** Penyelesaian dari 2 − (3x − 4)/5 > x adalah...
+- A. x < 7/8
+- B. x > 7/8
+- C. x < 7
+- D. x < 7/4
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — x < 7/8. Salah operasi: 14−7=7, lalu bagi 8 = 7/8 (salah perhitungan).
+- **B** — x > 7/8. Dua kesalahan: salah balik tanda dan salah hitung.
+- **C** — x < 7. Salah: 14/2=7 (salah bagi).
+- **D** — **BENAR.** Kalikan 5: 10 − 3x + 4 > 5x → 14 − 3x > 5x → 14 > 8x → x < 14/8 = 7/4.
+
+---
+
+**93.** Jika x ∈ {bilangan bulat}, penyelesaian dari 3x − 7 ≤ 8 adalah...
+- A. x ≤ 5
+- B. x ∈ {..., 3, 4, 5}
+- C. x ∈ {..., 3, 4}
+- D. x ∈ {5, 6, 7, ...}
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≤ 5. Notasi pertidaksamaan kontinu (real), bukan himpunan bilangan bulat. Soal minta himpunan.
+- **B** — **BENAR.** Selesaikan: 3x ≤ 15 → x ≤ 5. Karena x bilangan bulat, himpunannya {..., 3, 4, 5}. (Termasuk 5 karena ≤.)
+- **C** — {..., 3, 4}. Tidak menyertakan 5 padahal ≤ boleh menyertakan batas.
+- **D** — {5, 6, 7, ...}. Salah arah: pertidaksamaan x ≤ 5 artinya ≤, bukan ≥.
+
+---
+
+**94.** Selesaikan: −(2x − 1) ≥ 3(x − 4).
+- A. x ≥ 13/5
+- B. x ≤ 13/5
+- C. x ≤ 11/5
+- D. x ≥ 11/5
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — x ≥ 13/5. Lupa membalik tanda atau salah hitung.
+- **B** — **BENAR.** Buka kurung: −2x + 1 ≥ 3x − 12. Kurangi 3x: −5x + 1 ≥ −12. Kurangi 1: −5x ≥ −13. Bagi −5, tanda BALIK: x ≤ 13/5.
+- **C** — x ≤ 11/5. Salah hitung: 12−1=11.
+- **D** — x ≥ 11/5. Dua kesalahan.
+
+---
+
+**95.** Penyelesaian dari pertidaksamaan ganda 1 < 2x − 3 < 7 adalah...
+- A. 1 < x < 5
+- B. 4 < x < 10
+- C. −1 < x < 2
+- D. 2 < x < 5
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — 1 < x < 5. Lupa proses pada batas bawah.
+- **B** — 4 < x < 10. Lupa bagi 2 di akhir.
+- **C** — −1 < x < 2. Salah arah operasi: kurangi 3 padahal tambah.
+- **D** — **BENAR.** Tambah 3 ke semua ruas: 4 < 2x < 10. Bagi 2: 2 < x < 5.
+
+---
+
+**96.** Sebuah tukang kayu mempunyai papan 480 cm. Ia akan membuat rak yang setiap raknya memerlukan papan minimal 75 cm dan maksimal 90 cm. Berapa jumlah rak terbanyak yang bisa dibuat?
+- A. 5 rak
+- B. 6 rak
+- C. 7 rak
+- D. 8 rak
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 5 rak. Pembulatan terlalu ketat. 5 rak butuh 5×75=375, masih lebih kecil dari 480.
+- **B** — **BENAR.** Untuk maksimal jumlah rak, pakai panjang minimal 75 cm: 75x ≤ 480 → x ≤ 6,4. Maksimal 6 rak (6×75=450 cm tersisa 30 cm; 7×75=525 > 480 tidak cukup).
+- **C** — 7 rak. Salah: pakai panjang maksimal (90) untuk hitung: 480÷90≈5,3 → tetap bukan 7.
+- **D** — 8 rak. Salah operasi total.
+
+---
+
+**97.** Penyelesaian dari (x + 5)/(x − 1) > 0 untuk x bilangan real (selain x = 1) adalah...
+- A. x > 1
+- B. x > −5 atau x > 1
+- C. x < −5 atau x > 1
+- D. −5 < x < 1
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 1. Hanya satu sisi terpenuhi.
+- **B** — x > −5 atau x > 1. Tumpang tindih dengan rentang (−5, 1) yang salah.
+- **C** — **BENAR.** Pecahan positif jika pembilang dan penyebut sama-sama positif atau sama-sama negatif. Kasus 1: x+5>0 DAN x−1>0 → x>1. Kasus 2: x+5<0 DAN x−1<0 → x<−5. Gabungan: x<−5 atau x>1.
+- **D** — −5 < x < 1. Daerah pecahan NEGATIF, kebalikan dari yang ditanyakan.
+
+---
+
+**98.** Diberikan pertidaksamaan |x − 3| < 5. Penyelesaiannya adalah...
+- A. x > 8
+- B. x < −2
+- C. −2 < x < 8
+- D. −8 < x < 2
+
+**Kunci: C**
+
+**Pembahasan:**
+- **A** — x > 8. Hanya sebagian — salah memahami nilai mutlak.
+- **B** — x < −2. Hanya sebagian.
+- **C** — **BENAR.** |x−3|<5 artinya −5 < x−3 < 5. Tambah 3: −2 < x < 8.
+- **D** — −8 < x < 2. Salah tanda: lupa menambah 3 dengan benar (kurangi 5 dari 3 = −2, bukan −8).
+
+---
+
+**99.** Sebuah kolam berisi 200 liter air. Air diisi terus menerus 8 liter per menit. Pada saat yang sama, air bocor 3 liter per menit. Berapa menit minimum agar volume air mencapai 300 liter?
+- A. 18 menit
+- B. 22 menit
+- C. 25 menit
+- D. 20 menit
+
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — 18 menit. Salah: 100÷5,5=18 (memakai laju salah).
+- **B** — 22 menit. Salah hitung sedikit.
+- **C** — 25 menit. Salah operasi: 100÷4 (laju 4 salah).
+- **D** — **BENAR.** Laju bersih = 8 − 3 = 5 liter/menit. Misal waktu = t menit. Volume akhir: 200 + 5t ≥ 300 → 5t ≥ 100 → t ≥ 20. Minimal 20 menit.
+
+---
+
+**100.** Ibu Lina mempunyai 512 kg apel. Apel akan dimasukkan ke dalam kardus berukuran 12 kg per kardus. Setiap kardus harus terisi penuh dan tidak boleh berisi lebih dari 12 kg. Berapa banyak kardus maksimum yang dapat diisi penuh dan berapa kg apel tersisa?
+- A. 40 kardus, sisa 32 kg
+- B. 42 kardus, sisa 8 kg
+- C. 41 kardus, sisa 20 kg
+- D. 43 kardus, sisa −4 kg
+
+**Kunci: B**
+
+**Pembahasan:**
+- **A** — 40 kardus, sisa 32 kg. Pembulatan terlalu ketat. Sisa 32 ≥ 12 bisa diisi lagi 2 kardus penuh.
+- **B** — **BENAR.** Misal kardus = x. Syarat 12x ≤ 512 dengan x bilangan bulat → x ≤ 42,67 → maksimal 42 kardus. Sisa = 512 − 42×12 = 512 − 504 = 8 kg.
+- **C** — 41 kardus, sisa 20 kg. Sisa 20 ≥ 12, masih bisa 1 kardus lagi.
+- **D** — 43 kardus, sisa −4 kg. Tidak masuk akal — apel tidak cukup untuk 43 kardus (43×12=516 > 512).
+
+---
+
+## BAGIAN III — TABEL KUNCI, DISTRIBUSI & TIPS
+
+### Tabel Kunci Final
+
+**Soal 1–25 (Kab pertama):**
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| B | A | C | D | A | C | A | D | A | B | C | D | A | C | A | D | D | B | C | A | A | D | C | A | D |
+
+**Soal 26–50 (Kab kedua):**
+| 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| C | C | D | C | D | B | A | D | A | B | D | C | A | C | D | D | B | B | D | A | B | C | A | C | D |
+
+**Soal 51–80 (Prov):**
+| 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| D | C | D | B | C | D | A | A | B | C | A | C | B | B | C | A | C | A | B | C | C | B | B | D | C | D | B | A | B | A |
+
+**Soal 81–100 (Nas):**
+| 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| D | B | C | D | B | B | A | A | B | A | A | D | B | B | D | B | C | C | D | B |
+
+### Distribusi Kunci
+
+Hitung manual:
+- **A:** 25
+- **B:** 25
+- **C:** 25
+- **D:** 25
+
+Total: **100 soal, distribusi 25/25/25/25 — balanced.**
+
+### Tips Trik Pamungkas Pertidaksamaan Linear
+
+1. **Aturan emas:** Kalikan/bagi NEGATIF → tanda BALIK. Yang lain (tambah, kurang, kali/bagi positif) tanda TETAP.
+2. **Bedakan ≤ dan <:** garis di bawah → BOLEH menyentuh batas; tanpa garis → TIDAK BOLEH.
+3. **Pindahkan variabel ke ruas dengan koefisien BESAR** agar koefisien akhir positif — hindari berhadapan dengan minus.
+4. **Cek dengan substitusi:** ambil 1 nilai dari rentang jawaban, masukkan ke pertidaksamaan asli. Harus benar.
+5. **Soal cerita:**
+   - "Minimal", "paling sedikit", "sekurang-kurangnya", "tidak kurang dari" → **≥**.
+   - "Maksimal", "paling banyak", "sebanyak-banyaknya", "tidak lebih dari" → **≤**.
+   - "Lebih dari" → **>** (TIDAK termasuk batas).
+   - "Kurang dari" → **<** (TIDAK termasuk batas).
+6. **Konteks bilangan bulat:** banyak orang, banyak barang, jumlah hari → harus bilangan bulat non-negatif. Setelah dapat hasil pecahan, pembulatan tergantung arah (maksimal → ke bawah; minimal → ke atas).
+7. **Pertidaksamaan ganda (1 < 2x − 3 < 7):** operasikan SEMUA TIGA RUAS sekaligus dengan operasi yang sama.
+8. **Pecahan dengan x:** kalikan kedua ruas dengan KPK penyebut. Hati-hati jika pengali bisa negatif (jarang di tingkat SD).
+9. **Buka kurung dulu** sebelum pindah suku — kesalahan distribusi paling sering: lupa kalikan ke suku kedua dalam kurung.
+10. **Jangan panik dengan minus:** semua aturan tetap sama, hanya satu — kali/bagi negatif balik tanda. Lainnya identik dengan persamaan.
+
+---
+
+**SELAMAT BERLATIH! Pertidaksamaan adalah pintu masuk berpikir tentang rentang nilai — keterampilan penting untuk soal cerita OSN. Kuasai aturan balik tanda dan kamu sudah aman dari jebakan utama!**
