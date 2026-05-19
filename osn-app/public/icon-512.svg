@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="OSN-SD Prep">
+  <rect width="512" height="512" rx="96" ry="96" fill="#e53935"/>
+  <g fill="none" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Trophy cup -->
+    <path d="M180 150 h152 v48 a76 76 0 0 1 -152 0 z"/>
+    <!-- Left handle -->
+    <path d="M180 166 c-38 0 -48 22 -48 44 c0 26 22 44 48 44"/>
+    <!-- Right handle -->
+    <path d="M332 166 c38 0 48 22 48 44 c0 26 -22 44 -48 44"/>
+    <!-- Stem -->
+    <path d="M256 274 v50"/>
+    <!-- Base -->
+    <path d="M202 354 h108"/>
+    <path d="M220 324 h72"/>
+  </g>
+  <text x="256" y="446" text-anchor="middle" font-family="'DM Sans', 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="60" fill="#ffffff" letter-spacing="6">OSN</text>
+</svg>

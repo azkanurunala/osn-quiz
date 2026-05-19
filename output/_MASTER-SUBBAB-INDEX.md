@@ -482,7 +482,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 ### IPA-05 · Bumi, Antariksa, dan Lingkungan (14 sub-bab)
 
 **IPA-05a · Sistem Tata Surya & Ciri 8 Planet** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05a-tata-surya-campur.md`
+- [x] `osn-sd-ipa-05a-tata-surya-campur.md`
 - [ ] `osn-sd-ipa-05a-tata-surya-mudah.md`
 - [ ] `osn-sd-ipa-05a-tata-surya-sedang.md`
 - [ ] `osn-sd-ipa-05a-tata-surya-sulit.md`
@@ -490,7 +490,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05a-tata-surya-sedang-sulit.md`
 
 **IPA-05b · Bumi: Bentuk, Lapisan (Kerak, Mantel, Inti)** (fokus Kab)
-- [ ] `osn-sd-ipa-05b-lapisan-bumi-campur.md`
+- [x] `osn-sd-ipa-05b-lapisan-bumi-campur.md`
 - [ ] `osn-sd-ipa-05b-lapisan-bumi-mudah.md`
 - [ ] `osn-sd-ipa-05b-lapisan-bumi-sedang.md`
 - [ ] `osn-sd-ipa-05b-lapisan-bumi-sulit.md`
@@ -498,7 +498,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05b-lapisan-bumi-sedang-sulit.md`
 
 **IPA-05c · Rotasi & Revolusi Bumi (Akibat & Dampaknya)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05c-rotasi-revolusi-campur.md`
+- [x] `osn-sd-ipa-05c-rotasi-revolusi-campur.md`
 - [ ] `osn-sd-ipa-05c-rotasi-revolusi-mudah.md`
 - [ ] `osn-sd-ipa-05c-rotasi-revolusi-sedang.md`
 - [ ] `osn-sd-ipa-05c-rotasi-revolusi-sulit.md`
@@ -506,7 +506,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05c-rotasi-revolusi-sedang-sulit.md`
 
 **IPA-05d · Bulan: Fase, Gerakan, Akibat** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05d-fase-bulan-campur.md`
+- [x] `osn-sd-ipa-05d-fase-bulan-campur.md`
 - [ ] `osn-sd-ipa-05d-fase-bulan-mudah.md`
 - [ ] `osn-sd-ipa-05d-fase-bulan-sedang.md`
 - [ ] `osn-sd-ipa-05d-fase-bulan-sulit.md`
@@ -514,7 +514,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05d-fase-bulan-sedang-sulit.md`
 
 **IPA-05e · Gerhana Matahari & Gerhana Bulan** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05e-gerhana-campur.md`
+- [x] `osn-sd-ipa-05e-gerhana-campur.md`
 - [ ] `osn-sd-ipa-05e-gerhana-mudah.md`
 - [ ] `osn-sd-ipa-05e-gerhana-sedang.md`
 - [ ] `osn-sd-ipa-05e-gerhana-sulit.md`
@@ -522,7 +522,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05e-gerhana-sedang-sulit.md`
 
 **IPA-05f · Cuaca, Iklim, Musim** (fokus Kab)
-- [ ] `osn-sd-ipa-05f-cuaca-iklim-campur.md`
+- [x] `osn-sd-ipa-05f-cuaca-iklim-campur.md`
 - [ ] `osn-sd-ipa-05f-cuaca-iklim-mudah.md`
 - [ ] `osn-sd-ipa-05f-cuaca-iklim-sedang.md`
 - [ ] `osn-sd-ipa-05f-cuaca-iklim-sulit.md`
@@ -530,7 +530,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05f-cuaca-iklim-sedang-sulit.md`
 
 **IPA-05g · Batuan (Beku, Sedimen, Metamorf)** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05g-batuan-campur.md`
+- [x] `osn-sd-ipa-05g-batuan-campur.md`
 - [ ] `osn-sd-ipa-05g-batuan-mudah.md`
 - [ ] `osn-sd-ipa-05g-batuan-sedang.md`
 - [ ] `osn-sd-ipa-05g-batuan-sulit.md`
@@ -538,7 +538,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05g-batuan-sedang-sulit.md`
 
 **IPA-05h · Tanah (Jenis, Lapisan, Manfaat)** (fokus Kab)
-- [ ] `osn-sd-ipa-05h-tanah-campur.md`
+- [x] `osn-sd-ipa-05h-tanah-campur.md`
 - [ ] `osn-sd-ipa-05h-tanah-mudah.md`
 - [ ] `osn-sd-ipa-05h-tanah-sedang.md`
 - [ ] `osn-sd-ipa-05h-tanah-sulit.md`

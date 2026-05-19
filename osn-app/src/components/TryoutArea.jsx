@@ -1,17 +1,7 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { ChevronLeft, ChevronRight, Clock, Award, CheckCircle, RefreshCw, Eye, BookOpen, AlertCircle } from 'lucide-react';
+import { useState, useEffect, useRef } from 'react';
+import { ChevronLeft, ChevronRight, Clock, Award, RefreshCw, Eye, BookOpen, AlertCircle } from 'lucide-react';
 import confetti from 'canvas-confetti';
-
-const renderMarkdown = (text) => {
-  if (!text) return '';
-  const parts = text.split('**');
-  return parts.map((part, index) => {
-    if (index % 2 === 1) {
-      return <strong key={index} className="font-extrabold text-gray-900">{part}</strong>;
-    }
-    return part;
-  });
-};
+import { InlineMarkdown } from '../utils/markdown.jsx';
 
 export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
   const [examQuestions, setExamQuestions] = useState([]);
@@ -222,7 +212,7 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
                   Soal {currentIndex + 1}
                 </span>
                 <h2 className="text-lg font-bold leading-relaxed text-gray-800">
-                  {renderMarkdown(currentQuestion.question)}
+                  <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
 
@@ -265,7 +255,7 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
                         }`}>
                           {key}
                         </span>
-                        <span>{renderMarkdown(value)}</span>
+                        <span><InlineMarkdown text={value} /></span>
                       </div>
                     </button>
                   );
@@ -325,7 +315,7 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
                 {currentQuestion.concept && (
                   <div className="bg-emerald-50/50 rounded-2xl p-4 border border-emerald-100">
                     <span className="text-xs font-bold text-emerald-700 uppercase tracking-wider block mb-1">Konsep Kunci</span>
-                    <p className="text-sm font-semibold text-gray-700 leading-relaxed">{renderMarkdown(currentQuestion.concept)}</p>
+                    <p className="text-sm font-semibold text-gray-700 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} /></p>
                   </div>
                 )}
 
@@ -346,7 +336,7 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
                           <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-700' : 'text-gray-500'}`}>
                             Pilihan {key}:
                           </span>
-                          {renderMarkdown(val)}
+                          <InlineMarkdown text={val} />
                         </div>
                       );
                     })}

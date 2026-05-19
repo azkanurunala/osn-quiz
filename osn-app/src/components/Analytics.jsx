@@ -1,16 +1,50 @@
-import React, { useState } from 'react';
-import { Award, TrendingUp, Users, Calendar, Activity, BookOpen, ChevronRight, BarChart3, AlertCircle } from 'lucide-react';
+import { useState, useMemo } from 'react';
+import { Award, Users, Activity, AlertCircle, Trash2 } from 'lucide-react';
 
-export default function Analytics({ stats }) {
+const SUBBAB_LABELS = {
+  'ipa-01': 'Ciri Makhluk Hidup',
+  'ipa-02': 'Sistem Organ Manusia',
+  'ipa-03': 'Gaya & Gerak',
+  'ipa-04b': 'Optika & Cermin',
+  'ipa-04c': 'Pembiasan Lensa',
+  'ipa-05': 'Bumi & Antariksa',
+  'mtk-01': 'Bilangan & Operasi',
+  'mtk-02': 'Pecahan & Persentase',
+  'mtk-03': 'Geometri Bidang Datar',
+  'mtk-04': 'Geometri Bangun Ruang',
+  'mtk-05': 'Aritmetika Sosial',
+};
+
+export default function Analytics({ stats, progress, onResetProgress }) {
   const [activeTab, setActiveTab] = useState('student'); // 'student' | 'parent' | 'teacher'
+  const [confirmingReset, setConfirmingReset] = useState(false);
 
-  const skillMastery = [
-    { name: 'Optika & Cermin', mastery: 85, color: 'bg-emerald-500', status: 'Sangat Baik' },
-    { name: 'Gaya & Gerak', mastery: 90, color: 'bg-emerald-500', status: 'Sangat Baik' },
-    { name: 'Sistem Organ Manusia', mastery: 72, color: 'bg-yellow-500', status: 'Cukup' },
-    { name: 'Ciri Makhluk Hidup', mastery: 95, color: 'bg-emerald-500', status: 'Sangat Baik' },
-    { name: 'Pembiasan Lensa', mastery: 40, color: 'bg-red-500', status: 'Butuh Latihan' }
-  ];
+  const { skillMastery, totalAnswered, totalCorrect, accuracyPct, weakestId } = useMemo(() => {
+    const entries = Object.entries(progress || {});
+    const rows = entries
+      .map(([id, p]) => {
+        const answered = p?.answered ? Object.keys(p.answered).length : 0;
+        if (!answered) return null;
+        const correct = p?.correct || 0;
+        const mastery = Math.round((correct / answered) * 100);
+        const color = mastery >= 85 ? 'bg-emerald-500' : mastery >= 65 ? 'bg-yellow-500' : 'bg-red-500';
+        const status = mastery >= 85 ? 'Sangat Baik' : mastery >= 65 ? 'Cukup' : 'Butuh Latihan';
+        return { id, name: SUBBAB_LABELS[id] || id, mastery, answered, correct, color, status };
+      })
+      .filter(Boolean)
+      .sort((a, b) => b.mastery - a.mastery);
+
+    const ans = rows.reduce((s, r) => s + r.answered, 0);
+    const cor = rows.reduce((s, r) => s + r.correct, 0);
+    const weakest = [...rows].sort((a, b) => a.mastery - b.mastery)[0];
+    return {
+      skillMastery: rows,
+      totalAnswered: ans,
+      totalCorrect: cor,
+      accuracyPct: ans ? ((cor / ans) * 100).toFixed(1) : '0.0',
+      weakestId: weakest?.name,
+    };
+  }, [progress]);
 
   const parentStats = {
     weeklyHours: '4.5 Jam',
@@ -78,30 +112,37 @@ export default function Analytics({ stats }) {
                 <p className="text-xs text-gray-400">Diukur dari akurasi latihan soal terstandar</p>
               </div>
 
-              <div className="space-y-4">
-                {skillMastery.map((item) => (
-                  <div key={item.name} className="space-y-1.5">
-                    <div className="flex items-center justify-between text-xs font-bold">
-                      <span className="text-gray-700">{item.name}</span>
-                      <div className="flex items-center gap-2">
-                        <span className={`px-2 py-0.5 rounded text-[10px] ${
-                          item.status === 'Sangat Baik' ? 'bg-emerald-50 text-emerald-600' :
-                          item.status === 'Cukup' ? 'bg-yellow-50 text-yellow-600' : 'bg-red-50 text-red-500'
-                        }`}>
-                          {item.status}
-                        </span>
-                        <span className="text-gray-800">{item.mastery}%</span>
+              {skillMastery.length === 0 ? (
+                <div className="text-center py-8 text-xs text-gray-400">
+                  Belum ada data latihan. Selesaikan minimal 1 soal untuk melihat penguasaan materimu di sini.
+                </div>
+              ) : (
+                <div className="space-y-4">
+                  {skillMastery.map((item) => (
+                    <div key={item.id} className="space-y-1.5">
+                      <div className="flex items-center justify-between text-xs font-bold">
+                        <span className="text-gray-700">{item.name}</span>
+                        <div className="flex items-center gap-2">
+                          <span className="text-[10px] text-gray-400 font-medium">{item.correct}/{item.answered}</span>
+                          <span className={`px-2 py-0.5 rounded text-[10px] ${
+                            item.status === 'Sangat Baik' ? 'bg-emerald-50 text-emerald-600' :
+                            item.status === 'Cukup' ? 'bg-yellow-50 text-yellow-600' : 'bg-red-50 text-red-500'
+                          }`}>
+                            {item.status}
+                          </span>
+                          <span className="text-gray-800">{item.mastery}%</span>
+                        </div>
+                      </div>
+                      <div className="w-full bg-gray-200 rounded-full h-3.5 overflow-hidden">
+                        <div
+                          className={`h-full rounded-full ${item.color}`}
+                          style={{ width: `${item.mastery}%` }}
+                        ></div>
                       </div>
                     </div>
-                    <div className="w-full bg-gray-200 rounded-full h-3.5 overflow-hidden">
-                      <div 
-                        className={`h-full rounded-full ${item.color}`}
-                        style={{ width: `${item.mastery}%` }}
-                      ></div>
-                    </div>
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              )}
             </div>
           )}
 
@@ -196,11 +237,12 @@ export default function Analytics({ stats }) {
             <div className="space-y-1">
               <h4 className="font-bold text-sm text-gray-800 font-heading">Rekomendasi Belajar Hari Ini</h4>
               <p className="text-xs text-gray-600 leading-relaxed">
-                Pemahaman Anda tentang <strong>Pembiasan Lensa</strong> masih lemah (40%). Luangkan waktu 15 menit hari ini untuk melatih sub-bab tersebut guna memuluskan jalur penguasaan bab optika Anda!
+                {weakestId ? (
+                  <>Sub-bab <strong>{weakestId}</strong> menjadi area terlemah dari latihanmu. Luangkan 15 menit lagi untuk mempertajam pemahaman dan menutup gap miskonsepsi.</>
+                ) : (
+                  <>Mulai latihan pertamamu dari roadmap untuk membuka analisis penguasaan materi yang dipersonalisasi.</>
+                )}
               </p>
-              <button className="text-brand-primary text-xs font-bold mt-2 flex items-center gap-0.5 hover:underline">
-                Pelajari Pembiasan Lensa Sekarang <ChevronRight className="w-3.5 h-3.5" />
-              </button>
             </div>
           </div>
 
@@ -226,17 +268,59 @@ export default function Analytics({ stats }) {
               </div>
               <div className="flex justify-between items-center text-xs font-semibold">
                 <span className="text-gray-500">Soal Dijawab:</span>
-                <span className="font-bold text-gray-800">230 Soal</span>
+                <span className="font-bold text-gray-800">{totalAnswered} Soal</span>
               </div>
               <div className="flex justify-between items-center text-xs font-semibold">
                 <span className="text-gray-500">Akurasi Rata-rata:</span>
-                <span className="font-bold text-emerald-600">88.5%</span>
+                <span className="font-bold text-emerald-600">{totalAnswered > 0 ? `${accuracyPct}%` : '—'}</span>
+              </div>
+              <div className="flex justify-between items-center text-xs font-semibold">
+                <span className="text-gray-500">Jawaban Benar:</span>
+                <span className="font-bold text-gray-800">{totalCorrect} Soal</span>
               </div>
             </div>
             
             <div className="border-t border-gray-100 pt-4 flex items-center justify-center">
               <span className="text-xs text-gray-400 font-medium">Berdasarkan data 7 hari terakhir</span>
             </div>
+          </div>
+
+          {/* Data settings */}
+          <div className="glass-card rounded-3xl p-6 space-y-3">
+            <div>
+              <h4 className="font-bold font-heading text-sm flex items-center gap-1.5">
+                <Trash2 className="w-3.5 h-3.5 text-gray-400" /> Pengaturan Data
+              </h4>
+              <p className="text-[10px] text-gray-400">Semua progres disimpan lokal di browser-mu.</p>
+            </div>
+            {!confirmingReset ? (
+              <button
+                onClick={() => setConfirmingReset(true)}
+                className="w-full text-xs font-bold text-gray-600 border border-gray-200 hover:border-red-300 hover:text-brand-primary hover:bg-red-50/40 py-2.5 rounded-xl transition"
+              >
+                Reset Semua Progres
+              </button>
+            ) : (
+              <div className="space-y-2">
+                <p className="text-[11px] text-red-700 bg-red-50 border border-red-100 rounded-xl p-2.5 leading-relaxed">
+                  Yakin ingin menghapus <strong>{totalAnswered} jawaban</strong>, {stats.xp} XP, dan streak {stats.streak} hari? Tindakan ini tidak dapat dibatalkan.
+                </p>
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    onClick={() => setConfirmingReset(false)}
+                    className="text-xs font-bold text-gray-600 border border-gray-200 hover:bg-gray-50 py-2 rounded-xl transition"
+                  >
+                    Batal
+                  </button>
+                  <button
+                    onClick={() => { onResetProgress?.(); setConfirmingReset(false); }}
+                    className="text-xs font-extrabold text-white bg-brand-primary hover:bg-brand-hover py-2 rounded-xl transition shadow-md shadow-red-500/10"
+                  >
+                    Ya, Hapus
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         </div>
 
