@@ -6,8 +6,10 @@ import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { fireMilestone } from '../utils/milestones';
+import { useT } from '../i18n';
 
 export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings }) {
+  const t = useT();
   const vpDefaults = settings?.videoProduction || {};
   const questions = questionsData?.questions || [];
   const theory = questionsData?.theory || [];
@@ -240,7 +242,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         setTimeLeft(15);
       } else {
         if (currentIndex < questions.length - 1) handleNextQuestion();
-        else { setIsCleanMode(false); alert('Produksi Video Selesai! 🎉 Seluruh soal kuis telah selesai secara otomatis.'); }
+        else { setIsCleanMode(false); alert(t('video_selesai_alert', 'Produksi Video Selesai! 🎉 Seluruh soal kuis telah selesai secara otomatis.')); }
       }
     }
   }, [timeLeft, timerEnabled, timerPhase, currentQuestion, currentIndex, isMuted, showIntro, onAddXp, handleNextQuestion, questions.length, setIsCleanMode, recordAnswer]);
@@ -275,9 +277,9 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     return (
       <div className="text-center p-12">
         <HelpCircle className="w-16 h-16 mx-auto text-gray-300 animate-pulse mb-4" />
-        <h3 className="text-xl font-bold font-heading">Data Soal Tidak Ditemukan</h3>
-        <p className="text-gray-400 mt-2">Gagal memuat materi kuis atau data kuis kosong.</p>
-        <button onClick={onBack} className="mt-4 bg-brand-primary text-white px-6 py-2 rounded-xl text-sm font-bold">Kembali</button>
+        <h3 className="text-xl font-bold font-heading">{t('data_soal_tidak_ditemukan', 'Data Soal Tidak Ditemukan')}</h3>
+        <p className="text-gray-400 mt-2">{t('gagal_memuat_soal', 'Gagal memuat materi kuis atau data kuis kosong.')}</p>
+        <button onClick={onBack} className="mt-4 bg-brand-primary text-white px-6 py-2 rounded-xl text-sm font-bold">{t('kembali', 'Kembali')}</button>
       </div>
     );
   }
@@ -311,7 +313,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             <h2 className="text-xl font-extrabold text-white tracking-wide uppercase font-heading">
               {questionsData?.title || 'CERDAS CERMAT OSN'}
             </h2>
-            <p className="text-xs text-white/70 font-semibold uppercase tracking-widest">Menyiapkan Mode Perekaman...</p>
+            <p className="text-xs text-white/70 font-semibold uppercase tracking-widest">{t('menyiapkan_rekaman', 'Menyiapkan Mode Perekaman...')}</p>
           </div>
         </div>
       </div>
@@ -343,12 +345,12 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
                     <span className="flex items-center gap-1.5">
                       <span className={`h-2.5 w-2.5 rounded-full animate-ping ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
-                      {timerPhase === 'question' ? 'Waktu Menjawab...' : 'Durasi Pembahasan...'}
+                      {timerPhase === 'question' ? t('waktu_menjawab', 'Waktu Menjawab...') : t('durasi_pembahasan', 'Durasi Pembahasan...')}
                     </span>
                     <span className={`text-base font-black ${
                       timerPhase === 'question' && timeLeft <= 3 ? 'text-red-500 animate-bounce' :
                       timerPhase === 'explanation' ? 'text-brand-accent' : 'text-gray-800'
-                    }`}>{timeLeft} Detik</span>
+                    }`}>{timeLeft} {t('detik', 'Detik')}</span>
                   </div>
                   <div className="w-full bg-gray-200/50 h-2 rounded-full overflow-hidden">
                     <div
@@ -364,7 +366,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               )}
               <div className="space-y-3">
                 <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
-                  {currentQuestion.subTopic || 'Topik Utama'}
+                  {currentQuestion.subTopic || t('topik_utama', 'Topik Utama')}
                 </span>
                 <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-850">
                   <InlineMarkdown text={currentQuestion.question} />
@@ -408,11 +410,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 </div>
                 {!isChecked ? (
                   <button onClick={handleCheckAnswer} disabled={!selectedOption} className="bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm">
-                    Cek Jawaban
+                    {t('cek_jawaban', 'Cek Jawaban')}
                   </button>
                 ) : (
                   <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-blue-500/10 text-sm flex items-center gap-1">
-                    Soal Selanjutnya <ChevronRight className="w-4 h-4" />
+                    {t('soal_selanjutnya', 'Soal Selanjutnya')} <ChevronRight className="w-4 h-4" />
                   </button>
                 )}
               </div>
@@ -423,25 +425,25 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               <div className="sticky top-0 pt-10 bg-slate-900 z-10 flex items-center gap-3 border-b border-slate-800 pb-3">
                 <div className="p-2 bg-red-950 border border-red-800/35 rounded-xl text-red-400"><Lightbulb className="w-5 h-5" /></div>
                 <div>
-                  <h3 className="text-lg font-bold font-heading text-white">Pembahasan Komprehensif</h3>
-                  <p className="text-xs text-slate-400">Analisis konsep & opsi salah untuk mencegah miskonsepsi</p>
+                  <h3 className="text-lg font-bold font-heading text-white">{t('pembahasan_komprehensif', 'Pembahasan Komprehensif')}</h3>
+                  <p className="text-xs text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
                 </div>
               </div>
               {currentQuestion.concept && (
                 <div className="bg-slate-800/80 rounded-2xl p-4 border border-slate-700/50 shadow-md">
-                  <span className="text-xs font-bold text-red-400 uppercase tracking-wider block mb-1">Konsep Kunci</span>
+                  <span className="text-xs font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
                   <p className="text-sm font-semibold text-slate-200 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} dark /></p>
                 </div>
               )}
               <div className="space-y-2.5">
-                <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">Bongkar Semua Pilihan (Penting!)</span>
+                <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">{t('bongkar_pilihan', 'Bongkar Semua Pilihan (Penting!)')}</span>
                 <div className="grid grid-cols-1 gap-2.5">
                   {Object.entries(currentQuestion.analysis).map(([key, val]) => {
                     if (!val) return null;
                     const isCorrect = key === currentQuestion.answerKey;
                     return (
                       <div key={key} className={`p-3.5 rounded-xl text-xs leading-relaxed border ${isCorrect ? 'bg-emerald-950/40 border-emerald-900/60 text-emerald-200' : 'bg-slate-800/40 border-slate-800/60 text-slate-300'}`}>
-                        <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-400' : 'text-slate-400'}`}>Pilihan {key}:</span>
+                        <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-400' : 'text-slate-400'}`}>{t('pilihan', 'Pilihan')} {key}:</span>
                         <InlineMarkdown text={val} dark />
                       </div>
                     );
@@ -450,7 +452,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               </div>
               {currentQuestion.steps && currentQuestion.steps.length > 0 && (
                 <div className="space-y-2.5">
-                  <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">Langkah Penyelesaian</span>
+                  <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">{t('langkah_penyelesaian', 'Langkah Penyelesaian')}</span>
                   <div className="space-y-2">
                     {currentQuestion.steps.map((step, idx) => (
                       <div key={idx} className="flex gap-2.5 text-xs text-slate-300 leading-relaxed">
@@ -465,7 +467,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 <div className="bg-yellow-950/20 rounded-2xl p-4 border border-yellow-900/35 flex items-start gap-3 shadow-md">
                   <div className="p-1 bg-yellow-950/80 rounded-lg text-yellow-500 border border-yellow-800/30 shrink-0 mt-0.5"><Compass className="w-4 h-4" /></div>
                   <div className="text-xs leading-relaxed text-yellow-200/90 font-medium">
-                    <span className="font-bold text-yellow-400 block mb-1">Tips Olimpiade 💭</span>
+                    <span className="font-bold text-yellow-400 block mb-1">{t('tips_olimpiade', 'Tips Olimpiade 💭')}</span>
                     <MarkdownText text={currentQuestion.tips} dark />
                   </div>
                 </div>
@@ -484,24 +486,24 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       {/* Header */}
       <div className="flex items-center justify-between glass-card rounded-2xl p-4 gap-4 flex-wrap">
         <button onClick={onBack} className="flex items-center gap-1.5 text-gray-500 hover:text-brand-primary font-bold text-sm transition font-sans">
-          <ChevronLeft className="w-5 h-5" /> Kembali ke Roadmap
+          <ChevronLeft className="w-5 h-5" /> {t('kembali_ke_roadmap', 'Kembali ke Roadmap')}
         </button>
         <div className="flex items-center gap-4 text-xs font-bold font-sans flex-wrap">
           <span className="text-gray-700 truncate max-w-[280px]" title={questionsData?.title}>
-            {questionsData?.title || 'Sub-bab Praktik'}
+            {questionsData?.title || t('subbab_praktik', 'Sub-bab Praktik')}
           </span>
           <span className="bg-emerald-500/10 text-emerald-700 px-3 py-1 rounded-full uppercase tracking-wider flex items-center gap-1.5">
-            Selesai {completionPct}%
+            {t('selesai', 'Selesai')} {completionPct}%
           </span>
           {activeTab === 'quiz' && (
             <>
               <span className="bg-red-500/10 text-brand-primary px-3 py-1 rounded-full uppercase tracking-wider">
-                Tingkat: {currentQuestion.level === 'Kab' ? 'Kabupaten' : currentQuestion.level === 'Prov' ? 'Provinsi' : 'Nasional'}
+                {t('level', 'Level')}: {currentQuestion.level === 'Kab' ? t('kabupaten', 'Kabupaten') : currentQuestion.level === 'Prov' ? t('provinsi', 'Provinsi') : t('nasional', 'Nasional')}
               </span>
               <span className="text-gray-400 font-sans">
                 {filterMode === 'all'
-                  ? `Soal ${currentIndex + 1} dari ${questions.length}`
-                  : `${Math.max(0, positionInFilter) + 1} dari ${filterTotal} terfilter`}
+                  ? t('soal_n_dari_m', 'Soal ${n} dari ${m}').replace('${n}', currentIndex + 1).replace('${m}', questions.length)
+                  : t('n_dari_m_terfilter', '${n} dari ${m} terfilter').replace('${n}', Math.max(0, positionInFilter) + 1).replace('${m}', filterTotal)}
               </span>
             </>
           )}
@@ -516,7 +518,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             activeTab === 'quiz' ? 'bg-brand-primary text-white shadow-sm shadow-red-500/20' : 'text-gray-500 hover:text-gray-800'
           }`}
         >
-          <ListChecks className="w-4 h-4" /> Latihan Soal
+          <ListChecks className="w-4 h-4" /> {t('latihan_soal', 'Latihan Soal')}
         </button>
         <button
           onClick={() => setActiveTab('theory')}
@@ -525,7 +527,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             activeTab === 'theory' ? 'bg-brand-accent text-white shadow-sm shadow-blue-500/20' : 'text-gray-500 hover:text-gray-800'
           } disabled:opacity-40 disabled:cursor-not-allowed`}
         >
-          <GraduationCap className="w-4 h-4" /> Pelajari Materi
+          <GraduationCap className="w-4 h-4" /> {t('pelajari_materi', 'Pelajari Materi')}
           {theory.length > 0 && <span className="bg-white/30 text-[10px] px-1.5 py-0.5 rounded-full">{theory.length}</span>}
         </button>
       </div>
@@ -535,14 +537,14 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       ) : (
         <>
           {/* Filter chips */}
-          <div className="flex items-center gap-2 flex-wrap">
+          <div className="flex items-center gap-2 flex-wrap font-sans">
             <div className="flex items-center gap-1.5 text-[10px] font-bold text-gray-400 uppercase tracking-wider pl-1">
-              <Filter className="w-3.5 h-3.5" /> Filter
+              <Filter className="w-3.5 h-3.5" /> {t('filter', 'Filter')}
             </div>
             {[
-              { id: 'all', label: 'Semua', count: filterCounts.all, cls: 'brand-accent' },
-              { id: 'unanswered', label: 'Belum Dijawab', count: filterCounts.unanswered, cls: 'gray' },
-              { id: 'wrong', label: 'Salah', count: filterCounts.wrong, cls: 'red' },
+              { id: 'all', label: t('semua_chip', 'Semua'), count: filterCounts.all, cls: 'brand-accent' },
+              { id: 'unanswered', label: t('belum_dijawab_chip', 'Belum Dijawab'), count: filterCounts.unanswered, cls: 'gray' },
+              { id: 'wrong', label: t('salah_chip', 'Salah'), count: filterCounts.wrong, cls: 'red' },
             ].map((chip) => {
               const active = filterMode === chip.id;
               const baseColor =
@@ -567,12 +569,12 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           </div>
 
           {filterTotal === 0 ? (
-            <div className="glass-card rounded-3xl p-10 text-center space-y-2">
+            <div className="glass-card rounded-3xl p-10 text-center space-y-2 font-sans">
               <HelpCircle className="w-10 h-10 mx-auto text-gray-300" />
-              <h3 className="text-base font-bold font-heading">Tidak ada soal dalam filter ini 🎉</h3>
+              <h3 className="text-base font-bold font-heading">{t('tidak_ada_soal_filter', 'Tidak ada soal dalam filter ini 🎉')}</h3>
               <p className="text-xs text-gray-400">
-                {filterMode === 'wrong' ? 'Belum ada jawaban salah — bagus! ' : 'Semua soal sudah dijawab. '}
-                <button onClick={() => setFilterMode('all')} className="text-brand-primary font-bold underline">Reset filter</button>
+                {filterMode === 'wrong' ? t('belum_ada_salah_desc', 'Belum ada jawaban salah — bagus! ') : t('semua_soal_dijawab_desc', 'Semua soal sudah dijawab. ')}
+                <button onClick={() => setFilterMode('all')} className="text-brand-primary font-bold underline">{t('reset_filter', 'Reset filter')}</button>
               </p>
             </div>
           ) : null}
@@ -582,7 +584,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             <div className="flex items-center justify-between border-b border-gray-100 pb-3 gap-3 flex-wrap">
               <div className="flex items-center gap-2">
                 <span className="flex h-2.5 w-2.5 rounded-full bg-red-600 animate-ping"></span>
-                <h3 className="text-sm font-black uppercase tracking-wider text-gray-800 font-heading">🎬 Video Producer Studio</h3>
+                <h3 className="text-sm font-black uppercase tracking-wider text-gray-800 font-heading">{t('video_producer_studio', '🎬 Video Producer Studio')}</h3>
               </div>
               <div className="flex items-center gap-3">
                 <button
@@ -590,27 +592,27 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   className="flex items-center gap-1 text-[10px] font-bold text-gray-500 hover:text-brand-primary uppercase tracking-wider"
                   title="Tampilkan pintasan keyboard (?)"
                 >
-                  <Keyboard className="w-3.5 h-3.5" /> Pintasan
+                  <Keyboard className="w-3.5 h-3.5" /> {t('pintasan', 'Pintasan')}
                 </button>
-                <span className="text-[10px] text-gray-400 font-bold">Menjawab 10s → Pembahasan 15s (Loop)</span>
+                <span className="text-[10px] text-gray-400 font-bold">{t('video_loop_desc', 'Menjawab 10s → Pembahasan 15s (Loop)')}</span>
               </div>
             </div>
 
             {showShortcuts && (
-              <div className="bg-gray-50 rounded-2xl p-3 grid grid-cols-2 md:grid-cols-4 gap-2 text-[11px] text-gray-600">
-                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">A·B·C·D</kbd> pilih opsi</div>
-                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">Enter</kbd> cek / lanjut</div>
-                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">←  →</kbd> navigasi soal</div>
-                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">?</kbd> toggle bantuan</div>
+              <div className="bg-gray-50 rounded-2xl p-3 grid grid-cols-2 md:grid-cols-4 gap-2 text-[11px] text-gray-600 font-sans">
+                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">A·B·C·D</kbd> {t('shortcut_select', 'pilih opsi')}</div>
+                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">Enter</kbd> {t('shortcut_check', 'cek / lanjut')}</div>
+                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">←  →</kbd> {t('shortcut_nav', 'navigasi soal')}</div>
+                <div><kbd className="px-1.5 py-0.5 bg-white border border-gray-300 rounded font-mono">?</kbd> {t('shortcut_help', 'toggle bantuan')}</div>
               </div>
             )}
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
-              <ToggleTile label="Timer Soal (10s)" value={timerEnabled} onToggle={() => setTimerEnabled((v) => !v)} color="red" />
-              <ToggleTile label="Auto-Pilot" value={autoPilot} onToggle={() => setAutoPilot((v) => !v)} color="emerald" />
-              <ToggleTile label="In-Frame Split" value={layoutSplit} onToggle={() => setLayoutSplit((v) => !v)} color="red" />
+              <ToggleTile label={t('timer_soal_opt', 'Timer Soal (10s)')} value={timerEnabled} onToggle={() => setTimerEnabled((v) => !v)} color="red" />
+              <ToggleTile label={t('auto_pilot_opt', 'Auto-Pilot')} value={autoPilot} onToggle={() => setAutoPilot((v) => !v)} color="emerald" />
+              <ToggleTile label={t('in_frame_split_opt', 'In-Frame Split')} value={layoutSplit} onToggle={() => setLayoutSplit((v) => !v)} color="red" />
               <div className="flex items-center justify-between p-3 bg-gray-50 rounded-2xl border border-gray-100">
-                <span className="text-xs font-bold text-gray-600">Music Loop</span>
+                <span className="text-xs font-bold text-gray-600">{t('music_loop_opt', 'Music Loop')}</span>
                 <div className="flex items-center gap-2">
                   <button onClick={() => setIsMuted(!isMuted)} className={`p-2 rounded-xl transition ${isMuted ? 'bg-gray-200 text-gray-500' : 'bg-red-500 text-white shadow-md shadow-red-500/10'}`}>
                     {isMuted ? <VolumeX className="w-3.5 h-3.5" /> : <Volume2 className="w-3.5 h-3.5 animate-bounce" />}
@@ -622,9 +624,9 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             <div className="border-t border-gray-100 pt-4 flex justify-end">
               <button
                 onClick={() => { setIsCleanMode(true); setShowIntro(vpDefaults.showIntro ?? true); setIntroTimeLeft(3); }}
-                className="bg-brand-primary hover:bg-brand-hover text-white font-extrabold px-6 py-2.5 rounded-2xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1.5"
+                className="bg-brand-primary hover:bg-brand-hover text-white font-extrabold px-6 py-2.5 rounded-2xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1.5 font-sans"
               >
-                <Video className="w-3.5 h-3.5 fill-white animate-pulse" /> Mulai Rekam (Layar Bersih)
+                <Video className="w-3.5 h-3.5 fill-white animate-pulse" /> {t('mulai_rekam_btn', 'Mulai Rekam (Layar Bersih)')}
               </button>
             </div>
           </div>
@@ -731,8 +733,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
           )}
 
-          <div className="text-center text-[11px] text-gray-400">
-            Skor sesi: <span className="font-bold text-gray-600">{score}</span> · Tekan <kbd className="px-1 py-0.5 bg-white border border-gray-300 rounded font-mono text-[10px]">?</kbd> untuk pintasan keyboard
+          <div className="text-center text-[11px] text-gray-400 font-sans">
+            {t('skor_sesi', 'Skor sesi:')} <span className="font-bold text-gray-600">{score}</span> · {t('tekan_key_shortcuts', 'Tekan ${key} untuk pintasan keyboard').replace('${key}', '?')}
           </div>
         </>
       )}
@@ -782,7 +784,7 @@ function PembahasanContent({ q }) {
             const isCorrect = key === q.answerKey;
             return (
               <div key={key} className={`p-3.5 rounded-xl text-xs leading-relaxed border ${isCorrect ? 'bg-emerald-50/40 border-emerald-100 text-emerald-800' : 'bg-gray-50/50 border-gray-100 text-gray-600'}`}>
-                <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-700' : 'text-gray-500'}`}>Pilihan {key}:</span>
+                <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-700' : 'text-gray-500'}`}>{t('pilihan_n', 'Pilihan ${n}:').replace('${n}', key)}</span>
                 <InlineMarkdown text={val} />
               </div>
             );
@@ -821,23 +823,23 @@ function TheoryView({ theory, title, onStartQuiz }) {
   const [openIndex, setOpenIndex] = useState(0);
   if (!theory || theory.length === 0) {
     return (
-      <div className="glass-card rounded-3xl p-12 text-center space-y-3">
+      <div className="glass-card rounded-3xl p-12 text-center space-y-3 font-sans">
         <BookOpen className="w-12 h-12 mx-auto text-gray-300" />
-        <h3 className="text-lg font-bold font-heading">Materi Teori Belum Tersedia</h3>
-        <p className="text-xs text-gray-400 max-w-md mx-auto">Sub-bab ini belum dilengkapi materi teori. Mulai latihan untuk belajar lewat pembahasan tiap soal.</p>
+        <h3 className="text-lg font-bold font-heading">{t('materi_teori_empty', 'Materi Teori Belum Tersedia')}</h3>
+        <p className="text-xs text-gray-400 max-w-md mx-auto">{t('materi_teori_empty_desc', 'Sub-bab ini belum dilengkapi materi teori. Mulai latihan untuk belajar lewat pembahasan tiap soal.')}</p>
       </div>
     );
   }
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 font-sans">
       <div className="glass-card rounded-3xl p-6 flex items-start gap-4">
         <div className="p-3 bg-blue-100 rounded-2xl shrink-0"><GraduationCap className="w-6 h-6 text-brand-accent" /></div>
         <div className="flex-1">
-          <h2 className="text-lg font-bold font-heading">Materi Pelajaran</h2>
-          <p className="text-xs text-gray-500 mt-0.5">{title || 'Pelajari konsep inti sebelum mengerjakan soal.'}</p>
+          <h2 className="text-lg font-bold font-heading">{t('materi_pelajaran', 'Materi Pelajaran')}</h2>
+          <p className="text-xs text-gray-500 mt-0.5">{title || t('pelajari_konsep_inti_desc', 'Pelajari konsep inti sebelum mengerjakan soal.')}</p>
         </div>
         <button onClick={onStartQuiz} className="bg-brand-primary hover:bg-brand-hover text-white font-bold px-4 py-2 rounded-xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1 shrink-0">
-          Mulai Latihan <ChevronRight className="w-4 h-4" />
+          {t('mulai_latihan_btn', 'Mulai Latihan')} <ChevronRight className="w-4 h-4" />
         </button>
       </div>
 

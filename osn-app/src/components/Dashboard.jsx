@@ -4,6 +4,7 @@ import DailyChallenge from './DailyChallenge';
 import ActivityHeatmap from './ActivityHeatmap';
 import QuickQuiz from './QuickQuiz';
 import { buildRoadmap, labelOf } from '../hooks/useSubBabData';
+import { useT } from '../i18n';
 
 function decorateFromManifest(metaList, progress) {
   let firstUnstartedSeen = false;
@@ -32,6 +33,7 @@ function decorateFromManifest(metaList, progress) {
 }
 
 export default function Dashboard({ stats, progress, manifest, manifestLoading, onSelectSubBab, onAddXp, questionsData }) {
+  const t = useT();
   const [quickQuizOpen, setQuickQuizOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const grouped = useMemo(() => buildRoadmap(manifest), [manifest]);
@@ -77,33 +79,33 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
           <div className="absolute right-0 top-0 w-32 h-32 bg-red-500/10 rounded-full blur-2xl"></div>
           <div>
             <span className="bg-red-500/10 text-brand-primary text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
-              Level {level} • {level >= 5 ? 'Ksatria Sains' : level >= 3 ? 'Pelajar Tekun' : 'Pemula Bersemangat'}
+              {t('level', 'Level')} {level} • {level >= 5 ? t('ksatria_sains', 'Ksatria Sains') : level >= 3 ? t('pelajar_tekun', 'Pelajar Tekun') : t('pemula_bersemangat', 'Pemula Bersemangat')}
             </span>
-            <h2 className="text-2xl font-bold font-heading mt-3 mb-1">Halo, Calon Medali Emas! 👋</h2>
+            <h2 className="text-2xl font-bold font-heading mt-3 mb-1">{t('halo_calon_medali_emas', 'Halo, Calon Medali Emas! 👋')}</h2>
             <p className="text-gray-500 text-sm">
               {stats.streak > 0
-                ? `Streak ${stats.streak} hari menyala 🔥 — pertahankan tempomu untuk merebut posisi puncak!`
-                : 'Mulai latihan pertamamu hari ini untuk membuka streak dan koleksi medali.'}
+                ? t('streak_menyala_params', `Streak ${stats.streak} hari menyala 🔥 — pertahankan tempomu untuk merebut posisi puncak!`).replace('${streak}', stats.streak)
+                : t('mulai_latihan_streak', 'Mulai latihan pertamamu hari ini untuk membuka streak dan koleksi medali.')}
             </p>
           </div>
           <div className="mt-6 flex items-center justify-between gap-3 flex-wrap">
             <div className="flex items-center gap-2">
               <Compass className="text-brand-accent animate-spin-slow w-5 h-5" />
-              <span className="text-sm font-semibold">Tujuan Berikutnya: {next.title}</span>
+              <span className="text-sm font-semibold">{t('tujuan_berikutnya', 'Tujuan Berikutnya')}: {next.title}</span>
             </div>
             <div className="flex items-center gap-2">
               <button
                 onClick={() => setQuickQuizOpen(true)}
                 className="bg-white/80 hover:bg-white text-brand-accent border border-brand-accent/30 px-3 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1 shadow-sm"
-                title="5 soal acak — selesai dalam 2 menit"
+                title={t('kuis_kilat_desc', '5 soal acak — selesai dalam 2 menit')}
               >
-                <Zap className="w-3.5 h-3.5 fill-brand-accent" /> Kuis Kilat
+                <Zap className="w-3.5 h-3.5 fill-brand-accent" /> {t('kuis_kilat', 'Kuis Kilat')}
               </button>
               <button
                 onClick={() => onSelectSubBab(next.id)}
                 className="bg-brand-primary hover:bg-brand-hover text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1 shadow-md shadow-red-500/20"
               >
-                {next.progress > 0 ? 'Lanjutkan' : 'Mulai Belajar'} <ChevronRight className="w-4 h-4" />
+                {next.progress > 0 ? t('lanjutkan', 'Lanjutkan') : t('mulai_belajar', 'Mulai Belajar')} <ChevronRight className="w-4 h-4" />
               </button>
             </div>
           </div>
@@ -111,26 +113,26 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
 
         <div className="glass-card rounded-3xl p-6 flex flex-col justify-between">
           <div className="flex items-center justify-between">
-            <span className="text-gray-400 font-semibold text-sm">Daily Streak</span>
+            <span className="text-gray-400 font-semibold text-sm">{t('daily_streak', 'Daily Streak')}</span>
             <div className="p-3 bg-orange-100 rounded-2xl">
               <Flame className="text-orange-500 fill-orange-500 w-6 h-6 animate-bounce" />
             </div>
           </div>
           <div>
             <div className="text-3xl font-bold font-heading flex items-baseline gap-1">
-              {stats.streak} <span className="text-sm font-semibold text-gray-400">Hari</span>
+              {stats.streak} <span className="text-sm font-semibold text-gray-400">{t('hari', 'Hari')}</span>
             </div>
             <p className="text-xs text-orange-500 font-semibold mt-1">
-              {stats.streak === 0 ? 'Mulai streak pertamamu hari ini!' :
-               stats.streak < 7 ? `${7 - stats.streak} hari lagi untuk Klaim Chest Emas` :
-               'Veteran streak! Pertahankan!'}
+              {stats.streak === 0 ? t('mulai_streak_hari_ini', 'Mulai streak pertamamu hari ini!') :
+               stats.streak < 7 ? t('hari_lagi_chest', `${7 - stats.streak} hari lagi untuk Klaim Chest Emas`).replace('${days}', 7 - stats.streak) :
+               t('pertahankan_streak', 'Pertahankan streak-mu!')}
             </p>
           </div>
         </div>
 
         <div className="glass-card rounded-3xl p-6 flex flex-col justify-between">
           <div className="flex items-center justify-between">
-            <span className="text-gray-400 font-semibold text-sm">XP Belajar</span>
+            <span className="text-gray-400 font-semibold text-sm">{t('xp_belajar', 'XP Belajar')}</span>
             <div className="p-3 bg-yellow-100 rounded-2xl">
               <Star className="text-yellow-500 fill-yellow-500 w-6 h-6" />
             </div>
@@ -139,7 +141,7 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
             <div className="text-3xl font-bold font-heading flex items-baseline gap-1">
               {stats.xp} <span className="text-sm font-semibold text-gray-400">XP</span>
             </div>
-            <p className="text-xs text-gray-400 mt-1">{xpToNextLevel} XP lagi untuk Level {level + 1}</p>
+            <p className="text-xs text-gray-400 mt-1">{t('xp_lagi_level', `${xpToNextLevel} XP lagi untuk Level ${level + 1}`).replace('${xp}', xpToNextLevel).replace('${level}', level + 1)}</p>
           </div>
         </div>
       </div>
@@ -148,44 +150,44 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
 
       <div className="glass-card rounded-3xl p-6">
         <h3 className="text-lg font-bold font-heading mb-4 flex items-center gap-2">
-          <Award className="text-yellow-500 w-5 h-5" /> Koleksi Medali OSN Anda
+          <Award className="text-yellow-500 w-5 h-5" /> {t('koleksi_medali', 'Koleksi Medali OSN Anda')}
         </h3>
         <div className="grid grid-cols-3 gap-4">
           <div className="flex flex-col items-center p-4 bg-yellow-500/5 rounded-2xl border border-yellow-500/20 glow-gold">
             <Award className="w-10 h-10 text-yellow-500 fill-yellow-500 mb-2" />
             <span className="text-2xl font-black text-yellow-600">{stats.medals.gold}</span>
-            <span className="text-xs font-bold text-yellow-700">Medali Emas</span>
+            <span className="text-xs font-bold text-yellow-700">{t('medali_emas', 'Medali Emas')}</span>
           </div>
           <div className="flex flex-col items-center p-4 bg-slate-200/40 rounded-2xl border border-slate-300 glow-silver">
             <Award className="w-10 h-10 text-slate-400 fill-slate-400 mb-2" />
             <span className="text-2xl font-black text-slate-600">{stats.medals.silver}</span>
-            <span className="text-xs font-bold text-slate-700">Medali Perak</span>
+            <span className="text-xs font-bold text-slate-700">{t('medali_perak', 'Medali Perak')}</span>
           </div>
           <div className="flex flex-col items-center p-4 bg-amber-700/5 rounded-2xl border border-amber-700/20 glow-bronze">
             <Award className="w-10 h-10 text-amber-700 fill-amber-700 mb-2" />
             <span className="text-2xl font-black text-amber-700">{stats.medals.bronze}</span>
-            <span className="text-xs font-bold text-amber-800">Medali Perunggu</span>
+            <span className="text-xs font-bold text-amber-800">{t('medali_perunggu', 'Medali Perunggu')}</span>
           </div>
         </div>
       </div>
 
       {showRoadmapPlaceholder ? (
-        <div className="glass-card rounded-3xl p-10 text-center text-gray-400 text-sm">Memuat daftar bab dan sub-bab…</div>
+        <div className="glass-card rounded-3xl p-10 text-center text-gray-400 text-sm font-sans">{t('loading_roadmap', 'Memuat daftar bab dan sub-bab…')}</div>
       ) : null}
 
       {/* Sub-bab search */}
-      <div className="glass-card rounded-2xl p-3 flex items-center gap-3">
+      <div className="glass-card rounded-2xl p-3 flex items-center gap-3 font-sans">
         <Search className="w-4 h-4 text-gray-400 shrink-0 ml-1.5" />
         <input
           type="text"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder="Cari sub-bab… (mis. cermin, fpb, pecahan)"
+          placeholder={t('search_placeholder', 'Cari sub-bab… (mis. cermin, fpb, pecahan)')}
           className="flex-1 bg-transparent outline-none text-sm font-medium placeholder:text-gray-400"
         />
         {searchQuery && (
           <>
-            <span className="text-[10px] text-gray-400 font-bold tabular-nums">{totalMatches} hasil</span>
+            <span className="text-[10px] text-gray-400 font-bold tabular-nums">{totalMatches} {t('hasil', 'hasil')}</span>
             <button
               onClick={() => setSearchQuery('')}
               className="p-1 rounded-md hover:bg-gray-100 text-gray-400 hover:text-gray-700"
@@ -197,27 +199,27 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
         )}
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 font-sans">
         <RoadmapColumn
-          title="Roadmap IPA (Olimpiade Sains)"
-          subtitle="Taksonomi konsep fisika, biologi, & bumi"
+          title={t('roadmap_ipa_title', 'Roadmap IPA (Olimpiade Sains)')}
+          subtitle={t('roadmap_ipa_subtitle', 'Taksonomi konsep fisika, biologi, & bumi')}
           icon={<Compass className="text-brand-primary w-5 h-5" />}
           iconBg="bg-red-100"
           items={ipaFiltered}
-          emptyHint={q ? 'Tidak ada sub-bab IPA cocok.' : null}
-          activeBadge="Aktif"
+          emptyHint={q ? t('no_ipa_matches', 'Tidak ada sub-bab IPA cocok.') : null}
+          activeBadge={t('aktif', 'Aktif')}
           accent="brand-primary"
           onSelect={onSelectSubBab}
         />
 
         <RoadmapColumn
-          title="Roadmap Matematika"
-          subtitle="Asah logika, pecahan, hingga geometri"
+          title={t('roadmap_mtk_title', 'Roadmap Matematika')}
+          subtitle={t('roadmap_mtk_subtitle', 'Asah logika, pecahan, hingga geometri')}
           icon={<BookOpen className="text-brand-accent w-5 h-5" />}
           iconBg="bg-blue-100"
           items={mathFiltered}
-          emptyHint={q ? 'Tidak ada sub-bab Matematika cocok.' : null}
-          activeBadge="Lanjutkan"
+          emptyHint={q ? t('no_mtk_matches', 'Tidak ada sub-bab Matematika cocok.') : null}
+          activeBadge={t('lanjutkan', 'Lanjutkan')}
           accent="brand-accent"
           onSelect={onSelectSubBab}
         />
@@ -266,12 +268,12 @@ function RoadmapColumn({ title, subtitle, icon, iconBg, items, activeBadge, acce
                 {item.completed ? <CheckCircle2 className="w-5 h-5" /> : index + 1}
               </div>
               <div>
-                <h4 className="font-bold text-sm text-gray-800 flex items-center gap-1.5">
+                <h4 className="font-bold text-sm text-gray-800 flex items-center gap-1.5 font-sans">
                   {item.title}
                   {item.active && <span className={`${accentBg} text-white text-[10px] px-1.5 py-0.5 rounded-full uppercase tracking-wider font-extrabold animate-pulse`}>{activeBadge}</span>}
-                  {item.locked && <span className="bg-gray-200 text-gray-500 text-[10px] px-1.5 py-0.5 rounded-full uppercase tracking-wider font-bold">Segera</span>}
+                  {item.locked && <span className="bg-gray-200 text-gray-500 text-[10px] px-1.5 py-0.5 rounded-full uppercase tracking-wider font-bold">{t('segera', 'Segera')}</span>}
                 </h4>
-                <p className="text-xs text-gray-400">{item.questionsCount} Bank Soal Terstandar</p>
+                <p className="text-xs text-gray-400">{item.questionsCount} {t('bank_soal_terstandar', 'Bank Soal Terstandar')}</p>
               </div>
             </div>
 

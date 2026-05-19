@@ -8,6 +8,7 @@ import { X, Sliders, Video, BookOpen, Trash2, RotateCcw, Volume2, VolumeX, Timer
 
 export const DEFAULT_SETTINGS = {
   unlockAll: true, // semua materi terbuka (default — disarankan ON)
+  tierPreference: 'campur',
   videoProduction: {
     timerEnabled: true,
     autoPilot: true,
@@ -79,6 +80,7 @@ export default function SettingsPanel({ open, onClose, settings, setSettings, on
           <X className="w-4 h-4 text-gray-600" />
         </button>
 
+ 
         <div className="flex items-center gap-2">
           <Sliders className="w-5 h-5 text-brand-primary" />
           <div>
@@ -94,6 +96,22 @@ export default function SettingsPanel({ open, onClose, settings, setSettings, on
             value={s.unlockAll}
             onChange={(v) => setSettings({ ...s, unlockAll: v })}
           />
+          <div className="flex items-center justify-between p-3 rounded-xl border border-gray-100 hover:bg-gray-50 transition text-left mt-2">
+            <div>
+              <div className="text-sm font-semibold text-gray-800">Tingkat Kesulitan Default</div>
+              <div className="text-[10px] text-gray-400">Pilih kesulitan paket soal utama di Praktik</div>
+            </div>
+            <select
+              value={s.tierPreference || 'campur'}
+              onChange={(e) => setSettings({ ...s, tierPreference: e.target.value })}
+              className="text-xs font-bold text-gray-750 bg-gray-50 border border-gray-200 rounded-lg p-2 focus:ring-1 focus:ring-brand-primary"
+            >
+              <option value="campur">Campur</option>
+              <option value="mudah">Mudah</option>
+              <option value="sedang">Sedang</option>
+              <option value="sulit">Sulit</option>
+            </select>
+          </div>
         </Section>
 
         <Section icon={Video} title="Default Video Producer" subtitle="Nilai awal saat membuka halaman Latihan Soal.">

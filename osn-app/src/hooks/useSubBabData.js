@@ -24,27 +24,35 @@ export function useManifest() {
 }
 
 // Picks a 'campur' tier file for the requested subBabId/chapter; tries multiple fallbacks.
-export function pickFile(manifest, requestedId) {
+export function pickFile(manifest, requestedId, preferredTier = 'campur') {
   if (!manifest?.items) return null;
   const items = manifest.items;
-  // 1. exact subBab match (sub-bab files use subBab field): prefer campur tier
+  // 1. exact subBab match (sub-bab files use subBab field)
   let candidates = items.filter((it) => it.subBab === requestedId);
   if (candidates.length === 0) {
     // 2. chapter-level match (chapter files)
     candidates = items.filter((it) => it.chapter === requestedId);
   }
   if (candidates.length === 0) return null;
-  return candidates.find((c) => c.tier === 'campur')
-      || candidates.find((c) => c.tier === 'sedang')
+  
+  const exactMatch = candidates.find((c) => c.tier === preferredTier);
+  if (exactMatch) return exactMatch;
+  
+  const campurMatch = candidates.find((c) => c.tier === 'campur');
+  if (campurMatch) return campurMatch;
+
+  return candidates.find((c) => c.tier === 'sedang')
+      || candidates.find((c) => c.tier === 'mudah')
+      || candidates.find((c) => c.tier === 'sulit')
       || candidates[0];
 }
 
-export function useSubBabData(subBabId, manifest) {
+export function useSubBabData(subBabId, manifest, preferredTier = 'campur') {
   const [state, setState] = useState({ data: null, loading: !!subBabId, error: null, fileMeta: null });
 
   useEffect(() => {
     if (!subBabId || !manifest) { setState({ data: null, loading: false, error: null, fileMeta: null }); return; }
-    const meta = pickFile(manifest, subBabId);
+    const meta = pickFile(manifest, subBabId, preferredTier);
     if (!meta) { setState({ data: null, loading: false, error: 'Sub-bab tidak ditemukan di manifest', fileMeta: null }); return; }
 
     if (cache.has(meta.file)) {
@@ -65,7 +73,7 @@ export function useSubBabData(subBabId, manifest) {
       })
       .catch((err) => { if (!cancelled) setState({ data: null, loading: false, error: err.message, fileMeta: meta }); });
     return () => { cancelled = true; };
-  }, [subBabId, manifest]);
+  }, [subBabId, manifest, preferredTier]);
 
   return state;
 }

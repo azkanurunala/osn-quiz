@@ -2,7 +2,7 @@
 
 > Tujuan: catat status implementasi & cara melanjutkan di chat baru. **Update saat ada perubahan signifikan.**
 
-Last updated: **2026-05-19** (Round 10 / Deep parser audit + 218/218 coverage, 21,747 soal validated).
+Last updated: **2026-05-19** (Round 11 / Sticky Sidebar Header + i18n useT() complete migration).
 
 ---
 
@@ -246,7 +246,7 @@ Output Vite build:
 2. **`BookmarksPanel` tidak lintas sub-bab.** Hanya tampilkan bookmark dari sub-bab yang sedang di-load. Solusi: lazy-fetch tiap bookmarked sub-bab on demand.
 3. **MathRender belum dipakai.** Konten matematika di output/ kebanyakan plain text (tidak pakai `$...$`). Bisa pasang `<MathText>` di markdown.jsx kalau konten future pakai LaTeX.
 4. **SkeletonLoader belum dipakai.** Loading state di Practice hanya text "Memuat materi…". Bisa di-replace dengan skeleton card kalau mau.
-5. **i18n migration incomplete.** Hanya nav strings (Roadmap/Tryout/Analitik), tagline, dan streak chip yang pakai `t()`. Sisanya hardcoded Bahasa Indonesia.
+5. **i18n migration completed.** Semua strings penting di Dashboard welcome card, Practice action buttons, Analytics tabs/roles, dan Tryout instructions sudah dimigrasikan menggunakan `t()`.
 6. **OnboardingTour muncul untuk SEMUA user pertama kali**. Sudah ada tombol "Buka Ulang Tur" di Settings, tapi UX awalan mungkin agresif untuk user existing.
 7. **Tryout cross-subBab fetch 4 file paralel** = 300KB+ network setiap kali user buka tab Tryout. Service Worker akan caching setelah PWA aktif (production only).
 8. **Parser warning kosmetik:** canvas-confetti di-import dynamic di milestones.js tapi juga static di PracticeArea/QuickQuiz/bookmarks → tidak bisa di-chunk-split. Bisa diperbaiki dengan ubah milestones.js ke static import.
@@ -257,9 +257,8 @@ Output Vite build:
 
 1. **Visual browser test** dari Dashboard → Practice → Tryout → Analytics, mobile + desktop. Capture screenshots, identifikasi layout glitches.
 2. **Fix BookmarksPanel cross-subBab** — refactor jadi fetch-on-demand.
-3. **Migrate sisa hardcoded strings ke `useT()`** — Dashboard welcome card, Practice action buttons, Analytics tabs, Tryout instructions.
-4. **Kosmetik UI cleanup di Dashboard** — banyak card (DailyChallenge + Welcome + Stats + Achievements row + Roadmap × 2 + ActivityHeatmap + QuickQuiz modal). Bisa di-collapse jadi tabs/accordion atau dipindah ke Analytics.
-5. **Tier-aware selection di Practice** — Settings tambah preferensi tier (mudah/sedang/sulit) → manifest pickFile pilih sesuai.
+3. **Kosmetik UI cleanup di Dashboard** — banyak card (DailyChallenge + Welcome + Stats + Achievements row + Roadmap × 2 + ActivityHeatmap + QuickQuiz modal). Bisa di-collapse jadi tabs/accordion atau dipindah ke Analytics.
+4. **Tier-aware selection di Practice** — Settings tambah preferensi tier (mudah/sedang/sulit) → manifest pickFile pilih sesuai.
 
 ---
 
@@ -340,6 +339,7 @@ osn-app/
 | 8 | **100% coverage** | CRLF + format variants → 216/216 file |
 | 9 | **Settings + Unlock all** | SettingsPanel, default Video Production ON, gear icon |
 | 10 | **Deep parser audit + validator** | `validate-data.mjs` baru; menemukan 4 critical bug (question/options kosong); 3 format varian baru di-handle (A-inline, A-short, C-multi-on-line); 218/218 file, 21,747 soal validated, 0 error |
+| 11 | **Sticky Explanation + i18n useT() Complete** | sticky explanation title/subtitle in Video Producer Studio, full bilingual localizations for Dashboard, PracticeArea, and Analytics |
 
 ---
 

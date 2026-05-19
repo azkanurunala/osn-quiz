@@ -3,8 +3,10 @@ import { ChevronLeft, ChevronRight, Clock, Award, RefreshCw, Eye, BookOpen, Aler
 import { InlineMarkdown } from '../utils/markdown.jsx';
 import ShareResultCard from './ShareResultCard';
 import { fireMedalUnlock } from '../utils/milestones';
+import { useT } from '../i18n';
 
 export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal }) {
+  const t = useT();
   const [examQuestions, setExamQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState({}); // {questionId: selectedOption}
@@ -121,8 +123,8 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
     return (
       <div className="text-center p-12">
         <RefreshCw className="w-12 h-12 mx-auto text-brand-primary animate-spin mb-4" />
-        <h3 className="text-lg font-bold font-heading">Mempersiapkan Simulasi Tryout...</h3>
-        <p className="text-xs text-gray-400">Sedang memilah dan mengacak 10 soal standar nasional.</p>
+        <h3 className="text-lg font-bold font-heading">{t('mempersiapkan_tryout', 'Mempersiapkan Simulasi Tryout...')}</h3>
+        <p className="text-xs text-gray-400">{t('memilah_soal_tryout', 'Sedang memilah dan mengacak 10 soal standar nasional.')}</p>
       </div>
     );
   }
@@ -133,9 +135,9 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
       {isSubmitted && !isReviewMode ? (
         <div className="lg:col-span-3 glass-card rounded-3xl p-12 text-center space-y-8 max-w-2xl mx-auto">
           <div className="space-y-3">
-            <span className="bg-red-500/10 text-brand-primary text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">Hasil Tryout Simulasi</span>
-            <h2 className="text-3xl font-bold font-heading">Tryout Selesai! 🎉</h2>
-            <p className="text-sm text-gray-400">Hasil pengerjaan Anda telah dianalisis berdasarkan kunci jawaban OSN SD terbaru.</p>
+            <span className="bg-red-500/10 text-brand-primary text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">{t('hasil_tryout_simulasi', 'Hasil Tryout Simulasi')}</span>
+            <h2 className="text-3xl font-bold font-heading">{t('tryout_selesai', 'Tryout Selesai! 🎉')}</h2>
+            <p className="text-sm text-gray-400">{t('tryout_selesai_desc', 'Hasil pengerjaan Anda telah dianalisis berdasarkan kunci jawaban OSN SD terbaru.')}</p>
           </div>
 
           {/* Medal Unlock Animation */}
@@ -146,16 +148,16 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
                 medalEarned === 'silver' ? 'text-slate-400 fill-slate-400 glow-silver' : 'text-amber-700 fill-amber-700 glow-bronze'
               }`} />
               <h3 className="text-xl font-bold uppercase tracking-wider font-heading">
-                {medalEarned === 'gold' ? 'Medali Emas Unlocked!' : 
-                 medalEarned === 'silver' ? 'Medali Perak Unlocked!' : 'Medali Perunggu Unlocked!'}
+                {medalEarned === 'gold' ? t('medali_emas_unlocked', 'Medali Emas Unlocked!') : 
+                 medalEarned === 'silver' ? t('medali_perak_unlocked', 'Medali Perak Unlocked!') : t('medali_perunggu_unlocked', 'Medali Perunggu Unlocked!')}
               </h3>
-              <p className="text-xs text-gray-400 mt-1">Kemampuan Anda setara dengan Juara Tingkat {medalEarned === 'gold' ? 'Nasional' : medalEarned === 'silver' ? 'Provinsi' : 'Kabupaten'}!</p>
+              <p className="text-xs text-gray-400 mt-1">{t('kemampuan_juara_tingkat', 'Kemampuan Anda setara dengan Juara Tingkat ${level}!').replace('${level}', medalEarned === 'gold' ? t('nasional', 'Nasional') : medalEarned === 'silver' ? t('provinsi', 'Provinsi') : t('kabupaten', 'Kabupaten'))}</p>
             </div>
           ) : (
             <div className="p-6 bg-gray-50 rounded-3xl border border-gray-200 max-w-sm mx-auto flex flex-col items-center">
               <AlertCircle className="w-16 h-16 text-gray-400 mb-3" />
-              <h3 className="text-lg font-bold text-gray-700">Tetap Semangat!</h3>
-              <p className="text-xs text-gray-400 mt-1">Jangan berkecil hati, pelajari kembali pembahasan materi dan coba lagi.</p>
+              <h3 className="text-lg font-bold text-gray-700">{t('tetap_semangat', 'Tetap Semangat!')}</h3>
+              <p className="text-xs text-gray-400 mt-1">{t('tryout_salah_desc', 'Jangan berkecil hati, pelajari kembali pembahasan materi dan coba lagi.')}</p>
             </div>
           )}
 
@@ -163,13 +165,13 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
           <div className="flex items-center justify-center gap-8">
             <div className="w-32 h-32 rounded-full border-8 border-brand-primary flex flex-col items-center justify-center">
               <span className="text-3xl font-black text-brand-primary">{score}%</span>
-              <span className="text-[10px] uppercase font-bold text-gray-400">Akurasi</span>
+              <span className="text-[10px] uppercase font-bold text-gray-400">{t('akurasi', 'Akurasi')}</span>
             </div>
             <div className="text-left space-y-1 text-sm text-gray-600 font-medium">
-              <div>• Total Soal: <span className="font-bold">{examQuestions.length}</span></div>
-              <div>• Benar: <span className="font-bold text-emerald-600">{(score / 100) * examQuestions.length} Soal</span></div>
-              <div>• Salah: <span className="font-bold text-red-500">{examQuestions.length - (score / 100) * examQuestions.length} Soal</span></div>
-              <div>• Sisa Waktu: <span className="font-bold">{formatTime(timeLeft)}</span></div>
+              <div>• {t('total_soal', 'Total Soal')}: <span className="font-bold">{examQuestions.length}</span></div>
+              <div>• {t('benar', 'Benar')}: <span className="font-bold text-emerald-600">{(score / 100) * examQuestions.length} {t('soal', 'Soal')}</span></div>
+              <div>• {t('salah', 'Salah')}: <span className="font-bold text-red-500">{examQuestions.length - (score / 100) * examQuestions.length} {t('soal', 'Soal')}</span></div>
+              <div>• {t('sisa_waktu', 'Sisa Waktu')}: <span className="font-bold">{formatTime(timeLeft)}</span></div>
             </div>
           </div>
 
@@ -187,13 +189,13 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
               onClick={() => setIsReviewMode(true)}
               className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-6 py-3 rounded-2xl transition text-sm flex items-center gap-1.5"
             >
-              <Eye className="w-5 h-5" /> Review Jawaban & Pembahasan
+              <Eye className="w-5 h-5" /> {t('review_pembahasan', 'Review Jawaban & Pembahasan')}
             </button>
             <button
               onClick={onBack}
               className="border border-gray-200 hover:bg-gray-50 text-gray-600 font-bold px-6 py-3 rounded-2xl transition text-sm"
             >
-              Kembali ke Beranda
+              {t('kembali_ke_beranda', 'Kembali ke Beranda')}
             </button>
           </div>
         </div>
@@ -202,7 +204,7 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
           {/* Main Tryout Test Section (Col Span 2) */}
           <div className="lg:col-span-2 space-y-6">
             <div className="glass-card rounded-2xl p-4 flex items-center justify-between">
-              <h3 className="font-bold text-sm text-gray-700">Simulasi Tryout Mandiri</h3>
+              <h3 className="font-bold text-sm text-gray-700">{t('tryout_mandiri_title', 'Simulasi Tryout Mandiri')}</h3>
               <div className="flex items-center gap-2 bg-red-50 text-brand-primary px-4 py-2 rounded-xl font-bold text-sm">
                 <Clock className="w-5 h-5 animate-pulse" />
                 <span>{formatTime(timeLeft)}</span>
@@ -211,11 +213,11 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
 
             {/* Question Card */}
             <div className="glass-card rounded-3xl p-8 space-y-6">
-              <div className="space-y-3">
+              <div className="space-y-3 font-sans">
                 <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
-                  Soal {currentIndex + 1}
+                  {t('soal_n', 'Soal ${n}').replace('${n}', currentIndex + 1)}
                 </span>
-                <h2 className="text-lg font-bold leading-relaxed text-gray-800">
+                <h2 className="text-lg font-bold leading-relaxed text-gray-800 font-sans">
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
@@ -288,16 +290,16 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
                 {!isSubmitted ? (
                   <button
                     onClick={handleSubmit}
-                    className="bg-brand-primary hover:bg-brand-hover text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm"
+                    className="bg-brand-primary hover:bg-brand-hover text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm font-sans"
                   >
-                    Kumpulkan Jawaban
+                    {t('kumpulkan_jawaban', 'Kumpulkan Jawaban')}
                   </button>
                 ) : (
                   <button
                     onClick={() => setIsReviewMode(false)}
-                    className="bg-gray-800 hover:bg-gray-900 text-white font-bold px-6 py-3 rounded-2xl transition text-sm"
+                    className="bg-gray-800 hover:bg-gray-900 text-white font-bold px-6 py-3 rounded-2xl transition text-sm font-sans"
                   >
-                    Kembali Ke Hasil
+                    {t('kembali_ke_hasil', 'Kembali Ke Hasil')}
                   </button>
                 )}
               </div>
@@ -311,21 +313,21 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
                     <BookOpen className="text-emerald-600 w-5 h-5" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold font-heading">Analisis Pembahasan</h3>
-                    <p className="text-xs text-gray-400">Pembahasan kunci jawaban no. {currentIndex + 1}</p>
+                    <h3 className="text-lg font-bold font-heading">{t('analisis_pembahasan', 'Analisis Pembahasan')}</h3>
+                    <p className="text-xs text-gray-400">{t('pembahasan_no', 'Pembahasan kunci jawaban no. ${n}').replace('${n}', currentIndex + 1)}</p>
                   </div>
                 </div>
 
                 {currentQuestion.concept && (
                   <div className="bg-emerald-50/50 rounded-2xl p-4 border border-emerald-100">
-                    <span className="text-xs font-bold text-emerald-700 uppercase tracking-wider block mb-1">Konsep Kunci</span>
+                    <span className="text-xs font-bold text-emerald-700 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
                     <p className="text-sm font-semibold text-gray-700 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} /></p>
                   </div>
                 )}
 
                 {/* Bongkar Pilihan */}
                 <div className="space-y-3">
-                  <span className="text-xs font-bold text-gray-400 uppercase tracking-wider block">Bongkar Semua Pilihan</span>
+                  <span className="text-xs font-bold text-gray-400 uppercase tracking-wider block">{t('bongkar_pilihan_simple', 'Bongkar Semua Pilihan')}</span>
                   <div className="grid grid-cols-1 gap-2">
                     {Object.entries(currentQuestion.analysis).map(([key, val]) => {
                       if (!val) return null;
@@ -338,7 +340,7 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
                           }`}
                         >
                           <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-700' : 'text-gray-500'}`}>
-                            Pilihan {key}:
+                            {t('pilihan', 'Pilihan')} {key}:
                           </span>
                           <InlineMarkdown text={val} />
                         </div>
@@ -354,8 +356,8 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
           <div className="space-y-6">
             <div className="glass-card rounded-3xl p-6 space-y-6">
               <div>
-                <h4 className="font-bold font-heading text-sm">Navigasi Soal</h4>
-                <p className="text-[10px] text-gray-400">Klik nomor untuk melompati soal secara instan</p>
+                <h4 className="font-bold font-heading text-sm">{t('navigasi_soal', 'Navigasi Soal')}</h4>
+                <p className="text-[10px] text-gray-400">{t('klik_nomor_navigasi', 'Klik nomor untuk melompati soal secara instan')}</p>
               </div>
 
               <div className="grid grid-cols-5 gap-2.5">
@@ -400,15 +402,15 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
               {/* Quick instructions */}
               <div className="bg-gray-50 rounded-2xl p-4 border border-gray-100 flex items-start gap-2.5 text-xs text-gray-500 leading-relaxed">
                 <AlertCircle className="w-4 h-4 text-brand-primary shrink-0 mt-0.5" />
-                <p>Ujian bersifat tertutup. Jawaban dan analisis pembahasan hanya akan dimunculkan setelah Anda menekan tombol kumpul.</p>
+                <p>{t('tryout_warning_desc', 'Ujian bersifat tertutup. Jawaban dan analisis pembahasan hanya akan dimunculkan setelah Anda menekan tombol kumpul.')}</p>
               </div>
 
               {isSubmitted && (
                 <button
                   onClick={onBack}
-                  className="w-full bg-gray-800 hover:bg-gray-900 text-white font-bold py-3.5 rounded-2xl transition text-xs flex items-center justify-center gap-1.5 shadow-md shadow-gray-800/15"
+                  className="w-full bg-gray-800 hover:bg-gray-900 text-white font-bold py-3.5 rounded-2xl transition text-xs flex items-center justify-center gap-1.5 shadow-md shadow-gray-800/15 font-sans"
                 >
-                  Selesai Ujian & Keluar
+                  {t('selesai_ujian_keluar', 'Selesai Ujian & Keluar')}
                 </button>
               )}
             </div>

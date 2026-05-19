@@ -32,8 +32,8 @@ export default function App() {
 
   const { manifest, loading: manifestLoading } = useManifest();
   const defaultSubBabId = manifest?.items?.find((i) => i.type === 'subbab')?.subBab || 'ipa-04b';
-  const effectiveSubBabId = selectedSubBab || defaultSubBabId;
-  const { data: questionsData, loading: dataLoading } = useSubBabData(effectiveSubBabId, manifest);
+  const tierPreference = settings?.tierPreference || 'campur';
+  const { data: questionsData, loading: dataLoading } = useSubBabData(effectiveSubBabId, manifest, tierPreference);
 
   const [stats, setStats] = usePersistedState('osn-stats', {
     xp: 0,

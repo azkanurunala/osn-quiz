@@ -5,10 +5,11 @@
     // <BookmarkButton subBabId="ipa-04b" qIndex={12} /> inside a soal card
 */
 
-import { useCallback, useMemo } from 'react';
+import { useCallback, useMemo, useEffect, useState } from 'react';
 import { Star, StarOff, Bookmark, Trash2 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { usePersistedState } from '../hooks/usePersistedState';
+import { pickFile } from '../hooks/useSubBabData';
 
 const STORAGE_KEY = 'osn-bookmarks';
 
@@ -119,16 +120,32 @@ function previewText(q, fallback) {
   return txt.length > 140 ? txt.slice(0, 137) + '…' : txt;
 }
 
-export function BookmarksPanel({ questionsData, onJump }) {
+export function BookmarksPanel({ manifest, onJump }) {
   const { entries, remove, clear, count } = useBookmarks();
+  const [questionsCache, setQuestionsCache] = useState({});
 
-  // questionsData can be either { [subBabId]: { questions: [...] } } or a single { questions: [...] }.
+  useEffect(() => {
+    if (!manifest || !manifest.items) return;
+
+    entries.forEach(({ subBabId }) => {
+      if (questionsCache[subBabId] !== undefined) return;
+
+      setQuestionsCache(prev => ({ ...prev, [subBabId]: null }));
+
+      const meta = pickFile(manifest, subBabId);
+      if (!meta) return;
+
+      fetch(`/data/${meta.file}`, { cache: 'force-cache' })
+        .then(r => r.json())
+        .then(data => {
+          setQuestionsCache(prev => ({ ...prev, [subBabId]: data }));
+        })
+        .catch(err => console.error(err));
+    });
+  }, [entries, manifest, questionsCache]);
+
   const resolveQ = (subBabId, qIndex) => {
-    if (!questionsData) return null;
-    if (Array.isArray(questionsData?.questions)) {
-      return questionsData.questions[qIndex] || null;
-    }
-    const bucket = questionsData?.[subBabId];
+    const bucket = questionsCache[subBabId];
     if (bucket && Array.isArray(bucket.questions)) return bucket.questions[qIndex] || null;
     return null;
   };
