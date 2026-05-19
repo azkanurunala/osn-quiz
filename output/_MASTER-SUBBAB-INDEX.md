@@ -879,7 +879,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03l-sudut-jenis-sedang-sulit.md`
 
 **MTK-03m · Jumlah Sudut Dalam Segitiga/Segiempat** (fokus Kab)
-- [ ] `osn-sd-mtk-03m-jumlah-sudut-campur.md`
+- [x] `osn-sd-mtk-03m-jumlah-sudut-campur.md`
 - [ ] `osn-sd-mtk-03m-jumlah-sudut-mudah.md`
 - [ ] `osn-sd-mtk-03m-jumlah-sudut-sedang.md`
 - [ ] `osn-sd-mtk-03m-jumlah-sudut-sulit.md`
@@ -889,7 +889,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-04 · Geometri Ruang (13 sub-bab)
 
 **MTK-04a · Sifat & Elemen Bangun Ruang (Rusuk, Sisi, Titik Sudut)** (fokus Kab)
-- [ ] `osn-sd-mtk-04a-elemen-bangun-ruang-campur.md`
+- [x] `osn-sd-mtk-04a-elemen-bangun-ruang-campur.md`
 - [ ] `osn-sd-mtk-04a-elemen-bangun-ruang-mudah.md`
 - [ ] `osn-sd-mtk-04a-elemen-bangun-ruang-sedang.md`
 - [ ] `osn-sd-mtk-04a-elemen-bangun-ruang-sulit.md`
@@ -897,7 +897,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04a-elemen-bangun-ruang-sedang-sulit.md`
 
 **MTK-04b · Volume Kubus** (fokus Kab)
-- [ ] `osn-sd-mtk-04b-volume-kubus-campur.md`
+- [x] `osn-sd-mtk-04b-volume-kubus-campur.md`
 - [ ] `osn-sd-mtk-04b-volume-kubus-mudah.md`
 - [ ] `osn-sd-mtk-04b-volume-kubus-sedang.md`
 - [ ] `osn-sd-mtk-04b-volume-kubus-sulit.md`
@@ -905,7 +905,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04b-volume-kubus-sedang-sulit.md`
 
 **MTK-04c · Volume Balok** (fokus Kab)
-- [ ] `osn-sd-mtk-04c-volume-balok-campur.md`
+- [x] `osn-sd-mtk-04c-volume-balok-campur.md`
 - [ ] `osn-sd-mtk-04c-volume-balok-mudah.md`
 - [ ] `osn-sd-mtk-04c-volume-balok-sedang.md`
 - [ ] `osn-sd-mtk-04c-volume-balok-sulit.md`
@@ -913,7 +913,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04c-volume-balok-sedang-sulit.md`
 
 **MTK-04d · Volume Prisma & Limas** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-04d-volume-prisma-limas-campur.md`
+- [x] `osn-sd-mtk-04d-volume-prisma-limas-campur.md`
 - [ ] `osn-sd-mtk-04d-volume-prisma-limas-mudah.md`
 - [ ] `osn-sd-mtk-04d-volume-prisma-limas-sedang.md`
 - [ ] `osn-sd-mtk-04d-volume-prisma-limas-sulit.md`
@@ -921,7 +921,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04d-volume-prisma-limas-sedang-sulit.md`
 
 **MTK-04e · Volume Tabung** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-04e-volume-tabung-campur.md`
+- [x] `osn-sd-mtk-04e-volume-tabung-campur.md`
 - [ ] `osn-sd-mtk-04e-volume-tabung-mudah.md`
 - [ ] `osn-sd-mtk-04e-volume-tabung-sedang.md`
 - [ ] `osn-sd-mtk-04e-volume-tabung-sulit.md`
@@ -929,7 +929,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04e-volume-tabung-sedang-sulit.md`
 
 **MTK-04f · Volume Kerucut & Bola** (fokus Prov)
-- [ ] `osn-sd-mtk-04f-volume-kerucut-bola-campur.md`
+- [x] `osn-sd-mtk-04f-volume-kerucut-bola-campur.md`
 - [ ] `osn-sd-mtk-04f-volume-kerucut-bola-mudah.md`
 - [ ] `osn-sd-mtk-04f-volume-kerucut-bola-sedang.md`
 - [ ] `osn-sd-mtk-04f-volume-kerucut-bola-sulit.md`
@@ -937,7 +937,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04f-volume-kerucut-bola-sedang-sulit.md`
 
 **MTK-04g · Luas Permukaan Kubus** (fokus Kab)
-- [ ] `osn-sd-mtk-04g-lp-kubus-campur.md`
+- [x] `osn-sd-mtk-04g-lp-kubus-campur.md`
 - [ ] `osn-sd-mtk-04g-lp-kubus-mudah.md`
 - [ ] `osn-sd-mtk-04g-lp-kubus-sedang.md`
 - [ ] `osn-sd-mtk-04g-lp-kubus-sulit.md`
@@ -945,7 +945,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04g-lp-kubus-sedang-sulit.md`
 
 **MTK-04h · Luas Permukaan Balok** (fokus Kab)
-- [ ] `osn-sd-mtk-04h-lp-balok-campur.md`
+- [x] `osn-sd-mtk-04h-lp-balok-campur.md`
 - [ ] `osn-sd-mtk-04h-lp-balok-mudah.md`
 - [ ] `osn-sd-mtk-04h-lp-balok-sedang.md`
 - [ ] `osn-sd-mtk-04h-lp-balok-sulit.md`
@@ -953,7 +953,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04h-lp-balok-sedang-sulit.md`
 
 **MTK-04i · Luas Permukaan Prisma & Limas** (fokus Prov)
-- [ ] `osn-sd-mtk-04i-lp-prisma-limas-campur.md`
+- [x] `osn-sd-mtk-04i-lp-prisma-limas-campur.md`
 - [ ] `osn-sd-mtk-04i-lp-prisma-limas-mudah.md`
 - [ ] `osn-sd-mtk-04i-lp-prisma-limas-sedang.md`
 - [ ] `osn-sd-mtk-04i-lp-prisma-limas-sulit.md`
@@ -961,7 +961,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04i-lp-prisma-limas-sedang-sulit.md`
 
 **MTK-04j · Luas Permukaan Tabung** (fokus Prov)
-- [ ] `osn-sd-mtk-04j-lp-tabung-campur.md`
+- [x] `osn-sd-mtk-04j-lp-tabung-campur.md`
 - [ ] `osn-sd-mtk-04j-lp-tabung-mudah.md`
 - [ ] `osn-sd-mtk-04j-lp-tabung-sedang.md`
 - [ ] `osn-sd-mtk-04j-lp-tabung-sulit.md`
@@ -969,7 +969,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04j-lp-tabung-sedang-sulit.md`
 
 **MTK-04k · Jaring-jaring Bangun Ruang** (fokus Kab)
-- [ ] `osn-sd-mtk-04k-jaring-jaring-campur.md`
+- [x] `osn-sd-mtk-04k-jaring-jaring-campur.md`
 - [ ] `osn-sd-mtk-04k-jaring-jaring-mudah.md`
 - [ ] `osn-sd-mtk-04k-jaring-jaring-sedang.md`
 - [ ] `osn-sd-mtk-04k-jaring-jaring-sulit.md`
@@ -977,7 +977,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04k-jaring-jaring-sedang-sulit.md`
 
 **MTK-04l · Bangun Ruang Gabungan** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-04l-ruang-gabungan-campur.md`
+- [x] `osn-sd-mtk-04l-ruang-gabungan-campur.md`
 - [ ] `osn-sd-mtk-04l-ruang-gabungan-mudah.md`
 - [ ] `osn-sd-mtk-04l-ruang-gabungan-sedang.md`
 - [ ] `osn-sd-mtk-04l-ruang-gabungan-sulit.md`
@@ -985,7 +985,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-04l-ruang-gabungan-sedang-sulit.md`
 
 **MTK-04m · Aplikasi (Kapasitas Wadah, Debit)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-04m-aplikasi-kapasitas-campur.md`
+- [x] `osn-sd-mtk-04m-aplikasi-kapasitas-campur.md`
 - [ ] `osn-sd-mtk-04m-aplikasi-kapasitas-mudah.md`
 - [ ] `osn-sd-mtk-04m-aplikasi-kapasitas-sedang.md`
 - [ ] `osn-sd-mtk-04m-aplikasi-kapasitas-sulit.md`
@@ -995,7 +995,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-05 · Pengukuran (12 sub-bab)
 
 **MTK-05a · Konversi Satuan Panjang (km–mm)** (fokus Kab)
-- [ ] `osn-sd-mtk-05a-konversi-panjang-campur.md`
+- [x] `osn-sd-mtk-05a-konversi-panjang-campur.md`
 - [ ] `osn-sd-mtk-05a-konversi-panjang-mudah.md`
 - [ ] `osn-sd-mtk-05a-konversi-panjang-sedang.md`
 - [ ] `osn-sd-mtk-05a-konversi-panjang-sulit.md`
@@ -1003,7 +1003,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05a-konversi-panjang-sedang-sulit.md`
 
 **MTK-05b · Konversi Satuan Berat (ton–mg)** (fokus Kab)
-- [ ] `osn-sd-mtk-05b-konversi-berat-campur.md`
+- [x] `osn-sd-mtk-05b-konversi-berat-campur.md`
 - [ ] `osn-sd-mtk-05b-konversi-berat-mudah.md`
 - [ ] `osn-sd-mtk-05b-konversi-berat-sedang.md`
 - [ ] `osn-sd-mtk-05b-konversi-berat-sulit.md`
@@ -1011,7 +1011,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05b-konversi-berat-sedang-sulit.md`
 
 **MTK-05c · Konversi Satuan Luas (km²–mm², ha, are)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-05c-konversi-luas-campur.md`
+- [x] `osn-sd-mtk-05c-konversi-luas-campur.md`
 - [ ] `osn-sd-mtk-05c-konversi-luas-mudah.md`
 - [ ] `osn-sd-mtk-05c-konversi-luas-sedang.md`
 - [ ] `osn-sd-mtk-05c-konversi-luas-sulit.md`
@@ -1019,7 +1019,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05c-konversi-luas-sedang-sulit.md`
 
 **MTK-05d · Konversi Satuan Volume (m³–cm³, kl–ml)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-05d-konversi-volume-campur.md`
+- [x] `osn-sd-mtk-05d-konversi-volume-campur.md`
 - [ ] `osn-sd-mtk-05d-konversi-volume-mudah.md`
 - [ ] `osn-sd-mtk-05d-konversi-volume-sedang.md`
 - [ ] `osn-sd-mtk-05d-konversi-volume-sulit.md`
@@ -1027,7 +1027,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05d-konversi-volume-sedang-sulit.md`
 
 **MTK-05e · Konversi Satuan Waktu (tahun–detik)** (fokus Kab)
-- [ ] `osn-sd-mtk-05e-konversi-waktu-campur.md`
+- [x] `osn-sd-mtk-05e-konversi-waktu-campur.md`
 - [ ] `osn-sd-mtk-05e-konversi-waktu-mudah.md`
 - [ ] `osn-sd-mtk-05e-konversi-waktu-sedang.md`
 - [ ] `osn-sd-mtk-05e-konversi-waktu-sulit.md`
@@ -1035,7 +1035,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-05e-konversi-waktu-sedang-sulit.md`
 
 **MTK-05f · Operasi Waktu (Jam Masuk–Pulang)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-05f-operasi-waktu-campur.md`
+- [x] `osn-sd-mtk-05f-operasi-waktu-campur.md`
 - [ ] `osn-sd-mtk-05f-operasi-waktu-mudah.md`
 - [ ] `osn-sd-mtk-05f-operasi-waktu-sedang.md`
 - [ ] `osn-sd-mtk-05f-operasi-waktu-sulit.md`

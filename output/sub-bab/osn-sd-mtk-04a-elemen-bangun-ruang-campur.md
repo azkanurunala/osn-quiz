@@ -440,16 +440,16 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 **25.** Banyak rusuk pada prisma segilima adalah ...
 - A. 10
 - B. 12
-- C. 15
-- D. 20
+- C. 20
+- D. 15
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 Rumus: rusuk prisma segi-n = 3n. Untuk n = 5: 3 × 5 = 15.
 - **A** — 10 = 2 × 5, hanya menghitung rusuk alas + tutup, lupa rusuk tegak.
 - **B** — 12 itu rusuk kubus/balok.
-- **C** — Benar. Prisma segilima: 5 rusuk alas + 5 rusuk tutup + 5 rusuk tegak = **15 rusuk**. ✅
-- **D** — 20 = 4 × 5, keliru hitung.
+- **C** — 20 = 4 × 5, keliru hitung.
+- **D** — Benar. Prisma segilima: 5 rusuk alas + 5 rusuk tutup + 5 rusuk tegak = **15 rusuk**. ✅
 
 ---
 
@@ -503,15 +503,15 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 **29.** Berapa banyak rusuk yang sejajar dengan rusuk AB pada balok ABCD.EFGH?
 - A. 1
 - B. 2
-- C. 3
-- D. 4
+- C. 4
+- D. 3
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 1 salah; sejajar AB ada lebih dari satu rusuk.
 - **B** — 2 lupa salah satu rusuk sejajar.
-- **C** — Benar. Sejajar AB ada **DC, EF, dan HG**, jumlahnya **3 rusuk**. ✅
-- **D** — 4 keliru; AB sendiri tidak dihitung sebagai sejajar dengan dirinya.
+- **C** — 4 keliru; AB sendiri tidak dihitung sebagai sejajar dengan dirinya.
+- **D** — Benar. Sejajar AB ada **DC, EF, dan HG**, jumlahnya **3 rusuk**. ✅
 
 ---
 
@@ -594,16 +594,16 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 
 **35.** Banyak diagonal pada satu sisi kubus berbentuk persegi adalah ...
 - A. 1
-- B. 2
+- B. 4
 - C. 3
-- D. 4
+- D. 2
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 1 keliru; persegi punya 2 diagonal.
-- **B** — Benar. Tiap persegi (sisi kubus) memiliki **2 diagonal** yang berpotongan di tengah. ✅
+- **B** — 4 itu jumlah sisi persegi, bukan diagonal.
 - **C** — 3 tidak ada hubungannya.
-- **D** — 4 itu jumlah sisi persegi, bukan diagonal.
+- **D** — Benar. Tiap persegi (sisi kubus) memiliki **2 diagonal** yang berpotongan di tengah. ✅
 
 ---
 
@@ -733,15 +733,15 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 **44.** Banyak rusuk pada bangun ruang berikut yang **paling banyak** adalah ...
 - A. Limas segiempat
 - B. Prisma segitiga
-- C. Kubus
-- D. Limas segitiga
+- C. Limas segitiga
+- D. Kubus
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — Limas segiempat: 8 rusuk.
 - **B** — Prisma segitiga: 9 rusuk.
-- **C** — Benar. **Kubus: 12 rusuk** — paling banyak. ✅
-- **D** — Limas segitiga: 6 rusuk.
+- **C** — Limas segitiga: 6 rusuk.
+- **D** — Benar. **Kubus: 12 rusuk** — paling banyak. ✅
 
 ---
 
@@ -763,15 +763,15 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 **46.** Pasangan sisi balok yang saling **berhadapan dan sejajar** ada sebanyak ...
 - A. 1 pasang
 - B. 2 pasang
-- C. 3 pasang
-- D. 6 pasang
+- C. 6 pasang
+- D. 3 pasang
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 1 pasang hanya alas–tutup.
 - **B** — 2 pasang melupakan satu pasang sisi tegak.
-- **C** — Benar. Balok punya **3 pasang sisi berhadapan**: alas–tutup, depan–belakang, kiri–kanan. ✅
-- **D** — 6 pasang artinya semua sisi sebagai pasangan dengan dirinya, tidak masuk akal.
+- **C** — 6 pasang artinya semua sisi sebagai pasangan dengan dirinya, tidak masuk akal.
+- **D** — Benar. Balok punya **3 pasang sisi berhadapan**: alas–tutup, depan–belakang, kiri–kanan. ✅
 
 ---
 
@@ -824,16 +824,16 @@ Total = 4(10) + 4(6) + 4(4) = 40 + 24 + 16 = 80 cm.
 
 **50.** Banyak sisi pada bola adalah ...
 - A. 0
-- B. 1
+- B. tak hingga
 - C. 2
-- D. tak hingga
+- D. 1
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 0 salah; bola tetap punya permukaan.
-- **B** — Benar. Bola memiliki **1 sisi** lengkung tertutup. ✅
+- **B** — Salah; sisi bola tetap satu kesatuan utuh, bukan tak hingga.
 - **C** — 2 salah; tidak ada pemisahan alas dan tutup.
-- **D** — Salah; sisi tetap satu kesatuan utuh.
+- **D** — Benar. Bola memiliki **1 sisi** lengkung tertutup. ✅
 
 ---
 
@@ -921,16 +921,16 @@ A di alas dan G di tutup yang berseberangan → diagonal ruang.
 
 **56.** Banyak bidang diagonal pada kubus adalah ...
 - A. 4
-- B. 6
+- B. 12
 - C. 8
-- D. 12
+- D. 6
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 4 itu diagonal ruang, bukan bidang diagonal.
-- **B** — Benar. Kubus memiliki **6 bidang diagonal** (semua berbentuk persegi panjang). ✅
+- **B** — 12 itu rusuk atau diagonal sisi kubus.
 - **C** — 8 itu titik sudut.
-- **D** — 12 itu rusuk atau diagonal sisi.
+- **D** — Benar. Kubus memiliki **6 bidang diagonal** (semua berbentuk persegi panjang). ✅
 
 ---
 
@@ -1001,31 +1001,31 @@ Total rusuk 12; rusuk 4 cm ada 4. Sisanya 12 − 4 = 8 rusuk (4 rusuk 8 cm + 4 r
 **61.** Pernyataan yang **benar** mengenai limas dan prisma adalah ...
 - A. Limas memiliki dua alas
 - B. Prisma memiliki satu puncak
-- C. Limas memiliki sisi tegak berbentuk segitiga
-- D. Prisma memiliki sisi tegak berbentuk segitiga
+- C. Prisma memiliki sisi tegak berbentuk segitiga
+- D. Limas memiliki sisi tegak berbentuk segitiga
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — Salah; limas hanya 1 alas, prisma yang 2.
 - **B** — Salah; puncak ciri **limas**, prisma tidak punya.
-- **C** — Benar. Sisi tegak **limas** selalu berbentuk **segitiga** karena bertemu di puncak. ✅
-- **D** — Salah; sisi tegak prisma tegak berupa persegi panjang.
+- **C** — Salah; sisi tegak prisma tegak berupa persegi panjang, bukan segitiga.
+- **D** — Benar. Sisi tegak **limas** selalu berbentuk **segitiga** karena bertemu di puncak. ✅
 
 ---
 
 **62.** Sebuah bangun memiliki F = 7, V = 7. Banyak rusuk (E) berdasarkan rumus Euler adalah ...
 - A. 10
-- B. 12
+- B. 16
 - C. 14
-- D. 16
+- D. 12
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 E = V + F − 2 = 7 + 7 − 2 = 12.
 - **A** — 10 salah aritmetik.
-- **B** — Benar. **12 rusuk** (cocok dengan limas segi-6: V=7, E=12, F=7). ✅
-- **C** — 14 = V + F.
-- **D** — 16 keliru penjumlahan.
+- **B** — 16 keliru penjumlahan.
+- **C** — 14 = V + F, lupa kurangi 2.
+- **D** — Benar. **12 rusuk** (cocok dengan limas segi-6: V=7, E=12, F=7). ✅
 
 ---
 
@@ -1157,17 +1157,17 @@ Limas segiempat: 5 sisi + 8 rusuk + 5 titik sudut = 18.
 
 **71.** Bangun ruang berikut yang merupakan **polihedron beraturan** (semua sisi dan titik sudut identik) adalah ...
 - A. Balok
-- B. Kubus
+- B. Limas segiempat
 - C. Prisma segitiga
-- D. Limas segiempat
+- D. Kubus
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 Polihedron beraturan (regular polyhedron / Platonic solid): kubus, tetrahedron, oktahedron, dodekahedron, ikosahedron.
 - **A** — Balok punya sisi berbeda ukuran.
-- **B** — Benar. **Kubus** = heksahedron beraturan; semua sisi & titik identik. ✅
+- **B** — Limas segiempat: alas ≠ sisi tegak.
 - **C** — Prisma segitiga: sisi segitiga ≠ persegi panjang.
-- **D** — Limas segiempat: alas ≠ sisi tegak.
+- **D** — Benar. **Kubus** = heksahedron beraturan; semua sisi & titik identik. ✅
 
 ---
 
@@ -1236,31 +1236,31 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 **76.** Sebuah jaring-jaring kubus terdiri atas ... persegi.
 - A. 4
 - B. 5
-- C. 6
-- D. 8
+- C. 8
+- D. 6
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 4 keliru, kubus 6 sisi.
 - **B** — 5 lupa satu sisi.
-- **C** — Benar. Jaring-jaring kubus terdiri dari **6 persegi** sama besar. ✅
-- **D** — 8 keliru, mungkin dengan tutup ekstra.
+- **C** — 8 keliru, mungkin dengan tutup ekstra.
+- **D** — Benar. Jaring-jaring kubus terdiri dari **6 persegi** sama besar. ✅
 
 ---
 
 **77.** Sebuah limas segitiga memiliki alas segitiga dengan panjang 3 rusuk. Selain itu ada 3 rusuk tegak. Total rusuk = 6. Jika dipilih satu titik sudut puncak, banyak rusuk yang bertemu di titik itu adalah ...
 - A. 1
 - B. 2
-- C. 3
-- D. 4
+- C. 4
+- D. 3
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 Di puncak limas segitiga bertemu 3 rusuk tegak (T-A, T-B, T-C).
 - **A** — 1 keliru.
 - **B** — 2 lupa satu rusuk.
-- **C** — Benar. **3 rusuk** bertemu di puncak. ✅
-- **D** — 4 keliru, hanya 3 rusuk tegak.
+- **C** — 4 keliru, hanya 3 rusuk tegak.
+- **D** — Benar. **3 rusuk** bertemu di puncak. ✅
 
 ---
 
@@ -1282,17 +1282,17 @@ E = V + F − 2 = 20 + 12 − 2 = 30.
 
 **79.** Pada balok ABCD.EFGH, garis FH adalah ...
 - A. Rusuk
-- B. Diagonal sisi
+- B. Sumbu simetri
 - C. Diagonal ruang
-- D. Sumbu simetri
+- D. Diagonal sisi
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 F dan H sama-sama di sisi tutup EFGH, tidak bersebelahan → diagonal sisi tutup.
 - **A** — FH bukan rusuk (rusuk tutup: EF, FG, GH, HE).
-- **B** — Benar. **Diagonal sisi** pada bidang tutup EFGH. ✅
+- **B** — Bukan sumbu simetri tertentu.
 - **C** — Diagonal ruang menembus ke alas (mis. AG).
-- **D** — Bukan sumbu simetri tertentu.
+- **D** — Benar. **Diagonal sisi** pada bidang tutup EFGH. ✅
 
 ---
 
@@ -1540,17 +1540,17 @@ Prisma: F = n + 2, V = 2n, E = 3n. Total = (n+2) + 2n + 3n = 6n + 2 = 50 → 6n 
 
 **95.** Pada balok ABCD.EFGH (bukan kubus), dengan AB = AD ≠ AE, banyak segitiga sama kaki yang terbentuk dari 3 rusuk yang bertemu di titik sudut A (yaitu AB, AD, AE) — yakni segitiga ABD, ABE, ADE — adalah ...
 - A. 0
-- B. 1
+- B. 3
 - C. 2
-- D. 3
+- D. 1
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 Jika AB = AD ≠ AE, maka segitiga ABD adalah sama kaki (dengan diagonal sisi sebagai alas). Segitiga ABE dan ADE adalah segitiga siku-siku tidak sama kaki.
 - **A** — Setidaknya ada satu segitiga sama kaki.
-- **B** — Benar. **1 segitiga** (ABD) sama kaki, karena AB = AD. ✅
-- **C** — Hanya satu pasangan rusuk yang sama.
-- **D** — Terlalu banyak.
+- **B** — Terlalu banyak.
+- **C** — Hanya satu pasangan rusuk yang sama, hanya 1 segitiga sama kaki.
+- **D** — Benar. **1 segitiga** (ABD) sama kaki, karena AB = AD. ✅
 
 ---
 

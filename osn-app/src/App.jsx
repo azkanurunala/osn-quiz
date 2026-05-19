@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import { Compass, BarChart3, Clock, Trophy, Star, Flame } from 'lucide-react';
+import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders } from 'lucide-react';
 import Dashboard from './components/Dashboard';
 import PracticeArea from './components/PracticeArea';
 import TryoutArea from './components/TryoutArea';
@@ -8,6 +8,7 @@ import OnboardingTour from './components/OnboardingTour';
 import ShortcutHelp from './components/ShortcutHelp';
 import SplashScreen from './components/SplashScreen';
 import PomodoroTimer from './components/PomodoroTimer';
+import SettingsPanel, { DEFAULT_SETTINGS } from './components/SettingsPanel';
 import { usePersistedState } from './hooks/usePersistedState';
 import { tickStreak } from './utils/streak';
 import { fireLevelUp } from './utils/milestones';
@@ -19,6 +20,15 @@ export default function App() {
   const [currentTab, setCurrentTab] = useState('dashboard');
   const [selectedSubBab, setSelectedSubBab] = useState(null);
   const [isCleanMode, setIsCleanMode] = useState(false);
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const [forceTourOpen, setForceTourOpen] = useState(false);
+
+  const [settings, setSettings] = usePersistedState('osn-settings', DEFAULT_SETTINGS);
+
+  const handleShowOnboarding = useCallback(() => {
+    try { localStorage.removeItem('osn-onboarding-done'); } catch {}
+    setForceTourOpen(true);
+  }, []);
 
   const { manifest, loading: manifestLoading } = useManifest();
   const defaultSubBabId = manifest?.items?.find((i) => i.type === 'subbab')?.subBab || 'ipa-04b';
@@ -81,9 +91,17 @@ export default function App() {
     <div className="min-h-screen bg-mesh flex flex-col font-sans">
 
       <SplashScreen durationMs={1800} />
-      {!isCleanMode && <OnboardingTour />}
+      {!isCleanMode && <OnboardingTour forceOpen={forceTourOpen} onClose={() => setForceTourOpen(false)} />}
       {!isCleanMode && <ShortcutHelp />}
       {!isCleanMode && <PomodoroTimer />}
+      <SettingsPanel
+        open={settingsOpen}
+        onClose={() => setSettingsOpen(false)}
+        settings={settings}
+        setSettings={setSettings}
+        onShowOnboarding={handleShowOnboarding}
+        onResetProgress={handleResetProgress}
+      />
 
       {!isCleanMode && (
         <header className="sticky top-0 z-40 w-full bg-white/70 backdrop-blur-md border-b border-gray-100 px-6 py-4">
@@ -126,6 +144,14 @@ export default function App() {
             </nav>
 
             <div className="flex items-center gap-3">
+              <button
+                onClick={() => setSettingsOpen(true)}
+                className="p-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-500 hover:text-brand-primary transition"
+                aria-label="Pengaturan"
+                title="Pengaturan"
+              >
+                <Sliders className="w-4 h-4" />
+              </button>
               <LanguageToggle />
               <div className="flex items-center gap-1 bg-orange-100 text-orange-600 px-3 py-1.5 rounded-xl font-extrabold text-xs">
                 <Flame className="w-4 h-4 fill-orange-500 text-orange-500" />
@@ -166,6 +192,7 @@ export default function App() {
               onAddXp={handleAddXp}
               isCleanMode={isCleanMode}
               setIsCleanMode={setIsCleanMode}
+              settings={settings}
             />
           )
         )}

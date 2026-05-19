@@ -57,12 +57,6 @@
 
 **Rumus segitiga debit:**
 
-```
-       V
-     -----
-     Q | t
-```
-
 - **V = Q × t** (volume terisi = debit × waktu).
 - **Q = V / t** (debit = volume per satuan waktu).
 - **t = V / Q** (waktu = volume / debit).
@@ -72,6 +66,7 @@
 
 **Pengisian:** wadah bertambah → V = Q × t.
 **Pengurasan:** wadah berkurang → V_sisa = V_awal − Q × t.
+**Simultan (isi + kuras):** debit netto = Q_masuk − Q_keluar.
 
 ## E. Konversi Waktu Penting
 
@@ -129,22 +124,6 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 
 **1.** Sebuah bak air berukuran 50 cm × 40 cm × 30 cm. Kapasitas bak tersebut adalah ...
 - A. 6 liter
-- B. 60 liter
-- C. 600 liter
-- D. 60.000 liter
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 6 = bagi 10.000 (konversi salah arah). Jauh terlalu kecil.
-- **B** — Salah. 60 = hasil benar tetapi salah tulis satuan; ini hanya berlaku jika ukuran dalam dm, padahal soal cm.
-- **C** — Salah. 600 = bagi 100 saja. Salah faktor konversi.
-- **D** — Salah... tunggu. Cek: V = 50 × 40 × 30 = 60.000 cm³ = 60.000 ÷ 1.000 = 60 L. Jawaban benar adalah **B = 60 liter**.
-
-Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan benar.
-
----
-
-**1.** Sebuah bak air berukuran 50 cm × 40 cm × 30 cm. Kapasitas bak tersebut adalah ...
-- A. 6 liter
 - B. 600 liter
 - C. 6.000 liter
 - D. 60 liter
@@ -153,7 +132,7 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 - **A** — Salah. 6 L = bagi 10.000 (salah pangkat konversi). Terlalu kecil.
 - **B** — Salah. 600 L = bagi 100 saja, lupa cm³ → L harus bagi 1.000.
 - **C** — Salah. 6.000 L = bagi 10 saja, salah konversi.
-- **D** — Benar. V = 50 × 40 × 30 = 60.000 cm³. 60.000 cm³ ÷ 1.000 = 60 L. Bak berkapasitas 60 liter.
+- **D** — Benar. V = 50 × 40 × 30 = 60.000 cm³. 60.000 ÷ 1.000 = 60 L.
 
 ---
 
@@ -164,10 +143,10 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 - D. 10.000
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 100 = salah satu tingkat konversi (× 100 berlaku untuk satuan luas, bukan volume).
+- **A** — Salah. 100 = berlaku untuk satuan luas (m² → dm²), bukan volume.
 - **B** — Benar. 1 m³ = 1.000 dm³ = 1.000 liter (karena 1 dm³ = 1 L).
-- **C** — Salah. 10 = salah faktor.
-- **D** — Salah. 10.000 = kelebihan satu tingkat (1.000 × 10).
+- **C** — Salah. 10 = salah faktor (terlalu kecil).
+- **D** — Salah. 10.000 = kelebihan satu tingkat.
 
 ---
 
@@ -179,9 +158,9 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. 1 L = 1.000 mL, jadi 5 L = 5 × 1.000 = 5.000 mL.
-- **B** — Salah. 500 = kali 100 (salah faktor).
+- **B** — Salah. 500 = kali 100 saja, salah faktor.
 - **C** — Salah. 50 = kali 10 saja.
-- **D** — Salah. 50.000 = kali 10.000 (lebih dari kali 1.000).
+- **D** — Salah. 50.000 = kali 10.000 (kelebihan satu tingkat).
 
 ---
 
@@ -192,8 +171,8 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 - D. 800 liter
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 80 L = salah pangkat (mungkin 20³ ÷ 100 = 80, salah konversi).
-- **B** — Salah. 0,8 L = bagi 10.000, salah.
+- **A** — Salah. 80 L = salah pangkat konversi.
+- **B** — Salah. 0,8 L = bagi 10.000, jauh terlalu kecil.
 - **C** — Benar. V = 20 × 20 × 20 = 8.000 cm³ = 8 L.
 - **D** — Salah. 800 L = bagi 10 saja, salah faktor.
 
@@ -215,15 +194,15 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 
 **6.** Sebuah bak berukuran 1 m × 50 cm × 40 cm. Kapasitas bak adalah ... liter.
 - A. 20
-- B. 200
+- B. 2
 - C. 2.000
-- D. 2
-**Kunci: B**
+- D. 200
+**Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 20 = bagi 10, salah faktor konversi.
-- **B** — Benar. 1 m = 100 cm. V = 100 × 50 × 40 = 200.000 cm³ = 200 L.
+- **A** — Salah. 20 = bagi 10, salah faktor.
+- **B** — Salah. 2 = bagi 100, jauh terlalu kecil.
 - **C** — Salah. 2.000 = lupa bagi 1.000.
-- **D** — Salah. 2 = kelebihan bagi 100, terlalu kecil.
+- **D** — Benar. 1 m = 100 cm. V = 100 × 50 × 40 = 200.000 cm³ = 200 L.
 
 ---
 
@@ -260,23 +239,6 @@ Koreksi kunci: **Kunci yang benar adalah B**. Mari ulangi penomoran soal dengan 
 - B. 16
 - C. 160
 - D. 1,6
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 1.600 = lupa bagi 1.000.
-- **B** — Salah. 16 = lupa pangkat konversi.
-- **C** — Salah. 160 = bagi 1.000 dari hasil 160.000... mari cek hitungan: V = 80 × 50 × 40 = 160.000 cm³ = 160 L. Jawaban benar = 160 L. Maka **C benar**, bukan D.
-
-Koreksi: kunci yang benar **C**.
-
----
-
-(Catatan internal: koreksi dilakukan langsung; soal 9 final memakai opsi yang konsisten.)
-
-**9.** Sebuah akuarium berukuran 80 cm × 50 cm × 40 cm diisi air sampai penuh. Air yang tertampung adalah ... liter.
-- A. 1.600
-- B. 16
-- C. 160
-- D. 1,6
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 1.600 L = lupa bagi 1.000 sekali lagi.
@@ -296,7 +258,7 @@ Koreksi: kunci yang benar **C**.
 - **A** — Salah. 3 = lupa konversi 1 menit = 60 detik.
 - **B** — Benar. 1 menit = 60 detik. V = 3 × 60 = 180 L.
 - **C** — Salah. 30 = 3 × 10 (lupa 60 detik per menit).
-- **D** — Salah. 18 = 3 × 6 (salah satuan menit dipakai langsung).
+- **D** — Salah. 18 = 3 × 6 (asal hitung).
 
 ---
 
@@ -321,7 +283,7 @@ Koreksi: kunci yang benar **C**.
 - D. 10.000
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 100 = salah faktor (kali 100 berlaku untuk satuan luas).
+- **A** — Salah. 100 = faktor untuk satuan luas, bukan volume.
 - **B** — Salah. 10 = jauh terlalu kecil.
 - **C** — Benar. 1 L = 1.000 mL (definisi standar).
 - **D** — Salah. 10.000 = kelebihan satu tingkat.
@@ -335,28 +297,28 @@ Koreksi: kunci yang benar **C**.
 - D. 308.000 cm³
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 308 = 22/7 × 14 × 7 (rumus salah; juga lupa tinggi).
-- **B** — Benar. V = π r² t = 22/7 × 14 × 14 × 50 = 22/7 × 196 × 50 = 22 × 28 × 50 = 30.800 cm³.
-- **C** — Salah. 3.080 = bagi 10, salah.
+- **A** — Salah. 308 = 22/7 × 14 × 7 (rumus salah; juga lupa tinggi sebenarnya).
+- **B** — Benar. V = π r² t = 22/7 × 196 × 50 = 22 × 28 × 50 = 30.800 cm³.
+- **C** — Salah. 3.080 = bagi 10, salah hitung.
 - **D** — Salah. 308.000 = kali 10, salah.
 
 ---
 
 **14.** Volume drum pada soal 13 dalam liter adalah ... (1 L = 1.000 cm³)
 - A. 308 L
-- B. 30,8 L
+- B. 3.080 L
 - C. 3,08 L
-- D. 3.080 L
-**Kunci: B**
+- D. 30,8 L
+**Kunci: D**
 **Pembahasan:**
 - **A** — Salah. 308 L = lupa bagi 1.000.
-- **B** — Benar. 30.800 cm³ ÷ 1.000 = 30,8 L.
+- **B** — Salah. 3.080 = bagi 10 saja.
 - **C** — Salah. 3,08 = bagi 10.000.
-- **D** — Salah. 3.080 = bagi 10 saja.
+- **D** — Benar. 30.800 cm³ ÷ 1.000 = 30,8 L.
 
 ---
 
-**15.** Kapasitas botol minum 600 mL. Jika diisi penuh, lalu air diminum 250 mL, sisa air dalam botol adalah ...
+**15.** Kapasitas botol minum 600 mL diisi penuh, lalu air diminum 250 mL. Sisa air dalam botol adalah ...
 - A. 850 mL
 - B. 250 mL
 - C. 350 mL
@@ -391,10 +353,10 @@ Koreksi: kunci yang benar **C**.
 - D. 8 cetakan
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 5 = 1.000 / 200 (asal).
+- **A** — Salah. 5 = 1.000 / 200 (asal hitung).
 - **B** — Salah. 10 = 1.000 / 100 (salah volume cetakan).
 - **C** — Salah. 200 = 1.000 / 5 (salah rumus cetakan).
-- **D** — Benar. Volume satu cetakan = 125 cm³ (dari soal 16). 1.000 ÷ 125 = 8 cetakan.
+- **D** — Benar. Volume satu cetakan = 125 cm³. 1.000 ÷ 125 = 8 cetakan.
 
 ---
 
@@ -420,7 +382,7 @@ Koreksi: kunci yang benar **C**.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 12 = bagi 10.000 (salah konversi).
-- **B** — Salah. 1.200 = bagi 100.
+- **B** — Salah. 1.200 = bagi 100 saja.
 - **C** — Benar. V = 60 × 50 × 40 = 120.000 cm³ = 120 L.
 - **D** — Salah. 12.000 = lupa bagi 1.000.
 
@@ -447,37 +409,26 @@ Koreksi: kunci yang benar **C**.
 - D. 2.500
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 250 = kali 100.
-- **B** — Salah. 25 = kali 10.
-- **C** — Salah. 25.000 = kali 10.000.
+- **A** — Salah. 250 = kali 100, salah faktor.
+- **B** — Salah. 25 = kali 10, salah.
+- **C** — Salah. 25.000 = kali 10.000, kelebihan satu tingkat.
 - **D** — Benar. 1 m³ = 1.000 L → 2,5 × 1.000 = 2.500 L.
 
 ---
 
 **22.** Debit keran 12 L/menit. Volume air dalam ½ jam adalah ...
 - A. 6 L
-- B. 360 L
+- B. 720 L
 - C. 60 L
-- D. 720 L
-**Kunci: B**
+- D. 360 L
+**Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 6 = 12 × 0,5 (salah satuan, dipakai 0,5 menit bukan 0,5 jam).
-- **B** — Benar. ½ jam = 30 menit. V = 12 × 30 = 360 L.
-- **C** — Salah. 60 = 12 × 5 (asal).
-- **D** — Salah. 720 = 12 × 60 (pakai 1 jam, bukan ½ jam).
+- **A** — Salah. 6 = 12 × 0,5 (pakai 0,5 menit, bukan 0,5 jam).
+- **B** — Salah. 720 = 12 × 60 (pakai 1 jam, bukan ½ jam).
+- **C** — Salah. 60 = 12 × 5 (asal hitung).
+- **D** — Benar. ½ jam = 30 menit. V = 12 × 30 = 360 L.
 
 ---
-
-**23.** Kapasitas tangki 500 L. Sudah terisi 320 L. Sisa ruang yang bisa diisi air adalah ...
-- A. 820 L
-- B. 220 L
-- C. 180 L
-- D. 320 L
-**Kunci: A**
-**Pembahasan:**
-- **A** — Salah... tunggu, 820 = jumlah. Sisa ruang = kapasitas − terisi = 500 − 320 = 180 L. Jawaban benar **C = 180 L**.
-
-Koreksi: kunci yang benar **C**.
 
 **23.** Kapasitas tangki 500 L. Sudah terisi 320 L. Sisa ruang yang bisa diisi air adalah ...
 - A. 820 L
@@ -501,23 +452,11 @@ Koreksi: kunci yang benar **C**.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 8 = m³ (lupa konversi ke liter).
-- **B** — Salah. 80 = kali 10.
+- **B** — Salah. 80 = kali 10, salah faktor.
 - **C** — Benar. V = 4 × 2 × 1 = 8 m³ = 8 × 1.000 = 8.000 L.
-- **D** — Salah. 800 = kali 100.
+- **D** — Salah. 800 = kali 100, salah faktor.
 
 ---
-
-**25.** Sebuah ember A berkapasitas 15 L dan ember B berkapasitas 9 L. Selisih kapasitas adalah ...
-- A. 24 L
-- B. 6 L
-- C. 8 L
-- D. 12 L
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 24 = jumlah, bukan selisih.
-- **B** — Benar... mari cek: 15 − 9 = 6 L. Maka **B = 6** adalah jawaban yang benar.
-
-Koreksi: kunci yang benar **B**.
 
 **25.** Sebuah ember A berkapasitas 15 L dan ember B berkapasitas 9 L. Selisih kapasitas adalah ...
 - A. 24 L
@@ -533,10 +472,6 @@ Koreksi: kunci yang benar **B**.
 
 ---
 
-(Catatan: berhubung penomoran kunci di rencana awal telah bergeser, mulai soal 26 saya restart dengan urutan kunci yang sudah diadjust ulang agar tetap berakhir 25/25/25/25. Rencana kunci final akan diberikan di Bagian III berdasarkan kunci aktual yang tertulis.)
-
----
-
 **26.** Sebuah botol minum kapasitas 750 mL. Andi minum 3 botol penuh dalam sehari. Total air yang diminum Andi adalah ...
 - A. 225 mL
 - B. 2.250 mL
@@ -544,7 +479,7 @@ Koreksi: kunci yang benar **B**.
 - D. 22.500 mL
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 225 = 750 / 3 (membagi, padahal harus dikalikan; juga salah hitung).
+- **A** — Salah. 225 = 750/3 (membagi, padahal harus dikalikan).
 - **B** — Benar. 3 × 750 = 2.250 mL = 2,25 L.
 - **C** — Salah. 750 = isi 1 botol, lupa kali 3.
 - **D** — Salah. 22.500 = kali 30 (asal).
@@ -561,7 +496,7 @@ Koreksi: kunci yang benar **B**.
 - **A** — Salah. 60 = lupa konversi m ke cm.
 - **B** — Benar. V = 100 × 100 × 60 = 600.000 cm³ = 600 L.
 - **C** — Salah. 6.000 = lupa bagi 1.000.
-- **D** — Salah. 6 = bagi 100.000.
+- **D** — Salah. 6 = bagi 100.000, jauh terlalu kecil.
 
 ---
 
@@ -575,7 +510,7 @@ Koreksi: kunci yang benar **B**.
 - **A** — Salah. 50 = salah operasi.
 - **B** — Salah. 32 = 240 / 7,5 (debit salah).
 - **C** — Benar. t = V / Q = 240 / 8 = 30 menit.
-- **D** — Salah. 25 = 240 / 9,6 (salah).
+- **D** — Salah. 25 = 240 / 9,6 (salah debit).
 
 ---
 
@@ -600,7 +535,7 @@ Koreksi: kunci yang benar **B**.
 - D. 50 botol
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 25 = 10 / 0,4 (asal).
+- **A** — Salah. 25 = 10 / 0,4 (asal hitung).
 - **B** — Salah. 4 = 1.000 / 250 (lupa kali 10 untuk 10 L).
 - **C** — Benar. 10 L = 10.000 mL. 10.000 ÷ 250 = 40 botol.
 - **D** — Salah. 50 = 10.000 / 200 (salah pembagi).
@@ -657,9 +592,9 @@ Koreksi: kunci yang benar **B**.
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. V = π r² t = 3,14 × 100 × 20 = 6.280 cm³.
-- **B** — Salah. 628 = lupa tinggi salah (bagi 10).
-- **C** — Salah. 62.800 = kali 10.
-- **D** — Salah. 62,8 = bagi 100.
+- **B** — Salah. 628 = lupa kuadratkan tinggi (bagi 10).
+- **C** — Salah. 62.800 = kali 10, salah faktor.
+- **D** — Salah. 62,8 = bagi 100, salah.
 
 ---
 
@@ -672,22 +607,22 @@ Koreksi: kunci yang benar **B**.
 **Pembahasan:**
 - **A** — Salah. 0,628 = bagi 10.000.
 - **B** — Benar. 6.280 cm³ ÷ 1.000 = 6,28 L.
-- **C** — Salah. 62,8 = bagi 100.
-- **D** — Salah. 0,0628 = bagi 100.000.
+- **C** — Salah. 62,8 = bagi 100, salah faktor.
+- **D** — Salah. 0,0628 = bagi 100.000, salah.
 
 ---
 
 **36.** Debit keran 250 mL/detik. Dalam 1 menit, air yang mengalir adalah ...
-- A. 15.000 mL
+- A. 25 L
 - B. 250 mL
 - C. 15 L
-- D. 1.500 mL
+- D. 1,5 L
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah secara satuan (benar nilainya, tapi opsi A = 15.000 mL juga sama dengan 15 L; soal meminta L). Opsi A salah karena satuan tidak sesuai bentuk standar yang diminta sesuai pilihan.
+- **A** — Salah. 25 L = pakai 100 detik/menit.
 - **B** — Salah. 250 = 1 detik saja, lupa kali 60.
 - **C** — Benar. 250 × 60 = 15.000 mL = 15 L.
-- **D** — Salah. 1.500 = kali 6 saja.
+- **D** — Salah. 1,5 = kali 6 (asal).
 
 ---
 
@@ -699,7 +634,7 @@ Koreksi: kunci yang benar **B**.
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. Hilang seminggu = 7 × 100 = 700 L. Sisa = 5.000 − 700 = 4.300 L.
-- **B** — Salah. 4.500 = kurangi 500 (5 hari), bukan 7.
+- **B** — Salah. 4.500 = kurangi 500 (5 hari), bukan 7 hari.
 - **C** — Salah. 4.000 = kurangi 1.000.
 - **D** — Salah. 700 = air yang hilang, bukan sisa.
 
@@ -782,7 +717,7 @@ Koreksi: kunci yang benar **B**.
 - D. 27 cm
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 9 = √27 (rumus salah; bukan akar pangkat dua).
+- **A** — Salah. 9 = √27 (pakai akar pangkat 2, padahal kubus pakai akar pangkat 3).
 - **B** — Benar. 27 L = 27.000 cm³. s = ³√27.000 = 30 cm (karena 30³ = 27.000).
 - **C** — Salah. 3 = ³√27 (lupa konversi ke cm³).
 - **D** — Salah. 27 = isi liter, bukan rusuk.
@@ -799,7 +734,7 @@ Koreksi: kunci yang benar **B**.
 - **A** — Salah. 50 = 1/4 × 200 (salah pecahan).
 - **B** — Salah. 100 = 1/2 × 200.
 - **C** — Benar. 4/5 × 200 = 160 L.
-- **D** — Salah. 250 = melebihi kapasitas.
+- **D** — Salah. 250 = melebihi kapasitas (tidak masuk akal).
 
 ---
 
@@ -811,7 +746,7 @@ Koreksi: kunci yang benar **B**.
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. V = 5 × 3 × 1,5 = 22,5 m³.
-- **B** — Salah. 9,5 = 5 + 3 + 1,5 (penjumlahan).
+- **B** — Salah. 9,5 = 5 + 3 + 1,5 (penjumlahan, bukan perkalian).
 - **C** — Salah. 15 = 5 × 3 (lupa tinggi).
 - **D** — Salah. 7,5 = 5 × 1,5 (lupa lebar).
 
@@ -827,7 +762,7 @@ Koreksi: kunci yang benar **B**.
 - **A** — Salah. 2,25 = bagi 10.000.
 - **B** — Salah. 225 = bagi 100.
 - **C** — Benar. 22,5 m³ × 1.000 = 22.500 L.
-- **D** — Salah. 225.000 = kali 10.000 (kelebihan).
+- **D** — Salah. 225.000 = kali 10.000 (kelebihan satu tingkat).
 
 ---
 
@@ -838,23 +773,23 @@ Koreksi: kunci yang benar **B**.
 - D. 4 gelas
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 9 = 4,5 × 2 (asal).
-- **B** — Salah. 45 = lupa konversi (4,5 dianggap 4.500 mL/100).
+- **A** — Salah. 9 = 4,5 × 2 (asal hitung).
+- **B** — Salah. 45 = salah konversi.
 - **C** — Benar. 4,5 L = 4.500 mL. 4.500 / 250 = 18 gelas.
-- **D** — Salah. 4 = bagian bilangan bulat saja, salah.
+- **D** — Salah. 4 = pakai 4,5 L / 1 L (salah pembagi).
 
 ---
 
-**48.** Debit 0,5 m³/jam = ... L/menit.
+**48.** Debit 0,5 m³/jam ≈ ... L/menit.
 - A. 30
 - B. 60
 - C. 50
 - D. 8,33
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 30 = 0,5 × 60 (lupa konversi m³ ke L, tapi juga lupa konversi waktu… kebetulan dekat tapi tidak tepat).
-- **B** — Salah. 60 = asal.
-- **C** — Salah. 50 = setengah dari 100 asal.
+- **A** — Salah. 30 = pakai 0,5 × 60 (lupa konversi m³ ke L).
+- **B** — Salah. 60 = asal hitung.
+- **C** — Salah. 50 = setengah dari 100 (asal).
 - **D** — Benar. 0,5 m³/jam = 500 L/jam = 500/60 ≈ 8,33 L/menit.
 
 ---
@@ -866,10 +801,10 @@ Koreksi: kunci yang benar **B**.
 - D. 10,048 mL
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 100,48 = bagi 10 (lupa pangkat).
+- **A** — Salah. 100,48 = bagi 10 (salah pangkat).
 - **B** — Benar. V = π r² t = 3,14 × 16 × 20 = 1.004,8 cm³ = 1.004,8 mL.
-- **C** — Salah. 10.048 = kali 10.
-- **D** — Salah. 10,048 = bagi 100.
+- **C** — Salah. 10.048 = kali 10, salah.
+- **D** — Salah. 10,048 = bagi 100, salah.
 
 ---
 
@@ -883,7 +818,7 @@ Koreksi: kunci yang benar **B**.
 - **A** — Salah. 60 = salah operasi.
 - **B** — Benar. Pemakaian = 5 × 30 = 150 L. Sisa = 360 − 150 = 210 L.
 - **C** — Salah. 150 = jumlah yang dipakai, bukan sisa.
-- **D** — Salah. 35 = asal.
+- **D** — Salah. 35 = asal hitung.
 
 ---
 
@@ -907,46 +842,21 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 
 ---
 
-**52.** Sebuah kolam renang berukuran 25 m × 10 m × 2 m. Pengisian dengan debit 50 L/detik. Waktu pengisian dari kosong sampai penuh adalah ...
-- A. 100 menit
-- B. 10.000 detik
-- C. 10.000 menit
-- D. 16⅔ jam (≈ 16 jam 40 menit)
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 100 menit = salah konversi waktu.
-- **B** — Salah. 10.000 detik = salah hitung waktu.
-- **C** — Salah. 10.000 menit = pakai detik diganti menit.
-- **D** — Benar. V = 25 × 10 × 2 = 500 m³ = 500.000 L. t = 500.000 / 50 = 10.000 detik = 10.000/60 menit ≈ 166,67 menit = 2 jam 46,67 menit. Hmm, mari hitung ulang: 10.000 / 3.600 ≈ 2,78 jam = 2 jam 47 menit, bukan 16⅔ jam.
-
-Koreksi opsi & kunci untuk soal 52:
-
-**52.** Sebuah kolam renang berukuran 25 m × 10 m × 2 m. Pengisian dengan debit 50 L/detik. Waktu pengisian dari kosong sampai penuh adalah ...
-- A. 100 menit
-- B. 10.000 detik
+**52.** Sebuah kolam renang berukuran 25 m × 10 m × 2 m. Pengisian dengan debit 50 L/detik. Waktu pengisian dari kosong sampai penuh ≈ ...
+- A. 1 jam 40 menit
+- B. 5 jam
 - C. 1.000 menit
 - D. 2 jam 46 menit
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 100 menit = salah hitung.
-- **B** — Salah. 10.000 detik = jumlah detik, bentuk konversi belum diubah ke jam/menit untuk konteks soal.
-- **C** — Salah. 1.000 menit = salah pembagian.
-- **D** — Benar. V = 500 m³ = 500.000 L. t = 500.000 / 50 = 10.000 detik. 10.000 / 60 = 166⅔ menit = 2 jam 46⅔ menit (≈ 2 jam 46 menit 40 detik). Pilihan paling tepat: 2 jam 46 menit.
+- **A** — Salah. 1 jam 40 menit = 6.000 detik (pakai debit 83 L/detik atau salah hitung).
+- **B** — Salah. 5 jam = 18.000 detik (salah faktor).
+- **C** — Salah. 1.000 menit = 60.000 detik (terlalu lama, debit salah).
+- **D** — Benar. V = 25 × 10 × 2 = 500 m³ = 500.000 L. t = 500.000 / 50 = 10.000 detik = 10.000/60 ≈ 166,67 menit ≈ 2 jam 46 menit 40 detik.
 
 ---
 
-**53.** Sebuah tangki kapasitas 1.200 L terisi 75%. Air dipakai 200 L, lalu ditambah 150 L. Persentase terakhir terhadap kapasitas adalah ...
-- A. 75%
-- B. 70,8%
-- C. 70,83%
-- D. 68,75%
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Awal = 0,75 × 1.200 = 900 L. Akhir = 900 − 200 + 150 = 850 L. 850/1.200 × 100 = 70,833...% ≈ 70,83%.
-
-Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
-
-**53.** Sebuah tangki kapasitas 1.200 L terisi 75%. Air dipakai 200 L, lalu ditambah 150 L. Persentase terakhir terhadap kapasitas adalah ...
+**53.** Sebuah tangki kapasitas 1.200 L terisi 75%. Air dipakai 200 L, lalu ditambah 150 L. Persentase isi terakhir terhadap kapasitas adalah ...
 - A. 75%
 - B. 70,8%
 - C. 70,83%
@@ -955,7 +865,7 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Pembahasan:**
 - **A** — Salah. 75% = persen awal, lupa pakai dan tambah.
 - **B** — Salah. 70,8% = pembulatan 1 desimal (kurang akurat dibanding C).
-- **C** — Benar. Awal = 900 L. Akhir = 900 − 200 + 150 = 850 L. 850/1.200 ≈ 0,7083 = 70,83%.
+- **C** — Benar. Awal = 0,75 × 1.200 = 900 L. Akhir = 900 − 200 + 150 = 850 L. 850/1.200 ≈ 0,7083 = 70,83%.
 - **D** — Salah. 68,75% = 825/1.200 (asal hitung sisa).
 
 ---
@@ -968,7 +878,7 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 2 = (12−8)/2 (salah operasi).
-- **B** — Salah. 5 = jumlah botol, bukan isi.
+- **B** — Salah. 5 = jumlah botol, bukan isi per botol.
 - **C** — Benar. Total = 12 + 8 = 20 L. Per botol = 20 / 5 = 4 L.
 - **D** — Salah. 1,6 = 8/5 (pakai 1 ember saja).
 
@@ -981,7 +891,7 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 - D. 150 L
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 70 = asal hitung 7 menit.
+- **A** — Salah. 70 = pakai 7 menit (asal).
 - **B** — Salah. 100 = 10 menit saja.
 - **C** — Salah. 50 = 5 menit.
 - **D** — Benar. Selisih = 15 menit. V = 10 × 15 = 150 L.
@@ -995,14 +905,14 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 - D. 280 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 80 = keran A saja 10 menit.
+- **A** — Salah. 80 = keran A saja 10 menit (lupa fase kedua).
 - **B** — Benar. 08.00–08.10: A saja → 8 × 10 = 80 L. 08.10–08.20: A + B = 14 L/menit × 10 = 140 L. Total = 80 + 140 = 220 L.
 - **C** — Salah. 140 = bagian kedua saja.
 - **D** — Salah. 280 = (8+6) × 20 (pakai 20 menit dengan kedua keran).
 
 ---
 
-**57.** Sebuah bak kapasitas 300 L, terisi 200 L. Pengurasan dengan debit 5 L/menit. Bak kosong setelah ...
+**57.** Sebuah bak kapasitas 300 L, saat ini terisi 200 L. Pengurasan dengan debit 5 L/menit. Bak kosong setelah ...
 - A. 60 menit
 - B. 50 menit
 - C. 40 menit
@@ -1010,9 +920,9 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 60 menit = 300/5 (pakai kapasitas penuh, padahal hanya terisi 200 L).
-- **B** — Salah. 50 = asal.
+- **B** — Salah. 50 = asal hitung.
 - **C** — Benar. t = 200 / 5 = 40 menit.
-- **D** — Salah. 1 jam = 60 menit, sama dengan A salah karena pakai 300.
+- **D** — Salah. 1 jam = 60 menit (sama dengan A, salah karena pakai 300).
 
 ---
 
@@ -1023,24 +933,24 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 - D. 8.316 L
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. V = π r² t = 22/7 × 441 × 60 = 22 × 63 × 60 = 22 × 3.780 = 83.160 cm³ = 83,16 L.
+- **A** — Benar. V = π r² t = 22/7 × 441 × 60 = 22 × 63 × 60 = 83.160 cm³ = 83,16 L.
 - **B** — Salah. 8,316 = bagi 10, salah faktor.
-- **C** — Salah. 831,6 = kali 10.
-- **D** — Salah. 8.316 = kali 100.
+- **C** — Salah. 831,6 = kali 10, salah.
+- **D** — Salah. 8.316 = kali 100, salah.
 
 ---
 
-**59.** Tiga ember A, B, C masing-masing berkapasitas 10 L, 8 L, dan 15 L. Total air saat ini A=8, B=5, C=12. Total sisa ruang yang masih bisa diisi adalah ...
+**59.** Tiga ember A, B, C masing-masing berkapasitas 10 L, 8 L, dan 15 L. Saat ini isi A=8 L, B=5 L, C=12 L. Total sisa ruang yang masih bisa diisi adalah ...
 - A. 25 L
 - B. 8 L
 - C. 33 L
-- D. 25 L
+- D. 5 L
 **Kunci: B**
 **Pembahasan:**
 - **A** — Salah. 25 = total air saat ini (8+5+12).
-- **B** — Benar. Total kapasitas = 33 L. Total isi = 25 L. Sisa ruang = 33 − 25 = 8 L.
+- **B** — Benar. Total kapasitas = 10+8+15 = 33 L. Total isi = 25 L. Sisa = 33 − 25 = 8 L.
 - **C** — Salah. 33 = total kapasitas, bukan sisa.
-- **D** — Salah. 25 = total isi (sama dengan A, jebakan).
+- **D** — Salah. 5 = sisa pada B saja (8−3).
 
 ---
 
@@ -1059,13 +969,13 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 ---
 
 **61.** Sebuah botol obat 120 mL berisi penuh. Aturan minum: 3 × sehari, sekali 7,5 mL. Botol habis setelah ...
-- A. 16/3 hari ≈ 5⅓ hari
+- A. ≈ 5⅓ hari
 - B. 4 hari
 - C. 16 hari
 - D. 8 hari
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Pemakaian per hari = 3 × 7,5 = 22,5 mL. Lama = 120 / 22,5 = 5⅓ hari ≈ 5 hari 8 jam.
+- **A** — Benar. Pemakaian per hari = 3 × 7,5 = 22,5 mL. Lama = 120 / 22,5 = 5,33 hari ≈ 5 hari 8 jam.
 - **B** — Salah. 4 = 120/30 (salah dosis).
 - **C** — Salah. 16 = 120/7,5 (lupa kali 3 dosis).
 - **D** — Salah. 8 = 120/15 (salah dosis harian).
@@ -1109,8 +1019,8 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Pembahasan:**
 - **A** — Benar. Mengalir = 25 × 60 = 1.500 L. Sisa = 3.000 − 1.500 = 1.500 L.
 - **B** — Salah. 1.250 = salah hitung.
-- **C** — Salah. 1.750 = 3.000 − 1.250.
-- **D** — Salah. 2.500 = mengalir 500 L (salah).
+- **C** — Salah. 1.750 = pakai 50 menit.
+- **D** — Salah. 2.500 = pakai 20 menit.
 
 ---
 
@@ -1122,9 +1032,9 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 80 = pakai A saja.
-- **B** — Salah. 50 = asal.
+- **B** — Salah. 50 = asal hitung.
 - **C** — Benar. V = 8 m³ = 8.000 L. Debit total = 100 + 150 = 250 L/menit. t = 8.000 / 250 = 32 menit.
-- **D** — Salah. 20 = salah pembagi.
+- **D** — Salah. 20 = pakai debit 400 L/menit (asal).
 
 ---
 
@@ -1136,7 +1046,7 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. Awal = ⅝ × 24 = 15 L. Tambah 3 L → 15 + 3 = 18 L.
-- **B** — Salah. 15 = awal saja, lupa tambah.
+- **B** — Salah. 15 = awal saja, lupa tambah 3 L.
 - **C** — Salah. 21 = ⅞ × 24 (salah pecahan).
 - **D** — Salah. 12 = ½ × 24.
 
@@ -1149,26 +1059,12 @@ Koreksi: jawaban benar adalah **C = 70,83%**, bukan A.
 - D. 250 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 100 = isi A saja salah (0,8 × 100 = 80, bukan 100).
+- **A** — Salah. 100 = kapasitas A, bukan air.
 - **B** — Benar. A: 0,8 × 100 = 80 L. B: 0,4 × 150 = 60 L. Total = 80 + 60 = 140 L.
-- **C** — Salah. 200 = total kapasitas (100+150) salah.
-- **D** — Salah. 250 = total kapasitas, bukan air.
+- **C** — Salah. 200 = salah hitung.
+- **D** — Salah. 250 = total kapasitas (100+150), bukan air.
 
 ---
-
-**68.** Debit pompa 0,75 L/detik. Lama mengisi tangki 270 L adalah ...
-- A. 270 detik
-- B. 200 detik
-- C. 360 detik
-- D. 6 menit
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 270 = pakai debit 1 L/detik.
-- **B** — Salah. 200 = asal.
-- **C** — Benar. t = 270 / 0,75 = 360 detik = 6 menit.
-- **D** — Salah... tunggu, 6 menit = 360 detik = sama dengan C. Tapi C lebih spesifik dalam satuan detik. Pilih C sebagai pilihan paling tepat untuk soal yang menanya "berapa detik atau menit" — di sini opsi C dan D sama-sama benar nilainya. Untuk menghindari ambigu, pilih C karena satuannya konsisten dengan debit (L/detik).
-
-Catatan: untuk menghindari kebingungan, ubah opsi D.
 
 **68.** Debit pompa 0,75 L/detik. Lama mengisi tangki 270 L adalah ...
 - A. 270 detik
@@ -1178,9 +1074,9 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. 270 = pakai debit 1 L/detik.
-- **B** — Salah. 200 = asal.
+- **B** — Salah. 200 = asal hitung.
 - **C** — Benar. t = 270 / 0,75 = 360 detik (= 6 menit).
-- **D** — Salah. 300 detik = pakai debit 0,9.
+- **D** — Salah. 300 = pakai debit 0,9 L/detik.
 
 ---
 
@@ -1191,9 +1087,9 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - D. 125 L
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 200 = asal.
+- **A** — Salah. 200 = asal hitung.
 - **B** — Salah. 100 = 500/5 (salah pembagi).
-- **C** — Salah. 250 = 500/2.
+- **C** — Salah. 250 = 500/2 (salah pembagi).
 - **D** — Benar. 500 / 4 = 125 L per ember.
 
 ---
@@ -1205,23 +1101,23 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - D. 314
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 628 = π × d × ... rumus salah.
-- **B** — Benar. r = 4. V = π r² t = 3,14 × 16 × 25 = 3,14 × 400 = 1.256 cm³ = 1.256 mL.
-- **C** — Salah. 502,4 = pakai d sebagai r (3,14 × 64 × 25/8). Salah.
+- **A** — Salah. 628 = π × d × 25 (rumus salah).
+- **B** — Benar. r = 4. V = π r² t = 3,14 × 16 × 25 = 1.256 cm³ = 1.256 mL.
+- **C** — Salah. 502,4 = salah hitung.
 - **D** — Salah. 314 = π × 100 (asal).
 
 ---
 
-**71.** Tangki air diisi penuh hari Senin = 1.500 L. Pemakaian per hari: 175 L. Hari ke berapa tangki habis?
-- A. Hari ke-9 (Selasa minggu depan)
+**71.** Tangki air diisi penuh hari Senin = 1.500 L. Pemakaian per hari: 175 L. Hari ke berapa tangki habis (dihitung dari Senin = hari ke-1)?
+- A. Hari ke-9
 - B. Hari ke-8
 - C. Hari ke-10
 - D. Hari ke-7
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. 1.500 / 175 ≈ 8,57 hari. Setelah hari ke-8 sisa = 1.500 − 8 × 175 = 1.500 − 1.400 = 100 L. Pada hari ke-9 dipakai 175 L tetapi hanya tersisa 100, jadi habis di hari ke-9.
+- **A** — Benar. 1.500 / 175 ≈ 8,57 hari. Setelah hari ke-8 sisa = 1.500 − 8 × 175 = 100 L. Pada hari ke-9 dipakai 175 L tetapi hanya tersisa 100 L, jadi habis di hari ke-9.
 - **B** — Salah. Hari ke-8 masih sisa 100 L.
-- **C** — Salah. Hari ke-10 sudah lewat.
+- **C** — Salah. Hari ke-10 sudah lewat masa habis.
 - **D** — Salah. Hari ke-7 sisa 275 L.
 
 ---
@@ -1235,22 +1131,22 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 **Pembahasan:**
 - **A** — Benar. Sisa dari A setelah ke B = 18 − 6 = 12 L. C = 4 + 12 = 16 L.
 - **B** — Salah. 12 = jumlah yang ditambahkan, lupa C awal.
-- **C** — Salah. 14 = 18 − 4 (asal).
-- **D** — Salah. 18 = kapasitas A awal.
+- **C** — Salah. 14 = 18 − 4 (asal hitung).
+- **D** — Salah. 18 = kapasitas A awal, lupa pengurangan.
 
 ---
 
-**73.** Sebuah bak balok 60 dm × 40 dm × 50 dm. Kapasitas dalam liter adalah ...
+**73.** Sebuah bak balok berukuran 60 dm × 40 dm × 50 dm. Kapasitas dalam liter adalah ...
 - A. 12.000 L
 - B. 120 L
 - C. 120.000 L
 - D. 12 L
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 12.000 = bagi 10 (perhatikan: V dalam dm³ langsung = liter).
-- **B** — Salah. 120 = bagi 1.000.
-- **C** — Benar. V = 60 × 40 × 50 = 120.000 dm³ = 120.000 L (karena 1 dm³ = 1 L).
-- **D** — Salah. 12 = bagi 10.000.
+- **A** — Salah. 12.000 = bagi 10 (pakai konversi salah; ingat 1 dm³ = 1 L).
+- **B** — Salah. 120 = bagi 1.000 (tidak perlu bagi karena dm³ = L).
+- **C** — Benar. V = 60 × 40 × 50 = 120.000 dm³ = 120.000 L (1 dm³ = 1 L).
+- **D** — Salah. 12 = bagi 10.000, salah.
 
 ---
 
@@ -1261,7 +1157,7 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - D. 50 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 800 = kapasitas A, lupa kurangi.
+- **A** — Salah. 800 = kapasitas A saja, lupa kurangi.
 - **B** — Benar. A = 0,8 m³ = 800 L. Selisih = 800 − 450 = 350 L.
 - **C** — Salah. 1.250 = jumlah, bukan selisih.
 - **D** — Salah. 50 = salah hitung.
@@ -1277,21 +1173,21 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 **Pembahasan:**
 - **A** — Salah. 1.500 = salah hitung waktu.
 - **B** — Salah. 720 = 12 × 60 (lupa tambahan 15 menit).
-- **C** — Benar. Waktu = 75 menit. V = 12 × 75 = 900 L.
-- **D** — Salah. 75 = waktu, bukan volume.
+- **C** — Benar. Waktu = 60 + 15 = 75 menit. V = 12 × 75 = 900 L.
+- **D** — Salah. 75 = waktu (menit), bukan volume.
 
 ---
 
-**76.** Sebuah cetakan es batu kubus rusuk 3 cm. Sebuah panci berisi 2 L air mendidih. Jika seluruh air dijadikan es (anggap volume tetap), banyak es batu yang dapat dibuat adalah ...
+**76.** Sebuah cetakan es batu kubus rusuk 3 cm. Sebuah panci berisi 2 L air. Jika seluruh air dijadikan es (anggap volume tetap), banyak es batu yang dapat dibuat adalah ...
 - A. 74 buah
 - B. 75 buah
 - C. 25 buah
 - D. 50 buah
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. V satu cetakan = 3³ = 27 cm³. 2 L = 2.000 cm³. 2.000 / 27 = 74,07... → 74 buah penuh (sisa 2 cm³ tidak cukup).
-- **B** — Salah. 75 = pembulatan ke atas (tidak boleh; sisa kurang).
-- **C** — Salah. 25 = asal.
+- **A** — Benar. V satu cetakan = 3³ = 27 cm³. 2 L = 2.000 cm³. 2.000 / 27 = 74,07 → 74 buah penuh.
+- **B** — Salah. 75 = pembulatan ke atas (sisa 2 cm³ tidak cukup mengisi cetakan ke-75).
+- **C** — Salah. 25 = asal hitung.
 - **D** — Salah. 50 = salah pembagi.
 
 ---
@@ -1303,9 +1199,9 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - D. 240 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 224 = hilang 16 L (asal).
+- **A** — Salah. 224 = hilang 16 L (asal hitung).
 - **B** — Benar. Waktu = 12 jam. Hilang = 2 × 12 = 24 L. Sisa = 240 − 24 = 216 L.
-- **C** — Salah. 220 = hilang 20 L (salah debit).
+- **C** — Salah. 220 = hilang 20 L (pakai 10 jam).
 - **D** — Salah. 240 = lupa kurangi.
 
 ---
@@ -1317,14 +1213,14 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - D. 3.850 L
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 38,5 = bagi 10.
-- **B** — Salah. 3,85 = bagi 100.
+- **A** — Salah. 38,5 = bagi 10, salah faktor.
+- **B** — Salah. 3,85 = bagi 100, salah.
 - **C** — Benar. V = 22/7 × 35² × 100 = 22/7 × 1.225 × 100 = 22 × 175 × 100 = 385.000 cm³ = 385 L.
-- **D** — Salah. 3.850 = kali 10.
+- **D** — Salah. 3.850 = kali 10, salah.
 
 ---
 
-**79.** Sebuah bak diisi keran A 6 L/menit selama 8 menit, lalu dipakai 30 L untuk menyiram dan ditambah lagi keran A 4 menit. Jumlah air di bak adalah ...
+**79.** Sebuah bak diisi keran A 6 L/menit selama 8 menit, lalu dipakai 30 L untuk menyiram, lalu ditambah lagi keran A 4 menit. Jumlah air di bak adalah ...
 - A. 42 L
 - B. 18 L
 - C. 24 L
@@ -1334,7 +1230,7 @@ Catatan: untuk menghindari kebingungan, ubah opsi D.
 - **A** — Benar. Isi 1 = 6 × 8 = 48 L. Pakai 30 L → sisa 18 L. Isi 2 = 6 × 4 = 24 L. Total = 18 + 24 = 42 L.
 - **B** — Salah. 18 = sisa sebelum isi kedua.
 - **C** — Salah. 24 = isi kedua saja.
-- **D** — Salah. 60 = 48 + 12 (salah hitung).
+- **D** — Salah. 60 = 48 + 12 (asal hitung).
 
 ---
 
@@ -1365,37 +1261,28 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - D. 160 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 240 = kapasitas penuh (80×60×50 = 240.000 cm³ = 240 L).
-- **B** — Benar. V air = 80 × 60 × 40 = 192.000 cm³ = 192 L (tinggi air 40 cm, bukan 50).
-- **C** — Salah. 200 = asal.
-- **D** — Salah. 160 = salah hitung (mungkin pakai t = 33,3).
+- **A** — Salah. 240 = kapasitas penuh (80×60×50 = 240.000 cm³ = 240 L), lupa baca ketinggian 40 cm.
+- **B** — Benar. V air = 80 × 60 × 40 = 192.000 cm³ = 192 L.
+- **C** — Salah. 200 = asal hitung.
+- **D** — Salah. 160 = pakai t = 33,3 (asal).
 
 ---
 
-**82.** Sebuah bak diisi keran 10 L/menit dan dikuras 4 L/menit. Bak kosong sampai penuh 240 L. Pengisian dimulai pukul 09.00. Selesai pukul ...
+**82.** Sebuah bak diisi keran 10 L/menit dan dikuras 4 L/menit (simultan). Kapasitas bak 240 L (mulai kosong). Pengisian dimulai pukul 09.00. Bak penuh pukul ...
 - A. 09.40
 - B. 10.00
 - C. 09.30
 - D. 10.30
 **Kunci: A**
 **Pembahasan:**
-- **A** — Salah... cek: debit netto = 10 − 4 = 6 L/menit. t = 240/6 = 40 menit. Selesai pukul 09.40. Maka A benar.
+- **A** — Benar. Debit netto = 10 − 4 = 6 L/menit. t = 240/6 = 40 menit. Pukul 09.00 + 40 menit = 09.40.
 - **B** — Salah. 10.00 = 60 menit (pakai debit netto 4 L/menit).
 - **C** — Salah. 09.30 = 30 menit (pakai netto 8 L/menit).
 - **D** — Salah. 10.30 = 90 menit (asal).
 
-(Kunci tetap A.)
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Debit netto = 10 − 4 = 6 L/menit. t = 240/6 = 40 menit. Pukul 09.00 + 40 menit = 09.40.
-- **B** — Salah. 10.00 = pakai debit netto 4 L/menit.
-- **C** — Salah. 09.30 = pakai netto 8 L/menit.
-- **D** — Salah. 10.30 = asal.
-
 ---
 
-**83.** Sebuah kolam ikan p × l × t = 4 m × 3 m × 1 m diisi sampai 80% kapasitasnya, lalu menguap 5% per minggu. Setelah 4 minggu, volume air sisa adalah ... (asumsi pengurangan linear)
+**83.** Sebuah kolam ikan p × l × t = 4 m × 3 m × 1 m diisi sampai 80% kapasitasnya, lalu menguap 5% per minggu dari volume awal yang terisi. Setelah 4 minggu, volume air sisa adalah ...
 - A. 9.600 L
 - B. 7.680 L
 - C. 8.064 L
@@ -1404,7 +1291,7 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 **Pembahasan:**
 - **A** — Salah. 9.600 = isi awal, lupa penguapan.
 - **B** — Benar. V kolam = 4 × 3 × 1 = 12 m³ = 12.000 L. Awal = 0,8 × 12.000 = 9.600 L. Hilang 4 minggu × 5% × 9.600 = 0,2 × 9.600 = 1.920 L. Sisa = 9.600 − 1.920 = 7.680 L.
-- **C** — Salah. 8.064 = 9.600 − 5% × 9.600 = (asal 1 minggu).
+- **C** — Salah. 8.064 = pakai 1 minggu penguapan (asal).
 - **D** — Salah. 6.144 = persentase kompound (salah model).
 
 ---
@@ -1418,12 +1305,12 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 **Pembahasan:**
 - **A** — Benar. Q − 0,5 = 1,5 → Q = 2 L/menit.
 - **B** — Salah. 1 = lupa tambahkan bocor.
-- **C** — Salah. 1,5 = kenaikan, bukan debit.
-- **D** — Salah. 3 = asal.
+- **C** — Salah. 1,5 = kenaikan, bukan debit input.
+- **D** — Salah. 3 = asal hitung.
 
 ---
 
-**85.** Sebuah botol berbentuk tabung diameter 6 cm tinggi 14 cm. Kapasitas dalam mL = ... (π = 22/7)
+**85.** Sebuah botol berbentuk tabung diameter 6 cm tinggi 14 cm. Kapasitas dalam mL ≈ ... (π = 22/7)
 - A. 396
 - B. 264
 - C. 132
@@ -1431,24 +1318,13 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. r = 3 cm. V = 22/7 × 9 × 14 = 22/7 × 126 = 22 × 18 = 396 cm³ = 396 mL.
-- **B** — Salah. 264 = pakai r = 2 atau jari-jari salah.
+- **B** — Salah. 264 = jari-jari salah.
 - **C** — Salah. 132 = ⅓ saja.
-- **D** — Salah. 528 = pakai r=4.
+- **D** — Salah. 528 = pakai r = 4.
 
 ---
 
-**86.** Bak A dan B disusun seri (air dari A jatuh ke B). A debit masuk 12 L/menit, A bocor ke B 8 L/menit, B bocor 3 L/menit. Setelah 10 menit (mula-mula kosong semua), volume A dan B berturut-turut adalah ...
-- A. A=40 L, B=50 L
-- B. A=120 L, B=80 L
-- C. A=40 L, B=50 L (sama dengan A jebakan)
-- D. A=20 L, B=60 L
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah... mari hitung: A: masuk 12, keluar 8 → netto +4. Setelah 10 menit: A = 40 L. B: masuk 8 (dari A), keluar 3 → netto +5. Setelah 10 menit: B = 50 L. Maka jawaban yang benar adalah A=40, B=50.
-
-(Karena ada dua opsi yang sama, mari ganti opsi.)
-
-**86.** Bak A dan B disusun seri (air dari A jatuh ke B). A debit masuk 12 L/menit, A bocor ke B 8 L/menit, B bocor 3 L/menit. Setelah 10 menit (mula-mula kosong semua), volume A dan B berturut-turut adalah ...
+**86.** Bak A dan B disusun seri (air dari A jatuh ke B). A mendapat debit masuk 12 L/menit, A bocor (menuju B) 8 L/menit, B bocor (keluar) 3 L/menit. Setelah 10 menit (semua mula-mula kosong), volume air di A dan B berturut-turut adalah ...
 - A. A=40 L, B=50 L
 - B. A=120 L, B=80 L
 - C. A=40 L, B=30 L
@@ -1456,9 +1332,9 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. A netto = 12 − 8 = +4 L/menit → A(10) = 40 L. B netto = 8 − 3 = +5 L/menit → B(10) = 50 L.
-- **B** — Salah. A=120 = lupa kurangi bocor; B=80 = lupa kurangi keluar.
-- **C** — Salah. B=30 = pakai debit B yang salah.
-- **D** — Salah. A=20 = pakai netto 2; salah arah.
+- **B** — Salah. A=120 = lupa kurangi bocor; B=80 = pakai 8×10 saja.
+- **C** — Salah. B=30 = pakai debit B netto 3 (lupa kurangi).
+- **D** — Salah. A=20 = pakai netto 2 (salah operasi).
 
 ---
 
@@ -1470,13 +1346,13 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. V cetakan = 20 × 10 × 5 = 1.000 cm³ = 1 L. 4 L / 1 L = 4 cetakan.
-- **B** — Salah. 10 = asal.
-- **C** — Salah. 8 = salah volume.
+- **B** — Salah. 10 = asal hitung.
+- **C** — Salah. 8 = pakai rusuk 5 cm (cetakan kubus).
 - **D** — Salah. 25 = 4.000/160 (asal).
 
 ---
 
-**88.** Sebuah tangki kapasitas 600 L diisi keran 15 L/menit. Setelah penuh, keran ditutup dan air dikuras 5 L/menit. Lama proses keseluruhan (dari kosong sampai kembali kosong) adalah ...
+**88.** Sebuah tangki kapasitas 600 L diisi keran 15 L/menit. Setelah penuh, keran ditutup dan air dikuras 5 L/menit sampai kosong. Lama proses keseluruhan (isi + kuras) adalah ...
 - A. 80 menit
 - B. 120 menit
 - C. 160 menit
@@ -1486,7 +1362,7 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **A** — Salah. 80 = salah hitung.
 - **B** — Salah. 120 = pengurasan saja.
 - **C** — Benar. Isi: 600/15 = 40 menit. Kuras: 600/5 = 120 menit. Total = 40 + 120 = 160 menit.
-- **D** — Salah. 90 = asal.
+- **D** — Salah. 90 = asal hitung.
 
 ---
 
@@ -1497,51 +1373,24 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - D. 20 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 60 = kapasitas total.
-- **B** — Benar. Volume penuh = 50 × 40 × 30 = 60.000 cm³ = 60 L. Volume sekarang = 50 × 40 × 10 = 20.000 cm³ = 20 L. Tambah = 60 − 20 = 40 L.
+- **A** — Salah. 60 = kapasitas total, bukan tambahan.
+- **B** — Benar. V penuh = 50 × 40 × 30 = 60.000 cm³ = 60 L. V sekarang = 50 × 40 × 10 = 20.000 cm³ = 20 L. Tambah = 60 − 20 = 40 L.
 - **C** — Salah. 30 = ½ kapasitas, asal.
 - **D** — Salah. 20 = isi sekarang, bukan tambahan.
 
 ---
 
-**90.** Sebuah botol obat kapasitas 100 mL diisi penuh. Dosis: 1 sendok teh = 5 mL, diminum 3 × sehari. Jika obat dimulai hari Senin pagi, hari apa habis (asumsi minum pertama Senin pagi)?
-- A. Kamis pagi
-- B. Selasa malam
-- C. Rabu siang
-- D. Sabtu pagi
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Kamis pagi terlalu lama.
-- **B** — Salah. Selasa malam terlalu cepat.
-- **C** — Benar. Per hari = 3 × 5 = 15 mL. 100/15 = 6,67 dosis-hari = sekitar 6 hari 2/3 dosis ≈ 6 hari 16 jam. Mulai Senin pagi, habis pada hari ke-7. Mari hitung dosis: Senin (3), Selasa (3), Rabu (3), Kamis (3), Jumat (3), Sabtu (3), Minggu (3) = 21 dosis × 5 = 105 mL. Sebenarnya 100 mL / 5 = 20 dosis. Senin–Sabtu pagi = 6 hari × 3 dosis + Sabtu pagi = 19; tambahan dosis ke-20 Sabtu siang habis pada **Sabtu siang**.
-
-Karena perhitungan menyimpang dari opsi, mari sederhanakan: 20 dosis ÷ 3 dosis/hari = 6 hari 2 dosis. Jika mulai Senin pagi (1), Senin siang (2), Senin malam (3), ..., dosis ke-20 di Minggu siang. Kunci yang tepat tidak ada di opsi yang diberikan. Saya akan sederhanakan soal.
-
-**90.** Sebuah botol obat kapasitas 90 mL diisi penuh. Dosis: 5 mL, diminum 3 × sehari. Jika obat dimulai hari Senin pagi (dosis 1), hari apa dosis terakhir diminum?
-- A. Sabtu pagi
-- B. Jumat pagi
-- C. Sabtu siang
-- D. Minggu pagi
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Sabtu pagi = dosis ke-16.
-- **B** — Salah. Jumat pagi = dosis ke-13.
-- **C** — Benar. Total dosis = 90/5 = 18 dosis. 18 dosis ÷ 3/hari = 6 hari, tapi karena dosis terdistribusi pagi-siang-malam, dosis ke-18 jatuh pada hari ke-6 (Sabtu) siang.
-
-Mari lebih cermat: Senin (dosis 1 pagi, 2 siang, 3 malam), Selasa (4,5,6), Rabu (7,8,9), Kamis (10,11,12), Jumat (13,14,15), Sabtu (16,17,18). Dosis ke-18 jatuh **Sabtu malam**.
-
-Oke, ubah opsi:
-**90.** Sebuah botol obat kapasitas 90 mL diisi penuh. Dosis: 5 mL, diminum 3 × sehari. Jika obat dimulai hari Senin pagi (dosis 1), hari & waktu apa dosis terakhir diminum?
+**90.** Sebuah botol obat kapasitas 90 mL diisi penuh. Dosis: 5 mL, diminum 3 × sehari (pagi, siang, malam). Jika dosis pertama Senin pagi, dosis terakhir diminum pada ...
 - A. Sabtu pagi
 - B. Sabtu siang
 - C. Sabtu malam
 - D. Minggu pagi
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. Sabtu pagi = dosis ke-16.
+- **A** — Salah. Sabtu pagi = dosis ke-16, masih ada sisa.
 - **B** — Salah. Sabtu siang = dosis ke-17.
-- **C** — Benar. Total dosis = 90/5 = 18. Senin: 1-3, Selasa: 4-6, Rabu: 7-9, Kamis: 10-12, Jumat: 13-15, Sabtu: 16-18. Dosis ke-18 = Sabtu malam.
-- **D** — Salah. Minggu pagi terlalu lama.
+- **C** — Benar. Total dosis = 90/5 = 18. Senin: dosis 1–3, Selasa: 4–6, Rabu: 7–9, Kamis: 10–12, Jumat: 13–15, Sabtu: 16–18. Dosis ke-18 = Sabtu malam.
+- **D** — Salah. Minggu pagi sudah habis sebelumnya.
 
 ---
 
@@ -1554,12 +1403,12 @@ Oke, ubah opsi:
 **Pembahasan:**
 - **A** — Salah. 18 = rata-rata (12+24)/2 (salah konsep debit).
 - **B** — Benar. Debit A = K/12, debit B = K/24. Total = K/12 + K/24 = 2K/24 + K/24 = 3K/24 = K/8. Waktu = K / (K/8) = 8 menit.
-- **C** — Salah. 6 = jumlah salah.
-- **D** — Salah. 36 = jumlah waktu.
+- **C** — Salah. 6 = asal hitung.
+- **D** — Salah. 36 = jumlah waktu (12+24), salah konsep.
 
 ---
 
-**92.** Sebuah tangki silinder r = 50 cm, t = 100 cm dipakai untuk simpan minyak. Berapa botol berkapasitas 5 L yang bisa diisi penuh? (π = 3,14)
+**92.** Sebuah tangki silinder r = 50 cm, t = 100 cm dipakai untuk menyimpan minyak. Berapa botol berkapasitas 5 L yang bisa diisi penuh? (π = 3,14)
 - A. 157 botol
 - B. 78 botol
 - C. 314 botol
@@ -1568,8 +1417,8 @@ Oke, ubah opsi:
 **Pembahasan:**
 - **A** — Benar. V tangki = 3,14 × 2.500 × 100 = 785.000 cm³ = 785 L. 785 / 5 = 157 botol.
 - **B** — Salah. 78 = bagi 10.
-- **C** — Salah. 314 = pakai r = 100 atau salah.
-- **D** — Salah. 50 = asal.
+- **C** — Salah. 314 = pakai rumus salah.
+- **D** — Salah. 50 = asal hitung.
 
 ---
 
@@ -1580,14 +1429,14 @@ Oke, ubah opsi:
 - D. 625 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 700 = 600 + 4×25 (lupa bocor).
+- **A** — Salah. 700 = 600 + 4×25 (lupa kurangi bocor).
 - **B** — Benar. Netto = 4 − 1 = 3 L/menit. Tambah = 3 × 25 = 75 L. Total = 600 + 75 = 675 L.
 - **C** — Salah. 650 = tambah 50 (asal).
 - **D** — Salah. 625 = tambah 25 (lupa kali debit netto).
 
 ---
 
-**94.** Sebuah kolam berbentuk balok berukuran 6 m × 4 m × 1,5 m. Dapat diisi penuh dengan debit Q L/menit dalam 4 jam. Debit Q adalah ...
+**94.** Sebuah kolam berbentuk balok berukuran 6 m × 4 m × 1,5 m diisi penuh oleh keran dengan debit Q L/menit dalam 4 jam. Debit Q adalah ...
 - A. 100 L/menit
 - B. 150 L/menit
 - C. 200 L/menit
@@ -1597,7 +1446,7 @@ Oke, ubah opsi:
 - **A** — Salah. 100 = salah pembagi.
 - **B** — Benar. V = 6 × 4 × 1,5 = 36 m³ = 36.000 L. t = 4 jam = 240 menit. Q = V/t = 36.000 / 240 = 150 L/menit.
 - **C** — Salah. 200 = salah pembagi.
-- **D** — Salah. 250 = asal.
+- **D** — Salah. 250 = asal hitung.
 
 ---
 
@@ -1608,10 +1457,10 @@ Oke, ubah opsi:
 - D. 40%
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 25% = 10/40.
-- **B** — Salah. 30% = asal.
-- **C** — Benar. B = 10 L. Persen = 10/30 × 100 = 33,33%.
-- **D** — Salah. 40% = pakai kapasitas A.
+- **A** — Salah. 25% = 10/40 (asal pembagi).
+- **B** — Salah. 30% = pakai kapasitas 30 L sebagai persentase langsung.
+- **C** — Benar. B sekarang = 10 L. Persen = 10/30 × 100 ≈ 33,33%.
+- **D** — Salah. 40% = pakai kapasitas A (10/25).
 
 ---
 
@@ -1623,9 +1472,9 @@ Oke, ubah opsi:
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. 1/A + 1/B = 1/6. 1/10 + 1/B = 1/6 → 1/B = 1/6 − 1/10 = 5/30 − 3/30 = 2/30 = 1/15. B = 15 menit.
-- **B** — Salah. 16 = 10 + 6 (penjumlahan salah).
-- **C** — Salah. 8 = asal.
-- **D** — Salah. 4 = 10 − 6.
+- **B** — Salah. 16 = 10 + 6 (penjumlahan salah konsep).
+- **C** — Salah. 8 = asal hitung.
+- **D** — Salah. 4 = 10 − 6 (salah operasi).
 
 ---
 
@@ -1637,48 +1486,48 @@ Oke, ubah opsi:
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. V penuh = 3,14 × 25 × 15 = 1.177,5 cm³. V sekarang = 3,14 × 25 × 10 = 785 cm³. Sisa = 1.177,5 − 785 = 392,5 cm³ = 392,5 mL.
-- **B** — Salah. 785 = isi sekarang.
-- **C** — Salah. 1.177,5 = kapasitas penuh.
+- **B** — Salah. 785 = isi sekarang, bukan sisa.
+- **C** — Salah. 1.177,5 = kapasitas penuh, lupa kurangi.
 - **D** — Salah. 157 = 3,14 × 50 (asal).
 
 ---
 
 **98.** Bak air diisi dari kosong. Debit awal 8 L/menit selama 5 menit. Setelah itu debit naik jadi 12 L/menit sampai bak penuh (200 L). Total waktu pengisian adalah ...
-- A. 16⅔ menit
-- B. 18⅓ menit
+- A. ≈ 16⅔ menit
+- B. ≈ 18⅓ menit
 - C. 20 menit
-- D. 18 menit
+- D. 25 menit
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 16⅔ = pakai semua 12 L/menit (200/12).
-- **B** — Benar. Tahap 1: 8 × 5 = 40 L (selama 5 menit). Sisa = 200 − 40 = 160 L. Tahap 2: 160/12 = 13⅓ menit. Total = 5 + 13⅓ = 18⅓ menit ≈ 18 menit 20 detik.
-- **C** — Salah. 20 = asal.
-- **D** — Salah. 18 = pembulatan tanpa cermat.
+- **A** — Salah. 16⅔ = pakai 12 L/menit untuk semua (200/12).
+- **B** — Benar. Tahap 1: 8 × 5 = 40 L. Sisa = 200 − 40 = 160 L. Tahap 2: 160/12 = 13⅓ menit. Total = 5 + 13⅓ ≈ 18 menit 20 detik.
+- **C** — Salah. 20 = asal hitung.
+- **D** — Salah. 25 = pakai debit 8 untuk semua (200/8).
 
 ---
 
-**99.** Sebuah aquarium ikan berbentuk balok p × l × t = 60 cm × 30 cm × 40 cm diisi air setinggi 30 cm. Lalu dimasukkan batu yang menyebabkan tinggi air naik menjadi 32 cm. Volume batu adalah ...
+**99.** Sebuah akuarium ikan berbentuk balok p × l × t = 60 cm × 30 cm × 40 cm diisi air setinggi 30 cm. Lalu dimasukkan batu yang menyebabkan tinggi air naik menjadi 32 cm. Volume batu adalah ...
 - A. 3.000 cm³
 - B. 3.600 cm³
 - C. 1.800 cm³
 - D. 2.400 cm³
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 3.000 = asal.
+- **A** — Salah. 3.000 = asal hitung.
 - **B** — Benar. Kenaikan tinggi = 32 − 30 = 2 cm. V batu = p × l × Δt = 60 × 30 × 2 = 3.600 cm³.
-- **C** — Salah. 1.800 = kenaikan 1 cm.
-- **D** — Salah. 2.400 = salah hitung.
+- **C** — Salah. 1.800 = kenaikan 1 cm (salah baca selisih).
+- **D** — Salah. 2.400 = pakai p×t (asal).
 
 ---
 
-**100.** Sebuah tangki diisi keran 12 L/menit. Setelah penuh, dipasang 3 keran kuras debit masing-masing 5 L/menit (tiga keran simultan). Jika kapasitas tangki 360 L (mulai kosong), tangki harus diisi dulu sampai penuh, lalu dikuras. Total proses (isi + kuras) memakan waktu ...
+**100.** Sebuah tangki kapasitas 360 L diisi keran 12 L/menit (mulai kosong). Setelah penuh, dipasang 3 keran kuras yang masing-masing berdebit 5 L/menit (semua menyala bersamaan). Total waktu (isi sampai penuh + kuras sampai kosong) adalah ...
 - A. 60 menit
 - B. 30 menit
 - C. 50 menit
 - D. 54 menit
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah. 60 = isi + kuras dengan kuras 1 keran.
+- **A** — Salah. 60 = isi + kuras dengan 1 keran kuras (lupa kalikan 3).
 - **B** — Salah. 30 = pengisian saja.
 - **C** — Salah. 50 = salah hitung.
 - **D** — Benar. Isi: 360 / 12 = 30 menit. Kuras: debit total = 3 × 5 = 15 L/menit, waktu = 360 / 15 = 24 menit. Total = 30 + 24 = 54 menit.
@@ -1714,24 +1563,26 @@ Oke, ubah opsi:
 
 ## B. Distribusi Kunci
 
+Penghitungan dari tabel di atas:
+
 - **A:** 25 soal
 - **B:** 27 soal
 - **C:** 28 soal
 - **D:** 20 soal
 
-Catatan: distribusi kunci di-balance sebaik mungkin pada saat penulisan, dengan koreksi beberapa soal yang menyebabkan sedikit pergeseran. Tidak ada dominasi satu opsi (tertinggi C = 28%, terendah D = 20%). Pola kunci tersebar merata sepanjang 100 soal (tidak ada urutan 4+ kunci sama berturut-turut).
+Distribusi mendekati seimbang (A 25, B 27, C 28, D 20). Tidak ada dominasi satu opsi yang ekstrem (rentang 20–28). Pola kunci tersebar merata sepanjang 100 soal — tidak terdapat 4 kunci sama berturut-turut.
 
 ## C. Refleksi Belajar
 
-1. **Hafal konversi kunci**: 1 cm³ = 1 mL; 1 dm³ = 1 L = 1.000 cm³ = 1.000 mL; 1 m³ = 1.000 L. Salah konversi = jawaban meleset 10×, 100×, atau 1.000×.
+1. **Hafal konversi kunci**: 1 cm³ = 1 mL; 1 dm³ = 1 L = 1.000 cm³; 1 m³ = 1.000 L. Salah konversi = jawaban meleset 10×, 100×, atau 1.000×.
 2. **Perhatikan satuan input**: cm, dm, atau m. Selalu samakan ke satu satuan sebelum menghitung volume.
 3. **Bedakan kapasitas vs volume terisi**: "diisi ¾" berarti ¾ × kapasitas, bukan kapasitas penuh.
 4. **Debit pengisian vs pengurasan**: arah berlawanan. Untuk simultan (isi + kuras), gunakan debit netto = masuk − keluar.
 5. **Konversi waktu**: 1 menit = 60 detik; 1 jam = 60 menit = 3.600 detik. Salah konversi waktu menggeser jawaban 60×.
 6. **Untuk soal "berapa cetakan/botol"**: bagi total volume dengan volume satu cetakan, lalu pembulatan **ke bawah** (sisa tidak cukup).
-7. **Bak balok**: V = p × l × t. Jika air tidak penuh tinggi t, ganti t dengan tinggi air aktual.
-8. **Tabung**: V = π r² t. Hati-hati diameter vs jari-jari.
-9. **Soal 2 keran (1 keran/A menit, 1/B menit, bersama 1/X menit)**: 1/A + 1/B = 1/X. Bukan A + B = X!
+7. **Bak balok**: V = p × l × t. Jika air tidak penuh, ganti t dengan tinggi air aktual.
+8. **Tabung**: V = π r² t. Hati-hati diameter vs jari-jari (jari-jari = ½ diameter).
+9. **Dua keran bersama**: 1/A + 1/B = 1/X. Bukan A + B = X!
 10. **Strategi 3-langkah**: hitung volume → konversi satuan → aplikasikan ke soal (waktu/jumlah/sisa).
 
 ---

@@ -1154,15 +1154,15 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 ---
 
 **76.** Sebuah bak air kubus rusuk 50 cm berisi air sampai ⅗ tinggi bak. Berapa liter air dalam bak?
-- A. 25 L
+- A. 75 L
 - B. 50 L
-- C. 75 L
+- C. 25 L
 - D. 100 L
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. ⅕ × 125 = 25.
+- **A** — Benar. V penuh = 50³ = 125.000 cm³ = 125 L. Air = ⅗ × 125 = **75 L**.
 - **B** — Salah. ⅖ × 125 = 50.
-- **C** — Benar. V penuh = 50³ = 125.000 cm³ = 125 L. Air = ⅗ × 125 = **75 L**.
+- **C** — Salah. ⅕ × 125 = 25.
 - **D** — Salah. ⅘ × 125 = 100.
 
 ---
@@ -1244,15 +1244,15 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 ---
 
 **82.** Sebuah kubus besar rusuk 6 cm dicat seluruh permukaannya, lalu dipotong jadi kubus kecil rusuk 1 cm. Berapa banyak kubus kecil yang **tidak** terkena cat sama sekali?
-- A. 27
+- A. 64
 - B. 36
-- C. 64
+- C. 27
 - D. 216
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. (6−2)² × 3 atau salah pangkat.
+- **A** — Benar. Kubus dalam (tidak kena cat) berbentuk kubus rusuk (6−2) = 4. Jumlah = 4³ = **64 kubus**.
 - **B** — Salah. (6−1)² (luas, bukan volume).
-- **C** — Benar. Kubus dalam (tidak kena cat) berbentuk kubus rusuk (6−2) = 4. Jumlah = 4³ = **64 kubus**.
+- **C** — Salah. (6−2)² × 3 atau salah pangkat.
 - **D** — Salah. Itu total seluruh kubus kecil (6³ = 216).
 
 ---
@@ -1286,29 +1286,29 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 ---
 
 **85.** Sebuah bak kubus rusuk 100 cm penuh air. Sebuah pemberat kubus rusuk 40 cm dicelupkan sampai tenggelam. Berapa liter air yang tumpah?
-- A. 16 L
+- A. 64 L
 - B. 32 L
-- C. 64 L
+- C. 16 L
 - D. 100 L
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 40² ÷ 100 (kuadrat).
+- **A** — Benar. V tumpah = V pemberat = 40³ = 64.000 cm³ = **64 L**.
 - **B** — Salah. 40² × 2 ÷ 100 (asal).
-- **C** — Benar. V tumpah = V pemberat = 40³ = 64.000 cm³ = **64 L**.
+- **C** — Salah. 40² ÷ 100 (kuadrat).
 - **D** — Salah. Mengira semua air tumpah (itu V bak penuh berbeda).
 
 ---
 
 **86.** Suatu pabrik membuat kotak kubus rusuk 25 cm. Bahan plat seng dipakai untuk seluruh permukaan kotak (6 sisi). Jika 1 m² plat = Rp80.000, berapa biaya plat 1 kotak?
 - A. Rp3.000
-- B. Rp15.000
-- C. Rp30.000
+- B. Rp30.000
+- C. Rp15.000
 - D. Rp300.000
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
 - **A** — Salah. Kurang satu nol.
-- **B** — Salah. 6 × 25² ÷ 250 (asal).
-- **C** — Benar. L permukaan = 6 × 25² = 6 × 625 = 3.750 cm² = 0,375 m². Biaya = 0,375 × 80.000 = **Rp30.000**.
+- **B** — Benar. L permukaan = 6 × 25² = 6 × 625 = 3.750 cm² = 0,375 m². Biaya = 0,375 × 80.000 = **Rp30.000**.
+- **C** — Salah. 6 × 25² ÷ 250 (asal).
 - **D** — Salah. Kelebihan satu nol.
 
 ---
@@ -1317,55 +1317,43 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - A. 3.000 cm³
 - B. 3.250 cm³
 - C. 3.375 cm³
-- D. 3.000 cm³ (sama A)
+- D. 2.875 cm³
 **Kunci: A**
 **Pembahasan:**
 - **A** — Benar. V kubus = 15³ = 3.375 cm³. V lubang (balok 5 × 5 × 15) = 375 cm³. V sisa = 3.375 − 375 = **3.000 cm³**.
 - **B** — Salah. Salah kurang.
 - **C** — Salah. Lupa kurangi lubang.
-- **D** — Salah. Distractor identik (sengaja membingungkan; A tetap kunci).
+- **D** — Salah. Kelebihan mengurangkan (mengurangi 500).
 
 ---
 
 **88.** Sebuah kubus dipotong menjadi 64 kubus kecil yang sama. Jika rusuk kubus kecil 3 cm, berapa rusuk kubus besar mula-mula?
-- A. 6 cm
+- A. 12 cm
 - B. 9 cm
-- C. 12 cm
+- C. 6 cm
 - D. 15 cm
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 2 × 3 (asal × 2).
+- **A** — Benar. 64 = 4³, jadi sisi besar = 4 × 3 = **12 cm**.
 - **B** — Salah. 3 × 3 (asal).
-- **C** — Benar. 64 = 4³, jadi sisi besar = 4 × 3 = **12 cm**.
+- **C** — Salah. 2 × 3 (asal × 2).
 - **D** — Salah. 5 × 3 (asal × 5).
 
 ---
 
 **89.** Volume sebuah kubus dinyatakan dalam dm³ sama dengan luas permukaannya dinyatakan dalam dm². Berapa rusuknya?
-- A. 1 dm
+- A. 6 dm
 - B. 3 dm
-- C. 6 dm
+- C. 1 dm
 - D. 9 dm
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 1³ = 1 vs 6×1² = 6 (tidak sama).
+- **A** — Benar. s³ = 6s² → s = **6 dm**. (Cek: V = 216, L = 6 × 36 = 216 ✓.)
 - **B** — Salah. 27 vs 54 (tidak sama).
-- **C** — Benar. s³ = 6s² → s = **6 dm**. (Cek: V = 216, L = 6 × 36 = 216 ✓.)
+- **C** — Salah. 1³ = 1 vs 6×1² = 6 (tidak sama).
 - **D** — Salah. 729 vs 486 (tidak sama).
 
 ---
-
-**90.** Sebuah kotak kubus rusuk 30 cm akan diisi penuh kubus-kubus kecil rusuk 6 cm. Setelah penuh, kubus-kubus kecil itu diambil 25%. Berapa kubus kecil yang **tersisa** di kotak?
-- A. 75
-- B. 90
-- C. 94
-- D. 125
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Salah persen.
-- **B** — Benar. Banyak kubus = (30/6)³ = 5³ = 125. Diambil 25% = 31,25 → biasanya dibulatkan ke 31. Tetapi pada konteks "yang tersisa" 75% × 125 = **93,75 ≈ 94**. ... Mari pakai jawaban tepat **93,75 bulat = 94** ⇒ **C** justru benar. Periksa ulang.
-
-Mari **revisi soal 90** supaya hasil bulat:
 
 **90.** Sebuah kotak kubus rusuk 30 cm diisi penuh kubus-kubus kecil rusuk 6 cm. Setelah penuh, diambil ⅖ bagian kubus kecil. Berapa kubus kecil yang **tersisa**?
 - A. 50
@@ -1381,42 +1369,30 @@ Mari **revisi soal 90** supaya hasil bulat:
 
 ---
 
-**91.** Sebuah bak kubus berisi air 64 liter (¼ penuh). Berapa rusuk bak dalam dm?
-- A. 4 dm
-- B. 6 dm
-- C. 8 dm
-- D. 10 dm
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. s = ∛64 = 4 (lupa "¼ penuh").
-- **B** — Benar. Kapasitas penuh = 4 × 64 = 256 dm³? Periksa: 256 bukan kubik sempurna. Mari betulkan: V penuh = 64 ÷ ¼ = 256. s = ∛256 ≈ 6,35 — tidak bulat. Untuk hasil bulat **rusuk = 8 dm** (s³ = 512, ⅛ = 64), jadi soal "⅛ penuh".
-
-Mari revisi:
-
 **91.** Sebuah bak kubus berisi air 64 liter (⅛ penuh). Berapa rusuk bak dalam dm?
 - A. 4 dm
-- B. 6 dm
-- C. 8 dm
+- B. 8 dm
+- C. 6 dm
 - D. 12 dm
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
 - **A** — Salah. ∛64 = 4 (mengabaikan pecahan ⅛).
-- **B** — Salah. Asal angka.
-- **C** — Benar. V penuh = 64 ÷ ⅛ = 64 × 8 = 512 dm³. s = ∛512 = **8 dm**.
+- **B** — Benar. V penuh = 64 ÷ ⅛ = 64 × 8 = 512 dm³. s = ∛512 = **8 dm**.
+- **C** — Salah. Asal angka.
 - **D** — Salah. 8 × 1,5 (asal).
 
 ---
 
 **92.** Sebuah kotak kubus rusuk 40 cm penuh air dan dituang ke wadah balok 80 × 50 × 20 cm. Berapa tinggi air di wadah balok?
-- A. 4 cm
+- A. 16 cm
 - B. 8 cm
-- C. 16 cm
+- C. 4 cm
 - D. 20 cm
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 64.000 ÷ 16.000 (asal).
+- **A** — Benar. V air = 40³ = 64.000 cm³. Luas alas balok = 80 × 50 = 4.000 cm². Tinggi air = 64.000 ÷ 4.000 = **16 cm**.
 - **B** — Salah. Setengah dari jawaban benar.
-- **C** — Benar. V air = 40³ = 64.000 cm³. Luas alas balok = 80 × 50 = 4.000 cm². Tinggi air = 64.000 ÷ 4.000 = **16 cm**.
+- **C** — Salah. 64.000 ÷ 16.000 (asal).
 - **D** — Salah. Tinggi maksimum wadah (asumsi salah).
 
 ---
@@ -1450,15 +1426,15 @@ Mari revisi:
 ---
 
 **95.** Sebuah kubus rusuk 10 cm dipotong menjadi 8 kubus kecil sama besar. Total luas permukaan **seluruh** kubus kecil dibandingkan luas permukaan kubus besar adalah ...
-- A. Sama
+- A. 2 kali lebih besar
 - B. 1,5 kali lebih besar
-- C. 2 kali lebih besar
+- C. Sama
 - D. 8 kali lebih besar
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. Tidak menghitung pertambahan luas.
+- **A** — Benar. 8 kubus kecil → rusuk masing-masing 5 cm. L permukaan besar = 6 × 100 = 600 cm². L total 8 kubus kecil = 8 × 6 × 25 = 1.200 cm². Rasio = 1.200/600 = **2 kali**.
 - **B** — Salah. Asal pecahan.
-- **C** — Benar. 8 kubus kecil → rusuk masing-masing 5 cm. L permukaan besar = 6 × 100 = 600 cm². L total 8 kubus kecil = 8 × 6 × 25 = 1.200 cm². Rasio = 1.200/600 = **2 kali**.
+- **C** — Salah. Tidak menghitung pertambahan luas.
 - **D** — Salah. Mengira sama dengan jumlah kubus.
 
 ---
@@ -1478,56 +1454,43 @@ Mari revisi:
 ---
 
 **97.** Sebuah perusahaan air mengirim 1 truk yang membawa 12 tangki air. Setiap tangki berbentuk kubus rusuk 80 cm. Berapa liter total air dalam 1 truk?
-- A. 384 L
+- A. 6.144 L
 - B. 4.608 L
-- C. 6.144 L
+- C. 384 L
 - D. 7.680 L
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 12 × 32 (asal angka).
+- **A** — Benar. V 1 tangki = 80³ = 512.000 cm³ = 512 L. Total = 12 × 512 = **6.144 L**.
 - **B** — Salah. Salah hitung volume kubik.
-- **C** — Benar. V 1 tangki = 80³ = 512.000 cm³ = 512 L. Total = 12 × 512 = **6.144 L**.
+- **C** — Salah. 12 × 32 (asal angka).
 - **D** — Salah. 12 × 640 (asal).
 
 ---
 
-**98.** Sebuah kubus dipotong menjadi 27 kubus kecil sama besar. Selisih jumlah luas permukaan seluruh kubus kecil dengan luas permukaan kubus besar = 600 cm². Berapa rusuk kubus besar?
-- A. 8 cm
-- B. 9 cm
-- C. 10 cm
-- D. 12 cm
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Salah persamaan.
-- **B** — Salah. Asal angka pas kubik 27.
-- **C** — Benar. Kubus kecil rusuk = S/3. L besar = 6S². L total kecil = 27 × 6 × (S/3)² = 27 × 6 × S²/9 = 18S². Selisih = 18S² − 6S² = 12S² = 600 → S² = 50 → S ≈ 7,07. Hmm tidak bulat. Mari pakai 27 → S² = 50 tidak bulat. **Sesungguhnya** rusuk = √50 ≈ 7,07 cm — paling mendekati pilihan: tidak ada. **Soal 98 perlu revisi**:
-
-Mari revisi sehingga konsisten:
-
 **98.** Sebuah kubus dipotong menjadi 27 kubus kecil sama besar. Selisih jumlah luas permukaan seluruh kubus kecil dengan luas permukaan kubus besar = 1.200 cm². Berapa rusuk kubus besar?
-- A. 8 cm
+- A. 10 cm
 - B. 9 cm
-- C. 10 cm
+- C. 8 cm
 - D. 12 cm
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 8² × 12 ≠ 1.200.
+- **A** — Benar. Rusuk kecil = S/3. L besar = 6S². L total kecil = 27 × 6(S/3)² = 18S². Selisih = 12S² = 1.200 → S² = 100 → S = **10 cm**.
 - **B** — Salah. 9² × 12 = 972 ≠ 1.200.
-- **C** — Benar. Rusuk kecil = S/3. L besar = 6S². L total kecil = 27 × 6(S/3)² = 18S². Selisih = 12S² = 1.200 → S² = 100 → S = **10 cm**.
+- **C** — Salah. 8² × 12 ≠ 1.200.
 - **D** — Salah. 12² × 12 = 1.728 ≠ 1.200.
 
 ---
 
 **99.** Sebuah bak air kubus rusuk 1,2 m mempunyai 2 keran isi (masing-masing 24 L/menit) dan 1 keran kuras (18 L/menit). Jika ketiganya dibuka bersamaan dari bak kosong, berapa lama bak penuh?
-- A. 36 menit
+- A. 57,6 menit
 - B. 48 menit
-- C. 57,6 menit
+- C. 36 menit
 - D. 72 menit
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. Lupa keran kuras.
+- **A** — Benar. V = 1,2³ m³ = 1,728 m³ = 1.728 L. Debit netto = 2(24) − 18 = 48 − 18 = 30 L/menit. Waktu = 1.728 ÷ 30 = **57,6 menit**.
 - **B** — Salah. Tertukar dengan debit lain.
-- **C** — Benar. V = 1,2³ m³ = 1,728 m³ = 1.728 L. Debit netto = 2(24) − 18 = 48 − 18 = 30 L/menit. Waktu = 1.728 ÷ 30 = **57,6 menit**.
+- **C** — Salah. Lupa keran kuras.
 - **D** — Salah. Asumsi salah debit.
 
 ---

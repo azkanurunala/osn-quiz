@@ -914,15 +914,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **55.** Pak Andi punya 5 kantong masing-masing berisi 1,5 kg gula. Ia memberikan 2 kantong kepada tetangga. Berat gula yang masih dimiliki adalah ... gram.
-- A. 3.000 g
-- B. 4.500 g
+- A. 4.500 g
+- B. 3.000 g
 - C. 6.000 g
 - D. 7.500 g
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 3.000 g = berat 2 kantong yang diberikan (yang ditanya yang TERSISA).
-- **B** — Benar. Sisa = 5 − 2 = 3 kantong; 3 × 1,5 kg = 4,5 kg = **4.500 g**. ✅
+- **A** — Benar. Sisa = 5 − 2 = 3 kantong; 3 × 1,5 kg = 4,5 kg = **4.500 g**. ✅
+- **B** — 3.000 g = berat 2 kantong yang diberikan (yang ditanya yang TERSISA).
 - **C** — 6.000 g = anggap sisa 4 kantong.
 - **D** — 7.500 g = berat keseluruhan 5 kantong.
 
@@ -959,15 +959,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **58.** Sebuah dus berisi 24 botol minuman. Tiap botol beratnya 350 g. Berat dus dan minuman jika berat dus kosong 800 g adalah ... kg.
-- A. 8,4 kg
-- B. 9,2 kg
+- A. 9,2 kg
+- B. 8,4 kg
 - C. 7,6 kg
 - D. 8,8 kg
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 8,4 kg = berat minuman saja tanpa dus.
-- **B** — Benar. 24 × 350 = 8.400 g; + 800 g = 9.200 g = **9,2 kg**. ✅
+- **A** — Benar. 24 × 350 = 8.400 g; + 800 g = 9.200 g = **9,2 kg**. ✅
+- **B** — 8,4 kg = berat minuman saja tanpa dus.
 - **C** — 7,6 kg = malah mengurangi.
 - **D** — 8,8 kg = berat dus dianggap 400 g.
 
@@ -991,15 +991,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 **60.** Bu Mira ingin membagi 6 kg gula ke dalam kantong-kantong kecil berisi 250 g. Banyak kantong yang dibutuhkan adalah ...
 - A. 6 kantong
 - B. 15 kantong
-- C. 24 kantong
-- D. 240 kantong
+- C. 240 kantong
+- D. 24 kantong
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 6 kantong = membagi 6 ÷ 1 (lupa konversi).
 - **B** — 15 kantong = anggap 1 kantong = 400 g.
-- **C** — Benar. 6 kg = 6.000 g; 6.000 ÷ 250 = **24 kantong**. ✅
-- **D** — 240 kantong = anggap 6 kg = 60.000 g.
+- **C** — 240 kantong = anggap 6 kg = 60.000 g.
+- **D** — Benar. 6 kg = 6.000 g; 6.000 ÷ 250 = **24 kantong**. ✅
 
 ---
 
@@ -1019,15 +1019,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **62.** Pak Joko menjual hasil panen padi 2,5 ton, kakaknya 8 kuintal, dan adiknya 750 kg. Total panen dalam ton adalah ...
-- A. 3,55 ton
-- B. 4,05 ton
+- A. 4,05 ton
+- B. 3,55 ton
 - C. 11,25 ton
 - D. 35,5 ton
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 3,55 ton = anggap 750 kg = 0,05 ton.
-- **B** — Benar. 2,5 ton + 0,8 ton + 0,75 ton = **4,05 ton**. ✅
+- **A** — Benar. 2,5 ton + 0,8 ton + 0,75 ton = **4,05 ton**. ✅
+- **B** — 3,55 ton = anggap 750 kg = 0,05 ton.
 - **C** — 11,25 ton = anggap 8 kuintal = 8 ton.
 - **D** — 35,5 ton = anggap 750 kg = 7,5 ton.
 
@@ -1064,15 +1064,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **65.** Berat 1 lusin sabun adalah 1,2 kg. Berat 1 buah sabun adalah ... gram.
-- A. 10 g
-- B. 100 g
+- A. 100 g
+- B. 10 g
 - C. 120 g
 - D. 1.200 g
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 10 g = anggap 1 kg = 120 g, salah.
-- **B** — Benar. 1,2 kg = 1.200 g; 1 lusin = 12; 1.200 ÷ 12 = **100 g**. ✅
+- **A** — Benar. 1,2 kg = 1.200 g; 1 lusin = 12; 1.200 ÷ 12 = **100 g**. ✅
+- **B** — 10 g = anggap 1 kg = 120 g, salah.
 - **C** — 120 g = membagi 1.200 dengan 10 (salah hitung lusin).
 - **D** — 1.200 g = berat 1 lusin (yang ditanya 1 buah).
 
@@ -1081,15 +1081,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 **66.** Bu Indah memesan kue tart 1,5 kg dan diantar dengan kotak seberat 250 g. Berapa total berat paket dalam kg?
 - A. 1,55 kg
 - B. 1,65 kg
-- C. 1,75 kg
-- D. 4 kg
+- C. 4 kg
+- D. 1,75 kg
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 1,55 kg = anggap 250 g = 0,05 kg.
 - **B** — 1,65 kg = anggap 250 g = 0,15 kg.
-- **C** — Benar. 250 g = 0,25 kg; 1,5 + 0,25 = **1,75 kg**. ✅
-- **D** — 4 kg = anggap 250 g = 2,5 kg, salah arah.
+- **C** — 4 kg = anggap 250 g = 2,5 kg, salah arah.
+- **D** — Benar. 250 g = 0,25 kg; 1,5 + 0,25 = **1,75 kg**. ✅
 
 ---
 
@@ -1124,15 +1124,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **69.** Sebuah karung berisi 25 kg gula akan dibagi sama rata ke dalam 100 kantong. Berat gula tiap kantong adalah ... gram.
-- A. 25 g
-- B. 250 g
+- A. 250 g
+- B. 25 g
 - C. 2.500 g
 - D. 25.000 g
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 25 g = membagi 25 ÷ 100 = 0,25, lalu dianggap g.
-- **B** — Benar. 25 kg = 25.000 g; 25.000 ÷ 100 = **250 g**. ✅
+- **A** — Benar. 25 kg = 25.000 g; 25.000 ÷ 100 = **250 g**. ✅
+- **B** — 25 g = membagi 25 ÷ 100 = 0,25, lalu dianggap g.
 - **C** — 2.500 g = ÷ 10, salah hitung.
 - **D** — 25.000 g = tidak dibagi.
 
@@ -1141,28 +1141,28 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 **70.** Dalam 1 hari, sebuah pabrik memproduksi 4,5 ton tepung. Dalam 1 minggu (7 hari), produksi totalnya adalah ... kuintal.
 - A. 31,5 kuintal
 - B. 45 kuintal
-- C. 315 kuintal
-- D. 3.150 kuintal
+- C. 3.150 kuintal
+- D. 315 kuintal
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 31,5 kuintal = anggap 1 ton = 1 kuintal.
 - **B** — 45 kuintal = anggap 1 hari saja.
-- **C** — Benar. 4,5 × 7 = 31,5 ton; 31,5 ton = 31,5 × 10 = **315 kuintal**. ✅
-- **D** — 3.150 kuintal = × 100, salah hitung.
+- **C** — 3.150 kuintal = × 100, salah hitung.
+- **D** — Benar. 4,5 × 7 = 31,5 ton; 31,5 ton = 31,5 × 10 = **315 kuintal**. ✅
 
 ---
 
 **71.** Bu Tuti membeli 2,5 kg apel. Setelah ditimbang ulang ternyata kurang 50 g dari yang seharusnya. Berat apel sebenarnya yang diterima Bu Tuti adalah ... gram.
-- A. 2.000 g
-- B. 2.450 g
+- A. 2.450 g
+- B. 2.000 g
 - C. 2.495 g
 - D. 2.550 g
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 2.000 g = mengurangi 500 g, salah konversi.
-- **B** — Benar. 2,5 kg = 2.500 g; 2.500 − 50 = **2.450 g**. ✅
+- **A** — Benar. 2,5 kg = 2.500 g; 2.500 − 50 = **2.450 g**. ✅
+- **B** — 2.000 g = mengurangi 500 g, salah konversi.
 - **C** — 2.495 g = mengurangi 5 g, salah konversi.
 - **D** — 2.550 g = malah menambah 50 g.
 
@@ -1186,15 +1186,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 **73.** Berat sebuah motor 95 kg. Berapa berat motor dan dua orang dewasa (masing-masing 65 kg) dalam kuintal?
 - A. 0,225 kuintal
 - B. 1,6 kuintal
-- C. 2,25 kuintal
-- D. 22,5 kuintal
+- C. 22,5 kuintal
+- D. 2,25 kuintal
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 0,225 kuintal = ÷ 1.000 (tertukar dengan ton).
 - **B** — 1,6 kuintal = lupa motor.
-- **C** — Benar. 95 + 2 × 65 = 95 + 130 = 225 kg; 225 ÷ 100 = **2,25 kuintal**. ✅
-- **D** — 22,5 kuintal = ÷ 10, salah hitung.
+- **C** — 22,5 kuintal = ÷ 10, salah hitung.
+- **D** — Benar. 95 + 2 × 65 = 95 + 130 = 225 kg; 225 ÷ 100 = **2,25 kuintal**. ✅
 
 ---
 
@@ -1229,15 +1229,15 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 ---
 
 **76.** Dalam 6 bulan, kebun jeruk Pak Made menghasilkan 4,8 ton jeruk. Rata-rata panen per bulan adalah ... kuintal.
-- A. 0,8 kuintal
-- B. 8 kuintal
+- A. 8 kuintal
+- B. 0,8 kuintal
 - C. 80 kuintal
 - D. 800 kuintal
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 0,8 kuintal = anggap 4,8 ton = 4,8 kuintal.
-- **B** — Benar. 4,8 ton = 48 kuintal; 48 ÷ 6 = **8 kuintal**. ✅
+- **A** — Benar. 4,8 ton = 48 kuintal; 48 ÷ 6 = **8 kuintal**. ✅
+- **B** — 0,8 kuintal = anggap 4,8 ton = 4,8 kuintal.
 - **C** — 80 kuintal = × 10, salah hitung.
 - **D** — 800 kuintal = × 100, salah hitung.
 
@@ -1276,31 +1276,31 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 **79.** Berat seekor sapi A 7,2 kuintal, sapi B 850 kg, dan sapi C 0,9 ton. Sapi yang paling berat adalah ...
 - A. Sapi A (7,2 kuintal)
 - B. Sapi B (850 kg)
-- C. Sapi C (0,9 ton)
-- D. Ketiganya sama
+- C. Ketiganya sama
+- D. Sapi C (0,9 ton)
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 
 Samakan ke kg: A = 720 kg; B = 850 kg; C = 0,9 × 1.000 = 900 kg.
 
 - **A** — 720 kg = paling ringan, bukan paling berat.
 - **B** — 850 kg = di tengah.
-- **C** — Benar. 900 kg = **paling berat** dari ketiganya. ✅
-- **D** — Tidak sama; jelas berbeda jika dikonversi.
+- **C** — Tidak sama; jelas berbeda jika dikonversi.
+- **D** — Benar. 900 kg = **paling berat** dari ketiganya. ✅
 
 ---
 
 **80.** Bu Yuli berbelanja: 2 kg beras, 1,5 pon gula, 3 ons telur, dan 250 g cabe. Total belanjaan dalam gram adalah ...
-- A. 2.000 g
-- B. 3.300 g
+- A. 3.300 g
+- B. 2.000 g
 - C. 4.300 g
 - D. 1.000 g
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 2.000 g = hanya beras.
-- **B** — Benar. 2 kg = 2.000 g; 1,5 pon = 750 g; 3 ons = 300 g; 250 g; total = 2.000 + 750 + 300 + 250 = **3.300 g**. ✅
+- **A** — Benar. 2 kg = 2.000 g; 1,5 pon = 750 g; 3 ons = 300 g; 250 g; total = 2.000 + 750 + 300 + 250 = **3.300 g**. ✅
+- **B** — 2.000 g = hanya beras.
 - **C** — 4.300 g = anggap 1,5 pon = 1.500 g (= 1,5 kg).
 - **D** — 1.000 g = hanya gula + telur.
 
@@ -1347,18 +1347,18 @@ Target = 4,75 kg = 4.750 g.
 **83.** Lima karung beras memiliki berat berturut-turut: 48 kg, 51 kg, 49 kg, 52 kg, dan 50 kg. Rata-rata berat tiap karung dinyatakan dalam **kuintal** adalah ...
 - A. 0,005 kuintal
 - B. 0,05 kuintal
-- C. 0,5 kuintal
-- D. 5 kuintal
+- C. 5 kuintal
+- D. 0,5 kuintal
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
 
 Total = 48+51+49+52+50 = 250 kg. Rata-rata = 250 ÷ 5 = 50 kg = 50 ÷ 100 = 0,5 kuintal.
 
 - **A** — 0,005 kuintal = ÷ 10.000, kelebihan dua pembagian.
 - **B** — 0,05 kuintal = ÷ 1.000 (tertukar dengan ton).
-- **C** — Benar. 50 kg = **0,5 kuintal**. ✅
-- **D** — 5 kuintal = ÷ 10, salah hitung.
+- **C** — 5 kuintal = ÷ 10, salah hitung.
+- **D** — Benar. 50 kg = **0,5 kuintal**. ✅
 
 ---
 

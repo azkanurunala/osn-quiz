@@ -1167,31 +1167,31 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 ---
 
 **73.** Sebuah lapangan panjang 80 m, lebar 60 m. Keliling lapangan dalam km adalah ...
-- A. 0,28 km
-- B. 2,8 km
+- A. 2,8 km
+- B. 0,28 km
 - C. 280 km
 - D. 0,028 km
 
-**Kunci: A**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. K = 2 × (80 + 60) = 280 m = **0,28 km**. ✅
-- **B** — 2,8 km = ÷ 100 (salah jumlah tangga).
+- **A** — 2,8 km = ÷ 100 (salah jumlah tangga).
+- **B** — Benar. K = 2 × (80 + 60) = 280 m = **0,28 km**. ✅
 - **C** — 280 km = lupa konversi dari m (anggap m dan km sama).
 - **D** — 0,028 km = ÷ 10.000 (terlalu jauh).
 
 ---
 
-**74.** Ali membeli kawat 0,5 km, Budi 350 m, Cika 75 hm. Yang membeli paling banyak adalah ...
+**74.** Ali membeli kawat 0,5 km, Budi 350 m, dan Cika 75 hm. Yang membeli paling banyak adalah ...
 - A. Ali
-- B. Budi
-- C. Cika
+- B. Cika
+- C. Budi
 - D. Sama semua
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Ali 0,5 km = 500 m.
-- **B** — Budi = 350 m. Paling sedikit.
-- **C** — Benar. Cika 75 hm = 75 × 100 = **7.500 m**. Jauh lebih banyak. ✅
+- **A** — Ali 0,5 km = 500 m. Bukan paling banyak.
+- **B** — Benar. Cika 75 hm = 75 × 100 = **7.500 m**. Jauh lebih banyak. ✅
+- **C** — Budi = 350 m. Paling sedikit.
 - **D** — Sama semua = jelas tidak, karena nilai berbeda (500, 350, 7.500).
 
 ---
@@ -1227,15 +1227,15 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 ---
 
 **77.** Sebuah pipa panjang 4,2 m dipotong menjadi potongan 30 cm. Banyak potongan adalah ...
-- A. 140 potongan
-- B. 14 potongan
+- A. 14 potongan
+- B. 140 potongan
 - C. 1.400 potongan
 - D. 0,14 potongan
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 140 potongan = 4,2 × 100 ÷ 3 = 140 (anggap 30 cm = 3 cm). Salah hitung.
-- **B** — Benar. 4,2 m = 420 cm. 420 ÷ 30 = **14 potongan**. ✅
+- **A** — Benar. 4,2 m = 420 cm. 420 ÷ 30 = **14 potongan**. ✅
+- **B** — 140 potongan = 4,2 × 100 ÷ 3 = 140 (anggap 30 cm = 3 cm). Salah hitung.
 - **C** — 1.400 potongan = anggap 4,2 m = 4.200 cm. Salah konversi (m → mm).
 - **D** — 0,14 potongan = 4,2 ÷ 30 (tanpa konversi). Tidak masuk akal.
 
@@ -1258,15 +1258,15 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 
 **79.** Sebuah benang merah 250 cm dan benang putih 1,8 m disatukan. Total panjang benang dalam mm adalah ...
 - A. 430 mm
-- B. 4.300 mm
-- C. 43 mm
+- B. 43 mm
+- C. 4.300 mm
 - D. 43.000 mm
 
-**Kunci: B**
+**Kunci: C**
 **Pembahasan:**
 - **A** — 430 mm = 250 + 180 = 430, lupa konversi cm → mm.
-- **B** — Benar. 1,8 m = 180 cm. Total = 250 + 180 = 430 cm = **4.300 mm**. ✅
-- **C** — 43 mm = ÷ 10 (arah terbalik).
+- **B** — 43 mm = ÷ 10 (arah terbalik).
+- **C** — Benar. 1,8 m = 180 cm. Total = 250 + 180 = 430 cm = **4.300 mm**. ✅
 - **D** — 43.000 mm = × 100. Salah jumlah tangga (cm → mm hanya × 10).
 
 ---
@@ -1590,14 +1590,14 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 
 ## BAGIAN III · KUNCI JAWABAN RINGKAS
 
-| 1.B  | 2.D  | 3.A  | 4.C  | 5.D  | 6.A  | 7.C  | 8.B  | 9.B  | 10.B |
+| 1.C  | 2.D  | 3.D  | 4.C  | 5.D  | 6.D  | 7.C  | 8.D  | 9.D  | 10.D |
 |------|------|------|------|------|------|------|------|------|------|
-| 11.D | 12.A | 13.C | 14.A | 15.B | 16.A | 17.D | 18.B | 19.A | 20.C |
-| 21.B | 22.A | 23.D | 24.C | 25.B | 26.B | 27.C | 28.B | 29.B | 30.A |
-| 31.B | 32.D | 33.A | 34.B | 35.C | 36.A | 37.B | 38.C | 39.A | 40.C |
-| 41.C | 42.A | 43.B | 44.C | 45.B | 46.C | 47.C | 48.B | 49.D | 50.A |
+| 11.D | 12.D | 13.C | 14.D | 15.D | 16.A | 17.D | 18.C | 19.D | 20.C |
+| 21.D | 22.D | 23.D | 24.C | 25.B | 26.B | 27.C | 28.B | 29.D | 30.D |
+| 31.A | 32.D | 33.A | 34.C | 35.C | 36.A | 37.D | 38.C | 39.A | 40.C |
+| 41.C | 42.D | 43.D | 44.C | 45.C | 46.C | 47.C | 48.D | 49.D | 50.A |
 | 51.B | 52.B | 53.A | 54.B | 55.A | 56.A | 57.B | 58.A | 59.B | 60.A |
-| 61.B | 62.B | 63.C | 64.B | 65.A | 66.B | 67.A | 68.A | 69.B | 70.B |
+| 61.D | 62.C | 63.C | 64.B | 65.A | 66.B | 67.A | 68.A | 69.B | 70.C |
 | 71.B | 72.B | 73.A | 74.C | 75.B | 76.B | 77.B | 78.B | 79.B | 80.B |
 | 81.C | 82.C | 83.B | 84.A | 85.A | 86.B | 87.A | 88.B | 89.A | 90.A |
 | 91.B | 92.A | 93.A | 94.C | 95.B | 96.C | 97.A | 98.A | 99.A | 100.B |

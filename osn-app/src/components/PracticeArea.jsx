@@ -7,7 +7,8 @@ import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { fireMilestone } from '../utils/milestones';
 
-export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode }) {
+export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings }) {
+  const vpDefaults = settings?.videoProduction || {};
   const questions = questionsData?.questions || [];
   const theory = questionsData?.theory || [];
 
@@ -50,13 +51,13 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const positionInFilter = filteredIndices.indexOf(currentIndex);
   const filterTotal = filteredIndices.length;
 
-  const [timerEnabled, setTimerEnabled] = useState(false);
+  const [timerEnabled, setTimerEnabled] = useState(vpDefaults.timerEnabled ?? false);
   const [timeLeft, setTimeLeft] = useState(10);
   const [timerPhase, setTimerPhase] = useState('question');
-  const [autoPilot, setAutoPilot] = useState(false);
-  const [isMuted, setIsMuted] = useState(true);
-  const [volume, setVolume] = useState(0.4);
-  const [layoutSplit, setLayoutSplit] = useState(true);
+  const [autoPilot, setAutoPilot] = useState(vpDefaults.autoPilot ?? false);
+  const [isMuted, setIsMuted] = useState(vpDefaults.isMuted ?? true);
+  const [volume, setVolume] = useState(vpDefaults.volume ?? 0.4);
+  const [layoutSplit, setLayoutSplit] = useState(vpDefaults.layoutSplit ?? true);
 
   const [showIntro, setShowIntro] = useState(false);
   const [introTimeLeft, setIntroTimeLeft] = useState(3);
@@ -620,7 +621,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
             <div className="border-t border-gray-100 pt-4 flex justify-end">
               <button
-                onClick={() => { setIsCleanMode(true); setShowIntro(true); setIntroTimeLeft(3); }}
+                onClick={() => { setIsCleanMode(true); setShowIntro(vpDefaults.showIntro ?? true); setIntroTimeLeft(3); }}
                 className="bg-brand-primary hover:bg-brand-hover text-white font-extrabold px-6 py-2.5 rounded-2xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1.5"
               >
                 <Video className="w-3.5 h-3.5 fill-white animate-pulse" /> Mulai Rekam (Layar Bersih)

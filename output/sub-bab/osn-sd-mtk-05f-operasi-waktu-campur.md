@@ -142,32 +142,32 @@ Jawab: 2 jam 44 menit 35 detik ✅
 ### 🟢 SEKSI A · 50 Soal Tingkat Kabupaten (No. 1–50)
 
 **1.** Hasil dari 2 jam 30 menit + 1 jam 15 menit adalah …
-- A. 3 jam 45 menit
-- B. 4 jam 45 menit
-- C. 3 jam 15 menit
-- D. 4 jam 15 menit
+- A. 4 jam 45 menit
+- B. 3 jam 15 menit
+- C. 4 jam 15 menit
+- D. 3 jam 45 menit
 
-**Kunci: A**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Benar. Jam: 2 + 1 = 3. Menit: 30 + 15 = 45. Hasil **3 jam 45 menit**. ✅
-- **B** — 4 jam 45 = ditambahkan 1 jam lagi tanpa alasan.
-- **C** — 3 jam 15 = mengurangi menit, bukan menjumlahkan.
-- **D** — 4 jam 15 = mencampur kedua kesalahan di atas.
+- **A** — 4 jam 45 = ditambahkan 1 jam lagi tanpa alasan.
+- **B** — 3 jam 15 = mengurangi menit, bukan menjumlahkan.
+- **C** — 4 jam 15 = mencampur kedua kesalahan di atas.
+- **D** — Benar. Jam: 2 + 1 = 3. Menit: 30 + 15 = 45. Hasil **3 jam 45 menit**. ✅
 
 ---
 
 **2.** 1 jam 50 menit + 2 jam 20 menit = …
 - A. 3 jam 70 menit
-- B. 4 jam 10 menit
-- C. 3 jam 30 menit
-- D. 4 jam 70 menit
+- B. 3 jam 30 menit
+- C. 4 jam 70 menit
+- D. 4 jam 10 menit
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 3 jam 70 menit tidak sah karena menit ≥ 60. Harus disimpan menjadi 1 jam.
-- **B** — Benar. Jam 1+2 = 3, menit 50+20 = 70. 70 menit = 1 jam 10 menit. Total = 3+1 = 4 jam 10 menit. ✅
-- **C** — 3 jam 30 = lupa menjumlahkan menit (50+20) dengan benar.
-- **D** — 4 jam 70 = sudah menyimpan tetapi lupa membuang 60 menit.
+- **B** — 3 jam 30 = lupa menjumlahkan menit (50+20) dengan benar.
+- **C** — 4 jam 70 = sudah menyimpan tetapi lupa membuang 60 menit.
+- **D** — Benar. Jam 1+2 = 3, menit 50+20 = 70. 70 menit = 1 jam 10 menit. Total = 3+1 = **4 jam 10 menit**. ✅
 
 ---
 
@@ -202,32 +202,32 @@ Jawab: 2 jam 44 menit 35 detik ✅
 ---
 
 **5.** Andi belajar dari pukul 19.00 sampai pukul 21.30. Berapa lama Andi belajar?
-- A. 2 jam 30 menit
-- B. 2 jam 0 menit
-- C. 3 jam 30 menit
-- D. 1 jam 30 menit
+- A. 1 jam 30 menit
+- B. 3 jam 30 menit
+- C. 2 jam 0 menit
+- D. 2 jam 30 menit
 
-**Kunci: A**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Benar. 21.30 − 19.00 = 2 jam 30 menit. ✅
-- **B** — 2 jam = lupa selisih menit.
-- **C** — 3 jam 30 = jumlah dua jam (19+2 = 21, mengira selisih = 3+0.5).
-- **D** — 1 jam 30 = mengurangi 30 menit malah ditambahkan ke 1.
+- **A** — 1 jam 30 = mengurangi 30 menit malah ditambahkan ke 1.
+- **B** — 3 jam 30 = jumlah dua jam (19+2 = 21, mengira selisih = 3+0.5).
+- **C** — 2 jam = lupa selisih menit.
+- **D** — Benar. 21.30 − 19.00 = **2 jam 30 menit**. ✅
 
 ---
 
 **6.** Ibu memasak selama 1 jam 45 menit, lalu menyetrika 35 menit. Total waktu yang digunakan Ibu adalah …
 - A. 1 jam 80 menit
-- B. 2 jam 20 menit
-- C. 2 jam 80 menit
-- D. 2 jam 0 menit
+- B. 2 jam 80 menit
+- C. 2 jam 0 menit
+- D. 2 jam 20 menit
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 1 jam 80 menit tidak baku, harus disimpan jadi 2 jam 20 menit.
-- **B** — Benar. 45 + 35 = 80 menit = 1 jam 20 menit. Tambah 1 jam = **2 jam 20 menit**. ✅
-- **C** — 2 jam 80 = salah hitung total menit.
-- **D** — 2 jam 0 = membulatkan sembarang.
+- **B** — 2 jam 80 = salah hitung total menit.
+- **C** — 2 jam 0 = membulatkan sembarang.
+- **D** — Benar. 45 + 35 = 80 menit = 1 jam 20 menit. Tambah 1 jam = **2 jam 20 menit**. ✅
 
 ---
 
@@ -263,16 +263,16 @@ Jawab: 2 jam 44 menit 35 detik ✅
 
 **9.** Rina mulai mengerjakan PR pukul 16.40 dan selesai 1 jam 25 menit kemudian. Pukul berapa Rina selesai?
 - A. 17.65
-- B. 18.05
-- C. 18.15
-- D. 17.05
+- B. 18.15
+- C. 17.05
+- D. 18.05
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 17.65 tidak sah (menit ≥ 60). Harus disimpan ke jam.
-- **B** — Benar. Menit 40 + 25 = 65 → 1 jam 5 menit. Jam 16 + 1 + 1 = 18. Jadi **18.05**. ✅
-- **C** — 18.15 = menit dijumlahkan salah (40+25 dianggap 75 dikurang 60).
-- **D** — 17.05 = lupa menambahkan 1 jam dari simpanan menit.
+- **B** — 18.15 = menit dijumlahkan salah (40+25 dianggap 75 dikurang 60).
+- **C** — 17.05 = lupa menambahkan 1 jam dari simpanan menit.
+- **D** — Benar. Menit 40 + 25 = 65 → 1 jam 5 menit. Jam 16 + 1 + 1 = 18. Jadi **18.05**. ✅
 
 ---
 
@@ -293,16 +293,16 @@ Jawab: 2 jam 44 menit 35 detik ✅
 
 **11.** Pukul 09.40 + 2 jam 50 menit = …
 - A. 11.90
-- B. 12.30
-- C. 12.20
-- D. 11.30
+- B. 12.20
+- C. 11.30
+- D. 12.30
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 - **A** — 11.90 tidak sah, menit ≥ 60.
-- **B** — Benar. Menit 40+50 = 90 → 1 jam 30 menit. Jam 9+2+1 = 12. Jadi **12.30**. ✅
-- **C** — 12.20 = salah jumlah menit (40+50 dianggap 80, sisa 20).
-- **D** — 11.30 = lupa menambah 1 jam dari simpanan menit.
+- **B** — 12.20 = salah jumlah menit (40+50 dianggap 80, sisa 20).
+- **C** — 11.30 = lupa menambah 1 jam dari simpanan menit.
+- **D** — Benar. Menit 40+50 = 90 → 1 jam 30 menit. Jam 9+2+1 = 12. Jadi **12.30**. ✅
 
 ---
 
@@ -322,17 +322,17 @@ Jawab: 2 jam 44 menit 35 detik ✅
 ---
 
 **13.** Hasil dari 1 jam 35 menit + 2 jam 50 menit + 1 jam 5 menit adalah …
-- A. 5 jam 30 menit
-- B. 4 jam 30 menit
-- C. 5 jam 0 menit
-- D. 4 jam 90 menit
+- A. 4 jam 30 menit
+- B. 5 jam 0 menit
+- C. 4 jam 90 menit
+- D. 5 jam 30 menit
 
-**Kunci: A**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Benar. Jam 1+2+1 = 4. Menit 35+50+5 = 90 → 1 jam 30 menit. Total 4+1 = **5 jam 30 menit**. ✅
-- **B** — 4 jam 30 = lupa menyimpan 1 jam.
-- **C** — 5 jam = abaikan sisa 30 menit setelah simpan.
-- **D** — 4 jam 90 menit tidak sah (≥ 60).
+- **A** — 4 jam 30 = lupa menyimpan 1 jam.
+- **B** — 5 jam = abaikan sisa 30 menit setelah simpan.
+- **C** — 4 jam 90 menit tidak sah (≥ 60).
+- **D** — Benar. Jam 1+2+1 = 4. Menit 35+50+5 = 90 → 1 jam 30 menit. Total 4+1 = **5 jam 30 menit**. ✅
 
 ---
 
@@ -1555,35 +1555,33 @@ Jawab: 2 jam 44 menit 35 detik ✅
 
 ---
 
-**95.** Dalam selang waktu 1 jam, jarum jam dan jarum menit dari jam analog berhimpit sebanyak … kali (rata-rata).
-- A. 2
-- B. 0
-- C. 1
-- D. 1,09
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 2 = mengira berhimpit di awal dan akhir.
-- **B** — 0 = mengira tidak pernah berhimpit.
-- **C** — 1 = jawaban kasar.
-- **D** — Benar. Dalam 12 jam berhimpit 11 kali. Rata-rata per jam = 11/12 ≈ 0,917 kali. Atau jika dihitung dalam 1 jam tertentu, kadang 1 kali kadang 0 kali. Koreksi: jawaban yang tepat secara rata-rata 12 jam = 11/12 ≈ 0,917, paling dekat opsi C (1). Karena tidak persis, kunci dipertahankan namun secara matematis jawaban benar adalah ≈ 0,917 atau **C. 1** sebagai pembulatan.
-
-> Catatan: koreksi pada nomor ini — jawaban yang lebih tepat (pembulatan dari 11/12 = 0,917) adalah **C. 1**.
-
----
-
-**96.** Pada hari Sabtu pukul 22.18, sebuah jam tepat menunjukkan waktu sebenarnya. Jam tersebut maju 12 detik tiap jam. Pukul berapa (waktu sebenarnya) saat jam menunjukkan pukul 22.18 keesokan hari (Minggu)?
-- A. 22.13.12
-- B. 22.13.48
-- C. 22.22.48
-- D. 22.04.48
+**95.** Dalam selang waktu 12 jam, jarum jam dan jarum menit dari jam analog berhimpit sebanyak … kali.
+- A. 10
+- B. 11
+- C. 12
+- D. 13
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 22.13.12 = salah hitung.
-- **B** — Benar. Dalam waktu sebenarnya 24 jam, jam menunjukkan 24 × 60 menit + 24 × 12 detik = 1440 menit 288 detik = 24 jam 4 menit 48 detik. Maka saat jam menunjukkan 22.18 keesokan hari, waktu sebenarnya = Sabtu 22.18 + (24 jam − 4 menit 48 detik) = Minggu 22.13.12. Koreksi: jawaban yang benar adalah **A. 22.13.12**.
+- **A** — 10 = lupa menghitung satu kemunculan.
+- **B** — Benar. Jarum menit memutar 12 kali penuh dalam 12 jam, sedangkan jarum jam memutar 1 kali penuh. Selisih putaran = 12 − 1 = 11 putaran. Setiap putaran selisih menghasilkan satu kebersamaan, sehingga jarum berhimpit **11 kali** dalam 12 jam. ✅ (Kira-kira tiap 65 menit 27 detik.)
+- **C** — 12 = mengira tiap jam pasti berhimpit sekali (padahal sekitar pukul 11.00–12.00 tidak ada kebersamaan baru sebelum pukul 12.00).
+- **D** — 13 = salah hitung kelebihan.
 
-> Catatan: koreksi pada nomor ini — jawaban yang benar adalah **A. 22.13.12**.
+---
+
+**96.** Pada hari Sabtu pukul 22.18.00, sebuah jam tepat menunjukkan waktu sebenarnya. Jam tersebut **maju** 12 detik setiap jam. Setelah waktu sebenarnya berjalan tepat 24 jam (Minggu pukul 22.18.00 waktu sebenarnya), jam tersebut menunjukkan pukul …
+- A. 22.13.12
+- B. 22.18.00
+- C. 22.22.48
+- D. 22.23.48
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — 22.13.12 = mengira jam **mundur**, bukan maju.
+- **B** — 22.18.00 = melupakan akumulasi kelebihan 12 detik per jam.
+- **C** — Benar. Dalam waktu sebenarnya 24 jam, jam itu maju 24 × 12 detik = 288 detik = 4 menit 48 detik. Maka jam menunjukkan 22.18.00 + 4 menit 48 detik = **22.22.48**. ✅
+- **D** — 22.23.48 = salah hitung kelipatan (mengira 25 × 12 detik).
 
 ---
 
@@ -1617,20 +1615,18 @@ Jawab: 2 jam 44 menit 35 detik ✅
 
 ---
 
-**99.** Sebuah jam analog menunjukkan pukul 09.00 saat ini. Berapa derajat akan dilalui jarum menit dari pukul 09.00 sampai jarum menit dan jarum jam pertama kali berhimpit lagi?
-- A. ≈ 294,5°
-- B. ≈ 270°
+**99.** Sebuah jam analog menunjukkan pukul 09.00 saat ini. Berapa derajat sudut yang akan dilalui jarum menit dari pukul 09.00 sampai jarum menit dan jarum jam pertama kali berhimpit lagi?
+- A. ≈ 270°
+- B. ≈ 294,5°
 - C. ≈ 300°
 - D. ≈ 327,3°
 
-**Kunci: D**
+**Kunci: B**
 **Pembahasan:**
-- **A** — 294,5° = salah hitung.
-- **B** — 270° = mengira pukul 12.00, padahal jam terlebih dahulu berhimpit di sekitar 09.49.
-- **C** — 300° = salah hitung.
-- **D** — Benar. Pada pukul 9.00, jarum jam di 270° dari atas (kalau menit di 0°). Selisih = 270°. Jarum menit bergerak 6°/menit; jarum jam 0,5°/menit. Selisih menyusut 5,5°/menit. Waktu = 270 / 5,5 ≈ 49,09 menit. Sudut jarum menit = 49,09 × 6° ≈ **294,5°**. Koreksi: jawaban yang benar adalah **A. ≈ 294,5°**.
-
-> Catatan: koreksi pada nomor ini — jawaban yang benar adalah **A. ≈ 294,5°**.
+- **A** — ≈ 270° = mengira jarum menit hanya perlu mengejar selisih awal 270°, padahal jarum jam juga ikut bergerak maju.
+- **B** — Benar. Pada pukul 09.00, jarum jam di 270° (diukur searah jarum jam dari atas) dan jarum menit di 0°. Jarum menit bergerak 6°/menit; jarum jam 0,5°/menit. Selisih menyusut 5,5°/menit. Waktu sampai berhimpit = 270 / 5,5 ≈ 49,09 menit. Sudut yang dilalui jarum menit = 49,09 × 6° ≈ **294,5°**. ✅
+- **C** — ≈ 300° = pembulatan kasar tanpa rumus.
+- **D** — ≈ 327,3° = salah pakai pembagi 4,5°/menit alih-alih 5,5°/menit.
 
 ---
 
