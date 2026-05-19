@@ -1,57 +1,67 @@
-import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen } from 'lucide-react';
+import { useState, useMemo } from 'react';
+import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen, Zap, X } from 'lucide-react';
+import DailyChallenge from './DailyChallenge';
+import ActivityHeatmap from './ActivityHeatmap';
+import QuickQuiz from './QuickQuiz';
+import { buildRoadmap, labelOf } from '../hooks/useSubBabData';
 
-const IPA_ROADMAP = [
-  { id: 'ipa-01', title: 'Ciri Makhluk Hidup', questionsCount: 100 },
-  { id: 'ipa-02', title: 'Sistem Organ Manusia', questionsCount: 100 },
-  { id: 'ipa-03', title: 'Gaya & Gerak', questionsCount: 100 },
-  { id: 'ipa-04b', title: 'Optika & Cermin', questionsCount: 100 },
-  { id: 'ipa-04c', title: 'Pembiasan Lensa', questionsCount: 100 },
-  { id: 'ipa-05', title: 'Bumi & Antariksa', questionsCount: 100 }
-];
-
-const MATH_ROADMAP = [
-  { id: 'mtk-01', title: 'Bilangan & Operasi', questionsCount: 100 },
-  { id: 'mtk-02', title: 'Pecahan & Persentase', questionsCount: 100 },
-  { id: 'mtk-03', title: 'Geometri Bidang Datar', questionsCount: 100 },
-  { id: 'mtk-04', title: 'Geometri Bangun Ruang', questionsCount: 100 },
-  { id: 'mtk-05', title: 'Aritmetika Sosial', questionsCount: 100 }
-];
-
-const AVAILABLE_CONTENT = new Set(['ipa-04b']);
-
-function decorate(items, progress) {
+function decorateFromManifest(metaList, progress) {
   let firstUnstartedSeen = false;
-  return items.map((item) => {
-    const p = progress?.[item.id];
+  return metaList.map((m) => {
+    const id = m.subBab || m.chapter;
+    const total = m.questionCount || 100;
+    const p = progress?.[id];
     const answered = p?.answered ? Object.keys(p.answered).length : 0;
-    const pct = p?.completed ? 100 : Math.min(100, Math.round((answered / item.questionsCount) * 100));
+    const pct = p?.completed ? 100 : Math.min(100, Math.round((answered / total) * 100));
     const completed = !!p?.completed || pct >= 100;
-    const hasContent = AVAILABLE_CONTENT.has(item.id);
     let active = false;
-    if (!completed && hasContent && !firstUnstartedSeen) {
+    if (!completed && !firstUnstartedSeen) {
       active = true;
       firstUnstartedSeen = true;
     }
     return {
-      ...item,
+      id,
+      title: labelOf(m),
+      questionsCount: total,
       progress: pct,
       completed,
       active,
-      locked: !hasContent && !completed,
+      locked: false,
     };
   });
 }
 
-export default function Dashboard({ stats, progress, onSelectSubBab }) {
-  const ipaRoadmap = decorate(IPA_ROADMAP, progress);
-  const mathRoadmap = decorate(MATH_ROADMAP, progress);
+export default function Dashboard({ stats, progress, manifest, manifestLoading, onSelectSubBab, onAddXp, questionsData }) {
+  const [quickQuizOpen, setQuickQuizOpen] = useState(false);
+  const grouped = useMemo(() => buildRoadmap(manifest), [manifest]);
+  const ipaRoadmap = useMemo(() => decorateFromManifest(grouped.ipa || [], progress), [grouped.ipa, progress]);
+  const mathRoadmap = useMemo(() => decorateFromManifest(grouped.mtk || [], progress), [grouped.mtk, progress]);
 
-  const next = ipaRoadmap.find((x) => x.active) || mathRoadmap.find((x) => x.active) || ipaRoadmap[0];
+  const next = ipaRoadmap.find((x) => x.active) || mathRoadmap.find((x) => x.active) || ipaRoadmap[0] || mathRoadmap[0] || { id: 'ipa-04b', title: 'Optika & Cermin', progress: 0 };
+  const showRoadmapPlaceholder = manifestLoading && !manifest;
   const xpToNextLevel = 250 - (stats.xp % 250);
   const level = Math.floor((stats.xp || 0) / 250) + 1;
 
   return (
-    <div className="space-y-8 animate-fade-in">
+    <div className="space-y-8 animate-fade-in relative">
+      {quickQuizOpen && (
+        <div className="fixed inset-0 z-50 bg-black/40 backdrop-blur-sm flex items-start justify-center overflow-y-auto p-4 sm:p-8 animate-fade-in">
+          <div className="relative w-full max-w-xl mx-auto">
+            <button
+              onClick={() => setQuickQuizOpen(false)}
+              className="absolute -top-2 -right-2 z-10 w-9 h-9 rounded-full bg-white border border-gray-200 hover:bg-gray-50 flex items-center justify-center shadow-md"
+              aria-label="Tutup"
+            >
+              <X className="w-4 h-4 text-gray-600" />
+            </button>
+            <QuickQuiz
+              questionsData={questionsData}
+              onComplete={({ score }) => { onAddXp?.(score * 5); setQuickQuizOpen(false); }}
+              onCancel={() => setQuickQuizOpen(false)}
+            />
+          </div>
+        </div>
+      )}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
         <div className="md:col-span-2 glass-card rounded-3xl p-6 relative overflow-hidden flex flex-col justify-between">
           <div className="absolute right-0 top-0 w-32 h-32 bg-red-500/10 rounded-full blur-2xl"></div>
@@ -66,17 +76,26 @@ export default function Dashboard({ stats, progress, onSelectSubBab }) {
                 : 'Mulai latihan pertamamu hari ini untuk membuka streak dan koleksi medali.'}
             </p>
           </div>
-          <div className="mt-6 flex items-center justify-between">
+          <div className="mt-6 flex items-center justify-between gap-3 flex-wrap">
             <div className="flex items-center gap-2">
               <Compass className="text-brand-accent animate-spin-slow w-5 h-5" />
               <span className="text-sm font-semibold">Tujuan Berikutnya: {next.title}</span>
             </div>
-            <button
-              onClick={() => onSelectSubBab(next.id)}
-              className="bg-brand-primary hover:bg-brand-hover text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1 shadow-md shadow-red-500/20"
-            >
-              {next.progress > 0 ? 'Lanjutkan' : 'Mulai Belajar'} <ChevronRight className="w-4 h-4" />
-            </button>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => setQuickQuizOpen(true)}
+                className="bg-white/80 hover:bg-white text-brand-accent border border-brand-accent/30 px-3 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1 shadow-sm"
+                title="5 soal acak — selesai dalam 2 menit"
+              >
+                <Zap className="w-3.5 h-3.5 fill-brand-accent" /> Kuis Kilat
+              </button>
+              <button
+                onClick={() => onSelectSubBab(next.id)}
+                className="bg-brand-primary hover:bg-brand-hover text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1 shadow-md shadow-red-500/20"
+              >
+                {next.progress > 0 ? 'Lanjutkan' : 'Mulai Belajar'} <ChevronRight className="w-4 h-4" />
+              </button>
+            </div>
           </div>
         </div>
 
@@ -115,6 +134,8 @@ export default function Dashboard({ stats, progress, onSelectSubBab }) {
         </div>
       </div>
 
+      <DailyChallenge questionsData={questionsData} onAddXp={onAddXp} />
+
       <div className="glass-card rounded-3xl p-6">
         <h3 className="text-lg font-bold font-heading mb-4 flex items-center gap-2">
           <Award className="text-yellow-500 w-5 h-5" /> Koleksi Medali OSN Anda
@@ -137,6 +158,10 @@ export default function Dashboard({ stats, progress, onSelectSubBab }) {
           </div>
         </div>
       </div>
+
+      {showRoadmapPlaceholder ? (
+        <div className="glass-card rounded-3xl p-10 text-center text-gray-400 text-sm">Memuat daftar bab dan sub-bab…</div>
+      ) : null}
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <RoadmapColumn
@@ -161,6 +186,8 @@ export default function Dashboard({ stats, progress, onSelectSubBab }) {
           onSelect={onSelectSubBab}
         />
       </div>
+
+      <ActivityHeatmap />
     </div>
   );
 }

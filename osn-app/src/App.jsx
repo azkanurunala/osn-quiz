@@ -4,14 +4,26 @@ import Dashboard from './components/Dashboard';
 import PracticeArea from './components/PracticeArea';
 import TryoutArea from './components/TryoutArea';
 import Analytics from './components/Analytics';
-import questionsData from './data/questions.json';
+import OnboardingTour from './components/OnboardingTour';
+import ShortcutHelp from './components/ShortcutHelp';
+import SplashScreen from './components/SplashScreen';
+import PomodoroTimer from './components/PomodoroTimer';
 import { usePersistedState } from './hooks/usePersistedState';
 import { tickStreak } from './utils/streak';
+import { fireLevelUp } from './utils/milestones';
+import { useManifest, useSubBabData } from './hooks/useSubBabData';
+import { LanguageToggle, useT } from './i18n';
 
 export default function App() {
+  const t = useT();
   const [currentTab, setCurrentTab] = useState('dashboard');
   const [selectedSubBab, setSelectedSubBab] = useState(null);
   const [isCleanMode, setIsCleanMode] = useState(false);
+
+  const { manifest, loading: manifestLoading } = useManifest();
+  const defaultSubBabId = manifest?.items?.find((i) => i.type === 'subbab')?.subBab || 'ipa-04b';
+  const effectiveSubBabId = selectedSubBab || defaultSubBabId;
+  const { data: questionsData, loading: dataLoading } = useSubBabData(effectiveSubBabId, manifest);
 
   const [stats, setStats] = usePersistedState('osn-stats', {
     xp: 0,
@@ -27,7 +39,14 @@ export default function App() {
   }, [setStats]);
 
   const handleAddXp = useCallback((amount) => {
-    setStats(prev => ({ ...prev, xp: (prev.xp || 0) + amount }));
+    setStats(prev => {
+      const prevXp = prev.xp || 0;
+      const newXp = prevXp + amount;
+      const prevLevel = Math.floor(prevXp / 250);
+      const newLevel = Math.floor(newXp / 250);
+      if (newLevel > prevLevel) fireLevelUp();
+      return { ...prev, xp: newXp };
+    });
   }, [setStats]);
 
   const handleAddMedal = useCallback((type) => {
@@ -61,6 +80,11 @@ export default function App() {
   return (
     <div className="min-h-screen bg-mesh flex flex-col font-sans">
 
+      <SplashScreen durationMs={1800} />
+      {!isCleanMode && <OnboardingTour />}
+      {!isCleanMode && <ShortcutHelp />}
+      {!isCleanMode && <PomodoroTimer />}
+
       {!isCleanMode && (
         <header className="sticky top-0 z-40 w-full bg-white/70 backdrop-blur-md border-b border-gray-100 px-6 py-4">
           <div className="max-w-7xl mx-auto flex items-center justify-between">
@@ -70,7 +94,7 @@ export default function App() {
               </div>
               <div>
                 <h1 className="text-base font-black font-heading tracking-tight text-gray-800 m-0 leading-none">OSN-SD Prep</h1>
-                <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest leading-none">Adaptive Learning</span>
+                <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest leading-none">{t('adaptive_learning', 'Adaptive Learning')}</span>
               </div>
             </div>
 
@@ -81,7 +105,7 @@ export default function App() {
                   currentTab === 'dashboard' ? 'bg-white text-brand-primary shadow-sm' : 'text-gray-500 hover:text-gray-800'
                 }`}
               >
-                <Compass className="w-4 h-4" /> Roadmap Belajar
+                <Compass className="w-4 h-4" /> {t('roadmap_belajar', 'Roadmap Belajar')}
               </button>
               <button
                 onClick={() => { setCurrentTab('tryout'); setSelectedSubBab(null); tickEngagement(); }}
@@ -89,7 +113,7 @@ export default function App() {
                   currentTab === 'tryout' ? 'bg-white text-brand-primary shadow-sm' : 'text-gray-500 hover:text-gray-800'
                 }`}
               >
-                <Clock className="w-4 h-4" /> Tryout Mandiri
+                <Clock className="w-4 h-4" /> {t('tryout_mandiri', 'Tryout Mandiri')}
               </button>
               <button
                 onClick={() => { setCurrentTab('analytics'); setSelectedSubBab(null); }}
@@ -97,14 +121,15 @@ export default function App() {
                   currentTab === 'analytics' ? 'bg-white text-brand-primary shadow-sm' : 'text-gray-500 hover:text-gray-800'
                 }`}
               >
-                <BarChart3 className="w-4 h-4" /> Analitik Belajar
+                <BarChart3 className="w-4 h-4" /> {t('analitik_belajar', 'Analitik Belajar')}
               </button>
             </nav>
 
             <div className="flex items-center gap-3">
+              <LanguageToggle />
               <div className="flex items-center gap-1 bg-orange-100 text-orange-600 px-3 py-1.5 rounded-xl font-extrabold text-xs">
                 <Flame className="w-4 h-4 fill-orange-500 text-orange-500" />
-                <span>{stats.streak} Hari</span>
+                <span>{stats.streak} {t('hari', 'Hari')}</span>
               </div>
               <div className="flex items-center gap-1 bg-yellow-100 text-yellow-700 px-3 py-1.5 rounded-xl font-extrabold text-xs">
                 <Star className="w-4 h-4 fill-yellow-500 text-yellow-500" />
@@ -117,20 +142,32 @@ export default function App() {
 
       <main className={`flex-1 max-w-7xl w-full mx-auto px-6 ${isCleanMode ? 'py-4' : 'py-8 pb-24 md:pb-8'}`}>
         {currentTab === 'dashboard' && (
-          <Dashboard stats={stats} progress={progress} onSelectSubBab={handleSelectSubBab} />
+          <Dashboard
+            stats={stats}
+            progress={progress}
+            manifest={manifest}
+            manifestLoading={manifestLoading}
+            onSelectSubBab={handleSelectSubBab}
+            onAddXp={handleAddXp}
+            questionsData={questionsData}
+          />
         )}
 
         {currentTab === 'practice' && (
-          <PracticeArea
-            subBabId={selectedSubBab}
-            questionsData={questionsData}
-            subBabProgress={progress[selectedSubBab]}
-            onUpdateProgress={(updater) => handleSubBabProgress(selectedSubBab, updater)}
-            onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); }}
-            onAddXp={handleAddXp}
-            isCleanMode={isCleanMode}
-            setIsCleanMode={setIsCleanMode}
-          />
+          dataLoading || !questionsData ? (
+            <div className="text-center p-12 text-gray-400 text-sm">Memuat materi…</div>
+          ) : (
+            <PracticeArea
+              subBabId={selectedSubBab}
+              questionsData={questionsData}
+              subBabProgress={progress[selectedSubBab]}
+              onUpdateProgress={(updater) => handleSubBabProgress(selectedSubBab, updater)}
+              onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); }}
+              onAddXp={handleAddXp}
+              isCleanMode={isCleanMode}
+              setIsCleanMode={setIsCleanMode}
+            />
+          )
         )}
 
         {currentTab === 'tryout' && (
@@ -142,7 +179,14 @@ export default function App() {
         )}
 
         {currentTab === 'analytics' && (
-          <Analytics stats={stats} progress={progress} onResetProgress={handleResetProgress} />
+          <Analytics
+            stats={stats}
+            progress={progress}
+            manifest={manifest}
+            onResetProgress={handleResetProgress}
+            questionsData={questionsData}
+            onJumpToSubBab={handleSelectSubBab}
+          />
         )}
       </main>
 
@@ -150,9 +194,9 @@ export default function App() {
       {!isCleanMode && (
         <nav className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-white/85 backdrop-blur-md border-t border-gray-100 px-2 py-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] flex items-center justify-around">
           {[
-            { id: 'dashboard', icon: Compass, label: 'Roadmap' },
-            { id: 'tryout', icon: Clock, label: 'Tryout' },
-            { id: 'analytics', icon: BarChart3, label: 'Analitik' },
+            { id: 'dashboard', icon: Compass, label: t('roadmap_belajar', 'Roadmap').split(' ')[0] },
+            { id: 'tryout', icon: Clock, label: t('tryout_mandiri', 'Tryout').split(' ')[0] },
+            { id: 'analytics', icon: BarChart3, label: t('analitik_belajar', 'Analitik').split(' ')[0] },
           ].map(({ id, icon: Icon, label }) => {
             const active = currentTab === id;
             return (

@@ -2,6 +2,10 @@ import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { ChevronLeft, ChevronRight, HelpCircle, CheckCircle, XCircle, Lightbulb, Compass, Volume2, VolumeX, ToggleLeft, ToggleRight, Settings, Video, BookOpen, GraduationCap, ListChecks, Keyboard, Filter } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { InlineMarkdown, MarkdownText } from '../utils/markdown.jsx';
+import { logActivity } from '../utils/activityLog';
+import { recordReview } from '../utils/spacedRepetition';
+import { BookmarkButton } from '../features/bookmarks';
+import { fireMilestone } from '../utils/milestones';
 
 export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode }) {
   const questions = questionsData?.questions || [];
@@ -141,7 +145,21 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       if (!wasAnswered && correct) newCorrect += 1;
       else if (wasAnswered && !wasCorrect && correct) newCorrect += 1;
       else if (wasAnswered && wasCorrect && !correct) newCorrect = Math.max(0, newCorrect - 1);
+      const prevAnsweredCount = prev.answered ? Object.keys(prev.answered).length : 0;
       const totalAnsweredCount = Object.keys(newAnswered).length;
+
+      // Milestone celebrations: only fire when *newly* crossing a threshold this answer
+      if (!wasAnswered && questions.length > 0) {
+        const prevPct = Math.round((prevAnsweredCount / questions.length) * 100);
+        const newPct = Math.round((totalAnsweredCount / questions.length) * 100);
+        for (const threshold of [25, 50, 75, 100]) {
+          if (prevPct < threshold && newPct >= threshold) {
+            fireMilestone(threshold);
+            break;
+          }
+        }
+      }
+
       return {
         ...prev,
         lastIndex: idx,
@@ -163,8 +181,10 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 }, colors: ['#e53935', '#3b82f6', '#10b981', '#eab308'] });
     }
     recordAnswer(currentIndex, selectedOption, correct);
+    logActivity(1);
+    if (subBabId) recordReview(subBabId, currentIndex, correct);
     if (timerEnabled) { setTimerPhase('explanation'); setTimeLeft(15); }
-  }, [selectedOption, isChecked, currentQuestion, currentIndex, timerEnabled, onAddXp, recordAnswer]);
+  }, [selectedOption, isChecked, currentQuestion, currentIndex, timerEnabled, onAddXp, recordAnswer, subBabId]);
 
   const handleNextQuestion = useCallback(() => {
     const pos = filteredIndices.indexOf(currentIndex);
@@ -637,9 +657,12 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               )}
 
               <div className="space-y-3">
-                <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider font-sans">
-                  {currentQuestion.subTopic || 'Topik Utama'}
-                </span>
+                <div className="flex items-center justify-between gap-2">
+                  <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider font-sans">
+                    {currentQuestion.subTopic || 'Topik Utama'}
+                  </span>
+                  {subBabId && <BookmarkButton subBabId={subBabId} qIndex={currentIndex} />}
+                </div>
                 <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-800">
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>

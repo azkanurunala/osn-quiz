@@ -1,5 +1,12 @@
 import { useState, useMemo } from 'react';
 import { Award, Users, Activity, AlertCircle, Trash2 } from 'lucide-react';
+import LevelAccuracyChart from './LevelAccuracyChart';
+import Achievements from './Achievements';
+import ReviewQueueWidget from './ReviewQueueWidget';
+import { BookmarksPanel } from '../features/bookmarks';
+import ExportProgressButton from './ExportProgressButton';
+import ImportProgressButton from './ImportProgressButton';
+import EmptyState from './EmptyState';
 
 const SUBBAB_LABELS = {
   'ipa-01': 'Ciri Makhluk Hidup',
@@ -15,7 +22,8 @@ const SUBBAB_LABELS = {
   'mtk-05': 'Aritmetika Sosial',
 };
 
-export default function Analytics({ stats, progress, onResetProgress }) {
+export default function Analytics({ stats, progress, onResetProgress, questionsData, onJumpToSubBab }) {
+  const questionsBySubBab = useMemo(() => ({ 'ipa-04b': questionsData }), [questionsData]);
   const [activeTab, setActiveTab] = useState('student'); // 'student' | 'parent' | 'teacher'
   const [confirmingReset, setConfirmingReset] = useState(false);
 
@@ -113,9 +121,11 @@ export default function Analytics({ stats, progress, onResetProgress }) {
               </div>
 
               {skillMastery.length === 0 ? (
-                <div className="text-center py-8 text-xs text-gray-400">
-                  Belum ada data latihan. Selesaikan minimal 1 soal untuk melihat penguasaan materimu di sini.
-                </div>
+                <EmptyState
+                  variant="no-progress"
+                  title="Belum Ada Data Latihan"
+                  message="Selesaikan minimal 1 soal di Roadmap untuk membuka analisis penguasaan materimu."
+                />
               ) : (
                 <div className="space-y-4">
                   {skillMastery.map((item) => (
@@ -246,10 +256,21 @@ export default function Analytics({ stats, progress, onResetProgress }) {
             </div>
           </div>
 
+          <LevelAccuracyChart progress={progress} questionsData={questionsBySubBab} />
+
+          <Achievements stats={stats} progress={progress} />
+
+          <BookmarksPanel
+            questionsData={questionsBySubBab}
+            onJump={({ subBabId }) => onJumpToSubBab?.(subBabId)}
+          />
+
         </div>
 
         {/* Analytics Right Sidebar (Col Span 1) */}
         <div className="space-y-6">
+          <ReviewQueueWidget onStart={() => onJumpToSubBab?.('ipa-04b')} />
+
           {/* Quick Stats Summary */}
           <div className="glass-card rounded-3xl p-6 space-y-6">
             <div>
@@ -292,6 +313,10 @@ export default function Analytics({ stats, progress, onResetProgress }) {
                 <Trash2 className="w-3.5 h-3.5 text-gray-400" /> Pengaturan Data
               </h4>
               <p className="text-[10px] text-gray-400">Semua progres disimpan lokal di browser-mu.</p>
+            </div>
+            <div className="grid grid-cols-2 gap-2">
+              <ExportProgressButton className="w-full" />
+              <ImportProgressButton />
             </div>
             {!confirmingReset ? (
               <button

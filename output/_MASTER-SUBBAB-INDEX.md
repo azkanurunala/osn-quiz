@@ -546,7 +546,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05h-tanah-sedang-sulit.md`
 
 **IPA-05i · Sumber Daya Alam Terbarukan & Tak Terbarukan** (fokus Kab)
-- [ ] `osn-sd-ipa-05i-sumber-daya-alam-campur.md`
+- [x] `osn-sd-ipa-05i-sumber-daya-alam-campur.md`
 - [ ] `osn-sd-ipa-05i-sumber-daya-alam-mudah.md`
 - [ ] `osn-sd-ipa-05i-sumber-daya-alam-sedang.md`
 - [ ] `osn-sd-ipa-05i-sumber-daya-alam-sulit.md`
@@ -554,7 +554,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05i-sumber-daya-alam-sedang-sulit.md`
 
 **IPA-05j · Siklus Air** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05j-siklus-air-campur.md`
+- [x] `osn-sd-ipa-05j-siklus-air-campur.md`
 - [ ] `osn-sd-ipa-05j-siklus-air-mudah.md`
 - [ ] `osn-sd-ipa-05j-siklus-air-sedang.md`
 - [ ] `osn-sd-ipa-05j-siklus-air-sulit.md`
@@ -562,7 +562,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05j-siklus-air-sedang-sulit.md`
 
 **IPA-05k · Atmosfer (Lapisan, Fungsi)** (fokus Prov)
-- [ ] `osn-sd-ipa-05k-atmosfer-campur.md`
+- [x] `osn-sd-ipa-05k-atmosfer-campur.md`
 - [ ] `osn-sd-ipa-05k-atmosfer-mudah.md`
 - [ ] `osn-sd-ipa-05k-atmosfer-sedang.md`
 - [ ] `osn-sd-ipa-05k-atmosfer-sulit.md`
@@ -570,7 +570,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05k-atmosfer-sedang-sulit.md`
 
 **IPA-05l · Pelestarian Lingkungan & Pencemaran** (fokus Kab–Prov)
-- [ ] `osn-sd-ipa-05l-pelestarian-lingkungan-campur.md`
+- [x] `osn-sd-ipa-05l-pelestarian-lingkungan-campur.md`
 - [ ] `osn-sd-ipa-05l-pelestarian-lingkungan-mudah.md`
 - [ ] `osn-sd-ipa-05l-pelestarian-lingkungan-sedang.md`
 - [ ] `osn-sd-ipa-05l-pelestarian-lingkungan-sulit.md`
@@ -578,7 +578,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05l-pelestarian-lingkungan-sedang-sulit.md`
 
 **IPA-05m · Pemanasan Global & Efek Rumah Kaca** (fokus Prov–Nas)
-- [ ] `osn-sd-ipa-05m-pemanasan-global-campur.md`
+- [x] `osn-sd-ipa-05m-pemanasan-global-campur.md`
 - [ ] `osn-sd-ipa-05m-pemanasan-global-mudah.md`
 - [ ] `osn-sd-ipa-05m-pemanasan-global-sedang.md`
 - [ ] `osn-sd-ipa-05m-pemanasan-global-sulit.md`
@@ -586,7 +586,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05m-pemanasan-global-sedang-sulit.md`
 
 **IPA-05n · Bencana Alam (Gempa, Gunung Meletus, Tsunami, Banjir)** (fokus Prov)
-- [ ] `osn-sd-ipa-05n-bencana-alam-campur.md`
+- [x] `osn-sd-ipa-05n-bencana-alam-campur.md`
 - [ ] `osn-sd-ipa-05n-bencana-alam-mudah.md`
 - [ ] `osn-sd-ipa-05n-bencana-alam-sedang.md`
 - [ ] `osn-sd-ipa-05n-bencana-alam-sulit.md`
@@ -603,7 +603,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-01 · Bilangan & Operasi (11 sub-bab)
 
 **MTK-01a · Operasi Hitung Bilangan Bulat (+, −, ×, ÷)** (fokus Kab)
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-campur.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-campur.md`
 - [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-mudah.md`
 - [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang.md`
 - [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sulit.md`
@@ -611,7 +611,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang-sulit.md`
 
 **MTK-01b · Urutan Operasi (Kurung-Pangkat-Kali-Bagi-Tambah-Kurang)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-01b-urutan-operasi-campur.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-campur.md`
 - [ ] `osn-sd-mtk-01b-urutan-operasi-mudah.md`
 - [ ] `osn-sd-mtk-01b-urutan-operasi-sedang.md`
 - [ ] `osn-sd-mtk-01b-urutan-operasi-sulit.md`
@@ -619,7 +619,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01b-urutan-operasi-sedang-sulit.md`
 
 **MTK-01c · Faktor & Kelipatan Suatu Bilangan** (fokus Kab)
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-campur.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-campur.md`
 - [ ] `osn-sd-mtk-01c-faktor-kelipatan-mudah.md`
 - [ ] `osn-sd-mtk-01c-faktor-kelipatan-sedang.md`
 - [ ] `osn-sd-mtk-01c-faktor-kelipatan-sulit.md`
@@ -627,7 +627,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01c-faktor-kelipatan-sedang-sulit.md`
 
 **MTK-01d · Bilangan Prima & Komposit** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-campur.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-campur.md`
 - [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah.md`
 - [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang.md`
 - [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sulit.md`
@@ -635,7 +635,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang-sulit.md`
 
 **MTK-01e · Faktorisasi Prima** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-01e-faktorisasi-prima-campur.md`
+- [x] `osn-sd-mtk-01e-faktorisasi-prima-campur.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-mudah.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sedang.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sulit.md`
@@ -643,7 +643,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sedang-sulit.md`
 
 **MTK-01f · FPB (Faktor Persekutuan Terbesar)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-01f-fpb-campur.md`
+- [x] `osn-sd-mtk-01f-fpb-campur.md`
 - [ ] `osn-sd-mtk-01f-fpb-mudah.md`
 - [ ] `osn-sd-mtk-01f-fpb-sedang.md`
 - [ ] `osn-sd-mtk-01f-fpb-sulit.md`
@@ -651,7 +651,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01f-fpb-sedang-sulit.md`
 
 **MTK-01g · KPK (Kelipatan Persekutuan Terkecil)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-01g-kpk-campur.md`
+- [x] `osn-sd-mtk-01g-kpk-campur.md`
 - [ ] `osn-sd-mtk-01g-kpk-mudah.md`
 - [ ] `osn-sd-mtk-01g-kpk-sedang.md`
 - [ ] `osn-sd-mtk-01g-kpk-sulit.md`
@@ -659,7 +659,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01g-kpk-sedang-sulit.md`
 
 **MTK-01h · Bilangan Kuadrat & Akar Kuadrat** (fokus Prov)
-- [ ] `osn-sd-mtk-01h-kuadrat-akar-campur.md`
+- [x] `osn-sd-mtk-01h-kuadrat-akar-campur.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-mudah.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-sedang.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-sulit.md`
@@ -667,7 +667,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-sedang-sulit.md`
 
 **MTK-01i · Bilangan Kubik & Akar Kubik** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-01i-kubik-akar-kubik-campur.md`
+- [x] `osn-sd-mtk-01i-kubik-akar-kubik-campur.md`
 - [ ] `osn-sd-mtk-01i-kubik-akar-kubik-mudah.md`
 - [ ] `osn-sd-mtk-01i-kubik-akar-kubik-sedang.md`
 - [ ] `osn-sd-mtk-01i-kubik-akar-kubik-sulit.md`
@@ -675,7 +675,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01i-kubik-akar-kubik-sedang-sulit.md`
 
 **MTK-01j · Sifat Operasi (Komutatif, Asosiatif, Distributif)** (fokus Kab)
-- [ ] `osn-sd-mtk-01j-sifat-operasi-campur.md`
+- [x] `osn-sd-mtk-01j-sifat-operasi-campur.md`
 - [ ] `osn-sd-mtk-01j-sifat-operasi-mudah.md`
 - [ ] `osn-sd-mtk-01j-sifat-operasi-sedang.md`
 - [ ] `osn-sd-mtk-01j-sifat-operasi-sulit.md`
@@ -683,7 +683,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-01j-sifat-operasi-sedang-sulit.md`
 
 **MTK-01k · Soal Cerita Aplikasi FPB/KPK** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-01k-cerita-fpb-kpk-campur.md`
+- [x] `osn-sd-mtk-01k-cerita-fpb-kpk-campur.md`
 - [ ] `osn-sd-mtk-01k-cerita-fpb-kpk-mudah.md`
 - [ ] `osn-sd-mtk-01k-cerita-fpb-kpk-sedang.md`
 - [ ] `osn-sd-mtk-01k-cerita-fpb-kpk-sulit.md`
@@ -693,7 +693,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-02 · Pecahan, Desimal, dan Persen (11 sub-bab)
 
 **MTK-02a · Pecahan Senilai & Menyederhanakan** (fokus Kab)
-- [ ] `osn-sd-mtk-02a-pecahan-senilai-campur.md`
+- [x] `osn-sd-mtk-02a-pecahan-senilai-campur.md`
 - [ ] `osn-sd-mtk-02a-pecahan-senilai-mudah.md`
 - [ ] `osn-sd-mtk-02a-pecahan-senilai-sedang.md`
 - [ ] `osn-sd-mtk-02a-pecahan-senilai-sulit.md`
@@ -701,7 +701,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02a-pecahan-senilai-sedang-sulit.md`
 
 **MTK-02b · Membandingkan & Mengurutkan Pecahan** (fokus Kab)
-- [ ] `osn-sd-mtk-02b-bandingkan-pecahan-campur.md`
+- [x] `osn-sd-mtk-02b-bandingkan-pecahan-campur.md`
 - [ ] `osn-sd-mtk-02b-bandingkan-pecahan-mudah.md`
 - [ ] `osn-sd-mtk-02b-bandingkan-pecahan-sedang.md`
 - [ ] `osn-sd-mtk-02b-bandingkan-pecahan-sulit.md`
@@ -709,7 +709,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02b-bandingkan-pecahan-sedang-sulit.md`
 
 **MTK-02c · Operasi Pecahan Biasa (+, −, ×, ÷)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-02c-operasi-pecahan-biasa-campur.md`
+- [x] `osn-sd-mtk-02c-operasi-pecahan-biasa-campur.md`
 - [ ] `osn-sd-mtk-02c-operasi-pecahan-biasa-mudah.md`
 - [ ] `osn-sd-mtk-02c-operasi-pecahan-biasa-sedang.md`
 - [ ] `osn-sd-mtk-02c-operasi-pecahan-biasa-sulit.md`
@@ -717,7 +717,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02c-operasi-pecahan-biasa-sedang-sulit.md`
 
 **MTK-02d · Pecahan Campuran (Operasi)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-02d-pecahan-campuran-campur.md`
+- [x] `osn-sd-mtk-02d-pecahan-campuran-campur.md`
 - [ ] `osn-sd-mtk-02d-pecahan-campuran-mudah.md`
 - [ ] `osn-sd-mtk-02d-pecahan-campuran-sedang.md`
 - [ ] `osn-sd-mtk-02d-pecahan-campuran-sulit.md`
@@ -725,7 +725,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02d-pecahan-campuran-sedang-sulit.md`
 
 **MTK-02e · Konversi Pecahan ↔ Desimal ↔ Persen** (fokus Kab)
-- [ ] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-campur.md`
+- [x] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-campur.md`
 - [ ] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-mudah.md`
 - [ ] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-sedang.md`
 - [ ] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-sulit.md`
@@ -733,7 +733,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02e-konversi-pecahan-desimal-persen-sedang-sulit.md`
 
 **MTK-02f · Operasi Desimal (+, −, ×, ÷)** (fokus Kab)
-- [ ] `osn-sd-mtk-02f-operasi-desimal-campur.md`
+- [x] `osn-sd-mtk-02f-operasi-desimal-campur.md`
 - [ ] `osn-sd-mtk-02f-operasi-desimal-mudah.md`
 - [ ] `osn-sd-mtk-02f-operasi-desimal-sedang.md`
 - [ ] `osn-sd-mtk-02f-operasi-desimal-sulit.md`
@@ -741,7 +741,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02f-operasi-desimal-sedang-sulit.md`
 
 **MTK-02g · Pembulatan Desimal** (fokus Kab)
-- [ ] `osn-sd-mtk-02g-pembulatan-desimal-campur.md`
+- [x] `osn-sd-mtk-02g-pembulatan-desimal-campur.md`
 - [ ] `osn-sd-mtk-02g-pembulatan-desimal-mudah.md`
 - [ ] `osn-sd-mtk-02g-pembulatan-desimal-sedang.md`
 - [ ] `osn-sd-mtk-02g-pembulatan-desimal-sulit.md`
@@ -749,7 +749,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02g-pembulatan-desimal-sedang-sulit.md`
 
 **MTK-02h · Persen sebagai Bagian dari Keseluruhan** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-02h-persen-bagian-campur.md`
+- [x] `osn-sd-mtk-02h-persen-bagian-campur.md`
 - [ ] `osn-sd-mtk-02h-persen-bagian-mudah.md`
 - [ ] `osn-sd-mtk-02h-persen-bagian-sedang.md`
 - [ ] `osn-sd-mtk-02h-persen-bagian-sulit.md`
@@ -757,7 +757,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02h-persen-bagian-sedang-sulit.md`
 
 **MTK-02i · Mencari Bilangan Asal dari Persen** (fokus Prov)
-- [ ] `osn-sd-mtk-02i-bilangan-dari-persen-campur.md`
+- [x] `osn-sd-mtk-02i-bilangan-dari-persen-campur.md`
 - [ ] `osn-sd-mtk-02i-bilangan-dari-persen-mudah.md`
 - [ ] `osn-sd-mtk-02i-bilangan-dari-persen-sedang.md`
 - [ ] `osn-sd-mtk-02i-bilangan-dari-persen-sulit.md`
@@ -765,7 +765,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02i-bilangan-dari-persen-sedang-sulit.md`
 
 **MTK-02j · Soal Cerita Pecahan (Bagian dari Bagian)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-02j-cerita-pecahan-campur.md`
+- [x] `osn-sd-mtk-02j-cerita-pecahan-campur.md`
 - [ ] `osn-sd-mtk-02j-cerita-pecahan-mudah.md`
 - [ ] `osn-sd-mtk-02j-cerita-pecahan-sedang.md`
 - [ ] `osn-sd-mtk-02j-cerita-pecahan-sulit.md`
@@ -773,7 +773,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-02j-cerita-pecahan-sedang-sulit.md`
 
 **MTK-02k · Soal Cerita Persen Aplikatif** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-02k-cerita-persen-campur.md`
+- [x] `osn-sd-mtk-02k-cerita-persen-campur.md`
 - [ ] `osn-sd-mtk-02k-cerita-persen-mudah.md`
 - [ ] `osn-sd-mtk-02k-cerita-persen-sedang.md`
 - [ ] `osn-sd-mtk-02k-cerita-persen-sulit.md`
@@ -783,7 +783,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 ### MTK-03 · Geometri Datar (13 sub-bab)
 
 **MTK-03a · Sifat & Jenis Bangun Datar** (fokus Kab)
-- [ ] `osn-sd-mtk-03a-jenis-bangun-datar-campur.md`
+- [x] `osn-sd-mtk-03a-jenis-bangun-datar-campur.md`
 - [ ] `osn-sd-mtk-03a-jenis-bangun-datar-mudah.md`
 - [ ] `osn-sd-mtk-03a-jenis-bangun-datar-sedang.md`
 - [ ] `osn-sd-mtk-03a-jenis-bangun-datar-sulit.md`
@@ -791,7 +791,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03a-jenis-bangun-datar-sedang-sulit.md`
 
 **MTK-03b · Keliling Persegi & Persegi Panjang** (fokus Kab)
-- [ ] `osn-sd-mtk-03b-keliling-persegi-campur.md`
+- [x] `osn-sd-mtk-03b-keliling-persegi-campur.md`
 - [ ] `osn-sd-mtk-03b-keliling-persegi-mudah.md`
 - [ ] `osn-sd-mtk-03b-keliling-persegi-sedang.md`
 - [ ] `osn-sd-mtk-03b-keliling-persegi-sulit.md`
@@ -799,7 +799,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03b-keliling-persegi-sedang-sulit.md`
 
 **MTK-03c · Keliling Segitiga** (fokus Kab)
-- [ ] `osn-sd-mtk-03c-keliling-segitiga-campur.md`
+- [x] `osn-sd-mtk-03c-keliling-segitiga-campur.md`
 - [ ] `osn-sd-mtk-03c-keliling-segitiga-mudah.md`
 - [ ] `osn-sd-mtk-03c-keliling-segitiga-sedang.md`
 - [ ] `osn-sd-mtk-03c-keliling-segitiga-sulit.md`
@@ -807,7 +807,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03c-keliling-segitiga-sedang-sulit.md`
 
 **MTK-03d · Keliling Jajar Genjang, Trapesium, Layang-layang, Belah Ketupat** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-campur.md`
+- [x] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-campur.md`
 - [ ] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-mudah.md`
 - [ ] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-sedang.md`
 - [ ] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-sulit.md`
@@ -815,7 +815,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03d-keliling-jajar-trapesium-layang-belah-sedang-sulit.md`
 
 **MTK-03e · Keliling Lingkaran (π = 22/7 atau 3,14)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-03e-keliling-lingkaran-campur.md`
+- [x] `osn-sd-mtk-03e-keliling-lingkaran-campur.md`
 - [ ] `osn-sd-mtk-03e-keliling-lingkaran-mudah.md`
 - [ ] `osn-sd-mtk-03e-keliling-lingkaran-sedang.md`
 - [ ] `osn-sd-mtk-03e-keliling-lingkaran-sulit.md`
@@ -823,7 +823,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03e-keliling-lingkaran-sedang-sulit.md`
 
 **MTK-03f · Luas Persegi & Persegi Panjang** (fokus Kab)
-- [ ] `osn-sd-mtk-03f-luas-persegi-campur.md`
+- [x] `osn-sd-mtk-03f-luas-persegi-campur.md`
 - [ ] `osn-sd-mtk-03f-luas-persegi-mudah.md`
 - [ ] `osn-sd-mtk-03f-luas-persegi-sedang.md`
 - [ ] `osn-sd-mtk-03f-luas-persegi-sulit.md`
@@ -831,7 +831,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03f-luas-persegi-sedang-sulit.md`
 
 **MTK-03g · Luas Segitiga** (fokus Kab)
-- [ ] `osn-sd-mtk-03g-luas-segitiga-campur.md`
+- [x] `osn-sd-mtk-03g-luas-segitiga-campur.md`
 - [ ] `osn-sd-mtk-03g-luas-segitiga-mudah.md`
 - [ ] `osn-sd-mtk-03g-luas-segitiga-sedang.md`
 - [ ] `osn-sd-mtk-03g-luas-segitiga-sulit.md`
@@ -839,7 +839,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03g-luas-segitiga-sedang-sulit.md`
 
 **MTK-03h · Luas Jajar Genjang, Trapesium, Layang-layang, Belah Ketupat** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-campur.md`
+- [x] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-campur.md`
 - [ ] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-mudah.md`
 - [ ] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-sedang.md`
 - [ ] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-sulit.md`
@@ -847,7 +847,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03h-luas-jajar-trapesium-layang-belah-sedang-sulit.md`
 
 **MTK-03i · Luas Lingkaran (πr²)** (fokus Kab–Prov)
-- [ ] `osn-sd-mtk-03i-luas-lingkaran-campur.md`
+- [x] `osn-sd-mtk-03i-luas-lingkaran-campur.md`
 - [ ] `osn-sd-mtk-03i-luas-lingkaran-mudah.md`
 - [ ] `osn-sd-mtk-03i-luas-lingkaran-sedang.md`
 - [ ] `osn-sd-mtk-03i-luas-lingkaran-sulit.md`
@@ -855,7 +855,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03i-luas-lingkaran-sedang-sulit.md`
 
 **MTK-03j · Bangun Datar Gabungan (Penjumlahan Luas)** (fokus Prov)
-- [ ] `osn-sd-mtk-03j-gabungan-jumlah-campur.md`
+- [x] `osn-sd-mtk-03j-gabungan-jumlah-campur.md`
 - [ ] `osn-sd-mtk-03j-gabungan-jumlah-mudah.md`
 - [ ] `osn-sd-mtk-03j-gabungan-jumlah-sedang.md`
 - [ ] `osn-sd-mtk-03j-gabungan-jumlah-sulit.md`
@@ -863,7 +863,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03j-gabungan-jumlah-sedang-sulit.md`
 
 **MTK-03k · Bangun Datar Gabungan (Pengurangan / Luas yang Diarsir)** (fokus Prov–Nas)
-- [ ] `osn-sd-mtk-03k-gabungan-arsir-campur.md`
+- [x] `osn-sd-mtk-03k-gabungan-arsir-campur.md`
 - [ ] `osn-sd-mtk-03k-gabungan-arsir-mudah.md`
 - [ ] `osn-sd-mtk-03k-gabungan-arsir-sedang.md`
 - [ ] `osn-sd-mtk-03k-gabungan-arsir-sulit.md`
@@ -871,7 +871,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [ ] `osn-sd-mtk-03k-gabungan-arsir-sedang-sulit.md`
 
 **MTK-03l · Sudut & Jenis-jenisnya** (fokus Kab)
-- [ ] `osn-sd-mtk-03l-sudut-jenis-campur.md`
+- [x] `osn-sd-mtk-03l-sudut-jenis-campur.md`
 - [ ] `osn-sd-mtk-03l-sudut-jenis-mudah.md`
 - [ ] `osn-sd-mtk-03l-sudut-jenis-sedang.md`
 - [ ] `osn-sd-mtk-03l-sudut-jenis-sulit.md`

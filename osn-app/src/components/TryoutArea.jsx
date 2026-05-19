@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { ChevronLeft, ChevronRight, Clock, Award, RefreshCw, Eye, BookOpen, AlertCircle } from 'lucide-react';
-import confetti from 'canvas-confetti';
 import { InlineMarkdown } from '../utils/markdown.jsx';
+import ShareResultCard from './ShareResultCard';
+import { fireMedalUnlock } from '../utils/milestones';
 
 export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
   const [examQuestions, setExamQuestions] = useState([]);
@@ -66,51 +67,17 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
     if (percent >= 90) {
       medal = 'gold';
       onAddMedal('gold');
-      fireConfettiRainbow();
+      fireMedalUnlock('gold');
     } else if (percent >= 70) {
       medal = 'silver';
       onAddMedal('silver');
-      fireConfettiSimple();
+      fireMedalUnlock('silver');
     } else if (percent >= 50) {
       medal = 'bronze';
       onAddMedal('bronze');
-      fireConfettiSimple();
+      fireMedalUnlock('bronze');
     }
     setMedalEarned(medal);
-  };
-
-  const fireConfettiRainbow = () => {
-    const duration = 3 * 1000;
-    const end = Date.now() + duration;
-
-    (function frame() {
-      confetti({
-        particleCount: 5,
-        angle: 60,
-        spread: 55,
-        origin: { x: 0 },
-        colors: ['#e53935', '#3b82f6', '#10b981', '#eab308']
-      });
-      confetti({
-        particleCount: 5,
-        angle: 120,
-        spread: 55,
-        origin: { x: 1 },
-        colors: ['#e53935', '#3b82f6', '#10b981', '#eab308']
-      });
-
-      if (Date.now() < end) {
-        requestAnimationFrame(frame);
-      }
-    }());
-  };
-
-  const fireConfettiSimple = () => {
-    confetti({
-      particleCount: 150,
-      spread: 80,
-      origin: { y: 0.6 }
-    });
   };
 
   const formatTime = (seconds) => {
@@ -176,6 +143,14 @@ export default function TryoutArea({ questionsData, onBack, onAddMedal }) {
               <div>• Sisa Waktu: <span className="font-bold">{formatTime(timeLeft)}</span></div>
             </div>
           </div>
+
+          <ShareResultCard
+            score={examQuestions.filter((q, i) => answers[i] === q.answerKey).length}
+            total={examQuestions.length}
+            medal={medalEarned}
+            subBabTitle="Tryout OSN-SD"
+            dateStr={new Date().toISOString().slice(0, 10)}
+          />
 
           {/* Buttons Row */}
           <div className="flex items-center justify-center gap-4 border-t border-gray-100 pt-6">

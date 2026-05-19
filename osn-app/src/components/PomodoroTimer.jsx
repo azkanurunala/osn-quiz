@@ -219,7 +219,7 @@ export default function PomodoroTimer({
   if (collapsed) {
     return (
       <div
-        className="fixed bottom-5 right-5 z-50"
+        className="fixed bottom-20 md:bottom-5 right-5 z-30"
         style={{ fontFamily: 'var(--font-sans)' }}
       >
         <button
@@ -260,7 +260,7 @@ export default function PomodoroTimer({
 
   return (
     <div
-      className="fixed bottom-5 right-5 z-50 animate-slide-in"
+      className="fixed bottom-20 md:bottom-5 right-5 z-30 animate-slide-in"
       style={{ fontFamily: 'var(--font-sans)' }}
     >
       <div
