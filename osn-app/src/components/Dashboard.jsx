@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen, Zap, X, Search } from 'lucide-react';
+import { Award, Flame, Star, Compass, CheckCircle2, ChevronRight, Lock, BookOpen, Zap, X, Search, Video } from 'lucide-react';
 import DailyChallenge from './DailyChallenge';
 import ActivityHeatmap from './ActivityHeatmap';
 import QuickQuiz from './QuickQuiz';
@@ -32,7 +32,7 @@ function decorateFromManifest(metaList, progress) {
   });
 }
 
-export default function Dashboard({ stats, progress, manifest, manifestLoading, onSelectSubBab, onAddXp, questionsData }) {
+export default function Dashboard({ stats, progress, manifest, manifestLoading, onSelectSubBab, onAddXp, questionsData, onOpenBulkRecorder }) {
   const t = useT();
   const [quickQuizOpen, setQuickQuizOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -175,27 +175,38 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
         <div className="glass-card rounded-3xl p-10 text-center text-gray-400 text-sm font-sans">{t('loading_roadmap', 'Memuat daftar bab dan sub-bab…')}</div>
       ) : null}
 
-      {/* Sub-bab search */}
-      <div className="glass-card rounded-2xl p-3 flex items-center gap-3 font-sans">
-        <Search className="w-4 h-4 text-gray-400 shrink-0 ml-1.5" />
-        <input
-          type="text"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder={t('search_placeholder', 'Cari sub-bab… (mis. cermin, fpb, pecahan)')}
-          className="flex-1 bg-transparent outline-none text-sm font-medium placeholder:text-gray-400"
-        />
-        {searchQuery && (
-          <>
-            <span className="text-[10px] text-gray-400 font-bold tabular-nums">{totalMatches} {t('hasil', 'hasil')}</span>
-            <button
-              onClick={() => setSearchQuery('')}
-              className="p-1 rounded-md hover:bg-gray-100 text-gray-400 hover:text-gray-700"
-              aria-label="Bersihkan pencarian"
-            >
-              <X className="w-3.5 h-3.5" />
-            </button>
-          </>
+      {/* Sub-bab search + Bulk recorder button */}
+      <div className="flex items-center gap-3 font-sans flex-wrap">
+        <div className="glass-card rounded-2xl p-3 flex items-center gap-3 flex-1 min-w-[240px]">
+          <Search className="w-4 h-4 text-gray-400 shrink-0 ml-1.5" />
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder={t('search_placeholder', 'Cari sub-bab… (mis. cermin, fpb, pecahan)')}
+            className="flex-1 bg-transparent outline-none text-sm font-medium placeholder:text-gray-400"
+          />
+          {searchQuery && (
+            <>
+              <span className="text-[10px] text-gray-400 font-bold tabular-nums">{totalMatches} {t('hasil', 'hasil')}</span>
+              <button
+                onClick={() => setSearchQuery('')}
+                className="p-1 rounded-md hover:bg-gray-100 text-gray-400 hover:text-gray-700"
+                aria-label="Bersihkan pencarian"
+              >
+                <X className="w-3.5 h-3.5" />
+              </button>
+            </>
+          )}
+        </div>
+        {onOpenBulkRecorder && (
+          <button
+            onClick={onOpenBulkRecorder}
+            className="bg-brand-primary hover:bg-brand-hover text-white font-extrabold px-4 py-3 rounded-2xl text-xs transition shadow-md shadow-red-500/10 flex items-center gap-1.5 shrink-0"
+            title={t('bulk_record_title', 'Rekam massal banyak paket sekaligus')}
+          >
+            <Video className="w-3.5 h-3.5 fill-white" /> {t('bulk_record', 'Rekam Massal')}
+          </button>
         )}
       </div>
 
@@ -231,6 +242,7 @@ export default function Dashboard({ stats, progress, manifest, manifestLoading, 
 }
 
 function RoadmapColumn({ title, subtitle, icon, iconBg, items, activeBadge, accent, onSelect, emptyHint }) {
+  const t = useT();
   const accentText = accent === 'brand-primary' ? 'text-brand-primary' : 'text-brand-accent';
   const accentBg = accent === 'brand-primary' ? 'bg-brand-primary' : 'bg-brand-accent';
   const accentRing = accent === 'brand-primary' ? 'ring-brand-primary/50 bg-red-500/5' : 'ring-brand-accent/50 bg-blue-500/5';

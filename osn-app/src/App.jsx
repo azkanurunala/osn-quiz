@@ -9,6 +9,8 @@ import ShortcutHelp from './components/ShortcutHelp';
 import SplashScreen from './components/SplashScreen';
 import PomodoroTimer from './components/PomodoroTimer';
 import SettingsPanel, { DEFAULT_SETTINGS } from './components/SettingsPanel';
+import RecordingModeSelector from './components/RecordingModeSelector';
+import BulkRecorderPanel from './components/BulkRecorderPanel';
 import { usePersistedState } from './hooks/usePersistedState';
 import { tickStreak } from './utils/streak';
 import { fireLevelUp } from './utils/milestones';
@@ -22,6 +24,10 @@ export default function App() {
   const [isCleanMode, setIsCleanMode] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [forceTourOpen, setForceTourOpen] = useState(false);
+  const [pendingSubBabId, setPendingSubBabId] = useState(null);
+  const [recordingMode, setRecordingMode] = useState(null); // 'manual' | 'auto-record' | null
+  const [bulkQueue, setBulkQueue] = useState([]); // array of subBabId strings
+  const [bulkPanelOpen, setBulkPanelOpen] = useState(false);
 
   const [settings, setSettings] = usePersistedState('osn-settings', DEFAULT_SETTINGS);
 
@@ -76,10 +82,41 @@ export default function App() {
   }, [setProgress]);
 
   const handleSelectSubBab = (id) => {
-    setSelectedSubBab(id);
+    // Show mode selector first (unless bulk queue is driving this — see handleConfirmMode flow)
+    setPendingSubBabId(id);
+  };
+
+  const handleConfirmMode = useCallback((mode) => {
+    if (!pendingSubBabId) return;
+    setRecordingMode(mode);
+    setSelectedSubBab(pendingSubBabId);
+    setCurrentTab('practice');
+    setPendingSubBabId(null);
+    tickEngagement();
+  }, [pendingSubBabId, tickEngagement]);
+
+  // Bulk recording: start next item in queue with auto-record mode
+  const advanceBulkQueue = useCallback(() => {
+    setBulkQueue((q) => {
+      if (q.length === 0) { setRecordingMode(null); return q; }
+      const [next, ...rest] = q;
+      setRecordingMode('auto-record');
+      setSelectedSubBab(next);
+      setCurrentTab('practice');
+      tickEngagement();
+      return rest;
+    });
+  }, [tickEngagement]);
+
+  const startBulkQueue = useCallback((subBabIds) => {
+    if (!Array.isArray(subBabIds) || subBabIds.length === 0) return;
+    const [first, ...rest] = subBabIds;
+    setBulkQueue(rest);
+    setRecordingMode('auto-record');
+    setSelectedSubBab(first);
     setCurrentTab('practice');
     tickEngagement();
-  };
+  }, [tickEngagement]);
 
   const handleResetProgress = useCallback(() => {
     try { localStorage.removeItem('osn-stats'); } catch {}
@@ -102,6 +139,22 @@ export default function App() {
         setSettings={setSettings}
         onShowOnboarding={handleShowOnboarding}
         onResetProgress={handleResetProgress}
+      />
+      <RecordingModeSelector
+        open={!!pendingSubBabId}
+        subBabTitle={(() => {
+          if (!pendingSubBabId || !manifest?.items) return '';
+          const it = manifest.items.find((i) => i.subBab === pendingSubBabId || i.chapter === pendingSubBabId);
+          return it?.title || pendingSubBabId;
+        })()}
+        onSelectMode={handleConfirmMode}
+        onClose={() => setPendingSubBabId(null)}
+      />
+      <BulkRecorderPanel
+        open={bulkPanelOpen}
+        manifest={manifest}
+        onStart={startBulkQueue}
+        onClose={() => setBulkPanelOpen(false)}
       />
 
       {!isCleanMode && (
@@ -177,6 +230,7 @@ export default function App() {
             onSelectSubBab={handleSelectSubBab}
             onAddXp={handleAddXp}
             questionsData={questionsData}
+            onOpenBulkRecorder={() => setBulkPanelOpen(true)}
           />
         )}
 
@@ -189,11 +243,18 @@ export default function App() {
               questionsData={questionsData}
               subBabProgress={progress[selectedSubBab]}
               onUpdateProgress={(updater) => handleSubBabProgress(selectedSubBab, updater)}
-              onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); }}
+              onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); setRecordingMode(null); setBulkQueue([]); }}
               onAddXp={handleAddXp}
               isCleanMode={isCleanMode}
               setIsCleanMode={setIsCleanMode}
               settings={settings}
+              recordingMode={recordingMode}
+              onAutoRecordComplete={() => {
+                // After auto-record finishes, advance bulk queue if any
+                if (bulkQueue.length > 0) advanceBulkQueue();
+                else { setRecordingMode(null); }
+              }}
+              bulkQueueRemaining={bulkQueue.length}
             />
           )
         )}

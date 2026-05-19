@@ -7,10 +7,12 @@ import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { fireMilestone } from '../utils/milestones';
 import { useT } from '../i18n';
+import { startRecording } from '../utils/recorder';
 
-export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings }) {
+export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings, recordingMode, onAutoRecordComplete, bulkQueueRemaining = 0 }) {
   const t = useT();
   const vpDefaults = settings?.videoProduction || {};
+  const isAutoRecord = recordingMode === 'auto-record';
   const questions = questionsData?.questions || [];
   const theory = questionsData?.theory || [];
 
@@ -67,8 +69,85 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const audioRef = useRef(null);
   const explanationScrollRef = useRef(null);
   const autoscrollIntervalRef = useRef(null);
+  const recorderRef = useRef(null);
+  const recorderStartTickRef = useRef(0);
+  const [recElapsed, setRecElapsed] = useState(0);
+  const [recError, setRecError] = useState(null);
 
   const currentQuestion = questions[currentIndex];
+
+  // ----- Auto-record mode: force flags, start recorder on mount -----
+  useEffect(() => {
+    if (!isAutoRecord || !subBabId) return;
+    // Force flags for clean-mode recording
+    setTimerEnabled(true);
+    setAutoPilot(true);
+    setIsMuted(false);
+    setLayoutSplit(true);
+    setIsCleanMode(true);
+    setShowIntro(true);
+    setIntroTimeLeft(3);
+
+    // Already running? skip
+    if (recorderRef.current) return;
+
+    const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
+    let cancelled = false;
+    startRecording({ filename })
+      .then((rec) => {
+        if (cancelled) {
+          rec.stop({ autoDownload: false }).catch(() => {});
+          return;
+        }
+        recorderRef.current = rec;
+        recorderStartTickRef.current = Date.now();
+        rec.onUserStopped(() => {
+          // user clicked browser's native "Stop sharing" — bail out gracefully
+          recorderRef.current = null;
+          setRecError('Rekaman dihentikan dari browser. Lanjut tanpa rekaman.');
+        });
+      })
+      .catch((err) => {
+        if (!cancelled) setRecError(err?.message || 'Gagal memulai perekaman.');
+      });
+
+    return () => { cancelled = true; };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isAutoRecord, subBabId]);
+
+  // Tick the REC duration display
+  useEffect(() => {
+    if (!isAutoRecord || !recorderRef.current) return;
+    const id = setInterval(() => {
+      if (recorderRef.current?.isActive()) {
+        setRecElapsed(Math.floor((Date.now() - recorderStartTickRef.current) / 1000));
+      }
+    }, 500);
+    return () => clearInterval(id);
+  }, [isAutoRecord, recElapsed]);
+
+  // Stop recorder + auto-download when sub-bab completed
+  useEffect(() => {
+    if (!isAutoRecord) return;
+    if (!subBabProgress?.completed) return;
+    if (!recorderRef.current) return;
+    const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
+    const rec = recorderRef.current;
+    recorderRef.current = null;
+    rec.stop({ autoDownload: true, filename })
+      .then(() => { onAutoRecordComplete?.(); })
+      .catch(() => { onAutoRecordComplete?.(); });
+  }, [isAutoRecord, subBabProgress?.completed, subBabId, questionsData, onAutoRecordComplete]);
+
+  // Cleanup recorder if user navigates away mid-recording
+  useEffect(() => {
+    return () => {
+      if (recorderRef.current?.isActive()) {
+        recorderRef.current.stop({ autoDownload: true }).catch(() => {});
+        recorderRef.current = null;
+      }
+    };
+  }, []);
 
   useEffect(() => {
     if (!audioRef.current) {
@@ -337,6 +416,21 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         >
           <Settings className="w-4 h-4 animate-spin-slow" />
         </button>
+
+        {/* REC indicator (only in auto-record mode) */}
+        {isAutoRecord && (
+          <div className="fixed top-4 left-4 z-50 flex items-center gap-2 px-3 py-1.5 bg-red-600/90 text-white rounded-full backdrop-blur-sm shadow-lg font-mono text-xs font-bold">
+            <span className="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+            REC
+            <span className="text-white/80 tabular-nums">{Math.floor(recElapsed / 60).toString().padStart(2,'0')}:{(recElapsed % 60).toString().padStart(2,'0')}</span>
+            {bulkQueueRemaining > 0 && (
+              <span className="ml-1 px-1.5 py-0.5 bg-white/20 rounded-full text-[10px]">Antrian: {bulkQueueRemaining + 1}</span>
+            )}
+          </div>
+        )}
+        {recError && (
+          <div className="fixed top-16 left-4 z-50 px-3 py-1.5 bg-yellow-100 text-yellow-800 text-[11px] rounded-lg shadow-md max-w-xs">{recError}</div>
+        )}
         <div className="w-full h-full grid grid-cols-1 lg:grid-cols-12 gap-0 overflow-hidden">
           <div className={`h-full flex flex-col justify-center p-8 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-6' : 'lg:col-span-12 max-w-4xl mx-auto'}`}>
             <div className="glass-card rounded-3xl p-8 space-y-6 shadow-2xl relative max-w-2xl w-full mx-auto animate-scale-in">
@@ -365,9 +459,6 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 </div>
               )}
               <div className="space-y-3">
-                <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
-                  {currentQuestion.subTopic || t('topik_utama', 'Topik Utama')}
-                </span>
                 <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-850">
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
@@ -660,12 +751,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               )}
 
               <div className="space-y-3">
-                <div className="flex items-center justify-between gap-2">
-                  <span className="bg-brand-accent/10 text-brand-accent text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider font-sans">
-                    {currentQuestion.subTopic || 'Topik Utama'}
-                  </span>
-                  {subBabId && <BookmarkButton subBabId={subBabId} qIndex={currentIndex} />}
-                </div>
+                {subBabId && (
+                  <div className="flex justify-end">
+                    <BookmarkButton subBabId={subBabId} qIndex={currentIndex} />
+                  </div>
+                )}
                 <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-800">
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
@@ -759,6 +849,7 @@ function ToggleTile({ label, value, onToggle, color }) {
 }
 
 function PembahasanContent({ q }) {
+  const t = useT();
   return (
     <>
       <div className="flex items-center gap-2">
@@ -820,6 +911,7 @@ function PembahasanContent({ q }) {
 }
 
 function TheoryView({ theory, title, onStartQuiz }) {
+  const t = useT();
   const [openIndex, setOpenIndex] = useState(0);
   if (!theory || theory.length === 0) {
     return (
