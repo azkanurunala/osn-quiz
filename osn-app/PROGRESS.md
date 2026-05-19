@@ -10,10 +10,11 @@ Last updated: **2026-05-19** (Round 11 / Sticky Sidebar Header + i18n useT() com
 
 | Aspek | Status | Catatan |
 |---|---|---|
-| Konten teori + soal | **218/218 file masuk** | Semua `output/*.md` + `output/sub-bab/*.md` terkonversi |
-| Total soal | **21,747** | Hasil aktual hitung |
-| Total section teori | 1,782 | Hasil aktual hitung |
+| Konten teori + soal | **256/256 file masuk** | Semua `output/*.md` + `output/sub-bab/*.md` terkonversi |
+| Total soal | **25,667** | Hasil aktual hitung (218→256 file, +3,920 soal sejak round 10) |
+| Total section teori | 2,160 | Hasil aktual hitung |
 | Coverage | 100% file, 0 error | Per `node scripts/validate-data.mjs` |
+| Tier preference (Setting) | ✅ End-to-end | `osn-settings.tierPreference` → useSubBabData → Practice & Tryout |
 | Bundle JS gzip | **~115 KB** | Stabil, tidak menyimpan paket soal di-bundle |
 | Data folder (lazy-loaded) | 18 MB | `public/data/*.json`, dilayani Vite + browser cache |
 | Build | ✅ Pass | `npm run build` clean (1 warning canvas-confetti, kosmetik) |
@@ -339,6 +340,7 @@ osn-app/
 | 8 | **100% coverage** | CRLF + format variants → 216/216 file |
 | 9 | **Settings + Unlock all** | SettingsPanel, default Video Production ON, gear icon |
 | 10 | **Deep parser audit + validator** | `validate-data.mjs` baru; menemukan 4 critical bug (question/options kosong); 3 format varian baru di-handle (A-inline, A-short, C-multi-on-line); 218/218 file, 21,747 soal validated, 0 error |
+| 11 | **Tier preference + auto-scale to 256 file** | User tambah 38 file MD baru → parser handle tanpa perubahan (256/256, 25,667 soal). `tierPreference` (Settings) di-wire end-to-end: `App.jsx → useSubBabData(preferredTier) → pickFile(preferredTier)` dan `TryoutArea` sampling pakai tier yang dipilih (fallback campur, lalu apa adanya). `pickFile()` fallback chain: exact tier → campur → sedang → mudah → sulit → any. |
 | 11 | **Sticky Explanation + i18n useT() Complete** | sticky explanation title/subtitle in Video Producer Studio, full bilingual localizations for Dashboard, PracticeArea, and Analytics |
 
 ---

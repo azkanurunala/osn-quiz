@@ -5,7 +5,7 @@ import ShareResultCard from './ShareResultCard';
 import { fireMedalUnlock } from '../utils/milestones';
 import { useT } from '../i18n';
 
-export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal }) {
+export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal, tierPreference = 'campur' }) {
   const t = useT();
   const [examQuestions, setExamQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -23,8 +23,12 @@ export default function TryoutArea({ questionsData, manifest, onBack, onAddMedal
     let cancelled = false;
 
     async function buildExam() {
-      // Prefer cross-subBab sampling when manifest is available
-      const items = (manifest?.items || []).filter((it) => it.type === 'subbab' && it.tier === 'campur');
+      // Prefer cross-subBab sampling when manifest is available; respect user's tier preference
+      const allSubbab = (manifest?.items || []).filter((it) => it.type === 'subbab');
+      let items = allSubbab.filter((it) => it.tier === tierPreference);
+      // Fallback to campur, then any
+      if (items.length < 3) items = allSubbab.filter((it) => it.tier === 'campur');
+      if (items.length < 3) items = allSubbab;
       if (items.length >= 3) {
         const pickN = Math.min(4, items.length);
         const shuffledItems = [...items].sort(() => 0.5 - Math.random()).slice(0, pickN);

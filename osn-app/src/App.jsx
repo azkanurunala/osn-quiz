@@ -32,6 +32,7 @@ export default function App() {
 
   const { manifest, loading: manifestLoading } = useManifest();
   const defaultSubBabId = manifest?.items?.find((i) => i.type === 'subbab')?.subBab || 'ipa-04b';
+  const effectiveSubBabId = selectedSubBab || defaultSubBabId;
   const tierPreference = settings?.tierPreference || 'campur';
   const { data: questionsData, loading: dataLoading } = useSubBabData(effectiveSubBabId, manifest, tierPreference);
 
@@ -203,6 +204,7 @@ export default function App() {
             manifest={manifest}
             onBack={() => setCurrentTab('dashboard')}
             onAddMedal={handleAddMedal}
+            tierPreference={tierPreference}
           />
         )}
 
