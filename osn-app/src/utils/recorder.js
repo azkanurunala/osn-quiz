@@ -35,6 +35,7 @@ export async function startRecording({
   filename = 'osn-record.webm',
   videoBitsPerSecond = 2_000_000,
   audio = true,
+  audioElement = null,
 } = {}) {
   if (!isRecordingSupported()) {
     throw new Error('Browser tidak mendukung perekaman layar in-app.');
@@ -42,8 +43,40 @@ export async function startRecording({
 
   const stream = await navigator.mediaDevices.getDisplayMedia({
     video: { frameRate: 30 },
-    audio,
+    audio: audioElement ? false : audio,
   });
+
+  let audioCtx = null;
+  if (audioElement) {
+    try {
+      console.log('[recorder] Audio element state:', {
+        src: audioElement.src,
+        paused: audioElement.paused,
+        currentTime: audioElement.currentTime,
+        volume: audioElement.volume,
+        muted: audioElement.muted,
+        readyState: audioElement.readyState // 0=HAVE_NOTHING, 4=HAVE_ENOUGH_DATA
+      });
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      await audioCtx.resume();
+      const source = audioCtx.createMediaElementSource(audioElement);
+      const gain = audioCtx.createGain();
+      const dest = audioCtx.createMediaStreamDestination();
+      source.connect(gain);
+      gain.connect(dest);
+      gain.connect(audioCtx.destination);
+      const audioTrack = dest.stream.getAudioTracks()[0];
+      if (audioTrack) {
+        stream.addTrack(audioTrack);
+        console.log('[recorder] Audio track added successfully');
+      } else {
+        console.warn('[recorder] No audio track in MediaStreamDestination');
+      }
+    } catch (e) {
+      console.warn('[recorder] Audio mixing failed:', e);
+      audioCtx = null;
+    }
+  }
 
   const mime = pickMimeType();
   const recorder = new MediaRecorder(stream, { mimeType: mime, videoBitsPerSecond });
@@ -76,6 +109,66 @@ export async function startRecording({
   return {
     recorder,
     stream,
+    audioCtx,
+    mime,
+    startedAt,
+    isActive: () => recorder.state === 'recording',
+    onUserStopped: (cb) => userStoppedCallbacks.push(cb),
+    async stop({ autoDownload = true, filename: fn = filename, stopTracks = true } = {}) {
+      if (recorder.state !== 'inactive') recorder.stop();
+      const blob = await stopped;
+      if (stopTracks) {
+        stream.getTracks().forEach((t) => t.stop());
+        if (audioCtx) {
+          try { audioCtx.close(); } catch (e) { console.warn('[recorder] Failed to close AudioContext:', e); }
+        }
+      }
+      if (autoDownload && blob.size > 0) downloadBlob(blob, fn);
+      return blob;
+    },
+  };
+}
+
+export async function startRecordingFromStream(
+  existingStream,
+  {
+    filename = 'osn-record.webm',
+    videoBitsPerSecond = 2_000_000,
+  } = {}
+) {
+  if (!isRecordingSupported()) {
+    throw new Error('Browser tidak mendukung perekaman layar in-app.');
+  }
+
+  const mime = pickMimeType();
+  const recorder = new MediaRecorder(existingStream, { mimeType: mime, videoBitsPerSecond });
+  const chunks = [];
+
+  recorder.ondataavailable = (e) => { if (e.data.size > 0) chunks.push(e.data); };
+
+  let resolveStop;
+  const stopped = new Promise((r) => { resolveStop = r; });
+  recorder.onstop = () => resolveStop(new Blob(chunks, { type: mime }));
+
+  const userStoppedCallbacks = [];
+  let userStoppedFlag = false;
+  const onTrackEnded = () => {
+    if (userStoppedFlag) return;
+    userStoppedFlag = true;
+    if (recorder.state !== 'inactive') recorder.stop();
+    stopped.then((blob) => {
+      if (blob.size > 0) downloadBlob(blob, filename);
+    }).catch(() => {});
+    userStoppedCallbacks.forEach((cb) => { try { cb(); } catch { /* ignore */ } });
+  };
+  existingStream.getVideoTracks().forEach((t) => t.addEventListener('ended', onTrackEnded));
+
+  recorder.start(1000);
+  const startedAt = Date.now();
+
+  return {
+    recorder,
+    stream: existingStream,
     mime,
     startedAt,
     isActive: () => recorder.state === 'recording',
@@ -83,7 +176,6 @@ export async function startRecording({
     async stop({ autoDownload = true, filename: fn = filename } = {}) {
       if (recorder.state !== 'inactive') recorder.stop();
       const blob = await stopped;
-      stream.getTracks().forEach((t) => t.stop());
       if (autoDownload && blob.size > 0) downloadBlob(blob, fn);
       return blob;
     },

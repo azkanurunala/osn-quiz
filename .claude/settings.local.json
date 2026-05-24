@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "PowerShell(node --version)",
+      "PowerShell(nvm list)",
+      "Bash(curl -s http://localhost:5173)",
+      "PowerShell(cd \"c:\\\\Prospects\\\\osn-sd\\\\osn-app\"; $proc = Start-Process npm -ArgumentList \"run dev\" -NoNewWindow -PassThru; Start-Sleep -Seconds 6; Get-Process | Where-Object {$_.Name -eq 'node'} | Select-Object Name, ID)",
+      "PowerShell(Get-Process node -ErrorAction SilentlyContinue)",
+      "PowerShell(nvm use 20.19.0)"
+    ]
+  }
+}

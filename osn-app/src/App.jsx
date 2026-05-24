@@ -28,6 +28,8 @@ export default function App() {
   const [recordingMode, setRecordingMode] = useState(null); // 'manual' | 'auto-record' | null
   const [bulkQueue, setBulkQueue] = useState([]); // array of subBabId strings
   const [bulkPanelOpen, setBulkPanelOpen] = useState(false);
+  const [bulkStream, setBulkStream] = useState(null); // shared MediaStream for batch recording
+  const [bulkAudioCtx, setBulkAudioCtx] = useState(null); // shared AudioContext for batch recording
 
   const [settings, setSettings] = usePersistedState('osn-settings', DEFAULT_SETTINGS);
 
@@ -124,6 +126,11 @@ export default function App() {
     setStats({ xp: 0, streak: 0, lastActiveDate: null, medals: { gold: 0, silver: 0, bronze: 0 } });
     setProgress({});
   }, [setStats, setProgress]);
+
+  const handleStreamReady = useCallback((stream, audioCtx) => {
+    setBulkStream(stream);
+    setBulkAudioCtx(audioCtx);
+  }, []);
 
   return (
     <div className="min-h-screen bg-mesh flex flex-col font-sans">
@@ -243,7 +250,12 @@ export default function App() {
               questionsData={questionsData}
               subBabProgress={progress[selectedSubBab]}
               onUpdateProgress={(updater) => handleSubBabProgress(selectedSubBab, updater)}
-              onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); setRecordingMode(null); setBulkQueue([]); }}
+              onBack={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); setIsCleanMode(false); setRecordingMode(null); setBulkQueue([]);
+                bulkStream?.getTracks().forEach(t => t.stop());
+                bulkAudioCtx?.close();
+                setBulkStream(null);
+                setBulkAudioCtx(null);
+              }}
               onAddXp={handleAddXp}
               isCleanMode={isCleanMode}
               setIsCleanMode={setIsCleanMode}
@@ -252,9 +264,17 @@ export default function App() {
               onAutoRecordComplete={() => {
                 // After auto-record finishes, advance bulk queue if any
                 if (bulkQueue.length > 0) advanceBulkQueue();
-                else { setRecordingMode(null); }
+                else {
+                  setRecordingMode(null);
+                  bulkStream?.getTracks().forEach(t => t.stop());
+                  bulkAudioCtx?.close();
+                  setBulkStream(null);
+                  setBulkAudioCtx(null);
+                }
               }}
               bulkQueueRemaining={bulkQueue.length}
+              sharedStream={bulkStream}
+              onStreamReady={handleStreamReady}
             />
           )
         )}

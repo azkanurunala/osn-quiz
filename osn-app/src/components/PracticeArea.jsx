@@ -7,9 +7,9 @@ import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { fireMilestone } from '../utils/milestones';
 import { useT } from '../i18n';
-import { startRecording } from '../utils/recorder';
+import { startRecording, startRecordingFromStream } from '../utils/recorder';
 
-export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings, recordingMode, onAutoRecordComplete, bulkQueueRemaining = 0 }) {
+export default function PracticeArea({ subBabId, questionsData, subBabProgress, onUpdateProgress, onBack, onAddXp, isCleanMode, setIsCleanMode, settings, recordingMode, onAutoRecordComplete, bulkQueueRemaining = 0, sharedStream = null, onStreamReady = null }) {
   const t = useT();
   const vpDefaults = settings?.videoProduction || {};
   const isAutoRecord = recordingMode === 'auto-record';
@@ -76,6 +76,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const [recError, setRecError] = useState(null);
   // Gate the entire practice UI until recorder confirms started (or user falls back)
   const [recPreparing, setRecPreparing] = useState(isAutoRecord);
+  const [sessionCompleted, setSessionCompleted] = useState(false);
+  const [recHudExpanded, setRecHudExpanded] = useState(false);
 
   const currentQuestion = questions[currentIndex];
 
@@ -85,8 +87,14 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     if (recorderRef.current) return; // already running
     setRecError(null);
     setRecPreparing(true);
+    setSessionCompleted(false);
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
-    startRecording({ filename })
+
+    const startFn = sharedStream
+      ? startRecordingFromStream(sharedStream, { filename })
+      : startRecording({ filename, audioElement: audioRef.current });
+
+    Promise.resolve(startFn)
       .then((rec) => {
         if (recorderRef.current) {
           rec.stop({ autoDownload: false }).catch(() => {});
@@ -105,6 +113,12 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         setIntroTimeLeft(3);
         setRecPreparing(false);
 
+        document.documentElement.requestFullscreen?.().catch(() => {});
+
+        if (!sharedStream) {
+          onStreamReady?.(rec.stream, rec.audioCtx);
+        }
+
         rec.onUserStopped(() => {
           recorderRef.current = null;
           const fn = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
@@ -120,7 +134,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         setRecError(msg);
         setRecPreparing(false);
       });
-  }, [isAutoRecord, subBabId, questionsData]);
+  }, [isAutoRecord, subBabId, questionsData, sharedStream, onStreamReady]);
 
   // ----- Auto-record mode: kick off recorder on mount -----
   useEffect(() => {
@@ -149,7 +163,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
     const rec = recorderRef.current;
     recorderRef.current = null;
-    rec.stop({ autoDownload: true, filename })
+    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => {});
+    rec.stop({ autoDownload: true, filename, stopTracks: true })
       .then((blob) => {
         setSavedToast({ name: filename, size: blob?.size || 0 });
         setTimeout(() => setSavedToast(null), 8000);
@@ -157,18 +172,19 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       .catch(() => {});
   }, [subBabId, questionsData]);
 
-  // Stop recorder + auto-download when sub-bab completed
+  // Stop recorder + auto-download when session completed
   useEffect(() => {
     if (!isAutoRecord) return;
-    if (!subBabProgress?.completed) return;
+    if (!sessionCompleted) return;
     if (!recorderRef.current) return;
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
     const rec = recorderRef.current;
     recorderRef.current = null;
-    rec.stop({ autoDownload: true, filename })
+    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => {});
+    rec.stop({ autoDownload: true, filename, stopTracks: bulkQueueRemaining === 0 })
       .then(() => { onAutoRecordComplete?.(); })
       .catch(() => { onAutoRecordComplete?.(); });
-  }, [isAutoRecord, subBabProgress?.completed, subBabId, questionsData, onAutoRecordComplete]);
+  }, [isAutoRecord, sessionCompleted, subBabId, questionsData, bulkQueueRemaining, onAutoRecordComplete]);
 
   // Cleanup recorder if user navigates away mid-recording
   useEffect(() => {
@@ -181,11 +197,9 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   }, []);
 
   useEffect(() => {
-    if (!audioRef.current) {
-      audioRef.current = new Audio('https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3');
-      audioRef.current.loop = true;
+    if (audioRef.current) {
+      audioRef.current.volume = volume;
     }
-    audioRef.current.volume = volume;
   }, [volume]);
 
   useEffect(() => {
@@ -352,7 +366,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         setTimeLeft(15);
       } else {
         if (currentIndex < questions.length - 1) handleNextQuestion();
-        else { setIsCleanMode(false); alert(t('video_selesai_alert', 'Produksi Video Selesai! 🎉 Seluruh soal kuis telah selesai secara otomatis.')); }
+        else {
+          setSessionCompleted(true);
+          setIsCleanMode(false);
+          alert(t('video_selesai_alert', 'Produksi Video Selesai! 🎉 Seluruh soal kuis telah selesai secara otomatis.'));
+        }
       }
     }
   }, [timeLeft, timerEnabled, timerPhase, currentQuestion, currentIndex, isMuted, showIntro, onAddXp, handleNextQuestion, questions.length, setIsCleanMode, recordAnswer]);
@@ -383,21 +401,39 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     return () => window.removeEventListener('keydown', handler);
   }, [activeTab, isCleanMode, currentQuestion, isChecked, selectedOption, handleCheckAnswer, handleNextQuestion, handlePrevQuestion]);
 
+  // Render audio element always (even in non-clean mode) — must be in DOM for Web Audio API
+  const audioElement = (
+    <audio
+      ref={audioRef}
+      src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+      crossOrigin="anonymous"
+      loop
+      style={{ display: 'none' }}
+      onError={(e) => console.warn('[audio] Failed to load audio:', e)}
+      onCanPlay={() => console.log('[audio] Audio ready to play')}
+    />
+  );
+
   if (!currentQuestion) {
     return (
-      <div className="text-center p-12">
-        <HelpCircle className="w-16 h-16 mx-auto text-gray-300 animate-pulse mb-4" />
-        <h3 className="text-xl font-bold font-heading">{t('data_soal_tidak_ditemukan', 'Data Soal Tidak Ditemukan')}</h3>
-        <p className="text-gray-400 mt-2">{t('gagal_memuat_soal', 'Gagal memuat materi kuis atau data kuis kosong.')}</p>
-        <button onClick={onBack} className="mt-4 bg-brand-primary text-white px-6 py-2 rounded-xl text-sm font-bold">{t('kembali', 'Kembali')}</button>
-      </div>
+      <>
+        {audioElement}
+        <div className="text-center p-12">
+          <HelpCircle className="w-16 h-16 mx-auto text-gray-300 animate-pulse mb-4" />
+          <h3 className="text-xl font-bold font-heading">{t('data_soal_tidak_ditemukan', 'Data Soal Tidak Ditemukan')}</h3>
+          <p className="text-gray-400 mt-2">{t('gagal_memuat_soal', 'Gagal memuat materi kuis atau data kuis kosong.')}</p>
+          <button onClick={onBack} className="mt-4 bg-brand-primary text-white px-6 py-2 rounded-xl text-sm font-bold">{t('kembali', 'Kembali')}</button>
+        </div>
+      </>
     );
   }
 
   // Auto-record mode: gate practice UI behind share-screen permission flow
   if (isAutoRecord && (recPreparing || (recError && !recorderRef.current))) {
     return (
-      <div className="fixed inset-0 z-50 bg-[#7B2CBF] flex flex-col items-center justify-center font-sans select-none p-6">
+      <>
+        {audioElement}
+        <div className="fixed inset-0 z-50 bg-[#7B2CBF] flex flex-col items-center justify-center font-sans select-none p-6">
         <div className="absolute inset-0 opacity-15 pointer-events-none">
           <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
             <path d="M 0 100 Q 300 200 600 100 T 1200 100 T 1800 100" fill="none" stroke="white" strokeWidth="4" />
@@ -449,6 +485,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           )}
         </div>
       </div>
+        </>
     );
   }
 
@@ -463,7 +500,9 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   // Cinematic intro
   if (isCleanMode && showIntro) {
     return (
-      <div className="fixed inset-0 w-screen h-screen overflow-hidden bg-[#7B2CBF] flex flex-col items-center justify-center font-sans z-50 select-none">
+      <>
+        {audioElement}
+        <div className="fixed inset-0 w-screen h-screen overflow-hidden bg-[#7B2CBF] flex flex-col items-center justify-center font-sans z-50 select-none">
         <div className="absolute inset-0 opacity-15 pointer-events-none">
           <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
             <path d="M 0 120 Q 300 200 600 80 T 1200 120 T 1800 80" fill="none" stroke="white" strokeWidth="4" />
@@ -485,13 +524,16 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           </div>
         </div>
       </div>
+      </>
     );
   }
 
   // Clean mode (recording)
   if (isCleanMode) {
     return (
-      <div className="fixed inset-0 w-screen h-screen overflow-hidden flex flex-col justify-between bg-[#7B2CBF] font-sans z-50 select-none">
+      <>
+        {audioElement}
+        <div className="fixed inset-0 w-screen h-screen overflow-hidden flex flex-col justify-between bg-[#7B2CBF] font-sans z-50 select-none">
         <div className="absolute inset-0 opacity-15 pointer-events-none select-none">
           <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
             <path d="M 0 100 Q 300 200 600 100 T 1200 100 T 1800 100" fill="none" stroke="white" strokeWidth="4" />
@@ -506,24 +548,39 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           <Settings className="w-4 h-4 animate-spin-slow" />
         </button>
 
-        {/* REC indicator + Stop & Save button (only in auto-record mode) */}
+        {/* REC floating ghost button (only in auto-record mode) */}
         {isAutoRecord && (
-          <div className="fixed top-4 left-4 z-50 flex items-center gap-2">
-            <div className="flex items-center gap-2 px-3 py-1.5 bg-red-600/90 text-white rounded-full backdrop-blur-sm shadow-lg font-mono text-xs font-bold">
-              <span className="w-2 h-2 rounded-full bg-white animate-pulse"></span>
-              REC
-              <span className="text-white/80 tabular-nums">{Math.floor(recElapsed / 60).toString().padStart(2,'0')}:{(recElapsed % 60).toString().padStart(2,'0')}</span>
-              {bulkQueueRemaining > 0 && (
-                <span className="ml-1 px-1.5 py-0.5 bg-white/20 rounded-full text-[10px]">Antrian: {bulkQueueRemaining + 1}</span>
-              )}
+          <div
+            className="fixed top-4 left-4 z-50 group"
+            onClick={() => setRecHudExpanded(p => !p)}
+          >
+            <div className={`
+              flex items-center gap-2 rounded-full backdrop-blur-sm shadow-lg cursor-pointer
+              transition-all duration-300 overflow-hidden
+              ${recHudExpanded
+                ? 'px-3 py-1.5 bg-black/70 opacity-100 max-w-xs'
+                : 'w-8 h-8 bg-red-600/40 opacity-20 hover:opacity-90 hover:bg-black/70 hover:px-3 hover:py-1.5 hover:max-w-xs max-w-[2rem]'
+              }
+            `}>
+              <span className="w-2 h-2 rounded-full bg-red-500 shrink-0 animate-pulse" />
+              <span className={`text-white font-mono text-xs font-bold whitespace-nowrap
+                transition-opacity duration-200
+                ${recHudExpanded ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}
+              `}>
+                REC {Math.floor(recElapsed/60).toString().padStart(2,'0')}:{(recElapsed%60).toString().padStart(2,'0')}
+                {bulkQueueRemaining > 0 && ` · +${bulkQueueRemaining}`}
+              </span>
+              <button
+                onClick={(e) => { e.stopPropagation(); handleStopAndSave(); }}
+                className={`
+                  ml-1 px-2 py-0.5 bg-white/20 hover:bg-white/40 text-white text-[10px]
+                  font-extrabold rounded-full transition whitespace-nowrap shrink-0
+                  ${recHudExpanded ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}
+                `}
+              >
+                ■ Stop
+              </button>
             </div>
-            <button
-              onClick={handleStopAndSave}
-              className="px-3 py-1.5 bg-white/90 hover:bg-white text-gray-800 hover:text-brand-primary text-[11px] font-extrabold rounded-full shadow-lg transition flex items-center gap-1.5"
-              title="Hentikan rekaman dan simpan file sekarang"
-            >
-              ⬛ Stop & Save
-            </button>
           </div>
         )}
         {recError && (
@@ -672,12 +729,15 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           )}
         </div>
       </div>
+      </>
     );
   }
 
   // Standard learning mode
   return (
-    <div className={`mx-auto space-y-6 animate-fade-in pb-12 transition-all duration-500 ease-out ${isSplitActive ? 'max-w-7xl' : 'max-w-4xl'}`}>
+    <>
+      {audioElement}
+      <div className={`mx-auto space-y-6 animate-fade-in pb-12 transition-all duration-500 ease-out ${isSplitActive ? 'max-w-7xl' : 'max-w-4xl'}`}>
 
       {/* Header */}
       <div className="flex items-center justify-between glass-card rounded-2xl p-4 gap-4 flex-wrap">
@@ -933,7 +993,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           </div>
         </>
       )}
-    </div>
+      </div>
+    </>
   );
 }
 
