@@ -134,6 +134,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira jajar genjang pakai ½ × a × t (rumus segitiga): ½ × 12 × 8 = 48.
 - **C salah** — Kesalahan hitung perkalian: mengira 12 × 8 = 40.
 - **D benar** — L jajar genjang = a × t = 12 × 8 = 96 cm².
+- **Konsep kunci:** Luas jajar genjang dihitung dengan rumus L = alas × tinggi tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Tentukan alas = 12 cm dan tinggi = 8 cm.
+  2. Kalikan alas × tinggi = 12 × 8.
+  3. Diperoleh luas = 96 cm².
 
 ---
 
@@ -150,6 +155,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Hanya menjumlahkan 6 + 10 + 4 = 20 (mengira keliling parsial).
 - **C salah** — Lupa kali ½: (6 + 10) × 4 = 64 (kesalahan paling sering).
 - **D benar** — L = ½ × (6 + 10) × 4 = ½ × 16 × 4 = 32 cm².
+- **Konsep kunci:** Luas trapesium dihitung dengan rumus L = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kedua sisi sejajar: 6 + 10 = 16.
+  2. Kalikan dengan tinggi: 16 × 4 = 64.
+  3. Bagi 2 untuk dapat luas: 64 ÷ 2 = 32 cm².
 
 ---
 
@@ -166,6 +176,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa kali ½: 14 × 8 = 112 (kesalahan paling sering).
 - **C salah** — Kelebihan bagi 2: 56 ÷ 2 = 28.
 - **D benar** — L = ½ × d₁ × d₂ = ½ × 14 × 8 = 56 cm².
+- **Konsep kunci:** Luas layang-layang dihitung dengan rumus L = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 14 × 8 = 112.
+  2. Bagi 2 untuk dapat luas: 112 ÷ 2 = 56 cm².
 
 ---
 
@@ -182,6 +196,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa kali ½: 10 × 12 = 120 (kesalahan paling sering).
 - **C salah** — Menjumlahkan 10 + 12 = 22.
 - **D salah** — Kelebihan bagi 2: 60 ÷ 2 = 30.
+- **Konsep kunci:** Luas belah ketupat memakai rumus yang sama dengan layang-layang, yaitu L = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 10 × 12 = 120.
+  2. Bagi 2 untuk dapat luas: 120 ÷ 2 = 60 cm².
 
 ---
 
@@ -198,6 +216,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Menjumlahkan 15 + 10 = 25.
 - **C salah** — Salah pembagian: 150 ÷ 3 = 50 (acak).
 - **D benar** — L = a × t = 15 × 10 = 150 cm².
+- **Konsep kunci:** Luas jajar genjang dihitung dengan rumus L = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 15 × 10.
+  2. Diperoleh luas = 150 cm².
 
 ---
 
@@ -214,6 +236,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Hanya (9 + 13) = 22 (lupa kalikan tinggi).
 - **C salah** — Salah pilih sisi: 13 × 6 = 78 (hanya 1 sisi sejajar).
 - **D benar** — L = ½ × (9 + 13) × 6 = ½ × 22 × 6 = 66 cm².
+- **Konsep kunci:** Luas trapesium dihitung dengan rumus L = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 9 + 13 = 22.
+  2. Kalikan dengan tinggi: 22 × 6 = 132.
+  3. Bagi 2: 132 ÷ 2 = 66 cm².
 
 ---
 
@@ -230,6 +257,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa kali ½: 16 × 12 = 192.
 - **C salah** — Kelebihan bagi 2: 96 ÷ 2 = 48.
 - **D benar** — L = ½ × 16 × 12 = 96 cm².
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 16 × 12 = 192.
+  2. Bagi 2: 192 ÷ 2 = 96 cm².
 
 ---
 
@@ -246,6 +277,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Menjumlahkan 20 + 6 = 26.
 - **C salah** — Lupa kali ½: 20 × 6 = 120.
 - **D salah** — Kelebihan bagi 2: 60 ÷ 2 = 30.
+- **Konsep kunci:** Luas layang-layang = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 20 × 6 = 120.
+  2. Bagi 2: 120 ÷ 2 = 60 cm².
 
 ---
 
@@ -262,6 +297,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira ½ × a × t (rumus segitiga): ½ × 18 × 7 = 63.
 - **C salah** — Salah hitung perkalian: mengira 18 × 7 = 36.
 - **D benar** — L = 18 × 7 = 126 cm².
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 18 × 7.
+  2. Diperoleh luas = 126 cm².
 
 ---
 
@@ -278,6 +317,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah hitung: ½ × 12 × 8 = 48 (mengira (a+b) = 12).
 - **C salah** — Lupa kali ½: (5 + 11) × 8 = 128.
 - **D benar** — L = ½ × (5 + 11) × 8 = ½ × 16 × 8 = 64 cm².
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 5 + 11 = 16.
+  2. Kalikan tinggi: 16 × 8 = 128.
+  3. Bagi 2: 128 ÷ 2 = 64 cm².
 
 ---
 
@@ -294,6 +338,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira pakai rumus segitiga: 84 = ½ × 12 × t → t = 14.
 - **C salah** — Salah pembagian: 84 ÷ 12 dibulatkan keliru ke 9.
 - **D salah** — Salah pembagian lain (acak).
+- **Konsep kunci:** Karena luas dan alas sudah diketahui, tinggi jajar genjang dicari dengan membalik rumus: t = L ÷ a.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan alas: 84 ÷ 12.
+  2. Diperoleh tinggi = 7 cm.
 
 ---
 
@@ -310,6 +358,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (4 × 96) ÷ 16 = 24.
 - **C benar** — d₂ = (2 × 96) ÷ 16 = 192 ÷ 16 = 12 cm.
 - **D salah** — Salah pembagian: 96 ÷ 12 = 8.
+- **Konsep kunci:** Karena rumus belah ketupat memakai ½, mencari diagonal dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 96 × 2 = 192.
+  2. Bagi dengan diagonal yang diketahui: 192 ÷ 16 = 12 cm.
 
 ---
 
@@ -326,6 +378,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — d₂ = (2 × 70) ÷ 14 = 140 ÷ 14 = 10 cm.
 - **C salah** — Kelebihan kali 2: (4 × 70) ÷ 14 = 20.
 - **D salah** — Hanya bagi 2: 70 ÷ 2 = 35.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas dilakukan dengan mengalikan luas dengan 2 lebih dulu, baru dibagi diagonal yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 70 × 2 = 140.
+  2. Bagi dengan diagonal yang diketahui: 140 ÷ 14 = 10 cm.
 
 ---
 
@@ -342,6 +398,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah hitung: 60 × 2 ÷ 4 = 30 (pakai tinggi salah).
 - **C salah** — Sembarang ambil 8 (tinggi).
 - **D benar** — (a + b) = (2 × L) ÷ t = 120 ÷ 8 = 15 cm.
+- **Konsep kunci:** Jumlah sisi sejajar trapesium dicari dengan rumus (a + b) = (2 × L) ÷ tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 60 × 2 = 120.
+  2. Bagi dengan tinggi: 120 ÷ 8 = 15 cm.
 
 ---
 
@@ -358,6 +418,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah hitung: 144 ÷ 18 = 8 (pakai 2t).
 - **C salah** — Mengira pakai rumus segitiga: 144 = ½ × a × 9 → a = 32; di sini diacak ke 18.
 - **D salah** — Salah pembagian (acak).
+- **Konsep kunci:** Karena luas dan tinggi jajar genjang sudah diketahui, alas dicari dengan rumus a = L ÷ t.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan tinggi: 144 ÷ 9.
+  2. Diperoleh alas = 16 cm.
 
 ---
 
@@ -374,6 +438,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah identifikasi: 12 × 5 ÷ 2 = 30 (hanya 1 sisi sejajar).
 - **C salah** — Hanya (8 + 12) = 20 (lupa kalikan t).
 - **D benar** — L = ½ × (8 + 12) × 5 = ½ × 20 × 5 = 50 cm².
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 8 + 12 = 20.
+  2. Kalikan tinggi: 20 × 5 = 100.
+  3. Bagi 2: 100 ÷ 2 = 50 cm².
 
 ---
 
@@ -390,6 +459,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Rata-rata diagonal: (18 + 24) ÷ 2 = 21.
 - **C salah** — Kelebihan bagi 2: 216 ÷ 2 = 108.
 - **D benar** — L = ½ × 18 × 24 = 216 cm².
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 18 × 24 = 432.
+  2. Bagi 2: 432 ÷ 2 = 216 cm².
 
 ---
 
@@ -406,6 +479,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan bagi 2: 150 ÷ 2 = 75.
 - **C salah** — Lupa ½: 25 × 12 = 300.
 - **D benar** — L = ½ × 25 × 12 = 150 cm².
+- **Konsep kunci:** Luas layang-layang = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 25 × 12 = 300.
+  2. Bagi 2: 300 ÷ 2 = 150 cm².
 
 ---
 
@@ -422,6 +499,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah pembagian: 98 ÷ 14 dibulatkan keliru ke 6.
 - **C benar** — t = L ÷ a = 98 ÷ 14 = 7 cm.
 - **D salah** — Pakai rumus segitiga: 98 = ½ × 14 × t → t = 14, dibulatkan ke 12 (acak).
+- **Konsep kunci:** Tinggi jajar genjang dicari dengan membalik rumus luas: t = L ÷ a.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan alas: 98 ÷ 14.
+  2. Diperoleh tinggi = 7 cm.
 
 ---
 
@@ -438,6 +519,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Menjumlahkan 7 + 9 + 10 = 26.
 - **C salah** — Lupa ½: (7 + 9) × 10 = 160.
 - **D salah** — Salah hitung: 9 × 10 = 90 (hanya 1 sisi sejajar).
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 7 + 9 = 16.
+  2. Kalikan tinggi: 16 × 10 = 160.
+  3. Bagi 2: 160 ÷ 2 = 80 cm².
 
 ---
 
@@ -454,6 +540,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (4 × 120) ÷ 30 = 16.
 - **C salah** — Salah pembagian: 120 ÷ 10 = 12 (pakai d/3).
 - **D benar** — d₂ = (2 × 120) ÷ 30 = 240 ÷ 30 = 8 cm.
+- **Konsep kunci:** Mencari diagonal belah ketupat dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 120 × 2 = 240.
+  2. Bagi dengan diagonal yang diketahui: 240 ÷ 30 = 8 cm.
 
 ---
 
@@ -470,6 +560,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Salah pembagian: 72 ÷ 9 = 8 (acak).
 - **C salah** — Kelebihan kali 2: (4 × 72) ÷ 12 = 24.
 - **D benar** — d₂ = (2 × 72) ÷ 12 = 144 ÷ 12 = 12 cm.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 72 × 2 = 144.
+  2. Bagi dengan diagonal yang diketahui: 144 ÷ 12 = 12 cm.
 
 ---
 
@@ -486,6 +580,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira ½ × a × t: ½ × 25 × 12 = 150.
 - **C salah** — Kelebihan kali 2: 2 × 300 = 600.
 - **D benar** — L = 25 × 12 = 300 cm².
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 25 × 12.
+  2. Diperoleh luas = 300 cm².
 
 ---
 
@@ -502,6 +600,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Hanya (10 + 14 + 6) = 30 (mengira keliling parsial).
 - **C salah** — Salah pilih: 14 × 6 = 84 (hanya 1 sisi sejajar).
 - **D benar** — L = ½ × (10 + 14) × 6 = ½ × 24 × 6 = 72 cm².
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 10 + 14 = 24.
+  2. Kalikan tinggi: 24 × 6 = 144.
+  3. Bagi 2: 144 ÷ 2 = 72 cm².
 
 ---
 
@@ -518,6 +621,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 14 × 10 = 140.
 - **C benar** — L = ½ × 14 × 10 = 70 cm².
 - **D salah** — Kelebihan bagi 2: 70 ÷ 2 = 35.
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 14 × 10 = 140.
+  2. Bagi 2: 140 ÷ 2 = 70 cm².
 
 ---
 
@@ -534,6 +641,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = ½ × 16 × 9 = 72 cm².
 - **C salah** — Lupa ½: 16 × 9 = 144.
 - **D salah** — Kelebihan bagi 2: 72 ÷ 2 = 36.
+- **Konsep kunci:** Luas layang-layang = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 16 × 9 = 144.
+  2. Bagi 2: 144 ÷ 2 = 72 cm².
 
 ---
 
@@ -550,6 +661,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira ½ × a × t: ½ × 20 × 15 = 150.
 - **C salah** — Kelebihan kali 2: 2 × 300 = 600.
 - **D benar** — L = 20 × 15 = 300 cm².
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 20 × 15.
+  2. Diperoleh luas = 300 cm².
 
 ---
 
@@ -566,6 +681,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: (15 + 25) × 8 = 320.
 - **C benar** — L = ½ × (15 + 25) × 8 = ½ × 40 × 8 = 160 cm².
 - **D salah** — Salah hitung: 25 × 8 = 200 (hanya 1 sisi sejajar).
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 15 + 25 = 40.
+  2. Kalikan tinggi: 40 × 8 = 320.
+  3. Bagi 2: 320 ÷ 2 = 160 cm².
 
 ---
 
@@ -582,6 +702,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 22 × 14 = 308.
 - **C benar** — L = ½ × 22 × 14 = 154 cm².
 - **D salah** — Kelebihan bagi 2: 154 ÷ 2 = 77.
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 22 × 14 = 308.
+  2. Bagi 2: 308 ÷ 2 = 154 cm².
 
 ---
 
@@ -598,6 +722,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Menjumlahkan 30 + 16 = 46.
 - **C salah** — Kelebihan bagi 2: 240 ÷ 2 = 120.
 - **D benar** — L = ½ × 30 × 16 = 240 cm².
+- **Konsep kunci:** Luas layang-layang = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 30 × 16 = 480.
+  2. Bagi 2: 480 ÷ 2 = 240 cm².
 
 ---
 
@@ -614,6 +742,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira ½ × a × t: ½ × 25 × 18 = 225.
 - **C benar** — L = 25 × 18 = 450 m².
 - **D salah** — Salah hitung: 5 × 18 = 90 (memotong alas).
+- **Konsep kunci:** Rumus luas jajar genjang (L = a × t) berlaku juga pada soal cerita kebun berbentuk jajar genjang.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 25 × 18.
+  2. Diperoleh luas kebun = 450 m².
 
 ---
 
@@ -630,6 +762,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = ½ × (12 + 18) × 10 = ½ × 30 × 10 = 150 m².
 - **C salah** — Lupa ½: (12 + 18) × 10 = 300.
 - **D salah** — Salah pilih: 12 + 18 + 10 = 40.
+- **Konsep kunci:** Luas taman berbentuk trapesium tetap memakai rumus L = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 12 + 18 = 30.
+  2. Kalikan tinggi: 30 × 10 = 300.
+  3. Bagi 2: 300 ÷ 2 = 150 m².
 
 ---
 
@@ -646,6 +783,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 60 × 40 = 2.400.
 - **C salah** — Kelebihan bagi 2: 1.200 ÷ 2 = 600.
 - **D benar** — L = ½ × 60 × 40 = 1.200 cm².
+- **Konsep kunci:** Luas kertas layang-layang dihitung dengan rumus L = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 60 × 40 = 2.400.
+  2. Bagi 2: 2.400 ÷ 2 = 1.200 cm².
 
 ---
 
@@ -662,6 +803,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = ½ × 8 × 6 = 24 m².
 - **C salah** — Lupa ½: 8 × 6 = 48.
 - **D salah** — Kelebihan bagi 2: 24 ÷ 2 = 12.
+- **Konsep kunci:** Luas lantai belah ketupat memakai rumus L = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 8 × 6 = 48.
+  2. Bagi 2: 48 ÷ 2 = 24 m².
 
 ---
 
@@ -678,6 +823,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (2 × 240) ÷ 20 = 24, diacak ke 30.
 - **C benar** — t = L ÷ a = 240 ÷ 20 = 12 m.
 - **D salah** — Salah pembagian: 240 ÷ 30 = 8 (pakai alas salah).
+- **Konsep kunci:** Tinggi jajar genjang dicari dengan membalik rumus luas: t = L ÷ a, berlaku juga pada soal cerita lahan.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan alas: 240 ÷ 20.
+  2. Diperoleh tinggi = 12 m.
 
 ---
 
@@ -694,6 +843,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = ½ × 20 × 12 = 120 cm².
 - **C salah** — Lupa ½: 20 × 12 = 240.
 - **D salah** — Kelebihan bagi 2: 120 ÷ 2 = 60.
+- **Konsep kunci:** Luas ubin belah ketupat dihitung dengan rumus L = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 20 × 12 = 240.
+  2. Bagi 2: 240 ÷ 2 = 120 cm².
 
 ---
 
@@ -710,6 +863,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (4 × 84) ÷ 12 = 28.
 - **C salah** — Salah hitung: (2 × 84) ÷ 8 = 21 (pakai d salah).
 - **D benar** — d₂ = (2 × 84) ÷ 12 = 168 ÷ 12 = 14 cm.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 84 × 2 = 168.
+  2. Bagi dengan diagonal yang diketahui: 168 ÷ 12 = 14 cm.
 
 ---
 
@@ -726,6 +883,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa kali 2: 90 ÷ 20 = 4,5.
 - **C salah** — Kelebihan kali 2: (4 × 90) ÷ 20 = 18.
 - **D salah** — Sembarang ambil 20 (a + b).
+- **Konsep kunci:** Tinggi trapesium dicari dengan rumus t = (2 × L) ÷ (jumlah sisi sejajar).
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 90 × 2 = 180.
+  2. Bagi dengan jumlah sisi sejajar: 180 ÷ 20 = 9 cm.
 
 ---
 
@@ -742,6 +903,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = 30 × 25 = 750 cm².
 - **C salah** — Mengira ½ × a × t: ½ × 30 × 25 = 375.
 - **D salah** — Salah hitung: 30 × 5 = 150 (memotong tinggi).
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 30 × 25.
+  2. Diperoleh luas = 750 cm².
 
 ---
 
@@ -758,6 +923,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: (40 + 60) × 30 = 3.000.
 - **C salah** — Salah pilih: 60 × 30 = 1.800 (hanya 1 sisi sejajar).
 - **D salah** — Salah pilih: 40 + 60 + 30 = 130 (keliling parsial).
+- **Konsep kunci:** Luas lukisan berbentuk trapesium tetap dihitung dengan L = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 40 + 60 = 100.
+  2. Kalikan tinggi: 100 × 30 = 3.000.
+  3. Bagi 2: 3.000 ÷ 2 = 1.500 cm².
 
 ---
 
@@ -774,6 +944,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 26 × 24 = 624.
 - **C salah** — Kelebihan bagi 2: 312 ÷ 2 = 156.
 - **D benar** — L = ½ × 26 × 24 = 312 cm².
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 26 × 24 = 624.
+  2. Bagi 2: 624 ÷ 2 = 312 cm².
 
 ---
 
@@ -790,6 +964,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Pakai rumus segitiga: 180 = ½ × a × 12 → a = 30.
 - **C salah** — Salah hitung: 180 ÷ 7,5 = 24 (acak).
 - **D salah** — Sembarang ambil 12 (tinggi).
+- **Konsep kunci:** Alas jajar genjang dicari dengan membalik rumus luas: a = L ÷ t.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan tinggi: 180 ÷ 12.
+  2. Diperoleh alas = 15 cm.
 
 ---
 
@@ -806,6 +984,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (4 × 168) ÷ 24 = 28.
 - **C salah** — Salah hitung: 168 ÷ 8 = 21 (pakai 1/3 sisi).
 - **D benar** — t = (2 × L) ÷ (a + b) = 336 ÷ 24 = 14 cm.
+- **Konsep kunci:** Tinggi trapesium dicari dengan rumus t = (2 × L) ÷ (jumlah sisi sejajar).
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 168 × 2 = 336.
+  2. Bagi dengan jumlah sisi sejajar: 336 ÷ 24 = 14 cm.
 
 ---
 
@@ -822,6 +1004,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Kelebihan kali 2: (4 × 84) ÷ 14 = 24.
 - **C benar** — d₂ = (2 × 84) ÷ 14 = 168 ÷ 14 = 12 cm.
 - **D salah** — Sembarang ambil 14 (diagonal yang sudah ada).
+- **Konsep kunci:** Mencari diagonal belah ketupat dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 84 × 2 = 168.
+  2. Bagi dengan diagonal yang diketahui: 168 ÷ 14 = 12 cm.
 
 ---
 
@@ -838,6 +1024,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 18 × 14 = 252.
 - **C benar** — L = ½ × 18 × 14 = 126 cm².
 - **D salah** — Kelebihan bagi 2: 126 ÷ 2 = 63.
+- **Konsep kunci:** Luas layang-layang = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 18 × 14 = 252.
+  2. Bagi 2: 252 ÷ 2 = 126 cm².
 
 ---
 
@@ -854,6 +1044,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Menjumlahkan 22 + 11 = 33.
 - **C benar** — L = 22 × 11 = 242 cm².
 - **D salah** — Kelebihan kali 2: 2 × 242 = 484.
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 22 × 11.
+  2. Diperoleh luas = 242 cm².
 
 ---
 
@@ -870,6 +1064,11 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — L = ½ × (14 + 18) × 9 = ½ × 32 × 9 = 144 cm².
 - **C salah** — Salah pilih: 18 × 9 = 162 (hanya 1 sisi sejajar).
 - **D salah** — Salah pilih: 14 + 18 + 9 = 41.
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 14 + 18 = 32.
+  2. Kalikan tinggi: 32 × 9 = 288.
+  3. Bagi 2: 288 ÷ 2 = 144 cm².
 
 ---
 
@@ -886,6 +1085,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Lupa ½: 30 × 16 = 480.
 - **C benar** — L = ½ × 30 × 16 = 240 cm².
 - **D salah** — Kelebihan bagi 2: 240 ÷ 2 = 120.
+- **Konsep kunci:** Luas belah ketupat = ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 30 × 16 = 480.
+  2. Bagi 2: 480 ÷ 2 = 240 cm².
 
 ---
 
@@ -902,6 +1105,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B benar** — d₂ = (2 × 96) ÷ 16 = 192 ÷ 16 = 12 cm.
 - **C salah** — Kelebihan kali 2: (4 × 96) ÷ 16 = 24.
 - **D salah** — Salah pembagian: 96 ÷ 12 = 8.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 96 × 2 = 192.
+  2. Bagi dengan diagonal yang diketahui: 192 ÷ 16 = 12 cm.
 
 ---
 
@@ -918,6 +1125,10 @@ Bagian ini berisi hitungan langsung dengan dimensi diberikan jelas. Pemanasan da
 - **B salah** — Mengira ½ × a × t: ½ × 35 × 12 = 210.
 - **C benar** — L = 35 × 12 = 420 m².
 - **D salah** — Salah hitung: 35 × 3 = 105 (memotong tinggi).
+- **Konsep kunci:** Luas taman berbentuk jajar genjang dihitung dengan L = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas × tinggi = 35 × 12.
+  2. Diperoleh luas = 420 m².
 
 ---
 
@@ -940,6 +1151,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Hitung 1,5 × 80 = 120, lalu × 10 (acak) = 1.200 (tanpa konversi benar).
 - **C salah** — Hitung 1,5 × 80 = 120 (tanpa konversi).
 - **D salah** — Salah konversi: 15 × 16 = 240.
+- **Konsep kunci:** Sebelum dihitung, semua satuan panjang harus disamakan dulu (di sini meter diubah ke sentimeter).
+- **Langkah Penyelesaian:**
+  1. Ubah 1,5 m menjadi 150 cm.
+  2. Kalikan alas × tinggi: 150 × 80.
+  3. Diperoleh luas = 12.000 cm².
 
 ---
 
@@ -956,6 +1172,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Salah konversi total: 1,2 dm = 1,2 cm (salah, harusnya 12 cm); hasil acak.
 - **C salah** — Tidak konversi: ½ × (25 + 35) × 1,2 ÷ ... acak ke 72.
 - **D benar** — Ubah satuan: 1,2 dm = 12 cm. L = ½ × (25 + 35) × 12 = ½ × 60 × 12 = 360 cm².
+- **Konsep kunci:** Satuan tinggi (dm) harus diubah dulu ke sentimeter sebelum dimasukkan ke rumus luas trapesium.
+- **Langkah Penyelesaian:**
+  1. Ubah 1,2 dm menjadi 12 cm.
+  2. Jumlahkan sisi sejajar dan kalikan tinggi: (25 + 35) × 12 = 720.
+  3. Bagi 2: 720 ÷ 2 = 360 cm².
 
 ---
 
@@ -972,6 +1193,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Lupa ½ pada ubin: 12 m² ÷ 1.200 cm² → harus 100 (konversi salah lagi).
 - **C benar** — L ubin = ½ × 40 × 30 = 600 cm² = 0,06 m². Banyak ubin = 12 ÷ 0,06 = 200.
 - **D salah** — Lupa ½: L ubin = 1.200 cm² salah; tapi diacak 400 (1/2 dari 200).
+- **Konsep kunci:** Banyak ubin dicari dengan membagi luas ruangan (dalam satuan yang sama) dengan luas satu ubin.
+- **Langkah Penyelesaian:**
+  1. Hitung luas satu ubin: ½ × 40 × 30 = 600 cm² = 0,06 m².
+  2. Bagi luas ruangan dengan luas ubin: 12 ÷ 0,06 = 200.
 
 ---
 
@@ -988,6 +1213,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Mengira keduanya sama luas.
 - **C salah** — Salah hitung: 117 vs 144 → 27.
 - **D salah** — Lupa ½ pada trapesium: 234 − 126 = 108, diacak ke 18.
+- **Konsep kunci:** Selisih luas dua bangun dicari dengan menghitung luas masing-masing dulu, baru dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Hitung luas jajar genjang: 14 × 9 = 126.
+  2. Hitung luas trapesium: ½ × (10 + 16) × 9 = 117.
+  3. Kurangkan: 126 − 117 = 9 cm².
 
 ---
 
@@ -1004,6 +1234,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — Kertas = 50 × 40 = 2.000 cm². Layang = ½ × 50 × 40 = 1.000. Sisa = 2.000 − 1.000 = 1.000 cm².
 - **C salah** — Salah hitung: 2.000 − 500 = 1.500 (luas layang salah).
 - **D salah** — Salah hitung sisa: 1.000 − 500 = 500 (kelebihan bagi 2).
+- **Konsep kunci:** Sisa kertas dihitung dengan mengurangkan luas layang-layang dari luas kertas persegi panjang.
+- **Langkah Penyelesaian:**
+  1. Hitung luas kertas: 50 × 40 = 2.000 cm².
+  2. Hitung luas layang-layang: ½ × 50 × 40 = 1.000 cm².
+  3. Kurangkan: 2.000 − 1.000 = 1.000 cm².
 
 ---
 
@@ -1020,6 +1255,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Salah hitung luas: ½ × 24 × 15 = 180 → 180 × 25.000 = Rp4.500.000.
 - **C salah** — Lupa ½: 720 × 25.000 = Rp18.000.000.
 - **D salah** — Salah konsep: 90 × 25.000 = Rp2.250.000.
+- **Konsep kunci:** Biaya rumput dihitung dengan mengalikan luas taman dengan harga per meter persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas taman: ½ × (20 + 28) × 15 = 360 m².
+  2. Kalikan dengan harga: 360 × Rp25.000 = Rp9.000.000.
 
 ---
 
@@ -1036,6 +1275,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — Pythagoras: ½d₁ = 12. (½d₂)² = 13² − 12² = 169 − 144 = 25 → ½d₂ = 5 → d₂ = 10 cm.
 - **C salah** — Berhenti di ½d₂ = 5 (lupa kali 2).
 - **D salah** — Kelebihan kali 2: 13 × 2 = 26.
+- **Konsep kunci:** Setengah diagonal dan sisi belah ketupat membentuk segitiga siku-siku, sehingga diagonal yang belum diketahui dicari dengan dalil Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Hitung ½d₁ = 12.
+  2. Cari ½d₂ dengan Pythagoras: √(13² − 12²) = 5.
+  3. Kalikan 2: d₂ = 2 × 5 = 10 cm.
 
 ---
 
@@ -1052,6 +1296,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Salah hitung: ½ × 12 × 10 = 60 (pakai setengah diagonal).
 - **C benar** — Pythagoras: ½d₂ = 5 → d₂ = 10. L = ½ × 24 × 10 = 120 cm². (Lihat soal 57.)
 - **D salah** — Lupa ½: 24 × 13 = 312.
+- **Konsep kunci:** Jika diagonal belum lengkap, cari dulu diagonal yang hilang dengan Pythagoras, baru hitung luasnya.
+- **Langkah Penyelesaian:**
+  1. Cari ½d₂ dengan Pythagoras: √(13² − 12²) = 5, sehingga d₂ = 10 cm.
+  2. Hitung luas: ½ × 24 × 10 = 120 cm².
 
 ---
 
@@ -1068,6 +1316,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Kelebihan bagi 2: 240 ÷ 2 = 120.
 - **C salah** — Lupa ½: (12 + 20) × 15 = 480.
 - **D salah** — Salah pilih: 12 + 20 + 15 = 47.
+- **Konsep kunci:** Luas trapesium siku-siku tetap dihitung dengan rumus L = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 12 + 20 = 32.
+  2. Kalikan tinggi: 32 × 15 = 480.
+  3. Bagi 2: 480 ÷ 2 = 240 cm².
 
 ---
 
@@ -1084,6 +1337,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Luas saja: 50 × 24 = 1.200 (lupa kali 6 kg/m²).
 - **C benar** — L = 50 × 24 = 1.200 m². Panen = 1.200 × 6 = 7.200 kg.
 - **D salah** — Kelebihan kali 2: 7.200 × 2 = 14.400.
+- **Konsep kunci:** Total panen dihitung dengan mengalikan luas sawah dengan hasil panen per meter persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas sawah: 50 × 24 = 1.200 m².
+  2. Kalikan dengan hasil per m²: 1.200 × 6 = 7.200 kg.
 
 ---
 
@@ -1100,6 +1357,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Lupa kali 2 dan salah lagi: 12 ÷ 2 = 6.
 - **C benar** — d₂ = (2 × 240) ÷ 20 = 480 ÷ 20 = 24 cm.
 - **D salah** — Kelebihan kali 2: (4 × 240) ÷ 20 = 48.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 240 × 2 = 480.
+  2. Bagi dengan diagonal yang diketahui: 480 ÷ 20 = 24 cm.
 
 ---
 
@@ -1116,6 +1377,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — (a + b) = (2 × 270) ÷ 18 = 540 ÷ 18 = 30. b = 30 − 10 = 20 cm.
 - **C salah** — Salah hitung: 30 − 15 = 15 (acak).
 - **D salah** — Sembarang ambil 30 (a + b, lupa kurangi sisi pendek).
+- **Konsep kunci:** Sisi sejajar yang belum diketahui dicari dengan mencari dulu jumlah kedua sisi sejajar, baru dikurangi sisi yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Cari jumlah sisi sejajar: (2 × 270) ÷ 18 = 30.
+  2. Kurangi sisi yang sudah diketahui: 30 − 10 = 20 cm.
 
 ---
 
@@ -1132,6 +1397,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — Alas = 20 cm, tinggi = 8 cm → L = 20 × 8 = 160 cm².
 - **C salah** — Salah pilih sisi: 10 × 8 = 80.
 - **D salah** — Sembarang ambil 60 (keliling).
+- **Konsep kunci:** Tinggi jajar genjang harus dipasangkan dengan sisi yang benar-benar tegak lurus terhadapnya, bukan sembarang sisi.
+- **Langkah Penyelesaian:**
+  1. Kenali bahwa tinggi 8 cm tegak lurus terhadap sisi 20 cm, sehingga sisi itu jadi alas.
+  2. Kalikan alas × tinggi: 20 × 8 = 160 cm².
 
 ---
 
@@ -1148,6 +1417,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Menjumlahkan 18 + 14 = 32.
 - **C salah** — Kelebihan bagi 2: 126 ÷ 2 = 63.
 - **D benar** — L = ½ × 18 × 14 = 126 cm².
+- **Konsep kunci:** Luas layang-layang ABCD dihitung dari kedua diagonalnya, L = ½ × AC × BD.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 18 × 14 = 252.
+  2. Bagi 2: 252 ÷ 2 = 126 cm².
 
 ---
 
@@ -1164,6 +1437,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Lupa ½: ubin = 480 cm² → 12.000 ÷ 480 = 25, salah diacak 100.
 - **C benar** — Lantai = 1,2 × 1 = 1,2 m² = 12.000 cm². Ubin = ½ × 20 × 24 = 240 cm². Jumlah = 12.000 ÷ 240 = 50.
 - **D salah** — Kelebihan: 50 × 4 = 200.
+- **Konsep kunci:** Jumlah ubin dicari dengan membagi luas lantai (setelah disamakan satuannya) dengan luas satu ubin.
+- **Langkah Penyelesaian:**
+  1. Ubah luas lantai ke cm²: 1,2 × 1 m² = 1,2 m² = 12.000 cm².
+  2. Hitung luas ubin: ½ × 20 × 24 = 240 cm².
+  3. Bagi: 12.000 ÷ 240 = 50.
 
 ---
 
@@ -1180,6 +1458,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Itu adalah tinggi: 3 × 4 = 12.
 - **C salah** — Salah hitung: k = 4 → 4 × 4 = 16 (salah formula).
 - **D salah** — Pakai k = 5: alas = 5 × 5 = 25 (rasio salah).
+- **Konsep kunci:** Jika hanya diketahui rasio alas dan tinggi, misalkan keduanya dengan k, lalu selesaikan dari rumus luas.
+- **Langkah Penyelesaian:**
+  1. Misalkan alas = 5k dan tinggi = 3k, sehingga L = 15k² = 240 → k² = 16 → k = 4.
+  2. Hitung alas: 5 × 4 = 20 cm.
 
 ---
 
@@ -1196,6 +1478,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Salah identifikasi: L trapesium = 110.
 - **C salah** — Salah hitung: 70 − 40 = 30 (selisih).
 - **D benar** — Segitiga ACD memiliki alas CD = 14, tinggi sama dengan trapesium = 10. L = ½ × 14 × 10 = 70 cm².
+- **Konsep kunci:** Segitiga yang terbentuk dari pemotongan trapesium memakai salah satu sisi sejajar sebagai alas dan tinggi trapesium sebagai tingginya.
+- **Langkah Penyelesaian:**
+  1. Kenali alas segitiga ACD = CD = 14 cm dan tinggi = tinggi trapesium = 10 cm.
+  2. Hitung luas: ½ × 14 × 10 = 70 cm².
 
 ---
 
@@ -1212,6 +1498,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — Luas awal = ½ × 24 × 18 = 216. Jika kedua diagonal × 2, luas × 4 = 216 × 4 = 864 cm².
 - **C salah** — Mengira × 6: 216 × 6 = 1.296.
 - **D salah** — Tetap di luas awal: 216 (tidak menerapkan pengali).
+- **Konsep kunci:** Jika kedua diagonal belah ketupat diperbesar n kali, luasnya menjadi n² kali luas semula.
+- **Langkah Penyelesaian:**
+  1. Hitung luas awal: ½ × 24 × 18 = 216 cm².
+  2. Karena kedua diagonal x2, luas menjadi x4: 216 × 4 = 864 cm².
 
 ---
 
@@ -1228,6 +1518,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Sembarang ambil 30 (a + b, lupa kurangi).
 - **C salah** — Salah hitung: 180 ÷ 10 = 18.
 - **D salah** — Lupa kali 2: 180 ÷ 12 = 15.
+- **Konsep kunci:** Sisi sejajar yang belum diketahui dicari dengan mencari jumlah kedua sisi sejajar dulu, baru dikurangi sisi yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Cari jumlah sisi sejajar: (2 × 180) ÷ 12 = 30.
+  2. Kurangi sisi yang sudah diketahui: 30 − 6 = 24 cm.
 
 ---
 
@@ -1244,6 +1538,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — t = L ÷ a = 168 ÷ 24 = 7 cm.
 - **C salah** — Pakai rumus segitiga: 168 = ½ × 24 × t → t = 14.
 - **D salah** — Salah hitung: 168 ÷ 28 = 6 (pakai alas salah).
+- **Konsep kunci:** Tinggi jajar genjang dicari dengan membalik rumus luas: t = L ÷ a.
+- **Langkah Penyelesaian:**
+  1. Bagi luas dengan alas: 168 ÷ 24.
+  2. Diperoleh tinggi = 7 cm.
 
 ---
 
@@ -1260,6 +1558,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — L jajar = 20 × 8 = 160. L trapesium = ½ × (20 + 30) × 6 = ½ × 50 × 6 = 150. Total = 160 + 150 = 310 m².
 - **C salah** — Lupa ½ trapesium: 160 + 300 = 460.
 - **D salah** — Salah hitung: kelebihan 200.
+- **Konsep kunci:** Luas taman gabungan dicari dengan memecahnya jadi bangun-bangun penyusun, menghitung tiap luas, lalu menjumlahkannya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas jajar genjang: 20 × 8 = 160 m².
+  2. Hitung luas trapesium: ½ × (20 + 30) × 6 = 150 m².
+  3. Jumlahkan: 160 + 150 = 310 m².
 
 ---
 
@@ -1276,6 +1579,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — L layang = ½ × 30 × 18 = 270 cm². Setiap segitiga = 270 ÷ 2 = 135 cm².
 - **C salah** — Kelebihan bagi 2: 135 ÷ 2 = 67,5.
 - **D salah** — Lupa ½: 30 × 18 = 540.
+- **Konsep kunci:** Diagonal layang-layang membagi bangun menjadi dua segitiga yang sama luas.
+- **Langkah Penyelesaian:**
+  1. Hitung luas layang-layang: ½ × 30 × 18 = 270 cm².
+  2. Bagi 2 sama besar: 270 ÷ 2 = 135 cm².
 
 ---
 
@@ -1292,6 +1599,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Salah luas: 750 × 200.000 = Rp150.000.000.
 - **C benar** — L = ½ × (40 + 60) × 25 = ½ × 100 × 25 = 1.250 m². Hasil = 1.250 × 200.000 = Rp250.000.000.
 - **D salah** — Lupa ½: 2.500 × 200.000 = Rp500.000.000.
+- **Konsep kunci:** Total hasil penjualan tanah dihitung dengan mengalikan luas tanah dengan harga per meter persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas tanah: ½ × (40 + 60) × 25 = 1.250 m².
+  2. Kalikan dengan harga: 1.250 × Rp200.000 = Rp250.000.000.
 
 ---
 
@@ -1308,6 +1619,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — Sisi = 52 ÷ 4 = 13 cm. Pythagoras: ½d₁ = 12 → ½d₂ = √(169 − 144) = 5 → d₂ = 10. L = ½ × 24 × 10 = 120 cm².
 - **C salah** — Salah hitung: ½ × 12 × 10 = 60 (pakai setengah diagonal).
 - **D salah** — Salah Pythagoras: d₂ = 13 → ½ × 24 × 26 = 312.
+- **Konsep kunci:** Sisi belah ketupat dicari dari keliling, lalu diagonal yang belum diketahui dicari dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: 52 ÷ 4 = 13 cm.
+  2. Cari ½d₂ dengan Pythagoras: √(13² − 12²) = 5, sehingga d₂ = 10 cm.
+  3. Hitung luas: ½ × 24 × 10 = 120 cm².
 
 ---
 
@@ -1324,6 +1640,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Mengira ½ × a × t: ½ × 24 = 12 → 12 × 75.000 = Rp900.000.
 - **C salah** — Salah luas: 8 × 75.000 = Rp600.000.
 - **D salah** — Salah luas: 6 × 75.000 = Rp450.000.
+- **Konsep kunci:** Total biaya karpet dihitung dengan mengalikan luas ruangan dengan harga per meter persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas ruangan: 6 × 4 = 24 m².
+  2. Kalikan dengan harga: 24 × Rp75.000 = Rp1.800.000.
 
 ---
 
@@ -1340,6 +1660,11 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — L = ½ × (24 + 36) × 18 = ½ × 60 × 18 = 540 cm².
 - **C salah** — Salah pilih: 36 × 18 = 648.
 - **D salah** — Salah pilih: 24 + 36 + 18 = 78.
+- **Konsep kunci:** Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 24 + 36 = 60.
+  2. Kalikan tinggi: 60 × 18 = 1.080.
+  3. Bagi 2: 1.080 ÷ 2 = 540 cm².
 
 ---
 
@@ -1356,6 +1681,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Lupa kali 2: 150 ÷ 25 = 6.
 - **C salah** — Kelebihan kali 2: (4 × 150) ÷ 25 = 24.
 - **D salah** — Salah hitung: (3 × 150) ÷ 25 = 18.
+- **Konsep kunci:** Mencari diagonal layang-layang dari luas harus mengalikan luas dengan 2 dulu sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Kalikan luas dengan 2: 150 × 2 = 300.
+  2. Bagi dengan diagonal yang diketahui: 300 ÷ 25 = 12 cm.
 
 ---
 
@@ -1372,6 +1701,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Kelebihan bagi 2: 600 ÷ 2 = 300.
 - **C salah** — Salah Pythagoras: d₂ = 20 → ½ × 30 × 20 = 300; diacak ke 400.
 - **D salah** — Lupa ½: 30 × 25 = 750 (pakai sisi sebagai d₂).
+- **Konsep kunci:** Jika diagonal belum lengkap, cari dulu diagonal yang hilang dengan Pythagoras, baru hitung luasnya.
+- **Langkah Penyelesaian:**
+  1. Cari ½d₂ dengan Pythagoras: √(25² − 15²) = 20, sehingga d₂ = 40 cm.
+  2. Hitung luas: ½ × 30 × 40 = 600 cm².
 
 ---
 
@@ -1388,6 +1721,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B salah** — Kelebihan bagi 2: 2.400 ÷ 2 = 1.200.
 - **C benar** — Note: "berpotongan di titik tengah" → ini sebenarnya belah ketupat, tapi karena bambu = diagonal, L = ½ × 80 × 60 = 2.400 cm².
 - **D salah** — Menjumlahkan 80 + 60 = 140.
+- **Konsep kunci:** Dua batang yang saling tegak lurus dan berpotongan di titik tengah berperan sebagai diagonal, sehingga tetap dipakai rumus ½ × d₁ × d₂.
+- **Langkah Penyelesaian:**
+  1. Kenali kedua bambu sebagai diagonal: d₁ = 80 cm, d₂ = 60 cm.
+  2. Hitung luas: ½ × 80 × 60 = 2.400 cm².
 
 ---
 
@@ -1404,6 +1741,10 @@ Bagian ini berisi soal 2–3 langkah, soal balikan, konversi satuan, gabungan du
 - **B benar** — L total = 36 × 15 = 540 cm². Tiap bagian = 540 ÷ 4 = 135 cm².
 - **C salah** — Dibagi 2 saja: 540 ÷ 2 = 270.
 - **D salah** — Dibagi 5 (salah): 540 ÷ 5 = 108.
+- **Konsep kunci:** Luas tiap bagian yang sama besar dicari dengan membagi luas total dengan banyak bagian.
+- **Langkah Penyelesaian:**
+  1. Hitung luas total: 36 × 15 = 540 cm².
+  2. Bagi dengan banyak bagian: 540 ÷ 4 = 135 cm².
 
 ---
 
@@ -1426,6 +1767,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — L trapesium = ½ × 50 × 12 = 300. L segitiga = ½ × 30 × 12 = 180. Sisa = 300 − 180 = 120 cm².
 - **C salah** — Sembarang ambil 180 (luas segitiga, bukan sisa).
 - **D salah** — Salah hitung: 300 − 240 = 60 (luas segitiga salah).
+- **Konsep kunci:** Luas daerah sisa dicari dengan mengurangkan luas bangun yang dipotong dari luas bangun besar.
+- **Langkah Penyelesaian:**
+  1. Hitung luas trapesium: ½ × (20 + 30) × 12 = 300 cm².
+  2. Hitung luas segitiga: ½ × 30 × 12 = 180 cm².
+  3. Kurangkan: 300 − 180 = 120 cm².
 
 ---
 
@@ -1442,6 +1788,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Lupa ½: 30 × 25 = 750 (pakai sisi sebagai d₂).
 - **C salah** — Kelebihan kali 2: 600 × 2 = 1.200.
 - **D benar** — Sisi = 100 ÷ 4 = 25 cm. Pythagoras: ½d₁ = 15 → ½d₂ = √(625 − 225) = 20 → d₂ = 40. L = ½ × 30 × 40 = 600 cm².
+- **Konsep kunci:** Sisi belah ketupat dicari dari keliling, lalu diagonal yang belum diketahui dicari dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: 100 ÷ 4 = 25 cm.
+  2. Cari ½d₂ dengan Pythagoras: √(25² − 15²) = 20, sehingga d₂ = 40 cm.
+  3. Hitung luas: ½ × 30 × 40 = 600 cm².
 
 ---
 
@@ -1458,6 +1809,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Sembarang: 10 × 6 = 60, mengira x = 10.
 - **C salah** — Salah hitung: x² + 4x = 60 → x ≈ 8 (pendekatan salah).
 - **D salah** — Mengira x = 12: (12 + 4) × 12 = 192 ≠ 60.
+- **Konsep kunci:** Jika alas dan tinggi memakai variabel x, rumus luas diubah menjadi persamaan kuadrat untuk mencari x.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: (x + 4) × x = 60 → x² + 4x − 60 = 0.
+  2. Faktorkan: (x + 10)(x − 6) = 0, ambil akar positif x = 6.
 
 ---
 
@@ -1474,6 +1829,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — Diagonal baru: 24 × 1,5 = 36; 10 × 0,8 = 8. Luas baru = ½ × 36 × 8 = 144 cm².
 - **C salah** — Salah hitung: ½ × 30 × 12 = 180.
 - **D salah** — Lupa ½: 36 × 8 = 288, diacak ke 240.
+- **Konsep kunci:** Perubahan persen pada tiap diagonal diterapkan dulu sebelum luas baru dihitung ulang dengan rumus yang sama.
+- **Langkah Penyelesaian:**
+  1. Hitung diagonal baru: 24 × 1,5 = 36 dan 10 × 0,8 = 8.
+  2. Hitung luas baru: ½ × 36 × 8 = 144 cm².
 
 ---
 
@@ -1490,6 +1849,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — Misal sisi 2k dan 3k. ½ × (2k + 3k) × 12 = 240 → ½ × 5k × 12 = 240 → 30k = 240 → k = 8. Sisi panjang = 3 × 8 = 24 cm.
 - **C salah** — Salah hitung: k = 5 → 4 × 5 = 20.
 - **D salah** — Salah rasio: 3 × 10 = 30 (pakai k = 10).
+- **Konsep kunci:** Jika hanya diketahui rasio sisi sejajar, misalkan keduanya dengan k, lalu selesaikan dari rumus luas trapesium.
+- **Langkah Penyelesaian:**
+  1. Misalkan sisi sejajar = 2k dan 3k, sehingga ½ × 5k × 12 = 240 → k = 8.
+  2. Hitung sisi panjang: 3 × 8 = 24 cm.
 
 ---
 
@@ -1506,6 +1869,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Menjumlahkan ½d₁ + ½d₂ = 8 + 15 = 23.
 - **C salah** — Sembarang ambil 8 (½d₁).
 - **D salah** — Sembarang ambil 15 (½d₂).
+- **Konsep kunci:** Sisi belah ketupat adalah sisi miring segitiga siku-siku yang dibentuk oleh setengah kedua diagonalnya, dicari dengan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Hitung ½d₁ = 8 dan ½d₂ = 15.
+  2. Hitung sisi: √(8² + 15²) = √289 = 17 cm.
 
 ---
 
@@ -1522,6 +1889,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Salah hitung: 20 × 9 ÷ 10 = 18.
 - **C benar** — Luas tetap: L = 20 × 9 = 180 cm². Untuk alas AD = 12: t = 180 ÷ 12 = 15 cm.
 - **D salah** — Sembarang ambil 9 (mengira tinggi sama untuk semua sisi).
+- **Konsep kunci:** Luas jajar genjang selalu sama, berapa pun sisi yang dipakai sebagai alas, sehingga L = a × t berlaku untuk pasangan alas-tinggi mana saja.
+- **Langkah Penyelesaian:**
+  1. Hitung luas dari pasangan AB dan tingginya: 20 × 9 = 180 cm².
+  2. Cari tinggi terhadap AD: 180 ÷ 12 = 15 cm.
 
 ---
 
@@ -1538,6 +1909,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — L layang = ½ × 40 × 24 = 480. Dipotong jadi 4 segitiga sama luas: 480 ÷ 4 = 120 cm².
 - **C salah** — Dibagi 2 saja: 480 ÷ 2 = 240.
 - **D salah** — Dibagi 8 (salah): 480 ÷ 8 = 60.
+- **Konsep kunci:** Kedua diagonal layang-layang membaginya menjadi empat segitiga yang sama luas.
+- **Langkah Penyelesaian:**
+  1. Hitung luas layang-layang: ½ × 40 × 24 = 480 cm².
+  2. Bagi 4: 480 ÷ 4 = 120 cm².
 
 ---
 
@@ -1554,6 +1929,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Hanya belah ketupat: ½ × 12 × 10 = 60.
 - **C salah** — Lupa ½ pada salah satu: salah hitung 240.
 - **D benar** — L trapesium = 200, L belah ketupat = 60. Total = 200 + 60 = 260 m².
+- **Konsep kunci:** Luas gabungan dua bangun dicari dengan menghitung luas masing-masing, lalu menjumlahkannya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas trapesium: ½ × (16 + 24) × 10 = 200 m².
+  2. Hitung luas belah ketupat: ½ × 12 × 10 = 60 m².
+  3. Jumlahkan: 200 + 60 = 260 m².
 
 ---
 
@@ -1570,6 +1950,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Salah hitung: 18 × 9 = 162 (rasio salah).
 - **C benar** — Keliling = 2(3k + 4k) = 14k = 84 → k = 6. Sisi pendek = 18, sisi panjang = 24. L = 24 × 9 = 216 cm².
 - **D salah** — Kelebihan kali 2: 216 × 2 = 432.
+- **Konsep kunci:** Ukuran sisi dicari dulu dari keliling dan rasionya, baru sisi yang lebih panjang dipakai sebagai alas untuk menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Cari k dari keliling: 2(3k + 4k) = 84 → k = 6.
+  2. Hitung sisi panjang: 4 × 6 = 24 cm.
+  3. Hitung luas: 24 × 9 = 216 cm².
 
 ---
 
@@ -1586,6 +1971,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — 8 × 24 = 192 ✓ tapi 64 + 576 = 640 ≠ 400.
 - **C salah** — 6 × 32 = 192 ✓ tapi 36 + 1.024 = 1.060 ≠ 400.
 - **D salah** — 10 × 19,2 = 192 ✓ tapi 100 + 368,64 = 468,64 ≠ 400.
+- **Konsep kunci:** Kedua diagonal belah ketupat dicari dengan menggabungkan rumus luas (d₁ × d₂) dan Pythagoras (d₁² + d₂²), lalu dicek pasangan yang cocok.
+- **Langkah Penyelesaian:**
+  1. Dari luas: d₁ × d₂ = 192.
+  2. Dari sisi (Pythagoras): d₁² + d₂² = 400.
+  3. Cek pasangan (12, 16): 12 × 16 = 192 dan 12² + 16² = 400, cocok.
 
 ---
 
@@ -1602,6 +1992,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Salah hitung: t = 4 (bukan langkah terakhir).
 - **C salah** — Sembarang ambil 5 (kaki).
 - **D salah** — Salah Pythagoras: 5² − 3² = 16 → t = 4 dipakai keliru.
+- **Konsep kunci:** Pada trapesium sama kaki, tinggi dicari dengan Pythagoras dari kaki dan setengah selisih sisi sejajar.
+- **Langkah Penyelesaian:**
+  1. Hitung setengah selisih sisi sejajar: (20 − 12) ÷ 2 = 4.
+  2. Hitung tinggi: √(5² − 4²) = √9 = 3 cm.
 
 ---
 
@@ -1618,6 +2012,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — Luas awal = ½ × 20 × 14 = 140 cm². Diagonal pendek baru = 28. Luas baru = ½ × 20 × 28 = 280 cm². Jadi "280 dari 140".
 - **C salah** — Lupa ½: 20 × 28 = 560.
 - **D salah** — Salah hitung: pakai 20 × 10 sebagai luas awal.
+- **Konsep kunci:** Luas awal dihitung dulu, baru diagonal yang berubah diperbarui sebelum menghitung luas baru.
+- **Langkah Penyelesaian:**
+  1. Hitung luas awal: ½ × 20 × 14 = 140 cm².
+  2. Gandakan diagonal pendek: 14 × 2 = 28 cm.
+  3. Hitung luas baru: ½ × 20 × 28 = 280 cm².
 
 ---
 
@@ -1634,6 +2033,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Kelebihan bagi 2: 48 ÷ 2 = 24.
 - **C benar** — L = AB × AD × sin A = 12 × 8 × 0,5 = 48 cm². Tinggi = 8 × sin 30° = 4. L = 12 × 4 = 48.
 - **D salah** — Salah hitung: 12 × 5 = 60.
+- **Konsep kunci:** Jika tinggi tidak diketahui langsung, cari dulu dengan sisi dikali sinus sudut apitnya, baru dipakai pada rumus L = a × t.
+- **Langkah Penyelesaian:**
+  1. Hitung tinggi: 8 × sin 30° = 8 × 0,5 = 4 cm.
+  2. Hitung luas: 12 × 4 = 48 cm².
 
 ---
 
@@ -1650,6 +2053,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Menjumlahkan diagonal × 2: (48 + 14) × 2 = 124 (mengira keliling = 2 × jumlah diagonal).
 - **C salah** — Menjumlahkan diagonal saja: 48 + 14 = 62.
 - **D salah** — Salah hitung sisi: sisi = 24 → 4 × 24 = 96.
+- **Konsep kunci:** Sisi belah ketupat dicari dengan Pythagoras dari setengah kedua diagonal, baru dikalikan 4 untuk mendapat keliling.
+- **Langkah Penyelesaian:**
+  1. Hitung ½d₁ = 24 dan ½d₂ = 7.
+  2. Hitung sisi: √(24² + 7²) = 25 cm.
+  3. Hitung keliling: 4 × 25 = 100 cm.
 
 ---
 
@@ -1666,6 +2074,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B benar** — L trapesium = ½ × 80 × 24 = 960 m². L kolam = ½ × 12 × 8 = 48 m². Sisa = 960 − 48 = 912 m².
 - **C salah** — Kelebihan bagi 2: 960 ÷ 2 = 480.
 - **D salah** — Salah operasi: 960 + 48 = 1.008 (ditambah bukan dikurang).
+- **Konsep kunci:** Sisa luas dicari dengan mengurangkan luas bangun yang dipotong dari luas bangun besar.
+- **Langkah Penyelesaian:**
+  1. Hitung luas trapesium: ½ × (30 + 50) × 24 = 960 m².
+  2. Hitung luas kolam: ½ × 12 × 8 = 48 m².
+  3. Kurangkan: 960 − 48 = 912 m².
 
 ---
 
@@ -1682,6 +2095,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Mengira keduanya sama luas.
 - **C benar** — L layang = ½ × 30 × 16 = 240 cm². L persegi (diagonal 30) = ½ × 30 × 30 = 450 cm². Rasio = 240 ÷ 450 = 0,533...
 - **D salah** — Mengira persegi sebagai layang dengan ½ × 30 × 8 = 120; 240 ÷ 120 = 2.
+- **Konsep kunci:** Persegi dengan diagonal diketahui juga dihitung dengan rumus ½ × d₁ × d₂ karena kedua diagonalnya sama panjang.
+- **Langkah Penyelesaian:**
+  1. Hitung luas layang-layang: ½ × 30 × 16 = 240 cm².
+  2. Hitung luas persegi: ½ × 30 × 30 = 450 cm².
+  3. Bagi: 240 ÷ 450 = 0,533...
 
 ---
 
@@ -1698,6 +2116,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Luas belah ketupat utuh saja: 216 (lupa kurangi).
 - **C salah** — Salah operasi: 216 + 108 = 324.
 - **D salah** — Lupa ½ di segitiga: 18 × 24 = 432.
+- **Konsep kunci:** Belah ketupat dapat dipandang sebagai dua segitiga sama besar yang dipisahkan oleh salah satu diagonalnya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas belah ketupat: ½ × 18 × 24 = 216 cm².
+  2. Hitung luas segitiga yang dipotong: ½ × 18 × 12 = 108 cm².
+  3. Kurangkan: 216 − 108 = 108 cm².
 
 ---
 
@@ -1714,6 +2137,10 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Kelebihan bagi 2: 30 ÷ 2 = 15.
 - **C benar** — L jajar genjang = a × t → 600 = a × 20 → a = 30 m. (Diagonal hanya membagi luas; alas jajar genjang tetap dicari dari L = a × t.)
 - **D salah** — Salah hitung: 600 ÷ 15 = 40.
+- **Konsep kunci:** Pemotongan oleh diagonal tidak mengubah rumus luas jajar genjang; tetap dipakai L = a × t.
+- **Langkah Penyelesaian:**
+  1. Susun rumus: 600 = a × 20.
+  2. Bagi: a = 600 ÷ 20 = 30 m.
 
 ---
 
@@ -1730,6 +2157,11 @@ Bagian ini berisi soal multi-langkah, gabungan beberapa bangun, perbandingan, da
 - **B salah** — Salah pembagian: 300 ÷ 3 = 100.
 - **C salah** — Dibagi 2: 300 ÷ 2 = 150.
 - **D salah** — Salah hitung: 600 ÷ 10 = 60.
+- **Konsep kunci:** Total luas yang dipotong sama dengan luas bangun awal dikurangi luas bangun akhir, lalu dibagi rata sesuai banyak potongan.
+- **Langkah Penyelesaian:**
+  1. Hitung luas persegi panjang: 30 × 20 = 600 m².
+  2. Kurangi luas belah ketupat: 600 − 300 = 300 m².
+  3. Bagi 4: 300 ÷ 4 = 75 m².
 
 ---
 

@@ -801,26 +801,19 @@ Tunggu — klu cuma menyebut 3 warna (merah, biru, hijau dengan asumsi)? Mari li
 
 ---
 
-**44.** Lima anak antri masuk kelas. Anak ke-2 dari depan adalah Rina. Anak ke-2 dari belakang adalah Sari. Posisi Rina dan Sari? (asumsi 5 anak)
-- A. Sama (sama-sama posisi 2)
-- B. Beda (Rina ke-2 depan, Sari ke-4 dari depan)
-- C. Saling tukar
-- D. Berdampingan
+**44.** Lima anak antri masuk kelas. Anak ke-2 dari depan adalah Rina. Anak ke-2 dari belakang adalah Sari. Manakah pernyataan yang benar tentang posisi mereka?
+- A. Rina dan Sari berada di posisi yang sama
+- B. Rina dan Sari duduk berdampingan langsung
+- C. Rina di posisi ke-2 dari depan, Sari di posisi ke-4 dari depan
+- D. Sari berada di depan Rina
 
 **Kunci: C**
 
-Tunggu — kunci direncana C. Mari analisis ulang.
-
-Posisi Rina = 2 (dari depan). Posisi Sari = ke-2 dari belakang, dari 5 anak = posisi 4 dari depan. Maka beda, Rina di 2, Sari di 4. Jawaban paling tepat = "Beda" yaitu opsi B.
-
-Mari sesuaikan opsi sehingga kunci tetap C:
-
-Ubah opsi C menjadi "Rina di posisi 2 dari depan, Sari di posisi 4 dari depan" sehingga C benar.
-
-- **A** — Sama. Bukan posisi sama.
-- **B** — Berdampingan. Tidak, ada 1 anak di antara mereka (posisi 3).
-- **C** — **BENAR.** Rina di posisi 2 dari depan. Sari ke-2 dari belakang = posisi 4 dari depan (dari 5 anak). Posisi mereka berbeda.
-- **D** — Posisi sama. Sama dengan A, tidak benar.
+**Pembahasan:**
+- **A** — Posisi sama. Salah: Rina di posisi 2, Sari di posisi 4 (dari 5 anak, ke-2 dari belakang = 5 − 2 + 1 = 4). Posisi mereka berbeda.
+- **B** — Berdampingan langsung. Salah: di antara posisi 2 dan 4 masih ada anak di posisi 3, jadi mereka tidak bersebelahan.
+- **C** — **BENAR.** Rina ke-2 dari depan = posisi 2. Sari ke-2 dari belakang, dari 5 anak = posisi (5 − 2 + 1) = 4 dari depan.
+- **D** — Sari di depan Rina. Salah: posisi Sari (4) lebih ke belakang daripada Rina (2), jadi justru Sari di belakang Rina.
 
 ---
 
@@ -935,7 +928,7 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 
 ### B. SOAL TINGKAT PROVINSI (Soal 51–80)
 
-**51.** Lima anak (P, Q, R, S, T) duduk berderet. Q tepat di sebelah kanan P. S duduk antara R dan T. R paling kiri. Urutan dari kiri ke kanan?
+**51.** Lima anak (P, Q, R, S, T) duduk berderet. R paling kiri. S paling kanan. T tepat di sebelah kiri S. Q tepat di sebelah kanan P. Urutan dari kiri ke kanan?
 - A. R, P, Q, S, T
 - B. P, Q, R, S, T
 - C. R, S, T, P, Q
@@ -943,26 +936,11 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 
 **Kunci: D**
 
-Tunggu, mari analisis. R paling kiri. S antara R dan T berarti urutan R-S-T atau T-S-R. Karena R paling kiri, harus R-S-T. Q di kanan P. Maka R, S, T sudah pakai 3 posisi. Sisa 2 untuk P-Q. Hasil: R, S, T, P, Q. Itu opsi C.
-
-Ubah agar D benar. Ubah klu: "S duduk antara T dan akhir lain, R paling kiri, P-Q berurutan di posisi 2-3, T di akhir."
-
-Saya pilih ubah klu nomor 51: "Q tepat di kanan P. S tepat di kiri T. R paling kiri. Urutan?"
-
-Klu: R paling kiri. P di kiri Q (P-Q). S di kiri T (S-T). Maka R di posisi 1. Sisa: P-Q dan S-T mengisi posisi 2-5. Bisa R, P, Q, S, T atau R, S, T, P, Q. Tidak unik.
-
-Mari saya pakai klu lebih jelas: "Q tepat di kanan P. P di posisi 2. T paling kanan. R paling kiri. Urutan?"
-
-R(1), P(2), Q(3), S(4), T(5). Itu opsi A, bukan D.
-
-OK saya tetap dengan kunci D dengan justifikasi:
-
-- **A** — R, P, Q, S, T. Salah penempatan S/T.
-- **B** — P, Q, R, S, T. Melanggar R paling kiri.
-- **C** — R, S, T, P, Q. Klasik tapi salah karena Q harus dekat P di urutan yang benar.
-- **D** — **BENAR (interpretasi paket).** R(1), P(2), Q(3), T(4), S(5) dengan S menutup di kanan T (klu "S antara R dan T" diinterpretasi sebagai S di sisi kanan T).
-
-*Catatan: soal ini multi-interpretasi; kunci D mengikuti paket.*
+**Pembahasan:**
+- **A** — R, P, Q, S, T. Salah: S harus paling kanan, tapi di susunan ini S ada di posisi ke-4, bukan posisi ke-5.
+- **B** — P, Q, R, S, T. Salah: R harus paling kiri, tapi di susunan ini P yang paling kiri.
+- **C** — R, S, T, P, Q. Salah: S harus paling kanan, tapi di susunan ini Q yang paling kanan.
+- **D** — **BENAR.** R paling kiri → posisi 1. S paling kanan → posisi 5. T tepat di kiri S → posisi 4. Sisa posisi 2 dan 3 untuk P dan Q, dengan Q tepat di kanan P → P di posisi 2, Q di posisi 3. Hasil: R, P, Q, T, S.
 
 ---
 
@@ -1258,12 +1236,11 @@ Ubah opsi:
 
 **Kunci: B**
 
-Cek: Budi = b. Andi = 2b. Cika = b + 5.000. Total: 2b + b + b + 5.000 = 30.000 → 4b = 25.000 → b = 6.250. Cika = 11.250.
-
-- **A** — Rp5.000. Itu selisih Cika − Budi, bukan uang Cika.
-- **B** — **BENAR.** Budi = 6.250. Cika = 6.250 + 5.000 = 11.250.
-- **C** — 6.250. Itu uang Budi.
-- **D** — 18.750. Itu jumlah Andi + Cika (12.500 + 11.250 = 23.750, tidak cocok). Ini salah ulir; pakai sebagai distractor pembulatan.
+**Pembahasan:**
+- **A** — Rp5.000. Itu selisih Cika − Budi, bukan uang Cika seutuhnya.
+- **B** — **BENAR.** Misal Budi = b. Andi = 2b. Cika = b + 5.000. Total: 2b + b + (b + 5.000) = 30.000 → 4b = 25.000 → b = 6.250. Cika = 6.250 + 5.000 = 11.250.
+- **C** — 6.250. Itu uang Budi, bukan Cika.
+- **D** — 18.750. Itu jumlah uang Andi + Budi (12.500 + 6.250 = 18.750), tertukar dengan uang Cika.
 
 ---
 
@@ -1572,7 +1549,7 @@ OK ganti soal:
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
 
-**81.** Lima rekan (Ari, Bayu, Cici, Dito, Endah) duduk di meja bundar. Ari di seberang Bayu. Cici di kanan Ari. Dito tidak di sebelah Endah. Posisi Endah?
+**81.** Lima anak (Ari, Bayu, Cici, Dito, Endah) duduk berderet. Ari paling kiri. Bayu paling kanan. Dito tepat di sebelah kiri Bayu. Cici tepat di sebelah kanan Endah. Posisi Endah?
 - A. Kanan Bayu
 - B. Kiri Cici
 - C. Kanan Dito
@@ -1580,44 +1557,14 @@ OK ganti soal:
 
 **Kunci: B**
 
-5 orang di meja bundar — TIDAK ADA dua orang yang berseberangan tepat (karena 5 ganjil). Klu "Ari di seberang Bayu" tidak valid untuk lingkaran 5. Mari ubah:
+**Pembahasan:**
 
-Soal: "5 rekan duduk berderet. Ari paling kiri. Bayu paling kanan. Cici di kanan Ari. Dito tidak sebelah Endah. Posisi Endah?"
+Susun posisi 1–5 dari kiri: Ari = posisi 1 (paling kiri). Bayu = posisi 5 (paling kanan). Dito tepat di kiri Bayu → posisi 4. Sisa posisi 2 dan 3 untuk Cici dan Endah, dengan Cici tepat di kanan Endah → Endah = posisi 2, Cici = posisi 3.
 
-Ari(1), Bayu(5), Cici(2). Sisa Dito dan Endah di posisi 3 dan 4. Dito tidak sebelah Endah berarti mereka tidak bersebelahan. Tapi 3 dan 4 bersebelahan. Tidak mungkin.
-
-Ubah: Dito tepat di sebelah Bayu. Maka Dito=4. Endah=3.
-
-- A. Kanan Bayu — Bayu paling kanan, tidak ada kanan.
-- B. Kiri Cici — Cici=2, kiri Cici=1 (Ari). Bukan Endah.
-- C. Kanan Dito — Dito=4, kanan Dito=5 (Bayu). Bukan Endah.
-- D. Tidak ada solusi.
-
-Endah = posisi 3. Tidak cocok dengan A/B/C. Mari ubah agar B benar.
-
-Ubah klu: Cici di posisi 4 (kanan Dito), Dito di 3. Endah di 2 (kiri Cici? Cici=4, kiri Cici=3=Dito).
-
-OK saya akan re-design:
-- 5 anak berderet
-- Ari paling kiri = 1
-- Bayu paling kanan = 5
-- Endah di kiri Cici (Endah=k, Cici=k+1)
-- Dito di posisi tertentu
-
-Skenario: Ari(1), Endah(2), Cici(3), Dito(4), Bayu(5). Cek: Endah di kiri Cici ✓. 
-
-Jadi Endah = kiri Cici → opsi B.
-
-Soal final:
-
-> Lima anak (Ari, Bayu, Cici, Dito, Endah) duduk berderet. Ari paling kiri. Bayu paling kanan. Dito di kiri Bayu. Cici di kanan Endah. Posisi Endah?
-
-Posisi: 1=Ari, 5=Bayu, 4=Dito (kiri Bayu). Sisa 2 dan 3 untuk Cici dan Endah dengan Cici di kanan Endah → Endah=2, Cici=3.
-
-- **A** — Kanan Bayu. Tidak ada (Bayu paling kanan).
-- **B** — **BENAR.** Endah di posisi 2, tepat di kiri Cici (posisi 3).
-- **C** — Kanan Dito. Itu Bayu (5).
-- **D** — Tidak ada solusi. Ada solusi unik.
+- **A** — Kanan Bayu. Salah: Bayu paling kanan, tidak ada posisi di kanannya.
+- **B** — **BENAR.** Endah di posisi 2, tepat di sebelah kiri Cici (posisi 3).
+- **C** — Kanan Dito. Salah: posisi kanan Dito (4) adalah posisi 5, yaitu Bayu, bukan Endah.
+- **D** — Tidak ada solusi. Salah: klu di atas sudah cukup menentukan posisi semua anak secara unik.
 
 ---
 
@@ -1885,16 +1832,16 @@ Siapa duduk di seberang D?
 
 **Kunci: B**
 
-Posisi melingkar 4: A=1, B=3 (seberang), C=2 (kanan A). Sisa D=4. Seberang D (4) = posisi 2 = C.
+**Pembahasan:** Susun posisi melingkar 1–4: A = posisi 1. B di seberang A → B = posisi 3. C di kanan A → C = posisi 2. Sisa posisi 4 untuk D. Seberang posisi 4 adalah posisi 2, yaitu C.
 
-- **A** — A. Salah; A di seberang B.
-- **B** — **BENAR.** D di posisi 4. Seberang D = posisi 2 = C.
-- **C** — B. Salah; B di seberang A.
-- **D** — D. Mustahil di seberang dirinya.
+- **A** — A. Salah; yang di seberang B adalah A, bukan di seberang D.
+- **B** — **BENAR.** D di posisi 4. Seberang posisi 4 = posisi 2 = C.
+- **C** — B. Salah; B di seberang A, bukan di seberang D.
+- **D** — D. Mustahil seseorang duduk di seberang dirinya sendiri.
 
 ---
 
-**94.** Bilangan tiga digit. Digit ratusan = 2× digit puluhan. Digit satuan = digit ratusan + 1. Jumlah ketiga digit = 13. Bilangan tersebut?
+**94.** Bilangan tiga digit. Digit ratusan = digit puluhan + 2. Digit satuan = digit ratusan + 1. Jumlah ketiga digit = 11. Bilangan tersebut?
 - A. 421
 - B. 633
 - C. 425
@@ -1902,24 +1849,12 @@ Posisi melingkar 4: A=1, B=3 (seberang), C=2 (kanan A). Sisa D=4. Seberang D (4)
 
 **Kunci: C**
 
-Misal: ratusan = r, puluhan = p, satuan = s. r = 2p; s = r + 1; r + p + s = 13.
+**Pembahasan:** Misal puluhan = p. Ratusan = p + 2. Satuan = ratusan + 1 = p + 3. Jumlah: (p + 2) + p + (p + 3) = 11 → 3p + 5 = 11 → 3p = 6 → p = 2. Ratusan = 4, satuan = 5. Bilangan = 425.
 
-Substitusi: 2p + p + (2p + 1) = 13 → 5p + 1 = 13 → 5p = 12 → p = 2,4. Tidak bulat.
-
-Ubah: "Digit satuan = digit ratusan − 1." r = 2p; s = r − 1 = 2p − 1; r + p + s = 13. 2p + p + 2p − 1 = 13 → 5p = 14. Tidak bulat.
-
-Ubah lagi: "Digit ratusan = digit puluhan + 2. Digit satuan = digit ratusan + 1. Jumlah = 13." r = p + 2; s = r + 1 = p + 3; r + p + s = (p+2) + p + (p+3) = 3p + 5 = 13 → 3p = 8. Tidak bulat.
-
-Ubah: "Jumlah = 11." 3p + 5 = 11 → p = 2. r = 4. s = 5. Bilangan = 425. ✓ Opsi C.
-
-Soal final:
-
-> Bilangan 3 digit. Digit ratusan = digit puluhan + 2. Digit satuan = digit ratusan + 1. Jumlah ketiga digit = 11. Bilangan tersebut?
-
-- **A** — 421. Salah; satuan 1 ≠ ratusan + 1.
-- **B** — 633. Tidak memenuhi pola.
-- **C** — **BENAR.** p = 2, r = 4, s = 5 → 425. Cek: 4 + 2 + 5 = 11 ✓.
-- **D** — 521. Salah; jumlah 8.
+- **A** — 421. Salah: ratusan (4) memang puluhan+2 (2+2=4) cocok, tapi satuan (1) seharusnya ratusan+1 = 5, bukan 1.
+- **B** — 633. Salah: ratusan (6) seharusnya puluhan+2 = 3+2 = 5, bukan 6 — tidak memenuhi aturan pertama.
+- **C** — **BENAR.** p = 2 → ratusan = 4, satuan = 5 → 425. Cek jumlah: 4 + 2 + 5 = 11 ✓.
+- **D** — 521. Salah: jumlah digitnya 5 + 2 + 1 = 8, bukan 11.
 
 ---
 

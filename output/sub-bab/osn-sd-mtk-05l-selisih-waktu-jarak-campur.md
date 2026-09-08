@@ -144,6 +144,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 15 menit
 - C. 2 jam 45 menit
 - D. 1 jam 45 menit
+- **Konsep kunci:** Kurangkan jam lalu menit (11.45 − 09.30).
+- **Langkah Penyelesaian:**
+  1. 11.45 − 09.30.
+  2. = 2 jam 15 menit.
 
 **Kunci: B**
 
@@ -160,6 +164,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 jam 15 menit
 - C. 3 jam 45 menit
 - D. 2 jam 15 menit
+- **Konsep kunci:** Kurangkan jam lalu menit (10.05 − 07.20).
+- **Langkah Penyelesaian:**
+  1. 10.05 − 07.20.
+  2. = 2 jam 45 menit.
 
 **Kunci: A**
 
@@ -176,6 +184,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 15 menit
 - C. 2 jam 45 menit
 - D. 3 jam 45 menit
+- **Konsep kunci:** Kurangkan jam tiba dengan jam berangkat.
+- **Langkah Penyelesaian:**
+  1. 09.00 − 06.15.
+  2. = 2 jam 45 menit.
 
 **Kunci: C**
 
@@ -192,6 +204,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 0 menit
 - C. 3 jam 0 menit
 - D. 2 jam 30 menit
+- **Konsep kunci:** Kurangkan jam lalu menit (16.20 − 13.50).
+- **Langkah Penyelesaian:**
+  1. 16.20 − 13.50.
+  2. = 2 jam 30 menit.
 
 **Kunci: D**
 
@@ -208,6 +224,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 jam 40 menit
 - C. 2 jam 20 menit
 - D. 3 jam 20 menit
+- **Konsep kunci:** Kurangkan waktu selesai dengan waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 17.10 − 14.30.
+  2. = 2 jam 40 menit.
 
 **Kunci: A**
 
@@ -224,6 +244,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 15 menit
 - C. 1 jam 45 menit
 - D. 2 jam 45 menit
+- **Konsep kunci:** Kurangkan waktu selesai dengan waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 21.30 − 19.45.
+  2. = 1 jam 45 menit.
 
 **Kunci: C**
 
@@ -240,6 +264,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 13 jam 30 menit
 - C. 13 jam 0 menit
 - D. 12 jam 0 menit
+- **Konsep kunci:** Kurangkan jam tutup dengan jam buka.
+- **Langkah Penyelesaian:**
+  1. 21.30 − 08.00.
+  2. = 13 jam 30 menit.
 
 **Kunci: B**
 
@@ -256,6 +284,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 15 menit
 - C. 3 jam 0 menit
 - D. 3 jam 15 menit
+- **Konsep kunci:** Kurangkan waktu selesai dengan waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 19.15 − 16.00.
+  2. = 3 jam 15 menit.
 
 **Kunci: D**
 
@@ -272,6 +304,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 jam 25 menit
 - C. 2 jam 35 menit
 - D. 3 jam 35 menit
+- **Konsep kunci:** Kurangkan jam tiba dengan jam berangkat.
+- **Langkah Penyelesaian:**
+  1. 11.05 − 08.40.
+  2. = 2 jam 25 menit.
 
 **Kunci: B**
 
@@ -288,6 +324,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 13.05
 - C. 12.15
 - D. 13.15
+- **Konsep kunci:** Tambahkan jam maka menit; pinjam 1 jam bila menit > 60.
+- **Langkah Penyelesaian:**
+  1. 09.40 + 3 jam = 12.40; + 25 menit.
+  2. = 13.05.
 
 **Kunci: B**
 
@@ -304,6 +344,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 6 jam 35 menit
 - C. 6 jam 25 menit
 - D. 5 jam 25 menit
+- **Konsep kunci:** Kurangkan waktu kembali dengan waktu pergi.
+- **Langkah Penyelesaian:**
+  1. 13.30 − 07.55.
+  2. = 5 jam 35 menit.
 
 **Kunci: A**
 
@@ -320,6 +364,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 8 jam 40 menit
 - C. 7 jam 40 menit
 - D. 7 jam 20 menit
+- **Konsep kunci:** Kurangkan jam lalu menit (13.50 − 06.10).
+- **Langkah Penyelesaian:**
+  1. 13.50 − 06.10.
+  2. = 7 jam 40 menit.
 
 **Kunci: C**
 
@@ -336,6 +384,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 11 jam 15 menit
 - C. 12 jam 15 menit
 - D. 12 jam 45 menit
+- **Konsep kunci:** Hitung sampai tengah malam lalu tambah waktu pagi.
+- **Langkah Penyelesaian:**
+  1. 17.45 → 24.00 = 6 jam 15 menit.
+  2. 24.00 → 05.30 = 5 jam 30 menit.
+  3. Total = 11 jam 45 menit.
 
 **Kunci: A**
 
@@ -352,6 +405,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 13.25
 - C. 12.85
 - D. 13.85
+- **Konsep kunci:** Tambahkan menit (35) ke 10; 60 menit pinjam jadi 1 jam.
+- **Langkah Penyelesaian:**
+  1. 10.50 + 2 jam = 12.50; + 35 menit.
+  2. = 13.25.
 
 **Kunci: B**
 
@@ -368,6 +425,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1 jam 45 menit
 - C. 15 menit
 - D. 1 jam
+- **Konsep kunci:** Kurangkan waktu: 08.45 − 08.00.
+- **Langkah Penyelesaian:**
+  1. 08.45 − 08.00.
+  2. = 45 menit.
 
 **Kunci: A**
 
@@ -384,6 +445,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 23.30
 - C. 22.30
 - D. 24.30
+- **Konsep kunci:** WITA = WIB + 1 jam.
+- **Langkah Penyelesaian:**
+  1. 22.30 + 1 jam.
+  2. = 23.30 WITA.
 
 **Kunci: B**
 
@@ -400,6 +465,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 07.00
 - C. 08.00
 - D. 09.00
+- **Konsep kunci:** WIT = WIB + 2 jam.
+- **Langkah Penyelesaian:**
+  1. 06.00 + 2 jam.
+  2. = 08.00 WIT.
 
 **Kunci: C**
 
@@ -416,6 +485,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1 jam (WIT lebih awal)
 - C. 2 jam (WIT lebih awal)
 - D. 1 jam (WITA lebih awal)
+- **Konsep kunci:** WIT = WITA + 1 jam.
+- **Langkah Penyelesaian:**
+  1. Selisih WIT − WITA.
+  2. = 1 jam.
 
 **Kunci: B**
 
@@ -432,6 +505,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1,5 km
 - C. 1,7 km
 - D. 2,7 km
+- **Konsep kunci:** Kurangkan jarak karena searah dan melewati sekolah.
+- **Langkah Penyelesaian:**
+  1. 3,2 − 1,5.
+  2. = 1,7 km.
 
 **Kunci: C**
 
@@ -448,6 +525,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2.050 m
 - C. 350 m
 - D. 1.150 m
+- **Konsep kunci:** Jumlahkan karena berurutan searah lurus A−B−C.
+- **Langkah Penyelesaian:**
+  1. 850 m + 1,2 km = 0,85 + 1,2.
+  2. = 2,05 km.
 
 **Kunci: B**
 
@@ -464,6 +545,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 9 km
 - C. 7,5 km
 - D. 2,25 km
+- **Konsep kunci:** Kalikan jarak pulang-pergi dengan 2.
+- **Langkah Penyelesaian:**
+  1. 4,5 × 2.
+  2. = 9 km.
 
 **Kunci: B**
 
@@ -480,6 +565,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1.000 m
 - C. 1.600 m
 - D. 2.400 m
+- **Konsep kunci:** Hitung keliling persegi lalu kalikan putaran.
+- **Langkah Penyelesaian:**
+  1. Keliling = 4 × 80 = 320 m.
+  2. 5 × 320 = 1.600 m = 1,6 km.
 
 **Kunci: C**
 
@@ -496,6 +585,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 : 2
 - C. 1 : 1
 - D. 6 : 9
+- **Konsep kunci:** Waktu berbanding terbalik dengan kecepatan untuk jarak sama.
+- **Langkah Penyelesaian:**
+  1. Perbandingan waktu = 1/60 : 1/90.
+  2. = 90 : 60 = 3 : 2.
 
 **Kunci: B**
 
@@ -512,6 +605,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1 : 1
 - C. 1 : 2
 - D. 4 : 8
+- **Konsep kunci:** Jarak berbanding lurus dengan kecepatan pada waktu sama.
+- **Langkah Penyelesaian:**
+  1. Perbandingan jarak = 40 : 80.
+  2. = 1 : 2.
 
 **Kunci: C**
 
@@ -528,6 +625,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 2 km 550 m
 - C. 2 km 450 m
 - D. 3 km 450 m
+- **Konsep kunci:** Kurangkan km lalu m; pinjam 1 km = 1.000 m.
+- **Langkah Penyelesaian:**
+  1. 4 km 200 m − 1 km 750 m.
+  2. 3 km 1200 m − 1 km 750 m.
+  3. = 2 km 450 m.
 
 **Kunci: C**
 
@@ -544,6 +646,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 12.25
 - C. 13.85
 - D. 12.85
+- **Konsep kunci:** Tambahkan jam dan menit (55 + 30 = 85 m = 1 jam 25 m).
+- **Langkah Penyelesaian:**
+  1. 11.55 + 1 jam 30 menit.
+  2. = 13.25.
 
 **Kunci: A**
 
@@ -560,6 +666,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 04.40
 - C. 04.20
 - D. 05.20
+- **Konsep kunci:** Kurangkan jam dan menit (pinjam 1 jam = 60 m dari 06 jam).
+- **Langkah Penyelesaian:**
+  1. 06.10 − 1 jam 30 menit.
+  2. = 04.40.
 
 **Kunci: B**
 
@@ -576,6 +686,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 jam 45 menit
 - C. 4 jam 25 menit
 - D. 3 jam 5 menit
+- **Konsep kunci:** Hitung total lalu kurangi istirahat.
+- **Langkah Penyelesaian:**
+  1. 12.00 − 08.15 = 3 jam 45 menit.
+  2. Kurangi 20 menit.
+  3. = 3 jam 25 menit.
 
 **Kunci: A**
 
@@ -592,6 +707,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 4 jam 35 menit
 - C. 5 jam 5 menit
 - D. 5 jam 35 menit
+- **Konsep kunci:** Jumlahkan dua ruas perjalanan.
+- **Langkah Penyelesaian:**
+  1. 09.15 − 06.40 = 2 jam 35 menit.
+  2. 12.30 − 10.00 = 2 jam 30 menit.
+  3. Total = 5 jam 5 menit.
 
 **Kunci: C**
 
@@ -608,6 +728,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 19.30
 - C. 18.30
 - D. 19.20
+- **Konsep kunci:** Tambahkan 2 jam 50 menit pada 16.40.
+- **Langkah Penyelesaian:**
+  1. 16.40 + 2 jam = 18.40; + 50 menit.
+  2. = 19.30.
 
 **Kunci: B**
 
@@ -624,6 +748,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 5 km 150 m
 - C. 5 km 850 m
 - D. 4 km 850 m
+- **Konsep kunci:** Kurangkan km lalu m; pinjam 1 km = 1.000 m.
+- **Langkah Penyelesaian:**
+  1. 7 km 50 m − 2 km 900 m.
+  2. 6 km 1050 m − 2 km 900 m.
+  3. = 4 km 150 m.
 
 **Kunci: A**
 
@@ -640,6 +769,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. Tidak. Saat 12.00 WIB, Mekkah pukul 09.00 keesokan hari.
 - C. Ya, benar. 12.00 WIB = 09.00 Mekkah.
 - D. Tidak. Saat 12.00 WIB, Mekkah pukul 15.00.
+- **Konsep kunci:** Selisih zona = GMT+7 − GMT+3 = 4 jam.
+- **Langkah Penyelesaian:**
+  1. 12.00 WIB − 4 jam.
+  2. = 08.00 Mekkah, bukan 09.00 → pernyataan salah.
 
 **Kunci: C**
 
@@ -656,6 +789,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 12.00
 - C. 13.00
 - D. 14.00
+- **Konsep kunci:** WIB → WITA tambah 1 jam saat konversi waktu setempat.
+- **Langkah Penyelesaian:**
+  1. Terbang 2 jam: 10.00 WIB + 2 jam = 12.00 WIB.
+  2. 12.00 WIB = 13.00 WITA.
 
 **Kunci: C**
 
@@ -672,6 +809,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 40 km
 - C. 10 km
 - D. 25 km
+- **Konsep kunci:** Hitung jarak bolak-balik per hari lalu kalikan 4.
+- **Langkah Penyelesaian:**
+  1. Per hari = 5 × 2 = 10 km.
+  2. 4 hari = 40 km.
 
 **Kunci: B**
 
@@ -688,6 +829,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 5,5 km
 - C. 6,5 km
 - D. 7,5 km
+- **Konsep kunci:** Jumlahkan semua gerakan (maju, balik, maju lagi).
+- **Langkah Penyelesaian:**
+  1. 3 + 1,5 + 2.
+  2. = 6,5 km.
 
 **Kunci: C**
 
@@ -704,6 +849,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1 jam 55 menit
 - C. 2 jam 55 menit
 - D. 1 jam 5 menit
+- **Konsep kunci:** Kurangkan jam lalu menit (13.05 − 11.10).
+- **Langkah Penyelesaian:**
+  1. 13.05 − 11.10.
+  2. = 1 jam 55 menit.
 
 **Kunci: B**
 
@@ -720,6 +869,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 75
 - C. 90
 - D. 150
+- **Konsep kunci:** Kalikan jam dengan 60.
+- **Langkah Penyelesaian:**
+  1. 1,5 × 60.
+  2. = 90 menit.
 
 **Kunci: C**
 
@@ -736,6 +889,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 245
 - C. 105
 - D. 285
+- **Konsep kunci:** Ubah jam ke menit lalu tambahkan.
+- **Langkah Penyelesaian:**
+  1. 2 × 60 = 120; + 45.
+  2. = 165 menit.
 
 **Kunci: A**
 
@@ -752,6 +909,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 jam 20 menit
 - C. 2 jam 80 menit
 - D. 3 jam 0 menit
+- **Konsep kunci:** Bagi 200 dengan 60, sisanya jadi menit.
+- **Langkah Penyelesaian:**
+  1. 200 = 3 × 60 + 20.
+  2. = 3 jam 20 menit.
 
 **Kunci: B**
 
@@ -768,6 +929,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 45
 - C. 50
 - D. 35
+- **Konsep kunci:** Kalikan jam dengan 60.
+- **Langkah Penyelesaian:**
+  1. 0,75 × 60.
+  2. = 45 menit.
 
 **Kunci: B**
 
@@ -784,6 +949,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1 jam
 - C. 60 menit
 - D. 1 jam 10 menit
+- **Konsep kunci:** Jumlahkan seluruh durasi termasuk istirahat.
+- **Langkah Penyelesaian:**
+  1. 30 + 10 + 20.
+  2. = 60 menit = 1 jam.
 
 **Kunci: B**
 
@@ -800,6 +969,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 10 jam 45 menit
 - C. 11 jam 45 menit
 - D. 10 jam 55 menit
+- **Konsep kunci:** Hitung sampai tengah malam lalu tambah waktu pagi.
+- **Langkah Penyelesaian:**
+  1. 20.05 → 24.00 = 3 jam 55 menit.
+  2. 24.00 → 06.50 = 6 jam 50 menit.
+  3. Total = 10 jam 45 menit.
 
 **Kunci: B**
 
@@ -816,6 +990,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 06.30
 - C. 22.00 (hari sebelumnya)
 - D. 23.30 (hari sebelumnya)
+- **Konsep kunci:** Kurangkan 4 jam dari 02.30 (melewati tengah malam).
+- **Langkah Penyelesaian:**
+  1. 02.30 − 4 jam.
+  2. = 22.30.
 
 **Kunci: A**
 
@@ -832,6 +1010,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 30 menit
 - C. 35 menit
 - D. 40 menit
+- **Konsep kunci:** Kurangkan menit menuju jam berikutnya.
+- **Langkah Penyelesaian:**
+  1. 15:00 − 14:25.
+  2. = 35 menit.
 
 **Kunci: C**
 
@@ -848,6 +1030,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 1,6 km dalam 9 menit
 - C. 1,5 km dalam 11 menit
 - D. 1,4 km dalam 11 menit
+- **Konsep kunci:** Jumlahkan jarak dan waktu.
+- **Langkah Penyelesaian:**
+  1. Jarak = 1 km + 600 m = 1,6 km.
+  2. Waktu = 5 + 2 + 4 = 11 menit.
 
 **Kunci: A**
 
@@ -864,6 +1050,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 460
 - C. 465 menit (sama dengan A)
 - D. 405
+- **Konsep kunci:** Ubah selisih ke menit.
+- **Langkah Penyelesaian:**
+  1. 17.05 − 09.20 = 7 jam 45 menit.
+  2. 7 × 60 + 45 = 465 menit.
 
 **Kunci: A**
 
@@ -880,6 +1070,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 80
 - C. 76
 - D. 96
+- **Konsep kunci:** Kalikan hari dengan 24 lalu tambahkan jam.
+- **Langkah Penyelesaian:**
+  1. 3 × 24 = 72; + 8.
+  2. = 80 jam.
 
 **Kunci: B**
 
@@ -896,6 +1090,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 7 jam 30 menit
 - C. 9 jam 30 menit
 - D. 8 jam 0 menit
+- **Konsep kunci:** Hitung dari 22.00 ke 24.00 lalu ke 06.30.
+- **Langkah Penyelesaian:**
+  1. 22.00 → 24.00 = 2 jam.
+  2. 24.00 → 06.30 = 6,5 jam.
+  3. Total = 8 jam 30 menit.
 
 **Kunci: A**
 
@@ -912,6 +1111,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 00.15 (hari berikutnya)
 - C. 23.75
 - D. 24.75
+- **Konsep kunci:** Tambahkan 25 menit pada 23.50 (melewati tengah malam).
+- **Langkah Penyelesaian:**
+  1. 23.50 + 25 menit.
+  2. = 00.15.
 
 **Kunci: B**
 
@@ -928,6 +1131,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 25 km
 - C. 17 km
 - D. 13 km
+- **Konsep kunci:** Jumlahkan karena berurutan lurus.
+- **Langkah Penyelesaian:**
+  1. 12 + 8 + 5.
+  2. = 25 km.
 
 **Kunci: B**
 
@@ -946,6 +1153,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 03.35
 - C. 04.35
 - D. 03.45
+- **Konsep kunci:** Waktu tempuh ke Doha lalu ubah ke waktu Doha (GMT+3).
+- **Langkah Penyelesaian:**
+  1. 23.45 WIB + 7 jam 50 menit = 07.35 WIB.
+  2. WIB (GMT+7) → Doha (GMT+3) = kurangi 4 jam.
+  3. = 03.35 waktu Doha.
 
 **Kunci: B**
 
@@ -962,6 +1174,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 3 jam 10 menit
 - C. 3 jam 20 menit
 - D. 4 jam 10 menit
+- **Konsep kunci:** Total dari berangkat ke tiba, kurangi durasi mampir.
+- **Langkah Penyelesaian:**
+  1. 06.20 → 10.30 = 4 jam 10 menit.
+  2. Mampir = 40 menit.
+  3. Bergerak = 4 jam 10 m − 40 m = 3 jam 30 menit.
 
 **Kunci: A**
 
@@ -978,6 +1195,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 30 km
 - C. 0 km
 - D. 25 km
+- **Konsep kunci:** Hitung jarak tiap mobil lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. A = 4 × 75 = 300 km.
+  2. B = 3,5 × 80 = 280 km.
+  3. Selisih = 300 − 280 = 20 km.
 
 **Kunci: A**
 
@@ -994,6 +1216,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 4 : 3
 - C. 80 : 90
 - D. 8 : 9
+- **Konsep kunci:** Hitung kecepatan masing-masing lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Kereta 1 = 240 ÷ 3 = 80 km/jam.
+  2. Kereta 2 = 360 ÷ 4 = 90 km/jam.
+  3. Perbandingan = 80 : 90 = 8 : 9.
 
 **Kunci: D**
 
@@ -1010,6 +1237,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 10.30
 - C. 11.30
 - D. 12.30
+- **Konsep kunci:** WIB → Tokyo (GMT+9) tambah 2 jam.
+- **Langkah Penyelesaian:**
+  1. 08.30 + 2 jam.
+  2. = 10.30.
 
 **Kunci: B**
 
@@ -1026,6 +1257,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 245 menit = 4 jam 5 menit
 - C. 280 menit = 4 jam 40 menit
 - D. 250 menit = 4 jam 10 menit
+- **Konsep kunci:** Kalikan menit harian dengan 6 hari.
+- **Langkah Penyelesaian:**
+  1. 45 × 6 = 270 menit.
+  2. 270 ÷ 60 = 4,5 jam.
 
 **Kunci: A**
 
@@ -1042,6 +1277,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 6 menit
 - C. 7 menit
 - D. 10 menit
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. 1,2 ÷ 12 = 0,1 jam.
+  2. 0,1 jam = 6 menit.
 
 **Kunci: B**
 
@@ -1058,6 +1297,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 07.24
 - C. 07.30
 - D. 07.36
+- **Konsep kunci:** Cari KPK dari perioda nyala.
+- **Langkah Penyelesaian:**
+  1. KPK(8, 12) = 24 menit.
+  2. 07.00 + 24 menit = 07.24.
 
 **Kunci: B**
 
@@ -1074,6 +1317,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 11.15
 - C. 11.30
 - D. 11.45
+- **Konsep kunci:** Bunyi ke-6 = 5 jeda setelah mulai.
+- **Langkah Penyelesaian:**
+  1. 5 × 25 = 125 menit = 2 jam 5 menit.
+  2. 09.00 + 2 jam 5 menit.
+  3. = 11.05.
 
 **Kunci: B**
 
@@ -1097,6 +1345,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 17.05
 - C. 17.15
 - D. 17.25
+- **Konsep kunci:** Jumlahkan semua tambahan waktu.
+- **Langkah Penyelesaian:**
+  1. 1 jam 25 menit + 50 menit = 2 jam 15 menit.
+  2. 14.50 + 2 jam 15 menit.
+  3. = 17.05.
 
 **Kunci: B**
 
@@ -1113,6 +1366,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 10.45 WIB
 - C. 12.45 WIB
 - D. 13.45 WIB
+- **Konsep kunci:** Ubah tiba ke WIB (GMT+7) dari waktu Mekkah (GMT+3).
+- **Langkah Penyelesaian:**
+  1. 22.30 + 9 jam 15 menit = 07.45 waktu Mekkah.
+  2. GMT+3 → GMT+7 = tambah 4 jam.
+  3. = 11.45 WIB.
 
 **Kunci: A**
 
@@ -1129,6 +1387,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 15 km/jam
 - C. 20 km/jam
 - D. 25 km/jam
+- **Konsep kunci:** Hitung kecepatan masing-masing lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. Truk = 480 ÷ 8 = 60 km/jam.
+  2. Sedan = 480 ÷ 6 = 80 km/jam.
+  3. Selisih = 80 − 60 = 20 km/jam.
 
 **Kunci: C**
 
@@ -1145,6 +1408,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 07.23
 - C. 07.25
 - D. 07.27
+- **Konsep kunci:** Jeda antar peserta = 2 menit per peserta sebelum nomor 20.
+- **Langkah Penyelesaian:**
+  1. Jeda = 19 × 2 = 38 menit.
+  2. 06.45 + 38 menit.
+  3. = 07.23.
 
 **Kunci: A**
 
@@ -1167,6 +1435,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 75 km/jam
 - C. 90 km/jam
 - D. 120 km/jam
+- **Konsep kunci:** Ubah 8 menit ke jam lalu v = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. 8 menit = 8/60 jam = 2/15 jam.
+  2. 12 ÷ (2/15) = 12 × 15/2.
+  3. = 90 km/jam.
 
 **Kunci: C**
 
@@ -1183,6 +1456,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 03.30 Rabu
 - C. 03.20 Rabu
 - D. 03.40 Rabu
+- **Konsep kunci:** Tambahkan 3 jam 50 menit pada 23.40 (lewat tengah malam).
+- **Langkah Penyelesaian:**
+  1. 23.40 + 3 jam 50 menit.
+  2. = 03.30 (keesokan).
 
 **Kunci: B**
 
@@ -1199,6 +1476,10 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 5 jam
 - C. 6 jam
 - D. 13 jam
+- **Konsep kunci:** Hitung waktu tiap kereta lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. Biasa = 9 jam; cepat = 4 jam.
+  2. Selisih = 9 − 4 = 5 jam.
 
 **Kunci: B**
 
@@ -1215,6 +1496,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 120 km
 - C. 270 km
 - D. 250 km
+- **Konsep kunci:** Jumlahkan jarak dua ruas.
+- **Langkah Penyelesaian:**
+  1. Utara = 6 × 25 = 150 km.
+  2. Timur = 4 × 30 = 120 km.
+  3. Total = 270 km.
 
 **Kunci: C**
 
@@ -1231,6 +1517,11 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 - B. 4 jam 50 menit
 - C. 5 jam 5 menit
 - D. 5 jam 20 menit
+- **Konsep kunci:** Jumlahkan dua sesi belajar (tanpa istirahat).
+- **Langkah Penyelesaian:**
+  1. 15.40 → 18.10 = 2 jam 30 menit.
+  2. Istirahat 25 m; lanjut 18.35 → 20.30 = 1 jam 55 menit.
+  3. Total = 4 jam 25 menit.
 
 **Kunci: B**
 
@@ -1260,6 +1551,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 110°
 - C. 130°
 - D. 150°
+- **Konsep kunci:** Hitung sudut jarum jam dan menit pukul 03.40.
+- **Langkah Penyelesaian:**
+  1. Jarum jam = 3 + 40/60 = 3⅔ jam × 30° = 110°.
+  2. Jarum menit = 40 × 6° = 240°.
+  3. Selisih = 240 − 110 = 130°.
 
 **Kunci: C**
 
@@ -1276,6 +1572,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 4 jam 45 menit
 - C. 5 jam 15 menit
 - D. 5 jam 45 menit
+- **Konsep kunci:** Hitung dari 22.45 ke tengah malam lalu ke 03.30.
+- **Langkah Penyelesaian:**
+  1. 22.45 → 24.00 = 1 jam 15 menit.
+  2. 24.00 → 03.30 = 3 jam 30 menit.
+  3. Total = 4 jam 45 menit.
 
 **Kunci: B**
 
@@ -1292,6 +1593,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 6 jam 30 menit
 - C. 8 jam 30 menit
 - D. 10 jam 30 menit
+- **Konsep kunci:** Ubah waktu tiba Sydney ke WIB untuk menghitung lama terbang.
+- **Langkah Penyelesaian:**
+  1. 17.30 Sydney (GMT+10) = 14.30 WIB (kurangi 3 jam).
+  2. 14.30 − 07.00.
+  3. = 7 jam 30 menit.
 
 **Kunci: A**
 
@@ -1308,6 +1614,10 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 5 jam
 - C. 6 jam
 - D. 7 jam
+- **Konsep kunci:** Head start P lalu bagi selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 60 × 2 = 120 km.
+  2. Susul = 120 ÷ (90 − 60) = 4 jam.
 
 **Kunci: A**
 
@@ -1324,6 +1634,10 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 15
 - C. 20
 - D. 55
+- **Konsep kunci:** Kurangkan waktu: 10.10 − 09.55.
+- **Langkah Penyelesaian:**
+  1. 10.10 − 09.55.
+  2. = 15 menit.
 
 **Kunci: B**
 
@@ -1340,6 +1654,10 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 47,2 detik
 - C. 47,4 detik
 - D. 46,5 detik
+- **Konsep kunci:** Jumlahkan keempat waktu atlet.
+- **Langkah Penyelesaian:**
+  1. 11,5 + 11,8 + 12,1 + 11,6.
+  2. = 47 detik.
 
 **Kunci: A**
 
@@ -1356,6 +1674,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 11.20
 - C. 11.30
 - D. 11.48
+- **Konsep kunci:** Hitung total kekalahan lalu kurangkan dari waktu sebenarnya.
+- **Langkah Penyelesaian:**
+  1. Lambat 8 menit × 6 hari = 48 menit.
+  2. 12.00 − 48 menit.
+  3. = 11.12.
 
 **Kunci: A**
 
@@ -1372,6 +1695,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 08.15
 - C. 08.00
 - D. 07.45
+- **Konsep kunci:** Bus ke-10 = 9 jeda × 15 menit.
+- **Langkah Penyelesaian:**
+  1. 9 × 15 = 135 menit = 2 jam 15 menit.
+  2. 06.00 + 2 jam 15 menit.
+  3. = 08.15.
 
 **Kunci: B**
 
@@ -1388,6 +1716,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 1,5 km/jam
 - C. 2,4 km/jam
 - D. 4 km/jam
+- **Konsep kunci:** Samakan satuan (m/detik → km/jam) lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. 4 m/detik = 4 × 3,6 = 14,4 km/jam.
+  2. Selisih = 14,4 − 12.
+  3. = 2,4 km/jam.
 
 **Kunci: C**
 
@@ -1404,6 +1737,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 8 detik
 - C. 10 detik
 - D. 12 detik
+- **Konsep kunci:** Waktu = panjang kereta ÷ kecepatan (samakan satuan).
+- **Langkah Penyelesaian:**
+  1. 72 km/jam = 20 m/detik.
+  2. 200 ÷ 20.
+  3. = 10 detik.
 
 **Kunci: C**
 
@@ -1420,6 +1758,10 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 02.55
 - C. 03.05
 - D. 03.45
+- **Konsep kunci:** Kurangkan 1 jam 35 menit (pinjam 1 jam = 60 menit).
+- **Langkah Penyelesaian:**
+  1. 04.20 − 1 jam 35 menit.
+  2. = 02.45.
 
 **Kunci: A**
 
@@ -1436,6 +1778,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 75 km
 - C. 100 km
 - D. 175 km
+- **Konsep kunci:** Buat garis posisi searah dari A lalu bandingkan letak C dan D.
+- **Langkah Penyelesaian:**
+  1. A=0, B=250, C=250+175=425 dari A.
+  2. A−D=425, jadi D juga di titik 425.
+  3. C dan D di titik yang sama → C−D = 0 km.
 
 **Kunci: A**
 
@@ -1454,6 +1801,11 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 - B. 1 jam (A lebih lama)
 - C. 1 jam (B lebih lama)
 - D. 2 jam (A lebih lama)
+- **Konsep kunci:** Ubah waktu tiba kedua sahabat ke WIB lalu kurangkan lama terbang.
+- **Langkah Penyelesaian:**
+  1. Tokyo (GMT+9): 08.00 = 06.00 WIB.
+  2. Mekkah (GMT+3): 03.00 = 07.00 WIB.
+  3. Selisih = 07.00 − 06.00 = 1 jam (A lebih singkat 1 jam).
 
 **Kunci: A**
 
@@ -1485,6 +1837,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 10.00
 - C. 11.00
 - D. 12.00
+- **Konsep kunci:** Head start mobil pertama lalu bagi selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Saat 07.00 mob 1 sudah 60 km.
+  2. Susul = 60 ÷ (80 − 60) = 3 jam.
+  3. Pukul 10.00.
 
 **Kunci: B**
 
@@ -1501,6 +1858,12 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 17.30
 - C. 17.32
 - D. 17.45
+- **Konsep kunci:** Hitung selisih jam yang ditunjukkan lalu konversi ke waktu sebenarnya.
+- **Langkah Penyelesaian:**
+  1. Jam menunjukkan 09.00 → 17.00 = 8 jam.
+  2. Tiap 8 jam jam terlambat 12 menit → waktu sebenarnya 8 jam 12 menit.
+  3. Waktu sebenarnya = 09.15 + 8 jam 12 menit.
+  4. = 17.27.
 
 **Kunci: A**
 
@@ -1517,6 +1880,10 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 2,5 jam
 - C. 3 jam
 - D. 2 jam 30 menit (sama dengan B)
+- **Konsep kunci:** Waktu = jarak ÷ jumlah kecepatan (berlawanan arah).
+- **Langkah Penyelesaian:**
+  1. 350 ÷ (60 + 80).
+  2. = 2,5 jam.
 
 **Kunci: B**
 
@@ -1533,6 +1900,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 30 detik
 - C. 25 detik
 - D. 35 detik
+- **Konsep kunci:** Total yang perlu dilalui = panjang kereta + jembatan.
+- **Langkah Penyelesaian:**
+  1. Total = 250 + 500 = 750 m.
+  2. 90 km/jam = 25 m/detik.
+  3. 750 ÷ 25 = 30 detik.
 
 **Kunci: B**
 
@@ -1549,6 +1921,10 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 02.45
 - C. 03.55
 - D. 03.45
+- **Konsep kunci:** London (GMT+0) = WIB − 7 jam.
+- **Langkah Penyelesaian:**
+  1. 09.20 WIB = 02.20 London (mulai bicara).
+  2. 35 menit kemudian = 02.55 London.
 
 **Kunci: A**
 
@@ -1565,6 +1941,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 5,5 km
 - C. 6,5 km
 - D. 7,5 km
+- **Konsep kunci:** Hitung jarak putaran lalu tambahkan ruas lurus.
+- **Langkah Penyelesaian:**
+  1. Keliling = 4 × 250 = 1.000 m.
+  2. 4 putaran = 4.000 m = 4 km.
+  3. Total = 4 + 1,5 = 5,5 km.
 
 **Kunci: B**
 
@@ -1581,6 +1962,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 11.36
 - C. 12.00
 - D. 13.36
+- **Konsep kunci:** Waktu bertemu = jarak ÷ jumlah kecepatan.
+- **Langkah Penyelesaian:**
+  1. 540 ÷ (60 + 90) = 3,6 jam = 3 jam 36 menit.
+  2. 08.00 + 3 jam 36 menit.
+  3. = 11.36.
 
 **Kunci: B**
 
@@ -1597,6 +1983,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 48 km/jam
 - C. 45 km/jam
 - D. 52 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu (RPP).
+- **Langkah Penyelesaian:**
+  1. 2d ÷ (d/60 + d/40).
+  2. = 2d ÷ (5d/120) = 240/5.
+  3. = 48 km/jam.
 
 **Kunci: B**
 
@@ -1613,6 +2004,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 06.40 dan 07.05
 - C. 06.45 dan 07.10
 - D. 06.50 dan 07.05
+- **Konsep kunci:** Waktu tempuh lalu kurangkan/tambahkan dari target tiba.
+- **Langkah Penyelesaian:**
+  1. 3 ÷ 12 = 0,25 jam = 15 menit.
+  2. Harus berangkat 06.45.
+  3. Terlambat 5 menit → tiba 07.05.
 
 **Kunci: A**
 
@@ -1629,6 +2025,10 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 32 menit 8/11 menit
 - C. 35 menit
 - D. 40 menit
+- **Konsep kunci:** Menit berimpit = 60 × 5/11 untuk posisi 360°.
+- **Langkah Penyelesaian:**
+  1. Rumus: 30° × 6 jam = 180°; kecepatan relatif 5,5°/menit.
+  2. 180 ÷ 5,5 ≈ 32,7 menit.
 
 **Kunci: B**
 
@@ -1645,6 +2045,10 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 09.00
 - C. 12.00
 - D. 14.00
+- **Konsep kunci:** New York (GMT−5) = WIB − 12 jam.
+- **Langkah Penyelesaian:**
+  1. 19.00 WIB − 12 jam.
+  2. = 07.00 waktu New York.
 
 **Kunci: A**
 
@@ -1661,6 +2065,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 13 jam 15 menit
 - C. 12 jam 15 menit
 - D. 1 jam 15 menit
+- **Konsep kunci:** Ubah dua waktu ke satu zona lalu hitung selisih.
+- **Langkah Penyelesaian:**
+  1. 22.30 GMT+8 = 22.30 − 8 = 14.30 UTC = 10.30 GMT−4.
+  2. 23.45 GMT−4 − 10.30 GMT−4.
+  3. = 13 jam 15 menit.
 
 **Kunci: B**
 
@@ -1677,6 +2086,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 16.00
 - C. 18.00
 - D. 23.00
+- **Konsep kunci:** London (GMT+0) = WIB − 7 jam; tambahkan 4 jam.
+- **Langkah Penyelesaian:**
+  1. 19.00 WIB = 12.00 London.
+  2. + 4 jam.
+  3. = 16.00 waktu London.
 
 **Kunci: B**
 
@@ -1693,6 +2107,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 5 jam 39 menit 25 detik
 - C. 4 jam 40 menit 25 detik
 - D. 5 jam 40 menit 65 detik
+- **Konsep kunci:** Kurangkan detik, menit, lalu jam (pinjam bila perlu).
+- **Langkah Penyelesaian:**
+  1. 8 jam 5 m 10 s − 3 jam 25 m 45 s.
+  2. Pinjam: 5 m → 4 m 70 s; 8 jam → 7 jam 65 m.
+  3. = 4 jam 39 menit 25 detik.
 
 **Kunci: A**
 
@@ -1709,6 +2128,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 8 m/s
 - C. 8,16 m/s
 - D. 9 m/s
+- **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 4 × 400 = 1.600 m.
+  2. Total waktu = 48+50+51+49 = 198 detik.
+  3. 1.600 ÷ 198 ≈ 8,08 m/s.
 
 **Kunci: C**
 
@@ -1725,6 +2149,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 5 km
 - C. 10 km
 - D. 25 km
+- **Konsep kunci:** Ubah jarak peta ke jarak nyata lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. 8 cm × 200.000 = 16 km.
+  2. 5,5 cm × 200.000 = 11 km.
+  3. Selisih = 5 km.
 
 **Kunci: B**
 
@@ -1741,6 +2170,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 12.55 Senin
 - C. 11.45 Senin
 - D. 12.45 Senin
+- **Konsep kunci:** Kurangkan 14 jam 50 menit dari 02.45 (mundur lewat tengah malam).
+- **Langkah Penyelesaian:**
+  1. 02.45 − 14 jam = 12.45 Selasa sebelumnya.
+  2. − 50 menit lagi.
+  3. = 11.55 Senin (hari sebelumnya).
 
 **Kunci: A**
 
@@ -1757,6 +2191,11 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 90 km/jam
 - C. 96 km/jam
 - D. 100 km/jam
+- **Konsep kunci:** Kecepatan saat bergerak = jarak ÷ waktu bergerak (tanpa singgah).
+- **Langkah Penyelesaian:**
+  1. Waktu bergerak = 9 − 1,5 = 7,5 jam.
+  2. 720 ÷ 7,5.
+  3. = 96 km/jam.
 
 **Kunci: C**
 
@@ -1773,6 +2212,12 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 - B. 06.00 Selasa
 - C. 12.00 Selasa
 - D. 18.00 Selasa
+- **Konsep kunci:** Jumlahkan lama ke New York lalu ubah ke waktu New York.
+- **Langkah Penyelesaian:**
+  1. Total terbang = 9 + 4 + 14 = 27 jam.
+  2. 23.00 Senin WIB + 27 jam = 02.00 Rabu WIB.
+  3. WIB → New York (GMT−5) = kurangi 12 jam.
+  4. = 14.00 Selasa waktu New York.
 
 **Kunci: D**
 

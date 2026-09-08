@@ -128,7 +128,12 @@ Antara dua titik dibagi rata sesuai skala.
 - C. Warna benda
 - D. Bentuk benda
 
-**📖 Pembahasan:** Suhu = ukuran "panas/dingin". Secara mikroskopis menunjukkan energi kinetik partikel. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu adalah ukuran derajat panas atau dinginnya suatu benda, terkait energi kinetik rata-rata partikel penyusunnya.
+- **A salah:** berat benda diukur dengan neraca/timbangan, bukan termometer — siswa menukar besaran suhu dengan besaran massa.
+- **B benar:** suhu memang menyatakan tingkat panas atau dingin suatu benda.
+- **C salah:** warna hanya berkaitan dengan suhu pada benda yang sangat panas (misalnya logam pijar), bukan definisi suhu itu sendiri.
+- **D salah:** bentuk benda tidak berhubungan dengan gerak partikel penyusunnya, jadi tidak menunjukkan suhu.
 
 ---
 
@@ -141,7 +146,12 @@ Air membeku pada suhu...
 - C. **0°C**
 - D. -10°C
 
-**📖 Pembahasan:** Titik beku air pada tekanan 1 atm = 0°C. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik beku air murni pada tekanan 1 atm adalah 0°C, salah satu titik tetap untuk kalibrasi termometer.
+- **A salah:** 100°C adalah titik didih air, bukan titik beku — tertukar antara dua titik tetap.
+- **B salah:** 50°C hanyalah nilai tengah sembarang, bukan titik tetap fisika air mana pun.
+- **C benar:** air membeku pada 0°C dalam kondisi normal (tekanan 1 atm, air murni).
+- **D salah:** -10°C hanya terjadi pada air yang sudah membeku lebih lanjut atau larutan bercampur zat lain, bukan suhu beku air murni standar.
 
 ---
 
@@ -154,7 +164,12 @@ Air mendidih pada suhu...
 - C. 0°C
 - D. 200°C
 
-**📖 Pembahasan:** Air mendidih = 100°C pada tekanan 1 atm. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik didih air murni pada tekanan 1 atm adalah 100°C, titik tetap kedua untuk kalibrasi termometer.
+- **A benar:** air mendidih pada 100°C dalam kondisi tekanan udara normal.
+- **B salah:** 50°C hanya suhu air hangat, air pada suhu ini belum mendidih.
+- **C salah:** 0°C adalah titik beku, bukan titik didih — tertukar dengan titik tetap lainnya.
+- **D salah:** 200°C melebihi titik didih normal air; selama air mendidih pada 1 atm suhunya tetap 100°C, tidak naik lagi walau terus dipanaskan.
 
 ---
 
@@ -167,7 +182,12 @@ Suhu tubuh manusia normal...
 - C. 25°C
 - D. **36-37°C**
 
-**📖 Pembahasan:** Suhu badan sehat ~36.5°C. Di atas 38°C = demam. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu tubuh manusia sehat berkisar 36-37°C, dijaga tetap oleh sistem termoregulasi tubuh.
+- **A salah:** 30°C terlalu rendah untuk tubuh hidup normal — ini mendekati suhu ruangan sejuk, bukan suhu tubuh.
+- **B salah:** 50°C mustahil bagi tubuh manusia karena protein sel akan rusak; siswa mungkin menukar dengan suhu air hangat mandi.
+- **C salah:** 25°C adalah suhu kamar, bukan suhu tubuh manusia.
+- **D benar:** suhu tubuh normal manusia adalah 36-37°C.
 
 ---
 
@@ -180,7 +200,12 @@ Alat untuk mengukur suhu adalah...
 - C. **Termometer**
 - D. Barometer
 
-**📖 Pembahasan:** Termometer khusus untuk suhu. Barometer untuk tekanan udara. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Termometer adalah alat khusus untuk mengukur suhu suatu benda atau lingkungan.
+- **A salah:** penggaris digunakan mengukur panjang, bukan suhu.
+- **B salah:** stopwatch digunakan mengukur waktu, bukan suhu.
+- **C benar:** termometer adalah alat yang tepat untuk mengukur suhu.
+- **D salah:** barometer mengukur tekanan udara, sering tertukar dengan termometer karena sama-sama alat cuaca.
 
 ---
 
@@ -193,7 +218,11 @@ Alat untuk mengukur suhu adalah...
 - C. 50°F
 - D. 32°F
 
-**📖 Pembahasan:** °F = (9/5)×°C + 32 = 1.8×50 + 32 = 90+32 = 122°F. **A benar.**
+**Pembahasan:**
+- **A benar:** Rumus konversi Celsius ke Fahrenheit adalah °F = (9/5)×°C + 32. Untuk 50°C: (9/5)×50 + 32 = 90 + 32 = 122°F.
+- **B salah:** 100°F muncul jika lupa menambahkan angka 32 setelah mengalikan, atau salah membulatkan hasil kali 9/5×50.
+- **C salah:** 50°F keliru karena menganggap angka Celsius bisa langsung dipakai sebagai Fahrenheit tanpa konversi, padahal kedua skala punya titik nol berbeda.
+- **D salah:** 32°F adalah titik beku air dalam Fahrenheit (setara 0°C), bukan hasil konversi dari 50°C — tertukar dengan konstanta pada rumus.
 
 ---
 
@@ -206,7 +235,11 @@ Alat untuk mengukur suhu adalah...
 - C. 173 K
 - D. 273 K
 
-**📖 Pembahasan:** K = °C + 273. **B benar.**
+**Pembahasan:**
+- **A salah:** 100 K keliru karena menyamakan langsung angka Celsius (100°C) sebagai Kelvin tanpa menambahkan 273.
+- **B benar:** Rumus K = °C + 273. Untuk 100°C: 100 + 273 = 373 K.
+- **C salah:** 173 K muncul dari kesalahan hitung (menambahkan angka yang bukan 273), bukan hasil operasi yang benar dari 100°C.
+- **D salah:** 273 K adalah hasil konversi dari 0°C, bukan dari 100°C — tertukar dengan titik acuan yang berbeda.
 
 ---
 
@@ -219,7 +252,11 @@ Suhu terendah secara teoretis (nol absolut) adalah...
 - C. 0°F
 - D. **0 K (atau -273°C)**
 
-**📖 Pembahasan:** 0 K = -273°C. Partikel "berhenti" bergerak. **D benar.**
+**Pembahasan:**
+- **A salah:** 0°C hanyalah titik beku air, bukan suhu terendah teoretis alam semesta.
+- **B salah:** -100°C memang sangat dingin, tapi masih jauh di atas nol absolut (-273°C) sehingga bukan batas terendah teoretis.
+- **C salah:** 0°F setara -17.8°C, jauh dari nol absolut, tertukar dengan angka referensi Fahrenheit yang tidak istimewa secara fisika.
+- **D benar:** Nol absolut adalah 0 K = -273°C, suhu terendah yang mungkin secara teoretis karena partikel dianggap berhenti bergerak sepenuhnya.
 
 ---
 
@@ -232,7 +269,11 @@ Termometer klasik menggunakan...
 - C. Listrik
 - D. Magnet
 
-**📖 Pembahasan:** Raksa = cairan klasik termometer. Memuai linear. **A benar.**
+**Pembahasan:**
+- **A benar:** Termometer klasik menggunakan air raksa (merkuri) karena memuai secara teratur (linear) saat dipanaskan sehingga mudah dibaca skalanya.
+- **B salah:** Air biasa tidak memuai secara teratur dan membeku pada 0°C, sehingga tidak cocok dipakai sebagai cairan pengisi termometer suhu rendah.
+- **C salah:** Listrik bukan zat yang memuai/menyusut, sehingga tidak bisa jadi indikator visual suhu pada termometer analog raksa.
+- **D salah:** Magnet tidak berhubungan dengan pemuaian akibat suhu, sehingga tidak dipakai sebagai prinsip kerja termometer cair.
 
 ---
 
@@ -245,7 +286,11 @@ Termometer modern di rumah sakit yang **tanpa raksa** biasanya jenis...
 - C. Bimetal
 - D. Klinis raksa
 
-**📖 Pembahasan:** Modern hindari raksa (toksik). Digital + IR populer untuk medis. **B benar.**
+**Pembahasan:**
+- **A salah:** "Klasik" merujuk pada termometer raksa lama, justru mengandung raksa — bertentangan dengan syarat "tanpa raksa" pada soal.
+- **B benar:** Termometer digital dan inframerah menggunakan sensor elektronik sehingga tidak memerlukan raksa sama sekali dan lebih aman dipakai di rumah sakit modern.
+- **C salah:** Bimetal memang tidak memakai raksa, tapi jenis ini dipakai untuk termostat/oven, bukan alat ukur suhu tubuh pasien di rumah sakit.
+- **D salah:** Termometer klinis raksa jelas masih mengandung raksa, bertentangan langsung dengan syarat pada pertanyaan.
 
 ---
 
@@ -258,7 +303,11 @@ Termometer modern di rumah sakit yang **tanpa raksa** biasanya jenis...
 - C. **80°R** ((4/5)×100)
 - D. 273°R
 
-**📖 Pembahasan:** °R = (4/5)×°C. **C benar.**
+**Pembahasan:**
+- **A salah:** 100°R keliru karena menyamakan angka Celsius langsung sebagai Reamur tanpa mengalikan faktor 4/5.
+- **B salah:** 50°R muncul jika membagi 100 dengan 2, padahal faktor konversi yang benar adalah 4/5, bukan 1/2.
+- **C benar:** Rumus °R = (4/5)×°C. Untuk 100°C: (4/5)×100 = 80°R.
+- **D salah:** 273°R tertukar dengan angka konversi Kelvin (K = °C + 273), bukan Reamur.
 
 ---
 
@@ -271,7 +320,11 @@ Air mendidih dalam Reamur:
 - C. 100°R
 - D. **80°R**
 
-**📖 Pembahasan:** Skala Reamur: 0 (beku) - 80 (didih). **D benar.**
+**Pembahasan:**
+- **A salah:** 0°R adalah titik beku air dalam skala Reamur, bukan titik didih — tertukar antara dua titik tetap.
+- **B salah:** 32°R tertukar dengan titik beku air dalam skala Fahrenheit (32°F), bukan skala Reamur.
+- **C salah:** 100°R tertukar dengan titik didih dalam skala Celsius (100°C); dalam Reamur titik didih adalah 80°R.
+- **D benar:** Skala Reamur membagi rentang beku-didih air menjadi 0°R sampai 80°R, sehingga air mendidih pada 80°R.
 
 ---
 
@@ -284,7 +337,11 @@ Termometer raksa bekerja berdasarkan prinsip...
 - C. Cahaya
 - D. **Pemuaian zat (raksa) saat dipanaskan**
 
-**📖 Pembahasan:** Raksa memuai → naik di tabung. **D benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berkaitan dengan perubahan volume akibat suhu, jadi bukan prinsip kerja termometer raksa.
+- **B salah:** Termometer analog raksa tidak memerlukan listrik sama sekali untuk bekerja — berbeda dengan termometer digital.
+- **C salah:** Cahaya bukan prinsip termometer raksa; cahaya baru relevan untuk termometer inframerah.
+- **D benar:** Raksa memuai (bertambah volume) saat dipanaskan sehingga naik di pipa kapiler, dan menyusut saat suhu turun — inilah prinsip dasar termometer cair.
 
 ---
 
@@ -297,7 +354,11 @@ Termometer raksa bekerja berdasarkan prinsip...
 - C. 100°C
 - D. 50°C
 
-**📖 Pembahasan:** °C = (5/9)×(°F-32) = (5/9)×36 = 20°C. **A benar.**
+**Pembahasan:**
+- **A benar:** °C = (5/9)×(°F-32) = (5/9)×(68-32) = (5/9)×36 = 20°C.
+- **B salah:** 32°C tertukar dengan konstanta 32 pada rumus (titik beku Fahrenheit), bukan hasil konversi.
+- **C salah:** 100°C adalah titik didih air dalam Celsius, tidak berhubungan dengan hasil konversi 68°F.
+- **D salah:** 50°C muncul jika selisih (68-32=36) dibagi 2 alih-alih dikalikan 5/9 yang benar.
 
 ---
 
@@ -310,7 +371,11 @@ Termometer alkohol cocok untuk mengukur suhu...
 - C. Panas oven
 - D. Mendidih
 
-**📖 Pembahasan:** Alkohol titik beku -114°C → cocok suhu rendah. Tetapi titik didih hanya 78°C, tidak cocok suhu tinggi. **B benar.**
+**Pembahasan:**
+- **A salah:** Alkohol punya titik didih rendah (~78°C) sehingga tidak tahan mengukur suhu sangat tinggi — akan menguap habis.
+- **B benar:** Alkohol memiliki titik beku sangat rendah (-114°C) sehingga masih cair dan bisa dipakai mengukur suhu ekstrem dingin, misalnya di daerah kutub.
+- **C salah:** Suhu oven jauh melebihi titik didih alkohol (78°C), sehingga alkohol akan menguap dan termometer tidak berfungsi.
+- **D salah:** Sama seperti oven, suhu mendidih (100°C) sudah melewati titik didih alkohol, sehingga tidak cocok dipakai di sana.
 
 ---
 
@@ -323,7 +388,11 @@ Termometer klinis dirancang khusus untuk mengukur suhu...
 - C. **Tubuh manusia (rentang 35-42°C)**
 - D. Oven
 
-**📖 Pembahasan:** Klinis = medis, rentang sempit fokus suhu badan. **C benar.**
+**Pembahasan:**
+- **A salah:** Mengukur suhu air memakai termometer laboratorium/alkohol dengan rentang lebih luas, bukan termometer klinis yang sengaja dibuat sempit.
+- **B salah:** Suhu cuaca diukur dengan termometer stasiun cuaca (misalnya maksimum-minimum), bukan termometer klinis yang rentangnya terlalu sempit.
+- **C benar:** Termometer klinis dirancang khusus dengan rentang sempit 35-42°C agar pembacaan suhu tubuh manusia lebih presisi.
+- **D salah:** Suhu oven jauh di atas 42°C, akan merusak termometer klinis yang memang tidak dirancang untuk suhu setinggi itu.
 
 ---
 
@@ -336,7 +405,11 @@ Suhu kamar yang nyaman di Indonesia biasanya...
 - C. 50°C
 - D. 0°C
 
-**📖 Pembahasan:** Tropis Indonesia: 25-30°C kamar nyaman. **A benar.**
+**Pembahasan:**
+- **A benar:** Iklim tropis Indonesia membuat suhu kamar nyaman berkisar 25-28°C.
+- **B salah:** 10°C terlalu dingin untuk suhu kamar di Indonesia, ini lebih mendekati suhu di dalam kulkas.
+- **C salah:** 50°C terlalu panas untuk kenyamanan manusia, mendekati suhu benda yang terpapar matahari langsung.
+- **D salah:** 0°C adalah titik beku air, jauh lebih dingin dari suhu ruangan mana pun yang nyaman ditinggali.
 
 ---
 
@@ -349,7 +422,11 @@ Suhu kamar yang nyaman di Indonesia biasanya...
 - C. 73°C
 - D. 100°C
 
-**📖 Pembahasan:** °C = K - 273 = 300-273 = 27°C. **B benar.**
+**Pembahasan:**
+- **A salah:** 0°C adalah hasil konversi dari 273 K, bukan dari 300 K — tertukar dengan angka acuan konversi Kelvin.
+- **B benar:** °C = K - 273 = 300 - 273 = 27°C.
+- **C salah:** 73°C muncul dari kesalahan pengurangan, misalnya salah menyisakan digit saat menghitung 300-273.
+- **D salah:** 100°C adalah titik didih air, tidak berhubungan dengan hasil pengurangan 300-273.
 
 ---
 
@@ -362,7 +439,11 @@ Termometer **inframerah** (ditembakkan ke dahi tanpa kontak) bekerja dengan...
 - C. Magnet
 - D. **Mendeteksi radiasi inframerah yang dipancarkan kulit → konversi ke suhu**
 
-**📖 Pembahasan:** Semua benda hangat memancarkan IR sebanding dengan suhu. IR thermometer menangkap IR dari kulit. **D benar.**
+**Pembahasan:**
+- **A salah:** Suntik sama sekali tidak berkaitan dengan pengukuran suhu; ini pengalih perhatian yang tidak relevan.
+- **B salah:** Frasa ini terlalu umum — termometer IR bukan mengukur "panas" secara langsung, melainkan radiasi inframerah yang dipancarkan tubuh.
+- **C salah:** Magnet tidak berhubungan dengan radiasi termal, sehingga bukan prinsip kerja termometer inframerah.
+- **D benar:** Setiap benda hangat (termasuk kulit) memancarkan radiasi inframerah sebanding suhunya; termometer IR mendeteksi radiasi ini lalu mengonversinya menjadi angka suhu tanpa perlu menyentuh kulit.
 
 ---
 
@@ -375,9 +456,11 @@ Saat air mendidih di pegunungan tinggi (tekanan rendah), suhu mendidih...
 - C. Lebih tinggi
 - D. Tidak bisa mendidih
 
-**📖 Pembahasan:** Tekanan rendah → titik didih turun. Di puncak Everest, air mendidih ~70°C. **A benar.**
-
-Wait, plan was C. Let me adjust — actually the correct answer is A (lebih rendah). Saya akan keep ini correct dan adjust counts later.
+**Pembahasan:**
+- **A benar:** Di dataran tinggi, tekanan udara lebih rendah sehingga titik didih air turun (di bawah 100°C) — misalnya di puncak gunung tinggi air bisa mendidih di sekitar 70-90°C.
+- **B salah:** Titik didih 100°C hanya berlaku pada tekanan 1 atm (permukaan laut); anggapan "selalu tetap" mengabaikan pengaruh tekanan udara.
+- **C salah:** Justru sebaliknya — tekanan rendah menurunkan, bukan menaikkan, titik didih air.
+- **D salah:** Air tetap bisa mendidih di dataran tinggi, hanya saja pada suhu lebih rendah dari 100°C, bukan tidak bisa mendidih sama sekali.
 
 ---
 
@@ -390,7 +473,11 @@ Suhu badan **demam** biasanya di atas...
 - C. 100°C
 - D. 50°C
 
-**📖 Pembahasan:** Suhu badan >38°C = demam. >40°C = high fever (bahaya). **B benar.**
+**Pembahasan:**
+- **A salah:** 30°C berada jauh di bawah suhu tubuh normal (36-37°C), ini bukan tanda demam, melainkan tidak mungkin sebagai suhu tubuh yang hidup.
+- **B benar:** Suhu tubuh di atas 38°C sudah dikategorikan demam karena melebihi rentang normal 36-37°C.
+- **C salah:** 100°C adalah suhu titik didih air, mustahil menjadi suhu tubuh manusia yang masih hidup.
+- **D salah:** 50°C jauh melebihi batas suhu tubuh yang bisa ditoleransi manusia dan akan merusak protein tubuh, bukan gambaran demam biasa.
 
 ---
 
@@ -403,7 +490,11 @@ Termometer di stasiun cuaca yang mencatat **suhu tertinggi & terendah** harian d
 - C. Bimetal
 - D. **Termometer maksimum-minimum (Six's thermometer)**
 
-**📖 Pembahasan:** Maxima-minima termometer = standar meteorologi. **D benar.**
+**Pembahasan:**
+- **A salah:** Termometer klinis hanya mengukur suhu tubuh manusia sesaat, tidak dirancang mencatat suhu ekstrem harian.
+- **B salah:** Termometer raksa biasa hanya menunjukkan suhu saat itu (real-time), tidak menyimpan catatan suhu tertinggi/terendah.
+- **C salah:** Termometer bimetal umumnya dipakai untuk oven/termostat, bukan pencatatan cuaca ekstrem harian.
+- **D benar:** Termometer maksimum-minimum (Six's thermometer) dirancang khusus mencatat suhu tertinggi dan terendah dalam periode waktu tertentu, standar di stasiun cuaca.
 
 ---
 
@@ -416,7 +507,11 @@ Termometer di stasiun cuaca yang mencatat **suhu tertinggi & terendah** harian d
 - C. 250 K
 - D. 273 K
 
-**📖 Pembahasan:** K = 25 + 273 = 298. **A benar.**
+**Pembahasan:**
+- **A benar:** K = °C + 273 = 25 + 273 = 298 K.
+- **B salah:** 25 K keliru karena menyamakan langsung angka Celsius sebagai Kelvin tanpa menambahkan 273.
+- **C salah:** 250 K muncul dari kesalahan penjumlahan, bukan hasil operasi 25+273 yang benar.
+- **D salah:** 273 K adalah hasil konversi dari 0°C, bukan dari 25°C — tertukar dengan konstanta rumus.
 
 ---
 
@@ -429,7 +524,11 @@ Air laut (mengandung garam) membeku pada suhu...
 - C. **Di bawah 0°C (sekitar -2°C)**
 - D. 10°C
 
-**📖 Pembahasan:** Garam menurunkan titik beku. Air laut beku ~-2°C. **C benar.**
+**Pembahasan:**
+- **A salah:** 5°C adalah suhu di atas titik beku, bukan suhu beku air laut yang justru turun akibat kandungan garam.
+- **B salah:** 0°C hanya berlaku untuk air tawar murni; air laut yang mengandung garam justru membeku di bawah 0°C.
+- **C benar:** Garam terlarut menurunkan titik beku air, sehingga air laut membeku pada suhu sekitar -2°C, bukan 0°C seperti air tawar.
+- **D salah:** 10°C adalah suhu di atas titik beku mana pun, tidak relevan dengan proses pembekuan air laut.
 
 ---
 
@@ -442,7 +541,11 @@ Termometer digital di rumah modern menggunakan...
 - C. Air
 - D. Alkohol
 
-**📖 Pembahasan:** Digital pakai sensor elektronik. **B benar.**
+**Pembahasan:**
+- **A salah:** Raksa adalah bahan termometer analog klasik, bukan komponen termometer digital modern.
+- **B benar:** Termometer digital menggunakan sensor elektronik (misalnya thermistor) yang resistansi/tegangannya berubah sesuai suhu, lalu dikonversi menjadi angka pada layar.
+- **C salah:** Air tidak dipakai sebagai bahan pengukur suhu karena tidak memuai secara linear dan membeku pada 0°C.
+- **D salah:** Alkohol dipakai pada termometer analog cair, bukan pada termometer digital yang berbasis sensor elektronik.
 
 ---
 
@@ -455,7 +558,11 @@ Skala suhu yang digunakan dalam SI (Système International) adalah...
 - C. Fahrenheit
 - D. Reamur
 
-**📖 Pembahasan:** SI = Kelvin. Celsius digunakan luas tapi bukan dasar SI. **A benar.**
+**Pembahasan:**
+- **A benar:** Sistem Internasional (SI) menetapkan Kelvin sebagai satuan dasar suhu karena sifatnya absolut (dimulai dari nol absolut).
+- **B salah:** Celsius memang paling umum dipakai sehari-hari, tetapi bukan satuan dasar SI karena titik nolnya bersifat sembarang (titik beku air), bukan nol absolut.
+- **C salah:** Fahrenheit adalah skala populer di beberapa negara (misalnya AS), tapi bukan bagian dari sistem SI.
+- **D salah:** Reamur adalah skala lama yang sudah jarang dipakai dan bukan bagian dari sistem SI.
 
 ---
 
@@ -468,7 +575,11 @@ Skala suhu yang digunakan dalam SI (Système International) adalah...
 - C. 0°C
 - D. -100°C
 
-**📖 Pembahasan:** °C = (5/9)×(-40-32) = (5/9)×(-72) = -40°C. F dan C sama hanya di -40. **B benar.**
+**Pembahasan:**
+- **A salah:** 40°C keliru karena mengabaikan tanda negatif pada hasil konversi; padahal (5/9)×(-72) menghasilkan bilangan negatif.
+- **B benar:** °C = (5/9)×(-40-32) = (5/9)×(-72) = -40°C — kebetulan unik, -40 adalah satu-satunya titik di mana Celsius dan Fahrenheit menunjukkan angka yang sama.
+- **C salah:** 0°C adalah titik beku air, tidak sama dengan hasil konversi -40°F.
+- **D salah:** -100°C terlalu rendah dan bukan hasil perhitungan rumus konversi yang benar dari -40°F.
 
 ---
 
@@ -481,7 +592,11 @@ Untuk **kalibrasi** termometer, dua titik tetap yang digunakan:
 - C. **Titik beku air (0°C) & titik didih air (100°C) pada tekanan 1 atm**
 - D. Es krim & teh panas
 
-**📖 Pembahasan:** Standar internasional. **C benar.**
+**Pembahasan:**
+- **A salah:** Suhu badan dan udara tidak tetap/konsisten (berubah-ubah antarindividu dan cuaca), sehingga tidak bisa jadi titik acuan kalibrasi yang presisi.
+- **B salah:** Hujan dan matahari bukan suhu yang tetap dan terukur pasti, sehingga tidak bisa dijadikan patokan kalibrasi ilmiah.
+- **C benar:** Titik beku air (0°C) dan titik didih air (100°C) pada tekanan 1 atm adalah dua titik tetap yang selalu sama di mana pun, sehingga jadi standar internasional kalibrasi termometer.
+- **D salah:** Suhu es krim dan teh panas bervariasi tergantung kondisi pembuatannya, tidak tetap seperti titik beku-didih air murni.
 
 ---
 
@@ -494,7 +609,11 @@ Bagian termometer raksa yang berisi raksa awal (bola) disebut...
 - C. Pipa kapiler
 - D. **Reservoir / bohlam**
 
-**📖 Pembahasan:** Reservoir = penampung raksa di bawah. **D benar.**
+**Pembahasan:**
+- **A salah:** Tabung adalah bagian panjang tempat cairan naik-turun, bukan bagian tempat penyimpanan awal raksa.
+- **B salah:** Skala adalah angka-angka penunjuk suhu yang tertera di sisi tabung, bukan wadah cairan.
+- **C salah:** Pipa kapiler adalah saluran sempit tempat raksa naik saat memuai, bukan wadah penyimpanan awalnya.
+- **D benar:** Reservoir atau bohlam adalah bagian bulat di ujung bawah termometer yang menyimpan sebagian besar raksa sebelum memuai naik ke pipa kapiler.
 
 ---
 
@@ -507,7 +626,11 @@ Termometer klinis raksa biasa punya skala dari sekitar...
 - C. 100-200°C
 - D. **35-42°C** (rentang sempit untuk suhu badan)
 
-**📖 Pembahasan:** Klinis = rentang sempit fokus medis. **D benar.**
+**Pembahasan:**
+- **A salah:** Rentang 0-100°C terlalu lebar untuk termometer klinis; ini lebih cocok untuk termometer laboratorium umum.
+- **B salah:** Rentang -10 sampai 50°C biasa dipakai termometer cuaca/ruangan, bukan untuk mengukur suhu tubuh manusia yang lebih sempit rentangnya.
+- **C salah:** Rentang 100-200°C jauh melebihi suhu tubuh manusia yang masih bisa bertahan hidup, tidak masuk akal untuk termometer klinis.
+- **D benar:** Termometer klinis raksa dirancang dengan skala sempit 35-42°C agar pembacaan suhu tubuh manusia lebih presisi dan mudah dibaca.
 
 ---
 
@@ -520,7 +643,11 @@ Suhu badan ayam biasanya...
 - C. 30°C
 - D. 50°C
 
-**📖 Pembahasan:** Hewan endotermik kecil punya suhu badan lebih tinggi. Ayam ~41-42°C. **A benar.**
+**Pembahasan:**
+- **A benar:** Ayam sebagai unggas memiliki metabolisme tinggi sehingga suhu badannya lebih tinggi dari manusia, sekitar 41-42°C.
+- **B salah:** 25°C adalah suhu ruangan/lingkungan, bukan suhu tubuh hewan berdarah panas seperti ayam.
+- **C salah:** 30°C masih terlalu rendah untuk suhu tubuh unggas yang metabolismenya cepat.
+- **D salah:** 50°C sudah melebihi batas suhu tubuh yang bisa ditoleransi makhluk hidup mana pun, termasuk ayam — protein akan rusak.
 
 ---
 
@@ -533,7 +660,11 @@ Air membeku dalam Reamur:
 - C. 100°R
 - D. 80°R
 
-**📖 Pembahasan:** Skala Reamur: 0=beku, 80=didih. **B benar.**
+**Pembahasan:**
+- **A salah:** 32°R tertukar dengan angka titik beku Fahrenheit (32°F), padahal dalam skala Reamur titik beku air adalah 0°R.
+- **B benar:** Skala Reamur menetapkan 0°R sebagai titik beku air, sama seperti 0°C pada skala Celsius.
+- **C salah:** 100°R tertukar dengan titik didih dalam skala Celsius (100°C); dalam Reamur titik didih adalah 80°R.
+- **D salah:** 80°R adalah titik didih air pada skala Reamur, bukan titik bekunya.
 
 ---
 
@@ -546,7 +677,11 @@ Air membeku dalam Reamur:
 - C. **Termometer bimetal — dua logam dengan koefisien muai berbeda → melengkung sesuai suhu → menggerakkan jarum penunjuk**
 - D. Tradisi
 
-**📖 Pembahasan:** Bimetal = strip 2 logam disambung. **C benar.**
+**Pembahasan:**
+- **A salah:** Pemuaian logam justru punya banyak aplikasi praktis, salah satunya termometer bimetal — bukan "tidak ada" aplikasinya.
+- **B salah:** Magnet tidak berkaitan dengan pemuaian logam akibat suhu.
+- **C benar:** Termometer bimetal memanfaatkan dua lempeng logam berbeda koefisien muai yang disatukan; saat dipanaskan keduanya memuai berbeda sehingga lempeng melengkung dan menggerakkan jarum penunjuk suhu.
+- **D salah:** "Tradisi" bukan konsep fisika, hanya pengalih perhatian yang tidak menjelaskan mekanisme sebenarnya.
 
 ---
 
@@ -559,7 +694,11 @@ Suhu badan 37°C dalam Fahrenheit:
 - C. 32°F
 - D. **98.6°F** ((9/5)×37+32)
 
-**📖 Pembahasan:** °F = 1.8×37+32 = 66.6+32 = 98.6. **D benar.**
+**Pembahasan:**
+- **A salah:** 100°F bukan hasil konversi 37°C; ini pembulatan kasar yang tidak memakai rumus konversi yang benar.
+- **B salah:** 80°F terlalu rendah dan tidak sesuai hasil rumus (9/5)×37+32.
+- **C salah:** 32°F adalah titik beku air dalam Fahrenheit (setara 0°C), bukan hasil konversi dari suhu tubuh 37°C.
+- **D benar:** °F = (9/5)×37 + 32 = 66.6 + 32 = 98.6°F, sesuai suhu tubuh normal manusia yang sering disebut dalam Fahrenheit.
 
 ---
 
@@ -572,7 +711,11 @@ Es batu yang mulai mencair (campuran es + air) suhunya...
 - C. 5°C
 - D. 100°C
 
-**📖 Pembahasan:** Selama es+air bercampur, suhu tetap 0°C (titik beku). Energi masuk dipakai untuk lebur, bukan naikkan suhu. **A benar.**
+**Pembahasan:**
+- **A benar:** Selama es dan air bercampur (proses melebur), suhu campuran tetap konstan di 0°C karena energi yang masuk digunakan untuk mengubah wujud (kalor laten), bukan menaikkan suhu.
+- **B salah:** -10°C adalah suhu es murni yang sangat dingin dan belum mulai mencair, bukan kondisi campuran es-air yang sedang melebur.
+- **C salah:** 5°C adalah suhu air yang sudah sepenuhnya mencair dan mulai menghangat, bukan saat proses pencairan masih berlangsung.
+- **D salah:** 100°C adalah titik didih air, jauh berbeda dari kondisi es yang baru mulai mencair.
 
 ---
 
@@ -585,7 +728,11 @@ Termometer paling tepat untuk **bayi** adalah...
 - C. Bimetal industri
 - D. Alkohol
 
-**📖 Pembahasan:** Bayi: hindari raksa (toksik kalau pecah) & alat berisiko cedera. Digital/IR ideal. **B benar.**
+**Pembahasan:**
+- **A salah:** Raksa berbahaya jika termometer pecah dan tertelan/terhirup bayi, sehingga sangat tidak disarankan.
+- **B benar:** Termometer digital atau inframerah aman digunakan pada bayi karena tidak mengandung raksa toksik, cepat, dan tidak berisiko melukai bayi yang aktif bergerak.
+- **C salah:** Termometer bimetal industri dirancang untuk suhu tinggi di mesin/oven, bukan untuk mengukur suhu tubuh bayi yang lembut.
+- **D salah:** Termometer alkohol umumnya dipakai di laboratorium/cuaca, bukan dirancang khusus dan seaman termometer digital untuk bayi.
 
 ---
 
@@ -598,7 +745,11 @@ Suhu dalam lemari es (refrigerator) biasanya...
 - C. **2-5°C**
 - D. -50°C
 
-**📖 Pembahasan:** Kulkas standar: 2-5°C (rak biasa); freezer: -18°C. **C benar.**
+**Pembahasan:**
+- **A salah:** 30°C terlalu hangat, mendekati suhu ruangan, bukan suhu di dalam kulkas yang seharusnya dingin untuk mengawetkan makanan.
+- **B salah:** 20°C juga masih terlalu hangat untuk mengawetkan makanan segar, mendekati suhu kamar biasa.
+- **C benar:** Bagian pendingin (rak biasa) kulkas standar diatur sekitar 2-5°C, cukup dingin untuk memperlambat pertumbuhan bakteri tanpa membekukan makanan.
+- **D salah:** -50°C jauh lebih dingin dari kebutuhan kulkas rumahan biasa; suhu sedingin ini hanya dipakai di freezer industri/laboratorium khusus.
 
 ---
 
@@ -611,7 +762,11 @@ Suhu freezer makanan biasanya...
 - C. -5°C
 - D. **-18°C atau lebih rendah**
 
-**📖 Pembahasan:** Freezer standar: -18°C (cukup beku semua air & menghentikan bakteri). **D benar.**
+**Pembahasan:**
+- **A salah:** 0°C hanya cukup membekukan air murni, belum cukup dingin untuk mengawetkan makanan dalam jangka panjang seperti freezer.
+- **B salah:** 5°C adalah suhu bagian pendingin kulkas (bukan freezer), masih terlalu hangat untuk membekukan makanan.
+- **C salah:** -5°C belum cukup dingin untuk membekukan seluruh kandungan air dalam makanan dan menghentikan aktivitas bakteri secara efektif.
+- **D benar:** Freezer standar diatur pada -18°C atau lebih rendah karena suhu ini cukup membekukan hampir semua air dalam makanan dan menghentikan pertumbuhan mikroba secara efektif.
 
 ---
 
@@ -624,7 +779,11 @@ Termometer **digital** vs **raksa**:
 - C. Sama
 - D. Digital tidak akurat
 
-**📖 Pembahasan:** Digital modern lebih unggul di hampir semua aspek. **A benar.**
+**Pembahasan:**
+- **A benar:** Termometer digital umumnya lebih cepat memberi hasil, presisi tinggi, mudah dibaca (angka langsung tampil), dan tidak mengandung raksa yang berbahaya jika pecah.
+- **B salah:** Justru sebaliknya — termometer raksa membutuhkan waktu lebih lama untuk stabil dibanding sensor elektronik digital.
+- **C salah:** Kedua jenis termometer ini punya perbedaan signifikan dalam kecepatan, keamanan, dan kemudahan pembacaan, tidak bisa dianggap "sama".
+- **D salah:** Anggapan ini keliru — termometer digital modern justru dikenal presisi tinggi jika kalibrasinya baik, bukan tidak akurat.
 
 ---
 
@@ -637,7 +796,11 @@ Suhu untuk memanggang kue di oven biasanya...
 - C. 500°C
 - D. 30°C
 
-**📖 Pembahasan:** Oven baking: 150-200°C. 180°C standar. **B benar.**
+**Pembahasan:**
+- **A salah:** 100°C hanya cukup untuk merebus/mengukus, belum cukup panas untuk memanggang kue hingga matang dan berwarna kecoklatan.
+- **B benar:** Suhu oven untuk memanggang kue umumnya diatur sekitar 150-200°C, dengan 180°C sebagai suhu standar yang sering dipakai.
+- **C salah:** 500°C terlalu tinggi dan justru akan membuat kue gosong dalam waktu singkat, bukan matang merata.
+- **D salah:** 30°C hanya setara suhu ruangan hangat, jauh dari cukup untuk memasak/memanggang apa pun.
 
 ---
 
@@ -650,7 +813,11 @@ Suhu untuk memanggang kue di oven biasanya...
 - C. **392°F** ((9/5)×200+32 = 360+32)
 - D. 500°F
 
-**📖 Pembahasan:** °F = 1.8×200+32 = 360+32 = 392. **C benar.**
+**Pembahasan:**
+- **A salah:** 200°F keliru karena menyamakan angka Celsius langsung sebagai Fahrenheit tanpa memakai rumus konversi.
+- **B salah:** 300°F adalah hasil pembulatan kasar yang tidak sesuai perhitungan rumus (9/5)×200+32 yang sebenarnya.
+- **C benar:** °F = (9/5)×200 + 32 = 360 + 32 = 392°F.
+- **D salah:** 500°F terlalu besar dan tidak sesuai hasil rumus konversi yang benar dari 200°C.
 
 ---
 
@@ -663,7 +830,11 @@ Untuk mengukur suhu **tungku peleburan logam** (>1000°C), termometer yang cocok
 - C. Klinis
 - D. **Termokopel (sensor logam-logam, tahan suhu sangat tinggi)**
 
-**📖 Pembahasan:** Raksa hanya sampai ~350°C. Termokopel hingga 2000°C. **D benar.**
+**Pembahasan:**
+- **A salah:** Termometer raksa hanya tahan hingga sekitar 350°C sebelum mendidih/rusak, jauh di bawah suhu tungku peleburan logam.
+- **B salah:** Alkohol punya titik didih jauh lebih rendah (~78°C), sama sekali tidak cocok untuk suhu ekstrem tungku peleburan.
+- **C salah:** Termometer klinis dirancang khusus rentang sempit suhu tubuh manusia (35-42°C), sangat jauh dari kebutuhan suhu industri tinggi.
+- **D benar:** Termokopel dibuat dari dua logam berbeda yang menghasilkan tegangan listrik sebanding suhu, mampu bertahan mengukur suhu sangat tinggi hingga ribuan derajat seperti di tungku peleburan.
 
 ---
 
@@ -676,7 +847,11 @@ Reptil seperti ular & kadal **berdarah dingin** artinya...
 - C. Tidak punya darah
 - D. Suhu sangat rendah
 
-**📖 Pembahasan:** Ektoderm: suhu internal = suhu eksternal. Mamalia & burung = endotermik (suhu konstan). **A benar.**
+**Pembahasan:**
+- **A benar:** Hewan berdarah dingin (ektoterm/poikiloterm) seperti reptil tidak bisa mengatur suhu tubuhnya sendiri, sehingga suhu tubuhnya mengikuti suhu lingkungan sekitar.
+- **B salah:** "Selalu dingin" keliru — reptil bisa memiliki suhu tubuh hangat jika berjemur di tempat panas, karena suhu tubuhnya menyesuaikan lingkungan, bukan selalu rendah.
+- **C salah:** Reptil tetap memiliki darah seperti hewan lain; istilah "berdarah dingin" hanya kiasan untuk cara pengaturan suhu tubuhnya, bukan berarti tidak punya darah.
+- **D salah:** Suhu tubuhnya tidak selalu rendah, tergantung suhu lingkungan — bisa tinggi saat cuaca panas.
 
 ---
 
@@ -689,7 +864,11 @@ Saat memanaskan **air** di panci, volume air...
 - C. Berkurang
 - D. Hilang
 
-**📖 Pembahasan:** Cairan memuai saat dipanaskan. Bisa lihat permukaan air naik. **B benar.**
+**Pembahasan:**
+- **A salah:** Volume air yang dipanaskan tidak tetap, melainkan bertambah karena partikel air bergerak lebih cepat dan saling menjauh.
+- **B benar:** Saat dipanaskan, partikel air bergerak lebih cepat dan jarak antar-partikel melebar sehingga volume air bertambah (memuai), terlihat dari permukaan air yang naik di panci.
+- **C salah:** Volume air tidak berkurang saat dipanaskan (sebelum mendidih menguap); pemanasan justru membuatnya memuai, bukan menyusut.
+- **D salah:** Air tidak "hilang" hanya karena dipanaskan sebentar; air baru berkurang jumlahnya jika sudah mendidih dan menguap dalam waktu lama.
 
 ---
 
@@ -702,7 +881,11 @@ Suhu **permukaan matahari** sekitar...
 - C. **6000°C (atau ~5800 K)**
 - D. 15 juta °C
 
-**📖 Pembahasan:** Permukaan matahari ~5800 K = ~5500°C. Inti matahari ~15 juta °C. **C benar.**
+**Pembahasan:**
+- **A salah:** 100°C hanya setara titik didih air, jauh lebih rendah dari suhu permukaan matahari yang sangat panas.
+- **B salah:** 1000°C memang panas untuk ukuran Bumi (misalnya lava), tapi masih jauh lebih rendah dari suhu permukaan matahari.
+- **C benar:** Permukaan matahari (fotosfer) memiliki suhu sekitar 5800 K atau kurang lebih 5500-6000°C.
+- **D salah:** 15 juta °C adalah suhu inti matahari tempat terjadinya reaksi fusi nuklir, bukan suhu permukaannya yang jauh lebih rendah.
 
 ---
 
@@ -715,7 +898,11 @@ Termostat di setrika listrik menggunakan **bimetal** untuk...
 - C. Mahal
 - D. **Mati otomatis saat suhu mencapai setting → mencegah terlalu panas**
 
-**📖 Pembahasan:** Bimetal melengkung pada suhu tertentu → memutus kontak listrik → setrika berhenti panas. **D benar.**
+**Pembahasan:**
+- **A salah:** Bimetal pada setrika bukan untuk keindahan tampilan, melainkan berfungsi sebagai pengatur suhu otomatis.
+- **B salah:** Penggunaan bimetal bukan sekadar kebiasaan turun-temurun, tetapi karena prinsip fisikanya memang efektif mendeteksi suhu.
+- **C salah:** Bimetal justru komponen sederhana dan murah, bukan alasan yang berkaitan dengan biaya mahal.
+- **D benar:** Saat suhu setrika mencapai batas yang diatur, lempeng bimetal melengkung cukup jauh sehingga memutus aliran listrik secara otomatis, mencegah setrika menjadi terlalu panas.
 
 ---
 
@@ -728,7 +915,11 @@ Lava dari gunung berapi biasanya bersuhu sekitar...
 - C. 10000°C
 - D. 50°C
 
-**📖 Pembahasan:** Lava basaltik ~1100-1200°C; lava rhyolitic ~700-900°C. **A benar.**
+**Pembahasan:**
+- **A benar:** Lava dari gunung berapi umumnya bersuhu sekitar 700-1200°C tergantung jenis magma (basaltik lebih panas, riolitik lebih rendah).
+- **B salah:** 100°C hanya setara titik didih air, jauh lebih rendah dari suhu lava cair yang panas membara.
+- **C salah:** 10.000°C jauh melebihi suhu lava yang sebenarnya tercatat di gunung berapi mana pun.
+- **D salah:** 50°C sama sekali tidak masuk akal untuk lava cair yang jelas terlihat membara merah-oranye.
 
 ---
 
@@ -741,7 +932,11 @@ Saat air mendidih, suhunya tetap **100°C** walau dipanaskan terus. Energi tamba
 - C. Mendinginkan
 - D. Hilang
 
-**📖 Pembahasan:** Saat berubah wujud, energi masuk = kalor laten, tidak ubah suhu. **B benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berhubungan dengan proses perubahan wujud zat akibat panas.
+- **B benar:** Saat air sudah mendidih, energi tambahan yang masuk digunakan untuk mengubah wujud air menjadi uap (kalor laten penguapan), bukan untuk menaikkan suhu lebih dari 100°C.
+- **C salah:** Energi panas yang terus ditambahkan justru dipakai zat, bukan untuk mendinginkan air — ini bertentangan dengan proses pemanasan yang sedang berlangsung.
+- **D salah:** Energi panas tidak hilang begitu saja; energi tetap digunakan tapi untuk mengubah wujud zat, sesuai hukum kekekalan energi.
 
 ---
 
@@ -754,7 +949,11 @@ Saat air mendidih, suhunya tetap **100°C** walau dipanaskan terus. Energi tamba
 - C. **32°R** ((4/5)×40)
 - D. 100°R
 
-**📖 Pembahasan:** °R = (4/5)×°C = 0.8×40 = 32°R. **C benar.**
+**Pembahasan:**
+- **A salah:** 80°R adalah titik didih air pada skala Reamur, bukan hasil konversi dari 40°C.
+- **B salah:** 50°R muncul jika membagi 40 dengan angka yang salah, bukan mengalikan dengan faktor 4/5 yang benar.
+- **C benar:** °R = (4/5)×°C = (4/5)×40 = 32°R.
+- **D salah:** 100°R tidak sesuai hasil rumus konversi yang benar; angka ini justru menyerupai titik didih Celsius, bukan hasil konversi Reamur.
 
 ---
 
@@ -767,7 +966,11 @@ Pernyataan **paling tepat** sintesis suhu & termometer:
 - C. Skala = semua sama
 - D. **Suhu mengukur tingkat panas/dingin (rata-rata energi kinetik partikel); skala C, F, K, R dengan konversi tetap; termometer berbagai jenis (raksa, alkohol, digital, IR, bimetal, termokopel) untuk aplikasi berbeda; nol absolut = 0 K = -273°C**
 
-**📖 Pembahasan:** Sintesis komprehensif level Kab. **D benar.**
+**Pembahasan:**
+- **A salah:** Suhu dan berat adalah dua besaran fisika yang sama sekali berbeda; berat diukur dengan neraca, bukan termometer.
+- **B salah:** Termometer memiliki banyak jenis (raksa, alkohol, digital, IR, bimetal, termokopel), tidak hanya satu jenis saja.
+- **C salah:** Keempat skala suhu (C, F, K, R) memiliki titik nol dan rentang berbeda, sehingga tidak bisa dianggap "semua sama" — perlu rumus konversi.
+- **D benar:** Pernyataan ini merangkum dengan tepat bahwa suhu berkaitan dengan energi kinetik rata-rata partikel, ada empat skala dengan rumus konversi tetap, berbagai jenis termometer untuk kebutuhan berbeda, dan nol absolut di 0 K.
 
 ---
 
@@ -782,7 +985,11 @@ Pernyataan **paling tepat** sintesis suhu & termometer:
 - C. 150°F
 - D. 90°F
 
-**📖 Pembahasan:** °F = 1.8(90)+32 = 194. **A benar.**
+**Pembahasan:**
+- **A benar:** °F = (9/5)×90 + 32 = 162 + 32 = 194°F.
+- **B salah:** 200°F adalah pembulatan kasar yang tidak sesuai hasil perhitungan rumus konversi sebenarnya.
+- **C salah:** 150°F terlalu rendah dan tidak sesuai hasil kali (9/5)×90 yang benar.
+- **D salah:** 90°F keliru karena menyamakan langsung angka Celsius sebagai Fahrenheit tanpa rumus konversi.
 
 ---
 
@@ -795,7 +1002,11 @@ Pernyataan **paling tepat** sintesis suhu & termometer:
 - C. 50°C
 - D. 60°C
 
-**📖 Pembahasan:** °C = (5/9)(72) = 40. **B benar.**
+**Pembahasan:**
+- **A salah:** 30°C tidak sesuai hasil perhitungan (5/9)×(104-32); ini pembulatan yang keliru dari selisih sebenarnya.
+- **B benar:** °C = (5/9)×(104-32) = (5/9)×72 = 40°C.
+- **C salah:** 50°C melebihi hasil perhitungan rumus yang benar, kemungkinan salah mengalikan faktor konversi.
+- **D salah:** 60°C terlalu tinggi dan tidak sesuai hasil rumus konversi Fahrenheit ke Celsius yang benar.
 
 ---
 
@@ -808,7 +1019,11 @@ Patokan rasio C : R : F-32 : K-273 adalah...
 - C. **5:4:9:5**
 - D. 2:1:3:2
 
-**📖 Pembahasan:** Rasio interval skala. **C benar.**
+**Pembahasan:**
+- **A salah:** Rasio 1:1:1:1 keliru karena keempat skala punya interval berbeda antara titik beku dan titik didih air.
+- **B salah:** 10:8:18:10 adalah kelipatan dua dari rasio yang benar (5:4:9:5); meski proporsinya sama, ini bukan bentuk rasio paling sederhana yang dipakai sebagai patokan baku.
+- **C benar:** Rasio interval C:R:(F-32):(K-273) = 5:4:9:5 didapat dari perbandingan rentang beku-didih tiap skala (100:80:180:100 disederhanakan).
+- **D salah:** 2:1:3:2 tidak sesuai perbandingan rentang sebenarnya antar skala suhu.
 
 ---
 
@@ -821,7 +1036,11 @@ Batang baja 100 cm pada 20°C. Saat dipanaskan ke 100°C (Δt=80°C), panjang be
 - C. 1 cm
 - D. 10 cm
 
-**📖 Pembahasan:** ΔL = L × α × ΔT = 100×80×1.1e-5 = 8.8e-2 = 0.088 cm. **A benar.**
+**Pembahasan:**
+- **A benar:** ΔL = L×α×ΔT = 100×1.1×10⁻⁵×80 = 0.088 cm, menggunakan rumus pemuaian panjang zat padat.
+- **B salah:** 0.5 cm terlalu besar dibanding hasil perhitungan sebenarnya, kemungkinan salah memasukkan nilai koefisien muai.
+- **C salah:** 1 cm jauh lebih besar dari hasil rumus yang benar; pemuaian logam sesungguhnya sangat kecil untuk perubahan suhu sebesar ini.
+- **D salah:** 10 cm sangat tidak masuk akal untuk pemuaian batang logam sepanjang 100 cm hanya akibat kenaikan suhu 80°C.
 
 ---
 
@@ -834,7 +1053,11 @@ Air punya **anomali**: dari 0°C ke 4°C, volume air...
 - C. Tetap
 - D. Tidak diketahui
 
-**📖 Pembahasan:** Anomali air: kerapatan max di 4°C. Dari 0 ke 4°C, volume berkurang. Sebab es mengapung di air. **B benar.**
+**Pembahasan:**
+- **A salah:** Berbeda dari kebanyakan zat yang memuai saat dipanaskan, air dari 0°C ke 4°C justru menyusut, bukan bertambah volumenya.
+- **B benar:** Ini adalah anomali air — antara 0°C dan 4°C, volume air justru berkurang (kerapatan meningkat) karena penyusunan ulang struktur molekul air, mencapai kerapatan maksimum pada 4°C.
+- **C salah:** Volume air tidak tetap pada rentang suhu ini; justru terjadi perubahan volume yang tidak biasa (menyusut), berbeda dari pola pemuaian normal.
+- **D salah:** Fenomena ini sudah dipahami dengan baik dalam sains (disebut anomali air), bukan sesuatu yang "tidak diketahui".
 
 ---
 
@@ -847,7 +1070,11 @@ Saat es 0°C mencair menjadi air 0°C, suhu tidak berubah tapi energi diserap. E
 - C. **Kalor laten peleburan**
 - D. Magnet
 
-**📖 Pembahasan:** Kalor laten = energi untuk ubah wujud tanpa ubah suhu. **C benar.**
+**Pembahasan:**
+- **A salah:** Kalor sensibel adalah energi yang menyebabkan perubahan suhu (terasa naik-turun), sedangkan pada peleburan es, suhu tidak berubah meski energi diserap.
+- **B salah:** Listrik tidak relevan dengan proses peleburan es yang murni proses termal (perpindahan kalor).
+- **C benar:** Kalor laten peleburan adalah energi yang diserap saat zat berubah wujud (padat ke cair) tanpa mengubah suhunya, karena energi dipakai untuk memutus ikatan antar-partikel.
+- **D salah:** Magnet tidak berkaitan dengan proses perubahan wujud zat akibat penyerapan energi panas.
 
 ---
 
@@ -860,7 +1087,11 @@ Termokopel bekerja berdasarkan...
 - C. Cahaya
 - D. Cairan
 
-**📖 Pembahasan:** Thomas Seebeck (1821). Voltase termokopel = sensor suhu industri standar. **A benar.**
+**Pembahasan:**
+- **A benar:** Termokopel bekerja berdasarkan efek Seebeck — saat dua logam berbeda disambung dan ada perbedaan suhu di titik sambungannya, timbul tegangan listrik yang sebanding dengan suhu.
+- **B salah:** Magnet tidak menghasilkan tegangan listrik akibat perbedaan suhu; ini bukan prinsip kerja termokopel.
+- **C salah:** Cahaya bukan mekanisme kerja termokopel; termokopel bekerja lewat sifat kelistrikan logam, bukan optik.
+- **D salah:** Termokopel tidak memakai cairan sama sekali, berbeda dengan termometer raksa/alkohol — ia terbuat dari dua kawat logam padat.
 
 ---
 
@@ -873,7 +1104,11 @@ Semua benda dengan suhu di atas 0 K memancarkan radiasi...
 - C. Bunyi
 - D. **Inframerah (IR) sebanding dengan suhu (hukum radiasi termal)**
 
-**📖 Pembahasan:** Black body radiation. Benda hangat = pancarkan IR; benda sangat panas = + cahaya tampak. **D benar.**
+**Pembahasan:**
+- **A salah:** Cahaya tampak hanya dipancarkan benda yang sangat panas (misalnya logam pijar), bukan oleh semua benda bersuhu di atas 0 K.
+- **B salah:** Radiasi UV umumnya dipancarkan sumber bersuhu sangat tinggi (seperti matahari), bukan radiasi umum semua benda.
+- **C salah:** Bunyi adalah gelombang mekanik yang memerlukan medium, sama sekali bukan bentuk radiasi termal.
+- **D benar:** Berdasarkan hukum radiasi benda hitam, semua benda dengan suhu di atas 0 K memancarkan radiasi inframerah yang intensitasnya sebanding dengan suhunya — inilah dasar kerja kamera termal dan termometer IR.
 
 ---
 
@@ -886,7 +1121,11 @@ Termometer klinis raksa punya **penyempitan tabung** di atas reservoir. Tujuan:
 - C. **Mencegah raksa kembali turun saat termometer diangkat dari tubuh → bacaan tetap stabil sampai dibaca**
 - D. Mahal
 
-**📖 Pembahasan:** Konstriksi mekanis. Raksa harus dikocok untuk turun (jadi diperlukan "shake-down"). **C benar.**
+**Pembahasan:**
+- **A salah:** Penyempitan tabung bukan untuk keindahan, melainkan memiliki fungsi mekanis penting dalam pembacaan suhu.
+- **B salah:** Ini bukan sekadar kebiasaan turun-temurun, tetapi desain fungsional yang disengaja untuk menjaga akurasi pembacaan.
+- **C benar:** Penyempitan (konstriksi) mencegah raksa yang sudah naik turun kembali secara otomatis saat termometer diangkat dari tubuh, sehingga suhu yang terbaca tetap stabil sampai sengaja dikocok turun.
+- **D salah:** Penyempitan tabung tidak berkaitan dengan faktor harga/biaya pembuatan termometer.
 
 ---
 
@@ -899,7 +1138,11 @@ Termometer klinis raksa punya **penyempitan tabung** di atas reservoir. Tujuan:
 - C. 300°F
 - D. 600°F
 
-**📖 Pembahasan:** Konversi 2 langkah. **A benar.**
+**Pembahasan:**
+- **A benar:** 500 K = (500-273)°C = 227°C, lalu °F = (9/5)×227+32 = 408.6+32 = 440.6°F.
+- **B salah:** 500°F keliru karena menyamakan langsung angka Kelvin sebagai Fahrenheit tanpa konversi dua tahap.
+- **C salah:** 300°F terlalu rendah dan tidak sesuai hasil perhitungan dua tahap yang benar.
+- **D salah:** 600°F terlalu tinggi dibanding hasil perhitungan yang sebenarnya.
 
 ---
 
@@ -912,7 +1155,11 @@ Mengapa **es mengapung** di air?
 - C. Berat
 - D. **Anomali air: es kurang rapat dari air (1.0 g/cm³ air vs 0.92 g/cm³ es) → mengapung**
 
-**📖 Pembahasan:** Anomali air membuat es ringan dari air → mengapung. Esential untuk kehidupan akuatik (ikan tetap hidup di bawah lapisan es). **D benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berkaitan dengan alasan es mengapung di air.
+- **B salah:** Ini bukan sekadar "kebiasaan alam", melainkan fenomena fisika yang bisa dijelaskan dengan konsep kerapatan.
+- **C salah:** "Berat" saja tidak cukup menjelaskan; yang menentukan mengapung/tenggelam adalah kerapatan (massa per volume), bukan berat mutlak.
+- **D benar:** Akibat anomali air, es memiliki kerapatan lebih rendah (sekitar 0.92 g/cm³) dibanding air cair (1.0 g/cm³), sehingga es mengapung di permukaan air.
 
 ---
 
@@ -925,7 +1172,11 @@ Mengapa enzim tubuh kita bekerja optimal di sekitar 37°C?
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** Enzim sangat sensitif suhu. Demam tinggi >42°C bisa fatal karena denaturasi enzim. **B benar.**
+**Pembahasan:**
+- **A salah:** Ini bukan sekadar "kebiasaan", melainkan hasil adaptasi biologis (evolusi) enzim tubuh terhadap suhu tubuh normal manusia.
+- **B benar:** Enzim tubuh manusia telah beradaptasi bekerja optimal pada suhu sekitar 37°C (suhu tubuh normal); di atas suhu tertentu (misalnya >42°C), struktur enzim bisa rusak (denaturasi) sehingga fungsinya terganggu.
+- **C salah:** Magnet tidak berkaitan dengan kinerja optimal enzim tubuh.
+- **D salah:** Cahaya tidak berpengaruh pada suhu optimal kerja enzim di dalam tubuh.
 
 ---
 
@@ -938,7 +1189,11 @@ Mengapa enzim tubuh kita bekerja optimal di sekitar 37°C?
 - C. **122°F** (40°R = 50°C → 122°F)
 - D. 200°F
 
-**📖 Pembahasan:** 40°R = (5/4)(40)°C = 50°C → (9/5)(50)+32 = 90+32 = 122°F. **C benar.**
+**Pembahasan:**
+- **A salah:** 40°F keliru karena menyamakan langsung angka Reamur sebagai Fahrenheit tanpa dua tahap konversi.
+- **B salah:** 100°F tidak sesuai hasil perhitungan dua tahap dari Reamur ke Celsius lalu ke Fahrenheit.
+- **C benar:** 40°R = (5/4)×40 = 50°C, lalu °F = (9/5)×50+32 = 90+32 = 122°F.
+- **D salah:** 200°F jauh melebihi hasil perhitungan yang benar dari konversi dua tahap tersebut.
 
 ---
 
@@ -951,7 +1206,11 @@ Termometer Galileo (Galilean thermometer) di toko hias mengandung bola-bola beri
 - C. Listrik
 - D. Cahaya
 
-**📖 Pembahasan:** Prinsip Archimedes + ekspansi termal. Estetik tapi tidak presisi. **A benar.**
+**Pembahasan:**
+- **A benar:** Saat suhu berubah, kepadatan cairan di sekitar bola-bola kecil berubah mengikuti prinsip Archimedes, sehingga bola dengan kepadatan tertentu bisa mengapung atau tenggelam sesuai suhu ruangan.
+- **B salah:** Magnet tidak berperan dalam mekanisme naik-turunnya bola pada termometer Galileo.
+- **C salah:** Termometer Galileo tidak memakai listrik sama sekali; ia murni memanfaatkan prinsip fisika kepadatan dan pemuaian cairan.
+- **D salah:** Cahaya tidak menjadi penyebab pergerakan bola; pergerakan murni akibat perubahan kepadatan cairan terhadap suhu.
 
 ---
 
@@ -964,7 +1223,11 @@ Selain Kelvin, ada skala suhu absolut lain bernama **Rankine** (°R, beda dengan
 - C. Tidak ada
 - D. **Skala absolut berbasis Fahrenheit (0 Rankine = nol absolut, naik 1 = 1°F)**
 
-**📖 Pembahasan:** Rankine = "Kelvin versi Fahrenheit". Digunakan di engineering Amerika. **D benar.**
+**Pembahasan:**
+- **A salah:** Rankine sama sekali berbeda dari Reamur meskipun namanya mirip disebut "°R" — Rankine berbasis interval Fahrenheit, sedangkan Reamur berbasis interval Celsius.
+- **B salah:** Rankine tidak sama dengan Celsius; keduanya punya titik nol dan interval yang berbeda jauh.
+- **C salah:** Hubungan itu memang ada dan jelas — Rankine adalah versi absolut dari skala Fahrenheit, bukan "tidak ada hubungan".
+- **D benar:** Skala Rankine adalah skala suhu absolut yang menggunakan interval derajat sama seperti Fahrenheit, dengan titik nolnya di nol absolut (0 Rankine = -459.67°F).
 
 ---
 
@@ -977,7 +1240,11 @@ Termometer digital rumah pakai **thermistor** = resistor yang...
 - C. Memancarkan cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** Thermistor NTC (Negative Temperature Coefficient) = resistansi turun saat suhu naik. Sangat sensitif. **B benar.**
+**Pembahasan:**
+- **A salah:** Thermistor tidak bekerja berdasarkan gaya magnet, melainkan sifat kelistrikan bahan semikonduktornya.
+- **B benar:** Thermistor adalah resistor khusus yang nilai resistansinya berubah signifikan seiring perubahan suhu, sehingga dengan mengukur resistansinya, suhu dapat diketahui secara akurat.
+- **C salah:** Thermistor tidak memancarkan cahaya; ia bekerja murni lewat perubahan sifat listrik (resistansi), bukan optik.
+- **D salah:** Cara kerja thermistor didasarkan pada prinsip fisika material semikonduktor, bukan sekadar kebiasaan turun-temurun.
 
 ---
 
@@ -990,7 +1257,11 @@ Mamalia umum (kucing, anjing, sapi) bersuhu badan sekitar...
 - C. 50°C
 - D. 100°C
 
-**📖 Pembahasan:** Manusia 37°C; mamalia lain 38-39°C. **A benar.**
+**Pembahasan:**
+- **A benar:** Mamalia umum seperti kucing, anjing, dan sapi memiliki suhu tubuh sedikit lebih tinggi dari manusia, yaitu sekitar 38-39°C.
+- **B salah:** 25°C adalah suhu lingkungan/ruangan, bukan suhu tubuh hewan berdarah panas seperti mamalia.
+- **C salah:** 50°C sudah melebihi batas suhu tubuh yang bisa ditoleransi mamalia mana pun; protein tubuh akan rusak pada suhu setinggi ini.
+- **D salah:** 100°C adalah titik didih air, sama sekali tidak mungkin menjadi suhu tubuh makhluk hidup.
 
 ---
 
@@ -1003,7 +1274,11 @@ Mamalia umum (kucing, anjing, sapi) bersuhu badan sekitar...
 - C. **Menyusut (kontradiktif dengan kebanyakan bahan!) — sifat unik polymer**
 - D. Hilang
 
-**📖 Pembahasan:** Karet (rubber band) memang menyusut saat dipanaskan karena rantai polimer "mengeritingkan". Bisa coba: regangkan karet, lihat menyusut saat kena api lilin. **C benar.**
+**Pembahasan:**
+- **A salah:** Berbeda dari kebanyakan bahan, karet justru tidak memuai biasa saat dipanaskan — ini adalah sifat anomali/unik dari bahan polimer.
+- **B salah:** Panjang karet tidak tetap saat dipanaskan; justru terjadi perubahan (penyusutan) akibat perilaku rantai polimernya.
+- **C benar:** Karet memiliki sifat unik di mana rantai polimernya justru "mengeriting" (menyusut) saat dipanaskan, berlawanan dengan kebanyakan bahan padat yang memuai.
+- **D salah:** Karet tidak hilang hanya karena dipanaskan sebentar; perubahan yang terjadi adalah penyusutan panjang, bukan lenyapnya bahan.
 
 ---
 
@@ -1016,7 +1291,11 @@ Suhu rata-rata tahunan di Jakarta sekitar...
 - C. 40°C
 - D. **27°C**
 
-**📖 Pembahasan:** Tropis hangat. Jakarta ~26-28°C tahunan, dengan musim hujan sedikit lebih dingin. **D benar.**
+**Pembahasan:**
+- **A salah:** 10°C terlalu dingin untuk suhu rata-rata tahunan kota tropis seperti Jakarta.
+- **B salah:** 20°C juga masih terlalu rendah dibanding suhu rata-rata sebenarnya di Jakarta yang beriklim tropis.
+- **C salah:** 40°C terlalu tinggi untuk dijadikan suhu rata-rata tahunan; ini lebih mendekati suhu ekstrem siang hari, bukan rata-rata.
+- **D benar:** Sebagai kota tropis, Jakarta memiliki suhu rata-rata tahunan sekitar 26-28°C, dengan variasi kecil antar-musim.
 
 ---
 
@@ -1029,13 +1308,11 @@ Suhu atmosfer Bumi **turun** dengan ketinggian di troposfer (sampai ~10 km). Tet
 - C. Terus turun
 - D. Tidak berubah
 
-**📖 Pembahasan:** Lapisan atmosfer:
-- Troposfer: suhu turun (~-60°C di top).
-- **Stratosfer: suhu naik kembali** (ozon menyerap UV).
-- Mesosfer: turun lagi.
-- Termosfer: naik dramatis.
-
-**B benar.**
+**Pembahasan:**
+- **A salah:** Suhu di stratosfer tidak konstan, melainkan justru meningkat seiring ketinggian karena penyerapan radiasi UV oleh lapisan ozon.
+- **B benar:** Di stratosfer, suhu mulai naik kembali karena lapisan ozon menyerap radiasi ultraviolet dari matahari, berbeda dengan troposfer di bawahnya yang suhunya menurun seiring ketinggian.
+- **C salah:** Pola "terus turun" hanya berlaku di troposfer; begitu memasuki stratosfer, tren suhu justru berbalik naik.
+- **D salah:** Suhu di stratosfer memang berubah (naik), tidak tetap/tidak berubah seperti pernyataan ini.
 
 ---
 
@@ -1048,7 +1325,11 @@ Kamera **termal (IR camera)** bisa "melihat" dalam gelap karena...
 - C. Tradisi
 - D. **Setiap benda hangat memancarkan IR — kamera detect & buat gambar berdasarkan suhu**
 
-**📖 Pembahasan:** Aplikasi: search & rescue, deteksi kebakaran, medis, militer night vision. **D benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berkaitan dengan cara kerja kamera termal dalam mendeteksi objek di kegelapan.
+- **B salah:** Kamera termal justru bekerja tanpa memerlukan cahaya tampak sama sekali — inilah yang membuatnya bisa "melihat" dalam gelap total.
+- **C salah:** Ini bukan sekadar kebiasaan, melainkan penerapan prinsip fisika radiasi termal (hukum radiasi benda hitam).
+- **D benar:** Setiap benda dengan suhu di atas nol absolut memancarkan radiasi inframerah; kamera termal mendeteksi radiasi ini dan mengubahnya menjadi gambar berdasarkan pola suhu, sehingga tetap bisa "melihat" meski tanpa cahaya tampak.
 
 ---
 
@@ -1061,7 +1342,11 @@ Kamera **termal (IR camera)** bisa "melihat" dalam gelap karena...
 - C. **374°C**
 - D. 1000°C
 
-**📖 Pembahasan:** Suhu kritis air 374°C (374.21°C). Di atas ini, air = supercritical fluid (sifat antara cair dan gas). **C benar.**
+**Pembahasan:**
+- **A salah:** 100°C hanya titik didih air pada tekanan normal, bukan suhu kritis di mana air tidak bisa mencair lagi berapa pun tekanannya.
+- **B salah:** 200°C masih di bawah suhu kritis air yang sebenarnya; pada suhu ini air masih bisa berbentuk cair jika tekanannya cukup tinggi.
+- **C benar:** Suhu kritis air adalah sekitar 374°C — di atas suhu ini, air tidak bisa lagi berwujud cair berapa pun tekanan yang diberikan, hanya berupa fluida superkritis.
+- **D salah:** 1000°C jauh melebihi suhu kritis air yang sebenarnya tercatat secara ilmiah.
 
 ---
 
@@ -1074,7 +1359,11 @@ Panel solar **thermal** (bukan photovoltaic) bekerja dengan...
 - C. **Menyerap radiasi matahari (IR + tampak) → memanaskan air/cairan untuk pemanas air rumah/industri**
 - D. Tradisi
 
-**📖 Pembahasan:** Solar thermal vs photovoltaic. Thermal: panaskan air. PV: listrik. **C benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berkaitan dengan cara kerja panel solar thermal.
+- **B salah:** Panel solar thermal tidak menghasilkan listrik secara langsung (berbeda dengan panel photovoltaic); ia hanya memanfaatkan panas.
+- **C benar:** Panel solar thermal menyerap radiasi matahari (termasuk inframerah dan cahaya tampak) untuk memanaskan air atau cairan secara langsung, digunakan misalnya untuk pemanas air rumah tangga atau industri.
+- **D salah:** Ini bukan sekadar kebiasaan, melainkan penerapan prinsip fisika penyerapan radiasi termal oleh permukaan gelap.
 
 ---
 
@@ -1087,7 +1376,11 @@ Bimetal terbuat dari dua logam dengan koefisien muai berbeda. Saat dipanaskan, b
 - C. Logam yang lebih cepat
 - D. Logam yang lebih dingin
 
-**📖 Pembahasan:** Logam memuai lebih → memanjang lebih → di sisi luar lengkungan. **B benar.**
+**Pembahasan:**
+- **A salah:** Arah lengkungan bimetal justru sangat bergantung pada perbedaan koefisien muai kedua logam penyusunnya, bukan sesuatu yang acak/tidak peduli.
+- **B benar:** Logam dengan koefisien muai lebih kecil memanjang lebih sedikit sehingga berada di sisi dalam lengkungan, sementara logam yang koefisien muainya lebih besar memanjang lebih banyak dan berada di sisi luar — inilah yang membuat bimetal melengkung ke arah logam yang muainya lebih kecil.
+- **C salah:** "Logam yang lebih cepat" bukan istilah fisika yang tepat untuk menjelaskan arah lengkungan; yang menentukan adalah besar koefisien muai, bukan kecepatan.
+- **D salah:** Kedua logam pada bimetal mengalami suhu yang sama (disatukan), sehingga tidak ada logam yang "lebih dingin" — perbedaannya ada pada koefisien muai, bukan suhu masing-masing.
 
 ---
 
@@ -1100,7 +1393,11 @@ Mengapa **air** dipakai sebagai pendingin mesin / koolan?
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Kalor spesifik air sangat tinggi. Aplikasi: radiator mobil, pendingin reaktor nuklir, sistem AC. **A benar.**
+**Pembahasan:**
+- **A benar:** Air memiliki kalor spesifik yang sangat tinggi (4.18 J/g°C), artinya air mampu menyerap banyak energi panas dengan kenaikan suhu yang relatif kecil, menjadikannya sangat efektif sebagai media pendingin.
+- **B salah:** Justru sebaliknya, air murah dan mudah didapat — bukan karena mahal air dipilih sebagai pendingin.
+- **C salah:** Pemilihan air sebagai pendingin bukan sekadar kebiasaan, melainkan didasarkan pada sifat fisikanya (kalor spesifik tinggi).
+- **D salah:** Magnet tidak berkaitan dengan kemampuan air menyerap dan melepas kalor.
 
 ---
 
@@ -1113,7 +1410,11 @@ Hipotermia = suhu tubuh turun di bawah...
 - C. 25°C
 - D. 20°C
 
-**📖 Pembahasan:** Hipotermia: <35°C. Berbahaya: <30°C mengganggu jantung. <25°C fatal. **A benar.**
+**Pembahasan:**
+- **A benar:** Hipotermia terjadi ketika suhu tubuh turun di bawah 35°C, di bawah rentang suhu normal tubuh manusia (36-37°C).
+- **B salah:** 30°C sebenarnya sudah termasuk hipotermia berat/berbahaya, bukan ambang batas awal terjadinya hipotermia.
+- **C salah:** 25°C jauh di bawah ambang hipotermia dan sudah sangat berbahaya bagi fungsi jantung, bukan batas awal kondisi ini.
+- **D salah:** 20°C adalah suhu yang hampir pasti fatal bagi tubuh manusia, jauh melampaui ambang batas awal hipotermia yang sebenarnya (35°C).
 
 ---
 
@@ -1126,7 +1427,11 @@ Hubungan antara suhu dan energi kinetik partikel: **E = (3/2)kT** (k = konstanta
 - C. **Suhu absolut (K) sebanding dengan energi kinetik rata-rata partikel — pada 0 K, partikel "berhenti"**
 - D. Cahaya
 
-**📖 Pembahasan:** Mikroskopis: suhu = manifestasi energi kinetik. **C benar.**
+**Pembahasan:**
+- **A salah:** Rumus E=(3/2)kT adalah hasil penurunan ilmiah dari teori kinetik gas, bukan sekadar kebiasaan atau konvensi.
+- **B salah:** Magnet tidak berkaitan dengan hubungan antara suhu dan energi kinetik partikel.
+- **C benar:** Rumus ini menunjukkan bahwa suhu absolut (dalam Kelvin) sebanding lurus dengan energi kinetik rata-rata partikel suatu zat; semakin tinggi suhu, semakin cepat gerak partikelnya, dan pada 0 K partikel dianggap berhenti bergerak sepenuhnya.
+- **D salah:** Cahaya tidak menjadi bagian dari hubungan matematis antara suhu dan energi kinetik partikel dalam rumus ini.
 
 ---
 
@@ -1139,7 +1444,11 @@ Hubungan antara suhu dan energi kinetik partikel: **E = (3/2)kT** (k = konstanta
 - C. Cahaya
 - D. **Belajar pola harian penghuni → optimalkan suhu rumah otomatis → hemat energi**
 
-**📖 Pembahasan:** Smart home tech modern. ML algorithm pelajari pattern + adaptasi. **D benar.**
+**Pembahasan:**
+- **A salah:** Smart thermostat bukan sekadar mengikuti kebiasaan, melainkan menggunakan teknologi sensor dan algoritma pembelajaran mesin (AI).
+- **B salah:** Magnet tidak berkaitan dengan cara kerja smart thermostat dalam mengatur suhu rumah.
+- **C salah:** Cahaya bukan fokus utama teknologi ini; smart thermostat berfokus pada sensor suhu dan pola penggunaan, bukan sensor cahaya.
+- **D benar:** Smart thermostat menggunakan sensor suhu dan kecerdasan buatan untuk mempelajari kebiasaan penghuni rumah sehari-hari, lalu menyesuaikan suhu ruangan secara otomatis agar lebih hemat energi.
 
 ---
 
@@ -1152,7 +1461,11 @@ Hubungan antara suhu dan energi kinetik partikel: **E = (3/2)kT** (k = konstanta
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Therapeutic hypothermia. Berhasil meningkatkan survival rate cardiac arrest. **A benar.**
+**Pembahasan:**
+- **A benar:** Terapi hipotermia digunakan pada pasien serangan jantung atau stroke dengan menurunkan suhu tubuh ke 32-34°C secara terkontrol untuk melindungi otak dari kerusakan lebih lanjut akibat kekurangan oksigen.
+- **B salah:** Ini adalah prosedur medis serius untuk menyelamatkan nyawa, bukan bentuk hiburan.
+- **C salah:** Penerapan terapi ini didasarkan pada bukti ilmiah dan penelitian medis, bukan sekadar tradisi turun-temurun.
+- **D salah:** Magnet tidak berkaitan dengan mekanisme terapi pendinginan tubuh pasien.
 
 ---
 
@@ -1165,7 +1478,11 @@ Pernyataan paling tepat sintesis suhu level Prov:
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Sintesis Prov. **B benar.**
+**Pembahasan:**
+- **A salah:** Warna hanya berkaitan dengan suhu benda yang sangat panas (misalnya logam pijar/bintang), bukan definisi suhu itu sendiri secara umum.
+- **B benar:** Pernyataan ini merangkum dengan tepat bahwa suhu adalah energi kinetik rata-rata partikel, ada empat skala dengan rasio konversi tetap (5:4:9:5), berbagai jenis termometer untuk kebutuhan berbeda, adanya pemuaian linear dan anomali air, serta aplikasi luas dari medis hingga industri.
+- **C salah:** "Tradisi" bukan konsep ilmiah dan tidak menjelaskan apa pun tentang konsep suhu dan termometer.
+- **D salah:** Magnet tidak relevan sama sekali sebagai rangkuman konsep suhu dan termometer.
 
 ---
 
@@ -1180,7 +1497,11 @@ Suhu plasma petir saat menyambar mencapai sekitar...
 - C. **30.000°C** (lima kali panas permukaan matahari)
 - D. 1 juta °C
 
-**📖 Pembahasan:** Petir menciptakan plasma sangat panas. Itu sebabnya cahaya petir biru kebiruan (Wien). **C benar.**
+**Pembahasan:**
+- **A salah:** 1000°C jauh lebih rendah dari suhu plasma petir yang sebenarnya sangat ekstrem saat menyambar.
+- **B salah:** 10.000°C juga masih jauh di bawah suhu sesungguhnya yang tercatat pada plasma petir.
+- **C benar:** Suhu plasma petir saat menyambar bisa mencapai sekitar 30.000°C, kurang lebih lima kali lebih panas dari suhu permukaan matahari, sehingga menghasilkan cahaya sangat terang dan kebiruan.
+- **D salah:** 1 juta °C jauh melebihi suhu plasma petir yang sebenarnya tercatat, ini lebih mendekati suhu lingkungan luar angkasa ekstrem seperti korona matahari.
 
 ---
 
@@ -1193,7 +1514,11 @@ Stephen Hawking memprediksi black hole memancarkan radiasi termal dengan suhu **
 - C. Tradisi
 - D. **Suhu Hawking ~1/M (massa) → black hole supermasif sangat dingin (<10⁻⁶ K), black hole kecil panas**
 
-**📖 Pembahasan:** Hawking radiation: T = ℏc³/(8πGMk). Black hole supermasif (4 juta solar mass di pusat galaksi) sangat dingin. **D benar.**
+**Pembahasan:**
+- **A salah:** Justru sebaliknya, black hole (terutama yang bermassa besar) memiliki suhu radiasi Hawking yang sangat rendah, bukan panas.
+- **B salah:** Suhu black hole tidak sama dengan bintang; keduanya memiliki mekanisme pembangkitan panas yang sangat berbeda.
+- **C salah:** Ini bukan sekadar tradisi ilmiah, melainkan hasil perhitungan fisika teoretis (radiasi Hawking) berdasarkan hukum termodinamika lubang hitam.
+- **D benar:** Menurut teori radiasi Hawking, suhu black hole berbanding terbalik dengan massanya (T~1/M) — semakin masif black hole, semakin rendah suhunya (bisa sangat dingin, kurang dari sejuta Kelvin), sedangkan black hole kecil justru lebih panas.
 
 ---
 
@@ -1206,7 +1531,11 @@ Astronom menentukan suhu bintang **tanpa pergi ke sana** dengan...
 - C. Tradisi
 - D. Tebak
 
-**📖 Pembahasan:** Hukum Wien: λ_max × T = konstan. Bintang biru = panas, merah = dingin. **A benar.**
+**Pembahasan:**
+- **A benar:** Astronom menganalisis spektrum cahaya bintang (posisi puncak emisi dan garis-garis absorpsi) menggunakan spektroskopi untuk menentukan suhu permukaan bintang, berdasarkan hukum Wien dan Stefan-Boltzmann, tanpa perlu mengunjungi bintang tersebut.
+- **B salah:** Magnet tidak digunakan untuk mengukur suhu bintang dari jarak jauh.
+- **C salah:** Metode ini didasarkan pada prinsip fisika optik yang teruji, bukan sekadar kebiasaan turun-temurun.
+- **D salah:** Penentuan suhu bintang bukan hasil menebak, melainkan hasil pengukuran ilmiah yang presisi lewat analisis spektrum cahaya.
 
 ---
 
@@ -1219,7 +1548,11 @@ Suhu permukaan Matahari 5800 K. Dalam Fahrenheit:
 - C. 12000°F
 - D. 273°F
 
-**📖 Pembahasan:** Konversi 2 step. **B benar.**
+**Pembahasan:**
+- **A salah:** 5800°F keliru karena menyamakan langsung angka Kelvin sebagai Fahrenheit tanpa konversi dua tahap.
+- **B benar:** 5800 K = (5800-273)°C = 5527°C, lalu °F = (9/5)×5527+32 ≈ 9948+32 ≈ 9980°F.
+- **C salah:** 12000°F terlalu tinggi dibanding hasil perhitungan konversi dua tahap yang benar.
+- **D salah:** 273°F tertukar dengan angka konstanta konversi Kelvin-Celsius (273), bukan hasil konversi suhu matahari ke Fahrenheit.
 
 ---
 
@@ -1232,7 +1565,11 @@ Suhu permukaan Matahari 5800 K. Dalam Fahrenheit:
 - C. **MRI medis (magnet superkonduktor butuh suhu < 4 K helium cair); penyimpanan sel/sperma/embrio (-196°C nitrogen cair); riset fisika kuantum**
 - D. Mahal saja
 
-**📖 Pembahasan:** Cryogenic technology = industri penting. **C benar.**
+**Pembahasan:**
+- **A salah:** Teknologi cryogenic tidak digunakan untuk memasak; suhu yang dibutuhkan justru sangat rendah, bukan tinggi seperti dalam memasak.
+- **B salah:** Ini bukan sekadar kebiasaan, melainkan penerapan teknologi berbasis prinsip fisika suhu sangat rendah untuk kebutuhan ilmiah dan medis modern.
+- **C benar:** Teknologi cryogenic dimanfaatkan untuk MRI medis (magnet superkonduktor perlu suhu di bawah 4 K menggunakan helium cair), penyimpanan sel/sperma/embrio pada suhu -196°C nitrogen cair, dan riset fisika kuantum.
+- **D salah:** Alasan pemilihan teknologi ini bukan semata karena mahal; justru manfaat ilmiah dan medisnya yang membuatnya penting digunakan meski berbiaya tinggi.
 
 ---
 
@@ -1245,7 +1582,11 @@ Daya radiasi termal benda: P = σAT⁴. Implikasi: saat suhu **digandakan**, day
 - C. 8× lebih besar
 - D. **16× lebih besar** (2⁴ = 16)
 
-**📖 Pembahasan:** Pangkat 4. Sangat sensitif suhu. **D benar.**
+**Pembahasan:**
+- **A salah:** Kenaikan 2x keliru karena rumus P=σAT⁴ berpangkat 4, bukan pangkat 1 (linear), terhadap suhu.
+- **B salah:** Kenaikan 4x tidak sesuai karena mengabaikan bahwa suhu dipangkatkan 4, bukan dipangkatkan 2.
+- **C salah:** Kenaikan 8x juga tidak sesuai hasil perhitungan pangkat 4 yang sebenarnya (2³=8, padahal seharusnya 2⁴).
+- **D benar:** Karena daya radiasi sebanding dengan T⁴, jika suhu digandakan (2×), daya radiasi menjadi 2⁴ = 16 kali lebih besar — inilah sebabnya benda sedikit lebih panas bisa memancarkan energi jauh lebih besar.
 
 ---
 
@@ -1258,7 +1599,11 @@ Daya radiasi termal benda: P = σAT⁴. Implikasi: saat suhu **digandakan**, day
 - C. Cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** Thermography = medical screening tool. Tidak menggantikan biopsy tapi bantu screening. **A benar.**
+**Pembahasan:**
+- **A benar:** Thermal imaging medis dapat mendeteksi area tubuh dengan suhu lebih tinggi dari jaringan sekitarnya (misalnya akibat metabolisme aktif tumor atau peradangan) secara non-invasif, membantu proses skrining awal.
+- **B salah:** Magnet tidak digunakan dalam teknologi thermal imaging; alat ini bekerja berdasarkan deteksi radiasi inframerah tubuh.
+- **C salah:** Thermal imaging tidak memanfaatkan cahaya tampak, melainkan radiasi inframerah yang dipancarkan tubuh berdasarkan suhunya.
+- **D salah:** Ini adalah teknologi medis modern berbasis fisika radiasi termal, bukan sekadar praktik tradisional.
 
 ---
 
@@ -1271,7 +1616,11 @@ Pada suhu sangat rendah (mendekati 0 K), beberapa material menjadi **superkonduk
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** BCS theory (Bardeen, Cooper, Schrieffer, 1957). Nobel 1972. **B benar.**
+**Pembahasan:**
+- **A salah:** Magnet bukan mekanisme yang menyebabkan superkonduktivitas; justru medan magnet kuat dapat merusak sifat superkonduktor suatu material.
+- **B benar:** Pada suhu sangat rendah, elektron dapat berpasangan membentuk Cooper pair yang memungkinkan aliran listrik tanpa hambatan (resistansi nol) melalui kisi kristal material.
+- **C salah:** Fenomena ini dijelaskan melalui teori fisika kuantum (teori BCS), bukan sekadar kebiasaan atau tradisi.
+- **D salah:** Cahaya tidak berkaitan dengan mekanisme pembentukan pasangan elektron pada superkonduktor.
 
 ---
 
@@ -1284,7 +1633,11 @@ Suhu permukaan Mars rata-rata sekitar...
 - C. **-63°C** (atmosfer tipis, jauh dari matahari)
 - D. -200°C
 
-**📖 Pembahasan:** Mars dingin: rata-rata -63°C, max +20°C (siang ekuator), min -125°C (kutub winter). **C benar.**
+**Pembahasan:**
+- **A salah:** 100°C jauh lebih panas dari kondisi Mars yang sebenarnya; Mars justru planet yang sangat dingin karena atmosfernya tipis dan jauh dari matahari.
+- **B salah:** 0°C masih terlalu hangat dibanding suhu rata-rata Mars yang sesungguhnya jauh di bawah titik beku air.
+- **C benar:** Suhu permukaan Mars rata-rata sekitar -63°C, karena atmosfernya sangat tipis sehingga tidak mampu menahan panas dengan baik meski jaraknya dari matahari tidak terlalu ekstrem.
+- **D salah:** -200°C terlalu ekstrem dingin, ini lebih mendekati suhu di planet yang jauh lebih jauh dari matahari seperti Neptunus, bukan Mars.
 
 ---
 
@@ -1297,7 +1650,11 @@ Awan gas di luar angkasa (nebula) bisa sangat **panas** (bintang yang sedang ter
 - C. Tidak peduli
 - D. **Suhu nebula bervariasi: nebula gas dingin (~10 K) untuk pembentukan bintang baru; nebula HII panas (~10.000 K) saat dipanaskan bintang muda; nebula planetary ~10.000 K**
 
-**📖 Pembahasan:** Berbagai jenis nebula. **D benar.**
+**Pembahasan:**
+- **A salah:** Tidak semua nebula panas; banyak nebula gelap/molekuler justru sangat dingin (sekitar 10 K), tempat bintang baru mulai terbentuk.
+- **B salah:** Tidak semua nebula dingin; nebula HII yang dipanaskan bintang muda bisa mencapai suhu ribuan Kelvin.
+- **C salah:** Suhu nebula sangat berpengaruh pada proses pembentukan bintang dan sifat gas di dalamnya, bukan sesuatu yang "tidak peduli"/tidak penting.
+- **D benar:** Suhu nebula sangat bervariasi tergantung jenisnya — nebula gas dingin (~10 K) untuk pembentukan bintang baru, nebula HII panas (~10.000 K) akibat dipanaskan bintang muda, dan nebula planetary juga sekitar 10.000 K.
 
 ---
 
@@ -1310,7 +1667,11 @@ Selama "**Little Ice Age**" (1300-1850), suhu rata-rata Bumi turun sekitar...
 - C. 50°C
 - D. 100°C
 
-**📖 Pembahasan:** Little Ice Age = penurunan suhu sedikit tapi global. Penyebab: vulkanisme + minimum aktivitas matahari. **A benar.**
+**Pembahasan:**
+- **A benar:** Selama Little Ice Age, suhu rata-rata Bumi hanya turun sekitar 0.5-1°C dibanding kondisi sekarang, namun penurunan sekecil ini sudah cukup menimbulkan dampak signifikan seperti gagal panen dan pembekuan sungai di Eropa.
+- **B salah:** Penurunan 10°C jauh lebih ekstrem dari catatan sejarah sebenarnya dan akan menyebabkan kepunahan massal, bukan hanya dampak lokal yang tercatat.
+- **C salah:** Penurunan 50°C sama sekali tidak realistis untuk skala perubahan iklim global dalam periode itu.
+- **D salah:** Penurunan 100°C mustahil terjadi secara alami dalam skala waktu tersebut dan akan membuat seluruh planet membeku total, jauh dari catatan sejarah sebenarnya.
 
 ---
 
@@ -1323,7 +1684,11 @@ Suhu inti Bumi (besi cair-padat) sekitar...
 - C. 100.000°C
 - D. 1 juta °C
 
-**📖 Pembahasan:** Inti Bumi sangat panas dari panas residual pembentukan + decay radioactive. **B benar.**
+**Pembahasan:**
+- **A salah:** 1000°C terlalu rendah dibanding suhu inti Bumi yang sebenarnya, ini lebih mendekati suhu magma di dekat permukaan.
+- **B benar:** Suhu inti Bumi (besi cair-padat) diperkirakan sekitar 5000-6000°C, mirip dengan suhu permukaan matahari, berasal dari panas sisa pembentukan Bumi dan peluruhan unsur radioaktif.
+- **C salah:** 100.000°C jauh melebihi perkiraan ilmiah suhu inti Bumi yang sebenarnya.
+- **D salah:** 1 juta °C lebih mendekati suhu di lapisan atmosfer matahari (korona) atau inti bintang, bukan inti Bumi.
 
 ---
 
@@ -1336,7 +1701,11 @@ Suhu inti Bumi (besi cair-padat) sekitar...
 - C. **Jembatan, rel kereta, gedung perlu expansion joints untuk akomodasi pemuaian/penyusutan akibat perubahan suhu harian/musiman**
 - D. Tradisi
 
-**📖 Pembahasan:** Rel kereta tanpa expansion joint bisa membengkok (sun kink) di musim panas. **C benar.**
+**Pembahasan:**
+- **A salah:** Pemuaian termal justru menimbulkan masalah nyata pada struktur bangunan jika tidak diantisipasi, bukan "tidak ada" masalah.
+- **B salah:** Magnet tidak berkaitan dengan masalah pemuaian akibat perubahan suhu pada struktur bangunan.
+- **C benar:** Jembatan, rel kereta, dan gedung memerlukan sambungan pemuaian (expansion joint) agar material bisa memuai dan menyusut mengikuti perubahan suhu harian/musiman tanpa merusak struktur, misalnya rel kereta bisa melengkung (sun kink) jika tidak diberi ruang muai.
+- **D salah:** Kebutuhan expansion joint bukan sekadar tradisi, melainkan solusi teknik berdasarkan prinsip fisika pemuaian.
 
 ---
 
@@ -1349,7 +1718,11 @@ Suhu inti Bumi (besi cair-padat) sekitar...
 - C. Tradisi
 - D. **Alam semesta akan mencapai keadaan suhu uniform (kesetimbangan termal) di waktu sangat jauh — entropi maksimum, tidak ada lagi "work" mungkin**
 
-**📖 Pembahasan:** Hukum kedua termodinamika + entropi meningkat. **D benar.**
+**Pembahasan:**
+- **A salah:** Heat death bukan tentang terulangnya Big Bang, melainkan justru kebalikannya — keadaan akhir alam semesta yang sudah tidak ada lagi aktivitas energi yang berguna.
+- **B salah:** Magnet tidak berkaitan dengan konsep kosmologi heat death.
+- **C salah:** Ini adalah konsep fisika teoretis berdasarkan hukum termodinamika, bukan sekadar kebiasaan atau tradisi.
+- **D benar:** Heat death menggambarkan kondisi akhir alam semesta di mana seluruh energi tersebar merata (suhu uniform/kesetimbangan termal) dan entropi mencapai maksimum, sehingga tidak ada lagi energi yang bisa dimanfaatkan untuk melakukan kerja/usaha.
 
 ---
 
@@ -1362,7 +1735,11 @@ Suhu **inti Matahari** (tempat fusi nuklir terjadi) sekitar...
 - C. 100.000°C
 - D. 1 miliar °C
 
-**📖 Pembahasan:** Permukaan ~5800 K; inti ~15 juta K. Fusi nuklir membutuhkan suhu sangat tinggi untuk overcome electrostatic repulsion. **A benar.**
+**Pembahasan:**
+- **A benar:** Suhu inti matahari tempat terjadinya reaksi fusi nuklir (hidrogen menjadi helium) diperkirakan mencapai sekitar 15 juta °C, cukup panas dan bertekanan tinggi untuk mengatasi gaya tolak-menolak elektrostatik antar inti atom.
+- **B salah:** 6000°C adalah suhu permukaan matahari (fotosfer), bukan suhu inti yang jauh lebih panas.
+- **C salah:** 100.000°C masih jauh lebih rendah dari suhu inti matahari yang sebenarnya diperlukan untuk reaksi fusi nuklir.
+- **D salah:** 1 miliar °C jauh melebihi perkiraan suhu inti matahari; suhu setinggi ini lebih mendekati kondisi reaktor fusi buatan manusia atau inti bintang yang jauh lebih masif.
 
 ---
 
@@ -1375,7 +1752,11 @@ Industri **steel making** menggunakan tanur listrik atau blast furnace dengan su
 - C. 10.000°C
 - D. 1 juta °C
 
-**📖 Pembahasan:** Steel = besi + karbon. Titik leleh ~1370°C. Furnace ~1600°C untuk melebur & forging. **B benar.**
+**Pembahasan:**
+- **A salah:** 100°C jauh di bawah titik leleh baja (~1370°C), tidak cukup panas untuk melebur logam dalam industri.
+- **B benar:** Tanur listrik atau blast furnace dalam industri pembuatan baja beroperasi pada suhu sekitar 1500-1700°C, cukup untuk melelehkan dan membentuk baja yang titik lelehnya sekitar 1370°C.
+- **C salah:** 10.000°C jauh melebihi suhu operasional tanur baja industri yang sebenarnya.
+- **D salah:** 1 juta °C sangat tidak realistis untuk proses industri di Bumi; suhu setinggi ini hanya ditemukan di lingkungan astrofisika ekstrem.
 
 ---
 
@@ -1388,7 +1769,11 @@ Industri **steel making** menggunakan tanur listrik atau blast furnace dengan su
 - C. **Atom-atom menyatu dalam satu "kuantum state" makro — bisa berperilaku sebagai gelombang tunggal**
 - D. Mahal
 
-**📖 Pembahasan:** BEC dicapai pertama 1995 di lab pada suhu <100 nano-Kelvin. Nobel 2001. **C benar.**
+**Pembahasan:**
+- **A salah:** Magnet bukan penyebab terbentuknya kondensat Bose-Einstein; fenomena ini murni akibat suhu yang sangat rendah mendekati nol absolut.
+- **B salah:** Ini adalah fenomena fisika kuantum yang telah dibuktikan secara eksperimen, bukan sekadar tradisi atau kebiasaan.
+- **C benar:** Pada suhu sangat rendah mendekati 0 K, atom-atom kehilangan identitas individualnya dan menyatu dalam satu keadaan kuantum makroskopik, sehingga bisa berperilaku seolah menjadi satu gelombang materi tunggal.
+- **D salah:** Meski eksperimennya mahal dan rumit, sifat unik BEC bukan didefinisikan oleh biayanya, melainkan oleh perilaku kuantum atom-atomnya.
 
 ---
 
@@ -1401,7 +1786,11 @@ Mesin pesawat jet beroperasi pada suhu sangat tinggi di internal combustion cham
 - C. 800°C
 - D. **1500-2000°C** (pakai super-alloy + cooling system)
 
-**📖 Pembahasan:** Combustion temperature jet engine ~2000°C. Logam super-alloy nickel + air cooling bertahan. **D benar.**
+**Pembahasan:**
+- **A salah:** 100°C jauh terlalu rendah untuk suhu ruang bakar mesin jet yang sesungguhnya sangat ekstrem.
+- **B salah:** 500°C masih jauh di bawah suhu pembakaran sebenarnya di dalam mesin jet.
+- **C salah:** 800°C juga masih terlalu rendah dibanding suhu ruang bakar mesin jet yang sesungguhnya.
+- **D benar:** Ruang bakar mesin jet beroperasi pada suhu sangat tinggi sekitar 1500-2000°C, sehingga memerlukan material super-alloy tahan panas serta sistem pendinginan khusus agar komponen mesin tidak meleleh.
 
 ---
 
@@ -1414,7 +1803,11 @@ Eksperimen Joule (1840an) menunjukkan...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Joule's paddle wheel experiment = dasar termodinamika. 1 kalori ≈ 4.18 Joule. **B benar.**
+**Pembahasan:**
+- **A salah:** Magnet tidak berkaitan dengan eksperimen Joule; percobaan ini murni tentang hubungan energi mekanik dan panas.
+- **B benar:** Eksperimen roda pengayuh Joule menunjukkan bahwa energi mekanik (gerak roda pengayuh di air) dapat diubah menjadi energi panas (kalor), sehingga suhu air naik — ini membuktikan adanya hubungan setara antara energi mekanik dan kalor (mechanical equivalent of heat, sekitar 1 kalori = 4.18 Joule).
+- **C salah:** Ini adalah temuan ilmiah berbasis eksperimen terukur, bukan sekadar kebiasaan atau tradisi keilmuan.
+- **D salah:** Cahaya tidak menjadi bagian dari eksperimen Joule yang berfokus pada perubahan energi mekanik menjadi kalor.
 
 ---
 
@@ -1427,7 +1820,11 @@ Pernyataan paling komprehensif tentang suhu di OSN tertinggi:
 - C. Sama dengan bunyi
 - D. Tradisi
 
-**📖 Pembahasan:** Sintesis ultimate suhu. **B benar.**
+**Pembahasan:**
+- **A salah:** Warna hanya berkaitan dengan suhu pada benda yang sangat panas (misalnya logam pijar atau bintang), bukan definisi suhu secara umum yang berlaku pada semua benda.
+- **B benar:** Pernyataan ini merangkum secara komprehensif bahwa suhu adalah manifestasi energi kinetik rata-rata partikel, memiliki skala absolut Kelvin dengan titik nol mutlak, mencakup rentang sangat luas dari suhu ultra-dingin laboratorium sampai plasma inti matahari dan partikel akselerator, serta memiliki aplikasi luas di bidang medis, industri, kosmologi, hingga teknologi kuantum.
+- **C salah:** Suhu dan bunyi adalah dua besaran fisika yang sama sekali berbeda konsep dan cara pengukurannya; bunyi berkaitan dengan gelombang mekanik, bukan energi kinetik partikel penyusun benda.
+- **D salah:** "Tradisi" bukan konsep ilmiah dan tidak menjelaskan apa pun tentang hakikat suhu sebagai besaran fisika.
 
 ---
 

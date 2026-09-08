@@ -120,6 +120,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 4. Tertukar dengan angka waktu.
 - **C** — 48. Mengalikan 12×4 (salah rumus: pakai V × t).
 - **D** — 8. Selisih 12−4, salah rumus.
+- **Konsep kunci:** Mencari debit dari volume dan waktu yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Catat volume 12 L dan waktu 4 detik.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 12 ÷ 4 = 3 L/detik.
 
 ---
 
@@ -136,6 +141,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = V/t = 60 ÷ 5 = 12 L/menit.
 - **C** — 300. Mengalikan 60×5, salah rumus.
 - **D** — 55. Mengurangi 60−5, salah rumus.
+- **Konsep kunci:** Mencari debit kran dari volume bak dan waktu pengisian.
+- **Langkah Penyelesaian:**
+  1. Catat volume 60 L dan waktu 5 menit.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 60 ÷ 5 = 12 L/menit.
 
 ---
 
@@ -152,6 +162,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 1,6. Membagi 8÷5, salah arah rumus.
 - **C** — **BENAR.** V = Q × t = 5 × 8 = 40 L.
 - **D** — 3. Selisih 8−5, salah rumus.
+- **Konsep kunci:** Mencari volume dari debit dan waktu (V = Q × t).
+- **Langkah Penyelesaian:**
+  1. Catat debit 5 L/detik dan waktu 8 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 5 × 8 = 40 L.
 
 ---
 
@@ -168,6 +183,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 720. Mengalikan 120×6 (harusnya bagi).
 - **C** — 6. Mengurangi salah.
 - **D** — **BENAR.** t = V/Q = 120 ÷ 6 = 20 menit.
+- **Konsep kunci:** Mencari waktu pengurasan dari volume dan debit (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 120 L dan debit 6 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 120 ÷ 6 = 20 menit.
 
 ---
 
@@ -184,6 +204,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** 1 menit = 60 detik. V = 4 × 60 = 240 L.
 - **C** — 60. Pakai waktu saja, lupa debit.
 - **D** — 64. Menjumlah 60+4.
+- **Konsep kunci:** Mengubah satuan waktu menit ke detik sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 menit menjadi 60 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 4 L/detik.
+  3. Hitung 4 × 60 = 240 L.
 
 ---
 
@@ -200,6 +225,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 60. Pakai 1 jam = 60 menit saja, lupa volume.
 - **C** — **BENAR.** 1 jam = 60 menit. Q = 720/60 = 12 L/menit.
 - **D** — 6. Membagi 720/120 (salah satuan).
+- **Konsep kunci:** Mengubah debit per jam menjadi debit per menit.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 60 menit.
+  2. Gunakan rumus Q = V ÷ t dengan V = 720 L.
+  3. Hitung 720 ÷ 60 = 12 L/menit.
 
 ---
 
@@ -216,6 +246,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 12. Menjumlah 10+2.
 - **C** — 20. Mengalikan 10×2.
 - **D** — 0,2. Membagi terbalik 2/10.
+- **Konsep kunci:** Mencari waktu dari volume dan debit (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 10 L dan debit 2 L/detik.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 10 ÷ 2 = 5 detik.
 
 ---
 
@@ -232,6 +267,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 52. Menjumlah 50+2.
 - **C** — 48. Mengurangi 50−2.
 - **D** — **BENAR.** V = Q × t = 50 × 2 = 100 m³.
+- **Konsep kunci:** Mencari volume air sungai dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 50 m³/detik dan waktu 2 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 50 × 2 = 100 m³.
 
 ---
 
@@ -248,6 +288,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 603. Menjumlah 600+3.
 - **C** — **BENAR.** Q = V/t = 600/3 = 200 mL/detik.
 - **D** — 597. Mengurangi.
+- **Konsep kunci:** Mencari debit dalam satuan mililiter per detik.
+- **Langkah Penyelesaian:**
+  1. Catat volume 600 mL dan waktu 3 detik.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 600 ÷ 3 = 200 mL/detik.
 
 ---
 
@@ -264,6 +309,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 20. Menjumlah 18+2.
 - **C** — 16. Mengurangi.
 - **D** — **BENAR.** t = V/Q = 18/2 = 9 detik.
+- **Konsep kunci:** Mencari waktu pengisian ember dari volume dan debit.
+- **Langkah Penyelesaian:**
+  1. Catat volume 18 L dan debit 2 L/detik.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 18 ÷ 2 = 9 detik.
 
 ---
 
@@ -280,6 +330,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 17. Menjumlah 5+12.
 - **C** — 2,4. Membagi terbalik 12/5.
 - **D** — 7. Selisih 12−5.
+- **Konsep kunci:** Mencari volume air yang keluar dari kran (V = Q × t).
+- **Langkah Penyelesaian:**
+  1. Catat debit 5 L/menit dan waktu 12 menit.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 5 × 12 = 60 L.
 
 ---
 
@@ -296,6 +351,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** t = V/Q = 1.000/20 = 50 menit.
 - **C** — 20.000. Mengalikan.
 - **D** — 980. Mengurangi.
+- **Konsep kunci:** Mencari waktu menguras tangki (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 1.000 L dan debit 20 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 1.000 ÷ 20 = 50 menit.
 
 ---
 
@@ -312,6 +372,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 8. Menjumlah 3+5.
 - **C** — **BENAR.** 5 menit = 300 detik. V = 3 × 300 = 900 L.
 - **D** — 60. Salah konversi.
+- **Konsep kunci:** Mengubah menit ke detik sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 menit menjadi 300 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 3 L/detik.
+  3. Hitung 3 × 300 = 900 L.
 
 ---
 
@@ -328,6 +393,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** V = Q × t = 15 × 4 = 60 L.
 - **C** — 11. Mengurangi.
 - **D** — 3,75. Membagi 15/4.
+- **Konsep kunci:** Mencari volume tangki dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 15 L/menit dan waktu 4 menit.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 15 × 4 = 60 L.
 
 ---
 
@@ -344,6 +414,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 72. Mengurangi 80−8.
 - **C** — 640. Mengalikan.
 - **D** — 88. Menjumlah.
+- **Konsep kunci:** Mencari waktu pengisian bak (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 80 L dan debit 8 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 80 ÷ 8 = 10 menit.
 
 ---
 
@@ -360,6 +435,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 244. Menjumlah.
 - **C** — **BENAR.** Q = V/t = 240/4 = 60 L/menit.
 - **D** — 960. Mengalikan.
+- **Konsep kunci:** Mencari debit dari volume dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat volume 240 L dan waktu 4 menit.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 240 ÷ 4 = 60 L/menit.
 
 ---
 
@@ -376,6 +456,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 29. Menjumlah.
 - **C** — 6,25. Membagi 25/4.
 - **D** — 21. Mengurangi.
+- **Konsep kunci:** Mencari volume dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 25 L/detik dan waktu 4 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 25 × 4 = 100 L.
 
 ---
 
@@ -392,6 +477,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = V/t = 90/6 = 15 L/menit.
 - **C** — 540. Mengalikan.
 - **D** — 84. Mengurangi.
+- **Konsep kunci:** Mencari debit dari volume dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat volume 90 L dan waktu 6 menit.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 90 ÷ 6 = 15 L/menit.
 
 ---
 
@@ -408,6 +498,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 2. Mengurangi.
 - **C** — **BENAR.** V = Q × t = 7 × 9 = 63 L.
 - **D** — 70. Pembulatan kasar.
+- **Konsep kunci:** Mencari volume dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 7 L/detik dan waktu 9 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 7 × 9 = 63 L.
 
 ---
 
@@ -424,6 +519,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 72. Mengalikan.
 - **C** — 21. Mengurangi.
 - **D** — **BENAR.** t = V/Q = 24/3 = 8 detik.
+- **Konsep kunci:** Mencari waktu menguras ember (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 24 L dan debit 3 L/detik.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 24 ÷ 3 = 8 detik.
 
 ---
 
@@ -440,6 +540,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 10. Tidak konversi.
 - **C** — 100. Salah faktor (×10).
 - **D** — 60. Pakai 60 saja, lupa kalikan 10.
+- **Konsep kunci:** Mengubah debit per menit menjadi debit per jam.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 60 menit.
+  2. Gunakan rumus V = Q × t dengan Q = 10 L/menit.
+  3. Hitung 10 × 60 = 600 L/jam.
 
 ---
 
@@ -456,6 +561,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = 120/60 = 2 L/menit.
 - **C** — 60. Setengah dari 120 (asal pakai 1/2).
 - **D** — 180. Menjumlah 120+60.
+- **Konsep kunci:** Mengubah debit per jam menjadi debit per menit.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 60 menit.
+  2. Bagi debit 120 L/jam dengan 60.
+  3. Hasilnya 120 ÷ 60 = 2 L/menit.
 
 ---
 
@@ -472,6 +582,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 6. Tidak konversi.
 - **C** — **BENAR.** 1 menit = 60 detik. Q = 6 × 60 = 360 L/menit.
 - **D** — 66. Menjumlah 6+60.
+- **Konsep kunci:** Mengubah debit per detik menjadi debit per menit.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 menit menjadi 60 detik.
+  2. Kalikan debit 6 L/detik dengan 60.
+  3. Hasilnya 6 × 60 = 360 L/menit.
 
 ---
 
@@ -488,6 +603,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 20. Membagi terbalik 10/0,5.
 - **C** — 0,05. Membagi 0,5/10.
 - **D** — **BENAR.** V = Q × t = 0,5 × 10 = 5 L.
+- **Konsep kunci:** Mencari volume dari debit desimal dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 0,5 L/detik dan waktu 10 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 0,5 × 10 = 5 L.
 
 ---
 
@@ -504,6 +624,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 8.000. Mengalikan.
 - **C** — 2.004. Menjumlah.
 - **D** — 1.996. Mengurangi.
+- **Konsep kunci:** Mencari debit dalam satuan mililiter per detik.
+- **Langkah Penyelesaian:**
+  1. Catat volume 2.000 mL dan waktu 4 detik.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 2.000 ÷ 4 = 500 mL/detik.
 
 ---
 
@@ -520,6 +645,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 3.750. Mengalikan.
 - **C** — **BENAR.** t = V/Q = 150/25 = 6 menit.
 - **D** — 125. Mengurangi.
+- **Konsep kunci:** Mencari waktu pengisian tangki (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 150 L dan debit 25 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 150 ÷ 25 = 6 menit.
 
 ---
 
@@ -536,6 +666,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 3,33. Membagi 30/9.
 - **C** — 21. Mengurangi.
 - **D** — **BENAR.** V = Q × t = 9 × 30 = 270 L.
+- **Konsep kunci:** Mencari volume dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 9 L/detik dan waktu 30 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 9 × 30 = 270 L.
 
 ---
 
@@ -552,6 +687,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 4.000. Mengalikan.
 - **C** — 180. Mengurangi.
 - **D** — 220. Menjumlah.
+- **Konsep kunci:** Mencari waktu pengisian bak (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 200 L dan debit 20 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 200 ÷ 20 = 10 menit.
 
 ---
 
@@ -568,6 +708,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = V/t = 18/6 = 3 L/detik.
 - **C** — 108. Mengalikan.
 - **D** — 12. Mengurangi.
+- **Konsep kunci:** Mencari debit dari volume dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat volume 18 L dan waktu 6 detik.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 18 ÷ 6 = 3 L/detik.
 
 ---
 
@@ -584,6 +729,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 6. Menjumlah 4+2.
 - **C** — **BENAR.** 2 menit = 120 detik. V = 4 × 120 = 480 L.
 - **D** — 240. Setengah dari hasil benar (salah pembagian).
+- **Konsep kunci:** Mengubah menit ke detik sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 menit menjadi 120 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 4 L/detik.
+  3. Hitung 4 × 120 = 480 L.
 
 ---
 
@@ -600,6 +750,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 0,2. Tidak konversi.
 - **C** — **BENAR.** 1 menit = 60 detik. V = 0,2 × 60 = 12 L.
 - **D** — 60. Pakai waktu saja, lupa debit.
+- **Konsep kunci:** Mengubah menit ke detik sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 menit menjadi 60 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 0,2 L/detik.
+  3. Hitung 0,2 × 60 = 12 L.
 
 ---
 
@@ -616,6 +771,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 4.320. Mengalikan.
 - **C** — 372. Menjumlah.
 - **D** — 348. Mengurangi.
+- **Konsep kunci:** Mencari waktu pengisian bak (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 360 L dan debit 12 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 360 ÷ 12 = 30 menit.
 
 ---
 
@@ -632,6 +792,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** 1/2 jam = 30 menit. V = 50 × 30 = 1.500 L.
 - **C** — 100. Salah hitung.
 - **D** — 3.000. Pakai 1/2 jam = 60 menit (salah).
+- **Konsep kunci:** Mengubah pecahan jam menjadi menit sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah ½ jam menjadi 30 menit.
+  2. Gunakan rumus V = Q × t dengan Q = 50 L/menit.
+  3. Hitung 50 × 30 = 1.500 L.
 
 ---
 
@@ -648,6 +813,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 0,2. Lupa konversi L→mL, hanya 5/25 = 0,2 L/detik (benar L, tapi soal minta mL).
 - **C** — 5.000. Lupa bagi waktu, hanya konversi volume.
 - **D** — **BENAR.** V = 5 L = 5.000 mL. Q = 5.000/25 = 200 mL/detik.
+- **Konsep kunci:** Mengubah liter menjadi mililiter sebelum menghitung debit.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 L menjadi 5.000 mL.
+  2. Gunakan rumus Q = V ÷ t dengan t = 25 detik.
+  3. Hitung 5.000 ÷ 25 = 200 mL/detik.
 
 ---
 
@@ -664,6 +834,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 1. Tidak konversi.
 - **C** — **BENAR.** 1 jam = 3.600 detik. Q = 1 × 3.600 = 3.600 L/jam.
 - **D** — 600. Salah faktor (×10).
+- **Konsep kunci:** Mengubah debit per detik menjadi debit per jam.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 3.600 detik.
+  2. Kalikan debit 1 L/detik dengan 3.600.
+  3. Hasilnya 3.600 L/jam.
 
 ---
 
@@ -680,6 +855,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = 180/3.600 = 0,05 L/detik.
 - **C** — 1.080. Mengalikan 180×6.
 - **D** — 6. Mengalikan 180/30.
+- **Konsep kunci:** Mengubah debit per jam menjadi debit per detik.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 3.600 detik.
+  2. Bagi debit 180 L/jam dengan 3.600.
+  3. Hasilnya 180 ÷ 3.600 = 0,05 L/detik.
 
 ---
 
@@ -696,6 +876,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 600. Mengalikan terbalik.
 - **C** — **BENAR.** t = V/Q = 6.000/100 = 60 menit.
 - **D** — 6.100. Menjumlah.
+- **Konsep kunci:** Mencari waktu pengisian kolam (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 6.000 L dan debit 100 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 6.000 ÷ 100 = 60 menit.
 
 ---
 
@@ -712,6 +897,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 720. Mengalikan 12×60 (lupa konversi mL).
 - **C** — 12.000. Lupa bagi waktu.
 - **D** — 12. Tidak konversi.
+- **Konsep kunci:** Mengubah dua satuan sekaligus: liter ke mililiter dan menit ke detik.
+- **Langkah Penyelesaian:**
+  1. Ubah 12 L/menit menjadi 12.000 mL/menit.
+  2. Ubah 1 menit menjadi 60 detik.
+  3. Bagi 12.000 ÷ 60 = 200 mL/detik.
 
 ---
 
@@ -728,6 +918,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 60 menit. Benar nilainya tetapi soal minta dalam jam.
 - **C** — **BENAR.** t = 240/4 = 60 menit = 1 jam.
 - **D** — Sama dengan C tetapi penulisan ganda.
+- **Konsep kunci:** Mengubah hasil waktu dari menit ke jam.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus t = V ÷ Q dengan V = 240 L dan Q = 4 L/menit.
+  2. Hitung 240 ÷ 4 = 60 menit.
+  3. Ubah 60 menit menjadi 1 jam.
 
 ---
 
@@ -744,6 +939,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 1,5. Membagi 30/20.
 - **C** — **BENAR.** V = Q × t = 30 × 20 = 600 L.
 - **D** — 10. Mengurangi.
+- **Konsep kunci:** Mencari volume dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 30 L/menit dan waktu 20 menit.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 30 × 20 = 600 L.
 
 ---
 
@@ -760,6 +960,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 4.750. Mengurangi.
 - **C** — 1.250.000. Mengalikan.
 - **D** — 5.250. Menjumlah.
+- **Konsep kunci:** Mencari waktu pengisian kolam ikan (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 5.000 L dan debit 250 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 5.000 ÷ 250 = 20 menit.
 
 ---
 
@@ -776,6 +981,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** t = 8.000/400 = 20 menit.
 - **C** — 3.200.000. Mengalikan.
 - **D** — 8 jam. Salah konversi waktu.
+- **Konsep kunci:** Mencari waktu pengisian mobil tangki (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Catat volume 8.000 L dan debit 400 L/menit.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 8.000 ÷ 400 = 20 menit.
 
 ---
 
@@ -792,6 +1002,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 1. Tidak konversi.
 - **C** — **BENAR.** 1 m³ = 1.000 L, jadi 1 m³/jam = 1.000 L/jam.
 - **D** — 10.000. Salah faktor (×10).
+- **Konsep kunci:** Mengonversi satuan volume meter kubik ke liter.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m³ = 1.000 L.
+  2. Jadi 1 m³/jam sama artinya dengan 1.000 L/jam.
+  3. Tidak perlu perhitungan tambahan.
 
 ---
 
@@ -808,6 +1023,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 0,4. Membagi 2/5.
 - **C** — 25. Mengalikan 5×5.
 - **D** — **BENAR.** V = Q × t = 2 × 5 = 10 m³.
+- **Konsep kunci:** Mencari volume air sungai dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 2 m³/detik dan waktu 5 detik.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 2 × 5 = 10 m³.
 
 ---
 
@@ -824,6 +1044,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 15. Lupa konversi menit ke detik (5×3).
 - **C** — 8. Menjumlah.
 - **D** — 1,67. Membagi 5/3.
+- **Konsep kunci:** Mengubah menit ke detik sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 menit menjadi 180 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 5 L/detik.
+  3. Hitung 5 × 180 = 900 L.
 
 ---
 
@@ -840,6 +1065,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** 5 jam = 300 menit. V = 24 × 300 = 7.200 L.
 - **C** — 144. 24×6, salah hitung.
 - **D** — 1.200. Salah faktor.
+- **Konsep kunci:** Mengubah jam ke menit sebelum menghitung volume.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 jam menjadi 300 menit.
+  2. Gunakan rumus V = Q × t dengan Q = 24 L/menit.
+  3. Hitung 24 × 300 = 7.200 L.
 
 ---
 
@@ -856,6 +1086,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 472. Mengurangi.
 - **C** — **BENAR.** Q = V/t = 480/8 = 60 L/menit.
 - **D** — 3.840. Mengalikan.
+- **Konsep kunci:** Mencari debit dari volume dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat volume 480 L dan waktu 8 menit.
+  2. Gunakan rumus Q = V ÷ t.
+  3. Hitung 480 ÷ 8 = 60 L/menit.
 
 ---
 
@@ -872,6 +1107,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 11,5. Menjumlah.
 - **C** — 1,875. Membagi 7,5/4.
 - **D** — 3,5. Mengurangi.
+- **Konsep kunci:** Mencari volume dari debit desimal dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 7,5 L/menit dan waktu 4 menit.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 7,5 × 4 = 30 L.
 
 ---
 
@@ -888,6 +1128,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 16,5. Menjumlah.
 - **C** — **BENAR.** t = V/Q = 16/0,5 = 32 detik.
 - **D** — 15,5. Mengurangi.
+- **Konsep kunci:** Mencari waktu pengisian ember dengan debit desimal.
+- **Langkah Penyelesaian:**
+  1. Catat volume 16 L dan debit 0,5 L/detik.
+  2. Gunakan rumus t = V ÷ Q.
+  3. Hitung 16 ÷ 0,5 = 32 detik.
 
 ---
 
@@ -904,6 +1149,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** V = Q × t = 9 × 40 = 360 L.
 - **C** — 4,44. Membagi 40/9.
 - **D** — 31. Mengurangi.
+- **Konsep kunci:** Mencari volume dari debit dan waktu.
+- **Langkah Penyelesaian:**
+  1. Catat debit 9 L/menit dan waktu 40 menit.
+  2. Gunakan rumus V = Q × t.
+  3. Hitung 9 × 40 = 360 L.
 
 ---
 
@@ -922,6 +1172,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 75. Pakai m³ tanpa konversi (75/25 = 3 detik salah → 75 menit asal).
 - **C** — 30. Salah konversi (pakai 1.000 detik).
 - **D** — 60. Asumsi 1 jam.
+- **Konsep kunci:** Menghitung volume balok lalu mencari waktu pengisian dengan konversi satuan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 10×5×1,5 = 75 m³, ubah ke 75.000 L.
+  2. Gunakan rumus t = V ÷ Q dengan Q = 25 L/detik.
+  3. Hitung 75.000 ÷ 25 = 3.000 detik, ubah ke 50 menit.
 
 ---
 
@@ -938,6 +1193,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Q = 60/5 = 12 L/menit. 1 jam = 60 menit. V = 12 × 60 = 720 L.
 - **C** — 600. Salah hitung.
 - **D** — 540. Mengalikan 60×9.
+- **Konsep kunci:** Mencari debit dulu, lalu memakainya untuk menghitung volume pada waktu lain.
+- **Langkah Penyelesaian:**
+  1. Cari debit: Q = 60 ÷ 5 = 12 L/menit.
+  2. Ubah 1 jam menjadi 60 menit.
+  3. Hitung volume: 12 × 60 = 720 L.
 
 ---
 
@@ -954,6 +1214,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 25. Pakai hanya kran B.
 - **C** — 16,67. Pakai hanya kran A.
 - **D** — 8. Asal rata-rata salah.
+- **Konsep kunci:** Menjumlahkan debit dua kran yang bekerja bersamaan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan debit dua kran: 6+4 = 10 L/menit.
+  2. Gunakan rumus t = V ÷ Q dengan V = 100 L.
+  3. Hitung 100 ÷ 10 = 10 menit.
 
 ---
 
@@ -970,6 +1235,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 9,6. Pakai jumlah debit (salah arah).
 - **C** — **BENAR.** Q_efektif = 20−5 = 15 L/menit. t = 240/15 = 16 menit.
 - **D** — 48. Pakai hanya debit keluar.
+- **Konsep kunci:** Mengurangi debit kebocoran dari debit pengisian untuk mendapat debit efektif.
+- **Langkah Penyelesaian:**
+  1. Hitung debit efektif: 20−5 = 15 L/menit.
+  2. Gunakan rumus t = V ÷ Q dengan V = 240 L.
+  3. Hitung 240 ÷ 15 = 16 menit.
 
 ---
 
@@ -986,6 +1256,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** 6 m³ = 6.000 L. t = 6.000/200 = 30 menit.
 - **C** — 60. Salah pembagian.
 - **D** — 1.200. Mengalikan.
+- **Konsep kunci:** Mengubah meter kubik ke liter sebelum mencari waktu.
+- **Langkah Penyelesaian:**
+  1. Ubah 6 m³ menjadi 6.000 L.
+  2. Gunakan rumus t = V ÷ Q dengan Q = 200 L/menit.
+  3. Hitung 6.000 ÷ 200 = 30 menit.
 
 ---
 
@@ -1002,6 +1277,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 600. Salah konversi waktu.
 - **C** — **BENAR.** 36 L/detik = 36 × 3.600 = 129.600 L/jam = 129,6 m³/jam.
 - **D** — 2.160. Pakai 60 detik saja, lupa konversi L→m³.
+- **Konsep kunci:** Mengonversi debit melalui dua tahap: detik ke jam, lalu liter ke meter kubik.
+- **Langkah Penyelesaian:**
+  1. Ubah 36 L/detik menjadi L/jam: 36 × 3.600 = 129.600 L/jam.
+  2. Ubah liter ke meter kubik (bagi 1.000).
+  3. Hasilnya 129.600 ÷ 1.000 = 129,6 m³/jam.
 
 ---
 
@@ -1018,6 +1298,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 18. Rerata aritmatika (270/15+750/25)/2 = (18+30)/2 = 24, salah.
 - **C** — 35. Asal pakai 700+700.
 - **D** — Sama dengan A, ditulis ulang.
+- **Konsep kunci:** Mencari rata-rata debit dari total volume dibagi total waktu, bukan rata-rata debit per tahap.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan volume dua tahap: 270+750 = 1.020 L.
+  2. Jumlahkan waktu dua tahap: 15+25 = 40 menit.
+  3. Bagi total volume dengan total waktu: 1.020 ÷ 40 = 25,5 L/menit.
 
 ---
 
@@ -1034,6 +1319,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 1,5. Tidak konversi.
 - **C** — **BENAR.** 1 jam = 3.600 detik. V = 1,5 × 3.600 = 5.400 m³.
 - **D** — 9.000. Salah faktor.
+- **Konsep kunci:** Mengubah jam ke detik sebelum menghitung volume sungai.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 jam menjadi 3.600 detik.
+  2. Gunakan rumus V = Q × t dengan Q = 1,5 m³/detik.
+  3. Hitung 1,5 × 3.600 = 5.400 m³.
 
 ---
 
@@ -1054,6 +1344,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** V_total = (0,2×30) + (0,4×30) = 6 + 12 = 18 L (ember meluap 6 L).
 - **C** — 12. Asumsi terhenti saat penuh.
 - **D** — 24. Pakai 60 detik kedua tahap.
+- **Konsep kunci:** Menjumlahkan volume dari dua tahap debit berbeda, lalu membandingkan dengan kapasitas ember.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 0,2 × 30 = 6 L.
+  2. Hitung volume tahap 2: 0,4 × 30 = 12 L.
+  3. Jumlahkan: 6+12 = 18 L, meski kapasitas ember hanya 12 L (airnya meluap 6 L).
 
 ---
 
@@ -1070,6 +1365,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 40. Pakai V/t = 40 (lupa bagi 4 kran).
 - **C** — **BENAR.** Q_total = 200/5 = 40 L/menit. Per kran = 40/4 = 10 L/menit.
 - **D** — 8. Pakai 200/25.
+- **Konsep kunci:** Membagi debit total dengan jumlah kran identik untuk mencari debit satu kran.
+- **Langkah Penyelesaian:**
+  1. Hitung debit total: 200 ÷ 5 = 40 L/menit.
+  2. Bagi dengan jumlah kran: 40 ÷ 4.
+  3. Hasilnya 10 L/menit per kran.
 
 ---
 
@@ -1086,6 +1386,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 12. Pakai 720/60 (lupa lanjut konversi).
 - **C** — 720.000. Lupa bagi waktu.
 - **D** — 12.000. Lupa bagi detik.
+- **Konsep kunci:** Mengonversi debit melalui dua tahap: jam ke detik, lalu liter ke mililiter.
+- **Langkah Penyelesaian:**
+  1. Ubah 720 L/jam menjadi L/detik: 720 ÷ 3.600 = 0,2 L/detik.
+  2. Ubah liter ke mililiter (kali 1.000).
+  3. Hasilnya 0,2 × 1.000 = 200 mL/detik.
 
 ---
 
@@ -1102,6 +1407,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 10. Pakai 90/9.
 - **C** — **BENAR.** 6 menit pertama: 5×6 = 30 L. Sisa = 60 L. Q_total setelahnya = 9 L/menit. Waktu sisa = 60/9 ≈ 6 2/3 menit. Total = 6 + 6 2/3 = 12 2/3 menit.
 - **D** — 14. Salah hitung.
+- **Konsep kunci:** Menghitung pengisian dua tahap: kran tunggal dulu, lalu debit gabungan setelah kran kedua ditambahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 5 × 6 = 30 L, sisa = 90−30 = 60 L.
+  2. Jumlahkan debit setelah kran B dibuka: 5+4 = 9 L/menit.
+  3. Hitung waktu tahap 2: 60 ÷ 9 = 6⅔ menit, lalu jumlahkan dengan tahap 1: 6 + 6⅔ = 12⅔ menit.
 
 ---
 
@@ -1118,6 +1428,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 2,5 jam. Salah pembagian.
 - **C** — **BENAR.** t = 360.000/50 = 7.200 detik = 2 jam.
 - **D** — 3 jam. Salah faktor.
+- **Konsep kunci:** Mengubah hasil waktu dari detik ke jam setelah mencari t = V ÷ Q.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus t = V ÷ Q dengan V = 360.000 m³ dan Q = 50 m³/detik.
+  2. Hitung 360.000 ÷ 50 = 7.200 detik.
+  3. Ubah 7.200 detik menjadi 2 jam.
 
 ---
 
@@ -1134,6 +1449,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 17,28. Satuan salah.
 - **C** — 28,8. Salah hitung.
 - **D** — 1.728. Lupa konversi L→m³.
+- **Konsep kunci:** Mengubah satuan hari ke menit, lalu liter ke meter kubik.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 hari (24 jam) menjadi 1.440 menit.
+  2. Gunakan rumus V = Q × t dengan Q = 12 L/menit.
+  3. Hitung 12 × 1.440 = 17.280 L, ubah ke 17,28 m³.
 
 ---
 
@@ -1150,6 +1470,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — 50. Salah hitung.
 - **C** — **BENAR.** Waktu isi = 5.000/250 = 20 menit. Waktu salur = 5.000/200 = 25 menit. Total = 45 menit.
 - **D** — 5. Selisih waktu (salah).
+- **Konsep kunci:** Menjumlahkan dua waktu kegiatan berurutan (isi lalu salur), bukan menggabungkan debitnya.
+- **Langkah Penyelesaian:**
+  1. Hitung waktu isi: 5.000 ÷ 250 = 20 menit.
+  2. Hitung waktu salur: 5.000 ÷ 200 = 25 menit.
+  3. Jumlahkan kedua waktu: 20+25 = 45 menit.
 
 ---
 
@@ -1166,6 +1491,11 @@ Yuk mulai berlatih 100 soal!
 - **B** — **BENAR.** Setelah 15 menit: 8×15 = 120 L. Sisa 480 L. Q total = 8+12 = 20 L/menit. Waktu sisa = 480/20 = 24 menit. Total = 15 + 24 = 39 menit.
 - **C** — 30. Pakai 600/20.
 - **D** — 45. Asumsi salah.
+- **Konsep kunci:** Menghitung pengisian dua tahap: kran tunggal dulu, lalu debit gabungan setelah kran kedua dibuka.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 8 × 15 = 120 L, sisa = 600−120 = 480 L.
+  2. Jumlahkan debit setelah kran B dibuka: 8+12 = 20 L/menit.
+  3. Hitung waktu tahap 2: 480 ÷ 20 = 24 menit, lalu jumlahkan: 15+24 = 39 menit.
 
 ---
 
@@ -1222,6 +1552,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — 85. Salah hitung.
 - **C** — 88. Salah konversi.
 - **D** — **BENAR.** Tahap 1: 100×15 = 1.500 L. Sisa = 6.000−1.500 = 4.500 L. Tahap 2: 4.500/150 = 30 menit. Total = 15 + 30 = 45 menit.
+- **Konsep kunci:** Menjumlahkan volume dua tahap dengan debit berbeda untuk mencari total waktu.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 100 × 15 = 1.500 L, sisa = 6.000−1.500 = 4.500 L.
+  2. Hitung waktu tahap 2: 4.500 ÷ 150 = 30 menit.
+  3. Jumlahkan kedua waktu: 15+30 = 45 menit.
 
 ---
 
@@ -1238,6 +1573,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — 2 jam. Pembulatan kasar.
 - **C** — 1 jam 30 menit. Salah hitung.
 - **D** — 100 menit. Benar nilainya, tetapi format jawaban tidak dalam jam-menit.
+- **Konsep kunci:** Menghitung volume balok lalu mencari waktu pengisian, dan mengubah hasil ke jam-menit.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 2×1,5×0,6 = 1,8 m³, ubah ke 1.800 L.
+  2. Gunakan rumus t = V ÷ Q dengan Q = 18 L/menit.
+  3. Hitung 1.800 ÷ 18 = 100 menit, ubah ke 1 jam 40 menit.
 
 ---
 
@@ -1254,6 +1594,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — **BENAR.** Q_efektif = 4+6−2 = 8 L/menit. t = 300/8 = 37,5 menit.
 - **C** — 25. Salah hitung.
 - **D** — 50. Pakai hanya kran A.
+- **Konsep kunci:** Menjumlahkan dua debit pemasukan lalu mengurangi debit kebocoran.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan dua kran: 4+6 = 10 L/menit.
+  2. Kurangi dengan kebocoran: 10−2 = 8 L/menit.
+  3. Gunakan t = V ÷ Q: 300 ÷ 8 = 37,5 menit.
 
 ---
 
@@ -1270,6 +1615,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — 600. Pakai 15 cm ketinggian.
 - **C** — **BENAR.** V = 200 × 0,03 = 6 m³ = 6.000 L. t = 6.000/15 = 400 detik.
 - **D** — 1.200. Salah hitung.
+- **Konsep kunci:** Menghitung volume air dari luas sawah dan ketinggian air, lalu mencari waktu.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 cm menjadi 0,03 m.
+  2. Hitung volume: 200 × 0,03 = 6 m³, ubah ke 6.000 L.
+  3. Gunakan t = V ÷ Q: 6.000 ÷ 15 = 400 detik.
 
 ---
 
@@ -1286,6 +1636,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — **BENAR.** Q = 1.500/6 = 250 mL/detik = 0,25 L/detik. × 60 = 15 L/menit.
 - **C** — 25. Salah pembagian.
 - **D** — 90. Pakai 1.500/(0,01) salah.
+- **Konsep kunci:** Mengonversi debit dua tahap: mililiter-detik ke liter-detik, lalu ke liter-menit.
+- **Langkah Penyelesaian:**
+  1. Cari debit: 1.500 ÷ 6 = 250 mL/detik.
+  2. Ubah ke liter: 250 mL/detik = 0,25 L/detik.
+  3. Ubah ke per menit: 0,25 × 60 = 15 L/menit.
 
 ---
 
@@ -1302,6 +1657,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — 30. Salah hitung.
 - **C** — 50. Pakai bocor total 2 L/menit (lupa relatif).
 - **D** — 60. Pakai 60/1.
+- **Konsep kunci:** Mencari waktu sampai dua volume sama dari selisih volume dan selisih laju pengurangan.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih volume awal: 100−60 = 40 L.
+  2. Hitung selisih laju pengurangan: 2−1 = 1 L/menit.
+  3. Bagi selisih volume dengan selisih laju: 40 ÷ 1 = 40 menit.
 
 ---
 
@@ -1318,6 +1678,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — **BENAR.** V_bak = 12×25 = 300 L. Q_B = 300/50 = 6 L/menit. Q_total = 12+6 = 18 L/menit. t = 300/18 = 16⅔ menit.
 - **C** — 12,5. Asal bagi dua.
 - **D** — 37,5. Salah.
+- **Konsep kunci:** Mencari volume total dari kran A, lalu debit kran B, lalu menjumlahkan debit untuk kerja bersama.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: 12 × 25 = 300 L.
+  2. Hitung debit kran B: 300 ÷ 50 = 6 L/menit.
+  3. Jumlahkan debit: 12+6 = 18 L/menit, lalu t = 300 ÷ 18 = 16⅔ menit.
 
 ---
 
@@ -1334,6 +1699,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — **BENAR.** Durasi = 45 menit. V = 8 × 45 = 360 L.
 - **C** — 480. Pakai 60 menit.
 - **D** — 240. Pakai 30 menit.
+- **Konsep kunci:** Menghitung selisih waktu dari jam, lalu mencari volume dengan V = Q × t.
+- **Langkah Penyelesaian:**
+  1. Hitung lama kran menyala: dari 07.00 sampai 07.45 = 45 menit.
+  2. Gunakan rumus V = Q × t dengan Q = 8 L/menit.
+  3. Hitung 8 × 45 = 360 L.
 
 ---
 
@@ -1350,6 +1720,11 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 - **B** — 5. Salah konversi.
 - **C** — **BENAR.** V = 1 m³ = 1.000 L. t = 1.000/2 = 500 detik = 8⅓ menit.
 - **D** — 15. Salah hitung.
+- **Konsep kunci:** Menghitung volume kubus lalu mencari waktu pengisian dengan konversi satuan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: 1×1×1 = 1 m³, ubah ke 1.000 L.
+  2. Gunakan t = V ÷ Q dengan Q = 2 L/detik.
+  3. Hitung 1.000 ÷ 2 = 500 detik, ubah ke 8⅓ menit.
 
 ---
 
@@ -1398,6 +1773,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** 5 menit pertama: (30+10)×5 = 200 L. Sisa = 300 L. Kran A sendiri: 300/30 = 10 menit. Total = 5 + 10 = 15 menit.
 - **C** — 23⅓. Pakai 800/30.
 - **D** — 25. Pakai (5+20) salah hitung.
+- **Konsep kunci:** Menghitung pengisian dua tahap: debit gabungan dulu, lalu debit satu kran saja setelah kran lain ditutup.
+- **Langkah Penyelesaian:**
+  1. Hitung volume 5 menit pertama (dua kran): (30+10)×5 = 200 L, sisa = 500−200 = 300 L.
+  2. Kran B ditutup, hanya kran A yang bekerja (30 L/menit).
+  3. Hitung waktu sisa: 300 ÷ 30 = 10 menit, lalu jumlahkan: 5+10 = 15 menit.
 
 ---
 
@@ -1414,6 +1794,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 8. Salah hitung.
 - **C** — **BENAR.** Tahap 1: 1×4 = 4 L. Sisa 6 L. Tahap 2: 6/0,5 = 12 detik. Total = 4 + 12 = 16 detik.
 - **D** — 6. Hanya tahap kedua.
+- **Konsep kunci:** Menjumlahkan volume dua tahap dengan debit berbeda untuk mencari total waktu.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 1 × 4 = 4 L, sisa = 10−4 = 6 L.
+  2. Hitung waktu tahap 2: 6 ÷ 0,5 = 12 detik.
+  3. Jumlahkan kedua waktu: 4+12 = 16 detik.
 
 ---
 
@@ -1430,6 +1815,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 800. Lupa kurangi kebocoran.
 - **C** — 720. Salah konversi (×7.200).
 - **D** — 360. Pakai hanya kebocoran.
+- **Konsep kunci:** Mengubah debit kebocoran ke satuan jam, lalu mengurangi dari debit pengisian.
+- **Langkah Penyelesaian:**
+  1. Ubah debit bocor 0,1 L/detik menjadi L/jam: 0,1 × 3.600 = 360 L/jam.
+  2. Kurangi dari debit pengisian: 800−360 = 440 L/jam.
+  3. Dalam 1 jam air bertambah 440 L.
 
 ---
 
@@ -1446,6 +1836,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 156,5. Salah hitung.
 - **C** — 200. Pembulatan.
 - **D** — 100. Pakai r = 0,5 tanpa kuadrat.
+- **Konsep kunci:** Menghitung volume tabung lalu mencari waktu pengisian.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tabung: π × 0,5² × 1 = 0,785 m³, ubah ke 785 L.
+  2. Gunakan t = V ÷ Q dengan Q = 4 L/menit.
+  3. Hitung 785 ÷ 4 ≈ 196,25 menit.
 
 ---
 
@@ -1462,6 +1857,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** V = 25×10×1,2 = 300 m³ = 300.000 L. t = 300.000/200 = 1.500 menit = 25 jam.
 - **C** — 24. Salah hitung.
 - **D** — 20. Pakai 240.000 L.
+- **Konsep kunci:** Menghitung volume balok lalu mencari waktu pengurasan, dan mengubah hasil ke jam.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 25×10×1,2 = 300 m³, ubah ke 300.000 L.
+  2. Gunakan t = V ÷ Q dengan Q = 200 L/menit.
+  3. Hitung 300.000 ÷ 200 = 1.500 menit, ubah ke 25 jam.
 
 ---
 
@@ -1480,6 +1880,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 60. Salah faktor.
 - **C** — 20. Setengah dari 30 (asal bagi 2).
 - **D** — 90. Pakai 3× hasilnya tapi salah arah.
+- **Konsep kunci:** Mencari debit satu kran dari debit gabungan beberapa kran identik, lalu menghitung waktu satu kran.
+- **Langkah Penyelesaian:**
+  1. Hitung debit 3 kran: 600 ÷ 10 = 60 L/menit.
+  2. Bagi dengan jumlah kran: 60 ÷ 3 = 20 L/menit (debit 1 kran).
+  3. Hitung waktu 1 kran: 600 ÷ 20 = 30 menit.
 
 ---
 
@@ -1536,6 +1941,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** Q_A = 1.800/30 = 60 L/menit. Q_AB = 1.800/15 = 120 L/menit. Q_B = 120 − 60 = 60 L/menit.
 - **C** — Salah hitung.
 - **D** — Salah hitung.
+- **Konsep kunci:** Mencari debit kran A sendirian, debit gabungan, lalu selisihnya untuk debit kran B.
+- **Langkah Penyelesaian:**
+  1. Hitung debit kran A: 1.800 ÷ 30 = 60 L/menit.
+  2. Hitung debit gabungan A+B: 1.800 ÷ 15 = 120 L/menit.
+  3. Kurangi untuk debit kran B: 120−60 = 60 L/menit.
 
 ---
 
@@ -1569,6 +1979,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 180. Pakai hanya pintu 1.
 - **C** — **BENAR.** 30 menit pintu 1: 5 × 1.800 = 9.000 m³. Sisa = 81.000 m³. Q_total = 5+7 = 12 m³/detik. Waktu = 81.000/12 = 6.750 detik = 112,5 menit ≈ 113 menit.
 - **D** — 90. Salah faktor.
+- **Konsep kunci:** Menghitung sisa volume setelah tahap pertama, lalu memakai debit gabungan untuk tahap kedua.
+- **Langkah Penyelesaian:**
+  1. Hitung volume keluar 30 menit pertama: 5 × 1.800 = 9.000 m³, sisa = 90.000−9.000 = 81.000 m³.
+  2. Jumlahkan debit setelah pintu 2 dibuka: 5+7 = 12 m³/detik.
+  3. Hitung waktu sisa: 81.000 ÷ 12 = 6.750 detik ≈ 113 menit.
 
 ---
 
@@ -1585,6 +2000,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 31,4. Pakai diameter sebagai jari-jari.
 - **C** — 62,8. Salah faktor.
 - **D** — 100. Pakai panjang pipa.
+- **Konsep kunci:** Menghitung debit dari luas penampang pipa dikalikan kecepatan air (Q = A × v).
+- **Langkah Penyelesaian:**
+  1. Hitung luas penampang: π × (0,05)² = 0,00785 m².
+  2. Kalikan dengan kecepatan air: 0,00785 × 2 = 0,0157 m³/detik.
+  3. Ubah ke liter: 0,0157 × 1.000 = 15,7 L/detik.
 
 ---
 
@@ -1601,6 +2021,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** 4 menit pertama kran A: 15×4 = 60 L. Sisa = 260 L. Q_total = 40 L/menit. Waktu sisa = 260/40 = 6,5 menit. Total = 4+6,5 = 10,5 menit. Pukul 08.10:30 ≈ 08.11.
 - **C** — 08.12. Pembulatan salah.
 - **D** — 08.13. Salah hitung.
+- **Konsep kunci:** Menghitung pengisian dua tahap (kran A sendiri lalu gabungan), lalu mengubah menit menjadi jam.
+- **Langkah Penyelesaian:**
+  1. Hitung volume 4 menit pertama: 15 × 4 = 60 L, sisa = 320−60 = 260 L.
+  2. Jumlahkan debit setelah kran B dibuka: 15+25 = 40 L/menit.
+  3. Hitung waktu sisa: 260 ÷ 40 = 6,5 menit, total 10,5 menit dari pukul 08.00 → sekitar pukul 08.11.
 
 ---
 
@@ -1617,6 +2042,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 16. Pakai tanpa istirahat.
 - **C** — **BENAR.** Tanpa istirahat, t = 800/50 = 16 menit. Pompa B istirahat tiap 5 menit selama 1 menit. Dalam 16 menit total, pompa B punya 3 kali siklus 5+1, atau aktif 13 menit. V_dikeluarkan = 30×16 + 20×13 = 480+260 = 740. Sisa = 60 L. Pompa A masih jalan, B juga (siklus baru): 60/50 = 1,2 menit. Total ≈ 17,2 → 18 menit (pembulatan kasar dengan tambahan istirahat dalam pengurasan akhir).
 - **D** — 20 menit. Salah hitung.
+- **Konsep kunci:** Memperkirakan waktu pengurasan dengan mempertimbangkan pompa yang berhenti berkala.
+- **Langkah Penyelesaian:**
+  1. Hitung debit gabungan tanpa jeda: 30+20 = 50 L/menit, sehingga waktu ideal = 800 ÷ 50 = 16 menit.
+  2. Hitung volume yang benar-benar keluar dalam 16 menit dengan pompa B aktif hanya 13 menit: 30×16 + 20×13 = 740 L.
+  3. Hitung sisa 60 L dengan tambahan waktu, dibulatkan menjadi sekitar 18 menit.
 
 ---
 
@@ -1633,6 +2063,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 50. Salah faktor.
 - **C** — 75. Salah perhitungan.
 - **D** — 25. Lupa pengaruh jumlah kran.
+- **Konsep kunci:** Mencari debit satu kran dari debit gabungan beberapa kran identik, lalu menghitung waktu satu kran.
+- **Langkah Penyelesaian:**
+  1. Hitung debit 4 kran: 50.000 ÷ 25 = 2.000 L/menit.
+  2. Bagi dengan jumlah kran: 2.000 ÷ 4 = 500 L/menit (debit 1 kran).
+  3. Hitung waktu 1 kran: 50.000 ÷ 500 = 100 menit.
 
 ---
 
@@ -1649,6 +2084,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 30. Pakai 200/6 saja (lupa air awal).
 - **C** — 50. Pakai 200/4.
 - **D** — 20. Salah hitung.
+- **Konsep kunci:** Menghitung sisa kapasitas dari isi awal, lalu memakai debit efektif isi-kuras.
+- **Langkah Penyelesaian:**
+  1. Hitung sisa kapasitas: 200−50 = 150 L.
+  2. Hitung debit efektif: 10−4 = 6 L/menit.
+  3. Hitung waktu: 150 ÷ 6 = 25 menit.
 
 ---
 
@@ -1665,6 +2105,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** Berbanding lurus: Q_B/Q_A = d_B/d_A → Q_B = 8 × (6/4) = 12 L/detik.
 - **C** — 16. Pakai d kuadrat.
 - **D** — 24. Salah faktor.
+- **Konsep kunci:** Menyelesaikan soal debit berbanding lurus dengan perbandingan senilai.
+- **Langkah Penyelesaian:**
+  1. Bentuk perbandingan: Q_B/Q_A = diameter B/diameter A.
+  2. Masukkan angka: Q_B/8 = 6/4.
+  3. Hitung Q_B = 8 × (6/4) = 12 L/detik.
 
 ---
 
@@ -1694,6 +2139,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 480. Pakai V salah.
 - **C** — 500. Pembulatan kasar.
 - **D** — 580. Salah hitung.
+- **Konsep kunci:** Menghitung pengisian dua tahap: kran tunggal dulu, lalu debit gabungan setelah kran kedua ditambahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 4×2×1,5 = 12 m³ = 12.000 L. Debit kran B = setengah kran A = 12,5 L/menit.
+  2. Hitung volume 20 menit pertama (kran A saja): 25×20 = 500 L, sisa = 11.500 L.
+  3. Jumlahkan debit gabungan (37,5 L/menit), hitung waktu sisa ≈ 307 menit, total ≈ 327 menit.
 
 ---
 
@@ -1724,6 +2174,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** Tiap mobil isi 2.500 L. t1 = 12,5; t2 = 10; t3 = 10; t4 = 25. Total = 57,5 ≈ 58 menit.
 - **C** — 70. Salah hitung.
 - **D** — 80. Pakai rerata salah.
+- **Konsep kunci:** Menjumlahkan waktu dari beberapa tahap pengisian dengan volume sama tapi debit berbeda-beda.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tiap mobil: 10.000 ÷ 4 = 2.500 L.
+  2. Hitung waktu tiap mobil: 2.500÷200, 2.500÷250, 2.500÷250, 2.500÷100.
+  3. Jumlahkan semua waktu: 12,5+10+10+25 = 57,5 ≈ 58 menit.
 
 ---
 
@@ -1740,6 +2195,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 90. Salah hitung.
 - **C** — 86,67. Salah faktor.
 - **D** — **BENAR.** Total V = 80×2 + 120×3 + 60×1 = 160+360+60 = 580 L. Total t = 6 jam. Rerata = 580/6 ≈ 96,67 L/jam.
+- **Konsep kunci:** Mencari rata-rata debit dari total volume dibagi total waktu, bukan rata-rata debit per tahap.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tiap tahap: 80×2, 120×3, 60×1, lalu jumlahkan menjadi 580 L.
+  2. Jumlahkan total waktu: 2+3+1 = 6 jam.
+  3. Bagi total volume dengan total waktu: 580 ÷ 6 ≈ 96,67 L/jam.
 
 ---
 
@@ -1756,6 +2216,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** Misal kapasitas = 24 L (kelipatan 8 dan 12). Q_A = 3 L/menit, Q_B = 2 L/menit. Total = 5 L/menit. t = 24/5 = 4,8 menit.
 - **C** — 6. Rerata.
 - **D** — 10. Jumlah/2.
+- **Konsep kunci:** Menyelesaikan soal kerja gabungan (dua kran) dengan memisalkan kapasitas kelipatan waktu keduanya.
+- **Langkah Penyelesaian:**
+  1. Misalkan kapasitas ember 24 L (kelipatan 8 dan 12).
+  2. Hitung debit tiap kran: Q_A = 24÷8 = 3 L/menit, Q_B = 24÷12 = 2 L/menit.
+  3. Jumlahkan debit (5 L/menit), lalu t = 24 ÷ 5 = 4,8 menit.
 
 ---
 
@@ -1772,6 +2237,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** Q_efektif = 12−8 = 4 m³/detik. 5 jam = 18.000 detik. V = 4 × 18.000 = 72.000 m³.
 - **C** — 4.000. Salah konversi.
 - **D** — 144.000. Pakai total debit (lupa kuras).
+- **Konsep kunci:** Mengurangi debit kebocoran dari debit pengisian, lalu mengubah jam ke detik.
+- **Langkah Penyelesaian:**
+  1. Hitung debit efektif: 12−8 = 4 m³/detik.
+  2. Ubah 5 jam menjadi 18.000 detik.
+  3. Gunakan V = Q × t: 4 × 18.000 = 72.000 m³.
 
 ---
 
@@ -1788,6 +2258,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 5,5. Salah hitung.
 - **C** — 4. Pakai 20 tetes = 1 mL.
 - **D** — 3. Salah hitung.
+- **Konsep kunci:** Mengubah tetes menjadi mililiter, lalu mencari waktu dan mengubahnya ke jam.
+- **Langkah Penyelesaian:**
+  1. Ubah 500 mL menjadi tetes: 500×15 = 7.500 tetes.
+  2. Gunakan t = V ÷ Q dengan Q = 20 tetes/menit.
+  3. Hitung 7.500÷20 = 375 menit, ubah ke 6,25 jam.
 
 ---
 
@@ -1820,6 +2295,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** 10 menit pertama (A saja): +300 → 800 L. 20 menit berikutnya: Q_eff = 10 L/menit × 20 = +200 → total 1.000 L.
 - **C** — 1.100. Pakai awal 600.
 - **D** — 1.200. Salah hitung.
+- **Konsep kunci:** Menghitung perubahan isi kolam dalam dua tahap: satu pompa dulu, lalu dua pompa isi-kuras bersamaan.
+- **Langkah Penyelesaian:**
+  1. Hitung tambahan 10 menit pertama (pompa A saja): 30×10 = 300 L, isi jadi 500+300 = 800 L.
+  2. Hitung debit efektif setelah pompa B menyala: 30−20 = 10 L/menit.
+  3. Hitung tambahan 20 menit berikutnya: 10×20 = 200 L, total jadi 800+200 = 1.000 L.
 
 ---
 
@@ -1836,6 +2316,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** 1 hari = 86.400 detik. V = 3 × 86.400 = 259.200 mL = 259,2 L.
 - **C** — 50. Pembulatan kasar.
 - **D** — 18,5. Salah hitung.
+- **Konsep kunci:** Mengubah debit per detik menjadi volume per hari, lalu ke liter.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 hari menjadi 86.400 detik.
+  2. Gunakan V = Q × t dengan Q = 3 mL/detik.
+  3. Hitung 3×86.400 = 259.200 mL, ubah ke 259,2 L.
 
 ---
 
@@ -1852,6 +2337,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — 24. Salah hitung.
 - **C** — **BENAR.** Pola tiap 2 menit + 0,5 menit jeda = 2,5 menit (di mana hanya 2 menit kerja). Dalam 2 menit kerja: 50×2 = 100 L. Butuh 1.000/100 = 10 siklus. Total waktu = 10 × 2,5 = 25 menit.
 - **D** — 30. Salah hitung.
+- **Konsep kunci:** Menghitung volume per siklus kerja-istirahat, lalu mencari jumlah siklus yang dibutuhkan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume yang masuk tiap siklus 2 menit kerja: 50×2 = 100 L.
+  2. Hitung jumlah siklus yang dibutuhkan: 1.000÷100 = 10 siklus.
+  3. Kalikan dengan lama satu siklus (2 menit kerja + 0,5 menit jeda = 2,5 menit): 10×2,5 = 25 menit.
 
 ---
 
@@ -1900,6 +2390,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — Salah, tidak sama.
 - **C** — Konversi tidak konsisten satuan.
 - **D** — **BENAR.** 1.500/60 = 25 m³/detik. Selisih 5 m³/detik mengisi dam, sehingga dam akan meluap.
+- **Konsep kunci:** Mengubah satuan debit masuk ke satuan yang sama dengan debit keluar untuk membandingkan keduanya.
+- **Langkah Penyelesaian:**
+  1. Ubah debit masuk 1.500 m³/menit menjadi m³/detik: 1.500÷60 = 25 m³/detik.
+  2. Bandingkan dengan debit keluar 20 m³/detik.
+  3. Karena masuk lebih besar 5 m³/detik, air di dam akan terus bertambah (tidak stabil).
 
 ---
 
@@ -1934,6 +2429,11 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 - **B** — **BENAR.** V = π × 0,4² × 1,75 = 3,14 × 0,16 × 1,75 ≈ 0,879 m³ = 879 L. 2/3 isi = 586 L. Tahap 1: 586/4 = 146,5 menit. Sisa = 293 L. Tahap 2 (kran 10 L/menit): 293/10 = 29,3 menit. Total ≈ 175,8 → 176 menit.
 - **C** — 180. Pembulatan kasar.
 - **D** — 200. Salah hitung.
+- **Konsep kunci:** Menghitung volume tabung, membaginya jadi dua tahap isi, lalu menjumlahkan waktu tiap tahap.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tabung: π × 0,4² × 1,75 ≈ 879 L. Dua pertiga isi = 586 L.
+  2. Hitung waktu tahap 1 (debit 4 L/menit): 586÷4 = 146,5 menit, sisa = 293 L.
+  3. Hitung waktu tahap 2 (debit gabungan 10 L/menit): 293÷10 = 29,3 menit, total ≈ 176 menit.
 
 ---
 

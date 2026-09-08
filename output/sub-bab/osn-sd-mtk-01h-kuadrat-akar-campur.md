@@ -37,6 +37,12 @@
 - **C** — Benar. 6² = 6 × 6 = 36. Hafalkan: 6² = 36 termasuk yang sering keluar di OSN.
 - **D** — Menggabung "6" dan "6" jadi 66. Salah total, ² bukan operasi menyambung digit.
 
+- **Konsep kunci:** Kuadrat suatu bilangan berarti mengalikan bilangan itu dengan dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Pahami arti simbol ², yaitu kali dirinya sendiri.
+  2. Hitung 6 × 6.
+  3. Hasilnya 36.
+
 ---
 
 **2.** Nilai dari √49 adalah …
@@ -51,6 +57,12 @@
 - **B** — Benar. √49 = 7 karena 7 × 7 = 49. Akar kuadrat = "angka yang jika dikuadratkan hasilnya di dalam tanda akar".
 - **C** — Mengira 8 × 8 = 49. Salah, 8² = 64 (kelewatan).
 - **D** — Mengira 9² = 49. Salah, 9² = 81. Lompat dua langkah.
+
+- **Konsep kunci:** Akar kuadrat adalah kebalikan dari mengkuadratkan, mencari bilangan yang jika dikalikan dirinya sendiri menghasilkan angka dalam akar.
+- **Langkah Penyelesaian:**
+  1. Ingat hafalan kuadrat di sekitar 49.
+  2. Cek 7 × 7 = 49.
+  3. Jadi √49 = 7.
 
 ---
 
@@ -67,6 +79,12 @@
 - **C** — Benar. 9² = 81, 2² = 4, jadi 81 + 4 = 85.
 - **D** — Mengira (9 + 2)² = 11² = 121. Salah, kuadrat tidak boleh dijumlah dulu — itu rumus berbeda.
 
+- **Konsep kunci:** Setiap suku kuadrat harus dihitung dulu sebelum dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 9² = 81.
+  2. Hitung 2² = 4.
+  3. Jumlahkan 81 + 4 = 85.
+
 ---
 
 **4.** Bilangan kuadrat yang nilainya antara 50 dan 70 adalah …
@@ -81,6 +99,12 @@
 - **B** — 60 juga bukan kuadrat. 7² = 49 dan 8² = 64, jadi tidak ada n² = 60.
 - **C** — 65 bukan kuadrat. Sama, di antara 49 dan 64 hanya ada 64 yang merupakan kuadrat.
 - **D** — Benar. 64 = 8² dan 50 < 64 < 70.
+
+- **Konsep kunci:** Mengenali kuadrat sempurna yang berada dalam suatu rentang bilangan.
+- **Langkah Penyelesaian:**
+  1. Daftar kuadrat di sekitar rentang: 7²=49, 8²=64, 9²=81.
+  2. Cek mana yang berada di antara 50 dan 70.
+  3. 64 memenuhi karena 50 < 64 < 70.
 
 ---
 
@@ -97,6 +121,11 @@
 - **C** — Mengira 7² = 81. Salah, 7² = 49.
 - **D** — Mengira "akar 81" berarti 81 ÷ 4,5 atau 9 × 2. Salah konsep.
 
+- **Konsep kunci:** Akar kuadrat mencari bilangan yang bila dikalikan dirinya sendiri menghasilkan angka dalam akar.
+- **Langkah Penyelesaian:**
+  1. Ingat hafalan 9 × 9 = 81.
+  2. Jadi √81 = 9.
+
 ---
 
 **6.** Hasil dari 12² adalah …
@@ -111,6 +140,12 @@
 - **B** — Mengira 12² = 100 karena melihat angka mirip 10². Salah, 10² = 100, 12² lebih besar.
 - **C** — Benar. 12 × 12 = 144. Cara cepat: (10 + 2) × (10 + 2) = 100 + 20 + 20 + 4 = 144.
 - **D** — Mengira 12² = 11² = 121. Geser satu, salah.
+
+- **Konsep kunci:** Kuadrat bilangan dua digit dapat dihitung dengan menguraikan bentuk (a+b)².
+- **Langkah Penyelesaian:**
+  1. Uraikan 12 = 10 + 2.
+  2. Hitung (10+2)² = 100 + 20 + 20 + 4.
+  3. Jumlahkan menjadi 144.
 
 ---
 
@@ -127,6 +162,11 @@
 - **C** — Mengira √100 = 25 karena 25 × 4 = 100. Itu faktor, bukan akar.
 - **D** — Mengira 20 × 5 = 100. Itu juga faktor, tapi 20² = 400, bukan 100.
 
+- **Konsep kunci:** Akar kuadrat dari kelipatan 100 sering berupa bilangan bulat sederhana.
+- **Langkah Penyelesaian:**
+  1. Ingat 10 × 10 = 100.
+  2. Jadi √100 = 10.
+
 ---
 
 **8.** Selisih antara 5² dan 4² adalah …
@@ -141,6 +181,12 @@
 - **B** — Hanya menyebut 5² = 25 lalu lupa kurangi. Setengah jalan.
 - **C** — Mengira 4² = 4 (lupa kuadratkan). Salah konsep.
 - **D** — Benar. 5² = 25, 4² = 16, selisih = 25 − 16 = 9. Pola: selisih kuadrat berurutan = bilangan ganjil; di sini 2(4) + 1 = 9.
+
+- **Konsep kunci:** Selisih dua kuadrat berurutan dihitung setelah masing-masing dikuadratkan, bukan dari selisih bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 5² = 25 dan 4² = 16.
+  2. Kurangkan 25 − 16.
+  3. Hasilnya 9, sesuai pola 2n+1.
 
 ---
 
@@ -157,6 +203,12 @@
 - **C** — 40 = 4 × 10 atau 8 × 5. Bukan kuadrat sempurna. √40 ≈ 6,32.
 - **D** — 50 = 5 × 10 atau 25 × 2. Bukan kuadrat sempurna. √50 ≈ 7,07.
 
+- **Konsep kunci:** Kuadrat sempurna adalah hasil kali suatu bilangan bulat dengan dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi apakah punya akar bulat.
+  2. 25 = 5 × 5 cocok.
+  3. 30, 40, 50 tidak punya akar bulat.
+
 ---
 
 **10.** Pak Beni memiliki kebun berbentuk persegi dengan sisi 7 meter. Luas kebun tersebut adalah …
@@ -171,6 +223,12 @@
 - **B** — Mengira luas = 4 × sisi = 28. Salah, itu rumus keliling persegi.
 - **C** — Benar. Luas persegi = sisi × sisi = 7 × 7 = 49 m².
 - **D** — Mengira 7 × 3 = 21. Tidak jelas sumbernya — kemungkinan tertukar dengan rumus segitiga.
+
+- **Konsep kunci:** Luas persegi dihitung dengan mengalikan sisi dengan sisi.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus Luas = sisi × sisi.
+  2. Hitung 7 × 7.
+  3. Hasilnya 49 m².
 
 ---
 
@@ -187,6 +245,12 @@
 - **C** — Mengira 11² = 10² = 100. Geser angka, salah.
 - **D** — Benar. 11 × 11 = 121. Cara cepat: (10 + 1)² = 100 + 10 + 10 + 1 = 121.
 
+- **Konsep kunci:** Kuadrat bilangan dua digit dapat diuraikan menjadi bentuk penjumlahan puluhan dan satuan.
+- **Langkah Penyelesaian:**
+  1. Uraikan 11 = 10 + 1.
+  2. Hitung (10+1)² = 100 + 10 + 10 + 1.
+  3. Jumlahkan menjadi 121.
+
 ---
 
 **12.** √64 = …
@@ -201,6 +265,11 @@
 - **B** — Mengira 6² = 64. Salah, 6² = 36.
 - **C** — Mengira 16² = 64. Salah jauh, 16² = 256.
 - **D** — Mengira √64 = 64 ÷ 2 = 32. Akar bukan "bagi 2".
+
+- **Konsep kunci:** Akar kuadrat mencari bilangan yang dikalikan dirinya sendiri menghasilkan angka dalam akar.
+- **Langkah Penyelesaian:**
+  1. Ingat 8 × 8 = 64.
+  2. Jadi √64 = 8.
 
 ---
 
@@ -217,6 +286,12 @@
 - **C** — Mengira sisi = 36 ÷ 2 = 18. Itu rumus keliling persegi panjang separuh, bukan persegi.
 - **D** — Mengira sisi = 36 ÷ 4 = 9. Itu setengah keliling persegi (4s = 36 → s = 9), tapi luas ≠ keliling.
 
+- **Konsep kunci:** Mencari sisi persegi dari luasnya berarti menarik akar kuadrat dari luas tersebut.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus sisi = √luas.
+  2. Hitung √36.
+  3. Karena 6 × 6 = 36, sisi = 6 cm.
+
 ---
 
 **14.** Selisih antara 8² dan 7² adalah …
@@ -231,6 +306,12 @@
 - **B** — Hanya menyebut angka 7. Tidak menghitung.
 - **C** — Mengira 8² = 8. Lupa kuadratkan.
 - **D** — Benar. 8² = 64, 7² = 49, selisih = 64 − 49 = 15. Pola: 2(7) + 1 = 15.
+
+- **Konsep kunci:** Selisih dua kuadrat berurutan dihitung setelah masing-masing dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 8² = 64 dan 7² = 49.
+  2. Kurangkan 64 − 49.
+  3. Hasilnya 15.
 
 ---
 
@@ -248,6 +329,12 @@
 - **C** — 9 itu selisih ke-4. Hampir, tapi geser satu.
 - **D** — Benar. Selisih ke-5 = 6² − 5² = 36 − 25 = 11.
 
+- **Konsep kunci:** Selisih kuadrat bilangan berurutan membentuk pola bilangan ganjil berurutan.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih tiap pasangan berurutan: 3, 5, 7, 9, 11.
+  2. Urutkan sampai selisih ke-5.
+  3. Selisih ke-5 adalah 6² − 5² = 11.
+
 ---
 
 **16.** Hasil dari 15² adalah …
@@ -262,6 +349,12 @@
 - **B** — 15 × 7 = 105. Tidak jelas sumber; salah operasi.
 - **C** — Perkiraan kasar. 15² lebih dari 200 sedikit.
 - **D** — Benar. 15 × 15 = 225. Cara cepat angka berakhir 5: kalikan puluhan dengan puluhan + 1, lalu sambung "25". → 1 × 2 = 2, sambung 25 → 225.
+
+- **Konsep kunci:** Kuadrat bilangan berakhiran 5 punya trik cepat: puluhan × (puluhan+1) lalu sambung 25.
+- **Langkah Penyelesaian:**
+  1. Puluhan dari 15 adalah 1.
+  2. Hitung 1 × (1+1) = 2.
+  3. Sambungkan dengan 25 menjadi 225.
 
 ---
 
@@ -278,6 +371,11 @@
 - **C** — Mengira 14 × 10 = 140 jadi dekat. Salah, 14² = 196.
 - **D** — Mengira 144 ÷ 6 = 24. Itu pembagian, bukan akar.
 
+- **Konsep kunci:** Akar kuadrat mencari bilangan pengali dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Ingat 12 × 12 = 144.
+  2. Jadi √144 = 12.
+
 ---
 
 **18.** Berikut adalah bilangan kuadrat sempurna, **kecuali** …
@@ -292,6 +390,12 @@
 - **B** — 25 = 5², kuadrat sempurna.
 - **C** — Benar (jawaban "kecuali"). 32 = 2⁵ = 2 × 2 × 2 × 2 × 2; tidak bisa dibagi pasangan rapi, √32 ≈ 5,66.
 - **D** — 49 = 7², kuadrat sempurna.
+
+- **Konsep kunci:** Kuadrat sempurna adalah bilangan yang memiliki akar kuadrat bulat.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi: 16=4², 25=5², 49=7².
+  2. 32 tidak punya akar bulat (√32 ≈ 5,66).
+  3. Jadi 32 adalah pengecualian.
 
 ---
 
@@ -308,6 +412,11 @@
 - **C** — Benar. 13² = 169 (hafalkan: 13 × 13 = 169).
 - **D** — 14² = 196, kelebihan.
 
+- **Konsep kunci:** Mencari nilai n dari n² berarti menarik akar kuadrat dari bilangan tersebut.
+- **Langkah Penyelesaian:**
+  1. Coba bilangan berurutan: 11²=121, 12²=144, 13²=169.
+  2. Cocok pada n = 13.
+
 ---
 
 **20.** Sebuah ubin berbentuk persegi memiliki sisi 8 cm. Luas ubin tersebut adalah …
@@ -322,6 +431,12 @@
 - **B** — Benar. Luas = sisi × sisi = 8 × 8 = 64 cm².
 - **C** — Mengira 8 × 4 = 32. Itu rumus keliling.
 - **D** — Tidak jelas; mungkin 8 × 9. Salah operasi.
+
+- **Konsep kunci:** Luas persegi dihitung dengan mengalikan sisi dengan sisi.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus Luas = sisi × sisi.
+  2. Hitung 8 × 8.
+  3. Hasilnya 64 cm².
 
 ---
 
@@ -338,6 +453,12 @@
 - **C** — Mengira 49 + 1 atau hitung kasar. Salah hitung.
 - **D** — Mengira 7² = 14, 3² = 6, 14 − 6 = 8 tapi tulis 28. Konsep ² × 2, salah.
 
+- **Konsep kunci:** Kuadratkan dulu setiap bilangan sebelum dikurangkan; hasilnya beda jika dikurangkan dulu baru dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 7² = 49 dan 3² = 9.
+  2. Kurangkan 49 − 9.
+  3. Hasilnya 40.
+
 ---
 
 **22.** √121 = …
@@ -352,6 +473,11 @@
 - **B** — Benar. 11 × 11 = 121.
 - **C** — 12² = 144, kelebihan.
 - **D** — 13² = 169, jauh kelebihan.
+
+- **Konsep kunci:** Akar kuadrat mencari bilangan pengali dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Ingat 11 × 11 = 121.
+  2. Jadi √121 = 11.
 
 ---
 
@@ -368,6 +494,12 @@
 - **C** — Benar. 2² + 3² + 4² = 4 + 9 + 16 = 29.
 - **D** — Mengira (2 + 3 + 4)² = 9² = 81 lalu salah hitung jadi 27. Konsep dan hitung dua-duanya salah.
 
+- **Konsep kunci:** Jumlah beberapa kuadrat dihitung dengan mengkuadratkan tiap bilangan dulu, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 2²=4, 3²=9, 4²=16.
+  2. Jumlahkan 4 + 9 + 16.
+  3. Hasilnya 29.
+
 ---
 
 **24.** Bilangan kuadrat terkecil yang lebih besar dari 50 adalah …
@@ -382,6 +514,12 @@
 - **B** — Benar. 7² = 49 (kurang dari 50), 8² = 64 (lebih dari 50). 64 yang terkecil di atas 50.
 - **C** — 81 = 9², kuadrat, tapi bukan yang terkecil di atas 50.
 - **D** — 49 = 7², kuadrat tetapi LEBIH KECIL dari 50. Salah arah.
+
+- **Konsep kunci:** Mencari kuadrat sempurna terkecil di atas suatu batas dengan mengecek kuadrat berurutan.
+- **Langkah Penyelesaian:**
+  1. Cek 7² = 49 (masih di bawah 50).
+  2. Cek 8² = 64 (sudah di atas 50).
+  3. 64 adalah kuadrat terkecil yang lebih besar dari 50.
 
 ---
 
@@ -398,6 +536,12 @@
 - **C** — Mengira 4² × 3² = 4 × 3 = 12. Hanya mengkalikan basisnya, salah konsep.
 - **D** — Mengira (4 + 3)² = 7² = 49. Penjumlahan vs perkalian basis berbeda.
 
+- **Konsep kunci:** Perkalian dua kuadrat sama dengan kuadrat dari perkalian bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 4² = 16 dan 3² = 9.
+  2. Kalikan 16 × 9.
+  3. Hasilnya 144, sama dengan (4×3)² = 12² = 144.
+
 ---
 
 **26.** Akar kuadrat dari 225 adalah …
@@ -412,6 +556,11 @@
 - **B** — 13² = 169.
 - **C** — Benar. 15 × 15 = 225. Trik: berakhir 5, jadi puluhan 1 × (1+1) = 2, sambung 25 → 225.
 - **D** — 17² = 289.
+
+- **Konsep kunci:** Kuadrat bilangan berakhiran 5 dapat dicari dengan trik puluhan × (puluhan+1) lalu sambung 25.
+- **Langkah Penyelesaian:**
+  1. Ingat 15 × 15 = 225 (trik: puluhan 1 × 2 = 2, sambung 25).
+  2. Jadi √225 = 15.
 
 ---
 
@@ -428,6 +577,12 @@
 - **C** — Mengira 13² = 14² = 196. Geser satu, salah.
 - **D** — Mengira 13² = 12² = 144. Geser satu sebelahnya, salah.
 
+- **Konsep kunci:** Kuadrat dua digit diuraikan menjadi penjumlahan puluhan dan satuan.
+- **Langkah Penyelesaian:**
+  1. Uraikan 13 = 10 + 3.
+  2. Hitung (10+3)² = 100 + 30 + 30 + 9.
+  3. Jumlahkan menjadi 169.
+
 ---
 
 **28.** Sebuah lapangan persegi memiliki luas 100 m². Panjang sisinya adalah …
@@ -442,6 +597,12 @@
 - **B** — Mengira sisi = 100 ÷ 2 = 50. Akar bukan "bagi 2".
 - **C** — Mengira sisi = 100 ÷ 5 = 20. Tidak ada dasar; salah operasi.
 - **D** — Benar. Sisi = √luas = √100 = 10 m.
+
+- **Konsep kunci:** Sisi persegi dicari dengan menarik akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus sisi = √luas.
+  2. Hitung √100.
+  3. Karena 10 × 10 = 100, sisi = 10 m.
 
 ---
 
@@ -458,6 +619,12 @@
 - **C** — Lupa menambah 5². Hanya menulis 10² = 100.
 - **D** — Mengira 10² = 100, 5² = 50 (salah hitung kuadrat). 100 + 50 = 150. Salah hitung 5².
 
+- **Konsep kunci:** Jumlahkan hasil kuadrat masing-masing bilangan, jangan menjumlahkan bilangannya dulu baru dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 10² = 100 dan 5² = 25.
+  2. Jumlahkan 100 + 25.
+  3. Hasilnya 125.
+
 ---
 
 **30.** √256 = …
@@ -472,6 +639,12 @@
 - **B** — 15² = 225, masih kurang.
 - **C** — 17² = 289, kelebihan.
 - **D** — Benar. 16 × 16 = 256. Cara cepat: (15 + 1)² = 225 + 15 + 15 + 1 = 256.
+
+- **Konsep kunci:** Akar kuadrat bilangan besar dapat dicari dengan trik penguraian (a+b)².
+- **Langkah Penyelesaian:**
+  1. Uraikan 16 = 15 + 1.
+  2. Hitung (15+1)² = 225 + 15 + 15 + 1.
+  3. Jadi √256 = 16.
 
 ---
 
@@ -489,6 +662,12 @@
 - **C** — Mengira b = √100 = 10 (langsung akar dari total). Lupa kurangi dulu 36.
 - **D** — Mengira b = 100 − 6 × 2 = 88 lalu salah akar. Konsep keliru.
 
+- **Konsep kunci:** Mencari bilangan yang belum diketahui dalam persamaan kuadrat dengan mengurangkan lalu menarik akar.
+- **Langkah Penyelesaian:**
+  1. Hitung 6² = 36.
+  2. Kurangkan 100 − 36 = 64 untuk mendapat b².
+  3. Tarik akar: b = √64 = 8.
+
 ---
 
 **32.** Bilangan kuadrat sempurna yang paling dekat dengan 50 adalah …
@@ -505,6 +684,12 @@
 - **C** — 64 selisihnya 14 dari 50. Sama jaraknya dengan 36.
 - **D** — Benar. 49 selisihnya hanya 1 dari 50, yang paling dekat.
 
+- **Konsep kunci:** Membandingkan selisih tiap kuadrat sempurna terhadap suatu bilangan untuk menemukan yang terdekat.
+- **Langkah Penyelesaian:**
+  1. Daftar kuadrat di sekitar 50: 36, 49, 64.
+  2. Hitung selisih masing-masing terhadap 50: 14, 1, 14.
+  3. 49 punya selisih terkecil (1), jadi paling dekat.
+
 ---
 
 **33.** Hasil dari 14² adalah …
@@ -519,6 +704,12 @@
 - **B** — Mengira 14² = 13² = 169. Geser satu.
 - **C** — Mengira 14² = 12² = 144. Geser dua.
 - **D** — 14 × 2 = 28. Bukan kuadrat.
+
+- **Konsep kunci:** Kuadrat dua digit diuraikan menjadi penjumlahan puluhan dan satuan.
+- **Langkah Penyelesaian:**
+  1. Uraikan 14 = 10 + 4.
+  2. Hitung (10+4)² = 100 + 40 + 40 + 16.
+  3. Jumlahkan menjadi 196.
 
 ---
 
@@ -535,6 +726,11 @@
 - **C** — Benar. 14 × 14 = 196.
 - **D** — 16² = 256, kelebihan.
 
+- **Konsep kunci:** Akar kuadrat mencari bilangan pengali dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Ingat 14 × 14 = 196.
+  2. Jadi √196 = 14.
+
 ---
 
 **35.** Bilangan berikut yang BUKAN kuadrat sempurna adalah …
@@ -550,6 +746,12 @@
 - **C** — 100 = 10², kuadrat sempurna.
 - **D** — Benar (BUKAN). 90 = 9 × 10, tidak ada n bulat yang n² = 90. √90 ≈ 9,49.
 
+- **Konsep kunci:** Kuadrat sempurna adalah bilangan yang memiliki akar kuadrat bulat.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi: 36=6², 81=9², 100=10².
+  2. 90 tidak punya akar bulat (√90 ≈ 9,49).
+  3. Jadi 90 bukan kuadrat sempurna.
+
 ---
 
 **36.** Hasil dari (2²)² adalah …
@@ -564,6 +766,12 @@
 - **B** — Hanya menghitung 2² = 4 dan berhenti.
 - **C** — Mengira 2² × 2 = 12 (salah operasi).
 - **D** — Benar. 2² = 4, lalu 4² = 16. Atau gunakan aturan pangkat: (2²)² = 2⁴ = 16.
+
+- **Konsep kunci:** Kuadrat dari kuadrat berarti mengkuadratkan hasil kuadrat sebelumnya.
+- **Langkah Penyelesaian:**
+  1. Hitung 2² = 4 dulu.
+  2. Kuadratkan hasilnya: 4² = 16.
+  3. Jadi (2²)² = 16.
 
 ---
 
@@ -581,6 +789,12 @@
 - **C** — Mengira 100 ÷ 2 = 50. Bagi dua, bukan akar.
 - **D** — Mengira 100 ÷ 5 = 20. Salah operasi.
 
+- **Konsep kunci:** Menyusun sejumlah benda menjadi bentuk persegi berarti mencari akar kuadrat dari jumlah totalnya.
+- **Langkah Penyelesaian:**
+  1. Total keramik = 100.
+  2. Sisi persegi = √100.
+  3. Karena 10 × 10 = 100, tiap sisi berisi 10 keramik.
+
 ---
 
 **38.** Akar dari 400 adalah …
@@ -596,6 +810,11 @@
 - **C** — Benar. 20 × 20 = 400.
 - **D** — Mengira √400 = 400 ÷ 2 = 200. Akar bukan bagi 2.
 
+- **Konsep kunci:** Akar kuadrat bilangan ratusan sering berupa bilangan bulat sederhana.
+- **Langkah Penyelesaian:**
+  1. Ingat 20 × 20 = 400.
+  2. Jadi √400 = 20.
+
 ---
 
 **39.** Hasil dari 5² × 2² adalah …
@@ -610,6 +829,12 @@
 - **B** — Mengira 5² × 2² = 10 + 60 atau salah hitung. Tidak konsisten.
 - **C** — Mengira 5 × 2 × 5 = 50 (kurang satu faktor).
 - **D** — Mengira (5 + 2)² × konstan = 200. Tidak logis.
+
+- **Konsep kunci:** Perkalian dua kuadrat sama dengan kuadrat dari perkalian bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 5² = 25 dan 2² = 4.
+  2. Kalikan 25 × 4.
+  3. Hasilnya 100, sama dengan (5×2)² = 10² = 100.
 
 ---
 
@@ -627,6 +852,12 @@
 - **C** — Mengira 14² = 196 (geser satu).
 - **D** — Tidak menambah apa-apa. Sama dengan 12². Salah.
 
+- **Konsep kunci:** Kuadrat bilangan berikutnya bisa dicari dengan menambahkan selisih ganjil (2n+1) pada kuadrat sebelumnya.
+- **Langkah Penyelesaian:**
+  1. Selisih 13² dan 12² adalah 2(12)+1 = 25.
+  2. Tambahkan pada 144: 144 + 25.
+  3. Hasilnya 169.
+
 ---
 
 **41.** Hasil dari √36 + √64 adalah …
@@ -641,6 +872,12 @@
 - **B** — Mengira √(36 + 64) = √100 = 10. Akar TIDAK boleh dijumlah dulu.
 - **C** — Hanya menghitung 6 + 8 lalu salah tulis. Atau 8 + 8.
 - **D** — Mengira √36 = 36 ÷ 2 = 18, √64 = 32, jumlah 50. Akar bukan bagi 2.
+
+- **Konsep kunci:** Akar dari beberapa bilangan dijumlahkan setelah masing-masing ditarik akarnya, bukan dijumlahkan dulu di dalam akar.
+- **Langkah Penyelesaian:**
+  1. Hitung √36 = 6.
+  2. Hitung √64 = 8.
+  3. Jumlahkan 6 + 8 = 14.
 
 ---
 
@@ -658,6 +895,12 @@
 - **C** — Salah hitung 25² jadi 525, jumlah 12.
 - **D** — Mengira 25² = 725, jumlah 14. Salah kuadrat.
 
+- **Konsep kunci:** Menghitung kuadrat suatu bilangan dulu, baru menjumlahkan digit-digit hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung 25² = 625.
+  2. Jumlahkan digit: 6 + 2 + 5.
+  3. Hasilnya 13.
+
 ---
 
 **43.** Bilangan kuadrat ke-7 (dimulai dari 1²) adalah …
@@ -673,6 +916,12 @@
 - **B** — Benar. 7² = 49 adalah kuadrat ke-7.
 - **C** — 64 = 8², ke-8. Geser satu.
 - **D** — 81 = 9², ke-9. Geser dua.
+
+- **Konsep kunci:** Urutan bilangan kuadrat dimulai dari 1² sebagai suku pertama.
+- **Langkah Penyelesaian:**
+  1. Susun urutan 1², 2², ..., 7².
+  2. Hitung suku ke-7 yaitu 7².
+  3. 7² = 49.
 
 ---
 
@@ -690,6 +939,12 @@
 - **C** — Benar. K = 4 × 13 = 52 cm.
 - **D** — Mengira keliling = 4 × luas = 676. Salah rumus.
 
+- **Konsep kunci:** Keliling persegi dicari dengan mengalikan sisi (hasil akar dari luas) dengan 4.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √169 = 13 cm.
+  2. Gunakan rumus keliling = 4 × sisi.
+  3. Hitung 4 × 13 = 52 cm.
+
 ---
 
 **45.** Hasil dari 16² adalah …
@@ -705,6 +960,12 @@
 - **C** — 14² = 196 (geser dua).
 - **D** — 13² = 169 (geser tiga).
 
+- **Konsep kunci:** Kuadrat bilangan besar dapat dicari dengan trik penguraian (a+b)².
+- **Langkah Penyelesaian:**
+  1. Uraikan 16 = 15 + 1.
+  2. Hitung (15+1)² = 225 + 15 + 15 + 1.
+  3. Jumlahkan menjadi 256.
+
 ---
 
 **46.** √324 = …
@@ -719,6 +980,12 @@
 - **B** — 17² = 289, kurang.
 - **C** — 19² = 361, kelebihan.
 - **D** — Benar. 18 × 18 = 324. (18)² = (20 − 2)² = 400 − 80 + 4 = 324.
+
+- **Konsep kunci:** Kuadrat bilangan besar dapat dicari dengan trik penguraian (a−b)².
+- **Langkah Penyelesaian:**
+  1. Uraikan 18 = 20 − 2.
+  2. Hitung (20−2)² = 400 − 80 + 4.
+  3. Jadi √324 = 18.
 
 ---
 
@@ -736,6 +1003,12 @@
 - **C** — Hanya menulis sisi 12, lupa cari keliling.
 - **D** — Mengira 2 × sisi = 24. Itu setengah keliling.
 
+- **Konsep kunci:** Menghitung jumlah tiang pagar keliling persegi memerlukan sisi (dari akar luas) dan keliling.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √144 = 12 m.
+  2. Hitung keliling = 4 × 12 = 48 m.
+  3. Karena tiang di sudut berjarak 1 m pada bentuk tertutup, banyak tiang = keliling = 48.
+
 ---
 
 **48.** Hasil dari 20² adalah …
@@ -750,6 +1023,12 @@
 - **B** — Mengira 20² = 200. Salah satu digit nol.
 - **C** — Benar. 20 × 20 = 400. Trik: 2 × 2 = 4, sambung dua nol → 400.
 - **D** — Mengira 20² × 2 = 800. Berlebihan.
+
+- **Konsep kunci:** Kuadrat bilangan puluhan bulat dapat dihitung dengan mengalikan angka depan lalu menyambung nolnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan angka depan 2 × 2 = 4.
+  2. Sambung dua angka nol dari 20 × 20.
+  3. Hasilnya 400.
 
 ---
 
@@ -766,6 +1045,12 @@
 - **C** — Mengira √900 = 90. Tapi 90² = 8100, jauh.
 - **D** — Mengira √900 = 900 ÷ 3 = 300. Salah operasi.
 
+- **Konsep kunci:** Akar bilangan ratusan bulat dapat dicari dengan mengalikan akar angka depan lalu menyambung nolnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan angka depan 3 × 3 = 9.
+  2. Sambung dua nol karena 900 punya dua nol.
+  3. Jadi √900 = 30.
+
 ---
 
 **50.** Hasil dari 8² − 5² adalah …
@@ -780,6 +1065,12 @@
 - **B** — Benar. 8² = 64, 5² = 25, 64 − 25 = 39.
 - **C** — Hanya menulis 8² = 64 tanpa kurangi.
 - **D** — Mengira 64 + 25 = 89 (penjumlahan, bukan pengurangan). Salah operator.
+
+- **Konsep kunci:** Selisih dua kuadrat dihitung setelah masing-masing dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 8² = 64 dan 5² = 25.
+  2. Kurangkan 64 − 25.
+  3. Hasilnya 39.
 
 ---
 
@@ -799,6 +1090,12 @@
 - **C** — 26² = 676, kelebihan.
 - **D** — 28² = 784, jauh kelebihan.
 
+- **Konsep kunci:** Akar kuadrat dapat dicari dengan faktorisasi prima, memasangkan faktor yang sama lalu mengambil satu dari tiap pasangan.
+- **Langkah Penyelesaian:**
+  1. Uraikan 576 menjadi faktor prima: 2⁶ × 3².
+  2. Pasangkan menjadi (2³ × 3)².
+  3. Jadi √576 = 2³ × 3 = 24.
+
 ---
 
 **52.** Sebuah persegi memiliki luas 625 cm². Berapa keliling persegi tersebut?
@@ -814,6 +1111,12 @@
 - **B** — Mengira 3 × 25 = 75. Bukan rumus persegi.
 - **C** — Benar. K = 4 × 25 = 100 cm.
 - **D** — Mengira keliling = 5 × 25 = 125. Salah rumus.
+
+- **Konsep kunci:** Sisi persegi dicari dari akar luasnya, lalu keliling dihitung dengan 4 × sisi.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √625 = 25 cm (trik akhiran 5).
+  2. Hitung keliling = 4 × 25.
+  3. Hasilnya 100 cm.
 
 ---
 
@@ -831,6 +1134,12 @@
 - **C** — 5² + 6² = 25 + 36 = 61, sedangkan 7² = 49. Tidak sama.
 - **D** — 4² + 5² = 16 + 25 = 41, sedangkan 6² = 36. Tidak sama.
 
+- **Konsep kunci:** Tripel Pythagoras memenuhi rumus a² + b² = c².
+- **Langkah Penyelesaian:**
+  1. Uji tiap opsi dengan rumus a² + b² = c².
+  2. Untuk 3, 4, 5: 3²+4² = 9+16 = 25 = 5².
+  3. Cocok, jadi ini tripel Pythagoras.
+
 ---
 
 **54.** Bila n² = 729, nilai n adalah …
@@ -845,6 +1154,12 @@
 - **B** — 25² = 625, kurang.
 - **C** — Benar. 27 × 27 = 729. Faktorisasi: 729 = 3⁶ = (3³)² = 27².
 - **D** — 29² = 841, kelebihan.
+
+- **Konsep kunci:** Akar kuadrat dapat dicari melalui faktorisasi prima atau uji coba bilangan berurutan.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 729 = 3⁶ = (3³)².
+  2. Jadi n = 3³ = 27.
+  3. Verifikasi 27 × 27 = 729.
 
 ---
 
@@ -862,6 +1177,12 @@
 - **C** — Hanya menyebut (3 + 4)² = 49 tanpa mengurangi.
 - **D** — Benar. 2ab = 2 × 3 × 4 = 24, itulah selisihnya.
 
+- **Konsep kunci:** (a+b)² tidak sama dengan a²+b²; selisih keduanya adalah 2ab.
+- **Langkah Penyelesaian:**
+  1. Hitung (3+4)² = 7² = 49.
+  2. Hitung 3²+4² = 9+16 = 25.
+  3. Kurangkan 49 − 25 = 24, sama dengan 2×3×4.
+
 ---
 
 **56.** Sebuah kotak berbentuk kubus memiliki sisi 9 cm. Luas salah satu sisinya adalah …
@@ -877,6 +1198,12 @@
 - **B** — Mengira luas = 4 × sisi = 36. Itu keliling.
 - **C** — Mengira luas = 8 × 9 = 72. Salah operasi.
 - **D** — Benar. Luas persegi sisi = 81 cm².
+
+- **Konsep kunci:** Setiap sisi kubus berbentuk persegi sehingga luasnya dihitung dengan sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus luas persegi = sisi × sisi.
+  2. Hitung 9 × 9.
+  3. Hasilnya 81 cm².
 
 ---
 
@@ -894,6 +1221,12 @@
 - **C** — Mengira √(169 − 25) = √144 = 12, lalu salah tulis 10. Konsep akar selisih ≠ selisih akar.
 - **D** — Mengira √144 = 12 (akar dari 169 − 25). Konsep keliru — akar tidak bisa dipakai begitu.
 
+- **Konsep kunci:** Tarik akar masing-masing bilangan dulu, baru kurangkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √169 = 13.
+  2. Hitung √25 = 5.
+  3. Kurangkan 13 − 5 = 8.
+
 ---
 
 **58.** Antara dua kotak berisi 49 dan 64 kelereng, selisih jumlah kelereng dalam pola √isi adalah …
@@ -909,6 +1242,12 @@
 - **B** — Hanya menulis √64 = 8.
 - **C** — Benar. 8 − 7 = 1.
 - **D** — Mengira selisih 64 − 49 = 15 (selisih kotaknya, bukan akarnya). Salah baca soal.
+
+- **Konsep kunci:** Tarik akar masing-masing bilangan dulu, baru selisihkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √49 = 7 dan √64 = 8.
+  2. Kurangkan 8 − 7.
+  3. Hasilnya 1.
 
 ---
 
@@ -926,6 +1265,12 @@
 - **C** — 100 berakhir 0, 121 berakhir 1, 144 berakhir 4. Tidak ada 6.
 - **D** — 4 berakhir 4, 64 berakhir 4, 144 berakhir 4. Tidak ada 6.
 
+- **Konsep kunci:** Digit terakhir hasil kuadrat ditentukan oleh digit terakhir bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Cek digit akhir tiap bilangan dasar: 4²=16, 6²=36, 14²=196.
+  2. Semua berakhiran 6.
+  3. Pilih opsi yang seluruh anggotanya berakhiran 6.
+
 ---
 
 **60.** Lia menabung uang dalam celengan persegi. Tahun pertama ia menabung 49 keping, tahun kedua bertambah jadi persegi sisi berikutnya. Berapa keping yang ia tabung di tahun kedua?
@@ -941,6 +1286,12 @@
 - **B** — Mengira tambah 10 sembarang. Tidak berdasar.
 - **C** — Mengira 49 + 21 = 70. Sembarang.
 - **D** — Benar. 8² = 64 keping.
+
+- **Konsep kunci:** Bilangan kuadrat berikutnya diperoleh dari sisi berikutnya (n+1)², bukan ditambah angka sembarang.
+- **Langkah Penyelesaian:**
+  1. Kenali 49 = 7².
+  2. Cari kuadrat berikutnya: (7+1)² = 8².
+  3. Hitung 8² = 64.
 
 ---
 
@@ -958,6 +1309,12 @@
 - **C** — Benar. √1024 = 32.
 - **D** — 34² = 1156, kelebihan.
 
+- **Konsep kunci:** Akar kuadrat dapat dicari dengan faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Uraikan 1024 = 2¹⁰.
+  2. Pasangkan menjadi (2⁵)².
+  3. Jadi √1024 = 2⁵ = 32.
+
 ---
 
 **62.** Pernyataan berikut yang BENAR adalah …
@@ -973,6 +1330,12 @@
 - **B** — Benar. √36 × √4 = 6 × 2 = 12 dan √144 = 12. Cocok.
 - **C** — √81 − √16 = 9 − 4 = 5, sedangkan √65 ≈ 8,06. Tidak sama.
 - **D** — √(49 + 9) = √58 ≈ 7,6, sedangkan √49 + √9 = 7 + 3 = 10. Tidak sama.
+
+- **Konsep kunci:** Aturan perkalian akar √a × √b = √(ab) berlaku, tetapi penjumlahan atau pengurangan akar tidak bisa digabung langsung di dalam satu akar.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pernyataan dengan menghitung kedua ruas.
+  2. Untuk opsi B: √36 × √4 = 6×2 = 12 dan √144 = 12, sama.
+  3. Opsi lain gagal saat diuji sehingga B yang benar.
 
 ---
 
@@ -990,6 +1353,12 @@
 - **C** — Mengira 81 + 16 = 97 lalu akar perkiraan ≈ 30. Salah konsep.
 - **D** — Hanya 81 ÷ 16 perkiraan; salah operasi.
 
+- **Konsep kunci:** Akar dari perkalian dua bilangan sama dengan perkalian akar masing-masing bilangan.
+- **Langkah Penyelesaian:**
+  1. Pisahkan √81 dan √16.
+  2. Hitung 9 × 4.
+  3. Hasilnya 36.
+
 ---
 
 **64.** Sebuah persegi A memiliki sisi 6 cm. Persegi B sisinya 3 kali persegi A. Perbandingan luas A : B adalah …
@@ -1006,6 +1375,12 @@
 - **C** — Mengira perbandingan luas = perbandingan sisi (1 : 3). Salah, luas ikut KUADRAT skala.
 - **D** — Mengira tambah konstanta. Tidak berdasar.
 
+- **Konsep kunci:** Jika sisi persegi dikalikan suatu faktor, luasnya berubah sebesar kuadrat faktor tersebut.
+- **Langkah Penyelesaian:**
+  1. Hitung luas A = 6² = 36.
+  2. Sisi B = 3 × 6 = 18, luas B = 18² = 324.
+  3. Sederhanakan perbandingan 36:324 menjadi 1:9.
+
 ---
 
 **65.** Akar kuadrat dari 1521 adalah …
@@ -1021,6 +1396,12 @@
 - **B** — 38² = 1444, kurang.
 - **C** — Benar. 39 × 39 = 1521.
 - **D** — 41² = 1681, kelebihan.
+
+- **Konsep kunci:** Akar kuadrat dapat dicari dengan uji coba bilangan berurutan di sekitar taksiran.
+- **Langkah Penyelesaian:**
+  1. Taksir batas: 38²=1444, 40²=1600.
+  2. Coba 39² = 1521.
+  3. Cocok, jadi √1521 = 39.
 
 ---
 
@@ -1039,6 +1420,12 @@
 - **C** — Mengira 1 ubin = 0,04 m². Salah konversi.
 - **D** — Benar. 64 ubin.
 
+- **Konsep kunci:** Soal cerita ubin memerlukan konversi satuan luas yang konsisten sebelum dibagi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 ubin = 25 × 25 = 625 cm².
+  2. Konversi luas lantai 4 m² = 40.000 cm².
+  3. Bagi 40.000 ÷ 625 = 64 ubin.
+
 ---
 
 **67.** Hasil dari √(144) ÷ √(36) adalah …
@@ -1054,6 +1441,12 @@
 - **B** — Mengira √(144 − 36) = √108 ≈ 10,4. Tidak match opsi, tetapi salah konsep.
 - **C** — Hanya menulis √36 = 6.
 - **D** — Salah hitung 12 − 4. Tidak konsisten.
+
+- **Konsep kunci:** Pembagian dua akar sama dengan akar dari hasil pembagian bilangan di dalamnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √144 = 12 dan √36 = 6.
+  2. Bagi 12 ÷ 6.
+  3. Hasilnya 2.
 
 ---
 
@@ -1071,6 +1464,12 @@
 - **C** — Benar. n = 8.
 - **D** — Mengira n = √100 = 10. Lupa kurangi 36.
 
+- **Konsep kunci:** Mencari n dengan mengisolasi n² lalu menarik akarnya.
+- **Langkah Penyelesaian:**
+  1. Kurangkan 100 − 36 = 64 untuk mendapat n².
+  2. Tarik akar: n = √64.
+  3. Hasilnya 8.
+
 ---
 
 **69.** Sebuah segitiga siku-siku memiliki dua sisi tegak 6 cm dan 8 cm. Sisi miringnya adalah …
@@ -1086,6 +1485,12 @@
 - **B** — Mengira 6 + 8 − 5 = 9. Tidak berdasar.
 - **C** — Benar. 10 cm (tripel 6-8-10).
 - **D** — Mengira c = 6 + 8 = 14. Salah; sisi miring SELALU kurang dari jumlah dua sisi lain.
+
+- **Konsep kunci:** Sisi miring segitiga siku-siku dicari dengan rumus Pythagoras c² = a² + b².
+- **Langkah Penyelesaian:**
+  1. Hitung 6²+8² = 36+64 = 100.
+  2. Tarik akar: c = √100.
+  3. Hasilnya 10 cm.
 
 ---
 
@@ -1103,6 +1508,12 @@
 - **C** — Benar. 15² = 225 > 200, dan itu yang TERKECIL.
 - **D** — 16² = 256, juga > 200, tetapi bukan TERKECIL.
 
+- **Konsep kunci:** Mencari bilangan kuadrat terkecil yang melampaui suatu batas dengan mengecek berurutan.
+- **Langkah Penyelesaian:**
+  1. Uji 13² = 169 (belum lebih dari 200).
+  2. Uji 14² = 196 (masih belum).
+  3. Uji 15² = 225 (sudah lebih dan merupakan yang terkecil).
+
 ---
 
 **71.** Hasil dari 18² adalah …
@@ -1117,6 +1528,12 @@
 - **B** — 16² = 256.
 - **C** — 17² = 289.
 - **D** — 19² = 361. Geser satu kelebihan.
+
+- **Konsep kunci:** Kuadrat bilangan besar dapat dicari dengan trik penguraian (a−b)².
+- **Langkah Penyelesaian:**
+  1. Uraikan 18 = 20 − 2.
+  2. Hitung (20−2)² = 400 − 80 + 4.
+  3. Hasilnya 324.
 
 ---
 
@@ -1134,6 +1551,12 @@
 - **C** — 25 + 10 = 35. Salah pola.
 - **D** — Benar. 25 + 11 = 36 = 6². (Selisih ganjil ke-5 = 11.)
 
+- **Konsep kunci:** Barisan ini adalah barisan bilangan kuadrat berurutan (1², 2², 3², ...).
+- **Langkah Penyelesaian:**
+  1. Kenali pola sebagai n².
+  2. Suku setelah 5² = 25 adalah 6².
+  3. Hitung 6² = 36.
+
 ---
 
 **73.** Pernyataan: "Selisih dua bilangan kuadrat berturut-turut selalu bilangan ganjil." Pernyataan ini …
@@ -1150,6 +1573,12 @@
 - **C** — Salah; tidak tergantung, semua sama polanya.
 - **D** — Benar. Selalu ganjil (bentuk 2n+1).
 
+- **Konsep kunci:** Selisih dua kuadrat berurutan dapat dibuktikan secara aljabar selalu berbentuk 2n+1 yang pasti ganjil.
+- **Langkah Penyelesaian:**
+  1. Tulis rumus (n+1)² − n².
+  2. Sederhanakan menjadi 2n + 1.
+  3. Karena 2n selalu genap, 2n+1 selalu ganjil untuk semua n.
+
 ---
 
 **74.** Jika 3 × n² = 75, maka n = …
@@ -1165,6 +1594,12 @@
 - **B** — Mengira n² = 16, n = 4. Salah hitung pembagian.
 - **C** — Benar. n = 5.
 - **D** — Mengira n² = 36, n = 6. Salah pembagian.
+
+- **Konsep kunci:** Mengisolasi n² dengan membagi lebih dulu sebelum menarik akar.
+- **Langkah Penyelesaian:**
+  1. Bagi 75 ÷ 3 = 25 untuk mendapat n².
+  2. Tarik akar: n = √25.
+  3. Hasilnya 5.
 
 ---
 
@@ -1183,6 +1618,12 @@
 - **C** — Salah hitung 25 + 144 jadi 145 (kurang 24). Aritmetika keliru.
 - **D** — Mengira (5 + 12)² = 17² = 289. Salah konsep penjumlahan kuadrat.
 
+- **Konsep kunci:** Menjumlahkan luas dua persegi berarti menjumlahkan hasil kuadrat masing-masing sisinya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 = 5² = 25.
+  2. Hitung luas 2 = 12² = 144.
+  3. Jumlahkan 25 + 144 = 169.
+
 ---
 
 **76.** √2500 = …
@@ -1198,6 +1639,12 @@
 - **B** — 40² = 1600, kurang.
 - **C** — 45² = 2025, kurang.
 - **D** — Benar. 50 × 50 = 2500.
+
+- **Konsep kunci:** Akar dari bilangan yang dapat diuraikan menjadi perkalian dua kuadrat sempurna dicari dengan memisah akarnya.
+- **Langkah Penyelesaian:**
+  1. Uraikan 2500 = 25 × 100.
+  2. Tarik akar masing-masing: √25=5, √100=10.
+  3. Kalikan 5 × 10 = 50.
 
 ---
 
@@ -1216,6 +1663,12 @@
 - **C** — Mengira luas 500 m², salah baca soal.
 - **D** — Mengira hanya sisi (22 m) × Rp 1 juta = Rp 22 juta. Salah konsep luas vs sisi.
 
+- **Konsep kunci:** Harga total dihitung dengan mengalikan luas dengan harga per satuan setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Hitung harga setelah diskon: ½ × 200.000 = 100.000.
+  2. Kalikan dengan luas: 484 × 100.000.
+  3. Hasilnya Rp48.400.000.
+
 ---
 
 **78.** Hasil √361 + √441 adalah …
@@ -1231,6 +1684,12 @@
 - **B** — Benar. 40.
 - **C** — Salah hitung 20 + 21 = 41. Atau salah identifikasi akar.
 - **D** — Salah hitung 21 + 21 = 42.
+
+- **Konsep kunci:** Tarik akar tiap bilangan dulu, baru jumlahkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √361 = 19.
+  2. Hitung √441 = 21.
+  3. Jumlahkan 19 + 21 = 40.
 
 ---
 
@@ -1248,6 +1707,12 @@
 - **C** — Benar. 256 dan 289 keduanya antara 200 dan 300. (Catatan: opsi ini menggambarkan dua dari tiga. Asumsi soal menerima 256 dan 289 sebagai jawaban karena hanya ini yang LEBIH BESAR dari 225 yang juga ditampilkan opsi lain — kunci tetap C karena setiap angka di C valid berada di rentang.) Pilih C jika ragu antara B vs C; pembuat soal sering memilih dua kuadrat yang berurutan tertinggi.
 - **D** — 196 < 200, tidak masuk; merusak opsi.
 
+- **Konsep kunci:** Mengenali bilangan kuadrat sempurna yang berada dalam suatu rentang tertentu dengan mengecek kuadrat berurutan.
+- **Langkah Penyelesaian:**
+  1. Daftar kuadrat di sekitar rentang: 14²=196, 15²=225, 16²=256, 17²=289, 18²=324.
+  2. Pilih yang berada di antara 200 dan 300.
+  3. 256 dan 289 memenuhi rentang tersebut.
+
 ---
 
 **80.** Pernyataan yang BENAR tentang akar kuadrat adalah …
@@ -1263,6 +1728,12 @@
 - **B** — Benar. √(a²) = a untuk a ≥ 0. Akar kuadrat membatalkan kuadrat.
 - **C** — Salah. Yang benar √a × √b = √(ab), bukan a × b.
 - **D** — Salah. (√a)² = a, bukan 2a.
+
+- **Konsep kunci:** Menarik akar dari suatu kuadrat akan mengembalikan bilangan aslinya, untuk bilangan tidak negatif.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pernyataan dengan angka contoh.
+  2. Untuk opsi B, √(a²) = a berlaku selama a ≥ 0.
+  3. Opsi lain terbukti salah lewat contoh angka.
 
 ---
 
@@ -1282,6 +1753,12 @@
 - **C** — Mengira luas taman 2 = 81, sisi = 9. Salah hitung.
 - **D** — Mengira sisi total = √100 = 10. Lupa kurangi taman 1.
 
+- **Konsep kunci:** Mencari sisi kedua berarti mengurangkan luas total dengan luas pertama, baru menarik akar.
+- **Langkah Penyelesaian:**
+  1. Hitung luas taman 1 = 6² = 36.
+  2. Kurangkan 100 − 36 = 64 untuk luas taman 2.
+  3. Tarik akar: sisi 2 = √64 = 8 m.
+
 ---
 
 **82.** Dalam sebuah pola, angka ke-1 = 1², angka ke-2 = (1 + 3)² = 16, angka ke-3 = (1 + 3 + 5)² = 81. Berapa angka ke-4?
@@ -1299,6 +1776,12 @@
 - **C** — 14² = 196.
 - **D** — Benar. 4⁴ = 256.
 
+- **Konsep kunci:** Pola ini adalah kuadrat dari kuadrat, yaitu pangkat empat bilangan urutan.
+- **Langkah Penyelesaian:**
+  1. Kenali pola angka ke-n = (n²)² = n⁴.
+  2. Untuk n = 4, hitung 4² = 16 dulu.
+  3. Kuadratkan lagi: 16² = 256.
+
 ---
 
 **83.** Selisih kuadrat dua bilangan asli berturut-turut adalah 25. Bilangan yang lebih besar adalah …
@@ -1314,6 +1797,12 @@
 - **B** — n = 12 itu yang kecil, bukan yang besar.
 - **C** — Benar. 13.
 - **D** — Mengira 14² − 13² = 27, geser. Salah hitung.
+
+- **Konsep kunci:** Selisih dua kuadrat berurutan (n+1)² − n² = 2n+1 dapat dipakai untuk mencari n.
+- **Langkah Penyelesaian:**
+  1. Selesaikan 2n+1 = 25 sehingga n = 12.
+  2. Bilangan yang lebih besar adalah n+1.
+  3. Hitung 12+1 = 13.
 
 ---
 
@@ -1331,6 +1820,12 @@
 - **C** — Mengira 1 dm² = 1 m². Salah.
 - **D** — Mengira bagi 1000. Salah faktor.
 
+- **Konsep kunci:** Konversi satuan luas menggunakan faktor kuadrat dari konversi satuan panjang.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m = 10 dm sehingga 1 m² = 10² = 100 dm².
+  2. Bagi 900 ÷ 100.
+  3. Hasilnya 9 m².
+
 ---
 
 **85.** Tiga bilangan kuadrat berturut-turut jumlahnya 50. Bilangan yang di tengah adalah …
@@ -1346,6 +1841,12 @@
 - **B** — Benar. 16 = 4², yang di tengah.
 - **C** — 4 = 2². Bukan bagian dari tiga kuadrat berturut-turut ini.
 - **D** — 25 = 5², tetangga ke kanan. Bukan tengah.
+
+- **Konsep kunci:** Mencari tiga kuadrat berurutan yang jumlahnya diketahui dengan mencoba nilai tengah.
+- **Langkah Penyelesaian:**
+  1. Misalkan bilangan tengah adalah n².
+  2. Coba n=4: 3²+4²+5² = 9+16+25 = 50.
+  3. Bilangan tengah adalah 4² = 16.
 
 ---
 
@@ -1363,6 +1864,12 @@
 - **C** — Hanya luas persegi luar saja. Lupa kurangi.
 - **D** — Benar. 225 cm².
 
+- **Konsep kunci:** Luas bagian bingkai dihitung dengan mengurangkan luas persegi dalam dari luas persegi luar.
+- **Langkah Penyelesaian:**
+  1. Hitung luas persegi luar = 25² = 625.
+  2. Hitung luas persegi dalam = 20² = 400.
+  3. Kurangkan 625 − 400 = 225 cm².
+
 ---
 
 **87.** Hasil dari √(0,49) adalah …
@@ -1378,6 +1885,12 @@
 - **B** — Mengira geser dua titik desimal. Cek: 0,07² = 0,0049, bukan 0,49.
 - **C** — Mengira hilangkan koma. Salah.
 - **D** — Tidak menarik akar. Tetap angka awal.
+
+- **Konsep kunci:** Akar dari bilangan desimal dapat dicari dengan mengubahnya jadi pecahan lalu menarik akar pembilang dan penyebutnya.
+- **Langkah Penyelesaian:**
+  1. Tulis 0,49 sebagai 49/100.
+  2. Tarik akar masing-masing: √49=7, √100=10.
+  3. Hasilnya 7/10 = 0,7.
 
 ---
 
@@ -1395,6 +1908,12 @@
 - **C** — Mengira keliling 33,6 m × 50.000 = Rp 1.680.000. Salah akar.
 - **D** — Mengira keliling = sisi² = 1764. Salah, itu luas, bukan keliling. Atau 4 × keliling.
 
+- **Konsep kunci:** Biaya pagar keliling dihitung dari sisi (akar luas) dikalikan 4, lalu dikalikan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √1764 = 42 m.
+  2. Hitung keliling = 4 × 42 = 168 m.
+  3. Kalikan dengan harga: 168 × 50.000 = Rp8.400.000.
+
 ---
 
 **89.** Jika a² = 16 dan b² = 9, maka nilai (a + b)² ada beberapa kemungkinan. Nilai TERBESAR dari (a + b)² adalah …
@@ -1411,6 +1930,12 @@
 - **C** — Itu MINIMUM ((4−3)² = 1). Soal minta terbesar.
 - **D** — Hanya a + b, bukan (a + b)². Lupa kuadrat.
 
+- **Konsep kunci:** Nilai maksimum (a+b)² dicapai saat a dan b bertanda sama sehingga jumlahnya paling besar.
+- **Langkah Penyelesaian:**
+  1. Tentukan nilai mutlak a = 4 dan b = 3.
+  2. Pilih tanda sama agar a+b maksimum: 4+3 = 7.
+  3. Kuadratkan: 7² = 49.
+
 ---
 
 **90.** Untuk menemukan akar 2304 dengan faktorisasi prima: 2304 = 2⁸ × 3². Maka √2304 = …
@@ -1426,6 +1951,12 @@
 - **B** — 36² = 1296, kurang.
 - **C** — Benar. 48 × 48 = 2304.
 - **D** — 56² = 3136, kelebihan.
+
+- **Konsep kunci:** Akar kuadrat dapat dicari dengan faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Uraikan 2304 = 2⁸ × 3².
+  2. Pasangkan menjadi (2⁴ × 3)².
+  3. Hitung 2⁴×3 = 16×3 = 48.
 
 ---
 
@@ -1444,6 +1975,12 @@
 - **C** — Mengira jumlah = 10 + 100. Salah.
 - **D** — 11² = 121, geser satu indeks.
 
+- **Konsep kunci:** Jumlah n bilangan ganjil pertama selalu sama dengan n².
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus jumlah = n².
+  2. Untuk n = 10, hitung 10².
+  3. Hasilnya 100.
+
 ---
 
 **92.** Pak Joko memiliki taman persegi sisi 13 m. Ia ingin memperluas jadi persegi baru dengan sisi 17 m. Berapa tambahan luas?
@@ -1459,6 +1996,12 @@
 - **B** — Salah hitung 289 − 229. Aritmetika keliru.
 - **C** — Benar. 120 m².
 - **D** — Mengira hanya luas lama. Tidak menjawab pertanyaan.
+
+- **Konsep kunci:** Tambahan luas dihitung dari selisih luas persegi baru dan luas persegi lama.
+- **Langkah Penyelesaian:**
+  1. Hitung luas lama = 13² = 169.
+  2. Hitung luas baru = 17² = 289.
+  3. Kurangkan 289 − 169 = 120 m².
 
 ---
 
@@ -1476,6 +2019,12 @@
 - **C** — Itu nilai akar asli, bukan jawaban siswa.
 - **D** — Mengira 196 × 2 = 392. Salah arah pemahaman soal.
 
+- **Konsep kunci:** Soal ini menguji pemahaman terhadap miskonsepsi umum bahwa kuadrat sama dengan kali 2.
+- **Langkah Penyelesaian:**
+  1. Cari bilangan asli: √196 = 14.
+  2. Terapkan (keliru) “kuadrat = kali 2”: 14 × 2.
+  3. Jawaban salah siswa adalah 28.
+
 ---
 
 **94.** Jumlah dari akar-akar bilangan kuadrat berikut: √1 + √4 + √9 + … + √100 adalah …
@@ -1491,6 +2040,12 @@
 - **B** — Benar. 55.
 - **C** — Mengira 1+…+11 = 66 lalu salah jadi 60. Tidak konsisten.
 - **D** — Hanya menjumlahkan angka di dalam akar terakhir.
+
+- **Konsep kunci:** Menjumlahkan akar dari deretan bilangan kuadrat sama dengan menjumlahkan bilangan asli 1 sampai 10.
+- **Langkah Penyelesaian:**
+  1. Sadari √1, √4, ..., √100 adalah 1, 2, ..., 10.
+  2. Gunakan rumus jumlah deret 1 sampai n: n(n+1)/2.
+  3. Hitung 10×11/2 = 55.
 
 ---
 
@@ -1508,6 +2063,12 @@
 - **C** — Mengira tambah keliling kecil 26. Salah konsep.
 - **D** — Benar. 8 + 12 = 20 cm.
 
+- **Konsep kunci:** Panjang persegi panjang gabungan dari dua persegi yang berhimpit sama dengan jumlah sisi masing-masing persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung sisi A = √64 = 8 cm.
+  2. Hitung sisi B = √144 = 12 cm.
+  3. Jumlahkan 8+12 = 20 cm.
+
 ---
 
 **96.** Diketahui n² + (n+1)² = 113. Nilai n adalah …
@@ -1523,6 +2084,12 @@
 - **B** — 6² + 7² = 36 + 49 = 85. Tidak match.
 - **C** — Benar. n = 7.
 - **D** — 8² + 9² = 64 + 81 = 145. Kelebihan.
+
+- **Konsep kunci:** Mencari bilangan yang memenuhi jumlah dua kuadrat berurutan dengan mencoba nilai berurutan.
+- **Langkah Penyelesaian:**
+  1. Coba n=7: 7²+8² = 49+64.
+  2. Jumlahkan menjadi 113.
+  3. Cocok, jadi n = 7.
 
 ---
 
@@ -1540,6 +2107,12 @@
 - **C** — Benar. 2 : 1.
 - **D** — Mengira perbandingan sisi = perbandingan luas (4:1). Lupa akar.
 
+- **Konsep kunci:** Jika luas persegi menjadi k kali lipat, sisinya menjadi √k kali lipat, bukan k kali lipat.
+- **Langkah Penyelesaian:**
+  1. Misalkan luas B = s², maka luas A = 4s².
+  2. Cari sisi A = √(4s²) = 2s.
+  3. Bandingkan sisi A:B = 2s:s = 2:1.
+
 ---
 
 **98.** Bilangan √5184 adalah …
@@ -1556,6 +2129,12 @@
 - **C** — Benar. 72 × 72 = 5184.
 - **D** — 78² = 6084, kelebihan.
 
+- **Konsep kunci:** Akar kuadrat bilangan besar dapat dicari dengan faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Uraikan 5184 = 2⁶ × 3⁴.
+  2. Pasangkan menjadi (2³ × 3²)².
+  3. Hitung 2³×3² = 8×9 = 72.
+
 ---
 
 **99.** Dalam suatu pola gambar, jumlah titik membentuk persegi: gambar ke-1 = 1 titik, ke-2 = 4 titik, ke-3 = 9 titik. Berapa titik di gambar ke-10?
@@ -1571,6 +2150,12 @@
 - **B** — Mengira tambah 9 setiap kali: 81 + 9 = 90. Salah pola.
 - **C** — Mengira 11 × 9 = 99. Tidak berdasar.
 - **D** — Benar. 100 titik.
+
+- **Konsep kunci:** Banyak titik pada gambar ke-n mengikuti pola bilangan kuadrat n².
+- **Langkah Penyelesaian:**
+  1. Kenali pola gambar ke-n = n².
+  2. Untuk n = 10, hitung 10².
+  3. Hasilnya 100 titik.
 
 ---
 
@@ -1590,6 +2175,12 @@
 - **B** — Benar (interpretasi ketat 100 < n² < 200). 4 nilai: n = 11, 12, 13, 14.
 - **C** — 5, jika memakai ≤. Interpretasi longgar.
 - **D** — 6, kelebihan satu. Tidak ada 15² ≤ 200.
+
+- **Konsep kunci:** Mencari banyak bilangan bulat yang kuadratnya berada pada rentang tertentu dengan mengecek kuadrat berurutan.
+- **Langkah Penyelesaian:**
+  1. Hitung kuadrat berurutan mulai dari 10² = 100.
+  2. Cek batas atas 200: 14²=196 masih di bawah, 15²=225 melebihi.
+  3. Sesuai kunci (interpretasi ketat 100<n²<200), n yang memenuhi adalah 11, 12, 13, 14 — total 4 nilai.
 
 ---
 

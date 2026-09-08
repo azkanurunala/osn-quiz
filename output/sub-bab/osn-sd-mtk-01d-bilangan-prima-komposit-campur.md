@@ -117,6 +117,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Banyak prima ganjil (3, 5, 7, 11, …). Hanya 2 prima genap.
 - **C salah** — Banyak prima < 10: 2, 3, 5, 7.
 - **D salah** — Hanya 3 sendiri yang habis ÷ 3 dan tetap prima. Prima lain (5, 7, 11, …) tidak habis ÷ 3.
+- **Konsep kunci:** Bilangan prima didefinisikan sebagai bilangan asli lebih dari 1 yang tepat memiliki 2 faktor.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi baku bilangan prima: lebih dari 1 dan tepat 2 faktor (1 dan dirinya sendiri).
+  2. Cocokkan definisi ini dengan pilihan A.
+  3. Coret B, C, D karena bukan bagian dari definisi resmi (banyak prima ganjil, kecil, tidak selalu habis dibagi 3).
 
 ---
 
@@ -132,6 +137,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Setiap bilangan asli minimal punya faktor 1 dan dirinya.
 - **C salah** — Hanya angka 1 yang punya 1 faktor, dan 1 bukan komposit.
 - **D salah** — Komposit dan prima saling **terpisah**; tidak mungkin sekaligus.
+- **Konsep kunci:** Bilangan komposit adalah bilangan asli lebih dari 1 dengan lebih dari 2 faktor.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi komposit: lebih dari 1 dan memiliki lebih dari 2 faktor.
+  2. Bandingkan dengan pilihan A yang sesuai definisi.
+  3. Tolak B, C, D karena tidak sesuai definisi komposit.
 
 ---
 
@@ -147,6 +157,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — 1 adalah **outlier**: bukan prima (perlu tepat 2 faktor) dan bukan komposit (perlu > 2 faktor). Aturan internasional matematika menetapkan 1 berstatus khusus.
 - **C salah** — Tidak punya > 2 faktor.
 - **D salah** — 1 ganjil, dan jelas bukan prima.
+- **Konsep kunci:** Angka 1 adalah bilangan khusus yang bukan prima maupun komposit karena hanya punya 1 faktor.
+- **Langkah Penyelesaian:**
+  1. Hitung faktor dari 1 → hanya 1 (satu faktor saja).
+  2. Bandingkan dengan syarat prima (2 faktor) dan komposit (lebih dari 2 faktor) → tidak memenuhi keduanya.
+  3. Simpulkan 1 bukan prima dan bukan komposit (jawaban B).
 
 ---
 
@@ -162,6 +177,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 1 bukan prima (hanya 1 faktor).
 - **C salah** — 3 prima ke-2.
 - **D salah** — 5 prima ke-3.
+- **Konsep kunci:** Prima terkecil adalah 2, karena 1 bukan prima.
+- **Langkah Penyelesaian:**
+  1. Cek bilangan asli terkecil lebih dari 1, yaitu 2.
+  2. Cek faktor 2 → hanya 1 dan 2 (2 faktor) → prima.
+  3. Simpulkan 2 adalah prima terkecil (bukan 1 karena 1 bukan prima).
 
 ---
 
@@ -177,6 +197,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **2** adalah satu-satunya prima genap. Genap lain (4, 6, 8, 10, …) habis dibagi 2 → punya minimal 3 faktor → komposit. 2 unik karena pembaginya hanya 1 dan 2.
 - **C salah** — 6 = 2 × 3 → komposit.
 - **D salah** — 8 = 2³ → komposit.
+- **Konsep kunci:** 2 adalah satu-satunya bilangan prima yang genap.
+- **Langkah Penyelesaian:**
+  1. Cek setiap bilangan genap seperti 4, 6, 8: semuanya habis dibagi 2 dan punya faktor lain → komposit.
+  2. Cek 2 sendiri: faktornya hanya 1 dan 2 → prima.
+  3. Simpulkan 2 satu-satunya prima genap (jawaban B).
 
 ---
 
@@ -192,6 +217,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 11 hanya 1 × 11 → prima.
 - **C salah** — 13 hanya 1 × 13 → prima.
 - **D benar** — **15 = 3 × 5**, punya faktor 1, 3, 5, 15 → 4 faktor → **komposit**. Sering keliru karena 15 ganjil (mengira semua ganjil prima).
+- **Konsep kunci:** Bilangan ganjil belum tentu prima; harus dicek faktor-faktornya satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, C (7, 11, 13): faktornya hanya 1 dan dirinya sendiri → prima.
+  2. Cek D (15): 15 = 3 × 5, ada faktor lain selain 1 dan 15 → komposit.
+  3. Simpulkan D bukan prima (jawaban D).
 
 ---
 
@@ -207,6 +237,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 19 prima.
 - **C benar** — **21 = 3 × 7**. Punya 4 faktor (1, 3, 7, 21) → **komposit**.
 - **D salah** — 23 prima.
+- **Konsep kunci:** Bilangan komposit dapat difaktorkan menjadi dua bilangan lebih dari 1.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, D (17, 19, 23): tidak punya faktor selain 1 dan dirinya → prima.
+  2. Cek C (21): 21 = 3 × 7 → punya 4 faktor → komposit.
+  3. Simpulkan jawaban C.
 
 ---
 
@@ -223,6 +258,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Salah hitung 1 sebagai prima (1 BUKAN prima).
 - **C salah** — Tambah 9 (9 = 3 × 3 → komposit, bukan prima).
 - **D benar** — Tepat 4: **{2, 3, 5, 7}**.
+- **Konsep kunci:** Menghitung prima dalam suatu rentang dilakukan dengan mendaftar dan menguji tiap bilangan.
+- **Langkah Penyelesaian:**
+  1. Daftar bilangan 1 sampai 10 dan cek masing-masing.
+  2. Prima yang ditemukan: 2, 3, 5, 7.
+  3. Hitung banyaknya = 4 (jawaban D).
 
 ---
 
@@ -239,6 +279,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Lupa 17 atau 19.
 - **C salah** — Mungkin lupa 11 atau 13.
 - **D salah** — Salah hitung 9 atau 15 sebagai prima (keduanya komposit).
+- **Konsep kunci:** Menghitung prima dalam rentang dengan mendaftar dan mengecek tiap bilangan.
+- **Langkah Penyelesaian:**
+  1. Daftar prima 1 sampai 20: 2, 3, 5, 7, 11, 13, 17, 19.
+  2. Hitung jumlahnya.
+  3. Hasilnya 8 (jawaban A).
 
 ---
 
@@ -255,6 +300,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Salah masukkan 27 (= 3³, komposit) atau 25 (= 5², komposit).
 - **C benar** — Tepat 10.
 - **D salah** — Salah hitung 1 atau 21 sebagai prima.
+- **Konsep kunci:** Menghitung banyak prima dalam rentang dengan daftar prima yang sudah dihafal.
+- **Langkah Penyelesaian:**
+  1. Daftar prima 1 sampai 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+  2. Hitung jumlahnya.
+  3. Hasilnya 10 (jawaban C).
 
 ---
 
@@ -270,6 +320,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 21 = 3 × 7 → komposit.
 - **C salah** — 25 = 5 × 5 → komposit.
 - **D benar** — **29** prima. Cek pembagi prima ≤ √29 ≈ 5,4: 2 ✗, 3 ✗ (2+9=11), 5 ✗. → prima.
+- **Konsep kunci:** Uji keprimaan dilakukan dengan mengecek pembagi sampai akar kuadrat bilangan.
+- **Langkah Penyelesaian:**
+  1. Cek 9 = 3×3, 21 = 3×7, 25 = 5×5 → semua komposit.
+  2. Cek 29: coba bagi 2, 3, 5 (√29 ≈ 5,4) → tidak ada yang habis.
+  3. Simpulkan 29 prima (jawaban D).
 
 ---
 
@@ -285,6 +340,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Bukan prima (punya pembagi 3).
 - **C salah** — Hanya 1 yang berstatus tersebut.
 - **D salah** — 27 ganjil.
+- **Konsep kunci:** Bilangan ganjil bisa saja komposit; 27 adalah pangkat tiga dari 3.
+- **Langkah Penyelesaian:**
+  1. Coba faktorkan 27: 27 = 3 × 9 = 3 × 3 × 3 = 3³.
+  2. Hitung faktor: 1, 3, 9, 27 → lebih dari 2 faktor.
+  3. Simpulkan 27 komposit (jawaban A).
 
 ---
 
@@ -300,6 +360,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Jelas bilangan asli.
 - **C salah** — Sering keliru disangka prima (akhiran 1), padahal habis ÷ 3.
 - **D salah** — 51 > 50.
+- **Konsep kunci:** Aturan habis dibagi 3 (jumlah digit) membantu menemukan faktor bilangan besar.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan digit 51: 5+1=6, habis dibagi 3.
+  2. Bagi 51 ÷ 3 = 17 → 51 = 3 × 17.
+  3. Simpulkan 51 komposit (jawaban A).
 
 ---
 
@@ -315,6 +380,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **Twin prime** = pasangan prima berselisih **2**. Contoh: (3, 5), (5, 7), (11, 13), (17, 19), (29, 31).
 - **C salah** — Tidak mungkin selain (2, 5) karena salah satunya pasti genap → bukan prima.
 - **D salah** — Itu **cousin prime**, bukan twin.
+- **Konsep kunci:** Twin prime adalah pasangan bilangan prima yang selisihnya tepat 2.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi twin prime = selisih 2.
+  2. Bandingkan dengan pilihan A (selisih 1), C, D (selisih 3, 4) → salah.
+  3. Pilih B (selisih 2).
 
 ---
 
@@ -330,6 +400,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Selisih 4 (cousin prime), bukan twin.
 - **C salah** — Selisih 4 (cousin prime).
 - **D salah** — Selisih 4 (cousin prime).
+- **Konsep kunci:** Mengenali pasangan twin prime dengan menghitung selisih lalu mengecek keprimaan.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih tiap pasangan: (11,13)=2; (7,11)=4; (13,17)=4; (19,23)=4.
+  2. Cek kedua bilangan tiap pasangan itu prima.
+  3. Pasangan berselisih 2 dan keduanya prima adalah (11,13), jawaban A.
 
 ---
 
@@ -345,6 +420,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 39 ganjil.
 - **C benar** — **39 = 3 × 13** (jumlah digit 3+9=12 habis ÷ 3). Komposit.
 - **D salah** — 39 < 50.
+- **Konsep kunci:** Aturan habis dibagi 3 membantu memfaktorkan bilangan ganjil dengan cepat.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 39: 3+9=12, habis dibagi 3.
+  2. Bagi 39 ÷ 3 = 13 → 39 = 3 × 13.
+  3. Simpulkan 39 komposit (jawaban C).
 
 ---
 
@@ -360,6 +440,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Bilangan asli.
 - **C salah** — 49 ganjil.
 - **D benar** — **49 = 7² = 7 × 7**. Faktor: 1, 7, 49 → 3 faktor → komposit.
+- **Konsep kunci:** Bilangan yang lolos cek 2, 3, 5 tetap harus dicek pembagi 7 sebelum disimpulkan prima.
+- **Langkah Penyelesaian:**
+  1. Cek 49 tidak habis dibagi 2, 3, 5.
+  2. Cek pembagi 7: 49 ÷ 7 = 7 → habis.
+  3. Simpulkan 49 = 7 × 7 komposit (jawaban D).
 
 ---
 
@@ -375,6 +460,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **57 = 3 × 19** → komposit. (Jebakan ganjil-bukan-prima klasik.)
 - **C salah** — 57 positif.
 - **D salah** — 57 ≠ 0.
+- **Konsep kunci:** Aturan habis dibagi 3 (jumlah digit) mengungkap faktor bilangan ganjil.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 57: 5+7=12, habis dibagi 3.
+  2. Bagi 57 ÷ 3 = 19 → 57 = 3 × 19.
+  3. Simpulkan 57 komposit (jawaban B).
 
 ---
 
@@ -391,6 +481,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Lupa salah satu.
 - **C salah** — Salah memasukkan 39 (= 3 × 13) atau 49 (= 7²).
 - **D salah** — Lupa beberapa.
+- **Konsep kunci:** Menghitung prima dalam rentang tertentu dengan mendaftar dan menyaring bilangan komposit.
+- **Langkah Penyelesaian:**
+  1. Daftar bilangan 30 sampai 50, coret yang jelas komposit (genap, kelipatan 5, dan lainnya).
+  2. Sisa yang prima: 31, 37, 41, 43, 47.
+  3. Hitung banyaknya = 5 (jawaban A).
 
 ---
 
@@ -406,6 +501,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 77 ganjil.
 - **C salah** — Sering disangka prima karena tidak habis ÷ 2, 3, 5, padahal habis ÷ 7.
 - **D salah** — 77 positif.
+- **Konsep kunci:** Wajib mengecek pembagi 7 sebelum menyimpulkan suatu bilangan adalah prima.
+- **Langkah Penyelesaian:**
+  1. Cek 77 tidak habis dibagi 2, 3, 5.
+  2. Cek pembagi 7: 77 ÷ 7 = 11 → habis.
+  3. Simpulkan 77 = 7 × 11 komposit (jawaban A).
 
 ---
 
@@ -421,6 +521,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **91 = 7 × 13** → komposit. Wajib cek pembagi 7 untuk semua angka 49, 77, 91, 119, 133, …
 - **C salah** — 91 ganjil.
 - **D salah** — 91 > 50.
+- **Konsep kunci:** 91 adalah jebakan klasik OSN karena lolos cek 2, 3, 5 tapi habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Cek 91 tidak habis dibagi 2, 3, 5.
+  2. Cek pembagi 7: 91 ÷ 7 = 13 → habis.
+  3. Simpulkan 91 = 7 × 13 komposit (jawaban B).
 
 ---
 
@@ -441,6 +546,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 97 ganjil.
 - **C salah** — 97 < 100 tetapi > 50.
 - **D benar** — **97 prima** (dan merupakan prima terbesar < 100).
+- **Konsep kunci:** Uji keprimaan cukup dengan mengecek pembagi prima sampai akar kuadrat bilangan.
+- **Langkah Penyelesaian:**
+  1. Hitung √97 ≈ 9,85, jadi cukup cek prima ≤9 yaitu 2, 3, 5, 7.
+  2. Cek satu per satu: tidak ada yang membagi habis 97.
+  3. Simpulkan 97 prima (jawaban D).
 
 ---
 
@@ -457,6 +567,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Lupa 9 atau 10.
 - **C salah** — Lupa salah satu.
 - **D salah** — Salah hitung 1 sebagai komposit.
+- **Konsep kunci:** Bilangan komposit dalam suatu rentang dicari dengan menyisihkan 1 dan bilangan prima.
+- **Langkah Penyelesaian:**
+  1. Daftar 1 sampai 10, pisahkan 1 (bukan keduanya) dan prima (2, 3, 5, 7).
+  2. Sisanya adalah komposit: 4, 6, 8, 9, 10.
+  3. Hitung banyaknya = 5 (jawaban A).
 
 ---
 
@@ -474,6 +589,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Lupa 1 dan 3.
 - **C benar** — **{1, 2, 3, 4, 6, 12}** = 6 faktor → 12 komposit.
 - **D salah** — Lupa 1 dan 12.
+- **Konsep kunci:** Faktor suatu bilangan adalah semua bilangan yang membaginya habis, termasuk 1 dan dirinya.
+- **Langkah Penyelesaian:**
+  1. Cari semua bilangan yang membagi 12 habis: 1, 2, 3, 4, 6, 12.
+  2. Cocokkan dengan pilihan yang lengkap.
+  3. Jawaban C.
 
 ---
 
@@ -489,6 +609,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 35 = 5 × 7.
 - **C salah** — 39 = 3 × 13.
 - **D benar** — **37**. Cek prima ≤ √37 ≈ 6,08: 2, 3, 5. Tidak satu pun habis → prima.
+- **Konsep kunci:** Uji keprimaan dilakukan dengan mencoba faktor-faktor kecil satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek 33 = 3×11, 35 = 5×7, 39 = 3×13 → semua komposit.
+  2. Cek 37: coba bagi 2, 3, 5 (√37 ≈ 6,08) → tidak ada yang habis.
+  3. Simpulkan 37 prima (jawaban D).
 
 ---
 
@@ -505,6 +630,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 13 adalah prima ke-6.
 - **C salah** — 9 bukan prima (9 = 3²).
 - **D benar** — **Prima ke-5 = 11.**
+- **Konsep kunci:** Urutan bilangan prima dihitung dari yang terkecil secara berurutan.
+- **Langkah Penyelesaian:**
+  1. Tulis urutan prima: 2, 3, 5, 7, 11, ....
+  2. Hitung sampai urutan ke-5.
+  3. Prima ke-5 adalah 11 (jawaban D).
 
 ---
 
@@ -521,6 +651,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 23 = prima ke-9.
 - **C salah** — 31 = prima ke-11.
 - **D salah** — 19 = prima ke-8.
+- **Konsep kunci:** Urutan bilangan prima dihitung dari yang terkecil secara berurutan.
+- **Langkah Penyelesaian:**
+  1. Tulis urutan prima: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+  2. Hitung sampai urutan ke-10.
+  3. Prima ke-10 adalah 29 (jawaban A).
 
 ---
 
@@ -536,6 +671,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **Saringan Eratosthenes** (ditemukan Eratosthenes, 200 SM): tulis 2…N, lingkari 2, coret kelipatan 2, lalu lingkari 3, coret kelipatan 3, dst. Sisa yang dilingkari = prima.
 - **C salah** — Bukan operasi jumlah.
 - **D salah** — KPK pakai faktorisasi prima, bukan saringan.
+- **Konsep kunci:** Saringan Eratosthenes adalah metode mencari semua bilangan prima dengan mencoret kelipatan.
+- **Langkah Penyelesaian:**
+  1. Ingat cara kerja saringan: tulis bilangan, coret kelipatan tiap prima yang ditemukan.
+  2. Bandingkan dengan pilihan B yang sesuai.
+  3. Tolak A, C, D karena bukan tujuan metode ini.
 
 ---
 
@@ -551,6 +691,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 43 prima.
 - **C benar** — **45 = 5 × 9 = 3² × 5** → komposit. (Akhiran 5 → habis ÷ 5.)
 - **D salah** — 47 prima.
+- **Konsep kunci:** Bilangan berakhiran 5 (selain 5 sendiri) pasti habis dibagi 5 sehingga komposit.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, D (41, 43, 47): tidak habis dibagi 2, 3, 5 → prima.
+  2. Cek C (45): berakhiran 5, habis dibagi 5, 45 = 5 × 9.
+  3. Simpulkan 45 komposit (jawaban C).
 
 ---
 
@@ -566,6 +711,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Hanya 1 yang punya 1 faktor.
 - **C salah** — Faktor selalu terbatas.
 - **D benar** — Definisi: **prima = tepat 2 faktor** (yaitu 1 dan dirinya). Itu sebabnya prima istimewa.
+- **Konsep kunci:** Definisi prima menetapkan tepat 2 faktor sebagai ciri utamanya.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi: prima punya tepat 2 faktor (1 dan dirinya).
+  2. Cocokkan dengan pilihan D.
+  3. Tolak A, B, C karena tidak sesuai definisi.
 
 ---
 
@@ -581,6 +731,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Masih terlalu jauh.
 - **C benar** — Cukup sampai **√n**. Jika n = a × b dan a ≤ b, maka a ≤ √n. Jadi kalau tidak ada pembagi ≤ √n, pasti prima.
 - **D salah** — Tidak masuk akal (lebih besar dari n).
+- **Konsep kunci:** Cukup mengecek pembagi prima sampai akar kuadrat (√n) untuk menentukan keprimaan n.
+- **Langkah Penyelesaian:**
+  1. Ingat sifat: jika n = a×b dan a ≤ b, maka a ≤ √n.
+  2. Jadi cukup cek pembagi ≤ √n.
+  3. Jawaban C.
 
 ---
 
@@ -596,6 +751,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — Sudah lebih dari √97; mubazir.
 - **C salah** — Tidak cukup; perlu juga 3, 5, 7.
 - **D salah** — Boros sekali.
+- **Konsep kunci:** Batas pengecekan pembagi prima ditentukan oleh akar kuadrat bilangan yang diuji.
+- **Langkah Penyelesaian:**
+  1. Hitung √97 ≈ 9,85.
+  2. Cari prima ≤9: 2, 3, 5, 7.
+  3. Jawaban A.
 
 ---
 
@@ -611,6 +771,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B benar** — **97 prima**. Tidak ada prima antara 97 dan 100 (98 = 2 × 49, 99 = 9 × 11).
 - **C salah** — 89 prima tapi bukan terbesar < 100.
 - **D salah** — 91 = 7 × 13 (komposit).
+- **Konsep kunci:** Mengecek bilangan-bilangan dekat 100 untuk menemukan prima terbesar di bawahnya.
+- **Langkah Penyelesaian:**
+  1. Cek 99 = 9×11, 98 genap → komposit.
+  2. Cek 97: tidak habis dibagi 2, 3, 5, 7 → prima.
+  3. Simpulkan 97 adalah prima terbesar kurang dari 100 (jawaban B).
 
 ---
 
@@ -626,6 +791,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **B salah** — 2024 bilangan asli.
 - **C salah** — Bukan nol.
 - **D benar** — **2024 = 2 × 1012 = 2³ × 11 × 23**. Genap → habis ÷ 2 → minimal 3 faktor → komposit.
+- **Konsep kunci:** Bilangan genap lebih dari 2 pasti komposit karena habis dibagi 2.
+- **Langkah Penyelesaian:**
+  1. Cek angka satuan 2024 yaitu 4, genap.
+  2. Karena genap dan lebih dari 2, otomatis punya faktor 2 selain 1 dan dirinya.
+  3. Simpulkan 2024 komposit (jawaban D).
 
 ---
 
@@ -643,6 +813,11 @@ Setiap komposit dapat dituliskan **secara unik** sebagai perkalian prima (Teorem
 - **D salah** — 18 = 2 × 3² (komposit).
 
 Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jadi hanya 2 + p yang bisa hasilkan prima.
+- **Konsep kunci:** Jumlah dua bilangan ganjil selalu genap, sehingga hanya 2 ditambah prima ganjil yang berpeluang menghasilkan prima.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap jumlah: 2+3=5; 3+5=8; 5+7=12; 7+11=18.
+  2. Cek mana yang hasilnya prima.
+  3. Hanya 5 yang prima (jawaban A), karena hanya melibatkan 2 (genap) ditambah ganjil.
 
 ---
 
@@ -658,6 +833,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 57 = 3 × 19.
 - **C benar** — **59 prima**. Cek 2, 3, 5, 7 (√59 ≈ 7,7): 59 ÷ 2 ✗, 5+9=14 ✗, akhiran 9 ✗, 59 ÷ 7 ≈ 8,4 ✗ → prima.
 - **D salah** — 63 = 7 × 9 = 3² × 7.
+- **Konsep kunci:** Uji keprimaan dengan mengecek pembagi hingga akar kuadrat bilangan.
+- **Langkah Penyelesaian:**
+  1. Cek 51 = 3×17, 57 = 3×19, 63 = 3²×7 → komposit.
+  2. Cek 59: coba bagi 2, 3, 5, 7 (√59 ≈ 7,7) → tidak ada yang habis.
+  3. Simpulkan 59 prima (jawaban C).
 
 ---
 
@@ -673,6 +853,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 71 prima.
 - **C salah** — 73 prima.
 - **D benar** — **87 = 3 × 29** (jumlah digit 8+7=15 habis ÷ 3) → komposit.
+- **Konsep kunci:** Aturan habis dibagi 3 membantu menemukan bilangan komposit dengan cepat.
+- **Langkah Penyelesaian:**
+  1. Cek 67, 71, 73: tidak habis dibagi 2, 3, 5, 7 → prima.
+  2. Cek 87: jumlah digit 8+7=15 habis dibagi 3.
+  3. Simpulkan 87 = 3 × 29 komposit (jawaban D).
 
 ---
 
@@ -689,6 +874,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — Tepat 10.
 - **C salah** — Lupa salah satu.
 - **D salah** — Salah masukkan 51, 57, 87, 91, 93, atau 99 (semua komposit).
+- **Konsep kunci:** Menghitung prima dalam rentang dengan mendaftar bilangan yang lolos uji keprimaan.
+- **Langkah Penyelesaian:**
+  1. Daftar kandidat 50 sampai 100 dan uji tiap bilangan.
+  2. Prima yang ditemukan: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
+  3. Hitung banyaknya = 10 (jawaban B).
 
 ---
 
@@ -705,6 +895,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Terlalu sedikit.
 - **C salah** — Salah hitung (lebih).
 - **D salah** — Terlalu banyak.
+- **Konsep kunci:** Total 25 bilangan prima dari 1 sampai 100 adalah fakta dasar yang wajib dihafal.
+- **Langkah Penyelesaian:**
+  1. Ingat daftar 25 prima ≤100 yang sudah dihafal.
+  2. Hitung jumlahnya.
+  3. Jawaban A (25).
 
 ---
 
@@ -720,6 +915,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 27 = 3³.
 - **C benar** — **29 prima**. Cek 2, 3, 5: tidak satu pun habis → prima. (√29 ≈ 5,4.)
 - **D salah** — 33 = 3 × 11.
+- **Konsep kunci:** Uji keprimaan dengan mengecek pembagi kecil sebelum menyimpulkan komposit atau prima.
+- **Langkah Penyelesaian:**
+  1. Cek 25 = 5², 27 = 3³, 33 = 3×11 → semua komposit.
+  2. Cek 29: tidak habis dibagi 2, 3, 5 (√29 ≈ 5,4).
+  3. Simpulkan 29 prima, bukan komposit (jawaban C).
 
 ---
 
@@ -735,6 +935,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Semua genap > 2 habis ÷ 2 → komposit.
 - **C salah** — Hanya 3 yang habis ÷ 3 dan tetap prima.
 - **D salah** — Hanya 5.
+- **Konsep kunci:** Semua prima lebih dari 2 pasti ganjil karena bilangan genap lebih dari 2 selalu komposit.
+- **Langkah Penyelesaian:**
+  1. Andaikan p genap dan lebih dari 2, maka p habis dibagi 2 → punya faktor lain → bukan prima.
+  2. Jadi p prima lebih dari 2 harus ganjil.
+  3. Jawaban A.
 
 ---
 
@@ -750,6 +955,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Sama, beda kategori.
 - **C salah** — Nol bukan asli > 1.
 - **D benar** — Definisi: bilangan asli > 1 yang **bukan prima** = **komposit**.
+- **Konsep kunci:** Bilangan asli lebih dari 1 yang bukan prima disebut komposit, berdasarkan definisi baku.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa setiap bilangan asli lebih dari 1 pasti prima atau komposit.
+  2. Jika bukan prima, otomatis komposit.
+  3. Jawaban D.
 
 ---
 
@@ -765,6 +975,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 17 ÷ 2 = 8,5 ✗.
 - **C salah** — 34 bukan faktor 17 (34 > 17, faktor tidak boleh > bilangannya).
 - **D salah** — Setiap bilangan asli minimal punya faktor 1.
+- **Konsep kunci:** Bilangan prima hanya memiliki dua faktor, yaitu 1 dan dirinya sendiri.
+- **Langkah Penyelesaian:**
+  1. Ingat 17 adalah bilangan prima.
+  2. Faktor bilangan prima hanya 1 dan dirinya sendiri.
+  3. Jawaban A (1 dan 17).
 
 ---
 
@@ -780,6 +995,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 2 punya hanya 2 faktor.
 - **C salah** — 2 prima.
 - **D salah** — 2 positif.
+- **Konsep kunci:** Angka 2 unik karena satu-satunya bilangan yang sekaligus prima dan genap.
+- **Langkah Penyelesaian:**
+  1. Cek faktor 2: hanya 1 dan 2 → prima.
+  2. Cek sifat genap: 2 habis dibagi 2.
+  3. Simpulkan 2 adalah prima genap satu-satunya (jawaban A).
 
 ---
 
@@ -795,6 +1015,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 13 prima.
 - **C salah** — 17 prima.
 - **D benar** — **25 = 5²**, 3 faktor (1, 5, 25) → komposit.
+- **Konsep kunci:** Bilangan kuadrat dari suatu prima (p²) selalu komposit karena punya 3 faktor.
+- **Langkah Penyelesaian:**
+  1. Cek 11, 13, 17: hanya punya faktor 1 dan dirinya sendiri → prima.
+  2. Cek 25 = 5²: faktor 1, 5, 25 → 3 faktor.
+  3. Simpulkan 25 komposit (jawaban D).
 
 ---
 
@@ -810,6 +1035,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **29** dan **31** keduanya prima dan selisih = 2 → **twin prime**.
 - **C salah** — Selisih 4 (cousin prime).
 - **D salah** — Selisih 4 (cousin prime).
+- **Konsep kunci:** Twin prime dikenali dengan mengecek keprimaan kedua bilangan dan selisihnya sama dengan 2.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih tiap pasangan: (23,29)=6; (29,31)=2; (37,41)=4; (43,47)=4.
+  2. Cek keduanya prima untuk pasangan berselisih 2.
+  3. Simpulkan (29, 31) twin prime (jawaban B).
 
 ---
 
@@ -825,6 +1055,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 5 × 5 (sama).
 - **C salah** — 7 × 7 (sama).
 - **D benar** — **15 = 3 × 5**, dua prima **berbeda**. (Disebut juga "semiprime" karena = 2 prima dikali.)
+- **Konsep kunci:** Perkalian dua prima yang berbeda menghasilkan bentuk semiprime dengan faktor prima yang tidak sama.
+- **Langkah Penyelesaian:**
+  1. Cek faktorisasi tiap pilihan: 9=3×3, 25=5×5, 49=7×7 (prima sama).
+  2. Cek 15 = 3×5 (dua prima berbeda).
+  3. Jawaban D.
 
 ---
 
@@ -840,6 +1075,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 1 BUKAN prima.
 - **C benar** — Prima di {1,2,3,4,5}: **2, 3, 5**. (4 = 2² komposit; 1 bukan prima.)
 - **D salah** — 1 dan 4 bukan prima.
+- **Konsep kunci:** Mengidentifikasi prima dalam sekumpulan bilangan kecil dengan mengecek definisi satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek tiap bilangan 1, 2, 3, 4, 5.
+  2. 1 bukan prima, 4 = 2² komposit.
+  3. Sisanya 2, 3, 5 adalah prima (jawaban C).
 
 ---
 
@@ -856,6 +1096,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **71, 73, 79** → **3 prima**.
 - **C salah** — Lupa salah satu.
 - **D salah** — Salah hitung 77 atau 75 sebagai prima.
+- **Konsep kunci:** Menghitung prima dalam rentang sempit dengan menguji tiap bilangan ganjil.
+- **Langkah Penyelesaian:**
+  1. Cek 71, 73, 77, 79 (bilangan ganjil di rentang ini).
+  2. 77 = 7 × 11 komposit, sisanya prima.
+  3. Hitung banyaknya = 3 (jawaban B).
 
 ---
 
@@ -872,6 +1117,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Bukan 3.
 - **C salah** — Bukan 4.
 - **D benar** — Selisih = **2**. Pasangan twin prime kedua (setelah konsep (2,3) yang berselisih 1).
+- **Konsep kunci:** Selisih antara dua bilangan dihitung dengan pengurangan sederhana.
+- **Langkah Penyelesaian:**
+  1. Hitung 5 dikurangi 3.
+  2. Hasilnya 2.
+  3. Jawaban D.
 
 ---
 
@@ -890,6 +1140,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Punya pembagi 11.
 - **C salah** — Ganjil.
 - **D salah** — 143 > 100.
+- **Konsep kunci:** Uji keprimaan bilangan tiga digit membutuhkan pengecekan pembagi prima sampai akar kuadratnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √143 ≈ 11,96, cek prima ≤11: 2, 3, 5, 7, 11.
+  2. Cek 143 ÷ 11 = 13 → habis.
+  3. Simpulkan 143 = 11 × 13 komposit (jawaban A).
 
 ---
 
@@ -906,6 +1161,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Ganjil.
 - **C benar** — **221 = 13 × 17** → komposit. (Soal klasik OSN!)
 - **D salah** — 221 > 100.
+- **Konsep kunci:** Bilangan yang lolos beberapa cek pembagi kecil tetap harus diuji sampai akar kuadratnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √221 ≈ 14,87, cek prima ≤14: 2, 3, 5, 7, 11, 13.
+  2. Cek 221 ÷ 13 = 17 → habis.
+  3. Simpulkan 221 = 13 × 17 komposit (jawaban C).
 
 ---
 
@@ -923,6 +1183,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah faktor.
 - **C salah** — Salah hitung.
 - **D benar** — **12**.
+- **Konsep kunci:** Faktorisasi prima suatu bilangan bisa dipakai untuk mencari dua prima penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 35 = 5 × 7.
+  2. Tentukan p = 5, q = 7 (keduanya prima).
+  3. Hitung p + q = 12 (jawaban D).
 
 ---
 
@@ -939,6 +1204,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **8 faktor**. (Aturan banyak faktor: (1+1)(1+1)(1+1) = 8 untuk 2¹ × 3¹ × 5¹.)
 - **C salah** — Terlalu sedikit.
 - **D salah** — Lupa 6, 10, atau 15.
+- **Konsep kunci:** Rumus banyak faktor menggunakan pangkat pada faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 30 = 2 × 3 × 5.
+  2. Terapkan rumus (1+1)(1+1)(1+1) = 8.
+  3. Jawaban B.
 
 ---
 
@@ -956,6 +1226,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 9 = 3² punya 3 faktor, tapi 4 lebih kecil.
 - **C benar** — **4** (= 2²) punya 3 faktor.
 - **D salah** — 8 = 2³ punya 4 faktor.
+- **Konsep kunci:** Bilangan dengan tepat 3 faktor selalu berbentuk kuadrat dari bilangan prima (p²).
+- **Langkah Penyelesaian:**
+  1. Ingat bentuk p² menghasilkan tepat 3 faktor (1, p, p²).
+  2. Ambil p terkecil = 2 → 2² = 4.
+  3. Jawaban C (4).
 
 ---
 
@@ -972,6 +1247,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah hitung.
 - **C benar** — **17**.
 - **D salah** — Salah masukkan 9.
+- **Konsep kunci:** Menjumlahkan seluruh bilangan prima dalam rentang tertentu.
+- **Langkah Penyelesaian:**
+  1. Daftar prima 1 sampai 10: 2, 3, 5, 7.
+  2. Jumlahkan: 2 + 3 + 5 + 7.
+  3. Hasilnya 17 (jawaban C).
 
 ---
 
@@ -988,6 +1268,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **60**.
 - **C salah** — Salah hitung.
 - **D salah** — Lupa 19 atau salah masukkan 15.
+- **Konsep kunci:** Menjumlahkan seluruh bilangan prima dalam rentang tertentu.
+- **Langkah Penyelesaian:**
+  1. Daftar prima 10 sampai 20: 11, 13, 17, 19.
+  2. Jumlahkan: 11 + 13 + 17 + 19.
+  3. Hasilnya 60 (jawaban B).
 
 ---
 
@@ -1004,6 +1289,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **5** (= 2² + 1) prima.
 - **C salah** — 7 = 2³ − 1 (Mersenne).
 - **D salah** — 9 = 2³ + 1 = 3² (bukan prima).
+- **Konsep kunci:** Menghitung nilai suatu bentuk pangkat lalu menguji keprimaan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung 2² + 1 = 4 + 1 = 5.
+  2. Cek apakah 5 prima → ya.
+  3. Jawaban B.
 
 ---
 
@@ -1021,6 +1311,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **4**.
 - **C salah** — Bukan twin.
 - **D salah** — Bukan 8.
+- **Konsep kunci:** Faktorisasi prima membantu menemukan dua bilangan prima penyusun suatu perkalian.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 77 = 7 × 11.
+  2. Tentukan a = 7 (lebih kecil), b = 11.
+  3. Hitung b − a = 4 (jawaban B).
 
 ---
 
@@ -1038,6 +1333,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah urutan.
 - **C salah** — Salah hitung.
 - **D salah** — Mungkin prima ke-8 (19) salah pilih.
+- **Konsep kunci:** Mengenali urutan bilangan prima untuk menemukan prima pada posisi tertentu.
+- **Langkah Penyelesaian:**
+  1. Tulis urutan prima: 2, 3, 5, 7, 11, 13, 17.
+  2. Ambil prima ke-3 (5) dan ke-7 (17).
+  3. Jumlahkan: 5 + 17 = 22 (jawaban A).
 
 ---
 
@@ -1055,6 +1355,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **11 faktor**.
 - **C salah** — Lebih banyak satu.
 - **D salah** — Salah aturan.
+- **Konsep kunci:** Banyak faktor bilangan berbentuk pangkat tunggal dihitung dengan menambah 1 pada pangkatnya.
+- **Langkah Penyelesaian:**
+  1. Tulis 1024 = 2¹⁰.
+  2. Terapkan rumus banyak faktor = pangkat + 1 = 10 + 1.
+  3. Jawaban B (11).
 
 ---
 
@@ -1072,6 +1377,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Hanya hitung satu prima.
 - **C benar** — **12**.
 - **D salah** — Salah aturan.
+- **Konsep kunci:** Rumus banyak faktor dari faktorisasi prima adalah hasil kali (pangkat+1) tiap prima.
+- **Langkah Penyelesaian:**
+  1. Identifikasi pangkat: 2³ dan 3².
+  2. Hitung (3+1)(2+1) = 4 × 3.
+  3. Jawaban C (12).
 
 ---
 
@@ -1088,6 +1398,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **43**. 43 − 41 = 2 dan keduanya prima → twin prime (41, 43).
 - **C salah** — 47 − 41 = 6 (sexy prime).
 - **D salah** — 39 = 3 × 13, bukan prima.
+- **Konsep kunci:** Twin prime dikenali dari selisih tepat 2 antara dua bilangan prima.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih tiap pilihan terhadap 41: 37 (4), 43 (2), 47 (6), 39 (bukan prima).
+  2. Cek yang berselisih 2 dan keduanya prima.
+  3. Jawaban B (43).
 
 ---
 
@@ -1103,6 +1418,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Itu Goldbach lemah (sudah dibuktikan).
 - **C benar** — **Konjektur Goldbach (1742)**: setiap **bilangan genap > 2** dapat ditulis sebagai jumlah **dua bilangan prima**. Contoh: 4 = 2+2; 10 = 3+7 = 5+5; 100 = 3+97 = 11+89 = 17+83. Diverifikasi sampai sangat besar, belum dibuktikan umum.
 - **D salah** — Tidak ada konjektur seperti itu.
+- **Konsep kunci:** Konjektur Goldbach menyatakan setiap bilangan genap lebih dari 2 adalah jumlah dua bilangan prima.
+- **Langkah Penyelesaian:**
+  1. Ingat isi konjektur Goldbach.
+  2. Cocokkan dengan pilihan C.
+  3. Tolak pilihan lain karena bukan pernyataan Goldbach.
 
 ---
 
@@ -1120,6 +1440,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **323 = 17 × 19** (dua twin prime!). Komposit.
 - **C salah** — 3+2+3 = 8, tidak habis ÷ 3.
 - **D salah** — Tidak akhiran 0/5.
+- **Konsep kunci:** Uji keprimaan bilangan besar dilakukan dengan mencoba pembagi prima sampai akar kuadratnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √323 ≈ 17,97, cek prima ≤17.
+  2. Cek 323 ÷ 17 = 19 → habis.
+  3. Simpulkan 323 = 17 × 19 komposit (jawaban B).
 
 ---
 
@@ -1138,6 +1463,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 8 punya 4 faktor, tapi 6 lebih kecil.
 - **C benar** — **6** punya 4 faktor.
 - **D salah** — 12 punya 6 faktor.
+- **Konsep kunci:** Bilangan dengan tepat 4 faktor bisa berbentuk p³ atau p×q (dua prima berbeda).
+- **Langkah Penyelesaian:**
+  1. Bandingkan kandidat: 6 = 2×3 (4 faktor) dan 8 = 2³ (4 faktor).
+  2. Ambil yang lebih kecil.
+  3. Jawaban C (6).
 
 ---
 
@@ -1155,6 +1485,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Lupa salah satu.
 - **C salah** — Salah hitung 25 sebagai prima.
 - **D salah** — Terlalu sedikit.
+- **Konsep kunci:** Menguji keprimaan setiap hasil substitusi rumus pada nilai k tertentu.
+- **Langkah Penyelesaian:**
+  1. Hitung 6k+1 untuk k=1..5: 7, 13, 19, 25, 31.
+  2. Cek keprimaan tiap hasil; 25 = 5² bukan prima.
+  3. Hitung banyak yang prima = 4 (jawaban A).
 
 ---
 
@@ -1170,6 +1505,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **81 = 3⁴** = 3 × 27 → komposit.
 - **C salah** — 83 prima.
 - **D salah** — 89 prima.
+- **Konsep kunci:** Bilangan berbentuk pangkat dari suatu prima (misalnya 3⁴) selalu komposit.
+- **Langkah Penyelesaian:**
+  1. Cek 79, 83, 89: tidak habis dibagi 2, 3, 5, 7 → prima.
+  2. Cek 81: jumlah digit 8+1=9 habis dibagi 3.
+  3. Simpulkan 81 = 3⁴ komposit (jawaban B).
 
 ---
 
@@ -1189,6 +1529,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Sama.
 - **C salah** — Sama.
 - **D benar** — **Semuanya benar**. (Contoh konkret Konjektur Goldbach untuk 24.)
+- **Konsep kunci:** Bisa ada lebih dari satu pasangan bilangan prima yang menjumlah ke bilangan genap yang sama.
+- **Langkah Penyelesaian:**
+  1. Cek tiap pasangan: 5+19, 11+13, 7+17.
+  2. Pastikan kedua bilangan tiap pasangan prima dan jumlahnya 24.
+  3. Semua pasangan benar (jawaban D).
 
 ---
 
@@ -1205,6 +1550,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 9 bukan 2^p − 1.
 - **C salah** — 15 = 2⁴ − 1, tapi 4 bukan prima. Lagi pula 15 = 3 × 5 (komposit).
 - **D benar** — **31 = 2⁵ − 1** prima Mersenne. (Mersenne ke-3 setelah 3 dan 7.)
+- **Konsep kunci:** Bilangan prima Mersenne berbentuk 2^p − 1 dengan p prima dan hasilnya juga prima.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap pilihan dan cocokkan bentuk 2^p − 1.
+  2. Cek 31 = 2⁵ − 1, dengan p = 5 prima dan 31 prima.
+  3. Jawaban D.
 
 ---
 
@@ -1221,6 +1571,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Ganjil.
 - **C benar** — **101 prima** (prima terkecil > 100).
 - **D salah** — 101 ÷ 11 ≈ 9,18 ✗.
+- **Konsep kunci:** Uji keprimaan bilangan tiga digit cukup dengan mengecek pembagi sampai akar kuadratnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √101 ≈ 10,05, cek prima 2, 3, 5, 7.
+  2. Tidak ada yang membagi 101 habis.
+  3. Simpulkan 101 prima (jawaban C).
 
 ---
 
@@ -1239,6 +1594,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 211 ganjil.
 - **C salah** — 211 positif.
 - **D benar** — **211 prima** (ilustrasi bukti Euclid: hasil kali prima + 1 sering menghasilkan prima baru, kunci bukti tak hingga banyaknya prima).
+- **Konsep kunci:** Bukti Euclid menunjukkan hasil kali beberapa prima ditambah 1 tidak habis dibagi prima-prima itu.
+- **Langkah Penyelesaian:**
+  1. Hitung n = 210 + 1 = 211, sadari n−1 habis dibagi 2, 3, 5, 7 sehingga n tidak.
+  2. Cek pembagi prima lain sampai √211 ≈ 14,5: 11, 13.
+  3. Tidak ada yang membagi habis → simpulkan 211 prima (jawaban D).
 
 ---
 
@@ -1255,6 +1615,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **9 prima ganjil**.
 - **C salah** — Lupa salah satu.
 - **D salah** — Itu total prima (termasuk 2).
+- **Konsep kunci:** Semua bilangan prima ganjil didapat dari daftar prima dengan mengeluarkan 2 (satu-satunya prima genap).
+- **Langkah Penyelesaian:**
+  1. Daftar prima 1 sampai 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 (10 prima).
+  2. Kurangi 1 untuk mengeluarkan 2 (prima genap).
+  3. Hasilnya 9 (jawaban B).
 
 ---
 
@@ -1270,6 +1635,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 25 = 5 × 5 (sama).
 - **C salah** — 27 = 3³ (perkalian tiga prima sama, juga bukan dua).
 - **D benar** — **35 = 5 × 7** (dua prima **berbeda**, disebut semiprime).
+- **Konsep kunci:** Bentuk semiprime dengan dua faktor prima yang berbeda berbeda dari bentuk kuadrat prima.
+- **Langkah Penyelesaian:**
+  1. Cek 49 = 7×7, 25 = 5×5, 27 = 3³ (bukan dua prima berbeda).
+  2. Cek 35 = 5×7 (dua prima berbeda).
+  3. Jawaban D.
 
 ---
 
@@ -1286,6 +1656,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 3+3, tapi pakai 1 yang sama.
 - **C salah** — 2+5.
 - **D benar** — **2 + 3 = 5**.
+- **Konsep kunci:** Dua bilangan prima terkecil adalah 2 dan 3.
+- **Langkah Penyelesaian:**
+  1. Tentukan dua prima terkecil: 2 dan 3.
+  2. Jumlahkan keduanya.
+  3. Hasilnya 5 (jawaban D).
 
 ---
 
@@ -1303,6 +1678,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Lupa 101 atau 109.
 - **C salah** — Lupa 2 prima.
 - **D benar** — **4 prima**: 101, 103, 107, 109.
+- **Konsep kunci:** Menghitung prima dalam rentang dengan menguji tiap bilangan satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek tiap bilangan 100 sampai 110 dengan faktorisasi cepat.
+  2. Prima yang ditemukan: 101, 103, 107, 109.
+  3. Hitung banyaknya = 4 (jawaban D).
 
 ---
 
@@ -1320,6 +1700,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 4 dan 15 bukan prima.
 - **C benar** — **2² × 3 × 5**, semua prima.
 - **D salah** — 6 dan 10 bukan prima.
+- **Konsep kunci:** Faktorisasi prima menuliskan bilangan sebagai hasil kali bilangan-bilangan prima saja.
+- **Langkah Penyelesaian:**
+  1. Pecah 60 menjadi faktor-faktor prima: 60 = 2 × 2 × 3 × 5.
+  2. Tulis dalam bentuk pangkat: 2² × 3 × 5.
+  3. Jawaban C.
 
 ---
 
@@ -1335,6 +1720,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 51 = 3 × 17.
 - **C salah** — 91 = 7 × 13.
 - **D benar** — **71 prima**. Cek 2, 3, 5, 7 (√71 ≈ 8,4): tidak ada yang habis.
+- **Konsep kunci:** Akhiran suatu bilangan tidak menjamin keprimaan; tetap harus diuji pembagi primanya.
+- **Langkah Penyelesaian:**
+  1. Cek 21 = 3×7, 51 = 3×17, 91 = 7×13 → semua komposit.
+  2. Cek 71: tidak habis dibagi 2, 3, 5, 7 (√71 ≈ 8,4).
+  3. Simpulkan 71 prima (jawaban D).
 
 ---
 
@@ -1352,6 +1742,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **5 prima**: 41, 43, 47, 53, 59.
 - **C salah** — Salah masukkan 51 atau 57 sebagai prima.
 - **D salah** — Lupa banyak.
+- **Konsep kunci:** Menghitung prima dalam rentang dengan menyaring bilangan komposit terlebih dahulu.
+- **Langkah Penyelesaian:**
+  1. Cek tiap kandidat 40 sampai 60 dan singkirkan yang komposit (45, 49, 51, 55, 57).
+  2. Sisa yang prima: 41, 43, 47, 53, 59.
+  3. Hitung banyaknya = 5 (jawaban B).
 
 ---
 
@@ -1368,6 +1763,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 25 faktor.
 - **C salah** — 50 faktor.
 - **D benar** — **15 BUKAN faktor 100** (100 ÷ 15 ≈ 6,67 ✗). 15 mengandung faktor 3, sedangkan 100 tidak punya faktor 3.
+- **Konsep kunci:** Faktor suatu bilangan hanya boleh mengandung faktor prima yang sama dengan bilangan itu.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 100 = 2² × 5².
+  2. Cek tiap pilihan apakah membagi 100 habis.
+  3. 15 mengandung faktor 3 yang tidak ada di 100 → bukan faktor (jawaban D).
 
 ---
 
@@ -1387,6 +1787,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 32 = 2⁵ → 6 faktor.
 - **C salah** — 36 = 2² × 3² → 9 faktor.
 - **D benar** — **16 = 2⁴** punya tepat 5 faktor (1, 2, 4, 8, 16).
+- **Konsep kunci:** Bilangan dengan tepat 5 faktor selalu berbentuk pangkat empat dari bilangan prima (p⁴).
+- **Langkah Penyelesaian:**
+  1. Ingat bentuk p⁴ menghasilkan 5 faktor (1, p, p², p³, p⁴).
+  2. Ambil p terkecil = 2 → 2⁴ = 16.
+  3. Jawaban D.
 
 ---
 
@@ -1404,6 +1809,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 18 = 2 × 3² → 6 faktor, tapi 12 lebih kecil.
 - **C benar** — **12 = 2² × 3**, faktor (1, 2, 3, 4, 6, 12) = 6.
 - **D salah** — 24 = 2³ × 3 → 8 faktor.
+- **Konsep kunci:** Bilangan dengan tepat 6 faktor bisa berbentuk p⁵, p²×q, atau p×q².
+- **Langkah Penyelesaian:**
+  1. Hitung tiga kemungkinan bentuk: 2⁵ = 32, 2²×3 = 12, 2×3² = 18.
+  2. Bandingkan mana yang terkecil.
+  3. Jawaban C (12).
 
 ---
 
@@ -1420,6 +1830,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah satu prima dilewat.
 - **C benar** — **24 faktor**.
 - **D salah** — Salah aturan.
+- **Konsep kunci:** Rumus banyak faktor adalah hasil kali (pangkat+1) tiap prima penyusun.
+- **Langkah Penyelesaian:**
+  1. Identifikasi pangkat tiap prima: 3, 2, 1.
+  2. Hitung (3+1)(2+1)(1+1) = 4 × 3 × 2.
+  3. Jawaban C (24).
 
 ---
 
@@ -1437,6 +1852,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah salah satu prima.
 - **C salah** — Salah urutan.
 - **D benar** — **18**.
+- **Konsep kunci:** Mengurutkan bilangan prima untuk menemukan bilangan pada posisi tertentu, lalu menghitung selisihnya.
+- **Langkah Penyelesaian:**
+  1. Tulis urutan prima sampai posisi ke-15.
+  2. Tentukan prima ke-10 (29) dan ke-15 (47).
+  3. Hitung selisih: 47 − 29 = 18 (jawaban D).
 
 ---
 
@@ -1457,6 +1877,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **p = 17** menghasilkan 17 × 19 (komposit). Setiap polinomial prima pasti gagal di p = konstanta.
 - **C salah** — 23 prima.
 - **D salah** — 37 prima.
+- **Konsep kunci:** Rumus polinomial penghasil prima selalu gagal ketika variabelnya sama dengan konstanta rumus tersebut.
+- **Langkah Penyelesaian:**
+  1. Hitung hasil rumus untuk tiap nilai p yang diberikan.
+  2. Uji keprimaan tiap hasil.
+  3. p = 17 menghasilkan 17 × 19 (komposit), jawaban B.
 
 ---
 
@@ -1475,6 +1900,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **77**.
 - **C salah** — Salah hitung.
 - **D salah** — Lupa atau tambah.
+- **Konsep kunci:** Menjumlahkan seluruh bilangan prima dalam suatu rentang, bisa dipermudah dengan mengelompokkan pasangan.
+- **Langkah Penyelesaian:**
+  1. Daftar prima ≤20: 2, 3, 5, 7, 11, 13, 17, 19.
+  2. Jumlahkan semuanya (bisa berpasangan agar mudah).
+  3. Hasilnya 77 (jawaban B).
 
 ---
 
@@ -1493,6 +1923,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah hitung prima.
 - **C salah** — Lupa kurangi prima.
 - **D benar** — **74 komposit** (1 ≤ n ≤ 100).
+- **Konsep kunci:** Banyak bilangan komposit didapat dengan mengurangi total bilangan dengan banyak prima dan angka 1.
+- **Langkah Penyelesaian:**
+  1. Total bilangan 1 sampai 100 = 100.
+  2. Kurangi 1 (bukan prima/komposit) dan 25 prima.
+  3. Hasilnya 100 − 26 = 74 (jawaban D).
 
 ---
 
@@ -1510,6 +1945,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 15 bukan prima.
 - **C benar** — **2³ × 3² × 5** (semua prima).
 - **D salah** — 4, 9, 10 bukan prima.
+- **Konsep kunci:** Faktorisasi prima menuliskan bilangan sebagai hasil kali pangkat bilangan-bilangan prima.
+- **Langkah Penyelesaian:**
+  1. Pecah 360 menjadi faktor prima bertahap: 360 = 36 × 10 = (4×9) × (2×5).
+  2. Susun ulang: 2³ × 3² × 5.
+  3. Jawaban C.
 
 ---
 
@@ -1526,6 +1966,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **24 faktor**.
 - **C salah** — Salah aturan.
 - **D salah** — Salah hitung.
+- **Konsep kunci:** Rumus banyak faktor dihitung dari hasil kali (pangkat+1) tiap prima pada faktorisasi.
+- **Langkah Penyelesaian:**
+  1. Gunakan faktorisasi 360 = 2³ × 3² × 5.
+  2. Hitung (3+1)(2+1)(1+1) = 4 × 3 × 2.
+  3. Jawaban B (24).
 
 ---
 
@@ -1542,6 +1987,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 209 = 11 × 19.
 - **C benar** — **211 prima** (cek 2, 3, 5, 7, 11, 13 sampai √211 ≈ 14,5; tidak ada yang habis).
 - **D salah** — 205 = 5 × 41.
+- **Konsep kunci:** Mencari prima terkecil di atas suatu batas dengan menguji bilangan berurutan satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek bilangan 201 sampai 210 satu per satu, cari faktor kecilnya.
+  2. Semua ternyata komposit hingga 210.
+  3. Cek 211: tidak ada pembagi prima ≤√211 → prima (jawaban C).
 
 ---
 
@@ -1560,6 +2010,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Ganjil.
 - **C benar** — **2311 prima**. (Ilustrasi bukti Euclid tentang tak hingga banyaknya prima.)
 - **D salah** — 2311 ÷ 11 = 210,09 ✗.
+- **Konsep kunci:** Bukti Euclid menunjukkan hasil kali beberapa prima ditambah 1 tidak habis dibagi prima-prima penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Hitung n = 2310 + 1 = 2311, sadari tidak habis dibagi 2, 3, 5, 7, 11.
+  2. Cek pembagi prima lain sampai √2311 ≈ 48.
+  3. Tidak ada yang membagi habis → simpulkan 2311 prima (jawaban C).
 
 ---
 
@@ -1576,6 +2031,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **2³ × 5³** (8 × 125 = 1000 ✓).
 - **C salah** — 500 bukan prima.
 - **D salah** — 4 dan 250 bukan prima.
+- **Konsep kunci:** Faktorisasi prima menuliskan bilangan sebagai hasil kali pangkat bilangan-bilangan prima saja.
+- **Langkah Penyelesaian:**
+  1. Tulis 1000 = 10³.
+  2. Pecah 10 = 2 × 5, sehingga 1000 = (2×5)³.
+  3. Sederhanakan menjadi 2³ × 5³ (jawaban B).
 
 ---
 
@@ -1595,6 +2055,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Salah hitung.
 - **C benar** — **74**. (Yang TIDAK habis = 26 = jumlah bilangan coprime ke 30 ≤ 100 + 1.)
 - **D salah** — Sama dengan A.
+- **Konsep kunci:** Prinsip inklusi-eksklusi digunakan untuk menghitung gabungan himpunan kelipatan tanpa menghitung dobel.
+- **Langkah Penyelesaian:**
+  1. Hitung banyak kelipatan tiap bilangan: 2 → 50, 3 → 33, 5 → 20.
+  2. Kurangi irisan berpasangan (kelipatan 6, 10, 15) lalu tambah irisan tiga (kelipatan 30).
+  3. Jumlahkan sesuai rumus inklusi-eksklusi, hasilnya 74 (jawaban C).
 
 ---
 
@@ -1612,6 +2077,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 506 belum dipecah.
 - **C salah** — 1012 belum dipecah.
 - **D salah** — 4 bukan prima dan 506 belum dipecah.
+- **Konsep kunci:** Faktorisasi prima dilakukan dengan membagi berulang menggunakan bilangan prima terkecil terlebih dahulu.
+- **Langkah Penyelesaian:**
+  1. Bagi 2024 berulang dengan 2: 2024 = 2³ × 253.
+  2. Faktorkan 253: 253 = 11 × 23 (keduanya prima).
+  3. Gabungkan hasil: 2³ × 11 × 23 (jawaban A).
 
 ---
 
@@ -1630,6 +2100,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — Hanya 2 dari 6.
 - **C salah** — Hanya 1.
 - **D salah** — 50 bukan prima.
+- **Konsep kunci:** Konjektur Goldbach dapat dibuktikan konkret dengan mendaftar semua pasangan prima yang berjumlah suatu bilangan genap.
+- **Langkah Penyelesaian:**
+  1. Cek tiap bilangan prima p ≤50 apakah 100 − p juga prima.
+  2. Catat semua pasangan yang memenuhi.
+  3. Ditemukan 6 pasangan lengkap (jawaban A).
 
 ---
 
@@ -1647,6 +2122,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 8 komposit (8 = 2³).
 - **C salah** — 24 komposit (24 = 4 × 6 = 2³ × 3).
 - **D salah** — 15 = 3 × 5.
+- **Konsep kunci:** Bentuk n² − 1 dapat difaktorkan menjadi (n−1)(n+1) sehingga hanya prima untuk satu nilai n tertentu.
+- **Langkah Penyelesaian:**
+  1. Uraikan n² − 1 = (n−1)(n+1).
+  2. Untuk n ≥ 3, kedua faktor ≥ 2 sehingga selalu komposit.
+  3. Hanya n = 2 menghasilkan prima (3), jawaban A.
 
 ---
 
@@ -1664,6 +2144,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 2047 ganjil.
 - **C salah** — 2047 ÷ 7 ≈ 292,4 ✗.
 - **D benar** — **2047 = 23 × 89** → komposit. **JEBAKAN OSN**: 2^p − 1 prima hanya jika p prima, tapi bukan setiap p prima menghasilkan Mersenne prime.
+- **Konsep kunci:** Tidak semua bentuk 2^p − 1 dengan p prima menghasilkan bilangan prima Mersenne.
+- **Langkah Penyelesaian:**
+  1. Hitung 2047 = 2¹¹ − 1.
+  2. Cari pembagi: 2047 ÷ 23 = 89 → habis.
+  3. Simpulkan 2047 = 23 × 89 komposit (jawaban D), walau p = 11 prima.
 
 ---
 
@@ -1681,6 +2166,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B benar** — **28**.
 - **C salah** — Salah jumlah.
 - **D salah** — Lupa 12 sendiri.
+- **Konsep kunci:** Jumlah faktor adalah total nilai semua faktor suatu bilangan, berbeda dengan banyak faktor.
+- **Langkah Penyelesaian:**
+  1. Daftar semua faktor 12: 1, 2, 3, 4, 6, 12.
+  2. Jumlahkan seluruh faktor tersebut.
+  3. Hasilnya 28 (jawaban B).
 
 ---
 
@@ -1696,6 +2186,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 121 = 11².
 - **C salah** — 169 = 13².
 - **D benar** — **113 prima**. √113 ≈ 10,6. Cek 2, 3, 5, 7: 113 ÷ 2 ✗; 1+1+3=5 ✗; akhiran 3 ✗; 113 ÷ 7 ≈ 16,14 ✗.
+- **Konsep kunci:** Bilangan besar tetap harus diuji pembagi prima sampai akar kuadratnya sebelum disimpulkan prima.
+- **Langkah Penyelesaian:**
+  1. Cek 111 = 3×37, 121 = 11², 169 = 13² → semua komposit.
+  2. Cek 113: coba bagi 2, 3, 5, 7 (√113 ≈ 10,6) → tidak ada yang habis.
+  3. Simpulkan 113 prima (jawaban D).
 
 ---
 
@@ -1714,6 +2209,11 @@ Catatan: jumlah dua prima ganjil selalu **genap > 2** → otomatis komposit. Jad
 - **B salah** — 36 = 2² × 3² → 9 faktor.
 - **C salah** — 48 = 2⁴ × 3 → 10 faktor.
 - **D benar** — **24** dengan tepat 8 faktor: {1, 2, 3, 4, 6, 8, 12, 24}.
+- **Konsep kunci:** Bilangan dengan tepat 8 faktor bisa berbentuk p⁷, p³×q, atau p×q×r.
+- **Langkah Penyelesaian:**
+  1. Hitung tiga kemungkinan bentuk: 2⁷ = 128, 2³×3 = 24, 2×3×5 = 30.
+  2. Bandingkan mana yang terkecil.
+  3. Jawaban D (24).
 
 ---
 

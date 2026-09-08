@@ -155,7 +155,12 @@ Es batu menjadi air pada suhu 0°C. Perubahan wujud ini disebut...
 - C. Menguap
 - D. Menyublim
 
-**📖 Pembahasan:** Padat → cair = mencair. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Perubahan padat menjadi cair karena menyerap kalor disebut mencair.
+- **A benar:** Es (padat) menjadi air (cair) karena menyerap kalor pada titik leleh 0°C — sesuai definisi mencair.
+- **B salah:** Membeku adalah kebalikannya (cair menjadi padat), bukan padat menjadi cair.
+- **C salah:** Menguap adalah cair menjadi gas, bukan padat menjadi cair.
+- **D salah:** Menyublim adalah padat langsung menjadi gas tanpa lewat cair; es di soal tetap melewati fase cair (air).
 
 ---
 
@@ -168,7 +173,12 @@ Air dimasukkan freezer dan menjadi es. Perubahan wujud ini disebut...
 - C. Menguap
 - D. Deposisi
 
-**📖 Pembahasan:** Cair → padat = membeku. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Perubahan cair menjadi padat karena melepas kalor disebut membeku.
+- **A salah:** Mencair adalah kebalikannya (padat ke cair), bukan air menjadi es.
+- **B benar:** Air (cair) menjadi es (padat) dengan melepas kalor ke lingkungan dingin di freezer — sesuai definisi membeku.
+- **C salah:** Menguap adalah cair menjadi gas; di soal air justru menjadi padat, bukan gas.
+- **D salah:** Deposisi adalah gas langsung menjadi padat, sedangkan yang berubah di sini adalah air cair, bukan gas.
 
 ---
 
@@ -181,7 +191,12 @@ Air di panci yang dipanaskan menjadi uap. Perubahan wujud ini disebut...
 - C. **Menguap (cair → gas)**
 - D. Deposisi
 
-**📖 Pembahasan:** Cair → gas = menguap (mendidih kalau di seluruh volume). **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Perubahan cair menjadi gas karena menyerap kalor disebut menguap.
+- **A salah:** Membeku adalah cair menjadi padat, bukan menjadi uap (gas).
+- **B salah:** Mencair adalah padat menjadi cair; air di soal sudah cair sejak awal, bukan berasal dari padat.
+- **C benar:** Air cair berubah menjadi uap (gas) setelah menyerap kalor dari kompor — sesuai definisi menguap.
+- **D salah:** Deposisi adalah gas menjadi padat, arahnya terbalik dari yang terjadi di soal.
 
 ---
 
@@ -194,7 +209,12 @@ Tetesan air muncul di luar gelas berisi minuman dingin. Perubahan wujudnya:
 - C. Membeku
 - D. **Mengembun (gas → cair) — uap air di udara mengembun jadi tetesan**
 
-**📖 Pembahasan:** Gas → cair = mengembun. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Perubahan gas menjadi cair karena melepas kalor disebut mengembun.
+- **A salah:** Mencair adalah padat menjadi cair, sedangkan yang berubah di sini adalah uap air (gas) menjadi tetesan (cair).
+- **B salah:** Menguap adalah arah sebaliknya, yaitu cair menjadi gas, bukan gas menjadi cair.
+- **C salah:** Membeku adalah cair menjadi padat, bukan gas menjadi cair.
+- **D benar:** Uap air di udara yang bersentuhan dengan gelas dingin melepas kalor dan berubah menjadi tetesan air — itulah mengembun.
 
 ---
 
@@ -207,7 +227,12 @@ Kapur barus (kamper) lama-lama mengecil dan habis tanpa meninggalkan cairan. Per
 - C. Membeku
 - D. Mengembun
 
-**📖 Pembahasan:** Padat → gas langsung = menyublim. Kapur barus contoh klasik. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Padat berubah langsung menjadi gas tanpa melalui cair disebut menyublim.
+- **A benar:** Kapur barus mengecil dan habis tanpa meninggalkan cairan karena berubah langsung dari padat ke gas — ciri khas menyublim.
+- **B salah:** Mencair pasti meninggalkan cairan (padat jadi cair), padahal soal menegaskan "tanpa meninggalkan cairan".
+- **C salah:** Membeku adalah cair menjadi padat, sedangkan kapur barus justru berkurang (padat hilang), bukan bertambah.
+- **D salah:** Mengembun adalah gas menjadi cair, tidak sesuai dengan kapur barus yang padatnya menghilang.
 
 ---
 
@@ -220,7 +245,12 @@ Kristal es (frost) muncul di dinding freezer atau di kaca jendela saat sangat di
 - C. Membeku
 - D. Menyublim
 
-**📖 Pembahasan:** Gas → padat langsung = deposisi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas (uap air) berubah langsung menjadi padat tanpa melalui cair disebut deposisi/mengkristal.
+- **A salah:** Mencair adalah padat menjadi cair, padahal di soal terbentuk kristal es (padat) dari uap, bukan sebaliknya.
+- **B benar:** Uap air di udara yang sangat dingin berubah langsung menjadi kristal es (padat) tanpa lewat fase cair — itulah deposisi.
+- **C salah:** Membeku memerlukan fase cair terlebih dahulu (cair → padat), sedangkan frost terbentuk langsung dari uap.
+- **D salah:** Menyublim arahnya terbalik, yaitu padat menjadi gas, bukan gas menjadi padat.
 
 ---
 
@@ -233,7 +263,12 @@ Air mendidih pada suhu...
 - C. **100°C** (pada tekanan 1 atm)
 - D. 200°C
 
-**📖 Pembahasan:** Standar SI. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik didih air pada tekanan 1 atm adalah nilai tetap yang wajib dihafal.
+- **A salah:** 50°C terlalu rendah — pada suhu ini air baru mengalami penguapan permukaan, belum mendidih.
+- **B salah:** 80°C masih di bawah titik didih normal air pada tekanan 1 atm.
+- **C benar:** Pada tekanan atmosfer normal (1 atm), air mendidih tepat pada 100°C.
+- **D salah:** 200°C jauh melebihi titik didih air pada tekanan normal; suhu setinggi itu hanya tercapai pada tekanan sangat tinggi.
 
 ---
 
@@ -246,7 +281,12 @@ Air membeku pada suhu...
 - C. 32°C
 - D. **0°C** (pada tekanan 1 atm)
 
-**📖 Pembahasan:** Standar SI. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik beku air pada tekanan 1 atm adalah nilai tetap yang wajib dihafal.
+- **A salah:** 100°C adalah titik didih air, bukan titik beku — sering tertukar antara dua titik tetap ini.
+- **B salah:** 50°C tidak sesuai data manapun untuk air; bukan titik tetap yang dikenal.
+- **C salah:** 32°C adalah nilai titik beku air dalam skala Fahrenheit, bukan Celsius — sumber kekeliruan konversi satuan.
+- **D benar:** Pada tekanan 1 atm, air membeku (menjadi es) tepat pada 0°C.
 
 ---
 
@@ -259,7 +299,12 @@ Saat es mencair, suhu tetap 0°C walau kalor terus masuk. Mengapa?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Kalor laten ≠ kalor sensibel. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor laten dipakai untuk memutus ikatan antarpartikel, bukan menaikkan suhu.
+- **A benar:** Selama mencair, kalor yang masuk digunakan untuk memutus ikatan antarpartikel es (kalor laten peleburan), sehingga suhu tetap 0°C walau kalor terus ditambahkan.
+- **B salah:** Magnet tidak berhubungan sama sekali dengan perubahan wujud atau kalor.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika ini.
+- **D salah:** Cahaya tidak berperan dalam proses pencairan es; yang berperan adalah kalor.
 
 ---
 
@@ -272,7 +317,12 @@ Saat keringat menguap dari kulit, tubuh terasa **lebih sejuk** karena...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Evaporative cooling. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Penguapan menyerap kalor dari lingkungan sekitarnya (evaporative cooling).
+- **A salah:** Magnet tidak ada hubungannya dengan rasa sejuk akibat keringat menguap.
+- **B benar:** Saat keringat (cairan) menguap menjadi gas, ia menyerap kalor dari kulit sehingga suhu kulit turun dan terasa sejuk.
+- **C salah:** "Tradisi" bukan penjelasan fisika untuk proses pendinginan tubuh.
+- **D salah:** Cahaya bukan penyebab efek sejuk; penyebabnya adalah penyerapan kalor saat penguapan.
 
 ---
 
@@ -285,7 +335,12 @@ Saat keringat menguap dari kulit, tubuh terasa **lebih sejuk** karena...
 - C. **CO₂ padat — menyublim langsung jadi gas CO₂, tidak meninggalkan cairan**
 - D. Magnet
 
-**📖 Pembahasan:** Es kering = solid CO₂. Sublimasi pada -78.5°C. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Es kering adalah CO₂ padat yang menyublim langsung menjadi gas.
+- **A salah:** Air beku biasa akan mencair menjadi cairan yang membasahi makanan, berbeda dengan es kering yang "kering".
+- **B salah:** Logam dingin tidak berubah wujud pada suhu sekitar dan tidak digunakan sebagai pendingin makanan beku.
+- **C benar:** Es kering adalah CO₂ padat yang langsung menyublim menjadi gas CO₂ tanpa melalui fase cair, pada suhu -78,5°C, sehingga tidak meninggalkan cairan.
+- **D salah:** Magnet tidak berkaitan dengan sifat pendinginan es kering.
 
 ---
 
@@ -298,7 +353,12 @@ Embun pagi muncul karena...
 - C. Hujan
 - D. **Uap air di udara mengembun jadi tetesan saat suhu turun di pagi → menempel di daun/rumput**
 
-**📖 Pembahasan:** Mengembun karena suhu turun. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Embun terbentuk dari uap air yang mengembun saat suhu udara turun.
+- **A salah:** Magnet tidak berhubungan dengan pembentukan embun.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah proses fisika pembentukan embun.
+- **C salah:** Hujan terjadi karena tetesan air di awan jatuh ke tanah, berbeda dengan embun yang terbentuk langsung di permukaan benda dekat tanah.
+- **D benar:** Saat suhu turun di pagi hari, uap air di udara mengembun menjadi tetesan air yang menempel di daun atau rumput.
 
 ---
 
@@ -311,7 +371,12 @@ Lilin yang dipanaskan akan...
 - C. Membeku
 - D. Menyublim
 
-**📖 Pembahasan:** Lilin = padat → cair saat panas. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Padat menjadi cair karena menyerap kalor disebut mencair.
+- **A benar:** Lilin padat menyerap kalor dari api sehingga berubah menjadi cair — inilah proses mencair.
+- **B salah:** Lilin tidak hilang begitu saja; ia berubah wujud menjadi cair terlebih dahulu, baru sebagian menguap saat terbakar.
+- **C salah:** Membeku adalah proses sebaliknya (cair menjadi padat), bukan yang terjadi saat lilin dipanaskan.
+- **D salah:** Menyublim berarti padat langsung menjadi gas tanpa lewat cair, sedangkan lilin yang dipanaskan jelas melewati fase cair (leleh).
 
 ---
 
@@ -324,7 +389,12 @@ Kabut pagi terdiri dari...
 - C. Gas saja
 - D. Magnet
 
-**📖 Pembahasan:** Kabut = tetesan air halus di udara, hasil pengembunan. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kabut adalah kumpulan tetesan air hasil pengembunan uap air di udara dekat permukaan tanah.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah tentang komposisi kabut.
+- **B benar:** Kabut terbentuk dari uap air yang mengembun menjadi tetesan air sangat halus yang melayang di udara dekat permukaan.
+- **C salah:** Jika kabut hanya berupa gas, ia tidak akan terlihat; kabut terlihat karena berupa tetesan cair halus, bukan gas murni.
+- **D salah:** Magnet tidak berkaitan dengan pembentukan kabut.
 
 ---
 
@@ -337,7 +407,12 @@ Besi mencair pada suhu...
 - C. 500°C
 - D. 0°C
 
-**📖 Pembahasan:** Titik leleh besi murni 1538°C. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Setiap zat punya titik leleh berbeda tergantung kekuatan ikatan partikelnya.
+- **A benar:** Besi memiliki ikatan logam yang sangat kuat sehingga titik lelehnya sangat tinggi, sekitar 1538°C.
+- **B salah:** 100°C adalah titik didih air, jauh lebih rendah dari titik leleh besi yang berikatan logam kuat.
+- **C salah:** 500°C masih jauh di bawah titik leleh besi yang sebenarnya.
+- **D salah:** 0°C adalah titik beku air, tidak relevan dengan logam besi yang ikatannya jauh lebih kuat dari air.
 
 ---
 
@@ -350,7 +425,12 @@ Besi mencair pada suhu...
 - C. **Menyublim langsung menjadi uap iodin berwarna ungu**
 - D. Membeku
 
-**📖 Pembahasan:** Iodin contoh klasik sublimasi. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Iodin padat termasuk zat yang mudah menyublim (padat langsung menjadi gas).
+- **A salah:** Mencair berarti iodin harus melalui fase cair dahulu, padahal ciri khas iodin adalah langsung menjadi uap tanpa mencair.
+- **B salah:** Magnet tidak berkaitan dengan sifat sublimasi iodin.
+- **C benar:** Iodin padat yang dipanaskan langsung berubah menjadi uap berwarna ungu tanpa melalui fase cair — contoh klasik sublimasi.
+- **D salah:** Membeku adalah cair menjadi padat, sedangkan iodin di soal justru berubah dari padat menjadi gas saat dipanaskan.
 
 ---
 
@@ -363,7 +443,12 @@ AC ruangan bekerja dengan...
 - C. Cahaya
 - D. **Siklus refrigerant: cair → gas (ambil panas dari ruang) → kompresi → gas → cair (lepas panas ke luar)**
 
-**📖 Pembahasan:** Refrigeration cycle. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** AC memanfaatkan siklus penguapan dan pengembunan refrigerant untuk memindahkan panas.
+- **A salah:** Magnet tidak digunakan dalam prinsip kerja pendinginan AC.
+- **B salah:** "Tradisi" bukan penjelasan mekanisme kerja mesin pendingin.
+- **C salah:** Cahaya tidak berperan dalam siklus pendinginan AC.
+- **D benar:** Refrigerant menguap (cair ke gas) di dalam ruangan untuk menyerap panas, lalu mengembun (gas ke cair) di luar ruangan untuk melepas panas.
 
 ---
 
@@ -376,7 +461,12 @@ Lava (batuan cair dari gunung berapi) yang mengalir lalu mendingin akan...
 - C. Menguap
 - D. Magnet
 
-**📖 Pembahasan:** Lava cair → batu padat = membeku. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Cair yang melepas kalor dan mengeras menjadi padat disebut membeku.
+- **A salah:** Lava tidak hilang, melainkan berubah wujud menjadi batuan padat.
+- **B benar:** Lava (batuan cair) melepas kalor saat mendingin sehingga membeku menjadi batuan padat.
+- **C salah:** Menguap berarti berubah menjadi gas, sedangkan lava yang mendingin justru mengeras menjadi padat.
+- **D salah:** Magnet tidak berkaitan dengan proses pendinginan lava.
 
 ---
 
@@ -389,7 +479,12 @@ Mendidih dan menguap berbeda. Yang **benar**:
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Beda penting. Jemuran kering = penguapan di suhu kamar; air panci = mendidih di 100°C. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Menguap terjadi di permukaan pada semua suhu, sedangkan mendidih terjadi di seluruh volume hanya pada titik didih.
+- **A salah:** Keduanya tidak sama persis — bedanya terletak pada lokasi (permukaan vs seluruh volume) dan syarat suhu.
+- **B benar:** Mendidih terjadi di seluruh volume cairan tepat pada titik didihnya, sedangkan menguap bisa terjadi di permukaan pada berbagai suhu (contoh: jemuran kering di suhu kamar, air panci mendidih di 100°C).
+- **C salah:** Magnet tidak relevan dengan perbedaan konsep penguapan dan pendidihan.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah untuk perbedaan dua istilah fisika ini.
 
 ---
 
@@ -402,7 +497,12 @@ Kapur barus dilemari pakaian lama-lama habis. Mekanismenya:
 - C. Tradisi
 - D. **Sublimasi — padat menjadi gas langsung yang menyebar di udara (bau khas kapur barus)**
 
-**📖 Pembahasan:** Kapur barus sublimasi pada suhu kamar. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sublimasi adalah padat berubah langsung menjadi gas.
+- **A salah:** Kapur barus tidak "diangkut" oleh air; ia berubah wujud sendiri menjadi gas.
+- **B salah:** Magnet tidak berkaitan dengan hilangnya kapur barus.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk proses fisika ini.
+- **D benar:** Kapur barus mengalami sublimasi, yaitu berubah langsung dari padat menjadi gas yang menyebar di udara sebagai bau khas.
 
 ---
 
@@ -415,7 +515,12 @@ Lemari es bekerja dengan menggunakan perubahan wujud refrigerant. Dalam tabung e
 - C. Tradisi
 - D. Gas → cair
 
-**📖 Pembahasan:** Evaporator: cair menguap → ambil panas → interior dingin. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Di evaporator, refrigerant menguap (cair ke gas) sambil menyerap panas dari sekitarnya.
+- **A benar:** Di evaporator, refrigerant berubah dari cair menjadi gas dan menyerap panas dari dalam lemari es, membuat interior menjadi dingin.
+- **B salah:** Magnet tidak berperan dalam proses pendinginan lemari es.
+- **C salah:** "Tradisi" bukan penjelasan mekanisme kerja lemari es.
+- **D salah:** Perubahan gas menjadi cair (mengembun) terjadi di kondensor, bukan di evaporator, dan melepas — bukan menyerap — panas.
 
 ---
 
@@ -428,7 +533,12 @@ Hujan adalah hasil dari...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Hujan = pengembunan + gravitasi. Siklus air. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Hujan terbentuk dari uap air yang mengembun di atmosfer menjadi tetesan air.
+- **A salah:** Magnet tidak berkaitan dengan proses terbentuknya hujan.
+- **B benar:** Uap air di atmosfer mengembun menjadi tetesan air yang semakin membesar hingga akhirnya jatuh sebagai hujan.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk proses fisika pembentukan hujan.
+- **D salah:** Cahaya tidak menyebabkan pembentukan hujan; penyebabnya adalah pengembunan uap air.
 
 ---
 
@@ -441,7 +551,12 @@ Manakah perubahan wujud yang **melepas kalor**?
 - C. **Membeku, mengembun, deposisi**
 - D. Sublimasi
 
-**📖 Pembahasan:** Ke wujud lebih terikat = lepas kalor. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Perubahan wujud ke bentuk yang lebih terikat (padat/cair) melepas kalor.
+- **A salah:** Mencair justru menyerap kalor karena berubah ke wujud yang lebih bebas (cair).
+- **B salah:** Menguap juga menyerap kalor, bukan melepas, karena berubah ke wujud gas yang lebih bebas.
+- **C benar:** Membeku, mengembun, dan deposisi semuanya berubah ke wujud yang lebih terikat sehingga melepas kalor.
+- **D salah:** Sublimasi (padat ke gas) menyerap kalor, bukan melepas, karena partikel menjadi lebih bebas.
 
 ---
 
@@ -454,7 +569,12 @@ Awan terbentuk di langit karena...
 - C. Cahaya
 - D. **Uap air dari Bumi naik, mendingin di ketinggian, mengembun menjadi tetesan air halus atau kristal es**
 
-**📖 Pembahasan:** Awan = pengembunan/deposisi di atmosfer atas. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan terbentuk dari uap air yang naik lalu mengembun/mengkristal di udara dingin ketinggian.
+- **A salah:** Magnet tidak berkaitan dengan pembentukan awan.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah pembentukan awan.
+- **C salah:** Cahaya bukan penyebab utama terbentuknya awan; penyebabnya adalah pendinginan uap air.
+- **D benar:** Uap air yang naik dari permukaan Bumi mendingin di ketinggian dan mengembun/mengkristal menjadi tetesan air atau kristal es halus yang membentuk awan.
 
 ---
 
@@ -467,7 +587,12 @@ Kristal salju (snowflake) di langit terbentuk dari...
 - C. Magnet
 - D. **Uap air langsung menjadi kristal es di awan (deposisi)**
 
-**📖 Pembahasan:** Salju = deposisi uap air di awan. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kristal salju terbentuk langsung dari uap air yang mengalami deposisi di awan dingin.
+- **A salah:** Salju bukan berasal dari tetesan air yang membeku; salju terbentuk langsung dari uap tanpa melalui fase cair.
+- **B salah:** Salju bukan pecahan es batu, melainkan kristal yang terbentuk alami di atmosfer.
+- **C salah:** Magnet tidak berkaitan dengan pembentukan kristal salju.
+- **D benar:** Uap air di awan yang sangat dingin langsung berubah menjadi kristal es (deposisi) tanpa melalui fase cair, membentuk kristal salju.
 
 ---
 
@@ -480,7 +605,12 @@ Saat memasak nasi dengan kukusan (steamer), nasi matang karena...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Steam cooking = aplikasi pengembunan. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Uap panas melepas kalor laten saat mengembun di permukaan makanan, mempercepat proses memasak.
+- **A benar:** Uap air panas mengembun pada nasi, melepas kalor dalam jumlah besar dan membawa kelembapan sehingga nasi matang dan mengembang.
+- **B salah:** Magnet tidak berperan dalam proses memasak dengan kukusan.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah mekanisme memasak dengan uap.
+- **D salah:** Cahaya tidak berperan dalam mekanisme pematangan nasi kukus; yang berperan adalah kalor dari uap.
 
 ---
 
@@ -493,7 +623,12 @@ Bensin di tangki mobil walaupun cair, akan...
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Bensin mudah menguap (volatile liquid). **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Cairan yang mudah menguap (volatil) berubah menjadi gas walau berada di suhu ruang.
+- **A salah:** Bensin tidak membeku pada suhu ruang; titik bekunya jauh di bawah suhu lingkungan biasa.
+- **B benar:** Bensin adalah cairan yang mudah menguap (volatil), sehingga terus-menerus berubah menjadi gas terutama saat suhu naik.
+- **C salah:** Magnet tidak berkaitan dengan sifat penguapan bensin.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah sifat fisik bensin.
 
 ---
 
@@ -506,7 +641,12 @@ Mengapa **air** di gelas terbuka berkurang setelah beberapa hari?
 - C. Tradisi
 - D. **Menguap perlahan pada suhu kamar (penguapan permukaan)**
 
-**📖 Pembahasan:** Penguapan di suhu kamar terjadi terus-menerus. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Penguapan permukaan terjadi terus-menerus pada suhu ruang, meski cairan tidak mendidih.
+- **A salah:** Air berkurang bukan karena bocor, melainkan karena proses fisika alami yaitu penguapan.
+- **B salah:** Magnet tidak berkaitan dengan berkurangnya volume air.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena ini.
+- **D benar:** Air di gelas terbuka terus mengalami penguapan permukaan secara perlahan pada suhu kamar, sehingga volumenya berkurang seiring waktu.
 
 ---
 
@@ -519,7 +659,12 @@ Kalor laten penguapan air **sangat tinggi**. Implikasi:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** L_v air = 2260 J/g, sangat tinggi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor laten penguapan air yang tinggi berarti butuh banyak energi untuk menguap, sehingga penguapan efektif menyerap panas.
+- **A salah:** Magnet tidak berkaitan dengan besarnya kalor laten penguapan air.
+- **B benar:** Kalor laten penguapan air sangat tinggi (2260 J/g) sehingga butuh banyak energi untuk mengubahnya menjadi uap — inilah sebabnya penguapan sangat efektif menyerap panas (misalnya lewat keringat).
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk sifat kalor laten air.
+- **D salah:** Cahaya tidak berkaitan dengan besarnya kalor laten penguapan.
 
 ---
 
@@ -532,7 +677,12 @@ Saat es dipanaskan dari -20°C ke 0°C, lalu terus, suhunya...
 - C. **Naik dari -20 ke 0°C, lalu plateau di 0°C selama mencair, kemudian naik lagi setelah semua cair**
 - D. Hilang
 
-**📖 Pembahasan:** Diagram suhu vs waktu memiliki plateau saat perubahan wujud. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu naik secara bertahap, tetapi tetap konstan (plateau) selama perubahan wujud berlangsung.
+- **A salah:** Suhu tidak naik terus secara konstan; ada jeda (plateau) saat es sedang mencair di 0°C.
+- **B salah:** Magnet tidak berkaitan dengan pola kenaikan suhu es yang dipanaskan.
+- **C benar:** Suhu naik dari -20°C menuju 0°C, lalu tetap di 0°C (plateau) selama proses mencair berlangsung, kemudian naik lagi setelah semua es mencair.
+- **D salah:** Es tidak hilang begitu saja; ia berubah wujud menjadi air, bukan lenyap.
 
 ---
 
@@ -545,7 +695,12 @@ Mengapa **bahan beku** ditaruh di **es kering** (dry ice) untuk pengiriman jarak
 - C. **Es kering sangat dingin (-78.5°C), tidak mencair tapi langsung sublimasi → tidak ada air yang membasahi makanan**
 - D. Tradisi
 
-**📖 Pembahasan:** Dry ice keuntungan: dingin & "kering". **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Es kering menyublim langsung menjadi gas tanpa melalui fase cair, sehingga tetap "kering".
+- **A salah:** Magnet tidak berkaitan dengan keunggulan es kering untuk pengiriman makanan beku.
+- **B salah:** Alasan pemilihan es kering bersifat fungsional (menjaga makanan tetap kering dan dingin), bukan sekadar estetika.
+- **C benar:** Es kering sangat dingin (-78,5°C) dan langsung menyublim menjadi gas CO₂ tanpa mencair, sehingga makanan tetap kering (tidak basah).
+- **D salah:** "Tradisi" bukan alasan ilmiah penggunaan es kering dalam pengiriman.
 
 ---
 
@@ -558,7 +713,12 @@ Pemurnian beberapa bahan kimia (seperti **kafein**) menggunakan sublimasi karena
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** Aplikasi industri sublimasi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sublimasi dapat dimanfaatkan untuk memurnikan zat dengan memisahkan gas dari kotoran padat, lalu mengembunkannya kembali.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah metode pemurnian bahan kimia.
+- **B benar:** Bahan seperti kafein dapat disublimasi menjadi uap, dipisahkan dari kotoran padat yang tidak menyublim, lalu diembunkan kembali menjadi padatan murni.
+- **C salah:** Magnet tidak berkaitan dengan proses pemurnian menggunakan sublimasi.
+- **D salah:** Cahaya tidak berperan dalam proses sublimasi untuk pemurnian zat.
 
 ---
 
@@ -571,7 +731,12 @@ Setelah mandi air panas, cermin kamar mandi sering "berembun". Sebabnya:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Pengembunan saat uap kontak dengan permukaan dingin. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Uap air mengembun saat menyentuh permukaan yang lebih dingin darinya.
+- **A benar:** Uap air panas dari air mandi mengembun ketika bersentuhan dengan permukaan cermin yang lebih dingin, membentuk tetesan halus yang membuat cermin buram.
+- **B salah:** Magnet tidak berkaitan dengan fenomena cermin berembun.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk peristiwa fisika ini.
+- **D salah:** Cahaya tidak menyebabkan cermin berembun; penyebabnya adalah pengembunan uap air.
 
 ---
 
@@ -584,7 +749,12 @@ Untuk **mendinginkan minuman** cepat tanpa kulkas, kita bisa...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Evaporative cooling tradisional. Pakai kendi tanah liat di Indonesia. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air yang menguap dari kain basah menyerap kalor dari benda di sekitarnya (evaporative cooling).
+- **A salah:** Magnet tidak berkaitan dengan cara mendinginkan minuman.
+- **B benar:** Air pada kain basah menguap ke udara, dan proses penguapan itu menyerap kalor dari minuman di dalamnya sehingga minuman menjadi dingin — mirip prinsip kendi tanah liat tradisional.
+- **C salah:** "Tradisi" saja tanpa penjelasan proses fisika tidak menjawab mengapa cara ini bekerja.
+- **D salah:** Cahaya tidak berperan dalam mekanisme pendinginan ini; yang berperan adalah penguapan air.
 
 ---
 
@@ -597,7 +767,12 @@ Mengapa **garam ditabur di jalan** saat musim dingin (di negara empat musim)?
 - C. **Garam menurunkan titik beku air → es di jalan mencair walau suhu masih di bawah 0°C → jalan aman**
 - D. Cahaya
 
-**📖 Pembahasan:** Salt = freezing point depression. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Garam menurunkan titik beku air (freezing point depression) sehingga es bisa mencair di bawah 0°C.
+- **A salah:** Magnet tidak berkaitan dengan penurunan titik beku air oleh garam.
+- **B salah:** Penaburan garam adalah tindakan berdasarkan prinsip sains (penurunan titik beku), bukan sekadar tradisi tanpa alasan ilmiah.
+- **C benar:** Garam yang bercampur dengan es menurunkan titik beku air, sehingga es bisa mencair walau suhu di bawah 0°C, membuat jalan lebih aman.
+- **D salah:** Cahaya tidak berkaitan dengan penurunan titik beku air oleh garam.
 
 ---
 
@@ -610,7 +785,12 @@ Mengapa **air** sebagai pendingin sangat efektif (radiator mobil)?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Air = cooling fluid optimal. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor laten penguapan air yang tinggi membuatnya efektif menyerap panas dalam jumlah besar.
+- **A salah:** Magnet tidak berkaitan dengan efektivitas air sebagai pendingin mesin.
+- **B benar:** Kalor laten penguapan air sangat tinggi sehingga sedikit air yang menguap sudah bisa menyerap banyak panas dari mesin mobil.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk efektivitas air sebagai cairan pendingin.
+- **D salah:** Cahaya tidak berkaitan dengan kemampuan air menyerap panas mesin.
 
 ---
 
@@ -623,7 +803,12 @@ Manakah pasangan perubahan wujud yang **berlawanan**?
 - C. Mencair & deposisi
 - D. Menguap & menyublim
 
-**📖 Pembahasan:** Mencair (padat → cair) ↔ membeku (cair → padat). **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pasangan perubahan wujud yang berlawanan arah berada pada wujud padat dan cair yang sama.
+- **A salah:** Mencair (padat→cair) dan menguap (cair→gas) bukan pasangan berlawanan; keduanya justru berurutan searah (sama-sama menyerap kalor).
+- **B benar:** Mencair (padat→cair) dan membeku (cair→padat) adalah pasangan yang saling berlawanan arah pada wujud yang sama.
+- **C salah:** Mencair (padat→cair) dan deposisi (gas→padat) bukan pasangan berlawanan langsung karena melibatkan tiga wujud berbeda.
+- **D salah:** Menguap (cair→gas) dan menyublim (padat→gas) sama-sama menuju gas, bukan pasangan yang berlawanan arah.
 
 ---
 
@@ -636,7 +821,12 @@ Di **puncak gunung** (tekanan rendah), air mendidih pada suhu...
 - C. **Kurang dari 100°C** (titik didih turun dengan tekanan)
 - D. Magnet
 
-**📖 Pembahasan:** Tekanan turun → titik didih turun. Di Everest ~70°C. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik didih air menurun seiring turunnya tekanan udara di ketinggian.
+- **A salah:** 100°C hanya berlaku pada tekanan 1 atm (permukaan laut), bukan di puncak gunung yang tekanannya lebih rendah.
+- **B salah:** 150°C melebihi titik didih air pada tekanan berapa pun yang wajar di permukaan Bumi; tekanan rendah justru menurunkan titik didih.
+- **C benar:** Di puncak gunung, tekanan udara lebih rendah sehingga titik didih air turun di bawah 100°C (di Everest sekitar 70°C).
+- **D salah:** Magnet tidak berkaitan dengan pengaruh tekanan terhadap titik didih.
 
 ---
 
@@ -649,7 +839,12 @@ Di **puncak gunung** (tekanan rendah), air mendidih pada suhu...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Pressure cooker = titik didih dinaikkan. Aplikasi luar biasa. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tekanan tinggi menaikkan titik didih air, sehingga makanan matang pada suhu lebih tinggi.
+- **A salah:** Magnet tidak berkaitan dengan cara kerja pressure cooker.
+- **B benar:** Di dalam pressure cooker, tekanan yang tinggi menaikkan titik didih air hingga sekitar 120°C, sehingga makanan matang lebih cepat.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah cara kerja pressure cooker.
+- **D salah:** Cahaya tidak berperan dalam mempercepat proses memasak pressure cooker.
 
 ---
 
@@ -662,7 +857,12 @@ Awan cirrus (tinggi di atmosfer) terdiri dari...
 - C. Magnet
 - D. Asap
 
-**📖 Pembahasan:** Awan tinggi = kristal es. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan pada ketinggian sangat dingin terbentuk dari deposisi uap air menjadi kristal es, bukan tetesan air.
+- **A salah:** Tetesan air biasanya ada di awan rendah yang lebih hangat, bukan di awan cirrus yang berada sangat tinggi dan sangat dingin.
+- **B benar:** Awan cirrus terbentuk dari kristal es karena uap air langsung mengalami deposisi menjadi padat pada suhu yang sangat rendah di ketinggian.
+- **C salah:** Magnet tidak berkaitan dengan komposisi awan cirrus.
+- **D salah:** Awan bukan terbentuk dari asap; komposisinya adalah air dalam bentuk tetesan atau kristal es.
 
 ---
 
@@ -675,7 +875,12 @@ Air membeku menjadi es. Volume air...
 - C. Berkurang
 - D. Magnet
 
-**📖 Pembahasan:** Anomali air. Itu sebabnya botol penuh air bisa pecah saat dibekukan. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air memiliki anomali unik, yaitu volumenya bertambah saat membeku menjadi es.
+- **A salah:** Volume air justru berubah (bertambah) saat membeku, bukan tetap sama seperti kebanyakan zat lain.
+- **B benar:** Volume air bertambah sekitar 9% saat membeku menjadi es karena struktur kristal es memiliki ruang kosong lebih banyak daripada air cair — itu sebabnya botol penuh air bisa pecah saat dibekukan.
+- **C salah:** Volume air tidak berkurang saat membeku; justru bertambah, berbeda dari kebanyakan zat lain yang menyusut saat membeku.
+- **D salah:** Magnet tidak berkaitan dengan perubahan volume air saat membeku.
 
 ---
 
@@ -688,7 +893,12 @@ Mengapa **kipas angin** terasa **mendinginkan** walaupun tidak menurunkan suhu u
 - C. Cahaya
 - D. **Kipas menggerakkan udara → mempercepat penguapan keringat dari kulit → kulit terasa lebih sejuk**
 
-**📖 Pembahasan:** Kipas + keringat = evaporative cooling. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kipas mempercepat penguapan keringat, sehingga tubuh melepas kalor lebih cepat walau suhu udara tetap.
+- **A salah:** Magnet tidak berkaitan dengan efek sejuk dari kipas angin.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk efek sejuk kipas angin.
+- **C salah:** Cahaya tidak berperan dalam efek pendinginan yang dirasakan tubuh saat terkena angin kipas.
+- **D benar:** Kipas mempercepat aliran udara di atas kulit sehingga keringat menguap lebih cepat, dan penguapan ini menyerap kalor dari kulit sehingga terasa lebih sejuk.
 
 ---
 
@@ -701,7 +911,12 @@ Lilin terbakar — bagian dekat sumbu **mencair** dahulu sebelum terbakar. Sebab
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Lilin proses bertahap padat → cair → gas → bakar. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Lilin mengalami tiga tahap perubahan wujud berurutan: mencair, lalu menguap, sebelum terbakar.
+- **A salah:** Magnet tidak berkaitan dengan proses pembakaran lilin.
+- **B benar:** Lilin padat dekat sumbu meleleh oleh panas nyala api, cairan naik melalui sumbu secara kapiler, lalu menguap dan terbakar di ujung sumbu.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk proses fisika pembakaran lilin.
+- **D salah:** Cahaya bukan penyebab lilin mencair; penyebabnya adalah panas (kalor) dari nyala api.
 
 ---
 
@@ -714,7 +929,12 @@ Mengapa **bensin** harus disimpan di tangki tertutup?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Volatile liquid safety. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Bensin yang mudah menguap berbahaya jika dibiarkan terbuka karena uapnya mudah terbakar/meledak.
+- **A salah:** Magnet tidak berkaitan dengan alasan penyimpanan bensin dalam wadah tertutup.
+- **B benar:** Bensin mudah menguap sehingga jika wadah terbuka, banyak bensin akan hilang menjadi uap yang boros dan berbahaya karena uapnya mudah tersulut api.
+- **C salah:** "Tradisi" bukan alasan ilmiah keselamatan penyimpanan bensin.
+- **D salah:** Cahaya tidak menjadi alasan utama bensin harus disimpan tertutup; alasannya adalah sifat mudah menguap dan mudah terbakar.
 
 ---
 
@@ -727,7 +947,12 @@ Power plant uap (steam power plant) bekerja dengan...
 - C. **Air dipanaskan dengan batu bara/nuklir → menjadi uap → uap memutar turbin → menghasilkan listrik → uap mengembun kembali menjadi air → siklus**
 - D. Cahaya
 
-**📖 Pembahasan:** Rankine cycle dasar power generation. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pembangkit listrik tenaga uap memanfaatkan siklus menguap-mengembun air untuk menggerakkan turbin.
+- **A salah:** Magnet tidak menjadi prinsip utama kerja pembangkit listrik tenaga uap.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah cara kerja pembangkit listrik.
+- **C benar:** Air dipanaskan hingga menguap, uap bertekanan tinggi memutar turbin penghasil listrik, lalu uap mengembun kembali menjadi air untuk digunakan ulang dalam siklus.
+- **D salah:** Cahaya tidak berperan dalam siklus kerja pembangkit listrik tenaga uap.
 
 ---
 
@@ -740,7 +965,12 @@ Kalor yang dibutuhkan untuk **mencairkan** 100 g es 0°C (kalor laten = 334 J/g)
 - C. 10.000 J
 - D. 100 J
 
-**📖 Pembahasan:** Q = mL = 100 × 334 = 33.400 J. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor untuk mencairkan zat dihitung dengan rumus Q = m × L.
+- **A salah:** 1.000 J terlalu kecil; hasil perkalian 100 g × 334 J/g jauh lebih besar dari nilai ini.
+- **B benar:** Q = m × L = 100 g × 334 J/g = 33.400 J.
+- **C salah:** 10.000 J tidak sesuai hasil perkalian massa dan kalor laten yang diberikan pada soal.
+- **D salah:** 100 J terlalu kecil dan tampak seperti hanya menyalin nilai massa tanpa mengalikan dengan kalor laten.
 
 ---
 
@@ -753,7 +983,12 @@ Mengapa kompor dengan **api lebih besar** tidak membuat air mendidih pada suhu l
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Suhu tidak berubah saat berubah wujud. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu air tidak bisa melebihi titik didihnya walau api diperbesar; kalor tambahan hanya mempercepat penguapan.
+- **A benar:** Air tidak bisa mendidih di atas 100°C pada tekanan normal; api yang lebih besar hanya membuat air menguap lebih cepat (lebih banyak per detik), bukan menaikkan suhu air.
+- **B salah:** Magnet tidak berkaitan dengan suhu air mendidih.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk batas suhu air mendidih.
+- **D salah:** Cahaya tidak berkaitan dengan suhu air saat dipanaskan dengan api besar.
 
 ---
 
@@ -766,7 +1001,12 @@ Mengapa kompor dengan **api lebih besar** tidak membuat air mendidih pada suhu l
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Snow = deposisi di awan dingin. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Salju terbentuk dari uap air yang mengalami deposisi langsung menjadi kristal es di awan yang sangat dingin.
+- **A benar:** Di awan yang sangat dingin, uap air langsung berubah menjadi kristal es melalui deposisi, lalu kristal-kristal ini turun sebagai salju.
+- **B salah:** Magnet tidak berkaitan dengan proses terbentuknya salju.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah pembentukan salju.
+- **D salah:** Cahaya tidak menjadi penyebab utama terbentuknya salju; penyebabnya adalah suhu sangat rendah di awan.
 
 ---
 
@@ -779,7 +1019,12 @@ Mengapa **danau di musim dingin** **tidak membeku total** dari dasar ke permukaa
 - C. Cahaya
 - D. **Es membeku di permukaan dahulu (es < air densitas → mengapung); lapisan es jadi isolator → air di bawah tetap cair (~4°C) → ikan tetap hidup**
 
-**📖 Pembahasan:** Anomali air + isolasi es lindungi ekosistem akuatik. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Es yang mengapung di permukaan berfungsi sebagai isolator sehingga air di bawahnya tetap cair.
+- **A salah:** Magnet tidak berkaitan dengan sebab danau tidak membeku total.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena anomali air ini.
+- **C salah:** Cahaya tidak menjadi faktor utama; faktor utamanya adalah sifat fisik es yang mengapung dan mengisolasi.
+- **D benar:** Es yang lebih ringan dari air membeku di permukaan lebih dulu, lapisan es ini mengisolasi air di bawahnya sehingga tetap cair (sekitar 4°C) dan ikan tetap bisa hidup.
 
 ---
 
@@ -792,7 +1037,12 @@ Pernyataan paling tepat sintesis perubahan wujud:
 - C. Magnet
 - D. Hanya 3
 
-**📖 Pembahasan:** Sintesis Kab. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman menyeluruh tentang enam perubahan wujud, arah aliran kalor, dan sifat titik tetap.
+- **A benar:** Pernyataan ini merangkum dengan tepat keenam perubahan wujud, arah penyerapan/pelepasan kalor, sifat suhu tetap selama perubahan wujud, serta pengaruh tekanan terhadap titik leleh dan titik didih.
+- **B salah:** "Tradisi" tidak mencakup konsep sains apa pun tentang perubahan wujud.
+- **C salah:** Magnet tidak berkaitan dengan materi perubahan wujud zat.
+- **D salah:** Ada enam perubahan wujud (bukan tiga), sehingga pernyataan ini tidak lengkap dan tidak akurat.
 
 ---
 
@@ -807,7 +1057,12 @@ Berapa kalor untuk menguapkan 200 g air 100°C? (L_v = 2260 J/g)
 - C. 200 kJ
 - D. 50 kJ
 
-**📖 Pembahasan:** Q = mL_v = 200×2260 = 452.000 J = 452 kJ. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor penguapan dihitung dengan rumus Q = m × L_v.
+- **A salah:** 100 kJ jauh lebih kecil dari hasil perkalian 200 g × 2260 J/g.
+- **B benar:** Q = m × L_v = 200 g × 2260 J/g = 452.000 J = 452 kJ.
+- **C salah:** 200 kJ tampak seperti hanya menyalin nilai massa dalam kJ tanpa mengalikan kalor laten dengan benar.
+- **D salah:** 50 kJ jauh lebih kecil dari hasil perhitungan yang seharusnya.
 
 ---
 
@@ -820,7 +1075,12 @@ Berapa kalor untuk mengubah 100 g es 0°C menjadi air 100°C? (L_f=334, c_air=4.
 - C. **75 kJ** (33.400 J mencair + 41.800 J pemanasan = 75.200 J)
 - D. 100 kJ
 
-**📖 Pembahasan:** Total = Q_lebur + Q_panas = mL_f + mcΔT = 33.400 + 41.800 = 75.200 J. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Total kalor untuk melebur lalu memanaskan zat cair dihitung dengan menjumlahkan Q_lebur dan Q_pemanasan.
+- **A salah:** 30 kJ hanya mendekati sebagian dari salah satu komponen kalor, belum menjumlahkan kedua tahap prosesnya.
+- **B salah:** 40 kJ juga belum menjumlahkan kalor peleburan dan kalor pemanasan air secara lengkap.
+- **C benar:** Q_total = mL_f + mcΔT = (100×334) + (100×4,18×100) = 33.400 + 41.800 = 75.200 J ≈ 75 kJ.
+- **D salah:** 100 kJ melebihi hasil penjumlahan yang benar dari kedua tahap proses tersebut.
 
 ---
 
@@ -833,7 +1093,12 @@ Pada **tekanan 0.5 atm** (di gunung tinggi), air mendidih pada suhu sekitar...
 - C. 120°C
 - D. 50°C
 
-**📖 Pembahasan:** Tabel air: 0.5 atm → titik didih ~81°C. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik didih air turun ketika tekanan udara di sekitarnya berkurang.
+- **A salah:** 100°C hanya berlaku pada tekanan 1 atm, bukan pada tekanan yang lebih rendah seperti 0,5 atm.
+- **B benar:** Pada tekanan sekitar 0,5 atm (kondisi gunung tinggi), titik didih air turun menjadi sekitar 80°C.
+- **C salah:** 120°C adalah titik didih pada tekanan yang lebih tinggi dari 1 atm, bukan tekanan rendah seperti pada soal.
+- **D salah:** 50°C terlalu rendah untuk tekanan 0,5 atm; penurunan titik didih tidak sebesar itu pada tekanan tersebut.
 
 ---
 
@@ -846,7 +1111,12 @@ Kalor laten penguapan air (2260 J/g) lebih **tinggi** dari hampir semua zat lain
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Hydrogen bonds di air = unique. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor laten penguapan mencerminkan kekuatan ikatan antarmolekul yang harus diputus.
+- **A salah:** Magnet tidak berkaitan dengan besarnya kalor laten penguapan air.
+- **B benar:** Molekul air memiliki ikatan hidrogen yang kuat antar sesamanya, sehingga dibutuhkan energi besar untuk memutuskannya saat berubah menjadi gas.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk sifat kimia-fisika air.
+- **D salah:** Cahaya tidak berkaitan dengan besarnya kalor laten penguapan suatu zat.
 
 ---
 
@@ -859,7 +1129,12 @@ Mengapa **bagian kulit yang basah** terasa **lebih sejuk** dari yang kering pada
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Evaporative cooling = mekanisme keringat. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Penguapan air di kulit menyerap kalor dari kulit sehingga terasa lebih sejuk (evaporative cooling).
+- **A benar:** Air yang menguap dari permukaan kulit basah menyerap kalor dari kulit, sehingga suhu kulit tersebut turun dan terasa lebih sejuk dibanding kulit kering.
+- **B salah:** Magnet tidak berkaitan dengan rasa sejuk pada kulit basah.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena evaporative cooling ini.
+- **D salah:** Cahaya tidak menyebabkan perbedaan rasa sejuk antara kulit basah dan kering.
 
 ---
 
@@ -872,7 +1147,12 @@ Mengapa **kapur barus** sublimasi pada suhu kamar, padahal kebanyakan padat tida
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Vapor pressure naphthalene cukup tinggi → sublimasi pada T kamar. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat dengan tekanan uap tinggi pada suhu ruang lebih mudah menyublim.
+- **A salah:** Magnet tidak berkaitan dengan sifat sublimasi kapur barus.
+- **B benar:** Kapur barus (naftalena) memiliki tekanan uap yang relatif tinggi pada suhu ruang, sehingga molekulnya bisa langsung lepas dari padatan menjadi gas.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah sifat fisik-kimia kapur barus.
+- **D salah:** Cahaya tidak menjadi penyebab utama sifat mudah menyublim kapur barus.
 
 ---
 
@@ -885,7 +1165,12 @@ Mengapa **kapur barus** sublimasi pada suhu kamar, padahal kebanyakan padat tida
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Lyophilization = teknologi pengawetan. Aplikasi: vaksin, kopi instan, astronot food. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Freeze-drying memanfaatkan sublimasi es dalam kondisi vakum untuk mengeringkan makanan tanpa merusak nutrisinya.
+- **A benar:** Makanan dibekukan lalu ditempatkan pada tekanan sangat rendah (vakum) sehingga es di dalamnya langsung menyublim, menghasilkan makanan kering yang tetap mempertahankan rasa dan nutrisinya — dipakai untuk vaksin, kopi instan, hingga makanan astronot.
+- **B salah:** Magnet tidak berkaitan dengan proses pengeringan beku makanan.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk teknologi freeze-drying.
+- **D salah:** Cahaya tidak berperan dalam proses pengeringan beku; yang berperan adalah kombinasi suhu rendah dan tekanan vakum.
 
 ---
 
@@ -898,7 +1183,12 @@ Mengapa **uap air panas dari kompor** bisa membakar kulit lebih parah dari air p
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Kalor laten bocor saat embun. Bahaya luka bakar uap. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Saat mengembun, uap melepaskan kalor laten penguapan yang besar ke permukaan yang disentuhnya.
+- **A salah:** Magnet tidak berkaitan dengan bahaya luka bakar akibat uap panas.
+- **B benar:** Saat uap mengembun di kulit, ia melepaskan kalor laten penguapan tambahan (2260 J/g) selain kalor dari suhunya, sehingga energi yang diterima kulit jauh lebih besar dibanding air panas biasa.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk perbedaan bahaya luka bakar uap dan air panas.
+- **D salah:** Cahaya tidak berkaitan dengan tingkat keparahan luka bakar akibat uap.
 
 ---
 
@@ -911,7 +1201,12 @@ Pada **titik tripel air** (T = 0.01°C, P = 6.1 mbar), ketiga wujud air...
 - C. **Padat, cair, gas semuanya stabil bersamaan**
 - D. Magnet
 
-**📖 Pembahasan:** Triple point air = titik unik di diagram fase. Standar definisi suhu Kelvin (273.16 K). **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik tripel adalah kondisi unik di mana tiga wujud suatu zat berada dalam kesetimbangan bersamaan.
+- **A salah:** Pada titik tripel, air tidak hanya membeku; ketiga wujud (padat, cair, gas) justru berada dalam keadaan stabil bersamaan.
+- **B salah:** Air pada titik tripel tidak hanya menguap; semua wujud stabil secara bersamaan pada kondisi khusus ini.
+- **C benar:** Pada titik tripel (T = 0,01°C, P = 6,1 mbar), wujud padat, cair, dan gas air semuanya berada dalam kesetimbangan dan stabil secara bersamaan — dipakai sebagai standar definisi suhu Kelvin (273,16 K).
+- **D salah:** Magnet tidak berkaitan dengan konsep titik tripel dalam diagram fase.
 
 ---
 
@@ -924,7 +1219,12 @@ Pada **suhu & tekanan di atas titik kritis**, air menjadi...
 - C. Tradisi
 - D. **Supercritical fluid — sifat antara cair & gas, bisa larut zat seperti cair tapi mengisi wadah seperti gas**
 
-**📖 Pembahasan:** Supercritical water > 374°C, 22 MPa. Aplikasi industri. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Di atas titik kritis, batas antara fase cair dan gas menghilang, membentuk fase baru yang disebut fluida superkritis.
+- **A salah:** Magnet tidak berkaitan dengan sifat air di atas titik kritis.
+- **B salah:** Air di atas titik kritis bukan menjadi padat; suhu yang sangat tinggi justru menjauhkannya dari fase padat.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika titik kritis.
+- **D benar:** Di atas suhu dan tekanan titik kritis (>374°C, 22 MPa), air menjadi fluida superkritis, yaitu wujud dengan sifat antara cair dan gas — bisa melarutkan zat seperti cairan namun mengisi ruang seperti gas.
 
 ---
 
@@ -937,7 +1237,12 @@ Mengapa **air sebagai pendingin nuklir** sangat baik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Light water reactor = standar dunia. Air = pendingin + moderator neutron. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air dipilih sebagai pendingin reaktor nuklir karena kalor jenis dan kalor laten penguapannya tinggi, aman, dan melimpah.
+- **A benar:** Air memiliki kalor jenis dan kalor laten penguapan yang tinggi sehingga mampu menyerap energi panas dalam jumlah besar dari reaktor, selain sifatnya yang relatif aman dan mudah didapat — inilah dasar reaktor air ringan yang jadi standar dunia.
+- **B salah:** Magnet tidak berkaitan dengan alasan pemilihan air sebagai pendingin nuklir.
+- **C salah:** "Tradisi" bukan alasan ilmiah pemilihan bahan pendingin reaktor nuklir.
+- **D salah:** Cahaya tidak berkaitan dengan kemampuan air menyerap panas dari reaktor.
 
 ---
 
@@ -950,7 +1255,12 @@ Kalor laten peleburan beberapa zat (J/g): air 334, besi 247, emas 64. Apa pola?
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** Kalor laten reflect strength of intermolecular forces. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Besarnya kalor laten peleburan mencerminkan kekuatan ikatan partikel dalam suatu zat padat.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah untuk perbedaan nilai kalor laten antar zat.
+- **B benar:** Perbedaan nilai kalor laten peleburan antar zat mencerminkan kekuatan ikatan pada wujud padatnya — semakin kuat ikatannya, semakin besar energi yang dibutuhkan untuk melebur.
+- **C salah:** Magnet tidak berkaitan dengan besarnya kalor laten peleburan suatu zat.
+- **D salah:** Cahaya tidak berkaitan dengan pola perbedaan kalor laten antar zat.
 
 ---
 
@@ -963,7 +1273,12 @@ Mengapa **awan tebal** sebelum hujan terasa "berat" di langit?
 - C. **Banyak tetesan air halus (pengembunan) di awan → massa awan ratusan ton walau terlihat ringan**
 - D. Cahaya
 
-**📖 Pembahasan:** Awan kumulonimbus bisa berisi >100.000 ton air. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan tersusun dari sangat banyak tetesan air hasil pengembunan, sehingga total massanya bisa sangat besar.
+- **A salah:** Magnet tidak berkaitan dengan massa awan.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah tentang massa awan.
+- **C benar:** Awan tebal mengandung jutaan tetesan air halus hasil pengembunan sehingga total massanya bisa mencapai ratusan bahkan ribuan ton (awan kumulonimbus bisa >100.000 ton), walau tampak ringan melayang di langit.
+- **D salah:** Cahaya tidak berkaitan dengan besarnya massa awan.
 
 ---
 
@@ -976,7 +1291,12 @@ Di luar angkasa (vakum), es bisa sublimasi langsung. Aplikasi:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Komet activity = sublimasi es di vakum. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Di ruang hampa (vakum), es dapat menyublim langsung menjadi gas tanpa melalui fase cair.
+- **A benar:** Saat komet mendekati Matahari, es di permukaannya menyublim langsung menjadi gas akibat panas Matahari dan tekanan sangat rendah di luar angkasa, membentuk koma dan ekor komet.
+- **B salah:** Magnet tidak berkaitan dengan pembentukan ekor komet.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena astronomi ini.
+- **D salah:** Cahaya bukan penyebab langsung sublimasi es komet; penyebab utamanya adalah panas Matahari dan tekanan sangat rendah.
 
 ---
 
@@ -989,7 +1309,12 @@ Di luar angkasa (vakum), es bisa sublimasi langsung. Aplikasi:
 - C. Cahaya
 - D. **Logam dipanaskan hingga mencair → dituang ke cetakan → mendingin & membeku menjadi bentuk yang diinginkan**
 
-**📖 Pembahasan:** Casting = perubahan wujud cair-padat. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pengecoran logam memanfaatkan perubahan wujud cair menjadi padat (membeku) untuk membentuk benda sesuai cetakan.
+- **A salah:** Magnet tidak berkaitan dengan proses pengecoran logam.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah proses pengecoran logam.
+- **C salah:** Cahaya tidak berperan dalam proses mencairkan dan membekukan logam pada pengecoran.
+- **D benar:** Logam dipanaskan hingga mencair, dituang ke dalam cetakan, kemudian didinginkan sehingga membeku menjadi bentuk padat sesuai cetakan yang diinginkan.
 
 ---
 
@@ -1002,7 +1327,12 @@ Di luar angkasa (vakum), es bisa sublimasi langsung. Aplikasi:
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** PCM = teknologi bangunan hijau. Aplikasi: parafin, garam hidrat. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Phase change material menyerap/melepas kalor laten saat berubah wujud pada suhu tertentu, sehingga menstabilkan suhu ruangan.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah teknologi phase change material.
+- **B benar:** PCM adalah bahan yang berubah wujud (misalnya cair-padat) pada suhu tertentu, menyerap atau melepas kalor laten dalam jumlah besar sehingga membantu menstabilkan suhu interior gedung dan menghemat energi pendingin — contohnya parafin dan garam hidrat.
+- **C salah:** Magnet tidak berkaitan dengan cara kerja PCM sebagai bahan insulasi.
+- **D salah:** Cahaya tidak berkaitan dengan mekanisme kerja PCM dalam menstabilkan suhu ruangan.
 
 ---
 
@@ -1015,7 +1345,12 @@ Manakah perubahan wujud yang terjadi di **AC ruangan**?
 - C. **Cair → gas (di evaporator, ambil panas dari interior), Gas → cair (di kondensor, lepas panas ke luar)**
 - D. Sublimasi
 
-**📖 Pembahasan:** AC = penguapan + pengembunan refrigerant. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** AC memanfaatkan dua perubahan wujud sekaligus — menguap untuk menyerap panas, mengembun untuk melepas panas.
+- **A salah:** AC tidak hanya melibatkan proses mencair; refrigerant justru mengalami penguapan dan pengembunan bergantian.
+- **B salah:** AC juga tidak hanya melibatkan proses membeku; siklusnya melibatkan penguapan dan pengembunan.
+- **C benar:** Refrigerant menguap (cair ke gas) di evaporator untuk menyerap panas dari dalam ruangan, lalu mengembun (gas ke cair) di kondensor untuk melepas panas ke luar ruangan.
+- **D salah:** Sublimasi bukan bagian dari siklus kerja AC; siklusnya melibatkan penguapan dan pengembunan cairan-gas.
 
 ---
 
@@ -1028,7 +1363,12 @@ Manakah perubahan wujud yang terjadi di **AC ruangan**?
 - C. Cahaya
 - D. **Mineral powder dilapiskan ke keramik → dipanaskan di tungku → mineral mencair menutupi permukaan → mendingin & membeku menjadi lapisan halus mengkilap**
 
-**📖 Pembahasan:** Glazing = aplikasi mencair-membeku. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Proses glasir memanfaatkan perubahan wujud mineral dari padat menjadi cair lalu membeku kembali membentuk lapisan mengkilap.
+- **A salah:** Magnet tidak berkaitan dengan proses pembuatan glasir keramik.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah proses fisika pembuatan glasir.
+- **C salah:** Cahaya tidak berperan dalam proses mencairkan dan membekukan lapisan mineral pada glasir.
+- **D benar:** Lapisan mineral yang dilapiskan pada keramik dipanaskan hingga mencair menutupi permukaan, lalu didinginkan sehingga membeku menjadi lapisan mengkilap yang halus.
 
 ---
 
@@ -1041,7 +1381,12 @@ Mengapa air laut (mengandung garam) **mendidih** pada suhu **lebih tinggi** dari
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Colligative property. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat terlarut seperti garam menaikkan titik didih pelarutnya (kenaikan titik didih/boiling point elevation).
+- **A salah:** Magnet tidak berkaitan dengan perbedaan titik didih air laut dan air tawar.
+- **B benar:** Garam yang terlarut mengganggu proses pembentukan uap air, sehingga dibutuhkan suhu lebih tinggi agar tekanan uap air laut sama dengan tekanan atmosfer (mendidih).
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena kenaikan titik didih akibat zat terlarut.
+- **D salah:** Cahaya tidak berkaitan dengan perbedaan titik didih air laut dan air tawar.
 
 ---
 
@@ -1054,7 +1399,12 @@ Mengapa **es** punya volume lebih besar dari air pada massa sama?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Es Ih struktur hexagonal terbuka. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Struktur kristal es memiliki susunan molekul yang lebih renggang dibanding air cair.
+- **A salah:** Magnet tidak berkaitan dengan struktur molekul es.
+- **B benar:** Struktur kristal es (heksagonal) tersusun dengan banyak ruang kosong antar molekul air, membuat molekulnya lebih renggang dibanding pada wujud cair sehingga volumenya lebih besar.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk struktur molekul es.
+- **D salah:** Cahaya tidak berkaitan dengan struktur kristal es yang membuat volumenya membesar.
 
 ---
 
@@ -1067,7 +1417,12 @@ Mengapa **es** punya volume lebih besar dari air pada massa sama?
 - C. **Tinta padat dipanaskan → sublimasi jadi gas → menempel di serat kain → mendingin & deposisi jadi padat → cetakan permanen**
 - D. Cahaya
 
-**📖 Pembahasan:** Dye sublimation printing. Cetakan kaos custom. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pencetakan sublimasi memanfaatkan perubahan wujud tinta padat menjadi gas lalu deposisi menjadi padat kembali di serat kain.
+- **A salah:** Magnet tidak berkaitan dengan proses pencetakan sublimasi pada kain.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknologi pencetakan sublimasi.
+- **C benar:** Tinta padat dipanaskan hingga menyublim menjadi gas, gas ini menempel dan meresap ke serat kain, lalu mendingin dan mengalami deposisi menjadi padat kembali sehingga membentuk gambar permanen — dipakai untuk cetakan kaos custom.
+- **D salah:** Cahaya tidak berperan langsung dalam proses perubahan wujud tinta pada pencetakan sublimasi.
 
 ---
 
@@ -1080,7 +1435,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Cahaya
 - D. **Fenomena kontroversi — beberapa hipotesis: penguapan lebih banyak dari air panas, supercooling berbeda, gradien suhu, kelarutan gas. Belum fully understood**
 
-**📖 Pembahasan:** Mpemba effect = misteri ilmu. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Efek Mpemba adalah fenomena yang kompleks dan belum sepenuhnya dipahami secara ilmiah.
+- **A salah:** Magnet tidak berkaitan dengan efek Mpemba.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena efek Mpemba.
+- **C salah:** Cahaya tidak menjadi faktor utama yang diduga menyebabkan efek Mpemba.
+- **D benar:** Efek Mpemba masih menjadi fenomena yang kontroversial, dengan beberapa hipotesis seperti perbedaan laju penguapan, supercooling, gradien suhu, dan kelarutan gas, namun belum sepenuhnya dipahami oleh sains.
 
 ---
 
@@ -1093,7 +1453,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Cryosurgery = aplikasi medis. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Cryosurgery memanfaatkan zat bersuhu sangat rendah untuk membekukan dan merusak jaringan yang tidak diinginkan.
+- **A salah:** Magnet tidak berkaitan dengan metode cryosurgery.
+- **B benar:** Cryosurgery menggunakan zat bersuhu sangat rendah seperti nitrogen cair (-196°C) untuk membekukan jaringan tumor sehingga rusak dan bisa diangkat tanpa pembedahan konvensional.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah metode medis ini.
+- **D salah:** Cahaya tidak berperan dalam mekanisme kerja cryosurgery.
 
 ---
 
@@ -1106,7 +1471,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Aerosol = aplikasi flash evaporation. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Penurunan tekanan mendadak dapat membuat cairan langsung menguap (flash evaporation).
+- **A salah:** Magnet tidak berkaitan dengan mekanisme kerja kaleng aerosol.
+- **B benar:** Cairan dalam kaleng aerosol disimpan dalam tekanan tinggi; saat nozel dibuka, tekanan turun mendadak sehingga cairan langsung menguap membentuk aerosol halus yang keluar dari kaleng.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah cara kerja kaleng aerosol.
+- **D salah:** Cahaya tidak berperan dalam mekanisme penyemprotan aerosol.
 
 ---
 
@@ -1119,7 +1489,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. **Berubah wujud cair-gas dalam pipa tertutup → siklus pengangkutan panas yang sangat efisien dari CPU ke heatsink**
 - D. Cahaya
 
-**📖 Pembahasan:** Heat pipe = aplikasi pengubahan wujud untuk thermal management. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Heat pipe memanfaatkan siklus penguapan-pengembunan cairan dalam pipa tertutup untuk memindahkan panas secara efisien.
+- **A salah:** Magnet tidak berkaitan dengan cara kerja heat pipe.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknologi pendinginan komponen elektronik.
+- **C benar:** Cairan dalam heat pipe menguap saat menyerap panas dari CPU, uap mengalir ke bagian yang lebih dingin (heatsink), lalu mengembun kembali menjadi cairan — siklus ini memindahkan panas secara sangat efisien.
+- **D salah:** Cahaya tidak berperan dalam mekanisme perpindahan panas pada heat pipe.
 
 ---
 
@@ -1132,7 +1507,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Cahaya
 - D. **Air kotor dipanaskan → menguap (kotoran tertinggal) → uap mengembun di tabung pendingin → air murni**
 
-**📖 Pembahasan:** Distillation = aplikasi penguapan + pengembunan untuk pemurnian. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Distilasi memurnikan air dengan memanfaatkan penguapan (memisahkan kotoran) dan pengembunan (mengumpulkan air murni).
+- **A salah:** Magnet tidak berkaitan dengan proses distilasi.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah proses pemurnian air dengan distilasi.
+- **C salah:** Cahaya tidak berperan dalam proses menguapkan dan mengembunkan air pada distilasi.
+- **D benar:** Air kotor dipanaskan hingga menguap sehingga kotoran yang tidak menguap tertinggal, lalu uap air dialirkan ke tabung pendingin agar mengembun kembali menjadi air murni.
 
 ---
 
@@ -1145,7 +1525,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. **Lapisan udara hangat di atas + lapisan beku di permukaan → tetesan cair sampai permukaan dingin → membeku kontak**
 - D. Cahaya
 
-**📖 Pembahasan:** Freezing rain = bahaya transportasi musim dingin. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Hujan beku terjadi ketika tetesan hujan tetap cair hingga mencapai permukaan dingin, lalu membeku saat bersentuhan.
+- **A salah:** Magnet tidak berkaitan dengan fenomena hujan beku.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena cuaca ini.
+- **C benar:** Tetesan hujan turun melalui lapisan udara hangat sehingga tetap cair, namun begitu menyentuh permukaan yang sangat dingin di bawahnya, tetesan tersebut langsung membeku — bahaya bagi transportasi musim dingin.
+- **D salah:** Cahaya tidak berkaitan dengan proses pembekuan tetesan hujan saat menyentuh permukaan dingin.
 
 ---
 
@@ -1158,7 +1543,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Vaping = aplikasi penguapan terkontrol. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Vape mengubah cairan menjadi uap menggunakan elemen pemanas listrik (proses menguap).
+- **A benar:** Pemanas elektrik di dalam vape memanaskan cairan (e-liquid) hingga menguap menjadi uap yang kemudian dihisap oleh pengguna.
+- **B salah:** Magnet tidak berkaitan dengan cara kerja alat vape.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah cara kerja alat vape.
+- **D salah:** Cahaya tidak berperan dalam proses mengubah cairan menjadi uap pada vape; yang berperan adalah panas dari pemanas elektrik.
 
 ---
 
@@ -1171,7 +1561,12 @@ Mengapa **air panas** terkadang membeku **lebih cepat** dari air dingin di freez
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Geothermal = aplikasi penguapan tekanan. Indonesia salah satu negara terbesar geothermal. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Flash steam memanfaatkan penurunan tekanan mendadak untuk mengubah air panas bertekanan menjadi uap.
+- **A salah:** Magnet tidak berkaitan dengan cara kerja pembangkit geothermal flash steam.
+- **B benar:** Air panas dari sumur dalam yang bertekanan tinggi mengalami penurunan tekanan mendadak saat keluar ke permukaan, sehingga sebagian langsung berubah (flash) menjadi uap yang digunakan memutar turbin — Indonesia salah satu negara terbesar geothermal.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah cara kerja pembangkit listrik geothermal.
+- **D salah:** Cahaya tidak berperan dalam proses flash steam pembangkit geothermal.
 
 ---
 
@@ -1184,7 +1579,12 @@ Sintesis perubahan wujud tingkat Prov:
 - C. Magnet
 - D. Sederhana
 
-**📖 Pembahasan:** Sintesis Prov. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman menyeluruh keenam perubahan wujud beserta kalor latennya, pengaruh tekanan pada titik tetap, dan berbagai aplikasinya.
+- **A benar:** Pernyataan ini merangkum dengan tepat keenam perubahan wujud dan kalor latennya, pengaruh tekanan terhadap titik tetap (pressure cooker, gunung tinggi, fluida superkritis), serta beragam aplikasi luas mulai dari AC/lemari es hingga freeze-drying dan cryosurgery.
+- **B salah:** "Tradisi" tidak mencakup konsep sains apa pun dari materi perubahan wujud.
+- **C salah:** Magnet tidak berkaitan dengan materi perubahan wujud zat maupun aplikasinya.
+- **D salah:** Materi perubahan wujud zat dan aplikasinya sangat luas dan kompleks, bukan sesuatu yang "sederhana".
 
 ---
 
@@ -1199,7 +1599,12 @@ Untuk menguapkan **1 kg air** pada 100°C:
 - C. 500 kJ
 - D. 4.18 MJ
 
-**📖 Pembahasan:** Q = mL_v = 1000 × 2260 = 2.26 MJ. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kalor penguapan dihitung dengan Q = m × L_v, dengan massa dalam satuan gram.
+- **A benar:** Q = m × L_v = 1000 g × 2260 J/g = 2.260.000 J = 2,26 MJ.
+- **B salah:** 1 MJ jauh lebih kecil dari hasil perkalian massa dan kalor laten penguapan air yang sebenarnya.
+- **C salah:** 500 kJ terlalu kecil dibanding hasil perhitungan Q = mL_v untuk 1 kg air.
+- **D salah:** 4,18 MJ tampak seperti tertukar dengan nilai kalor jenis air (4,18 J/g°C), bukan hasil perkalian dengan kalor laten penguapan.
 
 ---
 
@@ -1212,7 +1617,12 @@ Hubungan **tekanan uap** dengan **suhu** mengikuti Clausius-Clapeyron:
 - C. Konstan
 - D. Magnet
 
-**📖 Pembahasan:** dP/dT ~ L/(T·ΔV). Eksponensial behavior. Itu sebabnya air mendidih lebih banyak di suhu tinggi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Hubungan tekanan uap terhadap suhu bersifat eksponensial, bukan linear.
+- **A salah:** Hubungan tekanan uap dan suhu bukan garis lurus (linear); kenaikannya jauh lebih cepat dari itu.
+- **B benar:** Berdasarkan persamaan Clausius-Clapeyron (dP/dT ~ L/(T·ΔV)), tekanan uap naik secara eksponensial terhadap suhu — kenaikan suhu sedikit menyebabkan kenaikan tekanan uap yang jauh lebih besar.
+- **C salah:** Tekanan uap tidak konstan; ia berubah signifikan seiring perubahan suhu.
+- **D salah:** Magnet tidak berkaitan dengan hubungan tekanan uap dan suhu.
 
 ---
 
@@ -1225,7 +1635,12 @@ Mengapa **planet Mars** memiliki **es** di kutubnya tapi tidak ada **air cair** 
 - C. **Tekanan atmosfer Mars sangat rendah (~6 mbar) → air langsung sublimasi dari padat (es) ke gas, tidak lewat fase cair pada banyak kondisi**
 - D. Cahaya
 
-**📖 Pembahasan:** Diagram fase: Mars below triple point pressure → fase cair tidak stabil. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pada tekanan atmosfer yang sangat rendah, fase cair suatu zat menjadi tidak stabil sehingga zat langsung menyublim dari padat ke gas.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena astronomi ini.
+- **B salah:** Magnet tidak berkaitan dengan ketiadaan air cair di permukaan Mars.
+- **C benar:** Tekanan atmosfer Mars sangat rendah (sekitar 6 mbar), berada di bawah titik tripel air, sehingga air cenderung langsung menyublim dari es menjadi gas tanpa melalui fase cair yang stabil.
+- **D salah:** Cahaya tidak menjadi penyebab utama ketiadaan air cair di permukaan Mars; penyebabnya adalah tekanan atmosfer yang sangat rendah.
 
 ---
 
@@ -1238,7 +1653,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** High altitude cooking challenge. Pakai pressure cooker untuk solve. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu air mendidih di ketinggian lebih rendah dari 100°C sehingga energi panas yang tersedia untuk memasak tidak setinggi di dataran rendah.
+- **A salah:** Magnet tidak berkaitan dengan kesulitan memasak di gunung tinggi.
+- **B benar:** Di gunung tinggi, titik didih air lebih rendah dari 100°C, sehingga meski air sudah mendidih, suhunya tidak cukup tinggi untuk mematangkan makanan seperti telur atau nasi secara sempurna — solusinya memakai pressure cooker.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah kesulitan memasak pada tekanan rendah di gunung.
+- **D salah:** Cahaya tidak berkaitan dengan kesulitan memasak di ketinggian; penyebabnya adalah rendahnya titik didih air akibat tekanan rendah.
 
 ---
 
@@ -1251,7 +1671,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** SI definition. (Sejak 2019, K didefinisikan via konstanta Boltzmann.) **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Titik tripel dipilih sebagai acuan karena kondisinya sangat presisi dan mudah direproduksi di laboratorium.
+- **A benar:** Titik tripel air adalah kondisi unik dan sangat presisi di mana padat, cair, dan gas semuanya stabil bersamaan, sehingga mudah direproduksi secara akurat di laboratorium sebagai standar suhu (meski sejak 2019 Kelvin didefinisikan ulang via konstanta Boltzmann).
+- **B salah:** Magnet tidak berkaitan dengan alasan pemilihan titik tripel sebagai standar suhu.
+- **C salah:** "Tradisi" bukan alasan ilmiah penetapan standar satuan suhu Kelvin.
+- **D salah:** Cahaya tidak berkaitan dengan alasan pemilihan titik tripel air sebagai acuan suhu.
 
 ---
 
@@ -1264,7 +1689,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Industri kopi decaf modern. Ramah lingkungan dibanding methylene chloride lama. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** CO₂ superkritis dapat melarutkan zat tertentu (seperti kafein) tanpa merusak senyawa rasa di sekitarnya.
+- **A salah:** Magnet tidak berkaitan dengan proses dekafeinasi kopi.
+- **B benar:** CO₂ dalam kondisi superkritis (di atas 31°C dan 73 atm) mampu melarutkan kafein dari biji kopi tanpa melarutkan senyawa rasa, sehingga menghasilkan kopi decaf tanpa pelarut kimia berbahaya seperti methylene chloride.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah teknologi dekafeinasi modern.
+- **D salah:** Cahaya tidak berperan dalam proses pelarutan kafein menggunakan CO₂ superkritis.
 
 ---
 
@@ -1277,7 +1707,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. **Tubuh manusia diawetkan di nitrogen cair (-196°C) dengan harapan teknologi masa depan bisa "menghidupkan" kembali (kontroversial secara etik & sains)**
 - D. Cahaya
 
-**📖 Pembahasan:** Cryonics = bidang kontroversial. Saat ini lebih ke filsafat dari sains terbukti. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Cryonics memanfaatkan suhu sangat rendah (nitrogen cair) untuk mengawetkan jaringan/tubuh, meski keefektifannya masih diperdebatkan.
+- **A salah:** Magnet tidak berkaitan dengan metode pengawetan cryonics.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah metode pengawetan tubuh dengan suhu sangat rendah.
+- **C benar:** Cryonics mengawetkan tubuh manusia dalam nitrogen cair (-196°C) dengan harapan dapat dihidupkan kembali di masa depan, meski hal ini masih kontroversial secara etika dan belum terbukti secara sains.
+- **D salah:** Cahaya tidak berperan dalam metode pengawetan tubuh pada cryonics.
 
 ---
 
@@ -1290,7 +1725,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Titan = bulan unik dengan siklus hidrokarbon mirip siklus air Bumi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suatu zat berwujud cair jika suhunya berada di antara titik beku dan titik didihnya.
+- **A salah:** Magnet tidak berkaitan dengan alasan metana berwujud cair di Titan.
+- **B benar:** Suhu di Titan (-180°C) berada di bawah titik didih metana (-161°C) namun di atas titik bekunya (-182°C), sehingga metana berada dalam wujud cair — Titan punya siklus hidrokarbon mirip siklus air Bumi.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena astronomi ini.
+- **D salah:** Cahaya tidak berkaitan dengan wujud cair metana di Titan; faktor penentunya adalah suhu relatif terhadap titik beku dan titik didih metana.
 
 ---
 
@@ -1303,7 +1743,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. **Perubahan fase kristal di logam — austenite ↔ martensite — memungkinkan "ingat" bentuk awal**
 - D. Cahaya
 
-**📖 Pembahasan:** Shape memory alloy. Aplikasi: stent medis, kacamata fleksibel, robotic. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Logam memori memanfaatkan perubahan struktur kristal (bukan perubahan wujud padat-cair-gas) untuk kembali ke bentuk semula.
+- **A salah:** Magnet tidak menjadi mekanisme utama sifat "mengingat bentuk" pada logam memori.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah sifat unik logam memori.
+- **C benar:** Nitinol memiliki dua fase kristal (austenite dan martensite) yang dapat berubah bolak-balik akibat suhu, sehingga logam ini bisa "mengingat" dan kembali ke bentuk awalnya saat dipanaskan — dipakai untuk stent medis, kacamata fleksibel, dan robotik.
+- **D salah:** Cahaya tidak berperan dalam mekanisme perubahan fase kristal logam memori.
 
 ---
 
@@ -1316,7 +1761,12 @@ Mengapa **gunung tinggi** sulit memasak nasi/telur dengan baik?
 - C. Cahaya
 - D. **Transisi fase ke superfluid — viskositas tiba-tiba turun ke 0; kapasitas panas spike pada titik ini**
 
-**📖 Pembahasan:** Lambda transition. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Transisi lambda adalah perubahan fase khusus menuju keadaan superfluid dengan viskositas nol.
+- **A salah:** Magnet tidak berkaitan dengan transisi lambda pada helium.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika kuantum ini.
+- **C salah:** Cahaya tidak berkaitan dengan transisi fase helium menjadi superfluid.
+- **D benar:** Pada transisi lambda (2,17 K), helium cair berubah menjadi superfluid dengan viskositas yang tiba-tiba turun mendekati nol, disertai lonjakan kapasitas panas pada titik tersebut.
 
 ---
 
@@ -1329,7 +1779,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. **Solar wind & tekanan radiasi mendorong gas/debu yang dilepaskan sublimasi menjauhi matahari → ekor selalu mengarah berlawanan matahari**
 - D. Cahaya
 
-**📖 Pembahasan:** Comet tail physics. Sublimasi + tekanan radiasi. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Angin matahari dan tekanan radiasi mendorong gas hasil sublimasi komet menjauhi Matahari, menentukan arah ekor komet.
+- **A salah:** Magnet tidak menjadi penyebab arah ekor komet yang selalu menjauhi Matahari.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena astronomi ini.
+- **C benar:** Gas dan debu hasil sublimasi es komet didorong oleh angin matahari dan tekanan radiasi ke arah yang berlawanan dari Matahari, sehingga ekor komet selalu mengarah menjauhi Matahari.
+- **D salah:** Cahaya biasa bukan penyebab utama arah ekor komet; yang berperan adalah tekanan radiasi dan angin matahari mendorong gas hasil sublimasi.
 
 ---
 
@@ -1342,7 +1797,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** CVD = teknologi fabrikasi semiconductor. Aplikasi: chip, sel surya, coating. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** CVD mengendapkan lapisan tipis padat dari reaksi gas kimia di atas permukaan wafer (mirip proses deposisi).
+- **A salah:** Magnet tidak berkaitan dengan proses fabrikasi chip menggunakan CVD.
+- **B benar:** Gas kimia dilewatkan di atas wafer silikon sehingga bereaksi dan mengendap membentuk lapisan tipis padat di permukaannya — proses dasar dalam fabrikasi chip semikonduktor, sel surya, dan pelapisan bahan.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah teknologi fabrikasi semikonduktor.
+- **D salah:** Cahaya tidak menjadi mekanisme utama dalam proses pengendapan lapisan tipis pada CVD.
 
 ---
 
@@ -1355,7 +1815,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. **Laser energi tinggi melebur bubuk logam lapis demi lapis sesuai desain CAD → membeku menjadi bagian solid 3D — printing perubahan wujud terkontrol**
 - D. Cahaya biasa
 
-**📖 Pembahasan:** Metal 3D printing = teknologi manufaktur modern. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pencetakan 3D logam memanfaatkan pelelehan terkontrol oleh laser lalu pembekuan cepat untuk membentuk objek lapis demi lapis.
+- **A salah:** Magnet tidak berkaitan dengan proses pencetakan 3D logam.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknologi pencetakan 3D logam modern.
+- **C benar:** Laser berenergi tinggi melelehkan bubuk logam sesuai desain digital lapis demi lapis, kemudian logam cair tersebut cepat membeku membentuk bagian solid tiga dimensi.
+- **D salah:** Cahaya biasa tidak cukup untuk melelehkan logam; dibutuhkan laser berenergi sangat tinggi dan terfokus.
 
 ---
 
@@ -1368,7 +1833,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Gen-IV nuclear reactor research. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Reaktor garam cair melarutkan bahan bakar nuklir dalam garam fluorida cair bersuhu tinggi sebagai pendingin sekaligus media bahan bakar.
+- **A salah:** Magnet tidak berkaitan dengan cara kerja reaktor garam cair.
+- **B benar:** Bahan bakar nuklir dilarutkan dalam garam fluorida cair pada suhu sekitar 700°C, membuat reaktor generasi keempat ini berpotensi lebih aman dan efisien dibanding reaktor konvensional.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah teknologi reaktor nuklir generasi baru ini.
+- **D salah:** Cahaya tidak berperan dalam mekanisme kerja reaktor garam cair.
 
 ---
 
@@ -1381,7 +1851,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. **Awan disemai dengan AgI atau garam dari pesawat → menyediakan inti kondensasi/deposisi → uap air mengembun/mengkristal → hujan/salju buatan**
 - D. Cahaya
 
-**📖 Pembahasan:** Weather modification controversial tapi dipakai (Tiongkok, Indonesia, UEA). **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Cloud seeding menambahkan inti kondensasi/deposisi buatan agar uap air lebih mudah berubah menjadi tetesan/kristal es.
+- **A salah:** Magnet tidak berkaitan dengan mekanisme penyemaian awan.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk teknologi modifikasi cuaca ini.
+- **C benar:** Awan disemai dengan zat seperti perak iodida atau garam dari pesawat, menyediakan inti kondensasi/deposisi agar uap air lebih mudah mengembun atau mengkristal, sehingga mempercepat terbentuknya hujan atau salju buatan — sudah dipakai di Tiongkok, Indonesia, dan UEA meski masih kontroversial.
+- **D salah:** Cahaya tidak berperan dalam mekanisme penyemaian awan untuk memicu hujan buatan.
 
 ---
 
@@ -1394,7 +1869,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** Magma → lava → igneous rock. Siklus geologis dasar. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Magma adalah batuan cair panas yang membeku menjadi batuan beku saat mendingin di permukaan.
+- **A salah:** "Tradisi" bukan penjelasan ilmiah tentang sifat magma.
+- **B benar:** Magma adalah batuan cair (mengandung silika dan mineral) pada suhu 700–1200°C; saat naik ke permukaan dan mendingin, ia membeku menjadi batuan beku (igneous rock) — bagian dari siklus geologis dasar.
+- **C salah:** Magnet tidak berkaitan dengan sifat fisik magma.
+- **D salah:** Cahaya tidak berkaitan dengan proses pembentukan dan pembekuan magma.
 
 ---
 
@@ -1407,7 +1887,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. **Bukan perubahan wujud klasik — protein berubah konformasi (struktur lipat) saat panas → koagulasi → telur cair menjadi "padat", tapi bukan padat-cair-gas sederhana**
 - D. Cahaya
 
-**📖 Pembahasan:** Denaturation ≠ fase change biasa. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Denaturasi protein adalah perubahan struktur molekul akibat panas, berbeda dari perubahan wujud padat-cair-gas biasa.
+- **A salah:** Magnet tidak berkaitan dengan proses denaturasi protein saat memasak telur.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk proses denaturasi protein.
+- **C benar:** Saat telur dimasak, panas menyebabkan protein berubah struktur (konformasi) dan menggumpal (koagulasi) sehingga telur cair menjadi padat — ini bukan perubahan wujud padat-cair-gas sederhana, melainkan perubahan struktur molekul (denaturasi).
+- **D salah:** Cahaya bukan penyebab utama denaturasi protein pada telur yang dimasak; penyebabnya adalah panas.
 
 ---
 
@@ -1420,7 +1905,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Cryogenic propellant = standar roket modern. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Mesin kriogenik menggunakan bahan bakar cair bersuhu sangat rendah agar lebih kompak sebelum dibakar sebagai pendorong roket.
+- **A salah:** Magnet tidak berkaitan dengan cara kerja mesin roket kriogenik.
+- **B benar:** Hidrogen cair dan oksigen cair disimpan pada suhu sangat rendah agar volumenya kompak dalam tangki, lalu keduanya dibakar bersama di mesin untuk menghasilkan daya dorong yang sangat besar.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah teknologi propulsi roket modern.
+- **D salah:** Cahaya tidak berperan dalam mekanisme kerja mesin roket kriogenik.
 
 ---
 
@@ -1433,7 +1923,12 @@ Komet **memiliki ekor yang selalu menjauh dari matahari**, bahkan saat komet ber
 - C. **CO₂ dari emisi pabrik di-supercritical → diinjeksi ke formasi geologi dalam → tersimpan ribuan tahun untuk mitigasi pemanasan global**
 - D. Cahaya
 
-**📖 Pembahasan:** Carbon capture & storage (CCS) = teknologi mitigasi iklim. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** CO₂ superkritis dari hasil tangkapan karbon dapat diinjeksikan dan disimpan dalam formasi geologi bawah tanah dalam waktu sangat lama.
+- **A salah:** Magnet tidak berkaitan dengan teknologi penangkapan dan penyimpanan karbon.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknologi mitigasi perubahan iklim ini.
+- **C benar:** CO₂ dari emisi pabrik diubah menjadi fluida superkritis lalu diinjeksikan ke formasi geologi yang dalam, sehingga dapat tersimpan aman selama ribuan tahun sebagai upaya mitigasi pemanasan global.
+- **D salah:** Cahaya tidak berperan dalam proses penangkapan dan penyimpanan karbon menggunakan CO₂ superkritis.
 
 ---
 
@@ -1446,7 +1941,12 @@ Pernyataan paling komprehensif perubahan wujud OSN tertinggi:
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Sintesis ultimate. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman menyeluruh keenam perubahan wujud, sifat kalor latennya, dan aplikasinya dari fenomena alam hingga teknologi mutakhir.
+- **A benar:** Pernyataan ini merangkum secara komprehensif keenam perubahan wujud beserta kalor latennya yang besar, sifat suhu tetap saat perubahan wujud, dan luasnya aplikasi mulai dari fenomena alam (siklus air, awan, hujan) hingga teknologi modern seperti AC, freeze-drying, CO₂ superkritis, mesin kriogenik, dan lainnya.
+- **B salah:** Materi perubahan wujud zat dan aplikasinya sangat luas dan mendalam, bukan sesuatu yang "sederhana".
+- **C salah:** Magnet tidak berkaitan dengan materi perubahan wujud zat maupun aplikasinya yang luas.
+- **D salah:** "Tradisi" tidak mencakup konsep sains apa pun dari sintesis materi perubahan wujud ini.
 
 ---
 

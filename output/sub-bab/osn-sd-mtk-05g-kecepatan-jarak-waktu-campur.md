@@ -106,6 +106,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 120 km
 - C. 62 km
 - D. 30 km/jam
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 60 × 2.
+  2. Jarak = 120 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -121,6 +125,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 26 km/jam
 - C. 48 km/jam
 - D. 22 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 24 dengan 2.
+  2. Kecepatan = 12 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -136,6 +144,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 3 jam
 - C. 2 jam
 - D. 120 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 80 dengan 40.
+  2. Waktu = 2 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -151,6 +163,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 17,5 km
 - C. 140 km
 - D. 280 km
+- **Konsep kunci:** Hitung waktu dulu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 07.00 → 11.00 = 4 jam.
+  2. Jarak = 70 × 4 = 280 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -166,6 +182,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 540 km/jam
 - C. 183 km/jam
 - D. 30 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 180 dengan 3.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -181,6 +201,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 60 km
 - C. 11 km
 - D. 3,75 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 15 × 4.
+  2. Jarak = 60 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -196,6 +220,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 160 jam
 - C. 19.200 jam
 - D. 3 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 240 dengan 80.
+  2. Waktu = 3 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -211,6 +239,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 1.500 km
 - C. 166,67 km
 - D. 497 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 500 × 3.
+  2. Jarak = 1.500 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -226,6 +258,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 1.500 km/jam
 - C. 305 km/jam
 - D. 295 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 300 dengan 5.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -241,6 +277,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 60 km/jam
 - C. 135 km/jam
 - D. 88,5 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 90 dengan 1,5.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -256,6 +296,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 52,5 km
 - C. 125 km
 - D. 100 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 50 × 2,5.
+  2. Jarak = 125 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -271,6 +315,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 65 m
 - C. 55 m
 - D. 300 m
+- **Konsep kunci:** Jarak = kecepatan × waktu; m/s × detik.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 × 60.
+  2. Jarak = 300 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -286,6 +334,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 450 km/jam
 - C. 147 km/jam
 - D. 153 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 150 dengan 3.
+  2. Kecepatan = 50 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -301,6 +353,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 3 jam
 - C. 90 jam
 - D. 180 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 135 dengan 45.
+  2. Waktu = 3 jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -316,6 +372,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 2 jam
 - C. 3 jam
 - D. 4 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 2.400 dengan 800.
+  2. Waktu = 3 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -331,6 +391,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 120 km
 - C. 180 km
 - D. 240 km
+- **Konsep kunci:** Hitung waktu dulu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 08.00 → 12.00 = 4 jam.
+  2. Jarak = 60 × 4 = 240 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -346,6 +410,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 50 km/jam
 - C. 70 km/jam
 - D. 80 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 240 dengan 4.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -361,6 +429,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 6 km
 - C. 24 km
 - D. 12,5 km
+- **Konsep kunci:** Ubah menit ke jam lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 30 menit = 0,5 jam.
+  2. Jarak = 12 × 0,5 = 6 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -376,6 +448,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 4 jam
 - C. 3 jam
 - D. 5 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 120 dengan 40.
+  2. Waktu = 3 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -391,6 +467,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 16,25 km
 - C. 69 km
 - D. 130 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 65 × 4.
+  2. Jarak = 260 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -406,6 +486,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 40 km/jam
 - C. 102,5 km/jam
 - D. 50 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 100 dengan 2,5.
+  2. Kecepatan = 40 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -421,6 +505,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 120 km
 - C. 60 menit
 - D. 180 km
+- **Konsep kunci:** Hitung waktu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 06.30 → 09.30 = 3 jam.
+  2. Jarak = 60 × 3 = 180 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -436,6 +524,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 225 jam
 - C. 22.500 jam
 - D. 5 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 300 dengan 75.
+  2. Waktu = 4 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -451,6 +543,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 65 km/jam
 - C. 50 km/jam
 - D. 80 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 240 dengan 4.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -466,6 +562,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 40 km/jam
 - C. 50 km/jam
 - D. 45 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 90 dengan 2.
+  2. Kecepatan = 45 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -481,6 +581,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 0,5 jam
 - C. 9 jam
 - D. 3 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 3 dengan 6 = 0,5 jam.
+  2. 0,5 jam = 30 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -496,6 +600,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 1.500 km
 - C. 1.530 km
 - D. 1.800 km
+- **Konsep kunci:** Ubah 2 jam 30 menit = 2,5 jam.
+- **Langkah Penyelesaian:**
+  1. Jarak = 600 × 2,5.
+  2. = 1.500 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -511,6 +619,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 80 km/jam
 - C. 25 km/jam
 - D. 150 km/jam
+- **Konsep kunci:** Ubah 30 menit = 0,5 jam.
+- **Langkah Penyelesaian:**
+  1. Kecepatan = 50 ÷ 0,5.
+  2. = 100 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -526,6 +638,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 11.00
 - C. 09.00
 - D. 12.00
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan lalu tambahkan pada berangkat.
+- **Langkah Penyelesaian:**
+  1. 200 ÷ 50 = 4 jam.
+  2. 05.00 + 4 jam = 09.00.
 
 **Kunci: C**
 **Pembahasan:**
@@ -541,6 +657,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 90 km/jam
 - C. 60 km/jam
 - D. 45 km/jam
+- **Konsep kunci:** Ubah 45 menit = 0,75 jam.
+- **Langkah Penyelesaian:**
+  1. Kecepatan = 45 ÷ 0,75.
+  2. = 60 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -556,6 +676,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 210 km
 - C. 220,5 km
 - D. 280 km
+- **Konsep kunci:** Istirahat tidak menambah jarak; jarak = v × t bergerak.
+- **Langkah Penyelesaian:**
+  1. Jarak = 70 × 3.
+  2. = 210 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -571,6 +695,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 75 km/jam
 - C. 50 km/jam
 - D. 65 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 150 dengan 2,5.
+  2. Kecepatan = 60 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -586,6 +714,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 64 km
 - C. 100 km
 - D. 80 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 80 × 1,25.
+  2. Jarak = 100 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -601,6 +733,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 80 km
 - C. 200 km
 - D. 320 km
+- **Konsep kunci:** Total jarak = jumlah semua ruas (istirahat tidak berjarak).
+- **Langkah Penyelesaian:**
+  1. 120 + 80.
+  2. Total = 200 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -616,6 +752,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 8,5 km
 - C. 15 km
 - D. 6,67 km
+- **Konsep kunci:** Jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan 10 × 1,5.
+  2. Jarak = 15 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -631,6 +771,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 3 jam
 - C. 2 jam 30 menit
 - D. 3 jam 30 menit
+- **Konsep kunci:** Selisih dari 09.15 ke 12.45.
+- **Langkah Penyelesaian:**
+  1. 12.45 − 09.15.
+  2. = 3 jam 30 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -646,6 +790,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 60 km/jam
 - C. 90 km/jam
 - D. 70 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 480 dengan 6.
+  2. Kecepatan = 80 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -661,6 +809,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 50 jam
 - C. 3 jam
 - D. 1.875 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 75 dengan 25.
+  2. Waktu = 3 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -676,6 +828,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 65 km
 - C. 195 km
 - D. 260 km
+- **Konsep kunci:** Hitung waktu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 07.30 → 10.30 = 3 jam.
+  2. Jarak = 65 × 3 = 195 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -691,6 +847,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 540 km
 - C. 600 km
 - D. 720 km
+- **Konsep kunci:** Ubah 45 menit = 0,75 jam.
+- **Langkah Penyelesaian:**
+  1. Jarak = 720 × 0,75.
+  2. = 540 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -706,6 +866,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 12 km/jam
 - C. 8 km/jam
 - D. 15 km/jam
+- **Konsep kunci:** Ubah 2 jam 30 menit = 2,5 jam.
+- **Langkah Penyelesaian:**
+  1. Kecepatan = 25 ÷ 2,5.
+  2. = 10 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -721,6 +885,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 3 jam
 - C. 4 jam
 - D. 2 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 360 dengan 90.
+  2. Waktu = 4 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -736,6 +904,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 80 km/jam
 - C. 75 km/jam
 - D. 70 km/jam
+- **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total = 140 km dalam 2 jam.
+  2. = 70 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -751,6 +923,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 4 jam
 - C. 6 jam
 - D. 3 jam
+- **Konsep kunci:** Waktu = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Bagi 250 dengan 50.
+  2. Waktu = 5 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -766,6 +942,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 72 km/jam
 - C. 36 km/jam
 - D. 30 km/jam
+- **Konsep kunci:** Ubah 30 menit = 0,5 jam.
+- **Langkah Penyelesaian:**
+  1. Kecepatan = 36 ÷ 0,5.
+  2. = 72 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -781,6 +961,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 100 km
 - C. 50 km
 - D. 200 km
+- **Konsep kunci:** Ubah 30 menit = 0,5 jam.
+- **Langkah Penyelesaian:**
+  1. Jarak = 100 × 0,5.
+  2. = 50 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -796,6 +980,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 80 km/jam
 - C. 95 km/jam
 - D. 85 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 540 dengan 6.
+  2. Kecepatan = 90 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -811,6 +999,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 45 km
 - C. 60 km
 - D. 2.700 km
+- **Konsep kunci:** Ubah 90 menit = 1,5 jam.
+- **Langkah Penyelesaian:**
+  1. Jarak = 30 × 1,5.
+  2. = 45 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -826,6 +1018,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 95 km/jam
 - C. 90 km/jam
 - D. 85 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi 270 dengan 3.
+  2. Kecepatan = 90 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -841,6 +1037,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 200 km
 - C. 50 km
 - D. 100 km
+- **Konsep kunci:** Istirahat tidak berjarak; jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. Jarak = 50 × 4.
+  2. = 200 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -858,6 +1058,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 50 km/jam
 - C. 60 km/jam
 - D. 45 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu yang tersedia.
+- **Langkah Penyelesaian:**
+  1. 06.00 → 09.00 = 3 jam.
+  2. v = 180 ÷ 3 = 60 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -873,6 +1077,10 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 - B. 15 km
 - C. 30 km
 - D. 25 km
+- **Konsep kunci:** Hitung waktu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 14.00 → 15.30 = 1,5 jam.
+  2. Jarak = 15 × 1,5 = 22,5 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -897,6 +1105,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 11.00
 - C. 12.30
 - D. 11.30
+- **Konsep kunci:** Jumlahkan durasi lalu tambahkan pada berangkat.
+- **Langkah Penyelesaian:**
+  1. Waktu = 4 + 0,5 + 2 = 6,5 jam.
+  2. 05.00 + 6,5 jam = 11.30.
 
 - **A** — Salah, menambah istirahat berlebihan.
 - **B** — Salah, melupakan istirahat 30 menit.
@@ -910,6 +1122,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 20 m/s
 - C. 200 m/s
 - D. 12 m/s
+- **Konsep kunci:** 1 km = 1.000 m; 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 72 × 1.000 ÷ 3.600.
+  2. = 20 m/detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -925,6 +1141,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 18 km/jam
 - C. 18,5 km/jam
 - D. 480 km/jam
+- **Konsep kunci:** Ubah 40 menit = 2/3 jam lalu v = j ÷ t.
+- **Langkah Penyelesaian:**
+  1. 12 ÷ (2/3) = 12 × 3/2.
+  2. = 18 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -940,6 +1160,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 5 jam
 - C. 3 jam 45 menit
 - D. 4 jam 15 menit
+- **Konsep kunci:** Jumlahkan waktu pergi, pulang, dan istirahat.
+- **Langkah Penyelesaian:**
+  1. 90÷45 = 2 jam; 90÷60 = 1,5 jam; + 15 menit.
+  2. Total = 3 jam 45 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -955,6 +1179,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 45 km/jam
 - C. 52 km/jam
 - D. 48 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Waktu = 1 + 1,5 = 2,5 jam; jarak = 120 km.
+  2. = 120 ÷ 2,5 = 48 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -970,6 +1198,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 300 km
 - C. 200 km
 - D. 100 km
+- **Konsep kunci:** Waktu bergerak = waktu tiba − berangkat − istirahat.
+- **Langkah Penyelesaian:**
+  1. 11.00 − 06.00 = 5 jam; − 1 jam = 4 jam.
+  2. Jarak = 50 × 4 = 200 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -985,6 +1217,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 320 km
 - C. 280 km
 - D. 340 km
+- **Konsep kunci:** Jumlahkan jarak tiap ruas.
+- **Langkah Penyelesaian:**
+  1. 80×2 = 160; 60×3 = 180.
+  2. Total = 340 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1000,6 +1236,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 800 km/jam
 - C. 900 km/jam
 - D. 1.200 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu (1,5 jam).
+- **Langkah Penyelesaian:**
+  1. 1.200 ÷ 1,5.
+  2. = 800 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1015,6 +1255,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 50 km
 - C. 51 km
 - D. 48 km
+- **Konsep kunci:** Jumlahkan waktu bergerak lalu kalikan kecepatan.
+- **Langkah Penyelesaian:**
+  1. 3 jam = 180 - 30 menit istirahat = 150 menit bergerak = 2,5 jam.
+  2. Jarak = 18 × 2,5 = 45 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1030,6 +1274,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 250 km
 - C. 320 km
 - D. 270 km
+- **Konsep kunci:** Jumlahkan jarak tiap ruas.
+- **Langkah Penyelesaian:**
+  1. 50×3 = 150; 60×2 = 120.
+  2. Total = 270 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1045,6 +1293,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 6 jam
 - C. 4 jam
 - D. 3 jam
+- **Konsep kunci:** Jarak head start ÷ selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 40 × 2 = 80 km.
+  2. Waktu susul = 80 ÷ (60−40) = 4 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1060,6 +1312,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 75 km/jam
 - C. 90 km/jam
 - D. 60 km/jam
+- **Konsep kunci:** Kecepatan saat bergerak = jarak ÷ waktu bergerak (tanpa berhenti).
+- **Langkah Penyelesaian:**
+  1. Waktu bergerak = 8 − 1 = 7 jam.
+  2. 600 ÷ 7 ≈ 85,7 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1075,6 +1331,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 90 km/jam
 - C. 88 km/jam
 - D. 100 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 440 km; waktu = 5 jam.
+  2. = 88 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1090,6 +1350,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 260 km
 - C. 320 km
 - D. 360 km
+- **Konsep kunci:** Jumlahkan jarak tiap ruas.
+- **Langkah Penyelesaian:**
+  1. 65×4 = 260 km; + 90 km.
+  2. Total = 350 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1105,6 +1369,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 60 km/jam
 - C. 72 km/jam
 - D. 80 km/jam
+- **Konsep kunci:** Rata-rata PP = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. 2 jam + 3 jam = 5 jam; jarak 360 km.
+  2. = 72 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1120,6 +1388,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 35 menit
 - C. 30 menit
 - D. 1 jam 5 menit
+- **Konsep kunci:** Waktu berkendara + istirahat.
+- **Langkah Penyelesaian:**
+  1. 30 ÷ 60 = 0,5 jam = 30 menit; + 5 menit.
+  2. Total = 35 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1135,6 +1407,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 85 km/jam
 - C. 90 km/jam
 - D. 75 km/jam
+- **Konsep kunci:** Waktu bergerak = waktu total − pemberhentian.
+- **Langkah Penyelesaian:**
+  1. 6 jam − (2 × 15 menit) = 5,5 jam.
+  2. 480 ÷ 5,5 ≈ 87,3 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1150,6 +1426,10 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 - B. 36 km
 - C. 30 km
 - D. 60 km
+- **Konsep kunci:** Arah berlawanan: jarak = jumlah kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. (12 + 18) × 2.
+  2. = 60 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1174,6 +1454,10 @@ Ralat opsi:
 - B. 1 jam
 - C. 2 jam
 - D. 30 menit
+- **Konsep kunci:** Jarak head start ÷ selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 75 × 0,5 = 37,5 km.
+  2. 37,5 ÷ (100−75) = 1,5 jam.
 
 - **A** — Benar. Saat mobil kedua mulai, mobil pertama sudah 0,5 × 75 = 37,5 km di depan. Selisih kecepatan = 100 − 75 = 25 km/jam. Waktu = 37,5 ÷ 25 = **1,5 jam**.
 - **B** — Salah, salah pembagi selisih.
@@ -1187,6 +1471,10 @@ Ralat opsi:
 - B. 15 m/s
 - C. 12 m/s
 - D. 1.500 m/s
+- **Konsep kunci:** Konversi km/jam ke m/detik: ×1000 ÷3600.
+- **Langkah Penyelesaian:**
+  1. 54 × 1000 ÷ 3600.
+  2. = 15 m/detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1202,6 +1490,10 @@ Ralat opsi:
 - B. 5 jam
 - C. 5 jam 30 menit
 - D. 4 jam 30 menit
+- **Konsep kunci:** Jumlahkan waktu tiap ruas dan istirahat.
+- **Langkah Penyelesaian:**
+  1. 180÷90 = 2; + 1 istirahat; + 120÷60 = 2.
+  2. Total = 5 jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1217,6 +1509,10 @@ Ralat opsi:
 - B. 90 km/jam
 - C. 85 km/jam
 - D. 84 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total 420 km dalam 5 jam.
+  2. = 84 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1232,6 +1528,10 @@ Ralat opsi:
 - B. 10.30
 - C. 10.00
 - D. 09.00
+- **Konsep kunci:** Waktu tempuh + istirahat lalu tambahkan pada berangkat.
+- **Langkah Penyelesaian:**
+  1. 210 ÷ 70 = 3 jam; + 30 menit = 3,5 jam.
+  2. 06.30 + 3,5 jam = 10.00.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1247,6 +1547,10 @@ Ralat opsi:
 - B. 7 jam
 - C. 6 jam
 - D. 5 jam
+- **Konsep kunci:** Waktu PP = jarak/v masing-masing lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 75÷25 = 3 jam; 75÷15 = 5 jam.
+  2. Total = 8 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1262,6 +1566,10 @@ Ralat opsi:
 - B. 750 km
 - C. 1.125 km
 - D. 1.000 km
+- **Konsep kunci:** Hitung waktu lalu jarak = v × t.
+- **Langkah Penyelesaian:**
+  1. 09.45 → 11.15 = 1,5 jam.
+  2. 750 × 1,5 = 1.125 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1277,6 +1585,10 @@ Ralat opsi:
 - B. 6 jam
 - C. 3 jam
 - D. 4 jam
+- **Konsep kunci:** Jarak head start ÷ selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 40 × 1 = 40 km.
+  2. 40 ÷ (50−40) = 4 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1300,6 +1612,10 @@ Ralat opsi:
 - B. 200 km
 - C. 220 km
 - D. 260 km
+- **Konsep kunci:** Jumlahkan jarak tiap ruas.
+- **Langkah Penyelesaian:**
+  1. 60×2 = 120; 80×1,5 = 120.
+  2. Total = 240 km.
 
 **Pembahasan:**
 - **A** — Benar. Tahap I = 60×2 = 120 km. Tahap II = 80×1,5 = 120 km. Total = **240 km**.
@@ -1314,6 +1630,10 @@ Ralat opsi:
 - B. 60 km
 - C. 3.600 km
 - D. 45 km
+- **Konsep kunci:** Ubah 40 menit = 2/3 jam.
+- **Langkah Penyelesaian:**
+  1. 90 × 2/3.
+  2. = 60 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1345,6 +1665,10 @@ Susun ulang opsi yang benar:
 - B. 07.30
 - C. 09.00
 - D. 08.00
+- **Konsep kunci:** Waktu papasan = jarak ÷ jumlah kecepatan.
+- **Langkah Penyelesaian:**
+  1. 360 ÷ (80+100) = 2 jam.
+  2. 06.00 + 2 jam = 08.00.
 
 **Pembahasan:**
 - **A** — Salah, terlalu cepat.
@@ -1359,6 +1683,11 @@ Susun ulang opsi yang benar:
 - B. 10.00
 - C. 09.45
 - D. 10.30
+- **Konsep kunci:** Sesuaikan start A pada pukul 08.00, lalu hitung sisa jarak.
+- **Langkah Penyelesaian:**
+  1. Saat 08.00, A sudah 60 km; sisa = 340−60 = 280 km.
+  2. 280 ÷ (60+80) = 2 jam.
+  3. Papasan pukul 10.00.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1374,6 +1703,10 @@ Susun ulang opsi yang benar:
 - B. 300 km
 - C. 400 km
 - D. 240 km
+- **Konsep kunci:** Head start motor lalu waktu susul dan jarak mobil.
+- **Langkah Penyelesaian:**
+  1. Head start = 50×3 = 150 km; susul = 150÷30 = 5 jam.
+  2. Jarak mobil = 80 × 5 = 400 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1389,6 +1722,10 @@ Susun ulang opsi yang benar:
 - B. 75 km/jam
 - C. 70 km/jam
 - D. 72,5 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 120+270+45 = 435 km; waktu 6 jam.
+  2. = 72,5 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1404,6 +1741,10 @@ Susun ulang opsi yang benar:
 - B. 210 km
 - C. 180 km
 - D. 195 km
+- **Konsep kunci:** Waktu papasan lalu jarak yang ditempuh A.
+- **Langkah Penyelesaian:**
+  1. 420 ÷ (70+60) ≈ 3,23 jam.
+  2. Jarak A = 70 × 3,23 ≈ 226 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1419,6 +1760,10 @@ Susun ulang opsi yang benar:
 - B. 250 km
 - C. 180 km
 - D. 150 km
+- **Konsep kunci:** Total waktu = d/v₁ + d/v₂ lalu selesaikan untuk d.
+- **Langkah Penyelesaian:**
+  1. d/60 + d/90 = 5.
+  2. 5d/180 = 5 → d = 180 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1434,6 +1779,10 @@ Susun ulang opsi yang benar:
 - B. 45 km/jam
 - C. 48 km/jam
 - D. 52 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. 120÷60 = 2 jam; 120÷40 = 3 jam.
+  2. 240 ÷ 5 = 48 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1455,6 +1804,11 @@ Ralat opsi:
 - B. 2 jam 30 menit
 - C. 2 jam 45 menit
 - D. 2 jam 50 menit
+- **Konsep kunci:** Hitung bertahap: 1 jam pertama, lalu 30 menit berhenti, lalu sisa.
+- **Langkah Penyelesaian:**
+  1. Setelah 1 jam sisa = 150 km; motor maju 35 km saat mobil berhenti.
+  2. Sisa 115 km ÷ 150 ≈ 46 menit.
+  3. Total ≈ 2 jam 16 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1470,6 +1824,10 @@ Ralat opsi:
 - B. 6 jam, 600 km
 - C. 5 jam, 500 km
 - D. 5 jam, 600 km
+- **Konsep kunci:** Head start A lalu waktu susul dan jarak.
+- **Langkah Penyelesaian:**
+  1. Head start = 75×2 = 150 km; susul = 150÷25 = 6 jam.
+  2. Jarak = 100 × 6 = 600 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1485,6 +1843,10 @@ Ralat opsi:
 - B. 320 km
 - C. 240 km
 - D. 480 km
+- **Konsep kunci:** Susul: 120t = 80(t+1) → t = 2; hitung jarak lokal.
+- **Langkah Penyelesaian:**
+  1. Jarak lokal = 80 × 3.
+  2. = 240 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1500,6 +1862,10 @@ Ralat opsi:
 - B. 6 m/s
 - C. 100 m/s
 - D. 10 m/s
+- **Konsep kunci:** Konversi km/jam: ×1000 ÷3600.
+- **Langkah Penyelesaian:**
+  1. 36 × 1000 ÷ 3600.
+  2. = 10 m/detik.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1521,6 +1887,10 @@ Ralat opsi:
 - B. 280 km
 - C. 200 km
 - D. 320 km
+- **Konsep kunci:** Waktu papasan lalu jarak truk 1.
+- **Langkah Penyelesaian:**
+  1. 480 ÷ (70+50) = 4 jam.
+  2. Jarak truk 1 = 70 × 4 = 280 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1536,6 +1906,10 @@ Ralat opsi:
 - B. 24 km
 - C. 36 km
 - D. 25 km
+- **Konsep kunci:** Selisih waktu antara dua kecepatan = 15 + 5 menit.
+- **Langkah Penyelesaian:**
+  1. d/40 − d/60 = 20 menit = 1/3 jam.
+  2. d/120 = 1/3 → d = 40 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1551,6 +1925,10 @@ Ralat opsi:
 - B. 40 km/jam
 - C. 60 km/jam
 - D. 45 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu; samakan jarak tetap.
+- **Langkah Penyelesaian:**
+  1. Jarak = 30 × 5 = 150 km.
+  2. v = 150 ÷ 3 = 50 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1566,6 +1944,11 @@ Ralat opsi:
 - B. 09.00
 - C. 09.20
 - D. 09.10
+- **Konsep kunci:** Sesuaikan posisi A saat B berangkat lalu hitung waktu papasan.
+- **Langkah Penyelesaian:**
+  1. Saat 08.30 A sudah 300 km; sisa 700 km.
+  2. 700 ÷ 1.300 ≈ 0,54 jam ≈ 32 menit.
+  3. Papasan pukul 09.02.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1587,6 +1970,10 @@ Ralat opsi:
 - B. 240 km
 - C. 256 km
 - D. 224 km
+- **Konsep kunci:** Waktu papasan lalu jarak mobil 1.
+- **Langkah Penyelesaian:**
+  1. 480 ÷ (80+70) = 3,2 jam.
+  2. Jarak mobil 1 = 80 × 3,2 = 256 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1602,6 +1989,10 @@ Ralat opsi:
 - B. 75 km/jam
 - C. 72 km/jam
 - D. 70 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. 180÷60 = 3; 180÷90 = 2; total 360 km / 5 jam.
+  2. = 72 km/jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1623,6 +2014,10 @@ Ralat opsi:
 - B. 12.30
 - C. 12.45
 - D. 13.15
+- **Konsep kunci:** Waktu susul = head start ÷ selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 150 × 0,75 = 112,5 km; susul = 112,5 ÷ 50 = 2,25 jam.
+  2. 09.45 + 2,25 jam = 12.00.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1644,6 +2039,10 @@ Ralat opsi:
 - B. 80 km/jam
 - C. 82,5 km/jam
 - D. 85 km/jam
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 60+160+100 = 320 km; waktu 4 jam.
+  2. = 80 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1659,6 +2058,10 @@ Ralat opsi:
 - B. 5,5 jam
 - C. 5 jam 30 menit (sama B)
 - D. 6 jam
+- **Konsep kunci:** Waktu bergerak + total istirahat.
+- **Langkah Penyelesaian:**
+  1. 300 ÷ 60 = 5 jam; + 2 × 15 menit.
+  2. Total = 5 jam 30 menit.
 
 **Kunci: B**
 **Pembahasan:**

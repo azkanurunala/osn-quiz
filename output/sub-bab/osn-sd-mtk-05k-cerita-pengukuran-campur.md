@@ -119,6 +119,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. Rp35.000
 - C. Rp50.000
 - D. Rp53.000
+- **Konsep kunci:** Hitung harga gula dan tepung lalu jumlahkan (samakan satuan berat).
+- **Langkah Penyelesaian:**
+  1. Gula: 2,5 × 14.000 = 35.000.
+  2. Tepung: 750 g = 0,75 kg → 0,75 × 12.000 = 9.000.
+  3. Total = 35.000 + 9.000 = 44.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -134,6 +139,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 150 kg
 - C. 300 kg
 - D. 75 kg
+- **Konsep kunci:** Hitung luas kebun lalu kalikan hasil per m².
+- **Langkah Penyelesaian:**
+  1. Luas = 25 × 12 = 300 m².
+  2. Jumlah = 300 × 0,5 = 150 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -149,6 +158,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 07.00
 - C. 06.45
 - D. 06.50
+- **Konsep kunci:** Hitung waktu tempuh lalu tambahkan pada jam berangkat.
+- **Langkah Penyelesaian:**
+  1. Waktu = 3 ÷ 12 = 0,25 jam = 15 menit.
+  2. 06.30 + 15 menit = 06.45.
 
 **Kunci: C**
 **Pembahasan:**
@@ -164,6 +177,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 10 botol
 - C. 9 botol
 - D. 10 botol
+- **Konsep kunci:** Samakan semua ke mL lalu bagi dengan isi botol.
+- **Langkah Penyelesaian:**
+  1. 2 L = 2.000 mL; total = 2.000 + 500 = 2.500 mL.
+  2. 2.500 ÷ 250 = 10 botol.
 
 **Kunci: D**
 **Pembahasan:**
@@ -179,6 +196,9 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 7 pot
 - C. 10 pot
 - D. 6 pot
+- **Konsep kunci:** Bagi tanah dengan kebutuhan tiap pot.
+- **Langkah Penyelesaian:**
+  1. 12 ÷ 1,5 = 8 pot.
 
 **Kunci: A**
 **Pembahasan:**
@@ -194,6 +214,9 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 60 menit
 - C. 30 menit
 - D. 120 menit
+- **Konsep kunci:** Waktu = volume ÷ debit.
+- **Langkah Penyelesaian:**
+  1. 240 ÷ 4 = 60 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -209,6 +232,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 350 mL
 - C. 250 mL
 - D. 500 mL
+- **Konsep kunci:** Jumlahkan volume lalu kurangi yang diminum.
+- **Langkah Penyelesaian:**
+  1. Total = 3 × 250 = 750 mL.
+  2. 0,5 L = 500 mL.
+  3. Sisa = 750 − 500 = 250 mL.
 
 **Kunci: C**
 **Pembahasan:**
@@ -224,6 +252,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 30 kue
 - C. 35 kue
 - D. 25 kue
+- **Konsep kunci:** Samakan satuan lalu bagi.
+- **Langkah Penyelesaian:**
+  1. 2 kg = 2.000 g.
+  2. 2.000 ÷ 80 = 25 kue.
 
 **Kunci: D**
 **Pembahasan:**
@@ -239,6 +271,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 62,5 kg
 - C. 6,25 kg
 - D. 0,625 kg
+- **Konsep kunci:** Ubah semuanya ke kg dan m² lalu hitung pupuk per m².
+- **Langkah Penyelesaian:**
+  1. 1 ha = 10.000 m² → 2 ha = 20.000 m².
+  2. Pupuk = 5 × 25 = 125 kg.
+  3. 125 ÷ 20.000 = 0,00625 kg/m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -254,6 +291,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 150 m/menit
 - C. 200 m/menit
 - D. 100 m/menit
+- **Konsep kunci:** Ubah jarak ke m lalu bagi dengan waktu menit.
+- **Langkah Penyelesaian:**
+  1. 1,2 km = 1.200 m.
+  2. 1.200 ÷ 8 = 150 m/menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -269,6 +310,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 16 potong
 - C. 15 potong
 - D. 20 potong
+- **Konsep kunci:** Samakan satuan lalu bagi.
+- **Langkah Penyelesaian:**
+  1. 12 m = 1.200 cm.
+  2. 1.200 ÷ 80 = 15 potong.
 
 **Kunci: C**
 **Pembahasan:**
@@ -284,6 +329,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. Rp30.500
 - C. Rp110.000
 - D. Rp116.500
+- **Konsep kunci:** Hitung harga minyak dan beras lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Minyak: 3 × 18.000 = 54.000.
+  2. Beras: 5 × 12.500 = 62.500.
+  3. Total = 54.000 + 62.500 = 116.500.
 
 **Kunci: D**
 **Pembahasan:**
@@ -299,6 +349,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 5 baju
 - C. 3 baju
 - D. 6 baju
+- **Konsep kunci:** Samakan satuan lalu bagi (ambil bagian bulat).
+- **Langkah Penyelesaian:**
+  1. 5 m = 500 cm; 1 m 25 cm = 125 cm.
+  2. 500 ÷ 125 = 4 baju.
 
 **Kunci: A**
 **Pembahasan:**
@@ -314,6 +368,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 50 karung
 - C. 25 karung
 - D. 40 karung
+- **Konsep kunci:** Ubah semua ke kg lalu bagi dengan kapasitas karung.
+- **Langkah Penyelesaian:**
+  1. 2 ton = 2.000 kg; 5 kuintal = 500 kg; total = 2.500 kg.
+  2. 2.500 ÷ 50 = 50 karung.
 
 **Kunci: B**
 **Pembahasan:**
@@ -329,6 +387,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 600 liter
 - C. 60 liter
 - D. 120 liter
+- **Konsep kunci:** Hitung volume balok lalu ubah cm³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Volume = 50 × 30 × 40 = 60.000 cm³.
+  2. 60.000 cm³ = 60 L.
 
 **Kunci: C**
 **Pembahasan:**
@@ -344,6 +406,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 06.55
 - C. 07.05
 - D. 07.03
+- **Konsep kunci:** Hitung waktu tempuh lalu tambahkan pada jam berangkat.
+- **Langkah Penyelesaian:**
+  1. Waktu = 2,4 ÷ 8 = 0,3 jam = 18 menit.
+  2. 06.45 + 18 menit = 07.03.
 
 **Kunci: D**
 **Pembahasan:**
@@ -359,6 +425,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 1.500 mL
 - C. 800 mL
 - D. 4.800 mL
+- **Konsep kunci:** Hitung kebutuhan total lalu kurangi yang sudah dibuat.
+- **Langkah Penyelesaian:**
+  1. Total = 24 × 200 = 4.800 mL.
+  2. Sudah = 3,5 L = 3.500 mL.
+  3. Sisa = 4.800 − 3.500 = 1.300 mL.
 
 **Kunci: A**
 **Pembahasan:**
@@ -374,6 +445,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. Rp2.700.000
 - C. Rp9.720.000
 - D. Rp810.000
+- **Konsep kunci:** Hitung keliling persegi panjang lalu kalikan biaya per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (18 + 12) = 60 m.
+  2. Biaya = 60 × 45.000 = 2.700.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -389,6 +464,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 235 g
 - C. 235 g
 - D. 245 g
+- **Konsep kunci:** Jumlahkan berat empat jeruk dulu lalu kurangi dari total.
+- **Langkah Penyelesaian:**
+  1. Empat jeruk = 150+175+160+180 = 665 g.
+  2. Total 0,9 kg = 900 g.
+  3. Jeruk kelima = 900 − 665 = 235 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -404,6 +484,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 30 km/jam
 - C. 90 km/jam
 - D. 60 km/jam
+- **Konsep kunci:** Kecepatan = jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Waktu = 10.00 − 07.00 = 3 jam.
+  2. 180 ÷ 3 = 60 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -419,6 +503,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 60 ubin
 - C. 48 ubin
 - D. 120 ubin
+- **Konsep kunci:** Hitung luas teras dan luas ubin lalu bagi (samakan cm).
+- **Langkah Penyelesaian:**
+  1. Teras = 300 × 200 = 60.000 cm².
+  2. Ubin = 25 × 25 = 625 cm².
+  3. 60.000 ÷ 625 = 96 ubin.
 
 **Kunci: A**
 **Pembahasan:**
@@ -434,6 +523,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 10,5 liter
 - C. 1,5 liter
 - D. 12 liter
+- **Konsep kunci:** Hitung minyak per hari lalu kalikan 7 hari (ubah ke L).
+- **Langkah Penyelesaian:**
+  1. Per hari = 6 × 250 = 1.500 mL = 1,5 L.
+  2. Seminggu = 1,5 × 7 = 10,5 L.
 
 **Kunci: B**
 **Pembahasan:**
@@ -449,6 +542,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 60 tanaman
 - C. 80 tanaman
 - D. 30 tanaman
+- **Konsep kunci:** Samakan satuan lalu bagi.
+- **Langkah Penyelesaian:**
+  1. 15 kg = 15.000 g.
+  2. 15.000 ÷ 200 = 75 tanaman.
 
 **Kunci: A**
 **Pembahasan:**
@@ -464,6 +561,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 50,75 m²
 - C. 56,25 m²
 - D. 53,125 m²
+- **Konsep kunci:** Ubah semua ke m lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. 8 m 50 cm = 8,5 m; 6 m 25 cm = 6,25 m.
+  2. Luas = 8,5 × 6,25 = 53,125 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -479,6 +580,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 200 km
 - C. 150 km
 - D. 100 km
+- **Konsep kunci:** Hitung waktu lalu jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. 16.45 − 13.15 = 3,5 jam.
+  2. 50 × 3,5 = 175 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -494,6 +599,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 3 hari
 - C. 4 hari
 - D. 5 hari
+- **Konsep kunci:** Ubah lusin ke butir lalu bagi dengan pemakaian harian.
+- **Langkah Penyelesaian:**
+  1. 3 lusin = 36 butir.
+  2. 36 ÷ 12 = 3 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -509,6 +618,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 1 jam 20 menit
 - C. 1 jam 20 menit
 - D. 2 jam
+- **Konsep kunci:** Waktu = volume ÷ debit lalu ubah ke jam.
+- **Langkah Penyelesaian:**
+  1. 2.400 ÷ 30 = 80 menit.
+  2. 80 menit = 1 jam 20 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -524,6 +637,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 18 boneka
 - C. 12 boneka
 - D. 16 boneka
+- **Konsep kunci:** Samakan satuan lalu bagi.
+- **Langkah Penyelesaian:**
+  1. 24 m = 2.400 cm; 1,5 m = 150 cm.
+  2. 2.400 ÷ 150 = 16 boneka.
 
 **Kunci: D**
 **Pembahasan:**
@@ -539,6 +656,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 160 kg
 - C. 185 kg
 - D. 200 kg
+- **Konsep kunci:** Jumlahkan seluruh beban.
+- **Langkah Penyelesaian:**
+  1. Beras = 3 × 25 = 75 kg.
+  2. Total = 75 + 95 + 65 = 235 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -554,6 +675,11 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. Rp258.000
 - C. Rp200.000
 - D. Rp254.000
+- **Konsep kunci:** Hitung harga daging dan ayam lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Daging: 1,2 × 110.000 = 132.000.
+  2. Ayam: 2 × 1,5 = 3 kg → 3 × 42.000 = 126.000.
+  3. Total = 132.000 + 126.000 = 258.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -569,6 +695,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 36 km
 - C. 24 km
 - D. 22 km
+- **Konsep kunci:** Ubah waktu ke jam lalu jarak = kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. 1 jam 20 menit = 1⅓ jam.
+  2. 18 × 1⅓ = 24 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -584,6 +714,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 240 liter
 - C. 120 liter
 - D. 300 liter
+- **Konsep kunci:** Hitung volume bak lalu kurangi air yang diambil.
+- **Langkah Penyelesaian:**
+  1. Volume = 80×60×50 = 240.000 cm³ = 240 L.
+  2. Sisa = 240 − 60 = 180 L.
 
 **Kunci: A**
 **Pembahasan:**
@@ -599,6 +733,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. 7 jam 45 menit
 - C. 8 jam 45 menit
 - D. 10 jam
+- **Konsep kunci:** Kalikan menit per hari dengan jumlah hari lalu ubah ke jam.
+- **Langkah Penyelesaian:**
+  1. 3 minggu = 21 hari.
+  2. 25 × 21 = 525 menit = 8,75 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -614,6 +752,10 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 - B. Rp36.000
 - C. Rp37.500
 - D. Rp50.000
+- **Konsep kunci:** Hitung jumlah plastik lalu kalikan harga per plastik.
+- **Langkah Penyelesaian:**
+  1. 60 ÷ 4 = 15 plastik.
+  2. 15 × 2.500 = 37.500.
 
 **Kunci: B**
 **Pembahasan:**
@@ -633,6 +775,11 @@ Maka **Kunci: C**.
 - B. Rp5.500
 - C. Rp4.500
 - D. Rp6.500
+- **Konsep kunci:** Hitung total belanja lalu kurangi dari uang bayar.
+- **Langkah Penyelesaian:**
+  1. Buku = 5 × 3.500 = 17.500; pulpen = 2 × 4.000 = 8.000.
+  2. Total = 25.500.
+  3. Kembalian = 30.000 − 25.500 = 4.500.
 
 **Kunci: C**
 **Pembahasan:**
@@ -648,6 +795,10 @@ Maka **Kunci: C**.
 - B. Rp7.500.000
 - C. Rp5.000.000
 - D. Rp6.000.000
+- **Konsep kunci:** Hitung hasil panen (kg) lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. 1.500 × 0,8 = 1.200 kg.
+  2. 1.200 × 5.000 = 6.000.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -663,6 +814,11 @@ Maka **Kunci: C**.
 - B. 500 mL
 - C. 600 mL
 - D. 300 mL
+- **Konsep kunci:** Hitung total air lalu kurangi yang diminum.
+- **Langkah Penyelesaian:**
+  1. Total = 6 × 600 = 3.600 mL.
+  2. 3,2 L = 3.200 mL.
+  3. Sisa = 3.600 − 3.200 = 400 mL.
 
 **Kunci: A**
 **Pembahasan:**
@@ -678,6 +834,10 @@ Maka **Kunci: C**.
 - B. 2.750 mL
 - C. 250 mL
 - D. 4.250 mL
+- **Konsep kunci:** Ubah ke mL lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 4,5 L = 4.500 mL.
+  2. Sisa = 4.500 − 1.750 = 2.750 mL.
 
 **Kunci: B**
 **Pembahasan:**
@@ -693,6 +853,10 @@ Maka **Kunci: C**.
 - B. 1,2 km
 - C. 1 km
 - D. 2 km
+- **Konsep kunci:** Hitung keliling lalu kalikan jumlah putaran dan ubah ke km.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (60+40) = 200 m.
+  2. 5 putaran = 1.000 m = 1 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -708,6 +872,10 @@ Maka **Kunci: C**.
 - B. 20 gerobak
 - C. 30 gerobak
 - D. 18 gerobak
+- **Konsep kunci:** Ubah semua ke kg lalu bagi dengan kapasitas gerobak (bulatkan ke atas).
+- **Langkah Penyelesaian:**
+  1. 1 ton = 1.000 kg; 5 kuintal = 500 kg; total = 1.500 kg.
+  2. 1.500 ÷ 75 = 20 gerobak.
 
 **Kunci: B**
 **Pembahasan:**
@@ -723,6 +891,10 @@ Maka **Kunci: C**.
 - B. 24 liter
 - C. 15 liter
 - D. 21 liter
+- **Konsep kunci:** Kalikan per hari dengan jumlah hari lalu ubah ke L.
+- **Langkah Penyelesaian:**
+  1. 4 minggu = 28 hari.
+  2. 750 × 28 = 21.000 mL = 21 L.
 
 **Kunci: D**
 **Pembahasan:**
@@ -738,6 +910,10 @@ Maka **Kunci: C**.
 - B. Rp32.500
 - C. Rp22.500
 - D. Rp14.000
+- **Konsep kunci:** Hitung harga kain lalu kurangi dari uang bayar.
+- **Langkah Penyelesaian:**
+  1. 2,5 × 35.000 = 87.500.
+  2. Kembalian = 100.000 − 87.500 = 12.500.
 
 **Kunci: A**
 **Pembahasan:**
@@ -753,6 +929,10 @@ Maka **Kunci: C**.
 - B. Rp15.000
 - C. Rp40.000
 - D. Rp20.000
+- **Konsep kunci:** Hitung kebutuhan BBM lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. 90 ÷ 45 = 2 liter.
+  2. 2 × 10.000 = 20.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -768,6 +948,10 @@ Maka **Kunci: C**.
 - B. Rp12.000
 - C. Rp10.000
 - D. Rp8.000
+- **Konsep kunci:** Cari harga per botol, ubah ke per liter (samakan satuan).
+- **Langkah Penyelesaian:**
+  1. Harga per botol = 14.000 ÷ 4 = 3.500.
+  2. 1 botol 350 mL → per L = 3.500 × 1000/350 = 10.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -783,6 +967,11 @@ Maka **Kunci: C**.
 - B. 7 pot
 - C. 8 pot
 - D. 6 pot
+- **Konsep kunci:** Cari pot maksimal dari tanah dan pupuk lalu ambil yang lebih kecil.
+- **Langkah Penyelesaian:**
+  1. Dari tanah: 18 ÷ 2 = 9 pot.
+  2. Dari pupuk: 1,5 kg = 1.500 g → 1.500 ÷ 200 = 7,5 → 7 pot.
+  3. Maksimal = 7 pot.
 
 **Kunci: B**
 **Pembahasan:**
@@ -798,6 +987,10 @@ Maka **Kunci: C**.
 - B. 1.440 liter
 - C. 144 liter
 - D. 1.728 liter
+- **Konsep kunci:** Hitung volume kubus lalu ubah m³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Volume = 1,2³ = 1,728 m³.
+  2. 1,728 m³ = 1.728 L.
 
 **Kunci: A**
 **Pembahasan:**
@@ -813,6 +1006,10 @@ Maka **Kunci: C**.
 - B. 3 kue
 - C. 6 kue
 - D. 2 kue
+- **Konsep kunci:** Hitung total kue lalu bagi jumlah anak.
+- **Langkah Penyelesaian:**
+  1. Total = 5 × 24 = 120 kue.
+  2. 120 ÷ 60 = 2 kue.
 
 **Kunci: D**
 **Pembahasan:**
@@ -828,6 +1025,10 @@ Maka **Kunci: C**.
 - B. 440 m
 - C. 440 m
 - D. 528 m
+- **Konsep kunci:** Hitung keliling lingkaran lalu kalikan 5 putaran.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × 22/7 × 14 = 88 m.
+  2. 5 × 88 = 440 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -843,6 +1044,11 @@ Maka **Kunci: C**.
 - B. 2,16 liter
 - C. 2,16 liter
 - D. 0,72 liter
+- **Konsep kunci:** Hitung volume per cetakan lalu kalikan 3 dan ubah ke L.
+- **Langkah Penyelesaian:**
+  1. Tiap cetakan = 24 × 30 = 720 mL.
+  2. 3 cetakan = 2.160 mL.
+  3. 2.160 mL = 2,16 L.
 
 **Kunci: B**
 **Pembahasan:**
@@ -858,6 +1064,10 @@ Maka **Kunci: C**.
 - B. 32 pohon
 - C. 31 pohon
 - D. 29 pohon
+- **Konsep kunci:** Bagi panjang dengan jarak lalu tambah 1 (pohon awal).
+- **Langkah Penyelesaian:**
+  1. 240 ÷ 8 = 30.
+  2. 30 + 1 = 31 pohon.
 
 **Kunci: C**
 **Pembahasan:**
@@ -875,6 +1085,12 @@ Maka **Kunci: C**.
 - B. Rp420.000
 - C. Rp480.000
 - D. Rp510.000
+- **Konsep kunci:** Hitung biaya beli, sisa kain, lalu hitung sisa uang bersih.
+- **Langkah Penyelesaian:**
+  1. Beli = 12 × 45.000 = 540.000.
+  2. Dipakai = 8 × 1,25 = 10 m; sisa = 2 m.
+  3. Hasil jual sisa = 2 × 30.000 = 60.000.
+  4. Bersih = 540.000 − 60.000 = 480.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -890,6 +1106,11 @@ Maka **Kunci: C**.
 - B. 180 km
 - C. 220 km
 - D. 240 km
+- **Konsep kunci:** Jumlahkan jarak tiap ruas perjalanan.
+- **Langkah Penyelesaian:**
+  1. Ruas 1 = 60 × 2,5 = 150 km.
+  2. Ruas 2 = 80 × 1,25 = 100 km.
+  3. Total = 150 + 100 = 250 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -905,6 +1126,10 @@ Maka **Kunci: C**.
 - B. 11 botol
 - C. 13 botol
 - D. 12 botol
+- **Konsep kunci:** Hitung volume sirup (mL) lalu bagi isi botol.
+- **Langkah Penyelesaian:**
+  1. 3,5 × 600 = 2.100 mL.
+  2. 2.100 ÷ 175 = 12 botol.
 
 **Kunci: D**
 **Pembahasan:**
@@ -920,6 +1145,11 @@ Maka **Kunci: C**.
 - B. 48 menit
 - C. 45 menit
 - D. 50 menit
+- **Konsep kunci:** Hitung waktu tiap tahap lalu jumlahkan (dalam menit).
+- **Langkah Penyelesaian:**
+  1. Bersepeda: 8 ÷ 16 = 0,5 jam = 30 menit.
+  2. Jalan: 1,5 ÷ 5 = 0,3 jam = 18 menit.
+  3. Total = 30 + 18 = 48 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -935,6 +1165,11 @@ Maka **Kunci: C**.
 - B. Rp450.000
 - C. Rp300.000
 - D. Rp350.000
+- **Konsep kunci:** Hitung kebutuhan cat (liter) lalu bulatkan ke atas ke kaleng.
+- **Langkah Penyelesaian:**
+  1. 48 ÷ 6 = 8 liter cat.
+  2. Tiap kaleng 2 L → 8 ÷ 2 = 4 kaleng.
+  3. Biaya = 4 × 75.000 = 300.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -950,6 +1185,10 @@ Maka **Kunci: C**.
 - B. 60 kg
 - C. 80 kg
 - D. 90 kg
+- **Konsep kunci:** Hitung total kue lalu kalikan cokelat per kue (ubah ke kg).
+- **Langkah Penyelesaian:**
+  1. Total kue = 240 × 12 = 2.880 kue.
+  2. Cokelat = 2.880 × 25 = 72.000 g = 72 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -965,6 +1204,10 @@ Maka **Kunci: C**.
 - B. 12 jam
 - C. 6 jam
 - D. 10 jam
+- **Konsep kunci:** Hitung volume kolam (L) lalu bagi debit.
+- **Langkah Penyelesaian:**
+  1. Volume = 5 × 4 × 1,2 = 24 m³ = 24.000 L.
+  2. 24.000 ÷ 40 = 600 menit = 10 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -980,6 +1223,11 @@ Maka **Kunci: C**.
 - B. Rp29.000
 - C. Rp30.500
 - D. Rp30.500
+- **Konsep kunci:** Hitung total belanja lalu kurangi dari uang bayar.
+- **Langkah Penyelesaian:**
+  1. Apel = 3 × 35.000 = 105.000; jeruk = 1,5 × 24.000 = 36.000; pisang = 2 × 15.000 = 30.000.
+  2. Total = 171.000.
+  3. Kembalian = 200.000 − 171.000 = 29.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -995,6 +1243,11 @@ Maka **Kunci: C**.
 - B. Rp30.000.000
 - C. Rp36.000.000
 - D. Rp40.000.000
+- **Konsep kunci:** Ubah ha ke m² lalu hitung hasil dan pendapatan.
+- **Langkah Penyelesaian:**
+  1. 1,5 ha = 15.000 m².
+  2. Hasil = 15.000 × 0,4 = 6.000 kg.
+  3. Pendapatan = 6.000 × 6.000 = 36.000.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1010,6 +1263,11 @@ Maka **Kunci: C**.
 - B. 15 liter
 - C. 17,5 liter
 - D. 20 liter
+- **Konsep kunci:** Hitung kebutuhan teh dan jus lalu jumlahkan (ubah ke L).
+- **Langkah Penyelesaian:**
+  1. Teh = 50 × 200 = 10.000 mL = 10 L.
+  2. Jus = 50 × 150 = 7.500 mL = 7,5 L.
+  3. Total = 17,5 L.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1025,6 +1283,10 @@ Maka **Kunci: C**.
 - B. 7 km/jam
 - C. 10 km/jam
 - D. 8,4 km/jam
+- **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu (ubah ke jam).
+- **Langkah Penyelesaian:**
+  1. Total waktu = 12 + 18 = 30 menit = 0,5 jam.
+  2. 4,2 ÷ 0,5 = 8,4 km/jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1040,6 +1302,11 @@ Maka **Kunci: C**.
 - B. 2 perjalanan
 - C. 1 perjalanan
 - D. 2 perjalanan
+- **Konsep kunci:** Hitung total beras lalu bagi dengan muatan truk (kurangi berat Pak Joko), bulatkan ke atas.
+- **Langkah Penyelesaian:**
+  1. Beras = 12 × 25 = 300 kg.
+  2. Muat efektif = 800 − 70 = 730 kg.
+  3. 300 ÷ 730 → 1 perjalanan.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1057,6 +1324,10 @@ Maka **Kunci: C**.
 - B. 280 g
 - C. 300 g
 - D. 320 g
+- **Konsep kunci:** Jumlahkan manisan lalu bagi ke toples (ubah ke g).
+- **Langkah Penyelesaian:**
+  1. Total = 1,8 + 0,6 = 2,4 kg = 2.400 g.
+  2. 2.400 ÷ 8 = 300 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1072,6 +1343,11 @@ Maka **Kunci: C**.
 - B. 628 mL
 - C. 157 mL
 - D. 200 mL
+- **Konsep kunci:** Hitung volume minyak per kerupuk (πr²×tebal×jumlah) lalu ubah mL.
+- **Langkah Penyelesaian:**
+  1. Luas kerupuk = 3,14 × 2² = 12,56 cm².
+  2. Volume per kerupuk = 12,56 × 0,5 = 6,28 cm³ = 6,28 mL.
+  3. 50 × 6,28 = 314 mL.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1087,6 +1363,10 @@ Maka **Kunci: C**.
 - B. 9 m³
 - C. 6 m³
 - D. 4,5 m³
+- **Konsep kunci:** Hitung volume setapak = panjang × lebar × tebal (samakan ke m).
+- **Langkah Penyelesaian:**
+  1. 5 cm = 0,05 m.
+  2. Volume = 60 × 1,5 × 0,05 = 4,5 m³.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1102,6 +1382,10 @@ Maka **Kunci: C**.
 - B. 11.15
 - C. 12.00
 - D. 11.30
+- **Konsep kunci:** Hitung waktu tempuh lalu tambahkan pada jam berangkat.
+- **Langkah Penyelesaian:**
+  1. 270 ÷ 90 = 3 jam.
+  2. 08.15 + 3 jam = 11.15.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1117,6 +1401,10 @@ Maka **Kunci: C**.
 - B. 12 kg
 - C. 8,8 kg
 - D. 10 kg
+- **Konsep kunci:** Hitung terigu untuk tiap jenis lalu jumlahkan (ubah ke kg).
+- **Langkah Penyelesaian:**
+  1. Kue A = 50 × 80 = 4.000 g; kue B = 80 × 60 = 4.800 g.
+  2. Total = 8.800 g = 8,8 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1132,6 +1420,10 @@ Maka **Kunci: C**.
 - B. 344 liter
 - C. 304 liter
 - D. 280 liter
+- **Konsep kunci:** Hitung total waktu menyiram lalu kalikan debit.
+- **Langkah Penyelesaian:**
+  1. Total waktu = 25 + 18 = 43 menit.
+  2. 8 × 43 = 344 liter.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1147,6 +1439,10 @@ Maka **Kunci: C**.
 - B. 6.000 mL
 - C. 5.000 mL
 - D. 4.500 mL
+- **Konsep kunci:** Hitung susu dari kedelai (perbandingan resmi 1 kg:6 L).
+- **Langkah Penyelesaian:**
+  1. 750 g = 0,75 kg → 0,75 × 6 = 4,5 L.
+  2. 4,5 L = 4.500 mL.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1162,6 +1458,10 @@ Maka **Kunci: C**.
 - B. 10 m
 - C. 12 m
 - D. 6 m
+- **Konsep kunci:** Hitung bambu per layang lalu kalikan 5 (ubah ke m).
+- **Langkah Penyelesaian:**
+  1. Per layang = 2×60 + 80 = 200 cm = 2 m.
+  2. 5 × 2 = 10 m.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1177,6 +1477,10 @@ Maka **Kunci: C**.
 - B. 3 jam 20 menit
 - C. 4 jam
 - D. 3 jam 30 menit
+- **Konsep kunci:** Hitung jumlah angkutan lalu kalikan waktu tiap angkut (ubah ke jam).
+- **Langkah Penyelesaian:**
+  1. 1.500 ÷ 25 = 60 angkutan.
+  2. 60 × 4 = 240 menit = 4 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1192,6 +1496,11 @@ Maka **Kunci: C**.
 - B. Rp46.000
 - C. Rp44.000
 - D. Rp48.000
+- **Konsep kunci:** Hitung total belanja lalu kurangi dari uang bayar.
+- **Langkah Penyelesaian:**
+  1. Apel = 1,2 × 35.000 = 42.000; anggur = 0,4 × 80.000 = 32.000; pisang = 2 × 15.000 = 30.000.
+  2. Total = 104.000.
+  3. Kembalian = 150.000 − 104.000 = 46.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1207,6 +1516,10 @@ Maka **Kunci: C**.
 - B. 16 hari
 - C. 17 hari
 - D. 20 hari
+- **Konsep kunci:** Hitung total sirup (mL) lalu bagi pemakaian harian.
+- **Langkah Penyelesaian:**
+  1. Total = 5 × 1,2 = 6 L = 6.000 mL.
+  2. 6.000 ÷ 350 = 17,14 → 18 hari.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1222,6 +1535,11 @@ Maka **Kunci: C**.
 - B. 165 km
 - C. 180 km
 - D. 165 km
+- **Konsep kunci:** Hitung waktu bergerak (buang istirahat) lalu kalikan kecepatan.
+- **Langkah Penyelesaian:**
+  1. 16.45 − 13.30 = 3 jam 15 menit = 3,25 jam.
+  2. Waktu bergerak = 3,25 − 0,5 = 2,75 jam.
+  3. 60 × 2,75 = 165 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1237,6 +1555,10 @@ Maka **Kunci: C**.
 - B. Rp4.400.000
 - C. Rp3.300.000
 - D. Rp5.500.000
+- **Konsep kunci:** Hitung keliling lingkaran lalu kalikan biaya per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 22/7 × 28 = 88 m.
+  2. 88 × 50.000 = 4.400.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1252,6 +1574,10 @@ Maka **Kunci: C**.
 - B. Rp48.000
 - C. Rp54.000
 - D. Rp60.000
+- **Konsep kunci:** Hitung total volume (L) lalu kalikan harga per liter.
+- **Langkah Penyelesaian:**
+  1. Total = 3 × 750 = 2.250 mL = 2,25 L.
+  2. 2,25 × 24.000 = 54.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1267,6 +1593,11 @@ Maka **Kunci: C**.
 - B. Rp640.000
 - C. Rp840.000
 - D. Rp700.000
+- **Konsep kunci:** Hitung modal, lalu keuntungan = hasil − modal.
+- **Langkah Penyelesaian:**
+  1. Pupuk = 4 × 175.000 = 700.000; benih = 2 × 80.000 = 160.000.
+  2. Modal = 860.000.
+  3. Untung = 1.500.000 − 860.000 = 640.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1282,6 +1613,11 @@ Maka **Kunci: C**.
 - B. Rp1.200.000
 - C. Rp800.000
 - D. Rp240.000
+- **Konsep kunci:** Hitung luas total gorden lalu tentukan gulungan minimum.
+- **Langkah Penyelesaian:**
+  1. Luas per jendela = 2,5 × 1,8 = 4,5 m²; 4 jendela = 18 m².
+  2. 1 gulung 50 m × 1,8 m = 90 m² cukup.
+  3. Biaya = 1 × 1.200.000 = 1.200.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1297,6 +1633,11 @@ Maka **Kunci: C**.
 - B. 15 km/jam
 - C. 18 km/jam
 - D. 13,5 km/jam
+- **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu termasuk istirahat.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 18 + 9 = 27 km.
+  2. Total waktu = 1 jam 12 m + 18 m + 30 m = 2 jam.
+  3. 27 ÷ 2 = 13,5 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1312,6 +1653,12 @@ Maka **Kunci: C**.
 - B. 53,33 menit
 - C. 60 menit
 - D. 80 menit
+- **Konsep kunci:** Hitung total volume terisi dan waktu tiap tahap.
+- **Langkah Penyelesaian:**
+  1. Volume bak = 1,5×1×0,8 = 1,2 m³ = 1.200 L.
+  2. Setengah = 600 L → 600 ÷ 15 = 40 menit.
+  3. Isi ulang dari 400 L hingga penuh = 800 L → 800 ÷ 15.
+  4. Total menit = 53⅓ + 40 = 93⅓ menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1327,6 +1674,12 @@ Maka **Kunci: C**.
 - B. Rp7.500.000
 - C. Rp6.000.000
 - D. Rp4.500.000
+- **Konsep kunci:** Hitung luas trapesium (m²), bagi 4 petani, lalu konversi dan kali biaya sewa per are.
+- **Langkah Penyelesaian:**
+  1. Luas = (80+120)×60÷2 = 6.000 m².
+  2. Per petani = 1.500 m² = 15 are.
+  3. Sewa per petani = 15 × 150.000 = 2.250.000.
+  4. Total = 2.250.000 × 4 = 9.000.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1342,6 +1695,12 @@ Maka **Kunci: C**.
 - B. Rp68.000
 - C. Rp80.000
 - D. Rp288.000
+- **Konsep kunci:** Hitung hasil keripik (g), jumlah kemasan, pendapatan, lalu untung.
+- **Langkah Penyelesaian:**
+  1. Hasil = 5 × 800 = 4.000 g.
+  2. Kemasan = 4.000 ÷ 250 = 16.
+  3. Pendapatan = 16 × 18.000 = 288.000.
+  4. Untung = 288.000 − 220.000 = 68.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1357,6 +1716,10 @@ Maka **Kunci: C**.
 - B. 12 menit
 - C. 15 menit
 - D. 20 menit
+- **Konsep kunci:** Hitung jarak head start Andi lalu bagi selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Head start = 12 × 0,5 = 6 km.
+  2. Susul = 6 ÷ (36−12) = 0,25 jam = 15 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1372,6 +1735,12 @@ Maka **Kunci: C**.
 - B. Gula
 - C. Cokelat
 - D. Semua habis sama
+- **Konsep kunci:** Cek ketersediaan tiap bahan untuk 12 porsi lalu cek mana kurang.
+- **Langkah Penyelesaian:**
+  1. Susu butuh 12×600 = 7.200 mL = 7,2 L; punya 6 L → kurang.
+  2. Gula butuh 12×200 = 2.400 g; punya 2 kg → kurang.
+  3. Cokelat butuh 12×100 = 1.200 g; punya 1 kg → kurang.
+  4. Semua kurang; tafsir soal memilih yang paling kekurangan per proporsi.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1387,6 +1756,12 @@ Maka **Kunci: C**.
 - B. Rp152.500.000
 - C. Rp150.000.000
 - D. Rp155.000.000
+- **Konsep kunci:** Hitung luas segitiga, nilai tanah, pajak 2%, lalu total.
+- **Langkah Penyelesaian:**
+  1. Luas = 40×30÷2 = 600 m².
+  2. Nilai = 600 × 250.000 = 150.000.000.
+  3. Pajak = 2% × 150.000.000 = 3.000.000.
+  4. Total = 150.000.000 + 3.000.000 = 153.000.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1402,6 +1777,11 @@ Maka **Kunci: C**.
 - B. 24 km/jam
 - C. 26,67 km/jam
 - D. 30 km/jam
+- **Konsep kunci:** Hitung total waktu dan jarak lalu kecepatan dalam km/jam.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 4 × 100 = 400 m.
+  2. Total waktu = 15+14+13+12 = 54 detik.
+  3. Kecepatan = 400/54 m/s × 3.6 ≈ 26,7 km/jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1419,6 +1799,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. Rp800.000
 - C. Rp900.000
 - D. Rp700.000
+- **Konsep kunci:** Hitung pendapatan dan biaya mingguan lalu selisih.
+- **Langkah Penyelesaian:**
+  1. Pendapatan = 6 × 40 × 5.000 = 1.200.000.
+  2. Biaya operasional = 6 × 50.000 = 300.000.
+  3. Untung = 1.200.000 − 300.000 − 500.000 = 400.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1434,6 +1819,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 3 jam
 - C. 3,75 jam
 - D. 4 jam
+- **Konsep kunci:** Hitung volume kolam (L) lalu bagi total debit.
+- **Langkah Penyelesaian:**
+  1. Volume = 4×3×1,5 = 18 m³ = 18.000 L.
+  2. Debit total = 25 + 35 = 60 L/menit.
+  3. 18.000 ÷ 60 = 300 menit = 5 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1449,6 +1839,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 290 g
 - C. 250 g
 - D. 300 g
+- **Konsep kunci:** Hitung massa air dan alkohol lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Air = 250 × 1 = 250 g.
+  2. Alkohol = 50 × 0,8 = 40 g.
+  3. Total = 290 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1464,6 +1859,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. Rp95.000
 - C. Rp90.000
 - D. Rp80.000
+- **Konsep kunci:** Hitung untung per gelas lalu total keuntungan.
+- **Langkah Penyelesaian:**
+  1. Jeruk untung = 6.000 − 3.500 = 2.500; 20 × 2.500 = 50.000.
+  2. Apel untung = 7.000 − 4.000 = 3.000; 15 × 3.000 = 45.000.
+  3. Total = 95.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1479,6 +1879,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 6 pipa B
 - C. 4 pipa A
 - D. 2 pipa A + 3 pipa B
+- **Konsep kunci:** Bandingkan harga per meter tiap pipa lalu pilih termurah untuk 24 m.
+- **Langkah Penyelesaian:**
+  1. Pipa A: 80.000 ÷ 6 = 13.333/m; Pipa B: 50.000 ÷ 4 = 12.500/m.
+  2. Pipa B lebih murah → kombinasi 6× pipa B = 24 m.
+  3. Biaya = 6 × 50.000 = 300.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1496,6 +1901,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 112,5 g
 - C. 120 g
 - D. 90 g
+- **Konsep kunci:** Hitung daging masak (susut 25%) lalu bagi 16 orang (ubah ke g).
+- **Langkah Penyelesaian:**
+  1. Daging masak = 2,4 × 0,75 = 1,8 kg.
+  2. 1,8 kg = 1.800 g.
+  3. 1.800 ÷ 16 = 112,5 g.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1511,6 +1921,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 22,5 km/jam
 - C. 27 km/jam
 - D. 30 km/jam
+- **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu.
+- **Langkah Penyelesaian:**
+  1. Total jarak = 6 + 24 + 60 = 90 km.
+  2. Tahap 1 = 1,5 jam; Tahap 2 = 24÷16 = 1,5 jam; Tahap 3 = 1 jam.
+  3. Total waktu = 4 jam → 90 ÷ 4 = 22,5 km/jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1525,6 +1940,10 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 7.392 liter
 - C. 6.000 liter
 - D. 5.500 liter
+- **Konsep kunci:** Hitung volume silinder lalu ubah ke liter.
+- **Langkah Penyelesaian:**
+  1. r = 1,4 m; Volume = 22/7 × 1,4² × 1,2 = 7,392 m³.
+  2. 7,392 m³ = 7.392 L.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1540,6 +1959,10 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 1,83 L
 - C. 1,75 L
 - D. 2 L
+- **Konsep kunci:** Jumlahkan semua volume (mL) lalu ubah ke liter.
+- **Langkah Penyelesaian:**
+  1. 250+350+200+330+500+200 = 1.830 mL.
+  2. 1.830 mL = 1,83 L.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1556,6 +1979,12 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 3 trip
 - C. 5 trip
 - D. 4 trip
+- **Konsep kunci:** Gunakan truk A maksimal lalu sisanya truk B dan hitung total trip.
+- **Langkah Penyelesaian:**
+  1. 3 ton = 3.000 kg.
+  2. Truk A: 3 trip = 2.400 kg; sisa 600 kg.
+  3. Truk B: 1 trip = 1.000 kg.
+  4. Total = 3 + 1 = 4 trip.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1571,6 +2000,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. Rp12.000
 - C. Rp11.500
 - D. Rp12.500
+- **Konsep kunci:** Hitung total biaya campuran lalu bagi total berat.
+- **Langkah Penyelesaian:**
+  1. Biaya = 1×12.000 + 0,5×15.000 + 1,5×10.000 = 34.500.
+  2. Total berat = 1 + 0,5 + 1,5 = 3 kg.
+  3. Rata-rata = 34.500 ÷ 3 = 11.500.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1586,6 +2020,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. 21,5 menit
 - C. 24 menit
 - D. 30 menit
+- **Konsep kunci:** Hitung keliling, total jarak 5 putaran, lalu waktu (ubah ke jam/menit).
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (250+180) = 860 m.
+  2. 5 putaran = 4.300 m = 4,3 km.
+  3. Waktu = 4,3 ÷ 12 = 0,358 jam ≈ 21,5 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1601,6 +2040,11 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. Rp75.000
 - C. Rp81.000
 - D. Rp90.000
+- **Konsep kunci:** Hitung luas kanvas (m²), kebutuhan cat (mL), lalu biaya.
+- **Langkah Penyelesaian:**
+  1. Luas = 0,6 × 0,4 = 0,24 m².
+  2. Cat = 0,24 ÷ 0,1 × 75 = 180 mL.
+  3. Biaya = 180 ÷ 100 × 45.000 = 81.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1616,6 +2060,12 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 - B. Rp3.000.000
 - C. Rp3.158.000
 - D. Rp2.658.000
+- **Konsep kunci:** Hitung luas dua lahan, hasil panen, pendapatan, lalu untung.
+- **Langkah Penyelesaian:**
+  1. Lahan A = 30² = 900 m²; Lahan B = 22/7×14² = 616 m².
+  2. Total = 1.516 m²; hasil = 1.516 × 0,5 = 758 kg.
+  3. Pendapatan = 758 × 7.000 = 5.306.000.
+  4. Untung = 5.306.000 − 2.000.000 = 3.306.000.
 
 **Kunci: D**
 **Pembahasan:**

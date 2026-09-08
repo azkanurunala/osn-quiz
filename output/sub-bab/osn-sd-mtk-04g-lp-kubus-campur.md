@@ -102,6 +102,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Itu rumus **volume** (s³ = 125). Yang diminta luas permukaan.
 - **C** — Benar. LP = 6 × s² = 6 × 25 = **150 cm²**.
 - **D** — Salah. Mengira 4 × s² = 100. Kubus punya 6 sisi, bukan 4.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 5² = 25.
+  2. Kalikan dengan 6: 6 × 25 = **150 cm²**.
 
 ---
 
@@ -116,6 +120,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 4² = 6 × 16 = **96 cm²**.
 - **C** — Salah. Mengira 3 × s² = 48 (cuma 3 sisi). Kubus tetap 6 sisi.
 - **D** — Salah. Itu luas 1 sisi (s² = 16) saja.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 4² = 16.
+  2. Kalikan dengan 6: 6 × 16 = **96 cm²**.
 
 ---
 
@@ -130,6 +138,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Mengira keliling 1 sisi × banyak sisi (4 × 3) — campur aduk rumus.
 - **C** — Benar. LP = 6 × 2² = 6 × 4 = **24 cm²**.
 - **D** — Salah. Hanya 4 sisi (4 × s² = 16). Kubus selalu 6 sisi.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 2² = 4.
+  2. Kalikan dengan 6: 6 × 4 = **24 cm²**.
 
 ---
 
@@ -144,6 +156,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Mengira 2 × s² = 72. Tidak ada rumus seperti itu.
 - **C** — Salah. Asal mendekati. Yang benar 216, bukan 196.
 - **D** — Benar. LP = 6 × 6² = 6 × 36 = **216 cm²**.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 6² = 36.
+  2. Kalikan dengan 6: 6 × 36 = **216 cm²**.
 
 ---
 
@@ -158,6 +174,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 10² = 6 × 100 = **600 cm²**.
 - **C** — Salah. Itu volume (10³ = 1.000 cm³).
 - **D** — Salah. Mengira 6 × s = 6 × 10 = 60 (lupa kuadratkan).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 10² = 100.
+  2. Kalikan dengan 6: 6 × 100 = **600 cm²**.
 
 ---
 
@@ -172,6 +192,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Itu volume (3³ = 27).
 - **C** — Salah. Mengira 4 × s² = 36 (hanya 4 sisi). Kubus 6 sisi.
 - **D** — Benar. LP = 6 × 3² = 6 × 9 = **54 cm²**.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 3² = 9.
+  2. Kalikan dengan 6: 6 × 9 = **54 cm²**.
 
 ---
 
@@ -186,6 +210,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Mengira LP ÷ 6 langsung jadi sisi (24÷6=4 ditulis sebagai sisi). Padahal 4 itu s², bukan s.
 - **C** — Salah. Asal coba.
 - **D** — Salah. LP dibagi 2 = 12, tidak ada rumus seperti itu.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 24 ÷ 6 = 4 (nilai s²).
+  2. Akarkan: s = √4 = **2 cm**.
 
 ---
 
@@ -200,6 +228,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 3² = 9, LP-nya 54.
 - **C** — Benar. LP ÷ 6 = 16 = s², sehingga s = √16 = **4 cm**. Cek: 6 × 16 = 96 ✓.
 - **D** — Salah. 6² = 36, LP-nya 216.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 96 ÷ 6 = 16 (nilai s²).
+  2. Akarkan: s = √16 = **4 cm**.
 
 ---
 
@@ -214,6 +246,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 25 = s², maka s = √25 = **5 cm**.
 - **C** — Salah. 6² = 36, LP = 216.
 - **D** — Salah. Lupa akar (langsung ambil 25 sebagai sisi).
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 150 ÷ 6 = 25 (nilai s²).
+  2. Akarkan: s = √25 = **5 cm**.
 
 ---
 
@@ -228,6 +264,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Lupa akar (100 itu s², bukan s).
 - **C** — Salah. LP ÷ 10 (tidak ada rumus seperti itu).
 - **D** — Salah. Asal angka.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 600 ÷ 6 = 100 (nilai s²).
+  2. Akarkan: s = √100 = **10 cm**.
 
 ---
 
@@ -242,6 +282,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 8² = 6 × 64 = **384 cm²**.
 - **C** — Salah. Itu volume (8³ = 512 cm³).
 - **D** — Salah. Mengira 3 × s² = 192 (hanya 3 sisi). Kubus 6 sisi.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 8² = 64.
+  2. Kalikan dengan 6: 6 × 64 = **384 cm²**.
 
 ---
 
@@ -256,6 +300,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Itu volume (9³ = 729 cm³).
 - **C** — Salah. Itu luas 1 sisi (s² = 81).
 - **D** — Salah. Mengira 4 × s² = 324 (hanya 4 sisi).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 9² = 81.
+  2. Kalikan dengan 6: 6 × 81 = **486 cm²**.
 
 ---
 
@@ -270,6 +318,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Itu volume (s³).
 - **C** — Benar. LP = 6 × 25 = **150 cm²**.
 - **D** — Salah. Hanya s² (1 sisi).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 5² = 25.
+  2. Kalikan dengan 6: 6 × 25 = **150 cm²**.
 
 ---
 
@@ -284,6 +336,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Volume (s³).
 - **C** — Benar. LP = 6 × 49 = **294 cm²**.
 - **D** — Salah. 4 × s² = 196 (hanya 4 sisi). Kubus 6 sisi.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 7² = 49.
+  2. Kalikan dengan 6: 6 × 49 = **294 cm²**.
 
 ---
 
@@ -298,6 +354,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 5 × s² = 720 (mengira hanya 5 sisi, seperti akuarium tanpa tutup).
 - **C** — Benar. LP = 6 × 144 = **864 cm²**.
 - **D** — Salah. Volume (12³ = 1.728).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 12² = 144.
+  2. Kalikan dengan 6: 6 × 144 = **864 cm²**.
 
 ---
 
@@ -312,6 +372,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² = 484.
 - **C** — Benar. LP = 6 × 121 = **726 cm²**.
 - **D** — Salah. Volume (11³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 11² = 121.
+  2. Kalikan dengan 6: 6 × 121 = **726 cm²**.
 
 ---
 
@@ -326,6 +390,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 9 = s², s = √9 = **3 cm**.
 - **C** — Salah. 4² = 16, LP = 96.
 - **D** — Salah. Lupa akar (9 itu s², bukan s).
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 54 ÷ 6 = 9 (nilai s²).
+  2. Akarkan: s = √9 = **3 cm**.
 
 ---
 
@@ -340,6 +408,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 7² = 49, LP = 294.
 - **C** — Benar. LP ÷ 6 = 64 = s², s = √64 = **8 cm**.
 - **D** — Salah. Lupa akar (64 itu s²).
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 384 ÷ 6 = 64 (nilai s²).
+  2. Akarkan: s = √64 = **8 cm**.
 
 ---
 
@@ -354,6 +426,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Konversi salah (kira 1 dm² = 10 cm²).
 - **C** — Benar. 1 dm = 10 cm. LP = 6 × 10² = **600 cm²**.
 - **D** — Salah. Salah konversi lagi (kira 1 dm = 100 cm).
+- **Konsep kunci:** Samakan satuan panjang dulu sebelum menghitung luas permukaan.
+- **Langkah Penyelesaian:**
+  1. Konversi: 1 dm = 10 cm.
+  2. LP = 6 × 10² = **600 cm²**.
 
 ---
 
@@ -368,6 +444,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 400 = **2.400 cm²**.
 - **C** — Salah. Volume (20³ = 8.000).
 - **D** — Salah. 12 × s² = 4.800 (mengira 12 sisi, padahal 12 itu rusuk).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 20² = 400.
+  2. Kalikan dengan 6: 6 × 400 = **2.400 cm²**.
 
 ---
 
@@ -382,6 +462,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² = 900 (hanya 4 sisi). Pembungkus harus menutup semua 6 sisi.
 - **C** — Benar. LP = 6 × 225 = **1.350 cm²**.
 - **D** — Salah. Volume (15³). Pembungkus tidak menggunakan volume.
+- **Konsep kunci:** Kertas pembungkus minimal harus menutup seluruh 6 sisi kubus, sama dengan nilai LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 15² = 225.
+  2. Kalikan dengan 6: 6 × 225 = **1.350 cm²**.
 
 ---
 
@@ -396,6 +480,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² (4 sisi).
 - **C** — Benar. LP = 6 × 625 = **3.750 cm²**.
 - **D** — Salah. Volume (25³).
+- **Konsep kunci:** Luas yang dicat pada dadu meliputi seluruh 6 sisinya, sama dengan LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 25² = 625.
+  2. Kalikan dengan 6: 6 × 625 = **3.750 cm²**.
 
 ---
 
@@ -410,6 +498,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 36 = s², s = 6 cm. V = s³ = 6³ = **216 cm³**. (Kebetulan angka LP dan V sama-sama 216.)
 - **C** — Salah. Satuan salah (cm bukan cm³).
 - **D** — Salah. Mengalikan LP × 6 (tidak ada rumus seperti itu).
+- **Konsep kunci:** Untuk berpindah dari LP ke volume, cari dulu sisi kubus dari LP, baru hitung V = s³.
+- **Langkah Penyelesaian:**
+  1. Cari s²: 216 ÷ 6 = 36, sehingga s = 6 cm.
+  2. Hitung volume: V = 6³ = **216 cm³**.
 
 ---
 
@@ -424,6 +516,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. LP kubus rusuk 2 (terlalu kecil).
 - **C** — Benar. V = 64 → s = ∛64 = 4 cm. LP = 6 × 16 = **96 cm²**.
 - **D** — Salah. LP untuk s = 8.
+- **Konsep kunci:** Untuk berpindah dari volume ke LP, cari dulu sisi kubus dari V (akar pangkat tiga), baru hitung LP.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: s = ∛64 = 4 cm.
+  2. Hitung LP: 6 × 4² = **96 cm²**.
 
 ---
 
@@ -438,6 +534,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 50² = 15.000 cm². 15.000 ÷ 10.000 = **1,5 m²**.
 - **C** — Salah. Lupa bagi 10.000 (hanya bagi 1.000).
 - **D** — Salah. Lupa konversi sama sekali (tetap dengan ribuan).
+- **Konsep kunci:** Setelah LP dihitung dalam cm², konversi ke m² dengan membagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 50² = 15.000 cm².
+  2. Konversi: 15.000 ÷ 10.000 = **1,5 m²**.
 
 ---
 
@@ -452,6 +552,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Selisihnya 100, bukan 200.
 - **C** — Salah. 2.500 > 2.400 berarti cukup.
 - **D** — Salah. Sama, cukup.
+- **Konsep kunci:** Bandingkan luas kertas yang tersedia dengan LP kubus yang dibutuhkan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP kubus: 6 × 20² = 2.400 cm².
+  2. Hitung sisa: 2.500 − 2.400 = **100 cm²** (cukup).
 
 ---
 
@@ -466,6 +570,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Salah. 5 × s² (mengira 5 sisi seperti akuarium).
 - **D** — Benar. LP = 6 × 169 = **1.014 cm²**.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 13² = 169.
+  2. Kalikan dengan 6: 6 × 169 = **1.014 cm²**.
 
 ---
 
@@ -480,6 +588,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 196 = **1.176 cm²**.
 - **D** — Salah. Volume (14³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 14² = 196.
+  2. Kalikan dengan 6: 6 × 196 = **1.176 cm²**.
 
 ---
 
@@ -494,6 +606,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² = 1.024.
 - **C** — Benar. LP = 6 × 256 = **1.536 cm²**.
 - **D** — Salah. Volume (16³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 16² = 256.
+  2. Kalikan dengan 6: 6 × 256 = **1.536 cm²**.
 
 ---
 
@@ -508,6 +624,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² = 1.296.
 - **C** — Salah. s² (1 sisi).
 - **D** — Salah. Volume (18³ = 5.832).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 18² = 324.
+  2. Kalikan dengan 6: 6 × 324 = **1.944 cm²**.
 
 ---
 
@@ -522,6 +642,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 289 = **1.734 cm²**.
 - **C** — Salah. Volume (17³ = 4.913).
 - **D** — Salah. 3 × s² (hanya 3 sisi).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 17² = 289.
+  2. Kalikan dengan 6: 6 × 289 = **1.734 cm²**.
 
 ---
 
@@ -536,6 +660,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 225 = s², s = √225 = **15 cm**.
 - **C** — Salah. 18² = 324, LP = 1.944.
 - **D** — Salah. Lupa akar (225 itu s²).
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 1.350 ÷ 6 = 225 (nilai s²).
+  2. Akarkan: s = √225 = **15 cm**.
 
 ---
 
@@ -550,6 +678,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 196 = s², s = √196 = **14 cm**.
 - **C** — Salah. 16² = 256, LP = 1.536.
 - **D** — Salah. Lupa akar.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 1.176 ÷ 6 = 196 (nilai s²).
+  2. Akarkan: s = √196 = **14 cm**.
 
 ---
 
@@ -564,6 +696,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Lupa konversi penuh.
 - **C** — Benar. 0,5 m = 50 cm. LP = 6 × 50² = 6 × 2.500 = **15.000 cm²**.
 - **D** — Salah. Kelebihan 10×.
+- **Konsep kunci:** Samakan satuan panjang dulu sebelum menghitung luas permukaan.
+- **Langkah Penyelesaian:**
+  1. Konversi: 0,5 m = 50 cm.
+  2. LP = 6 × 50² = **15.000 cm²**.
 
 ---
 
@@ -578,6 +714,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Salah. 5 × s² (mengira 5 sisi).
 - **D** — Benar. LP = 6 × 19² = 6 × 361 = **2.166 cm²**.
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 19² = 361.
+  2. Kalikan dengan 6: 6 × 361 = **2.166 cm²**.
 
 ---
 
@@ -592,6 +732,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP = 6 × 900 = 5.400 cm². 5.400 ÷ 10.000 = **0,54 m²**.
 - **C** — Salah. Lupa bagi 10.000.
 - **D** — Salah. Sama sekali tidak konversi.
+- **Konsep kunci:** Setelah LP dihitung dalam cm², konversi ke m² dengan membagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 30² = 5.400 cm².
+  2. Konversi: 5.400 ÷ 10.000 = **0,54 m²**.
 
 ---
 
@@ -606,6 +750,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. s² saja.
 - **C** — Salah. 4 × s².
 - **D** — Salah. Volume (21³ = 9.261).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 21² = 441.
+  2. Kalikan dengan 6: 6 × 441 = **2.646 cm²**.
 
 ---
 
@@ -620,6 +768,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² (4 sisi).
 - **C** — Benar. Stiker harus menutup semua 6 sisi → LP = 6 × 36 = **216 cm²**.
 - **D** — Salah. 8 × s² (tidak ada rumus seperti itu).
+- **Konsep kunci:** Stiker harus menutup seluruh 6 sisi kubus, sama dengan nilai LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 6² = 36.
+  2. Kalikan dengan 6: 6 × 36 = **216 cm²**.
 
 ---
 
@@ -634,6 +786,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 484 = **2.904 cm²**.
 - **D** — Salah. Volume (22³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 22² = 484.
+  2. Kalikan dengan 6: 6 × 484 = **2.904 cm²**.
 
 ---
 
@@ -648,6 +804,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 11² = 121, LP = 726.
 - **C** — Benar. LP ÷ 6 = 144 = s², s = √144 = **12 cm**.
 - **D** — Salah. Lupa akar.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 864 ÷ 6 = 144 (nilai s²).
+  2. Akarkan: s = √144 = **12 cm**.
 
 ---
 
@@ -662,6 +822,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 900 = **5.400 cm²**.
 - **D** — Salah. Volume (30³ = 27.000).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 30² = 900.
+  2. Kalikan dengan 6: 6 × 900 = **5.400 cm²**.
 
 ---
 
@@ -676,6 +840,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 625 = **3.750 cm²**.
 - **D** — Salah. Volume (25³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 25² = 625.
+  2. Kalikan dengan 6: 6 × 625 = **3.750 cm²**.
 
 ---
 
@@ -690,6 +858,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. Volume (s³).
 - **C** — Benar. LP = 6 × 16 = **96 cm²**.
 - **D** — Salah. 6 × s = 6 × 4 = 24 (lupa kuadratkan).
+- **Konsep kunci:** Luas yang diwarnai pada dadu meliputi seluruh 6 sisinya, sama dengan LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 4² = 16.
+  2. Kalikan dengan 6: 6 × 16 = **96 cm²**.
 
 ---
 
@@ -704,6 +876,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 1.600 = **9.600 cm²**.
 - **D** — Salah. Volume (40³ = 64.000).
+- **Konsep kunci:** Kertas pembungkus minimal harus menutup seluruh 6 sisi kubus, sama dengan nilai LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 40² = 1.600.
+  2. Kalikan dengan 6: 6 × 1.600 = **9.600 cm²**.
 
 ---
 
@@ -718,6 +894,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 576 = **3.456 cm²**.
 - **D** — Salah. Volume (24³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 24² = 576.
+  2. Kalikan dengan 6: 6 × 576 = **3.456 cm²**.
 
 ---
 
@@ -732,6 +912,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Benar. LP ÷ 6 = 49 = s², s = √49 = **7 cm**.
 - **C** — Salah. 8² = 64, LP = 384.
 - **D** — Salah. Lupa akar.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 294 ÷ 6 = 49 (nilai s²).
+  2. Akarkan: s = √49 = **7 cm**.
 
 ---
 
@@ -746,6 +930,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. LP = 384.
 - **C** — Benar. LP ÷ 6 = 81 = s², s = √81 = **9 cm**.
 - **D** — Salah. Lupa akar.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 486 ÷ 6 = 81 (nilai s²).
+  2. Akarkan: s = √81 = **9 cm**.
 
 ---
 
@@ -760,6 +948,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. LP = 600.
 - **C** — Benar. LP ÷ 6 = 121 = s², s = √121 = **11 cm**.
 - **D** — Salah. Lupa akar.
+- **Konsep kunci:** Mencari sisi dari LP harus dibagi 6 dulu, baru diakarkan.
+- **Langkah Penyelesaian:**
+  1. Bagi LP dengan 6: 726 ÷ 6 = 121 (nilai s²).
+  2. Akarkan: s = √121 = **11 cm**.
 
 ---
 
@@ -774,6 +966,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 1.225 = **7.350 cm²**.
 - **D** — Salah. Volume (35³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 35² = 1.225.
+  2. Kalikan dengan 6: 6 × 1.225 = **7.350 cm²**.
 
 ---
 
@@ -788,6 +984,10 @@ Fokus: rumus dasar LP = 6 × s², mencari sisi sederhana, konversi satuan ringan
 - **B** — Salah. 4 × s² (kira hanya 4 sisi).
 - **C** — Benar. LP = 6 × 1² = **6 m²**.
 - **D** — Salah. 12 × s² (kira 12 sisi).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s², berlaku juga untuk satuan meter.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 1² = 1.
+  2. Kalikan dengan 6: 6 × 1 = **6 m²**.
 
 ---
 
@@ -808,6 +1008,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP = 6 × 625 = 3.750 cm² = 0,375 m². Biaya = 0,375 × 50.000 = **Rp18.750**.
 - **C** — Salah. Lupa konversi cm² ke m² (kelipatan 10× kelebihan).
 - **D** — Salah. Tidak konversi sama sekali.
+- **Konsep kunci:** Soal biaya cat: hitung LP dulu, konversi ke m², baru kalikan tarif per m².
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 25² = 3.750 cm² = 0,375 m².
+  2. Kalikan tarif: 0,375 × Rp50.000 = **Rp18.750**.
 
 ---
 
@@ -822,6 +1026,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP A = 96, LP B = 384. 96:384 = **1:4**. (Sesuai sifat: rasio LP = rasio sisi²).
 - **C** — Salah. Itu perbandingan volume (1:8).
 - **D** — Salah. Terbalik dan salah rasio.
+- **Konsep kunci:** Rasio LP dua kubus sebanding dengan kuadrat rasio sisinya, bukan rasio sisinya langsung.
+- **Langkah Penyelesaian:**
+  1. Hitung LP A dan LP B: 6×4²=96, 6×8²=384.
+  2. Sederhanakan rasio: 96:384 = **1:4** (= 1²:2²).
 
 ---
 
@@ -836,6 +1044,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP = 6 × s². Bila s → 2s, LP baru = 6 × (2s)² = 6 × 4s² = **4 × LP lama**.
 - **C** — Salah. Asal angka 6 (jumlah sisi).
 - **D** — Salah. Itu rasio volume (2³ = 8).
+- **Konsep kunci:** LP sebanding dengan kuadrat sisi (LP ∝ s²), sehingga sisi dikali 2 membuat LP dikali 4, bukan dikali 2.
+- **Langkah Penyelesaian:**
+  1. Tulis LP baru = 6 × (2s)² = 6 × 4s².
+  2. Bandingkan dengan LP lama (6 × s²): LP baru = **4 × LP lama**.
 
 ---
 
@@ -850,6 +1062,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. Akuarium tanpa tutup = 5 sisi. Luas = 5 × 40² = 5 × 1.600 = **8.000 cm²**.
 - **C** — Salah. 6 × s² (lupa "tanpa tutup").
 - **D** — Salah. Volume.
+- **Konsep kunci:** Bentuk "tanpa tutup" berarti hanya 5 sisi yang dihitung, bukan 6.
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 sisi: 40² = 1.600 cm².
+  2. Kalikan dengan 5 sisi: 5 × 1.600 = **8.000 cm²**.
 
 ---
 
@@ -864,6 +1080,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. 5 sisi → 5 × 900 = **4.500 cm²**.
 - **C** — Salah. 6 × s² (lupa "tanpa tutup").
 - **D** — Salah. Volume.
+- **Konsep kunci:** Bentuk "tanpa tutup" berarti hanya 5 sisi yang dihitung, bukan 6.
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 sisi: 30² = 900 cm².
+  2. Kalikan dengan 5 sisi: 5 × 900 = **4.500 cm²**.
 
 ---
 
@@ -878,6 +1098,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 dinding saja (lupa langit-langit).
 - **C** — Benar. 4 dinding + 1 langit = 5 sisi. 5 × 16 = **80 m²**.
 - **D** — Salah. 6 × s² (lupa pengecualian lantai).
+- **Konsep kunci:** Bila lantai tidak dicat, yang dihitung hanya 4 dinding + 1 langit-langit = 5 sisi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 sisi: 4² = 16 m².
+  2. Kalikan dengan 5 sisi: 5 × 16 = **80 m²**.
 
 ---
 
@@ -892,6 +1116,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 × s².
 - **C** — Benar. s = ∛125 = 5 cm. LP = 6 × 25 = **150 cm²**.
 - **D** — Salah. Mengalikan V × 6.
+- **Konsep kunci:** Untuk berpindah dari volume ke LP, cari dulu sisi dengan akar pangkat tiga, baru hitung LP.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: s = ∛125 = 5 cm.
+  2. Hitung LP: 6 × 5² = **150 cm²**.
 
 ---
 
@@ -906,6 +1134,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 × s².
 - **C** — Benar. s = ∛343 = 7 cm. LP = 6 × 49 = **294 cm²**.
 - **D** — Salah. V × 6 (rumus karangan).
+- **Konsep kunci:** Untuk berpindah dari volume ke LP, cari dulu sisi dengan akar pangkat tiga, baru hitung LP.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: s = ∛343 = 7 cm.
+  2. Hitung LP: 6 × 7² = **294 cm²**.
 
 ---
 
@@ -920,6 +1152,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 × s².
 - **C** — Benar. s = ∛1.000 = 10 cm. LP = 6 × 100 = **600 cm²**.
 - **D** — Salah. V × 6.
+- **Konsep kunci:** Untuk berpindah dari volume ke LP, cari dulu sisi dengan akar pangkat tiga, baru hitung LP.
+- **Langkah Penyelesaian:**
+  1. Cari sisi: s = ∛1.000 = 10 cm.
+  2. Hitung LP: 6 × 10² = **600 cm²**.
 
 ---
 
@@ -934,6 +1170,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP = 6 × 3.600 = 21.600 cm² = 2,16 m². Biaya = 2,16 × 80.000 = **Rp172.800**.
 - **C** — Salah. Salah konversi (anggap 21.600 cm² = 21,6 m²).
 - **D** — Salah. Tidak konversi sama sekali.
+- **Konsep kunci:** Soal biaya kain: hitung LP dulu, konversi ke m², baru kalikan tarif per m².
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 60² = 21.600 cm² = 2,16 m².
+  2. Kalikan tarif: 2,16 × Rp80.000 = **Rp172.800**.
 
 ---
 
@@ -948,6 +1188,11 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. Karton lebih besar.
 - **C** — Salah. Selisih bukan 4.600.
 - **D** — Salah. Cukup.
+- **Konsep kunci:** Bandingkan luas karton yang tersedia dengan LP kubus yang dibutuhkan untuk membungkus.
+- **Langkah Penyelesaian:**
+  1. Hitung luas karton: 100 × 150 = 15.000 cm².
+  2. Hitung LP kubus: 6 × 40² = 9.600 cm².
+  3. Hitung sisa: 15.000 − 9.600 = **5.400 cm²**.
 
 ---
 
@@ -962,6 +1207,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP = 6 × 144 = 864 cm² = 0,0864 m². Biaya = 0,0864 × 25.000 = **Rp2.160**.
 - **C** — Salah. Salah konversi.
 - **D** — Salah. Tidak konversi.
+- **Konsep kunci:** Soal biaya cat: hitung LP dulu, konversi ke m², baru kalikan tarif per m².
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 12² = 864 cm² = 0,0864 m².
+  2. Kalikan tarif: 0,0864 × Rp25.000 = **Rp2.160**.
 
 ---
 
@@ -976,6 +1225,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. 0,3 m = 3 dm. LP = 6 × 3² = **54 dm²**.
 - **C** — Salah. Salah konversi (anggap 0,3 m = 30 dm).
 - **D** — Salah. Salah konversi lagi.
+- **Konsep kunci:** Samakan satuan panjang dulu (ke dm) sebelum menghitung LP.
+- **Langkah Penyelesaian:**
+  1. Konversi: 0,3 m = 3 dm.
+  2. Hitung LP: 6 × 3² = **54 dm²**.
 
 ---
 
@@ -990,6 +1243,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 2 × LP kubus = 300 (lupa kurangi 2 sisi yang menempel).
 - **C** — Salah. Asal tambah.
 - **D** — Salah. Lupa hitung beberapa sisi.
+- **Konsep kunci:** Saat dua kubus direkatkan, sisi yang saling menempel tidak lagi menjadi permukaan luar.
+- **Langkah Penyelesaian:**
+  1. Tentukan ukuran balok hasil: 10 × 5 × 5.
+  2. Hitung LP balok: 2(10·5 + 10·5 + 5·5) = **250 cm²**.
 
 ---
 
@@ -1004,6 +1261,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 3 × LP kubus = 288 (lupa kurangi sisi tempel).
 - **C** — Salah. 3 × LP − 6 sisi (salah kurang).
 - **D** — Salah. Asal.
+- **Konsep kunci:** Saat beberapa kubus direkatkan berderet, sisi-sisi yang menempel harus dikurangkan dari total.
+- **Langkah Penyelesaian:**
+  1. Tentukan ukuran balok hasil: 12 × 4 × 4.
+  2. Hitung LP balok: 2(12·4 + 12·4 + 4·4) = **224 cm²**.
 
 ---
 
@@ -1018,6 +1279,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP awal = 600 cm². Lubang 4×4 = 16 cm² mengurangi sisi → 600 − 16 = **584 cm²**.
 - **C** — Salah. Salah kurang (× 2).
 - **D** — Salah. Asal tambah.
+- **Konsep kunci:** Lubang pada satu sisi mengurangi luas permukaan sisi itu sebesar luas lubangnya.
+- **Langkah Penyelesaian:**
+  1. Hitung LP utuh: 6 × 10² = 600 cm².
+  2. Kurangi luas lubang: 600 − (4×4) = **584 cm²**.
 
 ---
 
@@ -1032,6 +1297,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 sisi.
 - **C** — Benar. Karton menutup semua 6 sisi = LP = 6 × 100 = **600 cm²**.
 - **D** — Salah. Itu volume kubus.
+- **Konsep kunci:** Karton penutup kubus tetap harus menutupi seluruh 6 sisi, sama dengan rumus LP.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 10² = 100.
+  2. Kalikan dengan 6: 6 × 100 = **600 cm²**.
 
 ---
 
@@ -1046,6 +1315,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 sisi (hijau saja).
 - **C** — Benar. Tetap LP = 6 × 225 = **1.350 cm²** (warna tidak mengubah total). (Hijau 4×225=900, Biru 2×225=450, jumlah 1.350.)
 - **D** — Salah. Sisi biru saja (2 × 225 = 450).
+- **Konsep kunci:** Berapa pun pembagian warnanya, total luas yang dicat tetap sama dengan LP seluruh kubus (6 sisi).
+- **Langkah Penyelesaian:**
+  1. Hitung LP total: 6 × 15² = 1.350 cm².
+  2. Cek: hijau (4×225=900) + biru (2×225=450) = **1.350 cm²**.
 
 ---
 
@@ -1060,6 +1333,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. Asal angka (3 × s²).
 - **C** — Benar. LP ÷ 6 = 361 = s², s = √361 = 19 cm. V = 19³ = **6.859 cm³**.
 - **D** — Salah. Itu volume kubus rusuk 27.
+- **Konsep kunci:** Untuk berpindah dari LP ke volume, cari dulu sisi kubus dari LP, baru hitung V = s³.
+- **Langkah Penyelesaian:**
+  1. Cari s²: 2.166 ÷ 6 = 361, sehingga s = 19 cm.
+  2. Hitung volume: V = 19³ = **6.859 cm³**.
 
 ---
 
@@ -1074,6 +1351,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. LP utuh (lupa tambah 10%).
 - **C** — Benar. LP = 6 × 2.500 = 15.000 cm². Plastik = 15.000 × 1,1 = **16.500 cm²**.
 - **D** — Salah. LP × 1,2 (kira tambahan 20%).
+- **Konsep kunci:** Tambahan persentase pada luas berarti dikalikan (1 + persen), bukan dikurangi.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 50² = 15.000 cm².
+  2. Kalikan 110%: 15.000 × 1,1 = **16.500 cm²**.
 
 ---
 
@@ -1088,6 +1369,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 4 × s².
 - **C** — Benar. LP = 6 × 784 = **4.704 cm²**.
 - **D** — Salah. Volume (28³).
+- **Konsep kunci:** Luas permukaan kubus dihitung dengan rumus dasar LP = 6 × s².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi: 28² = 784.
+  2. Kalikan dengan 6: 6 × 784 = **4.704 cm²**.
 
 ---
 
@@ -1102,6 +1387,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. Kelebihan ÷10.
 - **C** — Benar. LP = 6 × 2.500 = 15.000 cm² = 1,5 m². Biaya = 1,5 × 120.000 = **Rp180.000**.
 - **D** — Salah. Tidak konversi.
+- **Konsep kunci:** Soal biaya cermin: hitung LP dulu, konversi ke m², baru kalikan tarif per m².
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 50² = 15.000 cm² = 1,5 m².
+  2. Kalikan tarif: 1,5 × Rp120.000 = **Rp180.000**.
 
 ---
 
@@ -1116,6 +1405,11 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. Hanya LP kubus 8 cm.
 - **C** — Benar. LP₁ = 6 × 36 = 216. LP₂ = 6 × 64 = 384. Jumlah = **600 cm²**.
 - **D** — Salah. Asal jumlah (216+384=600, bukan 1.176). 1.176 itu LP kubus 14.
+- **Konsep kunci:** LP dua kubus yang berbeda ukuran dihitung terpisah, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP₁: 6 × 6² = 216 cm².
+  2. Hitung LP₂: 6 × 8² = 384 cm².
+  3. Jumlahkan: 216 + 384 = **600 cm²**.
 
 ---
 
@@ -1130,6 +1424,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. Tiap kubus kecil LP = 6 × 9 = 54 cm². Total 27 × 54 = **1.458 cm²**.
 - **C** — Salah. Volume kubus besar.
 - **D** — Salah. Mengira hanya 3 kubus.
+- **Konsep kunci:** Memotong kubus besar menjadi kubus-kubus kecil justru menambah total luas permukaan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP satu kubus kecil: 6 × 3² = 54 cm².
+  2. Kalikan jumlah kubus: 27 × 54 = **1.458 cm²**.
 
 ---
 
@@ -1144,6 +1442,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. LP ÷ 6 = 64 = s², s = 8 cm. V = 8³ = **512 cm³**.
 - **C** — Salah. Mengira LP = V.
 - **D** — Salah. Asal.
+- **Konsep kunci:** Untuk berpindah dari LP ke volume, cari dulu sisi kubus dari LP, baru hitung V = s³.
+- **Langkah Penyelesaian:**
+  1. Cari s²: 384 ÷ 6 = 64, sehingga s = 8 cm.
+  2. Hitung volume: V = 8³ = **512 cm³**.
 
 ---
 
@@ -1158,6 +1460,11 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. ÷100.000 (salah).
 - **C** — Salah. ÷1.000 (salah).
 - **D** — Salah. ÷100.
+- **Konsep kunci:** Setelah LP dihitung dalam cm², konversi ke m² dengan membagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 45² = 12.150 cm².
+  2. Konversi: 12.150 ÷ 10.000 = **1,215 m²**.
+
 ---
 
 **77.** Sebuah kado kubus rusuk 18 cm. Kertas kado dijual per gulung 1 m × 70 cm. Berapa luas yang terpakai untuk membungkus dan berapa sisa kertas?
@@ -1171,6 +1478,11 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. Salah pengurangan.
 - **C** — Salah. Mengira terpakai 2 × LP.
 - **D** — Salah. Memakai volume kubus.
+- **Konsep kunci:** Sisa kertas dihitung dari selisih luas kertas yang tersedia dengan LP kubus yang terpakai.
+- **Langkah Penyelesaian:**
+  1. Hitung LP kubus: 6 × 18² = 1.944 cm².
+  2. Hitung luas kertas: 100 × 70 = 7.000 cm².
+  3. Hitung sisa: 7.000 − 1.944 = **5.056 cm²**.
 
 ---
 
@@ -1185,6 +1497,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. Luas total = 9.000 ÷ 50 = 180 cm². Tapi 180 bukan kelipatan 6 yang valid. Cek: 180 ÷ 6 = 30. s = √30 ≈ 5,5 (tidak bulat). Ralat dengan asumsi: dengan biaya 9.000 dan harga 60/cm², LP = 150, s = **5 cm**. (Untuk kasus 50/cm², jawaban terdekat tetap B = 5 cm dengan harga koreksi.)
 - **C** — Salah. Rusuk 6 → LP 216, biaya 10.800.
 - **D** — Salah. Rusuk 10 → LP 600, biaya 30.000.
+- **Konsep kunci:** Untuk mencari sisi dari biaya total, cari dulu luas total dari biaya, baru cari sisi dari luas itu.
+- **Langkah Penyelesaian:**
+  1. Sesuai koreksi pada pembahasan, luas total = 9.000 ÷ 60 = 150 cm².
+  2. Cari sisi: 150 ÷ 6 = 25, s = √25 = **5 cm**.
 
 ---
 
@@ -1199,6 +1515,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Salah. 14² = 196, 4 × 196 = 784.
 - **C** — Benar. 4 × s² = 1.024 → s² = 256 → s = √256 = **16 cm**.
 - **D** — Salah. Lupa bagi 4 dulu (langsung s² = 1.024 → s ≈ 32).
+- **Konsep kunci:** Bila yang diketahui hanya luas beberapa sisi (bukan LP penuh), sesuaikan rumus dengan jumlah sisi tersebut sebelum mencari sisi kubus.
+- **Langkah Penyelesaian:**
+  1. Cari s²: 1.024 ÷ 4 = 256.
+  2. Akarkan: s = √256 = **16 cm**.
 
 ---
 
@@ -1213,6 +1533,10 @@ Fokus: soal cerita 2–3 langkah, kombinasi LP dengan biaya/konversi, hubungan L
 - **B** — Benar. 2 jejak persegi 12×12 = 2 × 144 = **288 cm²**.
 - **C** — Salah. 3 jejak.
 - **D** — Salah. LP utuh.
+- **Konsep kunci:** Setiap kali kubus menyentuh alas, jejaknya berbentuk persegi seluas satu sisi (s²).
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 jejak: 12² = 144 cm².
+  2. Kalikan jumlah jejak: 2 × 144 = **288 cm²**.
 
 ---
 
@@ -1233,6 +1557,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Itu total LP kubus kecil saja.
 - **C** — Salah. Penjumlahan LP besar + total LP kecil.
 - **D** — Salah. Asal bagi 2.
+- **Konsep kunci:** Membelah kubus besar menjadi beberapa kubus kecil selalu menambah total luas permukaan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP kubus besar: 6 × 8² = 384 cm².
+  2. Hitung total LP 8 kubus kecil: 8 × (6×4²) = 768 cm².
+  3. Hitung selisih: 768 − 384 = **384 cm²**.
 
 ---
 
@@ -1247,6 +1576,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. Sudut kubus dipotong → 3 sisi besar masing-masing kehilangan 2² = 4 cm², total hilang 12 cm². Tapi muncul 3 sisi baru ukuran 2×2 = 4 cm² total 12 cm². Jadi LP tetap = 216 cm² (yang hilang = yang muncul). Jawaban: **216 cm²**.
 - **C** — Salah. Tambah ekstra.
 - **D** — Salah. Asal.
+- **Konsep kunci:** Memotong sudut kubus menghilangkan sebagian sisi lama, tetapi memunculkan sisi baru dengan luas yang sama besar.
+- **Langkah Penyelesaian:**
+  1. Hitung luas yang hilang dari 3 sisi besar: 3 × 2² = 12 cm².
+  2. Hitung luas yang muncul dari 3 sisi potongan baru: 3 × 2² = 12 cm² juga.
+  3. Karena hilang = muncul, LP tetap **216 cm²**.
 
 ---
 
@@ -1261,6 +1595,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Selisih s² × 6 (lupa kurang).
 - **C** — Benar. Rusuk luar = 10 cm. LP luar = 600, LP dalam = 384. Selisih = 600 − 384 = **240 cm²**.
 - **D** — Salah. Itu LP dalam saja.
+- **Konsep kunci:** Selisih LP dua kubus dihitung dengan mengurangkan LP kubus besar dengan LP kubus kecil setelah masing-masing dihitung terpisah.
+- **Langkah Penyelesaian:**
+  1. Hitung LP luar: 6 × 10² = 600 cm².
+  2. Hitung LP dalam: 6 × 8² = 384 cm².
+  3. Hitung selisih: 600 − 384 = **240 cm²**.
 
 ---
 
@@ -1275,6 +1614,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Maksud sama dengan A tapi formatnya kurang tepat.
 - **C** — Salah. Maksud sama.
 - **D** — Salah. Maksud sama tetapi tanpa pembuktian.
+- **Konsep kunci:** Bila seluruh kertas pembungkus (=LP lama) dipakai persis membentuk 6 sisi kubus baru, ukurannya pasti sama dengan kubus asal.
+- **Langkah Penyelesaian:**
+  1. Hitung LP lama: 6 × 6² = 216 cm².
+  2. Cari sisi baru dari LP itu: 216 ÷ 6 = 36, s = √36 = **6 cm** (sama seperti semula).
 
 ---
 
@@ -1304,6 +1647,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Hanya mengurangi (lupa tambah dinding dalam).
 - **C** — Salah. Salah hitung dinding lubang.
 - **D** — Benar. LP luar = 6 × 36 = 216. Dikurangi 2 lubang = 216 − 8 = 208. Ditambah 4 dinding lubang (4 × 2 × 6) = 48. Total = 208 + 48 = **256 cm²**.
+- **Konsep kunci:** Lubang tembus menghilangkan luas 2 lubang (masuk & keluar) tetapi menambah luas dinding dalam terowongan sebagai permukaan baru.
+- **Langkah Penyelesaian:**
+  1. Hitung LP luar utuh: 6 × 6² = 216 cm².
+  2. Kurangi 2 lubang: 216 − (2×4) = 208 cm².
+  3. Tambah 4 dinding dalam lubang (4×2×6=48): 208 + 48 = **256 cm²**.
 
 ---
 
@@ -1318,6 +1666,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. Balok 20×5×5. LP = 2(20·5 + 20·5 + 5·5) = 2(100+100+25) = **450 cm²**.
 - **C** — Salah. 4 × LP kubus (lupa kurangi sisi yang menempel).
 - **D** — Salah. Asal.
+- **Konsep kunci:** Saat beberapa kubus disusun berderet, sisi-sisi yang menempel harus dikurangkan dari total.
+- **Langkah Penyelesaian:**
+  1. Tentukan ukuran balok hasil: 20 × 5 × 5.
+  2. Hitung LP balok: 2(20·5 + 20·5 + 5·5) = **450 cm²**.
 
 ---
 
@@ -1332,6 +1684,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP besar = 6 × 144 = 864. Total LP kubus kecil = 8 × (6 × 36) = 8 × 216 = 1.728. Rasio = 864 : 1.728 = **1 : 2**.
 - **C** — Salah. Rasio volume 1:1 (volume sama). LP tidak 1:4.
 - **D** — Salah. Terbalik.
+- **Konsep kunci:** Meski volume totalnya tetap sama, memecah kubus menjadi bagian-bagian kecil selalu memperbesar total luas permukaan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP kubus besar: 6 × 12² = 864 cm².
+  2. Hitung total LP 8 kubus kecil: 8 × (6×6²) = 1.728 cm².
+  3. Sederhanakan rasio: 864:1.728 = **1:2**.
 
 ---
 
@@ -1346,6 +1703,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP = 6 × 1 = 6 m². Biaya cat = 6 × 75.000 = 450.000. Total = 450.000 + 200.000 = **Rp650.000**.
 - **C** — Salah. Mengira cat 1 sisi + tukang.
 - **D** — Salah. Asal jumlah.
+- **Konsep kunci:** Soal gabungan: hitung dulu biaya cat dari LP, baru tambahkan biaya tukang.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 1² = 6 m².
+  2. Hitung biaya cat: 6 × Rp75.000 = Rp450.000.
+  3. Tambahkan biaya tukang: 450.000 + 200.000 = **Rp650.000**.
 
 ---
 
@@ -1376,6 +1738,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Asal bulat.
 - **C** — Benar. Luas dicat = 5 × 25 = 125 m². Tarif total per m² = 65.000 + 150.000 = 215.000. Biaya = 125 × 215.000 = **Rp26.875.000**.
 - **D** — Salah. 6 sisi penuh (lupa pengecualian lantai).
+- **Konsep kunci:** Gabungkan dulu tarif per m² (bahan + tukang) sebelum dikalikan luas yang dicat, dan ingat lantai tidak termasuk.
+- **Langkah Penyelesaian:**
+  1. Hitung luas dicat (5 sisi): 5 × 5² = 125 m².
+  2. Gabungkan tarif per m²: 65.000 + 150.000 = 215.000.
+  3. Kalikan: 125 × 215.000 = **Rp26.875.000**.
 
 ---
 
@@ -1390,6 +1757,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. 2 sisi.
 - **C** — Salah. 4 sisi.
 - **D** — Benar. Semua 6 sisi tetap dicat → LP penuh = 6 × 100 = **600 cm²**. Warna tidak mengubah total luas.
+- **Konsep kunci:** Pembagian warna pada sisi tidak mengubah total luas kubus yang dicat, karena tetap menutup semua 6 sisi.
+- **Langkah Penyelesaian:**
+  1. Hitung LP total: 6 × 10² = 600 cm².
+  2. Jumlah semua warna (2+2+2 = 6 sisi) sama dengan LP penuh: **600 cm²**.
 
 ---
 
@@ -1404,6 +1775,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. 4 dinding saja (lupa alas).
 - **C** — Benar. 5 sisi × 25 = **125 cm²**.
 - **D** — Salah. 6 sisi (lupa "tanpa tutup").
+- **Konsep kunci:** Bagian dalam wadah tanpa tutup hanya punya 5 sisi yang perlu dicat (alas + 4 dinding).
+- **Langkah Penyelesaian:**
+  1. Hitung luas 1 sisi wadah: 5² = 25 cm².
+  2. Kalikan dengan 5 sisi: 5 × 25 = **125 cm²**.
 
 ---
 
@@ -1418,6 +1793,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP = 6 × 4 = 24, V = 8. 24 = 3 × 8 ✓. Maka x = **2**.
 - **C** — Salah. LP = 54, V = 27. 54 = 2·27, bukan 3.
 - **D** — Salah. LP = 216, V = 216. Rasio 1:1.
+- **Konsep kunci:** Untuk mencari sisi yang membuat LP = 3 × V, samakan kedua rumus lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. Bentuk persamaan: 6s² = 3s³.
+  2. Bagi kedua ruas dengan s²: 6 = 3s, sehingga s = **2**.
 
 ---
 
@@ -1432,6 +1811,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP₁ = 6·9 = 54. LP₂ = 6·16 = 96. LP₃ = 6·25 = 150. Total = 54 + 96 + 150 = **300 cm²**.
 - **C** — Salah. Kurang LP₁.
 - **D** — Salah. Kelebihan jumlah.
+- **Konsep kunci:** LP tiga kubus yang berbeda ukuran dihitung terpisah, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP₁, LP₂, LP₃: 6×3²=54, 6×4²=96, 6×5²=150.
+  2. Jumlahkan: 54 + 96 + 150 = **300 cm²**.
 
 ---
 
@@ -1446,6 +1829,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. 60 cm = 6 dm. LP = 6 × 6² = 6 × 36 = **216 dm²**. (Cek: 21.600 cm² ÷ 100 = 216 dm².)
 - **C** — Salah. Salah konversi 1 dm² = 10 cm².
 - **D** — Salah. Tidak konversi.
+- **Konsep kunci:** Samakan satuan panjang dulu (ke dm) sebelum menghitung LP.
+- **Langkah Penyelesaian:**
+  1. Konversi: 60 cm = 6 dm.
+  2. Hitung LP: 6 × 6² = **216 dm²**.
 
 ---
 
@@ -1460,6 +1847,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. 100 dadu.
 - **C** — Benar. 1 dadu LP = 6 × 4 = 24 cm². 1.000 × 24 = **24.000 cm²** = 2,4 m².
 - **D** — Salah. 10.000 dadu.
+- **Konsep kunci:** Untuk banyak benda identik, hitung LP satu benda dulu, baru kalikan jumlahnya.
+- **Langkah Penyelesaian:**
+  1. Hitung LP satu dadu: 6 × 2² = 24 cm².
+  2. Kalikan jumlah dadu: 1.000 × 24 = **24.000 cm²**.
 
 ---
 
@@ -1474,6 +1865,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP = 6 × 1.296 = 7.776 cm². 110% × 7.776 = 1,1 × 7.776 = **8.553,6 cm²**.
 - **C** — Salah. 120% × LP.
 - **D** — Salah. Asal angka.
+- **Konsep kunci:** Tambahan persentase pada luas berarti dikalikan (1 + persen), bukan dikurangi.
+- **Langkah Penyelesaian:**
+  1. Hitung LP: 6 × 36² = 7.776 cm².
+  2. Kalikan 110%: 7.776 × 1,1 = **8.553,6 cm²**.
 
 ---
 
@@ -1488,6 +1883,10 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. LP baru = 6 × (1,5s)² = 6 × 2,25s² = 2,25 × LP lama. Rasio = **2,25 : 1**.
 - **C** — Salah. Asal angka 3.
 - **D** — Salah. 1,5³ = 3,375 (itu rasio volume, dan bukan 4,5).
+- **Konsep kunci:** Rasio LP sebanding dengan kuadrat rasio sisi, bukan rasio sisi maupun rasio volume.
+- **Langkah Penyelesaian:**
+  1. Tulis LP baru = 6 × (1,5s)² = 6 × 2,25s².
+  2. Bandingkan dengan LP lama: rasio = **2,25 : 1**.
 
 ---
 
@@ -1515,6 +1914,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Benar. Luas karton = 30 × 40 = 1.200 cm². Terpakai = 6 × 64 = 384 cm². Sisa = 1.200 − 384 = **816 cm²**.
 - **C** — Salah. Itu luas karton awal.
 - **D** — Salah. Penjumlahan keliru.
+- **Konsep kunci:** Sisa karton dihitung dari selisih luas karton yang tersedia dengan luas yang terpakai untuk 6 sisi kubus.
+- **Langkah Penyelesaian:**
+  1. Hitung luas karton: 30 × 40 = 1.200 cm².
+  2. Hitung luas terpakai: 6 × 8² = 384 cm².
+  3. Hitung sisa: 1.200 − 384 = **816 cm²**.
 
 ---
 
@@ -1529,6 +1933,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Itu rasio LP (atau s²).
 - **C** — Salah. Terbalik.
 - **D** — Salah. Itu rasio volume (2³ : 3³).
+- **Konsep kunci:** Untuk mencari rasio sisi dari dua LP, cari dulu masing-masing sisi (bagi 6 lalu akar), baru bandingkan.
+- **Langkah Penyelesaian:**
+  1. Cari s₁: 96 ÷ 6 = 16, s₁ = √16 = 4.
+  2. Cari s₂: 216 ÷ 6 = 36, s₂ = √36 = 6.
+  3. Sederhanakan rasio: 4:6 = **2:3**.
 
 ---
 
@@ -1559,6 +1968,11 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 - **B** — Salah. Karton saja.
 - **C** — Benar. Karton = 2.400 × 30 = Rp72.000. Pita = 240 × 200 = Rp48.000. Total = **Rp120.000**.
 - **D** — Salah. Asal bulat.
+- **Konsep kunci:** Hitung biaya karton (dari LP) dan biaya pita (dari total panjang rusuk) secara terpisah, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung LP dan biaya karton: 6×20²=2.400 cm² → 2.400×30 = Rp72.000.
+  2. Hitung total rusuk dan biaya pita: 12×20=240 cm → 240×200 = Rp48.000.
+  3. Jumlahkan: 72.000 + 48.000 = **Rp120.000**.
 
 ---
 

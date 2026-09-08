@@ -62,6 +62,11 @@
 - **B** — Distributif memuat perkalian terhadap penjumlahan, misal a×(b+c). Di soal tidak ada operasi perkalian, jadi bukan distributif.
 - **C** — **Benar.** Pola a + b = b + a (6+9 = 9+6) persis definisi komutatif penjumlahan.
 - **D** — Identitas penjumlahan adalah 0 dan bentuknya a + 0 = a. Di soal tidak melibatkan 0, jadi bukan identitas.
+- **Konsep kunci:** Komutatif penjumlahan menukar urutan dua suku tanpa mengubah hasil.
+- **Langkah Penyelesaian:**
+  1. Perhatikan bentuk 6 + 9 = 9 + 6.
+  2. Urutan suku ditukar, tetapi hasilnya tetap 15.
+  3. Ini persis definisi komutatif penjumlahan → jawaban C.
 
 ---
 
@@ -80,6 +85,11 @@
 - **B** — Asosiatif perkalian berbentuk (a×b)×c = a×(b×c) dan melibatkan tiga faktor dengan kurung. Soal ini hanya 2 faktor.
 - **C** — Distributif perlu dua operasi (× terhadap + atau −). Di soal hanya ada perkalian.
 - **D** — Identitas perkalian adalah 1, bentuknya a × 1 = a. Soal tidak memuat angka 1 sebagai identitas.
+- **Konsep kunci:** Komutatif perkalian menukar urutan dua faktor tanpa mengubah hasil.
+- **Langkah Penyelesaian:**
+  1. Perhatikan bentuk 4 × 7 = 7 × 4.
+  2. Urutan faktor ditukar, hasilnya tetap 28.
+  3. Ini definisi komutatif perkalian → jawaban A.
 
 ---
 
@@ -98,6 +108,11 @@
 - **B** — **Benar (bukan komutatif).** 9 − 3 = 6, sedangkan 3 − 9 = −6. Hasil berbeda, jadi pengurangan TIDAK komutatif.
 - **C** — 4 × 11 = 11 × 4 = 44. Komutatif perkalian berlaku.
 - **D** — 15 + 2 = 2 + 15 = 17. Komutatif penjumlahan berlaku.
+- **Konsep kunci:** Pengurangan tidak bersifat komutatif karena menukar urutan mengubah hasil.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pasangan dengan menukar urutannya.
+  2. A, C, D hasilnya tetap sama saat ditukar (komutatif berlaku).
+  3. B: 9 − 3 = 6 tapi 3 − 9 = −6, hasil beda → bukan komutatif, jawaban B.
 
 ---
 
@@ -116,6 +131,11 @@
 - **B** — **Benar.** Pola (a+b)+c = a+(b+c) adalah definisi asosiatif penjumlahan: kurung digeser, urutan suku tetap.
 - **C** — Distributif memerlukan dua operasi berbeda (× dengan + atau −), bentuk a×(b+c).
 - **D** — Invers penjumlahan dari a adalah −a, dan hasilnya 0. Tidak ada bentuk semacam itu di soal.
+- **Konsep kunci:** Asosiatif penjumlahan memindah tanda kurung tanpa mengubah urutan suku.
+- **Langkah Penyelesaian:**
+  1. Perhatikan (3+5)+4 = 3+(5+4).
+  2. Urutan 3, 5, 4 tetap, hanya kurung yang berpindah.
+  3. Ini definisi asosiatif penjumlahan → jawaban B.
 
 ---
 
@@ -134,6 +154,11 @@
 - **B** — Distributif menyebar perkalian terhadap penjumlahan/pengurangan; soal ini murni perkalian, tanpa + atau −.
 - **C** — **Benar.** Pola (a×b)×c = a×(b×c) adalah asosiatif perkalian: kurung dipindah, faktor sama.
 - **D** — Identitas perkalian (×1) tidak muncul di soal.
+- **Konsep kunci:** Asosiatif perkalian memindah tanda kurung tanpa mengubah urutan faktor.
+- **Langkah Penyelesaian:**
+  1. Perhatikan (2×5)×6 = 2×(5×6).
+  2. Urutan faktor 2, 5, 6 tetap, hanya kurung berpindah.
+  3. Ini definisi asosiatif perkalian → jawaban C.
 
 ---
 
@@ -152,6 +177,11 @@
 - **B** — Itu rumus asosiatif penjumlahan, bukan distributif.
 - **C** — Itu komutatif perkalian.
 - **D** — Itu identitas penjumlahan (0).
+- **Konsep kunci:** Distributif menyebarkan perkalian ke tiap suku dalam kurung penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Bandingkan tiap opsi dengan pola a×(b+c) = (a×b)+(a×c).
+  2. Opsi A persis sesuai pola tersebut.
+  3. Jawaban A.
 
 ---
 
@@ -170,6 +200,11 @@
 - **B** — **Benar.** Distributif: 7×(10+2) = (7×10)+(7×2) = 70+14 = 84. Cek: 7×12 = 84. Cocok.
 - **C** — Bentuk ini = 70 + 2 = 72. Salah, karena 2 tidak ikut dikali 7. Ini kesalahan umum siswa.
 - **D** — Bentuk (7+10)×(7+2) = 17×9 = 153. Salah total: 7 tidak boleh ditambahkan ke 10 di dalam kurung.
+- **Konsep kunci:** Distributif memecah bentuk a×(b+c) menjadi (a×b)+(a×c).
+- **Langkah Penyelesaian:**
+  1. Sebar 7 ke tiap suku dalam kurung: 7×10 dan 7×2.
+  2. Jumlahkan: (7×10)+(7×2) = 70+14 = 84.
+  3. Cocok dengan 7×12 = 84 → jawaban B.
 
 ---
 
@@ -188,6 +223,11 @@
 - **B** — 8×(10−1) = 8×9 = 72, tapi 8×10 − 1 = 79. Hasil beda, jadi salah. Hanya 1 yang dikurangkan, padahal harus 8×1.
 - **C** — **Benar.** Distributif terhadap pengurangan: a×(b−c) = (a×b)−(a×c). Cek: 8×9 = 72, dan (8×10)−(8×1) = 80−8 = 72.
 - **D** — (8×10)−1 = 79, sedang 8×(10−1) = 72. Tidak sama, jadi pernyataan ini salah.
+- **Konsep kunci:** Distributif perkalian terhadap pengurangan berbentuk a×(b−c) = (a×b)−(a×c).
+- **Langkah Penyelesaian:**
+  1. Sebar 8 ke tiap suku: 8×10 dan 8×1.
+  2. Hitung: (8×10)−(8×1) = 80−8 = 72.
+  3. Cocok dengan 8×9 = 72 → jawaban C.
 
 ---
 
@@ -206,6 +246,11 @@
 - **B** — Asosiatif memindah kurung dari tiga suku. Soal hanya dua suku.
 - **C** — **Benar.** 0 adalah unsur identitas penjumlahan: a + 0 = a. 25 + 0 = 25 cocok.
 - **D** — Invers penjumlahan dari 25 adalah −25, dan hasilnya 0, bukan 25.
+- **Konsep kunci:** 0 adalah unsur identitas penjumlahan karena a + 0 = a.
+- **Langkah Penyelesaian:**
+  1. Perhatikan 25 + 0 = 25, nilainya tidak berubah.
+  2. Ini ciri unsur identitas penjumlahan (0).
+  3. Jawaban C.
 
 ---
 
@@ -224,6 +269,11 @@
 - **B** — Identitas penjumlahan adalah 0, bukan 1.
 - **C** — Invers perkalian dari 17 adalah 1/17 (pecahan), dan hasil 17 × (1/17) = 1, bukan 17.
 - **D** — Invers penjumlahan dari 17 adalah −17.
+- **Konsep kunci:** 1 adalah unsur identitas perkalian karena a × 1 = a.
+- **Langkah Penyelesaian:**
+  1. Perhatikan 17 × 1 = 17, nilainya tidak berubah.
+  2. Ini ciri unsur identitas perkalian.
+  3. Jawaban A.
 
 ---
 
@@ -242,6 +292,11 @@
 - **B** — **Benar.** Pakai komutatif+asosiatif: 25+47+75 = (25+75)+47 = 100+47 = 147.
 - **C** — 157 = 100 + 57 (salah jumlah 47).
 - **D** — 167 hasil jika 25+75 dihitung 120 (salah).
+- **Konsep kunci:** Komutatif dan asosiatif memungkinkan mengelompokkan pasangan angka yang mudah dijumlah lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Tukar dan kelompokkan: (25+75)+47.
+  2. Hitung 25+75 = 100.
+  3. 100+47 = 147 → jawaban B.
 
 ---
 
@@ -260,6 +315,11 @@
 - **B** — **Benar.** (4×25)×7 = 100×7 = 700. Mengelompokkan 4 dan 25 lebih dulu menghasilkan 100, lalu ×7 = 700 sangat cepat. Inilah trik asosiatif.
 - **C** — 4×(7×25) = 4×175 = 700. Hasil benar tapi 4×175 lebih sulit.
 - **D** — (25×7)×4 = 175×4 = 700. Hasil benar tapi 175×4 lebih repot.
+- **Konsep kunci:** Asosiatif perkalian membolehkan mengelompokkan faktor yang menghasilkan bilangan bulat lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan 4×25 = 100 dulu.
+  2. Kalikan dengan faktor sisa: 100×7 = 700.
+  3. Jawaban B, cara paling mudah dihitung.
 
 ---
 
@@ -278,6 +338,11 @@
 - **B** — **Benar.** 99 = 100 − 1, jadi (100−1)×6 = 600 − 6 = 594. Trik distributif klasik.
 - **C** — 99×(5+1) = 99×6 = 594. Hasilnya benar, tapi tidak mempermudah karena tetap menghitung 99×6 langsung.
 - **D** — 540 + 9 = 549. Salah, karena 99 ≠ 90+9 dipakai untuk perkalian (seharusnya jadi (90+9)×6 = 540+54 = 594).
+- **Konsep kunci:** Distributif memudahkan perkalian dengan memecah bilangan mendekati 100.
+- **Langkah Penyelesaian:**
+  1. Tulis 99 = 100 − 1.
+  2. Sebar: (100−1)×6 = 600−6.
+  3. Hasil 594 → jawaban B.
 
 ---
 
@@ -296,6 +361,11 @@
 - **B** — **Benar.** Distributif kebalik: (a×b)+(a×c) = a×(b+c) → 8×(12+3) = 8×15 = 120. Cek 8×12+8×3 = 96+24 = 120. Cocok.
 - **C** — (8+12)×3 = 20×3 = 60. Salah pengelompokan.
 - **D** — 8 + 36 = 44. Salah karena tidak ada distributif yang benar di sini.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku hasil kali berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 8.
+  2. Gabungkan suku lain: 8×12 + 8×3 = 8×(12+3).
+  3. Hitung 8×15 = 120 → jawaban B.
 
 ---
 
@@ -314,6 +384,11 @@
 - **B** — 7×144 muncul kalau kita pikir 28+72 = 144 (salah jumlah, sebenarnya 100).
 - **C** — 14×100 muncul kalau 7 diduakalikan (salah, faktor 7 hanya satu kali).
 - **D** — 7×50 muncul kalau 28+72 dianggap 50 (salah).
+- **Konsep kunci:** Distributif kebalik: jumlahkan dulu suku dalam kurung sebelum dikalikan.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 7.
+  2. Jumlahkan suku lain: 28+72 = 100.
+  3. Hitung 7×100 = 700 → jawaban A.
 
 ---
 
@@ -332,6 +407,11 @@
 - **B** — **Benar.** Pola a+(b+c) = (a+b)+c adalah asosiatif penjumlahan.
 - **C** — Distributif menyebar × terhadap +/−; soal ini tidak punya perkalian.
 - **D** — Identitas (0) tidak muncul di soal.
+- **Konsep kunci:** Asosiatif penjumlahan memindah tanda kurung tanpa mengubah urutan suku.
+- **Langkah Penyelesaian:**
+  1. Perhatikan 15+(10+5) = (15+10)+5.
+  2. Urutan suku 15, 10, 5 tetap, hanya kurung berpindah.
+  3. Ini definisi asosiatif penjumlahan → jawaban B.
 
 ---
 
@@ -350,6 +430,11 @@
 - **B** — 0 adalah unsur identitas penjumlahan, bukan invers.
 - **C** — 1/9 adalah invers perkalian, bukan penjumlahan.
 - **D** — **Benar.** 9 + (−9) = 0. Karena hasilnya identitas penjumlahan (0), maka −9 adalah invers penjumlahan dari 9.
+- **Konsep kunci:** Invers penjumlahan suatu bilangan adalah lawannya, sehingga jumlah keduanya 0.
+- **Langkah Penyelesaian:**
+  1. Cari bilangan yang bila dijumlah dengan 9 hasilnya 0 (identitas penjumlahan).
+  2. 9 + (−9) = 0.
+  3. Invers penjumlahan dari 9 adalah −9 → jawaban D.
 
 ---
 
@@ -368,6 +453,11 @@
 - **B** — −5 adalah invers penjumlahan, bukan perkalian. 5×(−5) = −25.
 - **C** — 5×5 = 25, bukan 1.
 - **D** — 5×0 = 0, bukan 1. 0 tidak punya invers perkalian.
+- **Konsep kunci:** Invers perkalian suatu bilangan adalah kebalikannya (1/a), sehingga hasil kalinya 1.
+- **Langkah Penyelesaian:**
+  1. Cari bilangan yang bila dikalikan dengan 5 hasilnya 1 (identitas perkalian).
+  2. 5 × (1/5) = 1.
+  3. Invers perkalian dari 5 adalah 1/5 → jawaban A.
 
 ---
 
@@ -386,6 +476,11 @@
 - **B** — Salah. (12÷6)÷2 = 2÷2 = 1, sedangkan 12÷(6÷2) = 12÷3 = 4. Hasil beda, pembagian TIDAK asosiatif.
 - **C** — **Benar.** a + b = b + a selalu menghasilkan jumlah sama. Penjumlahan komutatif.
 - **D** — Salah. Distributif hanya berlaku ketika perkalian "di luar" + atau −, bukan sebaliknya. Bentuk a+(b×c) ≠ (a+b)×(a+c).
+- **Konsep kunci:** Dari empat operasi dasar, hanya penjumlahan dan perkalian yang bersifat komutatif.
+- **Langkah Penyelesaian:**
+  1. Uji tiap opsi dengan menukar urutan atau kelompoknya.
+  2. Pengurangan dan pembagian gagal (hasil berbeda saat ditukar/dikelompokkan ulang).
+  3. Penjumlahan tetap sama saat ditukar → jawaban C.
 
 ---
 
@@ -404,6 +499,11 @@
 - **B** — 6×9 = 54 hasilnya BENAR, tetapi cara itu menjumlah dulu (5+4=9) — bukan "distributif". Soal minta cara distributif.
 - **C** — **Benar.** Distributif: 6×(5+4) = (6×5)+(6×4) = 30+24 = 54. Hasil dan cara sesuai.
 - **D** — (6+5)×(6+4) = 11×10 = 110. Bukan bentuk distributif yang benar.
+- **Konsep kunci:** Distributif menyebarkan perkalian ke tiap suku dalam kurung penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Sebar 6 ke 5 dan 4: 6×5 dan 6×4.
+  2. Jumlahkan: 30+24.
+  3. Hasil 54 sesuai cara distributif → jawaban C.
 
 ---
 
@@ -422,6 +522,11 @@
 - **B** — **Benar.** 0 + a = a dan a + 0 = a; 0 adalah unsur identitas penjumlahan.
 - **C** — Invers perkalian dari 18 adalah 1/18 (hasilnya 1).
 - **D** — Identitas perkalian adalah 1 (a × 1 = a), bukan 0.
+- **Konsep kunci:** 0 adalah unsur identitas penjumlahan karena a + 0 = a.
+- **Langkah Penyelesaian:**
+  1. Perhatikan 0 + 18 = 18, nilainya tidak berubah.
+  2. Ini ciri unsur identitas penjumlahan.
+  3. Jawaban B.
 
 ---
 
@@ -440,6 +545,11 @@
 - **B** — 36×(10−5) = 36×5, tetapi 360−180 = 180 BENAR. Namun, cara ini sengaja mengurai 5 = 10−5, lalu 36×10−36×5 = 360−180; kita harus tahu nilai 36×5 (yang sedang dicari) untuk menyelesaikan, jadi circular.
 - **C** — **Benar.** Distributif: 36 = 30+6, jadi (30+6)×5 = 150+30 = 180. Hitung cepat dan benar.
 - **D** — Bentuk OK (36 = 40−4), tetapi hasil hitung 200−20 = 180 BENAR. Namun 4×5 = 20, jadi 200−20 = 180; ini juga sah. Hanya saja C lebih intuitif karena 36 = 30+6 lebih sederhana. Kunci terbaik = C.
+- **Konsep kunci:** Distributif memecah salah satu faktor menjadi bentuk penjumlahan yang mudah dihitung.
+- **Langkah Penyelesaian:**
+  1. Pecah 36 = 30+6.
+  2. Sebar: (30+6)×5 = 150+30.
+  3. Hasil 180 dengan cara paling sederhana → jawaban C.
 
 ---
 
@@ -458,6 +568,11 @@
 - **B** — (12+25)×2 = 37×2 = 74. Salah total: tidak mewakili 12 kotak × 25.
 - **C** — **Benar.** Distributif: 12 = 10+2, jadi (10+2)×25 = 250+50 = 300. Lebih cepat daripada bersusun.
 - **D** — 12 × 20 + 5 = 240+5 = 245. Salah, karena 25 dipecah jadi 20+5, harusnya 12×20 + 12×5 = 240+60 = 300.
+- **Konsep kunci:** Distributif memudahkan perkalian besar dengan memecah salah satu faktor.
+- **Langkah Penyelesaian:**
+  1. Pecah 12 = 10+2.
+  2. Sebar: (10×25)+(2×25) = 250+50.
+  3. Total 300 roti → jawaban C.
 
 ---
 
@@ -476,6 +591,11 @@
 - **B** — 4+2 = 6, jadi 14×6 = 84, bukan 14×8.
 - **C** — **Benar.** 8 = 10−2, distributif: 14×(10−2) = 140−28 = 112. Cek 14×8 = 112.
 - **D** — 24 − 16 = 8, bentuk salah secara struktur distributif.
+- **Konsep kunci:** Distributif perkalian terhadap pengurangan memudahkan hitung mendekati bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Tulis 8 = 10−2.
+  2. Sebar: 14×(10−2) = 140−28.
+  3. Hasil 112 → jawaban C.
 
 ---
 
@@ -494,6 +614,11 @@
 - **B** — **Benar.** Distributif: 5×(a+b) = 5×a + 5×b = 5a + 5b.
 - **C** — (5+a)×(5+b) = 25 + 5b + 5a + ab. Bukan bentuk yang setara.
 - **D** — 5 + ab salah total — operasi tertukar.
+- **Konsep kunci:** Distributif menyebarkan faktor ke setiap suku dalam kurung, termasuk bentuk aljabar.
+- **Langkah Penyelesaian:**
+  1. Sebar 5 ke a dan b.
+  2. 5×a = 5a dan 5×b = 5b.
+  3. Hasil 5a+5b → jawaban B.
 
 ---
 
@@ -512,6 +637,11 @@
 - **B** — **Benar.** Bentuk a×b = b×a adalah komutatif perkalian.
 - **C** — Itu distributif perkalian terhadap penjumlahan.
 - **D** — Itu identitas perkalian (×1).
+- **Konsep kunci:** Komutatif perkalian menukar urutan dua faktor tanpa mengubah hasil.
+- **Langkah Penyelesaian:**
+  1. Bandingkan tiap opsi dengan ciri masing-masing sifat.
+  2. Opsi B berbentuk a×b = b×a.
+  3. Itu definisi komutatif perkalian → jawaban B.
 
 ---
 
@@ -530,6 +660,11 @@
 - **B** — Hasil juga 140, tapi 66+74 perlu hitung tambahan; C lebih cepat (40+100).
 - **C** — **Benar.** Pakai komutatif+asosiatif. Pasangan ramah: 13+27 = 40 dan 47+53 = 100; 40+100 = 140.
 - **D** — Salah, soal asalnya penjumlahan, bukan perkalian.
+- **Konsep kunci:** Komutatif dan asosiatif membolehkan memasangkan bilangan yang jumlahnya bulat lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Cari pasangan ramah: 13+27 = 40 dan 47+53 = 100.
+  2. Jumlahkan hasil pasangan: 40+100.
+  3. Total 140 → jawaban C.
 
 ---
 
@@ -548,6 +683,11 @@
 - **B** — **Benar.** Pola (a×b)×c = a×(b×c) adalah asosiatif perkalian.
 - **C** — Itu distributif perkalian terhadap penjumlahan.
 - **D** — Itu identitas perkalian.
+- **Konsep kunci:** Asosiatif perkalian memindah kurung tanpa mengubah urutan tiga faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan tiap opsi dengan ciri masing-masing sifat.
+  2. Opsi B berbentuk (a×b)×c = a×(b×c).
+  3. Itu definisi asosiatif perkalian → jawaban B.
 
 ---
 
@@ -566,6 +706,11 @@
 - **B** — 28 × 4 = 112. Salah, struktur tidak sesuai.
 - **C** — **Benar.** Distributif: 24 = 20+4, jadi 8×(20+4) = 160+32 = 192.
 - **D** — 4 lupa dikali 8 (kesalahan umum). Seharusnya 160 + 32 = 192.
+- **Konsep kunci:** Distributif memudahkan perkalian dengan memecah bilangan menjadi bentuk puluhan+satuan.
+- **Langkah Penyelesaian:**
+  1. Pecah 24 = 20+4.
+  2. Sebar: 8×(20+4) = 160+32.
+  3. Total 192 jeruk → jawaban C.
 
 ---
 
@@ -584,6 +729,11 @@
 - **B** — Salah; 15+5 = 20, bukan 10.
 - **C** — 9 dijadikan 18 (salah, faktor 9 hanya satu kali).
 - **D** — 9×75 muncul jika 15×5 = 75 (salah hitung; itu perkalian, bukan penjumlahan distributif).
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 9.
+  2. Jumlahkan suku lain: 15+5 = 20.
+  3. Hitung 9×20 = 180 → jawaban A.
 
 ---
 
@@ -602,6 +752,11 @@
 - **B** — **Benar.** a + b = b + a adalah definisi komutatif penjumlahan.
 - **C** — Itu identitas penjumlahan.
 - **D** — Itu distributif.
+- **Konsep kunci:** Komutatif penjumlahan adalah penukaran urutan dua suku.
+- **Langkah Penyelesaian:**
+  1. Bandingkan tiap opsi dengan ciri masing-masing sifat.
+  2. Opsi B berbentuk a+b = b+a.
+  3. Itu definisi komutatif penjumlahan → jawaban B.
 
 ---
 
@@ -620,6 +775,11 @@
 - **B** — Hasil juga 384 (benar), TAPI ini bukan penerapan distributif — itu perkalian langsung. Soal meminta cara distributif.
 - **C** — **Benar.** Distributif: 8×(50−2) = 8×50 − 8×2 = 400−16 = 384. Tepat dan menerapkan sifat distributif.
 - **D** — Bentuk salah total.
+- **Konsep kunci:** Distributif perkalian terhadap pengurangan menyebar faktor ke tiap suku.
+- **Langkah Penyelesaian:**
+  1. Sebar 8 ke 50 dan 2.
+  2. Hitung 8×50 = 400 dan 8×2 = 16.
+  3. 400−16 = 384 → jawaban C.
 
 ---
 
@@ -638,6 +798,11 @@
 - **B** — Hasil benar tapi cara berulang.
 - **C** — **Benar.** Distributif: 99 = 100−1, jadi 35×(100−1) = 3.500 − 35 = 3.465. Sangat cepat.
 - **D** — 99 ≠ 100+1, jadi salah konsep. Hasil 3.535 keliru.
+- **Konsep kunci:** Distributif memudahkan perkalian dengan bilangan mendekati 100.
+- **Langkah Penyelesaian:**
+  1. Tulis 99 = 100−1.
+  2. Sebar: 35×(100−1) = 3.500−35.
+  3. Hasil 3.465 → jawaban C.
 
 ---
 
@@ -656,6 +821,11 @@
 - **B** — **Benar.** a + 0 = a (identitas +); a × 1 = a (identitas ×).
 - **C** — a × 0 = 0, jadi 0 bukan identitas perkalian.
 - **D** — a + 1 ≠ a, jadi 1 bukan identitas penjumlahan.
+- **Konsep kunci:** Identitas penjumlahan adalah 0, sedangkan identitas perkalian adalah 1.
+- **Langkah Penyelesaian:**
+  1. Uji a+0 = a, berlaku untuk 0.
+  2. Uji a×1 = a, berlaku untuk 1.
+  3. Jadi identitas penjumlahan = 0, identitas perkalian = 1 → jawaban B.
 
 ---
 
@@ -674,6 +844,11 @@
 - **B** — Sama seperti A — 6 lupa dikali 4.
 - **C** — **Benar.** Distributif: 4×(3+6) = (4×3)+(4×6) = 12+24 = 36. Verifikasi: 4×9 = 36.
 - **D** — (4+3)×(4+6) = 7×10 = 70. Bentuk salah secara aturan.
+- **Konsep kunci:** Distributif menyebar faktor luar ke tiap suku dalam kurung.
+- **Langkah Penyelesaian:**
+  1. Sebar 4 ke 3 dan 6.
+  2. Hitung 4×3 = 12 dan 4×6 = 24.
+  3. 12+24 = 36 → jawaban C.
 
 ---
 
@@ -692,6 +867,11 @@
 - **B** — Benar: 27 = 30−3, distributif (30−3)×4 = 120−12 = 108.
 - **C** — Benar: 27 = 25+2, distributif (25+2)×4 = 100+8 = 108.
 - **D** — **Benar.** Distributif tidak unik; banyak cara memecah 27. Semua menghasilkan 108. Trik OSN sering pakai ini.
+- **Konsep kunci:** Distributif tidak unik — satu bilangan bisa dipecah dengan banyak cara dan tetap menghasilkan jawaban sama.
+- **Langkah Penyelesaian:**
+  1. Cek A: 27 = 20+7 → 80+28 = 108.
+  2. Cek B: 27 = 30−3 → 120−12 = 108.
+  3. Cek C: 27 = 25+2 → 100+8 = 108, semua sama → jawaban D.
 
 ---
 
@@ -710,6 +890,11 @@
 - **B** — Sifat penjumlahan ((a+b)+c = a+(b+c)).
 - **C** — Sifat penjumlahan (a + 0 = a).
 - **D** — **Benar (BUKAN sifat penjumlahan).** Distributif berlaku perkalian terhadap +/−, bukan sebaliknya. a + (b×c) ≠ (a+b)×(a+c).
+- **Konsep kunci:** Distributif adalah sifat perkalian terhadap penjumlahan/pengurangan, bukan sifat penjumlahan itu sendiri.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, C — ketiganya ciri asli penjumlahan (komutatif, asosiatif, identitas).
+  2. Cek D: menyebut distributif penjumlahan terhadap perkalian, bentuk ini tidak berlaku.
+  3. Jawaban D.
 
 ---
 
@@ -728,6 +913,11 @@
 - **B** — 175 hasil bila 25+75 = 100 dan 50 hanya satu.
 - **C** — **Benar.** Pakai komutatif+asosiatif: (50+50) + (25+75) = 100+100 = 200.
 - **D** — 100 hasil bila hanya satu pasangan dijumlahkan.
+- **Konsep kunci:** Komutatif dan asosiatif membantu mencari pasangan angka yang mudah dijumlah.
+- **Langkah Penyelesaian:**
+  1. Pasangkan 50+50 = 100.
+  2. Pasangkan 25+75 = 100.
+  3. 100+100 = 200 → jawaban C.
 
 ---
 
@@ -746,6 +936,11 @@
 - **B** — Hasil 700, tapi 175×4 lebih sulit daripada 100×7.
 - **C** — **Benar.** Kelompokkan 25×4 = 100 lebih dulu, lalu ×7 = 700. Paling cepat.
 - **D** — Sama dengan C pada akhirnya, tapi tanpa strategi pengelompokan.
+- **Konsep kunci:** Asosiatif perkalian membolehkan mengelompokkan faktor yang menghasilkan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan 25×4 = 100 dulu.
+  2. Kalikan dengan faktor sisa: 100×7 = 700.
+  3. Jawaban C, cara paling mudah dihitung.
 
 ---
 
@@ -764,6 +959,11 @@
 - **B** — 6×8 − 3 = 48−3 = 45. Salah, 3 tidak dikali 6.
 - **C** — (6−8)×3 = −2×3 = −6. Tidak sama, bentuk salah.
 - **D** — Hasil 30 BENAR, tapi cara itu langsung mengurangi dulu (8−3 = 5), bukan distributif.
+- **Konsep kunci:** Distributif perkalian terhadap pengurangan menyebar faktor ke tiap suku.
+- **Langkah Penyelesaian:**
+  1. Sebar 6 ke 8 dan 3.
+  2. Hitung 6×8 = 48 dan 6×3 = 18.
+  3. 48−18 = 30 → jawaban A.
 
 ---
 
@@ -782,6 +982,11 @@
 - **B** — Benar 25, tetapi 13+12 perlu menyimpan satu langkah.
 - **C** — Benar 25 dengan komutatif, 5+12 = 17 → +8 = 25.
 - **D** — **Benar.** Asosiatif memungkinkan pengelompokan terbaik. Cara A paling efisien karena membentuk angka bulat 20.
+- **Konsep kunci:** Asosiatif penjumlahan memberi kebebasan memilih kelompok yang paling mudah dihitung.
+- **Langkah Penyelesaian:**
+  1. Cek tiap cara mengelompokkan, semuanya menghasilkan 25.
+  2. Cara A memunculkan 8+12 = 20 (bilangan bulat).
+  3. Semua benar, A paling cepat → jawaban D.
 
 ---
 
@@ -800,6 +1005,11 @@
 - **B** — Benar: 100−20 = 80.
 - **C** — Benar tapi tidak menerapkan distributif.
 - **D** — **Benar.** Distributif punya banyak bentuk; A dan B sama-sama valid cara cepat.
+- **Konsep kunci:** Distributif memiliki banyak cara memecah bilangan yang sama-sama valid.
+- **Langkah Penyelesaian:**
+  1. Cek A: 16 = 10+6 → 50+30 = 80.
+  2. Cek B: 16 = 20−4 → 100−20 = 80.
+  3. Keduanya benar dan sama cepat → jawaban D.
 
 ---
 
@@ -818,6 +1028,11 @@
 - **B** — Pengurangan tidak punya distributif terhadap pengurangan. Hasilnya berbeda dari kiri.
 - **C** — **Benar.** Distributif terhadap pengurangan: a×(b−c) = (a×b)−(a×c). Hasil: 70−21 = 49 = 7×7.
 - **D** — Bentuk ini sebenarnya tetap distributif (perkalian), tapi soal minta "terhadap pengurangan" — D mengandung pengurangan di dalam kurung kiri, tapi bentuk yang tepat justru a×(b−c) seperti C.
+- **Konsep kunci:** Distributif terhadap pengurangan berbentuk a×(b−c) = (a×b)−(a×c), hanya berlaku pada perkalian.
+- **Langkah Penyelesaian:**
+  1. Bandingkan tiap opsi dengan pola tersebut.
+  2. Opsi C persis a×(b−c) = (a×b)−(a×c).
+  3. Jawaban C.
 
 ---
 
@@ -836,6 +1051,11 @@
 - **B** — 24 muncul kalau faktor 12 digandakan (salah).
 - **C** — **Benar.** Distributif kebalik: 12×6 + 12×4 = 12×(6+4) = 12×10 = 120.
 - **D** — Bentuk salah total.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua hasil kali berfaktor sama.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 12.
+  2. Jumlahkan suku lain: 6+4 = 10.
+  3. Hitung 12×10 = 120 → jawaban C.
 
 ---
 
@@ -854,6 +1074,11 @@
 - **B** — 90 muncul kalau (18 + 0) × 5 = 18×5 = 90, padahal urutan operasi tidak begitu.
 - **C** — **Benar.** Urutan operasi: kalikan dulu (0 × 5 = 0), lalu jumlahkan (18 + 0 = 18). Selain itu 0 identitas penjumlahan.
 - **D** — Sama dengan B; salah urutan operasi (perkalian dulu, baru +).
+- **Konsep kunci:** Urutan operasi mengharuskan perkalian dikerjakan sebelum penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu 0×5 = 0.
+  2. Jumlahkan 18+0.
+  3. Hasil 18 (0 juga identitas penjumlahan) → jawaban C.
 
 ---
 
@@ -872,6 +1097,11 @@
 - **B** — Itu juga distributif (a×(b+c) terpisah).
 - **C** — **Benar.** Asosiatif perkalian: (a×b)×c = a×(b×c).
 - **D** — Hasil 0 (karena dikali 0), tidak sama dengan (a×b)×c.
+- **Konsep kunci:** Asosiatif perkalian memindah kurung tanpa mengubah urutan faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan opsi dengan pola (a×b)×c = a×(b×c).
+  2. Opsi C persis pola tersebut.
+  3. Jawaban C.
 
 ---
 
@@ -890,6 +1120,11 @@
 - **B** — Benar (a×b = b×a).
 - **C** — **Benar (pernyataan SALAH).** Pengurangan TIDAK komutatif. 9−3 = 6 tapi 3−9 = −6.
 - **D** — Benar ((a+b)+c = a+(b+c)).
+- **Konsep kunci:** Pengurangan tidak bersifat komutatif, berbeda dari penjumlahan dan perkalian.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, D — sifat yang disebutkan benar berlaku.
+  2. Cek C: 9−3 tidak sama dengan 3−9.
+  3. Pernyataan C salah → jawaban C.
 
 ---
 
@@ -908,6 +1143,11 @@
 - **B** — 3×7 = 21 (kesalahan, harusnya 3+7 = 10).
 - **C** — **Benar.** Distributif kebalik: 4×3 + 4×7 = 4×(3+7) = 4×10 = 40.
 - **D** — Bentuk salah.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua hasil kali berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 4.
+  2. Jumlahkan suku lain: 3+7 = 10.
+  3. Hitung 4×10 = 40 → jawaban C.
 
 ---
 
@@ -926,6 +1166,11 @@
 - **B** — Benar, tetapi tidak mengelompokkan ramah.
 - **C** — Benar dengan komutatif, tapi 11+19 perlu hitung tambahan.
 - **D** — **Benar.** A paling efisien karena angka bulat 20 dan 10 langsung muncul.
+- **Konsep kunci:** Asosiatif dan komutatif penjumlahan memberi kebebasan memilih pengelompokan termudah.
+- **Langkah Penyelesaian:**
+  1. Cek tiap cara, semuanya menghasilkan 30.
+  2. Cara A memunculkan 8+12 = 20 dan 3+7 = 10 (bulat).
+  3. Semua benar, A paling cepat → jawaban D.
 
 ---
 
@@ -944,6 +1189,11 @@
 - **B** — 29×3 = 87, bentuk dan urutan salah.
 - **C** — **Benar.** Hitung total kotak dulu (4×25 = 100), lalu tambah lepas (3). Total = 103. Urutan operasi sesuai konteks (perkalian dulu, baru +).
 - **D** — 32 salah; ini hanya menjumlah semua angka tanpa logika.
+- **Konsep kunci:** Urutan operasi: hitung perkalian (total per kotak) dulu, baru tambahkan sisa.
+- **Langkah Penyelesaian:**
+  1. Hitung isi kotak: 4×25 = 100.
+  2. Tambahkan buah lepas: 100+3.
+  3. Total 103 buah → jawaban C.
 
 ---
 
@@ -962,6 +1212,11 @@
 - **B** — Faktor 9 digandakan jadi 18 (salah).
 - **C** — **Benar.** Distributif kebalik: 9×99 + 9×1 = 9×(99+1) = 9×100 = 900. Trik cepat.
 - **D** — 99−1 = 98 (salah; distributif perlu +, bukan −).
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 9.
+  2. Jumlahkan suku lain: 99+1 = 100.
+  3. Hitung 9×100 = 900 → jawaban C.
 
 ---
 
@@ -980,6 +1235,11 @@
 - **B** — **Benar.** Distributif: 35×12 + 35×8 = 35×(12+8) = 35×20 = 700.
 - **C** — Faktor 35 digandakan jadi 70 (salah).
 - **D** — Bentuk salah total.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 35.
+  2. Jumlahkan suku lain: 12+8 = 20.
+  3. Hitung 35×20 = 700 → jawaban B.
 
 ---
 
@@ -998,6 +1258,11 @@
 - **B** — **Benar.** Distributif: 24×(30+6) = 720+144 = 864. Tepat.
 - **C** — 54 × 6 = 324. Salah model.
 - **D** — 6 lupa dikali 24. Kesalahan umum.
+- **Konsep kunci:** Distributif memudahkan perkalian dengan memecah bilangan besar menjadi puluhan+satuan.
+- **Langkah Penyelesaian:**
+  1. Pecah 36 = 30+6.
+  2. Sebar: 24×(30+6) = 720+144.
+  3. Total 864 pensil → jawaban B.
 
 ---
 
@@ -1016,6 +1281,11 @@
 - **B** — **Benar.** Asosiatif: 125×8 = 1.000 (angka bulat ramah), ×7 = 7.000. Paling cepat.
 - **C** — Hasil 7.000, tetapi 875×8 lebih sulit.
 - **D** — Sama dengan B tanpa strategi.
+- **Konsep kunci:** Asosiatif perkalian membolehkan mengelompokkan faktor yang menghasilkan bilangan bulat lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan 125×8 = 1.000.
+  2. Kalikan dengan faktor sisa: 1.000×7 = 7.000.
+  3. Jawaban B, cara paling cepat.
 
 ---
 
@@ -1034,6 +1304,11 @@
 - **B** — **Benar.** Sebar dulu: 12×(50+8) = 600+96. Kurangi 12×8 = 96. Sisa = 600.
 - **C** — 50−8 = 42 (salah, ini bukan pengurangan kurung).
 - **D** — Bukan 0 karena yang tersisa adalah 12×50.
+- **Konsep kunci:** Distributif dan operasi campuran: sebar dulu, lalu selesaikan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Sebar: 12×(50+8) = 600+96.
+  2. Kurangi 12×8 = 96: 600+96−96.
+  3. Sisa 600 → jawaban B.
 
 ---
 
@@ -1052,6 +1327,11 @@
 - **B** — Tidak selalu benar; contoh (8×6)÷2 = 24, sedangkan 8×(6÷2) = 24. Pada contoh ini sama, tetapi (12×4)÷3 = 16, sedang 12×(4÷3) = 16 juga — sebenarnya berlaku karena perkalian/pembagian asosiatif terbatas. Namun secara umum, untuk kasus a×(b÷c), aturan tidak selalu sederhana (perlu hati-hati). Konvensi OSN: pembagian tidak asosiatif, jadi B dianggap salah.
 - **C** — **Benar.** Distributif: a×(b+c) = a×b + a×c. Selalu berlaku.
 - **D** — Salah; penjumlahan tidak distributif terhadap perkalian. a+(b×c) ≠ (a+b)×(a+c).
+- **Konsep kunci:** Distributif a×(b+c) = (a×b)+(a×c) selalu berlaku untuk semua bilangan.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pernyataan dengan contoh angka.
+  2. A, B, D gagal (hasil berbeda saat diuji).
+  3. C selalu benar sesuai definisi distributif → jawaban C.
 
 ---
 
@@ -1070,6 +1350,11 @@
 - **B** — **Benar.** Distributif kebalik: 17×25 + 3×25 = (17+3)×25 = 20×25 = 500.
 - **C** — 17−3 = 14 (salah; bukan pengurangan).
 - **D** — Tambahan 17×3 tidak perlu; salah.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 25.
+  2. Jumlahkan suku lain: 17+3 = 20.
+  3. Hitung 25×20 = 500 → jawaban B.
 
 ---
 
@@ -1088,6 +1373,11 @@
 - **B** — **Benar.** Komutatif+asosiatif: tukar 7 dan 25 dulu, kemudian (4×25)×7 = 100×7 = 700. Paling cepat.
 - **C** — Hasil 700, tapi 175×4 lebih sulit dibanding 100×7.
 - **D** — Sama dengan A bila berurutan; kurang efisien.
+- **Konsep kunci:** Komutatif dan asosiatif perkalian membolehkan menukar dan mengelompokkan faktor demi kemudahan hitung.
+- **Langkah Penyelesaian:**
+  1. Tukar urutan 7 dan 25.
+  2. Kelompokkan 4×25 = 100 dulu.
+  3. Hitung 100×7 = 700 → jawaban B, paling mudah.
 
 ---
 
@@ -1106,6 +1396,11 @@
 - **B** — Benar hasilnya 8.000, tapi tidak ada strategi.
 - **C** — Benar: distributif (100+25)×64 = 6.400+1.600 = 8.000.
 - **D** — **Benar.** Dua cara sama-sama valid; A lebih cepat karena 8×125 = 1.000 (angka bulat ramah).
+- **Konsep kunci:** Satu bilangan bisa dipecah dengan berbagai cara (asosiatif atau distributif) untuk mempermudah perkalian.
+- **Langkah Penyelesaian:**
+  1. Cek A: 64 = 8×8, asosiatif 8×(8×125) = 8×1.000 = 8.000.
+  2. Cek C: distributif (100+25)×64 = 6.400+1.600 = 8.000.
+  3. Keduanya benar, A lebih elegan → jawaban D.
 
 ---
 
@@ -1124,6 +1419,11 @@
 - **B** — Benar: distributif (25×12) + (25×8) = 300+200 = 500.
 - **C** — 25×12 + 8 = 308; salah karena 8 tidak dikali 25.
 - **D** — **Benar.** Distributif dan langsung jumlah sama-sama menghasilkan 500.
+- **Konsep kunci:** Distributif menghubungkan cara menjumlah dulu vs. mengalikan lalu menjumlah, hasilnya sama.
+- **Langkah Penyelesaian:**
+  1. Cara langsung: 12+8 = 20, lalu 25×20 = 500.
+  2. Cara distributif: (25×12)+(25×8) = 300+200 = 500.
+  3. Keduanya benar → jawaban D.
 
 ---
 
@@ -1142,6 +1442,11 @@
 - **B** — Benar 253, tapi 23×12 = 276 lebih sulit dihitung.
 - **C** — Benar 253 tanpa strategi.
 - **D** — **Benar.** A adalah cara distributif paling efisien.
+- **Konsep kunci:** Distributif memiliki beberapa cara memecah bilangan, namun tidak semua sama cepat.
+- **Langkah Penyelesaian:**
+  1. Cek A: 11 = 10+1 → 230+23 = 253 (mudah).
+  2. Cek B: 11 = 12−1 → 276−23 = 253 (lebih sulit).
+  3. A paling efisien → jawaban D.
 
 ---
 
@@ -1160,6 +1465,11 @@
 - **B** — **Benar.** Sebar: 7×(a−b) = 7a − 7b. Tambah 7b: 7a − 7b + 7b = 7a. Bagus untuk hitung cepat.
 - **C** — Salah; bukan 2b.
 - **D** — Salah; hasilnya 7a, bukan 0.
+- **Konsep kunci:** Distributif memudahkan penyederhanaan bentuk aljabar sebelum dihitung.
+- **Langkah Penyelesaian:**
+  1. Sebar 7×(a−b) = 7a−7b.
+  2. Tambahkan 7b: 7a−7b+7b.
+  3. Suku −7b dan +7b saling meniadakan, sisa 7a → jawaban B.
 
 ---
 
@@ -1178,6 +1488,11 @@
 - **B** — **Benar.** Distributif: 15×12 − 15×2 = 15×(12−2) = 15×10 = 150.
 - **C** — Salah model.
 - **D** — 180 − 15 = 165. Salah; harus dikurangi 15×2 = 30, bukan 15.
+- **Konsep kunci:** Distributif perkalian terhadap pengurangan memudahkan hitung sisa barang.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 15.
+  2. Kurangkan suku dalam kurung: 12−2 = 10.
+  3. Hitung 15×10 = 150 sisa coklat → jawaban B.
 
 ---
 
@@ -1196,6 +1511,11 @@
 - **B** — Benar 2.400 lewat asosiatif perkalian/pembagian.
 - **C** — Benar 2.400 lewat distributif (40+8)×50.
 - **D** — **Benar.** Tiga cara semuanya valid. OSN sering uji fleksibilitas semacam ini.
+- **Konsep kunci:** Perkalian bisa dipermudah lewat berbagai sifat (distributif, asosiatif perkalian-pembagian) dan hasilnya tetap sama.
+- **Langkah Penyelesaian:**
+  1. Cek A: distributif (50−2)×50 = 2.400.
+  2. Cek B: asosiatif 48×(100÷2) = 2.400.
+  3. Cek C: distributif (40+8)×50 = 2.400, semua sama → jawaban D.
 
 ---
 
@@ -1214,6 +1534,11 @@
 - **B** — 5 lupa dikali 6.
 - **C** — **Benar.** 6×(10+5) = (6×10)+(6×5) = 60+30 = 90.
 - **D** — Sebagian salah: 6×10 benar, tapi sisanya 6+5 bukan 6×5.
+- **Konsep kunci:** Distributif mengharuskan setiap suku dalam kurung dikalikan dengan faktor luar.
+- **Langkah Penyelesaian:**
+  1. Sebar 6 ke 10 dan 5.
+  2. Hitung 6×10 = 60 dan 6×5 = 30.
+  3. 60+30 = 90 → jawaban C.
 
 ---
 
@@ -1232,6 +1557,11 @@
 - **B** — **Benar.** Sebar kuadrat: (100−1)² = 10.000 − 200 + 1 = 9.801. (Pakai (a−b)² = a²−2ab+b² atau dua kali distributif.)
 - **C** — Salah; hanya 1 dikurangi, bukan 100+100−1.
 - **D** — (100+1)×(100−1) = 100²−1² = 9.999, salah karena bentuk awal 99×99 = (100−1)², bukan (100+1)(100−1).
+- **Konsep kunci:** Distributif berlapis (kuadrat selisih) memecah perkalian dua bilangan sama menjadi bentuk (a−b)².
+- **Langkah Penyelesaian:**
+  1. Tulis 99 = 100−1, sehingga 99×99 = (100−1)².
+  2. Sebar: 100²−100−100+1.
+  3. 10.000−200+1 = 9.801 → jawaban B.
 
 ---
 
@@ -1250,6 +1580,11 @@
 - **B** — **Benar.** Distributif: 12×11 = 12×(10+1) = 120+12 = 132.
 - **C** — 144 = 12×12 (salah).
 - **D** — 122 muncul jika hanya menambah 12+10 (salah hitung).
+- **Konsep kunci:** Distributif memudahkan perkalian dengan memecah salah satu faktor menjadi puluhan+satuan.
+- **Langkah Penyelesaian:**
+  1. Tulis 11 = 10+1.
+  2. Sebar: 12×(10+1) = 120+12.
+  3. Hasil 132 → jawaban B.
 
 ---
 
@@ -1268,6 +1603,11 @@
 - **B** — Salah; 13+7+5 = 25 tidak benar untuk operasi gabungan +/−.
 - **C** — Bentuk salah; 25 sebagai faktor harus dikalikan tetap.
 - **D** — **Benar.** Distributif kebalik dengan +/−: 25×(13+7−5) = 25×15 = 375.
+- **Konsep kunci:** Distributif kebalik berlaku juga untuk gabungan penjumlahan dan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 25.
+  2. Hitung suku dalam kurung: 13+7−5 = 15.
+  3. Hitung 25×15 = 375 → jawaban D.
 
 ---
 
@@ -1286,6 +1626,11 @@
 - **B** — Salah; pembagian tidak asosiatif. (24÷6)÷2 = 2, sedang 24÷(6÷2) = 8.
 - **C** — Salah; pengurangan tidak komutatif kecuali a = b.
 - **D** — Salah; pembagian dengan 0 tidak terdefinisi.
+- **Konsep kunci:** Dari keempat operasi dasar, hanya penjumlahan dan perkalian yang bersifat asosiatif.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pernyataan dengan contoh angka.
+  2. B, C, D gagal (hasil berbeda atau tidak terdefinisi).
+  3. A selalu benar untuk perkalian → jawaban A.
 
 ---
 
@@ -1304,6 +1649,11 @@
 - **B** — Benar tanpa strategi.
 - **C** — Benar; pasangan ramah membuat semua jadi 80, lebih estetis.
 - **D** — **Benar.** Komutatif+asosiatif memberi banyak jalur.
+- **Konsep kunci:** Komutatif dan asosiatif memberi banyak cara mengelompokkan penjumlahan panjang.
+- **Langkah Penyelesaian:**
+  1. Cek A: jumlahkan tiap kurung dulu, 40+80+120 = 240.
+  2. Cek C: pasangkan ujung-ujung (15+65) dan seterusnya, semua jadi 80, totalnya 240.
+  3. Semua cara benar, C paling elegan → jawaban D.
 
 ---
 
@@ -1322,6 +1672,11 @@
 - **B** — Benar 600 lewat (80−5)×8.
 - **C** — Benar 600 lewat (70+5)×8.
 - **D** — **Benar.** Distributif fleksibel; semua sah.
+- **Konsep kunci:** Satu bilangan bisa dipecah dengan berbagai cara distributif dan tetap menghasilkan jawaban sama.
+- **Langkah Penyelesaian:**
+  1. Cek A: 8 = 10−2 → 750−150 = 600.
+  2. Cek B: 75 = 80−5 → 640−40 = 600.
+  3. Cek C: 75 = 70+5 → 560+40 = 600, semua sama → jawaban D.
 
 ---
 
@@ -1340,6 +1695,11 @@
 - **B** — Benar; distributif (8×12)+(8×3) = 96+24 = 120.
 - **C** — 96+3 = 99 salah; 3 lupa dikali 8.
 - **D** — **Benar.** Dua cara sah, distributif menunjukkan logika "barisan + tambahan".
+- **Konsep kunci:** Distributif menghubungkan cara menjumlah dulu vs mengalikan lalu menjumlah.
+- **Langkah Penyelesaian:**
+  1. Cara langsung: 12+3 = 15, lalu 8×15 = 120.
+  2. Cara distributif: (8×12)+(8×3) = 96+24 = 120.
+  3. Keduanya benar → jawaban D.
 
 ---
 
@@ -1358,6 +1718,11 @@
 - **B** — Tambah operasi yang tidak ada di kiri.
 - **C** — Bukan bentuk yang setara.
 - **D** — **Benar.** Pakai komutatif+asosiatif perkalian; urutan dan kelompok bisa diubah bebas. Contoh: (2×3)×(4×5) = 120 = (2×4)×(3×5) = 8×15.
+- **Konsep kunci:** Komutatif dan asosiatif perkalian membolehkan menukar dan mengelompokkan ulang faktor secara bebas.
+- **Langkah Penyelesaian:**
+  1. Empat faktor a, b, c, d boleh disusun ulang.
+  2. Kelompokkan menjadi (a×c)×(b×d).
+  3. Hasil tetap sama → jawaban D.
 
 ---
 
@@ -1376,6 +1741,11 @@
 - **B** — Salah; 17+13+10 = 40, bukan 50.
 - **C** — Faktor 6 digandakan jadi 18 (salah).
 - **D** — **Benar.** Distributif: 6×(17+13+10) = 6×40 = 240.
+- **Konsep kunci:** Distributif kebalik menggabungkan tiga suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 6.
+  2. Jumlahkan suku lain: 17+13+10 = 40.
+  3. Hitung 6×40 = 240 → jawaban D.
 
 ---
 
@@ -1394,6 +1764,11 @@
 - **B** — Benar; 39×20 = 780 dan 39×5 = 195.
 - **C** — Benar; (30+9)×25 = 750+225 = 975.
 - **D** — **Benar.** A paling efisien karena 40×25 = 1.000.
+- **Konsep kunci:** Satu bilangan bisa dipecah dengan berbagai cara distributif; ada yang paling mudah dihitung.
+- **Langkah Penyelesaian:**
+  1. Cek A: 39 = 40−1 → 1.000−25 = 975.
+  2. Cek B dan C juga menghasilkan 975 dengan cara lain.
+  3. Semua benar, A paling cepat karena 40×25 = 1.000 → jawaban D.
 
 ---
 
@@ -1412,6 +1787,11 @@
 - **B** — **Benar.** Distributif untuk tiga suku: a×(b+c+d) = ab + ac + ad.
 - **C** — Bentuk salah total.
 - **D** — Salah secara aturan.
+- **Konsep kunci:** Distributif berlaku untuk tiga suku atau lebih di dalam kurung.
+- **Langkah Penyelesaian:**
+  1. Sebar a ke b, c, dan d.
+  2. Peroleh a×b, a×c, a×d.
+  3. Jumlahkan: ab+ac+ad → jawaban B.
 
 ---
 
@@ -1430,6 +1810,11 @@
 - **B** — Benar; 18×30 = 540 dan 18×5 = 90.
 - **C** — Benar; 18×40 = 720 dan 18×5 = 90.
 - **D** — **Benar.** Distributif fleksibel; semua valid.
+- **Konsep kunci:** Satu bilangan bisa dipecah dengan berbagai cara distributif dan semuanya valid.
+- **Langkah Penyelesaian:**
+  1. Cek A: 18 = 20−2 → 700−70 = 630.
+  2. Cek B: sebar 18 ke 30+5 → 540+90 = 630.
+  3. Cek C: 35 = 40−5 → 720−90 = 630, semua sama → jawaban D.
 
 ---
 
@@ -1448,6 +1833,11 @@
 - **B** — Salah; tidak ada perkalian abc di soal.
 - **C** — Bentuk salah.
 - **D** — Salah; tidak ada faktor 3 di luar.
+- **Konsep kunci:** Identitas perkalian (×1) tidak mengubah nilai, sehingga bisa disederhanakan lewat distributif kebalik.
+- **Langkah Penyelesaian:**
+  1. Tiap suku dikali 1, nilainya tetap (a, b, c).
+  2. Jumlahkan: a+b+c.
+  3. Bisa ditulis (a+b+c)×1 → jawaban A.
 
 ---
 
@@ -1466,6 +1856,11 @@
 - **B** — Benar lewat distributif (10+6)×25.
 - **C** — Benar lewat distributif 16×(20+5).
 - **D** — **Benar.** Asosiatif (A) paling cepat karena memunculkan 100.
+- **Konsep kunci:** Satu bilangan bisa dipecah lewat asosiatif (faktor) atau distributif (penjumlahan), keduanya valid.
+- **Langkah Penyelesaian:**
+  1. Cek A: 16 = 4×4, asosiatif 4×(4×25) = 4×100 = 400.
+  2. Cek B dan C: distributif juga menghasilkan 400.
+  3. Semua benar, A paling elegan → jawaban D.
 
 ---
 
@@ -1484,6 +1879,11 @@
 - **B** — Benar; distributif berlapis (sebar dua kali) memberi 48.
 - **C** — Hanya menjumlahkan dua perkalian (12+10 = 22), bukan distributif berlapis.
 - **D** — **Benar.** Distributif untuk dua kurung memerlukan empat perkalian. A jalan langsung; B jalan distributif.
+- **Konsep kunci:** Distributif berlapis menyebar dua kurung menjadi empat hasil kali; hasilnya sama dengan menjumlah dulu lalu mengalikan.
+- **Langkah Penyelesaian:**
+  1. Cara langsung: 3+5 = 8, 4+2 = 6, lalu 8×6 = 48.
+  2. Cara distributif berlapis: 3×4+3×2+5×4+5×2 = 12+6+20+10 = 48.
+  3. Keduanya benar → jawaban D.
 
 ---
 
@@ -1502,6 +1902,11 @@
 - **B** — 7.000 − 4 = 6.996 muncul kalau 7×2 = 4 (salah).
 - **C** — 7.000 + 6 muncul kalau 7×(1.000+2) (salah; 998 = 1.000−2).
 - **D** — **Benar.** Distributif: 7×(1.000−2) = 7.000 − 14 = 6.986.
+- **Konsep kunci:** Distributif memudahkan perkalian dengan bilangan mendekati 1.000.
+- **Langkah Penyelesaian:**
+  1. Tulis 998 = 1.000−2.
+  2. Sebar: 7×(1.000−2) = 7.000−14.
+  3. Hasil 6.986 → jawaban D.
 
 ---
 
@@ -1520,6 +1925,11 @@
 - **B** — Salah; 100×101 = 10.100 = jumlah 1 sampai 100 dua kali.
 - **C** — Tebakan, tidak akurat.
 - **D** — Salah hitung pasangan.
+- **Konsep kunci:** Komutatif dan asosiatif memungkinkan memasangkan bilangan ujung-ujung deret agar jumlahnya sama rata.
+- **Langkah Penyelesaian:**
+  1. Pasangkan (1+100), (2+99), …, (50+51); tiap pasang = 101.
+  2. Ada 50 pasangan.
+  3. Total 50×101 = 5.050 → jawaban A.
 
 ---
 
@@ -1538,6 +1948,11 @@
 - **B** — 30 muncul tanpa 4×5.
 - **C** — 24 hanya satu suku 4×5 yang salah nilainya.
 - **D** — **Benar.** Hitung: 2 + 6 + 12 + 20 = 40. (Tidak ada trik sifat langsung; sekedar urutan operasi.)
+- **Konsep kunci:** Urutan operasi: hitung tiap perkalian dalam kurung dulu, baru jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap suku: 1×2=2, 2×3=6, 3×4=12, 4×5=20.
+  2. Jumlahkan hasilnya: 2+6+12+20.
+  3. Hasil 40 → jawaban D.
 
 ---
 
@@ -1556,6 +1971,11 @@
 - **B** — Salah model.
 - **C** — 900 + 14 = 914; salah karena 14 tidak dikali 25.
 - **D** — Bentuk salah secara struktur.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 25.
+  2. Jumlahkan suku lain: 36+14 = 50.
+  3. Hitung 25×50 = 1.250 halaman → jawaban A.
 
 ---
 
@@ -1574,6 +1994,11 @@
 - **B** — Tidak nol; selisih 4 di bawah 1 juta.
 - **C** — Tanda salah; hasilnya negatif karena 998×1.002 lebih kecil dari 1.000×1.000.
 - **D** — Salah hitung.
+- **Konsep kunci:** Distributif berlapis (selisih kuadrat) memudahkan perkalian dua bilangan yang mengapit angka bulat.
+- **Langkah Penyelesaian:**
+  1. Tulis 998 = 1.000−2 dan 1.002 = 1.000+2.
+  2. Kalikan: (1.000−2)(1.000+2) = 1.000²−2² = 999.996.
+  3. 999.996 − 1.000.000 = −4 → jawaban A.
 
 ---
 
@@ -1592,6 +2017,11 @@
 - **B** — 160 + 7 = 167 salah, karena 7 tidak dikali 16.
 - **C** — Benar; (10+7)×16 = 160 + 112 = 272.
 - **D** — **Benar.** Distributif fleksibel; sebar satu kurung (C) lebih ringkas daripada dua (A).
+- **Konsep kunci:** Distributif berlapis atau sebar satu kurung sama-sama sah untuk mengalikan dua bilangan dua digit.
+- **Langkah Penyelesaian:**
+  1. Cek A: (10+7)(10+6) disebar penuh → 272.
+  2. Cek C: sebar satu kurung, (10+7)×16 = 160+112 = 272.
+  3. Keduanya benar, C lebih ringkas → jawaban D.
 
 ---
 
@@ -1610,6 +2040,11 @@
 - **B** — Salah; tidak ada perkalian b×c×d di soal.
 - **C** — Bentuk salah.
 - **D** — Bentuk salah.
+- **Konsep kunci:** Distributif berlaku juga untuk gabungan penjumlahan dan pengurangan dalam bentuk aljabar.
+- **Langkah Penyelesaian:**
+  1. Kenali tiga suku dengan faktor sama a.
+  2. Tarik keluar faktor a: a×(b−c+d).
+  3. Jawaban A.
 
 ---
 
@@ -1628,6 +2063,11 @@
 - **B** — Tidak 0; selisih kecil 1.
 - **C** — Salah hitung.
 - **D** — Salah hitung.
+- **Konsep kunci:** Selisih kuadrat (a−b)(a+b) = a²−b² memudahkan menghitung perkalian bilangan yang mengapit angka bulat.
+- **Langkah Penyelesaian:**
+  1. Tulis 24×26 = (25−1)(25+1).
+  2. Hitung 25²−1² = 624.
+  3. 625 − 624 = 1 → jawaban A.
 
 ---
 
@@ -1646,6 +2086,11 @@
 - **B** — Benar; sifat jumlah n ganjil pertama = n²; 8² = 64.
 - **C** — Salah hitung; 8×7 = 56 ≠ 64.
 - **D** — **Benar.** Strategi komutatif+asosiatif menghasilkan pola yang sama dengan rumus n².
+- **Konsep kunci:** Komutatif dan asosiatif (pasangan ramah) menghasilkan pola sama dengan rumus jumlah bilangan ganjil pertama = n².
+- **Langkah Penyelesaian:**
+  1. Pasangkan ujung-ujung: (1+15), (3+13), (5+11), (7+9); tiap pasang = 16.
+  2. Ada 4 pasangan, jadi 4×16 = 64.
+  3. Sama dengan 8² = 64 → jawaban D.
 
 ---
 
@@ -1664,6 +2109,11 @@
 - **B** — Salah; 99+1−100 = 0, bukan 1.
 - **C** — Salah hitung.
 - **D** — 12×99 saja = 1.188; soal masih ada operasi lain.
+- **Konsep kunci:** Distributif kebalik menggabungkan suku-suku berfaktor sama termasuk yang saling meniadakan.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 12.
+  2. Hitung suku dalam kurung: 99+1−100 = 0.
+  3. Hitung 12×0 = 0 → jawaban A.
 
 ---
 
@@ -1682,6 +2132,11 @@
 - **B** — Salah; 4 tidak dikali 25.
 - **C** — Bentuk salah.
 - **D** — Bentuk salah; 4 bukan jumlah kantong total.
+- **Konsep kunci:** Distributif kebalik menggabungkan dua suku berfaktor sama menjadi satu perkalian.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 25.
+  2. Jumlahkan suku lain: 36+4 = 40.
+  3. Hitung 25×40 = 1.000 kelereng → jawaban A.
 
 ---
 
@@ -1700,6 +2155,11 @@
 - **B** — Benar; (7+3)² = 10² = 100.
 - **C** — Salah; lupa suku 2ab. Hanya 49+9 = 58.
 - **D** — **Benar.** Dua jalan menuju 100; A memperlihatkan struktur distributif lengkap.
+- **Konsep kunci:** Distributif berlapis menurunkan rumus kuadrat jumlah (a+b)² = a²+2ab+b².
+- **Langkah Penyelesaian:**
+  1. Sebar (7+3)(7+3): 7²+2(7×3)+3².
+  2. Hitung 49+42+9 = 100.
+  3. Sama dengan hitung langsung 10×10 = 100 → jawaban D.
 
 ---
 
@@ -1718,6 +2178,11 @@
 - **B** — Salah hitung.
 - **C** — Salah hitung.
 - **D** — 231 = 11×21 (salah).
+- **Konsep kunci:** Distributif memudahkan perkalian dua digit dengan memecah salah satu faktor.
+- **Langkah Penyelesaian:**
+  1. Tulis 17 = 20−3.
+  2. Sebar: 13×(20−3) = 260−39.
+  3. Hasil 221 → jawaban A.
 
 ---
 
@@ -1736,6 +2201,11 @@
 - **B** — Salah hitung.
 - **C** — Salah hitung.
 - **D** — Hasilnya kurang dari 10.000, bukan lebih.
+- **Konsep kunci:** Selisih kuadrat (a+b)(a−b) = a²−b² memudahkan perkalian bilangan yang mengapit bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Tulis 101 = 100+1 dan 99 = 100−1.
+  2. Kalikan: (100+1)(100−1) = 100²−1².
+  3. 10.000−1 = 9.999 → jawaban A.
 
 ---
 
@@ -1754,6 +2224,11 @@
 - **B** — Bukan penerapan keempat sifat; hanya penjumlahan biasa.
 - **C** — Hasil 20 saja; tidak menerapkan empat sifat sekaligus.
 - **D** — Hasil dan struktur tidak menggunakan empat sifat sekaligus.
+- **Konsep kunci:** Beberapa sifat operasi (komutatif, asosiatif, distributif, identitas) bisa dipakai sekaligus untuk menyederhanakan hitungan.
+- **Langkah Penyelesaian:**
+  1. Identitas: kali 1 tidak mengubah nilai.
+  2. Komutatif+asosiatif: susun ulang dan kelompokkan 1×5×2 = 10.
+  3. Distributif: hitung (7+3) = 10 dalam kurung, lalu 10×10 = 100 → jawaban A.
 
 ---
 
@@ -1772,6 +2247,11 @@
 - **B** — Salah; 50 = 1+4+9+16+20 (kalau 25 dianggap 20).
 - **C** — Salah; lupa 25.
 - **D** — Salah hitung.
+- **Konsep kunci:** Komutatif dan asosiatif membantu menjumlahkan deret kuadrat dengan mengelompokkan pasangan mudah.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap kuadrat: 1, 4, 9, 16, 25.
+  2. Kelompokkan (1+4)+(9+16)+25 = 5+25+25.
+  3. Total 55 → jawaban A.
 
 ---
 
@@ -1790,6 +2270,11 @@
 - **B** — 8+12+4 = 24 (salah, harus 8+12−4 = 16).
 - **C** — Salah hitung.
 - **D** — Bukan 0; hasilnya 1.200.
+- **Konsep kunci:** Distributif kebalik berlaku untuk gabungan penjumlahan dan pengurangan dengan faktor sama.
+- **Langkah Penyelesaian:**
+  1. Kenali faktor sama, yaitu 75.
+  2. Hitung suku dalam kurung: 8+12−4 = 16.
+  3. Hitung 75×16 = 1.200 → jawaban A.
 
 ---
 
@@ -1808,6 +2293,11 @@
 - **B** — Bentuk salah; harga dijumlahkan ke kuantitas (salah konsep).
 - **C** — Hanya menghitung beras; gula dan tepung diabaikan.
 - **D** — Faktor 8 ditiga-kalikan jadi 24 (salah; faktor 8 hanya satu kali di distributif kebalik).
+- **Konsep kunci:** Distributif memudahkan menjumlahkan total belanja dengan kuantitas sama tapi harga berbeda.
+- **Langkah Penyelesaian:**
+  1. Kenali kuantitas sama, yaitu 8 kg.
+  2. Jumlahkan harga: 12.000+14.000+9.000 = 35.000.
+  3. Hitung 8×35.000 = 280.000 → jawaban A.
 
 ---
 
@@ -1826,6 +2316,11 @@
 - **B** — Salah; 6+15 = 21 (penjumlahan kurung, bukan perkalian).
 - **C** — Salah hitung.
 - **D** — Salah hitung.
+- **Konsep kunci:** Urutan operasi: hitung isi kurung dulu, baru kalikan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap kurung: 1+2+3 = 6 dan 4+5+6 = 15.
+  2. Kalikan hasilnya: 6×15.
+  3. Hasil 90 → jawaban A.
 
 ---
 
@@ -1844,6 +2339,11 @@
 - **B** — Salah; 4+1×4 = 4+4 = 8, bukan 5 (urutan operasi: kalikan dulu).
 - **C** — Salah penghitungan; 800+4 = 804 tidak sesuai struktur soal.
 - **D** — Bentuk salah total.
+- **Konsep kunci:** Identitas, distributif, dan asosiatif bisa dipakai bersama untuk menyederhanakan bentuk sebelum dihitung.
+- **Langkah Penyelesaian:**
+  1. Identitas: 1×4 = 4.
+  2. Distributif dalam kurung: 4+4 = 8.
+  3. Asosiatif: (25×8)×8 = 200×8 = 1.600 → jawaban A.
 
 ---
 

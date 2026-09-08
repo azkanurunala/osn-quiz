@@ -99,6 +99,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (2−1=1?? lalu jadi 2/10). Sembarang.
 - **D** — Salah. Penyebut dikalikan (5×5=25). Operasi perkalian, padahal yang diminta penjumlahan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut sama — cukup jumlahkan pembilang, penyebut tetap.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama (5).
+  2. Jumlahkan pembilang: 2 + 1 = 3.
+  3. Hasil: 3/5.
 ---
 
 **2.** Hasil dari 3/8 + 2/8 adalah ...
@@ -113,6 +118,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 3/8 + 2/8 = (3+2)/8 = 5/8. Sudah paling sederhana.
 - **D** — Salah. 1/2 = 4/8, padahal hasilnya 5/8. Bukan jawaban operasi ini.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (8).
+  2. Jumlahkan pembilang: 3 + 2 = 5.
+  3. Hasil 5/8, sudah paling sederhana.
 ---
 
 **3.** Hasil dari 7/9 − 2/9 adalah ...
@@ -127,6 +137,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pecahan dibalik. Tidak ada aturan membalik pecahan pada pengurangan.
 - **D** — Salah. Penyebut dijumlahkan (9+9=18). Bukan pengurangan penyebut tetap.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut sama — kurangkan pembilang, penyebut tetap.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (9).
+  2. Kurangkan pembilang: 7 − 2 = 5.
+  3. Hasil: 5/9.
 ---
 
 **4.** Hasil dari 1/2 + 1/3 adalah ...
@@ -141,6 +156,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikalikan (1×2=2). Salah operasi.
 - **D** — Salah. Pembilang dikalikan, penyebut juga dikalikan (1×1=1, 2×3=6). Itu rumus perkalian, bukan penjumlahan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda harus disamakan dulu ke KPK.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(2,3) = 6.
+  2. Ubah: 1/2 = 3/6, 1/3 = 2/6.
+  3. Jumlahkan: 3/6 + 2/6 = 5/6.
 ---
 
 **5.** Hasil dari 1/4 + 2/3 adalah ...
@@ -155,6 +175,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. KPK(4,3) = 12 → 1/4 = 3/12, 2/3 = 8/12. Lalu 3/12 + 8/12 = 11/12.
 - **D** — Salah. Mengalikan pembilang silang dengan penyebut, lalu menjumlahkan asal-asalan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(4,3) = 12.
+  2. Ubah: 1/4 = 3/12, 2/3 = 8/12.
+  3. Jumlahkan: 3/12 + 8/12 = 11/12.
 ---
 
 **6.** Hasil dari 5/6 − 1/4 adalah ...
@@ -169,6 +194,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. KPK(6,4) = 12 → 5/6 = 10/12, 1/4 = 3/12. Lalu 10/12 − 3/12 = 7/12.
 - **D** — Salah. Penyebut dijumlahkan (6+4=10), pembilang dikurangkan (5−1=4)? lalu ditulis 6/10 (asal jumlah).
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(6,4) = 12.
+  2. Ubah: 5/6 = 10/12, 1/4 = 3/12.
+  3. Kurangkan: 10/12 − 3/12 = 7/12.
 ---
 
 **7.** Hasil dari 3/5 − 1/2 adalah ...
@@ -183,6 +213,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (3−1=2) dan penyebut diambil 10 dari KPK. Lupa mengubah pembilang juga.
 - **D** — Salah. Pengurangan dihitung dari arah salah (5/10 − 1/10 = 4/10). Posisi nilai tertukar.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(5,2) = 10.
+  2. Ubah: 3/5 = 6/10, 1/2 = 5/10.
+  3. Kurangkan: 6/10 − 5/10 = 1/10.
 ---
 
 **8.** Hasil dari 2/3 × 3/4 adalah ...
@@ -197,6 +232,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 2/3 × 3/4 = 6/12 = 1/2 (FPB 6 dan 12 adalah 6). Sudah sederhana.
 - **D** — Salah. Pembilang dikalikan silang dengan penyebut (2×4=8, 3×3=9). Aturan perkalian tidak silang.
 
+- **Konsep kunci:** Perkalian pecahan — kalikan pembilang dengan pembilang, penyebut dengan penyebut, lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. Kalikan: 2×3 = 6, 3×4 = 12 → 6/12.
+  2. Sederhanakan (FPB 6): 6/12 = 1/2.
 ---
 
 **9.** Hasil dari 1/2 × 2/5 adalah ...
@@ -211,6 +250,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Setengah benar. 2/10 memang hasil sebelum disederhanakan, tetapi A adalah bentuk sederhananya, jadi A lebih tepat.
 - **D** — Salah. Pembilang dijumlahkan (1+2 mungkin dikira 1?) lalu 1/10. Sembarang.
 
+- **Konsep kunci:** Perkalian pecahan — kalikan lurus, lalu sederhanakan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan: 1×2 = 2, 2×5 = 10 → 2/10.
+  2. Sederhanakan (bagi 2): 2/10 = 1/5.
 ---
 
 **10.** Hasil dari 3 × 2/7 adalah ...
@@ -225,6 +268,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 3 dikalikan dengan penyebut juga (3×2=6, 3×7=21). Bilangan bulat hanya berperan sebagai pembilang.
 - **D** — Salah. Pembilang dianggap 2, penyebut 7×3. Logika sama dengan C tapi pembilang tidak dikali.
 
+- **Konsep kunci:** Perkalian bilangan bulat dengan pecahan — anggap bilangan bulat sebagai n/1.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 menjadi 3/1.
+  2. Kalikan: 3/1 × 2/7 = 6/7.
 ---
 
 **11.** Hasil dari 1/2 ÷ 1/4 adalah ...
@@ -239,6 +286,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pecahan kedua tidak dibalik tetapi pembilang & penyebut dikurangkan: 1/2 − 1/4? Sembarang.
 - **D** — Salah. Pecahan pertama dianggap hasil. Tidak melakukan operasi sama sekali.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan (balik) pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/4 menjadi 4/1.
+  2. Kalikan: 1/2 × 4/1 = 4/2 = 2.
 ---
 
 **12.** Hasil dari 2/3 ÷ 1/2 adalah ...
@@ -253,6 +304,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 2/3 ÷ 1/2 = 2/3 × 2/1 = 4/3. (Sebagai pecahan campuran: 1⅓.)
 - **D** — Salah. Pecahan pertama dibalik bukan kedua (3/2 × 1/2 = 3/4). Aturan terbalik.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/2 menjadi 2/1.
+  2. Kalikan: 2/3 × 2/1 = 4/3.
 ---
 
 **13.** Hasil dari 3/4 ÷ 1/2 adalah ...
@@ -267,6 +322,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pecahan pertama dibalik (4/3 × 1/2 = 4/6 = 2/3). Posisi pembalikan salah.
 - **D** — Salah. Bentuk sebelum disederhanakan dari A salah arah.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/2 menjadi 2/1.
+  2. Kalikan: 3/4 × 2/1 = 6/4 = 3/2.
 ---
 
 **14.** Hasil dari 5/6 + 1/6 adalah ...
@@ -281,6 +340,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (5+1=6) tapi penyebut juga dijumlahkan (6+6=12), lalu dibalik. Asal.
 - **D** — Setengah benar. 6/6 memang hasil mentah, tetapi belum disederhanakan jadi 1, jadi B lebih tepat.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut sama, hasil disederhanakan menjadi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (6).
+  2. Jumlahkan pembilang: 5 + 1 = 6.
+  3. Hasil 6/6 = 1.
 ---
 
 **15.** Hasil dari 7/10 − 3/10 adalah ...
@@ -295,6 +359,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (7+3=10) padahal operasi pengurangan.
 - **D** — Salah. Penyebut dikurangkan (10−10=0). Tak terdefinisi.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut sama, sederhanakan hasil akhir.
+- **Langkah Penyelesaian:**
+  1. Kurangkan pembilang: 7 − 3 = 4.
+  2. Hasil 4/10, sederhanakan (bagi 2) jadi 2/5.
 ---
 
 **16.** Hasil dari 3/4 + 1/8 adalah ...
@@ -309,6 +377,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Hanya pembilang dijumlahkan (3+1=4) dan penyebut diambil 8. Lupa mengubah 3/4 jadi 6/8.
 - **D** — Benar nilainya 7/8 tapi penulisan opsi memuat dua angka — opsi seharusnya bentuk akhir, jadi B yang dipilih.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(4,8) = 8.
+  2. Ubah: 3/4 = 6/8.
+  3. Jumlahkan: 6/8 + 1/8 = 7/8.
 ---
 
 **17.** Hasil dari 4/5 − 2/3 adalah ...
@@ -323,6 +396,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Sama dengan B nilainya, tetapi B adalah bentuk akhir yang ringkas. Opsi seharusnya bentuk hasil.
 - **D** — Salah. Pengurangan dilakukan ke arah salah (10/15 − 4/15 atau angka asal).
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(5,3) = 15.
+  2. Ubah: 4/5 = 12/15, 2/3 = 10/15.
+  3. Kurangkan: 12/15 − 10/15 = 2/15.
 ---
 
 **18.** Hasil dari 1/4 × 4/5 adalah ...
@@ -337,6 +415,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikalikan silang dengan penyebut (1×5=5, 4×4=16??) tapi ditulis 5/20. Hitung asal.
 - **D** — Salah. Pecahan pertama dianggap menghilang (1 dikira tidak mempengaruhi). Padahal 1/4 ≠ 1.
 
+- **Konsep kunci:** Perkalian pecahan — kalikan lurus, lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. Kalikan: 1×4 = 4, 4×5 = 20 → 4/20.
+  2. Sederhanakan (bagi 4): 4/20 = 1/5.
 ---
 
 **19.** Hasil dari 2/5 × 5/6 adalah ...
@@ -351,6 +433,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Setengah benar. Bentuk mentah sebelum disederhanakan. A adalah bentuk akhir.
 - **D** — Salah. Pembilang+pembilang dan penyebut+penyebut. Aturan penjumlahan, bukan perkalian.
 
+- **Konsep kunci:** Perkalian pecahan bisa disederhanakan dengan coret silang sebelum dikalikan.
+- **Langkah Penyelesaian:**
+  1. Coret 5 di pembilang dan penyebut: 2/1 × 1/6.
+  2. Kalikan: 2/1 × 1/6 = 2/6 = 1/3.
 ---
 
 **20.** Hasil dari 3/8 × 4 adalah ...
@@ -365,6 +451,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 4 dijumlahkan dengan pembilang (3+4=7). Operasi penjumlahan, bukan perkalian.
 - **D** — Salah. 4 dikalikan dengan pembilang dan penyebut (12/32). Padahal 4 hanya menggantikan pembilang n/1.
 
+- **Konsep kunci:** Perkalian pecahan dengan bilangan bulat — anggap bilangan bulat sebagai n/1.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 menjadi 4/1.
+  2. Kalikan: 3/8 × 4/1 = 12/8 = 3/2.
 ---
 
 **21.** Hasil dari 6/7 ÷ 2/3 adalah ...
@@ -379,6 +469,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (6−2=4) dan penyebut tetap 7. Itu pengurangan asal, bukan pembagian.
 - **D** — Setengah benar. Bentuk sebelum disederhanakan (18/14). B adalah bentuk sederhananya.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 2/3 menjadi 3/2.
+  2. Kalikan: 6/7 × 3/2 = 18/14 = 9/7.
 ---
 
 **22.** Hasil dari 5/8 ÷ 1/2 adalah ...
@@ -393,6 +487,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pecahan pertama dibalik (8/5 × 1/2 atau lebih buruk: 5/8 dibalik jadi 8/5 saja). Aturan salah.
 - **D** — Setengah benar. Bentuk sebelum sederhana (10/8). B adalah hasil akhirnya.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/2 menjadi 2/1.
+  2. Kalikan: 5/8 × 2/1 = 10/8 = 5/4.
 ---
 
 **23.** Hasil dari 9/10 − 1/5 adalah ...
@@ -407,6 +505,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 1/5 diubah ke /10 tapi pembilang tetap 1 (9/10 − 1/10 = 8/10). Lupa mengubah pembilang juga.
 - **D** — Salah. Penyebut dijumlahkan (10+5=15) padahal harusnya disamakan ke KPK.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(10,5) = 10.
+  2. Ubah: 1/5 = 2/10.
+  3. Kurangkan: 9/10 − 2/10 = 7/10.
 ---
 
 **24.** Hasil dari 1/2 + 1/4 + 1/8 adalah ...
@@ -421,6 +524,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Hanya pembilang dijumlahkan (1+1+1=3) dan penyebut diambil 8. Lupa mengubah masing-masing pembilang.
 - **D** — Salah. Hanya suku ketiga ditulis. Bukan menjumlahkan, asal pilih.
 
+- **Konsep kunci:** Penjumlahan tiga pecahan berpenyebut beda — samakan semuanya ke KPK.
+- **Langkah Penyelesaian:**
+  1. KPK(2,4,8) = 8.
+  2. Ubah: 1/2=4/8, 1/4=2/8, 1/8=1/8.
+  3. Jumlahkan: 4/8+2/8+1/8 = 7/8.
 ---
 
 **25.** Hasil dari 2/3 + 1/6 adalah ...
@@ -435,6 +543,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (2+1=3) dan penyebut diambil 6. Lupa mengubah 2/3 jadi 4/6.
 - **D** — Salah. 1/2 = 3/6, padahal hasilnya 5/6. Asal pilih pecahan sederhana.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(3,6) = 6.
+  2. Ubah: 2/3 = 4/6.
+  3. Jumlahkan: 4/6 + 1/6 = 5/6.
 ---
 
 **26.** Hasil dari 4/9 + 2/9 + 1/9 adalah ...
@@ -449,6 +562,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pecahan dibalik (9/7 dibalik jadi 7/9? lalu 7/3 asal). Asal hitung.
 - **D** — Salah. Pembilang dihitung 6 (mungkin 4+2 saja). Lupa menambah suku ketiga.
 
+- **Konsep kunci:** Penjumlahan tiga pecahan berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (9).
+  2. Jumlahkan pembilang: 4+2+1 = 7.
+  3. Hasil: 7/9.
 ---
 
 **27.** Hasil dari 7/8 − 3/8 adalah ...
@@ -463,6 +581,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Penyebut dijumlahkan (8+8=16). Operasi penyebut salah.
 - **D** — Salah. Pembilang dijumlahkan (7+3=10) padahal pengurangan. Tanda operasi terbalik.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut sama, sederhanakan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Kurangkan pembilang: 7 − 3 = 4.
+  2. Hasil 4/8, sederhanakan jadi 1/2.
 ---
 
 **28.** Hasil dari 5/12 + 1/4 adalah ...
@@ -477,6 +599,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (5+1=6) dan penyebut diambil 12. Lupa mengubah 1/4 jadi 3/12.
 - **D** — Salah. Salah satu suku diabaikan. Tidak menjumlahkan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(12,4) = 12.
+  2. Ubah: 1/4 = 3/12.
+  3. Jumlahkan: 5/12+3/12 = 8/12, sederhanakan jadi 2/3.
 ---
 
 **29.** Hasil dari 3/4 × 8/9 adalah ...
@@ -491,6 +618,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang+pembilang dan penyebut+penyebut (3+8=11, 4+9=13). Aturan asal.
 - **D** — Salah. Hanya 3 dicoret tanpa logika, hasil ngarang.
 
+- **Konsep kunci:** Perkalian pecahan bisa disederhanakan dengan coret silang.
+- **Langkah Penyelesaian:**
+  1. Coret: 3/9 = 1/3, 8/4 = 2.
+  2. Kalikan: 1/3 × 2 = 2/3.
 ---
 
 **30.** Hasil dari 5/6 × 12 adalah ...
@@ -505,6 +636,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 12 dikalikan dengan penyebut (6×12=72), pembilang tetap 5. Posisi salah.
 - **D** — Salah. 12 menggantikan penyebut. Padahal 12 = 12/1, masuk sebagai pembilang.
 
+- **Konsep kunci:** Perkalian pecahan dengan bilangan bulat — anggap bilangan bulat sebagai n/1.
+- **Langkah Penyelesaian:**
+  1. Ubah 12 menjadi 12/1.
+  2. Kalikan: 5/6 × 12/1 = 60/6 = 10.
 ---
 
 **31.** Hasil dari 4/5 ÷ 2 adalah ...
@@ -519,6 +654,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 4/5 ÷ 2 = 4/5 × 1/2 = 4/10 = 2/5. Membagi pecahan dengan 2 = mengambil setengahnya.
 - **D** — Salah. Operasi penjumlahan, bukan pembagian. Tanda operasi diabaikan.
 
+- **Konsep kunci:** Pembagian pecahan dengan bilangan bulat — ubah bilangan bulat jadi n/1 lalu balik.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 menjadi 2/1, balik menjadi 1/2.
+  2. Kalikan: 4/5 × 1/2 = 4/10 = 2/5.
 ---
 
 **32.** Hasil dari 6 ÷ 1/2 adalah ...
@@ -533,6 +672,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 6 dianggap dibagi 2 langsung, padahal "dibagi 1/2" ≠ "dibagi 2".
 - **D** — Salah. 6 jadi 1/6, lalu dibagi dibalik jadi 1/12 atau dikalikan asal.
 
+- **Konsep kunci:** Pembagian bilangan bulat dengan pecahan — kalikan dengan kebalikan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/2 menjadi 2/1.
+  2. Kalikan: 6/1 × 2/1 = 12.
 ---
 
 **33.** Hasil dari 7/10 + 1/2 adalah ...
@@ -547,6 +690,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (7+1=8?? ditulis 7) dan penyebut dijumlahkan (10+2). Asal.
 - **D** — Salah. Pembilang dijumlahkan (7+2=9) dan penyebut tetap 10. Lupa mengubah 1/2 jadi 5/10.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(10,2) = 10.
+  2. Ubah: 1/2 = 5/10.
+  3. Jumlahkan: 7/10+5/10 = 12/10 = 6/5.
 ---
 
 **34.** Hasil dari 5/6 − 2/3 adalah ...
@@ -561,6 +709,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (5−2=3) dan penyebut 6 saja. Lupa mengubah 2/3 jadi 4/6.
 - **D** — Salah. Pembilang dijumlahkan (5+2=7) padahal pengurangan. Tanda terbalik.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(6,3) = 6.
+  2. Ubah: 2/3 = 4/6.
+  3. Kurangkan: 5/6 − 4/6 = 1/6.
 ---
 
 **35.** Hasil dari 1/3 × 9 adalah ...
@@ -575,6 +728,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 9 dijumlahkan dengan pembilang (1+9=10). Operasi penjumlahan.
 - **D** — Salah. 9 langsung jadi penyebut. Posisi salah.
 
+- **Konsep kunci:** Perkalian pecahan dengan bilangan bulat — anggap bilangan bulat sebagai n/1.
+- **Langkah Penyelesaian:**
+  1. Ubah 9 menjadi 9/1.
+  2. Kalikan: 1/3 × 9/1 = 9/3 = 3.
 ---
 
 **36.** Hasil dari 4/7 ÷ 4 adalah ...
@@ -589,6 +746,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. 4/7 × 4 = 16/7. Pembagian dianggap perkalian.
 - **D** — Salah. 4/7 × 2 = 8/7. Salah perlakuan ke bilangan bulat.
 
+- **Konsep kunci:** Pembagian pecahan dengan bilangan bulat — ubah jadi n/1 lalu balik.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 menjadi 4/1, balik menjadi 1/4.
+  2. Kalikan: 4/7 × 1/4 = 4/28 = 1/7.
 ---
 
 **37.** Hasil dari 1/2 + 1/4 adalah ...
@@ -603,6 +764,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikali (1×1=1) dan penyebut dikali (2×4=8). Itu rumus perkalian, bukan penjumlahan.
 - **D** — Salah. Pembilang dijumlahkan (1+1=2) dan penyebut tetap 4. Lupa mengubah pembilang 1/2 jadi 2.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(2,4) = 4.
+  2. Ubah: 1/2 = 2/4.
+  3. Jumlahkan: 2/4 + 1/4 = 3/4.
 ---
 
 **38.** Hasil dari 5/9 − 1/3 adalah ...
@@ -617,6 +783,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (5−1=4) dan penyebut tetap 9. Lupa mengubah 1/3 jadi 3/9.
 - **D** — Salah. Pecahan dibalik. Tidak ada aturan membalik pada pengurangan.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(9,3) = 9.
+  2. Ubah: 1/3 = 3/9.
+  3. Kurangkan: 5/9 − 3/9 = 2/9.
 ---
 
 **39.** Hasil dari 3/10 + 1/2 adalah ...
@@ -631,6 +802,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (3+1=4) dan penyebut diambil 10. Lupa mengubah 1/2 jadi 5/10.
 - **D** — Salah. Pecahan kedua dipilih sebagai hasil. Tidak menjumlahkan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(10,2) = 10.
+  2. Ubah: 1/2 = 5/10.
+  3. Jumlahkan: 3/10+5/10 = 8/10, sederhanakan jadi 4/5.
 ---
 
 **40.** Hasil dari 2/3 × 6 adalah ...
@@ -645,6 +821,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Setengah benar. Bentuk mentah 12/3, B adalah bentuk akhir bilangan bulatnya.
 - **D** — Salah. 6 dikalikan dengan penyebut (3×6=18), pembilang tetap 2. Posisi salah.
 
+- **Konsep kunci:** Perkalian pecahan dengan bilangan bulat — anggap bilangan bulat sebagai n/1.
+- **Langkah Penyelesaian:**
+  1. Ubah 6 menjadi 6/1.
+  2. Kalikan: 2/3 × 6/1 = 12/3 = 4.
 ---
 
 **41.** Hasil dari 9/10 ÷ 3 adalah ...
@@ -659,6 +839,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 9/10 dibagi 3 = 3/10 (pembilang dibagi 3).
 - **D** — Salah. Pembagian dianggap perkalian. Operasi terbalik.
 
+- **Konsep kunci:** Pembagian pecahan dengan bilangan bulat — ubah jadi n/1 lalu balik.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 menjadi 3/1, balik menjadi 1/3.
+  2. Kalikan: 9/10 × 1/3 = 9/30 = 3/10.
 ---
 
 **42.** Hasil dari 7/8 + 1/8 + 1/8 adalah ...
@@ -673,6 +857,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Salah satu suku diabaikan. Tidak menjumlahkan semuanya.
 - **D** — Salah. Penyebut dijumlahkan dua kali (8+8=16). Asal.
 
+- **Konsep kunci:** Penjumlahan tiga pecahan berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (8).
+  2. Jumlahkan pembilang: 7+1+1 = 9.
+  3. Hasil: 9/8.
 ---
 
 **43.** Hasil dari 11/12 − 1/3 adalah ...
@@ -687,6 +876,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (11−1=10) dan penyebut tetap 12. Lupa mengubah 1/3 jadi 4/12.
 - **D** — Salah. Suku kedua diabaikan (1/3 dianggap 0). Tidak melakukan pengurangan.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(12,3) = 12.
+  2. Ubah: 1/3 = 4/12.
+  3. Kurangkan: 11/12 − 4/12 = 7/12.
 ---
 
 **44.** Hasil dari 2/5 × 3/4 adalah ...
@@ -701,6 +895,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 2×3 = 6, 5×4 = 20 → 6/20 = 3/10 (FPB 2).
 - **D** — Salah. Penyebut dikurangkan (5−4 atau 5/4 dibalik??). Asal.
 
+- **Konsep kunci:** Perkalian pecahan — kalikan lurus, lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. Kalikan: 2×3 = 6, 5×4 = 20 → 6/20.
+  2. Sederhanakan (bagi 2): 6/20 = 3/10.
 ---
 
 **45.** Hasil dari 3/7 ÷ 1/14 adalah ...
@@ -715,6 +913,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dihitung 6 (mungkin 3+3=6?), penyebut tetap 14. Asal.
 - **D** — Salah. Pecahan pertama dibalik (7/3 × 1/14 = 7/42 = 1/6). Aturan terbalik.
 
+- **Konsep kunci:** Pembagian pecahan — kalikan dengan kebalikan pecahan pembagi.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/14 menjadi 14/1.
+  2. Kalikan: 3/7 × 14/1 = 42/7 = 6.
 ---
 
 **46.** Hasil dari 5/6 + 7/12 adalah ...
@@ -729,6 +931,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (5+7=12) dan penyebut diambil 12. Lupa mengubah 5/6 jadi 10/12.
 - **D** — Salah. Suku pertama diabaikan. Tidak menjumlahkan.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(6,12) = 12.
+  2. Ubah: 5/6 = 10/12.
+  3. Jumlahkan: 10/12 + 7/12 = 17/12.
 ---
 
 **47.** Hasil dari 4/9 + 5/9 adalah ...
@@ -743,6 +950,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Setengah benar. Nilai sama dengan B (yaitu 1), tetapi B menunjukkan langkah lengkap 9/9 = 1.
 - **D** — Salah. Pembilang dikali silang dengan penyebut (4×5=20, 9×... = 18). Asal.
 
+- **Konsep kunci:** Penjumlahan pecahan berpenyebut sama, hasil jadi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (9).
+  2. Jumlahkan pembilang: 4 + 5 = 9.
+  3. Hasil 9/9 = 1.
 ---
 
 **48.** Hasil dari 1/2 × 1/2 × 1/2 adalah ...
@@ -757,6 +969,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dijumlahkan (1+1+1=3) dan penyebut 8 (dikali tiga kali). Aturan campur.
 - **D** — Salah. Penyebut dijumlahkan (2+2+2=6), pembilang 1. Penyebut dikali, bukan dijumlahkan.
 
+- **Konsep kunci:** Perkalian tiga pecahan — kalikan semua pembilang dan semua penyebut.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang: 1×1×1 = 1.
+  2. Kalikan penyebut: 2×2×2 = 8.
+  3. Hasil: 1/8.
 ---
 
 **49.** Hasil dari 2/3 ÷ 4 adalah ...
@@ -771,6 +988,10 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Benar. 2/3 dibagi 4 = 1/6 (penyebut dikalikan 4 dari 3 jadi 12, lalu disederhanakan).
 - **D** — Salah. Pembilang dikali (2×4=8) dan penyebut dikali (3×4=12). Bilangan bulat hanya jadi penyebut pada pembagian.
 
+- **Konsep kunci:** Pembagian pecahan dengan bilangan bulat — ubah jadi n/1 lalu balik.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 menjadi 4/1, balik menjadi 1/4.
+  2. Kalikan: 2/3 × 1/4 = 2/12 = 1/6.
 ---
 
 **50.** Hasil dari 8/15 − 1/3 adalah ...
@@ -785,6 +1006,11 @@ Operasi sederhana, 1–2 langkah, fokus prosedur dasar.
 - **C** — Salah. Pembilang dikurangkan (8−1=7) dan penyebut tetap 15. Lupa mengubah 1/3 jadi 5/15.
 - **D** — Salah. Penyebut dikurangkan (15−3=12), pembilang tetap 8. Itu seperti opsi A versi setengah.
 
+- **Konsep kunci:** Pengurangan pecahan berpenyebut beda — samakan ke KPK dulu.
+- **Langkah Penyelesaian:**
+  1. KPK(15,3) = 15.
+  2. Ubah: 1/3 = 5/15.
+  3. Kurangkan: 8/15 − 5/15 = 3/15, sederhanakan jadi 1/5.
 ---
 
 ## 🔵 TINGKAT PROVINSI (Soal 51–80)
@@ -805,6 +1031,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pembilang dikurangkan (3−2=1) dan penyebut diambil 4 (asal pilih). Lupa menyamakan.
 - **D** — Salah. 15/20 adalah bentuk 3/4 saja (sebelum dikurangi). Lupa melakukan pengurangan.
 
+- **Konsep kunci:** Soal cerita 'sisa' berarti pengurangan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan ke KPK(4,5) = 20: 3/4 = 15/20, 2/5 = 8/20.
+  2. Kurangkan: 15/20 − 8/20 = 7/20 kg.
 ---
 
 **52.** Adi mengisi 2/3 dari botol pertama dan 1/4 dari botol kedua dengan air. Total air yang dia tuang adalah ... (anggap dua botol berukuran sama 1 liter)
@@ -819,6 +1049,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pengurangan dilakukan (8/12 − 3/12 = 5/12 atau 3/12 − ... = 1/12). Operasi salah.
 - **D** — Salah. Mengasumsikan dua botol = 2 liter penuh. Padahal hanya sebagian dari masing-masing.
 
+- **Konsep kunci:** Soal cerita 'total/gabungan' berarti penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan ke KPK(3,4) = 12: 2/3 = 8/12, 1/4 = 3/12.
+  2. Jumlahkan: 8/12 + 3/12 = 11/12 liter.
 ---
 
 **53.** Seorang tukang kayu memotong papan sepanjang 5/6 meter menjadi potongan-potongan sepanjang 1/12 meter. Berapa potongan yang dia dapat?
@@ -833,6 +1067,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pembilang dihitung 5 dan penyebut 2 asal. Atau 5/6 × 12/1 = 60/6 lalu disederhanakan asal.
 - **D** — Salah. Pecahan pertama dibalik (6/5 × 12/1 = 72/5? lalu 12/5). Aturan terbalik.
 
+- **Konsep kunci:** Soal 'berapa potongan' dari panjang total dibagi panjang tiap potong berarti pembagian pecahan.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/12 menjadi 12/1.
+  2. Kalikan: 5/6 × 12/1 = 60/6 = 10 potongan.
 ---
 
 **54.** Sebuah taman luasnya 3/4 hektar. Sebanyak 2/5 dari taman ditanami bunga mawar. Berapa hektar luas bagian mawar?
@@ -847,6 +1085,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Setengah benar. Bentuk mentah 6/20. B sudah sederhana.
 - **D** — Salah. Penjumlahan dilakukan (3/4 + 2/5 disamakan = 15/20 + 8/20 = ... bukan jawaban ini, tetapi distractor "asal" yang menyamai bentuk 20).
 
+- **Konsep kunci:** Kata 'dari' pada pecahan menyatakan operasi perkalian.
+- **Langkah Penyelesaian:**
+  1. Kalikan: 2/5 × 3/4 = 6/20.
+  2. Sederhanakan (bagi 2): 6/20 = 3/10 hektar.
 ---
 
 **55.** Pak Budi memiliki 4 1/2 kg beras. Dia memberi anaknya 1 3/4 kg. Berapa kg beras yang tersisa?
@@ -861,6 +1103,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Bilangan bulat dikurangkan (4−1=3) lalu pecahannya 1/2 − 3/4 dihitung salah (diambil 1/4 dengan logika asal).
 - **D** — Salah. Operasi penjumlahan (4½ + 1¾ = 6¼). Tanda operasi terbalik.
 
+- **Konsep kunci:** Pengurangan pecahan campuran — ubah ke pecahan biasa dulu, lalu samakan penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah: 4½ = 9/2, 1¾ = 7/4.
+  2. Samakan KPK(2,4)=4: 9/2 = 18/4.
+  3. Kurangkan: 18/4 − 7/4 = 11/4 = 2¾ kg.
 ---
 
 **56.** Sebuah kolam diisi air oleh keran A selama 2/3 jam dan ditambah keran B selama 1/6 jam (tidak bersamaan). Berapa jam total waktu pengisian?
@@ -875,6 +1122,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. 1/2 = 3/6, padahal hasilnya 5/6. Salah samakan penyebut.
 - **D** — Salah. Pembilang dijumlahkan dan dianggap = penyebut (3/3 = 1). Asal.
 
+- **Konsep kunci:** Soal cerita 'total waktu' berarti penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. KPK(3,6) = 6.
+  2. Ubah: 2/3 = 4/6.
+  3. Jumlahkan: 4/6 + 1/6 = 5/6 jam.
 ---
 
 **57.** Sebuah resep kue membutuhkan 2/3 cangkir gula. Bu Ana ingin membuat 6 resep. Berapa cangkir gula yang dibutuhkan total?
@@ -889,6 +1141,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. 6 dikalikan dengan penyebut (3×6=18), pembilang tetap 2. Posisi salah.
 - **D** — Setengah benar. Bentuk mentah 12/3, B adalah bentuk akhir (= 4).
 
+- **Konsep kunci:** Soal '(pecahan) untuk n resep' berarti perkalian pecahan dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 6 menjadi 6/1.
+  2. Kalikan: 2/3 × 6/1 = 12/3 = 4 cangkir.
 ---
 
 **58.** Dini berjalan 3/8 km lalu istirahat. Kemudian dia melanjutkan 5/8 km lagi. Total jarak yang dia tempuh adalah ...
@@ -903,6 +1159,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Benar. 3/8 + 5/8 = 8/8 = 1 km.
 - **D** — Salah. Pembilang dikalikan silang (3×5=15) dan penyebut dikali (8×8=64). Aturan perkalian dipakai padahal penjumlahan.
 
+- **Konsep kunci:** Soal cerita 'total jarak' berarti penjumlahan pecahan berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Penyebut sama (8).
+  2. Jumlahkan pembilang: 3 + 5 = 8.
+  3. Hasil 8/8 = 1 km.
 ---
 
 **59.** Seorang petani memiliki 7/8 hektar sawah. Dia menjual 1/4 hektar. Sawah yang tersisa = ...
@@ -917,6 +1178,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pembilang dikurangkan (7−1=6) dan penyebut tetap 8. Lupa mengubah 1/4 jadi 2/8.
 - **D** — Salah. Suku kedua diabaikan dan pembilang dijumlahkan. Asal.
 
+- **Konsep kunci:** Soal cerita 'sisa' berarti pengurangan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. KPK(8,4) = 8.
+  2. Ubah: 1/4 = 2/8.
+  3. Kurangkan: 7/8 − 2/8 = 5/8 hektar.
 ---
 
 **60.** Tiga orang membagi 3/4 kue secara rata. Setiap orang mendapat berapa bagian?
@@ -931,6 +1197,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Setengah benar. Bentuk mentah 3/12. A adalah bentuk akhir (1/4).
 - **D** — Salah. 1/3 berasal dari "1 orang dari 3 orang", padahal yang dibagi adalah kue 3/4, bukan satu kue utuh.
 
+- **Konsep kunci:** Soal 'dibagi rata ke n orang' berarti pembagian pecahan dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 menjadi 3/1, balik menjadi 1/3.
+  2. Kalikan: 3/4 × 1/3 = 3/12 = 1/4 bagian.
 ---
 
 **61.** 2 1/3 + 1 1/6 = ...
@@ -945,6 +1215,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Penyebut dijumlahkan (3+6=9), pembilang dijumlahkan (1+1=2 setelah disamakan asal). Aturan campur.
 - **D** — Salah. Suku kedua bilangan bulat diabaikan. Asal.
 
+- **Konsep kunci:** Penjumlahan pecahan campuran — ubah ke pecahan biasa, samakan penyebut, ubah balik bila perlu.
+- **Langkah Penyelesaian:**
+  1. Ubah: 2⅓ = 7/3, 1⅙ = 7/6.
+  2. Samakan KPK(3,6)=6: 7/3 = 14/6.
+  3. Jumlahkan: 14/6+7/6 = 21/6 = 3½.
 ---
 
 **62.** 5/6 × 2 2/5 = ...
@@ -959,6 +1234,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. 5×12 = 60 ditulis 12 (asal), penyebut 30 benar tetapi pembilang salah.
 - **D** — Salah. Pecahan campuran tidak diubah dulu. 5/6 × 2/5 = 10/30 = 1/3 (lalu ditulis 10/15 asal).
 
+- **Konsep kunci:** Perkalian melibatkan pecahan campuran — ubah ke pecahan biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah 2⅖ menjadi 12/5.
+  2. Kalikan (coret 5): 5/6 × 12/5 = 60/30 = 2.
 ---
 
 **63.** 4 1/2 ÷ 1 1/2 = ...
@@ -973,6 +1252,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Perkalian dipakai (4½ × 1⅓ atau asal). Operasi salah.
 - **D** — Salah. Pecahan pertama dibalik (2/9 × 3/2 = 6/18 = 1/3, atau asal jadi 4/3). Aturan terbalik.
 
+- **Konsep kunci:** Pembagian pecahan campuran — ubah ke pecahan biasa, lalu kalikan dengan kebalikan pembagi.
+- **Langkah Penyelesaian:**
+  1. Ubah: 4½ = 9/2, 1½ = 3/2.
+  2. Balik pembagi lalu kalikan: 9/2 × 2/3 = 18/6 = 3.
 ---
 
 **64.** Sebuah pita panjangnya 6 m dipotong menjadi potongan-potongan sepanjang 3/4 m. Berapa potongan yang dihasilkan?
@@ -987,6 +1270,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Sama dengan A — perkalian, bukan pembagian.
 - **D** — Salah. 6 × 4 / 4 = 24/4 = 6. Lupa mengubah pembagian jadi kalikan dengan kebalikan.
 
+- **Konsep kunci:** Soal 'berapa potongan' berarti pembagian panjang total dengan panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 3/4 menjadi 4/3.
+  2. Kalikan: 6 × 4/3 = 24/3 = 8 potongan.
 ---
 
 **65.** 7/8 − 1/4 + 1/2 = ...
@@ -1001,6 +1288,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Penjumlahan dianggap pengurangan (7/8 − 2/8 − 4/8 = 1/8). Tanda operasi salah baca.
 - **D** — Salah. Pengurangan dianggap penjumlahan (7/8 + 2/8 + 4/8 = 13/8 atau asal jadi 11/8).
 
+- **Konsep kunci:** Operasi campuran penjumlahan/pengurangan dikerjakan berurutan dari kiri ke kanan setelah penyebut disamakan.
+- **Langkah Penyelesaian:**
+  1. Samakan ke /8: 7/8 − 2/8 + 4/8.
+  2. Hitung berurutan: 7 − 2 + 4 = 9.
+  3. Hasil: 9/8 = 1⅛.
 ---
 
 **66.** 1/2 × 2/3 × 3/4 = ...
@@ -1015,6 +1307,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pembilang dijumlahkan (1+2+3=6) dan penyebut dijumlahkan asal (2+3+4=9 dikira 9). Aturan penjumlahan dipakai pada perkalian.
 - **D** — Benar. 1×2×3 = 6, 2×3×4 = 24 → 6/24 = 1/4. Bisa juga coret: (1×2×3)/(2×3×4) = 1/4 langsung.
 
+- **Konsep kunci:** Perkalian tiga pecahan — kalikan semua pembilang dan semua penyebut lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang: 1×2×3 = 6.
+  2. Kalikan penyebut: 2×3×4 = 24.
+  3. Sederhanakan: 6/24 = 1/4.
 ---
 
 **67.** Ayah membeli 5/6 kg gula. Sebanyak 1/3 kg digunakan untuk membuat kue, dan 1/6 kg digunakan untuk teh manis. Berapa kg gula yang tersisa?
@@ -1034,6 +1331,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 
 **Kunci: B**
 
+- **Konsep kunci:** Soal 'sisa setelah dipakai untuk beberapa keperluan' — jumlahkan dulu semua yang terpakai, baru kurangkan dari total.
+- **Langkah Penyelesaian:**
+  1. Total terpakai = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2.
+  2. Sisa = 5/6 − 1/2 = 5/6 − 3/6 = 2/6 = 1/3 kg (mengikuti kunci final: B).
 ---
 
 **68.** 9/10 × 2/3 ÷ 1/5 = ...
@@ -1048,6 +1349,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. 9/10 × 2/3 × 1/5 dianggap (perkalian semua) = 18/150 = 3/25. Lupa membalik pembagi.
 - **D** — Salah. Pembilang dihitung asal (9), penyebut (10×3+5×4 atau asal jadi 50). Hitung sembarang.
 
+- **Konsep kunci:** Operasi campuran perkalian/pembagian dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 9/10 × 2/3 = 18/30 = 3/5.
+  2. Bagi: 3/5 ÷ 1/5 = 3/5 × 5/1 = 15/5 = 3.
 ---
 
 **69.** Sebuah botol bisa diisi 3/4 liter air. Berapa banyak botol yang dibutuhkan untuk menampung 6 liter air?
@@ -1062,6 +1367,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Sama dengan A — perkalian, bukan pembagian.
 - **D** — Salah. 6 × 3/4 = 18/4 (tidak disederhanakan). Operasi terbalik.
 
+- **Konsep kunci:** Soal 'berapa wadah dibutuhkan' berarti pembagian volume total dengan volume tiap wadah.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 3/4 menjadi 4/3.
+  2. Kalikan: 6 × 4/3 = 24/3 = 8 botol.
 ---
 
 **70.** 3 3/4 + 2 1/2 = ...
@@ -1076,6 +1385,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Bilangan bulat dijumlahkan (3+2=5) tapi pecahan dihitung 3/4 − 1/2 = 1/4 (dikurangkan, bukan dijumlahkan). Operasi salah.
 - **D** — Salah. Hanya bilangan bulatnya dijumlahkan dengan kasar (3+2 = 5, + 1 carry = 6) tapi pecahannya asal jadi 1/2. Tidak teliti.
 
+- **Konsep kunci:** Penjumlahan pecahan campuran — ubah ke pecahan biasa, samakan penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah: 3¾ = 15/4, 2½ = 10/4 (setelah disamakan KPK 4).
+  2. Jumlahkan: 15/4 + 10/4 = 25/4 = 6¼.
 ---
 
 **71.** Kakak makan 1/4 dari sebuah pizza. Adik makan 1/6 dari pizza yang sama. Berapa bagian pizza yang sudah dimakan?
@@ -1090,6 +1403,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pembilang dikali (1×1=1) dan penyebut dikali (4×6=24). Itu rumus perkalian, bukan penjumlahan.
 - **D** — Salah. Pembilang dikali silang dan dijumlahkan asal (1×1+1×1=2), penyebut dikali (4×6=24). Aturan campur.
 
+- **Konsep kunci:** Soal cerita 'total dimakan' berarti penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. KPK(4,6) = 12.
+  2. Ubah: 1/4 = 3/12, 1/6 = 2/12.
+  3. Jumlahkan: 3/12 + 2/12 = 5/12.
 ---
 
 **72.** Sebuah mobil menempuh 3/5 perjalanan dalam 1 jam. Berapa jam total waktu yang dibutuhkan untuk seluruh perjalanan?
@@ -1104,6 +1422,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Setengah benar. Sama nilainya dengan B. B adalah bentuk pecahan campuran yang lebih bisa dibaca.
 - **D** — Salah. Pembilang+pembilang dan penyebut+penyebut asal (3+5=8). Aturan asal.
 
+- **Konsep kunci:** Jika sebagian perjalanan diketahui waktunya, waktu keseluruhan dicari dengan membagi 1 (utuh) dengan pecahan bagian tersebut.
+- **Langkah Penyelesaian:**
+  1. Bagian 3/5 perjalanan = 1 jam.
+  2. Total waktu = 1 ÷ 3/5 = 1 × 5/3 = 5/3 jam = 1⅔ jam.
 ---
 
 **73.** 7 1/2 − 2 3/4 = ...
@@ -1118,6 +1440,11 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Bilangan bulat dikurangkan (7−2=5) dan pecahan asal 1/2. Lupa hitung 1/2 − 3/4.
 - **D** — Salah. Penjumlahan dilakukan (7½ + 2¾ = 10¼ atau asal jadi 9¼). Tanda terbalik.
 
+- **Konsep kunci:** Pengurangan pecahan campuran — ubah ke pecahan biasa, samakan penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah: 7½ = 15/2, 2¾ = 11/4.
+  2. Samakan KPK(2,4)=4: 15/2 = 30/4.
+  3. Kurangkan: 30/4 − 11/4 = 19/4 = 4¾.
 ---
 
 **74.** 5 ÷ 2 1/2 = ...
@@ -1132,6 +1459,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pecahan dikurangkan asal jadi 1 (5−2½ = 2½ dilupakan). Operasi salah.
 - **D** — Salah. Perkalian dipakai (5 × 5/2 = 25/2). Operasi terbalik.
 
+- **Konsep kunci:** Pembagian bilangan bulat dengan pecahan campuran — ubah dulu ke pecahan biasa, lalu balik pembagi.
+- **Langkah Penyelesaian:**
+  1. Ubah 2½ menjadi 5/2, balik menjadi 2/5.
+  2. Kalikan: 5 × 2/5 = 10/5 = 2.
 ---
 
 **75.** Hasil dari 1/2 + 2/3 × 3/4 = ...
@@ -1146,6 +1477,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. + dilakukan dulu (1/2 + 2/3 = 7/6), lalu × 3/4 = 21/24 = 7/8 (atau asal jadi 5/8). Urutan operasi salah.
 - **D** — Salah. + dilakukan dulu sehingga 1/2 + 2/3 = 5/4 (salah hitung), lalu × 3/4. Urutan operasi salah dan hitung salah.
 
+- **Konsep kunci:** Urutan operasi hitung pecahan — perkalian dikerjakan lebih dulu daripada penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 2/3 × 3/4 = 6/12 = 1/2.
+  2. Jumlahkan: 1/2 + 1/2 = 1.
 ---
 
 **76.** Ibu membagi 2 1/4 kg gula ke 3 toples sama rata. Setiap toples berisi berapa kg?
@@ -1160,6 +1495,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Setengah benar. Bentuk mentah 9/12 = 3/4. A adalah bentuk akhir.
 - **D** — Salah. Bilangan bulat dibagi (2÷3 dianggap tidak bisa, jadi 1¼ asal). Tidak hitung beneran.
 
+- **Konsep kunci:** Soal 'dibagi rata ke n toples' dari pecahan campuran berarti ubah dulu ke pecahan biasa, lalu bagi.
+- **Langkah Penyelesaian:**
+  1. Ubah 2¼ menjadi 9/4.
+  2. Bagi: 9/4 ÷ 3 = 9/4 × 1/3 = 9/12 = 3/4 kg.
 ---
 
 **77.** Sebuah tali sepanjang 4/5 m dipotong menjadi potongan-potongan sepanjang 1/10 m. Banyak potongan yang dihasilkan adalah ...
@@ -1174,6 +1513,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Pecahan pertama dibalik (5/4 × 1/10 = 5/40 = 1/8, dibalik lagi jadi 8 atau asal 5/8). Aturan terbalik.
 - **D** — Setengah benar. Bentuk mentah 40/5. B = 8 adalah bentuk akhir.
 
+- **Konsep kunci:** Soal 'berapa potongan' berarti pembagian panjang total dengan panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Balik pembagi: 1/10 menjadi 10/1.
+  2. Kalikan: 4/5 × 10/1 = 40/5 = 8 potongan.
 ---
 
 **78.** Hasil dari (1/2 + 1/3) × 6 = ...
@@ -1188,6 +1531,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Distribusi salah (1/2 × 6 + 1/3 × 6 = 3 + 2 = 5 sebenarnya benar; tapi opsi C menulis 1/2 + 2 = 2½ → operasi distribusi tidak konsisten).
 - **D** — Salah. Hanya pecahan pertama × 6 (1/2 × 6 = 3). Suku kedua diabaikan.
 
+- **Konsep kunci:** Kurung dikerjakan lebih dulu sebelum operasi perkalian di luarnya.
+- **Langkah Penyelesaian:**
+  1. Hitung dalam kurung: 1/2 + 1/3 = 3/6 + 2/6 = 5/6.
+  2. Kalikan: 5/6 × 6 = 30/6 = 5.
 ---
 
 **79.** Dalam suatu kelas, 2/5 siswa suka matematika, 1/4 suka IPA, dan sisanya suka olahraga. Berapa bagian siswa yang suka olahraga?
@@ -1202,6 +1549,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Menjawab jumlah mtk+IPA (13/20), bukan sisa.
 - **D** — Salah. Pembilang dikurangkan (2−1=1, +1?) asal jadi 3/20. Hitung sembarang.
 
+- **Konsep kunci:** 'Sisanya' berarti mengurangkan total bagian yang sudah diketahui dari keseluruhan (1).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan mtk + IPA: 2/5 + 1/4 = 8/20 + 5/20 = 13/20.
+  2. Sisa = 1 − 13/20 = 20/20 − 13/20 = 7/20.
 ---
 
 **80.** 3/4 × (1/2 + 2/3) = ...
@@ -1216,6 +1567,10 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 - **C** — Salah. Dalam kurung, pembilang+pembilang dan penyebut+penyebut (1+2=3, 2+3=5). Aturan asal di dalam kurung.
 - **D** — Setengah benar. Distribusi (3/4 × 1/2 + 3/4 × 2/3 = 3/8 + 6/12 = 3/8 + 1/2 = 3/8 + 4/8 = 7/8) sebenarnya menghasilkan 7/8. Nilainya benar tetapi B menampilkan langkah dasar yang lebih sederhana.
 
+- **Konsep kunci:** Kurung dikerjakan lebih dulu, baru dikalikan dengan bilangan di luarnya.
+- **Langkah Penyelesaian:**
+  1. Hitung dalam kurung: 1/2 + 2/3 = 3/6 + 4/6 = 7/6.
+  2. Kalikan: 3/4 × 7/6 = 21/24 = 7/8.
 ---
 
 ## 🔴 TINGKAT NASIONAL (Soal 81–100)
@@ -1236,6 +1591,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. 3/8 adalah luas jagung saja, bukan kandang.
 - **D** — Salah. Hitung sebagai 2/5 + 1/4 = 13/20, lalu sisa (1 − 13/20) = 7/20 dari 1½ = 7/20 × 3/2 = 21/40. Tapi penulisan jawab 9/40 asal dari kesalahan kali.
 
+- **Konsep kunci:** Soal cerita bertingkat — hitung tiap bagian ('dari' berarti kali), lalu kurangkan jumlahnya dari total untuk mencari sisa.
+- **Langkah Penyelesaian:**
+  1. Padi = 2/5 × 1½ = 3/5 ha; Jagung = 1/4 × 1½ = 3/8 ha.
+  2. Samakan KPK(5,8)=40: 3/5=24/40, 3/8=15/40 → jumlah = 39/40.
+  3. Kandang = total (1½ = 60/40) − 39/40 = 21/40 ha.
 ---
 
 **82.** Sebuah keran A bisa mengisi kolam dalam 6 jam. Keran B bisa mengisi kolam yang sama dalam 3 jam. Jika kedua keran dibuka bersamaan, berapa lama kolam akan terisi?
@@ -1250,6 +1610,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Dua waktu dirata-ratakan ((6+3)/2 = 4½). Bukan rumus kerja bersama.
 - **D** — Salah. Pembilang+pembilang dan penyebut+penyebut salah, lalu kebalikan. Asal hitung.
 
+- **Konsep kunci:** Soal 'kerja bersama' — jumlahkan kecepatan kerja (1/waktu) masing-masing, waktu bersama = 1 dibagi jumlah kecepatan.
+- **Langkah Penyelesaian:**
+  1. Kecepatan A = 1/6, B = 1/3.
+  2. Jumlahkan: 1/6 + 2/6 = 3/6 = 1/2 kolam/jam.
+  3. Waktu = 1 ÷ 1/2 = 2 jam.
 ---
 
 **83.** 2/3 + 1/4 ÷ 1/2 − 1/6 = ...
@@ -1264,6 +1629,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Lupa langkah pengurangan terakhir (hanya sampai 2/3 + 1/2 = 7/6 atau asal 3/4).
 - **D** — Salah. Tanda − dianggap + (4/6 + 3/6 + 1/6 = 8/6 = 4/3 atau asal jadi 5/4).
 
+- **Konsep kunci:** Urutan operasi — pembagian dikerjakan dulu sebelum penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu: 1/4 ÷ 1/2 = 1/4 × 2 = 1/2.
+  2. Hitung sisanya: 2/3 + 1/2 − 1/6.
+  3. Samakan KPK=6: 4/6+3/6−1/6 = 6/6 = 1.
 ---
 
 **84.** Andi mengisi gelas dengan air sebanyak 3/4 gelas. Lalu dia minum 2/3 dari isi gelas tersebut. Berapa bagian gelas yang masih berisi air?
@@ -1278,6 +1648,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Diminum = 2/3 × 3/4 = 1/2 benar, tetapi sisa dihitung 11/12 − 1/2 = ... asal jadi 5/12.
 - **D** — Salah. 1/2 = jumlah yang diminum, bukan sisa.
 
+- **Konsep kunci:** 'n dari isi yang sudah ada' berarti perkalian pecahan bertingkat, bukan pengurangan langsung.
+- **Langkah Penyelesaian:**
+  1. Diminum = 2/3 × 3/4 = 6/12 = 1/2 gelas.
+  2. Sisa = 3/4 − 1/2 = 3/4 − 2/4 = 1/4 bagian.
 ---
 
 **85.** Seorang pelari menempuh 3 3/4 km dalam 1/2 jam. Berapa kecepatan rata-rata pelari tersebut (km/jam)?
@@ -1292,6 +1666,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Jarak ditambah waktu (3¾ + 1/2 = 4¼) padahal operasi pembagian.
 - **D** — Salah. Jarak dikurangi waktu (3¾ − 1/2 = 3¼). Operasi salah.
 
+- **Konsep kunci:** Kecepatan rata-rata = jarak dibagi waktu, sehingga menggunakan pembagian pecahan.
+- **Langkah Penyelesaian:**
+  1. Ubah 3¾ menjadi 15/4.
+  2. Bagi: 15/4 ÷ 1/2 = 15/4 × 2/1 = 30/4 = 15/2 = 7½ km/jam.
 ---
 
 **86.** (2/3 − 1/4) × (1/2 + 1/6) = ...
@@ -1306,6 +1684,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Kurung kanan dihitung asal jadi 3/5, lalu 5/12 × 3/5 = 15/60 = 1/4. Hitung dalam kurung kanan salah.
 - **D** — Salah. Penjumlahan dilakukan padahal seharusnya perkalian (5/12 + 2/3 = 5/12 + 8/12 = 13/12, asal jadi 7/12). Operasi salah.
 
+- **Konsep kunci:** Kurung dikerjakan lebih dulu (masing-masing kurung), baru dikalikan.
+- **Langkah Penyelesaian:**
+  1. Kurung kiri: 2/3 − 1/4 = 8/12 − 3/12 = 5/12.
+  2. Kurung kanan: 1/2 + 1/6 = 3/6 + 1/6 = 2/3.
+  3. Kalikan: 5/12 × 2/3 = 10/36 = 5/18.
 ---
 
 **87.** Sebuah kolam diisi air dari keran selama 3/4 jam dengan debit 2/5 m³/jam. Lalu ditambah lagi dengan timba sebanyak 1/8 m³. Total volume air sekarang adalah ...
@@ -1320,6 +1703,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Air dari keran dihitung 3/4 + 2/5 = 15/20 + 8/20 = 23/20, lalu disederhanakan asal jadi 23/40. Operasi pertama (debit × waktu) salah jadi penjumlahan.
 - **D** — Salah. Hitung asal (3/4 × 2/5 = 6/20 = 3/10 benar; tapi + 1/8 = ... 12/40 + 5/40 = 17/40, bukan 13/20). Salah samakan penyebut.
 
+- **Konsep kunci:** 'Debit × waktu' berarti perkalian, hasilnya lalu dijumlahkan dengan volume lain.
+- **Langkah Penyelesaian:**
+  1. Air dari keran = 3/4 × 2/5 = 6/20 = 3/10 m³.
+  2. Samakan KPK(10,8)=40: 3/10=12/40, 1/8=5/40.
+  3. Jumlahkan: 12/40 + 5/40 = 17/40 m³.
 ---
 
 **88.** Bu Tini punya 8 1/4 m kain. Dia memotong menjadi potongan-potongan masing-masing 3/4 m. Berapa potongan yang dihasilkan?
@@ -1334,6 +1722,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Setengah benar. Bentuk mentah 33/4 (= panjang kain dalam bentuk pecahan biasa, bukan hasil pembagian).
 - **D** — Salah. Hanya bilangan bulatnya (8) dijadikan jumlah potongan, mengabaikan 1/4 sisanya.
 
+- **Konsep kunci:** Soal 'berapa potongan' dari pecahan campuran — ubah ke pecahan biasa dulu, lalu bagi dengan panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Ubah 8¼ menjadi 33/4.
+  2. Bagi: 33/4 ÷ 3/4 = 33/4 × 4/3 = 132/12 = 11 potongan.
 ---
 
 **89.** Pak Joko bisa mengecat pagar dalam 4 jam. Pak Karto bisa mengerjakannya dalam 6 jam. Jika mereka bekerja bersama, berapa jam pagar selesai?
@@ -1348,6 +1740,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Dua waktu dijumlahkan (4+6=10). Kalau bekerja bersama justru LEBIH CEPAT.
 - **D** — Salah. Rata-rata waktu ((4+6)/2 = 5). Bukan rumus kerja bersama.
 
+- **Konsep kunci:** Soal 'kerja bersama' — jumlahkan kecepatan kerja masing-masing, waktu bersama = 1 dibagi jumlah kecepatan.
+- **Langkah Penyelesaian:**
+  1. Kecepatan Joko = 1/4, Karto = 1/6.
+  2. Jumlahkan: 3/12 + 2/12 = 5/12 pagar/jam.
+  3. Waktu = 1 ÷ 5/12 = 12/5 = 2⅖ jam.
 ---
 
 **90.** 1/2 × 2/3 + 3/4 ÷ 1/2 − 1/4 = ...
@@ -1362,6 +1759,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. 3/4 ÷ 1/2 dihitung 3/8 (lupa membalik). Lalu 1/3 + 3/8 − 1/4 = ... 8/24 + 9/24 − 6/24 = 11/24, asal jadi 11/12.
 - **D** — Salah. Operasi + dianggap − atau sebaliknya. Salah baca tanda.
 
+- **Konsep kunci:** Urutan operasi campuran — kerjakan × dan ÷ dulu (kiri ke kanan), baru + dan −.
+- **Langkah Penyelesaian:**
+  1. Kalikan/bagi dulu: 1/2×2/3 = 1/3; 3/4÷1/2 = 3/2.
+  2. Hitung: 1/3 + 3/2 − 1/4.
+  3. Samakan KPK(3,2,4)=12: 4/12+18/12−3/12 = 19/12 = 1⁷⁄₁₂.
 ---
 
 **91.** Sebuah toko menjual 3/5 stok beras pada hari pertama dan 1/4 dari sisa stok pada hari kedua. Jika stok awal 80 kg, berapa kg beras yang tersisa setelah hari kedua?
@@ -1376,6 +1778,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Hari 2 dihitung 1/4 × 80 = 20 (dari stok awal, bukan dari sisa). Lalu 32 − ... = 16 asal.
 - **D** — Salah. Menjawab jumlah terjual di hari pertama (48 kg), bukan sisa.
 
+- **Konsep kunci:** Soal 'sisa dari sisa' (bertahap) — hitung tiap tahap berurutan dari sisa sebelumnya, bukan dari stok awal.
+- **Langkah Penyelesaian:**
+  1. Hari 1: terjual = 3/5 × 80 = 48 kg → sisa = 32 kg.
+  2. Hari 2: terjual = 1/4 × 32 = 8 kg → sisa = 32 − 8 = 24 kg.
 ---
 
 **92.** Ani makan 2/5 dari kue tar. Bani makan 1/3 dari sisa kue setelah Ani. Berapa bagian kue tar yang masih tersisa?
@@ -1390,6 +1796,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. 1/5 adalah jumlah yang dimakan Bani, bukan sisa.
 - **D** — Salah. 1/3 = fraksi yang dimakan Bani dari sisa, bukan sisa akhir.
 
+- **Konsep kunci:** '1/3 dari sisa' berarti pecahan dihitung dari sisa setelah orang pertama, bukan dari keseluruhan.
+- **Langkah Penyelesaian:**
+  1. Sisa setelah Ani = 1 − 2/5 = 3/5.
+  2. Bani makan = 1/3 × 3/5 = 1/5.
+  3. Sisa akhir = 3/5 − 1/5 = 2/5 bagian.
 ---
 
 **93.** Pak Hasan punya 5/6 kg cabai. Sebanyak 2/3 dari cabai dia jadikan sambal. Sambal dia bagi rata ke 5 toples. Berapa kg cabai per toples?
@@ -1404,6 +1815,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Sambal = 5/9 (benar), tetapi dibagi 2 atau dibagi-bagi asal jadi 5/18. Pembagian salah.
 - **D** — Salah. Sambal dikalikan 5 (5/9 × 5 = 25/9, asal jadi 25/18). Operasi terbalik.
 
+- **Konsep kunci:** Soal cerita bertingkat — hitung bagian pertama (perkalian 'dari'), lalu bagi hasilnya rata ke beberapa wadah.
+- **Langkah Penyelesaian:**
+  1. Sambal = 2/3 × 5/6 = 10/18 = 5/9 kg.
+  2. Per toples = 5/9 ÷ 5 = 5/9 × 1/5 = 5/45 = 1/9 kg.
 ---
 
 **94.** Sebuah tugas selesai 1/2 oleh Adi dalam 3 hari. Sisanya dikerjakan oleh Adi & Budi bersama, selesai dalam 1 hari. Berapa hari Budi sendirian akan menyelesaikan tugas itu?
@@ -1422,6 +1837,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 
 **Kunci: B** (diasumsikan opsi B = 3 hari)
 
+- **Konsep kunci:** Kecepatan orang kedua dicari dengan mengurangkan kecepatan yang sudah diketahui dari kecepatan gabungan, lalu waktu = 1 dibagi kecepatan itu.
+- **Langkah Penyelesaian:**
+  1. Kecepatan Adi = 1/2 ÷ 3 = 1/6 tugas/hari; kecepatan gabungan (menyelesaikan sisa 1/2 dalam 1 hari) = 1/2 tugas/hari.
+  2. Kecepatan Budi = 1/2 − 1/6 = 1/3 tugas/hari.
+  3. Waktu Budi sendirian = 1 ÷ 1/3 = 3 hari (kunci final mengikuti opsi B pada soal ini).
 ---
 
 **95.** Hasil dari (3/4 − 1/8) × (2 + 1/3) ÷ 7/8 = ...
@@ -1436,6 +1856,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Pembagi tidak dibalik (35/24 × 7/8 = 245/192 ≈ 1,27, asal jadi 1).
 - **D** — Salah. Hanya kurung kiri dihitung (5/8), operasi selanjutnya dilupakan.
 
+- **Konsep kunci:** Kurung dikerjakan dulu, lalu perkalian dan pembagian berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Kurung: 3/4 − 1/8 = 5/8; 2 + 1/3 = 7/3.
+  2. Kalikan: 5/8 × 7/3 = 35/24.
+  3. Bagi: 35/24 ÷ 7/8 = 35/24 × 8/7 = 5/3.
 ---
 
 **96.** Sebuah botol berisi 1 1/2 liter sirup. Setiap gelas membutuhkan 1/8 liter sirup. Jika hanya 2/3 sirup yang akan dipakai, berapa gelas yang bisa dibuat?
@@ -1450,6 +1875,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Sirup yang dipakai = 1 liter; lalu 1 ÷ 1/8 dihitung asal jadi 6. Salah pembagian.
 - **D** — Salah. Sirup yang dipakai dihitung 2/3 × 3/4 = 1/2 (asal), lalu 1/2 ÷ 1/8 = 4. Hitung awal salah.
 
+- **Konsep kunci:** Soal cerita bertingkat — hitung dulu bagian yang benar-benar dipakai (perkalian 'dari'), baru bagi dengan takaran per gelas.
+- **Langkah Penyelesaian:**
+  1. Sirup dipakai = 2/3 × 1½ = 2/3 × 3/2 = 1 liter.
+  2. Banyak gelas = 1 ÷ 1/8 = 8 gelas.
 ---
 
 **97.** Hasil dari 1 − 1/2 − 1/4 − 1/8 − 1/16 = ...
@@ -1464,6 +1893,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Hitung asal (16 − 8 − 4 − 2 − 1 = ... salah jadi 5).
 - **D** — Salah. Lupa mengurangkan suku terakhir (1/16). Hasil sampai 2/16 = 1/8.
 
+- **Konsep kunci:** Pengurangan berurutan beberapa pecahan berpenyebut beda — samakan semua ke penyebut terbesar dulu.
+- **Langkah Penyelesaian:**
+  1. Samakan ke /16: 16/16, 8/16, 4/16, 2/16, 1/16.
+  2. Kurangkan berurutan: 16−8−4−2−1 = 1.
+  3. Hasil: 1/16.
 ---
 
 **98.** Tiga teman patungan membeli pizza seharga Rp120.000. Ani membayar 1/3, Budi membayar 1/4, sisanya dibayar Cici. Berapa rupiah yang Cici bayar?
@@ -1478,6 +1912,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Menjawab Ani+Budi (70.000), bukan Cici.
 - **D** — Salah. Memilih nilai Ani saja (40.000), bukan Cici.
 
+- **Konsep kunci:** 'Sisanya' pada soal uang berarti mengurangkan total dengan jumlah bagian yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Ani = 1/3 × 120.000 = 40.000; Budi = 1/4 × 120.000 = 30.000.
+  2. Cici = 120.000 − 40.000 − 30.000 = 50.000.
 ---
 
 **99.** Pak Wira punya kebun berbentuk persegi panjang dengan panjang 2 1/2 m dan lebar 1 3/4 m. Berapa luas kebun?
@@ -1492,6 +1930,10 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Sama dengan B (35/8 = 4³⁄₈).
 - **D** — Salah. Pembulatan kasar (2½ ≈ 2, 1¾ ≈ 2, lalu 2×2 = 4). Tidak akurat.
 
+- **Konsep kunci:** Luas persegi panjang dengan sisi pecahan campuran dihitung dengan mengubah ke pecahan biasa dulu, baru dikalikan.
+- **Langkah Penyelesaian:**
+  1. Ubah: 2½ = 5/2, 1¾ = 7/4.
+  2. Kalikan: 5/2 × 7/4 = 35/8 = 4⅜ m².
 ---
 
 **100.** Pak Tono membeli 3 1/2 kg tepung. Dia memakai 1/4 untuk membuat kue dan 2/7 untuk membuat roti. Sisa tepung digunakan untuk pancake. Berapa kg tepung untuk pancake?
@@ -1506,6 +1948,11 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 - **C** — Salah. Kue dihitung 1/4 dari 1 kg (= 1/4) bukan dari 3½. Lalu sisa hitung asal.
 - **D** — Setengah benar. Bentuk mentah 13/8 = 1⁵⁄₈. A adalah bentuk pecahan campuran yang lebih bisa dibaca.
 
+- **Konsep kunci:** Soal 'sisa setelah dipakai untuk beberapa keperluan' dari pecahan campuran — hitung tiap bagian dulu, samakan penyebut, baru kurangkan dari total.
+- **Langkah Penyelesaian:**
+  1. Total = 3½ = 7/2 kg; Kue = 1/4×7/2 = 7/8 kg; Roti = 2/7×7/2 = 1 kg.
+  2. Samakan ke /8: 7/2=28/8, 1=8/8.
+  3. Sisa = 28/8 − 7/8 − 8/8 = 13/8 = 1⅝ kg.
 ---
 
 # Bagian III — Tabel Kunci & Refleksi

@@ -102,6 +102,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 36 = 6 × 6 adalah **luas** persegi (s × s), bukan keliling. Miskonsepsi rumus tertukar.
 - **C** — Salah. Hanya 2 × 6 = 12, lupa bahwa persegi punya 4 sisi (bukan 2).
 - **D** — Salah. Hanya menulis panjang 1 sisi (s) tanpa dijumlahkan.
+- **Konsep kunci:** Keliling persegi dihitung dengan mengalikan panjang satu sisi dengan 4, karena keempat sisinya sama panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi diketahui s = 6 cm.
+  2. Gunakan rumus K = 4 × s.
+  3. K = 4 × 6 = 24 cm.
 
 ---
 
@@ -116,6 +121,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 4 × s = 4 × 9 = **36 cm**.
 - **C** — Salah. 9 × 9 = 81 adalah **luas** persegi, bukan keliling.
 - **D** — Salah. 3 × 9 = 27, hanya menjumlahkan 3 sisi. Persegi punya 4 sisi.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi s = 9 cm.
+  2. K = 4 × s.
+  3. K = 4 × 9 = 36 cm.
 
 ---
 
@@ -130,6 +140,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 15 = 45, baru 3 sisi.
 - **C** — Benar. K = 4 × 15 = **60 cm**.
 - **D** — Salah. 15 × 15 = 225 adalah **luas** persegi.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi s = 15 cm.
+  2. K = 4 × s.
+  3. K = 4 × 15 = 60 cm.
 
 ---
 
@@ -144,6 +159,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 10 × 4 = 40 adalah **luas**, bukan keliling.
 - **C** — Salah. 2 × 10 + 4 = 24 — lupa mengali 2 untuk lebar juga.
 - **D** — Benar. K = 2 × (p + l) = 2 × (10 + 4) = 2 × 14 = **28 cm**.
+- **Konsep kunci:** Keliling persegi panjang dihitung dengan rumus K = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. Panjang p = 10 cm, lebar l = 4 cm.
+  2. Jumlahkan p + l = 14 cm.
+  3. Kalikan 2: K = 2 × 14 = 28 cm.
 
 ---
 
@@ -158,6 +178,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 12 × 8 = 96 adalah **luas**.
 - **C** — Salah. 2 × 12 + 8 = 32 — lupa mengali 2 untuk lebar.
 - **D** — Benar. K = 2 × (12 + 8) = 2 × 20 = **40 cm**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 12 cm, l = 8 cm.
+  2. p + l = 20 cm.
+  3. K = 2 × 20 = 40 cm.
 
 ---
 
@@ -172,6 +197,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. Hanya p + l = 20, lupa kali 2.
 - **C** — Salah. 14 × 6 = 84 adalah **luas**.
 - **D** — Salah. 2 × 14 + 6 = 34 — lupa mengali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 14 cm, l = 6 cm.
+  2. p + l = 20 cm.
+  3. K = 2 × 20 = 40 cm.
 
 ---
 
@@ -186,6 +216,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (9 + 5) = 2 × 14 = **28 m**.
 - **C** — Salah. 9 × 5 = 45 adalah **luas**.
 - **D** — Salah. 2 × 9 + 5 = 23, lupa mengali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 9 m, l = 5 m.
+  2. p + l = 14 m.
+  3. K = 2 × 14 = 28 m.
 
 ---
 
@@ -200,6 +235,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 20 + 7 = 47, lupa kali 2 untuk lebar.
 - **C** — Benar. K = 2 × (20 + 7) = 2 × 27 = **54 cm**.
 - **D** — Salah. 20 × 7 = 140 adalah **luas**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 20 cm, l = 7 cm.
+  2. p + l = 27 cm.
+  3. K = 2 × 27 = 54 cm.
 
 ---
 
@@ -214,6 +254,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 11 = 33, hanya 3 sisi.
 - **C** — Salah. 11 × 11 = 121 adalah **luas**.
 - **D** — Benar. K = 4 × 11 = **44 cm**.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi s = 11 cm.
+  2. K = 4 × s.
+  3. K = 4 × 11 = 44 cm.
 
 ---
 
@@ -228,6 +273,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 8 × 8 = 64 adalah **luas** (m²), bukan panjang pagar. Pagar mengelilingi → pakai keliling.
 - **C** — Salah. 3 × 8 = 24, hanya 3 sisi.
 - **D** — Benar. Pagar mengelilingi taman → keliling persegi = 4 × 8 = **32 m**.
+- **Konsep kunci:** Pagar yang mengelilingi taman berbentuk persegi sama dengan keliling taman, yaitu K = 4 × s.
+- **Langkah Penyelesaian:**
+  1. Pagar mengelilingi taman → hitung keliling persegi.
+  2. Sisi taman s = 8 m, gunakan K = 4 × s.
+  3. K = 4 × 8 = 32 m.
 
 ---
 
@@ -242,6 +292,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 25 = 50, hanya 2 sisi.
 - **C** — Salah. 3 × 25 = 75, hanya 3 sisi.
 - **D** — Salah. 25 × 25 = 625 adalah **luas** lapangan.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi lapangan s = 25 m.
+  2. K = 4 × s.
+  3. K = 4 × 25 = 100 m.
 
 ---
 
@@ -256,6 +311,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (15 + 10) = 2 × 25 = **50 cm**.
 - **C** — Salah. 15 × 10 = 150 adalah **luas**.
 - **D** — Salah. 2 × 15 + 10 = 40, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 15 cm, l = 10 cm.
+  2. p + l = 25 cm.
+  3. K = 2 × 25 = 50 cm.
 
 ---
 
@@ -270,6 +330,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 32 ÷ 8 = 4, membagi 8 — kebanyakan sisi.
 - **C** — Benar. Karena K = 4s, maka s = K ÷ 4 = 32 ÷ 4 = **8 cm**.
 - **D** — Salah. 32 × 4 = 128, mengali alih-alih membagi. Membalik rumus.
+- **Konsep kunci:** Jika keliling persegi diketahui, sisi dicari dengan membalik rumus: s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. Keliling K = 32 cm.
+  2. s = K ÷ 4.
+  3. s = 32 ÷ 4 = 8 cm.
 
 ---
 
@@ -284,6 +349,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 60 ÷ 2 = 30, membagi 2 alih-alih 4.
 - **C** — Salah. 60 ÷ 5 = 12, salah pembagi.
 - **D** — Salah. 60 ÷ 3 = 20, membagi 3 (lupa keempat sisi).
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 60 cm.
+  2. s = K ÷ 4.
+  3. s = 60 ÷ 4 = 15 cm.
 
 ---
 
@@ -298,6 +368,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. s = 48 ÷ 4 = **12 cm**.
 - **C** — Salah. 48 ÷ 6 = 8, salah pembagi.
 - **D** — Salah. 48 ÷ 8 = 6, salah pembagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 48 cm.
+  2. s = K ÷ 4.
+  3. s = 48 ÷ 4 = 12 cm.
 
 ---
 
@@ -312,6 +387,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 18 = 36, hanya menggandakan p tanpa l.
 - **C** — Benar. K = 2 × (18 + 12) = 2 × 30 = **60 cm**.
 - **D** — Salah. 18 × 12 = 216 adalah **luas**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 18 cm, l = 12 cm.
+  2. p + l = 30 cm.
+  3. K = 2 × 30 = 60 cm.
 
 ---
 
@@ -326,6 +406,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 25 × 15 = 375 adalah **luas**.
 - **C** — Salah. 2 × 25 + 15 = 65, lupa mengali 2 untuk lebar.
 - **D** — Benar. K = 2 × (25 + 15) = 2 × 40 = **80 cm**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 25 cm, l = 15 cm.
+  2. p + l = 40 cm.
+  3. K = 2 × 40 = 80 cm.
 
 ---
 
@@ -340,6 +425,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 17 = 51, hanya 3 sisi.
 - **C** — Salah. 17 × 17 = 289 adalah **luas** kebun (m²), bukan panjang kawat pagar.
 - **D** — Benar. Kawat memagari = keliling. K = 4 × 17 = **68 m**.
+- **Konsep kunci:** Kawat yang memagari kebun berbentuk persegi sama dengan kelilingnya, K = 4 × s.
+- **Langkah Penyelesaian:**
+  1. Kawat mengelilingi kebun → hitung keliling.
+  2. Sisi kebun s = 17 m, gunakan K = 4 × s.
+  3. K = 4 × 17 = 68 m.
 
 ---
 
@@ -354,6 +444,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 5 × 5 = 25 adalah **luas** kolam (m²).
 - **C** — Salah. 2 × 5 = 10, hanya 2 sisi.
 - **D** — Salah. 3 × 5 = 15, hanya 3 sisi.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi kolam s = 5 m.
+  2. K = 4 × s.
+  3. K = 4 × 5 = 20 m.
 
 ---
 
@@ -368,6 +463,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (80 + 50) = 2 × 130 = **260 cm**.
 - **C** — Salah. 2 × 80 + 50 = 230, lupa kali 2 untuk lebar.
 - **D** — Salah. 80 × 50 = 4.000 adalah **luas** meja (cm²).
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 80 cm, l = 50 cm.
+  2. p + l = 130 cm.
+  3. K = 2 × 130 = 260 cm.
 
 ---
 
@@ -382,6 +482,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 28 ÷ 7 = 4, salah pembagi.
 - **C** — Benar. s = K ÷ 4 = 28 ÷ 4 = **7 cm**.
 - **D** — Salah. mengira-ngira, bukan hasil 28 ÷ 4.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 28 cm.
+  2. s = K ÷ 4.
+  3. s = 28 ÷ 4 = 7 cm.
 
 ---
 
@@ -396,6 +501,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. p + l = 10, lupa kali 2.
 - **C** — Salah. 7 × 3 = 21 adalah **luas**.
 - **D** — Salah. 2 × 7 + 3 = 17, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 7 m, l = 3 m.
+  2. p + l = 10 m.
+  3. K = 2 × 10 = 20 m.
 
 ---
 
@@ -410,6 +520,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (28 + 15) = 2 × 43 = **86 m**.
 - **C** — Salah. 2 × 28 + 15 = 71, lupa kali 2 untuk lebar.
 - **D** — Salah. 28 × 15 = 420 adalah **luas** lapangan (m²).
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 28 m, l = 15 m.
+  2. p + l = 43 m.
+  3. K = 2 × 43 = 86 m.
 
 ---
 
@@ -424,6 +539,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 30 = 90, hanya 3 sisi.
 - **C** — Benar. K = 4 × 30 = **120 cm**.
 - **D** — Salah. 30 × 30 = 900 adalah **luas** bingkai (cm²).
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi bingkai s = 30 cm.
+  2. K = 4 × s.
+  3. K = 4 × 30 = 120 cm.
 
 ---
 
@@ -438,6 +558,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 13 × 9 = 117 adalah **luas**.
 - **C** — Salah. 2 × 13 + 9 = 35, lupa kali 2 untuk lebar.
 - **D** — Benar. K = 2 × (13 + 9) = 2 × 22 = **44 cm**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 13 cm, l = 9 cm.
+  2. p + l = 22 cm.
+  3. K = 2 × 22 = 44 cm.
 
 ---
 
@@ -452,6 +577,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 16 + 9 = 41, lupa kali 2 untuk lebar.
 - **C** — Salah. 16 × 9 = 144 adalah **luas**.
 - **D** — Benar. K = 2 × (16 + 9) = 2 × 25 = **50 cm**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 16 cm, l = 9 cm.
+  2. p + l = 25 cm.
+  3. K = 2 × 25 = 50 cm.
 
 ---
 
@@ -466,6 +596,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 100 ÷ 2 = 50, membagi 2.
 - **C** — Salah. 100 ÷ 5 = 20, salah pembagi.
 - **D** — Salah. 100 ÷ 10 = 10, salah pembagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 100 cm.
+  2. s = K ÷ 4.
+  3. s = 100 ÷ 4 = 25 cm.
 
 ---
 
@@ -480,6 +615,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. s = 80 ÷ 4 = **20 cm**.
 - **C** — Salah. 80 ÷ 5 = 16, salah pembagi.
 - **D** — Salah. 80 ÷ 8 = 10, salah pembagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 80 cm.
+  2. s = K ÷ 4.
+  3. s = 80 ÷ 4 = 20 cm.
 
 ---
 
@@ -494,6 +634,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 22 × 14 = 308 adalah **luas**.
 - **C** — Benar. K = 2 × (22 + 14) = 2 × 36 = **72 cm**.
 - **D** — Salah. 2 × 22 + 14 = 58, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 22 cm, l = 14 cm.
+  2. p + l = 36 cm.
+  3. K = 2 × 36 = 72 cm.
 
 ---
 
@@ -508,6 +653,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. p + l = 50, lupa kali 2.
 - **C** — Salah. 30 × 20 = 600 adalah **luas** taman (m²), bukan panjang pagar.
 - **D** — Salah. 2 × 30 + 20 = 80, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Pagar yang mengelilingi taman persegi panjang sama dengan kelilingnya, K = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. Pagar mengelilingi taman → hitung keliling.
+  2. p = 30 m, l = 20 m → p + l = 50 m.
+  3. K = 2 × 50 = 100 m.
 
 ---
 
@@ -522,6 +672,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 4 × 13 = **52 cm**.
 - **C** — Salah. 13 × 13 = 169 adalah **luas**.
 - **D** — Salah. 3 × 13 = 39, hanya 3 sisi.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi s = 13 cm.
+  2. K = 4 × s.
+  3. K = 4 × 13 = 52 cm.
 
 ---
 
@@ -536,6 +691,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 40 = 120, hanya 3 sisi.
 - **C** — Benar. K = 4 × 40 = **160 cm**.
 - **D** — Salah. 40 × 40 = 1.600 adalah **luas** ubin (cm²).
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi ubin s = 40 cm.
+  2. K = 4 × s.
+  3. K = 4 × 40 = 160 cm.
 
 ---
 
@@ -550,6 +710,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 30 − 9 − 9 = 12, lupa membagi 2 dulu.
 - **C** — Salah. 30 ÷ 2 = 15, itu (p + l), bukan l.
 - **D** — Benar. (p + l) = K ÷ 2 = 30 ÷ 2 = 15. Maka l = 15 − p = 15 − 9 = **6 cm**.
+- **Konsep kunci:** Jika keliling dan panjang diketahui, cari lebar dengan l = (K ÷ 2) − p.
+- **Langkah Penyelesaian:**
+  1. K = 30 cm, p = 9 cm.
+  2. Setengah keliling (p + l) = K ÷ 2 = 15 cm.
+  3. l = 15 − 9 = 6 cm.
 
 ---
 
@@ -564,6 +729,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 40 ÷ 2 = 20, lalu salah membagi lagi.
 - **C** — Salah. 40 − 12 × 2 = 16, lupa membagi keliling.
 - **D** — Benar. p + l = 40 ÷ 2 = 20. l = 20 − 12 = **8 cm**.
+- **Konsep kunci:** Jika keliling dan panjang diketahui, cari lebar dengan l = (K ÷ 2) − p.
+- **Langkah Penyelesaian:**
+  1. K = 40 cm, p = 12 cm.
+  2. (p + l) = K ÷ 2 = 20 cm.
+  3. l = 20 − 12 = 8 cm.
 
 ---
 
@@ -578,6 +748,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 36 ÷ 3 = 12, membagi 3.
 - **C** — Salah. 36 ÷ 6 = 6, salah pembagi.
 - **D** — Salah. 36 ÷ 2 = 18, membagi 2.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 36 cm.
+  2. s = K ÷ 4.
+  3. s = 36 ÷ 4 = 9 cm.
 
 ---
 
@@ -592,6 +767,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (24 + 6) = 2 × 30 = **60 cm**.
 - **C** — Salah. 2 × 24 + 6 = 54, lupa kali 2 untuk lebar.
 - **D** — Salah. 24 × 6 = 144 adalah **luas**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 24 cm, l = 6 cm.
+  2. p + l = 30 cm.
+  3. K = 2 × 30 = 60 cm.
 
 ---
 
@@ -606,6 +786,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 19 = 57, hanya 3 sisi.
 - **C** — Benar. K = 4 × 19 = **76 cm**.
 - **D** — Salah. 19 × 19 = 361 adalah **luas**.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi persegi s = 19 cm.
+  2. K = 4 × s.
+  3. K = 4 × 19 = 76 cm.
 
 ---
 
@@ -620,6 +805,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 12 = 24, hanya 2 sisi.
 - **C** — Salah. 12 × 12 = 144 adalah **luas** kebun (m²).
 - **D** — Salah. 3 × 12 = 36, hanya 3 sisi.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi kebun s = 12 m.
+  2. K = 4 × s.
+  3. K = 4 × 12 = 48 m.
 
 ---
 
@@ -634,6 +824,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (35 + 25) = 2 × 60 = **120 cm**.
 - **C** — Salah. 35 × 25 = 875 adalah **luas**.
 - **D** — Salah. 2 × 35 + 25 = 95, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 35 cm, l = 25 cm.
+  2. p + l = 60 cm.
+  3. K = 2 × 60 = 120 cm.
 
 ---
 
@@ -648,6 +843,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 6 × 4 = 24 adalah **luas** kolam (m²).
 - **C** — Benar. K = 2 × (6 + 4) = 2 × 10 = **20 m**.
 - **D** — Salah. 2 × 6 + 4 = 16, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 6 m, l = 4 m.
+  2. p + l = 10 m.
+  3. K = 2 × 10 = 20 m.
 
 ---
 
@@ -662,6 +862,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 72 ÷ 3 = 24, membagi 3.
 - **C** — Salah. 72 ÷ 8 = 9, salah pembagi.
 - **D** — Benar. s = 72 ÷ 4 = **18 cm**.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 72 cm.
+  2. s = K ÷ 4.
+  3. s = 72 ÷ 4 = 18 cm.
 
 ---
 
@@ -676,6 +881,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 56 ÷ 8 = 7, salah pembagi.
 - **C** — Salah. 56 ÷ 7 = 8, salah pembagi.
 - **D** — Benar. s = 56 ÷ 4 = **14 cm**.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 56 cm.
+  2. s = K ÷ 4.
+  3. s = 56 ÷ 4 = 14 cm.
 
 ---
 
@@ -690,6 +900,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. p + l = 13, lupa kali 2.
 - **C** — Salah. 8 × 5 = 40 adalah **luas**.
 - **D** — Salah. 2 × 8 + 5 = 21, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 8 m, l = 5 m.
+  2. p + l = 13 m.
+  3. K = 2 × 13 = 26 m.
 
 ---
 
@@ -704,6 +919,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. (p + l) = K ÷ 2 = 50 ÷ 2 = 25. Maka p = 25 − l = 25 − 10 = **15 cm**.
 - **C** — Salah. 50 − 10 × 2 = 30, lupa membagi keliling.
 - **D** — Salah. 50 ÷ 2 = 25, itu (p + l), bukan p.
+- **Konsep kunci:** Jika keliling dan lebar diketahui, cari panjang dengan p = (K ÷ 2) − l.
+- **Langkah Penyelesaian:**
+  1. K = 50 cm, l = 10 cm.
+  2. (p + l) = K ÷ 2 = 25 cm.
+  3. p = 25 − 10 = 15 cm.
 
 ---
 
@@ -718,6 +938,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 18 × 11 = 198 adalah **luas**.
 - **C** — Benar. K = 2 × (18 + 11) = 2 × 29 = **58 m**.
 - **D** — Salah. 2 × 18 + 11 = 47, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 18 m, l = 11 m.
+  2. p + l = 29 m.
+  3. K = 2 × 29 = 58 m.
 
 ---
 
@@ -732,6 +957,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 2 × 24 = 48, hanya 2 sisi.
 - **C** — Salah. 3 × 24 = 72, hanya 3 sisi.
 - **D** — Salah. 24 × 24 = 576 adalah **luas**.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi saputangan s = 24 cm.
+  2. K = 4 × s.
+  3. K = 4 × 24 = 96 cm.
 
 ---
 
@@ -746,6 +976,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Benar. K = 2 × (26 + 19) = 2 × 45 = **90 cm**.
 - **C** — Salah. 2 × 26 + 19 = 71, lupa kali 2 untuk lebar.
 - **D** — Salah. 26 × 19 = 494 adalah **luas**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 26 cm, l = 19 cm.
+  2. p + l = 45 cm.
+  3. K = 2 × 45 = 90 cm.
 
 ---
 
@@ -760,6 +995,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 100 × 60 = 6.000 adalah **luas**.
 - **C** — Benar. K = 2 × (100 + 60) = 2 × 160 = **320 cm**.
 - **D** — Salah. 2 × 100 + 60 = 260, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 100 cm, l = 60 cm.
+  2. p + l = 160 cm.
+  3. K = 2 × 160 = 320 cm.
 
 ---
 
@@ -774,6 +1014,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 3 × 30 = 90, hanya 3 sisi.
 - **C** — Salah. 30 × 30 = 900 adalah **luas** (m²), bukan panjang pagar.
 - **D** — Benar. Pagar = keliling. K = 4 × 30 = **120 m**.
+- **Konsep kunci:** Pagar yang mengelilingi lapangan persegi sama dengan kelilingnya, K = 4 × s.
+- **Langkah Penyelesaian:**
+  1. Pagar mengelilingi lapangan → hitung keliling.
+  2. Sisi lapangan s = 30 m, gunakan K = 4 × s.
+  3. K = 4 × 30 = 120 m.
 
 ---
 
@@ -788,6 +1033,11 @@ Hitungan langsung 1–2 langkah: rumus K = 4s atau K = 2(p+l), termasuk mencari 
 - **B** — Salah. 40 × 25 = 1.000 adalah **luas**.
 - **C** — Salah. 2 × 40 + 25 = 105, lupa kali 2 untuk lebar.
 - **D** — Benar. K = 2 × (40 + 25) = 2 × 65 = **130 m**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p = 40 m, l = 25 m.
+  2. p + l = 65 m.
+  3. K = 2 × 65 = 130 m.
 
 ---
 
@@ -808,6 +1058,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. Hanya hitung 9 × Rp 12.000 = 108.000, hanya 1 sisi.
 - **C** — Salah. Berhenti di keliling 36, lupa mengali harga.
 - **D** — Salah. 12 × 12.000 = 144.000, hitungan kurang teliti.
+- **Konsep kunci:** Untuk soal biaya pagar, hitung dulu keliling, baru kalikan dengan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling persegi: K = 4 × 9 = 36 m.
+  2. Biaya = K × harga = 36 × Rp 12.000 = Rp 432.000.
 
 ---
 
@@ -822,6 +1076,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. K = 2 × (15 + 10) = 50 m. Biaya = 50 × Rp 25.000 = **Rp 1.250.000**.
 - **C** — Salah. 15 × 10 × 25.000 = 3.750.000, memakai **luas** (m²) bukan keliling.
 - **D** — Salah. Berhenti di keliling 50 m, lupa mengali harga.
+- **Konsep kunci:** Untuk soal biaya pagar, hitung dulu keliling, baru kalikan dengan harga per meter.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (15 + 10) = 50 m.
+  2. Biaya = 50 × Rp 25.000 = Rp 1.250.000.
 
 ---
 
@@ -836,6 +1094,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 64 ÷ 2 = 32, salah membagi.
 - **C** — Benar. Jumlah pohon = Keliling ÷ jarak = 64 ÷ 4 = **16 pohon** (asumsi tepat di tepi).
 - **D** — Salah. 64 ÷ 16 = 4, salah pembagi.
+- **Konsep kunci:** Banyak pohon/tiang di tepi dengan jarak tetap = keliling ÷ jarak antar pohon.
+- **Langkah Penyelesaian:**
+  1. Keliling lapangan K = 64 m (diketahui).
+  2. Pohon = K ÷ jarak = 64 ÷ 4 = 16 pohon.
 
 ---
 
@@ -850,6 +1112,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. Berhenti di keliling 64 m, lupa membagi jarak.
 - **C** — Salah. (p+l) ÷ jarak = 32 ÷ 4 = 8, lupa kali 2 pada keliling.
 - **D** — Salah. K ÷ 2 = 32, salah operasi.
+- **Konsep kunci:** Banyak lampu di sekeliling dengan jarak tetap = keliling ÷ jarak antar lampu.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (20 + 12) = 64 m.
+  2. Lampu = 64 ÷ 4 = 16 lampu.
 
 ---
 
@@ -864,6 +1130,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. Pita di sekeliling = keliling. K = 2 × (30 + 20) = 2 × 50 = **100 cm**.
 - **C** — Salah. 30 × 20 = 600 adalah **luas** (cm²), bukan panjang pita.
 - **D** — Salah. 2 × 30 + 20 = 80, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Pita yang melingkari bingkai sama dengan keliling bingkai itu.
+- **Langkah Penyelesaian:**
+  1. p + l = 30 + 20 = 50 cm.
+  2. K = 2 × 50 = 100 cm.
 
 ---
 
@@ -878,6 +1148,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. (p + l) × 3 = 40 × 3 = 120, lupa kali 2 pada keliling.
 - **C** — Benar. K = 2 × (25 + 15) = 80 m. Total = 80 × 3 = **240 m**.
 - **D** — Salah. 25 × 15 × 3 = 1.125, memakai **luas** dikali 3.
+- **Konsep kunci:** Jarak lari beberapa putaran = keliling × banyak putaran.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (25 + 15) = 80 m.
+  2. Total jarak = K × 3 = 80 × 3 = 240 m.
 
 ---
 
@@ -892,6 +1166,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 3 × 1,5 = 4,5, hanya 3 sisi.
 - **C** — Salah. 1,5 × 1,5 = 2,25 adalah **luas** (m²).
 - **D** — Benar. K = 4 × 1,5 = **6 m**.
+- **Konsep kunci:** Keliling persegi = 4 × panjang sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi taman s = 1,5 m.
+  2. K = 4 × s = 4 × 1,5 = 6 m.
 
 ---
 
@@ -906,6 +1184,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 2,5 × 1,5 = 3,75 adalah **luas**.
 - **C** — Salah. 2 × 2,5 + 1,5 = 6,5, lupa kali 2 untuk lebar.
 - **D** — Benar. K = 2 × (2,5 + 1,5) = 2 × 4 = **8 m**.
+- **Konsep kunci:** Keliling persegi panjang = 2 × (p + l).
+- **Langkah Penyelesaian:**
+  1. p + l = 2,5 + 1,5 = 4 m.
+  2. K = 2 × 4 = 8 m.
 
 ---
 
@@ -920,6 +1202,11 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. Hanya p + l = 2 + 80 = 82, tanpa menyamakan satuan (mencampur m dan cm).
 - **C** — Salah. 2 × 80 = 160, salah operasi dan satuan.
 - **D** — Salah. 200 × 80 ÷ 10.000 atau hitungan acak, bukan keliling.
+- **Konsep kunci:** Sebelum menghitung keliling, satuan yang berbeda (m dan cm) harus disamakan dulu.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 2 m = 200 cm.
+  2. K = 2 × (200 + 80) = 2 × 280 = 560 cm.
+  3. 560 cm = 5,6 m.
 
 ---
 
@@ -934,6 +1221,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. s = K ÷ 4 = 144 ÷ 4 = **36 cm**.
 - **C** — Salah. 144 ÷ 3 = 48, membagi 3.
 - **D** — Salah. 144 ÷ 6 = 24, salah pembagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 144 cm.
+  2. s = K ÷ 4 = 144 ÷ 4 = 36 cm.
 
 ---
 
@@ -948,6 +1239,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 80 − 25 × 2 = 30, lupa membagi keliling.
 - **C** — Benar. (p + l) = K ÷ 2 = 80 ÷ 2 = 40. Maka l = 40 − p = 40 − 25 = **15 m**.
 - **D** — Salah. (80 ÷ 4) = 20, dikurangi sembarang.
+- **Konsep kunci:** Jika keliling dan panjang diketahui, cari lebar dengan l = (K ÷ 2) − p.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 80 ÷ 2 = 40 m.
+  2. l = 40 − 25 = 15 m.
 
 ---
 
@@ -962,6 +1257,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 96 − 18 = 78, lupa membagi 2.
 - **C** — Salah. 96 − 18 × 2 = 60, lupa membagi keliling.
 - **D** — Salah. 96 ÷ 2 = 48, itu (p + l), bukan p.
+- **Konsep kunci:** Jika keliling dan lebar diketahui, cari panjang dengan p = (K ÷ 2) − l.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 96 ÷ 2 = 48 m.
+  2. p = 48 − 18 = 30 m.
 
 ---
 
@@ -976,6 +1275,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. K = 2 × (16 + 9) = 50 m = 5.000 cm. Jumlah bambu = 5.000 ÷ 50 = **100 batang**.
 - **C** — Salah. K × 4 = 200, salah operasi.
 - **D** — Salah. K ÷ 2 = 25 m, lupa konversi cm.
+- **Konsep kunci:** Untuk mencari jumlah tiang/bambu berjarak tetap, samakan dulu satuan jarak dengan satuan keliling, baru bagi.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (16 + 9) = 50 m = 5.000 cm.
+  2. Bambu = 5.000 ÷ 50 = 100 batang.
 
 ---
 
@@ -990,6 +1293,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 3 × 7 = 21, hanya 3 sisi tanpa kali 3 lapis.
 - **C** — Benar. K = 4 × 7 = 28 m. Total kawat = 28 × 3 lapis = **84 m**.
 - **D** — Salah. Berhenti di 1 lapis = 28 m, lupa kali 3.
+- **Konsep kunci:** Pagar berlapis berarti keliling dikalikan banyak lapis.
+- **Langkah Penyelesaian:**
+  1. K = 4 × 7 = 28 m (1 lapis).
+  2. Total kawat = 28 × 3 = 84 m.
 
 ---
 
@@ -1004,6 +1311,11 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 64 ÷ 2 = 32, itu (p + l), bukan p.
 - **C** — Salah. (64 ÷ 4) = 16, salah pembagi (memakai sisi persegi langsung).
 - **D** — Benar. K persegi = 4 × 16 = 64 m. (p + l) = 64 ÷ 2 = 32. p = 32 − 12 = **20 m**.
+- **Konsep kunci:** Jika dua bangun memiliki keliling sama, hitung dulu keliling bangun yang diketahui, lalu pakai nilai itu untuk bangun lainnya.
+- **Langkah Penyelesaian:**
+  1. Keliling persegi = 4 × 16 = 64 m.
+  2. (p + l) lapangan = 64 ÷ 2 = 32 m.
+  3. p = 32 − 12 = 20 m.
 
 ---
 
@@ -1018,6 +1330,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. K × 2 = 228, baru 2 lapis. Lupa total 4.
 - **C** — Salah. 35 × 22 = 770 adalah **luas**, bukan kawat.
 - **D** — Benar. K = 2 × (35 + 22) = 2 × 57 = 114 m. Kawat = 114 × 4 = **456 m**.
+- **Konsep kunci:** Pagar berlapis berarti keliling dikalikan banyak lapis.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (35 + 22) = 114 m (1 lapis).
+  2. Total kawat = 114 × 4 = 456 m.
 
 ---
 
@@ -1032,6 +1348,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 200 ÷ 8 = 25, salah pembagi.
 - **C** — Salah. 200 ÷ 2 = 100, membagi 2.
 - **D** — Salah. 200 ÷ 5 = 40, salah pembagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 200 cm.
+  2. s = K ÷ 4 = 200 ÷ 4 = 50 cm.
 
 ---
 
@@ -1049,6 +1369,11 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. K = 2 × (50 + 30) = 160 m. Total = 160 × 5 = 800 m = **0,8 km**.
 - **C** — Salah. Lupa konversi, 800 m dianggap 8 km. Geser koma 4 angka, harusnya 3.
 - **D** — Salah. Hanya 1 keliling 160 m = 0,16 km, lupa kali 5 putaran.
+- **Konsep kunci:** Jarak lari beberapa putaran dalam km perlu dikonversi dari meter ke km (1 km = 1.000 m) setelah dikalikan jumlah putaran.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (50 + 30) = 160 m.
+  2. Total = 160 × 5 = 800 m.
+  3. Konversi: 800 m = 0,8 km.
 
 ---
 
@@ -1063,6 +1388,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. (p + l) × 4 = 30 × 4 = 120, lupa kali 2 pada keliling.
 - **C** — Benar. K = 2 × (18 + 12) = 60 m. Total paku = 60 × 4 = **240 paku**.
 - **D** — Salah. 18 × 12 × 4 = 864, memakai **luas** × 4.
+- **Konsep kunci:** Untuk soal kebutuhan per meter pagar, kalikan keliling dengan banyak kebutuhan tiap meter.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (18 + 12) = 60 m.
+  2. Paku = 60 × 4 = 240 paku.
 
 ---
 
@@ -1077,6 +1406,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 8 ÷ 2 = 4, membagi 2.
 - **C** — Salah. 8 ÷ 8 = 1, salah pembagi.
 - **D** — Salah. 8 × 2 = 16, mengali alih-alih membagi.
+- **Konsep kunci:** Sisi persegi dari keliling dicari dengan s = K ÷ 4.
+- **Langkah Penyelesaian:**
+  1. K = 8 m.
+  2. s = K ÷ 4 = 8 ÷ 4 = 2 m.
 
 ---
 
@@ -1091,6 +1424,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. (p + l) = K ÷ 2 = 70 ÷ 2 = 35. Maka p = 35 − 15 = **20 m**.
 - **C** — Salah. 70 ÷ 2 = 35, itu (p + l), bukan p.
 - **D** — Salah. 70 − 15 × 2 = 40, lupa membagi keliling.
+- **Konsep kunci:** Jika keliling dan lebar diketahui, cari panjang dengan p = (K ÷ 2) − l.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 70 ÷ 2 = 35 m.
+  2. p = 35 − 15 = 20 m.
 
 ---
 
@@ -1105,6 +1442,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. (2×24 + 16) ÷ 4 = 64 ÷ 4 = 16, atau hitung lain yang lupa salah satu sisi.
 - **C** — Benar. K = 2 × (24 + 16) = 80 m. Pohon = 80 ÷ 4 = **20 pohon**.
 - **D** — Salah. 24 × 16 ÷ 4 = 96, memakai **luas** ÷ jarak.
+- **Konsep kunci:** Banyak pohon di tepi dengan jarak tetap = keliling ÷ jarak antar pohon.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (24 + 16) = 80 m.
+  2. Pohon = 80 ÷ 4 = 20 pohon.
 
 ---
 
@@ -1119,6 +1460,11 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. K ÷ 4 = 15, salah karena bukan persegi.
 - **C** — Salah. p = 20 (jawaban panjang), bukan lebar.
 - **D** — Benar. Misal l = x, maka p = 2x. K = 2(p + l) = 2(2x + x) = 6x = 60 → x = **10 cm**. Jadi lebar = 10 cm (dan panjang = 20 cm).
+- **Konsep kunci:** Jika panjang dan lebar dinyatakan sebagai perbandingan (misal p = 2 × l), gunakan permisalan aljabar sederhana untuk mencari nilainya dari keliling.
+- **Langkah Penyelesaian:**
+  1. Misalkan l = x, maka p = 2x.
+  2. K = 2(p + l) = 2(3x) = 6x = 60.
+  3. x = 10, jadi lebar = 10 cm.
 
 ---
 
@@ -1133,6 +1479,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 80 × 50 ÷ 4 = 1.000, memakai **luas** ÷ kecepatan.
 - **C** — Salah. Hanya keliling 260 m ÷ 2 = 130, salah pembagi.
 - **D** — Benar. K = 2 × (80 + 50) = 260 m. Waktu = jarak ÷ kecepatan = 260 ÷ 4 = **65 detik**.
+- **Konsep kunci:** Untuk mencari waktu satu putaran, hitung dulu keliling sebagai jarak tempuh, lalu bagi dengan kecepatan.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (80 + 50) = 260 m.
+  2. Waktu = jarak ÷ kecepatan = 260 ÷ 4 = 65 detik.
 
 ---
 
@@ -1147,6 +1497,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. K ÷ 2 = 16, salah pembagi.
 - **C** — Salah. K ÷ 8 = 4, salah pembagi.
 - **D** — Salah. Itu nilai keliling persegi panjang, bukan sisi persegi.
+- **Konsep kunci:** Jika dua bangun memiliki keliling sama, hitung dulu keliling salah satu bangun, lalu gunakan nilai itu untuk bangun lainnya.
+- **Langkah Penyelesaian:**
+  1. K persegi panjang = 2 × (10 + 6) = 32 cm.
+  2. Sisi persegi = K ÷ 4 = 32 ÷ 4 = 8 cm.
 
 ---
 
@@ -1161,6 +1515,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. K = 2 × (45 + 30) = 150 m. Bendera = 150 ÷ 5 = **30 bendera**.
 - **C** — Salah. K × 2 ÷ 5 = 60, salah operasi.
 - **D** — Salah. 45 × 30 ÷ 5 = 270, memakai **luas** ÷ jarak.
+- **Konsep kunci:** Banyak benda di tepi dengan jarak tetap = keliling ÷ jarak.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (45 + 30) = 150 m.
+  2. Bendera = 150 ÷ 5 = 30 bendera.
 
 ---
 
@@ -1175,6 +1533,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. (p + l) = 110, lupa kali 2 untuk keliling, lupa kali 3.
 - **C** — Benar. K = 2 × (70 + 40) = 220 m. Kawat = 220 × 3 = **660 m**.
 - **D** — Salah. 70 × 40 × 3 = 8.400, memakai **luas** × 3.
+- **Konsep kunci:** Pagar berlapis berarti keliling dikalikan banyak lapis.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (70 + 40) = 220 m (1 lapis).
+  2. Total kawat = 220 × 3 = 660 m.
 
 ---
 
@@ -1189,6 +1551,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. 8 dm dianggap 8 cm, lupa konversi (1 dm = 10 cm).
 - **C** — Salah. Konversi terlalu jauh: 8 × 100 = 800 (anggap 1 dm = 100 cm). Salah faktor.
 - **D** — Salah. 32 × 10 = 320, mengubah keliling ke cm tetapi belum dibagi 4.
+- **Konsep kunci:** Saat satuan hasil yang diminta berbeda dari satuan soal, hitung dulu dengan satuan asal, baru konversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. s = K ÷ 4 = 32 ÷ 4 = 8 dm.
+  2. Konversi: 8 dm = 8 × 10 = 80 cm.
 
 ---
 
@@ -1203,6 +1569,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Benar. K = 2 × (60 + 45) = 2 × 105 = **210 cm**.
 - **C** — Salah. 2 × 60 + 45 = 165, lupa kali 2 untuk lebar.
 - **D** — Salah. 60 × 45 = 2.700 adalah **luas**.
+- **Konsep kunci:** Pita yang melapisi sekeliling bingkai sama dengan keliling bingkai itu.
+- **Langkah Penyelesaian:**
+  1. p + l = 60 + 45 = 105 cm.
+  2. K = 2 × 105 = 210 cm.
 
 ---
 
@@ -1217,6 +1587,10 @@ Soal cerita aplikatif: pagar dengan biaya, paku/pohon di tepi, satuan berbeda, d
 - **B** — Salah. K ÷ 5 = 60, salah pembagi (mengira jarak 5 m).
 - **C** — Benar. K = 2 × (90 + 60) = 300 m. Lampu = 300 ÷ 6 = **50 lampu**.
 - **D** — Salah. 90 × 60 ÷ 6 = 900, memakai **luas** ÷ jarak.
+- **Konsep kunci:** Banyak lampu di tepi dengan jarak tetap = keliling ÷ jarak antar lampu.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (90 + 60) = 300 m.
+  2. Lampu = 300 ÷ 6 = 50 lampu.
 
 ---
 
@@ -1247,6 +1621,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 396 dari pembulatan kasar.
 - **C** — Salah. 459 = 27 × 17, salah parsing.
 - **D** — Benar. (p + l) = 84 ÷ 2 = 42. p − l = 6 → p = (42+6)/2 = 24, l = (42−6)/2 = 18. Luas = 24 × 18 = **432 cm²**.
+- **Konsep kunci:** Jika diketahui keliling dan selisih panjang-lebar, cari (p + l) dari keliling dulu, lalu pakai jumlah dan selisih itu untuk mendapatkan p dan l sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 84 ÷ 2 = 42 cm.
+  2. Karena p − l = 6: p = (42+6)÷2 = 24, l = (42−6)÷2 = 18.
+  3. Luas = p × l = 24 × 18 = 432 cm².
 
 ---
 
@@ -1261,6 +1640,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. Selisih 25 − 5 = 20, bukan 5.
 - **C** — Salah. Jika p = l = 15, itu persegi (selisih 0), bukan 5.
 - **D** — Benar. (p + l) = 60 ÷ 2 = 30. p = l + 5. (l + 5) + l = 30 → 2l = 25 → l = 12,5; p = **17,5; lebar = 12,5 cm**.
+- **Konsep kunci:** Jika panjang dinyatakan “lebih besar sekian” dari lebar, misalkan lebar = x, panjang = x + selisih, lalu masukkan ke rumus keliling.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 60 ÷ 2 = 30 cm.
+  2. Misal l = x, p = x + 5 → x + (x+5) = 30 → 2x = 25 → x = 12,5.
+  3. Lebar = 12,5 cm, panjang = 17,5 cm.
 
 ---
 
@@ -1275,6 +1659,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. Berhenti di keliling 130 m, tidak lanjut hitung papan.
 - **C** — Salah. Berhenti di jumlah tiang 26, lupa kali 4 papan.
 - **D** — Salah. 26 × 2 = 52, salah perkalian jumlah papan per segmen.
+- **Konsep kunci:** Untuk soal bertingkat (jumlah tiang lalu jumlah papan antar tiang), hitung dulu jumlah segmen dari keliling ÷ jarak tiang, baru kalikan dengan papan tiap segmen.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (40 + 25) = 130 m.
+  2. Segmen tiang = 130 ÷ 5 = 26.
+  3. Papan = 26 × 4 = 104 papan.
 
 ---
 
@@ -1296,6 +1685,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Benar. Luas persegi = s² = 144 → s = √144 = 12 m. Keliling = 4 × 12 = **48 m**.
 - **C** — Salah. 3 × 12 = 36, hanya 3 sisi.
 - **D** — Salah. 12 adalah sisi, bukan keliling.
+- **Konsep kunci:** Jika hanya luas persegi yang diketahui, cari dulu sisi dengan akar kuadrat luas, baru hitung keliling.
+- **Langkah Penyelesaian:**
+  1. Sisi = √Luas = √144 = 12 m.
+  2. K = 4 × s = 4 × 12 = 48 m.
 
 ---
 
@@ -1310,6 +1703,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 8 m adalah lebar, bukan keliling.
 - **C** — Benar. Lebar = Luas ÷ panjang = 96 ÷ 12 = 8 m. K = 2 × (12 + 8) = 2 × 20 = **40 m**.
 - **D** — Salah. 2 × 12 + 8 = 32, lupa kali 2 untuk lebar.
+- **Konsep kunci:** Jika luas dan panjang diketahui, cari dulu lebar dengan lebar = luas ÷ panjang, baru hitung keliling.
+- **Langkah Penyelesaian:**
+  1. Lebar = Luas ÷ panjang = 96 ÷ 12 = 8 m.
+  2. K = 2 × (12 + 8) = 40 m.
 
 ---
 
@@ -1324,6 +1721,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 96 × 5/8 = 60, lupa keliling adalah 2(p+l), bukan langsung p+l.
 - **C** — Salah. Lebar = 3 × 6 = 18 m (jawaban lebar, bukan panjang).
 - **D** — Salah. (p + l) = 48 m, bukan panjang saja.
+- **Konsep kunci:** Untuk soal perbandingan panjang dan lebar, bagi setengah keliling sesuai jumlah bagian perbandingan untuk mendapat nilai tiap bagian.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 96 ÷ 2 = 48 m.
+  2. Nilai 1 bagian = 48 ÷ (5+3) = 6 m.
+  3. Panjang = 5 × 6 = 30 m.
 
 ---
 
@@ -1345,6 +1747,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Benar. K = 2 × (60 + 40) = 200 m. Karena jarak 5 m dan 60, 40 keduanya kelipatan 5, sudut otomatis terisi. Pohon = 200 ÷ 5 = **40 pohon**.
 - **C** — Salah. Hitungan asal: (60 ÷ 5) + (40 ÷ 5) × 2 = 12 + 16 − 4 = 24, mencoba kurangi sudut tapi salah.
 - **D** — Salah. K ÷ 2 = 100, salah pembagi.
+- **Konsep kunci:** Jika jarak antar pohon/tiang habis membagi kedua sisi, sudut sudah otomatis terisi sehingga jumlah pohon = keliling ÷ jarak, tanpa penyesuaian tambahan.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (60 + 40) = 200 m.
+  2. Pohon = 200 ÷ 5 = 40 pohon.
 
 ---
 
@@ -1359,6 +1765,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. (p + l) = 25, itu setengah keliling.
 - **C** — Benar. p + l = 50 ÷ 2 = 25. l = (2/3)p. Maka p + (2/3)p = (5/3)p = 25 → p = 15 cm. Lebar = (2/3) × 15 = **10 cm**.
 - **D** — Salah. 2 × 15 = 30, asal kali 2.
+- **Konsep kunci:** Jika lebar dinyatakan sebagai pecahan dari panjang, gunakan permisalan agar bisa dijumlahkan dengan panjang, lalu disamakan dengan setengah keliling.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 50 ÷ 2 = 25 cm.
+  2. l = (2/3)p → p + (2/3)p = (5/3)p = 25 → p = 15 cm.
+  3. Lebar = (2/3) × 15 = 10 cm.
 
 ---
 
@@ -1373,6 +1784,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 7 + 16 = 23, langsung jumlah tanpa membagi 4.
 - **C** — Salah. 7 − 16 ÷ 4 = 3, sisi lebih kecil (juga valid bila persegi kedua lebih kecil; tetapi soal meminta yang lebih besar/positif terdekat).
 - **D** — Benar. K1 = 28. K2 = 28 + 16 = 44 → s2 = 44 ÷ 4 = **11 cm**. (Pilihan ini adalah sisi persegi kedua yang lebih besar.)
+- **Konsep kunci:** Selisih keliling dua persegi sama dengan 4 kali selisih sisinya, jadi cari dulu keliling persegi pertama sebelum menambah selisih.
+- **Langkah Penyelesaian:**
+  1. K1 = 4 × 7 = 28 cm.
+  2. K2 = K1 + 16 = 44 cm.
+  3. s2 = K2 ÷ 4 = 44 ÷ 4 = 11 cm.
 
 ---
 
@@ -1387,6 +1803,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 4 × 7 = 28, salah faktor (harusnya kali 2, bukan 4).
 - **C** — Salah. 2 × 5 + 2 = 12, atau hitungan parsial yang lupa salah satu sisi.
 - **D** — Benar. K lama = 2 × (25 + 18) = 86 m. K baru = 2 × (30 + 20) = 100 m. Selisih = 100 − 86 = **14 m**. (Atau: 2 × (5 + 2) = 14 m.)
+- **Konsep kunci:** Selisih keliling akibat penambahan panjang dan lebar sama dengan 2 kali jumlah penambahan tersebut.
+- **Langkah Penyelesaian:**
+  1. K lama = 2 × (25 + 18) = 86 m.
+  2. K baru = 2 × (30 + 20) = 100 m.
+  3. Selisih = 100 − 86 = 14 m.
 
 ---
 
@@ -1401,6 +1822,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. Tetap 80, lupa keliling berubah.
 - **C** — Salah. 80 × 3 = 240, salah operasi.
 - **D** — Salah. Itu sisi baru (23 m), bukan keliling.
+- **Konsep kunci:** Jika sisi persegi bertambah, hitung dulu sisi lama dari keliling, tambahkan pertambahannya, baru hitung keliling baru.
+- **Langkah Penyelesaian:**
+  1. Sisi lama = 80 ÷ 4 = 20 m.
+  2. Sisi baru = 20 + 3 = 23 m.
+  3. K baru = 4 × 23 = 92 m.
 
 ---
 
@@ -1415,6 +1841,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Benar. Potongan sejajar lebar membagi panjang 12 menjadi 2 × 6. Tiap persegi panjang berukuran 6 × 9. K tiap = 2 × (6 + 9) = 30 cm. Total = 2 × 30 = **60 cm**.
 - **C** — Salah. K asli × 2 = 84, asumsi salah.
 - **D** — Salah. 12 × 9 = 108 (luas), bukan keliling.
+- **Konsep kunci:** Saat persegi panjang dipotong sejajar lebar, ukuran panjang terbagi dua sedangkan lebar tetap, sehingga keliling tiap potongan dihitung dengan ukuran barunya.
+- **Langkah Penyelesaian:**
+  1. Panjang terbagi: 12 ÷ 2 = 6 cm, lebar tetap 9 cm.
+  2. K tiap potongan = 2 × (6 + 9) = 30 cm.
+  3. Total kedua potongan = 2 × 30 = 60 cm.
 
 ---
 
@@ -1434,6 +1865,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 > Klarifikasi akhir: **Kunci B = 92 m**. Anggap C salah.
 
 - **D** — Salah. Mengurangi total 12 dari K asli (100 − 12 = 88), salah perhitungan margin.
+- **Konsep kunci:** Jika ada jalur selebar tertentu yang dikurangi di sekeliling, kurangi 2 kali lebar jalur itu dari panjang dan lebar asli sebelum menghitung keliling area yang tersisa.
+- **Langkah Penyelesaian:**
+  1. Kurangi jalan setapak dari kedua sisi: panjang = 30 − 2×1 = 28 m, lebar = 20 − 2×1 = 18 m.
+  2. K = 2 × (28 + 18) = 92 m.
 
 ---
 
@@ -1451,6 +1886,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. (p + l) = 100, itu setengah keliling, bukan p.
 - **C** — Salah. K ÷ 4 = 50, salah karena bukan persegi.
 - **D** — Salah. Itu lebar, bukan panjang.
+- **Konsep kunci:** Jika panjang dan lebar dinyatakan sebagai perbandingan (p = 2 × l), gunakan permisalan aljabar untuk mencari nilainya dari keliling.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 200 ÷ 2 = 100 m.
+  2. Misal l = x, p = 2x → 3x = 100 → x ≈ 33,33.
+  3. Panjang = 2x ≈ 66,67 m.
 
 ---
 
@@ -1465,6 +1905,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Benar. K = 2 × (48 + 32) = 160 m. Karena 48 dan 32 kelipatan 4, sudut otomatis terisi. Tiang = 160 ÷ 4 = **40 tiang**.
 - **C** — Salah. (p + l) ÷ 4 = 80 ÷ 4 = 20, lupa kali 2 pada keliling.
 - **D** — Salah. 48 × 32 ÷ 4 = 384, memakai **luas** ÷ jarak.
+- **Konsep kunci:** Jika jarak antar tiang habis membagi kedua sisi, sudut otomatis terisi sehingga jumlah tiang = keliling ÷ jarak.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (48 + 32) = 160 m.
+  2. Tiang = 160 ÷ 4 = 40 tiang (sudut otomatis terisi karena 48 dan 32 kelipatan 4).
 
 ---
 
@@ -1479,6 +1923,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 24 × 8 = 192, salah pasangan.
 - **C** — Benar. (p + l) = 64 ÷ 2 = 32. p − l = 8 → p = (32+8)/2 = 20, l = (32−8)/2 = 12. Luas = 20 × 12 = **240 cm²**.
 - **D** — Salah. 28 × 8 = 224, salah pasangan dimensi.
+- **Konsep kunci:** Jika diketahui keliling dan selisih panjang-lebar, gunakan jumlah (dari keliling) dan selisih itu untuk mendapatkan p dan l sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 64 ÷ 2 = 32 cm.
+  2. p = (32+8)÷2 = 20, l = (32−8)÷2 = 12.
+  3. Luas = 20 × 12 = 240 cm².
 
 ---
 
@@ -1499,6 +1948,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. 52 = K ÷ 5 (tanpa sudut), atau hitung tidak menambah sudut dengan benar.
 - **C** — Benar. K = 2 × (80 + 50) = 260 m. Jika tiang di setiap 5 m dan ada di sudut, jumlah tiang = 260 ÷ 5 = 52. Tambah 4 batu pondasi di sudut yang dihitung terpisah dari tiang → bila batu adalah TAMBAHAN dari tiang sudut, jawaban tergantung interpretasi. Untuk soal ini, batu pondasi MENGGANTI tiang sudut → total tetap 52, tetapi soal meminta total tiang + batu = 48 tiang biasa + 4 batu sudut + 4 (jika dihitung dua kali) → **56 buah** (48 tiang non-sudut + 4 tiang sudut + 4 batu pondasi, dengan batu pondasi berbeda dari tiang sudut).
 - **D** — Salah. K ÷ 2,6 atau hitungan kasar.
+- **Konsep kunci:** Untuk soal gabungan tiang di sepanjang sisi dan batu pondasi di sudut, hitung dulu jumlah tiang dari keliling ÷ jarak, baru tambahkan batu pondasi sudut sesuai ketentuan soal.
+- **Langkah Penyelesaian:**
+  1. K = 2 × (80 + 50) = 260 m.
+  2. Tiang = 260 ÷ 5 = 52.
+  3. Tambahkan 4 batu pondasi di sudut sesuai pembahasan → total 56 buah.
 
 ---
 
@@ -1513,6 +1967,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. y² adalah **luas** persegi sisi y.
 - **C** — Salah. 4y ÷ 2 = 2y, membagi 2.
 - **D** — Benar. K = 4s → s = K ÷ 4 = 4y ÷ 4 = **y cm**.
+- **Konsep kunci:** Rumus keliling persegi K = 4 × s juga berlaku untuk sisi dalam bentuk variabel (aljabar), tinggal dibalik seperti biasa.
+- **Langkah Penyelesaian:**
+  1. K = 4y.
+  2. s = K ÷ 4 = 4y ÷ 4 = y cm.
 
 ---
 
@@ -1527,6 +1985,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Salah. (p + l) = 60, salah konteks.
 - **C** — Salah. 4 × 20 = 80, salah jumlah sekat.
 - **D** — Salah. 3 × 10 = 30, hitungan acak.
+- **Konsep kunci:** Sekat yang sejajar lebar memiliki panjang sama dengan lebar halaman, sehingga total panjang sekat = lebar × banyak sekat.
+- **Langkah Penyelesaian:**
+  1. (p + l) = K ÷ 2 = 60 m, lebar halaman = 20 m.
+  2. Tiap sekat sejajar lebar = 20 m.
+  3. Total 2 sekat = 2 × 20 = 40 m.
 
 ---
 
@@ -1541,6 +2004,10 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 - **B** — Benar. K = 360 m. Total kawat = 360 × 5 = 1.800 m. Biaya = 1.800 × Rp 8.000 = **Rp 14.400.000**.
 - **C** — Salah. Berhenti di total kawat 1.800 m, lupa kali harga.
 - **D** — Salah. 360 × ... = 360.000, hitungan asal.
+- **Konsep kunci:** Untuk pagar berlapis, kalikan dulu keliling dengan banyak lapis untuk mendapat total panjang kawat, baru kalikan dengan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Total kawat = K × 5 = 360 × 5 = 1.800 m.
+  2. Biaya = 1.800 × Rp 8.000 = Rp 14.400.000.
 
 ---
 

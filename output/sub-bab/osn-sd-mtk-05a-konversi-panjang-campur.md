@@ -89,6 +89,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 3.000 cm
 - C. 300 cm
 - D. 0,03 cm
+- **Konsep kunci:** Tangga satuan panjang: tiap turun 1 tingkat dikali 10, tiap naik 1 tingkat dibagi 10.
+- **Langkah Penyelesaian:**
+  1. Urutkan tangga: km-hm-dam-m-dm-cm-mm.
+  2. m ke cm turun 2 tingkat, jadi dikali 10 × 10 = 100.
+  3. 3 × 100 = 300 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -104,6 +109,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 500 m
 - C. 50.000 m
 - D. 5.000 m
+- **Konsep kunci:** Tangga satuan panjang: turun 1 tingkat dikali 10.
+- **Langkah Penyelesaian:**
+  1. km ke m turun 3 tingkat (km-hm-dam-m).
+  2. Kalikan 5 dengan 1.000.
+  3. 5 km = 5.000 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -119,6 +129,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,4 m
 - C. 4.000 m
 - D. 4 m
+- **Konsep kunci:** Tangga satuan panjang: naik 1 tingkat dibagi 10.
+- **Langkah Penyelesaian:**
+  1. cm ke m naik 2 tingkat (cm-dm-m).
+  2. Bagi 400 dengan 100.
+  3. 400 cm = 4 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -134,6 +149,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 200 mm
 - C. 20 mm
 - D. 2.000 mm
+- **Konsep kunci:** Turun 1 tingkat pada tangga panjang berarti dikali 10.
+- **Langkah Penyelesaian:**
+  1. cm ke mm turun 1 tingkat.
+  2. Kalikan 2 dengan 10.
+  3. 2 cm = 20 mm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -149,6 +169,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 500 cm
 - C. 50 cm
 - D. 5 cm
+- **Konsep kunci:** Naik 1 tingkat pada tangga panjang berarti dibagi 10.
+- **Langkah Penyelesaian:**
+  1. mm ke cm naik 1 tingkat.
+  2. Bagi 50 dengan 10.
+  3. 50 mm = 5 cm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -164,6 +189,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 150 km
 - C. 0,15 km
 - D. 1,5 km
+- **Konsep kunci:** Naik 3 tingkat pada tangga panjang berarti dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. m ke km naik 3 tingkat.
+  2. Bagi 1.500 dengan 1.000.
+  3. 1.500 m = 1,5 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -179,6 +209,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 700 mm
 - C. 7.000 mm
 - D. 70.000 mm
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; m ke mm turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. m ke mm turun 3 tingkat (m-dm-cm-mm).
+  2. Kalikan 7 dengan 1.000.
+  3. 7 m = 7.000 mm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -194,6 +229,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,6 m
 - C. 600 m
 - D. 6 m
+- **Konsep kunci:** Naik 3 tingkat pada tangga panjang berarti dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. mm ke m naik 3 tingkat.
+  2. Bagi 6.000 dengan 1.000.
+  3. 6.000 mm = 6 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -209,6 +249,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 800 cm
 - C. 8 cm
 - D. 80 cm
+- **Konsep kunci:** Turun 1 tingkat pada tangga panjang berarti dikali 10.
+- **Langkah Penyelesaian:**
+  1. dm ke cm turun 1 tingkat.
+  2. Kalikan 8 dengan 10.
+  3. 8 dm = 80 cm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -224,6 +269,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 2.000 hm
 - C. 0,2 hm
 - D. 20 hm
+- **Konsep kunci:** Turun 1 tingkat pada tangga panjang berarti dikali 10.
+- **Langkah Penyelesaian:**
+  1. km ke hm turun 1 tingkat.
+  2. Kalikan 2 dengan 10.
+  3. 2 km = 20 hm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -239,6 +289,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 9.000 dm
 - C. 900 dm
 - D. 90 dm
+- **Konsep kunci:** Turun 1 tingkat pada tangga panjang berarti dikali 10.
+- **Langkah Penyelesaian:**
+  1. m ke dm turun 1 tingkat.
+  2. Kalikan 9 dengan 10.
+  3. 9 m = 90 dm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -254,6 +309,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.200 dm
 - C. 120 dm
 - D. 12 dm
+- **Konsep kunci:** Naik 1 tingkat pada tangga panjang berarti dibagi 10.
+- **Langkah Penyelesaian:**
+  1. cm ke dm naik 1 tingkat.
+  2. Bagi 120 dengan 10.
+  3. 120 cm = 12 dm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -269,6 +329,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 40 m
 - C. 400 m
 - D. 4 m
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; hm ke m turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. hm ke m turun 2 tingkat (hm-dam-m).
+  2. Kalikan 4 dengan 100.
+  3. 4 hm = 400 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -284,6 +349,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,03 km
 - C. 0,3 km
 - D. 0,003 km
+- **Konsep kunci:** Naik 3 tingkat pada tangga panjang berarti dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. m ke km naik 3 tingkat.
+  2. Bagi 3 dengan 1.000.
+  3. 3 m = 0,003 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -299,6 +369,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 25 mm
 - C. 2.500 mm
 - D. 250 mm
+- **Konsep kunci:** Turun 1 tingkat pada tangga panjang berarti dikali 10.
+- **Langkah Penyelesaian:**
+  1. cm ke mm turun 1 tingkat.
+  2. Kalikan 25 dengan 10.
+  3. 25 cm = 250 mm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -314,6 +389,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.050 cm
 - C. 50 cm
 - D. 105 cm
+- **Konsep kunci:** Samakan terlebih dahulu ke satuan yang diminta, baru jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 m menjadi 100 cm.
+  2. Jumlahkan dengan 50 cm: 100 + 50.
+  3. Hasilnya 150 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -329,6 +409,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5 m
 - C. 5.000 m
 - D. 500 m
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; km ke m turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,5 dengan 1.000.
+  2. 0,5 × 1.000 = 500.
+  3. 0,5 km = 500 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -344,6 +429,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.400 cm
 - C. 140 cm
 - D. 1,4 cm
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; m ke cm turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1,4 dengan 100.
+  2. 1,4 × 100 = 140.
+  3. Tinggi Adi = 140 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -359,6 +449,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 800 cm
 - C. 80 cm
 - D. 8 cm
+- **Konsep kunci:** Naik 1 tingkat pada tangga panjang berarti dibagi 10.
+- **Langkah Penyelesaian:**
+  1. mm ke cm naik 1 tingkat.
+  2. Bagi 80 dengan 10.
+  3. 80 mm = 8 cm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -374,6 +469,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 250 cm
 - C. 25 cm
 - D. 0,25 cm
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; m ke cm turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,25 dengan 100.
+  2. 0,25 × 100 = 25.
+  3. 0,25 m = 25 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -389,6 +489,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.000 cm
 - C. 10.000 cm
 - D. 100.000 cm
+- **Konsep kunci:** km ke cm turun 5 tingkat = dikali 100.000.
+- **Langkah Penyelesaian:**
+  1. Hitung banyak tingkat: km-hm-dam-m-dm-cm = 5.
+  2. Kalikan 1 dengan 100.000.
+  3. 1 km = 100.000 cm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -404,6 +509,10 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 10 mm
 - C. 10.000 mm
 - D. 1.000 mm
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; m ke mm turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1 dengan 1.000.
+  2. 1 m = 1.000 mm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -419,6 +528,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,5 km
 - C. 500 km
 - D. 5 km
+- **Konsep kunci:** Naik 3 tingkat pada tangga panjang berarti dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. m ke km naik 3 tingkat.
+  2. Bagi 5.000 dengan 1.000.
+  3. 5.000 m = 5 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -434,6 +548,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 450 m
 - C. 4,5 m
 - D. 45 m
+- **Konsep kunci:** Naik 1 tingkat pada tangga panjang berarti dibagi 10.
+- **Langkah Penyelesaian:**
+  1. dm ke m naik 1 tingkat.
+  2. Bagi 45 dengan 10.
+  3. 45 dm = 4,5 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -449,6 +568,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 230 cm
 - C. 2.030 cm
 - D. 230.000 cm
+- **Konsep kunci:** Samakan satuan dulu lalu jumlahkan; m ke cm turun 2 tingkat (×100).
+- **Langkah Penyelesaian:**
+  1. Ubah 2 m menjadi 200 cm.
+  2. Jumlahkan: 200 + 30.
+  3. Hasilnya 230 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -464,6 +588,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 3.500 m
 - C. 35.000 m
 - D. 3.005 m
+- **Konsep kunci:** Samakan satuan dulu lalu jumlahkan; km ke m dikali 1.000.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 km menjadi 3.000 m.
+  2. Jumlahkan: 3.000 + 500.
+  3. Hasilnya 3.500 m.
 
 **Kunci: B**
 **Pembahasan:**
@@ -479,6 +608,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 60 mm
 - C. 64 mm
 - D. 600 mm
+- **Konsep kunci:** Samakan satuan dulu lalu jumlahkan; cm ke mm dikali 10.
+- **Langkah Penyelesaian:**
+  1. Ubah 6 cm menjadi 60 mm.
+  2. Jumlahkan: 60 + 4.
+  3. Hasilnya 64 mm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -494,6 +628,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 75 cm
 - C. 750 cm
 - D. 7.500 cm
+- **Konsep kunci:** Desimal diubah dulu lalu konversi; m ke cm turun 2 tingkat (×100).
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,75 dengan 100.
+  2. 0,75 × 100 = 75.
+  3. 0,75 m = 75 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -509,6 +648,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 18 mm
 - C. 1.800 mm
 - D. 180 mm
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; cm ke mm turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 18 dengan 10.
+  2. 18 × 10 = 180.
+  3. Panjang pensil = 180 mm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -524,6 +668,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 900 m
 - C. 0,9 m
 - D. 90 m
+- **Konsep kunci:** Naik 2 tingkat berarti dibagi 100; cm ke m naik 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 9.000 dengan 100.
+  2. 9.000 ÷ 100 = 90.
+  3. 9.000 cm = 90 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -539,6 +688,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 12 mm
 - C. 120 mm
 - D. 12.000 mm
+- **Konsep kunci:** dm ke mm turun 2 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. dm ke mm turun 2 tingkat (dm-cm-mm).
+  2. Kalikan 12 dengan 100.
+  3. 12 dm = 1.200 mm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -554,6 +708,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 75 km
 - C. 0,075 km
 - D. 0,75 km
+- **Konsep kunci:** Naik 3 tingkat berarti dibagi 1.000; m ke km naik 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 750 dengan 1.000.
+  2. 750 ÷ 1.000 = 0,75.
+  3. 750 m = 0,75 km.
 
 **Kunci: D**
 **Pembahasan:**
@@ -569,6 +728,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 2,5 cm
 - C. 250 cm
 - D. 2.500 cm
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; mm ke cm naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 250 dengan 10.
+  2. 250 ÷ 10 = 25.
+  3. 250 mm = 25 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -584,6 +748,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 300 dam
 - C. 30 dam
 - D. 3.000 dam
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; hm ke dam turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 10.
+  2. 3 × 10 = 30.
+  3. 3 hm = 30 dam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -599,6 +768,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5.500 cm
 - C. 550 cm
 - D. 0,055 cm
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; m ke cm turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5,5 dengan 100.
+  2. 5,5 × 100 = 550.
+  3. 5,5 m = 550 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -614,6 +788,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 480 cm
 - C. 3.920 cm
 - D. 76 cm
+- **Konsep kunci:** Samakan satuan lalu kurangi; m ke cm dikali 100.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 m menjadi 400 cm.
+  2. Kurangi: 400 − 80.
+  3. Hasilnya 320 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -629,6 +808,10 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,1 dm
 - C. 10 dm
 - D. 1 dm
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; cm ke dm naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 10 dengan 10.
+  2. 10 cm = 1 dm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -644,6 +827,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 20.000 cm
 - C. 200.000 cm
 - D. 2.000.000 cm
+- **Konsep kunci:** km ke cm turun 5 tingkat = dikali 100.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 100.000.
+  2. 2 × 100.000 = 200.000.
+  3. 2 km = 200.000 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -659,6 +847,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 3 m
 - C. 3.000 m
 - D. 300 m
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; dm ke m naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 300 dengan 10.
+  2. 300 ÷ 10 = 30.
+  3. 300 dm = 30 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -674,6 +867,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 7 dm
 - C. 70 dm
 - D. 7.000 dm
+- **Konsep kunci:** Tiap turun 1 tingkat dikali 10; dm lebih kecil dari m.
+- **Langkah Penyelesaian:**
+  1. m ke dm turun 1 tingkat, berarti dikali 10.
+  2. Kalikan 7 dengan 10.
+  3. 7 m = 70 dm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -689,6 +887,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 800 m
 - C. 8.000 m
 - D. 80.000 m
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; km ke m turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 8 dengan 1.000.
+  2. 8 × 1.000 = 8.000.
+  3. 8 km = 8.000 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -704,6 +907,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 600 dam
 - C. 0,6 dam
 - D. 6 dam
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; m ke dam naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 60 dengan 10.
+  2. 60 ÷ 10 = 6.
+  3. 60 m = 6 dam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -719,6 +927,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 80 mm
 - C. 800 mm
 - D. 8 mm
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; cm ke mm turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,8 dengan 10.
+  2. 0,8 × 10 = 8.
+  3. 0,8 cm = 8 mm.
 
 **Kunci: D**
 **Pembahasan:**
@@ -734,6 +947,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 15 dm
 - C. 150 dm
 - D. 1.500 dm
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; m ke dm turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 15 dengan 10.
+  2. 15 × 10 = 150.
+  3. 15 m = 150 dm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -749,6 +967,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,6 m
 - C. 6 m
 - D. 6.000 m
+- **Konsep kunci:** Naik 2 tingkat berarti dibagi 100; cm ke m naik 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 600 dengan 100.
+  2. 600 ÷ 100 = 6.
+  3. 600 cm = 6 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -764,6 +987,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 95 cm
 - C. 950 cm
 - D. 9.500 cm
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; mm ke cm naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 9.500 dengan 10.
+  2. 9.500 ÷ 10 = 950.
+  3. 9.500 mm = 950 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -779,6 +1007,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 2.100 cm
 - C. 210 cm
 - D. 2,1 cm
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; m ke cm turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2,1 dengan 100.
+  2. 2,1 × 100 = 210.
+  3. Tinggi pintu = 210 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -794,6 +1027,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 500 m
 - C. 5.000 m
 - D. 50 m
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; dam ke m turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 10.
+  2. 5 × 10 = 50.
+  3. 5 dam = 50 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -809,6 +1047,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 4.000 m
 - C. 40 m
 - D. 400 m
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; km ke m turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,4 dengan 1.000.
+  2. 0,4 × 1.000 = 400.
+  3. 0,4 km = 400 m.
 
 **Kunci: D**
 **Pembahasan:**
@@ -824,6 +1067,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 350 cm
 - C. 35 cm
 - D. 0,35 cm
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; mm ke cm naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 35 dengan 10.
+  2. 35 ÷ 10 = 3,5.
+  3. 35 mm = 3,5 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -841,6 +1089,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 850 m
 - C. 1.550 m
 - D. 348 m
+- **Konsep kunci:** Kurangi jarak yang sudah ditempuh dari total; samakan ke m.
+- **Langkah Penyelesaian:**
+  1. Ubah 1,2 km menjadi 1.200 m.
+  2. Kurangi: 1.200 − 350.
+  3. Hasilnya 850 m.
 
 **Kunci: B**
 **Pembahasan:**
@@ -856,6 +1109,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 125 cm
 - C. 1.250 cm
 - D. 20 cm
+- **Konsep kunci:** Bagi panjang total dengan banyak bagian; samakan ke cm.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 m menjadi 500 cm.
+  2. Bagi dengan 4: 500 ÷ 4.
+  3. Tiap bagian = 125 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -871,6 +1129,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 660 cm
 - C. 282,25 cm
 - D. 90,75 cm
+- **Konsep kunci:** Samakan kedua satuan ke cm, lalu cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Budi 3 m 75 cm = 375 cm; Sani 285 cm.
+  2. Kurangi: 375 − 285.
+  3. Selisih = 90 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -886,6 +1149,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 41 pohon
 - C. 4 pohon
 - D. 80 pohon
+- **Konsep kunci:** Banyak pohon = banyak ruas + 1 (termasuk ujung-ujung).
+- **Langkah Penyelesaian:**
+  1. Ubah 0,8 km menjadi 800 m.
+  2. Banyak ruas = 800 ÷ 20 = 40.
+  3. Pohon = 40 + 1 = 41.
 
 **Kunci: B**
 **Pembahasan:**
@@ -901,6 +1169,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 124,5 m
 - C. 16,5 m
 - D. 4,62 m
+- **Konsep kunci:** Samakan satuan ke m, lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Ubah 120 cm menjadi 1,2 m.
+  2. Jumlahkan: 4,5 + 1,2.
+  3. Total = 5,7 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -916,6 +1189,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5,08 cm
 - C. 508 cm
 - D. 25,4 cm
+- **Konsep kunci:** Kalikan ukuran inci dengan nilai 1 inci dalam cm.
+- **Langkah Penyelesaian:**
+  1. Tulis: 1 inci ≈ 2,54 cm.
+  2. Kalikan: 20 × 2,54 = 50,8.
+  3. Diagonal ≈ 50,8 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -931,6 +1209,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 80 potongan
 - C. 180 potongan
 - D. 800 potongan
+- **Konsep kunci:** Bagi panjang total dengan panjang tiap potongan; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. Ubah 12 m menjadi 1.200 cm.
+  2. Bagi: 1.200 ÷ 15.
+  3. Banyak potongan = 80.
 
 **Kunci: B**
 **Pembahasan:**
@@ -946,6 +1229,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 175 cm
 - C. 425 cm
 - D. 25 cm
+- **Konsep kunci:** Samakan satuan ke cm, lalu cari selisih.
+- **Langkah Penyelesaian:**
+  1. Andi 2 m 50 cm = 250 cm; Sari 175 cm.
+  2. Kurangi: 250 − 175.
+  3. Selisih = 75 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -961,6 +1249,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 500 dm
 - C. 5 dm
 - D. 5.000 dm
+- **Konsep kunci:** Sisi persegi = keliling ÷ 4; lalu ubah ke dm.
+- **Langkah Penyelesaian:**
+  1. Sisi = 200 ÷ 4 = 50 m.
+  2. m ke dm turun 1 tingkat = dikali 10.
+  3. Sisi = 500 dm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -976,6 +1269,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.203,5 km
 - C. 15,5 km
 - D. 4.700 km
+- **Konsep kunci:** Jumlahkan jarak yang ditempuh dengan sisa jarak; samakan ke km.
+- **Langkah Penyelesaian:**
+  1. Ubah 1.200 m menjadi 1,2 km.
+  2. Jumlahkan: 3,5 + 1,2.
+  3. Total jarak = 4,7 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -991,6 +1289,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 60 meja
 - C. 7 meja
 - D. 6 meja
+- **Konsep kunci:** Bagi panjang dinding dengan panjang meja; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. Panjang dinding 9 m; meja 1,5 m.
+  2. Bagi: 9 ÷ 1,5.
+  3. Dibutuhkan 6 meja.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1006,6 +1309,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 3.750 mm
 - C. 375 mm
 - D. 750 mm
+- **Konsep kunci:** Bagi panjang pita dengan 2, lalu ubah ke mm.
+- **Langkah Penyelesaian:**
+  1. Ubah 0,75 m menjadi 75 cm = 750 mm.
+  2. Bagi dengan 2: 750 ÷ 2.
+  3. Tiap bagian = 375 mm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1021,6 +1329,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 15 m
 - C. 1,5 m
 - D. 150 m
+- **Konsep kunci:** Kalikan banyak kaki dengan nilai 1 kaki, lalu ubah ke m.
+- **Langkah Penyelesaian:**
+  1. Tinggi Ali = 5 × 30 = 150 cm.
+  2. Ubah cm ke m: bagi 100.
+  3. Tinggi = 1,5 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1036,6 +1349,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.400 m
 - C. 140 m
 - D. 14.000 m
+- **Konsep kunci:** Kalikan panjang per hari dengan banyak hari, lalu ubah satuan.
+- **Langkah Penyelesaian:**
+  1. Total = 2 × 7 = 14 hm.
+  2. Ubah hm ke m: 14 × 100 = 1.400.
+  3. Panjang jalan = 1.400 m.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1051,6 +1369,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 12 m
 - C. 12,5 m
 - D. 13,5 m
+- **Konsep kunci:** Jumlahkan kedua benang setelah disamakan ke m.
+- **Langkah Penyelesaian:**
+  1. 8 m 25 cm = 8,25 m; 4 m 75 cm = 4,75 m.
+  2. Jumlahkan: 8,25 + 4,75.
+  3. Total = 13 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1066,6 +1389,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 80 cm
 - C. 100 cm
 - D. 280 cm
+- **Konsep kunci:** Panjang = (keliling − 2 × lebar) ÷ 2; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. Ubah keliling 2,4 m = 240 cm.
+  2. Panjang = (240 − 2 × 40) ÷ 2 = 160 ÷ 2.
+  3. Panjang = 80 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1081,6 +1409,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 360 m
 - C. 10,35 m
 - D. 1.350 m
+- **Konsep kunci:** Samakan semua ke m lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 350 cm = 3,5 m.
+  2. Jumlahkan: 6 + 4 + 3,5.
+  3. Total = 13,5 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1096,6 +1429,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5,2 cm
 - C. 600 cm
 - D. 5.200 cm
+- **Konsep kunci:** Total awal lalu kurangi yang dipotong; samakan ke cm.
+- **Langkah Penyelesaian:**
+  1. Total pita = 5 × 1,2 m = 6 m = 600 cm.
+  2. Kurangi: 600 − 80.
+  3. Sisa = 520 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1111,6 +1449,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 8 km
 - C. 800 km
 - D. 0,8 km
+- **Konsep kunci:** Jarak sebenarnya = jarak peta × skala; lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. 8 cm × 100.000 = 800.000 cm.
+  2. Ubah ke km: bagi 100.000.
+  3. Jarak = 8 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1126,6 +1469,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. Cika
 - C. Budi
 - D. Dito
+- **Konsep kunci:** Samakan semua tinggi ke cm lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Ali 142 cm; Cika 138 cm; Dito 145 cm; Budi 150 cm.
+  2. Bandingkan bilangan: 150 paling besar.
+  3. Paling tinggi = Budi (1,5 m).
 
 **Kunci: C**
 **Pembahasan:**
@@ -1141,6 +1489,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 4,3 km
 - C. 43 km
 - D. 4.300 km
+- **Konsep kunci:** Jumlahkan semua ruas lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. Ubah 1.500 m = 1,5 km; 0,8 km tetap.
+  2. Jumlahkan: 2 + 1,5 + 0,8.
+  3. Total = 4,3 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1156,6 +1509,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5 hari
 - C. 6 hari
 - D. 50 hari
+- **Konsep kunci:** Bagi panjang jalan dengan panjang per hari; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. Ubah 1,25 km = 1.250 m.
+  2. Bagi: 1.250 ÷ 250.
+  3. Pekerjaan selesai dalam 5 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1171,6 +1529,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,28 km
 - C. 280 km
 - D. 0,028 km
+- **Konsep kunci:** Keliling = 2 × (p + l), lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (80 + 60) = 280 m.
+  2. Ubah ke km: 280 ÷ 1.000.
+  3. Keliling = 0,28 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1186,6 +1549,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. Cika
 - C. Budi
 - D. Sama semua
+- **Konsep kunci:** Samakan semua pembelian ke m lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Ali 0,5 km = 500 m; Budi 350 m; Cika 75 hm = 7.500 m.
+  2. Bandingkan: 7.500 paling besar.
+  3. Yang membeli paling banyak = Cika.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1201,6 +1569,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 350 mm
 - C. 3.500 mm
 - D. 3,5 mm
+- **Konsep kunci:** Kalikan inci dengan nilai 1 inci, lalu ubah cm ke mm.
+- **Langkah Penyelesaian:**
+  1. Layar = 14 × 2,5 = 35 cm.
+  2. Ubah ke mm: 35 × 10 = 350.
+  3. Layar ≈ 350 mm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1216,6 +1589,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1,2 km
 - C. 0,12 km
 - D. 0,012 km
+- **Konsep kunci:** Keliling kebun × banyak putaran, lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. Keliling = 4 × 60 = 240 m.
+  2. Total = 5 × 240 = 1.200 m.
+  3. 1.200 m = 1,2 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1231,6 +1609,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 140 potongan
 - C. 1.400 potongan
 - D. 0,14 potongan
+- **Konsep kunci:** Bagi panjang pipa dengan panjang tiap potongan; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. Ubah 4,2 m = 420 cm.
+  2. Bagi: 420 ÷ 30.
+  3. Banyak potongan = 14.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1246,6 +1629,10 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 3,2 m
 - C. 400 m
 - D. 0,4 m
+- **Konsep kunci:** Banyak ruas = banyak anak − 1; kalikan dengan jarak antar anak.
+- **Langkah Penyelesaian:**
+  1. Ruas = 5 − 1 = 4.
+  2. Jarak = 4 × 80 = 320 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1261,6 +1648,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 43 mm
 - C. 4.300 mm
 - D. 43.000 mm
+- **Konsep kunci:** Samakan ke mm lalu jumlahkan kedua benang.
+- **Langkah Penyelesaian:**
+  1. 250 cm = 2.500 mm; 1,8 m = 1.800 mm.
+  2. Jumlahkan: 2.500 + 1.800.
+  3. Total = 4.300 mm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1276,6 +1668,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. Kurang 50 cm
 - C. Lebih 25 cm
 - D. Kurang 25 cm
+- **Konsep kunci:** Jumlahkan ketiga pipa lalu bandingkan dengan kebutuhan.
+- **Langkah Penyelesaian:**
+  1. Total = 150 + 225 + 75 = 450 cm.
+  2. Kebutuhan = 5 m = 500 cm.
+  3. Kurang 500 − 450 = 50 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1293,6 +1690,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 45 menit
 - C. 60 menit
 - D. 90 menit
+- **Konsep kunci:** Cari kecepatan lalu gunakan untuk sisa jarak.
+- **Langkah Penyelesaian:**
+  1. Kecepatan = 1,5 km ÷ 0,5 jam = 3 km/jam.
+  2. Sisa jarak = 4,5 − 1,5 = 3 km.
+  3. Waktu = 3 ÷ 3 = 1 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1308,6 +1710,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,5 km
 - C. 1 km
 - D. 2 km
+- **Konsep kunci:** Cari KPK ketiga jarak (bukan KPK biasa karena desimal).
+- **Langkah Penyelesaian:**
+  1. Ubah ke cm: 0,25 km = 25.000 cm; 0,5 km = 50.000 cm; 1 km = 100.000 cm.
+  2. Kelipatan persekutuan terkecil = 100.000 cm.
+  3. Jarak = 1 km.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1323,6 +1730,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 95 cm
 - C. 105 cm
 - D. 75 cm
+- **Konsep kunci:** Gunakan sifat barisan aritmetika yang nilai tengahnya rata-rata.
+- **Langkah Penyelesaian:**
+  1. Nilai tengah = 375 ÷ 5 = 75 cm.
+  2. Potongan-potonnya: 55, 65, 75, 85, 95 cm (beda 10).
+  3. Terpanjang = 95 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1338,6 +1750,10 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 5,6 m
 - C. 4 m
 - D. 4,4 m
+- **Konsep kunci:** Banyak ruas = banyak anak − 1; kalikan dengan jarak antar anak.
+- **Langkah Penyelesaian:**
+  1. Ruas = 7 − 1 = 6.
+  2. Jarak = 6 × 0,8 m = 4,8 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1353,6 +1769,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,75 km
 - C. 75 km
 - D. 0,125 km
+- **Konsep kunci:** Kalikan kecepatan naik dengan waktu, lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. 0,5 jam = 30 menit.
+  2. Ketinggian = 250 × 30 = 7.500 m.
+  3. 7.500 m = 7,5 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1368,6 +1789,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 60 cm
 - C. 51,4 cm (≈ 60 cm)
 - D. 6 cm
+- **Konsep kunci:** Hitung sisa pita setelah dipotong, lalu bagi rata.
+- **Langkah Penyelesaian:**
+  1. Sisa = 70% × 6 m = 4,2 m = 420 cm.
+  2. Bagi 7 anak: 420 ÷ 7.
+  3. Tiap anak = 60 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1383,6 +1809,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1,5 km
 - C. 150 km
 - D. 1.500 km
+- **Konsep kunci:** Jarak sebenarnya = jarak peta × skala; lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. 6 × 250.000 = 1.500.000 cm.
+  2. Bagi 100.000 untuk km.
+  3. Jarak = 15 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1398,6 +1829,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 100 cm
 - C. 90 cm
 - D. 200 cm
+- **Konsep kunci:** Gunakan perbandingan pada setengah keliling.
+- **Langkah Penyelesaian:**
+  1. Setengah keliling = 180 cm; bagian = 5 + 4 = 9.
+  2. 1 bagian = 180 ÷ 9 = 20 cm.
+  3. Panjang = 5 × 20 = 100 cm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1413,6 +1849,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 30 cm
 - C. 30.000 cm
 - D. 300 cm
+- **Konsep kunci:** Kurangi bagian pagar dan patok dari total, lalu ubah ke cm.
+- **Langkah Penyelesaian:**
+  1. Pagar = 1/4 × 50 = 12,5 m; patok = 0,15 × 50 = 7,5 m.
+  2. Sisa = 50 − 12,5 − 7,5 = 30 m.
+  3. 30 m = 3.000 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1428,6 +1869,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 9 m
 - C. 0,45 m
 - D. 1,2 m
+- **Konsep kunci:** Gunakan perbandingan bagían; jika 2/3 di luar tanah, 1/3 di dalam tanah.
+- **Langkah Penyelesaian:**
+  1. Bagian dalam tanah = 1 − 2/3 = 1/3 bagian = 30 cm.
+  2. Total = 30 ÷ (1/3) = 90 cm.
+  3. 90 cm = 0,9 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1443,6 +1889,10 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. Rp 2.000.000
 - C. Rp 20.000.000
 - D. Rp 20.000
+- **Konsep kunci:** Kalikan keliling (dalam m) dengan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling 0,4 km = 400 m.
+  2. Biaya = 400 × Rp5.000 = Rp2.000.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1458,6 +1908,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 0,085 km
 - C. 0,85 km
 - D. 8,5 km
+- **Konsep kunci:** Ubah mm ke km dengan membagi 1.000.000.
+- **Langkah Penyelesaian:**
+  1. mm ke km naik 6 tingkat: bagi 10⁶ = 1.000.000.
+  2. 8.500 ÷ 1.000.000 = 0,0085.
+  3. Jarak = 0,0085 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1473,6 +1928,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 482,7 km
 - C. 48,27 km
 - D. 0,4827 km
+- **Konsep kunci:** Kalikan jumlah mil dengan 1 mil dalam m, lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. 3 × 1.609 = 4.827 m.
+  2. Bagi 1.000 untuk km.
+  3. Lintasan ≈ 4,827 km.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1488,6 +1948,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. Budi
 - C. Cika
 - D. Sama semua
+- **Konsep kunci:** Samakan semua panjang ke satu satuan lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Andi 1,8 m; Budi 240 cm = 2,4 m; Cika 1.500 mm = 1,5 m.
+  2. Cika punya panjang terkecil.
+  3. Paling pendek = pita Cika.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1503,6 +1968,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 52,5 dm
 - C. 525 dm
 - D. 5,25 m
+- **Konsep kunci:** Samakan semua ke dm lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 3 m 25 cm = 32,5 dm; 0,75 m = 7,5 dm; 1.250 mm = 12,5 dm.
+  2. Jumlahkan: 32,5 + 7,5 + 12,5.
+  3. Total = 52,5 dm.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1518,6 +1988,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 6 m
 - C. 12 m
 - D. 24 m
+- **Konsep kunci:** Cari KPK dari 4 dan 6 untuk titik saling berhadapan pertama.
+- **Langkah Penyelesaian:**
+  1. Kelipatan 4: 4, 8, 12, ...; kelipatan 6: 6, 12, ...
+  2. KPK = 12.
+  3. Pohon pertama sejajar di titik 12 m.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1533,6 +2008,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 1.250 mm
 - C. 500 mm
 - D. 12,5 mm
+- **Konsep kunci:** Bagi berurutan lalu ubah m ke mm.
+- **Langkah Penyelesaian:**
+  1. Bagi 12,5 dengan 25 = 0,5 m.
+  2. Bagi lagi dengan 4: 0,5 ÷ 4 = 0,125 m.
+  3. 0,125 m = 125 mm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1548,6 +2028,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 16 m
 - C. 0,16 m
 - D. 160 m
+- **Konsep kunci:** Kalikan tinggi satu balok dengan banyak balok, lalu ubah ke m.
+- **Langkah Penyelesaian:**
+  1. Total = 5 × 3,2 = 16 dm.
+  2. Ubah ke m: 16 ÷ 10.
+  3. Total tinggi = 1,6 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1563,6 +2048,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 152,4 cm
 - C. 30,48 cm
 - D. 152,4 m
+- **Konsep kunci:** Hitung keliling dalam inci dulu, lalu ubah ke cm.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (36 + 24) = 120 inci.
+  2. Kalikan dengan 2,54: 120 × 2,54.
+  3. Keliling = 304,8 cm.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1578,6 +2068,11 @@ Contoh: TV 32 inci → diagonal ≈ 32 × 2,54 = **81,28 cm**.
 - B. 2,4 km
 - C. 24 km
 - D. 0,024 km
+- **Konsep kunci:** Keliling lintasan × banyak putaran, lalu ubah ke km.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 × (250 + 150) = 800 m.
+  2. Total = 3 × 800 = 2.400 m.
+  3. 2.400 m = 2,4 km.
 
 **Kunci: B**
 **Pembahasan:**

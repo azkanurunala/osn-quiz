@@ -1115,7 +1115,12 @@ Sonar laut dengan waktu pulang-pergi 1.2 detik. Air laut v=1500 m/s. Kedalaman:
 - C. 600 m
 - D. 1200 m
 
-**📖 Pembahasan:** d = (1500×1.2)/2 = 900 m. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Jarak = (kecepatan × waktu tempuh bolak-balik) ÷ 2, sebab bunyi menempuh jarak pergi dan pulang dalam waktu t yang tercatat.
+- **A salah:** 1800 m didapat dari 1500 × 1.2 tanpa dibagi 2 — ini jarak total pergi-pulang, bukan kedalaman laut.
+- **B benar:** (1500 × 1.2) ÷ 2 = 900 m, sudah memperhitungkan bunyi pergi dan kembali.
+- **C salah:** 600 m muncul kalau siswa keliru membagi hasil kali dengan 3 (mengira ada tiga tahap perjalanan bunyi), padahal seharusnya dibagi 2.
+- **D salah:** 1200 m muncul kalau siswa langsung mengalikan 1500 × 0.8, seolah waktu tempuh satu arah 0.8 detik, padahal seharusnya 0.6 detik (setengah dari 1.2).
 
 ---
 
@@ -1128,9 +1133,12 @@ Pengaruh **frekuensi** terhadap pantulan bunyi. Frekuensi tinggi (UV) vs rendah 
 - C. **Frekuensi tinggi (ultrasonik) lebih mudah terserap di udara; frekuensi rendah (bass) lebih merambat jauh & memantul lebih efisien**
 - D. Tidak terpengaruh
 
-**📖 Pembahasan:** Penyerapan udara ~ frekuensi². Bass merambat jauh; treble cepat hilang. Itu sebabnya konser dari jauh terdengar lebih banyak bass.
-
-- **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Penyerapan bunyi oleh udara meningkat tajam pada frekuensi tinggi; bunyi frekuensi rendah (bass) lebih tahan menempuh jarak jauh dan memantul lebih efisien.
+- **A salah:** menyamakan semua frekuensi mengabaikan fakta bahwa udara menyerap energi bunyi berbeda-beda tergantung frekuensinya.
+- **B salah:** ini kebalikan dari kenyataan — siswa mungkin mengira frekuensi rendah "berenergi kecil" sehingga cepat hilang, padahal justru bass yang paling tahan jarak jauh.
+- **C benar:** frekuensi tinggi (ultrasonik/treble) cepat diserap udara, sedangkan bass merambat jauh — itu sebabnya konser dari jauh terdengar didominasi bass.
+- **D salah:** frekuensi sangat memengaruhi jarak jangkau dan efisiensi pantulan bunyi, jadi anggapan "tidak terpengaruh" keliru.
 
 ---
 
@@ -1143,11 +1151,12 @@ USG kualitas tinggi pakai frekuensi tinggi (10-15 MHz). Manfaat:
 - C. Cheap
 - D. Tradisi
 
-**📖 Pembahasan:** Trade-off USG: frekuensi tinggi = resolusi tinggi tapi penetrasi dangkal. Frekuensi rendah = penetrasi dalam tapi resolusi kasar.
-- USG abdomen: 2-5 MHz (lebih dalam).
-- USG tendon/kulit: 10-15 MHz (lebih detail).
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Frekuensi tinggi menghasilkan panjang gelombang pendek sehingga resolusi gambar lebih detail, tetapi energinya cepat diserap jaringan sehingga jangkauan (penetrasi) menjadi dangkal.
+- **A benar:** sesuai trade-off resolusi vs penetrasi — USG tendon/kulit pakai 10-15 MHz (detail tinggi, dangkal), USG abdomen pakai 2-5 MHz (lebih dalam, kurang detail).
+- **B salah:** ini kebalikan dari kenyataan — frekuensi tinggi justru mengurangi penetrasi karena energi diserap lebih cepat oleh jaringan.
+- **C salah:** harga alat tidak berhubungan langsung dengan pemilihan frekuensi USG; ini pengecoh yang tidak menjawab konsep fisikanya.
+- **D salah:** pemilihan frekuensi USG murni berdasarkan kebutuhan medis (resolusi vs kedalaman organ), bukan soal kebiasaan.
 
 ---
 
@@ -1160,14 +1169,12 @@ USG kualitas tinggi pakai frekuensi tinggi (10-15 MHz). Manfaat:
 - C. 5 detik
 - D. 10 detik
 
-**📖 Pembahasan:** Reverb klasik:
-- Studio rekaman: 0.3 detik.
-- Ruang kelas: 0.5 detik.
-- Bioskop: 0.8 detik.
-- **Konser hall klasik**: 1.5-2.5 detik.
-- Katedral: 4-8 detik.
-
-- **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** RT60 = waktu dengung turun 60 dB; setiap jenis ruangan punya RT60 ideal berbeda sesuai fungsinya (bicara butuh pendek, musik butuh sedikit lebih panjang).
+- **A salah:** 0.3 detik adalah RT60 ideal studio rekaman yang butuh suara "kering" tanpa gaung, bukan untuk konser musik klasik yang justru butuh sedikit gema alami.
+- **B benar:** 1.5-2.5 detik adalah RT60 standar symphony hall — cukup dengung untuk memperkaya suara tanpa membuatnya kabur.
+- **C salah:** 5 detik terlalu panjang untuk musik, mendekati akustik katedral besar — nada bisa tumpang tindih dan tidak jelas untuk musik bertempo cepat.
+- **D salah:** 10 detik jauh berlebihan; bunyi terus bergaung hingga menutupi nada berikutnya, membuat musik sulit dinikmati.
 
 ---
 
@@ -1180,9 +1187,12 @@ Apakah bunyi terpolarisasi?
 - C. Kadang
 - D. Tradisi
 
-**📖 Pembahasan:** Polarisasi hanya berlaku untuk gelombang transversal (cahaya). Bunyi longitudinal — getaran sejajar arah merambat → tidak ada konsep polarisasi.
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Polarisasi hanya terjadi pada gelombang transversal (getaran tegak lurus arah rambat); bunyi adalah gelombang longitudinal (getaran searah rambat) sehingga tidak bisa dipolarisasi.
+- **A benar:** karena arah getar bunyi searah arah rambatnya, tidak ada "orientasi getar" yang bisa disaring seperti pada cahaya.
+- **B salah:** menyamakan sifat bunyi dan cahaya keliru karena keduanya jenis gelombang berbeda (longitudinal vs transversal).
+- **C salah:** sifat longitudinal/transversal suatu jenis gelombang bersifat tetap, bukan kondisi yang berubah-ubah "kadang".
+- **D salah:** ini bukan soal kebiasaan, melainkan sifat fisis gelombang yang sudah pasti berdasarkan jenisnya.
 
 ---
 
@@ -1195,9 +1205,12 @@ Industri minyak menggunakan **seismic reflection survey** untuk...
 - C. **Memetakan lapisan bumi bawah permukaan untuk mencari cadangan minyak/gas — pantulan bunyi dari batas lapisan batuan**
 - D. Memasak
 
-**📖 Pembahasan:** Kapal/truk pancarkan bunyi keras ke bumi. Geophone tangkap pantulan dari lapisan batuan berbeda. Software bangun gambar 3D bawah permukaan → identifikasi struktur minyak.
-
-- **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Survei seismik memancarkan bunyi kuat ke dalam bumi, lalu menangkap pantulannya dari batas-batas lapisan batuan berbeda kepadatan untuk memetakan struktur bawah tanah.
+- **A salah:** ini teknologi ilmiah-industri untuk eksplorasi sumber daya, bukan untuk hiburan.
+- **B salah:** metode ini berbasis prinsip fisika pemantulan bunyi, bukan kebiasaan turun-temurun.
+- **C benar:** pantulan bunyi dari lapisan batuan dipakai menyusun peta 3D struktur bawah permukaan untuk menemukan cadangan minyak/gas.
+- **D salah:** pilihan ini jelas tidak berhubungan dengan konteks fisika bunyi, sekadar pengecoh yang tidak masuk akal.
 
 ---
 
@@ -1210,9 +1223,12 @@ Industri minyak menggunakan **seismic reflection survey** untuk...
 - C. Cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** Doppler USG: pancarkan ultrasonik ke pembuluh darah. Sel darah bergerak memantulkan dengan frekuensi sedikit berbeda (Doppler effect). Beda frekuensi = kecepatan aliran.
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Efek Doppler pada bunyi — frekuensi bunyi pantul berubah bila sumber pemantul (sel darah) bergerak; perubahan ini dipakai menghitung kecepatan aliran darah.
+- **A benar:** ultrasonik dipantulkan sel darah merah yang bergerak, frekuensi pantul bergeser sesuai kecepatan aliran (efek Doppler), dari situ kecepatan darah dihitung.
+- **B salah:** pengukuran ini murni berbasis gelombang bunyi (ultrasonik), bukan medan magnet seperti pada MRI.
+- **C salah:** menyamakan dengan cahaya keliru — cahaya tidak menembus/memantul efektif pada jaringan lunak seperti bunyi ultrasonik.
+- **D salah:** metode ini berbasis prinsip fisika Doppler yang terukur, bukan kebiasaan tanpa dasar ilmiah.
 
 ---
 
@@ -1225,9 +1241,12 @@ Asuransi mobil suka tanya "**Sound Test**" untuk klaim kerusakan kendaraan. Ultr
 - C. Mahal
 - D. Sederhana
 
-**📖 Pembahasan:** Bengkel modern punya alat ultrasonic thickness gauge — cek apakah body baja ada deformasi internal atau retak yang tidak terlihat dari luar. Berguna untuk insurance claim.
-
-- **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gelombang ultrasonik dapat menembus logam dan memantul balik dari retakan/cacat internal yang tak terlihat dari luar (non-destructive testing).
+- **A salah:** metode ini berbasis prinsip fisika NDT modern, bukan kebiasaan tanpa dasar.
+- **B benar:** alat ultrasonic thickness/crack gauge mendeteksi keretakan tersembunyi pada body mobil setelah kecelakaan, penting untuk klaim asuransi yang akurat.
+- **C salah:** "mahal" bukan penjelasan cara kerja fisika, hanya opini yang tidak menjawab mekanisme deteksinya.
+- **D salah:** "sederhana" juga tidak menjelaskan mekanisme kerja ultrasonik, sekadar pengecoh tanpa isi.
 
 ---
 
@@ -1240,9 +1259,12 @@ Mengapa **plafon auditorium** sering tidak rata (panel-panel miring)?
 - C. **Memantulkan bunyi dari panggung ke berbagai sudut penonton dengan distribusi merata → semua kursi mendengar suara seimbang**
 - D. Tradisi
 
-**📖 Pembahasan:** Plafon miring (angled ceiling panels) = diffuser strategis. Bunyi dari panggung dipantulkan ke area penonton dengan waktu delay tepat → tambah kekayaan suara tanpa gema mengganggu.
-
-- **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Panel plafon miring berfungsi sebagai pemantul/diffuser terarah agar bunyi dari panggung tersebar merata ke seluruh kursi penonton.
+- **A salah:** meski tampak estetik, bentuk tidak rata itu sebenarnya hasil perhitungan akustik, bukan sekadar hiasan.
+- **B salah:** panel akustik yang dirancang presisi justru lebih mahal dibanding plafon datar biasa, jadi bukan soal murah.
+- **C benar:** kemiringan panel diatur agar pantulan bunyi terarah merata ke semua area penonton, menghindari titik yang terlalu keras atau terlalu lemah.
+- **D salah:** desain ini hasil perhitungan akustik modern, bukan sekadar mengikuti kebiasaan lama.
 
 ---
 
@@ -1255,12 +1277,12 @@ Mengapa **plafon auditorium** sering tidak rata (panel-panel miring)?
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Echo cancellation: saat suara dari speaker tertangkap mikrofon → suara terkirim kembali ke pembicara → echo. Algoritma:
-1. Tahu suara apa yang dikirim ke speaker.
-2. Deteksi versi suara itu kembali masuk mikrofon (dengan delay).
-3. Kurangi dari output mikrofon.
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Software mendeteksi suara yang dipancarkan speaker sendiri yang tertangkap kembali oleh mikrofon (echo), lalu menguranginya dari sinyal yang dikirim agar lawan bicara tidak mendengar suaranya sendiri kembali.
+- **A benar:** algoritma tahu suara yang dikirim ke speaker, mendeteksinya kembali di mikrofon dengan jeda tertentu, lalu menghapusnya dari output.
+- **B salah:** proses ini murni pengolahan sinyal digital berbasis akustik, tidak melibatkan magnet.
+- **C salah:** ini teknologi pemrosesan sinyal modern, bukan kebiasaan atau tradisi.
+- **D salah:** "mahal" tidak menjelaskan mekanisme kerja algoritmanya sama sekali.
 
 ---
 
@@ -1273,9 +1295,12 @@ Mengapa **plafon auditorium** sering tidak rata (panel-panel miring)?
 - C. **Multi-kamera berkecepatan tinggi (bukan akustik) — bukan menggunakan pemantulan bunyi**
 - D. Sonar
 
-**📖 Pembahasan:** Trik soal — Hawk-Eye visual, bukan akustik. **Cricket** punya "snickometer" akustik (deteksi suara raket-bola), bukan tenis.
-
-- **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tidak semua teknologi olahraga berbasis bunyi — Hawk-Eye memakai kamera kecepatan tinggi (visual), bukan pantulan bunyi seperti sonar.
+- **A salah:** ini jebakan karena banyak aplikasi bunyi dibahas di soal lain, tapi Hawk-Eye justru berbasis kamera, bukan akustik.
+- **B salah:** tidak ada elemen magnet dalam sistem pelacakan bola tenis ini.
+- **C benar:** Hawk-Eye menggunakan beberapa kamera berkecepatan tinggi untuk merekonstruksi lintasan bola secara visual, bukan memakai gelombang bunyi. **Cricket** punya "snickometer" akustik (deteksi suara raket-bola), tapi itu bukan Hawk-Eye tenis.
+- **D salah:** sonar (bunyi bawah air) tidak relevan sama sekali untuk pelacakan bola di lapangan tenis.
 
 ---
 
@@ -1288,10 +1313,12 @@ Mengapa **plafon auditorium** sering tidak rata (panel-panel miring)?
 - C. Mahal
 - D. Estetika
 
-**📖 Pembahasan:** Anechoic chamber = dinding-langit-lantai dilapisi foam pyramid panjang yang menyerap hampir 100% bunyi. Hening hampir sempurna. Pengalaman psikologis aneh.
-- Aplikasi: kalibrasi alat audio, riset akustik, uji noise mesin.
-
-- **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Anechoic chamber dilapisi bahan penyerap bunyi total sehingga tidak ada pantulan sama sekali, ideal untuk mengukur bunyi murni dari sebuah sumber tanpa gangguan.
+- **A salah:** ruangan ini hasil rekayasa akustik presisi, bukan kebiasaan lama.
+- **B benar:** tanpa pantulan, alat ukur bisa menangkap bunyi asli murni dari mikrofon/speaker/mesin yang diuji, sehingga hasil pengukuran akurat.
+- **C salah:** meski biayanya memang mahal, itu bukan jawaban atas "kegunaan"-nya — pertanyaan menanyakan fungsi, bukan biaya.
+- **D salah:** ruangan ini dirancang untuk fungsi ilmiah pengujian akustik, bukan untuk keindahan visual.
 
 ---
 
@@ -1304,9 +1331,12 @@ Mengapa **acoustic guitar** terdengar lebih kaya dari **electric guitar** tanpa 
 - C. Mahal
 - D. Sama saja
 
-**📖 Pembahasan:** Acoustic: body besar berlubang → resonansi + pantulan dalam → suara kaya. Electric: body padat, pickup tangkap getaran senar lewat magnet → butuh amplifier.
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Body gitar akustik yang berongga berfungsi sebagai ruang resonansi yang memantulkan & memperkuat getaran senar menjadi suara kaya, sedangkan gitar listrik mengandalkan pickup elektromagnetik yang butuh amplifier.
+- **A benar:** rongga body memantulkan gelombang bunyi berulang kali (resonansi) sehingga menghasilkan suara natural yang kaya tanpa alat elektronik.
+- **B salah:** perbedaan suara ini murni akibat prinsip fisika resonansi & pantulan, bukan sekadar kebiasaan bermusik.
+- **C salah:** harga gitar tidak menjelaskan mengapa suaranya berbeda secara fisis.
+- **D salah:** keduanya jelas berbeda — gitar akustik menghasilkan bunyi lewat resonansi mekanis, gitar listrik lewat sinyal elektromagnetik yang perlu diperkuat.
 
 ---
 
@@ -1319,9 +1349,12 @@ Kelelawar bisa mendeteksi mangsa selebar **1 mm** karena...
 - C. Mata baik
 - D. Mahal
 
-**📖 Pembahasan:** Resolusi gelombang ≈ panjang gelombang. λ = v/f. Untuk 100 kHz di udara: λ = 340/100000 ≈ 3.4 mm. Detail sangat halus terdeteksi.
-
-- **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Resolusi deteksi suatu gelombang berkaitan dengan panjang gelombangnya (λ = v/f) — semakin tinggi frekuensi, semakin pendek λ, semakin detail objek yang bisa dibedakan.
+- **A salah:** kemampuan ini murni hasil frekuensi ultrasonik sangat tinggi yang dipancarkan kelelawar, bukan kebiasaan turun-temurun.
+- **B benar:** frekuensi 50-200 kHz menghasilkan panjang gelombang sangat pendek (orde milimeter, λ = 340/100000 ≈ 3.4 mm), sehingga kelelawar bisa "meraba" detail sehalus 1 mm lewat pantulan bunyi.
+- **C salah:** justru kelelawar terkenal berpenglihatan terbatas dan mengandalkan ekolokasi (bunyi), bukan mata, untuk berburu di kegelapan.
+- **D salah:** "mahal" tidak relevan sebagai penjelasan kemampuan biologis kelelawar.
 
 ---
 
@@ -1334,11 +1367,12 @@ USG vs MRI untuk pemeriksaan medis:
 - C. Sangat berbeda
 - D. MRI memantulkan bunyi
 
-**📖 Pembahasan:** USG vs MRI = teknologi beda:
-- USG: gelombang bunyi, $10-50 per scan, aman.
-- MRI: NMR (Nuclear Magnetic Resonance), $1000+ per scan, gambar sangat detail organ.
-
-- **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** USG dan MRI adalah dua teknologi pencitraan medis dengan prinsip fisika berbeda — USG memakai gelombang bunyi (ultrasonik), MRI memakai medan magnet & gelombang radio (resonansi magnetik inti).
+- **A salah:** menyamakan keduanya mengabaikan perbedaan mendasar prinsip fisikanya.
+- **B benar:** USG murah, aman untuk janin, dan real-time karena berbasis bunyi; MRI mahal dan detail tinggi karena berbasis medan magnet, namun tidak dipakai rutin untuk janin.
+- **C salah:** pernyataan ini benar tapi tidak menjelaskan apa pun — pilihan tidak informatif yang tidak menjawab perbandingan yang diminta.
+- **D salah:** MRI sama sekali tidak menggunakan pemantulan bunyi; itu justru definisi USG, bukan MRI.
 
 ---
 
@@ -1351,9 +1385,12 @@ Pengukur ketebalan dinding pipa logam (yang masih dipasang/tidak dilihat dalam) 
 - C. Tradisi
 - D. Sinar X
 
-**📖 Pembahasan:** Pengukur ketebalan ultrasonik = alat genggam standar di industri (oil & gas, pipeline, shipping). Cek korosi internal tanpa membongkar pipa.
-
-- **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Ultrasonic thickness gauge memancarkan pulsa bunyi ke dinding logam, lalu mengukur waktu pantulnya dari sisi dalam untuk menghitung ketebalan tanpa membongkar pipa.
+- **A benar:** prinsip pemantulan bunyi (echo) dipakai menghitung jarak/tebal dinding logam secara non-destruktif — alat genggam standar di industri oil & gas, pipeline, shipping.
+- **B salah:** pengukuran ini berbasis gelombang ultrasonik, bukan medan magnet.
+- **C salah:** ini teknologi presisi modern berbasis fisika gelombang, bukan kebiasaan lama.
+- **D salah:** sinar-X memang bisa dipakai untuk NDT juga, tapi soal ini spesifik menanyakan alat berbasis pantulan bunyi (echo), bukan radiasi elektromagnetik pengion.
 
 ---
 
@@ -1366,7 +1403,12 @@ Selain pemantulan, bunyi juga dapat...
 - C. **Pembiasan (refraksi) — saat berpindah dari medium ke medium berbeda (udara hangat → dingin), arah berubah**
 - D. Hilang sepenuhnya
 
-**📖 Pembahasan:** Pembiasan bunyi terjadi di atmosfer dengan suhu tidak rata (gradien). Hari panas, bunyi di permukaan cepat → membelok ke atas. Malam dingin (inversi), bunyi membelok ke bawah → terdengar dari jauh.
+**Pembahasan:**
+- **Konsep kunci:** Selain memantul, bunyi juga bisa dibiaskan (refraksi) saat melewati medium dengan suhu atau kerapatan berbeda, mirip cahaya yang membelok saat masuk air.
+- **A salah:** Penguraian seperti pelangi (dispersi warna) terjadi pada cahaya karena beda indeks bias tiap warna; bunyi tidak punya "warna" sehingga tidak terurai jadi spektrum seperti itu.
+- **B salah:** Polarisasi hanya bisa terjadi pada gelombang transversal seperti cahaya, sedangkan bunyi adalah gelombang longitudinal (rapatan-renggangan) yang getarannya searah rambatnya, jadi tidak bisa dipolarisasi.
+- **C benar:** Bunyi bisa dibiaskan (refraksi) saat berpindah dari udara hangat ke udara dingin (atau sebaliknya) karena kecepatan rambatnya berubah, sehingga arahnya berbelok — mirip pembiasan cahaya saat berpindah medium.
+- **D salah:** Bunyi tidak hilang sepenuhnya saat berpindah medium; sebagian energinya bisa dipantulkan, dibiaskan, atau diserap, tapi tidak langsung lenyap begitu saja.
 
 - **C benar.**
 
@@ -1381,7 +1423,12 @@ Kapal selam pakai **sonar pasif** = mendengar tanpa memancarkan. Alasan:
 - C. **Sonar aktif (memancarkan) mengungkap posisi kapal selam ke musuh. Pasif diam-diam → tidak terdeteksi**
 - D. Tradisi
 
-**📖 Pembahasan:** Strategi militer kapal selam: pasif = stealth. Aktif hanya saat darurat atau saat sudah dilatih terdeteksi.
+**Pembahasan:**
+- **Konsep kunci:** Sonar pasif hanya mendengarkan bunyi/pantulan di sekitar tanpa memancarkan gelombang sendiri, sehingga kapal selam tetap tersembunyi (stealth).
+- **A salah:** Menghemat baterai bisa jadi keuntungan tambahan, tapi bukan alasan utama militer memilih sonar pasif — alasan utamanya adalah menjaga kerahasiaan posisi, bukan soal daya baterai.
+- **B salah:** Sonar aktif tidak selalu lebih mahal daripada pasif; pemilihan mode sonar ditentukan oleh kebutuhan menyembunyikan posisi, bukan oleh harga alat.
+- **C benar:** Sonar aktif memancarkan gelombang bunyi yang bisa terdeteksi kapal musuh dan membocorkan posisi kapal selam, sedangkan sonar pasif hanya "mendengar" sehingga kapal selam tetap tidak terdeteksi.
+- **D salah:** Penggunaan sonar pasif bukan sekadar kebiasaan, melainkan strategi militer yang disengaja untuk menjaga kerahasiaan posisi kapal selam.
 
 - **C benar.**
 
@@ -1396,7 +1443,12 @@ Mengapa **gondrong** (lukisan dinding) kadang punya **patron geometris** yang ta
 - C. Tradisi religius
 - D. Mahal
 
-**📖 Pembahasan:** Banyak gereja & masjid tua punya akustik luar biasa karena geometri ruangan + ornamen dinding sengaja dirancang untuk khotbah. Lukisan/ornamen tidak rata = diffuser alami.
+**Pembahasan:**
+- **Konsep kunci:** Bentuk dan tekstur permukaan dinding memengaruhi bagaimana bunyi dipantulkan atau disebar (diffusi), sehingga bisa dirancang agar suara terdengar merata ke seluruh ruangan.
+- **A benar:** Pola geometris dan ukiran pada dinding tempat ibadah membuat bunyi dipantulkan ke berbagai arah (diffuse), sehingga suara khotbah menyebar merata ke seluruh jamaah, bukan hanya menumpuk gema di satu titik.
+- **B salah:** Meskipun terlihat indah, pola tersebut ternyata juga punya fungsi akustik nyata — bukan sekadar hiasan tanpa tujuan lain.
+- **C salah:** Alasan religius bisa jadi latar belakang dibuatnya ornamen, tapi pertanyaan ini menanyakan alasan ilmiah di balik pengaruh pola tersebut terhadap akustik, bukan alasan tradisi/agamanya.
+- **D salah:** Biaya pembuatan ornamen tidak ada hubungannya dengan mengapa pola tersebut bisa memengaruhi pantulan bunyi di ruangan.
 
 - **A benar.**
 
@@ -1411,7 +1463,12 @@ Mengapa **gondrong** (lukisan dinding) kadang punya **patron geometris** yang ta
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Beamforming = teknik kontrol fase di array speaker. Suara terkonsentrasi ke arah audience, tidak ke samping atau atas. Efisien & mengurangi noise pollution ke sekitar venue.
+**Pembahasan:**
+- **Konsep kunci:** Beamforming adalah teknik mengatur waktu/fase bunyi dari banyak speaker sehingga gelombang bunyi saling menguatkan (interferensi konstruktif) ke arah penonton.
+- **A salah:** Magnet memang ada di dalam speaker untuk menggerakkan membrannya, tapi itu bukan yang membuat suara bisa difokuskan ke arah tertentu.
+- **B benar:** Dengan mengatur fase bunyi dari banyak speaker (beamforming), gelombang bunyi saling menguatkan ke arah penonton dan saling melemahkan ke arah lain, sehingga suara terasa terfokus.
+- **C salah:** Ini bukan sekadar kebiasaan memasang speaker, melainkan hasil perhitungan fisika gelombang yang disengaja.
+- **D salah:** Harga peralatan tidak menjelaskan bagaimana bunyi bisa diarahkan secara terfokus ke penonton.
 
 - **B benar.**
 
@@ -1426,7 +1483,12 @@ Tabung tertutup satu ujung dengan panjang L. Frekuensi dasar (dengan kepala simp
 - C. **v/(4L)** (panjang gelombang dasar = 4L)
 - D. 2v/L
 
-**📖 Pembahasan:** Tabung tertutup satu ujung: hanya ¼ λ muat di L. Maka λ = 4L. f = v/λ = v/(4L).
+**Pembahasan:**
+- **Konsep kunci:** Pada tabung tertutup satu ujung, hanya seperempat gelombang (¼λ) yang muat sepanjang tabung, sehingga panjang gelombang dasarnya λ = 4L.
+- **A salah:** Rumus v/(2L) berlaku untuk tabung/dawai yang KEDUA ujungnya terbuka (atau kedua ujung terikat), bukan untuk tabung tertutup satu ujung.
+- **B salah:** v/L bukan rumus frekuensi dasar resonansi tabung tertutup satu ujung; rumus ini tidak memperhitungkan bahwa hanya seperempat gelombang yang muat di tabung.
+- **C benar:** Karena hanya ¼ gelombang yang muat di tabung tertutup satu ujung, λ = 4L, sehingga frekuensi dasar f = v/λ = v/(4L).
+- **D salah:** Rumus 2v/L tidak sesuai kondisi fisik tabung tertutup satu ujung; nilai ini justru menggandakan angka yang seharusnya dibagi 4.
 
 - **C benar.**
 
@@ -1441,7 +1503,12 @@ Mengapa kelas musik vocal sering pakai **mic + speaker** walaupun ruangan kecil?
 - C. Estetika
 - D. Hiburan
 
-**📖 Pembahasan:** Ruang kelas dirancang untuk speech (banyak penyerap → RT60 pendek). Vocal classical butuh sedikit reverb. Mic+speaker bisa menambah reverb digital untuk simulasi konser.
+**Pembahasan:**
+- **Konsep kunci:** Akustik ruangan (banyak sedikitnya benda pemantul/penyerap bunyi) memengaruhi seberapa "hidup" atau "mati" suara yang terdengar di ruangan tersebut.
+- **A salah:** Penggunaan mic dan speaker bukan sekadar kebiasaan turun-temurun, melainkan solusi teknis untuk masalah akustik ruangan yang kurang mendukung.
+- **B benar:** Ruang kelas biasanya penuh benda penyerap bunyi (meja, papan tulis, dinding polos) sehingga pantulan bunyi sedikit dan suara vokal terasa kurang "penuh"; mic dan speaker membantu menguatkan dan menyeimbangkan suara vokal dengan musik pengiring.
+- **C salah:** Alasannya bukan soal keindahan tampilan, melainkan soal kualitas akustik ruangan yang perlu dibantu secara teknis.
+- **D salah:** Tujuannya bukan sekadar hiburan tambahan, melainkan menyelesaikan masalah nyata yaitu akustik ruangan yang kurang mendukung suara vokal.
 
 - **B benar.**
 
@@ -1456,7 +1523,12 @@ Beberapa **paus** kadang **stranding** (terdampar di pantai) tertentu. Salah sat
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Suara intensitas tinggi dari sonar militer (~200+ dB) bisa menyebabkan kebingungan dan dekompresi di paus. Beberapa kasus stranding berkorelasi dengan latihan angkatan laut.
+**Pembahasan:**
+- **Konsep kunci:** Paus menggunakan bunyi (echolocation) untuk bernavigasi di laut, sehingga gangguan suara buatan manusia bisa mengacaukan kemampuan navigasi mereka.
+- **A salah:** Menyebut "mati alami" tidak menjelaskan mengapa banyak paus terdampar bersamaan pada waktu tertentu; jawaban ini mengabaikan pola kejadian yang berkaitan dengan aktivitas manusia.
+- **B benar:** Suara sonar militer atau kebisingan kapal yang sangat keras (~200+ dB) dapat mengganggu sistem echolocation paus, membuat mereka kehilangan arah navigasi sehingga bisa terdampar di pantai.
+- **C salah:** Ini bukan soal kebiasaan/tradisi, melainkan gangguan suara buatan manusia terhadap sistem navigasi alami paus.
+- **D salah:** Biaya tidak ada hubungannya dengan sebab paus kehilangan arah dan terdampar.
 
 - **B benar.**
 
@@ -1471,7 +1543,12 @@ Pemantulan bunyi mengikuti hukum sama dengan pemantulan cahaya: **sudut datang =
 - C. Cahaya laser
 - D. **Semua gelombang (universal)**
 
-**📖 Pembahasan:** Hukum pemantulan universal untuk semua gelombang yang menabrak permukaan: bunyi, cahaya, gempa, air, EM, gelombang radio.
+**Pembahasan:**
+- **Konsep kunci:** Hukum pemantulan (sudut datang = sudut pantul) berlaku untuk semua jenis gelombang yang mengenai suatu permukaan, bukan hanya bunyi atau cahaya.
+- **A salah:** Menyebut hanya gelombang gempa terlalu sempit; gelombang gempa memang mengikuti hukum ini, tapi bukan satu-satunya jenis gelombang yang berlaku.
+- **B salah:** Menyebut hanya gelombang air juga terlalu sempit, karena hukum pemantulan berlaku lebih luas untuk semua jenis gelombang.
+- **C salah:** Menyebut hanya cahaya laser membatasi hukum ini seolah khusus untuk cahaya, padahal berlaku juga untuk bunyi dan gelombang lainnya.
+- **D benar:** Hukum sudut datang sama dengan sudut pantul adalah sifat umum semua gelombang (bunyi, cahaya, air, gempa) ketika mengenai suatu permukaan pemantul.
 
 - **D benar.**
 
@@ -1486,7 +1563,12 @@ Pemantulan bunyi mengikuti hukum sama dengan pemantulan cahaya: **sudut datang =
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Beberapa app HP memanfaatkan speaker+mic untuk ultrasonic ranging. Akurasi <10 cm untuk jarak <5 m. Aplikasi: AR, gaming, gesture detection.
+**Pembahasan:**
+- **Konsep kunci:** Beberapa aplikasi HP memanfaatkan speaker untuk memancarkan bunyi ultrasonik dan mic untuk menangkap pantulannya, lalu menghitung jarak dari selisih waktu — prinsip yang sama dengan sonar/gema.
+- **A benar:** Speaker HP memancarkan bunyi ultrasonik, mic menangkap pantulannya, lalu jarak dihitung dari waktu tempuh bunyi — prinsip yang sama dengan sonar dan gema.
+- **B salah:** Cahaya dipakai untuk sensor jarak lain (misalnya sensor inframerah), tapi bukan cara kerja "echo akustik" yang ditanyakan di soal ini.
+- **C salah:** Magnet tidak dipakai untuk mengukur jarak dengan metode pantulan bunyi; ini bukan prinsip yang relevan di sini.
+- **D salah:** Ini bukan sekadar fitur "tradisi" ponsel lama, melainkan teknologi berbasis prinsip pemantulan bunyi yang memang sengaja dirancang.
 
 - **A benar.**
 
@@ -1501,7 +1583,12 @@ Kelelawar memancarkan ultrasonik dan menerima pantul. Saat mangsa bergerak mende
 - C. Lebih rendah
 - D. Tidak ada
 
-**📖 Pembahasan:** Doppler effect: mangsa mendekat → frekuensi pantul yang diterima lebih tinggi dari yang dipancarkan. Kelelawar bisa "tahu" mangsa bergerak mendekat (potensi ditangkap) atau menjauh.
+**Pembahasan:**
+- **Konsep kunci:** Efek Doppler membuat frekuensi bunyi pantul terdengar lebih tinggi ketika benda yang memantulkannya bergerak mendekat, dan lebih rendah saat menjauh.
+- **A salah:** Frekuensi tidak akan sama jika mangsa bergerak, karena gerakan relatif antara kelelawar dan mangsa mengubah frekuensi bunyi pantul (efek Doppler).
+- **B benar:** Saat mangsa mendekat, gelombang bunyi pantul "termampatkan" sehingga frekuensinya menjadi lebih tinggi dari frekuensi yang dipancarkan — inilah efek Doppler.
+- **C salah:** Frekuensi menjadi lebih rendah justru terjadi jika mangsa menjauh, bukan mendekat seperti pada soal ini.
+- **D salah:** Tetap ada perubahan frekuensi akibat gerakan mangsa; bukan berarti tidak ada efek sama sekali.
 
 - **B benar.**
 
@@ -1516,7 +1603,12 @@ Kelelawar memancarkan ultrasonik dan menerima pantul. Saat mangsa bergerak mende
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** SOFAR (Sound Fixing And Ranging) channel: di kedalaman tertentu, kecepatan bunyi minimum karena interaksi tekanan & suhu. Bunyi yang masuk lapisan ini terjebak (refraksi vertikal) dan merambat sangat jauh.
+**Pembahasan:**
+- **Konsep kunci:** Di kedalaman laut tertentu, kecepatan bunyi mencapai titik minimum sehingga bunyi cenderung "terjebak" dan dibiaskan (refraksi) kembali ke lapisan itu, membuatnya bisa merambat sangat jauh.
+- **A salah:** Bunyi di lapisan SOFAR justru tidak banyak terserap, melainkan terjebak dan merambat sangat jauh karena sifat pembiasannya.
+- **B benar:** Pada kedalaman 600-1200 m, kecepatan bunyi di laut mencapai titik minimum sehingga bunyi dibiaskan kembali ke lapisan ini (seperti terperangkap) dan bisa merambat ribuan kilometer tanpa banyak kehilangan energi.
+- **C salah:** Fenomena ini bukan sekadar kebiasaan, melainkan akibat sifat fisis kecepatan bunyi yang berubah terhadap kedalaman laut.
+- **D salah:** Biaya tidak relevan untuk menjelaskan mengapa bunyi bisa merambat sangat jauh di lapisan laut tertentu.
 
 - **B benar.**
 
@@ -1531,7 +1623,12 @@ Mengapa **kompartemen kabin pesawat** punya panel akustik?
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Penumpang pesawat menghadapi noise 70-85 dB konstan (mesin, aerodinamika). Bahan akustik di kabin + isolasi dinding mengurangi ke 65-75 dB. Tetap berisik tapi lebih nyaman.
+**Pembahasan:**
+- **Konsep kunci:** Bahan akustik pada kabin pesawat berfungsi menyerap sebagian kebisingan mesin dan aerodinamika agar penumpang lebih nyaman.
+- **A salah:** Panel tersebut bukan sekadar hiasan; fungsi utamanya adalah meredam suara bising, walau tampilannya juga dirancang rapi.
+- **B benar:** Panel akustik menyerap sebagian energi bunyi bising dari mesin dan hembusan udara, sehingga tingkat kebisingan di kabin berkurang (dari sekitar 70-85 dB jadi 65-75 dB) dan penumpang lebih nyaman.
+- **C salah:** Ini bukan sekadar kebiasaan desain pesawat, melainkan kebutuhan teknis untuk mengurangi kebisingan.
+- **D salah:** Biaya bukan alasan utama pemasangan panel akustik; alasan utamanya adalah kenyamanan dan pengurangan kebisingan.
 
 - **B benar.**
 
@@ -1546,7 +1643,12 @@ Mengapa **kompartemen kabin pesawat** punya panel akustik?
 - C. Mahal
 - D. Hiburan
 
-**📖 Pembahasan:** Hydrophone (mikrofon bawah air) merekam suara laut. Software AI identifikasi spesies dari vocalization. Cara non-invasive untuk monitor ekologi laut.
+**Pembahasan:**
+- **Konsep kunci:** Passive acoustic monitoring menggunakan mikrofon bawah air (hidrofon) untuk mendengarkan suara hewan laut tanpa mengganggu mereka, sehingga bisa mempelajari populasi dan perilakunya.
+- **A salah:** Metode ini bukan sekadar kebiasaan lama, melainkan teknik ilmiah modern untuk mempelajari kehidupan laut.
+- **B benar:** Dengan mendengarkan suara paus dan lumba-lumba lewat hidrofon, ilmuwan bisa memperkirakan jumlah populasi dan mengamati perilaku hewan laut tanpa perlu mendekat atau mengganggu mereka secara langsung.
+- **C salah:** Biaya bukan tujuan dari metode ini; tujuannya adalah mempelajari ekosistem laut secara non-invasif.
+- **D salah:** Tujuannya bukan sekadar hiburan, melainkan penelitian ilmiah tentang populasi dan perilaku hewan laut.
 
 - **B benar.**
 
@@ -1578,7 +1680,12 @@ Sintesis pemantulan bunyi tingkat Prov:
 - C. R = 1
 - D. R = 0
 
-**📖 Pembahasan:** Z_udara ~ 400; Z_air ~ 1.5 × 10⁶. Beda besar → pantulan ~99.9%. Z_jaringan ~ Z_air → bunyi menembus tubuh. USG butuh gel coupling agar tidak ada udara antara probe-kulit.
+**Pembahasan:**
+- **Konsep kunci:** Impedansi akustik (Z = kerapatan × kecepatan bunyi) menentukan seberapa besar bunyi dipantulkan saat melewati batas dua medium; makin besar beda Z, makin besar bunyi yang dipantulkan.
+- **A benar:** Rumus koefisien refleksi R = ((Z2-Z1)/(Z2+Z1))² menghitung proporsi energi bunyi yang dipantulkan berdasarkan selisih impedansi kedua medium.
+- **B salah:** R = Z1/Z2 bukan rumus koefisien refleksi yang benar; rumus ini tidak memperhitungkan selisih dan penjumlahan impedansi secara kuadrat seperti rumus yang tepat.
+- **C salah:** R = 1 berarti semua bunyi terpantul sempurna, padahal ini hanya terjadi pada kasus ekstrem (beda impedansi sangat besar), bukan rumus umum untuk semua kondisi.
+- **D salah:** R = 0 berarti tidak ada bunyi yang dipantulkan sama sekali, padahal pemantulan selalu ada selama ada perbedaan impedansi antara dua medium.
 
 - **A benar.**
 
@@ -1593,7 +1700,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. 1%
 - D. 0%
 
-**📖 Pembahasan:** Beda Z besar → R mendekati 1. Itu sebabnya pancuran air kolam dari atas suaranya tidak terdengar di dalam air dengan jelas.
+**Pembahasan:**
+- **Konsep kunci:** Semakin besar perbedaan impedansi akustik dua medium, semakin besar persentase energi bunyi yang dipantulkan di batas keduanya.
+- **A benar:** Karena impedansi air jauh lebih besar daripada udara, hampir semua energi bunyi (~99,9%) dipantulkan kembali ke udara dan hanya sedikit yang menembus ke air.
+- **B salah:** 50% berarti separuh energi dipantulkan dan separuh diteruskan; ini terjadi kalau kedua medium punya impedansi yang mirip, bukan seperti udara dan air yang sangat berbeda.
+- **C salah:** 1% terlalu kecil; angka ini justru mendekati persentase bunyi yang DITERUSKAN ke air, bukan yang dipantulkan.
+- **D salah:** 0% berarti tidak ada pemantulan sama sekali, padahal justru hampir semua bunyi dipantulkan karena beda impedansi yang sangat besar.
 
 - **A benar.**
 
@@ -1608,7 +1720,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Phased array = teknologi NDT modern. Probe dengan 64+ elemen ultrasonik. Kontrol fase = beam bisa di-focus & di-steer. Aplikasi: aviasi, nuklir, oil & gas.
+**Pembahasan:**
+- **Konsep kunci:** Phased array ultrasonic menggunakan banyak transduser yang diatur beda waktu/fasenya sehingga berkas gelombang ultrasoniknya bisa diarahkan secara elektronik tanpa menggerakkan alatnya secara fisik.
+- **A benar:** Dengan mengatur fase banyak transduser, arah berkas ultrasonik bisa "digeser" secara elektronik untuk memindai area luas dan mendeteksi retak dari berbagai sudut tanpa memindahkan probe secara manual.
+- **B salah:** Magnet tidak digunakan untuk mengarahkan berkas ultrasonik pada teknologi phased array; teknik ini murni berbasis pengaturan fase gelombang bunyi.
+- **C salah:** Ini bukan sekadar kebiasaan pengujian lama, melainkan teknologi modern yang memanfaatkan prinsip interferensi gelombang.
+- **D salah:** Cahaya tidak digunakan dalam metode ini; yang digunakan adalah gelombang ultrasonik (bunyi), bukan cahaya.
 
 - **A benar.**
 
@@ -1623,10 +1740,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** Acoustic camera = alat industri canggih. Aplikasi:
-- Deteksi kebocoran gas (mendesis ultrasonik).
-- Lokalisasi noise di mobil/pesawat.
-- Audio forensik.
+**Pembahasan:**
+- **Konsep kunci:** Kamera akustik menggunakan susunan banyak mikrofon untuk menangkap bunyi dari berbagai arah, lalu komputer menghitung asal sumber bunyi (beamforming) dan menampilkannya sebagai peta panas di atas gambar visual.
+- **A salah:** Magnet tidak berperan dalam menangkap dan memetakan sumber bunyi pada teknologi ini.
+- **B benar:** Puluhan mikrofon menangkap bunyi dari berbagai arah, lalu komputer menghitung selisih waktu tiap mikrofon (beamforming) untuk menemukan lokasi sumber bunyi dan menampilkannya sebagai heatmap di atas gambar visual (misalnya untuk deteksi kebocoran gas atau noise mesin).
+- **C salah:** Cahaya bukan yang dipetakan atau dianalisis di sini; yang dipetakan adalah sumber bunyi.
+- **D salah:** Ini bukan sekadar kebiasaan lama, melainkan teknologi pengolahan sinyal bunyi modern.
 
 - **B benar.**
 
@@ -1641,7 +1760,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Listrik
 - D. Cahaya
 
-**📖 Pembahasan:** Tekanan akustik di standing wave: maksimum di antinode, minimum di node. Benda kecil terjebak di node (tekanan rendah) → stable levitation.
+**Pembahasan:**
+- **Konsep kunci:** Pada gelombang berdiri (standing wave) ultrasonik, ada titik-titik tekanan minimum (node) yang bisa "menjebak" dan mengangkat benda kecil sehingga tampak melayang.
+- **A benar:** Benda kecil terjebak di titik node (tekanan minimum) dari gelombang berdiri ultrasonik, sehingga gaya di sekitarnya membuat benda tersebut bisa "mengambang" stabil di udara.
+- **B salah:** Magnet tidak digunakan dalam levitasi akustik; yang berperan adalah tekanan gelombang bunyi ultrasonik, bukan gaya magnet.
+- **C salah:** Listrik hanya digunakan untuk menghasilkan gelombang ultrasoniknya (menggerakkan transduser), bukan sebagai gaya yang langsung mengangkat benda.
+- **D salah:** Cahaya tidak berperan dalam levitasi akustik; prinsip ini murni memanfaatkan tekanan gelombang bunyi.
 
 - **A benar.**
 
@@ -1656,10 +1780,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. **Kavitasi: gelembung mikro pecah → suhu sangat tinggi (>5000 K lokal) + tekanan tinggi → memicu reaksi kimia atau memecah molekul**
 - D. Cahaya
 
-**📖 Pembahasan:** Cavitation collapses produce hot spots in liquid. Aplikasi:
-- Synthesis nanopartikel.
-- Memecah polimer.
-- Pemurnian air.
+**Pembahasan:**
+- **Konsep kunci:** Gelembung mikro yang terbentuk dan pecah akibat gelombang ultrasonik (kavitasi) menghasilkan suhu dan tekanan sangat tinggi secara lokal, yang bisa memicu reaksi kimia.
+- **A salah:** Ini bukan sekadar kebiasaan; sonokimia memanfaatkan efek fisik nyata dari gelombang ultrasonik pada cairan.
+- **B salah:** Magnet tidak berperan dalam proses ini; yang berperan adalah gelombang ultrasonik yang menimbulkan kavitasi.
+- **C benar:** Gelombang ultrasonik menciptakan gelembung mikro yang pecah dengan sangat cepat (kavitasi), menghasilkan suhu lokal sangat tinggi (>5000 K) dan tekanan besar yang dapat memicu atau mempercepat reaksi kimia — dipakai misalnya untuk sintesis nanopartikel atau pemurnian air.
+- **D salah:** Cahaya tidak digunakan dalam sonokimia; mekanismenya murni berasal dari energi gelombang bunyi ultrasonik.
 
 - **C benar.**
 
@@ -1674,10 +1800,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Semua untuk udara
 - D. Tradisi
 
-**📖 Pembahasan:** Tiga teknologi sister:
-- **Radar** (gelombang radio): pesawat, kapal, mobil autonomous.
-- **Sonar** (bunyi): kapal selam, kapal laut, mapping dasar laut.
-- **LiDAR** (laser): mobil autonomous, robotika, topographic mapping.
+**Pembahasan:**
+- **Konsep kunci:** Ketiga teknologi ranging ini menggunakan gelombang berbeda yang cocok untuk medium berbeda pula — cahaya laser, bunyi, dan gelombang radio.
+- **A salah:** Ketiganya tidak sama; masing-masing memakai jenis gelombang dan cocok untuk medium yang berbeda.
+- **B benar:** LiDAR memakai laser (cocok di udara/darat, misalnya mobil otonom), Sonar memakai bunyi (cocok di air karena bunyi merambat baik di air), dan Radar memakai gelombang radio (cocok di udara/luar angkasa).
+- **C salah:** Tidak semuanya untuk udara; sonar justru dipakai di dalam air karena gelombang radio dan cahaya cepat teredam di air.
+- **D salah:** Perbedaan ini bukan sekadar tradisi, melainkan hasil pertimbangan sifat fisik tiap jenis gelombang dan medium penggunaannya.
 
 - **B benar.**
 
@@ -1692,7 +1820,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Photoacoustic imaging = "best of both": kontras tinggi seperti optical (bedakan hemoglobin, lemak) + resolusi dalam tubuh seperti USG. Penelitian aktif untuk deteksi kanker dini.
+**Pembahasan:**
+- **Konsep kunci:** Photoacoustic imaging menggabungkan cahaya laser dan gelombang ultrasonik: laser memanaskan jaringan sedikit, jaringan memuai cepat dan menghasilkan gelombang ultrasonik yang bisa ditangkap untuk membentuk gambar.
+- **A benar:** Laser pulsa menembak jaringan, energinya diserap dan menyebabkan pemuaian termal cepat yang menghasilkan gelombang ultrasonik; gelombang ini ditangkap detektor untuk membentuk gambar 3D dengan kontras optik dan resolusi akustik.
+- **B salah:** Magnet tidak berperan dalam pencitraan photoacoustic; teknologi ini menggabungkan cahaya laser dan gelombang bunyi.
+- **C salah:** Ini bukan sekadar kebiasaan medis lama, melainkan teknologi pencitraan baru yang sedang diteliti secara aktif.
+- **D salah:** "Mahal" bukan penjelasan cara kerja teknologi ini; pertanyaan meminta prinsip kerja, bukan soal biaya.
 
 - **A benar.**
 
@@ -1707,11 +1840,12 @@ Udara (Z=400) ke air (Z=1.5×10⁶). Reflection coefficient:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** AI speech recognition:
-1. Audio → spectrogram (frekuensi vs waktu).
-2. CNN/RNN proses pattern.
-3. Output: teks.
-Akurasi modern >95% untuk bahasa populer.
+**Pembahasan:**
+- **Konsep kunci:** Sistem pengenalan suara modern menggunakan jaringan saraf tiruan (neural network) yang dilatih dengan sangat banyak data audio untuk mengenali pola suara dan mengubahnya jadi teks.
+- **A salah:** Magnet tidak digunakan dalam proses pengenalan suara oleh perangkat lunak; yang digunakan adalah pengolahan sinyal audio dan kecerdasan buatan.
+- **B benar:** Model AI seperti RNN/Transformer dilatih dengan jutaan jam rekaman suara dan teksnya, sehingga bisa mengenali pola frekuensi dan waktu dalam suara (spectrogram) untuk mengubahnya jadi teks kata-kata.
+- **C salah:** Ini bukan sekadar cara lama/tradisional; teknologi ini memakai kecerdasan buatan yang terus berkembang dan diperbarui.
+- **D salah:** Cahaya tidak digunakan dalam pengenalan suara; yang diproses adalah sinyal audio (gelombang bunyi).
 
 - **B benar.**
 
@@ -1726,7 +1860,12 @@ Akurasi modern >95% untuk bahasa populer.
 - C. Cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** Beamforming akustik (analog speaker): time-delay menggabungkan sinyal mic untuk konstruktif ke arah tertentu, destruktif lainnya. Sangat efektif di smart speaker.
+**Pembahasan:**
+- **Konsep kunci:** Beamforming pada mikrofon menggunakan susunan beberapa mikrofon untuk menghitung selisih waktu datangnya bunyi, sehingga sistem bisa fokus mendengar dari satu arah dan mengabaikan suara dari arah lain.
+- **A salah:** Magnet tidak berperan dalam memilih arah suara; yang berperan adalah pengolahan sinyal dari beberapa mikrofon.
+- **B benar:** Susunan beberapa mikrofon menangkap bunyi dengan selisih waktu (delay) berbeda-beda; komputer menghitung selisih ini untuk memfokuskan "pendengaran" ke arah pembicara dan meredam suara dari arah lain.
+- **C salah:** Cahaya tidak digunakan untuk menentukan arah suara pada smart speaker; teknik ini murni mengolah sinyal bunyi dari mikrofon.
+- **D salah:** Ini bukan sekadar kebiasaan lama, melainkan teknologi pengolahan sinyal digital yang disengaja dirancang.
 
 - **B benar.**
 
@@ -1741,10 +1880,12 @@ Akurasi modern >95% untuk bahasa populer.
 - C. Mahal
 - D. Tradisi
 
-**📖 Pembahasan:** Pilot pakai headset noise canceling (Bose A20, Lightspeed Zulu) untuk:
-- Komunikasi radio jelas.
-- Hindari kelelahan dari noise kronis.
-- Detect alarm/peringatan.
+**Pembahasan:**
+- **Konsep kunci:** Active noise cancellation mengurangi kebisingan yang terus-menerus di kabin pesawat sehingga awak pesawat bisa berkomunikasi lebih jelas dan tidak cepat lelah.
+- **A salah:** Ini bukan soal tampilan/estetika headset, melainkan fungsi teknis untuk mengurangi kebisingan.
+- **B benar:** Headset ANC mengurangi kebisingan kabin yang bisa mencapai 75 dB, sehingga komunikasi radio menjadi lebih jelas dan awak pesawat (pilot, pramugari) tidak cepat lelah selama penerbangan panjang.
+- **C salah:** Meskipun headset ANC berharga cukup mahal, itu bukan alasan penggunaannya; alasannya adalah kebutuhan fungsional mengurangi kebisingan.
+- **D salah:** Penggunaan headset ANC bukan sekadar kebiasaan, melainkan kebutuhan keselamatan dan kenyamanan kerja.
 
 - **B benar.**
 
@@ -1759,7 +1900,12 @@ Robot industri pakai **acoustic emission** monitoring untuk...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Mesin yang mulai aus emisi suara ultrasonik khas (gesekan abnormal, micro-crack growth). Sensor ultrasonik pasif memonitor → AI flag anomali → maintenance sebelum gagal.
+**Pembahasan:**
+- **Konsep kunci:** Mesin yang mulai rusak (misalnya bearing aus atau mulai retak) mengeluarkan emisi bunyi ultrasonik yang khas, yang bisa dideteksi lebih awal sebelum kerusakan makin parah.
+- **A salah:** Tujuan pemantauan ini bukan untuk hiburan, melainkan untuk keperluan perawatan mesin.
+- **B benar:** Sensor mendeteksi emisi bunyi ultrasonik yang muncul saat komponen mesin mulai aus atau retak, sehingga kerusakan bisa terdeteksi sejak dini dan perawatan bisa dilakukan sebelum mesin benar-benar rusak.
+- **C salah:** Ini bukan sekadar kebiasaan, melainkan metode pemantauan berbasis sensor yang dirancang khusus.
+- **D salah:** Cahaya tidak digunakan dalam metode ini; yang digunakan adalah sensor bunyi ultrasonik.
 
 - **B benar.**
 
@@ -1774,11 +1920,12 @@ Robot industri pakai **acoustic emission** monitoring untuk...
 - C. **Analisis rekaman: identifikasi pembicara (voice biometrics), deteksi editing, lokasi/lingkungan dari noise ambient & reverb (acoustic fingerprinting)**
 - D. Mahal
 
-**📖 Pembahasan:** Forensik audio:
-- **Voice biometrics**: unique vocal pattern per individual.
-- **Reverb analysis**: tahu jenis ruangan (kamar kecil vs gua).
-- **Background noise**: noise spesifik lokasi/waktu.
-- **Edit detection**: gap discontinuity di waveform.
+**Pembahasan:**
+- **Konsep kunci:** Audio forensik menganalisis rekaman suara untuk mengenali identitas pembicara, mendeteksi hasil edit, dan memperkirakan lingkungan rekaman dari ciri gema/kebisingan latar.
+- **A salah:** Magnet tidak digunakan dalam analisis forensik audio; yang dianalisis adalah sinyal suara dari rekaman.
+- **B salah:** Ini bukan sekadar kebiasaan; audio forensik adalah metode ilmiah dengan teknik analisis sinyal tertentu.
+- **C benar:** Dengan menganalisis rekaman, ahli forensik bisa mengenali suara khas seseorang (voice biometrics), mendeteksi jika rekaman diedit, serta memperkirakan lokasi/lingkungan rekaman dari kebisingan latar dan pola gema yang terekam.
+- **D salah:** Biaya bukan penjelasan tentang cara kerja audio forensik; ini soal metode analisis, bukan soal harga.
 
 - **C benar.**
 
@@ -1793,8 +1940,12 @@ Walaupun di vakum tidak ada bunyi, **NASA** kadang "**sonifikasi**" data astrono
 - C. Tradisi
 - D. **Mengubah data observasi (cahaya, magnet, partikel) jadi audio → cara alternatif mempersepsi pola yang sulit dilihat dengan grafik**
 
-**📖 Pembahasan:** Sonifikasi: data temperatur galaksi, gelombang radio pulsar, dll dimapping ke pitch/volume → audio.
-- Manfaat: aksesibilitas (tunanetra), deteksi pola, edukasi.
+**Pembahasan:**
+- **Konsep kunci:** Sonifikasi adalah mengubah data ilmiah (bukan suara asli) menjadi bunyi agar pola-pola yang sulit dilihat di grafik bisa "didengar" dan lebih mudah dipahami.
+- **A salah:** Magnet hanyalah salah satu jenis data yang mungkin diubah jadi suara, bukan penjelasan tentang apa itu sonifikasi secara keseluruhan.
+- **B salah:** Cahaya juga hanya salah satu jenis data sumber, bukan definisi sonifikasi itu sendiri.
+- **C salah:** Ini bukan sekadar kebiasaan; sonifikasi adalah teknik pengolahan data yang disengaja untuk tujuan tertentu.
+- **D benar:** Sonifikasi mengubah berbagai jenis data pengamatan (cahaya, medan magnet, partikel, dll) menjadi bunyi/audio (misalnya pitch dan volume), sehingga pola yang sulit terlihat di grafik bisa lebih mudah "didengar" dan dipahami, termasuk membantu aksesibilitas bagi tunanetra.
 
 - **D benar.**
 
@@ -1809,7 +1960,12 @@ Walaupun di vakum tidak ada bunyi, **NASA** kadang "**sonifikasi**" data astrono
 - C. Tradisi
 - D. Mahal
 
-**📖 Pembahasan:** Real-time structural health monitoring. Sensor pasif menerus rekam. AI klasifikasi emisi normal vs anomali. Mencegah kegagalan jembatan dramatis seperti FIU bridge 2018.
+**Pembahasan:**
+- **Konsep kunci:** Sensor ultrasonik pasif yang dipasang di jembatan bisa menangkap emisi bunyi dari retakan yang mulai tumbuh, sehingga kerusakan bisa dideteksi sebelum jembatan benar-benar gagal.
+- **A salah:** Magnet tidak digunakan dalam pemantauan ini; yang digunakan adalah sensor bunyi ultrasonik pasif.
+- **B benar:** Sensor ultrasonik pasif yang dipasang di beberapa titik jembatan bisa mendeteksi emisi bunyi halus (frekuensi tinggi) dari retakan yang mulai tumbuh, sehingga petugas bisa memperbaiki struktur sebelum terjadi kegagalan besar.
+- **C salah:** Ini bukan sekadar kebiasaan lama, melainkan sistem pemantauan modern berbasis sensor.
+- **D salah:** Biaya bukan cara kerja sistem ini; pertanyaannya menanyakan mekanisme deteksi, bukan soal harga.
 
 - **B benar.**
 
@@ -1824,7 +1980,12 @@ Walaupun di vakum tidak ada bunyi, **NASA** kadang "**sonifikasi**" data astrono
 - C. Cahaya
 - D. Tradisi
 
-**📖 Pembahasan:** ANC modern semakin canggih dengan AI. AirPods Pro 2 (2022) klaim 2× ANC dari generasi sebelumnya. Adaptive Transparency: bunyi keras (klakson) filter, percakapan lewat.
+**Pembahasan:**
+- **Konsep kunci:** Noise cancellation modern menggabungkan mikrofon untuk menangkap bunyi bising dan chip pemroses untuk menghasilkan gelombang "lawan" (anti-noise) secara real-time, kadang dibantu AI agar cocok untuk tiap pengguna.
+- **A salah:** Magnet hanya bagian dari komponen speaker di dalam earphone, bukan yang menghasilkan efek peredam bising.
+- **B benar:** Mikrofon internal dan eksternal menangkap suara bising, lalu chip pemroses (H2) menghasilkan gelombang bunyi berlawanan (anti-noise) secara real-time, dan model AI menyesuaikan hasilnya dengan bentuk telinga tiap pengguna.
+- **C salah:** Cahaya tidak digunakan dalam proses peredaman bising; yang digunakan adalah pengolahan sinyal bunyi.
+- **D salah:** Ini bukan sekadar kebiasaan/fitur lama; teknologi ANC terus dikembangkan dengan chip dan AI baru setiap generasi.
 
 - **B benar.**
 
@@ -1839,11 +2000,12 @@ Walaupun di vakum tidak ada bunyi, **NASA** kadang "**sonifikasi**" data astrono
 - C. Magnet
 - D. Mahal
 
-**📖 Pembahasan:** Gelombang seismik = bunyi di bumi.
-- **P-wave**: longitudinal, cepat (~6 km/s), kurang destruktif.
-- **S-wave**: transversal, lambat (~3 km/s), sangat destruktif.
-- Beda kecepatan = window beberapa detik untuk warning.
-- Jepang punya sistem ini sejak 2007.
+**Pembahasan:**
+- **Konsep kunci:** Gelombang gempa terdiri dari gelombang P yang merambat lebih cepat dan gelombang S yang merambat lebih lambat tapi lebih merusak, sehingga deteksi gelombang P bisa dipakai memberi peringatan dini sebelum gelombang S tiba.
+- **A benar:** Gelombang P (longitudinal, ~6 km/s) merambat lebih cepat dan tiba lebih dulu; dengan mendeteksinya, sistem bisa memberi peringatan beberapa detik sebelum gelombang S (transversal, ~3 km/s) yang jauh lebih merusak tiba.
+- **B salah:** Ini bukan sekadar kebiasaan; sistem peringatan dini gempa dirancang berdasarkan perbedaan kecepatan rambat gelombang seismik.
+- **C salah:** Magnet tidak digunakan untuk mendeteksi gempa dalam sistem peringatan dini ini; yang digunakan adalah sensor getaran/seismik.
+- **D salah:** Biaya bukan prinsip kerja sistem peringatan dini; pertanyaan menanyakan mekanisme fisika di baliknya.
 
 - **A benar.**
 
@@ -1858,7 +2020,12 @@ Walaupun di vakum tidak ada bunyi, **NASA** kadang "**sonifikasi**" data astrono
 - C. **Gelombang air mekanis terkait gelombang mekanik bunyi — keduanya mengikuti hukum gelombang serupa (refleksi, refraksi, interferensi)**
 - D. Cahaya
 
-**📖 Pembahasan:** Gelombang air & bunyi sama-sama gelombang mekanik. Hukum dasar mirip. Teknologi wave energy converter (WEC) memanfaatkan gerakan gelombang untuk generator listrik.
+**Pembahasan:**
+- **Konsep kunci:** Gelombang air dan gelombang bunyi sama-sama termasuk gelombang mekanik, sehingga keduanya mengikuti hukum gelombang yang serupa seperti pemantulan, pembiasan, dan interferensi.
+- **A salah:** Ini bukan sekadar kebiasaan; hubungan antara gelombang air dan bunyi didasarkan pada kesamaan sifat fisika gelombang mekanik.
+- **B salah:** Magnet tidak berkaitan dengan prinsip gelombang air maupun bunyi dalam konteks pemanfaatan energi ombak ini.
+- **C benar:** Gelombang air dan gelombang bunyi keduanya adalah gelombang mekanik, sehingga mengikuti hukum gelombang yang mirip seperti pemantulan, pembiasan, dan interferensi, meski medium dan bentuk getarannya berbeda.
+- **D salah:** Cahaya adalah gelombang elektromagnetik yang sifatnya berbeda dari gelombang mekanik seperti air dan bunyi; jawaban ini tidak sesuai konteks pertanyaan.
 
 - **C benar.**
 
@@ -1873,7 +2040,12 @@ Mengapa **anechoic chamber** terasa **psikologis tidak nyaman** untuk lebih dari
 - C. Magnet
 - D. Murah
 
-**📖 Pembahasan:** Anechoic chamber = sunyi lebih dari sunyi alami mana pun. Tanpa ambient noise, suara internal (jantung, paru, sendi) jelas. Beberapa orang halusinasi audio. Rekor terlama: ~45 menit.
+**Pembahasan:**
+- **Konsep kunci:** Di ruang anechoic yang teramat sunyi, suara-suara kecil dari dalam tubuh sendiri (napas, detak jantung) jadi sangat terdengar karena tidak ada bunyi latar lain yang biasa kita dengar, sehingga terasa tidak nyaman.
+- **A benar:** Karena hampir tidak ada bunyi latar alami, suara dari dalam tubuh sendiri seperti napas dan detak jantung menjadi sangat menonjol; otak yang tidak terbiasa dengan kondisi sesunyi ini bisa merasa bingung dan tidak nyaman.
+- **B salah:** Ini bukan sekadar kebiasaan; rasa tidak nyaman muncul karena perubahan drastis dari kondisi pendengaran normal sehari-hari.
+- **C salah:** Magnet tidak berhubungan dengan rasa tidak nyaman di ruang anechoic; penyebabnya murni soal ketiadaan bunyi latar.
+- **D salah:** Biaya pembangunan ruangan tidak menjelaskan mengapa orang merasa tidak nyaman berada di dalamnya.
 
 - **A benar.**
 
@@ -1888,7 +2060,12 @@ Sintesis paling tepat pemantulan bunyi:
 - C. Sama dengan cahaya saja
 - D. Tradisi
 
-**📖 Pembahasan:** Sintesis komprehensif. Pemantulan bunyi = jembatan antara fisika klasik & teknologi modern.
+**Pembahasan:**
+- **Konsep kunci:** Pemantulan bunyi adalah penerapan hukum gelombang universal yang mendasari banyak teknologi, mulai dari sonar dan USG hingga riset akustik modern.
+- **A benar:** Pernyataan ini merangkum dengan tepat bahwa pemantulan bunyi mengikuti hukum gelombang universal (sudut datang = sudut pantul) dan menjadi dasar berbagai teknologi seperti sonar, USG, NDT, echolocation, akustik gedung, hingga riset frontier seperti levitasi akustik.
+- **B salah:** Menyebut pantulan bunyi "tidak penting" bertentangan dengan banyak fakta bahwa pemantulan bunyi mendasari begitu banyak teknologi penting di berbagai bidang.
+- **C salah:** Menyamakan pemantulan bunyi "sama dengan cahaya saja" terlalu menyempitkan; keduanya memang mengikuti hukum pemantulan yang mirip, tapi bunyi punya sifat dan aplikasi unik tersendiri (butuh medium, gelombang longitudinal, dll).
+- **D salah:** Ini bukan sekadar tradisi; pemanfaatan pemantulan bunyi adalah hasil pemahaman fisika yang terus dikembangkan menjadi teknologi baru.
 
 - **A benar.**
 

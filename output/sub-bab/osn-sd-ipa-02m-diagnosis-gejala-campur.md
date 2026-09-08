@@ -3330,10 +3330,10 @@ D. Lumpuh satu sisi + bicara cadel + wajah miring mendadak → stroke
 - **Konsep yang diuji:** Pengecekan ulang pasangan gejala-penyakit klasik.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A.** — Tepat. Hidrofobia + kejang setelah gigitan = rabies.
-  - **B.** — Tepat. 3P + BB turun = diabetes.
-  - **C.** — TIDAK TEPAT. Pucat + lemas + jantung berdebar = **anemia**, bukan diabetes.
-  - **D.** — Tepat. FAST = stroke.
+  - **A salah:** Pasangan ini SUDAH TEPAT (hidrofobia + kejang setelah gigitan hewan = rabies) — bukan jawaban, karena soal minta yang TIDAK TEPAT.
+  - **B salah:** Pasangan ini SUDAH TEPAT (3P: polidipsi+poliuri+polifagi + berat badan turun = diabetes melitus) — bukan jawaban.
+  - **C benar:** Pasangan ini yang TIDAK TEPAT — pucat di kelopak mata, lemas, dan jantung berdebar adalah ciri khas **anemia** (kekurangan sel darah merah/zat besi), bukan diabetes melitus.
+  - **D salah:** Pasangan ini SUDAH TEPAT (lumpuh satu sisi + bicara cadel + wajah miring mendadak = gejala FAST untuk stroke) — bukan jawaban.
 
 - **Langkah Penyelesaian:**
   1. Cek setiap pasangan dengan tabel B (Bagian I).

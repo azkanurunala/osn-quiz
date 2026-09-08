@@ -109,6 +109,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Memakai rumus separuh luas permukaan (3 × s² = 48). Tidak terkait volume.
 - **D** — Benar. V = s × s × s = 4 × 4 × 4 = **64 cm³**.
 
+- **Konsep kunci:** Volume kubus dihitung dengan mengalikan panjang rusuk sebanyak tiga kali (V = s × s × s).
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 4 cm.
+  2. Hitung V = s × s × s = 4 × 4 × 4.
+  3. Jadi volume kubus = 64 cm³.
+
 ---
 
 **2.** Volume kubus dengan rusuk 7 cm adalah ...
@@ -122,6 +128,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 7² = 49 (kuadrat, bukan kubik).
 - **C** — Salah. Memakai rumus luas permukaan (6 × 7² = 294).
 - **D** — Benar. V = 7³ = 7 × 7 × 7 = 49 × 7 = **343 cm³**.
+
+- **Konsep kunci:** Volume kubus = rusuk dipangkatkan tiga (V = s³), bukan dikalikan 3.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 7 cm.
+  2. Hitung V = 7³ = 7 × 7 × 7 = 49 × 7.
+  3. Jadi volume kubus = 343 cm³.
 
 ---
 
@@ -137,6 +149,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 6 × 10² = 600 (itu luas permukaan).
 - **D** — Benar. V = 10³ = **1.000 cm³**. (Catatan: 1.000 cm³ = 1 dm³ = 1 liter.)
 
+- **Konsep kunci:** Rumus volume kubus adalah V = s³, hasil kali rusuk sebanyak tiga kali.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 10 cm.
+  2. Hitung V = 10³ = 10 × 10 × 10.
+  3. Jadi volume kubus = 1.000 cm³ (setara 1 liter).
+
 ---
 
 **4.** Sebuah dadu berbentuk kubus dengan rusuk 2 cm. Volumenya adalah ...
@@ -150,6 +168,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Benar. V = 2³ = 2 × 2 × 2 = **8 cm³**.
 - **C** — Salah. 6 × 2 = 12 (salah konsep).
 - **D** — Salah. 6 × 2² = 24 (itu luas permukaan dadu).
+
+- **Konsep kunci:** Volume dadu kubus dihitung dengan rumus V = s³.
+- **Langkah Penyelesaian:**
+  1. Rusuk dadu s = 2 cm.
+  2. Hitung V = 2³ = 2 × 2 × 2.
+  3. Jadi volume dadu = 8 cm³.
 
 ---
 
@@ -165,6 +189,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 3 × 5² = 75 (salah rumus).
 - **D** — Benar. V = 5³ = **125 cm³**.
 
+- **Konsep kunci:** Volume kubus selalu memakai rumus V = s³, bukan s² atau 3s.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 5 cm.
+  2. Hitung V = 5³ = 5 × 5 × 5.
+  3. Jadi volume kubus = 125 cm³.
+
 ---
 
 **6.** Sebuah kubus mempunyai volume 27 cm³. Berapakah panjang rusuknya?
@@ -178,6 +208,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 27 ÷ 3 = 9 (membagi 3, padahal harus akar kubik).
 - **C** — Salah. Asal hitung.
 - **D** — Salah. Mengira s = V, padahal harus diakar kubik.
+
+- **Konsep kunci:** Mencari rusuk dari volume memakai akar kubik (s = ∛V), kebalikan dari V = s³.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 27 cm³.
+  2. Cari bilangan yang jika dipangkatkan tiga hasilnya 27: 3 × 3 × 3 = 27.
+  3. Jadi panjang rusuk = 3 cm.
 
 ---
 
@@ -193,6 +229,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 64 ÷ 4 = 16 (salah konsep).
 - **D** — Salah. 64 ÷ 2 = 32 (asal).
 
+- **Konsep kunci:** Rusuk kubus dicari dengan akar kubik dari volumenya (s = ∛V).
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 64 cm³.
+  2. Cari bilangan yang dipangkatkan tiga sama dengan 64: 4³ = 64.
+  3. Jadi panjang rusuk = 4 cm.
+
 ---
 
 **8.** Sebuah kotak berbentuk kubus volumenya 216 cm³. Panjang rusuknya ...
@@ -206,6 +248,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Benar. s = ∛216 = **6 cm** karena 6³ = 6 × 6 × 6 = 216.
 - **C** — Salah. 8³ = 512 ≠ 216.
 - **D** — Salah. 216 ÷ 18 = 12 (asal).
+
+- **Konsep kunci:** s = ∛V dipakai untuk mencari rusuk kubus jika volumenya diketahui.
+- **Langkah Penyelesaian:**
+  1. Volume kotak V = 216 cm³.
+  2. Cari bilangan yang dipangkatkan tiga = 216: 6³ = 216.
+  3. Jadi panjang rusuk = 6 cm.
 
 ---
 
@@ -221,6 +269,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 125 ÷ 8 ≈ 15 (asal bagi).
 - **D** — Salah. 125 ÷ 5 = 25 (membagi rusuk).
 
+- **Konsep kunci:** Akar kubik (∛V) adalah kebalikan dari operasi pangkat tiga (s³).
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 125 cm³.
+  2. Cari bilangan yang dipangkatkan tiga = 125: 5³ = 125.
+  3. Jadi panjang rusuk = 5 cm.
+
 ---
 
 **10.** Jika sisi kubus = 1 m, maka volumenya adalah ...
@@ -234,6 +288,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. Anggap 1 m³ = 100 cm³ (salah konversi).
 - **C** — Salah. Anggap 1 m³ = 1.000 cm³ (salah konversi — itu 1 m³ = 1.000 dm³).
 - **D** — Benar. 1 m = 100 cm, jadi V = 100 × 100 × 100 = **1.000.000 cm³**.
+
+- **Konsep kunci:** Sebelum menghitung volume, satuan panjang harus disamakan dulu (di sini meter diubah ke sentimeter).
+- **Langkah Penyelesaian:**
+  1. Ubah rusuk 1 m menjadi 100 cm.
+  2. Hitung V = 100³ = 100 × 100 × 100.
+  3. Jadi volume = 1.000.000 cm³.
 
 ---
 
@@ -249,6 +309,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 1 m = 10 dm, lupa kubik.
 - **D** — Salah. Kelebihan 1 tangga.
 
+- **Konsep kunci:** Konversi satuan volume mengikuti pangkat tiga dari konversi satuan panjangnya (1 m = 10 dm, maka 1 m³ = 10³ dm³).
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m = 10 dm.
+  2. Karena volume berpangkat tiga, hitung 10³ = 1.000.
+  3. Jadi 1 m³ = 1.000 dm³.
+
 ---
 
 **12.** 1 dm³ setara dengan ... liter.
@@ -262,6 +328,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Benar. **1 dm³ = 1 liter** (definisi dasar satuan volume).
 - **C** — Salah. Mengalikan 10.
 - **D** — Salah. Tertukar dengan tangga lain.
+
+- **Konsep kunci:** 1 dm³ setara dengan 1 liter — ini definisi dasar satuan volume yang wajib dihafal.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi: 1 dm³ = 1 liter.
+  2. Tidak perlu perhitungan tambahan, langsung terapkan definisi.
+  3. Jadi 1 dm³ = 1 L.
 
 ---
 
@@ -277,6 +349,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Salah konversi.
 - **D** — Salah. Tertukar dengan 1 L = 1.000 mL.
 
+- **Konsep kunci:** 1 cm³ setara dengan 1 mililiter (mL) — definisi dasar konversi volume ke satuan cair.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi: 1 cm³ = 1 mL.
+  2. Terapkan langsung definisi ini.
+  3. Jadi 1 cm³ = 1 mL.
+
 ---
 
 **14.** Sebuah bak mandi berbentuk kubus dengan rusuk 1 m diisi penuh air. Berapa liter air di bak itu?
@@ -290,6 +368,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. Asal angka.
 - **C** — Salah. Salah konversi.
 - **D** — Salah. Tambah satu nol (salah konversi).
+
+- **Konsep kunci:** Volume kubus dalam m³ dapat langsung diubah ke liter karena 1 m³ = 1.000 liter.
+- **Langkah Penyelesaian:**
+  1. Rusuk bak s = 1 m, hitung V = 1³ = 1 m³.
+  2. Ubah 1 m³ menjadi 1.000 dm³.
+  3. Karena 1 dm³ = 1 L, maka volume = 1.000 L.
 
 ---
 
@@ -305,6 +389,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Lupa satu faktor 20 (20 × 200).
 - **D** — Benar. V = 20³ = 20 × 20 × 20 = 400 × 20 = **8.000 cm³**.
 
+- **Konsep kunci:** Volume kotak kado kubus dihitung dengan V = s³.
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak s = 20 cm.
+  2. Hitung V = 20³ = 20 × 20 × 20 = 400 × 20.
+  3. Jadi volume = 8.000 cm³.
+
 ---
 
 **16.** Kubus rusuk 12 cm volumenya ...
@@ -318,6 +408,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 6 × 144 = 864 (luas permukaan).
 - **C** — Salah. 12² = 144 (kuadrat).
 - **D** — Salah. 12 × 1.000 (asal).
+
+- **Konsep kunci:** Rumus V = s³ berlaku untuk semua ukuran rusuk, termasuk bilangan dua digit.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 12 cm.
+  2. Hitung V = 12³ = 144 × 12.
+  3. Jadi volume = 1.728 cm³.
 
 ---
 
@@ -333,6 +429,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 15² = 225 (kuadrat).
 - **D** — Salah. 15² × 100 (asal angka).
 
+- **Konsep kunci:** Volume kubus tetap dihitung V = s³ meski angkanya besar; kerjakan bertahap (s² dulu, lalu × s).
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 15 cm.
+  2. Hitung s² = 15 × 15 = 225, lalu V = 225 × 15.
+  3. Jadi volume = 3.375 cm³.
+
 ---
 
 **18.** Berapa volume kubus dengan rusuk 8 dm?
@@ -346,6 +448,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 8² = 64 (kuadrat).
 - **C** — Salah. 6 × 64 = 384 (luas permukaan).
 - **D** — Benar. V = 8³ = **512 dm³**.
+
+- **Konsep kunci:** Satuan hasil volume mengikuti satuan rusuk yang diberikan (di sini dm, hasilnya dm³).
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 8 dm.
+  2. Hitung V = 8³ = 8 × 8 × 8.
+  3. Jadi volume = 512 dm³.
 
 ---
 
@@ -361,6 +469,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Asal angka.
 - **D** — Salah. Mengira s = V.
 
+- **Konsep kunci:** Jika volume diketahui, rusuk dicari dengan akar kubik (s = ∛V).
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 8 m³.
+  2. Cari bilangan yang dipangkatkan tiga = 8: 2³ = 8.
+  3. Jadi panjang rusuk = 2 m.
+
 ---
 
 **20.** Volume kubus 1.000 cm³. Panjang rusuknya adalah ...
@@ -374,6 +488,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. √1.000 ≈ 31, tapi siswa salah pikir 10² = 100 jadi rusuk 100 (campur kuadrat-kubik).
 - **C** — Salah. 1.000 ÷ 2 = 500 (asal).
 - **D** — Salah. Mengira s = V.
+
+- **Konsep kunci:** Akar kubik dari 1.000 adalah 10, karena 10³ = 1.000 — angka penting untuk dihafal.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 1.000 cm³.
+  2. Cari bilangan yang dipangkatkan tiga = 1.000: 10³ = 1.000.
+  3. Jadi panjang rusuk = 10 cm.
 
 ---
 
@@ -389,6 +509,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 30 × 300 (asal angka).
 - **D** — Benar. V = 30³ = 30 × 30 × 30 = 900 × 30 = **27.000 cm³**.
 
+- **Konsep kunci:** Volume kardus kubus dihitung dengan mengalikan rusuk tiga kali (V = s³).
+- **Langkah Penyelesaian:**
+  1. Rusuk kardus s = 30 cm.
+  2. Hitung V = 30³ = 900 × 30.
+  3. Jadi volume = 27.000 cm³.
+
 ---
 
 **22.** Sebuah kubus rusuk 9 cm volumenya adalah ...
@@ -402,6 +528,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 9² = 81 (kuadrat).
 - **C** — Salah. 9² × 3 = 243 (salah operasi).
 - **D** — Benar. V = 9³ = 81 × 9 = **729 cm³**.
+
+- **Konsep kunci:** V = s³ berarti rusuk dikalikan dirinya sendiri sebanyak tiga kali, bukan dikalikan 3.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 9 cm.
+  2. Hitung V = 9³ = 81 × 9.
+  3. Jadi volume = 729 cm³.
 
 ---
 
@@ -417,6 +549,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 6 × 3 = 18 (lupa kubik).
 - **D** — Salah. 6 × 60 (asal).
 
+- **Konsep kunci:** Volume kubus (s³) berbeda dari luas satu sisi (s²) — jangan tertukar.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 6 cm.
+  2. Hitung V = 6³ = 36 × 6.
+  3. Jadi volume = 216 cm³.
+
 ---
 
 **24.** Sebuah kotak kubus rusuk 25 cm. Volumenya berapa cm³?
@@ -430,6 +568,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 6 × 625 = 3.750 (luas permukaan).
 - **C** — Salah. 25² = 625 (kuadrat).
 - **D** — Salah. 25² × 100 (kelebihan satu nol).
+
+- **Konsep kunci:** Volume kotak kubus dihitung bertahap: kuadratkan dulu rusuknya, baru kalikan sekali lagi.
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak s = 25 cm.
+  2. Hitung s² = 625, lalu V = 625 × 25.
+  3. Jadi volume = 15.625 cm³.
 
 ---
 
@@ -445,6 +589,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 11³ = 1.331 ≠ 729.
 - **D** — Salah. √729 = 27 (mengakar kuadrat, padahal harus akar kubik).
 
+- **Konsep kunci:** Rusuk kubus dicari dengan akar kubik dari volume yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 729 cm³.
+  2. Cari bilangan yang dipangkatkan tiga = 729: 9³ = 729.
+  3. Jadi panjang rusuk = 9 cm.
+
 ---
 
 **26.** Volume kubus 512 cm³. Panjang rusuknya ...
@@ -458,6 +608,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 7³ = 343 ≠ 512.
 - **C** — Salah. 6³ = 216 ≠ 512.
 - **D** — Salah. 9³ = 729 ≠ 512.
+
+- **Konsep kunci:** Mencari rusuk dari volume berarti mencari akar kubik, bisa dicek dengan mencoba beberapa bilangan.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 512 cm³.
+  2. Coba beberapa bilangan: 8³ = 512 (cocok).
+  3. Jadi panjang rusuk = 8 cm.
 
 ---
 
@@ -473,6 +629,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 5³ = 125.
 - **D** — Salah. 8³ = 512.
 
+- **Konsep kunci:** Rusuk kubus = ∛V; cek dengan memangkatkan tiga tiap pilihan jawaban.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 343 cm³.
+  2. Coba 7³ = 7 × 7 × 7 = 343 (cocok).
+  3. Jadi panjang rusuk = 7 cm.
+
 ---
 
 **28.** 2 m³ = ... cm³.
@@ -486,6 +648,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 2 × 1.000 = 2.000 (salah tangga, itu m³ → dm³).
 - **C** — Salah. Kurang satu nol.
 - **D** — Benar. 1 m³ = 1.000.000 cm³, jadi 2 m³ = **2.000.000 cm³**.
+
+- **Konsep kunci:** Konversi m³ ke cm³ memakai faktor 1.000.000 (100³), bukan 100 atau 1.000.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m³ = 1.000.000 cm³.
+  2. Kalikan 2 m³ dengan faktor tersebut.
+  3. Jadi 2 m³ = 2.000.000 cm³.
 
 ---
 
@@ -501,6 +669,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Membagi 10.
 - **D** — Benar. **1 cm³ = 1 mL**, maka 3.500 cm³ = **3.500 mL**.
 
+- **Konsep kunci:** 1 cm³ = 1 mL, jadi angka volume dalam cm³ dan mL sama persis tanpa perlu dikalikan/dibagi.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi 1 cm³ = 1 mL.
+  2. Terapkan langsung pada 3.500 cm³.
+  3. Jadi 3.500 cm³ = 3.500 mL.
+
 ---
 
 **30.** 5 liter sama dengan ... cm³.
@@ -514,6 +688,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. Lupa konversi.
 - **C** — Salah. Anggap 1 L = 100 cm³.
 - **D** — Benar. 1 L = 1.000 cm³, jadi 5 L = **5.000 cm³**.
+
+- **Konsep kunci:** 1 liter setara dengan 1.000 cm³ — konversi dasar yang sering dipakai dalam soal cerita.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 L = 1.000 cm³.
+  2. Kalikan 5 L dengan 1.000.
+  3. Jadi 5 L = 5.000 cm³.
 
 ---
 
@@ -529,6 +709,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Salah konversi.
 - **D** — Benar. V = 50³ = 125.000 cm³ = 125.000 mL = 125.000 ÷ 1.000 = **125 L**.
 
+- **Konsep kunci:** Menghitung isi bak dalam liter: cari volume dalam cm³ dulu, baru ubah ke liter (÷1.000).
+- **Langkah Penyelesaian:**
+  1. Rusuk bak s = 50 cm, hitung V = 50³ = 125.000 cm³.
+  2. Ubah ke liter dengan membagi 1.000.
+  3. Jadi isi bak = 125 L.
+
 ---
 
 **32.** Sebuah dadu rusuk 3 cm. Berapa volumenya?
@@ -542,6 +728,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 6 × 3 = 18 (salah konsep).
 - **C** — Salah. 3² = 9 (kuadrat).
 - **D** — Salah. 6 × 9 = 54 (luas permukaan).
+
+- **Konsep kunci:** Volume dadu kubus tetap memakai rumus V = s³.
+- **Langkah Penyelesaian:**
+  1. Rusuk dadu s = 3 cm.
+  2. Hitung V = 3³ = 3 × 3 × 3.
+  3. Jadi volume = 27 cm³.
 
 ---
 
@@ -557,6 +749,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 6 × 121 = 726 (luas permukaan).
 - **D** — Benar. V = 11³ = 121 × 11 = **1.331 cm³**.
 
+- **Konsep kunci:** V = s³ dihitung bertahap: kuadratkan rusuk dulu, lalu kalikan sekali lagi dengan rusuk.
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak susu s = 11 cm.
+  2. Hitung s² = 121, lalu V = 121 × 11.
+  3. Jadi volume = 1.331 cm³.
+
 ---
 
 **34.** Sebuah kubus rusuk 13 cm. Volumenya adalah ...
@@ -570,6 +768,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 6 × 169 = 1.014 (luas permukaan).
 - **C** — Salah. 13² = 169 (kuadrat).
 - **D** — Salah. 13² × 100 (asal angka).
+
+- **Konsep kunci:** Volume kubus dihitung V = s³ walau rusuknya berupa bilangan belasan.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 13 cm.
+  2. Hitung s² = 169, lalu V = 169 × 13.
+  3. Jadi volume = 2.197 cm³.
 
 ---
 
@@ -585,6 +789,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 6 × 196 = 1.176 (luas permukaan).
 - **D** — Salah. 14² × 100 (asal).
 
+- **Konsep kunci:** Rumus V = s³ tetap berlaku untuk rusuk berapa pun ukurannya.
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak s = 14 cm.
+  2. Hitung s² = 196, lalu V = 196 × 14.
+  3. Jadi volume = 2.744 cm³.
+
 ---
 
 **36.** Volume kubus 1.331 cm³. Panjang rusuknya adalah ...
@@ -598,6 +808,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Benar. s = ∛1.331 = **11 cm** karena 11³ = 1.331.
 - **C** — Salah. 10³ = 1.000.
 - **D** — Salah. 13³ = 2.197.
+
+- **Konsep kunci:** Rusuk dicari dengan akar kubik; hafalan tabel kubik mempercepat proses ini.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 1.331 cm³.
+  2. Cocokkan dengan tabel kubik: 11³ = 1.331.
+  3. Jadi panjang rusuk = 11 cm.
 
 ---
 
@@ -613,6 +829,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 11³ = 1.331.
 - **D** — Salah. 14³ = 2.744.
 
+- **Konsep kunci:** Hafalan tabel kubik 1–15 membantu menjawab soal akar kubik dengan cepat.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 1.728 cm³.
+  2. Cocokkan dengan tabel kubik: 12³ = 1.728.
+  3. Jadi panjang rusuk = 12 cm.
+
 ---
 
 **38.** Sebuah kotak akuarium berbentuk kubus berisi air penuh sebanyak 64 liter. Panjang rusuknya ...
@@ -626,6 +848,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Benar. V = 64 L = 64 dm³, maka s = ∛64 = **4 dm**.
 - **C** — Salah. 6³ = 216 ≠ 64.
 - **D** — Salah. 8³ = 512 ≠ 64.
+
+- **Konsep kunci:** Jika volume diketahui dalam liter, ubah dulu ke dm³ (1 L = 1 dm³) sebelum mencari rusuk.
+- **Langkah Penyelesaian:**
+  1. Volume air 64 liter = 64 dm³ (karena 1 L = 1 dm³).
+  2. Cari akar kubik: 4³ = 64.
+  3. Jadi panjang rusuk = 4 dm.
 
 ---
 
@@ -641,6 +869,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 6 × 256 = 1.536 (luas permukaan).
 - **D** — Salah. 16² × 100 (asal).
 
+- **Konsep kunci:** Volume kubus V = s³ dihitung bertahap untuk rusuk dua digit.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 16 cm.
+  2. Hitung s² = 256, lalu V = 256 × 16.
+  3. Jadi volume = 4.096 cm³.
+
 ---
 
 **40.** Volume kubus 0,125 m³. Panjang rusuknya ...
@@ -654,6 +888,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 1,5³ = 3,375 ≠ 0,125.
 - **C** — Salah. 2,5³ ≈ 15,6.
 - **D** — Salah. Lupa koma desimal.
+
+- **Konsep kunci:** Kubik bilangan desimal mengikuti pola yang sama seperti bilangan bulat (0,5³ = setengah dari pola 5³ dengan geser koma).
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 0,125 m³.
+  2. Ingat 5³ = 125, maka 0,5³ = 0,125.
+  3. Jadi panjang rusuk = 0,5 m.
 
 ---
 
@@ -669,6 +909,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 36 × 4 = 144 (asal).
 - **D** — Benar. Sisi = √36 = 6 cm. V = 6³ = **216 cm³**.
 
+- **Konsep kunci:** Jika yang diketahui luas alas, cari dulu rusuknya dengan akar kuadrat, baru hitung volume dengan V = s³.
+- **Langkah Penyelesaian:**
+  1. Luas alas = sisi² = 36 cm², jadi sisi = √36 = 6 cm.
+  2. Hitung volume V = 6³ = 6 × 6 × 6.
+  3. Jadi volume kubus = 216 cm³.
+
 ---
 
 **42.** Sebuah kotak es kubus rusuk 4 dm dipenuhi air. Berapa liter air?
@@ -682,6 +928,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 4 × 8 (asal).
 - **C** — Salah. 6 × 8 (salah).
 - **D** — Benar. V = 4³ = 64 dm³ = **64 L** (karena 1 dm³ = 1 L).
+
+- **Konsep kunci:** Jika rusuk dalam dm, hasil volume dalam dm³ langsung setara liter (1 dm³ = 1 L).
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak es s = 4 dm.
+  2. Hitung V = 4³ = 64 dm³.
+  3. Karena 1 dm³ = 1 L, volume air = 64 L.
 
 ---
 
@@ -697,6 +949,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 2 × 3 = 6 (lupa kubik).
 - **D** — Benar. V = 2³ = **8 m³**.
 
+- **Konsep kunci:** Volume kubus dalam meter dihitung dengan V = s³, hasilnya langsung dalam m³.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 2 m.
+  2. Hitung V = 2³ = 2 × 2 × 2.
+  3. Jadi volume = 8 m³.
+
 ---
 
 **44.** Sebuah aquarium kubus rusuk 50 cm diisi penuh. Berapa mL air dalam aquarium?
@@ -710,6 +968,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. Kurang satu nol.
 - **C** — Salah. Salah konversi.
 - **D** — Salah. Kelebihan satu nol.
+
+- **Konsep kunci:** Volume dalam cm³ bisa langsung dibaca sebagai mL karena 1 cm³ = 1 mL.
+- **Langkah Penyelesaian:**
+  1. Rusuk akuarium s = 50 cm.
+  2. Hitung V = 50³ = 125.000 cm³.
+  3. Karena 1 cm³ = 1 mL, volume air = 125.000 mL.
 
 ---
 
@@ -725,6 +989,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. Anggap 1 dm³ = 100 cm³.
 - **D** — Salah. Tambah satu nol.
 
+- **Konsep kunci:** Sebelum menghitung volume, ubah dulu satuan rusuk agar seragam (di sini dm ke cm).
+- **Langkah Penyelesaian:**
+  1. Ubah rusuk 1 dm menjadi 10 cm.
+  2. Hitung V = 10³ = 10 × 10 × 10.
+  3. Jadi volume = 1.000 cm³.
+
 ---
 
 **46.** Volume kubus rusuk 0,2 m sama dengan ... m³.
@@ -738,6 +1008,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 0,2 × 3 × 0,01 (asal).
 - **C** — Salah. 0,2 ÷ 100 (asal).
 - **D** — Salah. 0,2² = 0,04 (kuadrat).
+
+- **Konsep kunci:** Kubik bilangan desimal dihitung sama seperti bilangan bulat, hanya letak komanya perlu diperhatikan.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 0,2 m.
+  2. Hitung V = 0,2³ = 0,2 × 0,2 × 0,2 = 0,04 × 0,2.
+  3. Jadi volume = 0,008 m³.
 
 ---
 
@@ -753,6 +1029,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 18² = 324 (kuadrat).
 - **D** — Salah. 18² × 100 (asal).
 
+- **Konsep kunci:** Volume kubus V = s³ dihitung bertahap: kuadratkan dulu, lalu kalikan sekali lagi.
+- **Langkah Penyelesaian:**
+  1. Rusuk benda s = 18 cm.
+  2. Hitung s² = 324, lalu V = 324 × 18.
+  3. Jadi volume = 5.832 cm³.
+
 ---
 
 **48.** Volume kubus = 2.744 cm³. Berapa rusuknya?
@@ -766,6 +1048,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 13³ = 2.197.
 - **C** — Salah. 12³ = 1.728.
 - **D** — Salah. 15³ = 3.375.
+
+- **Konsep kunci:** Rusuk dicari dengan akar kubik dari volume; cocokkan dengan tabel kubik yang sudah dihafal.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 2.744 cm³.
+  2. Cocokkan dengan tabel kubik: 14³ = 2.744.
+  3. Jadi panjang rusuk = 14 cm.
 
 ---
 
@@ -781,6 +1069,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **C** — Salah. 13³ = 2.197.
 - **D** — Benar. s = ∛3.375 = **15 cm** karena 15³ = 3.375.
 
+- **Konsep kunci:** Tabel kubik hafalan sangat membantu menjawab soal akar kubik dengan cepat dan tepat.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 3.375 cm³.
+  2. Cocokkan dengan tabel kubik: 15³ = 3.375.
+  3. Jadi panjang rusuk = 15 cm.
+
 ---
 
 **50.** Sebuah kubus rusuk 17 cm. Volumenya adalah ...
@@ -794,6 +1088,12 @@ Fokus: rumus dasar V = s³, mencari sisi dari V, konversi satuan sederhana, soal
 - **B** — Salah. 6 × 289 = 1.734 (luas permukaan).
 - **C** — Salah. 17² = 289 (kuadrat).
 - **D** — Salah. 17² × 100 (asal).
+
+- **Konsep kunci:** Volume kubus V = s³ tetap dihitung bertahap meski rusuknya bilangan ganjil dua digit.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 17 cm.
+  2. Hitung s² = 289, lalu V = 289 × 17.
+  3. Jadi volume = 4.913 cm³.
 
 ---
 
@@ -815,6 +1115,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 216 ÷ 8 (asal).
 - **D** — Salah. Asal bulat.
 
+- **Konsep kunci:** Soal debit-waktu diselesaikan dengan rumus waktu = volume ÷ debit, dengan satuan volume dan debit yang harus disamakan dulu.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: V = 60³ = 216.000 cm³ = 216 L.
+  2. Samakan satuan volume (liter) dengan satuan debit (liter/menit).
+  3. Waktu = 216 ÷ 4 = 54 menit.
+
 ---
 
 **52.** Sebuah kubus besar rusuk 10 cm disusun dari kubus kecil rusuk 2 cm. Berapa banyak kubus kecil dibutuhkan?
@@ -828,6 +1134,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. 5 × 10 = 50 (asal).
 - **C** — Salah. 10 × 10 (asal).
 - **D** — Benar. (S/a)³ = (10/2)³ = 5³ = **125 kubus kecil**.
+
+- **Konsep kunci:** Banyak kubus kecil dalam kubus besar dihitung dengan (rusuk besar ÷ rusuk kecil)³, bukan rasio kuadrat.
+- **Langkah Penyelesaian:**
+  1. Bandingkan rusuk: 10 ÷ 2 = 5 (berapa kali lebih panjang).
+  2. Karena volume berpangkat tiga, hitung 5³.
+  3. Jadi banyak kubus kecil = 125.
 
 ---
 
@@ -843,6 +1155,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 256 ÷ 4 (salah hitung volume).
 - **D** — Salah. 768 ÷ 4 (salah hitung).
 
+- **Konsep kunci:** Untuk soal 'berapa wadah dibutuhkan', bagi volume total dengan volume satu wadah, setelah satuan disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: V = 80³ = 512.000 cm³ = 512 L.
+  2. Bagi volume bak dengan volume 1 jerigen (4 L).
+  3. Jadi jerigen dibutuhkan = 512 ÷ 4 = 128 jerigen.
+
 ---
 
 **54.** Sebuah kotak kado kubus rusuk 24 cm. Volume kotak itu ...
@@ -856,6 +1174,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Benar. V = 24³ = 576 × 24 = **13.824 cm³**.
 - **C** — Salah. 6 × 576 = 3.456 (luas permukaan).
 - **D** — Salah. 24² × 100 (asal).
+
+- **Konsep kunci:** Volume kotak kubus tetap dihitung dengan V = s³ meski rusuknya makin besar.
+- **Langkah Penyelesaian:**
+  1. Rusuk kotak s = 24 cm.
+  2. Hitung s² = 576, lalu V = 576 × 24.
+  3. Jadi volume = 13.824 cm³.
 
 ---
 
@@ -871,6 +1195,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal angka.
 - **D** — Benar. (40/8)³ = 5³ = **125 kubus kecil**.
 
+- **Konsep kunci:** Banyak kubus kecil yang muat dalam kubus besar = (rusuk besar ÷ rusuk kecil)³.
+- **Langkah Penyelesaian:**
+  1. Bandingkan rusuk: 40 ÷ 8 = 5.
+  2. Pangkatkan tiga hasil perbandingan tersebut.
+  3. Jadi banyak kubus kecil = 5³ = 125.
+
 ---
 
 **56.** Volume sebuah kubus 4.096 cm³. Panjang rusuknya ...
@@ -884,6 +1214,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. 15³ = 3.375.
 - **C** — Salah. 14³ = 2.744.
 - **D** — Salah. 18³ = 5.832.
+
+- **Konsep kunci:** Rusuk kubus dicari dengan akar kubik; untuk angka besar, cocokkan dengan tabel kubik yang diperluas.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 4.096 cm³.
+  2. Cocokkan dengan tabel kubik: 16³ = 4.096.
+  3. Jadi panjang rusuk = 16 cm.
 
 ---
 
@@ -899,6 +1235,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 2 × 3 = 6 (asal).
 - **D** — Benar. Jika sisi × 2, volume × 2³ = **8 kali**.
 
+- **Konsep kunci:** Jika rusuk kubus dikalikan k, volumenya menjadi k³ kali volume semula — bukan k² atau k kali.
+- **Langkah Penyelesaian:**
+  1. Rusuk diperbesar 2 kali (k = 2).
+  2. Volume baru = k³ × volume lama = 2³.
+  3. Jadi volume menjadi 8 kali volume semula.
+
 ---
 
 **58.** Volume kubus rusuk 30 cm sama dengan volume balok 45 × 30 × t cm. Berapa tinggi balok?
@@ -912,6 +1254,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Benar. V kubus = 30³ = 27.000 cm³. V balok = 45 × 30 × t = 1.350t. Maka t = 27.000 ÷ 1.350 = **20 cm**.
 - **C** — Salah. Salah perhitungan.
 - **D** — Salah. Mengira t = sisi kubus.
+
+- **Konsep kunci:** Jika dua bangun ruang memiliki volume sama, samakan rumus volumenya lalu cari besaran yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: V = 30³ = 27.000 cm³.
+  2. Samakan dengan volume balok: 45 × 30 × t = 1.350t.
+  3. Cari t = 27.000 ÷ 1.350 = 20 cm.
 
 ---
 
@@ -927,6 +1275,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 1,2² × 100 (kuadrat, salah konversi).
 - **D** — Salah. Kelebihan satu nol.
 
+- **Konsep kunci:** Volume kubus dalam m³ diubah ke liter dengan mengalikan 1.000 (karena 1 m³ = 1.000 L).
+- **Langkah Penyelesaian:**
+  1. Hitung volume: V = 1,2³ m³ = 1,728 m³.
+  2. Ubah ke liter dengan mengalikan 1.000.
+  3. Jadi kapasitas bak = 1.728 L.
+
 ---
 
 **60.** Sebuah kotak kubus rusuk 20 cm berisi sabun batang ukuran 10 × 5 × 4 cm. Berapa sabun yang muat sempurna?
@@ -940,6 +1294,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. Membagi 8.000 ÷ 267 (asal).
 - **C** — Salah. Asal angka.
 - **D** — Salah. Asal kali.
+
+- **Konsep kunci:** Banyak benda yang muat sempurna dalam kotak = volume kotak ÷ volume satu benda.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kotak: V = 20³ = 8.000 cm³.
+  2. Hitung volume satu sabun: 10 × 5 × 4 = 200 cm³.
+  3. Bagi: 8.000 ÷ 200 = 40 sabun.
 
 ---
 
@@ -955,6 +1315,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 13.824 ÷ 256 (asal).
 - **D** — Salah. Asal kali ulang.
 
+- **Konsep kunci:** Untuk benda balok kecil di dalam kotak kubus, bagi volume kotak dengan volume satu benda kecil.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kotak: V = 24³ = 13.824 cm³.
+  2. Hitung volume satu balok kecil: 8 × 6 × 4 = 192 cm³.
+  3. Bagi: 13.824 ÷ 192 = 72 balok.
+
 ---
 
 **62.** Volume sebuah kubus tepat sama dengan keliling permukaan satu sisinya dalam nilai numerik. Berapa panjang rusuknya?
@@ -968,6 +1334,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. 3³ = 27 vs 4×3 = 12.
 - **C** — Salah. 4³ = 64 vs 4×4 = 16.
 - **D** — Salah. 5³ = 125 vs 4×5 = 20.
+
+- **Konsep kunci:** Soal 'volume sama dengan keliling satu sisi secara numerik' diselesaikan dengan menyamakan rumus (s³ = 4s), lalu mencari s.
+- **Langkah Penyelesaian:**
+  1. Tulis persamaan: s³ = 4s (keliling satu sisi = 4 × s).
+  2. Sederhanakan: bagi kedua ruas dengan s, jadi s² = 4.
+  3. Cari s = √4 = 2.
 
 ---
 
@@ -983,6 +1355,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal × 3.
 - **D** — Benar. Rasio rusuk 2, rasio volume = 2³ = **8 wadah**. (Cek: 27 dm³ ÷ 3,375 dm³ = 8.)
 
+- **Konsep kunci:** Banyak wadah kecil yang dibutuhkan untuk menampung volume yang sama = (rasio rusuk)³, bukan rasio rusuk biasa.
+- **Langkah Penyelesaian:**
+  1. Bandingkan rusuk: 3 ÷ 1,5 = 2.
+  2. Pangkatkan tiga hasil perbandingan tersebut.
+  3. Jadi wadah yang dibutuhkan = 2³ = 8 wadah.
+
 ---
 
 **64.** Sebuah bak kubus rusuk 90 cm berisi air sampai ¾ tinggi bak. Berapa liter air dalam bak? (anggap penampang dasar tetap penuh)
@@ -996,6 +1374,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. ⅔ × 729 (asal pecahan).
 - **C** — Salah. ½ × 729 (salah pecahan).
 - **D** — Salah. Itu kapasitas penuh.
+
+- **Konsep kunci:** Air yang mengisi sebagian bak dihitung dengan mengalikan pecahan bagian terhadap volume penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung volume penuh: V = 90³ = 729.000 cm³ = 729 L.
+  2. Kalikan dengan pecahan bagian: ¾ × 729.
+  3. Jadi air dalam bak = 546,75 L.
 
 ---
 
@@ -1011,6 +1395,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal.
 - **D** — Benar. (12/3)³ = 4³ = **64 kubus kecil**.
 
+- **Konsep kunci:** Banyak kubus kecil di dalam kubus besar dihitung dengan (rasio rusuk)³.
+- **Langkah Penyelesaian:**
+  1. Bandingkan rusuk: 12 ÷ 3 = 4.
+  2. Pangkatkan tiga hasil perbandingan tersebut.
+  3. Jadi banyak kubus kecil = 4³ = 64.
+
 ---
 
 **66.** Volume kubus A dua kali volume kubus B. Bila rusuk kubus B = 4 cm, rusuk kubus A ≈ ...
@@ -1024,6 +1414,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Benar. V_B = 64 cm³, V_A = 128 cm³. s_A = ∛128 ≈ **5,04 cm** ≈ 5,0 cm. (Catatan: ∛2 ≈ 1,26; 4 × 1,26 ≈ 5,04.)
 - **C** — Salah. Kelebihan sedikit.
 - **D** — Salah. Mengira sisi × 2 (yang akan jadi V × 8).
+
+- **Konsep kunci:** Jika volume kubus dilipatgandakan, rusuk barunya dicari dengan akar kubik dari volume baru, bukan dikalikan langsung.
+- **Langkah Penyelesaian:**
+  1. Hitung volume B: V_B = 4³ = 64 cm³.
+  2. Volume A = 2 × 64 = 128 cm³.
+  3. Cari rusuk A = ∛128 ≈ 5,0 cm.
 
 ---
 
@@ -1039,6 +1435,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal bagi.
 - **D** — Salah. Asal kali.
 
+- **Konsep kunci:** Menghitung banyak wadah kecil yang terisi = volume total ÷ volume satu wadah, setelah satuan disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: V = 60³ = 216.000 cm³ = 216 L.
+  2. Bagi dengan volume satu ember (9 L).
+  3. Jadi ember yang penuh = 216 ÷ 9 = 24 ember.
+
 ---
 
 **68.** Sebuah kubus kayu rusuk 9 cm dipotong menjadi kubus-kubus kecil rusuk 3 cm. Berapa banyak kubus kecil terbentuk?
@@ -1052,6 +1454,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. Asal kali.
 - **C** — Salah. 3² = 9 (luas, salah dimensi).
 - **D** — Salah. Asal angka.
+
+- **Konsep kunci:** Banyak kubus kecil hasil pemotongan = (rasio rusuk)³.
+- **Langkah Penyelesaian:**
+  1. Bandingkan rusuk: 9 ÷ 3 = 3.
+  2. Pangkatkan tiga hasil perbandingan tersebut.
+  3. Jadi banyak kubus kecil = 3³ = 27.
 
 ---
 
@@ -1067,6 +1475,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal sama debit.
 - **D** — Salah. Asal bulat.
 
+- **Konsep kunci:** Waktu pengisian bak dihitung dengan volume ÷ debit setelah satuan volume dan debit disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: V = 1³ = 1 m³ = 1.000 L.
+  2. Samakan satuan volume dengan debit (liter).
+  3. Waktu = 1.000 ÷ 25 = 40 menit.
+
 ---
 
 **70.** Sebuah kubus volumenya 8 dm³. Berapa luas alas kubus tersebut?
@@ -1080,6 +1494,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. Sisi² = 4 cm² (lupa satuan dm² bukan cm²).
 - **C** — Salah. Salah konversi.
 - **D** — Benar. s = ∛8 = 2 dm. Luas alas = s² = 2² = **4 dm²**.
+
+- **Konsep kunci:** Untuk mencari luas alas dari volume, cari dulu rusuk dengan akar kubik, baru kuadratkan rusuk tersebut.
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 8 dm³, cari rusuk s = ∛8 = 2 dm.
+  2. Hitung luas alas = s² = 2 × 2.
+  3. Jadi luas alas = 4 dm² (perhatikan satuannya dm², bukan cm²).
 
 ---
 
@@ -1095,6 +1515,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Salah konversi (membagi 10.000).
 - **D** — Salah. Kurang satu desimal pindah.
 
+- **Konsep kunci:** Volume dalam cm³ diubah ke liter dengan membagi 1.000.
+- **Langkah Penyelesaian:**
+  1. Hitung volume: V = 25³ = 15.625 cm³.
+  2. Ubah ke liter dengan membagi 1.000.
+  3. Jadi volume = 15,625 L.
+
 ---
 
 **72.** Sebuah kubus dengan volume 1,331 m³ memiliki rusuk ...
@@ -1108,6 +1534,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Benar. s = ∛1,331. Karena 11³ = 1.331, maka 1,1³ = 1,331 → s = **1,1 m**.
 - **C** — Salah. Lupa koma desimal.
 - **D** — Salah. Mengira s = V.
+
+- **Konsep kunci:** Akar kubik bilangan desimal mengikuti pola bilangan bulatnya, hanya geser komanya (mirip soal nomor 40).
+- **Langkah Penyelesaian:**
+  1. Volume kubus V = 1,331 m³.
+  2. Ingat 11³ = 1.331, maka 1,1³ = 1,331.
+  3. Jadi panjang rusuk = 1,1 m.
 
 ---
 
@@ -1123,6 +1555,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. 16² ÷ 100 (kuadrat + salah konversi).
 - **D** — Salah. Salah desimal.
 
+- **Konsep kunci:** Volume dalam cm³ diubah ke liter dengan membagi 1.000, setelah dihitung dengan V = s³.
+- **Langkah Penyelesaian:**
+  1. Hitung volume: V = 16³ = 4.096 cm³.
+  2. Ubah ke liter dengan membagi 1.000.
+  3. Jadi kapasitas kotak = 4,096 L.
+
 ---
 
 **74.** Kubus A rusuk 6 cm, kubus B rusuk 9 cm. Selisih volume B − A adalah ...
@@ -1136,6 +1574,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Benar. V_B = 729, V_A = 216. Selisih = 729 − 216 = **513 cm³**.
 - **C** — Salah. Itu V kubus B saja (lupa kurangi).
 - **D** — Salah. Itu V_A + V_B = 945 (jumlah, bukan selisih).
+
+- **Konsep kunci:** Selisih volume dua kubus dicari dengan menghitung volume masing-masing dulu, baru dikurangkan (yang besar dikurangi yang kecil).
+- **Langkah Penyelesaian:**
+  1. Hitung volume A: 6³ = 216 cm³.
+  2. Hitung volume B: 9³ = 729 cm³.
+  3. Selisih B − A = 729 − 216 = 513 cm³.
 
 ---
 
@@ -1151,6 +1595,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal sama debit.
 - **D** — Salah. Asal angka.
 
+- **Konsep kunci:** Waktu pengisian = volume ÷ debit, setelah volume kubus (dalam m³) diubah ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung volume: V = 0,8³ m³ = 0,512 m³ = 512 L.
+  2. Bagi dengan debit 16 L/menit.
+  3. Jadi waktu pengisian = 512 ÷ 16 = 32 menit.
+
 ---
 
 **76.** Sebuah bak air kubus rusuk 50 cm berisi air sampai ⅗ tinggi bak. Berapa liter air dalam bak?
@@ -1164,6 +1614,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. ⅖ × 125 = 50.
 - **C** — Salah. ⅕ × 125 = 25.
 - **D** — Salah. ⅘ × 125 = 100.
+
+- **Konsep kunci:** Air yang mengisi sebagian bak = pecahan bagian × volume penuh bak.
+- **Langkah Penyelesaian:**
+  1. Hitung volume penuh: V = 50³ = 125.000 cm³ = 125 L.
+  2. Kalikan dengan pecahan bagian: ⅗ × 125.
+  3. Jadi air dalam bak = 75 L.
 
 ---
 
@@ -1179,6 +1635,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Asal angka.
 - **D** — Benar. Jumlah rusuk = 12s, jadi s = 60 ÷ 12 = 5 cm. V = 5³ = **125 cm³**.
 
+- **Konsep kunci:** Jika diketahui jumlah panjang seluruh rusuk (12 × s), cari dulu rusuknya, baru hitung volume.
+- **Langkah Penyelesaian:**
+  1. Jumlah rusuk = 12 × s = 60, jadi s = 60 ÷ 12 = 5 cm.
+  2. Hitung volume V = s³ = 5³.
+  3. Jadi volume kubus = 125 cm³.
+
 ---
 
 **78.** Sebuah kubus luas permukaannya 96 cm². Volume kubus itu ...
@@ -1192,6 +1654,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. 4³ × ½ (asal).
 - **C** — Salah. ½ × 96 (asal).
 - **D** — Benar. L permukaan = 6s² = 96 → s² = 16 → s = 4. V = 4³ = **64 cm³**.
+
+- **Konsep kunci:** Jika diketahui luas permukaan (6s²), cari dulu rusuknya, baru hitung volumenya.
+- **Langkah Penyelesaian:**
+  1. Luas permukaan = 6s² = 96, jadi s² = 16 dan s = 4 cm.
+  2. Hitung volume V = s³ = 4³.
+  3. Jadi volume kubus = 64 cm³.
 
 ---
 
@@ -1207,6 +1675,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **C** — Salah. Mengabaikan "penuh" lalu membulatkan ke atas.
 - **D** — Salah. Asal kali.
 
+- **Konsep kunci:** Saat membagi cairan ke wadah kecil, hasil bagi dibulatkan ke bawah karena wadah harus terisi penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: V = 7³ = 343 cm³ = 343 mL.
+  2. Ambil ½ bagian: ½ × 343 = 171,5 mL.
+  3. Bagi dengan 50 mL: 171,5 ÷ 50 = 3,43 → dibulatkan ke bawah jadi 3 gelas penuh.
+
 ---
 
 **80.** Volume kubus rusuk 2,5 cm adalah ...
@@ -1220,6 +1694,12 @@ Fokus: konversi multi-tangga, soal cerita 2–3 langkah, debit-waktu, kubus susu
 - **B** — Salah. 2,5 × 3 = 7,5 (lupa kubik).
 - **C** — Salah. Salah perkalian desimal.
 - **D** — Benar. V = 2,5³ = 2,5 × 2,5 × 2,5 = 6,25 × 2,5 = **15,625 cm³**.
+
+- **Konsep kunci:** Kubik bilangan desimal dihitung bertahap seperti bilangan bulat, dengan memperhatikan letak koma.
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus s = 2,5 cm.
+  2. Hitung s² = 6,25, lalu V = 6,25 × 2,5.
+  3. Jadi volume = 15,625 cm³.
 
 ---
 
@@ -1241,6 +1721,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Salah penjumlahan debit.
 - **D** — Salah. 3.375 ÷ 22,5 = 150 (membagi debit dengan rata-rata salah).
 
+- **Konsep kunci:** Jika ada dua keran mengisi bersamaan, jumlahkan dulu debitnya sebelum membagi volume.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: V = 1,5³ = 3,375 m³ = 3.375 L.
+  2. Jumlahkan debit dua keran: 15 + 30 = 45 L/menit.
+  3. Waktu = 3.375 ÷ 45 = 75 menit.
+
 ---
 
 **82.** Sebuah kubus besar rusuk 6 cm dicat seluruh permukaannya, lalu dipotong jadi kubus kecil rusuk 1 cm. Berapa banyak kubus kecil yang **tidak** terkena cat sama sekali?
@@ -1254,6 +1740,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. (6−1)² (luas, bukan volume).
 - **C** — Salah. (6−2)² × 3 atau salah pangkat.
 - **D** — Salah. Itu total seluruh kubus kecil (6³ = 216).
+
+- **Konsep kunci:** Kubus kecil yang tidak terkena cat sama sekali membentuk kubus di bagian dalam dengan rusuk (rusuk besar − 2).
+- **Langkah Penyelesaian:**
+  1. Rusuk kubus dalam = 6 − 2 = 4 (mengurangi 1 lapisan dari tiap sisi).
+  2. Hitung volumenya: 4³.
+  3. Jadi kubus kecil yang tidak kena cat = 64 buah.
 
 ---
 
@@ -1269,6 +1761,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Membulatkan ke bilangan bulat tanpa alasan.
 - **D** — Salah. Asal naik 2,5.
 
+- **Konsep kunci:** Saat benda dicelupkan ke air, kenaikan tinggi air = volume benda ÷ luas alas bak.
+- **Langkah Penyelesaian:**
+  1. Hitung tinggi air awal: ⅔ × 60 = 40 cm.
+  2. Hitung volume batu: 18 × 5³ = 2.250 cm³, lalu kenaikan = 2.250 ÷ (60 × 60) = 0,625 cm.
+  3. Tinggi air baru = 40 + 0,625 = 40,625 cm ≈ 40,6 cm.
+
 ---
 
 **84.** Sebuah kubus rusuknya bertambah 25%. Persen kenaikan volumenya adalah ... (dibulatkan)
@@ -1282,6 +1780,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. 1,25² − 1 = 0,5625 ≈ 56% (kuadrat, bukan kubik).
 - **C** — Salah. 25% × 3 = 75% (mengalikan tiga, bukan memangkatkan).
 - **D** — Benar. Faktor volume = 1,25³ = 1,953125. Kenaikan = 1,953125 − 1 = 0,953125 ≈ **95%**.
+
+- **Konsep kunci:** Kenaikan volume akibat kenaikan rusuk dihitung dengan memangkatkan tiga faktor kenaikannya, bukan mengalikan tiga.
+- **Langkah Penyelesaian:**
+  1. Rusuk naik 25%, jadi faktor rusuk baru = 1,25.
+  2. Faktor volume baru = 1,25³ = 1,953125.
+  3. Kenaikan volume = 1,953125 − 1 ≈ 95%.
 
 ---
 
@@ -1297,6 +1801,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. 40² ÷ 100 (kuadrat).
 - **D** — Salah. Mengira semua air tumpah (itu V bak penuh berbeda).
 
+- **Konsep kunci:** Volume air yang tumpah saat benda dicelupkan ke bak penuh sama dengan volume benda itu sendiri.
+- **Langkah Penyelesaian:**
+  1. Hitung volume pemberat: 40³ = 64.000 cm³.
+  2. Volume yang tumpah = volume pemberat (karena bak sudah penuh).
+  3. Ubah ke liter: 64.000 ÷ 1.000 = 64 L.
+
 ---
 
 **86.** Suatu pabrik membuat kotak kubus rusuk 25 cm. Bahan plat seng dipakai untuk seluruh permukaan kotak (6 sisi). Jika 1 m² plat = Rp80.000, berapa biaya plat 1 kotak?
@@ -1310,6 +1820,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Benar. L permukaan = 6 × 25² = 6 × 625 = 3.750 cm² = 0,375 m². Biaya = 0,375 × 80.000 = **Rp30.000**.
 - **C** — Salah. 6 × 25² ÷ 250 (asal).
 - **D** — Salah. Kelebihan satu nol.
+
+- **Konsep kunci:** Biaya bahan permukaan kubus dihitung dari luas permukaan (6s²), bukan volume — dan satuan luas harus disamakan sebelum dikalikan harga.
+- **Langkah Penyelesaian:**
+  1. Hitung luas permukaan: 6 × 25² = 3.750 cm².
+  2. Ubah ke m²: 3.750 ÷ 10.000 = 0,375 m².
+  3. Kalikan harga: 0,375 × Rp80.000 = Rp30.000.
 
 ---
 
@@ -1325,6 +1841,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Lupa kurangi lubang.
 - **D** — Salah. Kelebihan mengurangkan (mengurangi 500).
 
+- **Konsep kunci:** Volume sisa benda berlubang = volume kubus utuh dikurangi volume lubang (dihitung sebagai balok).
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: 15³ = 3.375 cm³.
+  2. Hitung volume lubang (balok 5×5×15): 375 cm³.
+  3. Kurangkan: 3.375 − 375 = 3.000 cm³.
+
 ---
 
 **88.** Sebuah kubus dipotong menjadi 64 kubus kecil yang sama. Jika rusuk kubus kecil 3 cm, berapa rusuk kubus besar mula-mula?
@@ -1338,6 +1860,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. 3 × 3 (asal).
 - **C** — Salah. 2 × 3 (asal × 2).
 - **D** — Salah. 5 × 3 (asal × 5).
+
+- **Konsep kunci:** Banyak kubus kecil hasil pemotongan sama dengan pangkat tiga dari rasio rusuk (besar ÷ kecil).
+- **Langkah Penyelesaian:**
+  1. 64 kubus kecil berarti rasio rusuk = ∛64 = 4.
+  2. Kalikan rasio dengan rusuk kubus kecil: 4 × 3.
+  3. Jadi rusuk kubus besar = 12 cm.
 
 ---
 
@@ -1353,6 +1881,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. 1³ = 1 vs 6×1² = 6 (tidak sama).
 - **D** — Salah. 729 vs 486 (tidak sama).
 
+- **Konsep kunci:** Jika volume (s³) dan luas permukaan (6s²) dinyatakan sama secara numerik, samakan rumusnya untuk mencari s.
+- **Langkah Penyelesaian:**
+  1. Tulis persamaan: s³ = 6s².
+  2. Bagi kedua ruas dengan s²: s = 6.
+  3. Jadi panjang rusuk = 6 dm.
+
 ---
 
 **90.** Sebuah kotak kubus rusuk 30 cm diisi penuh kubus-kubus kecil rusuk 6 cm. Setelah penuh, diambil ⅖ bagian kubus kecil. Berapa kubus kecil yang **tersisa**?
@@ -1366,6 +1900,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Benar. Total = (30/6)³ = 5³ = 125. Diambil ⅖ × 125 = 50. Sisa = 125 − 50 = **75 kubus**.
 - **C** — Salah. Salah hitung pecahan.
 - **D** — Salah. Asal angka.
+
+- **Konsep kunci:** Sisa kubus kecil setelah sebagian diambil = total kubus dikurangi bagian yang diambil (pecahan × total).
+- **Langkah Penyelesaian:**
+  1. Hitung total kubus kecil: (30 ÷ 6)³ = 5³ = 125.
+  2. Hitung yang diambil: ⅖ × 125 = 50.
+  3. Sisa = 125 − 50 = 75 kubus.
 
 ---
 
@@ -1381,6 +1921,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Asal angka.
 - **D** — Salah. 8 × 1,5 (asal).
 
+- **Konsep kunci:** Jika volume yang diketahui hanya sebagian (pecahan) dari bak, cari dulu volume penuhnya sebelum mencari rusuk.
+- **Langkah Penyelesaian:**
+  1. Volume penuh = volume sebagian ÷ pecahan = 64 ÷ ⅛ = 512 dm³.
+  2. Cari rusuk dengan akar kubik: ∛512.
+  3. Jadi panjang rusuk = 8 dm.
+
 ---
 
 **92.** Sebuah kotak kubus rusuk 40 cm penuh air dan dituang ke wadah balok 80 × 50 × 20 cm. Berapa tinggi air di wadah balok?
@@ -1394,6 +1940,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. Setengah dari jawaban benar.
 - **C** — Salah. 64.000 ÷ 16.000 (asal).
 - **D** — Salah. Tinggi maksimum wadah (asumsi salah).
+
+- **Konsep kunci:** Saat air dipindah ke wadah balok, tinggi air baru = volume air ÷ luas alas wadah balok.
+- **Langkah Penyelesaian:**
+  1. Hitung volume air: 40³ = 64.000 cm³.
+  2. Hitung luas alas balok: 80 × 50 = 4.000 cm².
+  3. Tinggi air = 64.000 ÷ 4.000 = 16 cm.
 
 ---
 
@@ -1409,6 +1961,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. 5³ = 125 (terlalu besar).
 - **D** — Salah. Sama dengan kubus pertama.
 
+- **Konsep kunci:** Jika total volume dua kubus diketahui, kurangkan volume kubus yang sudah diketahui untuk mendapat volume kubus lainnya.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus pertama: 6³ = 216 cm³.
+  2. Kurangkan dari total: 280 − 216 = 64 cm³.
+  3. Cari rusuk kubus kedua: ∛64 = 4 cm.
+
 ---
 
 **94.** Sebuah balok kayu 60 × 40 × 30 cm akan dipotong menjadi kubus-kubus sama besar (rusuk maksimal) tanpa sisa. Berapa banyak kubus terbentuk?
@@ -1422,6 +1980,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. (60×40×30) ÷ (10×10×10) ÷ 3 (asal).
 - **C** — Salah. Salah faktor.
 - **D** — Benar. FPB(60, 40, 30) = 10, jadi rusuk kubus 10 cm. Banyak = (60/10) × (40/10) × (30/10) = 6 × 4 × 3 = **72 kubus**.
+
+- **Konsep kunci:** Rusuk kubus terbesar yang bisa memotong balok tanpa sisa adalah FPB dari ketiga ukuran balok.
+- **Langkah Penyelesaian:**
+  1. Cari FPB dari 60, 40, dan 30, yaitu 10 (rusuk kubus).
+  2. Hitung berapa kubus muat di tiap sisi: 60÷10=6, 40÷10=4, 30÷10=3.
+  3. Kalikan ketiganya: 6 × 4 × 3 = 72 kubus.
 
 ---
 
@@ -1437,6 +2001,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Tidak menghitung pertambahan luas.
 - **D** — Salah. Mengira sama dengan jumlah kubus.
 
+- **Konsep kunci:** Saat kubus dipotong jadi beberapa kubus kecil, total luas permukaan bertambah karena muncul permukaan baru di bagian potongan.
+- **Langkah Penyelesaian:**
+  1. Hitung luas permukaan kubus besar: 6 × 10² = 600 cm².
+  2. Hitung total luas 8 kubus kecil (rusuk 5 cm): 8 × 6 × 5² = 1.200 cm².
+  3. Bandingkan: 1.200 ÷ 600 = 2 kali lebih besar.
+
 ---
 
 **96.** Sebuah bak kubus rusuk 1 m berisi air ½ penuh. Sebuah balok besi 50 × 40 × 25 cm dicelupkan sampai tenggelam (tidak meluap). Berapa cm tinggi air baru?
@@ -1450,6 +2020,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Benar. V balok = 50 × 40 × 25 = 50.000 cm³. Kenaikan = 50.000 ÷ (100 × 100) = 5 cm. Tinggi awal = 50 cm. Tinggi baru = 50 + 5 = **55 cm**.
 - **C** — Salah. Asal naik 10 cm.
 - **D** — Salah. Asal naik 15 cm.
+
+- **Konsep kunci:** Kenaikan tinggi air akibat benda tenggelam = volume benda ÷ luas alas bak.
+- **Langkah Penyelesaian:**
+  1. Tinggi air awal = ½ × 100 = 50 cm.
+  2. Hitung volume balok besi: 50 × 40 × 25 = 50.000 cm³, kenaikan = 50.000 ÷ (100×100) = 5 cm.
+  3. Tinggi air baru = 50 + 5 = 55 cm.
 
 ---
 
@@ -1465,6 +2041,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. 12 × 32 (asal angka).
 - **D** — Salah. 12 × 640 (asal).
 
+- **Konsep kunci:** Total volume beberapa benda identik = volume satu benda × banyak benda.
+- **Langkah Penyelesaian:**
+  1. Hitung volume satu tangki: 80³ = 512.000 cm³ = 512 L.
+  2. Kalikan dengan jumlah tangki: 12 × 512.
+  3. Jadi total air = 6.144 L.
+
 ---
 
 **98.** Sebuah kubus dipotong menjadi 27 kubus kecil sama besar. Selisih jumlah luas permukaan seluruh kubus kecil dengan luas permukaan kubus besar = 1.200 cm². Berapa rusuk kubus besar?
@@ -1478,6 +2060,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Salah. 9² × 12 = 972 ≠ 1.200.
 - **C** — Salah. 8² × 12 ≠ 1.200.
 - **D** — Salah. 12² × 12 = 1.728 ≠ 1.200.
+
+- **Konsep kunci:** Selisih total luas permukaan kubus kecil dengan kubus besar dapat disusun sebagai persamaan aljabar sederhana untuk mencari rusuk.
+- **Langkah Penyelesaian:**
+  1. Rusuk kecil = S/3, luas total kecil = 27 × 6(S/3)² = 18S².
+  2. Selisih dengan luas besar (6S²): 18S² − 6S² = 12S².
+  3. Samakan dengan 1.200: 12S² = 1.200 → S² = 100 → S = 10 cm.
 
 ---
 
@@ -1493,6 +2081,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **C** — Salah. Lupa keran kuras.
 - **D** — Salah. Asumsi salah debit.
 
+- **Konsep kunci:** Jika ada keran pengisi dan keran kuras sekaligus, debit netto = jumlah debit pengisi dikurangi debit kuras.
+- **Langkah Penyelesaian:**
+  1. Hitung volume bak: 1,2³ = 1,728 m³ = 1.728 L.
+  2. Hitung debit netto: (2 × 24) − 18 = 30 L/menit.
+  3. Waktu = 1.728 ÷ 30 = 57,6 menit.
+
 ---
 
 **100.** Sebuah kubus besar tersusun dari 1.000 kubus kecil sama besar. Salah satu sudut kubus besar diiris pas membentuk kubus kecil tunggal yang hilang. Berapa luas permukaan total benda baru, jika rusuk kubus kecil 1 cm?
@@ -1506,6 +2100,12 @@ Fokus: soal cerita multi-langkah, kombinasi rumus kubus + balok + debit, konvers
 - **B** — Benar. Kubus besar rusuk 10 cm (karena 10³ = 1.000). L permukaan asli = 6 × 100 = **600 cm²**. Saat 1 kubus kecil di sudut diiris (terlihat dari 3 sisi), 3 muka 1×1 = 3 cm² hilang dari permukaan tetapi 3 muka baru 1×1 = 3 cm² muncul (sisi dalam yang baru terbuka). Hasil bersih = 600 − 3 + 3 = **600 cm²**.
 - **C** — Salah. Mengira nett bertambah 2.
 - **D** — Salah. Tambah 12 (asumsi salah arah).
+
+- **Konsep kunci:** Saat sudut kubus diiris membentuk kubus kecil tunggal, luas permukaan yang hilang sama besar dengan luas permukaan baru yang muncul, sehingga totalnya tidak berubah.
+- **Langkah Penyelesaian:**
+  1. Cari rusuk kubus besar: ∛1.000 = 10 cm.
+  2. Hitung luas permukaan asli: 6 × 10² = 600 cm².
+  3. Luas yang hilang (3 muka kecil) sama dengan luas baru yang muncul (3 muka kecil), jadi total tetap 600 cm².
 
 ---
 

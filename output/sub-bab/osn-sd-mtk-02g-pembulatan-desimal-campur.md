@@ -89,6 +89,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 45 = bilangan dianggap tidak perlu diubah karena "sudah dekat". Bukan pembulatan ke puluhan.
 - **D** — 47 = tidak dibulatkan sama sekali.
 
+- **Konsep kunci:** Pembulatan ke puluhan dilihat dari digit satuan: jika ≥ 5 naik, jika < 5 tetap.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 47 adalah 7.
+  2. Karena 7 ≥ 5, angka puluhan (4) naik jadi 5.
+  3. Hasil pembulatan = 50.
+
 ---
 
 **2.** Hasil pembulatan bilangan **3,7** ke satuan terdekat adalah ...
@@ -103,6 +109,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 3,5 bukan satuan; itu pembulatan ke setengah.
 - **C** — 5 = melompat terlalu jauh, bukan ke satuan terdekat.
 - **D** — Benar. Persepuluhan = 7 (≥ 5) → satuan 3 naik jadi 4 → **4**. ✅
+
+- **Konsep kunci:** Pembulatan ke satuan pada bilangan desimal dilihat dari digit persepuluhan.
+- **Langkah Penyelesaian:**
+  1. Digit persepuluhan dari 3,7 adalah 7.
+  2. Karena 7 ≥ 5, satuan 3 naik jadi 4.
+  3. Hasil = 4.
 
 ---
 
@@ -119,6 +131,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 3,5 bukan ke satuan terdekat.
 - **D** — 0 = membulatkan ke puluhan, bukan satuan; itu pun salah (yang benar 0 hanya jika bilangan < 5 dan dibulatkan ke puluhan; 3,4 ke puluhan = 0).
 
+- **Konsep kunci:** Pembulatan ke satuan tetap jika digit persepuluhan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit persepuluhan dari 3,4 adalah 4.
+  2. Karena 4 < 5, satuan tetap 3.
+  3. Hasil = 3.
+
 ---
 
 **4.** Hasil pembulatan **43** ke puluhan terdekat adalah ...
@@ -133,6 +151,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 45 = nilai tengah, bukan pembulatan.
 - **C** — Benar. Satuan = 3 (< 5) → puluhan 4 tetap → **40**. ✅
 - **D** — 43 = tidak dibulatkan.
+
+- **Konsep kunci:** Pembulatan ke puluhan tetap jika digit satuan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 43 adalah 3.
+  2. Karena 3 < 5, puluhan tetap 4.
+  3. Hasil = 40.
 
 ---
 
@@ -149,6 +173,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Puluhan = 6 (≥ 5) → ratusan 5 naik ke 6 → **1.600**. ✅
 - **D** — 2.000 = membulatkan ke ribuan, bukan ratusan.
 
+- **Konsep kunci:** Pembulatan ke ratusan dilihat dari digit puluhan.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 1.567 adalah 6.
+  2. Karena 6 ≥ 5, ratusan 5 naik jadi 6.
+  3. Hasil = 1.600.
+
 ---
 
 **6.** Hasil pembulatan **1.567** ke ribuan terdekat adalah ...
@@ -163,6 +193,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 1.500 = membulatkan ke ratusan, bukan ribuan.
 - **C** — 1.600 = membulatkan ke ratusan dengan benar, tapi soalnya minta ribuan.
 - **D** — 1.000 = arah pembulatan salah (ratusan 5 dianggap < 5).
+
+- **Konsep kunci:** Pembulatan ke ribuan dilihat dari digit ratusan.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 1.567 adalah 5.
+  2. Karena 5 ≥ 5, ribuan 1 naik jadi 2.
+  3. Hasil = 2.000.
 
 ---
 
@@ -179,6 +215,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 3,48 = membulatkan ke 2 angka desimal, bukan 1.
 - **D** — Benar. Perseratusan = 7 (≥ 5) → persepuluhan 4 naik ke 5 → **3,5**. ✅
 
+- **Konsep kunci:** Pembulatan ke 1 angka desimal dilihat dari digit perseratusan.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 3,478 adalah 7.
+  2. Karena 7 ≥ 5, persepuluhan 4 naik jadi 5.
+  3. Hasil = 3,5.
+
 ---
 
 **8.** Pembulatan **3,478** ke 2 angka desimal adalah ...
@@ -193,6 +235,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — Benar. Cek perseribuan = 8 (≥ 5) → perseratusan 7 naik ke 8 → **3,48**. ✅
 - **C** — 3,5 = ke 1 desimal, bukan 2.
 - **D** — 3,47 = arah pembulatan terbalik; 8 dianggap < 5.
+
+- **Konsep kunci:** Pembulatan ke 2 angka desimal dilihat dari digit perseribuan.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 3,478 adalah 8.
+  2. Karena 8 ≥ 5, perseratusan 7 naik jadi 8.
+  3. Hasil = 3,48.
 
 ---
 
@@ -209,6 +257,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 85 = tidak dibulatkan.
 - **D** — Benar. Satuan = 5 → puluhan 8 naik ke 9 → **90**. ✅
 
+- **Konsep kunci:** Digit satuan yang tepat 5 pada pembulatan puluhan selalu dibulatkan ke atas.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 85 adalah 5.
+  2. Karena 5 ≥ 5, puluhan 8 naik jadi 9.
+  3. Hasil = 90.
+
 ---
 
 **10.** Hasil pembulatan **12,5** ke satuan terdekat adalah ...
@@ -223,6 +277,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — Benar. Persepuluhan = 5 → satuan 12 naik ke 13 → **13**. ✅
 - **C** — 12,5 = tidak dibulatkan.
 - **D** — 10 = membulatkan ke puluhan, bukan satuan.
+
+- **Konsep kunci:** Pada bilangan desimal, digit persepuluhan yang tepat 5 dibulatkan ke atas.
+- **Langkah Penyelesaian:**
+  1. Digit persepuluhan dari 12,5 adalah 5.
+  2. Karena 5 ≥ 5, satuan 12 naik jadi 13.
+  3. Hasil = 13.
 
 ---
 
@@ -239,6 +299,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Puluhan = 4 (< 5) → ratusan 7 tetap → **700**. ✅
 - **D** — 1.000 = membulatkan ke ribuan, terlalu jauh.
 
+- **Konsep kunci:** Saat membulatkan ke ratusan, digit yang dicek adalah puluhan, bukan satuan.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 749 adalah 4 (jangan terkecoh angka 9 di satuan).
+  2. Karena 4 < 5, ratusan tetap 7.
+  3. Hasil = 700.
+
 ---
 
 **12.** Pembulatan **0,743** ke 1 angka desimal adalah ...
@@ -253,6 +319,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 0,74 = pembulatan ke 2 desimal, bukan 1.
 - **C** — 0,8 = arah salah; perseratusan 4 dianggap ≥ 5.
 - **D** — 1,0 = terlalu jauh; itu pembulatan ke satuan.
+
+- **Konsep kunci:** Pembulatan ke 1 desimal tetap jika digit perseratusan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,743 adalah 4.
+  2. Karena 4 < 5, persepuluhan tetap 7.
+  3. Hasil = 0,7.
 
 ---
 
@@ -269,6 +341,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 0,13 = arah salah; perseribuan 3 dianggap ≥ 5.
 - **D** — 0,123 = pembulatan ke 3 desimal, bukan 2.
 
+- **Konsep kunci:** Pembulatan ke 2 desimal tetap jika digit perseribuan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,1234 adalah 3.
+  2. Karena 3 < 5, perseratusan tetap 2.
+  3. Hasil = 0,12.
+
 ---
 
 **14.** Hasil pembulatan **124** ke puluhan terdekat adalah ...
@@ -283,6 +361,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 100 = membulatkan ke ratusan, bukan puluhan.
 - **C** — Benar. Satuan = 4 (< 5) → puluhan 2 tetap → **120**. ✅
 - **D** — 125 = nilai tengah, bukan pembulatan.
+
+- **Konsep kunci:** Pembulatan ke puluhan hanya melihat satu digit di kanannya, yaitu satuan.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 124 adalah 4.
+  2. Karena 4 < 5, puluhan tetap 2.
+  3. Hasil = 120.
 
 ---
 
@@ -299,6 +383,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 2.000 = membulatkan ke ribuan, bukan ratusan.
 - **D** — 2.450 = tidak dibulatkan.
 
+- **Konsep kunci:** Digit puluhan yang tepat 5 pada pembulatan ratusan selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 2.450 adalah 5.
+  2. Karena 5 ≥ 5, ratusan 4 naik jadi 5.
+  3. Hasil = 2.500.
+
 ---
 
 **16.** Hasil pembulatan **8,49** ke satuan terdekat adalah ...
@@ -313,6 +403,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 8,5 = pembulatan berantai dulu ke 1 desimal, lalu dianggap selesai. Pembulatan harus 1 langkah dari bilangan asli.
 - **C** — 10 = membulatkan ke puluhan, terlalu jauh.
 - **D** — Benar. Persepuluhan = 4 (< 5) → satuan 8 tetap → **8**. ✅
+
+- **Konsep kunci:** Cek hanya satu digit tepat di sebelah kanan posisi pembulatan, jangan terkecoh digit lain.
+- **Langkah Penyelesaian:**
+  1. Digit persepuluhan dari 8,49 adalah 4 (bukan angka 9 di perseratusan).
+  2. Karena 4 < 5, satuan tetap 8.
+  3. Hasil = 8.
 
 ---
 
@@ -329,6 +425,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Ratusan = 5 → ribuan 8 naik ke 9 → **9.000**. ✅
 - **D** — 10.000 = melompat terlalu jauh; ribuan 8 hanya bertambah 1 jadi 9, bukan 10.
 
+- **Konsep kunci:** Digit ratusan yang tepat 5 pada pembulatan ribuan selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 8.500 adalah 5.
+  2. Karena 5 ≥ 5, ribuan 8 naik jadi 9.
+  3. Hasil = 9.000.
+
 ---
 
 **18.** Hasil pembulatan **1.499** ke ribuan terdekat adalah ...
@@ -343,6 +445,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 2.000 = pembulatan berantai (1.499 → 1.500 → 2.000). Salah! Langsung cek ratusan = 4 (< 5).
 - **C** — 1.400 = membulatkan ke ratusan dengan arah yang salah pula.
 - **D** — Benar. Ratusan = 4 (< 5) → ribuan 1 tetap → **1.000**. ✅
+
+- **Konsep kunci:** Pembulatan harus langsung satu langkah dari bilangan asli, bukan bertahap.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 1.499 adalah 4.
+  2. Karena 4 < 5, ribuan tetap 1 (jangan bulatkan bertahap lewat ratusan).
+  3. Hasil = 1.000.
 
 ---
 
@@ -359,6 +467,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 12.300 = membulatkan ke ratusan, bukan ribuan.
 - **D** — 12.350 = membulatkan ke puluhan, bukan ribuan.
 
+- **Konsep kunci:** Pembulatan ke ribuan tetap jika digit ratusan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 12.349 adalah 3.
+  2. Karena 3 < 5, ribuan tetap 12.
+  3. Hasil = 12.000.
+
 ---
 
 **20.** Hasil pembulatan **487 + 312** menggunakan pembulatan ke ratusan terdekat adalah ...
@@ -373,6 +487,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 700 = membulatkan 487 ke bawah jadi 400. Salah arah.
 - **C** — 900 = membulatkan 312 ke atas jadi 400. Salah arah.
 - **D** — 799 = hasil pasti tanpa pembulatan; soal minta hasil **dengan pembulatan**.
+
+- **Konsep kunci:** Estimasi hasil penjumlahan dilakukan dengan membulatkan tiap bilangan dulu, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Bulatkan 487 ke ratusan: puluhan 8 ≥ 5 → 500.
+  2. Bulatkan 312 ke ratusan: puluhan 1 < 5 → 300.
+  3. Jumlahkan hasil pembulatan: 500 + 300 = 800.
 
 ---
 
@@ -389,6 +509,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 2 jajan = pembulatan ke bawah terlalu jauh; 3 jajan masih bisa karena 3 × 15.000 = 45.000 ≤ 47.000.
 - **D** — 5 jajan = jelas tidak cukup; 5 × 15.000 = 75.000 > 47.000.
 
+- **Konsep kunci:** Pembagian dengan sisa memakai pembulatan ke bawah (floor) jika konteksnya “berapa kali bisa dilakukan”.
+- **Langkah Penyelesaian:**
+  1. Bagi 47.000 ÷ 15.000 = 3,13....
+  2. Karena konteksnya “berapa jajan bisa dibeli”, pakai floor (sisa dibuang).
+  3. Hasil = 3 jajan.
+
 ---
 
 **22.** Ibu ingin memasukkan 73 telur ke kardus. Setiap kardus muat 20 telur. Banyak kardus yang dibutuhkan adalah ...
@@ -403,6 +529,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 3 kardus = pakai floor; padahal 3 kardus hanya muat 60 telur, sisa 13 telur tidak tertampung.
 - **C** — 5 kardus = pembulatan terlalu jauh; kardus ke-5 tidak diperlukan.
 - **D** — 2 kardus = lebih kurang lagi; sangat tidak cukup.
+
+- **Konsep kunci:** Pembagian dengan sisa memakai pembulatan ke atas (ceiling) jika konteksnya “berapa wadah dibutuhkan”.
+- **Langkah Penyelesaian:**
+  1. Bagi 73 ÷ 20 = 3,65.
+  2. Karena butuh kardus agar semua telur muat, pakai ceiling (selalu naik).
+  3. Hasil = 4 kardus.
 
 ---
 
@@ -419,6 +551,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Lihat digit perseratusan = 4 (< 5) → persepuluhan 4 tetap → **2,4**. ✅
 - **D** — 2 = pembulatan ke satuan, bukan 1 desimal.
 
+- **Konsep kunci:** Pembulatan tidak boleh dilakukan bertahap (pembulatan berantai); harus langsung dari bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Untuk 1 desimal, lihat langsung digit perseratusan dari 2,449, yaitu 4.
+  2. Karena 4 < 5, persepuluhan tetap 4 (jangan bulatkan bertahap lewat 2,45).
+  3. Hasil = 2,4.
+
 ---
 
 **24.** Hasil pembulatan **6.789** ke ribuan terdekat adalah ...
@@ -433,6 +571,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 6.800 = membulatkan ke ratusan, bukan ribuan.
 - **C** — Benar. Ratusan = 7 (≥ 5) → ribuan 6 naik ke 7 → **7.000**. ✅
 - **D** — 6.790 = membulatkan ke puluhan, bukan ribuan.
+
+- **Konsep kunci:** Digit ratusan yang ≥ 5 membuat ribuan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 6.789 adalah 7.
+  2. Karena 7 ≥ 5, ribuan 6 naik jadi 7.
+  3. Hasil = 7.000.
 
 ---
 
@@ -449,6 +593,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Pilihan tidak konsisten dengan bentuk 1 desimal.
 - **D** — Benar. Perseratusan = 6 (≥ 5) → persepuluhan 0 naik ke 1 → **0,1**. ✅
 
+- **Konsep kunci:** Digit perseratusan yang ≥ 5 membuat persepuluhan naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,06 adalah 6.
+  2. Karena 6 ≥ 5, persepuluhan 0 naik jadi 1.
+  3. Hasil = 0,1.
+
 ---
 
 **26.** Hasil pembulatan **999** ke ratusan terdekat adalah ...
@@ -463,6 +613,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 990 = membulatkan ke puluhan, bukan ratusan.
 - **C** — Benar. Puluhan = 9 (≥ 5) → ratusan 9 naik. Karena 9 + 1 = 10, ratusan jadi 10, melebar ke ribuan → **1.000**. ✅
 - **D** — 999 = tidak dibulatkan.
+
+- **Konsep kunci:** Pembulatan dapat membuat digit “melebar” ke posisi yang lebih tinggi (carry).
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 999 adalah 9.
+  2. Karena 9 ≥ 5, ratusan 9 naik jadi 10 sehingga melebar ke ribuan.
+  3. Hasil = 1.000.
 
 ---
 
@@ -479,6 +635,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 65 = tidak dibulatkan.
 - **D** — 100 = membulatkan ke ratusan, bukan puluhan.
 
+- **Konsep kunci:** Digit satuan yang tepat 5 pada pembulatan puluhan selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 65 adalah 5.
+  2. Karena 5 ≥ 5, puluhan 6 naik jadi 7.
+  3. Hasil = 70.
+
 ---
 
 **28.** Hasil pembulatan **0,55** ke 1 angka desimal adalah ...
@@ -493,6 +655,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — Benar. Perseratusan = 5 → persepuluhan 5 naik ke 6 → **0,6**. ✅
 - **C** — 0,55 = tidak dibulatkan.
 - **D** — 1 = pembulatan ke satuan, terlalu jauh.
+
+- **Konsep kunci:** Digit perseratusan yang tepat 5 pada pembulatan 1 desimal selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,55 adalah 5.
+  2. Karena 5 ≥ 5, persepuluhan 5 naik jadi 6.
+  3. Hasil = 0,6.
 
 ---
 
@@ -509,6 +677,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 230 = membulatkan ke puluhan dengan arah salah pula.
 - **D** — 240 = membulatkan ke puluhan, bukan ratusan.
 
+- **Konsep kunci:** Pembulatan ke ratusan tetap jika digit puluhan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 234 adalah 3.
+  2. Karena 3 < 5, ratusan tetap 2.
+  3. Hasil = 200.
+
 ---
 
 **30.** Hasil pembulatan **789** ke puluhan terdekat adalah ...
@@ -523,6 +697,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — Benar. Satuan = 9 (≥ 5) → puluhan 8 naik ke 9 → **790**. ✅
 - **C** — 800 = membulatkan ke ratusan, bukan puluhan.
 - **D** — 700 = membulatkan ke ratusan dengan arah salah pula.
+
+- **Konsep kunci:** Digit satuan yang ≥ 5 membuat puluhan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 789 adalah 9.
+  2. Karena 9 ≥ 5, puluhan 8 naik jadi 9.
+  3. Hasil = 790.
 
 ---
 
@@ -539,6 +719,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Perseratusan = 5 → persepuluhan 2 naik ke 3 → **5,3**. ✅
 - **D** — 5 = pembulatan ke satuan, terlalu jauh.
 
+- **Konsep kunci:** Digit perseratusan tepat 5 pada pembulatan 1 desimal membuat persepuluhan naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 5,25 adalah 5.
+  2. Karena 5 ≥ 5, persepuluhan 2 naik jadi 3.
+  3. Hasil = 5,3.
+
 ---
 
 **32.** Hasil pembulatan **378** ke ratusan terdekat adalah ...
@@ -553,6 +739,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 380 = membulatkan ke puluhan, bukan ratusan.
 - **C** — 370 = membulatkan ke puluhan dengan arah salah.
 - **D** — Benar. Puluhan = 7 (≥ 5) → ratusan 3 naik ke 4 → **400**. ✅
+
+- **Konsep kunci:** Digit puluhan yang ≥ 5 membuat ratusan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 378 adalah 7.
+  2. Karena 7 ≥ 5, ratusan 3 naik jadi 4.
+  3. Hasil = 400.
 
 ---
 
@@ -569,6 +761,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — Benar. Perseribuan = 9 (≥ 5) → perseratusan 8 naik ke 9 → **0,09**. ✅
 - **D** — 0,089 = tidak dibulatkan.
 
+- **Konsep kunci:** Digit perseribuan yang ≥ 5 membuat perseratusan naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,089 adalah 9.
+  2. Karena 9 ≥ 5, perseratusan 8 naik jadi 9.
+  3. Hasil = 0,09.
+
 ---
 
 **34.** Hasil pembulatan **126** ke puluhan terdekat adalah ...
@@ -583,6 +781,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — Benar. Satuan = 6 (≥ 5) → puluhan 2 naik ke 3 → **130**. ✅
 - **C** — 100 = membulatkan ke ratusan, bukan puluhan.
 - **D** — 125 = bukan pembulatan ke puluhan.
+
+- **Konsep kunci:** Digit satuan yang ≥ 5 pada pembulatan puluhan membuat puluhan naik.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 126 adalah 6.
+  2. Karena 6 ≥ 5, puluhan 2 naik jadi 3.
+  3. Hasil = 130.
 
 ---
 
@@ -599,6 +803,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **C** — 2,95 = tidak dibulatkan.
 - **D** — 3,1 = melompat terlalu jauh; pembulatan tetap 1 langkah.
 
+- **Konsep kunci:** Pembulatan dapat melebar hingga ke posisi satuan (carry berantai).
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 2,95 adalah 5.
+  2. Karena 5 ≥ 5, persepuluhan 9 naik jadi 10 sehingga melebar ke satuan.
+  3. Hasil = 3,0.
+
 ---
 
 **36.** Hasil pembulatan **9.999** ke ribuan terdekat adalah ...
@@ -613,6 +823,12 @@ Berbeda dengan pembulatan "ke terdekat". Pakai konteks soal!
 - **B** — 9.900 = membulatkan ke ratusan, bukan ribuan.
 - **C** — 9.990 = membulatkan ke puluhan, bukan ribuan.
 - **D** — Benar. Ratusan = 9 (≥ 5) → ribuan 9 naik. Karena 9 + 1 = 10, ribuan melebar → **10.000**. ✅
+
+- **Konsep kunci:** Pembulatan dapat melebar hingga ke posisi ribuan penuh (carry berantai).
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 9.999 adalah 9.
+  2. Karena 9 ≥ 5, ribuan 9 naik jadi 10 sehingga melebar.
+  3. Hasil = 10.000.
 
 ---
 
@@ -639,6 +855,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 15,68 = arah salah.
 - **D** — Benar (untuk soal 15,686 → **15,69**). ✅
 
+- **Konsep kunci:** Cermati angka asli pada soal sebelum membulatkan; kesalahan penulisan bisa mengubah kunci jawaban.
+- **Langkah Penyelesaian:**
+  1. Soal ini sudah dikoreksi menjadi 15,686.
+  2. Untuk 2 desimal, lihat digit perseribuan = 6.
+  3. Karena 6 ≥ 5, perseratusan 8 naik jadi 9 → hasil 15,69.
+
 ---
 
 **38.** Hasil pembulatan **246** ke puluhan terdekat adalah ...
@@ -653,6 +875,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 240 = arah salah; satuan 6 dianggap < 5.
 - **C** — 200 = membulatkan ke ratusan, bukan puluhan.
 - **D** — 245 = bukan kelipatan 10, bukan pembulatan ke puluhan.
+
+- **Konsep kunci:** Digit satuan yang ≥ 5 pada pembulatan puluhan selalu membuat puluhan naik.
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 246 adalah 6.
+  2. Karena 6 ≥ 5, puluhan 4 naik jadi 5.
+  3. Hasil = 250.
 
 ---
 
@@ -669,6 +897,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — Benar. Perseratusan = 8 (≥ 5) → persepuluhan 3 naik ke 4 → **0,4**. ✅
 - **D** — 1 = pembulatan ke satuan, terlalu jauh.
 
+- **Konsep kunci:** Digit perseratusan yang ≥ 5 membuat persepuluhan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,38 adalah 8.
+  2. Karena 8 ≥ 5, persepuluhan 3 naik jadi 4.
+  3. Hasil = 0,4.
+
 ---
 
 **40.** Hasil pembulatan **555** ke ratusan terdekat adalah ...
@@ -683,6 +917,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — Benar. Puluhan = 5 → ratusan 5 naik ke 6 → **600**. ✅
 - **C** — 560 = membulatkan ke puluhan.
 - **D** — 550 = membulatkan satuan ke puluhan (tetap 550), bukan ke ratusan.
+
+- **Konsep kunci:** Digit puluhan tepat 5 pada pembulatan ratusan selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 555 adalah 5.
+  2. Karena 5 ≥ 5, ratusan 5 naik jadi 6.
+  3. Hasil = 600.
 
 ---
 
@@ -699,6 +939,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 3 bus = jelas terlalu sedikit; hanya 120 orang.
 - **D** — 6 bus = terlalu banyak; cukup 5 bus.
 
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa kendaraan dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 165 ÷ 40 = 4,125.
+  2. Karena butuh bus agar semua orang terangkut, pakai ceiling.
+  3. Hasil = 5 bus.
+
 ---
 
 **42.** Hasil pembulatan **0,005** ke 2 angka desimal adalah ...
@@ -713,6 +959,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 0,005 = tidak dibulatkan.
 - **C** — Benar. Perseribuan = 5 → perseratusan 0 naik ke 1 → **0,01**. ✅
 - **D** — 0,1 = pembulatan ke 1 desimal.
+
+- **Konsep kunci:** Digit perseribuan tepat 5 pada pembulatan 2 desimal selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,005 adalah 5.
+  2. Karena 5 ≥ 5, perseratusan 0 naik jadi 1.
+  3. Hasil = 0,01.
 
 ---
 
@@ -729,6 +981,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 5.000 = membulatkan ke ribuan, bukan ratusan.
 - **D** — Benar. Puluhan = 6 (≥ 5) → ratusan 5 naik ke 6 → **4.600**. ✅
 
+- **Konsep kunci:** Digit puluhan yang ≥ 5 membuat ratusan naik.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 4.567 adalah 6.
+  2. Karena 6 ≥ 5, ratusan 5 naik jadi 6.
+  3. Hasil = 4.600.
+
 ---
 
 **44.** Hasil pembulatan **3,14159** ke 2 angka desimal adalah ...
@@ -743,6 +1001,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 3,15 = arah salah; perseribuan 1 dianggap ≥ 5.
 - **C** — 3,1 = pembulatan ke 1 desimal, bukan 2.
 - **D** — 3,141 = pembulatan ke 3 desimal, bukan 2.
+
+- **Konsep kunci:** Digit perseribuan yang < 5 membuat perseratusan tetap.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 3,14159 adalah 1.
+  2. Karena 1 < 5, perseratusan tetap 4.
+  3. Hasil = 3,14.
 
 ---
 
@@ -759,6 +1023,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 2.500 = tidak dibulatkan ke ribuan.
 - **D** — 2.600 = membulatkan ke ratusan dengan tambahan ngawur.
 
+- **Konsep kunci:** Digit ratusan tepat 5 pada pembulatan ribuan selalu naik.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 2.500 adalah 5.
+  2. Karena 5 ≥ 5, ribuan 2 naik jadi 3.
+  3. Hasil = 3.000.
+
 ---
 
 **46.** Hasil pembulatan **999.999** ke ribuan terdekat adalah ...
@@ -773,6 +1043,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 999.900 = membulatkan ke ratusan.
 - **C** — 999.990 = membulatkan ke puluhan.
 - **D** — Benar. Ratusan = 9 → ribuan 999 naik. Karena 999 + 1 = 1.000, melebar ke jutaan → **1.000.000**. ✅
+
+- **Konsep kunci:** Pembulatan bisa melebar sangat jauh saat semua digit di depannya adalah 9 (carry beruntun).
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 999.999 adalah 9.
+  2. Karena 9 ≥ 5, ribuan 999 naik jadi 1.000 sehingga melebar ke jutaan.
+  3. Hasil = 1.000.000.
 
 ---
 
@@ -789,6 +1065,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 8 = pembulatan ke satuan; melibatkan pembulatan berantai (7,46 → 7,5 → 8), salah.
 - **D** — 7 = pembulatan ke satuan dengan arah salah pula.
 
+- **Konsep kunci:** Untuk pembulatan ke 1 desimal, yang dicek adalah digit perseratusan, bukan persepuluhan.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 7,46 adalah 6.
+  2. Karena 6 ≥ 5, persepuluhan 4 naik jadi 5.
+  3. Hasil = 7,5.
+
 ---
 
 **48.** Hasil pembulatan **875** ke ratusan terdekat adalah ...
@@ -803,6 +1085,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 870 = membulatkan ke puluhan, bukan ratusan.
 - **C** — Benar. Puluhan = 7 (≥ 5) → ratusan 8 naik ke 9 → **900**. ✅
 - **D** — 875 = tidak dibulatkan.
+
+- **Konsep kunci:** Digit puluhan yang ≥ 5 membuat ratusan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 875 adalah 7.
+  2. Karena 7 ≥ 5, ratusan 8 naik jadi 9.
+  3. Hasil = 900.
 
 ---
 
@@ -819,6 +1107,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 1.230 = membulatkan ke puluhan.
 - **D** — Benar. Ratusan = 2 (< 5) → ribuan 1 tetap → **1.000**. ✅
 
+- **Konsep kunci:** Digit ratusan yang < 5 membuat ribuan tetap.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 1.234 adalah 2.
+  2. Karena 2 < 5, ribuan tetap 1.
+  3. Hasil = 1.000.
+
 ---
 
 **50.** Hasil pembulatan **0,95** ke 1 angka desimal adalah ...
@@ -833,6 +1127,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — Benar. Perseratusan = 5 → persepuluhan 9 naik. Karena 9 + 1 = 10, melebar ke satuan → **1,0**. ✅
 - **C** — 0,95 = tidak dibulatkan.
 - **D** — 0,1 = ngawur; bukan hasil pembulatan.
+
+- **Konsep kunci:** Pembulatan satu desimal bisa melebar sampai ke digit satuan.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,95 adalah 5.
+  2. Karena 5 ≥ 5, persepuluhan 9 naik jadi 10 sehingga melebar ke satuan.
+  3. Hasil = 1,0.
 
 ---
 
@@ -851,6 +1151,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 6 peti = jauh kurang; hanya 144 botol.
 - **D** — 9 peti = berlebihan; peti ke-9 tidak diperlukan.
 
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa peti dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 175 ÷ 24 = 7,29.
+  2. Karena butuh peti agar semua botol tertampung, pakai ceiling.
+  3. Hasil = 8 peti.
+
 ---
 
 **52.** Hasil pembulatan dari **48 + 53 + 71** menggunakan pembulatan ke puluhan terdekat adalah ...
@@ -865,6 +1171,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 175 = nilai pasti tanpa pembulatan. (48 + 53 + 71 = 172, bukan 175.)
 - **C** — Benar. 48 ≈ 50 (satuan 8 ≥ 5), 53 ≈ 50 (satuan 3 < 5), 71 ≈ 70 (satuan 1 < 5). Estimasi: 50 + 50 + 70 = **170**. ✅
 - **D** — 180 = membulatkan 71 ke 80 (salah arah jauh).
+
+- **Konsep kunci:** Estimasi jumlah beberapa bilangan dihitung dengan membulatkan tiap bilangan dulu ke puluhan, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Bulatkan 48 → 50, 53 → 50, 71 → 70 (masing-masing ke puluhan).
+  2. Jumlahkan hasil pembulatan.
+  3. Hasil = 50 + 50 + 70 = 170.
 
 ---
 
@@ -881,6 +1193,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — Benar. Perseribuan = 5 → perseratusan 4 naik ke 5 → **12,35**. ✅
 - **D** — 12,3 = pembulatan ke 1 desimal dengan arah salah pula.
 
+- **Konsep kunci:** Digit perseribuan yang ≥ 5 membuat perseratusan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 12,345 adalah 5.
+  2. Karena 5 ≥ 5, perseratusan 4 naik jadi 5.
+  3. Hasil = 12,35.
+
 ---
 
 **54.** Banyak telur 248 dan setiap rak memuat 30 butir. Banyak rak yang dibutuhkan agar semua telur tertampung adalah ...
@@ -895,6 +1213,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 8 rak = pakai floor; sisa 8 telur tidak tertampung.
 - **C** — 7 rak = jauh kurang; hanya 210 butir.
 - **D** — 10 rak = kelebihan; rak ke-10 tidak terpakai.
+
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa rak dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 248 ÷ 30 = 8,27.
+  2. Karena butuh rak agar semua telur tertampung, pakai ceiling.
+  3. Hasil = 9 rak.
 
 ---
 
@@ -911,6 +1235,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 4.000 = arah salah untuk ribuan; ratusan 4 dianggap ≥ 5.
 - **D** — 3.470 = membulatkan ke puluhan.
 
+- **Konsep kunci:** Pembulatan ke ribuan tetap jika digit ratusan kurang dari 5.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 3.467 adalah 4.
+  2. Karena 4 < 5, ribuan tetap 3.
+  3. Hasil = 3.000.
+
 ---
 
 **56.** Harga sebuah pensil Rp 2.350. Jika Bu Lina membeli 7 pensil, perkiraan kasar dengan membulatkan harga ke ratusan terdekat adalah ...
@@ -926,6 +1256,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — Rp 16.000 = membulatkan total ke ribuan, bukan harga satuan ke ratusan.
 - **D** — Benar. 2.350 → puluhan 5 → ratusan 3 naik ke 4 → 2.400. Lalu 2.400 × 7 = **Rp 16.800**. ✅
 
+- **Konsep kunci:** Pembulatan harga satuan dilakukan sebelum dikalikan dengan banyak barang.
+- **Langkah Penyelesaian:**
+  1. Bulatkan harga 2.350 ke ratusan: puluhan 5 ≥ 5 → 2.400.
+  2. Kalikan hasil bulat dengan banyak pensil.
+  3. Hasil = 2.400 × 7 = Rp16.800.
+
 ---
 
 **57.** Hasil pembulatan **0,0049** ke 3 angka desimal adalah ...
@@ -940,6 +1276,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — Benar. Untuk 3 desimal, lihat digit ke-4 = 9 (≥ 5) → digit ke-3 (perseribuan) = 4 naik ke 5 → **0,005**. ✅
 - **C** — 0,049 = salah baca posisi; bukan 3 desimal.
 - **D** — 0,01 = pembulatan ke 2 desimal, bukan 3.
+
+- **Konsep kunci:** Untuk pembulatan ke 3 desimal, digit yang dicek adalah digit ke-4 di belakang koma.
+- **Langkah Penyelesaian:**
+  1. Digit ke-4 dari 0,0049 adalah 9.
+  2. Karena 9 ≥ 5, digit ke-3 (4) naik jadi 5.
+  3. Hasil = 0,005.
 
 ---
 
@@ -973,6 +1315,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 86.490 = membulatkan ke puluhan, bukan ribuan.
 - **D** — Benar. Ratusan = 4 (< 5) → ribuan 86 tetap → **86.000**. ✅
 
+- **Konsep kunci:** Pembulatan ke ribuan hanya melihat digit ratusan, bukan puluhan atau satuan.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 86.499 adalah 4.
+  2. Karena 4 < 5, ribuan tetap 86 (jangan bulatkan bertahap dari ratusan dulu).
+  3. Hasil = 86.000.
+
 ---
 
 **59.** Pak Budi punya 137 buku dan ingin menatanya di rak. Setiap rak menampung 25 buku. Banyak rak yang dibutuhkan adalah ...
@@ -987,6 +1335,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 4 rak = jauh kurang; hanya 100 buku.
 - **C** — Benar. 137 ÷ 25 = 5,48. Pakai **ceiling** → **6 rak**. (5 rak = 125, sisa 12 butuh rak ke-6.) ✅
 - **D** — 7 rak = kelebihan; cukup 6 rak.
+
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa rak agar semua tertampung” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 137 ÷ 25 = 5,48.
+  2. Karena butuh rak agar semua buku tertampung, pakai ceiling.
+  3. Hasil = 6 rak.
 
 ---
 
@@ -1003,6 +1357,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **C** — 10,0 = pembulatan ke 1 desimal.
 - **D** — 9,9 = pembulatan ke 1 desimal dengan arah salah.
 
+- **Konsep kunci:** Pembulatan 2 desimal bisa melebar sampai membuat seluruh digit di depannya naik (carry beruntun).
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 9,996 adalah 6.
+  2. Karena 6 ≥ 5, perseratusan 9 naik dan melebar ke persepuluhan lalu satuan.
+  3. Hasil = 10,00.
+
 ---
 
 **61.** Hasil pembulatan dari (487 + 312 − 158) ke ratusan terdekat adalah ...
@@ -1017,6 +1377,12 @@ Catatan koreksi: soal seharusnya berbunyi **Pembulatan 15,686 ke 2 angka desimal
 - **B** — 700 = lupa kurangi 158 atau membulatkan 158 ke 100.
 - **C** — 500 = membulatkan 487 ke 400.
 - **D** — 641 = hasil pasti tanpa pembulatan.
+
+- **Konsep kunci:** Estimasi hasil operasi hitung dilakukan setelah menghitung nilai pastinya, baru dibulatkan.
+- **Langkah Penyelesaian:**
+  1. Hitung nilai pasti: 487 + 312 − 158 = 641.
+  2. Lihat digit puluhan dari 641, yaitu 4.
+  3. Karena 4 < 5, ratusan tetap 6 → hasil 600.
 
 ---
 
@@ -1042,6 +1408,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 
 (Catatan: kunci yang benar adalah **B** pada soal ini; "C" pada draf sebelumnya keliru. Revisi: **Kunci: B**.)
 
+- **Konsep kunci:** Untuk pembulatan 2 desimal, digit yang dicek adalah perseribuan, bukan digit lain.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 2,4949 adalah 4.
+  2. Karena 4 < 5, perseratusan tetap 9.
+  3. Hasil = 2,49.
+
 ---
 
 **63.** Sebuah jam digital menunjukkan 14:47. Dibulatkan ke jam terdekat (puluhan jam, di mana 1 jam = 60 menit), pukul itu kira-kira ...
@@ -1057,6 +1429,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — Benar. 47 menit ≥ 30 menit (titik tengah 60) → naik ke pukul **15:00**. ✅
 - **D** — Pukul 14:50 = membulatkan menit ke puluhan, bukan ke jam terdekat.
 
+- **Konsep kunci:** Pembulatan waktu ke jam terdekat dilihat dari menit dibanding titik tengah 30 menit.
+- **Langkah Penyelesaian:**
+  1. Bandingkan menit (47) dengan titik tengah 30 menit.
+  2. Karena 47 ≥ 30, jam dibulatkan naik.
+  3. Hasil = pukul 15:00.
+
 ---
 
 **64.** Hasil pembulatan **0,4995** ke 2 angka desimal adalah ...
@@ -1071,6 +1449,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — Benar. Perseribuan = 9 (≥ 5) → perseratusan 9 naik. Karena 9 + 1 = 10, melebar ke persepuluhan (4 + 1 = 5) → **0,50**. ✅
 - **C** — 0,5 = pembulatan ke 1 desimal.
 - **D** — 0,499 = pembulatan ke 3 desimal.
+
+- **Konsep kunci:** Digit perseribuan yang ≥ 5 dapat membuat carry hingga ke digit persepuluhan.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,4995 adalah 9.
+  2. Karena 9 ≥ 5, perseratusan 9 naik dan melebar ke persepuluhan (4 → 5).
+  3. Hasil = 0,50.
 
 ---
 
@@ -1099,6 +1483,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 123.460 = membulatkan ke puluhan.
 - **D** — Benar. Ratusan = 4 (< 5) → ribuan 123 tetap → **123.000**. ✅
 
+- **Konsep kunci:** Pembulatan ke ribuan hanya bergantung pada digit ratusan.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 123.456 adalah 4.
+  2. Karena 4 < 5, ribuan tetap 123.
+  3. Hasil = 123.000.
+
 ---
 
 **66.** Hasil pembulatan **23,949** ke 1 angka desimal adalah ...
@@ -1113,6 +1503,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 24,0 = pembulatan berantai (23,949 → 23,95 → 24,0). Salah; cek perseratusan = 4 langsung.
 - **C** — 23,95 = pembulatan ke 2 desimal.
 - **D** — 24 = pembulatan ke satuan.
+
+- **Konsep kunci:** Pembulatan 1 desimal langsung dari bilangan asli, tanpa membulatkan bertahap dulu.
+- **Langkah Penyelesaian:**
+  1. Untuk 1 desimal, lihat langsung digit perseratusan dari 23,949, yaitu 4.
+  2. Karena 4 < 5, persepuluhan tetap 9.
+  3. Hasil = 23,9.
 
 ---
 
@@ -1129,6 +1525,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 9 plastik = berlebihan; cukup 8.
 - **D** — 6 plastik = jauh kurang; hanya 72 jeruk.
 
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa plastik agar semua masuk” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 89 ÷ 12 = 7,42.
+  2. Karena butuh plastik agar semua jeruk masuk, pakai ceiling.
+  3. Hasil = 8 plastik.
+
 ---
 
 **68.** Hasil pembulatan **0,75** ke 1 angka desimal adalah ...
@@ -1143,6 +1545,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 0,75 = tidak dibulatkan.
 - **C** — Benar. Perseratusan = 5 → persepuluhan 7 naik ke 8 → **0,8**. ✅
 - **D** — 1,0 = pembulatan ke satuan, terlalu jauh.
+
+- **Konsep kunci:** Digit perseratusan tepat 5 membuat persepuluhan naik.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 0,75 adalah 5.
+  2. Karena 5 ≥ 5, persepuluhan 7 naik jadi 8.
+  3. Hasil = 0,8.
 
 ---
 
@@ -1159,6 +1567,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 650 = pembulatan tidak konsisten; bukan ke ratusan.
 - **D** — 640 = membulatkan ke puluhan dengan arah salah pula (satuan 9 ≥ 5, harusnya 650).
 
+- **Konsep kunci:** Cek digit yang benar (puluhan) saat membulatkan ke ratusan, jangan terkecoh digit satuan.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 649 adalah 4 (bukan satuan 9).
+  2. Karena 4 < 5, ratusan tetap 6.
+  3. Hasil = 600.
+
 ---
 
 **70.** Hasil pembulatan **0,0501** ke 2 angka desimal adalah ...
@@ -1173,6 +1587,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 0,06 = arah salah dengan tambahan terkecoh oleh angka 1 di akhir; padahal yang dicek hanya perseribuan = 0.
 - **C** — Benar. Perseribuan = 0 (< 5) → perseratusan 5 tetap → **0,05**. ✅
 - **D** — 0,1 = pembulatan ke 1 desimal.
+
+- **Konsep kunci:** Digit perseribuan yang < 5 membuat perseratusan tetap, walau ada digit lain di belakangnya.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,0501 adalah 0.
+  2. Karena 0 < 5, perseratusan tetap 5.
+  3. Hasil = 0,05.
 
 ---
 
@@ -1189,6 +1609,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 4,5 jam = pembulatan ke setengah, bukan satuan.
 - **D** — 6 jam = melompat terlalu jauh.
 
+- **Konsep kunci:** Digit persepuluhan yang ≥ 5 membuat satuan (jam) naik.
+- **Langkah Penyelesaian:**
+  1. Digit persepuluhan dari 4,7 adalah 7.
+  2. Karena 7 ≥ 5, satuan 4 naik jadi 5.
+  3. Hasil = 5 jam.
+
 ---
 
 **72.** Hasil pembulatan **5,649** ke 1 angka desimal adalah ...
@@ -1203,6 +1629,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 5,65 = pembulatan ke 2 desimal.
 - **C** — 5,5 = arah salah dan loncatan ngawur.
 - **D** — Benar. Perseratusan = 4 (< 5) → persepuluhan 6 tetap → **5,6**. ✅
+
+- **Konsep kunci:** Pembulatan 1 desimal langsung dari bilangan asli, bukan dari hasil pembulatan sebelumnya.
+- **Langkah Penyelesaian:**
+  1. Lihat langsung digit perseratusan dari 5,649, yaitu 4.
+  2. Karena 4 < 5, persepuluhan tetap 6.
+  3. Hasil = 5,6.
 
 ---
 
@@ -1219,6 +1651,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — Benar. Konteks "agar cukup" pakai **ceiling** → meskipun 0,2 < 0,5, tetap dibulatkan ke atas → **14 m**. ✅
 - **D** — 13,2 m = tidak dibulatkan; soal minta ke satuan.
 
+- **Konsep kunci:** Konteks “agar cukup” pada pengukuran memakai pembulatan ke atas (ceiling), meski sisanya kecil.
+- **Langkah Penyelesaian:**
+  1. Nilai asli 13,2 m tidak cukup jika dibulatkan biasa ke 13 m.
+  2. Karena konteksnya “agar cukup”, pakai ceiling (selalu naik).
+  3. Hasil = 14 m.
+
 ---
 
 **74.** Hasil pembulatan **45,67** ke puluhan terdekat adalah ...
@@ -1233,6 +1671,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 45 = membulatkan ke satuan, bukan puluhan.
 - **C** — 60 = melompat terlalu jauh; cukup naik 1 puluhan dari 4 ke 5.
 - **D** — Benar. Lihat satuan (digit sebelum koma) = 5 → puluhan 4 naik ke 5 → **50**. ✅
+
+- **Konsep kunci:** Pembulatan ke puluhan pada bilangan desimal tetap dilihat dari digit satuan (sebelum koma).
+- **Langkah Penyelesaian:**
+  1. Digit satuan dari 45,67 adalah 5.
+  2. Karena 5 ≥ 5, puluhan 4 naik jadi 5.
+  3. Hasil = 50.
 
 ---
 
@@ -1249,6 +1693,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — Rp 65.000 = membulatkan harga pulpen ke Rp 3.000 (salah arah).
 - **D** — Rp 73.000 = total tanpa pembulatan (12.450 × 5 + 4.350 × 3 = 62.250 + 13.050 = 75.300, jadi bukan ini juga).
 
+- **Konsep kunci:** Estimasi total harga dilakukan dengan membulatkan tiap harga ke ribuan dulu, baru dikalikan dan dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Bulatkan 12.450 ke ribuan: ratusan 4 < 5 → 12.000.
+  2. Bulatkan 4.350 ke ribuan: ratusan 3 < 5 → 4.000.
+  3. Hitung 5 × 12.000 + 3 × 4.000 = Rp72.000.
+
 ---
 
 **76.** Hasil pembulatan **0,995** ke 2 angka desimal adalah ...
@@ -1263,6 +1713,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — Benar. Perseribuan = 5 → perseratusan 9 naik. Karena 9 + 1 = 10, melebar ke persepuluhan (9 + 1 = 10), lalu ke satuan (0 + 1 = 1) → **1,00**. ✅
 - **C** — 0,9 = pembulatan ke 1 desimal.
 - **D** — 0,995 = tidak dibulatkan.
+
+- **Konsep kunci:** Digit perseribuan tepat 5 dapat membuat carry hingga ke digit satuan.
+- **Langkah Penyelesaian:**
+  1. Digit perseribuan dari 0,995 adalah 5.
+  2. Karena 5 ≥ 5, perseratusan 9 naik dan melebar ke persepuluhan lalu satuan.
+  3. Hasil = 1,00.
 
 ---
 
@@ -1279,6 +1735,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 400 = arah salah; puluhan 2 dianggap ≥ 5.
 - **D** — 330 = membulatkan ke puluhan, bukan ratusan.
 
+- **Konsep kunci:** Digit puluhan yang < 5 membuat ratusan tetap.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 325 adalah 2.
+  2. Karena 2 < 5, ratusan tetap 3.
+  3. Hasil = 300.
+
 ---
 
 **78.** Hasil pembulatan **3.555** ke ratusan terdekat adalah ...
@@ -1293,6 +1755,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — Benar. Puluhan = 5 → ratusan 5 naik ke 6 → **3.600**. ✅
 - **C** — 3.555 = tidak dibulatkan.
 - **D** — 3.560 = membulatkan ke puluhan.
+
+- **Konsep kunci:** Digit puluhan tepat 5 membuat ratusan naik.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan dari 3.555 adalah 5.
+  2. Karena 5 ≥ 5, ratusan 5 naik jadi 6.
+  3. Hasil = 3.600.
 
 ---
 
@@ -1309,6 +1777,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **C** — 8,40 cm = bentuk ke 2 desimal (sama nilai dengan 8,4), bukan 1 desimal.
 - **D** — Benar. Perseratusan = 2 (< 5) → persepuluhan 4 tetap → **8,4 cm**. ✅
 
+- **Konsep kunci:** Digit perseratusan yang < 5 membuat persepuluhan tetap.
+- **Langkah Penyelesaian:**
+  1. Digit perseratusan dari 8,42 adalah 2.
+  2. Karena 2 < 5, persepuluhan tetap 4.
+  3. Hasil = 8,4 cm.
+
 ---
 
 **80.** Hasil pembulatan **44.444** ke ribuan terdekat adalah ...
@@ -1323,6 +1797,12 @@ Mari koreksi: pembulatan **2,4949** ke 2 desimal: cek digit ke-3 (perseribuan) =
 - **B** — 44.400 = membulatkan ke ratusan, bukan ribuan.
 - **C** — Benar. Ratusan = 4 (< 5) → ribuan 44 tetap → **44.000**. ✅
 - **D** — 50.000 = membulatkan ke puluhan ribu, terlalu jauh.
+
+- **Konsep kunci:** Digit ratusan yang < 5 membuat ribuan tetap.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 44.444 adalah 4.
+  2. Karena 4 < 5, ribuan tetap 44.
+  3. Hasil = 44.000.
 
 ---
 
@@ -1352,6 +1832,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — 17 truk = berlebihan.
 - **D** — 14 truk = jauh kurang; hanya 1.120 karung.
 
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa truk dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 1.247 ÷ 80 = 15,59.
+  2. Karena butuh truk agar semua karung terangkut, pakai ceiling.
+  3. Hasil = 16 truk.
+
 ---
 
 **82.** Pak Bagas menyumbang Rp 47.350 ke 7 anak yatim dengan jumlah sama. Tiap anak mendapat **berapa rupiah** jika uang dibulatkan ke ratusan terdekat ke bawah (agar tidak kurang dari yang diterima)?
@@ -1366,6 +1852,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **B** — Rp 6.800 = pakai pembulatan terdekat; tapi 6.800 × 7 = 47.600 > 47.350, Pak Bagas akan kekurangan.
 - **C** — Rp 7.000 = pembulatan ke ribuan; 7.000 × 7 = 49.000 > 47.350, jauh lebih kurang.
 - **D** — Rp 6.764 = hasil pasti (dengan pecahan), bukan dibulatkan ke ratusan.
+
+- **Konsep kunci:** Pembagian yang dibulatkan ke bawah (floor) dipakai agar hasil bagi tidak melebihi total yang tersedia.
+- **Langkah Penyelesaian:**
+  1. Bagi 47.350 ÷ 7 = 6.764,28....
+  2. Karena harus dibulatkan ke ratusan ke bawah (floor), buang sisa dari 6.764.
+  3. Hasil = Rp6.700.
 
 ---
 
@@ -1395,6 +1887,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — Benar. Jumlah = 9,150 → perseratusan 5 → persepuluhan 1 naik ke 2 → **9,2**. ✅
 - **D** — 9,3 = pembulatan berlebihan.
 
+- **Konsep kunci:** Operasi hitung dilakukan lebih dulu, baru hasilnya dibulatkan ke posisi yang diminta.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan dulu: 3,478 + 5,672 = 9,150.
+  2. Lihat digit perseratusan = 5.
+  3. Karena 5 ≥ 5, persepuluhan 1 naik jadi 2 → hasil 9,2.
+
 ---
 
 **84.** Pembulatan **2,4995** ke 3 angka desimal adalah ...
@@ -1409,6 +1907,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **B** — 2,5 = pembulatan ke 1 desimal.
 - **C** — 2,49 = pembulatan ke 2 desimal.
 - **D** — Benar. Digit ke-4 = 5 → digit ke-3 (perseribuan) = 9 naik. Karena 9 + 1 = 10, melebar ke perseratusan (9 + 1 = 10), lalu ke persepuluhan (4 + 1 = 5) → **2,500**. ✅
+
+- **Konsep kunci:** Pembulatan ke 3 desimal bisa melebar carry sampai ke digit persepuluhan.
+- **Langkah Penyelesaian:**
+  1. Digit ke-4 dari 2,4995 adalah 5.
+  2. Karena 5 ≥ 5, digit ke-3 (9) naik dan melebar ke perseratusan lalu persepuluhan.
+  3. Hasil = 2,500.
 
 ---
 
@@ -1438,6 +1942,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — 21.000 = membulatkan ke 3.500 (bukan ke ribuan).
 - **D** — Benar. 3.847 ≈ 4.000 (ratusan 8 ≥ 5). 4.000 × 6 = **24.000**. ✅
 
+- **Konsep kunci:** Nilai satuan dibulatkan dulu sebelum dikalikan dengan jumlah pengulangan (hari, dsb).
+- **Langkah Penyelesaian:**
+  1. Bulatkan 3.847 ke ribuan: ratusan 8 ≥ 5 → 4.000.
+  2. Kalikan hasil bulat dengan 6 hari.
+  3. Hasil = 4.000 × 6 = 24.000.
+
 ---
 
 **86.** Hasil pembulatan **(0,499 × 10)** ke satuan terdekat adalah ...
@@ -1452,6 +1962,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **B** — 6 = ngawur.
 - **C** — Benar. 0,499 × 10 = 4,99 → persepuluhan = 9 (≥ 5) → satuan 4 naik ke 5 → **5**. ✅
 - **D** — 50 = membulatkan ke puluhan, terlalu jauh.
+
+- **Konsep kunci:** Operasi perkalian dihitung dulu, baru hasilnya dibulatkan ke posisi yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu 0,499 × 10 = 4,99.
+  2. Lihat digit persepuluhan = 9.
+  3. Karena 9 ≥ 5, satuan 4 naik jadi 5.
 
 ---
 
@@ -1468,6 +1984,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — 360 m² = membulatkan ke puluhan, bukan ratusan.
 - **D** — 364,98 m² = nilai pasti tanpa pembulatan.
 
+- **Konsep kunci:** Luas dihitung dulu dari hasil perkalian panjang dan lebar, baru dibulatkan.
+- **Langkah Penyelesaian:**
+  1. Hitung luas: 23,7 × 15,4 = 364,98 m².
+  2. Lihat digit puluhan = 6.
+  3. Karena 6 ≥ 5, ratusan 3 naik jadi 4 → 400 m².
+
 ---
 
 **88.** Hasil pembulatan **89.999** ke ribuan terdekat adalah ...
@@ -1482,6 +2004,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **B** — 89.000 = arah salah; ratusan 9 jelas ≥ 5.
 - **C** — 89.900 = membulatkan ke ratusan.
 - **D** — 89.990 = membulatkan ke puluhan.
+
+- **Konsep kunci:** Digit ratusan yang ≥ 5 membuat ribuan naik satu.
+- **Langkah Penyelesaian:**
+  1. Digit ratusan dari 89.999 adalah 9.
+  2. Karena 9 ≥ 5, ribuan 89 naik jadi 90.
+  3. Hasil = 90.000.
 
 ---
 
@@ -1498,6 +2026,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — 4,5 kg = pembulatan ke setengah, bukan ke 1 desimal.
 - **D** — 5,0 kg = pembulatan ke satuan, bukan 1 desimal.
 
+- **Konsep kunci:** Konteks “harus cukup” pada kebutuhan bahan memakai pembulatan ke atas (ceiling).
+- **Langkah Penyelesaian:**
+  1. Hitung kebutuhan per porsi: 1,75 ÷ 12 = 0,1458 kg.
+  2. Kalikan untuk 30 porsi: 0,1458 × 30 = 4,375 kg.
+  3. Karena harus “cukup”, bulatkan ke atas (ceiling) ke 1 desimal → 4,4 kg.
+
 ---
 
 **90.** Hasil pembulatan **123,4567** ke 3 angka desimal adalah ...
@@ -1513,6 +2047,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **C** — 123,4567 = tidak dibulatkan.
 - **D** — Benar. Digit ke-4 = 7 (≥ 5) → digit ke-3 (perseribuan) = 6 naik ke 7 → **123,457**. ✅
 
+- **Konsep kunci:** Digit ke-4 di belakang koma yang ≥ 5 membuat digit ke-3 naik.
+- **Langkah Penyelesaian:**
+  1. Digit ke-4 dari 123,4567 adalah 7.
+  2. Karena 7 ≥ 5, digit ke-3 (6) naik jadi 7.
+  3. Hasil = 123,457.
+
 ---
 
 **91.** Pembulatan **(0,1 + 0,2)** ke 1 angka desimal adalah ...
@@ -1527,6 +2067,12 @@ Mari hitung: 1.247 ÷ 80 = 15,59. Pakai ceiling → **16 truk**. Pilihan A dan B
 - **B** — 0,4 = jumlahkan kemudian naikkan ngawur.
 - **C** — Benar. 0,1 + 0,2 = 0,3. Sudah pas di 1 desimal → **0,3**. ✅
 - **D** — 0,30 = bentuk 2 desimal (sama nilai 0,3), bukan 1 desimal.
+
+- **Konsep kunci:** Bilangan yang hasil penjumlahannya sudah pas di posisi pembulatan tidak perlu diubah lagi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan dulu: 0,1 + 0,2 = 0,3.
+  2. Nilai sudah pas 1 desimal, tidak perlu dibulatkan lagi.
+  3. Hasil = 0,3.
 
 ---
 
@@ -1552,6 +2098,12 @@ Total pasti: 17.450 + 23.825 + 9.275 = 50.550. Dibulatkan ke ribuan terdekat: ra
 
 **(Kunci direvisi menjadi A. Mohon catat: soal 92 → A.)**
 
+- **Konsep kunci:** Jumlah total dihitung dulu sebelum dibulatkan ke posisi ribuan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan total: 17.450 + 23.825 + 9.275 = 50.550.
+  2. Lihat digit ratusan = 5.
+  3. Karena 5 ≥ 5, ribuan 50 naik jadi 51 → Rp51.000.
+
 ---
 
 **93.** Sebuah kelas berisi 27 siswa. Setiap meja muat 4 siswa. Banyak meja yang dibutuhkan adalah ...
@@ -1566,6 +2118,12 @@ Total pasti: 17.450 + 23.825 + 9.275 = 50.550. Dibulatkan ke ribuan terdekat: ra
 - **B** — 8 meja = berlebihan; cukup 7.
 - **C** — Benar. 27 ÷ 4 = 6,75. Pakai **ceiling** → **7 meja**. (6 meja muat 24, sisa 3 butuh meja ke-7.) ✅
 - **D** — 5 meja = jauh kurang; hanya 20 siswa.
+
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa meja dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 27 ÷ 4 = 6,75.
+  2. Karena butuh meja agar semua siswa duduk, pakai ceiling.
+  3. Hasil = 7 meja.
 
 ---
 
@@ -1594,6 +2152,12 @@ Hasil pasti: 2,4 + 3,7 − 1,5 = 4,6. Persepuluhan = 6 (≥ 5) → satuan 4 naik
 - **C** — 6 = melompat terlalu jauh.
 - **D** — 4,6 = nilai pasti tanpa pembulatan.
 
+- **Konsep kunci:** Hasil operasi hitung campuran (tambah dan kurang) dihitung dulu, baru dibulatkan.
+- **Langkah Penyelesaian:**
+  1. Hitung hasil operasi dulu: 2,4 + 3,7 − 1,5 = 4,6.
+  2. Lihat digit persepuluhan = 6.
+  3. Karena 6 ≥ 5, satuan 4 naik jadi 5.
+
 ---
 
 **95.** Hasil pembulatan **2.345.678** ke ratusan ribu terdekat adalah ...
@@ -1617,6 +2181,12 @@ Lihat digit puluhan ribu = 4 (< 5) → ratusan ribu 3 tetap → **2.300.000**.
 
 **(Kunci direvisi menjadi C. Mohon catat: soal 95 → C.)**
 
+- **Konsep kunci:** Pembulatan ke ratusan ribu dilihat dari digit puluhan ribu.
+- **Langkah Penyelesaian:**
+  1. Digit puluhan ribu dari 2.345.678 adalah 4.
+  2. Karena 4 < 5, ratusan ribu 3 tetap.
+  3. Hasil = 2.300.000.
+
 ---
 
 **96.** Hasil pembulatan **0,000049** ke 4 angka desimal adalah ...
@@ -1633,6 +2203,12 @@ Lihat digit ke-5 (per-seratus-ribuan) = 4 (< 5) → digit ke-4 (per-puluh-ribuan
 - **B** — 0,001 = pembulatan ke 3 desimal dan ngawur pula.
 - **C** — 0,0001 = arah salah; digit ke-5 dianggap ≥ 5.
 - **D** — 0,00005 = pembulatan ke 5 desimal.
+
+- **Konsep kunci:** Pembulatan ke banyak angka desimal tetap mengikuti aturan digit tepat di kanannya.
+- **Langkah Penyelesaian:**
+  1. Untuk 4 desimal, lihat digit ke-5 dari 0,000049, yaitu 4.
+  2. Karena 4 < 5, digit ke-4 (0) tetap.
+  3. Hasil = 0,0000.
 
 ---
 
@@ -1651,6 +2227,12 @@ Lihat digit ke-5 (per-seratus-ribuan) = 4 (< 5) → digit ke-4 (per-puluh-ribuan
 - **C** — 7 mobil = pakai floor; sisa 3 kendaraan tidak ada pengawalnya.
 - **D** — 10 mobil = berlebihan.
 
+- **Konsep kunci:** Pembagian dengan sisa untuk “berapa mobil pengawal dibutuhkan” memakai ceiling.
+- **Langkah Penyelesaian:**
+  1. Bagi 178 ÷ 25 = 7,12.
+  2. Karena butuh mobil pengawal agar semua kendaraan terkawal, pakai ceiling.
+  3. Hasil = 8 mobil.
+
 ---
 
 **98.** Pembulatan **(1.567 + 2.834)** ke ribuan terdekat **setelah dijumlahkan** adalah ...
@@ -1667,6 +2249,12 @@ Lihat digit ke-5 (per-seratus-ribuan) = 4 (< 5) → digit ke-4 (per-puluh-ribuan
 - **B** — 5.000 = arah salah; ratusan 4 dianggap ≥ 5.
 - **C** — 4.500 = membulatkan ke ratusan dengan tambahan ngawur (puluhan 0 < 5; jadi tetap 4.400, bukan 4.500).
 - **D** — 4.401 = nilai pasti tanpa pembulatan.
+
+- **Konsep kunci:** Jumlah dua bilangan dihitung dulu, baru dibulatkan ke posisi ribuan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan dulu: 1.567 + 2.834 = 4.401.
+  2. Lihat digit ratusan = 4.
+  3. Karena 4 < 5, ribuan tetap 4 → hasil 4.000.
 
 ---
 
@@ -1685,6 +2273,12 @@ Lihat digit ke-4 (per-puluh-ribuan) = 7 (≥ 5) → digit ke-3 (perseribuan) = 5
 - **C** — 0,047 = pembulatan berlebihan (lompat 2 nilai).
 - **D** — Benar. Digit ke-4 = 7 (≥ 5) → perseribuan 5 naik ke 6 → **0,046**. ✅
 
+- **Konsep kunci:** Pembulatan ke 3 desimal dilihat dari digit ke-4 di belakang koma.
+- **Langkah Penyelesaian:**
+  1. Digit ke-4 dari 0,04567 adalah 7.
+  2. Karena 7 ≥ 5, digit ke-3 (5) naik jadi 6.
+  3. Hasil = 0,046.
+
 ---
 
 **100.** Sebuah toko menjual beras curah dengan harga Rp 12.475 per kg. Bu Tini membeli 3,7 kg. Setelah dihitung total kemudian dibulatkan ke ratusan terdekat, Bu Tini harus membayar ...
@@ -1701,6 +2295,13 @@ Lihat digit ke-4 (per-puluh-ribuan) = 7 (≥ 5) → digit ke-3 (perseribuan) = 5
 - **B** — Rp 46.000 = membulatkan ke ribuan, bukan ratusan.
 - **C** — Benar. Total = 46.157,5 → puluhan 5 → ratusan 1 naik ke 2 → **Rp 46.200**. ✅
 - **D** — Rp 46.157 = nilai pasti tanpa pembulatan; soal minta dibulatkan.
+
+- **Konsep kunci:** Hasil perkalian dihitung dulu secara pasti, baru dibulatkan ke posisi yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung total harga: 12.475 × 3,7 = 46.157,5.
+  2. Lihat digit puluhan = 5.
+  3. Karena 5 ≥ 5, ratusan 1 naik jadi 2.
+  4. Hasil = Rp46.200.
 
 ---
 

@@ -117,6 +117,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Benar. V = π × r² × t = 22/7 × 7 × 7 × 10 = 22 × 7 × 10 = 1.540 cm³.
 - **D** — Salah. 490 = r² × t, lupa dikalikan π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. Tentukan r = 7 cm, t = 10 cm, pakai π = 22/7 (r habis dibagi 7).
+  2. Substitusi: V = 22/7 × 7 × 7 × 10 = 22 × 7 × 10.
+  3. Hasil: V = 1.540 cm³.
+
 ---
 
 **2.** Volume tabung dengan jari-jari 10 cm dan tinggi 10 cm adalah ... (π = 3,14)
@@ -130,6 +136,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 3,14 × 10 × 10 × 10 = 3,14 × 1.000 = 3.140 cm³.
 - **C** — Salah. 1.000 = r² × t = 100 × 10, lupa π.
 - **D** — Salah. 31.400 = kelebihan ×10 (pakai t = 100). Salah baca tinggi.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 10 cm, t = 10 cm, pakai π = 3,14 (r tidak habis dibagi 7).
+  2. Substitusi: V = 3,14 × 10 × 10 × 10.
+  3. Hasil: V = 3.140 cm³.
 
 ---
 
@@ -145,6 +157,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.960 = r² × t = 196 × 10, lupa π.
 - **D** — Salah. 880 = K × t = 2πr × t = 88 × 10 (pakai keliling alas).
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 10 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 10 = 22 × 28 × 10.
+  3. Hasil: V = 6.160 cm³.
+
 ---
 
 **4.** Volume tabung dengan diameter 14 cm dan tinggi 20 cm adalah ... (π = 22/7)
@@ -158,6 +176,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. r = 14/2 = 7. V = 22/7 × 7 × 7 × 20 = 22 × 7 × 20 = 3.080 cm³.
 - **C** — Salah. 12.320 = pakai r = 14 langsung (jebakan diameter).
 - **D** — Salah. 1.760 = rumus karangan. Tidak konsisten.
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 14 cm menjadi r = 14 ÷ 2 = 7 cm.
+  2. Substitusi ke V = 22/7 × 7 × 7 × 20 = 22 × 7 × 20.
+  3. Hasil: V = 3.080 cm³.
 
 ---
 
@@ -173,6 +197,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 4.410 = r² × t = 441 × 10, lupa π.
 - **D** — Salah. 660 = K × t × ... (pencampuran keliling). Salah rumus.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 21 cm, t = 10 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 21 × 21 × 10 = 22 × 3 × 21 × 10.
+  3. Hasil: V = 13.860 cm³.
+
 ---
 
 **6.** Volume tabung dengan jari-jari 5 cm dan tinggi 10 cm adalah ... (π = 3,14)
@@ -186,6 +216,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 157 = 2 × luas alas atau π × d × t/sebagian. Tidak konsisten.
 - **C** — Benar. V = 3,14 × 5 × 5 × 10 = 3,14 × 250 = 785 cm³.
 - **D** — Salah. 250 = r² × t, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 5 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 5 × 5 × 10 = 3,14 × 250.
+  3. Hasil: V = 785 cm³.
 
 ---
 
@@ -201,6 +237,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 220 = 22 × 10 (lupa kuadratkan r).
 - **D** — Salah. 49 = r² saja.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 dm, t = 10 dm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 10 = 22 × 7 × 10.
+  3. Hasil: V = 1.540 dm³.
+
 ---
 
 **8.** Volume tabung dengan jari-jari 14 cm dan tinggi 5 cm adalah ... (π = 22/7)
@@ -214,6 +256,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 880 = K × t × 2 (pencampuran dengan keliling). Salah rumus.
 - **C** — Salah. 980 = r² × t = 196 × 5, lupa dikalikan π.
 - **D** — Salah. 220 = π × r × t (lupa kuadratkan r).
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 5 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 5 = 22 × 28 × 5.
+  3. Hasil: V = 3.080 cm³.
 
 ---
 
@@ -229,6 +277,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 314 = luas alas pakai r = 10 (salah radius). Lupa × t juga.
 - **D** — Salah. 628 = setengah dari salah hitung. Tidak konsisten.
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 10 cm menjadi r = 5 cm.
+  2. Substitusi: V = 3,14 × 5 × 5 × 20 = 3,14 × 500.
+  3. Hasil: V = 1.570 cm³.
+
 ---
 
 **10.** Volume tabung dengan jari-jari 7 cm dan tinggi 20 cm adalah ... (π = 22/7)
@@ -242,6 +296,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 308 = K × t = 2πr × t = 44 × 7 (campur). Tidak konsisten.
 - **C** — Benar. V = 22/7 × 7 × 7 × 20 = 22 × 7 × 20 = 3.080 cm³.
 - **D** — Salah. 154 = luas alas saja, lupa × t.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 20 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 20 = 22 × 7 × 20.
+  3. Hasil: V = 3.080 cm³.
 
 ---
 
@@ -257,6 +317,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 38,5 = luas alas (π × 12,25). Lupa × t.
 - **D** — Salah. 154 = pakai r = 7 langsung (jebakan diameter).
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 7 cm menjadi r = 3,5 cm.
+  2. Substitusi: V = 22/7 × 3,5 × 3,5 × 14 = 44 × 12,25.
+  3. Hasil: V = 539 cm³.
+
 ---
 
 **12.** Volume tabung dengan jari-jari 20 cm dan tinggi 10 cm adalah ... (π = 3,14)
@@ -270,6 +336,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 3,14 × 20 × 20 × 10 = 3,14 × 4.000 = 12.560 cm³.
 - **C** — Salah. 4.000 = r² × t, lupa π.
 - **D** — Salah. 6.280 = K × t × ... atau setengah dari benar. Tidak konsisten.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 20 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 20 × 20 × 10 = 3,14 × 4.000.
+  3. Hasil: V = 12.560 cm³.
 
 ---
 
@@ -285,6 +357,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.570 = K × t / pencampuran. Tidak konsisten.
 - **D** — Salah. 2.500 = r² × t = 25 × 100, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 5 cm, panjang pipa t = 100 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 5 × 5 × 100 = 3,14 × 2.500.
+  3. Hasil: V = 7.850 cm³.
+
 ---
 
 **14.** Volume tabung dengan jari-jari 7 cm dan tinggi 14 cm adalah ... (π = 22/7)
@@ -298,6 +376,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 308 = π × r × t (lupa kuadratkan r).
 - **C** — Salah. 1.540 = pakai t = 10 (salah baca).
 - **D** — Salah. 196 = pencampuran. Tidak konsisten.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 14 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 14 = 22 × 7 × 14.
+  3. Hasil: V = 2.156 cm³.
 
 ---
 
@@ -313,6 +397,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Benar. V = 22/7 × 14 × 14 × 14 = 22 × 28 × 14 = 8.624 cm³.
 - **D** — Salah. 1.232 = 2 × luas alas atau salah hitung. Tidak konsisten.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 14 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 14 = 22 × 28 × 14.
+  3. Hasil: V = 8.624 cm³.
+
 ---
 
 **16.** Volume tabung dengan diameter 28 cm dan tinggi 5 cm adalah ... (π = 22/7)
@@ -326,6 +416,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 1.540 = setengah dari benar (salah hitung).
 - **C** — Salah. 12.320 = pakai r = 28 (jebakan diameter).
 - **D** — Salah. 880 = K × t × ... (pakai keliling).
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 28 cm menjadi r = 14 cm.
+  2. Substitusi: V = 22/7 × 14 × 14 × 5 = 22 × 28 × 5.
+  3. Hasil: V = 3.080 cm³.
 
 ---
 
@@ -341,6 +437,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 13.230 = r² × t = 441 × 30, lupa π.
 - **D** — Salah. 1.386 = luas alas, lupa × t.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 21 cm, t = 30 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 21 × 21 × 30 = 22 × 63 × 30.
+  3. Hasil: V = 41.580 cm³.
+
 ---
 
 **18.** Volume tabung dengan jari-jari 10 cm dan tinggi 5 cm adalah ... (π = 3,14)
@@ -354,6 +456,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 3,14 × 10 × 10 × 5 = 3,14 × 500 = 1.570 cm³.
 - **C** — Salah. 500 = r² × t, lupa π.
 - **D** — Salah. 157 = setengah dari luas alas. Tidak konsisten.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 10 cm, t = 5 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 10 × 10 × 5 = 3,14 × 500.
+  3. Hasil: V = 1.570 cm³.
 
 ---
 
@@ -369,6 +477,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 251,2 = setengah dari benar (kurang faktor 2). Tidak konsisten.
 - **D** — Salah. 160 = r² × t, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 4 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 4 × 4 × 10 = 3,14 × 160.
+  3. Hasil: V = 502,4 cm³.
+
 ---
 
 **20.** Volume tabung dengan jari-jari 35 cm dan tinggi 10 cm adalah ... (π = 22/7)
@@ -382,6 +496,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 3.850 = luas alas (π × 1.225). Lupa × t.
 - **C** — Salah. 12.250 = r² × t, lupa π.
 - **D** — Salah. 1.100 = K × t (pencampuran). Salah rumus.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 35 cm, t = 10 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 35 × 35 × 10 = 22 × 175 × 10.
+  3. Hasil: V = 38.500 cm³.
 
 ---
 
@@ -397,6 +517,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Benar. V = 22/7 × 7 × 7 × 30 = 22 × 7 × 30 = 4.620 cm³.
 - **D** — Salah. 1.470 = r² × t = 49 × 30, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 30 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 30 = 22 × 7 × 30.
+  3. Hasil: V = 4.620 cm³.
+
 ---
 
 **22.** Volume tabung dengan jari-jari 14 cm dan tinggi 25 cm adalah ... (π = 22/7)
@@ -410,6 +536,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 22/7 × 14 × 14 × 25 = 22 × 28 × 25 = 15.400 cm³.
 - **C** — Salah. 4.900 = r² × t = 196 × 25, lupa π.
 - **D** — Salah. 2.200 = K × t × ... (campur). Tidak konsisten.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 25 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 25 = 22 × 28 × 25.
+  3. Hasil: V = 15.400 cm³.
 
 ---
 
@@ -425,6 +557,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.155 = ¼ dari benar (salah pembagian).
 - **D** — Salah. 9.240 = 2 × benar (salah faktor).
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 14 cm menjadi r = 7 cm.
+  2. Substitusi: V = 22/7 × 7 × 7 × 30 = 22 × 7 × 30.
+  3. Hasil: V = 4.620 cm³.
+
 ---
 
 **24.** Volume tabung dengan jari-jari 2 cm dan tinggi 10 cm adalah ... (π = 3,14)
@@ -438,6 +576,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 3,14 × 2 × 2 × 10 = 3,14 × 40 = 125,6 cm³.
 - **C** — Salah. 40 = r² × t, lupa π.
 - **D** — Salah. 6,28 = K = 2πr (keliling alas). Salah konsep total.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 2 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 2 × 2 × 10 = 3,14 × 40.
+  3. Hasil: V = 125,6 cm³.
 
 ---
 
@@ -453,6 +597,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.130,4 = pakai r = 6 (jebakan diameter).
 - **D** — Salah. 188,4 = K × t (pakai keliling).
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 6 cm menjadi r = 3 cm.
+  2. Substitusi: V = 3,14 × 3 × 3 × 10 = 3,14 × 90.
+  3. Hasil: V = 282,6 cm³.
+
 ---
 
 **26.** Volume tabung dengan jari-jari 7 cm dan tinggi 100 cm adalah ... (π = 22/7)
@@ -466,6 +616,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 22/7 × 7 × 7 × 100 = 22 × 7 × 100 = 15.400 cm³.
 - **C** — Salah. 1.540 = pakai t = 10 (salah baca tinggi).
 - **D** — Salah. 4.900 = r² × t = 49 × 100, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 100 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 100 = 22 × 7 × 100.
+  3. Hasil: V = 15.400 cm³.
 
 ---
 
@@ -481,6 +637,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.400 = r² × t, lupa π.
 - **D** — Salah. 314 = luas alas saja.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 10 cm, t = 14 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 10 × 10 × 14 = 3,14 × 1.400.
+  3. Hasil: V = 4.396 cm³.
+
 ---
 
 **28.** Volume tabung dengan jari-jari 5 cm dan tinggi 20 cm adalah ... (π = 3,14)
@@ -494,6 +656,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 314 = pakai r = 10 atau setengah salah hitung. Tidak konsisten.
 - **C** — Benar. V = 3,14 × 5 × 5 × 20 = 3,14 × 500 = 1.570 cm³.
 - **D** — Salah. 500 = r² × t, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 5 cm, t = 20 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 5 × 5 × 20 = 3,14 × 500.
+  3. Hasil: V = 1.570 cm³.
 
 ---
 
@@ -509,6 +677,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 15,4 = 154 ÷ 10 (salah operasi).
 - **D** — Salah. 308 = 2 × 154 (salah operasi).
 
+- **Konsep kunci:** Jika luas alas sudah diketahui, volume tabung cukup dihitung dengan V = luas alas × tinggi, tanpa mencari r lagi.
+- **Langkah Penyelesaian:**
+  1. Luas alas sudah diketahui = 154 cm², t = 10 cm.
+  2. Substitusi: V = luas alas × t = 154 × 10.
+  3. Hasil: V = 1.540 cm³.
+
 ---
 
 **30.** Sebuah tabung memiliki luas alas 78,5 cm² dan tinggi 20 cm. Volumenya adalah ...
@@ -522,6 +696,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 157 = 78,5 × 2 (salah baca t).
 - **C** — Salah. 78,5 = luas alas saja.
 - **D** — Salah. 3,925 = 78,5 ÷ 20 (salah operasi).
+
+- **Konsep kunci:** Jika luas alas sudah diketahui, volume tabung cukup dihitung dengan V = luas alas × tinggi, tanpa mencari r lagi.
+- **Langkah Penyelesaian:**
+  1. Luas alas sudah diketahui = 78,5 cm², t = 20 cm.
+  2. Substitusi: V = 78,5 × 20.
+  3. Hasil: V = 1.570 cm³.
 
 ---
 
@@ -537,6 +717,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 308 = π × r × t (lupa kuadratkan r).
 - **D** — Salah. 9.800 = r² × t = 196 × 50, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 50 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 50 = 22 × 28 × 50.
+  3. Hasil: V = 30.800 cm³.
+
 ---
 
 **32.** Sebuah tabung berjari-jari 21 cm dan tinggi 20 cm. Volumenya adalah ... (π = 22/7)
@@ -550,6 +736,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 2.772 = sepersepuluh. Salah ekspansi.
 - **C** — Salah. 1.386 = luas alas, lupa × t.
 - **D** — Salah. 8.820 = r² × t, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 21 cm, t = 20 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 21 × 21 × 20 = 22 × 63 × 20.
+  3. Hasil: V = 27.720 cm³.
 
 ---
 
@@ -565,6 +757,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 6.250 = r² × t, lupa π.
 - **D** — Salah. 785 = pakai r = 5 (salah radius).
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 25 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 25 × 25 × 10 = 3,14 × 6.250.
+  3. Hasil: V = 19.625 cm³.
+
 ---
 
 **34.** Sebuah pipa silinder berdiameter 4 cm dan panjang 50 cm. Volume ruang dalam pipa adalah ... (π = 3,14)
@@ -578,6 +776,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 62,8 = sepersepuluh (salah ekspansi).
 - **C** — Salah. 2.512 = pakai r = 4 (jebakan diameter).
 - **D** — Salah. 200 = r² × t, lupa π.
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 4 cm menjadi r = 2 cm, panjang pipa t = 50 cm.
+  2. Substitusi: V = 3,14 × 2 × 2 × 50 = 3,14 × 200.
+  3. Hasil: V = 628 cm³.
 
 ---
 
@@ -593,6 +797,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 9.000 = r² × t, lupa π.
 - **D** — Salah. 9.420 = K × t × ... atau π × d × t. Salah rumus.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 30 cm, t = 10 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 30 × 30 × 10 = 3,14 × 9.000.
+  3. Hasil: V = 28.260 cm³.
+
 ---
 
 **36.** Sebuah tabung berjari-jari 7 cm dan tinggi 50 cm. Volumenya adalah ... (π = 22/7)
@@ -606,6 +816,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Benar. V = 22/7 × 7 × 7 × 50 = 22 × 7 × 50 = 7.700 cm³.
 - **C** — Salah. 154 = luas alas, lupa × t.
 - **D** — Salah. 2.450 = r² × t = 49 × 50, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 50 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 50 = 22 × 7 × 50.
+  3. Hasil: V = 7.700 cm³.
 
 ---
 
@@ -621,6 +837,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 346,5 = luas alas (π × 110,25). Lupa × t.
 - **D** — Salah. 264 = K × t = 2πr × t = 66 × 4 (pakai keliling).
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 21 cm menjadi r = 10,5 cm.
+  2. Substitusi: V = 22/7 × 10,5 × 10,5 × 4 = 33 × 10,5 × 4.
+  3. Hasil: V = 1.386 cm³.
+
 ---
 
 **38.** Sebuah drum berjari-jari 28 cm dan tinggi 50 cm. Volumenya adalah ... (π = 22/7)
@@ -634,6 +856,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 12.320 = pakai t = 5 (salah baca). Sepersepuluh.
 - **C** — Salah. 2.464 = luas alas (π × 784). Lupa × t.
 - **D** — Salah. 39.200 = r² × t = 784 × 50, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 28 cm, t = 50 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 28 × 28 × 50 = 22 × 112 × 50.
+  3. Hasil: V = 123.200 cm³.
 
 ---
 
@@ -649,6 +877,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 88 = K × t (pakai keliling).
 - **D** — Salah. 98 = r² × t, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 2 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 2 = 22 × 7 × 2.
+  3. Hasil: V = 308 cm³.
+
 ---
 
 **40.** Sebuah tabung penuh air berjari-jari 10 cm dan tinggi 10 cm. Volume air dalam tabung adalah ... (π = 3,14)
@@ -662,6 +896,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 314 = luas alas, lupa × t.
 - **C** — Salah. 1.000 = r² × t, lupa π.
 - **D** — Salah. 31,4 = π × r (lupa kuadratkan dan tanpa t). Asal.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. Tabung penuh air, jadi V air = V tabung: r = 10 cm, t = 10 cm, π = 3,14.
+  2. Substitusi: V = 3,14 × 10 × 10 × 10.
+  3. Hasil: V air = 3.140 cm³.
 
 ---
 
@@ -677,6 +917,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 196 = r², lupa π.
 - **D** — Salah. 44 = π × r (lupa kuadratkan dan tinggi).
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 1 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 1 = 22 × 28.
+  3. Hasil: V = 616 cm³.
+
 ---
 
 **42.** Sebuah tabung berjari-jari 7 cm dan tinggi 15 cm. Volumenya adalah ... (π = 22/7)
@@ -690,6 +936,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 231 = sepersepuluh (salah ekspansi).
 - **C** — Salah. 1.540 = pakai t = 10 (salah baca).
 - **D** — Salah. 735 = r² × t = 49 × 15, lupa π.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 15 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 15 = 22 × 7 × 15.
+  3. Hasil: V = 2.310 cm³.
 
 ---
 
@@ -705,6 +957,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 88 = K = 2πr. Salah konsep.
 - **D** — Salah. 392 = r² × t, lupa π.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 14 cm, t = 2 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 14 × 14 × 2 = 22 × 28 × 2.
+  3. Hasil: V = 1.232 cm³.
+
 ---
 
 **44.** Sebuah tabung berdiameter 8 cm dan tinggi 10 cm. Volumenya adalah ... (π = 3,14)
@@ -718,6 +976,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 50,24 = luas alas (π × 16). Lupa × t.
 - **C** — Salah. 2.009,6 = pakai r = 8 (jebakan diameter).
 - **D** — Salah. 160 = r² × t, lupa π.
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 8 cm menjadi r = 4 cm.
+  2. Substitusi: V = 3,14 × 4 × 4 × 10 = 3,14 × 160.
+  3. Hasil: V = 502,4 cm³.
 
 ---
 
@@ -733,6 +997,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 1.960 = r² × t = 49 × 40, lupa π.
 - **D** — Salah. 880 = K × t × ... (pencampuran). Salah rumus.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 40 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 40 = 22 × 7 × 40.
+  3. Hasil: V = 6.160 cm³.
+
 ---
 
 **46.** Volume tabung dengan diameter 70 cm dan tinggi 10 cm adalah ... (π = 22/7)
@@ -746,6 +1016,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 3.850 = luas alas (π × 1.225). Lupa × t.
 - **C** — Salah. 154.000 = pakai r = 70 (jebakan diameter).
 - **D** — Salah. 1.100 = K × t × ... atau hasil asal.
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 70 cm menjadi r = 35 cm.
+  2. Substitusi: V = 22/7 × 35 × 35 × 10 = 22 × 175 × 10.
+  3. Hasil: V = 38.500 cm³.
 
 ---
 
@@ -761,6 +1037,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 192 = r² × t, lupa π.
 - **D** — Salah. 50,24 = luas alas (π × 16). Lupa × t.
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 4 cm, t = 12 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 4 × 4 × 12 = 3,14 × 192.
+  3. Hasil: V = 602,88 cm³.
+
 ---
 
 **48.** Volume tabung dengan jari-jari 7 cm dan tinggi 6 cm adalah ... (π = 22/7)
@@ -774,6 +1056,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 154 = luas alas, lupa × t.
 - **C** — Salah. 294 = r² × t = 49 × 6, lupa π.
 - **D** — Salah. 264 = K × t = 44 × 6 (pakai keliling).
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 7 cm, t = 6 cm, pakai π = 22/7.
+  2. Substitusi: V = 22/7 × 7 × 7 × 6 = 22 × 7 × 6.
+  3. Hasil: V = 924 cm³.
 
 ---
 
@@ -789,6 +1077,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **C** — Salah. 616 = luas alas (π × 196). Lupa × t.
 - **D** — Salah. 1.960 = r² × t = 196 × 10, lupa π.
 
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 28 cm menjadi r = 14 cm.
+  2. Substitusi: V = 22/7 × 14 × 14 × 10 = 22 × 28 × 10.
+  3. Hasil: V = 6.160 cm³.
+
 ---
 
 **50.** Volume tabung dengan jari-jari 10 cm dan tinggi 25 cm adalah ... (π = 3,14)
@@ -802,6 +1096,12 @@ Penerapan langsung rumus V = π × r² × t, pemilihan π yang tepat, dan kasus 
 - **B** — Salah. 785 = sepersepuluh (salah ekspansi).
 - **C** — Salah. 2.500 = r² × t, lupa π.
 - **D** — Salah. 1.570 = pakai t = 5 (salah baca).
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. r = 10 cm, t = 25 cm, pakai π = 3,14.
+  2. Substitusi: V = 3,14 × 10 × 10 × 25 = 3,14 × 2.500.
+  3. Hasil: V = 7.850 cm³.
 
 ---
 
@@ -823,6 +1123,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 15.400 = × 10 (salah konversi).
 - **D** — Salah. 1,54 = ÷ 1.000 (salah konversi).
 
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume: r = 7 dm, t = 10 dm, π = 22/7 → V = 22 × 7 × 10 = 1.540 dm³.
+  2. Ingat patokan 1 dm³ = 1 liter.
+  3. Jadi kapasitas = 1.540 liter.
+
 ---
 
 **52.** Sebuah ember tabung berjari-jari 14 cm dan tinggi 25 cm berisi penuh. Volume air dalam liter adalah ... (π = 22/7)
@@ -836,6 +1142,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 1,54 = ÷ 10.000 (salah faktor).
 - **C** — Salah. 154 = anggap cm³ = liter langsung (salah konversi).
 - **D** — Salah. 0,154 = ÷ 100.000 (salah faktor).
+
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume: r = 14 cm, t = 25 cm, π = 22/7 → V = 22 × 28 × 25 = 15.400 cm³.
+  2. Ingat patokan 1.000 cm³ = 1 liter.
+  3. Konversi: 15.400 ÷ 1.000 = 15,4 liter.
 
 ---
 
@@ -851,6 +1163,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 49 = r², lupa diakarkan.
 - **D** — Salah. 22 = π × 7 (asal).
 
+- **Konsep kunci:** Mencari jari-jari dari volume yang diketahui memakai rumus terbalik r² = V ÷ (π × t), lalu diakarkan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik r² = V ÷ (π × t) = 1.540 ÷ (22/7 × 10).
+  2. Hitung: 1.540 × 7 ÷ 220 = 49.
+  3. Akarkan: r = √49 = 7 cm.
+
 ---
 
 **54.** Volume sebuah tabung 6.160 cm³ dengan jari-jari 14 cm. Tinggi tabung adalah ... (π = 22/7)
@@ -864,6 +1182,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 5 = setengah (salah pembagian).
 - **C** — Salah. 20 = 2 × benar (terbalik).
 - **D** — Salah. 100 = × 10 (salah faktor).
+
+- **Konsep kunci:** Mencari tinggi dari volume yang diketahui memakai rumus terbalik t = V ÷ (π × r²).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik t = V ÷ (π × r²).
+  2. Hitung luas alas dulu: π × r² = 22/7 × 14 × 14 = 616.
+  3. t = 6.160 ÷ 616 = 10 cm.
 
 ---
 
@@ -879,6 +1203,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 15.700 = × 10 (salah konversi).
 - **D** — Salah. 6.280 = pakai r = 1 m (jebakan diameter).
 
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 1 m menjadi r = 0,5 m, t = 2 m, π = 3,14.
+  2. Hitung V = 3,14 × 0,25 × 2 = 1,57 m³.
+  3. Konversi m³ ke liter (1 m³ = 1.000 L): 1,57 × 1.000 = 1.570 liter.
+
 ---
 
 **56.** Sebuah kolam tabung berdiameter 4 m dan tinggi 1,5 m. Volume kolam adalah ... (π = 3,14)
@@ -892,6 +1222,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 1,884 = sepersepuluh (salah ekspansi).
 - **C** — Salah. 75,36 = pakai r = 4 m (jebakan diameter).
 - **D** — Salah. 12,56 = pakai t = 1 m (salah baca tinggi).
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 4 m menjadi r = 2 m, t = 1,5 m, π = 3,14.
+  2. Substitusi: V = 3,14 × 4 × 1,5.
+  3. Hasil: V = 18,84 m³.
 
 ---
 
@@ -907,6 +1243,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 308 = anggap V = 1.540 L (salah konversi 10×).
 - **D** — Salah. 0,308 = salah baca debit.
 
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume ember: r = 14 cm, t = 25 cm, π = 22/7 → V = 15.400 cm³ = 15,4 L.
+  2. Samakan satuan volume dengan debit (liter).
+  3. Waktu = 15,4 ÷ 5 = 3,08 menit.
+
 ---
 
 **58.** Sebuah tangki tabung berdiameter 70 cm dan tinggi 1 m. Kapasitasnya dalam liter adalah ... (π = 22/7)
@@ -920,6 +1262,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 38,5 = ÷ 10 (salah konversi).
 - **C** — Salah. 3.850 = × 10 (salah konversi).
 - **D** — Salah. 1.540 = pakai r = 7 (salah radius).
+
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 70 cm menjadi r = 35 cm, dan tinggi 1 m menjadi t = 100 cm.
+  2. Hitung V = 22/7 × 1.225 × 100 = 385.000 cm³.
+  3. Konversi ke liter: 385.000 ÷ 1.000 = 385 liter.
 
 ---
 
@@ -935,6 +1283,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 49 = r², lupa diakarkan.
 - **D** — Salah. 10 = asal estimasi.
 
+- **Konsep kunci:** Mencari jari-jari dari volume yang diketahui memakai rumus terbalik r² = V ÷ (π × t), lalu diakarkan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik r² = V ÷ (π × t) = 2.156 ÷ (22/7 × 14).
+  2. Hitung: 2.156 ÷ 44 = 49.
+  3. Akarkan: r = √49 = 7 cm.
+
 ---
 
 **60.** Tinggi tabung 10 cm dan volumenya 12.560 cm³. Jari-jari tabung adalah ... (π = 3,14)
@@ -948,6 +1302,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 10 = setengah dari benar.
 - **C** — Salah. 40 = diameter (r × 2).
 - **D** — Salah. 400 = r², lupa diakarkan.
+
+- **Konsep kunci:** Mencari jari-jari dari volume yang diketahui memakai rumus terbalik r² = V ÷ (π × t), lalu diakarkan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik r² = V ÷ (π × t) = 12.560 ÷ 31,4.
+  2. Hitung: r² = 400.
+  3. Akarkan: r = √400 = 20 cm.
 
 ---
 
@@ -963,6 +1323,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 3.850 = ¼ tabung (salah faktor).
 - **D** — Salah. 770 = sepersepuluh (salah ekspansi).
 
+- **Konsep kunci:** Volume potongan tabung (setengah atau seperempat) dicari dengan mengalikan volume tabung penuh dengan pecahan bagiannya.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung penuh: r = 7 cm, panjang 100 cm, π = 22/7 → V = 22 × 7 × 100 = 15.400 cm³.
+  2. Talang air berbentuk setengah tabung, jadi kalikan ½.
+  3. Hasil: ½ × 15.400 = 7.700 cm³.
+
 ---
 
 **62.** Sebuah ember tabung penuh mengisi 10 gelas tabung identik (jari-jari 7 cm, tinggi 10 cm). Volume ember adalah ... (π = 22/7)
@@ -976,6 +1342,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 1.540 = 1 gelas saja, lupa × 10.
 - **C** — Salah. 154 = luas alas gelas. Tidak relevan.
 - **D** — Salah. 154.000 = × 100 (salah faktor).
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume 1 gelas: r = 7 cm, t = 10 cm, π = 22/7 → V = 22 × 7 × 10 = 1.540 cm³.
+  2. Ember diisi oleh 10 gelas identik.
+  3. Volume ember = 10 × 1.540 = 15.400 cm³.
 
 ---
 
@@ -991,6 +1363,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 154 = luas alas saja.
 - **D** — Salah. 462 = setengah benar (salah hitung).
 
+- **Konsep kunci:** Volume air yang mengisi sebagian tabung dihitung memakai tinggi permukaan air yang sebenarnya, bukan tinggi tabung penuh.
+- **Langkah Penyelesaian:**
+  1. Tinggi yang dipakai adalah tinggi permukaan air, yaitu 6 cm, bukan tinggi tabung penuh.
+  2. Substitusi ke V = π × r² × t air = 22/7 × 49 × 6.
+  3. Hasil: V air = 22 × 7 × 6 = 924 cm³.
+
 ---
 
 **64.** Volume tabung 3.080 cm³, jari-jari 7 cm. Tinggi tabung adalah ... (π = 22/7)
@@ -1004,6 +1382,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 10 = setengah benar.
 - **C** — Salah. 5 = ¼ benar.
 - **D** — Salah. 14 = asal kelipatan.
+
+- **Konsep kunci:** Mencari tinggi dari volume yang diketahui memakai rumus terbalik t = V ÷ (π × r²).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik t = V ÷ (π × r²).
+  2. Luas alas = π × r² = 22/7 × 7 × 7 = 154.
+  3. t = 3.080 ÷ 154 = 20 cm.
 
 ---
 
@@ -1019,6 +1403,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 24,64 = ÷ 10 (salah konversi).
 - **D** — Salah. 985,6 = pakai r = 56 (jebakan diameter).
 
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 56 cm menjadi r = 28 cm, dan tinggi 1 m menjadi t = 100 cm.
+  2. Hitung V = 22/7 × 784 × 100 = 246.400 cm³.
+  3. Konversi ke liter: 246.400 ÷ 1.000 = 246,4 liter.
+
 ---
 
 **66.** Sebuah pipa tabung berjari-jari 5 cm dan panjang 2 m. Volume air yang dapat ditampung adalah ... (π = 3,14)
@@ -1032,6 +1422,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 1.570 = pakai t = 20 cm (lupa konversi penuh).
 - **C** — Salah. 157 = pakai t = 2 cm (lupa konversi). Salah satuan.
 - **D** — Salah. 31.400 = pakai r = 10 (salah radius).
+
+- **Konsep kunci:** Sebelum memakai rumus volume, diameter harus diubah dulu menjadi jari-jari dengan r = d ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Ubah panjang pipa 2 m menjadi t = 200 cm (samakan satuan dengan r).
+  2. Substitusi: V = 3,14 × 5 × 5 × 200 = 3,14 × 25 × 200.
+  3. Hasil: V = 15.700 cm³.
 
 ---
 
@@ -1047,6 +1443,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 21 = asal.
 - **D** — Salah. 10 = asal estimasi.
 
+- **Konsep kunci:** Mencari jari-jari dari volume yang diketahui memakai rumus terbalik r² = V ÷ (π × t), lalu diakarkan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik r² = V ÷ (π × t) = 4.620 × 7 ÷ (22 × 30).
+  2. Hitung: r² = 49.
+  3. Akarkan: r = √49 = 7 cm.
+
 ---
 
 **68.** Sebuah bak tabung berjari-jari 50 cm dan tinggi 80 cm. Kapasitas dalam liter adalah ... (π = 3,14)
@@ -1060,6 +1462,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 62,8 = ÷ 10 (salah konversi).
 - **C** — Salah. 6.280 = × 10 (salah konversi).
 - **D** — Salah. 2.512 = pakai r = 100 (salah). Tidak konsisten.
+
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume: r = 50 cm, t = 80 cm, π = 3,14 → V = 3,14 × 2.500 × 80 = 628.000 cm³.
+  2. Ingat patokan 1.000 cm³ = 1 liter.
+  3. Konversi: 628.000 ÷ 1.000 = 628 liter.
 
 ---
 
@@ -1075,6 +1483,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 400 = × 10 (salah ekspansi).
 - **D** — Salah. 80 = 2 × benar (salah operasi).
 
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung: r = 14 cm, t = 50 cm, π = 22/7 → V = 22 × 28 × 50 = 30.800 cm³.
+  2. Bagi volume dengan debit yang satuannya sama (cm³/detik).
+  3. Waktu = 30.800 ÷ 770 = 40 detik.
+
 ---
 
 **70.** Tabung berisi air setinggi 8 cm, jari-jari 14 cm. 6 bola bervolume 50 cm³ tenggelam. Tinggi permukaan baru ≈ ... (π = 22/7)
@@ -1088,6 +1502,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 8 = tinggi awal (lupa ada kenaikan).
 - **C** — Salah. 9 = pembulatan kasar tanpa hitung.
 - **D** — Salah. 10 = anggap kenaikan 2 cm (terlalu besar).
+
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Volume tambahan dari 6 bola = 6 × 50 = 300 cm³.
+  2. Luas alas tabung = π × r² = 22/7 × 14 × 14 = 616 cm².
+  3. Kenaikan tinggi = 300 ÷ 616 ≈ 0,49 cm, jadi tinggi baru ≈ 8 + 0,49 = 8,49 cm.
 
 ---
 
@@ -1103,6 +1523,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 274,75 = ¼ × V (yang kosong).
 - **D** — Salah. 1.570 = pakai t salah.
 
+- **Konsep kunci:** Volume air yang mengisi sebagian tabung dihitung memakai tinggi permukaan air yang sebenarnya, bukan tinggi tabung penuh.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 10 cm menjadi r = 5 cm, lalu hitung volume tabung penuh: V = 3,14 × 25 × 14 = 1.099 cm³.
+  2. Air hanya mengisi ¾ bagian tabung.
+  3. V air = ¾ × 1.099 = 824,25 cm³.
+
 ---
 
 **72.** Drum berjari-jari 35 cm dan tinggi 100 cm berisi air ½ penuh. Volume air dalam liter adalah ... (π = 22/7)
@@ -1116,6 +1542,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 19,25 = ÷ 10 (salah konversi).
 - **C** — Salah. 385 = tabung penuh, lupa × ½.
 - **D** — Salah. 96,25 = ¼ × V (salah faktor).
+
+- **Konsep kunci:** Volume air yang mengisi sebagian tabung dihitung memakai tinggi permukaan air yang sebenarnya, bukan tinggi tabung penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung penuh dalam liter: r = 35 cm, t = 100 cm, π = 22/7 → V = 385.000 cm³ = 385 L.
+  2. Air hanya mengisi ½ bagian drum.
+  3. V air = ½ × 385 = 192,5 liter.
 
 ---
 
@@ -1131,6 +1563,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 5 = ¼ benar.
 - **D** — Salah. 14 = asal kelipatan.
 
+- **Konsep kunci:** Mencari tinggi dari volume yang diketahui memakai rumus terbalik t = V ÷ (π × r²).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus terbalik t = V ÷ (π × r²) untuk mencari tinggi permukaan air.
+  2. Luas alas = π × r² = 22/7 × 7 × 7 = 154.
+  3. t = 3.080 ÷ 154 = 20 cm.
+
 ---
 
 **74.** Sebuah kaleng silinder berdiameter 14 cm dan tinggi 20 cm. Jika 1 L susu = 1 kg, berapa kg susu yang dapat ditampung penuh? (π = 22/7; 1 L = 1.000 cm³)
@@ -1144,6 +1582,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 30,8 = × 10 (salah konversi).
 - **C** — Salah. 0,308 = ÷ 10 (salah konversi).
 - **D** — Salah. 1 = anggapan tetap, bukan hasil hitung.
+
+- **Konsep kunci:** Setelah volume dihitung, ubah ke liter memakai patokan 1 dm³ = 1 liter atau 1.000 cm³ = 1 liter.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 14 cm menjadi r = 7 cm, lalu hitung volume: V = 22/7 × 49 × 20 = 3.080 cm³.
+  2. Konversi ke liter: 3.080 ÷ 1.000 = 3,08 L.
+  3. Karena 1 L susu = 1 kg, maka massa = 3,08 kg.
 
 ---
 
@@ -1159,6 +1603,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 1.540 = ½ tabung (salah faktor).
 - **D** — Salah. 154 = luas alas saja.
 
+- **Konsep kunci:** Volume potongan tabung (setengah atau seperempat) dicari dengan mengalikan volume tabung penuh dengan pecahan bagiannya.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung penuh: r = 7 cm, t = 20 cm, π = 22/7 → V = 22 × 7 × 20 = 3.080 cm³.
+  2. Tabung dipotong menjadi seperempat bagian.
+  3. Hasil: V = 3.080 ÷ 4 = 770 cm³.
+
 ---
 
 **76.** Keran A debit 2 L/menit, B debit 3 L/menit. Keduanya mengisi tabung berjari-jari 14 cm dan tinggi 50 cm. Waktu penuh adalah ... (π = 22/7)
@@ -1172,6 +1622,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 30,8 = volume liter, lupa ÷ debit.
 - **C** — Salah. 3,08 = salah debit (pakai 10).
 - **D** — Salah. 15,4 = pakai 1 keran (debit 2), lupa keran B.
+
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung dalam liter: r = 14 cm, t = 50 cm, π = 22/7 → V = 30.800 cm³ = 30,8 L.
+  2. Jumlahkan debit dua keran: 2 + 3 = 5 L/menit.
+  3. Waktu = 30,8 ÷ 5 = 6,16 menit.
 
 ---
 
@@ -1187,6 +1643,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 2 : 1 = terbalik.
 - **D** — Salah. 1 : 8 = anggap r dikubikkan.
 
+- **Konsep kunci:** Volume tabung berbanding lurus dengan tinggi, tetapi berbanding lurus dengan kuadrat jari-jari.
+- **Langkah Penyelesaian:**
+  1. Bandingkan jari-jari: r_B = 2 × r_A (14 berbanding 7), sedangkan t sama.
+  2. Karena V sebanding r², maka V_B = 2² = 4 kali V_A.
+  3. Jadi perbandingan V_A : V_B = 1 : 4.
+
 ---
 
 **78.** Tabung r = 5, t = 12. Jika tinggi × 3 (r tetap), volume baru = ... × volume awal.
@@ -1200,6 +1662,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 9 = anggap t dikuadratkan. Salah konsep.
 - **C** — Salah. 6 = 3 × 2 (asal).
 - **D** — Salah. 27 = anggap t dikubikkan.
+
+- **Konsep kunci:** Volume tabung berbanding lurus dengan tinggi, tetapi berbanding lurus dengan kuadrat jari-jari.
+- **Langkah Penyelesaian:**
+  1. Jari-jari tetap, hanya tinggi yang berubah menjadi 3 kali semula.
+  2. Karena V sebanding lurus (linear) dengan t, volume ikut naik sebanding.
+  3. Jadi volume baru = 3 × volume awal.
 
 ---
 
@@ -1215,6 +1683,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **C** — Salah. 8 = anggap r dikubikkan.
 - **D** — Salah. 16 = anggap r dipangkat 4.
 
+- **Konsep kunci:** Volume tabung berbanding lurus dengan tinggi, tetapi berbanding lurus dengan kuadrat jari-jari.
+- **Langkah Penyelesaian:**
+  1. Jari-jari digandakan (× 2), sedangkan tinggi tetap.
+  2. Karena V sebanding kuadrat jari-jari, r × 2 membuat r² × 4.
+  3. Jadi volume baru = 4 × volume awal.
+
 ---
 
 **80.** Ember tabung berdiameter 28 cm berisi air setinggi 30 cm. Dipindahkan ke ember tabung berdiameter 14 cm. Tinggi air baru = ... (π = 22/7)
@@ -1228,6 +1702,12 @@ Soal cerita aplikatif (debit, kapasitas, pengisian air), mencari r atau t dari v
 - **B** — Salah. 60 = anggap linear (r ÷ 2 → tinggi × 2).
 - **C** — Salah. 30 = tinggi awal (lupa luas alas berubah).
 - **D** — Salah. 15 = terbalik konsep (t/2).
+
+- **Konsep kunci:** Saat air dipindah ke wadah lain, volumenya tetap sama, sehingga tinggi baru dicari dari volume tetap dibagi luas alas wadah baru.
+- **Langkah Penyelesaian:**
+  1. Volume air saat dipindah tetap sama; ember 1 punya d = 28 cm (r = 14) dan ember 2 punya d = 14 cm (r = 7).
+  2. Karena r ember 2 setengah dari r ember 1, luas alasnya menjadi ¼ kali, sehingga tinggi air harus naik 4 kali.
+  3. Tinggi baru = 4 × 30 = 120 cm.
 
 ---
 
@@ -1249,6 +1729,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 785 = V rongga pakai π = 3,14 (campur). Tidak konsisten.
 - **D** — Salah. 220 = K × t × ... atau asal.
 
+- **Konsep kunci:** Volume bahan pipa berongga dihitung dari selisih luas lingkaran luar dan dalam dikalikan panjang: V = π × (R² − r²) × t.
+- **Langkah Penyelesaian:**
+  1. Tentukan jari-jari luar R = 7 cm dan jari-jari dalam r = 5 cm.
+  2. Hitung selisih kuadratnya: R² − r² = 49 − 25 = 24.
+  3. Substitusi: V bahan = 22/7 × 24 × 10 ≈ 754,29 cm³.
+
 ---
 
 **82.** Tabung berdiameter 14 cm berisi air. Bola besi dimasukkan, tinggi air naik 5 cm. Volume bola adalah ... (π = 22/7)
@@ -1262,6 +1748,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 154 = luas alas saja.
 - **C** — Salah. 1.540 = pakai Δt = 10 (salah baca).
 - **D** — Salah. 220 = K × t × ... atau asal.
+
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 14 cm menjadi r = 7 cm.
+  2. Kenaikan tinggi air akibat bola = 5 cm, jadi volume bola = luas alas × kenaikan.
+  3. V bola = 22/7 × 49 × 5 = 770 cm³.
 
 ---
 
@@ -1277,6 +1769,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 197,12 = dibagi 5 dua kali.
 - **D** — Salah. 7.392 = pakai Δt = 12 (asal).
 
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Kenaikan tinggi air akibat 5 bola: Δt = 20 − 12 = 8 cm.
+  2. Volume total 5 bola = luas alas × Δt = 22/7 × 196 × 8 = 4.928 cm³.
+  3. Volume satu bola = 4.928 ÷ 5 = 985,6 cm³.
+
 ---
 
 **84.** Tangki tabung berdiameter 1,4 m dan tinggi 2 m diisi penuh, lalu dialirkan ke ember-ember tabung (r = 14 cm, t = 50 cm). Berapa ember penuh terisi? (π = 22/7)
@@ -1290,6 +1788,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 20 = asal estimasi.
 - **C** — Salah. 5 = setengah benar.
 - **D** — Salah. 4 = perbandingan diameter asal.
+
+- **Konsep kunci:** Saat air dipindah ke wadah lain, volumenya tetap sama, sehingga tinggi baru dicari dari volume tetap dibagi luas alas wadah baru.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter tangki 1,4 m menjadi r = 0,7 m, lalu hitung V tangki = 22/7 × 0,49 × 2 = 3,08 m³ = 3.080.000 cm³.
+  2. Hitung volume 1 ember: r = 14 cm, t = 50 cm, π = 22/7 → V = 308.000 cm³.
+  3. Jumlah ember = 3.080.000 ÷ 308.000 = 10 ember.
 
 ---
 
@@ -1305,6 +1809,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 20 = sama dengan A (lupa r beda).
 - **D** — Salah. 80 = × 4 (terbalik konsep).
 
+- **Konsep kunci:** Volume tabung berbanding lurus dengan tinggi, tetapi berbanding lurus dengan kuadrat jari-jari.
+- **Langkah Penyelesaian:**
+  1. Jari-jari B dua kali jari-jari A (14 berbanding 7), sehingga r² menjadi 4 kali.
+  2. Agar volume tetap sama, tinggi B harus dibagi 4.
+  3. t_B = 20 ÷ 4 = 5 cm.
+
 ---
 
 **86.** Tabung r = 10, berisi air setinggi 20 cm. Balok 5 × 5 × 10 cm tenggelam. Tinggi air baru ≈ ... (π = 3,14)
@@ -1318,6 +1828,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 20 = tinggi awal (lupa kenaikan).
 - **C** — Salah. 22 = anggap kenaikan 2 cm (asal).
 - **D** — Salah. 25 = pakai tinggi balok langsung (salah konsep).
+
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Volume balok yang tenggelam = 5 × 5 × 10 = 250 cm³.
+  2. Luas alas tabung = π × r² = 3,14 × 10 × 10 = 314 cm².
+  3. Kenaikan tinggi = 250 ÷ 314 ≈ 0,80 cm, jadi tinggi baru ≈ 20 + 0,80 = 20,80 cm.
 
 ---
 
@@ -1333,6 +1849,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 6.160 = volume awal (lupa dikurangi).
 - **D** — Salah. 0 = anggap semua habis (padahal tabung > 10 botol).
 
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. Hitung volume 1 botol: r = 3,5 cm, t = 10 cm, π = 22/7 → V = 22/7 × 12,25 × 10 = 385 cm³.
+  2. Volume yang dipindah ke 10 botol = 10 × 385 = 3.850 cm³.
+  3. Sisa minyak = 6.160 − 3.850 = 2.310 cm³.
+
 ---
 
 **88.** Tabung r = 7, t = 20 cm berisi penuh air. Dimiringkan hingga sebagian tumpah, lalu diluruskan dan tinggi air sisa 14 cm. Volume air sisa adalah ... (π = 22/7)
@@ -1346,6 +1868,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 3.080 = tabung penuh (lupa 14 cm sisa).
 - **C** — Salah. 1.540 = pakai t = 10 (salah baca).
 - **D** — Salah. 924 = pakai t = 6 (asal).
+
+- **Konsep kunci:** Volume air yang mengisi sebagian tabung dihitung memakai tinggi permukaan air yang sebenarnya, bukan tinggi tabung penuh.
+- **Langkah Penyelesaian:**
+  1. Setelah dimiringkan dan diluruskan, tinggi air yang tersisa adalah 14 cm (bukan 20 cm semula).
+  2. Substitusi ke V = π × r² × t sisa = 22/7 × 49 × 14.
+  3. Hasil: V sisa = 2.156 cm³.
 
 ---
 
@@ -1361,6 +1889,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 3,5 = ÷ 10 (salah faktor).
 - **D** — Salah. 17,5 = setengah benar (salah hitung).
 
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 70 cm menjadi r = 35 cm, lalu hitung V = 22/7 × 1.225 × 100 = 385.000 cm³ = 385 L.
+  2. Bagi volume dengan debit keluarnya air.
+  3. Waktu = 385 ÷ 11 = 35 menit.
+
 ---
 
 **90.** Tabung r = 14 cm berisi penuh air. Kubus rusuk 10 cm tenggelam. Kenaikan tinggi air (sebelum tumpah) ≈ ... (π = 22/7)
@@ -1374,6 +1908,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 10 = rusuk kubus (salah konsep).
 - **C** — Salah. 5 = setengah rusuk (asal).
 - **D** — Salah. 100 = luas penampang kubus (salah konsep).
+
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Volume kubus yang tenggelam = 10 × 10 × 10 = 1.000 cm³.
+  2. Luas alas tabung = π × r² = 22/7 × 14 × 14 = 616 cm².
+  3. Kenaikan tinggi = 1.000 ÷ 616 ≈ 1,63 cm.
 
 ---
 
@@ -1389,6 +1929,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 1.155 = ¼ × V (salah faktor).
 - **D** — Salah. 6.930 = V tabung penuh × 1,5 (lupa setengah).
 
+- **Konsep kunci:** Volume potongan tabung (setengah atau seperempat) dicari dengan mengalikan volume tabung penuh dengan pecahan bagiannya.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume tabung penuh: r = 7 cm, t = 30 cm, π = 22/7 → V = 4.620 cm³.
+  2. Pasir hanya mengisi setengah tabung: V pasir = ½ × 4.620 = 2.310 cm³.
+  3. Massa = massa jenis × volume = 1,5 × 2.310 = 3.465 g.
+
 ---
 
 **92.** Tabung A: r = 7, t = 20. Tabung B: d = 14, t = 10. Berapa kali V_A dibanding V_B? (π = 22/7)
@@ -1402,6 +1948,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 1 = anggap sama (lupa tinggi beda).
 - **C** — Salah. ½ = terbalik.
 - **D** — Salah. 4 = anggap r berbeda (padahal sama).
+
+- **Konsep kunci:** Volume tabung berbanding lurus dengan tinggi, tetapi berbanding lurus dengan kuadrat jari-jari.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter tabung B (14 cm) menjadi r = 7 cm, sama dengan r tabung A.
+  2. Karena jari-jari sama, volume hanya dipengaruhi oleh tinggi.
+  3. Rasio V_A : V_B = t_A : t_B = 20 : 10 = 2 kali.
 
 ---
 
@@ -1417,6 +1969,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 20 = anggap kenaikan 2 cm (asal).
 - **D** — Salah. 21 = anggap kenaikan 3 cm.
 
+- **Konsep kunci:** Volume benda yang tenggelam sama dengan volume kenaikan air, yaitu luas alas tabung dikalikan kenaikan tingginya.
+- **Langkah Penyelesaian:**
+  1. Volume benda yang tenggelam = 924 cm³.
+  2. Luas alas tabung = π × r² = 22/7 × 14 × 14 = 616 cm².
+  3. Kenaikan tinggi = 924 ÷ 616 = 1,5 cm, jadi tinggi baru = 18 + 1,5 = 19,5 cm.
+
 ---
 
 **94.** Pipa silinder berdiameter luar 10 cm, diameter dalam 8 cm, panjang 50 cm. Volume bahan pipa = ... (π = 3,14)
@@ -1430,6 +1988,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 3.925 = V tabung luar saja (abaikan rongga).
 - **C** — Salah. 2.512 = V rongga, bukan bahan.
 - **D** — Salah. 707 = setengah hasil (salah hitung).
+
+- **Konsep kunci:** Volume bahan pipa berongga dihitung dari selisih luas lingkaran luar dan dalam dikalikan panjang: V = π × (R² − r²) × t.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter luar 10 cm menjadi R = 5 cm dan diameter dalam 8 cm menjadi r = 4 cm.
+  2. Hitung selisih kuadratnya: R² − r² = 25 − 16 = 9.
+  3. Substitusi: V bahan = 3,14 × 9 × 50 = 3,14 × 450 = 1.413 cm³.
 
 ---
 
@@ -1445,6 +2009,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 3.080 = pakai t = 5 (hanya minyak).
 - **D** — Salah. 18.480 = pakai t = 30 (tabung penuh, padahal tidak).
 
+- **Konsep kunci:** Volume air yang mengisi sebagian tabung dihitung memakai tinggi permukaan air yang sebenarnya, bukan tinggi tabung penuh.
+- **Langkah Penyelesaian:**
+  1. Tinggi air = ⅔ × 30 cm = 20 cm, lalu ditambah minyak setinggi 5 cm di atasnya.
+  2. Total tinggi cairan = 20 + 5 = 25 cm.
+  3. Substitusi ke V = 22/7 × 196 × 25 = 15.400 cm³.
+
 ---
 
 **96.** Talang air setengah tabung r = 7 cm, panjang 2 m. Kapasitas air dalam liter = ... (π = 22/7)
@@ -1458,6 +2028,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 1,54 = ÷ 10 (salah konversi).
 - **C** — Salah. 154 = anggap cm³ = L langsung.
 - **D** — Salah. 7,7 = ¼ tabung (terbalik dengan setengah).
+
+- **Konsep kunci:** Volume potongan tabung (setengah atau seperempat) dicari dengan mengalikan volume tabung penuh dengan pecahan bagiannya.
+- **Langkah Penyelesaian:**
+  1. Ubah panjang 2 m menjadi 200 cm, lalu hitung volume tabung penuh: V = 22/7 × 49 × 200 = 30.800 cm³.
+  2. Talang berbentuk setengah tabung, jadi kalikan ½: 30.800 ÷ 2 = 15.400 cm³.
+  3. Konversi ke liter: 15.400 ÷ 1.000 = 15,4 liter.
 
 ---
 
@@ -1473,6 +2049,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 471 = × 10 (salah konversi).
 - **D** — Salah. 23,55 = setengah benar (pakai t = 1,5 m).
 
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter 2 m menjadi r = 1 m, lalu hitung V = 3,14 × 1 × 3 = 9,42 m³.
+  2. Konversi ke liter: 9,42 × 1.000 = 9.420 L.
+  3. Waktu = 9.420 ÷ 200 = 47,1 menit.
+
 ---
 
 **98.** Tiga tabung identik (r = 14 cm, t = 30 cm) digabung menjadi 1 tabung panjang (t = 90 cm). Volume total = ... (π = 22/7)
@@ -1486,6 +2068,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 18.480 = 1 tabung saja, lupa × 3.
 - **C** — Salah. 27.720 = pakai t/data salah.
 - **D** — Salah. 165.000 = pakai r dan t salah.
+
+- **Konsep kunci:** Volume tabung dihitung dengan rumus V = π × r² × t, yaitu luas alas lingkaran dikali tinggi.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume 1 tabung: r = 14 cm, t = 30 cm, π = 22/7 → V = 22 × 28 × 30 = 18.480 cm³.
+  2. Tiga tabung identik digabung menjadi satu tabung panjang.
+  3. Volume total = 3 × 18.480 = 55.440 cm³.
 
 ---
 
@@ -1501,6 +2089,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **C** — Salah. 3,75 = ÷ 10 (salah).
 - **D** — Salah. 60 = pakai t = 40 cm (tabung penuh, padahal air hanya 25).
 
+- **Konsep kunci:** Waktu mengisi atau menguras dihitung dengan membagi volume tabung dengan debit air, setelah satuannya disamakan.
+- **Langkah Penyelesaian:**
+  1. Hitung dulu volume air: r = 21 cm, t = 25 cm, π = 22/7 → V = 22/7 × 441 × 25 = 34.650 cm³.
+  2. Bagi volume air dengan debit pompa (cm³/detik).
+  3. Waktu = 34.650 ÷ 924 = 37,5 detik.
+
 ---
 
 **100.** Tabung d = 14, t = 20 cm berisi penuh air. Bola besi berdiameter 14 cm tenggelam (persis muat). Volume air yang tumpah ≈ ... (V bola = 4/3 πr³; π = 22/7)
@@ -1514,6 +2108,12 @@ Sintesis multi-konsep: tabung berlubang, kombinasi tabung-bola, optimasi, dan so
 - **B** — Salah. 3.080 = V tabung penuh (anggap semua tumpah).
 - **C** — Salah. 2.156 = pakai rumus tabung. Salah rumus untuk bola.
 - **D** — Salah. 718,67 = ½ V bola (anggap separuh tenggelam).
+
+- **Konsep kunci:** Jika sebuah benda dimasukkan ke wadah berisi air yang sudah penuh, air yang tumpah sama besar dengan volume benda itu sendiri.
+- **Langkah Penyelesaian:**
+  1. Ubah diameter tabung dan bola (masing-masing 14 cm) menjadi r = 7 cm.
+  2. Hitung volume bola: V = 4/3 × 22/7 × 7³ = 4/3 × 1.078 ≈ 1.437,33 cm³.
+  3. Karena bola persis muat, volume air yang tumpah sama dengan volume bola.
 
 ---
 

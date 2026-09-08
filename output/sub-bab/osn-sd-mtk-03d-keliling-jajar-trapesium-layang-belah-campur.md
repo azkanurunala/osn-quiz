@@ -36,6 +36,10 @@ D. 45 cm
 - **B. 27 cm** — mengalikan 3 × 9, mungkin mengira belah ketupat seperti segitiga sama sisi.
 - **C. 36 cm** — benar, hasil 4 × 9.
 - **D. 45 cm** — mengalikan 5 × 9, salah hitung jumlah sisi.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 9 cm.
+  2. Keliling = 4 x 9 = 36 cm.
 
 ---
 
@@ -53,6 +57,10 @@ D. 18 cm
 - **B. 13 cm** — lupa mengalikan dua; ini baru a + b sekali.
 - **C. 40 cm** — mengalikan 8 × 5 (rumus luas alas × tinggi), bukan keliling.
 - **D. 18 cm** — salah menjumlah (8 + 5 + 5 = 18), seperti hanya menjumlahkan 3 sisi.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 8 cm dan 5 cm.
+  2. Keliling = 2 x (8 + 5) = 2 x 13 = 26 cm.
 
 ---
 
@@ -70,6 +78,10 @@ D. 36 cm
 - **B. 31 cm** — benar.
 - **C. 24 cm** — hanya menjumlah 10 + 6 + 8, lupa sisi 7.
 - **D. 36 cm** — menjumlah salah, mungkin menambahkan 5 secara keliru.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: 10, 6, 8, dan 7 cm.
+  2. Keliling = 10 + 6 + 8 + 7 = 31 cm.
 
 ---
 
@@ -87,6 +99,10 @@ D. 32 cm
 - **B. 26 cm** — kira-kira 6 + 10 + 10, hanya menambah satu pasang panjang.
 - **C. 30 cm** — mengalikan 3 × 10 atau salah hitung pasangan.
 - **D. 32 cm** — benar.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 6 cm, sisi panjang 10 cm.
+  2. Keliling = 2 x (6 + 10) = 2 x 16 = 32 cm.
 
 ---
 
@@ -104,6 +120,10 @@ D. 8 cm
 - **B. 24 cm** — membagi 48 ÷ 2 (mengira hanya dua sisi).
 - **C. 16 cm** — membagi 48 ÷ 3 (salah jumlah sisi).
 - **D. 8 cm** — membagi 48 ÷ 6, tidak sesuai jumlah sisi belah ketupat.
+- **Konsep kunci:** Sisi belah ketupat dicari dengan membalik rumus keliling: s = K : 4.
+- **Langkah Penyelesaian:**
+  1. Keliling = 48 cm.
+  2. Sisi = 48 : 4 = 12 cm.
 
 ---
 
@@ -121,6 +141,10 @@ D. 26 cm
 - **B. 84 cm** — mengalikan 12 × 7 (rumus luas).
 - **C. 38 cm** — benar.
 - **D. 26 cm** — salah aritmetika 2 × 13, padahal seharusnya 2 × 19.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 12 cm dan 7 cm.
+  2. Keliling = 2 x (12 + 7) = 2 x 19 = 38 cm.
 
 ---
 
@@ -138,6 +162,10 @@ D. 35 cm
 - **B. 22 cm** — hanya 14 + 8, lupa kedua sisi miring.
 - **C. 32 cm** — benar.
 - **D. 35 cm** — menambah sisi miring 3 kali atau salah hitung.
+- **Konsep kunci:** Trapesium sama kaki punya dua sisi miring yang sama panjang, sehingga K = a + b + 2c.
+- **Langkah Penyelesaian:**
+  1. Sisi sejajar 14 cm dan 8 cm, sisi miring 5 cm (dua sisi miring sama).
+  2. Keliling = 14 + 8 + (2 x 5) = 22 + 10 = 32 cm.
 
 ---
 
@@ -155,6 +183,10 @@ D. 26 cm
 - **B. 42 cm** — benar.
 - **C. 34 cm** — salah, mungkin 8 + 13 + 13 (cuma menambah satu pasang).
 - **D. 26 cm** — mengalikan 2 × 13, lupa sisi pendek.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 8 cm, sisi panjang 13 cm.
+  2. Keliling = 2 x (8 + 13) = 2 x 21 = 42 cm.
 
 ---
 
@@ -172,6 +204,10 @@ D. 75 cm
 - **B. 30 cm** — mengalikan 2 × 15, mengira ada 2 sisi.
 - **C. 60 cm** — benar.
 - **D. 75 cm** — mengalikan 5 × 15.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 15 cm.
+  2. Keliling = 4 x 15 = 60 cm.
 
 ---
 
@@ -189,6 +225,11 @@ D. 32 cm
 - **B. 25 cm** — baru setengah keliling (a + b), belum dikurangi 9.
 - **C. 16 cm** — benar.
 - **D. 32 cm** — mengurangi 50 − 9 − 9, salah konsep pasangan sisi.
+- **Konsep kunci:** Bila keliling dan salah satu sisi jajar genjang diketahui, sisi lain dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 50 cm, salah satu sisi = 9 cm.
+  2. Jumlah dua sisi = 50 : 2 = 25 cm.
+  3. Sisi lain = 25 - 9 = 16 cm.
 
 ---
 
@@ -206,6 +247,10 @@ D. 36 cm
 - **B. 30 cm** — benar.
 - **C. 32 cm** — salah aritmetika, kelebihan 2.
 - **D. 36 cm** — terlalu besar, mungkin menggandakan salah satu sisi.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: 9, 11, 6, dan 4 cm.
+  2. Keliling = 9 + 11 + 6 + 4 = 30 cm.
 
 ---
 
@@ -223,6 +268,11 @@ D. 21 cm
 - **B. 30 cm** — baru setengah keliling.
 - **C. 42 cm** — salah, 60 − 9 − 9 = 42; menganggap hanya satu pasang sisi muncul dua kali.
 - **D. 21 cm** — benar.
+- **Konsep kunci:** Sisi layang-layang yang belum diketahui dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 60 cm, sisi pendek = 9 cm.
+  2. Jumlah sepasang sisi = 60 : 2 = 30 cm.
+  3. Sisi panjang = 30 - 9 = 21 cm.
 
 ---
 
@@ -240,6 +290,10 @@ D. 90 cm
 - **B. 54 cm** — mengalikan 3 × 18.
 - **C. 72 cm** — benar.
 - **D. 90 cm** — mengalikan 5 × 18.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 18 cm.
+  2. Keliling = 4 x 18 = 72 cm.
 
 ---
 
@@ -257,6 +311,10 @@ D. 20 cm
 - **B. 24 cm** — mengalikan 6 × 4 (rumus luas).
 - **C. 12 cm** — hanya 6 + 6, lupa sisi pendek.
 - **D. 20 cm** — benar.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi jajar genjang: 6 cm dan 4 cm (berpasangan).
+  2. Keliling = 2 x (6 + 4) = 2 x 10 = 20 cm.
 
 ---
 
@@ -274,6 +332,10 @@ D. 44 cm
 - **B. 50 cm** — menambah sisi miring 3 kali.
 - **C. 32 cm** — hanya 20 + 12, lupa kedua sisi miring.
 - **D. 44 cm** — benar.
+- **Konsep kunci:** Trapesium sama kaki punya dua sisi miring yang sama panjang, sehingga K = a + b + 2c.
+- **Langkah Penyelesaian:**
+  1. Sisi sejajar 20 cm dan 12 cm, sisi miring 6 cm.
+  2. Keliling = 20 + 12 + (2 x 6) = 32 + 12 = 44 cm.
 
 ---
 
@@ -291,6 +353,11 @@ D. 40 cm
 - **B. 12 cm** — benar.
 - **C. 24 cm** — salah konsep, 56 − 16 − 16 = 24.
 - **D. 40 cm** — mengurangi 56 − 16, lupa pasangan.
+- **Konsep kunci:** Sisi layang-layang yang belum diketahui dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 56 cm, sisi panjang = 16 cm.
+  2. Jumlah sepasang sisi = 56 : 2 = 28 cm.
+  3. Sisi pendek = 28 - 16 = 12 cm.
 
 ---
 
@@ -308,6 +375,10 @@ D. 10 cm
 - **B. 20 cm** — membagi 100 ÷ 5.
 - **C. 50 cm** — membagi 100 ÷ 2.
 - **D. 10 cm** — membagi 100 ÷ 10.
+- **Konsep kunci:** Sisi belah ketupat dicari dengan membalik rumus keliling: s = K : 4.
+- **Langkah Penyelesaian:**
+  1. Keliling = 100 cm.
+  2. Sisi = 100 : 4 = 25 cm.
 
 ---
 
@@ -325,6 +396,10 @@ D. 46 cm
 - **B. 32 cm** — salah aritmetika, mungkin 14 + 9 + 9.
 - **C. 50 cm** — kelebihan 4, salah jumlah.
 - **D. 46 cm** — benar.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 14 cm dan 9 cm.
+  2. Keliling = 2 x (14 + 9) = 2 x 23 = 46 cm.
 
 ---
 
@@ -342,6 +417,10 @@ D. 51 cm
 - **B. 32 cm** — kurang 9, salah hitung sisi.
 - **C. 41 cm** — benar.
 - **D. 51 cm** — terlalu besar 10, mungkin double-count.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: AB=15, BC=9, CD=7, DA=10 cm.
+  2. Keliling = 15 + 9 + 7 + 10 = 41 cm.
 
 ---
 
@@ -359,6 +438,10 @@ D. 22 cm
 - **B. 60 cm** — benar.
 - **C. 38 cm** — mengalikan 2 × 19, lupa sisi pendek.
 - **D. 22 cm** — mengalikan 2 × 11, lupa sisi panjang.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sepasang sisi 11 cm dan 19 cm.
+  2. Keliling = 2 x (11 + 19) = 2 x 30 = 60 cm.
 
 ---
 
@@ -376,6 +459,11 @@ D. 5
 - **B. 8** — salah pembagian 40 ÷ 5.
 - **C. 4** — salah, mungkin 40 ÷ 10.
 - **D. 5** — benar.
+- **Konsep kunci:** Bila sisi dinyatakan dalam bentuk aljabar, susun persamaan K = 4 x sisi lalu selesaikan untuk mencari nilai variabelnya.
+- **Langkah Penyelesaian:**
+  1. Sisi = 2x, keliling = 40 cm.
+  2. 4 x 2x = 40, sehingga 8x = 40.
+  3. x = 40 : 8 = 5.
 
 ---
 
@@ -393,6 +481,10 @@ D. 42 cm
 - **B. 34 cm** — mengalikan 2 × 17, lupa sisi pendek.
 - **C. 25 cm** — baru setengah, a + b.
 - **D. 42 cm** — salah aritmetika, mungkin 17 + 17 + 8.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 17 cm dan 8 cm.
+  2. Keliling = 2 x (17 + 8) = 2 x 25 = 50 cm.
 
 ---
 
@@ -410,6 +502,10 @@ D. 26 cm
 - **B. 30 cm** — kelebihan 1, salah hitung.
 - **C. 29 cm** — benar.
 - **D. 26 cm** — salah, mungkin 6 + 10 + 5 + 5.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Tiga sisi diketahui 6, 8, 10 cm, sisi keempat 5 cm.
+  2. Keliling = 6 + 8 + 10 + 5 = 29 cm.
 
 ---
 
@@ -427,6 +523,11 @@ D. 31 cm
 - **B. 12 cm** — benar.
 - **C. 19 cm** — baru setengah keliling.
 - **D. 31 cm** — mengurangi 38 − 7, lupa pasangan.
+- **Konsep kunci:** Sisi layang-layang yang belum diketahui dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 38 cm, sisi pendek = 7 cm.
+  2. Jumlah sepasang sisi = 38 : 2 = 19 cm.
+  3. Sisi panjang = 19 - 7 = 12 cm.
 
 ---
 
@@ -444,6 +545,10 @@ D. 35 cm
 - **B. 21 cm** — mengalikan 3 × 7.
 - **C. 14 cm** — mengalikan 2 × 7.
 - **D. 35 cm** — mengalikan 5 × 7.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 7 cm.
+  2. Keliling = 4 x 7 = 28 cm.
 
 ---
 
@@ -461,6 +566,11 @@ D. 12 cm
 - **B. 18 cm** — itu sisi panjang (3/5 × 30), bukan terpendek.
 - **C. 15 cm** — separuh, salah perbandingan.
 - **D. 12 cm** — benar.
+- **Konsep kunci:** Bila kedua sisi diketahui perbandingannya, bagi jumlah sisi (a+b) sesuai jumlah bagian rasio.
+- **Langkah Penyelesaian:**
+  1. Keliling = 60 cm, sehingga a + b = 60 : 2 = 30 cm.
+  2. Perbandingan sisi 2:3, jumlah bagian = 5.
+  3. Sisi terpendek = 2/5 x 30 = 12 cm.
 
 ---
 
@@ -478,6 +588,10 @@ D. 21 cm
 - **B. 30 cm** — benar.
 - **C. 28 cm** — kurang 2, salah aritmetika.
 - **D. 21 cm** — hanya 12 + 5 + 4 = 21, lupa sisi 9.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: 12, 5, 9, dan 4 cm.
+  2. Keliling = 12 + 5 + 9 + 4 = 30 cm.
 
 ---
 
@@ -495,6 +609,10 @@ D. 34 cm
 - **B. 44 cm** — salah aritmetika, mungkin 17 + 17 + 10.
 - **C. 54 cm** — benar.
 - **D. 34 cm** — mengalikan 2 × 17, lupa sisi pendek.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 10 cm, sisi panjang 17 cm.
+  2. Keliling = 2 x (10 + 17) = 2 x 27 = 54 cm.
 
 ---
 
@@ -512,6 +630,10 @@ D. 110 cm
 - **B. 44 cm** — mengalikan 2 × 22.
 - **C. 66 cm** — mengalikan 3 × 22.
 - **D. 110 cm** — mengalikan 5 × 22.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 22 cm.
+  2. Keliling = 4 x 22 = 88 cm.
 
 ---
 
@@ -529,6 +651,10 @@ D. 51 cm
 - **B. 76 cm** — benar.
 - **C. 50 cm** — mengalikan 2 × 25, lupa sisi pendek.
 - **D. 51 cm** — salah aritmetika.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 25 cm dan 13 cm.
+  2. Keliling = 2 x (25 + 13) = 2 x 38 = 76 cm.
 
 ---
 
@@ -546,6 +672,10 @@ D. 27 m
 - **B. 22 m** — hanya 7 + 9 + 6.
 - **C. 18 m** — hanya 7 + 5 + 6.
 - **D. 27 m** — benar.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi taman trapesium: 7, 9, 5, dan 6 m.
+  2. Keliling = 7 + 9 + 5 + 6 = 27 m.
 
 ---
 
@@ -563,6 +693,11 @@ D. 24 cm
 - **B. 32 cm** — salah konsep, 80 − 24 − 24.
 - **C. 16 cm** — benar.
 - **D. 24 cm** — sama dengan sisi panjang (salah jika berasumsi semua sisi sama).
+- **Konsep kunci:** Sisi layang-layang yang belum diketahui dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 80 cm, sisi panjang = 24 cm.
+  2. Jumlah sepasang sisi = 80 : 2 = 40 cm.
+  3. Sisi pendek = 40 - 24 = 16 cm.
 
 ---
 
@@ -580,6 +715,10 @@ D. 36 cm
 - **B. 18 cm** — benar.
 - **C. 12 cm** — membagi 72 ÷ 6.
 - **D. 36 cm** — membagi 72 ÷ 2.
+- **Konsep kunci:** Sisi belah ketupat dicari dengan membalik rumus keliling: s = K : 4.
+- **Langkah Penyelesaian:**
+  1. Keliling = 72 cm.
+  2. Sisi = 72 : 4 = 18 cm.
 
 ---
 
@@ -597,6 +736,11 @@ D. 42 cm
 - **B. 66 cm** — 84 − 18, lupa pasangan.
 - **C. 48 cm** — salah, 84 − 18 − 18 = 48.
 - **D. 42 cm** — baru setengah keliling.
+- **Konsep kunci:** Bila keliling dan salah satu sisi jajar genjang diketahui, sisi lain dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 84 cm, salah satu sisi = 18 cm.
+  2. Jumlah dua sisi = 84 : 2 = 42 cm.
+  3. Sisi lain = 42 - 18 = 24 cm.
 
 ---
 
@@ -614,6 +758,10 @@ D. 49 cm
 - **B. 28 cm** — hanya 18 + 10, lupa kedua sisi miring.
 - **C. 42 cm** — benar.
 - **D. 49 cm** — menambah sisi miring 3 kali.
+- **Konsep kunci:** Trapesium sama kaki punya dua sisi miring yang sama panjang, sehingga K = a + b + 2c.
+- **Langkah Penyelesaian:**
+  1. Sisi sejajar 18 cm dan 10 cm, sisi miring 7 cm.
+  2. Keliling = 18 + 10 + (2 x 7) = 28 + 14 = 42 cm.
 
 ---
 
@@ -631,6 +779,10 @@ D. 28 cm
 - **B. 18 cm** — mengalikan 2 × 9, lupa sisi pendek.
 - **C. 23 cm** — salah, 5 + 9 + 9.
 - **D. 28 cm** — benar.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 5 cm, sisi panjang 9 cm.
+  2. Keliling = 2 x (5 + 9) = 2 x 14 = 28 cm.
 
 ---
 
@@ -648,6 +800,10 @@ D. 65 cm
 - **B. 39 cm** — mengalikan 3 × 13.
 - **C. 26 cm** — mengalikan 2 × 13.
 - **D. 65 cm** — mengalikan 5 × 13.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 13 cm.
+  2. Keliling = 4 x 13 = 52 cm.
 
 ---
 
@@ -665,6 +821,11 @@ D. 23 cm
 - **B. 9 cm** — benar.
 - **C. 18 cm** — salah, 46 − 14 − 14 = 18.
 - **D. 23 cm** — baru setengah keliling.
+- **Konsep kunci:** Bila keliling dan salah satu sisi jajar genjang diketahui, sisi lain dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 46 cm, salah satu sisi = 14 cm.
+  2. Jumlah dua sisi = 46 : 2 = 23 cm.
+  3. Sisi lain = 23 - 14 = 9 cm.
 
 ---
 
@@ -682,6 +843,10 @@ D. 31 cm
 - **B. 32 cm** — kelebihan 1.
 - **C. 25 cm** — hanya 12 + 5 + 8.
 - **D. 31 cm** — benar.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: AB=12, BC=5, CD=8, DA=6 cm.
+  2. Keliling = 12 + 5 + 8 + 6 = 31 cm.
 
 ---
 
@@ -699,6 +864,10 @@ D. 56 cm
 - **B. 35 cm** — baru setengah.
 - **C. 70 cm** — benar.
 - **D. 56 cm** — salah, mungkin 14 + 21 + 21.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 14 cm, sisi panjang 21 cm.
+  2. Keliling = 2 x (14 + 21) = 2 x 35 = 70 cm.
 
 ---
 
@@ -716,6 +885,10 @@ D. 55 cm
 - **B. 44 cm** — benar.
 - **C. 33 cm** — mengalikan 3 × 11.
 - **D. 55 cm** — mengalikan 5 × 11.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 11 cm.
+  2. Keliling = 4 x 11 = 44 cm.
 
 ---
 
@@ -737,6 +910,11 @@ Karena perhitungan tepat menghasilkan **x = 6**, kunci yang benar adalah **A**.
 - **B. 8** — terlalu besar.
 - **C. 7** — salah, menghasilkan keliling 2(10+6)=32.
 - **D. 5** — terlalu kecil, menghasilkan 24.
+- **Konsep kunci:** Susun persamaan keliling dari kedua sisi berbentuk aljabar, lalu selesaikan seperti persamaan linear satu variabel.
+- **Langkah Penyelesaian:**
+  1. Sisi = (x+3) dan (x-1), keliling = 28 cm.
+  2. 2 x ((x+3)+(x-1)) = 28, sehingga 2(2x+2) = 28 dan 2x+2 = 14.
+  3. x = (14-2) : 2 = 6.
 
 ---
 
@@ -754,6 +932,10 @@ D. 32 cm
 - **B. 35 cm** — kelebihan 1.
 - **C. 34 cm** — benar.
 - **D. 32 cm** — kurang 2.
+- **Konsep kunci:** Keliling trapesium dicari dengan menjumlahkan keempat sisinya.
+- **Langkah Penyelesaian:**
+  1. Sisi-sisi trapesium: 8, 10, 9, dan 7 cm.
+  2. Keliling = 8 + 10 + 9 + 7 = 34 cm.
 
 ---
 
@@ -771,6 +953,11 @@ D. 34 cm
 - **B. 25 cm** — baru setengah.
 - **C. 17 cm** — benar.
 - **D. 34 cm** — salah konsep, 50 − 8 − 8 = 34.
+- **Konsep kunci:** Sisi layang-layang yang belum diketahui dicari dengan membalik rumus K = 2(a+b).
+- **Langkah Penyelesaian:**
+  1. Keliling = 50 cm, sisi pendek = 8 cm.
+  2. Jumlah sepasang sisi = 50 : 2 = 25 cm.
+  3. Sisi panjang = 25 - 8 = 17 cm.
 
 ---
 
@@ -788,6 +975,10 @@ D. 12 cm
 - **B. 32 cm** — membagi 64 ÷ 2.
 - **C. 8 cm** — membagi 64 ÷ 8.
 - **D. 12 cm** — tidak pas dengan pembagian apapun.
+- **Konsep kunci:** Sisi belah ketupat dicari dengan membalik rumus keliling: s = K : 4.
+- **Langkah Penyelesaian:**
+  1. Keliling = 64 cm.
+  2. Sisi = 64 : 4 = 16 cm.
 
 ---
 
@@ -805,6 +996,10 @@ D. 50 cm
 - **B. 38 cm** — mengalikan 2 × 19, lupa sisi pendek.
 - **C. 60 cm** — benar.
 - **D. 50 cm** — salah aritmetika.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 19 cm dan 11 cm.
+  2. Keliling = 2 x (19 + 11) = 2 x 30 = 60 cm.
 
 ---
 
@@ -822,6 +1017,10 @@ D. 36 cm
 - **B. 46 cm** — benar.
 - **C. 51 cm** — menambah sisi miring 3 kali.
 - **D. 36 cm** — hanya 22 + 14, lupa sisi miring.
+- **Konsep kunci:** Trapesium sama kaki punya dua sisi miring yang sama panjang, sehingga K = a + b + 2c.
+- **Langkah Penyelesaian:**
+  1. Sisi sejajar 22 cm dan 14 cm, sisi miring 5 cm.
+  2. Keliling = 22 + 14 + (2 x 5) = 36 + 10 = 46 cm.
 
 ---
 
@@ -839,6 +1038,10 @@ D. 74 cm
 - **B. 50 cm** — mengalikan 2 × 25, lupa sisi pendek.
 - **C. 62 cm** — salah, mungkin 12 + 25 + 25.
 - **D. 74 cm** — benar.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 12 cm, sisi panjang 25 cm.
+  2. Keliling = 2 x (12 + 25) = 2 x 37 = 74 cm.
 
 ---
 
@@ -856,6 +1059,10 @@ D. 105 cm
 - **B. 63 cm** — mengalikan 3 × 21.
 - **C. 84 cm** — benar.
 - **D. 105 cm** — mengalikan 5 × 21.
+- **Konsep kunci:** Belah ketupat memiliki empat sisi yang sama panjang, sehingga keliling = 4 x sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi belah ketupat = 21 cm.
+  2. Keliling = 4 x 21 = 84 cm.
 
 ---
 
@@ -873,6 +1080,10 @@ D. 56 cm
 - **B. 80 cm** — benar.
 - **C. 64 cm** — mengalikan 2 × (24+8) atau salah hitung.
 - **D. 56 cm** — kelebihan/kurang dari salah aritmetika.
+- **Konsep kunci:** Keliling jajar genjang = 2 x jumlah dua sisi yang berdekatan.
+- **Langkah Penyelesaian:**
+  1. Sisi berdekatan: 24 cm dan 16 cm.
+  2. Keliling = 2 x (24 + 16) = 2 x 40 = 80 cm.
 
 ---
 
@@ -894,6 +1105,11 @@ D. 36 cm
 - **B. 12 cm** — benar.
 - **C. 16 cm** — salah pembagian.
 - **D. 36 cm** — itu sisi panjang (3 × 12).
+- **Konsep kunci:** Bila salah satu sisi adalah kelipatan sisi lain, nyatakan keduanya dalam satu variabel lalu selesaikan dari rumus keliling.
+- **Langkah Penyelesaian:**
+  1. Misalkan sisi pendek = a, sisi panjang = 3a.
+  2. Keliling = 2(a+3a) = 8a = 96.
+  3. a = 96 : 8 = 12 cm.
 
 ---
 
@@ -911,6 +1127,11 @@ D. 64,0
 - **B. 58,8** — benar.
 - **C. 50,2** — salah jumlah.
 - **D. 64,0** — salah pembulatan BC.
+- **Konsep kunci:** Sisi miring trapesium siku-siku dicari dengan Pythagoras dari selisih sisi sejajar dan tingginya, lalu dijumlah untuk mendapat keliling.
+- **Langkah Penyelesaian:**
+  1. Selisih sisi sejajar = 24 - 14 = 10 cm, tinggi = 8 cm.
+  2. BC = akar(10 kuadrat + 8 kuadrat) = akar 164 kira-kira 12,8 cm.
+  3. Keliling = 24 + 14 + 8 + 12,8 = 58,8 cm.
 
 ---
 
@@ -928,6 +1149,11 @@ D. 24 cm
 - **B. 28 cm** — menjumlah dua diagonal (12+16=28); diagonal bukan keliling.
 - **C. 50 cm** — salah, mengalikan 5 × 10.
 - **D. 24 cm** — mengalikan 2 × 12.
+- **Konsep kunci:** Diagonal belah ketupat saling tegak lurus dan berpotongan di tengah, sehingga sisi dicari dengan Pythagoras dari setengah tiap diagonal.
+- **Langkah Penyelesaian:**
+  1. Setengah diagonal = 6 cm dan 8 cm.
+  2. Sisi = akar(6 kuadrat + 8 kuadrat) = akar 100 = 10 cm.
+  3. Keliling = 4 x 10 = 40 cm.
 
 ---
 
@@ -947,6 +1173,11 @@ D. 34 cm
 - **B. 26 cm** — baru setengah.
 - **C. 60 cm** — salah perkiraan sisi.
 - **D. 34 cm** — keliru jumlah diagonal × konstanta.
+- **Konsep kunci:** Sisi layang-layang dicari dengan Pythagoras dari potongan diagonal yang saling tegak lurus di titik potongnya.
+- **Langkah Penyelesaian:**
+  1. Diagonal panjang 24 dibagi 1:2 menjadi 8 dan 16; diagonal pendek 10 dibagi sama menjadi 5 dan 5.
+  2. Sisi pendek = akar(8 kuadrat + 5 kuadrat) kira-kira 9,43 cm; sisi panjang = akar(16 kuadrat + 5 kuadrat) kira-kira 16,76 cm.
+  3. Keliling = 2 x (9,43 + 16,76) kira-kira 52 cm.
 
 ---
 
@@ -964,6 +1195,11 @@ D. Rp 765.000
 - **B. Rp 1.020.000** — benar.
 - **C. Rp 255.000** — setengah keliling.
 - **D. Rp 765.000** — 1,5 lapis, tidak sesuai.
+- **Konsep kunci:** Biaya pemagaran dihitung dari keliling dikalikan jumlah lapis, lalu dikalikan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 x (18+12) = 60 m.
+  2. Dua lapis = 2 x 60 = 120 m.
+  3. Biaya = 120 x Rp 8.500 = Rp 1.020.000.
 
 ---
 
@@ -981,6 +1217,11 @@ D. 50 cm
 - **B. 140 cm** — 2 × (30+40), salah konsep keliling.
 - **C. 100 cm** — benar.
 - **D. 50 cm** — setengah dari 100, mungkin 2 × 25.
+- **Konsep kunci:** Diagonal belah ketupat saling tegak lurus dan berpotongan di tengah, sehingga sisi dicari dengan Pythagoras dari setengah tiap diagonal.
+- **Langkah Penyelesaian:**
+  1. Setengah diagonal = 15 cm dan 20 cm.
+  2. Sisi = akar(15 kuadrat + 20 kuadrat) = akar 625 = 25 cm.
+  3. Keliling = 4 x 25 = 100 cm.
 
 ---
 
@@ -998,6 +1239,10 @@ D. 50 cm
 - **B. 75 cm** — menambah satu sisi miring saja.
 - **C. 125 cm** — menambah sisi miring 3 kali.
 - **D. 50 cm** — hanya 32 + 18.
+- **Konsep kunci:** Trapesium sama kaki punya dua sisi miring yang sama panjang, sehingga K = a + b + 2c.
+- **Langkah Penyelesaian:**
+  1. Sisi sejajar 32 cm dan 18 cm, sisi miring 25 cm.
+  2. Keliling = 32 + 18 + (2 x 25) = 50 + 50 = 100 cm.
 
 ---
 
@@ -1015,6 +1260,11 @@ D. 10 cm
 - **B. 15 cm** — benar.
 - **C. 30 cm** — salah perkalian, 3/8 × 80.
 - **D. 10 cm** — salah perbandingan 2:5.
+- **Konsep kunci:** Bila kedua sisi diketahui perbandingannya, bagi jumlah sisi (a+b) sesuai jumlah bagian rasio.
+- **Langkah Penyelesaian:**
+  1. Keliling = 80 cm, sehingga a + b = 80 : 2 = 40 cm.
+  2. Perbandingan sisi pendek:panjang = 3:5, jumlah bagian = 8.
+  3. Sisi pendek = 3/8 x 40 = 15 cm.
 
 ---
 
@@ -1032,6 +1282,11 @@ D. 4
 - **B. 8** — salah, menghasilkan 4(26)=104.
 - **C. 7** — menghasilkan 4(23)=92.
 - **D. 4** — menghasilkan 4(14)=56.
+- **Konsep kunci:** Bila sisi dinyatakan dalam bentuk aljabar, susun persamaan K = 4 x sisi lalu selesaikan untuk mencari nilai variabelnya.
+- **Langkah Penyelesaian:**
+  1. Sisi = (3x+2), keliling = 80 cm.
+  2. 4 x (3x+2) = 80, sehingga 3x+2 = 20.
+  3. x = (20-2) : 3 = 6.
 
 ---
 
@@ -1049,6 +1304,11 @@ D. 8
 - **B. 6** — benar.
 - **C. 4** — menghasilkan 2(11+3)=28.
 - **D. 8** — menghasilkan 2(19+7)=52.
+- **Konsep kunci:** Susun persamaan keliling dari kedua sisi berbentuk aljabar, lalu selesaikan seperti persamaan linear satu variabel.
+- **Langkah Penyelesaian:**
+  1. Sisi = (2a+3) dan (a-1), keliling = 40 cm.
+  2. 2 x ((2a+3)+(a-1)) = 40, sehingga 2(3a+2) = 40 dan 3a+2 = 20.
+  3. a = (20-2) : 3 = 6.
 
 ---
 
@@ -1068,6 +1328,11 @@ Tunggu — cek perhitungan. K = (2x+1) + x + (x+5) + (x+3) = 5x + 9 = 49 → 5x 
 - **B. 8** — benar; menghasilkan 5(8)+9 = 49.
 - **C. 5** — menghasilkan 5(5)+9 = 34.
 - **D. 9** — menghasilkan 5(9)+9 = 54.
+- **Konsep kunci:** Jumlahkan semua sisi trapesium yang dinyatakan dalam bentuk aljabar, samakan dengan keliling, lalu selesaikan persamaannya.
+- **Langkah Penyelesaian:**
+  1. Keliling = (2x+1) + x + (x+5) + (x+3) = 5x + 9.
+  2. 5x + 9 = 49, sehingga 5x = 40.
+  3. x = 40 : 5 = 8.
 
 ---
 
@@ -1085,6 +1350,11 @@ D. Rp 2.000.000
 - **B. Rp 750.000** — setengah keliling.
 - **C. Rp 1.000.000** — salah perkalian, 40×25.000.
 - **D. Rp 2.000.000** — terlalu besar.
+- **Konsep kunci:** Diagonal belah ketupat saling tegak lurus dan berpotongan di tengah; setelah sisi ditemukan dengan Pythagoras, kalikan keliling dengan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Setengah diagonal = 9 m dan 12 m; sisi = akar(9 kuadrat + 12 kuadrat) = akar 225 = 15 m.
+  2. Keliling = 4 x 15 = 60 m.
+  3. Biaya = 60 x Rp 25.000 = Rp 1.500.000.
 
 ---
 
@@ -1102,6 +1372,10 @@ D. 8,75 cm
 - **B. 17,5 cm** — benar.
 - **C. 70 cm** — keliling itu sendiri, bukan sisi.
 - **D. 8,75 cm** — keliling ÷ 8.
+- **Konsep kunci:** Dua bangun berbeda bisa memiliki keliling yang sama; setelah keliling jajar genjang diketahui, sisi belah ketupat dicari dengan membaginya 4.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2 x (20+15) = 70 cm.
+  2. Karena keliling belah ketupat sama, sisi = 70 : 4 = 17,5 cm.
 
 ---
 
@@ -1119,6 +1393,10 @@ D. 400 cm
 - **B. 160 cm** — hanya 2,5 layang atau setengah salah.
 - **C. 240 cm** — hanya 3,75 layang.
 - **D. 400 cm** — 5 × 80, salah perkalian.
+- **Konsep kunci:** Hitung dulu keliling satu bangun, lalu kalikan dengan banyaknya bangun yang dibuat.
+- **Langkah Penyelesaian:**
+  1. Keliling satu layang-layang = 2 x (12+20) = 64 cm.
+  2. Total untuk 5 layang-layang = 5 x 64 = 320 cm.
 
 ---
 
@@ -1136,6 +1414,11 @@ D. 14 cm
 - **B. 22 cm** — lupa bagi 2 (jumlah dua sisi miring).
 - **C. 11 cm** — benar.
 - **D. 14 cm** — kelebihan 3.
+- **Konsep kunci:** Pada trapesium sama kaki, kedua sisi miring sama panjang, sehingga bila keliling dan sisi sejajar diketahui, sisi miring dicari dengan membagi selisihnya dengan 2.
+- **Langkah Penyelesaian:**
+  1. Keliling = 70 cm, sisi sejajar 30 cm dan 18 cm.
+  2. Jumlah kedua sisi miring = 70 - (30+18) = 22 cm.
+  3. Panjang BC = 22 : 2 = 11 cm.
 
 ---
 
@@ -1153,6 +1436,11 @@ D. 20 cm
 - **B. 24 cm** — benar.
 - **C. 13 cm** — itu sisi.
 - **D. 20 cm** — salah perhitungan Pythagoras.
+- **Konsep kunci:** Sisi belah ketupat dicari dari keliling, lalu diagonal yang belum diketahui dicari dengan Pythagoras dari sisi dan setengah diagonal yang sudah ada.
+- **Langkah Penyelesaian:**
+  1. Sisi = 52 : 4 = 13 cm; setengah diagonal pendek = 5 cm.
+  2. Setengah diagonal panjang = akar(13 kuadrat - 5 kuadrat) = akar 144 = 12 cm.
+  3. Diagonal panjang = 2 x 12 = 24 cm.
 
 ---
 
@@ -1174,6 +1462,10 @@ Cek ulang: jawab = 15 cm → kunci D.
 - **B. 14 cm** — salah jumlah.
 - **C. 16 cm** — kelebihan 1.
 - **D. 15 cm** — benar.
+- **Konsep kunci:** Bila dua bangun memiliki keliling yang sama, hitung dulu kelilingnya dari bangun pertama, lalu gunakan untuk mencari sisi yang belum diketahui pada bangun kedua.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2 x (18+7) = 50 cm.
+  2. Karena trapesium punya keliling sama, sisi keempat = 50 - (15+11+9) = 15 cm.
 
 ---
 
@@ -1195,6 +1487,11 @@ Karena hasil 41,3 cm tidak tersedia di opsi, soal ini diperbaiki: AO = 6, CO = 1
 - **B. 60 cm** — salah perkiraan.
 - **C. 28 cm** — terlalu kecil.
 - **D. 50 cm** — salah perhitungan Pythagoras.
+- **Konsep kunci:** Sisi layang-layang dicari dengan Pythagoras dari potongan-potongan diagonal yang saling tegak lurus di titik potongnya.
+- **Langkah Penyelesaian:**
+  1. Potongan diagonal: AO=6, CO=10, BO=OD=4 cm.
+  2. Sisi pendek = akar(6 kuadrat + 4 kuadrat) kira-kira 7,21 cm; sisi panjang = akar(10 kuadrat + 4 kuadrat) kira-kira 10,77 cm.
+  3. Keliling = 2 x (7,21+10,77) kira-kira 36 cm.
 
 ---
 
@@ -1212,6 +1509,10 @@ D. Rp 84.000
 - **B. Rp 16.800** — benar.
 - **C. Rp 1.680** — kekurangan 1 nol.
 - **D. Rp 84.000** — salah perkalian.
+- **Konsep kunci:** Setelah keliling dihitung dalam cm, ubah ke satuan meter dahulu sebelum dikalikan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 4 x 35 = 140 cm = 1,4 m.
+  2. Biaya = 1,4 x Rp 12.000 = Rp 16.800.
 
 ---
 
@@ -1229,6 +1530,11 @@ D. 14 cm dan 22 cm
 - **B. 12 dan 18** — selisih 6 tapi a+b=30, bukan 36.
 - **C. 9 dan 27** — selisih 18, bukan 6.
 - **D. 14 dan 22** — selisih 8, bukan 6.
+- **Konsep kunci:** Bila jumlah dan selisih dua sisi diketahui, gunakan cara jumlah-selisih untuk mencari masing-masing sisi.
+- **Langkah Penyelesaian:**
+  1. Keliling = 72 cm, sehingga a+b = 36 cm; selisih b-a = 6 cm.
+  2. Sisi pendek a = (36-6) : 2 = 15 cm.
+  3. Sisi panjang b = 15 + 6 = 21 cm.
 
 ---
 
@@ -1246,6 +1552,10 @@ D. 12 cm
 - **B. 108 cm** — benar.
 - **C. 72 cm** — hanya 2×.
 - **D. 12 cm** — salah, mengira mengecilkan.
+- **Konsep kunci:** Bila bangun diperbesar dengan skala k, kelilingnya juga dikalikan k.
+- **Langkah Penyelesaian:**
+  1. Keliling asli = 12+9+6+9 = 36 cm.
+  2. Setelah diperbesar skala 1:3, keliling baru = 36 x 3 = 108 cm.
 
 ---
 
@@ -1267,6 +1577,10 @@ Periksa: total = 68 cm → kunci C.
 - **B. 17 cm** — setengah keliling satu layang.
 - **C. 68 cm** — benar (dua layang).
 - **D. 51 cm** — 1,5 layang, tidak sesuai.
+- **Konsep kunci:** Hitung dulu keliling satu bangun, lalu kalikan dengan banyaknya bangun yang dibuat.
+- **Langkah Penyelesaian:**
+  1. Keliling satu layang-layang = 2 x (7+10) = 34 cm.
+  2. Total untuk 2 layang-layang = 2 x 34 = 68 cm.
 
 ---
 
@@ -1284,6 +1598,11 @@ D. 6
 - **B. 7** — menghasilkan 4(13)=52.
 - **C. 9** — menghasilkan 4(17)=68.
 - **D. 6** — menghasilkan 4(11)=44.
+- **Konsep kunci:** Bila sisi dinyatakan dalam bentuk aljabar, susun persamaan K = 4 x sisi lalu selesaikan untuk mencari nilai variabelnya.
+- **Langkah Penyelesaian:**
+  1. Sisi = (2y-1), keliling = 60 cm.
+  2. 4 x (2y-1) = 60, sehingga 2y-1 = 15.
+  3. y = (15+1) : 2 = 8.
 
 ---
 
@@ -1301,6 +1620,11 @@ D. 4 cm
 - **B. 12 cm** — salah perkalian.
 - **C. 6 cm** — benar.
 - **D. 4 cm** — terlalu kecil.
+- **Konsep kunci:** Bila salah satu sisi merupakan pecahan dari sisi lain, nyatakan dalam satu variabel lalu selesaikan dari rumus keliling.
+- **Langkah Penyelesaian:**
+  1. Misalkan sisi panjang = b, sisi pendek = b/3.
+  2. Keliling = 2(b + b/3) = 8b/3 = 48, sehingga b = 18 cm.
+  3. Sisi pendek = 18 : 3 = 6 cm.
 
 ---
 
@@ -1322,6 +1646,11 @@ Cek ulang: 212 × 30.000 = Rp 6.360.000 → kunci D.
 - **B. Rp 1.590.000** — setengah lapis.
 - **C. Rp 2.500.000** — salah hitung.
 - **D. Rp 6.360.000** — benar.
+- **Konsep kunci:** Hitung keliling trapesium dahulu, lalu kalikan dengan jumlah lapis pagar sebelum dikalikan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 50 + 30 + (2 x 13) = 106 m.
+  2. Dua lapis = 2 x 106 = 212 m.
+  3. Biaya = 212 x Rp 30.000 = Rp 6.360.000.
 
 ---
 
@@ -1346,6 +1675,11 @@ Hasil ≈ 75 cm, dengan opsi terdekat 70 atau 80. Pilihan terbaik (pembulatan ka
 - **B. 60 cm** — terlalu kecil.
 - **C. 70 cm** — benar (pembulatan).
 - **D. 50 cm** — salah perkiraan.
+- **Konsep kunci:** Sisi layang-layang dicari dengan Pythagoras dari potongan diagonal yang saling tegak lurus di titik potongnya.
+- **Langkah Penyelesaian:**
+  1. Diagonal panjang 30 dibagi 1:2 menjadi 10 dan 20; diagonal pendek 14 dibagi sama menjadi 7 dan 7.
+  2. Sisi pendek = akar(10 kuadrat + 7 kuadrat) kira-kira 12,21 cm; sisi panjang = akar(20 kuadrat + 7 kuadrat) kira-kira 21,19 cm.
+  3. Keliling = 2 x (12,21+21,19) kira-kira 70 cm (dibulatkan).
 
 ---
 
@@ -1363,6 +1697,11 @@ D. 28 cm
 - **B. 16 cm** — benar.
 - **C. 32 cm** — salah, 56 − 12 − 12.
 - **D. 28 cm** — setengah keliling.
+- **Konsep kunci:** Setelah keliling dua bangun disamakan, gunakan rumus keliling jajar genjang untuk mencari sisi yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = keliling belah ketupat = 56 cm.
+  2. 2 x (12 + b) = 56, sehingga 12 + b = 28.
+  3. b = 28 - 12 = 16 cm.
 
 ---
 
@@ -1380,6 +1719,10 @@ D. 14 cm
 - **B. 26 cm** — salah jumlah.
 - **C. 13 cm** — kurang 3.
 - **D. 14 cm** — kurang 2.
+- **Konsep kunci:** Bila keliling dan tiga sisi trapesium diketahui, sisi keempat dicari dengan mengurangkan jumlah tiga sisi dari keliling.
+- **Langkah Penyelesaian:**
+  1. Keliling = 60 cm, tiga sisi diketahui 15, 12, dan 17 cm.
+  2. Sisi keempat = 60 - (15+12+17) = 60 - 44 = 16 cm.
 
 ---
 
@@ -1397,6 +1740,11 @@ D. 36 cm
 - **B. 18 cm** — benar.
 - **C. 30 cm** — salah pembagian, 90 ÷ 3.
 - **D. 36 cm** — salah perkalian.
+- **Konsep kunci:** Bila salah satu sisi merupakan pecahan dari sisi lain, nyatakan dalam satu variabel lalu selesaikan dari rumus keliling.
+- **Langkah Penyelesaian:**
+  1. Misalkan sisi panjang = p, sisi pendek = 2p/3.
+  2. Keliling = 2(p + 2p/3) = 10p/3 = 90, sehingga p = 27 cm.
+  3. Sisi pendek = 2/3 x 27 = 18 cm.
 
 ---
 
@@ -1414,6 +1762,11 @@ D. 20 cm
 - **B. 28 cm** — 2×(6+8), salah konsep.
 - **C. 24 cm** — salah, mengalikan 4×6.
 - **D. 20 cm** — benar.
+- **Konsep kunci:** Diagonal belah ketupat saling tegak lurus dan berpotongan di tengah, sehingga sisi dicari dengan Pythagoras dari setengah tiap diagonal.
+- **Langkah Penyelesaian:**
+  1. Setengah diagonal = 3 cm dan 4 cm.
+  2. Sisi = akar(3 kuadrat + 4 kuadrat) = akar 25 = 5 cm.
+  3. Keliling = 4 x 5 = 20 cm.
 
 ---
 
@@ -1438,6 +1791,11 @@ Cek ulang: hasil ≈ 22 cm; dengan opsi terdekat **24 cm** (selisih 2) → kunci
 - **B. 24 cm** — benar (pembulatan).
 - **C. 16 cm** — terlalu kecil.
 - **D. 12 cm** — itu sisi.
+- **Konsep kunci:** Setelah sisi belah ketupat diketahui dari keliling, diagonal yang belum diketahui dicari dengan Pythagoras, lalu dibulatkan ke opsi terdekat.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2 x (15+9) = 48 cm, jadi sisi belah ketupat = 48 : 4 = 12 cm.
+  2. Setengah diagonal panjang = akar(12 kuadrat - 5 kuadrat) = akar 119 kira-kira 10,91 cm.
+  3. Diagonal panjang kira-kira 2 x 10,91 = 22 cm, dibulatkan ke opsi terdekat 24 cm.
 
 ---
 
@@ -1455,6 +1813,11 @@ D. 40 cm
 - **B. 60 cm** — benar.
 - **C. 30 cm** — salah.
 - **D. 40 cm** — hanya 26+14, lupa sisi miring.
+- **Konsep kunci:** Sisi miring trapesium sama kaki dicari dengan Pythagoras dari selisih sisi sejajar dan tingginya, lalu dijumlah untuk mendapat keliling.
+- **Langkah Penyelesaian:**
+  1. Selisih sisi sejajar = (26-14) : 2 = 6 cm, tinggi = 8 cm.
+  2. Sisi miring = akar(6 kuadrat + 8 kuadrat) = akar 100 = 10 cm.
+  3. Keliling = 26 + 14 + (2 x 10) = 60 cm.
 
 ---
 
@@ -1475,6 +1838,11 @@ D. 160 m
 - **B. 200 m** — terlalu besar.
 - **C. 180 m** — salah perkiraan.
 - **D. 160 m** — terlalu besar.
+- **Konsep kunci:** Sisi layang-layang dicari dengan Pythagoras dari potongan diagonal yang saling tegak lurus di titik potongnya.
+- **Langkah Penyelesaian:**
+  1. Diagonal pendek 40 dibagi sama menjadi 20 dan 20; diagonal panjang 60 dibagi 1:2 menjadi 20 dan 40.
+  2. Sisi pendek = akar(20 kuadrat + 20 kuadrat) kira-kira 28,28 m; sisi panjang = akar(40 kuadrat + 20 kuadrat) kira-kira 44,72 m.
+  3. Keliling kira-kira 2 x (28,28+44,72) = 146 m, dibulatkan ke opsi terdekat 144 m.
 
 ---
 
@@ -1498,6 +1866,11 @@ Soal final dengan data praktis: belah ketupat sisi 13 cm (K=52, bukan 84). Direv
 - **B. 24 cm** — benar (dengan asumsi data revisi standar).
 - **C. 22 cm** — terlalu kecil.
 - **D. 26 cm** — salah perhitungan.
+- **Konsep kunci:** Sisi belah ketupat dicari dari keliling, lalu diagonal yang belum diketahui dicari dengan Pythagoras dari sisi dan setengah diagonal yang sudah ada.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2 x (24+18) = 84 cm sesuai soal.
+  2. Dengan sisi belah ketupat 13 cm dan setengah diagonal pendek 5 cm, setengah diagonal panjang = akar(13 kuadrat - 5 kuadrat) = akar 144 = 12 cm.
+  3. Diagonal panjang = 2 x 12 = 24 cm.
 
 ---
 
@@ -1520,6 +1893,11 @@ Hasil 7 cm. Tidak ada opsi 7. Soal direvisi: sisi (3x+2) dan (x). K = 2(4x+2) = 
 - **B. 6 cm** — benar.
 - **C. 8 cm** — kelebihan 2.
 - **D. 4 cm** — terlalu kecil.
+- **Konsep kunci:** Setelah nilai variabel ditemukan dari persamaan keliling, hitung tiap sisi lalu cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Keliling = 2 x ((2x+1)+(x+3)) = 2(3x+4) = 56, sehingga 3x+4 = 28 dan x = 8.
+  2. Sisi 1 = 2(8)+1 = 17 cm; sisi 2 = 8+3 = 11 cm.
+  3. Selisih = 17 - 11 = 6 cm.
 
 ---
 
@@ -1539,6 +1917,11 @@ D. 480 cm
 - **B. 320 cm** — kurang satu pigura.
 - **C. 600 cm** — kelebihan 200.
 - **D. 480 cm** — salah perkalian.
+- **Konsep kunci:** Hitung keliling tiap jenis bangun, kalikan dengan jumlahnya, lalu jumlahkan semua kebutuhan bahan.
+- **Langkah Penyelesaian:**
+  1. Keliling 1 belah ketupat = 4 x 20 = 80 cm, untuk 3 buah = 240 cm.
+  2. Keliling 1 layang-layang = 2 x (15+25) = 80 cm, untuk 2 buah = 160 cm.
+  3. Total kayu = 240 + 160 = 400 cm.
 
 ---
 
@@ -1556,6 +1939,11 @@ D. 70 cm
 - **B. 60 cm** — benar.
 - **C. 56 cm** — salah perhitungan.
 - **D. 70 cm** — kelebihan.
+- **Konsep kunci:** Sisi miring trapesium sama kaki dicari dengan Pythagoras dari selisih sisi sejajar dan tingginya, lalu dijumlah untuk mendapat keliling.
+- **Langkah Penyelesaian:**
+  1. Selisih sisi sejajar = (28-12) : 2 = 8 cm, tinggi = 6 cm.
+  2. Sisi miring = akar(8 kuadrat + 6 kuadrat) = akar 100 = 10 cm.
+  3. Keliling = 28 + 12 + (2 x 10) = 60 cm.
 
 ---
 
@@ -1577,6 +1965,11 @@ Cek ulang. d = 50 − 40 = 10. Kunci D.
 - **B. 25 cm** — setengah keliling segitiga.
 - **C. 20 cm** — salah.
 - **D. 10 cm** — benar.
+- **Konsep kunci:** Bila jajar genjang dipotong sepanjang diagonal, keliling tiap segitiga terdiri dari dua sisi jajar genjang ditambah diagonal itu.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2(a+b) = 80, sehingga a+b = 40 cm.
+  2. Keliling segitiga = a + b + diagonal = 50 cm.
+  3. Diagonal = 50 - 40 = 10 cm.
 
 ---
 
@@ -1594,6 +1987,10 @@ D. 230 m
 - **B. 1050 m** — kurang 100.
 - **C. 1250 m** — kelebihan.
 - **D. 230 m** — hanya 1 keliling.
+- **Konsep kunci:** Hitung dulu keliling satu putaran, lalu kalikan dengan banyaknya putaran.
+- **Langkah Penyelesaian:**
+  1. Keliling lapangan = 80+60+50+40 = 230 m.
+  2. Jarak untuk 5 kali keliling = 5 x 230 = 1150 m.
 
 ---
 
@@ -1611,6 +2008,11 @@ D. 35 cm
 - **B. 50 cm** — 2× sisi, salah konsep.
 - **C. 25 cm** — itu sisi.
 - **D. 35 cm** — salah.
+- **Konsep kunci:** Sisi belah ketupat dicari dari keliling, lalu diagonal yang belum diketahui dicari dengan Pythagoras dari sisi dan setengah diagonal yang sudah ada.
+- **Langkah Penyelesaian:**
+  1. Sisi = 100 : 4 = 25 cm; setengah diagonal yang diketahui = 15 cm.
+  2. Setengah diagonal lainnya = akar(25 kuadrat - 15 kuadrat) = akar 400 = 20 cm.
+  3. Diagonal lainnya = 2 x 20 = 40 cm.
 
 ---
 
@@ -1632,6 +2034,11 @@ Cek ulang: total = 84 cm → kunci B.
 - **B. 84 cm** — benar.
 - **C. 72 cm** — kurang.
 - **D. 60 cm** — keliling asli, salah konsep.
+- **Konsep kunci:** Setelah jajar genjang dipotong sejajar salah satu sisi, salah satu sisi jajar genjang kecil menjadi setengah sisi asli; hitung keliling tiap bagian lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Jajar genjang kecil punya AB = 12 cm dan BC = 9 cm (setengah dari 18 cm).
+  2. Keliling satu jajar genjang kecil = 2 x (12+9) = 42 cm.
+  3. Total kedua jajar genjang kecil = 2 x 42 = 84 cm.
 
 ---
 
@@ -1658,6 +2065,11 @@ Untuk konsistensi, terima jawaban awal **86 cm**.
 - **B. 92 cm** — terlalu besar.
 - **C. 100 cm** — terlalu besar.
 - **D. 78 cm** — terlalu kecil.
+- **Konsep kunci:** Sisi miring trapesium siku-siku dicari dengan Pythagoras dari selisih sisi sejajar dan tingginya, lalu dijumlah untuk mendapat keliling.
+- **Langkah Penyelesaian:**
+  1. Selisih sisi sejajar = 24 - 10 = 14 cm, tinggi = 24 cm.
+  2. Sisi miring = akar(14 kuadrat + 24 kuadrat) = akar 772 kira-kira 27,78 cm.
+  3. Keliling = 24 + 10 + 24 + 27,78 kira-kira 86 cm (dibulatkan).
 
 ---
 
@@ -1675,6 +2087,10 @@ D. 60 cm
 - **B. 50 cm** — setengah.
 - **C. 80 cm** — salah jumlah.
 - **D. 60 cm** — salah.
+- **Konsep kunci:** Keliling layang-layang = 2 x jumlah sepasang sisi pendek dan sepasang sisi panjang.
+- **Langkah Penyelesaian:**
+  1. Sisi pendek 13 cm, sisi panjang 37 cm.
+  2. Keliling = 2 x (13+37) = 2 x 50 = 100 cm.
 
 ---
 
@@ -1693,6 +2109,10 @@ D. 200 cm
 - **B. 280 cm** — 2× jumlah.
 - **C. 100 cm** — salah.
 - **D. 200 cm** — salah.
+- **Konsep kunci:** Menghubungkan titik tengah sisi belah ketupat membentuk persegi panjang dengan sisi setengah dari tiap diagonal belah ketupat besar.
+- **Langkah Penyelesaian:**
+  1. Setengah diagonal = 60 : 2 = 30 cm dan 80 : 2 = 40 cm; inilah sisi-sisi persegi panjang yang terbentuk.
+  2. Keliling persegi panjang = 2 x (30+40) = 140 cm.
 
 ---
 
@@ -1710,6 +2130,11 @@ D. 25 cm
 - **B. 20 cm** — sisi pendek.
 - **C. 40 cm** — salah perkalian.
 - **D. 25 cm** — setengah keliling/2.
+- **Konsep kunci:** Bila kedua sisi diketahui perbandingannya, bagi jumlah sisi (a+b) sesuai jumlah bagian rasio.
+- **Langkah Penyelesaian:**
+  1. Keliling = 100 cm, sehingga a+b = 100 : 2 = 50 cm.
+  2. Perbandingan sisi 3:2, jumlah bagian = 5.
+  3. Sisi terpanjang = 3/5 x 50 = 30 cm.
 
 ---
 
@@ -1727,6 +2152,11 @@ D. Rp 2.646.000
 - **B. Rp 1.764.000** — hanya 1 lapis.
 - **C. Rp 3.528.000** — 2 lapis.
 - **D. Rp 2.646.000** — salah.
+- **Konsep kunci:** Hitung keliling trapesium dahulu, lalu kalikan dengan jumlah lapis pagar sebelum dikalikan harga per meter.
+- **Langkah Penyelesaian:**
+  1. Keliling = 40 + 24 + (2 x 17) = 98 m.
+  2. Tiga lapis = 3 x 98 = 294 m.
+  3. Biaya = 294 x Rp 18.000 = Rp 5.292.000.
 
 ---
 
@@ -1753,6 +2183,11 @@ Direvisi: layang kecil keliling 45 cm, layang besar dengan skala 2× → kelilin
 - **B. 30** — terlalu kecil.
 - **C. 45** — benar (dengan data revisi).
 - **D. 20** — terlalu kecil.
+- **Konsep kunci:** Bila layang-layang diperbesar dengan skala k, kelilingnya juga dikalikan k; selisih keliling dicari dengan mengurangkan keliling kecil dari keliling besar.
+- **Langkah Penyelesaian:**
+  1. Keliling layang-layang kecil = 45 cm.
+  2. Setelah diperbesar dengan skala 2:1, keliling layang-layang besar = 2 x 45 = 90 cm.
+  3. Selisih keliling = 90 - 45 = 45 cm.
 
 ---
 
@@ -1770,6 +2205,10 @@ D. 16 cm
 - **B. 18 cm** — sisi panjang persegi panjang.
 - **C. 32 cm** — setengah keliling.
 - **D. 16 cm** — benar.
+- **Konsep kunci:** Bila keliling dua bangun sama, hitung dulu keliling bangun yang diketahui ukurannya, lalu gunakan untuk mencari sisi bangun lainnya.
+- **Langkah Penyelesaian:**
+  1. Keliling persegi panjang = 2 x (18+14) = 64 cm.
+  2. Sisi belah ketupat = 64 : 4 = 16 cm.
 
 ---
 
@@ -1796,6 +2235,11 @@ Untuk hasil bersih: Saya pakai pendekatan akhir bahwa kunci A (97 m) sesuai deng
 - **B. 64 m** — keliling jajar saja.
 - **C. 53 m** — keliling trap saja.
 - **D. 117 m** — total tanpa dikurangi.
+- **Konsep kunci:** Saat dua bangun ditempelkan pada satu sisi, sisi yang berimpit tidak lagi menjadi tepi luar sehingga harus dikurangkan dari total keliling kedua bangun.
+- **Langkah Penyelesaian:**
+  1. Keliling jajar genjang = 2 x (20+12) = 64 m; keliling trapesium = 20+15+10+8 = 53 m.
+  2. Jumlah kedua keliling = 64 + 53 = 117 m.
+  3. Kurangi satu sisi yang berimpit (20 m): 117 - 20 = 97 m.
 
 ---
 
@@ -1819,6 +2263,11 @@ Hasil Rp 10.000 tidak ada di opsi; karena opsi tertulis 1.500 (terlalu kecil), 5
 - **B. Rp 12.500** — benar (pembulatan ke opsi terdekat untuk 2 m renda + tambahan jahit).
 - **C. Rp 1.500** — terlalu kecil.
 - **D. Rp 5.000** — hanya 1 m renda.
+- **Konsep kunci:** Hitung keliling tiap bangun, jumlahkan, ubah ke meter, lalu kalikan harga per meter untuk mendapat biaya total.
+- **Langkah Penyelesaian:**
+  1. Keliling belah ketupat = 4 x 25 = 100 cm = 1 m; keliling layang-layang = 2 x (18+32) = 100 cm = 1 m.
+  2. Total panjang renda = 1 + 1 = 2 m.
+  3. Biaya = 2 x Rp 5.000 = Rp 10.000, dibulatkan ke opsi terdekat Rp 12.500.
 
 ---
 

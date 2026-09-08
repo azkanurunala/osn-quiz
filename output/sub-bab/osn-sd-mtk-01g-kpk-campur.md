@@ -129,6 +129,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 25 dimasukkan, padahal soal "kurang dari" (bukan "sampai") berarti 25 tidak ikut.
 - **C** — Salah. 0 bukan kelipatan yang biasa dihitung dalam kelipatan SD (kelipatan mulai dari bilangan itu sendiri).
 - **D** — Salah. 1 bukan kelipatan 5 (1 ÷ 5 tidak bulat).
+- **Konsep kunci:** Kelipatan suatu bilangan adalah hasil kali bilangan itu dengan 1, 2, 3, dst., dan kurang dari berarti batas atas tidak ikut dihitung.
+- **Langkah Penyelesaian:**
+  1. Tulis kelipatan 5: 5, 10, 15, 20, 25, ...
+  2. Karena kurang dari 25, angka 25 tidak diikutkan.
+  3. Jawaban: 5, 10, 15, 20.
 
 ---
 
@@ -144,6 +149,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. "Terbesar" milik FPB (Faktor Persekutuan Terbesar), bukan KPK.
 - **C** — Benar. KPK = **K**elipatan **P**ersekutuan **T**erkecil. Itu kepanjangan baku.
 - **D** — Salah. Kebingungan dengan istilah aljabar; tidak baku.
+- **Konsep kunci:** KPK adalah istilah baku yang kepanjangannya harus dihafal.
+- **Langkah Penyelesaian:**
+  1. Ingat KPK = Kelipatan Persekutuan Terkecil.
+  2. Bandingkan dengan pilihan lain yang tertukar kata terbesar atau istilah lain.
+  3. Pilih kepanjangan yang tepat, yaitu C.
 
 ---
 
@@ -159,6 +169,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 1 bukan kelipatan 7 (1 ≠ 7×n untuk n bulat positif).
 - **C** — Benar. Kelipatan 7 dimulai dari 7×1, 7×2, 7×3 = 7, 14, 21.
 - **D** — Salah. 17, 27 bukan kelipatan 7 (17÷7=2,4; 27÷7=3,8).
+- **Konsep kunci:** Kelipatan suatu bilangan dimulai dari bilangan itu sendiri dikalikan 1, bukan dari 1.
+- **Langkah Penyelesaian:**
+  1. Kalikan 7 dengan 1, 2, 3.
+  2. Diperoleh 7, 14, 21.
+  3. Itulah tiga kelipatan pertama dari 7.
 
 ---
 
@@ -174,6 +189,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. Lupa 24 yang juga persekutuan.
 - **C** — Salah. 6 bukan kelipatan 4.
 - **D** — Benar. Kelipatan 3 = 3, 6, 9, 12, 15, 18, 21, 24, 27. Kelipatan 4 = 4, 8, 12, 16, 20, 24, 28. Yang sama (<30): **12** dan **24**.
+- **Konsep kunci:** Kelipatan persekutuan adalah bilangan yang muncul di kedua daftar kelipatan.
+- **Langkah Penyelesaian:**
+  1. Daftar kelipatan 3 dan kelipatan 4 sampai kurang dari 30.
+  2. Cari angka yang muncul di kedua daftar.
+  3. Ditemukan 12 dan 24.
 
 ---
 
@@ -189,6 +209,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 1 itu FPB(2,3), bukan KPK.
 - **C** — Salah. 5 = 2+3 (penjumlahan, bukan KPK).
 - **D** — Benar. Kelipatan 2 = 2, 4, 6, 8, ... Kelipatan 3 = 3, 6, 9, ... Persekutuan terkecil = **6**.
+- **Konsep kunci:** KPK adalah kelipatan persekutuan yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. Tulis kelipatan 2 dan kelipatan 3.
+  2. Cari kelipatan yang sama di kedua daftar.
+  3. Ambil yang paling kecil, yaitu 6.
 
 ---
 
@@ -204,6 +229,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 10 = 4+6 (penjumlahan).
 - **C** — Salah. 2 = FPB(4,6), bukan KPK.
 - **D** — Benar. 4 = 2², 6 = 2×3. KPK = 2² × 3 = **12**.
+- **Konsep kunci:** KPK dicari dengan mengalikan tiap faktor prima dengan pangkat terbesarnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 4 = 2² dan 6 = 2×3.
+  2. Ambil pangkat terbesar tiap faktor: 2² dan 3.
+  3. Kalikan: 4×3 = 12.
 
 ---
 
@@ -219,6 +249,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 48 = 6×8 (perkalian; bukan KPK karena FPB ≠ 1).
 - **C** — Benar. 6 = 2×3, 8 = 2³. KPK = 2³ × 3 = **24**.
 - **D** — Salah. 2 = FPB(6,8).
+- **Konsep kunci:** KPK bukan hasil perkalian atau penjumlahan langsung dua bilangan, melainkan dari faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 6 = 2×3 dan 8 = 2³.
+  2. Ambil pangkat terbesar tiap faktor: 2³ dan 3.
+  3. Kalikan: 8×3 = 24.
 
 ---
 
@@ -234,6 +269,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 4 bukan prima (4 = 2²).
 - **C** — Benar. 12 = 2 × 2 × 3 = **2² × 3**, semua faktor adalah prima.
 - **D** — Salah. 4 bukan prima.
+- **Konsep kunci:** Faktorisasi prima hanya boleh memakai bilangan prima sebagai faktor.
+- **Langkah Penyelesaian:**
+  1. Bagi 12 dengan bilangan prima terkecil: 12 = 2×6 = 2×2×3.
+  2. Tulis dalam bentuk pangkat: 2²×3.
+  3. Cocokkan dengan pilihan C.
 
 ---
 
@@ -249,6 +289,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. Itu 2²×3 = 12, bukan 18.
 - **C** — Salah. 6 bukan prima.
 - **D** — Benar. 18 = 2 × 3 × 3 = **2 × 3²**.
+- **Konsep kunci:** Faktorisasi prima harus dipecah sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 18: 18 = 2×9 = 2×3×3.
+  2. Tulis dalam pangkat: 2×3².
+  3. Cocokkan dengan pilihan D.
 
 ---
 
@@ -264,6 +309,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 6 = FPB(12,18), karena ambil pangkat terkecil.
 - **C** — Salah. 72 = 36×2; kelipatan persekutuan, tapi bukan **ter**kecil.
 - **D** — Salah. 54 kelipatan 18 tapi bukan kelipatan 12 (54÷12=4,5).
+- **Konsep kunci:** KPK dua bilangan didapat dari mengalikan tiap faktor prima dengan pangkat terbesarnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 12=2²×3 dan 18=2×3².
+  2. Ambil pangkat terbesar: 2² dan 3².
+  3. Kalikan: 4×9 = 36.
 
 ---
 
@@ -279,6 +329,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 10 bukan prima.
 - **C** — Salah. 2×25 = 50, bukan 20.
 - **D** — Benar. 20 = 2 × 2 × 5 = **2² × 5**.
+- **Konsep kunci:** Faktorisasi prima menulis bilangan sebagai perkalian bilangan prima berpangkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 20 = 2×10 = 2×2×5.
+  2. Tulis dalam pangkat: 2²×5.
+  3. Cocokkan dengan pilihan D.
 
 ---
 
@@ -294,6 +349,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 4 = FPB(8,12).
 - **C** — Salah. 20 = 8+12 (penjumlahan).
 - **D** — Benar. 8 = 2³, 12 = 2²×3. Pangkat terbesar: 2³ dan 3. KPK = 2³×3 = **24**.
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 8=2³ dan 12=2²×3.
+  2. Ambil pangkat terbesar: 2³ dan 3.
+  3. Kalikan: 8×3 = 24.
 
 ---
 
@@ -309,6 +369,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 1 = FPB(5,7).
 - **C** — Benar. 5 dan 7 prima, saling prima (FPB=1). KPK = 5×7 = **35**.
 - **D** — Salah. 70 kelipatan persekutuan ke-2.
+- **Konsep kunci:** Jika dua bilangan saling prima (FPB=1), KPK-nya adalah hasil kali keduanya.
+- **Langkah Penyelesaian:**
+  1. Cek FPB(5,7) = 1 (saling prima).
+  2. Karena saling prima, KPK = 5×7.
+  3. Hasilnya 35.
 
 ---
 
@@ -324,6 +389,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 2 bukan kelipatan 5.
 - **C** — Salah. 30 tidak kurang dari 30.
 - **D** — Benar. Kelipatan 2 yang juga kelipatan 5 (<30) = 10, 20.
+- **Konsep kunci:** Kelipatan persekutuan adalah kelipatan yang sama dari dua bilangan.
+- **Langkah Penyelesaian:**
+  1. Daftar kelipatan 2 dan kelipatan 5 yang kurang dari 30.
+  2. Cari yang sama di kedua daftar.
+  3. Ditemukan 10 dan 20.
 
 ---
 
@@ -339,6 +409,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 21 = 9+12.
 - **C** — Salah. 108 = 9×12 (asumsi salah saling prima).
 - **D** — Benar. 9 = 3², 12 = 2²×3. KPK = 2²×3² = 4×9 = **36**.
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 9=3² dan 12=2²×3.
+  2. Ambil pangkat terbesar: 2² dan 3².
+  3. Kalikan: 4×9 = 36.
 
 ---
 
@@ -354,6 +429,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(4, 6) = 12. Jadi 12 detik kemudian berkedip bersama lagi.
 - **C** — Salah. 10 = 4+6 (penjumlahan, bukan KPK).
 - **D** — Salah. 2 = FPB(4,6), itu untuk pembagian, bukan bersamaan.
+- **Konsep kunci:** Soal bersama lagi pada peristiwa berulang diselesaikan dengan mencari KPK periode-periodenya.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(4,6).
+  2. Faktorkan: 4=2², 6=2×3 → KPK=2²×3=12.
+  3. Jadi bersama lagi 12 detik kemudian.
 
 ---
 
@@ -369,6 +449,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 25 = 10+15.
 - **C** — Benar. 10 = 2×5, 15 = 3×5. KPK = 2×3×5 = **30**.
 - **D** — Salah. 150 = 10×15 (FPB ≠ 1 jadi tidak berlaku).
+- **Konsep kunci:** KPK dicari dengan mengalikan pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 10=2×5 dan 15=3×5.
+  2. Ambil semua faktor prima yang muncul: 2, 3, 5.
+  3. Kalikan: 2×3×5 = 30.
 
 ---
 
@@ -384,6 +469,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 6 bukan prima.
 - **C** — Salah. 12 bukan prima.
 - **D** — Salah. 8 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan menjadi perkalian bilangan prima saja.
+- **Langkah Penyelesaian:**
+  1. Bagi 24 = 2×12 = 2×2×6 = 2×2×2×3.
+  2. Tulis dalam pangkat: 2³×3.
+  3. Cocokkan dengan pilihan A.
 
 ---
 
@@ -399,6 +489,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 2 = FPB(6,10).
 - **C** — Salah. 16 = 6+10.
 - **D** — Benar. 6 = 2×3, 10 = 2×5. KPK = 2×3×5 = **30**.
+- **Konsep kunci:** KPK diambil dari semua faktor prima dengan pangkat terbesarnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 6=2×3 dan 10=2×5.
+  2. Ambil semua faktor prima: 2, 3, 5.
+  3. Kalikan: 2×3×5 = 30.
 
 ---
 
@@ -414,6 +509,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 30 bukan kelipatan 20 (30÷20 = 1,5).
 - **C** — Benar. KPK(15, 20): 15 = 3×5, 20 = 2²×5 → KPK = 2²×3×5 = 60 menit. 07.00 + 60 menit = **08.00**.
 - **D** — Salah. 50 menit bukan kelipatan persekutuan 15 dan 20.
+- **Konsep kunci:** Soal cerita bersama lagi pada waktu diselesaikan dengan menambahkan KPK ke waktu awal.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(15,20): 15=3×5, 20=2²×5 → KPK=2²×3×5=60 menit.
+  2. Tambahkan ke pukul 07.00.
+  3. Diperoleh pukul 08.00.
 
 ---
 
@@ -429,6 +529,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 6 bukan prima.
 - **C** — Salah. 15 bukan prima.
 - **D** — Salah. 10 bukan prima.
+- **Konsep kunci:** Faktorisasi prima menulis bilangan sebagai perkalian faktor-faktor prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 30 = 2×15 = 2×3×5.
+  2. Semua faktor sudah prima.
+  3. Jawabannya 2×3×5.
 
 ---
 
@@ -444,6 +549,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 35 = 14+21.
 - **C** — Benar. 14 = 2×7, 21 = 3×7. KPK = 2×3×7 = **42**.
 - **D** — Salah. 294 = 14×21 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari seluruh faktor prima dengan pangkat terbesarnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 14=2×7 dan 21=3×7.
+  2. Ambil semua faktor prima: 2, 3, 7.
+  3. Kalikan: 2×3×7 = 42.
 
 ---
 
@@ -459,6 +569,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 8 = FPB(16,24).
 - **C** — Salah. 40 = 16+24.
 - **D** — Benar. 16 = 2⁴, 24 = 2³×3. KPK = 2⁴×3 = 16×3 = **48**.
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 16=2⁴ dan 24=2³×3.
+  2. Ambil pangkat terbesar: 2⁴ dan 3.
+  3. Kalikan: 16×3 = 48.
 
 ---
 
@@ -474,6 +589,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 9 = FPB(18,27) = 3².
 - **C** — Salah. 6 bukan kelipatan 27.
 - **D** — Salah. 486 = 18×27 (FPB ≠ 1).
+- **Konsep kunci:** Jika faktorisasi sudah diberikan, KPK tinggal mengambil pangkat terbesar tiap faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan 18=2×3² dan 27=3³.
+  2. Ambil pangkat terbesar: 2¹ dan 3³.
+  3. Kalikan: 2×27 = 54.
 
 ---
 
@@ -489,6 +609,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 9 = 4+5, bukan kelipatan persekutuan.
 - **C** — Salah. Lupa 40 yang juga <50.
 - **D** — Salah. 60 tidak <50.
+- **Konsep kunci:** Kelipatan persekutuan adalah kelipatan-kelipatan dari KPK.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(4,5) = 20.
+  2. Kelipatan persekutuan = 20, 40, 60, ...
+  3. Yang kurang dari 50: 20 dan 40.
 
 ---
 
@@ -504,6 +629,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 7 = 3+4 (penjumlahan).
 - **C** — Salah. 1 = FPB(3,4).
 - **D** — Salah. 24 = 12×2, kelipatan persekutuan ke-2.
+- **Konsep kunci:** Bilangan yang saling prima memiliki KPK sama dengan hasil kalinya.
+- **Langkah Penyelesaian:**
+  1. Cek FPB(3,4) = 1 (saling prima).
+  2. KPK = 3×4.
+  3. Hasilnya 12.
 
 ---
 
@@ -519,6 +649,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 25 = 5², 15 = 3×5. KPK = 3×5² = 3×25 = **75**.
 - **C** — Salah. 40 = 25+15 (penjumlahan).
 - **D** — Salah. 375 = 25×15 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 25=5² dan 15=3×5.
+  2. Ambil pangkat terbesar: 3¹ dan 5².
+  3. Kalikan: 3×25 = 75.
 
 ---
 
@@ -534,6 +669,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 15 bukan prima.
 - **C** — Benar. 45 = 3×3×5 = **3² × 5**.
 - **D** — Salah. 5²×3 = 75, bukan 45.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 45 = 9×5 = 3×3×5.
+  2. Tulis dalam pangkat: 3²×5.
+  3. Cocokkan dengan pilihan C.
 
 ---
 
@@ -549,6 +689,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 50 = 20+30.
 - **C** — Benar. 20 = 2²×5, 30 = 2×3×5. KPK = 2²×3×5 = 4×15 = **60**.
 - **D** — Salah. 600 = 20×30 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 20=2²×5 dan 30=2×3×5.
+  2. Ambil pangkat terbesar: 2², 3, 5.
+  3. Kalikan: 4×3×5 = 60.
 
 ---
 
@@ -564,6 +709,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 24 = kelipatan persekutuan ke-2.
 - **C** — Salah. 1 = FPB(3,4).
 - **D** — Benar. KPK(3,4) = 12 (karena saling prima). Mereka les bersama tiap **12 hari**.
+- **Konsep kunci:** Bilangan saling prima memiliki KPK sama dengan hasil kali keduanya.
+- **Langkah Penyelesaian:**
+  1. Cek FPB(3,4) = 1 (saling prima).
+  2. KPK = 3×4 = 12.
+  3. Mereka les bersama tiap 12 hari.
 
 ---
 
@@ -579,6 +729,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 6 = 2+4 (penjumlahan).
 - **C** — Benar. 2 = 2, 4 = 2². Pangkat terbesar = 2². KPK = **4**. (Karena 4 sudah habis dibagi 2.)
 - **D** — Salah. 8 kelipatan ke-2, bukan terkecil.
+- **Konsep kunci:** KPK selalu lebih besar atau sama dengan bilangan terbesar yang dibandingkan.
+- **Langkah Penyelesaian:**
+  1. Cek apakah salah satu bilangan sudah kelipatan yang lain: 4 = 2×2.
+  2. Karena 4 sudah kelipatan 2, KPK-nya adalah bilangan yang lebih besar itu sendiri.
+  3. Jadi KPK(2,4) = 4.
 
 ---
 
@@ -594,6 +749,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 36 = 2×2×3×3 = **2² × 3²**.
 - **C** — Salah. 4 dan 9 bukan prima.
 - **D** — Salah. 18 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 36 = 4×9 = 2×2×3×3.
+  2. Tulis dalam pangkat: 2²×3².
+  3. Cocokkan dengan pilihan B.
 
 ---
 
@@ -609,6 +769,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 42 = 18+24.
 - **C** — Benar. 18 = 2×3², 24 = 2³×3. KPK = 2³×3² = 8×9 = **72**.
 - **D** — Salah. 432 = 18×24 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 18=2×3² dan 24=2³×3.
+  2. Ambil pangkat terbesar: 2³ dan 3².
+  3. Kalikan: 8×9 = 72.
 
 ---
 
@@ -624,6 +789,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 54 = 6×9 (FPB ≠ 1, jadi tidak berlaku langsung).
 - **C** — Salah. 3 = FPB(6,9).
 - **D** — Benar. 6 = 2×3, 9 = 3². KPK = 2×3² = **18 hari**.
+- **Konsep kunci:** Soal cerita bersama lagi diselesaikan dengan mencari KPK periode-periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 6=2×3 dan 9=3².
+  2. KPK = 2×3² = 18.
+  3. Mereka berlabuh bersama lagi setelah 18 hari.
 
 ---
 
@@ -639,6 +809,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 25 bukan prima.
 - **C** — Salah. 2²×5 = 20, bukan 50.
 - **D** — Benar. 50 = 2×5×5 = **2 × 5²**.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 50 = 2×25 = 2×5×5.
+  2. Tulis dalam pangkat: 2×5².
+  3. Cocokkan dengan pilihan D.
 
 ---
 
@@ -654,6 +829,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 28 = 12+16.
 - **C** — Benar. 12 = 2²×3, 16 = 2⁴. KPK = 2⁴×3 = 16×3 = **48**.
 - **D** — Salah. 192 = 12×16 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 12=2²×3 dan 16=2⁴.
+  2. Ambil pangkat terbesar: 2⁴ dan 3.
+  3. Kalikan: 16×3 = 48.
 
 ---
 
@@ -669,6 +849,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 24 = kelipatan persekutuan **ke-2**.
 - **C** — Benar. KPK = 12. Kelipatan persekutuan = 12, 24, **36**, 48, ... Ke-3 = **36**.
 - **D** — Salah. 48 = kelipatan persekutuan ke-4.
+- **Konsep kunci:** Kelipatan persekutuan ke-n adalah kelipatan ke-n dari KPK.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(4,6) = 12.
+  2. Daftar kelipatan persekutuan: 12, 24, 36, 48, ...
+  3. Kelipatan persekutuan ke-3 adalah 36.
 
 ---
 
@@ -684,6 +869,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 21 kelipatan 7 tapi bukan kelipatan 14.
 - **C** — Benar. 14 sudah kelipatan 7. KPK = **14**.
 - **D** — Salah. 98 = 7×14 (FPB ≠ 1).
+- **Konsep kunci:** Jika bilangan yang lebih besar sudah kelipatan bilangan yang lebih kecil, KPK-nya adalah bilangan yang lebih besar itu.
+- **Langkah Penyelesaian:**
+  1. Cek 14 ÷ 7 = 2 (habis dibagi).
+  2. Karena 14 sudah kelipatan 7, tidak perlu mencari kelipatan lain.
+  3. KPK(7,14) = 14.
 
 ---
 
@@ -699,6 +889,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 10 bukan prima.
 - **C** — Salah. 4 dan 15 bukan prima.
 - **D** — Salah. 6 dan 10 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 60 = 2×30 = 2×2×15 = 2×2×3×5.
+  2. Tulis dalam pangkat: 2²×3×5.
+  3. Cocokkan dengan pilihan A.
 
 ---
 
@@ -714,6 +909,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 18 = 8+10.
 - **C** — Salah. 80 = 8×10 (FPB ≠ 1).
 - **D** — Benar. 8 = 2³, 10 = 2×5. KPK = 2³×5 = 8×5 = **40**.
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 8=2³ dan 10=2×5.
+  2. Ambil pangkat terbesar: 2³ dan 5.
+  3. Kalikan: 8×5 = 40.
 
 ---
 
@@ -729,6 +929,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 3 = 3, 20 = 2²×5. KPK = 2²×3×5 = 60, bukan 30.
 - **C** — Salah. 4 = 2², 15 = 3×5. KPK = 2²×3×5 = 60, bukan 30.
 - **D** — Salah. 5 = 5, 12 = 2²×3. KPK = 2²×3×5 = 60, bukan 30.
+- **Konsep kunci:** KPK suatu pasangan bilangan dicek dengan faktorisasi prima masing-masing lalu dibandingkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan tiap pasangan pilihan.
+  2. Hitung KPK tiap pasangan menggunakan pangkat terbesar.
+  3. Pasangan (6,10) menghasilkan KPK = 30, sesuai yang diminta.
 
 ---
 
@@ -744,6 +949,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 12 = 2²×3, 8 = 2³. KPK = 2³×3 = **24 menit**.
 - **C** — Salah. 20 = 12+8 (penjumlahan).
 - **D** — Salah. 4 = FPB(12,8).
+- **Konsep kunci:** Soal cerita datang bersama lagi diselesaikan dengan mencari KPK periode-periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 12=2²×3 dan 8=2³.
+  2. KPK = 2³×3 = 24.
+  3. Bus datang bersama lagi setelah 24 menit.
 
 ---
 
@@ -759,6 +969,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 10 sudah kelipatan 5. KPK = **10**.
 - **C** — Salah. 15 = 5+10.
 - **D** — Salah. 50 = 5×10 (FPB ≠ 1).
+- **Konsep kunci:** Jika bilangan yang lebih besar sudah kelipatan bilangan yang lebih kecil, KPK-nya adalah bilangan yang lebih besar itu.
+- **Langkah Penyelesaian:**
+  1. Cek 10 ÷ 5 = 2 (habis dibagi).
+  2. Karena 10 sudah kelipatan 5, KPK-nya adalah 10 itu sendiri.
+  3. Jadi KPK(5,10) = 10.
 
 ---
 
@@ -774,6 +989,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 6 dan 12 bukan prima.
 - **C** — Salah. 2²×3³ = 4×27 = 108, bukan 72.
 - **D** — Benar. 72 = 2×2×2×3×3 = **2³ × 3²**.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 72 = 8×9 = 2×2×2×3×3.
+  2. Tulis dalam pangkat: 2³×3².
+  3. Cocokkan dengan pilihan D.
 
 ---
 
@@ -789,6 +1009,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 24 = 9+15.
 - **C** — Benar. 9 = 3², 15 = 3×5. KPK = 3²×5 = 9×5 = **45**.
 - **D** — Salah. 135 = 9×15 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 9=3² dan 15=3×5.
+  2. Ambil pangkat terbesar: 3² dan 5.
+  3. Kalikan: 9×5 = 45.
 
 ---
 
@@ -804,6 +1029,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK adalah kelipatan dari bilangan terbesar, jadi tidak mungkin lebih kecil darinya.
 - **C** — Salah. Penjumlahan tidak menghasilkan KPK.
 - **D** — Salah. Yang ≤ bilangan terkecil adalah **FPB**, bukan KPK.
+- **Konsep kunci:** KPK selalu lebih besar atau sama dengan bilangan terbesar yang dibandingkan, bukan hasil kali atau jumlah keduanya.
+- **Langkah Penyelesaian:**
+  1. Ingat sifat dasar KPK: ia kelipatan dari kedua bilangan.
+  2. Karena kelipatan tidak mungkin lebih kecil dari bilangan itu sendiri, KPK ≥ bilangan terbesar.
+  3. Jadi pernyataan yang benar adalah B.
 
 ---
 
@@ -819,6 +1049,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 18 = 6+12.
 - **C** — Benar. 12 sudah kelipatan 6. KPK = **12**.
 - **D** — Salah. 72 = 6×12 (FPB ≠ 1).
+- **Konsep kunci:** Jika bilangan yang lebih besar sudah kelipatan bilangan yang lebih kecil, KPK-nya adalah bilangan yang lebih besar itu.
+- **Langkah Penyelesaian:**
+  1. Cek 12 ÷ 6 = 2 (habis dibagi).
+  2. Karena 12 sudah kelipatan 6, KPK-nya adalah 12 itu sendiri.
+  3. Jadi KPK(6,12) = 12.
 
 ---
 
@@ -834,6 +1069,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 100 = 2×2×5×5 = **2² × 5²**.
 - **C** — Salah. 4 dan 25 bukan prima.
 - **D** — Salah. 50 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 100 = 4×25 = 2×2×5×5.
+  2. Tulis dalam pangkat: 2²×5².
+  3. Cocokkan dengan pilihan B.
 
 ---
 
@@ -849,6 +1089,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 60 menit kelipatan KPK ke-2, bukan **pertama**.
 - **C** — Salah. 1 = FPB(5,6) — interpretasi salah.
 - **D** — Benar. KPK(5,6) = 30 (saling prima → 5×6). 09.00 + 30 menit = **09.30**.
+- **Konsep kunci:** Bilangan saling prima memiliki KPK sama dengan hasil kali keduanya; soal cerita bersama lagi ditambahkan ke waktu awal.
+- **Langkah Penyelesaian:**
+  1. Cek FPB(5,6)=1 (saling prima) sehingga KPK = 5×6 = 30 menit.
+  2. Tambahkan ke pukul 09.00.
+  3. Diperoleh pukul 09.30.
 
 ---
 
@@ -864,6 +1109,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 13 = 4+9.
 - **C** — Benar. 4 = 2², 9 = 3². Saling prima → KPK = 4×9 = **36**.
 - **D** — Salah. 72 kelipatan KPK ke-2.
+- **Konsep kunci:** Bilangan saling prima memiliki KPK sama dengan hasil kali keduanya.
+- **Langkah Penyelesaian:**
+  1. Cek FPB(4,9) = 1 (saling prima).
+  2. KPK = 4×9.
+  3. Hasilnya 36.
 
 ---
 
@@ -881,6 +1131,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 60 = 24+36.
 - **C** — Benar. 24 = 2³×3, 36 = 2²×3². Pangkat terbesar: 2³ dan 3². KPK = 8×9 = **72**.
 - **D** — Salah. 864 = 24×36 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 24=2³×3 dan 36=2²×3².
+  2. Ambil pangkat terbesar: 2³ dan 3².
+  3. Kalikan: 8×9 = 72.
 
 ---
 
@@ -896,6 +1151,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 192 = 4×6×8 (terlalu besar).
 - **C** — Salah. 18 = 4+6+8.
 - **D** — Benar. 4 = 2², 6 = 2×3, 8 = 2³. Pangkat terbesar: 2³ dan 3. KPK = 8×3 = **24**.
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul di ketiganya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 4=2², 6=2×3, 8=2³.
+  2. Ambil pangkat terbesar: 2³ dan 3.
+  3. Kalikan: 8×3 = 24.
 
 ---
 
@@ -911,6 +1171,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 9 = 3², 12 = 2²×3, 18 = 2×3². Pangkat terbesar: 2² dan 3². KPK = 4×9 = **36**.
 - **C** — Salah. 54 = 2×3³ — pangkat 3³ tidak muncul.
 - **D** — Salah. 108 = 2²×3³ — pangkat 3³ tidak muncul.
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 9=3², 12=2²×3, 18=2×3².
+  2. Ambil pangkat terbesar: 2² dan 3².
+  3. Kalikan: 4×9 = 36.
 
 ---
 
@@ -926,6 +1191,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. FPB×KPK = a×b → 4×24 = 8×b → 96 = 8b → b = **12**. Cek: FPB(8,12)=4 ✅, KPK(8,12)=24 ✅.
 - **C** — Salah. 3 tidak punya faktor 4.
 - **D** — Salah. FPB(8,16) = 8 ≠ 4.
+- **Konsep kunci:** Rumus FPB × KPK = a × b menghubungkan FPB, KPK, dan kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus FPB×KPK = a×b: 4×24 = 8×b.
+  2. Hitung 96 = 8b, sehingga b = 12.
+  3. Cek: FPB(8,12)=4 dan KPK(8,12)=24, cocok.
 
 ---
 
@@ -941,6 +1211,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 35 = 15+20.
 - **C** — Benar. 15 = 3×5, 20 = 2²×5. KPK = 2²×3×5 = 4×15 = **60**.
 - **D** — Salah. 300 = 15×20 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 15=3×5 dan 20=2²×5.
+  2. Ambil pangkat terbesar: 2², 3, 5.
+  3. Kalikan: 4×3×5 = 60.
 
 ---
 
@@ -956,6 +1231,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 26 = 6+8+12.
 - **C** — Salah. 48 = kelipatan KPK ke-2.
 - **D** — Benar. 6 = 2×3, 8 = 2³, 12 = 2²×3. Pangkat terbesar: 2³ dan 3. KPK = 8×3 = **24**.
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 6=2×3, 8=2³, 12=2²×3.
+  2. Ambil pangkat terbesar: 2³ dan 3.
+  3. Kalikan: 8×3 = 24.
 
 ---
 
@@ -971,6 +1251,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(4,6,8) = 24 (lihat soal 52). 18.00.00 + 24 detik = **18.00.24**.
 - **C** — Salah. 12 = KPK(4,6) saja, lupa 8.
 - **D** — Salah. 48 kelipatan KPK ke-2.
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(4,6,8) = 24 (lihat cara pada faktorisasi prima).
+  2. Tambahkan 24 detik ke pukul 18.00.00.
+  3. Diperoleh pukul 18.00.24.
 
 ---
 
@@ -986,6 +1271,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 360 = 2³×3²×5 — pangkat 2 berlebih (tidak ada 2³).
 - **C** — Salah. 90 = 2×3²×5 — pangkat 2 salah (harusnya 2², bukan 2¹).
 - **D** — Benar. Pangkat terbesar: 2², 3², 5. KPK = 4×9×5 = **180**.
+- **Konsep kunci:** Jika faktorisasi sudah diberikan, KPK tinggal mengambil pangkat terbesar tiap faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan 36=2²×3² dan 60=2²×3×5.
+  2. Ambil pangkat terbesar: 2², 3², 5.
+  3. Kalikan: 4×9×5 = 180.
 
 ---
 
@@ -1001,6 +1291,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 24 = a+b (penjumlahan).
 - **C** — Salah. 12 hanya nilai FPB atau KPK, bukan perkalian keduanya.
 - **D** — Salah. 288 = 2×144 (double).
+- **Konsep kunci:** Rumus FPB × KPK = a × b berlaku untuk sembarang dua bilangan, termasuk bila a = b.
+- **Langkah Penyelesaian:**
+  1. Hitung a×b = 12×12 = 144.
+  2. Karena FPB×KPK = a×b, hasilnya juga 144.
+  3. Cek: FPB(12,12)=12, KPK(12,12)=12, 12×12=144.
 
 ---
 
@@ -1016,6 +1311,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 40 = 2³×5, lupa 3.
 - **C** — Salah. 60 = 2²×3×5, pangkat 2 salah.
 - **D** — Benar. Pangkat terbesar: 2³, 3, 5. KPK = 8×3×5 = **120**.
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul.
+- **Langkah Penyelesaian:**
+  1. Bandingkan 8=2³, 12=2²×3, 20=2²×5.
+  2. Ambil pangkat terbesar: 2³, 3, 5.
+  3. Kalikan: 8×3×5 = 120.
 
 ---
 
@@ -1031,6 +1331,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 12 = KPK(4,6) saja, lupa 8.
 - **C** — Benar. KPK(4,6,8) = 24. 4=2², 6=2×3, 8=2³. KPK = 2³×3 = **24 hari**.
 - **D** — Salah. 48 kelipatan KPK ke-2.
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 4=2², 6=2×3, 8=2³.
+  2. KPK = 2³×3 = 24.
+  3. Mereka bertemu lagi setelah 24 hari.
 
 ---
 
@@ -1046,6 +1351,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 14 = 2×7, 35 = 5×7. KPK = 2×5×7 = **70**.
 - **C** — Salah. 49 = 14+35.
 - **D** — Salah. 490 = 14×35 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 14=2×7 dan 35=5×7.
+  2. Ambil semua faktor prima: 2, 5, 7.
+  3. Kalikan: 2×5×7 = 70.
 
 ---
 
@@ -1061,6 +1371,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. FPB×KPK = a×b → 5×60 = 15×b → 300 = 15b → b = **20**. Cek: FPB(15,20)=5 ✅, KPK = 60 ✅.
 - **C** — Salah. FPB(15,12) = 3 ≠ 5.
 - **D** — Salah. FPB(15,25) = 5 ✅ tetapi KPK(15,25) = 75 ≠ 60.
+- **Konsep kunci:** Rumus FPB × KPK = a × b menghubungkan FPB, KPK, dan kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus: 5×60 = 15×b.
+  2. Hitung 300 = 15b, sehingga b = 20.
+  3. Cek: FPB(15,20)=5 dan KPK(15,20)=60, cocok.
 
 ---
 
@@ -1076,6 +1391,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 48 = 18+30.
 - **C** — Benar. 18 = 2×3², 30 = 2×3×5. KPK = 2×3²×5 = 2×9×5 = **90**.
 - **D** — Salah. 540 = 18×30 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 18=2×3² dan 30=2×3×5.
+  2. Ambil pangkat terbesar: 2, 3², 5.
+  3. Kalikan: 2×9×5 = 90.
 
 ---
 
@@ -1091,6 +1411,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 60 = KPK gigi, bukan jumlah putaran A.
 - **C** — Salah. 47 = 12+15+20.
 - **D** — Salah. 3600 = 12×15×20 (terlalu besar).
+- **Konsep kunci:** Soal roda gigi diselesaikan dengan mencari KPK jumlah gigi, lalu membaginya dengan jumlah gigi roda yang ditanya.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(12,15,20): 12=2²×3, 15=3×5, 20=2²×5 sehingga KPK = 2²×3×5 = 60.
+  2. Bagi KPK dengan jumlah gigi roda A: 60÷12.
+  3. Diperoleh 5 putaran.
 
 ---
 
@@ -1106,6 +1431,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 25 = 5², 40 = 2³×5. KPK = 2³×5² = 8×25 = **200**.
 - **C** — Salah. 100 = 2²×5², pangkat 2 salah (harusnya 2³).
 - **D** — Salah. 1000 = 25×40 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 25=5² dan 40=2³×5.
+  2. Ambil pangkat terbesar: 2³ dan 5².
+  3. Kalikan: 8×25 = 200.
 
 ---
 
@@ -1121,6 +1451,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 9 = 3², 12 = 2²×3, 18 = 2×3². KPK = 2²×3² = 36 detik. 20.00.00 + 36 detik = **20.00.36**.
 - **C** — Salah. 18 = bilangan terbesar, bukan KPK.
 - **D** — Salah. 72 detik = kelipatan KPK ke-2.
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 9=3², 12=2²×3, 18=2×3².
+  2. KPK = 2²×3² = 36 detik.
+  3. Tambahkan ke pukul 20.00.00, diperoleh 20.00.36.
 
 ---
 
@@ -1136,6 +1471,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 21 bukan prima (21 = 3×7).
 - **C** — Benar. 84 = 2×2×3×7 = **2² × 3 × 7**, semua prima.
 - **D** — Salah. 4 dan 21 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 84 = 2×42 = 2×2×21 = 2×2×3×7.
+  2. Tulis dalam pangkat: 2²×3×7.
+  3. Cocokkan dengan pilihan C.
 
 ---
 
@@ -1151,6 +1491,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 28 = 2²×7, 42 = 2×3×7. KPK = 2²×3×7 = 4×21 = **84**.
 - **C** — Salah. 70 = 28+42.
 - **D** — Salah. 1176 = 28×42 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 28=2²×7 dan 42=2×3×7.
+  2. Ambil pangkat terbesar: 2², 3, 7.
+  3. Kalikan: 4×3×7 = 84.
 
 ---
 
@@ -1166,6 +1511,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 77 = 11×7, tetapi 11×7 ≠ 88.
 - **C** — Salah. KPK(11,99) = 99, bukan 88.
 - **D** — Salah. 11×4 = 44, bukan 88.
+- **Konsep kunci:** Jika dua bilangan saling prima, KPK-nya sama dengan hasil kali keduanya.
+- **Langkah Penyelesaian:**
+  1. Gunakan sifat saling prima: KPK = x×y.
+  2. Substitusi: 88 = 11×y.
+  3. Hitung y = 88÷11 = 8.
 
 ---
 
@@ -1181,6 +1531,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 72 = 16+24+32.
 - **C** — Benar. 16 = 2⁴, 24 = 2³×3, 32 = 2⁵. Pangkat terbesar: 2⁵ dan 3. KPK = 32×3 = **96**.
 - **D** — Salah. 12288 = 16×24×32 (asumsi salah saling prima).
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 16=2⁴, 24=2³×3, 32=2⁵.
+  2. Ambil pangkat terbesar: 2⁵ dan 3.
+  3. Kalikan: 32×3 = 96.
 
 ---
 
@@ -1196,6 +1551,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 5 ≠ 240÷60.
 - **C** — Salah. 6 ≠ 240÷60.
 - **D** — Salah. 12 = 240÷20 (KPK salah).
+- **Konsep kunci:** Rumus FPB × KPK = a × b bisa dibalik untuk mencari FPB jika a×b dan KPK diketahui.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus: FPB = (a×b) ÷ KPK.
+  2. Substitusi: FPB = 240 ÷ 60.
+  3. Hasilnya 4.
 
 ---
 
@@ -1211,6 +1571,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 45 menit bukan kelipatan 20.
 - **C** — Salah. 30 = bilangan terbesar saja.
 - **D** — Salah. 5 = FPB(15,20,30).
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 15=3×5, 20=2²×5, 30=2×3×5.
+  2. KPK = 2²×3×5 = 60 menit.
+  3. Tambahkan ke pukul 06.00, diperoleh 07.00.
 
 ---
 
@@ -1226,6 +1591,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 108 = 48+60.
 - **C** — Benar. 48 = 2⁴×3, 60 = 2²×3×5. Pangkat terbesar: 2⁴, 3, 5. KPK = 16×3×5 = **240**.
 - **D** — Salah. 2880 = 48×60 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 48=2⁴×3 dan 60=2²×3×5.
+  2. Ambil pangkat terbesar: 2⁴, 3, 5.
+  3. Kalikan: 16×3×5 = 240.
 
 ---
 
@@ -1241,6 +1611,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. FPB×KPK = p×q → 9×90 = 18×q → 810 = 18q → q = **45**. Cek FPB(18,45) = 9 ✅, KPK = 90 ✅.
 - **C** — Salah. FPB(18,30) = 6 ≠ 9.
 - **D** — Salah. FPB(18,81) = 9 ✅ tetapi KPK = 162 ≠ 90.
+- **Konsep kunci:** Rumus FPB × KPK = a × b menghubungkan FPB, KPK, dan kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus: 9×90 = 18×q.
+  2. Hitung 810 = 18q, sehingga q = 45.
+  3. Cek: FPB(18,45)=9 dan KPK(18,45)=90, cocok.
 
 ---
 
@@ -1256,6 +1631,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. Rumus baku: FPB × KPK = a × b.
 - **C** — Salah. Salah operasi di sisi kanan.
 - **D** — Salah. Salah operasi di kedua sisi.
+- **Konsep kunci:** Rumus baku hubungan FPB dan KPK adalah perkalian, bukan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus baku: FPB(a,b) × KPK(a,b) = a × b.
+  2. Bandingkan dengan pilihan lain yang memakai operasi penjumlahan.
+  3. Pilihan yang benar adalah B.
 
 ---
 
@@ -1271,6 +1651,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 2²×3²×5 = 4×9×5 = 180.
 - **C** — Salah. 2³×3²×5 = 8×9×5 = 360.
 - **D** — Salah. 30 bukan prima.
+- **Konsep kunci:** Faktorisasi prima memecah bilangan sampai semua faktornya prima.
+- **Langkah Penyelesaian:**
+  1. Bagi 120 = 8×15 = 2×2×2×3×5.
+  2. Tulis dalam pangkat: 2³×3×5.
+  3. Cocokkan dengan pilihan A.
 
 ---
 
@@ -1286,6 +1671,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 126 = 36+90.
 - **C** — Benar. 36 = 2²×3², 90 = 2×3²×5. Pangkat terbesar: 2², 3², 5. KPK = 4×9×5 = **180**.
 - **D** — Salah. 3240 = 36×90 (FPB ≠ 1).
+- **Konsep kunci:** KPK diambil dari pangkat terbesar tiap faktor prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 36=2²×3² dan 90=2×3²×5.
+  2. Ambil pangkat terbesar: 2², 3², 5.
+  3. Kalikan: 4×9×5 = 180.
 
 ---
 
@@ -1301,6 +1691,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(5,10,15) = 30 menit. Dalam 2 jam = 120 menit. Bersama setiap 30 menit: 30, 60, 90, 120 menit setelah 08.00 → **4 kali**.
 - **C** — Salah. 6 menggunakan kelipatan 20, bukan 30.
 - **D** — Salah. 12 menggunakan kelipatan 10.
+- **Konsep kunci:** Soal berapa kali bersama dalam rentang waktu dihitung dari kelipatan KPK dalam rentang tersebut.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(5,10,15) = 30 menit.
+  2. Dalam 120 menit, hitung kelipatan 30: 30, 60, 90, 120.
+  3. Ada 4 kali bersama.
 
 ---
 
@@ -1316,6 +1711,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. Pangkat terbesar: 3² dan 5². KPK = 9×25 = **225**.
 - **C** — Salah. 375 = 3×5³ — pangkat 5 berlebih.
 - **D** — Salah. 1125 = 3²×5³ — pangkat 5 berlebih.
+- **Konsep kunci:** Jika faktorisasi sudah diberikan, KPK tinggal mengambil pangkat terbesar tiap faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan 45=3²×5 dan 75=3×5².
+  2. Ambil pangkat terbesar: 3² dan 5².
+  3. Kalikan: 9×25 = 225.
 
 ---
 
@@ -1333,6 +1733,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. Pangkat terbesar tiap prima: 2³ (dari a), 3² (dari b), 5² (dari c), 7¹ (dari b atau c). KPK = **2³ × 3² × 5² × 7** = 8×9×25×7 = 12600.
 - **C** — Salah. 3 dan 5 tidak ambil pangkat terbesar.
 - **D** — Salah. Itu hasil pangkat terkecil (mendekati FPB).
+- **Konsep kunci:** KPK tiga bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul di ketiganya.
+- **Langkah Penyelesaian:**
+  1. Bandingkan a=2³×3×5, b=2²×3²×7, c=2×5²×7.
+  2. Ambil pangkat terbesar tiap faktor: 2³, 3², 5², 7.
+  3. Kalikan semuanya menjadi KPK.
 
 ---
 
@@ -1348,6 +1753,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. Pasangan (12, 360) trivial (a=FPB, b=KPK) — biasanya tidak dianggap "pasangan" yang sah.
 - **C** — Benar. 36 = 2²×3², 120 = 2³×3×5. FPB = 2²×3 = 12 ✅, KPK = 2³×3²×5 = 360 ✅. Pasangan paling khas.
 - **D** — Salah. FPB(48,90) = 6, bukan 12.
+- **Konsep kunci:** Pasangan bilangan dengan FPB dan KPK tertentu dicek dengan menghitung FPB dan KPK tiap pilihan lalu dibandingkan.
+- **Langkah Penyelesaian:**
+  1. Faktorkan tiap pasangan pilihan.
+  2. Hitung FPB dan KPK-nya, cocokkan dengan FPB=12 dan KPK=360.
+  3. Pasangan (36,120) paling sesuai dan khas untuk bentuk faktorisasi ini.
 
 ---
 
@@ -1363,6 +1773,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. 12 = 2²×3, 15 = 3×5, 20 = 2²×5. KPK = 2²×3×5 = 4×15 = 60 detik = 1 menit. Pukul 06.00.00 + 60 detik = **06.01.00**.
 - **C** — Salah. 30 detik = KPK(15,30) atau kelipatan 15, bukan KPK tiga bilangan.
 - **D** — Salah. 45 detik bukan kelipatan 20.
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 12=2²×3, 15=3×5, 20=2²×5.
+  2. KPK = 2²×3×5 = 60 detik = 1 menit.
+  3. Tambahkan ke pukul 06.00.00, diperoleh 06.01.00.
 
 ---
 
@@ -1378,6 +1793,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(6,8) = 24. Kelipatan: 24, 48, 72, 96, 120, ... Yang dua angka (10–99): 24, 48, 72, 96 = **4 bilangan**.
 - **C** — Salah. Hanya 3 jika lupa salah satu.
 - **D** — Salah. 120 tiga angka, tidak ikut.
+- **Konsep kunci:** Banyaknya bilangan kelipatan persekutuan dalam suatu rentang dihitung dari kelipatan KPK yang masuk rentang tersebut.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(6,8) = 24.
+  2. Daftar kelipatan 24 yang dua angka (10–99): 24, 48, 72, 96.
+  3. Ada 4 bilangan.
 
 ---
 
@@ -1393,6 +1813,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. Hanya satu pasangan x+y benar.
 - **C** — Benar. Pangkat 2 di KPK = max(x, 2) = 3 → x = 3 (karena 2 < 3). Pangkat 3 di KPK = max(1, y) = 2 → y = 2. Jadi x + y = 3+2 = **5**.
 - **D** — Salah. Salah hitung max.
+- **Konsep kunci:** Pangkat suatu faktor prima pada KPK adalah pangkat terbesar (maksimum) dari pangkat faktor tersebut pada bilangan-bilangan yang dibandingkan.
+- **Langkah Penyelesaian:**
+  1. Samakan pangkat faktor 2: maks(x,2)=3, sehingga x=3.
+  2. Samakan pangkat faktor 3: maks(1,y)=2, sehingga y=2.
+  3. Jumlahkan: x+y = 3+2 = 5.
 
 ---
 
@@ -1408,6 +1833,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 91 = 7×13, lupa 11.
 - **C** — Salah. 143 = 11×13, lupa 7.
 - **D** — Benar. Ketiga prima saling prima sepasang-sepasang → KPK = 7×11×13 = 77×13 = **1001**.
+- **Konsep kunci:** Jika beberapa bilangan saling prima sepasang-sepasang, KPK-nya adalah hasil kali semuanya.
+- **Langkah Penyelesaian:**
+  1. Cek 7, 11, 13 saling prima sepasang-sepasang (semua prima berbeda).
+  2. Kalikan ketiganya: 7×11×13.
+  3. Hasilnya 1001.
 
 ---
 
@@ -1423,6 +1853,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 60 = bilangan terbesar.
 - **C** — Salah. 120 = KPK (untuk soal "bersamaan"), bukan "membagi rata".
 - **D** — Salah. 6 = pembagi yang lebih kecil tapi bukan terbesar.
+- **Konsep kunci:** Soal dibagi rata sama banyak menggunakan FPB, bukan KPK, meski topiknya bersanding dengan KPK.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci dibagi rata dan jumlah sama, artinya gunakan FPB, bukan KPK.
+  2. Faktorkan 24=2³×3, 36=2²×3², 60=2²×3×5.
+  3. FPB = 2²×3 = 12 piring.
 
 ---
 
@@ -1438,6 +1873,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(6,10,15): 6=2×3, 10=2×5, 15=3×5. KPK = 2×3×5 = **30 detik**.
 - **C** — Salah. 60 kelipatan KPK ke-2.
 - **D** — Salah. 900 = 6×10×15 (FPB ≠ 1).
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 6=2×3, 10=2×5, 15=3×5.
+  2. Ambil semua faktor prima: 2, 3, 5.
+  3. Kalikan: 2×3×5 = 30 detik.
 
 ---
 
@@ -1453,6 +1893,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 30 = a×b ÷ 12 (FPB salah).
 - **C** — Salah. 120 = a×b ÷ 3.
 - **D** — Salah. 2160 = a×b×6 (operasi salah).
+- **Konsep kunci:** Rumus FPB × KPK = a × b bisa dibalik untuk mencari KPK jika FPB dan a×b diketahui.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus: 6×KPK = 360.
+  2. Hitung KPK = 360÷6.
+  3. Hasilnya 60.
 
 ---
 
@@ -1468,6 +1913,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 60 bukan kelipatan 9 (60÷9 ≈ 6,67).
 - **C** — Benar. KPK(4,9,15): 4=2², 9=3², 15=3×5. KPK = 2²×3²×5 = 4×9×5 = **180**.
 - **D** — Salah. 540 kelipatan KPK ke-3.
+- **Konsep kunci:** Bilangan positif terkecil yang merupakan kelipatan beberapa bilangan sekaligus adalah KPK bilangan-bilangan tersebut.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 4=2², 9=3², 15=3×5.
+  2. Ambil pangkat terbesar: 2², 3², 5.
+  3. Kalikan: 4×9×5 = 180.
 
 ---
 
@@ -1483,6 +1933,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 12 + 24 = 36 ≠ 42.
 - **C** — Salah. KPK(12,28) = 84, bukan 60.
 - **D** — Salah. 12 + 36 = 48 ≠ 42.
+- **Konsep kunci:** Informasi jumlah dua bilangan dipakai untuk mencari bilangan kedua, lalu KPK dicek dengan faktorisasi.
+- **Langkah Penyelesaian:**
+  1. Hitung bilangan kedua: 42−12 = 30.
+  2. Cek KPK(12,30) dengan faktorisasi: 12=2²×3, 30=2×3×5.
+  3. KPK = 2²×3×5 = 60, sesuai soal.
 
 ---
 
@@ -1498,6 +1953,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(1..10) = pangkat terbesar tiap prima ≤10: 2³ (dari 8), 3² (dari 9), 5 (dari 5 atau 10), 7 (dari 7). KPK = 8×9×5×7 = 72×35 = **2520**.
 - **C** — Salah. 720 = 6!.
 - **D** — Salah. 3628800 = 10! terlalu besar.
+- **Konsep kunci:** KPK dari sederet bilangan diambil dari pangkat terbesar tiap faktor prima yang muncul di antara semuanya.
+- **Langkah Penyelesaian:**
+  1. Daftar faktor prima bilangan 1–10 dan pangkat terbesarnya: 2³ (dari 8), 3² (dari 9), 5¹, 7¹.
+  2. Kalikan semuanya.
+  3. Hasilnya 8×9×5×7 = 2520.
 
 ---
 
@@ -1513,6 +1973,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. Saling prima sepasang-sepasang → KPK = 5×7×9 = 315 detik = 5 menit 15 detik. 12.00.00 + 5 menit 15 detik = **12.05.15**.
 - **C** — Salah. 45 = 5×9, lupa 7.
 - **D** — Salah. 300 detik = 5 menit, lupa 15 detik sisa.
+- **Konsep kunci:** Jika beberapa bilangan saling prima sepasang-sepasang, KPK-nya adalah hasil kali semuanya, lalu ditambahkan ke waktu awal.
+- **Langkah Penyelesaian:**
+  1. Cek 5, 7, 9 saling prima sepasang-sepasang.
+  2. KPK = 5×7×9 = 315 detik = 5 menit 15 detik.
+  3. Tambahkan ke pukul 12.00.00, diperoleh 12.05.15.
 
 ---
 
@@ -1528,6 +1993,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. c=5 tidak menambah faktor baru juga, tapi lebih besar dari 1.
 - **C** — Salah. c=15 lebih besar lagi.
 - **D** — Salah. c=75 lebih besar lagi.
+- **Konsep kunci:** Bilangan c terkecil yang tidak mengubah KPK adalah bilangan yang faktor primanya sudah tercakup oleh bilangan lain, sehingga c = 1 memenuhi.
+- **Langkah Penyelesaian:**
+  1. Cek faktor prima yang sudah ada dari a dan b: 2³, 3, 5² sudah lengkap.
+  2. Karena c tidak perlu menambah faktor baru, pilih c sekecil mungkin.
+  3. Nilai c terkecil yang memenuhi adalah 1.
 
 ---
 
@@ -1543,6 +2013,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(12, 18) = 36. 2000 + 36 = **2036**.
 - **C** — Salah. 2024 = 2000 + 24 (bukan KPK).
 - **D** — Salah. 2050 bukan kelipatan 36.
+- **Konsep kunci:** Soal cerita muncul bersama lagi pada periode tahunan diselesaikan dengan menambahkan KPK ke tahun awal.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 12=2²×3 dan 18=2×3².
+  2. KPK = 2²×3² = 36 tahun.
+  3. Tambahkan ke tahun 2000, diperoleh 2036.
 
 ---
 
@@ -1558,6 +2033,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. Pangkat terbesar tiap prima: 2², 3³, 5. KPK = 4×27×5 = **540**.
 - **C** — Salah. 180 = 2²×3²×5 — pangkat 3 salah (harusnya 3³).
 - **D** — Salah. 2700 = 2²×3³×5² — pangkat 5 berlebih.
+- **Konsep kunci:** Jika faktorisasi sudah diberikan, KPK tinggal mengambil pangkat terbesar tiap faktor.
+- **Langkah Penyelesaian:**
+  1. Bandingkan a=2²×3² dan b=2²×3³×5.
+  2. Ambil pangkat terbesar: 2², 3³, 5.
+  3. Kalikan: 4×27×5 = 540.
 
 ---
 
@@ -1573,6 +2053,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(3,4,6) = 12. 12 hari setelah Senin: hitung 12 mod 7 = 5. Senin → +1 Selasa, +2 Rabu, +3 Kamis, +4 Jumat, +5 **Sabtu**.
 - **C** — Salah. Selasa = +1 atau +8 hari.
 - **D** — Salah. Senin = +0, +7, atau +14 hari, bukan +12.
+- **Konsep kunci:** Soal cerita hari diselesaikan dengan mencari KPK, lalu menghitung sisa bagi 7 (mod 7) untuk menentukan nama harinya.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(3,4,6) = 12 hari.
+  2. Hitung 12 mod 7 = 5 (5 hari setelah Senin dalam siklus mingguan).
+  3. Senin + 5 hari = Sabtu.
 
 ---
 
@@ -1588,6 +2073,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Benar. KPK(6,8,9): 6=2×3, 8=2³, 9=3². KPK = 2³×3² = 72. Kelipatan 72 = 72, 144, 216, ... Yang **>100** dan **terkecil** = **144**.
 - **C** — Salah. 216 kelipatan KPK ke-3, bukan yang terkecil >100.
 - **D** — Salah. 72 = KPK tapi tidak >100.
+- **Konsep kunci:** Bilangan terkecil lebih dari suatu batas yang habis dibagi beberapa bilangan dicari dengan melihat kelipatan KPK yang pertama melewati batas tersebut.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(6,8,9): 6=2×3, 8=2³, 9=3² sehingga KPK = 2³×3² = 72.
+  2. Daftar kelipatan 72: 72, 144, 216, ...
+  3. Yang pertama lebih dari 100 adalah 144.
 
 ---
 
@@ -1603,6 +2093,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. FPB(90,30) = 30, bukan 3.
 - **C** — Salah. FPB(18,30) = 6 ≠ 3.
 - **D** — Salah. KPK(6,30) = 30, bukan 90.
+- **Konsep kunci:** Rumus FPB × KPK = a × b menghubungkan FPB, KPK, dan kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus: 3×90 = 30×x.
+  2. Hitung 270 = 30x, sehingga x = 9.
+  3. Cek: FPB(9,30)=3 dan KPK(9,30)=90, cocok.
 
 ---
 
@@ -1618,6 +2113,11 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 - **B** — Salah. 105 = KPK(21, 35) saja, lupa 14.
 - **C** — Benar. 14 = 2×7, 21 = 3×7, 35 = 5×7. KPK = 2×3×5×7 = **210 hari**.
 - **D** — Salah. 420 = kelipatan KPK ke-2.
+- **Konsep kunci:** Soal cerita tiga peristiwa berulang diselesaikan dengan mencari KPK ketiga periodenya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan 14=2×7, 21=3×7, 35=5×7.
+  2. Ambil semua faktor prima: 2, 3, 5, 7.
+  3. Kalikan: 2×3×5×7 = 210 hari.
 
 ---
 

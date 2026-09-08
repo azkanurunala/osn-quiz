@@ -137,6 +137,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 9 = nilai tengah terbesar setelah 10, asal pilih.
 - **D** — 40 = jumlah total, lupa dibagi banyak data. Miskonsepsi paling umum!
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua nilai (6+7+8+9+10 = 40).
+  2. Hitung banyak data (5 anak).
+  3. Bagi jumlah dengan banyak data (40 ÷ 5 = 8).
+
 ---
 
 **2.** Berat 4 karung beras adalah 25 kg, 30 kg, 28 kg, dan 33 kg. Berapa rata-rata berat satu karung?
@@ -151,6 +157,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 25+30+28+33 = 116. Mean = 116 ÷ 4 = 29 kg. ✅
 - **C** — 30 = asal pilih nilai tengah.
 - **D** — 116 = jumlah total, lupa dibagi banyak karung.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan berat semua karung (25+30+28+33 = 116).
+  2. Hitung banyak karung (4).
+  3. Bagi jumlah dengan banyak (116 ÷ 4 = 29 kg).
 
 ---
 
@@ -167,6 +179,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Jumlah = Mean × Banyak = 75 × 6 = 450. ✅
 - **D** — 75 = mean itu sendiri, salah baca soal.
 
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean dengan banyak nilai (75 × 6).
+  2. Hasil perkalian adalah jumlah total.
+  3. Jumlah seluruh nilai = 450.
+
 ---
 
 **4.** Jumlah nilai 8 siswa adalah 640. Berapa rata-rata nilainya?
@@ -181,6 +199,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 64 = 640 ÷ 10, salah pembagi.
 - **C** — 800 = 640 × 10/8, asal-asalan.
 - **D** — Benar. Mean = 640 ÷ 8 = 80. ✅
+
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah nilai dengan banyak siswa (640 ÷ 8).
+  2. Hasil bagi adalah mean.
+  3. Mean = 80.
 
 ---
 
@@ -197,6 +221,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 132 = salah satu data, asal pilih.
 - **D** — 134 = sembarang.
 
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah total dari mean × banyak data (130 × 5 = 650).
+  2. Jumlahkan 4 data yang diketahui (128+132+125+135 = 520).
+  3. Kurangi total dengan jumlah tersebut untuk dapat data kelima (650 − 520 = 130 cm).
+
 ---
 
 **6.** Nilai 5 ulangan IPA: 70, 80, 60, 90, 75. Berapa rata-ratanya?
@@ -211,6 +241,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 80 = salah satu nilai, asal pilih.
 - **C** — Benar. Jumlah = 70+80+60+90+75 = 375. Mean = 375 ÷ 5 = 75. ✅
 - **D** — 375 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima nilai (70+80+60+90+75 = 375).
+  2. Hitung banyak data (5).
+  3. Bagi jumlah dengan banyak data (375 ÷ 5 = 75).
 
 ---
 
@@ -227,6 +263,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Jumlah = 32 × 10 = 320 kg. ✅
 - **D** — 32 = mean itu sendiri.
 
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean dengan banyak siswa (32 × 10).
+  2. Hasilnya adalah jumlah total berat badan.
+  3. Jumlah = 320 kg.
+
 ---
 
 **8.** Jumlah nilai 5 anak adalah 425. Berapa rata-rata nilainya?
@@ -241,6 +283,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 75 = 375 ÷ 5, salah jumlah.
 - **C** — 80 = 400 ÷ 5, salah jumlah.
 - **D** — 90 = 450 ÷ 5, salah jumlah.
+
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah nilai dengan banyak anak (425 ÷ 5).
+  2. Hasil bagi adalah mean.
+  3. Mean = 85.
 
 ---
 
@@ -257,6 +305,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 20 = nilai tengah, asal pilih.
 - **D** — 23 = sembarang, mungkin (24+22)÷2.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan tinggi keempat tanaman (18+22+20+24 = 84).
+  2. Hitung banyak data (4).
+  3. Bagi jumlah dengan banyak (84 ÷ 4 = 21 cm).
+
 ---
 
 **10.** Rata-rata gaji 4 pegawai adalah Rp2.500.000. Berapa total gaji 4 pegawai tersebut?
@@ -271,6 +325,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 2.500.000 = mean itu sendiri.
 - **C** — Benar. Total = 2.500.000 × 4 = 10.000.000. ✅
 - **D** — 7.500.000 = 2.500.000 × 3, salah hitung banyak pegawai.
+
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean gaji dengan banyak pegawai (2.500.000 × 4).
+  2. Hasil perkalian adalah total gaji.
+  3. Total = Rp10.000.000.
 
 ---
 
@@ -287,6 +347,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Mean = 30 ÷ 6 = 5 kg. ✅
 - **D** — 36 = 30 + 6, salah operasi.
 
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah berat dengan banyak semangka (30 ÷ 6).
+  2. Hasil bagi adalah mean.
+  3. Mean = 5 kg.
+
 ---
 
 **12.** Tabel nilai ulangan 5 anak: Andi 70, Budi 80, Citra 90, Dedi 60, Eka 75. Berapa rata-rata nilai mereka?
@@ -301,6 +367,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 70 = salah satu nilai, asal pilih.
 - **C** — Benar. Jumlah = 70+80+90+60+75 = 375. Mean = 375 ÷ 5 = 75. ✅
 - **D** — 65 = sembarang.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan seluruh nilai (70+80+90+60+75 = 375).
+  2. Hitung banyak anak (5).
+  3. Bagi jumlah dengan banyak (375 ÷ 5 = 75).
 
 ---
 
@@ -317,6 +389,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 5 = 12 − 7, salah operasi.
 - **D** — 12 = mean itu sendiri.
 
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean dengan banyak bilangan (12 × 7).
+  2. Hasil perkalian adalah jumlah total.
+  3. Jumlah = 84.
+
 ---
 
 **14.** Lima anak masing-masing memiliki uang Rp10.000, Rp15.000, Rp20.000, Rp12.000, dan Rp18.000. Berapa rata-rata uang mereka?
@@ -331,6 +409,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 75.000. Mean = 75.000 ÷ 5 = 15.000. ✅
 - **C** — 16.000 = (10+20)÷2 × 1.000 + sembarang.
 - **D** — 75.000 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan seluruh uang (10.000+15.000+20.000+12.000+18.000 = 75.000).
+  2. Hitung banyak anak (5).
+  3. Bagi jumlah dengan banyak (75.000 ÷ 5 = 15.000).
 
 ---
 
@@ -347,6 +431,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 27 = nilai terkecil, asal pilih.
 - **D** — Benar. Jumlah = 28+30+27+31 = 116. Mean = 116 ÷ 4 = 29°C. ✅
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keempat suhu (28+30+27+31 = 116).
+  2. Hitung banyak data (4).
+  3. Bagi jumlah dengan banyak (116 ÷ 4 = 29°C).
+
 ---
 
 **16.** Rata-rata nilai 8 anak adalah 70. Jika ditambahkan 1 anak baru bernilai 88, berapa rata-rata yang baru?
@@ -361,6 +451,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 79 = (70+88) ÷ 2, salah konsep "rata-rata dari rata-rata".
 - **C** — 70 = tetap mean lama, asal jawab.
 - **D** — 88 = nilai anak baru, salah baca soal.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Cari jumlah lama = mean lama × banyak lama (70 × 8 = 560).
+  2. Tambahkan nilai anak baru (560+88 = 648).
+  3. Bagi dengan banyak data baru (648 ÷ 9 = 72).
 
 ---
 
@@ -377,6 +473,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 51 = sembarang.
 - **D** — 250 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima berat telur (50+55+48+52+45 = 250).
+  2. Hitung banyak telur (5).
+  3. Bagi jumlah dengan banyak (250 ÷ 5 = 50 g).
+
 ---
 
 **18.** Rata-rata nilai 4 ulangan Adi adalah 75. Berapa total nilai 4 ulangan Adi?
@@ -391,6 +493,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 18,75 = 75 ÷ 4, salah arah.
 - **C** — 79 = 75 + 4, salah operasi.
 - **D** — Benar. Total = 75 × 4 = 300. ✅
+
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean dengan banyak ulangan (75 × 4).
+  2. Hasil perkalian adalah total nilai.
+  3. Total = 300.
 
 ---
 
@@ -407,6 +515,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Mean = 175 ÷ 5 = 35 kg. ✅
 - **D** — 40 = 200 ÷ 5, salah jumlah.
 
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah berat dengan banyak anak (175 ÷ 5).
+  2. Hasil bagi adalah mean.
+  3. Mean = 35 kg.
+
 ---
 
 **20.** Tinggi 6 pohon (cm): 150, 160, 155, 170, 165, 160. Berapa rata-ratanya?
@@ -421,6 +535,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 155 = salah satu data, asal pilih.
 - **C** — 165 = salah satu data, asal pilih.
 - **D** — 170 = nilai tertinggi, asal pilih.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keenam tinggi pohon (150+160+155+170+165+160 = 960).
+  2. Hitung banyak pohon (6).
+  3. Bagi jumlah dengan banyak (960 ÷ 6 = 160 cm).
 
 ---
 
@@ -437,6 +557,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 12 = (14+10)÷2, salah konsep.
 - **D** — 9 = sembarang.
 
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total umur = mean × banyak anak (10 × 3 = 30).
+  2. Jumlahkan umur yang diketahui (14+6 = 20).
+  3. Kurangi total dengan jumlah tersebut untuk dapat umur anak tengah (30 − 20 = 10 tahun).
+
 ---
 
 **22.** Tabel hasil panen 4 petani (kuintal): Pak A=20, Pak B=25, Pak C=30, Pak D=25. Berapa rata-rata hasil panen?
@@ -451,6 +577,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 20+25+30+25 = 100. Mean = 100 ÷ 4 = 25 kuintal. ✅
 - **C** — 26 = sembarang.
 - **D** — 100 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan hasil panen keempat petani (20+25+30+25 = 100).
+  2. Hitung banyak petani (4).
+  3. Bagi jumlah dengan banyak (100 ÷ 4 = 25 kuintal).
 
 ---
 
@@ -467,6 +599,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Bilangan ganjil berurutan dengan rata-rata 11 adalah 7, 9, 11, 13, 15. Bilangan terbesar = 15. ✅
 - **D** — 17 = salah hitung jumlah selisih.
 
+- **Konsep kunci:** Pada data berurutan dengan beda tetap, mean sama dengan nilai tengah (atau rata-rata dua nilai tengah jika banyak data genap).
+- **Langkah Penyelesaian:**
+  1. Karena mean sama dengan nilai tengah (11), cari bilangan ganjil sebelum dan sesudahnya dengan beda 2.
+  2. Susun kelima bilangan ganjil berurutan tersebut (7, 9, 11, 13, 15).
+  3. Ambil bilangan terbesar dari deretan (15).
+
 ---
 
 **24.** Pak Ali mengukur berat 5 ikan yang ia tangkap: 1,2 kg, 1,5 kg, 1,8 kg, 2,0 kg, dan 1,5 kg. Berapa rata-rata berat ikan?
@@ -481,6 +619,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 1,2+1,5+1,8+2,0+1,5 = 8,0. Mean = 8,0 ÷ 5 = 1,6 kg. ✅
 - **C** — 1,8 = salah satu data, asal pilih.
 - **D** — 8 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima berat ikan (1,2+1,5+1,8+2,0+1,5 = 8,0).
+  2. Hitung banyak ikan (5).
+  3. Bagi jumlah dengan banyak (8,0 ÷ 5 = 1,6 kg).
 
 ---
 
@@ -497,6 +641,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 720 = jumlah total, lupa dibagi.
 - **D** — Benar. Mean = 720 ÷ 9 = 80. ✅
 
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah nilai dengan banyak anak (720 ÷ 9).
+  2. Hasil bagi adalah mean.
+  3. Mean = 80.
+
 ---
 
 **26.** Rata-rata berat 5 paket adalah 4 kg. Jika ditambahkan paket keenam seberat 10 kg, berapa rata-rata berat baru?
@@ -511,6 +661,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 7 = (4+10) ÷ 2, salah konsep "rata-rata dari rata-rata".
 - **C** — 4 = tetap mean lama, asal jawab.
 - **D** — 6 = sembarang.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Cari jumlah lama (4 × 5 = 20).
+  2. Tambahkan berat paket baru (20+10 = 30).
+  3. Bagi dengan banyak data baru (30 ÷ 6 = 5 kg).
 
 ---
 
@@ -527,6 +683,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 80 = salah satu data, asal pilih.
 - **D** — 465 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keenam nilai (65+70+75+80+85+90 = 465).
+  2. Hitung banyak data (6).
+  3. Bagi jumlah dengan banyak (465 ÷ 6 = 77,5).
+
 ---
 
 **28.** Rata-rata uang saku 4 anak adalah Rp5.000. Jumlah uang saku mereka adalah …
@@ -541,6 +703,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 9.000 = 5.000 + 4.000, salah operasi.
 - **C** — Benar. Jumlah = 5.000 × 4 = 20.000. ✅
 - **D** — 5.000 = mean itu sendiri.
+
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean uang saku dengan banyak anak (5.000 × 4).
+  2. Hasil perkalian adalah jumlah total.
+  3. Jumlah = Rp20.000.
 
 ---
 
@@ -557,6 +725,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Jumlah awal = 9×5 = 45. Sisa = 45−12 = 33. Mean baru = 33 ÷ 4 = 8,25 tahun. ✅
 - **D** — 10 = sembarang.
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Cari jumlah awal (9 × 5 = 45).
+  2. Kurangi dengan umur anak yang pindah (45 − 12 = 33).
+  3. Bagi dengan banyak data baru (33 ÷ 4 = 8,25 tahun).
+
 ---
 
 **30.** Banyaknya buku yang dipinjam 5 hari berturut-turut adalah 8, 12, 10, 15, dan 5 buku. Berapa rata-rata buku yang dipinjam per hari?
@@ -571,6 +745,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 12 = salah satu data, asal pilih.
 - **C** — Benar. Jumlah = 8+12+10+15+5 = 50. Mean = 50 ÷ 5 = 10 buku. ✅
 - **D** — 50 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan buku yang dipinjam 5 hari (8+12+10+15+5 = 50).
+  2. Hitung banyak hari (5).
+  3. Bagi jumlah dengan banyak (50 ÷ 5 = 10 buku).
 
 ---
 
@@ -587,6 +767,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Total = 80 × 6 = 480 orang. ✅
 - **D** — 80 = mean itu sendiri.
 
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean pengunjung dengan banyak hari (80 × 6).
+  2. Hasil perkalian adalah total pengunjung.
+  3. Total = 480 orang.
+
 ---
 
 **32.** Nilai ulangan Dini selama 5 minggu: 85, 90, 75, 80, 90. Berapa rata-ratanya?
@@ -601,6 +787,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 85 = salah satu data, asal pilih.
 - **C** — Benar. Jumlah = 85+90+75+80+90 = 420. Mean = 420 ÷ 5 = 84. ✅
 - **D** — 420 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima nilai ulangan (85+90+75+80+90 = 420).
+  2. Hitung banyak data (5).
+  3. Bagi jumlah dengan banyak (420 ÷ 5 = 84).
 
 ---
 
@@ -617,6 +809,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Total = 50×4 = 200. Bilangan ke-4 = 200 − 45 − 48 − 52 = 55. ✅
 - **D** — 50 = mean itu sendiri, asal jawab.
 
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total = mean × banyak data (50 × 4 = 200).
+  2. Jumlahkan 3 bilangan yang diketahui (45+48+52 = 145).
+  3. Kurangi total dengan jumlah tersebut untuk dapat bilangan keempat (200 − 145 = 55).
+
 ---
 
 **34.** Berat 5 keranjang buah (kg): 12, 15, 18, 20, 25. Berapa rata-rata berat satu keranjang?
@@ -631,6 +829,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 12+15+18+20+25 = 90. Mean = 90 ÷ 5 = 18 kg. ✅
 - **C** — 20 = salah satu data, asal pilih.
 - **D** — 90 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima berat keranjang (12+15+18+20+25 = 90).
+  2. Hitung banyak keranjang (5).
+  3. Bagi jumlah dengan banyak (90 ÷ 5 = 18 kg).
 
 ---
 
@@ -647,6 +851,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 142 = salah satu data, asal pilih.
 - **D** — 145 = sembarang.
 
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total = mean × banyak anak (140 × 3 = 420).
+  2. Jumlahkan 2 data yang diketahui (138+142 = 280).
+  3. Kurangi total dengan jumlah tersebut untuk dapat tinggi anak ketiga (420 − 280 = 140 cm).
+
 ---
 
 **36.** Sebuah keluarga terdiri dari 5 orang dengan gaji ayah Rp5.000.000, ibu Rp3.500.000, kakak Rp2.500.000, paman Rp4.000.000, dan bibi Rp5.000.000. Berapa rata-rata gaji per orang?
@@ -661,6 +871,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 3.500.000 = salah satu data, asal pilih.
 - **C** — 5.000.000 = salah satu data, asal pilih.
 - **D** — 20.000.000 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan seluruh gaji (5jt+3,5jt+2,5jt+4jt+5jt = 20 juta).
+  2. Hitung banyak orang (5).
+  3. Bagi jumlah dengan banyak (20 juta ÷ 5 = 4 juta).
 
 ---
 
@@ -677,6 +893,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 31 = 24+7, sembarang.
 - **D** — Benar. Jumlah lama = 25×8 = 200. Jumlah baru = 24×7 = 168. Yang dihapus = 200 − 168 = 32. ✅
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama = mean lama × banyak lama (25 × 8 = 200).
+  2. Hitung jumlah baru = mean baru × banyak baru (24 × 7 = 168).
+  3. Kurangi jumlah lama dengan jumlah baru untuk dapat bilangan yang dihapus (200 − 168 = 32).
+
 ---
 
 **38.** Lima orang petani memanen padi: 80 kg, 90 kg, 75 kg, 85 kg, 70 kg. Berapa rata-rata hasil panen per petani?
@@ -691,6 +913,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 80+90+75+85+70 = 400. Mean = 400 ÷ 5 = 80 kg. ✅
 - **C** — 85 = salah satu data, asal pilih.
 - **D** — 400 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan hasil panen kelima petani (80+90+75+85+70 = 400).
+  2. Hitung banyak petani (5).
+  3. Bagi jumlah dengan banyak (400 ÷ 5 = 80 kg).
 
 ---
 
@@ -707,6 +935,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 126 = 1.260 ÷ 10, salah pembagi.
 - **D** — 1.260 = jumlah total.
 
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi total tinggi dengan banyak pemain (1.260 ÷ 7).
+  2. Hasil bagi adalah mean.
+  3. Mean = 180 cm.
+
 ---
 
 **40.** Nilai matematika Andi dalam 4 ulangan adalah 70, 80, 85, dan 65. Berapa rata-rata nilai Andi?
@@ -721,6 +955,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 80 = salah satu data, asal pilih.
 - **C** — 70 = salah satu data, asal pilih.
 - **D** — 300 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keempat nilai (70+80+85+65 = 300).
+  2. Hitung banyak ulangan (4).
+  3. Bagi jumlah dengan banyak (300 ÷ 4 = 75).
 
 ---
 
@@ -737,6 +977,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 78 = sembarang.
 - **D** — 76 = sembarang.
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (80 × 6 = 480).
+  2. Kurangi nilai yang dihapus (480 − 70 = 410).
+  3. Bagi dengan banyak data baru (410 ÷ 5 = 82).
+
 ---
 
 **42.** Empat siswa membeli buku dengan harga Rp25.000, Rp30.000, Rp35.000, dan Rp50.000. Berapa rata-rata harga buku?
@@ -751,6 +997,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 32.500 = (25+30+35+40)÷4, salah baca data terakhir.
 - **C** — Benar. Jumlah = 25+30+35+50 = 140. Mean = 140 ÷ 4 = 35 ribu. ✅
 - **D** — 140.000 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keempat harga buku (25.000+30.000+35.000+50.000 = 140.000).
+  2. Hitung banyak buku (4).
+  3. Bagi jumlah dengan banyak (140.000 ÷ 4 = 35.000).
 
 ---
 
@@ -767,6 +1019,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 16 = sembarang.
 - **D** — 70 = total seluruhnya, salah baca pertanyaan.
 
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total = mean × banyak bilangan (14 × 5 = 70).
+  2. Jumlahkan 3 bilangan yang diketahui (10+12+14 = 36).
+  3. Kurangi total dengan jumlah tersebut untuk dapat jumlah 2 bilangan terakhir (70 − 36 = 34).
+
 ---
 
 **44.** Rata-rata berat 10 ekor ayam adalah 1,5 kg. Berapa berat total 10 ekor ayam?
@@ -781,6 +1039,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 0,15 = 1,5 ÷ 10, salah arah.
 - **C** — 11,5 = 1,5 + 10, salah operasi.
 - **D** — 1,5 = mean itu sendiri.
+
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean berat dengan banyak ayam (1,5 × 10).
+  2. Hasil perkalian adalah berat total.
+  3. Total = 15 kg.
 
 ---
 
@@ -797,6 +1061,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Jumlah = 6+8+7+9+10 = 40. Mean = 40 ÷ 5 = 8. ✅
 - **D** — 40 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima nilai (6+8+7+9+10 = 40).
+  2. Hitung banyak siswa (5).
+  3. Bagi jumlah dengan banyak (40 ÷ 5 = 8).
+
 ---
 
 **46.** Rata-rata uang saku 6 anak adalah Rp4.000. Jika ditambahkan 1 anak dengan uang saku Rp11.000, berapa rata-rata baru?
@@ -811,6 +1081,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah lama = 4.000×6 = 24.000. Jumlah baru = 24.000+11.000 = 35.000. Banyak = 7. Mean = 35.000 ÷ 7 = 5.000. ✅
 - **C** — 4.500 = sembarang.
 - **D** — 7.500 = (4.000+11.000) ÷ 2, salah konsep "rata-rata dari rata-rata".
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (4.000 × 6 = 24.000).
+  2. Tambahkan uang saku anak baru (24.000+11.000 = 35.000).
+  3. Bagi dengan banyak data baru (35.000 ÷ 7 = 5.000).
 
 ---
 
@@ -827,6 +1103,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — Benar. Jumlah = 142+138+145+140+135 = 700. Mean = 700 ÷ 5 = 140 cm. ✅
 - **D** — 700 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima tinggi anak (142+138+145+140+135 = 700).
+  2. Hitung banyak anak (5).
+  3. Bagi jumlah dengan banyak (700 ÷ 5 = 140 cm).
+
 ---
 
 **48.** Rata-rata 8 bilangan adalah 7. Berapa jumlah seluruh bilangan?
@@ -841,6 +1123,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — Benar. Jumlah = 7×8 = 56. ✅
 - **C** — 1,14 = 8÷7, salah arah.
 - **D** — 7 = mean itu sendiri.
+
+- **Konsep kunci:** Jumlah seluruh data dicari dengan mengalikan mean dengan banyak data (Jumlah = Mean x Banyak data).
+- **Langkah Penyelesaian:**
+  1. Kalikan mean dengan banyak bilangan (7 × 8).
+  2. Hasil perkalian adalah jumlah total.
+  3. Jumlah = 56.
 
 ---
 
@@ -857,6 +1145,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **C** — 75 = salah satu data, asal pilih.
 - **D** — 350 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan penjualan telur 5 hari (60+75+50+80+85 = 350).
+  2. Hitung banyak hari (5).
+  3. Bagi jumlah dengan banyak (350 ÷ 5 = 70 butir).
+
 ---
 
 **50.** Jumlah berat 4 anak adalah 120 kg. Berapa rata-rata berat per anak?
@@ -871,6 +1165,12 @@ Bila Mira ingin rata-rata ulangan = 85 dari 5 ulangan, dan 4 ulangan = 80, 82, 8
 - **B** — 40 = 120 ÷ 3, salah pembagi.
 - **C** — 24 = 120 ÷ 5, salah pembagi.
 - **D** — 25 = sembarang.
+
+- **Konsep kunci:** Mean dicari dengan membagi jumlah seluruh data dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Bagi jumlah berat dengan banyak anak (120 ÷ 4).
+  2. Hasil bagi adalah mean.
+  3. Mean = 30 kg.
 
 ---
 
@@ -898,6 +1198,12 @@ Berapa rata-rata nilai siswa?
 - **C** — Benar. Σ(nilai×freq) = 6·4+7·6+8·8+9·2 = 24+42+64+18 = 148. Σfreq = 20. Mean = 148 ÷ 20 = 7,4. ✅
 - **D** — 8,0 = nilai dengan frekuensi tertinggi (modus), bukan mean.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (6×4+7×6+8×8+9×2 = 148).
+  2. Jumlahkan seluruh frekuensi (4+6+8+2 = 20).
+  3. Bagi total perkalian dengan total frekuensi (148 ÷ 20 = 7,4).
+
 ---
 
 **52.** Rata-rata 5 nilai ulangan Banu adalah 78. Jika nilai ulangan ke-6 adalah 90, berapa rata-rata baru Banu?
@@ -912,6 +1218,12 @@ Berapa rata-rata nilai siswa?
 - **B** — Benar. Jumlah lama = 78×5 = 390. Jumlah baru = 390+90 = 480. Banyak = 6. Mean = 480 ÷ 6 = 80. ✅
 - **C** — 82 = sembarang.
 - **D** — 78 = tetap mean lama.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (78 × 5 = 390).
+  2. Tambahkan nilai ulangan ke-6 (390+90 = 480).
+  3. Bagi dengan banyak data baru (480 ÷ 6 = 80).
 
 ---
 
@@ -928,6 +1240,12 @@ Berapa rata-rata nilai siswa?
 - **C** — Benar. Jumlah A = 25×80 = 2.000. Jumlah B = 15×72 = 1.080. Total = 3.080. Banyak = 40. Mean = 3.080 ÷ 40 = 77. ✅
 - **D** — 78 = sembarang.
 
+- **Konsep kunci:** Mean gabungan dua kelompok dicari dengan menjumlahkan total masing-masing kelompok lalu dibagi total banyak data, bukan rata-rata dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap mean kelompok jadi jumlah (25×80 = 2.000 dan 15×72 = 1.080).
+  2. Jumlahkan kedua jumlah dan kedua banyak siswa (3.080 dan 40).
+  3. Bagi jumlah total dengan banyak total (3.080 ÷ 40 = 77).
+
 ---
 
 **54.** Rata-rata 4 bilangan asli berurutan adalah 17,5. Bilangan terbesar adalah …
@@ -942,6 +1260,12 @@ Berapa rata-rata nilai siswa?
 - **B** — Benar. Empat bilangan asli berurutan rata-rata 17,5 adalah 16, 17, 18, 19. Terbesar = 19. ✅
 - **C** — 18 = bilangan ketiga, bukan terbesar.
 - **D** — 20 = salah jumlah selisih.
+
+- **Konsep kunci:** Pada data berurutan dengan beda tetap, mean sama dengan nilai tengah (atau rata-rata dua nilai tengah jika banyak data genap).
+- **Langkah Penyelesaian:**
+  1. Karena banyak data genap, mean berada di antara dua nilai tengah.
+  2. Susun bilangan asli berurutan yang mean-nya 17,5 (16, 17, 18, 19).
+  3. Ambil bilangan terbesar dari deretan (19).
 
 ---
 
@@ -967,6 +1291,12 @@ Berapa rata-rata tinggi siswa?
 - **C** — Benar. Σ(nilai×freq) = 420+725+1.050+775 = 2.990. Σfreq = 20. Mean = 2.990 ÷ 20 = 149,5 cm. ✅
 - **D** — 150 = modus (frekuensi tertinggi), bukan mean.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (140×3+145×5+150×7+155×5 = 2.990).
+  2. Jumlahkan seluruh frekuensi (3+5+7+5 = 20).
+  3. Bagi total perkalian dengan total frekuensi (2.990 ÷ 20 = 149,5 cm).
+
 ---
 
 **56.** Rata-rata nilai 30 siswa adalah 75. Jika 5 siswa berikut keluar dengan rata-rata 60, berapa rata-rata 25 siswa sisanya?
@@ -981,6 +1311,12 @@ Berapa rata-rata tinggi siswa?
 - **B** — 80 = sembarang.
 - **C** — 75 = tetap mean lama, asal jawab.
 - **D** — 90 = sembarang.
+
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah awal (30 × 75 = 2.250).
+  2. Hitung jumlah 5 siswa yang keluar (5 × 60 = 300) lalu kurangi dari jumlah awal (2.250 − 300 = 1.950).
+  3. Bagi dengan banyak siswa sisa (1.950 ÷ 25 = 78).
 
 ---
 
@@ -997,6 +1333,12 @@ Berapa rata-rata tinggi siswa?
 - **C** — Benar. Jumlah = 25+30+28+35+40+32+28 = 218. Mean = 218 ÷ 7 = 31,14... ≈ 31 potong. ✅ (Lebih tepat 31,14, namun dibulatkan jadi 31.)
 - **D** — 218 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan ketujuh data penjualan (25+30+28+35+40+32+28 = 218).
+  2. Hitung banyak hari (7).
+  3. Bagi jumlah dengan banyak dan bulatkan (218 ÷ 7 ≈ 31,14 dibulatkan jadi 31 potong).
+
 ---
 
 **58.** Rata-rata 6 bilangan adalah 12. Jika ditambah bilangan ke-7 menjadi 14, berapa nilai bilangan ke-7?
@@ -1011,6 +1353,12 @@ Berapa rata-rata tinggi siswa?
 - **B** — Benar. Jumlah lama = 12×6 = 72. Jumlah baru = 14×7 = 98. Bilangan ke-7 = 98 − 72 = 26. ✅
 - **C** — 14 = mean baru, asal jawab.
 - **D** — 28 = sembarang.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (12 × 6 = 72).
+  2. Hitung jumlah baru (14 × 7 = 98).
+  3. Kurangi jumlah baru dengan jumlah lama untuk dapat bilangan ke-7 (98 − 72 = 26).
 
 ---
 
@@ -1027,6 +1375,12 @@ Berapa rata-rata tinggi siswa?
 - **C** — 6,5 = salah satu data, asal pilih.
 - **D** — Benar. Jumlah = 5,5+6,2+7,0+5,8+6,5+7,2 = 38,2. Mean = 38,2 ÷ 6 = 6,3666... ≈ 6,37 kg. ✅
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keenam berat paket (5,5+6,2+7,0+5,8+6,5+7,2 = 38,2).
+  2. Hitung banyak paket (6).
+  3. Bagi jumlah dengan banyak (38,2 ÷ 6 ≈ 6,37 kg).
+
 ---
 
 **60.** Mean dari 8 bilangan adalah 15. Jika dua bilangan baru 22 dan 18 ditambahkan, berapa mean baru?
@@ -1042,6 +1396,12 @@ Berapa rata-rata tinggi siswa?
 - **C** — 17 = sembarang.
 - **D** — 20 = mean dari dua bilangan baru saja, salah konsep.
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (15 × 8 = 120).
+  2. Tambahkan kedua bilangan baru (120+22+18 = 160).
+  3. Bagi dengan banyak data baru (160 ÷ 10 = 16).
+
 ---
 
 **61.** Rata-rata umur 5 siswa adalah 11 tahun. Jika seorang guru berumur 35 tahun bergabung, berapa rata-rata umur baru?
@@ -1056,6 +1416,12 @@ Berapa rata-rata tinggi siswa?
 - **B** — 11 = tetap mean lama, asal jawab.
 - **C** — Benar. Jumlah lama = 11×5 = 55. Jumlah baru = 55+35 = 90. Banyak = 6. Mean = 90 ÷ 6 = 15 tahun. ✅
 - **D** — 23 = (11+35) ÷ 2, salah konsep.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (11 × 5 = 55).
+  2. Tambahkan umur guru (55+35 = 90).
+  3. Bagi dengan banyak data baru (90 ÷ 6 = 15 tahun).
 
 ---
 
@@ -1082,6 +1448,12 @@ Berapa rata-rata nilainya?
 - **C** — 7,2 = salah hitung perkalian.
 - **D** — 7,3 = sembarang.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (5×2+6×3+7×8+8×5+9×2 = 142).
+  2. Jumlahkan seluruh frekuensi (2+3+8+5+2 = 20).
+  3. Bagi total perkalian dengan total frekuensi (142 ÷ 20 = 7,1).
+
 ---
 
 **63.** Nilai rata-rata Matematika 12 siswa adalah 82. Setelah ditambahkan nilai 3 siswa baru, rata-rata menjadi 80. Berapa rata-rata nilai 3 siswa baru?
@@ -1096,6 +1468,12 @@ Berapa rata-rata nilainya?
 - **B** — Benar. Jumlah lama = 82×12 = 984. Jumlah baru = 80×15 = 1.200. Jumlah 3 siswa baru = 1.200 − 984 = 216. Mean 3 siswa baru = 216 ÷ 3 = 72. ✅
 - **C** — 70 = sembarang.
 - **D** — 75 = sembarang.
+
+- **Konsep kunci:** Jumlah kelompok kedua dicari dari selisih jumlah gabungan dengan jumlah kelompok pertama, baru dibagi banyaknya.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (82 × 12 = 984).
+  2. Hitung jumlah baru (80 × 15 = 1.200).
+  3. Kurangi jumlah baru dengan jumlah lama, lalu bagi dengan banyak siswa baru ((1.200 − 984) ÷ 3 = 72).
 
 ---
 
@@ -1112,6 +1490,12 @@ Berapa rata-rata nilainya?
 - **C** — 37 = (32+42) ÷ 2, salah konsep.
 - **D** — Benar. Jumlah lama = 32×4 = 128. Jumlah baru = 128+42 = 170. Banyak = 5. Mean = 170 ÷ 5 = 34 kg. ✅
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (32 × 4 = 128).
+  2. Tambahkan berat anak ke-5 (128+42 = 170).
+  3. Bagi dengan banyak data baru (170 ÷ 5 = 34 kg).
+
 ---
 
 **65.** Rata-rata gaji 3 orang adalah Rp4.000.000. Jika ditambah seorang manajer dengan gaji Rp10.000.000, berapa rata-rata gaji 4 orang sekarang?
@@ -1126,6 +1510,12 @@ Berapa rata-rata nilainya?
 - **B** — 7.000.000 = (4+10) ÷ 2, salah konsep.
 - **C** — 5.000.000 = sembarang.
 - **D** — 4.500.000 = sembarang.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (4jt × 3 = 12 juta).
+  2. Tambahkan gaji manajer (12jt+10jt = 22 juta).
+  3. Bagi dengan banyak orang baru (22jt ÷ 4 = 5,5 juta).
 
 ---
 
@@ -1142,6 +1532,12 @@ Berapa rata-rata nilainya?
 - **C** — 29 = salah satu data, asal pilih.
 - **D** — 30 = salah satu data, asal pilih.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan ketujuh suhu (26+28+27+30+29+28+31 = 199).
+  2. Hitung banyak hari (7).
+  3. Bagi jumlah dengan banyak dan bulatkan (199 ÷ 7 ≈ 28,4 dibulatkan jadi 28°C).
+
 ---
 
 **67.** Rata-rata 9 bilangan adalah 25. Bila satu bilangan baru ditambahkan, rata-rata menjadi 27. Berapa nilai bilangan baru itu?
@@ -1157,6 +1553,12 @@ Berapa rata-rata nilainya?
 - **C** — Benar. Jumlah lama = 25×9 = 225. Jumlah baru = 27×10 = 270. Bilangan baru = 270 − 225 = 45. ✅
 - **D** — 47 = sembarang.
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (25 × 9 = 225).
+  2. Hitung jumlah baru (27 × 10 = 270).
+  3. Kurangi jumlah baru dengan jumlah lama untuk dapat bilangan baru (270 − 225 = 45).
+
 ---
 
 **68.** Sebuah perusahaan memiliki 5 sales dengan rata-rata penjualan Rp8.000.000 per bulan. Jika satu sales pindah dengan penjualan Rp4.000.000, berapa rata-rata penjualan 4 sales sisanya?
@@ -1171,6 +1573,12 @@ Berapa rata-rata nilainya?
 - **B** — 10.000.000 = sembarang.
 - **C** — 8.000.000 = tetap mean lama, asal jawab.
 - **D** — 9.500.000 = sembarang.
+
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah awal (8jt × 5 = 40 juta).
+  2. Kurangi dengan penjualan sales yang pindah (40jt − 4jt = 36 juta).
+  3. Bagi dengan banyak sales sisa (36jt ÷ 4 = 9 juta).
 
 ---
 
@@ -1196,6 +1604,12 @@ Berapa rata-rata nilainya?
 - **C** — 72,8 = sembarang.
 - **D** — 80 = salah satu nilai, asal pilih.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (60×5+70×10+80×7+90×3 = 1.830).
+  2. Jumlahkan seluruh frekuensi (5+10+7+3 = 25).
+  3. Bagi total perkalian dengan total frekuensi (1.830 ÷ 25 = 73,2).
+
 ---
 
 **70.** Rata-rata 8 ulangan Ani adalah 75. Setelah ditambahkan 2 ulangan baru, rata-ratanya menjadi 77. Berapa rata-rata 2 ulangan baru tersebut?
@@ -1210,6 +1624,12 @@ Berapa rata-rata nilainya?
 - **B** — Benar. Jumlah lama = 75×8 = 600. Jumlah baru = 77×10 = 770. Jumlah 2 ulangan baru = 770 − 600 = 170. Mean 2 ulangan baru = 170 ÷ 2 = 85. ✅
 - **C** — 76 = mean dari mean, salah konsep.
 - **D** — 77 = mean keseluruhan, asal jawab.
+
+- **Konsep kunci:** Jumlah kelompok kedua dicari dari selisih jumlah gabungan dengan jumlah kelompok pertama, baru dibagi banyaknya.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (75 × 8 = 600).
+  2. Hitung jumlah baru (77 × 10 = 770).
+  3. Kurangi jumlah baru dengan jumlah lama, lalu bagi dengan banyak data baru ((770 − 600) ÷ 2 = 85).
 
 ---
 
@@ -1226,6 +1646,12 @@ Berapa rata-rata nilainya?
 - **C** — Benar. Karena beda tetap, nilai tengah = mean = 20. Selisih = (20−16)÷2 = 2. Nilai = 16, 18, 20, 22, 24. Terbesar = 24. ✅
 - **D** — 25 = salah hitung selisih.
 
+- **Konsep kunci:** Pada data berurutan dengan beda tetap, mean sama dengan nilai tengah (atau rata-rata dua nilai tengah jika banyak data genap).
+- **Langkah Penyelesaian:**
+  1. Karena banyak data ganjil, mean sama dengan nilai tengah (20).
+  2. Cari beda antar data dari nilai terkecil ke nilai tengah ((20 − 16) ÷ 2 = 2).
+  3. Susun deret dan ambil nilai terbesar (16, 18, 20, 22, 24 → terbesar 24).
+
 ---
 
 **72.** Rata-rata berat 5 anak laki-laki adalah 35 kg, dan rata-rata berat 4 anak perempuan adalah 30 kg. Berapa rata-rata berat seluruh 9 anak?
@@ -1240,6 +1666,12 @@ Berapa rata-rata nilainya?
 - **B** — Benar. Jumlah L = 35×5 = 175. Jumlah P = 30×4 = 120. Total = 295. Banyak = 9. Mean = 295 ÷ 9 = 32,78 kg. ✅
 - **C** — 33 = pembulatan asal.
 - **D** — 32 = sembarang.
+
+- **Konsep kunci:** Mean gabungan dua kelompok dicari dengan menjumlahkan total masing-masing kelompok lalu dibagi total banyak data, bukan rata-rata dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap mean kelompok jadi jumlah (35×5 = 175 dan 30×4 = 120).
+  2. Jumlahkan kedua jumlah dan kedua banyak anak (295 dan 9).
+  3. Bagi jumlah total dengan banyak total (295 ÷ 9 ≈ 32,78 kg).
 
 ---
 
@@ -1268,6 +1700,12 @@ Berapa rata-ratanya?
 
 Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasil hitung Σ(nilai×freq) = 118 dan Σfreq = 20 → 5,9. Distractor A (5,5), C (6,0), D (6,1) menggambarkan miskonsepsi umum (pembulatan kasar, modus, asal-asalan).
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (4×2+5×5+6×8+7×3+8×2 = 118).
+  2. Jumlahkan seluruh frekuensi (2+5+8+3+2 = 20).
+  3. Bagi total perkalian dengan total frekuensi (118 ÷ 20 = 5,9).
+
 ---
 
 **74.** Lima orang naik bus dengan berat barang masing-masing 12 kg, 14 kg, 11 kg, 15 kg, dan 13 kg. Berapa rata-rata berat barang per orang?
@@ -1282,6 +1720,12 @@ Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasi
 - **B** — 12 = salah satu data, asal pilih.
 - **C** — 14 = salah satu data, asal pilih.
 - **D** — 65 = jumlah total, lupa dibagi.
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima berat barang (12+14+11+15+13 = 65).
+  2. Hitung banyak orang (5).
+  3. Bagi jumlah dengan banyak (65 ÷ 5 = 13 kg).
 
 ---
 
@@ -1298,6 +1742,12 @@ Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasi
 - **C** — Benar. Jumlah lama = 25×4 = 100. Jumlah baru = 28×5 = 140. Bilangan kelima = 140 − 100 = 40. ✅
 - **D** — 53 = 25+28, sembarang.
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (25 × 4 = 100).
+  2. Hitung jumlah baru (28 × 5 = 140).
+  3. Kurangi jumlah baru dengan jumlah lama untuk dapat bilangan kelima (140 − 100 = 40).
+
 ---
 
 **76.** Rata-rata waktu lari (detik) 6 siswa: 12, 13, 11, 14, 12, 14. Berapa rata-rata waktu lari?
@@ -1313,6 +1763,12 @@ Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasi
 - **C** — 12,5 = sembarang.
 - **D** — 76 = jumlah total, lupa dibagi.
 
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keenam waktu lari (12+13+11+14+12+14 = 76).
+  2. Hitung banyak siswa (6).
+  3. Bagi jumlah dengan banyak dan bulatkan (76 ÷ 6 ≈ 12,67 dibulatkan jadi 13 detik).
+
 ---
 
 **77.** Rata-rata nilai 6 siswa adalah 70. Bila salah satu siswa mengulang dan nilainya naik dari 60 ke 80, berapa rata-rata baru?
@@ -1327,6 +1783,12 @@ Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasi
 - **B** — 75 = sembarang.
 - **C** — 76,67 = sembarang.
 - **D** — Benar. Jumlah lama = 70×6 = 420. Nilai naik 20 (dari 60 ke 80). Jumlah baru = 420+20 = 440. Mean baru = 440 ÷ 6 = 73,33. ✅
+
+- **Konsep kunci:** Perubahan satu data mengubah mean sebesar selisih data tersebut dibagi banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih kenaikan nilai (80 − 60 = 20).
+  2. Tambahkan selisih itu ke jumlah lama (70×6 + 20 = 440).
+  3. Bagi jumlah baru dengan banyak data (440 ÷ 6 ≈ 73,33).
 
 ---
 
@@ -1353,6 +1815,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — 1 = nilai dengan frekuensi tertinggi (modus), bukan mean.
 - **D** — 1,5 = nilai duplikat dengan B; pada lembar resmi distractor sebenarnya 1,2 (variasi). Pilih B sebagai kunci.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (0×3+1×8+2×6+3×2+4×1 = 30).
+  2. Jumlahkan seluruh frekuensi (3+8+6+2+1 = 20).
+  3. Bagi total perkalian dengan total frekuensi (30 ÷ 20 = 1,5).
+
 ---
 
 **79.** Rata-rata tinggi 3 anak adalah 145 cm. Jika anak baru ditambahkan dengan tinggi 153 cm, berapa mean baru tinggi 4 anak?
@@ -1368,6 +1836,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — 146,5 = sembarang.
 - **D** — 145 = tetap mean lama.
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (145 × 3 = 435).
+  2. Tambahkan tinggi anak baru (435+153 = 588).
+  3. Bagi dengan banyak data baru (588 ÷ 4 = 147 cm).
+
 ---
 
 **80.** Rata-rata uang 7 anak adalah Rp12.000. Setelah 2 anak datang dengan jumlah uang masing-masing Rp17.000 dan Rp25.000, berapa rata-rata 9 anak?
@@ -1382,6 +1856,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **B** — Benar. Jumlah lama = 12.000×7 = 84.000. Jumlah baru = 84.000+17.000+25.000 = 126.000. Banyak = 9. Mean = 126.000 ÷ 9 = 14.000. ✅
 - **C** — 15.000 = sembarang.
 - **D** — 16.000 = sembarang.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (12.000 × 7 = 84.000).
+  2. Tambahkan uang kedua anak baru (84.000+17.000+25.000 = 126.000).
+  3. Bagi dengan banyak data baru (126.000 ÷ 9 = 14.000).
 
 ---
 
@@ -1400,6 +1880,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — 1.800.000 = sembarang.
 - **D** — 1.700.000 = sembarang.
 
+- **Konsep kunci:** Jumlah kelompok kedua dicari dari selisih jumlah gabungan dengan jumlah kelompok pertama, baru dibagi banyaknya.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah 4 toko (1,5jt × 4 = 6 juta).
+  2. Hitung jumlah 5 toko (1,6jt × 5 = 8 juta).
+  3. Kurangi jumlah 5 toko dengan jumlah 4 toko untuk dapat pendapatan toko ke-5 (8jt − 6jt = 2 juta).
+
 ---
 
 **82.** Rata-rata 30 bilangan adalah 50. Jika bilangan terkecil (=20) dan terbesar (=80) dikeluarkan, berapa rata-rata 28 bilangan sisanya?
@@ -1414,6 +1900,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **B** — 51,07 = (1.500 − 100)÷29, salah pembagi.
 - **C** — 49 = sembarang.
 - **D** — 52 = sembarang.
+
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah awal (50 × 30 = 1.500).
+  2. Kurangi dengan bilangan terkecil dan terbesar yang dikeluarkan (1.500 − 20 − 80 = 1.400).
+  3. Bagi dengan banyak data sisa (1.400 ÷ 28 = 50).
 
 ---
 
@@ -1430,6 +1922,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — 95.000 = sembarang.
 - **D** — 88.000 = sembarang.
 
+- **Konsep kunci:** Mean gabungan dua kelompok dicari dengan menjumlahkan total masing-masing kelompok lalu dibagi total banyak data, bukan rata-rata dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap mean periode jadi jumlah (80rb×30 = 2,4 juta dan 100rb×10 = 1 juta).
+  2. Jumlahkan kedua jumlah dan kedua banyak hari (3,4 juta dan 40).
+  3. Bagi jumlah total dengan banyak total (3,4 juta ÷ 40 = 85 ribu).
+
 ---
 
 **84.** Rata-rata berat 6 anak adalah 28 kg. Bila ditambah dua anak baru, rata-rata menjadi 30 kg. Jika berat anak pertama dari kedua anak baru adalah 32 kg, berapa berat anak baru kedua?
@@ -1444,6 +1942,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **B** — 36 = sembarang.
 - **C** — Benar. Jumlah lama = 28×6 = 168. Jumlah baru = 30×8 = 240. Selisih = 72 (jumlah 2 anak baru). Anak baru kedua = 72 − 32 = 40 kg. ✅
 - **D** — 28 = mean lama, asal jawab.
+
+- **Konsep kunci:** Data yang belum diketahui dicari dengan mengurangi jumlah total (mean x banyak data) dengan jumlah data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama dan jumlah baru (28×6 = 168 dan 30×8 = 240).
+  2. Cari jumlah kedua anak baru dari selisihnya (240 − 168 = 72).
+  3. Kurangi dengan berat anak baru pertama untuk dapat berat anak kedua (72 − 32 = 40 kg).
 
 ---
 
@@ -1460,6 +1964,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — Benar. Bila semua bilangan ditambah 5, rata-rata juga bertambah 5. Mean baru = 18+5 = 23. ✅
 - **D** — 20 = 18+2, sembarang.
 
+- **Konsep kunci:** Jika setiap data diberi operasi yang sama (ditambah atau dikalikan bilangan tetap), mean juga mengalami operasi yang sama.
+- **Langkah Penyelesaian:**
+  1. Perhatikan bahwa setiap bilangan ditambah 5.
+  2. Karena semua data berubah sama besar, mean ikut berubah sebesar itu.
+  3. Mean baru = mean lama + 5 = 18+5 = 23.
+
 ---
 
 **86.** Dalam suatu ujian, mean nilai 12 siswa kelas A adalah 78 dan mean 8 siswa kelas B adalah 85. Bila digabung, mean kelas gabungan adalah …
@@ -1474,6 +1984,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **B** — Benar. Jumlah A = 12×78 = 936. Jumlah B = 8×85 = 680. Total = 1.616. Banyak = 20. Mean = 1.616 ÷ 20 = 80,8. ✅
 - **C** — 82 = sembarang.
 - **D** — 80 = pembulatan kasar.
+
+- **Konsep kunci:** Mean gabungan dua kelompok dicari dengan menjumlahkan total masing-masing kelompok lalu dibagi total banyak data, bukan rata-rata dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap mean kelas jadi jumlah (12×78 = 936 dan 8×85 = 680).
+  2. Jumlahkan kedua jumlah dan kedua banyak siswa (1.616 dan 20).
+  3. Bagi jumlah total dengan banyak total (1.616 ÷ 20 = 80,8).
 
 ---
 
@@ -1490,6 +2006,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **C** — 3.000.000 = sembarang.
 - **D** — 4.000.000 = tetap mean lama, asal jawab.
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah awal (4jt × 5 = 20 juta).
+  2. Kurangi dengan gaji tertinggi yang tidak dihitung (20jt − 7jt = 13 juta).
+  3. Bagi dengan banyak karyawan sisa (13jt ÷ 4 = 3,25 juta).
+
 ---
 
 **88.** Rata-rata enam bilangan adalah 14. Tiga bilangan pertama mempunyai mean 12 dan tiga bilangan berikutnya mempunyai mean x. Berapa nilai x?
@@ -1504,6 +2026,12 @@ Berapa rata-rata banyak saudara per siswa?
 - **B** — Benar. Total = 14×6 = 84. Jumlah 3 pertama = 12×3 = 36. Jumlah 3 berikut = 84 − 36 = 48. Mean = 48 ÷ 3 = 16. ✅
 - **C** — 18 = sembarang.
 - **D** — 20 = sembarang.
+
+- **Konsep kunci:** Jumlah kelompok kedua dicari dari selisih jumlah gabungan dengan jumlah kelompok pertama, baru dibagi banyaknya.
+- **Langkah Penyelesaian:**
+  1. Hitung total keenam bilangan (14 × 6 = 84).
+  2. Hitung jumlah 3 bilangan pertama (12×3 = 36) lalu kurangi dari total (84 − 36 = 48).
+  3. Bagi dengan banyak bilangan kelompok kedua (48 ÷ 3 = 16).
 
 ---
 
@@ -1532,6 +2060,12 @@ Berapa rata-rata nilainya?
 
 Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling presisi adalah ≈ 78,67. Pilihan C (79,17) muncul jika frekuensi nilai 85 dianggap 5 (bukan 4). Jika tabel benar maka mean = 78,67 ≈ 79 (bulat ke atas). Untuk konsistensi balanced key, kunci tetap **C** sebagai jawaban hitung mendekati.
 
+- **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (70×5+75×8+80×10+85×4+90×3 = 2.360).
+  2. Jumlahkan seluruh frekuensi (5+8+10+4+3 = 30).
+  3. Bagi total perkalian dengan total frekuensi (2.360 ÷ 30 ≈ 78,67).
+
 ---
 
 **90.** Rata-rata 5 bilangan adalah 20. Jika setiap bilangan dikalikan 3, berapa rata-rata baru?
@@ -1547,6 +2081,12 @@ Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling pres
 - **C** — Benar. Bila semua bilangan dikalikan 3, rata-rata juga dikalikan 3. Mean baru = 20×3 = 60. ✅
 - **D** — 20 = tetap mean lama, salah konsep.
 
+- **Konsep kunci:** Jika setiap data diberi operasi yang sama (ditambah atau dikalikan bilangan tetap), mean juga mengalami operasi yang sama.
+- **Langkah Penyelesaian:**
+  1. Perhatikan bahwa setiap bilangan dikalikan 3.
+  2. Karena semua data berubah dengan kelipatan yang sama, mean ikut dikalikan bilangan itu.
+  3. Mean baru = mean lama × 3 = 20×3 = 60.
+
 ---
 
 **91.** Pak Budi mencatat tinggi 5 pohon (cm): 120, 130, 125, 140, 135. Jika satu pohon tertinggi diukur ulang dan ternyata 145 cm (bukan 140), berapa selisih rata-rata lama dengan rata-rata baru?
@@ -1561,6 +2101,12 @@ Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling pres
 - **B** — Benar. Selisih jumlah = 145 − 140 = 5. Selisih mean = 5 ÷ 5 (banyak data) = 1 cm. ✅
 - **C** — 2 cm = sembarang.
 - **D** — 5 cm = selisih jumlah, lupa dibagi banyak data.
+
+- **Konsep kunci:** Perubahan satu data mengubah mean sebesar selisih data tersebut dibagi banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih nilai data yang diukur ulang (145 − 140 = 5).
+  2. Bagi selisih itu dengan banyak data (5 ÷ 5 = 1).
+  3. Selisih mean lama dan baru = 1 cm.
 
 ---
 
@@ -1579,6 +2125,12 @@ Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling pres
 
 Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjaga balance kunci, jika perlu disesuaikan, kunci diubah ke **B** dengan rata-rata akhir = 34. Soal ini contoh "selisih kontribusi" — Nas-level analysis.
 
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah 4 bilangan pertama (30×4 = 120) lalu tambahkan bilangan kelima (120+50 = 170).
+  2. Hitung jumlah 6 bilangan dari mean barunya (34×6 = 204).
+  3. Kurangi jumlah 6 bilangan dengan jumlah 5 bilangan untuk dapat bilangan keenam (204 − 170 = 34).
+
 ---
 
 **93.** Rata-rata berat 8 siswa adalah 32 kg. Setelah seorang siswa baru bergabung, rata-rata naik menjadi 33 kg. Berapa berat siswa baru?
@@ -1593,6 +2145,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **B** — 35 = sembarang.
 - **C** — Benar. Jumlah lama = 32×8 = 256. Jumlah baru = 33×9 = 297. Siswa baru = 297 − 256 = 41 kg. ✅
 - **D** — 42 = salah hitung.
+
+- **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (32 × 8 = 256).
+  2. Hitung jumlah baru (33 × 9 = 297).
+  3. Kurangi jumlah baru dengan jumlah lama untuk dapat berat siswa baru (297 − 256 = 41 kg).
 
 ---
 
@@ -1609,6 +2167,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **C** — 10 = mean dari mean, salah konsep.
 - **D** — 8 = sembarang.
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah awal dan jumlah sisa (15×10 = 150 dan 17×8 = 136).
+  2. Kurangi jumlah awal dengan jumlah sisa untuk dapat jumlah 2 data yang keluar (150 − 136 = 14).
+  3. Bagi dengan banyak data yang keluar (14 ÷ 2 = 7).
+
 ---
 
 **95.** Sebuah sekolah dengan 200 siswa memiliki rata-rata nilai 75. Setelah ditambah 50 siswa baru, rata-rata seluruh siswa menjadi 76. Berapa rata-rata nilai 50 siswa baru?
@@ -1623,6 +2187,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **B** — 76 = mean baru, asal jawab.
 - **C** — Benar. Jumlah lama = 200×75 = 15.000. Jumlah baru = 250×76 = 19.000. Jumlah 50 siswa baru = 19.000 − 15.000 = 4.000. Mean = 4.000 ÷ 50 = 80. ✅
 - **D** — 75 = mean lama, asal jawab.
+
+- **Konsep kunci:** Jumlah kelompok kedua dicari dari selisih jumlah gabungan dengan jumlah kelompok pertama, baru dibagi banyaknya.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama dan jumlah gabungan (200×75 = 15.000 dan 250×76 = 19.000).
+  2. Kurangi jumlah gabungan dengan jumlah lama untuk dapat jumlah siswa baru (19.000 − 15.000 = 4.000).
+  3. Bagi dengan banyak siswa baru (4.000 ÷ 50 = 80).
 
 ---
 
@@ -1639,6 +2209,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **C** — 22 = sembarang.
 - **D** — 24 = sembarang.
 
+- **Konsep kunci:** Soal mean bisa diselesaikan dengan memisalkan mean sebagai variabel lalu menyusun persamaan dari hubungan Jumlah = Mean x Banyak data.
+- **Langkah Penyelesaian:**
+  1. Nyatakan jumlah lama sebagai 5x dan jumlah baru sebagai 5x+30.
+  2. Nyatakan juga jumlah baru sebagai 6×(x+2).
+  3. Samakan kedua persamaan dan selesaikan untuk x (5x+30 = 6x+12 → x = 18).
+
 ---
 
 **97.** Lima bilangan asli berurutan dengan beda 3 mempunyai mean 22. Bilangan terkecil = …
@@ -1653,6 +2229,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **B** — Benar. Mean = bilangan tengah (untuk 5 bilangan dengan beda tetap). Bilangan tengah = 22. Bilangan = 16, 19, 22, 25, 28. Terkecil = 16. ✅
 - **C** — 13 = salah hitung beda.
 - **D** — 10 = salah hitung beda.
+
+- **Konsep kunci:** Pada data berurutan dengan beda tetap, mean sama dengan nilai tengah (atau rata-rata dua nilai tengah jika banyak data genap).
+- **Langkah Penyelesaian:**
+  1. Karena banyak data ganjil dan beda tetap, mean sama dengan nilai tengah (22).
+  2. Susun deret 5 bilangan dengan beda 3 di sekitar nilai tengah (16, 19, 22, 25, 28).
+  3. Ambil bilangan terkecil dari deret tersebut (16).
 
 ---
 
@@ -1669,6 +2251,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **C** — 76,5 = sembarang.
 - **D** — 78 = sembarang.
 
+- **Konsep kunci:** Mean gabungan dua kelompok dicari dengan menjumlahkan total masing-masing kelompok lalu dibagi total banyak data, bukan rata-rata dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap mean kelompok jadi jumlah (30×75 = 2.250 dan 5×90 = 450).
+  2. Jumlahkan kedua jumlah dan kedua banyak peserta (2.700 dan 35).
+  3. Bagi jumlah total dengan banyak total (2.700 ÷ 35 ≈ 77,14).
+
 ---
 
 **99.** Rata-rata 100 bilangan adalah 50. Setelah 1 bilangan dikurangi 10 (nilainya turun 10), berapa rata-rata baru?
@@ -1684,6 +2272,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **C** — 49 = sembarang.
 - **D** — 40 = 50 − 10, salah konsep "mean turun sebanyak nilai turun".
 
+- **Konsep kunci:** Saat data dikeluarkan atau berkurang, kurangi jumlah lama dengan data yang keluar, baru bagi dengan sisa banyak data.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah lama (50 × 100 = 5.000).
+  2. Kurangi dengan penurunan nilai satu data (5.000 − 10 = 4.990).
+  3. Bagi dengan banyak data (4.990 ÷ 100 = 49,9).
+
 ---
 
 **100.** Pak Hadi memiliki 4 anak dengan rata-rata umur 12 tahun. Bila ditambah seorang keponakan dengan umur k tahun, rata-rata umur 5 anak menjadi 13 tahun. Lalu ditambah nenek dengan umur 60 tahun, rata-rata 6 orang menjadi … tahun.
@@ -1698,6 +2292,12 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 - **B** — 22 = (13+60)/3 atau sembarang.
 - **C** — 22,5 = sembarang.
 - **D** — Benar. Jumlah 4 anak = 12×4 = 48. Jumlah 5 (dengan keponakan) = 13×5 = 65. Keponakan = 65 − 48 = 17. Jumlah 6 orang = 65 + 60 = 125. Mean = 125 ÷ 6 = 20,83 ≈ 21. ✅
+
+- **Konsep kunci:** Soal mean bertingkat diselesaikan tahap demi tahap: cari data yang belum diketahui di tahap pertama, lalu gunakan hasilnya untuk tahap berikutnya.
+- **Langkah Penyelesaian:**
+  1. Cari umur keponakan dari tahap pertama: jumlah 4 anak (12×4=48) dan jumlah 5 orang (13×5=65), keponakan = 65−48 = 17.
+  2. Tambahkan umur nenek ke jumlah 5 orang (65+60 = 125).
+  3. Bagi dengan banyak orang seluruhnya (125 ÷ 6 ≈ 20,83 dibulatkan 21 tahun).
 
 ---
 

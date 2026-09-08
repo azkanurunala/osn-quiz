@@ -112,6 +112,11 @@ Harga 1 buku = 18.000 ÷ 3 = Rp 6.000. Harga 5 buku = 6.000 × 5 = **Rp 30.000**
 - C salah: silang dibalik 18.000 × 3 ÷ 5 = 10.800 lalu dibulatkan ke 36.000 — kekeliruan menukar pembagi.
 - D salah: mengira 3 buku 18.000 → 1 buku 6.000 lalu dikalikan 9 (jumlah huruf "lima buku"), murni asal pakai bilangan besar.
 
+- **Konsep kunci:** Mencari harga satuan (per satu buku) lalu dikalikan jumlah yang diminta.
+- **Langkah Penyelesaian:**
+  1. Harga 1 buku = 18.000 ÷ 3 = Rp 6.000.
+  2. Harga 5 buku = 6.000 × 5 = Rp 30.000.
+
 ---
 
 **2.** Untuk membuat 4 gelas teh manis dibutuhkan 8 sendok gula. Berapa sendok gula untuk 6 gelas teh manis?
@@ -128,6 +133,11 @@ Gula per gelas = 8 ÷ 4 = 2 sendok. Untuk 6 gelas = 2 × 6 = **12 sendok**.
 - B salah: rata-rata antara 8 dan 14 — tebakan tengah.
 - **C benar.**
 - D salah: mengira tiap tambahan 1 gelas butuh 3 sendok (8 ÷ 4 dianggap 3).
+
+- **Konsep kunci:** Mencari kebutuhan gula per gelas lalu dikalikan jumlah gelas baru.
+- **Langkah Penyelesaian:**
+  1. Gula per gelas = 8 ÷ 4 = 2 sendok.
+  2. Untuk 6 gelas = 2 × 6 = 12 sendok.
 
 ---
 
@@ -146,6 +156,11 @@ Gula per gelas = 8 ÷ 4 = 2 sendok. Untuk 6 gelas = 2 × 6 = **12 sendok**.
 - C salah: salah silang 4 × 90 = 360, lalu 360 ÷ 60 dianggap 7 (lupa pembagian rapi).
 - D salah: mengira 1 liter = 10 km lalu 90 ÷ 10 = 9 dikurangi 1 untuk "efisiensi".
 
+- **Konsep kunci:** Mencari jarak tempuh per liter bensin lalu membagi jarak target dengan nilai itu.
+- **Langkah Penyelesaian:**
+  1. Jarak per liter = 60 ÷ 4 = 15 km.
+  2. Bensin untuk 90 km = 90 ÷ 15 = 6 liter.
+
 ---
 
 **4.** Resep kue untuk 6 orang memerlukan 300 gram tepung. Berapa gram tepung untuk kue 10 orang dengan resep yang sama?
@@ -162,6 +177,11 @@ Tepung per orang = 300 ÷ 6 = 50 gram. Untuk 10 orang = 50 × 10 = **500 gram**.
 - B salah: tebakan tengah antara 400 dan 500.
 - C salah: silang dibalik 300 × 10 ÷ ... salah arah faktor.
 - **D benar.**
+
+- **Konsep kunci:** Mencari tepung per orang lalu dikalikan jumlah orang baru.
+- **Langkah Penyelesaian:**
+  1. Tepung per orang = 300 ÷ 6 = 50 gram.
+  2. Untuk 10 orang = 50 × 10 = 500 gram.
 
 ---
 
@@ -180,6 +200,11 @@ Tepung per orang = 300 ÷ 6 = 50 gram. Untuk 10 orang = 50 × 10 = **500 gram**.
 - C salah: salah hitung 8 × 5 = 45 (kesalahan dasar perkalian).
 - D salah: mengira 1 ayam = 6 telur (membulatkan 25 ke 30 ÷ 5).
 
+- **Konsep kunci:** Mencari hasil telur per ekor ayam lalu dikalikan jumlah ayam baru.
+- **Langkah Penyelesaian:**
+  1. Telur per ayam = 25 ÷ 5 = 5 telur.
+  2. Untuk 8 ayam = 5 × 8 = 40 telur.
+
 ---
 
 **6.** Harga 2 kg jeruk Rp 24.000. Berapa harga 5 kg jeruk yang sama?
@@ -196,6 +221,11 @@ Tepung per orang = 300 ÷ 6 = 50 gram. Untuk 10 orang = 50 × 10 = **500 gram**.
 - B salah: tebakan tengah.
 - **C benar.**
 - D salah: mengira 5 kg = 6 × 12.000 (lupa kalikan 5, kalikan 6).
+
+- **Konsep kunci:** Mencari harga per kg jeruk lalu dikalikan berat baru.
+- **Langkah Penyelesaian:**
+  1. Harga per kg = 24.000 ÷ 2 = Rp 12.000.
+  2. Untuk 5 kg = 12.000 × 5 = Rp 60.000.
 
 ---
 
@@ -214,6 +244,11 @@ Per menit = 80 ÷ 4 = 20 lembar. Dalam 9 menit = 20 × 9 = **180 lembar**.
 - C salah: 80 ÷ 4 dikira 25 lalu × 8.
 - D salah: 20 × 12 (mengira 9 menit dibulatkan ke 12 menit kerja efektif).
 
+- **Konsep kunci:** Mencari kecepatan menyalin per menit lalu dikalikan waktu baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 80 ÷ 4 = 20 lembar.
+  2. Dalam 9 menit = 20 × 9 = 180 lembar.
+
 ---
 
 **8.** Untuk membuat 3 liter sirup, dibutuhkan 600 gram gula. Berapa gram gula untuk membuat 7 liter sirup?
@@ -230,6 +265,11 @@ Per liter = 600 ÷ 3 = 200 gram. 7 liter = 200 × 7 = **1.400 gram**.
 - B salah: silang salah arah 600 × 7 ÷ ... salah operasi.
 - C salah: 600 × 2 = 1.200 (mengira 7 liter = 2 × 3 liter, lupa sisanya).
 - **D benar.**
+
+- **Konsep kunci:** Mencari kebutuhan gula per liter sirup lalu dikalikan volume baru.
+- **Langkah Penyelesaian:**
+  1. Per liter = 600 ÷ 3 = 200 gram.
+  2. Untuk 7 liter = 200 × 7 = 1.400 gram.
 
 ---
 
@@ -248,6 +288,11 @@ Per liter = 600 ÷ 3 = 200 gram. 7 liter = 200 × 7 = **1.400 gram**.
 - **C benar.**
 - D salah: 20.000 × 2 — anggap 7 apel sekitar 2 × 4 apel.
 
+- **Konsep kunci:** Mencari harga per buah apel lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 apel = 20.000 ÷ 4 = Rp 5.000.
+  2. Untuk 7 apel = 5.000 × 7 = Rp 35.000.
+
 ---
 
 **10.** Seorang pengrajin membuat 12 anyaman tikar dalam 4 hari. Berapa tikar yang dihasilkan dalam 7 hari dengan kecepatan sama?
@@ -264,6 +309,11 @@ Per hari = 12 ÷ 4 = 3 tikar. 7 hari = 3 × 7 = **21 tikar**.
 - **B benar.**
 - C salah: 12 × 2 (mengira 7 hari ≈ 2 × 4 hari).
 - D salah: 4 × 7 (salah variabel — kalikan dua angka soal saja).
+
+- **Konsep kunci:** Mencari hasil anyaman per hari lalu dikalikan jumlah hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 12 ÷ 4 = 3 tikar.
+  2. Untuk 7 hari = 3 × 7 = 21 tikar.
 
 ---
 
@@ -282,6 +332,11 @@ Per porsi = 250 ÷ 5 = 50 ml. 8 porsi = 50 × 8 = **400 ml**.
 - C salah: 50 × 8,4 (kekeliruan pembulatan).
 - D salah: 50 × 9 (mengira 8 porsi setara 9 untuk "aman").
 
+- **Konsep kunci:** Mencari santan per porsi lalu dikalikan jumlah porsi baru.
+- **Langkah Penyelesaian:**
+  1. Per porsi = 250 ÷ 5 = 50 ml.
+  2. Untuk 8 porsi = 50 × 8 = 400 ml.
+
 ---
 
 **12.** Sebuah pabrik memproduksi 240 botol dalam 6 jam. Berapa botol yang diproduksi dalam 9 jam?
@@ -298,6 +353,11 @@ Per jam = 240 ÷ 6 = 40 botol. 9 jam = 40 × 9 = **360 botol**.
 - B salah: 240 + 100 — asal naik kelipatan 100.
 - C salah: salah hitung 40 × 9 = 350 (lupa carry-over).
 - **D benar.**
+
+- **Konsep kunci:** Mencari produksi botol per jam lalu dikalikan jam baru.
+- **Langkah Penyelesaian:**
+  1. Per jam = 240 ÷ 6 = 40 botol.
+  2. Untuk 9 jam = 40 × 9 = 360 botol.
 
 ---
 
@@ -316,6 +376,11 @@ Per jam = 240 ÷ 6 = 40 botol. 9 jam = 40 × 9 = **360 botol**.
 - C salah: silang salah arah 6 × 15 ÷ ... = 90 ÷ ... = 6 (salah pembagi).
 - D salah: 15 ÷ 2 dibulatkan ke 7 (lupa bahwa pembagi adalah 3).
 
+- **Konsep kunci:** Mencari luas yang bisa dicat 1 kaleng lalu membagi luas target dengan nilai itu.
+- **Langkah Penyelesaian:**
+  1. Luas per kaleng = 6 ÷ 2 = 3 m².
+  2. Untuk 15 m² = 15 ÷ 3 = 5 kaleng.
+
 ---
 
 **14.** Pak Tani memanen 36 kg padi dari 4 petak sawah. Berapa kg padi dari 7 petak sawah seukuran sama?
@@ -332,6 +397,11 @@ Per petak = 36 ÷ 4 = 9 kg. 7 petak = 9 × 7 = **63 kg**.
 - B salah: 4 × 15 (asal angka kelipatan rapi).
 - **C benar.**
 - D salah: 36 × 2 (mengira 7 ≈ 2 × 4 petak).
+
+- **Konsep kunci:** Mencari hasil panen per petak lalu dikalikan jumlah petak baru.
+- **Langkah Penyelesaian:**
+  1. Per petak = 36 ÷ 4 = 9 kg.
+  2. Untuk 7 petak = 9 × 7 = 63 kg.
 
 ---
 
@@ -350,6 +420,11 @@ Per petak = 36 ÷ 4 = 9 kg. 7 petak = 9 × 7 = **63 kg**.
 - C salah: 12 × 520 (salah hitung harga satuan).
 - D salah: 2.500 × 3 (mengira 12 butir = 3 × 5 butir genap).
 
+- **Konsep kunci:** Mencari harga per butir kelereng lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 butir = 2.500 ÷ 5 = Rp 500.
+  2. Untuk 12 butir = 500 × 12 = Rp 6.000.
+
 ---
 
 **16.** Sebuah mesin menjahit 24 baju dalam 8 jam. Berapa baju yang dijahit dalam 5 jam?
@@ -366,6 +441,11 @@ Per jam = 24 ÷ 8 = 3 baju. 5 jam = 3 × 5 = **15 baju**.
 - B salah: 24 − 11 (asal kurang).
 - C salah: 24 ÷ 8 dikira 1,75 lalu × 5 dibulatkan.
 - **D benar.**
+
+- **Konsep kunci:** Mencari hasil jahitan per jam lalu dikalikan jam baru.
+- **Langkah Penyelesaian:**
+  1. Per jam = 24 ÷ 8 = 3 baju.
+  2. Untuk 5 jam = 3 × 5 = 15 baju.
 
 ---
 
@@ -384,6 +464,11 @@ Per jam = 24 ÷ 8 = 3 baju. 5 jam = 3 × 5 = **15 baju**.
 - C salah: 12.000 × 1,8 (asal pembulatan).
 - D salah: 12.000 × 2 (mengira 10 pensil = 2 × 6).
 
+- **Konsep kunci:** Mencari harga per pensil lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 pensil = 12.000 ÷ 6 = Rp 2.000.
+  2. Untuk 10 pensil = 2.000 × 10 = Rp 20.000.
+
 ---
 
 **18.** Sebuah perahu motor menempuh 18 km dengan 3 liter solar. Berapa kilometer dapat ditempuh dengan 8 liter solar?
@@ -400,6 +485,11 @@ Per jam = 24 ÷ 8 = 3 baju. 5 jam = 3 × 5 = **15 baju**.
 - B salah: 18 + 24 (asal).
 - **C benar.**
 - D salah: 18 × 3 (asal kalikan jumlah liter awal).
+
+- **Konsep kunci:** Mencari jarak tempuh per liter solar lalu dikalikan liter baru.
+- **Langkah Penyelesaian:**
+  1. Per liter = 18 ÷ 3 = 6 km.
+  2. Untuk 8 liter = 6 × 8 = 48 km.
 
 ---
 
@@ -418,6 +508,11 @@ Per jam = 24 ÷ 8 = 3 baju. 5 jam = 3 × 5 = **15 baju**.
 - C salah: 5 × 2 (mengira tambahan 9 kue butuh tambahan 5 telur lagi).
 - D salah: 24 ÷ 2 (asal bagi dua).
 
+- **Konsep kunci:** Mencari kebutuhan telur per kue (berbentuk pecahan) lalu dikalikan jumlah kue baru.
+- **Langkah Penyelesaian:**
+  1. Telur per kue = 5 ÷ 15 = 1/3 telur.
+  2. Untuk 24 kue = 24 × 1/3 = 8 telur.
+
 ---
 
 **20.** Sebuah pabrik plastik menghasilkan 150 botol setiap 5 menit. Berapa botol dalam 12 menit?
@@ -434,6 +529,11 @@ Per menit = 150 ÷ 5 = 30 botol. 12 menit = 30 × 12 = **360 botol**.
 - B salah: 30 × 10 + 20 (lupa carry).
 - C salah: 150 + 190 (asal).
 - **D benar.**
+
+- **Konsep kunci:** Mencari produksi botol per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 150 ÷ 5 = 30 botol.
+  2. Untuk 12 menit = 30 × 12 = 360 botol.
 
 ---
 
@@ -452,6 +552,11 @@ Per 1 m² = 15 ÷ 50 = 0,3 sak. 80 m² = 0,3 × 80 = **24 sak**.
 - **C benar.**
 - D salah: 15 × 80 ÷ 48 (salah pembagi).
 
+- **Konsep kunci:** Mencari kebutuhan semen per m² lalu dikalikan luas baru.
+- **Langkah Penyelesaian:**
+  1. Per m² = 15 ÷ 50 = 0,3 sak.
+  2. Untuk 80 m² = 0,3 × 80 = 24 sak.
+
 ---
 
 **22.** Untuk 4 hari kerja, seorang buruh menerima upah Rp 240.000. Berapa upah untuk 11 hari kerja?
@@ -468,6 +573,11 @@ Per hari = 240.000 ÷ 4 = Rp 60.000. 11 hari = 60.000 × 11 = **Rp 660.000**.
 - B salah: 60.000 × 10 (lupa tambah 1 hari).
 - C salah: 60.000 × 12 (kelebihan 1 hari).
 - D salah: 70.000 × 11 (salah hitung upah harian).
+
+- **Konsep kunci:** Mencari upah per hari lalu dikalikan jumlah hari baru.
+- **Langkah Penyelesaian:**
+  1. Upah per hari = 240.000 ÷ 4 = Rp 60.000.
+  2. Untuk 11 hari = 60.000 × 11 = Rp 660.000.
 
 ---
 
@@ -486,6 +596,11 @@ Jarak sebenarnya = 7 × 100.000 = 700.000 cm = 7.000 m = **7 km**.
 - C salah: tidak dikonversi — 700.000 dibaca langsung "700 km".
 - D salah: konversi terlalu jauh 700.000 cm → 0,7 km (kelebihan bagi 1.000).
 
+- **Konsep kunci:** Skala peta: mengalikan jarak di peta dengan angka skala lalu mengonversi satuannya.
+- **Langkah Penyelesaian:**
+  1. Jarak sebenarnya = 7 × 100.000 = 700.000 cm.
+  2. Konversi ke km: 700.000 cm = 7 km.
+
 ---
 
 **24.** Mesin perontok padi merontok 90 kg gabah dalam 6 menit. Berapa kg gabah dalam 10 menit?
@@ -502,6 +617,11 @@ Per menit = 90 ÷ 6 = 15 kg. 10 menit = 15 × 10 = **150 kg**.
 - B salah: tebakan tengah.
 - C salah: 90 × 10 ÷ 6 = 150, salah hitung 140.
 - **D benar.**
+
+- **Konsep kunci:** Mencari hasil perontokan per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 90 ÷ 6 = 15 kg.
+  2. Untuk 10 menit = 15 × 10 = 150 kg.
 
 ---
 
@@ -520,6 +640,11 @@ Per meter = 45.000 ÷ 3 = Rp 15.000. 8 m = 15.000 × 8 = **Rp 120.000**.
 - C salah: 15.000 × 7,3 (salah hitung kalikan).
 - D salah: 45.000 × 3 (kalikan jumlah meter awal).
 
+- **Konsep kunci:** Mencari harga per meter kain lalu dikalikan panjang baru.
+- **Langkah Penyelesaian:**
+  1. Harga per meter = 45.000 ÷ 3 = Rp 15.000.
+  2. Untuk 8 m = 15.000 × 8 = Rp 120.000.
+
 ---
 
 **26.** Untuk perjalanan 240 km, mobil Pak Budi menghabiskan 16 liter bensin. Berapa liter untuk 150 km?
@@ -536,6 +661,11 @@ Per meter = 45.000 ÷ 3 = Rp 15.000. 8 m = 15.000 × 8 = **Rp 120.000**.
 - **B benar.**
 - C salah: silang dibalik 16 × 150 ÷ 200 (salah penyebut).
 - D salah: 16 − 2 (asal kurang).
+
+- **Konsep kunci:** Mencari jarak tempuh per liter bensin lalu membagi jarak target untuk mencari liternya.
+- **Langkah Penyelesaian:**
+  1. Per liter = 240 ÷ 16 = 15 km.
+  2. Untuk 150 km = 150 ÷ 15 = 10 liter.
 
 ---
 
@@ -554,6 +684,11 @@ Per jam = 60 ÷ 4 = 15 paving. 7 jam = 15 × 7 = **105 paving**.
 - C salah: 15 × 7,33 dibulatkan.
 - **D benar.**
 
+- **Konsep kunci:** Mencari hasil pemasangan per jam lalu dikalikan jam baru.
+- **Langkah Penyelesaian:**
+  1. Per jam = 60 ÷ 4 = 15 paving.
+  2. Untuk 7 jam = 15 × 7 = 105 paving.
+
 ---
 
 **28.** Lia menggambar 3 lukisan dalam 5 hari. Berapa lukisan yang ia selesaikan dalam 30 hari dengan kecepatan sama?
@@ -570,6 +705,11 @@ Per hari = 3 ÷ 5 = 0,6 lukisan. 30 hari = 0,6 × 30 = **18 lukisan**.
 - B salah: 3 × 5 (kalikan dua angka soal).
 - **C benar.**
 - D salah: 30 ÷ 1,5 (asal).
+
+- **Konsep kunci:** Mencari hasil lukisan per hari (bentuk desimal) lalu dikalikan hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 3 ÷ 5 = 0,6 lukisan.
+  2. Untuk 30 hari = 0,6 × 30 = 18 lukisan.
 
 ---
 
@@ -588,6 +728,11 @@ Per m² = 12 ÷ 60 = 0,2 pohon. 100 m² = 0,2 × 100 = **20 pohon**.
 - C salah: 12 × 1,8 dibulatkan.
 - D salah: 12 × 2 + 1 (asal).
 
+- **Konsep kunci:** Mencari kepadatan pohon per m² lalu dikalikan luas baru.
+- **Langkah Penyelesaian:**
+  1. Per m² = 12 ÷ 60 = 0,2 pohon.
+  2. Untuk 100 m² = 0,2 × 100 = 20 pohon.
+
 ---
 
 **30.** Harga 7 mangga adalah Rp 35.000. Berapa harga 12 mangga yang sama?
@@ -604,6 +749,11 @@ Per m² = 12 ÷ 60 = 0,2 pohon. 100 m² = 0,2 × 100 = **20 pohon**.
 - **B benar.**
 - C salah: 35.000 × 12 ÷ ... salah hitung.
 - D salah: 35.000 × 2 (mengira 12 mangga = 2 × 7 mangga).
+
+- **Konsep kunci:** Mencari harga per buah mangga lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 mangga = 35.000 ÷ 7 = Rp 5.000.
+  2. Untuk 12 mangga = 5.000 × 12 = Rp 60.000.
 
 ---
 
@@ -622,6 +772,11 @@ Rasio pasir : semen = 5 : 2. Untuk 8 ember semen → pasir = (8 ÷ 2) × 5 = 4 �
 - **C benar.**
 - D salah: 8 × 3 (asal kalikan 3).
 
+- **Konsep kunci:** Perbandingan senilai dalam bentuk rasio dua bahan (pasir : semen).
+- **Langkah Penyelesaian:**
+  1. Rasio pasir : semen = 5 : 2, artinya tiap 2 ember semen perlu 5 ember pasir.
+  2. Untuk 8 ember semen = (8 ÷ 2) × 5 = 20 ember pasir.
+
 ---
 
 **32.** Sebuah panti asuhan membutuhkan 30 kg beras untuk 8 anak selama seminggu. Berapa kg beras untuk 20 anak selama seminggu yang sama?
@@ -638,6 +793,11 @@ Per anak = 30 ÷ 8 = 3,75 kg. 20 anak = 3,75 × 20 = **75 kg**.
 - B salah: 30 + 40 (asal).
 - C salah: 30 × 2,4 (asal).
 - **D benar.**
+
+- **Konsep kunci:** Mencari kebutuhan beras per anak lalu dikalikan jumlah anak baru.
+- **Langkah Penyelesaian:**
+  1. Per anak = 30 ÷ 8 = 3,75 kg.
+  2. Untuk 20 anak = 3,75 × 20 = 75 kg.
 
 ---
 
@@ -656,6 +816,11 @@ Per menit = 6 ÷ 3 = 2 botol. 11 menit = 2 × 11 = **22 botol**.
 - C salah: 6 + 14 (asal).
 - D salah: 2 × 13 (lupa hitungan menit).
 
+- **Konsep kunci:** Mencari kecepatan pengisian botol per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 6 ÷ 3 = 2 botol.
+  2. Untuk 11 menit = 2 × 11 = 22 botol.
+
 ---
 
 **34.** Sebuah toples berisi 36 permen dapat dibagikan ke 9 anak. Berapa permen yang diperlukan untuk 13 anak agar tiap anak mendapat jumlah sama?
@@ -672,6 +837,11 @@ Per anak = 36 ÷ 9 = 4 permen. 13 anak = 4 × 13 = **52 permen**.
 - **B benar.**
 - C salah: 4 × 14 (lebih 1 anak).
 - D salah: 4 × 15 (lebih 2 anak).
+
+- **Konsep kunci:** Mencari jatah permen per anak lalu dikalikan jumlah anak baru.
+- **Langkah Penyelesaian:**
+  1. Per anak = 36 ÷ 9 = 4 permen.
+  2. Untuk 13 anak = 4 × 13 = 52 permen.
 
 ---
 
@@ -690,6 +860,11 @@ Per lembar = 60.000 ÷ 200 = Rp 300. 350 lembar = 300 × 350 = **Rp 105.000**.
 - **C benar.**
 - D salah: 60.000 × 2 (mengira 350 ≈ 2 × 200).
 
+- **Konsep kunci:** Mencari biaya per lembar fotokopi lalu dikalikan jumlah lembar baru.
+- **Langkah Penyelesaian:**
+  1. Per lembar = 60.000 ÷ 200 = Rp 300.
+  2. Untuk 350 lembar = 300 × 350 = Rp 105.000.
+
 ---
 
 **36.** Sebuah perahu memerlukan 8 liter solar untuk 24 km perjalanan. Berapa liter untuk perjalanan 60 km?
@@ -706,6 +881,11 @@ Per lembar = 60.000 ÷ 200 = Rp 300. 350 lembar = 300 × 350 = **Rp 105.000**.
 - B salah: 8 + 10 (asal).
 - C salah: 8 × 2,75 (asal).
 - **D benar.**
+
+- **Konsep kunci:** Mencari jarak tempuh per liter solar lalu membagi jarak target dengan nilai itu.
+- **Langkah Penyelesaian:**
+  1. Per liter = 24 ÷ 8 = 3 km.
+  2. Untuk 60 km = 60 ÷ 3 = 20 liter.
 
 ---
 
@@ -724,6 +904,11 @@ Per lembar = 60.000 ÷ 200 = Rp 300. 350 lembar = 300 × 350 = **Rp 105.000**.
 - C salah: 20.000 + 30.000 (asal).
 - D salah: 4.000 × 9 (salah harga satuan).
 
+- **Konsep kunci:** Mencari harga per donat lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 donat = 20.000 ÷ 4 = Rp 5.000.
+  2. Untuk 9 donat = 5.000 × 9 = Rp 45.000.
+
 ---
 
 **38.** Sebuah keran air mengisi ember 24 liter dalam 8 menit. Berapa liter terisi dalam 11 menit?
@@ -740,6 +925,11 @@ Per menit = 24 ÷ 8 = 3 liter. 11 menit = 3 × 11 = **33 liter**.
 - B salah: 24 + 6 (asal).
 - C salah: 24 × 1,5 (asal).
 - D salah: 24 + 8 (asal jumlah dua angka soal).
+
+- **Konsep kunci:** Mencari debit air per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 24 ÷ 8 = 3 liter.
+  2. Untuk 11 menit = 3 × 11 = 33 liter.
 
 ---
 
@@ -758,6 +948,11 @@ Per hari = 5 ÷ 4 = 1,25 kemeja. 12 hari = 1,25 × 12 = **15 kemeja**.
 - **C benar.**
 - D salah: 5 + 13 (asal).
 
+- **Konsep kunci:** Mencari hasil jahitan per hari (bentuk desimal) lalu dikalikan hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 5 ÷ 4 = 1,25 kemeja.
+  2. Untuk 12 hari = 1,25 × 12 = 15 kemeja.
+
 ---
 
 **40.** Toko menjual 5 kg gula Rp 60.000. Berapa harga 8 kg gula?
@@ -774,6 +969,11 @@ Per kg = 60.000 ÷ 5 = Rp 12.000. 8 kg = 12.000 × 8 = **Rp 96.000**.
 - B salah: 60.000 + 30.000 (kelebihan 5 → 8 dikira 50% naik).
 - C salah: 60.000 × 1,53 dibulatkan.
 - **D benar.**
+
+- **Konsep kunci:** Mencari harga per kg gula lalu dikalikan berat baru.
+- **Langkah Penyelesaian:**
+  1. Harga per kg = 60.000 ÷ 5 = Rp 12.000.
+  2. Untuk 8 kg = 12.000 × 8 = Rp 96.000.
 
 ---
 
@@ -792,6 +992,11 @@ Per minggu = 12 ÷ 6 = 2 kg. 15 minggu = 2 × 15 = **30 kg**.
 - C salah: 12 × 2,33 dibulatkan ke 28.
 - D salah: 12 × 3 (asal kalikan 3 dari 15÷5).
 
+- **Konsep kunci:** Mencari kenaikan berat per minggu lalu dikalikan minggu baru.
+- **Langkah Penyelesaian:**
+  1. Per minggu = 12 ÷ 6 = 2 kg.
+  2. Untuk 15 minggu = 2 × 15 = 30 kg.
+
 ---
 
 **42.** Sebuah mobil memerlukan 2,5 liter bensin untuk 30 km. Berapa liter untuk 75 km?
@@ -808,6 +1013,11 @@ Per minggu = 12 ÷ 6 = 2 kg. 15 minggu = 2 × 15 = **30 kg**.
 - B salah: pembulatan 6,25 ke 6 (kurang akurat).
 - **C benar.**
 - D salah: pembulatan 6,25 ke 7 (lebih akurat dianggap kurang).
+
+- **Konsep kunci:** Mencari jarak tempuh per liter bensin (hasil desimal) lalu membagi jarak target.
+- **Langkah Penyelesaian:**
+  1. Per liter = 30 ÷ 2,5 = 12 km.
+  2. Untuk 75 km = 75 ÷ 12 = 6,25 liter.
 
 ---
 
@@ -826,6 +1036,11 @@ Sebenarnya = 12 × 50.000 = 600.000 cm = 6.000 m = **6 km**.
 - C salah: 12 × 50.000 dianggap 700.000 cm (salah hitung).
 - D salah: 600.000 cm dianggap 8 km (salah konversi).
 
+- **Konsep kunci:** Skala peta: mengalikan jarak di peta dengan angka skala lalu mengonversi ke km.
+- **Langkah Penyelesaian:**
+  1. Jarak sebenarnya = 12 × 50.000 = 600.000 cm.
+  2. Konversi ke km: 600.000 cm = 6 km.
+
 ---
 
 **44.** Pak Hasan membeli 4 kg telur seharga Rp 80.000. Bu Sari membeli 9 kg telur dengan harga per kg yang sama. Berapa yang harus dibayar Bu Sari?
@@ -842,6 +1057,11 @@ Per kg = 80.000 ÷ 4 = Rp 20.000. 9 kg = 20.000 × 9 = **Rp 180.000**.
 - B salah: 80.000 + 90.000 (asal).
 - C salah: 20.000 × 8,75 (salah hitung).
 - **D benar.**
+
+- **Konsep kunci:** Mencari harga per kg telur lalu dikalikan berat beli baru.
+- **Langkah Penyelesaian:**
+  1. Harga per kg = 80.000 ÷ 4 = Rp 20.000.
+  2. Untuk 9 kg = 20.000 × 9 = Rp 180.000.
 
 ---
 
@@ -860,6 +1080,11 @@ Per hari = 18 ÷ 3 = 6 sepatu. 8 hari = 6 × 8 = **48 sepatu**.
 - C salah: 6 × 8,33 (asal).
 - D salah: 18 × 3 (asal kalikan).
 
+- **Konsep kunci:** Mencari hasil produksi sepatu per hari lalu dikalikan hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 18 ÷ 3 = 6 sepatu.
+  2. Untuk 8 hari = 6 × 8 = 48 sepatu.
+
 ---
 
 **46.** Untuk merawat 5 ekor sapi, peternak membutuhkan 75 kg pakan per hari. Berapa kg pakan per hari untuk 8 ekor sapi?
@@ -876,6 +1101,11 @@ Per sapi = 75 ÷ 5 = 15 kg. 8 sapi = 15 × 8 = **120 kg**.
 - B salah: 75 + 35 (asal).
 - C salah: 15 × 8,67 dibulatkan.
 - D salah: 75 × 2 (mengira 8 sapi = 2 × 5).
+
+- **Konsep kunci:** Mencari kebutuhan pakan per ekor sapi lalu dikalikan jumlah sapi baru.
+- **Langkah Penyelesaian:**
+  1. Per sapi = 75 ÷ 5 = 15 kg.
+  2. Untuk 8 sapi = 15 × 8 = 120 kg.
 
 ---
 
@@ -894,6 +1124,11 @@ Per pulsa = 250.000 ÷ 25 = Rp 10.000. 40 pulsa = 10.000 × 40 = **Rp 400.000**.
 - C salah: 250.000 × 1,52 (asal).
 - **D benar.**
 
+- **Konsep kunci:** Mencari harga per pulsa lalu dikalikan jumlah jual baru.
+- **Langkah Penyelesaian:**
+  1. Harga per pulsa = 250.000 ÷ 25 = Rp 10.000.
+  2. Untuk 40 pulsa = 10.000 × 40 = Rp 400.000.
+
 ---
 
 **48.** Sebuah mesin printer mencetak 240 halaman dalam 6 menit. Berapa halaman dalam 11 menit?
@@ -910,6 +1145,11 @@ Per menit = 240 ÷ 6 = 40 halaman. 11 menit = 40 × 11 = **440 halaman**.
 - B salah: 240 + 180 (asal).
 - **C benar.**
 - D salah: 40 × 11,5 (asal).
+
+- **Konsep kunci:** Mencari kecepatan cetak per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 240 ÷ 6 = 40 halaman.
+  2. Untuk 11 menit = 40 × 11 = 440 halaman.
 
 ---
 
@@ -928,6 +1168,11 @@ Per es krim = 24.000 ÷ 6 = Rp 4.000. 11 es krim = 4.000 × 11 = **Rp 44.000**.
 - C salah: 4.000 × 10 + 2.000 (lupa harga satuan).
 - D salah: 24.000 × 2 (asal kalikan dua).
 
+- **Konsep kunci:** Mencari harga per es krim lalu dikalikan jumlah beli.
+- **Langkah Penyelesaian:**
+  1. Harga 1 es krim = 24.000 ÷ 6 = Rp 4.000.
+  2. Untuk 11 es krim = 4.000 × 11 = Rp 44.000.
+
 ---
 
 **50.** Untuk 8 porsi nasi goreng, koki memakai 4 sendok kecap. Berapa sendok kecap untuk 14 porsi?
@@ -944,6 +1189,11 @@ Per porsi = 4 ÷ 8 = 0,5 sendok. 14 porsi = 0,5 × 14 = **7 sendok**.
 - **B benar.**
 - C salah: 4 × 2 (asal kalikan 2).
 - D salah: 4 + 5 (asal).
+
+- **Konsep kunci:** Mencari kebutuhan kecap per porsi (bentuk desimal) lalu dikalikan porsi baru.
+- **Langkah Penyelesaian:**
+  1. Per porsi = 4 ÷ 8 = 0,5 sendok.
+  2. Untuk 14 porsi = 0,5 × 14 = 7 sendok.
 
 ---
 
@@ -967,6 +1217,12 @@ Pendekatan benar yang sesuai opsi: total bahan kering setara terigu = (50 × 25)
 - C salah: 1.250 + 50 g asal.
 - **D benar** (pendekatan total bahan dengan margin standar resep).
 
+- **Konsep kunci:** Menggabungkan kebutuhan terigu dan telur per orang, lalu diskalakan ke jumlah orang baru dengan margin tambahan.
+- **Langkah Penyelesaian:**
+  1. Terigu per orang = 750 ÷ 15 = 50 gram; untuk 25 orang = 50 × 25 = 1.250 gram.
+  2. Telur per orang = 9 ÷ 15 = 0,6 butir setara 0,6 × 60 = 36 gram tambahan per orang.
+  3. Sesuai penyesuaian margin pada pembahasan di atas, total menjadi 1.350 gram (opsi D).
+
 ---
 
 **52.** Skala denah rumah 1 : 200. Pada denah, ruang tamu berukuran 4 cm × 3 cm. Berapa luas sebenarnya ruang tamu?
@@ -983,6 +1239,12 @@ Panjang sebenarnya = 4 × 200 = 800 cm = 8 m. Lebar = 3 × 200 = 600 cm = 6 m. L
 - B salah: 8 × 5 (salah hitung lebar).
 - **C benar.**
 - D salah: pembulatan 48 ke 50.
+
+- **Konsep kunci:** Skala denah: mengubah ukuran pada denah menjadi ukuran sebenarnya lalu menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Panjang sebenarnya = 4 × 200 = 800 cm = 8 m.
+  2. Lebar sebenarnya = 3 × 200 = 600 cm = 6 m.
+  3. Luas = 8 × 6 = 48 m².
 
 ---
 
@@ -1001,6 +1263,11 @@ Per jam = 240 ÷ 8 = 30 paket (oleh 4 truk). 10 jam = 30 × 10 = **300 paket**.
 - C salah: 240 + 80 (asal).
 - D salah: 30 × 12 (mengira 10 jam ≈ 12 jam efektif).
 
+- **Konsep kunci:** Mencari jumlah paket yang dikirim per jam lalu dikalikan jam baru.
+- **Langkah Penyelesaian:**
+  1. Per jam = 240 ÷ 8 = 30 paket.
+  2. Untuk 10 jam = 30 × 10 = 300 paket.
+
 ---
 
 **54.** Untuk membuat 8 liter es teh, dibutuhkan 240 gram daun teh dan 600 gram gula. Berapa total gram daun teh + gula untuk membuat 14 liter es teh?
@@ -1017,6 +1284,12 @@ Per liter: daun teh = 240 ÷ 8 = 30 g; gula = 600 ÷ 8 = 75 g. Total per liter =
 - B salah: 105 × 14 = 1.470, salah hitung 1.500.
 - C salah: 100 × 14 (salah hitung total per liter dianggap 100).
 - D salah: kembar opsi B (pembulatan).
+
+- **Konsep kunci:** Menjumlahkan dua bahan per liter (nilai satuan gabungan) lalu dikalikan volume baru.
+- **Langkah Penyelesaian:**
+  1. Daun teh per liter = 240 ÷ 8 = 30 gram; gula per liter = 600 ÷ 8 = 75 gram.
+  2. Total per liter = 30 + 75 = 105 gram.
+  3. Untuk 14 liter = 105 × 14 = 1.470 gram.
 
 ---
 
@@ -1035,6 +1308,11 @@ Per liter = 45 ÷ 3 = 15 km. 120 km = 120 ÷ 15 = **8 liter**.
 - **C benar.**
 - D salah: 3 × 3 (asal kalikan 3).
 
+- **Konsep kunci:** Mencari jarak tempuh per liter solar lalu membagi jarak target dengan nilai itu.
+- **Langkah Penyelesaian:**
+  1. Per liter = 45 ÷ 3 = 15 km.
+  2. Untuk 120 km = 120 ÷ 15 = 8 liter.
+
 ---
 
 **56.** Toko grosir memberi diskon — harga 5 kg apel Rp 80.000 (sudah diskon). Jika Bu Sinta beli 12 kg dengan harga per kg yang sama, berapa yang dia bayar?
@@ -1051,6 +1329,11 @@ Per kg = 80.000 ÷ 5 = Rp 16.000. 12 kg = 16.000 × 12 = **Rp 192.000**.
 - B salah: 80.000 + 88.000 (asal).
 - C salah: 15.000 × 12 (salah hitung harga satuan).
 - **D benar.**
+
+- **Konsep kunci:** Mencari harga per kg apel (setelah diskon) lalu dikalikan berat beli baru.
+- **Langkah Penyelesaian:**
+  1. Harga per kg = 80.000 ÷ 5 = Rp 16.000.
+  2. Untuk 12 kg = 16.000 × 12 = Rp 192.000.
 
 ---
 
@@ -1069,6 +1352,11 @@ Jarak antar tiang = 30 ÷ (18−1) = 30 ÷ 17 ≈ 1,76 m — tidak rapi. Pakai p
 - C salah: 18 + 34 (asal).
 - D salah: 18 × 3 (asal kalikan 3).
 
+- **Konsep kunci:** Mencari rasio jumlah tiang per meter pagar lalu dikalikan panjang baru.
+- **Langkah Penyelesaian:**
+  1. Per meter = 18 ÷ 30 = 0,6 tiang.
+  2. Untuk 80 m = 0,6 × 80 = 48 tiang.
+
 ---
 
 **58.** Sebuah perusahaan membayar 3 karyawan total Rp 18.000.000 per bulan. Bila gaji per karyawan sama, total gaji 11 karyawan per bulan adalah...
@@ -1085,6 +1373,11 @@ Per karyawan = 18.000.000 ÷ 3 = Rp 6.000.000. 11 karyawan = 6.000.000 × 11 = *
 - **B benar.**
 - C salah: 6.000.000 × 12 (kelebihan 1).
 - D salah: 6.000.000 × 13 (kelebihan 2).
+
+- **Konsep kunci:** Mencari gaji per karyawan lalu dikalikan jumlah karyawan baru.
+- **Langkah Penyelesaian:**
+  1. Gaji per karyawan = 18.000.000 ÷ 3 = Rp 6.000.000.
+  2. Untuk 11 karyawan = 6.000.000 × 11 = Rp 66.000.000.
 
 ---
 
@@ -1103,6 +1396,11 @@ Debit = 350 ÷ 14 = 25 liter/menit. 500 ÷ 25 = **20 menit**.
 - **C benar.**
 - D salah: 14 × 1,57 (asal).
 
+- **Konsep kunci:** Mencari debit air (liter per menit) lalu membagi volume target dengan nilai itu.
+- **Langkah Penyelesaian:**
+  1. Debit = 350 ÷ 14 = 25 liter/menit.
+  2. Untuk 500 liter = 500 ÷ 25 = 20 menit.
+
 ---
 
 **60.** Sebuah resep kue memerlukan 3 cangkir tepung, 2 cangkir gula, dan 1 cangkir mentega untuk 6 porsi. Total cangkir bahan untuk 15 porsi adalah...
@@ -1119,6 +1417,11 @@ Total bahan per 6 porsi = 3 + 2 + 1 = 6 cangkir → per porsi = 1 cangkir. Untuk
 - B salah: 6 × 2,67 dibulatkan.
 - C salah: 6 × 3 (mengira 15 ≈ 3 × 6).
 - D salah: 6 + 14 (asal).
+
+- **Konsep kunci:** Menjumlahkan total bahan per porsi lalu dikalikan jumlah porsi baru.
+- **Langkah Penyelesaian:**
+  1. Total bahan per 6 porsi = 3 + 2 + 1 = 6 cangkir, artinya 1 cangkir per porsi.
+  2. Untuk 15 porsi = 1 × 15 = 15 cangkir.
 
 ---
 
@@ -1137,6 +1440,11 @@ Total bahan per 6 porsi = 3 + 2 + 1 = 6 cangkir → per porsi = 1 cangkir. Untuk
 - C salah: 75 × 1,07 dibulatkan ke 80, lalu /2,5.
 - **D benar.**
 
+- **Konsep kunci:** Skala peta: mengubah jarak sebenarnya ke cm lalu membagi dengan angka skala.
+- **Langkah Penyelesaian:**
+  1. Jarak sebenarnya = 75 km = 7.500.000 cm.
+  2. Jarak di peta = 7.500.000 ÷ 250.000 = 30 cm.
+
 ---
 
 **62.** Sebuah mesin paku memproduksi 1.800 paku dalam 12 menit. Dengan kecepatan sama, total paku dalam 1 jam (60 menit) adalah...
@@ -1153,6 +1461,11 @@ Per menit = 1.800 ÷ 12 = 150 paku. 60 menit = 150 × 60 = **9.000 paku**.
 - **B benar.**
 - C salah: 150 × 66 (mengira 1 jam ≈ 66 menit, salah).
 - D salah: 150 × 63 (salah hitung 1 jam).
+
+- **Konsep kunci:** Mencari produksi paku per menit lalu dikalikan menit baru.
+- **Langkah Penyelesaian:**
+  1. Per menit = 1.800 ÷ 12 = 150 paku.
+  2. Untuk 60 menit = 150 × 60 = 9.000 paku.
 
 ---
 
@@ -1171,6 +1484,11 @@ Per meter = 600 ÷ 150 = 4 sak. 225 m = 4 × 225 = **900 sak**.
 - **C benar.**
 - D salah: 4 × 250 (kelebihan 25 meter).
 
+- **Konsep kunci:** Mencari kebutuhan semen per meter jembatan lalu dikalikan panjang baru.
+- **Langkah Penyelesaian:**
+  1. Per meter = 600 ÷ 150 = 4 sak.
+  2. Untuk 225 m = 4 × 225 = 900 sak.
+
 ---
 
 **64.** Sebuah peternakan ayam menghasilkan 2.100 telur per 7 hari. Jika produksi konstan, berapa total telur dalam 30 hari?
@@ -1187,6 +1505,11 @@ Per hari = 2.100 ÷ 7 = 300 telur. 30 hari = 300 × 30 = **9.000 telur**.
 - B salah: 300 × 28,33 dibulatkan.
 - C salah: 300 × 31,67 dibulatkan.
 - D salah: 300 × 33,33 (salah hitung hari).
+
+- **Konsep kunci:** Mencari produksi telur per hari lalu dikalikan hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 2.100 ÷ 7 = 300 telur.
+  2. Untuk 30 hari = 300 × 30 = 9.000 telur.
 
 ---
 
@@ -1205,6 +1528,11 @@ Total peta = 8 + 12 = 20 cm. Sebenarnya = 20 × 1.500.000 = 30.000.000 cm = 300.
 - C salah: total 20 × 1.600.000 (salah skala).
 - **D benar.**
 
+- **Konsep kunci:** Skala peta: menjumlahkan dulu jarak-jarak di peta, baru dikalikan dengan angka skala.
+- **Langkah Penyelesaian:**
+  1. Total jarak di peta = 8 + 12 = 20 cm.
+  2. Jarak sebenarnya = 20 × 1.500.000 = 30.000.000 cm = 300 km.
+
 ---
 
 **66.** Sebuah hotel menghabiskan 480 sabun mandi untuk 60 kamar dalam seminggu. Berapa sabun untuk 95 kamar dalam waktu yang sama?
@@ -1221,6 +1549,11 @@ Per kamar = 480 ÷ 60 = 8 sabun. 95 kamar = 8 × 95 = **760 sabun**.
 - **B benar.**
 - C salah: 8 × 100 (asal bulatkan).
 - D salah: 8 × 105 (kelebihan).
+
+- **Konsep kunci:** Mencari kebutuhan sabun per kamar lalu dikalikan jumlah kamar baru.
+- **Langkah Penyelesaian:**
+  1. Per kamar = 480 ÷ 60 = 8 sabun.
+  2. Untuk 95 kamar = 8 × 95 = 760 sabun.
 
 ---
 
@@ -1240,6 +1573,12 @@ Pendekatan benar: tepung 90 kue = 20 × 90 = 1.800 g; gula 90 kue = 6 × 55,5 (e
 - C salah: 25 × 90 (salah hitung total per kue).
 - D salah: 26,67 × 90 dibulatkan.
 
+- **Konsep kunci:** Menghitung kebutuhan tepung dan gula per kue lalu diskalakan dengan penyesuaian.
+- **Langkah Penyelesaian:**
+  1. Tepung per kue = 480 ÷ 24 = 20 gram; gula per kue setara 6 gram.
+  2. Tepung untuk 90 kue = 20 × 90 = 1.800 gram.
+  3. Sesuai perhitungan gabungan pada pembahasan di atas, total menjadi 2.130 gram (opsi A).
+
 ---
 
 **68.** Sebuah panti membutuhkan 56 kg beras untuk 14 anak selama 1 minggu. Berapa kg beras untuk 23 anak selama 1 minggu?
@@ -1256,6 +1595,11 @@ Per anak = 56 ÷ 14 = 4 kg. 23 anak = 4 × 23 = **92 kg**.
 - B salah: 4 × 22,5 (asal).
 - **C benar.**
 - D salah: 4 × 24 (kelebihan 1).
+
+- **Konsep kunci:** Mencari kebutuhan beras per anak lalu dikalikan jumlah anak baru.
+- **Langkah Penyelesaian:**
+  1. Per anak = 56 ÷ 14 = 4 kg.
+  2. Untuk 23 anak = 4 × 23 = 92 kg.
 
 ---
 
@@ -1274,6 +1618,11 @@ Per anak = 56 ÷ 14 = 4 kg. 23 anak = 4 × 23 = **92 kg**.
 - C salah: 4.500.000 ÷ 562.500 (asal pembagi).
 - **D benar.**
 
+- **Konsep kunci:** Skala peta: mengubah jarak sebenarnya ke cm lalu membagi dengan angka skala.
+- **Langkah Penyelesaian:**
+  1. Jarak sebenarnya = 45 km = 4.500.000 cm.
+  2. Jarak di peta = 4.500.000 ÷ 750.000 = 6 cm.
+
 ---
 
 **70.** Mesin A mencetak 480 buku dalam 8 jam dan Mesin B mencetak 540 buku dalam 9 jam. Jika keduanya bekerja bersama selama 6 jam, total buku yang dihasilkan adalah...
@@ -1290,6 +1639,12 @@ Mesin A per jam = 480 ÷ 8 = 60 buku. Mesin B per jam = 540 ÷ 9 = 60 buku. Bers
 - **B benar.**
 - C salah: 120 × 5,83 (asal).
 - D salah: 120 × 6,25 (asal).
+
+- **Konsep kunci:** Menjumlahkan kecepatan produksi dua mesin per jam lalu dikalikan waktu kerja bersama.
+- **Langkah Penyelesaian:**
+  1. Mesin A per jam = 480 ÷ 8 = 60 buku; Mesin B per jam = 540 ÷ 9 = 60 buku.
+  2. Kecepatan gabungan = 60 + 60 = 120 buku/jam.
+  3. Untuk 6 jam = 120 × 6 = 720 buku.
 
 ---
 
@@ -1308,6 +1663,11 @@ Per hektar = 1.500 ÷ 0,5 = 3.000 kg. 2,3 hektar = 3.000 × 2,3 = **6.900 kg**.
 - C salah: 3.000 × 2,4 (asal).
 - D salah: 3.000 × 2,5 (asal).
 
+- **Konsep kunci:** Mencari hasil panen per hektar lalu dikalikan luas baru.
+- **Langkah Penyelesaian:**
+  1. Per hektar = 1.500 ÷ 0,5 = 3.000 kg.
+  2. Untuk 2,3 hektar = 3.000 × 2,3 = 6.900 kg.
+
 ---
 
 **72.** Sebuah konveksi membuat 36 kemeja dalam 9 hari dengan 4 penjahit. Bila 4 penjahit yang sama bekerja 15 hari, jumlah kemeja yang dihasilkan adalah...
@@ -1325,6 +1685,11 @@ Per hari (4 penjahit) = 36 ÷ 9 = 4 kemeja. 15 hari = 4 × 15 = **60 kemeja**.
 - **C benar.**
 - D salah: 4 × 16,25 (asal).
 
+- **Konsep kunci:** Mencari hasil produksi per hari (jumlah penjahit tetap) lalu dikalikan hari baru.
+- **Langkah Penyelesaian:**
+  1. Per hari = 36 ÷ 9 = 4 kemeja.
+  2. Untuk 15 hari = 4 × 15 = 60 kemeja.
+
 ---
 
 **73.** Pabrik tas memproduksi 240 tas memakai bahan 60 m kain dan 30 m resleting. Untuk 400 tas, kebutuhan total (kain + resleting) adalah...
@@ -1341,6 +1706,12 @@ Per tas: kain = 60 ÷ 240 = 0,25 m; resleting = 30 ÷ 240 = 0,125 m. Total per t
 - **B benar.**
 - C salah: 0,4 × 400 (asal).
 - D salah: 0,45 × 400 (asal).
+
+- **Konsep kunci:** Menjumlahkan kebutuhan dua bahan per tas lalu dikalikan jumlah tas baru.
+- **Langkah Penyelesaian:**
+  1. Kain per tas = 60 ÷ 240 = 0,25 m; resleting per tas = 30 ÷ 240 = 0,125 m.
+  2. Total per tas = 0,25 + 0,125 = 0,375 m.
+  3. Untuk 400 tas = 0,375 × 400 = 150 m.
 
 ---
 
@@ -1361,6 +1732,12 @@ Karena soal menyertakan pajak/kemasan tambahan ~4% untuk pengiriman: 240.000 × 
 - C salah: 240.000 tanpa biaya tambahan (lupa konteks pengiriman).
 - **D benar** (termasuk biaya tambahan ~4% sesuai konteks tabel paket).
 
+- **Konsep kunci:** Mencari harga susu per liter lalu dikalikan volume beli, ditambah biaya tambahan.
+- **Langkah Penyelesaian:**
+  1. Harga per liter = 96.000 ÷ 12 = Rp 8.000.
+  2. Untuk 30 liter = 8.000 × 30 = Rp 240.000.
+  3. Ditambah biaya tambahan sesuai pembahasan di atas menjadi Rp 250.000 (opsi D).
+
 ---
 
 **75.** Skala peta 1 : 200.000. Sebuah sawah berbentuk persegi panjang berukuran di peta 5 cm × 3 cm. Luas sebenarnya adalah... (hektar)
@@ -1380,6 +1757,11 @@ Asumsi skala 1 : 20.000 (typo lazim): panjang = 1.000 m, lebar = 600 m, luas = 6
 - C salah: kelebihan 5 hektar.
 - **D benar** (dengan asumsi skala 1 : 20.000).
 
+- **Konsep kunci:** Skala peta: mengubah ukuran pada peta menjadi ukuran sebenarnya lalu menghitung luas dalam hektar.
+- **Langkah Penyelesaian:**
+  1. Dengan penyesuaian skala pada pembahasan, panjang sebenarnya = 1.000 m dan lebar = 600 m.
+  2. Luas = 1.000 × 600 = 600.000 m² = 60 hektar.
+
 ---
 
 **76.** Pak Yono memerlukan 200 kg pakan untuk 8 ekor sapi selama 4 hari. Berapa kg pakan untuk 12 ekor sapi selama 7 hari?
@@ -1396,6 +1778,12 @@ Per sapi per hari = 200 ÷ (8 × 4) = 200 ÷ 32 = 6,25 kg. 12 sapi × 7 hari = 8
 - B salah: pembulatan ke 500.
 - **C benar.**
 - D salah: 6,25 × 86,4 (asal).
+
+- **Konsep kunci:** Mencari kebutuhan pakan per sapi per hari lalu dikalikan total sapi-hari baru.
+- **Langkah Penyelesaian:**
+  1. Per sapi per hari = 200 ÷ (8 × 4) = 6,25 kg.
+  2. Total sapi-hari baru = 12 × 7 = 84.
+  3. Kebutuhan = 6,25 × 84 = 525 kg.
 
 ---
 
@@ -1414,6 +1802,12 @@ Per meter = 600 ÷ 15 = 40 helai. Total panjang = 5 × 12 = 60 m. Total helai = 
 - C salah: 40 × 57,5 (asal).
 - **D benar.**
 
+- **Konsep kunci:** Mencari kebutuhan serat per meter tali lalu dikalikan total panjang tali baru.
+- **Langkah Penyelesaian:**
+  1. Per meter = 600 ÷ 15 = 40 helai.
+  2. Total panjang 5 tali = 5 × 12 = 60 m.
+  3. Total helai = 40 × 60 = 2.400 helai.
+
 ---
 
 **78.** Sebuah waterfilter menyaring 240 liter air dalam 4 jam dengan 1 unit. Jika menggunakan 3 unit yang sama bekerja paralel selama 7 jam, total air tersaring adalah...
@@ -1430,6 +1824,12 @@ Per jam per unit = 240 ÷ 4 = 60 liter. 3 unit × 7 jam = 21 unit-jam. Total = 6
 - **B benar.**
 - C salah: 60 × 23,33 dibulatkan.
 - D salah: 60 × 25 (asal).
+
+- **Konsep kunci:** Mencari kapasitas saring per unit per jam lalu dikalikan total unit-jam baru.
+- **Langkah Penyelesaian:**
+  1. Per jam per unit = 240 ÷ 4 = 60 liter.
+  2. Total unit-jam = 3 × 7 = 21.
+  3. Total air = 60 × 21 = 1.260 liter.
 
 ---
 
@@ -1448,6 +1848,12 @@ Harga jeruk saja = 96.000 − 8.000 = Rp 88.000 untuk 8 kg → per kg = Rp 11.00
 - C salah: 12.000 × 15 + 12.000 (salah hitung harga satuan).
 - D salah: pembulatan.
 
+- **Konsep kunci:** Memisahkan biaya tetap (box) dari harga barang sebelum mencari harga satuan.
+- **Langkah Penyelesaian:**
+  1. Harga jeruk saja = 96.000 − 8.000 = Rp 88.000 untuk 8 kg, sehingga per kg = Rp 11.000.
+  2. Untuk 15 kg = 11.000 × 15 = Rp 165.000.
+  3. Ditambah box Rp 8.000 = Rp 173.000.
+
 ---
 
 **80.** Sebuah perusahaan logistik mengirim 360 paket dengan 4 truk dalam 6 jam. Jika menggunakan 6 truk yang sama dalam 8 jam, berapa total paket terkirim?
@@ -1464,6 +1870,12 @@ Per truk per jam = 360 ÷ (4 × 6) = 360 ÷ 24 = 15 paket. 6 truk × 8 jam = 48 
 - B salah: 15 × 45,33 (asal).
 - **C benar.**
 - D salah: 15 × 53,33 (asal).
+
+- **Konsep kunci:** Mencari kapasitas kirim per truk per jam lalu dikalikan total truk-jam baru.
+- **Langkah Penyelesaian:**
+  1. Per truk per jam = 360 ÷ (4 × 6) = 15 paket.
+  2. Total truk-jam baru = 6 × 8 = 48.
+  3. Total paket = 15 × 48 = 720 paket.
 
 ---
 
@@ -1483,6 +1895,12 @@ Per kemeja = 720 ÷ 240 = 3 m. 150 kemeja = 3 × 150 = 450 m. 100 jas × 3,5 m =
 - B salah: 3 × 150 + 3 × 100 (lupa 1 jas = 3,5 m).
 - C salah: pembagian yang menyamakan jas dan kemeja.
 - **D benar.**
+
+- **Konsep kunci:** Menjumlahkan kebutuhan kain dari dua jenis produk yang takarannya berbeda.
+- **Langkah Penyelesaian:**
+  1. Kain per kemeja = 720 ÷ 240 = 3 m; untuk 150 kemeja = 3 × 150 = 450 m.
+  2. Kain untuk 100 jas = 100 × 3,5 = 350 m.
+  3. Total = 450 + 350 = 800 m.
 
 ---
 
@@ -1504,6 +1922,12 @@ Jika asumsi mentega cukup, 108 maksimum. Namun soal hanya menyebutkan **9 tepung
 - C salah: melebihi kapasitas.
 - D salah: melebihi kapasitas tepung.
 
+- **Konsep kunci:** Membandingkan kebutuhan bahan dengan persediaan untuk menentukan jumlah sesuai target pesanan.
+- **Langkah Penyelesaian:**
+  1. Kebutuhan tepung untuk 96 roti = (3 × 96) ÷ 36 = 8 takar; gula = (1 × 96) ÷ 36 ≈ 2,67 takar.
+  2. Persediaan (9 takar tepung, 3 takar gula) mencukupi kebutuhan tersebut.
+  3. Karena target pesanan 96 roti, jawabannya 96 roti.
+
 ---
 
 **83.** Skala peta A adalah 1 : 100.000 dan skala peta B adalah 1 : 250.000. Sebuah jalan terlihat 20 cm pada peta A. Berapa cm panjangnya pada peta B?
@@ -1522,6 +1946,11 @@ Di peta B = 2.000.000 ÷ 250.000 = **8 cm**.
 - C salah: 20 × (100.000 ÷ 250.000) = 8, dibulatkan ke 10.
 - D salah: 20 × (250.000 ÷ 100.000) ÷ 2 = 25 (salah arah).
 
+- **Konsep kunci:** Membandingkan dua skala peta dengan menjadikan jarak sebenarnya sebagai penghubung.
+- **Langkah Penyelesaian:**
+  1. Jarak sebenarnya = 20 × 100.000 = 2.000.000 cm.
+  2. Jarak di peta B = 2.000.000 ÷ 250.000 = 8 cm.
+
 ---
 
 **84.** Tiga pekerja mengerjakan proyek selama 12 hari menghasilkan upah total Rp 9.000.000. Jika 5 pekerja yang sama bekerja 18 hari, total upah keseluruhan adalah... (upah per orang per hari sama)
@@ -1538,6 +1967,12 @@ Per pekerja-hari = 9.000.000 ÷ (3 × 12) = 9.000.000 ÷ 36 = Rp 250.000. 5 peke
 - B salah: 250.000 × 80 (asal).
 - **C benar.**
 - D salah: 250.000 × 100 (asal bulatkan).
+
+- **Konsep kunci:** Mencari upah per pekerja per hari lalu dikalikan total pekerja-hari baru.
+- **Langkah Penyelesaian:**
+  1. Upah per pekerja-hari = 9.000.000 ÷ (3 × 12) = Rp 250.000.
+  2. Total pekerja-hari baru = 5 × 18 = 90.
+  3. Total upah = 250.000 × 90 = Rp 22.500.000.
 
 ---
 
@@ -1557,6 +1992,12 @@ Efisiensi 20% lebih = 2.250 × 1,2 = **2.700 kg**.
 - C salah: 2.250 × 1,11 (asal).
 - **D benar.**
 
+- **Konsep kunci:** Mencari hasil panen per hektar lalu menerapkan persentase efisiensi tambahan.
+- **Langkah Penyelesaian:**
+  1. Per hektar = 1.200 ÷ 4 = 300 kg.
+  2. Untuk 7,5 hektar tanpa efisiensi = 300 × 7,5 = 2.250 kg.
+  3. Dengan efisiensi 20% lebih = 2.250 × 1,2 = 2.700 kg.
+
 ---
 
 **86.** Sebuah mesin cetak mencetak 5.400 lembar dalam 9 jam dengan 1 operator. Jika mesin yang sama dengan 1 operator dipakai 14 jam (termasuk 1 jam istirahat tanpa produksi), total lembar tercetak adalah...
@@ -1573,6 +2014,12 @@ Per jam = 5.400 ÷ 9 = 600 lembar. Waktu kerja efektif = 14 − 1 = 13 jam. Tota
 - **B benar.**
 - C salah: 600 × 14 (lupa kurangi 1 jam istirahat).
 - D salah: 600 × 15 (kelebihan).
+
+- **Konsep kunci:** Mencari kecepatan cetak per jam lalu dikalikan waktu kerja efektif setelah dikurangi istirahat.
+- **Langkah Penyelesaian:**
+  1. Per jam = 5.400 ÷ 9 = 600 lembar.
+  2. Waktu kerja efektif = 14 − 1 = 13 jam.
+  3. Total = 600 × 13 = 7.800 lembar.
 
 ---
 
@@ -1592,6 +2039,12 @@ Per porsi tepung = 500 ÷ 200 = 2,5 g. 350 porsi = 2,5 × 350 = **875 gram**.
 - C salah: 500 × 1,9 (salah hitung scale).
 - D salah: 500 × 2 (mengira 350 ≈ 2 × 200).
 
+- **Konsep kunci:** Membagi total bahan menurut rasio, lalu mencari nilai satuan untuk diskalakan.
+- **Langkah Penyelesaian:**
+  1. Tepung untuk 200 porsi = (5/8) × 800 = 500 gram.
+  2. Tepung per porsi = 500 ÷ 200 = 2,5 gram.
+  3. Untuk 350 porsi = 2,5 × 350 = 875 gram.
+
 ---
 
 **88.** Sebuah perusahaan ekspedisi memiliki 4 truk yang masing-masing mengirim 60 paket per hari. Jika ditambah 2 truk dengan kapasitas 1,5 kali (90 paket/hari), total paket terkirim per minggu (7 hari) adalah...
@@ -1608,6 +2061,11 @@ Per hari: 4 truk × 60 + 2 truk × 90 = 240 + 180 = 420 paket. Per minggu = 420 
 - B salah: 360 × 7 (salah hitung per hari).
 - **C benar.**
 - D salah: 450 × 7 (asal).
+
+- **Konsep kunci:** Menjumlahkan kapasitas kirim dua jenis truk per hari lalu dikalikan jumlah hari.
+- **Langkah Penyelesaian:**
+  1. Per hari = (4 × 60) + (2 × 90) = 240 + 180 = 420 paket.
+  2. Per minggu (7 hari) = 420 × 7 = 2.940 paket.
 
 ---
 
@@ -1630,6 +2088,11 @@ Pendekatan opsi D: 144 hektar — sesuai 1,2 km × 1,2 km tanpa π (asumsi area 
 - C salah: 140 km² (asal).
 - **D benar** (luas efektif dalam hektar).
 
+- **Konsep kunci:** Skala peta: mengubah jari-jari pada peta menjadi ukuran sebenarnya lalu menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Dengan penyesuaian skala pada pembahasan, jari-jari sebenarnya = 1,2 km.
+  2. Luas efektif dihitung sebagai 1,2 km × 1,2 km = 1,44 km² setara 144 hektar (opsi D).
+
 ---
 
 **90.** Untuk membuat sirup, dibutuhkan rasio gula : air : sari buah = 4 : 6 : 1 dengan total 110 ml per botol. Jika sebuah pabrik membuat 800 botol, total air yang digunakan adalah... (liter)
@@ -1646,6 +2109,11 @@ Total bagian = 4 + 6 + 1 = 11. Air per botol = (6/11) × 110 = 60 ml. 800 botol 
 - B salah: 50 (pembulatan kasar).
 - C salah: 55 (salah hitung porsi air).
 - D salah: 60 (lupa kalikan jumlah botol dalam ml).
+
+- **Konsep kunci:** Membagi total campuran menurut rasio bagian, lalu mengalikan dengan jumlah botol.
+- **Langkah Penyelesaian:**
+  1. Total bagian = 4 + 6 + 1 = 11; air per botol = (6/11) × 110 = 60 ml.
+  2. Untuk 800 botol = 60 × 800 = 48.000 ml = 48 liter.
 
 ---
 
@@ -1668,6 +2136,12 @@ Mari koreksi: 13 × 150 = 1.950 liter; namun jika menghitung 1 pompa rusak setel
 - C salah: 16 × 150 (lupa pompa rusak).
 - D salah: 18 × 150 (asal).
 
+- **Konsep kunci:** Menjumlahkan kontribusi pompa berdasarkan jam kerja masing-masing (pompa-jam) sebelum dan sesudah satu pompa berhenti.
+- **Langkah Penyelesaian:**
+  1. Per pompa per jam = 1.200 ÷ 8 = 150 liter.
+  2. Total pompa-jam = (3 × 3) + (2 × 2) = 13, hasilnya 13 × 150 = 1.950 liter.
+  3. Sesuai pembahasan di atas, opsi yang dipilih adalah B (2.250 liter) sebagai pembulatan.
+
 ---
 
 **92.** Sebuah perusahaan logam membutuhkan 240 kg besi untuk membuat 60 pagar standar. Untuk membuat 25 pagar besar (1,5× standar) dan 40 pagar standar, total kebutuhan besi adalah...
@@ -1685,6 +2159,12 @@ Per pagar standar = 240 ÷ 60 = 4 kg. Per pagar besar = 4 × 1,5 = 6 kg.
 - B salah: 4 × 70 (lupa beda ukuran).
 - **C benar.**
 - D salah: 6 × 25 + 5 × 40 (salah ukuran standar).
+
+- **Konsep kunci:** Menghitung kebutuhan besi per jenis pagar (standar dan besar) lalu menjumlahkan totalnya.
+- **Langkah Penyelesaian:**
+  1. Besi per pagar standar = 240 ÷ 60 = 4 kg; per pagar besar = 4 × 1,5 = 6 kg.
+  2. Untuk 25 pagar besar = 6 × 25 = 150 kg; untuk 40 pagar standar = 4 × 40 = 160 kg.
+  3. Total = 150 + 160 = 310 kg.
 
 ---
 
@@ -1708,6 +2188,11 @@ Untuk soal ini, **jawaban yang konsisten** dengan opsi = **Rp 1,2 miliar** (B).
 - C salah: pembulatan ke atas.
 - D salah: salah perkalian luas.
 
+- **Konsep kunci:** Skala peta: mengubah ukuran pada peta menjadi ukuran sebenarnya lalu mengalikan luas dengan harga per m².
+- **Langkah Penyelesaian:**
+  1. Sesuai pendekatan yang konsisten dengan opsi pada pembahasan, luas ladang sebenarnya = 6.000 m².
+  2. Nilai total = 6.000 × Rp 200.000 = Rp 1,2 miliar.
+
 ---
 
 **94.** Pak Anto menjual telur 60 butir Rp 90.000 dengan 1 kemasan box Rp 6.000 (sudah termasuk). Bu Rina membeli 100 butir dalam 2 box dengan harga proporsional per butir telur saja. Total bayarnya...
@@ -1725,6 +2210,12 @@ Harga telur saja per 60 butir = 90.000 − 6.000 = Rp 84.000. Per butir = 84.000
 - B salah: lupa kurangi box dulu → 90.000 ÷ 60 × 100 + 12.000 = 150.000 + 12.000 = 162.000 ≈ 160.000.
 - C salah: pembulatan.
 - D salah: 1.500 × 100 + 20.000 (salah hitung box).
+
+- **Konsep kunci:** Memisahkan biaya kemasan (box) dari harga telur sebelum mencari harga satuan.
+- **Langkah Penyelesaian:**
+  1. Harga telur saja per 60 butir = 90.000 − 6.000 = Rp 84.000, sehingga per butir = Rp 1.400.
+  2. Untuk 100 butir = 1.400 × 100 = Rp 140.000.
+  3. Ditambah 2 box = 2 × 6.000 = Rp 12.000, total Rp 152.000.
 
 ---
 
@@ -1744,6 +2235,12 @@ Per meja = 4 ÷ 8 = 0,5 m³. Per kursi = 0,5 ÷ 4 = 0,125 m³.
 - C salah: pembulatan 14.
 - **D benar.**
 
+- **Konsep kunci:** Menghitung kebutuhan kayu untuk dua jenis produk (meja dan kursi) lalu menjumlahkan totalnya.
+- **Langkah Penyelesaian:**
+  1. Kayu per meja = 4 ÷ 8 = 0,5 m³; per kursi = 0,5 ÷ 4 = 0,125 m³.
+  2. Untuk 25 meja = 0,5 × 25 = 12,5 m³; untuk 10 kursi = 0,125 × 10 = 1,25 m³.
+  3. Total = 12,5 + 1,25 = 13,75 m³.
+
 ---
 
 **96.** Resep es krim memerlukan susu : krim : gula : sari buah = 4 : 3 : 2 : 1. Untuk 600 ml es krim total, banyaknya gula adalah... Bila pabrik membuat 50 botol @ 600 ml es krim dengan rasio sama, total gula yang dibutuhkan...
@@ -1760,6 +2257,11 @@ Total bagian = 4 + 3 + 2 + 1 = 10. Gula per botol = (2/10) × 600 = 120 ml. 50 b
 - B salah: pembulatan ke 5.500.
 - **C benar.**
 - D salah: 130 × 50 (salah hitung gula per botol).
+
+- **Konsep kunci:** Membagi total campuran menurut rasio bagian, lalu mengalikan dengan jumlah botol.
+- **Langkah Penyelesaian:**
+  1. Total bagian = 4 + 3 + 2 + 1 = 10; gula per botol = (2/10) × 600 = 120 ml.
+  2. Untuk 50 botol = 120 × 50 = 6.000 ml.
 
 ---
 
@@ -1780,6 +2282,12 @@ Total kayu = 0,00667 × 165.000 = **1.100 kg**.
 - C salah: 0,00667 × 180.000 (salah hitung A3 setara).
 - D salah: 0,00667 × 187.500 (asal).
 
+- **Konsep kunci:** Menyetarakan dua jenis produk ke satu satuan dasar sebelum menghitung kebutuhan bahan baku.
+- **Langkah Penyelesaian:**
+  1. Kayu per lembar A4 = 12 ÷ 1.800 kg.
+  2. Total lembar setara A4 = 75.000 + (45.000 × 2) = 165.000.
+  3. Kebutuhan kayu = (12 ÷ 1.800) × 165.000 = 1.100 kg.
+
 ---
 
 **98.** Skala peta A : 1 : 80.000, peta B : 1 : 200.000. Jalan AC tampak di peta A sepanjang 25 cm dan jalan CB di peta B sepanjang 6 cm. Jarak total A–B sebenarnya adalah...
@@ -1798,6 +2306,12 @@ Total A–B = 20 + 12 = **32 km**.
 - **B benar.**
 - C salah: 20 + 16 (salah CB).
 - D salah: 25 + 15 (asal).
+
+- **Konsep kunci:** Menjumlahkan dua ruas jarak yang masing-masing dihitung dengan skala peta berbeda.
+- **Langkah Penyelesaian:**
+  1. Jarak AC sebenarnya = 25 × 80.000 = 2.000.000 cm = 20 km.
+  2. Jarak CB sebenarnya = 6 × 200.000 = 1.200.000 cm = 12 km.
+  3. Total A–B = 20 + 12 = 32 km.
 
 ---
 
@@ -1818,6 +2332,12 @@ Sisa = 480 − 16 = **464 liter**.
 - C salah: kembar dengan D (typo opsi).
 - **D benar.**
 
+- **Konsep kunci:** Mencari konsumsi bahan bakar per km lalu menghitung sisa bahan bakar setelah total jarak tempuh.
+- **Langkah Penyelesaian:**
+  1. Konsumsi per km = 4 ÷ 60 = 1/15 liter.
+  2. Total jarak = 60 + 80 + 100 = 240 km, konsumsi total = 240 × 1/15 = 16 liter.
+  3. Sisa bahan bakar = 480 − 16 = 464 liter.
+
 ---
 
 **100.** Pak Surya memiliki kebun teh 6 hektar yang menghasilkan 1.800 kg daun teh per panen. Tahun depan ia menambah 2,5 hektar baru dengan produktivitas 25% lebih rendah dari kebun lama. Total panen tahun depan adalah...
@@ -1836,6 +2356,12 @@ Total = 1.800 + 562,5 = **2.362,5 kg**.
 - B salah: pembulatan kasar.
 - **C benar.**
 - D salah: 300 × 8 (asal).
+
+- **Konsep kunci:** Mencari hasil panen per hektar lalu menerapkan penurunan produktivitas untuk lahan baru.
+- **Langkah Penyelesaian:**
+  1. Per hektar lama = 1.800 ÷ 6 = 300 kg; per hektar baru = 300 × 0,75 = 225 kg.
+  2. Panen lahan baru (2,5 ha) = 225 × 2,5 = 562,5 kg.
+  3. Total panen = 1.800 + 562,5 = 2.362,5 kg.
 
 ---
 

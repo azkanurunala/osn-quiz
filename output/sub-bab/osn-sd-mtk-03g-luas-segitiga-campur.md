@@ -110,6 +110,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa mengalikan ½. Hanya menghitung a × t = 60. Ini miskonsepsi paling sering pada luas segitiga.
 - **C** — Salah. Menjumlahkan alas + tinggi (10 + 6 = 16). Itu bukan rumus apa pun untuk luas.
 - **D** — Salah. (10 + 6) × 2 = 32. Membingungkan dengan keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 10 cm, tinggi = 6 cm.
+  2. L = ½ × 10 × 6 = 30 cm².
 
 ---
 
@@ -124,6 +128,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan alas + tinggi (8 + 5). Itu bukan rumus luas.
 - **C** — Salah. Lupa membagi 2 (lupa ½). Hanya menghitung 8 × 5 = 40. Ini hasil persegi panjang, bukan segitiga.
 - **D** — Salah. (8 + 5) × 2 = 26. Keliling persegi panjang, bukan luas segitiga.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 8 cm, tinggi = 5 cm.
+  2. L = ½ × 8 × 5 = 20 cm².
 
 ---
 
@@ -138,6 +146,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (12 + 7) × 2 = 38. Keliling persegi panjang, bukan luas.
 - **C** — Salah. Lupa ½. Hanya menghitung 12 × 7 = 84. Itu luas persegi panjang.
 - **D** — Benar. L = ½ × 12 × 7 = ½ × 84 = 42 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 12 cm, tinggi = 7 cm.
+  2. L = ½ × 12 × 7 = 42 cm².
 
 ---
 
@@ -152,6 +164,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. Hanya 6 × 8 = 48. Itu luas persegi panjang.
 - **C** — Benar. Dua sisi penyiku saling tegak lurus, jadi langsung jadi alas dan tinggi. L = ½ × 6 × 8 = 24 cm².
 - **D** — Salah. (6 + 8) × 2 = 28. Keliling persegi panjang, bukan luas.
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 6 cm dan 8 cm saling tegak lurus.
+  2. L = ½ × 6 × 8 = 24 cm².
 
 ---
 
@@ -166,6 +182,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 14 + 4 = 18. Bukan rumus luas.
 - **C** — Salah. (14 + 4) × 2 = 36. Itu rumus keliling persegi panjang.
 - **D** — Benar. L = ½ × 14 × 4 = ½ × 56 = 28 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 14 cm, tinggi = 4 cm.
+  2. L = ½ × 14 × 4 = 28 cm².
 
 ---
 
@@ -180,6 +200,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 16 × 9 = 144. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 16 + 9 = 25. Bukan rumus luas.
 - **D** — Salah. (16 + 9) × 2 = 50. Keliling persegi panjang, bukan luas.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 16 cm, tinggi = 9 cm.
+  2. L = ½ × 16 × 9 = 72 cm².
 
 ---
 
@@ -194,6 +218,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (20 + 15) × 2 = 70. Keliling, bukan luas.
 - **C** — Salah. Lupa ½. 20 × 15 = 300. Itu luas persegi panjang.
 - **D** — Benar. L = ½ × 20 × 15 = ½ × 300 = 150 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 20 cm, tinggi = 15 cm.
+  2. L = ½ × 20 × 15 = 150 cm².
 
 ---
 
@@ -208,6 +236,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. L = ½ × 18 × 10 = ½ × 180 = 90 cm².
 - **C** — Salah. Menjumlahkan 18 + 10 = 28. Bukan rumus luas.
 - **D** — Salah. (18 + 10) × 2 = 56. Keliling persegi panjang, bukan luas.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 18 cm, tinggi = 10 cm.
+  2. L = ½ × 18 × 10 = 90 cm².
 
 ---
 
@@ -222,6 +254,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (9 + 12) × 2 = 42. Keliling persegi panjang.
 - **C** — Salah. Lupa ½. 9 × 12 = 108. Luas persegi panjang.
 - **D** — Benar. Sisi penyiku saling tegak lurus → alas 9, tinggi 12 (atau sebaliknya). L = ½ × 9 × 12 = ½ × 108 = 54 cm².
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 9 cm dan 12 cm saling tegak lurus.
+  2. L = ½ × 9 × 12 = 54 cm².
 
 ---
 
@@ -236,6 +272,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 24 + 5 = 29. Bukan rumus luas.
 - **C** — Benar. L = ½ × 24 × 5 = ½ × 120 = 60 cm².
 - **D** — Salah. (24 + 5) × 2 = 58. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 24 cm, tinggi = 5 cm.
+  2. L = ½ × 24 × 5 = 60 cm².
 
 ---
 
@@ -250,6 +290,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 30 × 12 = 360. Itu luas persegi panjang.
 - **C** — Salah. Menjumlahkan 30 + 12 = 42. Bukan rumus luas.
 - **D** — Salah. (30 + 12) × 2 = 84. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 30 cm, tinggi = 12 cm.
+  2. L = ½ × 30 × 12 = 180 cm².
 
 ---
 
@@ -264,6 +308,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 11 × 4 = 44. Luas persegi panjang.
 - **C** — Benar. L = ½ × 11 × 4 = ½ × 44 = 22 cm².
 - **D** — Salah. (11 + 4) × 2 = 30. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 11 cm, tinggi = 4 cm.
+  2. L = ½ × 11 × 4 = 22 cm².
 
 ---
 
@@ -278,6 +326,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 9 × 8 = 72. Luas persegi panjang.
 - **C** — Salah. (9 + 8) × 2 = 34. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 9 × 8 = ½ × 72 = 36 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 9 cm, tinggi = 8 cm.
+  2. L = ½ × 9 × 8 = 36 cm².
 
 ---
 
@@ -292,6 +344,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 25 × 8 = 200. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 25 + 8 = 33. Bukan rumus luas.
 - **D** — Salah. (25 + 8) × 2 = 66. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 25 cm, tinggi = 8 cm.
+  2. L = ½ × 25 × 8 = 100 cm².
 
 ---
 
@@ -306,6 +362,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 5 + 12 = 17. Bukan rumus luas.
 - **C** — Salah. Lupa ½. 12 × 5 = 60. Luas persegi panjang.
 - **D** — Salah. (5 + 12) × 2 = 34. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga siku-siku, sisi tegak dan sisi mendatar sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Sisi tegak 5 cm dan mendatar 12 cm saling tegak lurus.
+  2. L = ½ × 12 × 5 = 30 cm².
 
 ---
 
@@ -320,6 +380,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. t = (2 × L) / a = (2 × 24) / 8 = 48/8 = 6 cm.
 - **C** — Salah. Menghitung t = L/a × 2 = (24/8) × 2 dengan urutan yang benar tetapi lalu dikalikan 2 lagi → 6 × 2 = 12. Operasi kelebihan.
 - **D** — Salah. Membagi alas, bukan luas: 8 × 2 = 16. Asal kalikan.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 24) / 8.
+  2. t = 48 / 8 = 6 cm.
 
 ---
 
@@ -334,6 +398,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. a = (2 × L) / t = (2 × 40) / 10 = 80/10 = 8 cm.
 - **C** — Salah. (40 / 10) × 5 atau salah hitung. Kelebihan operasi.
 - **D** — Salah. Menjumlahkan 40 − 10 − 16? Asal-asalan.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 40) / 10.
+  2. a = 80 / 10 = 8 cm.
 
 ---
 
@@ -348,6 +416,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (7 + 6) × 2 = 26. Keliling persegi panjang.
 - **C** — Salah. Lupa ½. 7 × 6 = 42. Luas persegi panjang.
 - **D** — Benar. L = ½ × 7 × 6 = ½ × 42 = 21 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 7 cm, tinggi = 6 cm.
+  2. L = ½ × 7 × 6 = 21 cm².
 
 ---
 
@@ -362,6 +434,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 22 × 10 = 220. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 22 + 10 = 32. Bukan rumus luas.
 - **D** — Salah. (22 + 10) × 2 = 64. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 22 cm, tinggi = 10 cm.
+  2. L = ½ × 22 × 10 = 110 cm².
 
 ---
 
@@ -376,6 +452,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 7 × 24 = 168. Luas persegi panjang.
 - **C** — Benar. Dua kaki siku-siku tegak lurus → alas 24, tinggi 7. L = ½ × 24 × 7 = ½ × 168 = 84 cm².
 - **D** — Salah. (7 + 24) × 2 = 62. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 7 cm dan 24 cm saling tegak lurus.
+  2. L = ½ × 24 × 7 = 84 cm².
 
 ---
 
@@ -390,6 +470,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 13 × 4 = 52. Luas persegi panjang.
 - **C** — Benar. L = ½ × 13 × 4 = ½ × 52 = 26 cm².
 - **D** — Salah. (13 + 4) × 2 = 34. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 13 cm, tinggi = 4 cm.
+  2. L = ½ × 13 × 4 = 26 cm².
 
 ---
 
@@ -404,6 +488,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 40 + 6 = 46. Bukan rumus luas.
 - **C** — Salah. (40 + 6) × 2 = 92. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 40 × 6 = ½ × 240 = 120 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 40 cm, tinggi = 6 cm.
+  2. L = ½ × 40 × 6 = 120 cm².
 
 ---
 
@@ -418,6 +506,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 15 + 6 = 21. Bukan rumus luas.
 - **C** — Benar. L = ½ × 15 × 6 = ½ × 90 = 45 cm².
 - **D** — Salah. (15 + 6) × 2 = 42. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 15 cm, tinggi = 6 cm.
+  2. L = ½ × 15 × 6 = 45 cm².
 
 ---
 
@@ -432,6 +524,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. t = (2 × L) / a = (2 × 36) / 9 = 72/9 = 8 cm.
 - **C** — Salah. Menjumlahkan luas dan alas asal-asalan (36/2 = 18). Salah rumus.
 - **D** — Salah. Mengira t = L − a = 36 − 9 = 27. Operasi ngarang.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 36) / 9.
+  2. t = 72 / 9 = 8 cm.
 
 ---
 
@@ -446,6 +542,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. a = (2 × L) / t = (2 × 60) / 12 = 120/12 = 10 cm.
 - **C** — Salah. 60/12 × 4? Operasi kelebihan.
 - **D** — Salah. 60 / (12/2) = 60/6 = 10? Lalu dikalikan 2 lagi → 20 / kelebihan operasi → 24. Acak.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 60) / 12.
+  2. a = 120 / 12 = 10 cm.
 
 ---
 
@@ -460,6 +560,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 6 × 3 = 18. Luas persegi panjang.
 - **C** — Salah. (6 + 3) × ?? = 12 atau menjumlahkan + selisih. Bukan rumus apa pun.
 - **D** — Salah. 6 × 3 × ½ × 2? Mengalikan dua kali. Operasi ganda.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 6 cm, tinggi = 3 cm.
+  2. L = ½ × 6 × 3 = 9 cm².
 
 ---
 
@@ -474,6 +578,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. L = ½ × 10 × 4 = ½ × 40 = 20 cm².
 - **C** — Salah. Lupa ½. 10 × 4 = 40. Luas persegi panjang.
 - **D** — Salah. (10 + 4) × 2 = 28. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 10 cm, tinggi = 4 cm.
+  2. L = ½ × 10 × 4 = 20 cm².
 
 ---
 
@@ -488,6 +596,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 16 + 5 = 21. Bukan rumus luas.
 - **C** — Benar. L = ½ × 16 × 5 = ½ × 80 = 40 cm².
 - **D** — Salah. (16 + 5) × 2 = 42. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 16 cm, tinggi = 5 cm.
+  2. L = ½ × 16 × 5 = 40 cm².
 
 ---
 
@@ -502,6 +614,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (17 + 6) × 2 = 46. Keliling persegi panjang.
 - **C** — Salah. Lupa ½. 17 × 6 = 102. Luas persegi panjang.
 - **D** — Benar. L = ½ × 17 × 6 = ½ × 102 = 51 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 17 cm, tinggi = 6 cm.
+  2. L = ½ × 17 × 6 = 51 cm².
 
 ---
 
@@ -516,6 +632,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 28 × 4 = 112. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 28 + 4 = 32. Bukan rumus luas.
 - **D** — Salah. (28 + 4) × 2 = 64. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 28 cm, tinggi = 4 cm.
+  2. L = ½ × 28 × 4 = 56 cm².
 
 ---
 
@@ -530,6 +650,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 10 × 6 = 60. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 10 + 6 = 16. Bukan rumus luas.
 - **D** — Salah. (10 + 6) × 2 = 32. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 10 cm dan 6 cm saling tegak lurus.
+  2. L = ½ × 10 × 6 = 30 cm².
 
 ---
 
@@ -544,6 +668,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. t = (2 × L) / a = (2 × 48) / 16 = 96/16 = 6 cm.
 - **C** — Salah. 48/16 × 4 = 12. Operasi kelebihan.
 - **D** — Salah. 48/2 = 24. Mengira tinggi = setengah luas.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 48) / 16.
+  2. t = 96 / 16 = 6 cm.
 
 ---
 
@@ -558,6 +686,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 50 + 6 = 56. Bukan rumus luas.
 - **C** — Salah. (50 + 6) × 2 = 112. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 50 × 6 = ½ × 300 = 150 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 50 cm, tinggi = 6 cm.
+  2. L = ½ × 50 × 6 = 150 cm².
 
 ---
 
@@ -572,6 +704,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (14 + 10) × 2 = 48. Keliling persegi panjang.
 - **C** — Salah. Lupa ½. 14 × 10 = 140. Luas persegi panjang.
 - **D** — Benar. L = ½ × 14 × 10 = ½ × 140 = 70 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 14 cm, tinggi = 10 cm.
+  2. L = ½ × 14 × 10 = 70 cm².
 
 ---
 
@@ -586,6 +722,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 26 + 5 = 31. Bukan rumus luas.
 - **C** — Salah. (26 + 5) × 2 = 62. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 26 × 5 = ½ × 130 = 65 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 26 cm, tinggi = 5 cm.
+  2. L = ½ × 26 × 5 = 65 cm².
 
 ---
 
@@ -600,6 +740,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. a = (2 × L) / t = (2 × 70) / 14 = 140/14 = 10 cm.
 - **C** — Salah. Menyamakan dengan tinggi (asal pilih).
 - **D** — Salah. 70/14 × 4 = 20. Operasi kelebihan.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 70) / 14.
+  2. a = 140 / 14 = 10 cm.
 
 ---
 
@@ -614,6 +758,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. L = ½ × 9 × 4 = ½ × 36 = 18 cm².
 - **C** — Salah. Lupa ½. 9 × 4 = 36. Luas persegi panjang.
 - **D** — Salah. (9 + 4) × 2 = 26. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 9 cm, tinggi = 4 cm.
+  2. L = ½ × 9 × 4 = 18 cm².
 
 ---
 
@@ -628,6 +776,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 36 + 4 = 40. Bukan rumus luas.
 - **C** — Benar. L = ½ × 36 × 4 = ½ × 144 = 72 cm².
 - **D** — Salah. (36 + 4) × 2 = 80. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 36 cm, tinggi = 4 cm.
+  2. L = ½ × 36 × 4 = 72 cm².
 
 ---
 
@@ -642,6 +794,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 8 × 15 = 120. Luas persegi panjang.
 - **C** — Benar. Dua kaki siku-siku tegak lurus → alas 15, tinggi 8. L = ½ × 15 × 8 = ½ × 120 = 60 cm².
 - **D** — Salah. (8 + 15) × 2 = 46. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 8 cm dan 15 cm saling tegak lurus.
+  2. L = ½ × 15 × 8 = 60 cm².
 
 ---
 
@@ -656,6 +812,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 5 × 8 = 40. Luas persegi panjang.
 - **C** — Benar. L = ½ × 5 × 8 = ½ × 40 = 20 cm².
 - **D** — Salah. (5 + 8) × 2 = 26. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 5 cm, tinggi = 8 cm.
+  2. L = ½ × 5 × 8 = 20 cm².
 
 ---
 
@@ -670,6 +830,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 100 × 10 = 1.000. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 100 + 10 = 110. Bukan rumus luas.
 - **D** — Salah. (100 + 10) × 2 = 220. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 100 cm, tinggi = 10 cm.
+  2. L = ½ × 100 × 10 = 500 cm².
 
 ---
 
@@ -684,6 +848,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (21 + 4) × 2 = 50. Keliling persegi panjang.
 - **C** — Salah. Lupa ½. 21 × 4 = 84. Luas persegi panjang.
 - **D** — Benar. L = ½ × 21 × 4 = ½ × 84 = 42 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 21 cm, tinggi = 4 cm.
+  2. L = ½ × 21 × 4 = 42 cm².
 
 ---
 
@@ -698,6 +866,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 8 × 3 = 24. Luas persegi panjang.
 - **C** — Benar. L = ½ × 8 × 3 = ½ × 24 = 12 cm².
 - **D** — Salah. (8 + 3) × 2 = 22. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 8 cm, tinggi = 3 cm.
+  2. L = ½ × 8 × 3 = 12 cm².
 
 ---
 
@@ -712,6 +884,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. t = (2 × L) / a = (2 × 25) / 10 = 50/10 = 5 cm.
 - **C** — Salah. 25/10 × 5 = 12,5. Operasi kelebihan.
 - **D** — Salah. 25 − 10 − 7,5? Asal hitung.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 25) / 10.
+  2. t = 50 / 10 = 5 cm.
 
 ---
 
@@ -726,6 +902,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. Samakan satuan: 2 m = 200 cm. L = ½ × 200 × 80 = ½ × 16.000 = 8.000 cm².
 - **C** — Salah. Lupa ½ setelah satuan benar. 200 × 80 = 16.000.
 - **D** — Salah. ½ × 2 × 80 × 20? Angka asal.
+- **Konsep kunci:** Sebelum menghitung luas, satuan alas dan tinggi harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 2 m = 200 cm.
+  2. L = ½ × 200 × 80 = 8.000 cm².
 
 ---
 
@@ -740,6 +920,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 12 × 8 = 96. Luas persegi panjang.
 - **C** — Benar. L = ½ × 12 × 8 = ½ × 96 = 48 cm².
 - **D** — Salah. (12 + 8) × 2 = 40. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 12 cm, tinggi = 8 cm.
+  2. L = ½ × 12 × 8 = 48 cm².
 
 ---
 
@@ -754,6 +938,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Menjumlahkan 18 + 6 = 24. Bukan rumus luas.
 - **C** — Salah. (18 + 6) × 2 = 48. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 18 × 6 = ½ × 108 = 54 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 18 cm, tinggi = 6 cm.
+  2. L = ½ × 18 × 6 = 54 cm².
 
 ---
 
@@ -768,6 +956,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. (7 + 8) × 2 = 30. Keliling persegi panjang.
 - **C** — Benar. L = ½ × 7 × 8 = ½ × 56 = 28 cm².
 - **D** — Salah. Lupa ½. 7 × 8 = 56. Luas persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 7 cm, tinggi = 8 cm.
+  2. L = ½ × 7 × 8 = 28 cm².
 
 ---
 
@@ -782,6 +974,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Benar. a = (2 × L) / t = (2 × 96) / 16 = 192/16 = 12 cm.
 - **C** — Salah. 96/16 × 4 = 24. Operasi kelebihan.
 - **D** — Salah. 96/2 = 48. Asal bagi.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 96) / 16.
+  2. a = 192 / 16 = 12 cm.
 
 ---
 
@@ -796,6 +992,10 @@ Operasi langsung pada rumus L = ½ × a × t, alas–tinggi sudah ditunjuk, 1–
 - **B** — Salah. Lupa ½. 12 × 5 = 60. Luas persegi panjang.
 - **C** — Salah. (12 + 5) × 2 = 34. Keliling persegi panjang.
 - **D** — Benar. Dua kaki siku-siku tegak lurus → alas 12, tinggi 5. L = ½ × 12 × 5 = ½ × 60 = 30 cm².
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 12 cm dan 5 cm saling tegak lurus.
+  2. L = ½ × 12 × 5 = 30 cm².
 
 ---
 
@@ -816,6 +1016,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 4 × 3 = 12. Layar bukan persegi panjang.
 - **C** — Salah. Menjumlahkan 4 + 3 = 7. Bukan rumus luas.
 - **D** — Salah. (4 + 3) × 2 = 14. Keliling persegi panjang.
+- **Konsep kunci:** Pada layar perahu, tinggi tiang dan panjang batang bawah saling tegak lurus, jadi langsung dipakai sebagai tinggi dan alas.
+- **Langkah Penyelesaian:**
+  1. Alas = 3 m (batang bawah), tinggi = 4 m (tiang).
+  2. L = ½ × 3 × 4 = 6 m².
 
 ---
 
@@ -830,6 +1034,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 8 × 3 = 24. Itu luas persegi panjang.
 - **C** — Benar. Alas = lebar dasar = 8 m, tinggi = 3 m (tegak lurus). L = ½ × 8 × 3 = ½ × 24 = 12 m².
 - **D** — Salah. (8 + 3) × 2 = 22. Keliling persegi panjang.
+- **Konsep kunci:** Pada penampang atap segitiga, alas = lebar dasar dan tinggi = tinggi puncak, keduanya tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 8 m, tinggi = 3 m.
+  2. L = ½ × 8 × 3 = 12 m².
 
 ---
 
@@ -844,6 +1052,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. (10 + 8,66) × 2 = 37,32. Keliling persegi panjang.
 - **C** — Salah. Menjumlahkan 10 + 8,66 = 18,66. Bukan rumus luas.
 - **D** — Benar. L = ½ × 10 × 8,66 = ½ × 86,6 = 43,3 cm².
+- **Konsep kunci:** Luas segitiga sama sisi tetap memakai rumus dasar L = ½ × a × t dengan tinggi yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Alas = 10 cm, tinggi = 8,66 cm.
+  2. L = ½ × 10 × 8,66 = 43,3 cm².
 
 ---
 
@@ -858,6 +1070,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Menjumlahkan 40 + 25 = 65. Bukan rumus luas.
 - **C** — Benar. L = ½ × 40 × 25 = ½ × 1.000 = 500 m².
 - **D** — Salah. (40 + 25) × 2 = 130. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 40 m, tinggi = 25 m.
+  2. L = ½ × 40 × 25 = 500 m².
 
 ---
 
@@ -872,6 +1088,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Menjumlahkan 60 + 52 = 112. Bukan rumus luas.
 - **C** — Salah. (60 + 52) × 2 = 224. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 60 × 52 = ½ × 3.120 = 1.560 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 60 cm, tinggi = 52 cm.
+  2. L = ½ × 60 × 52 = 1.560 cm².
 
 ---
 
@@ -886,6 +1106,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Menjumlahkan 30 + 40 = 70. Bukan rumus luas.
 - **C** — Salah. (30 + 40) × 2 = 140. Keliling persegi panjang.
 - **D** — Benar. Sisi tegak dan mendatar pada siku-siku saling tegak lurus → langsung alas dan tinggi. L = ½ × 40 × 30 = ½ × 1.200 = 600 cm².
+- **Konsep kunci:** Pada segitiga siku-siku, sisi tegak dan sisi mendatar sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Sisi tegak 30 cm dan mendatar 40 cm saling tegak lurus.
+  2. L = ½ × 40 × 30 = 600 cm².
 
 ---
 
@@ -900,6 +1124,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. 120/20 = 6. Mengira L = a × t. Lupa ½.
 - **C** — Benar. t = (2 × L) / a = (2 × 120) / 20 = 240/20 = 12 m.
 - **D** — Salah. 120/(20/4) = 24. Operasi asal.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 120) / 20.
+  2. t = 240 / 20 = 12 m.
 
 ---
 
@@ -914,6 +1142,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 20 × 15 = 300. Luas persegi panjang.
 - **C** — Benar. L = ½ × 20 × 15 = ½ × 300 = 150 cm².
 - **D** — Salah. (20 + 15) × 2 = 70. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 20 cm, tinggi = 15 cm.
+  2. L = ½ × 20 × 15 = 150 cm².
 
 ---
 
@@ -928,6 +1160,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 18 × 24 = 432. Luas persegi panjang.
 - **C** — Benar. Dua kaki siku-siku tegak lurus → alas 24, tinggi 18. L = ½ × 24 × 18 = ½ × 432 = 216 cm².
 - **D** — Salah. (18 + 24) × 2 = 84. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga siku-siku, dua sisi penyiku (kaki) sudah saling tegak lurus, jadi langsung jadi alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Kaki 18 cm dan 24 cm saling tegak lurus.
+  2. L = ½ × 24 × 18 = 216 cm².
 
 ---
 
@@ -942,6 +1178,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. t = (2 × L) / a = (2 × 84) / 14 = 168/14 = 12 cm.
 - **C** — Salah. 84/14 × 4 = 24. Operasi kelebihan.
 - **D** — Salah. 84 − 14 − 34? Asal hitung.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 84) / 14.
+  2. t = 168 / 14 = 12 cm.
 
 ---
 
@@ -956,6 +1196,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 30 × 18 = 540. Luas persegi panjang.
 - **C** — Salah. Menjumlahkan 30 + 18 = 48. Bukan rumus luas.
 - **D** — Salah. (30 + 18) × 2 = 96. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 30 m, tinggi = 18 m.
+  2. L = ½ × 30 × 18 = 270 m².
 
 ---
 
@@ -970,6 +1214,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Menjumlahkan 6 + 4 = 10. Bukan rumus luas.
 - **C** — Salah. (6 + 4) × 2 = 20. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 6 × 4 = ½ × 24 = 12 m².
+- **Konsep kunci:** Pada layar perahu, tinggi tiang dan panjang batang bawah saling tegak lurus, jadi langsung dipakai sebagai tinggi dan alas.
+- **Langkah Penyelesaian:**
+  1. Alas = 4 m, tinggi = 6 m.
+  2. L = ½ × 6 × 4 = 12 m².
 
 ---
 
@@ -984,6 +1232,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. a = (2 × L) / t = (2 × 75) / 15 = 150/15 = 10 cm.
 - **C** — Salah. Menyamakan dengan tinggi (asal pilih).
 - **D** — Salah. 75/15 × 5 = 25. Operasi kelebihan.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 75) / 15.
+  2. a = 150 / 15 = 10 cm.
 
 ---
 
@@ -998,6 +1250,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa mengalikan dengan jumlah bibit/m² (hanya menulis 600 dari a × t tanpa ½).
 - **C** — Salah. Lupa ½. L jadi 600 m², bibit = 600 × 4 = 2.400. Dua kali lipat seharusnya.
 - **D** — Salah. Berhenti di luas (300 m²), tidak mengalikan bibit.
+- **Konsep kunci:** Hitung dulu luas dengan rumus dasar, baru kalikan dengan kebutuhan per satuan luas.
+- **Langkah Penyelesaian:**
+  1. Luas taman = ½ × 50 × 12 = 300 m².
+  2. Bibit = 300 × 4 = 1.200.
 
 ---
 
@@ -1012,6 +1268,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. ½ × 1 × 50 = 25. Tidak menyamakan satuan. 1 m bukan 1 cm.
 - **C** — Benar. Samakan satuan: 1 m = 100 cm. L = ½ × 100 × 50 = ½ × 5.000 = 2.500 cm².
 - **D** — Salah. Lupa ½ setelah satuan benar. 100 × 50 = 5.000. Luas persegi panjang.
+- **Konsep kunci:** Sebelum menghitung luas, satuan alas dan tinggi harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 1 m = 100 cm.
+  2. L = ½ × 100 × 50 = 2.500 cm².
 
 ---
 
@@ -1026,6 +1286,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½ pada genting. Luas/genting jadi 300 → 300 × 200 = 60.000. Dua kali lipat.
 - **C** — Salah. (25 + 12) × 200 = 7.400. Salah rumus.
 - **D** — Salah. Berhenti di luas 2 genting (150 × 4 = 600)? Operasi asal.
+- **Konsep kunci:** Hitung dulu luas satu bagian, baru kalikan dengan jumlah unit yang dibutuhkan.
+- **Langkah Penyelesaian:**
+  1. Luas 1 genting = ½ × 25 × 12 = 150 cm².
+  2. Total = 150 × 200 = 30.000 cm².
 
 ---
 
@@ -1040,6 +1304,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Hanya hitung 1 ubin (600 cm²), lupa kalikan jumlah ubin.
 - **C** — Salah. Berhenti di a × t (= 1.200 cm² per ubin), lupa ½ dan tidak dikali 50.
 - **D** — Benar. Luas 1 ubin = ½ × 30 × 40 = 600 cm². Total = 600 × 50 = 30.000 cm².
+- **Konsep kunci:** Hitung dulu luas satu bagian, baru kalikan dengan jumlah unit yang dibutuhkan.
+- **Langkah Penyelesaian:**
+  1. Luas 1 ubin = ½ × 30 × 40 = 600 cm².
+  2. Total = 600 × 50 = 30.000 cm².
 
 ---
 
@@ -1054,6 +1322,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. 50/2 = 25. Asal bagi.
 - **C** — Salah. 50/10 × 4 = 20. Operasi kelebihan.
 - **D** — Benar. t = (2 × L) / a = (2 × 50) / 10 = 100/10 = 10 cm.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 50) / 10.
+  2. t = 100 / 10 = 10 cm.
 
 ---
 
@@ -1068,6 +1340,11 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Persegi panjang sama luas, bukan lebih besar.
 - **C** — Salah. Selisihnya 0, bukan 72.
 - **D** — Benar. Segitiga = ½ × 18 × 8 = 72 cm². Persegi panjang = 12 × 6 = 72 cm². Keduanya 72 cm² → sama luas.
+- **Konsep kunci:** Membandingkan luas dua bangun berbeda dilakukan dengan menghitung luas masing-masing memakai rumusnya sendiri, baru dibandingkan.
+- **Langkah Penyelesaian:**
+  1. Luas segitiga = ½ × 18 × 8 = 72 cm².
+  2. Luas persegi panjang = 12 × 6 = 72 cm².
+  3. Kedua luas sama besar.
 
 ---
 
@@ -1082,6 +1359,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. (9 + 24) × 2 = 66, lalu dibulatkan 72? Asal.
 - **C** — Salah. Lupa ½. 9 × 24 = 216. Luas persegi panjang.
 - **D** — Benar. L baru = ½ × 9 × 24 = ½ × 216 = 108 cm². (Tinggi dua kali → luas dua kali, dari 54 menjadi 108.)
+- **Konsep kunci:** Karena L = ½ × a × t linear terhadap tinggi, tinggi dua kali lipat (alas tetap) membuat luas juga dua kali lipat.
+- **Langkah Penyelesaian:**
+  1. L baru = ½ × 9 × 24.
+  2. L baru = 108 cm² (dua kali luas semula, 54 cm²).
 
 ---
 
@@ -1096,6 +1377,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. ½ × 13 × 5 = 32,5. Salah pakai sisi miring sebagai alas/tinggi.
 - **C** — Salah. Lupa ½. 5 × 12 = 60. Luas persegi panjang.
 - **D** — Salah. Pakai 13 × 5 = 65. Salah pakai sisi miring sebagai pasangan.
+- **Konsep kunci:** Jika hanya diketahui sisi miring dan satu kaki, kaki lain dicari dulu dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Kaki lain = √(13² − 5²) = √144 = 12 cm.
+  2. L = ½ × 5 × 12 = 30 cm².
 
 ---
 
@@ -1110,6 +1395,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. Pythagoras: kaki lain = √(10² − 6²) = √(100 − 36) = √64 = 8 cm. L = ½ × 6 × 8 = 24 cm².
 - **C** — Salah. Lupa ½. 10 × 6 = 60. Luas persegi panjang.
 - **D** — Salah. Lupa ½ setelah dapat kaki 8. 6 × 8 = 48.
+- **Konsep kunci:** Jika hanya diketahui sisi miring dan satu kaki, kaki lain dicari dulu dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Kaki lain = √(10² − 6²) = √64 = 8 cm.
+  2. L = ½ × 6 × 8 = 24 cm².
 
 ---
 
@@ -1124,6 +1413,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 28 × 14 = 392. Luas persegi panjang.
 - **C** — Salah. (28 + 14) × 2 = 84. Keliling persegi panjang.
 - **D** — Benar. L = ½ × 28 × 14 = ½ × 392 = 196 cm².
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 28 cm, tinggi = 14 cm.
+  2. L = ½ × 28 × 14 = 196 cm².
 
 ---
 
@@ -1138,6 +1431,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. a = (2 × L) / t = (2 × 240) / 24 = 480/24 = 20 cm.
 - **C** — Salah. 240/24 × 4 = 40. Operasi kelebihan.
 - **D** — Salah. 240/(24/6) = 60. Asal.
+- **Konsep kunci:** Jika luas dan tinggi diketahui, alas dicari dengan rumus terbalik a = (2 × L) / t.
+- **Langkah Penyelesaian:**
+  1. a = (2 × 240) / 24.
+  2. a = 480 / 24 = 20 cm.
 
 ---
 
@@ -1152,6 +1449,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. L = ½ × 24 × 9 = ½ × 216 = 108 cm².
 - **C** — Salah. Menjumlahkan 24 + 9 = 33. Bukan rumus luas.
 - **D** — Salah. (24 + 9) × 2 = 66. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 24 cm, tinggi = 9 cm.
+  2. L = ½ × 24 × 9 = 108 cm².
 
 ---
 
@@ -1166,6 +1467,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½ saat hitung luas. 60 × 80 = 4.800 cm² → 0,48 m². Dua kali lipat.
 - **C** — Salah. Tidak konversi ke m². Jawaban 2.400 itu cm², bukan m².
 - **D** — Salah. Lupa ½ DAN tidak konversi. 4.800 cm², bukan m².
+- **Konsep kunci:** Hasil luas dalam cm² perlu dikonversi ke m² dengan membagi 10.000 (karena 1 m² = 10.000 cm²).
+- **Langkah Penyelesaian:**
+  1. L = ½ × 60 × 80 = 2.400 cm².
+  2. Konversi: 2.400 / 10.000 = 0,24 m².
 
 ---
 
@@ -1180,6 +1485,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. L = ½ × 32 × 25 = ½ × 800 = 400 cm².
 - **C** — Salah. Menjumlahkan 32 + 25 = 57. Bukan rumus luas.
 - **D** — Salah. (32 + 25) × 2 = 114. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 32 cm, tinggi = 25 cm.
+  2. L = ½ × 32 × 25 = 400 cm².
 
 ---
 
@@ -1194,6 +1503,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. L baru = ½ × 12 × 10 = ½ × 120 = 60 cm². (Alas dibagi 2 → luas dibagi 2, dari 120 menjadi 60.)
 - **C** — Salah. Mengira luas berlipat dua, padahal alas DIPERKECIL.
 - **D** — Salah. Membagi luas dengan 4 (dua kali). Salah pola.
+- **Konsep kunci:** Karena L = ½ × a × t linear terhadap alas, alas dibagi 2 (tinggi tetap) membuat luas juga dibagi 2.
+- **Langkah Penyelesaian:**
+  1. L baru = ½ × 12 × 10.
+  2. L baru = 60 cm² (setengah dari luas semula, 120 cm²).
 
 ---
 
@@ -1208,6 +1521,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Salah. Lupa ½. 15 × 8 = 120. Luas persegi panjang.
 - **C** — Benar. L = ½ × 15 × 8 = ½ × 120 = 60 cm².
 - **D** — Salah. (15 + 8) × 2 = 46. Keliling persegi panjang.
+- **Konsep kunci:** Luas segitiga = ½ × alas × tinggi, dengan alas dan tinggi yang saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 15 cm, tinggi = 8 cm.
+  2. L = ½ × 15 × 8 = 60 cm².
 
 ---
 
@@ -1222,6 +1539,10 @@ Soal cerita / konteks aplikatif, 2–3 langkah, perlu pemilihan alas–tinggi at
 - **B** — Benar. t = (2 × L) / a = (2 × 1.500) / 60 = 3.000/60 = 50 m.
 - **C** — Salah. 1.500/60 × 3 = 75. Operasi asal.
 - **D** — Salah. 1.500/(60/4) = 100. Operasi asal.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 1.500) / 60.
+  2. t = 3.000 / 60 = 50 m.
 
 ---
 
@@ -1242,6 +1563,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. ½ × 17 × 8 = 68. Salah pakai sisi miring sebagai pasangan tinggi.
 - **C** — Salah. Lupa ½. 8 × 15 = 120. Luas persegi panjang dari dua kaki.
 - **D** — Salah. Lupa ½ dan pakai sisi miring: 17 × 8 = 136.
+- **Konsep kunci:** Jika hanya diketahui sisi miring dan satu kaki, kaki lain dicari dulu dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Kaki lain = √(17² − 8²) = √225 = 15 cm.
+  2. L = ½ × 8 × 15 = 60 cm².
 
 ---
 
@@ -1256,6 +1581,11 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Benar. Tinggi tegak lurus pada alas membagi alas jadi 5 cm di tiap sisi. Pythagoras pada segitiga siku-siku: tinggi = √(13² − 5²) = √(169 − 25) = √144 = 12 cm. L = ½ × 10 × 12 = 60 cm².
 - **C** — Salah. ½ × 13 × 10 = 65. Salah pakai sisi miring sebagai tinggi.
 - **D** — Salah. Lupa ½. 10 × 12 = 120. Luas persegi panjang.
+- **Konsep kunci:** Pada segitiga sama kaki, tinggi dari puncak membagi alas jadi dua bagian sama panjang sehingga bisa dicari dengan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Setengah alas = 10 / 2 = 5 cm.
+  2. Tinggi = √(13² − 5²) = √144 = 12 cm.
+  3. L = ½ × 10 × 12 = 60 cm².
 
 ---
 
@@ -1270,6 +1600,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. 96/4 = 24. Salah bagi (membagi jadi 4, bukan 2).
 - **C** — Benar. Luas persegi panjang = 12 × 8 = 96 cm². Dipotong diagonal jadi 2 segitiga sama → tiap segitiga = 96/2 = 48 cm². Cek: kedua kaki siku-siku adalah 12 dan 8 → ½ × 12 × 8 = 48 cm². ✓
 - **D** — Salah. (12 + 8) × 2 = 40. Keliling persegi panjang.
+- **Konsep kunci:** Diagonal membagi persegi panjang menjadi dua segitiga siku-siku sama besar, masing-masing setengah luas persegi panjang.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 12 × 8 = 96 cm².
+  2. Luas satu segitiga = 96 / 2 = 48 cm².
 
 ---
 
@@ -1284,6 +1618,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. (13 + 14 + 15) × 2 = 84, dibagi sembarang. Itu konteks keliling, bukan luas.
 - **C** — Benar. Pasangan alas–tinggi yang tegak lurus: alas = 14, tinggi = 12. L = ½ × 14 × 12 = ½ × 168 = 84 cm².
 - **D** — Salah. ½ × 14 × 12 × ½ = 42. Mengalikan ½ dua kali.
+- **Konsep kunci:** Kalau tinggi terhadap salah satu sisi sudah diberikan, sisi itulah yang dipakai sebagai alas — sisi lain tidak dipakai langsung.
+- **Langkah Penyelesaian:**
+  1. Alas = 14 cm (sisi yang tingginya diketahui), tinggi = 12 cm.
+  2. L = ½ × 14 × 12 = 84 cm².
 
 ---
 
@@ -1298,6 +1636,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Benar. Rumus tetap L = ½ × a × t walaupun tinggi di luar segitiga (segitiga tumpul). L = ½ × 10 × 7 = 35 cm².
 - **C** — Salah. Menjumlahkan 10 + 7 = 17. Bukan rumus luas.
 - **D** — Salah. (10 + 7) × 2 = 34. Keliling persegi panjang.
+- **Konsep kunci:** Pada segitiga tumpul, tinggi bisa jatuh di luar segitiga, tetapi rumus L = ½ × a × t tetap berlaku selama alas dan tinggi tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Alas = 10 cm, tinggi = 7 cm (walau jatuh di luar segitiga).
+  2. L = ½ × 10 × 7 = 35 cm².
 
 ---
 
@@ -1312,6 +1654,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½ untuk luas (jadi 360) DAN salah jumlah kaki (9 + 40 = 49) tanpa Pythagoras.
 - **C** — Salah. Luas benar, tapi sisi miring salah (9 + 40 = 49 tidak menggunakan Pythagoras).
 - **D** — Salah. Lupa ½ untuk luas. Sisi miring benar.
+- **Konsep kunci:** Luas dihitung langsung dari dua kaki siku-siku, sedangkan sisi miring dicari terpisah dengan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. L = ½ × 9 × 40 = 180 cm².
+  2. Sisi miring = √(9² + 40²) = √1.681 = 41 cm.
 
 ---
 
@@ -1326,6 +1672,11 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Benar. Luas persegi = 10 × 10 = 100 cm². Luas segitiga = ½ × 10 × 6 = 30 cm². Total = 100 + 30 = 130 cm².
 - **C** — Salah. Lupa ½ pada segitiga. 10 × 6 = 60 → 100 + 60 = 160.
 - **D** — Salah. Mengira segitiga = persegi (= 100 cm²) → 100 + 100 = 200.
+- **Konsep kunci:** Luas bangun gabungan dicari dengan menjumlahkan luas tiap bangun penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 10 × 10 = 100 cm².
+  2. Luas segitiga = ½ × 10 × 6 = 30 cm².
+  3. Total = 100 + 30 = 130 cm².
 
 ---
 
@@ -1340,6 +1691,11 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Hanya menghitung segitiga sebagai luas trapesium? 60 ngarang.
 - **C** — Salah. Lupa ½ pada segitiga. 6 × 8 = 48 → 80 + 48 = 128.
 - **D** — Benar. Luas persegi panjang = 10 × 8 = 80 cm². Luas segitiga = ½ × 6 × 8 = 24 cm². Total = 80 + 24 = 104 cm².
+- **Konsep kunci:** Luas bangun gabungan dicari dengan menjumlahkan luas tiap bangun penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 10 × 8 = 80 cm².
+  2. Luas segitiga = ½ × 6 × 8 = 24 cm².
+  3. Total = 80 + 24 = 104 cm².
 
 ---
 
@@ -1354,6 +1710,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½ dan pakai sisi miring. 25 × 7 = 175.
 - **C** — Benar. Pythagoras: kaki lain = √(25² − 7²) = √(625 − 49) = √576 = 24 m. L = ½ × 7 × 24 = ½ × 168 = 84 m².
 - **D** — Salah. Lupa ½. 7 × 24 = 168. Luas persegi panjang.
+- **Konsep kunci:** Jika hanya diketahui sisi miring dan satu kaki, kaki lain dicari dulu dengan Pythagoras sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Kaki lain = √(25² − 7²) = √576 = 24 m.
+  2. L = ½ × 7 × 24 = 84 m².
 
 ---
 
@@ -1368,6 +1728,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Menyamakan dengan alas, asal pilih.
 - **C** — Benar. t = (2 × L) / a = (2 × 96) / 12 = 192/12 = 16 cm.
 - **D** — Salah. 96/12 × 3 = 24. Operasi kelebihan.
+- **Konsep kunci:** Jika luas dan alas diketahui, tinggi dicari dengan rumus terbalik t = (2 × L) / a.
+- **Langkah Penyelesaian:**
+  1. t = (2 × 96) / 12.
+  2. t = 192 / 12 = 16 cm.
 
 ---
 
@@ -1382,6 +1746,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½. 6 × 8 = 48. Luas persegi panjang.
 - **C** — Salah. ½ × 6 × 10 = 30. Salah pakai sisi miring (10) sebagai tinggi.
 - **D** — Salah. Lupa ½ dan pakai sisi miring: 6 × 10 = 60.
+- **Konsep kunci:** Setelah dipastikan segitiga siku-siku lewat kebalikan Pythagoras (a² + b² = c²), dua kaki yang tegak lurus langsung dipakai sebagai alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Cek: 6² + 8² = 100 = 10² → siku-siku, kaki 6 dan 8 tegak lurus.
+  2. L = ½ × 6 × 8 = 24 cm².
 
 ---
 
@@ -1396,6 +1764,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Benar. Luas jajar genjang = a × t = 14 × 9 = 126 cm². Dibagi 2 (untuk 1 segitiga) = 63 cm². Cek: ½ × 14 × 9 = 63 cm². ✓
 - **C** — Salah. 126 × 2 = 252. Membalik operasi (mengalikan dua, harusnya membagi dua).
 - **D** — Salah. 126/4 = 31,5. Membagi terlalu banyak.
+- **Konsep kunci:** Diagonal jajar genjang membaginya menjadi dua segitiga sama besar, masing-masing setengah luas jajar genjang.
+- **Langkah Penyelesaian:**
+  1. Luas jajar genjang = 14 × 9 = 126 cm².
+  2. Luas satu segitiga = 126 / 2 = 63 cm².
 
 ---
 
@@ -1410,6 +1782,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½. 12 × 10,39 ≈ 124,7. Luas persegi panjang.
 - **C** — Salah. 6 × 6 = 36. Asal pakai setengah sisi sebagai dua dimensi.
 - **D** — Salah. 12 × 6 = 72. Salah pakai sisi sebagai tinggi.
+- **Konsep kunci:** Luas segitiga sama sisi tetap memakai rumus dasar L = ½ × a × t dengan tinggi yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Alas = 12 cm, tinggi ≈ 10,39 cm.
+  2. L = ½ × 12 × 10,39 ≈ 62,4 cm².
 
 ---
 
@@ -1424,6 +1800,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½. 5 × 12 = 60. Luas persegi panjang.
 - **C** — Salah. ½ × 5 × 13 = 32,5 atau 5 × 13 = 65. Salah pakai sisi miring sebagai tinggi.
 - **D** — Salah. ½ × 12 × 13 = 78. Salah pakai sisi miring sebagai pasangan tinggi.
+- **Konsep kunci:** Setelah dipastikan segitiga siku-siku lewat kebalikan Pythagoras (a² + b² = c²), dua kaki yang tegak lurus langsung dipakai sebagai alas dan tinggi.
+- **Langkah Penyelesaian:**
+  1. Cek: 5² + 12² = 169 = 13² → siku-siku, kaki 5 dan 12 tegak lurus.
+  2. L = ½ × 5 × 12 = 30 cm².
 
 ---
 
@@ -1438,6 +1818,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Benar. Luas = 600 m². Panen = 600 × 4 = 2.400 kg. (Pertanyaan tidak meminta alas; luas sudah diberikan.)
 - **C** — Salah. Mengalikan 600 × 2 × 4 = 4.800. Operasi tambahan tanpa alasan.
 - **D** — Salah. 600 × 2 = 1.200. Lupa atau salah faktor.
+- **Konsep kunci:** Kalau luas sudah diberikan langsung, tidak perlu mencari alas/tinggi lagi — tinggal kalikan dengan hasil per satuan luas.
+- **Langkah Penyelesaian:**
+  1. Luas sawah = 600 m² (sudah diketahui).
+  2. Panen = 600 × 4 = 2.400 kg.
 
 ---
 
@@ -1452,6 +1836,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. ½ × 13 × 14 = 91. Salah pakai AB (sisi yang bukan tegak lurus terhadap BC) sebagai tinggi.
 - **C** — Salah. Lupa ½. 14 × 12 = 168. Luas persegi panjang.
 - **D** — Salah. ½ × 15 × 12 = 90. Salah pakai AC sebagai alas, padahal tinggi 12 cm adalah terhadap BC.
+- **Konsep kunci:** Kalau tinggi terhadap salah satu sisi sudah diberikan, sisi itulah yang dipakai sebagai alas — sisi lain tidak dipakai langsung.
+- **Langkah Penyelesaian:**
+  1. Alas = BC = 14 cm, tinggi = 12 cm (tegak lurus BC).
+  2. L = ½ × 14 × 12 = 84 cm².
 
 ---
 
@@ -1466,6 +1854,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Lupa ½. 5 × 12 = 60. Luas persegi panjang.
 - **C** — Salah. Salah hitung: 5 × 7 = 35. Salah pakai selisih sebagai sisi.
 - **D** — Salah. Menyamakan luas dengan jumlah kaki (17). Operasi ngarang.
+- **Konsep kunci:** Jika hanya diketahui jumlah dan selisih dua kaki siku-siku, kedua kaki dicari dulu dengan rumus (jumlah+selisih)/2 dan (jumlah−selisih)/2.
+- **Langkah Penyelesaian:**
+  1. Kaki besar = (17 + 7) / 2 = 12 m, kaki kecil = (17 − 7) / 2 = 5 m.
+  2. L = ½ × 5 × 12 = 30 m².
 
 ---
 
@@ -1480,6 +1872,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Mengira luas tetap. Alas berubah → luas berubah.
 - **C** — Salah. 150 + 50 = 200. Salah operasi.
 - **D** — Benar. Tinggi mula-mula: t = (2 × 150)/25 = 12 cm. Luas baru = ½ × 50 × 12 = ½ × 600 = 300 cm². Atau pakai prinsip: alas dua kali → luas dua kali → 150 × 2 = 300.
+- **Konsep kunci:** Karena L = ½ × a × t linear terhadap alas, cari dulu tinggi dari data awal, baru pakai untuk alas baru.
+- **Langkah Penyelesaian:**
+  1. Cari tinggi mula-mula: t = (2 × 150) / 25 = 12 cm.
+  2. Luas baru = ½ × 50 × 12 = 300 cm² (alas dua kali → luas dua kali).
 
 ---
 
@@ -1494,6 +1890,10 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. 300/30 × 10 = 100. Asal kalikan.
 - **C** — Benar. Luas = 1.500.000 / 5.000 = 300 m². t = (2 × L)/a = (2 × 300)/30 = 600/30 = 20 m.
 - **D** — Salah. 300/30 = 10. Lupa ½ pada rumus segitiga; mengira L = a × t.
+- **Konsep kunci:** Kalau biaya total dan harga per m² diketahui, luas dicari dulu dari biaya, baru tinggi dicari dengan rumus terbalik.
+- **Langkah Penyelesaian:**
+  1. Luas = 1.500.000 / 5.000 = 300 m².
+  2. t = (2 × 300) / 30 = 20 m.
 
 ---
 
@@ -1508,6 +1908,11 @@ Multi-langkah, Pythagoras, segitiga tumpul (tinggi di luar), gabungan bangun, ko
 - **B** — Salah. Asal pilih tinggi 6 (= setengah alas). Mengira tinggi = setengah alas pada sama kaki.
 - **C** — Salah. Tinggi benar (8 cm) tetapi luas lupa ½: 12 × 8 = 96. Luas persegi panjang.
 - **D** — Salah. Mengira tinggi = sisi sama (10 cm). Salah baca: 10 cm adalah sisi miring (sisi sama), bukan tinggi.
+- **Konsep kunci:** Pada segitiga sama kaki, tinggi dari puncak membagi alas jadi dua bagian sama panjang sehingga bisa dicari dengan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Setengah alas = 12 / 2 = 6 cm.
+  2. Tinggi = √(10² − 6²) = √64 = 8 cm.
+  3. L = ½ × 12 × 8 = 48 cm².
 
 ---
 

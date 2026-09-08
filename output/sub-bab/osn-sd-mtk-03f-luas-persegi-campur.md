@@ -95,6 +95,11 @@ Fokus: rumus dasar luas persegi & persegi panjang, mencari sisi/dimensi, konvers
 - **B** — Salah. Memakai rumus **keliling** (K = 4 × s = 4 × 7 = 28). Yang diminta luas, bukan keliling.
 - **C** — Benar. L = s × s = 7 × 7 = **49 cm²**.
 - **D** — Salah. Mengalikan 7 × 8 atau 4 × 14 — pencampuran rumus tanpa dasar.
+- **Konsep kunci:** Luas persegi dihitung dengan mengalikan sisi dengan sisi itu sendiri (s²).
+- **Langkah Penyelesaian:**
+  1. Sisi persegi = 7 cm.
+  2. Luas = s × s = 7 × 7.
+  3. Luas = 49 cm².
 
 ---
 
@@ -109,6 +114,11 @@ Fokus: rumus dasar luas persegi & persegi panjang, mencari sisi/dimensi, konvers
 - **B** — Salah. Memakai rumus **keliling** (K = 2(p+l) = 2 × 17 = 34). Diminta luas.
 - **C** — Benar. L = p × l = 12 × 5 = **60 cm²**.
 - **D** — Salah. Mengalikan keliling dengan sesuatu, atau 12 × 10. Sembarang.
+- **Konsep kunci:** Luas persegi panjang dihitung dengan mengalikan panjang dan lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 12 cm, lebar = 5 cm.
+  2. Luas = p × l = 12 × 5.
+  3. Luas = 60 cm².
 
 ---
 
@@ -123,6 +133,11 @@ Fokus: rumus dasar luas persegi & persegi panjang, mencari sisi/dimensi, konvers
 - **B** — Benar. s = √81 = **9 cm** (karena 9 × 9 = 81).
 - **C** — Salah. Mengalikan 9 × 2 (mengira "luas = 2 sisi").
 - **D** — Salah. Membagi 81 ÷ 2 = 40,5 (mengira keliling persegi). Tidak relevan.
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 81 cm².
+  2. Sisi = √81.
+  3. Sisi = 9 cm (karena 9 × 9 = 81).
 
 ---
 
@@ -137,6 +152,11 @@ Fokus: rumus dasar luas persegi & persegi panjang, mencari sisi/dimensi, konvers
 - **B** — Benar. l = L ÷ p = 48 ÷ 8 = **6 cm**. Cek: 8 × 6 = 48 ✓.
 - **C** — Salah. Membagi 48 ÷ 4 = 12 (salah ambil pembagi).
 - **D** — Salah. Mengurangkan 48 − 8 = 40. Operasi keliru.
+- **Konsep kunci:** Lebar persegi panjang dicari dengan membagi luas dengan panjang.
+- **Langkah Penyelesaian:**
+  1. Luas = 48 cm², panjang = 8 cm.
+  2. Lebar = L ÷ p = 48 ÷ 8.
+  3. Lebar = 6 cm (cek: 8 × 6 = 48).
 
 ---
 
@@ -183,6 +203,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Mengira 1 m² = 1.000 cm² (asal kalikan 1000).
 - **C** — Benar. 1 m² = 10.000 cm² → 5 m² = 5 × 10.000 = **50.000 cm²**.
 - **D** — Salah. Mengira 1 m² = 10.000.000 cm² (kelebihan satu nol).
+- **Konsep kunci:** 1 m² = 10.000 cm², karena tiap turun 1 tangga satuan luas dikali 100.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m² = 10.000 cm².
+  2. Kalikan 5 × 10.000.
+  3. Hasil = 50.000 cm².
 
 ---
 
@@ -201,6 +226,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Mengira 1 ha = 1.000 m² (asal).
 - **C** — Benar. 1 ha = 10.000 m² → 3 × 10.000 = **30.000 m²**.
 - **D** — Salah. Mengira 1 ha = 100.000 m² (kelebihan satu nol).
+- **Konsep kunci:** 1 ha = 10.000 m², dipakai untuk konversi satuan luas besar ke m².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 10.000 m².
+  2. Kalikan 3 × 10.000.
+  3. Hasil = 30.000 m².
 
 ---
 
@@ -215,6 +245,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Lupa konversi: 6 × 4 = 24 m², 20 × 20 = 400, 24 ÷ 0,1 = ... pencampuran. Tidak konsisten.
 - **C** — Benar. Luas lantai = 6 × 4 = 24 m² = 240.000 cm². Luas 1 keramik = 20 × 20 = 400 cm². Jumlah = 240.000 ÷ 400 = **600 keramik**.
 - **D** — Salah. Tidak membagi (mengalikan 600 × 4 atau salah konversi).
+- **Konsep kunci:** Jumlah keramik dicari dengan membagi luas lantai dengan luas 1 keramik, setelah satuan disamakan.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 6 × 4 = 24 m² = 240.000 cm².
+  2. Luas 1 keramik = 20 × 20 = 400 cm².
+  3. Jumlah = 240.000 ÷ 400 = 600 keramik.
 
 ---
 
@@ -229,6 +264,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Memakai **keliling** (4 × 15 = 60). Diminta luas.
 - **C** — Salah. Mengalikan 15 × 10. Tidak benar.
 - **D** — Benar. L = 15 × 15 = **225 cm²**.
+- **Konsep kunci:** Luas persegi dihitung dengan sisi × sisi, bukan keliling.
+- **Langkah Penyelesaian:**
+  1. Sisi = 15 cm.
+  2. Luas = 15 × 15.
+  3. Luas = 225 cm².
 
 ---
 
@@ -243,6 +283,11 @@ Kita perbaiki opsi:
 - **B** — Salah. **Keliling** (2 × 33 = 66).
 - **C** — Benar. L = 25 × 8 = **200 m²**.
 - **D** — Salah. Mengalikan 25 × 10. Asal.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar, bukan penjumlahan atau keliling.
+- **Langkah Penyelesaian:**
+  1. Panjang = 25 m, lebar = 8 m.
+  2. Luas = 25 × 8.
+  3. Luas = 200 m².
 
 ---
 
@@ -257,6 +302,11 @@ Kita perbaiki opsi:
 - **B** — Benar. s = √144 = **12 cm** (12 × 12 = 144).
 - **C** — Salah. 14 × 14 = 196 ≠ 144.
 - **D** — Salah. Membagi 144 ÷ 2 = 72 (mengira "keliling persegi").
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 144 cm².
+  2. Sisi = √144.
+  3. Sisi = 12 cm (12 × 12 = 144).
 
 ---
 
@@ -271,6 +321,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Membagi 96 ÷ 4 = 24 (salah pembagi).
 - **C** — Salah. Mengalikan 96 ÷ 3.
 - **D** — Salah. Mengurangkan 96 − 6 = 90.
+- **Konsep kunci:** Panjang persegi panjang dicari dengan membagi luas dengan lebar.
+- **Langkah Penyelesaian:**
+  1. Luas = 96 cm², lebar = 6 cm.
+  2. Panjang = L ÷ l = 96 ÷ 6.
+  3. Panjang = 16 cm (cek: 16 × 6 = 96).
 
 ---
 
@@ -285,6 +340,11 @@ Kita perbaiki opsi:
 - **B** — Benar. 1 m² = 10.000 cm² → 4.500 ÷ 10.000 = **0,45 m²**.
 - **C** — Salah. Membagi 1.000 (mengira 1 m² = 1.000 cm²).
 - **D** — Salah. Membagi 100 (memakai konversi panjang).
+- **Konsep kunci:** Konversi cm² ke m² dilakukan dengan membagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m² = 10.000 cm².
+  2. Bagi 4.500 ÷ 10.000.
+  3. Hasil = 0,45 m².
 
 ---
 
@@ -299,6 +359,11 @@ Kita perbaiki opsi:
 - **B** — Benar. 1 km² = 100 ha → 2,5 × 100 = **250 ha**.
 - **C** — Salah. Mengira 1 km² = 1.000 ha.
 - **D** — Salah. Mengira 1 km² = 10.000 ha.
+- **Konsep kunci:** 1 km² = 100 ha, dipakai untuk konversi satuan luas dari km² ke ha.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 km² = 100 ha.
+  2. Kalikan 2,5 × 100.
+  3. Hasil = 250 ha.
 
 ---
 
@@ -313,6 +378,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Keliling (2 × 50 = 100).
 - **C** — Salah. Mengalikan 25 × 20 atau salah hitung.
 - **D** — Benar. L = 30 × 20 = **600 m²**.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 30 m, lebar = 20 m.
+  2. Luas = 30 × 20.
+  3. Luas = 600 m².
 
 ---
 
@@ -327,6 +397,11 @@ Kita perbaiki opsi:
 - **B** — Salah. 15 × 15 = 225.
 - **C** — Benar. s = √256 = **16 cm** (16 × 16 = 256).
 - **D** — Salah. 17 × 17 = 289.
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 256 cm².
+  2. Sisi = √256.
+  3. Sisi = 16 cm (16 × 16 = 256).
 
 ---
 
@@ -341,6 +416,11 @@ Kita perbaiki opsi:
 - **B** — Benar. l = 1.200 ÷ 40 = **30 m**. Cek: 40 × 30 = 1.200 ✓.
 - **C** — Salah. Mengira panjang = lebar (persegi). Padahal persegi panjang.
 - **D** — Salah. 1.200 ÷ 20 (salah pembagi).
+- **Konsep kunci:** Lebar persegi panjang dicari dengan membagi luas dengan panjang.
+- **Langkah Penyelesaian:**
+  1. Luas = 1.200 m², panjang = 40 m.
+  2. Lebar = L ÷ p = 1.200 ÷ 40.
+  3. Lebar = 30 m (cek: 40 × 30 = 1.200).
 
 ---
 
@@ -355,6 +435,11 @@ Kita perbaiki opsi:
 - **B** — Benar. 1 m² = 100 dm² → 7 × 100 = **700 dm²**.
 - **C** — Salah. Mengalikan 1.000.
 - **D** — Salah. Mengalikan 10.000 (konversi ke cm², bukan dm²).
+- **Konsep kunci:** 1 m² = 100 dm², satu tangga di bawah m².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m² = 100 dm².
+  2. Kalikan 7 × 100.
+  3. Hasil = 700 dm².
 
 ---
 
@@ -369,6 +454,11 @@ Kita perbaiki opsi:
 - **B** — Benar. 1 are = 100 m² → 8 × 100 = **800 m²**.
 - **C** — Salah. Mengira 1 are = 1.000 m².
 - **D** — Salah. Mengira 1 are = 10.000 m² (itu ha).
+- **Konsep kunci:** 1 are = 100 m², dipakai untuk konversi are ke m².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 are = 100 m².
+  2. Kalikan 8 × 100.
+  3. Hasil = 800 m².
 
 ---
 
@@ -383,6 +473,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Mengalikan 36 × 2.
 - **C** — Benar. Sisi = K ÷ 4 = 36 ÷ 4 = 9. Luas = 9 × 9 = **81 cm²**.
 - **D** — Salah. Mengalikan 36 × 4 (rumus salah).
+- **Konsep kunci:** Untuk mencari luas dari keliling, cari dulu panjang sisi lalu kuadratkan.
+- **Langkah Penyelesaian:**
+  1. Sisi = Keliling ÷ 4 = 36 ÷ 4 = 9 cm.
+  2. Luas = s × s = 9 × 9.
+  3. Luas = 81 cm².
 
 ---
 
@@ -397,6 +492,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Keliling (2 × 23 = 46).
 - **C** — Benar. L = 14 × 9 = **126 cm²**.
 - **D** — Salah. Mengalikan 14 × 10. Asal.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 14 cm, lebar = 9 cm.
+  2. Luas = 14 × 9.
+  3. Luas = 126 cm².
 
 ---
 
@@ -411,6 +511,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Asal kelipatan 10.
 - **C** — Benar. **1 ha = 10.000 m²**.
 - **D** — Salah. Itu nilai 10 ha.
+- **Konsep kunci:** 1 hektar setara dengan 10.000 m², nilai konversi baku yang wajib dihafal.
+- **Langkah Penyelesaian:**
+  1. Ingat tangga satuan luas.
+  2. 1 ha = 1 hm² = 10.000 m².
+  3. Jawabannya 10.000.
 
 ---
 
@@ -425,6 +530,11 @@ Kita perbaiki opsi:
 - **B** — Benar. p = 84 ÷ 7 = **12 cm**. Cek: 12 × 7 = 84 ✓.
 - **C** — Salah. 14 × 7 = 98, bukan 84.
 - **D** — Salah. Mengurangkan 84 − 7 = 77.
+- **Konsep kunci:** Panjang persegi panjang dicari dengan membagi luas dengan lebar.
+- **Langkah Penyelesaian:**
+  1. Luas = 84 cm², lebar = 7 cm.
+  2. Panjang = L ÷ l = 84 ÷ 7.
+  3. Panjang = 12 cm (cek: 12 × 7 = 84).
 
 ---
 
@@ -439,6 +549,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Keliling (4 × 11 = 44).
 - **C** — Salah. Mengalikan 11 × 10.
 - **D** — Benar. L = 11 × 11 = **121 cm²**.
+- **Konsep kunci:** Luas persegi dihitung dengan sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi = 11 cm.
+  2. Luas = 11 × 11.
+  3. Luas = 121 cm².
 
 ---
 
@@ -453,6 +568,11 @@ Kita perbaiki opsi:
 - **B** — Salah. Keliling (2 × 20 = 40).
 - **C** — Benar. L = 13 × 7 = **91 m²**.
 - **D** — Salah. Mengalikan 13 × 10.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 13 m, lebar = 7 m.
+  2. Luas = 13 × 7.
+  3. Luas = 91 m².
 
 ---
 
@@ -467,6 +587,11 @@ Kita perbaiki opsi:
 - **B** — Salah. 12 × 12 = 144.
 - **C** — Benar. s = √169 = **13 cm** (13 × 13 = 169).
 - **D** — Salah. 14 × 14 = 196.
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 169 cm².
+  2. Sisi = √169.
+  3. Sisi = 13 cm (13 × 13 = 169).
 
 ---
 
@@ -488,6 +613,11 @@ Versi rapi:
 - **B** — Salah. Mengalikan 1.000.
 - **C** — Benar. 1 m² = 10.000 cm² → 0,5 × 10.000 = **5.000 cm²**.
 - **D** — Salah. Mengalikan 100.000.
+- **Konsep kunci:** 1 m² = 10.000 cm², dipakai untuk konversi m² ke cm².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m² = 10.000 cm².
+  2. Kalikan 0,5 × 10.000.
+  3. Hasil = 5.000 cm².
 
 ---
 
@@ -502,6 +632,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 200 = 400).
 - **C** — Benar. L = 120 × 80 = **9.600 cm²**.
 - **D** — Salah. Tambah satu nol (salah hitung).
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 120 cm, lebar = 80 cm.
+  2. Luas = 120 × 80.
+  3. Luas = 9.600 cm².
 
 ---
 
@@ -516,6 +651,11 @@ Versi rapi:
 - **B** — Salah. Asal mengalikan 5 × 10.
 - **C** — Benar. Luas lantai = 25 m² = 250.000 cm². Luas keramik = 50 × 50 = 2.500 cm². Jumlah = 250.000 ÷ 2.500 = **100 keramik**.
 - **D** — Salah. Tidak konversi satuan (mengira 5 m = 50 cm).
+- **Konsep kunci:** Jumlah keramik dicari dengan membagi luas lantai dengan luas 1 keramik, satuan harus sama.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 5 × 5 = 25 m² = 250.000 cm².
+  2. Luas 1 keramik = 50 × 50 = 2.500 cm².
+  3. Jumlah = 250.000 ÷ 2.500 = 100 keramik.
 
 ---
 
@@ -530,6 +670,11 @@ Versi rapi:
 - **B** — Benar. l = 150 ÷ 15 = **10 cm**. Cek: 15 × 10 = 150 ✓.
 - **C** — Salah. Mengira persegi.
 - **D** — Salah. Mengurangkan 150 − 15 = 135.
+- **Konsep kunci:** Lebar persegi panjang dicari dengan membagi luas dengan panjang.
+- **Langkah Penyelesaian:**
+  1. Luas = 150 cm², panjang = 15 cm.
+  2. Lebar = L ÷ p = 150 ÷ 15.
+  3. Lebar = 10 cm (cek: 15 × 10 = 150).
 
 ---
 
@@ -544,6 +689,11 @@ Versi rapi:
 - **B** — Salah. Keliling (4 × 20).
 - **C** — Salah. Mengalikan 20 × 10.
 - **D** — Benar. L = 20 × 20 = **400 cm²**.
+- **Konsep kunci:** Luas persegi dihitung dengan sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi = 20 cm.
+  2. Luas = 20 × 20.
+  3. Luas = 400 cm².
 
 ---
 
@@ -558,6 +708,11 @@ Versi rapi:
 - **B** — Salah. Kalikan 10.000 (itu konversi ke cm²).
 - **C** — Salah. Kalikan 100.000.
 - **D** — Benar. 1 m² = 1.000.000 mm² → 6 × 1.000.000 = **6.000.000 mm²**.
+- **Konsep kunci:** 1 m² = 1.000.000 mm², konversi paling jauh di tangga satuan luas.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m² = 1.000.000 mm².
+  2. Kalikan 6 × 1.000.000.
+  3. Hasil = 6.000.000 mm².
 
 ---
 
@@ -572,6 +727,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 15 = 30).
 - **C** — Benar. L = 9 × 6 = **54 m²**.
 - **D** — Salah. Mengira persegi (9 × 9 = 81).
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 9 m, lebar = 6 m.
+  2. Luas = 9 × 6.
+  3. Luas = 54 m².
 
 ---
 
@@ -586,6 +746,11 @@ Versi rapi:
 - **B** — Salah. 12 × 4 (asal mengalikan).
 - **C** — Salah. Konversi salah.
 - **D** — Benar. Luas lantai = 12 m² = 120.000 cm². Luas keramik = 625 cm². Jumlah = 120.000 ÷ 625 = **192 keramik**.
+- **Konsep kunci:** Jumlah keramik dicari dengan membagi luas lantai dengan luas 1 keramik, satuan harus sama.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 4 × 3 = 12 m² = 120.000 cm².
+  2. Luas 1 keramik = 25 × 25 = 625 cm².
+  3. Jumlah = 120.000 ÷ 625 = 192 keramik.
 
 ---
 
@@ -600,6 +765,11 @@ Versi rapi:
 - **B** — Salah. 18 × 18 = 324.
 - **C** — Benar. s = √400 = **20 cm** (20 × 20 = 400).
 - **D** — Salah. Membagi 400 ÷ 2 = 200 (anggap "keliling persegi").
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 400 cm².
+  2. Sisi = √400.
+  3. Sisi = 20 cm (20 × 20 = 400).
 
 ---
 
@@ -614,6 +784,11 @@ Versi rapi:
 - **B** — Salah. 240 ÷ 16 = 15 (salah).
 - **C** — Benar. p = 240 ÷ 12 = **20 cm**. Cek: 20 × 12 = 240 ✓.
 - **D** — Salah. Mengurangkan 240 − 12 = 228.
+- **Konsep kunci:** Panjang persegi panjang dicari dengan membagi luas dengan lebar.
+- **Langkah Penyelesaian:**
+  1. Luas = 240 cm², lebar = 12 cm.
+  2. Panjang = L ÷ l = 240 ÷ 12.
+  3. Panjang = 20 cm (cek: 20 × 12 = 240).
 
 ---
 
@@ -628,6 +803,11 @@ Versi rapi:
 - **B** — Benar. 1 ha = 10.000 m² → 5.000 ÷ 10.000 = **0,5 ha**.
 - **C** — Salah. Bagi 1.000.
 - **D** — Salah. Bagi 100 (memakai konversi panjang).
+- **Konsep kunci:** 1 ha = 10.000 m², dipakai untuk konversi m² ke ha.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 10.000 m².
+  2. Bagi 5.000 ÷ 10.000.
+  3. Hasil = 0,5 ha.
 
 ---
 
@@ -642,6 +822,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 90 = 180).
 - **C** — Benar. L = 50 × 40 = **2.000 m²**.
 - **D** — Salah. Mengalikan 50 × 80.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 50 m, lebar = 40 m.
+  2. Luas = 50 × 40.
+  3. Luas = 2.000 m².
 
 ---
 
@@ -656,6 +841,11 @@ Versi rapi:
 - **B** — Salah. Itu 1 ha.
 - **C** — Salah. Asal nol satu.
 - **D** — Benar. **1 km² = 1.000.000 m²** (1.000 × 1.000).
+- **Konsep kunci:** 1 km² = 1.000.000 m², karena 1 km = 1.000 m dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 km = 1.000 m.
+  2. Kuadratkan: 1 km² = 1.000 × 1.000.
+  3. Hasil = 1.000.000 m².
 
 ---
 
@@ -670,6 +860,11 @@ Versi rapi:
 - **B** — Salah. Keliling (4 × 25 = 100).
 - **C** — Salah. Mengalikan 25 × 10.
 - **D** — Benar. L = 25 × 25 = **625 cm²**.
+- **Konsep kunci:** Luas persegi dihitung dengan sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi = 25 cm.
+  2. Luas = 25 × 25.
+  3. Luas = 625 cm².
 
 ---
 
@@ -684,6 +879,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 29 = 58).
 - **C** — Salah. 9 × 11 (salah ambil panjang).
 - **D** — Benar. L = 18 × 11 = **198 cm²**.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 18 cm, lebar = 11 cm.
+  2. Luas = 18 × 11.
+  3. Luas = 198 cm².
 
 ---
 
@@ -698,6 +898,11 @@ Versi rapi:
 - **B** — Salah. 7 × 7 = 49.
 - **C** — Benar. s = √64 = **8 cm** (8 × 8 = 64).
 - **D** — Salah. Mengalikan 8 × 2.
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 64 cm².
+  2. Sisi = √64.
+  3. Sisi = 8 cm (8 × 8 = 64).
 
 ---
 
@@ -712,6 +917,11 @@ Versi rapi:
 - **B** — Salah. 6 × 2 (asal).
 - **C** — Benar. Luas kertas = 600 cm², luas potongan = 25 cm² → 600 ÷ 25 = **24 potongan**.
 - **D** — Salah. 600 ÷ 10 (salah pembagi).
+- **Konsep kunci:** Banyak potongan dicari dengan membagi luas kertas dengan luas 1 potongan.
+- **Langkah Penyelesaian:**
+  1. Luas kertas = 30 × 20 = 600 cm².
+  2. Luas 1 potongan = 5 × 5 = 25 cm².
+  3. Jumlah = 600 ÷ 25 = 24 potongan.
 
 ---
 
@@ -726,6 +936,11 @@ Versi rapi:
 - **B** — Salah. 180 ÷ 20 = 9.
 - **C** — Benar. l = 180 ÷ 15 = **12 cm**. Cek: 15 × 12 = 180 ✓.
 - **D** — Salah. 180 − 15 = 165.
+- **Konsep kunci:** Lebar persegi panjang dicari dengan membagi luas dengan panjang.
+- **Langkah Penyelesaian:**
+  1. Luas = 180 cm², panjang = 15 cm.
+  2. Lebar = L ÷ p = 180 ÷ 15.
+  3. Lebar = 12 cm (cek: 15 × 12 = 180).
 
 ---
 
@@ -740,6 +955,11 @@ Versi rapi:
 - **B** — Salah. Kalikan 1.000.
 - **C** — Benar. 0,75 × 10.000 = **7.500 m²**.
 - **D** — Salah. Kalikan 100.000.
+- **Konsep kunci:** 1 ha = 10.000 m², dipakai untuk konversi ha ke m².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 10.000 m².
+  2. Kalikan 0,75 × 10.000.
+  3. Hasil = 7.500 m².
 
 ---
 
@@ -754,6 +974,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 27 = 54).
 - **C** — Benar. L = 22 × 5 = **110 cm²**.
 - **D** — Salah. Mengalikan 22 × 10.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 22 cm, lebar = 5 cm.
+  2. Luas = 22 × 5.
+  3. Luas = 110 cm².
 
 ---
 
@@ -768,6 +993,11 @@ Versi rapi:
 - **B** — Salah. Keliling.
 - **C** — Salah. Kali 10.
 - **D** — Benar. L = 30 × 30 = **900 cm²**.
+- **Konsep kunci:** Luas persegi dihitung dengan sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Sisi = 30 cm.
+  2. Luas = 30 × 30.
+  3. Luas = 900 cm².
 
 ---
 
@@ -782,6 +1012,11 @@ Versi rapi:
 - **B** — Salah. Bagi 1.000.
 - **C** — Benar. 1 dm² = 100 cm² → 200 ÷ 100 = **2 dm²**.
 - **D** — Salah. Bagi 10 (konversi panjang).
+- **Konsep kunci:** 1 dm² = 100 cm², dipakai untuk konversi cm² ke dm².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 dm² = 100 cm².
+  2. Bagi 200 ÷ 100.
+  3. Hasil = 2 dm².
 
 ---
 
@@ -796,6 +1031,11 @@ Versi rapi:
 - **B** — Salah. Hitung perbandingan kasar.
 - **C** — Salah. 50 × 4 (salah).
 - **D** — Benar. Luas lantai = 40 m² = 400.000 cm². Luas keramik = 1.600 cm². Jumlah = 400.000 ÷ 1.600 = **250 keramik**.
+- **Konsep kunci:** Jumlah keramik dicari dengan membagi luas lantai dengan luas 1 keramik, satuan harus sama.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 8 × 5 = 40 m² = 400.000 cm².
+  2. Luas 1 keramik = 40 × 40 = 1.600 cm².
+  3. Jumlah = 400.000 ÷ 1.600 = 250 keramik.
 
 ---
 
@@ -810,6 +1050,11 @@ Versi rapi:
 - **B** — Salah. 13 × 13 = 169.
 - **C** — Salah. 14 × 14 = 196.
 - **D** — Benar. s = √225 = **15 cm** (15 × 15 = 225).
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas = 225 cm².
+  2. Sisi = √225.
+  3. Sisi = 15 cm (15 × 15 = 225).
 
 ---
 
@@ -824,6 +1069,11 @@ Versi rapi:
 - **B** — Salah. Keliling (2 × 25 = 50).
 - **C** — Benar. L = 16 × 9 = **144 m²**.
 - **D** — Salah. Mengalikan 16 × 10.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Panjang = 16 m, lebar = 9 m.
+  2. Luas = 16 × 9.
+  3. Luas = 144 m².
 
 ---
 
@@ -844,6 +1094,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Asal kalikan 100 × 2.
 - **C** — Benar. Luas lantai = 30 m² = 300.000 cm². Luas keramik = 900 cm². Jumlah = 300.000 ÷ 900 = 333,33... → dibulatkan **334 keramik**.
 - **D** — Salah. Asal kalikan 100 × 4.
+- **Konsep kunci:** Jika hasil bagi jumlah keramik tidak bulat, hasilnya dibulatkan ke atas karena keramik tidak dipotong sebagian.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 6 × 5 = 30 m² = 300.000 cm².
+  2. Luas 1 keramik = 30 × 30 = 900 cm².
+  3. 300.000 ÷ 900 = 333,3 → dibulatkan menjadi 334 keramik.
 
 ---
 
@@ -858,6 +1113,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. (25+18) × 25.000 = 43 × 25.000 (pakai keliling).
 - **C** — Benar. Luas = 25 × 18 = 450 m². Biaya = 450 × 25.000 = **Rp11.250.000**.
 - **D** — Salah. Asal tambah nol.
+- **Konsep kunci:** Biaya total dihitung dengan mengalikan luas dengan harga per satuan luas.
+- **Langkah Penyelesaian:**
+  1. Luas kebun = 25 × 18 = 450 m².
+  2. Biaya = luas × harga per m².
+  3. Biaya = 450 × 25.000 = Rp11.250.000.
 
 ---
 
@@ -872,6 +1132,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. 196 ÷ 4 = 49 (langsung bagi 4 tanpa akar dulu).
 - **C** — Benar. Sisi = √196 = 14 cm. Keliling = 4 × 14 = **56 cm**.
 - **D** — Salah. 196 ÷ 2 = 98 (mengira "keliling = luas ÷ 2").
+- **Konsep kunci:** Untuk mencari keliling dari luas persegi, cari dulu sisinya (akar kuadrat) baru hitung keliling.
+- **Langkah Penyelesaian:**
+  1. Sisi = √196 = 14 cm.
+  2. Keliling = 4 × sisi.
+  3. Keliling = 4 × 14 = 56 cm.
 
 ---
 
@@ -886,6 +1151,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. 4 × lebar (mengira persegi).
 - **C** — Benar. p = 144 ÷ 9 = 16 cm. K = 2 × (16 + 9) = 2 × 25 = **50 cm**.
 - **D** — Salah. Mengira keliling = luas.
+- **Konsep kunci:** Untuk keliling persegi panjang dari luas, cari dulu panjang dari luas dan lebar, baru hitung keliling.
+- **Langkah Penyelesaian:**
+  1. Panjang = 144 ÷ 9 = 16 cm.
+  2. Keliling = 2 × (p + l) = 2 × (16 + 9).
+  3. Keliling = 2 × 25 = 50 cm.
 
 ---
 
@@ -900,6 +1170,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. p + l (5 + 4 = 9).
 - **C** — Benar. Luas total = 20 m². Setengah = **10 m²** belum dipasang.
 - **D** — Salah. Itu luas total, bukan sisanya.
+- **Konsep kunci:** Bagian lantai yang belum dipasang adalah setengah dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas total = 5 × 4 = 20 m².
+  2. Setengah bagian = 20 ÷ 2.
+  3. Hasil = 10 m² belum dipasang.
 
 ---
 
@@ -914,6 +1189,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. 7 × 7 (asal angka).
 - **C** — Benar. Luas luar (taman + jalan) = 14 × 14 = 196 m². Luas taman = 12 × 12 = 144 m². Luas jalan = 196 − 144 = **52 m²**.
 - **D** — Salah. Itu luas tamannya saja.
+- **Konsep kunci:** Luas jalan setapak di luar taman = luas gabungan (taman + jalan) dikurangi luas taman.
+- **Langkah Penyelesaian:**
+  1. Sisi luar = 12 + (2 × 1) = 14 m, luas luar = 14 × 14 = 196 m².
+  2. Luas taman = 12 × 12 = 144 m².
+  3. Luas jalan = 196 − 144 = 52 m².
 
 ---
 
@@ -928,6 +1208,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. Luas = 80 × 50 = 4.000 m². 1 are = 100 m² → 4.000 ÷ 100 = **40 are**.
 - **C** — Salah. Lupa bagi 100.
 - **D** — Salah. Itu sama dengan luas dalam m².
+- **Konsep kunci:** Luas dihitung dalam m² dulu, baru dikonversi ke are (1 are = 100 m²).
+- **Langkah Penyelesaian:**
+  1. Luas = 80 × 50 = 4.000 m².
+  2. Ingat 1 are = 100 m².
+  3. 4.000 ÷ 100 = 40 are.
 
 ---
 
@@ -942,6 +1227,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. Panjang baru = 35 cm. L baru = 35 × 18 = **630 cm²**.
 - **C** — Salah. (30 + 5) × (18 + 2) atau salah hitung.
 - **D** — Salah. 45 × 18 (menambahkan 15 ke panjang).
+- **Konsep kunci:** Jika salah satu dimensi berubah, hitung dimensi baru dulu sebelum mencari luas baru.
+- **Langkah Penyelesaian:**
+  1. Panjang baru = 30 + 5 = 35 cm, lebar tetap 18 cm.
+  2. Luas baru = panjang baru × lebar.
+  3. Luas baru = 35 × 18 = 630 cm².
 
 ---
 
@@ -956,6 +1246,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. Luas lantai = 48 m² = 480.000 cm². Luas keramik = 400 cm². Jumlah keramik = 1.200. Jumlah dus = 1.200 ÷ 25 = 48 dus. Biaya = 48 × 75.000 = **Rp3.600.000**.
 - **C** — Salah. 1.200 × 40.000 (asal).
 - **D** — Salah. 1.000 × 75.000.
+- **Konsep kunci:** Untuk biaya berdasar dus, cari dulu jumlah keramik, ubah ke jumlah dus, baru kalikan harga.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 8 × 6 = 48 m² = 480.000 cm², luas keramik = 400 cm² → 1.200 keramik.
+  2. Jumlah dus = 1.200 ÷ 25 = 48 dus.
+  3. Biaya = 48 × 75.000 = Rp3.600.000.
 
 ---
 
@@ -970,6 +1265,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. s = √0,49 = **0,7 m** (0,7 × 0,7 = 0,49).
 - **C** — Salah. Lupa desimal (anggap luas = 49).
 - **D** — Salah. Itu sisi jika luas 2401.
+- **Konsep kunci:** Sisi persegi dicari dengan akar kuadrat dari luasnya, berlaku juga untuk bilangan desimal.
+- **Langkah Penyelesaian:**
+  1. Luas = 0,49 m².
+  2. Sisi = √0,49.
+  3. Sisi = 0,7 m (0,7 × 0,7 = 0,49).
 
 ---
 
@@ -984,6 +1284,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Salah letak koma.
 - **C** — Benar. Luas = 0,72 m² = 7.200 cm². p = 7.200 ÷ 80 = **90 cm**.
 - **D** — Salah. Tidak bagi 80, malah dikali 1.000.
+- **Konsep kunci:** Sebelum membagi untuk mencari panjang, samakan dulu satuan luas dan lebar.
+- **Langkah Penyelesaian:**
+  1. Ubah luas ke cm²: 0,72 m² = 7.200 cm².
+  2. Panjang = L ÷ l = 7.200 ÷ 80.
+  3. Panjang = 90 cm.
 
 ---
 
@@ -998,6 +1303,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. 40 + 25 (asal).
 - **C** — Benar. Luas kebun = 40 × 25 = 1.000 m². Luas kolam = 25 m². Sisa = 1.000 − 25 = **975 m²**.
 - **D** — Salah. Menambah, bukan mengurangi.
+- **Konsep kunci:** Luas lahan yang bisa ditanami = luas kebun dikurangi luas kolam.
+- **Langkah Penyelesaian:**
+  1. Luas kebun = 40 × 25 = 1.000 m².
+  2. Luas kolam = 5 × 5 = 25 m².
+  3. Sisa = 1.000 − 25 = 975 m².
 
 ---
 
@@ -1012,6 +1322,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Keliling × harga (24 × ... asal).
 - **C** — Benar. Luas = 6 × 6 = 36 m². Biaya = 36 × 45.000 = **Rp1.620.000**.
 - **D** — Salah. Tambah satu nol.
+- **Konsep kunci:** Biaya total dihitung dengan mengalikan luas dengan harga per satuan luas.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 6 × 6 = 36 m².
+  2. Biaya = luas × harga per m².
+  3. Biaya = 36 × 45.000 = Rp1.620.000.
 
 ---
 
@@ -1026,6 +1341,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. 1 ha = 100 are → 0,5 × 100 = **50 are**.
 - **C** — Salah. Anggap 1 ha = 1.000 are.
 - **D** — Salah. Anggap 1 ha = 10.000 are.
+- **Konsep kunci:** 1 ha = 100 are, dipakai untuk konversi ha ke are.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 100 are.
+  2. Kalikan 0,5 × 100.
+  3. Hasil = 50 are.
 
 ---
 
@@ -1040,6 +1360,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Kali 100 (konversi panjang).
 - **C** — Salah. Kali 1.000.
 - **D** — Benar. L = 2,5 × 1,8 = 4,5 m² = 4,5 × 10.000 = **45.000 cm²**.
+- **Konsep kunci:** Hitung luas dalam m² dulu, lalu konversi ke cm² dengan mengalikan 10.000.
+- **Langkah Penyelesaian:**
+  1. Luas = 2,5 × 1,8 = 4,5 m².
+  2. Ingat 1 m² = 10.000 cm².
+  3. 4,5 × 10.000 = 45.000 cm².
 
 ---
 
@@ -1054,6 +1379,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Keliling × 4 (108 × 10).
 - **C** — Benar. Luas = 720 m². Bibit = 720 × 4 = **2.880 bibit**.
 - **D** — Salah. 720 × 6 (salah kelipatan).
+- **Konsep kunci:** Jumlah bibit dihitung dengan mengalikan luas dengan kebutuhan bibit per m².
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 30 × 24 = 720 m².
+  2. Bibit = luas × 4 bibit per m².
+  3. Bibit = 720 × 4 = 2.880 bibit.
 
 ---
 
@@ -1068,6 +1398,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Itu luas persegi kecil.
 - **C** — Benar. Luas kecil = 8 × 8 = 64 cm². Luas besar = 2 × 64 = **128 cm²**.
 - **D** — Salah. 64 × 4 (salah kelipatan).
+- **Konsep kunci:** Untuk luas yang merupakan kelipatan luas lain, hitung dulu luas acuan lalu kalikan faktornya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi kecil = 8 × 8 = 64 cm².
+  2. Luas persegi besar = 2 × luas kecil.
+  3. Luas besar = 2 × 64 = 128 cm².
 
 ---
 
@@ -1082,6 +1417,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Benar. Luas lantai = 35 m² = 350.000 cm². Luas keramik = 625 cm². Jumlah keramik = 560. Dus = 560 ÷ 16 = **35 dus**.
 - **C** — Salah. 560 ÷ 14 (salah pembagi).
 - **D** — Salah. Itu hasil 560 ÷ 10.
+- **Konsep kunci:** Cari dulu jumlah keramik yang dibutuhkan, baru bagi dengan kapasitas per dus.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 7 × 5 = 35 m² = 350.000 cm², luas keramik = 625 cm² → 560 keramik.
+  2. Jumlah dus = 560 ÷ 16.
+  3. Hasil = 35 dus.
 
 ---
 
@@ -1096,6 +1436,11 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 - **B** — Salah. Kali 1.000.
 - **C** — Benar. 1,2 × 10.000 = **12.000 m²**.
 - **D** — Salah. Kali 100.000.
+- **Konsep kunci:** 1 ha = 10.000 m², dipakai untuk konversi ha ke m².
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 10.000 m².
+  2. Kalikan 1,2 × 10.000.
+  3. Hasil = 12.000 m².
 
 ---
 
@@ -1121,6 +1466,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. 6 × 12 = 72.
 - **C** — Benar. Misal lebar = x, panjang = 2x. Luas = 2x² = 98 → x² = 49 → x = **7 m**. Cek: 7 × 14 = 98 ✓.
 - **D** — Salah. Itu panjangnya, bukan lebarnya.
+- **Konsep kunci:** Jika panjang dan lebar berupa perbandingan (panjang = 2 × lebar), gunakan pemisalan aljabar sederhana untuk menyelesaikan luas.
+- **Langkah Penyelesaian:**
+  1. Misalkan lebar = x, maka panjang = 2x, sehingga Luas = 2x² = 98.
+  2. Selesaikan: x² = 49, maka x = 7.
+  3. Lebar = 7 m (cek: 7 × 14 = 98).
 
 ---
 
@@ -1135,6 +1485,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. (4+3) × 80.000.
 - **C** — Benar. Luas = 12 m². Biaya = 12 × 80.000 = **Rp960.000**.
 - **D** — Salah. 14 × 80.000.
+- **Konsep kunci:** Biaya pengecatan dihitung dengan mengalikan luas dinding dengan harga cat per m².
+- **Langkah Penyelesaian:**
+  1. Luas dinding = 4 × 3 = 12 m².
+  2. Biaya = luas × harga per m².
+  3. Biaya = 12 × 80.000 = Rp960.000.
 
 ---
 
@@ -1149,6 +1504,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. Asal.
 - **C** — Benar. Jika sisi = s, luas awal = s². Sisi baru = 2s, luas baru = (2s)² = 4s² → **4 kali** lipat.
 - **D** — Salah. Mengkubikkan (untuk volume, bukan luas).
+- **Konsep kunci:** Jika sisi persegi dikalikan n, maka luasnya dikalikan n² (bukan n).
+- **Langkah Penyelesaian:**
+  1. Sisi awal = s, sisi baru = 2s.
+  2. Luas awal = s², luas baru = (2s)² = 4s².
+  3. Luas baru menjadi 4 kali luas awal.
 
 ---
 
@@ -1172,6 +1532,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. 8 × 16 = 128.
 - **C** — Benar. 2x² = 200 → x² = 100 → x = **10 cm**. Cek: 10 × 20 = 200 ✓.
 - **D** — Salah. Itu panjangnya.
+- **Konsep kunci:** Jika panjang dan lebar berupa perbandingan (panjang = 2 × lebar), gunakan pemisalan aljabar sederhana untuk menyelesaikan luas.
+- **Langkah Penyelesaian:**
+  1. Misalkan lebar = x, maka panjang = 2x, sehingga Luas = 2x² = 200.
+  2. Selesaikan: x² = 100, maka x = 10.
+  3. Lebar = 10 cm (cek: 10 × 20 = 200).
 
 ---
 
@@ -1186,6 +1551,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. Asal mengalikan.
 - **C** — Benar. Luas lantai = 72 m² = 720.000 cm². Luas ubin = 60 × 40 = 2.400 cm². Jumlah = 720.000 ÷ 2.400 = **300 ubin**.
 - **D** — Salah. 720.000 ÷ 2.000 (salah pembagi).
+- **Konsep kunci:** Jumlah ubin dicari dengan membagi luas lantai dengan luas 1 ubin, satuan harus sama.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 9 × 8 = 72 m² = 720.000 cm².
+  2. Luas 1 ubin = 60 × 40 = 2.400 cm².
+  3. Jumlah = 720.000 ÷ 2.400 = 300 ubin.
 
 ---
 
@@ -1200,6 +1570,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Benar. 2.500 ÷ 10.000 = **0,25 ha**.
 - **C** — Salah. Bagi 1.000.
 - **D** — Salah. Bagi 100 (konversi panjang).
+- **Konsep kunci:** 1 ha = 10.000 m², dipakai untuk konversi m² ke ha.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ha = 10.000 m².
+  2. Bagi 2.500 ÷ 10.000.
+  3. Hasil = 0,25 ha.
 
 ---
 
@@ -1214,6 +1589,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. 15 + 12 (asal).
 - **C** — Benar. Luas halaman = 180 m². Luas bak = 9 m². Sisa = 180 − 9 = **171 m²**.
 - **D** — Salah. Menambah, bukan mengurang.
+- **Konsep kunci:** Luas halaman yang bisa dipakai = luas halaman dikurangi luas bak air.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 15 × 12 = 180 m².
+  2. Luas bak = 3 × 3 = 9 m².
+  3. Sisa = 180 − 9 = 171 m².
 
 ---
 
@@ -1228,6 +1608,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. Keliling.
 - **C** — Benar. L = 21 × 29,7 = 623,7 ≈ **624 cm²**.
 - **D** — Salah. Pembulatan terlalu jauh / 25².
+- **Konsep kunci:** Luas persegi panjang dengan ukuran desimal tetap dihitung dengan p × l, lalu hasilnya dibulatkan.
+- **Langkah Penyelesaian:**
+  1. Panjang = 21 cm, lebar = 29,7 cm.
+  2. Luas = 21 × 29,7 = 623,7 cm².
+  3. Dibulatkan menjadi 624 cm².
 
 ---
 
@@ -1242,6 +1627,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. Itu sisi-nya, bukan luas.
 - **C** — Benar. Luas total = 16 m². Separuh = **8 m²**.
 - **D** — Salah. Itu seluruh lantai.
+- **Konsep kunci:** Luas yang dibutuhkan untuk menutup separuh lantai adalah setengah dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas total = 4 × 4 = 16 m².
+  2. Separuh = 16 ÷ 2.
+  3. Hasil = 8 m².
 
 ---
 
@@ -1256,6 +1646,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. 75 × 20.000.
 - **C** — Benar. Luas = 1.500 m². Setengah = 750 m². Biaya = 750 × 20.000 = **Rp15.000.000**.
 - **D** — Salah. Tidak dibagi 2.
+- **Konsep kunci:** Cari dulu luas bagian yang ditanami (setengah luas total), baru kalikan dengan harga.
+- **Langkah Penyelesaian:**
+  1. Luas total = 50 × 30 = 1.500 m².
+  2. Setengah bagian = 1.500 ÷ 2 = 750 m².
+  3. Biaya = 750 × 20.000 = Rp15.000.000.
 
 ---
 
@@ -1270,6 +1665,11 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
 - **B** — Salah. Itu selisihnya.
 - **C** — Benar. Luas kecil = 5 × 5 = 25 cm². Luas besar = 25 + 50 = **75 cm²**.
 - **D** — Salah. 5² × 4 (asal).
+- **Konsep kunci:** Luas persegi yang lebih besar dicari dengan menjumlahkan luas persegi kecil dan selisihnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi kecil = 5 × 5 = 25 cm².
+  2. Tambahkan selisih 50 cm².
+  3. Luas persegi besar = 25 + 50 = 75 cm².
 
 ---
 
@@ -1290,6 +1690,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Salah. Lupa kurangi kolom: 63 ÷ 0,25 = 252.
 - **C** — Salah. 64 (asal pembulatan ke atas).
 - **D** — Salah. Salah konversi.
+- **Konsep kunci:** Jika ada bagian yang tidak dipasangi (kolom), luas efektif dihitung dengan mengurangi luas kolom dari luas ruangan.
+- **Langkah Penyelesaian:**
+  1. Luas efektif = (9 × 7) − (1 × 1) = 62 m² = 620.000 cm².
+  2. Luas 1 keramik = 50 × 50 = 2.500 cm².
+  3. Jumlah = 620.000 ÷ 2.500 = 248 keramik.
 
 ---
 
@@ -1304,6 +1709,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Benar. Luas kain = 16 m². Luas karpet = 9 m². Sisa = 16 − 9 = **7 m²**.
 - **C** — Salah. Itu luas karpet.
 - **D** — Salah. Itu luas kain semula.
+- **Konsep kunci:** Sisa kain dihitung dengan mengurangi luas karpet dari luas kain semula.
+- **Langkah Penyelesaian:**
+  1. Luas kain = 4 × 4 = 16 m².
+  2. Luas karpet = 3 × 3 = 9 m².
+  3. Sisa = 16 − 9 = 7 m².
 
 ---
 
@@ -1318,6 +1728,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Salah. Keliling foto × 2.
 - **C** — Benar. Ukuran luar = (12 + 4) × (18 + 4) = 16 × 22 = 352 cm². Ukuran foto = 12 × 18 = 216 cm². Luas bingkai = 352 − 216 = **136 cm²**.
 - **D** — Salah. Itu luas luar total.
+- **Konsep kunci:** Luas bingkai (rangka saja) dicari dengan mengurangi luas foto dari luas ukuran luar (foto + batas di semua sisi).
+- **Langkah Penyelesaian:**
+  1. Ukuran luar = (12 + 4) × (18 + 4) = 16 × 22 = 352 cm².
+  2. Luas foto = 12 × 18 = 216 cm².
+  3. Luas bingkai = 352 − 216 = 136 cm².
 
 ---
 
@@ -1332,6 +1747,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Salah. Hanya bagian pertama (8 × 5).
 - **C** — Benar. L total = (8 × 5) + (3 × 4) = 40 + 12 = **52 m²**.
 - **D** — Salah. (8+4) × (5+0) = 60. Salah pendekatan.
+- **Konsep kunci:** Luas bangun berbentuk huruf L dicari dengan memecahnya jadi dua persegi panjang lalu menjumlahkan luasnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian 1 = 8 × 5 = 40 m².
+  2. Luas bagian 2 = 3 × 4 = 12 m².
+  3. Luas total = 40 + 12 = 52 m².
 
 ---
 
@@ -1346,6 +1766,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Benar. Misal p = 5x, l = 3x. Luas = 15x² = 240 → x² = 16 → x = 4. Lebar = 3 × 4 = **12 cm**. Cek: 20 × 12 = 240 ✓.
 - **C** — Salah. Itu mendekati panjang/2.
 - **D** — Salah. Itu panjangnya (5 × 4 = 20), bukan lebar.
+- **Konsep kunci:** Jika panjang dan lebar diberikan dalam perbandingan, gunakan pemisalan aljabar untuk menyelesaikan luas.
+- **Langkah Penyelesaian:**
+  1. Misalkan p = 5x dan l = 3x, sehingga Luas = 15x² = 240.
+  2. Selesaikan: x² = 16, maka x = 4.
+  3. Lebar = 3 × 4 = 12 cm (cek: 20 × 12 = 240).
 
 ---
 
@@ -1360,6 +1785,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Benar. Sisi luar = 20 + 4 = 24 m. Luas luar = 576 m². Luas kebun = 400 m². Luas jalan = 576 − 400 = **176 m²**.
 - **C** — Salah. Itu luas kebun.
 - **D** — Salah. Itu luas luar (kebun + jalan).
+- **Konsep kunci:** Luas jalan setapak di luar kebun = luas gabungan (kebun + jalan) dikurangi luas kebun.
+- **Langkah Penyelesaian:**
+  1. Sisi luar = 20 + (2 × 2) = 24 m, luas luar = 24 × 24 = 576 m².
+  2. Luas kebun = 20 × 20 = 400 m².
+  3. Luas jalan = 576 − 400 = 176 m².
 
 ---
 
@@ -1374,6 +1804,11 @@ Fokus: gabungan luas, bingkai, perbandingan dimensi, multi-konversi, soal cerita
 - **B** — Benar. Luas lantai = 30 m². Luas karpet = 12 m². Sisa = 30 − 12 = **18 m²**.
 - **C** — Salah. Itu luas lantai.
 - **D** — Salah. Menambah, bukan mengurang.
+- **Konsep kunci:** Luas lantai yang tidak tertutup karpet = luas lantai dikurangi luas karpet.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 6 × 5 = 30 m².
+  2. Luas karpet = 4 × 3 = 12 m².
+  3. Sisa = 30 − 12 = 18 m².
 
 ---
 
@@ -1391,6 +1826,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Salah. Mengalikan 3 × 9 (asal).
 - **C** — Salah. Mengira berkurang karena panjang dikurangi.
 - **D** — Salah. Mengira saling menghapus.
+- **Konsep kunci:** Perubahan luas dicari dengan menghitung luas awal dan luas baru (dengan dimensi yang sudah berubah), lalu membandingkan selisihnya.
+- **Langkah Penyelesaian:**
+  1. Luas awal = 18 × 12 = 216 cm².
+  2. Luas baru = (18 − 3) × (12 + 3) = 15 × 15 = 225 cm².
+  3. Selisih = 225 − 216 = bertambah 9 cm².
 
 ---
 
@@ -1407,6 +1847,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 
    Catatan: bila konteks "harus tertutup semua" → 563. Kunci tetap **C** (562) bila konteks "keramik utuh terpasang".
 - **D** — Salah. Tidak kurangi lemari: 96 m² ÷ 0,16 = 600.
+- **Konsep kunci:** Jika ada bagian yang tidak dipasangi (tertutup lemari), luas efektif dihitung dengan mengurangi luas itu dari luas lantai.
+- **Langkah Penyelesaian:**
+  1. Luas efektif = (12 × 8) − (3 × 2) = 90 m² = 900.000 cm².
+  2. Luas 1 keramik = 40 × 40 = 1.600 cm².
+  3. 900.000 ÷ 1.600 = 562,5 → 562 keramik utuh.
 
 ---
 
@@ -1421,6 +1866,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Benar. Sisi = √1,44 = 1,2 m. Keliling = 4 × 1,2 = **4,8 m**.
 - **C** — Salah. 1,44 × 4 (luas × 4, salah rumus).
 - **D** — Salah. Salah letak koma.
+- **Konsep kunci:** Untuk mencari keliling dari luas persegi, cari dulu sisinya (akar kuadrat), baru hitung keliling.
+- **Langkah Penyelesaian:**
+  1. Sisi = √1,44 = 1,2 m.
+  2. Keliling = 4 × sisi.
+  3. Keliling = 4 × 1,2 = 4,8 m.
 
 ---
 
@@ -1435,6 +1885,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Benar. 0,2 ha = 2.000 m². Lebar = 2.000 ÷ 50 = **40 m**. Cek: 50 × 40 = 2.000 ✓.
 - **C** — Salah. Mengira persegi.
 - **D** — Salah. Lupa bagi (anggap 2.000 ÷ 5 = 400).
+- **Konsep kunci:** Ubah dulu satuan ha ke m², baru bagi dengan panjang untuk mendapatkan lebar.
+- **Langkah Penyelesaian:**
+  1. 0,2 ha = 2.000 m².
+  2. Lebar = L ÷ p = 2.000 ÷ 50.
+  3. Lebar = 40 m (cek: 50 × 40 = 2.000).
 
 ---
 
@@ -1451,6 +1906,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Salah. Asal kalikan.
 - **C** — Benar. Total ukuran: 15 cm × 5 cm. Luas = 15 × 5 = **75 cm²**. Keliling = 2 × (15 + 5) = **40 cm**.
 - **D** — Salah. Keliling 3 persegi terpisah (4 × 5 × 3 = 60), bukan persegi panjang gabungan.
+- **Konsep kunci:** Beberapa persegi identik yang disusun sebaris membentuk persegi panjang baru dengan panjang = jumlah sisi-sisinya.
+- **Langkah Penyelesaian:**
+  1. Panjang gabungan = 3 × 5 = 15 cm, lebar = 5 cm.
+  2. Luas = 15 × 5 = 75 cm².
+  3. Keliling = 2 × (15 + 5) = 40 cm.
 
 ---
 
@@ -1465,6 +1925,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Salah. Mahal × 2.
 - **C** — Salah. Tertukar.
 - **D** — Salah. Lupa kurangi mahal dari total (langsung 80).
+- **Konsep kunci:** Luas keramik biasa dicari dengan mengurangi luas keramik mahal dari luas lantai total.
+- **Langkah Penyelesaian:**
+  1. Luas keramik mahal = 4 × 4 = 16 m².
+  2. Luas total lantai = 10 × 8 = 80 m².
+  3. Luas keramik biasa = 80 − 16 = 64 m².
 
 ---
 
@@ -1479,6 +1944,11 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 - **B** — Benar. 80÷10 = 8 potongan ke kanan; 60÷10 = 6 potongan ke bawah. Total = 8 × 6 = **48 potongan**. Sisa luas = 0 (pas habis).
 - **C** — Salah. Asal kalikan 10 × 5.
 - **D** — Salah. Asal hitung.
+- **Konsep kunci:** Banyak potongan persegi dari lembaran dicari dengan menghitung berapa potongan muat di tiap sisi, lalu mengalikannya.
+- **Langkah Penyelesaian:**
+  1. 80 ÷ 10 = 8 potongan pada sisi panjang.
+  2. 60 ÷ 10 = 6 potongan pada sisi lebar.
+  3. Total potongan = 8 × 6 = 48, sisa luas = 0.
 
 ---
 
@@ -1499,6 +1969,11 @@ Opsi final:
 - **A** — Salah. Itu luas jalan saja.
 - **B** — Salah. Asal kurangi 400.
 - **C** — Benar. Bagian dalam = 58 × 38 = **2.204 m²**. (Luas jalan = 2.400 − 2.204 = 196 m².)
+- **Konsep kunci:** Bagian dalam yang bukan jalan dicari dengan mengurangi 2 × lebar jalan dari setiap sisi kebun.
+- **Langkah Penyelesaian:**
+  1. Panjang bagian dalam = 60 − (2 × 1) = 58 m.
+  2. Lebar bagian dalam = 40 − (2 × 1) = 38 m.
+  3. Luas bagian dalam = 58 × 38 = 2.204 m².
 - **D** — Salah. Itu luas total kebun.
 
 ---
@@ -1514,6 +1989,11 @@ Opsi final:
 - **B** — Salah. Mengira persegi lebih besar.
 - **C** — Salah. Selisih tidak benar.
 - **D** — Benar. L persegi panjang = 25 × 16 = 400 cm². L persegi = 20 × 20 = 400 cm². **Sama, selisih 0**.
+- **Konsep kunci:** Untuk membandingkan dua bangun, hitung dulu luas masing-masing lalu cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 25 × 16 = 400 cm².
+  2. Luas persegi = 20 × 20 = 400 cm².
+  3. Kedua luas sama besar, selisih = 0.
 
 ---
 
@@ -1528,6 +2008,11 @@ Opsi final:
 - **B** — Salah. Salah kurang.
 - **C** — Salah. Salah kurang.
 - **D** — Salah. Itu luas semula (lupa kurangi).
+- **Konsep kunci:** Luas sisa setelah dipotong dicari dengan mengurangi luas potongan dari luas bangun semula.
+- **Langkah Penyelesaian:**
+  1. Luas persegi semula = 12 × 12 = 144 cm².
+  2. Luas bagian yang dipotong = 4 × 4 = 16 cm².
+  3. Sisa = 144 − 16 = 128 cm².
 
 ---
 
@@ -1542,6 +2027,11 @@ Opsi final:
 - **B** — Salah. Salah hitung selisih.
 - **C** — Salah. Mengira biaya < anggaran.
 - **D** — Salah. Asal selisih.
+- **Konsep kunci:** Untuk mengetahui cukup atau tidak, bandingkan total biaya kebutuhan dengan anggaran yang tersedia.
+- **Langkah Penyelesaian:**
+  1. Luas lapangan = 100 × 60 = 6.000 m².
+  2. Biaya = 6.000 × 30.000 = Rp180.000.000.
+  3. Selisih terhadap anggaran = 180 juta − 150 juta = kurang Rp30.000.000 (tidak cukup).
 
 ---
 
@@ -1568,6 +2058,11 @@ Opsi final:
 - **B** — Benar. l = 16 m, p = 16 + 14 = 30 m. Cek: 16 × 30 = **480 m²** ✓ dan selisih = 14 ✓.
 - **C** — Salah. 20 × 34 = 680 ≠ 480.
 - **D** — Salah. 24 × 38 = 912 ≠ 480.
+- **Konsep kunci:** Jika panjang dinyatakan sebagai lebar ditambah selisih tertentu, gunakan pemisalan aljabar dan uji nilai yang cocok untuk menyelesaikan luas.
+- **Langkah Penyelesaian:**
+  1. Misalkan lebar = x, panjang = x + 14, sehingga x(x + 14) = 480.
+  2. Coba x = 16: 16 × 30 = 480 ✓.
+  3. Lebar = 16 m, panjang = 30 m.
 
 ---
 
@@ -1582,6 +2077,11 @@ Opsi final:
 - **B** — Salah. Salah hitung pembulatan dus.
 - **C** — Salah. Tidak dibulatkan ke dus utuh.
 - **D** — Benar. Luas lantai = 300 m² = 3.000.000 cm². Luas keramik = 2.500 cm². Jumlah keramik = 1.200. Tambah 5% = 1.260. Dus = 1.260 ÷ 8 = 157,5 → bulatkan ke atas **158 dus**. Biaya = 158 × 95.000 = **Rp15.010.000**.
+- **Konsep kunci:** Untuk biaya dengan cadangan persen dan satuan dus, hitung jumlah keramik, tambahkan cadangan, ubah ke dus (dibulatkan ke atas), baru kalikan harga.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 20 × 15 = 300 m² = 3.000.000 cm², luas keramik = 2.500 cm² → 1.200 keramik.
+  2. Tambah 5% cadangan = 1.200 × 1,05 = 1.260, jumlah dus = 1.260 ÷ 8 = 157,5 → 158 dus.
+  3. Biaya = 158 × 95.000 = Rp15.010.000.
 
 ---
 

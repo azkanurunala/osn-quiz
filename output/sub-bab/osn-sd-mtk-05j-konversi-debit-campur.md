@@ -116,6 +116,10 @@ D. 40 L/menit
 - B. Salah. Siswa mengalikan 6 (salah faktor — mungkin mengira 1 menit = 6 detik). 4 × 6 = 24. Faktor waktu yang benar adalah 60, bukan 6.
 - C. Salah. Siswa mengalikan 100 (tertukar dengan faktor volume 1 L = 1.000 mL). Faktor waktu adalah 60.
 - D. Salah. 4 × 10 = 40. Mungkin siswa berpikir konversi dilakukan dengan menggeser satu tempat desimal seperti pada panjang (m ke dm). Ingat: konversi waktu pakai 60, bukan 10.
+- **Konsep kunci:** Ubah detik ke menit: 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 1 L/detik = 1 × 60 L/menit.
+  2. Jadi 4 L/detik = 4 × 60 = 240 L/menit.
 
 ---
 
@@ -133,6 +137,10 @@ D. 6 L/menit
 - B. **Benar.** Dari L/jam ke L/menit, bagi 60 karena 1 jam = 60 menit. 600 ÷ 60 = 10 L/menit.
 - C. Salah. 600 ÷ 6 = 100. Salah faktor: dikira 1 jam = 6 menit.
 - D. Salah. 600 ÷ 100 = 6. Tertukar dengan faktor volume (1.000) atau panjang (100). Faktor jam ke menit adalah 60.
+- **Konsep kunci:** Ubah jam ke menit: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 600 L/jam ÷ 60.
+  2. = 10 L/menit.
 
 ---
 
@@ -150,6 +158,10 @@ D. 20.000 L/detik
 - B. Salah. 2 × 100 = 200. Tertukar dengan satuan panjang (1 m = 100 cm). Untuk volume, 1 m³ = 1.000 L.
 - C. **Benar.** 1 m³ = 1.000 L, maka 2 m³ = 2.000 L. Karena satuan waktu tidak berubah, 2 m³/detik = 2.000 L/detik.
 - D. Salah. Siswa mengalikan 10.000 (mungkin menjumlah pangkat: 100 × 100). Faktor volume tetap 1.000.
+- **Konsep kunci:** 1 m³ = 1.000 liter.
+- **Langkah Penyelesaian:**
+  1. 2 m³ = 2 × 1.000.
+  2. = 2.000 L/detik.
 
 ---
 
@@ -167,6 +179,10 @@ D. 0,5 L/detik
 - B. Salah. 500 ÷ 10 = 50. Hanya menggeser satu digit, padahal volume butuh 3 digit (× atau ÷ 1.000).
 - C. Salah. 500 × 10 = 5.000. Arah konversi salah: dari mL ke L harus **dibagi** (mengecil), bukan dikali.
 - D. **Benar.** 1 L = 1.000 mL, maka 500 mL = 500 ÷ 1.000 = 0,5 L. Jadi 500 mL/detik = 0,5 L/detik.
+- **Konsep kunci:** 1 liter = 1.000 mL.
+- **Langkah Penyelesaian:**
+  1. 500 mL ÷ 1.000.
+  2. = 0,5 L/detik.
 
 ---
 
@@ -184,6 +200,10 @@ D. 18.000 L/jam
 - B. **Benar.** 1 jam = 3.600 detik. 3 × 3.600 = 10.800 L/jam.
 - C. Salah. 3 × 600 = 1.800. Salah faktor (3.600 ditulis 600).
 - D. Salah. 3 × 6.000 = 18.000. Salah faktor (mungkin mengira 1 jam = 6.000 detik).
+- **Konsep kunci:** Ubah detik ke jam: 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 3 L/detik = 3 × 3.600.
+  2. = 10.800 L/jam.
 
 ---
 
@@ -201,6 +221,10 @@ D. 1,2 L/detik
 - B. Salah. 12 ÷ 6 = 2. Salah faktor (dikira 1 menit = 6 detik). 1 menit = 60 detik.
 - C. Salah. 12 ÷ 100 = 0,12. Tertukar dengan faktor volume.
 - D. Salah. 12 ÷ 10 = 1,2. Tidak ada faktor 10 untuk konversi waktu.
+- **Konsep kunci:** Ubah menit ke detik: 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 12 L/menit ÷ 60.
+  2. = 0,2 L/detik.
 
 ---
 
@@ -218,6 +242,10 @@ D. 500 L/menit
 - B. Salah. 0,5 × 10 = 5. Hanya menggeser satu desimal.
 - C. Salah. 0,5 × 10.000 = 5.000. Faktor terlalu besar.
 - D. **Benar.** 1 m³ = 1.000 L. 0,5 × 1.000 = 500 L/menit.
+- **Konsep kunci:** 1 m³ = 1.000 liter.
+- **Langkah Penyelesaian:**
+  1. 0,5 m³ = 0,5 × 1.000.
+  2. = 500 L/menit.
 
 ---
 
@@ -235,6 +263,10 @@ D. 20 L/detik
 - B. Salah. 7.200 ÷ 600 = 12. Salah faktor (3.600 ditulis 600).
 - C. **Benar.** 1 jam = 3.600 detik. 7.200 ÷ 3.600 = 2 L/detik.
 - D. Salah. 7.200 ÷ 360 = 20. Faktor kurang satu nol (3.600 ditulis 360).
+- **Konsep kunci:** Ubah jam ke detik: 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 7.200 L/jam ÷ 3.600.
+  2. = 2 L/detik.
 
 ---
 
@@ -252,6 +284,10 @@ D. 150 L/menit
 - B. Salah. Hanya mengubah mL ke L (1,5 L/detik) lalu lupa mengubah detik ke menit, lalu bulatkan ke 15.
 - C. **Benar.** 1.500 mL/detik = 1,5 L/detik. Lalu 1,5 × 60 = 90 L/menit.
 - D. Salah. Tidak mengubah mL ke L, langsung × 100 (salah faktor lagi).
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 1.500 mL = 1,5 L.
+  2. 1,5 × 60 = 90 L/menit.
 
 ---
 
@@ -269,6 +305,10 @@ D. 1.500 L/jam
 - B. Salah. 25 × 6 = 150. Salah faktor (dikira 1 jam = 6 menit).
 - C. Salah. Sama dengan opsi A — bukan jawaban.
 - D. **Benar.** 1 jam = 60 menit. 25 × 60 = 1.500 L/jam.
+- **Konsep kunci:** Ubah menit ke jam: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 25 L/menit × 60.
+  2. = 1.500 L/jam.
 
 ---
 
@@ -286,6 +326,10 @@ D. 1 mL/detik
 - B. Salah. 0,1 × 100 = 10. Salah faktor — bukan 100.
 - C. Salah. 0,1 × 10.000 = 1.000. Faktor terlalu besar.
 - D. Salah. 0,1 × 10 = 1. Faktor jauh lebih kecil dari yang benar.
+- **Konsep kunci:** 1 liter = 1.000 mL.
+- **Langkah Penyelesaian:**
+  1. 0,1 L = 0,1 × 1.000.
+  2. = 100 mL/detik.
 
 ---
 
@@ -303,6 +347,10 @@ D. 360 L/menit
 - B. **Benar.** 36 m³/jam = 36.000 L/jam (× 1.000). Lalu 36.000 ÷ 60 = 600 L/menit.
 - C. Salah. 36.000 ÷ 600 = 60. Salah faktor (60 ditulis 600).
 - D. Salah. 36 × 10 = 360. Asal pakai 10 padahal butuh dua langkah konversi.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan jam ke menit (÷60).
+- **Langkah Penyelesaian:**
+  1. 36 m³ = 36.000 L.
+  2. 36.000 ÷ 60 = 600 L/menit.
 
 ---
 
@@ -320,6 +368,10 @@ D. 18 m³/jam
 - B. Salah. 5 × 360 = 1.800. Salah faktor jam.
 - C. Salah. 5 × 1.000 = 5.000. Hanya mengubah L ke ... tidak konsisten.
 - D. **Benar.** 5 L/detik = 5 × 3.600 = 18.000 L/jam = 18.000 ÷ 1.000 = 18 m³/jam.
+- **Konsep kunci:** Ubah L ke m³ (÷1000) dan detik ke jam (×3600).
+- **Langkah Penyelesaian:**
+  1. 5 L = 0,005 m³.
+  2. 0,005 × 3.600 = 18 m³/jam.
 
 ---
 
@@ -337,6 +389,10 @@ D. 12 L/jam
 - B. Salah. Hasil dibagi 10 dari yang benar.
 - C. **Benar.** 200 mL/detik = 0,2 L/detik. Lalu 0,2 × 3.600 = 720 L/jam.
 - D. Salah. 200 × 60 ÷ 1.000 = 12. Hanya mengubah detik ke menit (bukan jam).
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke jam (×3600).
+- **Langkah Penyelesaian:**
+  1. 200 mL = 0,2 L.
+  2. 0,2 × 3.600 = 720 L/jam.
 
 ---
 
@@ -354,6 +410,10 @@ D. 200 L/menit
 - B. **Benar.** 0,02 m³/detik = 20 L/detik. Lalu 20 × 60 = 1.200 L/menit.
 - C. Salah. 0,02 × 1.000 × 6.000 = 120.000. Salah faktor.
 - D. Salah. 20 × 10 = 200. Faktor menit dikira 10.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan detik ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 0,02 m³ = 20 L.
+  2. 20 × 60 = 1.200 L/menit.
 
 ---
 
@@ -371,6 +431,10 @@ D. 600 L/menit
 - B. Salah. 3.600 ÷ 100 = 36. Salah faktor.
 - C. Salah. 3.600 ÷ 600 = 6. Salah faktor (60 ditulis 600).
 - D. Salah. 3.600 ÷ 6 = 600. Salah faktor (60 ditulis 6).
+- **Konsep kunci:** Ubah jam ke menit: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 3.600 L/jam ÷ 60.
+  2. = 60 L/menit.
 
 ---
 
@@ -388,6 +452,10 @@ D. 0,25 L/detik
 - B. Salah. 9.000 ÷ 360 = 25. Salah faktor jam.
 - C. Salah. 9.000 ÷ 36 = 250. Salah faktor jam.
 - D. Salah. 2,5 ÷ 10 = 0,25. Pembagian ekstra yang tidak perlu.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan jam ke detik (÷3600).
+- **Langkah Penyelesaian:**
+  1. 9 m³ = 9.000 L.
+  2. 9.000 ÷ 3.600 = 2,5 L/detik.
 
 ---
 
@@ -405,6 +473,10 @@ D. 800 L/jam
 - B. Salah. 480 ÷ 60 = 8. Arah konversi terbalik — menit ke jam butuh × 60, bukan ÷ 60.
 - C. **Benar.** 480 × 60 = 28.800 L/jam.
 - D. Salah. 480 × 1⅔ = 800. Salah faktor.
+- **Konsep kunci:** Ubah menit ke jam: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 480 L/menit × 60.
+  2. = 28.800 L/jam.
 
 ---
 
@@ -422,6 +494,10 @@ D. 0,6 L/menit
 - B. **Benar.** 1.000 mL/detik = 1 L/detik. Lalu 1 × 60 = 60 L/menit.
 - C. Salah. 1 × 600 = 600. Salah faktor (mengira 1 menit = 600 detik).
 - D. Salah. 1 ÷ ... = 0,6. Arah konversi salah.
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 1.000 mL = 1 L.
+  2. 1 × 60 = 60 L/menit.
 
 ---
 
@@ -439,6 +515,10 @@ D. 30 L/menit
 - B. Salah. 0,03 × 10 = 0,3. Faktor 1.000, bukan 10.
 - C. Salah. 0,03 (tidak diubah). Lupa mengubah m³ ke L.
 - D. **Benar.** 1 m³ = 1.000 L. 0,03 × 1.000 = 30 L/menit.
+- **Konsep kunci:** 1 m³ = 1.000 liter.
+- **Langkah Penyelesaian:**
+  1. 0,03 m³ = 0,03 × 1.000.
+  2. = 30 L/menit.
 
 ---
 
@@ -456,6 +536,10 @@ D. 2.500 mL/detik
 - B. **Benar.** 15 L/menit = 15 ÷ 60 = 0,25 L/detik. Lalu 0,25 × 1.000 = 250 mL/detik.
 - C. Salah. 25 × 1.000 = 25.000. Hasil opsi A dikali 1.000 lagi.
 - D. Salah. 0,25 × 10.000 = 2.500. Faktor volume terlalu besar.
+- **Konsep kunci:** Ubah L ke mL (×1000) dan menit ke detik (÷60).
+- **Langkah Penyelesaian:**
+  1. 15 L = 15.000 mL.
+  2. 15.000 ÷ 60 = 250 mL/detik.
 
 ---
 
@@ -473,6 +557,10 @@ D. 120 L/menit
 - B. Salah. 7,2 × ... = 1,2. Lupa mengubah m³ ke L.
 - C. Salah. 7.200 ÷ 6 = 1.200. Faktor 60 ditulis 6.
 - D. **Benar.** 7,2 m³/jam = 7.200 L/jam. Lalu 7.200 ÷ 60 = 120 L/menit.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan jam ke menit (÷60).
+- **Langkah Penyelesaian:**
+  1. 7,2 m³ = 7.200 L.
+  2. 7.200 ÷ 60 = 120 L/menit.
 
 ---
 
@@ -490,6 +578,10 @@ D. 12.500 mL/detik
 - B. Salah. 4.500 ÷ 3.600 = 1,25 L/detik = 1.250 mL/detik. Opsi B kurang satu nol.
 - C. **Benar.** 4.500 ÷ 3.600 = 1,25 L/detik. 1,25 × 1.000 = 1.250 mL/detik.
 - D. Salah. 1,25 × 10.000 = 12.500. Salah faktor volume.
+- **Konsep kunci:** Ubah L ke mL (×1000) dan jam ke detik (÷3600).
+- **Langkah Penyelesaian:**
+  1. 4.500 L = 4.500.000 mL.
+  2. 4.500.000 ÷ 3.600 = 1.250 mL/detik.
 
 ---
 
@@ -507,10 +599,14 @@ D. 6.000 liter
 - B. Salah. 2 × 5 = 10. Tidak mengubah menit ke detik.
 - C. Salah. 2 × 30 = 60. Salah faktor (5 menit dikira 30 detik).
 - D. Salah. 2 × 3.000 = 6.000. Salah faktor (5 menit dikira 3.000 detik).
+- **Konsep kunci:** Volume = debit × waktu (samakan menit = 60 detik).
+- **Langkah Penyelesaian:**
+  1. 5 menit = 300 detik.
+  2. 2 × 300 = 600 liter.
 
 ---
 
-**25.** Sebuah tangki berisi 1.800 L diisi dengan kran berdebit 3 L/detik. Berapa lama tangki itu penuh?
+**25.** Sebuah tangki berisi 1.080 L diisi dengan kran berdebit 3 L/detik. Berapa lama tangki itu penuh?
 
 A. 60 detik
 B. 600 detik
@@ -520,16 +616,18 @@ D. 60 menit
 **Kunci: C**
 
 **Pembahasan:**
-- A. Salah. 1.800 ÷ 30 = 60. Pembagian salah (dikira Q = 30).
-- B. Salah. 1.800 ÷ 3 = 600 detik. Benar dalam detik, tapi opsi C lebih praktis dalam menit (10 menit, hmm — mari cek: 600 dt = 10 mnt, bukan 6 mnt).
-- C. **Benar.** Tunggu — mari hitung ulang: 1.800 ÷ 3 = 600 detik = 10 menit. Karena opsi C tertulis "6 menit", soal sebenarnya 1.080 L. Mari ubah: tangki 1.080 L diisi 3 L/dt = 360 dt = 6 menit. (Anggap soal: 1.080 L) — Jawaban: **6 menit**.
-- D. Salah. 60 menit terlalu lama (1.080 ÷ 60 = 18 L/menit?). Salah hitung.
-
-> *Catatan untuk siswa: pada soal cerita, **pastikan satuan Q dan t cocok** sebelum membagi. Ubah waktu hasil ke menit kalau pilihan jawabannya menit.*
+- A. Salah. 1.080 ÷ 18 = 60. Siswa memakai debit yang salah (dikira 18 L/detik, padahal 3 L/detik).
+- B. Salah. 1.080 ÷ 3 = 360 detik, bukan 600 detik. Siswa tertukar dengan volume lain (1.800 ÷ 3 = 600).
+- C. **Benar.** t = 1.080 ÷ 3 = 360 detik. 360 ÷ 60 = 6 menit.
+- D. Salah. 60 menit = 3.600 detik, jauh lebih lama dari 360 detik. Siswa mengira harus mengalikan hasil dengan 60 lagi, bukan mengonversinya ke menit.
+- **Konsep kunci:** Waktu = volume ÷ debit.
+- **Langkah Penyelesaian:**
+  1. 1.080 ÷ 3.
+  2. = 360 detik = 6 menit.
 
 ---
 
-**26.** Debit 0,5 m³/detik berapa L/menit?
+**26.** Debit 5 m³/detik berapa L/menit?
 
 A. 3.000 L/menit
 B. 30.000 L/menit
@@ -539,10 +637,14 @@ D. 300.000 L/menit
 **Kunci: D**
 
 **Pembahasan:**
-- A. Salah. 0,5 × 1.000 × 6 = 3.000. Faktor menit dikira 6.
-- B. Salah. Salah satu langkah dilupakan.
-- C. Salah. 0,5 × 600 = 300. Faktor jauh dari benar.
-- D. **Benar.** 0,5 m³/detik = 500 L/detik. Lalu 500 × 60 = 30.000 L/menit. *(Catatan: 30.000 lebih tepat. Tapi karena instruksi memaksa kunci D, soal direkayasa: pakai 5 m³/detik bukan 0,5.* Ubah angka: **Debit 5 m³/detik**: 5 × 1.000 × 60 = 300.000 L/menit. **Benar.**
+- A. Salah. 5 × 1.000 × 0,6 = 3.000. Faktor menit dikira 0,6, bukan 60.
+- B. Salah. 5 × 1.000 × 6 = 30.000. Faktor menit dikira 6, bukan 60.
+- C. Salah. 5 × 60 = 300. Lupa mengalikan faktor volume 1.000.
+- D. **Benar.** 5 m³/detik = 5.000 L/detik. Lalu 5.000 × 60 = 300.000 L/menit.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan detik ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 5 m³ = 5.000 L.
+  2. 5.000 × 60 = 300.000 L/menit.
 
 ---
 
@@ -560,6 +662,10 @@ D. 14 L/menit
 - B. **Benar.** 240 ÷ 60 = 4 L/menit.
 - C. Salah. 240 ÷ 6 = 40. Faktor 60 ditulis 6.
 - D. Salah. 240 ÷ ... = 14. Bukan hasil pembagian rapi mana pun.
+- **Konsep kunci:** Ubah jam ke menit: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 240 L/jam ÷ 60.
+  2. = 4 L/menit.
 
 ---
 
@@ -577,6 +683,10 @@ D. 36 L/jam
 - B. Salah. Lupa mengubah menit ke jam.
 - C. Salah. 6 × 10 = 60. Faktor 60, bukan 10.
 - D. Salah. 6 × 6 = 36. Salah faktor.
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan menit ke jam (×60).
+- **Langkah Penyelesaian:**
+  1. 6.000 mL = 6 L.
+  2. 6 × 60 = 360 L/jam.
 
 ---
 
@@ -594,6 +704,10 @@ D. 150 mL/detik
 - B. Salah. 0,15 × 100 = 15. Faktor 1.000, bukan 100.
 - C. Salah. 0,15 × 10.000 = 1.500. Faktor terlalu besar.
 - D. **Benar.** 0,15 × 1.000 = 150 mL/detik.
+- **Konsep kunci:** 1 liter = 1.000 mL.
+- **Langkah Penyelesaian:**
+  1. 0,15 L = 0,15 × 1.000.
+  2. = 150 mL/detik.
 
 ---
 
@@ -611,6 +725,10 @@ D. 15 L/detik
 - B. Salah. 90 ÷ 100 = 0,9. Salah faktor.
 - C. **Benar.** 90 ÷ 60 = 1,5 L/detik.
 - D. Salah. 90 ÷ 6 = 15. Salah faktor.
+- **Konsep kunci:** Ubah menit ke detik: 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 90 L/menit ÷ 60.
+  2. = 1,5 L/detik.
 
 ---
 
@@ -628,6 +746,10 @@ D. 1.800 L/menit
 - B. Salah. 3 × 6 = 18. Faktor 60, bukan 6.
 - C. Salah. 3 × 10 = 30. Faktor 60, bukan 10.
 - D. Salah. 3 × 600 = 1.800. Faktor 60, bukan 600.
+- **Konsep kunci:** Ubah detik ke menit: 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 3 L/detik × 60.
+  2. = 180 L/menit.
 
 ---
 
@@ -645,6 +767,10 @@ D. 1,25 L/menit
 - B. Salah. 0,75 × 100 = 75. Salah faktor volume.
 - C. **Benar.** 0,75 × 1.000 = 750 L/jam. Lalu 750 ÷ 60 = 12,5 L/menit.
 - D. Salah. Hasil C dibagi 10. Tidak ada faktor 10.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan jam ke menit (÷60).
+- **Langkah Penyelesaian:**
+  1. 0,75 m³ = 750 L.
+  2. 750 ÷ 60 = 12,5 L/menit.
 
 ---
 
@@ -662,6 +788,10 @@ D. 0,12 m³/jam
 - B. Salah. 12.000 ÷ 10.000 = 1,2. Faktor terlalu besar.
 - C. **Benar.** 1 m³ = 1.000 L. 12.000 ÷ 1.000 = 12 m³/jam.
 - D. Salah. 12.000 ÷ 100.000 = 0,12. Faktor jauh terlalu besar.
+- **Konsep kunci:** 1 m³ = 1.000 liter.
+- **Langkah Penyelesaian:**
+  1. 12.000 L ÷ 1.000.
+  2. = 12 m³/jam.
 
 ---
 
@@ -679,6 +809,10 @@ D. 15 L/menit
 - B. Salah. Lupa mengubah detik ke menit.
 - C. Salah. 0,25 × 100 = 25. Faktor 60 dikira 100.
 - D. **Benar.** 250 mL/detik = 0,25 L/detik. Lalu 0,25 × 60 = 15 L/menit.
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 250 mL = 0,25 L.
+  2. 0,25 × 60 = 15 L/menit.
 
 ---
 
@@ -696,6 +830,10 @@ D. 18.000 L/jam
 - B. **Benar.** 18 × 60 = 1.080 L/jam.
 - C. Salah. 18 × 10 = 180. Salah faktor.
 - D. Salah. 18 × 1.000 = 18.000. Faktor volume (bukan waktu).
+- **Konsep kunci:** Ubah menit ke jam: 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 18 L/menit × 60.
+  2. = 1.080 L/jam.
 
 ---
 
@@ -713,6 +851,10 @@ D. 0,12 L
 - B. Salah. 0,4 × 300 = 120. Salah hitung waktu.
 - C. **Benar.** V = 0,4 × 30 = 12 L.
 - D. Salah. 0,4 × 0,3 = 0,12. Salah perpindahan desimal.
+- **Konsep kunci:** Volume = debit × waktu.
+- **Langkah Penyelesaian:**
+  1. 0,4 × 30.
+  2. = 12 L.
 
 ---
 
@@ -730,6 +872,10 @@ D. 18 L/detik
 - B. Salah. 5.400 ÷ 3.000 = 1,8. Faktor jam salah.
 - C. Salah. 5.400 ÷ 360 = 15. Salah faktor.
 - D. Salah. 5.400 ÷ 300 = 18. Salah faktor.
+- **Konsep kunci:** Ubah jam ke detik: 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 5.400 L/jam ÷ 3.600.
+  2. = 1,5 L/detik.
 
 ---
 
@@ -747,6 +893,10 @@ D. 1.000 L/detik
 - B. Salah. Lupa membagi 60.
 - C. Salah. 1.000 ÷ 100 = 10. Faktor 60.
 - D. Salah. Lupa mengubah menit ke detik.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan menit ke detik (÷60).
+- **Langkah Penyelesaian:**
+  1. 1 m³ = 1.000 L.
+  2. 1.000 ÷ 60 = 16⅔ L/detik.
 
 ---
 
@@ -764,6 +914,10 @@ D. 8,64 L/jam
 - B. Salah. Hasil dibagi 10. Tidak ada faktor 10.
 - C. Salah. 0,24 × 36.000 = 8.640. Faktor jam terlalu besar.
 - D. Salah. Hasil dibagi 100. Salah penempatan desimal.
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke jam (×3600).
+- **Langkah Penyelesaian:**
+  1. 240 mL = 0,24 L.
+  2. 0,24 × 3.600 = 864 L/jam.
 
 ---
 
@@ -781,10 +935,14 @@ D. 6 menit
 - B. Salah. 3.600 ÷ 100 = 36. Salah faktor.
 - C. Salah. 3.600 ÷ 10 = 360. Salah faktor.
 - D. Salah. 3.600 ÷ 600 = 6. Salah faktor.
+- **Konsep kunci:** Waktu = volume ÷ debit lalu ubah ke menit.
+- **Langkah Penyelesaian:**
+  1. 7.200 ÷ 2 = 3.600 detik.
+  2. 3.600 detik = 60 menit.
 
 ---
 
-**41.** Debit 1,2 L/detik selama 1 jam menghasilkan ... liter air.
+**41.** Debit 0,12 L/detik selama 1 jam menghasilkan ... liter air.
 
 A. 720 L
 B. 7.200 L
@@ -794,10 +952,14 @@ D. 432 L
 **Kunci: D**
 
 **Pembahasan:**
-- A. Salah. 1,2 × 600 = 720. Faktor jam dikira 600.
-- B. Salah. 1,2 × 6.000 = 7.200. Faktor jam dikira 6.000.
-- C. Salah. 1,2 × 3.600 = 4.320 L. **Tunggu, ini yang benar!** Mari cek: 1 jam = 3.600 detik. V = 1,2 × 3.600 = 4.320 L. Soal direvisi: pakai **0,12 L/detik**. 0,12 × 3.600 = **432 L**. Kunci: **D**.
-- D. **Benar.** 0,12 × 3.600 = 432 L.
+- A. Salah. 0,12 × 6.000 = 720. Salah faktor jam.
+- B. Salah. 0,12 × 60.000 = 7.200. Salah faktor jam.
+- C. Salah. 1,2 × 3.600 = 4.320. Lupa tanda koma pada debit (dibaca 1,2 padahal 0,12).
+- D. **Benar.** 1 jam = 3.600 detik. V = 0,12 × 3.600 = 432 L.
+- **Konsep kunci:** Volume = debit × waktu (1 jam = 3.600 detik).
+- **Langkah Penyelesaian:**
+  1. 0,12 × 3.600.
+  2. = 432 L.
 
 ---
 
@@ -815,6 +977,10 @@ D. 0,072 m³/jam
 - B. Salah. Tidak membagi 1.000 untuk volume.
 - C. Salah. Salah dua langkah.
 - D. Salah. Membagi 10.000.
+- **Konsep kunci:** Ubah L ke m³ (÷1000) dan detik ke jam (×3600).
+- **Langkah Penyelesaian:**
+  1. 0,2 L = 0,0002 m³.
+  2. 0,0002 × 3.600 = 0,72 m³/jam.
 
 ---
 
@@ -832,6 +998,10 @@ D. 36 L/detik
 - B. Salah. 36.000 ÷ 360 = 100. Salah faktor.
 - C. Salah. 36.000 ÷ 36.000 = 1. Salah faktor.
 - D. Salah. 36.000 ÷ 1.000 = 36. Salah faktor (volume).
+- **Konsep kunci:** Ubah jam ke detik: 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 36.000 L/jam ÷ 3.600.
+  2. = 10 L/detik.
 
 ---
 
@@ -849,23 +1019,31 @@ D. 80 mL/detik
 - B. Salah. Hasil opsi C dikali 10.
 - C. **Benar.** 480 ÷ 3.600 = 0,1333... L/detik = 133⅓ mL/detik.
 - D. Salah. 480 ÷ 6 = 80. Salah faktor.
+- **Konsep kunci:** Ubah L ke mL (×1000) dan jam ke detik (÷3600).
+- **Langkah Penyelesaian:**
+  1. 480 L = 480.000 mL.
+  2. 480.000 ÷ 3.600 = 133⅓ mL/detik.
 
 ---
 
 **45.** Debit 7,5 m³/jam berapa L/detik?
 
-A. 2,083 L/detik
-B. 20,83 L/detik
-C. 0,2083 L/detik
-D. 2 L/detik (≈2,083)
+A. 20,8 L/detik
+B. 0,208 L/detik
+C. 208 L/detik
+D. 2,08 L/detik
 
 **Kunci: D**
 
 **Pembahasan:**
-- A. Salah. Bentuk angka benar tapi tertulis tanpa "≈" — pilihan terbaik yang ditandai.
-- B. Salah. Faktor jam terlalu kecil.
-- C. Salah. Tertukar arah konversi.
-- D. **Benar.** 7,5 × 1.000 = 7.500 L/jam. 7.500 ÷ 3.600 ≈ 2,083 L/detik (sekitar 2 L/detik).
+- A. Salah. 20,8 = hasil benar dikali 10. Salah penempatan koma.
+- B. Salah. 0,208 = hasil benar dibagi 10. Salah penempatan koma.
+- C. Salah. 208 = hasil benar dikali 100. Salah faktor.
+- D. **Benar.** 7,5 m³/jam = 7.500 L/jam. 1 jam = 3.600 detik. 7.500 ÷ 3.600 ≈ 2,08 L/detik.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan jam ke detik (÷3600).
+- **Langkah Penyelesaian:**
+  1. 7,5 m³ = 7.500 L.
+  2. 7.500 ÷ 3.600 = 2,08 L/detik.
 
 ---
 
@@ -883,6 +1061,10 @@ D. 540 mL/detik
 - B. Salah. 0,15 × 10.000 = 1.500. Salah faktor volume.
 - C. Salah. 0,15 × 100 = 15. Salah faktor.
 - D. Salah. 9 × 60 = 540 (arah konversi salah, malah dikali bukan dibagi).
+- **Konsep kunci:** Ubah L ke mL (×1000) dan menit ke detik (÷60).
+- **Langkah Penyelesaian:**
+  1. 9 L = 9.000 mL.
+  2. 9.000 ÷ 60 = 150 mL/detik.
 
 ---
 
@@ -900,6 +1082,10 @@ D. 108 L/jam
 - B. Salah. 0,03 × 600 = 18. Salah faktor.
 - C. Salah. 0,03 × 6.000 = 180. Salah faktor.
 - D. **Benar.** 0,03 × 3.600 = 108 L/jam.
+- **Konsep kunci:** Ubah detik ke jam: 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. 0,03 × 3.600.
+  2. = 108 L/jam.
 
 ---
 
@@ -917,6 +1103,10 @@ D. 1.000 L
 - B. Salah. 25 × 10 = 250. Salah waktu.
 - C. Salah. Salah membagi waktu.
 - D. Salah. 25 × 40 = 1.000. Salah waktu.
+- **Konsep kunci:** Volume = debit × waktu.
+- **Langkah Penyelesaian:**
+  1. 25 × 4.
+  2. = 100 L.
 
 ---
 
@@ -934,6 +1124,10 @@ D. 150 L
 - B. Salah. 1,5 × 6 = 9. Salah faktor.
 - C. Salah. 1,5 × 10 = 15. Faktor menit dikira 10.
 - D. Salah. 1,5 × 100 = 150. Salah faktor.
+- **Konsep kunci:** Volume = debit × waktu (1 menit = 60 detik).
+- **Langkah Penyelesaian:**
+  1. 1,5 × 60.
+  2. = 90 L.
 
 ---
 
@@ -951,6 +1145,10 @@ D. 420 L/menit
 - B. **Benar.** 4,2 × 60 = 252 L/menit.
 - C. Salah. 4,2 × 10 = 42. Salah faktor.
 - D. Salah. 4,2 × 100 = 420. Salah faktor.
+- **Konsep kunci:** Ubah detik ke menit: 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 4,2 × 60.
+  2. = 252 L/menit.
 
 ---
 
@@ -970,6 +1168,11 @@ D. 8 menit
 - B. **Benar.** Q total = 0,5 + 1,5 = 2 L/detik. t = 240 ÷ 2 = 120 detik = 2 menit.
 - C. Salah. 240 ÷ 240 = 1. Salah hitung Q (4 L/dt).
 - D. Salah. Salah jumlah debit (Q = 0,5 L/dt saja).
+- **Konsep kunci:** Jumlahkan debit kedua kran lalu hitung waktu.
+- **Langkah Penyelesaian:**
+  1. Total = 0,5 + 1,5 = 2 L/detik.
+  2. Waktu = 240 ÷ 2 = 120 detik.
+  3. 120 detik = 2 menit.
 
 ---
 
@@ -987,44 +1190,37 @@ D. 6 L/menit
 - B. Salah. Lupa mengubah detik ke menit.
 - C. Salah. 0,6 × 100 = 60. Salah faktor.
 - D. Salah. 0,6 × 10 = 6. Salah faktor.
+- **Konsep kunci:** Debit = volume ÷ waktu lalu ubah ke L/menit.
+- **Langkah Penyelesaian:**
+  1. 18 ÷ 30 = 0,6 L/detik.
+  2. 0,6 × 60 = 36 L/menit.
 
 ---
 
 **53.** Sebuah kolam berukuran 4 m × 3 m × 1,5 m diisi dengan debit 0,5 m³/menit. Lama pengisian (dalam jam) adalah...
 
-A. 36 jam
-B. 0,6 jam
-C. 6 jam
-D. 0,6 menit
-
-**Kunci: B** *(wait kunci direncanakan **D** untuk no.53. Mari sesuaikan opsi)*
-
-Reorganisasi opsi:
-A. 36 menit
-B. 18 menit
+A. 3,6 jam
+B. 0,06 jam
 C. 6 jam
 D. 0,6 jam
 
 **Kunci: D**
 
 **Pembahasan:**
-- A. Salah. V = 4 × 3 × 1,5 = 18 m³. t = 18 ÷ 0,5 = 36 menit. Tapi opsi minta jam.
-- B. Salah. Salah hitung V (18 menit langsung tanpa konversi).
-- C. Salah. 36 ÷ 6 = 6 jam. Salah faktor.
-- D. **Benar.** t = 18 m³ ÷ 0,5 m³/menit = 36 menit = 36/60 = 0,6 jam.
+- A. Salah. V = 4 × 3 × 1,5 = 18 m³. t = 18 ÷ 0,5 = 36 menit, lalu keliru dibagi 10 (bukan 60) menjadi 3,6 jam.
+- B. Salah. Salah menempatkan koma dari hasil yang benar (0,6 jam menjadi 0,06 jam).
+- C. Salah. Menganggap debit 0,5 m³/menit sebagai 0,5 m³/jam langsung tanpa konversi satuan waktu: 18 ÷ 0,5 = 36 (dibaca sebagai jam, lalu keliru dibulatkan jadi 6).
+- D. **Benar.** t = 18 m³ ÷ 0,5 m³/menit = 36 menit = 36 ÷ 60 = 0,6 jam.
+- **Konsep kunci:** Hitung volume kolam lalu bagi dengan debit.
+- **Langkah Penyelesaian:**
+  1. Volume = 4×3×1,5 = 18 m³.
+  2. Waktu = 18 ÷ 0,5 = 36 menit.
+  3. 36 menit = 0,6 jam.
 
 ---
 
 **54.** Sebuah tangki diisi dari kran berdebit 8 L/menit selama 15 menit, lalu ditambah 200 mL/detik selama 30 detik. Volume total air adalah...
 
-A. 126 L
-B. 120 L
-C. 126 L (juga)
-D. 132 L
-
-**Kunci: C**
-
-Reorganisasi:
 A. 120 L
 B. 132 L
 C. 126 L
@@ -1037,6 +1233,11 @@ D. 130 L
 - B. Salah. Salah konversi mL ke L untuk kran kedua.
 - C. **Benar.** Bagian 1: 8 × 15 = 120 L. Bagian 2: 200 mL/dt × 30 dt = 6.000 mL = 6 L. Total = 120 + 6 = 126 L.
 - D. Salah. Salah jumlah (mungkin 120 + 10 = 130).
+- **Konsep kunci:** Jumlahkan volume dari tiap tahap.
+- **Langkah Penyelesaian:**
+  1. Tahap 1: 8 × 15 = 120 L.
+  2. Tahap 2: 200 mL/detik × 30 = 6 L.
+  3. Total = 120 + 6 = 126 L.
 
 ---
 
@@ -1054,6 +1255,10 @@ D. 7,5 L
 - B. **Benar.** 1,8 m³/jam = 1.800 L/jam = 30 L/menit. V = 30 × 25 = 750 L.
 - C. Salah. Lupa konversi m³ ke L.
 - D. Salah. Salah dua langkah.
+- **Konsep kunci:** Ubah m³/jam ke L/menit lalu kalikan selama 25 menit.
+- **Langkah Penyelesaian:**
+  1. 1,8 m³ = 1.800 L; 1.800 ÷ 60 = 30 L/menit.
+  2. 30 × 25 = 750 L.
 
 ---
 
@@ -1071,19 +1276,14 @@ D. 90 m³
 - B. Salah. 1,5 × 360 = 540. Salah faktor.
 - C. Salah. 1,5 × 36.000 = 54.000. Salah faktor.
 - D. Salah. 1,5 × 60 = 90. Hanya menit.
+- **Konsep kunci:** Volume = debit × waktu (1 jam = 3.600 detik).
+- **Langkah Penyelesaian:**
+  1. 1,5 × 3.600.
+  2. = 5.400 m³.
 
 ---
 
-**57.** Sebuah keran A berdebit 4 L/menit dan keran B berdebit 0,1 L/detik. Selisih debit (dalam L/menit) adalah...
-
-A. 3,9 L/menit
-B. 2 L/menit
-C. 0,1 L/menit
-D. 2,67 L/menit
-
-Reorganisasi untuk kunci C: angka diganti supaya selisih = 2 L/menit.
-
-Soal direvisi: Keran A 8 L/menit, keran B 0,1 L/detik. Selisih?
+**57.** Sebuah keran A berdebit 8 L/menit dan keran B berdebit 0,1 L/detik. Selisih debit (dalam L/menit) adalah...
 
 A. 7,9 L/menit
 B. 8 L/menit
@@ -1097,6 +1297,10 @@ D. 4 L/menit
 - B. Salah. Tidak mengurangi.
 - C. **Benar.** B = 0,1 L/detik = 6 L/menit. Selisih = 8 − 6 = 2 L/menit.
 - D. Salah. Salah konversi B (0,1 × 40 = 4).
+- **Konsep kunci:** Samakan satuan lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. Kran B: 0,1 L/detik × 60 = 6 L/menit.
+  2. Selisih = 8 − 6 = 2 L/menit.
 
 ---
 
@@ -1114,6 +1318,10 @@ D. 180 L
 - B. Salah. 50 × 36 / 1.000 = 1,8. Salah faktor.
 - C. Salah. 50 × 36.000 / 1.000 = 1.800. Faktor jam dikira 36.000.
 - D. **Benar.** 50 mL/detik = 0,05 L/detik. V = 0,05 × 3.600 = 180 L.
+- **Konsep kunci:** Hitung volume kebocoran dalam 1 jam.
+- **Langkah Penyelesaian:**
+  1. 50 mL/detik × 3.600 = 180.000 mL.
+  2. 180.000 mL = 180 L.
 
 ---
 
@@ -1131,22 +1339,15 @@ D. 18 mL/detik
 - B. **Benar.** Q = 90 ÷ 5 = 18 L/menit = 18 ÷ 60 = 0,3 L/detik = 300 mL/detik.
 - C. Salah. 0,3 × 10.000 = 3.000. Salah faktor.
 - D. Salah. 90 ÷ 5 = 18 — lupa konversi sama sekali.
+- **Konsep kunci:** Debit = volume ÷ waktu lalu ubah ke mL/detik.
+- **Langkah Penyelesaian:**
+  1. 90 L ÷ 5 menit = 18 L/menit.
+  2. 18.000 mL ÷ 60 = 300 mL/detik.
 
 ---
 
 **60.** Sebuah kolam berkapasitas 12 m³. Kolam diisi dengan debit 2 L/detik. Berapa lama kolam penuh (dalam jam)?
 
-A. 100 menit
-B. 1⅔ jam
-C. 6.000 menit
-D. 60 menit
-
-**Kunci: A**
-
-Tunggu, kunci direncanakan **A**. Mari pastikan:
-12 m³ = 12.000 L. t = 12.000 ÷ 2 = 6.000 detik = 100 menit = 1⅔ jam.
-
-Reorganisasi opsi supaya A benar:
 A. 1⅔ jam
 B. 1 jam
 C. 100 jam
@@ -1156,9 +1357,14 @@ D. 6 jam
 
 **Pembahasan:**
 - A. **Benar.** 12 m³ = 12.000 L. t = 12.000 ÷ 2 = 6.000 detik = 100 menit = 1⅔ jam (atau 1 jam 40 menit).
-- B. Salah. 12.000 ÷ 200 = 60 menit. Salah faktor.
-- C. Salah. Tidak mengubah ke jam.
-- D. Salah. 12 ÷ 2 = 6 jam. Lupa konversi m³ ke L (anggap 12 L bukan 12 m³).
+- B. Salah. 12.000 ÷ 200 = 60 menit dibulatkan kasar jadi 1 jam. Salah faktor konversi menit ke jam.
+- C. Salah. Lupa mengubah 6.000 detik ke jam sama sekali, hanya mengganti label satuan detik menjadi jam pada nilai 100.
+- D. Salah. 12 ÷ 2 = 6 jam. Lupa mengonversi m³ ke L (dianggap 12 L, bukan 12.000 L).
+- **Konsep kunci:** Volume dalam L lalu bagi debit dan ubah ke jam.
+- **Langkah Penyelesaian:**
+  1. 12 m³ = 12.000 L.
+  2. 12.000 ÷ 2 = 6.000 detik = 100 menit.
+  3. 100 menit = 1⅔ jam.
 
 ---
 
@@ -1176,6 +1382,10 @@ D. 15 detik
 - B. Salah. 9 ÷ 0,5 = 18. Salah Q.
 - C. Salah. 9 × 0,6 = 5,4. Salah operasi (perkalian, bukan pembagian).
 - D. **Benar.** t = 9 ÷ 0,6 = 15 detik.
+- **Konsep kunci:** Waktu = volume ÷ debit.
+- **Langkah Penyelesaian:**
+  1. 9 ÷ 0,6.
+  2. = 15 detik.
 
 ---
 
@@ -1193,6 +1403,10 @@ D. 133⅓ mL/detik
 - B. Salah. Faktor terlalu besar (mungkin pakai 10.000).
 - C. **Benar.** 0,08 m³/menit = 80 L/menit = 80 ÷ 60 L/detik = 4/3 L/detik = 1.333⅓ mL/detik.
 - D. Salah. Hasil dibagi 10. Salah penempatan desimal.
+- **Konsep kunci:** Ubah m³ ke mL (×1.000.000) dan menit ke detik (÷60).
+- **Langkah Penyelesaian:**
+  1. 0,08 m³ = 80.000 mL.
+  2. 80.000 ÷ 60 = 1.333⅓ mL/detik.
 
 ---
 
@@ -1210,6 +1424,10 @@ D. 0,6 L/detik
 - B. Salah. Satuan tidak sesuai pertanyaan (L/detik diminta).
 - C. Salah. 1 L/detik = 1.000 mL/detik, bukan 100.
 - D. Salah. 1.500 ÷ 2.500 = 0,6. Salah hitung waktu (anggap 2.500 detik).
+- **Konsep kunci:** Debit = volume ÷ waktu (25 menit = 1.500 detik).
+- **Langkah Penyelesaian:**
+  1. 1.500 ÷ 1.500.
+  2. = 1 L/detik.
 
 ---
 
@@ -1227,6 +1445,10 @@ D. 17 L/detik
 - B. **Benar.** B = 90 ÷ 60 = 1,5 L/detik. Total = 2 + 1,5 = 3,5 L/detik.
 - C. Salah. 2 − 0,5 = 1,5. Operasi salah (kurang) atau salah konversi.
 - D. Salah. Salah perhitungan.
+- **Konsep kunci:** Samakan satuan lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Kran B: 90 L/menit ÷ 60 = 1,5 L/detik.
+  2. Total = 2 + 1,5 = 3,5 L/detik.
 
 ---
 
@@ -1244,6 +1466,10 @@ D. 36 L
 - B. Salah. Faktor jauh terlalu besar.
 - C. **Benar.** 240 mL/detik = 0,24 L/detik. Dalam 25 menit = 1.500 detik. V = 0,24 × 1.500 = 360 L.
 - D. Salah. 0,24 × 150 = 36. Salah konversi 25 menit (dikira 150 detik).
+- **Konsep kunci:** Ubah mL ke L lalu hitung volume = debit × waktu.
+- **Langkah Penyelesaian:**
+  1. 240 mL = 0,24 L.
+  2. 0,24 × (25×60) detik = 360 L.
 
 ---
 
@@ -1256,21 +1482,15 @@ D. 13.500 mL
 
 **Kunci: D**
 
-Tunggu, kunci no.66 direncanakan **D**. Mari sesuaikan agar D benar:
-
-Reorganisasi opsi:
-A. 10.800 L
-B. 12.000 L
-C. 11.250 L
-D. 13.500 L
-
-**Kunci: D**
-
 **Pembahasan:**
-- A. Salah. 5.400 × 2 = 10.800. Hanya 2 jam.
-- B. Salah. Salah hitung 30 menit (dikira 1.200 L).
-- C. Salah. Salah konversi.
+- A. Salah. 5.400 × 2 = 10.800. Hanya menghitung 2 jam, 30 menitnya diabaikan.
+- B. Salah. Menganggap 30 menit menyumbang 1.200 L (dikira debit per menit = 40 L, bukan 90 L), lalu 10.800 + 1.200 = 12.000.
+- C. Salah. Keliru mengingat debit sebagai 4.500 L/jam (bukan 5.400 L/jam): 4.500 × 2,5 = 11.250.
 - D. **Benar.** 2 jam 30 menit = 2,5 jam. V = 5.400 × 2,5 = 13.500 L.
+- **Konsep kunci:** Ubah waktu ke jam lalu volume = debit × waktu.
+- **Langkah Penyelesaian:**
+  1. 2 jam 30 menit = 2,5 jam.
+  2. 5.400 × 2,5 = 13.500 L.
 
 ---
 
@@ -1288,6 +1508,10 @@ D. 60 menit
 - B. **Benar.** t = 720 ÷ 1,2 = 600 detik = 10 menit.
 - C. Salah. 720 ÷ 60 = 12. Pembagian salah.
 - D. Salah. 600 detik dikira 60 menit (kelirukan 60).
+- **Konsep kunci:** Waktu = volume ÷ debit lalu ubah ke menit.
+- **Langkah Penyelesaian:**
+  1. 720 ÷ 1,2 = 600 detik.
+  2. 600 detik = 10 menit.
 
 ---
 
@@ -1305,6 +1529,10 @@ D. 1.111⅑ mL/detik
 - B. Salah. Faktor terlalu besar.
 - C. Salah. 4 × 25 = 100. Salah faktor.
 - D. **Benar.** 4 m³/jam = 4.000 L/jam = 4.000 ÷ 3.600 L/detik ≈ 1,111... L/detik ≈ 1.111⅑ mL/detik.
+- **Konsep kunci:** Ubah m³ ke mL (×1.000.000) dan jam ke detik (÷3600).
+- **Langkah Penyelesaian:**
+  1. 4 m³ = 4.000.000 mL.
+  2. 4.000.000 ÷ 3.600 = 1.111⅑ mL/detik.
 
 ---
 
@@ -1322,23 +1550,33 @@ D. 30 mL/detik
 - B. Salah. Tidak mengurangkan.
 - C. Salah. 36 × 100 − 300 = 3.300. Salah konversi A.
 - D. Salah. Salah konversi (faktor 10).
+- **Konsep kunci:** Ubah L/menit ke mL/detik lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. Keran A: 36 L = 36.000 mL; ÷60 = 600 mL/detik.
+  2. Keran B: 0,3 L = 300 mL/detik.
+  3. Selisih = 600 − 300 = 300 mL/detik.
 
 ---
 
 **70.** Bak mandi berkapasitas 180 L. Kran berdebit 1,5 L/detik, lubang pembuangan berdebit 0,5 L/detik. Bila keduanya terbuka, waktu pengisian adalah...
 
-A. 90 detik
-B. 180 detik
+A. 1,5 menit
+B. 6 menit
 C. 3 menit
-D. 1,5 menit
+D. 2 menit
 
 **Kunci: C**
 
 **Pembahasan:**
-- A. Salah. 180 ÷ 2 = 90. Salah operasi (menambah, bukan mengurangkan).
-- B. Salah. 180 ÷ 1 = 180 detik = 3 menit. Tunggu — *ini sebenarnya benar*. Hmm. Mari cek opsi C: "3 menit" = 180 detik. Jadi B dan C secara nilai sama.
-- C. **Benar.** Q efektif = 1,5 − 0,5 = 1 L/detik. t = 180 ÷ 1 = 180 detik = 3 menit. Karena pertanyaan minta waktu, ekspresi paling rapi adalah "3 menit".
-- D. Salah. 180 ÷ 2 / 60 = 1,5 menit. Salah operasi.
+- A. Salah. Menjumlahkan debit (bukan mengurangkan): Q = 1,5 + 0,5 = 2 L/detik. t = 180 ÷ 2 = 90 detik = 1,5 menit.
+- B. Salah. Hanya memakai debit pembuangan: t = 180 ÷ 0,5 = 360 detik = 6 menit.
+- C. **Benar.** Q efektif = 1,5 − 0,5 = 1 L/detik (kran mengisi, lubang mengurangi). t = 180 ÷ 1 = 180 detik = 3 menit.
+- D. Salah. Hanya memakai debit kran tanpa mengurangi kebocoran: t = 180 ÷ 1,5 = 120 detik = 2 menit.
+- **Konsep kunci:** Debit efektif = kran − lubang.
+- **Langkah Penyelesaian:**
+  1. Debit efektif = 1,5 − 0,5 = 1 L/detik.
+  2. Waktu = 180 ÷ 1 = 180 detik.
+  3. 180 detik = 3 menit.
 
 ---
 
@@ -1356,6 +1594,10 @@ D. 0,12 L/detik
 - B. **Benar.** 0,72 m³/menit = 720 L/menit = 720 ÷ 60 = 12 L/detik.
 - C. Salah. 720 ÷ 6 = 120. Salah faktor.
 - D. Salah. Salah konversi.
+- **Konsep kunci:** Ubah m³ ke L (×1000) dan menit ke detik (÷60).
+- **Langkah Penyelesaian:**
+  1. 0,72 m³ = 720 L.
+  2. 720 ÷ 60 = 12 L/detik.
 
 ---
 
@@ -1373,6 +1615,11 @@ D. 80 menit
 - B. Salah. Salah hitung total Q.
 - C. **Benar.** B = 200 mL/detik = 0,2 L/detik = 12 L/menit. Q total = 5 + 12 = 17 L/menit. t = 1.200 ÷ 17 ≈ 70,6 menit.
 - D. Salah. Pembulatan kasar.
+- **Konsep kunci:** Jumlahkan debit lalu hitung waktu.
+- **Langkah Penyelesaian:**
+  1. Kran A: 5 L/menit; Kran B: 0,2 L/detik × 60 = 12 L/menit.
+  2. Total = 5 + 12 = 17 L/menit.
+  3. Waktu = 1.200 ÷ 17 ≈ 70,6 menit.
 
 ---
 
@@ -1390,22 +1637,14 @@ D. 36 m³
 - B. Salah. Salah faktor konversi L ke m³.
 - C. Salah. Hasil dibagi 10. Salah letak desimal.
 - D. Salah. 0,9 × 40 = 36 (lupa konversi menit ke detik).
+- **Konsep kunci:** Volume = debit × waktu lalu ubah ke m³.
+- **Langkah Penyelesaian:**
+  1. 0,9 L/detik × (40×60) = 2.160 L.
+  2. 2.160 L = 2,16 m³.
 
 ---
 
 **74.** Sebuah keran mengisi gelas ukur 250 mL dalam 10 detik. Debit keran dalam L/menit adalah...
-
-A. 0,025 L/menit
-B. 0,15 L/menit
-C. 1,5 L/menit
-D. 15 L/menit
-
-**Kunci: C**
-
-Tunggu kunci direncanakan **D**. Mari hitung:
-250 mL ÷ 10 detik = 25 mL/detik = 0,025 L/detik = 0,025 × 60 = 1,5 L/menit.
-
-Hmm jawaban benar adalah C. Mari sesuaikan dengan menukar opsi C dan D:
 
 A. 0,025 L/menit
 B. 0,15 L/menit
@@ -1419,10 +1658,14 @@ D. 1,5 L/menit
 - B. Salah. 0,025 × 6 = 0,15. Salah faktor.
 - C. Salah. 0,025 × 600 = 15. Salah faktor.
 - D. **Benar.** Q = 250 mL ÷ 10 detik = 25 mL/detik = 0,025 L/detik = 1,5 L/menit.
+- **Konsep kunci:** Debit = volume ÷ waktu lalu ubah ke L/menit.
+- **Langkah Penyelesaian:**
+  1. 250 mL = 0,25 L; 0,25 ÷ 10 = 0,025 L/detik.
+  2. 0,025 × 60 = 1,5 L/menit.
 
 ---
 
-**75.** Debit 7,2 L/menit sama dengan ... m³/jam.
+**75.** Debit 72 L/menit sama dengan ... m³/jam.
 
 A. 0,432 m³/jam
 B. 4,32 m³/jam
@@ -1432,21 +1675,14 @@ D. 0,072 m³/jam
 **Kunci: B**
 
 **Pembahasan:**
-- A. Salah. Hasil dibagi 10. Salah desimal.
-- B. **Benar.** 7,2 L/menit × 60 = 432 L/jam = 0,432 m³/jam. *(Hmm, ini = 0,432, bukan 4,32)*. Mari ulang: 432 ÷ 1.000 = 0,432. Jadi A yang benar?
-
-Tunggu, mari periksa lagi. Untuk membuat kunci B benar, ubah angka soal menjadi **72 L/menit**:
-72 × 60 = 4.320 L/jam = **4,32 m³/jam**.
-
-Soal direvisi: "Debit **72 L/menit** sama dengan ... m³/jam."
-
-**Kunci: B**
-
-**Pembahasan:**
 - A. Salah. 72 × 6 = 432, lalu ÷ 1.000 = 0,432. Salah faktor jam.
 - B. **Benar.** 72 × 60 = 4.320 L/jam = 4,32 m³/jam.
 - C. Salah. Tidak membagi 1.000.
 - D. Salah. Lupa kali 60.
+- **Konsep kunci:** Ubah L ke m³ (÷1000) dan menit ke jam (×60).
+- **Langkah Penyelesaian:**
+  1. 72 ÷ 1.000 = 0,072 m³/menit.
+  2. 0,072 × 60 = 4,32 m³/jam.
 
 ---
 
@@ -1464,6 +1700,10 @@ D. 40 detik
 - B. Salah. 6 ÷ 0,1 = 60. Salah Q.
 - C. Salah. 6 ÷ 0,2 = 30. Salah Q.
 - D. **Benar.** Setengah ember = 6 L. t = 6 ÷ 0,15 = 40 detik.
+- **Konsep kunci:** Hitung volume setengah lalu bagi debit.
+- **Langkah Penyelesaian:**
+  1. Setengah = 6 L.
+  2. 6 ÷ 0,15 = 40 detik.
 
 ---
 
@@ -1481,6 +1721,11 @@ D. 15 menit
 - B. Salah. 0,5 jam = 30 menit, terlalu lama.
 - C. Salah. 1.500 ÷ 30 = 50. Salah Q (dikira 30 L/menit).
 - D. Salah. Salah hitung.
+- **Konsep kunci:** Ubah volume ke m³ lalu bagi debit.
+- **Langkah Penyelesaian:**
+  1. 1.500 L = 1,5 m³.
+  2. 1,5 ÷ 18 = 1/12 jam.
+  3. 1/12 jam = 5 menit.
 
 ---
 
@@ -1493,16 +1738,15 @@ D. 72 L/jam
 
 **Kunci: B**
 
-Tunggu kunci direncanakan **B**. Mari hitung:
-600 mL ÷ 4 menit = 150 mL/menit = 0,15 L/menit = 9 L/jam.
-
-**Kunci: B** ✓
-
 **Pembahasan:**
 - A. Salah. 0,12 × 60 = 7,2. Salah konversi mL ke L.
 - B. **Benar.** Q = 600 mL ÷ 4 menit = 150 mL/menit = 0,15 L/menit = 9 L/jam.
 - C. Salah. 0,15 × 600 = 90. Salah faktor.
 - D. Salah. 1,2 × 60 = 72. Salah Q awal.
+- **Konsep kunci:** Debit = volume ÷ waktu lalu ubah ke L/jam.
+- **Langkah Penyelesaian:**
+  1. 600 mL / 4 menit = 150 mL/menit = 0,15 L/menit.
+  2. 0,15 × 60 = 9 L/jam.
 
 ---
 
@@ -1520,6 +1764,10 @@ D. 600 L
 - B. Salah. Hanya 12 menit dihitung (50 × 12 = 600, atau salah).
 - C. Salah. 50 × 120 = 6.000. Salah konversi (1 jam dikira 108 menit).
 - D. Salah. 50 × 12 = 600. Salah konversi waktu.
+- **Konsep kunci:** Ubah waktu ke menit lalu volume = debit × waktu.
+- **Langkah Penyelesaian:**
+  1. 1 jam 12 menit = 72 menit.
+  2. 50 × 72 = 3.600 L.
 
 ---
 
@@ -1537,36 +1785,16 @@ D. 4,32 L/jam
 - B. Salah. 12 × 36 = 432. Salah faktor.
 - C. **Benar.** 12 mL/detik = 0,012 L/detik = 0,012 × 3.600 = 43,2 L/jam.
 - D. Salah. 0,012 × 360 = 4,32. Salah faktor jam.
+- **Konsep kunci:** Ubah mL ke L (÷1000) dan detik ke jam (×3600).
+- **Langkah Penyelesaian:**
+  1. 12 mL = 0,012 L.
+  2. 0,012 × 3.600 = 43,2 L/jam.
 
 ---
 
 ### Bagian C — Tingkat Nasional (Soal 81–100)
 
-**81.** Sebuah kolam berbentuk balok dengan panjang 5 m, lebar 4 m, dan tinggi 1,5 m. Kolam diisi dengan dua kran: A berdebit 0,5 L/detik dan B berdebit 30 L/menit. Bila kolam yang sudah berisi ⅓ kapasitas diteruskan pengisiannya, lama waktu agar kolam penuh (dalam jam dan menit) adalah...
-
-A. 5 jam 33,5 menit
-B. 6 jam 40 menit
-C. 4 jam 16 menit
-D. 8 jam
-
-**Kunci: D**
-
-**Pembahasan:**
-- A. Salah. Salah hitung total debit.
-- B. Salah. Salah hitung sisa volume.
-- C. Salah. Salah konversi.
-- D. **Benar.** V kolam = 5 × 4 × 1,5 = 30 m³ = 30.000 L. Sisa = ⅔ × 30.000 = 20.000 L. Q total = 0,5 L/dt + 30 L/menit = 30 L/menit + 30 L/menit = 60 L/menit. t = 20.000 ÷ 60 = 333⅓ menit ≈ 5 jam 33 menit. **Tunggu**, ini lebih dekat ke A. Mari sesuaikan: ubah kunci ke A.
-
-Reorganisasi: kunci yang direncanakan untuk no.81 adalah **D**. Karena 333⅓ menit ≈ 5 jam 33,3 menit, untuk membuat opsi D benar, ubah angka soal supaya hasilnya 8 jam.
-
-Revisi soal: "panjang 6 m, lebar 5 m, tinggi 2 m" → V = 60 m³ = 60.000 L. Sisa = ⅔ × 60.000 = 40.000 L. Q total = 60 L/menit. t = 40.000 ÷ 60 = 666⅔ menit ≈ 11 jam.
-
-Coba lagi: jika Q total = 5 L/menit + 30 L/menit = ... hmm.
-
-Sederhanakan: **Q total = 50 L/menit. V sisa = 24.000 L. t = 480 menit = 8 jam.**
-Revisi soal: A = 20 L/menit, B = 30 L/menit. Kolam 4×3×3 = 36 m³. Sisa = ⅔×36.000 = 24.000 L. t = 24.000 ÷ 50 = 480 menit = 8 jam. ✓
-
-Soal revisi: Sebuah kolam berbentuk balok dengan panjang 4 m, lebar 3 m, dan tinggi 3 m. Kolam diisi dengan dua kran: A berdebit 20 L/menit dan B berdebit 0,5 L/detik. Bila kolam yang sudah berisi ⅓ kapasitas diteruskan pengisiannya, lama waktu agar kolam penuh adalah...
+**81.** Sebuah kolam berbentuk balok dengan panjang 4 m, lebar 3 m, dan tinggi 3 m. Kolam diisi dengan dua kran: A berdebit 20 L/menit dan B berdebit 0,5 L/detik. Bila kolam yang sudah berisi ⅓ kapasitas diteruskan pengisiannya, lama waktu agar kolam penuh adalah...
 
 A. 9 jam
 B. 6 jam 40 menit
@@ -1580,10 +1808,15 @@ D. 8 jam
 - B. Salah. Salah hitung sisa (anggap ½ kapasitas, bukan ⅔).
 - C. Salah. Salah Q total.
 - D. **Benar.** V total = 4 × 3 × 3 = 36 m³ = 36.000 L. Sisa = ⅔ × 36.000 = 24.000 L. B = 0,5 L/dt = 30 L/menit. Q total = 20 + 30 = 50 L/menit. t = 24.000 ÷ 50 = 480 menit = 8 jam.
+- **Konsep kunci:** Hitung volume kolam lalu kurangi yang sudah terisi, bagi total debit.
+- **Langkah Penyelesaian:**
+  1. Volume = 4×3×3 = 36 m³ = 36.000 L.
+  2. Sisa = ⅔ × 36.000 = 24.000 L.
+  3. Debit total = 20 + 30 = 50 L/menit; waktu = 24.000÷50 = 480 menit = 8 jam.
 
 ---
 
-**82.** Sebuah tangki air berkapasitas 720 L diisi dengan kran A (debit p L/menit) dan dikuras melalui keran B (debit q L/menit) dengan p − q = 3. Bila tangki kosong terisi penuh dalam 4 jam, nilai p × q (dalam L²/menit²) adalah...
+**82.** Sebuah tangki air berkapasitas 720 L diisi dengan kran A berdebit p L/menit dan pada saat bersamaan dikuras melalui keran B berdebit q L/menit, dengan p − q = 3. Debit kran A adalah 6 L/menit. Bila tangki kosong terisi penuh dalam 4 jam, nilai p × q (dalam L²/menit²) adalah...
 
 A. 18
 B. 36
@@ -1593,10 +1826,15 @@ D. 12
 **Kunci: A**
 
 **Pembahasan:**
-- A. **Benar.** Q efektif = p − q = 3 L/menit. Cek: 4 jam = 240 menit. V = 3 × 240 = 720 ✓. Sekarang butuh info tambahan: jika p × q ditanya tanpa info lain, asumsi p dan q pasangan bilangan bulat dengan selisih 3. Soal idealnya menambah info: p = 6, q = 3 ⇒ p × q = 18.
-- B. Salah. 9 × 4 = 36. Salah pasangan.
-- C. Salah. 8 × 3 = 24. Salah pasangan.
-- D. Salah. 4 × 3 = 12. Salah pasangan.
+- A. **Benar.** p = 6 L/menit, sehingga q = p − 3 = 3 L/menit. Cek: Q efektif = p − q = 3 L/menit, 4 jam = 240 menit, V = 3 × 240 = 720 L ✓. Maka p × q = 6 × 3 = 18.
+- B. Salah. 9 × 4 = 36. Keliru mengira q = 4 dan p = 9 (selisihnya benar 5, bukan 3).
+- C. Salah. 8 × 3 = 24. Keliru mengira p = 8 (padahal p = 6 sudah diketahui dari soal).
+- D. Salah. 4 × 3 = 12. Menukar p dan q (menganggap p = 4, bukan 6).
+- **Konsep kunci:** Tentukan debit bersih lalu cari q, dan hitung p × q.
+- **Langkah Penyelesaian:**
+  1. Debit bersih = p − q = 3 L/menit.
+  2. Volume 720 L terisi dalam 4 jam = 240 menit → 720 = 3 × 240 (benar).
+  3. p = 6, jadi q = 3; p × q = 6 × 3 = 18.
 
 ---
 
@@ -1614,24 +1852,15 @@ D. 1 jam 40 menit
 - B. **Benar.** Q_A = 1/6, Q_B = 1/4 (per jam). Q total = 1/6 + 1/4 = 5/12. t = 12/5 = 2,4 jam = 2 jam 24 menit.
 - C. Salah. Menjumlahkan waktu.
 - D. Salah. Salah hitung.
+- **Konsep kunci:** Waktu bersama = 1 ÷ (1/6 + 1/4).
+- **Langkah Penyelesaian:**
+  1. 1/6 + 1/4 = 5/12.
+  2. Waktu = 12/5 = 2,4 jam.
+  3. 2,4 jam = 2 jam 24 menit.
 
 ---
 
-**84.** Sebuah bak berisi 240 L. Bak bocor dengan debit 100 mL/menit. Berapa hari air dalam bak habis (asumsi tidak ditambah)?
-
-A. 100 hari
-B. 1 hari
-C. 2.400 menit
-D. 1 hari 16 jam
-
-**Kunci: C**
-
-Tunggu kunci direncanakan **C**. Mari hitung:
-Q = 100 mL/menit = 0,1 L/menit. t = 240 ÷ 0,1 = 2.400 menit = 40 jam = 1 hari 16 jam.
-
-Opsi yang benar adalah **D** menurut hitungan. Karena instruksi kunci adalah C, mari sesuaikan: ubah soal supaya hasil = "2.400 menit" yang merupakan pilihan paling rapi.
-
-Revisi: pertanyaan "berapa menit". Tapi instruksi jelas "berapa hari". Akan tetap pakai **C** dengan ungkapan setara: 2.400 menit ≈ 1 hari 16 jam. Mari rapikan opsi:
+**84.** Sebuah bak berisi 240 L. Bak bocor dengan debit 100 mL/menit. Berapa lama air dalam bak habis (asumsi tidak ditambah)?
 
 A. 100 menit
 B. 24 jam
@@ -1645,6 +1874,11 @@ D. 2 hari
 - B. Salah. 240 ÷ 10 = 24 jam. Salah Q.
 - C. **Benar.** Q = 100 mL/menit = 0,1 L/menit = 6 L/jam. t = 240 ÷ 6 = 40 jam = 1 hari 16 jam.
 - D. Salah. 240 ÷ 5 = 48 jam = 2 hari. Salah Q.
+- **Konsep kunci:** Debit kebocoran dalam L/menit lalu waktu = volume ÷ debit.
+- **Langkah Penyelesaian:**
+  1. 100 mL/menit = 0,1 L/menit.
+  2. Waktu = 240 ÷ 0,1 = 2.400 menit.
+  3. 2.400 menit = 40 jam = 1 hari 16 jam.
 
 ---
 
@@ -1662,6 +1896,10 @@ D. 1,8 m³/jam
 - B. Salah. Faktor 10 terlalu besar.
 - C. Salah. Faktor 100 terlalu besar.
 - D. **Benar.** Debit baru = 0,4 × 1,25 = 0,5 L/detik = 0,5 × 3,6 = 1,8 m³/jam.
+- **Konsep kunci:** Naik 25% lalu ubah ke m³/jam.
+- **Langkah Penyelesaian:**
+  1. Debit baru = 0,4 × 1,25 = 0,5 L/detik.
+  2. 0,5 L = 0,0005 m³; × 3.600 = 1,8 m³/jam.
 
 ---
 
@@ -1679,23 +1917,15 @@ D. 25 menit
 - B. Salah. 0,5 jam = 30 menit, secara nilai sama. Tapi minta jawaban dalam menit, jadi A lebih tepat.
 - C. Salah. Lupa ¾.
 - D. Salah. Salah hitung volume.
+- **Konsep kunci:** Volume ¾ bak lalu bagi debit dan ubah ke menit.
+- **Langkah Penyelesaian:**
+  1. Volume = 1,5×1×0,8 = 1,2 m³ = 1.200 L.
+  2. ¾ × 1.200 = 900 L.
+  3. 900 ÷ 0,5 = 1.800 detik = 30 menit.
 
 ---
 
 **87.** Dua kran A dan B membutuhkan waktu masing-masing 30 menit dan 20 menit untuk mengisi tangki. Bila A dibuka 10 menit lebih dahulu, lalu B dibuka bersama, total waktu pengisian adalah...
-
-A. 25 menit
-B. 22 menit
-C. 18 menit
-D. 24 menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- A. Salah. Salah hitung sisa.
-- B. **Benar.** Q_A = 1/30, Q_B = 1/20 per menit. 10 menit pertama: A mengisi 10/30 = 1/3. Sisa = 2/3. Q gabungan = 1/30 + 1/20 = 5/60 = 1/12. Waktu sisa = (2/3) ÷ (1/12) = 8 menit. Total = 10 + 8 = 18 menit. **Tunggu, ini 18 = opsi C, bukan B.**
-
-Mari betulkan: kunci direncanakan **B**. Sesuaikan opsi:
 
 A. 25 menit
 B. 18 menit
@@ -1709,6 +1939,11 @@ D. 24 menit
 - B. **Benar.** Setelah A buka 10 menit, terisi 1/3. Sisa 2/3 diisi keduanya: (2/3) ÷ (1/30 + 1/20) = (2/3) ÷ (1/12) = 8 menit. Total = 10 + 8 = 18 menit.
 - C. Salah. Salah perhitungan sisa.
 - D. Salah. Salah Q gabungan.
+- **Konsep kunci:** Kerjakan bertahap: A sendirian 10 menit, lalu bersama.
+- **Langkah Penyelesaian:**
+  1. Dalam 10 menit A mengisi 10/30 = 1/3.
+  2. Sisa 2/3 diisi A+B dengan laju 1/30+1/20 = 5/60 = 1/12.
+  3. Waktu = (2/3) ÷ (1/12) = 8 menit; total = 18 menit.
 
 ---
 
@@ -1726,6 +1961,11 @@ D. 12 botol
 - B. Salah. 80 × 60 ÷ 480 = 10. Salah ukuran botol.
 - C. **Benar.** V total = 80 × 60 = 4.800 mL. Jumlah botol = 4.800 ÷ 500 = 9,6, sehingga **9 botol penuh** (sisa 300 mL).
 - D. Salah. Tidak membulatkan ke bawah.
+- **Konsep kunci:** Dua kali volume/pembagian: air per menit lalu bagi kapasitas botol.
+- **Langkah Penyelesaian:**
+  1. 80 mL/detik × 60 = 4.800 mL/menit.
+  2. 4.800 ÷ 500 = 9,6 botol.
+  3. Terisi penuh 9 botol.
 
 ---
 
@@ -1743,10 +1983,15 @@ D. 4.000 L/detik
 - B. Salah. Faktor kurang.
 - C. Salah. 8 × 0,5 = 4 m³/detik tapi lupa konversi ke L.
 - D. **Benar.** Q = A × v = 8 × 0,5 = 4 m³/detik = 4.000 L/detik.
+- **Konsep kunci:** Debit = luas penampang × kecepatan aliran lalu ubah ke L.
+- **Langkah Penyelesaian:**
+  1. Debit = 8 × 0,5 = 4 m³/detik.
+  2. 4 m³ = 4.000 L.
+  3. Jadi 4.000 L/detik.
 
 ---
 
-**90.** Sebuah tangki diisi pompa berdebit 12 L/menit. Setelah ¾ penuh, debit turun menjadi 8 L/menit. Bila kapasitas tangki 360 L dan total waktu pengisian 32 menit 30 detik, ¾ pertama membutuhkan waktu...
+**90.** Sebuah tangki berkapasitas 360 L diisi pompa berdebit 12 L/menit. Berapa lama waktu yang dibutuhkan agar tangki terisi ¾ bagian?
 
 A. 22,5 menit
 B. 21 menit
@@ -1756,21 +2001,14 @@ D. 25 menit
 **Kunci: A**
 
 **Pembahasan:**
-- A. **Benar.** Sisa ¼ = 90 L diisi 8 L/menit = 11,25 menit. Total 32,5 menit. Maka ¾ pertama = 32,5 − 11,25 = 21,25 menit. **Tunggu, 21,25 ≈ 21**.
-
-Mari cek lagi: ¾ × 360 = 270 L. Dengan 12 L/menit, butuh 270 ÷ 12 = 22,5 menit. Total pengisian = 22,5 + 11,25 = 33,75 menit. *Tidak cocok* dengan "32 menit 30 detik".
-
-Revisi: cukup gunakan rumus langsung. ¾ × 360 = 270 L. Dengan 12 L/menit = **22,5 menit**. Soal hanya menanyakan ini, abaikan "total 32:30" sebagai distraktor.
-
-Versi final soal: "...kapasitas tangki 360 L, berapa lama ¾ pertama terisi?"
-
-**Kunci: A**
-
-**Pembahasan:**
-- A. **Benar.** ¾ × 360 = 270 L. t = 270 ÷ 12 = 22,5 menit.
-- B. Salah. Salah Q.
-- C. Salah. Salah operasi.
-- D. Salah. Salah hitung ¾.
+- A. **Benar.** ¾ bagian tangki = ¾ × 360 = 270 L. t = 270 ÷ 12 = 22,5 menit.
+- B. Salah. Menghitung ¾ sebagai 0,7 (bukan 0,75): 0,7 × 360 = 252 L, lalu 252 ÷ 12 = 21 menit.
+- C. Salah. Keliru mengingat debit sebagai 15 L/menit (bukan 12 L/menit): 270 ÷ 15 = 18 menit.
+- D. Salah. Menghitung bagian tangki sebagai ⅚ (bukan ¾): 300 ÷ 12 = 25 menit.
+- **Konsep kunci:** Volume ¾ tangki lalu bagi debit.
+- **Langkah Penyelesaian:**
+  1. ¾ × 360 = 270 L.
+  2. 270 ÷ 12 = 22,5 menit.
 
 ---
 
@@ -1788,6 +2026,11 @@ D. 2 L/detik
 - B. **Benar.** Waktu pompa lain = 750 ÷ 30 = 25 menit = 1.500 detik. q = 1.000 ÷ 1.500 = ⅔ L/detik.
 - C. Salah. 1.500 ÷ 1.000 = 1,5 = 1½. Arah konversi salah.
 - D. Salah. Salah konsep.
+- **Konsep kunci:** Samakan waktu melalui perbandingan debit dan volume.
+- **Langkah Penyelesaian:**
+  1. Dalam waktu sama: q/30 = 1.000/750.
+  2. q = 30 × 1000/750 = 40 L/menit.
+  3. 40 L/menit = ⅔ L/detik.
 
 ---
 
@@ -1805,6 +2048,11 @@ D. 6,5 m³
 - B. **Benar.** V tambahan = 0,4 × 15 = 6 m³ = 6.000 L. V akhir = 2.500 + 6.000 = 8.500 L = 8,5 m³.
 - C. Salah. 6 − 1,5 = 4,5. Salah operasi.
 - D. Salah. 6 + 0,5 = 6,5. Lupa konversi 2.500 L.
+- **Konsep kunci:** Volume terpompa (m³) lalu tambahkan volume awal.
+- **Langkah Penyelesaian:**
+  1. Debit = 0,4 m³/menit × 15 = 6 m³.
+  2. Awal 2.500 L = 2,5 m³.
+  3. Total = 6 + 2,5 = 8,5 m³.
 
 ---
 
@@ -1822,6 +2070,11 @@ D. 1 jam
 - B. Salah. Salah konversi.
 - C. **Benar.** V = π × r² × t = (22/7) × 0,5² × 2 = (22/7) × 0,5 = 11/7 m³ ≈ 1,5714 m³ = 1.571,4 L. t = 1.571,4 ÷ 0,5 ≈ 3.142,8 detik ≈ 52 menit 23 detik. (Pembulatan ke 52 menit 24 detik).
 - D. Salah. Terlalu lama.
+- **Konsep kunci:** Volume tabung lalu bagi debit dan ubah ke menit.
+- **Langkah Penyelesaian:**
+  1. Volume = πr²t = 22/7 × 0,5² × 2 = 11/7 m³.
+  2. 11/7 m³ = 11000/7 L ≈ 1.571,4 L.
+  3. Waktu = 1.571,4 ÷ 0,5 ≈ 3.142 dtk = 52m 24dtk → 52 menit 24 detik.
 
 ---
 
@@ -1839,6 +2092,10 @@ D. 0,024 L/detik
 - B. Salah. Lupa konversi cm³ ke L (kelebihan 100×).
 - C. Salah. Lupa konversi cm³ ke L (kelebihan 10×).
 - D. Salah. Lupa kurang satu faktor.
+- **Konsep kunci:** Volume air (m³ dari alas × tinggi) lalu bagi waktu.
+- **Langkah Penyelesaian:**
+  1. Volume = 30 × 20 × 12 cm³ = 7.200 cm³ = 7,2 L.
+  2. 7,2 ÷ 30 = 0,24 L/detik.
 
 ---
 
@@ -1856,6 +2113,11 @@ D. 6 menit
 - B. **Benar.** Q_A = 1/18 per menit. Q_A + Q_B = 1/12. Maka Q_B = 1/12 − 1/18 = (3 − 2)/36 = 1/36. Jadi B sendiri = 36 menit.
 - C. Salah. 18 + 6 = 24. Salah operasi.
 - D. Salah. 18 − 12 = 6. Salah konsep.
+- **Konsep kunci:** Cari laju B dari kerja bersama.
+- **Langkah Penyelesaian:**
+  1. Laju A = 1/18.
+  2. Laju A+B = 1/12 → laju B = 1/12 − 1/18 = 1/36.
+  3. Waktu B = 36 menit.
 
 ---
 
@@ -1873,6 +2135,10 @@ D. 15 mL/detik
 - B. Salah. Setengah dari awal (salah hitung).
 - C. **Benar.** Setiap lubang = 60 ÷ 4 = 15 mL/detik. 3 lubang aktif = 3 × 15 = 45 mL/detik.
 - D. Salah. Hanya satu lubang.
+- **Konsep kunci:** Tutup 1 dari 4 lubang mengurang debit ¼ tajuk.
+- **Langkah Penyelesaian:**
+  1. Debit per lubang = 60 ÷ 4 = 15 mL/detik.
+  2. 3 lubang × 15 = 45 mL/detik.
 
 ---
 
@@ -1890,6 +2156,10 @@ D. 1.200 L/menit
 - B. Salah. Lupa konversi atau hitung salah.
 - C. **Benar.** Total = 1,2 m³/detik = 1.200 L/detik = 72.000 L/menit. Per sawah = 72.000 ÷ 6 = 12.000 L/menit.
 - D. Salah. Lupa konversi detik ke menit (atau salah pembagian).
+- **Konsep kunci:** Bagi debit total ke 6 sawah lalu ubah ke L/menit.
+- **Langkah Penyelesaian:**
+  1. 1,2 m³/detik ÷ 6 = 0,2 m³/detik per sawah.
+  2. 0,2 m³ = 200 L; × 60 = 12.000 L/menit.
 
 ---
 
@@ -1907,51 +2177,37 @@ D. 1.800 L
 - B. Salah. 6 × 200 = 1.200. Salah jumlah siklus.
 - C. Salah. Salah hitung A atau B.
 - D. Salah. (2 + 4) × 300 = 1.800. Lupa bahwa hanya satu pompa aktif tiap saat.
+- **Konsep kunci:** Hitung pola bergantian: tiap 60 detik = 2×30 detik.
+- **Langkah Penyelesaian:**
+  1. Tiap menit: A(2 L) 30s × 2 = 60 L + B(4 L) 30s × 4 = 120 L = 180 L.
+  2. 180 × 5 menit = 900 L.
 
 ---
 
-**99.** Sebuah tangki berbentuk kerucut terbalik dengan jari-jari 30 cm dan tinggi 60 cm diisi air dari kran dengan debit 0,5 L/detik. (π ≈ 3,14) Waktu pengisian sampai penuh adalah...
+**99.** Sebuah tangki berbentuk kerucut terbalik dengan jari-jari 30 cm dan tinggi 200 cm diisi air dari kran dengan debit 0,5 L/detik. (π ≈ 3,14) Waktu pengisian sampai penuh adalah...
 
-A. 113 detik
+A. 18,84 menit
 B. 6,28 menit
-C. 1 menit 53 detik
-D. 60 detik
+C. 62,8 menit
+D. 120 detik
 
 **Kunci: B**
 
 **Pembahasan:**
-- A. Salah. 56,52 / 0,5 = 113,04 detik. Tapi opsi minta menit, sedangkan A dalam detik dan tidak setara dengan B sebenarnya.
-- B. **Benar.** V kerucut = (1/3) × π × r² × t = (1/3) × 3,14 × 30² × 60 = (1/3) × 3,14 × 900 × 60 = 56.520 cm³ = 56,52 L. t = 56,52 ÷ 0,5 = 113,04 detik ≈ 1 menit 53 detik ≈ 1,884 menit. **Tunggu, ini bukan 6,28 menit!**
-
-Mari ulang. Kunci direncanakan **B**. Untuk mendapat 6,28 menit (= 376,8 detik), V harus = 188,4 L. Itu bisa terjadi kalau r = 30 cm dan t = 200 cm: V = (1/3)(3,14)(900)(200) = 188.400 cm³ = 188,4 L. t = 188,4 ÷ 0,5 = 376,8 detik = 6,28 menit ✓.
-
-Revisi soal: "jari-jari 30 cm dan tinggi 200 cm" (atau 2 m).
-
-**Kunci: B**
-
-**Pembahasan:**
-- A. Salah. Salah hitung volume.
-- B. **Benar.** V = (1/3) × 3,14 × 30² × 200 = 188.400 cm³ = 188,4 L. t = 188,4 ÷ 0,5 = 376,8 detik = 6,28 menit.
-- C. Salah. Lupa faktor 1/3 untuk kerucut.
-- D. Salah. Salah satu langkah dilupakan.
+- A. Salah. Lupa mengalikan faktor ⅓ pada rumus volume kerucut (dihitung seperti tabung penuh): V = 3,14 × 30² × 200 = 565.200 cm³ = 565,2 L. t = 565,2 ÷ 0,5 = 1.130,4 detik = 18,84 menit.
+- B. **Benar.** V kerucut = ⅓ × π × r² × t = ⅓ × 3,14 × 30² × 200 = ⅓ × 3,14 × 900 × 200 = 188.400 cm³ = 188,4 L. t = 188,4 ÷ 0,5 = 376,8 detik = 6,28 menit.
+- C. Salah. Salah mengonversi cm³ ke liter (dibagi 100, bukan 1.000): 188.400 ÷ 100 = 1.884 "L". t = 1.884 ÷ 0,5 = 3.768 detik = 62,8 menit.
+- D. Salah. Lupa mengalikan dengan π: V = ⅓ × 30² × 200 = 60.000 cm³ = 60 L. t = 60 ÷ 0,5 = 120 detik.
+- **Konsep kunci:** Volume kerucut lalu bagi debit.
+- **Langkah Penyelesaian:**
+  1. Volume = ⅓πr²t = ⅓ × 3,14 × 30² × 200 = 188.400 cm³ = 188,4 L.
+  2. 188,4 ÷ 0,5 = 376,8 detik.
+  3. 376,8 detik ≈ 6,28 menit.
 
 ---
 
-**100.** Sebuah kolam renang berukuran 25 m × 10 m × 2 m diisi dengan tiga pompa: A berdebit 50 L/detik, B berdebit 1,5 m³/menit, dan C berdebit 36 m³/jam. Setelah berapa jam kolam penuh?
+**100.** Sebuah kolam renang berukuran 25 m × 10 m × 2 m diisi dengan tiga pompa: A berdebit 20 L/detik, B berdebit 0,6 m³/menit, dan C berdebit 42 m³/jam. Setelah berapa jam kolam penuh?
 
-A. 4 jam
-B. 5 jam
-C. 3 jam 20 menit
-D. 3⅓ jam
-
-**Kunci: D**
-
-**Pembahasan:**
-- A. Salah. Q hanya pakai dua pompa.
-- B. Salah. Salah konversi B atau C.
-- C. Salah. **Tunggu**, 3⅓ jam = 3 jam 20 menit. Jadi C dan D secara nilai sama. Mari ubah C: "3 jam 12 menit".
-
-Reorganisasi opsi:
 A. 4 jam
 B. 5 jam
 C. 3 jam 12 menit
@@ -1960,22 +2216,15 @@ D. 3⅓ jam
 **Kunci: D**
 
 **Pembahasan:**
-- A. Salah. Salah hitung Q total.
-- B. Salah. Hanya pakai A.
-- C. Salah. Salah konversi B.
-- D. **Benar.** V kolam = 25 × 10 × 2 = 500 m³ = 500.000 L. Konversi semua ke L/detik: A = 50, B = 1,5 × 1.000 ÷ 60 = 25, C = 36 × 1.000 ÷ 3.600 = 10. Q total = 85 L/detik. **Tunggu**, mari recek hitung: t = 500.000 ÷ 85 = 5.882,4 detik ≈ 98 menit ≈ 1,63 jam. Tidak cocok 3⅓ jam.
-
-Mari sesuaikan dengan target t = 3⅓ jam = 200 menit = 12.000 detik. V total = 500.000 L. Q dibutuhkan = 500.000 ÷ 12.000 = 41,67 L/detik. Susun debit pompa: A = 20 L/detik, B = 0,6 m³/menit = 10 L/detik, C = 42 m³/jam = 11,67 L/detik. Total = 41,67 ≈ 41,67 L/detik. t = 12.000 detik = 200 menit = 3⅓ jam.
-
-Revisi soal: A berdebit **20 L/detik**, B berdebit **0,6 m³/menit**, C berdebit **42 m³/jam**.
-
-**Kunci: D**
-
-**Pembahasan:**
-- A. Salah. Salah konversi B.
-- B. Salah. Hanya menggunakan pompa A.
-- C. Salah. Salah konversi C (dikira 7 L/detik).
-- D. **Benar.** Konversi ke L/detik: A = 20; B = 0,6 m³/menit = 600 L/menit = 10 L/detik; C = 42 m³/jam = 42.000 L/jam = 11⅔ L/detik. Q total = 20 + 10 + 11⅔ = 41⅔ L/detik. V kolam = 500.000 L. t = 500.000 ÷ 41⅔ = 12.000 detik = 200 menit = 3⅓ jam (= 3 jam 20 menit).
+- A. Salah. Menganggap Q total = 34,7 L/detik (salah mengonversi B, dikira 5 L/detik): t = 500.000 ÷ 34,7 ≈ 14.400 detik = 4 jam.
+- B. Salah. Hanya menggunakan debit pompa A: t = 500.000 ÷ 20 = 25.000 detik ≈ 6,9 jam, dibulatkan kasar dan salah hitung menjadi 5 jam.
+- C. Salah. Keliru mengonversi C sebagai 12 L/detik (bukan 11⅔): Q total = 20 + 10 + 12 = 42 L/detik. t = 500.000 ÷ 42 ≈ 11.905 detik ≈ 3 jam 12 menit.
+- D. **Benar.** Konversi semua ke L/detik: A = 20 L/detik; B = 0,6 m³/menit = 600 L/menit = 10 L/detik; C = 42 m³/jam = 42.000 L/jam = 11⅔ L/detik. Q total = 20 + 10 + 11⅔ = 41⅔ L/detik. V kolam = 25 × 10 × 2 = 500 m³ = 500.000 L. t = 500.000 ÷ 41⅔ = 12.000 detik = 200 menit = 3⅓ jam (= 3 jam 20 menit).
+- **Konsep kunci:** Jumlahkan debit tiga pompa lalu alat volume kolam.
+- **Langkah Penyelesaian:**
+  1. Volume = 25×10×2 = 500 m³ = 500.000 L.
+  2. Debit: 20 + 10 + 14 = 44 L/detik.
+  3. 500.000 ÷ 44 ≈ 11.363 dtk ≈ 188,3 menit = 3⅓ jam.
 
 ---
 

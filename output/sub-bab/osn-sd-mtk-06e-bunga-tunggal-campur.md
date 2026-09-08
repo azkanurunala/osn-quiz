@@ -147,6 +147,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp600.000
 - C. Rp60.000
 - D. Rp600
+- **Konsep kunci:** Bunga tunggal = Modal × suku bunga × waktu (dalam tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,06 × 1.
+  2. Bunga = 60.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -162,6 +166,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp510.000
 - C. Rp50.000
 - D. Rp500.500
+- **Konsep kunci:** Total kembali = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000 × 0,10 × 1 = 50.000.
+  2. Total = 500.000 + 50.000 = 550.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -177,6 +185,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp10.000
 - C. Rp1.000
 - D. Rp100.000
+- **Konsep kunci:** Bunga = Modal × suku bunga × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 200.000 × 0,05 × 1.
+  2. Bunga = 10.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -192,6 +204,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp72.000
 - C. Rp880.000
 - D. Rp872.000
+- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 800.000 × 0,09 × 1 = 72.000.
+  2. Saldo = 800.000 + 72.000 = 872.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -207,6 +223,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 50%
 - C. 0,5%
 - D. 5%
+- **Konsep kunci:** Suku bunga = Bunga ÷ Modal (untuk 1 tahun).
+- **Langkah Penyelesaian:**
+  1. Suku = 50.000 ÷ 1.000.000.
+  2. Suku = 0,05 = 5%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -222,6 +242,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp4.800
 - C. Rp24.000
 - D. Rp288.000
+- **Konsep kunci:** Waktu dalam tahun: 6 bulan = 0,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 600.000 × 0,08 × 0,5.
+  2. Bunga = 24.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -237,6 +261,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp1.240.000
 - C. Rp1.024.000
 - D. Rp120.000
+- **Konsep kunci:** Total bayar = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,12 × 2 = 240.000.
+  2. Total = 1.000.000 + 240.000 = 1.240.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -252,6 +280,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp3.000
 - C. Rp7.500
 - D. Rp75.000
+- **Konsep kunci:** Bunga = Modal × suku bunga × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 400.000 × 0,075 × 1.
+  2. Bunga = 30.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -267,6 +299,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp254.000
 - C. Rp270.000
 - D. Rp250.000 + Rp20.000
+- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 250.000 × 0,04 × 2 = 20.000.
+  2. Saldo = 250.000 + 20.000 = 270.000.
 
 **Kunci: C** (Catatan: opsi D adalah Rp270.000 ditulis sebagai jumlah; lihat pembahasan.)
 **Pembahasan:**
@@ -282,6 +318,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp75.000
 - C. Rp15.000
 - D. Rp900.000
+- **Konsep kunci:** Waktu dalam tahun: 6 bulan = 0,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.500.000 × 0,10 × 0,5.
+  2. Bunga = 75.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -297,6 +337,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp50.000
 - C. Rp150.000
 - D. Rp12.500
+- **Konsep kunci:** Waktu dalam tahun: 3 bulan = 0,25 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,05 × 0,25.
+  2. Bunga = 12.500.
 
 **Kunci: D**
 **Pembahasan:**
@@ -312,6 +356,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp2.120.000
 - C. Rp2.060.000
 - D. Rp120.000
+- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.000.000 × 0,06 × 1 = 120.000.
+  2. Saldo = 2.000.000 + 120.000 = 2.120.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -335,6 +383,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp60.000
 - C. Rp15.000
 - D. Rp90.000
+- **Konsep kunci:** Bunga = Modal × suku bunga × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 600.000 × 0,15 × 1.
+  2. Bunga = 90.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -350,6 +402,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp20.000
 - C. Rp25.000
 - D. Rp80.000
+- **Konsep kunci:** Bunga = Modal × suku bunga × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 250.000 × 0,08 × 1.
+  2. Bunga = 20.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -365,6 +421,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp600.000
 - C. Rp120.000
 - D. Rp12.000
+- **Konsep kunci:** Bunga total = Modal × suku × waktu (2 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.200.000 × 0,05 × 2.
+  2. Bunga = 120.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -380,6 +440,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 4%
 - C. 40%
 - D. 0,8%
+- **Konsep kunci:** Suku bunga = Bunga ÷ Modal (untuk 1 tahun).
+- **Langkah Penyelesaian:**
+  1. Suku = 40.000 ÷ 500.000.
+  2. Suku = 0,08 = 8%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -395,6 +459,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 5,7%
 - C. 3%
 - D. 6%
+- **Konsep kunci:** Bunga = Saldo akhir − Modal; lalu suku = Bunga ÷ Modal.
+- **Langkah Penyelesaian:**
+  1. Bunga = 530.000 − 500.000 = 30.000.
+  2. Suku = 30.000 ÷ 500.000 = 0,06 = 6%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -410,6 +478,11 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 3 bulan
 - C. 9 bulan
 - D. 6 bulan
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku); ubah tahun ke bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga per tahun = 1.000.000 × 0,06 = 60.000.
+  2. Waktu = 30.000 ÷ 60.000 = 0,5 tahun.
+  3. 0,5 tahun = 6 bulan.
 
 **Kunci: D**
 **Pembahasan:**
@@ -425,6 +498,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp36.000
 - C. Rp3.600
 - D. Rp12.000
+- **Konsep kunci:** Waktu dalam tahun: 4 bulan = 1/3 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 400.000 × 0,09 × (1/3).
+  2. Bunga = 12.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -440,6 +517,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp780.000
 - C. Rp810.000
 - D. Rp60.000
+- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 750.000 × 0,08 × 1 = 60.000.
+  2. Saldo = 750.000 + 60.000 = 810.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -455,6 +536,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp6.000
 - C. Rp5.000
 - D. Rp600
+- **Konsep kunci:** Waktu dalam tahun: 2 bulan = 1/6 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 300.000 × 0,10 × (1/6).
+  2. Bunga = 5.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -470,6 +555,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp2.512.000
 - C. Rp300.000
 - D. Rp2.530.000
+- **Konsep kunci:** Total bayar = Modal + Bunga (Modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.500.000 × 0,12 × 1 = 300.000.
+  2. Total = 2.500.000 + 300.000 = 2.800.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -485,6 +574,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp60.000
 - C. Rp6.000
 - D. Rp600.000
+- **Konsep kunci:** Bunga = Modal × suku bunga × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.500.000 × 0,04 × 1.
+  2. Bunga = 60.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -500,6 +593,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 8%
 - C. 6%
 - D. 12%
+- **Konsep kunci:** Suku bunga = Bunga ÷ Modal (untuk 1 tahun).
+- **Langkah Penyelesaian:**
+  1. Suku = 48.000 ÷ 800.000.
+  2. Suku = 0,06 = 6%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -515,6 +612,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp627.000
 - C. Rp609.000
 - D. Rp627.500
+- **Konsep kunci:** Waktu 6 bulan = 0,5 tahun; saldo = modal + bunga.
+- **Langkah Penyelesaian:**
+  1. Bunga = 600.000 × 0,09 × 0,5 = 27.000.
+  2. Saldo = 600.000 + 27.000 = 627.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -530,6 +631,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp60.000
 - C. Rp600
 - D. Rp500
+- **Konsep kunci:** Waktu dalam tahun: 1 bulan = 1/12 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,06 × (1/12).
+  2. Bunga = 5.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -545,6 +650,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp1.030.000
 - C. Rp1.100.000
 - D. Rp25.000
+- **Konsep kunci:** Total bayar = Modal + Bunga (3 bulan = 0,25 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,10 × 0,25 = 25.000.
+  2. Total = 1.000.000 + 25.000 = 1.025.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -565,6 +674,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp407.000
 - C. Rp456.000
 - D. Rp470.000
+- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × 2 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 400.000 × 0,07 × 2 = 56.000.
+  2. Saldo = 400.000 + 56.000 = 456.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -580,6 +693,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. 6%
 - C. 1,5%
 - D. 30%
+- **Konsep kunci:** Suku bunga = Bunga lama ÷ (Modal × waktu); 6 bulan = 0,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Suku × 0,5 = 15.000 ÷ 500.000 = 0,03.
+  2. Suku = 0,03 ÷ 0,5 = 0,06 = 6%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -595,6 +712,10 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 - B. Rp80.000
 - C. Rp60.000
 - D. Rp720.000
+- **Konsep kunci:** Waktu 9 bulan = 0,75 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,08 × 0,75.
+  2. Bunga = 60.000.
 
 **Kunci: C** 
 
@@ -613,6 +734,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. 10%
 - C. 5%
 - D. 40%
+- **Konsep kunci:** Suku bunga = Bunga ÷ (Modal × waktu); 2 tahun.
+- **Langkah Penyelesaian:**
+  1. Suku × 2 = 40.000 ÷ 200.000 = 0,20.
+  2. Suku = 0,20 ÷ 2 = 0,10 = 10%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -628,6 +753,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. 1 tahun
 - C. 6 bulan
 - D. 3 tahun
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku); ubah tahun ke tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga per tahun = 300.000 × 0,05 = 15.000.
+  2. Waktu = 45.000 ÷ 15.000 = 3 tahun.
 
 **Kunci: D**
 **Pembahasan:**
@@ -643,6 +772,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp30.000
 - C. Rp120.000
 - D. Rp720.000
+- **Konsep kunci:** Waktu 6 bulan = 0,5 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 750.000 × 0,16 × 0,5.
+  2. Bunga = 60.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -658,6 +791,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp15.000
 - C. Rp20.000
 - D. Rp180.000
+- **Konsep kunci:** Waktu 9 bulan = 0,75 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000 × 0,04 × 0,75.
+  2. Bunga = 15.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -673,6 +810,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp1.320.000
 - C. Rp1.215.000
 - D. Rp180.000
+- **Konsep kunci:** 1,5 tahun; saldo = modal + bunga (modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.200.000 × 0,10 × 1,5 = 180.000.
+  2. Saldo = 1.200.000 + 180.000 = 1.380.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -688,6 +829,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp10.000
 - C. Rp120.000
 - D. Rp1.200.000
+- **Konsep kunci:** Bunga per bulan; setahun = 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga per bulan = 1.000.000 × 0,01 = 10.000.
+  2. Setahun = 10.000 × 12 = 120.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -703,6 +848,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp500.030
 - C. Rp530.000
 - D. Rp536.000 (catatan: 1,5% × 4 = 6%, jadi bunga = 30.000)
+- **Konsep kunci:** Total bayar = Modal + Bunga (1,5% per bulan × 4 bulan).
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000 × 0,015 × 4 = 30.000.
+  2. Total = 500.000 + 30.000 = 530.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -718,6 +867,10 @@ Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Bena
 - B. Rp24.000
 - C. Rp36.000
 - D. Rp72.000
+- **Konsep kunci:** Bunga = Modal × suku per bulan × banyak bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 600.000 × 0,02 × 3.
+  2. Bunga = 36.000.
 
 **Kunci: C**
 
@@ -736,6 +889,10 @@ Hitung: 3 × 2% × 600.000 = 3 × 12.000 = 36.000.
 - B. Rp66.667
 - C. Rp80.000
 - D. Rp96.000
+- **Konsep kunci:** Cicilan per bulan = Total bayar ÷ 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 800.000 × 0,12 × 1 = 96.000; total = 896.000.
+  2. Cicilan = 896.000 ÷ 12 = 74.667.
 
 **Kunci: A**
 
@@ -754,6 +911,10 @@ Hitung: Total = 800.000 + 96.000 = 896.000. Cicilan = 896.000 ÷ 12 = 74.666,67 
 - B. Rp20.000
 - C. Rp40.000
 - D. Rp360.000
+- **Konsep kunci:** Waktu 18 bulan = 1,5 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 250.000 × 0,08 × 1,5.
+  2. Bunga = 30.000.
 
 **Kunci: A**
 
@@ -772,6 +933,10 @@ Hitung: t = 18/12 = 1,5 tahun. B = 250.000 × 0,08 × 1,5 = 20.000 × 1,5 = 30.0
 - B. 10%
 - C. 8%
 - D. 7,4%
+- **Konsep kunci:** Bunga = saldo − modal; suku = bunga ÷ modal.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.080.000 − 1.000.000 = 80.000.
+  2. Suku = 80.000 ÷ 1.000.000 = 0,08 = 8%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -787,6 +952,10 @@ Hitung: t = 18/12 = 1,5 tahun. B = 250.000 × 0,08 × 1,5 = 20.000 × 1,5 = 30.0
 - B. Rp456.000
 - C. Rp450.060
 - D. Rp27.000
+- **Konsep kunci:** Saldo = Modal + Bunga (modal × suku × waktu).
+- **Langkah Penyelesaian:**
+  1. Bunga = 450.000 × 0,06 × 1 = 27.000.
+  2. Saldo = 450.000 + 27.000 = 477.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -802,6 +971,10 @@ Hitung: t = 18/12 = 1,5 tahun. B = 250.000 × 0,08 × 1,5 = 20.000 × 1,5 = 30.0
 - B. 90%
 - C. 9%
 - D. 0,09%
+- **Konsep kunci:** Suku bunga = Bunga ÷ Modal (untuk 1 tahun).
+- **Langkah Penyelesaian:**
+  1. Suku = 9.000 ÷ 100.000.
+  2. Suku = 0,09 = 9%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -817,6 +990,10 @@ Hitung: t = 18/12 = 1,5 tahun. B = 250.000 × 0,08 × 1,5 = 20.000 × 1,5 = 30.0
 - B. 32%
 - C. 8%
 - D. 4%
+- **Konsep kunci:** Suku = Bunga ÷ (Modal × 2 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 232.000 − 200.000 = 32.000.
+  2. Suku = 32.000 ÷ (200.000 × 2) = 0,08 = 8%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -832,6 +1009,11 @@ Hitung: t = 18/12 = 1,5 tahun. B = 250.000 × 0,08 × 1,5 = 20.000 × 1,5 = 30.0
 - B. 6 bulan
 - C. 2 bulan
 - D. 3 bulan
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku); ubah tahun ke bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga per tahun = 600.000 × 0,05 = 30.000.
+  2. Waktu = 10.000 ÷ 30.000 = 1/3 tahun.
+  3. 1/3 tahun = 4 bulan.
 
 **Kunci: A**
 
@@ -850,6 +1032,10 @@ Hitung: t = 10.000 ÷ (600.000 × 0,05) = 10.000 ÷ 30.000 = 1/3 tahun = 4 bulan
 - B. Rp392.000
 - C. Rp42.000
 - D. Rp362.000
+- **Konsep kunci:** Saldo = Modal + Bunga (modal × suku × 3 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 350.000 × 0,04 × 3 = 42.000.
+  2. Saldo = 350.000 + 42.000 = 392.000.
 
 **Kunci: B**
 
@@ -868,6 +1054,10 @@ Hitung: B = 350.000 × 0,04 × 3 = 42.000. Saldo = 392.000.
 - B. Rp60.000
 - C. Rp480.000
 - D. Rp80.000
+- **Konsep kunci:** Waktu 8 bulan = 2/3 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.500.000 × 0,04 × (2/3).
+  2. Bunga = 40.000.
 
 **Kunci: A**
 
@@ -886,6 +1076,10 @@ Hitung: t = 8/12 = 2/3 tahun. B = 1.500.000 × 0,04 × (2/3) = 60.000 × (2/3) =
 - B. 30%
 - C. 3%
 - D. 7,5%
+- **Konsep kunci:** Suku bunga = Bunga ÷ Modal (untuk 1 tahun).
+- **Langkah Penyelesaian:**
+  1. Suku = 7.500 ÷ 250.000.
+  2. Suku = 0,03 = 3%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -901,6 +1095,10 @@ Hitung: t = 8/12 = 2/3 tahun. B = 1.500.000 × 0,04 × (2/3) = 60.000 × (2/3) =
 - B. Rp180.000
 - C. Rp22.500
 - D. Rp15.000
+- **Konsep kunci:** Waktu 4 bulan = 1/3 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 900.000 × 0,05 × (1/3).
+  2. Bunga = 15.000.
 
 **Kunci: D**
 
@@ -919,6 +1117,11 @@ Hitung: t = 4/12 = 1/3 tahun. B = 900.000 × 0,05 × (1/3) = 45.000/3 = 15.000.
 - B. 6%
 - C. 9%
 - D. 3%
+- **Konsep kunci:** Suku = Bunga ÷ (Modal × waktu); 9 bulan = 0,75 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 836.000 − 800.000 = 36.000.
+  2. Suku × 0,75 = 36.000 ÷ 800.000 = 0,045.
+  3. Suku = 0,045 ÷ 0,75 = 0,06 = 6%.
 
 **Kunci: B**
 
@@ -939,6 +1142,11 @@ Hitung: B = 36.000. t = 9/12 = 0,75. r = 36.000 ÷ (800.000 × 0,75) = 36.000 ÷
 - B. Rp48.000
 - C. Rp30.000
 - D. Rp24.000
+- **Konsep kunci:** Hitung bunga tiap bank lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Bank X: 500.000 × 0,06 = 30.000.
+  2. Bank Y: 300.000 × 0,08 = 24.000.
+  3. Total = 30.000 + 24.000 = 54.000.
 
 **Kunci: A**
 
@@ -957,6 +1165,11 @@ Hitung: Bank X = 30.000. Bank Y = 24.000. Total = 54.000.
 - B. 6%
 - C. 5%
 - D. 8%
+- **Konsep kunci:** Suku = Bunga ÷ (Modal × waktu); 8 bulan = 2/3 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.040.000 − 1.000.000 = 40.000.
+  2. Suku × (2/3) = 40.000 ÷ 1.000.000 = 0,04.
+  3. Suku = 0,04 × 3/2 = 0,06 = 6%.
 
 **Kunci: B**
 
@@ -975,6 +1188,10 @@ Hitung: B = 40.000. t = 8/12 = 2/3. r = 40.000 ÷ (1.000.000 × 2/3) = 40.000 ÷
 - B. Rp160.000
 - C. Rp40.000
 - D. Rp50.000
+- **Konsep kunci:** Waktu 1 tahun 3 bulan = 1,25 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.000.000 × 0,08 × 1,25.
+  2. Bunga = 200.000.
 
 **Kunci: A**
 
@@ -993,6 +1210,12 @@ Hitung: t = 1,25 tahun. B = 2.000.000 × 0,08 × 1,25 = 160.000 × 1,25 = 200.00
 - B. Rp770.000
 - C. Rp765.000
 - D. Rp774.375
+- **Konsep kunci:** Hitung tiap fase terpisah: fase 1 (5 bulan), tambah modal, fase 2 (5 bulan).
+- **Langkah Penyelesaian:**
+  1. Fase 1: 600.000 × 0,06 × 5/12 = 15.000; saldo 615.000.
+  2. Tambah modal: 615.000 + 150.000 = 765.000.
+  3. Fase 2: 765.000 × 0,06 × 5/12 = 19.125.
+  4. Saldo = 765.000 + 19.125 = 784.125.
 
 **Kunci: D**
 
@@ -1016,6 +1239,10 @@ Saldo akhir = 765.000 + 19.125 = **784.125**.
 - B. Rp100.000
 - C. Rp125.000
 - D. Rp138.000
+- **Konsep kunci:** Cicilan/bulan = (Modal + Bunga) ÷ 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.200.000 × 0,15 × 1 = 180.000; total = 1.380.000.
+  2. Cicilan = 1.380.000 ÷ 12 = 115.000.
 
 **Kunci: A**
 
@@ -1034,6 +1261,10 @@ Hitung: B = 1.200.000 × 0,15 = 180.000. Total = 1.380.000. Cicilan = 1.380.000 
 - B. Rp30.000
 - C. Rp10.000
 - D. Rp20.000
+- **Konsep kunci:** Selisih bunga = Modal × selisih suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Selisih suku = 8% − 6% = 2%.
+  2. Selisih = 500.000 × 0,02 = 10.000.
 
 **Kunci: C**
 
@@ -1052,6 +1283,11 @@ Hitung: Lama = 40.000. Baru = 30.000. Selisih = 10.000.
 - B. 9 bulan
 - C. 4 bulan
 - D. 1 tahun
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku); ubah tahun ke bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga per tahun = 800.000 × 0,09 = 72.000.
+  2. Waktu = 36.000 ÷ 72.000 = 0,5 tahun.
+  3. 0,5 tahun = 6 bulan.
 
 **Kunci: A**
 
@@ -1070,6 +1306,11 @@ Hitung: t = 36.000 ÷ (800.000 × 0,09) = 36.000 ÷ 72.000 = 0,5 tahun = 6 bulan
 - B. Rp1.605.450
 - C. Rp1.560.000
 - D. Rp1.545.000
+- **Konsep kunci:** Saldo pindah menjadi modal baru; hitung tiap fase terpisah.
+- **Langkah Penyelesaian:**
+  1. Fase 1: 1.500.000 × 0,06 × 8/12 = 60.000; saldo 1.560.000.
+  2. Fase 2: 1.560.000 × 0,09 × 4/12 = 46.800.
+  3. Saldo akhir = 1.560.000 + 46.800 = 1.606.800.
 
 **Kunci: B**
 
@@ -1092,6 +1333,10 @@ Saldo akhir = 1.560.000 + 46.800 = **1.606.800**.
 - B. Total Rp2.760.000; cicilan Rp153.333
 - C. Total Rp2.880.000; cicilan Rp160.000
 - D. Total Rp2.720.000; cicilan Rp151.111
+- **Konsep kunci:** Hitung total bayar, lalu bagi dengan lama cicilan 18 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.400.000 × 0,10 × 1,5 = 360.000; total = 2.760.000.
+  2. Cicilan = 2.760.000 ÷ 18 = 153.333.
 
 **Kunci: C**
 
@@ -1114,6 +1359,11 @@ Hmm, jawaban benar adalah total 2.760.000 dengan cicilan 153.333 → opsi **B**.
 - B. 6 bulan
 - C. 4 bulan
 - D. 12 bulan
+- **Konsep kunci:** Misal t bulan di tabungan 5%; sisa (12−t) di 7%; selisih bunga.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000×0,05×(t/12) + 1.000.000×0,07×((12−t)/12).
+  2. Samakan 55.000 → t × 1/12 + 0,07×(12−t)/12 = 0,055.
+  3. t = 9 bulan (9 bulan di 5%, 3 bulan di 7%).
 
 **Kunci: D**
 
@@ -1141,6 +1391,10 @@ Jawaban yang benar adalah **9 bulan** — tidak ada di opsi. Perbaikan opsi: **D
 - B. Rp640.000
 - C. Rp535.000
 - D. Rp570.500
+- **Konsep kunci:** Saldo = Modal + Bunga (modal × suku × 4 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000 × 0,07 × 4 = 140.000.
+  2. Saldo = 500.000 + 140.000 = 640.000.
 
 **Kunci: B**
 
@@ -1159,6 +1413,10 @@ Hitung: B = 500.000 × 0,07 × 4 = 140.000. Saldo = 640.000.
 - B. Rp36.000
 - C. Rp108.000
 - D. Rp162.000
+- **Konsep kunci:** Waktu 9 bulan = 0,75 tahun; Bunga = Modal × suku × waktu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.800.000 × 0,08 × 0,75.
+  2. Bunga = 108.000.
 
 **Kunci: C**
 
@@ -1177,6 +1435,10 @@ Hitung: t = 9/12 = 0,75. B = 1.800.000 × 0,08 × 0,75 = 144.000 × 0,75 = 108.0
 - B. Rp24.000
 - C. Rp36.000
 - D. Rp6.000
+- **Konsep kunci:** Selisih bunga = Modal × suku × selisih waktu (6 bulan = 0,5 tahun).
+- **Langkah Penyelesaian:**
+  1. Selisih = 600.000 × 0,04 × 0,5.
+  2. Selisih = 12.000.
 
 **Kunci: A**
 
@@ -1195,6 +1457,10 @@ Hitung: B18 = 600.000 × 0,04 × 1,5 = 36.000. B12 = 600.000 × 0,04 × 1 = 24.0
 - B. Rp450
 - C. Rp4.500
 - D. Rp135
+- **Konsep kunci:** Waktu 30 hari = 30/360 tahun (asumsi 360 hari).
+- **Langkah Penyelesaian:**
+  1. Bunga = 450.000 × 0,12 × (30/360).
+  2. Bunga = 4.500.
 
 **Kunci: C**
 
@@ -1213,6 +1479,10 @@ Hitung: t = 30/360 = 1/12 tahun. B = 450.000 × 0,12 × (1/12) = 54.000/12 = 4.5
 - B. Rp30.000
 - C. Rp1.060.000
 - D. Rp1.090.000
+- **Konsep kunci:** Total bayar = Modal + Bunga; 60 hari = 60/360 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,18 × (60/360) = 30.000.
+  2. Total = 1.000.000 + 30.000 = 1.030.000.
 
 **Kunci: A**
 
@@ -1231,6 +1501,11 @@ Hitung: t = 60/360 = 1/6 tahun. B = 1.000.000 × 0,18 × (1/6) = 30.000. Total =
 - B. Rp82.500
 - C. Rp150.000
 - D. Rp82.500 minus
+- **Konsep kunci:** Bunga tunggal benar (0,5 tahun) vs naif (1 tahun); cari selisih.
+- **Langkah Penyelesaian:**
+  1. Benar = 2.500.000 × 0,06 × 0,5 = 75.000.
+  2. Naif = 2.500.000 × 0,06 × 1 = 150.000.
+  3. Selisih = 150.000 − 75.000 = 75.000.
 
 **Kunci: A**
 
@@ -1249,6 +1524,10 @@ Hitung: Bunga tunggal yang benar = 2.500.000 × 0,06 × 0,5 = 75.000. Bunga "nai
 - B. Rp880.000
 - C. Rp920.000
 - D. Rp840.000
+- **Konsep kunci:** Waktu 2 tahun 6 bulan = 2,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 800.000 × 0,05 × 2,5 = 100.000.
+  2. Saldo = 800.000 + 100.000 = 900.000.
 
 **Kunci: A**
 
@@ -1267,6 +1546,10 @@ Hitung: t = 2,5 tahun. B = 800.000 × 0,05 × 2,5 = 100.000. Saldo = 900.000.
 - B. 5 bulan
 - C. 8 bulan
 - D. 6 bulan
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku per bulan).
+- **Langkah Penyelesaian:**
+  1. Bunga per bulan = 400.000 × 0,015 = 6.000.
+  2. Waktu = 36.000 ÷ 6.000 = 6 bulan.
 
 **Kunci: D**
 
@@ -1285,6 +1568,11 @@ Hitung: t (bulan) = 36.000 ÷ (400.000 × 0,015) = 36.000 ÷ 6.000 = 6.
 - B. Rp28.000
 - C. Rp48.000
 - D. Rp40.000
+- **Konsep kunci:** Hitung bunga tiap pinjaman lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Pinjaman 1: 300.000 × 0,12 × 0,5 = 18.000.
+  2. Pinjaman 2: 200.000 × 0,15 × (1/3) = 10.000.
+  3. Total = 18.000 + 10.000 = 28.000.
 
 **Kunci: B**
 
@@ -1303,6 +1591,12 @@ Hitung: B1 = 300.000 × 0,12 × 0,5 = 18.000. B2 = 200.000 × 0,15 × (4/12) = 1
 - B. Rp1.020.000
 - C. Rp1.050.000
 - D. Rp1.040.000
+- **Konsep kunci:** Fase 1 (4 bulan), beli barang, sisa ditabung lagi (5 bulan).
+- **Langkah Penyelesaian:**
+  1. Fase 1: 1.000.000 × 0,09 × 4/12 = 30.000; saldo 1.030.000.
+  2. Sisa belanja = 1.020.000.
+  3. Fase 2: 1.020.000 × 0,06 × 5/12 = 25.500.
+  4. Saldo = 1.020.000 + 25.500 = 1.045.500.
 
 **Kunci: A**
 
@@ -1321,6 +1615,10 @@ Hitung: B = 1.020.000 × 0,06 × (5/12) = 1.020.000 × 0,025 = 25.500. Saldo akh
 - B. Rp160.000
 - C. Rp192.000
 - D. Rp1.600.000
+- **Konsep kunci:** Bunga = Modal × 1% per bulan × 10 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.600.000 × 0,01 × 10.
+  2. Bunga = 160.000.
 
 **Kunci: B**
 
@@ -1339,6 +1637,10 @@ Hitung: B = 1.600.000 × 0,01 × 10 = 160.000.
 - B. Rp2.300.000
 - C. Rp2.600.000
 - D. Rp2.500.000
+- **Konsep kunci:** Saldo = Modal + Bunga (modal × suku × 5 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.000.000 × 0,06 × 5 = 600.000.
+  2. Saldo = 2.000.000 + 600.000 = 2.600.000.
 
 **Kunci: C**
 
@@ -1357,6 +1659,11 @@ Hitung: B = 2.000.000 × 0,06 × 5 = 600.000. Saldo = 2.600.000.
 - B. 2 tahun
 - C. 5 tahun
 - D. 3 tahun
+- **Konsep kunci:** Waktu = (Saldo − Modal) ÷ (Modal × suku).
+- **Langkah Penyelesaian:**
+  1. Bunga yang dicapai = 870.000 − 750.000 = 120.000.
+  2. Bunga per tahun = 750.000 × 0,04 = 30.000.
+  3. Waktu = 120.000 ÷ 30.000 = 4 tahun.
 
 **Kunci: A**
 
@@ -1375,6 +1682,11 @@ Hitung: B = 120.000. t = 120.000 ÷ (750.000 × 0,04) = 120.000 ÷ 30.000 = 4.
 - B. 10%
 - C. 9%
 - D. 5%
+- **Konsep kunci:** Suku = Bunga ÷ (Modal × waktu); 2 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.080.000 − 900.000 = 180.000.
+  2. Suku × 2 = 180.000 ÷ 900.000 = 0,20.
+  3. Suku = 0,10 = 10%.
 
 **Kunci: B**
 
@@ -1393,6 +1705,10 @@ Hitung: B = 180.000. r = 180.000 ÷ (900.000 × 2) = 180.000 ÷ 1.800.000 = 0,10
 - B. Rp20.000
 - C. Rp40.000
 - D. Rp50.000
+- **Konsep kunci:** 1 bulan = 4 minggu; bunga = Modal × suku per minggu × minggu.
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000 × 0,01 × 4.
+  2. Bunga = 20.000.
 
 **Kunci: B**
 
@@ -1411,6 +1727,11 @@ Hitung: 1 bulan = 4 minggu. B = 500.000 × 0,01 × 4 = 20.000.
 - B. Rp80.000
 - C. Rp68.000
 - D. Rp72.000
+- **Konsep kunci:** Hitung bunga tiap bagian modal lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Bagian 800.000: 800.000 × 0,05 = 40.000.
+  2. Bagian 400.000: 400.000 × 0,07 = 28.000.
+  3. Total = 40.000 + 28.000 = 68.000.
 
 **Kunci: C**
 
@@ -1429,6 +1750,11 @@ Hitung: B1 = 800.000 × 0,05 = 40.000. B2 = 400.000 × 0,07 = 28.000. Total = 68
 - B. 18 bulan
 - C. 16 bulan
 - D. 24 bulan
+- **Konsep kunci:** Bunga = total utang naik; waktu = Bunga ÷ (Modal × suku/bulan).
+- **Langkah Penyelesaian:**
+  1. Kenaikan utang = 720.000 − 600.000 = 120.000.
+  2. Bunga per bulan = 600.000 × 0,01 = 6.000.
+  3. Waktu = 120.000 ÷ 6.000 = 20 bulan.
 
 **Kunci: A**
 
@@ -1447,6 +1773,11 @@ Hitung: B = 120.000. t (bulan) = 120.000 ÷ (600.000 × 0,01) = 120.000 ÷ 6.000
 - B. 8 bulan
 - C. 6 bulan
 - D. 12 bulan
+- **Konsep kunci:** Waktu = Bunga ÷ (Modal × suku per bulan).
+- **Langkah Penyelesaian:**
+  1. Bunga = 2.460.000 − 2.400.000 = 60.000.
+  2. Bunga per bulan = 2.400.000 × 0,05/12 = 10.000.
+  3. Waktu = 60.000 ÷ 10.000 = 6 bulan.
 
 **Kunci: C**
 
@@ -1465,6 +1796,10 @@ Hitung: B = 60.000. t = 60.000 ÷ (2.400.000 × 0,05) = 60.000 ÷ 120.000 = 0,5 
 - B. Rp2.200.000
 - C. Rp2.000.000
 - D. Rp1.800.000
+- **Konsep kunci:** Waktu 2 tahun 9 bulan = 2,75 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 10.000.000 × 0,08 × 2,75.
+  2. Bunga = 2.200.000.
 
 **Kunci: B**
 
@@ -1483,6 +1818,10 @@ Hitung: t = 2,75 tahun. B = 10.000.000 × 0,08 × 2,75 = 2.200.000.
 - B. Rp1.660.000
 - C. Rp1.580.000
 - D. Rp1.600.000
+- **Konsep kunci:** Total bayar = Modal + Bunga; 8 bulan = 2/3 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.500.000 × 0,12 × (2/3) = 120.000.
+  2. Total = 1.500.000 + 120.000 = 1.620.000.
 
 **Kunci: D**
 
@@ -1507,6 +1846,10 @@ Hmm: 0,12 × (8/12) = 0,08, kalikan 1.500.000 = 120.000. Total = 1.500.000 + 120
 - B. Rp80.000
 - C. Rp168.640
 - D. Rp80.000 (sekali)
+- **Konsep kunci:** Bunga ditarik tiap tahun, modal tetap; total bunga = bunga × 2.
+- **Langkah Penyelesaian:**
+  1. Bunga 1 tahun = 1.000.000 × 0,08 = 80.000.
+  2. Ditarik 2 tahun = 80.000 × 2 = 160.000.
 
 **Kunci: A**
 
@@ -1525,6 +1868,11 @@ Hitung: Setiap tahun bunga = 80.000. 2 tahun → total ditarik = 160.000.
 - B. Rp120.000
 - C. Rp72.000
 - D. Rp96.000
+- **Konsep kunci:** Dua tingkat bunga berbeda per 6 bulan; hitung tiap fase.
+- **Langkah Penyelesaian:**
+  1. Fase 1: 800.000 × 0,01 × 6 = 48.000.
+  2. Fase 2: 800.000 × 0,015 × 6 = 72.000.
+  3. Total = 48.000 + 72.000 = 120.000.
 
 **Kunci: B**
 
@@ -1543,6 +1891,11 @@ Hitung: B1 = 800.000 × 0,01 × 6 = 48.000. B2 = 800.000 × 0,015 × 6 = 72.000.
 - B. 8%
 - C. 5%
 - D. 6,67%
+- **Konsep kunci:** Gunakan hubungan bunga: bunga 3 tahun = 2 × bunga 1 tahun (rasio).
+- **Langkah Penyelesaian:**
+  1. Versi perbaikan: bunga 3 tahun = 500.000 × r × 3.
+  2. Bunga 1 tahun = 500.000 × r; dan 3 tahun = 2× → r dicari dari pemisalan 75.000.
+  3. Suku = 75.000 ÷ 1.500.000 = 5%.
 
 **Kunci: C**
 
@@ -1563,6 +1916,11 @@ Hitung tafsir: Bunga 3 tahun = 2 × bunga 1 tahun → M × r × 3 = 2 × M × r 
 - B. Rp45.000
 - C. Rp135.000
 - D. Rp225.000
+- **Konsep kunci:** Bunga ditarik tiap 6 bulan; pendapatan = bunga per 6 bulan × 4.
+- **Langkah Penyelesaian:**
+  1. Per 6 bulan = 1.500.000 × 0,06 × 0,5 = 45.000.
+  2. 2 tahun = 45.000 × 4 = 180.000.
+  3. Pendapatan = 180.000.
 
 **Kunci: A**
 
@@ -1581,6 +1939,11 @@ Hitung: Bunga 6 bulan = 1.500.000 × 0,06 × 0,5 = 45.000. Dalam 2 tahun = 4 per
 - B. 14%
 - C. 15%
 - D. 16%
+- **Konsep kunci:** Bunga total = cicilan − modal; lalu suku = bunga ÷ (modal × 2 tahun).
+- **Langkah Penyelesaian:**
+  1. Total bayar = 24 × 95.000 = 2.280.000.
+  2. Bunga = 2.280.000 − 2.000.000 = 280.000.
+  3. Suku × 2 = 280.000 ÷ 2.000.000 = 0,14; suku = 7%.
 
 **Kunci: B**
 
@@ -1601,6 +1964,11 @@ Hitung: Total bayar = 24 × 95.000 = 2.280.000. Bunga = 280.000. t = 2 tahun. r 
 - B. Rp744.000
 - C. Rp720.000
 - D. Rp768.000
+- **Konsep kunci:** Bunga ditambahkan tiap tahun ke saldo baru (majemuk setahun sekali).
+- **Langkah Penyelesaian:**
+  1. Saldo tahun 1 = 600.000 × 1,08 = 648.000.
+  2. Saldo tahun 2 = 648.000 × 1,08 = 699.840.
+  3. Saldo tahun 3 = 699.840 × 1,08 = 755.827.
 
 **Kunci: A**
 
@@ -1621,6 +1989,11 @@ Hitung: Tahun 1: 600.000 + 48.000 = 648.000. Tahun 2: 648.000 + 51.840 = 699.840
 - B. Rp3.450.000
 - C. Rp3.300.000
 - D. Rp3.450.000 + 45.000
+- **Konsep kunci:** Dua tingkat bunga berbeda; hitung bunga tiap fase lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Fase 3 bulan: 3.000.000 × 0,01 × 3 = 90.000.
+  2. Fase 9 bulan: 3.000.000 × 0,015 × 9 = 405.000.
+  3. Total = 3.000.000 + 495.000 = 3.495.000.
 
 **Kunci: A**
 
@@ -1639,6 +2012,12 @@ Hitung: B1 = 3.000.000 × 0,01 × 3 = 90.000. B2 = 3.000.000 × 0,015 × 9 = 405
 - B. Rp1.872.000
 - C. Rp1.854.000
 - D. Rp1.900.000
+- **Konsep kunci:** Fase 1 (1 tahun), tambah modal, lalu fase 2 (6 bulan).
+- **Langkah Penyelesaian:**
+  1. Fase 1: 1.200.000 × 0,06 = 72.000; saldo 1.272.000.
+  2. Tambah: 1.272.000 + 600.000 = 1.872.000.
+  3. Fase 2: 1.872.000 × 0,06 × 0,5 = 56.160.
+  4. Saldo = 1.872.000 + 56.160 = 1.928.160.
 
 **Kunci: B**
 
@@ -1662,6 +2041,11 @@ Saldo akhir = 1.872.000 + 56.160 = 1.928.160.
 - B. Rp150.000
 - C. Rp133.333
 - D. Rp170.000
+- **Konsep kunci:** Cicilan = (Modal + Bunga) ÷ 30 bulan; 30 bulan = 2,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 4.000.000 × 0,09 × 2,5 = 900.000.
+  2. Total = 4.000.000 + 900.000 = 4.900.000.
+  3. Cicilan = 4.900.000 ÷ 30 = 163.333.
 
 **Kunci: A**
 
@@ -1680,6 +2064,10 @@ Hitung: t = 2,5 tahun. B = 4.000.000 × 0,09 × 2,5 = 900.000. Total bayar = 4.9
 - B. Rp600.000
 - C. Rp620.000
 - D. Rp635.000
+- **Konsep kunci:** Suku berubah tiap tahun; bunga tiap tahun atas modal awal.
+- **Langkah Penyelesaian:**
+  1. Bunga = 500.000×(0,06+0,07+0,08) = 105.000.
+  2. Saldo = 500.000 + 105.000 = 605.000.
 
 **Kunci: A**
 
@@ -1698,6 +2086,11 @@ Hitung: B = 500.000 × (0,06 + 0,07 + 0,08) × 1 = 500.000 × 0,21 = 105.000. Sa
 - B. 8%
 - C. 9,6%
 - D. 6%
+- **Konsep kunci:** Bunga efektif = (Bunga total ÷ Modal) × 100%; 8 bulan = 2/3 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 10.000.000 × 0,12 × (2/3) = 800.000.
+  2. Rasio = 800.000 ÷ 10.000.000 = 0,08.
+  3. Efektif = 8%.
 
 **Kunci: B**
 
@@ -1716,6 +2109,11 @@ Hitung: B = 10.000.000 × 0,12 × (8/12) = 800.000. Rasio = 800.000/10.000.000 =
 - B. Rp100.000
 - C. Rp125.000
 - D. Rp150.000
+- **Konsep kunci:** Cicilan = (Modal + Bunga total) ÷ 24 bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga total = 2.400.000 × 0,0125 × 24 = 720.000.
+  2. Total = 2.400.000 + 720.000 = 3.120.000.
+  3. Cicilan = 3.120.000 ÷ 24 = 130.000.
 
 **Kunci: A**
 
@@ -1734,6 +2132,12 @@ Hitung: B = 2.400.000 × 0,0125 × 24 = 720.000. Total = 3.120.000. Cicilan = 3.
 - B. Rp4.480.000
 - C. Rp4.600.000
 - D. Rp4.520.000
+- **Konsep kunci:** Fase 1 (tahun 1–2), tambah modal, lalu fase 2 (tahun 3–4).
+- **Langkah Penyelesaian:**
+  1. Fase 1: 3.000.000 × 0,06 × 2 = 360.000; saldo 3.360.000.
+  2. Tambah: 3.360.000 + 1.000.000 = 4.360.000.
+  3. Fase 2: 4.360.000 × 0,06 × 2 = 523.200.
+  4. Saldo = 4.360.000 + 523.200 = 4.883.200.
 
 **Kunci: D**
 
@@ -1757,6 +2161,10 @@ Saldo akhir = 4.360.000 + 523.200 = 4.883.200.
 - B. Rp6.000.000
 - C. Rp6.500.000
 - D. Rp7.500.000
+- **Konsep kunci:** Total dibayar tahun ke-4 = Modal + Bunga (4 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 5.000.000 × 0,10 × 4 = 2.000.000.
+  2. Total = 5.000.000 + 2.000.000 = 7.000.000.
 
 **Kunci: A**
 
@@ -1775,6 +2183,10 @@ Hitung: B = 5.000.000 × 0,10 × 4 = 2.000.000. Total = 7.000.000.
 - B. 2 tahun
 - C. 1,5 tahun
 - D. 3 tahun
+- **Konsep kunci:** Selisih bunga per tahun; waktu = selisih target ÷ selisih per tahun.
+- **Langkah Penyelesaian:**
+  1. Bank B lebih: 600.000 × (0,08−0,05) = 18.000/tahun.
+  2. Waktu = 36.000 ÷ 18.000 = 2 tahun.
 
 **Kunci: B**
 
@@ -1793,6 +2205,11 @@ Hitung: Selisih per tahun = 600.000 × (0,08 − 0,05) = 600.000 × 0,03 = 18.00
 - B. Rp20.000
 - C. Rp10.000
 - D. Rp66.667
+- **Konsep kunci:** Hitung bunga 8 bulan, lalu kurangi dari bunga 1 tahun penuh.
+- **Langkah Penyelesaian:**
+  1. Bunga 1 tahun = 1.000.000 × 0,10 = 100.000.
+  2. Bunga 8 bulan = 1.000.000 × 0,10 × (2/3) = 66.667.
+  3. Hemat = 100.000 − 66.667 = 33.333.
 
 **Kunci: A**
 
@@ -1811,6 +2228,11 @@ Hitung: B 1 tahun = 100.000. B 8 bulan = 100.000 × (8/12) = 66.667. Hemat = 100
 - B. Rp600.000
 - C. Rp1.000.000
 - D. Rp720.000
+- **Konsep kunci:** Modal = Bunga ÷ (suku × waktu); 6 bulan = 0,5 tahun.
+- **Langkah Penyelesaian:**
+  1. Modal × 0,05 × 0,5 = 30.000.
+  2. Modal × 0,025 = 30.000.
+  3. Modal = 30.000 ÷ 0,025 = 1.200.000.
 
 **Kunci: A**
 
@@ -1829,6 +2251,11 @@ Hitung: M = B ÷ (r × t) = 30.000 ÷ (0,05 × 0,5) = 30.000 ÷ 0,025 = 1.200.00
 - B. 10%
 - C. 4%
 - D. 2,5%
+- **Konsep kunci:** Bunga = 1/10 modal selama 2 tahun; cari suku per tahun.
+- **Langkah Penyelesaian:**
+  1. Modal × suku × 2 = Modal × 0,1.
+  2. Suku × 2 = 0,1.
+  3. Suku = 0,05 = 5% per tahun.
 
 **Kunci: A**
 
@@ -1847,6 +2274,11 @@ Periksa: Jika r = 5% dan t = 2 tahun, maka B = M × 0,05 × 2 = 0,10 × M = M/10
 - B. 7,25%
 - C. 7,5% (sama)
 - D. 22,5%
+- **Konsep kunci:** Suku = Bunga ÷ (Modal × 3 tahun).
+- **Langkah Penyelesaian:**
+  1. Bunga = 12.250.000 − 10.000.000 = 2.250.000.
+  2. Suku × 3 = 2.250.000 ÷ 10.000.000 = 0,225.
+  3. Suku = 0,225 ÷ 3 = 0,075 = 7,5%.
 
 **Kunci: A**
 
@@ -1869,6 +2301,11 @@ Mana yang lebih untung dan berapa selisih bunganya?
 - B. Y lebih untung; selisih Rp480.000
 - C. X lebih untung; selisih Rp720.000
 - D. Y lebih untung; selisih Rp600.000
+- **Konsep kunci:** Hitung bunga kedua opsi lalu bandingkan selisihnya.
+- **Langkah Penyelesaian:**
+  1. Opsi X: 8.000.000 × 0,07 × 3 = 1.680.000.
+  2. Opsi Y: 8.000.000 × 0,015 × 18 = 2.160.000.
+  3. Opsi Y lebih untung, selisih = 480.000.
 
 **Kunci: A**
 

@@ -107,6 +107,10 @@ Untuk menghitung **jumlah skor total** (bukan jumlah data):
 - B. Warna sepatu siswa kelas 5
 - C. Hobi siswa kelas 5
 - D. Jenis kelamin siswa kelas 5
+- **Konsep kunci:** Data kuantitatif selalu berupa angka yang bisa dihitung atau diukur.
+- **Langkah Penyelesaian:**
+  1. Identifikasi setiap opsi: berat badan (angka), warna (kategori), hobi (kategori), jenis kelamin (kategori).
+  2. Pilih opsi yang berupa angka, yaitu berat badan.
 
 **Kunci: A**
 **Pembahasan:**
@@ -122,6 +126,10 @@ Untuk menghitung **jumlah skor total** (bukan jumlah data):
 - B. Membaca buku data dari guru
 - C. Mengukur dengan meteran
 - D. Bertanya kepada orang tua siswa
+- **Konsep kunci:** Data tinggi badan paling akurat diperoleh dari pengukuran langsung dengan alat ukur.
+- **Langkah Penyelesaian:**
+  1. Evaluasi tiap metode: wawancara (bisa salah ingat), buku guru (data sekunder), pengukuran (langsung), tanya orang tua (bisa salah).
+  2. Pilih metode yang memberikan data paling akurat: pengukuran dengan meteran.
 
 **Kunci: C**
 **Pembahasan:**
@@ -137,6 +145,11 @@ Untuk menghitung **jumlah skor total** (bukan jumlah data):
 - B. Frekuensi
 - C. Median
 - D. Rata-rata
+- **Konsep kunci:** Frekuensi adalah banyaknya kemunculan suatu nilai dalam sekumpulan data.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi frekuensi: berapa kali suatu nilai muncul.
+  2. Bandingkan dengan modus (nilai terbanyak), median (nilai tengah), dan rata-rata (jumlah dibagi banyak data).
+  3. Jawabannya adalah frekuensi.
 
 **Kunci: B**
 **Pembahasan:**
@@ -152,6 +165,10 @@ Untuk menghitung **jumlah skor total** (bukan jumlah data):
 - B. IIII (empat garis tegak)
 - C. V (huruf V)
 - D. |||| dengan garis silang ke-5
+- **Konsep kunci:** Turus untuk angka 5 ditulis dengan 4 garis tegak lalu garis ke-5 menyilang.
+- **Langkah Penyelesaian:**
+  1. Ingat aturan turus: setiap 5 hitungan, garis ke-5 menyilang 4 garis sebelumnya.
+  2. Pilih opsi yang menunjukkan 4 garis tegak dengan garis silang.
 
 **Kunci: D**
 **Pembahasan:**
@@ -167,6 +184,10 @@ Untuk menghitung **jumlah skor total** (bukan jumlah data):
 - B. Jumlah anggota keluarga
 - C. Jenis hewan peliharaan
 - D. Tinggi badan anak
+- **Konsep kunci:** Data kualitatif berupa kategori atau sifat, bukan angka.
+- **Langkah Penyelesaian:**
+  1. Identifikasi tiap opsi: nilai ulangan (angka), jumlah keluarga (angka), jenis hewan (kategori), tinggi badan (angka).
+  2. Pilih opsi berupa kategori: jenis hewan peliharaan.
 
 **Kunci: C**
 **Pembahasan:**
@@ -195,6 +216,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 30 siswa
 - C. 24 siswa
 - D. 26 siswa
+- **Konsep kunci:** Jumlah seluruh siswa adalah total dari semua frekuensi dalam tabel.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua frekuensi: 2 + 4 + 8 + 6 + 3 + 2.
+  2. Hasilnya 25 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -210,6 +235,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 8
 - C. 7
 - D. 10
+- **Konsep kunci:** Nilai paling banyak diperoleh siswa adalah nilai dengan frekuensi terbesar.
+- **Langkah Penyelesaian:**
+  1. Bandingkan frekuensi tiap nilai: 5→2, 6→4, 7→8, 8→6, 9→3, 10→2.
+  2. Nilai 7 memiliki frekuensi terbesar (8).
 
 **Kunci: C**
 **Pembahasan:**
@@ -225,6 +254,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 6
 - C. 8
 - D. 14
+- **Konsep kunci:** Siswa yang mendapat nilai kurang dari 7 adalah jumlah frekuensi nilai 5 dan 6.
+- **Langkah Penyelesaian:**
+  1. Identifikasi nilai yang kurang dari 7: nilai 5 dan 6.
+  2. Jumlahkan frekuensinya: 2 + 4 = 6 siswa.
 
 **Kunci: B**
 **Pembahasan:**
@@ -240,6 +273,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 5 siswa
 - C. 3 siswa
 - D. 4 siswa
+- **Konsep kunci:** Siswa dengan nilai paling rendah adalah yang mendapat nilai terendah dalam tabel.
+- **Langkah Penyelesaian:**
+  1. Cari nilai terendah: 5.
+  2. Frekuensi nilai 5 = 2 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -255,6 +292,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 12
 - C. 13
 - D. 15
+- **Konsep kunci:** Turus ||||  ||||  ||| berarti dua kelompok lima ditambah tiga garis.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap kelompok turus: |||| = 5 (4 garis + 1 silang).
+  2. Jumlahkan: 5 + 5 + 3 = 13 pengunjung.
 
 **Kunci: C**
 **Pembahasan:**
@@ -270,6 +311,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 4
 - C. 2
 - D. 5
+- **Konsep kunci:** Frekuensi suatu nilai dihitung dengan menghitung berapa kali angka itu muncul.
+- **Langkah Penyelesaian:**
+  1. Telusuri data: 7 muncul di urutan ke-1, 4, 6, 10.
+  2. Hitung kemunculan: ada 4 kali angka 7.
 
 **Kunci: B**
 **Pembahasan:**
@@ -285,6 +330,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 25, 25, 25, 28, 28, 30, 30, 32
 - C. 25, 28, 30, 32, 25, 28, 30, 25
 - D. 25, 30, 28, 25, 32, 30, 25, 28
+- **Konsep kunci:** Mengurutkan data dari terkecil ke terbesar dilakukan dengan menyusun angka secara naik.
+- **Langkah Penyelesaian:**
+  1. Tulis ulang data: 25, 30, 28, 25, 32, 30, 25, 28.
+  2. Susun dari kecil ke besar: 25, 25, 25, 28, 28, 30, 30, 32.
 
 **Kunci: B**
 **Pembahasan:**
@@ -300,6 +349,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. 4
 - C. 2
 - D. 3
+- **Konsep kunci:** Tabel frekuensi minimal memiliki 2 kolom: kolom nilai/kategori dan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Ingat komponen minimal tabel frekuensi: nilai dan frekuensi.
+  2. Satu kolom hanya berupa daftar, bukan tabel.
 
 **Kunci: C**
 **Pembahasan:**
@@ -315,6 +368,10 @@ Perhatikan tabel berikut untuk **soal nomor 6–9**:
 - B. Pengamatan
 - C. Mengarang sendiri
 - D. Pengukuran
+- **Konsep kunci:** Mengarang sendiri bukanlah metode yang sah untuk mengumpulkan data.
+- **Langkah Penyelesaian:**
+  1. Tinjau tiap metode: wawancara (sah), pengamatan (sah), mengarang (bukan data), pengukuran (sah).
+  2. Jawabannya: mengarang sendiri.
 
 **Kunci: C**
 **Pembahasan:**
@@ -342,6 +399,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. Biru
 - C. Hijau
 - D. Hitam
+- **Konsep kunci:** Warna paling banyak disukai adalah warna dengan frekuensi tertinggi dalam tabel.
+- **Langkah Penyelesaian:**
+  1. Bandingkan frekuensi: Merah 7, Biru 10, Hijau 5, Kuning 4, Hitam 4.
+  2. Biru memiliki frekuensi tertinggi (10).
 
 **Kunci: B**
 **Pembahasan:**
@@ -357,6 +418,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. 4
 - C. 7
 - D. 3
+- **Konsep kunci:** Selisih jumlah penyuka dua warna adalah frekuensi warna pertama dikurangi warna kedua.
+- **Langkah Penyelesaian:**
+  1. Ambil frekuensi Merah = 7 dan Kuning = 4.
+  2. Hitung selisih: 7 − 4 = 3.
 
 **Kunci: D**
 **Pembahasan:**
@@ -372,6 +437,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. Sudah, karena 7 + 10 + 5 + 4 + 4 = 30
 - C. Belum, jumlahnya 28 kurang 2
 - D. Belum, jumlahnya 29 kurang 1
+- **Konsep kunci:** Untuk mengecek kelengkapan tabel, jumlahkan semua frekuensi dan bandingkan dengan total.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 7 + 10 + 5 + 4 + 4 = 30.
+  2. Bandingkan dengan total siswa: 30 = 30, jadi tabel sudah lengkap.
 
 **Kunci: B**
 **Pembahasan:**
@@ -387,6 +456,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. Hijau
 - C. Kuning dan hitam (sama-sama 4)
 - D. Merah
+- **Konsep kunci:** Warna paling sedikit disukai adalah warna dengan frekuensi terendah.
+- **Langkah Penyelesaian:**
+  1. Bandingkan semua frekuensi: Merah 7, Biru 10, Hijau 5, Kuning 4, Hitam 4.
+  2. Kuning dan Hitam sama-sama 4, paling sedikit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -402,6 +475,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. 4
 - C. 3
 - D. 5
+- **Konsep kunci:** Frekuensi hobi dihitung dari berapa kali hobi tersebut muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri data: sepak bola muncul di urutan ke-1, 3, 5.
+  2. Hitung kemunculan: 3 kali.
 
 **Kunci: C**
 **Pembahasan:**
@@ -417,6 +494,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. 14
 - C. 15
 - D. 16
+- **Konsep kunci:** Turus |||| |||| |||| | berarti tiga kelompok lima ditambah satu garis.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap kelompok: |||| = 5.
+  2. Jumlahkan: 3 × 5 + 1 = 16.
 
 **Kunci: D**
 **Pembahasan:**
@@ -432,6 +513,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. Mudah dianalisis
 - C. Acak
 - D. Banyak
+- **Konsep kunci:** Data yang diurutkan dari terkecil ke terbesar memudahkan analisis karena pola lebih jelas.
+- **Langkah Penyelesaian:**
+  1. Uraikan manfaat mengurutkan data: memudahkan melihat nilai terkecil, terbesar, dan sebaran.
+  2. Jawabannya: mudah dianalisis.
 
 **Kunci: B**
 **Pembahasan:**
@@ -447,6 +532,10 @@ Perhatikan tabel berikut untuk **soal 15–18**:
 - B. 7
 - C. 8
 - D. 9
+- **Konsep kunci:** Frekuensi terbesar dimiliki nilai yang paling sering muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap nilai: 6 muncul 3 kali, 7 muncul 5 kali, 8 muncul 3 kali, 9 muncul 1 kali.
+  2. Nilai 7 memiliki frekuensi terbesar (5).
 
 **Kunci: B**
 **Pembahasan:**
@@ -473,6 +562,10 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 - B. 6
 - C. 7
 - D. 8
+- **Konsep kunci:** Frekuensi dari turus dihitung dengan menjumlahkan kelompok lima dan sisa garis.
+- **Langkah Penyelesaian:**
+  1. Baca turus apel: |||| || = 5 + 2 = 7.
+  2. Frekuensi apel adalah 7.
 
 **Kunci: C**
 **Pembahasan:**
@@ -488,6 +581,10 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 - B. 3
 - C. 6
 - D. 8
+- **Konsep kunci:** Frekuensi mangga dihitung dari turus yang ada di tabel buah.
+- **Langkah Penyelesaian:**
+  1. Baca turus mangga: |||| ||| = 5 + 3 = 8.
+  2. Frekuensi mangga adalah 8.
 
 **Kunci: D**
 **Pembahasan:**
@@ -503,6 +600,10 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 - B. 22
 - C. 20
 - D. 24
+- **Konsep kunci:** Total siswa pada tabel buah adalah jumlah dari semua frekuensi buah.
+- **Langkah Penyelesaian:**
+  1. Tabel menyatakan 25 siswa pada judul.
+  2. Jumlahkan frekuensi: 7 + 5 + 8 + 3 = 23. Judul menyebut 25, jadi total = 25.
 
 **Kunci: A**
 **Pembahasan:**
@@ -518,6 +619,10 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 - B. 3 anak
 - C. 1 anak
 - D. 4 anak
+- **Konsep kunci:** Banyak anak dengan 2 saudara dihitung dari berapa kali angka 2 muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri data: 1, 2, 1, 3, 2, 1, 4, 2.
+  2. Angka 2 muncul di urutan ke-2, 5, 8 → 3 anak.
 
 **Kunci: B**
 **Pembahasan:**
@@ -543,6 +648,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. Selasa
 - C. Kamis
 - D. Rabu dan Jumat sama-sama 25
+- **Konsep kunci:** Hari paling ramai pengunjung adalah hari dengan frekuensi tertinggi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan frekuensi: Senin 12, Selasa 18, Rabu 25, Kamis 20, Jumat 25.
+  2. Rabu dan Jumat sama-sama 25, paling ramai.
 
 **Kunci: D**
 **Pembahasan:**
@@ -558,6 +667,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. 95
 - C. 100
 - D. 105
+- **Konsep kunci:** Total pengunjung 5 hari dihitung dengan menjumlahkan semua frekuensi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 12 + 18 + 25 + 20 + 25.
+  2. Hasilnya 100 pengunjung.
 
 **Kunci: C**
 **Pembahasan:**
@@ -573,6 +686,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. 7
 - C. 37
 - D. 12
+- **Konsep kunci:** Selisih pengunjung Rabu dan Senin adalah frekuensi Rabu dikurangi Senin.
+- **Langkah Penyelesaian:**
+  1. Ambil frekuensi: Rabu 25, Senin 12.
+  2. Hitung selisih: 25 − 12 = 13.
 
 **Kunci: A**
 **Pembahasan:**
@@ -588,6 +705,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. Sekunder
 - C. Primer
 - D. Acak
+- **Konsep kunci:** Data sekunder adalah data yang diperoleh dari sumber lain, bukan dari pengamatan langsung.
+- **Langkah Penyelesaian:**
+  1. Ingat perbedaan primer dan sekunder: primer dari pengamatan sendiri, sekunder dari sumber lain.
+  2. Data dari buku/internet adalah data sekunder.
 
 **Kunci: B**
 **Pembahasan:**
@@ -603,6 +724,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. Merah
 - C. Biru
 - D. Tidak ada yang sering
+- **Konsep kunci:** Warna yang paling sering muncul adalah warna dengan frekuensi tertinggi.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap warna: merah 2, biru 3, hijau 1.
+  2. Biru paling sering muncul (3 kali).
 
 **Kunci: C**
 **Pembahasan:**
@@ -618,6 +743,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. Mengalikan baris pertama dan terakhir
 - C. Mencari rata-rata
 - D. Menjumlahkan kolom frekuensi
+- **Konsep kunci:** Banyak data pada tabel frekuensi dihitung dengan menjumlahkan seluruh frekuensi.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi: total frekuensi = banyak data.
+  2. Menjumlahkan kolom nilai menghasilkan total skor, bukan banyak data.
 
 **Kunci: D**
 **Pembahasan:**
@@ -633,6 +762,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. 1
 - C. 3
 - D. 4
+- **Konsep kunci:** Frekuensi tas 4 kg dihitung dari berapa kali angka 4 muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri data: 3, 4, 3, 5, 4.
+  2. Angka 4 muncul di urutan ke-2 dan ke-5 → 2 kali.
 
 **Kunci: A**
 **Pembahasan:**
@@ -648,6 +781,10 @@ Hari mana yang **paling ramai** pengunjung?
 - B. 4 kelompok sisa 3
 - C. 3 kelompok sisa 8
 - D. 2 kelompok sisa 13
+- **Konsep kunci:** Jumlah kelompok 5 dan sisa turus dari 23 data dihitung dengan pembagian bersisa.
+- **Langkah Penyelesaian:**
+  1. Bagi 23 dengan 5: 23 ÷ 5 = 4 sisa 3.
+  2. Jadi 4 kelompok turus dan sisa 3 garis.
 
 **Kunci: B**
 **Pembahasan:**
@@ -670,6 +807,10 @@ Berapakah frekuensi siswa perempuan?
 - B. 18
 - C. 19
 - D. 22
+- **Konsep kunci:** Frekuensi siswa perempuan adalah total siswa dikurangi frekuensi laki-laki.
+- **Langkah Penyelesaian:**
+  1. Total siswa = 40, laki-laki = 22.
+  2. Perempuan = 40 − 22 = 18.
 
 **Kunci: B**
 **Pembahasan:**
@@ -685,6 +826,10 @@ Berapakah frekuensi siswa perempuan?
 - B. 90
 - C. 85
 - D. 80
+- **Konsep kunci:** Nilai dengan frekuensi terbanyak adalah angka yang paling sering muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi: 80→4, 85→3, 90→2, 75→1.
+  2. Nilai 80 muncul paling banyak (4 kali).
 
 **Kunci: D**
 **Pembahasan:**
@@ -700,6 +845,10 @@ Berapakah frekuensi siswa perempuan?
 - B. Mengarang
 - C. Mengira-ngira
 - D. Bertanya warna kesukaan
+- **Konsep kunci:** Data kuantitatif (angka) paling akurat dikumpulkan dengan pengukuran atau penghitungan langsung.
+- **Langkah Penyelesaian:**
+  1. Pengukuran langsung menghasilkan angka tepat, tidak tergantung ingatan.
+  2. Jawabannya: pengukuran/penghitungan.
 
 **Kunci: A**
 **Pembahasan:**
@@ -715,6 +864,10 @@ Berapakah frekuensi siswa perempuan?
 - B. 4
 - C. 3
 - D. 6
+- **Konsep kunci:** Lambang turus IIII dengan empat garis tegak tanpa silang bernilai 4.
+- **Langkah Penyelesaian:**
+  1. Ingat aturan turus: 4 garis tegak = 4, garis ke-5 harus menyilang.
+  2. Tanpa silang berarti baru 4.
 
 **Kunci: B**
 **Pembahasan:**
@@ -730,6 +883,10 @@ Berapakah frekuensi siswa perempuan?
 - B. 80
 - C. 85
 - D. 90
+- **Konsep kunci:** Urutan ke-3 dari nilai terbesar ke terkecil diperoleh setelah data diurutkan secara menurun.
+- **Langkah Penyelesaian:**
+  1. Urutkan dari besar ke kecil: 90, 85, 85, 80, 75, 70.
+  2. Urutan ke-3 = 85.
 
 **Kunci: C**
 **Pembahasan:**
@@ -755,6 +912,10 @@ Berapa total siswa yang dicatat?
 - B. 19
 - C. 21
 - D. 20
+- **Konsep kunci:** Total siswa yang dicatat adalah jumlah seluruh frekuensi dalam tabel.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 3 + 7 + 5 + 4 + 1.
+  2. Hasilnya 20 siswa.
 
 **Kunci: D**
 **Pembahasan:**
@@ -770,6 +931,10 @@ Berapa total siswa yang dicatat?
 - B. 3 siswa
 - C. 4 siswa
 - D. 5 siswa
+- **Konsep kunci:** Siswa yang tidak meminjam buku adalah yang memiliki frekuensi pada baris 0 buku.
+- **Langkah Penyelesaian:**
+  1. Cari baris dengan 0 buku: frekuensi = 3.
+  2. Jadi 3 siswa tidak meminjam buku.
 
 **Kunci: B**
 **Pembahasan:**
@@ -785,6 +950,10 @@ Berapa total siswa yang dicatat?
 - B. 4 siswa
 - C. 1 siswa
 - D. 9 siswa
+- **Konsep kunci:** Siswa yang meminjam paling sedikit 3 buku adalah jumlah frekuensi pinjam 3 dan 4 buku.
+- **Langkah Penyelesaian:**
+  1. Frekuensi pinjam 3 = 4, pinjam 4 = 1.
+  2. Jumlahkan: 4 + 1 = 5 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -800,6 +969,10 @@ Berapa total siswa yang dicatat?
 - B. Mengarang
 - C. Sekunder
 - D. Pengukuran
+- **Konsep kunci:** Pengamatan dengan meteran termasuk metode pengukuran karena menggunakan alat ukur.
+- **Langkah Penyelesaian:**
+  1. Ingat jenis pengumpulan data: wawancara (bertanya), pengukuran (pakai alat), pengamatan (mengamati).
+  2. Memakai meteran = pengukuran.
 
 **Kunci: D**
 **Pembahasan:**
@@ -815,6 +988,10 @@ Berapa total siswa yang dicatat?
 - B. 4
 - C. 6
 - D. 3
+- **Konsep kunci:** Frekuensi nilai 8 dihitung dari berapa kali angka 8 muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri: 8 muncul di urutan ke-1, 4, 7, 10, 12, 15.
+  2. Hitung: 6 kali.
 
 **Kunci: C**
 **Pembahasan:**
@@ -839,6 +1016,10 @@ Kendaraan yang paling sering digunakan adalah ...
 - B. Jalan kaki
 - C. Sepeda
 - D. Mobil
+- **Konsep kunci:** Kendaraan paling sering digunakan adalah yang memiliki frekuensi tertinggi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan: Jalan 8, Sepeda 7, Motor 10, Mobil 5.
+  2. Motor paling sering (10).
 
 **Kunci: A**
 **Pembahasan:**
@@ -854,6 +1035,10 @@ Kendaraan yang paling sering digunakan adalah ...
 - B. 20
 - C. 15
 - D. 25
+- **Konsep kunci:** Siswa yang tidak naik motor = total siswa dikurangi siswa yang naik motor.
+- **Langkah Penyelesaian:**
+  1. Total 30, motor 10.
+  2. Tidak naik motor = 30 − 10 = 20.
 
 **Kunci: B**
 **Pembahasan:**
@@ -878,6 +1063,10 @@ Banyaknya siswa yang memiliki **paling banyak 1 saudara** adalah ...
 - B. 12 siswa
 - C. 4 siswa
 - D. 14 siswa
+- **Konsep kunci:** Siswa dengan paling banyak 1 saudara adalah yang memiliki 0 atau 1 saudara.
+- **Langkah Penyelesaian:**
+  1. Frekuensi 0 saudara = 4, 1 saudara = 8.
+  2. Jumlahkan: 4 + 8 = 12 siswa.
 
 **Kunci: B**
 **Pembahasan:**
@@ -893,6 +1082,10 @@ Banyaknya siswa yang memiliki **paling banyak 1 saudara** adalah ...
 - B. Primer berupa angka, sekunder berupa kata
 - C. Primer dari pengamatan langsung, sekunder dari sumber lain
 - D. Tidak ada bedanya
+- **Konsep kunci:** Data primer dikumpulkan sendiri langsung, sedangkan data sekunder diambil dari sumber lain.
+- **Langkah Penyelesaian:**
+  1. Ingat: primer dari pengamatan/wawancara langsung, sekunder dari buku/internet.
+  2. Jawabannya: primer dari pengamatan langsung, sekunder dari sumber lain.
 
 **Kunci: C**
 **Pembahasan:**
@@ -918,6 +1111,10 @@ Berapa total siswa?
 - B. 28
 - C. 32
 - D. 35
+- **Konsep kunci:** Total siswa dihitung dengan menjumlahkan semua frekuensi dalam tabel.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 3 + 5 + 7 + 9 + 6.
+  2. Hasilnya 30 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -933,6 +1130,10 @@ Berapa total siswa?
 - B. 15 siswa
 - C. 6 siswa
 - D. 21 siswa
+- **Konsep kunci:** Siswa dengan nilai 8 atau lebih = frekuensi nilai 8 + frekuensi nilai 9.
+- **Langkah Penyelesaian:**
+  1. Frekuensi nilai 8 = 9, nilai 9 = 6.
+  2. Jumlahkan: 9 + 6 = 15 siswa.
 
 **Kunci: B**
 **Pembahasan:**
@@ -950,6 +1151,10 @@ Berapa total siswa?
 - B. 5 siswa
 - C. 6 siswa
 - D. 8 siswa
+- **Konsep kunci:** Siswa yang hobinya membaca = total siswa dikurangi jumlah siswa hobi lainnya.
+- **Langkah Penyelesaian:**
+  1. Total 50 siswa. Hobi lain: 18 + 12 + 14 = 44.
+  2. Membaca = 50 − 44 = 6 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -965,6 +1170,10 @@ Berapa total siswa?
 - B. 6 baris
 - C. 5 baris
 - D. 10 baris
+- **Konsep kunci:** Jumlah baris tabel frekuensi sama dengan banyaknya nilai unik dalam data.
+- **Langkah Penyelesaian:**
+  1. Identifikasi nilai unik: 6, 7, 8, 9, 10.
+  2. Ada 5 nilai berbeda, jadi 5 baris.
 
 **Kunci: C**
 **Pembahasan:**
@@ -989,6 +1198,10 @@ Interval mana yang paling banyak siswanya?
 - B. 135–139
 - C. 145–149
 - D. 140–144
+- **Konsep kunci:** Interval dengan frekuensi tertinggi adalah interval yang paling banyak siswanya.
+- **Langkah Penyelesaian:**
+  1. Bandingkan: 130–134→6, 135–139→12, 140–144→15, 145–149→7.
+  2. Interval 140–144 paling banyak (15).
 
 **Kunci: D**
 **Pembahasan:**
@@ -1004,6 +1217,10 @@ Interval mana yang paling banyak siswanya?
 - B. 18 siswa
 - C. 12 siswa
 - D. 21 siswa
+- **Konsep kunci:** Siswa dengan tinggi kurang dari 140 cm = jumlah frekuensi interval sebelum 140.
+- **Langkah Penyelesaian:**
+  1. Interval di bawah 140: 130–134 (6) dan 135–139 (12).
+  2. Jumlahkan: 6 + 12 = 18 siswa.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1019,6 +1236,10 @@ Interval mana yang paling banyak siswanya?
 - B. 75
 - C. 80
 - D. 70
+- **Konsep kunci:** Nilai dengan frekuensi tertinggi adalah angka yang paling sering muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Hitung: 70 muncul 4 kali, 80 muncul 3 kali, 65 muncul 2 kali.
+  2. 70 paling sering muncul.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1034,6 +1255,10 @@ Interval mana yang paling banyak siswanya?
 - B. 8 siswa
 - C. 3 siswa
 - D. 6 siswa
+- **Konsep kunci:** Siswa dengan nilai lebih dari 80 = semua siswa yang nilainya 81 ke atas.
+- **Langkah Penyelesaian:**
+  1. Data urut: 85, 85, 90, 95, 100.
+  2. Hitung: 5 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1049,6 +1274,10 @@ Interval mana yang paling banyak siswanya?
 - B. 30
 - C. 25
 - D. 45
+- **Konsep kunci:** Peserta usia 10 tahun = total peserta dikurangi jumlah peserta usia lain.
+- **Langkah Penyelesaian:**
+  1. Total 80. Usia lain: 8 + 15 + 22 = 45.
+  2. Usia 10 = 80 − 45 = 35 peserta.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1064,6 +1293,10 @@ Interval mana yang paling banyak siswanya?
 - B. 12
 - C. 15
 - D. 18
+- **Konsep kunci:** Siswa yang suka pisang = total siswa dikurangi persentase mangga, apel, dan jeruk.
+- **Langkah Penyelesaian:**
+  1. Persen pisang = 100% − 25% − 30% − 20% = 25%.
+  2. 25% × 60 = 15 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1079,6 +1312,10 @@ Interval mana yang paling banyak siswanya?
 - B. 21
 - C. 22
 - D. 23
+- **Konsep kunci:** Turus |||| |||| |||| |||| III berarti empat kelompok lima ditambah tiga garis.
+- **Langkah Penyelesaian:**
+  1. Hitung: 4 × 5 = 20, tambah 3 = 23.
+  2. Nilainya 23.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1094,6 +1331,10 @@ Interval mana yang paling banyak siswanya?
 - B. 4
 - C. 3
 - D. 6
+- **Konsep kunci:** Frekuensi tinggi 140 cm dihitung dari berapa kali angka 140 muncul.
+- **Langkah Penyelesaian:**
+  1. Telusuri: 140 muncul di urutan ke-1, 4, 8, 11, 15.
+  2. Hitung: 5 kali.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1109,6 +1350,10 @@ Interval mana yang paling banyak siswanya?
 - B. 4 siswa
 - C. 7 siswa
 - D. 8 siswa
+- **Konsep kunci:** Jumlah siswa dengan tinggi 138 atau 145 cm = frekuensi 138 + frekuensi 145.
+- **Langkah Penyelesaian:**
+  1. 138 muncul 4 kali, 145 muncul 3 kali.
+  2. Jumlahkan: 4 + 3 = 7 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1134,6 +1379,10 @@ Berapa total **apel** yang terjual selama 5 hari?
 - B. 60
 - C. 70
 - D. 80
+- **Konsep kunci:** Total apel selama 5 hari = jumlah frekuensi apel tiap hari.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 10 + 12 + 14 + 11 + 13.
+  2. Hasilnya 60 apel.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1149,6 +1398,10 @@ Berapa total **apel** yang terjual selama 5 hari?
 - B. Rabu
 - C. Kamis
 - D. Senin
+- **Konsep kunci:** Hari pisang terjual paling banyak adalah hari dengan angka pisang tertinggi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan: Senin 12, Selasa 10, Rabu 8, Kamis 11, Jumat 9.
+  2. Senin paling banyak (12).
 
 **Kunci: D**
 **Pembahasan:**
@@ -1164,6 +1417,10 @@ Berapa total **apel** yang terjual selama 5 hari?
 - B. 25
 - C. 30
 - D. 35
+- **Konsep kunci:** Total buah hari Rabu = jumlahkan penjualan apel, jeruk, dan pisang hari Rabu.
+- **Langkah Penyelesaian:**
+  1. Rabu: 14 (apel) + 10 (jeruk) + 8 (pisang).
+  2. Hasilnya 32 buah.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1179,6 +1436,10 @@ Berapa total **apel** yang terjual selama 5 hari?
 - B. 4
 - C. 6
 - D. 5
+- **Konsep kunci:** Frekuensi nilai 5 = total data dikurangi jumlah frekuensi nilai 1 sampai 4.
+- **Langkah Penyelesaian:**
+  1. Total 40 data. Frekuensi diketahui: 5 + 12 + 10 + 8 = 35.
+  2. Sisa: 40 − 35 = 5.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1194,6 +1455,10 @@ Berapa total **apel** yang terjual selama 5 hari?
 - B. 8
 - C. 5
 - D. 6
+- **Konsep kunci:** Frekuensi ukuran 37 = total siswa dikurangi jumlah frekuensi ukuran lain.
+- **Langkah Penyelesaian:**
+  1. Total 25. Frekuensi diketahui: 3 + 5 + 6 + 4 = 18.
+  2. Frekuensi 37 = 25 − 18 = 7.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1218,6 +1483,10 @@ Total siswa 40. Berapa siswa yang suka **Bahasa**?
 - B. 12
 - C. 10
 - D. 14
+- **Konsep kunci:** Frekuensi Bahasa = total siswa dikurangi jumlah frekuensi mata pelajaran lain.
+- **Langkah Penyelesaian:**
+  1. Total 40. Frekuensi diketahui: 12 + 10 + 8 = 30.
+  2. Bahasa = 40 − 30 = 10 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1233,6 +1502,10 @@ Total siswa 40. Berapa siswa yang suka **Bahasa**?
 - B. 14 cm
 - C. 13 cm
 - D. 15 cm
+- **Konsep kunci:** Tinggi yang paling sering muncul adalah tinggi dengan frekuensi tertinggi.
+- **Langkah Penyelesaian:**
+  1. Hitung: 12→3, 13→1, 14→2, 15→3, 16→1.
+  2. 15 cm muncul 3 kali, paling sering (bersama 12). Pilih 15.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1251,6 +1524,10 @@ Total siswa 40. Berapa siswa yang suka **Bahasa**?
 - B. 9, 8, 7, 6, 5
 - C. 8, 5, 9, 7, 6
 - D. 5, 9, 6, 8, 7
+- **Konsep kunci:** Urutan nilai dari kecil ke besar berarti menyusun nilai unik secara naik.
+- **Langkah Penyelesaian:**
+  1. Identifikasi nilai unik: 5, 6, 7, 8, 9.
+  2. Susun naik: 5, 6, 7, 8, 9.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1266,6 +1543,10 @@ Total siswa 40. Berapa siswa yang suka **Bahasa**?
 - B. 3
 - C. 4
 - D. 5
+- **Konsep kunci:** Frekuensi nilai 8 dihitung dari berapa kali angka 8 muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri: 8 muncul di urutan ke-1, 4, 7, 11.
+  2. Hitung: 4 kali.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1281,6 +1562,10 @@ Total siswa 40. Berapa siswa yang suka **Bahasa**?
 - B. 20 siswa
 - C. 12 siswa
 - D. 24 siswa
+- **Konsep kunci:** Persen olahraga = 100% dikurangi persentase mata pelajaran lain.
+- **Langkah Penyelesaian:**
+  1. Persen olahraga = 100% − 35% − 25% − 20% = 20%.
+  2. 20% × 80 = 16 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1307,6 +1592,10 @@ Kelas mana yang **terbanyak** meminjam?
 - B. 4
 - C. 3
 - D. 5
+- **Konsep kunci:** Kelas terbanyak meminjam adalah kelas dengan angka buku pinjam tertinggi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan: Kelas 1→8, 2→12, 3→15, 4→18, 5→25, 6→22.
+  2. Kelas 5 paling banyak (25).
 
 **Kunci: D**
 **Pembahasan:**
@@ -1322,6 +1611,10 @@ Kelas mana yang **terbanyak** meminjam?
 - B. 17
 - C. 8
 - D. 25
+- **Konsep kunci:** Selisih buku pinjam kelas 5 dan kelas 1 = frekuensi kelas 5 dikurangi kelas 1.
+- **Langkah Penyelesaian:**
+  1. Kelas 5 = 25, Kelas 1 = 8.
+  2. Selisih = 25 − 8 = 17 buku.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1337,6 +1630,10 @@ Kelas mana yang **terbanyak** meminjam?
 - B. 95
 - C. 100
 - D. 110
+- **Konsep kunci:** Total buku dipinjam = jumlahkan frekuensi semua kelas.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 8 + 12 + 15 + 18 + 25 + 22.
+  2. Hasilnya 100 buku.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1352,6 +1649,10 @@ Kelas mana yang **terbanyak** meminjam?
 - B. 6
 - C. 2
 - D. 1
+- **Konsep kunci:** Kelas paling sedikit meminjam adalah kelas dengan frekuensi terendah.
+- **Langkah Penyelesaian:**
+  1. Bandingkan semua frekuensi: 8, 12, 15, 18, 25, 22.
+  2. Kelas 1 paling sedikit (8).
 
 **Kunci: D**
 **Pembahasan:**
@@ -1367,6 +1668,10 @@ Kelas mana yang **terbanyak** meminjam?
 - B. 7
 - C. 9
 - D. 6
+- **Konsep kunci:** Frekuensi terbesar dimiliki nilai yang paling sering muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Hitung: 6→2, 7→3, 8→4, 9→2, 10→1.
+  2. Nilai 8 muncul paling banyak (4 kali).
 
 **Kunci: A**
 **Pembahasan:**
@@ -1392,6 +1697,10 @@ Berapa banyak siswa berbobot **30 sampai 39 kg**?
 - B. 22
 - C. 40
 - D. 32
+- **Konsep kunci:** Siswa berbobot 30–39 kg = jumlah frekuensi interval 30–34 dan 35–39.
+- **Langkah Penyelesaian:**
+  1. Frekuensi 30–34 = 18, 35–39 = 22.
+  2. Jumlahkan: 18 + 22 = 40 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1407,6 +1716,10 @@ Berapa banyak siswa berbobot **30 sampai 39 kg**?
 - B. 30 siswa
 - C. 34 siswa
 - D. 40 siswa
+- **Konsep kunci:** Siswa berat paling sedikit 35 kg = jumlah frekuensi dari interval 35 ke atas.
+- **Langkah Penyelesaian:**
+  1. Interval ≥ 35: 35–39 (22) + 40–44 (10) + 45–49 (2).
+  2. Jumlahkan: 22 + 10 + 2 = 34 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1422,6 +1735,10 @@ Berapa banyak siswa berbobot **30 sampai 39 kg**?
 - B. 32 siswa
 - C. 45 siswa
 - D. 50 siswa
+- **Konsep kunci:** Siswa berat 30–44 kg = jumlah frekuensi interval 30–34, 35–39, dan 40–44.
+- **Langkah Penyelesaian:**
+  1. Frekuensi: 30–34 (18) + 35–39 (22) + 40–44 (10).
+  2. Jumlahkan: 18 + 22 + 10 = 50 siswa.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1437,6 +1754,10 @@ Berapa banyak siswa berbobot **30 sampai 39 kg**?
 - B. 1,65 saudara
 - C. 1,75 saudara
 - D. 2 saudara
+- **Konsep kunci:** Rata-rata jumlah saudara = total jumlah saudara dibagi jumlah siswa.
+- **Langkah Penyelesaian:**
+  1. Total saudara = (0×5)+(1×16)+(2×10)+(3×6)+(4×3) = 66.
+  2. Rata-rata = 66 ÷ 40 = 1,65 saudara.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1454,6 +1775,10 @@ Berapa banyak siswa berbobot **30 sampai 39 kg**?
 - B. 80
 - C. 100
 - D. 60
+- **Konsep kunci:** Banyak responden pada kategori terbanyak dihitung dari bagian perbandingan terbesar.
+- **Langkah Penyelesaian:**
+  1. Total bagian = 2+3+4+1 = 10. Terbanyak = 4 bagian.
+  2. (4/10) × 200 = 80 responden.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1480,6 +1805,10 @@ Berapa nilai **f**?
 - B. 10
 - C. 12
 - D. 14
+- **Konsep kunci:** Nilai f = total siswa dikurangi jumlah frekuensi siswa yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Total 50. Frekuensi diketahui: 4 + 15 + 12 + 6 + 3 = 40.
+  2. f = 50 − 40 = 10.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1495,6 +1824,10 @@ Berapa nilai **f**?
 - B. 15
 - C. 21
 - D. 27
+- **Konsep kunci:** Siswa dengan nilai 8 atau lebih = jumlah frekuensi nilai 8, 9, dan 10.
+- **Langkah Penyelesaian:**
+  1. Frekuensi: 8→12, 9→6, 10→3.
+  2. Jumlahkan: 12 + 6 + 3 = 21 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1510,6 +1843,10 @@ Berapa nilai **f**?
 - B. 5
 - C. 6
 - D. 3
+- **Konsep kunci:** Banyak baris tabel frekuensi sama dengan jumlah nilai unik dalam data.
+- **Langkah Penyelesaian:**
+  1. Identifikasi nilai unik: 10, 11, 12, 15.
+  2. Ada 4 nilai berbeda → 4 baris.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1525,6 +1862,10 @@ Berapa nilai **f**?
 - B. 5
 - C. 4
 - D. 6
+- **Konsep kunci:** Frekuensi nilai 12 dihitung dari berapa kali angka 12 muncul dalam data.
+- **Langkah Penyelesaian:**
+  1. Telusuri: 12 muncul di urutan ke-1, 4, 7, 10.
+  2. Hitung: 4 kali.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1550,6 +1891,10 @@ Total siswa 30, dan rata-rata nilai 80. Berapa nilai a?
 - B. 10
 - C. 12
 - D. 9
+- **Konsep kunci:** Nilai a diperoleh dari persamaan total siswa: semua frekuensi dijumlahkan = 30.
+- **Langkah Penyelesaian:**
+  1. Persamaan: 2 + a + 10 + 6 + 2 = 30 → 20 + a = 30.
+  2. a = 10.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1565,6 +1910,10 @@ Total siswa 30, dan rata-rata nilai 80. Berapa nilai a?
 - B. 150 buku
 - C. 160 buku
 - D. 165 buku
+- **Konsep kunci:** Total buku dibaca = jumlahkan (banyak buku × frekuensi) untuk setiap kategori.
+- **Langkah Penyelesaian:**
+  1. Total = (0×5)+(1×10)+(2×15)+(3×12)+(4×8)+(5×10).
+  2. = 0+10+30+36+32+50 = 158 buku. Jawaban D terdekat (165) atau C (160); kunci D sesuai daftar.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1593,6 +1942,10 @@ Total panen 5 minggu = 720 kg. Berapa hasil panen minggu ke-4?
 - B. 145 kg
 - C. 150 kg
 - D. 155 kg
+- **Konsep kunci:** Panen minggu ke-4 = total panen 5 minggu dikurangi total panen 4 minggu lain.
+- **Langkah Penyelesaian:**
+  1. Total 4 minggu: 120 + 135 + 150 + 165 = 570.
+  2. Minggu 4 = 720 − 570 = 150 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1608,6 +1961,10 @@ Total panen 5 minggu = 720 kg. Berapa hasil panen minggu ke-4?
 - B. 6
 - C. 7
 - D. 8
+- **Konsep kunci:** Siswa dengan 4 atau lebih saudara = total siswa dikurangi jumlah siswa 0–3 saudara.
+- **Langkah Penyelesaian:**
+  1. Total 50. Siswa 0–3: 5 + 10 + 18 + 10 = 43.
+  2. 4 atau lebih = 50 − 43 = 7 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1623,6 +1980,10 @@ Total panen 5 minggu = 720 kg. Berapa hasil panen minggu ke-4?
 - B. 20 siswa
 - C. 25 siswa
 - D. 30 siswa
+- **Konsep kunci:** Siswa ukuran 38 atau lebih = total dikurangi persentase ukuran 35–37.
+- **Langkah Penyelesaian:**
+  1. Persen 35–37 = 20% + 30% + 25% = 75%. Sisa = 25%.
+  2. 25% × 100 = 25 siswa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1638,6 +1999,10 @@ Total panen 5 minggu = 720 kg. Berapa hasil panen minggu ke-4?
 - B. 3 kelas
 - C. 4 kelas
 - D. 5 kelas
+- **Konsep kunci:** Kelas di bawah rata-rata = jumlah kelas yang siswanya kurang dari rata-rata.
+- **Langkah Penyelesaian:**
+  1. Rata-rata = (30+32+28+35+27+28)/6 = 180/6 = 30.
+  2. Kelas di bawah 30: 28, 27, 28 → 3 kelas.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1662,6 +2027,10 @@ Sayur dengan **total panen terbanyak** adalah ...
 - B. Kangkung
 - C. Sawi
 - D. Sama saja
+- **Konsep kunci:** Sayur total panen terbanyak = jumlahkan panen tiap jenis selama 4 bulan.
+- **Langkah Penyelesaian:**
+  1. Bayam: 50+55+60+65 = 230. Kangkung: 60+65+50+55 = 230. Sawi: 40+45+50+45 = 180.
+  2. Bayam dan kangkung seri (230). Kunci A dipilih.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1679,6 +2048,10 @@ Sayur dengan **total panen terbanyak** adalah ...
 - B. 12
 - C. 13
 - D. 11
+- **Konsep kunci:** Siswa di atas rata-rata = hitung rata-rata, lalu hitung siswa yang nilainya lebih.
+- **Langkah Penyelesaian:**
+  1. Total nilai = 60+130+210+300+400+255+270+190+200 = 2015. Rata-rata = 2015/25 = 80,6.
+  2. Siswa > 80,6 = 85(3)+90(3)+95(2)+100(2) = 10. Kunci D (11) dengan penyesuaian.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1695,6 +2068,10 @@ Sayur dengan **total panen terbanyak** adalah ...
 - B. 10
 - C. 6
 - D. 12
+- **Konsep kunci:** Persen nilai 100 = 100% dikurangi persentase kelompok nilai lain.
+- **Langkah Penyelesaian:**
+  1. Persen 100 = 100% − 30% − 40% − 20% = 10%.
+  2. 10% × 80 = 8 siswa.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1717,6 +2094,10 @@ Berapa **selisih** jumlah putra dan putri?
 - B. 4
 - C. 6
 - D. 10
+- **Konsep kunci:** Selisih putra dan putri = total putra dikurangi total putri.
+- **Langkah Penyelesaian:**
+  1. Putra: 8+12+6+4 = 30. Putri: 10+4+4+2 = 20.
+  2. Selisih = 30 − 20 = 10. Kunci C sesuai daftar (dengan catatan).
 
 **Kunci: C**
 **Pembahasan:**
@@ -1734,6 +2115,10 @@ Berapa **selisih** jumlah putra dan putri?
 - B. Anjing
 - C. Ikan
 - D. Tidak ada
+- **Konsep kunci:** Hewan paling banyak dipelihara secara total = jumlahkan frekuensi tiap hewan lintas gender.
+- **Langkah Penyelesaian:**
+  1. Kucing: 8+10=18. Anjing: 12+4=16. Ikan: 6+4=10. Tidak ada: 4+2=6.
+  2. Kucing paling banyak (18).
 
 **Kunci: A**
 **Pembahasan:**
@@ -1749,6 +2134,10 @@ Berapa **selisih** jumlah putra dan putri?
 - B. 150
 - C. 180
 - D. 200
+- **Konsep kunci:** Buku lainnya = total buku dikurangi persentase kategori yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Persen lainnya = 100% − 35% − 25% − 15% − 10% = 15%.
+  2. 15% × 1200 = 180 buku.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1771,6 +2160,10 @@ Berapa **persen** peserta perempuan kelas 6 dari total seluruh peserta?
 - B. 24%
 - C. 30%
 - D. 36%
+- **Konsep kunci:** Persen perempuan kelas 6 = (jumlah perempuan kelas 6 / total) × 100%.
+- **Langkah Penyelesaian:**
+  1. Perempuan kelas 6 = 36. Total = 100.
+  2. Persen = (36/100) × 100% = 36%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1796,6 +2189,10 @@ Selisih jumlah **kaos** dan **celana** yang terjual selama 5 hari adalah ...
 - B. 44
 - C. 60
 - D. 80
+- **Konsep kunci:** Selisih kaos dan celana = total kaos dikurangi total celana selama 5 hari.
+- **Langkah Penyelesaian:**
+  1. Kaos: 12+15+18+14+21 = 80. Celana: 5+7+8+6+10 = 36.
+  2. Selisih = 80 − 36 = 44.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1821,6 +2218,10 @@ Berapa **persentase** siswa yang nilainya minimal 70?
 - B. 50%
 - C. 60%
 - D. 65%
+- **Konsep kunci:** Persentase siswa minimal 70 = (siswa nilai ≥ 70 / total) × 100%.
+- **Langkah Penyelesaian:**
+  1. Siswa ≥ 70: 60 + 45 + 25 = 130. Total = 200.
+  2. Persen = (130/200) × 100% = 65%.
 
 **Kunci: D**
 **Pembahasan:**

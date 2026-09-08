@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildTime": "2026-05-19T13:01:47.042Z",
+  "buildTime": "2026-09-08T17:22:50.648Z",
   "items": [
     {
       "id": "ipa-01-makhluk-hidup-campur",
@@ -2468,7 +2468,7 @@
       "slug": "luas-persegi",
       "tier": "campur",
       "title": "OSN SD · MTK · Sub-bab MTK-03f · Luas Persegi & Persegi Panjang",
-      "questionCount": 105,
+      "questionCount": 100,
       "theorySectionCount": 3,
       "file": "mtk-03f-luas-persegi-campur.json"
     },
@@ -2598,7 +2598,7 @@
       "slug": "volume-balok",
       "tier": "campur",
       "title": "OSN SD · MTK · Sub-bab MTK-04c · Volume Balok",
-      "questionCount": 112,
+      "questionCount": 100,
       "theorySectionCount": 4,
       "file": "mtk-04c-volume-balok-campur.json"
     },
@@ -2637,7 +2637,7 @@
       "slug": "volume-kerucut-bola",
       "tier": "campur",
       "title": "OSN SD · MTK · Sub-bab MTK-04f · Volume Kerucut & Bola",
-      "questionCount": 101,
+      "questionCount": 100,
       "theorySectionCount": 8,
       "file": "mtk-04f-volume-kerucut-bola-campur.json"
     },
@@ -2832,7 +2832,7 @@
       "slug": "konversi-kecepatan",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 104,
+      "questionCount": 100,
       "theorySectionCount": 6,
       "file": "mtk-05h-konversi-kecepatan-campur.json"
     },
@@ -2845,7 +2845,7 @@
       "slug": "debit",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 102,
+      "questionCount": 100,
       "theorySectionCount": 7,
       "file": "mtk-05i-debit-campur.json"
     },
@@ -2962,7 +2962,7 @@
       "slug": "pajak",
       "tier": "campur",
       "title": "OSN/KSN SD — MTK · Sub-Bab 06f: Pajak — PPN & PPh (Tingkat Campur)",
-      "questionCount": 120,
+      "questionCount": 100,
       "theorySectionCount": 12,
       "file": "mtk-06f-pajak-campur.json"
     },
@@ -3001,7 +3001,7 @@
       "slug": "skala",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 113,
+      "questionCount": 100,
       "theorySectionCount": 8,
       "file": "mtk-06i-skala-campur.json"
     },
@@ -3105,7 +3105,7 @@
       "slug": "median",
       "tier": "campur",
       "title": "OSN/KSN SD — MTK · Sub-Bab 07g: Median / Nilai Tengah (Tingkat Campur)",
-      "questionCount": 101,
+      "questionCount": 100,
       "theorySectionCount": 8,
       "file": "mtk-07g-median-campur.json"
     },
@@ -3157,7 +3157,7 @@
       "slug": "peluang-sederhana",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 124,
+      "questionCount": 100,
       "theorySectionCount": 10,
       "file": "mtk-07k-peluang-sederhana-campur.json"
     },
@@ -3196,7 +3196,7 @@
       "slug": "pola-aritmetika",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 126,
+      "questionCount": 100,
       "theorySectionCount": 11,
       "file": "mtk-08a-pola-aritmetika-campur.json"
     },
@@ -3209,7 +3209,7 @@
       "slug": "pola-geometri",
       "tier": "campur",
       "title": "OSN/KSN SD — MATEMATIKA",
-      "questionCount": 115,
+      "questionCount": 100,
       "theorySectionCount": 9,
       "file": "mtk-08b-pola-geometri-campur.json"
     },
@@ -3261,7 +3261,7 @@
       "slug": "persamaan-satu-variabel",
       "tier": "campur",
       "title": "OSN/KSN SD — MTK · Sub-Bab 08f: Persamaan Linear Satu Variabel / PLSV (Tingkat Campur)",
-      "questionCount": 119,
+      "questionCount": 100,
       "theorySectionCount": 15,
       "file": "mtk-08f-persamaan-satu-variabel-campur.json"
     },

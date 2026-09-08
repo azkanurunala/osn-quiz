@@ -106,6 +106,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai K = 2 × π × d (padahal d sudah dua kali r), jadi terkali dua kali lipat.
 - **D** — Salah. Memakai rumus **luas** L = π × r² = 22/7 × 7² = 22 × 7 = 154 cm² (bukan keliling).
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 14 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 14 = 22 × 2.
+  3. Hasil K = 44 cm.
 ---
 
 **2.** Keliling lingkaran dengan jari-jari 7 cm adalah … (π = 22/7)
@@ -120,6 +125,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Itu nilai diameter (2 × 7 = 14), bukan keliling.
 - **D** — Salah. Itu rumus luas: 22/7 × 7² = 154 cm² (satuan luas, bukan keliling).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 7 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 7 = 2 × 22.
+  3. Hasil K = 44 cm.
 ---
 
 **3.** Sebuah lingkaran memiliki diameter 28 cm. Kelilingnya adalah … (π = 22/7)
@@ -134,6 +144,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = π × d = 22/7 × 28 = 22 × 4 = 88 cm.
 - **D** — Salah. Memakai K = 2 × π × d (padahal d sudah utuh): 2 × 88 = 176. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 28 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 28 = 22 × 4.
+  3. Hasil K = 88 cm.
 ---
 
 **4.** Keliling lingkaran dengan jari-jari 21 cm adalah … (π = 22/7)
@@ -148,6 +163,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 42 (= diameter), tidak pakai π.
 - **D** — Benar. K = 2 × π × r = 2 × 22/7 × 21 = 2 × 66 = 132 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 21 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 21 = 2 × 66.
+  3. Hasil K = 132 cm.
 ---
 
 **5.** Diameter sebuah piring bundar 10 cm. Keliling tepi piring tersebut … (π = 3,14)
@@ -162,6 +182,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai π × r = 3,14 × 5 = 15,7. Lupa kalikan 2.
 - **D** — Salah. Memakai rumus luas: π × r² = 3,14 × 25 = 78,5 cm² (luas, bukan keliling).
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 10 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 10.
+  3. Hasil K = 31,4 cm.
 ---
 
 **6.** Keliling lingkaran dengan jari-jari 10 cm adalah … (π = 3,14)
@@ -176,6 +201,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai rumus luas: π × r² = 3,14 × 100 = 314 cm² (luas).
 - **D** — Salah. Hanya 2 × r = 20 = diameter, tidak pakai π.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 10 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 10 = 6,28 × 10.
+  3. Hasil K = 62,8 cm.
 ---
 
 **7.** Lingkaran A memiliki d = 21 cm. Kelilingnya adalah … (π = 22/7)
@@ -190,6 +220,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = π × d = 22/7 × 21 = 22 × 3 = 66 cm.
 - **D** — Salah. Itu nilai d sendiri, tidak ada perhitungan keliling.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 21 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 21 = 22 × 3.
+  3. Hasil K = 66 cm.
 ---
 
 **8.** Sebuah roda sepeda mempunyai jari-jari 35 cm. Keliling roda tersebut … (π = 22/7)
@@ -204,6 +239,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai π saja (22/7 × 7), salah substitusi.
 - **D** — Benar. K = 2 × π × r = 2 × 22/7 × 35 = 2 × 110 = 220 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 35 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 35 = 2 × 110.
+  3. Hasil K = 220 cm.
 ---
 
 **9.** Diameter sebuah cincin 4,2 cm. Keliling cincin tersebut … (π = 22/7)
@@ -218,6 +258,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai π × r = 22/7 × 2,1 = 6,6. Lupa kalikan 2.
 - **D** — Salah. Itu d sendiri, tidak ada operasi.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 4,2 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 4,2.
+  3. Hasil K = 13,2 cm.
 ---
 
 **10.** Keliling lingkaran dengan jari-jari 14 cm adalah … (π = 22/7)
@@ -232,6 +277,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 28 (= d), tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 44 = 176. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 14 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 14 = 2 × 44.
+  3. Hasil K = 88 cm.
 ---
 
 **11.** Diameter sebuah lubang sumur 70 cm. Kelilingnya … (π = 22/7)
@@ -246,6 +296,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 220 = 440.
 - **D** — Salah. Itu nilai d sendiri.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 70 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 70 = 22 × 10.
+  3. Hasil K = 220 cm.
 ---
 
 **12.** Sebuah lingkaran mempunyai jari-jari 49 cm. Kelilingnya … (π = 22/7)
@@ -260,6 +315,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = 2 × π × r = 2 × 22/7 × 49 = 2 × 154 = 308 cm.
 - **D** — Salah. Hanya 2 × r = 98 = diameter, tidak pakai π.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 49 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 49 = 2 × 154.
+  3. Hasil K = 308 cm.
 ---
 
 **13.** Keliling lingkaran dengan diameter 35 cm adalah … (π = 22/7)
@@ -274,6 +334,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = π × d = 22/7 × 35 = 22 × 5 = 110 cm.
 - **D** — Salah. Hanya 2 × d = 70, tidak pakai π.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 35 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 35 = 22 × 5.
+  3. Hasil K = 110 cm.
 ---
 
 **14.** Sebuah jam dinding berbentuk lingkaran berdiameter 20 cm. Keliling jam … (π = 3,14)
@@ -288,6 +353,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai rumus luas: π × r² = 3,14 × 100 = 314 cm² (luas).
 - **D** — Benar. K = π × d = 3,14 × 20 = 62,8 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 20 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 20.
+  3. Hasil K = 62,8 cm.
 ---
 
 **15.** Keliling lingkaran dengan jari-jari 25 cm adalah … (π = 3,14)
@@ -302,6 +372,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 50 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 2 × π × d = 2 × 3,14 × 50 = 314 (terkali ×2).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 25 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 25 = 6,28 × 25.
+  3. Hasil K = 157 cm.
 ---
 
 **16.** Sebuah taplak meja bundar berdiameter 1,4 m. Keliling tepi taplak tersebut … (π = 22/7)
@@ -316,6 +391,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai rumus luas: π × r² = 22/7 × 0,49 = 1,54 m². Bukan keliling.
 - **D** — Salah. Itu d sendiri, tidak ada operasi.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 1,4 m (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 1,4 = 22 × 0,2.
+  3. Hasil K = 4,4 m.
 ---
 
 **17.** Diameter sebuah lingkaran 56 cm. Kelilingnya … (π = 22/7)
@@ -330,6 +410,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 176 = 352.
 - **D** — Salah. Hanya 2 × d = 112, tidak pakai π.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 56 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 56 = 22 × 8.
+  3. Hasil K = 176 cm.
 ---
 
 **18.** Sebuah ban mobil berjari-jari 28 cm. Keliling ban … (π = 22/7)
@@ -344,6 +429,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Salah ambil r = 14, lalu π × r = 44.
 - **D** — Benar. K = 2 × π × r = 2 × 22/7 × 28 = 2 × 88 = 176 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 28 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 28 = 2 × 88.
+  3. Hasil K = 176 cm.
 ---
 
 **19.** Sebuah kue tar berdiameter 30 cm. Keliling tepi kue … (π = 3,14)
@@ -358,6 +448,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 60, tidak pakai π.
 - **D** — Salah. Memakai rumus luas: π × r² = 3,14 × 225 = 706,5 cm² (luas, bukan keliling).
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 30 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 30.
+  3. Hasil K = 94,2 cm.
 ---
 
 **20.** Keliling lingkaran dengan jari-jari 50 cm adalah … (π = 3,14)
@@ -372,6 +467,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 100 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 2.500 = 7.850 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 50 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 50 = 6,28 × 50.
+  3. Hasil K = 314 cm.
 ---
 
 **21.** Sebuah lingkaran berdiameter 100 cm. Kelilingnya … (π = 3,14)
@@ -386,6 +486,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 314 = 628.
 - **D** — Salah. Hanya 2 × d = 200, tidak pakai π.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 100 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 100.
+  3. Hasil K = 314 cm.
 ---
 
 **22.** Lingkaran dengan r = 4,9 cm memiliki keliling … (π = 22/7)
@@ -400,6 +505,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 9,8 = diameter, tidak pakai π.
 - **D** — Salah. Setengah dari π × r (operasi salah).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 4,9 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 4,9 = 2 × 15,4.
+  3. Hasil K = 30,8 cm.
 ---
 
 **23.** Diameter lingkaran 42 cm. Kelilingnya … (π = 22/7)
@@ -414,6 +524,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = π × d = 22/7 × 42 = 22 × 6 = 132 cm.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 132 = 264.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 42 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 42 = 22 × 6.
+  3. Hasil K = 132 cm.
 ---
 
 **24.** Keliling lingkaran dengan diameter 7 cm adalah … (π = 22/7)
@@ -428,6 +543,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 22 = 44.
 - **D** — Benar. K = π × d = 22/7 × 7 = 22 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 7 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 7.
+  3. Hasil K = 22 cm.
 ---
 
 **25.** Sebuah lingkaran berjari-jari 100 cm. Kelilingnya … (π = 3,14)
@@ -442,6 +562,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 200 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 10.000 = 31.400 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 100 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 100.
+  3. Hasil K = 628 cm.
 ---
 
 **26.** Lingkaran berdiameter 63 cm memiliki keliling … (π = 22/7)
@@ -456,6 +581,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 126, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 198 = 396.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 63 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 63 = 22 × 9.
+  3. Hasil K = 198 cm.
 ---
 
 **27.** Keliling lingkaran dengan jari-jari 3,5 cm … (π = 22/7)
@@ -470,6 +600,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Benar. K = 2 × π × r = 2 × 22/7 × 3,5 = 2 × 11 = 22 cm.
 - **D** — Salah. Setengah dari π × r (operasi salah).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 3,5 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 3,5 = 2 × 11.
+  3. Hasil K = 22 cm.
 ---
 
 **28.** Sebuah meja bundar mempunyai jari-jari 70 cm. Keliling meja … (π = 22/7)
@@ -484,6 +619,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Salah ambil r = 35, lalu π × r = 110.
 - **D** — Benar. K = 2 × π × r = 2 × 22/7 × 70 = 2 × 220 = 440 cm.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 70 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 70 = 2 × 220.
+  3. Hasil K = 440 cm.
 ---
 
 **29.** Diameter lingkaran 1,4 m. Kelilingnya dalam cm adalah … (π = 22/7)
@@ -498,6 +638,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Lupa konversi: memakai d = 1,4 (m) langsung di rumus → 22/7 × 1,4 = 4,4. Lalu salah lagi mengubah jadi 44.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 440 = 880.
 
+- **Konsep kunci:** Sebelum dihitung, satuan diameter harus disamakan dulu ke cm.
+- **Langkah Penyelesaian:**
+  1. Ubah d = 1,4 m menjadi 140 cm (1 m = 100 cm).
+  2. Pilih π = 22/7 (140 kelipatan 7), hitung K = π × d = 22/7 × 140 = 22 × 20.
+  3. Hasil K = 440 cm.
 ---
 
 **30.** Keliling lingkaran dengan r = 14 cm … (π = 22/7)
@@ -512,6 +657,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 28 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 44 = 176. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 14 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 14 = 2 × 44.
+  3. Hasil K = 88 cm.
 ---
 
 **31.** Sebuah pizza berdiameter 40 cm. Keliling pizza … (π = 3,14)
@@ -526,6 +676,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 80, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 400 = 1.256 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 40 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 40.
+  3. Hasil K = 125,6 cm.
 ---
 
 **32.** Keliling lingkaran dengan jari-jari 6,3 cm … (π = 22/7)
@@ -540,6 +695,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 12,6 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 19,8 = 79,2. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 6,3 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 6,3 = 2 × 19,8.
+  3. Hasil K = 39,6 cm.
 ---
 
 **33.** Sebuah kolam ikan berbentuk lingkaran berjari-jari 1,4 m. Keliling tepi kolam … (π = 22/7)
@@ -554,6 +714,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 2,8 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 4,4 = 17,6. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 1,4 m (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 1,4 = 2 × 4,4.
+  3. Hasil K = 8,8 m.
 ---
 
 **34.** Diameter sebuah donat 14 cm. Keliling tepi luar donat … (π = 22/7)
@@ -568,6 +733,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 28, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 44 = 88.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 14 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 14 = 22 × 2.
+  3. Hasil K = 44 cm.
 ---
 
 **35.** Sebuah lingkaran berjari-jari 200 cm. Kelilingnya … (π = 3,14)
@@ -582,6 +752,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 400 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 40.000 = 125.600 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 200 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 200 = 6,28 × 200.
+  3. Hasil K = 1.256 cm.
 ---
 
 **36.** Sebuah tutup kaleng berdiameter 8 cm. Keliling tutup … (π = 3,14)
@@ -596,6 +771,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 16, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 16 = 50,24 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 8 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = π × d = 3,14 × 8.
+  3. Hasil K = 25,12 cm.
 ---
 
 **37.** Keliling lingkaran berjari-jari 5 cm adalah … (π = 3,14)
@@ -610,6 +790,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 10 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 25 = 78,5 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 5 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 5 = 6,28 × 5.
+  3. Hasil K = 31,4 cm.
 ---
 
 **38.** Diameter sebuah lingkaran 2,8 m. Kelilingnya … (π = 22/7)
@@ -624,6 +809,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 5,6, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 8,8 = 17,6.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 2,8 m (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 2,8 = 22 × 0,4.
+  3. Hasil K = 8,8 m.
 ---
 
 **39.** Sebuah lingkaran memiliki jari-jari 17,5 cm. Kelilingnya … (π = 22/7)
@@ -638,6 +828,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 35 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 55 = 220. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 17,5 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 17,5 = 2 × 55.
+  3. Hasil K = 110 cm.
 ---
 
 **40.** Sebuah kancing baju berdiameter 1,4 cm. Keliling kancing … (π = 22/7)
@@ -652,6 +847,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Itu nilai d sendiri, tidak ada operasi.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 4,4 = 8,8.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 1,4 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 1,4 = 22 × 0,2.
+  3. Hasil K = 4,4 cm.
 ---
 
 **41.** Lingkaran dengan r = 11,2 cm memiliki keliling … (π = 22/7)
@@ -666,6 +866,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 22,4 = diameter, tidak pakai π.
 - **D** — Salah. Setengah dari π × r (operasi salah).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 11,2 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 11,2 = 2 × 35,2.
+  3. Hasil K = 70,4 cm.
 ---
 
 **42.** Sebuah lingkaran berdiameter 4,9 cm. Kelilingnya … (π = 22/7)
@@ -680,6 +885,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 9,8, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 15,4 = 30,8.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 4,9 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 4,9 = 22 × 0,7.
+  3. Hasil K = 15,4 cm.
 ---
 
 **43.** Keliling lingkaran dengan jari-jari 0,7 m adalah … (π = 22/7)
@@ -694,6 +904,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 1,4 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 4 × π × r = 4 × 2,2 = 8,8. Kelebihan ×2.
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 0,7 m (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 0,7 = 2 × 2,2.
+  3. Hasil K = 4,4 m.
 ---
 
 **44.** Diameter sebuah lingkaran 0,49 m. Kelilingnya … (π = 22/7)
@@ -708,6 +923,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 0,98, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 1,54 = 3,08.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 0,49 m (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 0,49 = 22 × 0,07.
+  3. Hasil K = 1,54 m.
 ---
 
 **45.** Sebuah lingkaran berjari-jari 8 cm. Kelilingnya … (π = 3,14)
@@ -722,6 +942,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 16 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 64 = 200,96 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 8 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 8 = 6,28 × 8.
+  3. Hasil K = 50,24 cm.
 ---
 
 **46.** Sebuah uang logam berdiameter 2,8 cm. Keliling uang logam … (π = 22/7)
@@ -736,6 +961,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 5,6, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 8,8 = 17,6.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 2,8 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 2,8 = 22 × 0,4.
+  3. Hasil K = 8,8 cm.
 ---
 
 **47.** Lingkaran berjari-jari 12,5 cm memiliki keliling … (π = 3,14)
@@ -750,6 +980,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 25 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 156,25 = 490,625 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 12,5 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 12,5 = 6,28 × 12,5.
+  3. Hasil K = 78,5 cm.
 ---
 
 **48.** Diameter sebuah lingkaran 77 cm. Kelilingnya … (π = 22/7)
@@ -764,6 +999,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 154, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 242 = 484.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 77 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 77 = 22 × 11.
+  3. Hasil K = 242 cm.
 ---
 
 **49.** Sebuah lingkaran berdiameter 9,8 cm. Kelilingnya … (π = 22/7)
@@ -778,6 +1018,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × d = 19,6, tidak pakai π.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2). 2 × 30,8 = 61,6.
 
+- **Konsep kunci:** Keliling lingkaran dari diameter dihitung dengan rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui d = 9,8 cm (kelipatan 7), pilih π = 22/7.
+  2. Hitung K = π × d = 22/7 × 9,8 = 22 × 1,4.
+  3. Hasil K = 30,8 cm.
 ---
 
 **50.** Sebuah cermin bundar berjari-jari 30 cm. Keliling tepi cermin … (π = 3,14)
@@ -792,6 +1037,11 @@ Hitung keliling langsung dari r atau d. 1–2 langkah. Fokus prosedur dasar.
 - **C** — Salah. Hanya 2 × r = 60 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 900 = 2.826 cm² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r, jangan lupa dikalikan 2.
+- **Langkah Penyelesaian:**
+  1. Diketahui r = 30 cm (bukan kelipatan 7), pilih π = 3,14.
+  2. Hitung K = 2 × π × r = 2 × 3,14 × 30 = 6,28 × 30.
+  3. Hasil K = 188,4 cm.
 ---
 
 ## 🔵 TINGKAT PROVINSI (Soal 51–80)
@@ -812,6 +1062,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Benar. K = 2 × 22/7 × 35 = 220 cm. Jarak = 220 × 100 = 22.000 cm = **220 m**.
 - **D** — Salah. Memakai 10 putaran (bukan 100), atau salah pangkat satuan.
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 35 = 220 cm.
+  2. Jarak = K × 100 putaran = 22.000 cm.
+  3. Ubah ke meter: 22.000 cm = 220 m.
 ---
 
 **52.** Sebuah roda berdiameter 70 cm. Jika roda berputar 50 kali, jarak yang ditempuh … (π = 22/7)
@@ -826,6 +1081,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Salah pembagian: 11.000 ÷ 1.000 = 11 (mengira 1 m = 1.000 cm), padahal 1 m = 100 cm.
 - **D** — Salah. Hanya 1.100 cm (kurang ×10), salah kali.
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 70 = 220 cm.
+  2. Jarak = 220 × 50 = 11.000 cm.
+  3. Ubah ke meter: 11.000 cm = 110 m.
 ---
 
 **53.** Sebuah ban truk berjari-jari 49 cm. Ban tersebut berputar 200 kali. Jarak tempuh truk … (π = 22/7)
@@ -840,6 +1100,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Benar. K = 2 × 22/7 × 49 = 308 cm. Jarak = 308 × 200 = 61.600 cm = **616 m**.
 - **D** — Salah. Memakai K = π × r = 154, lalu mengira sudah meter.
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 49 = 308 cm.
+  2. Jarak = 308 × 200 = 61.600 cm.
+  3. Ubah ke meter: 61.600 cm = 616 m.
 ---
 
 **54.** Roda kereta dorong berdiameter 28 cm. Kereta berjalan sejauh 88 m. Berapa kali roda berputar? (π = 22/7)
@@ -854,6 +1119,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Kelebihan ×10: 88.000 ÷ 88 = 1.000. Mengira 1 m = 1.000 cm.
 - **D** — Salah. Hanya membagi 88 dengan 1 (tanpa hitung K), salah konsep.
 
+- **Konsep kunci:** Banyak putaran roda = jarak total ÷ keliling roda (satuan harus disamakan dulu).
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 28 = 88 cm.
+  2. Ubah jarak 88 m menjadi 8.800 cm.
+  3. Putaran = 8.800 ÷ 88 = 100 kali.
 ---
 
 **55.** Jika keliling lingkaran 44 cm, jari-jarinya … (π = 22/7)
@@ -868,6 +1138,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai r = K ÷ 2 = 22, lupa bagi π.
 - **D** — Salah. Memakai r = K ÷ (4 × π) = 44 ÷ (4 × 22/7) = 3,5. Kelebihan ×2.
 
+- **Konsep kunci:** Jari-jari dicari dengan membalik rumus K = 2 × π × r.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 44 cm, π = 22/7.
+  2. r = K ÷ (2 × π) = 44 × 7 ÷ 44.
+  3. Hasil r = 7 cm.
 ---
 
 **56.** Keliling sebuah lingkaran 132 cm. Diameter lingkaran tersebut … (π = 22/7)
@@ -882,6 +1157,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai d = K ÷ 2 = 66, lupa bagi π.
 - **D** — Salah. Salah pembagian 132 × 7 ÷ 11 = 84.
 
+- **Konsep kunci:** Diameter dicari dengan membalik rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 132 cm, π = 22/7.
+  2. d = K ÷ π = 132 × 7 ÷ 22.
+  3. Hasil d = 42 cm.
 ---
 
 **57.** Keliling sebuah taman bundar 314 m. Diameter taman tersebut … (π = 3,14)
@@ -896,6 +1176,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai d = K ÷ 2 = 157, lupa bagi π.
 - **D** — Salah. Memakai d = K ÷ (3,14 ÷ 2), salah operasi.
 
+- **Konsep kunci:** Diameter dicari dengan membalik rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 314 m, π = 3,14.
+  2. d = K ÷ π = 314 ÷ 3,14.
+  3. Hasil d = 100 m.
 ---
 
 **58.** Keliling lingkaran 88 cm. Jari-jarinya … (π = 22/7)
@@ -910,6 +1195,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai r = K ÷ 2 = 44, lupa bagi π.
 - **D** — Salah. Memakai r = K ÷ (4 × π) = 88 ÷ 44 × 7/4? Salah operasi → 7. Kelebihan ×2.
 
+- **Konsep kunci:** Jari-jari dicari dengan membalik rumus K = 2 × π × r.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 88 cm, π = 22/7.
+  2. r = K ÷ (2 × π) = 88 × 7 ÷ 44.
+  3. Hasil r = 14 cm.
 ---
 
 **59.** Keliling sebuah jam dinding 62,8 cm. Jari-jari jam tersebut … (π = 3,14)
@@ -924,6 +1214,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Itu diameter (d = 2r = 20), bukan jari-jari.
 - **D** — Salah. Memakai r = K ÷ 2 = 31,4, lupa bagi π.
 
+- **Konsep kunci:** Jari-jari dicari dengan membalik rumus K = 2 × π × r.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 62,8 cm, π = 3,14.
+  2. r = K ÷ (2 × π) = 62,8 ÷ 6,28.
+  3. Hasil r = 10 cm.
 ---
 
 **60.** Sebuah roda berdiameter 56 cm berputar sebanyak 25 kali. Jarak yang ditempuh … (π = 22/7)
@@ -938,6 +1233,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Salah konversi: 4.400 cm ÷ 1.000 = 4,4 (mengira 1 m = 1.000 cm).
 - **D** — Salah. Kelebihan ×10 pada konversi: 4.400 cm = 440 m (salah arah konversi).
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 56 = 176 cm.
+  2. Jarak = 176 × 25 = 4.400 cm.
+  3. Ubah ke meter: 4.400 cm = 44 m.
 ---
 
 **61.** Keliling setengah lingkaran (busur + diameter) dengan diameter 14 cm adalah … (π = 22/7)
@@ -952,6 +1252,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Menghitung keliling lingkaran utuh (π × d = 44), padahal hanya setengah.
 - **D** — Salah. Menambahkan keliling utuh + diameter (44 + 14 = 58), salah konsep.
 
+- **Konsep kunci:** Keliling setengah lingkaran = busur setengah + diameter (garis penutup).
+- **Langkah Penyelesaian:**
+  1. Hitung busur = ½ × π × d = ½ × 22/7 × 14 = 22 cm.
+  2. Tambahkan diameter sebagai penutup: 22 + 14.
+  3. Hasil K = 36 cm.
 ---
 
 **62.** Keliling seperempat lingkaran (busur + 2 jari-jari) dengan jari-jari 7 cm adalah … (π = 22/7)
@@ -966,6 +1271,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Menghitung K setengah lingkaran (busur saja = ½ × 2πr = 22), salah bagian lingkaran.
 - **D** — Salah. Hanya 2 × r = 14, lupa busurnya.
 
+- **Konsep kunci:** Keliling seperempat lingkaran = busur seperempat + 2 jari-jari.
+- **Langkah Penyelesaian:**
+  1. Hitung busur = ¼ × 2 π r = ¼ × 44 = 11 cm.
+  2. Tambahkan 2 jari-jari: 11 + 14.
+  3. Hasil K = 25 cm.
 ---
 
 **63.** Sebuah lapangan berbentuk lingkaran dengan jari-jari 14 m. Andi berlari mengelilingi lapangan 5 kali. Jarak total yang ditempuh Andi … (π = 22/7)
@@ -980,6 +1290,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai K = πr = 44, lalu × 5 = 220.
 - **D** — Salah. Memakai K = πr saja (lupa ×2): 22/7 × 14 = 44.
 
+- **Konsep kunci:** Jarak berlari mengelilingi lapangan berkali-kali = keliling × banyak putaran.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 14 = 88 m.
+  2. Kalikan dengan 5 putaran.
+  3. Hasil jarak = 440 m.
 ---
 
 **64.** Keliling lingkaran A = 88 cm. Keliling lingkaran B = 176 cm. Perbandingan jari-jari A : B adalah …
@@ -994,6 +1309,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Terbalik posisi A dan B.
 - **D** — Salah. Salah hitung pembagian 88 : 176.
 
+- **Konsep kunci:** Karena K = 2 π r, keliling sebanding lurus dengan jari-jari.
+- **Langkah Penyelesaian:**
+  1. Bandingkan KA : KB = 88 : 176.
+  2. Sederhanakan perbandingan menjadi 1 : 2.
+  3. Karena K sebanding r, maka rA : rB = 1 : 2.
 ---
 
 **65.** Sebuah ban motor berdiameter 42 cm berputar 1.000 kali. Jarak tempuh motor … (π = 22/7)
@@ -1008,6 +1328,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Kelebihan ×10 pada konversi: 1,32 km menjadi 13,2 km.
 - **D** — Salah. Salah konversi: 132.000 cm dibagi 10.000 = 13,2 m (mengira 1 m = 10.000 cm).
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke km.
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 42 = 132 cm.
+  2. Jarak = 132 × 1.000 = 132.000 cm.
+  3. Ubah ke km: 132.000 cm = 1.320 m = 1,32 km.
 ---
 
 **66.** Sebuah kolam ikan bundar berdiameter 6 m akan dipagari kawat dengan jarak 0,5 m antar tiang. Berapa tiang yang dibutuhkan? (π = 3,14)
@@ -1022,6 +1347,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai K ÷ 1 m = 18,84 → 19. Salah pembagi.
 - **D** — Salah. Kelebihan ×2 (memakai K = 2πd = 37,68 m).
 
+- **Konsep kunci:** Banyak tiang di sekeliling lingkaran = keliling ÷ jarak antar tiang, dibulatkan sesuai kebutuhan.
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 3,14 × 6 = 18,84 m.
+  2. Bagi dengan jarak antar tiang: 18,84 ÷ 0,5 = 37,68.
+  3. Bulatkan ke atas menjadi 38 tiang (agar kawat tertutup penuh).
 ---
 
 **67.** Sebuah meja bundar berjari-jari 70 cm. Tepi meja akan dipasang lis. Jika harga lis Rp5.000 per meter, total biaya lis adalah … (π = 22/7)
@@ -1036,6 +1366,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Kelebihan ×2 pada keliling: 8,8 m × 5.000 = 44.000.
 - **D** — Salah. Memakai K = π × r = 220 cm = 2,2 m × 5.000 = 11.000 (lupa kali 2).
 
+- **Konsep kunci:** Biaya lis = panjang keliling (dalam meter) × harga per meter.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 70 = 440 cm = 4,4 m.
+  2. Kalikan dengan harga per meter: 4,4 × Rp5.000.
+  3. Hasil biaya = Rp22.000.
 ---
 
 **68.** Diameter sebuah lingkaran 30 cm. Lingkaran lain memiliki keliling 2 kali keliling lingkaran pertama. Diameter lingkaran kedua adalah …
@@ -1050,6 +1385,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Sama dengan diameter pertama, tidak ada perubahan.
 - **D** — Salah. Memakai d₂ = 4 × d₁ (mengira hubungan kuadrat seperti luas).
 
+- **Konsep kunci:** Karena K = π × d, keliling sebanding lurus dengan diameter.
+- **Langkah Penyelesaian:**
+  1. K2 = 2 × K1, sedangkan K sebanding dengan d.
+  2. Maka d2 = 2 × d1 = 2 × 30.
+  3. Hasil d2 = 60 cm.
 ---
 
 **69.** Keliling sebuah lingkaran 154 cm. Jari-jari lingkaran tersebut … (π = 22/7)
@@ -1064,6 +1404,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai r = K ÷ 2 = 77, lupa bagi π.
 - **D** — Salah. Salah operasi: r dibagi 2 lagi. Kelebihan ×2.
 
+- **Konsep kunci:** Jari-jari dicari dengan membalik rumus K = 2 × π × r.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 154 cm, π = 22/7.
+  2. r = K ÷ (2 × π) = 154 × 7 ÷ 44.
+  3. Hasil r = 24,5 cm.
 ---
 
 **70.** Sebuah ban berjari-jari 21 cm. Berapa kali ban berputar agar menempuh jarak 264 m? (π = 22/7)
@@ -1078,6 +1423,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Hanya menulis nilai K dalam cm (132), salah konsep.
 - **D** — Salah. Kelebihan ×10: 264.000 ÷ 132 = 2.000 (mengira 1 m = 1.000 cm).
 
+- **Konsep kunci:** Banyak putaran roda = jarak total ÷ keliling roda (satuan disamakan dulu).
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 21 = 132 cm.
+  2. Ubah jarak 264 m menjadi 26.400 cm.
+  3. Putaran = 26.400 ÷ 132 = 200 kali.
 ---
 
 **71.** Diameter sebuah pelukan tangan 28 cm. Untuk memeluk pohon berkeliling, ukuran lingkaran tangan terkecil yang muat untuk pohon berdiameter 14 cm adalah …
@@ -1092,6 +1442,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Justru sebaliknya, keliling pohon lebih kecil.
 - **D** — Salah. Penalaran "diameter setengah" benar dari sisi proporsi, tetapi kesimpulan "tidak cukup" salah.
 
+- **Konsep kunci:** Untuk membandingkan cukup atau tidak, bandingkan keliling kedua lingkaran, bukan diameternya saja.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling pohon = π × 14 = 44 cm.
+  2. Hitung keliling lingkaran pelukan tangan = π × 28 = 88 cm.
+  3. Karena 44 < 88, pelukan tangan cukup untuk pohon.
 ---
 
 **72.** Sebuah roda berjari-jari 14 cm berputar 25 kali per detik. Jarak tempuh dalam 10 detik adalah … (π = 22/7)
@@ -1113,6 +1468,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 
 **Kunci yang berlaku: B.**
 
+- **Konsep kunci:** Jarak total = keliling × banyak putaran per detik × waktu, lalu dikonversi dengan benar.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 14 = 88 cm.
+  2. Jarak per detik = 88 × 25 = 2.200 cm, jarak 10 detik = 22.000 cm.
+  3. Ubah ke meter dengan benar (1 m = 100 cm): 22.000 cm = 220 m.
 ---
 
 **73.** Keliling lingkaran 220 cm. Diameter lingkaran tersebut … (π = 22/7)
@@ -1127,6 +1487,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Benar. K = πd → 220 = 22/7 × d → d = 220 × 7 ÷ 22 = 1.540 ÷ 22 = **70 cm**.
 - **D** — Salah. Kelebihan ×2 (mengira d = 2 × hasil benar).
 
+- **Konsep kunci:** Diameter dicari dengan membalik rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 220 cm, π = 22/7.
+  2. d = K ÷ π = 220 × 7 ÷ 22.
+  3. Hasil d = 70 cm.
 ---
 
 **74.** Sebuah lapangan basket lingkaran tengah memiliki jari-jari 1,8 m. Keliling lingkaran tengah tersebut … (π = 3,14)
@@ -1141,6 +1506,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Hanya 2 × r = 3,6 = diameter, tidak pakai π.
 - **D** — Salah. Memakai luas: π × r² = 3,14 × 3,24 = 10,1736 m² (luas).
 
+- **Konsep kunci:** Keliling lingkaran dari jari-jari dihitung dengan rumus K = 2 × π × r.
+- **Langkah Penyelesaian:**
+  1. r = 1,8 m (bukan kelipatan 7) sehingga π = 3,14.
+  2. K = 2 × π × r = 2 × 3,14 × 1,8 = 6,28 × 1,8.
+  3. Hasil K = 11,304 m.
 ---
 
 **75.** Sebuah roda berdiameter 35 cm berputar menempuh jarak 110 m. Banyak putaran roda … (π = 22/7)
@@ -1155,6 +1525,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Lupa konversi: 110 m ÷ 110 cm = 1 (campur satuan), lalu salah lagi → 10.
 - **D** — Salah. Hanya menulis nilai jarak dalam meter, bukan jumlah putaran.
 
+- **Konsep kunci:** Banyak putaran roda = jarak total ÷ keliling roda (satuan disamakan dulu).
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 35 = 110 cm.
+  2. Ubah jarak 110 m menjadi 11.000 cm.
+  3. Putaran = 11.000 ÷ 110 = 100 kali.
 ---
 
 **76.** Sebuah ban sepeda berjari-jari 28 cm. Anto bersepeda dari rumah ke sekolah sejauh 1,76 km. Banyak putaran ban … (π = 22/7)
@@ -1169,6 +1544,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Kelebihan ×10 pada konversi.
 - **D** — Salah. Memakai K = π × r = 88 cm (lupa kali 2), lalu 176.000 ÷ 88 = 2.000 (sudah ×2), atau salah lagi → 200.
 
+- **Konsep kunci:** Banyak putaran roda = jarak total ÷ keliling roda (satuan disamakan dulu).
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 28 = 176 cm.
+  2. Ubah jarak 1,76 km menjadi 176.000 cm (1,76 km = 1.760 m).
+  3. Putaran = 176.000 ÷ 176 = 1.000 kali.
 ---
 
 **77.** Keliling sebuah lingkaran 50,24 cm. Diameter lingkaran tersebut … (π = 3,14)
@@ -1183,6 +1563,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Kelebihan ×2 (mengira d = 2 × hasil benar).
 - **D** — Salah. Memakai d = K ÷ 2 = 25,12, lupa bagi π.
 
+- **Konsep kunci:** Diameter dicari dengan membalik rumus K = π × d.
+- **Langkah Penyelesaian:**
+  1. Diketahui K = 50,24 cm, π = 3,14.
+  2. d = K ÷ π = 50,24 ÷ 3,14.
+  3. Hasil d = 16 cm.
 ---
 
 **78.** Sebuah taman berbentuk lingkaran berjari-jari 10 m. Di sekeliling taman akan dipasang lampu setiap 2 m. Banyak lampu yang dibutuhkan … (π = 3,14)
@@ -1200,6 +1585,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Memakai K = π × r = 31,4 m, lalu 31,4 ÷ 2 = 15,7 ≈ 15.
 - **D** — Salah. Kelebihan ×2 pada keliling: 125,6 ÷ 2 = 62,8 ≈ 63.
 
+- **Konsep kunci:** Banyak benda di sekeliling lingkaran = keliling ÷ jarak antar benda, dibulatkan sesuai aturan soal.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × π × r = 2 × 3,14 × 10 = 62,8 m.
+  2. Bagi dengan jarak antar lampu: 62,8 ÷ 2 = 31,4.
+  3. Ambil bagian bulatnya = 31 lampu (sesuai konvensi soal).
 ---
 
 **79.** Sebuah lingkaran memiliki keliling 264 cm. Luas lingkaran tersebut … (π = 22/7) [Catatan: meskipun pertanyaan utamanya luas, soal ini menguji apakah siswa bisa cari r dulu dari keliling.]
@@ -1214,6 +1604,11 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 - **C** — Salah. Hanya nilai r (42), bukan luas.
 - **D** — Salah. Salah pakai r = 21 (setengah lagi): 22/7 × 441 = 1.386.
 
+- **Konsep kunci:** Untuk mencari luas dari keliling, cari dulu jari-jarinya lewat rumus keliling.
+- **Langkah Penyelesaian:**
+  1. Cari r dari K = 2 π r: 264 = 2 × 22/7 × r, sehingga r = 42 cm.
+  2. Hitung luas L = π × r × r = 22/7 × 42 × 42.
+  3. Hasil L = 5.544 cm².
 ---
 
 **80.** Roda A berdiameter 28 cm, roda B berdiameter 56 cm. Jika kedua roda berputar 100 kali, selisih jarak yang ditempuh A dan B … (π = 22/7)
@@ -1236,6 +1631,11 @@ Koreksi: **Kunci A.**
 
 **Kunci yang berlaku: A.**
 
+- **Konsep kunci:** Selisih jarak dua roda = (selisih keliling per putaran) × banyak putaran.
+- **Langkah Penyelesaian:**
+  1. Hitung KA = π × 28 = 88 cm dan KB = π × 56 = 176 cm.
+  2. Selisih per putaran = 176 − 88 = 88 cm, dikali 100 putaran = 8.800 cm.
+  3. Ubah ke meter: 8.800 cm = 88 m.
 ---
 
 ## 🔴 TINGKAT NASIONAL (Soal 81–100)
@@ -1256,6 +1656,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Salah substitusi: K kolam = π × r = 22 → selisih = 56 − 48 = 8 (operasi acak).
 - **D** — Salah. Menjumlahkan: 56 + 44 = 100, padahal diminta selisih.
 
+- **Konsep kunci:** Selisih keliling dua bangun berbeda dicari dengan mengurangkan kelilingnya masing-masing.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling persegi = 4 × 14 = 56 m.
+  2. Hitung keliling kolam (lingkaran) = π × d = 22/7 × 14 = 44 m.
+  3. Selisih = 56 − 44 = 12 m.
 ---
 
 **82.** Sebuah lapangan berbentuk persegi panjang dengan ukuran 50 m × 30 m. Di kedua ujung lapangan ditambahkan setengah lingkaran dengan diameter 30 m. Keliling lapangan (lintasan lari) adalah … (π = 3,14)
@@ -1274,6 +1679,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Hanya menghitung 1 setengah lingkaran: 100 + ½ × 94,2 = 100 + 47,1 = 147,1; atau 100 + 50 = 150-an. Salah perhitungan jumlah busur.
 - **D** — Salah. Memakai 2 × π × d (terkali ×2 pada busur): 100 + 188,4 = 288,4. Atau salah lain → 250,2.
 
+- **Konsep kunci:** Pada bangun gabungan (lintasan lari), jumlahkan sisi lurus dan busur lingkaran pengganti sisi lengkung.
+- **Langkah Penyelesaian:**
+  1. Sisi lurus = 2 × 50 = 100 m.
+  2. Dua setengah lingkaran diameter 30 m digabung menjadi 1 lingkaran utuh: K = π × 30 = 94,2 m.
+  3. Jumlahkan: 100 + 94,2 = 194,2 m.
 ---
 
 **83.** Sebuah taman berbentuk seperempat lingkaran dengan jari-jari 14 m. Keliling tepi taman (busur + 2 jari-jari) adalah … (π = 22/7)
@@ -1288,6 +1698,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Menghitung keliling lingkaran utuh (2πr = 88), padahal hanya seperempat.
 - **D** — Salah. Setengah lingkaran (½ × 88) + 2r = 44 + ... salah perhitungan → 36.
 
+- **Konsep kunci:** Keliling seperempat lingkaran = busur seperempat + 2 jari-jari.
+- **Langkah Penyelesaian:**
+  1. Hitung busur = ¼ × 2 π r = ¼ × 88 = 22 m.
+  2. Tambahkan 2 jari-jari: 22 + 28.
+  3. Hasil K = 50 m.
 ---
 
 **84.** Sebuah ban sepeda Adi berdiameter 56 cm dan ban sepeda Budi berdiameter 70 cm. Keduanya berangkat dari titik yang sama, menempuh jarak 880 m. Selisih jumlah putaran ban Adi dan Budi … (π = 22/7)
@@ -1302,6 +1717,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Hanya putaran A (500), bukan selisih.
 - **D** — Salah. Memakai K = π × r (lupa ×2), lalu hasil tidak konsisten.
 
+- **Konsep kunci:** Selisih putaran dua roda dicari dari selisih banyak putaran masing-masing untuk jarak yang sama.
+- **Langkah Penyelesaian:**
+  1. Hitung KA = π × 56 = 176 cm dan KB = π × 70 = 220 cm.
+  2. Ubah jarak 880 m = 88.000 cm, hitung putaran A = 88.000 ÷ 176 = 500 dan putaran B = 88.000 ÷ 220 = 400.
+  3. Selisih putaran = 500 − 400 = 100 putaran.
 ---
 
 **85.** Sebuah lingkaran besar berjari-jari 21 cm. Di dalamnya digambar lingkaran kecil berjari-jari 7 cm. Selisih keliling lingkaran besar dan kecil … (π = 22/7)
@@ -1316,6 +1736,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Hanya K besar (132), lupa kurangi K kecil.
 - **D** — Salah. Menjumlahkan: 132 + 44 = 176, padahal diminta selisih.
 
+- **Konsep kunci:** Selisih keliling dua lingkaran sepusat = keliling besar − keliling kecil.
+- **Langkah Penyelesaian:**
+  1. Hitung K besar = 2 × 22/7 × 21 = 132 cm.
+  2. Hitung K kecil = 2 × 22/7 × 7 = 44 cm.
+  3. Selisih = 132 − 44 = 88 cm.
 ---
 
 **86.** Sebuah taman berbentuk gabungan: persegi sisi 14 m dengan setengah lingkaran berdiameter 14 m menempel di salah satu sisinya. Keliling tepi taman adalah … (π = 22/7)
@@ -1330,6 +1755,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Memakai 3 sisi (42) + ½ × diameter (7) = 49 → mendekati 50.
 - **D** — Salah. Memakai 4 sisi + π × d (lingkaran utuh): 56 + 44 = 100.
 
+- **Konsep kunci:** Pada gabungan persegi + setengah lingkaran, sisi yang ditempeli setengah lingkaran diganti busurnya.
+- **Langkah Penyelesaian:**
+  1. Ambil 3 sisi persegi (sisi ke-4 diganti busur): 3 × 14 = 42 m.
+  2. Tambahkan busur setengah lingkaran: ½ × π × 14 = 22 m.
+  3. Jumlahkan: 42 + 22 = 64 m.
 ---
 
 **87.** Sebuah meja berbentuk setengah lingkaran (busur + diameter) dengan diameter 1,4 m. Keliling tepi meja … (π = 22/7)
@@ -1344,6 +1774,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Memakai keliling lingkaran utuh (π × d = 4,4), padahal hanya setengah.
 - **D** — Salah. Memakai keliling lingkaran utuh + diameter (4,4 + 1,4 = 5,8), salah konsep.
 
+- **Konsep kunci:** Keliling meja setengah lingkaran = busur setengah + diameter (sisi lurus meja).
+- **Langkah Penyelesaian:**
+  1. Hitung busur = ½ × π × d = ½ × 22/7 × 1,4 = 2,2 m.
+  2. Tambahkan diameter: 2,2 + 1,4.
+  3. Hasil K = 3,6 m.
 ---
 
 **88.** Sebuah roda berjari-jari 21 cm berputar 1.500 kali. Jarak tempuh dalam km adalah … (π = 22/7)
@@ -1358,6 +1793,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Kurang ×10 pada konversi (198.000 cm dibagi 1.000.000 = 0,198, mengira 1 km = 1.000.000 cm; sebenarnya benar! 1 km = 100.000 cm; 198.000 ÷ 100.000 = 1,98). Jadi 0,198 salah arah.
 - **D** — Salah. Kelebihan ×100 pada konversi.
 
+- **Konsep kunci:** Jarak tempuh roda = keliling roda × banyak putaran, lalu dikonversi ke km.
+- **Langkah Penyelesaian:**
+  1. Hitung K = 2 × 22/7 × 21 = 132 cm.
+  2. Jarak = 132 × 1.500 = 198.000 cm.
+  3. Ubah ke km: 198.000 cm = 1.980 m = 1,98 km.
 ---
 
 **89.** Diameter dua roda gigi yang bersentuhan adalah 14 cm dan 28 cm. Jika roda kecil berputar 100 kali, roda besar akan berputar … kali.
@@ -1372,6 +1812,11 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 - **C** — Salah. Mengira jumlah putaran sama (salah konsep roda gigi).
 - **D** — Salah. Membagi lagi: 50 ÷ 2 = 25 (kelebihan ×2).
 
+- **Konsep kunci:** Pada roda gigi yang bersentuhan, jarak tempuh kedua roda sama besar.
+- **Langkah Penyelesaian:**
+  1. Samakan jarak tempuh: KA × nA = KB × nB, dengan K sebanding diameter.
+  2. Substitusi: 14 × 100 = 28 × nB.
+  3. Hasil nB = 1.400 ÷ 28 = 50 kali.
 ---
 
 **90.** Sebuah lintasan berbentuk seperti stadion: persegi panjang 80 m × 50 m, dengan setengah lingkaran di kedua ujung pendek (diameter = 50 m). Keliling lintasan … (π = 3,14)
@@ -1401,6 +1846,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 
 **Kunci yang berlaku: A.**
 
+- **Konsep kunci:** Lintasan seperti stadion = 2 sisi lurus panjang + 1 lingkaran utuh dari gabungan dua setengah lingkaran ujung.
+- **Langkah Penyelesaian:**
+  1. Sisi lurus = 2 × 80 = 160 m.
+  2. Dua setengah lingkaran diameter 50 m digabung jadi 1 lingkaran utuh: K = π × 50 = 3,14 × 50 = 157 m.
+  3. Jumlahkan: 160 + 157 = 317 m.
 ---
 
 **91.** Sebuah sepeda berdiameter roda 70 cm. Sepeda menempuh jarak 4,4 km dari rumah ke sekolah. Banyak putaran roda … (π = 22/7)
@@ -1415,6 +1865,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Kelebihan ×10 pada konversi km → cm.
 - **D** — Salah. Memakai K = 2 × π × d (terkali ×2), lalu 440.000 ÷ 440 = 1.000.
 
+- **Konsep kunci:** Banyak putaran roda = jarak total ÷ keliling roda (satuan disamakan dulu).
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 70 = 220 cm.
+  2. Ubah jarak 4,4 km menjadi 440.000 cm (4,4 km = 4.400 m).
+  3. Putaran = 440.000 ÷ 220 = 2.000 kali.
 ---
 
 **92.** Selisih keliling lingkaran A dan B adalah 44 cm. Jika jari-jari A = 14 cm dan jari-jari B lebih besar, maka jari-jari B adalah … (π = 22/7)
@@ -1429,6 +1884,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Itu nilai selisih r saja (7), bukan rB.
 - **D** — Salah. Memakai selisih r = 21 (salah pembagi), → 35.
 
+- **Konsep kunci:** Selisih keliling dua lingkaran berhubungan dengan selisih jari-jarinya lewat rumus K = 2 π r.
+- **Langkah Penyelesaian:**
+  1. Selisih K = 2 π × (rB − rA), dengan selisih K = 44 cm.
+  2. Hitung rB − rA = 44 × 7 ÷ 44 = 7 cm.
+  3. rB = rA + 7 = 14 + 7 = 21 cm.
 ---
 
 **93.** Tiga lingkaran identik berjari-jari 14 cm disusun bersentuhan dalam garis lurus. Keliling total kontur luar (busur 3 lingkaran setengah-setengah + 2 sambungan) sama dengan jumlah keliling 3 lingkaran utuh = 3 × 88 = 264 cm. Bila ditambahkan tali pengikat di luar yang menyentuh setiap lingkaran membentuk panjang lurus 2 × 28 cm (di antara titik-titik singgung) — keliling tali pengikat luar adalah …
@@ -1443,6 +1903,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Sama dengan A — jika sengaja diduplikasi (opsi C dianggap sama dengan A pada uji deteksi pilihan ganda; gunakan A sebagai jawaban resmi).
 - **D** — Salah. Hanya 88 + 12, salah hitung.
 
+- **Konsep kunci:** Tali pengikat luar sekeliling beberapa lingkaran = jumlah busur (jadi 1 lingkaran utuh) + bagian lurus antar pusat terluar.
+- **Langkah Penyelesaian:**
+  1. Busur-busur di kiri-kanan tiga lingkaran bergabung menjadi 1 keliling utuh: 2 × 22/7 × 14 = 88 cm.
+  2. Bagian lurus tali = 2 × 28 = 56 cm.
+  3. Jumlahkan: 88 + 56 = 144 cm.
 ---
 
 **94.** Sebuah taman berbentuk lingkaran berdiameter 21 m. Di sekeliling taman dibuat jalan setapak selebar 1 m (di luar taman). Keliling tepi luar jalan setapak adalah … (π = 22/7)
@@ -1459,6 +1924,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Memakai d_luar = 25 (menambah 2 m di tiap sisi padahal 1 m): 22/7 × 25 = 78,57.
 - **D** — Salah. Memakai d_luar = 22 (menambah 1 m saja, bukan di kedua sisi): 22/7 × 22 = 69,14.
 
+- **Konsep kunci:** Lingkaran luar (taman + jalan setapak) punya diameter lebih besar karena lebar jalan ditambahkan di kedua sisi.
+- **Langkah Penyelesaian:**
+  1. Diameter luar = diameter taman + 2 × lebar jalan = 21 + 2 × 1.
+  2. Hitung K luar = π × d luar = 22/7 × 23.
+  3. Hasil K ≈ 72,29 m.
 ---
 
 **95.** Sebuah jam memiliki jarum panjang berukuran 14 cm. Dalam 1 jam (jarum panjang berputar 1 putaran penuh), jarak yang ditempuh ujung jarum adalah … (π = 22/7)
@@ -1473,6 +1943,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Hanya 2 × r = 28 = diameter, tidak pakai π.
 - **D** — Salah. Memakai 2 putaran: 88 × 2 = 176.
 
+- **Konsep kunci:** Ujung jarum jam yang berputar menempuh lintasan lingkaran dengan jari-jari sepanjang jarum.
+- **Langkah Penyelesaian:**
+  1. Jari-jari lintasan = panjang jarum = 14 cm.
+  2. Hitung K = 2 × π × r = 2 × 22/7 × 14.
+  3. Hasil jarak 1 putaran = 88 cm.
 ---
 
 **96.** Sebuah lapangan berbentuk lingkaran dengan keliling 220 m. Andi berlari mengelilingi lapangan dengan kecepatan 4 m/detik. Waktu yang dibutuhkan untuk 1 putaran adalah …
@@ -1487,6 +1962,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Mengalikan: 220 × 4 = 880 (salah operasi).
 - **D** — Salah. Membagi keliling dengan 5 (salah angka): 220 ÷ 5 = 44.
 
+- **Konsep kunci:** Waktu tempuh = jarak ÷ kecepatan.
+- **Langkah Penyelesaian:**
+  1. Jarak 1 putaran = keliling = 220 m.
+  2. Bagi dengan kecepatan: 220 ÷ 4.
+  3. Hasil waktu = 55 detik.
 ---
 
 **97.** Sebuah ban sepeda menempuh 1.760 cm dalam 10 putaran. Diameter ban sepeda tersebut … (π = 22/7)
@@ -1501,6 +1981,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Kelebihan ×2 (mengira d = 2 × hasil benar).
 - **D** — Salah. Salah pembagian: 176 ÷ 12 atau salah substitusi.
 
+- **Konsep kunci:** Diameter dicari dari keliling 1 putaran, bukan dari jarak totalnya langsung.
+- **Langkah Penyelesaian:**
+  1. Cari keliling 1 putaran: 1.760 ÷ 10 = 176 cm.
+  2. Balik rumus K = π × d untuk cari d: d = K ÷ π = 176 × 7 ÷ 22.
+  3. Hasil d = 56 cm.
 ---
 
 **98.** Dua lingkaran konsentris (sepusat) memiliki jari-jari r₁ = 7 cm dan r₂ = 14 cm. Selisih keliling kedua lingkaran adalah … (π = 22/7)
@@ -1515,6 +2000,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Hanya K₂ (88), lupa kurangi K₁.
 - **D** — Salah. Menjumlahkan: 44 + 88 = 132, padahal diminta selisih.
 
+- **Konsep kunci:** Selisih keliling dua lingkaran sepusat = keliling besar − keliling kecil.
+- **Langkah Penyelesaian:**
+  1. Hitung K1 = 2 × 22/7 × 7 = 44 cm.
+  2. Hitung K2 = 2 × 22/7 × 14 = 88 cm.
+  3. Selisih = 88 − 44 = 44 cm.
 ---
 
 **99.** Sebuah taman berbentuk juring lingkaran dengan sudut 90° dan jari-jari 14 m. Keliling tepi taman (busur + 2 jari-jari) adalah … (π = 22/7)
@@ -1529,6 +2019,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Keliling lingkaran utuh (88), padahal hanya juring.
 - **D** — Salah. Memakai busur = ½ lingkaran (44), lalu 44 + 14 = 58 ≈ 60. Salah pilihan bagian.
 
+- **Konsep kunci:** Keliling juring (potongan kue) = busur sesuai sudutnya + 2 jari-jari.
+- **Langkah Penyelesaian:**
+  1. Sudut 90° berarti ¼ lingkaran, sehingga busur = ¼ × 2 π r = ¼ × 88 = 22 m.
+  2. Tambahkan 2 jari-jari: 22 + 2 × 14.
+  3. Hasil K = 50 m.
 ---
 
 **100.** Sebuah lapangan berbentuk lingkaran berdiameter 70 m. Andi berlari mengelilingi lapangan 4 kali, sedangkan Budi berlari mengelilingi lapangan 3 kali dengan kecepatan yang sama. Selisih jarak tempuh Andi dan Budi … (π = 22/7)
@@ -1543,6 +2038,11 @@ Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m �
 - **C** — Salah. Jumlah total Budi: 3 × 220 = 660, bukan selisih.
 - **D** — Salah. Setengah dari selisih (mungkin salah pembagi).
 
+- **Konsep kunci:** Selisih jarak dua pelari = selisih banyak putaran × keliling lapangan.
+- **Langkah Penyelesaian:**
+  1. Hitung K = π × d = 22/7 × 70 = 220 m.
+  2. Selisih putaran Andi dan Budi = 4 − 3 = 1.
+  3. Selisih jarak = 1 × 220 = 220 m.
 ---
 
 # Bagian III — Tabel Kunci, Distribusi, dan Refleksi

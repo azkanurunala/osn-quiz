@@ -119,6 +119,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 300 detik
 - C. 500 detik
 - D. 360 detik
+- **Konsep kunci:** 1 menit = 60 detik, sehingga menit ke detik dikali 60.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 60.
+  2. 5 menit = 300 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -134,6 +138,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 240 menit
 - C. 40 menit
 - D. 400 menit
+- **Konsep kunci:** 1 jam = 60 menit, sehingga jam ke menit dikali 60.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 60.
+  2. 4 jam = 240 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -149,6 +157,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 jam
 - C. 12 jam
 - D. 48 jam
+- **Konsep kunci:** 1 hari = 24 jam, sehingga hari ke jam dikali 24.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 24.
+  2. 2 hari = 48 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -164,6 +176,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 14 hari
 - C. 28 hari
 - D. 30 hari
+- **Konsep kunci:** 1 minggu = 7 hari.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 7.
+  2. 3 minggu = 21 hari.
 
 **Kunci: A**
 **Pembahasan:**
@@ -179,6 +195,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 tahun
 - C. 10 tahun
 - D. 8 tahun
+- **Konsep kunci:** 1 windu = 8 tahun.
+- **Langkah Penyelesaian:**
+  1. Ganti windu dengan tahun.
+  2. 1 windu = 8 tahun.
 
 **Kunci: D**
 **Pembahasan:**
@@ -194,6 +214,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 5 tahun
 - C. 10 tahun
 - D. 100 tahun
+- **Konsep kunci:** 1 dasawarsa = 10 tahun.
+- **Langkah Penyelesaian:**
+  1. Ganti dasawarsa dengan tahun.
+  2. 1 dasawarsa = 10 tahun.
 
 **Kunci: C**
 **Pembahasan:**
@@ -209,6 +233,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 menit
 - C. 130 menit
 - D. 130 detik
+- **Konsep kunci:** 1 jam = 60 menit, jumlahkan menitnya.
+- **Langkah Penyelesaian:**
+  1. 1 jam = 60 menit.
+  2. Jumlahkan: 60 + 30.
+  3. Total = 90 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -224,6 +253,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12,5 dasawarsa
 - C. 10 dasawarsa
 - D. 8 dasawarsa
+- **Konsep kunci:** 1 abad = 100 tahun = 10 dasawarsa.
+- **Langkah Penyelesaian:**
+  1. 100 ÷ 10 = 10.
+  2. 1 abad = 10 dasawarsa.
 
 **Kunci: C**
 **Pembahasan:**
@@ -239,6 +272,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 1,8 menit
 - C. 30 menit
 - D. 3 menit
+- **Konsep kunci:** 1 menit = 60 detik, sehingga detik ke menit dibagi 60.
+- **Langkah Penyelesaian:**
+  1. Bagi 180 dengan 60.
+  2. 180 detik = 3 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -254,6 +291,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 730 hari
 - C. 366 hari
 - D. 720 hari
+- **Konsep kunci:** 1 tahun biasa = 365 hari.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 365.
+  2. 2 tahun = 730 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -269,6 +310,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 detik
 - C. 360 detik
 - D. 600 detik
+- **Konsep kunci:** 1 jam = 60 menit = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. Kalikan 60 × 60.
+  2. 1 jam = 3.600 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -284,6 +329,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 3 jam
 - C. 4 jam
 - D. 24 jam
+- **Konsep kunci:** 1 jam = 60 menit, sehingga menit ke jam dibagi 60.
+- **Langkah Penyelesaian:**
+  1. Bagi 240 dengan 60.
+  2. 240 menit = 4 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -299,6 +348,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 24 tahun
 - C. 3.000 tahun
 - D. 300 tahun
+- **Konsep kunci:** 1 abad = 100 tahun.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 100.
+  2. 3 abad = 300 tahun.
 
 **Kunci: D**
 **Pembahasan:**
@@ -314,6 +367,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 10 tahun
 - C. 12 tahun
 - D. 20 tahun
+- **Konsep kunci:** 1 dasawarsa = 10 tahun.
+- **Langkah Penyelesaian:**
+  1. 1,5 dasawarsa = 1,5 × 10.
+  2. Menabung = 15 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -329,6 +386,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 14 hari
 - C. 31 hari
 - D. 28 hari
+- **Konsep kunci:** 1 minggu = 7 hari.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 7.
+  2. 4 minggu = 28 hari.
 
 **Kunci: D**
 **Pembahasan:**
@@ -344,6 +405,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 9 jam
 - C. 10 jam
 - D. 15 jam
+- **Konsep kunci:** Hitung jarak dari 20.00 sampai tengah malam lalu tambahkan.
+- **Langkah Penyelesaian:**
+  1. 20.00 → 24.00 = 4 jam; 24.00 → 05.00 = 5 jam.
+  2. Jumlahkan: 4 + 5 = 9 jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -359,6 +424,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 130 menit
 - C. 75 menit
 - D. 135 menit
+- **Konsep kunci:** 1 jam = 60 menit, jumlahkan menitnya.
+- **Langkah Penyelesaian:**
+  1. 2 jam = 120 menit.
+  2. Jumlahkan: 120 + 15.
+  3. = 135 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -374,6 +444,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 bulan
 - C. 55 bulan
 - D. 12 bulan
+- **Konsep kunci:** 1 tahun = 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 12.
+  2. 5 tahun = 60 bulan.
 
 **Kunci: B**
 **Pembahasan:**
@@ -389,6 +463,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 abad
 - C. 1.000 abad
 - D. 10 abad
+- **Konsep kunci:** 1 milenium = 1.000 tahun = 10 abad.
+- **Langkah Penyelesaian:**
+  1. Bagi 1.000 dengan 100.
+  2. 1 milenium = 10 abad.
 
 **Kunci: D**
 **Pembahasan:**
@@ -404,6 +482,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 105 menit
 - C. 165 menit
 - D. 195 menit
+- **Konsep kunci:** 1 jam = 60 menit, jumlahkan menitnya.
+- **Langkah Penyelesaian:**
+  1. 1 jam = 60 menit.
+  2. Jumlahkan: 60 + 45.
+  3. = 105 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -419,6 +502,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 15 tahun
 - C. 18 tahun
 - D. 12 tahun
+- **Konsep kunci:** 1 windu = 8 tahun.
+- **Langkah Penyelesaian:**
+  1. 8 + 5 = 13.
+  2. Usia Andi = 13 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -434,6 +521,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 jam
 - C. 2 jam
 - D. 120 jam
+- **Konsep kunci:** 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. Bagi 7.200 dengan 3.600.
+  2. 7.200 detik = 2 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -449,6 +540,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 31 hari
 - C. 30 hari
 - D. 29 hari
+- **Konsep kunci:** Tahun kabisat bulan Februari berjumlah 29 hari; 2024 adalah tahun kabisat.
+- **Langkah Penyelesaian:**
+  1. 2024 habis dibagi 4.
+  2. Februari 2024 = 29 hari.
 
 **Kunci: D**
 **Pembahasan:**
@@ -464,6 +559,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 3 jam 30 menit
 - C. 4 jam
 - D. 3 jam 70 menit
+- **Konsep kunci:** Hitung selisih jam dari 07.30 ke 11.00.
+- **Langkah Penyelesaian:**
+  1. 07.30 → 11.00 = 3 jam 30 menit.
+  2. Lamanya = 3 jam 30 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -479,6 +578,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 9 jam
 - C. 1,5 jam
 - D. 0,9 jam
+- **Konsep kunci:** 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 90 ÷ 60 = 1,5.
+  2. 90 menit = 1 jam 30 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -494,6 +597,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 365 hari
 - C. 366 hari
 - D. 367 hari
+- **Konsep kunci:** 1 tahun kabisat = 366 hari (Februari 29 hari).
+- **Langkah Penyelesaian:**
+  1. Tahun kabisat lebih 1 hari dari tahun biasa.
+  2. 1 tahun kabisat = 366 hari.
 
 **Kunci: C**
 **Pembahasan:**
@@ -509,6 +616,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 24 tahun
 - C. 32 tahun
 - D. 36 tahun
+- **Konsep kunci:** 1 windu = 8 tahun.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 8.
+  2. 4 windu = 32 tahun.
 
 **Kunci: C**
 **Pembahasan:**
@@ -524,6 +635,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 40 dasawarsa
 - C. 500 dasawarsa
 - D. 50 dasawarsa
+- **Konsep kunci:** 1 abad = 10 dasawarsa.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 10.
+  2. 5 abad = 50 dasawarsa.
 
 **Kunci: D**
 **Pembahasan:**
@@ -539,6 +654,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 6 hari
 - C. 7 hari
 - D. 12 hari
+- **Konsep kunci:** 1 hari = 24 jam.
+- **Langkah Penyelesaian:**
+  1. Bagi 144 dengan 24.
+  2. 144 jam = 6 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -554,6 +673,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 8 tahun
 - C. 12 tahun
 - D. 11 tahun
+- **Konsep kunci:** Usia = tahun sekarang − tahun lahir.
+- **Langkah Penyelesaian:**
+  1. 2024 − 2014.
+  2. Lala berusia 10 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -569,6 +692,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 720 menit
 - C. 1.440 menit
 - D. 86.400 menit
+- **Konsep kunci:** 1 hari = 24 jam = 1.440 menit.
+- **Langkah Penyelesaian:**
+  1. 24 × 60 = 1.440.
+  2. 1 hari = 1.440 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -584,6 +711,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 6 tahun
 - C. 3 tahun
 - D. 4 tahun
+- **Konsep kunci:** 1 tahun = 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Bagi 36 dengan 12.
+  2. 36 bulan = 3 tahun.
 
 **Kunci: C**
 **Pembahasan:**
@@ -599,6 +730,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 7.200 detik
 - C. 1.400 detik
 - D. 8.400 detik
+- **Konsep kunci:** 1 jam = 3.600 detik; jumlahkan semuanya.
+- **Langkah Penyelesaian:**
+  1. 2 jam = 7.200 detik; 20 menit = 1.200 detik.
+  2. Jumlahkan: 7.200 + 1.200.
+  3. = 8.400 detik.
 
 **Kunci: D**
 **Pembahasan:**
@@ -614,6 +750,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 30 menit
 - C. 75 menit
 - D. 1 jam
+- **Konsep kunci:** Hitung selisih menit dari 13.45 ke 14.30.
+- **Langkah Penyelesaian:**
+  1. 13.45 → 14.00 = 15 menit; 14.00 → 14.30 = 30 menit.
+  2. Jumlahkan: 15 + 30 = 45 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -629,6 +769,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 1.500 tahun
 - C. 1.050 tahun
 - D. 5.000 tahun
+- **Konsep kunci:** 1 milenium = 1.000 tahun; 1 abad = 100 tahun.
+- **Langkah Penyelesaian:**
+  1. 1.000 + 5 × 100.
+  2. = 1.500 tahun.
 
 **Kunci: B**
 **Pembahasan:**
@@ -644,6 +788,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 150 detik
 - C. 90 detik
 - D. 100 detik
+- **Konsep kunci:** 1 menit setengah = 90 detik.
+- **Langkah Penyelesaian:**
+  1. 1,5 × 60 = 90.
+  2. = 90 detik.
 
 **Kunci: C**
 **Pembahasan:**
@@ -659,6 +807,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 7 minggu
 - C. 5 minggu
 - D. 8 minggu
+- **Konsep kunci:** 1 minggu = 7 hari.
+- **Langkah Penyelesaian:**
+  1. Bagi 56 dengan 7.
+  2. 56 hari = 8 minggu.
 
 **Kunci: D**
 **Pembahasan:**
@@ -674,6 +826,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 1.500 detik
 - C. 2.500 detik
 - D. 1.250 detik
+- **Konsep kunci:** 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. Kalikan 25 dengan 60.
+  2. 25 menit = 1.500 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -689,6 +845,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 20 tahun
 - C. 20.000 tahun
 - D. 2.000 tahun
+- **Konsep kunci:** 1 milenium = 1.000 tahun.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 1.000.
+  2. 2 milenium = 2.000 tahun.
 
 **Kunci: D**
 **Pembahasan:**
@@ -704,6 +864,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 2 jam 15 menit
 - C. 1 jam 15 menit
 - D. 2 jam
+- **Konsep kunci:** Hitung selisih dari 08.15 ke 10.00.
+- **Langkah Penyelesaian:**
+  1. 08.15 → 09.00 = 45 menit; 09.00 → 10.00 = 1 jam.
+  2. Total = 1 jam 45 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -719,6 +883,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 3.660 detik
 - C. 1.111 detik
 - D. 3.661 detik
+- **Konsep kunci:** Konversi semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 1 jam = 3.600; 1 menit = 60; 1 detik = 1.
+  2. Jumlahkan: 3.600 + 60 + 1.
+  3. = 3.661 detik.
 
 **Kunci: D**
 **Pembahasan:**
@@ -734,6 +903,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 120 bulan
 - C. 12 bulan
 - D. 130 bulan
+- **Konsep kunci:** 1 tahun = 12 bulan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 10 dengan 12.
+  2. Usia Riski = 120 bulan.
 
 **Kunci: B**
 **Pembahasan:**
@@ -749,6 +922,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 bulan
 - C. 4 bulan
 - D. 6 bulan
+- **Konsep kunci:** 1 caturwulan = 4 bulan.
+- **Langkah Penyelesaian:**
+  1. Ganti caturwulan dengan 4 bulan.
+  2. 1 caturwulan = 4 bulan.
 
 **Kunci: C**
 **Pembahasan:**
@@ -764,6 +941,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 144 jam
 - C. 720 jam
 - D. 168 jam
+- **Konsep kunci:** 1 minggu = 7 hari = 7 × 24 jam.
+- **Langkah Penyelesaian:**
+  1. 7 × 24 = 168.
+  2. 1 minggu = 168 jam.
 
 **Kunci: D**
 **Pembahasan:**
@@ -779,6 +960,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 120 tahun
 - C. 108 tahun
 - D. 112 tahun
+- **Konsep kunci:** 1 abad = 100 tahun; 1 dasawarsa = 10 tahun.
+- **Langkah Penyelesaian:**
+  1. 100 + 2 × 10.
+  2. = 120 tahun.
 
 **Kunci: B**
 **Pembahasan:**
@@ -794,6 +979,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 2024
 - C. 1900
 - D. 2020
+- **Konsep kunci:** Aturan: habis dibagi 4; kelipatan 100 hanya kabisat bila habis dibagi 400.
+- **Langkah Penyelesaian:**
+  1. Cek tiap tahun: 2000 habis dibagi 400; 2024 & 2020 habis dibagi 4.
+  2. 1900 kelipatan 100 tetapi tidak habis dibagi 400.
+  3. Yang bukan kabisat = 1900.
 
 **Kunci: C**
 **Pembahasan:**
@@ -809,6 +999,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 37 hari
 - C. 38 hari
 - D. 40 hari
+- **Konsep kunci:** 1 bulan = 30 hari (anggapan soal), 1 minggu = 7 hari.
+- **Langkah Penyelesaian:**
+  1. 30 + 7 = 37.
+  2. Liburan = 37 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -824,6 +1018,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 menit
 - C. 10 menit
 - D. 100 menit
+- **Konsep kunci:** 1 menit = 60 detik.
+- **Langkah Penyelesaian:**
+  1. 600 ÷ 60 = 10.
+  2. 600 detik = 10 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -839,6 +1037,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 330 menit
 - C. 305 menit
 - D. 530 menit
+- **Konsep kunci:** 1 jam = 60 menit, jumlahkan menitnya.
+- **Langkah Penyelesaian:**
+  1. 5 jam = 300 menit.
+  2. Jumlahkan: 300 + 30.
+  3. = 330 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -854,6 +1057,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 84 tahun
 - C. 1.974 tahun
 - D. 74 tahun
+- **Konsep kunci:** Usia = tahun sekarang − tahun tanam.
+- **Langkah Penyelesaian:**
+  1. 2024 − 1950 = 74.
+  2. Pohon berumur 74 tahun.
 
 **Kunci: D**
 **Pembahasan:**
@@ -871,6 +1078,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 13.350 detik
 - C. 13.500 detik
 - D. 11.330 detik
+- **Konsep kunci:** Konversi semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 3 jam = 10.800; 45 menit = 2.700; 30 detik.
+  2. Jumlahkan: 10.800 + 2.700 + 30.
+  3. = 13.530 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -886,6 +1098,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 200 jam
 - C. 160 jam
 - D. 320 jam
+- **Konsep kunci:** Kalikan jam per hari, hari per minggu, dan jumlah minggu.
+- **Langkah Penyelesaian:**
+  1. 8 × 5 × 4 = 160.
+  2. Total jam kerja = 160 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -901,6 +1117,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 13.15
 - C. 12.75
 - D. 13.25
+- **Konsep kunci:** Tambahkan menit lalu jam secara berurutan.
+- **Langkah Penyelesaian:**
+  1. 09.50 + 25 menit = 10.15.
+  2. 10.15 + 3 jam = 13.15.
+  3. Menjadi pukul 13.15.
 
 **Kunci: B**
 **Pembahasan:**
@@ -916,6 +1137,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 14 tahun
 - C. 16 tahun
 - D. 25 tahun
+- **Konsep kunci:** Usia = tahun ulang tahun − tahun lahir.
+- **Langkah Penyelesaian:**
+  1. 2025 − 2010 = 15.
+  2. Usia Andi = 15 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -931,6 +1156,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 89 hari
 - C. 90 hari
 - D. 92 hari
+- **Konsep kunci:** Jumlahkan hari tiap bulan (Nov 30, Des 31, Jan 31).
+- **Langkah Penyelesaian:**
+  1. 30 + 31 + 31 = 92.
+  2. Total = 92 hari.
 
 **Kunci: D**
 **Pembahasan:**
@@ -946,6 +1175,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 6 tahun
 - C. 7 tahun
 - D. 8 tahun
+- **Konsep kunci:** Tahun kabisat = kelipatan 4 (dalam rentang biasa).
+- **Langkah Penyelesaian:**
+  1. 2000, 2004, 2008, 2012, 2016, 2020, 2024.
+  2. Jumlahnya 7 tahun kabisat.
 
 **Kunci: C**
 **Pembahasan:**
@@ -961,6 +1194,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 2.880 menit
 - C. 3.600 menit
 - D. 3.500 menit
+- **Konsep kunci:** Ubah hari ke jam (×24) lalu ke menit (×60).
+- **Langkah Penyelesaian:**
+  1. 2,5 × 24 = 60 jam.
+  2. 60 × 60 = 3.600 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -976,6 +1213,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 8 jam 25 menit
 - C. 7 jam 75 menit
 - D. 8 jam 35 menit
+- **Konsep kunci:** Hitung selisih dari 06.45 ke 14.20.
+- **Langkah Penyelesaian:**
+  1. 06.45 → 13.45 = 7 jam; 13.45 → 14.20 = 35 menit.
+  2. Total = 7 jam 35 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -991,6 +1232,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 28 tahun
 - C. 22 tahun
 - D. 14 tahun
+- **Konsep kunci:** 1 windu = 8 tahun; 1 dasawarsa = 10 tahun.
+- **Langkah Penyelesaian:**
+  1. 1,5 windu = 12 tahun; 2 dasawarsa = 20 tahun.
+  2. Jumlahkan: 12 + 20 = 32 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1006,6 +1251,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 kali
 - C. 6 kali
 - D. 7 kali
+- **Konsep kunci:** Hitung banyak bel dari jam berikutnya sampai jam selesai.
+- **Langkah Penyelesaian:**
+  1. Bel berbunyi pukul 08.00, 09.00, ..., 13.00.
+  2. Banyak bel = 6 kali.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1021,6 +1270,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 jam
 - C. 60 jam
 - D. 144 jam
+- **Konsep kunci:** 1 jam = 3.600 detik.
+- **Langkah Penyelesaian:**
+  1. Bagi 86.400 dengan 3.600.
+  2. 86.400 detik = 24 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1036,6 +1289,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 hari
 - C. 15 hari
 - D. 14 hari
+- **Konsep kunci:** Hari inklusif = tanggal selesai − tanggal mulai + 1.
+- **Langkah Penyelesaian:**
+  1. 18 − 5 + 1 = 14.
+  2. Festival = 14 hari.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1051,6 +1308,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60 hari
 - C. 61 hari
 - D. 62 hari
+- **Konsep kunci:** Jumlahkan hari tiap bulan (hitamkan kabisat 2024).
+- **Langkah Penyelesaian:**
+  1. Januari 31 + Februari (2024) 29.
+  2. Total = 60 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1066,6 +1327,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 18.25
 - C. 19.25
 - D. 19.05
+- **Konsep kunci:** Tambahkan durasi pada jam keberangkatan.
+- **Langkah Penyelesaian:**
+  1. 14.50 + 4 jam = 18.50; 18.50 + 35 menit = 19.25.
+  2. Mendarat pukul 19.25.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1081,6 +1346,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 14 April
 - C. 17 April
 - D. 1 April
+- **Konsep kunci:** Bunga ke-4 = 3 × 14 hari setelah bunga pertama.
+- **Langkah Penyelesaian:**
+  1. 3 Maret + 42 hari.
+  2. = 14 April 2024.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1096,6 +1365,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 14.35
 - C. 14.05
 - D. 14.15
+- **Konsep kunci:** Tambahkan lama menunggu pada waktu sekarang.
+- **Langkah Penyelesaian:**
+  1. 11.45 + 2 jam = 13.45; 13.45 + 50 menit = 14.35.
+  2. Ujian mulai pukul 14.35.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1111,6 +1384,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 8.640 jam
 - C. 365 jam
 - D. 87.600 jam
+- **Konsep kunci:** 1 tahun = 365 hari, 1 hari = 24 jam.
+- **Langkah Penyelesaian:**
+  1. 365 × 24.
+  2. = 8.760 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1126,6 +1403,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 jam 35 menit
 - C. 11 jam 25 menit
 - D. 12 jam 15 menit
+- **Konsep kunci:** Hitung selisih 06.40 ke 18.15.
+- **Langkah Penyelesaian:**
+  1. 06.40 → 17.40 = 11 jam; 17.40 → 18.15 = 35 menit.
+  2. Total = 11 jam 35 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1141,6 +1422,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 52 minggu sisa 2 hari
 - C. 50 minggu sisa 15 hari
 - D. 53 minggu sisa 0 hari
+- **Konsep kunci:** Bagi 365 dengan 7 untuk banyak minggu dan sisa.
+- **Langkah Penyelesaian:**
+  1. 365 ÷ 7 = 52 sisa 1.
+  2. = 52 minggu + 1 hari.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1156,6 +1441,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 6 bulan
 - C. 7 bulan
 - D. 8 bulan
+- **Konsep kunci:** 1 caturwulan = 4 bulan; 1 triwulan = 3 bulan.
+- **Langkah Penyelesaian:**
+  1. 4 + 3 = 7.
+  2. Proyek = 7 bulan.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1171,6 +1460,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 12 jam 45 menit
 - C. 13 jam 45 menit
 - D. 12 jam 15 menit
+- **Konsep kunci:** Hitung selisih 08.30 ke 21.15.
+- **Langkah Penyelesaian:**
+  1. 08.30 → 20.30 = 12 jam; 20.30 → 21.15 = 45 menit.
+  2. Toko buka 12 jam 45 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1186,6 +1479,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 168 menit
 - C. 1.440 menit
 - D. 10.080 menit
+- **Konsep kunci:** 1 hari = 1.440 menit.
+- **Langkah Penyelesaian:**
+  1. 7 × 1.440.
+  2. = 10.080 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1201,6 +1498,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 10 kali
 - C. 6 kali
 - D. 5 kali
+- **Konsep kunci:** Satu siklus = 60 detik (45 nyala + 15 mati).
+- **Langkah Penyelesaian:**
+  1. 5 menit = 300 detik = 5 siklus.
+  2. Tiap siklus lampu menyala sekali.
+  3. Menyala 5 kali.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1216,6 +1518,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. Tahun kabisat, 366 hari
 - C. Tahun biasa, 366 hari
 - D. Tahun kabisat, 365 hari
+- **Konsep kunci:** Tahun lahir = tanggal/waktu kelahiran.
+- **Langkah Penyelesaian:**
+  1. Andi lahir pada 1 Januari 2024.
+  2. Tahun lahir Andi = 2024.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1231,6 +1537,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 4 jam 30 menit
 - C. 3 jam 70 menit
 - D. 4 jam 70 menit
+- **Konsep kunci:** Hitung selisih 19.40 ke 23.10.
+- **Langkah Penyelesaian:**
+  1. 19.40 → 22.40 = 3 jam; 22.40 → 23.10 = 30 menit.
+  2. Konser = 3 jam 30 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1246,6 +1556,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 10 abad
 - C. 2 abad
 - D. 0,1 abad
+- **Konsep kunci:** Usia = 2024 − 1924, lalu ubah ke abad.
+- **Langkah Penyelesaian:**
+  1. 2024 − 1924 = 100 tahun.
+  2. 100 tahun = 1 abad.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1261,6 +1575,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 120.960 detik
 - C. 86.400 detik
 - D. 604.800 detik
+- **Konsep kunci:** Ubah minggu → hari → jam → menit → detik.
+- **Langkah Penyelesaian:**
+  1. 14 hari × 86.400 detik.
+  2. 2 minggu = 1.209.600 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1276,6 +1594,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 1.350 detik = 22 menit 30 detik
 - C. 1.500 menit
 - D. 22.500 detik
+- **Konsep kunci:** Kalikan waktu tiap mobil dengan banyak mobil.
+- **Langkah Penyelesaian:**
+  1. 25 × 90 = 2.250 detik.
+  2. 2.250 detik = 37 menit 30 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1291,6 +1613,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 8.760 jam
 - C. 240 jam
 - D. 876.000 jam
+- **Konsep kunci:** 1 dasawarsa = 10 tahun; hitung jam per tahun.
+- **Langkah Penyelesaian:**
+  1. 10 × 365 × 24.
+  2. = 87.600 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1306,6 +1632,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 10.36
 - C. 11.48
 - D. 09.36
+- **Konsep kunci:** Kalikan siklus mati dengan urutan ke-3.
+- **Langkah Penyelesaian:**
+  1. 3 × 72 = 216 menit = 3 jam 36 menit.
+  2. 07.00 + 3:36 = 10.36.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1323,6 +1653,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 25 tahun
 - C. 26 tahun
 - D. 100 tahun
+- **Konsep kunci:** Hitung tahun kabisat dari 1904 sampai 2000 (1900 bukan kabisat).
+- **Langkah Penyelesaian:**
+  1. (2000 − 1904) ÷ 4 + 1 = 25.
+  2. Jumlah tahun kabisat = 25.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1338,6 +1672,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 01.35 (hari berikutnya)
 - C. 02.45 (hari berikutnya)
 - D. 26.35 (notasi 24 jam)
+- **Konsep kunci:** Tambahkan 3 jam 50 menit lalu lewati tengah malam.
+- **Langkah Penyelesaian:**
+  1. 22.45 + 3 jam = 01.45; + 50 menit = 02.35.
+  2. = pukul 02.35 (hari berikutnya).
 
 **Kunci: A**
 **Pembahasan:**
@@ -1353,6 +1691,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 25.228.800 detik
 - C. 2.522.880 detik
 - D. 8.760 detik
+- **Konsep kunci:** Ubah windu → tahun → detik.
+- **Langkah Penyelesaian:**
+  1. 8 × 365 × 24 × 3.600.
+  2. 1 windu = 252.288.000 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1368,6 +1710,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 7 kali
 - C. 8 kali
 - D. 6 kali
+- **Konsep kunci:** Hitung 29 Februari dari tahun 2000 sampai 2024.
+- **Langkah Penyelesaian:**
+  1. Tahun kabisat: 2000, 2004, 2008, 2012, 2016, 2020, 2024.
+  2. Tono merayakan 7 kali.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1383,6 +1729,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 06.36
 - C. 07.00
 - D. 06.45
+- **Konsep kunci:** Cari KPK dari 12 dan 18 menit.
+- **Langkah Penyelesaian:**
+  1. KPK 12 dan 18 = 36 menit.
+  2. 06.00 + 36 menit = 06.36.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1398,6 +1748,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 19 jam
 - C. 20 jam
 - D. 21 jam
+- **Konsep kunci:** Satu siklus = 3 jam (2,5 nyala + 0,5 mati).
+- **Langkah Penyelesaian:**
+  1. 24 ÷ 3 = 8 siklus.
+  2. Menyala = 8 × 2,5 jam.
+  3. = 20 jam.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1413,6 +1768,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. Kamis
 - C. Jumat
 - D. Selasa
+- **Konsep kunci:** Pergeseran hari = jumlah hari mod 7.
+- **Langkah Penyelesaian:**
+  1. 15 Mei 2024 → 15 Mei 2025 = 365 hari (65 hari terbawa).
+  2. 365 ÷ 7 sisa 1.
+  3. Rabu + 1 = Kamis.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1428,6 +1788,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 6 hari
 - C. 4 hari
 - D. 5 hari
+- **Konsep kunci:** Hitung banyak tanggal Senin di bulan itu.
+- **Langkah Penyelesaian:**
+  1. Januari 2024 mulai Senin: 1, 8, 15, 22, 29.
+  2. Banyak Senin = 5.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1443,6 +1807,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 33 kali
 - C. 34 kali
 - D. 35 kali
+- **Konsep kunci:** Hitung banyak denting dari 09.00 sampai 17.00 inklusif.
+- **Langkah Penyelesaian:**
+  1. (17 − 9) × 4 + 1.
+  2. = 33 kali.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1458,6 +1826,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 11 hari 13 jam 47 menit 0 detik
 - C. 10 hari 23 jam 46 menit 40 detik
 - D. 12 hari 0 jam 0 menit 40 detik
+- **Konsep kunci:** Bagi berurutan: 1.000.000 ÷ 86.400 = hari, sisa → jam → menit → detik.
+- **Langkah Penyelesaian:**
+  1. 11 hari; sisa 49.600 detik.
+  2. 13 jam, sisa 2.800 detik = 46 menit 40 detik.
+  3. = 11 hari 13 jam 46 menit 40 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1473,6 +1846,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 76 tahun
 - C. 88 tahun
 - D. 86 tahun
+- **Konsep kunci:** 1 abad = 100; 1 windu = 8; 1 dasawarsa = 10 tahun.
+- **Langkah Penyelesaian:**
+  1. 100 − 2×8 − 10.
+  2. = 74 tahun.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1488,6 +1865,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 90,7%
 - C. 92,3%
 - D. 91,8%
+- **Konsep kunci:** Bagi hari di luar Februari dengan total hari tahun kabisat.
+- **Langkah Penyelesaian:**
+  1. 366 − 29 = 337 hari.
+  2. 337 ÷ 366 = 0,9208.
+  3. = 92,1%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1503,6 +1885,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 195 km
 - C. 200 km
 - D. 192 km
+- **Konsep kunci:** Jarak = kecepatan × waktu (jam).
+- **Langkah Penyelesaian:**
+  1. 3 jam 15 menit = 3,25 jam.
+  2. 60 × 3,25.
+  3. = 195 km.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1518,6 +1905,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 4.985 hari
 - C. 4.745 hari
 - D. 5.075 hari
+- **Konsep kunci:** Ubah windu/tahun/caturwulan ke hari lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 8×365 + 5×365 + 2×4×30.
+  2. = 2.920 + 1.825 + 240.
+  3. = 4.985 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1533,6 +1925,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 60°
 - C. 90°
 - D. 120°
+- **Konsep kunci:** Setiap 1 jam jarum jam bergeser 30°.
+- **Langkah Penyelesaian:**
+  1. Pukul 03.00: jarum jam di angka 3, jarum menit di angka 12.
+  2. 3 × 30° = 90°.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1548,6 +1944,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 731 hari
 - C. 732 hari
 - D. 366 hari
+- **Konsep kunci:** Hitung hari dari 12 Maret 2024 ke 12 Maret 2026.
+- **Langkah Penyelesaian:**
+  1. 2024/03 → 2025/03 = 365; 2025/03 → 2026/03 = 365.
+  2. Total = 730 hari.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1563,6 +1963,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 3.600 bulan
 - C. 36.000 bulan
 - D. 1.200 bulan
+- **Konsep kunci:** 1 abad = 100 tahun; 1 tahun = 12 bulan.
+- **Langkah Penyelesaian:**
+  1. 3 × 100 × 12.
+  2. = 3.600 bulan.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1578,6 +1982,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 27 jam 30 menit
 - C. 25 jam 30 menit
 - D. 2 jam 30 menit
+- **Konsep kunci:** Lewati tengah malam: Senin 23.45 → Rabu 02.15.
+- **Langkah Penyelesaian:**
+  1. Senin 23.45 → Selasa 24.00 = 15 menit; Selasa 24 jam; + 02.15.
+  2. Total = 26 jam 30 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1593,6 +2001,10 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 3,15 × 10¹⁰ detik
 - C. 3,15 × 10¹¹ detik
 - D. 3,15 × 10¹² detik
+- **Konsep kunci:** Hitung 1.000 tahun dalam detik.
+- **Langkah Penyelesaian:**
+  1. 1.000 × 365 × 24 × 3.600.
+  2. = 31.536.000.000 ≈ 3,15 × 10¹⁰ detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1608,6 +2020,11 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 - B. 65 tahun
 - C. 69 tahun
 - D. 71 tahun
+- **Konsep kunci:** Jumlahkan masa kerja lalu tambahkan usia mulai kerja.
+- **Langkah Penyelesaian:**
+  1. 4×8 + 10 + 5 = 47 tahun.
+  2. Usia pensiun = 22 + 47.
+  3. = 69 tahun.
 
 **Kunci: C**
 **Pembahasan:**

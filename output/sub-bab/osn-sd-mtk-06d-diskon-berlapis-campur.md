@@ -125,6 +125,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp140.000
 - C. Rp160.000
 - D. Rp180.000
+- **Konsep kunci:** Diskon berlapis: kalikan harga awal dengan faktor sisa tiap diskon (1−d).
+- **Langkah Penyelesaian:**
+  1. Setelah diskon pertama: 200.000 × 0,80 = 160.000.
+  2. Setelah diskon kedua: 160.000 × 0,90 = 144.000.
+  3. Bayar = Rp144.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -140,6 +145,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 28%
 - C. 25%
 - D. 32%
+- **Konsep kunci:** Diskon efektif = 100% − (faktor sisa total × 100%).
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,90 = 0,72.
+  2. Diskon efektif = 100% − 72% = 28%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -155,6 +164,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp135.000
 - C. Rp125.000
 - D. Rp121.500
+- **Konsep kunci:** Kalikan faktor sisa dua diskon 10% secara beruntun.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,90 = 0,81.
+  2. Bayar = 150.000 × 0,81 = 121.500.
 
 **Kunci: D**
 **Pembahasan:**
@@ -170,6 +183,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 20%
 - C. 25%
 - D. 75%
+- **Konsep kunci:** Promo beli 3 gratis 1: bayar 3, terima 4 → diskon = 1/4.
+- **Langkah Penyelesaian:**
+  1. Gratis 1 dari total 4 barang.
+  2. Diskon = 1/4 = 25%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -185,6 +202,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp180.000
 - C. Rp220.000
 - D. Rp240.000
+- **Konsep kunci:** Perkalian dua diskon: kalikan faktor sisa 25% dan 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,75 × 0,80 = 0,60.
+  2. Bayar = 400.000 × 0,60 = 240.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -200,6 +221,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp36.000
 - C. Rp40.000
 - D. Rp30.000
+- **Konsep kunci:** Kalikan harga awal dengan faktor sisa 10% lalu 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,80 = 0,72.
+  2. Bayar = 50.000 × 0,72 = 36.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -215,6 +240,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp48.000
 - C. Rp36.000
 - D. Rp30.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 50% dan 10% secara beruntun.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,90 = 0,45.
+  2. Bayar = 80.000 × 0,45 = 36.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -230,6 +259,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 25%
 - C. 33%
 - D. 50%
+- **Konsep kunci:** Promo beli 1 gratis 1: bayar 1, terima 2 → gratis setengah.
+- **Langkah Penyelesaian:**
+  1. Gratis 1 dari total 2 barang.
+  2. Diskon = 1/2 = 50%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -245,6 +278,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp700.000
 - C. Rp680.000
 - D. Rp630.000
+- **Konsep kunci:** Kalikan harga awal dengan faktor sisa 30% lalu 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 × 0,90 = 0,63.
+  2. Bayar = 1.000.000 × 0,63 = 630.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -260,6 +297,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp1.800.000
 - C. Rp1.700.000
 - D. Rp1.760.000
+- **Konsep kunci:** Diskon lalu kena pajak: kalikan faktor sisa diskon, lalu kalikan (1+PPN).
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 2.000.000 × 0,80 = 1.600.000.
+  2. Tambahkan PPN: 1.600.000 × 1,10 = 1.760.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -275,6 +316,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 33,33%
 - C. 25%
 - D. 20%
+- **Konsep kunci:** Promo beli 2 gratis 1: bayar 2, terima 3 → diskon = 1/3.
+- **Langkah Penyelesaian:**
+  1. Gratis 1 dari total 3 barang.
+  2. Diskon = 1/3 = 33,33%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -290,6 +335,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp0
 - C. Rp10.000
 - D. Rp5.000
+- **Konsep kunci:** Dua kali diskon 50% menyisakan 0,50 × 0,50.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,50 = 0,25.
+  2. Bayar = 40.000 × 0,25 = 10.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -305,6 +354,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp150.000
 - C. Rp125.000
 - D. Rp112.500
+- **Konsep kunci:** Kalikan faktor sisa diskon 40% dan 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,75 = 0,45.
+  2. Bayar = 250.000 × 0,45 = 112.500.
 
 **Kunci: D**
 **Pembahasan:**
@@ -320,6 +373,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp72.000
 - C. Rp58.320
 - D. Rp50.000
+- **Konsep kunci:** Tiga diskon 10% = faktor sisa 0,90 × 0,90 × 0,90.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90³ = 0,729.
+  2. Bayar = 80.000 × 0,729 = 58.320.
 
 **Kunci: C**
 **Pembahasan:**
@@ -335,6 +392,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko A
 - C. Toko B
 - D. Tidak bisa dibandingkan
+- **Konsep kunci:** Bandingkan faktor sisa: diskon berlapis tidak sama dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Toko A bayar = 0,70; Toko B bayar = 0,80 × 0,90 = 0,72.
+  2. 0,70 lebih kecil, jadi Toko A lebih murah.
 
 **Kunci: B**
 **Pembahasan:**
@@ -350,6 +411,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp95.000
 - C. Rp85.000
 - D. Rp80.000
+- **Konsep kunci:** Diskon lalu potongan uang tetap: kurangi setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 120.000 × 0,75 = 90.000.
+  2. Kurangi potongan: 90.000 − 10.000 = 80.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -365,6 +430,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp100.000
 - C. Rp80.000
 - D. Rp120.000
+- **Konsep kunci:** Soal balik: bagi harga bayar dengan faktor sisa diskon.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,80 = 0,40.
+  2. Harga awal = 48.000 ÷ 0,40 = 120.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -380,6 +449,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp48.000
 - C. Rp32.400
 - D. Rp27.000
+- **Konsep kunci:** Kalikan faktor sisa 10%, 20%, dan 25% secara beruntun.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,80 × 0,75 = 0,54.
+  2. Bayar = 60.000 × 0,54 = 32.400.
 
 **Kunci: C**
 **Pembahasan:**
@@ -395,6 +468,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 20%
 - C. 33%
 - D. 16,67%
+- **Konsep kunci:** Promo beli 4 gratis 1: bayar 4, terima 5 → diskon = 1/5.
+- **Langkah Penyelesaian:**
+  1. Gratis 1 dari total 5 barang.
+  2. Diskon = 1/5 = 20%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -410,6 +487,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp15.000
 - C. Rp10.000
 - D. Rp12.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 20% dan 50%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,50 = 0,40.
+  2. Bayar = 30.000 × 0,40 = 12.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -425,6 +506,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp18.000
 - C. Rp20.000
 - D. Rp22.500
+- **Konsep kunci:** Kalikan faktor sisa diskon 20% dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,90 = 0,72.
+  2. Bayar = 25.000 × 0,72 = 18.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -440,6 +525,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp40.500
 - C. Rp45.000
 - D. Rp50.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 40% dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,90 = 0,54.
+  2. Bayar = 75.000 × 0,54 = 40.500.
 
 **Kunci: B**
 **Pembahasan:**
@@ -455,6 +544,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp48.000
 - C. Rp50.000
 - D. Rp40.000
+- **Konsep kunci:** Soal balik: bagi harga bayar dengan faktor sisa 20% lalu 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,90 = 0,72.
+  2. Harga awal = 36.000 ÷ 0,72 = 50.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -470,6 +563,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp75.000
 - C. Rp67.500
 - D. Rp80.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 10% dan 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,75 = 0,675.
+  2. Bayar = 100.000 × 0,675 = 67.500.
 
 **Kunci: C**
 **Pembahasan:**
@@ -485,6 +582,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Sama
 - C. Berlapis "20% + 10%"
 - D. Tergantung harga awal
+- **Konsep kunci:** Diskon berlapis lebih kecil dari jumlahnya: 20%+10% = 28%, bukan 30%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa 20%+10% = 0,72 → diskon 28%.
+  2. 28% lebih kecil dari 30%, jadi diskon tunggal 30% lebih besar.
 
 **Kunci: A**
 **Pembahasan:**
@@ -500,6 +601,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp19.250
 - C. Rp20.000
 - D. Rp21.000
+- **Konsep kunci:** Diskon lalu PPN: kalikan faktor sisa diskon lalu (1+PPN).
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 35.000 × 0,50 = 17.500.
+  2. Tambahkan PPN: 17.500 × 1,10 = 19.250.
 
 **Kunci: B**
 **Pembahasan:**
@@ -515,6 +620,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 25%
 - C. 16,67%
 - D. 33%
+- **Konsep kunci:** Promo beli 5 gratis 1: bayar 5, terima 6 → diskon = 1/6.
+- **Langkah Penyelesaian:**
+  1. Gratis 1 dari total 6 barang.
+  2. Diskon = 1/6 = 16,67%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -530,6 +639,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp7.500
 - C. Rp6.250
 - D. Rp5.625
+- **Konsep kunci:** Kalikan faktor sisa dua diskon 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,75 × 0,75 = 0,5625.
+  2. Bayar = 10.000 × 0,5625 = 5.625.
 
 **Kunci: D**
 **Pembahasan:**
@@ -545,6 +658,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp140.000
 - C. Rp120.000
 - D. Rp112.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 30% dan 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 × 0,80 = 0,56.
+  2. Bayar = 200.000 × 0,56 = 112.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -560,6 +677,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp225.000
 - C. Rp250.000
 - D. Rp275.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 10% dan 50%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,50 = 0,45.
+  2. Bayar = 500.000 × 0,45 = 225.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -575,6 +696,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp80.000
 - C. Rp81.000
 - D. Rp72.900
+- **Konsep kunci:** Kalikan faktor sisa dua diskon 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,90 = 0,81.
+  2. Bayar = 90.000 × 0,81 = 72.900.
 
 **Kunci: D**
 **Pembahasan:**
@@ -590,6 +715,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Sama murah
 - C. Toko X
 - D. Toko Y lebih mahal
+- **Konsep kunci:** Bandingkan faktor sisa kedua toko, bukan menjumlah persen.
+- **Langkah Penyelesaian:**
+  1. Toko X bayar = 0,90 × 0,90 = 0,81 → diskon 19%.
+  2. Toko Y bayar = 0,81 → diskon 19%. Sama murah.
 
 **Kunci: B**
 **Pembahasan:**
@@ -605,6 +734,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp450.000
 - C. Rp420.000
 - D. Rp330.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 20% dan 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,75 = 0,60.
+  2. Bayar = 600.000 × 0,60 = 360.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -620,6 +753,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp100.000
 - C. Rp80.000
 - D. Rp120.000
+- **Konsep kunci:** Soal balik: bagi harga bayar dengan faktor sisa 50% lalu 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,75 = 0,375.
+  2. Harga awal = 45.000 ÷ 0,375 = 120.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -635,6 +772,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp40.000
 - C. Rp56.000
 - D. Rp50.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 20% dan 30%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,70 = 0,56.
+  2. Bayar = 80.000 × 0,56 = 44.800.
 
 **Kunci: A**
 **Pembahasan:**
@@ -650,6 +791,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 100%
 - C. 50%
 - D. 75%
+- **Konsep kunci:** Promo beli 2 gratis 2: bayar 2, terima 4 → diskon = 2/4 = 1/2.
+- **Langkah Penyelesaian:**
+  1. Gratis 2 dari total 4 barang.
+  2. Diskon = 2/4 = 50%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -665,6 +810,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp120.000
 - C. Rp100.000
 - D. Rp115.000
+- **Konsep kunci:** Diskon dulu, lalu kurangi cashback uang tetap.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 150.000 × 0,80 = 120.000.
+  2. Kurangi cashback: 120.000 − 10.000 = 110.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -680,6 +829,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko A
 - C. Toko B
 - D. Tidak bisa dibandingkan
+- **Konsep kunci:** Bandingkan faktor sisa: diskon berlapis tak bisa dijumlah.
+- **Langkah Penyelesaian:**
+  1. Toko A bayar = 0,50; Toko B bayar = 0,70 × 0,80 = 0,56.
+  2. 0,50 lebih kecil, jadi Toko A lebih murah.
 
 **Kunci: B**
 **Pembahasan:**
@@ -695,6 +848,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp200.000
 - C. Rp160.000
 - D. Rp180.000
+- **Konsep kunci:** Kalikan faktor sisa dua diskon 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,80 = 0,64.
+  2. Bayar = 250.000 × 0,64 = 160.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -710,6 +867,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp600.000
 - C. Rp720.000
 - D. Rp500.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 25% dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,75 × 0,90 = 0,675.
+  2. Bayar = 800.000 × 0,675 = 540.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -725,6 +886,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp64.000
 - C. Rp58.320
 - D. Rp72.000
+- **Konsep kunci:** Tiga diskon 10% = faktor sisa 0,90³.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,90 × 0,90 = 0,729.
+  2. Bayar = 80.000 × 0,729 = 58.320.
 
 **Kunci: C**
 **Pembahasan:**
@@ -740,6 +905,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp55.000
 - C. Rp50.000
 - D. Rp60.000
+- **Konsep kunci:** Diskon dulu, lalu kurangi voucher uang tetap.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 100.000 × 0,60 = 60.000.
+  2. Kurangi voucher: 60.000 − 5.000 = 55.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -755,6 +924,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp1.050.000
 - C. Rp1.000.000
 - D. Rp975.000
+- **Konsep kunci:** Kalikan faktor sisa 20%, 10%, dan 5% secara beruntun.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,90 × 0,95 = 0,684.
+  2. Bayar = 1.500.000 × 0,684 = 1.026.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -770,6 +943,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp13.500
 - C. Rp18.000
 - D. Rp20.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 20% dan 50%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,50 = 0,40.
+  2. Bayar = 45.000 × 0,40 = 18.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -785,6 +962,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko A lebih murah Rp10.000
 - C. Sama
 - D. Toko A lebih murah Rp20.000
+- **Konsep kunci:** Hitung bayar di tiap toko lalu kurangi untuk cari selisih.
+- **Langkah Penyelesaian:**
+  1. Toko A bayar = 200.000 × 0,50 = 100.000.
+  2. Toko B bayar = 200.000 × 0,80 × 0,75 = 120.000.
+  3. Selisih = 120.000 − 100.000 = 20.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -800,6 +982,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp175.000
 - C. Rp245.000
 - D. Rp140.000
+- **Konsep kunci:** Kalikan faktor sisa dua diskon 30%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 × 0,70 = 0,49.
+  2. Bayar = 350.000 × 0,49 = 171.500.
 
 **Kunci: A**
 **Pembahasan:**
@@ -815,6 +1001,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp45.000
 - C. Rp50.000
 - D. Rp53.400
+- **Konsep kunci:** Diskon lalu PPN: kalikan faktor sisa diskon lalu (1+PPN).
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 60.000 × 0,75 = 45.000.
+  2. Tambahkan PPN: 45.000 × 1,11 = 49.950.
 
 **Kunci: A**
 **Pembahasan:**
@@ -830,6 +1020,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp20.000
 - C. Rp10.000
 - D. Rp5.000
+- **Konsep kunci:** Dua diskon 50% menyisakan faktor 0,25.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,50 = 0,25.
+  2. Bayar = 40.000 × 0,25 = 10.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -845,6 +1039,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp60.000
 - C. Rp72.000
 - D. Rp84.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 30% dan 20% (potongan tambahan).
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 × 0,80 = 0,56.
+  2. Bayar = 120.000 × 0,56 = 67.200.
 
 **Kunci: A**
 **Pembahasan:**
@@ -860,6 +1058,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp93.333
 - C. Rp100.000
 - D. Rp84.000
+- **Konsep kunci:** Soal balik: bagi harga bayar dengan faktor sisa 40% lalu 25%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,75 = 0,45.
+  2. Harga awal = 42.000 ÷ 0,45 = 93.333.
 
 **Kunci: B**
 **Pembahasan:**
@@ -877,6 +1079,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp2.400.000
 - C. Rp2.500.000
 - D. Rp2.448.000
+- **Konsep kunci:** Kalikan tiga faktor sisa 20%, 15%, dan 10% secara beruntun.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,85 × 0,90.
+  2. 0,80 × 0,85 = 0,68; × 0,90 = 0,612.
+  3. Bayar = 4.000.000 × 0,612 = 2.448.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -892,6 +1099,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko A
 - C. Toko B
 - D. Tergantung harga
+- **Konsep kunci:** Bandingkan faktor sisa dua toko; yang lebih kecil lebih murah.
+- **Langkah Penyelesaian:**
+  1. Toko A: 0,75 × 0,75 = 0,5625.
+  2. Toko B: 0,70 × 0,80 = 0,56.
+  3. 0,56 lebih kecil, jadi Toko B lebih murah.
 
 **Kunci: C**
 **Pembahasan:**
@@ -907,6 +1119,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp5.940.000
 - C. Rp6.000.000
 - D. Rp5.400.000
+- **Konsep kunci:** Diskon berlapis lalu PPN: kalikan semua faktor lalu (1+PPN).
+- **Langkah Penyelesaian:**
+  1. Faktor diskon = 0,90 × 0,80 = 0,72.
+  2. Bayar sebelum PPN = 7.500.000 × 0,72 = 5.400.000.
+  3. Tambahkan PPN: 5.400.000 × 1,11 = 5.994.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -922,6 +1139,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp90.000
 - C. Rp100.000
 - D. Rp108.000
+- **Konsep kunci:** Soal balik: bagi total bayar dengan faktor sisa diskon lalu PPN.
+- **Langkah Penyelesaian:**
+  1. Faktor diskon = 0,75 × 0,80 = 0,60.
+  2. Harga sebelum diskon = 54.000 ÷ 0,60 = 90.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -937,6 +1158,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 33%
 - C. 40%
 - D. 50%
+- **Konsep kunci:** Promo beli 3 gratis 2: bayar 3, terima 5 → diskon = 2/5.
+- **Langkah Penyelesaian:**
+  1. Gratis 2 dari total 5 barang.
+  2. Diskon = 2/5 = 40%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -952,6 +1177,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko X lebih murah Rp50.000
 - C. Toko Y lebih murah Rp10.000
 - D. Sama
+- **Konsep kunci:** Hitung bayar tiap toko lalu bandingkan dan cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Toko X bayar = 4.000.000 × 0,65 = 2.600.000.
+  2. Toko Y bayar = 4.000.000 × 0,75 × 0,85 = 2.550.000.
+  3. Toko Y lebih murah, selisih = 50.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -967,6 +1197,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 50%
 - C. 56%
 - D. 35%
+- **Konsep kunci:** Diskon efektif = 100% − (faktor sisa total × 100%).
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,80 × 0,70 = 0,56.
+  2. Diskon efektif = 100% − 56% = 44%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -982,6 +1216,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp700.000
 - C. Rp720.000
 - D. Rp660.000
+- **Konsep kunci:** Diskon berlapis lalu kurangi cashback uang tetap.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 1.200.000 × 0,75 × 0,80 = 720.000.
+  2. Kurangi cashback: 720.000 − 60.000 = 660.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -997,6 +1235,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko B
 - C. Sama
 - D. Tidak bisa dibandingkan
+- **Konsep kunci:** Urutan diskon tidak mengubah hasil (perkalian komutatif).
+- **Langkah Penyelesaian:**
+  1. Toko A bayar = 0,80 × 0,90 = 0,72.
+  2. Toko B bayar = 0,90 × 0,80 = 0,72.
+  3. Hasilnya sama, keduanya sama murah.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1012,6 +1255,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp100.000
 - C. Rp75.000
 - D. Rp90.000
+- **Konsep kunci:** Diskon pecahan: kelipatan (1 − pecahan) untuk tiap lapis.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = (2/3) × (3/4) = 6/12 = 0,5.
+  2. Bayar = 180.000 × 0,5 = 90.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1027,6 +1274,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 33%
 - C. 20%
 - D. 25%
+- **Konsep kunci:** Promo beli 1 dapat 1 setengah harga: bayar 1,5 untuk 2 item.
+- **Langkah Penyelesaian:**
+  1. Bayar total = 1 + 0,5 = 1,5 dari 2 harga.
+  2. Diskon = (2 − 1,5) ÷ 2 = 0,5 ÷ 2 = 25%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1042,6 +1293,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 80%
 - C. 70%
 - D. 75%
+- **Konsep kunci:** Diskon efektif = 100% − (faktor sisa total × 100%).
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,60 = 0,30.
+  2. Diskon efektif = 100% − 30% = 70%.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1057,6 +1312,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 85%
 - C. 80%
 - D. 65%
+- **Konsep kunci:** Gabungkan diskon maksimal dan diskon member secara berlapis.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,25 × 0,90 = 0,225.
+  2. Diskon efektif = 100% − 22,5% = 77,5%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1072,6 +1331,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp4.800.000
 - C. Rp4.700.000
 - D. Rp4.363.636
+- **Konsep kunci:** Soal balik: bagi total bayar dengan faktor diskon lalu PPN.
+- **Langkah Penyelesaian:**
+  1. Faktor diskon = 0,80 × 0,90 = 0,72; × PPN 1,10 = 0,792.
+  2. Harga awal = 3.801.600 ÷ 0,792 = 4.800.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1087,6 +1350,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko A
 - C. Sama
 - D. Tergantung harga
+- **Konsep kunci:** Bandingkan faktor sisa: diskon berlapis vs diskon tunggal.
+- **Langkah Penyelesaian:**
+  1. Toko A: 0,90 × 0,80 × 0,70 = 0,504.
+  2. Toko B: bayar 0,40.
+  3. 0,40 lebih kecil, jadi Toko B lebih murah.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1102,6 +1370,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp350.000
 - C. Rp408.240
 - D. Rp345.600
+- **Konsep kunci:** Kalikan tiga faktor sisa 25%, 16%, dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,75 × 0,84 × 0,90.
+  2. 0,75 × 0,84 = 0,63; × 0,90 = 0,567.
+  3. Bayar = 720.000 × 0,567 = 408.240.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1117,6 +1390,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp250.000
 - C. Rp280.000
 - D. Rp300.000
+- **Konsep kunci:** Kalikan faktor sisa diskon 40% dan 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,80 = 0,48.
+  2. Bayar = 600.000 × 0,48 = 288.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1132,6 +1409,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 0,125
 - C. 0,5
 - D. 0,25
+- **Konsep kunci:** Tiga lapis diskon 50% = faktor sisa 0,50³.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,50 × 0,50 = 0,125.
+  2. Faktor sisa = 12,5%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1147,6 +1428,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp46.200
 - C. Rp45.000
 - D. Rp47.250
+- **Konsep kunci:** Diskon, PPN, dan service charge dikalikan berurutan.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 50.000 × 0,80 = 40.000.
+  2. PPN: 40.000 × 1,10 = 44.000.
+  3. Service: 44.000 × 1,05 = 46.200.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1162,6 +1448,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 28,6%
 - C. 25%
 - D. 20%
+- **Konsep kunci:** Promo beli 5 gratis 2: bayar 5, terima 7 → diskon = 2/7.
+- **Langkah Penyelesaian:**
+  1. Gratis 2 dari total 7 barang.
+  2. Diskon = 2/7 = 28,57%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1177,6 +1467,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Tidak, sebenarnya 60%
 - C. Tidak, sebenarnya 65%
 - D. Tidak, sebenarnya 80%
+- **Konsep kunci:** Hitung diskon efektif dulu sebelum menilai ucapan.
+- **Langkah Penyelesaian:**
+  1. Bayar = 300.000 × 0,50 × 0,80 = 120.000.
+  2. Diskon efektif = (300.000 − 120.000) ÷ 300.000 = 60%.
+  3. 60% ≠ 70%, jadi ucapan Pak Dedi salah.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1192,6 +1487,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp24.000
 - C. Rp36.000
 - D. Rp40.000
+- **Konsep kunci:** Kalikan tiga faktor sisa 40%, 25%, dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,75 × 0,90.
+  2. 0,60 × 0,75 = 0,45; × 0,90 = 0,405.
+  3. Bayar = 80.000 × 0,405 = 32.400.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1207,6 +1507,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko Y
 - C. Toko Z
 - D. Semua sama
+- **Konsep kunci:** Hitung faktor sisa tiap toko; yang terbesar = paling mahal.
+- **Langkah Penyelesaian:**
+  1. X = 0,70; Y = 0,80 × 0,90 = 0,72; Z = 0,85 × 0,85 = 0,7225.
+  2. Faktor terbesar = Toko Z.
+  3. Jadi Toko Z paling mahal.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1222,6 +1527,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp486.000
 - C. Rp450.000
 - D. Rp420.000
+- **Konsep kunci:** Kalikan faktor sisa 40%, 25%, dan 10%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,60 × 0,75 × 0,90.
+  2. 0,60 × 0,75 = 0,45; × 0,90 = 0,405.
+  3. Bayar = 1.200.000 × 0,405 = 486.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1237,6 +1547,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp1.600.000
 - C. Rp1.620.000
 - D. Rp1.666.667
+- **Konsep kunci:** Soal balik tiga lapis: bagi harga bayar dengan faktor sisa.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,75 × 0,80 × 0,90 = 0,54.
+  2. Harga awal = 900.000 ÷ 0,54 = 1.666.667.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1252,6 +1566,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 25%
 - C. 42,86%
 - D. 33%
+- **Konsep kunci:** Promo beli 7 gratis 3: bayar 7, terima 10 → diskon = 3/10.
+- **Langkah Penyelesaian:**
+  1. Gratis 3 dari total 10 barang.
+  2. Diskon = 3/10 = 30%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1267,6 +1585,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp180.000
 - C. Rp200.000
 - D. Rp250.000
+- **Konsep kunci:** Kalikan tiga faktor sisa 50%, 25%, dan 20%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,50 × 0,75 × 0,80.
+  2. 0,50 × 0,75 = 0,375; × 0,80 = 0,30.
+  3. Bayar = 720.000 × 0,30 = 216.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1282,6 +1605,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp75.000
 - C. Rp80.000
 - D. Rp84.000
+- **Konsep kunci:** Soal balik dua lapis: bagi harga bayar dengan faktor sisa.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 × 0,75 = 0,525.
+  2. Harga awal = 42.000 ÷ 0,525 = 80.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1297,6 +1624,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp72.900
 - C. Rp80.000
 - D. Rp75.000
+- **Konsep kunci:** Diskon kumulatif mingguan: kalikan faktor sisa tiap minggu.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,90 × 0,90 = 0,729.
+  2. Harga akhir = 100.000 × 0,729 = 72.900.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1312,6 +1643,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko B
 - C. Sama
 - D. Tidak bisa dibandingkan
+- **Konsep kunci:** Bandingkan faktor sisa diskon tunggal vs dua lapis.
+- **Langkah Penyelesaian:**
+  1. Toko A bayar = 0,40.
+  2. Toko B bayar = 0,50 × 0,80 = 0,40.
+  3. Faktor sama, jadi sama murah.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1329,6 +1665,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp570.000
 - C. Rp615.000
 - D. Rp525.000
+- **Konsep kunci:** Urutkan: diskon berlapis, kurangi voucher, lalu tambah PPN.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 1.000.000 × 0,70 × 0,80 = 560.000.
+  2. Kurangi voucher: 560.000 − 50.000 = 510.000.
+  3. Tambahkan PPN: 510.000 × 1,10 = 561.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1344,6 +1685,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp200.000
 - C. Rp225.000
 - D. Rp250.000
+- **Konsep kunci:** Rantai produsen→distributor→pengecer: kalikan faktor diskon/markup.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon produsen: 200.000 × 0,75 = 150.000.
+  2. Markup distributor: 150.000 × 1,20 = 180.000.
+  3. Markup pengecer: 180.000 × 1,25 = 225.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1359,6 +1705,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 16%
 - C. 36%
 - D. 20%
+- **Konsep kunci:** Dua diskon p% memberi faktor (1−p)²; samakan dengan tahu diskon.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 100% − 36% = 0,64.
+  2. (1−p)² = 0,64 → 1−p = 0,8.
+  3. p = 20%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1374,6 +1725,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 30%
 - C. 35%
 - D. 20%
+- **Konsep kunci:** Soal balik dengan variabel p: bagi dan cari (1−p).
+- **Langkah Penyelesaian:**
+  1. Faktor sisa total = 262.500 ÷ 500.000 = 0,525.
+  2. (1−p) × 0,75 = 0,525 → 1−p = 0,70.
+  3. p = 30%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1389,6 +1745,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp510.000
 - C. Rp528.000
 - D. Rp540.000
+- **Konsep kunci:** Diskon berlapis sesuai tier: kalikan faktor sisa tiap tier.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,95 = 0,855.
+  2. Bayar = 600.000 × 0,855 = 513.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1404,6 +1764,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko M
 - C. Toko O
 - D. Toko N
+- **Konsep kunci:** Bandingkan faktor sisa M, N, dan O; yang terkecil = termurah.
+- **Langkah Penyelesaian:**
+  1. M dan N: 0,60 × 1,10 = 0,66 (sama karena komutatif).
+  2. O: 0,65.
+  3. 0,65 paling kecil, jadi Toko O termurah.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1419,6 +1784,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 10%
 - C. 9%
 - D. 27,1%/3
+- **Konsep kunci:** Tiga diskon p% memberi faktor (1−p)³; samakan dengan tahu.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 100% − 27,1% = 0,729.
+  2. (1−p)³ = 0,729 → 1−p = 0,90.
+  3. p = 10%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1434,6 +1804,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp810.000
 - C. Rp780.000
 - D. Rp769.500
+- **Konsep kunci:** Diskon lalu cashback: kalikan faktor diskon, lalu kalikan sisa uang keluar.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 1.500.000 × 0,75 × 0,80 × 0,90 = 810.000.
+  2. Cashback 5%: uang efektif = 810.000 × 0,95.
+  3. Uang keluar = 769.500.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1449,6 +1824,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp200.000
 - C. Rp180.000
 - D. Rp220.000
+- **Konsep kunci:** Hitung masing-masing item, jumlahkan, lalu kalikan diskon member.
+- **Langkah Penyelesaian:**
+  1. A: 200.000 × 0,50 = 100.000; B: 150.000 × 0,80 = 120.000.
+  2. Total = 220.000.
+  3. Setelah member: 220.000 × 0,90 = 198.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1464,6 +1844,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp1.120.000
 - C. Rp1.008.000
 - D. Rp1.000.000
+- **Konsep kunci:** Diskon lalu cashback persen: kurangi cashback dari harga diskon.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 2.000.000 × 0,70 × 0,80 = 1.120.000.
+  2. Cashback = 10% × 1.120.000 = 112.000.
+  3. Uang keluar = 1.120.000 − 112.000 = 1.008.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1479,6 +1864,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 50%
 - C. 56%
 - D. 45%
+- **Konsep kunci:** Cari diskon efektif Toko A lalu jadikan diskon tunggal x%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa Toko A = 0,80 × 0,70 = 0,56.
+  2. Diskon efektif = 44%.
+  3. x = 44%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1494,6 +1884,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp550.000
 - C. Rp612.000
 - D. Rp520.000
+- **Konsep kunci:** Diskon kumulatif mingguan: kalikan faktor sisa tiap minggu.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90 × 0,85 × 0,80.
+  2. 0,90 × 0,85 = 0,765; × 0,80 = 0,612.
+  3. Bayar = 1.000.000 × 0,612 = 612.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1509,6 +1904,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 50%
 - C. 75%
 - D. 30%
+- **Konsep kunci:** Promo beli 4 gratis 3: bayar 4, terima 7 → diskon = 3/7.
+- **Langkah Penyelesaian:**
+  1. Gratis 3 dari total 7 barang.
+  2. Diskon = 3/7 = 42,86%.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1524,6 +1923,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 27,1%
 - C. 28%
 - D. 29%
+- **Konsep kunci:** Tiga lapis 10% = faktor 0,90³; cari diskon tunggal setara d%.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,90³ = 0,729.
+  2. Diskon efektif = 100% − 72,9% = 27,1%.
+  3. d = 27,1%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1539,6 +1943,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp200.000
 - C. Rp225.000
 - D. Rp180.000
+- **Konsep kunci:** Diskon pecahan: kalikan (1 − pecahan) untuk tiap lapis.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = (4/5) × (3/4) × (2/3).
+  2. (4/5 × 3/4) = 3/5; × 2/3 = 2/5 = 0,40.
+  3. Bayar = 450.000 × 0,40 = 180.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1554,6 +1963,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 12%
 - C. 15%
 - D. 10%
+- **Konsep kunci:** Soal balik dengan variabel q: cari (1−q) dari diskon efektif.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 100% − 28% = 0,72.
+  2. 0,80 × (1−q) = 0,72 → 1−q = 0,90.
+  3. q = 10%.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1569,6 +1983,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp220.000
 - C. Rp240.000
 - D. Rp200.000
+- **Konsep kunci:** Diskon dulu, lalu tambah biaya admin dan ongkir dari hasil.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon: 400.000 × 0,50 = 200.000.
+  2. Biaya admin + ongkir = 15% × 200.000 = 30.000.
+  3. Total = 200.000 + 30.000 = 230.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1584,6 +2003,10 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Rp420.000
 - C. Rp450.000
 - D. Rp400.000
+- **Konsep kunci:** Soal balik tiga lapis lalu PPN: kalikan faktor sisa, bagi.
+- **Langkah Penyelesaian:**
+  1. Faktor diskon = 0,90³ = 0,729; × PPN 1,10 = 0,8019.
+  2. Harga awal = 320.760 ÷ 0,8019 = 400.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1599,6 +2022,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. 20%
 - C. 18%
 - D. 15%
+- **Konsep kunci:** Tiga diskon p% memberi faktor (1−p)³; samakan dengan tahu.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 100% − 48,8% = 0,512.
+  2. (1−p)³ = 0,512 → 1−p = 0,80.
+  3. p = 20%.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1614,6 +2042,11 @@ Contoh: Toko A diskon 25%. Toko B diskon "20% + 10%". Mana lebih murah?
 - B. Toko C
 - C. Toko A
 - D. Toko B
+- **Konsep kunci:** Hitung faktor sisa tiap toko (termasuk PPN); yang terkecil = termurah.
+- **Langkah Penyelesaian:**
+  1. A: 0,70 × 0,80 × 1,11 = 0,6216.
+  2. B: 0,60 × 0,90 × 1,11 = 0,5994.
+  3. 0,5994 terkecil, jadi Toko B paling murah.
 
 **Kunci: D**
 **Pembahasan:**

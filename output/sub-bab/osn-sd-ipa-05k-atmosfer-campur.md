@@ -755,8 +755,10 @@ Catatan penting:
 
 **Kunci: D**
 **Pembahasan:**
-- **A,B,C dampak polusi** — hujan asam, smog, dan ISPA semua dipicu polutan udara.
-- **D bukan dampak polusi** — **Gerhana Bulan** terjadi karena posisi Bumi-Bulan-Matahari, tak ada hubungannya dengan polusi.
+- **A salah:** Hujan asam justru DIHASILKAN oleh polusi udara — gas SO₂ dan NOₓ dari asap kendaraan/pabrik bercampur uap air di awan jadi asam, turun sebagai hujan asam.
+- **B salah:** Smog juga DIHASILKAN oleh polusi udara — campuran asap kendaraan, NOₓ, dan ozon permukaan dengan kelembapan udara.
+- **C salah:** ISPA (gangguan saluran napas) juga DIHASILKAN oleh polusi udara — partikel polutan yang terhirup mengiritasi saluran napas.
+- **D benar:** Gerhana Bulan terjadi karena posisi Bumi berada di antara Matahari dan Bulan sehingga bayangan Bumi menutupi Bulan — ini fenomena astronomi murni, sama sekali tidak berhubungan dengan polusi udara.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Tujuan: catat status implementasi & cara melanjutkan di chat baru. **Update saat ada perubahan signifikan.**
 
-Last updated: **2026-05-19** (Round 11 / Sticky Sidebar Header + i18n useT() complete migration).
+Last updated: **2026-09-09** (Round 12 / Video-mode re-design 30:70 split + batch record pipeline).
 
 ---
 
@@ -19,7 +19,8 @@ Last updated: **2026-05-19** (Round 11 / Sticky Sidebar Header + i18n useT() com
 | Data folder (lazy-loaded) | 18 MB | `public/data/*.json`, dilayani Vite + browser cache |
 | Build | ✅ Pass | `npm run build` clean (1 warning canvas-confetti, kosmetik) |
 | Dev | http://localhost:5173/ | `npm run dev` |
-| Visual test browser | ⚠️ Belum di-pass | Banyak komponen ditambah otomatis tanpa di-cek di mata manusia |
+| Video production | 🔄 Batch jalan | `record-videos.mjs` (Playwright, 1920×1080) → `recordings/*.webm`; resume 43 paket MTK 05d→08k + re-record 117 v1 (rantai `scripts/batch-rerecord.ps1`) |
+| Visual test browser | ⚠️ Belum di-pass | Banyak komponen ditambah otomatis tanpa di-cek di mata manusia; frame audit tersimpan di `visual-pass/` |
 | PWA | Manifest + SW ready | Aktif hanya di production build |
 
 ### Validator (`node scripts/validate-data.mjs`)
@@ -342,6 +343,14 @@ osn-app/
 | 10 | **Deep parser audit + validator** | `validate-data.mjs` baru; menemukan 4 critical bug (question/options kosong); 3 format varian baru di-handle (A-inline, A-short, C-multi-on-line); 218/218 file, 21,747 soal validated, 0 error |
 | 11 | **Tier preference + auto-scale to 256 file** | User tambah 38 file MD baru → parser handle tanpa perubahan (256/256, 25,667 soal). `tierPreference` (Settings) di-wire end-to-end: `App.jsx → useSubBabData(preferredTier) → pickFile(preferredTier)` dan `TryoutArea` sampling pakai tier yang dipilih (fallback campur, lalu apa adanya). `pickFile()` fallback chain: exact tier → campur → sedang → mudah → sulit → any. |
 | 11 | **Sticky Explanation + i18n useT() Complete** | sticky explanation title/subtitle in Video Producer Studio, full bilingual localizations for Dashboard, PracticeArea, and Analytics |
+| 12 | **Video-mode re-design + batch record pipeline** | Split pembahasan 30:70 (grid-10: soal `col-span-3`, pembahasan `col-span-7`, clean + interactive). Compact split: font soal 16px, opsi/badge mini, nav ramping, `min-w-0` + `break-words` (no overflow). Font pembahasan clean-mode ×0.8 (45→36 / 27→21.6 / 4xl→28.8 / 2xl→19.2). Kartu soal tricentered (`justify-center`; `justify-[safe_center]` invalid → divet). Audit numerik Playwright: no-overflow & no text-clip di 1080p/720p. Pipeline: resume 43 paket tersisa + re-record seluruh 160 (v1 diarsip ke `recordings-v1-old/`) via `scripts/batch-rerecord.ps1`. |
+
+### Round 12 detail
+- **`src/components/PracticeArea.jsx`** — split layout diganti grid-cols-10 (soal 30% / pembahasan 70%) di clean & interactive; kelas compact kondisional `isSplitActive` (timer, badge, soal, opsi, nav); teks opsi `break-words`.
+- **Aktif split**: soal `text-base`, opsi `text-base` + badge `8×8`, kartu `p-4`.
+- **Pembahasan clean-mode**: judul 36px, label 21.6px, isi 28.8px, badge langkah 19.2px.
+- **Verifikasi**: `docScroll == viewport` (1920 & 1280), rasio 576:1344 = 3:7, kartu soal centered (center 540).
+- **Frame audit**: `visual-pass/` (fase tanya, split-top, split-scroll, soal-berikutnya; 1080p & 720p).
 
 ---
 

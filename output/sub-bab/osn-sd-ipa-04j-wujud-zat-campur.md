@@ -150,7 +150,12 @@ Tiga wujud zat yang paling umum di Bumi adalah...
 - C. Es, hujan, awan
 - D. Magnet
 
-**📖 Pembahasan:** 3 wujud klasik di SD: padat, cair, gas. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Materi memiliki tiga wujud dasar berdasarkan susunan partikelnya: padat, cair, dan gas.
+- **A benar:** Padat, cair, gas adalah nama tiga wujud zat yang berlaku umum untuk semua jenis materi.
+- **B salah:** Besi, air, udara adalah contoh benda pada tiap wujud, bukan nama wujud itu sendiri — siswa sering tertukar antara "nama kategori" dan "contoh anggotanya".
+- **C salah:** Es, hujan, awan sebetulnya adalah air dalam berbagai wujud (padat/cair/gas), bukan nama tiga wujud yang berbeda.
+- **D salah:** Magnet adalah sifat kemagnetan benda, sama sekali bukan wujud zat.
 
 ---
 
@@ -163,7 +168,12 @@ Sifat zat padat adalah...
 - C. Mengalir
 - D. Mudah dimampatkan
 
-**📖 Pembahasan:** Padat = bentuk & volume tetap. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Ciri utama zat padat adalah bentuk dan volumenya sama-sama tetap karena partikelnya terikat kuat.
+- **A salah:** "Bentuk berubah" adalah ciri zat cair/gas, bukan padat — siswa tertukar sifat antarwujud.
+- **B benar:** Padat punya bentuk tetap dan volume tetap karena partikelnya terikat rapat dan hanya bergetar di tempat.
+- **C salah:** "Mengalir" adalah kemampuan zat cair dan gas (fluida); padat tidak bisa mengalir.
+- **D salah:** "Mudah dimampatkan" adalah ciri khas gas (partikel berjauhan); padat justru sangat sulit dimampatkan.
 
 ---
 
@@ -176,7 +186,12 @@ Sifat zat cair adalah...
 - C. **Bentuk mengikuti wadah, volume tetap**
 - D. Tidak ada
 
-**📖 Pembahasan:** Cair = bentuk ikut wadah, volume tetap. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat cair punya volume tetap tapi bentuknya mengikuti wadah yang ditempati.
+- **A salah:** Bentuk tetap adalah ciri padat, bukan cair — cair justru berubah bentuk sesuai wadah.
+- **B salah:** Volume berubah adalah ciri gas; volume cair sebenarnya tetap meski dipindah wadah.
+- **C benar:** Cair mengikuti bentuk wadah tapi volumenya tidak berubah, karena partikelnya dekat namun bisa meluncur.
+- **D salah:** "Tidak ada" tidak menjawab pertanyaan — setiap zat cair pasti memiliki sifat bentuk dan volume tertentu.
 
 ---
 
@@ -189,7 +204,12 @@ Sifat zat gas adalah...
 - C. Tidak ada
 - D. **Mengisi seluruh wadah (bentuk & volume berubah)**
 
-**📖 Pembahasan:** Gas = mengisi seluruh ruang. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas adalah satu-satunya wujud yang bentuk maupun volumenya berubah mengikuti wadah.
+- **A salah:** "Tetap" adalah ciri padat, bukan gas — siswa tertukar sifat tetap-berubah antarwujud.
+- **B salah:** "Mengikuti wadah, volume tetap" adalah ciri zat cair, bukan gas (volume gas justru ikut berubah).
+- **C salah:** "Tidak ada" tidak sesuai karena gas tetap memiliki sifat bentuk dan volume yang jelas (keduanya berubah).
+- **D benar:** Gas mengisi seluruh ruang wadahnya karena partikelnya bergerak bebas ke segala arah, sehingga bentuk dan volumenya berubah mengikuti wadah.
 
 ---
 
@@ -202,7 +222,12 @@ Contoh zat padat adalah...
 - C. Udara
 - D. Asap
 
-**📖 Pembahasan:** Batu = padat. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Contoh zat padat adalah benda dengan bentuk dan volume tetap.
+- **A benar:** Batu memiliki bentuk dan volume tetap, ciri khas zat padat.
+- **B salah:** Air adalah zat cair, bentuknya berubah mengikuti wadah.
+- **C salah:** Udara adalah zat gas, mengisi seluruh ruang yang tersedia.
+- **D salah:** Asap adalah kumpulan partikel halus yang melayang di udara, tergolong gas, bukan padat.
 
 ---
 
@@ -215,7 +240,12 @@ Contoh zat cair adalah...
 - C. Asap
 - D. Es
 
-**📖 Pembahasan:** Minyak = cair. Es = padat. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat cair mengalir dan bentuknya mengikuti wadah.
+- **A salah:** Kayu adalah benda padat dengan bentuk tetap, bukan cair.
+- **B benar:** Minyak goreng dapat mengalir dan mengikuti bentuk wadahnya, ciri khas zat cair.
+- **C salah:** Asap adalah partikel yang melayang di udara, tergolong gas.
+- **D salah:** Es adalah air yang telah membeku, sehingga berwujud padat, bukan cair.
 
 ---
 
@@ -228,7 +258,12 @@ Contoh zat gas adalah...
 - C. **Udara**
 - D. Kayu
 
-**📖 Pembahasan:** Udara = gas. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat gas tidak terlihat jelas dan mengisi seluruh ruang wadahnya.
+- **A salah:** Air adalah zat cair, punya volume tetap dan terlihat jelas sebagai cairan.
+- **B salah:** Es adalah air yang membeku, wujudnya padat.
+- **C benar:** Udara adalah campuran gas yang mengisi seluruh ruang di sekitar kita.
+- **D salah:** Kayu adalah benda padat dengan bentuk tetap, bukan gas.
 
 ---
 
@@ -241,7 +276,12 @@ Partikel zat padat...
 - C. Tidak ada
 - D. **Rapat & teratur, bergetar di tempat**
 
-**📖 Pembahasan:** Padat = partikel rapat statis. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Partikel zat padat tersusun rapat, teratur, dan hanya bergetar di tempat.
+- **A salah:** "Bergerak bebas" adalah ciri partikel gas, bukan padat.
+- **B salah:** "Berjauhan" adalah ciri susunan partikel gas; partikel padat justru sangat rapat.
+- **C salah:** "Tidak ada" keliru karena setiap zat padat pasti tersusun dari partikel.
+- **D benar:** Partikel padat tersusun rapat dan teratur, hanya bergetar di posisinya tanpa berpindah tempat.
 
 ---
 
@@ -254,7 +294,12 @@ Partikel zat gas...
 - C. Tidak ada
 - D. Diam
 
-**📖 Pembahasan:** Gas = partikel bebas bergerak cepat. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Partikel gas berjauhan dan bergerak bebas dengan cepat ke segala arah.
+- **A benar:** Ciri khas partikel gas adalah berjauhan satu sama lain dan bergerak bebas serta cepat.
+- **B salah:** "Rapat" adalah ciri susunan partikel padat, bukan gas.
+- **C salah:** "Tidak ada" keliru karena gas juga tersusun dari partikel, hanya jaraknya sangat jauh.
+- **D salah:** "Diam" adalah kebalikan dari sifat gas; partikel gas justru paling aktif bergerak dibanding padat dan cair.
 
 ---
 
@@ -267,7 +312,12 @@ Kerapatan paling tinggi pada wujud...
 - C. Cair
 - D. Tidak ada perbedaan
 
-**📖 Pembahasan:** Padat = partikel paling rapat → kerapatan tertinggi. (Anomali: es < air, jadi tidak selalu.) **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kerapatan berkaitan dengan seberapa rapat susunan partikel suatu zat.
+- **A salah:** Gas punya partikel paling berjauhan sehingga kerapatannya justru paling rendah, bukan tertinggi.
+- **B benar:** Padat memiliki partikel tersusun paling rapat sehingga umumnya berkerapatan paling tinggi di antara tiga wujud (meski ada anomali khusus, seperti es yang lebih ringan dari air).
+- **C salah:** Cair memiliki kerapatan sedang, di antara padat dan gas, bukan yang tertinggi.
+- **D salah:** Ada perbedaan kerapatan yang jelas antarwujud (umumnya padat > cair > gas), jadi opsi ini keliru.
 
 ---
 
@@ -280,7 +330,12 @@ Wujud yang bisa mengalir adalah...
 - C. **Cair & gas**
 - D. Tidak ada
 
-**📖 Pembahasan:** Hanya cair & gas yang mengalir (= fluida). **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat yang dapat mengalir disebut fluida, yaitu cair dan gas.
+- **A salah:** Padat tidak bisa mengalir karena partikelnya terikat kuat dan tidak dapat berpindah tempat.
+- **B salah:** Padat tetap tidak bisa mengalir meski digabung dengan cair; hanya cair yang bisa mengalir dari keduanya.
+- **C benar:** Cair dan gas disebut fluida karena partikelnya dapat bergerak/meluncur bebas sehingga bisa mengalir.
+- **D salah:** "Tidak ada" keliru karena cair dan gas jelas dapat mengalir dalam kehidupan sehari-hari.
 
 ---
 
@@ -293,7 +348,12 @@ Wujud yang **mudah dimampatkan** (volume bisa dikurangi):
 - C. Padat & cair
 - D. **Gas (partikel jauh, ruang banyak)**
 
-**📖 Pembahasan:** Gas mudah dimampatkan karena banyak ruang kosong antar partikel. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kemampuan dimampatkan bergantung pada seberapa banyak ruang kosong antar partikel.
+- **A salah:** Padat sulit dimampatkan karena partikelnya sudah sangat rapat, tidak ada ruang kosong tersisa.
+- **B salah:** Cair juga sulit dimampatkan karena partikelnya sudah berdekatan.
+- **C salah:** Gabungan padat & cair tetap sulit dimampatkan, bukan mudah.
+- **D benar:** Gas mudah dimampatkan karena partikelnya berjauhan sehingga masih banyak ruang kosong yang bisa dipadatkan.
 
 ---
 
@@ -306,7 +366,12 @@ Saat gas dipindahkan dari botol kecil ke ruangan besar, gas akan...
 - C. Hilang
 - D. Berubah jadi cair
 
-**📖 Pembahasan:** Gas tidak punya volume tetap → mengisi wadah baru. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas tidak memiliki volume tetap, selalu mengisi seluruh ruang wadah yang ditempatinya.
+- **A benar:** Karena gas tidak punya bentuk maupun volume tetap, ia akan menyebar mengisi seluruh ruangan besar tersebut.
+- **B salah:** Gas tidak "tetap di posisi" karena partikelnya terus bergerak bebas dan menyebar.
+- **C salah:** Gas tidak hilang, ia tetap ada namun menyebar ke ruang yang lebih besar sehingga konsentrasinya berkurang.
+- **D salah:** Berpindah wadah tidak mengubah wujud zat; gas tidak otomatis berubah menjadi cair hanya karena berpindah ruang.
 
 ---
 
@@ -319,7 +384,12 @@ Bola padat diletakkan di kotak persegi. Bentuk bola...
 - C. Hilang
 - D. Memuai
 
-**📖 Pembahasan:** Padat = bentuk tetap. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat padat memiliki bentuk yang tetap, tidak berubah mengikuti wadah tempatnya diletakkan.
+- **A salah:** Bola padat tidak akan berubah bentuk menjadi persegi hanya karena diletakkan di kotak — itu ciri zat cair yang mengikuti wadah, bukan padat.
+- **B benar:** Bentuk padat tetap bola karena partikelnya terikat kuat dan tidak bisa dipaksa mengikuti bentuk wadah.
+- **C salah:** Bola padat tidak hilang; ia tetap ada dengan bentuk dan volumenya sendiri di dalam kotak.
+- **D salah:** Memuai berarti mengembang karena panas, bukan sekadar diletakkan dalam wadah berbeda — tidak relevan dengan situasi ini.
 
 ---
 
@@ -332,7 +402,12 @@ Air dituang dari gelas ke piring. Air...
 - C. **Mengikuti bentuk piring** (cair mengikuti wadah)
 - D. Berubah jadi gas
 
-**📖 Pembahasan:** Cair = bentuk ikut wadah. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat cair mengikuti bentuk wadah yang ditempatinya, tetapi volumenya tetap.
+- **A salah:** Air yang dipindah tidak "tetap berbentuk gelas" — begitu dituang ke piring, ia langsung mengikuti bentuk piring.
+- **B salah:** Air tidak hilang saat dipindah wadah, jumlah (volume)-nya tetap sama.
+- **C benar:** Karena cair mengikuti bentuk wadahnya, air yang dituang ke piring akan melebar mengikuti bentuk piring tersebut.
+- **D salah:** Berpindah wadah tidak mengubah wujud zat; air tidak otomatis menjadi gas hanya karena dituang ke piring.
 
 ---
 
@@ -345,7 +420,12 @@ Manakah yang **bukan** sifat khas zat padat?
 - C. Partikel rapat
 - D. **Mengisi seluruh wadah**
 
-**📖 Pembahasan:** Mengisi wadah = sifat gas, bukan padat. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Soal minta sifat yang BUKAN milik zat padat; padat punya bentuk & volume tetap serta partikel rapat, sedangkan mengisi wadah adalah ciri gas.
+- **A salah:** "Bentuk tetap" justru benar-benar ciri zat padat, jadi bukan jawaban yang dicari (soal minta yang BUKAN ciri padat).
+- **B salah:** "Volume tetap" juga memang ciri padat, sehingga tidak tepat dipilih sebagai sifat yang "bukan" milik padat.
+- **C salah:** "Partikel rapat" adalah ciri padat yang benar, bukan pengecualian yang dicari soal.
+- **D benar:** "Mengisi seluruh wadah" adalah ciri zat gas, bukan padat — inilah sifat yang tidak dimiliki padat, sesuai yang ditanyakan.
 
 ---
 
@@ -358,7 +438,12 @@ Manakah wujud yang bisa "dilewati tangan" tanpa hambatan?
 - C. Padat (sangat sulit)
 - D. Tidak ada
 
-**📖 Pembahasan:** Udara dilewati tangan tanpa hambatan signifikan. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kerapatan partikel menentukan hambatan saat benda melewati suatu zat; gas paling jarang partikelnya sehingga paling mudah dilewati.
+- **A benar:** Udara tersusun dari partikel yang sangat berjauhan sehingga tangan bisa melewatinya tanpa hambatan berarti.
+- **B salah:** Air (cair) partikelnya lebih rapat daripada gas sehingga tangan tetap merasakan hambatan/tahanan saat bergerak di dalamnya.
+- **C salah:** Benda padat partikelnya sangat rapat dan kuat, sehingga sama sekali tidak bisa ditembus tangan tanpa merusak strukturnya.
+- **D salah:** Pernyataan ini keliru karena gas (seperti udara) justru wujud yang paling mudah dilewati tanpa hambatan.
 
 ---
 
@@ -371,7 +456,12 @@ Kerapatan air vs udara:
 - C. Air lebih ringan
 - D. Magnet
 
-**📖 Pembahasan:** Air 1 g/cm³; udara 0.0012 g/cm³. Air 800× lebih rapat. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kerapatan air (~1 g/cm³) dan udara (~0.0012 g/cm³) sangat jauh berbeda.
+- **A salah:** Kerapatan air dan udara sangat berbeda jauh, bukan sama — perbedaannya sekitar 800 kali lipat.
+- **B benar:** Air (1 g/cm³) memiliki kerapatan jauh lebih besar daripada udara (0.0012 g/cm³) karena partikel air jauh lebih rapat daripada partikel udara.
+- **C salah:** Air justru jauh lebih berat (rapat) dibanding udara, bukan lebih ringan — siswa tertukar arah perbandingan.
+- **D salah:** Magnet tidak berkaitan sama sekali dengan konsep kerapatan zat.
 
 ---
 
@@ -384,7 +474,12 @@ Saat air dimasukkan **freezer**, akan menjadi...
 - C. Cair tetap
 - D. Gas
 
-**📖 Pembahasan:** Air → es = cair → padat. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air di dalam freezer akan membeku menjadi es, yaitu perubahan wujud dari cair ke padat.
+- **A salah:** Jawaban ini benar secara hasil (es memang padat) tapi tidak menyebutkan proses perubahannya (dari cair ke padat), sehingga bukan pilihan paling tepat dan lengkap seperti opsi B.
+- **B benar:** Air di dalam freezer mengalami pembekuan sehingga wujudnya berubah dari cair menjadi padat (es).
+- **C salah:** "Cair tetap" salah karena suhu freezer yang sangat dingin membuat air justru membeku, bukan tetap cair.
+- **D salah:** Air tidak berubah menjadi gas di dalam freezer; freezer mendinginkan, bukan memanaskan, sehingga tidak terjadi penguapan.
 
 > Catatan: A & B sama persis. Salah satu adalah yang dipilih.
 
@@ -399,7 +494,12 @@ Volume yang bisa diukur dengan **gelas ukur** adalah...
 - C. Gas
 - D. Cahaya
 
-**📖 Pembahasan:** Gelas ukur = mengukur volume cair. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gelas ukur dirancang untuk mengukur volume zat cair yang bisa dituang mengikuti skala.
+- **A salah:** Volume batu (padat) diukur dengan cara memasukkannya ke air dan melihat kenaikan volume (metode Archimedes), bukan langsung dengan gelas ukur.
+- **B benar:** Zat cair seperti air atau minyak bisa langsung dituang ke gelas ukur dan dibaca volumenya pada skala.
+- **C salah:** Volume gas tidak diukur dengan gelas ukur karena gas tidak terlihat dan langsung mengisi seluruh ruang wadah, bukan mengikuti skala tuang.
+- **D salah:** Cahaya bukan zat/materi sehingga tidak memiliki volume yang bisa diukur dengan gelas ukur.
 
 ---
 
@@ -412,7 +512,12 @@ Es batu meleleh menjadi air. Perubahannya...
 - C. Cair → Gas
 - D. Tidak ada
 
-**📖 Pembahasan:** Es (padat) → air (cair) = mencair. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Mencair adalah perubahan wujud dari padat menjadi cair akibat penyerapan panas.
+- **A benar:** Es (padat) yang meleleh berubah menjadi air (cair), inilah proses mencair.
+- **B salah:** Padat berubah langsung menjadi gas disebut menyublim, bukan meleleh — siswa tertukar dengan proses sublimasi.
+- **C salah:** Cair menjadi gas disebut menguap; ini bukan proses yang terjadi saat es meleleh menjadi air, yang masih berwujud cair (belum menjadi uap).
+- **D salah:** Perubahan wujud pasti terjadi saat es meleleh menjadi air, jadi menjawab "tidak ada" keliru.
 
 ---
 
@@ -425,7 +530,12 @@ Saat suhu **rendah** (-20°C), air berada dalam wujud...
 - C. Magnet
 - D. **Padat (es)**
 
-**📖 Pembahasan:** -20°C < titik beku 0°C → air = es padat. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air membeku menjadi es pada suhu di bawah 0°C.
+- **A salah:** Air tidak tetap cair pada -20°C karena suhu tersebut jauh di bawah titik beku air (0°C), sehingga sudah membeku.
+- **B salah:** Air tidak menjadi gas pada suhu sangat rendah; air berubah menjadi gas (uap) justru pada suhu tinggi (mendidih), bukan rendah.
+- **C salah:** Magnet tidak berkaitan dengan wujud zat berdasarkan suhu.
+- **D benar:** Pada suhu -20°C yang jauh di bawah titik beku 0°C, air membeku menjadi es yang berwujud padat.
 
 ---
 
@@ -438,7 +548,12 @@ Wujud zat keempat (selain padat, cair, gas) di alam:
 - C. Cahaya
 - D. Suara
 
-**📖 Pembahasan:** Plasma = wujud 4. Sangat panas, terdiri dari ion + elektron bebas. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Plasma adalah wujud zat keempat, yaitu gas yang sangat panas hingga terionisasi.
+- **A salah:** Magnet adalah sifat kemagnetan suatu benda, bukan wujud zat.
+- **B benar:** Plasma adalah wujud zat keempat, terbentuk saat gas dipanaskan sangat tinggi sehingga atomnya kehilangan elektron (terionisasi).
+- **C salah:** Cahaya adalah bentuk energi yang merambat, bukan wujud materi/zat.
+- **D salah:** Suara adalah gelombang energi hasil getaran, bukan wujud zat.
 
 ---
 
@@ -451,7 +566,12 @@ Contoh plasma di alam...
 - C. **Matahari, petir, api**
 - D. Kayu
 
-**📖 Pembahasan:** Plasma = ekstrim panas. Matahari, petir, api = plasma alami. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Plasma terbentuk pada suhu sangat tinggi sehingga contohnya adalah benda-benda yang sangat panas dan menyala.
+- **A salah:** Air adalah zat cair biasa, bukan plasma.
+- **B salah:** Es adalah air yang membeku, berwujud padat, bukan plasma.
+- **C benar:** Matahari, petir, dan api memiliki suhu sangat tinggi sehingga gas di dalamnya terionisasi menjadi plasma.
+- **D salah:** Kayu adalah benda padat pada suhu ruang, tidak memenuhi syarat suhu ekstrem untuk menjadi plasma.
 
 ---
 
@@ -464,7 +584,12 @@ Bau parfum menyebar di seluruh ruangan. Fenomena ini disebut...
 - C. Tradisi
 - D. **Difusi** — partikel gas parfum bergerak ke segala arah & bercampur dengan udara
 
-**📖 Pembahasan:** Difusi = pencampuran spontan partikel. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Difusi adalah gerak partikel dari daerah rapat ke daerah renggang sehingga tercampur merata, seperti bau yang menyebar.
+- **A salah:** Pembiasan adalah pembelokan arah cahaya saat melewati medium berbeda, tidak berkaitan dengan penyebaran bau.
+- **B salah:** Magnet berkaitan dengan gaya tarik-menarik logam tertentu, bukan penyebaran partikel gas.
+- **C salah:** "Tradisi" bukan istilah sains dan sama sekali tidak menjelaskan fenomena penyebaran bau.
+- **D benar:** Partikel gas parfum bergerak bebas ke segala arah dan bercampur dengan udara di sekitarnya; proses ini disebut difusi.
 
 ---
 
@@ -477,7 +602,12 @@ Bola es kecil di dalam wadah kotak akan...
 - C. Hilang
 - D. Memuai
 
-**📖 Pembahasan:** Es padat tidak berubah bentuk. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Es adalah zat padat, sehingga bentuknya tidak berubah mengikuti wadah.
+- **A benar:** Es tergolong zat padat yang memiliki bentuk tetap, sehingga tetap berbentuk bola meski diletakkan dalam wadah kotak.
+- **B salah:** Bentuk mengikuti wadah adalah ciri zat cair, bukan padat — es (padat) tidak akan berubah menjadi kotak.
+- **C salah:** Bola es tidak hilang begitu saja hanya karena dipindah wadah.
+- **D salah:** Memuai terjadi karena kenaikan suhu, bukan karena sekadar diletakkan dalam wadah berbeda.
 
 ---
 
@@ -490,7 +620,12 @@ Air dituang dari botol ke gelas. Volume air...
 - C. Hilang
 - D. Berkurang
 
-**📖 Pembahasan:** Cair = volume tetap, bentuk ikut wadah. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat cair memiliki volume tetap walau bentuknya berubah mengikuti wadah.
+- **A salah:** Volume air tidak bertambah hanya karena dipindah wadah; jumlah air tetap sama.
+- **B benar:** Air adalah zat cair yang volumenya tetap meskipun bentuknya menyesuaikan wadah (botol ke gelas).
+- **C salah:** Air tidak hilang saat dipindahkan, hanya berpindah wadah.
+- **D salah:** Volume air tidak berkurang hanya karena dipindahkan ke wadah lain, selama tidak ada yang tumpah.
 
 ---
 
@@ -503,7 +638,12 @@ Balon karet diisi udara, lalu udara bertambah. Volume balon...
 - C. Hilang
 - D. **Bertambah (gas memenuhi semua ruang yang tersedia)**
 
-**📖 Pembahasan:** Gas mengisi wadah; lebih banyak gas = balon mengembang. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas akan mengisi dan memenuhi ruang yang tersedia, sehingga menambah udara membuat wadah elastis seperti balon mengembang.
+- **A salah:** Volume balon tidak tetap karena udara yang ditambahkan butuh lebih banyak ruang, sehingga balon mengembang.
+- **B salah:** Volume balon tidak berkurang saat udara ditambahkan, justru bertambah karena lebih banyak gas mengisi ruang.
+- **C salah:** Balon tidak hilang; balon tetap ada dan bahkan mengembang seiring bertambahnya udara.
+- **D benar:** Menambah udara berarti menambah jumlah gas di dalam balon, sehingga balon mengembang dan volumenya bertambah.
 
 ---
 
@@ -516,7 +656,12 @@ Partikel zat cair...
 - C. Tidak ada
 - D. Bergetar di tempat
 
-**📖 Pembahasan:** Cair = ikatan menengah, partikel meluncur. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Partikel zat cair berjarak dekat namun tidak terikat kuat sehingga bisa saling meluncur.
+- **A benar:** Partikel zat cair berdekatan tetapi masih bisa bergerak/meluncur satu sama lain, berbeda dari padat yang partikelnya diam di tempat.
+- **B salah:** "Sangat jauh" adalah ciri susunan partikel gas, bukan cair.
+- **C salah:** "Tidak ada" keliru karena zat cair tetap tersusun dari partikel-partikel yang saling berdekatan.
+- **D salah:** "Bergetar di tempat" adalah ciri partikel padat, bukan cair yang partikelnya bisa berpindah/meluncur.
 
 ---
 
@@ -529,7 +674,12 @@ Air mendidih menjadi uap. Perubahannya...
 - C. Padat → Cair
 - D. Tradisi
 
-**📖 Pembahasan:** Air (cair) → uap (gas) = menguap. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Menguap adalah perubahan wujud dari cair menjadi gas akibat pemanasan hingga mendidih.
+- **A salah:** Padat menjadi gas langsung disebut menyublim, bukan menguap — ini bukan proses yang terjadi pada air mendidih (air sudah berwujud cair, bukan padat).
+- **B benar:** Air (cair) yang mendidih berubah menjadi uap (gas); proses ini disebut menguap.
+- **C salah:** Padat menjadi cair disebut mencair, bukan yang terjadi saat air mendidih (air sudah cair sejak awal).
+- **D salah:** "Tradisi" bukan istilah sains dan tidak menjelaskan perubahan wujud air mendidih.
 
 ---
 
@@ -542,7 +692,12 @@ Mengapa **kayu mengapung** di air?
 - C. **Kerapatan kayu (~0.5 g/cm³) lebih kecil dari air (1.0 g/cm³) → mengapung**
 - D. Cahaya
 
-**📖 Pembahasan:** Mengapung = kerapatan benda < fluida. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Benda mengapung jika kerapatannya lebih kecil daripada kerapatan fluida (air).
+- **A salah:** Magnet tidak berkaitan dengan sifat mengapung-tenggelam; itu berkaitan dengan gaya tarik logam tertentu.
+- **B salah:** "Tradisi" bukan alasan ilmiah dan tidak menjelaskan mengapa benda mengapung.
+- **C benar:** Kayu memiliki kerapatan (~0.5 g/cm³) yang lebih kecil daripada air (1.0 g/cm³), sehingga kayu terdorong ke atas dan mengapung.
+- **D salah:** Cahaya tidak memengaruhi apakah suatu benda mengapung atau tenggelam di air.
 
 ---
 
@@ -555,7 +710,12 @@ Mengapa **besi tenggelam** di air?
 - C. Cahaya
 - D. **Kerapatan besi (7.9 g/cm³) jauh lebih besar dari air → tenggelam**
 
-**📖 Pembahasan:** Tenggelam = kerapatan > air. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Benda tenggelam jika kerapatannya lebih besar daripada kerapatan fluida.
+- **A salah:** Tenggelamnya besi bukan karena sifat magnet, melainkan karena perbandingan kerapatan dengan air.
+- **B salah:** "Tradisi" tidak menjelaskan sebab ilmiah benda tenggelam.
+- **C salah:** Cahaya tidak berkaitan dengan sifat mengapung atau tenggelamnya suatu benda.
+- **D benar:** Besi memiliki kerapatan (7.9 g/cm³) yang jauh lebih besar dari air (1.0 g/cm³), sehingga besi tenggelam.
 
 ---
 
@@ -568,7 +728,12 @@ Mengapa **serangga (water strider)** bisa berjalan di permukaan air?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Surface tension. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tegangan permukaan adalah gaya tarik-menarik antar molekul air di permukaan yang membentuk lapisan seperti "kulit" tipis.
+- **A benar:** Molekul air di permukaan saling tarik-menarik membentuk lapisan tipis yang cukup kuat menahan serangga ringan seperti water strider.
+- **B salah:** Kemampuan berjalan di air bukan disebabkan oleh gaya magnet.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena ini.
+- **D salah:** Cahaya tidak berkaitan dengan kemampuan serangga berjalan di atas air.
 
 ---
 
@@ -581,7 +746,12 @@ Pada suhu **lebih tinggi**, materi cenderung berubah menjadi wujud...
 - C. Magnet
 - D. Hilang
 
-**📖 Pembahasan:** Suhu naik → energi kinetik partikel naik → transisi wujud lebih bebas. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kenaikan suhu menambah energi kinetik partikel sehingga partikel bergerak lebih bebas dan zat cenderung berubah ke wujud yang lebih "longgar".
+- **A salah:** Materi tidak selalu tetap padat pada suhu tinggi; justru partikelnya makin aktif dan bisa berubah wujud.
+- **B benar:** Suhu tinggi meningkatkan energi kinetik partikel sehingga ikatan antarpartikel melemah dan zat berubah dari padat ke cair, bahkan ke gas.
+- **C salah:** Magnet tidak berkaitan dengan perubahan wujud akibat suhu.
+- **D salah:** Materi tidak hilang saat dipanaskan, hanya berubah wujud (partikelnya tetap ada).
 
 ---
 
@@ -594,7 +764,12 @@ Lampu **neon** atau **fluoresensi** bekerja dengan...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Inside lamp tabung = plasma gas yang dialiri listrik → memancarkan cahaya. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Lampu neon dan fluoresensi memanfaatkan gas yang diberi energi listrik hingga terionisasi menjadi plasma yang memancarkan cahaya.
+- **A salah:** Magnet tidak digunakan untuk menghasilkan cahaya pada lampu neon/fluoresensi.
+- **B benar:** Gas di dalam tabung lampu neon dialiri listrik hingga terionisasi menjadi plasma, dan plasma inilah yang memancarkan cahaya.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk cara kerja lampu.
+- **D salah:** Cahaya adalah hasil akhir dari proses tersebut, bukan penyebab atau cara kerja lampu itu sendiri.
 
 ---
 
@@ -607,7 +782,12 @@ Saat tekanan gas dinaikkan (kompres), volume...
 - C. **Berkurang (gas mudah dimampatkan)**
 - D. Hilang
 
-**📖 Pembahasan:** Hukum Boyle: P↑ → V↓. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Menurut Hukum Boyle, jika tekanan gas dinaikkan pada suhu tetap, volumenya akan mengecil.
+- **A salah:** Volume gas tidak bertambah saat dikompres/ditekan; justru mengecil karena partikel terdesak lebih rapat.
+- **B salah:** Volume gas tidak tetap saat ditekan; gas bersifat mudah dimampatkan sehingga volumenya berubah.
+- **C benar:** Saat tekanan dinaikkan, partikel gas yang berjauhan terdesak saling mendekat sehingga volume gas berkurang (Hukum Boyle).
+- **D salah:** Gas tidak hilang saat ditekan, hanya volumenya mengecil karena dimampatkan.
 
 ---
 
@@ -620,7 +800,12 @@ Cair sulit dimampatkan, tetapi gas mudah karena...
 - C. **Partikel gas berjauhan (banyak ruang kosong); partikel cair sudah dekat (sedikit ruang)**
 - D. Cahaya
 
-**📖 Pembahasan:** Ruang antar partikel = kunci kompresibilitas. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kemampuan dimampatkan bergantung pada jarak dan ruang kosong antar partikel suatu zat.
+- **A salah:** Perbedaan kemampuan dimampatkan tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk sifat fisik zat.
+- **C benar:** Partikel gas berjauhan sehingga masih banyak ruang kosong yang bisa dipadatkan, sedangkan partikel cair sudah berdekatan sehingga sulit dimampatkan lagi.
+- **D salah:** Cahaya tidak berkaitan dengan kemampuan suatu zat untuk dimampatkan.
 
 ---
 
@@ -633,7 +818,12 @@ Manakah yang **bukan** ciri zat cair?
 - C. **Mudah dimampatkan**
 - D. Volume tetap
 
-**📖 Pembahasan:** Cair = sulit dimampatkan. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Soal meminta ciri yang BUKAN milik cair; cair sebenarnya sulit dimampatkan (ciri ini justru milik gas).
+- **A salah:** "Mengikuti wadah" memang ciri asli zat cair, sehingga bukan jawaban yang dicari (soal minta yang BUKAN ciri cair).
+- **B salah:** "Mengalir" juga memang ciri zat cair yang benar, bukan pengecualian yang dicari.
+- **C benar:** "Mudah dimampatkan" adalah ciri zat gas, bukan cair — zat cair justru sulit dimampatkan karena partikelnya sudah berdekatan. Inilah ciri yang tidak dimiliki cair.
+- **D salah:** "Volume tetap" memang benar ciri zat cair, sehingga tidak tepat dipilih sebagai jawaban "bukan ciri cair".
 
 ---
 
@@ -646,7 +836,12 @@ Di rumah, contoh ketiga wujud yang ada di kulkas:
 - C. Tradisi
 - D. Hanya satu
 
-**📖 Pembahasan:** Kulkas berisi semua 3 wujud. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Di dalam kulkas dapat ditemukan ketiga wujud zat sekaligus.
+- **A salah:** Magnet, listrik, dan cahaya bukan contoh wujud zat (padat/cair/gas), melainkan benda/energi lain.
+- **B benar:** Es mewakili padat, susu mewakili cair, dan udara dingin di dalam kulkas mewakili gas — ketiganya ada sekaligus di kulkas.
+- **C salah:** "Tradisi" bukan jawaban yang relevan dengan wujud zat.
+- **D salah:** Kulkas tidak hanya berisi satu wujud zat; ketiga wujud (padat, cair, gas) bisa ditemukan sekaligus di dalamnya.
 
 ---
 
@@ -659,7 +854,12 @@ Mengapa **es mengapung** di air?
 - C. Cahaya
 - D. **Kerapatan es (0.92 g/cm³) lebih kecil dari air (1.0 g/cm³) — anomali air karena struktur kristal es lebih renggang**
 
-**📖 Pembahasan:** Anomali air. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air memiliki sifat anomali, yaitu kerapatan es yang lebih rendah daripada air karena struktur kristalnya lebih renggang saat membeku.
+- **A salah:** Mengapungnya es tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah dari fenomena ini.
+- **C salah:** Cahaya tidak berkaitan dengan sifat mengapung es di air.
+- **D benar:** Struktur kristal es yang renggang membuat kerapatannya (0.92 g/cm³) lebih kecil daripada air (1.0 g/cm³), sehingga es mengapung — ini disebut anomali air.
 
 ---
 
@@ -672,7 +872,12 @@ Pada suhu kamar, **raksa (mercury)** dalam wujud...
 - C. Gas
 - D. Plasma
 
-**📖 Pembahasan:** Raksa unik = logam cair di suhu kamar. Titik beku -39°C, didih 357°C. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Raksa adalah logam unik yang berwujud cair pada suhu kamar karena titik bekunya sangat rendah (-39°C).
+- **A benar:** Raksa memiliki titik beku -39°C dan titik didih 357°C, sehingga pada suhu kamar (sekitar 25°C) ia tetap berwujud cair — satu-satunya logam yang demikian.
+- **B salah:** Kebanyakan logam berwujud padat di suhu kamar, tetapi raksa adalah pengecualian karena titik bekunya sangat rendah.
+- **C salah:** Raksa baru menjadi gas jika dipanaskan melewati titik didihnya (357°C), jauh di atas suhu kamar.
+- **D salah:** Plasma membutuhkan suhu sangat ekstrem (jutaan derajat), jauh melebihi kondisi suhu kamar biasa.
 
 ---
 
@@ -685,7 +890,12 @@ Wujud zat yang ada pada suhu **sangat rendah** (mendekati nol absolut) seperti *
 - C. Cair biasa
 - D. Magnet
 
-**📖 Pembahasan:** BEC = wujud 5 (atau lebih). **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Bose-Einstein Condensate adalah wujud materi eksotis yang muncul pada suhu mendekati nol absolut, berbeda dari tiga wujud klasik.
+- **A salah:** BEC bukan sekadar padat biasa; ia adalah keadaan kuantum khusus di mana atom-atom berperilaku sebagai satu kesatuan gelombang.
+- **B benar:** Pada suhu sangat rendah, atom-atom dalam BEC "menyatu" ke dalam satu keadaan kuantum tunggal, sebuah wujud materi eksotis di luar tiga wujud klasik.
+- **C salah:** BEC bukan cair biasa; sifatnya sangat berbeda dari cairan pada umumnya karena efek kuantum yang dominan.
+- **D salah:** Magnet tidak menjelaskan fenomena BEC yang berkaitan dengan suhu ekstrem rendah dan efek kuantum.
 
 ---
 
@@ -698,7 +908,12 @@ Saat melihat awan, awan adalah...
 - C. **Tetesan air cair sangat halus (mist) — bukan gas (uap air tidak terlihat); bukan padat (kalau es jadi awan jenis lain)**
 - D. Magnet
 
-**📖 Pembahasan:** Awan biasa = tetesan air sangat halus. Awan tinggi (cirrus) = kristal es. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan (kebanyakan) terbentuk dari tetesan air cair berukuran sangat kecil yang melayang di udara, bukan uap air yang tak terlihat.
+- **A salah:** Awan pada umumnya bukan padat, kecuali beberapa awan tinggi yang terdiri dari kristal es.
+- **B salah:** Uap air (gas) sebenarnya tidak terlihat oleh mata; yang terlihat sebagai awan adalah tetesan air cair yang sudah mengembun.
+- **C benar:** Awan biasa terbentuk dari tetesan air cair yang sangat halus hasil pengembunan uap air di udara.
+- **D salah:** Magnet tidak berkaitan dengan proses pembentukan awan.
 
 ---
 
@@ -711,7 +926,12 @@ Mobil AC menggunakan **kompresor** untuk...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** AC kerja: kompresi-ekspansi gas. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** AC bekerja dengan memanfaatkan perubahan wujud dan tekanan gas refrigerant untuk memindahkan panas.
+- **A salah:** Kompresor pada AC tidak bekerja dengan prinsip magnet, melainkan menekan gas.
+- **B benar:** Kompresor menekan (mengompresi) gas refrigerant sehingga suhunya naik, lalu panas dibuang di radiator, kemudian gas diekspansikan hingga suhunya turun dan bisa menyerap panas dari dalam kabin.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah cara kerja AC.
+- **D salah:** Cahaya tidak berperan dalam proses pendinginan AC mobil.
 
 ---
 
@@ -724,7 +944,12 @@ Air dingin saat dimasukkan freezer → membeku. Volume...
 - C. Tetap
 - D. Hilang
 
-**📖 Pembahasan:** Air mengembang saat membeku. Itu sebabnya botol penuh air pecah di freezer. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air memiliki sifat anomali — berbeda dari kebanyakan zat, volumenya justru bertambah saat membeku menjadi es.
+- **A benar:** Saat air membeku, susunan molekulnya membentuk struktur kristal yang lebih renggang, sehingga volumenya bertambah sekitar 9% (itulah sebabnya botol berisi penuh air bisa pecah di freezer).
+- **B salah:** Volume air tidak berkurang saat membeku; justru bertambah karena struktur es lebih renggang daripada air cair.
+- **C salah:** Volume air tidak tetap saat membeku; air termasuk zat yang mengembang saat berubah menjadi padat (anomali).
+- **D salah:** Air tidak hilang saat membeku, hanya berubah wujud menjadi es dengan volume yang justru bertambah.
 
 ---
 
@@ -737,7 +962,12 @@ Saat suhu sangat tinggi, gas bisa berubah jadi...
 - C. Padat lagi
 - D. Cair
 
-**📖 Pembahasan:** Pemanasan ekstrim → atom ionisasi → plasma. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas yang dipanaskan hingga sangat ekstrem akan kehilangan elektronnya (terionisasi) dan berubah menjadi plasma.
+- **A salah:** Magnet bukan wujud zat, sehingga tidak mungkin menjadi hasil pemanasan gas.
+- **B benar:** Pemanasan ekstrem membuat atom-atom gas kehilangan elektronnya (terionisasi), berubah menjadi plasma.
+- **C salah:** Pemanasan justru membuat partikel makin bebas bergerak, bukan berubah menjadi padat yang partikelnya rapat.
+- **D salah:** Pemanasan gas yang makin tinggi tidak membuatnya berubah ke cair; arah perubahan wujud oleh panas justru menuju plasma, bukan mundur ke cair.
 
 ---
 
@@ -750,7 +980,12 @@ Inti dalam Bumi (dalam) wujudnya...
 - C. Gas
 - D. Plasma
 
-**📖 Pembahasan:** Inti dalam Bumi (sekitar 5000°C, 360 GPa) = besi-nikel padat. Inti luar = cair. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Meski suhu inti Bumi sangat tinggi, tekanan yang sangat besar membuat besi di inti dalam tetap berwujud padat.
+- **A benar:** Tekanan ekstrem (~360 GPa) di inti dalam Bumi menekan besi-nikel menjadi padat, meskipun suhunya sekitar 5000°C.
+- **B salah:** Cair adalah wujud inti luar Bumi, bukan inti dalam yang bertekanan lebih tinggi sehingga tetap padat.
+- **C salah:** Gas tidak mungkin bertahan pada tekanan sebesar itu di inti Bumi; tekanan ekstrem justru memadatkan materi.
+- **D salah:** Plasma membutuhkan suhu jauh lebih ekstrem seperti di bintang; kondisi inti Bumi tidak sepanas itu.
 
 ---
 
@@ -763,7 +998,12 @@ Saat memasak nasi, ada perubahan wujud apa?
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Air mendidih → uap. Beras juga mengalami perubahan kimia (cooking), tetapi wujud air = cair ke gas. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Saat memasak nasi, air yang dipanaskan akan mendidih dan sebagian berubah menjadi uap.
+- **A salah:** Perubahan yang terjadi bukan langsung dari padat ke gas (itu sublimasi); yang terjadi adalah air cair menjadi uap gas.
+- **B benar:** Air yang dipanaskan saat memasak nasi mendidih dan sebagiannya berubah wujud dari cair menjadi uap (gas).
+- **C salah:** "Tradisi" bukan penjelasan proses perubahan wujud dalam memasak.
+- **D salah:** Magnet tidak berkaitan dengan proses memasak nasi.
 
 ---
 
@@ -776,7 +1016,12 @@ Manakah yang **paling kerap (densitas tertinggi)** dari berikut?
 - C. Kayu
 - D. **Besi**
 
-**📖 Pembahasan:** Besi ~7.9 g/cm³. Kayu < 1. Air = 1. Udara ~0.001. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kerapatan menunjukkan seberapa rapat susunan partikel suatu zat per satuan volumenya.
+- **A salah:** Udara memiliki kerapatan paling rendah (~0.0012 g/cm³) di antara pilihan, jauh dari yang tertinggi.
+- **B salah:** Air memiliki kerapatan 1 g/cm³, lebih tinggi dari udara dan kayu, tetapi masih jauh lebih rendah dari besi.
+- **C salah:** Kayu memiliki kerapatan sekitar 0.4 g/cm³, lebih ringan dari air sehingga mengapung, dan jelas lebih rendah dari besi.
+- **D benar:** Besi memiliki kerapatan sekitar 7.9 g/cm³, jauh lebih tinggi daripada udara, air, maupun kayu.
 
 ---
 
@@ -789,7 +1034,12 @@ Pernyataan paling tepat sintesis wujud zat:
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Sintesis Kab. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman sifat tiga wujud klasik (padat, cair, gas) beserta wujud keempat plasma.
+- **A benar:** Pernyataan ini merangkum dengan tepat sifat padat (bentuk & volume tetap, partikel rapat), cair (volume tetap, bentuk ikut wadah, partikel meluncur), gas (bentuk & volume berubah, partikel bebas), serta plasma sebagai wujud keempat.
+- **B salah:** Ada lebih dari satu wujud zat; setidaknya ada tiga wujud klasik ditambah plasma.
+- **C salah:** Magnet bukan bagian dari klasifikasi wujud zat.
+- **D salah:** "Tradisi" bukan rangkuman ilmiah tentang wujud zat.
 
 ---
 
@@ -804,7 +1054,12 @@ Sebuah benda massanya 200 g volumenya 25 cm³. Kerapatannya:
 - C. 25 g/cm³
 - D. 200 g/cm³
 
-**📖 Pembahasan:** ρ = m/V = 200/25 = 8 g/cm³. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kerapatan dihitung dengan rumus ρ = m/V.
+- **A salah:** 5 g/cm³ bukan hasil pembagian 200 dibagi 25; ini adalah kesalahan hitung.
+- **B benar:** ρ = m/V = 200 g ÷ 25 cm³ = 8 g/cm³.
+- **C salah:** 25 g/cm³ adalah nilai volume soal, bukan hasil pembagian massa dengan volume; siswa mungkin tertukar mengambil angka volume sebagai jawaban.
+- **D salah:** 200 g/cm³ adalah nilai massa soal, bukan hasil pembagian; siswa keliru langsung menjadikan massa sebagai kerapatan tanpa dibagi volume.
 
 ---
 
@@ -817,7 +1072,12 @@ Sebuah kayu kerapatan 0.6 g/cm³ diletakkan di air (1 g/cm³). Apakah mengapung?
 - C. **Mengapung — kerapatan kayu < kerapatan air**
 - D. Hilang
 
-**📖 Pembahasan:** ρ_benda < ρ_fluida → apung. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Benda mengapung jika kerapatannya lebih kecil dari kerapatan fluida.
+- **A salah:** Kayu tidak tenggelam karena kerapatannya (0.6) lebih kecil daripada air (1), bukan lebih besar.
+- **B salah:** Magnet tidak berkaitan dengan sifat mengapung-tenggelam.
+- **C benar:** Karena kerapatan kayu (0.6 g/cm³) lebih kecil daripada kerapatan air (1 g/cm³), kayu akan mengapung.
+- **D salah:** Kayu tidak hilang di dalam air; ia tetap ada dan mengapung di permukaan.
 
 ---
 
@@ -830,7 +1090,12 @@ Gas dalam tabung 10 L pada tekanan 2 atm. Dikompres ke 4 L. Tekanan baru (Boyle,
 - C. 8 atm
 - D. 1 atm
 
-**📖 Pembahasan:** Hukum Boyle. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Hukum Boyle menyatakan P₁V₁ = P₂V₂ pada suhu tetap.
+- **A benar:** P₁V₁ = P₂V₂ → 2 × 10 = P₂ × 4 → P₂ = 20 ÷ 4 = 5 atm.
+- **B salah:** 2 atm adalah tekanan awal, bukan tekanan setelah dikompres ke volume yang lebih kecil (tekanan seharusnya naik).
+- **C salah:** 8 atm bukan hasil perhitungan P₁V₁ = P₂V₂ yang benar; kemungkinan siswa salah mengalikan angka yang salah.
+- **D salah:** 1 atm keliru karena volume yang mengecil pada suhu tetap justru membuat tekanan naik, bukan turun.
 
 ---
 
@@ -843,7 +1108,12 @@ Mengapa **gula larut lebih cepat di air panas** dari air dingin?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Difusi cepat di suhu tinggi. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Suhu tinggi meningkatkan energi kinetik partikel sehingga proses difusi/pelarutan berlangsung lebih cepat.
+- **A salah:** Magnet tidak berkaitan dengan kecepatan larutnya gula dalam air.
+- **B benar:** Air panas memiliki partikel dengan energi kinetik lebih tinggi sehingga bergerak lebih cepat, mempercepat pencampuran dengan molekul gula.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah tentang kecepatan pelarutan.
+- **D salah:** Cahaya tidak memengaruhi kecepatan gula larut dalam air.
 
 ---
 
@@ -856,7 +1126,12 @@ Mengapa minyak tidak bercampur dengan air?
 - C. **Minyak nonpolar; air polar → tidak ada gaya tarik antar molekul → terpisah jadi 2 lapisan**
 - D. Cahaya
 
-**📖 Pembahasan:** Polaritas. "Like dissolves like". **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat dengan sifat kepolaran berbeda (polar vs nonpolar) cenderung tidak bercampur.
+- **A salah:** Ketidakcampuran minyak dan air tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk sifat kimia ini.
+- **C benar:** Minyak bersifat nonpolar sedangkan air bersifat polar, sehingga tidak ada gaya tarik antarmolekul yang cukup kuat untuk membuat keduanya bercampur — akhirnya terpisah menjadi dua lapisan.
+- **D salah:** Cahaya tidak berkaitan dengan kelarutan minyak dalam air.
 
 ---
 
@@ -869,7 +1144,12 @@ Plasma di **TV plasma** (sudah lama, sebelum LED):
 - C. Cahaya
 - D. **Tiap pixel berisi gas (xenon, neon) yang diionisasi via listrik → memancarkan UV → fosfor menyala → cahaya tampak**
 
-**📖 Pembahasan:** Plasma TV technology (popular 2000s). Digantikan LCD/OLED. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** TV plasma menggunakan gas yang diionisasi listrik untuk menghasilkan cahaya tampak melalui lapisan fosfor.
+- **A salah:** TV plasma tidak bekerja dengan prinsip magnet.
+- **B salah:** "Tradisi" bukan penjelasan teknologi TV plasma.
+- **C salah:** Cahaya tampak adalah hasil akhir prosesnya, bukan cara kerja utamanya.
+- **D benar:** Setiap pixel berisi gas (seperti xenon/neon) yang diionisasi oleh listrik menjadi plasma, memancarkan sinar UV yang kemudian membuat lapisan fosfor menyala dan menghasilkan cahaya tampak.
 
 ---
 
@@ -882,7 +1162,12 @@ Cara mengukur volume **batu tak beraturan**:
 - C. Tradisi
 - D. Tebak
 
-**📖 Pembahasan:** Displacement method Archimedes. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Volume benda padat tak beraturan dapat diukur dengan metode pemindahan air (displacement), sesuai prinsip Archimedes.
+- **A benar:** Batu direndam dalam gelas ukur berisi air; kenaikan volume air yang terjadi sama dengan volume batu tersebut.
+- **B salah:** Magnet tidak bisa digunakan untuk mengukur volume benda.
+- **C salah:** "Tradisi" bukan metode ilmiah pengukuran volume.
+- **D salah:** Menebak bukan cara ilmiah dan tidak akurat untuk mengukur volume benda.
 
 ---
 
@@ -895,7 +1180,12 @@ Kerapatan air **paling tinggi** pada suhu...
 - C. -10°C
 - D. **4°C** (anomali air)
 
-**📖 Pembahasan:** Anomali air = densitas max di 4°C. Karena hal ini, es mengapung & danau dasar tetap 4°C. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air memiliki sifat anomali, yaitu kerapatan maksimumnya terjadi pada suhu 4°C, bukan pada 0°C.
+- **A salah:** Pada 0°C air belum mencapai kerapatan maksimum; kerapatan tertinggi baru tercapai sedikit di atasnya, yaitu 4°C.
+- **B salah:** Pada 100°C air sudah mendidih dan kerapatannya justru lebih rendah karena partikel bergerak lebih aktif akibat suhu tinggi.
+- **C salah:** -10°C berada di bawah titik beku sehingga air sudah membeku menjadi es, yang kerapatannya lebih rendah daripada air cair.
+- **D benar:** Air memiliki kerapatan maksimum pada suhu 4°C, sebuah anomali khusus yang membuat es mengapung dan dasar danau tetap bersuhu 4°C di musim dingin.
 
 ---
 
@@ -908,7 +1198,12 @@ Mengapa **gas LPG** (Liquified Petroleum Gas) di tabung berbentuk cair?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** LPG = propana/butana, tekanan tinggi → cair. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Gas dapat diubah menjadi cair dengan memberikan tekanan tinggi sehingga partikelnya lebih rapat, memungkinkan penyimpanan lebih banyak dalam ruang kecil.
+- **A benar:** Tekanan tinggi di dalam tabung memampatkan gas propana/butana menjadi cair, sehingga bisa menyimpan lebih banyak bahan bakar dalam volume tabung yang kecil.
+- **B salah:** Perubahan gas LPG menjadi cair tidak berkaitan dengan gaya magnet.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk proses ini.
+- **D salah:** Cahaya tidak berperan dalam proses pemampatan gas LPG menjadi cair.
 
 ---
 
@@ -921,7 +1216,12 @@ Pemuaian wujud zat saat dipanaskan **terbesar** terjadi di...
 - C. Tradisi
 - D. **Gas (paling besar) — partikel bebas bergerak lebih jauh saat energi kinetik naik**
 
-**📖 Pembahasan:** Pemuaian gas >> cair > padat. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Semakin bebas gerak partikel suatu zat, semakin besar pula pemuaiannya saat dipanaskan.
+- **A salah:** Padat memuai paling kecil karena partikelnya sudah terikat kuat dan hanya bisa bergetar sedikit lebih jauh saat dipanaskan.
+- **B salah:** Cair memuai lebih besar dari padat tetapi masih jauh lebih kecil dibanding gas karena ikatan partikelnya masih ada.
+- **C salah:** "Tradisi" bukan jawaban yang menjelaskan besarnya pemuaian.
+- **D benar:** Gas memuai paling besar karena partikelnya sudah bebas bergerak, sehingga kenaikan energi kinetik akibat panas membuatnya menyebar jauh lebih luas.
 
 ---
 
@@ -934,7 +1234,12 @@ Sifat khas plasma yang **tidak ada** di gas biasa:
 - C. Magnet
 - D. Cahaya
 
-**📖 Pembahasan:** Plasma = elektrik konduktif. Aplikasi: fusion reactor, plasma cutter. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Plasma mengandung ion dan elektron bebas sehingga dapat menghantarkan listrik dan dipengaruhi medan magnet, berbeda dari gas netral biasa.
+- **A benar:** Karena plasma terdiri dari ion positif dan elektron bebas, plasma dapat menghantarkan listrik dengan baik dan dipengaruhi medan magnet — sifat yang tidak dimiliki gas netral biasa.
+- **B salah:** Pernyataan "tidak ada" keliru karena plasma memang memiliki sifat khas yang membedakannya dari gas biasa, yaitu konduktivitas listrik.
+- **C salah:** "Magnet" saja bukan jawaban lengkap; sifat khas plasma adalah kemampuannya menghantarkan listrik dan berinteraksi dengan medan magnet.
+- **D salah:** Cahaya bukan sifat pembeda utama plasma dari gas biasa; keduanya bisa memancarkan atau tidak memancarkan cahaya tergantung kondisi.
 
 ---
 
@@ -947,7 +1252,12 @@ Mengapa balon **udara panas** bisa naik?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Hot air balloon = aplikasi kerapatan + Archimedes. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Udara yang dipanaskan mengembang dan menjadi kurang rapat, sehingga lebih ringan daripada udara di sekitarnya dan dapat terangkat naik.
+- **A salah:** Kemampuan balon naik tidak berkaitan dengan gaya magnet.
+- **B benar:** Udara di dalam balon yang dipanaskan menjadi kurang rapat (kerapatan turun) dibanding udara sekitar yang lebih dingin, sehingga balon terdorong naik seperti benda mengapung di udara.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena ini.
+- **D salah:** Cahaya tidak berperan dalam membuat balon udara panas naik.
 
 ---
 
@@ -960,7 +1270,12 @@ Di **kedalaman laut sangat dalam**, tekanan sangat tinggi. Apakah air bisa dimam
 - C. **Sangat sedikit (~1-2% perubahan volume di 10 km dalam)**
 - D. Magnet
 
-**📖 Pembahasan:** Cair = sulit dimampatkan tetapi tidak total mustahil. Air laut di Mariana Trench dimampatkan ~1.5%. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Zat cair sulit dimampatkan tetapi bukan berarti mustahil sama sekali; pada tekanan sangat tinggi tetap terjadi sedikit perubahan volume.
+- **A salah:** Air tetap sedikit termampatkan pada tekanan sangat tinggi, jadi "tidak sama sekali" kurang tepat.
+- **B salah:** Perubahan volume air akibat tekanan laut dalam tidaklah besar; zat cair pada dasarnya tetap sulit dimampatkan.
+- **C benar:** Air laut di kedalaman ekstrem seperti Palung Mariana hanya termampatkan sekitar 1-2% saja karena partikel cairnya sudah berdekatan.
+- **D salah:** Magnet tidak berkaitan dengan kemampuan air dimampatkan oleh tekanan.
 
 ---
 
@@ -973,7 +1288,12 @@ Di **kedalaman laut sangat dalam**, tekanan sangat tinggi. Apakah air bisa dimam
 - C. Cahaya
 - D. **Polymer dengan rantai panjang fleksibel — bisa berdeformasi (mirip cair) tetapi punya bentuk dasar (mirip padat)**
 
-**📖 Pembahasan:** Karet = viscoelastic. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sifat viscoelastic karet muncul karena struktur molekulnya berupa rantai panjang (polimer) yang fleksibel.
+- **A salah:** Sifat viscoelastic karet tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk struktur molekul karet.
+- **C salah:** Cahaya tidak menjelaskan sifat elastis-cair karet.
+- **D benar:** Karet tersusun dari rantai polimer panjang yang fleksibel, sehingga bisa berdeformasi seperti cairan namun tetap memiliki bentuk dasar seperti padatan.
 
 ---
 
@@ -986,7 +1306,12 @@ Di **kedalaman laut sangat dalam**, tekanan sangat tinggi. Apakah air bisa dimam
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Superfluid helium = quantum effect. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pada suhu sangat rendah, helium cair dapat menjadi superfluid, yaitu cairan tanpa hambatan aliran (viskositas nol).
+- **A benar:** Di bawah 2.17 K, helium cair berubah menjadi superfluid — cairan tanpa viskositas yang bahkan bisa "memanjat" dinding wadahnya karena efek kuantum.
+- **B salah:** Helium pada kondisi ini tetap berwujud cair (superfluid), bukan berubah menjadi padat.
+- **C salah:** Magnet tidak menjelaskan fenomena superfluiditas helium.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena kuantum ini.
 
 ---
 
@@ -999,7 +1324,12 @@ Wujud **paling dominan** di alam semesta:
 - C. Cair
 - D. Magnet
 
-**📖 Pembahasan:** Bintang = plasma. Galaksi mostly bintang. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sebagian besar materi yang dapat dilihat di alam semesta (terutama bintang-bintang) berwujud plasma.
+- **A salah:** Padat hanya sebagian kecil materi di alam semesta, seperti planet dan asteroid, bukan yang paling dominan.
+- **B benar:** Bintang-bintang (termasuk Matahari) yang jumlahnya sangat banyak di alam semesta tersusun dari plasma, menjadikannya wujud materi paling dominan secara massa.
+- **C salah:** Cair jauh lebih jarang di alam semesta dibanding plasma yang mendominasi bintang-bintang.
+- **D salah:** Magnet bukan wujud zat, sehingga tidak relevan untuk pertanyaan ini.
 
 ---
 
@@ -1012,7 +1342,12 @@ Wujud **paling dominan** di alam semesta:
 - C. **Jet plasma (gas terionisasi sangat panas, ~20.000°C) → meleburkan logam → memotong dengan presisi**
 - D. Cahaya
 
-**📖 Pembahasan:** Plasma cutting = teknologi industri. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Plasma cutter menggunakan gas yang dipanaskan hingga menjadi plasma bersuhu sangat tinggi untuk melelehkan logam.
+- **A salah:** Plasma cutter tidak bekerja dengan prinsip magnet untuk memotong logam.
+- **B salah:** "Tradisi" bukan penjelasan teknologi pemotongan logam.
+- **C benar:** Plasma cutter menghasilkan jet gas terionisasi (plasma) bersuhu sangat tinggi (~20.000°C) yang mampu melelehkan dan memotong logam dengan presisi.
+- **D salah:** Cahaya bukan alat utama yang digunakan untuk memotong logam pada plasma cutter.
 
 ---
 
@@ -1025,7 +1360,12 @@ Tegangan permukaan air di antara semua cairan biasa cukup tinggi karena...
 - C. Cahaya
 - D. **Ikatan hidrogen kuat antar molekul air → gaya tarik antarmolekul tinggi → tegangan permukaan tinggi**
 
-**📖 Pembahasan:** Hidrogen bonding = unique air. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tegangan permukaan air yang tinggi disebabkan oleh gaya tarik antarmolekul air yang disebut ikatan hidrogen.
+- **A salah:** Tegangan permukaan air tidak disebabkan oleh gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah sifat fisik air.
+- **C salah:** Cahaya tidak berkaitan dengan kekuatan tegangan permukaan air.
+- **D benar:** Molekul air saling berikatan melalui ikatan hidrogen yang cukup kuat, menghasilkan gaya tarik antarmolekul yang besar sehingga tegangan permukaannya tinggi.
 
 ---
 
@@ -1038,7 +1378,12 @@ Mengapa **air laut tetap cair** walau suhu jauh di bawah 0°C di kutub utara?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Salt lowers freezing point. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kandungan garam dalam air laut menurunkan titik bekunya dibandingkan air tawar biasa.
+- **A benar:** Garam yang terlarut dalam air laut menurunkan titik bekunya (freezing point depression) hingga sekitar -2°C, sehingga air laut tetap cair meski suhu di bawah 0°C.
+- **B salah:** Magnet tidak memengaruhi titik beku air laut.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena ini.
+- **D salah:** Cahaya tidak berkaitan dengan penurunan titik beku air laut.
 
 ---
 
@@ -1051,7 +1396,12 @@ Mengapa **air laut tetap cair** walau suhu jauh di bawah 0°C di kutub utara?
 - C. Cair
 - D. Tradisi
 
-**📖 Pembahasan:** Molekular cloud = gas. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan molekul di ruang angkasa tersusun dari gas yang sangat renggang dan sangat dingin, bukan padat atau cair.
+- **A salah:** Materi di awan molekul terlalu renggang untuk membentuk struktur padat.
+- **B benar:** Awan molekul terdiri dari gas hidrogen (H₂) dan debu yang sangat tipis serta sangat dingin, tempat bintang-bintang baru terbentuk.
+- **C salah:** Kondisi di ruang angkasa yang sangat renggang tidak memungkinkan materi berwujud cair di sana.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah tentang wujud materi di ruang angkasa.
 
 ---
 
@@ -1064,7 +1414,12 @@ Partikel gas dalam ruangan bergerak rata-rata berapa cepat? (suhu kamar)
 - C. **~500 m/s** (untuk udara, N₂ rata-rata)
 - D. Tidak bergerak
 
-**📖 Pembahasan:** RMS speed udara di 25°C ~500 m/s. Sangat cepat tapi tabrakan terus. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Partikel gas pada suhu kamar bergerak dengan kecepatan rata-rata yang sangat tinggi meski sering bertabrakan.
+- **A salah:** 10 m/s jauh lebih lambat dari kecepatan sebenarnya partikel gas seperti nitrogen di udara.
+- **B salah:** 100 m/s masih terlalu lambat dibanding kecepatan rata-rata sesungguhnya partikel gas di suhu kamar.
+- **C benar:** Partikel gas seperti nitrogen di udara bergerak dengan kecepatan rata-rata (RMS) sekitar 500 m/s pada suhu kamar (~25°C), meski arahnya terus berubah karena tabrakan.
+- **D salah:** Partikel gas tidak pernah diam; mereka selalu bergerak aktif dan cepat ke segala arah.
 
 ---
 
@@ -1077,7 +1432,12 @@ Mengapa **kabut** terbentuk di pagi hari setelah malam dingin?
 - C. Cahaya
 - D. **Uap air di udara terkondensasi menjadi tetesan air halus saat suhu turun di malam hari → kabut**
 
-**📖 Pembahasan:** Pengembunan uap → cair. Kabut = mist. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kabut terbentuk saat uap air di udara mengembun menjadi tetesan air kecil akibat penurunan suhu.
+- **A salah:** Pembentukan kabut tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah pembentukan kabut.
+- **C salah:** Cahaya tidak menyebabkan terbentuknya kabut.
+- **D benar:** Suhu udara yang turun di malam hari membuat uap air mengembun menjadi tetesan-tetesan air halus yang melayang di udara, membentuk kabut.
 
 ---
 
@@ -1090,7 +1450,12 @@ Perubahan wujud yang **tidak melibatkan cair**:
 - C. **Sublimasi/menyublim — padat langsung ke gas (es kering, kapur barus)**
 - D. Menguap
 
-**📖 Pembahasan:** Sublimasi melompati fase cair. Es kering (CO₂ padat) sublimasi ke gas CO₂. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sublimasi adalah perubahan wujud langsung dari padat ke gas (atau sebaliknya) tanpa melalui wujud cair.
+- **A salah:** Membeku adalah perubahan dari cair menjadi padat, sehingga jelas melibatkan wujud cair.
+- **B salah:** Mencair adalah perubahan dari padat menjadi cair, yang justru menghasilkan wujud cair.
+- **C benar:** Sublimasi/menyublim adalah perubahan langsung dari padat ke gas (contohnya es kering atau kapur barus), tanpa pernah melalui wujud cair.
+- **D salah:** Menguap adalah perubahan dari cair menjadi gas, sehingga tetap melibatkan wujud cair sebagai wujud awalnya.
 
 ---
 
@@ -1103,7 +1468,12 @@ Mengapa **air** dipakai sebagai **standar 1 g/cm³** untuk kerapatan?
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Air standar di SI untuk kerapatan. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Air dipilih sebagai standar/acuan kerapatan karena sifatnya yang mudah didapat dan relatif stabil.
+- **A salah:** Pemilihan air sebagai standar kerapatan tidak berkaitan dengan sifat magnet.
+- **B benar:** Air sangat melimpah, mudah didapat di mana saja, dan memiliki kerapatan yang relatif stabil pada suhu kamar, sehingga cocok dijadikan standar internasional.
+- **C salah:** "Tradisi" bukan alasan ilmiah pemilihan air sebagai standar.
+- **D salah:** Cahaya tidak berkaitan dengan alasan air dijadikan standar kerapatan.
 
 ---
 
@@ -1116,7 +1486,12 @@ Mengapa **air** dipakai sebagai **standar 1 g/cm³** untuk kerapatan?
 - C. **Raja minta cek apakah mahkota emas murni atau campur perak. Archimedes sadar saat masuk bak: volume air tergeser = volume tubuh → bisa ukur volume mahkota → bandingkan kerapatan dengan emas murni**
 - D. Cahaya
 
-**📖 Pembahasan:** Eureka moment Archimedes (~250 SM). **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Archimedes menemukan cara mengukur volume benda tak beraturan (dan menghitung kerapatannya) melalui air yang tergeser saat ia berendam.
+- **A salah:** Cerita Archimedes tidak berkaitan dengan gaya magnet.
+- **B salah:** "Tradisi" tidak menjelaskan kisah penemuan ilmiah Archimedes.
+- **C benar:** Raja meminta Archimedes memeriksa kemurnian mahkota emas; saat berendam, Archimedes menyadari air yang tergeser sama dengan volume tubuhnya, sehingga ia bisa mengukur volume mahkota dan membandingkan kerapatannya dengan emas murni.
+- **D salah:** Cahaya tidak berkaitan dengan cerita penemuan Archimedes ini.
 
 ---
 
@@ -1129,7 +1504,12 @@ Mengapa **air** dipakai sebagai **standar 1 g/cm³** untuk kerapatan?
 - C. **Padat (struktur 99.8% udara terjebak di nano-pori) — tetap padat secara struktur walau sangat ringan**
 - D. Plasma
 
-**📖 Pembahasan:** Aerogel = "frozen smoke". Struktur padat dengan udara terjebak. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Aerogel tetap tergolong zat padat meskipun sangat ringan karena strukturnya berupa kerangka padat dengan udara terjebak di dalamnya.
+- **A salah:** Aerogel bukan cair; ia memiliki bentuk tetap dan kerangka struktur padat.
+- **B salah:** Aerogel bukan gas meskipun sebagian besar volumenya terisi udara; kerangka strukturnya tetap padat.
+- **C benar:** Aerogel adalah material padat dengan struktur berongga nano yang 99.8% berisi udara, sehingga sangat ringan namun tetap memiliki kerangka padat — dijuluki "frozen smoke".
+- **D salah:** Aerogel tidak terionisasi seperti plasma; ia tetap berwujud padat pada suhu normal.
 
 ---
 
@@ -1142,7 +1522,12 @@ Mengapa **air** dipakai sebagai **standar 1 g/cm³** untuk kerapatan?
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Neutron star = wujud materi ekstrem. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Bintang neutron terbentuk dari sisa bintang yang runtuh akibat gravitasi sangat kuat, memampatkan materinya menjadi sangat rapat.
+- **A salah:** Kerapatan bintang neutron jauh lebih besar daripada kerapatan rata-rata Bumi, bukan sama.
+- **B benar:** Kompresi gravitasi superkuat membuat kerapatan bintang neutron mencapai sekitar 10¹⁴ g/cm³, sehingga satu sendok teh materinya bisa bermassa miliaran ton.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena astrofisika ini.
+- **D salah:** Magnet bukan penyebab kerapatan ekstrem bintang neutron; penyebabnya adalah gravitasi yang sangat kuat.
 
 ---
 
@@ -1155,7 +1540,12 @@ Tubuh manusia terdiri dari berbagai wujud zat:
 - C. Tradisi
 - D. Magnet
 
-**📖 Pembahasan:** Tubuh = sistem multi-wujud. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tubuh manusia merupakan sistem yang mengandung ketiga wujud zat sekaligus.
+- **A salah:** Tubuh manusia tidak hanya terdiri dari zat padat; ada juga cairan dan gas di dalamnya.
+- **B benar:** Tulang mewakili zat padat, darah (sekitar 55% tubuh berupa air) mewakili zat cair, dan udara di paru-paru mewakili zat gas — tubuh manusia mengandung ketiganya.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah komposisi tubuh manusia.
+- **D salah:** Magnet bukan bagian dari komposisi wujud zat dalam tubuh manusia.
 
 ---
 
@@ -1168,7 +1558,12 @@ Tubuh manusia terdiri dari berbagai wujud zat:
 - C. **Difusi gas — sampel diuapkan, gas-gas berbeda menyebar di kolom dengan kecepatan berbeda → analisis komposisi**
 - D. Cahaya
 
-**📖 Pembahasan:** GC = teknik analisis berbasis difusi gas selektif. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Kromatografi gas memisahkan komponen sampel berdasarkan perbedaan kecepatan difusi gas-gas tersebut dalam kolom.
+- **A salah:** Kromatografi gas tidak bekerja dengan prinsip magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknik analisis kimia ini.
+- **C benar:** Sampel diuapkan menjadi gas, lalu gas-gas dengan sifat berbeda menyebar (berdifusi) melalui kolom dengan kecepatan berbeda, sehingga komposisinya dapat dianalisis.
+- **D salah:** Cahaya bukan prinsip utama yang digunakan dalam kromatografi gas.
 
 ---
 
@@ -1181,7 +1576,12 @@ Sintesis paling tepat wujud zat tingkat Prov:
 - C. Sederhana
 - D. Tradisi
 
-**📖 Pembahasan:** Sintesis Prov. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman menyeluruh sifat tiga wujud klasik, plasma, anomali air, dan penerapannya dalam kehidupan/teknologi.
+- **A benar:** Pernyataan ini merangkum dengan lengkap sifat tiga wujud klasik berdasarkan jarak partikel, plasma sebagai wujud dominan di alam semesta, anomali air, serta aplikasi luas seperti mengapung-tenggelam, pemuaian, kerapatan, difusi, dan teknologi plasma.
+- **B salah:** Magnet bukan bagian dari sintesis materi wujud zat.
+- **C salah:** "Sederhana" tidak merangkum kompleksitas materi wujud zat yang sebenarnya cukup luas.
+- **D salah:** "Tradisi" bukan rangkuman ilmiah tentang wujud zat.
 
 ---
 
@@ -1196,7 +1596,12 @@ Sintesis paling tepat wujud zat tingkat Prov:
 - C. 4 K
 - D. 100 K
 
-**📖 Pembahasan:** BEC = quantum state di T mendekati 0 K. Nobel 2001. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Bose-Einstein Condensate hanya terbentuk pada suhu yang sangat mendekati nol absolut.
+- **A salah:** 273 K adalah sekitar suhu titik beku air (0°C), jauh terlalu tinggi untuk membentuk BEC.
+- **B benar:** BEC memerlukan suhu sangat rendah, di bawah 1 mikrokelvin, dicapai dengan teknik pendinginan laser dan evaporative cooling.
+- **C salah:** 4 K memang sangat dingin (mendekati suhu helium cair), tetapi masih jauh lebih tinggi daripada suhu yang dibutuhkan untuk BEC.
+- **D salah:** 100 K masih jauh terlalu tinggi untuk terbentuknya BEC yang membutuhkan suhu mendekati nol absolut.
 
 ---
 
@@ -1209,7 +1614,12 @@ Pada suhu **sangat tinggi** (~10¹² K, di lab dengan akselerator), wujud paling
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** QGP = wujud materi di alam semesta awal (10 µs setelah Big Bang). Dicapai di RHIC, LHC. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Quark-gluon plasma (QGP) adalah wujud materi paling primitif — pada suhu ekstrem, proton dan neutron "meleleh" sehingga quark dan gluon di dalamnya bebas bergerak, bukan terkurung dalam partikel. QGP diyakini mengisi alam semesta ~10 mikrodetik setelah Big Bang, dan berhasil ditiru di lab lewat tumbukan ion berat berenergi sangat tinggi (RHIC, LHC).
+- **A salah:** "Plasma biasa" (gas terionisasi seperti di bintang/petir) beda level — plasma biasa cuma melepas elektron dari atom, sedangkan QGP membebaskan quark dari DALAM proton/neutron. Suhu QGP jauh lebih ekstrem.
+- **B benar:** Sesuai definisi — proton & neutron pecah jadi quark dan gluon bebas pada suhu ~10¹² K, wujud paling primitif materi yang pernah tercipta di lab.
+- **C salah:** Magnet adalah sifat kemagnetan bahan, tidak berkaitan dengan wujud materi ekstrem suhu tinggi.
+- **D salah:** "Tradisi" bukan istilah fisika sama sekali — jelas bukan wujud materi, cuma pengecoh acak.
 
 ---
 
@@ -1222,7 +1632,12 @@ Pada suhu **sangat tinggi** (~10¹² K, di lab dengan akselerator), wujud paling
 - C. **Memiliki pola yang berulang dalam ruang DAN waktu (seperti kristal biasa berulang dalam ruang) — quantum state eksotis**
 - D. Magnet
 
-**📖 Pembahasan:** Time crystal = penemuan fisika modern. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Time crystal adalah wujud materi eksotis yang polanya berulang tidak hanya dalam ruang (seperti kristal biasa) tetapi juga dalam waktu.
+- **A salah:** Time crystal bukan sekadar cairan biasa; ia adalah keadaan kuantum khusus.
+- **B salah:** Berbeda dari kristal padat biasa yang hanya berulang dalam ruang, time crystal memiliki keunikan tambahan berupa pengulangan pola dalam waktu.
+- **C benar:** Time crystal adalah wujud materi kuantum eksotis yang polanya berulang secara periodik baik dalam ruang maupun dalam waktu, ditemukan pada 2017.
+- **D salah:** Magnet bukan penjelasan yang tepat untuk fenomena time crystal.
 
 ---
 
@@ -1235,7 +1650,12 @@ Di pusat Jupiter (tekanan ~70 juta atm), hidrogen bisa berubah jadi...
 - C. Tradisi
 - D. Padat biasa
 
-**📖 Pembahasan:** Metallic hydrogen = wujud aneh di interior planet raksasa. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Tekanan ekstrem di interior planet raksasa dapat mengubah hidrogen menjadi fase logam yang menghantarkan listrik.
+- **A benar:** Di bawah tekanan ekstrem seperti di pusat Jupiter, hidrogen berubah menjadi hidrogen metalik, fase aneh yang berperilaku seperti logam konduktor listrik dan menjadi sumber medan magnet kuat Jupiter.
+- **B salah:** "Magnet" saja bukan jawaban yang menjelaskan wujud materi yang terbentuk; medan magnet Jupiter adalah akibat dari hidrogen metalik, bukan wujud itu sendiri.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika interior planet ini.
+- **D salah:** Hidrogen di kondisi ini bukan padat biasa; ia menjadi fase logam istimewa (metalik) akibat tekanan ekstrem.
 
 ---
 
@@ -1248,7 +1668,12 @@ Di pusat Jupiter (tekanan ~70 juta atm), hidrogen bisa berubah jadi...
 - C. Magnet
 - D. Tradisi
 
-**📖 Pembahasan:** Superfluid quantum behavior. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Superfluiditas adalah fenomena kuantum di mana cairan mengalir tanpa hambatan sama sekali.
+- **A salah:** Superfluid helium sangat berbeda dari air biasa yang memiliki viskositas (hambatan aliran) normal.
+- **B benar:** Superfluid helium-4 memiliki viskositas nol sehingga dapat mengalir tanpa gesekan, bahkan bisa "memanjat" dinding wadah (Rollin film) sebagai fenomena kuantum unik.
+- **C salah:** Magnet tidak menjelaskan fenomena superfluiditas.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah untuk perilaku kuantum superfluid.
 
 ---
 
@@ -1261,7 +1686,12 @@ Di pusat Jupiter (tekanan ~70 juta atm), hidrogen bisa berubah jadi...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Liquid metal alternative untuk raksa toksik. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Logam cair seperti galinstan tidak beracun sehingga aman digunakan sebagai pengganti raksa dalam berbagai aplikasi modern.
+- **A benar:** Galinstan digunakan sebagai pengganti raksa yang aman di termometer, elektroda fleksibel, dan komponen robot lunak (soft robotics) karena sifatnya yang cair pada suhu kamar dan tidak beracun.
+- **B salah:** Aplikasi galinstan tidak berkaitan dengan gaya magnet.
+- **C salah:** "Tradisi" bukan penjelasan aplikasi teknologi modern ini.
+- **D salah:** Cahaya bukan aplikasi utama dari logam cair galinstan.
 
 ---
 
@@ -1274,7 +1704,12 @@ Saat alam semesta umur < 10⁻⁶ detik, materinya:
 - C. **Quark-gluon plasma — terlalu panas untuk proton/neutron stabil**
 - D. Magnet
 
-**📖 Pembahasan:** Era kosmologi awal. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pada suhu ekstrem seperti di awal alam semesta, bahkan proton dan neutron "meleleh" menjadi partikel penyusunnya (quark dan gluon).
+- **A salah:** Plasma biasa terbentuk dari atom yang terionisasi, sedangkan pada suhu ~10¹² K bahkan proton/neutron sudah terurai menjadi partikel lebih dasar.
+- **B benar:** Pada suhu ekstrem ini, proton dan neutron "meleleh" menjadi quark dan gluon bebas, membentuk quark-gluon plasma — wujud materi paling primitif yang tercipta sesaat setelah Big Bang.
+- **C salah:** Magnet tidak menjelaskan wujud materi pada suhu ekstrem ini.
+- **D salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika partikel ini.
 
 ---
 
@@ -1287,7 +1722,12 @@ Saat alam semesta umur < 10⁻⁶ detik, materinya:
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Quantum simulation di lab. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Fermionic condensate adalah wujud kuantum baru (ditemukan 2003, JILA) di mana pasangan fermion (elektron/neutron, yang biasanya "anti-sosial" dan tidak mau menempati keadaan sama) dipaksa berpasangan mirip Cooper-pair sehingga berperilaku seperti boson dan bisa membentuk kondensat — jadi model penting untuk memahami superkonduktor dan bintang neutron.
+- **A salah:** Magnet adalah sifat kemagnetan biasa, tidak ada kaitan dengan pemasangan fermion jadi pseudo-boson pada suhu ultra-dingin.
+- **B benar:** Sesuai definisi — pasangan fermion jadi pseudo-boson yang bisa mengalami kondensasi, dipakai sebagai model superkonduktor & bintang neutron.
+- **C salah:** "Tradisi" bukan istilah fisika, jelas pengecoh acak yang tidak berkaitan dengan fenomena kuantum ini.
+- **D salah:** Cahaya (foton) memang boson alami, tapi fermionic condensate justru soal fermion yang "dipaksa" berperilaku seperti boson — bukan cahaya itu sendiri.
 
 ---
 
@@ -1300,7 +1740,12 @@ Saat alam semesta umur < 10⁻⁶ detik, materinya:
 - C. **Gas sangat tipis & sangat dingin (~10 K) — tempat pembentukan bintang baru; terutama H₂ + debu**
 - D. Plasma
 
-**📖 Pembahasan:** Star nurseries. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Awan molekul gelap adalah gas yang sangat renggang dan dingin, menjadi tempat lahirnya bintang-bintang baru.
+- **A salah:** Materi di awan ini terlalu renggang untuk membentuk struktur padat.
+- **B salah:** Kondisi ruang angkasa yang sangat renggang tidak memungkinkan terbentuknya zat cair.
+- **C benar:** Awan molekul gelap terdiri dari gas hidrogen (H₂) dan debu yang sangat tipis dan sangat dingin (~10 K), menjadi tempat pembentukan bintang-bintang baru.
+- **D salah:** Plasma membutuhkan suhu sangat tinggi, sedangkan awan molekul gelap justru sangat dingin.
 
 ---
 
@@ -1313,7 +1758,12 @@ Saat alam semesta umur < 10⁻⁶ detik, materinya:
 - C. Cahaya
 - D. **Sel/organ disimpan di nitrogen cair (-196°C) → metabolisme hampir berhenti → bisa disimpan tahun-tahun untuk transplant/IVF**
 
-**📖 Pembahasan:** Biological cryopreservation. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Pendinginan ekstrem menggunakan nitrogen cair dapat menghentikan hampir seluruh proses metabolisme sel sehingga bisa disimpan dalam waktu lama.
+- **A salah:** Cryopreservation tidak menggunakan prinsip magnet.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah teknik penyimpanan biologi ini.
+- **C salah:** Cahaya bukan metode yang digunakan dalam cryopreservation.
+- **D benar:** Sel atau organ disimpan dalam nitrogen cair bersuhu -196°C sehingga metabolismenya hampir berhenti total, memungkinkan penyimpanan bertahun-tahun untuk keperluan transplantasi atau program bayi tabung (IVF).
 
 ---
 
@@ -1326,7 +1776,12 @@ Saat suhu mendekati 0 K, atom-atom...
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Quantum mechanics: tidak bisa 100% diam. **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Menurut mekanika kuantum, atom tidak pernah benar-benar diam sepenuhnya meski pada suhu mendekati nol absolut.
+- **A benar:** Energi kinetik atom menjadi minimum pada suhu mendekati 0 K, tetapi menurut prinsip ketidakpastian Heisenberg atom tidak bisa benar-benar diam total — tetap ada sedikit gerakan yang disebut "zero point motion".
+- **B salah:** Magnet tidak menjelaskan perilaku atom pada suhu mendekati nol absolut.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah dari prinsip mekanika kuantum ini.
+- **D salah:** Cahaya tidak berkaitan dengan gerakan atom pada suhu ekstrem rendah ini.
 
 ---
 
@@ -1339,7 +1794,12 @@ Saat suhu mendekati 0 K, atom-atom...
 - C. Tradisi
 - D. Cahaya biasa
 
-**📖 Pembahasan:** Photonic crystals = kristal optical. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Photonic crystal adalah material dengan struktur berulang berskala nanometer yang dirancang untuk mengontrol perambatan cahaya.
+- **A salah:** Photonic crystal tidak bekerja berdasarkan prinsip magnet.
+- **B benar:** Photonic crystal memiliki struktur periodik berskala nanometer yang menciptakan "band gap" bagi foton, sehingga bisa menjebak atau mengarahkan cahaya secara presisi — digunakan dalam fiber optic dan komputasi foton.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk material canggih ini.
+- **D salah:** Photonic crystal adalah material rekayasa khusus, bukan sekadar cahaya biasa tanpa struktur pengarah.
 
 ---
 
@@ -1352,7 +1812,12 @@ Saat suhu mendekati 0 K, atom-atom...
 - C. **Bisa berperilaku sebagai padat (gumpalan stabil), cair (mengalir), atau gas (tersebar) tergantung kondisi — wujud "kompleks"**
 - D. Magnet
 
-**📖 Pembahasan:** Pasir kering bisa flow seperti cair, tetapi gumpal seperti padat. Granular physics aktif diteliti. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Material butiran seperti pasir memiliki perilaku unik yang bisa menyerupai ketiga wujud zat tergantung kondisinya.
+- **A salah:** Pasir tidak selalu berperilaku seperti padat; saat dituang ia bisa mengalir seperti cairan.
+- **B salah:** Pasir tidak selalu berperilaku seperti cairan; saat diam ia bisa membentuk gumpalan stabil seperti padatan.
+- **C benar:** Material butiran seperti pasir bisa berperilaku sebagai padat (gumpalan stabil), cair (mengalir saat dituang), atau bahkan gas (tersebar saat dihembus), tergantung kondisi yang dialaminya — inilah keunikan "granular matter".
+- **D salah:** Magnet tidak berkaitan dengan perilaku unik material butiran ini.
 
 ---
 
@@ -1365,7 +1830,12 @@ Saat suhu mendekati 0 K, atom-atom...
 - C. Gas
 - D. Plasma
 
-**📖 Pembahasan:** Liquid crystal di LCD screen. Kontrol orientasi via medan listrik = display. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Liquid crystal adalah wujud materi peralihan yang memiliki keteraturan seperti kristal padat namun tetap bisa mengalir seperti cairan.
+- **A salah:** Liquid crystal bukan padat murni karena molekulnya masih bisa mengalir/bergerak, tidak seperti kristal padat biasa.
+- **B benar:** Liquid crystal memiliki molekul dengan orientasi terurut seperti kristal (padat) tetapi tetap dapat mengalir seperti cairan; sifat inilah yang dimanfaatkan pada layar LCD dengan mengatur orientasinya lewat medan listrik.
+- **C salah:** Liquid crystal bukan gas; partikelnya jauh lebih rapat dan teratur dibanding gas.
+- **D salah:** Liquid crystal tidak terionisasi seperti plasma; ia tetap berupa molekul netral yang tersusun teratur.
 
 ---
 
@@ -1378,7 +1848,12 @@ Saat suhu mendekati 0 K, atom-atom...
 - C. Tradisi
 - D. Padat
 
-**📖 Pembahasan:** SCF = fase unik. Industri ekstraksi pakai SCF CO₂ (ramah lingkungan). **A benar.**
+**Pembahasan:**
+- **Konsep kunci:** Di atas titik kritis (suhu dan tekanan tertentu), suatu zat tidak lagi bisa dibedakan sebagai cair atau gas, melainkan menjadi fluida supercritical dengan sifat gabungan keduanya.
+- **A benar:** Ketika suhu dan tekanan CO₂ melewati titik kritisnya, zat tersebut menjadi fluida supercritical yang tidak bisa dibedakan sebagai cair atau gas — dimanfaatkan dalam industri seperti dekafeinasi kopi dan ekstraksi bahan farmasi.
+- **B salah:** Fenomena supercritical fluid tidak berkaitan dengan gaya magnet.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk fase materi ini.
+- **D salah:** Supercritical fluid bukan wujud padat; ia justru berada di fase antara cair dan gas.
 
 ---
 
@@ -1391,7 +1866,12 @@ Mengapa **plasma** sering disebut "**wujud zat keempat**" walau dominan di alam 
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Plasma di bintang, ionosfer, petir. Bumi langka. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Urutan penamaan wujud zat berdasarkan sejarah penemuan di Bumi, bukan berdasarkan jumlah materi di alam semesta.
+- **A salah:** Penamaan plasma sebagai wujud keempat tidak berkaitan dengan gaya magnet.
+- **B benar:** Tiga wujud pertama (padat, cair, gas) diidentifikasi lebih dulu karena umum ditemukan di Bumi pada suhu normal, sedangkan plasma membutuhkan suhu sangat tinggi yang jarang terjadi secara alami di Bumi — meskipun ternyata plasma adalah wujud paling dominan secara massa di alam semesta (bintang-bintang).
+- **C salah:** "Tradisi" bukan penjelasan yang menjawab pertanyaan sejarah klasifikasi ilmiah ini.
+- **D salah:** Cahaya tidak berkaitan dengan alasan plasma disebut wujud keempat.
 
 ---
 
@@ -1404,7 +1884,12 @@ Mengapa **plasma** sering disebut "**wujud zat keempat**" walau dominan di alam 
 - C. **Fase exotic dengan entanglement quantum kuat — penting untuk quantum computing topological**
 - D. Cahaya
 
-**📖 Pembahasan:** Quantum spin liquid = riset fisika condensed matter modern. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Quantum spin liquid adalah keadaan materi eksotis di mana spin elektron tetap tidak teratur meski pada suhu sangat rendah, karena efek keterjeratan kuantum (entanglement).
+- **A salah:** Quantum spin liquid bukan sekadar magnet biasa; justru keunikannya adalah spin elektronnya TIDAK tersusun rapi seperti pada magnet umumnya.
+- **B salah:** "Tradisi" bukan penjelasan ilmiah untuk fenomena fisika kuantum ini.
+- **C benar:** Fase eksotis ini memiliki keterjeratan (entanglement) kuantum yang sangat kuat antar spin elektron, sehingga penting dalam pengembangan komputasi kuantum topologis.
+- **D salah:** Cahaya tidak menjelaskan fenomena quantum spin liquid.
 
 ---
 
@@ -1417,7 +1902,12 @@ Mengapa **plasma** sering disebut "**wujud zat keempat**" walau dominan di alam 
 - C. Tradisi
 - D. Cahaya
 
-**📖 Pembahasan:** Graphene Nobel 2010. **B benar.**
+**Pembahasan:**
+- **Konsep kunci:** Graphene adalah material unik berupa selapis atom karbon yang tersusun dalam struktur dua dimensi dengan sifat luar biasa.
+- **A salah:** Graphene bukan tentang gaya magnet; keunikannya terletak pada struktur atomnya yang berlapis tunggal.
+- **B benar:** Graphene adalah "padat 2D" — selapis atom karbon dengan sifat ekstrem seperti konduktor listrik dan panas terbaik, serta lebih kuat dari baja jika dibandingkan per satuan massa.
+- **C salah:** "Tradisi" bukan penjelasan ilmiah untuk material canggih ini.
+- **D salah:** Graphene bukan tentang cahaya; keistimewaannya ada pada struktur dan sifat mekanik-listriknya.
 
 ---
 
@@ -1430,7 +1920,12 @@ Sel hidup memiliki **sitoplasma** yang berperilaku seperti...
 - C. **Gel atau "non-Newtonian fluid" — cair tetapi dengan struktur internal kompleks; viskositas bervariasi dengan stres**
 - D. Gas
 
-**📖 Pembahasan:** Sitoplasma = compleks fluida biologi. **C benar.**
+**Pembahasan:**
+- **Konsep kunci:** Sitoplasma dalam sel hidup adalah cairan kompleks yang viskositasnya bisa berubah-ubah tergantung tekanan/stres yang diberikan, mirip gel.
+- **A salah:** Sitoplasma tidak berkaitan dengan gaya magnet.
+- **B salah:** Sitoplasma bukan padat biasa; ia tetap memiliki sifat cair dengan struktur internal yang kompleks.
+- **C benar:** Sitoplasma berperilaku seperti gel atau "non-Newtonian fluid" — cairan dengan struktur internal kompleks yang viskositasnya bisa berubah tergantung tekanan yang diberikan.
+- **D salah:** Sitoplasma bukan gas; ia adalah cairan kental yang mengisi bagian dalam sel.
 
 ---
 
@@ -1443,7 +1938,12 @@ Pernyataan paling komprehensif tentang wujud zat:
 - C. Magnet
 - D. **3 wujud klasik (padat, cair, gas) hanya scratching the surface — fisika modern mengidentifikasi banyak wujud: plasma, BEC, fermionic condensate, superfluid, superkonduktor, liquid crystal, supercritical fluid, quark-gluon plasma, metallic hydrogen, time crystal, quantum spin liquid, granular matter, 2D materials seperti graphene — beragam wujud merefleksikan kompleksitas interaksi molekul/atom dalam berbagai kondisi suhu/tekanan/medan**
 
-**📖 Pembahasan:** Sintesis ultimate. **D benar.**
+**Pembahasan:**
+- **Konsep kunci:** Rangkuman menyeluruh bahwa tiga wujud klasik hanyalah sebagian kecil dari keragaman wujud materi yang telah ditemukan fisika modern.
+- **A salah:** Pernyataan ini kurang lengkap karena fisika modern telah menemukan banyak wujud materi lain selain tiga wujud klasik.
+- **B salah:** "Tradisi" bukan rangkuman ilmiah tentang keragaman wujud zat.
+- **C salah:** Magnet bukan bagian dari klasifikasi wujud zat, dan tidak merangkum keragaman wujud materi yang dimaksud.
+- **D benar:** Tiga wujud klasik (padat, cair, gas) hanya mengungkap sebagian kecil keragaman materi — fisika modern telah menemukan banyak wujud lain seperti plasma, BEC, fermionic condensate, superfluid, superkonduktor, liquid crystal, supercritical fluid, quark-gluon plasma, hidrogen metalik, time crystal, quantum spin liquid, granular matter, dan material 2D seperti graphene, yang semuanya mencerminkan kompleksitas interaksi atom/molekul dalam berbagai kondisi suhu, tekanan, dan medan.
 
 ---
 

@@ -121,6 +121,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 25% × 80.000 = (25/100) × 80.000 = 20.000. ✅
 - **C** — Rp60.000 = harga setelah diskon (80.000 − 20.000), bukan potongan. Tertukar pertanyaan.
 - **D** — Rp4.000 = 5% × 80.000 (salah persen, mungkin dibagi 20).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 25% menjadi pecahan 25/100.
+  2. Kalikan dengan harga awal: 25/100 x Rp80.000 = Rp20.000.
+  3. Itulah besar potongan yang ditanyakan.
 
 ---
 
@@ -136,6 +141,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp220.000 = malah ditambah (200.000 + 20.000). Diskon = pengurangan, bukan penambahan.
 - **C** — Rp190.000 = mengurangi 10 langsung dari 200 ribu (anggap persen = ribu).
 - **D** — Rp20.000 = potongan, bukan harga bayar. Tertukar pertanyaan.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 10% x Rp200.000 = Rp20.000.
+  2. Kurangkan dari harga awal: Rp200.000 - Rp20.000 = Rp180.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -151,6 +161,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp120.000 = harga setelah diskon (150.000 − 30.000), bukan potongan.
 - **C** — Benar. Potongan = 20% × 150.000 = (20/100) × 150.000 = 30.000. ✅
 - **D** — Rp15.000 = 10% × 150.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 20% menjadi pecahan 20/100.
+  2. Kalikan dengan harga awal: 20/100 x Rp150.000 = Rp30.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -166,6 +181,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp25.000 = asal pakai angka 25.
 - **C** — Rp10.000 = potongan (25% × 40.000), bukan harga bayar. Tertukar pertanyaan.
 - **D** — Benar. Potongan = 25% × 40.000 = 10.000. Bayar = 40.000 − 10.000 = 30.000. ✅ Cara cepat: 75% × 40.000 = 30.000.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp40.000 = Rp10.000.
+  2. Bayar = Rp40.000 - Rp10.000 = Rp30.000.
+  3. Cek cepat: 75% x Rp40.000 = Rp30.000.
 
 ---
 
@@ -181,6 +201,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp200.000 = harga setelah diskon, bukan potongan.
 - **C** — Rp25.000 = 10% × 250.000 (salah persen).
 - **D** — Rp20.000 = asal pakai angka 20 (×1.000).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 20% menjadi 1/5 (cara cepat: bagi 5).
+  2. Rp250.000 : 5 = Rp50.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -196,6 +221,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp70.000 = 120.000 − 50.000 (mengurangi 50 langsung).
 - **C** — Benar. Diskon 50% = separuh harga. 120.000 ÷ 2 = 60.000. ✅
 - **D** — Rp100.000 = mengurangi 20 dari 120 (sembarang).
+- **Konsep kunci:** Diskon 50% berarti harga bayar tepat separuh dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Diskon 50% = setengah harga.
+  2. Rp120.000 : 2 = Rp60.000.
+  3. Itulah harga setelah diskon.
 
 ---
 
@@ -211,6 +241,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 30% × 100.000 = 30.000. ✅ Cara cepat: 30% dari 100 ribu = 30 ribu.
 - **C** — Rp10.000 = 10% × 100.000 (salah persen).
 - **D** — Rp40.000 = 40% × 100.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 30% menjadi pecahan 30/100.
+  2. Kalikan dengan harga awal: 30/100 x Rp100.000 = Rp30.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -226,6 +261,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp2.000 = potongan saja (20% × 10.000), bukan harga bayar.
 - **C** — Rp10.020 = malah ditambah, arah salah.
 - **D** — Benar. Potongan = 20% × 10.000 = 2.000. Bayar = 10.000 − 2.000 = 8.000. ✅
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp10.000 = Rp2.000.
+  2. Bayar = Rp10.000 - Rp2.000 = Rp8.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -241,6 +281,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp300.000 = 10% × 3.000.000 (salah persen).
 - **C** — Rp150.000 = 5% × 3.000.000 (salah persen, mungkin 15 ÷ 2).
 - **D** — Rp45.000 = salah hitung pembagian, hilang satu nol.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 15% menjadi pecahan 15/100.
+  2. Kalikan dengan harga awal: 15/100 x Rp3.000.000 = Rp450.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -256,6 +301,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 25% × 80.000 = 20.000. Bayar = 80.000 − 20.000 = 60.000. ✅ Atau 75% × 80.000 = 60.000.
 - **C** — Rp20.000 = potongan, bukan harga bayar.
 - **D** — Rp55.000 = mengurangi 25 dari 80 (anggap persen rupiah).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp80.000 = Rp20.000.
+  2. Bayar = Rp80.000 - Rp20.000 = Rp60.000.
+  3. Cek cepat: 75% x Rp80.000 = Rp60.000.
 
 ---
 
@@ -271,6 +321,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp100.000 = potongan (25% × 400.000), bukan harga bayar.
 - **C** — Benar. Bayar = 75% × 400.000 = 300.000. ✅ Atau 400.000 − 100.000 = 300.000.
 - **D** — Rp325.000 = salah hitung pembagian.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Cara cepat: bayar = 75% x harga awal (karena diskon 25%).
+  2. 75% x Rp400.000 = Rp300.000.
+  3. Itulah harga setelah diskon.
 
 ---
 
@@ -286,6 +341,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp35.000 = harga setelah diskon (75.000 − 40.000) salah arah, bukan potongan.
 - **C** — Rp45.000 = harga setelah diskon (75.000 − 30.000). Tertukar.
 - **D** — Benar. Potongan = 40% × 75.000 = (40/100) × 75.000 = 30.000. ✅
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 40% menjadi pecahan 40/100.
+  2. Kalikan dengan harga awal: 40/100 x Rp75.000 = Rp30.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -301,6 +361,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp10.000 = mengurangi 6.000 sembarang.
 - **C** — Rp12.000 = 16.000 − 4.000 (diskon 25%, salah persen).
 - **D** — Rp4.000 = ¼ harga (anggap diskon 75%).
+- **Konsep kunci:** Diskon 50% berarti harga bayar tepat separuh dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Diskon 50% = setengah harga.
+  2. Rp16.000 : 2 = Rp8.000.
+  3. Itulah harga yang dibayar.
 
 ---
 
@@ -316,6 +381,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp10.000 = 20% × 50.000 (salah persen).
 - **C** — Benar. Potongan = 30% × 50.000 = (30/100) × 50.000 = 15.000. ✅
 - **D** — Rp30.000 = asal pakai angka 30 (×1.000). Lupa kali harga.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 30% menjadi pecahan 30/100.
+  2. Kalikan dengan harga awal: 30/100 x Rp50.000 = Rp15.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -331,6 +401,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 35% × 200.000 = 70.000. Bayar = 200.000 − 70.000 = 130.000. ✅
 - **C** — Rp70.000 = potongan saja, bukan harga bayar.
 - **D** — Rp135.000 = salah hitung (200 − 65 sembarang).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 35% x Rp200.000 = Rp70.000.
+  2. Bayar = Rp200.000 - Rp70.000 = Rp130.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -346,6 +421,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp50.000 = mengurangi 10 dari 60.000 (asal).
 - **C** — Rp15.000 = potongan, bukan harga bayar.
 - **D** — Rp40.000 = 60.000 − 20.000 (diskon 33%, salah persen).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp60.000 = Rp15.000.
+  2. Bayar = Rp60.000 - Rp15.000 = Rp45.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -361,6 +441,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp80.000 = salah hitung.
 - **C** — Rp40.000 = asal pakai angka 40.
 - **D** — Benar. Potongan = 40% × 150.000 = (40/100) × 150.000 = 60.000. ✅
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 40% menjadi pecahan 40/100.
+  2. Kalikan dengan harga awal: 40/100 x Rp150.000 = Rp60.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -376,6 +461,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 20% × 60.000 = 12.000. Bayar = 60.000 − 12.000 = 48.000. ✅
 - **C** — Rp52.000 = 60.000 − 8.000 (salah hitung).
 - **D** — Rp12.000 = potongan saja, bukan harga bayar.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp60.000 = Rp12.000.
+  2. Bayar = Rp60.000 - Rp12.000 = Rp48.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -391,6 +481,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp63.000 = harga setelah diskon (90.000 − 27.000), bukan potongan.
 - **C** — Benar. Potongan = 30% × 90.000 = (30/100) × 90.000 = 27.000. ✅
 - **D** — Rp9.000 = 10% × 90.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 30% menjadi pecahan 30/100.
+  2. Kalikan dengan harga awal: 30/100 x Rp90.000 = Rp27.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -406,6 +501,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp5.500.000 = ditambah bukan dikurang, arah salah.
 - **C** — Rp500.000 = potongan, bukan harga bayar.
 - **D** — Rp4.990.000 = mengurangi 10 dari 5.000.000 (anggap persen = rupiah).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 10% x Rp5.000.000 = Rp500.000.
+  2. Bayar = Rp5.000.000 - Rp500.000 = Rp4.500.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -421,6 +521,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp34.980 = 35.000 − 20 (anggap 20% = 20 rupiah).
 - **C** — Rp30.000 = mengurangi 5.000 (salah hitung).
 - **D** — Benar. Potongan = 20% × 35.000 = 7.000. Bayar = 35.000 − 7.000 = 28.000. ✅
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp35.000 = Rp7.000.
+  2. Bayar = Rp35.000 - Rp7.000 = Rp28.000.
+  3. Itulah harga setelah diskon.
 
 ---
 
@@ -436,6 +541,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp15.000 = harga setelah diskon (25.000 − 10.000), bukan potongan.
 - **C** — Benar. Potongan = 40% × 25.000 = (40/100) × 25.000 = 10.000. ✅
 - **D** — Rp5.000 = 20% × 25.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 40% menjadi pecahan 40/100.
+  2. Kalikan dengan harga awal: 40/100 x Rp25.000 = Rp10.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -451,6 +561,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 25% × 24.000 = 6.000. Bayar = 24.000 − 6.000 = 18.000. ✅
 - **C** — Rp6.000 = potongan, bukan harga bayar.
 - **D** — Rp22.000 = mengurangi 2.000 (salah hitung).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp24.000 = Rp6.000.
+  2. Bayar = Rp24.000 - Rp6.000 = Rp18.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -466,6 +581,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp25.000 = asal sembarang.
 - **C** — Rp36.000 = harga setelah diskon, bukan potongan.
 - **D** — Rp4.500 = 10% × 45.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 20% menjadi 1/5 (cara cepat: bagi 5).
+  2. Rp45.000 : 5 = Rp9.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -481,6 +601,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp20.000 = mengurangi 10.000 (anggap diskon 33%).
 - **C** — Rp10.000 = ⅓ harga (sembarang).
 - **D** — Benar. Diskon 50% = setengah harga. 30.000 ÷ 2 = 15.000. ✅
+- **Konsep kunci:** Diskon 50% berarti harga bayar tepat separuh dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Diskon 50% = setengah harga.
+  2. Rp30.000 : 2 = Rp15.000.
+  3. Itulah harga yang dibayar.
 
 ---
 
@@ -496,6 +621,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 25% × 12.000 = 3.000. Bayar = 12.000 − 3.000 = 9.000. ✅ Atau 75% × 12.000 = 9.000.
 - **C** — Rp3.000 = potongan, bukan harga bayar.
 - **D** — Rp8.000 = ⅔ × 12.000 (anggap diskon 33%).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp12.000 = Rp3.000.
+  2. Bayar = Rp12.000 - Rp3.000 = Rp9.000.
+  3. Cek cepat: 75% x Rp12.000 = Rp9.000.
 
 ---
 
@@ -511,6 +641,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp17.000 = harga bayar (20.000 − 3.000), bukan potongan.
 - **C** — Rp1.500 = 7,5% × 20.000 (salah persen, mungkin bagi 2).
 - **D** — Rp15.000 = asal pakai angka 15. Lupa kali harga.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 15% menjadi pecahan 15/100.
+  2. Kalikan dengan harga awal: 15/100 x Rp20.000 = Rp3.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -526,6 +661,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp30.000 = mengurangi 20.000 (40% × 50.000), salah persen.
 - **C** — Benar. Potongan = 30% × 50.000 = 15.000. Bayar = 50.000 − 15.000 = 35.000. ✅
 - **D** — Rp15.000 = potongan saja, bukan harga bayar.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 30% x Rp50.000 = Rp15.000.
+  2. Bayar = Rp50.000 - Rp15.000 = Rp35.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -541,6 +681,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp60.000 = harga setelah diskon, bukan potongan.
 - **C** — Rp30.000 = sembarang (mungkin salah persen 37,5%).
 - **D** — Benar. Potongan = 25% × 80.000 = (25/100) × 80.000 = 20.000. ✅ Atau bagi 4.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 25% menjadi 1/4 (cara cepat: bagi 4).
+  2. Rp80.000 : 4 = Rp20.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -556,6 +701,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 20% × 45.000 = 9.000. Bayar = 45.000 − 9.000 = 36.000. ✅
 - **C** — Rp44.980 = mengurangi 20 langsung dari 45.000 (anggap persen rupiah).
 - **D** — Rp40.000 = mengurangi 5.000 (salah hitung).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp45.000 = Rp9.000.
+  2. Bayar = Rp45.000 - Rp9.000 = Rp36.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -571,6 +721,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp35.000 = asal pakai angka 35.
 - **C** — Rp26.000 = harga setelah diskon (40.000 − 14.000), bukan potongan.
 - **D** — Rp10.000 = 25% × 40.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 35% menjadi pecahan 35/100.
+  2. Kalikan dengan harga awal: 35/100 x Rp40.000 = Rp14.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -586,6 +741,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp30.000 = potongan saja, bukan harga bayar.
 - **C** — Benar. Potongan = 20% × 150.000 = 30.000. Bayar = 150.000 − 30.000 = 120.000. ✅
 - **D** — Rp149.980 = anggap persen = rupiah.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp150.000 = Rp30.000.
+  2. Bayar = Rp150.000 - Rp30.000 = Rp120.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -601,6 +761,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 10% × 80.000 = (10/100) × 80.000 = 8.000. ✅ Cara cepat: bagi 10.
 - **C** — Rp72.000 = harga setelah diskon, bukan potongan.
 - **D** — Rp16.000 = 20% × 80.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 10% menjadi cara cepat: bagi 10.
+  2. Rp80.000 : 10 = Rp8.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -616,6 +781,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp120.000 = 10% × 1.200.000 (salah persen).
 - **C** — Rp1.020.000 = harga setelah diskon, bukan potongan.
 - **D** — Benar. Potongan = 15% × 1.200.000 = (15/100) × 1.200.000 = 180.000. ✅
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 15% menjadi pecahan 15/100.
+  2. Kalikan dengan harga awal: 15/100 x Rp1.200.000 = Rp180.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -631,6 +801,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp4.000 = diskon 50% (salah persen, mungkin bagi 2 saja).
 - **C** — Rp7.975 = mengurangi 25 dari 8.000 (anggap persen rupiah).
 - **D** — Rp2.000 = potongan, bukan harga bayar.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp8.000 = Rp2.000.
+  2. Bayar = Rp8.000 - Rp2.000 = Rp6.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -646,6 +821,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 25% × 800.000 = 200.000. Bayar = 800.000 − 200.000 = 600.000. ✅ Atau 75% × 800.000 = 600.000.
 - **C** — Rp200.000 = potongan, bukan harga bayar.
 - **D** — Rp650.000 = salah hitung (800 − 150 asal).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp800.000 = Rp200.000.
+  2. Bayar = Rp800.000 - Rp200.000 = Rp600.000.
+  3. Cek cepat: 75% x Rp800.000 = Rp600.000.
 
 ---
 
@@ -661,6 +841,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp30.000 = asal pakai angka 30 (×1.000). Bahkan lebih besar dari harga awal — pasti salah.
 - **C** — Benar. Potongan = 30% × 10.000 = (30/100) × 10.000 = 3.000. ✅
 - **D** — Rp1.000 = 10% × 10.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 30% menjadi pecahan 30/100.
+  2. Kalikan dengan harga awal: 30/100 x Rp10.000 = Rp3.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -676,6 +861,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp60.000 = harga setelah diskon, bukan potongan.
 - **C** — Rp20.000 = asal pakai angka 20.
 - **D** — Rp7.500 = 10% × 75.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 20% menjadi 1/5 (cara cepat: bagi 5).
+  2. Rp75.000 : 5 = Rp15.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -691,6 +881,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp350.000 = mengurangi 50.000 (12,5%, salah persen).
 - **C** — Rp100.000 = potongan, bukan harga bayar.
 - **D** — Benar. Potongan = 25% × 400.000 = 100.000. Bayar = 400.000 − 100.000 = 300.000. ✅
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 25% x Rp400.000 = Rp100.000.
+  2. Bayar = Rp400.000 - Rp100.000 = Rp300.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -706,6 +901,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp175.000 = harga setelah diskon, bukan potongan.
 - **C** — Benar. Potongan = 30% × 250.000 = (30/100) × 250.000 = 75.000. ✅
 - **D** — Rp25.000 = 10% × 250.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 30% menjadi pecahan 30/100.
+  2. Kalikan dengan harga awal: 30/100 x Rp250.000 = Rp75.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -721,6 +921,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 20% × 350.000 = 70.000. Bayar = 350.000 − 70.000 = 280.000. ✅
 - **C** — Rp70.000 = potongan saja, bukan harga bayar.
 - **D** — Rp250.000 = mengurangi 100.000 (salah persen).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp350.000 = Rp70.000.
+  2. Bayar = Rp350.000 - Rp70.000 = Rp280.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -736,6 +941,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp9.000 = harga setelah diskon (15.000 − 6.000), bukan potongan.
 - **C** — Benar. Potongan = 40% × 15.000 = (40/100) × 15.000 = 6.000. ✅
 - **D** — Rp7.500 = 50% × 15.000 (salah persen).
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 40% menjadi pecahan 40/100.
+  2. Kalikan dengan harga awal: 40/100 x Rp15.000 = Rp6.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -751,6 +961,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp135.000 = harga setelah diskon, bukan potongan.
 - **C** — Rp36.000 = 20% × 180.000 (salah persen).
 - **D** — Benar. Potongan = 25% × 180.000 = (25/100) × 180.000 = 45.000. ✅ Atau bagi 4.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 25% menjadi 1/4 (cara cepat: bagi 4).
+  2. Rp180.000 : 4 = Rp45.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -766,6 +981,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp45.000 = mengurangi 15.000 (25%, salah persen).
 - **C** — Rp9.000 = potongan saja, bukan harga bayar.
 - **D** — Rp55.000 = mengurangi 5.000 (salah hitung).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 15% x Rp60.000 = Rp9.000.
+  2. Bayar = Rp60.000 - Rp9.000 = Rp51.000.
+  3. Itulah harga yang harus dibayar.
 
 ---
 
@@ -781,6 +1001,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 30% × 200.000 = 60.000. Bayar = 200.000 − 60.000 = 140.000. ✅ Atau 70% × 200.000 = 140.000.
 - **C** — Rp60.000 = potongan saja, bukan harga bayar.
 - **D** — Rp160.000 = mengurangi 40.000 (salah hitung 20%).
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 30% x Rp200.000 = Rp60.000.
+  2. Bayar = Rp200.000 - Rp60.000 = Rp140.000.
+  3. Cek cepat: 70% x Rp200.000 = Rp140.000.
 
 ---
 
@@ -796,6 +1021,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp75.000 = harga setelah diskon, bukan potongan.
 - **C** — Rp50.000 = 50% × 100.000 (salah persen).
 - **D** — Benar. Potongan = 25% × 100.000 = (25/100) × 100.000 = 25.000. ✅
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 25% menjadi pecahan 25/100.
+  2. Kalikan dengan harga awal: 25/100 x Rp100.000 = Rp25.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -811,6 +1041,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp200.000 = mengurangi 50.000 (20%, salah persen).
 - **C** — Benar. Potongan = 40% × 250.000 = 100.000. Bayar = 250.000 − 100.000 = 150.000. ✅ Atau 60% × 250.000 = 150.000.
 - **D** — Rp100.000 = potongan, bukan harga bayar.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 40% x Rp250.000 = Rp100.000.
+  2. Bayar = Rp250.000 - Rp100.000 = Rp150.000.
+  3. Cek cepat: 60% x Rp250.000 = Rp150.000.
 
 ---
 
@@ -826,6 +1061,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp15.000 = mengurangi 5.000 (25%, salah persen).
 - **C** — Rp5.000 = ¼ harga (anggap diskon 75%).
 - **D** — Rp12.000 = mengurangi 8.000 (sembarang).
+- **Konsep kunci:** Diskon 50% berarti harga bayar tepat separuh dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Diskon 50% = setengah harga.
+  2. Rp20.000 : 2 = Rp10.000.
+  3. Itulah harga yang dibayar.
 
 ---
 
@@ -841,6 +1081,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp35.000 = asal pakai angka 35.
 - **C** — Benar. Potongan = 35% × 60.000 = (35/100) × 60.000 = 21.000. ✅
 - **D** — Rp39.000 = harga setelah diskon (60.000 − 21.000), bukan potongan.
+- **Konsep kunci:** Potongan harga = persen diskon x harga awal, dihitung dengan mengalikan dulu, bukan mengurangi angka persennya langsung dari harga.
+- **Langkah Penyelesaian:**
+  1. Ubah 35% menjadi pecahan 35/100.
+  2. Kalikan dengan harga awal: 35/100 x Rp60.000 = Rp21.000.
+  3. Itulah potongannya.
 
 ---
 
@@ -856,6 +1101,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp350.000 = mengurangi 100.000 (salah persen, mungkin 22%).
 - **C** — Rp90.000 = potongan saja, bukan harga bayar.
 - **D** — Benar. Potongan = 20% × 450.000 = 90.000. Bayar = 450.000 − 90.000 = 360.000. ✅ Atau 80% × 450.000 = 360.000.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x Rp450.000 = Rp90.000.
+  2. Bayar = Rp450.000 - Rp90.000 = Rp360.000.
+  3. Cek cepat: 80% x Rp450.000 = Rp360.000.
 
 ---
 
@@ -873,6 +1123,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp187.500 = 150.000 + 25% × 150.000. Salah arah (menambah dari harga bayar, bukan harga awal).
 - **C** — Rp175.000 = 150.000 + 25.000 sembarang.
 - **D** — Rp180.000 = 150.000 × 1,20 (anggap diskon 20%).
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 75% x harga awal (karena diskon 25%).
+  2. Harga awal = Rp150.000 : 0,75 = Rp200.000.
+  3. Cek: 25% x Rp200.000 = Rp50.000, dan Rp200.000 - Rp50.000 = Rp150.000.
 
 ---
 
@@ -888,6 +1143,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp3.225.000 = salah hitung 95% × 3.500.000 (yang benar = 3.325.000).
 - **C** — Benar. Toko A: 85% × 4.000.000 = 3.400.000. Toko B: 95% × 3.500.000 = 3.325.000. Toko B lebih murah. ✅
 - **D** — Salah, dua toko hasilnya beda.
+- **Konsep kunci:** Untuk membandingkan dua penawaran diskon, hitung dulu harga akhir masing-masing lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Toko A: 85% x Rp4.000.000 = Rp3.400.000.
+  2. Toko B: 95% x Rp3.500.000 = Rp3.325.000.
+  3. Bandingkan: Toko B lebih murah.
 
 ---
 
@@ -903,6 +1163,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah 20%: 200.000 × 0,80 = 160.000. Setelah 10% lagi: 160.000 × 0,90 = 144.000. ✅
 - **C** — Rp150.000 = sembarang.
 - **D** — Rp160.000 = berhenti setelah diskon pertama saja.
+- **Konsep kunci:** Diskon berturut (ganda) dihitung bertahap dengan mengalikan faktor sisa berurutan, bukan menjumlahkan persennya.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 20%: 80% x Rp200.000 = Rp160.000.
+  2. Setelah diskon 10% lagi: 90% x Rp160.000 = Rp144.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -918,6 +1183,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp130.000 = 90.000 + 40.000 sembarang.
 - **C** — Rp140.000 = 90.000 + 50.000 sembarang.
 - **D** — Benar. Bayar = 60% × harga awal = 90.000. Harga awal = 90.000 ÷ 0,60 = 150.000. ✅ Cek: 40% × 150.000 = 60.000, 150.000 − 60.000 = 90.000.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 60% x harga awal (karena diskon 40%).
+  2. Harga awal = Rp90.000 : 0,60 = Rp150.000.
+  3. Cek: 40% x Rp150.000 = Rp60.000, Rp150.000 - Rp60.000 = Rp90.000.
 
 ---
 
@@ -933,6 +1203,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp25.200 = 30% × 84.000 (salah dasar — bukan dari harga bayar, dari harga awal).
 - **C** — Rp30.000 = asal pakai angka 30.
 - **D** — Rp40.000 = sembarang.
+- **Konsep kunci:** Untuk mencari potongan dari harga bayar, cari dulu harga awalnya (balik) baru hitung potongannya.
+- **Langkah Penyelesaian:**
+  1. Harga awal = Rp84.000 : 0,70 = Rp120.000.
+  2. Potongan = 30% x Rp120.000 = Rp36.000.
+  3. Cek: Rp120.000 - Rp84.000 = Rp36.000.
 
 ---
 
@@ -948,6 +1223,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah diskon: 85% × 6.000.000 = 5.100.000. PPN: 110% × 5.100.000 = 5.610.000. ✅
 - **C** — Rp5.400.000 = sembarang.
 - **D** — Rp6.300.000 = pakai 100% × 6.000.000 + pajak 5%. Salah urutan/persen.
+- **Konsep kunci:** Diskon dan pajak dihitung bertahap dan berurutan: diskon dulu, baru pajak dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 15%: 85% x Rp6.000.000 = Rp5.100.000.
+  2. Tambah PPN 10%: 110% x Rp5.100.000 = Rp5.610.000.
+  3. Itulah total yang dibayar.
 
 ---
 
@@ -963,6 +1243,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp260.000 = sembarang.
 - **C** — Rp280.000 = sembarang.
 - **D** — Benar. Bayar 80% = 240.000 → harga awal = 240.000 ÷ 0,80 = 300.000. ✅ Cek: 20% × 300.000 = 60.000, 300.000 − 60.000 = 240.000.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 80% x harga awal (karena diskon 20%).
+  2. Harga awal = Rp240.000 : 0,80 = Rp300.000.
+  3. Cek: 20% x Rp300.000 = Rp60.000, Rp300.000 - Rp60.000 = Rp240.000.
 
 ---
 
@@ -978,6 +1263,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Salah, Y memberi potongan Rp50.000 (bukan 45.000).
 - **C** — Benar. Promo X: 25% × 180.000 = Rp45.000. Promo Y: Rp50.000. Selisih: Y lebih hemat Rp5.000. ✅
 - **D** — Salah, beda Rp5.000.
+- **Konsep kunci:** Bandingkan besar potongan rupiah dari kedua promo pada harga yang sama untuk menentukan mana lebih hemat.
+- **Langkah Penyelesaian:**
+  1. Promo X: 25% x Rp180.000 = Rp45.000.
+  2. Promo Y: Rp50.000 (potongan langsung).
+  3. Bandingkan: Y lebih besar potongannya, jadi lebih hemat.
 
 ---
 
@@ -993,6 +1283,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Bayar 70% = 84.000 → harga awal = 84.000 ÷ 0,70 = 120.000. ✅ Cek: 30% × 120.000 = 36.000, 120.000 − 36.000 = 84.000.
 - **C** — Rp112.000 = 84.000 + 28.000 sembarang.
 - **D** — Rp114.000 = sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 70% x harga awal (karena diskon 30%).
+  2. Harga awal = Rp84.000 : 0,70 = Rp120.000.
+  3. Cek: 30% x Rp120.000 = Rp36.000, Rp120.000 - Rp36.000 = Rp84.000.
 
 ---
 
@@ -1008,6 +1303,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 25% = sembarang.
 - **C** — 50% = anggap "satu gratis" = setengah harga (salah, karena dasar 3 paket).
 - **D** — 30% = sembarang.
+- **Konsep kunci:** Diskon efektif dihitung dari total potongan dibagi total harga normal seluruh barang yang didapat, bukan sekadar 'gratis 1 = 50%'.
+- **Langkah Penyelesaian:**
+  1. Dapat 3 paket dengan bayar 2: 2 x Rp30.000 = Rp60.000.
+  2. Harga normal 3 paket = Rp90.000, potongan = Rp30.000.
+  3. Persen = (Rp30.000 / Rp90.000) x 100% = 33,33%.
 
 ---
 
@@ -1023,6 +1323,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp225.000 = 250.000 − 25.000 saja, lupa diskon 20%.
 - **C** — Benar. Setelah 20%: 80% × 250.000 = 200.000. Tambahan: 200.000 − 25.000 = 175.000. ✅
 - **D** — Rp180.000 = sembarang.
+- **Konsep kunci:** Diskon persen dan potongan nominal tambahan dihitung bertahap secara berurutan, bukan dijumlahkan sekaligus.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 20%: 80% x Rp250.000 = Rp200.000.
+  2. Kurangi potongan tambahan: Rp200.000 - Rp25.000 = Rp175.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1038,6 +1343,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp281.250 = 225.000 × 1,25 (salah arah, kali 1+%).
 - **C** — Rp250.000 = sembarang.
 - **D** — Benar. Bayar 75% = 225.000 → harga awal = 225.000 ÷ 0,75 = 300.000. ✅ Cek: 25% × 300.000 = 75.000, 300.000 − 75.000 = 225.000.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 75% x harga awal (karena diskon 25%).
+  2. Harga awal = Rp225.000 : 0,75 = Rp300.000.
+  3. Cek: 25% x Rp300.000 = Rp75.000, Rp300.000 - Rp75.000 = Rp225.000.
 
 ---
 
@@ -1053,6 +1363,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp2.400.000 = harga setelah diskon (80% × 3.000.000), bukan harga awal.
 - **C** — Rp3.600.000 = 3.000.000 + 600.000 (sembarang).
 - **D** — Rp1.200.000 = 600.000 × 2 (salah hitung pembagian).
+- **Konsep kunci:** Jika potongan rupiah dan persennya diketahui, harga awal = potongan dibagi persen diskon.
+- **Langkah Penyelesaian:**
+  1. Potongan = 20% x harga awal = Rp600.000.
+  2. Harga awal = Rp600.000 : 0,20 = Rp3.000.000.
+  3. Itulah harga sebelum diskon.
 
 ---
 
@@ -1068,6 +1383,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp130.000 = sembarang.
 - **C** — Benar. Setelah 25%: 75% × 200.000 = 150.000. Setelah 20%: 80% × 150.000 = 120.000. ✅
 - **D** — Rp140.000 = berhenti setelah diskon kedua salah hitung.
+- **Konsep kunci:** Diskon berturut (ganda) dihitung bertahap dengan mengalikan faktor sisa berurutan, bukan menjumlahkan persennya.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 25%: 75% x Rp200.000 = Rp150.000.
+  2. Setelah diskon 20% lagi: 80% x Rp150.000 = Rp120.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1083,6 +1403,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp45.000 = potongan saja (30% × 150.000), bukan harga bayar.
 - **C** — Rp120.000 = mengurangi 30 langsung dari 150 (anggap persen ribu).
 - **D** — Benar. Potongan = 30% × 150.000 = 45.000. Bayar = 150.000 − 45.000 = 105.000. ✅ Atau 70% × 150.000 = 105.000.
+- **Konsep kunci:** Harga bayar = harga awal - potongan, atau langsung (100% - %diskon) x harga awal.
+- **Langkah Penyelesaian:**
+  1. Potongan = 30% x Rp150.000 = Rp45.000.
+  2. Bayar = Rp150.000 - Rp45.000 = Rp105.000.
+  3. Cek cepat: 70% x Rp150.000 = Rp105.000.
 
 ---
 
@@ -1098,6 +1423,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Bayar 85% = 170.000 → harga awal = 170.000 ÷ 0,85 = 200.000. ✅ Cek: 15% × 200.000 = 30.000, 200.000 − 30.000 = 170.000.
 - **C** — Rp185.000 = 170.000 + 15.000 (anggap potongan 15 ribu).
 - **D** — Rp190.000 = sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 85% x harga awal (karena diskon 15%).
+  2. Harga awal = Rp170.000 : 0,85 = Rp200.000.
+  3. Cek: 15% x Rp200.000 = Rp30.000, Rp200.000 - Rp30.000 = Rp170.000.
 
 ---
 
@@ -1113,6 +1443,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp112.500 = 25% × 450.000 (salah dasar — bukan dari harga bayar, dari harga awal).
 - **C** — Rp130.000 = sembarang.
 - **D** — Rp135.000 = 30% × 450.000 sembarang.
+- **Konsep kunci:** Untuk mencari potongan dari harga bayar, cari dulu harga awalnya (balik) baru hitung potongannya.
+- **Langkah Penyelesaian:**
+  1. Harga awal = Rp450.000 : 0,75 = Rp600.000.
+  2. Potongan = 25% x Rp600.000 = Rp150.000.
+  3. Cek: Rp600.000 - Rp450.000 = Rp150.000.
 
 ---
 
@@ -1128,6 +1463,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah diskon 20%: 80% × 2.000.000 = 1.600.000. PPN 10%: 110% × 1.600.000 = 1.760.000. ✅
 - **C** — Rp1.700.000 = 2.000.000 − 200.000 − 100.000 (salah urutan, tambah-tambah saja).
 - **D** — Rp1.840.000 = 2.000.000 × 0,92. Salah konsep (jumlahkan saja persen).
+- **Konsep kunci:** Diskon dan pajak dihitung bertahap dan berurutan: diskon dulu, baru pajak dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 20%: 80% x Rp2.000.000 = Rp1.600.000.
+  2. Tambah PPN 10%: 110% x Rp1.600.000 = Rp1.760.000.
+  3. Itulah total yang dibayar.
 
 ---
 
@@ -1143,6 +1483,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp180.000 = sembarang.
 - **C** — Benar. Bayar 65% = 130.000 → harga awal = 130.000 ÷ 0,65 = 200.000. ✅ Cek: 35% × 200.000 = 70.000, 200.000 − 70.000 = 130.000.
 - **D** — Rp185.000 = 130.000 + 55.000 sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 65% x harga awal (karena diskon 35%).
+  2. Harga awal = Rp130.000 : 0,65 = Rp200.000.
+  3. Cek: 35% x Rp200.000 = Rp70.000, Rp200.000 - Rp70.000 = Rp130.000.
 
 ---
 
@@ -1158,6 +1503,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp525.000 = mengurangi 125.000 (salah hitung).
 - **C** — Rp450.000 = sembarang.
 - **D** — Benar. Total awal = 450.000 + 200.000 = 650.000. Bayar = 75% × 650.000 = 487.500. ✅ Atau diskon = 25% × 650.000 = 162.500, bayar = 650.000 − 162.500 = 487.500.
+- **Konsep kunci:** Jika diskon berlaku untuk total belanja, jumlahkan dulu semua harga baru dikenakan diskon.
+- **Langkah Penyelesaian:**
+  1. Total harga awal = Rp450.000 + Rp200.000 = Rp650.000.
+  2. Bayar = 75% x Rp650.000 = Rp487.500.
+  3. Itulah total yang dibayar.
 
 ---
 
@@ -1173,6 +1523,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp76.800 = 64.000 × 1,20 (salah arah).
 - **C** — Rp84.000 = 64.000 + 20.000 sembarang.
 - **D** — Rp88.000 = sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 80% x harga awal (karena diskon 20%).
+  2. Harga awal = Rp64.000 : 0,80 = Rp80.000.
+  3. Cek: 20% x Rp80.000 = Rp16.000, Rp80.000 - Rp16.000 = Rp64.000.
 
 ---
 
@@ -1188,6 +1543,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah 25%: 75% × 80.000 = 60.000. Setelah 10%: 90% × 60.000 = 54.000. ✅
 - **C** — Rp56.000 = sembarang.
 - **D** — Rp48.000 = 80.000 × 0,60 (anggap diskon 40%).
+- **Konsep kunci:** Diskon berturut (ganda) dihitung bertahap dengan mengalikan faktor sisa berurutan, bukan menjumlahkan persennya.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 25%: 75% x Rp80.000 = Rp60.000.
+  2. Setelah diskon 10% lagi: 90% x Rp60.000 = Rp54.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1203,6 +1563,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp115.000 = sembarang.
 - **C** — Benar. Bayar 90% = 108.000 → harga awal = 108.000 ÷ 0,90 = 120.000. ✅ Cek: 10% × 120.000 = 12.000, 120.000 − 12.000 = 108.000.
 - **D** — Rp125.000 = sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 90% x harga awal (karena diskon 10%).
+  2. Harga awal = Rp108.000 : 0,90 = Rp120.000.
+  3. Cek: 10% x Rp120.000 = Rp12.000, Rp120.000 - Rp12.000 = Rp108.000.
 
 ---
 
@@ -1218,6 +1583,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp1.125.000 = berhenti setelah diskon 25% saja, lupa kupon.
 - **C** — Rp1.150.000 = sembarang.
 - **D** — Benar. Setelah 25%: 75% × 1.500.000 = 1.125.000. Kurangi kupon: 1.125.000 − 50.000 = 1.075.000. ✅
+- **Konsep kunci:** Diskon persen dan potongan nominal tambahan (kupon) dihitung bertahap secara berurutan.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 25%: 75% x Rp1.500.000 = Rp1.125.000.
+  2. Kurangi kupon: Rp1.125.000 - Rp50.000 = Rp1.075.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1233,6 +1603,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. 12,5% = 1/8. Bayar 7/8 = 1.750.000 → harga awal = 1.750.000 × 8/7 = 2.000.000. ✅ Atau 1.750.000 ÷ 0,875 = 2.000.000.
 - **C** — Rp1.968.750 = 1.750.000 × 1,125 (salah arah).
 - **D** — Rp1.900.000 = 1.750.000 + 150.000 sembarang.
+- **Konsep kunci:** 12,5% sama dengan 1/8, sehingga harga bayar = 7/8 dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 7/8 x harga awal.
+  2. Harga awal = Rp1.750.000 x 8/7 = Rp2.000.000.
+  3. Cek: 12,5% x Rp2.000.000 = Rp250.000, Rp2.000.000 - Rp250.000 = Rp1.750.000.
 
 ---
 
@@ -1248,6 +1623,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp420.000 = berhenti setelah diskon, lupa cashback.
 - **C** — Rp390.000 = 600.000 × 0,65 (jumlahkan persen, salah).
 - **D** — Rp410.000 = sembarang.
+- **Konsep kunci:** Diskon dan cashback persen dihitung bertahap dan berurutan, bukan dijumlahkan sekaligus.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 30%: 70% x Rp600.000 = Rp420.000.
+  2. Setelah cashback 5%: 95% x Rp420.000 = Rp399.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1263,6 +1643,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp280.000 = sembarang.
 - **C** — Benar. Bayar 82% = 246.000 → harga awal = 246.000 ÷ 0,82 = 300.000. ✅ Cek: 18% × 300.000 = 54.000, 300.000 − 54.000 = 246.000.
 - **D** — Rp296.000 = 246.000 + 50.000 sembarang.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 82% x harga awal (karena diskon 18%).
+  2. Harga awal = Rp246.000 : 0,82 = Rp300.000.
+  3. Cek: 18% x Rp300.000 = Rp54.000, Rp300.000 - Rp54.000 = Rp246.000.
 
 ---
 
@@ -1278,6 +1663,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah 25%: 75% × 800.000 = 600.000. Tambahan: 600.000 − 40.000 = 560.000. ✅
 - **C** — Rp570.000 = sembarang.
 - **D** — Rp580.000 = mengurangi salah hitung.
+- **Konsep kunci:** Diskon persen dan potongan nominal tambahan dihitung bertahap secara berurutan, bukan dijumlahkan sekaligus.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 25%: 75% x Rp800.000 = Rp600.000.
+  2. Kurangi potongan tambahan: Rp600.000 - Rp40.000 = Rp560.000.
+  3. Itulah harga akhirnya.
 
 ---
 
@@ -1293,6 +1683,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp170.000 = sembarang.
 - **C** — Rp175.000 = sembarang.
 - **D** — Benar. Bayar 55% = 99.000 → harga awal = 99.000 ÷ 0,55 = 180.000. ✅ Cek: 45% × 180.000 = 81.000, 180.000 − 81.000 = 99.000.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi harga bayar dengan (100% - %diskon) - bukan menambahkannya.
+- **Langkah Penyelesaian:**
+  1. Harga bayar = 55% x harga awal (karena diskon 45%).
+  2. Harga awal = Rp99.000 : 0,55 = Rp180.000.
+  3. Cek: 45% x Rp180.000 = Rp81.000, Rp180.000 - Rp81.000 = Rp99.000.
 
 ---
 
@@ -1308,6 +1703,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Salah, diskon lebih besar.
 - **C** — Salah, beda Rp10.000.
 - **D** — Benar. Diskon: 20% × 200.000 = Rp40.000. Cashback: Rp30.000. Diskon lebih besar; selisih hemat Rp10.000 di sisi diskon. ✅
+- **Konsep kunci:** Bandingkan besar potongan rupiah dari kedua promo pada harga yang sama untuk menentukan mana lebih hemat.
+- **Langkah Penyelesaian:**
+  1. Diskon: 20% x Rp200.000 = Rp40.000.
+  2. Cashback: Rp30.000 (langsung).
+  3. Selisih = Rp40.000 - Rp30.000 = Rp10.000, diskon lebih hemat.
 
 ---
 
@@ -1325,6 +1725,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp450.000 = sembarang.
 - **C** — Rp480.000 = sembarang, mungkin (280.000/0,5833).
 - **D** — Rp520.000 = 280.000 × (1,30 + 0,20) sembarang.
+- **Konsep kunci:** Untuk membalik dua diskon berturut, bagi harga akhir dengan hasil kali kedua faktor sisanya, bukan menjumlahkan persennya.
+- **Langkah Penyelesaian:**
+  1. Faktor sisa = 0,70 x 0,80 = 0,56.
+  2. Harga awal = Rp280.000 : 0,56 = Rp500.000.
+  3. Cek: 70% x Rp500.000 = Rp350.000, 80% x Rp350.000 = Rp280.000.
 
 ---
 
@@ -1340,6 +1745,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 28% = mendekati tapi salah hitung.
 - **C** — Benar. Faktor bayar = 0,75 × 0,95 = 0,7125. Total diskon = 1 − 0,7125 = 0,2875 = 28,75%. ✅ Dalam rupiah: 4.000.000 × 0,7125 = 2.850.000, jadi diskon 1.150.000 = 28,75%.
 - **D** — 30,25% = sembarang.
+- **Konsep kunci:** Dua diskon berturut tidak boleh dijumlahkan langsung; kalikan dulu faktor sisanya, baru cari total persen diskonnya.
+- **Langkah Penyelesaian:**
+  1. Faktor bayar = 0,75 x 0,95 = 0,7125.
+  2. Total diskon = 1 - 0,7125 = 0,2875 = 28,75%.
+  3. Itulah total diskon dari harga awal.
 
 ---
 
@@ -1355,6 +1765,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp110.000 = sembarang.
 - **C** — Rp100.000 = 75% × asal salah harga awal.
 - **D** — Benar. Harga awal baju = 135.000 ÷ 0,75 = 180.000. Harga celana setelah 40% = 60% × 180.000 = 108.000. ✅
+- **Konsep kunci:** Cari dulu harga awal dari salah satu barang (balik), lalu terapkan diskon berbeda untuk barang lain yang harga awalnya sama.
+- **Langkah Penyelesaian:**
+  1. Harga awal baju = Rp135.000 : 0,75 = Rp180.000.
+  2. Harga celana setelah diskon 40% = 60% x Rp180.000 = Rp108.000.
+  3. Itulah harga celana setelah diskon.
 
 ---
 
@@ -1370,6 +1785,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Potongan = 400.000 − 260.000 = 140.000. p = 140.000 / 400.000 × 100% = 35%. ✅
 - **C** — 40% = 60% × 400.000 = 240.000. Salah.
 - **D** — 32% = sembarang.
+- **Konsep kunci:** Persen diskon = (potongan : harga awal) x 100%.
+- **Langkah Penyelesaian:**
+  1. Potongan = Rp400.000 - Rp260.000 = Rp140.000.
+  2. p = (Rp140.000 / Rp400.000) x 100% = 35%.
+  3. Itulah nilai p.
 
 ---
 
@@ -1385,6 +1805,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 25% = sembarang.
 - **C** — 30% = anggap persen sama.
 - **D** — 27,78% = sembarang (mungkin 2/7,2).
+- **Konsep kunci:** Untuk menyamakan harga akhir dua toko, hitung harga akhir toko pertama, lalu cari persen diskon toko kedua yang menghasilkan angka sama.
+- **Langkah Penyelesaian:**
+  1. Harga akhir Toko A = 70% x Rp200.000 = Rp140.000.
+  2. Toko B: Rp140.000 = (1 - p/100) x Rp180.000.
+  3. (1 - p/100) = 140/180 = 7/9, sehingga p = 22,22%.
 
 ---
 
@@ -1400,6 +1825,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Faktor bayar = 1 − 0,28 = 0,72. Karena diskon tambahan 10% → 0,72 = (1 − X/100) × 0,90 → (1 − X/100) = 0,80 → X = 20%. ✅
 - **C** — 22% = sembarang.
 - **D** — 25% = sembarang.
+- **Konsep kunci:** Dua diskon berturut dikalikan faktor sisanya; jika totalnya diketahui, kerjakan mundur untuk mencari salah satu persennya.
+- **Langkah Penyelesaian:**
+  1. Faktor bayar total = 1 - 0,28 = 0,72.
+  2. 0,72 = (1 - X/100) x 0,90, sehingga (1 - X/100) = 0,80.
+  3. X = 20%.
 
 ---
 
@@ -1415,6 +1845,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 35% = sembarang.
 - **C** — Benar. Persen diskon = (potongan / harga awal) × 100% = (80.000 / 200.000) × 100% = 40%. ✅
 - **D** — 45% = sembarang.
+- **Konsep kunci:** Persen diskon = (potongan : harga awal) x 100%.
+- **Langkah Penyelesaian:**
+  1. Potongan = Rp80.000 (selisih harga).
+  2. Persen = (Rp80.000 / Rp200.000) x 100% = 40%.
+  3. Itulah persen diskonnya.
 
 ---
 
@@ -1430,6 +1865,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp405.000 = 10% diskon (salah status).
 - **C** — Rp360.000 = 20% diskon (salah status).
 - **D** — Benar. Total awal = 3 × 150.000 = 450.000. Diskon 30%: 70% × 450.000 = 315.000. ✅
+- **Konsep kunci:** Pilih persen diskon yang sesuai dengan status pelanggan sebelum menghitung total bayar.
+- **Langkah Penyelesaian:**
+  1. Total harga awal = 3 x Rp150.000 = Rp450.000.
+  2. Diskon status VIP adalah 30%.
+  3. Bayar = 70% x Rp450.000 = Rp315.000.
 
 ---
 
@@ -1445,6 +1885,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 25% = 75% × 270.000 = 202.500, salah.
 - **C** — 30% = 70% × 270.000 = 189.000, salah.
 - **D** — 22% = sembarang.
+- **Konsep kunci:** Persen diskon = (potongan : harga awal) x 100%.
+- **Langkah Penyelesaian:**
+  1. Potongan = Rp270.000 - Rp216.000 = Rp54.000.
+  2. p = (Rp54.000 / Rp270.000) x 100% = 20%.
+  3. Cek: 80% x Rp270.000 = Rp216.000.
 
 ---
 
@@ -1460,6 +1905,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp216.000 = anggap 25% × 4 paket diskon, salah hitung.
 - **C** — Benar. Paket 1–4 normal = 4 × 48.000 = 192.000. Paket ke-5 diskon 25% = 75% × 48.000 = 36.000. Total = 192.000 + 36.000 = 228.000. ✅
 - **D** — Rp240.000 = total tanpa diskon (5 × 48.000).
+- **Konsep kunci:** Jika diskon hanya berlaku untuk sebagian barang, hitung terpisah antara yang harga normal dan yang didiskon.
+- **Langkah Penyelesaian:**
+  1. 4 paket harga normal = 4 x Rp48.000 = Rp192.000.
+  2. Paket ke-5 diskon 25% = 75% x Rp48.000 = Rp36.000.
+  3. Total = Rp192.000 + Rp36.000 = Rp228.000.
 
 ---
 
@@ -1475,6 +1925,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. X: 75% × 4.500.000 = 3.375.000. Y: 70% × 4.500.000 = 3.150.000. Selisih = 3.375.000 − 3.150.000 = 225.000. ✅ Y lebih murah.
 - **C** — Rp250.000 = sembarang.
 - **D** — Rp275.000 = sembarang.
+- **Konsep kunci:** Untuk mencari selisih dua skema diskon berbeda, hitung dulu harga akhir masing-masing lalu kurangkan.
+- **Langkah Penyelesaian:**
+  1. Skema X: 75% x Rp4.500.000 = Rp3.375.000.
+  2. Skema Y: 70% x Rp4.500.000 = Rp3.150.000.
+  3. Selisih = Rp3.375.000 - Rp3.150.000 = Rp225.000 (Y lebih murah).
 
 ---
 
@@ -1490,6 +1945,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 18% = sembarang.
 - **C** — 22% = sembarang.
 - **D** — Benar. Faktor bayar = 0,60 = 0,75 × (1 − b/100) → (1 − b/100) = 0,60 / 0,75 = 0,80 → b = 20%. ✅
+- **Konsep kunci:** Dua diskon berturut dikalikan faktor sisanya; jika hasil akhir dan salah satu persennya diketahui, cari persen yang lain dengan membagi.
+- **Langkah Penyelesaian:**
+  1. 0,60 = 0,75 x (1 - b/100).
+  2. (1 - b/100) = 0,60 / 0,75 = 0,80.
+  3. b = 20%.
 
 ---
 
@@ -1505,6 +1965,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp6.700.000 = pembulatan asal.
 - **C** — Rp6.750.000 = pakai 90% × 7.500.000 (salah diskon).
 - **D** — Rp6.800.000 = sembarang.
+- **Konsep kunci:** Diskon dan pajak dihitung bertahap dan berurutan: diskon dulu, baru pajak dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 20%: 80% x Rp7.500.000 = Rp6.000.000.
+  2. Tambah PPN 11%: 111% x Rp6.000.000 = Rp6.660.000.
+  3. Itulah total yang dibayar.
 
 ---
 
@@ -1520,6 +1985,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Faktor bayar = 0,50 × 0,90 = 0,45. Total diskon = 1 − 0,45 = 0,55 = 55%. ✅
 - **C** — 50% = hanya diskon pertama saja.
 - **D** — 45% = harga bayar (45% dari awal), bukan total diskon.
+- **Konsep kunci:** Dua diskon berturut tidak boleh dijumlahkan langsung; kalikan dulu faktor sisanya untuk mendapat total diskon yang sebenarnya.
+- **Langkah Penyelesaian:**
+  1. Faktor bayar = 0,50 x 0,90 = 0,45.
+  2. Total diskon = 1 - 0,45 = 0,55 = 55%.
+  3. Bukan 60% seperti dugaan awal.
 
 ---
 
@@ -1535,6 +2005,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp145.000 = sembarang.
 - **C** — Rp148.000 = sembarang.
 - **D** — Benar. 116.550 = harga awal × 0,70 × 1,11 = harga awal × 0,777. Harga awal = 116.550 ÷ 0,777 = 150.000. ✅ Cek: 70% × 150.000 = 105.000, 111% × 105.000 = 116.550.
+- **Konsep kunci:** Gabungkan semua faktor (diskon dan pajak) menjadi satu faktor, lalu bagi harga akhir dengan faktor itu untuk membalik ke harga awal.
+- **Langkah Penyelesaian:**
+  1. Faktor gabungan = 0,70 x 1,11 = 0,777.
+  2. Harga awal = Rp116.550 : 0,777 = Rp150.000.
+  3. Cek: 70% x Rp150.000 = Rp105.000, 111% x Rp105.000 = Rp116.550.
 
 ---
 
@@ -1550,6 +2025,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp250.000 = 50% × 500.000 sembarang.
 - **C** — Benar. Faktor bayar = 0,80 × 0,75 = 0,60. Bayar = 0,60 × 500.000 = 300.000. Total potongan = 500.000 − 300.000 = 200.000. ✅ (Total diskon = 40% dari harga awal.)
 - **D** — Rp220.000 = sembarang.
+- **Konsep kunci:** Untuk dua diskon berturut, kalikan dulu faktor sisanya untuk dapat harga bayar, baru cari total potongan rupiahnya.
+- **Langkah Penyelesaian:**
+  1. Faktor bayar = 0,80 x 0,75 = 0,60.
+  2. Bayar = 0,60 x Rp500.000 = Rp300.000.
+  3. Total potongan = Rp500.000 - Rp300.000 = Rp200.000.
 
 ---
 
@@ -1565,6 +2045,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Rp100.000 = sembarang.
 - **C** — Rp104.000 = salah hitung.
 - **D** — Rp108.000 = sembarang.
+- **Konsep kunci:** Markup menaikkan harga dan diskon menurunkannya kembali; hitung berurutan, jangan digabung jadi satu persen.
+- **Langkah Penyelesaian:**
+  1. Setelah markup 50%: 150% x Rp80.000 = Rp120.000.
+  2. Setelah diskon 20%: 80% x Rp120.000 = Rp96.000.
+  3. Itulah harga jual akhirnya.
 
 ---
 
@@ -1580,6 +2065,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — 28% = mendekati tapi salah hitung.
 - **C** — Benar. Faktor bayar = 0,85 × 0,85 = 0,7225. Total diskon = 1 − 0,7225 = 0,2775 = 27,75%. ✅
 - **D** — 25% = sembarang.
+- **Konsep kunci:** Dua diskon berturut yang sama besar tetap dikalikan faktor sisanya, bukan dijumlahkan langsung.
+- **Langkah Penyelesaian:**
+  1. Faktor bayar = 0,85 x 0,85 = 0,7225.
+  2. Total diskon = 1 - 0,7225 = 0,2775 = 27,75%.
+  3. Bukan 30% seperti dugaan awal.
 
 ---
 
@@ -1595,6 +2085,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Benar. Setelah diskon: 75% × 500.000 = 375.000. PPN 10%: 110% × 375.000 = 412.500. Kupon: 412.500 − 25.000 = 387.500. ✅
 - **C** — Rp390.000 = pembulatan asal.
 - **D** — Rp395.000 = sembarang.
+- **Konsep kunci:** Diskon, pajak, dan kupon nominal dihitung bertahap secara berurutan sesuai urutan pemakaiannya.
+- **Langkah Penyelesaian:**
+  1. Setelah diskon 25%: 75% x Rp500.000 = Rp375.000.
+  2. Tambah PPN 10%: 110% x Rp375.000 = Rp412.500.
+  3. Kurangi kupon: Rp412.500 - Rp25.000 = Rp387.500.
 
 ---
 
@@ -1610,6 +2105,11 @@ Jika hasil hitung melebihi harga awal → pasti salah arah.
 - **B** — Toko B lebih murah Rp440.000 = salah hitung.
 - **C** — Sama saja = jumlah persen sembarang.
 - **D** — Benar. Toko A: 80% × 5.000.000 = 4.000.000; PPN 111% × 4.000.000 = 4.440.000. Toko B: 75% × 5.000.000 = 3.750.000. Selisih = 4.440.000 − 3.750.000 = 690.000 (B lebih murah Rp690.000). ✅
+- **Konsep kunci:** Untuk membandingkan dua skema harga, hitung harga akhir masing-masing toko lengkap dengan semua tambahannya, baru cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Toko A: 80% x Rp5.000.000 = Rp4.000.000, lalu PPN: 111% x Rp4.000.000 = Rp4.440.000.
+  2. Toko B: 75% x Rp5.000.000 = Rp3.750.000.
+  3. Selisih = Rp4.440.000 - Rp3.750.000 = Rp690.000 (Toko B lebih murah).
 
 ---
 

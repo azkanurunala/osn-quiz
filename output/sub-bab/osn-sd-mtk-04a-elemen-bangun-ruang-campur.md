@@ -90,6 +90,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — 6 itu jumlah **sisi** kubus, tertukar dengan rusuk.
 - **D** — 24 = 12 × 2, mungkin menghitung tiap rusuk dua kali.
 
+- **Konsep kunci:** Menghafal jumlah rusuk pada kubus.
+- **Langkah Penyelesaian:**
+  1. Ingat kubus punya 12 rusuk: 4 di alas, 4 di tutup, 4 tegak.
+  2. Jangan tertukar dengan jumlah sisi (6) atau titik sudut (8).
+
 ---
 
 **2.** Banyak sisi pada sebuah kubus adalah ...
@@ -104,6 +109,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Benar. Kubus mempunyai **6 sisi** berbentuk persegi yang kongruen (atas, bawah, depan, belakang, kanan, kiri). ✅
 - **C** — 8 = jumlah titik sudut kubus, bukan sisi.
 - **D** — 12 = jumlah rusuk, bukan sisi.
+
+- **Konsep kunci:** Menghafal jumlah sisi pada kubus.
+- **Langkah Penyelesaian:**
+  1. Kubus dibatasi oleh 6 bidang persegi yang kongruen.
+  2. Hitung: atas, bawah, depan, belakang, kiri, kanan = 6 sisi.
 
 ---
 
@@ -120,6 +130,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Benar. Balok memiliki **8 titik sudut** (4 di sisi alas + 4 di sisi tutup). ✅
 - **D** — 12 = jumlah rusuk balok, bukan titik sudut.
 
+- **Konsep kunci:** Menghafal jumlah titik sudut pada balok.
+- **Langkah Penyelesaian:**
+  1. Balok punya 2 sisi persegi panjang sejajar (alas & tutup).
+  2. Tiap sisi punya 4 titik sudut, jadi total 4 + 4 = 8.
+
 ---
 
 **4.** Bangun ruang yang memiliki 1 sisi, 0 rusuk, dan 0 titik sudut adalah ...
@@ -134,6 +149,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Kerucut: 2 sisi, 1 rusuk, 1 titik sudut.
 - **C** — Limas selalu punya banyak sisi, rusuk, dan titik sudut.
 - **D** — Benar. **Bola** hanya memiliki satu permukaan lengkung tertutup, tanpa rusuk atau titik sudut. ✅
+
+- **Konsep kunci:** Mengenali ciri khas bola dibanding bangun ruang lain.
+- **Langkah Penyelesaian:**
+  1. Cek satu per satu ciri tiap opsi: tabung, kerucut, limas, bola.
+  2. Bola satu-satunya bangun dengan 1 sisi, 0 rusuk, 0 titik sudut.
 
 ---
 
@@ -150,6 +170,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Salah hitung, tidak ada 4 sisi pada tabung.
 - **D** — 6 adalah sisi kubus/balok, bukan tabung.
 
+- **Konsep kunci:** Menghitung jumlah sisi tabung.
+- **Langkah Penyelesaian:**
+  1. Tabung punya alas lingkaran, tutup lingkaran, dan selimut.
+  2. Jumlahkan ketiganya: 1 + 1 + 1 = 3 sisi.
+
 ---
 
 **6.** Bangun ruang dengan 6 sisi berbentuk persegi yang semuanya sama besar disebut ...
@@ -164,6 +189,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Balok juga 6 sisi, tapi berbentuk **persegi panjang** dan tidak semua sama besar.
 - **C** — Prisma segi-empat bisa berarti balok atau kubus, jawaban paling spesifik adalah kubus.
 - **D** — Limas segi-empat punya 5 sisi (1 alas + 4 segitiga), bukan 6.
+
+- **Konsep kunci:** Mengenali ciri kubus dari bentuk sisinya.
+- **Langkah Penyelesaian:**
+  1. Cari bangun dengan 6 sisi yang semuanya persegi sama besar.
+  2. Balok punya sisi persegi panjang, limas hanya 5 sisi — jadi jawabannya kubus.
 
 ---
 
@@ -180,6 +210,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Benar. Limas segitiga punya **6 rusuk**: 3 di alas segitiga + 3 ke puncak. ✅
 - **D** — 8 itu jumlah rusuk **limas segi-empat**.
 
+- **Konsep kunci:** Menghitung jumlah rusuk limas segitiga (tetrahedron).
+- **Langkah Penyelesaian:**
+  1. Limas segitiga punya alas segitiga (3 rusuk) dan 3 rusuk tegak ke puncak.
+  2. Jumlahkan: 3 + 3 = 6 rusuk.
+
 ---
 
 **8.** Bangun ruang yang memiliki 5 sisi, 9 rusuk, dan 6 titik sudut adalah ...
@@ -194,6 +229,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Limas segiempat: 5 sisi, **8** rusuk, **5** titik sudut.
 - **C** — Balok: 6 sisi, 12 rusuk, 8 titik sudut.
 - **D** — Limas segitiga: 4 sisi, 6 rusuk, 4 titik sudut.
+
+- **Konsep kunci:** Mencocokkan elemen bangun ruang (sisi, rusuk, titik sudut) dengan namanya.
+- **Langkah Penyelesaian:**
+  1. Bandingkan 5 sisi, 9 rusuk, 6 titik sudut dengan tabel elemen tiap bangun.
+  2. Ciri ini persis milik prisma segitiga (2 alas segitiga + 3 sisi tegak).
 
 ---
 
@@ -210,6 +250,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — 2 tidak benar; kerucut hanya satu puncak.
 - **D** — 3 tidak ada hubungannya dengan kerucut.
 
+- **Konsep kunci:** Menghafal jumlah titik sudut kerucut.
+- **Langkah Penyelesaian:**
+  1. Kerucut hanya punya satu titik puncak di atas alas lingkaran.
+  2. Jadi jumlah titik sudutnya = 1.
+
 ---
 
 **10.** Banyak rusuk pada tabung adalah ...
@@ -224,6 +269,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — 1 itu untuk **kerucut** (lingkaran alas).
 - **C** — Benar. Tabung memiliki **2 rusuk** berbentuk lingkaran (di alas dan di tutup). ✅
 - **D** — 3 tidak benar; selimut bukan rusuk, melainkan sisi.
+
+- **Konsep kunci:** Menghafal jumlah rusuk tabung.
+- **Langkah Penyelesaian:**
+  1. Rusuk tabung adalah keliling lingkaran alas dan keliling lingkaran tutup.
+  2. Jumlahkan: 1 + 1 = 2 rusuk.
 
 ---
 
@@ -240,6 +290,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — 6 itu sisi kubus/balok.
 - **D** — Benar. Limas segiempat: **1 alas persegi + 4 sisi tegak segitiga = 5 sisi**. ✅
 
+- **Konsep kunci:** Menghitung jumlah sisi limas segiempat.
+- **Langkah Penyelesaian:**
+  1. Limas segiempat punya 1 sisi alas persegi dan 4 sisi tegak segitiga.
+  2. Jumlahkan: 1 + 4 = 5 sisi.
+
 ---
 
 **12.** Pernyataan yang benar tentang bola adalah ...
@@ -254,6 +309,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Salah. Bola sama sekali tanpa rusuk.
 - **C** — Benar. Bola **tidak memiliki rusuk** karena tidak ada pertemuan antar sisi. ✅
 - **D** — Salah. Bola tidak memiliki titik sudut.
+
+- **Konsep kunci:** Mengenali ciri bola bahwa ia tidak memiliki rusuk.
+- **Langkah Penyelesaian:**
+  1. Rusuk terbentuk dari pertemuan dua sisi datar.
+  2. Karena bola hanya punya 1 sisi lengkung, tidak ada pertemuan sisi sehingga tidak ada rusuk.
 
 ---
 
@@ -270,6 +330,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Segitiga adalah sisi pada limas/prisma segitiga, bukan kubus.
 - **D** — Persegi panjang dengan sisi tidak sama itu sisi balok, bukan kubus.
 
+- **Konsep kunci:** Menentukan bentuk dan ukuran sisi kubus dari panjang rusuknya.
+- **Langkah Penyelesaian:**
+  1. Sisi kubus selalu berbentuk persegi dengan panjang sisi sama dengan rusuk.
+  2. Karena rusuk = 5 cm, maka tiap sisi adalah persegi 5 cm × 5 cm.
+
 ---
 
 **14.** Jika balok mempunyai panjang 8 cm, lebar 5 cm, dan tinggi 3 cm, maka banyak rusuk yang panjangnya 5 cm adalah ...
@@ -284,6 +349,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — 3 salah; balok punya 12 rusuk, dibagi 3 kelompok @ 4 rusuk.
 - **C** — Benar. Balok memiliki **4 rusuk panjang, 4 rusuk lebar, dan 4 rusuk tinggi**. Rusuk yang panjangnya = lebar (5 cm) ada **4**. ✅
 - **D** — 6 keliru, mungkin menghitung setengah dari 12.
+
+- **Konsep kunci:** Menghitung banyak rusuk balok yang sama panjang berdasarkan ukurannya.
+- **Langkah Penyelesaian:**
+  1. Balok punya 3 kelompok rusuk: panjang, lebar, tinggi, masing-masing 4 buah.
+  2. Rusuk yang panjangnya 5 cm adalah kelompok lebar, jadi ada 4 rusuk.
 
 ---
 
@@ -300,6 +370,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Tabung: 0 titik sudut.
 - **D** — Benar. **Limas segiempat**: 4 di alas + 1 puncak = **5 titik sudut** (paling banyak di antara opsi). ✅
 
+- **Konsep kunci:** Membandingkan jumlah titik sudut beberapa bangun ruang.
+- **Langkah Penyelesaian:**
+  1. Hitung titik sudut tiap opsi: kerucut (1), limas segitiga (4), tabung (0), limas segiempat (5).
+  2. Bandingkan keempatnya, yang paling banyak adalah limas segiempat.
+
 ---
 
 **16.** Banyak diagonal ruang pada sebuah kubus adalah ...
@@ -314,6 +389,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — 12 itu jumlah **diagonal sisi** kubus, bukan diagonal ruang.
 - **C** — 6 itu jumlah **bidang diagonal**, bukan diagonal ruang.
 - **D** — Benar. Kubus memiliki **4 diagonal ruang** yang menghubungkan titik sudut yang berhadapan menembus pusat. ✅
+
+- **Konsep kunci:** Menghitung jumlah diagonal ruang kubus.
+- **Langkah Penyelesaian:**
+  1. Diagonal ruang menghubungkan dua titik sudut berhadapan yang menembus bagian dalam.
+  2. Pada kubus, pasangan titik sudut berhadapan seperti itu ada 4.
 
 ---
 
@@ -330,6 +410,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — 8 itu jumlah titik sudut.
 - **D** — Benar. Tiap sisi persegi punya **2 diagonal**, kubus punya 6 sisi, jadi 6 × 2 = **12 diagonal sisi**. ✅
 
+- **Konsep kunci:** Menghitung jumlah diagonal sisi kubus.
+- **Langkah Penyelesaian:**
+  1. Tiap sisi persegi kubus punya 2 diagonal.
+  2. Kubus punya 6 sisi, jadi total diagonal sisi = 6 × 2 = 12.
+
 ---
 
 **18.** Bangun ruang dengan 4 sisi yang semuanya berbentuk segitiga disebut ...
@@ -344,6 +429,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Prisma segitiga: 5 sisi (2 segitiga + 3 persegi panjang), bukan semua segitiga.
 - **C** — Limas segiempat: 5 sisi (1 persegi alas + 4 segitiga), bukan semua segitiga.
 - **D** — Oktahedron memiliki 8 sisi segitiga, bukan 4.
+
+- **Konsep kunci:** Mengenali bangun ruang dari bentuk semua sisinya.
+- **Langkah Penyelesaian:**
+  1. Cari bangun dengan tepat 4 sisi yang semuanya segitiga.
+  2. Bangun itu adalah limas segitiga, disebut juga tetrahedron.
 
 ---
 
@@ -360,6 +450,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Benar: dua rusuk berupa keliling lingkaran alas dan tutup.
 - **D** — **Bukan ciri tabung**, karena tabung **tidak memiliki titik sudut**. ✅
 
+- **Konsep kunci:** Mengidentifikasi ciri yang BUKAN milik tabung.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi satu per satu terhadap ciri asli tabung (2 sisi lingkaran, 1 selimut, 2 rusuk lengkung, 0 titik sudut).
+  2. Opsi yang menyebut tabung punya titik sudut adalah pernyataan yang salah/bukan ciri tabung.
+
 ---
 
 **20.** Banyak rusuk pada limas segiempat adalah ...
@@ -374,6 +469,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — 6 itu rusuk limas **segitiga**.
 - **C** — Benar. Limas segiempat: **4 rusuk alas + 4 rusuk tegak = 8 rusuk**. ✅
 - **D** — 10 keliru hitung; tidak ada bangun limas segiempat dengan 10 rusuk.
+
+- **Konsep kunci:** Menghitung jumlah rusuk limas segiempat.
+- **Langkah Penyelesaian:**
+  1. Limas segiempat punya 4 rusuk pada alas dan 4 rusuk tegak ke puncak.
+  2. Jumlahkan: 4 + 4 = 8 rusuk.
 
 ---
 
@@ -390,6 +490,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Prisma segitiga punya 5 sisi, bukan 6.
 - **D** — Limas segiempat punya 5 sisi, bukan 6.
 
+- **Konsep kunci:** Mengenali bangun ruang dari kombinasi elemen dan bentuk sisinya.
+- **Langkah Penyelesaian:**
+  1. Cocokkan 6 sisi, 12 rusuk, 8 titik sudut dengan kubus dan balok.
+  2. Karena sisinya persegi panjang yang tidak semuanya sama, bangun itu adalah balok (bukan kubus).
+
 ---
 
 **22.** Berapa banyak sisi yang berbentuk segitiga pada prisma segitiga?
@@ -404,6 +509,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Benar. Prisma segitiga punya **2 sisi segitiga** (alas dan tutup) + 3 sisi persegi panjang. ✅
 - **C** — 3 itu jumlah sisi persegi panjang, bukan segitiga.
 - **D** — 5 itu total seluruh sisi prisma segitiga.
+
+- **Konsep kunci:** Menghitung banyak sisi berbentuk segitiga pada prisma segitiga.
+- **Langkah Penyelesaian:**
+  1. Prisma segitiga punya 2 sisi segitiga (alas dan tutup) plus 3 sisi persegi panjang.
+  2. Jadi sisi berbentuk segitiga ada 2.
 
 ---
 
@@ -420,6 +530,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **C** — Benar. Kubus punya **12 rusuk**, jumlah panjangnya = 12 × 7 = **84 cm**. ✅
 - **D** — 168 = 24 × 7, salah menghitung 24 rusuk (kubus hanya 12).
 
+- **Konsep kunci:** Menghitung total panjang seluruh rusuk kubus.
+- **Langkah Penyelesaian:**
+  1. Kubus punya 12 rusuk yang sama panjang.
+  2. Kalikan jumlah rusuk dengan panjang rusuk: 12 × 7 cm = 84 cm.
+
 ---
 
 **24.** Bangun ruang yang **tidak** termasuk polihedron adalah ...
@@ -434,6 +549,11 @@ Tabung, kerucut, bola **tidak masuk** rumus Euler karena bukan polihedron (punya
 - **B** — Limas segitiga polihedron.
 - **C** — Prisma segitiga polihedron.
 - **D** — Benar. **Bola** punya sisi lengkung, sehingga **bukan polihedron** (begitu juga tabung dan kerucut). ✅
+
+- **Konsep kunci:** Mengenali bangun yang bukan polihedron karena punya sisi lengkung.
+- **Langkah Penyelesaian:**
+  1. Polihedron adalah bangun ruang yang semua sisinya datar (bidang).
+  2. Bola punya sisi lengkung, sehingga bukan termasuk polihedron.
 
 ---
 
@@ -451,6 +571,11 @@ Rumus: rusuk prisma segi-n = 3n. Untuk n = 5: 3 × 5 = 15.
 - **C** — 20 = 4 × 5, keliru hitung.
 - **D** — Benar. Prisma segilima: 5 rusuk alas + 5 rusuk tutup + 5 rusuk tegak = **15 rusuk**. ✅
 
+- **Konsep kunci:** Menggunakan rumus jumlah rusuk prisma segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus rusuk prisma segi-n adalah 3n.
+  2. Untuk segilima, n = 5, sehingga rusuk = 3 × 5 = 15.
+
 ---
 
 **26.** Banyak titik sudut pada prisma segienam adalah ...
@@ -466,6 +591,11 @@ Rumus: titik sudut prisma segi-n = 2n. Untuk n = 6: 2 × 6 = 12.
 - **B** — 8 itu titik sudut kubus/balok.
 - **C** — 10 itu titik sudut prisma segi-lima.
 - **D** — Benar. Prisma segienam: 6 di alas + 6 di tutup = **12 titik sudut**. ✅
+
+- **Konsep kunci:** Menggunakan rumus jumlah titik sudut prisma segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus titik sudut prisma segi-n adalah 2n.
+  2. Untuk segienam, n = 6, sehingga titik sudut = 2 × 6 = 12.
 
 ---
 
@@ -483,6 +613,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 - **C** — 7 keliru hitung.
 - **D** — Benar. Limas segilima: 1 alas segilima + 5 sisi segitiga tegak = **6 sisi**. ✅
 
+- **Konsep kunci:** Menggunakan rumus jumlah sisi limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus sisi limas segi-n adalah n + 1 (alas + sisi tegak).
+  2. Untuk segilima, n = 5, sehingga sisi = 5 + 1 = 6.
+
 ---
 
 **28.** Bangun ruang dengan 2 sisi (1 lingkaran + 1 selimut), 1 rusuk, dan 1 titik sudut adalah ...
@@ -497,6 +632,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 - **B** — Tabung: 3 sisi, 2 rusuk, 0 titik sudut.
 - **C** — Bola: 1 sisi, 0 rusuk, 0 titik sudut.
 - **D** — Limas tidak punya sisi lengkung.
+
+- **Konsep kunci:** Mengenali bangun ruang dari kombinasi sisi datar dan lengkung.
+- **Langkah Penyelesaian:**
+  1. Cocokkan ciri: 2 sisi (1 lingkaran + 1 selimut), 1 rusuk, 1 titik sudut.
+  2. Ciri ini persis milik kerucut (alas lingkaran, selimut, puncak).
 
 ---
 
@@ -513,6 +653,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 - **C** — 4 keliru; AB sendiri tidak dihitung sebagai sejajar dengan dirinya.
 - **D** — Benar. Sejajar AB ada **DC, EF, dan HG**, jumlahnya **3 rusuk**. ✅
 
+- **Konsep kunci:** Menentukan rusuk-rusuk yang sejajar dengan rusuk tertentu pada balok.
+- **Langkah Penyelesaian:**
+  1. Pada balok ABCD.EFGH, rusuk yang sejajar AB ada pada alas, tutup, dan sisi tegak yang searah.
+  2. Rusuk-rusuk tersebut adalah DC, EF, dan HG, jadi ada 3 rusuk sejajar AB.
+
 ---
 
 **30.** Rumus Euler untuk polihedron tertutup adalah ...
@@ -528,6 +673,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 - **C** — Salah tanda; F harus ditambahkan, bukan dikurangi.
 - **D** — Bukan rumus apa pun.
 
+- **Konsep kunci:** Menghafal bunyi rumus Euler untuk polihedron.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler menghubungkan titik sudut (V), rusuk (E), dan sisi (F).
+  2. Bentuk rumus yang benar adalah V − E + F = 2.
+
 ---
 
 **31.** Pada kubus, jumlah sisi (F), rusuk (E), dan titik sudut (V) berturut-turut adalah ...
@@ -542,6 +692,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 5: 5 + 1 = 6.
 - **B** — Benar. **F = 6, E = 12, V = 8** untuk kubus. ✅
 - **C** — Posisi semua kacau.
 - **D** — Posisi semua kacau.
+
+- **Konsep kunci:** Mencocokkan nilai F, E, V yang benar untuk kubus.
+- **Langkah Penyelesaian:**
+  1. Ingat urutan elemen kubus: sisi (F) = 6, rusuk (E) = 12, titik sudut (V) = 8.
+  2. Cocokkan urutan ini dengan tiap opsi untuk menemukan yang benar.
 
 ---
 
@@ -559,6 +714,11 @@ Pakai Euler: V − E + F = 2 → 12 − 18 + F = 2 → F = 8.
 - **C** — Benar. F = 2 − 12 + 18 = **8**. ✅
 - **D** — 9 keliru penjumlahan.
 
+- **Konsep kunci:** Menggunakan rumus Euler untuk mencari jumlah sisi dari V dan E yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler: V − E + F = 2, sehingga F = 2 − V + E.
+  2. Substitusi V = 12 dan E = 18: F = 2 − 12 + 18 = 8.
+
 ---
 
 **33.** Banyak rusuk pada limas segi-7 adalah ...
@@ -575,6 +735,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **C** — Benar. 7 rusuk alas + 7 rusuk tegak = **14 rusuk**. ✅
 - **D** — 21 = 3 × 7 itu rumus rusuk **prisma** segi-7, bukan limas.
 
+- **Konsep kunci:** Menggunakan rumus jumlah rusuk limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus rusuk limas segi-n adalah 2n.
+  2. Untuk segi-7, n = 7, sehingga rusuk = 2 × 7 = 14.
+
 ---
 
 **34.** Pernyataan berikut yang **salah** tentang kubus adalah ...
@@ -589,6 +754,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **B** — Benar; kubus rusuknya sama panjang.
 - **C** — Benar; titik sudut kubus 8.
 - **D** — **Salah**. Diagonal sisi kubus berjumlah **12**, bukan 4. (Yang 4 adalah diagonal ruang.) ✅
+
+- **Konsep kunci:** Mengenali pernyataan yang salah tentang jumlah diagonal sisi kubus.
+- **Langkah Penyelesaian:**
+  1. Periksa tiap pernyataan tentang kubus satu per satu terhadap fakta yang benar.
+  2. Pernyataan diagonal sisi = 4 adalah salah, karena diagonal sisi kubus sebenarnya 12 (4 adalah jumlah diagonal ruang).
 
 ---
 
@@ -605,6 +775,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **C** — 3 tidak ada hubungannya.
 - **D** — Benar. Tiap persegi (sisi kubus) memiliki **2 diagonal** yang berpotongan di tengah. ✅
 
+- **Konsep kunci:** Menghitung banyak diagonal pada satu bidang persegi.
+- **Langkah Penyelesaian:**
+  1. Sebuah persegi punya 4 titik sudut, dan diagonalnya menghubungkan sudut yang berseberangan.
+  2. Ada tepat 2 diagonal pada satu persegi, berpotongan di tengah.
+
 ---
 
 **36.** Banyak sisi balok yang berbentuk **kongruen** dengan sisi alas adalah ...
@@ -619,6 +794,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **B** — 2 keliru; tidak ada 2 sisi kongruen dengan alas selain dirinya.
 - **C** — 3 keliru.
 - **D** — 4 itu jumlah sisi tegak balok.
+
+- **Konsep kunci:** Menentukan sisi balok yang kongruen dengan sisi alas.
+- **Langkah Penyelesaian:**
+  1. Sisi alas balok sejajar dan sama bentuk-ukuran dengan sisi tutupnya.
+  2. Jadi hanya ada 1 sisi lain yang kongruen dengan alas, yaitu sisi tutup.
 
 ---
 
@@ -635,6 +815,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **C** — 4 keliru.
 - **D** — 6 itu total rusuk alas + tutup (3 + 3), bukan rusuk tegak.
 
+- **Konsep kunci:** Menghitung banyak rusuk tegak pada prisma segitiga.
+- **Langkah Penyelesaian:**
+  1. Rusuk tegak adalah rusuk yang menghubungkan tiap titik sudut alas dengan titik sudut tutup.
+  2. Karena alasnya segitiga (3 titik sudut), rusuk tegaknya ada 3.
+
 ---
 
 **38.** Pernyataan berikut yang benar tentang kerucut adalah ...
@@ -649,6 +834,11 @@ Rumus: rusuk limas segi-n = 2n. Untuk n = 7: 2 × 7 = 14.
 - **B** — Salah; kerucut **1 titik sudut** (puncak).
 - **C** — Benar. Alas kerucut berbentuk **lingkaran**. ✅
 - **D** — Salah; alas kerucut bukan persegi.
+
+- **Konsep kunci:** Mengenali pernyataan yang benar tentang bentuk alas kerucut.
+- **Langkah Penyelesaian:**
+  1. Periksa tiap opsi terhadap ciri asli kerucut (1 rusuk, 1 titik sudut, alas lingkaran).
+  2. Pernyataan yang benar adalah kerucut memiliki alas berbentuk lingkaran.
 
 ---
 
@@ -666,6 +856,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 10: 11.
 - **C** — 12 keliru hitung.
 - **D** — 20 itu rusuk limas segi-10 (2n).
 
+- **Konsep kunci:** Menggunakan rumus jumlah sisi limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus sisi limas segi-n adalah n + 1.
+  2. Untuk segi-10, n = 10, sehingga sisi = 10 + 1 = 11.
+
 ---
 
 **40.** Pada balok ABCD.EFGH, rusuk yang berhimpit dengan titik sudut B adalah ...
@@ -681,6 +876,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 10: 11.
 - **C** — BG adalah **diagonal ruang**, bukan rusuk.
 - **D** — BD diagonal sisi, BH diagonal ruang.
 
+- **Konsep kunci:** Menentukan rusuk-rusuk yang bertemu di satu titik sudut balok.
+- **Langkah Penyelesaian:**
+  1. Di tiap titik sudut balok, selalu bertemu tepat 3 rusuk (bukan diagonal).
+  2. Di titik B pada ABCD.EFGH, rusuk yang bertemu adalah AB, BC, dan BF.
+
 ---
 
 **41.** Banyak diagonal ruang pada balok adalah ...
@@ -695,6 +895,11 @@ Rumus: sisi limas segi-n = n + 1. Untuk n = 10: 11.
 - **B** — 6 itu jumlah bidang diagonal, bukan diagonal ruang.
 - **C** — 8 itu jumlah titik sudut, bukan diagonal ruang.
 - **D** — 12 itu jumlah rusuk balok.
+
+- **Konsep kunci:** Menghitung jumlah diagonal ruang pada balok.
+- **Langkah Penyelesaian:**
+  1. Diagonal ruang balok menghubungkan titik sudut yang berseberangan menembus bagian dalam.
+  2. Pada balok ABCD.EFGH, diagonal ruangnya adalah AG, BH, CE, DF — total 4.
 
 ---
 
@@ -712,6 +917,11 @@ F = 2 + E − V = 2 + 8 − 5 = 5. Bangun dengan 5 titik sudut, 8 rusuk, 5 sisi 
 - **C** — Prisma segitiga: V=6, E=9, F=5, V dan E beda.
 - **D** — Limas segitiga: V=4, E=6, F=4, tidak cocok.
 
+- **Konsep kunci:** Menggunakan rumus Euler untuk mengenali bangun dari nilai V dan E.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler: F = 2 + E − V.
+  2. Substitusi V = 5, E = 8: F = 2 + 8 − 5 = 5, yang cocok dengan limas segiempat (V=5, E=8, F=5).
+
 ---
 
 **43.** Sebuah bangun ruang memiliki 6 titik sudut. Jika bangun tersebut adalah prisma, maka alasnya berbentuk ...
@@ -728,6 +938,11 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 - **C** — Segilima berarti 10 titik sudut.
 - **D** — Segienam berarti 12 titik sudut.
 
+- **Konsep kunci:** Menggunakan rumus jumlah titik sudut prisma untuk mencari bentuk alas.
+- **Langkah Penyelesaian:**
+  1. Rumus titik sudut prisma segi-n adalah 2n.
+  2. Karena titik sudutnya 6, maka 2n = 6 sehingga n = 3, artinya alasnya segitiga.
+
 ---
 
 **44.** Banyak rusuk pada bangun ruang berikut yang **paling banyak** adalah ...
@@ -742,6 +957,11 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 - **B** — Prisma segitiga: 9 rusuk.
 - **C** — Limas segitiga: 6 rusuk.
 - **D** — Benar. **Kubus: 12 rusuk** — paling banyak. ✅
+
+- **Konsep kunci:** Membandingkan jumlah rusuk beberapa bangun ruang.
+- **Langkah Penyelesaian:**
+  1. Hitung rusuk tiap opsi: limas segiempat (8), prisma segitiga (9), limas segitiga (6), kubus (12).
+  2. Bandingkan keempatnya, kubus memiliki rusuk paling banyak.
 
 ---
 
@@ -758,6 +978,11 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 - **C** — 3 keliru.
 - **D** — Benar. Balok memiliki **4 sisi tegak** (depan, belakang, kiri, kanan) yang tegak lurus dengan alas. ✅
 
+- **Konsep kunci:** Menghitung banyak sisi tegak yang tegak lurus alas pada balok.
+- **Langkah Penyelesaian:**
+  1. Sisi tegak balok adalah sisi depan, belakang, kiri, dan kanan.
+  2. Keempat sisi ini tegak lurus terhadap alas, jadi jumlahnya 4.
+
 ---
 
 **46.** Pasangan sisi balok yang saling **berhadapan dan sejajar** ada sebanyak ...
@@ -772,6 +997,11 @@ Prisma segi-n punya 2n titik sudut. 2n = 6 → n = 3.
 - **B** — 2 pasang melupakan satu pasang sisi tegak.
 - **C** — 6 pasang artinya semua sisi sebagai pasangan dengan dirinya, tidak masuk akal.
 - **D** — Benar. Balok punya **3 pasang sisi berhadapan**: alas–tutup, depan–belakang, kiri–kanan. ✅
+
+- **Konsep kunci:** Menghitung banyak pasangan sisi balok yang berhadapan dan sejajar.
+- **Langkah Penyelesaian:**
+  1. Balok punya 6 sisi yang terbagi menjadi pasangan-pasangan yang sejajar.
+  2. Pasangannya adalah alas–tutup, depan–belakang, kiri–kanan, total 3 pasang.
 
 ---
 
@@ -789,6 +1019,11 @@ Rumus: titik sudut limas segi-n = n + 1. Untuk n = 8: 9.
 - **C** — 16 itu titik sudut prisma segi-8 (2n).
 - **D** — 24 = 3 × 8, tidak sesuai rumus.
 
+- **Konsep kunci:** Menggunakan rumus jumlah titik sudut limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus titik sudut limas segi-n adalah n + 1.
+  2. Untuk segi-8, n = 8, sehingga titik sudut = 8 + 1 = 9.
+
 ---
 
 **48.** Sebuah balok memiliki rusuk panjang 10 cm sebanyak 4 buah, rusuk lebar 6 cm sebanyak 4 buah, dan rusuk tinggi 4 cm sebanyak 4 buah. Total panjang seluruh rusuknya adalah ...
@@ -805,6 +1040,11 @@ Total = 4(10) + 4(6) + 4(4) = 40 + 24 + 16 = 80 cm.
 - **C** — 60 = 40 + 16 + 4 (salah hitung), atau 6 × 10.
 - **D** — Benar. **80 cm** total rusuk. ✅
 
+- **Konsep kunci:** Menghitung total panjang seluruh rusuk balok dari tiga ukuran rusuknya.
+- **Langkah Penyelesaian:**
+  1. Balok punya 4 rusuk untuk tiap ukuran: panjang, lebar, tinggi.
+  2. Jumlahkan: 4(10) + 4(6) + 4(4) = 40 + 24 + 16 = 80 cm.
+
 ---
 
 **49.** Bangun yang **bukan** prisma adalah ...
@@ -820,6 +1060,11 @@ Total = 4(10) + 4(6) + 4(4) = 40 + 24 + 16 = 80 cm.
 - **C** — Tabung sering disebut "prisma" dengan alas tak hingga (lingkaran).
 - **D** — Benar. **Kerucut** termasuk **limas** (punya puncak), bukan prisma. ✅
 
+- **Konsep kunci:** Mengenali bangun ruang yang bukan termasuk prisma.
+- **Langkah Penyelesaian:**
+  1. Prisma punya dua alas sejajar yang kongruen dan sisi tegak.
+  2. Kerucut punya titik puncak seperti limas, sehingga bukan prisma.
+
 ---
 
 **50.** Banyak sisi pada bola adalah ...
@@ -834,6 +1079,11 @@ Total = 4(10) + 4(6) + 4(4) = 40 + 24 + 16 = 80 cm.
 - **B** — Salah; sisi bola tetap satu kesatuan utuh, bukan tak hingga.
 - **C** — 2 salah; tidak ada pemisahan alas dan tutup.
 - **D** — Benar. Bola memiliki **1 sisi** lengkung tertutup. ✅
+
+- **Konsep kunci:** Menghafal jumlah sisi pada bola.
+- **Langkah Penyelesaian:**
+  1. Bola dibatasi oleh satu permukaan lengkung tertutup yang menyatu, bukan gabungan bidang datar.
+  2. Karena hanya satu permukaan utuh, jumlah sisinya = 1.
 
 ---
 
@@ -853,6 +1103,11 @@ Euler: V − E + F = 2 → 30 − E + 20 = 2 → E = 48.
 - **C** — Benar. E = V + F − 2 = 30 + 20 − 2 = **48**. ✅
 - **D** — 60 keliru kelipatan.
 
+- **Konsep kunci:** Menggunakan rumus Euler untuk mencari jumlah rusuk dari F dan V.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler: E = V + F − 2.
+  2. Substitusi V = 30, F = 20: E = 30 + 20 − 2 = 48.
+
 ---
 
 **52.** Sebuah prisma memiliki 30 rusuk. Bentuk alasnya adalah segi-...
@@ -868,6 +1123,11 @@ Prisma segi-n: rusuk = 3n. 3n = 30 → n = 10.
 - **B** — n = 8 berarti rusuk 24.
 - **C** — Benar. n = **10** → segi-10. ✅
 - **D** — n = 12 berarti rusuk 36.
+
+- **Konsep kunci:** Menggunakan rumus rusuk prisma segi-n untuk mencari n.
+- **Langkah Penyelesaian:**
+  1. Rumus rusuk prisma segi-n adalah 3n.
+  2. Karena rusuknya 30, maka 3n = 30 sehingga n = 10.
 
 ---
 
@@ -885,6 +1145,11 @@ Limas segi-n: rusuk = 2n. 2n = 16 → n = 8.
 - **C** — Benar. n = **8** → limas segi-8 (oktagonal). ✅
 - **D** — n = 16 berarti rusuk 32.
 
+- **Konsep kunci:** Menggunakan rumus rusuk limas segi-n untuk mencari n.
+- **Langkah Penyelesaian:**
+  1. Rumus rusuk limas segi-n adalah 2n.
+  2. Karena rusuknya 16, maka 2n = 16 sehingga n = 8.
+
 ---
 
 **54.** Pada balok ABCD.EFGH, garis AC merupakan ...
@@ -900,6 +1165,11 @@ A dan C terletak pada sisi yang sama (ABCD = alas), tidak bersebelahan → diago
 - **B** — Benar. AC adalah **diagonal sisi** alas ABCD. ✅
 - **C** — Diagonal ruang menembus dalam balok (mis. AG).
 - **D** — Bidang diagonal adalah bidang, bukan garis.
+
+- **Konsep kunci:** Membedakan diagonal sisi dari rusuk pada balok.
+- **Langkah Penyelesaian:**
+  1. Periksa apakah kedua titik terletak pada rusuk yang sama atau pada satu sisi yang sama.
+  2. A dan C berada pada sisi alas ABCD yang sama dan tidak bersebelahan, jadi AC adalah diagonal sisi.
 
 ---
 
@@ -917,6 +1187,11 @@ A di alas dan G di tutup yang berseberangan → diagonal ruang.
 - **C** — Benar. AG adalah **diagonal ruang** karena menghubungkan dua titik sudut yang berseberangan menembus dalam. ✅
 - **D** — Tinggi kubus adalah rusuk tegak (mis. AE), bukan AG.
 
+- **Konsep kunci:** Membedakan diagonal ruang dari diagonal sisi pada kubus.
+- **Langkah Penyelesaian:**
+  1. Periksa apakah kedua titik sudut terletak pada satu sisi yang sama atau tidak.
+  2. A dan G tidak berada pada satu sisi yang sama (berseberangan menembus dalam), jadi AG adalah diagonal ruang.
+
 ---
 
 **56.** Banyak bidang diagonal pada kubus adalah ...
@@ -931,6 +1206,11 @@ A di alas dan G di tutup yang berseberangan → diagonal ruang.
 - **B** — 12 itu rusuk atau diagonal sisi kubus.
 - **C** — 8 itu titik sudut.
 - **D** — Benar. Kubus memiliki **6 bidang diagonal** (semua berbentuk persegi panjang). ✅
+
+- **Konsep kunci:** Menghitung jumlah bidang diagonal pada kubus.
+- **Langkah Penyelesaian:**
+  1. Bidang diagonal dibentuk oleh dua rusuk sejajar yang tidak bertetangga dan dua diagonal sisi sejajar.
+  2. Pada kubus, bidang diagonal seperti ini berjumlah 6.
 
 ---
 
@@ -948,6 +1228,11 @@ Limas segi-n: titik sudut = n + 1. n = 12 → 13.
 - **C** — 24 itu titik sudut prisma segi-12 (2n).
 - **D** — 25 keliru.
 
+- **Konsep kunci:** Menggunakan rumus jumlah titik sudut limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Rumus titik sudut limas segi-n adalah n + 1.
+  2. Untuk segi-12, n = 12, sehingga titik sudut = 12 + 1 = 13.
+
 ---
 
 **58.** Sebuah polihedron memiliki sisi berupa 8 segitiga dan 6 persegi. Banyak rusuk total bangun tersebut adalah ... (tip: jumlah rusuk = setengah dari jumlah seluruh sisi-sisi dijumlahkan)
@@ -963,6 +1248,11 @@ Total tepi-sisi = 8(3) + 6(4) = 24 + 24 = 48. Tiap rusuk dibagi 2 sisi → rusuk
 - **B** — 18 hasil pembagian salah.
 - **C** — Benar. **24 rusuk**. ✅
 - **D** — 30 hanya menjumlahkan sebelum dibagi 2.
+
+- **Konsep kunci:** Menghitung jumlah rusuk dari banyak dan jenis sisi menggunakan metode jumlah tepi-sisi.
+- **Langkah Penyelesaian:**
+  1. Kalikan banyak sisi dengan jumlah tepi tiap bentuk: 8 segitiga × 3 + 6 persegi × 4 = 48.
+  2. Karena tiap rusuk dipakai bersama 2 sisi, bagi dua: 48 ÷ 2 = 24 rusuk.
 
 ---
 
@@ -980,6 +1270,11 @@ Pemotongan menciptakan 2 permukaan baru (atas balok bawah & bawah balok atas).
 - **C** — 4 keliru hitung.
 - **D** — 6 itu jumlah sisi kubus utuh.
 
+- **Konsep kunci:** Menghitung sisi baru yang muncul saat kubus dipotong menjadi dua bagian.
+- **Langkah Penyelesaian:**
+  1. Satu kali pemotongan menciptakan dua permukaan baru, satu untuk tiap bagian hasil potongan.
+  2. Karena kubus dipotong menjadi 2 balok, sisi tambahan yang muncul adalah 2.
+
 ---
 
 **60.** Sebuah balok berukuran 8 × 6 × 4 cm. Banyak rusuk yang panjangnya **bukan** 4 cm adalah ...
@@ -996,6 +1291,11 @@ Total rusuk 12; rusuk 4 cm ada 4. Sisanya 12 − 4 = 8 rusuk (4 rusuk 8 cm + 4 r
 - **C** — Benar. 4 + 4 = **8 rusuk** bukan 4 cm. ✅
 - **D** — 12 itu total rusuk semuanya.
 
+- **Konsep kunci:** Menghitung banyak rusuk balok yang panjangnya berbeda dari ukuran tertentu.
+- **Langkah Penyelesaian:**
+  1. Balok punya 12 rusuk total, dan hanya 4 rusuk yang panjangnya 4 cm.
+  2. Rusuk yang bukan 4 cm = 12 − 4 = 8 rusuk (gabungan kelompok 8 cm dan 6 cm).
+
 ---
 
 **61.** Pernyataan yang **benar** mengenai limas dan prisma adalah ...
@@ -1010,6 +1310,11 @@ Total rusuk 12; rusuk 4 cm ada 4. Sisanya 12 − 4 = 8 rusuk (4 rusuk 8 cm + 4 r
 - **B** — Salah; puncak ciri **limas**, prisma tidak punya.
 - **C** — Salah; sisi tegak prisma tegak berupa persegi panjang, bukan segitiga.
 - **D** — Benar. Sisi tegak **limas** selalu berbentuk **segitiga** karena bertemu di puncak. ✅
+
+- **Konsep kunci:** Membedakan ciri sisi tegak pada limas dan prisma.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa sisi tegak limas selalu segitiga karena bertemu di satu titik puncak.
+  2. Sisi tegak prisma justru berbentuk persegi panjang, bukan segitiga.
 
 ---
 
@@ -1027,6 +1332,11 @@ E = V + F − 2 = 7 + 7 − 2 = 12.
 - **C** — 14 = V + F, lupa kurangi 2.
 - **D** — Benar. **12 rusuk** (cocok dengan limas segi-6: V=7, E=12, F=7). ✅
 
+- **Konsep kunci:** Menggunakan rumus Euler untuk mencari jumlah rusuk dari F dan V yang sama.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler: E = V + F − 2.
+  2. Substitusi V = 7, F = 7: E = 7 + 7 − 2 = 12.
+
 ---
 
 **63.** Kubus dengan rusuk 6 cm dipotong oleh sebuah bidang yang melewati 3 titik sudut sehingga membentuk segitiga sama sisi. Sisi segitiga tersebut adalah ...
@@ -1042,6 +1352,11 @@ Bidang yang memotong 3 titik sudut yang saling berdekatan (mis. B, D, E pada ABC
 - **B** — Benar. **6√2 cm** (diagonal sisi). ✅
 - **C** — 6√3 cm itu diagonal ruang, bukan sisi segitiga ini.
 - **D** — 12 cm sembarangan.
+
+- **Konsep kunci:** Menentukan panjang sisi segitiga yang terbentuk dari pemotongan titik sudut kubus.
+- **Langkah Penyelesaian:**
+  1. Bidang potong yang melewati 3 titik sudut berdekatan membentuk segitiga dari diagonal-diagonal sisi.
+  2. Panjang tiap sisi segitiga itu sama dengan diagonal sisi kubus = rusuk × √2 = 6√2 cm.
 
 ---
 
@@ -1059,6 +1374,11 @@ Rusuk tegak (TA, TB, TC, TD) pada limas segiempat **beraturan** sama panjang, ju
 - **C** — Benar. **4 rusuk tegak** sama panjang. ✅
 - **D** — 5 keliru, total rusuk 8 (4 alas + 4 tegak).
 
+- **Konsep kunci:** Menghitung banyak rusuk tegak yang sama panjang pada limas segiempat.
+- **Langkah Penyelesaian:**
+  1. Rusuk tegak limas segiempat menghubungkan tiap titik sudut alas dengan puncak.
+  2. Pada limas beraturan, keempat rusuk tegak (TA, TB, TC, TD) sama panjang, jadi ada 4.
+
 ---
 
 **65.** Pada prisma segi-6, banyak sisi berbentuk persegi panjang adalah ...
@@ -1075,6 +1395,11 @@ Sisi tegak prisma segi-n = n. n = 6 → 6 sisi persegi panjang.
 - **C** — 8 keliru hitung.
 - **D** — 12 keliru.
 
+- **Konsep kunci:** Menghitung banyak sisi tegak berbentuk persegi panjang pada prisma segi-n.
+- **Langkah Penyelesaian:**
+  1. Jumlah sisi tegak prisma segi-n sama dengan n (satu sisi tegak untuk tiap rusuk alas).
+  2. Untuk segi-6, n = 6, sehingga sisi persegi panjangnya ada 6.
+
 ---
 
 **66.** Jika sebuah balok memiliki diagonal ruang d, panjang p, lebar l, dan tinggi t, maka rumus diagonal ruangnya adalah ...
@@ -1089,6 +1414,11 @@ Sisi tegak prisma segi-n = n. n = 6 → 6 sisi persegi panjang.
 - **B** — Itu rumus diagonal sisi alas, bukan ruang.
 - **C** — Benar. Diagonal ruang balok = **√(p² + l² + t²)**, hasil dari Phytagoras dua kali. ✅
 - **D** — Tanda minus tidak benar.
+
+- **Konsep kunci:** Menghafal rumus diagonal ruang balok menggunakan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Diagonal ruang balok dicari dengan menerapkan Pythagoras dua kali (diagonal alas, lalu diagonal ruang).
+  2. Rumus yang benar adalah d = √(p² + l² + t²).
 
 ---
 
@@ -1106,6 +1436,11 @@ Diagonal ruang kubus = s√3. s = 4 → 4√3 cm.
 - **C** — Benar. **4√3 cm** ≈ 6,93 cm. ✅
 - **D** — 12 = 3 × 4, salah konsep.
 
+- **Konsep kunci:** Menghitung panjang diagonal ruang kubus dari panjang rusuknya.
+- **Langkah Penyelesaian:**
+  1. Rumus diagonal ruang kubus adalah s√3, dengan s = panjang rusuk.
+  2. Substitusi s = 4: diagonal ruang = 4√3 cm.
+
 ---
 
 **68.** Sebuah polihedron beraturan dengan 12 sisi pentagon (segi lima), 20 titik sudut, dan 30 rusuk dikenal sebagai ...
@@ -1120,6 +1455,11 @@ Diagonal ruang kubus = s√3. s = 4 → 4√3 cm.
 - **B** — Ikosahedron: 20 sisi segitiga.
 - **C** — Oktahedron: 8 sisi segitiga.
 - **D** — Heksahedron = kubus (6 sisi persegi).
+
+- **Konsep kunci:** Mengenali nama polihedron beraturan dari bentuk sisi dan elemennya.
+- **Langkah Penyelesaian:**
+  1. Cocokkan ciri 12 sisi pentagon, 20 titik sudut, 30 rusuk dengan daftar Platonic solid.
+  2. Ciri ini adalah milik dodekahedron beraturan.
 
 ---
 
@@ -1137,6 +1477,11 @@ Sama seperti kubus: tiap sisi persegi panjang punya 2 diagonal, total 6 × 2 = 1
 - **C** — 8 itu titik sudut.
 - **D** — Benar. **12 diagonal sisi** pada balok. ✅
 
+- **Konsep kunci:** Menghitung jumlah diagonal sisi pada balok.
+- **Langkah Penyelesaian:**
+  1. Tiap sisi persegi panjang balok punya 2 diagonal, sama seperti pada kubus.
+  2. Balok punya 6 sisi, jadi total diagonal sisi = 6 × 2 = 12.
+
 ---
 
 **70.** Sebuah kubus memiliki jumlah sisi, rusuk, dan titik sudut = 6 + 12 + 8 = 26. Untuk limas segiempat, jumlah ketiganya adalah ...
@@ -1152,6 +1497,11 @@ Limas segiempat: 5 sisi + 8 rusuk + 5 titik sudut = 18.
 - **B** — 16 keliru.
 - **C** — Benar. 5 + 8 + 5 = **18**. ✅
 - **D** — 20 keliru.
+
+- **Konsep kunci:** Menjumlahkan sisi, rusuk, dan titik sudut limas segiempat.
+- **Langkah Penyelesaian:**
+  1. Ingat elemen limas segiempat: 5 sisi, 8 rusuk, 5 titik sudut.
+  2. Jumlahkan ketiganya: 5 + 8 + 5 = 18.
 
 ---
 
@@ -1169,6 +1519,11 @@ Polihedron beraturan (regular polyhedron / Platonic solid): kubus, tetrahedron, 
 - **C** — Prisma segitiga: sisi segitiga ≠ persegi panjang.
 - **D** — Benar. **Kubus** = heksahedron beraturan; semua sisi & titik identik. ✅
 
+- **Konsep kunci:** Mengenali polihedron beraturan (Platonic solid) di antara pilihan.
+- **Langkah Penyelesaian:**
+  1. Polihedron beraturan punya semua sisi dan titik sudut yang identik.
+  2. Di antara pilihan, hanya kubus (heksahedron beraturan) yang memenuhi syarat ini.
+
 ---
 
 **72.** Sebuah benda berbentuk gabungan tabung dan kerucut (mirip cone es krim). Banyak titik sudut total benda tersebut adalah ...
@@ -1184,6 +1539,11 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 - **B** — Benar. **1 titik sudut** (puncak kerucut di dasar es krim). ✅
 - **C** — Salah konsep; lingkaran pertemuan bukan titik sudut.
 - **D** — 3 sembarangan.
+
+- **Konsep kunci:** Menjumlahkan titik sudut dari gabungan dua bangun ruang.
+- **Langkah Penyelesaian:**
+  1. Hitung titik sudut tiap bagian: tabung (0) dan kerucut (1).
+  2. Jumlahkan: 0 + 1 = 1 titik sudut total.
 
 ---
 
@@ -1201,6 +1561,11 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 - **C** — 12 untuk prisma segi-6 (rusuk 18).
 - **D** — 16 keliru.
 
+- **Konsep kunci:** Menggunakan rumus rusuk dan titik sudut prisma segi-n secara berurutan.
+- **Langkah Penyelesaian:**
+  1. Cari n dari rumus rusuk: 3n = 15, sehingga n = 5.
+  2. Hitung titik sudut dengan rumus 2n = 2 × 5 = 10.
+
 ---
 
 **74.** Pernyataan yang **salah** tentang prisma segitiga adalah ...
@@ -1215,6 +1580,11 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 - **B** — Benar (3 sisi tegak).
 - **C** — Benar (3 alas + 3 tutup + 3 tegak).
 - **D** — **Salah**. Prisma segitiga punya **6 titik sudut**, bukan 5. ✅
+
+- **Konsep kunci:** Mengenali pernyataan yang salah tentang jumlah titik sudut prisma segitiga.
+- **Langkah Penyelesaian:**
+  1. Periksa tiap pernyataan tentang prisma segitiga satu per satu terhadap elemen aslinya.
+  2. Pernyataan 5 titik sudut itu salah, karena prisma segitiga sebenarnya punya 6 titik sudut.
 
 ---
 
@@ -1231,6 +1601,11 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 - **C** — Benar. Tetrahedron beraturan semua **6 rusuk** sama panjang. ✅
 - **D** — 9 keliru.
 
+- **Konsep kunci:** Menghitung banyak rusuk sama panjang pada tetrahedron beraturan.
+- **Langkah Penyelesaian:**
+  1. Tetrahedron beraturan artinya semua sisi dan rusuknya kongruen.
+  2. Karena total rusuknya 6, maka keenamnya sama panjang.
+
 ---
 
 **76.** Sebuah jaring-jaring kubus terdiri atas ... persegi.
@@ -1245,6 +1620,11 @@ Tabung 0 titik sudut + kerucut 1 puncak = 1.
 - **B** — 5 lupa satu sisi.
 - **C** — 8 keliru, mungkin dengan tutup ekstra.
 - **D** — Benar. Jaring-jaring kubus terdiri dari **6 persegi** sama besar. ✅
+
+- **Konsep kunci:** Menghitung banyak persegi pada jaring-jaring kubus.
+- **Langkah Penyelesaian:**
+  1. Jaring-jaring kubus adalah bentangan dari 6 sisi kubus.
+  2. Karena kubus punya 6 sisi persegi, jaring-jaringnya terdiri dari 6 persegi.
 
 ---
 
@@ -1262,6 +1642,11 @@ Di puncak limas segitiga bertemu 3 rusuk tegak (T-A, T-B, T-C).
 - **C** — 4 keliru, hanya 3 rusuk tegak.
 - **D** — Benar. **3 rusuk** bertemu di puncak. ✅
 
+- **Konsep kunci:** Menghitung banyak rusuk yang bertemu di titik puncak limas segitiga.
+- **Langkah Penyelesaian:**
+  1. Di puncak limas segitiga bertemu semua rusuk tegak yang menghubungkan puncak ke tiap titik alas.
+  2. Karena alasnya segitiga (3 titik sudut), rusuk yang bertemu di puncak ada 3.
+
 ---
 
 **78.** Sebuah polihedron memiliki F = 12 dan V = 20. Banyak rusuknya adalah ...
@@ -1277,6 +1662,11 @@ E = V + F − 2 = 20 + 12 − 2 = 30.
 - **B** — Benar. **30 rusuk** (cocok dengan dodekahedron). ✅
 - **C** — 32 = V + F, lupa kurangi 2.
 - **D** — 60 keliru kelipatan.
+
+- **Konsep kunci:** Menggunakan rumus Euler untuk mencari rusuk dari F dan V.
+- **Langkah Penyelesaian:**
+  1. Rumus Euler: E = V + F − 2.
+  2. Substitusi V = 20, F = 12: E = 20 + 12 − 2 = 30.
 
 ---
 
@@ -1294,6 +1684,11 @@ F dan H sama-sama di sisi tutup EFGH, tidak bersebelahan → diagonal sisi tutup
 - **C** — Diagonal ruang menembus ke alas (mis. AG).
 - **D** — Benar. **Diagonal sisi** pada bidang tutup EFGH. ✅
 
+- **Konsep kunci:** Membedakan diagonal sisi dari rusuk pada balok.
+- **Langkah Penyelesaian:**
+  1. Periksa apakah F dan H berada pada rusuk yang sama atau pada satu sisi yang sama.
+  2. F dan H sama-sama berada pada sisi tutup EFGH dan tidak bersebelahan, jadi FH adalah diagonal sisi.
+
 ---
 
 **80.** Total banyak diagonal sisi kubus + diagonal ruang kubus + bidang diagonal kubus = ...
@@ -1309,6 +1704,11 @@ Diagonal sisi 12 + diagonal ruang 4 + bidang diagonal 6 = 22.
 - **B** — Benar. 12 + 4 + 6 = **22**. ✅
 - **C** — 24 = 12 + 8 + 4, kacau.
 - **D** — 26 = 6 + 12 + 8, ini total sisi+rusuk+titik kubus.
+
+- **Konsep kunci:** Menjumlahkan tiga jenis diagonal pada kubus.
+- **Langkah Penyelesaian:**
+  1. Ingat nilai masing-masing: diagonal sisi = 12, diagonal ruang = 4, bidang diagonal = 6.
+  2. Jumlahkan ketiganya: 12 + 4 + 6 = 22.
 
 ---
 
@@ -1328,6 +1728,11 @@ Bangun = ikosahedron beraturan. Jumlah total sudut sisi = 20 × 3 = 60. Karena t
 - **C** — V salah hitung.
 - **D** — V = 20 itu untuk dodekahedron.
 
+- **Konsep kunci:** Menggunakan hubungan sudut-sisi dan rumus Euler untuk polihedron beraturan (ikosahedron).
+- **Langkah Penyelesaian:**
+  1. Hitung total sudut sisi: 20 segitiga × 3 = 60, lalu bagi dengan 5 (banyak segitiga per titik sudut) untuk mendapat V = 12.
+  2. Cari rusuk dengan E = (jumlah sisi × 3) ÷ 2 = 60 ÷ 2 = 30, lalu cek dengan Euler: 12 − 30 + 20 = 2 ✓.
+
 ---
 
 **82.** Jika sebuah prisma segitiga memiliki alas segitiga siku-siku berusuk 3, 4, 5 cm dan tingginya 10 cm, banyak titik sudut, rusuk, dan sisinya adalah ...
@@ -1343,6 +1748,11 @@ Bangunnya tetap prisma segitiga (hanya alas bukan beraturan). V = 6, E = 9, F = 
 - **B** — Itu balok.
 - **C** — Itu limas segiempat.
 - **D** — Rusuk salah.
+
+- **Konsep kunci:** Menyadari bahwa jumlah elemen prisma tidak berubah walau alasnya bukan segitiga sama sisi.
+- **Langkah Penyelesaian:**
+  1. Jumlah sisi, rusuk, titik sudut prisma segitiga hanya bergantung pada bentuknya (prisma segitiga), bukan ukuran alasnya.
+  2. Jadi tetap V = 6, E = 9, F = 5 meskipun alasnya segitiga siku-siku 3-4-5.
 
 ---
 
@@ -1360,6 +1770,11 @@ Hanya alas persegi yang punya diagonal. Persegi punya 2 diagonal. Sisi segitiga 
 - **C** — Benar. **2 diagonal sisi**, semua di alas. ✅
 - **D** — 4 itu jumlah sisi alas.
 
+- **Konsep kunci:** Menghitung diagonal sisi hanya pada bagian sisi yang berbentuk segi banyak beraturan.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa sisi berbentuk segitiga tidak memiliki diagonal (hanya 3 titik sudut).
+  2. Hanya alas persegi yang punya diagonal, dan sebuah persegi punya 2 diagonal.
+
 ---
 
 **84.** Sebuah kubus mempunyai panjang rusuk a. Jumlah panjang seluruh diagonal ruangnya adalah ...
@@ -1375,6 +1790,11 @@ Tiap diagonal ruang = a√3. Ada 4 diagonal ruang. Jumlah = 4a√3.
 - **B** — 2 diagonal, lupa setengah lainnya.
 - **C** — Benar. **4 × a√3 = 4a√3**. ✅
 - **D** — 6 = jumlah bidang diagonal, salah kategori.
+
+- **Konsep kunci:** Menjumlahkan panjang semua diagonal ruang kubus dalam bentuk aljabar.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus satu diagonal ruang kubus = a√3, dan kubus punya 4 diagonal ruang.
+  2. Kalikan: 4 × a√3 = 4a√3.
 
 ---
 
@@ -1392,6 +1812,11 @@ Limas segi-n: F = n + 1 → 11 = n + 1 → n = 10.
 - **C** — n = 11 → F = 12.
 - **D** — n = 12 → F = 13.
 
+- **Konsep kunci:** Menggunakan rumus sisi limas segi-n untuk mencari n.
+- **Langkah Penyelesaian:**
+  1. Rumus sisi limas segi-n adalah F = n + 1.
+  2. Karena F = 11, maka n + 1 = 11 sehingga n = 10.
+
 ---
 
 **86.** Sebuah bangun gabungan terdiri atas kubus (rusuk 4 cm) di atas balok (10 × 6 × 5 cm). Sisi alas kubus dan sisi tutup balok menyatu dan tidak nampak sebagai sisi luar. Banyak sisi luar bangun gabungan adalah ...
@@ -1407,6 +1832,11 @@ Kubus 6 sisi + balok 6 sisi = 12. Dua sisi yang menempel (alas kubus + tutup bal
 - **B** — 9 lupa satu sisi.
 - **C** — Benar. **10 sisi luar** terlihat. ✅
 - **D** — 12 jika tanpa pengurangan.
+
+- **Konsep kunci:** Menghitung sisi luar bangun gabungan setelah dua sisi menyatu dan tidak terlihat.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua sisi kedua bangun sebelum digabung: kubus (6) + balok (6) = 12.
+  2. Kurangi dengan sisi yang menempel dan tidak terlihat (2 sisi): 12 − 2 = 10.
 
 ---
 
@@ -1424,6 +1854,11 @@ Prisma segitiga punya 9 rusuk. Jika sisi tegak berbentuk persegi (panjang = sisi
 - **C** — Benar. **9 rusuk** sama panjang. ✅
 - **D** — 12 itu kubus.
 
+- **Konsep kunci:** Menentukan syarat agar semua rusuk prisma segitiga sama panjang.
+- **Langkah Penyelesaian:**
+  1. Prisma segitiga total punya 9 rusuk (3 alas + 3 tutup + 3 tegak).
+  2. Jika sisi tegaknya persegi (rusuk tegak = rusuk alas), maka seluruh 9 rusuk sama panjang.
+
 ---
 
 **88.** Banyak diagonal sisi pada **prisma segitiga** adalah ...
@@ -1439,6 +1874,11 @@ Sisi segitiga tidak punya diagonal (0). Sisi persegi panjang ada 3, masing-masin
 - **B** — 3 lupa setengah diagonal lainnya.
 - **C** — Benar. **6 diagonal sisi** (semua di sisi tegak). ✅
 - **D** — 9 keliru hitung.
+
+- **Konsep kunci:** Menghitung diagonal sisi hanya pada sisi persegi panjang prisma segitiga.
+- **Langkah Penyelesaian:**
+  1. Ingat sisi segitiga tidak punya diagonal, hanya sisi persegi panjang yang punya.
+  2. Ada 3 sisi persegi panjang, masing-masing 2 diagonal, jadi 3 × 2 = 6.
 
 ---
 
@@ -1456,6 +1896,11 @@ Total sudut sisi = 6 × 3 = 18. Tiap rusuk dibagi 2 sisi → rusuk = 18 ÷ 2 = 9
 - **C** — 10 keliru.
 - **D** — 12 keliru.
 
+- **Konsep kunci:** Menggunakan metode jumlah tepi-sisi (handshake) untuk mencari rusuk dari sisi segitiga.
+- **Langkah Penyelesaian:**
+  1. Kalikan jumlah sisi dengan tepi tiap segitiga: 6 × 3 = 18.
+  2. Bagi dua karena tiap rusuk dipakai bersama 2 sisi: 18 ÷ 2 = 9, lalu cek Euler: 5 − 9 + 6 = 2 ✓.
+
 ---
 
 **90.** Sebuah balok dengan ukuran 12 × 9 × 8 cm memiliki diagonal ruang sepanjang ...
@@ -1471,6 +1916,11 @@ d = √(12² + 9² + 8²) = √(144 + 81 + 64) = √289 = 17 cm.
 - **B** — 15 = √(225), bukan rumus diagonal ruang ini.
 - **C** — Benar. **17 cm**. ✅
 - **D** — 19 keliru.
+
+- **Konsep kunci:** Menghitung diagonal ruang balok menggunakan rumus Pythagoras 3D.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus d = √(p² + l² + t²) dengan p = 12, l = 9, t = 8.
+  2. Hitung: √(144 + 81 + 64) = √289 = 17 cm.
 
 ---
 
@@ -1488,6 +1938,11 @@ Total sudut sisi = 8 × 3 = 24. Rusuk = 24 ÷ 2 = 12. Cek Euler: V − 12 + 8 = 
 - **C** — Benar. **12 rusuk** untuk oktahedron beraturan. ✅
 - **D** — 16 keliru.
 
+- **Konsep kunci:** Menggunakan metode jumlah tepi-sisi untuk mencari rusuk oktahedron beraturan.
+- **Langkah Penyelesaian:**
+  1. Kalikan jumlah sisi dengan tepi tiap segitiga: 8 × 3 = 24.
+  2. Bagi dua karena tiap rusuk dipakai bersama 2 sisi: 24 ÷ 2 = 12.
+
 ---
 
 **92.** Pada kubus ABCD.EFGH, banyak segitiga sama sisi yang dapat dibentuk dengan menghubungkan 3 titik sudut kubus adalah ...
@@ -1503,6 +1958,11 @@ Segitiga sama sisi terbentuk dari 3 titik sudut yang saling berjarak = diagonal 
 - **B** — 6 mendekati tapi belum tepat.
 - **C** — Benar. **8 segitiga sama sisi** terbentuk. ✅
 - **D** — 12 terlalu banyak (cocok dengan rusuk, bukan segitiga).
+
+- **Konsep kunci:** Menghitung banyak segitiga sama sisi yang bisa dibentuk dari titik sudut kubus.
+- **Langkah Penyelesaian:**
+  1. Segitiga sama sisi terbentuk dari 3 titik sudut yang jaraknya sama, yaitu sama dengan diagonal sisi.
+  2. Kombinasi titik sudut seperti ini pada kubus menghasilkan 8 segitiga sama sisi.
 
 ---
 
@@ -1520,6 +1980,11 @@ Limas segi-n: F = n + 1, V = n + 1, E = 2n. Total = (n+1) + (n+1) + 2n = 4n + 2 
 - **C** — n = 14 → total 58.
 - **D** — n = 16 → total 66.
 
+- **Konsep kunci:** Menyusun dan menyelesaikan persamaan dari rumus F, V, E limas segi-n.
+- **Langkah Penyelesaian:**
+  1. Substitusi F = n+1, V = n+1, E = 2n ke F + V + E = 50, sehingga 4n + 2 = 50.
+  2. Selesaikan: 4n = 48, maka n = 12.
+
 ---
 
 **94.** Sebuah prisma segi-n memiliki jumlah F + V + E = 50. Nilai n adalah ...
@@ -1535,6 +2000,11 @@ Prisma: F = n + 2, V = 2n, E = 3n. Total = (n+2) + 2n + 3n = 6n + 2 = 50 → 6n 
 - **B** — n = 7 → total 44.
 - **C** — Benar. **n = 8**, prisma segi-8 (oktagonal). ✅
 - **D** — n = 10 → total 62.
+
+- **Konsep kunci:** Menyusun dan menyelesaikan persamaan dari rumus F, V, E prisma segi-n.
+- **Langkah Penyelesaian:**
+  1. Substitusi F = n+2, V = 2n, E = 3n ke F + V + E = 50, sehingga 6n + 2 = 50.
+  2. Selesaikan: 6n = 48, maka n = 8.
 
 ---
 
@@ -1552,6 +2022,11 @@ Jika AB = AD ≠ AE, maka segitiga ABD adalah sama kaki (dengan diagonal sisi se
 - **C** — Hanya satu pasangan rusuk yang sama, hanya 1 segitiga sama kaki.
 - **D** — Benar. **1 segitiga** (ABD) sama kaki, karena AB = AD. ✅
 
+- **Konsep kunci:** Menentukan segitiga sama kaki dari tiga rusuk yang bertemu di satu titik sudut balok.
+- **Langkah Penyelesaian:**
+  1. Bandingkan panjang tiap pasang rusuk pembentuk segitiga ABD, ABE, ADE.
+  2. Karena hanya AB = AD, hanya segitiga ABD yang sama kaki, jadi jawabannya 1.
+
 ---
 
 **96.** Sebuah polihedron memiliki sisi yang terdiri atas 6 persegi dan 8 segitiga sama sisi (cuboctahedron). Banyak rusuknya adalah ...
@@ -1567,6 +2042,11 @@ Total sudut sisi = 6(4) + 8(3) = 24 + 24 = 48. Rusuk = 48 ÷ 2 = 24.
 - **B** — 20 keliru.
 - **C** — Benar. **24 rusuk** (cuboctahedron). ✅
 - **D** — 30 keliru.
+
+- **Konsep kunci:** Menggunakan metode jumlah tepi-sisi untuk mencari rusuk cuboctahedron.
+- **Langkah Penyelesaian:**
+  1. Kalikan jumlah sisi dengan tepi tiap bentuk: 6 persegi × 4 + 8 segitiga × 3 = 48.
+  2. Bagi dua karena tiap rusuk dipakai bersama 2 sisi: 48 ÷ 2 = 24.
 
 ---
 
@@ -1584,6 +2064,11 @@ Diagonal sisi kubus berusuk 6 = 6√2 = √72. Titik sudut yang berjarak diagona
 - **C** — 6 = titik yang sejarak rusuk (3 titik) atau diagonal sisi (3 titik). Hanya 3 berjarak diagonal sisi.
 - **D** — 7 itu jumlah seluruh titik sudut kubus selain A.
 
+- **Konsep kunci:** Menghitung banyak titik sudut yang berjarak sejauh diagonal sisi dari satu titik tertentu pada kubus.
+- **Langkah Penyelesaian:**
+  1. Titik berjarak diagonal sisi dari A berada pada sisi yang sama dengan A tapi berseberangan.
+  2. Karena A terletak pada 3 sisi kubus, ada 3 titik seperti itu (C, F, H).
+
 ---
 
 **98.** Banyak titik sudut yang berjarak **diagonal ruang** dari titik sudut A pada kubus adalah ...
@@ -1600,6 +2085,11 @@ Tiap titik sudut kubus punya **tepat satu titik yang berseberangan menembus dala
 - **C** — 3 itu jumlah titik yang sejarak diagonal sisi.
 - **D** — 4 itu jumlah diagonal ruang kubus secara keseluruhan.
 
+- **Konsep kunci:** Menghitung banyak titik sudut yang berjarak diagonal ruang dari satu titik tertentu pada kubus.
+- **Langkah Penyelesaian:**
+  1. Diagonal ruang hanya menghubungkan satu pasang titik sudut yang benar-benar berseberangan.
+  2. Jadi hanya ada tepat 1 titik sudut yang berjarak diagonal ruang dari A.
+
 ---
 
 **99.** Sebuah polihedron dengan 32 sisi (12 pentagon + 20 segitiga sama sisi) adalah **icosidodecahedron**. Banyak rusuk dan titik sudutnya adalah ...
@@ -1615,6 +2105,11 @@ Total sudut sisi = 12(5) + 20(3) = 60 + 60 = 120. Rusuk = 120/2 = 60. Euler: V �
 - **B** — V salah hitung.
 - **C** — E salah.
 - **D** — Total keliru.
+
+- **Konsep kunci:** Menggunakan hubungan sudut-sisi dan rumus Euler untuk polihedron gabungan (icosidodecahedron).
+- **Langkah Penyelesaian:**
+  1. Hitung total sudut sisi: 12 pentagon × 5 + 20 segitiga × 3 = 120, lalu bagi 2 untuk rusuk: E = 60.
+  2. Cari V dengan Euler: V − 60 + 32 = 2, sehingga V = 30.
 
 ---
 
@@ -1636,6 +2131,12 @@ Cek Euler: 10 − 15 + 7 = 2 ✓.
 - **B** — Salah hitung E dan V.
 - **C** — Lupa pengaruh pemotongan.
 - **D** — Berlebihan; tidak konsisten dengan Euler.
+
+- **Konsep kunci:** Menghitung perubahan F, E, V pada kubus setelah satu sudutnya dipotong.
+- **Langkah Penyelesaian:**
+  1. Sisi bertambah 1 (sisi segitiga baru): F = 6 + 1 = 7.
+  2. Rusuk bertambah 3 (tepi segitiga baru): E = 12 + 3 = 15.
+  3. Titik sudut: 3 titik baru muncul tapi 1 titik lama hilang, net +2: V = 8 + 2 = 10; cek Euler 10 − 15 + 7 = 2 ✓.
 
 ---
 

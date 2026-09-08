@@ -127,6 +127,11 @@ Contoh: 2¼ ÷ 1½ = 9/4 ÷ 3/2 = 9/4 × 2/3 = 18/12 = 3/2 = **1½**.
 - **B** — 11 : 4 = 2 sisa 3 → 2¾ ✓.
 - **C** — 3¼ = 13/4, salah; siswa membagi 11 dengan 3 atau salah membaca sisa.
 - **D** — 4¼ = 17/4, terlalu besar; siswa menambah bukannya membagi.
+- **Konsep kunci:** Konversi pecahan biasa ke pecahan campuran dengan pembagian bersisa.
+- **Langkah Penyelesaian:**
+  1. Bagi pembilang 11 dengan penyebut 4.
+  2. Hasil bagi (2) jadi bagian bulat, sisa (3) jadi pembilang baru.
+  3. Tulis sebagai 2¾.
 
 **2.** Bentuk pecahan biasa dari 2¾ adalah …
 - A. 11/4
@@ -140,6 +145,11 @@ Contoh: 2¼ ÷ 1½ = 9/4 ÷ 3/2 = 9/4 × 2/3 = 18/12 = 3/2 = **1½**.
 - **B** — 9/4 muncul dari (2 × 4 + 1) — salah tulis pembilang.
 - **C** — 5/4 dari (2 + 3)/4 — siswa **menjumlah** bulat dan pembilang, tidak mengalikan.
 - **D** — 8/4 = 2, mengabaikan ¾.
+- **Konsep kunci:** Konversi pecahan campuran ke pecahan biasa: kalikan bulat dengan penyebut lalu tambah pembilang.
+- **Langkah Penyelesaian:**
+  1. Kalikan bagian bulat 2 dengan penyebut 4 = 8.
+  2. Tambahkan pembilang 3 → 11.
+  3. Tulis sebagai 11/4.
 
 **3.** Hasil dari 1½ + 2¼ adalah …
 - A. 3⅛
@@ -153,6 +163,11 @@ Contoh: 2¼ ÷ 1½ = 9/4 ÷ 3/2 = 9/4 × 2/3 = 18/12 = 3/2 = **1½**.
 - **B** — 3½, lupa ¼; hanya menambah ½ saja.
 - **C** — (1 + 2) + (½ + ¼) = 3 + 2/4 + 1/4 = 3¾ ✓.
 - **D** — 4 muncul kalau siswa membulatkan; jelas berlebih.
+- **Konsep kunci:** Penjumlahan pecahan campuran dengan menyamakan penyebut.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut: ½ = 2/4.
+  2. Jumlahkan bagian bulat (1+2=3) dan bagian pecahan (2/4+1/4=3/4).
+  3. Gabungkan jadi 3¾.
 
 **4.** Hasil dari 3⅖ − 1⅕ adalah …
 - A. 2⅖
@@ -189,6 +204,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 2⅕ muncul kalau siswa lupa selisih ⅗ − ⅕ = ⅖, bukan ⅕.
 - **C** — 2⅗, siswa hanya mengurangkan bulat 4−2 dan tetap pakai ⅗.
 - **D** — 6⅘, siswa **menjumlahkan** bukan mengurangkan.
+- **Konsep kunci:** Pengurangan pecahan campuran dengan mengubah ke pecahan biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 4⅗ = 23/5, 2⅕ = 11/5.
+  2. Kurangkan: 23/5 − 11/5 = 12/5.
+  3. Ubah balik ke campuran: 12/5 = 2⅖.
 
 **5.** Hasil 2⅓ × 1½ adalah …
 - A. 2½
@@ -202,6 +222,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 3⅙ muncul jika siswa kalikan terpisah bulat dan pecahan (2 × 1) + (⅓ × ½) = 2 + 1/6 — cara salah.
 - **C** — 7/3 × 3/2 = 21/6 = 7/2 = 3½ ✓.
 - **D** — 4 muncul dari membulatkan; berlebihan.
+- **Konsep kunci:** Perkalian pecahan campuran wajib diubah ke pecahan biasa dulu, tidak boleh dikalikan terpisah.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 2⅓ = 7/3, 1½ = 3/2.
+  2. Kalikan pembilang×pembilang dan penyebut×penyebut: 21/6.
+  3. Sederhanakan 21/6 = 7/2 = 3½.
 
 **6.** Hasil 3 : 1½ adalah …
 - A. 4½
@@ -215,6 +240,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 1½, siswa langsung mengulang pembagi.
 - **C** — 3 ÷ 3/2 = 3 × 2/3 = 6/3 = 2 ✓.
 - **D** — 3, jawaban "tetap" tanpa hitung.
+- **Konsep kunci:** Pembagian pecahan campuran = ubah ke biasa lalu kalikan dengan kebalikan pembagi.
+- **Langkah Penyelesaian:**
+  1. Ubah 1½ ke biasa = 3/2.
+  2. Kalikan 3 dengan kebalikan 3/2, yaitu 2/3.
+  3. Hasil 6/3 = 2.
 
 **7.** Hasil 5⅓ + 2⅔ adalah …
 - A. 7
@@ -228,6 +258,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 7⅓, mengabaikan kenaikan bulat dari ⅓ + ⅔.
 - **C** — 5 + 2 = 7 dan ⅓ + ⅔ = 3/3 = 1, jadi total 7 + 1 = 8 ✓.
 - **D** — 8⅔, siswa tambah salah lagi pada pecahan.
+- **Konsep kunci:** Penjumlahan pecahan campuran bisa membuat bagian pecahan genap menjadi 1 dan naik ke bagian bulat.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian pecahan: ⅓ + ⅔ = 3/3 = 1.
+  2. Jumlahkan bagian bulat: 5 + 2 = 7.
+  3. Tambahkan kenaikan 1 ke bulat → 7 + 1 = 8.
 
 **8.** Hasil 6¼ − 2½ adalah …
 - A. 3¾
@@ -241,6 +276,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 4¼ muncul jika siswa kurang bulat 6−2 = 4 lalu lupa pinjam.
 - **C** — 3¼, salah saat menentukan sisa pecahan.
 - **D** — 4¾, siswa **menjumlahkan** pecahan.
+- **Konsep kunci:** Pengurangan pecahan campuran memerlukan pinjam karena pecahan pengurang lebih besar.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 6¼ = 25/4, 2½ = 10/4.
+  2. Kurangkan 25/4 − 10/4 = 15/4.
+  3. Ubah ke campuran: 15/4 = 3¾.
 
 **9.** Bentuk paling sederhana dari 18/8 sebagai campuran adalah …
 - A. 2 2/8
@@ -254,6 +294,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 18 : 8 = 2 sisa 2 → 2 2/8 = 2¼ ✓ (sederhana).
 - **C** — 1¼ = 5/4 ≠ 18/8, terlalu kecil.
 - **D** — 2½ = 5/2 = 20/8 ≠ 18/8.
+- **Konsep kunci:** Bentuk campuran harus disederhanakan sampai bagian pecahannya paling sederhana.
+- **Langkah Penyelesaian:**
+  1. Bagi 18 : 8 = 2 sisa 2 → 2 2/8.
+  2. Sederhanakan 2/8 dengan FPB 2 → ¼.
+  3. Hasil akhir 2¼.
 
 **10.** Diketahui 1½ liter air ditambah ¾ liter air. Volume total adalah …
 - A. 1¾ L
@@ -267,6 +312,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 2 L, dibulatkan.
 - **C** — 3/2 + 3/4 = 6/4 + 3/4 = 9/4 = 2¼ ✓.
 - **D** — 2¾, siswa menambah ½ + ¾ menjadi 1¼ alih-alih 1¼ tepat.
+- **Konsep kunci:** Penjumlahan pecahan campuran dan pecahan biasa dalam soal cerita volume.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa dan samakan penyebut: 1½ = 6/4, ¾ = 3/4.
+  2. Jumlahkan 6/4 + 3/4 = 9/4.
+  3. Ubah ke campuran: 9/4 = 2¼ L.
 
 **11.** Pecahan biasa dari 1 7/9 adalah …
 - A. 16/9
@@ -280,6 +330,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 17/9 muncul jika siswa hitung 2 × 9 − 1 = 17.
 - **C** — 9/16 adalah kebalikan; siswa membalik.
 - **D** — 79/9, siswa menggabung angka 7 dan 9 menjadi 79.
+- **Konsep kunci:** Konversi pecahan campuran ke pecahan biasa.
+- **Langkah Penyelesaian:**
+  1. Kalikan bagian bulat 1 dengan penyebut 9 = 9.
+  2. Tambahkan pembilang 7 → 16.
+  3. Tulis sebagai 16/9.
 
 **12.** Bentuk campuran dari 25/6 adalah …
 - A. 3 5/6
@@ -293,6 +348,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 25 : 6 = 4 sisa 1 → 4 1/6 ✓.
 - **C** — 5 1/6 = 31/6, terlalu besar.
 - **D** — 4 5/6 = 29/6, salah pembagian.
+- **Konsep kunci:** Konversi pecahan biasa ke pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Bagi 25 : 6 = 4 sisa 1.
+  2. Bagian bulat 4, pembilang baru 1, penyebut tetap 6.
+  3. Hasil 4 1/6.
 
 **13.** Hasil 2½ + 1⅓ adalah …
 - A. 3⅓
@@ -306,6 +366,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 3½, lupa ⅓.
 - **C** — 5/2 + 4/3 = 15/6 + 8/6 = 23/6 = 3⅚ ✓.
 - **D** — 4, membulatkan.
+- **Konsep kunci:** Penjumlahan pecahan campuran dengan penyebut berbeda memakai KPK.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 5/2 dan 4/3.
+  2. Samakan penyebut (KPK 6): 15/6 + 8/6 = 23/6.
+  3. Ubah ke campuran: 23/6 = 3⅚.
 
 **14.** Hasil 4⅖ − 1¾ adalah …
 - A. 3⅖
@@ -319,6 +384,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 22/5 − 7/4 = 88/20 − 35/20 = 53/20 = 2 13/20 ✓.
 - **C** — 2⅕, siswa hanya kurang bulat 4−1 = 3 lalu pasang ⅕.
 - **D** — 2¾, mengambil pecahan pengurang.
+- **Konsep kunci:** Pengurangan pecahan campuran beda penyebut memakai KPK.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 22/5 dan 7/4.
+  2. Samakan penyebut (KPK 20): 88/20 − 35/20 = 53/20.
+  3. Ubah ke campuran: 53/20 = 2 13/20.
 
 **15.** Hasil 1⅔ × 2 adalah …
 - A. 2⅓
@@ -332,6 +402,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 5/3 × 2 = 10/3 = 3⅓ ✓.
 - **C** — 3⅔, salah hitung pecahan.
 - **D** — 4, membulatkan.
+- **Konsep kunci:** Perkalian pecahan campuran dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 1⅔ ke biasa = 5/3.
+  2. Kalikan dengan 2: 10/3.
+  3. Ubah ke campuran: 10/3 = 3⅓.
 
 **16.** Hasil 2¼ ÷ 1½ adalah …
 - A. 1½
@@ -345,6 +420,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 2, siswa hanya menghitung 2¼ ≈ 2, tidak akurat.
 - **C** — 3⅜ muncul kalau siswa **mengalikan** 2¼ × 1½ = 27/8 = 3⅜.
 - **D** — 3, pembulatan kasar.
+- **Konsep kunci:** Pembagian pecahan campuran diselesaikan dengan kali kebalikan.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 9/4 dan 3/2.
+  2. Kalikan dengan kebalikan: 9/4 × 2/3 = 18/12.
+  3. Sederhanakan 18/12 = 3/2 = 1½.
 
 **17.** Dari pecahan campuran berikut, manakah yang nilainya **paling besar**?
 - A. 2¾
@@ -358,6 +438,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 2⅗ = 2,6.
 - **C** — 2⅘ = 2,8 ✓ (terbesar).
 - **D** — 2½ = 2,5.
+- **Konsep kunci:** Membandingkan nilai beberapa pecahan campuran dengan mengubahnya ke desimal.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap opsi ke desimal.
+  2. Bandingkan: 2¾=2,75; 2⅗=2,6; 2⅘=2,8; 2½=2,5.
+  3. Nilai terbesar adalah 2⅘.
 
 **18.** Dari pecahan campuran berikut, manakah yang nilainya **paling kecil**?
 - A. 1⅔
@@ -381,6 +466,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 1¾ = 1,75.
 - **C** — 1⅖ = 1,4 ✓ (terkecil).
 - **D** — 1⅗ = 1,6.
+- **Konsep kunci:** Membandingkan nilai beberapa pecahan campuran untuk mencari yang terkecil.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap opsi ke desimal: 1⅔≈1,67; 1¾=1,75; 1⅖=1,4; 1⅗=1,6.
+  2. Bandingkan keempatnya.
+  3. Nilai terkecil adalah 1⅖.
 
 **19.** Hasil 3⅛ + 1⅜ adalah …
 - A. 4½
@@ -394,6 +484,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 4¼, lupa menyederhanakan atau salah tambah.
 - **C** — 4⅛, hanya tambah bulat.
 - **D** — 4⅜, lupa ⅛.
+- **Konsep kunci:** Penjumlahan pecahan campuran berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 25/8 dan 11/8.
+  2. Jumlahkan 25/8 + 11/8 = 36/8.
+  3. Sederhanakan 36/8 = 9/2 = 4½.
 
 **20.** Bagian campuran dari 50/9 adalah …
 - A. 5 5/9
@@ -407,6 +502,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 5⅖, salah sederhanakan; 5/9 tidak sama dengan ⅖.
 - **C** — 5 1/9, salah sisa.
 - **D** — 6 1/9, salah hasil bagi.
+- **Konsep kunci:** Konversi pecahan biasa ke pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Bagi 50 : 9 = 5 sisa 5.
+  2. Bagian bulat 5, pembilang 5, penyebut 9.
+  3. Hasil 5 5/9 (sudah paling sederhana).
 
 **21.** Hasil 2⅔ + 1⅙ adalah …
 - A. 3⅙
@@ -420,6 +520,11 @@ Catatan: pilih dua jawaban tampak sama? Lihat ulang opsi:
 - **B** — 3⅓, salah penyamaan penyebut.
 - **C** — 8/3 + 7/6 = 16/6 + 7/6 = 23/6 = 3⅚ ✓.
 - **D** — 4, membulatkan.
+- **Konsep kunci:** Penjumlahan pecahan campuran beda penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 8/3 dan 7/6.
+  2. Samakan penyebut 6: 16/6 + 7/6 = 23/6.
+  3. Ubah ke campuran: 23/6 = 3⅚.
 
 **22.** Hasil 5¾ − 2½ adalah …
 - A. 3¼
@@ -436,6 +541,11 @@ Hmm — mari verifikasi: 5¾ − 2½ = 23/4 − 5/2 = 23/4 − 10/4 = 13/4 = 3¼
 - **B** — 3¾, lupa kurangi ½.
 - **C** — 8¼, siswa **menjumlahkan**.
 - **D** — 2¼, salah kurang bulat (5 − 2 = 2 lalu pasang ¼).
+- **Konsep kunci:** Pengurangan pecahan campuran berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 23/4 dan 10/4.
+  2. Kurangkan 23/4 − 10/4 = 13/4.
+  3. Ubah ke campuran: 13/4 = 3¼.
 
 **23.** Hasil 1¾ × 4 adalah …
 - A. 5
@@ -449,6 +559,11 @@ Hmm — mari verifikasi: 5¾ − 2½ = 23/4 − 5/2 = 23/4 − 10/4 = 13/4 = 3¼
 - **B** — 6¾, salah mengalikan bulat saja.
 - **C** — 7/4 × 4 = 28/4 = 7 ✓.
 - **D** — 4¾, hanya mengalikan bulat 1×4 = 4 lalu tetap ¾.
+- **Konsep kunci:** Perkalian pecahan campuran dengan bilangan bulat bisa menghasilkan bilangan bulat utuh.
+- **Langkah Penyelesaian:**
+  1. Ubah 1¾ ke biasa = 7/4.
+  2. Kalikan dengan 4: 28/4.
+  3. Sederhanakan 28/4 = 7.
 
 **24.** Hasil 4½ ÷ 3 adalah …
 - A. 1
@@ -468,6 +583,11 @@ Mari ulang opsi rapi:
 - **B** — 1¼, kira-kira tetapi salah.
 - **C** — 13½ muncul kalau siswa **mengalikan** 4½ × 3 = 27/2 = 13½.
 - **D** — 9/2 ÷ 3 = 9/2 × 1/3 = 9/6 = 3/2 = 1½ ✓.
+- **Konsep kunci:** Pembagian pecahan campuran dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 4½ ke biasa = 9/2.
+  2. Kalikan dengan kebalikan 3, yaitu 1/3: 9/2 × 1/3 = 9/6.
+  3. Sederhanakan 9/6 = 3/2 = 1½.
 
 **25.** 2¾ + 3¼ = …
 - A. 5
@@ -481,6 +601,11 @@ Mari ulang opsi rapi:
 - **B** — 5½, salah tambah ¾ + ¼.
 - **C** — (2+3) + (¾+¼) = 5 + 1 = 6 ✓.
 - **D** — 5¾, salah jumlah pecahan.
+- **Konsep kunci:** Penjumlahan pecahan campuran yang bagian pecahannya pas menjadi 1 (naik ke bulat).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian bulat: 2 + 3 = 5.
+  2. Jumlahkan bagian pecahan: ¾ + ¼ = 4/4 = 1.
+  3. Tambahkan ke bulat: 5 + 1 = 6.
 
 **26.** 7⅖ − 4⅗ = …
 - A. 2⅘
@@ -494,6 +619,11 @@ Mari ulang opsi rapi:
 - **B** — 3⅕, lupa kurang ⅗−⅖ butuh pinjam.
 - **C** — 2⅗, salah ambil pecahan.
 - **D** — 3⅖, salah kurang bulat (tanpa pinjam).
+- **Konsep kunci:** Pengurangan pecahan campuran memerlukan pinjam karena ⅖ < ⅗.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 37/5 dan 23/5.
+  2. Kurangkan 37/5 − 23/5 = 14/5.
+  3. Ubah ke campuran: 14/5 = 2⅘.
 
 **27.** 2 × 1⅗ = …
 - A. 2⅗
@@ -507,6 +637,11 @@ Mari ulang opsi rapi:
 - **B** — 3, dibulatkan.
 - **C** — 2 × 8/5 = 16/5 = 3⅕ ✓.
 - **D** — 3⅗, salah hitung pecahan.
+- **Konsep kunci:** Perkalian bilangan bulat dengan pecahan campuran wajib ubah ke biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah 1⅗ ke biasa = 8/5.
+  2. Kalikan dengan 2: 16/5.
+  3. Ubah ke campuran: 16/5 = 3⅕.
 
 **28.** 3⅓ ÷ 2 = …
 - A. 1⅓
@@ -520,6 +655,11 @@ Mari ulang opsi rapi:
 - **B** — 6⅔ muncul kalau **mengalikan**.
 - **C** — 1⅙, salah penyebut.
 - **D** — 10/3 ÷ 2 = 10/3 × 1/2 = 10/6 = 5/3 = 1⅔ ✓.
+- **Konsep kunci:** Pembagian pecahan campuran dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 3⅓ ke biasa = 10/3.
+  2. Kalikan dengan kebalikan 2, yaitu ½: 10/3 × 1/2 = 10/6.
+  3. Sederhanakan 10/6 = 5/3 = 1⅔.
 
 **29.** Manakah yang **sama dengan** 17/6?
 - A. 3⅙
@@ -533,6 +673,11 @@ Mari ulang opsi rapi:
 - **B** — 17 : 6 = 2 sisa 5 → 2⅚ ✓.
 - **C** — 2⅖ = 12/5, beda penyebut.
 - **D** — 1 11/6 = 17/6 nilainya benar tetapi **bukan campuran sah** (11 ≥ 6).
+- **Konsep kunci:** Menyamakan nilai pecahan biasa dengan bentuk pecahan campuran yang sah.
+- **Langkah Penyelesaian:**
+  1. Ubah 17/6 ke campuran: 17 : 6 = 2 sisa 5 → 2⅚.
+  2. Cocokkan nilai ini dengan tiap opsi.
+  3. Pilih opsi yang bernilai sama dan sah (opsi D tidak sah karena 11/6 bukan pecahan murni).
 
 **30.** 1⅖ + 2⅗ = …
 - A. 3⅕
@@ -546,6 +691,11 @@ Mari ulang opsi rapi:
 - **B** — (1+2) + (⅖+⅗) = 3 + 1 = 4 ✓.
 - **C** — 3⅘, lupa naik bulat.
 - **D** — 4⅖, salah lebih.
+- **Konsep kunci:** Penjumlahan pecahan campuran yang bagian pecahannya pas menjadi 1 (naik ke bulat).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian bulat: 1 + 2 = 3.
+  2. Jumlahkan bagian pecahan: ⅖ + ⅗ = 5/5 = 1.
+  3. Tambahkan ke bulat: 3 + 1 = 4.
 
 **31.** Andi punya 2½ m tali, lalu memotong ¾ m. Sisa tali Andi adalah …
 - A. 1¾ m
@@ -559,6 +709,11 @@ Mari ulang opsi rapi:
 - **B** — 1¼, salah kurang pecahan.
 - **C** — 3¼, **menjumlahkan**, bukan mengurangkan.
 - **D** — 2¼, kurang teliti.
+- **Konsep kunci:** Pengurangan pecahan campuran dalam soal cerita panjang tali.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa dan samakan penyebut: 5/2 = 10/4, ¾ = 3/4.
+  2. Kurangkan 10/4 − 3/4 = 7/4.
+  3. Ubah ke campuran: 7/4 = 1¾ m.
 
 **32.** Ibu menggoreng 3¼ kg ikan. Bila tiap penggorengan muat ½ kg, berapa kali penggorengan?
 - A. 6 kali
@@ -572,6 +727,11 @@ Mari ulang opsi rapi:
 - **B** — 3¼ ÷ ½ = 13/4 × 2/1 = 26/4 = 6,5; karena harus utuh, butuh **7 kali** (sisa ¼ kg perlu satu penggorengan) ✓.
 - **C** — 6½ kali, jawaban matematis tetapi tidak masuk akal (penggorengan tidak bisa setengah kali).
 - **D** — 8 kali, kelebihan.
+- **Konsep kunci:** Pembagian pecahan campuran dalam soal cerita perlu dibulatkan ke atas bila ada sisa.
+- **Langkah Penyelesaian:**
+  1. Ubah 3¼ ke biasa = 13/4.
+  2. Bagi dengan ½ (kalikan 2): 13/4 × 2 = 26/4 = 6,5.
+  3. Karena masih ada sisa, bulatkan ke atas menjadi 7 kali.
 
 **33.** 2⅖ × 1⅔ = …
 - A. 4
@@ -585,6 +745,11 @@ Mari ulang opsi rapi:
 - **B** — 3⅙, salah konversi.
 - **C** — 4½, kelebihan.
 - **D** — 2⅖, hanya menulis ulang.
+- **Konsep kunci:** Perkalian dua pecahan campuran, ubah ke biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 12/5 dan 5/3.
+  2. Kalikan: (12×5)/(5×3) = 60/15.
+  3. Sederhanakan 60/15 = 4.
 
 **34.** 3¾ ÷ 1¼ = …
 - A. 3
@@ -601,6 +766,11 @@ Verifikasi: 15/4 ÷ 5/4 = 15/4 × 4/5 = 60/20 = 3 ✓.
 - **B** — 4, salah pembagian.
 - **C** — 4⅔, salah kebalikan.
 - **D** — 3¼, salah hasil sisa.
+- **Konsep kunci:** Pembagian dua pecahan campuran dengan kali kebalikan.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 15/4 dan 5/4.
+  2. Kalikan dengan kebalikan: 15/4 × 4/5.
+  3. Sederhanakan 60/20 = 3.
 
 **35.** Hasil 1⅛ + 2⅜ + 1½ adalah …
 - A. 5
@@ -617,6 +787,11 @@ Verifikasi: 9/8 + 19/8 + 12/8 = 40/8 = 5 ✓.
 - **B** — 4½, lupa salah satu pecahan.
 - **C** — 4⅞, salah jumlah.
 - **D** — 5⅛, kelebihan ⅛.
+- **Konsep kunci:** Penjumlahan tiga pecahan campuran berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke perdelapanan: 9/8, 19/8, 12/8.
+  2. Jumlahkan pembilangnya: 9+19+12 = 40 → 40/8.
+  3. Sederhanakan 40/8 = 5.
 
 **36.** Berapa banyak pecahan campuran berikut yang lebih besar dari 2? **(2¼, 1¾, 2⅕, ⅞ + 1)**
 - A. 1
@@ -631,6 +806,11 @@ Verifikasi: 9/8 + 19/8 + 12/8 = 40/8 = 5 ✓.
 - **B** — 2 ✓.
 - **C** — 3, salah hitung ⅞+1.
 - **D** — 4, asal pilih.
+- **Konsep kunci:** Membandingkan beberapa nilai pecahan campuran terhadap angka 2.
+- **Langkah Penyelesaian:**
+  1. Hitung tiap nilai: 2¼, 1¾, 2⅕, dan ⅞+1 = 1⅞.
+  2. Bandingkan tiap nilai dengan 2.
+  3. Yang lebih besar dari 2 ada 2 buah (2¼ dan 2⅕).
 
 **37.** 4⅙ − 1⅔ = …
 - A. 2½
@@ -647,6 +827,11 @@ Verifikasi: 25/6 − 5/3 = 25/6 − 10/6 = 15/6 = 5/2 = 2½ ✓.
 - **B** — 3⅙, lupa kurang ⅔.
 - **C** — 2⅔, salah selisih.
 - **D** — 5⅚, **menjumlahkan**.
+- **Konsep kunci:** Pengurangan pecahan campuran beda penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 25/6 dan 5/3.
+  2. Samakan penyebut 6: 25/6 − 10/6 = 15/6.
+  3. Sederhanakan dan ubah ke campuran: 15/6 = 5/2 = 2½.
 
 **38.** Hasil 2 + 1¾ adalah …
 - A. 2¾
@@ -660,6 +845,11 @@ Verifikasi: 25/6 − 5/3 = 25/6 − 10/6 = 15/6 = 5/2 = 2½ ✓.
 - **B** — 2 + 1¾ = 3¾ ✓.
 - **C** — 4¾, kelebihan.
 - **D** — 3¼, salah pecahan.
+- **Konsep kunci:** Penjumlahan bilangan bulat dengan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Tambahkan bagian bulat: 2 + 1 = 3.
+  2. Bagian pecahan tetap ¾.
+  3. Gabungkan menjadi 3¾.
 
 **39.** Hasil 5 − 2⅔ adalah …
 - A. 2⅓
@@ -676,6 +866,11 @@ Verifikasi: 15/3 − 8/3 = 7/3 = 2⅓ ✓.
 - **B** — 3⅓, lupa pinjam.
 - **C** — 2⅔, mengulang pecahan pengurang.
 - **D** — 3⅔, salah.
+- **Konsep kunci:** Pengurangan bilangan bulat oleh pecahan campuran, perlu pinjam.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 menjadi pecahan biasa 15/3.
+  2. Ubah 2⅔ ke biasa = 8/3.
+  3. Kurangkan 15/3 − 8/3 = 7/3 = 2⅓.
 
 **40.** Bentuk paling sederhana dari 24/10 sebagai campuran adalah …
 - A. 2 4/10
@@ -692,6 +887,11 @@ Hmm — 24/10 = 12/5 = 2⅖. Kunci memang **B**, dan A juga bernilai sama tetapi
 - **B** — 24/10 = 12/5 = 2⅖ ✓ (sederhana).
 - **C** — 2⅕ = 11/5 ≠ 12/5.
 - **D** — 2½ = 5/2 = 25/10 ≠ 24/10.
+- **Konsep kunci:** Sederhanakan pecahan sebelum menuliskannya sebagai bentuk campuran.
+- **Langkah Penyelesaian:**
+  1. Sederhanakan 24/10 dengan FPB 2 → 12/5.
+  2. Ubah ke campuran: 12 : 5 = 2 sisa 2.
+  3. Hasil paling sederhana 2⅖.
 
 **41.** Sebuah pita 1¼ m disambung dengan pita 2⅜ m. Panjang total adalah …
 - A. 3⅛ m
@@ -708,6 +908,11 @@ Verifikasi: 5/4 + 19/8 = 10/8 + 19/8 = 29/8 = 3⅝ ✓.
 - **B** — 3¼, lupa ⅜.
 - **C** — 3¾, salah penyebut.
 - **D** — 29/8 = 3⅝ ✓.
+- **Konsep kunci:** Penjumlahan pecahan campuran dengan penyebut berbeda (4 dan 8).
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 5/4 dan 19/8.
+  2. Samakan penyebut 8: 10/8 + 19/8 = 29/8.
+  3. Ubah ke campuran: 29/8 = 3⅝.
 
 **42.** Hasil 6⅖ ÷ 2 = …
 - A. 4⅕
@@ -724,6 +929,11 @@ Verifikasi: 32/5 ÷ 2 = 32/10 = 16/5 = 3⅕ ✓.
 - **B** — 3⅗, salah pecahan.
 - **C** — 16/5 = 3⅕ ✓.
 - **D** — 4⅖, kelebihan.
+- **Konsep kunci:** Pembagian pecahan campuran dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 6⅖ ke biasa = 32/5.
+  2. Bagi dengan 2 (kalikan ½): 32/10.
+  3. Sederhanakan dan ubah campuran: 32/10 = 16/5 = 3⅕.
 
 **43.** Manakah pecahan campuran sah (sederhana)?
 - A. 2 6/4
@@ -747,6 +957,11 @@ Tunggu — opsi A "2 6/4" memiliki 6/4 yang bukan pecahan murni → **bukan sah*
 - **B** — 0 3/5: bagian bulat = 0, bukan campuran.
 - **C** — 1⅗: bulat 1, pecahan ⅗ < 1, sah dan sederhana ✓.
 - **D** — 3 8/8: 8/8 = 1, jadi sebenarnya 4 (bukan campuran).
+- **Konsep kunci:** Syarat pecahan campuran sah: bagian bulat minimal 1 dan bagian pecahan harus murni.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi: 6/4 bukan pecahan murni (A gagal), bagian bulat 0 (B gagal), 8/8 = 1 (D bukan campuran).
+  2. Hanya opsi C punya bagian bulat ≥1 dan pecahan murni ⅗.
+  3. Jawaban C.
 
 **44.** Hasil 2½ × 2½ = …
 - A. 4¼
@@ -763,6 +978,11 @@ Verifikasi: 5/2 × 5/2 = 25/4 = 6¼ ✓.
 - **B** — 25/4 = 6¼ ✓.
 - **C** — 5, asal kalikan bulat × 2.
 - **D** — 5¼, salah hitung.
+- **Konsep kunci:** Perkalian dua pecahan campuran yang sama (kuadrat) wajib diubah ke biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah 2½ ke biasa = 5/2.
+  2. Kalikan 5/2 × 5/2 = 25/4.
+  3. Ubah ke campuran: 25/4 = 6¼.
 
 **45.** Hasil 1⅔ + 1⅔ + 1⅔ = …
 - A. 4
@@ -779,6 +999,11 @@ Verifikasi: 3 × 5/3 = 5 ✓.
 - **B** — 3 × 1⅔ = 3 × 5/3 = 5 ✓.
 - **C** — 3⅔, hanya satu pecahan.
 - **D** — 4⅔, salah jumlah pecahan.
+- **Konsep kunci:** Penjumlahan berulang pecahan campuran sama dengan perkalian.
+- **Langkah Penyelesaian:**
+  1. Tulis sebagai perkalian: 3 × 1⅔.
+  2. Ubah 1⅔ ke biasa = 5/3, kalikan dengan 3 = 15/3.
+  3. Sederhanakan 15/3 = 5.
 
 **46.** 3¾ − 1¼ − ½ = …
 - A. 2½
@@ -795,6 +1020,11 @@ Verifikasi: 15/4 − 5/4 − 2/4 = 8/4 = 2 ✓.
 - **B** — 15/4 − 5/4 − 2/4 = 8/4 = 2 ✓.
 - **C** — 1¾, kelebihan kurang.
 - **D** — 2¼, salah kurang.
+- **Konsep kunci:** Operasi pengurangan berurutan pada pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke perempatan: 15/4, 5/4, 2/4.
+  2. Kurangkan berurutan: 15/4 − 5/4 − 2/4 = 8/4.
+  3. Sederhanakan 8/4 = 2.
 
 **47.** Ana berjalan 2⅓ km, lalu Budi berjalan 1⅙ km. Selisih jarak adalah …
 - A. 1⅙ km
@@ -818,6 +1048,11 @@ Verifikasi: 7/3 − 7/6 = 14/6 − 7/6 = 7/6 km = 1⅙ km. **A** dan **D** sama 
 - **B** — 1⅓, salah selisih pecahan.
 - **C** — 3½, **menjumlahkan**.
 - **D** — ½, salah kurang bulat dan pecahan.
+- **Konsep kunci:** Pengurangan pecahan campuran dalam soal cerita selisih jarak.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 7/3 dan 7/6.
+  2. Samakan penyebut 6: 14/6 − 7/6 = 7/6.
+  3. Ubah ke campuran: 7/6 = 1⅙ km.
 
 **48.** 5⅗ ÷ 7 = …
 - A. ⅘
@@ -834,6 +1069,11 @@ Verifikasi: 28/5 ÷ 7 = 28/35 = 4/5 ✓.
 - **B** — ⅗, salah pecahan.
 - **C** — ⅖, salah pembagian.
 - **D** — 1⅗, kelebihan.
+- **Konsep kunci:** Pembagian pecahan campuran bisa menghasilkan pecahan biasa murni (kurang dari 1).
+- **Langkah Penyelesaian:**
+  1. Ubah 5⅗ ke biasa = 28/5.
+  2. Kalikan dengan kebalikan 7, yaitu 1/7: 28/35.
+  3. Sederhanakan 28/35 = 4/5.
 
 **49.** Hasil 1¾ + 2⅛ = …
 - A. 3⅞
@@ -850,6 +1090,11 @@ Verifikasi: 7/4 + 17/8 = 14/8 + 17/8 = 31/8 = 3⅞ ✓.
 - **B** — 3⅝, salah jumlah.
 - **C** — 4⅛, kelebihan.
 - **D** — 3¾, lupa ⅛.
+- **Konsep kunci:** Penjumlahan pecahan campuran dengan penyebut berbeda (4 dan 8).
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 7/4 dan 17/8.
+  2. Samakan penyebut 8: 14/8 + 17/8 = 31/8.
+  3. Ubah ke campuran: 31/8 = 3⅞.
 
 **50.** Bentuk paling sederhana 30/12 sebagai campuran adalah …
 - A. 2½
@@ -866,6 +1111,11 @@ Verifikasi: 30/12 = 5/2 = 2½ ✓.
 - **B** — 2 6/12, benar nilai tetapi tidak sederhana.
 - **C** — 3, salah hasil bagi.
 - **D** — 2 1/12, salah sisa.
+- **Konsep kunci:** Sederhanakan pecahan sebelum menuliskannya sebagai bentuk campuran.
+- **Langkah Penyelesaian:**
+  1. Sederhanakan 30/12 dengan FPB 6 → 5/2.
+  2. Ubah ke campuran: 5 : 2 = 2 sisa 1.
+  3. Hasil 2½.
 
 ---
 
@@ -886,6 +1136,11 @@ Verifikasi: 15/4 × 12/5 = 180/20 = 9 ✓.
 - **B** — 7½, salah kalikan terpisah.
 - **C** — 9⅖, kelebihan.
 - **D** — 8, asal kira-kira.
+- **Konsep kunci:** Perkalian dua pecahan campuran yang hasilnya bilangan bulat utuh.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 15/4 dan 12/5.
+  2. Kalikan: (15×12)/(4×5) = 180/20.
+  3. Sederhanakan 180/20 = 9.
 
 **52.** Hasil 2⅙ + 1⅖ − 3⅒ = …
 - A. ⅔
@@ -902,6 +1157,11 @@ Verifikasi: 13/6 + 7/5 − 31/10. KPK(6,5,10)=30. = 65/30 + 42/30 − 93/30 = 14
 - **B** — 14/30 = 7/15 ✓.
 - **C** — 11/30, salah jumlah.
 - **D** — ⅖ = 12/30, salah.
+- **Konsep kunci:** Operasi campur tambah-kurang tiga pecahan campuran beda penyebut.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 13/6, 7/5, 31/10.
+  2. Samakan penyebut (KPK 30): 65/30 + 42/30 − 93/30.
+  3. Hasil 14/30 = 7/15.
 
 **53.** Sebuah kayu 4⅓ m dipotong menjadi 13 bagian sama. Panjang tiap bagian adalah …
 - A. ⅓ m
@@ -918,6 +1178,11 @@ Verifikasi: 13/3 ÷ 13 = 13/3 × 1/13 = 1/3 ✓.
 - **B** — ¼, salah hitung pembagian.
 - **C** — ½, asumsi tanpa hitung.
 - **D** — ⅙, salah balik pembagi.
+- **Konsep kunci:** Pembagian pecahan campuran dalam soal cerita memotong kayu sama panjang.
+- **Langkah Penyelesaian:**
+  1. Ubah 4⅓ ke biasa = 13/3.
+  2. Bagi dengan 13 (kalikan 1/13): 13/3 × 1/13.
+  3. Sederhanakan hasilnya = 1/3 m.
 
 **54.** Jumlah dari semua pecahan campuran berikut: 1¼, 1½, 1¾ adalah …
 - A. 3½
@@ -934,6 +1199,11 @@ Verifikasi: 5/4 + 6/4 + 7/4 = 18/4 = 4½ ✓.
 - **B** — 4, lupa salah satu.
 - **C** — 18/4 = 4½ ✓.
 - **D** — 5, kelebihan.
+- **Konsep kunci:** Penjumlahan beberapa pecahan campuran berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke perempatan: 5/4, 6/4, 7/4.
+  2. Jumlahkan pembilangnya: 5+6+7 = 18 → 18/4.
+  3. Sederhanakan 18/4 = 4½.
 
 **55.** Jika 2 1/n = 19/8, maka nilai n adalah …
 - A. 6
@@ -962,6 +1232,11 @@ Verifikasi: 2 b/8 = (16 + b)/8 = 19/8 → b = 3 ✓.
 - **B** — 2, salah.
 - **C** — 16 + b = 19 → b = 3 ✓.
 - **D** — 4, kelebihan.
+- **Konsep kunci:** Menyamakan pembilang pada persamaan pecahan campuran sederhana.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 b/8 ke biasa: (16+b)/8.
+  2. Samakan dengan 19/8: 16 + b = 19.
+  3. Selesaikan: b = 3.
 
 **56.** Hasil 5 − (2⅓ + 1⅙) = …
 - A. 1½
@@ -978,6 +1253,11 @@ Verifikasi: 2⅓ + 1⅙ = 14/6 + 7/6 = 21/6 = 7/2 = 3½. 5 − 3½ = 1½ ✓.
 - **B** — 1⅓, salah jumlah dalam kurung.
 - **C** — 1⅙, salah pecahan.
 - **D** — 2½, lupa salah satu pecahan.
+- **Konsep kunci:** Operasi pada pecahan campuran dengan tanda kurung: selesaikan isi kurung dulu.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan isi kurung: 2⅓ + 1⅙ = 14/6 + 7/6 = 21/6 = 3½.
+  2. Kurangkan dari 5: 5 − 3½.
+  3. Hasil = 1½.
 
 **57.** Hasil (2½ + 1¼) × ⅖ = …
 - A. 1½
@@ -1016,6 +1296,11 @@ Verifikasi: 2½ + 1¼ = 15/4. 15/4 × 2/5 = 30/20 = 3/2 = 1½ ✓.
 - **B** — 30/20 = 1½ ✓.
 - **C** — 1¾, salah hasil.
 - **D** — 2, dibulatkan.
+- **Konsep kunci:** Operasi pecahan campuran dengan kurung: jumlahkan dulu, baru kalikan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan isi kurung: 2½ + 1¼ = 15/4.
+  2. Kalikan dengan ⅖: 15/4 × 2/5 = 30/20.
+  3. Sederhanakan 30/20 = 3/2 = 1½.
 
 **58.** Hasil 4½ − 1¾ × 1⅓ = …
 - A. 2½
@@ -1032,6 +1317,11 @@ Verifikasi: 1¾ × 1⅓ = 7/4 × 4/3 = 28/12 = 7/3. 4½ − 7/3 = 9/2 − 7/3 = 
 - **B** — 1⅙, salah pengurangan.
 - **C** — 4, salah perkalian.
 - **D** — 13/6 = 2⅙ ✓.
+- **Konsep kunci:** Urutan operasi hitung campuran: perkalian dikerjakan sebelum pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 1¾ × 1⅓ = 7/4 × 4/3 = 28/12 = 7/3.
+  2. Ubah 4½ ke biasa = 9/2, samakan penyebut 6: 27/6 − 14/6.
+  3. Hasil 13/6 = 2⅙.
 
 **59.** Diketahui x = 2½, y = 1⅔. Nilai 2x − 3y adalah …
 - A. 0
@@ -1048,6 +1338,11 @@ Verifikasi: 2 × 5/2 = 5. 3 × 5/3 = 5. 5 − 5 = 0 ✓.
 - **B** — 5, hanya 2x.
 - **C** — −1, salah hitung.
 - **D** — ½, salah kurang.
+- **Konsep kunci:** Substitusi nilai pecahan campuran ke dalam bentuk aljabar sederhana.
+- **Langkah Penyelesaian:**
+  1. Hitung 2x = 2 × 5/2 = 5.
+  2. Hitung 3y = 3 × 5/3 = 5.
+  3. Kurangkan 5 − 5 = 0.
 
 **60.** Pecahan campuran terbesar yang penyebutnya 6 dan nilainya kurang dari 3½ adalah …
 - A. 3⅙
@@ -1064,6 +1359,11 @@ Verifikasi: 3½ = 21/6 = 3 3/6. Yang kurang dari 3 3/6 dengan penyebut 6: 3 0/6,
 - **B** — 3⅓ = 3 2/6 ✓ (terbesar < 3½).
 - **C** — 3 5/6, lebih besar dari 3½.
 - **D** — 3⅖, penyebut 5 (bukan 6).
+- **Konsep kunci:** Mencari pecahan berpenyebut tertentu yang terbesar namun masih di bawah suatu batas.
+- **Langkah Penyelesaian:**
+  1. Ubah 3½ ke perenam: 3 3/6.
+  2. Cari pecahan berpenyebut 6 terbesar yang kurang dari itu: 3 2/6.
+  3. Sederhanakan 3 2/6 = 3⅓.
 
 **61.** 2⅖ × (1¼ + ⅗) = …
 - A. 4 ⁹⁄₁₀
@@ -1092,6 +1392,11 @@ Verifikasi: 2⅖ = 12/5; 1¼ + ⅗ = 25/20 + 12/20 = 37/20. 12/5 × 37/20 = 444/
 - **B** — 4½, perkiraan.
 - **C** — 4⅖, perkiraan.
 - **D** — 5, dibulatkan.
+- **Konsep kunci:** Operasi pecahan campuran dengan kurung: jumlahkan isi kurung dulu, baru kalikan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan isi kurung: 1¼ + ⅗ = 25/20 + 12/20 = 37/20.
+  2. Kalikan dengan 2⅖ = 12/5: 12/5 × 37/20 = 444/100.
+  3. Sederhanakan dan ubah campuran: 444/100 = 111/25 = 4 11/25.
 
 **62.** Hasil dari 7⅖ − (2¾ + 1⅗) = …
 - A. 3 1/20
@@ -1108,6 +1413,11 @@ Verifikasi: 2¾ + 1⅗ = 11/4 + 8/5 = 55/20 + 32/20 = 87/20. 7⅖ = 148/20. 148/
 - **B** — 3 1/10, salah hitung pecahan.
 - **C** — 3¼, salah pengurangan.
 - **D** — 3½, salah jumlah dalam kurung.
+- **Konsep kunci:** Pengurangan dengan kurung: selesaikan isi kurung terlebih dahulu.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan isi kurung: 2¾ + 1⅗ = 55/20 + 32/20 = 87/20.
+  2. Ubah 7⅖ ke biasa = 148/20.
+  3. Kurangkan 148/20 − 87/20 = 61/20 = 3 1/20.
 
 **63.** Pak Tono memiliki 6¾ ha kebun. Ia menanam jagung di 3⅖ ha dan padi di 2½ ha. Sisa lahan yang belum ditanami adalah …
 - A. 17/20 ha
@@ -1124,6 +1434,11 @@ Verifikasi: 3⅖ + 2½ = 17/5 + 5/2 = 34/10 + 25/10 = 59/10. 6¾ = 27/4 = 67,5/1
 - **B** — ¾ = 15/20, salah hitung.
 - **C** — 1 ha, salah kurang.
 - **D** — ⅗ = 12/20, terlalu kecil.
+- **Konsep kunci:** Pengurangan pecahan campuran dalam soal cerita luas lahan (sisa = total dikurangi jumlah bagian).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian yang sudah ditanami: 3⅖ + 2½ = 34/10 + 25/10 = 59/10.
+  2. Ubah 6¾ ke biasa dan samakan penyebut 20: 135/20 dan 118/20.
+  3. Kurangkan 135/20 − 118/20 = 17/20 ha.
 
 **64.** Dari pecahan campuran berikut, manakah yang nilainya **bulat**?
 - A. 6 0/5
@@ -1150,6 +1465,11 @@ Verifikasi: 6 0/5 = 6; 4 6/3 = 4 + 2 = 6; 3 8/4 = 3 + 2 = 5. Semua bulat ✓.
 - **B** — 4 6/3 = 4 + 2 = 6 (bulat).
 - **C** — 3 8/4 = 3 + 2 = 5 (bulat).
 - **D** — Semua benar ✓.
+- **Konsep kunci:** Mengenali pecahan campuran yang bagian pecahannya bisa disederhanakan menjadi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Sederhanakan tiap opsi: 6 0/5 = 6, 4 6/3 = 4+2 = 6, 3 8/4 = 3+2 = 5.
+  2. Cek semuanya bernilai bulat.
+  3. Jawaban D (semua benar).
 
 **65.** Hasil (2⅓)² = …
 - A. 4⁴⁄₉
@@ -1166,6 +1486,11 @@ Verifikasi: (7/3)² = 49/9 = 5 4/9 ✓.
 - **B** — 49/9 = 5 4/9 ✓.
 - **C** — 4, hanya 2².
 - **D** — 5, salah.
+- **Konsep kunci:** Kuadrat pecahan campuran wajib diubah ke pecahan biasa dulu, bukan dikuadratkan terpisah.
+- **Langkah Penyelesaian:**
+  1. Ubah 2⅓ ke biasa = 7/3.
+  2. Kuadratkan: 7²/3² = 49/9.
+  3. Ubah ke campuran: 49/9 = 5⁴⁄₉.
 
 **66.** Hasil 1¾ + 2½ − 1⅓ × ¾ = …
 - A. 3¼
@@ -1182,6 +1507,11 @@ Verifikasi: 1⅓ × ¾ = 4/3 × 3/4 = 1. 1¾ + 2½ = 7/4 + 5/2 = 7/4 + 10/4 = 17
 - **B** — 2¼, salah operasi (kurang 2).
 - **C** — 2½, salah perkalian.
 - **D** — 3, dibulatkan.
+- **Konsep kunci:** Urutan operasi hitung campuran: perkalian dikerjakan sebelum penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 1⅓ × ¾ = 4/3 × 3/4 = 1.
+  2. Jumlahkan 1¾ + 2½ = 17/4 = 4¼.
+  3. Kurangkan 4¼ − 1 = 3¼.
 
 **67.** Sebuah resep membutuhkan ⅔ cangkir gula per kue. Bila membuat 4½ kue, gula yang diperlukan adalah …
 - A. 3 cangkir
@@ -1198,6 +1528,11 @@ Verifikasi: ⅔ × 4½ = 2/3 × 9/2 = 18/6 = 3 ✓.
 - **B** — 3⅓, salah perkalian.
 - **C** — 2⅓, salah hitung.
 - **D** — 3⅔, kelebihan ⅔.
+- **Konsep kunci:** Perkalian pecahan biasa dengan pecahan campuran dalam soal cerita skala resep.
+- **Langkah Penyelesaian:**
+  1. Ubah 4½ ke biasa = 9/2.
+  2. Kalikan ⅔ × 9/2 = 18/6.
+  3. Sederhanakan 18/6 = 3 cangkir.
 
 **68.** Hasil 3⅖ + 2¾ − 4⅒ = …
 - A. 1 21/20
@@ -1214,6 +1549,11 @@ Verifikasi: 3⅖ = 17/5 = 68/20. 2¾ = 11/4 = 55/20. 4⅒ = 41/10 = 82/20. 68 + 
 - **B** — 41/20 = 2 1/20 ✓.
 - **C** — 2 3/20, salah jumlah.
 - **D** — 1 17/20, salah.
+- **Konsep kunci:** Operasi tambah-kurang tiga pecahan campuran beda penyebut memakai KPK.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke per-duapuluhan: 68/20, 55/20, 82/20.
+  2. Hitung 68 + 55 − 82 = 41.
+  3. Hasil 41/20 = 2 1/20.
 
 **69.** Manakah urutan dari kecil ke besar?
 - A. 2⅓, 2⅖, 2¼
@@ -1230,6 +1570,11 @@ Verifikasi: ¼ = 0,25; ⅓ ≈ 0,33; ⅖ = 0,4. Urutan: 2¼ < 2⅓ < 2⅖ ✓.
 - **B** — ¼ < ⅓ < ⅖ ✓.
 - **C** — salah, 2¼ tidak di tengah.
 - **D** — salah urutan.
+- **Konsep kunci:** Mengurutkan pecahan campuran dengan membandingkan bagian pecahannya.
+- **Langkah Penyelesaian:**
+  1. Semua opsi berbagian bulat sama (2), jadi fokus pada pecahan ¼, ⅓, ⅖.
+  2. Ubah ke desimal: 0,25; 0,33; 0,4.
+  3. Urutkan naik: 2¼ < 2⅓ < 2⅖.
 
 **70.** Selisih antara pecahan campuran terbesar dan terkecil dari {3¼, 2⅗, 4⅙, 3⅔} adalah …
 - A. 1 19/30
@@ -1258,6 +1603,11 @@ Verifikasi: 125/30 − 78/30 = 47/30 = 1 17/30 ✓.
 - **B** — 47/30 = 1 17/30 ✓.
 - **C** — 1 19/30, salah.
 - **D** — 1 23/30, salah.
+- **Konsep kunci:** Mencari selisih nilai terbesar dan terkecil dari sekumpulan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Bandingkan nilai semua opsi, tentukan terbesar (4⅙) dan terkecil (2⅗).
+  2. Ubah ke biasa: 25/6 dan 13/5.
+  3. Samakan penyebut (KPK 30) dan kurangkan: 125/30 − 78/30 = 47/30 = 1 17/30.
 
 **71.** Diketahui A = 2½ + 1⅓ dan B = 4 − 1⅙. Nilai A − B = …
 - A. 0
@@ -1284,6 +1634,11 @@ Verifikasi: 23/6 − 17/6 = 6/6 = 1 ✓.
 - **B** — ½, salah hitung B.
 - **C** — ⅔, salah penyamaan penyebut.
 - **D** — ⅙, salah pengurangan.
+- **Konsep kunci:** Menghitung nilai dua ekspresi pecahan campuran lalu mencari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Hitung A = 2½ + 1⅓ = 5/2 + 4/3 = 23/6.
+  2. Hitung B = 4 − 1⅙ = 24/6 − 7/6 = 17/6.
+  3. Kurangkan A − B = 6/6 = 1.
 
 **72.** Hasil 1½ × 2⅔ × 3¾ = …
 - A. 12
@@ -1300,6 +1655,11 @@ Verifikasi: 3/2 × 8/3 × 15/4 = (3 × 8 × 15)/(2 × 3 × 4) = 360/24 = 15 ✓.
 - **B** — 360/24 = 15 ✓.
 - **C** — 18, asal kira.
 - **D** — 20, asal kira.
+- **Konsep kunci:** Perkalian tiga pecahan campuran sekaligus, ubah semua ke biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 3/2, 8/3, 15/4.
+  2. Kalikan semuanya: (3×8×15)/(2×3×4) = 360/24.
+  3. Sederhanakan 360/24 = 15.
 
 **73.** Jika ¾ x = 2¼, maka x = …
 - A. 1¾
@@ -1316,6 +1676,11 @@ Verifikasi: x = 2¼ ÷ ¾ = 9/4 × 4/3 = 36/12 = 3 ✓.
 - **B** — 2, salah hitung.
 - **C** — 3 ✓.
 - **D** — 3¼, hampir benar.
+- **Konsep kunci:** Menyelesaikan persamaan pecahan campuran dengan pembagian.
+- **Langkah Penyelesaian:**
+  1. Ubah 2¼ ke biasa = 9/4.
+  2. Bagi kedua ruas dengan ¾, yaitu kalikan kebalikan 4/3: x = 9/4 × 4/3.
+  3. Sederhanakan x = 36/12 = 3.
 
 **74.** Sebuah tangki air berisi 12⅖ liter. Setiap pemakaian menghabiskan 1⅗ liter. Berapa kali pemakaian sampai tangki kosong?
 - A. 7
@@ -1332,6 +1697,11 @@ Verifikasi: 12⅖ ÷ 1⅗ = 62/5 ÷ 8/5 = 62/5 × 5/8 = 62/8 = 31/4 = 7¾ ✓.
 - **B** — 7¾ kali ✓.
 - **C** — 8, kelebihan.
 - **D** — 7½, salah hitung.
+- **Konsep kunci:** Pembagian pecahan campuran dalam soal cerita pemakaian berulang.
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 62/5 dan 8/5.
+  2. Kalikan dengan kebalikan: 62/5 × 5/8 = 62/8.
+  3. Sederhanakan dan ubah campuran: 62/8 = 31/4 = 7¾ kali.
 
 **75.** Hasil 2⅓ + 1¼ + ⅙ = …
 - A. 3¾
@@ -1356,6 +1726,11 @@ Verifikasi: 2⅓ + 1¼ + ⅙ = 28/12 + 15/12 + 2/12 = 45/12 = 15/4 = 3¾ ✓.
 - **B** — 45/12 = 3¾ ✓.
 - **C** — 3⅚, salah penyebut.
 - **D** — 4, dibulatkan.
+- **Konsep kunci:** Penjumlahan tiga pecahan campuran beda penyebut memakai KPK.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke per-duabelasan: 28/12, 15/12, 2/12.
+  2. Jumlahkan pembilangnya: 28+15+2 = 45 → 45/12.
+  3. Sederhanakan 45/12 = 15/4 = 3¾.
 
 **76.** Sebuah perjalanan 27½ km ditempuh dengan kecepatan 7⅓ km/jam. Lama perjalanan adalah …
 - A. 3¾ jam
@@ -1372,6 +1747,11 @@ Verifikasi: 27½ ÷ 7⅓ = 55/2 ÷ 22/3 = 55/2 × 3/22 = 165/44 = 15/4 = 3¾ ✓
 - **B** — 3⅔, salah hitung.
 - **C** — 3¼, salah pembagian.
 - **D** — 4, dibulatkan.
+- **Konsep kunci:** Pembagian pecahan campuran untuk mencari waktu (waktu = jarak ÷ kecepatan).
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa: 55/2 dan 22/3.
+  2. Kalikan dengan kebalikan: 55/2 × 3/22.
+  3. Sederhanakan 165/44 = 3¾ jam.
 
 **77.** Hasil 1¼ + 2⅗ × 1⅓ = …
 - A. 4 41/60
@@ -1402,6 +1782,11 @@ Verifikasi: kali dulu: 2⅗ × 1⅓ = 52/15. Tambah 5/4: (75 + 208)/60 = 283/60 
 - **B** — 283/60 = 4 43/60 ✓.
 - **C** — 5, dibulatkan.
 - **D** — 4 41/60, salah.
+- **Konsep kunci:** Urutan operasi hitung campuran: perkalian dikerjakan sebelum penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 2⅗ × 1⅓ = 13/5 × 4/3 = 52/15.
+  2. Ubah 1¼ ke biasa = 5/4, samakan penyebut 60: 75/60 dan 208/60.
+  3. Jumlahkan 283/60 = 4 43/60.
 
 **78.** Jika n adalah bilangan bulat dan 2 n/5 = 13/5, maka n = …
 - A. 1
@@ -1418,6 +1803,11 @@ Verifikasi: 2 n/5 = (10+n)/5 = 13/5 → n = 3 ✓.
 - **B** — 2, salah.
 - **C** — n = 3 ✓.
 - **D** — 4, kelebihan.
+- **Konsep kunci:** Menyamakan pembilang pada persamaan pecahan campuran sederhana.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 n/5 ke biasa: (10+n)/5.
+  2. Samakan dengan 13/5: 10 + n = 13.
+  3. Selesaikan n = 3.
 
 **79.** Hasil 3 − ¾ × 2⅓ + 1½ = …
 - A. 2¾
@@ -1434,6 +1824,11 @@ Verifikasi: ¾ × 2⅓ = 3/4 × 7/3 = 21/12 = 7/4. 3 − 7/4 + 3/2 = 12/4 − 7/
 - **B** — 2¼, salah perkalian.
 - **C** — 1¾, salah operasi.
 - **D** — 1¼, salah hitung.
+- **Konsep kunci:** Urutan operasi campuran: kalikan dulu, baru kurangi dan tambah dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: ¾ × 2⅓ = 3/4 × 7/3 = 7/4.
+  2. Samakan penyebut 4: 12/4 − 7/4 + 6/4.
+  3. Hasil 11/4 = 2¾.
 
 **80.** Tiga anak berbagi 7½ batang coklat sama banyak. Tiap anak mendapat …
 - A. 2 batang
@@ -1450,6 +1845,11 @@ Verifikasi: 7½ ÷ 3 = 15/2 ÷ 3 = 15/6 = 5/2 = 2½ ✓.
 - **B** — 2¼, salah pembagian.
 - **C** — 2½ batang ✓.
 - **D** — 3 batang, kelebihan.
+- **Konsep kunci:** Pembagian pecahan campuran untuk membagi rata dalam soal cerita.
+- **Langkah Penyelesaian:**
+  1. Ubah 7½ ke biasa = 15/2.
+  2. Bagi dengan 3 (kalikan 1/3): 15/6.
+  3. Sederhanakan 15/6 = 5/2 = 2½ batang.
 
 ---
 
@@ -1470,6 +1870,11 @@ Verifikasi: x = 5¼ − 2⅓ = 21/4 − 7/3 = 63/12 − 28/12 = 35/12 = 2 11/12 
 - **B** — 35/12 = 2 11/12 ✓.
 - **C** — 3, dibulatkan.
 - **D** — 2⅔, salah.
+- **Konsep kunci:** Menyelesaikan persamaan dengan pengurangan pecahan campuran beda penyebut.
+- **Langkah Penyelesaian:**
+  1. Pindahkan suku: x = 5¼ − 2⅓.
+  2. Ubah ke biasa dan samakan penyebut 12: 63/12 − 28/12.
+  3. Hasil 35/12 = 2 11/12.
 
 **82.** Jika 1 + 1/1 + 1/(1+1) + 1/(1+1+1) = a/b/c (campuran), maka nilainya adalah …
 - A. 2⅚
@@ -1486,6 +1891,11 @@ Verifikasi: 1 + 1 + ½ + ⅓ = 2 + 5/6 = 2⅚ ✓.
 - **B** — 1⅚, lupa satu suku.
 - **C** — 2½, lupa ⅓.
 - **D** — 2⅔, salah jumlah.
+- **Konsep kunci:** Menjumlahkan deret pecahan bertingkat menjadi bentuk campuran.
+- **Langkah Penyelesaian:**
+  1. Sederhanakan tiap suku: 1/1 = 1, 1/(1+1) = ½, 1/(1+1+1) = ⅓.
+  2. Jumlahkan semua: 1 + 1 + ½ + ⅓.
+  3. Samakan penyebut 6: 2 + 3/6 + 2/6 = 2⅚.
 
 **83.** Lima belas batang kayu sama panjang disambung lalu dipotong jadi 4 bagian sama. Jika tiap batang awal 3¼ m, panjang tiap potongan akhir adalah …
 - A. 12 1/16 m
@@ -1502,6 +1912,11 @@ Verifikasi: Total = 15 × 3¼ = 15 × 13/4 = 195/4. Potong jadi 4 → (195/4)/4 
 - **B** — 195/16 = 12 3/16 ✓.
 - **C** — 12⅛, perkiraan.
 - **D** — 12¼, salah hitung.
+- **Konsep kunci:** Gabungan perkalian dan pembagian pecahan campuran dalam soal cerita menyambung dan memotong.
+- **Langkah Penyelesaian:**
+  1. Hitung total panjang: 15 × 3¼ = 15 × 13/4 = 195/4.
+  2. Bagi menjadi 4 bagian: 195/4 ÷ 4 = 195/16.
+  3. Ubah ke campuran: 195/16 = 12 3/16 m.
 
 **84.** Diketahui pecahan campuran 1½, 2⅓, 3¼, 4⅕, 5⅙. Jumlah semua bagian pecahan murni saja (½ + ⅓ + ¼ + ⅕ + ⅙) adalah …
 - A. 1 17/20
@@ -1527,6 +1942,11 @@ Hmm, jadi yang benar 1 27/60. Sesuaikan kunci:
 - **B** — 30+20+15+12+10 = 87/60 = 1 27/60 ✓.
 - **C** — 1 17/20 = 1 51/60, kelebihan.
 - **D** — 1 16/20, salah penyebut.
+- **Konsep kunci:** Menjumlahkan banyak pecahan biasa berbeda penyebut sekaligus memakai KPK gabungan.
+- **Langkah Penyelesaian:**
+  1. Cari KPK(2,3,4,5,6) = 60.
+  2. Ubah tiap pecahan ke per-enampuluhan lalu jumlahkan: 30+20+15+12+10 = 87.
+  3. Hasil 87/60 = 1 27/60.
 
 **85.** Hasil 1 + ½ + ¼ + ⅛ + ⅟₁₆ + ⅟₃₂ = …
 - A. 1 31/32
@@ -1555,6 +1975,11 @@ Verifikasi: Total = 63/32 = 1 31/32 ✓. Bentuk campuran paling rapi = **B**.
 - **B** — 63/32 = 1 31/32 ✓.
 - **C** — 2 1/32, salah jumlah.
 - **D** — 63/32, **benar nilainya** tetapi bukan bentuk campuran.
+- **Konsep kunci:** Deret pecahan yang tiap sukunya setengah dari suku sebelumnya (deret geometri) mendekati 2.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sebagai deret geometri: total = 2 − 1/32.
+  2. Hitung 2 − 1/32 = 63/32.
+  3. Ubah ke campuran: 63/32 = 1 31/32.
 
 **86.** Carilah nilai N agar 2 N/7 = 23/7.
 - A. 7
@@ -1571,6 +1996,11 @@ Verifikasi: 2 N/7 = (14 + N)/7 = 23/7 → N = 9 ✓. (Catatan: secara teknis 9/7
 - **B** — 8, salah.
 - **C** — 14 + N = 23 → N = 9 ✓.
 - **D** — 10, kelebihan.
+- **Konsep kunci:** Menyamakan pembilang pada persamaan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 N/7 ke biasa: (14+N)/7.
+  2. Samakan dengan 23/7: 14 + N = 23.
+  3. Selesaikan N = 9.
 
 **87.** Sebuah jam pasir berputar setiap 1⅔ menit. Dalam 50 menit, berapa kali jam pasir berputar?
 - A. 25
@@ -1587,6 +2017,11 @@ Verifikasi: 50 ÷ 5/3 = 50 × 3/5 = 30 ✓.
 - **B** — 30 ✓.
 - **C** — 35, salah hitung.
 - **D** — 28, salah.
+- **Konsep kunci:** Pembagian untuk mencari banyak pengulangan dari total waktu.
+- **Langkah Penyelesaian:**
+  1. Ubah 1⅔ ke biasa = 5/3.
+  2. Bagi 50 dengan kebalikannya: 50 × 3/5.
+  3. Hasil = 30 kali.
 
 **88.** Jika a = 1⅖, b = 2⅔, hitung 3a − 2b.
 - A. 1 1/15
@@ -1615,6 +2050,11 @@ Verifikasi: 63/15 − 80/15 = −17/15 = −1 2/15. Tunggu, −17/15 = −1 2/15
 - **B** — 63/15 − 80/15 = −17/15 ✓.
 - **C** — ⅕ = 3/15, salah.
 - **D** — −⅕, salah hitung.
+- **Konsep kunci:** Substitusi dan operasi pecahan campuran yang menghasilkan nilai negatif.
+- **Langkah Penyelesaian:**
+  1. Hitung 3a = 3 × 7/5 = 21/5 = 63/15.
+  2. Hitung 2b = 2 × 8/3 = 16/3 = 80/15.
+  3. Kurangkan 63/15 − 80/15 = −17/15.
 
 **89.** Manakah bentuk paling sederhana 75/12 sebagai campuran?
 - A. 6¼
@@ -1639,6 +2079,11 @@ Verifikasi: 75/12 = 25/4 = 6¼ ✓.
 - **B** — 6 3/12 = nilai sama tetapi tidak sederhana.
 - **C** — 6½, salah.
 - **D** — 5¾, salah.
+- **Konsep kunci:** Sederhanakan pecahan sebelum menuliskannya sebagai bentuk campuran.
+- **Langkah Penyelesaian:**
+  1. Sederhanakan 75/12 dengan FPB 3 → 25/4.
+  2. Ubah ke campuran: 25 : 4 = 6 sisa 1.
+  3. Hasil 6¼.
 
 **90.** Hasil dari rangkaian: 1¼ + 1½ + 1¾ + 2 + 2¼ + 2½ adalah …
 - A. 10½
@@ -1655,6 +2100,11 @@ Hmm tunggu, hitung: 1¼+1½+1¾+2+2¼+2½. Konversi ke seperempat: 5/4 + 6/4 + 7
 - **B** — 45/4 = 11¼ ✓.
 - **C** — 12, dibulatkan.
 - **D** — 11½, salah.
+- **Konsep kunci:** Menjumlahkan deret pecahan campuran berpenyebut sama dengan pola naik ¼.
+- **Langkah Penyelesaian:**
+  1. Ubah semua suku ke perempatan: 5, 6, 7, 8, 9, 10 (per 4).
+  2. Jumlahkan pembilangnya: 5+6+7+8+9+10 = 45.
+  3. Hasil 45/4 = 11¼.
 
 **91.** Jika pecahan campuran a = 3⅔ dan b = 1 13/15, maka a − b = …
 - A. 1 4/5
@@ -1681,6 +2131,11 @@ Verifikasi: 55/15 − 28/15 = 27/15 = 9/5 = 1⅘ ✓.
 - **B** — 1⅓, salah.
 - **C** — 27/15 = 9/5 = 1⅘ ✓.
 - **D** — 2, dibulatkan.
+- **Konsep kunci:** Pengurangan pecahan campuran beda penyebut (3 dan 15).
+- **Langkah Penyelesaian:**
+  1. Ubah ke biasa dengan penyebut 15: 55/15 dan 28/15.
+  2. Kurangkan 55/15 − 28/15 = 27/15.
+  3. Sederhanakan dan ubah campuran: 27/15 = 9/5 = 1⅘.
 
 **92.** Jika 1¼ + (1¼)² + (1¼)³ = …
 - A. 4 21/64
@@ -1697,6 +2152,11 @@ Verifikasi: 1¼ = 5/4. (5/4)² = 25/16. (5/4)³ = 125/64. Total: 5/4 + 25/16 + 1
 - **B** — 4 41/64, salah.
 - **C** — 4 33/64, salah.
 - **D** — 305/64 = 4 49/64 ✓.
+- **Konsep kunci:** Menjumlahkan pangkat-pangkat pecahan campuran, ubah ke biasa dulu.
+- **Langkah Penyelesaian:**
+  1. Ubah 1¼ ke biasa = 5/4, hitung pangkatnya: (5/4)² = 25/16, (5/4)³ = 125/64.
+  2. Samakan penyebut 64: 80/64 + 100/64 + 125/64.
+  3. Jumlahkan = 305/64 = 4 49/64.
 
 **93.** Dua tangki air masing-masing berisi 12¼ liter dan 8⅓ liter. Bila digabung lalu dibagi rata ke 5 ember, isi tiap ember adalah …
 - A. 4 7/60
@@ -1722,6 +2182,11 @@ Periksa: 247 ÷ 60: 60 × 4 = 240; sisa 7; jadi 4 7/60. Kunci sebenarnya **A**.
 - **B** — 4 11/60, salah hitung.
 - **C** — 4 1/12, salah pembagian.
 - **D** — 4¼, perkiraan.
+- **Konsep kunci:** Menjumlahkan lalu membagi rata pecahan campuran dalam soal cerita.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan isi tangki: 12¼ + 8⅓ = 147/12 + 100/12 = 247/12.
+  2. Bagi rata ke 5 ember: 247/12 ÷ 5 = 247/60.
+  3. Ubah ke campuran: 247/60 = 4 7/60.
 
 **94.** Pecahan campuran a dan b memenuhi a + b = 7⅓ dan a − b = 1⅕. Nilai a × b = …
 - A. 13 8/9
@@ -1747,6 +2212,11 @@ Tidak match opsi. Sesuaikan kunci:
 - **B** — 13 8/15, salah penyebut.
 - **C** — 13 4/9, salah hitung.
 - **D** — 13½, perkiraan.
+- **Konsep kunci:** Mencari dua bilangan dari jumlah dan selisihnya, lalu mengalikan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung a = (jumlah + selisih) ÷ 2 = (22/3 + 6/5) ÷ 2 = 64/15.
+  2. Hitung b = (jumlah − selisih) ÷ 2 = 46/15.
+  3. Kalikan a × b = 64/15 × 46/15 = 2944/225 = 13 19/225.
 
 **95.** Bila 1/(1 + 1/(1 + ½)) ditulis sebagai pecahan campuran (atau biasa sederhana), hasilnya adalah …
 - A. ⅔
@@ -1772,6 +2242,11 @@ Hmm B dan D sama (⅗ = 3/5). Sesuaikan opsi:
 - **B** — 1/(5/3) = 3/5 = ⅗ ✓.
 - **C** — ⅖, salah hitung.
 - **D** — ¾, asal pilih.
+- **Konsep kunci:** Menyelesaikan pecahan bersarang (kontinu) dari lapisan dalam ke luar.
+- **Langkah Penyelesaian:**
+  1. Selesaikan lapisan dalam: 1 + ½ = 3/2, lalu 1/(3/2) = ⅔.
+  2. Lapisan luar: 1 + ⅔ = 5/3.
+  3. Hasil akhir 1/(5/3) = ⅗.
 
 **96.** Pak Hasan punya 5⅖ kg beras. Setiap hari dipakai 3/10 kg. Beras habis dalam … hari.
 - A. 16
@@ -1788,6 +2263,11 @@ Verifikasi: 5⅖ ÷ 3/10 = 27/5 × 10/3 = 270/15 = 18 ✓.
 - **B** — 17, salah.
 - **C** — 18 hari ✓.
 - **D** — 19, kelebihan.
+- **Konsep kunci:** Pembagian pecahan campuran oleh pecahan biasa untuk mencari jumlah hari.
+- **Langkah Penyelesaian:**
+  1. Ubah 5⅖ ke biasa = 27/5.
+  2. Kalikan dengan kebalikan 3/10, yaitu 10/3: 27/5 × 10/3.
+  3. Sederhanakan 270/15 = 18 hari.
 
 **97.** Hasil 1¾ × 2⅔ ÷ 1⅓ = …
 - A. 3
@@ -1804,6 +2284,11 @@ Verifikasi: 7/4 × 8/3 ÷ 4/3 = 7/4 × 8/3 × 3/4 = (7×8×3)/(4×3×4) = 168/48
 - **B** — 168/48 = 3½ ✓.
 - **C** — 4½, salah balik.
 - **D** — 5, asal.
+- **Konsep kunci:** Operasi gabungan kali dan bagi pecahan campuran dikerjakan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Ubah semua ke biasa: 7/4, 8/3, 4/3.
+  2. Ubah pembagian jadi perkalian kebalikan: 7/4 × 8/3 × 3/4.
+  3. Sederhanakan (7×8×3)/(4×3×4) = 168/48 = 3½.
 
 **98.** Jumlah a dan kebalikannya adalah 2 1/6, dengan a > 1. Nilai a adalah …
 - A. 1⅓
@@ -1820,6 +2305,11 @@ Verifikasi: a + 1/a = 13/6. Kalikan 6a: 6a² − 13a + 6 = 0. Faktorkan: (3a −
 - **B** — 6a² − 13a + 6 = 0 → a = 3/2 = 1½ ✓.
 - **C** — 1⅙, asal.
 - **D** — 1⅖, asal.
+- **Konsep kunci:** Menyelesaikan persamaan pecahan campuran berbentuk kuadrat (bilangan dan kebalikannya).
+- **Langkah Penyelesaian:**
+  1. Ubah menjadi persamaan kuadrat: 6a² − 13a + 6 = 0.
+  2. Faktorkan: (3a−2)(2a−3) = 0.
+  3. Pilih akar yang a > 1 → a = 3/2 = 1½.
 
 **99.** Hasil dari (1½ + 1⅓) × (1½ − 1⅓) = …
 - A. 17/36
@@ -1836,6 +2326,11 @@ Verifikasi: (a+b)(a−b) = a² − b² = (1½)² − (1⅓)² = 9/4 − 16/9 = 8
 - **B** — 5/36, salah kuadrat.
 - **C** — ⅙ = 6/36, salah.
 - **D** — ⅓, salah.
+- **Konsep kunci:** Pola selisih kuadrat (a+b)(a−b) = a² − b² pada pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Kenali bentuk (a+b)(a−b) = a² − b².
+  2. Hitung (1½)² = 9/4 dan (1⅓)² = 16/9.
+  3. Samakan penyebut 36 dan kurangkan: 81/36 − 64/36 = 17/36.
 
 **100.** Total pecahan campuran berikut: 1½ + 2½ + 3½ + 4½ + 5½ = …
 - A. 16½
@@ -1852,6 +2347,11 @@ Verifikasi: bulat = 1+2+3+4+5 = 15; pecahan = 5 × ½ = 2,5; total = 17½ ✓.
 - **B** — 15 + 2½ = 17½ ✓.
 - **C** — 18, dibulatkan.
 - **D** — 17, lupa ½.
+- **Konsep kunci:** Menjumlahkan deret pecahan campuran dengan pola bulat naik dan bagian pecahan sama.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian bulat: 1+2+3+4+5 = 15.
+  2. Jumlahkan bagian pecahan: 5 × ½ = 2½.
+  3. Tambahkan 15 + 2½ = 17½.
 
 ---
 

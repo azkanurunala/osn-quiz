@@ -113,6 +113,12 @@ D. 7,6
 - C) Mengabaikan koma sepenuhnya: 34 + 52 = 86. Lupa hasil harus desimal.
 - D) Salah hitung digit depan koma (3 + 5 = 7 ditulis sebagai 8 – 1). Kekurangan 1 di puluhan, kemungkinan tertukar dengan pengurangan.
 
+- **Konsep kunci:** Penjumlahan desimal dilakukan dengan menyamakan (mensejajarkan) posisi koma.
+- **Langkah Penyelesaian:**
+  1. Susun 3,4 dan 5,2 dengan koma segaris.
+  2. Jumlahkan digit di belakang koma: 4 + 2 = 6.
+  3. Jumlahkan digit di depan koma: 3 + 5 = 8, sehingga hasilnya 8,6.
+
 ---
 
 **2.** Hasil dari 7,8 − 2,5 adalah ...
@@ -129,6 +135,12 @@ D. 10,3
 - B) **BENAR**. Susun rata koma: 8 − 5 = 3 (belakang koma); 7 − 2 = 5 (depan koma). Hasil **5,3**.
 - C) Menyisipkan nol "salah tempat", menulis hasil seolah 5,03. Posisi nilai tempat kacau.
 - D) Salah operasi: dijumlahkan, bukan dikurangkan: 7,8 + 2,5 = 10,3.
+
+- **Konsep kunci:** Pengurangan desimal juga dilakukan dengan menyamakan posisi koma sebelum dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Susun 7,8 dan 2,5 dengan koma segaris.
+  2. Kurangkan digit di belakang koma: 8 − 5 = 3.
+  3. Kurangkan digit di depan koma: 7 − 2 = 5, sehingga hasilnya 5,3.
 
 ---
 
@@ -147,6 +159,12 @@ D. 7,5
 - C) **BENAR**. Susun 4,75 + 2,30 (tambahkan nol pengisi). 5 + 0 = 5; 7 + 3 = 10 → tulis 0, simpan 1; 4 + 2 + 1 = 7. Hasil **7,05**.
 - D) Mengabaikan digit terakhir: menjumlah 4,7 + 2,8 = 7,5 (salah membaca 4,75 sebagai 4,7 lalu digenapkan).
 
+- **Konsep kunci:** Jika jumlah digit di belakang koma berbeda, tambahkan nol pengisi agar sejajar sebelum dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Tulis 2,3 sebagai 2,30 agar jumlah digitnya sama dengan 4,75.
+  2. Jumlahkan dari kanan: 5 + 0 = 5; 7 + 3 = 10 (tulis 0, simpan 1).
+  3. Jumlahkan digit depan koma dengan simpanan: 4 + 2 + 1 = 7, hasil 7,05.
+
 ---
 
 **4.** Hasil dari 9,2 − 3,75 adalah ...
@@ -163,6 +181,12 @@ D. 5,45
 - B) Tidak meminjam dengan benar: salah lihat 9 − 3 = 6 saja, lalu 75 − 20 = 55. Tidak memperhitungkan pinjaman.
 - C) Salah pinjam: digit pertama (kanan) di belakang koma diisi 5, digit kedua juga 5 → 5,55. Mengabaikan satu pengurangan.
 - D) **BENAR**. Tulis 9,20 − 3,75. Mulai dari kanan: 0 − 5 tak bisa, pinjam dari 2 → jadi 10 − 5 = 5. 2 jadi 1; 1 − 7 tak bisa, pinjam dari 9 → 11 − 7 = 4. 9 jadi 8; 8 − 3 = 5. Hasil **5,45**.
+
+- **Konsep kunci:** Pengurangan desimal dengan nol pengisi kadang memerlukan teknik meminjam seperti pada bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Tulis 9,20 − 3,75 (tambahkan nol pengisi pada 9,2).
+  2. Kurangkan dari kanan sambil meminjam saat perlu: 0 − 5 → pinjam jadi 10 − 5 = 5; 1 − 7 → pinjam jadi 11 − 7 = 4.
+  3. Kurangkan sisa depan koma: 8 − 3 = 5, hasil 5,45.
 
 ---
 
@@ -181,6 +205,12 @@ D. 20,06
 - C) **BENAR**. Tulis 12,06 + 7,90. 6 + 0 = 6; 0 + 9 = 9; 2 + 7 = 9; 1 + 0 = 1. Hasil **19,96**.
 - D) Menjumlahkan dengan menambahkan 8 (membulatkan 7,9 jadi 8): 12,06 + 8 = 20,06.
 
+- **Konsep kunci:** Nol pengisi wajib ditambahkan agar setiap kolom nilai tempat terisi sebelum dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Tulis 7,9 sebagai 7,90 agar sejajar dengan 12,06.
+  2. Jumlahkan tiap kolom dari kanan: 6+0=6, 0+9=9.
+  3. Jumlahkan sisanya: 2+7=9, 1+0=1, hasil 19,96.
+
 ---
 
 **6.** Hasil dari 25 − 8,4 adalah ...
@@ -197,6 +227,12 @@ D. 17,4
 - B) **BENAR**. Tulis 25,0 − 8,4. 0 − 4 tak bisa, pinjam dari 5 → 10 − 4 = 6. 5 jadi 4; 4 − 8 tak bisa, pinjam dari 2 → 14 − 8 = 6. 2 jadi 1. Hasil **16,6**.
 - C) Salah angka belakang koma: 0 − 4 dianggap 4 saja (tanpa pinjam). Pengurangan tidak konsisten.
 - D) Memindahkan koma keliru pada 8,4 (dibaca sebagai 0,84) lalu 25 − 0,84 ≈ 24,16 — tetapi yang dipilih distractor dekat. Atau salah pinjam sederhana.
+
+- **Konsep kunci:** Bilangan bulat perlu ditulis dengan koma dan nol pengisi sebelum dikurangi dengan bilangan desimal.
+- **Langkah Penyelesaian:**
+  1. Tulis 25 sebagai 25,0.
+  2. Kurangkan sambil meminjam: 0 − 4 → pinjam jadi 10 − 4 = 6.
+  3. Lanjutkan pinjaman ke puluhan: 4 − 8 → pinjam jadi 14 − 8 = 6, hasil 16,6.
 
 ---
 
@@ -215,6 +251,12 @@ D. 6,995
 - C) Menjumlahkan 6,005 + 0,909 (urutan digit salah). Salah salin nol.
 - D) **BENAR**. Tulis 6,005 + 0,990. 5 + 0 = 5; 0 + 9 = 9; 0 + 9 = 9; 6 + 0 = 6. Hasil **6,995**.
 
+- **Konsep kunci:** Nilai tempat tiap digit di belakang koma harus dijaga saat menjumlahkan desimal dengan jumlah digit berbeda.
+- **Langkah Penyelesaian:**
+  1. Tulis 0,99 sebagai 0,990 agar sejajar dengan 6,005.
+  2. Jumlahkan dari kanan: 5+0=5, 0+9=9, 0+9=9.
+  3. Jumlahkan digit depan koma: 6+0=6, hasil 6,995.
+
 ---
 
 **8.** Hasil dari 100 − 37,5 adalah ...
@@ -231,6 +273,12 @@ D. 63,5
 - B) Salah pinjam besar: 100 − 37 = 63, lalu malah ditulis 73,5 (tertukar 6 dan 7 di posisi puluhan).
 - C) **BENAR**. Tulis 100,0 − 37,5. 0 − 5 tak bisa, pinjam dari 0 (yang juga 0, harus rantai pinjam): 10 − 5 = 5; rantai pinjam → puluhan 9; 9 − 7 = 2; 9 − 3 = 6. Hasil **62,5**.
 - D) Pinjam dirantai tidak benar: hasil 63,5 bukannya 62,5 (puluhan jadi 6 tetapi satuan jadi 3 padahal seharusnya 2).
+
+- **Konsep kunci:** Pengurangan dari bilangan bulat besar memerlukan pinjaman berantai melalui beberapa angka nol.
+- **Langkah Penyelesaian:**
+  1. Tulis 100 sebagai 100,0.
+  2. Kurangkan dari kanan dengan pinjaman berantai dari puluhan dan ratusan.
+  3. Hasil akhir setelah pinjaman berantai adalah 62,5.
 
 ---
 
@@ -249,6 +297,12 @@ D. 0,085
 - C) Menjumlahkan tanpa memperhatikan nilai tempat: 8 + 7 = 15 → ditulis sebagai 1 dengan simpan 5 di tempat salah.
 - D) Salah baca 0,8 sebagai 0,008: 0,008 + 0,07 + 0,005 = 0,083 (dekat 0,085 dengan kesalahan kecil).
 
+- **Konsep kunci:** Menjumlahkan beberapa desimal dengan jumlah digit berbeda memerlukan penyamaan digit dengan nol pengisi.
+- **Langkah Penyelesaian:**
+  1. Tulis 0,800 + 0,070 + 0,005 (samakan jumlah digit).
+  2. Jumlahkan tiap kolom dari kanan: 0+0+5=5, 0+7+0=7.
+  3. Jumlahkan kolom terakhir: 8+0+0=8, hasil 0,875.
+
 ---
 
 **10.** Hasil dari 14,3 − 9,85 adalah ...
@@ -265,6 +319,12 @@ D. 5,45
 - B) Tidak meminjam sama sekali untuk puluhan: 14 − 9 = 5, lalu lupa pengurangan 1 setelah pinjam. Hasil 5,55.
 - C) **BENAR**. Tulis 14,30 − 9,85. 0 − 5 → pinjam, jadi 10 − 5 = 5; 3 jadi 2; 2 − 8 → pinjam, 12 − 8 = 4; 3 jadi 2 turun lagi → 14 jadi 13; 13 − 9 = 4. Hasil **4,45**.
 - D) Salah belakang koma: 0 − 5 = 5 (dengan pinjam benar) tetapi 3 − 8 langsung dianggap 5 tanpa pinjam tepat. Hasil 5,45.
+
+- **Konsep kunci:** Pengurangan desimal dengan pinjaman berantai perlu dilakukan hati-hati dari kanan ke kiri.
+- **Langkah Penyelesaian:**
+  1. Tulis 14,30 − 9,85 (tambahkan nol pengisi).
+  2. Kurangkan dari kanan dengan meminjam bertahap hingga ke puluhan.
+  3. Hasil akhir setelah pinjaman berantai adalah 4,45.
 
 ---
 
@@ -285,6 +345,12 @@ D. 0,008
 - C) Tidak menempatkan koma sama sekali: hanya 4 × 2 = 8.
 - D) Menghitung 3 digit koma (kelebihan satu). Salah total digit di belakang koma.
 
+- **Konsep kunci:** Perkalian desimal: kalikan dulu seperti bilangan bulat, lalu tempatkan koma sesuai total digit di belakang koma kedua bilangan.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma, kalikan seperti bilangan bulat: 4 × 2 = 8.
+  2. Hitung total digit di belakang koma pada kedua bilangan asli: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan pada hasil → 0,08.
+
 ---
 
 **12.** Hasil dari 1,5 × 6 adalah ...
@@ -301,6 +367,12 @@ D. 9
 - B) Letakkan koma 2 langkah (salah hitung total digit; mengira 6 juga ada koma). Hasil 0,90.
 - C) Tidak menempatkan koma sama sekali. Lupa 1,5 punya 1 digit koma.
 - D) **BENAR**. Abaikan koma: 15 × 6 = 90. Total digit koma = 1 + 0 = 1. Letakkan koma 1 langkah dari kanan → **9,0** = **9**.
+
+- **Konsep kunci:** Perkalian desimal: abaikan koma dulu, kalikan, lalu tempatkan koma sesuai total digit di belakang koma.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 15 × 6 = 90.
+  2. Hitung total digit di belakang koma: 1 + 0 = 1.
+  3. Tempatkan koma 1 langkah dari kanan → 9,0 = 9.
 
 ---
 
@@ -319,6 +391,12 @@ D. 0,75
 - C) Mengabaikan kedua koma. Hanya 25 × 3 = 75.
 - D) **BENAR**. Abaikan koma: 25 × 3 = 75. Total digit koma = 1 + 1 = 2 → letakkan koma 2 langkah dari kanan → **0,75**.
 
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 25 × 3 = 75.
+  2. Hitung total digit di belakang koma: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 0,75.
+
 ---
 
 **14.** Hasil dari 0,12 × 4 adalah ...
@@ -335,6 +413,12 @@ D. 48
 - B) Menempatkan koma 3 langkah (kelebihan 1). Total digit seharusnya 2 + 0 = 2.
 - C) **BENAR**. Abaikan koma: 12 × 4 = 48. Total digit koma = 2 + 0 = 2 → letakkan koma 2 langkah dari kanan → **0,48**.
 - D) Tidak menempatkan koma sama sekali. Lupa 0,12 punya 2 digit di belakang koma.
+
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 12 × 4 = 48.
+  2. Hitung total digit di belakang koma: 2 + 0 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 0,48.
 
 ---
 
@@ -355,6 +439,12 @@ D. 4,80 dan ditulis 4,8
 
 > Catatan untuk opsi D: nilai sama dengan A; aturan baku menulis tanpa nol di akhir desimal → A.
 
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 32 × 15 = 480.
+  2. Hitung total digit di belakang koma: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 4,80 = 4,8.
+
 ---
 
 **16.** Hasil dari 0,25 × 0,4 adalah ...
@@ -371,6 +461,12 @@ D. 10
 - B) **BENAR**. Abaikan koma: 25 × 4 = 100. Total digit koma = 2 + 1 = 3 → letakkan koma 3 langkah dari kanan → **0,100** = **0,1**.
 - C) Menempatkan koma 4 langkah (kelebihan 1). Salah total digit koma.
 - D) Tidak menempatkan koma sama sekali. 25 × 4 = 100 = 10 (dengan kesalahan tambahan).
+
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 25 × 4 = 100.
+  2. Hitung total digit di belakang koma: 2 + 1 = 3.
+  3. Tempatkan koma 3 langkah dari kanan → 0,100 = 0,1.
 
 ---
 
@@ -389,6 +485,12 @@ D. 25
 - C) **BENAR**. Abaikan koma: 5 × 5 = 25. Total digit koma = 1 + 1 = 2 → letakkan koma 2 langkah dari kanan → **0,25**.
 - D) Tidak menempatkan koma sama sekali. Lupa ada 2 digit di belakang koma.
 
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 5 × 5 = 25.
+  2. Hitung total digit di belakang koma: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 0,25.
+
 ---
 
 **18.** Hasil dari 1,2 × 0,04 adalah ...
@@ -406,6 +508,12 @@ D. 0,048
 - C) Menempatkan koma 4 langkah (kelebihan 1). Salah hitung total digit.
 - D) **BENAR**. Abaikan koma: 12 × 4 = 48. Total digit koma = 1 + 2 = 3 → letakkan koma 3 langkah dari kanan → **0,048**.
 
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 12 × 4 = 48.
+  2. Hitung total digit di belakang koma: 1 + 2 = 3.
+  3. Tempatkan koma 3 langkah dari kanan → 0,048.
+
 ---
 
 **19.** Hasil dari 6 × 0,15 adalah ...
@@ -422,6 +530,12 @@ D. 0,09
 - B) **BENAR**. Abaikan koma: 6 × 15 = 90. Total digit koma = 0 + 2 = 2 → letakkan koma 2 langkah dari kanan → **0,90** = **0,9**.
 - C) Sama dengan A tapi ditulis berkoma — secara nilai sama dengan 9. Salah letakkan koma.
 - D) Menempatkan koma 3 langkah (kelebihan 1).
+
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 6 × 15 = 90.
+  2. Hitung total digit di belakang koma: 0 + 2 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 0,90 = 0,9.
 
 ---
 
@@ -442,6 +556,12 @@ D. 6,00
 
 > Catatan: 6,00 = 6 secara nilai. Format baku tanpa nol trailing → A.
 
+- **Konsep kunci:** Perkalian desimal: total digit koma pada hasil sama dengan jumlah digit koma kedua bilangan asli.
+- **Langkah Penyelesaian:**
+  1. Abaikan koma: 24 × 25 = 600.
+  2. Hitung total digit di belakang koma: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 6,00 = 6.
+
 ---
 
 ## SOAL 21–30 (Kabupaten — Pembagian Desimal Dasar)
@@ -461,6 +581,12 @@ D. 0,32
 - C) **BENAR**. Geser pembagi 0,2 → 2 (1 langkah). Dividen ikut geser 1 langkah: 6,4 → 64. 64 ÷ 2 = **32**.
 - D) Geser pembagi tetapi dividen digeser ke arah salah (ke kiri): 6,4 → 0,64. 0,64 ÷ 2 = 0,32.
 
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,2 menjadi 2 (1 langkah).
+  2. Geser koma dividen 6,4 juga 1 langkah menjadi 64.
+  3. Bagi seperti biasa: 64 ÷ 2 = 32.
+
 ---
 
 **22.** Hasil dari 7,5 ÷ 0,5 adalah ...
@@ -477,6 +603,12 @@ D. 15
 - B) Lupa geser dividen: 7,5 ÷ 5 = 1,5. Hanya menggeser pembagi.
 - C) Geser dividen 2 langkah (terlalu banyak): 7,5 → 750. 750 ÷ 5 = 150.
 - D) **BENAR**. Geser 0,5 → 5 (1 langkah). 7,5 → 75 (1 langkah). 75 ÷ 5 = **15**.
+
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,5 menjadi 5 (1 langkah).
+  2. Geser koma dividen 7,5 juga 1 langkah menjadi 75.
+  3. Bagi seperti biasa: 75 ÷ 5 = 15.
 
 ---
 
@@ -495,6 +627,12 @@ D. 12
 - C) Lupa geser dividen sama sekali: 1,44 ÷ 12 = 0,12.
 - D) **BENAR**. Geser pembagi 0,12 → 12 (2 langkah). Dividen 1,44 → 144 (2 langkah). 144 ÷ 12 = **12**.
 
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,12 menjadi 12 (2 langkah).
+  2. Geser koma dividen 1,44 juga 2 langkah menjadi 144.
+  3. Bagi seperti biasa: 144 ÷ 12 = 12.
+
 ---
 
 **24.** Hasil dari 12 ÷ 0,5 adalah ...
@@ -511,6 +649,12 @@ D. 60
 - B) Lupa geser dividen: 12 ÷ 5 = 2,4.
 - C) **BENAR**. Geser 0,5 → 5 (1 langkah). 12 → 120 (1 langkah, dengan menambah nol). 120 ÷ 5 = **24**. Cara cepat: bagi 0,5 = kali 2 → 12 × 2 = 24.
 - D) Geser dividen 2 langkah (kelebihan 1): 12 → 1200. 1200 ÷ 5 = 240 — distractor menulis 60 (salah hitung). Atau: 12 × 5 = 60 (operasi terbalik kebetulan dekat).
+
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,5 menjadi 5 (1 langkah).
+  2. Geser koma dividen 12 juga 1 langkah (tambah nol) menjadi 120.
+  3. Bagi seperti biasa: 120 ÷ 5 = 24 (cara cepat: bagi 0,5 sama dengan kali 2).
 
 ---
 
@@ -529,6 +673,12 @@ D. 3
 - C) Geser dividen 2 langkah (kelebihan 1): 4,5 → 450. 450 ÷ 15 = 30.
 - D) **BENAR**. Geser 1,5 → 15 (1 langkah). 4,5 → 45 (1 langkah). 45 ÷ 15 = **3**.
 
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 1,5 menjadi 15 (1 langkah).
+  2. Geser koma dividen 4,5 juga 1 langkah menjadi 45.
+  3. Bagi seperti biasa: 45 ÷ 15 = 3.
+
 ---
 
 **26.** Hasil dari 0,8 ÷ 4 adalah ...
@@ -545,6 +695,12 @@ D. 20
 - B) Menempatkan koma 2 langkah (kelebihan 1). Salah ingat aturan: bagi tidak perlu hitung "total digit koma" — itu untuk perkalian.
 - C) **BENAR**. Pembagi 4 sudah bulat, tidak perlu geser. 0,8 ÷ 4 = 0,2 (bagilah seperti biasa, koma turun lurus). Atau: 8 ÷ 4 = 2 → posisi koma sama → **0,2**.
 - D) Mengabaikan koma sepenuhnya: 8 ÷ 4 = 2 → ditulis 20 (salah tambah nol). Tidak konsisten.
+
+- **Konsep kunci:** Jika pembagi sudah bulat, tidak perlu digeser — bagi langsung dan turunkan koma lurus pada hasil.
+- **Langkah Penyelesaian:**
+  1. Pembagi 4 sudah bulat, tidak perlu digeser.
+  2. Bagi seperti biasa: 8 ÷ 4 = 2.
+  3. Turunkan koma lurus pada hasil → 0,2.
 
 ---
 
@@ -563,6 +719,12 @@ D. 0,04
 - C) **BENAR**. Geser 0,9 → 9 (1 langkah). 3,6 → 36 (1 langkah). 36 ÷ 9 = **4**.
 - D) Geser ke kiri pada dividen: 3,6 → 0,36. 0,36 ÷ 9 = 0,04.
 
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,9 menjadi 9 (1 langkah).
+  2. Geser koma dividen 3,6 juga 1 langkah menjadi 36.
+  3. Bagi seperti biasa: 36 ÷ 9 = 4.
+
 ---
 
 **28.** Hasil dari 9 ÷ 0,3 adalah ...
@@ -579,6 +741,12 @@ D. 0,3
 - B) **BENAR**. Geser 0,3 → 3 (1 langkah). 9 → 90 (1 langkah, dengan menambah nol). 90 ÷ 3 = **30**.
 - C) Geser dividen 2 langkah (kelebihan 1): 9 → 900. 900 ÷ 3 = 300.
 - D) Membalik operasi: 9 × 0,3 = 2,7 ≠ 0,3, atau 3 × 0,1 = 0,3. Distraktor pengecoh dengan angka 0,3.
+
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,3 menjadi 3 (1 langkah).
+  2. Geser koma dividen 9 juga 1 langkah (tambah nol) menjadi 90.
+  3. Bagi seperti biasa: 90 ÷ 3 = 30.
 
 ---
 
@@ -597,6 +765,12 @@ D. 10
 - C) Geser dividen 3 langkah (kelebihan 1): 2,5 → 2500. 2500 ÷ 25 = 100.
 - D) **BENAR**. Geser 0,25 → 25 (2 langkah). Dividen 2,5 → 250 (2 langkah, dengan menambah nol). 250 ÷ 25 = **10**.
 
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,25 menjadi 25 (2 langkah).
+  2. Geser koma dividen 2,5 juga 2 langkah (tambah nol) menjadi 250.
+  3. Bagi seperti biasa: 250 ÷ 25 = 10.
+
 ---
 
 **30.** Hasil dari 0,72 ÷ 0,8 adalah ...
@@ -613,6 +787,12 @@ D. 90
 - B) Geser yang salah arah / kelebihan langkah → 0,09.
 - C) **BENAR**. Geser 0,8 → 8 (1 langkah). Dividen 0,72 → 7,2 (1 langkah). 7,2 ÷ 8 = **0,9**. (Atau: 72 ÷ 80 = 0,9.)
 - D) Geser dividen 2 langkah (kelebihan 1): 0,72 → 72. 72 ÷ 8 = 9 → distraktor 90 dari salah penempatan koma akhir.
+
+- **Konsep kunci:** Pembagian desimal: geser koma pembagi sampai bulat, lalu geser koma dividen sebanyak langkah yang sama.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,8 menjadi 8 (1 langkah).
+  2. Geser koma dividen 0,72 juga 1 langkah menjadi 7,2.
+  3. Bagi seperti biasa: 7,2 ÷ 8 = 0,9.
 
 ---
 
@@ -633,6 +813,12 @@ D. Rp32.500
 - C) Hanya 1,5 × 12.000 yang dihitung benar, lalu ditambah Rp500 → 18.000 + (−3.500). Tidak konsisten.
 - D) Membulatkan 2,5 menjadi 2,7 atau menambah 12.000 × 2 + Rp8.500. Tidak tepat.
 
+- **Konsep kunci:** Perkalian desimal dipakai untuk menghitung total harga belanja (kuantitas × harga satuan).
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 25 × 12.000 = 300.000.
+  2. Tempatkan koma sesuai total digit koma (1 langkah dari kanan).
+  3. Hasil = Rp30.000.
+
 ---
 
 **32.** Andi membeli minyak goreng 1,5 L seharga Rp18.500 per liter. Total yang harus dibayar adalah ...
@@ -649,6 +835,12 @@ D. Rp37.000
 - B) **BENAR**. Total = 1,5 × 18.500. Hitung: 15 × 18.500 = 277.500. Total digit koma = 1 → 27.750,0 = **Rp27.750**. Cara cepat: 18.500 + (18.500 ÷ 2) = 18.500 + 9.250 = **27.750**.
 - C) Salah membagi 2: 18.500 + 6.000 = 24.500. Mengira "0,5 liter = Rp6.000".
 - D) Mengira 1,5 = 2 lalu dikalikan: 2 × 18.500 = 37.000. Membulatkan tidak tepat.
+
+- **Konsep kunci:** Perkalian desimal dipakai untuk menghitung total harga belanja (kuantitas × harga satuan).
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 15 × 18.500 = 277.500.
+  2. Tempatkan koma sesuai total digit koma (1 langkah dari kanan).
+  3. Hasil = Rp27.750.
 
 ---
 
@@ -667,6 +859,12 @@ D. Rp52.500
 - C) Membulatkan 3,75 jadi 3,5 lalu 3,5 × 14.000 = 49.000 → dibulatkan jadi 50.000. Tidak tepat.
 - D) **BENAR**. Total = 3,75 × 14.000. Hitung 375 × 14.000 = 5.250.000. Total digit koma = 2 → letakkan koma 2 langkah → **52.500,00** = **Rp52.500**. Cek cepat: 3 × 14.000 = 42.000; 0,75 × 14.000 = 10.500; 42.000 + 10.500 = 52.500. ✓
 
+- **Konsep kunci:** Perkalian desimal dipakai untuk menghitung total harga belanja (kuantitas × harga satuan).
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 375 × 14.000 = 5.250.000.
+  2. Tempatkan koma sesuai total digit koma (2 langkah dari kanan).
+  3. Hasil = Rp52.500.
+
 ---
 
 **34.** Sari membayar Rp50.000 untuk belanja seharga Rp37.500. Kembalian yang diterima adalah ...
@@ -683,6 +881,12 @@ D. Rp13.500
 - B) Salah pinjam besar: 50.000 − 32.500 = 17.500 (kekurangan Rp5.000 di pengurangan). 
 - C) **BENAR**. 50.000 − 37.500 = **12.500**. Pinjam: 0 − 0 = 0; 0 − 0 = 0; 0 − 5 → pinjam, 10 − 5 = 5; 5 jadi 4, 4 − 7 → pinjam, 14 − 7 = 7 → tetapi kita ingin ratusan: lebih sederhana 50.000 − 37.500 = 12.500.
 - D) Salah hitung satuan ribu: 50.000 − 36.500 = 13.500. Salah baca 37.500 sebagai 36.500.
+
+- **Konsep kunci:** Kembalian dihitung dengan pengurangan: uang yang dibayarkan dikurangi harga barang.
+- **Langkah Penyelesaian:**
+  1. Susun 50.000 − 37.500.
+  2. Kurangkan dengan meminjam bila perlu.
+  3. Hasil = Rp12.500.
 
 ---
 
@@ -701,6 +905,12 @@ D. Rp25.500
 - C) Membulatkan 4.250 jadi 4.500 lalu 6 × 4.500 = 27.000. Tidak tepat.
 - D) **BENAR**. 6 × 4.250 = 25.500. Cek: 6 × 4.000 = 24.000; 6 × 250 = 1.500; total 24.000 + 1.500 = **25.500**.
 
+- **Konsep kunci:** Perkalian bilangan dengan harga bernilai ribuan tetap mengikuti aturan nilai tempat biasa.
+- **Langkah Penyelesaian:**
+  1. Kalikan bagian ribuan: 6 × 4.000 = 24.000.
+  2. Kalikan bagian ratusan: 6 × 250 = 1.500.
+  3. Jumlahkan 24.000 + 1.500 = Rp25.500.
+
 ---
 
 **36.** Untuk membuat kue, dibutuhkan 0,25 kg tepung per kue. Jika ingin membuat 8 kue, tepung yang dibutuhkan adalah ...
@@ -718,6 +928,12 @@ D. 20 kg
 - C) Salah penempatan koma 4 langkah → 0,02.
 - D) Mengabaikan koma sama sekali → 200 → dibagi 10 jadi 20.
 
+- **Konsep kunci:** Perkalian desimal dipakai untuk menghitung total kebutuhan bahan dari beberapa takaran yang sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 8 × 25 = 200.
+  2. Tempatkan koma sesuai total digit koma (2 langkah dari kanan).
+  3. Hasil = 2 kg.
+
 ---
 
 **37.** Sebuah botol berisi 1,5 L jus. Jika dituangkan ke gelas berisi 0,25 L per gelas, berapa banyak gelas yang bisa diisi?
@@ -734,6 +950,12 @@ D. 4 gelas
 - B) **BENAR**. 1,5 ÷ 0,25 = ? Geser koma 0,25 → 25 (2 langkah). 1,5 → 150 (2 langkah). 150 ÷ 25 = **6 gelas**.
 - C) Membulatkan keatas tanpa hitung: kira-kira 7. Tidak tepat.
 - D) Salah hitung 1,5 ÷ 0,375 ≈ 4 (mengira gelas 0,375 L). Salah baca soal.
+
+- **Konsep kunci:** Pembagian desimal dipakai untuk menghitung banyak bagian sama besar dari suatu jumlah total.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,25 menjadi 25 (2 langkah).
+  2. Geser koma dividen 1,5 juga 2 langkah (tambah nol) menjadi 150.
+  3. Bagi seperti biasa: 150 ÷ 25 = 6 gelas.
 
 ---
 
@@ -753,6 +975,12 @@ D. 20 potong
 - C) **BENAR**. 5 ÷ 0,4 = ? Geser 0,4 → 4 (1 langkah). 5 → 50 (1 langkah). 50 ÷ 4 = **12,5 potong**.
 - D) Mengira aturan "bagi 0,4 sama dengan kali 4": 5 × 4 = 20. Salah ingat aturan.
 
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak potongan dari panjang total dibagi panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,4 menjadi 4 (1 langkah).
+  2. Geser koma dividen 5 juga 1 langkah (tambah nol) menjadi 50.
+  3. Bagi seperti biasa: 50 ÷ 4 = 12,5 potong.
+
 ---
 
 **39.** Bensin dalam tangki motor tersisa 3,75 L. Jika untuk 1 km motor butuh 0,03 L bensin, motor masih bisa berjalan sejauh ...
@@ -770,6 +998,12 @@ D. 125 km
 - C) Geser dividen 1 langkah (kekurangan 1): 3,75 → 37,5. 37,5 ÷ 3 = 12,5.
 - D) **BENAR**. Jarak = 3,75 ÷ 0,03. Geser 0,03 → 3 (2 langkah). 3,75 → 375 (2 langkah). 375 ÷ 3 = **125 km**.
 
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari jarak tempuh dari sisa bahan bakar dibagi konsumsi per km.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,03 menjadi 3 (2 langkah).
+  2. Geser koma dividen 3,75 juga 2 langkah menjadi 375.
+  3. Bagi seperti biasa: 375 ÷ 3 = 125 km.
+
 ---
 
 **40.** Berat 1 kelereng = 0,008 kg. Berapa kelereng yang beratnya 1 kg?
@@ -786,6 +1020,12 @@ D. 80 kelereng
 - B) Geser dividen 4 langkah (kelebihan 1): 1 → 10.000. 10.000 ÷ 8 = 1.250.
 - C) **BENAR**. Jumlah kelereng = 1 ÷ 0,008. Geser 0,008 → 8 (3 langkah). 1 → 1.000 (3 langkah, dengan menambah nol). 1.000 ÷ 8 = **125 kelereng**.
 - D) Geser dividen 2 langkah (kekurangan 1): 1 → 100. 100 ÷ 8 = 12,5 — distraktor menulis 80 sebagai pengecoh.
+
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak benda dari berat total dibagi berat satu benda.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,008 menjadi 8 (3 langkah).
+  2. Geser koma dividen 1 juga 3 langkah (tambah nol) menjadi 1.000.
+  3. Bagi seperti biasa: 1.000 ÷ 8 = 125 kelereng.
 
 ---
 
@@ -806,6 +1046,12 @@ D. 752,5 km
 - C) Salah konversi: 750 m = 7 km. Tidak masuk akal.
 - D) Salah konversi sebaliknya: 2,5 km dianggap 2,5 m → 2,5 + 750 = 752,5 (km).
 
+- **Konsep kunci:** Sebelum dua nilai bersatuan berbeda dijumlahkan, konversikan dulu ke satuan yang sama.
+- **Langkah Penyelesaian:**
+  1. Konversi 750 m menjadi 0,75 km.
+  2. Jumlahkan dengan koma sejajar: 2,50 + 0,75.
+  3. Hasil = 3,25 km.
+
 ---
 
 **42.** 3,2 m − 45 cm = ... m
@@ -822,6 +1068,12 @@ D. 3,15 m
 - B) Salah konversi: 45 cm = 0,045 m? Tidak — 45 cm = 0,45 m. Atau hasil sengaja dibagi 10. Salah letak koma.
 - C) Salah konversi: 3,2 m = 3,2 cm sehingga 3,2 + 24,3 = 27,5. Atau 3,2 × 10 − 45 ÷ 10. Tidak konsisten.
 - D) Hanya mengurangi 0,05 dari 3,2 (salah baca 45 cm sebagai 5 cm).
+
+- **Konsep kunci:** Sebelum dua nilai bersatuan berbeda dikurangkan, konversikan dulu ke satuan yang sama.
+- **Langkah Penyelesaian:**
+  1. Konversi 45 cm menjadi 0,45 m.
+  2. Kurangkan dengan koma sejajar: 3,20 − 0,45 (meminjam bila perlu).
+  3. Hasil = 2,75 m.
 
 ---
 
@@ -840,6 +1092,12 @@ D. 75 menit
 - C) Mengira 0,25 jam = 25 menit. Salah karena 0,25 jam = 1/4 jam = 15 menit, bukan 25 menit.
 - D) **BENAR**. 1,25 jam = 1 jam + 0,25 jam = 60 menit + 15 menit = **75 menit**. (0,25 × 60 = 15.)
 
+- **Konsep kunci:** Bagian desimal pada satuan waktu perlu dikonversi terpisah karena 1 jam = 60 menit (bukan 100 menit).
+- **Langkah Penyelesaian:**
+  1. Pisahkan 1,25 jam menjadi 1 jam + 0,25 jam.
+  2. Konversi 0,25 jam menjadi 0,25 × 60 = 15 menit.
+  3. Jumlahkan 60 + 15 = 75 menit.
+
 ---
 
 **44.** Sebuah lantai berukuran 4,5 m × 3,2 m akan dipasang keramik. Luas lantai tersebut adalah ...
@@ -856,6 +1114,12 @@ D. 144 m²
 - B) **BENAR**. Luas = 4,5 × 3,2. Hitung 45 × 32 = 1.440. Total digit koma = 1 + 1 = 2 → 14,40 = **14,4 m²**.
 - C) Menempatkan koma 4 langkah (kelebihan 2) → 1,44.
 - D) Tidak menempatkan koma sama sekali → 144.
+
+- **Konsep kunci:** Luas persegi panjang dihitung dengan mengalikan panjang dan lebar, lalu koma ditempatkan sesuai aturan perkalian desimal.
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 45 × 32 = 1.440.
+  2. Hitung total digit koma: 1 + 1 = 2.
+  3. Tempatkan koma 2 langkah dari kanan → 14,4 m².
 
 ---
 
@@ -874,6 +1138,12 @@ D. 2,02
 - C) Mengabaikan koma sama sekali: (2 + 5 + 3) × (4) = 10 × 4 → atau 22. Tidak konsisten.
 - D) Salah penempatan koma di hasil akhir: 3 × 0,4 = 1,2 lalu salah hitung 2,5 + 1,2 = 2,02. Salah penjumlahan.
 
+- **Konsep kunci:** Urutan operasi hitung campuran: kerjakan perkalian/pembagian dulu, baru penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 3 × 0,4 = 1,2.
+  2. Jumlahkan dengan suku lainnya: 2,5 + 1,2.
+  3. Hasil = 3,7.
+
 ---
 
 **46.** Hasil dari 6 − 0,4 × 0,5 adalah ...
@@ -890,6 +1160,12 @@ D. 5,2
 - B) **BENAR**. Kali dulu: 0,4 × 0,5 = 0,20 = 0,2 (4 × 5 = 20; 2 digit koma → 0,20). Lalu 6 − 0,2 = **5,8**.
 - C) Salah penempatan koma di perkalian: 0,4 × 0,5 = 0,02 (kelebihan 1 koma). Lalu 6 − 0,02 = 5,98.
 - D) Salah hitung 0,4 × 0,5 = 0,8 (mengabaikan koma). Lalu 6 − 0,8 = 5,2.
+
+- **Konsep kunci:** Urutan operasi hitung campuran: kerjakan perkalian/pembagian dulu, baru penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 0,4 × 0,5 = 0,2.
+  2. Kurangkan dari suku pertama: 6 − 0,2.
+  3. Hasil = 5,8.
 
 ---
 
@@ -908,6 +1184,12 @@ D. 4
 - C) Salah urutan: 0,4 + 0,5 = 0,9 lalu 1,2 ÷ 0,9 ≈ 1,33 — distraktor melenceng. Atau 1,2 × (0,4 + 0,5) = 1,2 × 0,9 = 1,08 ≠ 4,8 — tidak konsisten.
 - D) Salah hitung: 1,2 ÷ 0,4 = 4 (salah hitung; mungkin 12 ÷ 3 = 4). Salah aritmetika dasar.
 
+- **Konsep kunci:** Urutan operasi hitung campuran: kerjakan perkalian/pembagian dulu, baru penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu: 1,2 ÷ 0,4 = 3.
+  2. Jumlahkan dengan suku lainnya: 3 + 0,5.
+  3. Hasil = 3,5.
+
 ---
 
 **48.** Hasil dari (2,3 + 1,7) × 0,5 adalah ...
@@ -924,6 +1206,12 @@ D. 2,0
 - B) Lupa kali 0,5: hanya 2,3 + 1,7 = 4,0. Tidak menyelesaikan langkah terakhir.
 - C) Salah urutan: 1,7 × 0,5 = 0,85; 2,3 + 0,85 = 3,15 — distraktor melenceng. Atau hanya menyalin 0,5.
 - D) **BENAR**. Kurung dulu: 2,3 + 1,7 = 4,0 (3 + 7 = 10 → tulis 0 simpan 1; 2 + 1 + 1 = 4). Lalu 4,0 × 0,5 = **2,0**.
+
+- **Konsep kunci:** Operasi dalam kurung selalu dikerjakan lebih dulu sebelum operasi lainnya.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung dulu: 2,3 + 1,7 = 4,0.
+  2. Kalikan hasil kurung: 4,0 × 0,5.
+  3. Hasil = 2,0.
 
 ---
 
@@ -942,6 +1230,12 @@ D. 0,6
 - C) Lupa membagi: hanya menyalin 5,4. Tidak menyelesaikan operasi.
 - D) Salah pembagian: 0,54 ÷ 0,9 = 0,6 (salah baca 5,4 sebagai 0,54). Atau lupa geser dividen.
 
+- **Konsep kunci:** Operasi dalam kurung selalu dikerjakan lebih dulu sebelum operasi lainnya.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung dulu: 1,2 − 0,3 = 0,9.
+  2. Bagi hasil sebelumnya: 5,4 ÷ 0,9.
+  3. Hasil = 6.
+
 ---
 
 **50.** Hasil dari 8,4 − 2,1 × 3 adalah ...
@@ -958,6 +1252,12 @@ D. 12,3
 - B) Salah hitung 2,1 × 3 = 7,2 (lupa naikkan): 8,4 − 7,2 = 1,2.
 - C) **BENAR**. Kali dulu: 2,1 × 3 = 6,3 (21 × 3 = 63; 1 digit koma → 6,3). Lalu 8,4 − 6,3 = **2,1**.
 - D) Lupa kurangi: hanya menulis hasil intermediet. Atau 8,4 + 2,1 + 1,8 = 12,3 (tidak konsisten).
+
+- **Konsep kunci:** Urutan operasi hitung campuran: kerjakan perkalian/pembagian dulu, baru penjumlahan/pengurangan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 2,1 × 3 = 6,3.
+  2. Kurangkan dari suku pertama: 8,4 − 6,3.
+  3. Hasil = 2,1.
 
 ---
 
@@ -978,6 +1278,12 @@ D. Rp60.000
 - C) Salah hitung jeruk: 1,5 × 15.000 = 22.500; 60.000 + 22.500 = 82.500. Salah baca harga.
 - D) Hanya menghitung apel: 2,5 × 24.000 = 60.000. Lupa jeruk.
 
+- **Konsep kunci:** Soal belanja gabungan diselesaikan dengan menghitung total tiap kelompok barang lalu menjumlahkannya.
+- **Langkah Penyelesaian:**
+  1. Hitung total harga apel: 2,5 × 24.000 = 60.000.
+  2. Hitung total harga jeruk: 1,5 × 16.000 = 24.000.
+  3. Jumlahkan 60.000 + 24.000 = Rp84.000.
+
 ---
 
 **52.** Sebuah truk mengangkut 4 karung beras, tiap karung berisi 25,5 kg. Jika dijual seharga Rp12.500/kg, total uang yang didapat adalah ...
@@ -994,6 +1300,12 @@ D. Rp102.000
 - B) Lupa menghitung 2 kg sisa: hanya 100 × 12.500 = 1.250.000. Tidak menjumlahkan 2 × 12.500.
 - C) Salah penjumlahan akhir: 1.250.000 + 25.500 = 1.275.500. Salah hitung 2 × 12.500 sebagai 25.500.
 - D) Hanya menghitung total beras saja (lupa kali 12.500): 102 × 1.000 = 102.000. Salah penempatan nol.
+
+- **Konsep kunci:** Soal berlapis diselesaikan bertahap: cari dulu total kuantitas, baru kalikan dengan harga satuan.
+- **Langkah Penyelesaian:**
+  1. Hitung total berat beras: 4 × 25,5 = 102 kg.
+  2. Kalikan dengan harga per kg: 102 × 12.500.
+  3. Hasil = Rp1.275.000.
 
 ---
 
@@ -1012,6 +1324,12 @@ D. 3,8 km
 - C) Salah hitung satu addend: 1,2 + 0,8 + 1,75 = 3,75 (mengira 0,85 = 0,8).
 - D) **BENAR**. Tulis 1,20 + 0,85 + 1,75. Belakang: 0 + 5 + 5 = 10 (tulis 0, simpan 1); 2 + 8 + 7 + 1 = 18 (tulis 8, simpan 1); 1 + 0 + 1 + 1 = 3. Total = **3,80** = **3,8 km**.
 
+- **Konsep kunci:** Menjumlahkan beberapa desimal berjumlah digit berbeda memerlukan penyamaan dengan nol pengisi.
+- **Langkah Penyelesaian:**
+  1. Susun ketiga jarak dengan koma sejajar (tambah nol pengisi bila perlu).
+  2. Jumlahkan dari kanan ke kiri sambil menyimpan kelebihan.
+  3. Hasil = 3,8 km.
+
 ---
 
 **54.** Sebuah pita panjangnya 6 m dipotong 3 bagian sama panjang. Setiap potongan kemudian dipotong lagi menjadi 5 bagian sama panjang. Berapa panjang tiap potongan akhir?
@@ -1028,6 +1346,12 @@ D. 1,2 m
 - B) Salah pembagian: 2 ÷ 10 = 0,2 (mengalikan 3 × 5 + 2 atau kebalikan). Tidak konsisten.
 - C) Salah urutan: 6 ÷ (3 × 5 × 4) → tidak masuk akal. Distractor angka kecil.
 - D) Hanya menghitung tahap 1 yang lalu dibagi 5 keliru: 6 ÷ 5 = 1,2. Lupa tahap pembagian 3 dulu.
+
+- **Konsep kunci:** Soal bertahap diselesaikan langkah demi langkah sesuai urutan cerita.
+- **Langkah Penyelesaian:**
+  1. Bagi tahap pertama: 6 ÷ 3 = 2 m per potongan besar.
+  2. Bagi tahap kedua: 2 ÷ 5 = 0,4 m.
+  3. Hasil akhir = 0,4 m per potongan.
 
 ---
 
@@ -1046,6 +1370,12 @@ D. Rp3.500
 - C) Salah pinjam: 4.500 − 1.250 dihitung 3.750 (salah hitung satuan ratus: 500 − 250 = 250, ratus 4 − 1 = 3, lalu salah tulis 3.750).
 - D) Salah pinjam: 4.500 − 1.500 = 3.000 → mendekati 3.500 (salah baca selisih).
 
+- **Konsep kunci:** Selisih harga dikurangkan dari harga acuan sesuai arah 'lebih murah' atau 'lebih mahal' pada soal.
+- **Langkah Penyelesaian:**
+  1. Karena Toko B lebih murah, kurangkan selisih dari harga Toko A.
+  2. Hitung 4.500 − 1.250.
+  3. Hasil = Rp3.250.
+
 ---
 
 **56.** Sebuah ember berisi 8,5 L air. Dipakai 2,75 L untuk mencuci, lalu ditambah 1,5 L air baru. Sisa air dalam ember sekarang adalah ...
@@ -1062,6 +1392,12 @@ D. 7,5 L
 - B) **BENAR**. 8,5 − 2,75 = 5,75 (8,50 − 2,75 → 0 − 5 pinjam = 5; 4 − 7 pinjam = 7; 7 − 2 = 5; jadi 5,75). 5,75 + 1,5 = 5,75 + 1,50 = **7,25 L**.
 - C) Salah pengurangan: 8,5 − 2,75 = 5,25 → 5,25 + 1,5 = 6,75. Salah pinjam.
 - D) Lupa langkah pengurangan: 8,5 − 2 + 1 = 7,5 (membulatkan).
+
+- **Konsep kunci:** Soal cerita bertahap (kurang lalu tambah) diselesaikan berurutan sesuai kejadian dalam cerita.
+- **Langkah Penyelesaian:**
+  1. Kurangkan dulu: 8,5 − 2,75 = 5,75.
+  2. Tambahkan air baru: 5,75 + 1,5.
+  3. Hasil = 7,25 L.
 
 ---
 
@@ -1080,6 +1416,12 @@ D. 50 m
 - C) Lupa kali 2: hanya 12,5 + 8 = 20,5. Salah konsep keliling.
 - D) Salah konsep: hanya 2 × panjang saja = 2 × 25 = 50. Mengira keliling = 2 × panjang.
 
+- **Konsep kunci:** Keliling persegi panjang dihitung dengan rumus 2 × (panjang + lebar), bukan luas atau sekadar 2 × panjang.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan panjang dan lebar: 12,5 + 8 = 20,5.
+  2. Kalikan dengan 2.
+  3. Hasil = 41 m.
+
 ---
 
 **58.** Sebuah resep kue membutuhkan 0,75 kg tepung untuk 1 resep. Bu Ria mempunyai 6 kg tepung. Berapa resep kue maksimal yang bisa dibuat?
@@ -1096,6 +1438,12 @@ D. 8 resep
 - B) Salah pembulatan: 6 ÷ 0,75 = 8 (utuh), bukan 7.
 - C) Mengira 1 resep = 1 kg, jadi 6 kg = 6 resep.
 - D) **BENAR**. 6 ÷ 0,75 = ? Geser 0,75 → 75 (2 langkah). 6 → 600 (2 langkah). 600 ÷ 75 = **8 resep**.
+
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari berapa kali suatu takaran muat dalam jumlah total yang tersedia.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,75 menjadi 75 (2 langkah).
+  2. Geser koma dividen 6 juga 2 langkah (tambah nol) menjadi 600.
+  3. Bagi seperti biasa: 600 ÷ 75 = 8 resep.
 
 ---
 
@@ -1114,6 +1462,12 @@ D. 50,33 L
 - C) Tidak menempatkan koma sama sekali → 165.
 - D) Salah operasi: 50 + 0,33 = 50,33 (jumlah bukannya kali).
 
+- **Konsep kunci:** Perkalian desimal dipakai untuk menghitung total volume dari banyak wadah bervolume sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan seperti bilangan bulat: 50 × 33 = 1.650.
+  2. Hitung total digit koma (0 + 2 = 2) dan tempatkan koma 2 langkah dari kanan.
+  3. Hasil = 16,5 L.
+
 ---
 
 **60.** Hasil dari 12,5 − 4,75 + 1,25 × 2 adalah ...
@@ -1130,6 +1484,12 @@ D. 17
 - B) **BENAR**. Kali dulu: 1,25 × 2 = 2,50. Lalu 12,5 − 4,75 + 2,5 = (12,5 − 4,75) + 2,5 = 7,75 + 2,5 = **10,25**. Cek pengurangan: 12,50 − 4,75 → 0 − 5 pinjam = 5; 4 − 7 pinjam = 7; 1 − 4 pinjam = 7; 0 jadi −1, atau lebih mudah: 12,50 − 4,75 = 7,75. ✓
 - C) Salah pengurangan: 12,5 − 4,75 dihitung 2,75; 2,75 + 2,5 = 5,25. Salah pinjam besar.
 - D) Salah urutan akhir: 12,5 − (4,75 + 1,25 × 2) = 12,5 − 7,25 = 5,25 — distraktor 17 dari salah operasi total.
+
+- **Konsep kunci:** Dalam operasi campuran bertingkat, kerjakan perkalian dulu, baru penjumlahan/pengurangan berurutan dari kiri.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 1,25 × 2 = 2,5.
+  2. Kurangkan: 12,5 − 4,75 = 7,75.
+  3. Jumlahkan 7,75 + 2,5 = 10,25.
 
 ---
 
@@ -1150,6 +1510,12 @@ D. 1,8
 - C) **BENAR**. Kerjakan kiri ke kanan: 3,6 ÷ 0,4 = 9 (geser: 36 ÷ 4 = 9). Lalu 9 × 0,5 = **4,5**.
 - D) Salah urutan: 0,4 × 0,5 = 0,2; lalu 3,6 ÷ 0,2 = 18 — atau 3,6 ÷ 0,4 × 0,5 dianggap 3,6 ÷ 2 = 1,8. Salah konsep.
 
+- **Konsep kunci:** Perkalian dan pembagian yang berderet dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu (paling kiri): 3,6 ÷ 0,4 = 9.
+  2. Kalikan hasilnya: 9 × 0,5.
+  3. Hasil = 4,5.
+
 ---
 
 **62.** Hasil dari (5,4 − 2,1) × (1,5 + 0,5) adalah ...
@@ -1166,6 +1532,12 @@ D. 6,6
 - B) Salah kurung: 5,4 − 2,1 = 3,5 (salah hitung); 3,5 × 2 = 7.
 - C) Salah operasi: 3,3 + 2 = 5,3 (jumlah bukannya kali).
 - D) **BENAR**. Kurung kiri: 5,4 − 2,1 = 3,3. Kurung kanan: 1,5 + 0,5 = 2,0 = 2. Lalu 3,3 × 2 = **6,6** (33 × 2 = 66; 1 digit koma → 6,6).
+
+- **Konsep kunci:** Operasi dalam dua kurung dikerjakan lebih dulu, masing-masing secara terpisah, sebelum dikalikan.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung kiri: 5,4 − 2,1 = 3,3.
+  2. Kerjakan kurung kanan: 1,5 + 0,5 = 2.
+  3. Kalikan hasil kedua kurung: 3,3 × 2 = 6,6.
 
 ---
 
@@ -1184,6 +1556,12 @@ D. 3
 - C) Salah hitung kali: 0,8 × 1,25 = 0,5 (salah penempatan koma). 0,5 + 2 = 2,5.
 - D) **BENAR**. Kali dulu: 0,8 × 1,25 = 1,00 = 1 (8 × 125 = 1.000; 3 digit koma → 1,000). Bagi: 0,5 ÷ 0,25 = 2 (geser: 50 ÷ 25 = 2). Lalu 1 + 2 = **3**.
 
+- **Konsep kunci:** Saat ada beberapa operasi kali/bagi dan tambah, kerjakan semua kali/bagi dulu baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung perkalian: 0,8 × 1,25 = 1.
+  2. Hitung pembagian: 0,5 ÷ 0,25 = 2.
+  3. Jumlahkan 1 + 2 = 3.
+
 ---
 
 **64.** Sebuah botol berisi 1,8 L jus. Jus dituangkan ke 4 gelas sama banyak, tiap gelas berisi 0,3 L. Sisa jus dalam botol adalah ...
@@ -1200,6 +1578,12 @@ D. 1,2 L
 - B) Salah perkalian: 4 × 0,3 = 0,9 (mengira aturan total digit koma = 2, padahal 1). Lalu 1,8 − 0,9 = 0,9.
 - C) **BENAR**. Total dituang = 4 × 0,3 = 1,2 (4 × 3 = 12; 1 digit koma → 1,2). Sisa = 1,8 − 1,2 = **0,6 L**.
 - D) Lupa pengurangan: hanya total dituang 1,2. Tidak menjawab pertanyaan "sisa".
+
+- **Konsep kunci:** Sisa isi wadah dihitung dengan mengurangkan total yang dikeluarkan dari isi awal.
+- **Langkah Penyelesaian:**
+  1. Hitung total yang dituang: 4 × 0,3 = 1,2 L.
+  2. Kurangkan dari isi awal: 1,8 − 1,2.
+  3. Hasil = 0,6 L.
 
 ---
 
@@ -1218,6 +1602,12 @@ D. Rp74.000
 - C) Salah operasi: menambah diskon bukan mengurangi: 84.000 + 10.000 = 94.000. Salah konsep diskon.
 - D) **BENAR**. Subtotal = 3,5 × 24.000 = 84.000 (35 × 24 = 840; 1 digit koma → 84,0 ribu = 84.000). Setelah diskon: 84.000 − 10.000 = **Rp74.000**.
 
+- **Konsep kunci:** Total belanja dengan diskon dihitung dengan mengurangkan nominal diskon dari subtotal.
+- **Langkah Penyelesaian:**
+  1. Hitung subtotal: 3,5 × 24.000 = 84.000.
+  2. Kurangkan diskon: 84.000 − 10.000.
+  3. Hasil = Rp74.000.
+
 ---
 
 **66.** Selisih dari 5,25 dan 2,75 dikalikan 0,4 hasilnya adalah ...
@@ -1234,6 +1624,12 @@ D. 2
 - B) Salah penempatan koma 3 langkah → 0,1.
 - C) Tidak menempatkan koma → 100 → 10.
 - D) Lupa kalikan 0,4: hanya 5,25 − 2,75 = 2,5 → distraktor 2 (dibulatkan).
+
+- **Konsep kunci:** Operasi dalam kurung (selisih) dikerjakan dulu sebelum dikalikan dengan bilangan lain.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih dalam kurung: 5,25 − 2,75 = 2,5.
+  2. Kalikan hasilnya: 2,5 × 0,4.
+  3. Hasil = 1,0.
 
 ---
 
@@ -1252,6 +1648,12 @@ D. 60
 - C) **BENAR**. Bagi dulu: 7,5 ÷ 0,15 = ? Geser 0,15 → 15 (2 langkah). 7,5 → 750 (2 langkah). 750 ÷ 15 = 50. Lalu 50 − 10 = **40**.
 - D) Salah operasi akhir: 50 + 10 = 60 (jumlah bukannya kurang).
 
+- **Konsep kunci:** Urutan operasi hitung campuran: kerjakan pembagian dulu, baru pengurangan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu: 7,5 ÷ 0,15 = 50.
+  2. Kurangkan: 50 − 10.
+  3. Hasil = 40.
+
 ---
 
 **68.** Hasil dari (2,4 × 0,5) ÷ 0,3 adalah ...
@@ -1268,6 +1670,12 @@ D. 4,8
 - B) Salah penempatan koma lebih banyak → 0,04.
 - C) **BENAR**. Kurung dulu: 2,4 × 0,5 = 1,2 (24 × 5 = 120; 2 digit koma → 1,20). Lalu 1,2 ÷ 0,3 = ? Geser: 12 ÷ 3 = **4**.
 - D) Lupa kurung dan bagi: 2,4 × (0,5 + 0,3) ≠ 4,8. Atau 2,4 × 2 = 4,8 (lupa operasi terakhir).
+
+- **Konsep kunci:** Operasi dalam kurung dikerjakan dulu, baru dilanjutkan dengan pembagian.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung dulu: 2,4 × 0,5 = 1,2.
+  2. Bagi hasilnya: 1,2 ÷ 0,3.
+  3. Hasil = 4.
 
 ---
 
@@ -1286,6 +1694,12 @@ D. 240 km
 - C) **BENAR**. 4,5 ÷ 1,5 = 3 (jumlah kali isi bensin). Jarak total = 3 × 60 = **180 km**. (Atau: jarak per L = 60 ÷ 1,5 = 40 km/L; total = 4,5 × 40 = 180 km.)
 - D) Salah hitung jarak per liter: 60 ÷ 1,5 dihitung 50; lalu 4,5 × 50 = 225 — distraktor 240 dari pembulatan.
 
+- **Konsep kunci:** Soal perbandingan jarak-bahan bakar diselesaikan dengan mencari rasio kelipatan, lalu mengalikannya dengan besaran yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Cari kelipatan bensin yang tersedia: 4,5 ÷ 1,5 = 3.
+  2. Kalikan dengan jarak per takaran: 3 × 60.
+  3. Hasil = 180 km.
+
 ---
 
 **70.** Pak Joni memiliki tali 12 m. Tali dipotong menjadi potongan-potongan 0,75 m. Berapa banyak potongan tali yang dihasilkan?
@@ -1302,6 +1716,12 @@ D. 24 potongan
 - B) **BENAR**. 12 ÷ 0,75 = ? Geser 0,75 → 75 (2 langkah). 12 → 1.200 (2 langkah). 1.200 ÷ 75 = **16 potongan**. Cek: 16 × 0,75 = 12. ✓
 - C) Salah operasi: 12 ÷ 1 = 12 (mengira 0,75 ≈ 1). Pembulatan tidak akurat.
 - D) Salah hitung: mengira aturan bagi 0,75 = kali 2: 12 × 2 = 24. Salah ingat aturan.
+
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak potongan dari panjang total dibagi panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,75 menjadi 75 (2 langkah).
+  2. Geser koma dividen 12 juga 2 langkah (tambah nol) menjadi 1.200.
+  3. Bagi seperti biasa: 1.200 ÷ 75 = 16 potongan.
 
 ---
 
@@ -1322,6 +1742,12 @@ D. Rp17.000
 - C) Mengira diskon = Rp15.000 (membulatkan): 85.000 − 15.000 = 70.000.
 - D) Hanya menulis nominal diskon (Rp17.000), bukan harga akhir. Salah baca pertanyaan.
 
+- **Konsep kunci:** Harga setelah diskon dihitung dengan mengurangkan nominal diskon (persen × harga awal) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Ubah persen menjadi desimal: 20% = 0,2.
+  2. Hitung nominal diskon: 0,2 × 85.000 = 17.000.
+  3. Kurangkan dari harga awal: 85.000 − 17.000 = Rp68.000.
+
 ---
 
 **72.** Sebuah mobil berjalan dengan kecepatan 60 km/jam. Jika berjalan selama 2,5 jam, jarak yang ditempuh adalah ...
@@ -1338,6 +1764,12 @@ D. 100 km
 - B) Salah hitung 60 × 0,5 = 45; 120 + 45 = 165. Salah perkalian dasar.
 - C) **BENAR**. Jarak = kecepatan × waktu = 60 × 2,5 = ? 6 × 25 = 150; 1 digit koma → 150,0 = **150 km**. Cek: 60 × 2 + 60 × 0,5 = 120 + 30 = 150.
 - D) Salah hitung: 60 × 2,5 = 100 (mungkin 40 × 2,5 = 100). Salah angka.
+
+- **Konsep kunci:** Jarak tempuh dihitung dengan rumus kecepatan × waktu.
+- **Langkah Penyelesaian:**
+  1. Kalikan kecepatan dengan waktu (abaikan koma dulu): 6 × 25 = 150.
+  2. Hitung total digit koma (1) dan tempatkan koma sesuai aturan.
+  3. Hasil = 150 km.
 
 ---
 
@@ -1356,6 +1788,11 @@ D. 6 km/jam
 - C) Salah operasi: 240 × 4 ÷ ... → 600. Atau 240 ÷ 0,4 = 600 (salah konversi waktu).
 - D) Salah penempatan koma: 240 ÷ 4 = 60 → ditulis 6 (kelebihan bagi 10). Salah perpindahan tempat.
 
+- **Konsep kunci:** Kecepatan rata-rata dihitung dengan rumus jarak ÷ waktu.
+- **Langkah Penyelesaian:**
+  1. Bagi jarak dengan waktu tempuh: 240 ÷ 4.
+  2. Hasil = 60 km/jam.
+
 ---
 
 **74.** Sebuah persegi panjang luasnya 24,5 m² dan lebar 3,5 m. Panjangnya adalah ...
@@ -1372,6 +1809,12 @@ D. 70 m
 - B) **BENAR**. Panjang = Luas ÷ lebar = 24,5 ÷ 3,5 = ? Geser 3,5 → 35 (1 langkah). 24,5 → 245 (1 langkah). 245 ÷ 35 = **7 m**.
 - C) Salah pembagian: 24 ÷ 4 = 6 (mengira angka kasar). Tidak akurat.
 - D) Geser dividen 2 langkah (kelebihan 1): 24,5 → 2.450. 2.450 ÷ 35 = 70.
+
+- **Konsep kunci:** Panjang persegi panjang dihitung dari luas dibagi lebar.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 3,5 menjadi 35 (1 langkah).
+  2. Geser koma dividen 24,5 juga 1 langkah menjadi 245.
+  3. Bagi seperti biasa: 245 ÷ 35 = 7 m.
 
 ---
 
@@ -1390,6 +1833,12 @@ D. 0,16
 - C) Lupa kuadrat: hanya 0,4 + 0,3 = 0,7. Tidak mengkuadratkan.
 - D) Hanya menghitung 0,4² = 0,16. Lupa menambahkan 0,3².
 
+- **Konsep kunci:** Kuadrat suatu bilangan berarti dikalikan dengan dirinya sendiri, dan harus dihitung sebelum dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 0,4² = 0,4 × 0,4 = 0,16.
+  2. Hitung 0,3² = 0,3 × 0,3 = 0,09.
+  3. Jumlahkan 0,16 + 0,09 = 0,25.
+
 ---
 
 **76.** Sebuah benda berberat 1,25 kg dimasukkan ke wadah berberat 0,75 kg. Jika wadah lain berberat 1,5 kg ditambahkan, total berat adalah ...
@@ -1406,6 +1855,12 @@ D. 3,5 kg
 - B) Salah penjumlahan: lupa simpan; 1,25 + 0,75 + 1,5 dihitung 4,0.
 - C) Lupa salah satu addend: 1,25 + 1,5 = 2,75. Lupa wadah 0,75.
 - D) **BENAR**. Total = 1,25 + 0,75 + 1,5 = 1,25 + 0,75 + 1,50. Belakang: 5 + 5 + 0 = 10 (tulis 0 simpan 1); 2 + 7 + 5 + 1 = 15 (tulis 5 simpan 1); 1 + 0 + 1 + 1 = 3. Total = **3,50 kg** = **3,5 kg**.
+
+- **Konsep kunci:** Menjumlahkan beberapa desimal berjumlah digit berbeda memerlukan penyamaan dengan nol pengisi.
+- **Langkah Penyelesaian:**
+  1. Susun ketiga berat dengan koma sejajar (tambah nol pengisi bila perlu).
+  2. Jumlahkan dari kanan ke kiri sambil menyimpan kelebihan.
+  3. Hasil = 3,5 kg.
 
 ---
 
@@ -1424,6 +1879,12 @@ D. 24,32 detik
 - C) Salah belakang koma: pinjam tidak benar; 0,68 bukannya 0,58.
 - D) Salah operasi: menjumlahkan bukannya mengurangi: 12,45 + 11,87 = 24,32.
 
+- **Konsep kunci:** Selisih waktu dihitung dengan pengurangan desimal yang sering memerlukan pinjaman bertahap.
+- **Langkah Penyelesaian:**
+  1. Susun 12,45 − 11,87 dengan koma sejajar.
+  2. Kurangkan dari kanan dengan meminjam bertahap.
+  3. Hasil = 0,58 detik.
+
 ---
 
 **78.** Sebuah tangki air berisi 250 L. Setiap menit air mengalir keluar 4,5 L. Setelah 30 menit, sisa air dalam tangki adalah ...
@@ -1440,6 +1901,12 @@ D. 115 L
 - B) Salah hitung debit total: 30 × 4 = 120; 250 − 120 = 130 — distraktor 125 dari salah arah.
 - C) Salah operasi: 250 − 150 = 100 (membulatkan 135 jadi 150). 
 - D) **BENAR**. Air keluar total = 30 × 4,5 = 135 L (3 × 45 = 135; 1 digit koma → 13,5 × 10 = 135). Sisa = 250 − 135 = **115 L**.
+
+- **Konsep kunci:** Sisa isi tangki dihitung dengan mengurangkan total air yang keluar (debit × waktu) dari isi awal.
+- **Langkah Penyelesaian:**
+  1. Hitung total air yang keluar: 30 × 4,5 = 135 L.
+  2. Kurangkan dari isi awal: 250 − 135.
+  3. Hasil = 115 L.
 
 ---
 
@@ -1458,6 +1925,12 @@ D. 5 potongan
 - C) Geser dividen 3 langkah (kelebihan 1): 25 → 25.000. 25.000 ÷ 125 = 200.
 - D) Salah pembagian: 25 ÷ 5 = 5 (mengira 1,25 = 5 atau salah operasi). Tidak konsisten.
 
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak potongan dari panjang total dibagi panjang tiap potong.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 1,25 menjadi 125 (2 langkah).
+  2. Geser koma dividen 25 juga 2 langkah (tambah nol) menjadi 2.500.
+  3. Bagi seperti biasa: 2.500 ÷ 125 = 20 potongan.
+
 ---
 
 **80.** Berat 3 kantong gula adalah 7,5 kg. Berat 5 kantong gula yang sama adalah ...
@@ -1474,6 +1947,12 @@ D. 15 kg
 - B) Salah hitung: 5 × 2 = 10 (membulatkan 2,5 jadi 2). 
 - C) **BENAR**. Berat 1 kantong = 7,5 ÷ 3 = 2,5 kg. Berat 5 kantong = 5 × 2,5 = **12,5 kg**.
 - D) Salah hitung: 5 × 3 = 15 (mengira 1 kantong = 3 kg). Salah pembagian awal.
+
+- **Konsep kunci:** Cari nilai per satu bagian (satuan) dulu, baru kalikan dengan jumlah bagian yang ditanyakan.
+- **Langkah Penyelesaian:**
+  1. Cari berat 1 kantong: 7,5 ÷ 3 = 2,5 kg.
+  2. Kalikan dengan jumlah kantong yang ditanya: 5 × 2,5.
+  3. Hasil = 12,5 kg.
 
 ---
 
@@ -1493,6 +1972,12 @@ D. 5,2
 - B) Hanya menghitung bagian kiri: 0,75 × 0,4 = 0,3. Lupa bagian bagi.
 - C) Salah operasi kali: 0,75 × 0,4 = 0,8 (salah penempatan koma); 0,8 + 0,5 = 1,3.
 - D) Salah operasi total: (0,75 × 0,4) + (0,1 × 0,2)... → atau salah ÷ → 5,2 dari operasi salah arah.
+
+- **Konsep kunci:** Urutan operasi hitung campuran: kurung dulu, lalu semua kali/bagi, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung: 0,5 + 0,25 = 0,75.
+  2. Kerjakan kali dan bagi: 0,75 × 0,4 = 0,3 dan 0,1 ÷ 0,2 = 0,5.
+  3. Jumlahkan 0,3 + 0,5 = 0,8.
 
 ---
 
@@ -1515,6 +2000,12 @@ D. 30 lampu
 
 > Catatan: Pembulatan pada soal lampu/pohon di sekeliling memerlukan ke atas agar siklus tertutup.
 
+- **Konsep kunci:** Soal lampu/pohon mengelilingi taman memerlukan pembulatan ke atas dari hasil keliling dibagi jarak agar tidak ada celah.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling taman: 2 × (8,5 + 6,4) = 29,8 m.
+  2. Bagi dengan jarak antar lampu: 29,8 ÷ 1,7 ≈ 17,5.
+  3. Bulatkan ke atas menjadi 18 lampu agar siklus tertutup.
+
 ---
 
 **83.** Bu Tina membeli 4,5 kg jeruk seharga Rp18.000/kg. Karena membayar tunai, dapat diskon 10%. Total yang dibayar adalah ...
@@ -1531,6 +2022,12 @@ D. Rp72.900
 - B) Lupa kurangi diskon: hanya subtotal 81.000. 
 - C) Salah operasi diskon: 81.000 + 8.100 = 89.100. Salah konsep diskon (ditambah bukannya dikurangi).
 - D) **BENAR**. Subtotal = 4,5 × 18.000 = 81.000 (45 × 18 = 810; 1 digit koma → 81,0 ribu = 81.000). Diskon 10% = 0,1 × 81.000 = 8.100. Bayar = 81.000 − 8.100 = **Rp72.900**.
+
+- **Konsep kunci:** Total belanja dengan diskon dihitung dengan mengurangkan nominal diskon dari subtotal.
+- **Langkah Penyelesaian:**
+  1. Hitung subtotal: 4,5 × 18.000 = 81.000.
+  2. Hitung nominal diskon: 0,1 × 81.000 = 8.100.
+  3. Kurangkan: 81.000 − 8.100 = Rp72.900.
 
 ---
 
@@ -1549,6 +2046,12 @@ D. 0,55 kg
 - C) Salah penjumlahan: lupa simpan 2 → 0,45. 
 - D) Salah penjumlahan: hitung sembarang → 0,55.
 
+- **Konsep kunci:** Menjumlahkan beberapa desimal berjumlah digit berbeda memerlukan penyamaan dengan nol pengisi.
+- **Langkah Penyelesaian:**
+  1. Susun keempat bahan dengan koma sejajar (tambah nol pengisi bila perlu).
+  2. Jumlahkan dari kanan ke kiri sambil menyimpan kelebihan.
+  3. Hasil = 0,5 kg.
+
 ---
 
 **85.** Hasil dari 1,5 × 0,8 ÷ 0,3 + 0,7 adalah ...
@@ -1565,6 +2068,12 @@ D. 1,7
 - B) Lupa tambah 0,7: hanya 1,2 ÷ 0,3 = 4. Tidak menyelesaikan langkah terakhir.
 - C) Salah operasi: (1,5 × 0,8 ÷ 0,3) + 0,7 dihitung 4,7 → distraktor 5,4 dari salah operasi (mungkin 4 + 0,7 + 0,7 atau salah jumlah).
 - D) Salah pembagian: 1,2 ÷ 0,3 = 1 (mengira 1,2 ÷ 1,2 atau salah aturan); 1 + 0,7 = 1,7.
+
+- **Konsep kunci:** Perkalian dan pembagian dikerjakan dari kiri ke kanan sebelum penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 1,5 × 0,8 = 1,2.
+  2. Bagi hasilnya: 1,2 ÷ 0,3 = 4.
+  3. Jumlahkan 4 + 0,7 = 4,7.
 
 ---
 
@@ -1583,6 +2092,12 @@ D. 55 L
 - C) **BENAR**. Air dipindahkan = 30 × 2,5 = 75 L (3 × 25 = 75; 1 digit koma → 75,0 = 75; perhatikan: 30 × 25 = 750, 1 digit koma → 75,0; cek: 30 × 2,5 = 30 × 2 + 30 × 0,5 = 60 + 15 = 75 ✓). Sisa = 120 − 75 = **45 L**.
 - D) Salah perkalian: 30 × 2,5 dihitung 65; 120 − 65 = 55. Tidak akurat.
 
+- **Konsep kunci:** Sisa isi tangki dihitung dengan mengurangkan total air yang dipindahkan dari isi awal.
+- **Langkah Penyelesaian:**
+  1. Hitung air yang dipindahkan: 30 × 2,5 = 75 L.
+  2. Kurangkan dari isi awal: 120 − 75.
+  3. Hasil = 45 L.
+
 ---
 
 **87.** Hasil dari 2,4 ÷ 0,8 × 0,5 − 0,5 adalah ...
@@ -1599,6 +2114,12 @@ D. 1,5
 - B) Salah operasi terakhir: 1,5 − 1 = 0,5 (mengira ada 1 di tempat 0,5). Atau lupa tahap perkalian.
 - C) Salah urutan: 2,4 ÷ 0,8 = 3; 3 + ... = 2,5. Tidak konsisten.
 - D) Lupa kurangi 0,5: hanya 3 × 0,5 = 1,5. Tidak menyelesaikan langkah terakhir.
+
+- **Konsep kunci:** Perkalian dan pembagian yang berderet dikerjakan dulu (dari kiri ke kanan) sebelum pengurangan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu: 2,4 ÷ 0,8 = 3.
+  2. Kalikan hasilnya: 3 × 0,5 = 1,5.
+  3. Kurangkan 1,5 − 0,5 = 1.
 
 ---
 
@@ -1617,6 +2138,12 @@ D. 48 cm²
 - C) Salah pembagian: 96 ÷ 3 = 32, atau salah hitung luas = 120 ÷ 4 = 30. Tidak konsisten.
 - D) Lupa membagi 4: hanya luas tiap "setengah" = 48 (96 ÷ 2). Atau membagi 2 bukannya 4.
 
+- **Konsep kunci:** Cari luas total dulu, baru bagi sama besar sesuai jumlah potongan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung luas total: 12,8 × 7,5 = 96 cm².
+  2. Bagi dengan jumlah potongan: 96 ÷ 4.
+  3. Hasil = 24 cm² per potongan.
+
 ---
 
 **89.** Hasil dari 5,6 × 2,5 − 3,2 × 1,5 adalah ...
@@ -1633,6 +2160,12 @@ D. 9,2
 - B) Lupa kurangi: hanya 5,6 × 2,5 = 14. Tidak menyelesaikan langkah terakhir.
 - C) Salah operasi: 14 − 3,2 × 1,5 dianggap (14 − 3,2) × 1,5 = 16,2 — distraktor 4,8 hanya menghitung 3,2 × 1,5 = 4,8. Salah baca yang ditanya.
 - D) **BENAR**. Kali dulu: 5,6 × 2,5 = 14 (56 × 25 = 1.400; 2 digit koma → 14,00 = 14). 3,2 × 1,5 = 4,8 (32 × 15 = 480; 2 digit koma → 4,80). Lalu 14 − 4,8 = **9,2**.
+
+- **Konsep kunci:** Kerjakan semua perkalian dulu, baru kurangkan hasil-hasilnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan suku pertama: 5,6 × 2,5 = 14.
+  2. Kalikan suku kedua: 3,2 × 1,5 = 4,8.
+  3. Kurangkan 14 − 4,8 = 9,2.
 
 ---
 
@@ -1651,6 +2184,12 @@ D. 6 jam
 - C) Salah hitung salah satu tahap: 60 ÷ 20 = 3; 2 + 3 = 5. Salah baca kecepatan.
 - D) Salah hitung total: jarak total ÷ rata-rata salah = 140 ÷ 23,3... → membulatkan jadi 6. Salah konsep.
 
+- **Konsep kunci:** Total waktu perjalanan bertahap sama dengan jumlah waktu tiap tahap (jarak ÷ kecepatan masing-masing).
+- **Langkah Penyelesaian:**
+  1. Hitung waktu tahap pertama: 80 ÷ 40 = 2 jam.
+  2. Hitung waktu tahap kedua: 60 ÷ 30 = 2 jam.
+  3. Jumlahkan 2 + 2 = 4 jam.
+
 ---
 
 **91.** Hasil dari (1,5 + 0,5) × (0,8 − 0,3) ÷ 0,25 adalah ...
@@ -1667,6 +2206,12 @@ D. 4
 - B) Salah pembagian: 1 ÷ 0,25 = 0,4 (lupa geser dividen). 
 - C) Salah geser dividen 2 langkah: 1 → 100; 100 ÷ 0,25 (tanpa geser pembagi lagi) = 400 → distraktor 40.
 - D) **BENAR**. Kurung kiri: 1,5 + 0,5 = 2. Kurung kanan: 0,8 − 0,3 = 0,5. Kali: 2 × 0,5 = 1,0 = 1. Bagi: 1 ÷ 0,25 = 4 (geser: 100 ÷ 25 = 4). Hasil = **4**.
+
+- **Konsep kunci:** Operasi dalam dua kurung dikerjakan lebih dulu, baru dilanjutkan dengan kali dan bagi berurutan.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kedua kurung: 1,5 + 0,5 = 2 dan 0,8 − 0,3 = 0,5.
+  2. Kalikan hasil kedua kurung: 2 × 0,5 = 1.
+  3. Bagi hasilnya: 1 ÷ 0,25 = 4.
 
 ---
 
@@ -1685,6 +2230,12 @@ D. 35 kantong
 - C) Salah hitung: 75 ÷ 1,5 = 50 (salah baca kantong). 
 - D) Salah operasi: 75 ÷ 2 + 0 = 37,5 → distraktor 35 (membulatkan ke bawah salah).
 
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak kantong dari berat total dibagi berat tiap kantong.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 2,5 menjadi 25 (1 langkah).
+  2. Geser koma dividen 75 juga 1 langkah (tambah nol) menjadi 750.
+  3. Bagi seperti biasa: 750 ÷ 25 = 30 kantong.
+
 ---
 
 **93.** Hasil dari 0,3 + 0,03 + 0,003 + 0,0003 + 0,00003 adalah ...
@@ -1701,6 +2252,12 @@ D. 0,0033333
 - B) Salah baca addend pertama: 0,03 dianggap 0,03 (mengabaikan 0,3 sebagai 0,03). 
 - C) Lupa addend terakhir: jumlah 4 addend pertama = 0,3333; ditulis 0,33330 (lupa 0,00003).
 - D) Salah penempatan koma di awal: semua dianggap 100x lebih kecil.
+
+- **Konsep kunci:** Deret desimal dengan nilai tempat berurutan dijumlahkan dengan menyamakan jumlah digit di belakang koma.
+- **Langkah Penyelesaian:**
+  1. Tulis semua suku dengan 5 digit di belakang koma (tambah nol pengisi).
+  2. Jumlahkan tiap kolom nilai tempat dari kanan ke kiri.
+  3. Hasil = 0,33333.
 
 ---
 
@@ -1721,6 +2278,12 @@ D. 7,5 baterai
 
 > Catatan: Karena baterai harus utuh dan 8 × 0,75 = 6 tepat, jawabannya 8 utuh.
 
+- **Konsep kunci:** Pembagian desimal dipakai untuk mencari banyak unit dari total kebutuhan dibagi kapasitas tiap unit.
+- **Langkah Penyelesaian:**
+  1. Geser koma pembagi 0,75 menjadi 75 (2 langkah).
+  2. Geser koma dividen 6 juga 2 langkah (tambah nol) menjadi 600.
+  3. Bagi seperti biasa: 600 ÷ 75 = 8 baterai (dibulatkan ke atas karena harus utuh).
+
 ---
 
 **95.** Dalam suatu lomba, 5 anak memperoleh nilai: 8,5; 7,75; 9,25; 8,0; dan 9,5. Rata-rata nilai kelima anak adalah ...
@@ -1737,6 +2300,12 @@ D. 8,6
 - B) Salah pembagian: 43 ÷ 5 dianggap 8,5 (mengira ada penyesuaian).
 - C) Salah pembagian: 45 ÷ 5 = 9 (mengabaikan desimal di jumlah).
 - D) **BENAR**. Jumlah = 8,5 + 7,75 + 9,25 + 8,0 + 9,5 = 8,50 + 7,75 + 9,25 + 8,00 + 9,50. Belakang: 0+5+5+0+0 = 10 (tulis 0 simpan 1); 5+7+2+0+5+1 = 20 (tulis 0 simpan 2); 8+7+9+8+9+2 = 43. Total = **43,00**. Rata-rata = 43 ÷ 5 = **8,6**.
+
+- **Konsep kunci:** Rata-rata dihitung dengan menjumlahkan semua nilai lalu membaginya dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima nilai dengan koma sejajar (tambah nol pengisi bila perlu): hasilnya 43,00.
+  2. Bagi jumlah dengan banyak anak: 43 ÷ 5.
+  3. Hasil = 8,6.
 
 ---
 
@@ -1755,6 +2324,12 @@ D. 0,25 m³
 - C) **BENAR**. Volume kubus = rusuk³ = 0,5 × 0,5 × 0,5. 0,5 × 0,5 = 0,25 (5 × 5 = 25; 2 digit koma → 0,25). 0,25 × 0,5 = 0,125 (25 × 5 = 125; 3 digit koma → 0,125). Volume = **0,125 m³**.
 - D) Hanya menghitung 0,5 × 0,5 = 0,25 (lupa kali 0,5 sekali lagi). Tidak menyelesaikan rumus pangkat 3.
 
+- **Konsep kunci:** Volume kubus dihitung dengan rumus rusuk × rusuk × rusuk (pangkat tiga).
+- **Langkah Penyelesaian:**
+  1. Kalikan rusuk dengan dirinya sendiri: 0,5 × 0,5 = 0,25.
+  2. Kalikan lagi dengan rusuk: 0,25 × 0,5.
+  3. Hasil = 0,125 m³.
+
 ---
 
 **97.** Jika 0,75 × A = 6, maka A adalah ...
@@ -1772,6 +2347,12 @@ D. 6,75
 - C) Salah operasi: 0,75 ÷ 6 = 0,125 (kebalikan pembagian). Salah konsep.
 - D) Salah operasi: 6 + 0,75 = 6,75 (jumlah bukannya bagi). Salah konsep persamaan.
 
+- **Konsep kunci:** Untuk mencari faktor yang belum diketahui dalam perkalian, bagi hasil kali dengan faktor yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Ubah persamaan menjadi pembagian: A = 6 ÷ 0,75.
+  2. Geser koma pembagi dan dividen sama banyak: 0,75 → 75, 6 → 600.
+  3. Bagi 600 ÷ 75 = 8.
+
 ---
 
 **98.** Hasil dari 0,1 + 0,01 + 0,001 + ... + 0,0000001 (7 suku, tiap suku 10× lebih kecil) adalah ...
@@ -1788,6 +2369,12 @@ D. 0,1234567
 - B) Salah baca suku pertama: 0,01 (mengabaikan 0,1). Hasil 6 digit 1.
 - C) Salah penjumlahan: 7 × 0,1 = 0,7 (mengira semua suku 0,1). Salah konsep.
 - D) Salah baca: tiap suku diisi digit 1–7 berurutan. Tidak sesuai pola.
+
+- **Konsep kunci:** Menjumlahkan deret desimal dengan nilai tempat berbeda dilakukan dengan menyamakan posisi tiap suku pada kolomnya.
+- **Langkah Penyelesaian:**
+  1. Tulis semua suku sejajar menurut nilai tempatnya (persepuluhan hingga persepuluh-jutaan).
+  2. Jumlahkan tiap kolom nilai tempat (masing-masing hanya berisi satu angka 1).
+  3. Hasil = 0,1111111.
 
 ---
 
@@ -1808,6 +2395,12 @@ D. 1,7 m²
 
 > Catatan: A dan C berbeda format. Jawaban baku tunggal → C.
 
+- **Konsep kunci:** Ukuran taplak dihitung dengan menambahkan overhang di kedua sisi sebelum mengalikan panjang dan lebar untuk mencari luas.
+- **Langkah Penyelesaian:**
+  1. Tambahkan overhang ke panjang: 1,25 + 0,30 = 1,55 m, dan ke lebar: 0,8 + 0,30 = 1,10 m.
+  2. Kalikan panjang dan lebar taplak: 1,55 × 1,10.
+  3. Hasil = 1,705 m².
+
 ---
 
 **100.** Hasil dari [(2,5 + 1,5) ÷ 0,4 − 5] × 1,5 adalah ...
@@ -1824,6 +2417,12 @@ D. 1,5
 - B) Salah pembagian: 4 ÷ 0,4 = 10 → tetapi salah kurang: 10 + 5 = 15 → × 1,5 = 22,5 — distraktor 11,25 dari salah hitung. Mengira operasi terakhir adalah jumlah.
 - C) Lupa kali terakhir: hanya menjawab 10 − 5 = 5. Tidak menyelesaikan langkah terakhir.
 - D) Salah hitung kurung: 4 ÷ 0,4 dianggap 1 (lupa geser); 1 − 5 = −4 → × 1,5 = −6 → distraktor 1,5 (menyalin pengali). Salah dasar.
+
+- **Konsep kunci:** Soal campuran bertingkat dengan kurung diselesaikan dari operasi paling dalam ke luar sesuai urutan operasi hitung.
+- **Langkah Penyelesaian:**
+  1. Kerjakan kurung dalam dulu: 2,5 + 1,5 = 4.
+  2. Bagi lalu kurangkan: 4 ÷ 0,4 = 10, kemudian 10 − 5 = 5.
+  3. Kalikan hasilnya dengan 1,5: 5 × 1,5 = 7,5.
 
 ---
 

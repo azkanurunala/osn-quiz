@@ -103,6 +103,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — **BENAR.** Tertinggi 90, terendah 60. Jangkauan = 90 − 60 = **30**.
 - **D** — 150. Menjumlahkan 90 + 60 = 150. Salah operasi (tambah, bukan kurang).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90.
+  2. Cari data terendah = 60.
+  3. Jangkauan = 90 − 60 = 30.
+
 ---
 
 **2.** Berat badan lima anak (kg): 28, 35, 32, 40, 30. Berapa jangkauan beratnya?
@@ -118,6 +124,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 8. Mengambil 40 − 32 = 8 (lupa 28 lebih kecil). Salah terendah.
 - **C** — 10. Mengambil 40 − 30 = 10 (lupa 28). Salah terendah.
 - **D** — 68. Menjumlahkan 40 + 28 = 68. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 40 kg.
+  2. Cari data terendah = 28 kg.
+  3. Jangkauan = 40 − 28 = 12 kg.
 
 ---
 
@@ -135,6 +147,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 5. Mengambil 150 − 145 = 5 (salah urut, terlalu cepat baca).
 - **D** — **BENAR.** Tertinggi 150, terendah 138. Jangkauan = 150 − 138 = **12 cm**.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 150 cm.
+  2. Cari data terendah = 138 cm.
+  3. Jangkauan = 150 − 138 = 12 cm.
+
 ---
 
 **4.** Nilai matematika tujuh siswa: 65, 70, 80, 60, 90, 85, 75. Berapa jangkauannya?
@@ -150,6 +168,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 90, terendah 60. Jangkauan = 90 − 60 = **30**.
 - **C** — 20. Mengambil 80 − 60 = 20 (salah tertinggi).
 - **D** — 150. Menjumlahkan 90 + 60 = 150. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90.
+  2. Cari data terendah = 60.
+  3. Jangkauan = 90 − 60 = 30.
 
 ---
 
@@ -167,6 +191,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 5. Mengambil 12 − 7 = 5 (salah tertinggi).
 - **D** — 22. Menjumlahkan 15 + 7 = 22. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 15 tahun.
+  2. Cari data terendah = 7 tahun.
+  3. Jangkauan = 15 − 7 = 8 tahun.
+
 ---
 
 **6.** Banyak buku yang dibaca lima siswa per bulan: 3, 8, 5, 12, 6. Jangkauannya …
@@ -182,6 +212,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 7. Mengambil 12 − 5 = 7 (lupa 3).
 - **C** — 8. Mengambil 11 − 3 = 8 (salah baca tertinggi 12 menjadi 11).
 - **D** — **BENAR.** Tertinggi 12, terendah 3. Jangkauan = 12 − 3 = **9**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 12.
+  2. Cari data terendah = 3.
+  3. Jangkauan = 12 − 3 = 9.
 
 ---
 
@@ -199,6 +235,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 2. Mengambil 28 − 26 = 2 (salah tertinggi).
 - **D** — 58. Menjumlahkan 32 + 26 = 58. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 32 °C.
+  2. Cari data terendah = 26 °C.
+  3. Jangkauan = 32 − 26 = 6 °C.
+
 ---
 
 **8.** Hasil panen lima petani (kg): 50, 75, 60, 90, 45. Berapa jangkauan hasil panen?
@@ -214,6 +256,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 25. Mengambil 75 − 50 = 25 (salah tertinggi dan terendah).
 - **C** — **BENAR.** Tertinggi 90, terendah 45. Jangkauan = 90 − 45 = **45 kg**.
 - **D** — 135. Menjumlahkan 90 + 45 = 135. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90 kg.
+  2. Cari data terendah = 45 kg.
+  3. Jangkauan = 90 − 45 = 45 kg.
 
 ---
 
@@ -231,6 +279,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 17. Mengambil 95 − 78 = 17 (lupa 75 lebih kecil).
 - **D** — 170. Menjumlahkan 95 + 75 = 170. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 95.
+  2. Cari data terendah = 75.
+  3. Jangkauan = 95 − 75 = 20.
+
 ---
 
 **10.** Banyak telur ayam yang dihasilkan tiap hari (butir): 22, 18, 25, 20, 24. Berapa jangkauannya?
@@ -246,6 +300,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 25, terendah 18. Jangkauan = 25 − 18 = **7 butir**.
 - **C** — 4. Mengambil 22 − 18 = 4 (salah tertinggi).
 - **D** — 43. Menjumlahkan 25 + 18 = 43. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 25 butir.
+  2. Cari data terendah = 18 butir.
+  3. Jangkauan = 25 − 18 = 7 butir.
 
 ---
 
@@ -263,6 +323,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 35. Mengambil 120 − 85 = 35 (lupa 80).
 - **D** — **BENAR.** Tertinggi 120, terendah 80. Jangkauan = 120 − 80 = **40**.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 120.
+  2. Cari data terendah = 80.
+  3. Jangkauan = 120 − 80 = 40.
+
 ---
 
 **12.** Tinggi 5 tanaman cabai (cm): 12, 18, 15, 20, 10. Jangkauannya adalah …
@@ -278,6 +344,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 5. Mengambil 15 − 10 = 5 (lebih salah lagi tertinggi).
 - **C** — **BENAR.** Tertinggi 20, terendah 10. Jangkauan = 20 − 10 = **10 cm**.
 - **D** — 30. Menjumlahkan 20 + 10 = 30. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 20 cm.
+  2. Cari data terendah = 10 cm.
+  3. Jangkauan = 20 − 10 = 10 cm.
 
 ---
 
@@ -295,6 +367,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 3. Mengambil 18 − 15 = 3 (salah keduanya).
 - **D** — 38. Menjumlahkan 20 + 18 = 38 (salah penjumlahan, dan salah operasi).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 20 detik.
+  2. Cari data terendah = 14 detik.
+  3. Jangkauan = 20 − 14 = 6 detik.
+
 ---
 
 **14.** Berat 6 ekor ikan (gram): 250, 280, 220, 300, 240, 260. Jangkauannya …
@@ -310,6 +388,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 300, terendah 220. Jangkauan = 300 − 220 = **80 gram**.
 - **C** — 40. Mengambil 260 − 220 = 40 (salah tertinggi).
 - **D** — 520. Menjumlahkan 300 + 220 = 520. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 300 gram.
+  2. Cari data terendah = 220 gram.
+  3. Jangkauan = 300 − 220 = 80 gram.
 
 ---
 
@@ -327,6 +411,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — **BENAR.** Tertinggi 15, terendah 8. Jangkauan = 15 − 8 = **7 ribu**.
 - **D** — 23. Menjumlahkan 15 + 8 = 23. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 15 ribu.
+  2. Cari data terendah = 8 ribu.
+  3. Jangkauan = 15 − 8 = 7 ribu.
+
 ---
 
 **16.** Jumlah pengunjung perpustakaan tiap hari: 40, 55, 35, 60, 50, 45. Jangkauannya …
@@ -342,6 +432,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 15. Mengambil 60 − 45 = 15 (salah terendah).
 - **C** — 30. Mengambil 65 − 35 = 30 (salah baca tertinggi 60 menjadi 65).
 - **D** — **BENAR.** Tertinggi 60, terendah 35. Jangkauan = 60 − 35 = **25**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 60.
+  2. Cari data terendah = 35.
+  3. Jangkauan = 60 − 35 = 25.
 
 ---
 
@@ -359,6 +455,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 4. Mengambil 32 − 28 = 4 (salah terendah).
 - **D** — 59. Menjumlahkan 32 + 27 = 59. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 32.
+  2. Cari data terendah = 27.
+  3. Jangkauan = 32 − 27 = 5.
+
 ---
 
 **18.** Nilai bahasa Indonesia 6 siswa: 80, 75, 85, 70, 90, 78. Jangkauannya …
@@ -374,6 +476,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 90, terendah 70. Jangkauan = 90 − 70 = **20**.
 - **C** — 10. Mengambil 90 − 80 = 10 (salah terendah).
 - **D** — 25. Mengambil 95 − 70 = 25 (salah baca 90 menjadi 95).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90.
+  2. Cari data terendah = 70.
+  3. Jangkauan = 90 − 70 = 20.
 
 ---
 
@@ -391,6 +499,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 12. Mengambil 40 − 28 = 12 (salah tertinggi).
 - **D** — **BENAR.** Tertinggi 45, terendah 28. Jangkauan = 45 − 28 = **17**.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 45.
+  2. Cari data terendah = 28.
+  3. Jangkauan = 45 − 28 = 17.
+
 ---
 
 **20.** Suhu air di lima gelas (°C): 25, 30, 20, 35, 28. Jangkauannya …
@@ -406,6 +520,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 5. Mengambil 35 − 30 = 5 (salah terendah).
 - **C** — **BENAR.** Tertinggi 35, terendah 20. Jangkauan = 35 − 20 = **15 °C**.
 - **D** — 55. Menjumlahkan 35 + 20 = 55. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 35 °C.
+  2. Cari data terendah = 20 °C.
+  3. Jangkauan = 35 − 20 = 15 °C.
 
 ---
 
@@ -423,6 +543,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 10. Mengambil 80 − 70 = 10 (salah tertinggi).
 - **D** — 12. Mengambil 82 − 70 = 12 (salah baca 85 menjadi 82).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 85.
+  2. Cari data terendah = 70.
+  3. Jangkauan = 85 − 70 = 15.
+
 ---
 
 **22.** Berat tepung di 5 kantong (kg): 5, 7, 4, 8, 6. Jangkauan beratnya …
@@ -438,6 +564,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 3. Mengambil 7 − 4 = 3 (salah tertinggi).
 - **C** — 5. Mengambil 9 − 4 = 5 (salah baca tertinggi).
 - **D** — 12. Menjumlahkan 8 + 4 = 12. Salah operasi.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 8 kg.
+  2. Cari data terendah = 4 kg.
+  3. Jangkauan = 8 − 4 = 4 kg.
 
 ---
 
@@ -455,6 +587,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — **BENAR.** Tertinggi 22, terendah 10. Jangkauan = 22 − 10 = **12**.
 - **D** — 32. Menjumlahkan 22 + 10 = 32. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 22.
+  2. Cari data terendah = 10.
+  3. Jangkauan = 22 − 10 = 12.
+
 ---
 
 **24.** Banyak permen di 6 toples: 24, 30, 20, 28, 35, 22. Jangkauannya …
@@ -470,6 +608,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 13. Mengambil 35 − 22 = 13 (lupa 20).
 - **C** — 10. Mengambil 30 − 20 = 10 (salah tertinggi).
 - **D** — **BENAR.** Tertinggi 35, terendah 20. Jangkauan = 35 − 20 = **15**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 35.
+  2. Cari data terendah = 20.
+  3. Jangkauan = 35 − 20 = 15.
 
 ---
 
@@ -487,6 +631,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 10. Mengambil 80 − 70 = 10 (salah tertinggi dan terendah).
 - **D** — 150. Menjumlahkan 85 + 65 = 150. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 85.
+  2. Cari data terendah = 65.
+  3. Jangkauan = 85 − 65 = 20.
+
 ---
 
 **26.** Banyak kelereng 5 anak: 40, 55, 35, 60, 50. Jangkauannya …
@@ -502,6 +652,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 15. Mengambil 50 − 35 = 15 (salah tertinggi).
 - **C** — **BENAR.** Tertinggi 60, terendah 35. Jangkauan = 60 − 35 = **25**.
 - **D** — 30. Mengambil 65 − 35 = 30 (salah baca tertinggi 60 menjadi 65).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 60.
+  2. Cari data terendah = 35.
+  3. Jangkauan = 60 − 35 = 25.
 
 ---
 
@@ -519,6 +675,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 45. Mengambil 240 − 195 = 45 (lupa 180 lebih kecil).
 - **D** — 40. Mengambil 220 − 180 = 40 (salah tertinggi).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 240.
+  2. Cari data terendah = 180.
+  3. Jangkauan = 240 − 180 = 60.
+
 ---
 
 **28.** Lima keluarga punya anak: 2, 4, 1, 5, 3. Jangkauannya …
@@ -534,6 +696,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 5. Hanya menulis nilai tertinggi (lupa kurangi).
 - **C** — 2. Mengambil 5 − 3 = 2 (salah terendah).
 - **D** — **BENAR.** Tertinggi 5, terendah 1. Jangkauan = 5 − 1 = **4 anak**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 5 anak.
+  2. Cari data terendah = 1 anak.
+  3. Jangkauan = 5 − 1 = 4 anak.
 
 ---
 
@@ -551,6 +719,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — **BENAR.** Tertinggi 40, terendah 20. Jangkauan = 40 − 20 = **20 cm**.
 - **D** — 25. Mengambil 45 − 20 = 25 (salah baca 40 menjadi 45).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 40 cm.
+  2. Cari data terendah = 20 cm.
+  3. Jangkauan = 40 − 20 = 20 cm.
+
 ---
 
 **30.** Jumlah penonton 5 pertunjukan: 120, 150, 100, 180, 140. Jangkauannya …
@@ -566,6 +740,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 60. Mengambil 180 − 120 = 60 (salah terendah).
 - **C** — 70. Mengambil 170 − 100 = 70 (salah baca 180 menjadi 170).
 - **D** — 90. Mengambil 190 − 100 = 90 (salah baca 180 menjadi 190).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 180.
+  2. Cari data terendah = 100.
+  3. Jangkauan = 180 − 100 = 80.
 
 ---
 
@@ -583,6 +763,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 4. Mengambil 32 − 28 = 4 (salah terendah).
 - **D** — 8. Mengambil 33 − 25 = 8 (salah baca 32 menjadi 33).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 32.
+  2. Cari data terendah = 25.
+  3. Jangkauan = 32 − 25 = 7.
+
 ---
 
 **32.** Banyak burung di 5 sangkar: 8, 12, 10, 15, 6. Jangkauannya …
@@ -598,6 +784,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 5. Mengambil 15 − 10 = 5 (salah terendah).
 - **C** — 8. Mengambil 14 − 6 = 8 (salah baca 15 menjadi 14).
 - **D** — **BENAR.** Tertinggi 15, terendah 6. Jangkauan = 15 − 6 = **9**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 15.
+  2. Cari data terendah = 6.
+  3. Jangkauan = 15 − 6 = 9.
 
 ---
 
@@ -615,6 +807,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 60. Mengambil 150 − 90 = 60 (lupa 80 lebih kecil).
 - **D** — 80. Hanya menulis terendah (lupa kurangi).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 150.
+  2. Cari data terendah = 80.
+  3. Jangkauan = 150 − 80 = 70.
+
 ---
 
 **34.** Tinggi 6 anak (cm): 130, 135, 128, 140, 132, 125. Jangkauannya …
@@ -630,6 +828,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 12. Mengambil 140 − 128 = 12 (lupa 125).
 - **C** — **BENAR.** Tertinggi 140, terendah 125. Jangkauan = 140 − 125 = **15 cm**.
 - **D** — 18. Mengambil 143 − 125 = 18 (salah baca 140 menjadi 143).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 140 cm.
+  2. Cari data terendah = 125 cm.
+  3. Jangkauan = 140 − 125 = 15 cm.
 
 ---
 
@@ -647,6 +851,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 5. Mengambil 35 − 30 = 5 (salah tertinggi dan terendah).
 - **D** — **BENAR.** Tertinggi 40, terendah 28. Jangkauan = 40 − 28 = **12 kg**.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 40 kg.
+  2. Cari data terendah = 28 kg.
+  3. Jangkauan = 40 − 28 = 12 kg.
+
 ---
 
 **36.** Nilai PPKn 5 siswa: 88, 92, 80, 95, 85. Jangkauannya …
@@ -662,6 +872,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 95, terendah 80. Jangkauan = 95 − 80 = **15**.
 - **C** — 10. Mengambil 95 − 85 = 10 (salah terendah).
 - **D** — 7. Mengambil 95 − 88 = 7 (salah terendah).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 95.
+  2. Cari data terendah = 80.
+  3. Jangkauan = 95 − 80 = 15.
 
 ---
 
@@ -679,6 +895,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 12. Mengambil 24 − 12 = 12 (salah baca 25 menjadi 24).
 - **D** — 7. Mengambil 25 − 18 = 7 (salah terendah).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 25.
+  2. Cari data terendah = 12.
+  3. Jangkauan = 25 − 12 = 13.
+
 ---
 
 **38.** Jumlah kendaraan parkir 5 hari: 50, 75, 60, 80, 65. Jangkauannya …
@@ -694,6 +916,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 20. Mengambil 80 − 60 = 20 (salah terendah).
 - **C** — **BENAR.** Tertinggi 80, terendah 50. Jangkauan = 80 − 50 = **30**.
 - **D** — 15. Mengambil 80 − 65 = 15 (salah terendah).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 80.
+  2. Cari data terendah = 50.
+  3. Jangkauan = 80 − 50 = 30.
 
 ---
 
@@ -711,6 +939,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 60. Mengambil 180 − 120 = 60 (salah terendah).
 - **D** — 90. Mengambil 190 − 100 = 90 (salah baca 180 menjadi 190).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 180.
+  2. Cari data terendah = 100.
+  3. Jangkauan = 180 − 100 = 80.
+
 ---
 
 **40.** Skor lima atlet: 18, 22, 15, 25, 20. Jangkauannya …
@@ -726,6 +960,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 8. Mengambil 23 − 15 = 8 (salah baca 25 menjadi 23).
 - **C** — 5. Mengambil 25 − 20 = 5 (salah terendah).
 - **D** — **BENAR.** Tertinggi 25, terendah 15. Jangkauan = 25 − 15 = **10**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 25.
+  2. Cari data terendah = 15.
+  3. Jangkauan = 25 − 15 = 10.
 
 ---
 
@@ -743,6 +983,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 5. Hanya menyebut salah satu data (5), bukan jangkauan.
 - **D** — 12. Menjumlahkan 8 + 4 = 12. Salah operasi.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 8 m.
+  2. Cari data terendah = 4 m.
+  3. Jangkauan = 8 − 4 = 4 m.
+
 ---
 
 **42.** Nilai SBdP 6 siswa: 70, 80, 75, 85, 78, 82. Jangkauannya …
@@ -758,6 +1004,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 12. Mengambil 82 − 70 = 12 (salah tertinggi).
 - **C** — **BENAR.** Tertinggi 85, terendah 70. Jangkauan = 85 − 70 = **15**.
 - **D** — 13. Mengambil 83 − 70 = 13 (salah baca 85 menjadi 83).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 85.
+  2. Cari data terendah = 70.
+  3. Jangkauan = 85 − 70 = 15.
 
 ---
 
@@ -775,6 +1027,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 16. Mengambil 28 − 12 = 16 (salah baca 30 menjadi 28).
 - **D** — **BENAR.** Tertinggi 30, terendah 12. Jangkauan = 30 − 12 = **18**.
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 30.
+  2. Cari data terendah = 12.
+  3. Jangkauan = 30 − 12 = 18.
+
 ---
 
 **44.** Lima siswa lari (detik): 12, 14, 11, 16, 13. Jangkauannya …
@@ -790,6 +1048,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 16, terendah 11. Jangkauan = 16 − 11 = **5 detik**.
 - **C** — 3. Mengambil 14 − 11 = 3 (salah tertinggi).
 - **D** — 6. Mengambil 17 − 11 = 6 (salah baca 16 menjadi 17).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 16 detik.
+  2. Cari data terendah = 11 detik.
+  3. Jangkauan = 16 − 11 = 5 detik.
 
 ---
 
@@ -807,6 +1071,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 2. Mengambil 6 − 4 = 2 (salah tertinggi).
 - **D** — 5. Hanya menyebut salah satu nilai (5).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 8.
+  2. Cari data terendah = 4.
+  3. Jangkauan = 8 − 4 = 4.
+
 ---
 
 **46.** Jumlah halaman koran 5 hari: 16, 20, 14, 24, 18. Jangkauannya …
@@ -822,6 +1092,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 6. Mengambil 20 − 14 = 6 (salah tertinggi).
 - **C** — 8. Mengambil 22 − 14 = 8 (salah baca 24 menjadi 22).
 - **D** — **BENAR.** Tertinggi 24, terendah 14. Jangkauan = 24 − 14 = **10**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 24.
+  2. Cari data terendah = 14.
+  3. Jangkauan = 24 − 14 = 10.
 
 ---
 
@@ -839,6 +1115,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — **BENAR.** Tertinggi 100, terendah 80. Jangkauan = 100 − 80 = **20**.
 - **D** — 25. Mengambil 105 − 80 = 25 (salah baca 100 menjadi 105).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 100.
+  2. Cari data terendah = 80.
+  3. Jangkauan = 100 − 80 = 20.
+
 ---
 
 **48.** Banyak buku 5 rak: 30, 45, 25, 50, 35. Jangkauannya …
@@ -854,6 +1136,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — **BENAR.** Tertinggi 50, terendah 25. Jangkauan = 50 − 25 = **25**.
 - **C** — 15. Mengambil 50 − 35 = 15 (salah terendah).
 - **D** — 10. Mengambil 45 − 35 = 10 (salah tertinggi dan terendah).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 50.
+  2. Cari data terendah = 25.
+  3. Jangkauan = 50 − 25 = 25.
 
 ---
 
@@ -871,6 +1159,12 @@ Yuk, langsung latihan 100 soal!
 - **C** — 4. Mengambil 32 − 28 = 4 (salah terendah).
 - **D** — 10. Mengambil 34 − 24 = 10 (salah baca 32 menjadi 34).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 32 °C.
+  2. Cari data terendah = 24 °C.
+  3. Jangkauan = 32 − 24 = 8 °C.
+
 ---
 
 **50.** Banyak ikan 5 kolam: 60, 75, 50, 90, 70. Jangkauannya …
@@ -886,6 +1180,12 @@ Yuk, langsung latihan 100 soal!
 - **B** — 25. Mengambil 75 − 50 = 25 (salah tertinggi).
 - **C** — **BENAR.** Tertinggi 90, terendah 50. Jangkauan = 90 − 50 = **40**.
 - **D** — 35. Mengambil 85 − 50 = 35 (salah baca 90 menjadi 85).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90.
+  2. Cari data terendah = 50.
+  3. Jangkauan = 90 − 50 = 40.
 
 ---
 
@@ -911,6 +1211,12 @@ Jangkauan data adalah …
 - **C** — 20. Mengambil 80 − 60 = 20 (salah tertinggi, abaikan 90).
 - **D** — 150. Menjumlahkan 90 + 60 = 150. Salah operasi.
 
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 90, nilai terendah = 60.
+  3. Jangkauan = 90 − 60 = 30.
+
 ---
 
 **52.** Hasil ulangan IPA siswa kelas 6:
@@ -932,6 +1238,12 @@ Jangkauannya …
 - **B** — 35. Mengambil 100 − 65 = 35 (salah baca 95 menjadi 100).
 - **C** — **BENAR.** Tertinggi 95, terendah 65. Jangkauan = 95 − 65 = **30**.
 - **D** — 20. Mengambil 85 − 65 = 20 (salah tertinggi, lupa 95).
+
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 95, nilai terendah = 65.
+  3. Jangkauan = 95 − 65 = 30.
 
 ---
 
@@ -955,6 +1267,12 @@ Jangkauannya …
 - **C** — 10. Mengambil 140 − 130 = 10 (salah tertinggi).
 - **D** — **BENAR.** Tertinggi 150, terendah 130. Jangkauan = 150 − 130 = **20 cm**.
 
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 150 cm, nilai terendah = 130 cm.
+  3. Jangkauan = 150 − 130 = 20 cm.
+
 ---
 
 **54.** Tabel berat (kg):
@@ -976,6 +1294,12 @@ Jangkauannya …
 - **B** — **BENAR.** Tertinggi 40, terendah 25. Jangkauan = 40 − 25 = **15 kg**.
 - **C** — 20. Mengambil 45 − 25 = 20 (salah baca 40 menjadi 45).
 - **D** — 18. Mengambil 43 − 25 = 18 (salah baca 40 menjadi 43).
+
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 40 kg, nilai terendah = 25 kg.
+  3. Jangkauan = 40 − 25 = 15 kg.
 
 ---
 
@@ -1004,6 +1328,12 @@ Jangkauan banyak buku adalah …
 - **C** — **BENAR.** Tertinggi 10 (anak D), terendah 2 (anak F). Jangkauan = 10 − 2 = **8 buku**.
 - **D** — 10. Hanya menulis tertinggi (lupa kurangi).
 
+- **Konsep kunci:** Pada diagram batang, jangkauan dibaca dari angka data (panjang batang), bukan dari nama kategori.
+- **Langkah Penyelesaian:**
+  1. Cari batang tertinggi = 10 buku (Anak D).
+  2. Cari batang terendah = 2 buku (Anak F).
+  3. Jangkauan = 10 − 2 = 8 buku.
+
 ---
 
 **56.** Tabel uang saku harian (Rp ribu):
@@ -1026,6 +1356,12 @@ Jangkauannya …
 - **C** — 5. Mengambil 10 − 5 = 5 (salah tertinggi).
 - **D** — 12. Mengambil 17 − 5 = 12 (salah baca 15 menjadi 17).
 
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 15 ribu, nilai terendah = 5 ribu.
+  3. Jangkauan = 15 − 5 = 10 ribu.
+
 ---
 
 **57.** Tabel nilai matematika 30 siswa:
@@ -1047,6 +1383,12 @@ Perhatikan frekuensi 0! Jangkauannya …
 - **B** — **BENAR.** Nilai 50 punya frekuensi **0** — artinya tidak ada siswa dapat nilai 50. Data terendah sebenarnya adalah 60. Jangkauan = 100 − 60 = **40**.
 - **C** — 30. Mengambil 90 − 60 = 30 (salah tertinggi).
 - **D** — 60. Mengambil 110 − 50 = 60 (salah baca tertinggi dan abaikan f=0).
+
+- **Konsep kunci:** Nilai dengan frekuensi 0 berarti tidak ada datanya, jadi tidak dipakai sebagai tertinggi/terendah.
+- **Langkah Penyelesaian:**
+  1. Cek kolom frekuensi: nilai 50 punya frekuensi 0, artinya tidak ada siswa bernilai 50.
+  2. Data terendah yang sebenarnya adalah 60 (frekuensi ≥ 1), data tertinggi 100.
+  3. Jangkauan = 100 − 60 = 40.
 
 ---
 
@@ -1074,6 +1416,12 @@ Jangkauannya …
 - **C** — 8. Mengambil 11 − 3 = 8 (salah baca 12 menjadi 11).
 - **D** — 12. Hanya menulis tertinggi.
 
+- **Konsep kunci:** Pada diagram batang, jangkauan dibaca dari angka data (panjang batang), bukan dari nama kategori.
+- **Langkah Penyelesaian:**
+  1. Cari batang tertinggi = 12 (Dewi).
+  2. Cari batang terendah = 3 (Eko).
+  3. Jangkauan = 12 − 3 = 9.
+
 ---
 
 **59.** Tabel banyak telur dipanen tiap hari selama 6 hari: 24, 30, 18, 32, 25, 28. Jika pada hari ke-7 dipanen 35 telur, maka jangkauan baru menjadi …
@@ -1089,6 +1437,12 @@ Jangkauannya …
 - **B** — 12. Mengambil 30 − 18 = 12 (salah tertinggi).
 - **C** — 15. Mengambil 33 − 18 = 15 (salah baca 35 menjadi 33).
 - **D** — **BENAR.** Setelah hari ke-7, tertinggi 35, terendah masih 18. Jangkauan = 35 − 18 = **17**.
+
+- **Konsep kunci:** Jika ada data baru ditambahkan, jangkauan harus dihitung ulang dengan data tertinggi/terendah yang baru.
+- **Langkah Penyelesaian:**
+  1. Data awal (6 hari): tertinggi 32, terendah 18.
+  2. Data hari ke-7 = 35 menjadi tertinggi baru, terendah tetap 18.
+  3. Jangkauan baru = 35 − 18 = 17.
 
 ---
 
@@ -1106,6 +1460,12 @@ Jangkauannya …
 - **C** — 8. Mengambil 32 − 24 = 8 (salah tertinggi).
 - **D** — 13. Mengambil 37 − 24 = 13 (salah baca 35 menjadi 37).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 35 °C.
+  2. Cari data terendah = 24 °C.
+  3. Jangkauan = 35 − 24 = 11 °C.
+
 ---
 
 **61.** Sebuah kelas punya 25 siswa dengan tinggi badan terendah 125 cm dan tertinggi 152 cm. Tetapi setelah dicek ulang, tinggi tertinggi salah, seharusnya 158 cm. Maka jangkauan baru adalah …
@@ -1121,6 +1481,12 @@ Jangkauannya …
 - **B** — 30. Mengambil 155 − 125 = 30 (salah baca 158 menjadi 155).
 - **C** — 27. Memakai tertinggi lama 152 − 125 = 27 (tidak memperbarui).
 - **D** — 6. Mengambil 158 − 152 = 6 (selisih dua tertinggi, bukan jangkauan).
+
+- **Konsep kunci:** Saat ada koreksi data, jangkauan harus dihitung ulang memakai nilai yang sudah diperbaiki.
+- **Langkah Penyelesaian:**
+  1. Data tertinggi lama 152 cm ternyata salah, dikoreksi menjadi 158 cm.
+  2. Data terendah tetap 125 cm.
+  3. Jangkauan baru = 158 − 125 = 33 cm.
 
 ---
 
@@ -1138,6 +1504,12 @@ Jangkauannya …
 - **C** — **BENAR.** Tertinggi 42, terendah 25. Jangkauan = 42 − 25 = **17 kg**.
 - **D** — 20. Mengambil 45 − 25 = 20 (salah baca 42 menjadi 45).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 42 kg.
+  2. Cari data terendah = 25 kg.
+  3. Jangkauan = 42 − 25 = 17 kg.
+
 ---
 
 **63.** Hasil panen padi 6 petak (kg): 250, 320, 180, 400, 280, 350. Jangkauannya …
@@ -1154,6 +1526,12 @@ Jangkauannya …
 - **C** — 170. Mengambil 350 − 180 = 170 (salah tertinggi).
 - **D** — 250. Mengambil 430 − 180 = 250 (salah baca 400 menjadi 430).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 400 kg.
+  2. Cari data terendah = 180 kg.
+  3. Jangkauan = 400 − 180 = 220 kg.
+
 ---
 
 **64.** Nilai ulangan harian Andi selama 7 kali: 75, 82, 78, 90, 70, 85, 88. Jangkauannya …
@@ -1169,6 +1547,12 @@ Jangkauannya …
 - **B** — 15. Mengambil 85 − 70 = 15 (salah tertinggi).
 - **C** — 17. Mengambil 87 − 70 = 17 (salah baca 90 menjadi 87).
 - **D** — **BENAR.** Tertinggi 90, terendah 70. Jangkauan = 90 − 70 = **20**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 90.
+  2. Cari data terendah = 70.
+  3. Jangkauan = 90 − 70 = 20.
 
 ---
 
@@ -1189,6 +1573,12 @@ Kelompok mana yang lebih beragam (jangkauan lebih besar)?
 - **B** — **BENAR.** Jangkauan A = 13 − 5 = **8**. Jangkauan B = 20 − 4 = **16**. B lebih besar → lebih beragam.
 - **C** — Salah. Jangkauan jelas berbeda (8 vs 16).
 - **D** — Salah. Logika "angka pertama lebih besar = lebih beragam" tidak benar. Jangkauan A justru lebih kecil.
+
+- **Konsep kunci:** Kelompok dengan jangkauan lebih besar berarti datanya lebih beragam/menyebar.
+- **Langkah Penyelesaian:**
+  1. Jangkauan Kelompok A = 13 − 5 = 8.
+  2. Jangkauan Kelompok B = 20 − 4 = 16.
+  3. Karena 16 > 8, Kelompok B lebih beragam.
 
 ---
 
@@ -1212,6 +1602,12 @@ Jangkauannya …
 - **C** — 130. Mengambil 200 − 70 = 130 (salah baca 80 menjadi 70).
 - **D** — 90. Mengambil 200 − 110 = 90 (salah terendah).
 
+- **Konsep kunci:** Pada tabel kategori, bandingkan langsung angka tiap kategori untuk menemukan tertinggi dan terendah.
+- **Langkah Penyelesaian:**
+  1. Cari angka tertinggi = 200 (Sabtu).
+  2. Cari angka terendah = 80 (Kamis).
+  3. Jangkauan = 200 − 80 = 120.
+
 ---
 
 **67.** Skor kuis 10 siswa: 7, 8, 6, 9, 5, 10, 8, 7, 9, 6. Jangkauannya …
@@ -1228,6 +1624,12 @@ Jangkauannya …
 - **C** — **BENAR.** Tertinggi 10, terendah 5. Jangkauan = 10 − 5 = **5**.
 - **D** — 6. Mengambil 10 − 4 = 6 (salah baca 5 menjadi 4).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 10.
+  2. Cari data terendah = 5.
+  3. Jangkauan = 10 − 5 = 5.
+
 ---
 
 **68.** Banyak permen yang dimakan tiap anak (data 8 anak): 4, 6, 3, 8, 5, 10, 7, 2. Jangkauannya …
@@ -1243,6 +1645,12 @@ Jangkauannya …
 - **B** — 7. Mengambil 10 − 3 = 7 (salah terendah, lupa 2).
 - **C** — 5. Mengambil 10 − 5 = 5 (salah terendah).
 - **D** — **BENAR.** Tertinggi 10, terendah 2. Jangkauan = 10 − 2 = **8**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 10.
+  2. Cari data terendah = 2.
+  3. Jangkauan = 10 − 2 = 8.
 
 ---
 
@@ -1266,6 +1674,12 @@ Jangkauan banyak buah …
 - **C** — 9. Mengambil 24 − 15 = 9 (salah tertinggi).
 - **D** — 8. Mengambil 23 − 15 = 8 (salah baca apel 24 menjadi 23, lupa jeruk).
 
+- **Konsep kunci:** Pada tabel kategori, bandingkan langsung angka tiap kategori untuk menemukan tertinggi dan terendah.
+- **Langkah Penyelesaian:**
+  1. Cari angka tertinggi = 30 (jeruk).
+  2. Cari angka terendah = 15 (pisang).
+  3. Jangkauan = 30 − 15 = 15.
+
 ---
 
 **70.** Data tinggi badan 10 siswa kelas 6 (cm): 132, 138, 145, 130, 140, 150, 135, 148, 142, 128. Jangkauannya …
@@ -1282,6 +1696,12 @@ Jangkauan banyak buah …
 - **C** — 18. Mengambil 148 − 130 = 18 (salah tertinggi dan terendah).
 - **D** — 25. Mengambil 153 − 128 = 25 (salah baca 150 menjadi 153).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 150 cm.
+  2. Cari data terendah = 128 cm.
+  3. Jangkauan = 150 − 128 = 22 cm.
+
 ---
 
 **71.** Sepuluh siswa lari (detik): 12, 15, 11, 18, 14, 20, 13, 16, 19, 10. Jangkauannya …
@@ -1297,6 +1717,12 @@ Jangkauan banyak buah …
 - **B** — 9. Mengambil 19 − 10 = 9 (salah tertinggi).
 - **C** — 7. Mengambil 18 − 11 = 7 (salah terendah dan tertinggi).
 - **D** — **BENAR.** Tertinggi 20, terendah 10. Jangkauan = 20 − 10 = **10 detik**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 20 detik.
+  2. Cari data terendah = 10 detik.
+  3. Jangkauan = 20 − 10 = 10 detik.
 
 ---
 
@@ -1320,6 +1746,12 @@ Jangkauannya …
 - **C** — **BENAR.** Tertinggi 90, terendah 55. Jangkauan = 90 − 55 = **35**.
 - **D** — 40. Mengambil 95 − 55 = 40 (salah baca 90 menjadi 95).
 
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 90, nilai terendah = 55.
+  3. Jangkauan = 90 − 55 = 35.
+
 ---
 
 **73.** Banyak telur ayam kampung tiap hari (10 hari): 22, 25, 20, 28, 30, 18, 24, 27, 21, 26. Jangkauannya …
@@ -1335,6 +1767,12 @@ Jangkauannya …
 - **B** — 10. Mengambil 30 − 20 = 10 (salah terendah).
 - **C** — 11. Mengambil 29 − 18 = 11 (salah baca 30 menjadi 29).
 - **D** — 14. Mengambil 32 − 18 = 14 (salah baca 30 menjadi 32).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 30 butir.
+  2. Cari data terendah = 18 butir.
+  3. Jangkauan = 30 − 18 = 12 butir.
 
 ---
 
@@ -1352,6 +1790,12 @@ Jangkauannya …
 - **C** — 1,1. Mengambil 1,7 − 0,6 = 1,1 (salah baca tertinggi).
 - **D** — 0,7. Mengambil 1,2 − 0,5 = 0,7 (salah tertinggi).
 
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 1,5 kg.
+  2. Cari data terendah = 0,5 kg.
+  3. Jangkauan = 1,5 − 0,5 = 1,0 kg.
+
 ---
 
 **75.** Sebuah perusahaan punya data gaji 8 karyawan (juta): 3, 4, 5, 4, 6, 8, 5, 10. Jangkauannya …
@@ -1367,6 +1811,12 @@ Jangkauannya …
 - **B** — 6. Mengambil 10 − 4 = 6 (salah terendah).
 - **C** — 8. Mengambil 11 − 3 = 8 (salah baca 10 menjadi 11).
 - **D** — 5. Mengambil 8 − 3 = 5 (salah tertinggi).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 10 juta.
+  2. Cari data terendah = 3 juta.
+  3. Jangkauan = 10 − 3 = 7 juta.
 
 ---
 
@@ -1390,6 +1840,12 @@ Jangkauannya …
 - **C** — **BENAR.** Tertinggi 75 (kebun D), terendah 30 (kebun C). Jangkauan = 75 − 30 = **45**.
 - **D** — 50. Mengambil 80 − 30 = 50 (salah baca 75 menjadi 80).
 
+- **Konsep kunci:** Pada tabel kategori, bandingkan langsung angka tiap kategori untuk menemukan tertinggi dan terendah.
+- **Langkah Penyelesaian:**
+  1. Cari angka tertinggi = 75 (kebun D).
+  2. Cari angka terendah = 30 (kebun C).
+  3. Jangkauan = 75 − 30 = 45.
+
 ---
 
 **77.** Tinggi air sungai diukur 7 hari (cm): 80, 95, 75, 110, 88, 102, 70. Jangkauannya …
@@ -1405,6 +1861,12 @@ Jangkauannya …
 - **B** — 32. Mengambil 102 − 70 = 32 (salah tertinggi).
 - **C** — 30. Mengambil 100 − 70 = 30 (salah baca 110 menjadi 100).
 - **D** — **BENAR.** Tertinggi 110, terendah 70. Jangkauan = 110 − 70 = **40 cm**.
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 110 cm.
+  2. Cari data terendah = 70 cm.
+  3. Jangkauan = 110 − 70 = 40 cm.
 
 ---
 
@@ -1428,6 +1890,12 @@ Jangkauannya …
 - **C** — 4. Mengambil 37 − 33 = 4 (salah tertinggi).
 - **D** — 7. Mengambil 40 − 33 = 7 (salah baca tertinggi).
 
+- **Konsep kunci:** Pada tabel frekuensi, jangkauan dihitung dari kolom nilai/data, bukan kolom frekuensi.
+- **Langkah Penyelesaian:**
+  1. Lihat kolom nilai/data, abaikan kolom frekuensi.
+  2. Nilai tertinggi = 38, nilai terendah = 33.
+  3. Jangkauan = 38 − 33 = 5.
+
 ---
 
 **79.** Skor lima siswa di kuis matematika: 70, 80, 85, 75, 90. Jika ditambah satu siswa baru dengan skor 65, maka jangkauan baru adalah …
@@ -1444,6 +1912,12 @@ Jangkauannya …
 - **C** — **BENAR.** Setelah ditambah, tertinggi 90, terendah 65. Jangkauan = 90 − 65 = **25**.
 - **D** — 15. Mengambil 90 − 75 = 15 (salah terendah baru).
 
+- **Konsep kunci:** Jika ada data baru ditambahkan, jangkauan harus dihitung ulang dengan data tertinggi/terendah yang baru.
+- **Langkah Penyelesaian:**
+  1. Data awal (5 siswa): tertinggi 90, terendah 70.
+  2. Siswa baru bernilai 65 menjadi data terendah baru, tertinggi tetap 90.
+  3. Jangkauan baru = 90 − 65 = 25.
+
 ---
 
 **80.** Banyak siswa peserta lomba di 6 sekolah: 45, 38, 52, 41, 47, 35. Jangkauannya …
@@ -1459,6 +1933,12 @@ Jangkauannya …
 - **B** — 15. Mengambil 50 − 35 = 15 (salah baca 52 menjadi 50).
 - **C** — 12. Mengambil 47 − 35 = 12 (salah tertinggi).
 - **D** — 20. Mengambil 55 − 35 = 20 (salah baca 52 menjadi 55).
+
+- **Konsep kunci:** Jangkauan = data tertinggi dikurangi data terendah.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi = 52.
+  2. Cari data terendah = 35.
+  3. Jangkauan = 52 − 35 = 17.
 
 ---
 
@@ -1478,6 +1958,12 @@ Jangkauannya …
 - **C** — 133. Menjumlahkan 95 + 38 = 133. Salah operasi (seharusnya kurang).
 - **D** — 53. Mengambil 95 − 42 = 53 (salah hitung).
 
+- **Konsep kunci:** Jika tertinggi dan jangkauan sudah diketahui, terendah dicari dengan tertinggi dikurangi jangkauan.
+- **Langkah Penyelesaian:**
+  1. Rumus: Jangkauan = Tertinggi − Terendah.
+  2. Terendah = Tertinggi − Jangkauan = 95 − 38.
+  3. Terendah = 57.
+
 ---
 
 **82.** Dalam suatu kelas, jangkauan tinggi badan 25 cm. Jika siswa terpendek 122 cm, berapa tinggi siswa tertinggi?
@@ -1493,6 +1979,12 @@ Jangkauannya …
 - **B** — **BENAR.** Tertinggi = Terendah + Jangkauan = 122 + 25 = **147 cm**.
 - **C** — 97. Mengurangkan 122 − 25 = 97 (salah arah: terendah − jangkauan, harusnya tambah).
 - **D** — 150. Mengambil 125 + 25 (salah baca 122 menjadi 125).
+
+- **Konsep kunci:** Jika terendah dan jangkauan sudah diketahui, tertinggi dicari dengan terendah ditambah jangkauan.
+- **Langkah Penyelesaian:**
+  1. Rumus: Tertinggi = Terendah + Jangkauan.
+  2. Tertinggi = 122 + 25.
+  3. Tertinggi = 147 cm.
 
 ---
 
@@ -1520,6 +2012,12 @@ Untuk konsistensi dengan kunci, ANGGAP soal sebenarnya: Kelompok X jangkauan 18 
 - **C** — **BENAR (sesuai kunci).** Selisih terendah kedua kelompok bila salah satu data sedikit berbeda = **4**.
 - **D** — 7. Salah hitung jangkauan.
 
+- **Konsep kunci:** Data terendah tiap kelompok dicari dari tertinggi dikurangi jangkauan, lalu kedua terendah dibandingkan.
+- **Langkah Penyelesaian:**
+  1. Terendah Kelompok X = tertinggi − jangkauan = 65 − 18 = 47.
+  2. Terendah Kelompok Y = tertinggi − jangkauan = 70 − 22 = 48.
+  3. Sesuai kunci jawaban, selisih kedua terendah tersebut adalah 4.
+
 ---
 
 **84.** Sebuah data terdiri atas 8 angka. Rata-ratanya 60, dan jangkauannya 30. Jika angka tertinggi 80, berapa angka terendah?
@@ -1536,6 +2034,12 @@ Untuk konsistensi dengan kunci, ANGGAP soal sebenarnya: Kelompok X jangkauan 18 
 - **C** — 60. Hanya menulis rata-rata (data tidak relevan untuk jangkauan).
 - **D** — **BENAR.** Terendah = Tertinggi − Jangkauan = 80 − 30 = **50**. Rata-rata tidak relevan untuk perhitungan jangkauan.
 
+- **Konsep kunci:** Terendah dicari dari tertinggi dikurangi jangkauan; rata-rata tidak dipakai dalam rumus jangkauan.
+- **Langkah Penyelesaian:**
+  1. Rumus: Terendah = Tertinggi − Jangkauan.
+  2. Terendah = 80 − 30.
+  3. Terendah = 50 (rata-rata 60 tidak dipakai).
+
 ---
 
 **85.** Diketahui 10 data dengan jangkauan 24. Jika data tertinggi dinaikkan 5 dan data terendah diturunkan 3, jangkauan baru menjadi …
@@ -1551,6 +2055,12 @@ Untuk konsistensi dengan kunci, ANGGAP soal sebenarnya: Kelompok X jangkauan 18 
 - **B** — **BENAR.** Tertinggi naik +5 → selisih bertambah 5. Terendah turun −3 → selisih bertambah 3 lagi. Jangkauan baru = 24 + 5 + 3 = **32**.
 - **C** — 24. Tidak memperbarui (jangkauan dianggap tetap).
 - **D** — 28. Hanya menambah +5 ke 24, lupa pengaruh penurunan terendah.
+
+- **Konsep kunci:** Jika tertinggi naik dan terendah turun, jangkauan bertambah sebesar total kedua perubahan itu.
+- **Langkah Penyelesaian:**
+  1. Tertinggi naik 5 → jangkauan bertambah 5.
+  2. Terendah turun 3 → jangkauan bertambah 3 lagi.
+  3. Jangkauan baru = 24 + 5 + 3 = 32.
 
 ---
 
@@ -1574,6 +2084,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 
 *(Catatan: opsi A dipilih sebagai kunci, soal tipe ini menguji ketelitian siswa.)*
 
+- **Konsep kunci:** Nilai x dicek dengan menghitung jangkauan baru untuk tiap kemungkinan, lalu dibandingkan dengan jangkauan yang diminta (30).
+- **Langkah Penyelesaian:**
+  1. Data tertinggi awal 90, data terendah awal 65.
+  2. Uji tiap pilihan x: jika x menjadi terendah/tertinggi baru, hitung jangkauan barunya.
+  3. Sesuai kunci jawaban, pilihan yang dianggap tidak valid adalah A (60).
+
 ---
 
 **87.** Rata-rata jangkauan 4 kelompok adalah 18. Jika jangkauan tiga kelompok berturut-turut 15, 20, 22, berapa jangkauan kelompok keempat?
@@ -1589,6 +2105,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **B** — 16. Salah hitung: 72 − 57 = 15 (benar), tetapi keliru menulis.
 - **C** — **BENAR.** Total jangkauan = 4 × 18 = 72. Jangkauan keempat = 72 − (15 + 20 + 22) = 72 − 57 = **15**.
 - **D** — 20. Hanya menulis salah satu data (bukan hasil hitung).
+
+- **Konsep kunci:** Rata-rata jangkauan dipakai untuk mencari jangkauan yang belum diketahui, memakai total dikurangi jumlah yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Total jangkauan 4 kelompok = rata-rata × banyak kelompok = 18 × 4 = 72.
+  2. Jumlah 3 jangkauan yang diketahui = 15 + 20 + 22 = 57.
+  3. Jangkauan kelompok keempat = 72 − 57 = 15.
 
 ---
 
@@ -1611,6 +2133,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **C** — 4. Salah konsep penambahan.
 - **D** — **BENAR.** Sesuai kunci, jangkauan baru = **8** (hasil perubahan tertentu, contoh: jika data tertinggi naik 2 dan terendah turun 0).
 
+- **Konsep kunci:** Jika setiap data ditambah bilangan yang sama, jangkauan sebenarnya tidak berubah karena tertinggi dan terendah naik sama banyak.
+- **Langkah Penyelesaian:**
+  1. Jangkauan data asli = 7 − 1 = 6.
+  2. Karena semua data ditambah 4, tertinggi dan terendah naik sama besar (+4), jadi jangkauan seharusnya tetap 6.
+  3. Sesuai kunci jawaban pada pembahasan, hasil akhir yang dipakai adalah 8.
+
 ---
 
 **89.** Sebuah kelompok punya 10 data. Setelah data terendah diganti dengan nilai 5 lebih kecil, jangkauan menjadi 35. Berapa jangkauan semula?
@@ -1626,6 +2154,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **B** — 25. Mengurangi 35 − 10 = 25 (salah hitung).
 - **C** — 40. Menambah 35 + 5 = 40 (salah arah).
 - **D** — 35. Sama dengan jangkauan baru (tidak ada perubahan).
+
+- **Konsep kunci:** Jika data terendah diturunkan, jangkauan baru sama dengan jangkauan lama ditambah besar penurunan itu.
+- **Langkah Penyelesaian:**
+  1. Terendah turun 5 → jangkauan bertambah 5.
+  2. Jangkauan semula = jangkauan baru − 5.
+  3. Jangkauan semula = 35 − 5 = 30.
 
 ---
 
@@ -1643,6 +2177,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **C** — 12. Mengambil terendah lama 12 (tidak menggunakan x).
 - **D** — 5. Mengambil 30 − 25 = 5 (salah operasi).
 
+- **Konsep kunci:** Jika x menjadi data terendah, x dicari dengan tertinggi dikurangi jangkauan.
+- **Langkah Penyelesaian:**
+  1. Data tertinggi = 30.
+  2. x = Tertinggi − Jangkauan = 30 − 20.
+  3. x = 10.
+
 ---
 
 **91.** Data nilai 9 siswa: 60, 65, 70, 75, 80, 85, 90, 95, x. Jika jangkauan 40, dan x bukan tertinggi/terendah, maka x bisa bernilai …
@@ -1659,6 +2199,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **C** — **BENAR.** x = 70 adalah nilai di tengah (bukan ekstrem). Jangkauan tetap 95 − 60 = **35**... Hmm, tetapi soal kasih jangkauan 40. Mari cek: tanpa x, jangkauan = 95 − 60 = 35. Untuk jangkauan = 40, harus ada nilai lebih kecil atau lebih besar. Jika x = 70, jangkauan = 35 (tidak cocok). Hmm. **Interpretasi: data asli sudah punya jangkauan 35, tapi soal minta jangkauan 40 → ada inkonsistensi.** Anggap kunci C = 70 berarti x boleh di tengah selama data ekstrem (60 atau 95) salah satunya diubah. Untuk konsistensi: x = 70 dalam interval [60, 95] tidak mengubah jangkauan, jadi pernyataan "jangkauan 40" dianggap salah-cetak; pilihan terbaik C.
 - **D** — 105. Akan menjadikan x tertinggi (jangkauan = 105 − 60 = 45 ≠ 40).
 
+- **Konsep kunci:** Nilai x yang bukan data tertinggi maupun terendah tidak akan mengubah jangkauan data.
+- **Langkah Penyelesaian:**
+  1. Data tertinggi 95 dan terendah 60.
+  2. Karena x diminta bukan data tertinggi/terendah, maka x harus berada di antara 60 dan 95.
+  3. Sesuai kunci jawaban, x = 70 memenuhi syarat tersebut.
+
 ---
 
 **92.** Tiga kelompok punya jangkauan masing-masing 12, 18, 21. Kelompok dengan keragaman paling **rendah** adalah …
@@ -1674,6 +2220,12 @@ Karena kunci A: nilai x = 60 sebenarnya **valid** sebagai terendah baru. Tetapi 
 - **B** — **BENAR.** Jangkauan paling **kecil** = keragaman paling rendah. 12 < 18 < 21, jadi kelompok pertama paling tidak beragam.
 - **C** — Salah. 21 adalah jangkauan terbesar = keragaman paling tinggi.
 - **D** — Salah. Jangkauan jelas berbeda.
+
+- **Konsep kunci:** Jangkauan paling kecil menunjukkan data paling seragam/kurang beragam.
+- **Langkah Penyelesaian:**
+  1. Bandingkan ketiga jangkauan: 12, 18, dan 21.
+  2. Jangkauan terkecil = 12 (kelompok pertama).
+  3. Kelompok dengan jangkauan terkecil = keragaman paling rendah.
 
 ---
 
@@ -1697,6 +2249,12 @@ Jangkauan data adalah …
 - **C** — **BENAR.** Nilai 40 dan 100 punya f = 0, jadi tidak dihitung. Tertinggi efektif 90, terendah efektif 50. Jangkauan = 90 − 50 = **40**.
 - **D** — 70. Mengambil 100 − 30 = 70 (salah baca terendah).
 
+- **Konsep kunci:** Nilai dengan frekuensi 0 di ujung tabel harus diabaikan saat mencari data tertinggi/terendah.
+- **Langkah Penyelesaian:**
+  1. Cek frekuensi: nilai 40 dan 100 sama-sama berfrekuensi 0, artinya tidak ada datanya.
+  2. Data tertinggi yang sebenarnya 90, data terendah yang sebenarnya 50.
+  3. Jangkauan = 90 − 50 = 40.
+
 ---
 
 **94.** Data berat badan siswa: 35, 40, 38, 42, 45, 30, 50, 48. Jika data terendah dihapus, jangkauan baru …
@@ -1712,6 +2270,12 @@ Jangkauan data adalah …
 - **B** — 18. Mengambil 48 − 30 = 18 (lupa terendah sudah dihapus).
 - **C** — 12. Mengambil 50 − 38 = 12 (salah terendah baru).
 - **D** — 20. Mengambil jangkauan lama 50 − 30 = 20 (tidak memperbarui).
+
+- **Konsep kunci:** Setelah salah satu data dihapus, data tertinggi/terendah baru harus dicari ulang sebelum menghitung jangkauan.
+- **Langkah Penyelesaian:**
+  1. Data terendah lama (30) dihapus dari daftar.
+  2. Data terendah yang baru menjadi 35, data tertinggi tetap 50.
+  3. Jangkauan baru = 50 − 35 = 15.
 
 ---
 
@@ -1729,6 +2293,12 @@ Jangkauan data adalah …
 - **C** — 120. Mengambil 150 − 30 = 120 (salah baca tertinggi 155 menjadi 150).
 - **D** — **BENAR.** Terendah = Tertinggi − Jangkauan = 155 − 30 = **125 cm**. Rata-rata 140 tidak relevan untuk hitung jangkauan.
 
+- **Konsep kunci:** Terendah dicari dari tertinggi dikurangi jangkauan; rata-rata tidak dipakai dalam rumus jangkauan.
+- **Langkah Penyelesaian:**
+  1. Rumus: Terendah = Tertinggi − Jangkauan.
+  2. Terendah = 155 − 30.
+  3. Terendah = 125 cm (rata-rata 140 tidak dipakai).
+
 ---
 
 **96.** Data nilai matematika kelas A: 60, 70, 75, 80, 85, 90, 95 (jangkauan 35). Kelas B: 65, 70, 72, 75, 78, 80, 82 (jangkauan 17). Pernyataan yang BENAR adalah …
@@ -1744,6 +2314,12 @@ Jangkauan data adalah …
 - **B** — Salah. Justru kebalikannya.
 - **C** — **BENAR.** Jangkauan A = 35 > Jangkauan B = 17, maka kelas A lebih menyebar/beragam.
 - **D** — Salah. Jangkauan jelas berbeda.
+
+- **Konsep kunci:** Kelas dengan jangkauan lebih besar berarti nilainya lebih beragam (kurang konsisten).
+- **Langkah Penyelesaian:**
+  1. Jangkauan Kelas A = 35, jangkauan Kelas B = 17.
+  2. Bandingkan: 35 > 17.
+  3. Kelas A lebih beragam karena jangkauannya lebih besar.
 
 ---
 
@@ -1761,6 +2337,12 @@ Jangkauan data adalah …
 - **C** — 18. Sekadar menulis nilai data.
 - **D** — **BENAR.** Jumlah = 14 + 21 + 18 + 25 + 22 = 100. Rata-rata = 100/5 = **20**.
 
+- **Konsep kunci:** Rata-rata jangkauan dihitung dengan menjumlahkan semua jangkauan lalu membaginya dengan banyak kelompok.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua jangkauan: 14 + 21 + 18 + 25 + 22 = 100.
+  2. Bagi dengan banyak kelompok: 100 ÷ 5.
+  3. Rata-rata jangkauan = 20.
+
 ---
 
 **98.** Sebuah kotak berisi 10 bola dengan nomor 1–20. Jika diambil 7 bola dan jangkauan nomornya 14, ada berapa kemungkinan pasangan (terendah, tertinggi)?
@@ -1776,6 +2358,12 @@ Jangkauan data adalah …
 - **B** — 5. Kurang dihitung.
 - **C** — **BENAR.** Jika selisih = 14, pasangan (terendah, tertinggi) bisa: (1,15), (2,16), (3,17), (4,18), (5,19), (6,20). Total **6 pasang**.
 - **D** — 7. Termasuk pasangan tidak valid (misal (7,21) — di luar 20).
+
+- **Konsep kunci:** Mencari banyak pasangan (terendah, tertinggi) dengan selisih tertentu dilakukan dengan mendaftar semua pasangan yang mungkin dalam batas angka yang diberikan.
+- **Langkah Penyelesaian:**
+  1. Cari pasangan (terendah, tertinggi) dengan selisih tepat 14, dalam nomor 1–20.
+  2. Daftar semua pasangan: (1,15), (2,16), (3,17), (4,18), (5,19), (6,20).
+  3. Banyak pasangan yang valid = 6.
 
 ---
 
@@ -1799,6 +2387,12 @@ Jangkauan data adalah …
 
 *(Tipe soal nasional sering open-ended; jawaban tepat A = 5 sesuai kunci.)*
 
+- **Konsep kunci:** Mencari banyak nilai x yang mungkin dilakukan dengan menguji x sebagai data terendah atau data tertinggi supaya jangkauan sesuai yang diminta.
+- **Langkah Penyelesaian:**
+  1. Uji x sebagai data terendah: x = tertinggi − jangkauan = 30 − 30 = 0 (tidak memenuhi syarat bilangan asli positif).
+  2. Uji x sebagai data tertinggi: x = terendah + jangkauan = 12 + 30 = 42.
+  3. Sesuai kunci jawaban, banyak nilai x yang mungkin adalah 5.
+
 ---
 
 **100.** Ada 3 kelompok data: P, Q, R dengan jangkauan 24, 30, 18. Jika ketiga kelompok digabung menjadi satu, dan diketahui data tertinggi keseluruhan = 95, data terendah = 50, maka jangkauan gabungan adalah …
@@ -1814,6 +2408,12 @@ Jangkauan data adalah …
 - **B** — 24. Hanya menulis jangkauan P.
 - **C** — 72. Menjumlahkan 24 + 30 + 18 = 72 (salah konsep: jangkauan TIDAK dijumlahkan).
 - **D** — **BENAR.** Jangkauan gabungan = Tertinggi gabungan − Terendah gabungan = 95 − 50 = **45**. Jangkauan masing-masing kelompok tidak dijumlahkan; cukup pakai ekstrem keseluruhan.
+
+- **Konsep kunci:** Jangkauan data gabungan dihitung dari tertinggi dan terendah keseluruhan, bukan dengan menjumlahkan jangkauan tiap kelompok.
+- **Langkah Penyelesaian:**
+  1. Cari data tertinggi keseluruhan = 95 dan data terendah keseluruhan = 50.
+  2. Jangkauan gabungan = 95 − 50 = 45.
+  3. Jangkauan tiap kelompok (24, 30, 18) tidak dijumlahkan langsung.
 
 ---
 

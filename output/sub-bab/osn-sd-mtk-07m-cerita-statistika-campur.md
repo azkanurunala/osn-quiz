@@ -122,6 +122,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 9 adalah salah satu nilai, bukan rata-rata. Tertukar dengan nilai tertentu.
 - **D** — 40 adalah **jumlah** nilai, belum dibagi banyak data.
 
+- **Konsep kunci:** Mean (rata-rata) dihitung dengan menjumlahkan semua data lalu membagi dengan banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelima nilai: 7+8+6+9+10 = 40.
+  2. Hitung banyak data, yaitu 5 anak.
+  3. Bagi jumlah dengan banyak data: 40 ÷ 5 = 8.
+
 ---
 
 **2.** Bu Lestari mendata tinggi badan lima muridnya (cm): 130, 135, 140, 132, 138. Untuk mengisi rapor kelas, ia perlu jangkauan tinggi (selisih tertinggi dengan terendah). Berapa jangkauan tinggi badan tersebut?
@@ -136,6 +142,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 5 cm = selisih dua data berdekatan (135−130), bukan tertinggi-terendah.
 - **C** — 8 cm = 138 − 130, salah memilih tertinggi.
 - **D** — 135 cm = nilai tengah/data, bukan jangkauan.
+
+- **Konsep kunci:** Jangkauan (range) adalah selisih antara data terbesar dan data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari nilai tertinggi (140 cm) dan terendah (130 cm).
+  2. Kurangkan nilai tertinggi dengan terendah.
+  3. Hasilnya: 140 − 130 = 10 cm.
 
 ---
 
@@ -152,6 +164,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — Benar. Sepak bola muncul 5 kali (paling sering). Modus = **sepak bola**. ✅
 - **D** — Menari muncul 2 kali, bukan terbanyak.
 
+- **Konsep kunci:** Modus adalah data yang paling sering muncul dalam sekumpulan data.
+- **Langkah Penyelesaian:**
+  1. Hitung berapa kali tiap hobi disebut.
+  2. Bandingkan frekuensi tiap hobi.
+  3. Sepak bola muncul paling banyak (5 kali), jadi modus = sepak bola.
+
 ---
 
 **4.** Nilai ulangan IPA tujuh siswa: 6, 8, 7, 9, 8, 5, 8. Wali kelas ingin tahu **median** nilai mereka untuk membandingkan dengan kelas lain. Berapa median nilai tersebut?
@@ -166,6 +184,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 7 = posisi sebelum tengah. Salah hitung posisi.
 - **C** — 9 = nilai terbesar, bukan tengah.
 - **D** — Benar. Urutkan: 5,6,7,**8**,8,8,9. Data tengah (ke-4 dari 7) = **8**. ✅
+
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data dari kecil ke besar: 5,6,7,8,8,8,9.
+  2. Cari posisi tengah dari 7 data, yaitu data ke-4.
+  3. Median = data ke-4 = 8.
 
 ---
 
@@ -182,6 +206,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 1/4 = mengira ada 4 kemungkinan (salah ruang sampel).
 - **D** — 1 = peluang pasti terjadi (tidak mungkin untuk satu mata dadu).
 
+- **Konsep kunci:** Peluang suatu kejadian = banyak kejadian yang diharapkan ÷ banyak semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Tentukan semua kemungkinan mata dadu: 1 sampai 6 (6 kemungkinan).
+  2. Tentukan kejadian yang diharapkan: muncul angka 4 (1 kemungkinan).
+  3. Peluang = 1/6.
+
 ---
 
 **6.** Data banyak buku yang dibaca enam siswa selama liburan: 3, 5, 4, 6, 2, 4. Bu guru ingin tahu rata-rata banyak buku yang dibaca. Berapa rata-ratanya?
@@ -196,6 +226,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 5 = data, bukan rata-rata.
 - **C** — Benar. Jumlah = 3+5+4+6+2+4 = 24. Rata-rata = 24 ÷ 6 = **4**. ✅
 - **D** — 24 = jumlah total, belum dibagi 6.
+
+- **Konsep kunci:** Mean dihitung dari jumlah seluruh data dibagi banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan keenam data: 3+5+4+6+2+4 = 24.
+  2. Hitung banyak data (6).
+  3. Rata-rata = 24 ÷ 6 = 4.
 
 ---
 
@@ -212,6 +248,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — Benar. 36 dipakai oleh 7 anak (frekuensi tertinggi). Modus = **36**. ✅
 - **D** — 37 dipakai 5 anak, kedua terbanyak tapi bukan modus.
 
+- **Konsep kunci:** Modus dari tabel frekuensi adalah nilai dengan frekuensi (banyak anak) terbesar.
+- **Langkah Penyelesaian:**
+  1. Baca frekuensi tiap ukuran sepatu pada tabel.
+  2. Cari frekuensi terbesar, yaitu ukuran 36 dengan 7 anak.
+  3. Modus = ukuran sepatu 36.
+
 ---
 
 **8.** Curah hujan harian (mm) selama 5 hari di kota A: 8, 12, 15, 10, 5. Bu kepala desa ingin tahu **jangkauan** curah hujan tersebut untuk laporan. Berapa jangkauan curah hujan?
@@ -226,6 +268,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 15 mm = nilai terbesar, bukan jangkauan.
 - **C** — 12 mm = nilai tengah/data, bukan jangkauan.
 - **D** — Benar. Jangkauan = 15 − 5 = **10 mm**. ✅
+
+- **Konsep kunci:** Jangkauan = data terbesar dikurangi data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari curah hujan tertinggi (15 mm) dan terendah (5 mm).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 15 − 5 = 10 mm.
 
 ---
 
@@ -242,6 +290,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 5 = data, bukan rata-rata.
 - **D** — 8 = nilai terbesar, bukan rata-rata.
 
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kelereng selama 5 hari: 4+6+8+5+7 = 30.
+  2. Bagi dengan banyak hari (5).
+  3. Rata-rata = 30 ÷ 5 = 6.
+
 ---
 
 **10.** Dari kantong berisi 5 kelereng merah dan 3 kelereng biru, Doni mengambil satu kelereng secara acak. Berapa peluang yang terambil **berwarna merah**?
@@ -256,6 +310,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — Benar. Total 5+3 = 8 kelereng. Merah ada 5. P(merah) = **5/8**. ✅
 - **C** — 5/3 = perbandingan merah:biru, bukan peluang.
 - **D** — 1/2 = mengira "kalau dua warna pasti setengah-setengah," tanpa lihat jumlah.
+
+- **Konsep kunci:** Peluang mengambil satu warna dari kantong = banyak warna itu ÷ total isi kantong.
+- **Langkah Penyelesaian:**
+  1. Hitung total kelereng: 5 merah + 3 biru = 8.
+  2. Tentukan banyak kelereng merah (5).
+  3. Peluang = 5/8.
 
 ---
 
@@ -272,6 +332,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — Benar. 7 muncul **3 kali** (paling sering). Modus = **7**. ✅
 - **D** — 10 muncul 1 kali (nilai tertinggi, bukan terbanyak).
 
+- **Konsep kunci:** Modus adalah nilai yang frekuensi kemunculannya paling banyak.
+- **Langkah Penyelesaian:**
+  1. Hitung berapa kali tiap nilai muncul.
+  2. Bandingkan: nilai 7 muncul 3 kali, paling banyak.
+  3. Modus = 7.
+
 ---
 
 **12.** Pak guru mencatat banyak hari hujan tiap bulan selama 4 bulan: 12, 8, 15, 9. Berapa rata-rata banyak hari hujan per bulan?
@@ -286,6 +352,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 10 = mengira (12+8)/2, hanya pakai dua data.
 - **C** — 9 = data, bukan rata-rata.
 - **D** — Benar. Jumlah = 12+8+15+9 = 44. Rata-rata = 44 ÷ 4 = **11**. ✅
+
+- **Konsep kunci:** Mean dihitung dengan menjumlahkan semua data lalu dibagi banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan hari hujan 4 bulan: 12+8+15+9 = 44.
+  2. Bagi dengan banyak bulan (4).
+  3. Rata-rata = 44 ÷ 4 = 11.
 
 ---
 
@@ -302,6 +374,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — Benar. Banyak data 9 (ganjil). Posisi tengah = (9+1)/2 = **5**. Data ke-5 = **8**. ✅
 - **D** — 9 = data ke-7/8, bukan tengah.
 
+- **Konsep kunci:** Median data ganjil adalah data tengah setelah diurutkan, posisinya (n+1)/2.
+- **Langkah Penyelesaian:**
+  1. Data sudah terurut: 5,6,6,7,8,8,9,9,10 (9 data).
+  2. Posisi tengah = (9+1)/2 = data ke-5.
+  3. Median = data ke-5 = 8.
+
 ---
 
 **14.** Ade melempar koin satu kali. Berapa peluang muncul **gambar** (bukan angka)?
@@ -316,6 +394,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — Benar. Koin punya 2 sisi (angka & gambar), satu yang diharapkan. P = **1/2**. ✅
 - **C** — 0 = tidak mungkin, padahal mungkin terjadi.
 - **D** — 1/4 = mengira ada 4 sisi koin (tidak ada koin 4 sisi).
+
+- **Konsep kunci:** Peluang koin dihitung dari banyak sisi yang diharapkan dibagi total sisi koin (2 sisi).
+- **Langkah Penyelesaian:**
+  1. Tentukan semua kemungkinan sisi koin: angka dan gambar (2 kemungkinan).
+  2. Kejadian yang diharapkan hanya gambar (1 kemungkinan).
+  3. Peluang = 1/2.
 
 ---
 
@@ -332,6 +416,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 10 = nilai terendah, bukan jangkauan.
 - **D** — 18 = nilai tertinggi, bukan jangkauan.
 
+- **Konsep kunci:** Jangkauan = nilai terbesar dikurangi nilai terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari tinggi tertinggi (18 cm) dan terendah (10 cm).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 18 − 10 = 8 cm.
+
 ---
 
 **16.** Diagram batang menunjukkan banyak buah yang terjual di toko Pak Doni: apel 30, jeruk 20, mangga 25, pisang 15. Berapa total buah yang terjual?
@@ -347,6 +437,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 25 = jumlah mangga saja.
 - **D** — 100 = pembulatan tidak benar.
 
+- **Konsep kunci:** Total data dari diagram batang diperoleh dengan menjumlahkan tinggi semua batang.
+- **Langkah Penyelesaian:**
+  1. Baca banyak tiap jenis buah pada diagram: apel 30, jeruk 20, mangga 25, pisang 15.
+  2. Jumlahkan semuanya.
+  3. Total = 30+20+25+15 = 90 buah.
+
 ---
 
 **17.** Tabel berikut menyajikan banyak siswa yang menyukai mata pelajaran: MTK (12), IPA (15), B.Indo (8), B.Inggris (5). Berapa **modus** dari pilihan mata pelajaran tersebut?
@@ -361,6 +457,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — Benar. IPA disukai oleh **15** anak (frekuensi tertinggi). Modus = **IPA**. ✅
 - **C** — B.Indo 8 anak.
 - **D** — B.Inggris 5 anak (paling sedikit).
+
+- **Konsep kunci:** Modus dari tabel adalah kategori dengan frekuensi (banyak siswa) terbesar.
+- **Langkah Penyelesaian:**
+  1. Baca frekuensi tiap mata pelajaran.
+  2. Cari frekuensi terbesar, yaitu IPA dengan 15 anak.
+  3. Modus = IPA.
 
 ---
 
@@ -378,6 +480,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
    *Cek koreksi*: 172/6 = 28,67. Yang paling dekat dari opsi: 28,5. ✅
 - **D** — 27 = salah satu data, bukan rata-rata.
 
+- **Konsep kunci:** Mean dihitung dari jumlah seluruh data dibagi banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan berat 6 anak: 28+30+25+32+30+27 = 172.
+  2. Bagi dengan banyak anak (6).
+  3. Rata-rata = 172 ÷ 6 ≈ 28,67, dibulatkan mendekati 28,5 kg.
+
 ---
 
 **19.** Dalam ulangan, 5 nilai siswa berurutan: 60, 70, 80, 90, 100. Berapa **median**-nya?
@@ -392,6 +500,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 90 = data ke-4.
 - **C** — Benar. 5 data (ganjil), tengahnya data ke-3 = **80**. ✅
 - **D** — 100 = nilai tertinggi.
+
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah terurut: 60,70,80,90,100 (5 data).
+  2. Cari posisi tengah, yaitu data ke-3.
+  3. Median = 80.
 
 ---
 
@@ -408,6 +522,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 4/6 = mengira ada 4 genap (salah cacah).
 - **D** — Benar. Genap = {2, 4, 6} → 3 dari 6. P = 3/6 = **1/2**. ✅
 
+- **Konsep kunci:** Peluang kejadian tertentu = banyak kejadian yang diharapkan ÷ semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Tentukan mata dadu genap: {2,4,6} (3 kemungkinan).
+  2. Total kemungkinan mata dadu ada 6.
+  3. Peluang = 3/6 = 1/2.
+
 ---
 
 **21.** Diagram garis menunjukkan suhu udara siang di kota X selama 5 hari (°C): 28, 30, 32, 29, 31. Berapa **rata-rata** suhu kota tersebut?
@@ -422,6 +542,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 32 = suhu tertinggi.
 - **C** — 31 = salah satu data.
 - **D** — Benar. Jumlah = 28+30+32+29+31 = 150. Rata-rata = 150 ÷ 5 = **30 °C**. ✅
+
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan suhu 5 hari: 28+30+32+29+31 = 150.
+  2. Bagi dengan banyak hari (5).
+  3. Rata-rata = 150 ÷ 5 = 30 °C.
 
 ---
 
@@ -438,6 +564,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 7 muncul 1 kali.
 - **D** — 6 muncul 1 kali.
 
+- **Konsep kunci:** Modus adalah nilai dengan frekuensi kemunculan paling banyak.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap banyak buku.
+  2. Bandingkan: nilai 5 muncul 3 kali, paling banyak.
+  3. Modus = 5.
+
 ---
 
 **23.** Bu Rini menanam tomat dan mencatat banyak buah dari 5 pohon: 12, 10, 15, 8, 11. Berapa **jangkauan**-nya?
@@ -452,6 +584,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 8 = nilai terkecil.
 - **C** — Benar. Jangkauan = 15 − 8 = **7**. ✅
 - **D** — 5 = banyak data, bukan jangkauan.
+
+- **Konsep kunci:** Jangkauan = data terbesar dikurangi data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari hasil panen terbanyak (15) dan tersedikit (8).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 15 − 8 = 7.
 
 ---
 
@@ -468,6 +606,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **C** — 1/3 = mengira 3 warna, bagi 3 (bukan rumus peluang).
 - **D** — 3/4 = perbandingan hijau:merah dalam bentuk salah.
 
+- **Konsep kunci:** Peluang mengambil satu warna = banyak bola warna itu ÷ total semua bola.
+- **Langkah Penyelesaian:**
+  1. Hitung total bola: 4 merah + 3 hijau + 3 kuning = 10.
+  2. Tentukan banyak bola hijau (3).
+  3. Peluang = 3/10.
+
 ---
 
 **25.** Nilai ulangan 6 siswa: 70, 75, 80, 85, 90, 95. Berapa rata-rata nilai mereka?
@@ -482,6 +626,12 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 - **B** — 80 = salah satu data.
 - **C** — 85 = data.
 - **D** — 90 = data, bukan rata-rata.
+
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan 6 nilai: 70+75+80+85+90+95 = 495.
+  2. Bagi dengan banyak siswa (6).
+  3. Rata-rata = 495 ÷ 6 = 82,5.
 
 ---
 
@@ -508,6 +658,12 @@ Setelah dikoreksi:
 - **C** — Benar. Urut: 2,3,4,5,5,5,6,6. Genap (8), median = (5+5)/2 = **5**. ✅
 - **D** — 4,5 = salah pasangan data tengah.
 
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data: 2,3,4,5,5,5,6,6.
+  2. Karena banyak data genap (8), ambil dua data tengah (data ke-4 dan ke-5, yaitu 5 dan 5).
+  3. Median = (5+5) ÷ 2 = 5.
+
 ---
 
 **27.** Diagram lingkaran menunjukkan transportasi siswa ke sekolah: sepeda 40%, jalan kaki 25%, antar jemput 20%, sepeda motor 15%. Bila total siswa 200, berapa banyak siswa yang **bersepeda**?
@@ -522,6 +678,12 @@ Setelah dikoreksi:
 - **B** — 40 = angka persen ditulis langsung (lupa kali jumlah).
 - **C** — Benar. 40% × 200 = **80** siswa. ✅
 - **D** — 20 = 10% × 200 (salah persen).
+
+- **Konsep kunci:** Untuk mengubah persentase pada diagram lingkaran menjadi banyak orang, kalikan persentase dengan jumlah total.
+- **Langkah Penyelesaian:**
+  1. Ubah 40% menjadi pecahan/desimal.
+  2. Kalikan dengan total siswa (200).
+  3. Hasil = 40% × 200 = 80 siswa.
 
 ---
 
@@ -538,6 +700,12 @@ Setelah dikoreksi:
 - **C** — 1/2 = salah perhitungan ruang.
 - **D** — Benar. Kurang dari 3 = {1, 2} → 2 dari 6. P = 2/6 = **1/3**. ✅
 
+- **Konsep kunci:** Peluang kejadian tertentu = banyak kejadian yang diharapkan ÷ semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Tentukan mata dadu kurang dari 3: {1,2} (2 kemungkinan).
+  2. Total kemungkinan mata dadu ada 6.
+  3. Peluang = 2/6 = 1/3.
+
 ---
 
 **29.** Nilai tujuh siswa: 80, 85, 90, 75, 80, 95, 80. Berapa **modus**?
@@ -552,6 +720,12 @@ Setelah dikoreksi:
 - **B** — 75 = nilai terkecil, 1 kali.
 - **C** — Benar. 80 muncul **3 kali** (paling sering). Modus = **80**. ✅
 - **D** — 85 = 1 kali muncul.
+
+- **Konsep kunci:** Modus adalah nilai dengan frekuensi kemunculan paling banyak.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap nilai.
+  2. Bandingkan: nilai 80 muncul 3 kali, paling banyak.
+  3. Modus = 80.
 
 ---
 
@@ -568,6 +742,12 @@ Setelah dikoreksi:
 - **C** — 32 = data hari ke-2.
 - **D** — 31 = tebakan asal antara 30–32.
 
+- **Konsep kunci:** Soal balik mean: data yang belum diketahui dicari dari total (mean × banyak data) dikurangi data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 4 hari: mean × banyak data = 30 × 4 = 120.
+  2. Jumlahkan 3 hari yang sudah diketahui: 28+32+30 = 90.
+  3. Suhu hari ke-4 = 120 − 90 = 30 °C.
+
 ---
 
 **31.** Hasil panen padi 5 petak sawah (kg): 100, 120, 110, 130, 90. Berapa **jangkauan**?
@@ -582,6 +762,12 @@ Setelah dikoreksi:
 - **B** — 30 = 120 − 90, salah memilih tertinggi.
 - **C** — 20 = selisih dua data berdekatan.
 - **D** — 50 = ditambah-tambah asal.
+
+- **Konsep kunci:** Jangkauan = data terbesar dikurangi data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari hasil panen terbanyak (130 kg) dan tersedikit (90 kg).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 130 − 90 = 40 kg.
 
 ---
 
@@ -598,6 +784,12 @@ Setelah dikoreksi:
 - **C** — 1 = nilai terkecil.
 - **D** — 4 = nilai terbesar.
 
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data: 1,2,2,3,4 (5 data).
+  2. Cari posisi tengah, yaitu data ke-3.
+  3. Median = 2.
+
 ---
 
 **33.** Pak Yusuf membagikan 30 permen kepada 6 anak dengan rata. Tapi 2 anak tidak mau, sehingga semua permen dibagi rata ke 4 anak. Berapa permen yang didapat tiap anak sekarang?
@@ -612,6 +804,12 @@ Setelah dikoreksi:
 - **B** — 6 = mengira 30 ÷ 5.
 - **C** — 8 = perkiraan salah.
 - **D** — Benar. Total 30 permen, dibagi 4 → 30 ÷ 4 = **7,5** permen. ✅ (Catatan: dalam praktiknya tidak utuh, tapi secara hitung statistika rata-ratanya 7,5.)
+
+- **Konsep kunci:** Pembagian rata (mirip konsep mean) = total dibagi banyak penerima.
+- **Langkah Penyelesaian:**
+  1. Total permen tetap 30 (tidak berubah).
+  2. Sekarang dibagi rata hanya untuk 4 anak yang mau.
+  3. Tiap anak dapat 30 ÷ 4 = 7,5 permen.
 
 ---
 
@@ -628,6 +826,12 @@ Setelah dikoreksi:
 - **C** — 40 = data Kamis.
 - **D** — 55 = perkiraan salah.
 
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan pengunjung 5 hari: 30+45+50+40+60 = 225.
+  2. Bagi dengan banyak hari (5).
+  3. Rata-rata = 225 ÷ 5 = 45.
+
 ---
 
 **35.** Bu guru mencatat 6 nilai siswa: 7, 8, 9, 7, 6, 8. Berapa **median**?
@@ -642,6 +846,12 @@ Setelah dikoreksi:
 - **B** — 7 = data ke-3, hanya satu data tengah.
 - **C** — 8 = data ke-4, hanya satu data tengah.
 - **D** — 8,5 = salah pasangan.
+
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data: 6,7,7,8,8,9.
+  2. Ambil dua data tengah (data ke-3 dan ke-4, yaitu 7 dan 8).
+  3. Median = (7+8) ÷ 2 = 7,5.
 
 ---
 
@@ -658,6 +868,12 @@ Setelah dikoreksi:
 - **C** — Benar. Total 10, biru 4. P(biru) = **4/10 = 2/5**. ✅
 - **D** — 1/2 = mengira "dua warna, pasti separuh."
 
+- **Konsep kunci:** Peluang kejadian 'bukan A' dihitung dari banyak kejadian selain A dibagi total kejadian.
+- **Langkah Penyelesaian:**
+  1. Hitung total manik-manik: 6 merah + 4 biru = 10.
+  2. Tentukan banyak manik biru (bukan merah), yaitu 4.
+  3. Peluang = 4/10 = 2/5.
+
 ---
 
 **37.** Tinggi badan 5 anak (cm): 130, 135, 140, 135, 130. Berapa **modus**-nya?
@@ -672,6 +888,12 @@ Setelah dikoreksi:
 - **B** — 140 muncul 1 kali.
 - **C** — 130 saja, padahal 135 juga sama frekuensi.
 - **D** — 135 saja, padahal 130 juga sama frekuensi.
+
+- **Konsep kunci:** Modus bisa lebih dari satu (bimodal) bila dua nilai atau lebih memiliki frekuensi terbesar yang sama.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap tinggi badan.
+  2. Bandingkan: 130 muncul 2 kali dan 135 muncul 2 kali (sama-sama tertinggi).
+  3. Modus = 130 dan 135 (bimodal).
 
 ---
 
@@ -688,6 +910,12 @@ Setelah dikoreksi:
 - **C** — 1/3 = salah cacah ruang sampel.
 - **D** — 1 = pasti, padahal tidak pasti.
 
+- **Konsep kunci:** Peluang dua kejadian berurutan dihitung dengan mendaftar semua kemungkinan pasangan hasil.
+- **Langkah Penyelesaian:**
+  1. Daftar semua kemungkinan 2 lemparan koin: AA, AG, GA, GG (4 kemungkinan).
+  2. Cari kejadian yang diharapkan: gambar-gambar (GG), ada 1 kemungkinan.
+  3. Peluang = 1/4.
+
 ---
 
 **39.** Empat angka memiliki rata-rata 25. Bila tiga di antaranya: 20, 25, 30, berapa angka keempat?
@@ -702,6 +930,12 @@ Setelah dikoreksi:
 - **B** — 30 = data ke-3.
 - **C** — 22 = perkiraan salah.
 - **D** — 28 = perkiraan salah.
+
+- **Konsep kunci:** Soal balik mean: data yang hilang = total (mean × banyak data) dikurangi jumlah data yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 4 angka: mean × banyak data = 25 × 4 = 100.
+  2. Jumlahkan 3 angka yang diketahui: 20+25+30 = 75.
+  3. Angka keempat = 100 − 75 = 25.
 
 ---
 
@@ -718,6 +952,12 @@ Setelah dikoreksi:
 - **C** — 25% = jumlah cokelat ditulis langsung sebagai persen (lupa bagi total).
 - **D** — Benar. Total = 25+18+17 = 60. P(cokelat) = 25/60 × 100% = **41,67%**. ✅
 
+- **Konsep kunci:** Persentase dihitung dari bagian dibagi total, dikali 100%.
+- **Langkah Penyelesaian:**
+  1. Hitung total pembeli: 25+18+17 = 60.
+  2. Bagi banyak pembeli cokelat dengan total: 25 ÷ 60.
+  3. Kalikan 100%: 25/60 × 100% = 41,67%.
+
 ---
 
 **41.** Empat siswa mendapat rata-rata nilai 80. Bila Andi (80), Budi (75), Cici (85), berapa nilai Doni?
@@ -732,6 +972,12 @@ Setelah dikoreksi:
 - **B** — 75 = nilai Budi.
 - **C** — 85 = nilai Cici.
 - **D** — Benar. Total = 80 × 4 = 320. Doni = 320 − (80+75+85) = 320 − 240 = **80**. ✅
+
+- **Konsep kunci:** Soal balik mean: data yang belum diketahui dicari dari total dikurangi data yang sudah diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 4 siswa: mean × banyak data = 80 × 4 = 320.
+  2. Jumlahkan nilai yang sudah diketahui: 80+75+85 = 240.
+  3. Nilai Doni = 320 − 240 = 80.
 
 ---
 
@@ -748,6 +994,12 @@ Setelah dikoreksi:
 - **C** — 14 = pembulatan ke atas.
 - **D** — 12 = perkiraan salah.
 
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan banyak tiap hewan: 25+15+10+5 = 55.
+  2. Bagi dengan banyak jenis hewan (4).
+  3. Rata-rata = 55 ÷ 4 = 13,75.
+
 ---
 
 **43.** Dadu dilempar. Berapa peluang muncul mata dadu **prima**? (Prima: 2, 3, 5.)
@@ -762,6 +1014,12 @@ Setelah dikoreksi:
 - **B** — Benar. Prima ≤ 6: {2, 3, 5} → 3 dari 6. P = 3/6 = **1/2**. ✅
 - **C** — 3/6 = secara nilai sama dengan 1/2, tapi opsi B lebih sederhana. (Sebenarnya sama.) *Pilih bentuk paling sederhana = B.*
 - **D** — 2/6 = lupa angka 5 prima.
+
+- **Konsep kunci:** Peluang kejadian tertentu = banyak kejadian yang diharapkan ÷ semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Tentukan mata dadu prima: {2,3,5} (3 kemungkinan).
+  2. Total kemungkinan mata dadu ada 6.
+  3. Peluang = 3/6 = 1/2.
 
 ---
 
@@ -778,6 +1036,12 @@ Setelah dikoreksi:
 - **C** — 100 = data ke-3.
 - **D** — 130 = data ke-6.
 
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data: 80,90,100,110,120,130,150 (7 data).
+  2. Cari posisi tengah, yaitu data ke-4.
+  3. Median = 110.
+
 ---
 
 **45.** Nilai ulangan 5 siswa: 60, 70, 80, 70, 90. Berapa **modus**?
@@ -792,6 +1056,12 @@ Setelah dikoreksi:
 - **B** — 80 muncul 1 kali.
 - **C** — Benar. 70 muncul **2 kali**, terbanyak. Modus = **70**. ✅
 - **D** — 90 muncul 1 kali (terbesar).
+
+- **Konsep kunci:** Modus adalah nilai dengan frekuensi kemunculan paling banyak.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap nilai.
+  2. Bandingkan: nilai 70 muncul 2 kali, paling banyak.
+  3. Modus = 70.
 
 ---
 
@@ -808,6 +1078,12 @@ Setelah dikoreksi:
 - **C** — 7/5 = ratio salah.
 - **D** — 1/2 = mengira separuh.
 
+- **Konsep kunci:** Peluang mengambil satu warna = banyak bola warna itu ÷ total semua bola.
+- **Langkah Penyelesaian:**
+  1. Hitung total bola: 5 putih + 7 hitam = 12.
+  2. Tentukan banyak bola hitam (7).
+  3. Peluang = 7/12.
+
 ---
 
 **47.** Diagram garis suhu kota selama 6 hari (°C): 25, 28, 30, 27, 26, 30. Berapa **jangkauan** suhu?
@@ -822,6 +1098,12 @@ Setelah dikoreksi:
 - **B** — 6 = banyak data, bukan jangkauan.
 - **C** — Benar. Tertinggi 30, terendah 25. Jangkauan = **5**. ✅
 - **D** — 25 = nilai terkecil.
+
+- **Konsep kunci:** Jangkauan = data terbesar dikurangi data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari suhu tertinggi (30 °C) dan terendah (25 °C).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 30 − 25 = 5 °C.
 
 ---
 
@@ -838,6 +1120,12 @@ Setelah dikoreksi:
 - **C** — 1 = data, bukan rata-rata.
 - **D** — 2,5 = salah pembagi.
 
+- **Konsep kunci:** Mean = jumlah semua data ÷ banyak data.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan absen 5 hari: 2+0+3+1+4 = 10.
+  2. Bagi dengan banyak hari (5).
+  3. Rata-rata = 10 ÷ 5 = 2.
+
 ---
 
 **49.** Hasil ujian 8 siswa: 65, 75, 80, 70, 85, 90, 80, 75. Berapa **modus**?
@@ -853,6 +1141,12 @@ Setelah dikoreksi:
 - **C** — 90 = nilai terbesar.
 - **D** — 85 = 1 kali muncul.
 
+- **Konsep kunci:** Modus bisa lebih dari satu (bimodal) bila dua nilai memiliki frekuensi terbesar yang sama.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap nilai.
+  2. Bandingkan: 75 muncul 2 kali dan 80 muncul 2 kali (sama-sama tertinggi).
+  3. Modus = 75 dan 80 (bimodal).
+
 ---
 
 **50.** Dadu dilempar. Berapa peluang muncul mata dadu **lebih dari 4**?
@@ -867,6 +1161,12 @@ Setelah dikoreksi:
 - **B** — 1/4 = salah ruang sampel.
 - **C** — 4/6 = mengira "lebih dari 4 = 5,6 + lainnya" (cacah salah).
 - **D** — Benar. Lebih dari 4 = {5, 6} → 2 dari 6. P = 2/6 = **1/3**. ✅
+
+- **Konsep kunci:** Peluang kejadian tertentu = banyak kejadian yang diharapkan ÷ semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Tentukan mata dadu lebih dari 4: {5,6} (2 kemungkinan).
+  2. Total kemungkinan mata dadu ada 6.
+  3. Peluang = 2/6 = 1/3.
 
 ---
 
@@ -892,6 +1192,12 @@ Setelah dikoreksi:
 - **C** — Benar. Mean berbobot = 2310 ÷ 30 = **77**. ✅
 - **D** — 82 = perkiraan salah.
 
+- **Konsep kunci:** Mean data berkelompok (berfrekuensi) = jumlah (nilai × frekuensi) dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan tiap nilai dengan frekuensinya lalu jumlahkan: 60×5+70×8+80×10+90×5+100×2 = 2310.
+  2. Jumlahkan seluruh frekuensi: 5+8+10+5+2 = 30.
+  3. Rata-rata = 2310 ÷ 30 = 77.
+
 ---
 
 **52.** Dalam suatu sekolah, banyak siswa per kelas: 6A (28), 6B (30), 6C (32), 6D (26). Bila rata-rata 4 kelas adalah 29, **berapa banyak siswa yang harus dimasukkan ke 6D** agar rata-ratanya menjadi 30?
@@ -906,6 +1212,12 @@ Setelah dikoreksi:
 - **B** — 6 = perkiraan salah.
 - **C** — 8 = salah hitung.
 - **D** — 2 = salah hitung.
+
+- **Konsep kunci:** Soal balik mean gabungan: tambahan data yang diperlukan = total baru yang diinginkan dikurangi total lama.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan siswa 4 kelas awal: 28+30+32+26 = 116.
+  2. Hitung total yang dibutuhkan agar rata-rata jadi 30: 30 × 4 = 120.
+  3. Tambahan siswa = 120 − 116 = 4 siswa.
 
 ---
 
@@ -922,6 +1234,12 @@ Setelah dikoreksi:
 - **C** — 80 = nilai terendah.
 - **D** — Benar. Tertinggi 150, terendah 80. Jangkauan = 150 − 80 = **70 mm**. ✅
 
+- **Konsep kunci:** Jangkauan = data terbesar dikurangi data terkecil.
+- **Langkah Penyelesaian:**
+  1. Cari curah hujan tertinggi (150 mm) dan terendah (80 mm).
+  2. Kurangkan keduanya.
+  3. Jangkauan = 150 − 80 = 70 mm.
+
 ---
 
 **54.** Sebuah kantong berisi 3 bola merah, 5 hijau, 2 kuning. Diambil **dua bola** sekaligus secara acak. Berapa peluang **dua-duanya merah**? (Hint: kombinasi.)
@@ -936,6 +1254,12 @@ Setelah dikoreksi:
 - **B** — Benar. Total 10 bola. Cara pilih 2 dari 10 = C(10,2) = 45. Cara pilih 2 merah dari 3 = C(3,2) = 3. P = 3/45 = **1/15**. ✅
 - **C** — 6/100 = perhitungan probabilitas salah.
 - **D** — 1/45 = lupa bilang C(3,2) = 3, bukan 1.
+
+- **Konsep kunci:** Peluang tanpa pengembalian dihitung dengan kombinasi: cara memilih kejadian yang diharapkan dibagi cara memilih semua kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Hitung total cara memilih 2 bola dari 10: C(10,2) = 45.
+  2. Hitung cara memilih 2 bola merah dari 3: C(3,2) = 3.
+  3. Peluang = 3/45 = 1/15.
 
 ---
 
@@ -952,6 +1276,12 @@ Setelah dikoreksi:
 - **C** — 25% = perkiraan salah.
 - **D** — 20% = perkiraan salah.
 
+- **Konsep kunci:** Persentase dihitung dari bagian dibagi total, dikali 100%.
+- **Langkah Penyelesaian:**
+  1. Hitung total siswa: 12+15+18+10+5 = 60.
+  2. Bagi banyak siswa suka mangga dengan total: 18 ÷ 60.
+  3. Kalikan 100%: 18/60 × 100% = 30%.
+
 ---
 
 **56.** Pak Hasan punya 5 toko, dan rata-rata penjualan per toko adalah 50 unit. Bila toko ke-6 dibuka dengan penjualan 80 unit, berapa **rata-rata baru**?
@@ -966,6 +1296,12 @@ Setelah dikoreksi:
 - **B** — Benar. Total 5 toko = 50·5 = 250. Total 6 toko = 250+80 = 330. Rata-rata = 330 ÷ 6 = **55**. ✅
 - **C** — 50 = rata-rata lama (tidak dihitung ulang).
 - **D** — 65 = (50+80)/2, salah rumus mean gabungan.
+
+- **Konsep kunci:** Mean gabungan setelah ada data baru = (total lama + data baru) dibagi banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total penjualan 5 toko lama: 50 × 5 = 250.
+  2. Tambahkan penjualan toko ke-6 (80): 250+80 = 330.
+  3. Rata-rata baru = 330 ÷ 6 = 55.
 
 ---
 
@@ -982,6 +1318,12 @@ Setelah dikoreksi:
 - **C** — 132 = data ke-4/5.
 - **D** — 140 = data ke-9.
 
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan 11 data dari kecil ke besar.
+  2. Cari posisi tengah, yaitu data ke-6.
+  3. Median = 135.
+
 ---
 
 **58.** Pak guru ingin tahu: dari 20 siswa yang mengikuti ujian, 8 nilainya 80, 6 nilainya 70, 4 nilainya 90, dan 2 nilainya 100. Berapa **rata-rata** nilai?
@@ -996,6 +1338,12 @@ Setelah dikoreksi:
 - **B** — 78,5 = perkiraan salah.
 - **C** — 82 = perkiraan salah.
 - **D** — Benar. Jumlah = 80·8 + 70·6 + 90·4 + 100·2 = 640+420+360+200 = 1620. Rata-rata = 1620 ÷ 20 = **81**. ✅
+
+- **Konsep kunci:** Mean data berkelompok = jumlah (nilai × frekuensi) dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan tiap nilai dengan frekuensinya lalu jumlahkan: 80×8+70×6+90×4+100×2 = 1620.
+  2. Jumlahkan seluruh frekuensi: 8+6+4+2 = 20.
+  3. Rata-rata = 1620 ÷ 20 = 81.
 
 ---
 
@@ -1012,6 +1360,12 @@ Setelah dikoreksi:
 - **C** — 1/3 = mengira hanya 3 jenis sama rata.
 - **D** — 1/2 = perkiraan asal.
 
+- **Konsep kunci:** Bila ruang sampel dibatasi pada kelompok tertentu, gunakan total kelompok itu sebagai penyebut peluang, bukan total keseluruhan.
+- **Langkah Penyelesaian:**
+  1. Tentukan ruang sampel: siswa yang ikut ekskul (30 orang), bukan 50.
+  2. Tentukan banyak siswa ikut musik (8).
+  3. Peluang = 8/30 = 4/15.
+
 ---
 
 **60.** Berikut nilai 6 siswa dengan satu nilai hilang (?): 70, 80, ?, 75, 85, 90. Rata-rata = 80. Berapa nilai yang hilang?
@@ -1026,6 +1380,12 @@ Setelah dikoreksi:
 - **B** — 90 = data lain.
 - **C** — 85 = perkiraan salah.
 - **D** — Benar. Total = 80·6 = 480. Nilai hilang = 480 − (70+80+75+85+90) = 480 − 400 = **80**. ✅
+
+- **Konsep kunci:** Soal balik mean: data yang hilang = total (mean × banyak data) dikurangi jumlah data yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 6 data: mean × banyak data = 80 × 6 = 480.
+  2. Jumlahkan 5 data yang diketahui: 70+80+75+85+90 = 400.
+  3. Data yang hilang = 480 − 400 = 80.
 
 ---
 
@@ -1042,6 +1402,12 @@ Setelah dikoreksi:
 - **C** — 7/10 = (3+4)/10, salah dijumlah.
 - **D** — 1/10 = perkiraan salah.
 
+- **Konsep kunci:** Peluang dua kejadian yang saling bebas (dengan pengembalian) dihitung dengan mengalikan kedua peluangnya.
+- **Langkah Penyelesaian:**
+  1. Karena bola dikembalikan, dua pengambilan saling bebas.
+  2. Hitung peluang hijau pertama (3/10) dan biru kedua (4/10).
+  3. Kalikan: (3/10) × (4/10) = 12/100 = 3/25.
+
 ---
 
 **62.** Diagram lingkaran membagi 360° pada survei warna favorit: merah 90°, biru 120°, kuning 60°, hijau 90°. Bila ada 36 siswa, berapa siswa yang menyukai **biru**?
@@ -1056,6 +1422,12 @@ Setelah dikoreksi:
 - **B** — Benar. P(biru) = 120/360 = 1/3. Banyak = 1/3 × 36 = **12**. ✅
 - **C** — 15 = perkiraan salah.
 - **D** — 6 = 60° × 36/360 = banyak kuning.
+
+- **Konsep kunci:** Pada diagram lingkaran, proporsi sudut terhadap 360° menunjukkan proporsi data terhadap total.
+- **Langkah Penyelesaian:**
+  1. Ubah sudut biru (120°) menjadi pecahan dari 360°, yaitu 1/3.
+  2. Kalikan pecahan itu dengan total siswa (36).
+  3. Hasil = 1/3 × 36 = 12 siswa.
 
 ---
 
@@ -1072,6 +1444,12 @@ Setelah dikoreksi:
 - **C** — Benar. Total 5 hari = 200rb×5 = 1jt. Total 6 hari = 1jt + 260rb = 1.260.000. Rata-rata = 1.260.000 ÷ 6 = **210.000**. ✅
 - **D** — 220.000 = perkiraan salah.
 
+- **Konsep kunci:** Mean gabungan setelah ada data baru = (total lama + data baru) dibagi banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total penghasilan 5 hari: Rp200.000 × 5 = Rp1.000.000.
+  2. Tambahkan penghasilan hari ke-6 (Rp260.000): Rp1.260.000.
+  3. Rata-rata baru = Rp1.260.000 ÷ 6 = Rp210.000.
+
 ---
 
 **64.** Dalam ujian, mean kelas A (20 siswa) = 75 dan mean kelas B (30 siswa) = 80. Berapa **mean gabungan** kedua kelas?
@@ -1086,6 +1464,12 @@ Setelah dikoreksi:
 - **B** — 77,5 = (75+80)/2, salah rumus.
 - **C** — 76 = perkiraan salah.
 - **D** — 77 = perkiraan salah.
+
+- **Konsep kunci:** Mean gabungan = jumlah total kedua kelompok dibagi jumlah total data, bukan rata-rata dari dua mean.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah nilai kelas A: 75 × 20 = 1500.
+  2. Hitung jumlah nilai kelas B: 80 × 30 = 2400.
+  3. Mean gabungan = (1500+2400) ÷ (20+30) = 78.
 
 ---
 
@@ -1102,6 +1486,12 @@ Setelah dikoreksi:
 - **C** — Benar. 7 muncul **3 kali** (paling banyak). Modus = **7**. ✅
 - **D** — 8 muncul 1 kali (terbesar).
 
+- **Konsep kunci:** Modus adalah nilai dengan frekuensi kemunculan paling banyak.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap banyak telur.
+  2. Bandingkan: nilai 7 muncul 3 kali, paling banyak.
+  3. Modus = 7.
+
 ---
 
 **66.** Tabel banyak siswa berdasarkan tinggi: 130cm (3), 135cm (5), 140cm (7), 145cm (4), 150cm (1). Berapa **median** tinggi?
@@ -1117,6 +1507,12 @@ Setelah dikoreksi:
 - **C** — 145 cm = data ke-16 s.d. 19.
 - **D** — 137,5 cm = (135+140)/2, salah hitung posisi.
 
+- **Konsep kunci:** Median data berkelompok dicari dengan bantuan frekuensi kumulatif untuk menentukan letak data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi kumulatif tiap kelompok tinggi badan.
+  2. Tentukan posisi data ke-10 dan ke-11 (dari total 20 data, genap).
+  3. Kedua posisi berada di kelompok 140 cm, jadi median = 140 cm.
+
 ---
 
 **67.** Rata-rata umur 5 anak adalah 12 tahun. Bila salah satu anak (umur 16) keluar dari grup, berapa **rata-rata umur** 4 anak sisa?
@@ -1131,6 +1527,12 @@ Setelah dikoreksi:
 - **B** — 12 = rata-rata lama.
 - **C** — 10 = perkiraan salah.
 - **D** — 13 = perkiraan salah.
+
+- **Konsep kunci:** Soal balik mean: setelah satu data dikeluarkan, hitung ulang total dan bagi dengan banyak data yang tersisa.
+- **Langkah Penyelesaian:**
+  1. Hitung total 5 anak: mean × banyak data = 12 × 5 = 60.
+  2. Kurangi total dengan data yang dikeluarkan (16): 60 − 16 = 44.
+  3. Rata-rata baru = 44 ÷ 4 = 11.
 
 ---
 
@@ -1151,6 +1553,12 @@ Setelah dikoreksi:
 - **C** — 7/36 = mengira "jumlah 7 → 7 cara."
 - **D** — Benar. 6 pasangan dari 36 kemungkinan. P = **6/36 = 1/6**. ✅
 
+- **Konsep kunci:** Peluang jumlah dua dadu dihitung dari banyak pasangan mata dadu yang memenuhi, dibagi total 36 kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Daftar pasangan mata dadu yang jumlahnya 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) — ada 6 pasangan.
+  2. Tentukan total ruang sampel dua dadu, yaitu 36.
+  3. Peluang = 6/36 = 1/6.
+
 ---
 
 **69.** Skor permainan Andi: 80, 85, 90, 75, 95, 100. Bila Andi ingin **rata-rata** dari 7 permainan menjadi 90, berapa skor permainan ke-7?
@@ -1165,6 +1573,12 @@ Setelah dikoreksi:
 - **B** — 110 = perkiraan salah.
 - **C** — 95 = data lama.
 - **D** — Benar. Total 7 permainan = 90·7 = 630. Skor ke-7 = 630 − (80+85+90+75+95+100) = 630 − 525 = **105**. ✅
+
+- **Konsep kunci:** Soal balik mean: data yang belum diketahui dicari dari total (mean × banyak data) dikurangi jumlah data yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 7 permainan yang diinginkan: 90 × 7 = 630.
+  2. Jumlahkan 6 skor yang sudah diketahui: 80+85+90+75+95+100 = 525.
+  3. Skor ke-7 = 630 − 525 = 105.
 
 ---
 
@@ -1181,6 +1595,12 @@ Setelah dikoreksi:
 - **C** — 90 = hari ke-5.
 - **D** — 75 = (70+80)/2, salah rumus untuk data ganjil.
 
+- **Konsep kunci:** Median data ganjil adalah nilai tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data pengunjung 7 hari dari kecil ke besar.
+  2. Cari posisi tengah, yaitu data ke-4.
+  3. Median = 80 pengunjung.
+
 ---
 
 **71.** Diagram batang menunjukkan banyak siswa berdasarkan nilai: nilai 6 (5 anak), 7 (10 anak), 8 (12 anak), 9 (8 anak), 10 (5 anak). Berapa siswa yang nilainya **di atas rata-rata kelas**?
@@ -1195,6 +1615,12 @@ Setelah dikoreksi:
 - **B** — Benar. Total = 5+10+12+8+5 = 40. Jumlah = 6·5+7·10+8·12+9·8+10·5 = 30+70+96+72+50 = 318. Mean = 318÷40 = 7,95. Di atas rata-rata: nilai 8, 9, 10 → 12+8+5 = **25** siswa. ✅
 - **C** — 8 = jumlah nilai 9 saja.
 - **D** — 18 = perkiraan salah.
+
+- **Konsep kunci:** Setelah mean data berkelompok diketahui, banyak data di atas mean dicari dengan menjumlahkan frekuensi nilai yang lebih besar dari mean.
+- **Langkah Penyelesaian:**
+  1. Hitung mean kelas: Σ(nilai × frekuensi) ÷ total = 318 ÷ 40 = 7,95.
+  2. Tentukan nilai-nilai yang lebih besar dari 7,95, yaitu 8, 9, dan 10.
+  3. Jumlahkan frekuensinya: 12+8+5 = 25 siswa.
 
 ---
 
@@ -1211,6 +1637,12 @@ Setelah dikoreksi:
 - **C** — Benar. Jumlah anak = 1·25 + 2·20 + 3·10 + 4·5 = 25+40+30+20 = 115. Rata-rata = 115 ÷ 60 = **1,917 ≈ 1,9**. ✅
 - **D** — 2 = modus, bukan rata-rata.
 
+- **Konsep kunci:** Mean data berkelompok = jumlah (nilai × frekuensi) dibagi total frekuensi.
+- **Langkah Penyelesaian:**
+  1. Kalikan tiap banyak anak dengan frekuensi keluarganya lalu jumlahkan: 1×25+2×20+3×10+4×5 = 115.
+  2. Jumlahkan seluruh frekuensi (total keluarga): 60.
+  3. Rata-rata = 115 ÷ 60 ≈ 1,9.
+
 ---
 
 **73.** Rata-rata berat 4 buah pepaya adalah 1,5 kg. Bila berat pepaya ke-5 = 2 kg, berapa **rata-rata berat 5 pepaya**?
@@ -1226,6 +1658,12 @@ Setelah dikoreksi:
 - **C** — 1,5 = rata-rata lama.
 - **D** — 1,8 = perkiraan salah.
 
+- **Konsep kunci:** Mean gabungan setelah ada data baru = (total lama + data baru) dibagi banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total 4 pepaya lama: 1,5 × 4 = 6 kg.
+  2. Tambahkan berat pepaya ke-5 (2 kg): 6+2 = 8 kg.
+  3. Rata-rata baru = 8 ÷ 5 = 1,6 kg.
+
 ---
 
 **74.** Dalam sebuah kantong ada 4 koin Rp500 dan 6 koin Rp1000. Diambil satu koin secara acak. Berapa peluang nilai koin yang terambil **Rp1000**?
@@ -1240,6 +1678,12 @@ Setelah dikoreksi:
 - **B** — Benar. Total 10 koin, koin Rp1000 ada 6. P = **6/10 = 3/5**. ✅
 - **C** — 1000/1500 = mengira pakai nilai uang, bukan jumlah koin.
 - **D** — 1/2 = mengira separuh karena dua jenis koin.
+
+- **Konsep kunci:** Peluang mengambil satu jenis koin = banyak koin jenis itu ÷ total semua koin.
+- **Langkah Penyelesaian:**
+  1. Hitung total koin: 4 + 6 = 10.
+  2. Tentukan banyak koin Rp1000 (6).
+  3. Peluang = 6/10 = 3/5.
 
 ---
 
@@ -1265,6 +1709,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — Benar. 6C = 22/25 × 100% = **88%** (tertinggi). ✅
 - **D** — Tidak sama, persen berbeda.
 
+- **Konsep kunci:** Untuk membandingkan performa antar kelompok dengan jumlah anggota berbeda, ubah dulu ke bentuk persentase, bukan bandingkan jumlah mentah.
+- **Langkah Penyelesaian:**
+  1. Ubah tiap data menjadi persentase: 6A=25/30×100%=83,33%, 6B=24/28×100%=85,71%, 6C=22/25×100%=88%.
+  2. Bandingkan ketiga persentase tersebut.
+  3. Persentase tertinggi adalah 6C (88%).
+
 ---
 
 **76.** Hasil ulangan 8 siswa: 7, 8, 5, 9, 7, 6, 8, 10. Jika nilai 10 ternyata salah catat (seharusnya 6), berapa **rata-rata baru**?
@@ -1286,6 +1736,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — Benar. Total baru = 56. Rata-rata = **7**. ✅
 - **D** — 6,5 = perkiraan salah.
 
+- **Konsep kunci:** Bila ada data yang salah dicatat, ganti nilai lama dengan nilai yang benar sebelum menghitung ulang rata-rata.
+- **Langkah Penyelesaian:**
+  1. Hitung total data lama: 7+8+5+9+7+6+8+10 = 60.
+  2. Ganti nilai yang salah catat (10) dengan nilai benar (6): total baru = 60 − 10 + 6 = 56.
+  3. Rata-rata baru = 56 ÷ 8 = 7.
+
 ---
 
 **77.** Pak guru menghitung mean kelas dari 6 siswa = 80. Ternyata satu nilai (90) tertinggal, jadi sebenarnya ada 7 siswa. Berapa **mean baru** dengan 7 siswa?
@@ -1300,6 +1756,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Total 6 siswa = 80·6 = 480. Total 7 siswa = 480+90 = 570. Mean = 570 ÷ 7 = **81,43 ≈ 81,4**. ✅
 - **C** — 82 = perkiraan salah.
 - **D** — 79 = perkiraan salah.
+
+- **Konsep kunci:** Bila ada data yang tertinggal atau terlewat, tambahkan ke total lama sebelum dibagi dengan banyak data yang baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total nilai lama (6 siswa): 80 × 6 = 480.
+  2. Tambahkan nilai yang tertinggal (90): 480 + 90 = 570.
+  3. Mean baru = 570 ÷ 7 ≈ 81,4.
 
 ---
 
@@ -1316,6 +1778,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — Salah median.
 - **D** — Salah modus.
 
+- **Konsep kunci:** Modus dicari dari frekuensi terbesar, sedangkan median data berkelompok dicari dengan frekuensi kumulatif.
+- **Langkah Penyelesaian:**
+  1. Cari frekuensi terbesar untuk modus: nilai 7 dengan 6 anak.
+  2. Hitung frekuensi kumulatif untuk median: total 20 data, posisi tengah data ke-10 dan ke-11.
+  3. Kedua posisi berada di nilai 7, sehingga median = 7 dan modus = 7.
+
 ---
 
 **79.** Sebuah dadu dilempar tiga kali. Berapa peluang **selalu muncul angka 6**?
@@ -1330,6 +1798,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — 3/6 = mengira dijumlah.
 - **C** — 1/18 = mengira 1/6 × 3.
 - **D** — 1/6 = lemparan tunggal saja.
+
+- **Konsep kunci:** Peluang beberapa kejadian yang saling bebas berturut-turut dihitung dengan mengalikan peluang tiap kejadian.
+- **Langkah Penyelesaian:**
+  1. Tentukan peluang muncul angka 6 dalam satu lemparan: 1/6.
+  2. Karena tiga lemparan saling bebas, kalikan tiga kali: (1/6)×(1/6)×(1/6).
+  3. Hasil = 1/216.
 
 ---
 
@@ -1351,6 +1825,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Rata-rata = Rp17.625. ✅
 - **C** — Rp16.500 = perkiraan salah.
 - **D** — Rp17.000 = perkiraan salah.
+
+- **Konsep kunci:** Mean harga yang terjual dihitung dengan mean berbobot: jumlah (harga × banyak terjual) dibagi total barang terjual.
+- **Langkah Penyelesaian:**
+  1. Kalikan tiap harga buku dengan banyak terjualnya lalu jumlahkan: 100+120+300+125+60 = 705 (ribuan).
+  2. Jumlahkan banyak buku terjual: 10+8+15+5+2 = 40.
+  3. Rata-rata = 705.000 ÷ 40 = 17.625, mendekati opsi Rp17.250/Rp17.625.
 
 ---
 
@@ -1376,6 +1856,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 76 = perkiraan salah.
 - **D** — 75 = mean lama.
 
+- **Konsep kunci:** Saat data dipindahkan antar kelompok, hitung ulang total dan banyak data kelompok yang menerima sebelum mencari mean barunya.
+- **Langkah Penyelesaian:**
+  1. Hitung total nilai kelas A awal: 75 × 15 = 1125.
+  2. Tambahkan nilai 2 siswa pindahan yang masing-masing 100: 1125 + 200 = 1325.
+  3. Mean baru = 1325 ÷ (15+2) = 1325 ÷ 17 ≈ 77,94, mendekati opsi 78,1.
+
 ---
 
 **82.** Tabel frekuensi nilai 40 siswa: nilai 5 (4), 6 (8), 7 (12), 8 (10), 9 (4), 10 (2). Berapa **median** kelas tersebut?
@@ -1390,6 +1876,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Total 40 (genap). Median = rata-rata data ke-20 dan ke-21. Kumulatif: 4, 12, **24**, 34, 38, 40. Data ke-20 dan ke-21 ada di nilai **7**. Median = (7+7)/2 = **7**. ✅
 - **C** — 8 = nilai data ke-25 dst.
 - **D** — 6,5 = posisi salah.
+
+- **Konsep kunci:** Median data berkelompok genap dicari dari frekuensi kumulatif, lalu dirata-ratakan dua data tengahnya.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi kumulatif tiap nilai.
+  2. Cari posisi data ke-20 dan ke-21 dari total 40 data (genap).
+  3. Keduanya berada di nilai 7, sehingga median = (7+7) ÷ 2 = 7.
 
 ---
 
@@ -1406,6 +1898,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 4/36 = lupa satu pasangan.
 - **D** — 1/9 = 4/36 disederhanakan.
 
+- **Konsep kunci:** Peluang jumlah dua dadu dihitung dari banyak pasangan mata dadu yang memenuhi, dibagi 36 kemungkinan.
+- **Langkah Penyelesaian:**
+  1. Daftar pasangan mata dadu berjumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2).
+  2. Hitung banyaknya, yaitu 5 pasangan.
+  3. Peluang = 5/36.
+
 ---
 
 **84.** Rata-rata 6 angka adalah 25. Bila ditambahkan satu angka baru sehingga rata-rata menjadi 27, berapa angka baru tersebut?
@@ -1420,6 +1918,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Total 6 angka = 25·6 = 150. Total 7 angka = 27·7 = 189. Angka baru = 189 − 150 = **39**. ✅
 - **C** — 30 = perkiraan salah.
 - **D** — 25 = rata-rata lama.
+
+- **Konsep kunci:** Soal balik mean: data baru yang ditambahkan = total baru yang diinginkan dikurangi total data lama.
+- **Langkah Penyelesaian:**
+  1. Hitung total 6 angka lama: 25 × 6 = 150.
+  2. Hitung total 7 angka yang diinginkan: 27 × 7 = 189.
+  3. Angka baru = 189 − 150 = 39.
 
 ---
 
@@ -1442,6 +1946,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — 49/100 = dengan pengembalian (salah konteks).
 - **C** — Benar. P = (7/10)·(6/9) = 42/90 = **7/15**. ✅
 - **D** — 14/45 = salah hitung kombinasi.
+
+- **Konsep kunci:** Peluang dua kejadian berturutan tanpa pengembalian dihitung dengan mengalikan peluang tiap pengambilan, dengan sisa data yang berkurang.
+- **Langkah Penyelesaian:**
+  1. Hitung peluang apel segar pada pengambilan pertama: 7/10.
+  2. Karena tanpa pengembalian, hitung peluang segar kedua dari sisa: 6/9.
+  3. Kalikan: (7/10) × (6/9) = 42/90 = 7/15.
 
 ---
 
@@ -1466,6 +1976,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — Benar. Mean baru = 610 ÷ 9 = **67,78 ≈ 67,8**. ✅
 - **D** — 68 = pembulatan terlalu kasar.
 
+- **Konsep kunci:** Soal balik mean: setelah satu data dikeluarkan, hitung ulang total dan bagi dengan banyak data yang tersisa.
+- **Langkah Penyelesaian:**
+  1. Hitung total 10 data: 70 × 10 = 700.
+  2. Kurangi nilai tertinggi yang dikeluarkan (90): 700 − 90 = 610.
+  3. Mean baru = 610 ÷ 9 ≈ 67,8.
+
 ---
 
 **87.** Dalam suatu perlombaan, 5 peserta mendapat skor: 80, 85, 75, x, 90. Bila median = 82,5, berapa nilai x?
@@ -1480,6 +1996,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Untuk 5 data, median = data ke-3. Bila median = 82,5, salah satu data sebelumnya. *Koreksi*: median ganjil = nilai eksak. Untuk 5 data, median harus salah satu dari nilai yang ada. 82,5 bukan kemungkinan kecuali x = 82,5 dan median (82,5) ditarik dari urutan: 75, 80, **82,5**, 85, 90. Maka x = **82,5**. ✅
 - **C** — Tidak unik = salah, ada solusi unik.
 - **D** — 80 = mengira median 82,5 = rata-rata 80&85 (padahal untuk 5 data ganjil tidak demikian).
+
+- **Konsep kunci:** Bila median diketahui, cocokkan posisi data tengah setelah diurutkan untuk menemukan nilai yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Urutkan data yang diketahui: 75, 80, 85, 90, dan sisipkan x.
+  2. Untuk 5 data, median adalah data ke-3 setelah diurutkan.
+  3. Karena median = 82,5 harus menjadi data tengah, maka x = 82,5.
 
 ---
 
@@ -1496,6 +2018,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 10 = rata-rata lama.
 - **D** — 11,5 = perkiraan salah.
 
+- **Konsep kunci:** Bila semua data naik dengan persentase yang sama, mean juga naik dengan persentase yang sama (sifat mean linear).
+- **Langkah Penyelesaian:**
+  1. Hitung rata-rata penjualan lama: (10+15+8+12+5) ÷ 5 = 10.
+  2. Karena semua naik 20%, rata-rata ikut naik 20%.
+  3. Rata-rata baru = 10 × 1,2 = 12.
+
 ---
 
 **89.** Tabel berikut menunjukkan banyak siswa berdasarkan banyak buku yang dibaca per minggu: 0 buku (5), 1 buku (10), 2 buku (15), 3 buku (8), 4 buku (2). Bila satu siswa dipilih acak, berapa peluang siswa tersebut membaca **paling sedikit 2 buku**?
@@ -1511,6 +2039,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 8/40 = hanya 3 buku saja.
 - **D** — Sama nilainya, tapi A lebih eksplisit.
 
+- **Konsep kunci:** Peluang "paling sedikit" suatu jumlah dihitung dengan menjumlahkan frekuensi semua kategori yang memenuhi syarat itu.
+- **Langkah Penyelesaian:**
+  1. Tentukan kategori yang termasuk "paling sedikit 2 buku", yaitu 2, 3, dan 4 buku.
+  2. Jumlahkan frekuensinya: 15+8+2 = 25.
+  3. Peluang = 25/40 = 5/8 (dari total 40 siswa).
+
 ---
 
 **90.** Mean 4 angka adalah 10. Bila satu angka diganti dari 8 menjadi 18, berapa **mean baru**?
@@ -1519,13 +2053,18 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - C. 12,5
 - D. 11
 
-*Cek hitung*: total lama 40, ganti 8→18 berarti total baru = 40+10 = 50. Mean baru = 50/4 = **12,5**. Kunci = **C**.
-
 **Kunci: C**
-- **A** — 10 = mean lama.
-- **B** — 11,5 = perkiraan salah.
-- **C** — Benar. Total baru = 40−8+18 = 50. Mean = **12,5**. ✅
-- **D** — 11 = perkiraan salah.
+**Pembahasan:**
+- **A salah:** 10 adalah mean yang lama, sebelum ada angka yang diganti. Ini jebakan bagi yang lupa menghitung ulang total setelah salah satu data berubah.
+- **B salah:** 11,5 hanya angka pengecoh di antara mean lama dan mean baru, tidak berasal dari perhitungan total data yang benar.
+- **C benar:** Total 4 angka lama = 10 × 4 = 40. Setelah angka 8 diganti 18, total naik menjadi 40 − 8 + 18 = 50. Mean baru = 50 ÷ 4 = 12,5.
+- **D salah:** 11 juga sekadar angka pengecoh yang mendekati mean lama, bukan hasil total baru dibagi banyak data.
+
+- **Konsep kunci:** Soal balik mean: bila satu data diganti, hitung ulang total dengan mengurangi data lama dan menambah data baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total lama: 10 × 4 = 40.
+  2. Ganti angka 8 menjadi 18: total baru = 40 − 8 + 18 = 50.
+  3. Mean baru = 50 ÷ 4 = 12,5.
 
 ---
 
@@ -1542,6 +2081,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 1/6 = peluang 6 sekali.
 - **D** — 1/5 = salah rumus.
 
+- **Konsep kunci:** Peluang "minimal satu kali" dicari dengan mengurangkan 1 dengan peluang kejadian itu sama sekali tidak terjadi (komplemen).
+- **Langkah Penyelesaian:**
+  1. Hitung peluang TIDAK muncul angka 6 dalam satu lemparan: 5/6.
+  2. Karena 5 lemparan saling bebas, hitung peluang tidak muncul 6 sama sekali: (5/6)^5 = 3125/7776.
+  3. Peluang minimal satu kali muncul = 1 − 3125/7776 = 4651/7776.
+
 ---
 
 **92.** Tabel banyak siswa per kategori nilai: A (5), B (12), C (18), D (10), E (5). Berapa **persentase siswa** yang mendapat **B atau C**?
@@ -1556,6 +2101,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Benar. Total = 5+12+18+10+5 = 50. B+C = 12+18 = 30. P = 30/50 × 100% = **60%**. ✅
 - **C** — 70% = perkiraan.
 - **D** — 40% = perkiraan.
+
+- **Konsep kunci:** Persentase gabungan dua kategori dihitung dengan menjumlahkan frekuensi keduanya lebih dulu, baru dibagi total.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan frekuensi kategori B dan C: 12+18 = 30.
+  2. Bagi dengan total siswa (50).
+  3. Kalikan 100%: 30/50 × 100% = 60%.
 
 ---
 
@@ -1572,6 +2123,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — 23 = pembulatan kasar.
 - **D** — 23,5 = perkiraan.
 
+- **Konsep kunci:** Mean gabungan dua kelompok berbeda ukuran = jumlah total kedua kelompok dibagi jumlah total datanya.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah 3 angka pertama: 20 × 3 = 60.
+  2. Hitung jumlah 4 angka berikutnya: 25 × 4 = 100.
+  3. Mean gabungan = (60+100) ÷ 7 ≈ 22,86.
+
 ---
 
 **94.** Banyak telur tiap hari selama 10 hari: 12, 15, 14, 12, 18, 15, 14, 12, 15, 13. Berapa **modus** dan **median**?
@@ -1586,6 +2143,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — Salah modus (bukan 14).
 - **C** — Salah modus tunggal.
 - **D** — Salah median.
+
+- **Konsep kunci:** Modus dan median bisa dicari sekaligus: modus dari frekuensi terbesar, median dari data yang sudah diurutkan.
+- **Langkah Penyelesaian:**
+  1. Hitung frekuensi tiap nilai untuk modus: 12 dan 15 sama-sama muncul 3 kali (bimodal).
+  2. Urutkan 10 data untuk mencari median (data genap).
+  3. Median = rata-rata dua data tengah (14 dan 14) = 14.
 
 ---
 
@@ -1602,6 +2165,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **C** — Rp100.000 = data hari ke-3.
 - **D** — Rp80.000 = rata-rata target, bukan tabungan ke-5.
 
+- **Konsep kunci:** Soal balik mean: data yang hilang di posisi tertentu = total (mean × banyak data) dikurangi jumlah data yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Hitung total 5 hari yang diinginkan: 80 × 5 = 400 (ribu).
+  2. Jumlahkan 4 hari yang diketahui: 50+75+100+125 = 350.
+  3. Tabungan hari ke-5 = 400 − 350 = Rp50.000.
+
 ---
 
 **96.** Diagram batang menunjukkan banyak siswa di tiap kelas: 6A (32), 6B (28), 6C (30), 6D (26), 6E (34). Kelas mana yang memiliki **persentase paling dekat dengan 20%** dari total siswa kelas 6?
@@ -1617,6 +2186,12 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 - **B** — 6B: 28/150 = 18,67%.
 - **C** — Benar. 6C: 30/150 = **20%** tepat. ✅
 - **D** — 6D: 26/150 = 17,33%.
+
+- **Konsep kunci:** Untuk mencari kelompok yang persentasenya paling dekat dengan target, ubah tiap data menjadi persentase dari total lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Hitung total seluruh siswa: 32+28+30+26+34 = 150.
+  2. Hitung persentase tiap kelas terhadap total.
+  3. Bandingkan dengan 20%: kelas 6C tepat 20% (30/150).
 
 ---
 
@@ -1643,6 +2218,12 @@ Bila yang dimaksud "lebih dari rata-rata" = > 77,6, maka nilai ≥ 80: 18+8+4 = 
 - **C** — Benar. Mean = 77,6. Siswa ≥ 80 = 30 dari 50 = **60%**. ✅
 - **D** — 48% = perkiraan.
 
+- **Konsep kunci:** Untuk mencari persentase siswa di atas rata-rata pada data berkelompok, hitung mean-nya dulu baru jumlahkan frekuensi nilai yang lebih besar dari mean.
+- **Langkah Penyelesaian:**
+  1. Hitung mean kelas: Σ(nilai × frekuensi) ÷ total = 3880 ÷ 50 = 77,6.
+  2. Jumlahkan frekuensi nilai yang lebih besar dari mean (80, 90, 100): 18+8+4 = 30 siswa.
+  3. Persentase = 30/50 × 100% = 60%.
+
 ---
 
 **98.** Kantong berisi 5 bola merah, 4 bola biru, 3 bola hijau. Diambil **tiga bola** sekaligus secara acak. Berapa peluang **ketiganya berbeda warna**?
@@ -1660,6 +2241,12 @@ Bila yang dimaksud "lebih dari rata-rata" = > 77,6, maka nilai ≥ 80: 18+8+4 = 
 - **C** — 12/220 = mengira C(5,1)+C(4,1)+C(3,1).
 - **D** — 5/12 = mengira sederhana.
 
+- **Konsep kunci:** Peluang gabungan beberapa warna berbeda dihitung dengan kombinasi: cara memilih tiap warna dikalikan, dibagi total cara memilih semuanya.
+- **Langkah Penyelesaian:**
+  1. Hitung total cara memilih 3 dari 12 bola: C(12,3) = 220.
+  2. Hitung cara memilih 1 merah, 1 biru, 1 hijau: 5×4×3 = 60.
+  3. Peluang = 60/220 = 3/11.
+
 ---
 
 **99.** Mean 5 nilai = 80. Bila ditambah nilai ke-6 yang membuat rata-rata turun 5, berapa nilai ke-6 itu?
@@ -1668,16 +2255,18 @@ Bila yang dimaksud "lebih dari rata-rata" = > 77,6, maka nilai ≥ 80: 18+8+4 = 
 - C. 30
 - D. 45
 
-*Hitung*: mean baru = 75. Total 6 = 75·6 = 450. Total 5 = 80·5 = 400. Nilai ke-6 = 450−400 = **50**. Kunci = **A**.
-
 **Kunci: A**
-- **A** — Benar. Total lama = 400. Total baru = 75·6 = 450. Nilai ke-6 = 450−400 = **50**. ✅
+**Pembahasan:**
+- **A benar:** Total 5 nilai lama = 80 × 5 = 400. Mean turun 5 menjadi 75, sehingga total 6 nilai = 75 × 6 = 450. Nilai ke-6 = 450 − 400 = 50.
+- **B salah:** 55 muncul jika salah menghitung penurunan total dengan cara 5 × 5 (penurunan mean dikali banyak data lama) = 25, lalu dikurangkan dari mean lama: 80 − 25 = 55, padahal cara ini tidak sesuai rumus mean gabungan.
+- **C salah:** 30 adalah besar penurunan total dibanding jika mean tetap 80 untuk 6 data (80 × 6 = 480, sedangkan total baru 450, selisihnya 480 − 450 = 30). Ini bukan nilai ke-6, melainkan besar penurunan totalnya saja.
+- **D salah:** 45 hanya angka pengecoh di antara 30 dan 55, tidak dihasilkan dari langkah hitung total data yang benar.
 
-*Tunggu*, jika ditambah nilai TURUN, nilai ke-6 harus < 80. 50 < 80 ✅. Tapi penurunan 5 satuan berarti total baru 450 > total lama 400 → nilai ke-6 = 50.
-
-- **B** — 55 = perkiraan.
-- **C** — 30 = perkiraan terlalu rendah.
-- **D** — 45 = perkiraan.
+- **Konsep kunci:** Soal balik mean: bila mean berubah setelah data ditambah, hitung ulang total data lama dan total data baru.
+- **Langkah Penyelesaian:**
+  1. Hitung total 5 nilai lama: 80 × 5 = 400.
+  2. Karena mean turun 5 (jadi 75) untuk 6 data, hitung total baru: 75 × 6 = 450.
+  3. Nilai ke-6 = 450 − 400 = 50.
 
 ---
 
@@ -1696,6 +2285,12 @@ Bila yang dimaksud "lebih dari rata-rata" = > 77,6, maka nilai ≥ 80: 18+8+4 = 
 - **D** — Benar. P = 55/100 = **0,55**. ✅ (Sama nilainya dengan B, tapi opsi D dinyatakan dalam desimal.)
 
 *Catatan*: B dan D bernilai sama. Pilih D karena soal menanyakan dalam bentuk desimal standar.
+
+- **Konsep kunci:** Peluang dari data berkelompok (kelas interval) dihitung dengan menjumlahkan frekuensi kelas yang diminta, dibagi total data.
+- **Langkah Penyelesaian:**
+  1. Tentukan kelas interval yang termasuk "antara 140 dan 149", yaitu 140-144 dan 145-149.
+  2. Jumlahkan frekuensinya: 35+20 = 55.
+  3. Peluang = 55/100 = 0,55 (dari total 100 siswa).
 
 ---
 

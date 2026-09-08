@@ -2176,10 +2176,10 @@ D. XO
 - **Konsep yang diuji:** Kromosom kelamin.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A.** XX = perempuan.
-  - **B.** XY = laki-laki (benar).
-  - **C.** YY tidak terjadi (Y dari ayah, X dari ibu).
-  - **D.** XO = kelainan kromosom (Turner pada wanita).
+  - **A salah:** XX adalah pasangan kromosom kelamin PEREMPUAN, bukan laki-laki — siswa mungkin tertukar antara ciri XX dan XY.
+  - **B benar:** XY adalah pasangan kromosom kelamin laki-laki — X dari ibu, Y dari ayah.
+  - **C salah:** YY tidak pernah terjadi secara alami karena ibu cuma bisa menyumbang kromosom X, bukan Y — jadi kombinasi YY mustahil dari pembuahan normal.
+  - **D salah:** XO adalah kelainan kromosom (Sindrom Turner) yang terjadi pada wanita, bukan kondisi normal laki-laki.
 
 - **Langkah Penyelesaian:**
   1. Hafal: pria XY, wanita XX.
@@ -2899,8 +2899,10 @@ D. Pubertas membawa perubahan fisik dan emosi
 - **Konsep yang diuji:** Pubertas ≠ dewasa total.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A, B, D.** Benar — pubertas universal, bervariasi, dan multidimensi.
-  - **C.** TIDAK BENAR — pubertas adalah pematangan fisik; kedewasaan mental butuh proses lebih panjang.
+  - **A salah:** Pernyataan ini BENAR (setiap anak memang pasti mengalami pubertas sebagai bagian alami pertumbuhan) — jadi bukan jawaban, karena soal minta yang TIDAK BENAR.
+  - **B salah:** Pernyataan ini juga BENAR (waktu pubertas memang bervariasi antar anak) — bukan jawaban.
+  - **C benar:** Pernyataan ini yang TIDAK BENAR — pubertas cuma pematangan fisik & hormonal, kedewasaan mental-emosional butuh proses belajar & pengalaman yang jauh lebih panjang, tidak otomatis terjadi begitu saja.
+  - **D salah:** Pernyataan ini juga BENAR (pubertas memang membawa perubahan fisik sekaligus emosi) — bukan jawaban.
 
 - **Langkah Penyelesaian:**
   1. Cari pernyataan SALAH.

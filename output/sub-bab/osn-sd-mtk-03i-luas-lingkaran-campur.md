@@ -103,6 +103,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 44 = 2 × 22 = keliling lingkaran (K = 2πr = 2 × 22/7 × 7 = 44 cm). Salah memilih rumus.
 - **C** — Salah. 49 = r² saja, lupa dikalikan π. Hanya kuadrat jari-jari.
 - **D** — Benar. L = π × r² = 22/7 × 7 × 7 = 22 × 7 = 154 cm². Pakai 22/7 karena r = 7 (habis dibagi 7).
+- **Konsep kunci:** Luas lingkaran = π × r²; pilih π = 22/7 karena r habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Tentukan π = 22/7 karena r = 7 habis dibagi 7.
+  2. Kuadratkan r: 7 × 7 = 49.
+  3. Kalikan π × r² = 22/7 × 49 = 154 cm².
 
 ---
 
@@ -117,6 +122,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = π × r² = 3,14 × 10 × 10 = 3,14 × 100 = 314 cm².
 - **C** — Salah. 62,8 = 2 × π × r = keliling lingkaran. Salah rumus.
 - **D** — Salah. 100 = r² saja, lupa dikalikan π.
+- **Konsep kunci:** Luas lingkaran = π × r²; pilih π = 3,14 karena r tidak habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Tentukan π = 3,14 karena r = 10 tidak habis dibagi 7.
+  2. Kuadratkan r: 10 × 10 = 100.
+  3. Kalikan π × r² = 3,14 × 100 = 314 cm².
 
 ---
 
@@ -131,6 +141,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 88 = 2 × 44 atau π × d = 22/7 × 14 × 2? Asal. Bukan luas.
 - **C** — Salah. 196 = d² (14 × 14), lupa dibagi 4 dan dikalikan π.
 - **D** — Benar. r = d/2 = 14/2 = 7. L = 22/7 × 7 × 7 = 154 cm².
+- **Konsep kunci:** Jika yang diketahui diameter, cari r = d/2 dulu sebelum memakai rumus luas.
+- **Langkah Penyelesaian:**
+  1. Hitung r = d/2 = 14/2 = 7 cm.
+  2. Kuadratkan r: 7 × 7 = 49.
+  3. L = 22/7 × 49 = 154 cm².
 
 ---
 
@@ -145,6 +160,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 88 = 2 × π × r = keliling (K = 2 × 22/7 × 14 = 88). Salah rumus.
 - **C** — Salah. 196 = r² saja, lupa π.
 - **D** — Salah. 44 = π × r = 22/7 × 14 (lupa kuadratkan). Setengah keliling.
+- **Konsep kunci:** Luas lingkaran = π × r²; sederhanakan r² dengan 7 sebelum dikali 22.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 14 × 14 = 196.
+  2. Sederhanakan 196 ÷ 7 = 28.
+  3. L = 22 × 28 = 616 cm².
 
 ---
 
@@ -159,6 +179,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 62,8 = π × d = keliling. Salah rumus.
 - **C** — Benar. r = d/2 = 10. L = 3,14 × 10 × 10 = 314 cm².
 - **D** — Salah. 628 = 2 × 314 atau π × d × 10. Hasil ngarang.
+- **Konsep kunci:** Ubah diameter ke jari-jari (r = d/2) dulu, baru gunakan L = π × r².
+- **Langkah Penyelesaian:**
+  1. r = d/2 = 20/2 = 10 cm.
+  2. Kuadratkan r: 10 × 10 = 100.
+  3. L = 3,14 × 100 = 314 cm².
 
 ---
 
@@ -173,6 +198,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 154 = luas lingkaran r = 7, lupa pakai d/2 = 14.
 - **C** — Benar. r = 28/2 = 14. L = 22/7 × 14 × 14 = 22 × 28 = 616 cm².
 - **D** — Salah. 2.464 = pakai d sebagai r (22/7 × 28²). Jebakan diameter dikira radius.
+- **Konsep kunci:** Soal cerita luas lingkaran tetap memakai r = d/2 sebelum substitusi rumus.
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Kuadratkan lalu sederhanakan: 14² = 196, 196 ÷ 7 = 28.
+  3. L = 22 × 28 = 616 cm².
 
 ---
 
@@ -187,6 +217,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 441 = r² saja, lupa π.
 - **C** — Salah. 66 = π × r = 22/7 × 21 (lupa kuadratkan).
 - **D** — Salah. 132 = K = 2 × 22/7 × 21 = keliling. Salah rumus.
+- **Konsep kunci:** Luas lingkaran = π × r²; sederhanakan r² dengan 7 sebelum dikali 22.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 21 × 21 = 441.
+  2. Sederhanakan 441 ÷ 7 = 63.
+  3. L = 22 × 63 = 1.386 cm².
 
 ---
 
@@ -201,6 +236,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 22 = π × r = 22/7 × 7 (pakai d sebagai r dan lupa kuadrat).
 - **C** — Salah. 154 = luas dengan r = 7, padahal yang diberikan d = 7.
 - **D** — Salah. 49 = d² saja, lupa π dan lupa bagi 4.
+- **Konsep kunci:** Jika d tidak habis dibagi 2 dengan bulat, r boleh berupa desimal, rumus luas tetap sama.
+- **Langkah Penyelesaian:**
+  1. r = d/2 = 7/2 = 3,5 cm.
+  2. Kuadratkan r: 3,5 × 3,5 = 12,25.
+  3. L = 22/7 × 12,25 = 38,5 cm².
 
 ---
 
@@ -215,6 +255,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 3,14 × 5 × 5 = 3,14 × 25 = 78,5 cm².
 - **C** — Salah. 15,7 = π × r = 3,14 × 5 (lupa kuadratkan). Setengah keliling.
 - **D** — Salah. 25 = r² saja, lupa π.
+- **Konsep kunci:** Luas lingkaran = π × r² dengan π = 3,14 untuk radius yang tidak habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 5 × 5 = 25.
+  2. L = 3,14 × 25 = 78,5 cm².
 
 ---
 
@@ -229,6 +273,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = ½ × 22/7 × 14 × 14 = ½ × 616 = 308 cm².
 - **C** — Salah. 154 = luas lingkaran utuh dengan r = 7. Salah radius.
 - **D** — Salah. 1.232 = 2 × 616 (malah dikali 2, padahal setengah dibagi 2).
+- **Konsep kunci:** Luas setengah lingkaran = ½ × luas lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung luas lingkaran penuh: 22/7 × 14² = 616 cm².
+  2. Kalikan ½: ½ × 616 = 308 cm².
 
 ---
 
@@ -243,6 +291,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 77 = ½ × 154 = perempat-perempatnya (dibagi 8). Terlalu kecil.
 - **C** — Salah. 308 = setengah lingkaran (dibagi 2). Lupa dibagi 4.
 - **D** — Benar. L = ¼ × 22/7 × 14 × 14 = ¼ × 616 = 154 cm².
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung luas penuh: 22/7 × 14² = 616 cm².
+  2. Kalikan ¼: ¼ × 616 = 154 cm².
 
 ---
 
@@ -257,6 +309,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 1.225 = r² saja, lupa π.
 - **C** — Salah. 220 = 2πr = keliling. Salah rumus.
 - **D** — Salah. 110 = π × r = 22/7 × 35 (lupa kuadratkan). Setengah keliling.
+- **Konsep kunci:** Luas lingkaran = π × r²; sederhanakan r² dengan 7 lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 35 × 35 = 1.225.
+  2. Sederhanakan 1.225 ÷ 7 = 175.
+  3. L = 22 × 175 = 3.850 cm².
 
 ---
 
@@ -271,6 +328,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 3,14 × 12 × 12 = 3,14 × 144 = 452,16 cm².
 - **C** — Salah. 144 = r² saja, lupa π.
 - **D** — Salah. 226,08 = ½ × 452,16 (setengah lingkaran). Lupa, ini lingkaran utuh.
+- **Konsep kunci:** Benda bundar sehari-hari (tutup panci) tetap memakai rumus L = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 12 × 12 = 144.
+  2. L = 3,14 × 144 = 452,16 cm².
 
 ---
 
@@ -285,6 +346,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 176 = 2πr = keliling.
 - **C** — Salah. 784 = r² saja.
 - **D** — Benar. L = 22/7 × 28 × 28 = 22 × 4 × 28 = 22 × 112 = 2.464 cm². (28 ÷ 7 = 4.)
+- **Konsep kunci:** Sederhanakan r² dengan 7 dulu sebelum dikalikan 22 agar hitungan ringan.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 28 × 28 = 784.
+  2. Sederhanakan 784 ÷ 7 = 112.
+  3. L = 22 × 112 = 2.464 cm².
 
 ---
 
@@ -299,6 +365,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 314 = pakai d sebagai r (3,14 × 10²). Jebakan diameter.
 - **C** — Benar. r = d/2 = 5. L = 3,14 × 5 × 5 = 78,5 cm².
 - **D** — Salah. 15,7 = π × r (lupa kuadrat). Setengah keliling.
+- **Konsep kunci:** Ubah diameter ke r = d/2 sebelum memakai L = π × r².
+- **Langkah Penyelesaian:**
+  1. r = 10/2 = 5 cm.
+  2. Kuadratkan r: 5 × 5 = 25.
+  3. L = 3,14 × 25 = 78,5 cm².
 
 ---
 
@@ -313,6 +384,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 22/7 × 21 × 21 = 22 × 3 × 21 = 22 × 63 = 1.386 cm².
 - **C** — Salah. 441 = r² saja.
 - **D** — Salah. 693 = ½ × 1.386 (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Benda bundar sehari-hari (jam dinding) tetap dihitung dengan L = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 21 × 21 = 441.
+  2. Sederhanakan 441 ÷ 7 = 63.
+  3. L = 22 × 63 = 1.386 cm².
 
 ---
 
@@ -327,6 +403,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 37,68 = 2πr = keliling.
 - **C** — Salah. 36 = r² saja.
 - **D** — Benar. L = 3,14 × 6 × 6 = 3,14 × 36 = 113,04 cm².
+- **Konsep kunci:** Luas lingkaran = π × r² untuk r yang tidak habis dibagi 7 memakai π = 3,14.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 6 × 6 = 36.
+  2. L = 3,14 × 36 = 113,04 cm².
 
 ---
 
@@ -341,6 +421,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 154 = lingkaran utuh (r = 7), lupa dibagi 2.
 - **C** — Salah. 308 = setengah lingkaran r = 14 (pakai d sebagai r). Jebakan.
 - **D** — Benar. r = 14/2 = 7. L = ½ × 22/7 × 7 × 7 = ½ × 154 = 77 cm².
+- **Konsep kunci:** Untuk setengah lingkaran, ubah dulu d ke r baru kalikan ½ pada luas penuh.
+- **Langkah Penyelesaian:**
+  1. r = d/2 = 14/2 = 7 cm.
+  2. Luas penuh = 22/7 × 49 = 154 cm².
+  3. Setengah = ½ × 154 = 77 cm².
 
 ---
 
@@ -355,6 +440,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 2.401 = r² saja.
 - **C** — Benar. L = 22/7 × 49 × 49 = 22 × 7 × 49 = 22 × 343 = 7.546 cm². (49 ÷ 7 = 7.)
 - **D** — Salah. 154 = π × r (lupa kuadrat). Bukan luas.
+- **Konsep kunci:** Sederhanakan r² dengan 7 karena r = 49 = 7 × 7.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 49 × 49 = 2.401.
+  2. Sederhanakan 2.401 ÷ 7 = 343.
+  3. L = 22 × 343 = 7.546 cm².
 
 ---
 
@@ -369,6 +459,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 6,28 = 2πr = keliling.
 - **C** — Benar. L = 3,14 × 2 × 2 = 3,14 × 4 = 12,56 cm².
 - **D** — Salah. 25,12 = 2 × luas (kemungkinan salah ditambah keliling). Asal.
+- **Konsep kunci:** Benda kecil sekalipun tetap dihitung dengan L = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 2 × 2 = 4.
+  2. L = 3,14 × 4 = 12,56 cm².
 
 ---
 
@@ -383,6 +477,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. r = 42/2 = 21. L = 22/7 × 21 × 21 = 1.386 cm².
 - **C** — Salah. 5.544 = pakai d sebagai r (22/7 × 42²). Jebakan diameter.
 - **D** — Salah. 693 = ½ × 1.386 (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Ubah diameter ke r = d/2 dulu, baru substitusi ke L = π × r².
+- **Langkah Penyelesaian:**
+  1. r = 42/2 = 21 cm.
+  2. Kuadratkan lalu sederhanakan: 21² = 441, 441 ÷ 7 = 63.
+  3. L = 22 × 63 = 1.386 cm².
 
 ---
 
@@ -397,6 +496,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 3,14 × 9 × 9 = 3,14 × 81 = 254,34 cm².
 - **C** — Salah. 81 = r² saja.
 - **D** — Salah. 28,26 = π × r (lupa kuadrat).
+- **Konsep kunci:** Luas lingkaran = π × r² dengan π = 3,14 karena 9 tidak habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 9 × 9 = 81.
+  2. L = 3,14 × 81 = 254,34 cm².
 
 ---
 
@@ -411,6 +514,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = ¼ × 22/7 × 28 × 28 = ¼ × 2.464 = 616 cm².
 - **C** — Salah. 154 = perempat dari r = 14, salah radius.
 - **D** — Salah. 308 = ⅛ × lingkaran utuh (2.464/8). Salah pembagi.
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 28² = 2.464 cm².
+  2. Kalikan ¼: ¼ × 2.464 = 616 cm².
 
 ---
 
@@ -425,6 +532,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 625 = r² saja.
 - **C** — Benar. L = 3,14 × 25 × 25 = 3,14 × 625 = 1.962,5 cm².
 - **D** — Salah. 78,5 = luas r = 5 (salah radius — kelirunya r = 25 dibagi 5).
+- **Konsep kunci:** Luas lingkaran = π × r² dengan π = 3,14.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 25 × 25 = 625.
+  2. L = 3,14 × 625 = 1.962,5 cm².
 
 ---
 
@@ -439,6 +550,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 1.225 = r² saja (35²).
 - **C** — Salah. 15.400 = pakai d sebagai r (22/7 × 70²). Jebakan diameter.
 - **D** — Benar. r = 70/2 = 35. L = 22/7 × 35 × 35 = 22 × 5 × 35 = 22 × 175 = 3.850 cm².
+- **Konsep kunci:** Ubah diameter ke r = d/2 dulu sebelum substitusi rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 70/2 = 35 cm.
+  2. Kuadratkan lalu sederhanakan: 35² = 1.225, 1.225 ÷ 7 = 175.
+  3. L = 22 × 175 = 3.850 cm².
 
 ---
 
@@ -453,6 +569,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 16 = r² saja.
 - **C** — Benar. L = 3,14 × 4 × 4 = 3,14 × 16 = 50,24 cm².
 - **D** — Salah. 12,56 = π × r = 3,14 × 4 (lupa kuadrat) atau luas r = 2.
+- **Konsep kunci:** Luas lingkaran = π × r² berlaku juga untuk radius kecil.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 4 × 4 = 16.
+  2. L = 3,14 × 16 = 50,24 cm².
 
 ---
 
@@ -467,6 +587,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 22/7 × 56 × 56 = 22 × 8 × 56 = 22 × 448 = 9.856 cm². (56 ÷ 7 = 8.)
 - **C** — Salah. 3.136 = r² saja.
 - **D** — Salah. 4.928 = ½ × luas (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Sederhanakan r²/7 sebelum dikalikan 22.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 56 × 56 = 3.136.
+  2. Sederhanakan 3.136 ÷ 7 = 448.
+  3. L = 22 × 448 = 9.856 cm².
 
 ---
 
@@ -481,6 +606,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 1.764 = r² saja (42²).
 - **C** — Benar. r = 84/2 = 42. L = 22/7 × 42 × 42 = 22 × 6 × 42 = 22 × 252 = 5.544 cm².
 - **D** — Salah. 22.176 = pakai d sebagai r (22/7 × 84²). Jebakan diameter.
+- **Konsep kunci:** Ubah diameter meja ke jari-jari dulu, baru hitung luasnya.
+- **Langkah Penyelesaian:**
+  1. r = 84/2 = 42 cm.
+  2. Kuadratkan lalu sederhanakan: 42² = 1.764, 1.764 ÷ 7 = 252.
+  3. L = 22 × 252 = 5.544 cm².
 
 ---
 
@@ -495,6 +625,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 154 = lingkaran utuh, lupa dibagi 2.
 - **C** — Salah. 38,5 = ¼ lingkaran (salah pembagi).
 - **D** — Benar. L = ½ × 22/7 × 7 × 7 = ½ × 154 = 77 cm².
+- **Konsep kunci:** Setengah lingkaran = ½ × π × r².
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 49 = 154 cm².
+  2. Setengah = ½ × 154 = 77 cm².
 
 ---
 
@@ -509,6 +643,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 900 = r² saja.
 - **C** — Benar. L = 3,14 × 30 × 30 = 3,14 × 900 = 2.826 cm².
 - **D** — Salah. 1.413 = ½ × 2.826 (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Luas lingkaran = π × r² dengan π = 3,14.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 30 × 30 = 900.
+  2. L = 3,14 × 900 = 2.826 cm².
 
 ---
 
@@ -523,6 +661,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 196 = r² saja (14²).
 - **C** — Salah. 308 = ½ lingkaran utuh. Lupa utuh.
 - **D** — Benar. r = 28/2 = 14. L = 22/7 × 14 × 14 = 22 × 28 = 616 cm².
+- **Konsep kunci:** r = d/2 dulu sebelum disubstitusi ke rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Kuadratkan lalu sederhanakan: 14² = 196, 196 ÷ 7 = 28.
+  3. L = 22 × 28 = 616 cm².
 
 ---
 
@@ -537,6 +680,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 2.500 = r² saja.
 - **C** — Benar. L = 3,14 × 50 × 50 = 3,14 × 2.500 = 7.850 cm².
 - **D** — Salah. 1.570 = π × r × 10? Asal. Bukan luas.
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 50 × 50 = 2.500.
+  2. L = 3,14 × 2.500 = 7.850 cm².
 
 ---
 
@@ -551,6 +698,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 693 = ½ lingkaran (salah pembagi).
 - **C** — Salah. 1.386 = lingkaran utuh.
 - **D** — Benar. L = ¼ × 22/7 × 21 × 21 = ¼ × 1.386 = 346,5 cm².
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 21² = 1.386 cm².
+  2. Kalikan ¼: ¼ × 1.386 = 346,5 cm².
 
 ---
 
@@ -565,6 +716,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = π × r² → 154 = 22/7 × r² → r² = 154 × 7/22 = 1.078/22 = 49 → r = 7 cm.
 - **C** — Salah. 11 = π × r kira-kira, bukan akar dari r². Sembarang.
 - **D** — Salah. 49 = r², lupa diakar.
+- **Konsep kunci:** Untuk mencari r dari L, bagi L dengan π lalu akarkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. r² = L ÷ π = 154 ÷ (22/7) = 154 × 7/22 = 49.
+  2. r = √49 = 7 cm.
 
 ---
 
@@ -579,6 +734,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 4,41 = r² saja.
 - **C** — Salah. 27,72 = 2 × luas (salah, lingkaran utuh tidak dikali 2).
 - **D** — Benar. r = 4,2/2 = 2,1 m. L = 22/7 × 2,1 × 2,1 = 22/7 × 4,41 = 22 × 0,63 = 13,86 m². (4,41 ÷ 7 = 0,63.)
+- **Konsep kunci:** r = d/2 berlaku juga untuk ukuran desimal.
+- **Langkah Penyelesaian:**
+  1. r = 4,2/2 = 2,1 m.
+  2. Kuadratkan lalu sederhanakan: 2,1² = 4,41, 4,41 ÷ 7 = 0,63.
+  3. L = 22 × 0,63 = 13,86 m².
 
 ---
 
@@ -593,6 +753,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 64 = r² saja.
 - **C** — Benar. L = 3,14 × 8 × 8 = 3,14 × 64 = 200,96 cm².
 - **D** — Salah. 100,48 = ½ × luas (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 8 × 8 = 64.
+  2. L = 3,14 × 64 = 200,96 cm².
 
 ---
 
@@ -607,6 +771,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 66 = π × d = keliling.
 - **C** — Salah. 441 = d² saja (21²).
 - **D** — Salah. 1.386 = pakai d sebagai r (22/7 × 21²). Jebakan diameter.
+- **Konsep kunci:** r = d/2, boleh berupa bilangan desimal.
+- **Langkah Penyelesaian:**
+  1. r = 21/2 = 10,5 cm.
+  2. Kuadratkan r: 10,5 × 10,5 = 110,25.
+  3. L = 22/7 × 110,25 = 346,5 cm².
 
 ---
 
@@ -621,6 +790,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 225 = r² saja.
 - **C** — Benar. L = 3,14 × 15 × 15 = 3,14 × 225 = 706,5 cm².
 - **D** — Salah. 353,25 = ½ × luas (setengah). Lupa utuh.
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 15 × 15 = 225.
+  2. L = 3,14 × 225 = 706,5 cm².
 
 ---
 
@@ -635,6 +808,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 616 = lingkaran utuh r = 14. Lupa dibagi 2.
 - **C** — Benar. r = 28/2 = 14. L = ½ × 22/7 × 14 × 14 = ½ × 616 = 308 cm².
 - **D** — Salah. 88 = keliling.
+- **Konsep kunci:** Ubah d ke r dulu, baru kalikan ½ pada luas penuh.
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Luas penuh = 22/7 × 196 = 616 cm².
+  3. Setengah = ½ × 616 = 308 cm².
 
 ---
 
@@ -649,6 +827,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. 314 = 3,14 × r² → r² = 100 → r = 10 cm.
 - **C** — Salah. 50 = r²/2, sembarang.
 - **D** — Salah. r = 5 menghasilkan L = 78,5, bukan 314.
+- **Konsep kunci:** Mencari r dari L: bagi dengan π, lalu akarkan.
+- **Langkah Penyelesaian:**
+  1. r² = 314 ÷ 3,14 = 100.
+  2. r = √100 = 10 cm.
 
 ---
 
@@ -663,6 +845,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 3.969 = r² saja.
 - **C** — Benar. L = 22/7 × 63 × 63 = 22 × 9 × 63 = 22 × 567 = 12.474 cm². (63 ÷ 7 = 9.)
 - **D** — Salah. 6.237 = ½ × luas. Lupa utuh.
+- **Konsep kunci:** Sederhanakan r²/7 sebelum dikali 22.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 63 × 63 = 3.969.
+  2. Sederhanakan 3.969 ÷ 7 = 567.
+  3. L = 22 × 567 = 12.474 cm².
 
 ---
 
@@ -677,6 +864,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. r = 14/2 = 7. L = 22/7 × 7 × 7 = 154 m².
 - **C** — Salah. 196 = d² saja.
 - **D** — Salah. 616 = pakai d sebagai r (22/7 × 14²). Jebakan diameter.
+- **Konsep kunci:** Ubah diameter kolam ke jari-jari sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. r = 14/2 = 7 m.
+  2. Kuadratkan r: 7 × 7 = 49.
+  3. L = 22/7 × 49 = 154 m².
 
 ---
 
@@ -691,6 +883,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 9 = r² saja.
 - **C** — Benar. L = 3,14 × 3 × 3 = 3,14 × 9 = 28,26 cm².
 - **D** — Salah. 12,56 = luas r = 2 (salah radius).
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 3 × 3 = 9.
+  2. L = 3,14 × 9 = 28,26 cm².
 
 ---
 
@@ -705,6 +901,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 308 = ½ lingkaran (salah pembagi).
 - **C** — Salah. 22 = π × r/2. Asal.
 - **D** — Benar. L = ¼ × 22/7 × 14 × 14 = ¼ × 616 = 154 m².
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 14² = 616 m².
+  2. Kalikan ¼: ¼ × 616 = 154 m².
 
 ---
 
@@ -719,6 +919,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 1.225 = d² saja.
 - **C** — Salah. 3.850 = pakai d sebagai r (22/7 × 35²). Jebakan diameter.
 - **D** — Benar. r = 35/2 = 17,5. L = 22/7 × 17,5 × 17,5 = 22/7 × 306,25 = 22 × 43,75 = 962,5 cm².
+- **Konsep kunci:** r = d/2, boleh desimal, tetap pakai rumus L = π × r².
+- **Langkah Penyelesaian:**
+  1. r = 35/2 = 17,5 cm.
+  2. Kuadratkan r: 17,5 × 17,5 = 306,25.
+  3. L = 22/7 × 306,25 = 962,5 cm².
 
 ---
 
@@ -733,6 +938,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. L = 3,14 × 20 × 20 = 3,14 × 400 = 1.256 cm².
 - **C** — Salah. 400 = r² saja.
 - **D** — Salah. 628 = π × r × 10? Asal.
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 20 × 20 = 400.
+  2. L = 3,14 × 400 = 1.256 cm².
 
 ---
 
@@ -747,6 +956,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 78,5 = ¼ lingkaran (salah pembagi).
 - **C** — Benar. L = ½ × 3,14 × 10 × 10 = ½ × 314 = 157 cm².
 - **D** — Salah. 31,4 = keliling/2 atau π × r. Bukan luas.
+- **Konsep kunci:** Setengah lingkaran = ½ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 3,14 × 10² = 314 cm².
+  2. Setengah = ½ × 314 = 157 cm².
 
 ---
 
@@ -761,6 +974,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 121 = r² saja.
 - **C** — Benar. L = 22/7 × 11 × 11 = 22/7 × 121 = 2.662/7 = 380,28... cm² (≈ 380,28).
 - **D** — Salah. 190,14 = ½ × luas. Lupa utuh.
+- **Konsep kunci:** Luas lingkaran = π × r², hasil bisa berupa desimal jika r tidak habis dibagi 7.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 11 × 11 = 121.
+  2. L = 22/7 × 121 = 2.662/7 ≈ 380,28 cm².
 
 ---
 
@@ -775,6 +992,10 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Salah. 77 = ½ lingkaran (salah pembagi).
 - **C** — Salah. 19,25 = ⅛ × lingkaran (salah pembagi).
 - **D** — Benar. L = ¼ × 22/7 × 7 × 7 = ¼ × 154 = 38,5 cm².
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 49 = 154 cm².
+  2. Kalikan ¼: ¼ × 154 = 38,5 cm².
 
 ---
 
@@ -789,6 +1010,11 @@ Penerapan langsung rumus L = π × r², pemilihan π yang tepat, dan setengah/se
 - **B** — Benar. r = 56/2 = 28. L = 22/7 × 28 × 28 = 22 × 4 × 28 = 22 × 112 = 2.464 cm².
 - **C** — Salah. 9.856 = pakai d sebagai r (22/7 × 56²). Jebakan diameter.
 - **D** — Salah. 784 = d²/4? atau r². Salah substitusi.
+- **Konsep kunci:** r = d/2 sebelum disubstitusi ke rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 56/2 = 28 cm.
+  2. Kuadratkan lalu sederhanakan: 28² = 784, 784 ÷ 7 = 112.
+  3. L = 22 × 112 = 2.464 cm².
 
 ---
 
@@ -809,6 +1035,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 308 = ½ lingkaran (salah dengan 180°).
 - **C** — Salah. 77 = ⅛ × lingkaran (salah dengan 45°).
 - **D** — Benar. L = (90/360) × π × r² = ¼ × 22/7 × 14 × 14 = ¼ × 616 = 154 cm².
+- **Konsep kunci:** Luas juring = (sudut/360) × luas lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 14² = 616 cm².
+  2. Pecahan juring = 90/360 = ¼.
+  3. L juring = ¼ × 616 = 154 cm².
 
 ---
 
@@ -823,6 +1054,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 462 = ⅓ × lingkaran (salah dengan 120°, bukan 60°).
 - **C** — Salah. 1.386 = lingkaran utuh.
 - **D** — Benar. L = (60/360) × π × r² = ⅙ × 22/7 × 21 × 21 = ⅙ × 1.386 = 231 cm².
+- **Konsep kunci:** Luas juring = (sudut/360) × π × r².
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 21² = 1.386 cm².
+  2. Pecahan = 60/360 = ⅙.
+  3. L = ⅙ × 1.386 = 231 cm².
 
 ---
 
@@ -837,6 +1073,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 616 = ¼ × 2.464 (salah dengan 90°).
 - **C** — Benar. L = (45/360) × 22/7 × 28 × 28 = ⅛ × 2.464 = 308 cm².
 - **D** — Salah. 77 = ½ × ¼ × 616, ngarang.
+- **Konsep kunci:** Luas juring = (sudut/360) × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 28² = 2.464 cm².
+  2. Pecahan = 45/360 = ⅛.
+  3. L = ⅛ × 2.464 = 308 cm².
 
 ---
 
@@ -851,6 +1092,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 77 = ½ × 154 (salah dengan 180°).
 - **C** — Salah. 154 = lingkaran utuh.
 - **D** — Benar. L = (120/360) × 22/7 × 7 × 7 = ⅓ × 154 = 51,33 cm² (≈ 154/3).
+- **Konsep kunci:** Luas juring = (sudut/360) × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 49 = 154 cm².
+  2. Pecahan = 120/360 = ⅓.
+  3. L = ⅓ × 154 ≈ 51,33 cm².
 
 ---
 
@@ -865,6 +1111,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 616 = luas lingkaran luar saja, lupa kurangi lingkaran dalam.
 - **C** — Salah. 154 = luas lingkaran dalam saja.
 - **D** — Benar. L = π(R² − r²) = 22/7 × (196 − 49) = 22/7 × 147 = 22 × 21 = 462 cm².
+- **Konsep kunci:** Luas cincin = π × (R² − r²), bukan sekadar mengurangi jari-jari.
+- **Langkah Penyelesaian:**
+  1. R² = 196, r² = 49.
+  2. Selisih = 196 − 49 = 147.
+  3. L = 22/7 × 147 = 462 cm².
 
 ---
 
@@ -879,6 +1130,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. L = π(R² − r²) = 3,14 × (100 − 36) = 3,14 × 64 = 200,96 cm².
 - **C** — Salah. 113,04 = lingkaran dalam saja.
 - **D** — Salah. 50,24 = 3,14 × 16 (R − r = 4, dikuadratkan 16). Salah rumus: (R−r)² ≠ R² − r².
+- **Konsep kunci:** Luas cincin = π × (R² − r²).
+- **Langkah Penyelesaian:**
+  1. R² = 100, r² = 36.
+  2. Selisih = 64.
+  3. L = 3,14 × 64 = 200,96 cm².
 
 ---
 
@@ -893,6 +1149,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. Cari r dulu: K = 2πr → 88 = 2 × 22/7 × r → r = 88 × 7 / 44 = 14. L = 22/7 × 14² = 616 m².
 - **C** — Salah. 308 = ½ × 616 (setengah lingkaran). Lupa utuh.
 - **D** — Salah. 1.232 = 2 × 616. Asal dikali 2.
+- **Konsep kunci:** Jika diketahui keliling, cari r dulu dari K = 2πr sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. r = K ÷ (2π) = 88 ÷ (44/7) = 88 × 7/44 = 14 cm.
+  2. L = 22/7 × 14² = 616 m².
 
 ---
 
@@ -907,6 +1167,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 38,5 = 616 ÷ 16. Membagi 16, bukan 8.
 - **C** — Salah. 154 = 616 ÷ 4. Salah jumlah potong.
 - **D** — Salah. 88 = keliling pizza, salah konsep total.
+- **Konsep kunci:** Luas per potong = luas lingkaran penuh ÷ jumlah potong (setara juring).
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Luas penuh = 22/7 × 14² = 616 cm².
+  3. Per potong = 616 ÷ 8 = 77 cm².
 
 ---
 
@@ -921,6 +1186,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. r = 21/2 = 10,5. L = ½ × 22/7 × 10,5² = ½ × 22/7 × 110,25 = ½ × 346,5 = 173,25 m².
 - **C** — Salah. 693 = ½ lingkaran r = 21 (pakai d sebagai r). Jebakan.
 - **D** — Salah. 1.386 = lingkaran utuh r = 21. Salah ganda.
+- **Konsep kunci:** Setengah lingkaran = ½ × luas penuh, r = d/2 dulu.
+- **Langkah Penyelesaian:**
+  1. r = 21/2 = 10,5 m.
+  2. Luas penuh = 22/7 × 110,25 = 346,5 m².
+  3. Setengah = ½ × 346,5 = 173,25 m².
 
 ---
 
@@ -935,6 +1205,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. r = 7 → L = 154, terlalu kecil.
 - **C** — Benar. 616 = 22/7 × r² → r² = 616 × 7/22 = 4.312/22 = 196 → r = √196 = 14 cm.
 - **D** — Salah. 196 = r², lupa diakar.
+- **Konsep kunci:** Cari r dari L: bagi dengan π, lalu akarkan.
+- **Langkah Penyelesaian:**
+  1. r² = 616 ÷ (22/7) = 616 × 7/22 = 196.
+  2. r = √196 = 14 cm.
 
 ---
 
@@ -949,6 +1223,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. L = ¼ × 22/7 × 28² = ¼ × 2.464 = 616 m².
 - **C** — Salah. 154 = 1/16 × lingkaran. Salah pembagi.
 - **D** — Salah. 1.232 = ½ lingkaran. Salah pembagi.
+- **Konsep kunci:** Luas seperempat lingkaran = ¼ × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 28² = 2.464 m².
+  2. Kalikan ¼: ¼ × 2.464 = 616 m².
 
 ---
 
@@ -963,6 +1241,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 616 = luas lingkaran luar saja.
 - **C** — Salah. 154 = luas lingkaran kecil saja.
 - **D** — Benar. R = 14, r = 7. L = π(R² − r²) = 22/7 × (196 − 49) = 22/7 × 147 = 462 cm².
+- **Konsep kunci:** Ubah diameter ke jari-jari dulu, baru pakai L = π(R² − r²).
+- **Langkah Penyelesaian:**
+  1. R = 28/2 = 14, r = 14/2 = 7.
+  2. R² − r² = 196 − 49 = 147.
+  3. L = 22/7 × 147 = 462 cm².
 
 ---
 
@@ -977,6 +1260,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 25,67 = 1/24 × lingkaran (salah dengan 15°).
 - **C** — Salah. 77 = ⅛ × lingkaran (salah dengan 45°).
 - **D** — Salah. 154 = ¼ × lingkaran (salah dengan 90°).
+- **Konsep kunci:** Luas juring = (sudut/360) × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 14² = 616 cm².
+  2. Pecahan = 30/360 = 1/12.
+  3. L = 616 ÷ 12 ≈ 51,33 cm².
 
 ---
 
@@ -991,6 +1279,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 256 = r² saja.
 - **C** — Benar. L = 3,14 × 16² = 3,14 × 256 = 803,84 cm².
 - **D** — Salah. 401,92 = ½ × luas (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan r: 16 × 16 = 256.
+  2. L = 3,14 × 256 = 803,84 cm².
 
 ---
 
@@ -1005,6 +1297,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 154 = lingkaran kolam saja, lupa konsep cincin.
 - **C** — Benar. R = 7 + 1 = 8, r = 7. L = π(R² − r²) = 22/7 × (64 − 49) = 22/7 × 15 = 330/7 = 47,14 m² (≈ 47,14).
 - **D** — Salah. 22 = π × (R−r). Salah rumus.
+- **Konsep kunci:** Jalan setapak melingkar berbentuk cincin: R = r kolam + lebar jalan.
+- **Langkah Penyelesaian:**
+  1. R = 7 + 1 = 8 m, r = 7 m.
+  2. R² − r² = 64 − 49 = 15.
+  3. L = 22/7 × 15 ≈ 47,14 m².
 
 ---
 
@@ -1019,6 +1316,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 400 = r², lupa diakar.
 - **C** — Benar. 1.256 = 3,14 × r² → r² = 400 → r = √400 = 20 cm.
 - **D** — Salah. r = 40 → L = 5.024. Terlalu besar.
+- **Konsep kunci:** Cari r dari L: bagi dengan π, lalu akarkan.
+- **Langkah Penyelesaian:**
+  1. r² = 1.256 ÷ 3,14 = 400.
+  2. r = √400 = 20 cm.
 
 ---
 
@@ -1033,6 +1334,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 308 = luas ÷ 2 (asal bagi). Tidak ada konsep ini.
 - **C** — Benar. L = 22/7 × 14² = 616 m². Bibit = 616 × 5 = 3.080.
 - **D** — Salah. 1.540 = 308 × 5 (luas separuh kali 5). Salah luas.
+- **Konsep kunci:** Hitung luas dulu, baru kalikan dengan kebutuhan per satuan luas.
+- **Langkah Penyelesaian:**
+  1. L = 22/7 × 14² = 616 m².
+  2. Bibit = 616 × 5 = 3.080 bibit.
 
 ---
 
@@ -1047,6 +1352,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 154 = luas r = 7 (salah radius).
 - **C** — Salah. 196 = d² (28²/4 = 196), lupa π.
 - **D** — Benar. r = 14. L = 22/7 × 14² = 616 cm².
+- **Konsep kunci:** r = d/2 sebelum disubstitusi ke rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Kuadratkan lalu sederhanakan: 14² = 196, 196 ÷ 7 = 28.
+  3. L = 22 × 28 = 616 cm².
 
 ---
 
@@ -1061,6 +1371,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 308 = ½ × 616 (salah dengan 180°).
 - **C** — Salah. 616 = lingkaran utuh (360°).
 - **D** — Benar. L = (270/360) × 22/7 × 14² = ¾ × 616 = 462 cm².
+- **Konsep kunci:** Luas juring = (sudut/360) × luas penuh, tetap berlaku untuk sudut lebih dari 180°.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 14² = 616 cm².
+  2. Pecahan = 270/360 = ¾.
+  3. L = ¾ × 616 = 462 cm².
 
 ---
 
@@ -1075,6 +1390,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 1.386 = lingkaran luar saja.
 - **C** — Benar. L = π(R² − r²) = 22/7 × (441 − 196) = 22/7 × 245 = 22 × 35 = 770 cm².
 - **D** — Salah. 154 = π × (R − r)² = 22/7 × 49 = 154. Salah rumus (R−r)² ≠ R² − r².
+- **Konsep kunci:** Luas cincin = π(R² − r²), bukan π(R − r)².
+- **Langkah Penyelesaian:**
+  1. R² = 441, r² = 196.
+  2. Selisih = 245.
+  3. L = 22/7 × 245 = 770 cm².
 
 ---
 
@@ -1089,6 +1409,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 11,304 = π × d = keliling.
 - **C** — Salah. 40,6944 = pakai d sebagai r (3,14 × 3,6²). Jebakan diameter.
 - **D** — Salah. 5,652 = ½ × luas. Lupa utuh.
+- **Konsep kunci:** r = d/2 juga berlaku untuk ukuran desimal kecil.
+- **Langkah Penyelesaian:**
+  1. r = 3,6/2 = 1,8 m.
+  2. Kuadratkan r: 1,8 × 1,8 = 3,24.
+  3. L = 3,14 × 3,24 = 10,1736 m².
 
 ---
 
@@ -1103,6 +1428,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 1.808,64 = pakai d sebagai r (3,14 × 24²). Jebakan diameter.
 - **C** — Benar. r = 12. L = 3,14 × 12² = 3,14 × 144 = 452,16 cm².
 - **D** — Salah. 144 = r² saja.
+- **Konsep kunci:** r = d/2 sebelum disubstitusi ke rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 24/2 = 12 cm.
+  2. Kuadratkan r: 12 × 12 = 144.
+  3. L = 3,14 × 144 = 452,16 cm².
 
 ---
 
@@ -1117,6 +1447,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 157 = ½ lingkaran (salah dengan 180°).
 - **C** — Salah. 314 = lingkaran utuh.
 - **D** — Salah. 39,25 = ⅛ × 314 (salah dengan 45°).
+- **Konsep kunci:** Luas juring = (sudut/360) × luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 3,14 × 10² = 314 cm².
+  2. Pecahan = 90/360 = ¼.
+  3. L = ¼ × 314 = 78,5 cm².
 
 ---
 
@@ -1131,6 +1466,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 616 = lingkaran dalam saja.
 - **C** — Salah. 1.386 = lingkaran luar saja.
 - **D** — Benar. L = π(R² − r²) = 22/7 × (441 − 196) = 22/7 × 245 = 770 cm².
+- **Konsep kunci:** Luas cincin = π(R² − r²), bukan π(R − r)².
+- **Langkah Penyelesaian:**
+  1. R² = 441, r² = 196.
+  2. Selisih = 245.
+  3. L = 22/7 × 245 = 770 cm².
 
 ---
 
@@ -1145,6 +1485,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. d = 1 m = 10 dm. r = 5 dm. L = 3,14 × 5² = 3,14 × 25 = 78,5 dm². (Atau: L = 3,14 × 0,5² = 0,785 m² × 100 = 78,5 dm².)
 - **C** — Salah. 0,785 = m², bukan dm².
 - **D** — Salah. 785 = salah konversi (× 1.000).
+- **Konsep kunci:** Samakan satuan panjang ke dm dulu sebelum menghitung luas.
+- **Langkah Penyelesaian:**
+  1. Ubah d = 1 m = 10 dm, r = 5 dm.
+  2. Kuadratkan r: 5 × 5 = 25.
+  3. L = 3,14 × 25 = 78,5 dm².
 
 ---
 
@@ -1159,6 +1504,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 770.000 = setengah biaya. Asal.
 - **C** — Salah. 1.925.000 = ½ × 3.850.000. Salah luas.
 - **D** — Salah. 7.700.000 = 2 × 3.850.000. Salah hitung.
+- **Konsep kunci:** Hitung luas dulu, lalu kalikan harga per satuan luas untuk mendapatkan biaya.
+- **Langkah Penyelesaian:**
+  1. L = 22/7 × 7² = 154 m².
+  2. Biaya = 154 × 25.000 = Rp3.850.000.
 
 ---
 
@@ -1173,6 +1522,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. Luas A = 154, Luas B = 616. 154 : 616 = 1 : 4. (Atau: r² → 49 : 196 = 1 : 4.)
 - **C** — Salah. Terbalik dan salah skala.
 - **D** — Salah. 1 : 8 = perbandingan volume bola (r³), bukan luas (r²).
+- **Konsep kunci:** Perbandingan luas dua lingkaran sebangun setara kuadrat perbandingan jari-jarinya.
+- **Langkah Penyelesaian:**
+  1. L A = 22/7 × 49 = 154, L B = 22/7 × 196 = 616.
+  2. Perbandingan = 154 : 616 = 1 : 4 (setara r²: 49 : 196).
 
 ---
 
@@ -1187,6 +1540,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Benar. r = 70/2 = 35. L = 22/7 × 35² = 3.850 cm².
 - **C** — Salah. 15.400 = pakai d sebagai r (22/7 × 70²). Jebakan diameter.
 - **D** — Salah. 1.925 = ½ × 3.850. Lupa utuh.
+- **Konsep kunci:** r = d/2 sebelum disubstitusi ke rumus luas.
+- **Langkah Penyelesaian:**
+  1. r = 70/2 = 35 cm.
+  2. Kuadratkan lalu sederhanakan: 35² = 1.225, 1.225 ÷ 7 = 175.
+  3. L = 22 × 175 = 3.850 cm².
 
 ---
 
@@ -1201,6 +1559,10 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 5.544 = lingkaran utuh.
 - **C** — Salah. 2.772 = ½ lingkaran (salah pembagi).
 - **D** — Salah. 462 = 1/12 × lingkaran (salah pembagi).
+- **Konsep kunci:** Juring pecahan (⅙, ¼, dst.) langsung dikalikan ke luas penuh.
+- **Langkah Penyelesaian:**
+  1. Luas penuh = 22/7 × 42² = 5.544 cm².
+  2. ⅙ × 5.544 = 924 cm².
 
 ---
 
@@ -1215,6 +1577,11 @@ Aplikasi 2–4 langkah: juring, cincin, kombinasi luas, soal cerita kontekstual,
 - **B** — Salah. 38,5 = luas kolam saja.
 - **C** — Salah. 192,5 = luas taman + luas kolam (dijumlah, bukan dikurangi).
 - **D** — Benar. R = 7, r = 3,5. L = π(R² − r²) = 22/7 × (49 − 12,25) = 22/7 × 36,75 = 22 × 5,25 = 115,5 m².
+- **Konsep kunci:** Luas bagian taman bukan kolam = luas cincin = π(R² − r²).
+- **Langkah Penyelesaian:**
+  1. R = 14/2 = 7 m, r = 7/2 = 3,5 m.
+  2. R² − r² = 49 − 12,25 = 36,75.
+  3. L = 22/7 × 36,75 = 115,5 m².
 
 ---
 
@@ -1235,6 +1602,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Benar. Lingkaran maksimum berdiameter = sisi persegi = 14, jadi r = 7. L persegi = 14² = 196. L lingkaran = 22/7 × 49 = 154. Sisa = 196 − 154 = 42 cm².
 - **C** — Salah. 154 = lingkaran saja.
 - **D** — Salah. 350 = 196 + 154 (dijumlah, bukan dikurang).
+- **Konsep kunci:** Luas daerah sisa = luas persegi dikurangi luas lingkaran di dalamnya.
+- **Langkah Penyelesaian:**
+  1. L persegi = 14² = 196 cm².
+  2. L lingkaran (r = 7) = 22/7 × 49 = 154 cm².
+  3. Sisa = 196 − 154 = 42 cm².
 
 ---
 
@@ -1249,6 +1621,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 308 = total dua lingkaran saja.
 - **C** — Salah. 392 = persegi panjang saja.
 - **D** — Salah. 154 = satu lingkaran saja.
+- **Konsep kunci:** Luas sisa = luas persegi panjang dikurangi total luas semua lingkaran di dalamnya.
+- **Langkah Penyelesaian:**
+  1. L persegi panjang = 28 × 14 = 392 cm².
+  2. Dua lingkaran (r = 7) = 2 × 154 = 308 cm².
+  3. Sisa = 392 − 308 = 84 cm².
 
 ---
 
@@ -1263,6 +1640,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Benar. L₁ = 154 (untuk r = 7). L₂ = 4 × 154 = 616 → r² = 616 × 7/22 = 196 → r = 14 cm. (Atau: L berbanding r², jadi r₂ = √4 × r₁ = 2 × 7 = 14.)
 - **C** — Salah. 21 = 3 × 7. Salah skala (perbandingan 9, bukan 4).
 - **D** — Salah. 49 = r², lupa diakar.
+- **Konsep kunci:** Jika luas menjadi n kali, jari-jari menjadi √n kali (luas sebanding r²).
+- **Langkah Penyelesaian:**
+  1. L1 = 22/7 × 49 = 154.
+  2. L2 = 4 × 154 = 616.
+  3. r2² = 616 × 7/22 = 196 → r2 = 14 cm.
 
 ---
 
@@ -1277,6 +1659,10 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 132 = keliling, salah konsep.
 - **C** — Salah. 154 = luas r = 7. Salah radius.
 - **D** — Salah. 693 = ½ × 1.386 (setengah lingkaran). Lupa utuh.
+- **Konsep kunci:** Dari keliling, cari r dulu (K = 2πr), baru hitung luas.
+- **Langkah Penyelesaian:**
+  1. r = K ÷ (2π) = 132 ÷ (44/7) = 132 × 7/44 = 21 cm.
+  2. L = 22/7 × 21² = 1.386 cm².
 
 ---
 
@@ -1291,6 +1677,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 140 = persegi panjang saja.
 - **C** — Salah. 77 = ½ lingkaran saja.
 - **D** — Salah. 294 = 140 + 154 (lingkaran utuh, bukan setengah).
+- **Konsep kunci:** Luas bangun gabungan = jumlah luas tiap bagian penyusunnya.
+- **Langkah Penyelesaian:**
+  1. L persegi panjang = 14 × 10 = 140 cm².
+  2. L ½ lingkaran (r = 7) = ½ × 154 = 77 cm².
+  3. Total = 140 + 77 = 217 cm².
 
 ---
 
@@ -1305,6 +1696,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 2.232 = 1.120 + 2 × 616 (memakai dua lingkaran utuh, padahal hanya 1).
 - **C** — Salah. 1.728 = 1.120 + 608. Hitung asal.
 - **D** — Benar. L persegi panjang = 40 × 28 = 1.120. Dua setengah lingkaran = satu lingkaran utuh r = 14: L = 22/7 × 14² = 616. Total = 1.120 + 616 = 1.736 m².
+- **Konsep kunci:** Dua setengah lingkaran identik di kedua ujung setara satu lingkaran utuh.
+- **Langkah Penyelesaian:**
+  1. L persegi panjang = 40 × 28 = 1.120 m².
+  2. Dua setengah lingkaran = satu lingkaran penuh r = 14: 22/7 × 196 = 616 m².
+  3. Total = 1.120 + 616 = 1.736 m².
 
 ---
 
@@ -1319,6 +1715,10 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 21 → L = 1.386. Terlalu kecil.
 - **C** — Salah. 1.764 = r², lupa diakar.
 - **D** — Salah. r = 84 → L = 22.176. Terlalu besar.
+- **Konsep kunci:** Cari r dari L: bagi dengan π, lalu akarkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. r² = 5.544 × 7/22 = 1.764.
+  2. r = √1.764 = 42 cm.
 
 ---
 
@@ -1333,6 +1733,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 12 → L = 22/7 × 144 = 452,57. Tidak cocok.
 - **C** — Salah. r = 10 → L = 22/7 × 100 = 314,29. Tidak cocok.
 - **D** — Salah. r = 5 → L = 22/7 × 25 = 78,57. Selisihnya 537, bukan 462.
+- **Konsep kunci:** Cari luas lingkaran besar dulu, kurangi selisih untuk dapat luas lingkaran kecil, baru cari jari-jarinya.
+- **Langkah Penyelesaian:**
+  1. L besar = 22/7 × 196 = 616 cm².
+  2. L kecil = 616 − 462 = 154 cm².
+  3. r² = 154 × 7/22 = 49 → r = 7 cm.
 
 ---
 
@@ -1347,6 +1752,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 154 = luas lantai dalam m², lupa konversi ke cm² dan bagi ubin.
 - **C** — Salah. 385 = 1.540.000 ÷ 4.000. Salah luas ubin (4.000, padahal 400).
 - **D** — Salah. 770 = ½ × 1.540. Asal.
+- **Konsep kunci:** Samakan satuan luas (m² ke cm²) dulu sebelum membagi dengan luas satu ubin.
+- **Langkah Penyelesaian:**
+  1. L lantai = 22/7 × 49 = 154 m² = 1.540.000 cm².
+  2. L ubin = 20 × 20 = 400 cm².
+  3. Banyak ubin = 1.540.000 ÷ 400 = 3.850.
 
 ---
 
@@ -1361,6 +1771,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 5 → L cincin = 22/7 × (441 − 25) = 22/7 × 416 = 1.307,43. Tidak cocok.
 - **C** — Salah. r = 28 lebih besar dari R = 21; mustahil (lingkaran dalam harus lebih kecil).
 - **D** — Benar. L = π(R² − r²) → 770 = 22/7 × (441 − r²) → 770 × 7/22 = 441 − r² → 245 = 441 − r² → r² = 196 → r = √196 = 14 cm.
+- **Konsep kunci:** Untuk mencari jari-jari dalam dari luas cincin, susun ulang L = π(R² − r²) menjadi r² = R² − (L ÷ π).
+- **Langkah Penyelesaian:**
+  1. L ÷ π = 770 ÷ (22/7) = 245.
+  2. r² = R² − 245 = 441 − 245 = 196.
+  3. r = √196 = 14 cm.
 
 ---
 
@@ -1375,6 +1790,10 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 88 = K untuk r = 14. Salah radius.
 - **C** — Salah. 784 = r². Salah konsep.
 - **D** — Salah. 352 = 2 × K. Asal.
+- **Konsep kunci:** Untuk mencari keliling dari luas, cari r dulu dari L = πr², baru hitung K = 2πr.
+- **Langkah Penyelesaian:**
+  1. r² = 2.464 × 7/22 = 784 → r = 28 cm.
+  2. K = 2 × 22/7 × 28 = 176 cm.
 
 ---
 
@@ -1389,6 +1808,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 196 = persegi saja.
 - **C** — Salah. 154 = lingkaran saja.
 - **D** — Salah. 504 = 196 + 308 (memakai setengah lingkaran besar, salah). Asal.
+- **Konsep kunci:** Empat seperempat lingkaran identik setara satu lingkaran utuh.
+- **Langkah Penyelesaian:**
+  1. L persegi = 14² = 196 cm².
+  2. Empat ¼ lingkaran = satu lingkaran penuh r = 7: 22/7 × 49 = 154 cm².
+  3. Total = 196 + 154 = 350 cm².
 
 ---
 
@@ -1403,6 +1827,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Benar. L kue = 22/7 × 14² = 616 cm². Per potong = 616 ÷ 12 = 51,33 cm² (atau juring 30°).
 - **C** — Salah. 154 = ¼ × 616 (salah dengan 4 potong).
 - **D** — Salah. 77 = ⅛ × 616 (salah dengan 8 potong).
+- **Konsep kunci:** Luas per potong kue = luas lingkaran penuh dibagi jumlah potongan.
+- **Langkah Penyelesaian:**
+  1. r = 28/2 = 14 cm.
+  2. Luas penuh = 22/7 × 196 = 616 cm².
+  3. Per potong = 616 ÷ 12 ≈ 51,33 cm².
 
 ---
 
@@ -1417,6 +1846,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 154 = satu lingkaran kecil saja.
 - **C** — Salah. 462 = 616 − 154 (hanya kurangi satu kecil).
 - **D** — Salah. 616 = lingkaran besar saja.
+- **Konsep kunci:** Luas sisa = luas lingkaran besar dikurangi total luas semua lingkaran kecil di dalamnya.
+- **Langkah Penyelesaian:**
+  1. L besar (r = 14) = 22/7 × 196 = 616 m².
+  2. Dua lingkaran kecil (r = 7) = 2 × 154 = 308 m².
+  3. Sisa = 616 − 308 = 308 m².
 
 ---
 
@@ -1431,6 +1865,10 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 12 → L = 3,14 × 144 = 452,16. Tidak cocok.
 - **C** — Salah. r = 8 → L = 3,14 × 64 = 200,96. Tidak cocok.
 - **D** — Salah. r = 16 → L = 803,84. Terlalu besar.
+- **Konsep kunci:** Cari r dari L dengan membalik rumus L = πr² (bagi π, lalu akarkan).
+- **Langkah Penyelesaian:**
+  1. r² = 314 ÷ 3,14 = 100.
+  2. r = √100 = 10 cm.
 
 ---
 
@@ -1445,6 +1883,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 39.200.000 = 784 × 50.000 (lupa kurangi kolam).
 - **C** — Salah. 7.700.000 = 154 × 50.000 (biaya kolam, bukan rumput).
 - **D** — Salah. 46.900.000 = (784 + 154) × 50.000. Dijumlah, bukan dikurang.
+- **Konsep kunci:** Luas area yang ditanami = luas persegi dikurangi luas kolam, baru dikalikan harga per m².
+- **Langkah Penyelesaian:**
+  1. L persegi = 28² = 784 m².
+  2. L kolam (r = 7) = 22/7 × 49 = 154 m².
+  3. Sisa = 784 − 154 = 630 m², Biaya = 630 × 50.000 = Rp31.500.000.
 
 ---
 
@@ -1459,6 +1902,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 10 → 22/7 × (196 − 100) = 22/7 × 96 = 301,71. Tidak cocok.
 - **C** — Salah. r = 5 → 22/7 × (196 − 25) = 22/7 × 171 = 537,43. Tidak cocok.
 - **D** — Salah. r = 12 → 22/7 × (196 − 144) = 22/7 × 52 = 163,43. Tidak cocok.
+- **Konsep kunci:** Membalik rumus L = π(R² − r²) menjadi r² = R² − (L ÷ π) untuk mencari jari-jari dalam.
+- **Langkah Penyelesaian:**
+  1. L ÷ π = 462 ÷ (22/7) = 147.
+  2. r² = R² − 147 = 196 − 147 = 49.
+  3. r = √49 = 7 cm.
 
 ---
 
@@ -1473,6 +1921,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. r = 1 → K = 2π = 44/7, L = π = 22/7. Tidak sama.
 - **C** — Salah. r = 7 → K = 44, L = 154. Tidak sama.
 - **D** — Salah. r = 22 → K = 44 × 22/7 ≈ 138,3, L = 22/7 × 484 ≈ 1.520. Tidak sama.
+- **Konsep kunci:** Menyamakan rumus keliling dan luas (2πr = πr²) menghasilkan persamaan sederhana untuk r.
+- **Langkah Penyelesaian:**
+  1. Samakan 2πr = πr² → 2r = r² (π dicoret).
+  2. r² − 2r = 0 → r(r − 2) = 0.
+  3. r = 0 (ditolak) atau r = 2 satuan.
 
 ---
 
@@ -1487,6 +1940,10 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Benar. L baru = π × (2R)² = π × 4R² = 4 × πR² = 4L.
 - **C** — Salah. ½ L = berkurang, padahal r digandakan.
 - **D** — Salah. 8 L = r³ (volume bola), bukan luas lingkaran.
+- **Konsep kunci:** Jika jari-jari digandakan, luas menjadi 2² = 4 kali luas semula (luas sebanding r²).
+- **Langkah Penyelesaian:**
+  1. L baru = π × (2R)² = π × 4R².
+  2. 4 × πR² = 4L.
 
 ---
 
@@ -1501,6 +1958,11 @@ Soal multi-langkah, gabungan beberapa bentuk, inverse-problem, perbandingan, dan
 - **B** — Salah. 22 = busur saja, lupa jari-jari.
 - **C** — Salah. 28 = dua jari-jari saja, lupa busur.
 - **D** — Salah. 44 = ½ keliling, bukan ¼.
+- **Konsep kunci:** Pagar juring terdiri dari panjang busur (bukan keliling penuh) ditambah dua jari-jari.
+- **Langkah Penyelesaian:**
+  1. Panjang busur = ¼ × keliling = ¼ × 2 × 22/7 × 14 = 22 m.
+  2. Dua jari-jari = 2 × 14 = 28 m.
+  3. Total pagar = 22 + 28 = 50 m.
 
 ---
 

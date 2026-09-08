@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders } from 'lucide-react';
 import Dashboard from './components/Dashboard';
 import PracticeArea from './components/PracticeArea';
@@ -19,6 +19,11 @@ import { LanguageToggle, useT } from './i18n';
 
 export default function App() {
   const t = useT();
+  // Playwright sets navigator.webdriver — skip the onboarding tour entirely for batch
+  // recording (scripts/record-videos.mjs) instead of racing it against the auto-record
+  // bootstrap effect below (child effects mount before parent effects, so the tour's own
+  // localStorage check can win and block the page before isCleanMode flips true).
+  const isHeadless = typeof navigator !== 'undefined' && navigator.webdriver === true;
   const [currentTab, setCurrentTab] = useState('dashboard');
   const [selectedSubBab, setSelectedSubBab] = useState(null);
   const [isCleanMode, setIsCleanMode] = useState(false);
@@ -132,11 +137,28 @@ export default function App() {
     setBulkAudioCtx(audioCtx);
   }, []);
 
+  // Headless batch capture entrypoint — see scripts/record-videos.mjs.
+  // ?record=<subBabId>&tier=<tier> jumps straight into auto-record mode,
+  // skipping the mode-selector modal so a browser-automation script can drive it.
+  const autoBootRef = useRef(false);
+  useEffect(() => {
+    if (autoBootRef.current) return;
+    const params = new URLSearchParams(window.location.search);
+    const autoId = params.get('record');
+    if (!autoId) return;
+    autoBootRef.current = true;
+    const tier = params.get('tier') || 'campur';
+    setSettings((s) => ({ ...s, tierPreference: tier }));
+    setSelectedSubBab(autoId);
+    setRecordingMode('auto-record');
+    setCurrentTab('practice');
+  }, [setSettings]);
+
   return (
     <div className="min-h-screen bg-mesh flex flex-col font-sans">
 
       <SplashScreen durationMs={1800} />
-      {!isCleanMode && <OnboardingTour forceOpen={forceTourOpen} onClose={() => setForceTourOpen(false)} />}
+      {!isCleanMode && !isHeadless && <OnboardingTour forceOpen={forceTourOpen} onClose={() => setForceTourOpen(false)} />}
       {!isCleanMode && <ShortcutHelp />}
       {!isCleanMode && <PomodoroTimer />}
       <SettingsPanel

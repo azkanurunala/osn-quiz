@@ -220,6 +220,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Hanya menghitung luas setengah lingkaran, lupa persegi.
 - **D salah** — Memakai lingkaran utuh (π × r² = 50,24) lalu ditambah persegi 64 = 114,24. Salah karena yang ditempel hanya setengah lingkaran.
 
+- **Konsep kunci:** Luas bangun gabungan = jumlah luas persegi dan luas setengah lingkaran yang menempel padanya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas persegi: 8 × 8 = 64 cm².
+  2. Hitung luas setengah lingkaran r = 4 cm: ½ × 3,14 × 4² = 25,12 cm².
+  3. Jumlahkan kedua bagian: 64 + 25,12 = 89,12 cm².
+
 ---
 
 **2.** Sebuah ruangan berbentuk persegi panjang 10 m × 6 m disambung sebuah persegi 4 m × 4 m di sisi kanan. Luas total ruangan adalah ....
@@ -235,6 +241,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya menghitung persegi, lupa persegi panjang.
 - **C benar** — Bagian 1 = 10 × 6 = 60 m². Bagian 2 = 4 × 4 = 16 m². Total = 60 + 16 = **76 m²**.
 - **D salah** — Mengira ruangan menjadi persegi panjang besar 12 × 8 (salah pembungkus), padahal 4 m hanya disambung sebagian.
+
+- **Konsep kunci:** Luas gabungan dua bangun yang disambung = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 10 × 6 = 60 m².
+  2. Luas persegi = 4 × 4 = 16 m².
+  3. Jumlahkan: 60 + 16 = 76 m².
 
 ---
 
@@ -252,6 +264,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang = 12 × 8 = 96 cm². Segitiga = ½ × 12 × 5 = 30 cm². Total = 96 + 30 = **126 cm²**.
 - **D salah** — Lupa membagi 2 pada segitiga: 12 × 5 = 60, lalu 96 + 60 = 156.
 
+- **Konsep kunci:** Luas rumah-rumahan = luas badan (persegi panjang) ditambah luas atap (segitiga).
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang (badan) = 12 × 8 = 96 cm².
+  2. Luas segitiga (atap) = ½ × 12 × 5 = 30 cm².
+  3. Jumlahkan: 96 + 30 = 126 cm².
+
 ---
 
 **4.** Sebuah bangun berbentuk L terdiri atas dua persegi panjang: yang besar 9 cm × 5 cm dan yang kecil 4 cm × 3 cm. Luas bangun L tersebut adalah ....
@@ -267,6 +285,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya menghitung persegi panjang kecil.
 - **C salah** — Mengira yang besar harus dikurangi yang kecil (45 − 12 = 33) — keliru karena bangun ini DISAMBUNG, bukan dipotong.
 - **D benar** — Bagian 1 = 9 × 5 = 45 cm². Bagian 2 = 4 × 3 = 12 cm². Total = 45 + 12 = **57 cm²**.
+
+- **Konsep kunci:** Bangun L yang disambung (bukan dipotong) dihitung dengan menjumlahkan luas kedua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang besar = 9 × 5 = 45 cm².
+  2. Luas persegi panjang kecil = 4 × 3 = 12 cm².
+  3. Jumlahkan: 45 + 12 = 57 cm².
 
 ---
 
@@ -284,6 +308,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi 10 × 10 = 100 cm². Setengah lingkaran r = 5: ½ × 3,14 × 25 = 39,25 cm². Total = 100 + 39,25 = **139,25 cm²**.
 - **D salah** — Mengira lingkaran utuh: π × 25 = 78,5; 100 + 78,5 = 178,5.
 
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas setengah lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 10 × 10 = 100 cm².
+  2. Luas setengah lingkaran r = 5 cm: ½ × 3,14 × 25 = 39,25 cm².
+  3. Jumlahkan: 100 + 39,25 = 139,25 cm².
+
 ---
 
 **6.** Sebuah bangun terdiri dari persegi panjang 14 cm × 7 cm dan setengah lingkaran berjari-jari 7 cm yang menempel di salah satu sisi pendeknya. Luas total bangun (π = 22/7) adalah ....
@@ -299,6 +329,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya setengah lingkaran: ½ × 22/7 × 49 = 77.
 - **C benar** — Persegi panjang = 14 × 7 = 98 cm². Setengah lingkaran r = 7: ½ × 22/7 × 49 = 77 cm². Total = 98 + 77 = **175 cm²**.
 - **D salah** — Mengira lingkaran utuh: 22/7 × 49 = 154; 98 + 154 = 252.
+
+- **Konsep kunci:** Luas gabungan = luas persegi panjang ditambah luas setengah lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 14 × 7 = 98 cm².
+  2. Luas setengah lingkaran r = 7 cm: ½ × 22/7 × 49 = 77 cm².
+  3. Jumlahkan: 98 + 77 = 175 cm².
 
 ---
 
@@ -316,6 +352,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Atas = 12 × 3 = 36 cm². Bawah = 4 × 7 = 28 cm². Total = 36 + 28 = **64 cm²**.
 - **D salah** — Mengira pembungkus persegi panjang besar 12 × 7 = 84 (mengabaikan bagian yang kosong).
 
+- **Konsep kunci:** Luas bentuk T = jumlah luas dua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian atas = 12 × 3 = 36 cm².
+  2. Luas bagian bawah (tengah) = 4 × 7 = 28 cm².
+  3. Jumlahkan: 36 + 28 = 64 cm².
+
 ---
 
 **8.** Sebuah jajar genjang dibentuk dari dua segitiga kongruen yang masing-masing memiliki alas 10 cm dan tinggi 6 cm. Luas total jajar genjang adalah ....
@@ -331,6 +373,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B benar** — Dua segitiga, masing-masing ½ × 10 × 6 = 30 cm². Total = 30 + 30 = **60 cm²**. (Atau langsung pakai rumus jajar genjang: a × t = 10 × 6 = 60.)
 - **C salah** — Mengira 2 jajar genjang: 60 × 2 = 120.
 - **D salah** — Salah operasi (penjumlahan alas + tinggi = 16).
+
+- **Konsep kunci:** Luas jajar genjang sama dengan jumlah luas dua segitiga kongruen penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas satu segitiga = ½ × 10 × 6 = 30 cm².
+  2. Ada dua segitiga kongruen, jadi kalikan 2: 30 × 2 = 60 cm².
+  3. Cek dengan rumus jajar genjang: alas × tinggi = 10 × 6 = 60 cm² (cocok).
 
 ---
 
@@ -348,6 +396,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Bagian 1 = 7 × 4 = 28 m². Bagian 2 = 3 × 4 = 12 m². Total = 28 + 12 = **40 m²**.
 - **D salah** — Salah operasi (28 − 12 = 16), mengira dipotong.
 
+- **Konsep kunci:** Luas lantai berbentuk L = jumlah luas kedua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian besar = 7 × 4 = 28 m².
+  2. Luas bagian kecil = 3 × 4 = 12 m².
+  3. Jumlahkan: 28 + 12 = 40 m².
+
 ---
 
 **10.** Bangun gabungan terdiri atas persegi panjang 20 cm × 14 cm dan dua setengah lingkaran di sisi pendek (kiri & kanan), masing-masing berjari-jari 7 cm. Luas total bangun (π = 22/7) adalah ....
@@ -363,6 +417,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya 1 lingkaran utuh (2 setengah lingkaran = 1 lingkaran): 22/7 × 49 = 154 (lupa persegi panjang).
 - **C benar** — Persegi panjang = 20 × 14 = 280 cm². Dua setengah lingkaran = 1 lingkaran r = 7: 22/7 × 49 = 154 cm². Total = 280 + 154 = **434 cm²**.
 - **D salah** — Hanya 1 setengah lingkaran (77) lalu 280 + 77 × ? salah hitung jadi 388.
+
+- **Konsep kunci:** Dua setengah lingkaran yang sama besar dan menempel di sisi berlawanan setara dengan satu lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 20 × 14 = 280 cm².
+  2. Dua setengah lingkaran r = 7 cm setara 1 lingkaran penuh: 22/7 × 49 = 154 cm².
+  3. Jumlahkan: 280 + 154 = 434 cm².
 
 ---
 
@@ -380,6 +440,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Mengira 32 + 6 = 38 (menambah dua sisi takikan).
 - **D salah** — Salah hitung; jumlah hanya sebagian sisi.
 
+- **Konsep kunci:** Keliling bangun L yang sudutnya dipotong sama dengan keliling persegi panjang pembungkusnya, karena sisi yang hilang digantikan sisi baru yang sama panjang.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling persegi pembungkus: 4 × 8 = 32 cm.
+  2. Sadari bahwa potongan sudut 3 cm × 3 cm tidak mengubah total keliling.
+  3. Jadi keliling bangun L = 32 cm.
+
 ---
 
 **12.** Pekarangan rumah berbentuk persegi panjang 15 m × 8 m. Di salah satu sudutnya dibangun gazebo berbentuk persegi 3 m × 3 m yang berada di dalam pekarangan. Luas area pekarangan yang tersisa (tidak terisi gazebo) adalah ....
@@ -395,6 +461,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya luas gazebo.
 - **C benar** — Pekarangan 15 × 8 = 120 m². Gazebo 3 × 3 = 9 m². Sisa = 120 − 9 = **111 m²**. (Soal pengurangan area gabungan.)
 - **D salah** — Menjumlahkan 120 + 9 = 129 (salah arah: harusnya dikurangi karena gazebo MENGAMBIL area).
+
+- **Konsep kunci:** Jika sebagian area ditempati bangun lain di dalamnya, luas sisa = luas total dikurangi luas bagian yang ditempati.
+- **Langkah Penyelesaian:**
+  1. Luas pekarangan = 15 × 8 = 120 m².
+  2. Luas gazebo = 3 × 3 = 9 m².
+  3. Luas sisa = 120 − 9 = 111 m².
 
 ---
 
@@ -412,6 +484,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi = 36 cm². Segitiga = ½ × 6 × 4 = 12 cm². Total = 36 + 12 = **48 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 6 × 4 = 24; 36 + 24 = 60.
 
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas segitiga yang menempel padanya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 6 × 6 = 36 cm².
+  2. Luas segitiga = ½ × 6 × 4 = 12 cm².
+  3. Jumlahkan: 36 + 12 = 48 cm².
+
 ---
 
 **14.** Sebuah lapangan berbentuk persegi panjang 30 m × 20 m dengan dua setengah lingkaran di sisi pendek (lapangan atletik mini). Jari-jari tiap setengah lingkaran adalah 10 m. Luas total lapangan (π = 3,14) adalah ....
@@ -427,6 +505,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya 2 setengah lingkaran = 1 lingkaran: 3,14 × 100 = 314.
 - **C benar** — Persegi panjang = 30 × 20 = 600 m². Lingkaran utuh (2 setengah) r = 10: 3,14 × 100 = 314 m². Total = 600 + 314 = **914 m²**.
 - **D salah** — Hanya 1 setengah lingkaran: 157; 600 + 157 = 757.
+
+- **Konsep kunci:** Dua setengah lingkaran identik di sisi berlawanan lapangan setara dengan satu lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 30 × 20 = 600 m².
+  2. Dua setengah lingkaran r = 10 m setara 1 lingkaran: 3,14 × 100 = 314 m².
+  3. Jumlahkan: 600 + 314 = 914 m².
 
 ---
 
@@ -444,6 +528,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang = 12 × 5 = 60 cm². Trapesium = ½ × (12+8) × 3 = 30 cm². Total = 60 + 30 = **90 cm²**.
 - **D salah** — Lupa bagi 2 trapesium: 20 × 3 = 60 lalu 60 + 60 = 120 (salah) atau salah hitung 102.
 
+- **Konsep kunci:** Luas gabungan trapesium dan persegi panjang = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 12 × 5 = 60 cm².
+  2. Luas trapesium = ½ × (12 + 8) × 3 = 30 cm².
+  3. Jumlahkan: 60 + 30 = 90 cm².
+
 ---
 
 **16.** Bangun L terdiri atas persegi panjang 10 cm × 4 cm dan persegi panjang 4 cm × 6 cm yang membentuk sudut. Luas bangun L adalah ....
@@ -459,6 +549,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya bagian 2.
 - **C benar** — Bagian 1 = 10 × 4 = 40 cm². Bagian 2 = 4 × 6 = 24 cm². Total = 40 + 24 = **64 cm²**.
 - **D salah** — Salah hitung penjumlahan (40 + 10 keliru).
+
+- **Konsep kunci:** Luas bangun L = jumlah luas kedua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian pertama = 10 × 4 = 40 cm².
+  2. Luas bagian kedua = 4 × 6 = 24 cm².
+  3. Jumlahkan: 40 + 24 = 64 cm².
 
 ---
 
@@ -476,6 +572,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Seperempat lingkaran r = 14: ¼ × 22/7 × 196 = 154 m². Persegi panjang = 14 × 10 = 140 m². Total = 154 + 140 = **294 m²**.
 - **D salah** — Mengira lingkaran utuh: 22/7 × 196 = 616; 616 + 140 = 756.
 
+- **Konsep kunci:** Luas gabungan = luas seperempat lingkaran ditambah luas persegi panjang yang disambung.
+- **Langkah Penyelesaian:**
+  1. Luas seperempat lingkaran r = 14 m: ¼ × 22/7 × 196 = 154 m².
+  2. Luas persegi panjang = 14 × 10 = 140 m².
+  3. Jumlahkan: 154 + 140 = 294 m².
+
 ---
 
 **18.** Sebuah jendela bertudung berukuran lebar 70 cm (lebar persegi panjang). Tinggi persegi panjang 100 cm, dan di atasnya menempel setengah lingkaran (diameter 70 cm). Luas total jendela (π = 22/7) adalah ....
@@ -491,6 +593,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya setengah lingkaran r = 35: ½ × 22/7 × 1225 = 1925.
 - **C benar** — Persegi panjang = 7000 cm². Setengah lingkaran = ½ × 22/7 × 35² = ½ × 22/7 × 1225 = 1925 cm². Total = 7000 + 1925 = **8925 cm²**.
 - **D salah** — Mengira lingkaran utuh: 3850; 7000 + 3850 = 10850.
+
+- **Konsep kunci:** Luas jendela bertudung = luas persegi panjang ditambah luas setengah lingkaran di atasnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 70 × 100 = 7000 cm².
+  2. Luas setengah lingkaran r = 35 cm: ½ × 22/7 × 1225 = 1925 cm².
+  3. Jumlahkan: 7000 + 1925 = 8925 cm².
 
 ---
 
@@ -508,6 +616,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Mengira A − B = 81 − 25 = 56 (salah arah).
 - **D benar** — Persegi A = 81 cm². Persegi B = 25 cm². Total = 81 + 25 = **106 cm²**.
 
+- **Konsep kunci:** Karena kedua persegi disambung (bukan tumpang tindih atau dipotong), luas total adalah jumlah, bukan selisih, luas keduanya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi A = 9 × 9 = 81 cm².
+  2. Luas persegi B = 5 × 5 = 25 cm².
+  3. Jumlahkan: 81 + 25 = 106 cm².
+
 ---
 
 **20.** Sebuah lantai berbentuk huruf T: bagian atas persegi panjang 8 m × 2 m, bagian tegak persegi panjang 3 m × 6 m. Luas total lantai adalah ....
@@ -523,6 +637,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya tegak: 3 × 6 = 18.
 - **C benar** — Atas = 8 × 2 = 16 m². Tegak = 3 × 6 = 18 m². Total = 16 + 18 = **34 m²**.
 - **D salah** — Mengira pembungkus persegi panjang besar 8 × 6 = 48.
+
+- **Konsep kunci:** Luas bentuk T = jumlah luas dua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian atas = 8 × 2 = 16 m².
+  2. Luas bagian tegak = 3 × 6 = 18 m².
+  3. Jumlahkan: 16 + 18 = 34 m².
 
 ---
 
@@ -540,6 +660,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Hanya segitiga B.
 - **D salah** — Lupa bagi 2 di segitiga A: 8 × 5 = 40 + 12 (B benar) − salah pikir.
 
+- **Konsep kunci:** Luas gabungan dua segitiga = jumlah luas masing-masing segitiga.
+- **Langkah Penyelesaian:**
+  1. Luas segitiga A = ½ × 8 × 5 = 20 cm².
+  2. Luas segitiga B = ½ × 6 × 4 = 12 cm².
+  3. Jumlahkan: 20 + 12 = 32 cm².
+
 ---
 
 **22.** Sebuah bangun berbentuk rumah: badan persegi 10 cm × 10 cm, atap segitiga sama kaki alas 10 cm tinggi 6 cm. Luas total rumah adalah ....
@@ -555,6 +681,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya atap: ½ × 10 × 6 = 30.
 - **C benar** — Badan = 100 cm². Atap = ½ × 10 × 6 = 30 cm². Total = 100 + 30 = **130 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 60 + 100 = 160.
+
+- **Konsep kunci:** Luas rumah-rumahan = luas badan (persegi) ditambah luas atap (segitiga).
+- **Langkah Penyelesaian:**
+  1. Luas badan = 10 × 10 = 100 cm².
+  2. Luas atap = ½ × 10 × 6 = 30 cm².
+  3. Jumlahkan: 100 + 30 = 130 cm².
 
 ---
 
@@ -572,6 +704,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Alas + 1 tegakan: 48 + 24 = 72 (lupa tegakan kedua).
 - **D benar** — Alas = 12 × 4 = 48 cm². Dua tegakan = 2 × (4 × 6) = 48 cm². Total = 48 + 48 = **96 cm²**.
 
+- **Konsep kunci:** Bentuk U terdiri atas tiga persegi panjang: satu alas dan dua tegakan, jangan sampai lupa tegakan keduanya.
+- **Langkah Penyelesaian:**
+  1. Luas alas = 12 × 4 = 48 cm².
+  2. Luas dua tegakan = 2 × (4 × 6) = 48 cm².
+  3. Jumlahkan: 48 + 48 = 96 cm².
+
 ---
 
 **24.** Bangun terdiri atas seperempat lingkaran r = 7 cm dan persegi 7 cm × 7 cm. Luas total bangun (π = 22/7) adalah ....
@@ -587,6 +725,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya seperempat lingkaran: ¼ × 22/7 × 49 = 38,5.
 - **C benar** — Persegi = 49 cm². Seperempat lingkaran = ¼ × 22/7 × 49 = 38,5 cm². Total = 49 + 38,5 = **87,5 cm²**.
 - **D salah** — Mengira setengah lingkaran: 77 + 49 keliru = 105 (atau salah hitung).
+
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas seperempat lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 7 × 7 = 49 cm².
+  2. Luas seperempat lingkaran r = 7 cm: ¼ × 22/7 × 49 = 38,5 cm².
+  3. Jumlahkan: 49 + 38,5 = 87,5 cm².
 
 ---
 
@@ -604,6 +748,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang = 200 cm². Segitiga = ½ × 10 × 6 = 30 cm². Total = 200 + 30 = **230 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 60 + 200 = 260.
 
+- **Konsep kunci:** Luas gabungan = luas persegi panjang ditambah luas segitiga yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 20 × 10 = 200 cm².
+  2. Luas segitiga = ½ × 10 × 6 = 30 cm².
+  3. Jumlahkan: 200 + 30 = 230 cm².
+
 ---
 
 **26.** Sebuah halaman berbentuk persegi sisi 15 m dengan kolam berbentuk persegi panjang 6 m × 4 m di dalamnya. Luas halaman yang BUKAN kolam adalah ....
@@ -619,6 +769,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya kolam.
 - **C benar** — Halaman = 15 × 15 = 225 m². Kolam = 6 × 4 = 24 m². Halaman bukan kolam = 225 − 24 = **201 m²**.
 - **D salah** — Menjumlahkan (225 + 24 = 249) padahal kolam harusnya dikurangi.
+
+- **Konsep kunci:** Luas area di luar bagian dalam = luas total dikurangi luas bagian dalam itu.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 15 × 15 = 225 m².
+  2. Luas kolam = 6 × 4 = 24 m².
+  3. Kurangkan: 225 − 24 = 201 m².
 
 ---
 
@@ -636,6 +792,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi = 144 cm². Setengah lingkaran = ½ × 3,14 × 6² = 56,52 cm². Total = 144 + 56,52 = **200,52 cm²**.
 - **D salah** — Mengira lingkaran utuh: 113,04; 144 + 113,04 = 257,04.
 
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas setengah lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 12 × 12 = 144 cm².
+  2. Luas setengah lingkaran r = 6 cm: ½ × 3,14 × 36 = 56,52 cm².
+  3. Jumlahkan: 144 + 56,52 = 200,52 cm².
+
 ---
 
 **28.** Sebuah taman berbentuk persegi panjang 25 m × 12 m disambung dengan seperempat lingkaran r = 7 m di salah satu sudutnya. Luas total taman (π = 22/7) adalah ....
@@ -651,6 +813,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya seperempat lingkaran: ¼ × 22/7 × 49 = 38,5.
 - **C benar** — Persegi panjang = 25 × 12 = 300 m². Seperempat lingkaran = ¼ × 22/7 × 49 = 38,5 m². Total = 300 + 38,5 = **338,5 m²**.
 - **D salah** — Mengira setengah lingkaran: 77 + 300 = 377 (atau salah hitung 454).
+
+- **Konsep kunci:** Luas gabungan = luas persegi panjang ditambah luas seperempat lingkaran yang disambung.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 25 × 12 = 300 m².
+  2. Luas seperempat lingkaran r = 7 m: ¼ × 22/7 × 49 = 38,5 m².
+  3. Jumlahkan: 300 + 38,5 = 338,5 m².
 
 ---
 
@@ -668,6 +836,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — 3 × (4 × 4) = 3 × 16 = **48 cm²**. (Atau langsung pikir sebagai persegi panjang 12 × 4 = 48.)
 - **D salah** — Salah hitung (4 persegi).
 
+- **Konsep kunci:** Jika beberapa bangun identik berjajar, luas total = banyak bangun × luas satu bangun.
+- **Langkah Penyelesaian:**
+  1. Luas satu persegi = 4 × 4 = 16 cm².
+  2. Ada 3 persegi identik yang berjajar.
+  3. Kalikan: 3 × 16 = 48 cm².
+
 ---
 
 **30.** Sebuah bangun berbentuk segitiga sama sisi sisi 6 cm dan persegi 6 cm × 6 cm yang sisi atasnya menempel pada salah satu sisi segitiga. Jika tinggi segitiga = 5,2 cm (dibulatkan), luas bangun adalah ....
@@ -683,6 +857,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya segitiga: ½ × 6 × 5,2 = 15,6.
 - **C benar** — Persegi = 36 cm². Segitiga = ½ × 6 × 5,2 = 15,6 cm². Total = 36 + 15,6 = **51,6 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 31,2 + 36 = 67,2.
+
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas segitiga yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 6 × 6 = 36 cm².
+  2. Luas segitiga = ½ × 6 × 5,2 = 15,6 cm².
+  3. Jumlahkan: 36 + 15,6 = 51,6 cm².
 
 ---
 
@@ -700,6 +880,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang = 14 × 10 = 140 m². Segitiga dipotong = ½ × 4 × 3 = 6 m². Sisa = 140 − 6 = **134 m²**.
 - **D salah** — Menjumlahkan (140 + 6) padahal segitiga DIPOTONG.
 
+- **Konsep kunci:** Jika sudut bangun DIPOTONG, luas sisa = luas bangun utuh dikurangi luas bagian yang dipotong.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang utuh = 14 × 10 = 140 m².
+  2. Luas segitiga yang dipotong = ½ × 4 × 3 = 6 m².
+  3. Kurangkan: 140 − 6 = 134 m².
+
 ---
 
 **32.** Bangun gabungan terdiri atas trapesium dengan sisi sejajar 14 cm dan 8 cm tinggi 4 cm, dan persegi panjang 14 cm × 6 cm yang menempel di sisi panjang trapesium (14 cm). Luas total bangun adalah ....
@@ -715,6 +901,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya persegi panjang: 14 × 6 = 84.
 - **C benar** — Trapesium = 44 cm². Persegi panjang = 84 cm². Total = 44 + 84 = **128 cm²**.
 - **D salah** — Lupa bagi 2 di trapesium: 88; 88 + 84 = 172 (salah hitung 168).
+
+- **Konsep kunci:** Luas gabungan trapesium dan persegi panjang = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas trapesium = ½ × (14 + 8) × 4 = 44 cm².
+  2. Luas persegi panjang = 14 × 6 = 84 cm².
+  3. Jumlahkan: 44 + 84 = 128 cm².
 
 ---
 
@@ -732,6 +924,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi = 64 cm². 4 segitiga @ ½ × 2 × 2 = 2 cm² → total 8 cm². Total = 64 + 8 = **72 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 4 × 4 = 16; 64 + 16 = 80.
 
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas semua segitiga kecil di sudutnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 8 × 8 = 64 cm².
+  2. Luas 4 segitiga kecil = 4 × (½ × 2 × 2) = 8 cm².
+  3. Jumlahkan: 64 + 8 = 72 cm².
+
 ---
 
 **34.** Sebuah lapangan berbentuk persegi panjang 40 m × 25 m. Di salah satu sudutnya ada area parkir persegi 5 m × 5 m. Luas lapangan yang BUKAN parkir adalah ....
@@ -747,6 +945,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya luas parkir.
 - **C benar** — Lapangan = 40 × 25 = 1000 m². Parkir = 25 m². Sisa = 1000 − 25 = **975 m²**.
 - **D salah** — Menjumlahkan (1000 + 25), salah arah.
+
+- **Konsep kunci:** Luas area yang bukan bagian tertentu = luas total dikurangi luas bagian tersebut.
+- **Langkah Penyelesaian:**
+  1. Luas lapangan = 40 × 25 = 1000 m².
+  2. Luas parkir = 5 × 5 = 25 m².
+  3. Kurangkan: 1000 − 25 = 975 m².
 
 ---
 
@@ -764,6 +968,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Mengira A − B = 100 − 36 = 64 (salah, ini gabungan, bukan dipotong).
 - **D benar** — Persegi A = 100 cm². Persegi B = 36 cm². Total = 100 + 36 = **136 cm²**.
 
+- **Konsep kunci:** Karena kedua persegi disambung (bukan dipotong), luas total = jumlah luas keduanya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi A = 10 × 10 = 100 cm².
+  2. Luas persegi B = 6 × 6 = 36 cm².
+  3. Jumlahkan: 100 + 36 = 136 cm².
+
 ---
 
 **36.** Sebuah bangun gabungan terdiri atas persegi panjang 16 cm × 9 cm dan setengah lingkaran r = 4,5 cm yang menempel di salah satu sisi pendek (panjang 9 cm). Luas total bangun (π = 3,14) adalah ....
@@ -779,6 +989,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya setengah lingkaran: ½ × 3,14 × 20,25 ≈ 31,79 ≈ 31,8.
 - **C benar** — Persegi panjang = 144 cm². Setengah lingkaran r = 4,5: ½ × 3,14 × 4,5² = ½ × 3,14 × 20,25 ≈ 31,8 cm². Total = 144 + 31,8 = **175,8 cm²**.
 - **D salah** — Mengira lingkaran utuh: 63,6; 144 + 63,6 = 207,6.
+
+- **Konsep kunci:** Luas gabungan = luas persegi panjang ditambah luas setengah lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 16 × 9 = 144 cm².
+  2. Luas setengah lingkaran r = 4,5 cm: ½ × 3,14 × 20,25 ≈ 31,8 cm².
+  3. Jumlahkan: 144 + 31,8 = 175,8 cm².
 
 ---
 
@@ -796,6 +1012,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Bagian 1 = 12 × 5 = 60 m². Bagian 2 = 6 × 5 = 30 m². Total = 60 + 30 = **90 m²**.
 - **D salah** — Mengira pembungkus persegi panjang besar 12 × 10 = 120.
 
+- **Konsep kunci:** Luas bangun L = jumlah luas kedua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian pertama = 12 × 5 = 60 m².
+  2. Luas bagian kedua = 6 × 5 = 30 m².
+  3. Jumlahkan: 60 + 30 = 90 m².
+
 ---
 
 **38.** Sebuah persegi 15 cm × 15 cm disambung dengan segitiga sama kaki di salah satu sisinya, alas 15 cm tinggi 8 cm. Luas total bangun adalah ....
@@ -811,6 +1033,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya segitiga: ½ × 15 × 8 = 60.
 - **C benar** — Persegi = 225 cm². Segitiga = ½ × 15 × 8 = 60 cm². Total = 225 + 60 = **285 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 120 + 225 = 345.
+
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas segitiga yang disambung.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 15 × 15 = 225 cm².
+  2. Luas segitiga = ½ × 15 × 8 = 60 cm².
+  3. Jumlahkan: 225 + 60 = 285 cm².
 
 ---
 
@@ -828,6 +1056,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C salah** — Hanya luas persegi r × r = 25 (salah konsep).
 - **D salah** — Mengira diameter sebagai jari-jari: 3,14 × 100 = 314 (atau salah hitung 157).
 
+- **Konsep kunci:** Dua setengah lingkaran identik yang disatukan membentuk satu lingkaran penuh dengan jari-jari yang sama.
+- **Langkah Penyelesaian:**
+  1. Kenali bahwa 2 setengah lingkaran r = 5 cm setara 1 lingkaran penuh.
+  2. Hitung luas lingkaran penuh: 3,14 × 5² = 3,14 × 25.
+  3. Hasilnya = 78,5 cm².
+
 ---
 
 **40.** Bangun gabungan terdiri atas persegi panjang 10 cm × 7 cm dan dua segitiga siku-siku identik (kaki 4 cm dan 7 cm) yang menempel di kedua sisi pendek persegi panjang. Luas total bangun adalah ....
@@ -843,6 +1077,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya 1 segitiga: ½ × 4 × 7 = 14.
 - **C salah** — Persegi panjang + 1 segitiga: 70 + 14 = 84 (lupa segitiga kedua).
 - **D benar** — Persegi panjang = 70 cm². Dua segitiga = 2 × ½ × 4 × 7 = 28 cm². Total = 70 + 28 = **98 cm²**.
+
+- **Konsep kunci:** Jika ada dua bagian identik yang menempel di kedua sisi, jangan lupa mengalikan luasnya dengan 2.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 10 × 7 = 70 cm².
+  2. Luas satu segitiga = ½ × 4 × 7 = 14 cm²; karena ada dua segitiga: 2 × 14 = 28 cm².
+  3. Jumlahkan: 70 + 28 = 98 cm².
 
 ---
 
@@ -860,6 +1100,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Telusuri keliling luar: 3 sisi persegi (yang tidak tertutup) = 3 × 20 = 60 cm. Busur setengah lingkaran = π × r = 3,14 × 10 = 31,4 cm. Total = 60 + 31,4 = **91,4 cm**.
 - **D salah** — Keliling persegi utuh + busur: 80 + 31,4 = 111,4 (atau salah hitung 102,8 dengan diameter ikut dihitung).
 
+- **Konsep kunci:** Untuk keliling bangun gabungan, sisi yang tertutup oleh bangun lain TIDAK dihitung, digantikan busur lingkaran.
+- **Langkah Penyelesaian:**
+  1. Hitung 3 sisi persegi yang masih menjadi tepi luar: 3 × 20 = 60 cm.
+  2. Sisi keempat tertutup setengah lingkaran, hitung busurnya: π × r = 3,14 × 10 = 31,4 cm.
+  3. Jumlahkan: 60 + 31,4 = 91,4 cm.
+
 ---
 
 **42.** Bangun L (gabungan persegi 5 × 5 dan persegi panjang 5 × 3 yang menempel di sisi). Keliling bangun L adalah ....
@@ -875,6 +1121,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya keliling persegi panjang.
 - **C benar** — Telusuri pinggir luar: 5 + 5 + 3 + (5−3) + (5+3) + 5 = 5+5+3+2+8+5? Hitung ulang dengan teliti. Bangun L pembungkus = (5+3) × 5. Keliling L sama dengan keliling pembungkus = 2 × (8 + 5) = **26 cm**.
 - **D salah** — Salah jumlah keliling bagian terpisah: keliling persegi 20 + keliling panjang 16 = 36, lalu salah dikurangi jadi 30.
+
+- **Konsep kunci:** Keliling bangun L sama dengan keliling persegi panjang pembungkusnya, karena sisi takik saling menggantikan.
+- **Langkah Penyelesaian:**
+  1. Tentukan ukuran persegi panjang pembungkus: (5 + 3) × 5 = 8 × 5.
+  2. Hitung keliling pembungkus: 2 × (8 + 5) = 26 cm.
+  3. Itulah keliling bangun L.
 
 ---
 
@@ -892,6 +1144,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Tepi luar: 2 sisi pendek persegi panjang (6+6) + 1 sisi panjang tak tertutup (8) + busur setengah lingkaran (π × r = 3,14 × 3 = 9,42). Tunggu — periksa sisi mana yang tertutup. Diameter setengah lingkaran = 6 (= sisi pendek persegi panjang), maka setengah lingkaran menempel pada sisi pendek 6, BUKAN sisi panjang 8. Reset: tepi luar = 8 (atas) + 8 (bawah) + 6 (satu sisi pendek) + busur (9,42) = **31,42 cm**.
 - **D salah** — Salah tambah diameter ikut: 28 + 9,42 = 37,42.
 
+- **Konsep kunci:** Sebelum menghitung tepi luar, pastikan dulu sisi mana yang tertutup oleh setengah lingkaran (sisi yang sama panjang dengan diameternya).
+- **Langkah Penyelesaian:**
+  1. Diameter setengah lingkaran (6 cm) sama dengan sisi pendek, jadi sisi pendek itu tertutup.
+  2. Jumlahkan tepi luar yang tersisa: 2 sisi panjang (8 + 8) + 1 sisi pendek sisa (6) + busur (π × 3 = 9,42).
+  3. Hasil: 8 + 8 + 6 + 9,42 = 31,42 cm.
+
 ---
 
 **44.** Halaman berbentuk persegi panjang 30 m × 20 m. Di tengahnya ada taman bunga berbentuk persegi 8 m × 8 m. Luas halaman yang ditanami rumput (di luar taman) adalah ....
@@ -907,6 +1165,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya taman.
 - **C benar** — Halaman = 30 × 20 = 600 m². Taman = 8 × 8 = 64 m². Rumput = 600 − 64 = **536 m²**.
 - **D salah** — Menjumlahkan, padahal taman harusnya dikurangi: 600 + 64 = 664.
+
+- **Konsep kunci:** Luas area di luar bagian dalam = luas total dikurangi luas bagian dalam itu.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 30 × 20 = 600 m².
+  2. Luas taman = 8 × 8 = 64 m².
+  3. Kurangkan: 600 − 64 = 536 m².
 
 ---
 
@@ -924,6 +1188,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang = 16 × 10 = 160 cm². Setengah lingkaran r = 5: ½ × 3,14 × 25 = 39,25 cm². Total = 160 + 39,25 = **199,25 cm²**.
 - **D salah** — Mengira lingkaran utuh: 78,5; 160 + 78,5 = 238,5.
 
+- **Konsep kunci:** Luas gabungan = luas persegi panjang ditambah luas setengah lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 16 × 10 = 160 cm².
+  2. Luas setengah lingkaran r = 5 cm: ½ × 3,14 × 25 = 39,25 cm².
+  3. Jumlahkan: 160 + 39,25 = 199,25 cm².
+
 ---
 
 **46.** Sebuah bangun terdiri atas tiga persegi panjang yang berjajar vertikal (tangga tiga anak): masing-masing 3 cm × 2 cm. Luas total bangun adalah ....
@@ -939,6 +1209,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya 2 anak tangga.
 - **C benar** — 3 × (3 × 2) = 3 × 6 = **18 cm²**.
 - **D salah** — Salah hitung 4 anak.
+
+- **Konsep kunci:** Jika beberapa bangun identik berjajar, luas total = banyak bangun × luas satu bangun.
+- **Langkah Penyelesaian:**
+  1. Luas satu persegi panjang (anak tangga) = 3 × 2 = 6 cm².
+  2. Ada 3 anak tangga identik.
+  3. Kalikan: 3 × 6 = 18 cm².
 
 ---
 
@@ -956,6 +1232,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Persegi panjang tengah (10 × 4 = 40) + 2 segitiga di sisi (alas (16−10)/2 = 3, tinggi 4; tiap segitiga = ½ × 3 × 4 = 6, dua segitiga = 12). Total = 40 + 12 = **52 cm²**. (Atau rumus trapesium: ½ × (10+16) × 4 = 52.)
 - **D salah** — Lupa bagi 2 trapesium: (10+16) × 4 = 104; salah hitung 80.
 
+- **Konsep kunci:** Trapesium dapat dipecah menjadi satu persegi panjang di tengah dan dua segitiga siku-siku di kedua sisinya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang tengah = 10 × 4 = 40 cm².
+  2. Alas tiap segitiga = (16 − 10) ÷ 2 = 3 cm; luas satu segitiga = ½ × 3 × 4 = 6 cm², dua segitiga = 12 cm².
+  3. Jumlahkan: 40 + 12 = 52 cm².
+
 ---
 
 **48.** Bangun gabungan terdiri atas persegi 6 cm × 6 cm dan persegi panjang 6 cm × 3 cm yang menempel di sisi persegi. Keliling bangun L tersebut adalah ....
@@ -971,6 +1253,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya keliling persegi panjang.
 - **C benar** — Telusuri tepi luar pembungkus persegi panjang besar (6+3) × 6 = 9 × 6. Keliling pembungkus = 2(9+6) = **30 cm**. (Bangun L bertambah-kurang impas; mengikuti aturan keliling L = keliling pembungkus.)
 - **D salah** — Mengira keliling = penjumlahan tiap bagian: 24 + 18 − 12 = 30 (kebetulan benar), atau salah hitung 36.
+
+- **Konsep kunci:** Keliling bangun L sama dengan keliling persegi panjang pembungkusnya.
+- **Langkah Penyelesaian:**
+  1. Tentukan ukuran persegi panjang pembungkus: (6 + 3) × 6 = 9 × 6.
+  2. Hitung keliling pembungkus: 2 × (9 + 6) = 30 cm.
+  3. Itulah keliling bangun L.
 
 ---
 
@@ -988,6 +1276,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **C benar** — Seperempat lingkaran r = 28: ¼ × 22/7 × 28² = ¼ × 22/7 × 784 = 616 m². Persegi = 100 m². Total = 616 + 100 = **716 m²**.
 - **D salah** — Salah hitung seperempat lingkaran jadi 716 + 100 keliru = 816.
 
+- **Konsep kunci:** Luas gabungan = luas seperempat lingkaran ditambah luas persegi yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas seperempat lingkaran r = 28 m: ¼ × 22/7 × 784 = 616 m².
+  2. Luas persegi = 10 × 10 = 100 m².
+  3. Jumlahkan: 616 + 100 = 716 m².
+
 ---
 
 **50.** Sebuah lantai dapur berbentuk gabungan dua persegi panjang membentuk L: 5 m × 3 m dan 2 m × 4 m. Luas lantai adalah ....
@@ -1003,6 +1297,12 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - **B salah** — Hanya bagian 2.
 - **C benar** — Bagian 1 = 5 × 3 = 15 m². Bagian 2 = 2 × 4 = 8 m². Total = 15 + 8 = **23 m²**.
 - **D salah** — Salah hitung; pakai pembungkus persegi panjang 5 × 7 = 35.
+
+- **Konsep kunci:** Luas lantai berbentuk L = jumlah luas kedua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian pertama = 5 × 3 = 15 m².
+  2. Luas bagian kedua = 2 × 4 = 8 m².
+  3. Jumlahkan: 15 + 8 = 23 m².
 
 ---
 
@@ -1026,6 +1326,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Tepi luar: 2 sisi panjang persegi panjang (2 × 36 = 72) + 2 busur setengah lingkaran (= 1 keliling lingkaran = 2 × 22/7 × 7 = 44). Total = 72 + 44 = **116 m**.
 - **D salah** — Salah jumlah (72 + 28 dengan diameter, bukan busur).
 
+- **Konsep kunci:** Keliling arena berbentuk trek lari = jumlah dua sisi panjang ditambah keliling lingkaran penuh dari gabungan dua setengah lingkarannya.
+- **Langkah Penyelesaian:**
+  1. Hitung 2 sisi panjang: 2 × 36 = 72 m.
+  2. Dua setengah lingkaran r = 7 m setara keliling 1 lingkaran penuh: 2 × 22/7 × 7 = 44 m.
+  3. Jumlahkan: 72 + 44 = 116 m.
+
 ---
 
 **52.** Bangun gabungan terdiri atas persegi panjang 20 cm × 14 cm, segitiga siku-siku di sudut kiri atas (kaki 6 cm dan 5 cm), dan setengah lingkaran di sisi kanan (diameter 14 cm). Luas total bangun (π = 22/7) adalah ....
@@ -1044,6 +1350,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 
 *(Catatan editor: opsi terbaik adalah D = 357 dengan asumsi "segitiga" di soal adalah pelengkap deskripsi yang tidak ditambahkan ke total.)*
 
+- **Konsep kunci:** Konsisten dengan kunci D, luas total di sini hanya menjumlahkan persegi panjang dan setengah lingkaran (segitiga pada deskripsi soal tidak diikutsertakan dalam pilihan D).
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 20 × 14 = 280 cm².
+  2. Luas setengah lingkaran r = 7 cm: ½ × 22/7 × 49 = 77 cm².
+  3. Jumlahkan: 280 + 77 = 357 cm² (sesuai kunci D).
+
 ---
 
 **53.** Lantai sebuah ruangan berbentuk L terdiri atas persegi panjang 12 m × 8 m dan persegi panjang 6 m × 4 m. Setiap meter persegi memerlukan 4 ubin ukuran 50 cm × 50 cm. Banyak ubin yang dibutuhkan untuk menutup seluruh lantai adalah ....
@@ -1059,6 +1371,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Total luas dalam m²: 96 + 24 = 120 (tapi belum dikalikan 4 ubin/m²).
 - **C benar** — Luas lantai = 12 × 8 + 6 × 4 = 96 + 24 = 120 m². Tiap m² = 4 ubin. Total = 120 × 4 = **480 ubin**.
 - **D salah** — Salah konversi (mengira 5 ubin/m²): 120 × 5 = 600.
+
+- **Konsep kunci:** Setelah mendapat luas total dalam meter persegi, kalikan dengan kebutuhan ubin per meter persegi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas lantai berbentuk L: 12 × 8 + 6 × 4 = 96 + 24 = 120 m².
+  2. Kalikan luas dengan kebutuhan ubin per m²: 120 × 4.
+  3. Hasil: 480 ubin.
 
 ---
 
@@ -1076,6 +1394,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Persegi = 324 cm². Segitiga = ½ × 18 × 15,6 = 140,4 cm². Total = 324 + 140,4 = **464,4 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 280,8 + 324 = 604,8.
 
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas segitiga sama sisi yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 18 × 18 = 324 cm².
+  2. Luas segitiga = ½ × 18 × 15,6 = 140,4 cm².
+  3. Jumlahkan: 324 + 140,4 = 464,4 cm².
+
 ---
 
 **55.** Sebuah persegi panjang 24 cm × 16 cm di salah satu sudutnya dipotong seperempat lingkaran r = 8 cm. Luas bangun yang tersisa (π = 3,14) adalah ....
@@ -1091,6 +1415,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya seperempat lingkaran: ¼ × 3,14 × 64 = 50,24.
 - **C benar** — Persegi panjang = 384 cm². Seperempat lingkaran = ¼ × 3,14 × 64 = 50,24 cm². Sisa = 384 − 50,24 = **333,76 cm²**.
 - **D salah** — Menjumlahkan (384 + 50,24), padahal seperempat lingkaran DIPOTONG.
+
+- **Konsep kunci:** Jika sebagian sudut bangun DIPOTONG melengkung, luas sisa = luas bangun utuh dikurangi luas potongan lengkung itu.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang utuh = 24 × 16 = 384 cm².
+  2. Luas seperempat lingkaran yang dipotong r = 8 cm: ¼ × 3,14 × 64 = 50,24 cm².
+  3. Kurangkan: 384 − 50,24 = 333,76 cm².
 
 ---
 
@@ -1108,6 +1438,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Taman = 25 × 20 = 500 m². Kolam A = 16 m². Kolam B = 9 m². Total kolam = 25 m². Luas di luar kolam = 500 − 25 = **475 m²**.
 - **D salah** — Menjumlahkan kolam: 500 + 25 = 525.
 
+- **Konsep kunci:** Jika ada lebih dari satu bagian yang harus dikurangi, jumlahkan dulu semua bagian pengurang sebelum dikurangkan sekali dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas taman = 25 × 20 = 500 m².
+  2. Jumlahkan luas kedua kolam: 16 + 9 = 25 m².
+  3. Kurangkan: 500 − 25 = 475 m².
+
 ---
 
 **57.** Bangun gabungan terdiri atas persegi panjang 10 cm × 7 cm, setengah lingkaran r = 3,5 cm di sisi pendek kiri, dan setengah lingkaran r = 3,5 cm di sisi pendek kanan. Luas total bangun (π = 22/7) adalah ....
@@ -1123,6 +1459,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya 1 lingkaran utuh (2 setengah lingkaran): 22/7 × 12,25 = 38,5.
 - **C benar** — Persegi panjang = 10 × 7 = 70 cm². 2 setengah lingkaran = 1 lingkaran utuh r = 3,5: 22/7 × 12,25 = 38,5 cm². Total = 70 + 38,5 = **108,5 cm²**.
 - **D salah** — Lupa membagi: mengira lingkaran 2× = 77; 70 + 77 = 147.
+
+- **Konsep kunci:** Dua setengah lingkaran identik di kedua sisi persegi panjang setara dengan satu lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 10 × 7 = 70 cm².
+  2. Dua setengah lingkaran r = 3,5 cm setara 1 lingkaran penuh: 22/7 × 12,25 = 38,5 cm².
+  3. Jumlahkan: 70 + 38,5 = 108,5 cm².
 
 ---
 
@@ -1140,6 +1482,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Luas jalan = lingkaran luar − lingkaran dalam = 22/7 × (81 − 49) = 22/7 × 32 ≈ **100,57 m²**.
 - **D salah** — Salah hitung: 9² − 7² = 32, mengira × 1,57 (setengah π) = 50,24.
 
+- **Konsep kunci:** Luas bentuk cincin (jalan melingkar) = luas lingkaran luar dikurangi luas lingkaran dalam.
+- **Langkah Penyelesaian:**
+  1. Luas lingkaran luar r = 9 m: 22/7 × 81 ≈ 254,57 m².
+  2. Luas lingkaran dalam r = 7 m: 22/7 × 49 = 154 m².
+  3. Kurangkan: 254,57 − 154 ≈ 100,57 m².
+
 ---
 
 **59.** Bangun gabungan: persegi panjang 30 cm × 20 cm dengan 4 seperempat lingkaran r = 5 cm dipotong di tiap sudut. Luas yang tersisa (π = 3,14) adalah ....
@@ -1155,6 +1503,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya total 4 seperempat lingkaran (= 1 lingkaran utuh r = 5): 3,14 × 25 = 78,5.
 - **C benar** — Persegi panjang = 600 cm². 4 seperempat lingkaran = 1 lingkaran utuh: 3,14 × 25 = 78,5 cm². Sisa = 600 − 78,5 = **521,5 cm²**.
 - **D salah** — Menjumlahkan, padahal harusnya dikurangi: 600 + 78,5 = 678,5.
+
+- **Konsep kunci:** Empat seperempat lingkaran identik di keempat sudut setara dengan satu lingkaran penuh yang harus dikurangkan dari luas persegi panjang.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 30 × 20 = 600 cm².
+  2. 4 seperempat lingkaran r = 5 cm setara 1 lingkaran: 3,14 × 25 = 78,5 cm².
+  3. Kurangkan: 600 − 78,5 = 521,5 cm².
 
 ---
 
@@ -1172,6 +1526,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Tepi luar: 3 sisi persegi (tidak termasuk atas yang tertutup) = 3 × 14 = 42 cm. Busur setengah lingkaran r = 7: π × r = 22/7 × 7 = 22 cm. Total = 42 + 22 = **64 cm**.
 - **D salah** — Menambahkan diameter ikut: 42 + 22 + 14 = 78.
 
+- **Konsep kunci:** Untuk keliling bangun gabungan, sisi yang tertutup diganti dengan busur lingkaran.
+- **Langkah Penyelesaian:**
+  1. Hitung 3 sisi persegi yang menjadi tepi luar: 3 × 14 = 42 cm.
+  2. Hitung busur setengah lingkaran r = 7 cm: 22/7 × 7 = 22 cm.
+  3. Jumlahkan: 42 + 22 = 64 cm.
+
 ---
 
 **61.** Sebuah halaman berbentuk persegi panjang 50 m × 30 m. Di tengahnya ada bangunan berbentuk L (gabungan 2 persegi panjang 8 × 6 m dan 4 × 5 m). Luas halaman di luar bangunan adalah ....
@@ -1187,6 +1547,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya bangunan L: 48 + 20 = 68.
 - **C benar** — Halaman = 50 × 30 = 1500 m². Bangunan L = 8 × 6 + 4 × 5 = 48 + 20 = 68 m². Sisa = 1500 − 68 = **1432 m²**.
 - **D salah** — Menjumlahkan, padahal bangunan harusnya dikurangi: 1500 + 68 = 1568.
+
+- **Konsep kunci:** Luas area di luar bangunan = luas halaman dikurangi luas bangunan L di dalamnya.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 50 × 30 = 1500 m².
+  2. Luas bangunan L = 8 × 6 + 4 × 5 = 48 + 20 = 68 m².
+  3. Kurangkan: 1500 − 68 = 1432 m².
 
 ---
 
@@ -1204,6 +1570,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Trapesium = 50 cm². Segitiga = ½ × 12 × 4 = 24 cm². Total = 50 + 24 = **74 cm²**.
 - **D salah** — Lupa bagi 2 keduanya: 100 + 48 = 148, salah hitung 98.
 
+- **Konsep kunci:** Luas gabungan trapesium dan segitiga = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas trapesium = ½ × (12 + 8) × 5 = 50 cm².
+  2. Luas segitiga = ½ × 12 × 4 = 24 cm².
+  3. Jumlahkan: 50 + 24 = 74 cm².
+
 ---
 
 **63.** Bangun gabungan terdiri atas 2 lingkaran identik r = 7 cm yang saling bersinggungan luar dan 1 persegi panjang 14 cm × 14 cm yang dibatasi keduanya. Luas total bangun (π = 22/7) tanpa overlap (tidak ada overlap, lingkaran hanya menyentuh) adalah ....
@@ -1219,6 +1591,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya 1 lingkaran: 22/7 × 49 = 154.
 - **C salah** — Hanya 2 lingkaran tanpa persegi panjang: 2 × 154 = 308.
 - **D benar** — Persegi panjang = 14 × 14 = 196 cm². 2 lingkaran = 2 × 154 = 308 cm². Total = 196 + 308 = **504 cm²**.
+
+- **Konsep kunci:** Luas gabungan beberapa bangun terpisah = jumlah luas semua bagian penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 14 × 14 = 196 cm².
+  2. Luas dua lingkaran r = 7 cm: 2 × (22/7 × 49) = 308 cm².
+  3. Jumlahkan: 196 + 308 = 504 cm².
 
 ---
 
@@ -1236,6 +1614,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Atas = 16 × 4 = 64 m². Tegak = 6 × 10 = 60 m². Total = 64 + 60 = **124 m²**.
 - **D salah** — Mengira pembungkus persegi panjang 16 × 10 = 160.
 
+- **Konsep kunci:** Luas bentuk T = jumlah luas dua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Luas bagian atas = 16 × 4 = 64 m².
+  2. Luas bagian tegak = 6 × 10 = 60 m².
+  3. Jumlahkan: 64 + 60 = 124 m².
+
 ---
 
 **65.** Sebuah lantai berbentuk persegi panjang 18 m × 12 m. Di salah satu sudutnya ada area karpet persegi 4 m × 4 m, dan di sudut lain ada area karpet bulat r = 2 m. Luas lantai BUKAN karpet (π = 3,14) adalah ....
@@ -1251,6 +1635,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya total karpet: 16 + 12,56 = 28,56.
 - **C benar** — Lantai = 18 × 12 = 216 m². Karpet persegi = 16 m². Karpet bulat = 3,14 × 4 = 12,56 m². Total karpet = 28,56 m². Lantai bukan karpet = 216 − 28,56 = **187,44 m²**.
 - **D salah** — Menjumlahkan karpet: 216 + 28,56 = 244,56.
+
+- **Konsep kunci:** Jika ada lebih dari satu bagian yang dikurangi, jumlahkan dulu semua bagian pengurang sebelum dikurangkan sekali dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 18 × 12 = 216 m².
+  2. Jumlahkan luas kedua karpet: persegi (16) + bulat r=2 (3,14 × 4 = 12,56) = 28,56 m².
+  3. Kurangkan: 216 − 28,56 = 187,44 m².
 
 ---
 
@@ -1268,6 +1658,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — 2 trapesium × 32 = **64 cm²**.
 - **D salah** — Lupa bagi 2 trapesium: 64 × 2,5 = 160 atau salah hitung 80.
 
+- **Konsep kunci:** Dua bangun identik yang disatukan menghasilkan luas total dua kali luas satu bangun.
+- **Langkah Penyelesaian:**
+  1. Luas satu trapesium = ½ × (10 + 6) × 4 = 32 cm².
+  2. Ada dua trapesium identik.
+  3. Kalikan: 2 × 32 = 64 cm².
+
 ---
 
 **67.** Sebuah jendela bulat (lingkaran utuh) berjari-jari 21 cm. Di tepinya dibuat bingkai lebar 3 cm (cincin). Luas bingkai (π = 22/7) adalah ....
@@ -1284,6 +1680,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Luas bingkai = lingkaran luar (r = 24) − lingkaran dalam (r = 21) = 22/7 × (576 − 441) = 22/7 × 135 ≈ **424,3 cm²** ≈ 423,4 (pembulatan).
 - **D salah** — Mengira keliling × lebar: 2π × 21 × 3 / π = 126 (atau salah 196).
 
+- **Konsep kunci:** Luas bingkai berbentuk cincin = luas lingkaran luar dikurangi luas lingkaran dalam.
+- **Langkah Penyelesaian:**
+  1. Luas lingkaran luar r = 24 cm: 22/7 × 576 ≈ 1809,4 cm².
+  2. Luas lingkaran dalam r = 21 cm: 22/7 × 441 = 1386 cm².
+  3. Kurangkan: 1809,4 − 1386 ≈ 423,4 cm².
+
 ---
 
 **68.** Sebuah taman berbentuk persegi 30 m × 30 m. Di tengahnya ada kolam berbentuk lingkaran r = 7 m. Luas taman BUKAN kolam (π = 22/7) adalah ....
@@ -1299,6 +1701,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya kolam.
 - **C benar** — Taman = 900 m². Kolam = 22/7 × 49 = 154 m². Sisa = 900 − 154 = **746 m²**.
 - **D salah** — Menjumlahkan, padahal harusnya dikurangi: 900 + 154 = 1054.
+
+- **Konsep kunci:** Luas area di luar bagian dalam = luas total dikurangi luas bagian dalam itu.
+- **Langkah Penyelesaian:**
+  1. Luas taman = 30 × 30 = 900 m².
+  2. Luas kolam r = 7 m: 22/7 × 49 = 154 m².
+  3. Kurangkan: 900 − 154 = 746 m².
 
 ---
 
@@ -1318,6 +1726,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 
 *(Catatan: opsi C diulang dari A sebagai jebakan. Jika opsi C harus berbeda, gunakan: C. 89,12 − 36,56 = 50,56 (salah hitung).)*
 
+- **Konsep kunci:** Untuk mencari selisih luas dan keliling, hitung dulu keduanya secara terpisah baru kurangkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas: persegi (64) + setengah lingkaran (½ × 3,14 × 16 = 25,12) = 89,12 cm².
+  2. Hitung keliling: 3 sisi persegi (24) + busur setengah lingkaran (3,14 × 4 = 12,56) = 36,56 cm.
+  3. Kurangkan: 89,12 − 36,56 = 52,56.
+
 ---
 
 **70.** Sebuah lapangan berbentuk persegi panjang 70 m × 50 m. Di sudut kiri atas ada bunderan (seperempat lingkaran r = 14 m). Luas lapangan tanpa bunderan (π = 22/7) adalah ....
@@ -1333,6 +1747,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya seperempat lingkaran: ¼ × 22/7 × 196 = 154.
 - **C benar** — Lapangan = 70 × 50 = 3500 m². Seperempat lingkaran r = 14: ¼ × 22/7 × 196 = 154 m². Sisa = 3500 − 154 = **3346 m²**.
 - **D salah** — Menjumlahkan: 3500 + 154 = 3654.
+
+- **Konsep kunci:** Luas area tanpa bagian tertentu = luas total dikurangi luas bagian tersebut.
+- **Langkah Penyelesaian:**
+  1. Luas lapangan = 70 × 50 = 3500 m².
+  2. Luas seperempat lingkaran r = 14 m: ¼ × 22/7 × 196 = 154 m².
+  3. Kurangkan: 3500 − 154 = 3346 m².
 
 ---
 
@@ -1350,6 +1770,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Trapesium = 90 cm². Segitiga = ½ × 18 × 4 = 36 cm². Total = 90 + 36 = **126 cm²**.
 - **D salah** — Lupa bagi 2 keduanya: 180 + 72 = 252 atau salah hitung 162.
 
+- **Konsep kunci:** Luas gabungan trapesium dan segitiga = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas trapesium = ½ × (12 + 18) × 6 = 90 cm².
+  2. Luas segitiga = ½ × 18 × 4 = 36 cm².
+  3. Jumlahkan: 90 + 36 = 126 cm².
+
 ---
 
 **72.** Sebuah bangun berbentuk dua persegi panjang yang membentuk silang (+): horizontal 12 cm × 3 cm, vertikal 3 cm × 12 cm. Bangun horizontal dan vertikal berpotongan di tengah (overlap persegi 3 × 3 = 9 cm²). Luas total bangun adalah ....
@@ -1365,6 +1791,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya 1 persegi panjang.
 - **C benar** — Persegi panjang horizontal = 36 cm². Persegi panjang vertikal = 36 cm². Overlap = 9 cm² (dihitung dua kali). Total = 36 + 36 − 9 = **63 cm²**.
 - **D salah** — Salah mengurangi: 72 + 9 = 81 (menambah overlap, salah arah).
+
+- **Konsep kunci:** Saat dua persegi panjang saling berpotongan membentuk silang, bagian yang tumpang tindih dihitung dua kali sehingga harus dikurangi sekali.
+- **Langkah Penyelesaian:**
+  1. Hitung luas horizontal = 12 × 3 = 36 cm² dan luas vertikal = 3 × 12 = 36 cm².
+  2. Jumlahkan keduanya: 36 + 36 = 72 cm².
+  3. Kurangi luas overlap yang terhitung dua kali: 72 − 9 = 63 cm².
 
 ---
 
@@ -1382,6 +1814,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Tepi luar: 3 sisi persegi (kiri, atas, bawah) = 3 × 12 = 36 cm. Busur setengah lingkaran r = 6: π × r = 18,84 cm. Total = 36 + 18,84 = **54,84 cm**.
 - **D salah** — Menambah diameter ikut: 36 + 12 + 18,84 = 66,84.
 
+- **Konsep kunci:** Untuk keliling bangun gabungan, sisi yang tertutup digantikan busur lingkaran.
+- **Langkah Penyelesaian:**
+  1. Hitung 3 sisi persegi yang menjadi tepi luar: 3 × 12 = 36 cm.
+  2. Hitung busur setengah lingkaran r = 6 cm: 3,14 × 6 = 18,84 cm.
+  3. Jumlahkan: 36 + 18,84 = 54,84 cm.
+
 ---
 
 **74.** Sebuah lantai persegi panjang 24 m × 18 m. Di salah satu sudutnya ada area meeting persegi 6 m × 6 m, di sudut lain area kantin persegi panjang 5 m × 4 m. Luas lantai sisa adalah ....
@@ -1397,6 +1835,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya total area khusus: 36 + 20 = 56.
 - **C benar** — Lantai = 432 m². Total area khusus = 36 + 20 = 56 m². Sisa = 432 − 56 = **376 m²**.
 - **D salah** — Menjumlahkan: 432 + 56 = 488.
+
+- **Konsep kunci:** Jika ada lebih dari satu area khusus yang dikurangi, jumlahkan dulu semuanya sebelum dikurangkan sekali dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas lantai = 24 × 18 = 432 m².
+  2. Jumlahkan luas kedua area khusus: 36 + 20 = 56 m².
+  3. Kurangkan: 432 − 56 = 376 m².
 
 ---
 
@@ -1414,6 +1858,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C benar** — Persegi = 100 cm². 2 setengah lingkaran = 1 lingkaran utuh: 78,5 cm². Total = 100 + 78,5 = **178,5 cm²**.
 - **D salah** — Menggandakan lingkaran: 100 + 78,5 × 2 = 257.
 
+- **Konsep kunci:** Dua setengah lingkaran identik di sisi berlawanan bergabung menjadi satu lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 10 × 10 = 100 cm².
+  2. Gabungan dua setengah lingkaran r = 5 cm setara 1 lingkaran: 3,14 × 25 = 78,5 cm².
+  3. Jumlahkan: 100 + 78,5 = 178,5 cm².
+
 ---
 
 **76.** Sebuah jendela bertudung dengan persegi panjang 80 cm × 120 cm dan setengah lingkaran berdiameter 80 cm di atas. Berapa luas kaca jendela total? (π = 3,14)
@@ -1429,6 +1879,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya setengah lingkaran r = 40: ½ × 3,14 × 1600 = 2512.
 - **C benar** — Persegi panjang = 9600 cm². Setengah lingkaran = 2512 cm². Total = 9600 + 2512 = **12112 cm²**.
 - **D salah** — Mengira lingkaran utuh: 5024; 9600 + 5024 = 14624.
+
+- **Konsep kunci:** Luas jendela bertudung = luas persegi panjang ditambah luas setengah lingkaran di atasnya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 80 × 120 = 9600 cm².
+  2. Luas setengah lingkaran r = 40 cm: ½ × 3,14 × 1600 = 2512 cm².
+  3. Jumlahkan: 9600 + 2512 = 12112 cm².
 
 ---
 
@@ -1452,6 +1908,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 
 *(Kunci: D)*
 
+- **Konsep kunci:** Hitung dulu keliling bangun gabungan (tepi luar), baru cari sisa pita dengan mengurangkannya dari panjang pita mula-mula.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling bangun: 2 sisi pendek (10 + 10 = 20) + 1 sisi panjang tak tertutup (14) + busur setengah lingkaran r = 7 (22/7 × 7 = 22) = 56 cm.
+  2. Kurangkan dari panjang pita mula-mula: 100 − 56.
+  3. Hasil: sisa pita = 44 cm (sesuai kunci terkoreksi D).
+
 ---
 
 **78.** Sebuah taman terdiri atas seperempat lingkaran r = 14 m dan persegi 14 m × 14 m yang berbagi sudut lengkungan. Luas taman (π = 22/7) adalah ....
@@ -1467,6 +1929,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya seperempat lingkaran: ¼ × 22/7 × 196 = 154.
 - **C benar** — Persegi = 196 m². Seperempat lingkaran = 154 m². Total = 196 + 154 = **350 m²**.
 - **D salah** — Mengira setengah lingkaran: 308; 154 + 308 = 462.
+
+- **Konsep kunci:** Luas gabungan = luas persegi ditambah luas seperempat lingkaran yang menempel.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 14 × 14 = 196 m².
+  2. Luas seperempat lingkaran r = 14 m: ¼ × 22/7 × 196 = 154 m².
+  3. Jumlahkan: 196 + 154 = 350 m².
 
 ---
 
@@ -1484,6 +1952,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **C salah** — Hanya 3 segitiga.
 - **D benar** — 4 segitiga × 6,92 = **27,68 cm²**.
 
+- **Konsep kunci:** Jika beberapa bangun identik disusun bersama, luas total = banyak bangun × luas satu bangun.
+- **Langkah Penyelesaian:**
+  1. Luas satu segitiga = ½ × 4 × 3,46 = 6,92 cm².
+  2. Ada 4 segitiga identik.
+  3. Kalikan: 4 × 6,92 = 27,68 cm².
+
 ---
 
 **80.** Sebuah ruangan berbentuk L: gabungan persegi 8 × 8 m dan persegi 5 × 5 m yang menempel di sisi. Bangun pembungkusnya persegi panjang. Luas pembungkus dikurangi luas bangun L adalah luas "ruang kosong" yang BUKAN ruangan. Berapa luas ruang kosong tersebut?
@@ -1499,6 +1973,12 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - **B salah** — Hanya persegi besar.
 - **C benar** — Pembungkus = (8+5) × 8 = 13 × 8 = 104 m². Luas bangun L = 64 + 25 = 89 m². Ruang kosong = 104 − 89 = **15 m²**.
 - **D salah** — Salah hitung; pembungkus mungkin 13 × 5 = 65, 65 − 25 = 40.
+
+- **Konsep kunci:** Ruang kosong pada bangun L = luas persegi panjang pembungkus dikurangi luas bangun L itu sendiri.
+- **Langkah Penyelesaian:**
+  1. Luas pembungkus = (8 + 5) × 8 = 104 m².
+  2. Luas bangun L = 8 × 8 + 5 × 5 = 64 + 25 = 89 m².
+  3. Kurangkan: 104 − 89 = 15 m².
 
 ---
 
@@ -1522,6 +2002,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Taman = 1500 m². 4 seperempat lingkaran r = 5 = 1 lingkaran: 22/7 × 25 ≈ 78,57 m². Kolam r = 7 = 22/7 × 49 = 154 m². Total dikurangi = 78,57 + 154 = 232,57. Sisa rumput = 1500 − 232,57 ≈ **1267,43 m²**.
 - **D salah** — Lupa kurangi kolam: 1500 − 78,57 = 1421,43.
 
+- **Konsep kunci:** Jika ada beberapa bagian yang harus dikurangi, jumlahkan dulu semua luas pengurang, baru kurangkan sekaligus dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas taman = 50 × 30 = 1500 m².
+  2. Jumlahkan luas 4 seperempat lingkaran (setara 1 lingkaran r=5, ≈78,57) dan kolam r=7 (154): 78,57 + 154 ≈ 232,57 m².
+  3. Kurangkan: 1500 − 232,57 ≈ 1267,43 m².
+
 ---
 
 **82.** Bangun terdiri atas 1 persegi panjang 20 cm × 12 cm dan 4 segitiga siku-siku (kaki 6 cm dan 12 cm) di tiap sisi pendek (2 di kiri, 2 di kanan, menempel). Luas total bangun adalah ....
@@ -1537,6 +2023,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya 4 segitiga: 4 × ½ × 6 × 12 = 144.
 - **C benar** — Persegi panjang = 240 cm². 4 segitiga = 4 × ½ × 6 × 12 = 144 cm². Total = 240 + 144 = **384 cm²**.
 - **D salah** — Lupa bagi 2 segitiga: 288 + 240 = 528 atau salah hitung 480.
+
+- **Konsep kunci:** Jika ada beberapa segitiga identik yang menempel, hitung luas satu segitiga lalu kalikan dengan banyaknya.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 20 × 12 = 240 cm².
+  2. Luas satu segitiga = ½ × 6 × 12 = 36 cm²; untuk 4 segitiga = 144 cm².
+  3. Jumlahkan: 240 + 144 = 384 cm².
 
 ---
 
@@ -1554,6 +2046,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Trapesium = 128 m². Persegi panjang = 100 m². Total = 128 + 100 = **228 m²**.
 - **D salah** — Lupa bagi 2 trapesium: 256 + 100 = 356 atau salah hitung 320.
 
+- **Konsep kunci:** Luas gabungan trapesium dan persegi panjang = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas trapesium = ½ × (20 + 12) × 8 = 128 m².
+  2. Luas persegi panjang = 20 × 5 = 100 m².
+  3. Jumlahkan: 128 + 100 = 228 m².
+
 ---
 
 **84.** Sebuah arena berbentuk gabungan: persegi panjang 60 m × 40 m dengan setengah lingkaran berdiameter 40 m di kedua sisi pendek. Lintasan luar arena dipasang lampu setiap 4 m. Banyak lampu yang dibutuhkan (π = 3,14) adalah ....
@@ -1570,6 +2068,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Keliling arena = 2 sisi panjang (120) + 1 keliling lingkaran (125,6) = 245,6 m. Jumlah lampu = 245,6 / 4 ≈ 61,4 → bulatkan ke atas = **62 lampu**.
 - **D salah** — Salah hitung keliling dengan menambah diameter ikut: 245,6 + 80 = 325,6; / 4 ≈ 81 → 78.
 
+- **Konsep kunci:** Setelah mendapat keliling total, bagi dengan jarak antar lampu dan bulatkan ke atas agar seluruh tepi tertutup lampu.
+- **Langkah Penyelesaian:**
+  1. Hitung keliling arena: 2 sisi panjang (120) + keliling 1 lingkaran penuh r=20 (2 × 3,14 × 20 = 125,6) = 245,6 m.
+  2. Bagi dengan jarak antar lampu: 245,6 ÷ 4 ≈ 61,4.
+  3. Bulatkan ke atas: 62 lampu.
+
 ---
 
 **85.** Bangun gabungan terdiri atas persegi 14 × 14 cm, setengah lingkaran r = 7 cm di sisi atas, dan seperempat lingkaran r = 7 cm di sudut kanan atas (TUMPANG TINDIH dengan setengah lingkaran). Luas TOTAL setelah dikurangi overlap (jika overlap = 1/4 × lingkaran kecil r = 7) (π = 22/7) adalah ....
@@ -1585,6 +2089,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya persegi + seperempat lingkaran.
 - **C benar** — Persegi (196) + setengah lingkaran (77) + seperempat lingkaran (38,5) − overlap (38,5) = **273 cm²**. Karena seperempat lingkaran sepenuhnya berada di dalam setengah lingkaran, overlap = luas seperempat lingkaran sehingga total = persegi + setengah lingkaran = 273 cm².
 - **D salah** — Hanya persegi.
+
+- **Konsep kunci:** Jika ada bagian yang tumpang tindih (overlap), luas overlap harus dikurangi sekali dari jumlah semua bagian.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua bagian: persegi (196) + setengah lingkaran (77) + seperempat lingkaran (38,5).
+  2. Kurangi luas overlap (seperempat lingkaran yang sepenuhnya berada di dalam setengah lingkaran) = 38,5.
+  3. Hasil: 196 + 77 + 38,5 − 38,5 = 273 cm².
 
 ---
 
@@ -1608,6 +2118,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 
 *(Kunci: C)*
 
+- **Konsep kunci:** Jika ada beberapa bagian yang dikurangi, jumlahkan dulu semua luas pengurang, baru kurangkan sekali dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 60 × 40 = 2400 m².
+  2. Jumlahkan luas bangunan L (12×8 + 6×5 = 126) dan kolam (22/7 × 49 = 154): 126 + 154 = 280 m².
+  3. Kurangkan: 2400 − 280 = 2120 m² (sesuai kunci terkoreksi C).
+
 ---
 
 **87.** Sebuah bangun terdiri atas persegi panjang 30 cm × 20 cm dengan 4 sudut dipotong masing-masing segitiga siku-siku kaki 5 cm dan 4 cm. Luas bangun yang tersisa adalah ....
@@ -1623,6 +2139,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya total 4 segitiga: 4 × ½ × 5 × 4 = 40.
 - **C benar** — Persegi panjang = 600 cm². 4 segitiga dipotong = 40 cm². Sisa = 600 − 40 = **560 cm²**.
 - **D salah** — Menjumlahkan, padahal dipotong: 600 + 40 = 640.
+
+- **Konsep kunci:** Jika beberapa bagian identik dipotong dari sudut-sudut bangun, jumlahkan dulu luas semua potongan sebelum dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang utuh = 30 × 20 = 600 cm².
+  2. Jumlahkan luas 4 segitiga yang dipotong: 4 × (½ × 5 × 4) = 40 cm².
+  3. Kurangkan: 600 − 40 = 560 cm².
 
 ---
 
@@ -1640,6 +2162,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Persegi panjang = 24 × 16 = 384 cm². Tambah setengah lingkaran atas (menambah luas) = +½ × 3,14 × 5² = +39,25. Kurang setengah lingkaran bawah (mengurangi luas, karena ke dalam) = −39,25. Total = 384 + 39,25 − 39,25 = **384 cm²**.
 - **D salah** — Lupa bahwa setengah lingkaran bawah MENGURANGI, malah menambah: 423,25.
 
+- **Konsep kunci:** Setengah lingkaran yang menjorok keluar MENAMBAH luas, sedangkan yang menjorok ke dalam MENGURANGI luas; jika ukurannya sama, keduanya saling meniadakan.
+- **Langkah Penyelesaian:**
+  1. Luas persegi panjang = 24 × 16 = 384 cm².
+  2. Tambahkan setengah lingkaran atas (+39,25) dan kurangi setengah lingkaran bawah (−39,25).
+  3. Karena besarnya sama, keduanya saling meniadakan sehingga total tetap 384 cm².
+
 ---
 
 **89.** Sebuah ruangan berbentuk persegi panjang 12 m × 8 m akan dipasangi lantai dari ubin kombinasi: 80% ubin biasa (ukuran 40 cm × 40 cm), 20% ubin motif (ukuran 20 cm × 20 cm). Berapa banyak ubin motif yang dibutuhkan?
@@ -1655,6 +2183,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — 1200 ubin biasa 40×40 untuk 100% (96 m² / 0,16 m² ≈ 600 untuk semua).
 - **C benar** — Luas ruangan = 96 m² = 960.000 cm². Luas ubin motif 20×20 = 400 cm². Area ubin motif = 20% × 960.000 = 192.000 cm². Banyak ubin motif = 192.000 / 400 = **480 ubin**.
 - **D salah** — Salah persen: 20% × 480 ubin biasa = 96.
+
+- **Konsep kunci:** Untuk mencari jumlah ubin dari sebagian luas, hitung dulu luas bagian tersebut lalu bagi dengan luas satu ubin.
+- **Langkah Penyelesaian:**
+  1. Luas ruangan = 12 × 8 = 96 m² = 960.000 cm².
+  2. Luas untuk ubin motif = 20% × 960.000 = 192.000 cm².
+  3. Bagi dengan luas satu ubin motif: 192.000 ÷ (20 × 20) = 480 ubin.
 
 ---
 
@@ -1672,6 +2206,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Persegi = 441 cm². 4 seperempat lingkaran = 1 lingkaran utuh r = 21: 22/7 × 441 = 1386 cm². Total = 441 + 1386 = **1827 cm²**.
 - **D salah** — Menggandakan lingkaran: 441 + 2772 = salah hitung 2772.
 
+- **Konsep kunci:** Empat seperempat lingkaran identik di keempat sudut setara dengan satu lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 21 × 21 = 441 cm².
+  2. 4 seperempat lingkaran r = 21 cm setara 1 lingkaran penuh: 22/7 × 441 = 1386 cm².
+  3. Jumlahkan: 441 + 1386 = 1827 cm².
+
 ---
 
 **91.** Bangun gabungan: persegi 14 × 14, dengan setengah lingkaran r = 7 menempel di sisi atas + setengah lingkaran r = 7 menempel di sisi bawah + setengah lingkaran r = 7 menempel di sisi kiri + setengah lingkaran r = 7 menempel di sisi kanan. Luas total bangun (π = 22/7) adalah ....
@@ -1687,6 +2227,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya 4 setengah lingkaran (= 2 lingkaran utuh r = 7): 2 × 154 = 308.
 - **C benar** — Persegi = 196 cm². 4 setengah lingkaran = 2 lingkaran r = 7: 2 × (22/7 × 49) = 2 × 154 = 308 cm². Total = 196 + 308 = **504 cm²**.
 - **D salah** — Mengira 4 lingkaran utuh: 196 + 4 × 154 = 812 (atau salah hitung 616).
+
+- **Konsep kunci:** Empat setengah lingkaran identik yang menempel di keempat sisi setara dengan dua lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Luas persegi = 14 × 14 = 196 cm².
+  2. 4 setengah lingkaran r = 7 cm setara 2 lingkaran penuh: 2 × (22/7 × 49) = 308 cm².
+  3. Jumlahkan: 196 + 308 = 504 cm².
 
 ---
 
@@ -1710,6 +2256,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C salah** — Hanya keliling persegi besar 10 × 10 ditambah 10 cm = 50 × 1500 = 75.000.
 - **D salah** — Salah hitung 35 cm.
 
+- **Konsep kunci:** Biaya pita untuk mengelilingi bangun = keliling bangun (mengikuti pembungkusnya) dikalikan harga per satuan panjang.
+- **Langkah Penyelesaian:**
+  1. Tentukan keliling bangun L (mengikuti kunci, memakai keliling pembungkus persegi 10 × 10 = 40 cm).
+  2. Kalikan dengan harga per cm: 40 × Rp1.500.
+  3. Hasil: total biaya = Rp60.000.
+
 ---
 
 **93.** Bangun terdiri atas trapesium ABCD (AB ∥ CD, AB = 20, CD = 12, tinggi 6) dan setengah lingkaran berdiameter 12 cm yang menempel di sisi CD. Luas total bangun (π = 3,14) adalah ....
@@ -1725,6 +2277,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya setengah lingkaran r = 6: ½ × 3,14 × 36 = 56,52.
 - **C benar** — Trapesium = 96 cm². Setengah lingkaran r = 6 = 56,52 cm². Total = 96 + 56,52 = **152,52 cm²**.
 - **D salah** — Mengira lingkaran utuh: 96 + 113,04 = 209,04.
+
+- **Konsep kunci:** Luas gabungan trapesium dan setengah lingkaran = jumlah luas masing-masing bagian.
+- **Langkah Penyelesaian:**
+  1. Luas trapesium = ½ × (20 + 12) × 6 = 96 cm².
+  2. Luas setengah lingkaran r = 6 cm: ½ × 3,14 × 36 = 56,52 cm².
+  3. Jumlahkan: 96 + 56,52 = 152,52 cm².
 
 ---
 
@@ -1742,6 +2300,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Alas = 64 m². 2 tegakan = 2 × 32 = 64 m². Total = 64 + 64 = **128 m²**.
 - **D salah** — Pembungkus persegi panjang 16 × 12 = 192.
 
+- **Konsep kunci:** Bentuk U terdiri atas tiga persegi panjang: satu alas dan dua tegakan yang sama besar.
+- **Langkah Penyelesaian:**
+  1. Luas alas = 16 × 4 = 64 m².
+  2. Luas dua tegakan = 2 × (4 × 8) = 64 m².
+  3. Jumlahkan: 64 + 64 = 128 m².
+
 ---
 
 **95.** Sebuah halaman berbentuk persegi panjang 25 m × 18 m. Di sudut dipasang dua kolam: kolam A berbentuk seperempat lingkaran r = 4 m, kolam B berbentuk seperempat lingkaran r = 3 m. Luas halaman BUKAN kolam (π = 3,14) adalah ....
@@ -1757,6 +2321,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya total kolam: ¼ × 3,14 × 16 + ¼ × 3,14 × 9 = 12,56 + 7,065 = 19,625.
 - **C benar** — Halaman = 450 m². Total kolam = 12,56 + 7,065 = 19,625 m². Sisa = 450 − 19,625 = **430,375 m²**.
 - **D salah** — Menjumlahkan: 450 + 19,625 = 469,625.
+
+- **Konsep kunci:** Jika ada lebih dari satu bagian yang dikurangi, jumlahkan dulu semua bagian pengurang sebelum dikurangkan sekali dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas halaman = 25 × 18 = 450 m².
+  2. Jumlahkan luas kolam A (¼ × 3,14 × 16 = 12,56) dan kolam B (¼ × 3,14 × 9 = 7,065): 19,625 m².
+  3. Kurangkan: 450 − 19,625 = 430,375 m².
 
 ---
 
@@ -1774,6 +2344,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Persegi panjang horizontal = 64 cm². Persegi panjang vertikal = 64 cm². Overlap (persegi 4×4) = 16 cm². Total = 64 + 64 − 16 = **112 cm²**.
 - **D salah** — Salah arah: 128 + 16 = 144.
 
+- **Konsep kunci:** Saat dua persegi panjang saling berpotongan membentuk silang, bagian yang tumpang tindih dihitung dua kali sehingga harus dikurangi sekali.
+- **Langkah Penyelesaian:**
+  1. Hitung luas horizontal = 16 × 4 = 64 cm² dan luas vertikal = 4 × 16 = 64 cm².
+  2. Jumlahkan keduanya: 64 + 64 = 128 cm².
+  3. Kurangi luas overlap yang terhitung dua kali: 128 − 16 = 112 cm².
+
 ---
 
 **97.** Sebuah lantai berbentuk gabungan: persegi panjang 30 m × 20 m dengan setengah lingkaran berdiameter 20 m yang menempel di sisi pendek kanan. Lantai akan diberi karpet seharga Rp50.000/m². Total biaya karpet (π = 3,14) adalah ....
@@ -1789,6 +2365,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya setengah lingkaran × harga: 157 × 50.000 = 7.850.000 (mungkin salah hitung 15.700.000).
 - **C benar** — Luas = 30 × 20 + ½ × 3,14 × 10² = 600 + 157 = 757 m². Biaya = 757 × 50.000 = **Rp37.850.000**.
 - **D salah** — Lingkaran utuh: 600 + 314 = 914; × 50.000 = 45.700.000.
+
+- **Konsep kunci:** Hitung dulu luas total bangun, baru kalikan dengan harga per meter persegi untuk mendapatkan biaya.
+- **Langkah Penyelesaian:**
+  1. Hitung luas total: 30 × 20 + ½ × 3,14 × 10² = 600 + 157 = 757 m².
+  2. Kalikan dengan harga per m²: 757 × Rp50.000.
+  3. Hasil: total biaya = Rp37.850.000.
 
 ---
 
@@ -1806,6 +2388,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **C benar** — Taman = 1500 m². Kolam = persegi (36) + setengah lingkaran r = 3 (½ × 3,14 × 9 = 14,13) = 50,13 m². Sisa = 1500 − 50,13 = **1449,87 m²**.
 - **D salah** — Menjumlahkan: 1500 + 50,13 = 1550,13.
 
+- **Konsep kunci:** Jika bagian yang dikurangi berupa bangun gabungan, jumlahkan dulu bagian-bagiannya sebelum dikurangkan dari luas total.
+- **Langkah Penyelesaian:**
+  1. Luas taman = 50 × 30 = 1500 m².
+  2. Hitung luas kolam gabungan: persegi (36) + setengah lingkaran r=3 (½ × 3,14 × 9 = 14,13) = 50,13 m².
+  3. Kurangkan: 1500 − 50,13 = 1449,87 m².
+
 ---
 
 **99.** Sebuah bangun gabungan terdiri atas 1 lingkaran utuh r = 14 cm dengan 4 setengah lingkaran identik r = 7 cm yang menempel di tepi lingkaran besar pada 4 titik (atas, bawah, kiri, kanan), MENJOROK keluar. Luas total bangun (π = 22/7) adalah ....
@@ -1821,6 +2409,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - **B salah** — Hanya 4 setengah lingkaran (= 2 lingkaran r = 7): 2 × 154 = 308.
 - **C benar** — Lingkaran besar r = 14 = 22/7 × 196 = 616 cm². 4 setengah lingkaran r = 7 = 2 lingkaran utuh r = 7 = 2 × 154 = 308 cm². Total = 616 + 308 = **924 cm²**.
 - **D salah** — Mengira 4 lingkaran utuh kecil: 616 + 4 × 154 = 1232.
+
+- **Konsep kunci:** Beberapa setengah lingkaran identik yang menempel setara dengan lingkaran-lingkaran penuh yang harus dijumlahkan ke bangun utama.
+- **Langkah Penyelesaian:**
+  1. Luas lingkaran besar r = 14 cm: 22/7 × 196 = 616 cm².
+  2. 4 setengah lingkaran r = 7 cm setara 2 lingkaran penuh: 2 × 154 = 308 cm².
+  3. Jumlahkan: 616 + 308 = 924 cm².
 
 ---
 
@@ -1841,6 +2435,12 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 *(Catatan: jawaban benar = 1582 cm² → opsi C. Opsi D = 1428 = 1736 − 2×154 (salah hitung).)*
 
 *(Kunci: C)*
+
+- **Konsep kunci:** Untuk bangun berlapis (tambah lalu kurang), kerjakan bertahap: jumlahkan dulu bagian yang menambah luas, baru kurangi bagian yang dilubangi.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan persegi panjang (40 × 28 = 1120) dan 2 setengah lingkaran r=14 setara 1 lingkaran (22/7 × 196 = 616): 1120 + 616 = 1736 cm².
+  2. Hitung luas 4 seperempat lingkaran r=7 yang dilubangi (setara 1 lingkaran): 22/7 × 49 = 154 cm².
+  3. Kurangkan: 1736 − 154 = 1582 cm² (sesuai kunci terkoreksi C).
 
 ---
 

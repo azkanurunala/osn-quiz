@@ -112,6 +112,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 8 = data ke-4 setelah urut, bukan tengah.
 - **C** — Benar. Urut: 5, 6, 7, 8, 9. n=5 ganjil. Posisi tengah = (5+1)/2 = 3. Data ke-3 = **7**. ✅
 - **D** — 9 = data terbesar, bukan median.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data: 5, 6, 7, 8, 9.
+  2. n=5 (ganjil), posisi tengah = (5+1)/2 = 3.
+  3. Data ke-3 = 7, jadi median = 7.
 
 ---
 
@@ -127,6 +132,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 130 = data terkecil.
 - **C** — 145 = data terbesar.
 - **D** — 140 = hanya ambil 1 data tengah (data ke-3), lupa rata-rata dua data tengah.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 130, 135, 140, 145.
+  2. n=4, dua data tengah = ke-2 dan ke-3 = 135 dan 140.
+  3. Median = (135+140)/2 = 137,5.
 
 ---
 
@@ -142,6 +152,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 10, 11, 12, 13, 14, 15, 16. n=7. Posisi = (7+1)/2 = 4. Data ke-4 = **13**. ✅
 - **C** — 12 = data ke-3 setelah urut.
 - **D** — 15 = data ke-6 setelah urut.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 10, 11, 12, 13, 14, 15, 16.
+  2. n=7, posisi tengah = (7+1)/2 = 4.
+  3. Data ke-4 = 13, median = 13.
 
 ---
 
@@ -157,6 +172,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 28 = data ke-4 setelah urut, lupa rata-rata.
 - **C** — 26,5 = rata-rata data ke-2 dan ke-3 (salah posisi).
 - **D** — Benar. Urut: 25, 26, 27, 28, 29, 30. n=6 genap. Median = (data ke-3 + data ke-4)/2 = (27+28)/2 = **27,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 25, 26, 27, 28, 29, 30.
+  2. Dua data tengah ke-3 dan ke-4 = 27 dan 28.
+  3. Median = (27+28)/2 = 27,5.
 
 ---
 
@@ -172,6 +192,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 4 = data ke-2 setelah urut.
 - **C** — 8 = data ke-4 setelah urut.
 - **D** — 10 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 2, 4, 6, 8, 10.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 6, median = 6.
 
 ---
 
@@ -187,6 +212,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 10, 10, 11, 11, 11, 12, 12, 12. n=8 genap. Median = (data ke-4 + data ke-5)/2 = (11+11)/2 = **11**. ✅
 - **C** — 11,5 = rata-rata 11 dan 12 (salah posisi).
 - **D** — 12 = data ke-6 setelah urut.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 10, 10, 11, 11, 11, 12, 12, 12.
+  2. Dua data tengah ke-4 dan ke-5 = 11 dan 11.
+  3. Median = (11+11)/2 = 11.
 
 ---
 
@@ -202,6 +232,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 7 = data ke-5 setelah urut.
 - **C** — Benar. Urut: 3, 4, 5, 6, 7, 8, 9. n=7. Posisi = 4. Data ke-4 = **6**. ✅
 - **D** — 8 = data ke-6 setelah urut.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 4, 5, 6, 7, 8, 9.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 6, median = 6.
 
 ---
 
@@ -217,6 +252,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 80 = data ke-4 setelah urut, lupa rata-rata.
 - **C** — 85 = data ke-5 setelah urut.
 - **D** — Benar. Urut: 65, 70, 75, 80, 85, 90. n=6 genap. Median = (75+80)/2 = **77,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 65, 70, 75, 80, 85, 90.
+  2. Dua data tengah ke-3 dan ke-4 = 75 dan 80.
+  3. Median = (75+80)/2 = 77,5.
 
 ---
 
@@ -232,6 +272,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 4 = data ke-3 setelah urut.
 - **C** — 6 = data ke-5 setelah urut.
 - **D** — 3 = data ke-2 setelah urut.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 2, 3, 4, 5, 6, 7, 8.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 5, median = 5.
 
 ---
 
@@ -247,6 +292,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 12, 14, 15, 16, 17, 18, 19, 20. n=8 genap. Median = (data ke-4 + data ke-5)/2 = (16+17)/2 = **16,5**. ✅
 - **C** — 17,5 = rata-rata 17 dan 18, salah posisi.
 - **D** — 16 = data ke-4, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 12, 14, 15, 16, 17, 18, 19, 20.
+  2. Dua data tengah ke-4 dan ke-5 = 16 dan 17.
+  3. Median = (16+17)/2 = 16,5.
 
 ---
 
@@ -262,6 +312,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 7 = data ke-4.
 - **C** — Benar. Data sudah urut, n=5. Data ke-3 = **5**. ✅
 - **D** — 1 = data terkecil.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 1, 3, 5, 7, 9.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 5, median = 5.
 
 ---
 
@@ -277,6 +332,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 70 = data ke-2.
 - **C** — 80 = data ke-3.
 - **D** — Benar. n=4 genap. Median = (70+80)/2 = **75**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 60, 70, 80, 90.
+  2. Dua data tengah = 70 dan 80.
+  3. Median = (70+80)/2 = 75.
 
 ---
 
@@ -292,6 +352,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 5 = data ke-3.
 - **C** — 7 = data ke-5.
 - **D** — 4 = data ke-2.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 4, 5, 6, 7, 8, 9.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 6, median = 6.
 
 ---
 
@@ -307,6 +372,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 75, 80, 85, 90, 95. n=5. Data ke-3 = **85**. ✅
 - **C** — 90 = data ke-4.
 - **D** — 95 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 75, 80, 85, 90, 95.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 85, median = 85.
 
 ---
 
@@ -322,6 +392,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 142 = data ke-4 setelah urut, lupa rata-rata.
 - **C** — Benar. Urut: 138, 139, 140, 142, 143, 145. n=6 genap. Median = (140+142)/2 = **141**. ✅
 - **D** — 143 = data ke-5 setelah urut.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 138, 139, 140, 142, 143, 145.
+  2. Dua data tengah ke-3 dan ke-4 = 140 dan 142.
+  3. Median = (140+142)/2 = 141.
 
 ---
 
@@ -337,6 +412,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 25 = data ke-4 setelah urut.
 - **C** — 28 = panen terbesar.
 - **D** — Benar. Urut: 20, 22, 24, 25, 28. n=5. Data ke-3 = **24**. ✅
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 20, 22, 24, 25, 28.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 24, median = 24.
 
 ---
 
@@ -352,6 +432,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 10 = data ke-5.
 - **C** — 11 = data ke-6.
 - **D** — 8 = data ke-2.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 7, 8, 9, 9, 10, 11, 12.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 9, median = 9.
 
 ---
 
@@ -367,6 +452,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 115 = data ke-4 setelah urut, lupa rata-rata.
 - **C** — Benar. Urut: 100, 105, 110, 115, 120, 130. n=6 genap. Median = (110+115)/2 = **112,5**. ✅
 - **D** — 120 = data ke-5.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 100, 105, 110, 115, 120, 130.
+  2. Dua data tengah ke-3 dan ke-4 = 110 dan 115.
+  3. Median = (110+115)/2 = 112,5.
 
 ---
 
@@ -382,6 +472,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 28, 29, 30, 31, 32. n=5. Data ke-3 = **30**. ✅
 - **C** — 32 = data terbesar.
 - **D** — 31 = data ke-4.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 28, 29, 30, 31, 32.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 30, median = 30.
 
 ---
 
@@ -397,6 +492,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 6 = data ke-6.
 - **C** — 4,5 = rata-rata data ke-3 dan ke-4 (salah posisi tengah).
 - **D** — Benar. Urut: 3, 4, 4, 5, 5, 6, 7, 8. n=8 genap. Median = (data ke-4 + data ke-5)/2 = (5+5)/2 = **5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 4, 4, 5, 5, 6, 7, 8.
+  2. Dua data tengah ke-4 dan ke-5 = 5 dan 5.
+  3. Median = (5+5)/2 = 5.
 
 ---
 
@@ -412,6 +512,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 12 = data ke-2.
 - **C** — 15 = data ke-5.
 - **D** — 16 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 11, 12, 13, 14, 15, 16, 18.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 14, median = 14.
 
 ---
 
@@ -427,6 +532,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 70 = data ke-3, lupa rata-rata.
 - **C** — Benar. n=6 genap. Median = (70+80)/2 = **75**. ✅
 - **D** — 80 = data ke-4, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 50, 60, 70, 80, 90, 100.
+  2. Dua data tengah = 70 dan 80.
+  3. Median = (70+80)/2 = 75.
 
 ---
 
@@ -442,6 +552,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 2, 3, 4, 4, 5, 5, 6. n=7. Data ke-4 = **4**. ✅
 - **C** — 5 = data ke-5 atau ke-6.
 - **D** — 6 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 2, 3, 4, 4, 5, 5, 6.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 4, median = 4.
 
 ---
 
@@ -457,6 +572,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 36 = data ke-2.
 - **C** — 38 = data ke-4, lupa rata-rata.
 - **D** — Benar. n=6 genap. Median = (37+38)/2 = **37,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 35, 36, 37, 38, 39, 40.
+  2. Dua data tengah = 37 dan 38.
+  3. Median = (37+38)/2 = 37,5.
 
 ---
 
@@ -472,6 +592,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 4 = data ke-4.
 - **C** — 6 = data ke-6.
 - **D** — 7 = data ke-7.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 1, 2, 3, 4, 5, 6, 7, 8, 9.
+  2. Posisi tengah = (9+1)/2 = 5.
+  3. Data ke-5 = 5, median = 5.
 
 ---
 
@@ -487,6 +612,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 11 = data ke-2.
 - **C** — Benar. Urut: 10, 11, 12, 14, 15. n=5. Data ke-3 = **12**. ✅
 - **D** — 15 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 10, 11, 12, 14, 15.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 12, median = 12.
 
 ---
 
@@ -502,6 +632,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 5, 6, 7, 7, 8, 8, 9, 10. n=8 genap. Median = (data ke-4 + data ke-5)/2 = (7+8)/2 = **7,5**. ✅
 - **C** — 8 = data ke-5, lupa rata-rata.
 - **D** — 7 = data ke-4, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 5, 6, 7, 7, 8, 8, 9, 10.
+  2. Dua data tengah ke-4 dan ke-5 = 7 dan 8.
+  3. Median = (7+8)/2 = 7,5.
 
 ---
 
@@ -517,6 +652,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 90 = data ke-5 (jika urut naik).
 - **C** — 95 = data ke-6.
 - **D** — Benar. Urut: 70, 75, 80, 85, 90, 95, 100. n=7. Data ke-4 = **85**. ✅
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 70, 75, 80, 85, 90, 95, 100.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 85, median = 85.
 
 ---
 
@@ -532,6 +672,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 6 = data ke-1 atau ke-2.
 - **C** — 8 = data ke-5 atau ke-6.
 - **D** — 9 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 6, 6, 7, 7, 8, 8, 9.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 7, median = 7.
 
 ---
 
@@ -547,6 +692,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 5 = data ke-4, lupa rata-rata.
 - **C** — Benar. n=6 genap. Median = (4+5)/2 = **4,5**. ✅
 - **D** — 4 = data ke-3, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 2, 3, 4, 5, 6, 7.
+  2. Dua data tengah = 4 dan 5.
+  3. Median = (4+5)/2 = 4,5.
 
 ---
 
@@ -562,6 +712,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 20, 21, 22, 23, 24, 25, 26. n=7. Data ke-4 = **23**. ✅
 - **C** — 24 = data ke-5.
 - **D** — 25 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 20, 21, 22, 23, 24, 25, 26.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 23, median = 23.
 
 ---
 
@@ -577,6 +732,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 12 = data ke-4, lupa rata-rata.
 - **C** — 18 = data ke-6.
 - **D** — Benar. Data sudah urut, n=8 genap. Median = (12+15)/2 = **13,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 3, 6, 9, 12, 15, 18, 21, 24.
+  2. Dua data tengah = 12 dan 15.
+  3. Median = (12+15)/2 = 13,5.
 
 ---
 
@@ -592,6 +752,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 3 = data ke-1 atau ke-2.
 - **C** — 5 = data ke-5 atau ke-6.
 - **D** — 6 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 3, 4, 4, 5, 5, 6.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 4, median = 4.
 
 ---
 
@@ -607,6 +772,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 40 = data ke-2, lupa rata-rata.
 - **C** — Benar. n=4 genap. Median = (40+50)/2 = **45**. ✅
 - **D** — 50 = data ke-3, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 30, 40, 50, 60.
+  2. Dua data tengah = 40 dan 50.
+  3. Median = (40+50)/2 = 45.
 
 ---
 
@@ -622,6 +792,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 36, 37, 38, 39, 40. n=5. Data ke-3 = **38**. ✅
 - **C** — 39 = data ke-4.
 - **D** — 37 = data ke-2.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 36, 37, 38, 39, 40.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 38, median = 38.
 
 ---
 
@@ -637,6 +812,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 175 = data ke-3, lupa rata-rata.
 - **C** — 200 = data ke-4, lupa rata-rata.
 - **D** — Benar. Urut: 100, 150, 175, 200, 225, 250. n=6 genap. Median = (175+200)/2 = **187,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 100, 150, 175, 200, 225, 250.
+  2. Dua data tengah = 175 dan 200.
+  3. Median = (175+200)/2 = 187,5.
 
 ---
 
@@ -652,6 +832,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 17 = data ke-5.
 - **C** — 15 = data ke-3.
 - **D** — 18 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 13, 14, 15, 16, 17, 18, 19.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 16, median = 16.
 
 ---
 
@@ -667,6 +852,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 90 = data ke-5, lupa rata-rata.
 - **C** — Benar. n=8 genap. Median = (85+90)/2 = **87,5**. ✅
 - **D** — 85 = data ke-4, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 70, 75, 80, 85, 90, 95, 100, 105.
+  2. Dua data tengah = 85 dan 90.
+  3. Median = (85+90)/2 = 87,5.
 
 ---
 
@@ -682,6 +872,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 8, 9, 10, 11, 12. n=5. Data ke-3 = **10**. ✅
 - **C** — 11 = data ke-4.
 - **D** — 12 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 8, 9, 10, 11, 12.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 10, median = 10.
 
 ---
 
@@ -697,6 +892,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 25 = data ke-5.
 - **C** — Benar. Data sudah urut, n=7. Data ke-4 = **20**. ✅
 - **D** — 10 = data ke-2.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 5, 10, 15, 20, 25, 30, 35.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 20, median = 20.
 
 ---
 
@@ -712,6 +912,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 6 = data ke-3 setelah urut, lupa rata-rata.
 - **C** — 7 = data ke-4 setelah urut, lupa rata-rata.
 - **D** — Benar. Urut: 4, 5, 6, 7, 8, 9. n=6 genap. Median = (6+7)/2 = **6,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 4, 5, 6, 7, 8, 9.
+  2. Dua data tengah = 6 dan 7.
+  3. Median = (6+7)/2 = 6,5.
 
 ---
 
@@ -727,6 +932,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 4 = data ke-2.
 - **C** — 6 = data ke-4.
 - **D** — 7 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 4, 5, 6, 7.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 5, median = 5.
 
 ---
 
@@ -742,6 +952,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. Urut: 10, 11, 12, 13, 14, 15, 16. n=7. Data ke-4 = **13**. ✅
 - **C** — 11 = data ke-2.
 - **D** — 14 = data ke-5.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 10, 11, 12, 13, 14, 15, 16.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 13, median = 13.
 
 ---
 
@@ -757,6 +972,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 6 = data ke-6.
 - **C** — 5 = data ke-5, lupa rata-rata.
 - **D** — Benar. n=10 genap. Median = (data ke-5 + data ke-6)/2 = (5+6)/2 = **5,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 1 sampai 10.
+  2. Dua data tengah ke-5 dan ke-6 = 5 dan 6.
+  3. Median = (5+6)/2 = 5,5.
 
 ---
 
@@ -772,6 +992,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 200 = data terbesar.
 - **C** — Benar. Urut: 50, 75, 100, 150, 200. n=5. Data ke-3 = **100**. ✅
 - **D** — 75 = data ke-2.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 50, 75, 100, 150, 200.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 100, median = 100.
 
 ---
 
@@ -787,6 +1012,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — Benar. n=6 genap. Median = (12+15)/2 = **13,5**. ✅
 - **C** — 15 = data ke-4, lupa rata-rata.
 - **D** — 10 = data ke-2.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 8, 10, 12, 15, 18, 20.
+  2. Dua data tengah = 12 dan 15.
+  3. Median = (12+15)/2 = 13,5.
 
 ---
 
@@ -802,6 +1032,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 75 = data ke-3.
 - **C** — 85 = data ke-5.
 - **D** — Benar. Urut: 60, 70, 75, 80, 85, 90, 95. n=7. Data ke-4 = **80**. ✅
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 60, 70, 75, 80, 85, 90, 95.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 80, median = 80.
 
 ---
 
@@ -817,6 +1052,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 8 = data ke-2.
 - **C** — 12 = data ke-4.
 - **D** — 15 = data terbesar.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 5, 8, 10, 12, 15.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 10, median = 10.
 
 ---
 
@@ -832,6 +1072,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 7 = data ke-4, lupa rata-rata.
 - **C** — Benar. n=6 genap. Median = (6+7)/2 = **6,5**. ✅
 - **D** — 6 = data ke-3, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 4, 5, 6, 7, 8, 9.
+  2. Dua data tengah = 6 dan 7.
+  3. Median = (6+7)/2 = 6,5.
 
 ---
 
@@ -847,6 +1092,11 @@ Contoh gaji 5 orang: 3jt, 3jt, 4jt, 5jt, 50jt.
 - **B** — 30 = data ke-2 atau ke-3, lupa rata-rata.
 - **C** — 34 = data ke-5.
 - **D** — Benar. Urut: 28, 30, 30, 32, 34, 36. n=6 genap. Median = (data ke-3 + data ke-4)/2 = (30+32)/2 = **31**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 28, 30, 30, 32, 34, 36.
+  2. Dua data tengah ke-3 dan ke-4 = 30 dan 32.
+  3. Median = (30+32)/2 = 31.
 
 ---
 
@@ -874,6 +1124,11 @@ Berapa median nilainya?
 - **B** — 7 = salah baca; nilai 7 hanya mencapai data ke-6.
 - **C** — 9 = lebih jauh dari posisi tengah.
 - **D** — 7,5 = mengira n genap dan ambil rata-rata 7 dan 8.
+- **Konsep kunci:** Median dari tabel frekuensi dicari lewat frekuensi kumulatif untuk menemukan posisi data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung total frekuensi: n = 2+4+5+3+1 = 15.
+  2. Posisi tengah = (15+1)/2 = 8.
+  3. Kumulatif menunjukkan data ke-8 ada di nilai 8, jadi median = 8.
 
 ---
 
@@ -889,6 +1144,11 @@ Berapa median nilainya?
 - **B** — 13 = data ke-5, lupa rata-rata.
 - **C** — Benar. n=8 genap. Median = (11+13)/2 = **12**. ✅
 - **D** — 10 = rata-rata 9 dan 11 (salah posisi).
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut: 5, 7, 9, 11, 13, 15, 17, 19.
+  2. Dua data tengah = 11 dan 13.
+  3. Median = (11+13)/2 = 12.
 
 ---
 
@@ -914,6 +1174,11 @@ Median nilai = ...
 - **B** — Benar. n=15. Posisi = 8. Kumulatif: 4→3, 5→8. Data ke-8 jatuh tepat pada nilai **5**. ✅
 - **C** — 7 = terlalu jauh ke kanan.
 - **D** — 4 = data terkecil.
+- **Konsep kunci:** Median dari tabel frekuensi dicari lewat frekuensi kumulatif untuk menemukan posisi data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung total frekuensi: n = 3+5+4+2+1 = 15.
+  2. Posisi tengah = 8.
+  3. Kumulatif nilai 4 = 3, nilai 5 = 8, jadi data ke-8 = 5, median = 5.
 
 ---
 
@@ -929,6 +1194,11 @@ Median nilai = ...
 - **B** — 5 = data ke-4 setelah urut.
 - **C** — 9,2 = **rata-rata (mean)** bukan median. Salah pertanyaan.
 - **D** — Benar. Urut: 3, 4, 4, 5, 30. n=5. Data ke-3 = **4** juta. ✅ (Catatan: median jauh lebih kecil dari mean karena ada outlier 30.)
+- **Konsep kunci:** Median tidak terpengaruh nilai ekstrem, berbeda dengan mean (rata-rata).
+- **Langkah Penyelesaian:**
+  1. Urutkan: 3, 4, 4, 5, 30.
+  2. Posisi tengah = 3.
+  3. Data ke-3 = 4, median = 4 walau ada nilai ekstrem 30.
 
 ---
 
@@ -944,6 +1214,11 @@ Median nilai = ...
 - **B** — 70 = data ke-2 atau ke-3.
 - **C** — 80 = data ke-6 atau ke-7.
 - **D** — 77,5 = mengira n genap dan ambil rata-rata 75 dan 80.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 65, 70, 70, 75, 75, 80, 80, 85, 90.
+  2. Posisi tengah = (9+1)/2 = 5.
+  3. Data ke-5 = 75, median = 75.
 
 ---
 
@@ -968,6 +1243,11 @@ Median = ...
 - **B** — 90 = data terbesar.
 - **C** — Benar. n=10 (genap). Posisi tengah = data ke-5 dan ke-6. Kumulatif: 60→1, 70→4, 80→8. Data ke-5 dan ke-6 keduanya di nilai 80. Median = (80+80)/2 = **80**. ✅
 - **D** — 75 = mengira rata-rata 70 dan 80, padahal kedua posisi tengah sudah di 80.
+- **Konsep kunci:** Median dari tabel frekuensi dicari lewat frekuensi kumulatif untuk menemukan posisi data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung total frekuensi: n = 1+3+4+2 = 10.
+  2. Posisi tengah = data ke-5 dan ke-6.
+  3. Kumulatif menunjukkan keduanya di nilai 80, median = (80+80)/2 = 80.
 
 ---
 
@@ -983,6 +1263,11 @@ Median = ...
 - **B** — Benar. n=6 genap, median = (data ke-3 + data ke-4)/2. Asumsikan urut: 10, 12, x, 18, 20, 25 (x harus ≥12 dan ≤18). Median = (x + 18)/2 = 16 → x + 18 = 32 → x = **14**. ✅
 - **C** — 16 = mengira x = median, padahal x adalah salah satu data tengah.
 - **D** — 18 = membuat median = 18, bukan 16.
+- **Konsep kunci:** Jika median sudah diketahui, posisi data tengah dipakai untuk mencari nilai x yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Data urut: 10, 12, x, 18, 20, 25 (n=6, genap).
+  2. Median = (x+18)/2 = 16.
+  3. Selesaikan: x+18 = 32, jadi x = 14.
 
 ---
 
@@ -1015,6 +1300,11 @@ Mari ganti soal supaya kunci D tetap valid. Saya tulis ulang soal 58:
 - **B** — 22 = data ke-2.
 - **C** — 25 = data ke-5.
 - **D** — Benar. Urut: 18, 20, 22, 24, 25, 28, 30. n=7. Data ke-4 = **24**. ✅
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 18, 20, 22, 24, 25, 28, 30.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 24, median = 24.
 
 ---
 
@@ -1030,6 +1320,11 @@ Mari ganti soal supaya kunci D tetap valid. Saya tulis ulang soal 58:
 - **B** — 8 = data ke-4.
 - **C** — 12 = data ke-6.
 - **D** — 14 = data ke-7.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Posisi tengah = (9+1)/2 = 5.
+  3. Data ke-5 = 10, median = 10.
 
 ---
 
@@ -1045,6 +1340,11 @@ Mari ganti soal supaya kunci D tetap valid. Saya tulis ulang soal 58:
 - **B** — 14 = x=14 memberi median 12 (urut: 8, 10, 12, 14, 18). Tapi bukan satu-satunya.
 - **C** — Benar. Median ke-3 harus 12. Jadi posisi tengah harus 12. Maka x harus **≥ 12** agar posisi tengah tetap 12. Pilihan paling tepat: **minimal 12**. ✅
 - **D** — 15 = juga memenuhi, tapi bukan satu-satunya.
+- **Konsep kunci:** Pada median ganjil, data di posisi tengah menentukan nilai median secara langsung.
+- **Langkah Penyelesaian:**
+  1. Data: 8, 10, 12, x, 18 (x di posisi tengah bila x ≥ 12).
+  2. Median = data ke-3 harus = 12.
+  3. Syarat ini terpenuhi asalkan x minimal 12.
 
 ---
 
@@ -1070,6 +1370,11 @@ Berapa median berat badan?
 - **B** — Benar. n=20 (genap). Posisi tengah = data ke-10 dan ke-11. Kumulatif: 28→2, 30→7, 32→13. Data ke-10 dan ke-11 keduanya di nilai 32. Median = (32+32)/2 = **32**. ✅
 - **C** — 34 = lebih jauh.
 - **D** — 31 = mengira rata-rata 30 dan 32 (salah posisi).
+- **Konsep kunci:** Median dari tabel frekuensi dicari lewat frekuensi kumulatif untuk menemukan posisi data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung total frekuensi: n = 2+5+6+4+3 = 20.
+  2. Posisi tengah = data ke-10 dan ke-11.
+  3. Kumulatif menunjukkan keduanya di nilai 32, median = 32.
 
 ---
 
@@ -1100,6 +1405,11 @@ Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbai
 - **B** — 85 = data ke-5, lupa rata-rata.
 - **C** — 80 = data ke-4, lupa rata-rata.
 - **D** — Benar. Urut: 65, 70, 75, 80, 85, 88, 90, 95. n=8. Median = (data ke-4 + data ke-5)/2 = (80+85)/2 = **82,5**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 65, 70, 75, 80, 85, 88, 90, 95.
+  2. Dua data tengah ke-4 dan ke-5 = 80 dan 85.
+  3. Median = (80+85)/2 = 82,5.
 
 ---
 
@@ -1115,6 +1425,11 @@ Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbai
 - **B** — 130 = data ke-4.
 - **C** — 150 = data ke-6.
 - **D** — 145 = rata-rata 140 dan 150 (mengira n genap).
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Posisi tengah = (9+1)/2 = 5.
+  3. Data ke-5 = 140, median = 140.
 
 ---
 
@@ -1130,6 +1445,11 @@ Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbai
 - **B** — 7 = data ke-4 atau ke-5.
 - **C** — Benar. Urut: 5, 6, 6, 7, 7, 8, 8, 9, 10, 11, 12. n=11. Posisi = (11+1)/2 = 6. Data ke-6 = **8**. ✅
 - **D** — 9 = data ke-8.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 5, 6, 6, 7, 7, 8, 8, 9, 10, 11, 12.
+  2. Posisi tengah = (11+1)/2 = 6.
+  3. Data ke-6 = 8, median = 8.
 
 ---
 
@@ -1145,6 +1465,11 @@ Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbai
 - **B** — Benar. Urut: 10, 12, 13, 14, 15, 16, 17, 18, 19, 20. n=10 genap. Median = (data ke-5 + data ke-6)/2 = (15+16)/2 = **15,5**. ✅
 - **C** — 16 = data ke-6, lupa rata-rata.
 - **D** — 15 = data ke-5, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 10, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+  2. Dua data tengah ke-5 dan ke-6 = 15 dan 16.
+  3. Median = (15+16)/2 = 15,5.
 
 ---
 
@@ -1176,6 +1501,11 @@ Saya akan ganti datanya supaya median = 55. Ubah dataset sehingga data ke-5 = 55
 - **B** — 50 = data ke-4.
 - **C** — 60 = data ke-6.
 - **D** — Benar. Urut: 35, 40, 45, 50, 55, 60, 65, 70, 75. n=9. Posisi = 5. Data ke-5 = **55**. ✅
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 35, 40, 45, 50, 55, 60, 65, 70, 75.
+  2. Posisi tengah = 5.
+  3. Data ke-5 = 55, median = 55.
 
 ---
 
@@ -1191,6 +1521,11 @@ Saya akan ganti datanya supaya median = 55. Ubah dataset sehingga data ke-5 = 55
 - **B** — 25 = data ke-3.
 - **C** — 29 = data ke-5.
 - **D** — 31 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 27, median = 27.
 
 ---
 
@@ -1206,6 +1541,11 @@ Saya akan ganti datanya supaya median = 55. Ubah dataset sehingga data ke-5 = 55
 - **B** — 11 = data ke-8.
 - **C** — Benar. Urut: 7, 8, 8, 9, 9, 10, 10, 11, 12, 13, 14. n=11. Posisi = 6. Data ke-6 = **10**. ✅
 - **D** — 12 = data ke-9.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 7, 8, 8, 9, 9, 10, 10, 11, 12, 13, 14.
+  2. Posisi tengah = 6.
+  3. Data ke-6 = 10, median = 10.
 
 ---
 
@@ -1258,6 +1598,11 @@ Median = ...
 - **B** — Benar. n = 2+4+6+3+3+2 = 20 (genap). Posisi tengah = data ke-10 dan ke-11. Kumulatif: 5→2, 6→6, 7→12. Data ke-10 dan ke-11 keduanya di nilai 7. Median = (7+7)/2 = **7**. ✅
 - **C** — 8 = jauh dari tengah.
 - **D** — 6,5 = mengira rata-rata 6 dan 7 (salah posisi).
+- **Konsep kunci:** Median dari tabel frekuensi dicari lewat frekuensi kumulatif untuk menemukan posisi data tengah.
+- **Langkah Penyelesaian:**
+  1. Hitung total frekuensi: n = 2+4+6+3+3+2 = 20.
+  2. Posisi tengah = data ke-10 dan ke-11.
+  3. Kumulatif menunjukkan keduanya di nilai 7, median = 7.
 
 ---
 
@@ -1273,6 +1618,11 @@ Median = ...
 - **B** — 41 = data ke-5, lupa rata-rata.
 - **C** — 43 = data ke-6, lupa rata-rata.
 - **D** — Benar. Data sudah urut, n=10 genap. Median = (41+43)/2 = **42**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Dua data tengah ke-5 dan ke-6 = 41 dan 43.
+  3. Median = (41+43)/2 = 42.
 
 ---
 
@@ -1288,6 +1638,11 @@ Median = ...
 - **B** — 172 = data ke-7.
 - **C** — 169 = data ke-4.
 - **D** — 170 = data ke-5.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan data tinggi badan dari kecil ke besar.
+  2. Posisi tengah = (11+1)/2 = 6.
+  3. Data ke-6 = 171, median = 171.
 
 ---
 
@@ -1303,6 +1658,11 @@ Median = ...
 - **B** — 5,5 = data ke-5.
 - **C** — Benar. Data sudah urut, n=7. Data ke-4 = **4,5**. ✅
 - **D** — 6,5 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data desimal sudah urut.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 4,5, median = 4,5.
 
 ---
 
@@ -1318,6 +1678,11 @@ Median = ...
 - **B** — Benar. Urut: 12, 13, 14, 15, 16, 17, 18. n=7. Data ke-4 = **15**. ✅
 - **C** — 16 = data ke-5.
 - **D** — 17 = data ke-6.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 12, 13, 14, 15, 16, 17, 18.
+  2. Posisi tengah = 4.
+  3. Data ke-4 = 15, median = 15.
 
 ---
 
@@ -1333,6 +1698,11 @@ Median = ...
 - **B** — 11 = data ke-5, lupa rata-rata.
 - **C** — 13 = data ke-6.
 - **D** — Benar. Data sudah urut, n=8 genap. Median = (9+11)/2 = **10**. ✅
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Dua data tengah = 9 dan 11.
+  3. Median = (9+11)/2 = 10.
 
 ---
 
@@ -1348,6 +1718,11 @@ Median = ...
 - **B** — 200 = data ke-4.
 - **C** — 250 = data ke-6.
 - **D** — 275 = data ke-7.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan seluruh data dari kecil ke besar.
+  2. Posisi tengah = 5.
+  3. Data ke-5 = 225, median = 225.
 
 ---
 
@@ -1363,6 +1738,11 @@ Median = ...
 - **B** — 9 = data ke-7 atau ke-8.
 - **C** — Benar. Urut: 6, 7, 7, 8, 8, 8, 9, 9, 9, 10. n=10 genap. Median = (data ke-5 + data ke-6)/2 = (8+8)/2 = **8**. ✅
 - **D** — 8,5 = mengira rata-rata 8 dan 9 (salah posisi tengah).
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Urutkan: 6, 7, 7, 8, 8, 8, 9, 9, 9, 10.
+  2. Dua data tengah ke-5 dan ke-6 = 8 dan 8.
+  3. Median = (8+8)/2 = 8.
 
 ---
 
@@ -1378,6 +1758,11 @@ Median = ...
 - **B** — Benar. Urut sudah; n=6 genap. Median = (70+75)/2 = **72,5**. Mean = (60+65+70+75+80+85)/6 = 435/6 = **72,5**. Pada data simetris seperti ini median = mean. ✅
 - **C** — Median 70 = lupa rata-rata dua tengah.
 - **D** — Mean 70 = salah hitung mean.
+- **Konsep kunci:** Pada data yang tersebar merata (simetris), median dan mean bisa bernilai sama.
+- **Langkah Penyelesaian:**
+  1. Median = (70+75)/2 = 72,5 (n=6, genap).
+  2. Mean = jumlah semua data dibagi 6 = 435/6 = 72,5.
+  3. Karena data simetris, median = mean = 72,5.
 
 ---
 
@@ -1393,6 +1778,11 @@ Median = ...
 - **B** — Sama tidak mungkin karena ada nilai ekstrem 200.
 - **C** — Median selalu bisa dihitung.
 - **D** — Benar. Median = (70+80)/2 = **75**. Mean = (50+60+70+80+90+200)/6 = 550/6 ≈ **91,67**. Karena ada outlier 200, mean tertarik ke atas → **median < mean**. ✅
+- **Konsep kunci:** Nilai ekstrem menarik mean menjauh, sedangkan median tetap stabil.
+- **Langkah Penyelesaian:**
+  1. Median = (70+80)/2 = 75.
+  2. Mean = (50+60+70+80+90+200)/6 ≈ 91,67.
+  3. Karena outlier 200 menaikkan mean, maka median < mean.
 
 ---
 
@@ -1408,6 +1798,11 @@ Median = ...
 - **B** — 8 = data ke-8 atau ke-9.
 - **C** — 9 = data ke-10 atau ke-11.
 - **D** — 6 = data ke-4 atau ke-5.
+- **Konsep kunci:** Median data ganjil adalah nilai tepat di posisi tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Posisi tengah = (13+1)/2 = 7.
+  3. Data ke-7 = 7, median = 7.
 
 ---
 
@@ -1423,6 +1818,11 @@ Median = ...
 - **B** — Benar. Data urut, n=12 genap. Posisi tengah = data ke-6 dan ke-7. Median = (60+70)/2 = **65**. ✅
 - **C** — 70 = data ke-7, lupa rata-rata.
 - **D** — 60 = data ke-6, lupa rata-rata.
+- **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
+- **Langkah Penyelesaian:**
+  1. Data sudah urut.
+  2. Dua data tengah ke-6 dan ke-7 = 60 dan 70.
+  3. Median = (60+70)/2 = 65.
 
 ---
 
@@ -1440,6 +1840,11 @@ Median = ...
 - **B** — Benar. n=7, posisi tengah = 4. Bila data urut: 8, 12, 15, x, 20, 22, 25 (asalkan 15 ≤ x ≤ 20). Data ke-4 = x = **17**. ✅
 - **C** — 18 = juga memenuhi 15≤x≤20, tapi median = 18, bukan 17.
 - **D** — 20 = membuat median = 20 (atau 18 jika sama dengan data ke-5).
+- **Konsep kunci:** Jika median sudah diketahui, posisi data tengah dipakai untuk mencari nilai x yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Data urut: 8, 12, 15, x, 20, 22, 25 (n=7, x di posisi ke-4 bila 15≤x≤20).
+  2. Median = data ke-4 = x.
+  3. Karena median = 17, maka x = 17.
 
 ---
 
@@ -1455,6 +1860,11 @@ Median = ...
 - **B** — 75 = urut: 50, 60, 65, 70, 75, 75, 80, 85, 90, 95. Median = (75+75)/2 = 75. Bukan 77,5.
 - **C** — 78 = urut: 50, 60, 65, 70, 75, 78, 80, 85, 90, 95. Median = (75+78)/2 = 76,5. Bukan 77,5.
 - **D** — Benar. n=10 genap, median = rata-rata data ke-5 dan ke-6. Urut tanpa x: 50, 60, 65, 70, 75, 80, 85, 90, 95. Jika x=80, urut: 50, 60, 65, 70, 75, 80, 80, 85, 90, 95. Median = (75+80)/2 = **77,5**. ✅
+- **Konsep kunci:** Jika median sudah diketahui, posisi data tengah dipakai untuk mencari nilai x yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Coba x=80 sehingga data urut menjadi ..., 75, 80, 80, 85, ... (n=10).
+  2. Median = data ke-5 dan ke-6 = (75+80)/2.
+  3. Hasilnya 77,5, sesuai yang diminta.
 
 ---
 
@@ -1480,6 +1890,11 @@ Mean dan median dari data ini adalah ...
 - **B** — Median 6 = salah baca kumulatif.
 - **C** — Tertukar.
 - **D** — Mean 7 = salah hitung; lupa kalikan frekuensi.
+- **Konsep kunci:** Mean dihitung dari total nilai dikali frekuensi dibagi n, sedangkan median dicari lewat frekuensi kumulatif.
+- **Langkah Penyelesaian:**
+  1. Hitung mean = (5·3+6·5+7·7+8·4+9·1)/20 = 135/20 = 6,75 ≈ 6,7.
+  2. n=20 (genap), posisi tengah = data ke-10 dan ke-11.
+  3. Kumulatif menunjukkan keduanya di nilai 7, median = 7.
 
 ---
 
@@ -1495,6 +1910,11 @@ Mean dan median dari data ini adalah ...
 - **B** — 13: urut 10,12,13,14,16,18,20 → median = 14. Tidak sama dengan 15.
 - **C** — Benar. Median lama = (14+16)/2 = 15. Tambah x=15: urut 10,12,14,15,16,18,20 → n=7, median = data ke-4 = **15**. ✅
 - **D** — 18: urut 10,12,14,16,18,18,20 → median = 16. Tidak sama.
+- **Konsep kunci:** Menambah satu data bisa mengubah n dari genap ke ganjil, tetapi nilai median bisa tetap sama.
+- **Langkah Penyelesaian:**
+  1. Median lama (n=6) = (14+16)/2 = 15.
+  2. Tambahkan x=15 sehingga n=7 (ganjil).
+  3. Median baru = data ke-4 = 15, sama dengan median lama.
 
 ---
 
@@ -1510,6 +1930,11 @@ Mean dan median dari data ini adalah ...
 - **B** — Benar. n=9, posisi tengah = 5. Tanpa x, 8 data urut: 60, 65, 70, 75, 80, 85, 90, 95. Jika x ≥ 80, urut: 60, 65, 70, 75, 80, x, 85, 90, 95 (atau lebih). Data ke-5 = **80**. x=80 cukup. ✅
 - **C** — 75: urut 60, 65, 70, 75, 75, 80, 85, 90, 95. Posisi 5 = 75.
 - **D** — 60: urut 60, 60, 65, 70, 75, 80, 85, 90, 95. Posisi 5 = 75.
+- **Konsep kunci:** Jika median sudah diketahui, posisi data tengah dipakai untuk mencari nilai x yang belum diketahui.
+- **Langkah Penyelesaian:**
+  1. Data urut tanpa x: 60, 65, 70, 75, 80, 85, 90, 95 (n=8).
+  2. Sisipkan x=80 sehingga posisi tengah dari 9 data = 80.
+  3. Median = 80, sesuai yang diminta.
 
 ---
 
@@ -1525,6 +1950,11 @@ Mean dan median dari data ini adalah ...
 - **B** — 25 = 5², data ke-5.
 - **C** — 36 = 6², data ke-6.
 - **D** — Benar. Data: 1, 4, 9, 16, 25, 36, 49. Sudah urut, n=7. Data ke-4 = **16** (= 4²). ✅
+- **Konsep kunci:** Median tetap dihitung dari nilai data yang sudah diurutkan, meski datanya berupa hasil kuadrat.
+- **Langkah Penyelesaian:**
+  1. Hitung nilai kuadrat: 1, 4, 9, 16, 25, 36, 49 (sudah urut).
+  2. n=7, posisi tengah = 4.
+  3. Data ke-4 = 16, median = 16.
 
 ---
 
@@ -1540,6 +1970,11 @@ Mean dan median dari data ini adalah ...
 - **B** — Tidak berubah = salah; median ikut bergeser.
 - **C** — n×5 = mengira pengaruh terkumpul, padahal yang bergeser hanya nilainya, bukan banyaknya.
 - **D** — Berkurang = arah salah.
+- **Konsep kunci:** Menambahkan bilangan yang sama ke semua data akan menggeser median sebesar bilangan itu juga.
+- **Langkah Penyelesaian:**
+  1. Penjumlahan konstanta tidak mengubah urutan data.
+  2. Nilai tengah (median) ikut bertambah sebesar konstanta tersebut.
+  3. Karena semua data +5, median juga bertambah 5.
 
 ---
 
@@ -1569,6 +2004,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **B** — 30 = salah hitung, ambil data ke-4 = 7 (padahal harus > median 10).
 - **C** — Benar. Median = data ke-3 = 10. Maksimalkan terbesar: dua kecil minimum (1, 2), median = 10 (fix), data ke-4 minimal 11 (harus > 10 dan berbeda). Terbesar = 50 − (1+2+10+11) = **26**. ✅
 - **D** — 33 = mengabaikan syarat data ke-4 > median.
+- **Konsep kunci:** Untuk memaksimalkan bilangan terbesar pada median yang tetap, buat data lain seminimal mungkin.
+- **Langkah Penyelesaian:**
+  1. Median = data ke-3 = 10 (tetap).
+  2. Minimalkan dua data terkecil (1, 2) dan data ke-4 (11, tepat di atas median).
+  3. Terbesar = 50 − (1+2+10+11) = 26.
 
 ---
 
@@ -1584,6 +2024,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **B** — Benar. Awalnya n=9, median = data ke-5 = 15. Setelah hapus data terbesar, n=8 genap. Posisi tengah baru = data ke-4 dan ke-5 (dari yang lama). Data ke-5 lama = 15, data ke-4 lama ≤ 15. Median baru = (data ke-4 lama + 15)/2 ≤ **15**. Bisa tetap 15 (kalau data ke-4 = 15) atau lebih kecil. Pernyataan paling tepat: **≤ 15**. ✅
 - **C** — 12 = tidak pasti tanpa nilai spesifik.
 - **D** — 14 = tidak pasti.
+- **Konsep kunci:** Menghapus data terbesar mengubah banyak data (n) dan bisa menggeser median.
+- **Langkah Penyelesaian:**
+  1. Median awal (n=9) = data ke-5 = 15.
+  2. Setelah data terbesar dihapus, n=8 (genap), posisi tengah = data ke-4 dan ke-5 lama.
+  3. Median baru = (data ke-4 lama + 15)/2, hasilnya ≤ 15.
 
 ---
 
@@ -1601,6 +2046,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **D** — Benar. Mengalikan setiap angka dengan k > 0 mempertahankan urutan, dan posisi tengah dikali k juga. Median baru = 2 × 25 = **50**. ✅
 
 (Catatan: secara konvensional jawaban "50" cukup. Pilihan ini ditulis dua kali (C dan D) untuk menekankan syarat urutan tidak berubah pada perkalian positif. Bila perkalian negatif, urutan terbalik tapi median tetap −2×25 = −50.)
+- **Konsep kunci:** Mengalikan semua data dengan bilangan positif yang sama akan mengalikan median dengan bilangan itu juga.
+- **Langkah Penyelesaian:**
+  1. Perkalian dengan bilangan positif tidak mengubah urutan data.
+  2. Posisi data tengah tetap sama, hanya nilainya yang dikalikan.
+  3. Median baru = 2 × 25 = 50.
 
 ---
 
@@ -1616,6 +2066,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **B** — Modus = 7 dan 8 dua-duanya muncul 2 kali. Multimodal, kurang informatif.
 - **C** — Mean = (4+5+6+7+7+8+8+9+10+12+50)/11 = 126/11 ≈ 11,5. Bias akibat outlier 50.
 - **D** — Rentang = 50 − 4 = 46. Mengukur sebaran, bukan gaji khas.
+- **Konsep kunci:** Median lebih mewakili nilai khas saat ada outlier, karena tidak terpengaruh nilai ekstrem.
+- **Langkah Penyelesaian:**
+  1. Median = data ke-6 = 8 juta (n=11, posisi 6).
+  2. Mean ≈ 11,5 juta, tertarik naik akibat outlier 50 juta.
+  3. Karena ada outlier, median lebih representatif.
 
 ---
 
@@ -1631,6 +2086,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **B** — b = posisi ke-2, bukan tengah.
 - **C** — Benar. n=6 genap, urut: a, b, 70, 75, 80, c. Median = (data ke-3 + data ke-4)/2 = (70+75)/2 = **72,5**. ✅
 - **D** — (b+75)/2 = posisi salah.
+- **Konsep kunci:** Median hanya ditentukan oleh data di posisi tengah, sehingga variabel di posisi lain tidak memengaruhi nilainya.
+- **Langkah Penyelesaian:**
+  1. Data urut: a, b, 70, 75, 80, c (n=6, genap).
+  2. Median = data ke-3 dan ke-4 = 70 dan 75.
+  3. Median = (70+75)/2 = 72,5, tanpa perlu tahu nilai a, b, c.
 
 ---
 
@@ -1646,6 +2106,11 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 - **B** — Tidak pasti lebih kecil.
 - **C** — Benar. Median 10 data = rata-rata data ke-5 dan ke-6 = 7. Setelah hapus terkecil (data ke-1) dan terbesar (data ke-10), tersisa 8 data: data ke-2 sampai ke-9 yang lama. Median baru = rata-rata data ke-4 dan ke-5 baru = data ke-5 dan ke-6 yang lama = **tetap 7**. ✅
 - **D** — Tidak pasti lebih besar.
+- **Konsep kunci:** Menghapus data terkecil dan terbesar sekaligus bisa membuat posisi median tidak berubah.
+- **Langkah Penyelesaian:**
+  1. Median 10 data = rata-rata data ke-5 dan ke-6 = 7.
+  2. Setelah data ke-1 dan ke-10 dihapus, posisi tengah 8 data sisa jatuh pada data ke-5 dan ke-6 yang lama.
+  3. Median baru tetap 7.
 
 ---
 
@@ -1678,6 +2143,11 @@ Maka jawaban yang benar adalah 20, bukan 14. Mari ganti pilihan supaya kunci D =
 - **B** — 14 = salah set dua angka kecil.
 - **C** — 17 = belum optimal.
 - **D** — Benar. Median = data ke-3 = 8. Jumlah = 5×10 = 50. Minimumkan terbesar (b) → maksimumkan data ke-4 (a) → a = b−1. Dua terkecil minimum: 1 dan 2. Maka 1+2+8+(b−1)+b = 50 → 2b = 40 → **b = 20**. ✅
+- **Konsep kunci:** Untuk meminimalkan bilangan terbesar, maksimalkan data ke-4 agar mendekati data ke-5.
+- **Langkah Penyelesaian:**
+  1. Median = data ke-3 = 8 (tetap), jumlah total = 5×10 = 50.
+  2. Minimalkan dua data terkecil (1, 2), maksimalkan data ke-4 = b−1 (b = data terbesar).
+  3. 1+2+8+(b−1)+b = 50 → 2b = 40 → b = 20.
 
 ---
 
@@ -1725,6 +2195,11 @@ Jika total 15 data dan mediannya 80, berapa nilai x?
 - **B** — 4 = membuat total 17, bukan 15.
 - **C** — 5 = total 18, salah.
 - **D** — 6 = total 19, salah.
+- **Konsep kunci:** Total frekuensi dipakai untuk mencari nilai x yang belum diketahui pada tabel.
+- **Langkah Penyelesaian:**
+  1. Hitung total: 4+x+6+3 = 15.
+  2. Selesaikan: x = 15−13 = 2.
+  3. Cek median tetap 80 dengan x=2, sesuai syarat soal.
 
 ---
 
@@ -1754,6 +2229,11 @@ Sebenarnya semua pilihan memenuhi syarat median = 70. Mari saya ubah supaya hany
 - **B** — (74, 66): a = 74 > b = 66, melanggar urut a ≤ b.
 - **C** — Benar. Median = (a+b)/2 = 70 → a + b = 140. Syarat urut: 65 ≤ a ≤ b ≤ 75. (68, 72): 65≤68≤72≤75 ✓ dan 68+72 = 140. ✅
 - **D** — (80, 60): a > b, melanggar urut.
+- **Konsep kunci:** Median menentukan jumlah a+b, sedangkan syarat data tetap urut membatasi pasangan yang valid.
+- **Langkah Penyelesaian:**
+  1. Median = (a+b)/2 = 70, jadi a+b = 140.
+  2. Syarat urut: 65 ≤ a ≤ b ≤ 75.
+  3. Pasangan (68, 72) memenuhi kedua syarat, jadi jawabannya (68, 72).
 
 ---
 
@@ -1769,6 +2249,11 @@ Sebenarnya semua pilihan memenuhi syarat median = 70. Mari saya ubah supaya hany
 - **B** — Benar. n=100 (genap). Posisi tengah = data ke-(n/2) dan ke-(n/2 + 1) = data ke-50 dan ke-**51**. Median = rata-rata keduanya. ✅
 - **C** — Salah pergeseran.
 - **D** — Salah; hanya satu.
+- **Konsep kunci:** Pada data genap, posisi tengah selalu berupa dua nomor berurutan, yaitu ke-(n/2) dan ke-(n/2+1).
+- **Langkah Penyelesaian:**
+  1. n=100 (genap).
+  2. Posisi tengah = data ke-(100/2) dan ke-(100/2+1).
+  3. Jadi posisinya ke-50 dan ke-51.
 
 ---
 
@@ -1801,6 +2286,11 @@ Hasilnya 22, bukan 20. Mari sesuaikan soal supaya kunci D = 20. Atau ubah piliha
 - **B** — 18 = belum optimal.
 - **C** — 20 = belum optimal.
 - **D** — Benar. Jumlah = 35. Median data ke-3 = 6. Maksimumkan (terkecil+terbesar) → minimumkan data ke-2 dan ke-4. Data ke-2 min = 1 (bilangan asli positif), data ke-4 min = 6 (≥ median). Data ke-1 min = 1 (≤ data ke-2). Total: 1 + 1 + 6 + 6 + x = 35 → x = 21. Maka terkecil + terbesar = 1 + 21 = **22**. ✅
+- **Konsep kunci:** Untuk memaksimalkan (terkecil+terbesar), minimalkan dua data lain di sekitar median.
+- **Langkah Penyelesaian:**
+  1. Median = data ke-3 = 6, jumlah total = 5×7 = 35.
+  2. Minimalkan data ke-2 (=1) dan data ke-4 (=6, minimal sama dengan median).
+  3. Terkecil+terbesar = 35 − (1+6+6) = 22.
 
 ---
 
@@ -1830,6 +2320,11 @@ Jadi jawaban tergantung. Saya akan ubah soalnya supaya kunci A jelas:
 - **B** — Naik 60 = salah; perubahan hanya pada data terkecil tidak menggeser tengah.
 - **C** — Naik 55 = salah hitung.
 - **D** — Berkurang 10 = arah salah.
+- **Konsep kunci:** Mengubah data terkecil tanpa melewati data di atasnya tidak mengubah posisi median.
+- **Langkah Penyelesaian:**
+  1. Median 7 data = data ke-4 = 50 (tetap).
+  2. Data terkecil dinaikkan namun tetap ≤ data berikutnya sehingga urutan tidak berubah.
+  3. Karena posisi data ke-4 tidak tersentuh, median tetap 50.
 
 ---
 
@@ -1845,6 +2340,11 @@ Jadi jawaban tergantung. Saya akan ubah soalnya supaya kunci A jelas:
 - **B** — "Pasti" antara 70 dan 80 → terlalu kuat; sebenarnya bisa = 70 atau = 80 di kasus ekstrem.
 - **C** — Benar. Pada gabungan, median bisa mencapai sekecil **median A** (=70) atau sebesar **median B** (=80) di kasus ekstrem, dan biasanya di antara keduanya. Tepat: **70 ≤ median gab ≤ 80**, tergantung distribusi. ✅
 - **D** — Tidak bisa di luar [70, 80] karena setidaknya 3 data ≤ 70 (dari A) dan setidaknya 3 data ≥ 80 (dari B). Median (data ke-5 dan ke-6) terikat di antara 70 dan 80.
+- **Konsep kunci:** Median gabungan dua kelompok data terletak di antara median masing-masing kelompok, tergantung sebaran datanya.
+- **Langkah Penyelesaian:**
+  1. Kelompok A (median 70) dan kelompok B (median 80) digabung menjadi n=10.
+  2. Median gabungan pasti berada di rentang antara 70 dan 80.
+  3. Nilai pastinya tergantung distribusi data di tiap kelompok.
 
 ---
 

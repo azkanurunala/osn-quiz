@@ -86,6 +86,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 8/3 = menjumlahkan 5 + 3 untuk pembilang. Salah konsep.
 - **D** — 3/8 = pembilang dijumlahkan dengan total. Salah konsep.
 
+- **Konsep kunci:** Pecahan menyatakan bagian yang diambil (pembilang) dari total bagian sama besar (penyebut).
+- **Langkah Penyelesaian:**
+  1. Tentukan bagian yang diambil sebagai pembilang: 3.
+  2. Tentukan total bagian sama besar sebagai penyebut: 5.
+  3. Jadi pecahannya adalah 3/5.
+
 ---
 
 **2.** Pecahan yang senilai dengan 1/2 adalah ...
@@ -100,6 +106,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 2/3 = pembilang ditambah 1, penyebut juga ditambah 1. Itu BUKAN cara membuat senilai.
 - **C** — Benar. 1/2 × (2/2) = 2/4. Pembilang dan penyebut dikali 2. ✅
 - **D** — 3/4 ≠ 1/2 (3/4 = 0,75 ; 1/2 = 0,5).
+
+- **Konsep kunci:** Pecahan senilai diperoleh dengan mengalikan pembilang dan penyebut dengan bilangan yang sama.
+- **Langkah Penyelesaian:**
+  1. Ambil pecahan 1/2.
+  2. Kalikan pembilang dan penyebut dengan 2: 1×2 dan 2×2.
+  3. Diperoleh 2/4, yang senilai dengan 1/2.
 
 ---
 
@@ -116,6 +128,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(4, 8) = 4. 4÷4 = 1, 8÷4 = 2 → 1/2. ✅
 - **D** — Tidak berubah, padahal pembilang dan penyebut sama-sama habis dibagi.
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan membagi pembilang dan penyebut menggunakan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(4, 8) = 4.
+  2. Bagi pembilang dan penyebut dengan 4: 4÷4 = 1, 8÷4 = 2.
+  3. Hasil paling sederhana adalah 1/2.
+
 ---
 
 **4.** Pasangan pecahan berikut yang senilai adalah ...
@@ -130,6 +148,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. 2/5 × 2/2 = 4/10. ✅
 - **C** — 3/4 × 2/2 = 6/8 (bukan 6/12). 6/12 = 1/2 ≠ 3/4.
 - **D** — Beda nilai (1/2 = 0,5 ; 2/3 ≈ 0,67).
+
+- **Konsep kunci:** Pasangan pecahan senilai dicek dengan mengalikan pembilang dan penyebut dengan bilangan sama.
+- **Langkah Penyelesaian:**
+  1. Uji tiap opsi dengan mengalikan pecahan pertama dengan angka yang sama di pembilang dan penyebut.
+  2. 2/5 × 2/2 = 4/10, cocok dengan opsi B.
+  3. Jadi 2/5 dan 4/10 senilai.
 
 ---
 
@@ -146,6 +170,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(6, 9) = 3. 6÷3 = 2, 9÷3 = 3 → 2/3. ✅
 - **D** — Belum disederhanakan.
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(6, 9) = 3.
+  2. Bagi pembilang dan penyebut dengan 3: 6÷3 = 2, 9÷3 = 3.
+  3. Hasil paling sederhana adalah 2/3.
+
 ---
 
 **6.** Untuk membuat pecahan senilai dengan 2/5 yang penyebutnya 20, pembilangnya adalah ...
@@ -160,6 +190,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 6 = jika dikali 3. Tidak konsisten dengan penyebut.
 - **C** — 4 = jika dikali 2, tapi penyebut harus dikali 4. Hanya satu sisi yang diperhatikan.
 - **D** — 10 = jika dikali 5. Padahal 5 dikali 5 = 25, bukan 20.
+
+- **Konsep kunci:** Membuat pecahan senilai dengan mencari faktor pengali penyebut, lalu mengalikan pembilang dengan faktor yang sama.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 20 ÷ 5 = 4.
+  2. Kalikan pembilang dengan pengali yang sama: 2 × 4 = 8.
+  3. Jadi pembilangnya adalah 8.
 
 ---
 
@@ -176,6 +212,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Membagi 10 dengan 10 (=1), tapi 15 dengan 5 (=3). Pembagi tidak sama.
 - **D** — Hanya pembilang dibagi 2. Penyebut tidak diubah → bukan senilai.
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(10, 15) = 5.
+  2. Bagi keduanya dengan 5: 10÷5 = 2, 15÷5 = 3.
+  3. Hasil paling sederhana 2/3.
+
 ---
 
 **8.** Pasangan pecahan yang BUKAN senilai dengan 3/4 adalah ...
@@ -190,6 +232,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 3/4 × 3/3 = 9/12. Senilai.
 - **C** — 3/4 × 5/5 = 15/20. Senilai.
 - **D** — Benar. 6/12 = 1/2, bukan 3/4. ✅ (Itulah yang bukan senilai.)
+
+- **Konsep kunci:** Mengenali pecahan yang BUKAN senilai dengan mengecek hasil perkalian/pembagian pembilang-penyebut secara konsisten.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi dengan menyederhanakan atau membandingkan terhadap 3/4.
+  2. 6/12 = 1/2, tidak sama dengan 3/4.
+  3. Jadi 6/12 bukan senilai dengan 3/4.
 
 ---
 
@@ -206,6 +254,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 2 = jika dikali 2, padahal penyebut dikali 4.
 - **D** — 8 = jika dikali 8, padahal 4 × 8 = 32, bukan 16.
 
+- **Konsep kunci:** Mencari pembilang pecahan senilai dari penyebut yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 16 ÷ 4 = 4.
+  2. Kalikan pembilang dengan pengali sama: 1 × 4 = 4.
+  3. Jadi pembilangnya 4.
+
 ---
 
 **10.** Bentuk paling sederhana dari 12/18 adalah ...
@@ -220,6 +274,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 4/6 belum paling sederhana (masih bisa dibagi 2 lagi).
 - **C** — 3/4 tidak senilai dengan 12/18 (3/4 = 0,75 ; 12/18 ≈ 0,67).
 - **D** — Benar. FPB(12, 18) = 6. 12÷6 = 2, 18÷6 = 3. ✅
+
+- **Konsep kunci:** Bentuk paling sederhana dicapai saat FPB pembilang-penyebut = 1.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(12, 18) = 6.
+  2. Bagi keduanya dengan 6: 12÷6 = 2, 18÷6 = 3.
+  3. Hasil 2/3 sudah tidak bisa disederhanakan lagi.
 
 ---
 
@@ -236,6 +296,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/3 ≠ 1/2.
 - **D** — 5/20 = 1/4. Hanya penyebut dikali 2, pembilang tidak. Tidak senilai.
 
+- **Konsep kunci:** Pecahan senilai diperoleh dengan mengalikan pembilang & penyebut dengan angka yang sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5/10 dengan 2/2.
+  2. Diperoleh 10/20.
+  3. 10/20 senilai dengan 5/10 (keduanya = 1/2).
+
 ---
 
 **12.** Pecahan 9/12 disederhanakan menjadi ...
@@ -250,6 +316,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Pembilang dan penyebut tertukar.
 - **C** — Benar. FPB(9, 12) = 3. 9÷3 = 3, 12÷3 = 4. ✅
 - **D** — 1/2 tidak senilai dengan 9/12 (9/12 = 0,75 ; 1/2 = 0,5).
+
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(9, 12) = 3.
+  2. Bagi keduanya dengan 3: 9÷3 = 3, 12÷3 = 4.
+  3. Hasil paling sederhana 3/4.
 
 ---
 
@@ -266,6 +338,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 12 = jika dikali 4. Padahal 8 × 4 = 32.
 - **D** — 24 = hanya menyamakan dengan penyebut, salah konsep.
 
+- **Konsep kunci:** Mencari pembilang pecahan senilai dari faktor pengali penyebut.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 24 ÷ 8 = 3.
+  2. Kalikan pembilang dengan pengali sama: 3 × 3 = 9.
+  3. Jadi pembilangnya 9.
+
 ---
 
 **14.** Pecahan 15/25 paling sederhana adalah ...
@@ -280,6 +358,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Tertukar.
 - **C** — Membagi 15 dengan 15 dan 25 dengan 5. Pembagi tidak sama.
 - **D** — Benar. FPB(15, 25) = 5. 15÷5 = 3, 25÷5 = 5. ✅
+
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(15, 25) = 5.
+  2. Bagi keduanya dengan 5: 15÷5 = 3, 25÷5 = 5.
+  3. Hasil paling sederhana 3/5.
 
 ---
 
@@ -296,6 +380,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 3/4 ≠ 2/3 (0,75 vs 0,67).
 - **D** — 4/5 ≠ 3/4 (0,8 vs 0,75).
 
+- **Konsep kunci:** Mengenali pasangan pecahan senilai lewat perkalian pembilang-penyebut yang sama.
+- **Langkah Penyelesaian:**
+  1. Uji tiap pasangan dengan mengalikan atau perkalian silang.
+  2. 2/3 × 2/2 = 4/6, cocok.
+  3. Jadi 2/3 dan 4/6 senilai.
+
 ---
 
 **16.** Bentuk paling sederhana dari 20/30 adalah ...
@@ -310,6 +400,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Salah: membagi pembilang dengan 20 dan penyebut dengan 10. Pembagi tidak sama.
 - **C** — Benar. FPB(20, 30) = 10. 20÷10 = 2, 30÷10 = 3. ✅
 - **D** — Belum paling sederhana (masih dapat dibagi 2).
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(20, 30) = 10.
+  2. Bagi keduanya dengan 10: 20÷10 = 2, 30÷10 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -326,6 +422,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/4 = 0,25 ≠ 1/2.
 - **D** — 2/3 ≈ 0,67 ≠ 0,5.
 
+- **Konsep kunci:** Pecahan senilai lewat perkalian pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 7/14 dengan 2/2.
+  2. Diperoleh 14/28.
+  3. 14/28 senilai dengan 7/14 (keduanya = 1/2).
+
 ---
 
 **18.** Pembilang pecahan 4/9 dikali 5, agar tetap senilai penyebutnya dikali ...
@@ -340,6 +442,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. Aturan: kalikan pembilang dan penyebut dengan bilangan **yang sama**. Pembilang dikali 5, penyebut juga dikali 5. ✅
 - **C** — 9 = penyebut awal, bukan pengali.
 - **D** — 45 = hasil 9×5, bukan pengali.
+
+- **Konsep kunci:** Aturan pecahan senilai: pembilang dan penyebut harus dikalikan dengan bilangan yang SAMA.
+- **Langkah Penyelesaian:**
+  1. Pembilang 4 dikali 5 menjadi 20.
+  2. Supaya tetap senilai, penyebut juga harus dikali 5 (bukan angka lain).
+  3. Jadi penyebut dikali 5.
 
 ---
 
@@ -356,6 +464,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Belum paling sederhana (masih dibagi 6).
 - **D** — Benar. FPB(24, 36) = 12. 24÷12 = 2, 36÷12 = 3. ✅
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(24, 36) = 12.
+  2. Bagi keduanya dengan 12: 24÷12 = 2, 36÷12 = 3.
+  3. Hasil paling sederhana 2/3.
+
 ---
 
 **20.** Pecahan 11/22 paling sederhana adalah ...
@@ -370,6 +484,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum disederhanakan.
 - **C** — Membagi pembilang dengan 11, penyebut dengan 2. Pembagi tidak sama.
 - **D** — Benar. FPB(11, 22) = 11. 11÷11 = 1, 22÷11 = 2. ✅
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(11, 22) = 11.
+  2. Bagi keduanya dengan 11: 11÷11 = 1, 22÷11 = 2.
+  3. Hasil paling sederhana 1/2.
 
 ---
 
@@ -386,6 +506,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 4/9 × 3/3 = 12/27 (bukan 8/27).
 - **D** — 2/7 ≠ 4/9 (cek silang: 2×9 = 18, 7×4 = 28).
 
+- **Konsep kunci:** Mengecek pasangan senilai dengan mengalikan pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Uji tiap opsi dengan mengalikan pecahan pertama.
+  2. 5/12 × 2/2 = 10/24, cocok dengan opsi B.
+  3. Jadi 5/12 dan 10/24 senilai.
+
 ---
 
 **22.** Bentuk paling sederhana dari 18/24 adalah ...
@@ -400,6 +526,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana (masih dibagi 3).
 - **C** — Benar. FPB(18, 24) = 6. 18÷6 = 3, 24÷6 = 4. ✅
 - **D** — Belum paling sederhana (masih dibagi 2).
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(18, 24) = 6.
+  2. Bagi keduanya dengan 6: 18÷6 = 3, 24÷6 = 4.
+  3. Hasil paling sederhana 3/4.
 
 ---
 
@@ -416,6 +548,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 2/3 × 4/4 = 8/12. Senilai.
 - **D** — Benar. 10/12 = 5/6 ≠ 2/3. ✅
 
+- **Konsep kunci:** Mengenali pecahan yang BUKAN senilai lewat perkalian pembilang-penyebut secara konsisten.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi dengan mengalikan 2/3 dengan angka sama.
+  2. 10/12 = 5/6 setelah disederhanakan, berbeda dari 2/3.
+  3. Jadi 10/12 bukan senilai dengan 2/3.
+
 ---
 
 **24.** Untuk membuat pecahan senilai dengan 2/9 yang pembilangnya 10, penyebutnya adalah ...
@@ -430,6 +568,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 27 = jika dikali 3 (padahal pembilang 2×3 = 6, bukan 10).
 - **C** — Benar. Pembilang 2 → 10 berarti dikali 5. Maka penyebut 9 × 5 = 45. ✅
 - **D** — 90 = jika dikali 10 (pembilang 2×10 = 20, bukan 10).
+
+- **Konsep kunci:** Mencari penyebut pecahan senilai dari pengali pembilang.
+- **Langkah Penyelesaian:**
+  1. Cari pengali pembilang: 10 ÷ 2 = 5.
+  2. Kalikan penyebut dengan pengali sama: 9 × 5 = 45.
+  3. Jadi penyebutnya 45.
 
 ---
 
@@ -446,6 +590,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Salah: membagi 14 dengan 14 dan 21 dengan 7. Pembagi tidak sama.
 - **D** — Benar. FPB(14, 21) = 7. 14÷7 = 2, 21÷7 = 3. ✅
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(14, 21) = 7.
+  2. Bagi keduanya dengan 7: 14÷7 = 2, 21÷7 = 3.
+  3. Hasil paling sederhana 2/3.
+
 ---
 
 **26.** Pasangan pecahan senilai berikut adalah ...
@@ -460,6 +610,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 2/15: jika pembilang ×2, penyebut harusnya ×2 = 10, bukan 15.
 - **C** — 4/25: pembilang ×4, penyebut harusnya ×4 = 20.
 - **D** — 6/35: pembilang ×6 = 6, penyebut harusnya 30, bukan 35.
+
+- **Konsep kunci:** Pecahan senilai lewat perkalian pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/5 dengan 3/3.
+  2. Diperoleh 3/15.
+  3. Jadi pasangan yang senilai adalah 1/5 dan 3/15.
 
 ---
 
@@ -476,6 +632,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 2/3 ≠ 16/20 (cek silang: 2×20 = 40, 3×16 = 48).
 - **D** — Salah: membagi 16 dengan 16 dan 20 dengan 5. Tidak sama.
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(16, 20) = 4.
+  2. Bagi keduanya dengan 4: 16÷4 = 4, 20÷4 = 5.
+  3. Hasil paling sederhana 4/5.
+
 ---
 
 **28.** Pecahan paling sederhana dari 35/50 adalah ...
@@ -490,6 +652,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. FPB(35, 50) = 5. 35÷5 = 7, 50÷5 = 10. ✅
 - **C** — Tertukar.
 - **D** — 5/7 ≠ 35/50.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(35, 50) = 5.
+  2. Bagi keduanya dengan 5: 35÷5 = 7, 50÷5 = 10.
+  3. Hasil paling sederhana 7/10.
 
 ---
 
@@ -506,6 +674,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. 5 × 5 = 25, maka 4 × 5 = 20. ✅
 - **D** — Tertukar.
 
+- **Konsep kunci:** Mencari pembilang pecahan senilai dari pengali penyebut.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 25 ÷ 5 = 5.
+  2. Kalikan pembilang dengan pengali sama: 4 × 5 = 20.
+  3. Jadi pembilangnya 20.
+
 ---
 
 **30.** Pecahan 30/45 disederhanakan menjadi ...
@@ -520,6 +694,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana.
 - **C** — Benar. FPB(30, 45) = 15. 30÷15 = 2, 45÷15 = 3. ✅
 - **D** — Belum paling sederhana.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(30, 45) = 15.
+  2. Bagi keduanya dengan 15: 30÷15 = 2, 45÷15 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -536,6 +716,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/8 = hanya pembilang dibagi 2, penyebut tetap.
 - **D** — 4/8 = 1/2, bukan 2/8.
 
+- **Konsep kunci:** Menyatakan bagian dari keseluruhan sebagai pecahan lalu menyederhanakannya.
+- **Langkah Penyelesaian:**
+  1. Bagian dimakan = 2 dari 8, ditulis 2/8.
+  2. Cari FPB(2, 8) = 2, bagi keduanya: 2÷2 = 1, 8÷2 = 4.
+  3. Hasil paling sederhana 1/4.
+
 ---
 
 **32.** Toni memiliki pita 6/12 meter. Pecahan paling sederhana panjang pita Toni adalah ...
@@ -550,6 +736,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Salah: membagi penyebut dengan 2 saja, pembilang dengan 6.
 - **C** — Senilai dengan 1/2, tapi belum paling sederhana.
 - **D** — Senilai dengan 1/2, tapi belum paling sederhana.
+
+- **Konsep kunci:** Menyederhanakan pecahan hasil pengukuran dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Pecahan 6/12 punya FPB(6, 12) = 6.
+  2. Bagi keduanya dengan 6: 6÷6 = 1, 12÷6 = 2.
+  3. Hasil paling sederhana 1/2 m.
 
 ---
 
@@ -566,6 +758,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(12, 30) = 6. 12÷6 = 2, 30÷6 = 5. ✅
 - **D** — 1/2 = 15/30 (bukan 12/30).
 
+- **Konsep kunci:** Menyatakan perbandingan bagian dari total sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Siswa laki-laki = 12 dari 30, ditulis 12/30.
+  2. Cari FPB(12, 30) = 6, bagi keduanya: 12÷6 = 2, 30÷6 = 5.
+  3. Hasil paling sederhana 2/5.
+
 ---
 
 **34.** Sebuah kelas memiliki 24 kursi. 18 kursi diduduki. Berapa pecahan paling sederhana yang menyatakan kursi diduduki?
@@ -580,6 +778,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana (6/8 = 3/4 setelah disederhanakan).
 - **C** — Tertukar.
 - **D** — 1/2 = 12/24, bukan 18/24.
+
+- **Konsep kunci:** Menyatakan bagian dari total sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Kursi diduduki = 18 dari 24, ditulis 18/24.
+  2. Cari FPB(18, 24) = 6, bagi keduanya: 18÷6 = 3, 24÷6 = 4.
+  3. Hasil paling sederhana 3/4.
 
 ---
 
@@ -596,6 +800,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(28, 42) = 14. 28÷14 = 2, 42÷14 = 3. ✅
 - **D** — Salah hitung; 7/10 = 0,7, bukan 28/42 ≈ 0,67.
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(28, 42) = 14.
+  2. Bagi keduanya dengan 14: 28÷14 = 2, 42÷14 = 3.
+  3. Hasil paling sederhana 2/3.
+
 ---
 
 **36.** Pecahan 9/15 setelah disederhanakan adalah ...
@@ -610,6 +820,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Tertukar.
 - **C** — Pembagi tidak sama (9÷9 = 1; 15÷5 = 3).
 - **D** — Belum disederhanakan.
+
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(9, 15) = 3.
+  2. Bagi keduanya dengan 3: 9÷3 = 3, 15÷3 = 5.
+  3. Hasil paling sederhana 3/5.
 
 ---
 
@@ -626,6 +842,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Hanya penyebut dikali 2.
 - **D** — Benar. 6/10 ÷ 2/2 = 3/5. ✅
 
+- **Konsep kunci:** Pecahan senilai diperoleh dengan membagi pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Bagi 6/10 dengan 2/2.
+  2. Diperoleh 3/5.
+  3. Jadi 3/5 senilai dengan 6/10.
+
 ---
 
 **38.** Pecahan paling sederhana dari 25/40 adalah ...
@@ -640,6 +862,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Pembagi tidak sama (25÷5 = 5; 40÷4 = 10).
 - **C** — 1/2 = 20/40, bukan 25/40.
 - **D** — Hanya pembilang dibagi 5.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(25, 40) = 5.
+  2. Bagi keduanya dengan 5: 25÷5 = 5, 40÷5 = 8.
+  3. Hasil paling sederhana 5/8.
 
 ---
 
@@ -656,6 +884,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 3/12 = 1/4, bukan 1/6.
 - **D** — 4/12 = 1/3, bukan 1/6.
 
+- **Konsep kunci:** Mengecek pasangan senilai lewat perkalian pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/6 dengan 2/2.
+  2. Diperoleh 2/12.
+  3. Jadi 1/6 dan 2/12 senilai.
+
 ---
 
 **40.** Pecahan 100/250 disederhanakan menjadi ...
@@ -670,6 +904,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana (4/10 = 2/5).
 - **C** — Benar. FPB(100, 250) = 50. 100÷50 = 2, 250÷50 = 5. ✅
 - **D** — 1/2 = 125/250, bukan 100/250.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(100, 250) = 50.
+  2. Bagi keduanya dengan 50: 100÷50 = 2, 250÷50 = 5.
+  3. Hasil paling sederhana 2/5.
 
 ---
 
@@ -686,6 +926,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 50/100 = 1/2 (bukan 3/5).
 - **D** — 15/100 = 3/20 (bukan 3/5).
 
+- **Konsep kunci:** Mencari pembilang pecahan senilai dari pengali penyebut.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 100 ÷ 5 = 20.
+  2. Kalikan pembilang dengan pengali sama: 3 × 20 = 60.
+  3. Jadi pembilangnya 60.
+
 ---
 
 **42.** Pecahan paling sederhana dari 48/64 adalah ...
@@ -700,6 +946,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. FPB(48, 64) = 16. 48÷16 = 3, 64÷16 = 4. ✅
 - **C** — Belum paling sederhana.
 - **D** — Belum paling sederhana.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(48, 64) = 16.
+  2. Bagi keduanya dengan 16: 48÷16 = 3, 64÷16 = 4.
+  3. Hasil paling sederhana 3/4.
 
 ---
 
@@ -716,6 +968,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/2 = 18/36, bukan 27/36.
 - **D** — Benar. FPB(27, 36) = 9. 27÷9 = 3, 36÷9 = 4. ✅
 
+- **Konsep kunci:** Menyederhanakan pecahan dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(27, 36) = 9.
+  2. Bagi keduanya dengan 9: 27÷9 = 3, 36÷9 = 4.
+  3. Hasil paling sederhana 3/4.
+
 ---
 
 **44.** Sebuah pita panjang 50 cm dibagi menjadi 75 bagian. Pecahan dari satu bagian adalah ... (paling sederhana)
@@ -730,6 +988,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. 50/75 = (÷25) 2/3. ✅
 - **C** — Belum disederhanakan.
 - **D** — 1/2 = 37,5/75, bukan 50/75.
+
+- **Konsep kunci:** Menyatakan satu bagian dari total sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Bagian yang dimaksud dituliskan sebagai 50/75 terhadap total 75 bagian.
+  2. Cari FPB(50, 75) = 25, bagi keduanya: 50÷25 = 2, 75÷25 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -746,6 +1010,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(16, 40) = 8. 16÷8 = 2, 40÷8 = 5. ✅
 - **D** — Belum paling sederhana.
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(16, 40) = 8.
+  2. Bagi keduanya dengan 8: 16÷8 = 2, 40÷8 = 5.
+  3. Hasil paling sederhana 2/5.
+
 ---
 
 **46.** Pecahan yang senilai dengan 7/10 adalah ...
@@ -760,6 +1030,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Hanya penyebut dikali 2.
 - **C** — Hanya pembilang dikali 2.
 - **D** — Benar. 7/10 × 2/2 = 14/20. ✅
+
+- **Konsep kunci:** Pecahan senilai lewat perkalian pembilang & penyebut dengan angka sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 7/10 dengan 2/2.
+  2. Diperoleh 14/20.
+  3. Jadi 14/20 senilai dengan 7/10.
 
 ---
 
@@ -776,6 +1052,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(8, 24) = 8. 8÷8 = 1, 24÷8 = 3. ✅
 - **D** — Pembagi tidak sama (8÷8 = 1; 24÷3 = 8).
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(8, 24) = 8.
+  2. Bagi keduanya dengan 8: 8÷8 = 1, 24÷8 = 3.
+  3. Hasil paling sederhana 1/3.
+
 ---
 
 **48.** Pasangan pecahan yang BUKAN senilai adalah ...
@@ -790,6 +1072,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 4/5 × 2/2 = 8/10. Senilai.
 - **C** — 3/7 × 3/3 = 9/21. Senilai.
 - **D** — Benar. 2/5 ≠ 3/8 (cek silang: 2×8 = 16, 5×3 = 15). ✅
+
+- **Konsep kunci:** Mengenali pasangan pecahan yang BUKAN senilai lewat perkalian silang.
+- **Langkah Penyelesaian:**
+  1. Cek tiap pasangan dengan perkalian silang a×d vs b×c.
+  2. Untuk 2/5 dan 3/8: 2×8 = 16, 5×3 = 15, tidak sama.
+  3. Jadi 2/5 dan 3/8 bukan pasangan senilai.
 
 ---
 
@@ -806,6 +1094,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Belum paling sederhana.
 - **D** — Benar. FPB(45, 60) = 15. 45÷15 = 3, 60÷15 = 4. ✅
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(45, 60) = 15.
+  2. Bagi keduanya dengan 15: 45÷15 = 3, 60÷15 = 4.
+  3. Hasil paling sederhana 3/4.
+
 ---
 
 **50.** Pecahan yang sama dengan 1/2 adalah ...
@@ -820,6 +1114,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 40/100 = 2/5 = 0,4.
 - **C** — 25/100 = 1/4 = 0,25.
 - **D** — Benar. 1/2 = 50/100 (50%). ✅
+
+- **Konsep kunci:** Mengenali pecahan senilai dalam bentuk persen/perseratus.
+- **Langkah Penyelesaian:**
+  1. Ubah 1/2 menjadi pecahan berpenyebut 100.
+  2. Kalikan pembilang & penyebut dengan 50: 1×50 dan 2×50.
+  3. Jadi 50/100 sama dengan 1/2.
 
 ---
 
@@ -838,6 +1138,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. Pembilang: 4 → 8 berarti × 2. Jadi penyebut 9 × 2 = 18. ✅
 - **D** — 36 = jika dikali 4. Padahal pembilang hanya ×2.
 
+- **Konsep kunci:** Mencari nilai penyebut yang belum diketahui pada pecahan senilai.
+- **Langkah Penyelesaian:**
+  1. Cari pengali pembilang: 8 ÷ 4 = 2.
+  2. Kalikan penyebut dengan pengali sama: 9 × 2 = 18.
+  3. Jadi x = 18.
+
 ---
 
 **52.** Pecahan a/15 senilai dengan 2/5. Nilai a adalah ...
@@ -852,6 +1158,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 5 = sembarang.
 - **C** — Benar. Penyebut 5 → 15 berarti × 3. Jadi pembilang 2 × 3 = 6. ✅
 - **D** — 10 = jika dikali 5. Padahal pengali = 3.
+
+- **Konsep kunci:** Mencari nilai pembilang yang belum diketahui pada pecahan senilai.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 15 ÷ 5 = 3.
+  2. Kalikan pembilang dengan pengali sama: 2 × 3 = 6.
+  3. Jadi a = 6.
 
 ---
 
@@ -868,6 +1180,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Salah hitung penyebut.
 - **D** — Benar. Pembilang = 20, penyebut = 24. FPB(20, 24) = 4. 20÷4 = 5, 24÷4 = 6 → 5/6. ✅
 
+- **Konsep kunci:** Menghitung operasi dalam pembilang/penyebut dulu, baru menyederhanakan.
+- **Langkah Penyelesaian:**
+  1. Hitung pembilang: 12 + 8 = 20; hitung penyebut: 20 + 4 = 24.
+  2. Cari FPB(20, 24) = 4, bagi keduanya: 20÷4 = 5, 24÷4 = 6.
+  3. Hasil paling sederhana 5/6.
+
 ---
 
 **54.** Hasil paling sederhana dari (3 × 8)/(4 × 9) adalah ...
@@ -882,6 +1200,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 1/2 = 18/36, bukan 24/36.
 - **C** — 3/4 = 27/36, bukan 24/36.
 - **D** — Benar. Pembilang = 24, penyebut = 36. FPB = 12. 24÷12 = 2, 36÷12 = 3. ✅
+
+- **Konsep kunci:** Menghitung perkalian dalam pembilang/penyebut dulu, baru menyederhanakan.
+- **Langkah Penyelesaian:**
+  1. Hitung pembilang: 3×8 = 24; hitung penyebut: 4×9 = 36.
+  2. Cari FPB(24, 36) = 12, bagi keduanya: 24÷12 = 2, 36÷12 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -898,6 +1222,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Hanya penyebut dikali, pembilang tetap.
 - **D** — 16/21 tidak konsisten (4×4 = 16, tetapi 7×3 = 21, pengali beda).
 
+- **Konsep kunci:** Membentuk deret pecahan senilai dengan mengalikan pembilang & penyebut dengan bilangan berurutan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4/7 dengan 2/2, 3/3, 4/4 secara berurutan.
+  2. Diperoleh 8/14, 12/21, 16/28.
+  3. Ketiganya senilai dengan 4/7.
+
 ---
 
 **56.** Pecahan 84/126 paling sederhana adalah ...
@@ -912,6 +1242,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana.
 - **C** — Benar. FPB(84, 126) = 42. 84÷42 = 2, 126÷42 = 3. ✅
 - **D** — Salah hitung; 84/126 ≈ 0,67, bukan 0,7.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(84, 126) = 42.
+  2. Bagi keduanya dengan 42: 84÷42 = 2, 126÷42 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -928,6 +1264,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 36 = jika dikali 4½. Tidak utuh.
 - **D** — 48 = jika dikali 6. Pengali pembilang seharusnya 4.
 
+- **Konsep kunci:** Mencari nilai penyebut pada pecahan senilai dari pengali pembilang.
+- **Langkah Penyelesaian:**
+  1. Cari pengali pembilang: 12 ÷ 3 = 4.
+  2. Kalikan penyebut dengan pengali sama: 8 × 4 = 32.
+  3. Jadi k = 32.
+
 ---
 
 **58.** Pecahan paling sederhana dari hasil perkalian 6/8 × 4/3 adalah ...
@@ -942,6 +1284,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 1/2 = 0,5; salah perhitungan.
 - **C** — 24/24 = 1, jadi A lebih sederhana.
 - **D** — 2/4 = 1/2 = 0,5; salah perhitungan.
+
+- **Konsep kunci:** Mengalikan pecahan lalu menyederhanakan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang: 6×4 = 24; kalikan penyebut: 8×3 = 24.
+  2. Diperoleh 24/24.
+  3. 24/24 = 1.
 
 ---
 
@@ -958,6 +1306,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. 12 × 5 = 60, jadi 7 × 5 = 35. ✅
 - **D** — 60 = menyamakan dengan penyebut.
 
+- **Konsep kunci:** Mencari nilai pembilang pada pecahan senilai dari pengali penyebut.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 60 ÷ 12 = 5.
+  2. Kalikan pembilang dengan pengali sama: 7 × 5 = 35.
+  3. Jadi a = 35.
+
 ---
 
 **60.** Pecahan paling sederhana dari 72/108 adalah ...
@@ -972,6 +1326,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana.
 - **C** — Benar. FPB(72, 108) = 36. 72÷36 = 2, 108÷36 = 3. ✅
 - **D** — Belum paling sederhana.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(72, 108) = 36.
+  2. Bagi keduanya dengan 36: 72÷36 = 2, 108÷36 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -988,6 +1348,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Belum disederhanakan.
 - **D** — 4/9 = 16/36 (jumlah biru), bukan hijau.
 
+- **Konsep kunci:** Menghitung sisa dari total lalu menyatakannya sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Kelereng hijau = 36 − 12 − 16 = 8.
+  2. Tulis sebagai pecahan 8/36, cari FPB(8, 36) = 4.
+  3. Bagi keduanya: 8÷4 = 2, 36÷4 = 9 → hasil 2/9.
+
 ---
 
 **62.** Pasangan pecahan yang TIDAK senilai adalah ...
@@ -1002,6 +1368,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 7/8 × 2/2 = 14/16. Senilai.
 - **C** — 9/11 × 2/2 = 18/22. Senilai.
 - **D** — Benar. 3/4 × 4/4 = 12/16 (bukan 9/16). Tidak senilai. ✅
+
+- **Konsep kunci:** Mengenali pasangan yang TIDAK senilai lewat perkalian pembilang & penyebut secara konsisten.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi dengan mengalikan pecahan pertama dengan angka sama.
+  2. 3/4 × 4/4 = 12/16, bukan 9/16.
+  3. Jadi 3/4 dan 9/16 tidak senilai.
 
 ---
 
@@ -1018,6 +1390,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 11 = salah hitung.
 - **D** — 20 = total penyebut, bukan pecahan senilai.
 
+- **Konsep kunci:** Menghitung banyaknya pecahan senilai dalam rentang penyebut tertentu.
+- **Langkah Penyelesaian:**
+  1. Daftar kelipatan penyebut 2 dari 4 sampai 20: 4, 6, 8, ..., 20.
+  2. Setiap kelipatan menghasilkan satu pecahan senilai dengan 1/2.
+  3. Banyaknya pecahan tersebut ada 9.
+
 ---
 
 **64.** Pecahan paling sederhana dari 144/216 adalah ...
@@ -1032,6 +1410,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Belum paling sederhana.
 - **C** — Benar. FPB(144, 216) = 72. 144÷72 = 2, 216÷72 = 3. ✅
 - **D** — Belum paling sederhana.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(144, 216) = 72.
+  2. Bagi keduanya dengan 72: 144÷72 = 2, 216÷72 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -1048,6 +1432,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. x/24 = 5/8 → x = 15 (karena 8×3 = 24, 5×3 = 15). y/40 = 5/8 → y = 25 (karena 8×5 = 40, 5×5 = 25). x + y = 15 + 25 = 40. ✅
 - **D** — 50 = salah jumlah.
 
+- **Konsep kunci:** Mencari nilai pembilang pada beberapa pecahan senilai, lalu menjumlahkannya.
+- **Langkah Penyelesaian:**
+  1. Untuk x/24 = 5/8: pengali penyebut 24÷8 = 3, maka x = 5×3 = 15.
+  2. Untuk y/40 = 5/8: pengali penyebut 40÷8 = 5, maka y = 5×5 = 25.
+  3. Jumlahkan: x + y = 15 + 25 = 40.
+
 ---
 
 **66.** Pecahan 21/49 paling sederhana adalah ...
@@ -1062,6 +1452,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. FPB(21, 49) = 7. 21÷7 = 3, 49÷7 = 7. ✅
 - **C** — 7/9 ≠ 21/49 (cek silang: 7×49 = 343, 9×21 = 189).
 - **D** — 1/2 ≠ 21/49.
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(21, 49) = 7.
+  2. Bagi keduanya dengan 7: 21÷7 = 3, 49÷7 = 7.
+  3. Hasil paling sederhana 3/7.
 
 ---
 
@@ -1078,6 +1474,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/3 = 40/120.
 - **D** — 5/6 = 100/120.
 
+- **Konsep kunci:** Menghitung perkalian dalam pembilang/penyebut dulu, baru menyederhanakan.
+- **Langkah Penyelesaian:**
+  1. Hitung pembilang: 5×12 = 60; hitung penyebut: 15×8 = 120.
+  2. Cari FPB(60, 120) = 60, bagi keduanya: 60÷60 = 1, 120÷60 = 2.
+  3. Hasil paling sederhana 1/2.
+
 ---
 
 **68.** Jika 18/p senilai dengan 6/q dan p = 3q, dan q + p = 16, maka nilai p adalah ...
@@ -1092,6 +1494,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 8 = jika q = 2, salah.
 - **C** — 10 = sembarang.
 - **D** — Benar. 18/p = 6/q → 18q = 6p → p = 3q. q + p = q + 3q = 4q = 16 → q = 4. Jadi p = 3 × 4 = 12. ✅
+
+- **Konsep kunci:** Menyelesaikan sistem persamaan dari hubungan pecahan senilai dan syarat tambahan.
+- **Langkah Penyelesaian:**
+  1. Dari 18/p = 6/q diperoleh hubungan p = 3q.
+  2. Substitusi ke p + q = 16: 3q + q = 4q = 16 → q = 4.
+  3. Maka p = 3 × 4 = 12.
 
 ---
 
@@ -1108,6 +1516,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 7/12 adalah yang dimakan, bukan yang sisa.
 - **D** — 5/6 = 10/12, bukan 5/12.
 
+- **Konsep kunci:** Menghitung sisa dari total bagian lalu menyatakannya sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Total dimakan = 4 + 3 = 7 potong dari 12.
+  2. Sisa = 12 − 7 = 5 potong, ditulis 5/12.
+  3. Cari FPB(5, 12) = 1, jadi 5/12 sudah paling sederhana.
+
 ---
 
 **70.** Pecahan yang senilai dengan 18/45 dan paling sederhana adalah ...
@@ -1122,6 +1536,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 9/22 ≠ 18/45 (cek silang: 9×45 = 405, 22×18 = 396).
 - **C** — 4/9 ≠ 18/45 (4/9 = 20/45, bukan 18/45).
 - **D** — Benar. FPB(18, 45) = 9. 18÷9 = 2, 45÷9 = 5. ✅
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(18, 45) = 9.
+  2. Bagi keduanya dengan 9: 18÷9 = 2, 45÷9 = 5.
+  3. Hasil paling sederhana 2/5.
 
 ---
 
@@ -1138,6 +1558,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Salah hitung.
 - **D** — 1/2 = 42/84, bukan 56/84.
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(56, 84) = 28.
+  2. Bagi keduanya dengan 28: 56÷28 = 2, 84÷28 = 3.
+  3. Hasil paling sederhana 2/3 m.
+
 ---
 
 **72.** Jika 11/15 = (x − 1)/45, maka x = ...
@@ -1152,6 +1578,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. 11/15 = 33/45 (pembilang dikali 3). Jadi x − 1 = 33 → x = 34. ✅
 - **C** — 32 = x − 2.
 - **D** — 45 = penyebut.
+
+- **Konsep kunci:** Mencari nilai variabel dari hubungan pecahan senilai.
+- **Langkah Penyelesaian:**
+  1. Cari pengali penyebut: 45 ÷ 15 = 3.
+  2. Kalikan pembilang dengan pengali sama: 11 × 3 = 33, sehingga x − 1 = 33.
+  3. Maka x = 33 + 1 = 34.
 
 ---
 
@@ -1168,6 +1600,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1 = pembilang = penyebut, salah.
 - **D** — a/2 = hanya melibatkan a, salah.
 
+- **Konsep kunci:** Menyederhanakan pecahan aljabar dengan memfaktorkan bentuk yang sama di pembilang dan penyebut.
+- **Langkah Penyelesaian:**
+  1. Faktorkan penyebut: 2a + 2b = 2(a + b).
+  2. Bentuk pecahan menjadi (a + b)/(2(a + b)).
+  3. Coret faktor (a + b) yang sama, hasil 1/2.
+
 ---
 
 **74.** Sederhanakan: 5/8 + 0 = ...
@@ -1182,6 +1620,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 5/16 tidak senilai.
 - **C** — 0 = jika dikali 0.
 - **D** — 10/16 = 5/8, ini juga senilai, tapi bentuk sederhana = 5/8 (jawaban A).
+
+- **Konsep kunci:** Sifat penjumlahan dengan nol tidak mengubah nilai pecahan.
+- **Langkah Penyelesaian:**
+  1. Tambahkan 5/8 dengan 0.
+  2. Nilai pecahan tidak berubah karena menambah 0.
+  3. Hasilnya tetap 5/8.
 
 ---
 
@@ -1198,6 +1642,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. FPB(105, 175) = 35. 105÷35 = 3, 175÷35 = 5. ✅
 - **D** — 7/9 ≠ 0,6 (= 105/175).
 
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(105, 175) = 35.
+  2. Bagi keduanya dengan 35: 105÷35 = 3, 175÷35 = 5.
+  3. Hasil paling sederhana 3/5.
+
 ---
 
 **76.** Sebuah sekolah memiliki 360 siswa. Dari mereka, 240 siswa mengikuti ekskul. Pecahan paling sederhana yang mengikuti ekskul adalah ...
@@ -1212,6 +1662,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 3/4 = 270/360, bukan 240/360.
 - **C** — 4/5 = 288/360.
 - **D** — Benar. 240/360, FPB(240, 360) = 120. 240÷120 = 2, 360÷120 = 3. ✅
+
+- **Konsep kunci:** Menyatakan bagian dari total sebagai pecahan sederhana.
+- **Langkah Penyelesaian:**
+  1. Siswa ekskul = 240 dari 360, ditulis 240/360.
+  2. Cari FPB(240, 360) = 120, bagi keduanya: 240÷120 = 2, 360÷120 = 3.
+  3. Hasil paling sederhana 2/3.
 
 ---
 
@@ -1228,6 +1684,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. 5/7 = 5k/7k. m + n = 5k + 7k = 12k = 36 → k = 3. Jadi m = 5×3 = 15. ✅
 - **D** — 18 = jika 18/24 (tidak senilai 5/7).
 
+- **Konsep kunci:** Menyelesaikan soal pecahan dengan memisalkan m = 5k dan n = 7k.
+- **Langkah Penyelesaian:**
+  1. Tulis m = 5k dan n = 7k karena m/n = 5/7.
+  2. Substitusi ke m + n = 36: 5k + 7k = 12k = 36 → k = 3.
+  3. Maka m = 5 × 3 = 15.
+
 ---
 
 **78.** Pecahan paling sederhana dari 39/52 adalah ...
@@ -1242,6 +1704,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Tertukar.
 - **C** — 1/2 = 26/52, bukan 39/52.
 - **D** — Benar. FPB(39, 52) = 13. 39÷13 = 3, 52÷13 = 4. ✅
+
+- **Konsep kunci:** Bentuk paling sederhana via FPB.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(39, 52) = 13.
+  2. Bagi keduanya dengan 13: 39÷13 = 3, 52÷13 = 4.
+  3. Hasil paling sederhana 3/4.
 
 ---
 
@@ -1258,6 +1726,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Hanya penyebut dikali.
 - **D** — Hanya pembilang dikali.
 
+- **Konsep kunci:** Membentuk beberapa pecahan senilai dengan mengalikan pembilang & penyebut dengan bilangan berurutan yang sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4/5 dengan 2/2, 3/3, 4/4 secara berurutan.
+  2. Diperoleh 8/10, 12/15, 16/20.
+  3. Ketiganya senilai dengan 4/5.
+
 ---
 
 **80.** Jika 27/x dan 9/11 senilai, maka x = ...
@@ -1272,6 +1746,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. 9/11 × 3/3 = 27/33. Jadi x = 33. ✅
 - **C** — 44 = jika dikali 4 (pembilang seharusnya 36).
 - **D** — 99 = jika dikali 9 (pembilang seharusnya 81).
+
+- **Konsep kunci:** Mencari nilai penyebut pada pecahan senilai dari pengali pembilang.
+- **Langkah Penyelesaian:**
+  1. 9/11 dikali 3/3 menghasilkan pembilang 27.
+  2. Kalikan penyebut dengan pengali sama: 11 × 3 = 33.
+  3. Jadi x = 33.
 
 ---
 
@@ -1290,6 +1770,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Salah faktorisasi.
 - **D** — 1/30 = 15/450, bukan 60/450.
 
+- **Konsep kunci:** Menyederhanakan pecahan berbentuk perkalian faktor prima dengan FPB.
+- **Langkah Penyelesaian:**
+  1. Hitung pembilang: 2² × 3 × 5 = 60; hitung penyebut: 2 × 3² × 5² = 450.
+  2. Cari FPB(60, 450) = 30, bagi keduanya: 60÷30 = 2, 450÷30 = 15.
+  3. Hasil paling sederhana 2/15.
+
 ---
 
 **82.** Ada berapa pecahan paling sederhana dengan penyebut 12 dan pembilang antara 1 hingga 11?
@@ -1304,6 +1790,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 5 = salah hitung.
 - **C** — 6 = jumlah pembilang dengan FPB ≠ 1.
 - **D** — Benar. Yang sudah paling sederhana (FPB pembilang & 12 = 1): pembilang ∈ {1, 5, 7, 11}. Ada **4** pecahan: 1/12, 5/12, 7/12, 11/12. ✅
+
+- **Konsep kunci:** Menghitung banyaknya pecahan paling sederhana (FPB pembilang & penyebut = 1) untuk penyebut tertentu.
+- **Langkah Penyelesaian:**
+  1. Cek setiap pembilang 1–11 apakah FPB-nya dengan 12 sama dengan 1.
+  2. Pembilang yang memenuhi: 1, 5, 7, 11.
+  3. Banyaknya ada 4.
 
 ---
 
@@ -1320,6 +1812,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/16 = 15/240.
 - **D** — Benar. Pembilang = 6 + 24 = 30; Penyebut = 2 × 120 = 240. 30/240 = 1/8 (÷30). ✅
 
+- **Konsep kunci:** Menghitung nilai faktorial lalu menyederhanakan hasil operasi pecahan.
+- **Langkah Penyelesaian:**
+  1. Hitung pembilang: 3! + 4! = 6 + 24 = 30; hitung penyebut: 2! × 5! = 2 × 120 = 240.
+  2. Cari FPB(30, 240) = 30, bagi keduanya: 30÷30 = 1, 240÷30 = 8.
+  3. Hasil paling sederhana 1/8.
+
 ---
 
 **84.** Jika a/b = 3/7 (paling sederhana) dan a + b = 50, maka b − a = ...
@@ -1334,6 +1832,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 15 = sembarang.
 - **C** — Benar. a = 3k, b = 7k. a + b = 10k = 50 → k = 5. Jadi a = 15, b = 35. b − a = 35 − 15 = 20. ✅
 - **D** — 25 = salah hitung.
+
+- **Konsep kunci:** Menyelesaikan soal pecahan paling sederhana dengan memisalkan a = 3k, b = 7k.
+- **Langkah Penyelesaian:**
+  1. Karena a/b = 3/7 paling sederhana, misalkan a = 3k dan b = 7k.
+  2. Substitusi ke a + b = 50: 3k + 7k = 10k = 50 → k = 5.
+  3. Maka a = 15, b = 35, sehingga b − a = 20.
 
 ---
 
@@ -1350,6 +1854,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. 1001 = 7 × 11 × 13; 1331 = 11³ = 11 × 11 × 11. FPB = 11. 1001÷11 = 91, 1331÷11 = 121. Hasil 91/121 = (7×13)/(11×11) — tidak ada faktor sama lagi, sehingga paling sederhana. ✅
 - **D** — 11/121 = hasil membagi yang salah; pembilang seharusnya 91.
 
+- **Konsep kunci:** Menyederhanakan pecahan besar dengan faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 1001 = 7×11×13 dan 1331 = 11³.
+  2. Cari FPB dari kedua faktorisasi = 11.
+  3. Bagi keduanya dengan 11: 1001÷11 = 91, 1331÷11 = 121 → hasil 91/121.
+
 ---
 
 **86.** Jika a/b senilai dengan 5/8 dan a × b = 360, maka a + b = ...
@@ -1364,6 +1874,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. a = 5k, b = 8k. a × b = 40k² = 360 → k² = 9 → k = 3. a = 15, b = 24. a + b = 39. ✅
 - **C** — 52 = jika k = 4 (40×16 = 640, bukan 360).
 - **D** — 65 = salah.
+
+- **Konsep kunci:** Menyelesaikan soal pecahan senilai dengan memisalkan a = 5k, b = 8k lalu menggunakan hasil kali.
+- **Langkah Penyelesaian:**
+  1. Karena a/b senilai 5/8, misalkan a = 5k dan b = 8k.
+  2. Substitusi ke a × b = 360: 40k² = 360 → k² = 9 → k = 3.
+  3. Maka a = 15, b = 24, sehingga a + b = 39.
 
 ---
 
@@ -1380,6 +1896,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. Φ(2)+Φ(3)+…+Φ(10) (jumlah pecahan paling sederhana <1 per penyebut). Φ(2)=1, Φ(3)=2, Φ(4)=2, Φ(5)=4, Φ(6)=2, Φ(7)=6, Φ(8)=4, Φ(9)=6, Φ(10)=4. Total = 1+2+2+4+2+6+4+6+4 = **31**. ✅
 - **D** — 33 = salah hitung.
 
+- **Konsep kunci:** Menghitung banyaknya pecahan paling sederhana menggunakan fungsi Euler (banyaknya bilangan yang koprima dengan penyebut).
+- **Langkah Penyelesaian:**
+  1. Hitung Φ(n) untuk tiap penyebut n = 2 sampai 10.
+  2. Jumlahkan seluruh nilai Φ: 1+2+2+4+2+6+4+6+4.
+  3. Hasil totalnya adalah 31.
+
 ---
 
 **88.** Jika 3/4, 6/8, dan k/16 adalah pecahan senilai, maka k = ...
@@ -1394,6 +1916,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 9 = jika dikali 3/3 (padahal 3/4 × 4/4 = 12/16).
 - **C** — Benar. 3/4 × 4/4 = 12/16. Jadi k = 12. ✅
 - **D** — 16 = penyebut.
+
+- **Konsep kunci:** Menentukan nilai yang hilang dari pecahan senilai dengan pengali yang sama.
+- **Langkah Penyelesaian:**
+  1. Cari pengali dari 3/4 menuju penyebut 16: 16 ÷ 4 = 4.
+  2. Kalikan pembilang dengan pengali sama: 3 × 4 = 12.
+  3. Jadi k = 12.
 
 ---
 
@@ -1410,6 +1938,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 224 = jika 14 × 16 (k = 2 tetapi 14 + 16 = 30, bukan 60).
 - **D** — Benar. p = 7k, q = 8k. p + q = 15k = 60 → k = 4. Jadi p = 28, q = 32. p × q = 28 × 32 = 896. ✅
 
+- **Konsep kunci:** Menyelesaikan soal pecahan senilai dengan memisalkan p = 7k, q = 8k lalu menggunakan jumlah untuk mencari hasil kali.
+- **Langkah Penyelesaian:**
+  1. Karena p/q senilai 7/8, misalkan p = 7k dan q = 8k.
+  2. Substitusi ke p + q = 60: 15k = 60 → k = 4.
+  3. Maka p = 28, q = 32, sehingga p × q = 896.
+
 ---
 
 **90.** Pecahan paling sederhana dari 12345/67890 adalah ...
@@ -1424,6 +1958,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 1/5 = 13578/67890, bukan 12345/67890.
 - **C** — 13/72 salah hitung.
 - **D** — Belum paling sederhana (2469 = 3×823, 13578 = 3×4526, jadi 2469/13578 = 823/4526).
+
+- **Konsep kunci:** Menyederhanakan pecahan besar dengan mencari FPB lalu memverifikasi hasil sudah paling sederhana.
+- **Langkah Penyelesaian:**
+  1. Cari FPB(12345, 67890) = 15.
+  2. Bagi keduanya dengan 15: 12345÷15 = 823, 67890÷15 = 4526.
+  3. Cek FPB(823, 4526) = 1, sehingga 823/4526 sudah paling sederhana.
 
 ---
 
@@ -1440,6 +1980,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 4 = termasuk (2, 12) yang tidak paling sederhana.
 - **D** — 6 = semua a < b tanpa filter.
 
+- **Konsep kunci:** Mencari banyaknya pasangan pecahan paling sederhana dengan jumlah pembilang-penyebut tertentu.
+- **Langkah Penyelesaian:**
+  1. Cari semua pasangan (a, b) dengan a + b = 14 dan a < b.
+  2. Saring pasangan yang FPB(a, b) = 1.
+  3. Pasangan yang memenuhi: (1,13), (3,11), (5,9) — ada 3.
+
 ---
 
 **92.** Jika pecahan (n + 5)/(n + 8) paling sederhana untuk semua n bilangan asli, manakah pernyataan yang BENAR?
@@ -1454,6 +2000,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. FPB((n+5), (n+8)) = FPB((n+5), 3) (sifat: FPB(a, b) = FPB(a, b−a)). Maka paling sederhana ↔ n + 5 tidak habis dibagi 3. ✅
 - **C** — Salah; kadang paling sederhana.
 - **D** — Salah; nilai berubah per n.
+
+- **Konsep kunci:** Menggunakan sifat FPB(a, b) = FPB(a, b−a) untuk menentukan syarat pecahan paling sederhana.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih penyebut dan pembilang: (n+8) − (n+5) = 3.
+  2. Terapkan sifat FPB(n+5, n+8) = FPB(n+5, 3).
+  3. Pecahan paling sederhana hanya jika n+5 tidak habis dibagi 3.
 
 ---
 
@@ -1470,6 +2022,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — 1/50 salah hitung.
 - **D** — Benar. Hasil telescoping: (1/2)(2/3)(3/4)…(99/100) = 1/100 (semua pembilang batal dengan penyebut sebelumnya). ✅
 
+- **Konsep kunci:** Perkalian beruntun pecahan yang saling mencoret (telescoping).
+- **Langkah Penyelesaian:**
+  1. Tulis perkalian: (1/2)×(2/3)×(3/4)×...×(99/100).
+  2. Setiap pembilang mencoret penyebut suku sebelumnya.
+  3. Hasil akhir yang tersisa adalah 1/100.
+
 ---
 
 **94.** Jika pecahan a/b senilai dengan 3/5 dan FPB(a, b) = 7, maka b = ...
@@ -1484,6 +2042,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 28 = sembarang.
 - **C** — 42 = jika dikali 6 untuk dapatkan 18/30, tapi FPB-nya 6, bukan 7.
 - **D** — Benar. a/b = 3/5, jika dikali k → a = 3k, b = 5k. FPB(3k, 5k) = k (karena FPB(3, 5) = 1). Diberi FPB = 7 → k = 7. Jadi b = 5 × 7 = 35. ✅
+
+- **Konsep kunci:** Menghubungkan FPB pecahan senilai dengan pengali k.
+- **Langkah Penyelesaian:**
+  1. Karena a/b senilai 3/5, tulis a = 3k, b = 5k.
+  2. Karena FPB(3, 5) = 1, maka FPB(a, b) = k.
+  3. Diberi FPB = 7, maka k = 7, sehingga b = 5 × 7 = 35.
 
 ---
 
@@ -1500,6 +2064,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Benar. Penyebut 8-21 (14 angka). Pecahan 7/n paling sederhana ↔ FPB(7, n) = 1 ↔ n tidak kelipatan 7. Antara 8 dan 21 ada n = 14 dan n = 21 yang kelipatan 7. Maka jumlah paling sederhana = 14 − 2 = **12**. ✅
 - **D** — 14 = total penyebut.
 
+- **Konsep kunci:** Menghitung banyaknya pecahan paling sederhana dengan pembilang tetap dalam rentang penyebut.
+- **Langkah Penyelesaian:**
+  1. Hitung banyaknya bilangan dari 8 sampai 21 (ada 14 bilangan).
+  2. Pecahan 7/n tidak paling sederhana jika n kelipatan 7 (yaitu 14 dan 21).
+  3. Banyaknya yang paling sederhana = 14 − 2 = 12.
+
 ---
 
 **96.** Jika 1/2 + 1/3 + 1/n = 1 dan paling sederhana, maka n = ...
@@ -1514,6 +2084,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — 1/5: 15/30 + 10/30 + 6/30 = 31/30 ≠ 1.
 - **C** — Benar. 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1. ✅
 - **D** — 1/12: 6/12 + 4/12 + 1/12 = 11/12 ≠ 1.
+
+- **Konsep kunci:** Menyelesaikan persamaan pecahan dengan mencoba nilai n dan menyamakan penyebut.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/2, 1/3, dan 1/n dengan KPK-nya.
+  2. Untuk n = 6: 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1.
+  3. Jadi n = 6 memenuhi persamaan.
 
 ---
 
@@ -1530,6 +2106,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Salah, tidak terbukti dari aljabar.
 - **D** — Salah; jika a = b + 1 maka tidak senilai.
 
+- **Konsep kunci:** Membuktikan kesamaan pecahan aljabar dengan perkalian silang.
+- **Langkah Penyelesaian:**
+  1. Terapkan perkalian silang: a(b+1) = b(a+1).
+  2. Uraikan: ab + a = ab + b.
+  3. Sederhanakan menjadi a = b.
+
 ---
 
 **98.** Diberikan deret pecahan: 1/2, 2/4, 3/6, 4/8, ..., 50/100. Semua pecahan ini ...
@@ -1544,6 +2126,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Benar. Tiap pecahan berbentuk k/(2k) yang setara dengan 1/2 untuk semua k = 1, 2, ..., 50. ✅
 - **C** — 1/4 ≠ 1/2.
 - **D** — Salah; semua senilai.
+
+- **Konsep kunci:** Mengenali pola pecahan berbentuk k/(2k) yang semuanya senilai dengan 1/2.
+- **Langkah Penyelesaian:**
+  1. Perhatikan tiap suku berbentuk k/(2k) untuk k = 1 sampai 50.
+  2. Setiap k/(2k) dapat disederhanakan menjadi 1/2.
+  3. Jadi semua pecahan dalam deret tersebut senilai dengan 1/2.
 
 ---
 
@@ -1560,6 +2148,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **C** — Belum paling sederhana (12/27 = 4/9).
 - **D** — Salah; 13/13 = 1, tidak terkait.
 
+- **Konsep kunci:** Menyelesaikan soal pecahan senilai dengan pengali k, lalu menyederhanakan hasil akhirnya.
+- **Langkah Penyelesaian:**
+  1. Karena a/b = 4/9, misalkan a = 4k dan b = 9k.
+  2. Substitusi ke a + b = 26: 13k = 26 → k = 2.
+  3. Maka a = 8, b = 18, dan bentuk paling sederhananya tetap 4/9.
+
 ---
 
 **100.** Selesaikan: tentukan pecahan paling sederhana dari (a² − b²)/(a + b)(a − b), dengan a ≠ ±b.
@@ -1574,6 +2168,12 @@ Dua pecahan a/b dan c/d senilai jika **a × d = b × c** (perkalian silang).
 - **B** — Salah; tidak ada faktor a/b.
 - **C** — Salah; hanya faktor pembilang.
 - **D** — Salah; pengabaian faktorisasi.
+
+- **Konsep kunci:** Menyederhanakan pecahan aljabar dengan memfaktorkan selisih dua kuadrat.
+- **Langkah Penyelesaian:**
+  1. Faktorkan pembilang: a² − b² = (a+b)(a−b).
+  2. Bandingkan dengan penyebut yang sudah berbentuk (a+b)(a−b).
+  3. Karena pembilang dan penyebut sama, hasilnya adalah 1.
 
 ---
 

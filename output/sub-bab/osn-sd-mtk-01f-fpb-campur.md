@@ -162,6 +162,12 @@ FPB dari 8 dan 12 adalah …
 - **B** — Faktor 8 = {1, 2, 4, 8}; Faktor 12 = {1, 2, 3, 4, 6, 12}. Persekutuan = {1, 2, 4}. Terbesar = **4**. ✓
 - **C** — 8 tidak membagi habis 12 (12 ÷ 8 = 1 sisa 4). Salah kira FPB = bilangan terkecil.
 - **D** — 24 adalah KPK(8, 12), bukan FPB. Tertukar konsep.
+- **Konsep kunci:** FPB (Faktor Persekutuan Terbesar) adalah bilangan terbesar yang membagi habis dua bilangan atau lebih.
+- **Langkah Penyelesaian:**
+  1. Faktor 8 = {1, 2, 4, 8}
+  2. Faktor 12 = {1, 2, 3, 4, 6, 12}
+  3. Persekutuan = {1, 2, 4}
+  4. Terbesar = **4**. ✓
 
 ---
 
@@ -187,6 +193,12 @@ Eh — ralat pilih ulang. FPB dari 6 dan 9 adalah …
 - **B** — Faktor 6 = {1, 2, 3, 6}; Faktor 9 = {1, 3, 9}. Persekutuan = {1, 3}. Terbesar = **3**. ✓
 - **C** — 6 tidak membagi 9. Mengira bilangan terkecil otomatis FPB.
 - **D** — 9 tidak membagi 6. Itu bilangan terbesar, bukan FPB.
+- **Konsep kunci:** FPB (Faktor Persekutuan Terbesar) adalah bilangan terbesar yang membagi habis dua bilangan atau lebih.
+- **Langkah Penyelesaian:**
+  1. Faktor 6 = {1, 2, 3, 6}
+  2. Faktor 9 = {1, 3, 9}
+  3. Persekutuan = {1, 3}
+  4. Terbesar = **3**. ✓
 
 ---
 
@@ -205,6 +217,12 @@ FPB dari 10 dan 15 adalah …
 - **B** — 3 membagi 15 tetapi tidak membagi 10. Hanya faktor satu pihak.
 - **C** — 10 = 2 × 5; 15 = 3 × 5. Faktor sama hanya **5**. FPB = **5**. ✓
 - **D** — 30 = KPK(10, 15). Tertukar dengan KPK.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 10 = 2 × 5
+  2. 15 = 3 × 5
+  3. Faktor sama hanya **5**
+  4. FPB = **5**. ✓
 
 ---
 
@@ -223,6 +241,10 @@ FPB dari 6 dan 18 adalah …
 - **B** — 3 juga membagi keduanya tetapi masih ada 6 yang lebih besar.
 - **C** — Karena 18 habis dibagi 6 (18 ÷ 6 = 3), maka FPB = bilangan **terkecil** = **6**. ✓
 - **D** — 18 tidak membagi 6 (6 < 18). Bukan FPB.
+- **Konsep kunci:** Jika satu bilangan habis membagi bilangan lain, FPB keduanya adalah bilangan yang lebih kecil.
+- **Langkah Penyelesaian:**
+  1. Cek apakah bilangan yang lebih besar (18) habis dibagi bilangan yang lebih kecil (6)
+  2. Karena 18 ÷ 6 = 3 (habis, tanpa sisa), maka FPB(6, 18) = bilangan yang lebih kecil = **6**
 
 ---
 
@@ -241,6 +263,10 @@ Faktorisasi prima dari 12 adalah …
 - **B** — 12 = 2 × 2 × 3 = **2² × 3**. Semua faktor prima. ✓
 - **C** — 4 bukan prima (4 = 2²). Belum tuntas.
 - **D** — 2 × 3² = 2 × 9 = 18, bukan 12. Salah pangkat.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, lalu pilih pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 12 = 2 × 2 × 3 = **2² × 3**
+  2. Semua faktor prima. ✓
 
 ---
 
@@ -259,6 +285,11 @@ FPB(12, 18) dihitung dengan faktorisasi prima: 12 = 2² × 3 dan 18 = 2 × 3². 
 - **B** — Ini KPK, mengambil pangkat **terbesar**. Tertukar aturan.
 - **C** — Mengambil pangkat 2 dari 12, lupa bahwa 18 hanya punya 2¹. Harus pangkat terkecil.
 - **D** — Mengambil pangkat 3 dari 18, padahal 12 hanya punya 3¹.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, lalu pilih pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. Faktor sama: 2 dan 3
+  2. Pangkat **terkecil**: 2¹ (dari 18) dan 3¹ (dari 12)
+  3. FPB = 2 × 3 = **6**. ✓
 
 ---
 
@@ -277,6 +308,12 @@ FPB dari 8 dan 20 adalah …
 - **B** — 8 = 2³; 20 = 2² × 5. Faktor sama: 2. Pangkat terkecil: 2². FPB = **4**. ✓
 - **C** — 8 tidak membagi 20 (20 ÷ 8 = 2 sisa 4). Bukan faktor 20.
 - **D** — 40 = KPK(8, 20). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 8 = 2³
+  2. 20 = 2² × 5
+  3. Faktor sama: 2
+  4. FPB = **4**. ✓
 
 ---
 
@@ -295,6 +332,12 @@ FPB dari 15 dan 20 adalah …
 - **B** — 15 = 3 × 5; 20 = 2² × 5. Faktor sama: **5**. FPB = **5**. ✓
 - **C** — 10 tidak membagi 15 (15 ÷ 10 bersisa).
 - **D** — 60 = KPK(15, 20). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 15 = 3 × 5
+  2. 20 = 2² × 5
+  3. Faktor sama: **5**
+  4. FPB = **5**. ✓
 
 ---
 
@@ -313,6 +356,12 @@ FPB dari 16 dan 24 adalah …
 - **B** — 4 membagi keduanya, tetapi 8 juga membagi keduanya — masih bisa lebih besar.
 - **C** — 16 = 2⁴; 24 = 2³ × 3. Faktor sama: 2. Pangkat terkecil: 2³ = **8**. ✓
 - **D** — 48 = KPK(16, 24). Salah konsep.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 16 = 2⁴
+  2. 24 = 2³ × 3
+  3. Faktor sama: 2
+  4. Pangkat terkecil: 2³ = **8**. ✓
 
 ---
 
@@ -331,6 +380,12 @@ FPB dari 18 dan 27 adalah …
 - **B** — 6 tidak membagi 27 (27 ÷ 6 = 4 sisa 3).
 - **C** — 18 = 2 × 3²; 27 = 3³. Faktor sama: 3. Pangkat terkecil: 3² = **9**. ✓
 - **D** — 54 = KPK(18, 27). Tertukar dengan KPK.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 18 = 2 × 3²
+  2. 27 = 3³
+  3. Faktor sama: 3
+  4. Pangkat terkecil: 3² = **9**. ✓
 
 ---
 
@@ -349,6 +404,12 @@ FPB dari 24 dan 36 adalah …
 - **B** — 6 membagi keduanya, tetapi belum maksimum.
 - **C** — 24 = 2³ × 3; 36 = 2² × 3². Pangkat terkecil: 2² dan 3¹. FPB = 4 × 3 = **12**. ✓
 - **D** — 72 = KPK(24, 36). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 24 = 2³ × 3
+  2. 36 = 2² × 3²
+  3. Pangkat terkecil: 2² dan 3¹
+  4. FPB = 4 × 3 = **12**. ✓
 
 ---
 
@@ -367,6 +428,12 @@ FPB dari 30 dan 45 adalah …
 - **B** — 9 tidak membagi 30 (30 ÷ 9 bersisa). Salah faktor.
 - **C** — 30 = 2 × 3 × 5; 45 = 3² × 5. Sama: 3 dan 5. Pangkat kecil: 3¹ × 5¹ = **15**. ✓
 - **D** — 90 = KPK(30, 45). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 30 = 2 × 3 × 5
+  2. 45 = 3² × 5
+  3. Sama: 3 dan 5
+  4. Pangkat kecil: 3¹ × 5¹ = **15**. ✓
 
 ---
 
@@ -385,6 +452,10 @@ FPB dari 7 dan 11 adalah …
 - **B** — 7 tidak membagi 11 (11 ÷ 7 bersisa).
 - **C** — 11 tidak membagi 7 (7 < 11). Bukan faktor.
 - **D** — 77 = KPK(7, 11) = 7 × 11. Tertukar konsep.
+- **Konsep kunci:** Dua bilangan disebut saling prima jika FPB-nya 1, misalnya dua bilangan prima yang berbeda.
+- **Langkah Penyelesaian:**
+  1. Dua bilangan prima berbeda tidak punya faktor sama selain 1
+  2. FPB = **1**. ✓
 
 ---
 
@@ -403,6 +474,12 @@ FPB dari 8 dan 9 adalah …
 - **B** — 2 hanya membagi 8, tidak membagi 9 (9 ganjil).
 - **C** — 8 tidak membagi 9.
 - **D** — 72 = KPK(8, 9). Tertukar.
+- **Konsep kunci:** Dua bilangan yang berurutan (selisih 1) selalu memiliki FPB = 1.
+- **Langkah Penyelesaian:**
+  1. 8 = 2³, 9 = 3²
+  2. Tidak ada faktor prima yang sama
+  3. FPB = **1**
+  4. (Sifat: dua bilangan berurutan selalu FPB = 1.) ✓
 
 ---
 
@@ -421,6 +498,10 @@ FPB dari 14 dan 14 adalah …
 - **B** — 2 hanya salah satu faktor 14, bukan yang terbesar.
 - **C** — 7 juga faktor 14, tetapi 14 sendiri lebih besar.
 - **D** — FPB(a, a) = a. Faktor terbesar dari 14 yang membagi 14 adalah **14**. ✓
+- **Konsep kunci:** FPB suatu bilangan dengan dirinya sendiri sama dengan bilangan itu sendiri.
+- **Langkah Penyelesaian:**
+  1. FPB(a, a) = a
+  2. Faktor terbesar dari 14 yang membagi 14 adalah **14**. ✓
 
 ---
 
@@ -439,6 +520,12 @@ FPB dari 9 dan 12 adalah …
 - **B** — 9 = 3²; 12 = 2² × 3. Faktor sama: 3. Pangkat terkecil: 3¹ = **3**. ✓
 - **C** — 4 hanya membagi 12, tidak membagi 9.
 - **D** — 36 = KPK(9, 12). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 9 = 3²
+  2. 12 = 2² × 3
+  3. Faktor sama: 3
+  4. Pangkat terkecil: 3¹ = **3**. ✓
 
 ---
 
@@ -457,6 +544,12 @@ FPB dari 14 dan 21 adalah …
 - **B** — 3 membagi 21 tetapi tidak membagi 14 (14 ÷ 3 bersisa).
 - **C** — 14 = 2 × 7; 21 = 3 × 7. Faktor sama: **7**. FPB = **7**. ✓
 - **D** — 42 = KPK(14, 21). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 14 = 2 × 7
+  2. 21 = 3 × 7
+  3. Faktor sama: **7**
+  4. FPB = **7**. ✓
 
 ---
 
@@ -475,6 +568,11 @@ FPB dari 20 dan 30 adalah …
 - **B** — 5 juga membagi, tetapi belum maksimum.
 - **C** — 20 = 2² × 5; 30 = 2 × 3 × 5. Pangkat kecil: 2¹ × 5¹ = **10**. ✓
 - **D** — 60 = KPK(20, 30). Salah konsep.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 20 = 2² × 5
+  2. 30 = 2 × 3 × 5
+  3. Pangkat kecil: 2¹ × 5¹ = **10**. ✓
 
 ---
 
@@ -493,6 +591,12 @@ FPB dari 25 dan 35 adalah …
 - **B** — 25 = 5²; 35 = 5 × 7. Faktor sama: 5. FPB = **5**. ✓
 - **C** — 25 tidak membagi 35 (35 ÷ 25 bersisa).
 - **D** — 175 = KPK(25, 35) = 25 × 7. Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 25 = 5²
+  2. 35 = 5 × 7
+  3. Faktor sama: 5
+  4. FPB = **5**. ✓
 
 ---
 
@@ -511,6 +615,12 @@ FPB dari 32 dan 48 adalah …
 - **B** — 8 juga membagi tetapi belum maksimum.
 - **C** — 32 = 2⁵; 48 = 2⁴ × 3. Faktor sama: 2. Pangkat terkecil: 2⁴ = **16**. ✓
 - **D** — 96 = KPK(32, 48). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 32 = 2⁵
+  2. 48 = 2⁴ × 3
+  3. Faktor sama: 2
+  4. Pangkat terkecil: 2⁴ = **16**. ✓
 
 ---
 
@@ -529,6 +639,12 @@ FPB dari 12 dan 16 adalah …
 - **B** — 12 = 2² × 3; 16 = 2⁴. Faktor sama: 2. Pangkat kecil: 2² = **4**. ✓
 - **C** — 8 = 2³ tidak membagi 12 (12 ÷ 8 bersisa).
 - **D** — 48 = KPK(12, 16). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 12 = 2² × 3
+  2. 16 = 2⁴
+  3. Faktor sama: 2
+  4. Pangkat kecil: 2² = **4**. ✓
 
 ---
 
@@ -547,6 +663,12 @@ FPB dari 21 dan 28 adalah …
 - **B** — 4 membagi 28 tetapi tidak membagi 21.
 - **C** — 21 = 3 × 7; 28 = 2² × 7. Faktor sama: **7**. FPB = **7**. ✓
 - **D** — 84 = KPK(21, 28). Salah konsep.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 21 = 3 × 7
+  2. 28 = 2² × 7
+  3. Faktor sama: **7**
+  4. FPB = **7**. ✓
 
 ---
 
@@ -565,6 +687,11 @@ FPB dari 18 dan 24 adalah …
 - **B** — 3 juga membagi, tetapi belum maksimum.
 - **C** — 18 = 2 × 3²; 24 = 2³ × 3. Pangkat kecil: 2¹ × 3¹ = **6**. ✓
 - **D** — 72 = KPK(18, 24). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 18 = 2 × 3²
+  2. 24 = 2³ × 3
+  3. Pangkat kecil: 2¹ × 3¹ = **6**. ✓
 
 ---
 
@@ -583,6 +710,12 @@ FPB dari 27 dan 36 adalah …
 - **B** — 6 tidak membagi 27 (27 ÷ 6 bersisa).
 - **C** — 27 = 3³; 36 = 2² × 3². Faktor sama: 3. Pangkat terkecil: 3² = **9**. ✓
 - **D** — 108 = KPK(27, 36). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 27 = 3³
+  2. 36 = 2² × 3²
+  3. Faktor sama: 3
+  4. Pangkat terkecil: 3² = **9**. ✓
 
 ---
 
@@ -601,6 +734,11 @@ FPB dari 40 dan 60 adalah …
 - **B** — 10 juga membagi keduanya tetapi belum maksimum.
 - **C** — 40 = 2³ × 5; 60 = 2² × 3 × 5. Pangkat kecil: 2² × 5¹ = 4 × 5 = **20**. ✓ (3 tidak dipakai karena hanya muncul di 60.)
 - **D** — 120 = KPK(40, 60). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 40 = 2³ × 5
+  2. 60 = 2² × 3 × 5
+  3. Pangkat kecil: 2² × 5¹ = 4 × 5 = **20**. ✓ (3 tidak dipakai karena hanya muncul di 60.)
 
 ---
 
@@ -619,6 +757,12 @@ FPB dari 6, 9, dan 12 adalah …
 - **B** — 2 membagi 6 & 12 tetapi tidak membagi 9 (9 ganjil).
 - **C** — 6 = 2 × 3; 9 = 3²; 12 = 2² × 3. Faktor sama di **ketiganya**: hanya 3. Pangkat terkecil: 3¹ = **3**. ✓
 - **D** — 6 tidak membagi 9.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 6 = 2 × 3
+  2. 9 = 3²
+  3. 12 = 2² × 3
+  4. Pangkat terkecil: 3¹ = **3**. ✓
 
 ---
 
@@ -637,6 +781,12 @@ FPB dari 8, 12, dan 16 adalah …
 - **B** — 8 = 2³; 12 = 2² × 3; 16 = 2⁴. Faktor sama di tiganya: 2. Pangkat terkecil: 2² = **4**. ✓
 - **C** — 8 tidak membagi 12.
 - **D** — 48 = KPK(8, 12, 16). Tertukar.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 8 = 2³
+  2. 12 = 2² × 3
+  3. 16 = 2⁴
+  4. Pangkat terkecil: 2² = **4**. ✓
 
 ---
 
@@ -655,6 +805,12 @@ FPB dari 10, 15, dan 20 adalah …
 - **B** — 2 tidak membagi 15 (15 ganjil).
 - **C** — 10 = 2 × 5; 15 = 3 × 5; 20 = 2² × 5. Faktor sama: **5**. FPB = **5**. ✓
 - **D** — 60 = KPK(10, 15, 20). Salah konsep.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 10 = 2 × 5
+  2. 15 = 3 × 5
+  3. 20 = 2² × 5
+  4. FPB = **5**. ✓
 
 ---
 
@@ -673,6 +829,12 @@ FPB dari 14 dan 25 adalah …
 - **B** — 2 hanya faktor 14, tidak membagi 25 (ganjil).
 - **C** — 5 hanya faktor 25, tidak membagi 14.
 - **D** — 7 hanya faktor 14, tidak membagi 25.
+- **Konsep kunci:** Dua bilangan bisa saling prima (FPB = 1) walau bukan bilangan prima, asal tidak ada faktor prima yang sama.
+- **Langkah Penyelesaian:**
+  1. 14 = 2 × 7
+  2. 25 = 5²
+  3. Tidak ada faktor prima yang sama
+  4. FPB = **1**. ✓
 
 ---
 
@@ -691,6 +853,10 @@ FPB dari 5 dan 25 adalah …
 - **B** — Karena 25 habis dibagi 5 (25 ÷ 5 = 5), FPB = bilangan **terkecil** = **5**. ✓
 - **C** — 25 tidak membagi 5 (5 < 25).
 - **D** — 125 = KPK(5, 25). Tertukar.
+- **Konsep kunci:** Jika satu bilangan habis membagi bilangan lain, FPB keduanya adalah bilangan yang lebih kecil.
+- **Langkah Penyelesaian:**
+  1. Cek apakah bilangan yang lebih besar (25) habis dibagi bilangan yang lebih kecil (5)
+  2. Karena 25 ÷ 5 = 5 (habis, tanpa sisa), maka FPB(5, 25) = bilangan yang lebih kecil = **5**
 
 ---
 
@@ -709,6 +875,11 @@ FPB dari 30 dan 50 adalah …
 - **B** — 30 = 2 × 3 × 5; 50 = 2 × 5². Pangkat kecil: 2¹ × 5¹ = **10**. ✓
 - **C** — 15 tidak membagi 50 (50 ÷ 15 bersisa).
 - **D** — 150 = KPK(30, 50). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 30 = 2 × 3 × 5
+  2. 50 = 2 × 5²
+  3. Pangkat kecil: 2¹ × 5¹ = **10**. ✓
 
 ---
 
@@ -727,6 +898,11 @@ FPB dari 28 dan 42 adalah …
 - **B** — 7 juga membagi keduanya tetapi belum maksimum.
 - **C** — 28 = 2² × 7; 42 = 2 × 3 × 7. Pangkat kecil: 2¹ × 7¹ = **14**. ✓
 - **D** — 84 = KPK(28, 42). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 28 = 2² × 7
+  2. 42 = 2 × 3 × 7
+  3. Pangkat kecil: 2¹ × 7¹ = **14**. ✓
 
 ---
 
@@ -745,6 +921,11 @@ Ibu punya 24 permen rasa stroberi dan 36 permen rasa cokelat. Akan dibagikan ke 
 - **B** — Kata kunci "dibagikan sama jumlah, terbanyak" → **FPB**(24, 36) = 12 → **12 anak**. ✓
 - **C** — 18 tidak membagi 24 (24 ÷ 18 bersisa). Bukan FPB.
 - **D** — 60 = KPK, salah konsep.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kata kunci "dibagikan sama jumlah, terbanyak"
+  2. **FPB**(24, 36) = 12
+  3. **12 anak**. ✓
 
 ---
 
@@ -763,6 +944,10 @@ Pita merah 30 cm dan pita biru 45 cm akan dipotong sama panjang tanpa sisa. Panj
 - **B** — 10 tidak membagi 45 (45 ÷ 10 bersisa).
 - **C** — Kata kunci "potong sama panjang, maksimum" → FPB(30, 45) = **15 cm**. ✓
 - **D** — 90 = KPK, melebihi panjang pita. Mustahil.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kata kunci "potong sama panjang, maksimum"
+  2. FPB(30, 45) = **15 cm**. ✓
 
 ---
 
@@ -781,6 +966,11 @@ Tukang bunga punya 18 mawar dan 24 melati. Akan dirangkai menjadi parsel sama je
 - **B** — FPB(18, 24) = 6 → **6 parsel**. ✓
 - **C** — 12 tidak membagi 18 (18 ÷ 12 bersisa).
 - **D** — 42 = KPK, salah arah.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(18, 24) = 6
+  3. **6 parsel**. ✓
 
 ---
 
@@ -799,6 +989,12 @@ Tukang bunga punya 18 mawar dan 24 melati. Akan dirangkai menjadi parsel sama je
 - **B** — FPB(40, 60) = 20 → **20 parsel**. Isi: 40÷20 = 2 jeruk; 60÷20 = 3 apel. ✓
 - **C** — 5 juga belum maksimum.
 - **D** — 120 = KPK, melebihi jumlah buah. Mustahil.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(40, 60) = 20
+  3. **20 parsel**
+  4. 60÷20 = 3 apel. ✓
 
 ---
 
@@ -817,6 +1013,11 @@ Pak guru punya 36 buku dan 48 pulpen untuk dibagikan rata ke murid sebagai hadia
 - **B** — FPB(36, 48) = 12 → **12 murid**. ✓
 - **C** — 18 tidak membagi 48 (48 ÷ 18 bersisa).
 - **D** — 144 = KPK, salah konsep.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(36, 48) = 12
+  3. **12 murid**. ✓
 
 ---
 
@@ -835,6 +1036,11 @@ Lantai berukuran 60 cm × 80 cm akan ditutup ubin persegi yang sisi-nya sama, ta
 - **B** — Sisi ubin harus membagi 60 dan 80 → FPB(60, 80) = **20 cm**. ✓
 - **C** — 40 tidak membagi 60 (60 ÷ 40 bersisa).
 - **D** — 60 tidak membagi 80.
+- **Konsep kunci:** Ukuran ubin/petak persegi terbesar yang pas menutupi lahan dicari dengan FPB sisi-sisinya.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. Sisi ubin harus membagi 60 dan 80
+  3. FPB(60, 80) = **20 cm**. ✓
 
 ---
 
@@ -853,6 +1059,11 @@ Lantai berukuran 60 cm × 80 cm akan ditutup ubin persegi yang sisi-nya sama, ta
 - **B** — FPB(20, 30) = 10 → **10 kelompok** (tiap kelompok: 2 lk + 3 pr). ✓
 - **C** — 15 tidak membagi 20.
 - **D** — 60 = KPK, salah konsep.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(20, 30) = 10
+  3. **10 kelompok** (tiap kelompok: 2 lk + 3 pr). ✓
 
 ---
 
@@ -871,6 +1082,12 @@ Tiga tali masing-masing 12 m, 16 m, dan 20 m dipotong sama panjang tanpa sisa. P
 - **B** — FPB(12, 16, 20): 12 = 2²×3, 16 = 2⁴, 20 = 2²×5. Faktor sama: 2. Pangkat kecil: 2² = **4 m**. ✓
 - **C** — 6 tidak membagi 16 (16 ÷ 6 bersisa).
 - **D** — 8 tidak membagi 12.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(12, 16, 20): 12 = 2²×3, 16 = 2⁴, 20 = 2²×5
+  3. Faktor sama: 2
+  4. Pangkat kecil: 2² = **4 m**. ✓
 
 ---
 
@@ -889,6 +1106,12 @@ FPB dari 35 dan 50 adalah …
 - **B** — 7 hanya faktor 35, tidak membagi 50.
 - **C** — 10 tidak membagi 35 (ganjil).
 - **D** — 25 tidak membagi 35.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 35 = 5 × 7
+  2. 50 = 2 × 5²
+  3. Faktor sama: **5**
+  4. FPB = **5**. ✓
 
 ---
 
@@ -907,6 +1130,11 @@ FPB dari 24 dan 32 adalah …
 - **B** — 4 juga membagi tetapi belum maksimum.
 - **C** — 24 = 2³ × 3; 32 = 2⁵. Pangkat terkecil: 2³ = **8**. ✓
 - **D** — 96 = KPK(24, 32). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 24 = 2³ × 3
+  2. 32 = 2⁵
+  3. Pangkat terkecil: 2³ = **8**. ✓
 
 ---
 
@@ -925,6 +1153,12 @@ FPB dari 33 dan 44 adalah …
 - **B** — 4 membagi 44 tetapi tidak membagi 33 (33 ganjil).
 - **C** — 33 = 3 × 11; 44 = 2² × 11. Faktor sama: **11**. FPB = **11**. ✓
 - **D** — 132 = KPK(33, 44). Salah konsep.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 33 = 3 × 11
+  2. 44 = 2² × 11
+  3. Faktor sama: **11**
+  4. FPB = **11**. ✓
 
 ---
 
@@ -943,6 +1177,11 @@ FPB dari 45 dan 60 adalah …
 - **B** — 5 juga membagi keduanya tetapi belum maksimum.
 - **C** — 45 = 3² × 5; 60 = 2² × 3 × 5. Pangkat kecil: 3¹ × 5¹ = **15**. ✓
 - **D** — 180 = KPK(45, 60). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 45 = 3² × 5
+  2. 60 = 2² × 3 × 5
+  3. Pangkat kecil: 3¹ × 5¹ = **15**. ✓
 
 ---
 
@@ -961,6 +1200,11 @@ FPB dari 36 dan 60 adalah …
 - **B** — 36 = 2² × 3²; 60 = 2² × 3 × 5. Pangkat kecil: 2² × 3¹ = **12**. ✓
 - **C** — 18 tidak membagi 60 (60 ÷ 18 bersisa).
 - **D** — 180 = KPK(36, 60). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 36 = 2² × 3²
+  2. 60 = 2² × 3 × 5
+  3. Pangkat kecil: 2² × 3¹ = **12**. ✓
 
 ---
 
@@ -979,6 +1223,12 @@ FPB dari 50 dan 75 adalah …
 - **B** — 15 tidak membagi 50 (50 ÷ 15 bersisa).
 - **C** — 50 = 2 × 5²; 75 = 3 × 5². Faktor sama: 5. Pangkat: 5² = **25**. ✓
 - **D** — 150 = KPK(50, 75). Tertukar.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 50 = 2 × 5²
+  2. 75 = 3 × 5²
+  3. Faktor sama: 5
+  4. Pangkat: 5² = **25**. ✓
 
 ---
 
@@ -997,6 +1247,12 @@ FPB dari 16, 24, dan 40 adalah …
 - **B** — 16 = 2⁴; 24 = 2³ × 3; 40 = 2³ × 5. Faktor sama: 2. Pangkat terkecil: 2³ = **8**. ✓
 - **C** — 16 tidak membagi 24 (24 ÷ 16 bersisa).
 - **D** — 120 = KPK. Salah arah.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 16 = 2⁴
+  2. 24 = 2³ × 3
+  3. 40 = 2³ × 5
+  4. Pangkat terkecil: 2³ = **8**. ✓
 
 ---
 
@@ -1015,6 +1271,11 @@ FPB dari 1 dan 12 adalah …
 - **B** — Faktor 1 hanya {1}. Persekutuan dengan 12 = {1}. FPB = **1**. ✓
 - **C** — 12 tidak membagi 1 (1 < 12).
 - **D** — 13 = 1 + 12; salah operasi (FPB bukan penjumlahan).
+- **Konsep kunci:** Jika satu bilangan habis membagi bilangan lain, FPB keduanya adalah bilangan yang lebih kecil.
+- **Langkah Penyelesaian:**
+  1. Faktor 1 hanya {1}
+  2. Persekutuan dengan 12 = {1}
+  3. FPB = **1**. ✓
 
 ---
 
@@ -1033,6 +1294,11 @@ Ada 12 mangga dan 16 jambu dibagi rata ke beberapa keranjang tanpa sisa. Jumlah 
 - **B** — FPB(12, 16) = 4 → **4 keranjang**. ✓
 - **C** — 6 tidak membagi 16 (16 ÷ 6 bersisa).
 - **D** — 48 = KPK, salah konsep.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(12, 16) = 4
+  3. **4 keranjang**. ✓
 
 ---
 
@@ -1051,6 +1317,11 @@ FPB dari 42 dan 56 adalah …
 - **B** — 7 juga membagi keduanya tetapi belum maksimum.
 - **C** — 42 = 2 × 3 × 7; 56 = 2³ × 7. Pangkat kecil: 2¹ × 7¹ = **14**. ✓
 - **D** — 168 = KPK(42, 56). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 42 = 2 × 3 × 7
+  2. 56 = 2³ × 7
+  3. Pangkat kecil: 2¹ × 7¹ = **14**. ✓
 
 ---
 
@@ -1071,6 +1342,11 @@ Saat HUT sekolah, panitia menyiapkan 72 buku tulis, 96 pulpen, dan 120 penghapus
 - **B** — FPB(72, 96, 120): 72 = 2³×3², 96 = 2⁵×3, 120 = 2³×3×5. Pangkat kecil: 2³ × 3¹ = 8 × 3 = **24 bingkisan**. ✓
 - **C** — 36 tidak membagi 96 (96 ÷ 36 bersisa).
 - **D** — 360 = KPK; jauh melebihi jumlah barang. Mustahil.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(72, 96, 120): 72 = 2³×3², 96 = 2⁵×3, 120 = 2³×3×5
+  3. Pangkat kecil: 2³ × 3¹ = 8 × 3 = **24 bingkisan**. ✓
 
 ---
 
@@ -1089,6 +1365,12 @@ Saat HUT sekolah, panitia menyiapkan 72 buku tulis, 96 pulpen, dan 120 penghapus
 - **B** — FPB(54, 90, 126): 54 = 2 × 3³, 90 = 2 × 3² × 5, 126 = 2 × 3² × 7. Pangkat kecil: 2 × 3² = **18 karangan**. Anggrek: 126 ÷ 18 = **7**. ✓
 - **C** — 27 tidak membagi 90 (90 ÷ 27 bersisa).
 - **D** — 6 juga membagi semua tetapi belum maksimum.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(54, 90, 126): 54 = 2 × 3³, 90 = 2 × 3² × 5, 126 = 2 × 3² × 7
+  3. Pangkat kecil: 2 × 3² = **18 karangan**
+  4. Anggrek: 126 ÷ 18 = **7**. ✓
 
 ---
 
@@ -1107,6 +1389,12 @@ Saat HUT sekolah, panitia menyiapkan 72 buku tulis, 96 pulpen, dan 120 penghapus
 - **B** — 8 juga belum maksimum.
 - **C** — FPB(64, 80, 96): 64 = 2⁶, 80 = 2⁴ × 5, 96 = 2⁵ × 3. Faktor sama: 2. Pangkat kecil: 2⁴ = **16 peserta**. ✓
 - **D** — 960 = KPK, mustahil sebagai jumlah peserta.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(64, 80, 96): 64 = 2⁶, 80 = 2⁴ × 5, 96 = 2⁵ × 3
+  3. Faktor sama: 2
+  4. Pangkat kecil: 2⁴ = **16 peserta**. ✓
 
 ---
 
@@ -1125,6 +1413,11 @@ Tiga gulungan pita: 84 cm, 126 cm, dan 168 cm akan dipotong sama panjang. Panjan
 - **B** — 21 membagi 84 dan 126, tetapi 168 ÷ 21 = 8 (membagi juga). Namun bukan FPB (42 lebih besar dan membagi semua).
 - **C** — 84 = 2² × 3 × 7, 126 = 2 × 3² × 7, 168 = 2³ × 3 × 7. Pangkat kecil: 2 × 3 × 7 = **42 cm**. ✓
 - **D** — 504 = KPK, jauh lebih panjang dari pita. Mustahil.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. 84 = 2² × 3 × 7, 126 = 2 × 3² × 7, 168 = 2³ × 3 × 7
+  3. Pangkat kecil: 2 × 3 × 7 = **42 cm**. ✓
 
 ---
 
@@ -1143,6 +1436,10 @@ Jika a × b = 432 dan KPK(a, b) = 72, maka FPB(a, b) = …
 - **B** — Rumus: FPB × KPK = a × b. → FPB = 432 ÷ 72 = **6**. ✓
 - **C** — 8 × 72 = 576 ≠ 432. Salah.
 - **D** — 12 × 72 = 864. Salah.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. Rumus: FPB × KPK = a × b
+  2. FPB = 432 ÷ 72 = **6**. ✓
 
 ---
 
@@ -1161,6 +1458,12 @@ FPB dua bilangan = 8. KPK-nya = 96. Jika salah satu bilangan = 24, maka bilangan
 - **B** — Rumus: a × b = FPB × KPK → 24 × b = 8 × 96 = 768 → b = 768 ÷ 24 = **32**. Cek: FPB(24, 32) = 8 ✓; KPK = 96 ✓.
 - **C** — 24 × 48 = 1152 ≠ 768. Salah.
 - **D** — 24 × 64 = 1536 ≠ 768.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. Rumus: a × b = FPB × KPK
+  2. 24 × b = 8 × 96 = 768
+  3. b = 768 ÷ 24 = **32**
+  4. KPK = 96 ✓
 
 ---
 
@@ -1179,6 +1482,10 @@ Lonceng A berbunyi tiap 4 menit, lonceng B tiap 6 menit. Mereka bersamaan pada p
 - **B** — 4 menit bukan kelipatan persekutuan; lonceng B belum bunyi (6, 12, …).
 - **C** — Kata kunci "bersamaan lagi" = **KPK**(4, 6) = 12 menit → pukul **08.12**. ✓ (Soal ini menguji apakah siswa tahu kapan **bukan** FPB.)
 - **D** — 08.24 = 24 menit, juga waktu bersamaan tetapi bukan yang pertama setelah 08.00.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. Kata kunci "bersamaan lagi" = **KPK**(4, 6) = 12 menit
+  2. pukul **08.12**. ✓ (Soal ini menguji apakah siswa tahu kapan **bukan** FPB.)
 
 ---
 
@@ -1197,6 +1504,11 @@ Lonceng A berbunyi tiap 4 menit, lonceng B tiap 6 menit. Mereka bersamaan pada p
 - **B** — 12 juga belum maksimum.
 - **C** — FPB(48, 72): 48 = 2⁴ × 3, 72 = 2³ × 3². Pangkat kecil: 2³ × 3¹ = **24 kelompok**. ✓
 - **D** — 144 = KPK(48, 72). Salah arah.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(48, 72): 48 = 2⁴ × 3, 72 = 2³ × 3²
+  3. Pangkat kecil: 2³ × 3¹ = **24 kelompok**. ✓
 
 ---
 
@@ -1215,6 +1527,11 @@ Tongkat pramuka panjang 240 cm, 360 cm, dan 480 cm dipotong sama panjang tanpa s
 - **B** — 80 tidak membagi 360 (360 ÷ 80 bersisa).
 - **C** — 240 = 2⁴ × 3 × 5, 360 = 2³ × 3² × 5, 480 = 2⁵ × 3 × 5. Pangkat kecil: 2³ × 3 × 5 = **120 cm**. ✓
 - **D** — 720 = KPK, mustahil potong > pita aslinya.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. 240 = 2⁴ × 3 × 5, 360 = 2³ × 3² × 5, 480 = 2⁵ × 3 × 5
+  3. Pangkat kecil: 2³ × 3 × 5 = **120 cm**. ✓
 
 ---
 
@@ -1233,6 +1550,12 @@ Tongkat pramuka panjang 240 cm, 360 cm, dan 480 cm dipotong sama panjang tanpa s
 - **B** — FPB(90, 135) = 45. → **45 kotak**. Isi: 90÷45 = 2 cokelat; 135÷45 = 3 keju → **(2, 3)**. ✓
 - **C** — 9 juga membagi tetapi belum maksimum.
 - **D** — 5 juga belum maksimum.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(90, 135) = 45
+  3. **45 kotak**
+  4. **(2, 3)**. ✓
 
 ---
 
@@ -1251,6 +1574,11 @@ Sekolah punya 60 siswa laki-laki dan 84 siswa perempuan. Akan dibentuk tim kerja
 - **B** — 4 juga belum maksimum.
 - **C** — FPB(60, 84): 60 = 2² × 3 × 5; 84 = 2² × 3 × 7. Pangkat kecil: 2² × 3 = **12 tim**. Komposisi: 60÷12 = 5 lk; 84÷12 = 7 pr → **(5, 7)**. ✓
 - **D** — 24 tidak membagi 60 (60 ÷ 24 bersisa).
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 60 = 2² × 3 × 5 dan 84 = 2² × 3 × 7
+  2. Faktor sama berpangkat terkecil: 2² × 3 = **12 tim** (jumlah tim maksimum)
+  3. Komposisi tiap tim: 60 ÷ 12 = 5 laki-laki dan 84 ÷ 12 = 7 perempuan → **(5, 7)**
 
 ---
 
@@ -1269,6 +1597,11 @@ Lantai berukuran 144 cm × 240 cm akan ditutup ubin persegi sama besar tanpa pot
 - **B** — FPB(144, 240): 144 = 2⁴ × 3²; 240 = 2⁴ × 3 × 5. Pangkat kecil: 2⁴ × 3 = **48 cm**. Banyak ubin = (144÷48) × (240÷48) = 3 × 5 = **15**. ✓
 - **C** — 72 tidak membagi 240 (240 ÷ 72 bersisa).
 - **D** — 144 tidak membagi 240.
+- **Konsep kunci:** Ukuran ubin/petak persegi terbesar yang pas menutupi lahan dicari dengan FPB sisi-sisinya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 144 = 2⁴ × 3² dan 240 = 2⁴ × 3 × 5
+  2. Faktor sama berpangkat terkecil: 2⁴ × 3 = **48 cm** (sisi ubin terbesar)
+  3. Banyak ubin = (144÷48) × (240÷48) = 3 × 5 = **15**
 
 ---
 
@@ -1287,6 +1620,10 @@ Manakah pasangan bilangan **saling prima** (FPB = 1)?
 - **B** — 8 = 2³; 15 = 3 × 5. Tidak ada prima sama. FPB = 1 ✓.
 - **C** — 25 = 5²; 14 = 2 × 7. Tidak ada prima sama. FPB = 1 ✓.
 - **D** — Ketiga pasangan adalah saling prima → **Semua di atas**. ✓
+- **Konsep kunci:** Dua bilangan disebut saling prima jika FPB-nya 1, misalnya dua bilangan prima yang berbeda.
+- **Langkah Penyelesaian:**
+  1. Ketiga pasangan adalah saling prima
+  2. **Semua di atas**. ✓
 
 ---
 
@@ -1305,6 +1642,12 @@ Bentuk paling sederhana dari pecahan 48/72 didapat dengan membagi pembilang & pe
 - **B** — 4/6 belum sederhana (masih bisa dibagi 2 → 2/3).
 - **C** — FPB(48, 72) = 24. Bagi: 48÷24 = 2; 72÷24 = 3 → **2/3**. ✓
 - **D** — 8/12 = 2/3 juga, tetapi belum sederhana (masih bisa dibagi 4).
+- **Konsep kunci:** Pecahan disederhanakan dengan membagi pembilang dan penyebut dengan FPB keduanya.
+- **Langkah Penyelesaian:**
+  1. FPB(48, 72) = 24
+  2. Bagi: 48÷24 = 2
+  3. 72÷24 = 3
+  4. **2/3**. ✓
 
 ---
 
@@ -1323,6 +1666,11 @@ FPB dari 84 dan 126 adalah …
 - **B** — 21 juga membagi keduanya tetapi belum maksimum.
 - **C** — 84 = 2² × 3 × 7; 126 = 2 × 3² × 7. Pangkat kecil: 2¹ × 3¹ × 7¹ = **42**. ✓
 - **D** — 252 = KPK(84, 126). Salah arah.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 84 = 2² × 3 × 7
+  2. 126 = 2 × 3² × 7
+  3. Pangkat kecil: 2¹ × 3¹ × 7¹ = **42**. ✓
 
 ---
 
@@ -1341,6 +1689,12 @@ Pak Budi punya 100 permen dan 75 cokelat. Akan dibagikan ke anak sama jenis & ju
 - **B** — 15 tidak membagi 100 (100 ÷ 15 bersisa).
 - **C** — FPB(100, 75) = 25. 100 = 2² × 5²; 75 = 3 × 5². Pangkat kecil: 5² = **25 anak**. ✓
 - **D** — 300 = KPK; mustahil.
+- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(100, 75) = 25. 100 = 2² × 5²
+  3. 75 = 3 × 5²
+  4. Pangkat kecil: 5² = **25 anak**. ✓
 
 ---
 
@@ -1359,6 +1713,12 @@ Taman berbentuk persegi panjang dengan ukuran 96 m × 72 m akan dipagari tiang d
 - **B** — FPB(96, 72): 96 = 2⁵ × 3; 72 = 2³ × 3². Pangkat kecil: 2³ × 3 = **24 m**. ✓
 - **C** — 36 tidak membagi 96 (96 ÷ 36 bersisa).
 - **D** — 72 tidak membagi 96.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(96, 72): 96 = 2⁵ × 3
+  3. 72 = 2³ × 3²
+  4. Pangkat kecil: 2³ × 3 = **24 m**. ✓
 
 ---
 
@@ -1377,6 +1737,10 @@ FPB dari 108, 144, dan 180 adalah …
 - **B** — 18 juga belum maksimum.
 - **C** — 108 = 2² × 3³, 144 = 2⁴ × 3², 180 = 2² × 3² × 5. Pangkat kecil: 2² × 3² = **36**. ✓
 - **D** — 72 tidak membagi 108 (108 ÷ 72 bersisa).
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. 108 = 2² × 3³, 144 = 2⁴ × 3², 180 = 2² × 3² × 5
+  2. Pangkat kecil: 2² × 3² = **36**. ✓
 
 ---
 
@@ -1395,6 +1759,12 @@ Florist punya 30 mawar putih, 45 mawar merah, dan 75 mawar kuning. Akan dibuat b
 - **B** — 9 tidak membagi 30 (30 ÷ 9 bersisa).
 - **C** — FPB(30, 45, 75): 30 = 2 × 3 × 5; 45 = 3² × 5; 75 = 3 × 5². Pangkat kecil: 3¹ × 5¹ = **15 buket**. ✓
 - **D** — 150 = KPK. Salah arah.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(30, 45, 75): 30 = 2 × 3 × 5
+  3. 45 = 3² × 5
+  4. Pangkat kecil: 3¹ × 5¹ = **15 buket**. ✓
 
 ---
 
@@ -1413,6 +1783,12 @@ Menggunakan algoritma Euclid: FPB(48, 18) = …
 - **B** — 3 juga membagi keduanya tetapi belum maksimum.
 - **C** — Euclid: 48 = 2×18 + 12 → 18 = 1×12 + 6 → 12 = 2×6 + 0. Pembagi terakhir = **6**. ✓
 - **D** — 9 tidak membagi 48.
+- **Konsep kunci:** Algoritma Euclid mencari FPB lewat pembagian bersisa berulang sampai sisanya 0.
+- **Langkah Penyelesaian:**
+  1. Euclid: 48 = 2×18 + 12
+  2. 18 = 1×12 + 6
+  3. 12 = 2×6 + 0
+  4. Pembagi terakhir = **6**. ✓
 
 ---
 
@@ -1431,6 +1807,11 @@ Toko kue punya 56 donat cokelat, 84 donat keju, dan 112 donat susu. Dibuat box s
 - **B** — FPB(56, 84, 112): 56 = 2³ × 7; 84 = 2² × 3 × 7; 112 = 2⁴ × 7. Pangkat kecil: 2² × 7 = **28 box**. Tiap box: 56÷28 + 84÷28 + 112÷28 = 2 + 3 + 4 = **9 donat**. ✓
 - **C** — 7 membagi semua tetapi belum maksimum.
 - **D** — 4 juga belum maksimum.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 56 = 2³×7, 84 = 2²×3×7, 112 = 2⁴×7
+  2. Faktor sama berpangkat terkecil: 2² × 7 = **28 box**
+  3. Tiap box: 56÷28 + 84÷28 + 112÷28 = 2 + 3 + 4 = **9 donat**
 
 ---
 
@@ -1449,6 +1830,12 @@ Jika FPB(a, b) = 12 dan KPK(a, b) = 180, dengan a = 60, maka b = …
 - **B** — a × b = FPB × KPK → 60 × b = 12 × 180 = 2160 → b = 2160 ÷ 60 = **36**. Cek: FPB(60, 36) = 12 ✓; KPK = 180 ✓.
 - **C** — 60 × 48 = 2880, tidak sama.
 - **D** — 60 × 72 = 4320, tidak sama.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. a × b = FPB × KPK
+  2. 60 × b = 12 × 180 = 2160
+  3. b = 2160 ÷ 60 = **36**
+  4. KPK = 180 ✓
 
 ---
 
@@ -1467,6 +1854,12 @@ Tepung 36 kg, gula 54 kg, dan mentega 72 kg dibagi ke wadah dengan komposisi sam
 - **B** — 9 juga belum maksimum.
 - **C** — FPB(36, 54, 72): 36 = 2² × 3²; 54 = 2 × 3³; 72 = 2³ × 3². Pangkat kecil: 2¹ × 3² = **18 wadah**. ✓
 - **D** — 36 tidak membagi 54 (54 ÷ 36 bersisa).
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(36, 54, 72): 36 = 2² × 3²
+  3. 54 = 2 × 3³
+  4. Pangkat kecil: 2¹ × 3² = **18 wadah**. ✓
 
 ---
 
@@ -1485,6 +1878,12 @@ FPB dari 64 dan 144 adalah …
 - **B** — 8 juga belum maksimum.
 - **C** — 64 = 2⁶; 144 = 2⁴ × 3². Faktor sama: 2. Pangkat kecil: 2⁴ = **16**. ✓
 - **D** — 576 = KPK(64, 144). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 64 = 2⁶
+  2. 144 = 2⁴ × 3²
+  3. Faktor sama: 2
+  4. Pangkat kecil: 2⁴ = **16**. ✓
 
 ---
 
@@ -1503,6 +1902,12 @@ Ada 80 apel dan 100 jeruk. Sebanyak 5 apel disisihkan dulu (busuk). Sisanya diba
 - **B** — 15 tidak membagi 100.
 - **C** — 20 tidak membagi 75.
 - **D** — 5 membagi keduanya tetapi belum maksimum.
+- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. Sisa apel: 80 − 5 = 75
+  3. FPB(75, 100): 75 = 3 × 5²
+  4. Pangkat kecil: 5² = **25 kotak**. ✓
 
 ---
 
@@ -1521,6 +1926,12 @@ Ada 80 apel dan 100 jeruk. Sebanyak 5 apel disisihkan dulu (busuk). Sisanya diba
 - **B** — 10 tidak membagi 25.
 - **C** — 15 tidak membagi 20.
 - **D** — 50 tidak membagi 20 (20 < 50). Mustahil.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(20, 25, 30): 20 = 2² × 5
+  3. 25 = 5²
+  4. Pangkat kecil: 5¹ = **5 anak**. ✓
 
 ---
 
@@ -1539,6 +1950,11 @@ FPB dari 2⁴ × 3² × 5 dan 2³ × 3³ × 7 adalah …
 - **B** — Mengambil pangkat terbesar (itu cara KPK). Salah.
 - **C** — Mengambil semua faktor (itu KPK juga). Salah konsep.
 - **D** — Mengambil pangkat 1 saja, lupa pangkat sebenarnya.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, lalu pilih pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. Faktor sama: 2 dan 3
+  2. Pangkat terkecil: 2³ dan 3²
+  3. FPB = 2³ × 3² = 8 × 9 = **72**. ✓
 
 ---
 
@@ -1557,6 +1973,11 @@ FPB dari 2⁴ × 3² × 5 dan 2³ × 3³ × 7 adalah …
 - **B** — 16 tidak membagi 144 (144 ÷ 16 = 9 ✓ — sebenarnya membagi). Tapi 96 ÷ 16 = 6 ✓ juga. Namun bukan FPB karena 48 lebih besar dan tetap membagi keduanya.
 - **C** — FPB(96, 144): 96 = 2⁵ × 3; 144 = 2⁴ × 3². Pangkat kecil: 2⁴ × 3 = **48 tim**. Komposisi: 96÷48 = 2; 144÷48 = 3 → **(2, 3)**. ✓
 - **D** — 12 juga belum maksimum.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 96 = 2⁵×3 dan 144 = 2⁴×3²
+  2. Faktor sama berpangkat terkecil: 2⁴ × 3 = **48 tim**
+  3. Komposisi tiap tim: 96 ÷ 48 = 2 dan 144 ÷ 48 = 3 → **(2, 3)**
 
 ---
 
@@ -1575,6 +1996,12 @@ Anto punya tiga tali: 75 m, 105 m, dan 195 m. Dipotong sama panjang tanpa sisa. 
 - **B** — 75 = 3 × 5²; 105 = 3 × 5 × 7; 195 = 3 × 5 × 13. Pangkat kecil: 3 × 5 = **15 m**. ✓
 - **C** — 25 tidak membagi 105 (105 ÷ 25 bersisa).
 - **D** — 35 tidak membagi 75.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. 75 = 3 × 5²
+  3. 105 = 3 × 5 × 7
+  4. Pangkat kecil: 3 × 5 = **15 m**. ✓
 
 ---
 
@@ -1595,6 +2022,11 @@ Jika FPB(a, 12) = 4 dan a adalah bilangan dua digit terkecil, maka a = …
 - **D** — FPB(28, 12) = 4 ✓ tetapi bukan terkecil.
 
 > Catatan pedagogis: distractor A sengaja menjebak siswa untuk teliti. Jawaban resmi mengikuti syarat tambahan a/4 tidak memiliki faktor 2 berlebih → a = 20.
+- **Konsep kunci:** Untuk mencari bilangan yang memenuhi syarat FPB tertentu dengan bilangan lain, uji kandidat satu per satu berdasarkan faktorisasi primanya.
+- **Langkah Penyelesaian:**
+  1. Uji satu per satu bilangan dua digit yang FPB-nya dengan 12 sama dengan 4
+  2. 20 = 2² × 5 dan 12 = 2² × 3, sehingga FPB(20, 12) = 2² = **4** (sesuai syarat)
+  3. 20 adalah kandidat dua digit resmi terkecil yang memenuhi, sehingga a = **20**
 
 ---
 
@@ -1617,6 +2049,11 @@ Sebuah panti asuhan menerima sumbangan: 180 buku tulis, 240 pulpen, dan 300 peng
 - **B** — FPB(180, 240, 300): 180 = 2² × 3² × 5; 240 = 2⁴ × 3 × 5; 300 = 2² × 3 × 5². Pangkat kecil: 2² × 3 × 5 = **60 anak**. Total tiap anak: 180÷60 + 240÷60 + 300÷60 = 3 + 4 + 5 = **12 item**. ✓
 - **C** — 90 tidak membagi 240.
 - **D** — 120 tidak membagi 180.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 180=2²×3²×5, 240=2⁴×3×5, 300=2²×3×5²
+  2. Faktor sama berpangkat terkecil: 2² × 3 × 5 = **60 anak**
+  3. Total tiap anak: 180÷60 + 240÷60 + 300÷60 = 3 + 4 + 5 = **12 item**
 
 ---
 
@@ -1635,6 +2072,11 @@ FPB(36, x) = 12 dan x < 50. Banyak nilai x yang memenuhi adalah …
 - **B** — Kurang teliti, masih ada satu lagi.
 - **C** — Syarat: x = 12k, FPB(k, 3) = 1 (agar pangkat 3 tetap 1, tidak naik jadi 2). Kandidat k: 1, 2, 4, 5, 7, … (yang **tidak habis dibagi 3**). x = 12, 24, 48, 60, … Yang **< 50** dan FPB(x, 36) = 12: cek 12 (FPB(12, 36) = 12 ✓), 24 (FPB(24, 36) = 12 ✓), 48 (FPB(48, 36) = 12 ✓). Total = **3** nilai. ✓ (Catatan: 36 sendiri tidak masuk karena FPB(36, 36) = 36.)
 - **D** — Memasukkan 36 atau 60 yang melebihi batas.
+- **Konsep kunci:** Untuk mencari bilangan yang memenuhi syarat FPB tertentu, uji kandidat satu per satu berdasarkan faktorisasi primanya.
+- **Langkah Penyelesaian:**
+  1. Syarat: x = 12k dengan FPB(k, 3) = 1 (k tidak boleh kelipatan 3), agar FPB(x, 36) tetap 12
+  2. Cek kandidat kelipatan 12 yang kurang dari 50: 12, 24, 48 (36 dilewati karena FPB(36, 36) = 36, bukan 12)
+  3. Ketiganya memenuhi FPB(x, 36) = 12, jadi totalnya ada **3 nilai**
 
 ---
 
@@ -1653,6 +2095,10 @@ Hasil kali dua bilangan = 720. KPK keduanya = 60. FPB-nya adalah …
 - **B** — 10 × 60 = 600 ≠ 720. Salah.
 - **C** — FPB × KPK = a × b → FPB = 720 ÷ 60 = **12**. ✓
 - **D** — 24 × 60 = 1440 ≠ 720.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. FPB × KPK = a × b
+  2. FPB = 720 ÷ 60 = **12**. ✓
 
 ---
 
@@ -1680,6 +2126,11 @@ Pilih ulang:
 - **D** — Sisi 24 cm tidak maksimum.
 
 > Catatan: kunci untuk soal ini = **A** (versi resmi).
+- **Konsep kunci:** Ukuran ubin/petak persegi terbesar yang pas menutupi lahan dicari dengan FPB sisi-sisinya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 144 = 2⁴×3² dan 216 = 2³×3³
+  2. Faktor sama berpangkat terkecil: 2³ × 3² = 8 × 9 = **72 cm**
+  3. Banyak persegi = (144÷72) × (216÷72) = 2 × 3 = **6 persegi**
 
 ---
 
@@ -1698,6 +2149,11 @@ FPB dari 252 dan 378 adalah …
 - **B** — 42 juga membagi tetapi belum maksimum.
 - **C** — 252 = 2² × 3² × 7; 378 = 2 × 3³ × 7. Pangkat kecil: 2¹ × 3² × 7¹ = 2 × 9 × 7 = **126**. ✓
 - **D** — 756 = KPK(252, 378). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, dengan pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 252 = 2² × 3² × 7
+  2. 378 = 2 × 3³ × 7
+  3. Pangkat kecil: 2¹ × 3² × 7¹ = 2 × 9 × 7 = **126**. ✓
 
 ---
 
@@ -1716,6 +2172,11 @@ Pak Tani panen 90 mangga, 135 jambu, dan 180 jeruk. Ia ingin menjual dalam keran
 - **B** — 9 juga membagi semua tetapi belum maksimum.
 - **C** — FPB(90, 135, 180): 90 = 2 × 3² × 5; 135 = 3³ × 5; 180 = 2² × 3² × 5. Pangkat kecil: 3² × 5 = **45 keranjang**. Tiap keranjang: 90÷45 + 135÷45 + 180÷45 = 2 + 3 + 4 = **9 buah**. ✓
 - **D** — 5 jauh dari maksimum.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 90=2×3²×5, 135=3³×5, 180=2²×3²×5
+  2. Faktor sama berpangkat terkecil: 3² × 5 = **45 keranjang**
+  3. Tiap keranjang: 90÷45 + 135÷45 + 180÷45 = 2 + 3 + 4 = **9 buah**
 
 ---
 
@@ -1734,6 +2195,11 @@ FPB dari 360 dan 540 adalah …
 - **B** — 90 juga membagi keduanya tetapi belum maksimum.
 - **C** — 360 = 2³ × 3² × 5; 540 = 2² × 3³ × 5. Pangkat kecil: 2² × 3² × 5 = 4 × 9 × 5 = **180**. ✓
 - **D** — 1080 = KPK(360, 540). Salah arah.
+- **Konsep kunci:** FPB dicari dengan faktorisasi prima: ambil faktor prima yang sama, lalu pilih pangkat yang paling kecil.
+- **Langkah Penyelesaian:**
+  1. 360 = 2³ × 3² × 5
+  2. 540 = 2² × 3³ × 5
+  3. Pangkat kecil: 2² × 3² × 5 = 4 × 9 × 5 = **180**. ✓
 
 ---
 
@@ -1759,6 +2225,11 @@ Ada 122 permen yang harus dibagi rata ke anak sehingga **bersisa 2**. Ada 158 co
 - **B** — 18 tidak membagi 120.
 - **C** — 30 tidak membagi 156.
 - **D** — 36 tidak membagi 120.
+- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Langkah Penyelesaian:**
+  1. Kurangi dulu sisanya: 122 − 2 = 120 permen dan 158 − 2 = 156 cokelat
+  2. FPB(120, 156) = 12
+  3. **12 anak**. ✓
 
 ---
 
@@ -1777,6 +2248,11 @@ Pak Karta punya sawah berukuran 168 m × 252 m. Akan dibagi menjadi petak perseg
 - **B** — 56 tidak membagi 252 (252 ÷ 56 bersisa).
 - **C** — FPB(168, 252): 168 = 2³ × 3 × 7; 252 = 2² × 3² × 7. Pangkat kecil: 2² × 3 × 7 = **84 m**. Jumlah petak = (168÷84) × (252÷84) = 2 × 3 = **6**. ✓
 - **D** — 168 tidak membagi 252.
+- **Konsep kunci:** Ukuran ubin/petak persegi terbesar yang pas menutupi lahan dicari dengan FPB sisi-sisinya.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 168 = 2³×3×7 dan 252 = 2²×3²×7
+  2. Faktor sama berpangkat terkecil: 2² × 3 × 7 = **84 m**
+  3. Jumlah petak = (168÷84) × (252÷84) = 2 × 3 = **6**
 
 ---
 
@@ -1795,6 +2271,12 @@ Yayasan menerima 168 buku, 252 pensil, dan 420 penghapus. Dibagi ke anak panti s
 - **B** — 28 membagi 168 dan 252, tetapi tidak membagi 420 (420 ÷ 28 = 15 ✓ — sebenarnya membagi). Cek FPB sebenarnya.
 - **C** — FPB(168, 252, 420): 168 = 2³ × 3 × 7; 252 = 2² × 3² × 7; 420 = 2² × 3 × 5 × 7. Pangkat kecil: 2² × 3 × 7 = **84 anak**. ✓
 - **D** — 168 tidak membagi 252.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. FPB(168, 252, 420): 168 = 2³ × 3 × 7
+  3. 252 = 2² × 3² × 7
+  4. Pangkat kecil: 2² × 3 × 7 = **84 anak**. ✓
 
 ---
 
@@ -1813,6 +2295,11 @@ Bilangan terbesar yang membagi habis 215 **bersisa 5** dan membagi habis 305 **b
 - **B** — Juga belum maksimum.
 - **C** — 210 = 2 × 3 × 5 × 7; 300 = 2² × 3 × 5². Pangkat kecil: 2 × 3 × 5 = **30**. ✓ (Cek: 215 ÷ 30 = 7 sisa 5 ✓; 305 ÷ 30 = 10 sisa 5 ✓.)
 - **D** — 60 tidak membagi 210.
+- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Langkah Penyelesaian:**
+  1. Kurangi dulu sisanya: 215 − 5 = 210 dan 305 − 5 = 300
+  2. Faktorkan: 210 = 2×3×5×7 dan 300 = 2²×3×5²
+  3. Faktor sama berpangkat terkecil: 2 × 3 × 5 = FPB = **30**
 
 ---
 
@@ -1831,6 +2318,12 @@ Dua bilangan a dan b memiliki FPB = 6 dan KPK = 90. Jika a = 18, maka b = …
 - **B** — a × b = FPB × KPK → 18 × b = 6 × 90 = 540 → b = 540 ÷ 18 = **30**. Cek: FPB(18, 30) = 6 ✓; KPK(18, 30) = 90 ✓. ✓
 - **C** — FPB(18, 45) = 9, bukan 6.
 - **D** — 18 × 60 = 1080 ≠ 540.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. a × b = FPB × KPK
+  2. 18 × b = 6 × 90 = 540
+  3. b = 540 ÷ 18 = **30**
+  4. KPK(18, 30) = 90 ✓. ✓
 
 ---
 
@@ -1849,6 +2342,12 @@ Tiga karyawan piket dengan siklus tetap: A tiap 6 hari, B tiap 8 hari, C tiap 12
 - **B** — 4 tidak membagi 6 (6 ÷ 4 bersisa).
 - **C** — 6 tidak membagi 8.
 - **D** — 24 = KPK(6, 8). Tertukar.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. 6 = 2 × 3
+  3. 8 = 2³
+  4. Pangkat kecil: 2¹ = **2**. ✓
 
 ---
 
@@ -1867,6 +2366,12 @@ Pecahan 168/420 jika disederhanakan dengan membagi FPB pembilang & penyebutnya m
 - **B** — 6/15 belum sederhana (masih bisa dibagi 3).
 - **C** — FPB(168, 420): 168 = 2³ × 3 × 7; 420 = 2² × 3 × 5 × 7. Pangkat kecil: 2² × 3 × 7 = 84. Bagi: 168÷84 = 2; 420÷84 = 5 → **2/5**. ✓
 - **D** — 4/10 = 2/5 tetapi belum sederhana.
+- **Konsep kunci:** Pecahan disederhanakan dengan membagi pembilang dan penyebut dengan FPB keduanya.
+- **Langkah Penyelesaian:**
+  1. FPB(168, 420): 168 = 2³ × 3 × 7
+  2. 420 = 2² × 3 × 5 × 7
+  3. Pangkat kecil: 2² × 3 × 7 = 84
+  4. **2/5**. ✓
 
 ---
 
@@ -1885,6 +2390,12 @@ Dengan algoritma Euclid: FPB(231, 165) = …
 - **B** — 22 tidak membagi 165 (165 ÷ 22 bersisa).
 - **C** — Euclid: 231 = 1 × 165 + 66 → 165 = 2 × 66 + 33 → 66 = 2 × 33 + 0. Pembagi terakhir = **33**. ✓ (Verifikasi: 231 = 3 × 7 × 11; 165 = 3 × 5 × 11; pangkat kecil: 3 × 11 = 33.)
 - **D** — 66 tidak membagi 165.
+- **Konsep kunci:** Algoritma Euclid mencari FPB lewat pembagian bersisa berulang sampai sisanya 0.
+- **Langkah Penyelesaian:**
+  1. Euclid: 231 = 1 × 165 + 66
+  2. 165 = 2 × 66 + 33
+  3. 66 = 2 × 33 + 0 (sisa sudah 0)
+  4. Pembagi terakhir sebelum sisa 0 adalah FPB = **33**
 
 ---
 
@@ -1903,6 +2414,12 @@ Ada 100 permen dan 150 cokelat. Setelah disisihkan 4 permen dan 6 cokelat untuk 
 - **B** — FPB(96, 144): 96 = 2⁵ × 3; 144 = 2⁴ × 3². Pangkat kecil: 2⁴ × 3 = **48 anak**. ✓
 - **C** — 72 tidak membagi 96 (96 ÷ 72 bersisa).
 - **D** — 96 tidak membagi 144.
+- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Langkah Penyelesaian:**
+  1. Kurangi dulu yang disisihkan: 100 − 4 = 96 permen dan 150 − 6 = 144 cokelat
+  2. FPB(96, 144): 96 = 2⁵ × 3
+  3. 144 = 2⁴ × 3²
+  4. Pangkat kecil: 2⁴ × 3 = **48 anak**. ✓
 
 ---
 
@@ -1921,6 +2438,11 @@ FPB dari 24, 36, 48, 60, dan 72 adalah …
 - **B** — Pangkat-pangkat 2 minimum: 24 = 2³, 36 = 2², 48 = 2⁴, 60 = 2², 72 = 2³ → min 2². Pangkat 3 minimum: 24 = 3, 36 = 3², 48 = 3, 60 = 3, 72 = 3² → min 3¹. Faktor 5 hanya ada di 60 → tidak masuk. FPB = 2² × 3 = **12**. ✓
 - **C** — 24 tidak membagi 36.
 - **D** — 360 = KPK. Salah arah.
+- **Konsep kunci:** FPB dari tiga bilangan atau lebih dicari dengan mengambil faktor prima sama berpangkat terkecil di SEMUA bilangan.
+- **Langkah Penyelesaian:**
+  1. Bandingkan pangkat 2 di kelima bilangan (2³, 2², 2⁴, 2², 2³) → pangkat terkecil = 2²
+  2. Bandingkan pangkat 3 (3¹, 3², 3¹, 3¹, 3²) → pangkat terkecil = 3¹. Faktor 5 hanya ada di 60, jadi tidak dipakai
+  3. FPB = 2² × 3 = **12**
 
 ---
 
@@ -1939,6 +2461,11 @@ Toko kue menyiapkan 168 brownies, 252 macaron, dan 420 cookies untuk acara. Diba
 - **B** — 42 juga belum maksimum.
 - **C** — FPB(168, 252, 420): 168 = 2³ × 3 × 7; 252 = 2² × 3² × 7; 420 = 2² × 3 × 5 × 7. Pangkat kecil: 2² × 3 × 7 = **84 kotak**. Tiap kotak: 168÷84 + 252÷84 + 420÷84 = 2 + 3 + 5 = **10 kue**. ✓
 - **D** — 168 tidak membagi 252.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Faktorkan: 168=2³×3×7, 252=2²×3²×7, 420=2²×3×5×7
+  2. Faktor sama berpangkat terkecil: 2² × 3 × 7 = **84 kotak**
+  3. Tiap kotak: 168÷84 + 252÷84 + 420÷84 = 2 + 3 + 5 = **10 kue**
 
 ---
 
@@ -1957,6 +2484,12 @@ Dua bilangan asli a dan b dengan a < b memiliki FPB = 6 dan KPK = 72. Banyaknya 
 - **B** — a × b = 6 × 72 = 432. Tulis a = 6m, b = 6n dengan FPB(m, n) = 1 dan m × n = 432 ÷ 36 = 12. Pasangan (m, n) koprime dengan m < n & m × n = 12: (1, 12) dan (3, 4). → (a, b) = (6, 72) dan (18, 24). Total = **2 pasangan**. ✓
 - **C** — Memasukkan (2, 6) yang FPB-nya bukan 1 → tidak valid.
 - **D** — Memasukkan duplikat urutan terbalik.
+- **Konsep kunci:** FPB dan KPK dua bilangan berhubungan lewat rumus FPB × KPK = a × b.
+- **Langkah Penyelesaian:**
+  1. a × b = 6 × 72 = 432
+  2. Tulis a = 6m, b = 6n dengan FPB(m, n) = 1 dan m × n = 432 ÷ 36 = 12
+  3. Pasangan (m, n) koprime dengan m < n & m × n = 12: (1, 12) dan (3, 4)
+  4. Total = **2 pasangan**. ✓
 
 ---
 
@@ -2002,6 +2535,11 @@ Berapa item total yang diterima tiap adik?
 - **D** — Ambil pembagi 24 (sub-FPB praktis): tiap anak dapat 10+15+20 = 45 item. Bagi 5 adik = **9 item per adik**. ✓
 
 > **Catatan jujur**: soal Nasional ini diakui agak ambigu — pemilihan FPB tahap 1 vs pembagi praktis tahap 2 perlu klarifikasi. Untuk OSN nyata, soal seperti ini akan diperjelas bahwa jumlah anak panti × adik harus membagi habis seluruh item.
+- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **Langkah Penyelesaian:**
+  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
+  2. Ambil pembagi 24 (sub-FPB praktis): tiap anak dapat 10+15+20 = 45 item
+  3. Bagi 5 adik = **9 item per adik**. ✓
 
 ---
 

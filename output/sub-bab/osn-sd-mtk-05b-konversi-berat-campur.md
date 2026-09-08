@@ -106,6 +106,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 500 g
 - C. 50.000 g
 - D. 5.000 g
+- **Konsep kunci:** Tangga satuan berat (kg, hg, dag, g, dg, cg, mg): tiap turun 1 tingkat dikali 10.
+- **Langkah Penyelesaian:**
+  1. kg ke g turun 3 tingkat.
+  2. Kalikan 5 dengan 1.000.
+  3. 5 kg = 5.000 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -121,6 +126,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,3 kg
 - C. 30 kg
 - D. 300 kg
+- **Konsep kunci:** Naik 3 tingkat pada tangga berat berarti dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. g ke kg naik 3 tingkat.
+  2. Bagi 3.000 dengan 1.000.
+  3. 3.000 g = 3 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -136,6 +146,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 20.000 mg
 - C. 200.000 mg
 - D. 2.000.000 mg
+- **Konsep kunci:** kg ke mg turun 6 tingkat = dikali 1.000.000.
+- **Langkah Penyelesaian:**
+  1. kg-hg-dag-g-dg-cg-mg = 6 tingkat.
+  2. Kalikan 2 dengan 1.000.000.
+  3. 2 kg = 2.000.000 mg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -151,6 +166,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 100 kg
 - C. 10.000 kg
 - D. 1.000 kg
+- **Konsep kunci:** 1 ton = 1.000 kg (hubungan wajib hafal).
+- **Langkah Penyelesaian:**
+  1. Ingat: 1 ton = 1.000 kg.
+  2. Angka tetap, ganti satuannya.
+  3. 1 ton = 1.000 kg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -166,6 +186,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 100 kg
 - C. 1.000 kg
 - D. 10.000 kg
+- **Konsep kunci:** 1 kuintal = 100 kg (hubungan wajib hafal).
+- **Langkah Penyelesaian:**
+  1. Ingat: 1 kuintal = 100 kg.
+  2. 1 kuintal = 100 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -181,6 +205,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 10 g
 - C. 500 g
 - D. 1.000 g
+- **Konsep kunci:** Konvensi Indonesia: 1 ons = 1 hg = 100 g.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 ons = 100 g.
+  2. 1 ons = 100 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -196,6 +224,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 250 g
 - C. 500 g
 - D. 1.000 g
+- **Konsep kunci:** Konvensi Indonesia: 1 pon = 500 g.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 pon = 500 g.
+  2. 1 pon = 500 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -211,6 +243,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 400 g
 - C. 40.000 g
 - D. 4.000 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 1.000.
+  2. 4 kg = 4.000 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -226,6 +262,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,7 kg
 - C. 70 kg
 - D. 700 kg
+- **Konsep kunci:** Naik 3 tingkat berarti dibagi 1.000; g ke kg naik 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 7.000 dengan 1.000.
+  2. 7.000 g = 7 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -241,6 +281,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 200 kg
 - C. 2.000 kg
 - D. 20.000 kg
+- **Konsep kunci:** 1 ton = 1.000 kg, sehingga ton ke kg dikali 1.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 1.000.
+  2. 2 ton = 2.000 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -256,6 +300,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 50 kg
 - C. 5.000 kg
 - D. 500 kg
+- **Konsep kunci:** 1 kuintal = 100 kg, sehingga kuintal ke kg dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 100.
+  2. 5 kuintal = 500 kg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -271,6 +319,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 30 g
 - C. 1.500 g
 - D. 3.000 g
+- **Konsep kunci:** 1 ons = 100 g, sehingga ons ke g dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 100.
+  2. 3 ons = 300 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -286,6 +338,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 500 g
 - C. 1.000 g
 - D. 2.000 g
+- **Konsep kunci:** 1 pon = 500 g, sehingga pon ke g dikali 500.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 500.
+  2. 2 pon = 1.000 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -301,6 +357,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 6 g
 - C. 60 g
 - D. 600 g
+- **Konsep kunci:** Naik 3 tingkat berarti dibagi 1.000; mg ke g naik 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 6.000 dengan 1.000.
+  2. 6.000 mg = 6 g.
 
 **Kunci: B**
 **Pembahasan:**
@@ -316,6 +376,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 50 g
 - C. 500 g
 - D. 5.000 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,5 dengan 1.000.
+  2. 0,5 kg = 500 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -331,6 +395,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 50 ons
 - C. 2.500 ons
 - D. 250 ons
+- **Konsep kunci:** 1 kg = 10 ons (karena 1 ons = 100 g).
+- **Langkah Penyelesaian:**
+  1. Kalikan 25 dengan 10.
+  2. 25 kg = 250 ons.
 
 **Kunci: D**
 **Pembahasan:**
@@ -346,6 +414,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 700
 - C. 2.500
 - D. 25.000
+- **Konsep kunci:** Samakan satuan ke gram lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 2 kg = 2.000 g.
+  2. Jumlahkan: 2.000 + 500.
+  3. Hasilnya 2.500 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -361,6 +434,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 750
 - C. 2.250
 - D. 3.750
+- **Konsep kunci:** Samakan satuan ke gram lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 3 kg = 3.000 g.
+  2. Kurangi: 3.000 − 750.
+  3. Hasilnya 2.250 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -376,6 +454,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 40 g
 - C. 4.000 g
 - D. 40.000 g
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; hg ke g turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 100.
+  2. 4 hg = 400 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -391,6 +473,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,5 kg
 - C. 50 kg
 - D. 5 kg
+- **Konsep kunci:** Naik 2 tingkat berarti dibagi 100; dag ke kg naik 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 500 dengan 100.
+  2. 500 dag = 5 kg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -406,6 +492,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 500 g
 - C. 1 kg
 - D. 10 kg
+- **Konsep kunci:** 1 ons = 100 g, sehingga 10 ons = 1 kg.
+- **Langkah Penyelesaian:**
+  1. Kalikan 10 dengan 100 g = 1.000 g.
+  2. 1.000 g = 1 kg.
+  3. 10 ons = 1 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -421,6 +512,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,8 g
 - C. 80 g
 - D. 800 g
+- **Konsep kunci:** Naik 3 tingkat berarti dibagi 1.000; mg ke g naik 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 8.000 dengan 1.000.
+  2. 8.000 mg = 8 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -436,6 +531,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 75 g
 - C. 7.500 g
 - D. 750 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,75 dengan 1.000.
+  2. 0,75 kg = 750 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -451,6 +550,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 3 kuintal
 - C. 300 kuintal
 - D. 3.000 kuintal
+- **Konsep kunci:** 1 ton = 10 kuintal; ton ke kuintal dikali 10.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 10.
+  2. 3 ton = 30 kuintal.
 
 **Kunci: A**
 **Pembahasan:**
@@ -466,6 +569,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,8 ton
 - C. 8 ton
 - D. 80 ton
+- **Konsep kunci:** 1 ton = 1.000 kg, sehingga kg ke ton dibagi 1.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 800 dengan 1.000.
+  2. 800 kg = 0,8 ton.
 
 **Kunci: B**
 **Pembahasan:**
@@ -481,6 +588,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 700 g
 - C. 2.500 g
 - D. 25.000 g
+- **Konsep kunci:** Samakan ke gram: kg dikali 1.000, ons dikali 100, lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 2 kg = 2.000 g; 5 ons = 500 g.
+  2. Jumlahkan: 2.000 + 500.
+  3. Total = 2.500 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -496,6 +608,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 150 g
 - C. 15.000 g
 - D. 1.500 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1,5 dengan 1.000.
+  2. 1,5 kg = 1.500 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -511,6 +627,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 80 g
 - C. 800 g
 - D. 8.000 g
+- **Konsep kunci:** 1 ons = 100 g, jumlahkan lalu kalikan 100.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan ons dulu: 5 + 3 = 8 ons.
+  2. Kalikan 8 dengan 100.
+  3. 8 ons = 800 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -526,6 +647,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 500 mg
 - C. 5.000 mg
 - D. 50.000 mg
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; g ke mg turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 1.000.
+  2. 5 g = 5.000 mg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -541,6 +666,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,2 kg
 - C. 20 kg
 - D. 200 kg
+- **Konsep kunci:** Naik 1 tingkat berarti dibagi 10; hg ke kg naik 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 20 dengan 10.
+  2. 20 hg = 2 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -556,6 +685,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 3.020 g
 - C. 32.000 g
 - D. 3.200 g
+- **Konsep kunci:** Ubah bagian kg ke gram lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 3 kg = 3.000 g.
+  2. Jumlahkan: 3.000 + 200.
+  3. Semangka = 3.200 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -571,6 +705,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,4 g
 - C. 4 g
 - D. 40 g
+- **Konsep kunci:** Naik 2 tingkat berarti dibagi 100; cg ke g naik 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Bagi 400 dengan 100.
+  2. 400 cg = 4 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -586,6 +724,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 6 dg
 - C. 600 dg
 - D. 60 dg
+- **Konsep kunci:** Turun 1 tingkat berarti dikali 10; g ke dg turun 1 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 6 dengan 10.
+  2. 6 g = 60 dg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -601,6 +743,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 100 dag
 - C. 1.000 dag
 - D. 10.000 dag
+- **Konsep kunci:** kg ke dag turun 2 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1 dengan 100.
+  2. 1 kg = 100 dag.
 
 **Kunci: B**
 **Pembahasan:**
@@ -616,6 +762,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 9 kg
 - C. 200 kg
 - D. 2.000 kg
+- **Konsep kunci:** Kalikan berat 1 kantong dengan banyak kantong; ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. 1 kantong = 5 kg.
+  2. Total = 4 × 5 = 20 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -631,6 +781,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2 g
 - C. 20 g
 - D. 200 g
+- **Konsep kunci:** Jumlahkan mg dulu, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. 1.500 + 500 = 2.000 mg.
+  2. Bagi 1.000 untuk gram.
+  3. 2.000 mg = 2 g.
 
 **Kunci: B**
 **Pembahasan:**
@@ -646,6 +801,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1,5 kg
 - C. 3 kg
 - D. 15 kg
+- **Konsep kunci:** 1 pon = 500 g = 0,5 kg, kalikan dengan banyak pon.
+- **Langkah Penyelesaian:**
+  1. 3 pon = 3 × 500 = 1.500 g.
+  2. Ubah ke kg: 1.500 ÷ 1.000.
+  3. Daging = 1,5 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -661,6 +821,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 25 g
 - C. 2.500 g
 - D. 250 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,25 dengan 1.000.
+  2. 0,25 kg = 250 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -676,6 +840,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 90 kg
 - C. 900 kg
 - D. 9.000 kg
+- **Konsep kunci:** Jumlahkan kuintal lalu ubah ke kg (1 kuintal = 100 kg).
+- **Langkah Penyelesaian:**
+  1. 4 + 5 = 9 kuintal.
+  2. Kalikan 9 dengan 100.
+  3. 9 kuintal = 900 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -691,6 +860,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 250 kg
 - C. 2.500 kg
 - D. 25.000 kg
+- **Konsep kunci:** 1 ton = 1.000 kg; ton ke kg dikali 1.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2,5 dengan 1.000.
+  2. 2,5 ton = 2.500 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -706,6 +879,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,6 kg
 - C. 60 kg
 - D. 600 kg
+- **Konsep kunci:** Kalikan berat butir dengan banyak butir, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 100 × 60 = 6.000 g.
+  2. Ubah ke kg: 6.000 ÷ 1.000.
+  3. Berat = 6 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -721,6 +899,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 3 kg
 - C. 30 kg
 - D. 300 kg
+- **Konsep kunci:** Kalikan berat apel dengan banyak apel, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 20 × 150 = 3.000 g.
+  2. Ubah ke kg: 3.000 ÷ 1.000.
+  3. Berat = 3 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -736,6 +919,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 90 g
 - C. 9.000 g
 - D. 900 g
+- **Konsep kunci:** Turun 2 tingkat berarti dikali 100; hg ke g turun 2 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 9 dengan 100.
+  2. 9 hg = 900 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -751,6 +938,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 250 g
 - C. 750 g
 - D. 1.250 g
+- **Konsep kunci:** Samakan ke gram lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 1 kg = 1.000 g.
+  2. Kurangi: 1.000 − 250.
+  3. Hasilnya 750 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -766,6 +958,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 120 g
 - C. 1.200 g
 - D. 12.000 g
+- **Konsep kunci:** Turun 3 tingkat berarti dikali 1.000; kg ke g turun 3 tingkat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1,2 dengan 1.000.
+  2. 1,2 kg = 1.200 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -781,6 +977,10 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,5 ons
 - C. 50 ons
 - D. 500 ons
+- **Konsep kunci:** Dalam konvensi Indonesia, 1 hg = 1 ons.
+- **Langkah Penyelesaian:**
+  1. 5 hg = 5 ons.
+  2. Angka tidak berubah.
 
 **Kunci: A**
 **Pembahasan:**
@@ -796,6 +996,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2 kg
 - C. 20 kg
 - D. 200 kg
+- **Konsep kunci:** 1 ons = 100 g; kg = 1.000 g, sehingga 10 ons = 1 kg.
+- **Langkah Penyelesaian:**
+  1. 20 ons = 20 × 100 g = 2.000 g.
+  2. Ubah ke kg: 2.000 ÷ 1.000.
+  3. 20 ons = 2 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -811,6 +1016,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1.500 kg
 - C. 1.950 kg
 - D. 2.500 kg
+- **Konsep kunci:** Samakan semua ke kg lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 2 ton = 2.000 kg; 5 kuintal = 500 kg.
+  2. Kurangi: 2.000 − 500.
+  3. Hasilnya 1.500 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -826,6 +1036,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2 kg
 - C. 20 kg
 - D. 200 kg
+- **Konsep kunci:** Kalikan berat kotak dengan banyak lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 10 × 200 = 2.000 g.
+  2. Ubah ke kg: 2.000 ÷ 1.000.
+  3. Total = 2 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -841,6 +1056,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,05 ton
 - C. 5 ton
 - D. 50 ton
+- **Konsep kunci:** Kalikan berat 1 karung dengan banyak karung, lalu ubah ke ton.
+- **Langkah Penyelesaian:**
+  1. Total = 10 × 50 = 500 kg.
+  2. Ubah ke ton: 500 ÷ 1.000.
+  3. Total = 0,5 ton.
 
 **Kunci: A**
 **Pembahasan:**
@@ -858,6 +1078,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2.250 g
 - C. 9.500 g
 - D. 2.450 g
+- **Konsep kunci:** Ubah semua belanjaan ke gram lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 1,5 kg = 1.500 g; 7 ons = 700 g; gula 250 g.
+  2. Jumlahkan: 1.500 + 700 + 250.
+  3. Total = 2.450 g.
 
 **Kunci: D**
 **Pembahasan:**
@@ -873,6 +1098,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,4 ton
 - C. 1 ton
 - D. 10 ton
+- **Konsep kunci:** Kalikan berat karung dengan banyak karung, lalu ubah ke ton.
+- **Langkah Penyelesaian:**
+  1. Total = 25 × 40 = 1.000 kg.
+  2. Ubah ke ton: 1.000 ÷ 1.000.
+  3. Muatan = 1 ton.
 
 **Kunci: C**
 **Pembahasan:**
@@ -888,6 +1118,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 65 kg
 - C. 415 kg
 - D. 485 kg
+- **Konsep kunci:** Samakan berat ke kg lalu cari selisih.
+- **Langkah Penyelesaian:**
+  1. Sapi 4,5 kuintal = 450 kg; kambing 35 kg.
+  2. Kurangi: 450 − 35.
+  3. Selisih = 415 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -903,6 +1138,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1.800 kg
 - C. 4.200 kg
 - D. 1.880 kg
+- **Konsep kunci:** Ubah semua ke kg lalu kurangi dari barang masuk.
+- **Langkah Penyelesaian:**
+  1. 3 ton = 3.000 kg; 12 kuintal = 1.200 kg.
+  2. Sisa = 3.000 − 1.200.
+  3. Sisa = 1.800 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -918,6 +1158,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 3.000 g
 - C. 6.000 g
 - D. 7.500 g
+- **Konsep kunci:** Hitung total awal, kurangi pemberian, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. Total = 5 × 1,5 = 7,5 kg; diberikan 2 × 1,5 = 3 kg.
+  2. Sisa = 7,5 − 3 = 4,5 kg.
+  3. 4,5 kg = 4.500 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -933,6 +1178,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,5 kg
 - C. 5 kg
 - D. 50 kg
+- **Konsep kunci:** Jumlahkan semua bahan lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 250 + 150 + 100 = 500 g.
+  2. Ubah ke kg: 500 ÷ 1.000.
+  3. Total = 0,5 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -948,6 +1198,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1.300 g
 - C. 800 g
 - D. 5 g
+- **Konsep kunci:** Ubah pon dan ons ke gram lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 2 pon = 1.000 g; 3 ons = 300 g.
+  2. Jumlahkan: 1.000 + 300.
+  3. Total = 1.300 g.
 
 **Kunci: B**
 **Pembahasan:**
@@ -963,6 +1218,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 8,4 kg
 - C. 7,6 kg
 - D. 8,8 kg
+- **Konsep kunci:** Jumlahkan berat isi dan dus kosong, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Isi = 24 × 350 = 8.400 g.
+  2. Total = 8.400 + 800 = 9.200 g.
+  3. 9.200 g = 9,2 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -978,6 +1238,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2 kg
 - C. 20 kg
 - D. 200 kg
+- **Konsep kunci:** Kalikan berat anak ayam dengan 25, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Induk = 25 × 80 = 2.000 g.
+  2. Ubah ke kg: 2.000 ÷ 1.000.
+  3. Induk = 2 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -993,6 +1258,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 15 kantong
 - C. 240 kantong
 - D. 24 kantong
+- **Konsep kunci:** Bagi total gula dengan isi tiap kantong; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. 6 kg = 6.000 g.
+  2. Bagi: 6.000 ÷ 250.
+  3. Banyak kantong = 24.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1008,6 +1278,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 13.000 g
 - C. 17.500 g
 - D. 17.950 g
+- **Konsep kunci:** Samakan ke gram lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 18 kg = 18.000 g; 5 ons = 500 g.
+  2. Sisa = 18.000 − 500.
+  3. Sisa = 17.500 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1023,6 +1298,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 3,55 ton
 - C. 11,25 ton
 - D. 35,5 ton
+- **Konsep kunci:** Ubah semua ke ton lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 2,5 ton; 8 kuintal = 0,8 ton; 750 kg = 0,75 ton.
+  2. Jumlahkan: 2,5 + 0,8 + 0,75.
+  3. Total = 4,05 ton.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1038,6 +1318,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1,25 kg
 - C. 12,5 kg
 - D. 125 kg
+- **Konsep kunci:** Pakai perbandingan senilai: bagi 4 lalu kalikan 10.
+- **Langkah Penyelesaian:**
+  1. Terigu untuk 1 orang = 500 ÷ 4 = 125 g.
+  2. Untuk 10 orang = 125 × 10 = 1.250 g.
+  3. 1.250 g = 1,25 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1053,6 +1338,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. Rp 105.000
 - C. Rp 375.000
 - D. Rp 405.000
+- **Konsep kunci:** Hitung harga tiap barang (dengan konversi berat), lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Apel = 3 × 25.000 = Rp75.000; anggur = 0,5 × 60.000 = Rp30.000.
+  2. Jumlahkan: 75.000 + 30.000.
+  3. Total = Rp105.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1068,6 +1358,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 10 g
 - C. 120 g
 - D. 1.200 g
+- **Konsep kunci:** Bagi berat 1 lusin dengan 12, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. 1,2 kg = 1.200 g.
+  2. Bagi: 1.200 ÷ 12.
+  3. 1 sabun = 100 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1083,6 +1378,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1,65 kg
 - C. 4 kg
 - D. 1,75 kg
+- **Konsep kunci:** Jumlahkan kue dan kotak, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Kotak = 250 g = 0,25 kg.
+  2. Total = 1,5 + 0,25.
+  3. Total paket = 1,75 kg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1098,6 +1398,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 80 kg
 - C. 188 kg
 - D. 320 kg
+- **Konsep kunci:** Hitung total semen, kurangi pemakaian, dengan satuan yang sama.
+- **Langkah Penyelesaian:**
+  1. Total = 4 × 50 = 200 kg.
+  2. Dipakai = 1,2 kuintal = 120 kg.
+  3. Sisa = 200 − 120 = 80 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1113,6 +1418,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 9,75 kg
 - C. 10,5 kg
 - D. 13,5 kg
+- **Konsep kunci:** Jumlahkan berat peti dan isi botol, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Isi = 12 × 750 = 9.000 g = 9 kg.
+  2. Total = 1,5 + 9.
+  3. Berat total = 10,5 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1128,6 +1438,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 25 g
 - C. 2.500 g
 - D. 25.000 g
+- **Konsep kunci:** Bagi total gula dengan banyak kantong, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. 25 kg ÷ 100 = 0,25 kg per kantong.
+  2. Ubah ke gram: 0,25 × 1.000.
+  3. Tiap kantong = 250 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1143,6 +1458,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 45 kuintal
 - C. 3.150 kuintal
 - D. 315 kuintal
+- **Konsep kunci:** Kalikan produksi harian dengan 7, lalu ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Total = 4,5 × 7 = 31,5 ton.
+  2. Ubah ke kuintal: 31,5 × 10.
+  3. Total = 315 kuintal.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1158,6 +1478,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 2.000 g
 - C. 2.495 g
 - D. 2.550 g
+- **Konsep kunci:** Ubah semua ke gram lalu cari selisih.
+- **Langkah Penyelesaian:**
+  1. 2,5 kg = 2.500 g.
+  2. Kurangi: 2.500 − 50.
+  3. Berat diterima = 2.450 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1173,6 +1498,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 20 kg
 - C. 200 kg
 - D. 2.000 kg
+- **Konsep kunci:** Bagi total pupuk dengan banyak truk; ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 8 kuintal = 800 kg.
+  2. Bagi dengan 4: 800 ÷ 4.
+  3. Tiap truk = 200 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1188,6 +1518,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 1,6 kuintal
 - C. 22,5 kuintal
 - D. 2,25 kuintal
+- **Konsep kunci:** Jumlahkan semua berat lalu ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Total = 95 + 65 + 65 = 225 kg.
+  2. Ubah ke kuintal: 225 ÷ 100.
+  3. Total = 2,25 kuintal.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1203,6 +1538,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 175 g
 - C. 250 g
 - D. 1.750 g
+- **Konsep kunci:** Bagi berat ayam dengan banyak bagian, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. 1,75 kg = 1.750 g.
+  2. Bagi: 1.750 ÷ 7.
+  3. Tiap potong = 250 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1218,6 +1558,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 22 kg
 - C. 220 kg
 - D. 2.200 kg
+- **Konsep kunci:** Bagi total beras dengan banyak karung; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. 5,5 ton = 5.500 kg.
+  2. Bagi: 5.500 ÷ 250.
+  3. Tiap karung = 22 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1233,6 +1578,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 0,8 kuintal
 - C. 80 kuintal
 - D. 800 kuintal
+- **Konsep kunci:** Bagi total hasil dengan banyak bulan, lalu ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Rata-rata = 4,8 ÷ 6 = 0,8 ton.
+  2. Ubah ke kuintal: 0,8 × 10.
+  3. Rata-rata = 8 kuintal.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1248,6 +1598,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 300 koin
 - C. 3.000 koin
 - D. 4.800 koin
+- **Konsep kunci:** Bagi total berat dengan berat tiap koin; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. 1,2 kg = 1.200 g.
+  2. Bagi: 1.200 ÷ 4.
+  3. Jumlah koin = 300.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1263,6 +1618,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. 5 kg
 - C. 50 kg
 - D. 500 kg
+- **Konsep kunci:** Kalikan daging per porsi dengan banyak orang, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Total = 40 × 125 = 5.000 g.
+  2. Ubah ke kg: 5.000 ÷ 1.000.
+  3. Daging = 5 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1278,6 +1638,11 @@ Selalu **samakan satuan dulu** sebelum dijumlahkan/dikurangkan.
 - B. Sapi B (850 kg)
 - C. Ketiganya sama
 - D. Sapi C (0,9 ton)
+- **Konsep kunci:** Samakan semua berat ke kg lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. A = 720 kg; B = 850 kg; C = 0,9 ton = 900 kg.
+  2. 900 paling besar.
+  3. Sapi terberat = C.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1296,6 +1661,11 @@ Samakan ke kg: A = 720 kg; B = 850 kg; C = 0,9 × 1.000 = 900 kg.
 - B. 2.000 g
 - C. 4.300 g
 - D. 1.000 g
+- **Konsep kunci:** Ubah semua belanjaan ke gram lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Beras = 2.000 g; gula = 1,5 pon = 750 g; telur = 300 g; cabe = 250 g.
+  2. Jumlahkan: 2.000 + 750 + 300 + 250.
+  3. Total = 3.300 g.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1313,6 +1683,11 @@ Samakan ke kg: A = 720 kg; B = 850 kg; C = 0,9 × 1.000 = 900 kg.
 - B. 2,2 ton
 - C. 1,8 ton
 - D. 2,7 ton
+- **Konsep kunci:** Bagi total beras ke karung, lalu hitung sisa dalam ton.
+- **Langkah Penyelesaian:**
+  1. Tiap karung = 3,2 ton ÷ 80 = 40 kg.
+  2. Sisa 55 karung = 55 × 40 = 2.200 kg.
+  3. 2.200 kg = 2,2 ton.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1331,6 +1706,11 @@ Berat per karung = 3.200 ÷ 80 = 40 kg. Terjual = 25 × 40 = 1.000 kg = 1 ton. S
 - B. 4 × (1 kg) + 1 × (5 ons) + 1 × (2 ons) + 1 × (50 g) + 0 = total 6 beban
 - C. 4 × (1 kg) + 1 × (5 ons) + 2 × (1 ons) + 1 × (50 g) = total **5 beban tepat 4.750 g** (dengan pengulangan 1 kg dihitung 1 jenis)
 - D. 4 × (1 kg) + 1 × (5 ons) + 1 × (2 ons) + 1 × (25 g) + 1 × (25 g)
+- **Konsep kunci:** Konversi kg ke gram lalu susun beban agar jumlahnya pas 4.750 g.
+- **Langkah Penyelesaian:**
+  1. Ubah 4,75 kg = 4.750 g.
+  2. Susun: 4 × 1 kg (4.000) + 5 ons (500) + 2 × 1 ons (200) + 50 g.
+  3. Jumlah = 4.000 + 500 + 200 + 50 = 4.750 g sesuai kunci.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1349,6 +1729,11 @@ Target = 4,75 kg = 4.750 g.
 - B. 0,05 kuintal
 - C. 5 kuintal
 - D. 0,5 kuintal
+- **Konsep kunci:** Cari rata-rata, lalu ubah kg ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Total = 48+51+49+52+50 = 250 kg.
+  2. Rata-rata = 250 ÷ 5 = 50 kg.
+  3. 50 kg = 0,5 kuintal.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1367,6 +1752,11 @@ Total = 48+51+49+52+50 = 250 kg. Rata-rata = 250 ÷ 5 = 50 kg = 50 ÷ 100 = 0,5 
 - B. 12 kuintal
 - C. 18 kuintal
 - D. 21 kuintal
+- **Konsep kunci:** Hitung panen hari ke-2 (turun 25%), lalu jumlahkan dan ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Hari ke-2 = 75% × 1,2 ton = 0,9 ton.
+  2. Total = 1,2 + 0,9 = 2,1 ton.
+  3. 2,1 ton = 21 kuintal.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1385,6 +1775,11 @@ Hari 1 = 1,2 ton = 12 kuintal. Hari 2 = 12 − (25% × 12) = 12 − 3 = 9 kuinta
 - B. 1.250 kg
 - C. 1.500 kg
 - D. 1.750 kg
+- **Konsep kunci:** Jumlahkan muatan yang diturunkan lalu kurangi dari total.
+- **Langkah Penyelesaian:**
+  1. Turun = 800 kg + 750 kg + 1.200 kg = 2.750 kg.
+  2. Total awal = 5.000 kg.
+  3. Sisa = 5.000 − 2.750 = 2.250 kg.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1409,6 +1804,11 @@ Perbaikan soal: nilai kedua adalah **1.250 kg** (bukan 750 kg). Bacaan resmi soa
 - B. 18 kg
 - C. 21,6 kg
 - D. 216 kg
+- **Konsep kunci:** Kalikan berjenjang: kotak × sabun × berat sabun, lalu ubah ke kg.
+- **Langkah Penyelesaian:**
+  1. Tiap kotak = 24 × 75 = 1.800 g.
+  2. Total 12 kotak = 1.800 × 12 = 21.600 g.
+  3. 21.600 g = 21,6 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1427,6 +1827,11 @@ Jumlah sabun = 12 × 24 = 288. Berat total = 288 × 75 = 21.600 g = 21,6 kg.
 - B. 3,6 kg
 - C. 7,5 kg
 - D. 18 kg
+- **Konsep kunci:** Gunakan persamaan berat: 5 tuna = 12 kakap.
+- **Langkah Penyelesaian:**
+  1. Berat 12 kakap = 12 × 1,5 = 18 kg.
+  2. Berat 1 tuna = 18 ÷ 5.
+  3. 1 tuna = 3,6 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1445,6 +1850,11 @@ Jumlah sabun = 12 × 24 = 288. Berat total = 288 × 75 = 21.600 g = 21,6 kg.
 - B. 75 karung
 - C. 80 karung
 - D. 750 karung
+- **Konsep kunci:** Bagi kapasitas truk dengan berat tiap karung; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. 6 ton = 6.000 kg.
+  2. Bagi: 6.000 ÷ 80 = 75.
+  3. Maksimal 75 karung.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1463,6 +1873,11 @@ Jumlah sabun = 12 × 24 = 288. Berat total = 288 × 75 = 21.600 g = 21,6 kg.
 - B. Rp 3.375.000
 - C. Rp 33.750.000
 - D. Rp 337.500.000
+- **Konsep kunci:** Konversi berat sapi ke kg lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. 4,5 kuintal = 450 kg.
+  2. Uang = 450 × 75.000.
+  3. = Rp33.750.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1481,6 +1896,11 @@ Jumlah sabun = 12 × 24 = 288. Berat total = 288 × 75 = 21.600 g = 21,6 kg.
 - B. 12 kuintal
 - C. 60 kuintal
 - D. 120 kuintal
+- **Konsep kunci:** Kalikan berjenjang lalu ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. 1 hari = 25 × 24 = 600 kaleng = 600 × 400 = 240.000 g = 240 kg.
+  2. 5 hari = 240 × 5 = 1.200 kg.
+  3. 1.200 kg = 12 kuintal.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1499,6 +1919,11 @@ Per hari = 25 × 24 × 400 = 240.000 g = 240 kg. 5 hari = 5 × 240 = 1.200 kg = 
 - B. 0,9 kuintal
 - C. 0,99 kuintal
 - D. 9 kuintal
+- **Konsep kunci:** Gunakan perbandingan lalu ubah total ke kuintal.
+- **Langkah Penyelesaian:**
+  1. 1 bagian = 30 ÷ 5 = 6 kg.
+  2. Total = (4+5+6) × 6 = 90 kg.
+  3. 90 kg = 0,9 kuintal.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1517,6 +1942,11 @@ B = 5 bagian = 30 kg → 1 bagian = 6 kg. A = 4 × 6 = 24; C = 6 × 6 = 36. Tota
 - B. 750 g
 - C. 7.500 g
 - D. 75.000 g
+- **Konsep kunci:** Bagi uang dengan harga per kg, lalu ubah ke gram.
+- **Langkah Penyelesaian:**
+  1. Berat = 90.000 ÷ 120.000 = 0,75 kg.
+  2. 0,75 kg = 750 g.
+  3. Daging = 750 gram.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1535,6 +1965,11 @@ Berat = 90.000 ÷ 120.000 = 0,75 kg = 750 g.
 - B. Rp 800.000
 - C. Rp 1.080.000
 - D. Rp 1.800.000
+- **Konsep kunci:** Hitung banyak kantong lalu kalikan harga per kantong.
+- **Langkah Penyelesaian:**
+  1. Banyak kantong = 60 ÷ 1,5 = 40.
+  2. Pendapatan = 40 × 18.000.
+  3. = Rp720.000.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1553,6 +1988,11 @@ Banyak kantong = 60 ÷ 1,5 = 40 kantong. Pendapatan = 40 × 18.000 = 720.000.
 - B. 50 g
 - C. 100 g
 - D. 150 g
+- **Konsep kunci:** Ubah semua tebakan ke gram lalu cari selisih terkecil dari 4,8 kg.
+- **Langkah Penyelesaian:**
+  1. 4,8 kg = 4.800 g; tebakan = 4.750 / 4.900 / 4.750 g.
+  2. Selisih: 50 / 100 / 50.
+  3. Tebakan terdekat (selisih 50 g) dijawab sesuai kunci.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1571,6 +2011,11 @@ Selisih: Andi |4,8 − 4,750| = 0,05 kg = 50 g. Budi |4,8 − 4,9| = 0,1 kg = 10
 - B. 1.200 g
 - C. 1.800 g
 - D. 2.000 g
+- **Konsep kunci:** Gunakan perbandingan 3 : 2 untuk tepung dan gula.
+- **Langkah Penyelesaian:**
+  1. 1 bagian = 1,2 kg ÷ 2 = 0,6 kg.
+  2. Tepung = 3 × 0,6 = 1,8 kg.
+  3. 1,8 kg = 1.800 g.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1589,6 +2034,11 @@ Gula : Tepung = 2 : 3. Gula = 2 bagian = 1,2 kg = 1.200 g → 1 bagian = 600 g. 
 - B. 10,8 kg
 - C. 11,4 kg
 - D. 12 kg
+- **Konsep kunci:** Bruto 1 kaleng = netto + berat kaleng; kalikan dengan 24.
+- **Langkah Penyelesaian:**
+  1. Bruto 1 kaleng = 400 + 50 = 450 g.
+  2. Total = 24 × 450 = 10.800 g.
+  3. 10.800 g = 10,8 kg.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1607,6 +2057,11 @@ Bruto 1 kaleng = 400 + 50 = 450 g. 24 kaleng = 24 × 450 = 10.800 g = 10,8 kg.
 - B. 1 kuintal
 - C. 10 kuintal
 - D. 100 kuintal
+- **Konsep kunci:** Bagi total uang dengan harga per sak, lalu ubah ke kuintal.
+- **Langkah Penyelesaian:**
+  1. Banyak sak = 1.300.000 ÷ 65.000 = 20 sak.
+  2. Berat = 20 × 50 = 1.000 kg.
+  3. 1.000 kg = 10 kuintal.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1625,6 +2080,11 @@ Jumlah sak = 1.300.000 ÷ 65.000 = 20 sak. Berat = 20 × 50 = 1.000 kg = 10 kuin
 - B. 40 kg
 - C. 70 kg
 - D. 100 kg
+- **Konsep kunci:** Samakan semua ke kg lalu cari selisih terberat dan teringan.
+- **Langkah Penyelesaian:**
+  1. 4,8 kuintal = 480 kg; 510 kg; 0,55 ton = 550 kg.
+  2. Selisih = 550 − 480.
+  3. Selisih = 70 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1643,6 +2103,11 @@ Konversi ke kg: 480, 510, 550. Terberat 550; teringan 480. Selisih = 550 − 480
 - B. Rp 60.000.000
 - C. Rp 67.200.000
 - D. Rp 84.000.000
+- **Konsep kunci:** Hitung produksi setahun, kurangi yang dipakai, lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. Produksi setahun = 250 × 12 = 3.000 kg.
+  2. Dijual = 80% × 3.000 = 2.400 kg.
+  3. Pendapatan = 2.400 × 28.000 = Rp67.200.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1661,6 +2126,11 @@ Produksi setahun = 12 × 250 = 3.000 kg. Dijual = 80% × 3.000 = 2.400 kg. Penda
 - B. Rp 1.200.000.000
 - C. Rp 120.000.000
 - D. Rp 12.000.000
+- **Konsep kunci:** Hitung total emas dalam gram lalu kalikan harga per gram.
+- **Langkah Penyelesaian:**
+  1. Total = 8 × 1,25 = 10 kg.
+  2. 10 kg = 10.000 g.
+  3. Nilai = 10.000 × 1.200.000 = Rp12.000.000.000.
 
 **Kunci: A**
 **Pembahasan:**

@@ -133,6 +133,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 600 L = bagi 100 saja, lupa cm³ → L harus bagi 1.000.
 - **C** — Salah. 6.000 L = bagi 10 saja, salah konversi.
 - **D** — Benar. V = 50 × 40 × 30 = 60.000 cm³. 60.000 ÷ 1.000 = 60 L.
+- **Konsep kunci:** Konversi volume balok (cm³) ke satuan kapasitas liter.
+- **Langkah Penyelesaian:**
+  1. Hitung volume balok: V = p × l × t = 50 × 40 × 30 = 60.000 cm³.
+  2. Ubah ke liter: 60.000 ÷ 1.000 = 60 L.
 
 ---
 
@@ -147,6 +151,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. 1 m³ = 1.000 dm³ = 1.000 liter (karena 1 dm³ = 1 L).
 - **C** — Salah. 10 = salah faktor (terlalu kecil).
 - **D** — Salah. 10.000 = kelebihan satu tingkat.
+- **Konsep kunci:** Konversi satuan volume m³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m³ = 1.000 dm³.
+  2. Karena 1 dm³ = 1 L, maka 1 m³ = 1.000 L.
 
 ---
 
@@ -161,6 +169,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 500 = kali 100 saja, salah faktor.
 - **C** — Salah. 50 = kali 10 saja.
 - **D** — Salah. 50.000 = kali 10.000 (kelebihan satu tingkat).
+- **Konsep kunci:** Konversi satuan liter ke mililiter.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 L = 1.000 mL.
+  2. Kalikan 5 × 1.000 = 5.000 mL.
 
 ---
 
@@ -175,6 +187,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 0,8 L = bagi 10.000, jauh terlalu kecil.
 - **C** — Benar. V = 20 × 20 × 20 = 8.000 cm³ = 8 L.
 - **D** — Salah. 800 L = bagi 10 saja, salah faktor.
+- **Konsep kunci:** Volume kubus dan konversinya ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kubus: V = s³ = 20 × 20 × 20 = 8.000 cm³.
+  2. Ubah ke liter: 8.000 ÷ 1.000 = 8 L.
 
 ---
 
@@ -189,6 +205,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 20 = kali 10, salah.
 - **C** — Salah. 20.000 = kali 10.000, kelebihan satu tingkat.
 - **D** — Benar. 1 L = 1.000 cm³, jadi 2 L = 2.000 cm³.
+- **Konsep kunci:** Konversi kapasitas liter ke volume cm³.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 L = 1.000 cm³.
+  2. Kalikan 2 × 1.000 = 2.000 cm³.
 
 ---
 
@@ -203,6 +223,11 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 2 = bagi 100, jauh terlalu kecil.
 - **C** — Salah. 2.000 = lupa bagi 1.000.
 - **D** — Benar. 1 m = 100 cm. V = 100 × 50 × 40 = 200.000 cm³ = 200 L.
+- **Konsep kunci:** Volume balok dengan satuan panjang campuran (m dan cm).
+- **Langkah Penyelesaian:**
+  1. Samakan satuan dulu: 1 m = 100 cm.
+  2. Hitung volume: V = 100 × 50 × 40 = 200.000 cm³.
+  3. Ubah ke liter: 200.000 ÷ 1.000 = 200 L.
 
 ---
 
@@ -217,6 +242,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 16 = 6 + 10 (menjumlahkan, padahal harus dikalikan).
 - **C** — Salah. 600 = kali 100, salah.
 - **D** — Salah. 6 = debitnya saja, lupa kali waktu.
+- **Konsep kunci:** Hubungan debit, volume, dan waktu (V = Q × t).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus V = Q × t.
+  2. Hitung: V = 6 × 10 = 60 liter.
 
 ---
 
@@ -231,6 +260,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 6 = ½ × 12 (salah pecahan).
 - **C** — Benar. ¾ × 12 = 9 liter.
 - **D** — Salah. 3 = ¼ × 12 (sisa ruang udara), bukan air.
+- **Konsep kunci:** Kapasitas terisi sebagian, dihitung dari pecahan kapasitas total.
+- **Langkah Penyelesaian:**
+  1. Kalikan pecahan bagian terisi dengan kapasitas total.
+  2. ¾ × 12 = 9 liter.
 
 ---
 
@@ -245,6 +278,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 16 = bagi 10.000 (salah faktor).
 - **C** — Benar. V = 80 × 50 × 40 = 160.000 cm³. 160.000 ÷ 1.000 = 160 L.
 - **D** — Salah. 1,6 = bagi 100.000 (salah pangkat).
+- **Konsep kunci:** Volume balok dan konversinya ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung volume: V = 80 × 50 × 40 = 160.000 cm³.
+  2. Ubah ke liter: 160.000 ÷ 1.000 = 160 L.
 
 ---
 
@@ -259,6 +296,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. 1 menit = 60 detik. V = 3 × 60 = 180 L.
 - **C** — Salah. 30 = 3 × 10 (lupa 60 detik per menit).
 - **D** — Salah. 18 = 3 × 6 (asal hitung).
+- **Konsep kunci:** Debit dengan konversi satuan waktu dari detik ke menit.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 menit = 60 detik.
+  2. Hitung V = Q × t = 3 × 60 = 180 L.
 
 ---
 
@@ -273,6 +314,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 1.000 = 200 × 5 (mengalikan, padahal harus dibagi).
 - **C** — Salah. 4 = 200 / 50 (salah debit).
 - **D** — Salah. 50 = 200 / 4 (salah debit).
+- **Konsep kunci:** Mencari waktu pengisian dari debit dan volume (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus t = V ÷ Q.
+  2. Hitung t = 200 ÷ 5 = 40 menit.
 
 ---
 
@@ -287,6 +332,9 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 10 = jauh terlalu kecil.
 - **C** — Benar. 1 L = 1.000 mL (definisi standar).
 - **D** — Salah. 10.000 = kelebihan satu tingkat.
+- **Konsep kunci:** Konversi satuan liter ke mililiter (definisi dasar).
+- **Langkah Penyelesaian:**
+  1. Ingat definisi baku: 1 L = 1.000 mL.
 
 ---
 
@@ -301,6 +349,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. V = π r² t = 22/7 × 196 × 50 = 22 × 28 × 50 = 30.800 cm³.
 - **C** — Salah. 3.080 = bagi 10, salah hitung.
 - **D** — Salah. 308.000 = kali 10, salah.
+- **Konsep kunci:** Volume tabung dengan rumus V = π × r² × t.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan jari-jari: 14² = 196.
+  2. Hitung V = 22/7 × 196 × 50 = 30.800 cm³.
 
 ---
 
@@ -315,6 +367,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 3.080 = bagi 10 saja.
 - **C** — Salah. 3,08 = bagi 10.000.
 - **D** — Benar. 30.800 cm³ ÷ 1.000 = 30,8 L.
+- **Konsep kunci:** Konversi volume tabung (cm³) ke liter.
+- **Langkah Penyelesaian:**
+  1. Ambil hasil V = 30.800 cm³ dari soal sebelumnya.
+  2. Ubah ke liter: 30.800 ÷ 1.000 = 30,8 L.
 
 ---
 
@@ -329,6 +385,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 250 = jumlah yang diminum, bukan sisa.
 - **C** — Benar. Sisa = 600 − 250 = 350 mL.
 - **D** — Salah. 600 = kapasitas penuh, lupa dikurangi.
+- **Konsep kunci:** Pengurangan volume: sisa setelah sebagian dipakai.
+- **Langkah Penyelesaian:**
+  1. Sisa = kapasitas awal − yang sudah dipakai.
+  2. Hitung: 600 − 250 = 350 mL.
 
 ---
 
@@ -343,6 +403,9 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. V = 5 × 5 × 5 = 125 cm³.
 - **C** — Salah. 15 = 5 × 3 (jumlahkan rusuk, bukan kalikan).
 - **D** — Salah. 75 = 5 × 5 × 3 (salah jumlah rusuk).
+- **Konsep kunci:** Volume kubus dengan rumus V = s³.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 5 × 5 × 5 = 125 cm³.
 
 ---
 
@@ -357,6 +420,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 10 = 1.000 / 100 (salah volume cetakan).
 - **C** — Salah. 200 = 1.000 / 5 (salah rumus cetakan).
 - **D** — Benar. Volume satu cetakan = 125 cm³. 1.000 ÷ 125 = 8 cetakan.
+- **Konsep kunci:** Pembagian volume total dengan volume satu wadah kecil.
+- **Langkah Penyelesaian:**
+  1. Hitung volume satu cetakan: 5³ = 125 cm³.
+  2. Bagi total adonan dengan volume cetakan: 1.000 ÷ 125 = 8 cetakan.
 
 ---
 
@@ -371,6 +438,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. Air keluar = 4 × 10 = 40 L. Sisa = 80 − 40 = 40 L.
 - **C** — Salah. 320 = 80 × 4 (asal kalikan).
 - **D** — Salah. 8 = 80 / 10 (rumus salah).
+- **Konsep kunci:** Pengurasan (debit keluar) mengurangi volume air yang ada.
+- **Langkah Penyelesaian:**
+  1. Hitung air yang keluar: V = Q × t = 4 × 10 = 40 L.
+  2. Sisa = 80 − 40 = 40 L.
 
 ---
 
@@ -385,6 +456,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 1.200 = bagi 100 saja.
 - **C** — Benar. V = 60 × 50 × 40 = 120.000 cm³ = 120 L.
 - **D** — Salah. 12.000 = lupa bagi 1.000.
+- **Konsep kunci:** Volume balok dan konversinya ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 60 × 50 × 40 = 120.000 cm³.
+  2. Ubah ke liter: 120.000 ÷ 1.000 = 120 L.
 
 ---
 
@@ -399,6 +474,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 9 = ½ × 18.
 - **C** — Benar. ⅔ × 18 = 12 L.
 - **D** — Salah. 18 = penuh, lupa pecahan.
+- **Konsep kunci:** Kapasitas terisi sebagian, dihitung dari pecahan kapasitas total.
+- **Langkah Penyelesaian:**
+  1. Kalikan pecahan bagian terisi dengan kapasitas total.
+  2. ⅔ × 18 = 12 L.
 
 ---
 
@@ -413,6 +492,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 25 = kali 10, salah.
 - **C** — Salah. 25.000 = kali 10.000, kelebihan satu tingkat.
 - **D** — Benar. 1 m³ = 1.000 L → 2,5 × 1.000 = 2.500 L.
+- **Konsep kunci:** Konversi satuan volume m³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 m³ = 1.000 L.
+  2. Kalikan 2,5 × 1.000 = 2.500 L.
 
 ---
 
@@ -427,6 +510,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 720 = 12 × 60 (pakai 1 jam, bukan ½ jam).
 - **C** — Salah. 60 = 12 × 5 (asal hitung).
 - **D** — Benar. ½ jam = 30 menit. V = 12 × 30 = 360 L.
+- **Konsep kunci:** Debit dengan konversi satuan waktu dari jam ke menit.
+- **Langkah Penyelesaian:**
+  1. Ubah ½ jam = 30 menit.
+  2. Hitung V = Q × t = 12 × 30 = 360 L.
 
 ---
 
@@ -441,6 +528,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 220 = salah operasi.
 - **C** — Benar. Sisa ruang = 500 − 320 = 180 L.
 - **D** — Salah. 320 = jumlah yang sudah terisi.
+- **Konsep kunci:** Sisa ruang kosong pada wadah (kapasitas dikurangi isi).
+- **Langkah Penyelesaian:**
+  1. Sisa ruang = kapasitas total − isi sekarang.
+  2. Hitung: 500 − 320 = 180 L.
 
 ---
 
@@ -455,6 +546,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 80 = kali 10, salah faktor.
 - **C** — Benar. V = 4 × 2 × 1 = 8 m³ = 8 × 1.000 = 8.000 L.
 - **D** — Salah. 800 = kali 100, salah faktor.
+- **Konsep kunci:** Volume balok dalam satuan meter, dikonversi ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 4 × 2 × 1 = 8 m³.
+  2. Ubah ke liter: 8 × 1.000 = 8.000 L.
 
 ---
 
@@ -469,6 +564,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. Selisih = 15 − 9 = 6 L.
 - **C** — Salah. 8 = asal hitung.
 - **D** — Salah. 12 = rata-rata, bukan selisih.
+- **Konsep kunci:** Selisih dua kapasitas wadah.
+- **Langkah Penyelesaian:**
+  1. Selisih = kapasitas besar − kapasitas kecil.
+  2. Hitung: 15 − 9 = 6 L.
 
 ---
 
@@ -483,6 +582,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. 3 × 750 = 2.250 mL = 2,25 L.
 - **C** — Salah. 750 = isi 1 botol, lupa kali 3.
 - **D** — Salah. 22.500 = kali 30 (asal).
+- **Konsep kunci:** Perkalian volume per satuan wadah dengan banyak wadah.
+- **Langkah Penyelesaian:**
+  1. Kalikan isi satu botol dengan banyak botol yang diminum.
+  2. Hitung: 3 × 750 = 2.250 mL.
 
 ---
 
@@ -497,6 +600,11 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. V = 100 × 100 × 60 = 600.000 cm³ = 600 L.
 - **C** — Salah. 6.000 = lupa bagi 1.000.
 - **D** — Salah. 6 = bagi 100.000, jauh terlalu kecil.
+- **Konsep kunci:** Volume balok dengan satuan panjang campuran (m dan cm).
+- **Langkah Penyelesaian:**
+  1. Samakan satuan dulu: 1 m = 100 cm.
+  2. Hitung V = 100 × 100 × 60 = 600.000 cm³.
+  3. Ubah ke liter: 600.000 ÷ 1.000 = 600 L.
 
 ---
 
@@ -511,6 +619,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 32 = 240 / 7,5 (debit salah).
 - **C** — Benar. t = V / Q = 240 / 8 = 30 menit.
 - **D** — Salah. 25 = 240 / 9,6 (salah debit).
+- **Konsep kunci:** Mencari waktu pengisian dari debit dan volume (t = V ÷ Q).
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus t = V ÷ Q.
+  2. Hitung t = 240 ÷ 8 = 30 menit.
 
 ---
 
@@ -525,6 +637,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. Sisa = 1.500 − 350 − 200 = 950 L.
 - **C** — Salah. 1.150 = 1.500 − 350 (lupa kurangi 200).
 - **D** — Salah. 1.350 = 1.500 − 150 (asal kurangi).
+- **Konsep kunci:** Pengurangan volume secara berturut-turut (dua kali pemakaian).
+- **Langkah Penyelesaian:**
+  1. Kurangi volume awal dengan pemakaian pertama.
+  2. Kurangi lagi dengan pemakaian kedua: 1.500 − 350 − 200 = 950 L.
 
 ---
 
@@ -539,6 +655,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 4 = 1.000 / 250 (lupa kali 10 untuk 10 L).
 - **C** — Benar. 10 L = 10.000 mL. 10.000 ÷ 250 = 40 botol.
 - **D** — Salah. 50 = 10.000 / 200 (salah pembagi).
+- **Konsep kunci:** Pembagian volume besar ke wadah-wadah kecil dengan satuan berbeda.
+- **Langkah Penyelesaian:**
+  1. Ubah 10 L menjadi mL: 10 × 1.000 = 10.000 mL.
+  2. Bagi dengan kapasitas botol: 10.000 ÷ 250 = 40 botol.
 
 ---
 
@@ -553,6 +673,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 5 = pembagi salah.
 - **C** — Salah. 3 = asal.
 - **D** — Salah. 2,5 = pembagi 400, salah.
+- **Konsep kunci:** Pembagian kapasitas total dengan pemakaian harian.
+- **Langkah Penyelesaian:**
+  1. Bagi kapasitas tangki dengan pemakaian per hari.
+  2. Hitung: 1.000 ÷ 250 = 4 hari.
 
 ---
 
@@ -567,6 +691,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 10 = salah faktor.
 - **C** — Benar. V = 1 × 1 × 1 = 1 dm³ = 1 L (definisi standar).
 - **D** — Salah. 0,1 = bagi 10, salah.
+- **Konsep kunci:** Volume kubus dan hubungan langsung dm³ dengan liter.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 1 × 1 × 1 = 1 dm³.
+  2. Karena 1 dm³ = 1 L, kapasitasnya 1 liter.
 
 ---
 
@@ -581,6 +709,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. Debit total = 6 + 4 = 10 L/menit. t = 240 / 10 = 24 menit.
 - **C** — Salah. 60 = pakai debit 4 saja.
 - **D** — Salah. 30 = asal.
+- **Konsep kunci:** Debit gabungan dari dua keran pengisi (dijumlahkan).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kedua debit: 6 + 4 = 10 L/menit.
+  2. Hitung waktu: t = V ÷ Q = 240 ÷ 10 = 24 menit.
 
 ---
 
@@ -595,6 +727,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 628 = lupa kuadratkan tinggi (bagi 10).
 - **C** — Salah. 62.800 = kali 10, salah faktor.
 - **D** — Salah. 62,8 = bagi 100, salah.
+- **Konsep kunci:** Volume tabung dengan rumus V = π × r² × t.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan jari-jari: 10² = 100.
+  2. Hitung V = 3,14 × 100 × 20 = 6.280 cm³.
 
 ---
 
@@ -609,6 +745,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. 6.280 cm³ ÷ 1.000 = 6,28 L.
 - **C** — Salah. 62,8 = bagi 100, salah faktor.
 - **D** — Salah. 0,0628 = bagi 100.000, salah.
+- **Konsep kunci:** Konversi volume tabung (cm³) ke liter.
+- **Langkah Penyelesaian:**
+  1. Ambil hasil V = 6.280 cm³ dari soal sebelumnya.
+  2. Ubah ke liter: 6.280 ÷ 1.000 = 6,28 L.
 
 ---
 
@@ -623,6 +763,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 250 = 1 detik saja, lupa kali 60.
 - **C** — Benar. 250 × 60 = 15.000 mL = 15 L.
 - **D** — Salah. 1,5 = kali 6 (asal).
+- **Konsep kunci:** Debit dengan konversi satuan waktu dan satuan volume sekaligus.
+- **Langkah Penyelesaian:**
+  1. Kalikan debit per detik dengan 60 detik: 250 × 60 = 15.000 mL.
+  2. Ubah ke liter: 15.000 ÷ 1.000 = 15 L.
 
 ---
 
@@ -637,6 +781,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 4.500 = kurangi 500 (5 hari), bukan 7 hari.
 - **C** — Salah. 4.000 = kurangi 1.000.
 - **D** — Salah. 700 = air yang hilang, bukan sisa.
+- **Konsep kunci:** Pengurangan volume berulang (kehilangan per hari dikali jumlah hari).
+- **Langkah Penyelesaian:**
+  1. Hitung total penguapan seminggu: 7 × 100 = 700 L.
+  2. Sisa = 5.000 − 700 = 4.300 L.
 
 ---
 
@@ -651,6 +799,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 4 = jumlah botol, bukan isi.
 - **C** — Benar. 6 / 4 = 1,5 L per botol.
 - **D** — Salah. 2 = 6 / 3, salah pembagi.
+- **Konsep kunci:** Pembagian volume rata ke beberapa wadah sama besar.
+- **Langkah Penyelesaian:**
+  1. Bagi volume total dengan banyak wadah.
+  2. Hitung: 6 ÷ 4 = 1,5 L per botol.
 
 ---
 
@@ -665,6 +817,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 60 = jumlah yang dipakai, bukan sisa.
 - **C** — Benar. Sisa = 100 − 35 − 25 = 40 L.
 - **D** — Salah. 35 = pemakaian satu jenis saja.
+- **Konsep kunci:** Pengurangan volume secara berturut-turut (dua kali pemakaian).
+- **Langkah Penyelesaian:**
+  1. Kurangi volume awal dengan pemakaian pertama.
+  2. Kurangi lagi dengan pemakaian kedua: 100 − 35 − 25 = 40 L.
 
 ---
 
@@ -679,6 +835,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 240 = salah hitung.
 - **C** — Benar. 60% × 500 = 0,6 × 500 = 300 L.
 - **D** — Salah. 360 = 72% × 500 (asal).
+- **Konsep kunci:** Persentase dari kapasitas total.
+- **Langkah Penyelesaian:**
+  1. Ubah persen ke pecahan desimal: 60% = 0,6.
+  2. Kalikan dengan kapasitas: 0,6 × 500 = 300 L.
 
 ---
 
@@ -693,6 +853,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 65 = 60 + 5 (lupa kali debit).
 - **C** — Benar. Tambahan = 10 × 5 = 50 L. Total = 60 + 50 = 110 L.
 - **D** — Salah. 600 = 60 × 10 (asal kalikan).
+- **Konsep kunci:** Penambahan volume hasil pengisian (V = Q × t) ke volume awal.
+- **Langkah Penyelesaian:**
+  1. Hitung tambahan air: 10 × 5 = 50 L.
+  2. Jumlahkan dengan isi awal: 60 + 50 = 110 L.
 
 ---
 
@@ -707,6 +871,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 60 = isi botol, bukan jumlah minum.
 - **C** — Salah. 5 = isi per minum, bukan banyak minum.
 - **D** — Benar. 60 / 5 = 12 kali minum.
+- **Konsep kunci:** Pembagian volume total dengan takaran per pemakaian.
+- **Langkah Penyelesaian:**
+  1. Bagi kapasitas botol dengan takaran sekali minum.
+  2. Hitung: 60 ÷ 5 = 12 kali.
 
 ---
 
@@ -721,6 +889,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. 27 L = 27.000 cm³. s = ³√27.000 = 30 cm (karena 30³ = 27.000).
 - **C** — Salah. 3 = ³√27 (lupa konversi ke cm³).
 - **D** — Salah. 27 = isi liter, bukan rusuk.
+- **Konsep kunci:** Mencari rusuk kubus dari volume (akar pangkat tiga).
+- **Langkah Penyelesaian:**
+  1. Ubah 27 L menjadi cm³: 27 × 1.000 = 27.000 cm³.
+  2. Cari akar pangkat tiga: s = ³√27.000 = 30 cm.
 
 ---
 
@@ -735,6 +907,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 100 = 1/2 × 200.
 - **C** — Benar. 4/5 × 200 = 160 L.
 - **D** — Salah. 250 = melebihi kapasitas (tidak masuk akal).
+- **Konsep kunci:** Kapasitas terisi sebagian, dihitung dari pecahan kapasitas total.
+- **Langkah Penyelesaian:**
+  1. Kalikan pecahan bagian terisi dengan kapasitas total.
+  2. ⅘ × 200 = 160 L.
 
 ---
 
@@ -749,6 +925,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 9,5 = 5 + 3 + 1,5 (penjumlahan, bukan perkalian).
 - **C** — Salah. 15 = 5 × 3 (lupa tinggi).
 - **D** — Salah. 7,5 = 5 × 1,5 (lupa lebar).
+- **Konsep kunci:** Volume balok (kolam) dengan rumus V = p × l × t.
+- **Langkah Penyelesaian:**
+  1. Kalikan panjang, lebar, dan tinggi.
+  2. Hitung: 5 × 3 × 1,5 = 22,5 m³.
 
 ---
 
@@ -763,6 +943,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 225 = bagi 100.
 - **C** — Benar. 22,5 m³ × 1.000 = 22.500 L.
 - **D** — Salah. 225.000 = kali 10.000 (kelebihan satu tingkat).
+- **Konsep kunci:** Konversi volume m³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Ambil hasil V = 22,5 m³ dari soal sebelumnya.
+  2. Kalikan dengan 1.000: 22,5 × 1.000 = 22.500 L.
 
 ---
 
@@ -777,6 +961,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 45 = salah konversi.
 - **C** — Benar. 4,5 L = 4.500 mL. 4.500 / 250 = 18 gelas.
 - **D** — Salah. 4 = pakai 4,5 L / 1 L (salah pembagi).
+- **Konsep kunci:** Pembagian volume ke wadah kecil dengan satuan berbeda.
+- **Langkah Penyelesaian:**
+  1. Ubah 4,5 L menjadi mL: 4,5 × 1.000 = 4.500 mL.
+  2. Bagi dengan kapasitas gelas: 4.500 ÷ 250 = 18 gelas.
 
 ---
 
@@ -791,6 +979,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Salah. 60 = asal hitung.
 - **C** — Salah. 50 = setengah dari 100 (asal).
 - **D** — Benar. 0,5 m³/jam = 500 L/jam = 500/60 ≈ 8,33 L/menit.
+- **Konsep kunci:** Konversi debit antar satuan (m³/jam ke L/menit).
+- **Langkah Penyelesaian:**
+  1. Ubah m³/jam ke L/jam: 0,5 × 1.000 = 500 L/jam.
+  2. Ubah ke L/menit: 500 ÷ 60 ≈ 8,33 L/menit.
 
 ---
 
@@ -805,6 +997,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. V = π r² t = 3,14 × 16 × 20 = 1.004,8 cm³ = 1.004,8 mL.
 - **C** — Salah. 10.048 = kali 10, salah.
 - **D** — Salah. 10,048 = bagi 100, salah.
+- **Konsep kunci:** Volume tabung V = π × r² × t, dikonversi langsung ke mL.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 3,14 × 4² × 20 = 3,14 × 16 × 20 = 1.004,8 cm³.
+  2. Karena 1 cm³ = 1 mL, kapasitasnya 1.004,8 mL.
 
 ---
 
@@ -819,6 +1015,10 @@ Penerapan langsung konversi volume ↔ kapasitas, hitungan kapasitas wadah balok
 - **B** — Benar. Pemakaian = 5 × 30 = 150 L. Sisa = 360 − 150 = 210 L.
 - **C** — Salah. 150 = jumlah yang dipakai, bukan sisa.
 - **D** — Salah. 35 = asal hitung.
+- **Konsep kunci:** Pengurangan volume berdasarkan pemakaian berulang.
+- **Langkah Penyelesaian:**
+  1. Hitung total pemakaian: 5 × 30 = 150 L.
+  2. Sisa = 360 − 150 = 210 L.
 
 ---
 
@@ -839,6 +1039,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. Debit netto = 5 − 3 = 2 L/menit. t = 60 / 2 = 30 menit.
 - **C** — Salah. 20 = 60/3 (pakai debit keluar saja).
 - **D** — Salah. 7,5 = 60/8 (jumlahkan debit, salah arah).
+- **Konsep kunci:** Debit netto pada pengisian dan pengurasan yang terjadi bersamaan.
+- **Langkah Penyelesaian:**
+  1. Hitung debit netto = debit masuk − debit keluar = 5 − 3 = 2 L/menit.
+  2. Hitung waktu: t = V ÷ Q netto = 60 ÷ 2 = 30 menit.
 
 ---
 
@@ -853,6 +1057,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 5 jam = 18.000 detik (salah faktor).
 - **C** — Salah. 1.000 menit = 60.000 detik (terlalu lama, debit salah).
 - **D** — Benar. V = 25 × 10 × 2 = 500 m³ = 500.000 L. t = 500.000 / 50 = 10.000 detik = 10.000/60 ≈ 166,67 menit ≈ 2 jam 46 menit 40 detik.
+- **Konsep kunci:** Volume balok besar dikonversi ke liter, lalu dibagi debit untuk mencari waktu.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 25 × 10 × 2 = 500 m³ = 500.000 L.
+  2. Bagi dengan debit: t = 500.000 ÷ 50 = 10.000 detik.
+  3. Ubah ke menit: 10.000 ÷ 60 ≈ 166,67 menit ≈ 2 jam 46 menit.
 
 ---
 
@@ -867,6 +1076,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 70,8% = pembulatan 1 desimal (kurang akurat dibanding C).
 - **C** — Benar. Awal = 0,75 × 1.200 = 900 L. Akhir = 900 − 200 + 150 = 850 L. 850/1.200 ≈ 0,7083 = 70,83%.
 - **D** — Salah. 68,75% = 825/1.200 (asal hitung sisa).
+- **Konsep kunci:** Persentase kapasitas setelah ada pengurangan dan penambahan volume.
+- **Langkah Penyelesaian:**
+  1. Hitung isi awal: 0,75 × 1.200 = 900 L.
+  2. Kurangi dan tambah: 900 − 200 + 150 = 850 L.
+  3. Ubah ke persen: 850 ÷ 1.200 × 100% ≈ 70,83%.
 
 ---
 
@@ -881,6 +1095,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 5 = jumlah botol, bukan isi per botol.
 - **C** — Benar. Total = 12 + 8 = 20 L. Per botol = 20 / 5 = 4 L.
 - **D** — Salah. 1,6 = 8/5 (pakai 1 ember saja).
+- **Konsep kunci:** Penjumlahan volume dari beberapa wadah, lalu dibagi rata.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kedua ember: 12 + 8 = 20 L.
+  2. Bagi rata ke 5 botol: 20 ÷ 5 = 4 L.
 
 ---
 
@@ -895,6 +1113,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 100 = 10 menit saja.
 - **C** — Salah. 50 = 5 menit.
 - **D** — Benar. Selisih = 15 menit. V = 10 × 15 = 150 L.
+- **Konsep kunci:** Debit dikalikan selisih waktu (dari jam awal ke jam akhir).
+- **Langkah Penyelesaian:**
+  1. Hitung selisih waktu pukul 07.00 ke 07.15 = 15 menit.
+  2. Hitung V = Q × t = 10 × 15 = 150 L.
 
 ---
 
@@ -909,6 +1131,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. 08.00–08.10: A saja → 8 × 10 = 80 L. 08.10–08.20: A + B = 14 L/menit × 10 = 140 L. Total = 80 + 140 = 220 L.
 - **C** — Salah. 140 = bagian kedua saja.
 - **D** — Salah. 280 = (8+6) × 20 (pakai 20 menit dengan kedua keran).
+- **Konsep kunci:** Debit bertahap (berubah di tengah proses) dijumlahkan per fase.
+- **Langkah Penyelesaian:**
+  1. Fase 1 (08.00–08.10): hanya keran A → 8 × 10 = 80 L.
+  2. Fase 2 (08.10–08.20): A + B = 14 L/menit × 10 = 140 L.
+  3. Total = 80 + 140 = 220 L.
 
 ---
 
@@ -923,6 +1150,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 50 = asal hitung.
 - **C** — Benar. t = 200 / 5 = 40 menit.
 - **D** — Salah. 1 jam = 60 menit (sama dengan A, salah karena pakai 300).
+- **Konsep kunci:** Waktu pengurasan dihitung dari volume yang benar-benar terisi, bukan kapasitas maksimum.
+- **Langkah Penyelesaian:**
+  1. Gunakan volume air yang ada sekarang (200 L), bukan kapasitas bak (300 L).
+  2. Hitung t = 200 ÷ 5 = 40 menit.
 
 ---
 
@@ -937,6 +1168,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 8,316 = bagi 10, salah faktor.
 - **C** — Salah. 831,6 = kali 10, salah.
 - **D** — Salah. 8.316 = kali 100, salah.
+- **Konsep kunci:** Volume tabung dengan rumus V = π × r² × t, dikonversi ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 22/7 × 21² × 60 = 22/7 × 441 × 60 = 83.160 cm³.
+  2. Ubah ke liter: 83.160 ÷ 1.000 = 83,16 L.
 
 ---
 
@@ -951,6 +1186,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. Total kapasitas = 10+8+15 = 33 L. Total isi = 25 L. Sisa = 33 − 25 = 8 L.
 - **C** — Salah. 33 = total kapasitas, bukan sisa.
 - **D** — Salah. 5 = sisa pada B saja (8−3).
+- **Konsep kunci:** Sisa ruang kosong dari beberapa wadah (total kapasitas dikurangi total isi).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan semua kapasitas: 10 + 8 + 15 = 33 L.
+  2. Jumlahkan semua isi: 8 + 5 + 12 = 25 L.
+  3. Sisa = 33 − 25 = 8 L.
 
 ---
 
@@ -965,6 +1205,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 25 = pemakaian saja.
 - **C** — Benar. Diisi = 4 × 15 = 60 L. Dipakai 25 L. Sisa = 60 − 25 = 35 L.
 - **D** — Salah. 85 = 60 + 25 (asal jumlah).
+- **Konsep kunci:** Kombinasi pengisian (debit × waktu) dan pengurangan pemakaian.
+- **Langkah Penyelesaian:**
+  1. Hitung hasil pengisian: 4 × 15 = 60 L.
+  2. Kurangi pemakaian: 60 − 25 = 35 L.
 
 ---
 
@@ -979,6 +1223,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 4 = 120/30 (salah dosis).
 - **C** — Salah. 16 = 120/7,5 (lupa kali 3 dosis).
 - **D** — Salah. 8 = 120/15 (salah dosis harian).
+- **Konsep kunci:** Pembagian kapasitas dengan pemakaian harian (dosis dikali frekuensi).
+- **Langkah Penyelesaian:**
+  1. Hitung pemakaian per hari: 3 × 7,5 = 22,5 mL.
+  2. Bagi kapasitas botol dengan pemakaian harian: 120 ÷ 22,5 ≈ 5,33 hari.
 
 ---
 
@@ -993,6 +1241,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. V = 100 × 80 × 50 = 400.000 cm³ = 400 L.
 - **C** — Salah. 4.000 = lupa bagi 1.000.
 - **D** — Salah. 40 = bagi 10.000.
+- **Konsep kunci:** Volume balok dengan satuan panjang campuran (m dan cm), dikonversi ke liter.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan dulu: 1 m = 100 cm.
+  2. Hitung V = 100 × 80 × 50 = 400.000 cm³ = 400 L.
 
 ---
 
@@ -1007,6 +1259,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 300 = bagi 10.
 - **C** — Salah. 30.000 = kali 10.
 - **D** — Benar. V = 2 × 1 × 1,5 = 3 m³ = 3.000 L.
+- **Konsep kunci:** Volume balok dalam satuan meter, dikonversi ke liter.
+- **Langkah Penyelesaian:**
+  1. Hitung V = 2 × 1 × 1,5 = 3 m³.
+  2. Ubah ke liter: 3 × 1.000 = 3.000 L.
 
 ---
 
@@ -1021,6 +1277,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 1.250 = salah hitung.
 - **C** — Salah. 1.750 = pakai 50 menit.
 - **D** — Salah. 2.500 = pakai 20 menit.
+- **Konsep kunci:** Pengurangan volume setelah air dialirkan (debit × waktu).
+- **Langkah Penyelesaian:**
+  1. Hitung air yang mengalir: 25 × 60 = 1.500 L.
+  2. Sisa = 3.000 − 1.500 = 1.500 L.
 
 ---
 
@@ -1035,6 +1295,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 50 = asal hitung.
 - **C** — Benar. V = 8 m³ = 8.000 L. Debit total = 100 + 150 = 250 L/menit. t = 8.000 / 250 = 32 menit.
 - **D** — Salah. 20 = pakai debit 400 L/menit (asal).
+- **Konsep kunci:** Debit gabungan dua selang, dengan konversi satuan m³ ke liter.
+- **Langkah Penyelesaian:**
+  1. Ubah kapasitas ke liter: 8 m³ = 8.000 L.
+  2. Jumlahkan debit: 100 + 150 = 250 L/menit.
+  3. Hitung t = 8.000 ÷ 250 = 32 menit.
 
 ---
 
@@ -1049,6 +1314,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 15 = awal saja, lupa tambah 3 L.
 - **C** — Salah. 21 = ⅞ × 24 (salah pecahan).
 - **D** — Salah. 12 = ½ × 24.
+- **Konsep kunci:** Kapasitas terisi sebagian, ditambah volume susulan.
+- **Langkah Penyelesaian:**
+  1. Hitung isi awal: ⅝ × 24 = 15 L.
+  2. Tambahkan 3 L: 15 + 3 = 18 L.
 
 ---
 
@@ -1063,6 +1332,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. A: 0,8 × 100 = 80 L. B: 0,4 × 150 = 60 L. Total = 80 + 60 = 140 L.
 - **C** — Salah. 200 = salah hitung.
 - **D** — Salah. 250 = total kapasitas (100+150), bukan air.
+- **Konsep kunci:** Persentase kapasitas dari dua wadah berbeda, lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung isi bak A: 0,8 × 100 = 80 L.
+  2. Hitung isi bak B: 0,4 × 150 = 60 L.
+  3. Jumlahkan: 80 + 60 = 140 L.
 
 ---
 
@@ -1077,6 +1351,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 200 = asal hitung.
 - **C** — Benar. t = 270 / 0,75 = 360 detik (= 6 menit).
 - **D** — Salah. 300 = pakai debit 0,9 L/detik.
+- **Konsep kunci:** Mencari waktu dari debit dan volume (t = V ÷ Q) dengan debit berbentuk desimal.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus t = V ÷ Q.
+  2. Hitung t = 270 ÷ 0,75 = 360 detik.
 
 ---
 
@@ -1091,6 +1369,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 100 = 500/5 (salah pembagi).
 - **C** — Salah. 250 = 500/2 (salah pembagi).
 - **D** — Benar. 500 / 4 = 125 L per ember.
+- **Konsep kunci:** Pembagian volume rata ke beberapa wadah sama besar.
+- **Langkah Penyelesaian:**
+  1. Bagi kapasitas total dengan banyak ember.
+  2. Hitung: 500 ÷ 4 = 125 L.
 
 ---
 
@@ -1105,6 +1387,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. r = 4. V = π r² t = 3,14 × 16 × 25 = 1.256 cm³ = 1.256 mL.
 - **C** — Salah. 502,4 = salah hitung.
 - **D** — Salah. 314 = π × 100 (asal).
+- **Konsep kunci:** Volume tabung dicari dari diameter (jari-jari harus dicari lebih dulu).
+- **Langkah Penyelesaian:**
+  1. Cari jari-jari: r = diameter ÷ 2 = 4 cm.
+  2. Hitung V = 3,14 × 16 × 25 = 1.256 cm³ = 1.256 mL.
 
 ---
 
@@ -1119,6 +1405,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. Hari ke-8 masih sisa 100 L.
 - **C** — Salah. Hari ke-10 sudah lewat masa habis.
 - **D** — Salah. Hari ke-7 sisa 275 L.
+- **Konsep kunci:** Pembagian kapasitas dengan pemakaian harian, dengan sisa yang tidak cukup untuk satu hari penuh.
+- **Langkah Penyelesaian:**
+  1. Bagi kapasitas dengan pemakaian per hari: 1.500 ÷ 175 ≈ 8,57.
+  2. Cek sisa setelah 8 hari: 1.500 − 8 × 175 = 100 L.
+  3. Karena sisa 100 L tidak cukup untuk pemakaian hari ke-9, tangki habis di hari ke-9.
 
 ---
 
@@ -1133,6 +1424,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 12 = jumlah yang ditambahkan, lupa C awal.
 - **C** — Salah. 14 = 18 − 4 (asal hitung).
 - **D** — Salah. 18 = kapasitas A awal, lupa pengurangan.
+- **Konsep kunci:** Pemindahan air antarwadah (pengurangan lalu penjumlahan berurutan).
+- **Langkah Penyelesaian:**
+  1. Hitung sisa di ember A setelah dituang ke B: 18 − 6 = 12 L.
+  2. Tambahkan ke isi awal ember C: 4 + 12 = 16 L.
 
 ---
 
@@ -1147,6 +1442,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 120 = bagi 1.000 (tidak perlu bagi karena dm³ = L).
 - **C** — Benar. V = 60 × 40 × 50 = 120.000 dm³ = 120.000 L (1 dm³ = 1 L).
 - **D** — Salah. 12 = bagi 10.000, salah.
+- **Konsep kunci:** Volume balok dalam satuan dm³, yang langsung setara dengan liter.
+- **Langkah Penyelesaian:**
+  1. Ingat 1 dm³ = 1 L, jadi tidak perlu dikonversi lagi.
+  2. Hitung V = 60 × 40 × 50 = 120.000 dm³ = 120.000 L.
 
 ---
 
@@ -1161,6 +1460,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. A = 0,8 m³ = 800 L. Selisih = 800 − 450 = 350 L.
 - **C** — Salah. 1.250 = jumlah, bukan selisih.
 - **D** — Salah. 50 = salah hitung.
+- **Konsep kunci:** Selisih dua kapasitas dengan satuan berbeda (disamakan lebih dulu).
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 0,8 m³ = 800 L.
+  2. Hitung selisih: 800 − 450 = 350 L.
 
 ---
 
@@ -1175,6 +1478,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 720 = 12 × 60 (lupa tambahan 15 menit).
 - **C** — Benar. Waktu = 60 + 15 = 75 menit. V = 12 × 75 = 900 L.
 - **D** — Salah. 75 = waktu (menit), bukan volume.
+- **Konsep kunci:** Debit dikalikan waktu gabungan (jam dan menit dijumlahkan dulu).
+- **Langkah Penyelesaian:**
+  1. Ubah waktu total ke menit: 1 jam 15 menit = 75 menit.
+  2. Hitung V = Q × t = 12 × 75 = 900 L.
 
 ---
 
@@ -1189,6 +1496,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 75 = pembulatan ke atas (sisa 2 cm³ tidak cukup mengisi cetakan ke-75).
 - **C** — Salah. 25 = asal hitung.
 - **D** — Salah. 50 = salah pembagi.
+- **Konsep kunci:** Pembagian volume besar dengan volume satu cetakan, sisa dibulatkan ke bawah.
+- **Langkah Penyelesaian:**
+  1. Hitung volume satu cetakan: 3³ = 27 cm³.
+  2. Ubah 2 L ke cm³: 2.000 cm³.
+  3. Bagi: 2.000 ÷ 27 ≈ 74,07 → dibulatkan ke bawah menjadi 74 buah.
 
 ---
 
@@ -1203,6 +1515,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Benar. Waktu = 12 jam. Hilang = 2 × 12 = 24 L. Sisa = 240 − 24 = 216 L.
 - **C** — Salah. 220 = hilang 20 L (pakai 10 jam).
 - **D** — Salah. 240 = lupa kurangi.
+- **Konsep kunci:** Pengurangan volume akibat kebocoran dalam rentang waktu tertentu.
+- **Langkah Penyelesaian:**
+  1. Hitung selisih waktu pukul 06.00 ke 18.00 = 12 jam.
+  2. Hitung air yang hilang: 2 × 12 = 24 L.
+  3. Sisa = 240 − 24 = 216 L.
 
 ---
 
@@ -1217,6 +1534,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 3,85 = bagi 100, salah.
 - **C** — Benar. V = 22/7 × 35² × 100 = 22/7 × 1.225 × 100 = 22 × 175 × 100 = 385.000 cm³ = 385 L.
 - **D** — Salah. 3.850 = kali 10, salah.
+- **Konsep kunci:** Volume tabung dengan rumus V = π × r² × t, dikonversi ke liter.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan jari-jari: 35² = 1.225.
+  2. Hitung V = 22/7 × 1.225 × 100 = 385.000 cm³.
+  3. Ubah ke liter: 385.000 ÷ 1.000 = 385 L.
 
 ---
 
@@ -1231,6 +1553,11 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 18 = sisa sebelum isi kedua.
 - **C** — Salah. 24 = isi kedua saja.
 - **D** — Salah. 60 = 48 + 12 (asal hitung).
+- **Konsep kunci:** Pengisian-pemakaian-pengisian berurutan (soal cerita multi-tahap).
+- **Langkah Penyelesaian:**
+  1. Isi tahap 1: 6 × 8 = 48 L.
+  2. Kurangi pemakaian: 48 − 30 = 18 L.
+  3. Isi tahap 2: 6 × 4 = 24 L, total = 18 + 24 = 42 L.
 
 ---
 
@@ -1245,6 +1572,10 @@ Soal cerita 2–3 langkah, debit campuran, kombinasi pengisian-pengurasan, perse
 - **B** — Salah. 12 = isi saat ini, bukan sisa ruang.
 - **C** — Salah. 20 = kapasitas total, lupa kurangi.
 - **D** — Benar. Sisa = 20 − 12 = 8 L.
+- **Konsep kunci:** Sisa ruang kosong pada wadah (kapasitas dikurangi isi).
+- **Langkah Penyelesaian:**
+  1. Sisa ruang = kapasitas − isi sekarang.
+  2. Hitung: 20 − 12 = 8 L.
 
 ---
 
@@ -1265,6 +1596,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. V air = 80 × 60 × 40 = 192.000 cm³ = 192 L.
 - **C** — Salah. 200 = asal hitung.
 - **D** — Salah. 160 = pakai t = 33,3 (asal).
+- **Konsep kunci:** Volume air dihitung dari ketinggian air yang sebenarnya, bukan kapasitas penuh wadah.
+- **Langkah Penyelesaian:**
+  1. Gunakan tinggi air (40 cm), bukan tinggi wadah (50 cm).
+  2. Hitung V = 80 × 60 × 40 = 192.000 cm³ = 192 L.
 
 ---
 
@@ -1279,6 +1614,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 10.00 = 60 menit (pakai debit netto 4 L/menit).
 - **C** — Salah. 09.30 = 30 menit (pakai netto 8 L/menit).
 - **D** — Salah. 10.30 = 90 menit (asal).
+- **Konsep kunci:** Debit netto untuk mencari waktu pengisian, lalu ditambahkan ke jam mulai.
+- **Langkah Penyelesaian:**
+  1. Hitung debit netto = 10 − 4 = 6 L/menit.
+  2. Hitung t = 240 ÷ 6 = 40 menit.
+  3. Tambahkan ke pukul 09.00 → 09.40.
 
 ---
 
@@ -1293,6 +1633,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. V kolam = 4 × 3 × 1 = 12 m³ = 12.000 L. Awal = 0,8 × 12.000 = 9.600 L. Hilang 4 minggu × 5% × 9.600 = 0,2 × 9.600 = 1.920 L. Sisa = 9.600 − 1.920 = 7.680 L.
 - **C** — Salah. 8.064 = pakai 1 minggu penguapan (asal).
 - **D** — Salah. 6.144 = persentase kompound (salah model).
+- **Konsep kunci:** Persentase kapasitas awal dikurangi penyusutan berulang yang dihitung dari nilai awal (bukan berbunga majemuk).
+- **Langkah Penyelesaian:**
+  1. Hitung volume awal terisi: 0,8 × 12.000 = 9.600 L.
+  2. Hitung total penguapan 4 minggu: 4 × 5% × 9.600 = 1.920 L.
+  3. Sisa = 9.600 − 1.920 = 7.680 L.
 
 ---
 
@@ -1307,6 +1652,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 1 = lupa tambahkan bocor.
 - **C** — Salah. 1,5 = kenaikan, bukan debit input.
 - **D** — Salah. 3 = asal hitung.
+- **Konsep kunci:** Debit netto sebagai selisih debit masuk dan debit yang hilang akibat bocor.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: debit masuk − kebocoran = kenaikan bersih.
+  2. Hitung: Q − 0,5 = 1,5 → Q = 2 L/menit.
 
 ---
 
@@ -1321,6 +1670,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 264 = jari-jari salah.
 - **C** — Salah. 132 = ⅓ saja.
 - **D** — Salah. 528 = pakai r = 4.
+- **Konsep kunci:** Volume tabung dicari dari diameter (jari-jari harus dicari lebih dulu).
+- **Langkah Penyelesaian:**
+  1. Cari jari-jari: r = 6 ÷ 2 = 3 cm.
+  2. Hitung V = 22/7 × 9 × 14 = 396 cm³ = 396 mL.
 
 ---
 
@@ -1335,6 +1688,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. A=120 = lupa kurangi bocor; B=80 = pakai 8×10 saja.
 - **C** — Salah. B=30 = pakai debit B netto 3 (lupa kurangi).
 - **D** — Salah. A=20 = pakai netto 2 (salah operasi).
+- **Konsep kunci:** Sistem debit netto berurutan (dua bak tersambung, keluaran satu jadi masukan lainnya).
+- **Langkah Penyelesaian:**
+  1. Hitung debit netto bak A: 12 − 8 = 4 L/menit → A(10) = 40 L.
+  2. Hitung debit netto bak B: 8 − 3 = 5 L/menit → B(10) = 50 L.
 
 ---
 
@@ -1349,6 +1706,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 10 = asal hitung.
 - **C** — Salah. 8 = pakai rusuk 5 cm (cetakan kubus).
 - **D** — Salah. 25 = 4.000/160 (asal).
+- **Konsep kunci:** Pembagian volume total dengan volume satu cetakan balok.
+- **Langkah Penyelesaian:**
+  1. Hitung volume satu cetakan: 20 × 10 × 5 = 1.000 cm³ = 1 L.
+  2. Bagi total adonan dengan volume cetakan: 4 ÷ 1 = 4 cetakan.
 
 ---
 
@@ -1363,6 +1724,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 120 = pengurasan saja.
 - **C** — Benar. Isi: 600/15 = 40 menit. Kuras: 600/5 = 120 menit. Total = 40 + 120 = 160 menit.
 - **D** — Salah. 90 = asal hitung.
+- **Konsep kunci:** Total waktu proses gabungan: waktu pengisian ditambah waktu pengurasan.
+- **Langkah Penyelesaian:**
+  1. Hitung waktu isi: 600 ÷ 15 = 40 menit.
+  2. Hitung waktu kuras: 600 ÷ 5 = 120 menit.
+  3. Total = 40 + 120 = 160 menit.
 
 ---
 
@@ -1377,6 +1743,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. V penuh = 50 × 40 × 30 = 60.000 cm³ = 60 L. V sekarang = 50 × 40 × 10 = 20.000 cm³ = 20 L. Tambah = 60 − 20 = 40 L.
 - **C** — Salah. 30 = ½ kapasitas, asal.
 - **D** — Salah. 20 = isi sekarang, bukan tambahan.
+- **Konsep kunci:** Selisih volume: menghitung tambahan air yang diperlukan agar wadah penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung kapasitas penuh: 50 × 40 × 30 = 60.000 cm³ = 60 L.
+  2. Hitung isi sekarang: 50 × 40 × 10 = 20.000 cm³ = 20 L.
+  3. Tambahan yang diperlukan = 60 − 20 = 40 L.
 
 ---
 
@@ -1391,6 +1762,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. Sabtu siang = dosis ke-17.
 - **C** — Benar. Total dosis = 90/5 = 18. Senin: dosis 1–3, Selasa: 4–6, Rabu: 7–9, Kamis: 10–12, Jumat: 13–15, Sabtu: 16–18. Dosis ke-18 = Sabtu malam.
 - **D** — Salah. Minggu pagi sudah habis sebelumnya.
+- **Konsep kunci:** Pembagian kapasitas dengan dosis, lalu menentukan hari dan waktu dari urutan pemakaian.
+- **Langkah Penyelesaian:**
+  1. Hitung total dosis: 90 ÷ 5 = 18 dosis.
+  2. Bagi 3 dosis per hari: 18 ÷ 3 = 6 hari (Senin sampai Sabtu).
+  3. Dosis terakhir (ke-18) jatuh pada Sabtu malam.
 
 ---
 
@@ -1405,6 +1781,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. Debit A = K/12, debit B = K/24. Total = K/12 + K/24 = 2K/24 + K/24 = 3K/24 = K/8. Waktu = K / (K/8) = 8 menit.
 - **C** — Salah. 6 = asal hitung.
 - **D** — Salah. 36 = jumlah waktu (12+24), salah konsep.
+- **Konsep kunci:** Debit gabungan dari dua keran dengan waktu pengisian sendiri-sendiri berbeda (kecepatan kerja gabungan).
+- **Langkah Penyelesaian:**
+  1. Nyatakan debit tiap keran sebagai pecahan dari kapasitas: A = K/12, B = K/24.
+  2. Jumlahkan: K/12 + K/24 = K/8.
+  3. Waktu gabungan = K ÷ (K/8) = 8 menit.
 
 ---
 
@@ -1419,6 +1800,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 78 = bagi 10.
 - **C** — Salah. 314 = pakai rumus salah.
 - **D** — Salah. 50 = asal hitung.
+- **Konsep kunci:** Volume tabung dikonversi ke liter, lalu dibagi dengan kapasitas botol kecil.
+- **Langkah Penyelesaian:**
+  1. Hitung V tangki = 3,14 × 50² × 100 = 785.000 cm³ = 785 L.
+  2. Bagi dengan kapasitas botol: 785 ÷ 5 = 157 botol.
 
 ---
 
@@ -1433,6 +1818,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. Netto = 4 − 1 = 3 L/menit. Tambah = 3 × 25 = 75 L. Total = 600 + 75 = 675 L.
 - **C** — Salah. 650 = tambah 50 (asal).
 - **D** — Salah. 625 = tambah 25 (lupa kali debit netto).
+- **Konsep kunci:** Debit netto (masuk dikurangi bocor) dikalikan waktu, lalu ditambahkan ke volume awal.
+- **Langkah Penyelesaian:**
+  1. Hitung debit netto: 4 − 1 = 3 L/menit.
+  2. Hitung tambahan: 3 × 25 = 75 L.
+  3. Total = 600 + 75 = 675 L.
 
 ---
 
@@ -1447,6 +1837,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. V = 6 × 4 × 1,5 = 36 m³ = 36.000 L. t = 4 jam = 240 menit. Q = V/t = 36.000 / 240 = 150 L/menit.
 - **C** — Salah. 200 = salah pembagi.
 - **D** — Salah. 250 = asal hitung.
+- **Konsep kunci:** Mencari debit dari volume dan waktu (Q = V ÷ t), dengan konversi jam ke menit.
+- **Langkah Penyelesaian:**
+  1. Hitung volume kolam: 6 × 4 × 1,5 = 36 m³ = 36.000 L.
+  2. Ubah waktu ke menit: 4 jam = 240 menit.
+  3. Hitung Q = 36.000 ÷ 240 = 150 L/menit.
 
 ---
 
@@ -1461,6 +1856,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 30% = pakai kapasitas 30 L sebagai persentase langsung.
 - **C** — Benar. B sekarang = 10 L. Persen = 10/30 × 100 ≈ 33,33%.
 - **D** — Salah. 40% = pakai kapasitas A (10/25).
+- **Konsep kunci:** Persentase isi wadah dihitung setelah sebagian air dipindahkan.
+- **Langkah Penyelesaian:**
+  1. Tentukan isi ember B setelah dipindah: 10 L.
+  2. Bagi dengan kapasitas ember B: 10 ÷ 30 × 100% ≈ 33,33%.
 
 ---
 
@@ -1475,6 +1874,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 16 = 10 + 6 (penjumlahan salah konsep).
 - **C** — Salah. 8 = asal hitung.
 - **D** — Salah. 4 = 10 − 6 (salah operasi).
+- **Konsep kunci:** Kecepatan kerja gabungan (debit sebagai laju kerja, mirip soal bekerja bersama).
+- **Langkah Penyelesaian:**
+  1. Tulis persamaan laju gabungan: 1/A + 1/B = 1/6, dengan A = 10.
+  2. Hitung 1/B = 1/6 − 1/10 = 1/15.
+  3. Jadi B = 15 menit.
 
 ---
 
@@ -1489,6 +1893,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 785 = isi sekarang, bukan sisa.
 - **C** — Salah. 1.177,5 = kapasitas penuh, lupa kurangi.
 - **D** — Salah. 157 = 3,14 × 50 (asal).
+- **Konsep kunci:** Sisa ruang kosong pada tabung, dihitung dari selisih tinggi air.
+- **Langkah Penyelesaian:**
+  1. Hitung volume penuh: 3,14 × 25 × 15 = 1.177,5 cm³.
+  2. Hitung volume sekarang: 3,14 × 25 × 10 = 785 cm³.
+  3. Sisa = 1.177,5 − 785 = 392,5 mL.
 
 ---
 
@@ -1503,6 +1912,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. Tahap 1: 8 × 5 = 40 L. Sisa = 200 − 40 = 160 L. Tahap 2: 160/12 = 13⅓ menit. Total = 5 + 13⅓ ≈ 18 menit 20 detik.
 - **C** — Salah. 20 = asal hitung.
 - **D** — Salah. 25 = pakai debit 8 untuk semua (200/8).
+- **Konsep kunci:** Pengisian dua tahap dengan debit berbeda, waktunya dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung volume tahap 1: 8 × 5 = 40 L.
+  2. Hitung sisa yang perlu diisi: 200 − 40 = 160 L.
+  3. Hitung waktu tahap 2: 160 ÷ 12 ≈ 13⅓ menit, total = 5 + 13⅓ ≈ 18⅓ menit.
 
 ---
 
@@ -1517,6 +1931,10 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Benar. Kenaikan tinggi = 32 − 30 = 2 cm. V batu = p × l × Δt = 60 × 30 × 2 = 3.600 cm³.
 - **C** — Salah. 1.800 = kenaikan 1 cm (salah baca selisih).
 - **D** — Salah. 2.400 = pakai p×t (asal).
+- **Konsep kunci:** Volume benda dicari dari kenaikan permukaan air (prinsip pemindahan volume).
+- **Langkah Penyelesaian:**
+  1. Hitung kenaikan tinggi air: 32 − 30 = 2 cm.
+  2. Hitung volume batu = p × l × kenaikan tinggi = 60 × 30 × 2 = 3.600 cm³.
 
 ---
 
@@ -1531,6 +1949,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 - **B** — Salah. 30 = pengisian saja.
 - **C** — Salah. 50 = salah hitung.
 - **D** — Benar. Isi: 360 / 12 = 30 menit. Kuras: debit total = 3 × 5 = 15 L/menit, waktu = 360 / 15 = 24 menit. Total = 30 + 24 = 54 menit.
+- **Konsep kunci:** Total waktu proses gabungan: pengisian ditambah pengurasan dengan beberapa keran sekaligus.
+- **Langkah Penyelesaian:**
+  1. Hitung waktu isi: 360 ÷ 12 = 30 menit.
+  2. Hitung debit kuras total: 3 × 5 = 15 L/menit.
+  3. Hitung waktu kuras: 360 ÷ 15 = 24 menit, total = 30 + 24 = 54 menit.
 
 ---
 

@@ -737,16 +737,11 @@ Yuk mulai latihan 100 soal!
 - D. 5
 
 **Kunci: A**
-
 **Pembahasan:**
-- **A** — Wait, mari cek. T(7)−T(6) = 28−21 = 7. **BENAR.**
-- **B** — 6. Itu selisih T(6)−T(5) = 21−15 = 6, bukan jawaban di sini.
-- **C** — 8. Itu selisih T(8)−T(7) = 36−28 = 8.
-- **D** — 5. Itu selisih T(5)−T(4) = 15−10 = 5.
-
----
-
-**Catatan koreksi:** Jawaban benar adalah **A = 7** (selisih bilangan segitiga ke-n dan ke-(n−1) adalah n; untuk n=7 → 7).
+- **A benar:** Bilangan segitiga ke-6 adalah T(6) = 21 dan ke-7 adalah T(7) = 28, sehingga selisihnya T(7) − T(6) = 28 − 21 = 7. (Sesuai pola: selisih bilangan segitiga ke-n dan ke-(n−1) selalu sama dengan n.)
+- **B salah:** 6 adalah selisih T(6) − T(5) = 21 − 15, yaitu selisih untuk pasangan suku sebelumnya, bukan suku ke-7 dan ke-6.
+- **C salah:** 8 adalah selisih T(8) − T(7) = 36 − 28, yaitu selisih untuk pasangan suku sesudahnya, bukan yang ditanyakan.
+- **D salah:** 5 adalah selisih T(5) − T(4) = 15 − 10, dua pasangan suku lebih awal dari yang ditanyakan.
 
 ---
 

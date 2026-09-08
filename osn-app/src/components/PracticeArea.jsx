@@ -1,6 +1,13 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { ChevronLeft, ChevronRight, HelpCircle, CheckCircle, XCircle, Lightbulb, Compass, Volume2, VolumeX, ToggleLeft, ToggleRight, Settings, Video, BookOpen, GraduationCap, ListChecks, Keyboard, Filter } from 'lucide-react';
 import confetti from 'canvas-confetti';
+
+// Short celebratory burst — few particles, short lifetime, then force-clear the canvas
+// so it never lingers over the pembahasan text.
+function quickConfetti() {
+  confetti({ particleCount: 55, spread: 70, startVelocity: 45, ticks: 40, origin: { y: 0.6 }, colors: ['#e53935', '#3b82f6', '#10b981', '#eab308'] });
+  setTimeout(() => confetti.reset(), 850);
+}
 import { InlineMarkdown, MarkdownText } from '../utils/markdown.jsx';
 import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
@@ -13,7 +20,17 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const t = useT();
   const vpDefaults = settings?.videoProduction || {};
   const isAutoRecord = recordingMode === 'auto-record';
-  const questions = questionsData?.questions || [];
+  // ?limit=N caps the number of questions — used for quick test recordings
+  // (scripts/record-videos.mjs --limit=N lets us preview a few soal before a full batch).
+  const recordLimit = useMemo(() => {
+    if (typeof window === 'undefined') return null;
+    const n = parseInt(new URLSearchParams(window.location.search).get('limit') || '', 10);
+    return Number.isFinite(n) && n > 0 ? n : null;
+  }, []);
+
+  const questions = recordLimit
+    ? (questionsData?.questions || []).slice(0, recordLimit)
+    : (questionsData?.questions || []);
   const theory = questionsData?.theory || [];
 
   const initialIndex = Math.min(subBabProgress?.lastIndex || 0, Math.max(0, questions.length - 1));
@@ -68,6 +85,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
 
   const audioRef = useRef(null);
   const explanationScrollRef = useRef(null);
+  const questionScrollRef = useRef(null);
   const autoscrollIntervalRef = useRef(null);
   const recorderRef = useRef(null);
   const recAttemptedRef = useRef(false); // StrictMode-safe init gate
@@ -81,13 +99,31 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
 
   const currentQuestion = questions[currentIndex];
 
+  // True when driven by scripts/record-videos.mjs (Playwright sets navigator.webdriver).
+  // Playwright records the page itself, so skip getDisplayMedia entirely — no screen-share
+  // prompt, no foreground-tab requirement, and it works headless.
+  const isHeadless = useMemo(() => typeof navigator !== 'undefined' && navigator.webdriver === true, []);
+
   // ----- Auto-record start logic (extracted so retry button can call it) -----
   const startAutoRecord = useCallback(() => {
     if (!isAutoRecord || !subBabId) return;
     if (recorderRef.current) return; // already running
     setRecError(null);
-    setRecPreparing(true);
     setSessionCompleted(false);
+
+    if (isHeadless) {
+      setRecPreparing(false);
+      setTimerEnabled(true);
+      setAutoPilot(true);
+      setIsMuted(true);
+      setLayoutSplit(true);
+      setIsCleanMode(true);
+      setShowIntro(true);
+      setIntroTimeLeft(3);
+      return;
+    }
+
+    setRecPreparing(true);
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
 
     const startFn = sharedStream
@@ -172,9 +208,17 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       .catch(() => {});
   }, [subBabId, questionsData]);
 
+  // Signal completion for scripts/record-videos.mjs — it polls this flag then closes
+  // the page itself (which finalizes Playwright's own video capture of the tab).
+  useEffect(() => {
+    if (!isAutoRecord || !isHeadless || !sessionCompleted) return;
+    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => {});
+    window.__osnRecordDone = true;
+  }, [isAutoRecord, isHeadless, sessionCompleted]);
+
   // Stop recorder + auto-download when session completed
   useEffect(() => {
-    if (!isAutoRecord) return;
+    if (!isAutoRecord || isHeadless) return;
     if (!sessionCompleted) return;
     if (!recorderRef.current) return;
     const filename = `osn-${subBabId}-${(questionsData?.tier || 'campur')}.webm`;
@@ -240,17 +284,21 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       cancelAnimationFrame(autoscrollIntervalRef.current);
       autoscrollIntervalRef.current = null;
     }
-    if (timerEnabled && timerPhase === 'explanation' && explanationScrollRef.current && !showIntro) {
-      explanationScrollRef.current.scrollTop = 0;
+    const ref = timerEnabled && !showIntro
+      ? (timerPhase === 'explanation' ? explanationScrollRef : timerPhase === 'question' ? questionScrollRef : null)
+      : null;
+    if (ref && ref.current) {
+      ref.current.scrollTop = 0;
       const delay = setTimeout(() => {
-        const container = explanationScrollRef.current;
+        const container = ref.current;
         if (!container) return;
         const maxScroll = container.scrollHeight - container.clientHeight;
         if (maxScroll <= 0) return;
         const start = Date.now();
-        const duration = 14200;
+        const duration = timerPhase === 'explanation' ? 14200 : 9000;
+        const phaseNow = timerPhase;
         const step = () => {
-          if (!explanationScrollRef.current || timerPhase !== 'explanation') return;
+          if (!ref.current || timerPhase !== phaseNow) return;
           const elapsed = Date.now() - start;
           const progress = Math.min(elapsed / duration, 1);
           container.scrollTop = progress * maxScroll;
@@ -260,7 +308,6 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       }, 150);
       return () => clearTimeout(delay);
     }
-    if (explanationScrollRef.current) explanationScrollRef.current.scrollTop = 0;
   }, [timerPhase, timerEnabled, currentIndex, showPembahasan, showIntro]);
 
   const recordAnswer = useCallback((idx, optionKey, correct) => {
@@ -305,7 +352,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     if (correct) {
       setScore((p) => p + 1);
       onAddXp(10);
-      confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 }, colors: ['#e53935', '#3b82f6', '#10b981', '#eab308'] });
+      quickConfetti();
     }
     recordAnswer(currentIndex, selectedOption, correct);
     logActivity(1);
@@ -322,6 +369,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     setSelectedOption(null);
     setIsChecked(false);
     setShowPembahasan(false);
+    setTimerPhase('question');
+    setTimeLeft(10);
     onUpdateProgress?.((prev) => ({ ...prev, lastIndex: nextIdx }));
   }, [currentIndex, filteredIndices, onUpdateProgress]);
 
@@ -333,6 +382,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     setSelectedOption(null);
     setIsChecked(false);
     setShowPembahasan(false);
+    setTimerPhase('question');
+    setTimeLeft(10);
     onUpdateProgress?.((prev) => ({ ...prev, lastIndex: prevIdx }));
   }, [currentIndex, filteredIndices, onUpdateProgress]);
 
@@ -344,6 +395,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       setSelectedOption(null);
       setIsChecked(false);
       setShowPembahasan(false);
+      setTimerPhase('question');
+      setTimeLeft(10);
     }
   }, [filterMode, filteredIndices, currentIndex]);
 
@@ -361,7 +414,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
         setScore((p) => p + 1);
         onAddXp(10);
         recordAnswer(currentIndex, correctAns, true);
-        confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 }, colors: ['#e53935', '#3b82f6', '#10b981', '#eab308'] });
+        quickConfetti();
         setTimerPhase('explanation');
         setTimeLeft(15);
       } else {
@@ -593,22 +646,24 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             <div className="text-[10px] opacity-80">{(savedToast.size / (1024*1024)).toFixed(1)} MB · Buka folder Downloads browser-mu</div>
           </div>
         )}
-        <div className="w-full h-full grid grid-cols-1 lg:grid-cols-12 gap-0 overflow-hidden">
-          <div className={`h-full flex flex-col justify-center p-8 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-6' : 'lg:col-span-12 max-w-4xl mx-auto'}`}>
-            <div className="glass-card rounded-3xl p-8 space-y-6 shadow-2xl relative max-w-2xl w-full mx-auto animate-scale-in">
+        <div className="w-full h-full grid grid-cols-1 lg:grid-cols-10 gap-0 overflow-hidden">
+          <div ref={questionScrollRef} className={`h-full flex flex-col justify-center p-6 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-3 min-w-0' : 'lg:col-span-10 max-w-7xl mx-auto'}`}>
+            <div className={`glass-card rounded-3xl shadow-2xl relative max-w-7xl w-full mx-auto animate-scale-in ${isSplitActive ? 'p-4 space-y-3' : 'p-9 space-y-5'}`}>
               {timerEnabled && (
-                <div className="space-y-1.5 pt-1">
-                  <div className="flex justify-between items-center text-xs font-bold text-gray-500">
-                    <span className="flex items-center gap-1.5">
-                      <span className={`h-2.5 w-2.5 rounded-full animate-ping ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
+                <div className="space-y-2 pt-1">
+                  <div className={`flex justify-between items-center font-bold text-gray-500 ${isSplitActive ? 'text-xs' : 'text-xl'}`}>
+                    <span className={`flex items-center ${isSplitActive ? 'gap-1.5' : 'gap-2.5'}`}>
+                      <span className={`rounded-full animate-ping ${isSplitActive ? 'h-2.5 w-2.5' : 'h-4 w-4'} ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
                       {timerPhase === 'question' ? t('waktu_menjawab', 'Waktu Menjawab...') : t('durasi_pembahasan', 'Durasi Pembahasan...')}
                     </span>
-                    <span className={`text-base font-black ${
+                    <span className={`font-black tracking-tight ${
+                      isSplitActive ? 'text-lg' : 'text-3xl'
+                    } ${
                       timerPhase === 'question' && timeLeft <= 3 ? 'text-red-500 animate-bounce' :
                       timerPhase === 'explanation' ? 'text-brand-accent' : 'text-gray-800'
                     }`}>{timeLeft} {t('detik', 'Detik')}</span>
                   </div>
-                  <div className="w-full bg-gray-200/50 h-2 rounded-full overflow-hidden">
+                  <div className={`w-full bg-gray-200/50 rounded-full overflow-hidden ${isSplitActive ? 'h-2' : 'h-3.5'}`}>
                     <div
                       className={`h-full transition-all duration-1000 ${
                         timerPhase === 'question'
@@ -620,82 +675,98 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   </div>
                 </div>
               )}
-              <div className="space-y-3">
-                <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-850">
+              <div className={`flex items-center justify-between font-bold text-gray-500 pt-1 ${isSplitActive ? 'text-[11px]' : 'text-xl'}`}>
+                <span className={`flex items-center uppercase tracking-wider ${isSplitActive ? 'gap-1' : 'gap-2.5'}`}>
+                  <BookOpen className={`text-brand-primary ${isSplitActive ? 'w-3.5 h-3.5' : 'w-7 h-7'}`} />
+                  {t('soal_n', 'Soal ${n}').replace('${n}', currentQuestion.number)}
+                </span>
+                <span className={`rounded-full uppercase tracking-wider font-black ${
+                  isSplitActive ? 'px-2 py-0.5 text-[9px]' : 'px-4 py-1.5 text-base'
+                } ${
+                  currentQuestion.level === 'Kab' ? 'bg-emerald-500/10 text-emerald-700' :
+                  currentQuestion.level === 'Prov' ? 'bg-blue-500/10 text-blue-700' : 'bg-purple-500/10 text-purple-700'
+                }`}>
+                  {currentQuestion.level === 'Kab' ? t('kabupaten', 'Kabupaten') : currentQuestion.level === 'Prov' ? t('provinsi', 'Provinsi') : t('nasional', 'Nasional')}
+                </span>
+              </div>
+              <div className={isSplitActive ? 'mb-4' : 'mb-12'}>
+                <h2 className={`font-extrabold font-heading leading-snug text-gray-850 min-w-0 ${isSplitActive ? 'text-base leading-normal' : 'text-[43px]'}`}>
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
-              <div className="grid grid-cols-1 gap-3">
+              <div className={`grid grid-cols-2 ${isSplitActive ? 'gap-1.5' : 'gap-8'}`}>
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
                   if (!value) return null;
                   let optionBg = 'bg-white/50 border-gray-200 hover:bg-white hover:border-gray-300';
                   let icon = null;
                   if (isChecked) {
-                    if (isCorrectOption(key)) { optionBg = 'bg-emerald-50 border-emerald-300 ring-2 ring-emerald-500/20 text-emerald-800'; icon = <CheckCircle className="w-5 h-5 text-emerald-500 shrink-0" />; }
-                    else if (isSelectedOption(key)) { optionBg = 'bg-red-50 border-red-300 ring-2 ring-red-500/20 text-red-800'; icon = <XCircle className="w-5 h-5 text-red-500 shrink-0" />; }
+                    if (isCorrectOption(key)) { optionBg = 'bg-emerald-50 border-emerald-300 ring-2 ring-emerald-500/20 text-emerald-800'; icon = <CheckCircle className={`text-emerald-500 shrink-0 ${isSplitActive ? 'w-4 h-4' : 'w-9 h-9'}`} />; }
+                    else if (isSelectedOption(key)) { optionBg = 'bg-red-50 border-red-300 ring-2 ring-red-500/20 text-red-800'; icon = <XCircle className={`text-red-500 shrink-0 ${isSplitActive ? 'w-4 h-4' : 'w-9 h-9'}`} />; }
                     else optionBg = 'bg-gray-50/50 border-gray-100 opacity-60';
                   } else if (isSelectedOption(key)) {
                     optionBg = 'bg-red-50/60 border-brand-primary ring-2 ring-red-500/10 text-brand-primary font-semibold';
                   }
                   return (
-                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm ${optionBg}`}>
-                      <div className="flex items-center gap-3">
-                        <span className={`w-8 h-8 rounded-xl flex items-center justify-center font-bold text-xs shrink-0 ${
+                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left rounded-2xl border-2 transition-all font-medium ${isSplitActive ? 'p-2 text-base' : 'p-6 text-5xl'} ${optionBg}`}>
+                      <div className={`flex items-center ${isSplitActive ? 'gap-1.5 min-w-0' : 'gap-4'}`}>
+                        <span className={`rounded-2xl flex items-center justify-center font-black shrink-0 ${
+                          isSplitActive ? 'w-8 h-8 text-base' : 'w-16 h-16 text-3xl'
+                        } ${
                           isSelectedOption(key) && !isChecked ? 'bg-brand-primary text-white' :
                           isChecked && isCorrectOption(key) ? 'bg-emerald-500 text-white' :
                           isChecked && isSelectedOption(key) ? 'bg-red-500 text-white' : 'bg-gray-100 text-gray-500'
                         }`}>{key}</span>
-                        <span className="leading-relaxed"><InlineMarkdown text={value} /></span>
+                        <span className="leading-relaxed break-words"><InlineMarkdown text={value} /></span>
                       </div>
                       {icon}
                     </button>
                   );
                 })}
               </div>
-              <div className="flex items-center justify-between border-t border-gray-100 pt-6">
-                <div className="flex items-center gap-2">
-                  <button onClick={handlePrevQuestion} disabled={positionInFilter <= 0} className="p-3 border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition">
-                    <ChevronLeft className="w-5 h-5 text-gray-600" />
+              <div className={`flex items-center justify-between border-t border-gray-100 ${isSplitActive ? 'pt-2' : 'pt-7'}`}>
+                <div className={`flex items-center ${isSplitActive ? 'gap-1' : 'gap-2'}`}>
+                  <button onClick={handlePrevQuestion} disabled={positionInFilter <= 0} className={`border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition ${isSplitActive ? 'p-1' : 'p-3'}`}>
+                    <ChevronLeft className={`text-gray-600 ${isSplitActive ? 'w-4 h-4' : 'w-7 h-7'}`} />
                   </button>
-                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className="p-3 border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition">
-                    <ChevronRight className="w-5 h-5 text-gray-600" />
+                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className={`border border-gray-200 hover:bg-gray-50 disabled:opacity-40 rounded-2xl transition ${isSplitActive ? 'p-1' : 'p-3'}`}>
+                    <ChevronRight className={`text-gray-600 ${isSplitActive ? 'w-4 h-4' : 'w-7 h-7'}`} />
                   </button>
                 </div>
                 {!isChecked ? (
-                  <button onClick={handleCheckAnswer} disabled={!selectedOption} className="bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-red-500/10 text-sm">
+                  <button onClick={handleCheckAnswer} disabled={!selectedOption} className={`bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold rounded-2xl transition shadow-lg shadow-red-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-xs' : 'px-10 py-4 text-xl'}`}>
                     {t('cek_jawaban', 'Cek Jawaban')}
                   </button>
                 ) : (
-                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className="bg-brand-accent hover:bg-blue-600 text-white font-bold px-8 py-3 rounded-2xl transition shadow-lg shadow-blue-500/10 text-sm flex items-center gap-1">
-                    {t('soal_selanjutnya', 'Soal Selanjutnya')} <ChevronRight className="w-4 h-4" />
+                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className={`bg-brand-accent hover:bg-blue-600 text-white font-bold rounded-2xl transition shadow-lg shadow-blue-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-xs' : 'px-10 py-4 text-xl'}`}>
+                    {t('soal_selanjutnya', 'Soal Selanjutnya')} <ChevronRight className={isSplitActive ? 'w-4 h-4' : 'w-7 h-7'} />
                   </button>
                 )}
               </div>
             </div>
           </div>
           {isSplitActive && (
-            <div ref={explanationScrollRef} className="lg:col-span-6 h-full bg-slate-900 text-slate-100 border-l border-slate-800 px-10 pb-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
+            <div ref={explanationScrollRef} className="lg:col-span-7 min-w-0 h-full bg-slate-900 text-slate-100 border-l border-slate-800 px-10 pb-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
               <div className="sticky top-0 pt-10 bg-slate-900 z-10 flex items-center gap-3 border-b border-slate-800 pb-3">
-                <div className="p-2 bg-red-950 border border-red-800/35 rounded-xl text-red-400"><Lightbulb className="w-5 h-5" /></div>
+                <div className="p-2 bg-red-950 border border-red-800/35 rounded-xl text-red-400"><Lightbulb className="w-7 h-7" /></div>
                 <div>
-                  <h3 className="text-lg font-bold font-heading text-white">{t('pembahasan_komprehensif', 'Pembahasan Komprehensif')}</h3>
-                  <p className="text-xs text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
+                  <h3 className="text-[36px] font-bold font-heading text-white">{t('pembahasan_komprehensif', 'Pembahasan Komprehensif')}</h3>
+                  <p className="text-[21.6px] text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
                 </div>
               </div>
               {currentQuestion.concept && (
                 <div className="bg-slate-800/80 rounded-2xl p-4 border border-slate-700/50 shadow-md">
-                  <span className="text-xs font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
-                  <p className="text-sm font-semibold text-slate-200 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} dark /></p>
+                  <span className="text-[21.6px] font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
+                  <p className="text-[28.8px] font-semibold text-slate-200 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} dark /></p>
                 </div>
               )}
               <div className="space-y-2.5">
-                <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">{t('bongkar_pilihan', 'Bongkar Semua Pilihan (Penting!)')}</span>
+                <span className="text-[21.6px] font-bold text-slate-500 uppercase tracking-wider block">{t('bongkar_pilihan', 'Bongkar Semua Pilihan (Penting!)')}</span>
                 <div className="grid grid-cols-1 gap-2.5">
                   {Object.entries(currentQuestion.analysis).map(([key, val]) => {
                     if (!val) return null;
                     const isCorrect = key === currentQuestion.answerKey;
                     return (
-                      <div key={key} className={`p-3.5 rounded-xl text-xs leading-relaxed border ${isCorrect ? 'bg-emerald-950/40 border-emerald-900/60 text-emerald-200' : 'bg-slate-800/40 border-slate-800/60 text-slate-300'}`}>
+                      <div key={key} className={`p-4 rounded-xl text-[28.8px] leading-relaxed border ${isCorrect ? 'bg-emerald-950/40 border-emerald-900/60 text-emerald-200' : 'bg-slate-800/40 border-slate-800/60 text-slate-300'}`}>
                         <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-400' : 'text-slate-400'}`}>{t('pilihan', 'Pilihan')} {key}:</span>
                         <InlineMarkdown text={val} dark />
                       </div>
@@ -705,11 +776,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               </div>
               {currentQuestion.steps && currentQuestion.steps.length > 0 && (
                 <div className="space-y-2.5">
-                  <span className="text-xs font-bold text-slate-500 uppercase tracking-wider block">{t('langkah_penyelesaian', 'Langkah Penyelesaian')}</span>
+                  <span className="text-[21.6px] font-bold text-slate-500 uppercase tracking-wider block">{t('langkah_penyelesaian', 'Langkah Penyelesaian')}</span>
                   <div className="space-y-2">
                     {currentQuestion.steps.map((step, idx) => (
-                      <div key={idx} className="flex gap-2.5 text-xs text-slate-300 leading-relaxed">
-                        <span className="w-5 h-5 rounded-full bg-blue-950 border border-blue-900 text-blue-400 flex items-center justify-center font-bold shrink-0">{idx + 1}</span>
+                      <div key={idx} className="flex gap-3 text-[28.8px] text-slate-300 leading-relaxed">
+                        <span className="w-11 h-11 text-[19.2px] rounded-full bg-blue-950 border border-blue-900 text-blue-400 flex items-center justify-center font-bold shrink-0">{idx + 1}</span>
                         <span className="pt-0.5"><InlineMarkdown text={step} dark /></span>
                       </div>
                     ))}
@@ -718,8 +789,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               )}
               {currentQuestion.tips && (
                 <div className="bg-yellow-950/20 rounded-2xl p-4 border border-yellow-900/35 flex items-start gap-3 shadow-md">
-                  <div className="p-1 bg-yellow-950/80 rounded-lg text-yellow-500 border border-yellow-800/30 shrink-0 mt-0.5"><Compass className="w-4 h-4" /></div>
-                  <div className="text-xs leading-relaxed text-yellow-200/90 font-medium">
+                  <div className="p-1 bg-yellow-950/80 rounded-lg text-yellow-500 border border-yellow-800/30 shrink-0 mt-0.5"><Compass className="w-6 h-6" /></div>
+                  <div className="text-[28.8px] leading-relaxed text-yellow-200/90 font-medium">
                     <span className="font-bold text-yellow-400 block mb-1">{t('tips_olimpiade', 'Tips Olimpiade 💭')}</span>
                     <MarkdownText text={currentQuestion.tips} dark />
                   </div>
@@ -888,8 +959,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           </div>
 
           {/* Question + Pembahasan */}
-          <div className={`grid grid-cols-1 ${isSplitActive ? 'lg:grid-cols-12' : ''} gap-6 transition-all duration-500 ease-out`}>
-            <div className={`glass-card rounded-3xl p-8 space-y-6 ${isSplitActive ? 'lg:col-span-6' : ''} transition-all duration-500`}>
+          <div className={`grid grid-cols-1 ${isSplitActive ? 'lg:grid-cols-10' : ''} gap-6 transition-all duration-500 ease-out`}>
+            <div className={`glass-card rounded-3xl p-8 space-y-6 ${isSplitActive ? 'lg:col-span-3' : ''} transition-all duration-500`}>
               {timerEnabled && (
                 <div className="space-y-2">
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
@@ -976,7 +1047,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
 
             {isSplitActive && (
-              <div ref={explanationScrollRef} className="lg:col-span-6 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans">
+              <div ref={explanationScrollRef} className="lg:col-span-7 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans">
                 <PembahasanContent q={currentQuestion} />
               </div>
             )}

@@ -220,12 +220,11 @@ Yuk mulai latihan 100 soal!
 - D. 87
 
 **Kunci: A**
-
 **Pembahasan:**
-- **A** — Cek: a=1, b=3. U₃₀ = 1 + (30−1)×3 = 1 + 87 = 88. ✓ **BENAR.**
-- **B** — 90. Pakai 30×3 = 90 (lupa a dan (n−1)).
-- **C** — 91. Pakai 1 + 30×3 = 91 (lupa (n−1)).
-- **D** — 87. Lupa tambah a: 29×3 = 87.
+- **A benar:** Suku pertama a=1, beda b=3. Rumus suku ke-n: Uₙ = a + (n−1)×b, sehingga U₃₀ = 1 + (30−1)×3 = 1 + 87 = 88.
+- **B salah:** 90 didapat dari 30×3 = 90, yaitu lupa menambahkan suku pertama (a) dan salah memakai n langsung, bukan (n−1).
+- **C salah:** 91 didapat dari 1 + 30×3 = 91, yaitu sudah menambahkan a tetapi lupa mengurangi n dengan 1 sebelum dikalikan beda.
+- **D salah:** 87 didapat dari 29×3 = 87, yaitu sudah benar memakai (n−1) tetapi lupa menambahkan suku pertama (a).
 
 ---
 

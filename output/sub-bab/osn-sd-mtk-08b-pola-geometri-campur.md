@@ -1197,21 +1197,6 @@ Versi final soal **58:**
 
 ---
 
-**61.** Suku ke-2 dan ke-5 berbeda 56. Jika r = 3 dan U₁ positif, maka U₁ = ....
-- A. 1
-- B. 2
-- C. 3
-- D. 7/12
-
-**Kunci: D**
-
-**Pembahasan:**
-- U₅ − U₂ = U₁ × r⁴ − U₁ × r = U₁(81 − 3) = 78 U₁ = 56 → U₁ = 56/78 = **28/39**.
-
-Hmm 28/39 tidak ada di opsi. Mari perbaiki: dengan r = 3 dan U₁ harus bilangan bulat sederhana, pilih beda yang pas. Saya akan revisi: ganti beda jadi 78 supaya U₁ = 1.
-
-Versi final soal **61:**
-
 **61.** Suku ke-2 dan ke-5 berbeda 78. Jika r = 3, maka U₁ positif adalah ....
 - A. 2
 - B. 3
@@ -1221,12 +1206,10 @@ Versi final soal **61:**
 **Kunci: D**
 
 **Pembahasan:**
-- U₅ − U₂ = U₁(r⁴ − r) = U₁(81 − 3) = 78 U₁ = 78 → U₁ = **1**.
-- Cek: 1, 3, 9, 27, 81. Beda U₅ − U₂ = 81 − 3 = 78 ✓.
-- **A. 2** → salah; tebakan.
-- **B. 3** → salah; itu rasio.
-- **C. 7** → salah; tebakan.
-- **D. 1** → BENAR.
+- **A salah:** bukan hasil dari proses hitung yang tepat — sekadar pengecoh angka kecil.
+- **B salah:** muncul jika salah rumus, memakai U₅ − U₂ = U₁ × r^(5−2) = 27U₁, sehingga 27U₁ = 78 → U₁ ≈ 2,9 dibulatkan jadi 3 — padahal rumus bedanya seharusnya U₁(r⁴ − r), bukan U₁ × r³.
+- **C salah:** bukan hasil dari proses hitung yang tepat — sekadar pengecoh angka kecil.
+- **D benar:** U₅ − U₂ = U₁(r⁴ − r) = U₁(81 − 3) = 78U₁ = 78 → U₁ = 1. Cek: 1, 3, 9, 27, 81 — beda U₅ − U₂ = 81 − 3 = 78 ✓.
 
 ---
 

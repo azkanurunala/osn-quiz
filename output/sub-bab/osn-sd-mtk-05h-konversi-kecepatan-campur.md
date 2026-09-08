@@ -102,6 +102,11 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 36 km/jam × (5/18) = 36 × 5 ÷ 18 = 180 ÷ 18 = 10 m/detik. Atau 36 ÷ 3,6 = 10.
 - **C** — 12 m/s. Mungkin 36÷3 = 12 (lupa angka 3,6, dibulatkan ke 3). Distractor pembulatan.
 - **D** — 100 m/s. Mengalikan 36 dengan faktor besar (misal ×100/36), keliru.
+- **Konsep kunci:** Angka jangkar 36 km/jam = 10 m/detik ini paling penting untuk dihafal sebagai patokan konversi kecepatan.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 36 ÷ 3,6 = 10 m/detik.
+  3. Simpan angka ini sebagai jangkar: 36 km/jam = 10 m/detik.
 
 ---
 
@@ -118,6 +123,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 2,78 km/jam. Salah arah: membagi 10÷3,6 = 2,78. Harusnya kalikan.
 - **C** — 60 km/jam. Mengalikan 10 × 6 (lupa faktor sesungguhnya 3,6).
 - **D** — 100 km/jam. Mengalikan 10 × 10, asumsi salah 1 m/s = 10 km/jam.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 10 × 3,6 = 36 km/jam.
 
 ---
 
@@ -134,6 +143,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 12 m/s. Mungkin 54÷4,5 atau salah hitung.
 - **C** — **BENAR.** 54 ÷ 3,6 = 15 m/detik. Atau 54 × 5/18 = 270/18 = 15.
 - **D** — 54 m/s. Tidak dikonversi, langsung disalin angkanya. Salah fatal.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 54 ÷ 3,6 = 15 m/detik.
 
 ---
 
@@ -150,6 +163,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 36. Salah tukar dengan angka 10 m/s = 36 km/jam.
 - **C** — 60. Mengalikan 20×3 (lupa 3,6).
 - **D** — **BENAR.** 20 × 3,6 = 72 km/jam. Atau 20 × 18/5 = 360/5 = 72.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 20 × 3,6 = 72 km/jam.
 
 ---
 
@@ -166,6 +183,10 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 18 ÷ 3,6 = 5 m/detik. Atau 18 × 5/18 = 5 langsung.
 - **C** — 3 m/s. Mungkin 18÷6.
 - **D** — 50 m/s. Tidak masuk akal (terlalu cepat); mungkin salah operasi.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 18 ÷ 3,6 = 5 m/detik.
 
 ---
 
@@ -182,6 +203,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 6,94. Salah arah, membagi 25÷3,6.
 - **C** — **BENAR.** 25 × 3,6 = 90 km/jam. Atau 25 × 18/5 = 450/5 = 90.
 - **D** — 250. Mengalikan 25×10 (asumsi 1 m/s = 10 km/jam).
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 25 × 3,6 = 90 km/jam.
 
 ---
 
@@ -198,6 +223,10 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 72 ÷ 3,6 = 20 m/detik. Atau 72 × 5/18 = 360/18 = 20.
 - **C** — 30. Asumsi salah 1 m/s = 2,4 km/jam (terbalik).
 - **D** — 7,2. Salah arah, kalikan 72/10 = 7,2.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 72 ÷ 3,6 = 20 m/detik.
 
 ---
 
@@ -214,6 +243,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 25. Itu hasil 90 km/jam, bukan 108.
 - **C** — 36. Tertukar; 36 km/jam = 10 m/s, kebalikannya.
 - **D** — **BENAR.** 108 ÷ 3,6 = 30 m/detik. Atau 108 × 5/18 = 540/18 = 30.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 108 ÷ 3,6 = 30 m/detik.
 
 ---
 
@@ -230,6 +263,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 90. Itu hasil 25 m/s.
 - **C** — **BENAR.** 15 × 3,6 = 54 km/jam.
 - **D** — 150. Mengalikan 15×10, asumsi salah.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 15 × 3,6 = 54 km/jam.
 
 ---
 
@@ -246,6 +283,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 36. Tertukar; 36 km/jam = 10 m/s.
 - **C** — 50. Mungkin salah faktor.
 - **D** — **BENAR.** 90 ÷ 3,6 = 25 m/detik. Atau 90 × 5/18 = 450/18 = 25.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 90 ÷ 3,6 = 25 m/detik.
 
 ---
 
@@ -262,6 +303,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 36. Itu untuk 10 m/s.
 - **C** — 1,39. Salah arah, 5/3,6.
 - **D** — 50. Mengalikan 5×10.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 5 × 3,6 = 18 km/jam.
 
 ---
 
@@ -278,6 +323,10 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 144 ÷ 3,6 = 40 m/detik. Atau 144 × 5/18 = 720/18 = 40.
 - **C** — 36. Tertukar.
 - **D** — 60. Mungkin 144÷2,4 (salah faktor).
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 144 ÷ 3,6 = 40 m/detik.
 
 ---
 
@@ -294,6 +343,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 50. Mungkin 12,5×4.
 - **C** — 60. Mungkin 12,5×4,8.
 - **D** — **BENAR.** 12,5 × 3,6 = 45 km/jam.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 12,5 × 3,6 = 45 km/jam.
 
 ---
 
@@ -310,6 +363,10 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 45 ÷ 3,6 = 12,5 m/detik.
 - **C** — 4,5. Salah arah, bagi 10.
 - **D** — 15. Itu untuk 54 km/jam.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 45 ÷ 3,6 = 12,5 m/detik.
 
 ---
 
@@ -326,6 +383,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 3. Mungkin 9÷3.
 - **C** — 5. Itu untuk 18 km/jam.
 - **D** — 25. Tertukar atau salah arah.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 9 ÷ 3,6 = 2,5 m/detik.
 
 ---
 
@@ -342,6 +403,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 8,33. Salah arah, 30/3,6.
 - **C** — **BENAR.** 30 × 3,6 = 108 km/jam.
 - **D** — 300. Mengalikan 30×10.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 30 × 3,6 = 108 km/jam.
 
 ---
 
@@ -358,6 +423,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 3,6. Salah, kebalikan faktor.
 - **C** — 4. Mungkin 7,2÷1,8.
 - **D** — 20. Itu untuk 72 km/jam (lupa koma).
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 7,2 ÷ 3,6 = 2 m/detik.
 
 ---
 
@@ -374,6 +443,11 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** 1 × 3,6 = 3,6 km/jam. Inilah definisi faktor konversi dasar.
 - **C** — 0,28. Salah arah, 1/3,6.
 - **D** — 10. Tertukar dengan 10 m/s = 36 km/jam.
+- **Konsep kunci:** Angka 1 m/detik = 3,6 km/jam adalah nilai dasar faktor konversi kecepatan.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 1 × 3,6 = 3,6 km/jam.
+  3. Inilah asal-usul angka 3,6 yang dipakai di semua soal konversi kecepatan.
 
 ---
 
@@ -390,6 +464,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 13,89. Salah arah.
 - **C** — **BENAR.** 50 × 3,6 = 180 km/jam.
 - **D** — 500. Mengalikan 50×10.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 50 × 3,6 = 180 km/jam.
 
 ---
 
@@ -406,6 +484,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 36. Tertukar.
 - **C** — 60. Mungkin salah faktor.
 - **D** — **BENAR.** 180 ÷ 3,6 = 50 m/detik.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 180 ÷ 3,6 = 50 m/detik.
 
 ---
 
@@ -422,6 +504,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 7,2. Mungkin 21,6÷3.
 - **C** — 5,4. Mungkin 21,6÷4.
 - **D** — 21,6. Tidak dikonversi.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 21,6 ÷ 3,6 = 6 m/detik.
 
 ---
 
@@ -442,6 +528,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 6,8. Mungkin 27÷4 (salah faktor).
 - **C** — 10. Itu untuk 36 km/jam.
 - **D** — 8,1. Salah hitung 27×0,3.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 27 ÷ 3,6 = 7,5 m/detik.
 
 ---
 
@@ -458,6 +548,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 36. Itu untuk 10 m/s.
 - **C** — 80. Mengalikan 8×10.
 - **D** — **BENAR.** 8 × 3,6 = 28,8 km/jam.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 8 × 3,6 = 28,8 km/jam.
 
 ---
 
@@ -474,6 +568,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 15. Itu untuk 54 km/jam.
 - **C** — **BENAR.** 63 ÷ 3,6 = 17,5 m/detik.
 - **D** — 18. Mungkin pembulatan kasar.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 63 ÷ 3,6 = 17,5 m/detik.
 
 ---
 
@@ -490,6 +588,10 @@ Yuk mulai latihan 100 soal!
 - **B** — 12. Mungkin 4×3.
 - **C** — 40. Mengalikan 4×10.
 - **D** — 24. Mungkin 4×6.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 4 × 3,6 = 14,4 km/jam.
 
 ---
 
@@ -514,6 +616,10 @@ Maaf, koreksi opsi:
 - **B** — 25. Itu untuk 90 km/jam.
 - **C** — 30. Itu untuk 108 km/jam.
 - **D** — **BENAR.** 126 ÷ 3,6 = 35 m/detik.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 126 ÷ 3,6 = 35 m/detik.
 
 ---
 
@@ -530,6 +636,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 14 × 3,6 = 50,4 km/jam.
 - **C** — 140. Mengalikan ×10.
 - **D** — 3,89. Salah arah, 14/3,6.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 14 × 3,6 = 50,4 km/jam.
 
 ---
 
@@ -546,6 +656,10 @@ Maaf, koreksi opsi:
 - **B** — 25. Itu untuk 90 km/jam.
 - **C** — 8,1. Salah arah, bagi 10.
 - **D** — 20. Itu untuk 72 km/jam.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 81 ÷ 3,6 = 22,5 m/detik.
 
 ---
 
@@ -562,6 +676,10 @@ Maaf, koreksi opsi:
 - **B** — 9. Mungkin 3×3 (lupa koma 3,6).
 - **C** — **BENAR.** 3 × 3,6 = 10,8 km/jam.
 - **D** — 30. Mengalikan ×10.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 3 × 3,6 = 10,8 km/jam.
 
 ---
 
@@ -578,6 +696,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 99 ÷ 3,6 = 27,5 m/detik.
 - **C** — 30. Itu untuk 108 km/jam.
 - **D** — 9,9. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 99 ÷ 3,6 = 27,5 m/detik.
 
 ---
 
@@ -594,6 +716,10 @@ Maaf, koreksi opsi:
 - **B** — 60. Mengalikan ×10.
 - **C** — **BENAR.** 6 × 3,6 = 21,6 km/jam.
 - **D** — 36. Itu untuk 10 m/s.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 6 × 3,6 = 21,6 km/jam.
 
 ---
 
@@ -610,6 +736,11 @@ Maaf, koreksi opsi:
 - **B** — 17,5. Itu m/detik, bukan m/menit.
 - **C** — 105. Salah faktor (63×1,67).
 - **D** — 6.300. Mengalikan 63×100.
+- **Konsep kunci:** Konversi km/jam ke m/menit dilakukan lewat dua tahap: ubah km ke m, lalu bagi 60 untuk jadi per menit.
+- **Langkah Penyelesaian:**
+  1. Ubah km/jam ke m/jam: 63 km/jam = 63.000 m/jam.
+  2. Ubah per jam ke per menit: bagi 60 karena 1 jam = 60 menit.
+  3. Hitung: 63.000 ÷ 60 = 1.050 m/menit.
 
 ---
 
@@ -626,6 +757,10 @@ Maaf, koreksi opsi:
 - **B** — 35. Itu untuk 126 km/jam.
 - **C** — 11,7. Salah arah, bagi 10.
 - **D** — **BENAR.** 117 ÷ 3,6 = 32,5 m/detik.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 117 ÷ 3,6 = 32,5 m/detik.
 
 ---
 
@@ -642,6 +777,10 @@ Maaf, koreksi opsi:
 - **B** — 25. Mengalikan ×10.
 - **C** — 0,69. Salah arah.
 - **D** — 10. Mungkin 2,5×4.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 2,5 × 3,6 = 9 km/jam.
 
 ---
 
@@ -658,6 +797,10 @@ Maaf, koreksi opsi:
 - **B** — 40. Itu untuk 144 km/jam.
 - **C** — **BENAR.** 162 ÷ 3,6 = 45 m/detik.
 - **D** — 16,2. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 162 ÷ 3,6 = 45 m/detik.
 
 ---
 
@@ -674,6 +817,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 7 × 3,6 = 25,2 km/jam.
 - **C** — 70. Mengalikan ×10.
 - **D** — 25. Mungkin pembulatan kasar.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 7 × 3,6 = 25,2 km/jam.
 
 ---
 
@@ -690,6 +837,10 @@ Maaf, koreksi opsi:
 - **B** — 50. Itu untuk 180 km/jam.
 - **C** — **BENAR.** 216 ÷ 3,6 = 60 m/detik.
 - **D** — 72. Salah faktor (216÷3).
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 216 ÷ 3,6 = 60 m/detik.
 
 ---
 
@@ -706,6 +857,10 @@ Maaf, koreksi opsi:
 - **B** — 33. Mungkin 11×3.
 - **C** — 110. Mengalikan ×10.
 - **D** — 36. Itu untuk 10 m/s.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 11 × 3,6 = 39,6 km/jam.
 
 ---
 
@@ -722,6 +877,10 @@ Maaf, koreksi opsi:
 - **B** — 60. Itu untuk 216 km/jam.
 - **C** — **BENAR.** 252 ÷ 3,6 = 70 m/detik.
 - **D** — 84. Mungkin 252÷3.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 252 ÷ 3,6 = 70 m/detik.
 
 ---
 
@@ -738,6 +897,10 @@ Maaf, koreksi opsi:
 - **B** — 12. Mungkin 36÷3.
 - **C** — 100. Mungkin salah operasi.
 - **D** — **BENAR.** 36 ÷ 3,6 = 10 m/detik. Hafalkan: ini jangkar utama.
+- **Konsep kunci:** Angka jangkar 36 km/jam = 10 m/detik adalah patokan utama konversi kecepatan yang wajib dihafal.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 36 ÷ 3,6 = 10 m/detik.
 
 ---
 
@@ -754,6 +917,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 13 × 3,6 = 46,8 km/jam.
 - **C** — 130. Mengalikan ×10.
 - **D** — 39. Mungkin 13×3.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 13 × 3,6 = 46,8 km/jam.
 
 ---
 
@@ -770,6 +937,10 @@ Maaf, koreksi opsi:
 - **B** — 60. Itu untuk 216 km/jam.
 - **C** — **BENAR.** 198 ÷ 3,6 = 55 m/detik.
 - **D** — 19,8. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 198 ÷ 3,6 = 55 m/detik.
 
 ---
 
@@ -786,6 +957,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 22 × 3,6 = 79,2 km/jam.
 - **C** — 220. Mengalikan ×10.
 - **D** — 66. Mungkin 22×3.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 22 × 3,6 = 79,2 km/jam.
 
 ---
 
@@ -802,6 +977,10 @@ Maaf, koreksi opsi:
 - **B** — 18. Tertukar; 18 km/jam = 5 m/s.
 - **C** — 20. Itu untuk 72 km/jam.
 - **D** — **BENAR.** 54 ÷ 3,6 = 15 m/detik.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 54 ÷ 3,6 = 15 m/detik.
 
 ---
 
@@ -818,6 +997,10 @@ Maaf, koreksi opsi:
 - **B** — 51. Mungkin 17×3.
 - **C** — 170. Mengalikan ×10.
 - **D** — 36. Itu untuk 10 m/s.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 17 × 3,6 = 61,2 km/jam.
 
 ---
 
@@ -834,6 +1017,10 @@ Maaf, koreksi opsi:
 - **B** — 70. Itu untuk 252 km/jam.
 - **C** — **BENAR.** 234 ÷ 3,6 = 65 m/detik.
 - **D** — 23,4. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 234 ÷ 3,6 = 65 m/detik.
 
 ---
 
@@ -850,6 +1037,10 @@ Maaf, koreksi opsi:
 - **B** — 36. Itu untuk 10 m/s.
 - **C** — 190. Mengalikan ×10.
 - **D** — **BENAR.** 19 × 3,6 = 68,4 km/jam.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 19 × 3,6 = 68,4 km/jam.
 
 ---
 
@@ -866,6 +1057,10 @@ Maaf, koreksi opsi:
 - **B** — 80. Mungkin pembulatan kasar.
 - **C** — 90. Itu untuk 324 km/jam.
 - **D** — 27. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 270 ÷ 3,6 = 75 m/detik.
 
 ---
 
@@ -882,6 +1077,10 @@ Maaf, koreksi opsi:
 - **B** — 48. Mungkin 16×3.
 - **C** — **BENAR.** 16 × 3,6 = 57,6 km/jam.
 - **D** — 160. Mengalikan ×10.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 16 × 3,6 = 57,6 km/jam.
 
 ---
 
@@ -898,6 +1097,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 360 ÷ 3,6 = 100 m/detik. Atau 360 × 5/18 = 1800/18 = 100.
 - **C** — 200. Mungkin salah faktor (×0,55).
 - **D** — 90. Salah hitung 360÷4.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 360 ÷ 3,6 = 100 m/detik.
 
 ---
 
@@ -916,6 +1119,11 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** Konversi B: 22 × 3,6 = 79,2 km/jam. Karena 90 > 79,2, mobil A lebih cepat.
 - **C** — Sama cepat. Tidak benar; selisih 10,8 km/jam.
 - **D** — Bisa dibandingkan setelah disamakan satuan.
+- **Konsep kunci:** Untuk membandingkan dua kecepatan, samakan dulu satuannya sebelum menyimpulkan mana yang lebih cepat.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: konversi mobil B, 22 m/detik × 3,6 = 79,2 km/jam.
+  2. Bandingkan: 90 km/jam (mobil A) vs 79,2 km/jam (mobil B).
+  3. Karena 90 > 79,2, mobil A lebih cepat.
 
 ---
 
@@ -932,6 +1140,11 @@ Maaf, koreksi opsi:
 - **B** — Tepat secara arah, tapi opsi D lebih spesifik mengungkap selisih kecil.
 - **C** — Tidak sama; selisih 1 km/jam.
 - **D** — **BENAR.** A = 18 km/jam, B = 19 km/jam. B lebih cepat tapi tipis. (Opsi B juga arah benar; D menjadi pilihan lebih lengkap secara informasi.)
+- **Konsep kunci:** Untuk membandingkan dua kecepatan, samakan dulu satuannya sebelum menyimpulkan mana yang lebih cepat.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: konversi pelari A, 5 m/detik × 3,6 = 18 km/jam.
+  2. Bandingkan: 18 km/jam (A) vs 19 km/jam (B).
+  3. Karena 19 > 18, pelari B lebih cepat, tapi selisihnya tipis (1 km/jam).
 
 *Catatan: jika ragu antara B dan D, pilih D karena memuat keterangan tambahan. Dalam OSN, opsi terperinci yang akurat menang.*
 
@@ -950,6 +1163,10 @@ Maaf, koreksi opsi:
 - **B** — 90. Mungkin pakai 22,5 (salah konversi).
 - **C** — 360. Salah satuan; 360 = 90 km/jam × 4 (campur satuan).
 - **D** — 25. Lupa kalikan waktu.
+- **Konsep kunci:** Jarak tempuh dihitung dengan rumus J = K × W, dengan satuan kecepatan dan waktu yang sudah sama.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: Jarak = Kecepatan × Waktu.
+  2. Hitung: J = 25 m/detik × 4 detik = 100 m.
 
 ---
 
@@ -966,6 +1183,10 @@ Maaf, koreksi opsi:
 - **B** — 72. Lupa kalikan; juga campur satuan.
 - **C** — **BENAR.** Konversi dulu: 72 km/jam = 20 m/s. Lalu J = 20 × 10 = 200 m.
 - **D** — 7.200. Mengalikan 72×100.
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan ke satuan yang sama dengan waktu: 72 km/jam ÷ 3,6 = 20 m/detik.
+  2. Hitung jarak: J = 20 m/detik × 10 detik = 200 m.
 
 ---
 
@@ -982,6 +1203,11 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 18 km/jam = 5 m/detik. 5 menit = 300 detik. J = 5 × 300 = 1.500 m.
 - **C** — 5.400. Salah pakai 18×300.
 - **D** — 9.000. Salah, mungkin 30×300.
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 18 km/jam ÷ 3,6 = 5 m/detik.
+  2. Konversi waktu: 5 menit = 5 × 60 = 300 detik.
+  3. Hitung jarak: J = 5 × 300 = 1.500 m.
 
 ---
 
@@ -998,6 +1224,10 @@ Maaf, koreksi opsi:
 - **B** — 25. Salah faktor.
 - **C** — **BENAR.** 20 menit = 1/3 jam. J = 90 × 1/3 = 30 km.
 - **D** — 1.800. Salah, 90×20 (lupa konversi menit ke jam).
+- **Konsep kunci:** Untuk jarak dalam satuan jam, waktu dalam menit harus diubah ke jam dulu (bagi 60).
+- **Langkah Penyelesaian:**
+  1. Ubah waktu ke jam: 20 menit = 20/60 = 1/3 jam.
+  2. Hitung jarak: J = K × W = 90 × 1/3 = 30 km.
 
 ---
 
@@ -1014,6 +1244,10 @@ Maaf, koreksi opsi:
 - **B** — 4. Lupa konversi.
 - **C** — 240. Pakai 4×60 (campur satuan).
 - **D** — 4.000. Pakai 4×1.000.
+- **Konsep kunci:** Kecepatan dalam m/detik perlu dikonversi ke km/jam dulu agar bisa langsung dipakai untuk jarak per jam.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 4 m/detik × 3,6 = 14,4 km/jam.
+  2. Karena waktunya tepat 1 jam, jarak = kecepatan itu sendiri = 14,4 km.
 
 ---
 
@@ -1030,6 +1264,11 @@ Maaf, koreksi opsi:
 - **B** — 10. Salah hitung.
 - **C** — 12. Tertukar dengan pembilang/penyebut.
 - **D** — 0,083 jam (=5 menit). Secara nilai benar tapi satuan diminta menit; opsi A lebih tepat.
+- **Konsep kunci:** Waktu tempuh dicari dengan rumus W = J ÷ K, lalu hasil dalam jam diubah ke menit bila diminta.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: Waktu = Jarak ÷ Kecepatan.
+  2. Hitung: W = 9 km ÷ 108 km/jam = 1/12 jam.
+  3. Ubah ke menit: 1/12 jam × 60 = 5 menit.
 
 ---
 
@@ -1046,6 +1285,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 144 km/jam = 40 m/s. W = 500/40 = 12,5 detik.
 - **C** — 20. Mungkin pakai K=25 m/s.
 - **D** — 5. Salah hitung.
+- **Konsep kunci:** Sebelum mencari waktu dengan W = J ÷ K, satuan kecepatan dan jarak harus disamakan dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 144 km/jam ÷ 3,6 = 40 m/detik.
+  2. Hitung waktu: W = 500 m ÷ 40 m/detik = 12,5 detik.
 
 ---
 
@@ -1062,6 +1305,10 @@ Maaf, koreksi opsi:
 - **B** — 16,2. Salah arah, 30/1,852.
 - **C** — **BENAR.** 30 × 1,852 = 55,56 km/jam.
 - **D** — 1.852. Salah, mengalikan langsung tanpa konsep.
+- **Konsep kunci:** Konversi knot ke km/jam dilakukan dengan mengalikan angka knot dengan 1,852.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: knot × 1,852 = km/jam.
+  2. Hitung: 30 × 1,852 = 55,56 km/jam.
 
 ---
 
@@ -1078,6 +1325,10 @@ Maaf, koreksi opsi:
 - **B** — 500. Tidak dikonversi.
 - **C** — 270. Salah arah, 500/1,852.
 - **D** — 1.000. Dibulatkan asal (asumsi 1 knot = 2 km/jam).
+- **Konsep kunci:** Konversi knot ke km/jam dilakukan dengan mengalikan angka knot dengan 1,852.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: knot × 1,852 = km/jam.
+  2. Hitung: 500 × 1,852 = 926 km/jam.
 
 ---
 
@@ -1094,6 +1345,10 @@ Maaf, koreksi opsi:
 - **B** — 40,4. Salah arah, 65/1,609.
 - **C** — **BENAR.** 65 × 1,609 = 104,585 ≈ 104,6 km/jam.
 - **D** — 130. Asumsi 1 mph = 2 km/jam.
+- **Konsep kunci:** Konversi mph ke km/jam dilakukan dengan mengalikan angka mph dengan 1,609.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: mph × 1,609 = km/jam.
+  2. Hitung: 65 × 1,609 = 104,585 ≈ 104,6 km/jam.
 
 ---
 
@@ -1110,6 +1365,10 @@ Maaf, koreksi opsi:
 - **B** — 515. Salah arah, 320×1,609.
 - **C** — **BENAR.** 320 ÷ 1,609 = 198,9 ≈ 199 mph.
 - **D** — 200. Pembulatan kasar; lebih akurat 199.
+- **Konsep kunci:** Konversi km/jam ke mph adalah kebalikan dari mph ke km/jam, jadi dibagi dengan 1,609.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 1,609 = mph.
+  2. Hitung: 320 ÷ 1,609 = 198,9 ≈ 199 mph.
 
 ---
 
@@ -1126,6 +1385,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 18,52 ÷ 1,852 = 10 knot.
 - **C** — 5. Salah pembulatan.
 - **D** — 34,3. Salah arah, ×1,852.
+- **Konsep kunci:** Konversi km/jam ke knot adalah kebalikan dari knot ke km/jam, jadi dibagi dengan 1,852.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 1,852 = knot.
+  2. Hitung: 18,52 ÷ 1,852 = 10 knot.
 
 ---
 
@@ -1142,6 +1405,11 @@ Maaf, koreksi opsi:
 - **B** — Salah; tidak boleh kurangi beda satuan tanpa konversi.
 - **C** — **BENAR.** Konversi: 22 m/s × 3,6 = 79,2 km/jam. Selisih 79,2 − 75 = 4,2 km/jam, mobil lebih cepat.
 - **D** — 7 km/jam motor lebih cepat. Salah; konversi keliru atau arah tertukar.
+- **Konsep kunci:** Untuk mencari selisih dua kecepatan, samakan dulu satuannya sebelum dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan mobil: 22 m/detik × 3,6 = 79,2 km/jam.
+  2. Hitung selisih: 79,2 − 75 = 4,2 km/jam.
+  3. Karena 79,2 > 75, mobil (bukan motor) yang lebih cepat.
 
 ---
 
@@ -1158,6 +1426,11 @@ Maaf, koreksi opsi:
 - **B** — 100. Salah faktor.
 - **C** — **BENAR.** 1 km/menit = 1.000 m / 60 detik = 16,67 m/detik (atau 50/3).
 - **D** — 1.000. Pakai 1 km = 1.000 m tanpa bagi waktu.
+- **Konsep kunci:** Konversi km/menit ke m/detik dilakukan lewat dua tahap: ubah km ke m, lalu bagi 60 untuk jadi per detik.
+- **Langkah Penyelesaian:**
+  1. Ubah km ke m: 1 km/menit = 1.000 m/menit.
+  2. Ubah per menit ke per detik: bagi 60 karena 1 menit = 60 detik.
+  3. Hitung: 1.000 ÷ 60 = 16,67 m/detik.
 
 ---
 
@@ -1174,6 +1447,10 @@ Maaf, koreksi opsi:
 - **B** — 60. Itu untuk 1 km/menit.
 - **C** — **BENAR.** 2 km/menit × 60 = 120 km/jam.
 - **D** — 33,3. Salah arah atau campur faktor.
+- **Konsep kunci:** Konversi km/menit ke km/jam dilakukan dengan mengalikan angkanya dengan 60 (1 jam = 60 menit).
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/menit × 60 = km/jam.
+  2. Hitung: 2 × 60 = 120 km/jam.
 
 ---
 
@@ -1190,6 +1467,11 @@ Maaf, koreksi opsi:
 - **B** — 60. Salah faktor.
 - **C** — 10. Mungkin 600/60.
 - **D** — 6. Mungkin 600/100.
+- **Konsep kunci:** Konversi m/menit ke km/jam dilakukan lewat dua tahap: ubah m ke km, lalu kalikan 60 untuk jadi per jam.
+- **Langkah Penyelesaian:**
+  1. Ubah per menit ke per jam: 600 m/menit × 60 = 36.000 m/jam.
+  2. Ubah m ke km: 36.000 m = 36 km.
+  3. Jadi kecepatannya 36 km/jam.
 
 ---
 
@@ -1206,6 +1488,11 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 90 km/jam = 25 m/s. B = 26 m/s. Selisih 1 m/s, B lebih cepat.
 - **C** — Tidak sama.
 - **D** — Selisih salah.
+- **Konsep kunci:** Untuk membandingkan dua kecepatan, samakan dulu satuannya sebelum menyimpulkan mana yang lebih cepat.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: konversi mobil A, 90 km/jam ÷ 3,6 = 25 m/detik.
+  2. Bandingkan: 25 m/detik (A) vs 26 m/detik (B).
+  3. Karena 26 > 25, mobil B lebih cepat dengan selisih 1 m/detik.
 
 ---
 
@@ -1222,6 +1509,10 @@ Maaf, koreksi opsi:
 - **B** — 222. Hampir benar tapi tidak akurat (kurang desimal).
 - **C** — **BENAR.** 800 ÷ 3,6 = 222,22 m/detik.
 - **D** — 250. Mungkin salah faktor.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 800 ÷ 3,6 = 222,22 m/detik.
 
 ---
 
@@ -1238,6 +1529,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 40 × 1,852 = 74,08 km/jam.
 - **C** — 80. Asumsi 1 knot = 2 km/jam.
 - **D** — 21,6. Salah arah.
+- **Konsep kunci:** Konversi knot ke km/jam dilakukan dengan mengalikan angka knot dengan 1,852.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: knot × 1,852 = km/jam.
+  2. Hitung: 40 × 1,852 = 74,08 km/jam.
 
 ---
 
@@ -1254,6 +1549,10 @@ Maaf, koreksi opsi:
 - **B** — 250. Tidak dikonversi.
 - **C** — 155. Salah arah.
 - **D** — 500. Asumsi 1 mph = 2 km/jam.
+- **Konsep kunci:** Konversi mph ke km/jam dilakukan dengan mengalikan angka mph dengan 1,609.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: mph × 1,609 = km/jam.
+  2. Hitung: 250 × 1,609 = 402,25 km/jam.
 
 ---
 
@@ -1270,6 +1569,11 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 15 m/s = 54 km/jam. 6 menit = 0,1 jam. J = 54 × 0,1 = 5,4 km. Atau 15 × 360 = 5.400 m = 5,4 km.
 - **C** — 0,09. Pakai 15×6 (campur).
 - **D** — 9. Salah konversi.
+- **Konsep kunci:** Untuk jarak dalam km dari kecepatan m/detik, konversi kecepatan ke km/jam dulu lalu samakan satuan waktu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 15 m/detik × 3,6 = 54 km/jam.
+  2. Ubah waktu ke jam: 6 menit = 6/60 = 0,1 jam.
+  3. Hitung jarak: J = 54 × 0,1 = 5,4 km.
 
 ---
 
@@ -1286,6 +1590,10 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** J = 4,5 × 12 = 54 m.
 - **C** — 16,2. Pakai 4,5×3,6 (salah operasi).
 - **D** — 0,54. Salah desimal.
+- **Konsep kunci:** Jarak tempuh dihitung dengan rumus J = K × W, dengan satuan kecepatan dan waktu yang sudah sama.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: Jarak = Kecepatan × Waktu.
+  2. Hitung: J = 4,5 m/detik × 12 detik = 54 m.
 
 ---
 
@@ -1302,6 +1610,11 @@ Maaf, koreksi opsi:
 - **B** — 600. Pakai K=10 m/s × 60 detik.
 - **C** — **BENAR.** 36 km/jam = 10 m/s. 1,5 menit = 90 detik. J = 10 × 90 = 900 m.
 - **D** — 1.500. Pakai 10×150 (salah konversi menit).
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 36 km/jam ÷ 3,6 = 10 m/detik.
+  2. Konversi waktu: 1,5 menit = 1,5 × 60 = 90 detik.
+  3. Hitung jarak: J = 10 × 90 = 900 m.
 
 ---
 
@@ -1318,6 +1631,11 @@ Maaf, koreksi opsi:
 - **B** — **BENAR.** 7,2 m/s = 25,92 km/jam. 15 menit = 0,25 jam. J = 25,92 × 0,25 = 6,48 km. Atau 7,2 × 900 detik = 6.480 m = 6,48 km.
 - **C** — 64,8. Salah desimal.
 - **D** — 0,108. Salah hitung.
+- **Konsep kunci:** Untuk jarak dalam km dari kecepatan m/detik, konversi kecepatan ke km/jam dulu lalu samakan satuan waktu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 7,2 m/detik × 3,6 = 25,92 km/jam.
+  2. Ubah waktu ke jam: 15 menit = 15/60 = 0,25 jam.
+  3. Hitung jarak: J = 25,92 × 0,25 = 6,48 km.
 
 ---
 
@@ -1334,6 +1652,10 @@ Maaf, koreksi opsi:
 - **B** — 80. Pembulatan kasar.
 - **C** — 90. Itu untuk 324 km/jam.
 - **D** — 27. Salah arah, bagi 10.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 270 ÷ 3,6 = 75 m/detik.
 
 ---
 
@@ -1350,6 +1672,10 @@ Maaf, koreksi opsi:
 - **B** — 70. Mengalikan ×10.
 - **C** — **BENAR.** 7 × 3,6 = 25,2 km/jam.
 - **D** — 25. Pembulatan kasar.
+- **Konsep kunci:** Konversi m/detik ke km/jam dilakukan dengan mengalikan angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: m/detik × 3,6 = km/jam.
+  2. Hitung: 7 × 3,6 = 25,2 km/jam.
 
 ---
 
@@ -1366,6 +1692,10 @@ Maaf, koreksi opsi:
 - **B** — Konversi benar tapi waktu salah (450/18).
 - **C** — Konversi salah (81÷3,24).
 - **D** — Konversi benar tapi waktu salah hitung.
+- **Konsep kunci:** Soal dua tahap: konversi kecepatan dulu ke m/detik, baru cari waktu dengan rumus W = J ÷ K.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 81 km/jam ÷ 3,6 = 22,5 m/detik.
+  2. Hitung waktu: W = 450 m ÷ 22,5 m/detik = 20 detik.
 
 ---
 
@@ -1382,6 +1712,11 @@ Maaf, koreksi opsi:
 - **B** — 72. Salah desimal.
 - **C** — 120. Salah hitung.
 - **D** — 12. Mungkin pakai 30/2,5.
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 30 m/detik × 3,6 = 108 km/jam.
+  2. Ubah waktu ke jam: 4 menit = 4/60 = 1/15 jam.
+  3. Hitung jarak: J = 108 × 1/15 = 7,2 km.
 
 ---
 
@@ -1413,6 +1748,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 60. Salah, lupa kalikan relatif.
 - **C** — 40. Mungkin salah konversi.
 - **D** — 45. Mungkin pakai relatif 108.
+- **Konsep kunci:** Pada dua benda yang bergerak saling mendekat, kecepatan relatifnya adalah jumlah kedua kecepatan.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 20 m/detik × 3,6 = 72 km/jam.
+  2. Hitung kecepatan relatif: 90 + 72 = 162 km/jam.
+  3. Hitung waktu bertemu: W = 81 ÷ 162 = 0,5 jam = 30 menit.
 
 ---
 
@@ -1429,6 +1769,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** Jarak total = panjang jembatan + panjang kereta = 400 + 200 = 600 m. K = 72 km/jam = 20 m/s. W = 600/20 = 30 detik.
 - **C** — 25. Hitungan salah, mungkin pakai 500 m.
 - **D** — 60. Pakai 600/10 (salah konversi).
+- **Konsep kunci:** Saat kereta melewati jembatan, jarak yang harus ditempuh adalah panjang jembatan ditambah panjang kereta.
+- **Langkah Penyelesaian:**
+  1. Hitung jarak total: 400 m (jembatan) + 200 m (kereta) = 600 m.
+  2. Konversi kecepatan: 72 km/jam ÷ 3,6 = 20 m/detik.
+  3. Hitung waktu: W = 600 ÷ 20 = 30 detik.
 
 ---
 
@@ -1445,6 +1790,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 25. Salah hitung.
 - **C** — **BENAR.** Relatif = 36 − 25 = 11 m/s. Jarak 22 km = 22.000 m. W = 22.000/11 = 2.000 detik = 33,33 menit.
 - **D** — 20. Mungkin pakai relatif 18,33.
+- **Konsep kunci:** Pada kejar-kejaran searah, kecepatan relatifnya adalah selisih kedua kecepatan.
+- **Langkah Penyelesaian:**
+  1. Hitung kecepatan relatif: 36 − 25 = 11 m/detik.
+  2. Ubah jarak ke meter: 22 km = 22.000 m.
+  3. Hitung waktu: W = 22.000 ÷ 11 = 2.000 detik = 33,33 menit.
 
 ---
 
@@ -1461,6 +1811,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 50. Pembulatan.
 - **C** — 51,2. Mungkin salah hitung.
 - **D** — **BENAR.** Jarak lambat = 20% × 720 = 144 km, waktu = 144/540 = 0,267 jam. Jarak cepat = 576 km, waktu = 576/900 = 0,64 jam. Total = 0,907 jam × 60 = 54,4 menit ≈ 55 menit. *(Pembulatan ke 55 menit, opsi D paling dekat.)*
+- **Konsep kunci:** Kalau perjalanan punya dua kecepatan berbeda, hitung jarak dan waktu tiap tahap secara terpisah lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung jarak tahap lambat: 20% × 720 = 144 km, waktunya 144 ÷ 540 = 0,267 jam.
+  2. Hitung jarak tahap cepat: 720 − 144 = 576 km, waktunya 576 ÷ 900 = 0,64 jam.
+  3. Jumlahkan waktu: 0,267 + 0,64 = 0,907 jam ≈ 54,4 menit, dibulatkan ke 55 menit.
 
 ---
 
@@ -1477,6 +1832,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** Efektif = 25 − 5 = 20 knot. 20 × 1,852 = 37,04 km/jam.
 - **C** — 30. Pembulatan/asumsi 1 knot = 1,5 km/jam.
 - **D** — 55,56. Itu untuk 30 knot (kalau searah arus).
+- **Konsep kunci:** Kapal yang melawan arus punya kecepatan efektif sebesar selisih kecepatan kapal dan kecepatan arus.
+- **Langkah Penyelesaian:**
+  1. Hitung kecepatan efektif: 25 − 5 = 20 knot.
+  2. Konversi ke km/jam: 20 × 1,852 = 37,04 km/jam.
 
 ---
 
@@ -1493,6 +1852,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** 360 km/jam ÷ 3,6 = 100 m/detik = 100 meter per detik.
 - **C** — 60. Salah faktor.
 - **D** — 90. Itu untuk 324 km/jam.
+- **Konsep kunci:** Konversi km/jam ke m/detik dilakukan dengan membagi angka kecepatannya dengan 3,6.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus: km/jam ÷ 3,6 = m/detik.
+  2. Hitung: 360 ÷ 3,6 = 100 m/detik.
 
 ---
 
@@ -1509,6 +1872,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — Arah salah.
 - **C** — Tidak sama.
 - **D** — Selisih salah.
+- **Konsep kunci:** Untuk membandingkan dua kecepatan beda satuan, samakan dulu ke satu satuan sebelum mencari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Konversi knot ke km/jam: 450 × 1,852 = 833,4 km/jam.
+  2. Bandingkan: 833,4 km/jam (A) vs 800 km/jam (B).
+  3. Hitung selisih: 833,4 − 800 ≈ 34 km/jam, A lebih cepat.
 
 ---
 
@@ -1525,6 +1893,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 20. Pakai 72 km/jam.
 - **C** — 25. Pakai 90 km/jam.
 - **D** — 18. Pakai pakai 64,8 km/jam.
+- **Konsep kunci:** Kecepatan rata-rata dihitung dari total jarak dibagi total waktu, bukan rata-rata dari kecepatan tiap tahap.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan jarak: 36 + 24 = 60 km.
+  2. Jumlahkan waktu: 30 + 15 = 45 menit = 0,75 jam.
+  3. Hitung rata-rata: 60 ÷ 0,75 = 80 km/jam, lalu 80 ÷ 3,6 = 22,22 m/detik.
 
 ---
 
@@ -1541,6 +1914,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** K = J/W = 100/10 = 10 m/s. 10 × 3,6 = 36 km/jam.
 - **C** — 100. Tidak ada konversi.
 - **D** — 60. Salah faktor (×6).
+- **Konsep kunci:** Kecepatan dicari dengan rumus K = J ÷ W, baru dikonversi ke satuan yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung kecepatan: K = 100 m ÷ 10 detik = 10 m/detik.
+  2. Konversi ke km/jam: 10 × 3,6 = 36 km/jam.
 
 ---
 
@@ -1557,6 +1934,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — Sama dengan A, tapi penulisan opsi A lebih ringkas.
 - **C** — Arah salah; B lebih cepat.
 - **D** — Tidak sama.
+- **Konsep kunci:** Untuk mencari selisih dua kecepatan, samakan dulu satuannya sebelum dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan A: 270 km/jam ÷ 3,6 = 75 m/detik.
+  2. Bandingkan: 75 m/detik (A) vs 80 m/detik (B).
+  3. Hitung selisih: 80 − 75 = 5 m/detik, B lebih cepat.
 
 ---
 
@@ -1573,6 +1955,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** 90 km/jam = 25 m/s. Pohon dilewati seluruh kereta dalam W = 300/25 = 12 detik.
 - **C** — 25. Pakai K = 12 m/s (salah).
 - **D** — 30. Pakai K = 10 m/s.
+- **Konsep kunci:** Waktu 'terlihat' saat melewati benda kecil (seperti tiang/pohon) dihitung dari panjang kereta sendiri.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 90 km/jam ÷ 3,6 = 25 m/detik.
+  2. Hitung waktu: W = 300 m ÷ 25 m/detik = 12 detik.
 
 ---
 
@@ -1605,6 +1991,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 12. Salah hitung.
 - **C** — 13,3. Pakai relatif 30 m/s.
 - **D** — **BENAR.** A = 20 m/s, B = 15 m/s. Relatif = 35 m/s. Jarak = 200+200 = 400 m. W = 400/35 ≈ 11,43 detik.
+- **Konsep kunci:** Saat dua kereta berpapasan, kecepatan relatifnya adalah jumlah kedua kecepatan dan jaraknya adalah total panjang keduanya.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 72 km/jam ÷ 3,6 = 20 m/detik dan 54 km/jam ÷ 3,6 = 15 m/detik.
+  2. Hitung kecepatan relatif: 20 + 15 = 35 m/detik.
+  3. Hitung waktu: W = (200 + 200) ÷ 35 = 400 ÷ 35 ≈ 11,43 detik.
 
 ---
 
@@ -1621,6 +2012,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** 250 m/s = 900 km/jam. 2,5 jam × 900 = 2.250 km.
 - **C** — 2.500. Pakai 1.000 km/jam.
 - **D** — 1.800. Pakai 720 km/jam.
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 250 m/detik × 3,6 = 900 km/jam.
+  2. Ubah waktu ke jam: 2 jam 30 menit = 2,5 jam.
+  3. Hitung jarak: J = 900 × 2,5 = 2.250 km.
 
 ---
 
@@ -1637,6 +2033,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** 20 mph × 1,609 = 32,18 km/jam. 32,18 ÷ 3,6 = 8,94 m/s.
 - **C** — 32. Berhenti di km/jam, lupa konversi ke m/s.
 - **D** — 9. Pembulatan kasar.
+- **Konsep kunci:** Konversi mph ke m/detik dilakukan dua tahap: ubah ke km/jam dulu (kali 1,609), lalu ke m/detik (bagi 3,6).
+- **Langkah Penyelesaian:**
+  1. Konversi mph ke km/jam: 20 × 1,609 = 32,18 km/jam.
+  2. Konversi km/jam ke m/detik: 32,18 ÷ 3,6 = 8,94 m/detik.
 
 ---
 
@@ -1653,6 +2053,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 27,78. Itu konversi 100 km/jam.
 - **C** — 100 km/jam. Salah waktu (mungkin 2,4 jam).
 - **D** — 30 m/s. Itu 108 km/jam.
+- **Konsep kunci:** Kecepatan rata-rata dicari dengan K = J ÷ W setelah waktu campuran jam-menit diubah semua ke jam.
+- **Langkah Penyelesaian:**
+  1. Ubah waktu ke jam: 2 jam 40 menit = 2,667 jam.
+  2. Hitung kecepatan: K = 240 ÷ 2,667 = 90 km/jam.
+  3. Konversi ke m/detik: 90 ÷ 3,6 = 25 m/detik.
 
 ---
 
@@ -1669,6 +2074,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** K = 100/9,58 = 10,44 m/s. 10,44 × 3,6 = 37,58 ≈ 37,6 km/jam.
 - **C** — 40. Pembulatan kasar.
 - **D** — 25. Salah hitung.
+- **Konsep kunci:** Kecepatan dicari dengan K = J ÷ W dalam m/detik dulu, baru dikonversi ke km/jam dan dibulatkan.
+- **Langkah Penyelesaian:**
+  1. Hitung kecepatan: K = 100 m ÷ 9,58 detik = 10,44 m/detik.
+  2. Konversi ke km/jam: 10,44 × 3,6 = 37,58 km/jam.
+  3. Bulatkan ke 1 desimal: 37,6 km/jam.
 
 ---
 
@@ -1685,6 +2095,10 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** 22 knot × 1,852 = 40,744 km/jam. W = 1.200/40,744 = 29,45 jam.
 - **C** — 24. Asumsi K = 50 km/jam.
 - **D** — 36. Asumsi K = 33,3 km/jam.
+- **Konsep kunci:** Waktu perjalanan kapal dicari dengan W = J ÷ K setelah kecepatan knot dikonversi ke km/jam.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 22 knot × 1,852 = 40,744 km/jam.
+  2. Hitung waktu: W = 1.200 ÷ 40,744 ≈ 29,4 jam.
 
 ---
 
@@ -1701,6 +2115,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 3.500. Salah konversi waktu.
 - **C** — **BENAR.** 180 km/jam = 50 m/s. 1 menit 15 detik = 75 detik. J = 50 × 75 = 3.750 m.
 - **D** — 4.000. Pakai 80 detik atau salah K.
+- **Konsep kunci:** Sebelum memakai rumus J = K × W, satuan kecepatan dan waktu harus disamakan lebih dulu.
+- **Langkah Penyelesaian:**
+  1. Konversi kecepatan: 180 km/jam ÷ 3,6 = 50 m/detik.
+  2. Ubah waktu ke detik: 1 menit 15 detik = 75 detik.
+  3. Hitung jarak: J = 50 × 75 = 3.750 m.
 
 ---
 
@@ -1733,6 +2152,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — 25 m. Salah satuan.
 - **C** — 22. Pakai relatif berlawanan = 22.
 - **D** — **BENAR.** A = 25 m/s = 90 km/jam. B = 90 km/jam. Relatif berlawanan = 180 km/jam. 10 menit = 1/6 jam. J = 180/6 = 30 km.
+- **Konsep kunci:** Pada dua benda yang bergerak berlawanan arah dari titik sama, kecepatan relatifnya adalah jumlah kedua kecepatan.
+- **Langkah Penyelesaian:**
+  1. Samakan satuan: 25 m/detik × 3,6 = 90 km/jam.
+  2. Hitung kecepatan relatif: 90 + 90 = 180 km/jam.
+  3. Ubah waktu ke jam: 10 menit = 1/6 jam, lalu J = 180 × 1/6 = 30 km.
 
 ---
 
@@ -1749,6 +2173,11 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 - **B** — **BENAR.** Saat lambat: 20 menit = 1/3 jam, jarak ditempuh = 400 × 1/3 = 133,3 km. Jarak sisa = 880 − 133,3 = 746,7 km. Waktu sisa = 746,7/800 = 0,933 jam = 56 menit. Total waktu = 20 + 56 = 76 menit ≈ 1 jam 15 menit. Mendarat pukul 09.15.
 - **C** — 09.10. Pembulatan salah.
 - **D** — 09.20. Mengasumsikan lebih lambat.
+- **Konsep kunci:** Kalau perjalanan punya dua kecepatan berbeda, hitung jarak dan waktu tiap tahap secara terpisah lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung jarak tahap lambat: 400 km/jam × 1/3 jam (20 menit) = 133,3 km.
+  2. Hitung sisa jarak dan waktunya: 880 − 133,3 = 746,7 km, waktunya 746,7 ÷ 800 = 0,933 jam ≈ 56 menit.
+  3. Jumlahkan waktu: 20 + 56 = 76 menit ≈ 1 jam 15 menit setelah pukul 08.00, jadi mendarat pukul 09.15.
 
 ---
 

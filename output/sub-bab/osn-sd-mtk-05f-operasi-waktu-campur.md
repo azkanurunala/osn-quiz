@@ -146,6 +146,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 15 menit
 - C. 4 jam 15 menit
 - D. 3 jam 45 menit
+- **Konsep kunci:** Jumlahkan jam dan menit secara terpisah, lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. 2 + 1 = 3 jam; 30 + 15 = 45 menit.
+  2. Total = 3 jam 45 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -161,6 +165,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 30 menit
 - C. 4 jam 70 menit
 - D. 4 jam 10 menit
+- **Konsep kunci:** Jumlahkan jam dan menit; pindahkan menit ≥ 60 ke jam.
+- **Langkah Penyelesaian:**
+  1. 1+2 = 3 jam; 50+20 = 70 menit = 1 jam 10 menit.
+  2. Total = 4 jam 10 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -176,6 +184,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 15 menit
 - C. 6 jam 5 menit
 - D. 6 jam 15 menit
+- **Konsep kunci:** Jumlahkan jam dan menit; pindahkan kelebihan menit.
+- **Langkah Penyelesaian:**
+  1. 3+2 = 5 jam; 25+40 = 65 menit = 1 jam 5 menit.
+  2. Total = 6 jam 5 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -191,6 +203,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 15 menit
 - C. 3 jam 45 menit
 - D. 2 jam 45 menit
+- **Konsep kunci:** Kurangi menit dulu; bila kurang, pinjam 1 jam = 60 menit.
+- **Langkah Penyelesaian:**
+  1. 15 − 30 kurang, pinjam: 4 jam 15 − 1 jam 30.
+  2. 3 jam 75 − 1 jam 30 = 2 jam 45 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -206,6 +222,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 30 menit
 - C. 2 jam 0 menit
 - D. 2 jam 30 menit
+- **Konsep kunci:** Hitung selisih dari 19.00 sampai 21.30.
+- **Langkah Penyelesaian:**
+  1. 21.30 − 19.00 = 2 jam 30 menit.
+  2. Andi belajar 2 jam 30 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -221,6 +241,11 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 80 menit
 - C. 2 jam 0 menit
 - D. 2 jam 20 menit
+- **Konsep kunci:** Jumlahkan dua kegiatan.
+- **Langkah Penyelesaian:**
+  1. 1 jam 45 + 35 menit.
+  2. 1 jam 75 menit = 2 jam 15 menit.
+  3. Total = 2 jam 15 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -236,6 +261,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 20 menit
 - C. 2 jam 30 menit
 - D. 2 jam 50 menit
+- **Konsep kunci:** Kurangi menit dulu, pinjam bila perlu.
+- **Langkah Penyelesaian:**
+  1. 20 − 50 kurang, pinjam 1 jam: 4 jam 80 − 2 jam 50.
+  2. = 2 jam 30 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -251,6 +280,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 jam 60 menit
 - C. 4 jam 0 menit
 - D. 4 jam 30 menit
+- **Konsep kunci:** Selisih dari 07.15 ke 11.45.
+- **Langkah Penyelesaian:**
+  1. 11 jam 45 − 7 jam 15.
+  2. = 4 jam 30 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -266,6 +299,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 18.15
 - C. 17.05
 - D. 18.05
+- **Konsep kunci:** Tambahkan durasi pada waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 16.40 + 1 jam = 17.40; + 25 menit = 18.05.
+  2. Rina selesai pukul 18.05.
 
 **Kunci: D**
 **Pembahasan:**
@@ -281,6 +318,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 30 menit
 - C. 1 jam 70 menit
 - D. 2 jam 0 menit
+- **Konsep kunci:** Selisih dari 05.50 ke 07.20.
+- **Langkah Penyelesaian:**
+  1. 07.20 − 05.50 = 1 jam 30 menit.
+  2. Lama perjalanan 1 jam 30 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -296,6 +337,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 12.20
 - C. 11.30
 - D. 12.30
+- **Konsep kunci:** Tambahkan menit lalu jam.
+- **Langkah Penyelesaian:**
+  1. 09.40 + 2 jam = 11.40; + 50 menit = 12.30.
+  2. Menjadi pukul 12.30.
 
 **Kunci: D**
 **Pembahasan:**
@@ -311,6 +356,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 7 jam 30 menit
 - C. 8 jam 30 menit
 - D. 9 jam 0 menit
+- **Konsep kunci:** Selisih dari 08.15 ke 16.45.
+- **Langkah Penyelesaian:**
+  1. 16.45 − 08.15 = 8 jam 30 menit.
+  2. Pak Anton bekerja 8 jam 30 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -326,6 +375,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 0 menit
 - C. 4 jam 90 menit
 - D. 5 jam 30 menit
+- **Konsep kunci:** Jumlahkan semua jam dan menit lalu sederhanakan.
+- **Langkah Penyelesaian:**
+  1. 1+2+1 = 4 jam; 35+50+5 = 90 menit = 1 jam 30.
+  2. Total = 5 jam 30 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -341,6 +394,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 65 menit
 - C. 1 jam 25 menit
 - D. 1 jam 35 menit
+- **Konsep kunci:** Kurangi menit, pinjam bila kurang.
+- **Langkah Penyelesaian:**
+  1. 10 − 45 kurang, pinjam: 2 jam 70 − 1 jam 45.
+  2. = 1 jam 25 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -356,6 +413,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 12.35
 - C. 13.65
 - D. 12.75
+- **Konsep kunci:** Kurangkan waktu mundur meminjam 1 jam.
+- **Langkah Penyelesaian:**
+  1. 14.20 − 1 jam = 13.20; − 45 menit = 12.35.
+  2. Menjadi pukul 12.35.
 
 **Kunci: B**
 **Pembahasan:**
@@ -371,6 +432,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 30 menit
 - C. 2 jam 70 menit
 - D. 3 jam 0 menit
+- **Konsep kunci:** Selisih dari 19.45 ke 22.15.
+- **Langkah Penyelesaian:**
+  1. 22.15 − 19.45 = 2 jam 30 menit.
+  2. Acara berlangsung 2 jam 30 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -386,6 +451,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 45 menit 70 detik
 - C. 3 jam 45 menit 10 detik
 - D. 3 jam 46 menit 70 detik
+- **Konsep kunci:** Jumlahkan tiap satuan; pindahkan kelebihan.
+- **Langkah Penyelesaian:**
+  1. 40+30 detik = 70 = 1 m 10 s; 25+20+1 = 46 menit; 2+1 = 3 jam.
+  2. Total = 3 jam 46 menit 10 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -401,6 +470,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 25 menit
 - C. 3 jam 35 menit
 - D. 4 jam 25 menit
+- **Konsep kunci:** 6 jam = 5 jam 60 menit, lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 5 jam 60 − 2 jam 35.
+  2. = 3 jam 25 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -416,6 +489,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 22.45
 - C. 22.05
 - D. 22.55
+- **Konsep kunci:** Tambahkan durasi film pada waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 20.10 + 2 jam = 22.10; + 15 menit = 22.25.
+  2. Film selesai 22.25.
 
 **Kunci: A**
 **Pembahasan:**
@@ -431,6 +508,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 1 menit 10 detik
 - C. 1 jam 60 menit 70 detik
 - D. 2 jam 11 menit 10 detik
+- **Konsep kunci:** Jumlahkan waktu menunggu dan naik bus.
+- **Langkah Penyelesaian:**
+  1. 25 m 40 s + 1 j 35 m 30 s = 1 j 60 m 70 s.
+  2. = 2 jam 1 menit 10 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -446,6 +527,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 16.25
 - C. 16.15
 - D. 15.15
+- **Konsep kunci:** Tambahkan menit lalu jam.
+- **Langkah Penyelesaian:**
+  1. 11.50 + 4 jam = 15.50; + 25 menit = 16.15.
+  2. Menjadi pukul 16.15.
 
 **Kunci: C**
 **Pembahasan:**
@@ -461,6 +546,11 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 55 menit
 - C. 1 jam 55 menit
 - D. 1 jam 45 menit
+- **Konsep kunci:** Pinjam 1 jam = 60 menit lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 2 jam 5 menit = 1 jam 65 menit.
+  2. 65 − 50 = 15.
+  3. = 1 jam 15 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -476,6 +566,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 50 menit
 - C. 2 jam 50 menit
 - D. 1 jam 10 menit
+- **Konsep kunci:** Selisih dari 15.30 ke 17.20.
+- **Langkah Penyelesaian:**
+  1. 17.20 − 15.30 = 1 jam 50 menit.
+  2. Lama pertandingan 1 jam 50 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -491,6 +585,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 20.30
 - C. 19.30
 - D. 20.50
+- **Konsep kunci:** Tambahkan durasi pada waktu mulai.
+- **Langkah Penyelesaian:**
+  1. 18.40 + 1 jam = 19.40; + 50 menit = 20.30.
+  2. Selesai pukul 20.30.
 
 **Kunci: B**
 **Pembahasan:**
@@ -506,6 +604,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 45 menit
 - C. 4 jam 0 menit
 - D. 3 jam 0 menit
+- **Konsep kunci:** Ubah semua ke menit lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 120 + 105 = 225 menit.
+  2. = 3 jam 45 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -521,6 +623,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 menit 90 detik
 - C. 5 menit 30 detik
 - D. 5 menit 50 detik
+- **Konsep kunci:** Kalikan waktu satu putaran dengan banyak putaran.
+- **Langkah Penyelesaian:**
+  1. 2 m 45 s × 2 = 4 m 90 s.
+  2. = 5 menit 30 detik.
 
 **Kunci: C**
 **Pembahasan:**
@@ -536,6 +642,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 7 menit 10 detik
 - C. 7 menit 70 detik
 - D. 6 menit 10 detik
+- **Konsep kunci:** Jumlahkan waktu mengisi dan memanaskan.
+- **Langkah Penyelesaian:**
+  1. 4 menit 20 + 2 menit 50.
+  2. = 7 menit 10 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -551,6 +661,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 01.15
 - C. 02.45
 - D. 01.45
+- **Konsep kunci:** Tambahkan melewati tengah malam.
+- **Langkah Penyelesaian:**
+  1. 23.45 + 2 jam = 01.45; + 30 menit = 02.15.
+  2. Besok hari = pukul 02.15.
 
 **Kunci: A**
 **Pembahasan:**
@@ -566,6 +680,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 08.50
 - C. 09.40
 - D. 09.20
+- **Konsep kunci:** Waktu mulai = waktu selesai − durasi.
+- **Langkah Penyelesaian:**
+  1. 10.10 − 1 jam = 09.10; − 30 menit = 08.40.
+  2. Ujian mulai pukul 08.40.
 
 **Kunci: A**
 **Pembahasan:**
@@ -581,6 +699,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 15 menit
 - C. 1 jam 45 menit
 - D. 2 jam 45 menit
+- **Konsep kunci:** Selisih dari 15.20 ke 17.05.
+- **Langkah Penyelesaian:**
+  1. 17.05 − 15.20 = 1 jam 45 menit.
+  2. Lama latihan 1 jam 45 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -596,6 +718,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 0 menit
 - C. 4 jam 60 menit
 - D. 6 jam 0 menit
+- **Konsep kunci:** Jumlahkan semua menit lalu ubah ke jam.
+- **Langkah Penyelesaian:**
+  1. 50+40+30 = 120 menit; 3+1 = 4 jam.
+  2. Total = 6 jam 0 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -611,6 +737,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 40 menit
 - C. 3 jam 20 menit
 - D. 4 jam 40 menit
+- **Konsep kunci:** Selisih dari 09.55 ke 13.15.
+- **Langkah Penyelesaian:**
+  1. 13.15 − 09.55 = 3 jam 20 menit.
+  2. Penerbangan 3 jam 20 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -626,6 +756,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 0 menit 30 detik
 - C. 1 jam 10 menit 30 detik
 - D. 50 menit 70 detik
+- **Konsep kunci:** Kurangkan tiap satuan.
+- **Langkah Penyelesaian:**
+  1. 50 s − 20 s = 30 s; 25 m − 35 m kurang → pinjam 1 j = 85−35 = 50 m; 0 j.
+  2. = 50 menit 30 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -641,6 +775,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 7 jam 15 menit
 - C. 8 jam 15 menit
 - D. 7 jam 45 menit
+- **Konsep kunci:** Lewati tengah malam: 21.30 → 04.45.
+- **Langkah Penyelesaian:**
+  1. 21.30 → 24.00 = 2,5 jam; 00.00 → 04.45 = 4 jam 45 menit.
+  2. Total = 7 jam 15 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -656,6 +794,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 105 menit
 - C. 145 menit
 - D. 115 menit
+- **Konsep kunci:** 1 jam = 60 menit; 3/4 jam = 45 menit.
+- **Langkah Penyelesaian:**
+  1. 60 + 45 = 105 menit.
+  2. Konser 105 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -671,6 +813,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10.25
 - C. 10.15
 - D. 09.25
+- **Konsep kunci:** Tambahkan durasi pada keberangkatan.
+- **Langkah Penyelesaian:**
+  1. 06.50 + 3 jam = 09.50; + 25 menit = 10.15.
+  2. Bus tiba pukul 10.15.
 
 **Kunci: C**
 **Pembahasan:**
@@ -686,6 +832,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 40 menit
 - C. 2 jam 0 menit
 - D. 1 jam 10 menit
+- **Konsep kunci:** Jumlahkan menit lalu ubah ke jam.
+- **Langkah Penyelesaian:**
+  1. 25+35+50 = 110 menit.
+  2. = 1 jam 50 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -701,6 +851,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 14.55
 - C. 15.55
 - D. 14.45
+- **Konsep kunci:** Kurangkan 50 menit ke belakang, pinjam 1 jam.
+- **Langkah Penyelesaian:**
+  1. 15.45 − 45 menit = 15.00; − 5 menit = 14.55.
+  2. = pukul 14.55.
 
 **Kunci: B**
 **Pembahasan:**
@@ -716,6 +870,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 40 menit
 - C. 1 jam 25 menit
 - D. 1 jam 55 menit
+- **Konsep kunci:** Jumlahkan dua sesi bersepeda.
+- **Langkah Penyelesaian:**
+  1. 06.10→06.55 = 45 menit; 07.20→08.05 = 45 menit.
+  2. Total = 90 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -731,6 +889,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 8 menit 75 detik
 - C. 9 menit 5 detik
 - D. 8 menit 15 detik
+- **Konsep kunci:** Jumlahkan menit dan detik; pindahkan kelebihan.
+- **Langkah Penyelesaian:**
+  1. 30+45 = 75 detik = 1 m 15 s; 5+3+1 = 9 menit.
+  2. = 9 menit 15 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -746,6 +908,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 12.45
 - C. 13.15
 - D. 12.15
+- **Konsep kunci:** Kurangkan mundur meminjam 1 jam.
+- **Langkah Penyelesaian:**
+  1. 16.30 − 3 jam = 13.30; − 45 menit = 12.45.
+  2. = pukul 12.45.
 
 **Kunci: B**
 **Pembahasan:**
@@ -761,6 +927,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 13 jam 0 menit
 - C. 14 jam 0 menit
 - D. 13 jam 30 menit
+- **Konsep kunci:** Selisih dari 08.00 ke 21.30.
+- **Langkah Penyelesaian:**
+  1. 21.30 − 08.00 = 13 jam 30 menit.
+  2. Toko buka 13 jam 30 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -776,6 +946,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 menit 25 detik
 - C. 1 menit 35 detik
 - D. 1 menit 45 detik
+- **Konsep kunci:** Selisih waktu kedua pelari.
+- **Langkah Penyelesaian:**
+  1. 13.50 − 12.35.
+  2. = 1 menit 15 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -791,6 +965,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 15 menit
 - C. 3 jam 45 menit
 - D. 4 jam 45 menit
+- **Konsep kunci:** Kurangi menit, pinjam bila kurang.
+- **Langkah Penyelesaian:**
+  1. 40 − 55 kurang: 6 jam 100 − 3 jam 55.
+  2. = 3 jam 45 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -806,6 +984,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 15 menit
 - C. 1 jam 55 menit
 - D. 1 jam 45 menit
+- **Konsep kunci:** Selisih dari 09.50 ke 11.05.
+- **Langkah Penyelesaian:**
+  1. 11.05 − 09.50 = 1 jam 15 menit.
+  2. Ulangan 1 jam 15 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -821,6 +1003,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 18.00
 - C. 17.50
 - D. 18.10
+- **Konsep kunci:** Tambahkan menit lalu jam.
+- **Langkah Penyelesaian:**
+  1. 13.05 + 4 jam = 17.05; + 55 menit = 18.00.
+  2. = pukul 18.00.
 
 **Kunci: B**
 **Pembahasan:**
@@ -836,6 +1022,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 15.55
 - C. 15.35
 - D. 16.35
+- **Konsep kunci:** Waktu berangkat = waktu tiba − perjalanan.
+- **Langkah Penyelesaian:**
+  1. 17.20 − 1 jam = 16.20; − 45 menit = 15.35.
+  2. Berangkat pukul 15.35.
 
 **Kunci: C**
 **Pembahasan:**
@@ -851,6 +1041,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 55 menit
 - C. 2 jam 35 menit
 - D. 1 jam 65 menit
+- **Konsep kunci:** Jumlahkan menit lalu ubah ke jam-menit.
+- **Langkah Penyelesaian:**
+  1. 90 + 75 = 165 menit.
+  2. = 2 jam 45 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -866,6 +1060,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 60 menit
 - C. 2 jam 0 menit
 - D. 1 jam 55 menit
+- **Konsep kunci:** Jumlahkan waktu oven dan pendinginan.
+- **Langkah Penyelesaian:**
+  1. 1 jam 25 + 35 menit = 1 jam 60 menit.
+  2. = 2 jam 0 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -881,6 +1079,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 24 menit 80 detik
 - C. 2 jam 25 menit 80 detik
 - D. 2 jam 24 menit 20 detik
+- **Konsep kunci:** Kalikan durasi video dengan 2.
+- **Langkah Penyelesaian:**
+  1. 1:12:40 × 2 = 2:24:80.
+  2. = 2 jam 25 menit 20 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -898,6 +1100,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 0 menit
 - C. 5 jam 50 menit
 - D. 4 jam 90 menit
+- **Konsep kunci:** Jumlahkan semua bagian perjalanan.
+- **Langkah Penyelesaian:**
+  1. 45 + 18 + 4:27 menit.
+  2. = 5 jam 30 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -913,6 +1119,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 3 jam 5 menit
 - C. 3 jam 15 menit
 - D. 2 jam 55 menit
+- **Konsep kunci:** Ubah semua ke menit lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 12+85+8+45+35 = 185 menit.
+  2. = 3 jam 5 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -928,6 +1138,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 jam 47 menit
 - C. 4 jam 13 menit
 - D. 5 jam 13 menit
+- **Konsep kunci:** Selisih dari 09.18 ke 14.05.
+- **Langkah Penyelesaian:**
+  1. 14.05 − 09.18.
+  2. = 4 jam 47 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -943,6 +1157,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 menit 5 detik
 - C. 5 menit 25 detik
 - D. 5 menit 35 detik
+- **Konsep kunci:** Ubah semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 108 + 125 + 92 = 325 detik.
+  2. = 5 menit 25 detik.
 
 **Kunci: C**
 **Pembahasan:**
@@ -958,6 +1176,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 jam 6 menit
 - C. 4 jam 0 menit
 - D. 4 jam 16 menit
+- **Konsep kunci:** Jumlahkan semua percobaan dan jeda.
+- **Langkah Penyelesaian:**
+  1. 1:35+0:12+0:47+0:08+1:24.
+  2. = 4 jam 6 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -973,6 +1195,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 05.25 (Selasa)
 - C. 05.55 (Selasa)
 - D. 04.55 (Selasa)
+- **Konsep kunci:** Tambahkan melewati tengah malam; hari berganti.
+- **Langkah Penyelesaian:**
+  1. 22.55 + 6 jam = 04.55; + 30 menit = 05.25.
+  2. = 05.25 hari Selasa.
 
 **Kunci: B**
 **Pembahasan:**
@@ -988,6 +1214,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 7 jam 35 menit
 - C. 6 jam 45 menit
 - D. 7 jam 5 menit
+- **Konsep kunci:** Jumlahkan terbang, transit, terbang.
+- **Langkah Penyelesaian:**
+  1. 2:35 + 1:20 + 3:50.
+  2. = 7 jam 45 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1003,6 +1233,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 13 menit 12 detik
 - C. 13 menit 2 detik
 - D. 12 menit 12 detik
+- **Konsep kunci:** Kalikan kelebihan tiap minggu dengan banyak minggu.
+- **Langkah Penyelesaian:**
+  1. 3 m 18 s × 4 = 12 m 72 s.
+  2. = 13 menit 12 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1018,6 +1252,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 12 jam 24 menit
 - C. 11 jam 36 menit
 - D. 12 jam 60 menit
+- **Konsep kunci:** Selisih dari 11.12 ke 23.48.
+- **Langkah Penyelesaian:**
+  1. 23.48 − 11.12.
+  2. = 12 jam 36 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1033,6 +1271,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 90 menit
 - C. 6 jam 30 menit
 - D. 7 jam 0 menit
+- **Konsep kunci:** Kalikan durasi harian dengan banyak hari.
+- **Langkah Penyelesaian:**
+  1. 1 jam 18 × 5 = 5 jam 90 menit.
+  2. = 6 jam 30 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1048,6 +1290,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 0 menit
 - C. 4 jam 50 menit
 - D. 5 jam 30 menit
+- **Konsep kunci:** Total = banyak sesi × durasi + banyak jeda × durasi jeda.
+- **Langkah Penyelesaian:**
+  1. 9×25 = 225; 8×10 = 80.
+  2. 225 + 80 = 305 menit = 5 jam 5 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1063,6 +1309,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 15.55
 - C. 15.05
 - D. 15.45
+- **Konsep kunci:** Tambahkan semua bagian kerja secara berurutan.
+- **Langkah Penyelesaian:**
+  1. 08.45+3:47 = 12.32; +0:35 = 13.07; +2:18 = 15.25.
+  2. Selesai pukul 15.25.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1078,6 +1328,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 menit 0 detik
 - C. 5 menit 0 detik
 - D. 5 menit 60 detik
+- **Konsep kunci:** Tambahkan selisih waktu juara 3 dari juara 1.
+- **Langkah Penyelesaian:**
+  1. 3:52 + 25 s + 1:08.
+  2. = 5 menit 25 detik.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1093,6 +1347,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10 jam 35 menit
 - C. 9 jam 25 menit
 - D. 9 jam 35 menit
+- **Konsep kunci:** Lewati tengah malam lalu tambahkan sisa.
+- **Langkah Penyelesaian:**
+  1. 23.40 → 24.00 = 20 menit; 00.00 → 09.15 = 9 jam 15 menit.
+  2. Total = 9 jam 35 menit.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1108,6 +1366,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 34 menit
 - C. 2 jam 44 menit
 - D. 2 jam 14 menit
+- **Konsep kunci:** Kalikan waktu tiap kamar dengan banyak kamar.
+- **Langkah Penyelesaian:**
+  1. 7 × 22 = 154 menit.
+  2. = 2 jam 34 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1123,6 +1385,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 11 jam 37 menit
 - C. 12 jam 47 menit
 - D. 12 jam 27 menit
+- **Konsep kunci:** Selisih dari 07.05 ke 19.42.
+- **Langkah Penyelesaian:**
+  1. 19.42 − 07.05.
+  2. = 12 jam 37 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1138,6 +1404,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 5 jam 53 menit
 - C. 6 jam 53 menit
 - D. 5 jam 33 menit
+- **Konsep kunci:** Kerjakan urut: kurangi lalu tambahkan.
+- **Langkah Penyelesaian:**
+  1. 8:12 − 3:47 = 4:25; 4:25 + 1:28.
+  2. = 5 jam 53 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1153,6 +1423,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10°
 - C. 30°
 - D. 60°
+- **Konsep kunci:** Sudut = |posisi jarum menit − posisi jarum jam|.
+- **Langkah Penyelesaian:**
+  1. Menit = 20 × 6 = 120°; jam = 3×30 + (20/60)×30 = 100°.
+  2. Selisih = 120 − 100 = 20°.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1168,6 +1442,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 09.83
 - C. 09.43
 - D. 09.17
+- **Konsep kunci:** Kurangi mundur meminjam 1 jam.
+- **Langkah Penyelesaian:**
+  1. 15.32 − 5 jam = 10.32; − 49 menit = 09.43.
+  2. = pukul 09.43.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1183,6 +1461,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 24 menit
 - C. 144 menit
 - D. 204 menit
+- **Konsep kunci:** 2,4 jam = 2 jam + 0,4 jam; 0,4 × 60 = 24 menit.
+- **Langkah Penyelesaian:**
+  1. 2 × 60 = 120; 0,4 × 60 = 24.
+  2. Total = 144 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1198,6 +1480,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 45 menit
 - C. 2 jam 45 menit
 - D. 1 jam 15 menit
+- **Konsep kunci:** Selisih dari 17.42 ke 19.27.
+- **Langkah Penyelesaian:**
+  1. 19.27 − 17.42.
+  2. = 1 jam 45 menit.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1213,6 +1499,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 05.33 (hari berikut)
 - C. 05.13 (hari berikut)
 - D. 04.13 (hari berikut)
+- **Konsep kunci:** Tambahkan lewat tengah malam.
+- **Langkah Penyelesaian:**
+  1. 23.55 + 5 jam = 04.55; + 38 menit = 05.33.
+  2. Tiba pukul 05.33.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1228,6 +1518,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10.05.49
 - C. 10.05.59
 - D. 10.05.29
+- **Konsep kunci:** Tambahkan kedua jeda pada waktu sinyal pertama.
+- **Langkah Penyelesaian:**
+  1. 10.05.20 + 12 + 17 detik.
+  2. = 10.05.49.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1243,6 +1537,11 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 jam 36 menit
 - C. 2 jam 36 menit
 - D. 3 jam 18 menit
+- **Konsep kunci:** Samakan zona waktu WITA ke WIB (WITA = WIB + 1 jam).
+- **Langkah Penyelesaian:**
+  1. Mendarat 03.18 WITA = 02.18 WIB.
+  2. Durasi = (24.00 − 23.42) + 02.18.
+  3. = 18 menit + 2 jam 18 menit = 2 jam 36 menit.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1258,6 +1557,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 18 menit 5 detik
 - C. 1 jam 20 menit 5 detik
 - D. 1 jam 22 menit 5 detik
+- **Konsep kunci:** Total = 5 × durasi presentasi + 4 × jeda.
+- **Langkah Penyelesaian:**
+  1. 5×(14 m 25 s) = 72 m 5 s; 4×2 = 8 menit.
+  2. = 80 menit 5 detik = 1 jam 20 menit 5 detik.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1273,6 +1576,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 4 menit 30 detik
 - C. 5 menit 0 detik
 - D. 4 menit 50 detik
+- **Konsep kunci:** Ubah semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 68+82+58+72 = 280 detik.
+  2. = 4 menit 40 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1288,6 +1595,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 60 menit 10 detik
 - C. 2 jam 10 menit 0 detik
 - D. 1 jam 59 menit 10 detik
+- **Konsep kunci:** Ubah semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 1720+1875+1610+2005 = 7.210 detik.
+  2. = 2 jam 0 menit 10 detik.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1303,6 +1614,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 2 jam 19 menit 0 detik
 - C. 2 jam 17 menit 0 detik
 - D. 2 jam 28 menit 0 detik
+- **Konsep kunci:** Kalikan waktu 1 paket dengan banyak paket.
+- **Langkah Penyelesaian:**
+  1. 5 × 27 m 36 s = 135 m 180 s.
+  2. = 2 jam 18 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1318,6 +1633,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 29 jam 52 menit
 - C. 28 jam 48 menit
 - D. 30 jam 48 menit
+- **Konsep kunci:** Lewati hari Senin, Selasa, hingga Selasa 24.00, lalu ke Rabu.
+- **Langkah Penyelesaian:**
+  1. Senin 22.07 → 24.00 = 1:53; + Selasa 24 jam; + 03.55.
+  2. Total = 29 jam 48 menit = 1 hari 5 jam 48 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1333,6 +1652,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 jam 30 menit
 - C. 3 jam 0 menit
 - D. 2 jam 0 menit
+- **Konsep kunci:** Jumlahkan dulu dalam kurung lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 2:18 + 1:47 = 4:05.
+  2. 4:05 − 1:35 = 2 jam 30 menit.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1350,6 +1673,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 09.13.05
 - C. 09.13.65
 - D. 09.22.05
+- **Konsep kunci:** Tambahkan catatan A dan selisih B terhadap A.
+- **Langkah Penyelesaian:**
+  1. 05.45 + 3:28:17 = 09.13.17; + 9:48.
+  2. B finis pukul 09.23.05.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1365,6 +1692,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10 detik
 - C. 15 detik
 - D. 25 detik
+- **Konsep kunci:** Hitung kehilangan tiap jam per hari lalu cari selisihnya.
+- **Langkah Penyelesaian:**
+  1. Jam X = 4 × 4 = 16 s/hari; jam Y = 9 × 2 = 18 s/hari.
+  2. Selisih = 2 s/hari × 5 hari = 10 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1380,6 +1711,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 11.15
 - C. 11.45
 - D. 13.00
+- **Konsep kunci:** Tiap pembalikan memakan 1 jam 45 menit.
+- **Langkah Penyelesaian:**
+  1. Ke-2 = 07.45; ke-3 = 09.30; ke-4 = 11.15.
+  2. Dibalik ke-4 pada pukul 11.15.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1395,6 +1730,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 180 menit
 - C. 720 menit
 - D. 540 menit
+- **Konsep kunci:** Cari KPK dari 24, 36, dan 45.
+- **Langkah Penyelesaian:**
+  1. KPK = 2³ × 3² × 5 = 360.
+  2. Serentak lagi setelah 360 menit = 6 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1410,6 +1749,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 10.15 EST Senin
 - C. 22.15 EST Minggu
 - D. 10.15 EST Selasa
+- **Konsep kunci:** Konversi WIB ke EST (EST = WIB − 12 jam), lalu tambah durasi.
+- **Langkah Penyelesaian:**
+  1. 20.00 WIB = 08.00 EST.
+  2. 08.00 + 2:15 = 10.15 EST.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1425,6 +1768,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. Rabu
 - C. Selasa
 - D. Kamis
+- **Konsep kunci:** Hitung hari 1 Maret → 1 Agustus lalu gunakan sisa bagi 7.
+- **Langkah Penyelesaian:**
+  1. 31+30+31+30+31+31 = 153 hari; 153 ÷ 7 sisa 6.
+  2. Selasa + 6 = Senin.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1440,6 +1787,11 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 17.48
 - C. 18.20
 - D. 17.40
+- **Konsep kunci:** Gunakan rasio: 24 jam jam kuno = 23,6 jam sebenarnya.
+- **Langkah Penyelesaian:**
+  1. 12 jam sebenarnya = 720 menit.
+  2. Jam maju = 720 × 24/23,6 ≈ 732,2 menit = 12 jam 12 menit.
+  3. Menunjuk 18.12.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1455,6 +1807,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 13.30
 - C. 14.10
 - D. 14.50
+- **Konsep kunci:** Kereta ke-7 = start + 6 × 1 jam 20 menit.
+- **Langkah Penyelesaian:**
+  1. 6 × 80 = 480 menit = 8 jam.
+  2. 05.30 + 8 jam = 13.30.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1470,6 +1826,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 1 kali
 - C. 3 kali
 - D. 0 kali
+- **Konsep kunci:** Cari KPK dari 18, 30, 42 menit.
+- **Langkah Penyelesaian:**
+  1. KPK = 630 menit = 10,5 jam (di luar rentang 09.00–18.00).
+  2. Serentak hanya pada pukul 09.00 → 1 kali.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1485,6 +1845,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 930°
 - C. 924°
 - D. 924,5°
+- **Konsep kunci:** Kalikan 6° dengan banyak detik.
+- **Langkah Penyelesaian:**
+  1. 2 m 35 s = 155 detik.
+  2. 155 × 6 = 930°.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1500,6 +1864,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 20 menit 25 detik
 - C. 20 menit 35 detik
 - D. 21 menit 5 detik
+- **Konsep kunci:** Hitung tiap putaran mengikuti keterangan, lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. P1 = 320 s; P2 = 300; P3 = 315; P4 = 290.
+  2. Total = 1.225 s = 20 menit 25 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1515,6 +1883,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 13
 - C. 23
 - D. 24
+- **Konsep kunci:** Setiap jam HH memiliki tepat satu detik HH.MM.SS sama.
+- **Langkah Penyelesaian:**
+  1. 00–23 jam → 24 nilai HH.
+  2. Dalam sehari ada 24 detik.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1530,6 +1902,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 14,5 detik
 - C. 14 detik
 - D. 13,5 detik
+- **Konsep kunci:** Durasi = banyak dentang × (lama dentang + jeda) − jeda terakhir.
+- **Langkah Penyelesaian:**
+  1. 8 × (0,5 + 1,5) − 1,5 = 16 − 1,5.
+  2. = 14,5 detik.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1545,6 +1921,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 14.20
 - C. 13.40
 - D. 13.20
+- **Konsep kunci:** Jumlahkan semua bagian lalu tambahkan pada jam berangkat.
+- **Langkah Penyelesaian:**
+  1. 2:47+0:38+4:12+0:21+1:07 = 9:05.
+  2. 04.55 + 9:05 = 14.00.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1560,6 +1940,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 11
 - C. 12
 - D. 13
+- **Konsep kunci:** Dalam 12 jam jarum jam dan menit berhimpit 11 kali.
+- **Langkah Penyelesaian:**
+  1. Bersamaan setiap 12/11 jam.
+  2. = 11 kali dalam 12 jam.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1575,6 +1959,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 22.18.00
 - C. 22.22.48
 - D. 22.23.48
+- **Konsep kunci:** Jam maju 12 detik/jam; hitung kelebihan dalam 24 jam.
+- **Langkah Penyelesaian:**
+  1. 24 × 12 = 288 detik = 4 menit 48 detik.
+  2. 22.18.00 + 4:48 = 22.22.48.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1590,6 +1978,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 130 jam
 - C. 110 jam
 - D. 105 jam
+- **Konsep kunci:** Kalikan jam per shift dengan hari tiap shift lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. Shift 1: 6×8 = 48; shift 2: 4×8 = 32; shift 3: 5×8 = 40.
+  2. Total = 120 jam.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1605,6 +1997,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 11.50
 - C. 12.00
 - D. 12.10
+- **Konsep kunci:** Bunyi ke-9 = 8 × 35 menit setelah bunyi pertama.
+- **Langkah Penyelesaian:**
+  1. 8 × 35 = 280 menit = 4 jam 40 menit.
+  2. 07.00 + 4:40 = 11.40.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1620,6 +2016,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. ≈ 294,5°
 - C. ≈ 300°
 - D. ≈ 327,3°
+- **Konsep kunci:** Jarum menit dan jam berhimpit saat 6t = 270 + 0,5t.
+- **Langkah Penyelesaian:**
+  1. 5,5t = 270 → t = 49,09 menit.
+  2. Sudut menit = 6 × 49,09 ≈ 294,5°.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1635,6 +2035,10 @@ Jawab: 2 jam 44 menit 35 detik ✅
 - B. 19 jam 50 menit 0 detik
 - C. 19 jam 49 menit 40 detik
 - D. 20 jam 50 menit 40 detik
+- **Konsep kunci:** Ubah semua ke detik lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 13.628 + 522 + 51.797 + 4.013 + 1.460.
+  2. = 71.420 detik = 19 jam 50 menit 20 detik.
 
 **Kunci: A**
 **Pembahasan:**

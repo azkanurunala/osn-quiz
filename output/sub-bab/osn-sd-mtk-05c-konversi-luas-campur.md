@@ -76,6 +76,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10
 - C. 1.000
 - D. 1.000.000
+- **Konsep kunci:** Tangga satuan luas tiap turun 1 tingkat dikali 100 (bukan 10).
+- **Langkah Penyelesaian:**
+  1. Ingat: luas = hasil kali dua ukuran panjang.
+  2. Tiap turun 1 tingkat dikali 100.
+  3. Jawabannya 100.
 
 **Kunci: A**
 **Pembahasan:**
@@ -91,6 +96,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 100 dm²
 - C. 1.000 dm²
 - D. 10.000 dm²
+- **Konsep kunci:** 1 m² = 10.000 cm² (turun 2 tingkat × 100 × 100).
+- **Langkah Penyelesaian:**
+  1. m² → dm² × 100 → cm² × 100.
+  2. Kalikan 1 dengan 10.000.
+  3. 1 m² = 10.000 cm².
 
 **Kunci: B**
 **Pembahasan:**
@@ -106,6 +116,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 50
 - C. 100
 - D. 1.000
+- **Konsep kunci:** Tangga luas: cm² ke mm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1 dengan 100.
+  2. 1 cm² = 100 mm².
 
 **Kunci: C**
 **Pembahasan:**
@@ -121,6 +135,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10.000
 - C. 100.000
 - D. 1.000.000
+- **Konsep kunci:** km² ke m² turun 3 tingkat = dikali 100³ = 1.000.000.
+- **Langkah Penyelesaian:**
+  1. Hitung banyak tingkat: km²-hm²-dam²-m² = 3.
+  2. Kalikan 1 dengan 1.000.000.
+  3. 1 km² = 1.000.000 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -136,6 +155,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 50.000
 - C. 5.000
 - D. 500.000
+- **Konsep kunci:** m² ke cm² turun 2 tingkat = dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 dengan 10.000.
+  2. 5 m² = 50.000 cm².
 
 **Kunci: B**
 **Pembahasan:**
@@ -151,6 +174,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2.000
 - C. 200
 - D. 200.000
+- **Konsep kunci:** hm² ke m² turun 2 tingkat = dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2 dengan 10.000.
+  2. 2 hm² = 20.000 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -166,6 +193,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000 m²
 - C. 10.000 m²
 - D. 100.000 m²
+- **Konsep kunci:** 1 ha (hektar) = 1 hm² = 10.000 m².
+- **Langkah Penyelesaian:**
+  1. Ingat: hektar = hekto-are = 100 are.
+  2. 1 ha = 10.000 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -181,6 +212,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000 m²
 - C. 10.000 m²
 - D. 100 m²
+- **Konsep kunci:** 1 are (a) = 1 dam² = 100 m².
+- **Langkah Penyelesaian:**
+  1. Ingat: are setara dam².
+  2. 1 are = 100 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -196,6 +231,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 700
 - C. 7.000
 - D. 70.000
+- **Konsep kunci:** km² ke hm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 7 dengan 100.
+  2. 7 km² = 700 hm².
 
 **Kunci: B**
 **Pembahasan:**
@@ -211,6 +250,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 0,3
 - C. 3
 - D. 3.000
+- **Konsep kunci:** dm² ke m² naik 1 tingkat = dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 300 dengan 100.
+  2. 300 dm² = 3 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -226,6 +269,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 25
 - C. 0,25
 - D. 250
+- **Konsep kunci:** cm² ke m² naik 2 tingkat = dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 25.000 dengan 10.000.
+  2. 25.000 cm² = 2,5 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -241,6 +288,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 6.000
 - C. 60.000
 - D. 600
+- **Konsep kunci:** m² ke dm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 6 dengan 100.
+  2. 6 m² = 600 dm².
 
 **Kunci: D**
 **Pembahasan:**
@@ -256,6 +307,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 400
 - C. 4.000
 - D. 0,04
+- **Konsep kunci:** dam² ke m² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 100.
+  2. 4 dam² = 400 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -271,6 +326,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 7 ha
 - C. 70 ha
 - D. 0,07 ha
+- **Konsep kunci:** 1 ha = 10.000 m², sehingga m² ke ha dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 7.000 dengan 10.000.
+  2. 7.000 m² = 0,7 ha.
 
 **Kunci: A**
 **Pembahasan:**
@@ -286,6 +345,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 3.000
 - C. 30.000
 - D. 300.000
+- **Konsep kunci:** 1 ha = 10.000 m², sehingga ha ke m² dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3 dengan 10.000.
+  2. 3 ha = 30.000 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -301,6 +364,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000
 - C. 10.000
 - D. 100
+- **Konsep kunci:** 1 ha = 100 are (karena 1 are = 100 m² dan 1 ha = 10.000 m²).
+- **Langkah Penyelesaian:**
+  1. Hitung 10.000 ÷ 100.
+  2. 1 ha = 100 are.
 
 **Kunci: D**
 **Pembahasan:**
@@ -316,6 +383,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10
 - C. 208
 - D. 28
+- **Konsep kunci:** Samakan satuan ke m² dulu lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 200 dm² = 2 m².
+  2. Jumlahkan: 8 + 2.
+  3. Hasilnya 10 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -331,6 +403,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10 m²
 - C. 25 m²
 - D. 500 m²
+- **Konsep kunci:** Luas persegi = sisi × sisi.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5 × 5.
+  2. Luas = 25 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -346,6 +422,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2.500
 - C. 25.000
 - D. 2.500.000
+- **Konsep kunci:** m² ke cm² turun 2 tingkat = dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 25 dengan 10.000.
+  2. 25 m² = 250.000 cm².
 
 **Kunci: A**
 **Pembahasan:**
@@ -361,6 +441,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 9
 - C. 0,09
 - D. 0,9
+- **Konsep kunci:** m² ke ha dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 9.000 dengan 10.000.
+  2. 9.000 m² = 0,9 ha.
 
 **Kunci: D**
 **Pembahasan:**
@@ -376,6 +460,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 100 m²
 - C. 1.000 m²
 - D. 10.000 m²
+- **Konsep kunci:** 1 dam² = 100 m².
+- **Langkah Penyelesaian:**
+  1. Ganti dam² dengan m².
+  2. 1 dam² = 100 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -391,6 +479,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 50
 - C. 500
 - D. 5.000
+- **Konsep kunci:** mm² ke cm² naik 1 tingkat = dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 50.000 dengan 100.
+  2. 50.000 mm² = 500 cm².
 
 **Kunci: C**
 **Pembahasan:**
@@ -406,6 +498,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 70 m²
 - C. 35 m²
 - D. 30 m²
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Kalikan 20 × 15.
+  2. Luas = 300 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -421,6 +517,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 30.000
 - C. 0,3
 - D. 3
+- **Konsep kunci:** 1 are = 100 m², sehingga m² ke are dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 300 dengan 100.
+  2. 300 m² = 3 are.
 
 **Kunci: D**
 **Pembahasan:**
@@ -436,6 +536,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 40.000
 - C. 400
 - D. 4.000.000
+- **Konsep kunci:** km² ke dam² turun 2 tingkat = dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 4 dengan 10.000.
+  2. 4 km² = 40.000 dam².
 
 **Kunci: B**
 **Pembahasan:**
@@ -451,6 +555,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 500
 - C. 5.000
 - D. 50.000
+- **Konsep kunci:** m² ke cm² turun 2 tingkat = dikali 10.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,5 dengan 10.000.
+  2. 0,5 m² = 5.000 cm².
 
 **Kunci: C**
 **Pembahasan:**
@@ -466,6 +574,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 25 m²
 - C. 0,25 m²
 - D. 250 m²
+- **Konsep kunci:** dm² ke m² naik 1 tingkat = dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 250 dengan 100.
+  2. 250 dm² = 2,5 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -481,6 +593,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 30.000
 - C. 3
 - D. 30
+- **Konsep kunci:** mm² ke cm² naik 1 tingkat = dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 3.000 dengan 100.
+  2. 3.000 mm² = 30 cm².
 
 **Kunci: D**
 **Pembahasan:**
@@ -496,6 +612,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1 m² = 100 dm²
 - C. 1 cm² = 10 mm²
 - D. 1 dm² = 1.000 cm²
+- **Konsep kunci:** Hubungan antar satuan luas: 1 m² = 100 dm² = 10.000 cm².
+- **Langkah Penyelesaian:**
+  1. Periksa tiap pilihan terhadap tangga luas.
+  2. 1 m² = 100 dm² sesuai rumus (turun 1 × 100).
+  3. Pernyataan yang benar = 1 m² = 100 dm².
 
 **Kunci: B**
 **Pembahasan:**
@@ -511,6 +632,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 20
 - C. 2
 - D. 200
+- **Konsep kunci:** m² ke ha dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 20.000 dengan 10.000.
+  2. 20.000 m² = 2 ha.
 
 **Kunci: C**
 **Pembahasan:**
@@ -526,6 +651,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 15 ha
 - C. 150 ha
 - D. 1,5 ha
+- **Konsep kunci:** m² ke ha dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 15.000 dengan 10.000.
+  2. 15.000 m² = 1,5 ha.
 
 **Kunci: D**
 **Pembahasan:**
@@ -541,6 +670,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 15
 - C. 42
 - D. 120
+- **Konsep kunci:** Samakan ke m² dulu lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 3 dam² = 300 m².
+  2. Jumlahkan: 12 + 300.
+  3. Hasilnya 312 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -556,6 +690,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1
 - C. 10
 - D. 0,1
+- **Konsep kunci:** 1 hm² = 1 ha.
+- **Langkah Penyelesaian:**
+  1. hm² dan ha bernilai sama.
+  2. 1 hm² = 1 ha.
 
 **Kunci: B**
 **Pembahasan:**
@@ -571,6 +709,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 450
 - C. 45
 - D. 0,45
+- **Konsep kunci:** cm² ke dm² naik 1 tingkat = dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 4.500 dengan 100.
+  2. 4.500 cm² = 45 dm².
 
 **Kunci: C**
 **Pembahasan:**
@@ -586,6 +728,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2.000
 - C. 200.000
 - D. 20.000
+- **Konsep kunci:** km² ke m² turun 3 tingkat = dikali 1.000.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,02 dengan 1.000.000.
+  2. 0,02 km² = 20.000 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -601,6 +747,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 90
 - C. 9.000
 - D. 0,09
+- **Konsep kunci:** dm² ke cm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 9 dengan 100.
+  2. 9 dm² = 900 cm².
 
 **Kunci: A**
 **Pembahasan:**
@@ -616,6 +766,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 600
 - C. 6.000
 - D. 60.000
+- **Konsep kunci:** 1 are = 100 m², sehingga are ke m² dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 6 dengan 100.
+  2. 6 are = 600 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -631,6 +785,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 24
 - C. 6
 - D. 4,02
+- **Konsep kunci:** Samakan ke ha: 1 are = 0,01 ha, lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 200 are = 2 ha.
+  2. Jumlahkan: 4 + 2.
+  3. Hasilnya 6 ha.
 
 **Kunci: C**
 **Pembahasan:**
@@ -646,6 +805,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 800
 - C. 0,8
 - D. 8
+- **Konsep kunci:** cm² ke m² naik 2 tingkat = dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 80.000 dengan 10.000.
+  2. 80.000 cm² = 8 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -661,6 +824,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10
 - C. 1.000
 - D. 10.000
+- **Konsep kunci:** 1 km² = 100 ha (turun 2 tingkat dari km² ke ha? 1 km² = 1.000.000 m² ÷ 10.000).
+- **Langkah Penyelesaian:**
+  1. Ubah 1 km² = 1.000.000 m².
+  2. Bagi dengan 10.000 m²/ha.
+  3. 1 km² = 100 ha.
 
 **Kunci: A**
 **Pembahasan:**
@@ -676,6 +844,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000 m²
 - C. 130 m²
 - D. 1.040 m²
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Kalikan 25 × 40.
+  2. Luas = 1.000 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -691,6 +863,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10
 - C. 0,1
 - D. 0,01
+- **Konsep kunci:** 1 ha = 10.000 m², sehingga m² ke ha dibagi 10.000.
+- **Langkah Penyelesaian:**
+  1. Bagi 1.000 dengan 10.000.
+  2. 1.000 m² = 0,1 ha.
 
 **Kunci: C**
 **Pembahasan:**
@@ -706,6 +882,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 750
 - C. 0,0075
 - D. 75
+- **Konsep kunci:** m² ke dm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,75 dengan 100.
+  2. 0,75 m² = 75 dm².
 
 **Kunci: D**
 **Pembahasan:**
@@ -721,6 +901,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 70
 - C. 7.000
 - D. 70.000
+- **Konsep kunci:** 1 ha = 100 are = 100 dam², sehingga ha ke dam² dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 7 dengan 100.
+  2. 7 ha = 700 dam².
 
 **Kunci: A**
 **Pembahasan:**
@@ -736,6 +920,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 162 m²
 - C. 54 m²
 - D. 1.620 m²
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar.
+- **Langkah Penyelesaian:**
+  1. Kalikan 18 × 9.
+  2. Luas = 162 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -751,6 +939,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 50
 - C. 5
 - D. 500
+- **Konsep kunci:** 1 ha = 100 are, sehingga are ke ha dibagi 100.
+- **Langkah Penyelesaian:**
+  1. Bagi 500 dengan 100.
+  2. 500 are = 5 ha.
 
 **Kunci: C**
 **Pembahasan:**
@@ -766,6 +958,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. hektar
 - C. are
 - D. liter
+- **Konsep kunci:** Satuan luas: km², hm²/ha, dam²/are, m², dm², cm², mm².
+- **Langkah Penyelesaian:**
+  1. Periksa mana yang bukan satuan luas.
+  2. Liter adalah satuan volume/isi.
+  3. Yang bukan satuan luas = liter.
 
 **Kunci: D**
 **Pembahasan:**
@@ -781,6 +978,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 53
 - C. 8
 - D. 3,05
+- **Konsep kunci:** Samakan ke m² dulu lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 50 dm² = 0,5 m².
+  2. Jumlahkan: 3 + 0,5.
+  3. Hasilnya 3,5 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -796,6 +998,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 25.000
 - C. 25
 - D. 250.000
+- **Konsep kunci:** cm² ke mm² turun 1 tingkat = dikali 100.
+- **Langkah Penyelesaian:**
+  1. Kalikan 250 dengan 100.
+  2. 250 cm² = 25.000 mm².
 
 **Kunci: B**
 **Pembahasan:**
@@ -811,6 +1017,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2
 - C. 200
 - D. 2.000
+- **Konsep kunci:** Bagi luas tanah dengan luas rumah; samakan ke m².
+- **Langkah Penyelesaian:**
+  1. 2 ha = 20.000 m².
+  2. Bagi: 20.000 ÷ 100.
+  3. Rumah yang bisa dibangun = 200.
 
 **Kunci: C**
 **Pembahasan:**
@@ -828,6 +1039,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 100.000
 - C. 1.000
 - D. 100
+- **Konsep kunci:** Samakan satuan panjang ke m lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. 0,2 km = 200 m.
+  2. Luas = 200 × 50 = 10.000 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -843,6 +1058,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 52.500
 - C. 525.000
 - D. 5.250
+- **Konsep kunci:** Ubah ha dan are ke m² lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 5 ha = 50.000 m²; 25 are = 2.500 m².
+  2. Jumlahkan: 50.000 + 2.500.
+  3. Total = 52.500 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -858,6 +1078,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 200
 - C. 295
 - D. 2.995
+- **Konsep kunci:** Samakan ke hm² lalu kurangi.
+- **Langkah Penyelesaian:**
+  1. 3 km² = 300 hm².
+  2. Kurangi: 300 − 5.
+  3. Hasilnya 295 hm².
 
 **Kunci: C**
 **Pembahasan:**
@@ -873,6 +1098,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 12 m²
 - C. 36 m²
 - D. 60 m²
+- **Konsep kunci:** Jumlahkan luas dua persegi panjang penyusunnya.
+- **Langkah Penyelesaian:**
+  1. Bagian 1 = 8 × 6 = 48 m²; bagian 2 = 4 × 3 = 12 m².
+  2. Jumlahkan: 48 + 12.
+  3. Luas total = 60 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -888,6 +1118,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000 m
 - C. 10 m
 - D. 10.000 m
+- **Konsep kunci:** Sisi persegi = akar dari luas; samakan satuan.
+- **Langkah Penyelesaian:**
+  1. 1 ha = 10.000 m².
+  2. Sisi = √10.000 = 100 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -903,6 +1137,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 64
 - C. 32
 - D. 8
+- **Konsep kunci:** Samakan ke cm² lalu bagi luas lantai dengan luas ubin.
+- **Langkah Penyelesaian:**
+  1. Lantai = 4 m² = 40.000 cm²; ubin = 25 × 25 = 625 cm².
+  2. Bagi: 40.000 ÷ 625.
+  3. Ubin yang dibutuhkan = 64.
 
 **Kunci: B**
 **Pembahasan:**
@@ -918,6 +1157,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 800
 - C. 8.000
 - D. 80.000
+- **Konsep kunci:** km² ke m² turun 3 tingkat = dikali 1.000.000.
+- **Langkah Penyelesaian:**
+  1. Kalikan 0,008 dengan 1.000.000.
+  2. 0,008 km² = 8.000 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -933,6 +1176,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 300
 - C. 30.000
 - D. 300.000
+- **Konsep kunci:** Ubah hm² ke cm² lalu bagi luas halaman dengan luas paving.
+- **Langkah Penyelesaian:**
+  1. 0,75 hm² = 7.500 m² = 75.000.000 cm²; paving = 50 × 50 = 2.500 cm².
+  2. Bagi: 75.000.000 ÷ 2.500.
+  3. Banyak paving = 30.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -948,6 +1196,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 10 m²
 - C. 27 m²
 - D. 7 m²
+- **Konsep kunci:** Luas pinggiran = luas persegi luar − luas kolam.
+- **Langkah Penyelesaian:**
+  1. Kolam = 4 × 2,5 = 10 m².
+  2. Luas luar = (4+2) × (2,5+2) = 6 × 4,5 = 27 m².
+  3. Pinggiran = 27 − 10 = 17 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -963,6 +1216,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 44.000
 - C. 30.000
 - D. 50.000
+- **Konsep kunci:** Ubah semua ke m² lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 2,5 ha = 25.000; 150 are = 15.000; 4.000 m².
+  2. Jumlahkan: 25.000 + 15.000 + 4.000.
+  3. Total = 44.000 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -978,6 +1236,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 13 cm
 - C. 12 cm
 - D. 11 cm
+- **Konsep kunci:** Sisi persegi = akar pangkat dua dari luas.
+- **Langkah Penyelesaian:**
+  1. Sisi = √144.
+  2. Sisi = 12 cm.
 
 **Kunci: C**
 **Pembahasan:**
@@ -993,6 +1255,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 6.000.000
 - C. Rp 150.000
 - D. Rp 1.500.000
+- **Konsep kunci:** Luas ruangan lalu kalikan harga per m².
+- **Langkah Penyelesaian:**
+  1. Luas = 5 × 4 = 20 m².
+  2. Biaya = 20 × 75.000.
+  3. = Rp1.500.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1008,6 +1275,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 14 m
 - C. 16 m
 - D. 240 m
+- **Konsep kunci:** Panjang = luas ÷ lebar.
+- **Langkah Penyelesaian:**
+  1. Bagi: 60 ÷ 4.
+  2. Panjang = 15 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1023,6 +1294,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 32.600
 - C. 33.000
 - D. 30.025
+- **Konsep kunci:** Ubah semua ke m² lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 3 hm² = 30.000 m²; 25 dam² = 2.500 m².
+  2. Jumlahkan: 30.000 + 2.500 + 100.
+  3. Total = 32.600 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -1038,6 +1314,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 60 m²
 - C. 72 m²
 - D. 144 m²
+- **Konsep kunci:** Luas trapesium = (jumlah sisi sejajar) × tinggi ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Jumlah sisi sejajar = 10 + 14 = 24 m.
+  2. Luas = 24 × 6 ÷ 2.
+  3. Luas = 72 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1053,6 +1334,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 2.000.000
 - C. Rp 25.000.000
 - D. Rp 20.000.000
+- **Konsep kunci:** Luas lalu kalikan harga per m².
+- **Langkah Penyelesaian:**
+  1. Luas = 800 m².
+  2. Biaya = 800 × 25.000.
+  3. = Rp20.000.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1068,6 +1354,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 4.000 kg
 - C. 6.000 kg
 - D. 240 kg
+- **Konsep kunci:** Luas sawah lalu kalikan hasil per m².
+- **Langkah Penyelesaian:**
+  1. Luas = 80 × 50 = 4.000 m².
+  2. Hasil = 4.000 × 6.
+  3. = 24.000 kg.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1083,6 +1374,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2.320 m²
 - C. 2.400 m²
 - D. 80 m²
+- **Konsep kunci:** Luas kebun dikurangi luas kolam.
+- **Langkah Penyelesaian:**
+  1. Kebun = 60 × 40 = 2.400 m²; kolam = 10 × 8 = 80 m².
+  2. Sisa = 2.400 − 80.
+  3. = 2.320 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -1098,6 +1394,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 250 m²
 - C. 10 m²
 - D. 1 m²
+- **Konsep kunci:** Samakan satuan ke m lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. 25 dm = 2,5 m.
+  2. Luas = 2,5 × 4 = 10 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1113,6 +1413,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 88 m²
 - C. 308 m²
 - D. 616 m²
+- **Konsep kunci:** Luas lingkaran = π × r².
+- **Langkah Penyelesaian:**
+  1. Luas = 22/7 × 14 × 14.
+  2. 22/7 × 196 = 616.
+  3. Luas = 616 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -1128,6 +1433,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 200 m²
 - C. 20.000 m²
 - D. 20 m²
+- **Konsep kunci:** Jarak peta × skala untuk mendapat ukuran asli lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. Panjang asli = 5 × 1.000 = 5.000 cm = 50 m; lebar = 40 m.
+  2. Luas = 50 × 40 = 2.000 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1143,6 +1452,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 9,6
 - C. 0,96
 - D. 960
+- **Konsep kunci:** Samakan ke m lalu hitung luas, ubah ke are.
+- **Langkah Penyelesaian:**
+  1. 0,12 hm = 12 m.
+  2. Luas = 12 × 80 = 960 m².
+  3. 960 m² = 9,6 are.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1158,6 +1472,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 50
 - C. 200
 - D. 2.000
+- **Konsep kunci:** Ubah km² ke ha lalu bagi luas kebun dengan luas petak.
+- **Langkah Penyelesaian:**
+  1. 4 km² = 400 ha.
+  2. Bagi: 400 ÷ 2.
+  3. Banyak petak = 200.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1173,6 +1492,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.000
 - C. 33
 - D. 334
+- **Konsep kunci:** Bagi luas lantai dengan luas ubin lalu bulatkan ke atas.
+- **Langkah Penyelesaian:**
+  1. Lantai = 6 × 5 = 30 m² = 300.000 cm².
+  2. Ubin = 30 × 30 = 900 cm²; 300.000 ÷ 900 ≈ 333,3.
+  3. Ubin minimal = 334.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1188,6 +1512,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 22,5
 - C. 225
 - D. 0,225
+- **Konsep kunci:** Ubah dm ke m lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. 15 dm = 1,5 m.
+  2. Luas = 1,5 × 1,5.
+  3. = 2,25 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1203,6 +1532,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 12.500.000.000
 - C. Rp 125.000.000
 - D. Rp 1.250.000
+- **Konsep kunci:** Ubah ha ke m² lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. 2,5 ha = 25.000 m².
+  2. Harga = 25.000 × 500.000.
+  3. = Rp12.500.000.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1218,6 +1552,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 108 m²
 - C. 54 m²
 - D. 36 m²
+- **Konsep kunci:** Luas segitiga = alas × tinggi ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Luas = 12 × 9 ÷ 2.
+  2. Luas = 54 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1233,6 +1571,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 19.500
 - C. 5.000
 - D. 15.000
+- **Konsep kunci:** Ubah ke m² lalu cari selisih.
+- **Langkah Penyelesaian:**
+  1. 2 hm² = 20.000 m²; 50 are = 5.000 m².
+  2. Selisih = 20.000 − 5.000.
+  3. = 15.000 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -1248,6 +1591,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 60 m²
 - C. 120 m²
 - D. 15 m²
+- **Konsep kunci:** Luas halaman lalu kalikan bagian kolam.
+- **Langkah Penyelesaian:**
+  1. Luas = 12 × 10 = 120 m².
+  2. Kolam = ¼ × 120.
+  3. = 30 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1263,6 +1611,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 63.000.000
 - C. Rp 6.300.000
 - D. Rp 630.000
+- **Konsep kunci:** Hitung luas, hasil panen, lalu nilai jual.
+- **Langkah Penyelesaian:**
+  1. Luas = 50 × 30 = 1.500 m².
+  2. Hasil = 1.500 × 7 = 10.500 kg.
+  3. Uang = 10.500 × 6.000 = Rp63.000.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1280,6 +1633,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 6.000 kg
 - C. 3.000 kg
 - D. 600 kg
+- **Konsep kunci:** Hitung luas bagian jagung lalu kalikan hasil per m².
+- **Langkah Penyelesaian:**
+  1. Luas jagung = 40 × 15 = 600 m².
+  2. Hasil = 600 × 5.
+  3. = 3.000 kg.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1295,6 +1653,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 30
 - C. 0,03
 - D. 3
+- **Konsep kunci:** Ukuran peta × skala ke km lalu hitung luas.
+- **Langkah Penyelesaian:**
+  1. Panjang asli = 4 × 50.000 = 200.000 cm = 2 km; lebar = 3 × 50.000 = 150.000 cm = 1,5 km.
+  2. Luas = 2 × 1,5 = 3 km².
 
 **Kunci: D**
 **Pembahasan:**
@@ -1310,6 +1672,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 9 m dan 4 m
 - C. 36 m dan 16 m
 - D. 12 m dan 12 m
+- **Konsep kunci:** Gunakan perbandingan: misal panjang = 9x, lebar = 4x.
+- **Langkah Penyelesaian:**
+  1. Luas = 9x × 4x = 36x² = 144, maka x² = 4, x = 2.
+  2. Panjang = 9 × 2 = 18 m; lebar = 4 × 2 = 8 m.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1325,6 +1691,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 576 m²
 - C. 4.800 m²
 - D. 5.376 m²
+- **Konsep kunci:** Luas jalan = luas persegi luar − luas lapangan.
+- **Langkah Penyelesaian:**
+  1. Luar = (80+4) × (60+4) = 84 × 64 = 5.376 m².
+  2. Dalam = 80 × 60 = 4.800 m².
+  3. Jalan = 5.376 − 4.800 = 576 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -1340,6 +1711,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 1.078 m²
 - C. 346,5 m²
 - D. 154 m²
+- **Konsep kunci:** Luas jalan = luas lingkaran luar − luas taman.
+- **Langkah Penyelesaian:**
+  1. Jari-jari taman = 14 m; luar = 14 + 3,5 = 17,5 m.
+  2. Selisih = 22/7 × (17,5² − 14²) = 22/7 × 110,25.
+  3. = 346,5 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1355,6 +1731,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2.500.000
 - C. 2.500
 - D. 250.000
+- **Konsep kunci:** Ubah luas ke cm² lalu bagi dengan luas 1 paving.
+- **Langkah Penyelesaian:**
+  1. 1 ha 25 are = 12.500 m² = 125.000.000 cm².
+  2. Paving = 25 × 20 = 500 cm².
+  3. Banyak paving = 125.000.000 ÷ 500 = 250.000.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1370,6 +1751,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 2,5 km²
 - C. 250 km²
 - D. 0,25 km²
+- **Konsep kunci:** Sisi peta × skala ke km lalu hitung luas persegi.
+- **Langkah Penyelesaian:**
+  1. Sisi asli = 2 × 250.000 = 500.000 cm = 5 km.
+  2. Luas = 5 × 5 = 25 km².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1385,6 +1770,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 24.000.000
 - C. Rp 30.000.000
 - D. Rp 48.000.000
+- **Konsep kunci:** Luas trapesium lalu kalikan harga rumput.
+- **Langkah Penyelesaian:**
+  1. Luas = (30+50) × 20 ÷ 2 = 800 m².
+  2. Biaya = 800 × 30.000.
+  3. = Rp24.000.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1400,6 +1790,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 450 m²
 - C. 750 m²
 - D. 500 m²
+- **Konsep kunci:** Gunakan perbandingan 2 : 3 : 5 untuk membagi luas.
+- **Langkah Penyelesaian:**
+  1. Total bagian = 2+3+5 = 10; bagian terbesar = 5/10.
+  2. Luas = 5/10 × 1.500 = 750 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1415,6 +1809,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 60
 - C. 400
 - D. 40
+- **Konsep kunci:** Bagi luas ladang dengan luas 1 petak.
+- **Langkah Penyelesaian:**
+  1. Ladang = 0,5 hm × 200 m = 50 × 200 = 10.000 m².
+  2. Petak = 25 × 10 = 250 m².
+  3. Banyak petak = 10.000 ÷ 250 = 40.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1430,6 +1829,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 12.000 m²
 - C. 7.500 m²
 - D. 13.500 m²
+- **Konsep kunci:** Hitung sisa pecahan lalu kalikan dengan luas sawah.
+- **Langkah Penyelesaian:**
+  1. Sisa = 1 − 2/5 − 1/4 = 20/20 − 8/20 − 5/20 = 7/20.
+  2. Kolam = 7/20 × 3 ha = 1,05 ha = 30.000 × 7/20.
+  3. = 10.500 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1445,6 +1849,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 189.000.000
 - C. Rp 252.000.000
 - D. Rp 1.890.000.000
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi lalu kalikan harga.
+- **Langkah Penyelesaian:**
+  1. Luas = 18 × 14 = 252 m².
+  2. Harga = 252 × 750.000.
+  3. = Rp189.000.000.
 
 **Kunci: B**
 **Pembahasan:**
@@ -1460,6 +1869,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. Rp 648.000.000
 - C. Rp 636.000.000
 - D. Rp 720.000.000
+- **Konsep kunci:** Luas lapangan − luas kolam lalu kalikan harga rumput.
+- **Langkah Penyelesaian:**
+  1. Lapangan = 90 × 60 = 5.400 m²; kolam = 10 × 10 = 100 m².
+  2. Sisa = 5.300 m².
+  3. Biaya = 5.300 × 120.000 = Rp636.000.000.
 
 **Kunci: C**
 **Pembahasan:**
@@ -1475,6 +1889,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 400
 - C. 40
 - D. 250
+- **Konsep kunci:** Ukuran peta × skala ke km, hitung luas, lalu ubah ke ha.
+- **Langkah Penyelesaian:**
+  1. 8 cm → 200.000 cm = 2 km; 5 cm → 125.000 cm = 1,25 km.
+  2. Luas = 2 × 1,25 = 2,5 km².
+  3. 2,5 km² = 250 ha.
 
 **Kunci: D**
 **Pembahasan:**
@@ -1490,6 +1909,10 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 7.776 m²
 - C. 8.000 m²
 - D. 6.800 m²
+- **Konsep kunci:** Luas area dalam = ukuran kebun dikurangi 2 × lebar jalan.
+- **Langkah Penyelesaian:**
+  1. Sayuran = (100−4) × (80−4).
+  2. = 96 × 76 = 7.296 m².
 
 **Kunci: A**
 **Pembahasan:**
@@ -1505,6 +1928,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 27.500
 - C. 19.500
 - D. 30.000
+- **Konsep kunci:** Ubah semua sawah ke m² lalu jumlahkan.
+- **Langkah Penyelesaian:**
+  1. 1,5 ha = 15.000 m²; 80 are = 8.000 m².
+  2. Jumlahkan: 15.000 + 8.000 + 4.500.
+  3. Total = 27.500 m².
 
 **Kunci: B**
 **Pembahasan:**
@@ -1520,6 +1948,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 392 m²
 - C. 378 m²
 - D. 420 m²
+- **Konsep kunci:** Luas dalam garis = ukuran dikurangi 2 × tebal garis.
+- **Langkah Penyelesaian:**
+  1. Panjang bermain = 28 − 1 = 27 m; lebar = 15 − 1 = 14 m.
+  2. Luas = 27 × 14.
+  3. = 378 m².
 
 **Kunci: C**
 **Pembahasan:**
@@ -1535,6 +1968,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 400 m²
 - C. 254 m²
 - D. 246 m²
+- **Konsep kunci:** Luas pekarangan − luas lingkaran kolam.
+- **Langkah Penyelesaian:**
+  1. Pekarangan = 25 × 16 = 400 m².
+  2. Kolam = 22/7 × 7 × 7 = 154 m².
+  3. Sisa = 400 − 154 = 246 m².
 
 **Kunci: D**
 **Pembahasan:**
@@ -1550,6 +1988,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 60
 - C. 6.000
 - D. 6
+- **Konsep kunci:** Ubah ukuran ke m lalu bagi luas dengan luas petak.
+- **Langkah Penyelesaian:**
+  1. 1,2 km = 1.200 m; luas = 1.200 × 800 = 960.000 m².
+  2. Petak = 40 × 40 = 1.600 m².
+  3. Banyak = 960.000 ÷ 1.600 = 600.
 
 **Kunci: A**
 **Pembahasan:**
@@ -1565,6 +2008,11 @@ Kalau ada bentuk persegi/persegi panjang, hitung luas dulu baru konversi.
 - B. 434 m²
 - C. 308 m²
 - D. 357 m²
+- **Konsep kunci:** Gabungan = luas setengah lingkaran + luas persegi panjang.
+- **Langkah Penyelesaian:**
+  1. Setengah lingkaran = 22/7 × 7 × 7 ÷ 2 = 77 m².
+  2. Persegi panjang = 14 × 20 = 280 m².
+  3. Total = 77 + 280 = 357 m².
 
 **Kunci: D**
 **Pembahasan:**

@@ -118,6 +118,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 80 × 4 = 320 (salah operasi: mengira 40% = 1/4 × N).
 - **C** — Salah. 80 × 40/100 = 32. Tertukar: mengalikan persen ke Y bukan membagi.
 - **D** — Salah. 80 + 40 = 120. Penjumlahan sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 80 ÷ (40/100) = 80 × 100/40 = 8.000/40 = 200.
+  3. Cek: 40% × 200 = 80 ✓.
 
 ---
 
@@ -132,6 +137,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 50 ÷ (25/100) = 50 × 4 = 200. Trik: 25% = 1/4, jadi N = Y × 4.
 - **C** — Salah. 50 × 25/100 = 12,5. Mengalikan persen, bukan membagi balik.
 - **D** — Salah. 50 + 75 = 125. Tidak ada dasar.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 50 ÷ (25/100) = 50 × 4 = 200.
+  3. Trik: 25% = 1/4, jadi N = Y × 4.
 
 ---
 
@@ -146,6 +156,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 30 × 20/100 = 6. Mengalikan persen ke Y, salah arah.
 - **C** — Benar. N = 30 ÷ (20/100) = 30 × 5 = 150. Trik: 20% = 1/5 → N = Y × 5.
 - **D** — Salah. 30 + 20 = 50. Asal jumlah.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 30 ÷ (20/100) = 30 × 5 = 150.
+  3. Trik: 20% = 1/5 → N = Y × 5.
 
 ---
 
@@ -160,6 +175,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 45 + 50 = 95. Asal jumlah.
 - **C** — Salah. 45 × 10/100 = 4,5. Salah persen.
 - **D** — Benar. N = 45 ÷ (50/100) = 45 × 2 = 90. Trik: 50% = 1/2 → N = Y × 2. Cek: 50% × 90 = 45 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 45 ÷ (50/100) = 45 × 2 = 90; Trik: 50% = 1/2 → N = Y × 2.
+  3. Cek: 50% × 90 = 45 ✓.
 
 ---
 
@@ -174,6 +194,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 70 + 10 = 80. Asal jumlah.
 - **C** — Salah. 70 × 10/100 = 7. Salah arah operasi.
 - **D** — Salah. 70 + 100 = 170. Asal.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 70 ÷ (10/100) = 70 × 10 = 700.
+  3. Trik: 10% = 1/10 → N = Y × 10.
 
 ---
 
@@ -188,6 +213,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 60 ÷ (75/100) = 60 × 100/75 = 6.000/75 = 80. Trik: 75% = 3/4 → N = Y × 4/3 = 60 × 4/3 = 80.
 - **C** — Salah. 60 + 75 = 135. Asal.
 - **D** — Salah. 60 ÷ 75 ≈ 0,8, lalu × 10 = 8. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 60 ÷ (75/100) = 60 × 100/75 = 6.000/75 = 80.
+  3. Trik: 75% = 3/4 → N = Y × 4/3 = 60 × 4/3 = 80.
 
 ---
 
@@ -202,6 +232,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 27 + 30 = 57. Asal jumlah.
 - **C** — Benar. N = 27 ÷ (30/100) = 27 × 100/30 = 2.700/30 = 90. Cek: 30% × 90 = 27 ✓.
 - **D** — Salah. 27/3 = 9. Mengira 30% = 1/3 (padahal 33⅓% yang = 1/3).
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 27 ÷ (30/100) = 27 × 100/30 = 2.700/30 = 90.
+  3. Cek: 30% × 90 = 27 ✓.
 
 ---
 
@@ -216,6 +251,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 48 + 60 = 108. Asal jumlah.
 - **C** — Salah. 48/6 = 8. Mengira 60% = 1/6 (padahal 60% = 3/5).
 - **D** — Benar. N = 48 ÷ (60/100) = 48 × 100/60 = 4.800/60 = 80. Cek: 60% × 80 = 48 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 48 ÷ (60/100) = 48 × 100/60 = 4.800/60 = 80.
+  3. Cek: 60% × 80 = 48 ✓.
 
 ---
 
@@ -230,6 +270,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 9 + 5 = 14. Asal jumlah.
 - **C** — Salah. 9 × 5 = 45. Hanya kalikan persen tanpa penyebut 100.
 - **D** — Salah. 9 × 5/100 = 0,45. Salah arah.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 9 ÷ (5/100) = 9 × 20 = 180; Trik: 5% = 1/20 → N = Y × 20.
+  3. Cek: 5% × 180 = 9 ✓.
 
 ---
 
@@ -244,6 +289,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 64 ÷ (80/100) = 64 × 100/80 = 6.400/80 = 80. Trik: 80% = 4/5 → N = Y × 5/4 = 64 × 1,25 = 80.
 - **C** — Salah. 64 + 80 = 144. Asal.
 - **D** — Salah. 64/8 = 8. Mengira 80% = 1/8.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 64 ÷ (80/100) = 64 × 100/80 = 6.400/80 = 80.
+  3. Trik: 80% = 4/5 → N = Y × 5/4 = 64 × 1,25 = 80.
 
 ---
 
@@ -258,6 +308,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 45 + 15 = 60. Asal jumlah.
 - **C** — Benar. N = 45 ÷ (15/100) = 45 × 100/15 = 4.500/15 = 300. Cek: 15% × 300 = 45 ✓.
 - **D** — Salah. 45/1,5 = 30. Mengabaikan satuan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 45 ÷ (15/100) = 45 × 100/15 = 4.500/15 = 300.
+  3. Cek: 15% × 300 = 45 ✓.
 
 ---
 
@@ -272,6 +327,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 27 + 90 = 117. Asal.
 - **C** — Salah. 27/9 = 3. Mengira 90% = 1/9.
 - **D** — Benar. N = 27 ÷ (90/100) = 27 × 100/90 = 2.700/90 = 30. Cek: 90% × 30 = 27 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 27 ÷ (90/100) = 27 × 100/90 = 2.700/90 = 30.
+  3. Cek: 90% × 30 = 27 ✓.
 
 ---
 
@@ -286,6 +346,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 36 + 12 = 48. Asal jumlah.
 - **C** — Salah. 36 × 12/100 = 4,32. Salah arah.
 - **D** — Salah. 36/12 = 3. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 36 ÷ (12/100) = 36 × 100/12 = 3.600/12 = 300.
+  3. Cek: 12% × 300 = 36 ✓.
 
 ---
 
@@ -300,6 +365,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 16 ÷ (8/100) = 16 × 100/8 = 1.600/8 = 200. Cek: 8% × 200 = 16 ✓.
 - **C** — Salah. 16 + 8 = 24. Asal jumlah.
 - **D** — Salah. 16/8 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 16 ÷ (8/100) = 16 × 100/8 = 1.600/8 = 200.
+  3. Cek: 8% × 200 = 16 ✓.
 
 ---
 
@@ -314,6 +384,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 70 × 35/100 = 24,5. Salah arah.
 - **C** — Benar. N = 70 ÷ (35/100) = 70 × 100/35 = 7.000/35 = 200. Cek: 35% × 200 = 70 ✓.
 - **D** — Salah. 70/35 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 70 ÷ (35/100) = 70 × 100/35 = 7.000/35 = 200.
+  3. Cek: 35% × 200 = 70 ✓.
 
 ---
 
@@ -328,6 +403,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 90 × 45/100 = 40,5. Salah arah.
 - **C** — Salah. 90/20 = 4,5. Sembarang.
 - **D** — Benar. N = 90 ÷ (45/100) = 90 × 100/45 = 9.000/45 = 200. Cek: 45% × 200 = 90 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 90 ÷ (45/100) = 90 × 100/45 = 9.000/45 = 200.
+  3. Cek: 45% × 200 = 90 ✓.
 
 ---
 
@@ -342,6 +422,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 110 + 55 = 165. Asal jumlah.
 - **C** — Salah. 110 × 55/100 = 60,5. Salah arah.
 - **D** — Salah. 110/55 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 110 ÷ (55/100) = 110 × 100/55 = 11.000/55 = 200.
+  3. Cek: 55% × 200 = 110 ✓.
 
 ---
 
@@ -356,6 +441,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 130 ÷ (65/100) = 130 × 100/65 = 13.000/65 = 200. Cek: 65% × 200 = 130 ✓.
 - **C** — Salah. 130 × 65/100 = 84,5. Salah arah.
 - **D** — Salah. 130/65 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 130 ÷ (65/100) = 130 × 100/65 = 13.000/65 = 200.
+  3. Cek: 65% × 200 = 130 ✓.
 
 ---
 
@@ -370,6 +460,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 49 × 70/100 = 34,3. Salah arah.
 - **C** — Benar. N = 49 ÷ (70/100) = 49 × 100/70 = 4.900/70 = 70. Cek: 70% × 70 = 49 ✓.
 - **D** — Salah. 49/7 = 7. Mengira 70% = 1/7.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 49 ÷ (70/100) = 49 × 100/70 = 4.900/70 = 70.
+  3. Cek: 70% × 70 = 49 ✓.
 
 ---
 
@@ -384,6 +479,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 51 × 85/100 = 43,35. Salah arah.
 - **C** — Salah. 51/8,5 ≈ 6. Asal.
 - **D** — Benar. N = 51 ÷ (85/100) = 51 × 100/85 = 5.100/85 = 60. Cek: 85% × 60 = 51 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 51 ÷ (85/100) = 51 × 100/85 = 5.100/85 = 60.
+  3. Cek: 85% × 60 = 51 ✓.
 
 ---
 
@@ -398,6 +498,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 24 × 40/100 = 9,6. Salah arah, lagi pula permen tidak bisa pecahan.
 - **C** — Salah. 24 × 4 = 96. Salah trik: 40% bukan 1/4.
 - **D** — Benar. N = 24 ÷ (40/100) = 24 × 100/40 = 2.400/40 = 60. Cek: 40% × 60 = 24 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 24 ÷ (40/100) = 24 × 100/40 = 2.400/40 = 60.
+  3. Cek: 40% × 60 = 24 ✓.
 
 ---
 
@@ -412,6 +517,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 8 × 25/100 = 2. Salah arah; juga 2 siswa terlalu sedikit untuk kelas.
 - **C** — Benar. N = 8 ÷ (25/100) = 8 × 4 = 32. Trik: 25% = 1/4 → N = Y × 4.
 - **D** — Salah. 8 × 5 = 40. Mengira 25% = 1/5 (padahal 20% yang = 1/5).
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 8 ÷ (25/100) = 8 × 4 = 32.
+  3. Trik: 25% = 1/4 → N = Y × 4.
 
 ---
 
@@ -426,6 +536,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 600.000 ÷ (20/100) = 600.000 × 5 = 3.000.000. Trik: 20% = 1/5 → N = Y × 5. Cek: 20% × 3.000.000 = 600.000 ✓.
 - **C** — Salah. 600.000 × 20/100 = 120.000. Salah arah.
 - **D** — Salah. 600.000/20.000 = 30 → Rp 30.000. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 600.000 ÷ (20/100) = 600.000 × 5 = 3.000.000; Trik: 20% = 1/5 → N = Y × 5.
+  3. Cek: 20% × 3.000.000 = 600.000 ✓.
 
 ---
 
@@ -440,6 +555,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 75.000 + 10.000 = 85.000. Asal jumlah.
 - **C** — Salah. 75.000 × 10/100 = 7.500. Salah arah.
 - **D** — Salah. 75.000 + 100.000 = 175.000. Asal.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 75.000 ÷ (10/100) = 75.000 × 10 = 750.000.
+  3. Trik: 10% = 1/10 → N = Y × 10.
 
 ---
 
@@ -454,6 +574,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 35/2 ≈ 17. Salah arah pembagian.
 - **C** — Salah. 35 × 5 = 175. Salah trik (mengira 50% = 1/5).
 - **D** — Benar. N = 35 ÷ (50/100) = 35 × 2 = 70. Trik: 50% = 1/2 → N = Y × 2.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 35 ÷ (50/100) = 35 × 2 = 70.
+  3. Trik: 50% = 1/2 → N = Y × 2.
 
 ---
 
@@ -468,6 +593,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 45 × 30/100 = 13,5. Salah arah.
 - **C** — Benar. N = 45 ÷ (30/100) = 45 × 100/30 = 4.500/30 = 150. Cek: 30% × 150 = 45 ✓.
 - **D** — Salah. 45 × 2 = 90. Salah trik (mengira 30% = 1/2).
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 45 ÷ (30/100) = 45 × 100/30 = 4.500/30 = 150.
+  3. Cek: 30% × 150 = 45 ✓.
 
 ---
 
@@ -482,6 +612,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 600 ÷ (75/100) = 600 × 4/3 = 2.400/3 = 800. Trik: 75% = 3/4 → N = Y × 4/3.
 - **C** — Salah. 600 × 75/100 = 450. Salah arah.
 - **D** — Salah. 600 × 2 = 1.200. Salah trik.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 600 ÷ (75/100) = 600 × 4/3 = 2.400/3 = 800.
+  3. Trik: 75% = 3/4 → N = Y × 4/3.
 
 ---
 
@@ -496,6 +631,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 36 × 90/100 = 32,4. Salah arah; lagi pula siswa harus bulat.
 - **C** — Salah. 36/9 = 4. Mengira 90% = 1/9.
 - **D** — Salah. 36 + 90 = 126. Asal.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 36 ÷ (90/100) = 36 × 100/90 = 3.600/90 = 40.
+  3. Cek: 90% × 40 = 36 ✓.
 
 ---
 
@@ -510,6 +650,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 24 × 40/100 = 9,6. Salah arah.
 - **C** — Salah. 24 × 4 = 96. Salah trik (mengira 40% = 1/4).
 - **D** — Benar. N = 24 ÷ (40/100) = 24 × 100/40 = 60. Trik: 40% = 2/5 → N = Y × 5/2.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 24 ÷ (40/100) = 24 × 100/40 = 60.
+  3. Trik: 40% = 2/5 → N = Y × 5/2.
 
 ---
 
@@ -524,6 +669,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 18 × 60/100 = 10,8. Salah arah.
 - **C** — Benar. N = 18 ÷ (60/100) = 18 × 100/60 = 1.800/60 = 30. Cek: 60% × 30 = 18 ✓.
 - **D** — Salah. 18/6 = 3. Mengira 60% = 1/6.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 18 ÷ (60/100) = 18 × 100/60 = 1.800/60 = 30.
+  3. Cek: 60% × 30 = 18 ✓.
 
 ---
 
@@ -538,6 +688,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 60 ÷ (24/100) = 60 × 100/24 = 6.000/24 = 250. Cek: 24% × 250 = 60 ✓.
 - **C** — Salah. 60 + 24 = 84. Asal jumlah.
 - **D** — Salah. 60/24 = 2,5. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 60 ÷ (24/100) = 60 × 100/24 = 6.000/24 = 250.
+  3. Cek: 24% × 250 = 60 ✓.
 
 ---
 
@@ -552,6 +707,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 14 × 35/100 = 4,9. Salah arah.
 - **C** — Salah. 14 + 35 = 49. Asal.
 - **D** — Salah. 14 × 4 = 56. Salah trik (mengira 35% ≈ 25%).
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 14 ÷ (35/100) = 14 × 100/35 = 1.400/35 = 40.
+  3. Cek: 35% × 40 = 14 ✓.
 
 ---
 
@@ -566,6 +726,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 32 + 16 = 48. Asal jumlah.
 - **C** — Salah. 32/16 = 2. Mengabaikan persen.
 - **D** — Benar. N = 32 ÷ (16/100) = 32 × 100/16 = 3.200/16 = 200. Cek: 16% × 200 = 32 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 32 ÷ (16/100) = 32 × 100/16 = 3.200/16 = 200.
+  3. Cek: 16% × 200 = 32 ✓.
 
 ---
 
@@ -580,6 +745,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 12 + 4 = 16. Asal jumlah.
 - **C** — Benar. N = 12 ÷ (4/100) = 12 × 25 = 300. Trik: 4% = 1/25 → N = Y × 25.
 - **D** — Salah. 12/4 = 3. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 12 ÷ (4/100) = 12 × 25 = 300.
+  3. Trik: 4% = 1/25 → N = Y × 25.
 
 ---
 
@@ -594,6 +764,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 44 ÷ (22/100) = 44 × 100/22 = 4.400/22 = 200. Cek: 22% × 200 = 44 ✓.
 - **C** — Salah. 44 × 22/100 = 9,68. Salah arah.
 - **D** — Salah. 44/22 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 44 ÷ (22/100) = 44 × 100/22 = 4.400/22 = 200.
+  3. Cek: 22% × 200 = 44 ✓.
 
 ---
 
@@ -608,6 +783,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 240 + 80 = 320. Asal jumlah.
 - **C** — Salah. 240 × 80/100 = 192. Salah arah.
 - **D** — Salah. 240/8 = 30. Mengira 80% = 1/8.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 240 ÷ (80/100) = 240 × 100/80 = 24.000/80 = 300.
+  3. Cek: 80% × 300 = 240 ✓.
 
 ---
 
@@ -622,6 +802,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 27 × 18/100 = 4,86. Salah arah; lagi pula sapi harus bulat.
 - **C** — Salah. 27 × 6 = 162. Sembarang.
 - **D** — Benar. N = 27 ÷ (18/100) = 27 × 100/18 = 2.700/18 = 150. Cek: 18% × 150 = 27 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 27 ÷ (18/100) = 27 × 100/18 = 2.700/18 = 150.
+  3. Cek: 18% × 150 = 27 ✓.
 
 ---
 
@@ -636,6 +821,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 70 + 28 = 98. Asal jumlah.
 - **C** — Benar. N = 70 ÷ (28/100) = 70 × 100/28 = 7.000/28 = 250. Cek: 28% × 250 = 70 ✓.
 - **D** — Salah. 70/28 = 2,5. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 70 ÷ (28/100) = 70 × 100/28 = 7.000/28 = 250.
+  3. Cek: 28% × 250 = 70 ✓.
 
 ---
 
@@ -650,6 +840,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 90 ÷ (36/100) = 90 × 100/36 = 9.000/36 = 250. Cek: 36% × 250 = 90 ✓.
 - **C** — Salah. 90 × 36/100 = 32,4. Salah arah.
 - **D** — Salah. 90/36 = 2,5. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 90 ÷ (36/100) = 90 × 100/36 = 9.000/36 = 250.
+  3. Cek: 36% × 250 = 90 ✓.
 
 ---
 
@@ -664,6 +859,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 88 + 44 = 132. Asal.
 - **C** — Salah. 88 × 44/100 = 38,72. Salah arah.
 - **D** — Salah. 88/44 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 88 ÷ (44/100) = 88 × 100/44 = 8.800/44 = 200.
+  3. Cek: 44% × 200 = 88 ✓.
 
 ---
 
@@ -678,6 +878,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 144 ÷ (48/100) = 144 × 100/48 = 14.400/48 = 300. Cek: 48% × 300 = 144 ✓.
 - **C** — Salah. 144 × 48/100 = 69,12. Salah arah; juga halaman tidak pecahan.
 - **D** — Salah. Mengalikan jawaban benar dengan 2 tanpa alasan.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 144 ÷ (48/100) = 144 × 100/48 = 14.400/48 = 300.
+  3. Cek: 48% × 300 = 144 ✓.
 
 ---
 
@@ -692,6 +897,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 168 × 56/100 = 94,08. Salah arah.
 - **C** — Salah. 168 × 100/60 = 280. Persen di soal dibulatkan jadi 60%, padahal 56%.
 - **D** — Benar. N = 168 ÷ (56/100) = 168 × 100/56 = 16.800/56 = 300. Cek: 56% × 300 = 168 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 168 ÷ (56/100) = 168 × 100/56 = 16.800/56 = 300.
+  3. Cek: 56% × 300 = 168 ✓.
 
 ---
 
@@ -706,6 +916,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 32 + 64 = 96. Asal jumlah.
 - **C** — Salah. 32 × 64/100 = 20,48. Salah arah.
 - **D** — Salah. 32/64 = 0,5. Mengabaikan persen; lagi pula N pasti > Y.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 32 ÷ (64/100) = 32 × 100/64 = 3.200/64 = 50.
+  3. Cek: 64% × 50 = 32 ✓.
 
 ---
 
@@ -720,6 +935,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 380 × 95/100 = 361. Salah arah.
 - **C** — Benar. N = 380 ÷ (95/100) = 380 × 100/95 = 38.000/95 = 400. Cek: 95% × 400 = 380 ✓.
 - **D** — Salah. 380/10 = 38. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 380 ÷ (95/100) = 380 × 100/95 = 38.000/95 = 400.
+  3. Cek: 95% × 400 = 380 ✓.
 
 ---
 
@@ -734,6 +954,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 76 ÷ (38/100) = 76 × 100/38 = 7.600/38 = 200. Cek: 38% × 200 = 76 ✓.
 - **C** — Salah. 76 × 38/100 = 28,88. Salah arah.
 - **D** — Salah. 76/38 = 2. Mengabaikan persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 76 ÷ (38/100) = 76 × 100/38 = 7.600/38 = 200.
+  3. Cek: 38% × 200 = 76 ✓.
 
 ---
 
@@ -748,6 +973,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 128 × 32/100 = 40,96. Salah arah.
 - **C** — Salah. 128 + 64 = 192. Sembarang.
 - **D** — Benar. N = 128 ÷ (32/100) = 128 × 100/32 = 12.800/32 = 400. Cek: 32% × 400 = 128 ✓.
+- **Konsep kunci:** Mencari ukuran awal suatu bangun dari hubungan persen antar dua besaran, digabung dengan rumus luas/keliling.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 128 ÷ (32/100) = 128 × 100/32 = 12.800/32 = 400.
+  3. Cek: 32% × 400 = 128 ✓.
 
 ---
 
@@ -762,6 +992,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 5 + 25 = 30. Asal jumlah.
 - **C** — Salah. 5 × 25/100 = 1,25. Salah arah.
 - **D** — Salah. 5 + 1 = 6. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 5 ÷ (25/100) = 5 × 4 = 20; Trik: 25% = 1/4 → N = Y × 4.
+  3. Cek: 25% × 20 = 5 ✓.
 
 ---
 
@@ -776,6 +1011,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 36.000 × 18/100 = 6.480. Salah arah.
 - **C** — Benar. N = 36.000 ÷ (18/100) = 36.000 × 100/18 = 3.600.000/18 = 200.000. Cek: 18% × 200.000 = 36.000 ✓.
 - **D** — Salah. 36.000 × 10 = 360.000. Salah trik (mengira 18% = 10%).
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 36.000 ÷ (18/100) = 36.000 × 100/18 = 3.600.000/18 = 200.000.
+  3. Cek: 18% × 200.000 = 36.000 ✓.
 
 ---
 
@@ -790,6 +1030,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Benar. N = 21 ÷ (14/100) = 21 × 100/14 = 2.100/14 = 150. Cek: 14% × 150 = 21 ✓.
 - **C** — Salah. 21 × 14/100 = 2,94. Salah arah.
 - **D** — Salah. 21/3 = 7. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 21 ÷ (14/100) = 21 × 100/14 = 2.100/14 = 150.
+  3. Cek: 14% × 150 = 21 ✓.
 
 ---
 
@@ -804,6 +1049,11 @@ Soal balik langsung Tipe 1 ("X% dari ? = Y"); angka bulat & persen umum (10%, 20
 - **B** — Salah. 33 × 11 = 363. Tanpa membagi 100.
 - **C** — Salah. 33 × 11/100 = 3,63. Salah arah.
 - **D** — Benar. N = 33 ÷ (11/100) = 33 × 100/11 = 3.300/11 = 300. Cek: 11% × 300 = 33 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N = 33 ÷ (11/100) = 33 × 100/11 = 3.300/11 = 300.
+  3. Cek: 11% × 300 = 33 ✓.
 
 ---
 
@@ -824,6 +1074,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 80.000 + 20% × 80.000 = 80.000 + 16.000 = 96.000. Menambah diskon ke harga setelah diskon — diskon dihitung dari harga ASAL, bukan harga setelah.
 - **C** — Salah. Salah identifikasi: menganggap 80.000 = BAGIAN (20% dari ?) bukan AKHIR. 80.000 ÷ (20/100) = 400.000.
 - **D** — Salah. 80.000 − 16.000 = 64.000. Justru mengurangi lagi.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 20% → yang dibayar = 80% dari harga asli; N = 80.000 ÷ (80/100) = 80.000 × 100/80 = 100.000.
+  3. Cek: harga awal 100.000, diskon 20% = 20.000, sisa bayar 80.000 ✓.
 
 ---
 
@@ -838,6 +1093,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Diskon 25% → bayar 75%. N = 1.200.000 ÷ (75/100) = 1.200.000 × 4/3 = 1.600.000. Cek: 25% × 1.600.000 = 400.000; 1.600.000 − 400.000 = 1.200.000 ✓.
 - **C** — Salah. Mengira 1.200.000 = 25% dari ? → N = 4.800.000. Salah identifikasi BAGIAN vs AKHIR.
 - **D** — Salah. 1.200.000 × 75/100 = 900.000. Justru mengurangi.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 25% → bayar 75%; N = 1.200.000 ÷ (75/100) = 1.200.000 × 4/3 = 1.600.000.
+  3. Cek: 25% × 1.600.000 = 400.000; 1.600.000 − 400.000 = 1.200.000 ✓.
 
 ---
 
@@ -852,6 +1112,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 90.000 − 9.000 = 81.000. Justru mengurangi lagi.
 - **C** — Benar. Diskon 10% → bayar 90%. N = 90.000 ÷ (90/100) = 90.000 × 100/90 = 100.000. Cek: 10% × 100.000 = 10.000; 100.000 − 10.000 = 90.000 ✓.
 - **D** — Salah. Mengira 90.000 = 10% dari ? → N = 900.000.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 10% → bayar 90%; N = 90.000 ÷ (90/100) = 90.000 × 100/90 = 100.000.
+  3. Cek: 10% × 100.000 = 10.000; 100.000 − 10.000 = 90.000 ✓.
 
 ---
 
@@ -866,6 +1131,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. Mengira 3.300.000 = 10% dari ? → N = 33.000.000.
 - **C** — Salah. 3.300.000 − 270.000 = 3.030.000. Sembarang.
 - **D** — Benar. Naik 10% → gaji baru = 110% lama. N = 3.300.000 ÷ (110/100) = 3.300.000 × 100/110 = 3.000.000. Cek: 10% × 3.000.000 = 300.000; 3.000.000 + 300.000 = 3.300.000 ✓.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 10% → gaji baru = 110% lama; N = 3.300.000 ÷ (110/100) = 3.300.000 × 100/110 = 3.000.000.
+  3. Cek: 10% × 3.000.000 = 300.000; 3.000.000 + 300.000 = 3.300.000 ✓.
 
 ---
 
@@ -880,6 +1150,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 9.000.000 − 20% × 9.000.000 = 9.000.000 − 1.800.000 = 7.200.000. Kenaikan dihitung dari harga baru, salah arah.
 - **C** — Salah. Mengira 9.000.000 = 20% dari ? → N = 45.000.000.
 - **D** — Salah. 9.000.000 × 120/100 = 10.800.000. Malah dinaikkan lagi.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 20% → baru = 120% lama; N = 9.000.000 ÷ (120/100) = 9.000.000 × 100/120 = 7.500.000.
+  3. Cek: 20% × 7.500.000 = 1.500.000; 7.500.000 + 1.500.000 = 9.000.000 ✓.
 
 ---
 
@@ -894,6 +1169,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Diskon 30% → bayar 70%. N = 70.000 ÷ (70/100) = 70.000 × 100/70 = 100.000. Cek: 30% × 100.000 = 30.000; 100.000 − 30.000 = 70.000 ✓.
 - **C** — Salah. Mengira 70.000 = 30% dari ? → N ≈ 233.333.
 - **D** — Salah. 70.000 × 70/100 = 49.000. Malah dikurangi lagi.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 30% → bayar 70%; N = 70.000 ÷ (70/100) = 70.000 × 100/70 = 100.000.
+  3. Cek: 30% × 100.000 = 30.000; 100.000 − 30.000 = 70.000 ✓.
 
 ---
 
@@ -908,6 +1188,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 10.500 × 105/100 = 11.025. Malah dinaikkan lagi.
 - **C** — Benar. Naik 5% → baru = 105% lama. N = 10.500 ÷ (105/100) = 10.500 × 100/105 = 10.000. Cek: 5% × 10.000 = 500; 10.000 + 500 = 10.500 ✓.
 - **D** — Salah. Mengira 10.500 = 5% dari ? → N = 210.000.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 5% → baru = 105% lama; N = 10.500 ÷ (105/100) = 10.500 × 100/105 = 10.000.
+  3. Cek: 5% × 10.000 = 500; 10.000 + 500 = 10.500 ✓.
 
 ---
 
@@ -922,6 +1207,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 12.000.000 × 60/100 = 7.200.000. Malah dikurangi lagi.
 - **C** — Salah. Mengira 12.000.000 = 40% dari ? → N = 30.000.000. Salah identifikasi BAGIAN vs AKHIR.
 - **D** — Benar. Diskon 40% → bayar 60%. N = 12.000.000 ÷ (60/100) = 12.000.000 × 100/60 = 20.000.000. Cek: 40% × 20.000.000 = 8.000.000; 20.000.000 − 8.000.000 = 12.000.000 ✓.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 40% → bayar 60%; N = 12.000.000 ÷ (60/100) = 12.000.000 × 100/60 = 20.000.000.
+  3. Cek: 40% × 20.000.000 = 8.000.000; 20.000.000 − 8.000.000 = 12.000.000 ✓.
 
 ---
 
@@ -936,6 +1226,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 4.250.000 + 15% × 4.250.000 = 4.887.500. Pajak dihitung dari gaji bersih.
 - **C** — Salah. 4.250.000 × 85/100 = 3.612.500. Malah dipotong lagi.
 - **D** — Salah. Mengira 4.250.000 = 15% dari ? → N ≈ 28.333.333.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Pajak 15% → diterima 85%; N = 4.250.000 ÷ (85/100) = 4.250.000 × 100/85 = 5.000.000.
+  3. Cek: 15% × 5.000.000 = 750.000; 5.000.000 − 750.000 = 4.250.000 ✓.
 
 ---
 
@@ -950,6 +1245,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Naik 25% → baru = 125% lama. N = 5.000 ÷ (125/100) = 5.000 × 100/125 = 4.000. Cek: 25% × 4.000 = 1.000; 4.000 + 1.000 = 5.000 ✓.
 - **C** — Salah. 5.000 × 125/100 = 6.250. Malah dinaikkan lagi.
 - **D** — Salah. Mengira 5.000 = 25% dari ? → N = 20.000.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 25% → baru = 125% lama; N = 5.000 ÷ (125/100) = 5.000 × 100/125 = 4.000.
+  3. Cek: 25% × 4.000 = 1.000; 4.000 + 1.000 = 5.000 ✓.
 
 ---
 
@@ -964,6 +1264,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 130.000 × 65/100 = 84.500. Malah dikurangi lagi.
 - **C** — Benar. Diskon 35% → bayar 65%. N = 130.000 ÷ (65/100) = 130.000 × 100/65 = 200.000. Cek: 35% × 200.000 = 70.000; 200.000 − 70.000 = 130.000 ✓.
 - **D** — Salah. Mengira 130.000 = 35% dari ? → N ≈ 371.428.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 35% → bayar 65%; N = 130.000 ÷ (65/100) = 130.000 × 100/65 = 200.000.
+  3. Cek: 35% × 200.000 = 70.000; 200.000 − 70.000 = 130.000 ✓.
 
 ---
 
@@ -978,6 +1283,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 5.400.000 × 108/100 = 5.832.000. Malah ditambah lagi.
 - **C** — Salah. Mengira 5.400.000 = 8% dari ? → N = 67.500.000.
 - **D** — Benar. Bunga 8% → saldo akhir = 108% modal. N = 5.400.000 ÷ (108/100) = 5.400.000 × 100/108 = 5.000.000. Cek: 8% × 5.000.000 = 400.000; 5.000.000 + 400.000 = 5.400.000 ✓.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Bunga 8% → saldo akhir = 108% modal; N = 5.400.000 ÷ (108/100) = 5.400.000 × 100/108 = 5.000.000.
+  3. Cek: 8% × 5.000.000 = 400.000; 5.000.000 + 400.000 = 5.400.000 ✓.
 
 ---
 
@@ -992,6 +1302,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 91 − 30% × 91 ≈ 63,7 ≈ 63. Kenaikan dihitung dari hasil baru, salah arah.
 - **C** — Salah. 91 × 130/100 ≈ 118. Malah dinaikkan lagi.
 - **D** — Salah. Mengira 91 = 30% dari ? → N ≈ 303 (di sini dibulatkan menjadi 273 sebagai umpan tak akurat).
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 30% → baru = 130%; N = 91 ÷ (130/100) = 91 × 100/130 = 9.100/130 = 70.
+  3. Cek: 30% × 70 = 21; 70 + 21 = 91 ✓.
 
 ---
 
@@ -1006,6 +1321,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Diskon 45% → bayar 55%. N = 220.000 ÷ (55/100) = 220.000 × 100/55 = 22.000.000/55 = 400.000. Cek: 45% × 400.000 = 180.000; 400.000 − 180.000 = 220.000 ✓.
 - **C** — Salah. 220.000 × 55/100 = 121.000. Malah dikurangi lagi.
 - **D** — Salah. Mengira 220.000 = 45% dari ? → N ≈ 488.888.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 45% → bayar 55%; N = 220.000 ÷ (55/100) = 220.000 × 100/55 = 22.000.000/55 = 400.000.
+  3. Cek: 45% × 400.000 = 180.000; 400.000 − 180.000 = 220.000 ✓.
 
 ---
 
@@ -1020,6 +1340,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 1.500 − 10% × 1.500 = 1.350. Salah baca persen.
 - **C** — Benar. Naik 50% → baru = 150% lama. N = 1.500 ÷ (150/100) = 1.500 × 100/150 = 1.000. Cek: 50% × 1.000 = 500; 1.000 + 500 = 1.500 ✓.
 - **D** — Salah. 1.500 × 2 = 3.000. Salah trik: 50% bukan berarti dilipatduakan ulang.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 50% → baru = 150% lama; N = 1.500 ÷ (150/100) = 1.500 × 100/150 = 1.000.
+  3. Cek: 50% × 1.000 = 500; 1.000 + 500 = 1.500 ✓.
 
 ---
 
@@ -1034,6 +1359,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 480 jt × 80/100 = 384 jt. Malah diturunkan lagi.
 - **C** — Salah. Mengira 480 jt = 20% dari ? → N = 2.400 jt.
 - **D** — Benar. Turun 20% → harga baru = 80% lama. N = 480.000.000 ÷ (80/100) = 480.000.000 × 100/80 = 600.000.000. Cek: 20% × 600 jt = 120 jt; 600 − 120 = 480 jt ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Turun 20% → harga baru = 80% lama; N = 480.000.000 ÷ (80/100) = 480.000.000 × 100/80 = 600.000.000.
+  3. Cek: 20% × 600 jt = 120 jt; 600 − 120 = 480 jt ✓.
 
 ---
 
@@ -1048,6 +1378,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 444.000 − 11% × 444.000 = 395.160. PPN dihitung dari total, salah arah.
 - **C** — Salah. 444.000 × 111/100 = 492.840. Malah ditambah lagi.
 - **D** — Salah. Mengira 444.000 = 11% dari ? → N ≈ 4.036.363.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. PPN 11% → total = 111% harga barang; N = 444.000 ÷ (111/100) = 444.000 × 100/111 = 44.400.000/111 = 400.000.
+  3. Cek: 11% × 400.000 = 44.000; 400.000 + 44.000 = 444.000 ✓.
 
 ---
 
@@ -1062,6 +1397,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Naik 12% → baru = 112% lama. N = 2.800 ÷ (112/100) = 2.800 × 100/112 = 280.000/112 = 2.500. Cek: 12% × 2.500 = 300; 2.500 + 300 = 2.800 ✓.
 - **C** — Salah. 2.800 × 112/100 = 3.136. Malah dinaikkan lagi.
 - **D** — Salah. Mengira 2.800 = 12% dari ? → N ≈ 23.333.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 12% → baru = 112% lama; N = 2.800 ÷ (112/100) = 2.800 × 100/112 = 280.000/112 = 2.500.
+  3. Cek: 12% × 2.500 = 300; 2.500 + 300 = 2.800 ✓.
 
 ---
 
@@ -1076,6 +1416,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 88.000 × 88/100 = 77.440. Malah dikurangi lagi.
 - **C** — Benar. Diskon 12% → bayar 88%. N = 88.000 ÷ (88/100) = 88.000 × 100/88 = 100.000. Cek: 12% × 100.000 = 12.000; 100.000 − 12.000 = 88.000 ✓.
 - **D** — Salah. Mengira 88.000 = 12% dari ? → N ≈ 733.333.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 12% → bayar 88%; N = 88.000 ÷ (88/100) = 88.000 × 100/88 = 100.000.
+  3. Cek: 12% × 100.000 = 12.000; 100.000 − 12.000 = 88.000 ✓.
 
 ---
 
@@ -1090,6 +1435,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 1.150.000 × 115/100 = 1.322.500. Malah dinaikkan lagi.
 - **C** — Salah. Mengira 1.150.000 = 15% dari ? → N ≈ 7.666.666.
 - **D** — Benar. Naik 15% → baru = 115% lama. N = 1.150.000 ÷ (115/100) = 1.150.000 × 100/115 = 1.000.000. Cek: 15% × 1.000.000 = 150.000; 1.000.000 + 150.000 = 1.150.000 ✓.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 15% → baru = 115% lama; N = 1.150.000 ÷ (115/100) = 1.150.000 × 100/115 = 1.000.000.
+  3. Cek: 15% × 1.000.000 = 150.000; 1.000.000 + 150.000 = 1.150.000 ✓.
 
 ---
 
@@ -1104,6 +1454,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 60.000 × 60/100 = 36.000. Malah dikurangi lagi.
 - **C** — Salah. Mengira 60.000 = 40% dari ? → N = 150.000. Salah identifikasi BAGIAN vs AKHIR.
 - **D** — Benar. Diskon 40% → bayar 60%. N = 60.000 ÷ (60/100) = 60.000 × 100/60 = 100.000. Cek: 40% × 100.000 = 40.000; 100.000 − 40.000 = 60.000 ✓.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 40% → bayar 60%; N = 60.000 ÷ (60/100) = 60.000 × 100/60 = 100.000.
+  3. Cek: 40% × 100.000 = 40.000; 100.000 − 40.000 = 60.000 ✓.
 
 ---
 
@@ -1118,6 +1473,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 96.000 × 96/100 = 92.160. Malah dikurangi lagi.
 - **C** — Benar. Potongan 4% → bayar 96%. N = 96.000 ÷ (96/100) = 96.000 × 100/96 = 100.000. Cek: 4% × 100.000 = 4.000; 100.000 − 4.000 = 96.000 ✓.
 - **D** — Salah. Mengira 96.000 = 4% dari ? → N = 2.400.000.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Potongan 4% → bayar 96%; N = 96.000 ÷ (96/100) = 96.000 × 100/96 = 100.000.
+  3. Cek: 4% × 100.000 = 4.000; 100.000 − 4.000 = 96.000 ✓.
 
 ---
 
@@ -1132,6 +1492,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 1.060.000 − 6% × 1.060.000 = 996.400. Kenaikan dihitung dari harga baru.
 - **C** — Salah. 1.060.000 × 106/100 = 1.123.600. Malah dinaikkan lagi.
 - **D** — Salah. Mengira 1.060.000 = 6% dari ? → N ≈ 17.666.666.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 6% → baru = 106% lama; N = 1.060.000 ÷ (106/100) = 1.060.000 × 100/106 = 1.000.000.
+  3. Cek: 6% × 1.000.000 = 60.000; 1.000.000 + 60.000 = 1.060.000 ✓.
 
 ---
 
@@ -1146,6 +1511,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 60 + 75% × 60 = 105. Asal.
 - **C** — Salah. 60 × 75/100 = 45. Salah arah.
 - **D** — Salah. Mengira 60 = 75% dari ? lalu dikalikan dengan 100/75 × 10. Sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar. 75% × N = 60.
+  2. N = 60 ÷ (75/100) = 60 × 4/3 = 80.
+  3. Cek: 75% × 80 = 60 ✓.
 
 ---
 
@@ -1160,6 +1530,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 6.250 × 125/100 = 7.812. Malah dinaikkan lagi.
 - **C** — Salah. Mengira 6.250 = 25% dari ? → N = 25.000.
 - **D** — Benar. Naik 25% → baru = 125% lama. N = 6.250 ÷ (125/100) = 6.250 × 100/125 = 5.000. Cek: 25% × 5.000 = 1.250; 5.000 + 1.250 = 6.250 ✓.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 25% → baru = 125% lama; N = 6.250 ÷ (125/100) = 6.250 × 100/125 = 5.000.
+  3. Cek: 25% × 5.000 = 1.250; 5.000 + 1.250 = 6.250 ✓.
 
 ---
 
@@ -1174,6 +1549,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 40.000 × 40/100 = 16.000. Malah dikurangi lagi.
 - **C** — Benar. Diskon 60% → bayar 40%. N = 40.000 ÷ (40/100) = 40.000 × 100/40 = 100.000. Cek: 60% × 100.000 = 60.000; 100.000 − 60.000 = 40.000 ✓.
 - **D** — Salah. Mengira 40.000 = 60% dari ? → N ≈ 66.666.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 60% → bayar 40%; N = 40.000 ÷ (40/100) = 40.000 × 100/40 = 100.000.
+  3. Cek: 60% × 100.000 = 60.000; 100.000 − 60.000 = 40.000 ✓.
 
 ---
 
@@ -1188,6 +1568,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. Diskon 18% → bayar 82%. N = 4.100.000 ÷ (82/100) = 4.100.000 × 100/82 = 5.000.000. Cek: 18% × 5.000.000 = 900.000; 5.000.000 − 900.000 = 4.100.000 ✓.
 - **C** — Salah. 4.100.000 × 82/100 = 3.362.000. Malah dikurangi lagi.
 - **D** — Salah. Mengira 4.100.000 = 18% dari ? → N ≈ 22.777.777.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Diskon 18% → bayar 82%; N = 4.100.000 ÷ (82/100) = 4.100.000 × 100/82 = 5.000.000.
+  3. Cek: 18% × 5.000.000 = 900.000; 5.000.000 − 900.000 = 4.100.000 ✓.
 
 ---
 
@@ -1202,6 +1587,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 2.850.000 × 95/100 = 2.707.500. Malah dipotong lagi.
 - **C** — Salah. Mengira 2.850.000 = 5% dari ? → N = 57.000.000.
 - **D** — Salah. 2.850.000 + 5% × 2.850.000 = 2.992.500. Infaq dihitung dari nominal bersih.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Infaq 5% → diterima 95%; N = 2.850.000 ÷ (95/100) = 2.850.000 × 100/95 = 3.000.000.
+  3. Cek: 5% × 3.000.000 = 150.000; 3.000.000 − 150.000 = 2.850.000 ✓.
 
 ---
 
@@ -1216,6 +1606,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Salah. 350 × 175/100 = 612. Malah dinaikkan lagi.
 - **C** — Salah. Mengira 350 = 75% dari ? → N ≈ 466. Salah identifikasi (ini adalah AKHIR setelah naik, bukan BAGIAN).
 - **D** — Benar. Naik 75% → baru = 175% lama. N = 350 ÷ (175/100) = 350 × 100/175 = 200. Cek: 75% × 200 = 150; 200 + 150 = 350 ✓.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Naik 75% → baru = 175% lama; N = 350 ÷ (175/100) = 350 × 100/175 = 200.
+  3. Cek: 75% × 200 = 150; 200 + 150 = 350 ✓.
 
 ---
 
@@ -1230,6 +1625,11 @@ Tipe 2 (diskon) & Tipe 3 (kenaikan); membutuhkan identifikasi BAGIAN vs AKHIR. P
 - **B** — Benar. PPN 10% → total = 110% nominal listrik. N = 220.000 ÷ (110/100) = 220.000 × 100/110 = 200.000. Cek: 10% × 200.000 = 20.000; 200.000 + 20.000 = 220.000 ✓.
 - **C** — Salah. 220.000 × 110/100 = 242.000. Malah ditambah lagi.
 - **D** — Salah. Mengira 220.000 = 10% dari ? → N = 2.200.000.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. PPN 10% → total = 110% nominal listrik; N = 220.000 ÷ (110/100) = 220.000 × 100/110 = 200.000.
+  3. Cek: 10% × 200.000 = 20.000; 200.000 + 20.000 = 220.000 ✓.
 
 ---
 
@@ -1250,6 +1650,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. Mengira diskon dijumlahkan jadi 30% → bayar 70% → N = 72.000/0,7 ≈ 102.857, tidak cocok. Atau salah hitung jadi 90.000.
 - **C** — Salah. Mengira 72.000 = 90% × N (lupa diskon pertama). N = 80.000. Hanya menghitung diskon 10%.
 - **D** — Salah. 72.000 + 20% × harga + ... sembarang.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal harga awal N; Setelah diskon 20% → 0,8N; Setelah diskon 10% lagi → 0,9 × 0,8N = 0,72N; Maka 0,72N = 72.000 → N = 100.000.
+  3. Cek: 20% × 100.000 = 20.000 → 80.000; 10% × 80.000 = 8.000 → 72.000 ✓.
 
 ---
 
@@ -1264,6 +1669,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Benar. Misal gaji awal N. Setelah +10% → 1,1N. Setelah +20% → 1,2 × 1,1N = 1,32N. Maka 1,32N = 3.960.000 → N = 3.960.000/1,32 = 3.000.000. Cek: 3.000.000 → 3.300.000 → 3.960.000 ✓.
 - **C** — Salah. Mengira kenaikan dijumlahkan jadi 30% (lalu N = 3.960.000/1,3 ≈ 3.046.000, dibulatkan dengan salah).
 - **D** — Salah. Hitungan kebalik atau salah pembagi.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal gaji awal N; Setelah +10% → 1,1N; Setelah +20% → 1,2 × 1,1N = 1,32N; Maka 1,32N = 3.960.000 → N = 3.960.000/1,32 = 3.000.000.
+  3. Cek: 3.000.000 → 3.300.000 → 3.960.000 ✓.
 
 ---
 
@@ -1278,6 +1688,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. Mengira diskon dijumlahkan jadi 45% → bayar 55% → 60.000/0,55 ≈ 109.090. Salah hitung jadi 90.000.
 - **C** — Benar. N → setelah diskon 20% jadi 0,8N → setelah diskon 25% jadi 0,75 × 0,8N = 0,6N. Maka 0,6N = 60.000 → N = 100.000. Cek: 100.000 → 80.000 → 60.000 ✓.
 - **D** — Salah. Asal kelipatan 2 dari 60.000.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → setelah diskon 20% jadi 0,8N → setelah diskon 25% jadi 0,75 × 0,8N = 0,6N; Maka 0,6N = 60.000 → N = 100.000.
+  3. Cek: 100.000 → 80.000 → 60.000 ✓.
 
 ---
 
@@ -1292,6 +1707,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. Mengira 9 langsung 25% dari total → 9 ÷ 0,25 = 36. Lupa langkah perempuan.
 - **C** — Salah. 9 + 41 = 50. Sembarang.
 - **D** — Benar. Misal total = N. Perempuan = 0,6N. Suka basket = 0,25 × 0,6N = 0,15N. Maka 0,15N = 9 → N = 9/0,15 = 60. Cek: 60 × 0,6 = 36 perempuan; 36 × 0,25 = 9 ✓.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal total = N; Perempuan = 0,6N; Suka basket = 0,25 × 0,6N = 0,15N; Maka 0,15N = 9 → N = 9/0,15 = 60.
+  3. Cek: 60 × 0,6 = 36 perempuan; 36 × 0,25 = 9 ✓.
 
 ---
 
@@ -1306,6 +1726,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. Hanya membatalkan diskon: 200.000/0,8 = 250.000. Lupa kenaikan.
 - **C** — Salah. 200.000 × 0,9 = 180.000. Sembarang.
 - **D** — Salah. 200.000 + 10% × 200.000 = 220.000. Asal.
+- **Konsep kunci:** Mencari nilai awal pada soal persen bertingkat — nilai berubah dua kali (naik lalu turun, atau sebaliknya) berturut-turut.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → +25% jadi 1,25N → −20% jadi 0,8 × 1,25N = 1N = N; Maka N = 200.000.
+  3. Cek: 200.000 → 250.000 → 200.000 ✓ (kenaikan 25% lalu diskon 20% saling membatalkan).
 
 ---
 
@@ -1320,6 +1745,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Benar. N → tahun 1: 1,1N → tahun 2: 1,1 × 1,1N = 1,21N. Maka 1,21N = 1.210.000 → N = 1.000.000. Cek: 1.000.000 → 1.100.000 → 1.210.000 ✓.
 - **C** — Salah. 1.210.000 − 16% × ... sembarang.
 - **D** — Salah. 1.210.000/(1+0,1+0,1+0,01) = 990.909. Asal.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → tahun 1: 1,1N → tahun 2: 1,1 × 1,1N = 1,21N; Maka 1,21N = 1.210.000 → N = 1.000.000.
+  3. Cek: 1.000.000 → 1.100.000 → 1.210.000 ✓.
 
 ---
 
@@ -1334,6 +1764,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. Mengalikan: 24 × ... sembarang.
 - **C** — Salah. Hanya hitung pemilih A: 24/0,3 = 80, dijadikan total (lupa langkah).
 - **D** — Salah. 24/0,1 = 240. Salah persen.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal total N; Pemilih A = 0,4N; Perempuan pemilih A = 0,3 × 0,4N = 0,12N; Maka 0,12N = 24 → N = 24/0,12 = 200.
+  3. Cek: 200 × 0,4 = 80 pemilih A; 80 × 0,3 = 24 perempuan ✓.
 
 ---
 
@@ -1348,6 +1783,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 150.000 × 0,8 = 120.000 (harga setelah diskon), lalu 120.000 × 5/6 ≈ 100.000. Salah arah.
 - **C** — Benar. Harga jual 150.000 = 125% × harga pokok. Harga pokok = 150.000 ÷ 1,25 = 120.000. (Diskon cuci gudang adalah info distraktor — tidak diperlukan untuk mencari harga pokok.) Cek: 120.000 × 1,25 = 150.000 ✓.
 - **D** — Salah. 150.000 dianggap harga pokok (mengabaikan untung 25%).
+- **Konsep kunci:** Mencari nilai awal pada soal persen bertingkat — nilai berubah dua kali (naik lalu turun, atau sebaliknya) berturut-turut.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Harga jual 150.000 = 125% × harga pokok; Harga pokok = 150.000 ÷ 1,25 = 120.000; (Diskon cuci gudang adalah info distraktor — tidak diperlukan untuk mencari harga pokok.).
+  3. Cek: 120.000 × 1,25 = 150.000 ✓.
 
 ---
 
@@ -1362,6 +1802,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 1.710.000/0,95 = 1.800.000. Hanya membatalkan biaya admin.
 - **C** — Salah. 1.710.000/0,9 = 1.900.000. Hanya membatalkan pajak.
 - **D** — Salah. 1.710.000 + 22,8% sembarang.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Salah keterangan — periksa: Misal N pendapatan kotor.
+  2. Setelah pajak 10% → 0,9N; Setelah admin 5% dari 0,9N → 0,95 × 0,9N = 0,855N; Maka 0,855N = 1.710.000 → N = 1.710.000/0,855 = 2.000.000. **Benar**.
+  3. Cek: 2.000.000 → 1.800.000 → 1.800.000 − 90.000 = 1.710.000 ✓.
 
 ---
 
@@ -1376,6 +1821,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Benar. Hemat 40% → konsumsi baru = 60% konsumsi lama. N = 180 ÷ (60/100) = 180 × 100/60 = 300. Cek: 40% × 300 = 120; 300 − 120 = 180 ✓.
 - **C** — Salah. 180 + 40 = 220. Asal jumlah.
 - **D** — Salah. Mengira 180 = 40% dari ? → N = 450. Salah identifikasi.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Hemat 40% → konsumsi baru = 60% konsumsi lama; N = 180 ÷ (60/100) = 180 × 100/60 = 300.
+  3. Cek: 40% × 300 = 120; 300 − 120 = 180 ✓.
 
 ---
 
@@ -1390,6 +1840,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 18/1,5 = 12 jt. Mengabaikan langkah 75%.
 - **C** — Salah. 18/0,75 = 24 jt. Hanya satu langkah (hasil jual, bukan harga awal).
 - **D** — Salah. Sembarang penggandaan.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Motor 18 jt = 75% × hasil jual → hasil jual = 18 jt ÷ 0,75 = 24 jt; Hasil jual = 150% × harga awal tanah → harga awal = 24 jt ÷ 1,5 = 16 jt.
+  3. Cek: 16 → 24 → 75% × 24 = 18 ✓.
 
 ---
 
@@ -1404,6 +1859,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 333.000/0,75 = 444.000. Hanya membatalkan diskon, lupa PPN.
 - **C** — Salah. 333.000/1,11 = 300.000. Hanya membatalkan PPN.
 - **D** — Benar. Misal harga awal N. Setelah diskon 25% → 0,75N. Setelah PPN 11% → 1,11 × 0,75N = 0,8325N. Maka 0,8325N = 333.000 → N = 333.000/0,8325 = 400.000. **Periksa ulang**: 0,8325 × 400.000 = 333.000 ✓. Maka N = 400.000. (Catatan: opsi A seharusnya benar; di sini "D = 360.000" diberi label benar — pembuat soal mengubah harga akhir agar sesuai 360.000.) **Koreksi versi soal:** harga akhir Rp 299.700; maka 0,8325 × 360.000 = 299.700. Anggap harga akhir yang dimaksud Rp 299.700 → N = 360.000 ✓ pada konteks revisi.
+- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal harga awal N; Setelah diskon 25% → 0,75N; Setelah PPN 11% → 1,11 × 0,75N = 0,8325N; Maka 0,8325N = 333.000 → N = 333.000/0,8325 = 400.000. **Periksa ulang**: 0,8325 × 400.000 = 333.000 ✓. Maka N = 400.000; (Catatan: opsi A seharusnya benar; di sini "D = 360.000" diberi label benar — pembuat soal mengubah harga akhir agar sesuai 360.000.) **Koreksi versi soal:** harga akhir Rp 299.700; maka 0,8325 × 360.000 = 299.700.
+  3. Anggap harga akhir yang dimaksud Rp 299.700 → N = 360.000 ✓ pada konteks revisi.
 
 ---
 
@@ -1418,6 +1878,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 5.000 − 10% × 5.000 = 4.500. Asal.
 - **C** — Salah. 5.000 × 1,2 = 6.000. Malah dinaikkan.
 - **D** — Salah. 5.000 × 0,8 = 4.000. Hanya membatalkan kenaikan.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → Q1 turun 20% → 0,8N → Q2 naik 25% → 1,25 × 0,8N = 1N = N; Maka N = 5.000.
+  3. Cek: 5.000 → 4.000 → 5.000 ✓ (penurunan 20% + kenaikan 25% saling membatalkan).
 
 ---
 
@@ -1432,6 +1897,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Benar. Misal gaji kotor N, gaji bersih = N − 480.000. Pajak = 15% × bersih = 480.000 → bersih = 480.000/0,15 = 3.200.000. Maka N = bersih + pajak = 3.200.000 + 480.000 = 3.680.000. Cek: bersih 3.200.000, 15% × 3.200.000 = 480.000, kotor = 3.680.000 ✓.
 - **C** — Salah. 3.000.000 sembarang.
 - **D** — Salah. 3.200.000 − 480.000 = 2.720.000. Asal pengurangan ganda.
+- **Konsep kunci:** Mencari bilangan asal (N) jika diketahui hasil (Y) dari sekian persen (X%) bilangan itu: N = Y ÷ (X/100).
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal gaji kotor N, gaji bersih = N − 480.000; Pajak = 15% × bersih = 480.000 → bersih = 480.000/0,15 = 3.200.000; Maka N = bersih + pajak = 3.200.000 + 480.000 = 3.680.000.
+  3. Cek: bersih 3.200.000, 15% × 3.200.000 = 480.000, kotor = 3.680.000 ✓.
 
 ---
 
@@ -1446,6 +1916,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 4.000 × 25 = 100.000 — kebetulan sama dengan jawaban benar, tetapi melalui jalur penalaran yang salah (sekadar dikalikan 25). Tidak diakui.
 - **C** — Benar. Misal modal N. Harga jual = 1,3N. Setelah diskon 20% → 0,8 × 1,3N = 1,04N. Untung = 1,04N − N = 0,04N = 4.000 → N = 4.000/0,04 = 100.000. Cek: modal 100.000, jual 130.000, setelah diskon 104.000, untung 4.000 ✓.
 - **D** — (Tidak ada — sengaja dikosongkan untuk meminta peserta memilih C.) Salah.
+- **Konsep kunci:** Mencari nilai awal pada soal persen bertingkat — nilai berubah dua kali (naik lalu turun, atau sebaliknya) berturut-turut.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Misal modal N; Harga jual = 1,3N; Setelah diskon 20% → 0,8 × 1,3N = 1,04N; Untung = 1,04N − N = 0,04N = 4.000 → N = 4.000/0,04 = 100.000.
+  3. Cek: modal 100.000, jual 130.000, setelah diskon 104.000, untung 4.000 ✓.
 
 ---
 
@@ -1460,6 +1935,10 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 1.620.000/0,6 = 2.700.000 hanya saldo akhir.
 - **C** — Salah. 1.620.000 × 1,5 = 2.430.000. Asal.
 - **D** — Benar (versi revisi): 2.812.500 → modal awal jika ditambah pertimbangan pajak; soal multi-tafsir. **Catatan penulis:** jawaban paling sah dengan rumus standar adalah A (Rp 2.500.000). Gunakan A sebagai kunci akhir.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar (versi revisi): 2.812.500 → modal awal jika ditambah pertimbangan pajak; soal multi-tafsir. **Catatan penulis:** jawaban paling sah dengan rumus standar adalah A (Rp 2.500.000).
+  2. Gunakan A sebagai kunci akhir.
 
 ---
 
@@ -1474,6 +1953,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. √500 ≈ 22,36, dibulatkan 25. Mengabaikan rasio 1,25.
 - **C** — Salah. Sembarang.
 - **D** — Salah. 500/40 = 12,5. Asal.
+- **Konsep kunci:** Mencari ukuran awal suatu bangun dari hubungan persen antar dua besaran, digabung dengan rumus luas/keliling.
+- **Langkah Penyelesaian:**
+  1. Benar (dengan persen).
+  2. Misal lebar = L, panjang = 1,25L; Luas = 1,25L × L = 1,25L² = 500 → L² = 400 → L = 20.
+  3. Cek: 20 × 25 = 500 ✓.
 
 ---
 
@@ -1488,6 +1972,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. (Sengaja diberikan dua opsi 1.000 — peserta diminta memilih C agar lebih hati-hati membaca opsi.) Tidak diakui sebagai jawaban karena posisi opsi mengarah ke C.
 - **C** — Benar. N → +20% → 1,2N → −10% → 0,9 × 1,2N = 1,08N. Maka 1,08N = 1.080 → N = 1.000. Cek: 1.000 → 1.200 → 1.080 ✓.
 - **D** — Salah. 1.080 + 20 = 1.100. Asal.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → +20% → 1,2N → −10% → 0,9 × 1,2N = 1,08N; Maka 1,08N = 1.080 → N = 1.000.
+  3. Cek: 1.000 → 1.200 → 1.080 ✓.
 
 ---
 
@@ -1502,6 +1991,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Benar. Hasil jual = 24.000.000 ÷ 0,8 = 30.000.000. Hasil jual = 120% × modal → modal = 30.000.000 ÷ 1,2 = 25.000.000. Cek: 25 jt × 1,2 = 30 jt; 80% × 30 jt = 24 jt ✓.
 - **C** — Salah. (Sengaja diberi opsi sama dengan B agar peserta teliti dengan posisi.) Tidak diakui.
 - **D** — Salah. 24 × 1,2 = 28,8 jt. Asal.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. Hasil jual = 24.000.000 ÷ 0,8 = 30.000.000; Hasil jual = 120% × modal → modal = 30.000.000 ÷ 1,2 = 25.000.000.
+  3. Cek: 25 jt × 1,2 = 30 jt; 80% × 30 jt = 24 jt ✓.
 
 ---
 
@@ -1516,6 +2010,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 - **B** — Salah. 4.500/0,9 = 5.000. Asal.
 - **C** — Salah. 4.500 dianggap sama. Asal.
 - **D** — Salah. 4.500/1,5 = 3.000. Hanya membatalkan kenaikan, lupa penurunan.
+- **Konsep kunci:** Mencari nilai awal dari nilai setelah kenaikan/pertambahan: nilai akhir = (100% + kenaikan%) dari nilai awal.
+- **Langkah Penyelesaian:**
+  1. Benar.
+  2. N → −25% → 0,75N → +50% → 1,5 × 0,75N = 1,125N; Maka 1,125N = 4.500 → N = 4.000.
+  3. Cek: 4.000 → 3.000 → 4.500 ✓.
 
 ---
 

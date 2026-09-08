@@ -142,6 +142,11 @@ Hitung: 1/4 + 1/3 = 3/12 + 4/12 = **7/12** kg.
 - **B** — Salah; menjumlahkan pembilang dan penyebut langsung (1+1)/(4+3) — miskonsepsi klasik.
 - **C** — Hanya menyamakan satu pecahan (1/4 = 3/12, 1/3 = 4/12, lalu salah ambil 2/12).
 - **D** — Salah hitung 3/12 + 2/12 = 5/12 (lupa konversi 1/3 = 4/12).
+- **Konsep kunci:** Kata "ditambahkan lagi" dan "total" menandai operasi penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/4 dan 1/3 menjadi per dua belas: 3/12 dan 4/12.
+  2. Jumlahkan pembilangnya: 3/12 + 4/12 = 7/12.
+  3. Cek hasil sudah paling sederhana (7/12).
 
 ---
 
@@ -159,6 +164,11 @@ Hitung: 3/4 − 1/2 = 3/4 − 2/4 = **1/4** kg.
 - **B** — Benar, 1/4 kg.
 - **C** — Salah operasi: 3/4 + 1/2 = 5/4 (dijumlahkan, bukan dikurangkan).
 - **D** — Salah kali: 3/4 × 1/2 = 3/8 ≈ ditulis sebagai 1/8 (perkiraan kasar yang salah).
+- **Konsep kunci:** Kata "sisa" berarti mencari selisih antara jumlah awal dan sisa akhir dengan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 3/4 dan 1/2 menjadi per empat: 3/4 dan 2/4.
+  2. Kurangkan: 3/4 − 2/4 = 1/4.
+  3. Hasil 1/4 kg sudah paling sederhana.
 
 ---
 
@@ -176,6 +186,11 @@ Hitung: 1 − 2/3 = 3/3 − 2/3 = **1/3**.
 - **B** — Salah konsep; dikira "sisa selalu setengah".
 - **C** — Benar, 1/3.
 - **D** — Salah operasi: dijumlahkan (1 + 1/3) atau salah konversi.
+- **Konsep kunci:** "Masih tersisa" dari satu keseluruhan dicari dengan pengurangan dari 1.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 menjadi 3/3 agar sepenyebut dengan 2/3.
+  2. Kurangkan: 3/3 − 2/3 = 1/3.
+  3. Itulah bagian cokelat yang tersisa.
 
 ---
 
@@ -193,6 +208,11 @@ Hitung: 2/3 × 1/2 = 2/6 = **1/3** kg.
 - **B** — Salah hitung: 2/3 − 1/2 = 4/6 − 3/6 = 1/6 (dikurangkan).
 - **C** — Salah; menjumlahkan pembilang/penyebut langsung (2/5).
 - **D** — Benar, 1/3 kg (2/3 × 1/2 = 1/3).
+- **Konsep kunci:** Kata "dari" menandakan perkalian pecahan dengan pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang dengan pembilang, penyebut dengan penyebut: 2/3 × 1/2 = 2/6.
+  2. Sederhanakan 2/6 menjadi 1/3.
+  3. Itulah tepung yang dipakai untuk roti.
 
 ---
 
@@ -210,6 +230,11 @@ Hitung: 3 ÷ 1/4 = 3 × 4/1 = **12** potong.
 - **B** — Salah operasi: 3 × 1/4 = 3/4 (dikali, bukan dibagi).
 - **C** — Benar, 12 potong.
 - **D** — Salah baca: 3 + 1/4 = 3 1/4 (dijumlahkan).
+- **Konsep kunci:** "Berapa potong ... dari" menandakan pembagian panjang total dengan panjang tiap potongan.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 3 ÷ 1/4.
+  2. Ubah menjadi perkalian dengan kebalikan: 3 × 4/1 = 12.
+  3. Hasilnya 12 potong pita.
 
 ---
 
@@ -227,6 +252,11 @@ Hitung: 5 ÷ 10 = 5/10 = **1/2** semangka per piring.
 - **B** — Salah; dibalik (10 ÷ 5 = 2).
 - **C** — Salah operasi: 5 × 10 = 50 (dikalikan).
 - **D** — Salah; mengambil angka awal.
+- **Konsep kunci:** "Sama rata ke beberapa piring" berarti membagi kuantitas total dengan banyak piring.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 5 ÷ 10.
+  2. Ubah menjadi pecahan: 5/10.
+  3. Sederhanakan menjadi 1/2 semangka tiap piring.
 
 ---
 
@@ -244,6 +274,11 @@ Hitung: 7/8 − 3/8 = **4/8 = 1/2** liter.
 - **B** — Benar, 4/8 disederhanakan = 1/2 liter.
 - **C** — Salah; menyederhanakan 4/8 keliru jadi 3/4.
 - **D** — Salah operasi: 7/8 + 3/8 = 10/8 (dijumlahkan).
+- **Konsep kunci:** "Masih tersisa" setelah dipakai dicari dengan pengurangan pecahan berpenyebut sama.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama (per delapan), langsung kurangkan pembilang: 7/8 − 3/8 = 4/8.
+  2. Sederhanakan 4/8 menjadi 1/2.
+  3. Itulah minyak yang masih tersisa.
 
 ---
 
@@ -261,6 +296,11 @@ Hitung: 2/5 + 1/5 = **3/5** km (penyebut sudah sama).
 - **B** — Salah operasi: 2/5 × 1/5 = 2/25 (dikalikan).
 - **C** — Benar, 3/5 km.
 - **D** — Salah; menjumlahkan dengan menyamakan penyebut tidak perlu (2/10 + 1/10 = 3/10).
+- **Konsep kunci:** "Total jarak" dari dua bagian perjalanan dicari dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama (per lima), jumlahkan pembilang: 2/5 + 1/5 = 3/5.
+  2. Hasil 3/5 sudah paling sederhana.
+  3. Itulah total jarak yang ditempuh Dito.
 
 ---
 
@@ -278,6 +318,11 @@ Hitung: 3/4 × 1/2 = **3/8** hektar.
 - **B** — Salah hitung: 3/4 − 1/2 = 1/4 (dikurangkan).
 - **C** — Benar, 3/8 hektar.
 - **D** — Salah; 4/8 = 1/2 itu luas kebun, bukan luas mawar.
+- **Konsep kunci:** "Sebanyak ... dari luas" menandakan perkalian dua pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang × pembilang dan penyebut × penyebut: 3/4 × 1/2 = 3/8.
+  2. Cek hasil sudah paling sederhana.
+  3. Itulah luas yang ditanami mawar.
 
 ---
 
@@ -295,6 +340,11 @@ Hitung: 2½ ÷ 1/4 = 5/2 × 4/1 = 20/2 = **10** bungkus.
 - **B** — Salah operasi: 5/2 × 1/4 = 5/8 (dikalikan).
 - **C** — Salah hitung 5/2 × 2/1 = 5 (salah kebalikan).
 - **D** — Benar, 10 bungkus.
+- **Konsep kunci:** "Berapa bungkus ... berisi" berarti membagi berat total dengan berat tiap bungkus.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 1/2 menjadi pecahan biasa: 5/2.
+  2. Bagi dengan 1/4 dengan mengalikan kebalikannya: 5/2 × 4/1 = 20/2.
+  3. Sederhanakan menjadi 10 bungkus.
 
 ---
 
@@ -312,6 +362,11 @@ Hitung: 2/5 × 30.000 = 60.000/5 = **Rp12.000**.
 - **B** — Benar, Rp12.000.
 - **C** — Salah; 1/5 × 30.000 = 6.000 (lupa kalikan 2).
 - **D** — Salah; sisa uang (3/5 × 30.000 = 18.000), bukan yang terpakai.
+- **Konsep kunci:** "Bagian dari" sejumlah uang dicari dengan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/5 × 30.000 = 60.000/5.
+  2. Bagi hasil dengan penyebut: 60.000 ÷ 5.
+  3. Diperoleh Rp12.000 yang terpakai.
 
 ---
 
@@ -329,6 +384,11 @@ Hitung: 1/3 + 1/6 = 2/6 + 1/6 = **3/6 = 1/2** cangkir.
 - **B** — Salah; 1/3 × 1/6 = 2/18 (dikali) lalu tidak disederhanakan.
 - **C** — Benar, 1/2 cangkir.
 - **D** — Salah; menjumlahkan pembilang & penyebut langsung (2/9 lalu ditulis 1/3 karena dikira "sama dengan awal").
+- **Konsep kunci:** "Dicampur jadi satu" menandakan penjumlahan dua pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/3 dan 1/6 menjadi per enam: 2/6 dan 1/6.
+  2. Jumlahkan pembilang: 2/6 + 1/6 = 3/6.
+  3. Sederhanakan menjadi 1/2 cangkir.
 
 ---
 
@@ -346,6 +406,11 @@ Hitung: 4½ − 1¾ = 9/2 − 7/4 = 18/4 − 7/4 = 11/4 = **2 3/4** kg.
 - **B** — Salah hitung: 4 − 1 = 3, lalu pecahan 1/2 + 3/4 jadi 1 1/4 → totalnya 3 1/4 (salah tanda pecahan).
 - **C** — Benar, 2 3/4 kg.
 - **D** — Salah konversi.
+- **Konsep kunci:** "Masih tersisa" dari pecahan campuran dicari dengan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 1/2 dan 1 3/4 ke pecahan biasa: 9/2 dan 7/4.
+  2. Samakan penyebut menjadi per empat: 18/4 dan 7/4, lalu kurangkan: 11/4.
+  3. Ubah kembali ke pecahan campuran: 2 3/4 kg.
 
 ---
 
@@ -363,6 +428,11 @@ Hitung: 1/2 + 1/3 = 3/6 + 2/6 = **5/6** m.
 - **B** — Salah operasi: 1/2 × 1/3 = 1/6 (dikalikan).
 - **C** — Benar, 5/6 m.
 - **D** — Salah; hanya konversi 1/3 = 2/6, lupa tambahkan 3/6.
+- **Konsep kunci:** "Menyambung" dua pita berarti menjumlahkan panjangnya.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/2 dan 1/3 menjadi per enam: 3/6 dan 2/6.
+  2. Jumlahkan: 3/6 + 2/6 = 5/6.
+  3. Hasil 5/6 m sudah paling sederhana.
 
 ---
 
@@ -380,6 +450,11 @@ Hitung: 8 ÷ 4 = **2** buah per anak.
 - **B** — Salah operasi: 4 ÷ 8 (dibalik).
 - **C** — Benar, 2 buah per anak.
 - **D** — Salah operasi: 8 × 4 = 32 (dikalikan).
+- **Konsep kunci:** "Dibagi sama rata ke beberapa anak" berarti membagi banyak benda dengan banyak anak.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 8 ÷ 4.
+  2. Hitung hasilnya: 2.
+  3. Itulah martabak yang diterima tiap anak.
 
 ---
 
@@ -397,6 +472,11 @@ Hitung: 5/6 − 1/2 = 5/6 − 3/6 = 2/6 = **1/3** ℓ.
 - **B** — Salah operasi: 5/6 × 1/2 = 5/12 (dikalikan).
 - **C** — Salah; mengurangi pembilang saja: (5−1)/6 = 4/6 (lupa samakan penyebut).
 - **D** — Salah operasi: 5/6 + 1/2 = 4/3 = 1 1/3 (dijumlahkan).
+- **Konsep kunci:** "Masih tersisa" dicari dengan pengurangan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 5/6 dan 1/2 menjadi per enam: 5/6 dan 3/6.
+  2. Kurangkan: 5/6 − 3/6 = 2/6.
+  3. Sederhanakan menjadi 1/3 liter.
 
 ---
 
@@ -414,6 +494,11 @@ Hitung: 2/3 × 3/4 = 6/12 = **1/2** hektar.
 - **B** — Salah hitung: 3/4 − 2/3 = 9/12 − 8/12 = 1/12 (dikurangkan).
 - **C** — Benar, 1/2 hektar.
 - **D** — Salah operasi: 2/3 + 3/4 = 17/12 ≈ ditulis 6/4 (salah konversi).
+- **Konsep kunci:** Kata "dari" pada dua pecahan menandakan perkalian.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/3 × 3/4 = 6/12.
+  2. Sederhanakan 6/12 dengan FPB 6.
+  3. Diperoleh 1/2 hektar.
 
 ---
 
@@ -431,6 +516,11 @@ Hitung: 1/4 × 24.000 = 24.000 ÷ 4 = **Rp6.000**.
 - **B** — Salah; 1/6 × 24.000 = 4.000 (salah pecahan).
 - **C** — Salah; itu sisa uang (3/4 × 24.000 = 18.000), bukan yang ditabung.
 - **D** — Benar, Rp6.000.
+- **Konsep kunci:** "Bagian dari" sejumlah uang menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/4 × 24.000 = 24.000/4.
+  2. Bagi 24.000 dengan 4.
+  3. Diperoleh Rp6.000 yang ditabung.
 
 ---
 
@@ -448,6 +538,11 @@ Hitung: 6 ÷ 1/2 = 6 × 2/1 = **12** gelas.
 - **B** — Salah hitung asal: 6 + 2 = 8.
 - **C** — Benar, 12 gelas.
 - **D** — Salah; dibalik (1/2 ÷ 6 = 1/12).
+- **Konsep kunci:** "Berapa gelas ... dari" berarti membagi volume total dengan volume tiap gelas.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 6 ÷ 1/2.
+  2. Kalikan dengan kebalikan: 6 × 2/1 = 12.
+  3. Diperoleh 12 gelas yang dapat diisi.
 
 ---
 
@@ -465,6 +560,11 @@ Hitung: 2/5 + 3/5 = 5/5 = **1** jam.
 - **B** — Salah operasi: 2/5 × 3/5 = 6/25 (dikali).
 - **C** — Benar, 5/5 = 1 jam (disederhanakan).
 - **D** — Salah; lupa menyederhanakan 5/5 menjadi 1.
+- **Konsep kunci:** "Total" dari dua waktu membaca dicari dengan penjumlahan pecahan sepenyebut.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama, jumlahkan pembilang: 2/5 + 3/5 = 5/5.
+  2. Sederhanakan 5/5 menjadi 1.
+  3. Total waktu membaca Aman = 1 jam.
 
 ---
 
@@ -482,6 +582,11 @@ Hitung: 3/4 + 1/8 = 6/8 + 1/8 = **7/8** ℓ.
 - **B** — Benar, 7/8 ℓ.
 - **C** — Salah hitung: 3/4 − 5/8 = 1/8 (dikurangkan).
 - **D** — Salah operasi: 3/4 × 1/8 = 3/32 (dikalikan).
+- **Konsep kunci:** "Menambahkan ... total" berarti operasi penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 3/4 dan 1/8 menjadi per delapan: 6/8 dan 1/8.
+  2. Jumlahkan: 6/8 + 1/8 = 7/8.
+  3. Hasil 7/8 sudah paling sederhana.
 
 ---
 
@@ -499,6 +604,11 @@ Hitung: 4/5 − 1/10 = 8/10 − 1/10 = **7/10** ℓ.
 - **B** — Salah operasi: 4/5 + 1/10 = 9/10 (dijumlahkan).
 - **C** — Salah; mengurangi pembilang & penyebut langsung (3/5).
 - **D** — Salah operasi: 4/5 × 1/10 = 4/50 (dikalikan).
+- **Konsep kunci:** "Masih ada" setelah tumpah dicari dengan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 4/5 dan 1/10 menjadi per sepuluh: 8/10 dan 1/10.
+  2. Kurangkan: 8/10 − 1/10 = 7/10.
+  3. Hasil 7/10 sudah paling sederhana.
 
 ---
 
@@ -516,6 +626,11 @@ Hitung: 3/4 ÷ 3 = 3/4 × 1/3 = 3/12 = **1/4** keranjang per cucu.
 - **B** — Benar, 1/4 keranjang per cucu.
 - **C** — Salah; 3/4 × 3 = 9/4 ≈ 1 (perkiraan kasar).
 - **D** — Salah; mengambil angka 3 → 1/3.
+- **Konsep kunci:** "Membagi rata ke beberapa cucu" berarti pecahan dibagi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 3/4 ÷ 3.
+  2. Ubah jadi perkalian: 3/4 × 1/3 = 3/12.
+  3. Sederhanakan menjadi 1/4 keranjang per cucu.
 
 ---
 
@@ -533,6 +648,11 @@ Hitung: 1/2 + 1/4 = 2/4 + 1/4 = **3/4** jam.
 - **B** — Salah operasi: 1/2 × 1/4 = 1/8 (dikali).
 - **C** — Benar, 3/4 jam.
 - **D** — Salah; hanya mengambil 1/2 sebagai jawaban.
+- **Konsep kunci:** "Total waktu" mengerjakan PR dicari dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/2 dan 1/4 menjadi per empat: 2/4 dan 1/4.
+  2. Jumlahkan: 2/4 + 1/4 = 3/4.
+  3. Hasil 3/4 jam sudah paling sederhana.
 
 ---
 
@@ -550,6 +670,11 @@ Hitung: 1½ − 5/6 = 3/2 − 5/6 = 9/6 − 5/6 = 4/6 = **2/3** m.
 - **B** — Salah konversi 1½ jadi 3/2, lalu salah hitung.
 - **C** — Salah; 1½ − 5/6 jadi 6/8 (salah samakan penyebut).
 - **D** — Benar, 2/3 m.
+- **Konsep kunci:** "Sisa" setelah dipotong dicari dengan pengurangan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 1/2 menjadi pecahan biasa: 3/2.
+  2. Samakan penyebut dengan 5/6 menjadi per enam: 9/6 dan 5/6, lalu kurangkan: 4/6.
+  3. Sederhanakan menjadi 2/3 m.
 
 ---
 
@@ -567,6 +692,11 @@ Hitung: 1/4 × 12 = 12/4 = **3** buah.
 - **B** — Salah; 1/3 × 12 = 4 (salah pecahan).
 - **C** — Benar, 3 buah.
 - **D** — Salah; itu sisa kue (3/4 × 12 = 9), bahkan salah hitung jadi 8.
+- **Konsep kunci:** "Bagian dari" sejumlah kue menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/4 × 12 = 12/4.
+  2. Bagi 12 dengan 4.
+  3. Diperoleh 3 buah kue.
 
 ---
 
@@ -584,6 +714,11 @@ Hitung: 5/8 + 1/8 = 6/8 = **3/4**.
 - **B** — Benar, 6/8 disederhanakan = 3/4.
 - **C** — Salah operasi: 5/8 × 1/8 = 5/64 (dikali).
 - **D** — Salah; 5/8 − 1/8 = 4/8 (dikurang).
+- **Konsep kunci:** "Terjual selama dua hari" dicari dengan menjumlahkan dua pecahan sepenyebut.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama, jumlahkan pembilang: 5/8 + 1/8 = 6/8.
+  2. Sederhanakan 6/8 dengan FPB 2.
+  3. Diperoleh 3/4 bagian stok yang terjual.
 
 ---
 
@@ -601,6 +736,11 @@ Hitung: 4 ÷ 2/5 = 4 × 5/2 = 20/2 = **10** potong.
 - **B** — Salah hitung kasar: 4 ÷ 0,67 ≈ 6 (dibulatkan keliru).
 - **C** — Salah; dibalik (2/5 ÷ 4 = 2/20).
 - **D** — Benar, 10 potong.
+- **Konsep kunci:** "Berapa banyak potongan ... panjang sama" berarti membagi panjang total dengan panjang tiap potongan.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 4 ÷ 2/5.
+  2. Kalikan dengan kebalikan: 4 × 5/2 = 20/2.
+  3. Diperoleh 10 potongan kawat.
 
 ---
 
@@ -618,6 +758,11 @@ Hitung: 7/10 − 1/5 = 7/10 − 2/10 = 5/10 = **1/2** kg.
 - **B** — Salah; lupa konversi 1/5 = 2/10, hanya mengurang pembilang.
 - **C** — Benar, 1/2 kg.
 - **D** — Salah operasi: 7/10 × 1/5 = 7/50 (dikalikan).
+- **Konsep kunci:** "Masih tersisa" dicari dengan pengurangan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 7/10 dan 1/5 menjadi per sepuluh: 7/10 dan 2/10.
+  2. Kurangkan: 7/10 − 2/10 = 5/10.
+  3. Sederhanakan menjadi 1/2 kg.
 
 ---
 
@@ -635,6 +780,11 @@ Hitung: 3/8 × 24 = 72/8 = **9** kelereng.
 - **B** — Benar, 9 kelereng.
 - **C** — Salah; hanya mengambil pembilang.
 - **D** — Salah; itu sisa kelereng tidak biru (5/8 × 24 = 15).
+- **Konsep kunci:** "Bagian dari" sejumlah kelereng menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3/8 × 24 = 72/8.
+  2. Sederhanakan 72/8.
+  3. Diperoleh 9 kelereng biru.
 
 ---
 
@@ -652,6 +802,11 @@ Hitung: 2 − 3/4 = 8/4 − 3/4 = 5/4 = **1 1/4** kg.
 - **B** — Benar nilainya (5/4) tetapi tidak dikonversi ke bilangan campuran.
 - **C** — Benar, 1 1/4 kg = 5/4 kg.
 - **D** — Salah; hanya mengurangi salah satu (2 − 1½ = 1/2).
+- **Konsep kunci:** Soal 2 langkah: jumlahkan dulu pemakaian, baru kurangkan dari total gula.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan pemakaian: 1/4 + 2/4 = 3/4 kg.
+  2. Ubah 2 menjadi 8/4 agar sepenyebut.
+  3. Kurangkan: 8/4 − 3/4 = 5/4 = 1 1/4 kg sisa.
 
 ---
 
@@ -669,6 +824,11 @@ Hitung: 3/4 × 8 = 24/4 = **6** ℓ.
 - **B** — Salah ambil 8/4 × ... → 32/4 (salah hitung perkalian).
 - **C** — Salah; 8 × 1 = 8 (lupa kali 3/4).
 - **D** — Salah; dibalik (3/4 ÷ 8 = 3/32).
+- **Konsep kunci:** "Sebanyak n kali" menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3/4 × 8 = 24/4.
+  2. Sederhanakan 24/4.
+  3. Diperoleh 6 liter air di ember besar.
 
 ---
 
@@ -686,6 +846,11 @@ Hitung: 5/6 ÷ 5 = 5/6 × 1/5 = 5/30 = **1/6** ℓ.
 - **B** — Salah operasi: 5/6 × 5 = 25/6 (dikalikan).
 - **C** — Benar, 1/6 ℓ.
 - **D** — Salah; jawab 1/5 tanpa hitung (pengaruh angka 5).
+- **Konsep kunci:** "Sama rata ke beberapa botol" berarti pecahan dibagi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 5/6 ÷ 5.
+  2. Ubah jadi perkalian: 5/6 × 1/5 = 5/30.
+  3. Sederhanakan menjadi 1/6 liter per botol.
 
 ---
 
@@ -703,6 +868,11 @@ Hitung: 1/3 + 1/4 = 4/12 + 3/12 = **7/12** buku.
 - **B** — Benar, 7/12.
 - **C** — Salah operasi: 1/3 × 1/4 = 1/12 (dikali).
 - **D** — Salah; hanya ambil yang paling besar.
+- **Konsep kunci:** "Total" bagian buku yang dibaca dicari dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/3 dan 1/4 menjadi per dua belas: 4/12 dan 3/12.
+  2. Jumlahkan: 4/12 + 3/12 = 7/12.
+  3. Hasil 7/12 sudah paling sederhana.
 
 ---
 
@@ -720,6 +890,11 @@ Hitung: 2/3 × 3/5 = 6/15 = **2/5** kg.
 - **B** — Benar, 2/5 kg.
 - **C** — Salah hitung: 3/5 ÷ 2/3 = 9/10 ≈ ditulis 1/3 (salah konversi).
 - **D** — Salah; 3/5 − 2/3 = 9/15 − 10/15 = −1/15 → ditulis positif 4/15 (asal).
+- **Konsep kunci:** Kata "dari" menandakan perkalian dua pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/3 × 3/5 = 6/15.
+  2. Sederhanakan 6/15 dengan FPB 3.
+  3. Diperoleh 2/5 kg tepung untuk kue lapis.
 
 ---
 
@@ -737,6 +912,11 @@ Hitung: 3 ÷ 1/4 = 3 × 4 = **12** botol.
 - **B** — Salah operasi: 3 × 1/4 = 3/4 (dikali).
 - **C** — Salah; 3 + 1 = 4 atau 3 × 4/3 = 4 (salah kebalikan).
 - **D** — Salah; dibalik (1/4 ÷ 3 = 1/12).
+- **Konsep kunci:** "Berapa botol ... dari" berarti membagi volume total dengan volume tiap botol.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 3 ÷ 1/4.
+  2. Kalikan dengan kebalikan: 3 × 4 = 12.
+  3. Diperoleh 12 botol kecil.
 
 ---
 
@@ -754,6 +934,11 @@ Hitung: 2/5 × 5/6 = 10/30 = **1/3** hektar.
 - **B** — Benar, 1/3 hektar.
 - **C** — Salah operasi: 5/6 ÷ 2/5 = 5/6 × 5/2 = 25/12 (dibagi).
 - **D** — Benar angka 10/30 = 1/3, tapi ditulis tanpa disederhanakan dan salah pembilang (12/30).
+- **Konsep kunci:** Kata "dari" menandakan perkalian dua pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/5 × 5/6 = 10/30.
+  2. Sederhanakan 10/30 dengan FPB 10.
+  3. Diperoleh 1/3 hektar untuk jagung.
 
 ---
 
@@ -771,6 +956,11 @@ Hitung: 1/4 + 3/4 = 4/4 = **1** ℓ.
 - **B** — Salah operasi: 1/4 × 3/4 = 3/16 (dikali).
 - **C** — Benar, 1 ℓ.
 - **D** — Salah; 3/4 − 1/4 = 2/4 = 1/2 (dikurangkan).
+- **Konsep kunci:** "Total" susu yang diminum dicari dengan penjumlahan pecahan sepenyebut.
+- **Langkah Penyelesaian:**
+  1. Penyebut sudah sama, jumlahkan pembilang: 1/4 + 3/4 = 4/4.
+  2. Sederhanakan 4/4 menjadi 1.
+  3. Total susu yang diminum Adi = 1 liter.
 
 ---
 
@@ -788,6 +978,11 @@ Hitung: 2¼ − 1/2 = 9/4 − 2/4 = 7/4 = **1 3/4** kg.
 - **B** — Salah operasi: 2¼ + 1/2 = 2 3/4 (dijumlahkan).
 - **C** — Salah; mengurangi 1 dari 2¼, abaikan pecahan tetap.
 - **D** — Salah operasi: 2¼ × 1/2 = 9/8 ≈ ditulis 5/8 (salah hitung).
+- **Konsep kunci:** "Masih ada" dicari dengan pengurangan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 1/4 menjadi pecahan biasa: 9/4.
+  2. Samakan penyebut dengan 1/2 menjadi 2/4, lalu kurangkan: 9/4 − 2/4 = 7/4.
+  3. Ubah kembali menjadi 1 3/4 kg.
 
 ---
 
@@ -805,6 +1000,11 @@ Hitung: 1/2 ÷ 4 = 1/2 × 1/4 = **1/8** ℓ per anak.
 - **B** — Benar, 1/8 ℓ per anak.
 - **C** — Salah; menyalin saja angka soal.
 - **D** — Salah; salah konversi atau dianggap 1/(2+4) = 1/6.
+- **Konsep kunci:** "Sama rata ke beberapa anak" berarti pecahan dibagi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 1/2 ÷ 4.
+  2. Ubah jadi perkalian: 1/2 × 1/4 = 1/8.
+  3. Diperoleh 1/8 liter per anak.
 
 ---
 
@@ -822,6 +1022,11 @@ Hitung: 2/3 × 12 = 24/3 = **8** roti.
 - **B** — Salah; mengambil 1 lusin penuh.
 - **C** — Benar, 8 roti.
 - **D** — Salah; 1½ × 12 = 18 (salah konversi 2/3 jadi 1½).
+- **Konsep kunci:** "Bagian dari satu lusin" menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 lusin menjadi 12.
+  2. Kalikan 2/3 × 12 = 24/3.
+  3. Sederhanakan menjadi 8 roti.
 
 ---
 
@@ -839,6 +1044,11 @@ Hitung: 6 5/8 + 1 3/8 = 7 + 8/8 = 7 + 1 = **8** kg.
 - **B** — Benar, 8 kg.
 - **C** — Salah operasi: 6 5/8 − 1 3/8 = 5 2/8 = 5 1/4 (dikurangkan).
 - **D** — Salah operasi: dikurangkan (sama dengan C, tanpa disederhanakan).
+- **Konsep kunci:** "Menambah ... sekarang" berarti penjumlahan pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian bulat: 6 + 1 = 7.
+  2. Jumlahkan pecahannya: 5/8 + 3/8 = 8/8 = 1.
+  3. Tambahkan hasil pecahan ke bagian bulat: 7 + 1 = 8 kg.
 
 ---
 
@@ -856,6 +1066,11 @@ Hitung: 25 ÷ 5/2 = 25 × 2/5 = 50/5 = **10** plastik.
 - **B** — Salah operasi: 25 × 2 = 50 (anggap kebalikan = 2 saja).
 - **C** — Salah operasi: 25 × 5/2 ÷ 10 (salah langkah, sama dengan 25 × 1/2 = 12,5).
 - **D** — Salah; 25 ÷ 5 = 5 (lupa kalikan 2 setelah balik).
+- **Konsep kunci:** "Berapa plastik ... setiap kemasan" berarti membagi berat total dengan berat tiap kemasan.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 25 ÷ 5/2.
+  2. Kalikan dengan kebalikan: 25 × 2/5 = 50/5.
+  3. Diperoleh 10 plastik kemasan.
 
 ---
 
@@ -873,6 +1088,11 @@ Hitung: 1/2 × 4/5 = 4/10 = **2/5** hektar.
 - **B** — Benar, 2/5 hektar.
 - **C** — Salah; dibalik (4/5 ÷ 1/2 = 8/5).
 - **D** — Salah hitung: 4/5 − 1/2 = 8/10 − 5/10 = 3/10 (dikurangkan).
+- **Konsep kunci:** "Bagian dari" luas kebun menandakan perkalian dua pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/2 × 4/5 = 4/10.
+  2. Sederhanakan 4/10 dengan FPB 2.
+  3. Diperoleh 2/5 hektar untuk padi.
 
 ---
 
@@ -890,6 +1110,11 @@ Hitung: 2/5 × 25.000 = 50.000/5 = **Rp10.000**.
 - **B** — Benar, Rp10.000.
 - **C** — Salah; itu sisa yang dipakai (3/5 × 25.000 = 15.000), bukan yang ditabung.
 - **D** — Salah; ambil seluruh uang.
+- **Konsep kunci:** Kata "dari" pada sejumlah uang menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/5 × 25.000 = 50.000/5.
+  2. Bagi hasil dengan penyebut.
+  3. Diperoleh Rp10.000 yang ditabung Risa.
 
 ---
 
@@ -907,6 +1132,11 @@ Hitung: 7/8 + 1/4 = 7/8 + 2/8 = 9/8 = **1 1/8** kg.
 - **B** — Salah; jumlahkan pembilang & penyebut langsung (8/12).
 - **C** — Salah operasi: 7/8 − 1/4 = 7/8 − 2/8 = 5/8 (dikurangkan).
 - **D** — Salah operasi: 7/8 × 1/4 = 7/32 (dikalikan).
+- **Konsep kunci:** "Total" gula setelah membeli lagi dicari dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 7/8 dan 1/4 menjadi per delapan: 7/8 dan 2/8.
+  2. Jumlahkan: 7/8 + 2/8 = 9/8.
+  3. Ubah 9/8 menjadi 1 1/8 kg.
 
 ---
 
@@ -924,6 +1154,11 @@ Hitung: 2/3 × 30 = 60/3 = **20** telur.
 - **B** — Salah; 30 ÷ 2 = 15 (asal-asalan).
 - **C** — Benar, 20 telur.
 - **D** — Salah; 30 ÷ 6 = 5 (asal).
+- **Konsep kunci:** "Bagian dari" sejumlah telur menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 2/3 × 30 = 60/3.
+  2. Bagi 60 dengan 3.
+  3. Diperoleh 20 telur asin yang dijual.
 
 ---
 
@@ -941,6 +1176,11 @@ Hitung: 5/6 − 1/3 = 5/6 − 2/6 = 3/6 = **1/2** m.
 - **B** — Salah operasi: 5/6 × 1/3 = 5/18 (dikalikan).
 - **C** — Benar, 1/2 m.
 - **D** — Salah operasi: 5/6 + 1/3 = 5/6 + 2/6 = 7/6 ≈ ditulis 4/3 (salah).
+- **Konsep kunci:** "Tersisa" dicari dengan pengurangan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 5/6 dan 1/3 menjadi per enam: 5/6 dan 2/6.
+  2. Kurangkan: 5/6 − 2/6 = 3/6.
+  3. Sederhanakan menjadi 1/2 m.
 
 ---
 
@@ -958,6 +1198,11 @@ Hitung: 1/4 × 3 = **3/4** ℓ.
 - **B** — Salah; dibalik (3 ÷ 1/4 = 12).
 - **C** — Salah; hanya menulis pecahan 1/4 tanpa hitung.
 - **D** — Salah; 1/4 ÷ 3 = 1/12 (dibalik salah).
+- **Konsep kunci:** Kata "dari" pada sejumlah liter menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/4 × 3 = 3/4.
+  2. Hasil 3/4 sudah paling sederhana.
+  3. Itulah bensin yang terpakai.
 
 ---
 
@@ -975,6 +1220,11 @@ Hitung: 6 ÷ 2/3 = 6 × 3/2 = 18/2 = **9** botol.
 - **B** — Benar, 9 botol.
 - **C** — Salah; 6 × 2 = 12 (lupa bagi 2 lagi).
 - **D** — Salah; menulis 18 tanpa bagi 2 (lupa langkah terakhir).
+- **Konsep kunci:** "Berapa botol ... berukuran" berarti membagi volume total dengan volume tiap botol.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 6 ÷ 2/3.
+  2. Kalikan dengan kebalikan: 6 × 3/2 = 18/2.
+  3. Diperoleh 9 botol yang dapat diisi.
 
 ---
 
@@ -994,6 +1244,11 @@ Hitung: 1¼ + 2/3 = 5/4 + 2/3 = 15/12 + 8/12 = 23/12 = **1 11/12** cangkir.
 - **B** — Salah hitung: pecahan 1/4 + 2/3 dianggap 1 1/12 → total 2 1/12.
 - **C** — Benar nilainya (23/12) tapi tidak dikonversi ke bilangan campuran.
 - **D** — Salah hitung: hanya jumlah pecahan biasa 1/4 + 2/3 = 11/12 → ditulis 7/12 (salah pengurangan).
+- **Konsep kunci:** "Total" dua pecahan campuran dicari dengan penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 1/4 menjadi pecahan biasa: 5/4.
+  2. Samakan penyebut dengan 2/3 menjadi per dua belas: 15/12 dan 8/12, lalu jumlahkan: 23/12.
+  3. Ubah kembali menjadi 1 11/12 cangkir.
 
 ---
 
@@ -1012,6 +1267,11 @@ Sisa = 3½ − 2 1/20 = 70/20 − 41/20 = **29/20 = 1 9/20** kg.
 - **B** — Salah hitung: 3½ − 1¼ saja = 2¼, lalu salah konversi.
 - **C** — Salah hitung pemakaian: 4/5 + 1¼ = 1 19/20 → sisa = 1 11/20.
 - **D** — Salah; mengabaikan satuan bulat (3½ − 3 1/20 = 9/20).
+- **Konsep kunci:** Soal 2 langkah: jumlahkan pemakaian dulu, lalu kurangkan dari total pupuk.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan pemakaian: 4/5 + 1 1/4 = 16/20 + 25/20 = 41/20.
+  2. Ubah 3 1/2 menjadi 70/20 agar sepenyebut.
+  3. Kurangkan: 70/20 − 41/20 = 29/20 = 1 9/20 kg sisa.
 
 ---
 
@@ -1029,6 +1289,11 @@ Hitung: 5/6 × 2/3 = 10/18 = **5/9** m².
 - **B** — Benar, 5/9 m² (disederhanakan dari 10/18).
 - **C** — Salah operasi: 5/6 ÷ 2/3 = 5/6 × 3/2 = 15/12 = 5/4 ≈ ditulis 3/2 (salah).
 - **D** — Benar nilainya 5/9 tapi ditulis tanpa disederhanakan (10/18).
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar, dihitung dengan perkalian pecahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan pembilang × pembilang dan penyebut × penyebut: 5/6 × 2/3 = 10/18.
+  2. Sederhanakan 10/18 dengan FPB 2.
+  3. Diperoleh luas 5/9 m².
 
 ---
 
@@ -1046,6 +1311,11 @@ Hitung: 4½ ÷ 3/4 = 9/2 × 4/3 = 36/6 = **6** ember.
 - **B** — Salah operasi: 9/2 × 3/4 = 27/8 (dikali).
 - **C** — Benar, 6 ember.
 - **D** — Salah; 4½ × 8/3 (salah kebalikan).
+- **Konsep kunci:** "Berapa ember ... dari" berarti membagi volume total (pecahan campuran) dengan volume tiap ember.
+- **Langkah Penyelesaian:**
+  1. Ubah 4 1/2 menjadi pecahan biasa: 9/2.
+  2. Bagi dengan 3/4 dengan mengalikan kebalikan: 9/2 × 4/3 = 36/6.
+  3. Sederhanakan menjadi 6 ember.
 
 ---
 
@@ -1064,6 +1334,11 @@ Sisa = 2½ − 1 5/8 = 20/8 − 13/8 = **7/8** kg.
 - **B** — Salah hitung terjual: 3/4 + 7/8 dianggap 1 1/8 → sisa = 1 3/8.
 - **C** — Salah operasi: 2½ + 3/4 + 7/8 = 4 1/8 (semua dijumlah).
 - **D** — Salah; 2½ − 1 3/8 = 1 1/8 (salah hitung total).
+- **Konsep kunci:** Soal 2 langkah: jumlahkan yang terjual, lalu kurangkan dari total awal.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan yang terjual: 3/4 + 7/8 = 6/8 + 7/8 = 13/8 = 1 5/8 kg.
+  2. Ubah 2 1/2 menjadi 20/8 agar sepenyebut.
+  3. Kurangkan: 20/8 − 13/8 = 7/8 kg sisa.
 
 ---
 
@@ -1081,6 +1356,11 @@ Hitung: 3⅓ ÷ 5/6 = 10/3 × 6/5 = 60/15 = **4** botol.
 - **B** — Benar, 4 botol.
 - **C** — Salah operasi: 3⅓ × 5/6 ≈ 2,78 ≈ ditulis 2 (dikalikan).
 - **D** — Salah; tambah satu dari hasil benar (4 + 2 = 6, asal-asalan).
+- **Konsep kunci:** "Berapa botol ... berukuran" berarti membagi volume total (pecahan campuran) dengan volume tiap botol.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 1/3 menjadi pecahan biasa: 10/3.
+  2. Bagi dengan 5/6 dengan mengalikan kebalikan: 10/3 × 6/5 = 60/15.
+  3. Sederhanakan menjadi 4 botol.
 
 ---
 
@@ -1097,6 +1377,11 @@ Identifikasi: 2-step. Luas padi = 3/4 × 4/5 = 12/20 = 3/5. Sisa = 4/5 − 3/5 =
 - **B** — Benar, 1/15 hektar.
 - **C** — Salah; 1/3 × 4/5 = 4/15 (langsung dari kebun, lupa kurangi padi).
 - **D** — Salah; itu luas padi (3/5), bukan jagung.
+- **Konsep kunci:** Soal 2 langkah perkalian bertingkat: hitung bagian pertama, cari sisa, lalu kalikan lagi.
+- **Langkah Penyelesaian:**
+  1. Hitung luas padi: 3/4 × 4/5 = 12/20 = 3/5 hektar.
+  2. Cari sisa kebun: 4/5 − 3/5 = 1/5 hektar.
+  3. Hitung luas jagung: 1/3 × 1/5 = 1/15 hektar.
 
 ---
 
@@ -1113,6 +1398,11 @@ Identifikasi: 2-step. Sisa = 5/6 − 1/3 = 5/6 − 2/6 = 3/6 = 1/2 ℓ. Dibagi 2
 - **B** — Benar, 1/4 ℓ per gelas.
 - **C** — Salah; salah langkah, kira sisa 1/6 lalu dibagi.
 - **D** — Salah; menambahkan semuanya jadi 1 ℓ.
+- **Konsep kunci:** Soal 2 langkah: kurangkan pemakaian dulu, baru bagikan sisanya rata.
+- **Langkah Penyelesaian:**
+  1. Hitung sisa susu: 5/6 − 1/3 = 5/6 − 2/6 = 3/6 = 1/2 liter.
+  2. Bagi sisa ke 2 gelas: 1/2 ÷ 2 = 1/2 × 1/2.
+  3. Diperoleh 1/4 liter per gelas.
 
 ---
 
@@ -1130,6 +1420,11 @@ Hitung: 12 × 9½ = 12 × 19/2 = 228/2 = **114** m².
 - **B** — Salah; 12 × 9 = 108 (lupa kalikan ½).
 - **C** — Benar, 114 m².
 - **D** — Salah; pembulatan asal-asalan.
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar, dengan lebar berupa pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah 9 1/2 menjadi pecahan biasa: 19/2.
+  2. Kalikan 12 × 19/2 = 228/2.
+  3. Diperoleh luas 114 m².
 
 ---
 
@@ -1147,6 +1442,11 @@ Hitung: 6 ÷ 3/8 = 6 × 8/3 = 48/3 = **16** kemasan.
 - **B** — Salah operasi: 6 × 3/8 = 18/8 = 9/4 (dikali).
 - **C** — Salah; sama dengan B = 9/4 = 2¼ (dikali).
 - **D** — Salah; 6 × 3 = 18 (lupa bagi 3 lagi, asal kalikan pembilang saja).
+- **Konsep kunci:** "Berapa kemasan ... berisi" berarti membagi berat total dengan berat tiap kemasan.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 6 ÷ 3/8.
+  2. Kalikan dengan kebalikan: 6 × 8/3 = 48/3.
+  3. Diperoleh 16 kemasan.
 
 ---
 
@@ -1163,6 +1463,11 @@ Identifikasi: 2-step. Sisa waktu = 4 − 1½ = 2½ jam. Rapat = 1/3 × 2½ = 1/3
 - **B** — Salah; 1/3 × 4 = 4/3 (langsung dari total, lupa kurangi membaca).
 - **C** — Salah; itu sisa waktu (2½ jam), bukan rapat.
 - **D** — Salah; pembulatan dari 5/6 ≈ 1.
+- **Konsep kunci:** Soal 2 langkah: cari sisa waktu dulu, baru kalikan dengan bagian yang diminta.
+- **Langkah Penyelesaian:**
+  1. Hitung sisa waktu kerja: 4 − 1 1/2 = 2 1/2 jam.
+  2. Ubah 2 1/2 menjadi pecahan biasa: 5/2.
+  3. Kalikan 1/3 × 5/2 = 5/6 jam untuk rapat.
 
 ---
 
@@ -1180,6 +1485,11 @@ Hitung: 3/8 + 1/4 + 1/2 = 3/8 + 2/8 + 4/8 = 9/8 = **1 1/8** cangkir.
 - **B** — Salah; jumlahkan pembilang & penyebut langsung (6/14).
 - **C** — Salah hitung: 3/8 + 2/8 + 4/8 = 9/8 → ditulis 7/8 (salah jumlah pembilang).
 - **D** — Benar, 1 1/8 cangkir.
+- **Konsep kunci:** "Total" tiga bahan cair dicari dengan penjumlahan tiga pecahan.
+- **Langkah Penyelesaian:**
+  1. Samakan ketiga pecahan ke penyebut 8: 3/8, 2/8, 4/8.
+  2. Jumlahkan pembilangnya: 3 + 2 + 4 = 9, jadi 9/8.
+  3. Ubah 9/8 menjadi 1 1/8 cangkir.
 
 ---
 
@@ -1197,6 +1507,11 @@ Hitung: (7/10 − 1/5) + 3/4 = (7/10 − 2/10) + 3/4 = 5/10 + 3/4 = 1/2 + 3/4 = 
 - **B** — Salah; hanya 7/10 − 2/10 = 5/10 (lupa tambah).
 - **C** — Salah hitung: 7/10 + 3/4 ≈ 1½ (lupa kurang 1/5).
 - **D** — Salah; jumlahkan pembilang & penyebut langsung.
+- **Konsep kunci:** Soal 2 langkah: kurangkan dulu bagian yang dibuang, lalu tambahkan penambahan berikutnya.
+- **Langkah Penyelesaian:**
+  1. Kurangkan yang dibuang: 7/10 − 1/5 = 7/10 − 2/10 = 5/10 = 1/2 liter.
+  2. Samakan penyebut 1/2 dan 3/4 menjadi per empat: 2/4 dan 3/4.
+  3. Jumlahkan: 2/4 + 3/4 = 5/4 = 1 1/4 liter.
 
 ---
 
@@ -1214,6 +1529,11 @@ Hitung: 5/6 × 10 = 50/6 = 25/3 = **8 1/3** kg.
 - **B** — Salah; menjadikan 5/6 ≈ 1, lalu 1 × 10 = 10 atau salah hitung jadi 12.
 - **C** — Salah; jumlahkan pembilang & penyebut: 5/6 + 6/6 = 11/6 (asal).
 - **D** — Salah; dibalik (5/6 ÷ 10 = 1/12).
+- **Konsep kunci:** "n kemasan × berat per kemasan" menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 5/6 × 10 = 50/6.
+  2. Sederhanakan 50/6 dengan FPB 2 menjadi 25/3.
+  3. Ubah menjadi 8 1/3 kg.
 
 ---
 
@@ -1233,6 +1553,11 @@ Jadi: **6 potong, sisa 1/2 m**.
 - **B** — Salah; 6 × 2/3 = 4 m, masih sisa 1/2 m (tidak tepat habis).
 - **C** — Salah; 7 × 2/3 = 14/3 = 4 2/3 m, lebih dari 4½ → tidak cukup.
 - **D** — Salah; 8 × 2/3 = 16/3 ≈ 5⅓ m, lebih dari 4½ → tidak cukup.
+- **Konsep kunci:** Pembagian dengan sisa: cari berapa kali ukuran tiap potong muat, sisanya dihitung terpisah.
+- **Langkah Penyelesaian:**
+  1. Coba kelipatan 2/3: 6 × 2/3 = 4 m (muat, karena 4 kurang dari 4 1/2).
+  2. Cek kelipatan berikutnya (7 × 2/3 = 4 2/3 m) — lebih dari 4 1/2, jadi tidak muat.
+  3. Hitung sisa: 4 1/2 − 4 = 1/2 m, jadi 6 potong sisa 1/2 m.
 
 ---
 
@@ -1250,6 +1575,11 @@ Saudara = 2/3 × 12 = 8 kg. Sisa = 12 − 8 = 4 kg. Kue = 3/4 × 4 = **3** kg.
 - **B** — Benar, 3 kg.
 - **C** — Salah; sisa setelah kue (4 − 3 = 1 kg).
 - **D** — Salah; itu sisa sebelum kue (4 kg).
+- **Konsep kunci:** Soal 2 langkah perkalian bertingkat: hitung bagian pertama, cari sisa, lalu kalikan lagi.
+- **Langkah Penyelesaian:**
+  1. Hitung bagian untuk saudara: 2/3 × 12 = 8 kg.
+  2. Cari sisa gula: 12 − 8 = 4 kg.
+  3. Hitung bagian untuk kue: 3/4 × 4 = 3 kg.
 
 ---
 
@@ -1267,6 +1597,11 @@ Hitung: 2¼ × 1⅓ = 9/4 × 4/3 = 36/12 = **3** m².
 - **B** — Benar, 3 m².
 - **C** — Salah; hanya 9/4 = 2¼ (lupa kalikan 1⅓).
 - **D** — Salah; 9/4 × 1⅓ dianggap 9 × ¼ ÷ 3 (salah hitung).
+- **Konsep kunci:** Luas persegi panjang = panjang × lebar, keduanya berupa pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 1/4 dan 1 1/3 menjadi pecahan biasa: 9/4 dan 4/3.
+  2. Kalikan 9/4 × 4/3 = 36/12.
+  3. Sederhanakan menjadi luas 3 m².
 
 ---
 
@@ -1283,6 +1618,11 @@ Identifikasi: 3-step. Dipakai usaha = 4/5 × 6½ = 4/5 × 13/2 = 52/10 = 26/5 = 
 - **B** — Salah; mengambil 13/10 sebagai sisa & ditulis 1 3/10 (lupa bagi 5).
 - **C** — Salah; itu jumlah yang dipakai usaha (26/5), bukan tiap botol.
 - **D** — Salah hitung sisa: 13/5 (kekurangan langkah).
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk bagian yang dipakai, cari sisa, lalu bagikan sisa rata.
+- **Langkah Penyelesaian:**
+  1. Hitung yang dipakai usaha: 4/5 × 6 1/2 = 4/5 × 13/2 = 52/10.
+  2. Cari sisa: 6 1/2 − 5 1/5 = 65/10 − 52/10 = 13/10.
+  3. Bagi sisa ke 5 botol: 13/10 ÷ 5 = 13/50 liter per botol.
 
 ---
 
@@ -1300,6 +1640,11 @@ Hitung: 2½ ÷ 1/8 = 5/2 × 8 = 40/2 = **20** donat.
 - **B** — Benar, 20 donat.
 - **C** — Salah hitung: 2½ × 10 = 25 (asal).
 - **D** — Salah operasi: 2½ ÷ 1/2 = 5 (salah pembagi).
+- **Konsep kunci:** "Berapa donat ... memerlukan" berarti membagi berat adonan total dengan berat tiap donat.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 1/2 menjadi pecahan biasa: 5/2.
+  2. Bagi dengan 1/8 dengan mengalikan kebalikan: 5/2 × 8/1 = 40/2.
+  3. Diperoleh 20 donat.
 
 ---
 
@@ -1316,6 +1661,11 @@ Identifikasi: 2-step. Isi sekarang = 3/8 × 24 = 9 ℓ. Sisa = 24 − 9 = **15**
 - **B** — Salah; mengira sisa = 24 − 6 = 18 (salah hitung 1/4 × 24).
 - **C** — Benar, 15 ℓ.
 - **D** — Salah; 24 ÷ 3 = 8 (asal).
+- **Konsep kunci:** Soal 2 langkah: hitung isi sekarang dengan perkalian, lalu cari kekurangannya dengan pengurangan.
+- **Langkah Penyelesaian:**
+  1. Hitung isi sekarang: 3/8 × 24 = 9 liter.
+  2. Kurangkan dari kapasitas penuh: 24 − 9 = 15 liter.
+  3. Itulah minyak yang perlu ditambahkan.
 
 ---
 
@@ -1333,6 +1683,11 @@ Hitung: 3½ ÷ 5 = 7/2 × 1/5 = 7/10 m.
 - **B** — Salah operasi: 3½ × 5 = 35/2 (dikali).
 - **C** — Salah; 17/5 = 3,4 (asal-asalan dekat 3½).
 - **D** — Salah; 5 ÷ 3½ = ~10/7 ≈ ditulis 1/5 (salah balik).
+- **Konsep kunci:** "Dipotong menjadi n bagian sama panjang" berarti panjang total dibagi banyak bagian.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 1/2 menjadi pecahan biasa: 7/2.
+  2. Bagi dengan 5: 7/2 × 1/5 = 7/10.
+  3. Diperoleh panjang tiap potongan 7/10 m.
 
 ---
 
@@ -1349,6 +1704,11 @@ Identifikasi: 2-step. Total terjual = 2½ + 1/4 = 10/4 + 1/4 = 11/4 = 2 3/4. Sis
 - **B** — Salah hitung: hanya 3¾ − 2½ = 1¼ (lupa kurang 1/4 lagi).
 - **C** — Benar, 1 kg.
 - **D** — Salah; 3¾ − 3¼ = 1/2 (salah penjumlahan terjual).
+- **Konsep kunci:** Soal 2 langkah: jumlahkan yang terjual, lalu kurangkan dari total awal.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan yang terjual: 2 1/2 + 1/4 = 10/4 + 1/4 = 11/4 = 2 3/4 kg.
+  2. Kurangkan dari total: 3 3/4 − 2 3/4 = 1 kg.
+  3. Itulah dodol yang belum terjual.
 
 ---
 
@@ -1366,6 +1726,11 @@ Hitung: 2/3 × 1½ = 2/3 × 3/2 = 6/6 = **1** hektar.
 - **B** — Salah operasi: 1½ ÷ 2/3 = 3/2 × 3/2 = 9/4 (dibagi).
 - **C** — Benar, 1 hektar.
 - **D** — Salah hitung: 5/6 (salah konversi 1½).
+- **Konsep kunci:** Kata "dari" pada pecahan campuran menandakan perkalian.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 1/2 menjadi pecahan biasa: 3/2.
+  2. Kalikan 2/3 × 3/2 = 6/6.
+  3. Sederhanakan menjadi 1 hektar.
 
 ---
 
@@ -1383,6 +1748,11 @@ Hitung: 4 ÷ 2/5 = 4 × 5/2 = 20/2 = **10** kemasan.
 - **B** — Salah operasi: 4/4 × 2/5 dianggap 5/2 (dibalik salah).
 - **C** — Benar, 10 kemasan.
 - **D** — Salah; 4 × 5 = 20 (lupa bagi 2).
+- **Konsep kunci:** "Berapa kemasan ... berukuran" berarti membagi berat total dengan berat tiap kemasan.
+- **Langkah Penyelesaian:**
+  1. Bentuk pembagian: 4 ÷ 2/5.
+  2. Kalikan dengan kebalikan: 4 × 5/2 = 20/2.
+  3. Diperoleh 10 kemasan.
 
 ---
 
@@ -1400,6 +1770,11 @@ Hitung: 3/4 × 6 = 18/4 = 9/2 = **4 1/2** sdt.
 - **B** — Benar, 4½ sdt.
 - **C** — Salah pembulatan: 4½ ≈ 8 (asal).
 - **D** — Salah; dibalik (3/4 ÷ 6 = 1/8).
+- **Konsep kunci:** "n porsi × takaran per porsi" menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 3/4 × 6 = 18/4.
+  2. Sederhanakan 18/4 dengan FPB 2 menjadi 9/2.
+  3. Ubah menjadi 4 1/2 sdt garam.
 
 ---
 
@@ -1416,6 +1791,11 @@ Identifikasi: 2-step. Padi = 3/5 × 5/8 = 15/40 = 3/8 hektar. Sisa palawija = 5/
 - **B** — Benar, 1/4 hektar.
 - **C** — Salah; mengambil seluruh kebun.
 - **D** — Salah; jumlahkan pembilang & penyebut langsung.
+- **Konsep kunci:** Soal 2 langkah: hitung luas padi dulu (perkalian), lalu cari sisa untuk palawija (pengurangan).
+- **Langkah Penyelesaian:**
+  1. Hitung luas padi: 3/5 × 5/8 = 15/40 = 3/8 hektar.
+  2. Kurangkan dari total kebun: 5/8 − 3/8 = 2/8.
+  3. Sederhanakan menjadi 1/4 hektar untuk palawija.
 
 ---
 
@@ -1432,6 +1812,11 @@ Identifikasi: 2-step. Total minuman = 5/8 + 1/4 = 5/8 + 2/8 = 7/8 ℓ. Tiap gela
 - **B** — Benar, 1/8 ℓ per gelas.
 - **C** — Salah hitung; campur jadi 6/12 (salah konversi 1/4).
 - **D** — Benar nilainya 1/8 tetapi tidak disederhanakan.
+- **Konsep kunci:** Soal 2 langkah: jumlahkan dulu campurannya, lalu bagi rata ke beberapa gelas.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan campuran: 5/8 + 1/4 = 5/8 + 2/8 = 7/8 liter.
+  2. Bagi ke 7 gelas: 7/8 ÷ 7 = 7/8 × 1/7.
+  3. Sederhanakan menjadi 1/8 liter per gelas.
 
 ---
 
@@ -1449,6 +1834,11 @@ Hitung: 2¼ ÷ 3 = 9/4 × 1/3 = 9/12 = **3/4** hektar.
 - **B** — Benar, 3/4 hektar.
 - **C** — Benar nilainya (3/4) tapi tidak disederhanakan (ditulis 9/12).
 - **D** — Salah; 1/3 (mengambil 1 dibagi 3 saja).
+- **Konsep kunci:** "Dibagi rata ke beberapa anak" berarti pecahan campuran dibagi bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 2 1/4 menjadi pecahan biasa: 9/4.
+  2. Bagi dengan 3: 9/4 × 1/3 = 9/12.
+  3. Sederhanakan menjadi 3/4 hektar per anak.
 
 ---
 
@@ -1466,6 +1856,11 @@ Hitung: 3/4 + 5/6 = 9/12 + 10/12 = 19/12 = **1 7/12** kg.
 - **B** — Benar, 1 7/12 kg.
 - **C** — Benar nilainya (19/12) tapi tidak dikonversi ke bilangan campuran.
 - **D** — Salah hitung asal-asalan.
+- **Konsep kunci:** "Total" dua belanjaan dicari dengan penjumlahan pecahan berpenyebut beda.
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 3/4 dan 5/6 menjadi per dua belas: 9/12 dan 10/12.
+  2. Jumlahkan: 9/12 + 10/12 = 19/12.
+  3. Ubah menjadi 1 7/12 kg.
 
 ---
 
@@ -1483,6 +1878,11 @@ Hitung: pagi = 2/5 × 60 = 24 ℓ. Tambah sore = 1/4 × 60 = 15 ℓ. Total = 24 
 - **B** — Salah; hanya isi pagi (24 ℓ), lupa tambah sore.
 - **C** — Salah hitung: 2/5 × 60 + 1/4 × 60 dianggap (2+1)/(5+4) × 60 = 60/3 = 30.
 - **D** — Salah; itu sisa kapasitas (60 − 15 = 45) atau salah konversi.
+- **Konsep kunci:** Soal 2 langkah: kalikan dua kali untuk pagi dan sore, lalu jumlahkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung isi pagi: 2/5 × 60 = 24 liter.
+  2. Hitung tambahan sore: 1/4 × 60 = 15 liter.
+  3. Jumlahkan: 24 + 15 = 39 liter.
 
 ---
 
@@ -1501,6 +1901,11 @@ Identifikasi: 3-step. Cake = 2/3 × 5¼ = 2/3 × 21/4 = 42/12 = 7/2 = 3½ kg. Si
 - **B** — Salah; pembulatan asal 7/4 ÷ 7/8 ≈ 3.
 - **C** — Salah hitung sisa: 5¼ × 1/3 = 1¾ → 1¾ ÷ 7/8 = 2 (kebetulan sama, tapi langkah salah).
 - **D** — Salah; 5¼ × 2/3 ÷ 7/8 (salah pemilihan sisa).
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk bagian cake, kurangkan untuk sisa roti, lalu bagi dengan takaran per roti.
+- **Langkah Penyelesaian:**
+  1. Hitung bagian cake: 2/3 × 5 1/4 = 2/3 × 21/4 = 42/12 = 3 1/2 kg.
+  2. Cari sisa untuk roti: 5 1/4 − 3 1/2 = 7/4 kg.
+  3. Bagi sisa dengan takaran per roti: 7/4 ÷ 7/8 = 7/4 × 8/7 = 2 roti.
 
 ---
 
@@ -1517,6 +1922,11 @@ Identifikasi: 3-step. Bagian pertama = 3/5 × 200 = 120 km. Sisa = 200 − 120 =
 - **B** — Salah; perkiraan kasar (1/4 × 200 = 50).
 - **C** — Salah; itu sisa setelah bagian pertama (80 km), lupa kurangi bagian kedua.
 - **D** — Salah; itu bagian pertama (120 km), bukan sisa.
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk tiap bagian perjalanan, lalu cari sisa yang belum ditempuh.
+- **Langkah Penyelesaian:**
+  1. Hitung bagian pertama: 3/5 × 200 = 120 km.
+  2. Hitung sisa lalu bagian kedua: 200 − 120 = 80 km, 1/4 × 80 = 20 km.
+  3. Jumlahkan yang sudah ditempuh (120 + 20 = 140 km) lalu kurangkan dari 200 km: 60 km.
 
 ---
 
@@ -1534,6 +1944,11 @@ Hitung: 6 × 1/4 = 6/4 = **3/2 = 1½** kg.
 - **B** — Salah; hanya 1/4 kg untuk 1 kg dodol.
 - **C** — Benar, 1½ kg.
 - **D** — Salah hitung: 6 × 1/8 = 3/4 (salah pecahan).
+- **Konsep kunci:** "n kg × takaran per kg" menandakan perkalian pecahan × bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Kalikan 1/4 × 6 = 6/4.
+  2. Sederhanakan 6/4 dengan FPB 2.
+  3. Ubah menjadi 1 1/2 kg tepung ketan.
 
 ---
 
@@ -1550,6 +1965,11 @@ Identifikasi: 2-step. Total terjual = 1/3 + 1/4 + 1/6 = 4/12 + 3/12 + 2/12 = 9/1
 - **B** — Benar, 1/4 stok.
 - **C** — Salah; 3/12 ≠ 1/4 (3/12 = 1/4 sebenarnya, tapi ditulis tanpa disederhanakan dan salah angka — bandingkan dengan D yang lebih tepat).
 - **D** — Salah hitung: 1 − 11/12 = 1/12 (anggap total 11/12).
+- **Konsep kunci:** Soal 2 langkah: jumlahkan semua yang terjual, lalu kurangkan dari 1 (keseluruhan stok).
+- **Langkah Penyelesaian:**
+  1. Samakan penyebut 1/3, 1/4, 1/6 menjadi per dua belas: 4/12, 3/12, 2/12.
+  2. Jumlahkan: 4/12 + 3/12 + 2/12 = 9/12 = 3/4.
+  3. Kurangkan dari 1: 1 − 3/4 = 1/4 stok sisa.
 
 ---
 
@@ -1566,6 +1986,11 @@ Identifikasi: 3-step. Padi = 5/8 × 4/5 = 20/40 = 1/2 hektar. Sisa pertama = 4/5
 - **B** — Salah; mengira sayur = 1/4 sisa = 3/40 lalu salah konversi → 1/4.
 - **C** — Salah; itu sisa pertama (3/10), lupa kurangi palawija.
 - **D** — Salah; itu luas palawija (3/40), bukan sayur.
+- **Konsep kunci:** Soal 4 langkah bertingkat: kalikan untuk padi, kurangkan sisa, kalikan lagi untuk palawija, kurangkan lagi untuk sayur.
+- **Langkah Penyelesaian:**
+  1. Hitung luas padi: 5/8 × 4/5 = 20/40 = 1/2 hektar.
+  2. Cari sisa pertama: 4/5 − 1/2 = 3/10 hektar.
+  3. Hitung palawija: 1/4 × 3/10 = 3/40 hektar, lalu sayur = 3/10 − 3/40 = 9/40 hektar.
 
 ---
 
@@ -1583,6 +2008,11 @@ ATAU langsung: 2/3 × 9 = **6** kg (pembagian-pembagian saling mengkonfirmasi).
 - **B** — Benar, 6 kg.
 - **C** — Salah; isi 1 kantong (3 kg), bukan yang dipakai.
 - **D** — Salah; ambil seluruh gula.
+- **Konsep kunci:** Soal 2 langkah: bagi rata dulu ke kantong, lalu kalikan bagian yang dipakai tiap kantong dengan banyak kantong.
+- **Langkah Penyelesaian:**
+  1. Hitung isi tiap kantong: 9 ÷ 3 = 3 kg.
+  2. Hitung yang dipakai tiap kantong: 2/3 × 3 = 2 kg.
+  3. Kalikan dengan banyak kantong: 2 × 3 = 6 kg (sama dengan cara singkat 2/3 × 9).
 
 ---
 
@@ -1615,6 +2045,11 @@ Ada bug pada opsi A; namun secara prinsip jawaban benar konsep = 3 5/8 jam = 87/
 - **B** — Salah; hanya pagi + siang (29/12), lupa tambah sore.
 - **C** — Salah hitung: 1¾ + 2/3 + 3 = 5 5/12 (sore dianggap 3 jam).
 - **D** — Salah; 1¾ + 2/3 + 4¾ = 7¼ (asal tambah).
+- **Konsep kunci:** Soal 3 langkah: jumlahkan pagi dan siang, kalikan setengahnya untuk sore, lalu jumlahkan semuanya.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan pagi dan siang: 1 3/4 + 2/3 = 21/12 + 8/12 = 29/12 jam.
+  2. Hitung waktu sore: 1/2 × 29/12 = 29/24 jam.
+  3. Jumlahkan totalnya: 29/12 + 29/24 = 87/24 = 3 5/8 jam (mendekati opsi A yang tersedia).
 
 ---
 
@@ -1631,6 +2066,11 @@ Identifikasi: 2-step. Isi tiap botol = 5½ ÷ 11 = 11/2 × 1/11 = 1/2 ℓ. Banya
 - **B** — Benar, Rp44.000.
 - **C** — Salah; harga 1 botol (Rp4.000) × 1/2 = Rp2.000 (salah hitung).
 - **D** — Salah; 10 botol × Rp4.000 = Rp40.000 (lupa 11 botol).
+- **Konsep kunci:** Soal 2 langkah: bagi rata dulu untuk isi tiap botol, lalu kalikan banyak botol dengan harga jual.
+- **Langkah Penyelesaian:**
+  1. Hitung isi tiap botol: 5 1/2 ÷ 11 = 11/2 × 1/11 = 1/2 liter.
+  2. Kalikan banyak botol (11) dengan harga per botol: 11 × Rp4.000.
+  3. Diperoleh total penjualan Rp44.000.
 
 ---
 
@@ -1647,6 +2087,11 @@ Identifikasi: 3-step. Hari-1 = 3/4 × 8 = 6 kg. Sisa = 8 − 6 = 2 kg. Hari-2 = 
 - **B** — Salah; itu yang dijual hari-2 (4/5 kg), bukan sisa.
 - **C** — Salah; itu hari pertama (6 kg), bukan sisa.
 - **D** — Salah; sisa setelah hari-1 (2 kg), lupa kurang hari-2.
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk hari pertama, cari sisa, kalikan lagi untuk hari kedua, lalu cari sisa akhir.
+- **Langkah Penyelesaian:**
+  1. Hitung penjualan hari pertama: 3/4 × 8 = 6 kg, sisa = 8 − 6 = 2 kg.
+  2. Hitung penjualan hari kedua: 2/5 × 2 = 4/5 kg.
+  3. Kurangkan dari sisa: 2 − 4/5 = 1 1/5 kg untuk hari ketiga.
 
 ---
 
@@ -1664,6 +2109,11 @@ Hitung: 2/3 + 3/4 + 5/6 + 1/2 = 8/12 + 9/12 + 10/12 + 6/12 = 33/12 = 11/4 = **2 
 - **B** — Benar, 2 3/4 ℓ.
 - **C** — Salah; jumlahkan tanpa salah satu (8+9+6)/12 = 23/12.
 - **D** — Salah; jumlahkan pembilang & penyebut langsung lalu salah konversi.
+- **Konsep kunci:** "Total" empat pecahan dicari dengan menyamakan penyebut lalu menjumlahkan.
+- **Langkah Penyelesaian:**
+  1. Samakan keempat pecahan ke penyebut 12: 8/12, 9/12, 10/12, 6/12.
+  2. Jumlahkan pembilangnya: 8 + 9 + 10 + 6 = 33, jadi 33/12.
+  3. Sederhanakan dan ubah menjadi 2 3/4 liter.
 
 ---
 
@@ -1681,6 +2131,11 @@ Hitung: 3⅓ × 24.000 = 10/3 × 24.000 = 240.000/3 = **Rp80.000**.
 - **B** — Salah; 3 × 24.000 = 72.000 (lupa kalikan ⅓).
 - **C** — Salah; (3 − ⅓) × 24.000 = 8/3 × 24.000 = 64.000 (salah konversi).
 - **D** — Salah; 24.000 ÷ 10/3 = 7.200 (dibalik).
+- **Konsep kunci:** "Berat × harga per kg" menandakan perkalian pecahan campuran dengan bilangan bulat.
+- **Langkah Penyelesaian:**
+  1. Ubah 3 1/3 menjadi pecahan biasa: 10/3.
+  2. Kalikan 10/3 × 24.000 = 240.000/3.
+  3. Diperoleh total Rp80.000.
 
 ---
 
@@ -1697,6 +2152,11 @@ Identifikasi: 3-step. Roti = 2/3 × 12 = 8 kg. Sisa-1 = 12 − 8 = 4 kg. Kue = 3
 - **B** — Benar, 1 kg.
 - **C** — Salah; itu yang dipakai kue (3 kg), bukan sisa.
 - **D** — Salah; pembulatan atau salah hitung.
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk roti, cari sisa, kalikan lagi untuk kue, lalu cari sisa akhir.
+- **Langkah Penyelesaian:**
+  1. Hitung untuk roti: 2/3 × 12 = 8 kg, sisa = 12 − 8 = 4 kg.
+  2. Hitung untuk kue: 3/4 × 4 = 3 kg.
+  3. Kurangkan dari sisa: 4 − 3 = 1 kg tepung tersisa.
 
 ---
 
@@ -1714,6 +2174,11 @@ Hitung: 5½ ÷ 22 = 11/2 × 1/22 = 11/44 = **1/4** ℓ per gelas.
 - **B** — Benar nilainya 1/2 tapi ditulis tanpa disederhanakan dengan pembilang yang salah (11/22 = 1/2, bukan 1/4).
 - **C** — Benar, 1/4 ℓ per gelas.
 - **D** — Salah operasi: 22 ÷ 5½ ≈ 4 (dibalik).
+- **Konsep kunci:** "Isi sama ke n tamu" berarti membagi volume total (pecahan campuran) dengan banyak tamu.
+- **Langkah Penyelesaian:**
+  1. Ubah 5 1/2 menjadi pecahan biasa: 11/2.
+  2. Bagi dengan 22: 11/2 × 1/22 = 11/44.
+  3. Sederhanakan menjadi 1/4 liter per gelas.
 
 ---
 
@@ -1730,6 +2195,11 @@ Identifikasi: 2-step. Bagian yang sudah dilalui = 3/4 × 100 = 75 m. Banyak lang
 - **B** — Salah; 100 langkah (asumsi 1 langkah per meter, lupa kalikan 5/8).
 - **C** — Salah; itu jarak dalam meter (75 m), bukan jumlah langkah.
 - **D** — Salah hitung: 100 × 4/5 = 80 (salah pecahan).
+- **Konsep kunci:** Soal 2 langkah: kalikan untuk jarak yang sudah ditempuh, lalu bagi dengan panjang tiap langkah.
+- **Langkah Penyelesaian:**
+  1. Hitung jarak yang sudah dilalui: 3/4 × 100 = 75 m.
+  2. Bagi dengan panjang tiap langkah: 75 ÷ 5/8 = 75 × 8/5.
+  3. Diperoleh 120 langkah.
 
 ---
 
@@ -1753,6 +2223,11 @@ Hmm, opsi A = 2¼ dan opsi D = 27/12 (= 2¼ tidak disederhanakan). Keduanya sama
 - **D** — Nilainya sama benar (27/12 = 2¼), tetapi tidak dalam bentuk paling sederhana.
 
 **Kunci final: A.**
+- **Konsep kunci:** "Total" tiga hari penyiraman dicari dengan menyamakan penyebut lalu menjumlahkan, kemudian disederhanakan.
+- **Langkah Penyelesaian:**
+  1. Samakan ketiga pecahan ke penyebut 12: 8/12, 9/12, 10/12.
+  2. Jumlahkan: 8 + 9 + 10 = 27, jadi 27/12.
+  3. Sederhanakan 27/12 menjadi bentuk paling sederhana 2 1/4 liter.
 
 ---
 
@@ -1769,6 +2244,11 @@ Identifikasi: 2-step. Masakan = 3/7 × 7/8 = 21/56 = 3/8 ℓ. Sisa lampu = 7/8 �
 - **B** — Benar, 1/2 ℓ.
 - **C** — Salah hitung sisa: 7/8 − 1/4 = 5/8 (salah hitung masakan).
 - **D** — Benar nilainya 1/2 tapi ditulis tanpa disederhanakan (7/14 ≠ 1/2 tepat; 7/14 = 1/2 sebenarnya, namun ditulis tidak sederhana).
+- **Konsep kunci:** Soal 2 langkah: kalikan untuk bagian masakan, lalu kurangkan dari total untuk bagian lampu.
+- **Langkah Penyelesaian:**
+  1. Hitung bagian masakan: 3/7 × 7/8 = 21/56 = 3/8 liter.
+  2. Kurangkan dari total: 7/8 − 3/8 = 4/8.
+  3. Sederhanakan menjadi 1/2 liter untuk lampu.
 
 ---
 
@@ -1785,6 +2265,11 @@ Identifikasi: 2-step. Total terjual = 5¾ + 3½ = 23/4 + 14/4 = 37/4 = 9¼ kg. S
 - **B** — Salah hitung total terjual: 5¾ + 3½ dianggap 8¼ → sisa = 12½ − 8¼ = 4¼.
 - **C** — Salah hitung: 12½ − 9¾ = 2¾ (salah total terjual).
 - **D** — Salah; salah konversi pecahan campuran.
+- **Konsep kunci:** Soal 2 langkah: jumlahkan semua yang terjual, lalu kurangkan dari berat awal pecahan campuran.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan yang terjual: 5 3/4 + 3 1/2 = 23/4 + 14/4 = 37/4 = 9 1/4 kg.
+  2. Ubah 12 1/2 menjadi 50/4 agar sepenyebut.
+  3. Kurangkan: 50/4 − 37/4 = 13/4 = 3 1/4 kg sisa.
 
 ---
 
@@ -1801,6 +2286,11 @@ Identifikasi: 3-step. Lampion = 1/2 × 3⅓ = 1/2 × 10/3 = 10/6 = 5/3 m. Sisa-1
 - **B** — Salah; itu yang dipakai gantungan (1 m), bukan sisa.
 - **C** — Salah hitung: sisa-1 dianggap 4/3, lalu salah kali.
 - **D** — Salah; itu sisa antara lain (5/3 = 1⅔, dibulatkan jadi 1⅓).
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk lampion, cari sisa, kalikan lagi untuk gantungan, lalu cari sisa akhir.
+- **Langkah Penyelesaian:**
+  1. Hitung untuk lampion: 1/2 × 3 1/3 = 1/2 × 10/3 = 5/3 m, sisa = 10/3 − 5/3 = 5/3 m.
+  2. Hitung untuk gantungan: 3/5 × 5/3 = 1 m.
+  3. Kurangkan dari sisa: 5/3 − 1 = 2/3 m tersisa.
 
 ---
 
@@ -1818,6 +2308,11 @@ Hitung: 4/5 × 9⅕ = 4/5 × 46/5 = 184/25 = **7 9/25** kg.
 - **B** — Benar, 7 9/25 kg.
 - **C** — Benar nilainya (184/25) tapi tidak dikonversi ke bilangan campuran.
 - **D** — Salah pembulatan: 7 9/25 ≈ 8 (kasar).
+- **Konsep kunci:** "Bagian dari" berat pecahan campuran menandakan perkalian.
+- **Langkah Penyelesaian:**
+  1. Ubah 9 1/5 menjadi pecahan biasa: 46/5.
+  2. Kalikan 4/5 × 46/5 = 184/25.
+  3. Ubah menjadi 7 9/25 kg.
 
 ---
 
@@ -1842,6 +2337,11 @@ Yang paling tepat dan sederhana = **B = 2/5 ℓ**.
 - **D** — Salah; 2/3 ℓ adalah hasil dari 4/6 (langsung bagi 4 ÷ 6, lupa kurangi jerigen).
 
 **Kunci final: B.**
+- **Konsep kunci:** Soal 3 langkah: kalikan untuk jerigen, kurangkan sisa, lalu bagi sisa rata ke botol; sederhanakan sesuai kunci final.
+- **Langkah Penyelesaian:**
+  1. Hitung isi jerigen: 2/5 × 4 = 8/5 liter.
+  2. Cari sisa: 4 − 8/5 = 12/5 liter.
+  3. Bagi sisa ke 6 botol: 12/5 ÷ 6 = 12/30 = 2/5 liter per botol (kunci final B).
 
 ---
 

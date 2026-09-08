@@ -153,6 +153,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengira tanda sama, lalu menjumlahkan 8 + 5 = 13 dan tetap bawa −. Ini kesalahan klasik "main jumlah saja".
 - **C salah** — Hitung 8 − 5 = 3 benar, tapi salah pasang tanda (lupa bahwa 8 lebih besar dari 5 dan 8 yang negatif).
 - **D benar** — Tanda beda, kurangkan 8 − 5 = 3, bawa tanda angka yang lebih besar (8 bertanda −), jadi −3. Di garis bilangan: dari −8 maju 5 langkah ke kanan → −3.
+- **Konsep kunci:** Penjumlahan bilangan bertanda beda: kurangkan angka besar dan kecil, lalu bawa tanda bilangan yang lebih besar.
+- **Langkah Penyelesaian:**
+  1. Bandingkan magnitudo 8 dan 5, selisihnya 8 − 5 = 3.
+  2. Tanda beda, jadi hasil dibawakan tanda bilangan yang lebih besar (−8), yaitu negatif.
+  3. Jadi −8 + 5 = −3.
 
 ---
 
@@ -169,6 +174,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengabaikan tanda dan menjumlahkan 7 + 12 = 19.
 - **C benar** — Tanda beda, kurangkan 12 − 7 = 5, bawa tanda angka lebih besar (−), jadi −5.
 - **D salah** — Mengira tanda sama, menjumlahkan 7 + 12 = 19, lalu bawa tanda −.
+- **Konsep kunci:** Penjumlahan bilangan bertanda beda: kurangkan magnitudonya, bawa tanda bilangan yang lebih besar.
+- **Langkah Penyelesaian:**
+  1. Bandingkan magnitudo 12 dan 7, selisihnya 12 − 7 = 5.
+  2. Tanda beda, bawa tanda bilangan lebih besar (−12).
+  3. Hasil = −5.
 
 ---
 
@@ -185,6 +195,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah operasi; mengurangkan 9 − 6 = 3 lalu bawa −, seolah tanda berbeda.
 - **C salah** — Salah operasi (9 − 6 = 3) dan lupa tanda.
 - **D benar** — Tanda sama (keduanya −), jumlahkan 6 + 9 = 15, bawa tanda −, jadi −15.
+- **Konsep kunci:** Penjumlahan bilangan bertanda sama: jumlahkan magnitudonya, bawa tanda yang sama.
+- **Langkah Penyelesaian:**
+  1. Kedua bilangan bertanda sama (negatif).
+  2. Jumlahkan magnitudo: 6 + 9 = 15.
+  3. Bawa tanda −, hasil −15.
 
 ---
 
@@ -201,6 +216,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A tapi malah membubuhkan tanda −.
 - **C benar** — Dua tanda minus berdekatan jadi plus: 10 − (−4) = 10 + 4 = 14.
 - **D salah** — Tahu hasilnya 14 tapi salah pasang tanda.
+- **Konsep kunci:** Pengurangan bilangan negatif sama dengan penjumlahan lawannya (dua tanda minus berdekatan jadi plus).
+- **Langkah Penyelesaian:**
+  1. Ubah − (−4) menjadi + 4.
+  2. Hitung 10 + 4 = 14.
 
 ---
 
@@ -217,6 +236,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah operasi; menjumlahkan 3 + 7 = 10 bukan mengalikan.
 - **C benar** — Tanda beda → hasil negatif. 3 × 7 = 21, jadi −21.
 - **D salah** — Sama seperti B dan ditambah tanda −.
+- **Konsep kunci:** Aturan tanda perkalian: beda tanda menghasilkan bilangan negatif.
+- **Langkah Penyelesaian:**
+  1. Kalikan magnitudo: 3 × 7 = 21.
+  2. Tanda beda (− dan +) → hasil negatif.
+  3. Jadi −21.
 
 ---
 
@@ -233,6 +257,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah operasi (jadi 4 + 6 = 10).
 - **C benar** — Sama tanda (keduanya −) → hasil positif. 4 × 6 = 24.
 - **D salah** — Menjumlahkan magnitudo 4 + 6 = 10 lalu bawa −.
+- **Konsep kunci:** Aturan tanda perkalian: sama tanda menghasilkan bilangan positif.
+- **Langkah Penyelesaian:**
+  1. Kalikan magnitudo: 4 × 6 = 24.
+  2. Tanda sama (− dan −) → hasil positif.
+  3. Jadi 24.
 
 ---
 
@@ -249,6 +278,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengurangkan 36 − 9 = 27 bukan membagi.
 - **C benar** — Tanda beda → hasil negatif. 36 ÷ 9 = 4, jadi −4.
 - **D salah** — Sama seperti B ditambah tanda −.
+- **Konsep kunci:** Aturan tanda pembagian sama seperti perkalian: beda tanda hasil negatif.
+- **Langkah Penyelesaian:**
+  1. Bagi magnitudo: 36 ÷ 9 = 4.
+  2. Tanda beda → hasil negatif.
+  3. Jadi −4.
 
 ---
 
@@ -265,6 +299,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah aturan tanda, mengira (−)(−) negatif.
 - **C salah** — Salah operasi; menjumlahkan 45 + 5 = 50.
 - **D benar** — Tanda sama → hasil positif. 45 ÷ 5 = 9.
+- **Konsep kunci:** Aturan tanda pembagian: sama tanda menghasilkan bilangan positif.
+- **Langkah Penyelesaian:**
+  1. Bagi magnitudo: 45 ÷ 5 = 9.
+  2. Tanda sama → hasil positif, jadi 9.
 
 ---
 
@@ -281,6 +319,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Tahu 7 − 3 = 4 tapi salah pasang tanda (tetap bawa − dari awal).
 - **C benar** — −3 + 7 = 4°C. Suhu naik berarti bergerak ke kanan di garis bilangan.
 - **D salah** — Mengabaikan tanda awal dan langsung menjumlahkan 3 + 7 = 10.
+- **Konsep kunci:** Soal cerita suhu: kata 'naik' berarti penjumlahan (+), meskipun suhu awal negatif.
+- **Langkah Penyelesaian:**
+  1. Suhu awal = −3°C.
+  2. 'Naik 7°C' diterjemahkan menjadi +7.
+  3. Hitung −3 + 7 = 4°C.
 
 ---
 
@@ -297,6 +340,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo 7 benar tapi lupa bahwa masih di BAWAH permukaan (tanda −).
 - **C salah** — Mengira "naik" tetap memperdalam, menjumlahkan magnitudo 12 + 5 = 17 dengan −.
 - **D benar** — Posisi awal −12, naik berarti +5: −12 + 5 = −7 (masih di bawah permukaan).
+- **Konsep kunci:** Konteks kedalaman: di bawah permukaan laut bertanda negatif, 'naik' berarti +.
+- **Langkah Penyelesaian:**
+  1. Posisi awal = −12 m.
+  2. Naik 5 m diterjemahkan +5.
+  3. Hitung −12 + 5 = −7 m.
 
 ---
 
@@ -313,6 +361,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengubah −8 menjadi +8: 15 + 8 − 4 = 19.
 - **C salah** — Hitungan dasar benar (3) tapi salah pasang tanda.
 - **D benar** — 15 + (−8) = 7, lalu 7 − 4 = 3.
+- **Konsep kunci:** Operasi tambah dan kurang setingkat, dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. 15 + (−8) = 7.
+  2. 7 − 4 = 3.
 
 ---
 
@@ -329,6 +381,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Menjumlahkan semua magnitudo 5 + 9 + 7 = 21 tanpa peduli tanda.
 - **C benar** — Kelompokkan: positif 9, negatif (−5) + (−7) = −12. Lalu 9 + (−12) = −3.
 - **D salah** — Sama seperti B dengan tanda −.
+- **Konsep kunci:** Kelompokkan dulu bilangan positif dan negatif sebelum menjumlahkan, memudahkan hitungan.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan: positif = 9, negatif = (−5) + (−7) = −12.
+  2. Jumlahkan 9 + (−12) = −3.
 
 ---
 
@@ -345,6 +401,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah tanda hasil perkalian (mengira positif 24), lalu 24 − 5 = 19.
 - **C benar** — Urutan: kali dulu, 8 × (−3) = −24, lalu −24 + 5 = −19.
 - **D salah** — Berhenti di langkah perkalian (−24) tanpa menambahkan 5.
+- **Konsep kunci:** Urutan operasi (KuKaBaTaKu): kerjakan perkalian dulu, baru penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 8 × (−3) = −24.
+  2. Tambahkan 5: −24 + 5 = −19.
 
 ---
 
@@ -361,6 +421,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Menjumlahkan 2 + 3 + 4 = 9 bukan mengalikan.
 - **C benar** — 2 × 3 × 4 = 24. Banyak negatif = 3 (ganjil) → hasil negatif. Jadi −24.
 - **D salah** — Menjumlahkan (jadi 9) lalu bawa tanda −.
+- **Konsep kunci:** Banyaknya faktor negatif pada perkalian menentukan tanda hasil: ganjil → negatif, genap → positif.
+- **Langkah Penyelesaian:**
+  1. Kalikan magnitudo: 2 × 3 × 4 = 24.
+  2. Hitung banyak tanda negatif = 3 (ganjil) → hasil negatif.
+  3. Jadi −24.
 
 ---
 
@@ -377,6 +442,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengabaikan urutan operasi: −20 ÷ (4 + 6) = −20 ÷ 10 = −2 (lalu salah tulis −11), atau menjumlahkan magnitudo.
 - **C benar** — Bagi dulu: (−20) ÷ 4 = −5. Lalu −5 + 6 = 1.
 - **D salah** — Hitungan magnitudo benar (1) tapi salah pasang tanda.
+- **Konsep kunci:** Urutan operasi: kerjakan pembagian dulu, baru penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Bagi dulu: (−20) ÷ 4 = −5.
+  2. Tambahkan 6: −5 + 6 = 1.
 
 ---
 
@@ -393,6 +462,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Hitungan magnitudo benar tapi salah pasang tanda.
 - **C salah** — Mengira "− (−10)" jadi −10, lalu (−6) − 10 = −16, lalu salah tulis 16.
 - **D benar** — Dua tanda minus berdekatan jadi plus: (−6) + 10 = 4.
+- **Konsep kunci:** Dua tanda minus yang berdekatan pada pengurangan menjadi tanda plus.
+- **Langkah Penyelesaian:**
+  1. Ubah − (−10) menjadi + 10.
+  2. Hitung (−6) + 10 = 4.
 
 ---
 
@@ -409,6 +482,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Hitung (−5)(3) = −15 benar tapi salah pengurangan, ditulis −15 + 3 = −12.
 - **C salah** — Salah tanda perkalian (5×3 = 15) lalu 15 − 3 = 12.
 - **D benar** — a × b = (−5)(3) = −15. Lalu −15 − 3 = −18.
+- **Konsep kunci:** Substitusi nilai variabel lalu ikuti urutan operasi: kalikan dulu, baru kurangkan.
+- **Langkah Penyelesaian:**
+  1. Hitung a × b = (−5)(3) = −15.
+  2. Kurangi b: −15 − 3 = −18.
 
 ---
 
@@ -425,6 +502,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A dengan tanda −.
 - **C benar** — Sebuah bilangan dijumlah dengan lawannya selalu = 0. Ini sifat invers penjumlahan.
 - **D salah** — Berpikir "satu negatif dan satu positif" jadi 1.
+- **Konsep kunci:** Sifat invers penjumlahan: sebuah bilangan dijumlah dengan lawannya selalu menghasilkan nol.
+- **Langkah Penyelesaian:**
+  1. −7 dan 7 adalah pasangan lawan (invers).
+  2. Jumlah keduanya = 0.
 
 ---
 
@@ -441,6 +522,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengira angka 0 dianggap "tidak ada" lalu sisa pembagi −8.
 - **C salah** — Yang tidak terdefinisi adalah membagi DENGAN nol (a ÷ 0), bukan 0 dibagi sesuatu.
 - **D benar** — Nol dibagi bilangan apa pun (selain 0) = 0. 0 ÷ (−8) = 0.
+- **Konsep kunci:** Sifat pembagian nol: nol dibagi bilangan apa pun (kecuali nol) selalu menghasilkan nol.
+- **Langkah Penyelesaian:**
+  1. Ingat aturan 0 ÷ a = 0 untuk a ≠ 0.
+  2. Jadi 0 ÷ (−8) = 0.
 
 ---
 
@@ -457,6 +542,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Menjumlahkan magnitudo 25.000 + 10.000 = 35.000 tanpa peduli "membayar mengurangi hutang".
 - **C benar** — Hutang awal −25.000, membayar = +10.000. −25.000 + 10.000 = −15.000.
 - **D salah** — Sama seperti B dengan tanda −.
+- **Konsep kunci:** Konteks hutang: hutang dilambangkan bilangan negatif, membayar berarti menambah (mengurangi besar hutangnya).
+- **Langkah Penyelesaian:**
+  1. Hutang awal = −25.000.
+  2. Membayar berarti +10.000.
+  3. Hitung −25.000 + 10.000 = −15.000.
 
 ---
 
@@ -473,6 +563,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah tanda pembagian: dianggap negatif 3, lalu −3 − 4 = −7.
 - **C benar** — (−18) ÷ (−6) = 3 (sama tanda → positif). Lalu 3 − 4 = −1.
 - **D salah** — Magnitudo benar (1) tapi salah pasang tanda.
+- **Konsep kunci:** Urutan operasi: bagi dulu (sama tanda → positif), baru kurangkan.
+- **Langkah Penyelesaian:**
+  1. Bagi: (−18) ÷ (−6) = 3.
+  2. Kurangi 4: 3 − 4 = −1.
 
 ---
 
@@ -489,6 +583,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah tanda perkalian (−10) lalu −10 − 3 = −13.
 - **C benar** — Perkalian dulu: (−2)(−5) = 10. Lalu 10 + (−3) = 7.
 - **D salah** — Magnitudo benar (7) tapi salah tanda.
+- **Konsep kunci:** Urutan operasi (KuKaBaTaKu): kalikan dulu, baru tambahkan.
+- **Langkah Penyelesaian:**
+  1. Kalikan: (−2)(−5) = 10.
+  2. Tambahkan (−3): 10 + (−3) = 7.
 
 ---
 
@@ -505,6 +603,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A dengan tanda −.
 - **C salah** — Hitungan magnitudo benar (7) tapi salah pasang tanda.
 - **D benar** — −9 + (−4) = −13. Lalu −13 − (−6) = −13 + 6 = −7.
+- **Konsep kunci:** Gabungan penjumlahan dan pengurangan bilangan bertanda, dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. −9 + (−4) = −13.
+  2. −13 − (−6) = −13 + 6 = −7.
 
 ---
 
@@ -521,6 +623,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — Urut kiri ke kanan: 6 × (−4) = −24. Lalu −24 ÷ 8 = −3.
 - **C salah** — Salah operasi pembagian (8 ÷ 2 atau salah tulis), atau berhenti di langkah salah.
 - **D salah** — Lupa membagi 8, berhenti di hasil −24 yang juga salah ditulis −12.
+- **Konsep kunci:** Perkalian dan pembagian setingkat, dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. 6 × (−4) = −24.
+  2. −24 ÷ 8 = −3.
 
 ---
 
@@ -537,6 +643,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Menjumlahkan 3 + 8 = 11, mengira "turun" = bertambah.
 - **C benar** — 3 + (−8) = −5. Lift sekarang di lantai −5 (basement lantai 5).
 - **D salah** — Sama seperti B dengan tanda −.
+- **Konsep kunci:** Konteks lantai/lift: 'turun' berarti −, bisa menghasilkan posisi negatif (basement).
+- **Langkah Penyelesaian:**
+  1. Posisi awal = 3.
+  2. Turun 8 berarti + (−8).
+  3. Hitung 3 + (−8) = −5.
 
 ---
 
@@ -553,6 +664,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Menjumlahkan magnitudo seolah keduanya untung.
 - **C benar** — +18.000 + (−25.000) = −7.000 (rugi Rp 7.000).
 - **D salah** — Sama seperti B dengan tanda −.
+- **Konsep kunci:** Konteks untung-rugi: untung dilambangkan +, rugi dilambangkan −, lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Nyatakan sebagai +18.000 dan −25.000.
+  2. Jumlahkan: 18.000 + (−25.000) = −7.000.
 
 ---
 
@@ -569,6 +684,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo benar tapi salah tanda.
 - **C salah** — Mengira |−12| tetap −12 lalu salah hitung lagi.
 - **D benar** — |−12| = 12 (nilai mutlak selalu positif). Lalu 12 + (−4) = 8.
+- **Konsep kunci:** Nilai mutlak selalu menghasilkan bilangan positif (jarak dari nol).
+- **Langkah Penyelesaian:**
+  1. Hitung |−12| = 12.
+  2. Jumlahkan 12 + (−4) = 8.
 
 ---
 
@@ -585,6 +704,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengabaikan tanda kurang sama sekali.
 - **C benar** — 5 − 12 = −7. Lalu −7 + 4 = −3.
 - **D salah** — Magnitudo benar tapi salah pasang tanda.
+- **Konsep kunci:** Operasi tambah dan kurang setingkat dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. 5 − 12 = −7.
+  2. −7 + 4 = −3.
 
 ---
 
@@ -601,6 +724,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah aturan tanda perkalian (8×2 = 16 positif), lalu −3 + 16 = 13.
 - **C benar** — Kali dulu: 8 × (−2) = −16. Lalu (−3) + (−16) = −19.
 - **D salah** — Sama seperti A tanpa tanda minus.
+- **Konsep kunci:** Urutan operasi (KuKaBaTaKu): kalikan dulu, baru tambahkan.
+- **Langkah Penyelesaian:**
+  1. Kalikan dulu: 8 × (−2) = −16.
+  2. Tambahkan (−3): (−3) + (−16) = −19.
 
 ---
 
@@ -617,6 +744,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A dengan tanda −.
 - **C benar** — Kelompokkan: positif 12, negatif (−5) + (−3) = −8. Lalu 12 + (−8) = 4.
 - **D salah** — Magnitudo benar tapi salah tanda.
+- **Konsep kunci:** Kelompokkan bilangan positif dan negatif sebelum menjumlahkan deret skor campuran.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan: positif = 12, negatif = (−5) + (−3) = −8.
+  2. Jumlahkan 12 + (−8) = 4.
 
 ---
 
@@ -633,6 +764,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A tanpa tanda.
 - **C benar** — −14 − 6 = −14 + (−6) = −20. Tanda sama → jumlahkan magnitudo, bawa −.
 - **D salah** — Magnitudo benar tapi lupa tanda −.
+- **Konsep kunci:** Pengurangan dua bilangan menjadi penjumlahan dengan lawannya, lalu ikuti aturan tanda sama.
+- **Langkah Penyelesaian:**
+  1. Ubah menjadi (−14) + (−6).
+  2. Tanda sama, jumlahkan magnitudo 14 + 6 = 20, bawa tanda −.
+  3. Hasil −20.
 
 ---
 
@@ -649,6 +785,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — Tanda beda → hasil negatif. 100 ÷ 25 = 4, jadi −4.
 - **C salah** — Salah operasi; mengurangkan 100 − 25 = 75.
 - **D salah** — Sama seperti C dengan tanda −.
+- **Konsep kunci:** Aturan tanda pembagian: beda tanda menghasilkan bilangan negatif.
+- **Langkah Penyelesaian:**
+  1. Bagi magnitudo: 100 ÷ 25 = 4.
+  2. Tanda beda → hasil negatif, jadi −4.
 
 ---
 
@@ -665,6 +805,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo benar tapi salah pasang tanda.
 - **C salah** — Mengira 4 − (−3) jadi 4 − 3 = 1, lalu 1 − 9 = −8 (lalu salah tulis −16, atau menjumlahkan semua magnitudo).
 - **D benar** — 4 − (−3) = 4 + 3 = 7. Lalu 7 + (−9) = −2.
+- **Konsep kunci:** Ubah pengurangan bilangan negatif menjadi penjumlahan (dua minus berdekatan jadi plus).
+- **Langkah Penyelesaian:**
+  1. 4 − (−3) = 4 + 3 = 7.
+  2. 7 + (−9) = −2.
 
 ---
 
@@ -681,6 +825,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — (−2)² = (−2) × (−2) = +4. Sama tanda → positif.
 - **C salah** — Mengira pangkat 2 berarti "dikali 1 saja" atau tidak diapa-apakan.
 - **D salah** — Mengabaikan tanda dan pangkat sama sekali.
+- **Konsep kunci:** Pangkat genap dari bilangan negatif selalu menghasilkan bilangan positif.
+- **Langkah Penyelesaian:**
+  1. (−2)² berarti (−2) × (−2).
+  2. Sama tanda → hasil positif, 2 × 2 = 4.
 
 ---
 
@@ -697,6 +845,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengira tetap negatif karena "ada negatif".
 - **C salah** — Menjumlahkan 1+1+1+1 = 4 alih-alih mengalikan.
 - **D salah** — Sama seperti C dengan tanda −.
+- **Konsep kunci:** Banyaknya faktor negatif genap pada perkalian menghasilkan hasil positif.
+- **Langkah Penyelesaian:**
+  1. Hitung banyak tanda negatif = 4 (genap).
+  2. Magnitudo 1×1×1×1 = 1.
+  3. Hasil positif = 1.
 
 ---
 
@@ -713,6 +866,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — −15 + 22 = 7. Lalu 7 − 7 = 0.
 - **C salah** — Sama seperti A dengan tanda −.
 - **D salah** — Lupa mengurangkan 7 di langkah terakhir, berhenti di 22 − 8 = 14 (salah tulis).
+- **Konsep kunci:** Operasi tambah dan kurang setingkat dikerjakan berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. −15 + 22 = 7.
+  2. 7 − 7 = 0.
 
 ---
 
@@ -729,6 +886,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah pasang tanda di langkah akhir.
 - **C salah** — Berhenti di langkah perkalian (0) tanpa menambahkan 15.
 - **D benar** — Sembarang bilangan dikali 0 = 0. Jadi 0 + 15 = 15.
+- **Konsep kunci:** Sifat perkalian dengan nol: bilangan berapa pun dikali nol selalu nol.
+- **Langkah Penyelesaian:**
+  1. (−7) × 0 = 0.
+  2. 0 + 15 = 15.
 
 ---
 
@@ -745,6 +906,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo benar tapi lupa freezer masih dingin (negatif).
 - **C salah** — Mengira "naik" justru memperdalam, hitung 18 + 11 = 29 dengan tanda −.
 - **D salah** — Sama seperti C tanpa tanda.
+- **Konsep kunci:** Konteks suhu: 'naik' berarti penjumlahan (+), hasil boleh tetap negatif.
+- **Langkah Penyelesaian:**
+  1. Suhu awal = −18°C.
+  2. Naik 11°C berarti +11.
+  3. Hitung −18 + 11 = −7°C.
 
 ---
 
@@ -761,6 +927,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengira 9 − (−5) = 4 lalu salah hitung jadi 7 (atau 9 − 5 = 4, lalu + 3 = 7).
 - **C benar** — 9 − (−5) = 9 + 5 = 14. Lalu 14 − 3 = 11.
 - **D salah** — Mengabaikan tanda minus akhir: 9 + 5 + 3 = 17.
+- **Konsep kunci:** Ubah pengurangan bilangan negatif jadi penjumlahan, lalu lanjutkan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. 9 − (−5) = 9 + 5 = 14.
+  2. 14 − 3 = 11.
 
 ---
 
@@ -777,6 +947,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — Tanda beda → negatif. 72 ÷ 8 = 9, jadi −9.
 - **C salah** — Salah operasi; mengurangkan 72 − 8 = 64 dengan tanda −.
 - **D salah** — Sama seperti C tanpa tanda.
+- **Konsep kunci:** Aturan tanda pembagian: beda tanda menghasilkan bilangan negatif.
+- **Langkah Penyelesaian:**
+  1. Bagi magnitudo: 72 ÷ 8 = 9.
+  2. Tanda beda → hasil negatif, jadi −9.
 
 ---
 
@@ -793,6 +967,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo benar tapi salah tanda.
 - **C salah** — Mengira −(−2) tetap −2, lalu −12 − 2 = −14.
 - **D salah** — Salah tanda perkalian (jadi 12) lalu 12 + 2 = 14.
+- **Konsep kunci:** Urutan operasi: kalikan dulu, lalu ubah pengurangan bilangan negatif jadi penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Kalikan: (−3)(4) = −12.
+  2. −12 − (−2) = −12 + 2 = −10.
 
 ---
 
@@ -809,6 +987,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A dengan tanda −.
 - **C salah** — Magnitudo benar tapi salah tanda.
 - **D benar** — Kelompokkan: positif 2+4 = 6, negatif (−1)+(−3)+(−5) = −9. Lalu 6 + (−9) = −3.
+- **Konsep kunci:** Kelompokkan suku positif dan negatif pada deret tambah-kurang campuran sebelum menjumlahkan.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan positif: 2 + 4 = 6. Negatif: −1 − 3 − 5 = −9.
+  2. Jumlahkan 6 + (−9) = −3.
 
 ---
 
@@ -825,6 +1007,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah aturan tanda pangkat, mengira (−6)² = −36, lalu −36 − 10 = −46 (lalu salah tulis −26).
 - **C salah** — Mengira (−6)² = −6 + (−6) = −12, lalu... hitungan jadi kacau.
 - **D benar** — (−6)² = (−6)(−6) = 36 (sama tanda → +). Lalu 36 − 10 = 26.
+- **Konsep kunci:** Kerjakan pangkat dulu (genap dari bilangan negatif jadi positif), baru kurangkan.
+- **Langkah Penyelesaian:**
+  1. (−6)² = 36.
+  2. 36 − 10 = 26.
 
 ---
 
@@ -841,6 +1027,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Lupa "naik 5 m" justru mengurangi kedalaman: −20 − 8 − 5 = −33.
 - **C salah** — Magnitudo benar tapi lupa tanda (masih di bawah permukaan).
 - **D benar** — −20 + (−8) + 5 = −28 + 5 = −23 m.
+- **Konsep kunci:** Soal cerita kedalaman berlapis: setiap 'turun' bertanda −, 'naik' bertanda +, dijumlahkan berurutan.
+- **Langkah Penyelesaian:**
+  1. Posisi awal −20.
+  2. Turun 8: −20 + (−8) = −28.
+  3. Naik 5: −28 + 5 = −23.
 
 ---
 
@@ -857,6 +1048,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Salah tanda pada kedua operasi awal (mengira positif): 6 + 6 = 12.
 - **C benar** — 24 ÷ (−4) = −6. (−2) × 3 = −6. Lalu −6 + (−6) = −12.
 - **D salah** — Mengabaikan urutan operasi: 24 ÷ (−4 + (−2)) × 3 = 24 ÷ (−6) × 3 = −4 × 3 = −12 (atau salah lain jadi −24).
+- **Konsep kunci:** Urutan operasi: kerjakan semua kali/bagi dulu (kiri ke kanan), baru tambah/kurang.
+- **Langkah Penyelesaian:**
+  1. 24 ÷ (−4) = −6.
+  2. (−2) × 3 = −6.
+  3. Jumlahkan −6 + (−6) = −12.
 
 ---
 
@@ -873,6 +1069,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Magnitudo benar tapi salah tanda (atau berpikir keduanya jadi positif lalu jumlah).
 - **C benar** — Dua tanda minus jadi plus: (−9) + 9 = 0. Sebuah bilangan dikurangi dirinya sendiri = 0.
 - **D salah** — Berpikir "satu negatif dan satu positif" jadi 1.
+- **Konsep kunci:** Bilangan dikurangi dirinya sendiri selalu nol; dua tanda minus berdekatan jadi plus.
+- **Langkah Penyelesaian:**
+  1. Ubah − (−9) menjadi + 9.
+  2. (−9) + 9 = 0.
 
 ---
 
@@ -889,6 +1089,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — Kali dulu: 5 × (−4) = −20. 3 × (−2) = −6. Lalu −20 − (−6) = −20 + 6 = −14.
 - **C salah** — Salah operasi terakhir; mengira −20 − (−6) = −26.
 - **D salah** — Tanda dan operasi semua kacau: −20 + (−6) = −26 (mengabaikan tanda kurang menjadi pengurangan langsung).
+- **Konsep kunci:** Kerjakan semua perkalian dulu (kiri ke kanan), baru kurangkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. 5 × (−4) = −20.
+  2. 3 × (−2) = −6.
+  3. −20 − (−6) = −20 + 6 = −14.
 
 ---
 
@@ -905,6 +1110,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Sama seperti A dengan tanda −.
 - **C benar** — Positif: 8 + 5 = 13. Negatif: (−3) + (−2) + (−4) = −9. Lalu 13 + (−9) = 4.
 - **D salah** — Magnitudo benar tapi salah tanda.
+- **Konsep kunci:** Kelompokkan bilangan bertanda sama untuk deret skor campuran sebelum menjumlahkan.
+- **Langkah Penyelesaian:**
+  1. Positif: 8 + 5 = 13.
+  2. Negatif: −3 − 2 − 4 = −9.
+  3. Jumlahkan 13 + (−9) = 4.
 
 ---
 
@@ -921,6 +1131,11 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B benar** — Hitung dari dalam: −(−5) = 5. Lalu −(5) = −5. Atau hitung jumlah tanda minus = 3 (ganjil) → hasil tetap negatif.
 - **C salah** — Mengira tanda minus berarti dikali 3 (3 minus × 5 = 15).
 - **D salah** — Sama seperti C dengan tanda −.
+- **Konsep kunci:** Hitung tanda minus bertingkat dari dalam ke luar, atau hitung banyaknya minus (ganjil = hasil negatif).
+- **Langkah Penyelesaian:**
+  1. Hitung dari dalam: − (−5) = 5.
+  2. Lalu − (5) = −5.
+  3. Cek: ada 3 tanda minus (ganjil) → hasil tetap negatif.
 
 ---
 
@@ -937,6 +1152,10 @@ Bagian ini berisi hitungan langsung dan cerita pendek 1–2 langkah. Cocok untuk
 - **B salah** — Mengira "turun 50" = +50: 35 + 50 − 12 = 73 (atau salah hitung jadi 23).
 - **C benar** — 35 + (−50) + 12 = −15 + 12 = −3. Artinya burung sekarang 3 m di bawah titik awal (atau di bawah permukaan tanah jika titik awal = permukaan).
 - **D salah** — Magnitudo benar tapi lupa tanda (tidak masuk akal kalau hasil positif setelah turun lebih banyak dari naik).
+- **Konsep kunci:** Soal cerita ketinggian berlapis: 'turun' bertanda −, 'naik' bertanda +.
+- **Langkah Penyelesaian:**
+  1. 35 + (−50) = −15.
+  2. −15 + 12 = −3.
 
 ---
 
@@ -959,6 +1178,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah hitung jumlah jam (6 alih-alih 5), lalu −4 + 12 = 8.
 - **C salah** — Salah tanda, mengira "naik" tetap memperdalam: −4 − (5×2) = −14 (lalu salah tulis −10).
 - **D salah** — Mengabaikan suhu awal −4 dan hanya menulis kenaikan total 10°C.
+- **Konsep kunci:** Soal cerita berulang: kalikan laju perubahan dengan banyak pengulangan, lalu jumlahkan ke nilai awal.
+- **Langkah Penyelesaian:**
+  1. Selisih jam: 11 − 6 = 5 jam.
+  2. Total kenaikan: 5 × 2 = 10°C.
+  3. Suhu akhir = −4 + 10 = 6°C.
 
 ---
 
@@ -975,6 +1199,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Sama seperti A tapi dianggap semua rugi.
 - **C salah** — Magnitudo benar (1.000) tapi salah arah; mengira sisanya untung.
 - **D benar** — Total = +12.000 − 8.000 + 15.000 − 20.000 = (12.000 + 15.000) − (8.000 + 20.000) = 27.000 − 28.000 = −1.000. Rugi Rp 1.000.
+- **Konsep kunci:** Jumlahkan seluruh untung (+) dan rugi (−) sebagai bilangan bertanda.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan untung: 12.000 + 15.000 = 27.000.
+  2. Kelompokkan rugi: 8.000 + 20.000 = 28.000.
+  3. Total = 27.000 − 28.000 = −1.000 (rugi).
 
 ---
 
@@ -991,6 +1220,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Lupa "naik 20 m" mengurangi kedalaman: 75 + 30 − 20 + 15 = 100, kemudian salah hitung jadi 90.
 - **C salah** — Mengabaikan "naik 20", jadi 75 + 30 + 15 + 20 = 140 (salah hitung).
 - **D benar** — Posisi awal −75 m. Turun 30 → −75 + (−30) = −105. Naik 20 → −105 + 20 = −85. Turun 15 → −85 + (−15) = −100. Magnitudo 100 m di bawah permukaan.
+- **Konsep kunci:** Soal cerita kedalaman berlapis: jumlahkan tiap perubahan sebagai bilangan bertanda secara berurutan.
+- **Langkah Penyelesaian:**
+  1. Posisi awal −75.
+  2. Turun 30 → −105, naik 20 → −85, turun 15 → −100.
+  3. Magnitudo 100 m di bawah permukaan.
 
 ---
 
@@ -1007,6 +1241,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Benar: 18 × 4 = 72. Salah: 5 × (−2) = −10. Kosong: 2 × 0 = 0. Total = 72 + (−10) + 0 = 62.
 - **C salah** — Berhenti di skor benar saja, lupa mengurangi skor salah.
 - **D salah** — Salah hitung salah: 5 × (−4) = −20 (mengira penalti sama dengan poin benar), lalu 72 − 12 = 60.
+- **Konsep kunci:** Kalikan banyaknya kejadian dengan poin masing-masing, lalu jumlahkan sebagai bilangan bertanda.
+- **Langkah Penyelesaian:**
+  1. Benar: 18 × 4 = 72.
+  2. Salah: 5 × (−2) = −10.
+  3. Total: 72 + (−10) + 0 = 62.
 
 ---
 
@@ -1023,6 +1262,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah tanda hasil perkalian (jadi +60), lalu 50 + 60 + 3 = 113 (atau hitung lain jadi 13).
 - **C salah** — Magnitudo benar tapi salah pasang tanda.
 - **D benar** — Kali/bagi dulu: 20 × (−3) = −60. (−15) ÷ 5 = −3. Lalu: 50 + (−60) − (−3) = 50 − 60 + 3 = −7.
+- **Konsep kunci:** Urutan operasi: kerjakan semua kali/bagi dulu (kiri ke kanan), baru tambah/kurang.
+- **Langkah Penyelesaian:**
+  1. 20 × (−3) = −60.
+  2. (−15) ÷ 5 = −3.
+  3. 50 + (−60) − (−3) = 50 − 60 + 3 = −7.
 
 ---
 
@@ -1039,6 +1283,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Berhenti di langkah ular: 20 − 15 = 5, lupa naik tangga.
 - **C salah** — Salah operasi pada ular: 12 + 8 + 15 + 20 = 55.
 - **D salah** — Lupa pengaruh ular, hanya menambah 12 + 8 + 15 = 35 (lewat ular saja, langsung naik tangga).
+- **Konsep kunci:** Soal cerita berurutan: ikuti setiap langkah perubahan posisi satu per satu.
+- **Langkah Penyelesaian:**
+  1. 12 + 8 = 20 (maju).
+  2. 20 − 15 = 5 (kena ular).
+  3. 5 + 20 = 25 (naik tangga).
 
 ---
 
@@ -1055,6 +1304,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Magnitudo benar tapi salah tanda (lupa suhu masih dingin).
 - **C salah** — Salah tanda kenaikan; mengira "naik" memperdalam: −5 − 4 = −9.
 - **D salah** — Lupa suhu awal −5, hanya menulis total kenaikan 4°C.
+- **Konsep kunci:** Soal cerita berulang: hitung banyak pengulangan, kalikan dengan laju, jumlahkan ke nilai awal.
+- **Langkah Penyelesaian:**
+  1. 40 ÷ 10 = 4 kali kenaikan.
+  2. Total naik = 4 × 1 = 4°C.
+  3. −5 + 4 = −1°C.
 
 ---
 
@@ -1071,6 +1325,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah urutan, mengabaikan pangkat: 7 × (−4) − 9 = −37.
 - **C salah** — Salah tanda perkalian, jadi 7 × 4 = 28, lalu 28 − 9 = 19.
 - **D salah** — Salah tanda dan operasi terakhir: 28 + 9 = 37.
+- **Konsep kunci:** Urutan operasi lengkap: kurung dan pangkat dulu, baru perkalian, terakhir tambah/kurang.
+- **Langkah Penyelesaian:**
+  1. Kurung: 15 − 8 = 7. Pangkat: 3² = 9.
+  2. Kali: 7 × (−4) = −28.
+  3. Tambah: −28 + 9 = −19.
 
 ---
 
@@ -1087,6 +1346,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah tanda satu langkah, mengira semua "turun" tetap +: 100 + 8 + 12 − 5 − 6 = 109 atau 105 (salah hitung).
 - **C salah** — Menjumlahkan semua sebagai positif: 100 + 8 + 12 + 5 + 6 = 131.
 - **D salah** — Salah operasi semua: 100 − 8 + 12 − 5 + 6 = 105 (atau −25, salah lagi).
+- **Konsep kunci:** Jumlahkan tiap perubahan (naik = +, turun = −) ke nilai awal.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan naik: 8 + 5 = 13. Turun: 12 + 6 = 18.
+  2. Total = 100 + 13 − 18 = 95.
 
 ---
 
@@ -1103,6 +1366,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Lupa membalik tanda di akhir, berhenti di −32 × 1 = −32 (mengira (−1)³ = 1).
 - **C salah** — Salah pangkat: (−2)⁵ dianggap = 2⁵... salah hitung pendekatan jadi 8.
 - **D salah** — Salah pangkat (−2)³ saja = −8.
+- **Konsep kunci:** Hitung pangkat ganjil dari bilangan negatif dulu (tetap negatif), baru kalikan hasilnya.
+- **Langkah Penyelesaian:**
+  1. (−2)⁵ = −32 (ganjil → negatif).
+  2. (−1)³ = −1.
+  3. Kalikan: (−32) × (−1) = 32 (sama tanda → positif).
 
 ---
 
@@ -1119,6 +1387,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Magnitudo benar tapi salah tanda.
 - **C salah** — Lupa hutang sebagai negatif: 50.000 + 80.000 + 200.000 − 35.000 = 295.000 (atau salah hitung jadi 65.000).
 - **D salah** — Mengabaikan listrik: 50.000 − 80.000 + 200.000 = 170.000 (atau salah hitung jadi 235.000).
+- **Konsep kunci:** Soal cerita keuangan: hutang/bayar bertanda −, terima bertanda +, dijumlahkan berurutan.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan positif: 50.000 + 200.000 = 250.000.
+  2. Kelompokkan negatif: 80.000 + 35.000 = 115.000.
+  3. Total = 250.000 − 115.000 = 135.000.
 
 ---
 
@@ -1135,6 +1408,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Dalam kurung: 5 × (−2) = −10. (−8) + (−10) = −18. Lalu −(−18) = +18.
 - **C salah** — Salah urutan dalam kurung: (−8 + 5) × (−2) = −3 × −2 = 6 (lalu berbagai salah).
 - **D salah** — Magnitudo benar tapi salah tanda akhir.
+- **Konsep kunci:** Kerjakan isi kurung besar dulu (termasuk perkalian di dalamnya), baru terapkan tanda minus di luar kurung.
+- **Langkah Penyelesaian:**
+  1. Dalam kurung: 5 × (−2) = −10, lalu (−8) + (−10) = −18.
+  2. Terapkan minus luar: − (−18) = 18.
 
 ---
 
@@ -1151,6 +1428,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Per jam berkurang 35 − 12 = 23 L. Total 5 jam berkurang 23 × 5 = 115 L. Sisa = 250 − 115 = 135 L.
 - **C salah** — Berhenti di langkah pengurangan total saja (115 L), lupa kurangkan dari 250.
 - **D salah** — Salah arah: 250 − (35 + 12) × 5 = 250 − 235 = 15 (lalu salah tulis), atau hitung lain jadi 175.
+- **Konsep kunci:** Hitung perubahan bersih per satuan waktu, kalikan dengan banyak pengulangan, lalu kurangkan dari jumlah awal.
+- **Langkah Penyelesaian:**
+  1. Perubahan bersih per jam: 35 − 12 = 23 L (berkurang).
+  2. Total 5 jam: 23 × 5 = 115 L.
+  3. Sisa = 250 − 115 = 135 L.
 
 ---
 
@@ -1167,6 +1449,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Sama seperti A dengan tanda −.
 - **C salah** — Salah operasi akhir: −12 + (−24) = −36 (lalu salah tulis −12).
 - **D benar** — 144 ÷ (−12) = −12. 8 × (−3) = −24. Lalu −12 − (−24) = −12 + 24 = 12.
+- **Konsep kunci:** Kerjakan semua kali/bagi dulu (kiri ke kanan), baru kurangkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. 144 ÷ (−12) = −12.
+  2. 8 × (−3) = −24.
+  3. −12 − (−24) = −12 + 24 = 12.
 
 ---
 
@@ -1183,6 +1470,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Mengabaikan tanda saat menghitung selisih (15 − 8 = 7).
 - **C salah** — Salah operasi: 15 + 8 = 23 (mengabaikan Faiz sebagai terendah).
 - **D benar** — Tertinggi = Anto (+15), terendah = Faiz (−10). Selisih = 15 − (−10) = 15 + 10 = 25.
+- **Konsep kunci:** Selisih dua bilangan bertanda dihitung dengan pengurangan; pengurangan bilangan negatif jadi penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Tentukan tertinggi (+15) dan terendah (−10).
+  2. Selisih = 15 − (−10) = 15 + 10 = 25.
 
 ---
 
@@ -1199,6 +1490,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Magnitudo benar tapi salah tanda.
 - **C salah** — Lupa membalik −(−3) jadi +3 di akhir: −6 − 20 − 3 = −29.
 - **D salah** — Salah tanda awal: 6 + 20 + 3 = 29.
+- **Konsep kunci:** Kerjakan semua kali/bagi dulu (kiri ke kanan), baru tambah/kurang berurutan.
+- **Langkah Penyelesaian:**
+  1. 2 × (−3) = −6. (−4) × 5 = −20. (−6) ÷ 2 = −3.
+  2. −6 + (−20) − (−3) = −6 − 20 + 3 = −23.
 
 ---
 
@@ -1215,6 +1510,12 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Hanya dua langkah pertama (7 + 3 = 10), salah hitung.
 - **C salah** — Lupa nilai mutlak salah satu langkah: 7 + 10 − 1 = 16 (atau salah lain).
 - **D benar** — Tiga langkah: |5 − (−2)| = 7. |(−2) − 8| = 10. |8 − (−1)| = 9. Total = 7 + 10 + 9 = 26.
+- **Konsep kunci:** Total jarak tempuh dihitung dari jumlah nilai mutlak tiap perpindahan, bukan posisi akhir saja.
+- **Langkah Penyelesaian:**
+  1. |5 − (−2)| = 7.
+  2. |(−2) − 8| = 10.
+  3. |8 − (−1)| = 9.
+  4. Total = 7 + 10 + 9 = 26.
 
 ---
 
@@ -1231,6 +1532,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — (−3)² = 9 (pangkat genap → +). (−2)³ = −8 (pangkat ganjil → −). (−1)⁴ = 1 (pangkat genap → +). Lalu 9 + (−8) − 1 = 0.
 - **C salah** — Salah tanda (−1)⁴ dianggap −1: 9 − 8 − (−1) = 9 − 8 + 1 = 2 (lalu salah tulis −2).
 - **D salah** — Salah satu langkah tanda; misal anggap (−1)⁴ = −1 → 9 + (−8) − (−1) = 9 − 8 + 1 = 2.
+- **Konsep kunci:** Hitung tiap pangkat sesuai aturan genap/ganjil terlebih dahulu, baru jumlah/kurangkan.
+- **Langkah Penyelesaian:**
+  1. (−3)² = 9 (genap → +). (−2)³ = −8 (ganjil → −). (−1)⁴ = 1 (genap → +).
+  2. 9 + (−8) − 1 = 0.
 
 ---
 
@@ -1247,6 +1552,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah hitung: 1.250 − 800 = 450, lalu 450 + 1.450 = 1.900 (salah dijumlah jadi 1.000).
 - **C salah** — Menjumlahkan semua sebagai positif: 1.250 + 800 + 1.450 = 3.500.
 - **D salah** — Berhenti di langkah turun (1.250 − 800 = 450), lupa kenaikan.
+- **Konsep kunci:** Soal cerita ketinggian berlapis: 'turun' bertanda −, 'naik' bertanda +, dijumlahkan berurutan.
+- **Langkah Penyelesaian:**
+  1. 1.250 + (−800) = 450.
+  2. 450 + 1.450 = 1.900 m.
 
 ---
 
@@ -1263,6 +1572,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah tanda pembagian (mengira positif): 8 ÷ 2 = 4, lalu × 3 = 12.
 - **C salah** — Salah urut operasi: 8 ÷ (−2 × 3) = 8 ÷ −6 ≈ −1,3 (lalu salah lagi jadi −18); atau hitung lain.
 - **D salah** — Salah tanda dan urut.
+- **Konsep kunci:** Kerjakan isi kurung dulu, lalu kali/bagi setingkat berurutan dari kiri ke kanan.
+- **Langkah Penyelesaian:**
+  1. Kurung: 12 + (−4) = 8.
+  2. 8 ÷ (−2) = −4.
+  3. −4 × 3 = −12.
 
 ---
 
@@ -1279,6 +1593,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — +8 − 3 + 12 − 5 = (8 + 12) − (3 + 5) = 20 − 8 = 12 pohon hidup.
 - **C salah** — Lupa kurangi yang mati di hari ke-4: 8 − 3 + 12 = 17 (atau salah hitung jadi 18).
 - **D salah** — Lupa kurangi yang mati di hari ke-2: 8 + 12 − 5 = 15 (atau salah lagi jadi 22).
+- **Konsep kunci:** Soal cerita: kata 'mati' berarti pengurangan, jumlahkan berurutan sebagai bilangan bertanda.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan tanam (+): 8 + 12 = 20.
+  2. Kelompokkan mati (−): 3 + 5 = 8.
+  3. Total = 20 − 8 = 12.
 
 ---
 
@@ -1295,6 +1614,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Kali/bagi kiri ke kanan: 5 × (−6) = −30. −30 ÷ 3 = −10. Lalu: 100 − (−10) + (−8) = 100 + 10 − 8 = 102.
 - **C salah** — Lupa tambah (−8): 100 + 10 = 110, lalu 110 + 12 = 122 (kacau).
 - **D salah** — Salah tanda perkalian (jadi +30 ÷ 3 = 10), lalu 100 − 10 − 8 = 82 (lalu salah jadi 100).
+- **Konsep kunci:** Perkalian/pembagian setingkat dikerjakan kiri ke kanan dulu, baru tambah/kurang.
+- **Langkah Penyelesaian:**
+  1. 5 × (−6) = −30.
+  2. −30 ÷ 3 = −10.
+  3. 100 − (−10) + (−8) = 100 + 10 − 8 = 102.
 
 ---
 
@@ -1311,6 +1635,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Magnitudo benar tapi salah tanda (lupa di bawah nol).
 - **C salah** — Salah hitung selisih jam (6 jam): 12 − 18 = −6 (lalu salah jadi −5).
 - **D salah** — Lupa satu langkah penurunan: 12 − 12 = 0.
+- **Konsep kunci:** Soal cerita berulang: kalikan laju penurunan dengan banyak jam, kurangkan dari suhu awal.
+- **Langkah Penyelesaian:**
+  1. Selisih jam: 23 − 18 = 5 jam.
+  2. Total turun: 5 × 3 = 15°C.
+  3. 12 − 15 = −3°C.
 
 ---
 
@@ -1327,6 +1656,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Semua bernilai 25 (pangkat genap). 25 − 25 + 25 = 25.
 - **C salah** — Salah tanda (−5)² dianggap −25: −25 − (−25) + (−25) = −25 + 25 − 25 = −25.
 - **D salah** — Mengira semuanya saling membatalkan.
+- **Konsep kunci:** Hitung pangkat genap dulu (hasilnya selalu positif), baru tambah/kurang berurutan.
+- **Langkah Penyelesaian:**
+  1. Setiap (−5)² = 25.
+  2. 25 − 25 + 25 = 25.
 
 ---
 
@@ -1343,6 +1676,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — Tagihan awal 250.000 (− atau hutang). Pembayaran total 75.000 + 90.000 = 165.000. Sisa tagihan = 250.000 − 165.000 = 85.000.
 - **C salah** — Berhenti di total pembayaran 165.000.
 - **D salah** — Mengabaikan satu pembayaran: 250.000 − 75.000 + 90.000 (salah arah) atau 250.000 − (90.000 − 75.000) = 235.000.
+- **Konsep kunci:** Sisa tagihan sama dengan tagihan awal dikurangi total pembayaran.
+- **Langkah Penyelesaian:**
+  1. Total bayar: 75.000 + 90.000 = 165.000.
+  2. Sisa = 250.000 − 165.000 = 85.000.
 
 ---
 
@@ -1359,6 +1696,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B benar** — |−15 + 8| = |−7| = 7. |6 − 13| = |−7| = 7. Lalu 7 − 7 = 0.
 - **C salah** — Salah pasang tanda; magnitudo benar tapi salah arah.
 - **D salah** — Salah satu nilai mutlak dianggap negatif lalu hitung jadi 1.
+- **Konsep kunci:** Hitung isi nilai mutlak dulu, ambil hasil mutlaknya (selalu positif), baru kurangkan.
+- **Langkah Penyelesaian:**
+  1. |−15 + 8| = |−7| = 7.
+  2. |6 − 13| = |−7| = 7.
+  3. 7 − 7 = 0.
 
 ---
 
@@ -1375,6 +1717,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Lupa kurangi poin kalah: 15 + 4 = 19.
 - **C salah** — Salah kali kalah (3 × −2 = −6 dianggap +6 tambahan), atau salah hitung jadi 22.
 - **D salah** — Hanya menghitung menang × 3 − kalah × 1 = 12 (lupa seri).
+- **Konsep kunci:** Kalikan jumlah kejadian dengan poin masing-masing, lalu jumlahkan sebagai bilangan bertanda.
+- **Langkah Penyelesaian:**
+  1. Menang: 5 × 3 = 15. Seri: 4 × 1 = 4. Kalah: 3 × (−1) = −3.
+  2. Total = 15 + 4 + (−3) = 16.
 
 ---
 
@@ -1391,6 +1737,10 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah tanda di langkah kedua: −12 − 10 + 0 = −22.
 - **C salah** — Salah operasi: −12 − 10 + 2 = −20 (mengira −(−10) tetap −10).
 - **D benar** — Kali/bagi dulu: (−4) × 3 = −12. (−2) × 5 = −10. (−6) ÷ (−3) = 2. Lalu: −12 − (−10) + 2 = −12 + 10 + 2 = 0.
+- **Konsep kunci:** Kerjakan semua kali/bagi dulu (kiri ke kanan), baru tambah/kurang.
+- **Langkah Penyelesaian:**
+  1. (−4) × 3 = −12. (−2) × 5 = −10. (−6) ÷ (−3) = 2.
+  2. −12 − (−10) + 2 = −12 + 10 + 2 = 0.
 
 ---
 
@@ -1407,6 +1757,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Magnitudo benar tapi salah tanda.
 - **C salah** — Menjumlahkan semua magnitudo sebagai positif: 12 + 5 + 8 + 15 + 3 = 43.
 - **D salah** — Berhenti di total positif (23) tanpa mengurangi total negatif.
+- **Konsep kunci:** Jumlahkan seluruh perpindahan bertanda untuk mendapatkan posisi akhir relatif.
+- **Langkah Penyelesaian:**
+  1. Kelompokkan positif: 12 + 8 + 3 = 23.
+  2. Kelompokkan negatif: 5 + 15 = 20.
+  3. Total = 23 − 20 = 3.
 
 ---
 
@@ -1423,6 +1778,11 @@ Bagian ini berisi soal cerita 2–3 langkah dan kombinasi operasi yang lebih kom
 - **B salah** — Salah tanda perkalian pertama: −10, lalu −10 − 16 = −26.
 - **C salah** — Salah perkalian kedua: 4 × 4 = 16, tapi ditulis −4. Atau jumlah jadi 10 − 4 = 6.
 - **D salah** — Sama seperti C dengan tanda berbeda.
+- **Konsep kunci:** Kerjakan isi kurung dulu, kalikan dengan bilangan di depannya, baru jumlahkan hasilnya.
+- **Langkah Penyelesaian:**
+  1. (3 − 8) = −5. (−2 + 6) = 4.
+  2. −2 × (−5) = 10. 4 × 4 = 16.
+  3. 10 + 16 = 26.
 
 ---
 
@@ -1445,6 +1805,10 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — Pola: setiap suku dikali (−2). a₅ = 16×(−2) = −32. a₆ = −32×(−2) = 64. a₇ = 64×(−2) = −128. Atau aₙ = (−2)ⁿ; (−2)⁷ = −128.
 - **C salah** — Berhenti di a₆ = 64 (suku keenam, bukan ketujuh).
 - **D salah** — Salah hitung magnitudo (jadi 64) dengan tanda −.
+- **Konsep kunci:** Barisan geometri dengan rasio negatif: tiap suku diperoleh dari suku sebelumnya dikali rasio.
+- **Langkah Penyelesaian:**
+  1. Rasio = −2 (tiap suku dikali −2).
+  2. a₅ = −32, a₆ = 64, a₇ = −128 (atau pakai (−2)⁷ = −128).
 
 ---
 
@@ -1461,6 +1825,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah hitung 15 + 14 + 13 = 42 menjadi 39 (lupa satu suku).
 - **C salah** — Sama seperti B dan ditambah salah tanda.
 - **D benar** — Bilangan dari −15 sampai 12. Pasangan (−12, 12), (−11, 11), ..., (−1, 1) semuanya berjumlah 0. Tersisa: −15, −14, −13, dan 0. Jumlah = −15 + (−14) + (−13) + 0 = −42.
+- **Konsep kunci:** Pasangkan bilangan berlawanan (jumlahnya nol), lalu jumlahkan sisa bilangan yang tidak berpasangan.
+- **Langkah Penyelesaian:**
+  1. Pasangan −12 sampai 12 saling meniadakan (= 0).
+  2. Sisa: −15, −14, −13.
+  3. Jumlah sisa = −42.
 
 ---
 
@@ -1477,6 +1846,10 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Magnitudo benar tapi lupa semua bertanda negatif.
 - **C salah** — Salah rumus jumlah deret (anggap 20×20/2 = 200) atau menghilangkan satu suku.
 - **D salah** — Mengabaikan satu suku awal atau akhir: jumlah 1+...+19 = 190.
+- **Konsep kunci:** Jumlahkan magnitudo memakai rumus deret aritmetika, lalu pasang tanda sesuai semua suku.
+- **Langkah Penyelesaian:**
+  1. Jumlah 1 + 2 + ... + 20 = (20 × 21) / 2 = 210.
+  2. Semua suku bertanda negatif → hasil −210.
 
 ---
 
@@ -1493,6 +1866,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — Jumlah lantai turun = 12 − (−4) = 16 lantai. Waktu gerak = 16 ÷ 2 = 8 detik. Total dengan berhenti 3 detik = 8 + 3 = 11 detik.
 - **C salah** — Salah hitung jumlah lantai (anggap 16 + jeda dianggap 5 detik bukan 3): 16/2 + 5 = 13.
 - **D salah** — Salah konsep: 16 lantai × 1 detik/lantai = 16 detik + 3 = 19.
+- **Konsep kunci:** Soal cerita gabungan jarak-kecepatan-waktu dengan posisi bertanda (basement = negatif).
+- **Langkah Penyelesaian:**
+  1. Jarak turun = 12 − (−4) = 16 lantai.
+  2. Waktu gerak = 16 ÷ 2 = 8 detik.
+  3. Total waktu = 8 + 3 = 11 detik.
 
 ---
 
@@ -1509,6 +1887,10 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — a × b > 0 berarti sama tanda. a + b < 0 berarti jumlahnya negatif. Sama tanda + jumlah negatif → keduanya negatif.
 - **C salah** — Beda tanda akan membuat a × b < 0, tidak memenuhi syarat.
 - **D salah** — Sama seperti C, beda tanda.
+- **Konsep kunci:** Tanda hasil kali menunjukkan kesamaan tanda kedua bilangan; tanda jumlah menunjukkan bilangan mana yang dominan.
+- **Langkah Penyelesaian:**
+  1. a × b > 0 berarti a dan b bertanda sama.
+  2. a + b < 0 berarti jumlahnya negatif, jadi keduanya harus negatif (jika keduanya positif, jumlah pasti positif).
 
 ---
 
@@ -1525,6 +1907,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah pasang tanda; mengira pasangan = −1 → jumlah −50.
 - **C salah** — Salah hitung jumlah pasangan (100, padahal 50).
 - **D salah** — Mengira semua saling membatalkan.
+- **Konsep kunci:** Pasangkan suku-suku berurutan agar tiap pasangan bernilai konstan, lalu kalikan dengan banyak pasangan.
+- **Langkah Penyelesaian:**
+  1. Pasangkan (−1+2), (−3+4), ..., (−99+100); tiap pasangan = 1.
+  2. Banyak pasangan = 100 ÷ 2 = 50.
+  3. Total = 50 × 1 = 50.
 
 ---
 
@@ -1541,6 +1928,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — Positif: 3+2+6+1+4 = 16. Negatif: 5+4+2+3+5 = 19. Total: 16 − 19 = −3 (Tim B unggul 3).
 - **C salah** — Magnitudo benar tapi salah tanda (mengira Tim A unggul).
 - **D salah** — Berhenti di total positif (16) tanpa mengurangi total negatif.
+- **Konsep kunci:** Kelompokkan bilangan bertanda sama pada deret campuran, lalu kurangkan totalnya.
+- **Langkah Penyelesaian:**
+  1. Positif: 3+2+6+1+4 = 16.
+  2. Negatif: 5+4+2+3+5 = 19.
+  3. Total = 16 − 19 = −3.
 
 ---
 
@@ -1557,6 +1949,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — f(−2) = (−2)² − 5(−2) + 6 = 4 − (−10) + 6 = 4 + 10 + 6 = 20.
 - **C salah** — Salah tanda di langkah kedua: 4 + (−10) + 6 = 0 (lalu salah tulis −20).
 - **D salah** — Mengira (−2)² = −4 (salah aturan tanda pangkat), lalu −4 + 10 + 6 = 12 (lalu salah jadi 8).
+- **Konsep kunci:** Substitusi nilai negatif ke dalam fungsi, perhatikan aturan tanda pada pangkat dan perkalian.
+- **Langkah Penyelesaian:**
+  1. (−2)² = 4.
+  2. −5 × (−2) = 10.
+  3. Jumlahkan: 4 + 10 + 6 = 20.
 
 ---
 
@@ -1573,6 +1970,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Lupa menambah 1 (rumus suku ke-n perlu hati-hati): hitung jadi 12 padahal seharusnya 14.
 - **C salah** — Salah operasi: (−34 − 5) ÷ (−3) = 13 (lupa +1 untuk indeks).
 - **D benar** — Beda b = 2 − 5 = −3. Rumus aₙ = a₁ + (n−1)b. −34 = 5 + (n−1)(−3). −39 = (n−1)(−3). n−1 = 13. n = 14.
+- **Konsep kunci:** Rumus suku ke-n barisan aritmetika: aₙ = a₁ + (n − 1)b.
+- **Langkah Penyelesaian:**
+  1. Beda b = 2 − 5 = −3.
+  2. Substitusi: −34 = 5 + (n−1)(−3).
+  3. Selesaikan: n − 1 = 13, jadi n = 14.
 
 ---
 
@@ -1589,6 +1991,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah hitung satu pengurangan: 500 + 750 − 710 = 540 (jika tarik bulan 2 dianggap 180).
 - **C salah** — Salah konsep: 500 − (810 − 750) − ... dapat 360.
 - **D salah** — Mengabaikan semua tarik: 500 + 750 + ... = 1.430 (salah tulis).
+- **Konsep kunci:** Saldo akhir sama dengan saldo awal ditambah total setoran dikurangi total penarikan.
+- **Langkah Penyelesaian:**
+  1. Total setor: 200 + 150 + 400 = 750 (ribu).
+  2. Total tarik: 350 + 280 + 180 = 810 (ribu).
+  3. Saldo akhir = 500 + 750 − 810 = 440 (ribu).
 
 ---
 
@@ -1605,6 +2012,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — Pasangkan: (1−2) + (3−4) + ... + (99−100). Setiap pasang = −1. Jumlah pasang = 100/2 = 50. Total = 50 × (−1) = −50.
 - **C salah** — Mengira saling menghapus seluruhnya.
 - **D salah** — Salah konsep, hanya menjumlahkan satu pasangan jadi 100/1 = 100.
+- **Konsep kunci:** Pasangkan suku-suku berurutan agar bernilai konstan, lalu kalikan dengan banyak pasangan.
+- **Langkah Penyelesaian:**
+  1. Pasangkan (1−2), (3−4), ..., (99−100); tiap pasangan = −1.
+  2. Banyak pasangan = 100 ÷ 2 = 50.
+  3. Total = 50 × (−1) = −50.
 
 ---
 
@@ -1621,6 +2033,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah tanda perkalian; mengira (−5) bisa positif.
 - **C salah** — Salah hitung x atau y: misal x = 7 (mengira x = 5 − 3) lalu 7 × (−2) = −14.
 - **D salah** — Salah hitung semua dengan tanda terbalik.
+- **Konsep kunci:** Selesaikan persamaan sederhana untuk tiap variabel terlebih dahulu, baru kalikan hasilnya.
+- **Langkah Penyelesaian:**
+  1. x − 5 = −3 → x = 2.
+  2. y + 7 = 2 → y = −5.
+  3. x × y = 2 × (−5) = −10.
 
 ---
 
@@ -1637,6 +2054,10 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — (−2)⁶ = 64 (pangkat genap → positif; 2⁶ = 64). n = 6.
 - **C salah** — (−2)⁷ = −128, tidak cocok.
 - **D salah** — (−2)⁸ = 256, terlalu besar.
+- **Konsep kunci:** Pangkat genap dari bilangan negatif selalu positif; cocokkan magnitudo 2ⁿ dengan angka yang dicari.
+- **Langkah Penyelesaian:**
+  1. Karena hasil positif, n harus genap.
+  2. Coba n = 6: 2⁶ = 64 dan (−2)⁶ = 64 (cocok).
 
 ---
 
@@ -1653,6 +2074,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah persamaan: lupa kalikan −2 dengan jumlah salah, ambil 5b = 110 → b = 22.
 - **C benar** — Misal benar = b, salah = 25 − b. Skor: 5b − 2(25 − b) = 90. → 5b − 50 + 2b = 90. → 7b = 140. → b = 20. Cek: benar = 20, salah = 5. Skor = 100 − 10 = 90. ✓
 - **D salah** — Pembagian kasar (90 − 10) ÷ 5 = 16, lupa hubungan benar-salah.
+- **Konsep kunci:** Susun persamaan aljabar dari total soal dan total skor, lalu selesaikan.
+- **Langkah Penyelesaian:**
+  1. Misalkan benar = b, salah = 25 − b.
+  2. Persamaan: 5b − 2(25 − b) = 90.
+  3. Selesaikan: 7b = 140, jadi b = 20.
 
 ---
 
@@ -1669,6 +2095,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah konsep; mengira yang tersisa hanya nilai positif 1 sampai 10.
 - **C salah** — Sama seperti B dengan tanda −.
 - **D salah** — Hanya menjumlahkan magnitudo dua bilangan ekstrem.
+- **Konsep kunci:** Setiap bilangan positif memiliki pasangan negatif yang saling meniadakan pada penjumlahan.
+- **Langkah Penyelesaian:**
+  1. Pasangkan n dengan −n untuk n = 1 sampai 10, tiap pasangan = 0.
+  2. Tambahkan 0.
+  3. Total = 0.
 
 ---
 
@@ -1685,6 +2116,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — Termometer = sebenarnya + 3. Jadi sebenarnya = termometer − 3 = −2 − 3 = −5°C.
 - **C salah** — Magnitudo benar tapi salah tanda.
 - **D salah** — Salah hitung: −2 − 3 = −1 (salah kurang).
+- **Konsep kunci:** Terjemahkan hubungan 'lebih tinggi dari' menjadi persamaan, lalu selesaikan mundur (kebalikannya).
+- **Langkah Penyelesaian:**
+  1. Termometer = sebenarnya + 3.
+  2. Sebenarnya = termometer − 3.
+  3. Hitung: −2 − 3 = −5°C.
 
 ---
 
@@ -1701,6 +2137,10 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B benar** — (−1) berpangkat ganjil = −1, genap = +1. Dari pangkat 1 sampai 100: 50 ganjil (−1) dan 50 genap (+1). Total = 50(−1) + 50(+1) = 0.
 - **C salah** — Mengira semuanya negatif: 100 × (−1) = −100.
 - **D salah** — Mengira hanya satu pasangan saling membatalkan (−1 + 1 = 0), sisa pangkat ganjil = −1.
+- **Konsep kunci:** Pangkat ganjil dari −1 menghasilkan −1, pangkat genap menghasilkan +1; jumlahkan sesuai banyaknya.
+- **Langkah Penyelesaian:**
+  1. Dari pangkat 1 sampai 100 ada 50 pangkat ganjil dan 50 pangkat genap.
+  2. Total = 50 × (−1) + 50 × (1) = 0.
 
 ---
 
@@ -1717,6 +2157,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah hitung: 20m = 200 → m = 10 (mengira awal 100, bukan 50).
 - **C salah** — Lupa kurangi awal: 110 = 12m → m ≈ 9 (lalu salah ke 12).
 - **D salah** — Salah pembagian: 60 ÷ 10 = 6.
+- **Konsep kunci:** Susun persamaan aljabar dari total pertandingan dan total perubahan koin.
+- **Langkah Penyelesaian:**
+  1. Misalkan menang = m, kalah = 15 − m.
+  2. Persamaan: 12m − 8(15 − m) = 60.
+  3. Selesaikan: 20m = 180, jadi m = 9.
 
 ---
 
@@ -1733,6 +2178,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
 - **B salah** — Salah tanda perkalian; mengira (−8) bisa positif.
 - **C salah** — Salah hitung b: jika b = −6 (tertukar tanda) → 3 × (−6) = −18.
 - **D salah** — Magnitudo salah dan tanda terbalik.
+- **Konsep kunci:** Sistem persamaan linear dua variabel diselesaikan dengan eliminasi (menjumlahkan/mengurangkan persamaan).
+- **Langkah Penyelesaian:**
+  1. Jumlahkan kedua persamaan: 2a = 6 → a = 3.
+  2. Kurangkan kedua persamaan: 2b = −16 → b = −8.
+  3. a × b = 3 × (−8) = −24.
 
 ---
 
@@ -1754,6 +2204,11 @@ Bagian ini berisi soal cerita kompleks multi-langkah, pola, pemecahan masalah, d
   - a₃ = a₂ × (−1) + 3 = (0)(−1) + 3 = 0 + 3 = 3.
   - a₄ = a₃ × (−1) + 4 = (3)(−1) + 4 = −3 + 4 = 1.
   - a₅ = a₄ × (−1) + 5 = (1)(−1) + 5 = −1 + 5 = **4**.
+- **Konsep kunci:** Barisan rekursif: hitung suku demi suku secara berurutan memakai rumus, jangan meloncat langkah.
+- **Langkah Penyelesaian:**
+  1. a₁ = 2.
+  2. a₂ = (2)(−1) + 2 = 0; a₃ = (0)(−1) + 3 = 3; a₄ = (3)(−1) + 4 = 1.
+  3. a₅ = (1)(−1) + 5 = 4.
 
 ---
 

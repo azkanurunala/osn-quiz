@@ -24,6 +24,12 @@ D. Segitiga siku-siku
 - **C. Segitiga sama sisi** — BENAR. Ciri khasnya: ketiga sisi sama panjang dan ketiga sudut sama besar (masing-masing 60°).
 - **D. Segitiga siku-siku** — SALAH. Siku-siku didefinisikan dari sudut (ada sudut 90°), bukan dari kesamaan sisinya. Miskonsepsi: salah kategori (sudut vs sisi).
 
+- **Konsep kunci:** Segitiga sama sisi memiliki 3 sisi dan 3 sudut yang sama besar.
+- **Langkah Penyelesaian:**
+  1. Ingat ciri-ciri segitiga sama sisi: 3 sisi sama panjang dan 3 sudut sama besar.
+  2. Bandingkan dengan opsi lain (sembarang, sama kaki, siku-siku).
+  3. Pilih opsi C karena sesuai definisi.
+
 ---
 
 **2.** Sebuah segitiga memiliki sudut-sudut 70°, 60°, dan x°. Nilai x adalah...
@@ -39,6 +45,12 @@ D. 60
 - **B. 50** — BENAR. x = 180 − (70 + 60) = 180 − 130 = 50°.
 - **C. 40** — SALAH. Bisa jadi siswa menjumlah 70 + 60 = 130, lalu 180 − 140 = 40 (salah hitung pengurangan).
 - **D. 60** — SALAH. Siswa mungkin asal menebak karena ada sudut 60°. Tidak menggunakan aturan jumlah sudut.
+
+- **Konsep kunci:** Jumlah ketiga sudut dalam segitiga selalu 180°.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan dua sudut yang diketahui: 70° + 60° = 130°.
+  2. Kurangkan dari 180°: 180° − 130° = 50°.
+  3. Jadi x = 50° (opsi B).
 
 ---
 
@@ -56,6 +68,12 @@ D. Keempat sisinya sama panjang
 - **C. Diagonalnya sama panjang** — BENAR (sifat persegi), jadi BUKAN jawaban.
 - **D. Keempat sisinya sama panjang** — BENAR (sifat persegi), jadi BUKAN jawaban.
 
+- **Konsep kunci:** Persegi memiliki 4 sumbu simetri, bukan 1.
+- **Langkah Penyelesaian:**
+  1. Ingat semua sifat persegi: sisi sama, sudut siku-siku, diagonal sama panjang, 4 sumbu simetri.
+  2. Cari pernyataan yang salah di antara opsi.
+  3. Opsi A salah karena sumbu simetri persegi ada 4, bukan 1.
+
 ---
 
 **4.** Jajar genjang memiliki...
@@ -71,6 +89,12 @@ D. 1 pasang sisi sejajar
 - **B. 2 pasang sisi sejajar yang sama panjang** — BENAR. Inilah ciri khas jajar genjang.
 - **C. 4 sudut siku-siku** — SALAH. Itu sifat persegi/persegi panjang, bukan jajar genjang.
 - **D. 1 pasang sisi sejajar** — SALAH. Itu sifat trapesium. Distractor: tertukar antara trapesium dan jajar genjang.
+
+- **Konsep kunci:** Jajar genjang memiliki 2 pasang sisi sejajar yang sama panjang.
+- **Langkah Penyelesaian:**
+  1. Ingat ciri utama jajar genjang: sisi berhadapan sejajar dan sama panjang.
+  2. Bandingkan dengan sifat bangun lain di opsi.
+  3. Pilih opsi B yang sesuai definisi.
 
 ---
 
@@ -88,6 +112,12 @@ D. Layang-layang
 - **C. Belah ketupat** — SALAH. Belah ketupat juga punya 2 pasang sisi sejajar (4 sisi sama panjang).
 - **D. Layang-layang** — SALAH. Layang-layang tidak memiliki sisi sejajar; sisinya sepasang-sepasang berdekatan sama panjang.
 
+- **Konsep kunci:** Trapesium adalah segiempat dengan tepat satu pasang sisi sejajar.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi trapesium: hanya 1 pasang sisi sejajar.
+  2. Bandingkan dengan jajar genjang, belah ketupat, layang-layang yang punya sifat berbeda.
+  3. Pilih opsi A.
+
 ---
 
 **6.** Belah ketupat memiliki sifat...
@@ -103,6 +133,12 @@ D. 1 sumbu simetri saja
 - **B. 4 sisi sama panjang dan diagonal saling tegak lurus** — BENAR. Itu sifat utama belah ketupat.
 - **C. 2 pasang sisi sama dan sudut siku-siku** — SALAH. Itu campuran sifat persegi panjang dan layang-layang. Belah ketupat umumnya tidak siku-siku.
 - **D. 1 sumbu simetri saja** — SALAH. Belah ketupat punya 2 sumbu simetri (kedua diagonalnya).
+
+- **Konsep kunci:** Belah ketupat punya 4 sisi sama panjang dan diagonal saling tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Ingat ciri belah ketupat: semua sisi sama, diagonal tegak lurus tapi tidak sama panjang.
+  2. Cocokkan dengan tiap opsi.
+  3. Pilih opsi B.
 
 ---
 
@@ -120,6 +156,12 @@ D. Semua sudutnya siku-siku
 - **C. 4 sisi sama panjang** — SALAH. Itu sifat belah ketupat/persegi. Layang-layang hanya 2 pasang sisi berdekatan yang sama.
 - **D. Semua sudutnya siku-siku** — SALAH. Layang-layang tidak punya sudut siku-siku khas; itu sifat persegi panjang.
 
+- **Konsep kunci:** Layang-layang memiliki 2 pasang sisi berdekatan sama panjang dan diagonal tegak lurus.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi layang-layang.
+  2. Bandingkan dengan opsi lain (diagonal sama panjang, sisi sama semua, sudut siku-siku) yang bukan ciri layang-layang.
+  3. Pilih opsi A.
+
 ---
 
 **8.** Pada lingkaran, garis yang menghubungkan dua titik pada lingkaran dan melewati pusat disebut...
@@ -135,6 +177,12 @@ D. Diameter
 - **B. Tali busur** — SALAH. Tali busur menghubungkan dua titik di lingkaran, tetapi TIDAK harus melewati pusat. Diameter adalah jenis khusus tali busur.
 - **C. Busur** — SALAH. Busur adalah bagian lengkungan lingkaran, bukan garis lurus.
 - **D. Diameter** — BENAR. Diameter melewati pusat dan menghubungkan dua titik di lingkaran. Panjangnya = 2 × jari-jari.
+
+- **Konsep kunci:** Diameter adalah tali busur yang melewati titik pusat lingkaran.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa diameter menghubungkan dua titik pada lingkaran melalui pusat.
+  2. Bedakan dengan jari-jari (dari pusat ke tepi) dan tali busur (tidak harus lewat pusat).
+  3. Pilih opsi D.
 
 ---
 
@@ -152,6 +200,12 @@ D. Segitiga siku-siku
 - **C. Segitiga tumpul** — SALAH. Tumpul artinya ada satu sudut lebih dari 90°.
 - **D. Segitiga siku-siku** — BENAR. Definisi segitiga siku-siku: memiliki tepat satu sudut 90°.
 
+- **Konsep kunci:** Segitiga siku-siku memiliki tepat satu sudut 90°.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi segitiga siku-siku.
+  2. Bandingkan dengan lancip (semua sudut < 90°) dan tumpul (ada sudut > 90°).
+  3. Pilih opsi D.
+
 ---
 
 **10.** Jumlah sumbu simetri pada persegi panjang adalah...
@@ -167,6 +221,12 @@ D. 4
 - **B. 2** — BENAR. Persegi panjang memiliki 2 sumbu simetri: satu horizontal dan satu vertikal yang melalui titik tengah. Diagonalnya BUKAN sumbu simetri karena sisi-sisinya tidak sama.
 - **C. 3** — SALAH. Tidak ada bangun standar dengan 3 sumbu simetri kecuali segitiga sama sisi.
 - **D. 4** — SALAH. Itu sumbu simetri persegi. Miskonsepsi: menyamakan persegi panjang dengan persegi.
+
+- **Konsep kunci:** Persegi panjang memiliki 2 sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Bayangkan garis lipat persegi panjang: horizontal dan vertikal melalui titik tengah.
+  2. Diagonal bukan sumbu simetri karena sisi-sisinya tidak sama.
+  3. Pilih opsi B.
 
 ---
 
@@ -184,6 +244,12 @@ D. 140°
 - **C. 80°** — SALAH. Bila tiap = 80°, totalnya 40 + 80 + 80 = 200° (lebih 20°).
 - **D. 140°** — SALAH. Siswa lupa membagi dua. 140° adalah sisa total kedua sudut alas, bukan tiap sudut.
 
+- **Konsep kunci:** Pada segitiga sama kaki, kedua sudut alas sama besar dan jumlah semua sudut 180°.
+- **Langkah Penyelesaian:**
+  1. Kurangkan sudut puncak dari 180°: 180° − 40° = 140°.
+  2. Bagi dua karena sudut alas sama besar: 140° ÷ 2 = 70°.
+  3. Jadi sudut alas = 70° (opsi B).
+
 ---
 
 **12.** Berikut adalah segi banyak beraturan, kecuali...
@@ -199,6 +265,12 @@ D. Persegi panjang
 - **B. Persegi** — beraturan (sisi sama, sudut 90° semua). BUKAN jawaban.
 - **C. Segi enam beraturan** — jelas beraturan dari namanya. BUKAN jawaban.
 - **D. Persegi panjang** — TIDAK beraturan karena sisinya tidak semua sama (panjang ≠ lebar). INI jawabannya.
+
+- **Konsep kunci:** Segi banyak beraturan harus punya semua sisi dan semua sudut sama besar.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi apakah sisi dan sudutnya semua sama.
+  2. Persegi panjang punya sisi panjang ≠ lebar, jadi tidak beraturan.
+  3. Pilih opsi D.
 
 ---
 
@@ -216,6 +288,12 @@ D. Segi enam beraturan
 - **C. Persegi** — SALAH. Persegi punya tepat 4 sumbu simetri.
 - **D. Segi enam beraturan** — SALAH. Punya 6 sumbu simetri saja.
 
+- **Konsep kunci:** Lingkaran memiliki sumbu simetri tak terhingga karena setiap garis melalui pusat adalah sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Bandingkan jumlah sumbu simetri tiap bangun di opsi (segitiga sama sisi = 3, persegi = 4, segi enam = 6).
+  2. Lingkaran tidak terbatas jumlah sumbunya.
+  3. Pilih opsi A.
+
 ---
 
 **14.** Daerah lingkaran yang dibatasi oleh dua jari-jari dan busur disebut...
@@ -231,6 +309,12 @@ D. Juring
 - **B. Tali busur** — SALAH. Tali busur adalah garis lurus, bukan daerah.
 - **C. Diameter** — SALAH. Diameter adalah ruas garis, bukan daerah.
 - **D. Juring** — BENAR. Juring = daerah berbentuk seperti potongan pizza, dibatasi 2 jari-jari + 1 busur.
+
+- **Konsep kunci:** Juring adalah daerah lingkaran yang dibatasi 2 jari-jari dan 1 busur.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi juring, tembereng, tali busur, dan diameter.
+  2. Cocokkan ciri "dibatasi 2 jari-jari dan busur" dengan definisi juring.
+  3. Pilih opsi D.
 
 ---
 
@@ -248,6 +332,12 @@ D. Segitiga sama sisi
 - **C. Segitiga tumpul** — BENAR. Tumpul = ada sudut > 90°. 95° lebih dari 90°.
 - **D. Segitiga sama sisi** — SALAH. Sama sisi sudutnya 60° semua. Tidak mungkin punya 95°.
 
+- **Konsep kunci:** Segitiga tumpul memiliki satu sudut lebih dari 90°.
+- **Langkah Penyelesaian:**
+  1. Bandingkan sudut 95° dengan batas 90°.
+  2. Karena 95° > 90°, segitiga termasuk tumpul.
+  3. Pilih opsi C.
+
 ---
 
 **16.** Trapesium yang memiliki sepasang sisi miring sama panjang dan memiliki sumbu simetri disebut...
@@ -263,6 +353,12 @@ D. Trapesium tumpul
 - **B. Trapesium sembarang** — SALAH. Sembarang artinya keempat sisinya berbeda; tidak ada sumbu simetri.
 - **C. Trapesium siku-siku** — SALAH. Punya 2 sudut siku-siku tetapi sisi miringnya hanya 1, tidak punya pasangan sama.
 - **D. Trapesium tumpul** — SALAH. Tidak ada istilah baku "trapesium tumpul" dalam klasifikasi standar.
+
+- **Konsep kunci:** Trapesium sama kaki memiliki sepasang sisi miring sama panjang dan satu sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Ingat ciri trapesium sama kaki dibanding trapesium sembarang dan siku-siku.
+  2. Cocokkan dengan opsi yang menyebut sisi miring sama dan ada sumbu simetri.
+  3. Pilih opsi A.
 
 ---
 
@@ -280,6 +376,12 @@ D. 49 cm
 - **C. 21 cm** — SALAH. Itu 3 × jari-jari, salah rumus.
 - **D. 49 cm** — SALAH. Itu kuadrat jari-jari (7²). Mungkin siswa tertukar dengan rumus luas.
 
+- **Konsep kunci:** Diameter = 2 × jari-jari.
+- **Langkah Penyelesaian:**
+  1. Kalikan jari-jari dengan 2: 2 × 7 cm.
+  2. Hasilnya 14 cm.
+  3. Pilih opsi A.
+
 ---
 
 **18.** Bangun datar yang memiliki simetri putar tingkat 4 adalah...
@@ -295,6 +397,12 @@ D. Persegi
 - **B. Belah ketupat** — SALAH. Tingkat 2.
 - **C. Trapesium** — SALAH. Trapesium tidak punya simetri putar (tingkat 1).
 - **D. Persegi** — BENAR. Tingkat 4: bisa diputar 90°, 180°, 270°, dan 360° tetap sama.
+
+- **Konsep kunci:** Simetri putar tingkat n berarti bangun kembali ke bentuk semula n kali dalam satu putaran penuh.
+- **Langkah Penyelesaian:**
+  1. Bayangkan memutar tiap bangun di opsi.
+  2. Persegi kembali ke bentuk semula tiap 90° (4 kali dalam 360°).
+  3. Pilih opsi D.
 
 ---
 
@@ -312,6 +420,12 @@ D. 4
 - **C. 3** — SALAH. Mungkin siswa menghitung 2 diagonal + 1 garis tengah (salah).
 - **D. 4** — SALAH. Mungkin siswa menyamakan dengan jumlah sisi.
 
+- **Konsep kunci:** Setiap segiempat memiliki tepat 2 diagonal.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa diagonal menghubungkan sudut yang berseberangan.
+  2. Pada segiempat hanya ada 2 pasang sudut berseberangan.
+  3. Pilih opsi A.
+
 ---
 
 **20.** Bangun yang memiliki 5 sisi dan 5 sudut disebut...
@@ -327,6 +441,12 @@ D. Heptagon
 - **B. Heksagon** — SALAH. Heksa = 6.
 - **C. Oktagon** — SALAH. Okta = 8.
 - **D. Heptagon** — SALAH. Hepta = 7.
+
+- **Konsep kunci:** Nama segi banyak mengikuti jumlah sisinya (penta = 5, heksa = 6, dst).
+- **Langkah Penyelesaian:**
+  1. Ingat arti awalan penta-, heksa-, hepta-, okta-.
+  2. Cocokkan penta dengan 5 sisi.
+  3. Pilih opsi A.
 
 ---
 
@@ -344,6 +464,12 @@ D. Memiliki 2 diagonal
 - **C. Sudut yang berhadapan sama besar** — SALAH. Keduanya punya sifat ini.
 - **D. Memiliki 2 diagonal** — SALAH. Semua segiempat punya 2 diagonal.
 
+- **Konsep kunci:** Belah ketupat dan jajar genjang sama-sama punya sisi sejajar, tapi hanya belah ketupat yang keempat sisinya sama panjang.
+- **Langkah Penyelesaian:**
+  1. Bandingkan sifat kedua bangun satu per satu.
+  2. Cari sifat yang hanya dimiliki belah ketupat.
+  3. Pilih opsi B.
+
 ---
 
 **22.** Segitiga lancip adalah segitiga yang...
@@ -359,6 +485,12 @@ D. Semua sudutnya kurang dari 90°
 - **B. Memiliki satu sudut lebih dari 90°** — SALAH. Itu segitiga tumpul.
 - **C. Sudutnya 60° saja** — SALAH. Itu segitiga sama sisi (kasus khusus segitiga lancip). Lancip umum tidak harus 60° semua.
 - **D. Semua sudutnya kurang dari 90°** — BENAR. Definisi lancip = ketiga sudut < 90°.
+
+- **Konsep kunci:** Segitiga lancip adalah segitiga dengan semua sudut kurang dari 90°.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi lancip, siku-siku, dan tumpul berdasarkan besar sudut.
+  2. Cocokkan definisi "semua sudut < 90°" dengan lancip.
+  3. Pilih opsi D.
 
 ---
 
@@ -376,6 +508,12 @@ D. 64 cm
 - **C. 32 cm** — BENAR. 4 × 8 = 32 cm.
 - **D. 64 cm** — SALAH. Itu sisi × sisi = LUAS, bukan keliling. Tertukar rumus.
 
+- **Konsep kunci:** Keliling persegi = 4 × sisi.
+- **Langkah Penyelesaian:**
+  1. Kalikan sisi dengan 4: 4 × 8 cm.
+  2. Hasilnya 32 cm.
+  3. Pilih opsi C.
+
 ---
 
 **24.** Jumlah sudut dalam segi empat adalah...
@@ -391,6 +529,12 @@ D. 540°
 - **B. 270°** — SALAH. Tidak ada bangun standar dengan jumlah sudut 270°.
 - **C. 360°** — BENAR. Segi empat (n=4): (4−2) × 180 = 360°.
 - **D. 540°** — SALAH. Itu untuk segi lima (n=5).
+
+- **Konsep kunci:** Jumlah sudut dalam segi-n = (n − 2) × 180°.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 4 ke rumus: (4 − 2) × 180°.
+  2. Hitung: 2 × 180° = 360°.
+  3. Pilih opsi C.
 
 ---
 
@@ -408,6 +552,12 @@ D. 4
 - **C. 2** — BENAR. Kedua diagonal belah ketupat adalah sumbu simetri.
 - **D. 4** — SALAH. Itu persegi.
 
+- **Konsep kunci:** Belah ketupat memiliki 2 sumbu simetri, yaitu kedua diagonalnya.
+- **Langkah Penyelesaian:**
+  1. Ingat bahwa diagonal belah ketupat sekaligus menjadi sumbu simetri.
+  2. Hitung ada 2 diagonal.
+  3. Pilih opsi C.
+
 ---
 
 **26.** Pada lingkaran, daerah yang dibatasi tali busur dan busur disebut...
@@ -423,6 +573,12 @@ D. Jari-jari
 - **B. Tembereng** — BENAR. Tembereng = irisan lingkaran yang dibatasi tali busur dan busur (bentuknya seperti bulan sabit kecil).
 - **C. Diameter** — SALAH. Diameter ruas garis, bukan daerah.
 - **D. Jari-jari** — SALAH. Jari-jari ruas garis, bukan daerah.
+
+- **Konsep kunci:** Tembereng adalah daerah lingkaran yang dibatasi tali busur dan busur.
+- **Langkah Penyelesaian:**
+  1. Bedakan tembereng (dibatasi tali busur + busur) dengan juring (dibatasi 2 jari-jari + busur).
+  2. Cocokkan definisi dengan soal.
+  3. Pilih opsi B.
 
 ---
 
@@ -440,6 +596,12 @@ D. 120°
 - **C. 30°** — SALAH. Salah konsep sudut perpotongan diagonal persegi.
 - **D. 120°** — SALAH. Itu sudut antar diagonal pada heksagon beraturan.
 
+- **Konsep kunci:** Diagonal persegi saling tegak lurus di titik pusat.
+- **Langkah Penyelesaian:**
+  1. Ingat sifat diagonal persegi: sama panjang, saling membagi dua, dan tegak lurus.
+  2. Sudut perpotongannya 90°.
+  3. Pilih opsi A.
+
 ---
 
 **28.** Berikut adalah segitiga berdasarkan sisinya, kecuali...
@@ -455,6 +617,12 @@ D. Segitiga siku-siku
 - **B. Sama kaki** — klasifikasi berdasarkan sisi. BUKAN jawaban.
 - **C. Sembarang** — klasifikasi berdasarkan sisi. BUKAN jawaban.
 - **D. Siku-siku** — INI jawabannya. Siku-siku adalah klasifikasi berdasarkan SUDUT, bukan sisi.
+
+- **Konsep kunci:** Segitiga diklasifikasikan berdasarkan sisi (sama sisi, sama kaki, sembarang) atau berdasarkan sudut (lancip, siku-siku, tumpul).
+- **Langkah Penyelesaian:**
+  1. Kelompokkan tiap opsi ke jenis klasifikasi sisi atau sudut.
+  2. Siku-siku termasuk klasifikasi sudut, bukan sisi.
+  3. Pilih opsi D.
 
 ---
 
@@ -472,6 +640,12 @@ D. Oktagon
 - **C. Heptagon** — SALAH. Heptagon = 7 sisi.
 - **D. Oktagon** — SALAH. Oktagon = 8 sisi.
 
+- **Konsep kunci:** Nama segi banyak sesuai jumlah sisi (heksagon = 6 sisi).
+- **Langkah Penyelesaian:**
+  1. Ingat arti "heksa" = 6.
+  2. Cocokkan dengan bangun bersisi 6.
+  3. Pilih opsi B.
+
 ---
 
 **30.** Bangun datar yang tidak memiliki sudut adalah...
@@ -487,6 +661,12 @@ D. Lingkaran
 - **B. Segitiga** — SALAH. Punya 3 sudut.
 - **C. Belah ketupat** — SALAH. Punya 4 sudut.
 - **D. Lingkaran** — BENAR. Lingkaran adalah kurva tertutup tanpa sudut sama sekali.
+
+- **Konsep kunci:** Lingkaran adalah kurva tertutup tanpa sudut.
+- **Langkah Penyelesaian:**
+  1. Cek tiap bangun di opsi apakah memiliki sudut.
+  2. Lingkaran tidak memiliki sudut sama sekali.
+  3. Pilih opsi D.
 
 ---
 
@@ -504,6 +684,12 @@ D. Persegi panjang
 - **C. Trapesium** — SALAH. Di sekolah dasar Indonesia, trapesium = "tepat 1 pasang sisi sejajar", jadi persegi BUKAN trapesium standar.
 - **D. Persegi panjang** — BENAR. Persegi adalah persegi panjang dengan kasus khusus: panjang = lebar.
 
+- **Konsep kunci:** Persegi adalah persegi panjang khusus dengan panjang = lebar.
+- **Langkah Penyelesaian:**
+  1. Ingat hubungan persegi dan persegi panjang.
+  2. Persegi memenuhi semua sifat persegi panjang plus sisi sama panjang.
+  3. Pilih opsi D.
+
 ---
 
 **32.** Bangun datar yang mempunyai simetri putar tingkat 3 adalah...
@@ -519,6 +705,12 @@ D. Belah ketupat
 - **B. Segitiga sama kaki** — SALAH. Hanya tingkat 1 (kembali setelah 360°).
 - **C. Persegi panjang** — SALAH. Tingkat 2.
 - **D. Belah ketupat** — SALAH. Tingkat 2.
+
+- **Konsep kunci:** Simetri putar tingkat 3 berarti bangun kembali ke bentuk semula 3 kali dalam satu putaran penuh (setiap 120°).
+- **Langkah Penyelesaian:**
+  1. Bayangkan memutar tiap bangun di opsi.
+  2. Segitiga sama sisi kembali ke bentuk semula tiap 120°.
+  3. Pilih opsi A.
 
 ---
 
@@ -536,6 +728,12 @@ D. 4
 - **C. 1** — BENAR. Hanya diagonal yang menghubungkan kedua sudut puncak (yang lebih panjang) yang menjadi sumbu simetri.
 - **D. 4** — SALAH. Itu persegi.
 
+- **Konsep kunci:** Layang-layang hanya punya 1 sumbu simetri, yaitu diagonal yang menghubungkan kedua sudut puncaknya.
+- **Langkah Penyelesaian:**
+  1. Ingat hanya satu diagonal layang-layang yang menjadi sumbu simetri.
+  2. Bedakan dengan belah ketupat yang punya 2.
+  3. Pilih opsi C.
+
 ---
 
 **34.** Jumlah sudut pada segi enam adalah...
@@ -551,6 +749,12 @@ D. 900°
 - **B. 540°** — SALAH. Itu jumlah sudut segi lima.
 - **C. 360°** — SALAH. Itu jumlah sudut segi empat.
 - **D. 900°** — SALAH. Itu jumlah sudut segi tujuh: (7−2) × 180.
+
+- **Konsep kunci:** Jumlah sudut dalam segi-n = (n − 2) × 180°.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 6: (6 − 2) × 180°.
+  2. Hitung: 4 × 180° = 720°.
+  3. Pilih opsi A.
 
 ---
 
@@ -568,6 +772,12 @@ D. 1260°
 - **C. 720°** — SALAH. Itu untuk segi enam.
 - **D. 1260°** — SALAH. Itu untuk segi sembilan: (9−2) × 180.
 
+- **Konsep kunci:** Jumlah sudut dalam segi-n = (n − 2) × 180°.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 8: (8 − 2) × 180°.
+  2. Hitung: 6 × 180° = 1080°.
+  3. Pilih opsi A.
+
 ---
 
 **36.** Sudut dalam setiap segitiga sama sisi adalah...
@@ -583,6 +793,12 @@ D. 60°
 - **B. 45°** — SALAH. Bila 45° semua, total 135° (kurang).
 - **C. 90°** — SALAH. Bila 90° semua, total 270° (lebih).
 - **D. 60°** — BENAR. 180° ÷ 3 = 60°.
+
+- **Konsep kunci:** Segitiga sama sisi memiliki 3 sudut sama besar dengan total 180°.
+- **Langkah Penyelesaian:**
+  1. Bagi 180° dengan 3 sudut yang sama.
+  2. Hasilnya 60° tiap sudut.
+  3. Pilih opsi D.
 
 ---
 
@@ -600,6 +816,12 @@ D. 3
 - **C. 2** — SALAH. Tidak ada segitiga umum dengan 2 sumbu simetri saja.
 - **D. 3** — BENAR. Setiap garis dari titik sudut ke titik tengah sisi di hadapannya adalah sumbu simetri.
 
+- **Konsep kunci:** Segitiga sama sisi memiliki 3 sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Ingat tiap garis dari sudut ke titik tengah sisi di hadapannya adalah sumbu simetri.
+  2. Ada 3 sudut, jadi ada 3 sumbu simetri.
+  3. Pilih opsi D.
+
 ---
 
 **38.** Banyak diagonal pada segi enam adalah...
@@ -615,6 +837,12 @@ D. 9
 - **B. 7** — SALAH. Salah hitung.
 - **C. 8** — SALAH. Salah hitung.
 - **D. 9** — BENAR. 6 × 3 ÷ 2 = 9 diagonal.
+
+- **Konsep kunci:** Banyak diagonal segi-n dihitung dengan rumus n(n − 3)/2.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 6: 6(6−3)/2.
+  2. Hitung: 6×3/2 = 9.
+  3. Pilih opsi D.
 
 ---
 
@@ -632,6 +860,12 @@ D. Siku-siku
 - **C. Sama sisi** — BENAR. Ketiga sisinya 5 cm.
 - **D. Siku-siku** — SALAH. Itu klasifikasi sudut. Untuk siku-siku ada sudut 90°.
 
+- **Konsep kunci:** Segitiga dengan ketiga sisi sama panjang disebut segitiga sama sisi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan ketiga sisi: 5, 5, 5 cm (semua sama).
+  2. Ingat sama sisi lebih spesifik daripada sama kaki.
+  3. Pilih opsi C.
+
 ---
 
 **40.** Segiempat berikut yang memiliki diagonal sama panjang adalah...
@@ -647,6 +881,12 @@ D. Persegi panjang
 - **B. Belah ketupat** — SALAH. Diagonal belah ketupat tidak sama panjang.
 - **C. Jajar genjang** — SALAH. Diagonal jajar genjang umumnya tidak sama panjang.
 - **D. Persegi panjang** — BENAR. Diagonal persegi panjang sama panjang dan saling membagi dua sama besar.
+
+- **Konsep kunci:** Persegi panjang memiliki diagonal yang sama panjang.
+- **Langkah Penyelesaian:**
+  1. Bandingkan sifat diagonal tiap bangun di opsi.
+  2. Hanya persegi panjang (dan persegi) yang diagonalnya sama panjang.
+  3. Pilih opsi D.
 
 ---
 
@@ -664,6 +904,12 @@ D. Diameter
 - **C. Pusat** — SALAH. Lingkaran punya pusat.
 - **D. Diameter** — SALAH. Lingkaran punya diameter.
 
+- **Konsep kunci:** Lingkaran hanya memiliki kurva lengkung, tidak ada sisi lurus.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi apakah dimiliki lingkaran.
+  2. Lingkaran punya jari-jari, pusat, dan diameter, tapi tidak punya sisi lurus.
+  3. Pilih opsi A.
+
 ---
 
 **42.** Pada segitiga siku-siku, jumlah dua sudut selain sudut siku-sikunya adalah...
@@ -679,6 +925,12 @@ D. 180°
 - **B. 90°** — BENAR. Dua sudut yang tersisa harus berjumlah 90°.
 - **C. 120°** — SALAH. Tidak konsisten dengan total 180°.
 - **D. 180°** — SALAH. Itu total seluruh sudut, bukan dua sudut tersisa.
+
+- **Konsep kunci:** Jumlah sudut dalam segitiga adalah 180°.
+- **Langkah Penyelesaian:**
+  1. Kurangkan sudut siku-siku dari total: 180° − 90°.
+  2. Hasilnya 90° untuk dua sudut sisanya.
+  3. Pilih opsi B.
 
 ---
 
@@ -696,6 +948,12 @@ D. Layang-layang
 - **C. Belah ketupat** — SALAH. Belah ketupat keempat sisinya sama, bukan "2 pasang berdekatan saja".
 - **D. Layang-layang** — BENAR. Ciri layang-layang: dua pasang sisi berdekatan sama panjang.
 
+- **Konsep kunci:** Layang-layang memiliki 2 pasang sisi berdekatan yang sama panjang.
+- **Langkah Penyelesaian:**
+  1. Bandingkan letak sisi sama pada tiap bangun (berhadapan atau berdekatan).
+  2. Layang-layang punya sisi sama yang berdekatan, bukan berhadapan.
+  3. Pilih opsi D.
+
 ---
 
 **44.** Bila sudut suatu segitiga adalah 50° dan 50°, segitiga itu adalah...
@@ -711,6 +969,12 @@ D. Tumpul
 - **B. Sama sisi** — SALAH. Sama sisi sudutnya 60° semua. Di sini sudut ke-3 = 80° (bukan 60°).
 - **C. Sama kaki** — BENAR. Dua sudut alas yang sama menunjukkan dua kaki yang sama.
 - **D. Tumpul** — SALAH. Sudut maksimum 80° (kurang dari 90°), jadi segitiga lancip.
+
+- **Konsep kunci:** Dua sudut sama besar pada segitiga menandakan dua sisi di hadapannya juga sama panjang (segitiga sama kaki).
+- **Langkah Penyelesaian:**
+  1. Hitung sudut ketiga: 180° − (50° + 50°) = 80°.
+  2. Karena ada 2 sudut sama, segitiga adalah sama kaki.
+  3. Pilih opsi C.
 
 ---
 
@@ -728,6 +992,12 @@ D. Garis singgung lingkaran
 - **C. Bagian lengkungan lingkaran** — SALAH. Itu busur.
 - **D. Garis singgung lingkaran** — SALAH. Garis singgung menyentuh lingkaran di satu titik saja.
 
+- **Konsep kunci:** Tali busur adalah ruas garis yang kedua ujungnya berada di lingkaran.
+- **Langkah Penyelesaian:**
+  1. Bedakan tali busur dengan jari-jari, busur, dan garis singgung.
+  2. Cocokkan definisi dengan opsi.
+  3. Pilih opsi B.
+
 ---
 
 **46.** Banyak diagonal pada segi lima adalah...
@@ -743,6 +1013,12 @@ D. 10
 - **B. 5** — BENAR. Setiap titik sudut terhubung ke 2 titik lain (selain dirinya dan tetangganya).
 - **C. 6** — SALAH. Salah hitung.
 - **D. 10** — SALAH. Itu bila lupa dibagi 2.
+
+- **Konsep kunci:** Banyak diagonal segi-n = n(n − 3)/2.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 5: 5(5−3)/2.
+  2. Hitung: 5×2/2 = 5.
+  3. Pilih opsi B.
 
 ---
 
@@ -760,6 +1036,12 @@ D. Lancip
 - **C. Sembarang** — SALAH. Sembarang ketiga sisi berbeda.
 - **D. Lancip** — SALAH. Itu klasifikasi sudut, bukan sisi.
 
+- **Konsep kunci:** Segitiga dengan tepat 2 sisi sama panjang disebut segitiga sama kaki.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi sama kaki (2 sisi sama, disebut kaki).
+  2. Bedakan dengan sama sisi (3 sisi sama).
+  3. Pilih opsi B.
+
 ---
 
 **48.** Trapesium sama kaki memiliki sumbu simetri sebanyak...
@@ -775,6 +1057,12 @@ D. 4
 - **B. 1** — BENAR. Garis yang tegak lurus terhadap kedua sisi sejajar di titik tengahnya adalah sumbu simetri tunggal.
 - **C. 2** — SALAH. Itu belah ketupat/persegi panjang.
 - **D. 4** — SALAH. Itu persegi.
+
+- **Konsep kunci:** Trapesium sama kaki memiliki 1 sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Bayangkan garis tegak lurus di tengah sisi sejajar sebagai sumbu lipat.
+  2. Hanya ada 1 garis seperti itu.
+  3. Pilih opsi B.
 
 ---
 
@@ -792,6 +1080,12 @@ D. Keempat sudutnya siku-siku
 - **C. Dua pasang sisi sama panjang** — BENAR. Sifat persegi panjang.
 - **D. Keempat sudutnya siku-siku** — BENAR. Sifat persegi panjang.
 
+- **Konsep kunci:** Sifat "4 sisi sama panjang" adalah ciri persegi, bukan persegi panjang secara umum.
+- **Langkah Penyelesaian:**
+  1. Cek tiap opsi apakah selalu berlaku untuk persegi panjang.
+  2. Persegi panjang hanya punya 2 pasang sisi sama, bukan 4 sisi sama semua.
+  3. Pilih opsi A.
+
 ---
 
 **50.** Heksagon beraturan memiliki sudut dalam masing-masing...
@@ -807,6 +1101,12 @@ D. 120°
 - **B. 90°** — SALAH. Itu sudut persegi.
 - **C. 108°** — SALAH. Itu sudut pentagon beraturan (540°/5).
 - **D. 120°** — BENAR. 720° ÷ 6 = 120°.
+
+- **Konsep kunci:** Sudut dalam segi banyak beraturan = jumlah sudut ÷ banyak sisi.
+- **Langkah Penyelesaian:**
+  1. Hitung jumlah sudut heksagon: (6−2)×180° = 720°.
+  2. Bagi dengan 6 sisi: 720° ÷ 6.
+  3. Hasilnya 120° (opsi D).
 
 ---
 
@@ -828,6 +1128,12 @@ D. Sembarang
 - **C. Siku-siku** — SALAH. Tidak ada sudut 90°.
 - **D. Sembarang** — SALAH. Sembarang adalah klasifikasi berdasarkan sisi, bukan sudut.
 
+- **Konsep kunci:** Segitiga lancip memiliki semua sudut kurang dari 90°.
+- **Langkah Penyelesaian:**
+  1. Cek ketiga sudut: 35°, 65°, 80°, semuanya < 90°.
+  2. Pastikan jumlahnya 180° (35+65+80=180 ✓).
+  3. Pilih opsi A.
+
 ---
 
 **52.** Pada belah ketupat ABCD dengan sudut A = 70°, besar sudut B adalah...
@@ -843,6 +1149,12 @@ D. 110°
 - **B. 70°** — SALAH. Itu sudut yang berhadapan dengan A (sudut C), bukan B.
 - **C. 90°** — SALAH. Tidak berhubungan dengan sudut A = 70°.
 - **D. 110°** — BENAR. Sudut B = 180 − 70 = 110°.
+
+- **Konsep kunci:** Pada belah ketupat, sudut yang berdekatan saling berpelurus (jumlahnya 180°).
+- **Langkah Penyelesaian:**
+  1. Ingat sudut A dan B berdekatan pada belah ketupat.
+  2. Hitung: 180° − 70° = 110°.
+  3. Pilih opsi D.
 
 ---
 
@@ -860,6 +1172,12 @@ D. 10
 - **C. 8** — SALAH. Salah hitung.
 - **D. 10** — SALAH. Salah konsep.
 
+- **Konsep kunci:** Dari satu titik sudut segi-n, dapat dibentuk (n − 2) segitiga.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 5: (5 − 2).
+  2. Hasilnya 3 segitiga.
+  3. Pilih opsi A.
+
 ---
 
 **54.** Sebuah trapesium siku-siku memiliki...
@@ -875,6 +1193,12 @@ D. Tidak punya sudut siku-siku
 - **B. 4 sudut siku-siku** — SALAH. Itu persegi/persegi panjang.
 - **C. Semua sudutnya sama** — SALAH. Trapesium tidak punya sifat ini.
 - **D. Tidak punya sudut siku-siku** — SALAH. Justru ciri khasnya punya sudut siku-siku.
+
+- **Konsep kunci:** Trapesium siku-siku memiliki tepat 2 sudut 90° pada sisi tegaknya.
+- **Langkah Penyelesaian:**
+  1. Bayangkan bentuk trapesium siku-siku.
+  2. Identifikasi 2 sudut berdekatan pada sisi tegak yang besarnya 90°.
+  3. Pilih opsi A.
 
 ---
 
@@ -892,6 +1216,12 @@ D. 12
 - **C. 10** — BENAR. Sudut dekagon = 144°.
 - **D. 12** — SALAH. Sudut dodekagon = 150°.
 
+- **Konsep kunci:** Sudut dalam segi-n beraturan = (n−2)×180°/n.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: (n−2)×180/n = 144.
+  2. Selesaikan: 180n − 360 = 144n → 36n = 360 → n = 10.
+  3. Pilih opsi C.
+
 ---
 
 **56.** Pada lingkaran berpusat O, AB adalah diameter dan C titik pada lingkaran. Jika sudut BAC = 25°, maka sudut ACB = ...
@@ -907,6 +1237,12 @@ D. 90°
 - **B. 65°** — SALAH. Itu sudut ABC (= 180 − 90 − 25), bukan ACB.
 - **C. 75°** — SALAH. Tidak ada hitungan yang menghasilkan ini.
 - **D. 90°** — BENAR. Karena AB adalah diameter, segitiga ABC siku-siku di C (Teorema Thales).
+
+- **Konsep kunci:** Sudut keliling yang menghadap diameter selalu 90° (Teorema Thales).
+- **Langkah Penyelesaian:**
+  1. Ingat AB adalah diameter dan C terletak di lingkaran.
+  2. Sudut ACB pasti 90° menurut Teorema Thales.
+  3. Pilih opsi D.
 
 ---
 
@@ -924,6 +1260,12 @@ D. 145°
 - **C. 110°** — BENAR. 180 − 70 = 110°.
 - **D. 145°** — SALAH. Itu 180 − 35 (lupa kalikan 2 untuk dua sudut alas).
 
+- **Konsep kunci:** Pada segitiga sama kaki, sudut puncak = 180° dikurangi dua kali sudut alas.
+- **Langkah Penyelesaian:**
+  1. Kalikan sudut alas dengan 2: 2 × 35° = 70°.
+  2. Kurangkan dari 180°: 180° − 70° = 110°.
+  3. Pilih opsi C.
+
 ---
 
 **58.** Bangun datar yang memiliki sudut dalam 108° tiap sudutnya adalah segi banyak beraturan dengan banyak sisi...
@@ -939,6 +1281,12 @@ D. 5
 - **B. 4** — SALAH. Sudut 90°.
 - **C. 6** — SALAH. Sudut 120°.
 - **D. 5** — BENAR. Pentagon beraturan: 540°/5 = 108°.
+
+- **Konsep kunci:** Sudut dalam segi-n beraturan = (n−2)×180°/n.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: (n−2)×180/n = 108.
+  2. Selesaikan: 180n − 360 = 108n → 72n = 360 → n = 5.
+  3. Pilih opsi D.
 
 ---
 
@@ -956,6 +1304,12 @@ D. 65°, 115°, 180°
 - **C. 90°, 90°, 115°** — SALAH. 90° bukan sifat jajar genjang umum.
 - **D. 65°, 115°, 180°** — SALAH. Tidak ada sudut 180° pada jajar genjang.
 
+- **Konsep kunci:** Pada jajar genjang, sudut berhadapan sama besar dan sudut berdekatan berjumlah 180°.
+- **Langkah Penyelesaian:**
+  1. Hitung sudut berdekatan: 180° − 65° = 115°.
+  2. Sudut berhadapan dengan 65° juga 65°, dan dengan 115° juga 115°.
+  3. Pilih opsi B (115°, 65°, 115°).
+
 ---
 
 **60.** Sebuah persegi diputar 90° pada pusatnya. Bentuk akhirnya...
@@ -971,6 +1325,12 @@ D. Menjadi belah ketupat
 - **B. Sama dengan semula** — BENAR. Persegi punya simetri putar tingkat 4 (90°, 180°, 270°, 360° semua menempati posisi semula).
 - **C. Menjadi persegi panjang** — SALAH. Putaran tidak mengubah jenis bangun.
 - **D. Menjadi belah ketupat** — SALAH. Putaran tidak mengubah jenis bangun.
+
+- **Konsep kunci:** Persegi memiliki simetri putar tingkat 4, sehingga tampak sama setelah diputar 90°.
+- **Langkah Penyelesaian:**
+  1. Ingat sifat simetri putar persegi.
+  2. Putaran 90° adalah salah satu posisi simetrisnya.
+  3. Pilih opsi B.
 
 ---
 
@@ -988,6 +1348,12 @@ D. 220°
 - **C. 200°** — SALAH. Salah hitung.
 - **D. 220°** — BENAR. 360 − 140 = 220°.
 
+- **Konsep kunci:** Jumlah seluruh sudut segiempat adalah 360°.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sudut yang diketahui: 60° + 80° = 140°.
+  2. Kurangkan dari 360°: 360° − 140° = 220°.
+  3. Pilih opsi D.
+
 ---
 
 **62.** Bila segitiga ABC sama kaki dengan AB = AC dan sudut A = 90°, maka segitiga itu adalah...
@@ -1003,6 +1369,12 @@ D. Tumpul
 - **B. Sama sisi** — SALAH. Sama sisi sudutnya 60°, bukan 90°.
 - **C. Sama kaki saja** — SALAH. Klasifikasi ini kurang lengkap; sudut 90° menambah info.
 - **D. Tumpul** — SALAH. Sudut maksimum di sini 90°, bukan lebih dari 90°.
+
+- **Konsep kunci:** Segitiga bisa memiliki lebih dari satu klasifikasi sekaligus (berdasarkan sisi dan sudut).
+- **Langkah Penyelesaian:**
+  1. Cek sisi: AB = AC → sama kaki.
+  2. Cek sudut: sudut A = 90° → siku-siku.
+  3. Gabungkan keduanya, pilih opsi A.
 
 ---
 
@@ -1020,6 +1392,12 @@ D. 8 segitiga siku-siku
 - **C. 6 segitiga sama sisi** — BENAR. Setiap segitiga terbentuk antara pusat dan satu sisi heksagon, dengan ketiga sisinya sama (= jari-jari).
 - **D. 8 segitiga siku-siku** — SALAH. Salah jumlah dan jenis.
 
+- **Konsep kunci:** Heksagon beraturan dapat dibagi menjadi 6 segitiga sama sisi kongruen dari titik pusatnya.
+- **Langkah Penyelesaian:**
+  1. Bayangkan menarik garis dari pusat ke tiap sudut heksagon.
+  2. Terbentuk 6 segitiga dengan sisi = jari-jari, sehingga sama sisi.
+  3. Pilih opsi C.
+
 ---
 
 **64.** Sebuah segi-n beraturan memiliki sudut luar tiap sudut 30°. Maka n = ...
@@ -1035,6 +1413,12 @@ D. 12
 - **B. 8** — SALAH. Sudut luar = 45°.
 - **C. 10** — SALAH. Sudut luar = 36°.
 - **D. 12** — BENAR. 360/12 = 30°.
+
+- **Konsep kunci:** Sudut luar segi-n beraturan = 360°/n.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: 360/n = 30.
+  2. Selesaikan: n = 360/30 = 12.
+  3. Pilih opsi D.
 
 ---
 
@@ -1052,6 +1436,12 @@ D. 90° dan 130°
 - **C. 80° dan 120°** — SALAH. Jumlah 200° ≠ 180°.
 - **D. 90° dan 130°** — SALAH. Jumlah 220° ≠ 180°.
 
+- **Konsep kunci:** Sudut yang berdekatan pada jajar genjang berjumlah 180°.
+- **Langkah Penyelesaian:**
+  1. Misalkan sudut pertama x dan kedua x+40.
+  2. Selesaikan: x + (x+40) = 180 → 2x = 140 → x = 70.
+  3. Sudutnya 70° dan 110° (opsi B).
+
 ---
 
 **66.** Sebuah lingkaran memiliki dua jari-jari OA dan OB membentuk sudut 72°. Berapa juring kongruen yang dapat membagi lingkaran tersebut?
@@ -1067,6 +1457,12 @@ D. 8
 - **B. 5** — BENAR. 360 ÷ 72 = 5 juring kongruen.
 - **C. 6** — SALAH. Kalau sudut 60°.
 - **D. 8** — SALAH. Kalau sudut 45°.
+
+- **Konsep kunci:** Sudut pusat penuh lingkaran adalah 360° dan dapat dibagi menjadi juring-juring kongruen.
+- **Langkah Penyelesaian:**
+  1. Bagi 360° dengan sudut tiap juring: 360° ÷ 72°.
+  2. Hasilnya 5 juring.
+  3. Pilih opsi B.
 
 ---
 
@@ -1084,6 +1480,12 @@ D. 100°
 - **C. 80°** — BENAR. 4 × 20° = 80°.
 - **D. 100°** — SALAH. Lebih dari 180/2, salah skala.
 
+- **Konsep kunci:** Jumlah sudut segitiga 180° dapat dibagi sesuai perbandingan yang diberikan.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian perbandingan: 2+3+4 = 9.
+  2. Cari nilai 1 bagian: 180° ÷ 9 = 20°.
+  3. Sudut terbesar = 4 × 20° = 80° (opsi C).
+
 ---
 
 **68.** Pernyataan yang BENAR tentang persegi dan belah ketupat adalah...
@@ -1099,6 +1501,12 @@ D. Belah ketupat selalu memiliki sudut siku-siku
 - **B. Belah ketupat adalah persegi panjang khusus** — SALAH. Persegi panjang sudutnya 90°, belah ketupat umum tidak.
 - **C. Tidak berhubungan** — SALAH. Persegi tergolong belah ketupat (kasus khusus).
 - **D. Belah ketupat selalu siku-siku** — SALAH. Hanya kasus khusus (persegi) yang siku-siku.
+
+- **Konsep kunci:** Persegi adalah bentuk khusus dari belah ketupat (belah ketupat dengan sudut siku-siku).
+- **Langkah Penyelesaian:**
+  1. Ingat definisi belah ketupat: 4 sisi sama panjang.
+  2. Persegi memenuhi syarat ini plus sudut 90°.
+  3. Pilih opsi A.
 
 ---
 
@@ -1116,6 +1524,12 @@ D. Luas lingkaran
 - **C. Sudut pusat yang menghadap busur** — BENAR. Panjang busur = (sudut pusat/360°) × keliling lingkaran.
 - **D. Luas lingkaran** — SALAH. Luas ≠ panjang busur.
 
+- **Konsep kunci:** Panjang busur sebanding dengan besar sudut pusat yang menghadapnya.
+- **Langkah Penyelesaian:**
+  1. Ingat rumus panjang busur = (sudut pusat/360°) × keliling lingkaran.
+  2. Semakin besar sudut pusat, semakin panjang busurnya.
+  3. Pilih opsi C.
+
 ---
 
 **70.** Pada belah ketupat dengan diagonal 6 cm dan 8 cm, panjang sisinya adalah...
@@ -1131,6 +1545,12 @@ D. 10 cm
 - **B. 5 cm** — BENAR. Sisi belah ketupat = √(3² + 4²) = 5 cm.
 - **C. 7 cm** — SALAH. Mungkin siswa menambah 3 + 4 = 7, salah konsep Pythagoras.
 - **D. 10 cm** — SALAH. Bukan hasil hitungan.
+
+- **Konsep kunci:** Diagonal belah ketupat saling tegak lurus dan membagi dua sama panjang, sehingga sisi dicari dengan Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Bagi dua tiap diagonal: 6/2=3 dan 8/2=4.
+  2. Terapkan Pythagoras: √(3²+4²) = √25.
+  3. Hasilnya 5 cm (opsi B).
 
 ---
 
@@ -1148,6 +1568,12 @@ D. Sekitar 144°
 - **C. Sekitar 135°** — SALAH. Itu sudut oktagon.
 - **D. Sekitar 144°** — SALAH. Itu sudut dekagon.
 
+- **Konsep kunci:** Sudut dalam segi-n beraturan = (n−2)×180°/n.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 7: (7−2)×180/7.
+  2. Hitung: 900/7 ≈ 128,57°.
+  3. Pilih opsi B.
+
 ---
 
 **72.** Sebuah trapesium memiliki sisi sejajar 10 cm dan 16 cm dengan tinggi 4 cm. Luasnya adalah...
@@ -1163,6 +1589,12 @@ D. 52 cm²
 - **B. 40 cm²** — SALAH. Mungkin 10 × 4 saja.
 - **C. 104 cm²** — SALAH. Lupa membagi 2.
 - **D. 52 cm²** — BENAR. (10+16)/2 × 4 = 13 × 4 = 52.
+
+- **Konsep kunci:** Luas trapesium = jumlah sisi sejajar × tinggi ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan sisi sejajar: 10+16=26 cm.
+  2. Kalikan dengan tinggi lalu bagi 2: 26×4÷2.
+  3. Hasilnya 52 cm² (opsi D).
 
 ---
 
@@ -1180,6 +1612,12 @@ D. 80°
 - **C. 20°** — SALAH. Itu nilai x, bukan sudut B.
 - **D. 80°** — SALAH. Itu sudut C (4x).
 
+- **Konsep kunci:** Jumlah sudut dalam segitiga adalah 180°, bisa dinyatakan dalam bentuk aljabar sederhana.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan: 2x+3x+4x = 9x = 180° → x = 20°.
+  2. Hitung sudut B = 3x.
+  3. Hasilnya 3×20° = 60° (opsi A).
+
 ---
 
 **74.** Sebuah segiempat memiliki diagonal yang saling tegak lurus, tetapi hanya satu diagonal yang membagi diagonal lainnya menjadi 2 bagian sama panjang. Bangun itu adalah...
@@ -1195,6 +1633,12 @@ D. Jajar genjang
 - **B. Belah ketupat** — SALAH. Pada belah ketupat, kedua diagonal saling membagi dua sama panjang.
 - **C. Layang-layang** — BENAR. Diagonal tegak lurus, tetapi hanya diagonal sumbu simetri yang membagi diagonal lainnya menjadi 2 sama panjang.
 - **D. Jajar genjang** — SALAH. Diagonal jajar genjang tidak saling tegak lurus.
+
+- **Konsep kunci:** Layang-layang memiliki diagonal tegak lurus, tetapi hanya satu diagonal yang membagi diagonal lain sama panjang.
+- **Langkah Penyelesaian:**
+  1. Bandingkan sifat diagonal tiap bangun di opsi.
+  2. Hanya layang-layang yang cocok dengan "1 diagonal saja yang membagi sama".
+  3. Pilih opsi C.
 
 ---
 
@@ -1212,6 +1656,12 @@ D. 4
 - **C. 6** — SALAH. Bingung dengan banyak sisi.
 - **D. 4** — BENAR. (6 − 2) = 4 segitiga.
 
+- **Konsep kunci:** Dari satu titik sudut segi-n, terbentuk (n − 2) segitiga.
+- **Langkah Penyelesaian:**
+  1. Masukkan n = 6: (6 − 2).
+  2. Hasilnya 4 segitiga.
+  3. Pilih opsi D.
+
 ---
 
 **76.** Pada segi banyak beraturan, semakin banyak sisinya, sudut dalam tiap sudutnya...
@@ -1227,6 +1677,12 @@ D. Berkurang menuju 60°
 - **B. Tetap konstan 90°** — SALAH. Hanya persegi yang 90°.
 - **C. Semakin besar mendekati 180°** — BENAR. Misalnya: segi-3 = 60°, segi-4 = 90°, segi-6 = 120°, segi-12 = 150°, segi-100 ≈ 176,4°.
 - **D. Berkurang menuju 60°** — SALAH. 60° adalah sudut segitiga sama sisi (bukan limit).
+
+- **Konsep kunci:** Sudut dalam segi banyak beraturan mendekati 180° saat jumlah sisinya makin banyak.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus sudut dalam = 180° − 360°/n.
+  2. Perhatikan saat n membesar, 360°/n mengecil mendekati 0.
+  3. Sudut mendekati 180° (opsi C).
 
 ---
 
@@ -1244,6 +1700,12 @@ D. 50 cm
 - **C. 36 cm** — SALAH. Mungkin 14 + 22 (lupa jari-jari kedua).
 - **D. 50 cm** — BENAR. 14 + 14 + 22 = 50 cm.
 
+- **Konsep kunci:** Keliling juring = panjang busur + 2 × jari-jari.
+- **Langkah Penyelesaian:**
+  1. Hitung panjang busur: (90/360)×2×22/7×14 = 22 cm.
+  2. Tambahkan dua jari-jari: 22+14+14.
+  3. Hasilnya 50 cm (opsi D).
+
 ---
 
 **78.** Pada belah ketupat ABCD, diagonal AC = 12 cm dan BD = 16 cm. Luasnya...
@@ -1259,6 +1721,12 @@ D. 192 cm²
 - **B. 48 cm²** — SALAH. Mungkin (12 × 16) / 4 (salah rumus).
 - **C. 28 cm²** — SALAH. Itu jumlah diagonal (12+16).
 - **D. 192 cm²** — SALAH. Lupa membagi 2.
+
+- **Konsep kunci:** Luas belah ketupat = (diagonal1 × diagonal2) ÷ 2.
+- **Langkah Penyelesaian:**
+  1. Kalikan kedua diagonal: 12×16 = 192.
+  2. Bagi dengan 2.
+  3. Hasilnya 96 cm² (opsi A).
 
 ---
 
@@ -1276,6 +1744,12 @@ D. 240 cm²
 - **C. 120 cm²** — BENAR. 15 × 8 = 120.
 - **D. 240 cm²** — SALAH. 2 × (alas × tinggi), salah faktor 2.
 
+- **Konsep kunci:** Luas jajar genjang = alas × tinggi.
+- **Langkah Penyelesaian:**
+  1. Kalikan alas dengan tinggi: 15×8.
+  2. Hasilnya 120 cm².
+  3. Pilih opsi C.
+
 ---
 
 **80.** Pada segitiga sama kaki dengan dua sudut sama = 50°, berdasarkan sudut segitiga ini termasuk...
@@ -1291,6 +1765,12 @@ D. Sembarang
 - **B. Siku-siku** — SALAH. Tidak ada sudut 90°.
 - **C. Tumpul** — SALAH. Tidak ada sudut > 90°.
 - **D. Sembarang** — SALAH. Itu klasifikasi sisi, bukan sudut.
+
+- **Konsep kunci:** Segitiga tergolong lancip jika semua sudutnya kurang dari 90°.
+- **Langkah Penyelesaian:**
+  1. Hitung sudut puncak: 180° − (50°+50°) = 80°.
+  2. Cek semua sudut (50°, 50°, 80°) kurang dari 90°.
+  3. Pilih opsi A.
 
 ---
 
@@ -1312,6 +1792,12 @@ D. 12
 - **C. 8** — SALAH. 8×5/2 = 20 diagonal.
 - **D. 12** — SALAH. 12×9/2 = 54 diagonal.
 
+- **Konsep kunci:** Banyak diagonal segi-n dihitung dengan n(n−3)/2.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: n(n−3)/2 = 35 → n(n−3) = 70.
+  2. Coba nilai n: n=10 memberi 10×7=70 ✓.
+  3. Pilih opsi A.
+
 ---
 
 **82.** Sebuah segi-n beraturan, sudut dalamnya 4 kali sudut luarnya. Maka n = ...
@@ -1327,6 +1813,12 @@ D. 12
 - **B. 8** — SALAH. Rasio 3:1.
 - **C. 10** — BENAR. Rasio 4:1.
 - **D. 12** — SALAH. Rasio 5:1.
+
+- **Konsep kunci:** Sudut dalam dan sudut luar segi-n beraturan berjumlah 180°.
+- **Langkah Penyelesaian:**
+  1. Misalkan sudut luar = L, sudut dalam = 4L.
+  2. Selesaikan: 4L+L = 180 → L = 36°.
+  3. Cari n: 360/n = 36 → n = 10 (opsi C).
 
 ---
 
@@ -1344,6 +1836,12 @@ D. 180°
 - **C. 120°** — BENAR. Dari A ke C = 2 sektor = 120°.
 - **D. 180°** — SALAH. Itu A ke D (3 sektor = setengah lingkaran).
 
+- **Konsep kunci:** Sudut pusat antar titik-titik segi-n beraturan adalah kelipatan dari 360°/n.
+- **Langkah Penyelesaian:**
+  1. Hitung sudut pusat tiap sektor heksagon: 360°/6 = 60°.
+  2. Dari A ke C melewati 2 sektor.
+  3. Hasilnya 2×60° = 120° (opsi C).
+
 ---
 
 **84.** Pada segitiga ABC sama sisi, titik D adalah titik tengah BC. Besar sudut DAB adalah...
@@ -1359,6 +1857,12 @@ D. 60°
 - **B. 30°** — BENAR. 60°/2 = 30°.
 - **C. 40°** — SALAH. Salah hitung.
 - **D. 60°** — SALAH. Itu sudut A penuh, belum dibagi.
+
+- **Konsep kunci:** Pada segitiga sama sisi, garis dari sudut ke titik tengah sisi hadapan membagi sudut itu menjadi dua sama besar.
+- **Langkah Penyelesaian:**
+  1. Ingat sudut A pada segitiga sama sisi = 60°.
+  2. Garis AD membagi sudut A menjadi dua.
+  3. Hasilnya 60°÷2 = 30° (opsi B).
 
 ---
 
@@ -1376,6 +1880,12 @@ D. 150°
 - **C. 105°** — BENAR. 180 − 75 = 105°.
 - **D. 150°** — SALAH. Itu mungkin 2 × 75 (salah operasi).
 
+- **Konsep kunci:** Pada trapesium sama kaki, sudut alas dan sudut atas pada sisi yang sama saling berpelurus.
+- **Langkah Penyelesaian:**
+  1. Ingat sudut alas dan sudut puncak berjumlah 180°.
+  2. Kurangkan: 180° − 75°.
+  3. Hasilnya 105° (opsi C).
+
 ---
 
 **86.** Sebuah segitiga memiliki sisi 5, 12, 13. Segitiga ini berdasarkan sudut termasuk...
@@ -1391,6 +1901,12 @@ D. Sama kaki
 - **B. Siku-siku** — BENAR. 5² + 12² = 13².
 - **C. Tumpul** — SALAH. Tumpul syaratnya a² + b² < c².
 - **D. Sama kaki** — SALAH. Itu klasifikasi sisi, dan 3 sisinya berbeda.
+
+- **Konsep kunci:** Segitiga siku-siku memenuhi teorema Pythagoras: a² + b² = c².
+- **Langkah Penyelesaian:**
+  1. Kuadratkan sisi terpendek: 5²+12² = 25+144 = 169.
+  2. Bandingkan dengan sisi terpanjang: 13² = 169.
+  3. Karena sama, segitiga siku-siku (opsi B).
 
 ---
 
@@ -1408,6 +1924,12 @@ D. 70°
 - **C. 105°** — SALAH. 3 × 35, salah rumus.
 - **D. 70°** — BENAR. 2 × 35 = 70°.
 
+- **Konsep kunci:** Sudut pusat = 2 × sudut keliling yang menghadap busur yang sama.
+- **Langkah Penyelesaian:**
+  1. Kalikan sudut keliling dengan 2: 2×35°.
+  2. Hasilnya 70°.
+  3. Pilih opsi D.
+
 ---
 
 **88.** Banyak diagonal pada segi-12 (dodekagon) adalah...
@@ -1423,6 +1945,12 @@ D. 66
 - **B. 48** — SALAH. Salah hitung.
 - **C. 54** — BENAR. 12 × 9 / 2 = 54.
 - **D. 66** — SALAH. Itu kombinasi 12 dari 2 (C(12,2)=66), bukan diagonal.
+
+- **Konsep kunci:** Banyak diagonal segi-n = n(n−3)/2.
+- **Langkah Penyelesaian:**
+  1. Masukkan n=12: 12×(12−3)/2.
+  2. Hitung: 12×9/2 = 54.
+  3. Pilih opsi C.
 
 ---
 
@@ -1440,6 +1968,12 @@ D. 2n
 - **C. n** — BENAR. Segi-3 → 3 sumbu, segi-4 → 4 sumbu, segi-6 → 6 sumbu, dst.
 - **D. 2n** — SALAH. Itu jumlah berlebih.
 
+- **Konsep kunci:** Segi-n beraturan memiliki tepat n sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Ingat contoh: segitiga sama sisi (n=3) punya 3 sumbu, persegi (n=4) punya 4 sumbu.
+  2. Pola ini berlaku untuk semua segi-n beraturan.
+  3. Pilih opsi C.
+
 ---
 
 **90.** Sebuah lingkaran memiliki tali busur AB yang panjangnya sama dengan jari-jari. Sudut pusat AOB adalah...
@@ -1455,6 +1989,12 @@ D. 90°
 - **B. 45°** — SALAH. Bukan sudut sama sisi.
 - **C. 30°** — SALAH. Tidak konsisten dengan segitiga sama sisi.
 - **D. 90°** — SALAH. 90° hanya jika AB = jari-jari × √2.
+
+- **Konsep kunci:** Jika tali busur sama panjang dengan jari-jari, segitiga yang terbentuk dengan pusat adalah sama sisi.
+- **Langkah Penyelesaian:**
+  1. Bandingkan AB, OA, OB — semuanya sama dengan jari-jari.
+  2. Karena ketiga sisi sama, segitiga AOB sama sisi.
+  3. Semua sudutnya 60° (opsi A).
 
 ---
 
@@ -1472,6 +2012,12 @@ D. 70°
 - **C. 60°** — BENAR. Di segitiga BAH siku-siku: 180 − 90 − 30 = 60°.
 - **D. 70°** — SALAH. Itu sudut C, bukan BAH.
 
+- **Konsep kunci:** Garis tinggi membentuk sudut 90° dengan alas, sehingga berlaku jumlah sudut segitiga 180° pada segitiga kecil yang terbentuk.
+- **Langkah Penyelesaian:**
+  1. Tinjau segitiga BAH yang siku-siku di H.
+  2. Kurangkan: 180° − 90° − 30°.
+  3. Hasilnya 60° (opsi C).
+
 ---
 
 **92.** Sebuah segitiga ABC sama kaki dengan AB = AC. AD adalah garis bagi sudut A dengan D di BC. Pernyataan yang TIDAK benar adalah...
@@ -1487,6 +2033,12 @@ D. AD lebih panjang dari AB
 - **B. BD = DC** — BENAR. BUKAN jawaban.
 - **C. AD adalah sumbu simetri** — BENAR. BUKAN jawaban.
 - **D. AD lebih panjang dari AB** — SALAH (jadi INI jawabannya). AD adalah tinggi (kaki tegak segitiga ABD siku-siku), selalu lebih pendek dari sisi miring AB.
+
+- **Konsep kunci:** Pada segitiga sama kaki, garis bagi sudut puncak sekaligus menjadi garis tinggi, median, dan sumbu simetri.
+- **Langkah Penyelesaian:**
+  1. Cek tiap pernyataan pada opsi terhadap sifat garis bagi segitiga sama kaki.
+  2. AD adalah sisi tegak (kaki) segitiga siku-siku ABD, jadi selalu lebih pendek dari sisi miring AB.
+  3. Pilih opsi D sebagai pernyataan yang salah.
 
 ---
 
@@ -1504,6 +2056,12 @@ D. 15 cm
 - **C. 14 cm** — SALAH. Bukan hasil yang konsisten.
 - **D. 15 cm** — SALAH. Bukan hasil hitungan.
 
+- **Konsep kunci:** Jarak dari pusat lingkaran ke tali busur dapat dicari dengan teorema Pythagoras menggunakan setengah panjang tali busur dan jari-jari.
+- **Langkah Penyelesaian:**
+  1. Misalkan jarak ke AB = a dan ke CD = b, dengan b − a = 7.
+  2. Gunakan r²=a²+12²=b²+5² untuk mendapat b²−a²=119, sehingga b=12, a=5.
+  3. Hitung r=√(5²+12²)=13 cm (opsi B).
+
 ---
 
 **94.** Bila pada segi-n beraturan jumlah sudut dalamnya 1440°, maka n = ...
@@ -1519,6 +2077,12 @@ D. 14
 - **B. 10** — BENAR. (10−2) × 180 = 1440°.
 - **C. 12** — SALAH. (12−2) × 180 = 1800°.
 - **D. 14** — SALAH. (14−2) × 180 = 2160°.
+
+- **Konsep kunci:** Jumlah sudut dalam segi-n beraturan = (n−2)×180°.
+- **Langkah Penyelesaian:**
+  1. Susun persamaan: (n−2)×180 = 1440.
+  2. Selesaikan: n−2 = 8 → n = 10.
+  3. Pilih opsi B.
 
 ---
 
@@ -1536,6 +2100,12 @@ D. 25,5 cm
 - **C. 18 cm** — SALAH. Itu 2 × sisi (salah rumus).
 - **D. 25,5 cm** — SALAH. Lebih dari diagonal.
 
+- **Konsep kunci:** Diagonal persegi dihitung dengan sisi × √2.
+- **Langkah Penyelesaian:**
+  1. Cari panjang sisi: keliling ÷ 4 = 36÷4 = 9 cm.
+  2. Kalikan sisi dengan √2: 9×1,414.
+  3. Hasilnya ≈12,7 cm (opsi B).
+
 ---
 
 **96.** Pada segitiga ABC dengan sudut A = 90°, AB = 9, AC = 12. Panjang sisi BC adalah...
@@ -1551,6 +2121,12 @@ D. 21
 - **B. 13** — SALAH. Itu tripel 5-12-13, tetapi di sini AB = 9.
 - **C. 15** — BENAR. √(81+144) = √225 = 15.
 - **D. 21** — SALAH. Itu 9 + 12 (salah operasi).
+
+- **Konsep kunci:** Pada segitiga siku-siku, sisi miring dicari dengan teorema Pythagoras.
+- **Langkah Penyelesaian:**
+  1. Kuadratkan kedua sisi siku-siku: 9²+12² = 81+144 = 225.
+  2. Akarkan hasilnya: √225.
+  3. Hasilnya 15 (opsi C).
 
 ---
 
@@ -1568,6 +2144,12 @@ D. 5√3 cm
 - **C. 10 cm** — SALAH. Itu 2 × sisi atau diagonal panjang heksagon.
 - **D. 5√3 cm** — SALAH. Itu apotema × 2 atau hubungan lain.
 
+- **Konsep kunci:** Pada heksagon beraturan, jari-jari lingkaran luar sama dengan panjang sisinya.
+- **Langkah Penyelesaian:**
+  1. Ingat heksagon beraturan terdiri dari 6 segitiga sama sisi.
+  2. Sisi segitiga = jari-jari = sisi heksagon.
+  3. Pilih opsi A (5 cm).
+
 ---
 
 **98.** Sebuah lingkaran berjari-jari 14 cm. Luas juring dengan sudut pusat 60° adalah... (π = 22/7)
@@ -1583,6 +2165,12 @@ D. 308 cm²
 - **B. 102,7 cm²** — BENAR. (1/6) × 616 ≈ 102,67 cm².
 - **C. 154 cm²** — SALAH. Itu luas juring 90° (1/4 × 616).
 - **D. 308 cm²** — SALAH. Itu setengah lingkaran.
+
+- **Konsep kunci:** Luas juring = (sudut pusat/360°) × luas lingkaran penuh.
+- **Langkah Penyelesaian:**
+  1. Hitung luas lingkaran penuh: π×r² = 22/7×14² = 616 cm².
+  2. Kalikan dengan pecahan sudut: (60/360)×616.
+  3. Hasilnya ≈102,7 cm² (opsi B).
 
 ---
 
@@ -1600,6 +2188,12 @@ D. 60 cm
 - **C. 52 cm** — BENAR. 4 × 13 = 52 cm.
 - **D. 60 cm** — SALAH. Itu mungkin perkalian salah.
 
+- **Konsep kunci:** Sisi belah ketupat dicari dari setengah diagonal menggunakan teorema Pythagoras, lalu keliling = 4 × sisi.
+- **Langkah Penyelesaian:**
+  1. Bagi dua diagonal: 24/2=12 dan 10/2=5.
+  2. Cari sisi: √(12²+5²) = √169 = 13 cm.
+  3. Kalikan dengan 4: 4×13 = 52 cm (opsi C).
+
 ---
 
 **100.** Pada segi banyak beraturan, jika sudut dalam dan sudut luar memiliki rasio 7:2, maka jumlah sisinya adalah...
@@ -1615,6 +2209,12 @@ D. 10
 - **B. 8** — SALAH. Rasio 3:1 (bukan 7:2).
 - **C. 9** — BENAR. Sudut luar 40°, dalam 140°, rasio 140:40 = 7:2 ✓.
 - **D. 10** — SALAH. Rasio 4:1.
+
+- **Konsep kunci:** Sudut dalam dan sudut luar segi-n beraturan berjumlah 180° dan dapat dibagi sesuai rasio.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian rasio: 7+2 = 9 bagian.
+  2. Cari nilai 1 bagian: 180°÷9 = 20°, sudut luar = 2×20° = 40°.
+  3. Cari n: 360°÷40° = 9 (opsi C).
 
 ---
 

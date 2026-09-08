@@ -152,6 +152,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 4/6. Salah baca: mengira n(A) = 4 (angka 4 itu sendiri). Padahal n(A) menghitung BANYAK sisi yang bernilai 4, yaitu 1.
 - **D** — 6/4. Membalik pembilang & penyebut. Peluang tidak mungkin > 1.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(A) = 1 (hanya satu sisi bernilai 4), n(S) = 6 (sisi dadu 1–6).
+  2. P(4) = 1/6.
+
 ---
 
 **2.** Sebuah koin dilempar satu kali. Berapa peluang muncul sisi Gambar?
@@ -167,6 +172,12 @@ Yuk mulai latihan 100 soal!
 - **B** — 1/4. Mengira ada 4 kemungkinan (mungkin tertukar dengan 2 koin). Untuk 1 koin hanya 2 sisi.
 - **C** — 2. Membalik: 2/1 = 2. Peluang tidak pernah lebih dari 1.
 - **D** — 0. Mengira mustahil. Padahal Gambar adalah salah satu sisi yang pasti mungkin keluar.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Koin punya 2 sisi: Angka (A) dan Gambar (G).
+  2. n(G) = 1, n(S) = 2.
+  3. P(G) = 1/2.
 
 ---
 
@@ -184,6 +195,12 @@ Yuk mulai latihan 100 soal!
 - **C** — **BENAR.** Total bola = 5 + 3 = 8. n(merah) = 5. P(merah) = 5/8.
 - **D** — 3/5. Pembilang & penyebut keduanya salah (ambil 3 putih dan 5 merah). Bukan rumus peluang.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total bola = 5 + 3 = 8.
+  2. n(merah) = 5.
+  3. P(merah) = 5/8.
+
 ---
 
 **4.** Sebuah dadu dilempar. Peluang muncul angka genap adalah …
@@ -199,6 +216,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 1/3. Mungkin asumsi 2/6 = 1/3 (salah hitung anggota genap, dikira 2).
 - **C** — 2/6. Sama, hanya menghitung 2 angka genap. Lupa 6 juga genap.
 - **D** — **BENAR.** Genap = {2, 4, 6}, n(A) = 3. P(genap) = 3/6 = 1/2.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Genap = {2, 4, 6}, n(A) = 3.
+  2. P(genap) = 3/6 = 1/2.
 
 ---
 
@@ -216,6 +238,12 @@ Yuk mulai latihan 100 soal!
 - **C** — 4/20. Salah baca, mengambil jumlah merah sebagai pembilang.
 - **D** — 10/20. Mengambil jumlah hijau, bukan kuning. Salah baca soal.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 4 + 6 + 10 = 20.
+  2. n(kuning) = 6.
+  3. P(kuning) = 6/20 = 3/10.
+
 ---
 
 **6.** Peluang munculnya mata dadu ganjil pada satu kali pelemparan dadu adalah …
@@ -231,6 +259,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 1/3. Mungkin menghitung hanya 2 angka ganjil (lupa salah satu).
 - **C** — 2/3. Mungkin menghitung 4 angka ganjil (salah klasifikasi).
 - **D** — 1/6. Mengira "ganjil" sebagai 1 hasil. Padahal ada 3 angka ganjil.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ganjil = {1, 3, 5}, n(A) = 3.
+  2. P(ganjil) = 3/6 = 1/2.
 
 ---
 
@@ -248,6 +281,11 @@ Yuk mulai latihan 100 soal!
 - **C** — **BENAR.** Bilangan prima pada dadu = {2, 3, 5}, n(A) = 3. P(prima) = 3/6 = 1/2.
 - **D** — 2/3. Mengira ada 4 angka prima (mungkin memasukkan 1, padahal 1 bukan prima).
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Bilangan prima pada dadu = {2, 3, 5}, n(A) = 3.
+  2. P(prima) = 3/6 = 1/2.
+
 ---
 
 **8.** Dari 1 set kartu remi (52 kartu) diambil satu kartu secara acak. Peluang terambil kartu berwarna merah adalah …
@@ -263,6 +301,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 13/52. Mengira merah = 1 jenis kartu (13 kartu). Padahal 2 jenis.
 - **C** — 26/13. Pembilang & penyebut tertukar. Peluang tidak > 1.
 - **D** — **BENAR.** Kartu merah = ♥ + ♦ = 13 + 13 = 26. P(merah) = 26/52 = 1/2.
+
+- **Konsep kunci:** Peluang pada satu set kartu remi dihitung dari banyak kartu yang sesuai dibagi total 52 kartu.
+- **Langkah Penyelesaian:**
+  1. Kartu merah = ♥ + ♦ = 13 + 13 = 26.
+  2. P(merah) = 26/52 = 1/2.
 
 ---
 
@@ -280,6 +323,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 12 kali. Mengira 60/5 = 12 (membagi jumlah lemparan dengan angka yang ditanya). Bukan rumus peluang.
 - **D** — 60 kali. Mengira semua lemparan menghasilkan angka 5. Mustahil.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(5) = 1/6.
+  2. Fh = 1/6 × 60 = 10 kali.
+
 ---
 
 **10.** Dua koin dilempar bersamaan. Peluang muncul kedua sisi Angka adalah …
@@ -295,6 +343,12 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** Ruang sampel 2 koin = {AA, AG, GA, GG}, n(S) = 4. n(AA) = 1. P(AA) = 1/4.
 - **C** — 2/4. Menghitung Angka dua kali (di koin 1 dan koin 2). Tapi yang dihitung adalah hasil AA, bukan Angka manapun.
 - **D** — 1. Tidak masuk akal, peluang 1 berarti pasti AA. Padahal banyak kombinasi.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ruang sampel 2 koin = {AA, AG, GA, GG}, n(S) = 4.
+  2. n(AA) = 1.
+  3. P(AA) = 1/4.
 
 ---
 
@@ -312,6 +366,12 @@ Yuk mulai latihan 100 soal!
 - **C** — **BENAR.** Total = 7 + 3 = 10. n(mint) = 3. P(mint) = 3/10.
 - **D** — 10/3. Membalik pembilang & penyebut. Peluang tidak > 1.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 7 + 3 = 10.
+  2. n(mint) = 3.
+  3. P(mint) = 3/10.
+
 ---
 
 **12.** Sebuah dadu dilempar. Peluang muncul angka lebih dari 4 adalah …
@@ -327,6 +387,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 4/6. Salah baca: menghitung "kurang dari sama dengan 4" = {1,2,3,4}.
 - **C** — 1/2. Mengira lebih dari 4 = setengah (3 angka). Padahal hanya 2.
 - **D** — **BENAR.** Lebih dari 4 = {5, 6}, n(A) = 2. P = 2/6 = 1/3.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Lebih dari 4 = {5, 6}, n(A) = 2.
+  2. P = 2/6 = 1/3.
 
 ---
 
@@ -344,6 +409,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 100 kali. Mengira semua lemparan Angka. Mustahil.
 - **D** — 1 kali. Salah rumus, mungkin 100/100.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(Angka) = 1/2.
+  2. Fh = 1/2 × 100 = 50 kali.
+
 ---
 
 **14.** Dalam keranjang ada 12 apel, 8 jeruk, dan 5 pir. Peluang terambil sebuah apel adalah …
@@ -359,6 +429,12 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** Total = 12 + 8 + 5 = 25. n(apel) = 12. P(apel) = 12/25.
 - **C** — 5/25. Salah baca, pakai jumlah pir (5).
 - **D** — 8/25. Salah baca, pakai jumlah jeruk (8).
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 12 + 8 + 5 = 25.
+  2. n(apel) = 12.
+  3. P(apel) = 12/25.
 
 ---
 
@@ -376,6 +452,11 @@ Yuk mulai latihan 100 soal!
 - **C** — **BENAR.** P(genap) = 1/2. Fh = 1/2 × 30 = 15 kali.
 - **D** — 30 kali. Mengira semua lemparan genap. Mustahil.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(genap) = 1/2.
+  2. Fh = 1/2 × 30 = 15 kali.
+
 ---
 
 **16.** Dari kantong berisi 4 bola merah, 5 bola biru, dan 6 bola kuning, sebuah bola diambil. Peluang terambil bola biru adalah …
@@ -391,6 +472,12 @@ Yuk mulai latihan 100 soal!
 - **B** — 5/6. Lupa menambah merah, total dihitung 6 saja. Salah total.
 - **C** — 6/15. Salah baca, pakai jumlah kuning (6).
 - **D** — **BENAR.** Total = 4 + 5 + 6 = 15. n(biru) = 5. P(biru) = 5/15 = 1/3.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 4 + 5 + 6 = 15.
+  2. n(biru) = 5.
+  3. P(biru) = 5/15 = 1/3.
 
 ---
 
@@ -408,6 +495,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 2/6. Belum disederhanakan, tapi soal seringkali minta bentuk paling sederhana. Selain itu opsi A lebih ringkas.
 - **D** — 1/6. Mengira hanya 1 angka kurang dari 3. Lupa angka 1.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kurang dari 3 = {1, 2}, n(A) = 2.
+  2. P = 2/6 = 1/3.
+
 ---
 
 **18.** Dalam sebuah kelas ada 18 siswa laki-laki dan 12 siswa perempuan. Seorang siswa dipilih secara acak menjadi ketua kelas. Peluang terpilih siswa perempuan adalah …
@@ -423,6 +515,12 @@ Yuk mulai latihan 100 soal!
 - **B** — 12/18. Lupa total = 30 (18+12). Pakai jumlah laki-laki sebagai penyebut.
 - **C** — **BENAR.** Total siswa = 18 + 12 = 30. n(perempuan) = 12. P(perempuan) = 12/30 = 2/5.
 - **D** — 2/3. Salah hitung: mungkin 12/18 = 2/3 (pakai pembagi salah).
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total siswa = 18 + 12 = 30.
+  2. n(perempuan) = 12.
+  3. P(perempuan) = 12/30 = 2/5.
 
 ---
 
@@ -440,6 +538,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 7/6. Mengira karena 7 lebih besar dari 6 maka peluangnya 7/6. Peluang tidak pernah > 1.
 - **D** — 1/6. Mengira 7 sama saja seperti angka dadu biasa. Salah, 7 di luar ruang sampel.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Dadu hanya bernilai 1–6, jadi angka 7 mustahil keluar.
+  2. n(A) = 0, P = 0/6 = 0.
+
 ---
 
 **20.** Sebuah dadu dilempar. Peluang muncul angka faktor dari 6 adalah …
@@ -455,6 +558,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 1/2. Menghitung 3 faktor (lupa 1 atau 6).
 - **C** — 1/3. Menghitung 2 faktor saja.
 - **D** — **BENAR.** Faktor 6 = {1, 2, 3, 6}, n(A) = 4. P = 4/6 = 2/3.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Faktor 6 = {1, 2, 3, 6}, n(A) = 4.
+  2. P = 4/6 = 2/3.
 
 ---
 
@@ -472,6 +580,11 @@ Yuk mulai latihan 100 soal!
 - **C** — 1/2. Mengira ganjil & genap sama banyak. Padahal 1–9 ada 5 ganjil & 4 genap.
 - **D** — 9/5. Membalik pembilang & penyebut. > 1, mustahil.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ganjil dari 1–9 = {1, 3, 5, 7, 9}, n(A) = 5.
+  2. P = 5/9.
+
 ---
 
 **22.** Sebuah koin dilempar 80 kali. Frekuensi harapan muncul sisi Gambar adalah …
@@ -487,6 +600,11 @@ Yuk mulai latihan 100 soal!
 - **B** — **BENAR.** P(Gambar) = 1/2. Fh = 1/2 × 80 = 40 kali.
 - **C** — 80 kali. Mengira semua lemparan Gambar. Mustahil.
 - **D** — 1 kali. Salah rumus, mungkin 80/80.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(Gambar) = 1/2.
+  2. Fh = 1/2 × 80 = 40 kali.
 
 ---
 
@@ -504,6 +622,12 @@ Yuk mulai latihan 100 soal!
 - **C** — 25/10. Membalik pembilang & penyebut. > 1, mustahil.
 - **D** — **BENAR.** Total = 10 + 15 = 25. n(merah) = 10. P(merah) = 10/25 = 2/5.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 10 + 15 = 25.
+  2. n(merah) = 10.
+  3. P(merah) = 10/25 = 2/5.
+
 ---
 
 **24.** Peluang muncul mata dadu kelipatan 3 pada pelemparan satu dadu adalah …
@@ -519,6 +643,11 @@ Yuk mulai latihan 100 soal!
 - **B** — 2/6. Sudah benar nilai pembilang (2 angka: 3 dan 6), tapi opsi C lebih sederhana = 1/3.
 - **C** — **BENAR.** Kelipatan 3 pada dadu = {3, 6}, n(A) = 2. P = 2/6 = 1/3.
 - **D** — 1/6. Mengira hanya 1 kelipatan 3 (lupa salah satu).
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 3 pada dadu = {3, 6}, n(A) = 2.
+  2. P = 2/6 = 1/3.
 
 ---
 
@@ -554,6 +683,11 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **C** — 7/25. Salah hitung faktor.
 - **D** — **BENAR.** Faktor 24 = {1, 2, 3, 4, 6, 8, 12, 24}, n(A) = 8. P = 8/25.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Faktor 24 = {1, 2, 3, 4, 6, 8, 12, 24}, n(A) = 8.
+  2. P = 8/25.
+
 ---
 
 **26.** Sebuah dadu dilempar 36 kali. Frekuensi harapan muncul mata dadu prima adalah …
@@ -569,6 +703,12 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **B** — 12 kali. Pakai P = 1/3 (hanya 2 prima). Salah hitung.
 - **C** — 24 kali. Pakai P = 2/3, salah klasifikasi prima.
 - **D** — **BENAR.** Prima pada dadu = {2, 3, 5}. P = 3/6 = 1/2. Fh = 1/2 × 36 = 18 kali.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Prima pada dadu = {2, 3, 5}.
+  2. P = 3/6 = 1/2.
+  3. Fh = 1/2 × 36 = 18 kali.
 
 ---
 
@@ -586,6 +726,12 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **C** — 4/15. Hanya pakai kuning. Lupa merah.
 - **D** — 6/15. Hanya pakai merah. Lupa kuning.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 15.
+  2. Selain hijau = merah + kuning = 6 + 4 = 10.
+  3. P = 10/15 = 2/3.
+
 ---
 
 **28.** Sebuah dadu dilempar satu kali. Peluang muncul angka 1, 2, atau 3 adalah …
@@ -601,6 +747,11 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **B** — 1/3. Salah hitung pembilang.
 - **C** — 3/3 = 1. Salah pembagi (mengira 3 angka di antara 3 angka).
 - **D** — 1. Mengira pasti terjadi. Padahal ada angka 4, 5, 6 yang juga mungkin.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(A) = 3 (angka 1, 2, 3).
+  2. P = 3/6 = 1/2.
 
 ---
 
@@ -618,6 +769,11 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **C** — **BENAR.** Ada 4 As dalam 52 kartu. P = 4/52 = 1/13.
 - **D** — 4/52. Sudah benar nilainya tapi belum disederhanakan menjadi 1/13. Opsi C lebih ringkas.
 
+- **Konsep kunci:** Peluang pada satu set kartu remi dihitung dari banyak kartu yang sesuai dibagi total 52 kartu.
+- **Langkah Penyelesaian:**
+  1. Ada 4 As dalam 52 kartu.
+  2. P = 4/52 = 1/13.
+
 ---
 
 **30.** Sebuah koin dilempar 50 kali. Frekuensi harapan muncul sisi Gambar adalah …
@@ -633,6 +789,11 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 - **B** — **BENAR.** P(Gambar) = 1/2. Fh = 1/2 × 50 = 25 kali.
 - **C** — 10 kali. Pakai P = 1/5 (salah hitung).
 - **D** — 5 kali. Pakai P = 1/10. Bukan untuk koin.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(Gambar) = 1/2.
+  2. Fh = 1/2 × 50 = 25 kali.
 
 ---
 
@@ -665,6 +826,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **C** — **BENAR.** Kelipatan 5 dari 1–20 = {5, 10, 15, 20}, n(A) = 4. P = 4/20 = 1/5.
 - **D** — 5/4. Membalik. > 1, mustahil.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 5 dari 1–20 = {5, 10, 15, 20}, n(A) = 4.
+  2. P = 4/20 = 1/5.
+
 ---
 
 **32.** Dalam keranjang ada 5 mangga, 4 jeruk, dan 11 apel. Peluang terambil sebuah mangga adalah …
@@ -680,6 +846,12 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **B** — 5/20. Nilai sama dengan 1/4, tetapi belum disederhanakan. Opsi A bentuk paling sederhana.
 - **C** — 1/5. Salah sederhanakan 5/20. 5/20 = 1/4, bukan 1/5.
 - **D** — 5/11. Lupa jeruk. Pakai jumlah apel sebagai penyebut.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 5 + 4 + 11 = 20.
+  2. n(mangga) = 5.
+  3. P = 5/20 = 1/4.
 
 ---
 
@@ -697,6 +869,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **C** — 2/6. Nilai benar (2/6), tapi opsi D bentuk lebih sederhana.
 - **D** — **BENAR.** Kuadrat sempurna pada dadu = {1, 4} (karena 1=1² dan 4=2²), n(A) = 2. P = 2/6 = 1/3.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kuadrat sempurna pada dadu = {1, 4} (karena 1=1² dan 4=2²), n(A) = 2.
+  2. P = 2/6 = 1/3.
+
 ---
 
 **34.** Sebuah dadu dilempar 24 kali. Frekuensi harapan muncul angka 6 adalah …
@@ -712,6 +889,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **B** — 6 kali. Bingung antara P dan n. Salah rumus.
 - **C** — 12 kali. Pakai P = 1/2. Salah faktor.
 - **D** — 24 kali. Mengira semua hasil 6. Mustahil.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(6) = 1/6.
+  2. Fh = 1/6 × 24 = 4 kali.
 
 ---
 
@@ -729,6 +911,12 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **C** — **BENAR.** Total = 4 + 6 + 10 = 20. n(lemon) = 10. P = 10/20 = 1/2.
 - **D** — 10/4. Membalik & lupa total. > 1, mustahil.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 4 + 6 + 10 = 20.
+  2. n(lemon) = 10.
+  3. P = 10/20 = 1/2.
+
 ---
 
 **36.** Dari kotak berisi 10 lampu, 2 di antaranya rusak. Sebuah lampu diambil. Peluang terambil lampu rusak adalah …
@@ -744,6 +932,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **B** — 1/10. Mengira hanya 1 lampu rusak.
 - **C** — 2/8. Pakai 8 (jumlah baik) sebagai penyebut. Salah, total tetap 10.
 - **D** — **BENAR.** n(rusak) = 2, n(S) = 10. P = 2/10 = 1/5.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(rusak) = 2, n(S) = 10.
+  2. P = 2/10 = 1/5.
 
 ---
 
@@ -761,6 +954,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **C** — **BENAR.** P(Angka) = 1/2. Fh = 1/2 × 30 = 15 kali.
 - **D** — 5 kali. Pakai P = 1/6 (rumus dadu).
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(Angka) = 1/2.
+  2. Fh = 1/2 × 30 = 15 kali.
+
 ---
 
 **38.** Peluang muncul mata dadu 1 atau 6 pada pelemparan satu dadu adalah …
@@ -776,6 +974,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **B** — **BENAR.** n(A) = 2 (yaitu 1 dan 6). P = 2/6 = 1/3.
 - **C** — 2/6. Nilai sama, tapi belum disederhanakan. Bentuk paling sederhana 1/3.
 - **D** — 1/6. Mengira hanya satu angka.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(A) = 2 (yaitu 1 dan 6).
+  2. P = 2/6 = 1/3.
 
 ---
 
@@ -793,6 +996,11 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **C** — 2/14. Pakai jumlah hijau, salah baca.
 - **D** — 4/8. Pakai jumlah merah sebagai penyebut. Salah total.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(biru) = 4, n(S) = 14.
+  2. P = 4/14 = 2/7.
+
 ---
 
 **40.** Peluang muncul mata dadu bukan 4 pada pelemparan satu dadu adalah …
@@ -808,6 +1016,12 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 - **B** — 4/6. Mengira "bukan 4" = "angka 4 atau 4 angka lainnya". Salah konsep.
 - **C** — **BENAR.** Bukan 4 = {1, 2, 3, 5, 6}, n(A) = 5. P = 5/6. Atau pakai komplemen: 1 − 1/6 = 5/6.
 - **D** — 1. Mengira pasti bukan 4, padahal ada peluang 1/6 muncul 4.
+
+- **Konsep kunci:** Peluang kejadian berlawanan (bukan A) dihitung dengan 1 dikurangi peluang kejadian A.
+- **Langkah Penyelesaian:**
+  1. Bukan 4 = {1, 2, 3, 5, 6}, n(A) = 5.
+  2. P = 5/6.
+  3. Atau pakai komplemen: 1 − 1/6 = 5/6.
 
 ---
 
@@ -835,6 +1049,11 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 - **C** — 20 kali. Pakai P = 1/6.
 - **D** — **BENAR.** Kurang dari 6 = {1,2,3,4,5}, P = 5/6. Fh = 5/6 × 120 = 100 kali.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Kurang dari 6 = {1,2,3,4,5}, P = 5/6.
+  2. Fh = 5/6 × 120 = 100 kali.
+
 ---
 
 **42.** Dari kantong berisi 25 bola bernomor 1 sampai 25, sebuah bola diambil. Peluang terambil bola bernomor faktor 12 adalah …
@@ -850,6 +1069,11 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 - **B** — **BENAR.** Faktor 12 = {1, 2, 3, 4, 6, 12}, n(A) = 6. P = 6/25.
 - **C** — 4/25. Hanya 4 faktor (lupa 1 atau 6 atau 12).
 - **D** — 5/25 = 1/5. Hanya 5 faktor.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Faktor 12 = {1, 2, 3, 4, 6, 12}, n(A) = 6.
+  2. P = 6/25.
 
 ---
 
@@ -867,6 +1091,12 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 - **C** — **BENAR.** Bukan ganjil = genap = {2, 4, 6}, n(A) = 3. P = 3/6 = 1/2. Atau pakai komplemen 1 − 1/2 = 1/2.
 - **D** — 2/3. Mengira 4 angka bukan ganjil.
 
+- **Konsep kunci:** Peluang kejadian berlawanan (bukan A) dihitung dengan 1 dikurangi peluang kejadian A.
+- **Langkah Penyelesaian:**
+  1. Bukan ganjil = genap = {2, 4, 6}, n(A) = 3.
+  2. P = 3/6 = 1/2.
+  3. Atau pakai komplemen 1 − 1/2 = 1/2.
+
 ---
 
 **44.** Dalam kotak ada 18 buah dengan rincian 9 mangga, 6 jeruk, dan 3 pir. Peluang terambil pir adalah …
@@ -883,6 +1113,11 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 - **C** — 9/18. Pakai mangga.
 - **D** — **BENAR.** n(pir) = 3, n(S) = 18. P = 3/18 = 1/6.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(pir) = 3, n(S) = 18.
+  2. P = 3/18 = 1/6.
+
 ---
 
 **45.** Sebuah dadu dilempar 18 kali. Frekuensi harapan muncul angka kelipatan 3 adalah …
@@ -898,6 +1133,12 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 - **B** — 3 kali. Pakai P = 1/6.
 - **C** — 9 kali. Pakai P = 1/2.
 - **D** — 12 kali. Pakai P = 2/3.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 3 = {3, 6}.
+  2. P = 2/6 = 1/3.
+  3. Fh = 1/3 × 18 = 6 kali.
 
 ---
 
@@ -925,6 +1166,11 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **C** — 1/2. Mengira 3 angka.
 - **D** — 1. Mengira semua angka kuadrat sempurna.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kuadrat sempurna < 5 dari sisi dadu = {1, 4}, n(A) = 2.
+  2. P = 2/6 = 1/3.
+
 ---
 
 **47.** Dalam kantong ada 7 permen rasa apel, 8 permen rasa stroberi, dan 5 permen rasa mint. Sebuah permen diambil. Peluang terambil permen rasa stroberi atau mint adalah …
@@ -940,6 +1186,12 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **B** — 8/20. Hanya pakai stroberi. Lupa mint.
 - **C** — **BENAR.** n(stroberi + mint) = 8 + 5 = 13. n(S) = 20. P = 13/20.
 - **D** — 5/20. Hanya pakai mint. Lupa stroberi.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(stroberi + mint) = 8 + 5 = 13.
+  2. n(S) = 20.
+  3. P = 13/20.
 
 ---
 
@@ -957,6 +1209,12 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **C** — 24 kali. Pakai P = 1/3.
 - **D** — 18 kali. Pakai P = 1/4. Salah hitung.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Prima pada dadu = {2, 3, 5}.
+  2. P = 3/6 = 1/2.
+  3. Fh = 1/2 × 72 = 36 kali.
+
 ---
 
 **49.** Dari 1 set kartu remi (52 kartu) diambil sebuah kartu. Peluang terambil kartu jenis sekop (♠) adalah …
@@ -973,6 +1231,11 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **C** — 1/13. Salah hitung: pakai pembagi 13 (banyak nilai kartu), bukan 52.
 - **D** — **BENAR.** Ada 13 kartu sekop dari 52 kartu. P = 13/52 = 1/4.
 
+- **Konsep kunci:** Peluang pada satu set kartu remi dihitung dari banyak kartu yang sesuai dibagi total 52 kartu.
+- **Langkah Penyelesaian:**
+  1. Ada 13 kartu sekop dari 52 kartu.
+  2. P = 13/52 = 1/4.
+
 ---
 
 **50.** Sebuah dadu dilempar 90 kali. Frekuensi harapan muncul angka genap adalah …
@@ -988,6 +1251,11 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **B** — 15 kali. Pakai P = 1/6.
 - **C** — **BENAR.** P(genap) = 1/2. Fh = 1/2 × 90 = 45 kali.
 - **D** — 60 kali. Pakai P = 2/3.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(genap) = 1/2.
+  2. Fh = 1/2 × 90 = 45 kali.
 
 ---
 
@@ -1007,6 +1275,12 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **C** — 6/20. Pakai jumlah biru, salah baca.
 - **D** — 14/20. Nilai sama (14/20 = 7/10), tapi opsi A bentuk paling sederhana.
 
+- **Konsep kunci:** Peluang kejadian berlawanan (bukan A) dihitung dengan 1 dikurangi peluang kejadian A.
+- **Langkah Penyelesaian:**
+  1. Total = 8 + 6 + 6 = 20.
+  2. Bukan biru = merah + kuning = 8 + 6 = 14.
+  3. P = 14/20 = 7/10.
+
 ---
 
 **52.** Dua buah koin dilempar bersamaan. Peluang muncul tepat satu sisi Gambar adalah …
@@ -1022,6 +1296,12 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 - **B** — **BENAR.** Ruang sampel = {AA, AG, GA, GG}, n(S) = 4. Tepat 1 Gambar = {AG, GA}, n(A) = 2. P = 2/4 = 1/2.
 - **C** — 3/4. Salah hitung, memasukkan GG (padahal GG = 2 Gambar).
 - **D** — 1/8. Mengira ruang sampel 8 (mungkin tertukar dengan 3 koin).
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ruang sampel = {AA, AG, GA, GG}, n(S) = 4.
+  2. Tepat 1 Gambar = {AG, GA}, n(A) = 2.
+  3. P = 2/4 = 1/2.
 
 ---
 
@@ -1047,6 +1327,12 @@ Mari saya buat opsi rapi.
 - **C** — **BENAR.** Kelipatan 4 dan 5 secara bersamaan = KPK(4,5) = 20. Dari 1–30, hanya 20 (karena 40 > 30). n(A) = 1. P = 1/30.
 - **D** — 7/30. Mungkin pakai kelipatan 4 ATAU 5. Soal minta keduanya.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 4 dan 5 secara bersamaan = KPK(4,5) = 20.
+  2. Dari 1–30, hanya 20 (karena 40 > 30).
+  3. n(A) = 1.
+
 ---
 
 **54.** Sebuah dadu dilempar 144 kali. Frekuensi harapan muncul mata dadu lebih dari 2 adalah …
@@ -1062,6 +1348,12 @@ Mari saya buat opsi rapi.
 - **B** — 72 kali. Pakai P = 1/2.
 - **C** — 24 kali. Pakai P = 1/6.
 - **D** — **BENAR.** Lebih dari 2 = {3,4,5,6}. P = 4/6 = 2/3. Fh = 2/3 × 144 = 96 kali.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Lebih dari 2 = {3,4,5,6}.
+  2. P = 4/6 = 2/3.
+  3. Fh = 2/3 × 144 = 96 kali.
 
 ---
 
@@ -1079,6 +1371,12 @@ Mari saya buat opsi rapi.
 - **C** — 3/15. Hanya hitung hitam. Lupa merah.
 - **D** — 7/15. Pakai biru, padahal biru TIDAK termasuk yang ditanya.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. n(merah + hitam) = 5 + 3 = 8.
+  2. n(S) = 15.
+  3. P = 8/15.
+
 ---
 
 **56.** Sebuah dadu dilempar dua kali. Peluang muncul angka 6 pada kedua lemparan adalah …
@@ -1094,6 +1392,11 @@ Mari saya buat opsi rapi.
 - **B** — 1/6. Pakai P 1 lemparan saja. Lupa kalikan untuk lemparan kedua.
 - **C** — **BENAR.** P(6 pada lemparan 1) × P(6 pada lemparan 2) = 1/6 × 1/6 = 1/36.
 - **D** — 1/12. Salah faktor, pakai 6 × 2 = 12 (campur penjumlahan & perkalian).
+
+- **Konsep kunci:** Untuk dua kejadian yang terjadi bersamaan dan saling bebas, ruang sampel gabungan dihitung lebih dulu baru dicari kejadian yang sesuai.
+- **Langkah Penyelesaian:**
+  1. P(6 pada lemparan 1) × P(6 pada lemparan 2) = 1/6 × 1/6 = 1/36.
+  2. Jadi jawaban yang benar adalah C: 1/36.
 
 ---
 
@@ -1121,6 +1424,11 @@ Tunggu, kelipatan 7 dari 1–50 = {7, 14, 21, 28, 35, 42, 49} = 7 angka. P = 7/5
 - **C** — 7/50. Salah total (mengira 50 kupon, padahal 49).
 - **D** — 7/49. Nilai sama (= 1/7), tapi opsi B bentuk paling sederhana.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 7 dari 1–49 = {7, 14, 21, 28, 35, 42, 49} = 7 angka.
+  2. P = 7/49 = 1/7.
+
 ---
 
 **58.** Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu sama dengan 7 adalah …
@@ -1147,6 +1455,12 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 - **C** — 7/36. Mengira ada 7 cara, padahal hanya 6.
 - **D** — **BENAR.** Cara dapat jumlah 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 cara. n(S) = 36. P = 6/36 = 1/6.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Cara dapat jumlah 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 cara.
+  2. n(S) = 36.
+  3. P = 6/36 = 1/6.
+
 ---
 
 **59.** Dalam kantong ada 12 bola: 4 berwarna merah, 3 berwarna kuning, 5 berwarna biru. Sebuah bola diambil, dicatat warnanya, lalu dikembalikan. Setelah 60 percobaan, frekuensi harapan bola biru adalah …
@@ -1162,6 +1476,11 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 - **B** — 20 kali. Pakai P(merah) = 4/12 = 1/3. Fh = 1/3 × 60 = 20.
 - **C** — 15 kali. Pakai P(kuning) = 3/12 = 1/4. Fh = 1/4 × 60 = 15.
 - **D** — 30 kali. Salah hitung, pakai P = 1/2 (separuh).
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. P(biru) = 5/12.
+  2. Fh = 5/12 × 60 = 300/12 = 25 kali.
 
 ---
 
@@ -1179,6 +1498,12 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 - **C** — 1/6. Hanya hitung 1 angka.
 - **D** — 2/3. Pakai gabungan ganjil ATAU prima = {1,2,3,5} = 4. Salah, soal minta keduanya (irisan).
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ganjil = {1,3,5}, prima = {2,3,5}.
+  2. Irisan = {3,5}, n(A) = 2.
+  3. P = 2/6 = 1/3.
+
 ---
 
 **61.** Dalam keranjang ada 50 buah pir. 5 di antaranya busuk. Sebuah pir diambil acak. Peluang terambil pir yang TIDAK busuk adalah …
@@ -1195,6 +1520,12 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 - **C** — 5/50. Sama, P(busuk). Salah konsep.
 - **D** — 4/5. Salah hitung. 4/5 = 40/50, padahal yang benar 45/50.
 
+- **Konsep kunci:** Peluang kejadian berlawanan (bukan A) dihitung dengan 1 dikurangi peluang kejadian A.
+- **Langkah Penyelesaian:**
+  1. Total = 50, busuk = 5, tidak busuk = 45.
+  2. P = 45/50 = 9/10.
+  3. Atau pakai komplemen: 1 − 5/50 = 1 − 1/10 = 9/10.
+
 ---
 
 **62.** Dua koin dilempar bersamaan. Peluang muncul minimal satu sisi Angka adalah …
@@ -1210,6 +1541,12 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 - **B** — 1/2. Salah hitung kombinasi.
 - **C** — **BENAR.** Ruang sampel = {AA, AG, GA, GG}. Minimal 1 Angka = {AA, AG, GA} = 3. P = 3/4. Atau komplemen: 1 − P(GG) = 1 − 1/4 = 3/4.
 - **D** — 1. Mengira pasti ada Angka. Padahal bisa muncul GG (tidak ada Angka).
+
+- **Konsep kunci:** Peluang "setidaknya satu" lebih mudah dihitung lewat komplemen: 1 dikurangi peluang kejadian itu sama sekali tidak terjadi.
+- **Langkah Penyelesaian:**
+  1. Ruang sampel = {AA, AG, GA, GG}.
+  2. Minimal 1 Angka = {AA, AG, GA} = 3.
+  3. P = 3/4.
 
 ---
 
@@ -1247,6 +1584,12 @@ Mari saya sederhanakan dan lanjut ke soal 63 langsung.
 - **C** — 2/3. Hanya P(faktor 6).
 - **D** — 1. Mengira semua sisi masuk, padahal 4 tidak.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ganjil = {1,3,5}, faktor 6 = {1,2,3,6}.
+  2. Gabungan = {1,2,3,5,6}, n = 5.
+  3. P = 5/6.
+
 ---
 
 **64.** Kantong A berisi 4 bola merah, 6 bola biru. Kantong B berisi 5 bola merah, 5 bola biru. Sebuah bola diambil dari kantong B. Peluang terambil bola merah adalah …
@@ -1262,6 +1605,11 @@ Mari saya sederhanakan dan lanjut ke soal 63 langsung.
 - **B** — 9/20. Menggabung data dua kantong (tidak tepat untuk soal ini).
 - **C** — **BENAR.** Kantong B: 5 merah dari 10 bola. P = 5/10 = 1/2.
 - **D** — 5/15. Pakai total = 15 (jumlah bola di B + A). Salah, hanya B yang relevan.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kantong B: 5 merah dari 10 bola.
+  2. P = 5/10 = 1/2.
 
 ---
 
@@ -1280,6 +1628,11 @@ Catatan: 2/36 = 1/18, tidak sama dengan 1/12. Mari saya cek opsi: A=1/36, B=2/36
 - **B** — **BENAR.** Cara dapat jumlah 11: (5,6) dan (6,5) = 2 cara. P = 2/36 = 1/18.
 - **C** — 1/12 = 3/36. Mengira ada 3 cara.
 - **D** — 3/36. Sama, mengira 3 cara. Lupa kombinasi 11 hanya 5+6.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Cara dapat jumlah 11: (5,6) dan (6,5) = 2 cara.
+  2. P = 2/36 = 1/18.
 
 ---
 
@@ -1305,6 +1658,11 @@ Tunggu, A dan D identik. Saya revisi.
 - **C** — 2 kali lebih banyak. Arah selisih salah.
 - **D** — **BENAR.** Fh = 1/6 × 180 = 30. Hasil 28 < 30, selisih 2 kali lebih sedikit.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Fh = 1/6 × 180 = 30.
+  2. Hasil 28 < 30, selisih 2 kali lebih sedikit.
+
 ---
 
 **67.** Dalam toples ada 24 permen rasa cokelat, 16 stroberi, dan 10 mint. Peluang terambil permen rasa mint adalah …
@@ -1321,6 +1679,12 @@ Tunggu, A dan D identik. Saya revisi.
 - **C** — 2/10 = 1/5. Nilai sama, tetapi salah simbol. Pakai pembagi 10 (jumlah mint), bukan 50.
 - **D** — 10/50. Nilai sama, belum disederhanakan. Bentuk paling sederhana 1/5.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total = 24+16+10 = 50.
+  2. n(mint) = 10.
+  3. P = 10/50 = 1/5.
+
 ---
 
 **68.** Dari 1 set kartu remi (52 kartu) diambil sebuah kartu. Peluang terambil kartu gambar (Jack, Queen, atau King) adalah …
@@ -1336,6 +1700,12 @@ Tunggu, A dan D identik. Saya revisi.
 - **B** — **BENAR.** J, Q, K masing-masing ada 4 (satu per jenis). Total = 3 × 4 = 12. P = 12/52 = 3/13.
 - **C** — 1/4. Salah hitung.
 - **D** — 12/13. Membalik. > 1 kemungkinan salah.
+
+- **Konsep kunci:** Peluang pada satu set kartu remi dihitung dari banyak kartu yang sesuai dibagi total 52 kartu.
+- **Langkah Penyelesaian:**
+  1. J, Q, K masing-masing ada 4 (satu per jenis).
+  2. Total = 3 × 4 = 12.
+  3. P = 12/52 = 3/13.
 
 ---
 
@@ -1363,6 +1733,12 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **C** — 1/2. Salah hitung anggota.
 - **D** — **BENAR.** Selain 1 dan 6 = {2,3,4,5} = 4 angka. P = 4/6 = 2/3. Atau komplemen 1 − 2/6 = 4/6 = 2/3.
 
+- **Konsep kunci:** Peluang kejadian berlawanan (bukan A) dihitung dengan 1 dikurangi peluang kejadian A.
+- **Langkah Penyelesaian:**
+  1. Selain 1 dan 6 = {2,3,4,5} = 4 angka.
+  2. P = 4/6 = 2/3.
+  3. Atau komplemen 1 − 2/6 = 4/6 = 2/3.
+
 ---
 
 **70.** Dalam keranjang ada 40 telur, 4 di antaranya retak. Sebuah telur diambil. Peluang terambil telur RETAK adalah …
@@ -1378,6 +1754,11 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **B** — 1/4. Pakai 4 (jumlah retak) sebagai pembilang dan penyebut salah.
 - **C** — **BENAR.** P(retak) = 4/40 = 1/10.
 - **D** — 4/40. Nilai sama (= 1/10), tapi opsi C bentuk paling sederhana.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. P(retak) = 4/40 = 1/10.
+  2. Jadi jawaban yang benar adalah C: 1/10.
 
 ---
 
@@ -1395,6 +1776,12 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **C** — 150 kali. Pakai P = 1/2.
 - **D** — 250 kali. Pakai P = 5/6.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Ganjil = {1,3,5}, prima = {2,3,5}.
+  2. Gabungan = {1,2,3,5}, n = 4.
+  3. P = 4/6 = 2/3.
+
 ---
 
 **72.** Dalam toples ada 18 kelereng dengan warna merah, biru, dan hijau. Peluang terambil merah = 1/3, biru = 1/2. Berapa banyak kelereng hijau?
@@ -1410,6 +1797,11 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **B** — **BENAR.** P(hijau) = 1 − 1/3 − 1/2 = 6/18 − 6/18 − 9/18 — hitung ulang: 1 = 6/6, 1/3 = 2/6, 1/2 = 3/6, jadi P(hijau) = 6/6 − 2/6 − 3/6 = 1/6. n(hijau) = 1/6 × 18 = 3 kelereng.
 - **C** — 9. Pakai jumlah biru (1/2 × 18 = 9). Salah baca.
 - **D** — 12. Salah hitung penjumlahan peluang.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. P(hijau) = 1 − 1/3 − 1/2 = 6/18 − 6/18 − 9/18 — hitung ulang: 1 = 6/6, 1/3 = 2/6, 1/2 = 3/6, jadi P(hijau) = 6/6 − 2/6 − 3/6 = 1/6.
+  2. n(hijau) = 1/6 × 18 = 3 kelereng.
 
 ---
 
@@ -1427,6 +1819,12 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **C** — **BENAR.** Kejadian "AG" dari ruang sampel {AA,AG,GA,GG}, n(A) = 1. P = 1/4. Atau pakai 1/2 × 1/2 = 1/4.
 - **D** — 3/4. Justru komplemen. Salah.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kejadian "AG" dari ruang sampel {AA,AG,GA,GG}, n(A) = 1.
+  2. P = 1/4.
+  3. Atau pakai 1/2 × 1/2 = 1/4.
+
 ---
 
 **74.** Sebuah dadu dilempar 360 kali. Frekuensi harapan muncul angka kurang dari 5 adalah …
@@ -1442,6 +1840,12 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **B** — 120 kali. Pakai P = 1/3.
 - **C** — 180 kali. Pakai P = 1/2.
 - **D** — **BENAR.** Kurang dari 5 = {1,2,3,4}. P = 4/6 = 2/3. Fh = 2/3 × 360 = 240 kali.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Kurang dari 5 = {1,2,3,4}.
+  2. P = 4/6 = 2/3.
+  3. Fh = 2/3 × 360 = 240 kali.
 
 ---
 
@@ -1459,6 +1863,12 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **C** — 2/5 = 4/10. Pakai jumlah Rp1000 sebagai pembilang.
 - **D** — 1/2. Mengira sama banyak. Padahal beda.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total koin = 10.
+  2. n(Rp500) = 6.
+  3. P = 6/10 = 3/5.
+
 ---
 
 **76.** Sebuah dadu dilempar. Peluang muncul angka kelipatan 2 ATAU angka 3 adalah …
@@ -1474,6 +1884,11 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 - **B** — 1/3. Salah hitung.
 - **C** — **BENAR.** Kelipatan 2 = {2,4,6}, dengan 3 jadi gabungan = {2,3,4,6}, n = 4. P = 4/6 = 2/3.
 - **D** — 5/6. Memasukkan angka 1 (salah), atau 5.
+
+- **Konsep kunci:** Peluang gabungan dua kejadian (A atau B) dihitung dengan menjumlahkan peluang masing-masing lalu mengurangi irisannya.
+- **Langkah Penyelesaian:**
+  1. Kelipatan 2 = {2,4,6}, dengan 3 jadi gabungan = {2,3,4,6}, n = 4.
+  2. P = 4/6 = 2/3.
 
 ---
 
@@ -1511,6 +1926,12 @@ Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat s
 - **C** — 1/12. Salah penyebut.
 - **D** — 5/36. Pakai angka 5 sebagai pembilang. Salah konsep.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ruang sampel 2 dadu = 36 pasangan.
+  2. Pasangan (3,5) hanya 1.
+  3. P = 1/36.
+
 ---
 
 **78.** Dalam kantong ada 12 bola merah, 8 biru, 5 kuning. Setelah ditambah 5 bola putih, peluang terambil bola putih menjadi …
@@ -1526,6 +1947,11 @@ Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat s
 - **B** — 5/30. Nilai sama dengan 1/6, tapi opsi C bentuk paling sederhana.
 - **C** — **BENAR.** Total baru = 12 + 8 + 5 + 5 = 30. P(putih) = 5/30 = 1/6.
 - **D** — 1/5. Salah sederhanakan: 5/30 = 1/6, bukan 1/5.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total baru = 12 + 8 + 5 + 5 = 30.
+  2. P(putih) = 5/30 = 1/6.
 
 ---
 
@@ -1543,6 +1969,12 @@ Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat s
 - **C** — 80 kali. Pakai P = 1/6.
 - **D** — 320 kali. Pakai P = 2/3.
 
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 2 = {2,4,6}.
+  2. P = 3/6 = 1/2.
+  3. Fh = 1/2 × 480 = 240 kali.
+
 ---
 
 **80.** Dalam acara arisan ada 25 ibu. Nomor undian 1–25 diambil acak. Peluang terambil nomor yang merupakan bilangan prima adalah …
@@ -1558,6 +1990,11 @@ Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat s
 - **B** — **BENAR.** Bilangan prima dari 1–25 = {2, 3, 5, 7, 11, 13, 17, 19, 23} = 9 angka. P = 9/25.
 - **C** — 1/3. Salah perhitungan.
 - **D** — 10/25. Memasukkan 1 (padahal 1 bukan prima) atau salah hitung lain.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Bilangan prima dari 1–25 = {2, 3, 5, 7, 11, 13, 17, 19, 23} = 9 angka.
+  2. P = 9/25.
 
 ---
 
@@ -1587,6 +2024,11 @@ Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = 
 - **C** — 16. Salah, mengira jumlah merah+biru = pembilang.
 - **D** — **BENAR.** x/(8+x) = 1/2 → 2x = 8 + x → x = 8 bola kuning.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. x/(8+x) = 1/2 → 2x = 8 + x → x = 8 bola kuning.
+  2. Jadi jawaban yang benar adalah D: 8.
+
 ---
 
 **82.** Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu lebih dari 9 adalah …
@@ -1602,6 +2044,12 @@ Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = 
 - **B** — 1/12. Salah hitung kombinasi.
 - **C** — 5/36. Lupa satu kombinasi (mungkin tidak menghitung (5,5) atau (6,6)).
 - **D** — 1/9. Salah penyebut.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Jumlah > 9 = jumlah 10, 11, atau 12.
+  2. Jumlah 10: (4,6),(5,5),(6,4) = 3 cara.
+  3. Jumlah 11: (5,6),(6,5) = 2 cara.
 
 ---
 
@@ -1619,6 +2067,12 @@ Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = 
 - **C** — **BENAR.** Total P harus = 1. P(kuning) = 1 − 1/4 − 1/3 − 1/6. Samakan ke 12: 12/12 − 3/12 − 4/12 − 2/12 = 3/12 = 1/4.
 - **D** — 1/12. Pakai pembagi 12 langsung, salah penyederhanaan.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total P harus = 1.
+  2. P(kuning) = 1 − 1/4 − 1/3 − 1/6.
+  3. Samakan ke 12: 12/12 − 3/12 − 4/12 − 2/12 = 3/12 = 1/4.
+
 ---
 
 **84.** Sebuah dadu istimewa berbentuk dodecahedron (12 sisi) dengan angka 1–12. Peluang muncul angka kelipatan 3 adalah …
@@ -1634,6 +2088,11 @@ Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = 
 - **B** — **BENAR.** Kelipatan 3 dari 1–12 = {3, 6, 9, 12}, n = 4. P = 4/12 = 1/3.
 - **C** — 1/4. Salah sederhanakan 4/12.
 - **D** — 1/6. Salah hitung anggota.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kelipatan 3 dari 1–12 = {3, 6, 9, 12}, n = 4.
+  2. P = 4/12 = 1/3.
 
 ---
 
@@ -1661,6 +2120,11 @@ Tunggu, kuadrat dari 1–100: 1,4,9,16,25,36,49,64,81,100 = 10 angka. P = 10/100
 - **C** — 1/50. Salah hitung.
 - **D** — **BENAR.** Kuadrat sempurna dari 1–100 = {1,4,9,16,25,36,49,64,81,100} = 10 angka. P = 10/100 = 1/10.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kuadrat sempurna dari 1–100 = {1,4,9,16,25,36,49,64,81,100} = 10 angka.
+  2. P = 10/100 = 1/10.
+
 ---
 
 **86.** Dua dadu dilempar bersamaan. Peluang hasil kali kedua mata dadu sama dengan 12 adalah …
@@ -1677,6 +2141,11 @@ Tunggu, kuadrat dari 1–100: 1,4,9,16,25,36,49,64,81,100 = 10 angka. P = 10/100
 - **C** — 4/36. Nilai sama (4/36 = 1/9), tapi belum disederhanakan.
 - **D** — 1/36. Mengira hanya 1 kombinasi.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Hasil kali = 12: (2,6),(3,4),(4,3),(6,2) = 4 cara.
+  2. P = 4/36 = 1/9.
+
 ---
 
 **87.** Pada permainan ular tangga, sebuah dadu standar dilempar. Pemain menang jika muncul angka prima ATAU kelipatan 3. Peluang menang adalah …
@@ -1692,6 +2161,12 @@ Tunggu, kuadrat dari 1–100: 1,4,9,16,25,36,49,64,81,100 = 10 angka. P = 10/100
 - **B** — 1/3. Hanya P(kelipatan 3) = {3,6} = 2/6 = 1/3.
 - **C** — **BENAR.** Prima = {2,3,5}, kelipatan 3 = {3,6}. Gabungan = {2,3,5,6}, n = 4. P = 4/6 = 2/3.
 - **D** — 5/6. Memasukkan terlalu banyak angka.
+
+- **Konsep kunci:** Peluang gabungan dua kejadian (A atau B) dihitung dengan menjumlahkan peluang masing-masing lalu mengurangi irisannya.
+- **Langkah Penyelesaian:**
+  1. Prima = {2,3,5}, kelipatan 3 = {3,6}.
+  2. Gabungan = {2,3,5,6}, n = 4.
+  3. P = 4/6 = 2/3.
 
 ---
 
@@ -1722,6 +2197,12 @@ Tunggu, hasilnya 12 ≠ 18. Saya salah. Kunci yang benar adalah A (12 kali).
 - **B** — **BENAR.** Total = 15. P(B) = 8/15, P(A) = 5/15. Fh(B) = 8/15 × 90 = 48. Fh(A) = 5/15 × 90 = 30. Selisih = 48 − 30 = 18 kali.
 - **C** — 9 kali. Lupa kalikan dengan jumlah percobaan.
 - **D** — 27 kali. Salah hitung.
+
+- **Konsep kunci:** Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyak percobaan (Fh = P × n).
+- **Langkah Penyelesaian:**
+  1. Total = 15.
+  2. P(B) = 8/15, P(A) = 5/15.
+  3. Fh(B) = 8/15 × 90 = 48.
 
 ---
 
@@ -1761,6 +2242,12 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **C** — 1/2. Salah hitung.
 - **D** — **BENAR.** Kombinasi tepat 1 perempuan dari 3 anak: PLL, LPL, LLP = 3 cara. Total ruang sampel = 2³ = 8. P = 3/8.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Kombinasi tepat 1 perempuan dari 3 anak: PLL, LPL, LLP = 3 cara.
+  2. Total ruang sampel = 2³ = 8.
+  3. P = 3/8.
+
 ---
 
 **90.** Dari kantong A (5 merah, 3 biru) dan kantong B (4 merah, 6 biru), diambil 1 bola dari masing-masing. Peluang kedua bola berwarna merah adalah …
@@ -1776,6 +2263,12 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **B** — 5/13. Salah hitung kombinasi.
 - **C** — 1/2. Salah konsep, dijumlah bukan dikali.
 - **D** — 9/18 = 1/2. Menjumlah merah dan total, bukan dikali.
+
+- **Konsep kunci:** Peluang gabungan dua kejadian (A atau B) dihitung dengan menjumlahkan peluang masing-masing lalu mengurangi irisannya.
+- **Langkah Penyelesaian:**
+  1. P(merah dari A) = 5/8.
+  2. P(merah dari B) = 4/10 = 2/5.
+  3. Peluang gabungan = 5/8 × 2/5 = 10/40 = 1/4.
 
 ---
 
@@ -1793,6 +2286,11 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **C** — 9/8. Membalik. > 1, mustahil.
 - **D** — 25/40 = 5/8. Hanya pakai matematika.
 
+- **Konsep kunci:** Peluang gabungan dua kejadian (A atau B) dihitung dengan menjumlahkan peluang masing-masing lalu mengurangi irisannya.
+- **Langkah Penyelesaian:**
+  1. n(MTK ∪ IPA) = 25 + 20 − 10 = 35 (gunakan inklusi-eksklusi).
+  2. P = 35/40 = 7/8.
+
 ---
 
 **92.** Sebuah dadu dilempar sampai 6 muncul untuk pertama kali. Peluang 6 muncul tepat pada lemparan ke-3 adalah …
@@ -1808,6 +2306,11 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **B** — 1/216 = (1/6)³. Salah, ini peluang 6 muncul 3 kali berturut-turut.
 - **C** — **BENAR.** Lemparan 1 & 2 bukan 6 (P = 5/6 masing-masing), lemparan 3 = 6 (P = 1/6). Total: 5/6 × 5/6 × 1/6 = 25/216.
 - **D** — 5/36. Salah hitung, lupa salah satu faktor.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Lemparan 1 & 2 bukan 6 (P = 5/6 masing-masing), lemparan 3 = 6 (P = 1/6).
+  2. Total: 5/6 × 5/6 × 1/6 = 25/216.
 
 ---
 
@@ -1825,6 +2328,12 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **C** — 1/2. Tidak ada kaitan dengan data.
 - **D** — **BENAR.** Awal: 12 mangga + 18 jeruk = 30 buah. Diambil 6 jeruk → tersisa 12 mangga + 12 jeruk = 24 buah. P(mangga) = 12/24 = 1/2.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Awal: 12 mangga + 18 jeruk = 30 buah.
+  2. Diambil 6 jeruk → tersisa 12 mangga + 12 jeruk = 24 buah.
+  3. P(mangga) = 12/24 = 1/2.
+
 ---
 
 **94.** Tiga koin dilempar bersamaan. Peluang muncul tepat 2 sisi Angka adalah …
@@ -1840,6 +2349,12 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **B** — 1/4. Mengira hanya 2 cara.
 - **C** — 1/2. Salah hitung.
 - **D** — 1/8. Mengira hanya 1 cara.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Ruang sampel 3 koin = 2³ = 8.
+  2. Tepat 2 Angka: AAG, AGA, GAA = 3 cara.
+  3. P = 3/8.
 
 ---
 
@@ -1857,6 +2372,11 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **C** — 1/6. Pakai 1 lemparan saja, lupa 6 lemparan.
 - **D** — (1/6)⁶. Justru P(SEMUA muncul 6). Sangat kecil.
 
+- **Konsep kunci:** Peluang "setidaknya satu" lebih mudah dihitung lewat komplemen: 1 dikurangi peluang kejadian itu sama sekali tidak terjadi.
+- **Langkah Penyelesaian:**
+  1. P(setidaknya 1 muncul 6) = 1 − P(tidak muncul 6 sama sekali) = 1 − (5/6)⁶ ≈ 1 − 0,335 = 0,665.
+  2. Jadi jawaban yang benar adalah B: 1 − (5/6)⁶.
+
 ---
 
 **96.** Dalam tas ada 5 bola putih, 4 bola hitam. Diambil 2 bola sekaligus. Peluang keduanya berwarna sama adalah …
@@ -1872,6 +2392,12 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 - **B** — 1/2. Salah hitung.
 - **C** — **BENAR.** Cara ambil 2 dari 9 = 9!/(2!7!) = 36. Dua putih: C(5,2) = 10. Dua hitam: C(4,2) = 6. Total warna sama = 16. P = 16/36 = 4/9.
 - **D** — 16/36. Nilai sama dengan 4/9, tapi opsi C bentuk paling sederhana.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Cara ambil 2 dari 9 = 9!/(2!7!) = 36.
+  2. Dua putih: C(5,2) = 10.
+  3. Dua hitam: C(4,2) = 6.
 
 ---
 
@@ -1924,6 +2450,11 @@ Hmm, 20/100 = 1/5 = opsi A.
 - **B** — 7/100. Hanya hadiah kedua.
 - **C** — 11/100. Hanya hadiah ketiga.
 - **D** — **BENAR.** Total hadiah = 5 + 7 + 11 = 23 dari 100 kupon. P = 23/100.
+
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Total hadiah = 5 + 7 + 11 = 23 dari 100 kupon.
+  2. P = 23/100.
 
 ---
 
@@ -1995,6 +2526,11 @@ Jumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2) = 5 cara. P = 5/36. Kunci C.
 - **C** — **BENAR.** Jumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2) = 5 cara. P = 5/36.
 - **D** — 1/12 = 3/36. Lupa 2 kombinasi.
 
+- **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
+- **Langkah Penyelesaian:**
+  1. Jumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2) = 5 cara.
+  2. P = 5/36.
+
 ---
 
 **99.** Sebuah dadu dilempar 3 kali. Peluang munculnya angka 6 SETIDAKNYA SEKALI adalah …
@@ -2011,6 +2547,11 @@ Jumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2) = 5 cara. P = 5/36. Kunci C.
 - **C** — 1/216 = (1/6)³. Justru P(ketiga lemparan 6).
 - **D** — 125/216. Justru P(TIDAK ADA 6) — komplemen.
 
+- **Konsep kunci:** Peluang "setidaknya satu" lebih mudah dihitung lewat komplemen: 1 dikurangi peluang kejadian itu sama sekali tidak terjadi.
+- **Langkah Penyelesaian:**
+  1. P(tidak ada 6 sama sekali) = (5/6)³ = 125/216.
+  2. P(setidaknya 1 muncul 6) = 1 − 125/216 = 91/216 ≈ 0,42.
+
 ---
 
 **100.** Dalam kotak berisi 20 lampu, 4 di antaranya rusak. Diambil 2 lampu sekaligus tanpa pengembalian. Peluang KEDUA lampu yang diambil rusak adalah …
@@ -2026,6 +2567,12 @@ Jumlah 8: (2,6),(3,5),(4,4),(5,3),(6,2) = 5 cara. P = 5/36. Kunci C.
 - **B** — 1/25. Pakai 4/20 × 4/20 (dengan pengembalian). Tapi soal tanpa pengembalian.
 - **C** — **BENAR.** P(rusak pertama) = 4/20 = 1/5. Setelah 1 rusak diambil, sisa 3 rusak dari 19 lampu. P(rusak kedua) = 3/19. Total = 1/5 × 3/19 = 3/95.
 - **D** — 1/95. Salah faktor.
+
+- **Konsep kunci:** Pada pengambilan tanpa pengembalian atau sekaligus, hasil pengambilan pertama memengaruhi peluang pengambilan berikutnya.
+- **Langkah Penyelesaian:**
+  1. P(rusak pertama) = 4/20 = 1/5.
+  2. Setelah 1 rusak diambil, sisa 3 rusak dari 19 lampu.
+  3. P(rusak kedua) = 3/19.
 
 ---
 

@@ -3105,10 +3105,10 @@ D. Tidak ada bahaya
 
 - **Konsep yang diuji:** Bahaya sambungan kabel tidak proper.
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Mahal** — Salah.
-  - **B. Kontak buruk → panas → bahaya** — Benar.
-  - **C. Warna** — Salah.
-  - **D. Tidak bahaya** — Salah.
+  - **A salah:** Bahaya sambungan kabel bukan soal harga plester. Opsi ini mengecoh siswa yang mengira alasan keselamatan selalu berkaitan dengan biaya, padahal intinya adalah kekuatan sambungan listrik.
+  - **B benar:** Sambungan yang hanya dililit plester tanpa solder/konektor mudah longgar, sehingga hambatan di titik sambungan (R kontak) menjadi tinggi. Karena panas berbanding lurus dengan hambatan (P = I²R), sambungan longgar ini menghasilkan panas berlebih dan berisiko terbakar; plester juga bisa terkelupas seiring waktu sehingga sambungan makin tidak aman.
+  - **C salah:** Warna plester hanya soal tampilan/kode kabel, tidak memengaruhi kekuatan atau keamanan sambungan listrik.
+  - **D salah:** Anggapan "tidak ada bahaya" keliru karena arus listrik yang melewati sambungan longgar tetap menghasilkan panas berlebih meski terlihat aman secara kasat mata.
 - **Langkah Penyelesaian:**
   1. Sambungan kabel yang baik: solder/konektor mekanik + isolasi plester.
   2. Plester saja → kontak longgar → bahaya.

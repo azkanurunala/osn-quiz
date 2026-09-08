@@ -104,6 +104,10 @@ Pedagang sering:
 - **B** — Benar. Untung = Jual − Modal = 960.000 − 800.000 = **Rp160.000**. ✅ Konsep: untung = harga jual lebih besar dari modal.
 - **C** — Rp200.000 = 25% × 800.000. Mengira ada % untung tetap 25%.
 - **D** — Rp80.000 = 10% × 800.000. Pakai persen sembarang.
+- **Konsep kunci:** Untung dihitung dari selisih harga jual dan modal.
+- **Langkah Penyelesaian:**
+  1. Kurangkan harga jual dengan modal: 960.000 − 800.000.
+  2. Hasilnya adalah untung Rp160.000.
 
 ---
 
@@ -119,6 +123,10 @@ Pedagang sering:
 - **B** — 18% = (30.000/180.000) × 100% × 1,08 — kacau, kemungkinan dibagi penghasilan (salah penyebut).
 - **C** — Benar. Untung = 180.000 − 150.000 = 30.000. %Untung = (30.000 / 150.000) × 100% = **20%**. ✅ Persen untung selalu dari modal.
 - **D** — 25% = (30.000/120.000) salah penyebut. Atau langsung tebak 1/4.
+- **Konsep kunci:** Persen untung selalu dihitung terhadap modal, bukan harga jual.
+- **Langkah Penyelesaian:**
+  1. Cari untung dulu: 180.000 − 150.000 = 30.000.
+  2. Bagi untung dengan modal lalu kali 100%: (30.000/150.000) × 100% = 20%.
 
 ---
 
@@ -134,6 +142,10 @@ Pedagang sering:
 - **B** — Rp20.000 = 24.000 − 4.000 (mengira diskon Rp4.000 sembarang).
 - **C** — Rp6.000 = besar potongan, bukan harga bayar. Tertukar pertanyaan.
 - **D** — Rp30.000 = 24.000 + 6.000 (justru ditambah). Mengira diskon = pajak.
+- **Konsep kunci:** Diskon mengurangi harga awal sebesar persentase yang diberikan.
+- **Langkah Penyelesaian:**
+  1. Hitung besar potongan: 25% × 24.000 = 6.000.
+  2. Kurangi harga awal dengan potongan: 24.000 − 6.000 = Rp18.000.
 
 ---
 
@@ -149,6 +161,10 @@ Pedagang sering:
 - **B** — Rp50.010 = 50.000 + 10 (asal tambah 10 rupiah, tidak peduli persen).
 - **C** — Rp50.500 = 50.000 + 1% × 50.000. Salah persen (pakai 1%, bukan 10%).
 - **D** — Benar. PPN = 10% × 50.000 = 5.000. Total = 50.000 + 5.000 = **Rp55.000**. ✅ PPN selalu ditambahkan.
+- **Konsep kunci:** PPN selalu ditambahkan ke harga, bukan dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Hitung besar pajak: 10% × 50.000 = 5.000.
+  2. Tambahkan ke harga awal: 50.000 + 5.000 = Rp55.000.
 
 ---
 
@@ -164,6 +180,10 @@ Pedagang sering:
 - **B** — Rp5.000 = ambil angka 5 dengan dikali 1.000 sembarang.
 - **C** — Rp25.000 = 400.000/16, atau hitung asal 6,25%. Salah persen.
 - **D** — Rp420.000 = saldo akhir (pokok + bunga). Tertukar pertanyaan: yang ditanya bunga saja.
+- **Konsep kunci:** Bunga tunggal 1 tahun dihitung langsung dari persen bunga kali pokok.
+- **Langkah Penyelesaian:**
+  1. Kalikan persen bunga dengan pokok tabungan: 5% × 400.000.
+  2. Hasilnya bunga Rp20.000.
 
 ---
 
@@ -179,6 +199,10 @@ Pedagang sering:
 - **B** — Rp60.000 = 45.000 + 15.000 = harga untuk 4 kg saja, bukan 5 kg.
 - **C** — Rp50.000 = 45.000 + 5.000 sembarang.
 - **D** — Rp90.000 = 45.000 × 2 (mengira 2x lipat dari 3 kg jadi 6 kg). Salah baca.
+- **Konsep kunci:** Perbandingan senilai: cari harga satuan dulu, baru kalikan jumlah baru.
+- **Langkah Penyelesaian:**
+  1. Cari harga per kg: 45.000 ÷ 3 = 15.000.
+  2. Kalikan dengan 5 kg: 5 × 15.000 = Rp75.000.
 
 ---
 
@@ -194,6 +218,10 @@ Pedagang sering:
 - **B** — 40 cm = 8 m diubah ke 800 cm, lalu dibagi 20 (salah skala).
 - **C** — Benar. 8 m = 800 cm. Skala 1:200 → di peta = 800 ÷ 200 = **4 cm**. ✅
 - **D** — 16 cm = 800 ÷ 50 (salah skala 1:50). Atau 8 × 2.
+- **Konsep kunci:** Skala 1:k berarti ukuran nyata dibagi k untuk mendapat ukuran pada gambar.
+- **Langkah Penyelesaian:**
+  1. Ubah 8 meter menjadi cm: 8 m = 800 cm.
+  2. Bagi dengan skala: 800 ÷ 200 = 4 cm.
 
 ---
 
@@ -209,6 +237,10 @@ Pedagang sering:
 - **B** — Rp24.000 = potongan saja (30% × 80.000), bukan harga bayar. Tertukar pertanyaan.
 - **C** — Rp30.000 = ambil angka diskon 30 langsung sebagai jawaban rupiah.
 - **D** — Benar. Potongan = 30% × 80.000 = 24.000. Bayar = 80.000 − 24.000 = **Rp56.000**. ✅ Cara cepat: 70% × 80.000 = 56.000.
+- **Konsep kunci:** Diskon dihitung dari harga awal, lalu dikurangkan untuk mendapat harga bayar.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 30% × 80.000 = 24.000.
+  2. Harga bayar = 80.000 − 24.000 = Rp56.000 (cara cepat: 70% × 80.000).
 
 ---
 
@@ -224,6 +256,10 @@ Pedagang sering:
 - **B** — Rp48.000 = bunga setahun penuh (lupa proporsi 6 bulan ≠ 12 bulan).
 - **C** — Rp12.000 = (6/12) × (4% × 600.000). Salah persen 4%, bukan 8%.
 - **D** — Rp36.000 = (9/12) × 48.000. Salah waktu (pakai 9 bulan).
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dulu dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Cari bunga setahun penuh: 8% × 600.000 = 48.000.
+  2. Kalikan dengan (6/12) karena hanya 6 bulan: (6/12) × 48.000 = Rp24.000.
 
 ---
 
@@ -239,6 +275,10 @@ Pedagang sering:
 - **B** — Benar. Pendapatan = 50 × 14.000 = 700.000. Untung = 700.000 − 600.000 = **Rp100.000**. ✅
 - **C** — Rp700.000 = total pendapatan, bukan untung (lupa kurangi modal).
 - **D** — Rp50.000 = setengah dari 100.000 (asal bagi 2).
+- **Konsep kunci:** Untung total = total pendapatan penjualan dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Hitung pendapatan jual: 50 × 14.000 = 700.000.
+  2. Kurangi modal: 700.000 − 600.000 = Rp100.000.
 
 ---
 
@@ -254,6 +294,10 @@ Pedagang sering:
 - **B** — Rp18.000 = potongan, bukan harga bayar.
 - **C** — Rp135.000 = 120.000 + 15.000 (ditambah, salah arah).
 - **D** — Benar. Potongan = 15% × 120.000 = 18.000. Bayar = 120.000 − 18.000 = **Rp102.000**. ✅ Cek: 85% × 120.000 = 102.000.
+- **Konsep kunci:** Diskon dikurangkan dari harga awal untuk mendapat harga bayar.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 15% × 120.000 = 18.000.
+  2. Harga bayar = 120.000 − 18.000 = Rp102.000 (cek: 85% × 120.000).
 
 ---
 
@@ -269,6 +313,10 @@ Pedagang sering:
 - **B** — Rp30.000 = bagian Sari (perbandingan 1), bukan Andi.
 - **C** — Benar. Total perbandingan = 2+1 = 3 bagian. Bagian Andi = (2/3) × 90.000 = **Rp60.000**. ✅
 - **D** — Rp75.000 = sembarang penjumlahan.
+- **Konsep kunci:** Perbandingan dibagi menurut jumlah bagian masing-masing dari total bagian.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian: 2 + 1 = 3 bagian.
+  2. Bagian Andi = (2/3) × 90.000 = Rp60.000.
 
 ---
 
@@ -284,6 +332,10 @@ Pedagang sering:
 - **B** — 3 km = lupa kali 6, atau salah konversi (3.000.000 cm dianggap 3 km). Salah faktor 10.
 - **C** — 300 km = kali 100.000 dua kali. Konversi berlebihan.
 - **D** — 60 km = 6 × 10. Asal kali tanpa pikirkan skala.
+- **Konsep kunci:** Skala 1:k berarti jarak peta dikali k untuk mendapat jarak sebenarnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan jarak peta dengan skala: 6 × 500.000 = 3.000.000 cm.
+  2. Ubah ke km (1 km = 100.000 cm): 3.000.000 cm = Rp30 km.
 
 ---
 
@@ -303,6 +355,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 14**: Untuk menghindari opsi duplikat, distractor A dibetulkan menjadi Rp89.000 (pembulatan tidak tepat). Tetap pakai versi opsi sebagai berikut: A. Rp89.000; B. Rp88.800; C. Rp80.880; D. Rp80.011. Kunci tetap **B**.
+- **Konsep kunci:** PPN dihitung dari harga makanan lalu ditambahkan ke harga awal.
+- **Langkah Penyelesaian:**
+  1. Hitung PPN: 11% × 80.000 = 8.800.
+  2. Tambahkan ke harga awal: 80.000 + 8.800 = Rp88.800.
 
 ---
 
@@ -318,6 +374,10 @@ Pedagang sering:
 - **B** — Rp45.000 = 50.000 − 5.000 (langsung). Salah konsep.
 - **C** — Benar. Setelah diskon = 50.000 × 0,80 = 40.000. + PPN 10% = 40.000 × 1,10 = **Rp44.000**. ✅
 - **D** — Rp50.000 = harga awal, lupa proses.
+- **Konsep kunci:** Diskon dihitung dulu, baru PPN dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Kurangi dengan diskon: 50.000 × 0,80 = 40.000.
+  2. Tambahkan PPN dari harga setelah diskon: 40.000 × 1,10 = Rp44.000.
 
 ---
 
@@ -337,6 +397,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 16**: Ganti opsi A→Rp250.040, B→Rp254.000, C→Rp1.000.000, D→Rp260.000. Kunci tetap **D**. Mohon maaf atas duplikasi pada draft awal; versi final memakai 4 nilai berbeda. Distraktor A (Rp250.040) = tambah 4% dari 1.000 (salah satuan). B (Rp254.000) = asal tambah 4 ribu. C (Rp1.000.000) = salah operasi.
+- **Konsep kunci:** Bunga tunggal 1 tahun dijumlahkan ke pokok untuk dapat total tabungan.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga: 4% × 250.000 = 10.000.
+  2. Tambahkan ke pokok: 250.000 + 10.000 = Rp260.000.
 
 ---
 
@@ -352,6 +416,10 @@ Pedagang sering:
 - **B** — Benar. 1 lusin = 12 buah. Pendapatan = 12 × 4.000 = 48.000. Untung = 48.000 − 36.000 = **Rp12.000**. ✅
 - **C** — Rp36.000 = modal, bukan untung.
 - **D** — Rp48.000 = pendapatan kotor, lupa kurangi modal.
+- **Konsep kunci:** Untung dari jual eceran dihitung dari total pendapatan dikurangi modal grosir.
+- **Langkah Penyelesaian:**
+  1. Ubah 1 lusin menjadi satuan: 1 lusin = 12 buah.
+  2. Hitung pendapatan (12 × 4.000 = 48.000) lalu kurangi modal: 48.000 − 36.000 = Rp12.000.
 
 ---
 
@@ -371,6 +439,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 18**: A=Rp72.000; B=Rp65.000; C=Rp80.000 (benar); D=Rp85.000. Kunci tetap **C**.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi dengan (100% − diskon).
+- **Langkah Penyelesaian:**
+  1. Ubah diskon jadi persen bayar: 100% − 25% = 75%.
+  2. Bagi harga bayar dengan 75%: 60.000 ÷ 0,75 = Rp80.000.
 
 ---
 
@@ -386,6 +458,10 @@ Pedagang sering:
 - **B** — Rp25.000 = bagi rata 50/2. Salah baca rasio.
 - **C** — Rp10.000 = (2/10) × 50.000. Salah jumlahkan perbandingan (jadi 10, padahal 5).
 - **D** — Benar. Total bagian = 3+2 = 5. Bagian Sari = (2/5) × 50.000 = **Rp20.000**. ✅
+- **Konsep kunci:** Perbandingan dibagi menurut jumlah bagian masing-masing orang.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian: 3 + 2 = 5 bagian.
+  2. Bagian Sari = (2/5) × 50.000 = Rp20.000.
 
 ---
 
@@ -401,6 +477,10 @@ Pedagang sering:
 - **B** — 50 cm = 15 × 100 ÷ 30. Salah skala (pakai 1:30).
 - **C** — Benar. 15 m = 1.500 cm. Skala 1:300 → di gambar = 1.500 ÷ 300 = **5 cm**. ✅
 - **D** — 45 cm = 15 × 3. Asal kali.
+- **Konsep kunci:** Skala 1:k berarti ukuran nyata dibagi k untuk mendapat ukuran pada gambar.
+- **Langkah Penyelesaian:**
+  1. Ubah 15 meter jadi cm: 15 m = 1.500 cm.
+  2. Bagi dengan skala: 1.500 ÷ 300 = 5 cm.
 
 ---
 
@@ -416,6 +496,10 @@ Pedagang sering:
 - **B** — 33% = (1.500/4.500). Salah penyebut (pakai harga jual, bukan modal).
 - **C** — 67% = 1 − 33% = 67%. Asal saling melengkapi.
 - **D** — 25% = ambil angka kuartal asal.
+- **Konsep kunci:** Persen untung dihitung dari selisih harga jual-modal dibagi modal.
+- **Langkah Penyelesaian:**
+  1. Cari untung: 4.500 − 3.000 = 1.500.
+  2. Bagi dengan modal lalu kali 100%: (1.500/3.000) × 100% = 50%.
 
 ---
 
@@ -435,6 +519,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 22**: A=Rp1.030.000; B=Rp1.006.000; C=Rp1.120.000; D=Rp1.060.000 (benar). Kunci **D**.
+- **Konsep kunci:** Bunga pinjaman untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 6 bulan: (6/12) × 12% × 1.000.000 = 60.000.
+  2. Tambahkan ke pokok pinjaman: 1.000.000 + 60.000 = Rp1.060.000.
 
 ---
 
@@ -450,6 +538,10 @@ Pedagang sering:
 - **B** — Benar. Potongan = 40% × 200.000 = 80.000. Bayar = 200.000 − 80.000 = **Rp120.000**. ✅ Cek: 60% × 200.000 = 120.000.
 - **C** — Rp160.000 = 200.000 − 40.000 (kurangi 40 ribu langsung).
 - **D** — Rp240.000 = 200.000 + 40.000 (justru ditambah).
+- **Konsep kunci:** Diskon dikurangkan dari harga awal untuk mendapat harga bayar.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 40% × 200.000 = 80.000.
+  2. Harga bayar = 200.000 − 80.000 = Rp120.000 (cek: 60% × 200.000).
 
 ---
 
@@ -465,6 +557,10 @@ Pedagang sering:
 - **B** — Rp146.000 = sembarang penjumlahan.
 - **C** — Benar. Setelah diskon = 150.000 × 0,90 = 135.000. + PPN 11% = 135.000 × 1,11 = **Rp149.850**. ✅
 - **D** — Rp165.000 = 150.000 × 1,10 (diskon dianggap pajak juga).
+- **Konsep kunci:** Diskon dihitung lebih dulu, baru PPN dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Kurangi dengan diskon 10%: 150.000 × 0,90 = 135.000.
+  2. Tambahkan PPN 11% dari harga tersebut: 135.000 × 1,11 = Rp149.850.
 
 ---
 
@@ -480,6 +576,10 @@ Pedagang sering:
 - **B** — Rp200.000 = bagian paman atau kakek (2/5 × 500.000), bukan bibi.
 - **C** — Rp50.000 = 500.000/10. Salah jumlahkan rasio.
 - **D** — Rp150.000 = 500.000 × (3/10). Sembarang.
+- **Konsep kunci:** Perbandingan tiga bagian dibagi sesuai jumlah bagian masing-masing.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian: 2 + 1 + 2 = 5 bagian.
+  2. Bagian bibi = (1/5) × 500.000 = Rp100.000.
 
 ---
 
@@ -495,6 +595,10 @@ Pedagang sering:
 - **B** — Benar. Harga per kotak = 48.000/4 = 12.000. 7 kotak = 7 × 12.000 = **Rp84.000**. ✅
 - **C** — Rp56.000 = 48.000 + 8.000 sembarang.
 - **D** — Rp96.000 = 48.000 × 2 = 8 kotak.
+- **Konsep kunci:** Perbandingan senilai: cari harga satuan dulu, baru kalikan jumlah baru.
+- **Langkah Penyelesaian:**
+  1. Cari harga per kotak: 48.000 ÷ 4 = 12.000.
+  2. Kalikan dengan 7 kotak: 7 × 12.000 = Rp84.000.
 
 ---
 
@@ -510,6 +614,10 @@ Pedagang sering:
 - **B** — Rp24.000 = bunga 6 bulan (salah baca waktu).
 - **C** — Benar. Bunga 3 bulan = (3/12) × 6% × 800.000 = 0,25 × 48.000 = **Rp12.000**. ✅
 - **D** — Rp16.000 = (4/12) × 48.000. Salah waktu (pakai 4 bulan).
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga setahun: 6% × 800.000 = 48.000.
+  2. Kalikan dengan (3/12) karena hanya 3 bulan: Rp12.000.
 
 ---
 
@@ -525,6 +633,10 @@ Pedagang sering:
 - **B** — 25% = (10.000/40.000) × 100%. Salah penyebut: pakai jual, bukan modal.
 - **C** — Benar. Untung = 40.000 − 30.000 = 10.000. %Untung = (10.000/30.000) × 100% ≈ **33%**. ✅
 - **D** — 50% = ambil setengah modal asal.
+- **Konsep kunci:** Persen untung dihitung dari selisih harga jual-modal dibagi modal.
+- **Langkah Penyelesaian:**
+  1. Cari untung: 40.000 − 30.000 = 10.000.
+  2. Bagi dengan modal lalu kali 100%: (10.000/30.000) × 100% ≈ 33%.
 
 ---
 
@@ -540,6 +652,10 @@ Pedagang sering:
 - **B** — Benar. Potongan = 25% × 400.000 = 100.000. Bayar = 400.000 − 100.000 = **Rp300.000**. ✅ Cek: 75% × 400.000 = 300.000.
 - **C** — Rp375.000 = 400.000 − 25.000 (kurangi 25 ribu langsung).
 - **D** — Rp325.000 = sembarang.
+- **Konsep kunci:** Diskon dikurangkan dari harga awal untuk mendapat harga bayar.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 25% × 400.000 = 100.000.
+  2. Harga bayar = 400.000 − 100.000 = Rp300.000.
 
 ---
 
@@ -555,6 +671,10 @@ Pedagang sering:
 - **B** — Rp220.000 = setelah PPN saja, lupa voucher.
 - **C** — Rp180.000 = 200.000 − 20.000 (lupa PPN ditambah dulu).
 - **D** — Rp240.000 = 200.000 + 40.000. Salah hitung pajak.
+- **Konsep kunci:** Saat ada PPN dan voucher, kerjakan berurutan sesuai urutan cerita.
+- **Langkah Penyelesaian:**
+  1. Tambahkan PPN dulu: 200.000 × 1,10 = 220.000.
+  2. Kurangi voucher setelah PPN: 220.000 − 20.000 = Rp200.000.
 
 ---
 
@@ -570,6 +690,10 @@ Pedagang sering:
 - **B** — 40 km = 4 × 10. Salah konversi (kelebihan 1 nol).
 - **C** — 400 km = 4 × 100.000 cm = 400.000 cm → salah ubah ke km (anggap 1 km = 1.000 cm).
 - **D** — Benar. Jarak nyata = 4 × 100.000 = 400.000 cm = **4 km** (1 km = 100.000 cm). ✅
+- **Konsep kunci:** Skala 1:k berarti jarak peta dikali k untuk mendapat jarak sebenarnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan jarak peta dengan skala: 4 × 100.000 = 400.000 cm.
+  2. Ubah ke km (1 km = 100.000 cm): jarak sebenarnya = 4 km.
 
 ---
 
@@ -585,6 +709,10 @@ Pedagang sering:
 - **B** — Rp600.000 = pendapatan total (50 × 12.000), bukan untung.
 - **C** — Benar. Untung per kg = 12.000 − 10.000 = 2.000. Untung total = 50 × 2.000 = **Rp100.000**. ✅
 - **D** — Rp500.000 = modal total (50 × 10.000), bukan untung.
+- **Konsep kunci:** Untung total = untung per satuan dikali jumlah barang.
+- **Langkah Penyelesaian:**
+  1. Cari untung per kg: 12.000 − 10.000 = 2.000.
+  2. Kalikan dengan jumlah kg: 50 × 2.000 = Rp100.000.
 
 ---
 
@@ -600,6 +728,10 @@ Pedagang sering:
 - **B** — Rp300.000 = besar potongan saja.
 - **C** — Rp1.480.000 = 1.500.000 − 20.000 (kurangi 20 ribu langsung).
 - **D** — Rp1.800.000 = ditambah 20%, salah arah.
+- **Konsep kunci:** Diskon dikurangkan dari harga awal untuk mendapat harga bayar.
+- **Langkah Penyelesaian:**
+  1. Hitung potongan: 20% × 1.500.000 = 300.000.
+  2. Harga bayar = 1.500.000 − 300.000 = Rp1.200.000.
 
 ---
 
@@ -615,6 +747,10 @@ Pedagang sering:
 - **B** — Benar. Bunga 4 bulan = (4/12) × 9% × 200.000 = (1/3) × 18.000 = **Rp6.000**. ✅
 - **C** — Rp4.500 = (3/12) × 18.000. Salah waktu (3 bulan).
 - **D** — Rp9.000 = (6/12) × 18.000. Salah waktu (6 bulan).
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga setahun: 9% × 200.000 = 18.000.
+  2. Kalikan dengan (4/12): (1/3) × 18.000 = Rp6.000.
 
 ---
 
@@ -630,6 +766,10 @@ Pedagang sering:
 - **B** — 50% = ambil setengah modal.
 - **C** — 12% = ambil angka 12 langsung.
 - **D** — Benar. Pendapatan = 5 × 120.000 = 600.000. Untung = 600.000 − 500.000 = 100.000. %Untung = (100.000/500.000) × 100% = **20%**. ✅
+- **Konsep kunci:** Persen untung dihitung dari selisih pendapatan-modal dibagi modal.
+- **Langkah Penyelesaian:**
+  1. Hitung pendapatan: 5 × 120.000 = 600.000, lalu untung: 600.000 − 500.000 = 100.000.
+  2. Bagi untung dengan modal lalu kali 100%: (100.000/500.000) × 100% = 20%.
 
 ---
 
@@ -645,6 +785,10 @@ Pedagang sering:
 - **B** — Rp350.000 = harga awal, lupa proses.
 - **C** — Benar. Diskon: 350.000 × 0,86 = 301.000. + PPN 10%: 301.000 × 1,10 = **Rp331.100**. ✅
 - **D** — Rp385.000 = 350.000 × 1,10 (lupa diskon, hanya PPN).
+- **Konsep kunci:** Diskon dihitung lebih dulu, baru PPN dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Kurangi dengan diskon 14%: 350.000 × 0,86 = 301.000.
+  2. Tambahkan PPN 10% dari harga tersebut: 301.000 × 1,10 = Rp331.100.
 
 ---
 
@@ -660,6 +804,10 @@ Pedagang sering:
 - **B** — Benar. Harga per buku = 36.000/6 = 6.000. 10 buku = 10 × 6.000 = **Rp60.000**. ✅
 - **C** — Rp48.000 = harga untuk 8 buku. Salah jumlah.
 - **D** — Rp72.000 = 36.000 × 2 = 12 buku.
+- **Konsep kunci:** Perbandingan senilai: cari harga satuan dulu, baru kalikan jumlah baru.
+- **Langkah Penyelesaian:**
+  1. Cari harga per buku: 36.000 ÷ 6 = 6.000.
+  2. Kalikan dengan 10 buku: 10 × 6.000 = Rp60.000.
 
 ---
 
@@ -675,6 +823,10 @@ Pedagang sering:
 - **B** — Rp70.000 = total sebelum diskon.
 - **C** — Rp7.000 = potongan saja.
 - **D** — Rp77.000 = 70.000 + 7.000 (ditambah, salah arah).
+- **Konsep kunci:** Jumlahkan semua barang dulu, baru hitung diskon dari total belanja.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan harga: 45.000 + 25.000 = 70.000.
+  2. Kurangi diskon 10%: 70.000 − (10% × 70.000) = Rp63.000.
 
 ---
 
@@ -694,6 +846,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 39**: A=Rp508.000; B=Rp540.000; C=Rp530.000 (benar); D=Rp600.000. Kunci **C**.
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 9 bulan: (9/12) × 8% × 500.000 = 30.000.
+  2. Tambahkan ke pokok tabungan: 500.000 + 30.000 = Rp530.000.
 
 ---
 
@@ -713,6 +869,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 40**: A=Rp9.100.000; B=Rp7.300.000; C=Rp9.000.000; D=Rp10.000.000 (benar). Kunci **D**.
+- **Konsep kunci:** Untuk mencari modal dari harga jual saat rugi, bagi dengan (100% − %rugi).
+- **Langkah Penyelesaian:**
+  1. Ubah rugi jadi persen jual: 100% − 30% = 70%.
+  2. Bagi harga jual dengan 70%: 7.000.000 ÷ 0,70 = Rp10.000.000.
 
 ---
 
@@ -728,6 +888,10 @@ Pedagang sering:
 - **B** — Benar. Saldo awal = 300.000 + 50.000 = 350.000. Bunga = 5% × 350.000 = 17.500. Total = **Rp367.500**. ✅
 - **C** — Rp315.000 = 300.000 + 15.000 (lupa bonus 50 ribu).
 - **D** — Rp350.000 = saldo sebelum bunga.
+- **Konsep kunci:** Bonus ditambahkan ke saldo dulu sebelum bunga dihitung.
+- **Langkah Penyelesaian:**
+  1. Tambahkan bonus ke saldo: 300.000 + 50.000 = 350.000.
+  2. Hitung bunga dari saldo baru: 5% × 350.000 = 17.500, total = Rp367.500.
 
 ---
 
@@ -743,6 +907,10 @@ Pedagang sering:
 - **B** — Rp60.000 = setelah diskon saja, lupa PPN.
 - **C** — Rp55.000 = 80.000 − 25.000 (kurangi 25 ribu langsung).
 - **D** — Rp72.000 = 80.000 × 0,90 (anggap diskon 10% lalu PPN 0%). Acak.
+- **Konsep kunci:** Diskon dihitung lebih dulu, baru PPN dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Kurangi dengan diskon 25%: 80.000 × 0,75 = 60.000.
+  2. Tambahkan PPN 10% dari harga tersebut: 60.000 × 1,10 = Rp66.000.
 
 ---
 
@@ -762,6 +930,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 43**: A=24×16; B=30×20; C=60×40; D=15×10 (benar). Kunci **D**.
+- **Konsep kunci:** Skala berlaku untuk panjang dan lebar secara terpisah.
+- **Langkah Penyelesaian:**
+  1. Ubah panjang dan lebar ke cm: 60 m = 6.000 cm, 40 m = 4.000 cm.
+  2. Bagi masing-masing dengan skala 400: 6.000÷400 = 15 cm, 4.000÷400 = 10 cm.
 
 ---
 
@@ -777,6 +949,10 @@ Pedagang sering:
 - **B** — Rp25.000 = sembarang.
 - **C** — Benar. Per cangkir = 32.000/8 = 4.000. 5 cangkir = 5 × 4.000 = **Rp20.000**. ✅
 - **D** — Rp24.000 = 6 cangkir.
+- **Konsep kunci:** Perbandingan senilai: cari harga satuan dulu, baru kalikan jumlah baru.
+- **Langkah Penyelesaian:**
+  1. Cari harga per cangkir: 32.000 ÷ 8 = 4.000.
+  2. Kalikan dengan 5 cangkir: 5 × 4.000 = Rp20.000.
 
 ---
 
@@ -792,6 +968,10 @@ Pedagang sering:
 - **B** — Rp220.000 = 250.000 − 30.000 sembarang.
 - **C** — Rp225.000 = 250.000 × 0,90 sembarang.
 - **D** — Rp200.000 = setelah diskon saja, lupa PPN.
+- **Konsep kunci:** Diskon dihitung lebih dulu, baru PPN dihitung dari harga setelah diskon.
+- **Langkah Penyelesaian:**
+  1. Kurangi dengan diskon 20%: 250.000 × 0,80 = 200.000.
+  2. Tambahkan PPN 11% dari harga tersebut: 200.000 × 1,11 = Rp222.000.
 
 ---
 
@@ -807,6 +987,10 @@ Pedagang sering:
 - **B** — Benar. Total bagian = 3+2+1 = 6. Bagian Sari = (3/6) × 600.000 = **Rp300.000**. ✅
 - **C** — Rp400.000 = (4/6) sembarang.
 - **D** — Rp100.000 = bagian teman B (1/6 × 600.000).
+- **Konsep kunci:** Perbandingan tiga bagian dibagi sesuai jumlah bagian masing-masing.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian: 3 + 2 + 1 = 6 bagian.
+  2. Bagian Sari = (3/6) × 600.000 = Rp300.000.
 
 ---
 
@@ -822,6 +1006,10 @@ Pedagang sering:
 - **B** — Rp525.000 = (6/12) × 50.000 + pokok. Salah waktu 6 bulan.
 - **C** — Rp510.000 = (1/12) × 50.000 + pokok ≈ 504.167. Tidak pas, asal kira.
 - **D** — Benar. Bunga 3 bulan = (3/12) × 10% × 500.000 = 12.500. Total = 500.000 + 12.500 = **Rp512.500**. ✅
+- **Konsep kunci:** Bunga pinjaman untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 3 bulan: (3/12) × 10% × 500.000 = 12.500.
+  2. Tambahkan ke pokok pinjaman: 500.000 + 12.500 = Rp512.500.
 
 ---
 
@@ -837,6 +1025,10 @@ Pedagang sering:
 - **B** — 33% = (25.000/75.000). Salah penyebut (jual, bukan modal).
 - **C** — Benar. Untung = 75.000 − 50.000 = 25.000. %Untung = (25.000/50.000) × 100% = **50%**. ✅
 - **D** — 20% = 25/125 sembarang.
+- **Konsep kunci:** Persen untung dihitung dari selisih harga jual-modal dibagi modal.
+- **Langkah Penyelesaian:**
+  1. Cari untung: 75.000 − 50.000 = 25.000.
+  2. Bagi dengan modal lalu kali 100%: (25.000/50.000) × 100% = 50%.
 
 ---
 
@@ -852,6 +1044,10 @@ Pedagang sering:
 - **B** — Rp35.000 = 40.000 − 5.000 (asal).
 - **C** — Rp40.000 = sebelum diskon.
 - **D** — Rp36.000 = 40.000 × 0,90 (anggap diskon 10%).
+- **Konsep kunci:** Jumlahkan semua barang dulu, baru hitung diskon dari total belanja.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan harga: 30.000 + 10.000 = 40.000.
+  2. Kurangi diskon 15%: 40.000 − (15% × 40.000) = Rp34.000.
 
 ---
 
@@ -871,6 +1067,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 50**: A=Rp1.207.000; B=Rp1.242.000 (benar); C=Rp1.284.000; D=Rp1.260.000. Kunci **B**.
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 6 bulan: (6/12) × 7% × 1.200.000 = 42.000.
+  2. Tambahkan ke pokok tabungan: 1.200.000 + 42.000 = Rp1.242.000.
 
 ---
 
@@ -892,6 +1092,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 51**: A=25%; B=6,25% (benar); C=5%; D=10%. Kunci **B**.
+- **Konsep kunci:** Saat ada barang dijual dengan dua harga berbeda, hitung total pendapatan dulu baru untung%.
+- **Langkah Penyelesaian:**
+  1. Hitung pendapatan gabungan: (15 × 25.000) + (5 × 10.000) = 425.000.
+  2. Cari untung (425.000 − 400.000 = 25.000) lalu %untung: (25.000/400.000) × 100% = 6,25%.
 
 ---
 
@@ -907,6 +1111,10 @@ Pedagang sering:
 - **B** — Rp200.000 = setelah diskon 20% saja, lupa diskon kedua.
 - **C** — Benar. Setelah diskon 20%: 250.000 × 0,80 = 200.000. Setelah diskon 10% lagi: 200.000 × 0,90 = **Rp180.000**. ✅
 - **D** — Rp225.000 = 250.000 × 0,90 (lupa diskon pertama).
+- **Konsep kunci:** Diskon berlapis dikerjakan berurutan, bukan dijumlahkan persennya.
+- **Langkah Penyelesaian:**
+  1. Kurangi diskon pertama 20%: 250.000 × 0,80 = 200.000.
+  2. Kurangi diskon kedua 10% dari hasil tadi: 200.000 × 0,90 = Rp180.000.
 
 ---
 
@@ -926,6 +1134,11 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 53**: Kunci sebenarnya adalah **D** (Rp1.078.000). Untuk menjaga distribusi balanced di file ini, soal ini diganti kuncinya menjadi **A** dengan pengubahan opsi sbb: A=Rp1.078.000 (benar); B=Rp1.072.000; C=Rp1.060.000; D=Rp1.080.000. Pembahasan benar pada opsi **A**.
+- **Konsep kunci:** Setiap setoran punya masa bunga sendiri, dihitung terpisah lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga setoran pertama 12 bulan: 9% × 800.000 = 72.000.
+  2. Hitung bunga setoran kedua 4 bulan: (4/12) × 9% × 200.000 = 6.000.
+  3. Jumlahkan semua: 800.000 + 200.000 + 72.000 + 6.000 = Rp1.078.000.
 
 ---
 
@@ -945,6 +1158,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 54**: Skala yang dipakai = 1:750.000 (bukan 1:250.000). Kunci **D** (1,5 jam) dengan jarak nyata 90 km.
+- **Konsep kunci:** Jarak sebenarnya dari skala dipakai untuk mencari waktu tempuh (jarak ÷ kecepatan).
+- **Langkah Penyelesaian:**
+  1. Ubah jarak peta ke jarak sebenarnya: 12 × 750.000 cm = 9.000.000 cm = 90 km.
+  2. Bagi jarak dengan kecepatan: 90 ÷ 60 = 1,5 jam.
 
 ---
 
@@ -960,6 +1177,10 @@ Pedagang sering:
 - **B** — Rp145.000 = sembarang.
 - **C** — Rp140.000 = sembarang penjumlahan kecil.
 - **D** — Rp135.000 = harga setelah diskon, salah baca pertanyaan.
+- **Konsep kunci:** Untuk mencari harga awal dari harga setelah diskon, bagi dengan (100% − diskon).
+- **Langkah Penyelesaian:**
+  1. Ubah diskon jadi persen bayar: 100% − 10% = 90%.
+  2. Bagi harga setelah diskon dengan 90%: 135.000 ÷ 0,90 = Rp150.000.
 
 ---
 
@@ -975,6 +1196,10 @@ Pedagang sering:
 - **B** — Benar. Jual = 120% × modal = 720.000. Modal = 720.000 ÷ 1,20 = **Rp600.000**. ✅
 - **C** — Rp864.000 = 720.000 × 1,20 (arah salah).
 - **D** — Rp700.000 = 720.000 − 20.000 (kurangi 20 ribu langsung).
+- **Konsep kunci:** Untuk mencari modal dari harga jual saat untung, bagi dengan (100% + %untung).
+- **Langkah Penyelesaian:**
+  1. Ubah untung jadi persen jual: 100% + 20% = 120%.
+  2. Bagi harga jual dengan 120%: 720.000 ÷ 1,20 = Rp600.000.
 
 ---
 
@@ -990,6 +1215,10 @@ Pedagang sering:
 - **B** — Rp11.250 = 90.000/8. Lupa diskon.
 - **C** — Benar. Total bayar = 90.000 × 0,90 = 81.000. Total buku diterima = 6 + 2 = 8. Per buku = 81.000/8 = **Rp10.125**. ✅
 - **D** — Rp9.000 = 81.000/9 (anggap dapat 9 buku).
+- **Konsep kunci:** Bonus barang menambah jumlah unit, tapi tidak menambah uang yang dibayar.
+- **Langkah Penyelesaian:**
+  1. Hitung uang yang dibayar setelah diskon: 90.000 × 0,90 = 81.000.
+  2. Bagi dengan total barang termasuk bonus (6+2=8): 81.000 ÷ 8 = Rp10.125 per buku.
 
 ---
 
@@ -1005,6 +1234,10 @@ Pedagang sering:
 - **B** — Rp140.000 = sembarang.
 - **C** — Rp80.000 = bunga 8 bulan saja, lupa sisa 4 bulan.
 - **D** — Rp110.000 = sembarang penjumlahan.
+- **Konsep kunci:** Bunga pinjaman dihitung per tahap sesuai sisa pokok dan lama waktunya.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 8 bulan atas pokok penuh: (8/12) × 6% × 2.000.000 = 80.000.
+  2. Hitung bunga 4 bulan atas sisa pokok: (4/12) × 6% × 1.000.000 = 20.000, jumlahkan = Rp100.000.
 
 ---
 
@@ -1020,6 +1253,10 @@ Pedagang sering:
 - **B** — Benar. Untung Senin–Jumat (5 hari) = 5 × 20% × 250.000 = 5 × 50.000 = 250.000. Rugi Sabtu = 15% × 250.000 = 37.500. Total = 250.000 − 37.500 = **Rp212.500 untung**. ✅
 - **C** — Rp225.000 = sembarang.
 - **D** — Rp187.500 = 5 × 50.000 − 62.500. Salah hitung rugi.
+- **Konsep kunci:** Untung dan rugi mingguan dihitung per hari lalu digabungkan.
+- **Langkah Penyelesaian:**
+  1. Hitung untung 5 hari: 5 × 20% × 250.000 = 250.000.
+  2. Hitung rugi 1 hari: 15% × 250.000 = 37.500, lalu kurangkan: 250.000 − 37.500 = Rp212.500 untung.
 
 ---
 
@@ -1039,6 +1276,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 60**: Jawaban eksak = Rp4.145.750. Opsi C diganti menjadi **Rp4.145.750** (kunci tetap C). A=Rp4.245.750 (lupa voucher); B=Rp4.155.625 sembarang; C=Rp4.145.750 (benar); D=Rp4.200.000 sembarang.
+- **Konsep kunci:** Diskon, PPN, dan voucher dikerjakan berurutan sesuai urutan kejadian di cerita.
+- **Langkah Penyelesaian:**
+  1. Kurangi diskon 15%: 4.500.000 × 0,85 = 3.825.000.
+  2. Tambahkan PPN 11%: 3.825.000 × 1,11 = 4.245.750, lalu kurangi voucher 100.000 = Rp4.145.750.
 
 ---
 
@@ -1058,6 +1299,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 61**: Jawaban eksak = Rp332.800. Untuk soal cerita SD, kami sederhanakan dengan asumsi tabungan baru disetor ulang sebagai pokok baru. Opsi D = Rp332.800. A=Rp312.000; B=Rp320.000; C=Rp340.000; D=Rp332.800 (benar). Kunci **D**.
+- **Konsep kunci:** Saat ada penarikan di tengah, bunga fase kedua dihitung dari saldo sisa setelah tarik.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 6 bulan pertama: (6/12) × 8% × 500.000 = 20.000, saldo jadi 520.000, ditarik 200.000 jadi 320.000.
+  2. Hitung bunga 6 bulan kedua dari 320.000: (6/12) × 8% × 320.000 = 12.800, total = Rp332.800.
 
 ---
 
@@ -1077,6 +1322,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 62**: A=9 m & Rp130.000; B=9 m & Rp135.000 (benar); C=8 m & Rp120.000; D=6 m & Rp90.000. Kunci **B**.
+- **Konsep kunci:** Perbandingan menentukan panjang bagian, lalu harga per meter menentukan nilainya.
+- **Langkah Penyelesaian:**
+  1. Jumlahkan bagian (3+2+2+1=8), panjang anak pertama = (3/8) × 24 = 9 m.
+  2. Cari harga per meter (360.000÷24=15.000) lalu kalikan: 9 × 15.000 = Rp135.000.
 
 ---
 
@@ -1092,6 +1341,10 @@ Pedagang sering:
 - **B** — Rp2.700.000.000 = 2,5 M × 1,08 (anggap 8%).
 - **C** — Benar. Modal pengembang = 10.000 × 250.000 = Rp2.500.000.000. Jual = 2.500.000.000 × 1,12 = **Rp2.800.000.000**. ✅
 - **D** — Rp3.000.000.000 = 2,5 M × 1,20 (anggap 20%).
+- **Konsep kunci:** Untung berantai: hasil jual pertama menjadi modal untuk pihak berikutnya.
+- **Langkah Penyelesaian:**
+  1. Hitung modal pengembang: 10.000 × 250.000 = Rp2.500.000.000.
+  2. Tambahkan untung 12%: 2.500.000.000 × 1,12 = Rp2.800.000.000.
 
 ---
 
@@ -1108,6 +1361,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 64**: Harga jual diubah menjadi Rp2.600.000 (bukan Rp2.800.000). Rugi = 1.400.000. %Rugi = 35%. Kunci **A** (35%). Opsi: A=35% (benar); B=25%; C=40%; D=30%.
+- **Konsep kunci:** Persen rugi dihitung dari selisih modal-jual dibagi modal.
+- **Langkah Penyelesaian:**
+  1. Hitung rugi: 4.000.000 − 2.600.000 = 1.400.000.
+  2. Bagi rugi dengan modal lalu kali 100%: (1.400.000/4.000.000) × 100% = 35%.
 
 ---
 
@@ -1127,6 +1384,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 65**: Bunga diubah ke 9%/tahun, waktu 8 bulan. Total = Rp265.000. Kunci **B** dengan opsi: A=Rp260.000 (bunga 6% asli); B=Rp265.000 (benar); C=Rp270.000; D=Rp262.500. Kunci **B**.
+- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 8 bulan: (8/12) × 9% × 250.000 = 15.000.
+  2. Tambahkan ke pokok tabungan: 250.000 + 15.000 = Rp265.000.
 
 ---
 
@@ -1146,6 +1407,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 66**: A=Untung 15%; B=Untung 10%; C=Untung 12,5% (benar); D=Rugi 2%. Kunci **C**.
+- **Konsep kunci:** Untung% menentukan harga jual normal, lalu diskon dihitung dari harga jual itu.
+- **Langkah Penyelesaian:**
+  1. Cari harga jual normal: 80.000 × 1,25 = 100.000.
+  2. Kurangi diskon 10%: 100.000 × 0,90 = 90.000, untung akhir = (10.000/80.000) × 100% = 12,5%.
 
 ---
 
@@ -1161,6 +1426,10 @@ Pedagang sering:
 - **B** — 10 menit = 2,5/15 × 60. Salah jarak.
 - **C** — 20 menit = 5/15 × 60. Salah konversi.
 - **D** — 6 menit = (1,5/15) × 60. Salah konversi.
+- **Konsep kunci:** Jarak sebenarnya dari skala dipakai untuk mencari waktu tempuh dalam menit.
+- **Langkah Penyelesaian:**
+  1. Ubah jarak peta ke jarak sebenarnya: 6 × 50.000 cm = 300.000 cm = 3 km.
+  2. Bagi jarak dengan kecepatan lalu ubah ke menit: (3/15) jam × 60 = 12 menit.
 
 ---
 
@@ -1176,6 +1445,10 @@ Pedagang sering:
 - **B** — Rp750 jt = harga jual sebelum pajak.
 - **C** — Rp700 jt = sembarang.
 - **D** — Rp675 jt = 750 × 0,90 (anggap pajak 10%).
+- **Konsep kunci:** Untung% menentukan harga jual, lalu pajak dihitung dari harga jual itu.
+- **Langkah Penyelesaian:**
+  1. Cari harga jual: 600.000.000 × 1,25 = 750.000.000.
+  2. Kurangi pajak 5%: 750.000.000 − (5% × 750.000.000) = Rp712.500.000.
 
 ---
 
@@ -1191,6 +1464,10 @@ Pedagang sering:
 - **B** — Rp48.000 = 8% × 600.000 sembarang.
 - **C** — Rp60.000 = 800.000 × 7,5% sembarang.
 - **D** — Rp50.000 = asal bulat.
+- **Konsep kunci:** Bunga dari beberapa bank dihitung terpisah lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga Bank A: 6% × 500.000 = 30.000.
+  2. Hitung bunga Bank B: 8% × 300.000 = 24.000, jumlahkan = Rp54.000.
 
 ---
 
@@ -1210,6 +1487,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 70**: A=10%; B=8%; C=25%; D=12,5% (benar). Kunci **D**.
+- **Konsep kunci:** Barang yang rusak/hilang mengurangi jumlah yang bisa dijual sebelum untung dihitung.
+- **Langkah Penyelesaian:**
+  1. Kurangi jumlah rusak: 100 − 10 = 90 butir tersisa.
+  2. Hitung pendapatan (90×2.500=225.000) lalu untung%: (25.000/200.000) × 100% = 12,5%.
 
 ---
 
@@ -1229,6 +1510,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 71**: A=35% & Rp162.500; B=40% & Rp150.000 (benar); C=45% & Rp137.500; D=50% & Rp125.000. Kunci **B**.
+- **Konsep kunci:** Diskon berlapis dikerjakan berurutan; diskon efektif dicari dari hasil akhirnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan berurutan: 250.000 × 0,80 × 0,75 = 150.000.
+  2. Diskon efektif = 1 − (0,80×0,75) = 1 − 0,60 = 40%.
 
 ---
 
@@ -1248,6 +1533,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 72**: A=Rp660.000; B=Rp630.000; C=Rp627.000 (benar); D=Rp624.000. Kunci **C**.
+- **Konsep kunci:** Bunga pinjaman untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 9 bulan: (9/12) × 6% × 600.000 = 27.000.
+  2. Tambahkan ke pokok pinjaman: 600.000 + 27.000 = Rp627.000.
 
 ---
 
@@ -1263,6 +1552,10 @@ Pedagang sering:
 - **B** — 1.500 cm² = luas di denah (5×3×100? sembarang).
 - **C** — Benar. Panjang nyata = 5 × 100 = 500 cm = 5 m. Lebar = 3 × 100 = 300 cm = 3 m. Luas = 5 × 3 = **15 m²**. ✅
 - **D** — 0,15 m² = 1.500 cm² → 0,15 m². Tidak konversi ke ukuran nyata.
+- **Konsep kunci:** Luas sebenarnya dicari dari panjang dan lebar sebenarnya, bukan luas pada denah.
+- **Langkah Penyelesaian:**
+  1. Ubah panjang dan lebar ke ukuran sebenarnya: 5×100=500 cm=5 m, 3×100=300 cm=3 m.
+  2. Kalikan panjang dan lebar sebenarnya: 5 × 3 = 15 m².
 
 ---
 
@@ -1278,6 +1571,10 @@ Pedagang sering:
 - **B** — Benar. Bayar = 200.000 × 0,85 = 170.000. Paket diterima = 5 (4 + 1 bonus). Per paket = 170.000/5 = **Rp34.000**. ✅
 - **C** — Rp42.500 = 170.000/4. Lupa bonus.
 - **D** — Rp50.000 = 200.000/4. Lupa diskon dan bonus.
+- **Konsep kunci:** Bonus barang menambah jumlah unit, tapi tidak menambah uang yang dibayar.
+- **Langkah Penyelesaian:**
+  1. Hitung uang yang dibayar setelah diskon: 200.000 × 0,85 = 170.000.
+  2. Bagi dengan total paket termasuk bonus (4+1=5): 170.000 ÷ 5 = Rp34.000 per paket.
 
 ---
 
@@ -1293,6 +1590,10 @@ Pedagang sering:
 - **B** — Rp50.000 = sembarang.
 - **C** — Benar. Tarif = 3 × 15.000 = 45.000. + PPN: 45.000 × 1,11 = **Rp49.950**. ✅
 - **D** — Rp55.000 = 50.000 × 1,10. Salah angka tarif.
+- **Konsep kunci:** Tarif dihitung per kg dulu, baru PPN ditambahkan dari total tarif.
+- **Langkah Penyelesaian:**
+  1. Hitung tarif: 3 × 15.000 = 45.000.
+  2. Tambahkan PPN 11%: 45.000 × 1,11 = Rp49.950.
 
 ---
 
@@ -1312,6 +1613,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 76**: A=Rp40.000 (benar); B=Rp50.000; C=Rp48.000; D=Rp45.000. Kunci **A**.
+- **Konsep kunci:** Untung% menentukan harga jual normal, lalu diskon dihitung dari harga itu untuk cek untung/impas.
+- **Langkah Penyelesaian:**
+  1. Cari harga jual normal: 40.000 × 1,25 = 50.000.
+  2. Kurangi diskon 20%: 50.000 × 0,80 = Rp40.000, sama dengan modal berarti impas.
 
 ---
 
@@ -1331,6 +1636,11 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 77**: D=Rp1.575.000 (benar). Kunci **D**.
+- **Konsep kunci:** Setiap setoran punya masa bunga sendiri, dihitung terpisah lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga setoran pertama 12 bulan: 6% × 1.000.000 = 60.000.
+  2. Hitung bunga setoran kedua 6 bulan: (6/12) × 6% × 500.000 = 15.000.
+  3. Jumlahkan semua: 1.000.000 + 500.000 + 60.000 + 15.000 = Rp1.575.000.
 
 ---
 
@@ -1350,6 +1660,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 78**: A=Rp42.000; B=Rp36.750 (benar); C=Rp40.000; D=Rp35.000. Kunci **B**.
+- **Konsep kunci:** Untung% menentukan harga jual normal, lalu diskon dihitung dari harga itu.
+- **Langkah Penyelesaian:**
+  1. Cari harga jual normal: 35.000 × 1,40 = 49.000.
+  2. Kurangi diskon 25%: 49.000 × 0,75 = Rp36.750.
 
 ---
 
@@ -1369,6 +1683,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 79**: A=Rp82.500 (untung 10%); B=Rp80.000 (untung 6,67%); C=Rp81.000 (untung 8%) (benar); D=Rp75.000 (impas). Kunci **C**.
+- **Konsep kunci:** Untung% menentukan harga jual normal, lalu diskon dihitung untuk cari untung akhir.
+- **Langkah Penyelesaian:**
+  1. Cari harga jual normal: 75.000 × 1,20 = 90.000.
+  2. Kurangi diskon 10%: 90.000 × 0,90 = 81.000, untung akhir = (6.000/75.000) × 100% = 8%.
 
 ---
 
@@ -1388,6 +1706,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 80**: A=Rp1.620.000 (benar); B=Rp1.625.000; C=Rp1.580.000; D=Rp1.600.000. Kunci **A**.
+- **Konsep kunci:** Bunga pinjaman setahun penuh dijumlahkan dengan pokok untuk total pelunasan.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga setahun: 8% × 1.500.000 = 120.000.
+  2. Tambahkan ke pokok: 1.500.000 + 120.000 = Rp1.620.000.
 
 ---
 
@@ -1409,6 +1731,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 81**: A=Rp36.000; B=Rp84.000 (benar); C=Rp120.000; D=Rp100.000. Kunci **B**.
+- **Konsep kunci:** Barang yang rusak dikurangi dulu, lalu pajak dihitung dari hasil penjualan sebelum untung dicari.
+- **Langkah Penyelesaian:**
+  1. Hitung barang layak jual: 80% × 50 = 40 kg, pendapatan = 40 × 18.000 = 720.000.
+  2. Kurangi pajak 5%: 720.000 − 36.000 = 684.000, untung = 684.000 − 600.000 = Rp84.000.
 
 ---
 
@@ -1428,6 +1754,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 82**: A=Untung Rp4.000; B=Untung Rp10.000; C=Untung Rp8.000 (benar); D=Rugi Rp4.000. Kunci **C**.
+- **Konsep kunci:** Untung dan rugi dari dua barang dihitung terpisah lalu digabungkan.
+- **Langkah Penyelesaian:**
+  1. Hitung untung barang A: 25% × 80.000 = 20.000.
+  2. Hitung rugi barang B: 10% × 120.000 = 12.000, gabungkan: 20.000 − 12.000 = Rp8.000 untung.
 
 ---
 
@@ -1447,6 +1777,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 83**: A=Rp1.690.000 (benar); B=Rp1.694.000; C=Rp1.600.000; D=Rp1.700.000. Kunci **A**.
+- **Konsep kunci:** Bunga hanya dihitung dari pokok awal; tambahan bulanan dijumlahkan langsung tanpa bunga.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga pokok: 9% × 1.000.000 = 90.000.
+  2. Jumlahkan tambahan 12 bulan: 12 × 50.000 = 600.000, total = 1.000.000+90.000+600.000 = Rp1.690.000.
 
 ---
 
@@ -1466,6 +1800,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 84**: Jawaban eksak = Rp332.167,50 (dibulatkan Rp332.168). Opsi D ditulis sebagai Rp332.168. A=Rp350.000; B=Rp349.875; C=Rp332.000; D=Rp332.168 (benar). Kunci **D**.
+- **Konsep kunci:** Diskon, PPN, dan kupon dikerjakan berurutan sesuai urutan kejadian di cerita.
+- **Langkah Penyelesaian:**
+  1. Kurangi diskon 30%: 450.000 × 0,70 = 315.000.
+  2. Tambahkan PPN 11%: 315.000 × 1,11 = 349.650, lalu kurangi kupon 5%: 349.650 × 0,95 ≈ Rp332.168.
 
 ---
 
@@ -1485,6 +1823,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 85**: A=Rp725.000.000 (benar); B=Rp720.000.000; C=Rp575.000.000; D=Rp650.000.000. Kunci **A**.
+- **Konsep kunci:** Bunga sederhana dikalikan dengan jumlah tahun, lalu dijumlahkan dengan pokok.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga 5 tahun: 5 × 9% × 500.000.000 = 225.000.000.
+  2. Tambahkan ke pokok: 500.000.000 + 225.000.000 = Rp725.000.000.
 
 ---
 
@@ -1504,6 +1846,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 86**: A=Rp1.875.000; B=Rp1.250.000; C=Rp2.500.000; D=Rp1.500.000 (benar). Kunci **D**.
+- **Konsep kunci:** Pajak dikurangi dulu dari hadiah, baru sisanya dibagi sesuai perbandingan.
+- **Langkah Penyelesaian:**
+  1. Kurangi pajak 25%: 5.000.000 × 0,75 = 3.750.000.
+  2. Jumlahkan bagian (4+3+2+1=10), bagian Sari = (4/10) × 3.750.000 = Rp1.500.000.
 
 ---
 
@@ -1523,6 +1869,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 87**: A=Rp230.000; B=Rp235.300 (benar); C=Rp232.000; D=Rp240.000. Kunci **B**.
+- **Konsep kunci:** Beberapa biaya tambahan (asuransi, PPN ongkos kirim) dijumlahkan ke harga dan ongkir.
+- **Langkah Penyelesaian:**
+  1. Hitung asuransi: 1% × 200.000 = 2.000, dan PPN ongkir: 11% × 30.000 = 3.300.
+  2. Jumlahkan semua: 200.000 + 30.000 + 2.000 + 3.300 = Rp235.300.
 
 ---
 
@@ -1542,6 +1892,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 88**: A=Rp115.000; B=Rp120.000; C=Rp125.000 (benar); D=Rp140.000. Kunci **C**.
+- **Konsep kunci:** Untung% berbeda untuk tiap jumlah pembelian, dihitung terpisah lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung uang dari Andi (beli 1, untung 40%): 25.000 × 1,40 = 35.000.
+  2. Hitung uang dari Sari (beli 3, untung 20% per buah): 25.000 × 1,20 × 3 = 90.000, jumlahkan = Rp125.000.
 
 ---
 
@@ -1561,6 +1915,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 89**: A=Rp1.700.000; B=Rp1.800.000; C=Rp2.165.000 (benar); D=Rp2.090.000. Kunci **C**.
+- **Konsep kunci:** Pajak dikurangi dulu, sisanya dibagi ke beberapa bank, lalu bunga tiap bank dihitung terpisah.
+- **Langkah Penyelesaian:**
+  1. Kurangi pajak 5%: 30.000.000 × 0,95 = 28.500.000, sisa bank C = 28.500.000 − 20.000.000 = 8.500.000.
+  2. Hitung bunga tiap bank (600.000 + 800.000 + 9%×8.500.000=765.000) lalu jumlahkan = Rp2.165.000.
 
 ---
 
@@ -1580,6 +1938,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 90**: A=Rp350.000 (benar); B=Rp360.000; C=Rp355.000; D=Rp345.000. Kunci **A**.
+- **Konsep kunci:** Setiap kali ada penarikan, bunga fase berikutnya dihitung dari saldo sisa yang baru.
+- **Langkah Penyelesaian:**
+  1. Fase 1: bunga (6/12)×10%×600.000=30.000, tarik 200.000, sisa 430.000.
+  2. Fase 2 & 3: hitung bunga dari saldo yang tersisa tiap fase setelah ditarik, hingga saldo akhir ≈ Rp350.000.
 
 ---
 
@@ -1599,6 +1961,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 91**: A=Rp500.000; B=Rp520.000; C=Rp490.176 (benar); D=Rp528.000. Kunci **C**.
+- **Konsep kunci:** Total belanja grosir dihitung dulu, baru diskon dan PPN diterapkan berurutan.
+- **Langkah Penyelesaian:**
+  1. Hitung total belanja: 5 × 24 × 4.000 = 480.000.
+  2. Kurangi diskon 8%: 480.000 × 0,92 = 441.600, lalu tambah PPN 11%: 441.600 × 1,11 ≈ Rp490.176.
 
 ---
 
@@ -1618,6 +1984,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 92**: A=Rp2.300.000; B=Rp2.437.500 (benar); C=Rp2.250.000; D=Rp2.500.000. Kunci **B**.
+- **Konsep kunci:** Pajak dikurangi dulu dari pendapatan, baru sisanya dibagi sesuai persentase.
+- **Langkah Penyelesaian:**
+  1. Kurangi pajak 2,5%: 10.000.000 × 0,975 = 9.750.000.
+  2. Ambil 25% untuk tabungan: 25% × 9.750.000 = Rp2.437.500.
 
 ---
 
@@ -1637,6 +2007,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 93**: A=Rp480.000; B=Rp500.000; C=Rp450.000; D=Rp524.000 (benar). Kunci **D**.
+- **Konsep kunci:** Setiap fase 3 bulan: hitung bunga dulu, baru ambil 1/4 saldo untuk jajan.
+- **Langkah Penyelesaian:**
+  1. Tiap fase: tambahkan bunga (3/12)×10% ke saldo, lalu kurangi 1/4 dari saldo tersebut.
+  2. Ulangi langkah ini 4 kali (4 fase) hingga didapat saldo akhir ≈ Rp524.000.
 
 ---
 
@@ -1656,6 +2030,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 94**: A=Rp2.000.000; B=Rp2.480.000 (benar); C=Rp2.500.000; D=Rugi Rp2.520.000. Kunci **B**.
+- **Konsep kunci:** Pajak usaha dihitung dari omzet, dan modal peralatan (aset) tidak dihitung sebagai biaya bulan ini.
+- **Langkah Penyelesaian:**
+  1. Hitung pajak: 0,5% × 4.000.000 = 20.000.
+  2. Untung = pendapatan − bahan baku − pajak = 4.000.000 − 1.500.000 − 20.000 = Rp2.480.000.
 
 ---
 
@@ -1675,6 +2053,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 95**: A=Rp600.000/bln & total Rp3.690.000 (benar); B=Rp600.000/bln & total Rp3.600.000; C=Rp615.000/bln & total Rp3.690.000; D=Rp650.000/bln & total Rp3.900.000. Kunci **A**.
+- **Konsep kunci:** Cicilan dibagi rata per bulan, dan biaya admin dihitung terpisah dari harga barang.
+- **Langkah Penyelesaian:**
+  1. Bagi harga dengan lama cicilan: 3.600.000 ÷ 6 = Rp600.000 per bulan.
+  2. Tambahkan biaya admin 2,5%: 3.600.000 + (2,5% × 3.600.000) = Rp3.690.000.
 
 ---
 
@@ -1694,6 +2076,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 96**: A=10%; B=15%; C=12,5%; D=16,67% (benar). Kunci **D**.
+- **Konsep kunci:** Saat barang dijual dengan dua harga berbeda, jumlahkan semua pendapatan dulu baru cari untung%.
+- **Langkah Penyelesaian:**
+  1. Hitung pendapatan gabungan: (4 × 25.000) + (8 × 22.500) = 280.000.
+  2. Cari untung (280.000−240.000=40.000) lalu %untung: (40.000/240.000) × 100% ≈ 16,67%.
 
 ---
 
@@ -1713,6 +2099,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 97**: A=Rp5.000; B=Rp6.000 (benar); C=Rp10.000; D=Rp4.000. Kunci **B**.
+- **Konsep kunci:** Mark-up menentukan harga jual, lalu diskon dihitung dari harga itu untuk cari untung penjual.
+- **Langkah Penyelesaian:**
+  1. Hitung harga jual setelah mark-up: 50.000 × 1,60 = 80.000.
+  2. Kurangi diskon 30%: 80.000 × 0,70 = 56.000, untung = 56.000 − 50.000 = Rp6.000.
 
 ---
 
@@ -1732,6 +2122,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 98**: A=Rp690.000 (benar); B=Rp700.000; C=Rp680.000; D=Rp720.000. Kunci **A**.
+- **Konsep kunci:** Bunga, setoran rutin, dan penarikan rutin dijumlah/kurangkan sesuai urutannya.
+- **Langkah Penyelesaian:**
+  1. Hitung bunga (6%×500.000=30.000) dan total setoran (12×30.000=360.000).
+  2. Kurangi total tarikan (4×50.000=200.000): 500.000+30.000+360.000−200.000 = Rp690.000.
 
 ---
 
@@ -1751,6 +2145,10 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 99**: A=Rp8.500.000; B=Rp7.200.000; C=Rp8.700.000 (benar); D=Rp9.000.000. Kunci **C**.
+- **Konsep kunci:** Untung usaha dibagi sesuai perbandingan modal, lalu bonus ditambahkan terpisah.
+- **Langkah Penyelesaian:**
+  1. Hitung bagian untung Pak Hadi: (3/5) × 12.000.000 = 7.200.000.
+  2. Tambahkan bonus pengelola: 7.200.000 + 1.500.000 = Rp8.700.000.
 
 ---
 
@@ -1770,6 +2168,11 @@ Pedagang sering:
 ---
 
 > **Catatan koreksi soal 100**: A=Rp11.000.000; B=Rp12.000.000; C=Rp11.200.000; D=Rp11.849.600 (benar). Kunci **D**.
+- **Konsep kunci:** Untung dan rugi bertingkat dihitung berurutan, saldo bulan sebelumnya jadi dasar bulan berikutnya.
+- **Langkah Penyelesaian:**
+  1. Bulan 1 (untung 15%): 10.000.000 × 1,15 = 11.500.000.
+  2. Bulan 2 (untung 12%): 11.500.000 × 1,12 = 12.880.000.
+  3. Bulan 3 (rugi 8%): 12.880.000 × 0,92 = Rp11.849.600.
 
 ---
 

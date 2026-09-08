@@ -93,6 +93,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 12.000 = mengambil 2 digit terakhir saja (135 − 120 = 15, lalu salah hitung).
 - **C** — Benar. U = HJ − M = 135.000 − 120.000 = **Rp 15.000**. ✅
 - **D** — Rp 20.000 = salah hitung (mungkin 140.000 − 120.000).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 135.000.
+  2. Untung: 135.000 − 120.000 = Rp 15.000.
 
 ---
 
@@ -108,6 +112,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 12.000 = salah hitung pengurangan (58 − 46).
 - **C** — Rp 14.000 = salah hitung (mungkin 59 − 45).
 - **D** — Rp 103.000 = HJ + M, bukan selisih. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 58.000.
+  2. Untung: 58.000 − 45.000 = Rp 13.000.
 
 ---
 
@@ -123,6 +131,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 14.000 = salah kurang.
 - **C** — Rp 12.000 = salah kurang.
 - **D** — Benar. U = 75.000 − 60.000 = **Rp 15.000**. ✅
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 75.000.
+  2. Untung: 75.000 − 60.000 = Rp 15.000.
 
 ---
 
@@ -138,6 +150,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 11.000 − 8.000 = **Rp 3.000**. ✅
 - **C** — Rp 2.000 = salah hitung (10 − 8).
 - **D** — Rp 19.000 = HJ + M. Salah operasi (jumlah, bukan selisih).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 11.000.
+  2. Untung: 11.000 − 8.000 = Rp 3.000.
 
 ---
 
@@ -153,6 +169,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 6.000 = salah hitung (31 − 25).
 - **C** — Rp 8.000 = salah hitung (33 − 25).
 - **D** — Rp 57.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 32.000.
+  2. Untung: 32.000 − 25.000 = Rp 7.000.
 
 ---
 
@@ -168,6 +188,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 70.000 = salah hitung (410 − 340).
 - **C** — Benar. U = 410.000 − 350.000 = **Rp 60.000**. ✅
 - **D** — Rp 760.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 410.000.
+  2. Untung: 410.000 − 350.000 = Rp 60.000.
 
 ---
 
@@ -183,6 +207,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 35.000 − 28.000 = **Rp 7.000**. ✅
 - **C** — Rp 6.000 = salah hitung (34 − 28).
 - **D** — Rp 5.000 = salah hitung (33 − 28).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 35.000.
+  2. Untung: 35.000 − 28.000 = Rp 7.000.
 
 ---
 
@@ -198,6 +226,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 8.000 = salah identifikasi dan salah hitung.
 - **C** — Rugi Rp 8.000 = salah hitung (90 − 82).
 - **D** — Benar. M > HJ → rugi. R = 90.000 − 78.000 = **Rp 12.000**. ✅
+- **Konsep kunci:** Rugi terjadi saat harga jual lebih kecil dari modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 78.000 lebih kecil dari modal Rp 90.000 → rugi.
+  2. Rugi: 90.000 − 78.000 = Rp 12.000.
 
 ---
 
@@ -213,6 +245,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 10.000 = salah identifikasi dan salah hitung.
 - **C** — Rugi Rp 10.000 = salah hitung (75 − 65).
 - **D** — Benar. R = 75.000 − 60.000 = **Rp 15.000**. ✅
+- **Konsep kunci:** Rugi = modal dikurangi harga jual.
+- **Langkah Penyelesaian:**
+  1. Modal Rp 75.000, harga jual Rp 60.000 → rugi.
+  2. Rugi: 75.000 − 60.000 = Rp 15.000.
 
 ---
 
@@ -228,6 +264,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 8.000 = salah hitung (46 − 38).
 - **C** — Benar. R = 45.000 − 38.000 = **Rp 7.000**. ✅
 - **D** — Rp 83.000 = M + HJ. Salah operasi.
+- **Konsep kunci:** Rugi = modal dikurangi harga jual.
+- **Langkah Penyelesaian:**
+  1. Modal Rp 45.000, harga jual Rp 38.000 → rugi.
+  2. Rugi: 45.000 − 38.000 = Rp 7.000.
 
 ---
 
@@ -243,6 +283,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. R = 1.500.000 − 1.350.000 = **Rp 150.000**. ✅
 - **C** — Untung Rp 100.000 = salah identifikasi dan salah hitung.
 - **D** — Rugi Rp 200.000 = salah hitung (1.550 − 1.350).
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Modal Rp 1.500.000, harga jual Rp 1.350.000 → rugi.
+  2. Rugi: 1.500.000 − 1.350.000 = Rp 150.000.
 
 ---
 
@@ -258,6 +302,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 9.000 = salah hitung (41 − 32).
 - **C** — Rp 7.000 = salah hitung (39 − 32).
 - **D** — Benar. R = 40.000 − 32.000 = **Rp 8.000**. ✅
+- **Konsep kunci:** Rugi = modal dikurangi uang yang diterima.
+- **Langkah Penyelesaian:**
+  1. Uang diterima: Rp 32.000.
+  2. Rugi: 40.000 − 32.000 = Rp 8.000.
 
 ---
 
@@ -273,6 +321,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 14.000 = salah hitung (79 − 65).
 - **C** — Rp 12.000 = salah hitung (77 − 65).
 - **D** — Rp 143.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 78.000.
+  2. Untung: 78.000 − 65.000 = Rp 13.000.
 
 ---
 
@@ -288,6 +340,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 13.000 = salah hitung (93 − 80).
 - **C** — Benar. U = 95.000 − 80.000 = **Rp 15.000**. ✅
 - **D** — Rp 20.000 = salah hitung (100 − 80).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 95.000.
+  2. Untung: 95.000 − 80.000 = Rp 15.000.
 
 ---
 
@@ -303,6 +359,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. M = HJ − U = 25.000 − 7.000 = **Rp 18.000**. ✅
 - **C** — Rp 17.000 = salah hitung (25 − 8).
 - **D** — Rp 19.000 = salah hitung (25 − 6).
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 25.000 − 7.000 = Rp 18.000.
 
 ---
 
@@ -318,6 +377,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 410.000 = salah hitung (450 − 40).
 - **C** — Rp 500.000 = HJ + U. Salah operasi.
 - **D** — Rp 350.000 = salah hitung (450 − 100).
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 450.000 − 50.000 = Rp 400.000.
 
 ---
 
@@ -333,6 +395,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 65.000 = sama dengan HJ. Tidak masuk akal kalau ada rugi.
 - **C** — Rp 58.000 = salah hitung (66 − 8).
 - **D** — Benar. M = HJ + R = 65.000 + 8.000 = **Rp 73.000**. ✅
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 65.000 + 8.000 = Rp 73.000.
 
 ---
 
@@ -348,6 +413,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 115.000 = salah hitung (120 − 5).
 - **C** — Rp 125.000 = salah hitung (120 + 5).
 - **D** — Benar. M = HJ + R = 120.000 + 15.000 = **Rp 135.000**. ✅
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 120.000 + 15.000 = Rp 135.000.
 
 ---
 
@@ -363,6 +431,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 23.000 = salah hitung (18 + 5).
 - **C** — Benar. HJ = M + U = 18.000 + 4.000 = **Rp 22.000**. ✅
 - **D** — Rp 21.000 = salah hitung (18 + 3).
+- **Konsep kunci:** Harga jual = modal ditambah untung.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 18.000 + 4.000 = Rp 22.000.
 
 ---
 
@@ -378,6 +449,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 38.000 = M − U. Salah operasi.
 - **C** — Rp 60.000 = salah hitung (50 + 10).
 - **D** — Rp 72.000 = salah hitung (50 + 22).
+- **Konsep kunci:** Harga jual = modal ditambah untung.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 50.000 + 12.000 = Rp 62.000.
 
 ---
 
@@ -393,6 +467,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 750.000 = salah hitung (800 − 50).
 - **C** — Rp 720.000 = salah hitung (800 − 80).
 - **D** — Benar. HJ = M − R = 800.000 − 75.000 = **Rp 725.000**. ✅
+- **Konsep kunci:** Harga jual rugi = modal dikurangi rugi.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 800.000 − 75.000 = Rp 725.000.
 
 ---
 
@@ -408,6 +485,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 88.000 = salah hitung (90 − 2).
 - **C** — Benar. HJ = M − R = 90.000 − 12.000 = **Rp 78.000**. ✅
 - **D** — Rp 80.000 = salah hitung (90 − 10).
+- **Konsep kunci:** Harga jual rugi = modal dikurangi rugi.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 90.000 − 12.000 = Rp 78.000.
 
 ---
 
@@ -423,6 +503,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 180.000 − 150.000 = **Rp 30.000**. ✅
 - **C** — Rp 35.000 = salah hitung (185 − 150).
 - **D** — Rp 40.000 = salah hitung (190 − 150).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 180.000.
+  2. Untung: 180.000 − 150.000 = Rp 30.000.
 
 ---
 
@@ -438,6 +522,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 7.000 = salah hitung (29 − 22).
 - **C** — Rp 6.000 = salah hitung (28 − 22).
 - **D** — Rp 52.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 30.000.
+  2. Untung: 30.000 − 22.000 = Rp 8.000.
 
 ---
 
@@ -453,6 +541,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 7.000 = salah identifikasi.
 - **C** — Rugi Rp 5.000 = salah hitung (30 − 25).
 - **D** — Benar. R = 32.000 − 25.000 = **Rp 7.000**. ✅
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 25.000 lebih kecil dari modal Rp 32.000 → rugi.
+  2. Rugi: 32.000 − 25.000 = Rp 7.000.
 
 ---
 
@@ -468,6 +560,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 280.000 − 250.000 = **Rp 30.000**. ✅
 - **C** — Rp 40.000 = salah hitung (290 − 250).
 - **D** — Rp 25.000 = salah hitung (275 − 250).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 280.000.
+  2. Untung: 280.000 − 250.000 = Rp 30.000.
 
 ---
 
@@ -483,6 +579,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 25.000 = salah hitung (200 − 175).
 - **C** — Benar. U = 195.000 − 175.000 = **Rp 20.000**. ✅
 - **D** — Rp 10.000 = salah hitung (185 − 175).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 195.000.
+  2. Untung: 195.000 − 175.000 = Rp 20.000.
 
 ---
 
@@ -498,6 +598,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 61.000 = HJ + U. Salah operasi.
 - **C** — Rp 38.000 = salah hitung (48 − 10).
 - **D** — Rp 36.000 = salah hitung (48 − 12).
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 48.000 − 13.000 = Rp 35.000.
 
 ---
 
@@ -513,6 +616,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. M = HJ + R = 55.000 + 8.000 = **Rp 63.000**. ✅
 - **C** — Rp 53.000 = salah hitung (55 − 2).
 - **D** — Rp 57.000 = salah hitung (55 + 2).
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 55.000 + 8.000 = Rp 63.000.
 
 ---
 
@@ -528,6 +634,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 42.000 = salah hitung (35 + 7).
 - **C** — Rp 45.000 = salah hitung (35 + 10).
 - **D** — Benar. HJ = M + U = 35.000 + 9.000 = **Rp 44.000**. ✅
+- **Konsep kunci:** Harga jual = modal ditambah untung.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 35.000 + 9.000 = Rp 44.000.
 
 ---
 
@@ -543,6 +652,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 113.000 = M + R. Salah operasi.
 - **C** — Rp 87.000 = salah hitung (95 − 8).
 - **D** — Rp 75.000 = salah hitung (95 − 20).
+- **Konsep kunci:** Harga jual rugi = modal dikurangi rugi.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 95.000 − 18.000 = Rp 77.000.
 
 ---
 
@@ -558,6 +670,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 30.000 = salah hitung (100 − 70).
 - **C** — Benar. U = 95.000 − 70.000 = **Rp 25.000**. ✅
 - **D** — Rp 165.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual seluruhnya dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 95.000.
+  2. Untung: 95.000 − 70.000 = Rp 25.000.
 
 ---
 
@@ -573,6 +689,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rugi Rp 5.000 = salah hitung (55 − 50).
 - **C** — Untung Rp 5.000 = salah identifikasi.
 - **D** — Benar. R = 60.000 − 50.000 = **Rp 10.000**. ✅
+- **Konsep kunci:** Rugi saat penjualan di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Uang diterima Rp 50.000 lebih kecil dari modal Rp 60.000 → rugi.
+  2. Rugi: 60.000 − 50.000 = Rp 10.000.
 
 ---
 
@@ -588,6 +708,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 125.000 − 110.000 = **Rp 15.000**. ✅
 - **C** — Rp 20.000 = salah hitung (130 − 110).
 - **D** — Rp 25.000 = salah hitung (135 − 110).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 125.000.
+  2. Untung: 125.000 − 110.000 = Rp 15.000.
 
 ---
 
@@ -603,6 +727,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 1.400.000 = HJ + U. Salah operasi.
 - **C** — Rp 1.100.000 = salah hitung (1.200 − 100).
 - **D** — Rp 1.300.000 = salah hitung (1.200 + 100).
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 1.200.000 − 200.000 = Rp 1.000.000.
 
 ---
 
@@ -618,6 +745,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 85.000 = sama dengan HJ. Mustahil kalau rugi.
 - **C** — Benar. M = HJ + R = 85.000 + 15.000 = **Rp 100.000**. ✅
 - **D** — Rp 90.000 = salah hitung (85 + 5).
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 85.000 + 15.000 = Rp 100.000.
 
 ---
 
@@ -633,6 +763,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. HJ = M + U = 15.000 + 3.000 = **Rp 18.000**. ✅
 - **C** — Rp 13.000 = salah hitung (15 − 2).
 - **D** — Rp 17.000 = salah hitung (15 + 2).
+- **Konsep kunci:** Harga jual = modal ditambah untung.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 15.000 + 3.000 = Rp 18.000.
 
 ---
 
@@ -648,6 +781,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 300.000 = salah identifikasi.
 - **C** — Rugi Rp 200.000 = salah hitung (5.000 − 4.800).
 - **D** — Benar. R = 5.000.000 − 4.700.000 = **Rp 300.000**. ✅
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 4.700.000 lebih kecil dari modal Rp 5.000.000 → rugi.
+  2. Rugi: 5.000.000 − 4.700.000 = Rp 300.000.
 
 ---
 
@@ -663,6 +800,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 6.000 = salah hitung (34 − 28).
 - **C** — Benar. U = 36.000 − 28.000 = **Rp 8.000**. ✅
 - **D** — Rp 64.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 36.000.
+  2. Untung: 36.000 − 28.000 = Rp 8.000.
 
 ---
 
@@ -678,6 +819,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 5.000 = salah hitung (29 − 24).
 - **C** — Rp 7.000 = salah hitung (31 − 24).
 - **D** — Rp 4.000 = salah hitung (28 − 24).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 30.000.
+  2. Untung: 30.000 − 24.000 = Rp 6.000.
 
 ---
 
@@ -693,6 +838,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U = 68.000 − 56.000 = **Rp 12.000**. ✅
 - **C** — Rp 14.000 = salah hitung (70 − 56).
 - **D** — Rp 124.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual seluruhnya dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 68.000.
+  2. Untung: 68.000 − 56.000 = Rp 12.000.
 
 ---
 
@@ -708,6 +857,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 22.000.000 = salah hitung (25 − 3).
 - **C** — Rp 20.000.000 = salah hitung (25 − 5).
 - **D** — Benar. M = HJ − U = 25.000.000 − 4.000.000 = **Rp 21.000.000**. ✅
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 25.000.000 − 4.000.000 = Rp 21.000.000.
 
 ---
 
@@ -723,6 +875,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 15.000 = salah hitung (93 − 78).
 - **C** — Rp 16.000 = salah hitung (94 − 78).
 - **D** — Rp 13.000 = salah hitung (91 − 78).
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 92.000.
+  2. Untung: 92.000 − 78.000 = Rp 14.000.
 
 ---
 
@@ -738,6 +894,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 14.000 = salah hitung (59 − 45).
 - **C** — Benar. U = 58.000 − 45.000 = **Rp 13.000**. ✅
 - **D** — Rp 103.000 = HJ + M. Salah operasi.
+- **Konsep kunci:** Untung = harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 58.000.
+  2. Untung: 58.000 − 45.000 = Rp 13.000.
 
 ---
 
@@ -753,6 +913,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. R = 40.000 − 35.000 = **Rp 5.000**. ✅
 - **C** — Untung Rp 10.000 = salah identifikasi dan salah hitung.
 - **D** — Rugi Rp 10.000 = salah hitung (45 − 35).
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 35.000 lebih kecil dari modal Rp 40.000 → rugi.
+  2. Rugi: 40.000 − 35.000 = Rp 5.000.
 
 ---
 
@@ -768,6 +932,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 4.000 = salah identifikasi dan salah hitung.
 - **C** — Rugi Rp 4.000 = salah hitung (30 − 26).
 - **D** — Benar. R = 32.000 − 26.000 = **Rp 6.000**. ✅
+- **Konsep kunci:** Rugi = modal dikurangi harga jual.
+- **Langkah Penyelesaian:**
+  1. Modal Rp 32.000, harga jual Rp 26.000 → rugi.
+  2. Rugi: 32.000 − 26.000 = Rp 6.000.
 
 ---
 
@@ -783,6 +951,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 320.000 = HJ + U. Salah operasi.
 - **C** — Rp 200.000 = salah hitung (250 − 50).
 - **D** — Rp 170.000 = salah hitung (250 − 80).
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 250.000 − 70.000 = Rp 180.000.
 
 ---
 
@@ -798,6 +969,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 9.500.000 = sama dengan HJ. Mustahil kalau rugi.
 - **C** — Benar. M = HJ + R = 9.500.000 + 500.000 = **Rp 10.000.000**. ✅
 - **D** — Rp 8.500.000 = salah operasi besar (9.500 − 1.000).
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 9.500.000 + 500.000 = Rp 10.000.000.
 
 ---
 
@@ -813,6 +987,9 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. HJ = M + U = 750.000 + 120.000 = **Rp 870.000**. ✅
 - **C** — Rp 860.000 = salah hitung (750 + 110).
 - **D** — Rp 880.000 = salah hitung (750 + 130).
+- **Konsep kunci:** Harga jual = modal ditambah untung.
+- **Langkah Penyelesaian:**
+  1. Harga jual: 750.000 + 120.000 = Rp 870.000.
 
 ---
 
@@ -828,6 +1005,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Untung Rp 150.000 = salah identifikasi dan salah hitung.
 - **C** — Rugi Rp 150.000 = salah hitung (3.100 − 2.950).
 - **D** — Benar. R = 3.200.000 − 2.950.000 = **Rp 250.000**. ✅
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 2.950.000 lebih kecil dari modal Rp 3.200.000 → rugi.
+  2. Rugi: 3.200.000 − 2.950.000 = Rp 250.000.
 
 ---
 
@@ -845,6 +1026,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 2.000 = salah hitung (24.000 ÷ 12).
 - **C** — Rp 4.000 = salah hitung (48.000 ÷ 12).
 - **D** — Rp 5.000 = salah hitung (60.000 ÷ 12).
+- **Konsep kunci:** Untung per kilogram = untung total dibagi berat.
+- **Langkah Penyelesaian:**
+  1. Untung total: 132.000 − 96.000 = Rp 36.000.
+  2. Untung per kg: 36.000 ÷ 12 = Rp 3.000.
 
 ---
 
@@ -860,6 +1045,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 16.000 = salah hitung (80 − 64).
 - **C** — Benar. HJ total = 8 × 12.000 = 96.000. U = 96.000 − 64.000 = **Rp 32.000**. ✅
 - **D** — Rp 40.000 = salah hitung (104 − 64).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 8 × 12.000 = Rp 96.000.
+  2. Untung: 96.000 − 64.000 = Rp 32.000.
 
 ---
 
@@ -875,6 +1064,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 6.000 = salah hitung (60.000 ÷ 10).
 - **C** — Rp 8.000 = salah hitung (80.000 ÷ 10).
 - **D** — Benar. U total = 270.000 − 200.000 = 70.000. Per bungkus = 70.000 ÷ 10 = **Rp 7.000**. ✅
+- **Konsep kunci:** Untung per bungkus = untung total dibagi jumlah bungkus.
+- **Langkah Penyelesaian:**
+  1. Untung total: 270.000 − 200.000 = Rp 70.000.
+  2. Untung per bungkus: 70.000 ÷ 10 = Rp 7.000.
 
 ---
 
@@ -890,6 +1083,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Benar. U total = 720.000 − 600.000 = 120.000. Per ekor = 120.000 ÷ 15 = **Rp 8.000**. ✅
 - **C** — Rp 7.000 = salah hitung (105.000 ÷ 15).
 - **D** — Rp 10.000 = salah hitung (150.000 ÷ 15).
+- **Konsep kunci:** Untung per ekor = untung total dibagi jumlah ekor.
+- **Langkah Penyelesaian:**
+  1. Untung total: 720.000 − 600.000 = Rp 120.000.
+  2. Untung per ekor: 120.000 ÷ 15 = Rp 8.000.
 
 ---
 
@@ -905,6 +1102,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 15.000 = HJ/kg sama dengan modal/kg. Salah, belum tambah untung.
 - **C** — Rp 20.000 = salah hitung (120.000 ÷ 6).
 - **D** — Rp 16.000 = salah hitung (96.000 ÷ 6).
+- **Konsep kunci:** Harga jual per kg = (modal + untung) dibagi berat.
+- **Langkah Penyelesaian:**
+  1. Harga jual total: 90.000 + 18.000 = Rp 108.000.
+  2. Harga jual per kg: 108.000 ÷ 6 = Rp 18.000.
 
 ---
 
@@ -920,6 +1121,10 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 - **B** — Rp 450.000 = salah hitung (2.550 − 2.100).
 - **C** — Rp 500.000 = salah hitung (2.600 − 2.100).
 - **D** — Benar. R = 2.500.000 − 2.100.000 = **Rp 400.000**. ✅
+- **Konsep kunci:** Rugi rupiah = modal dikurangi harga jual.
+- **Langkah Penyelesaian:**
+  1. Harga jual: Rp 2.100.000.
+  2. Rugi: 2.500.000 − 2.100.000 = Rp 400.000.
 
 ---
 
@@ -946,6 +1151,11 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 - **B** — Untung Rp 22.000 = anggap 20 piring laku (180.000 − 150.000). Lupa 2 pecah.
 - **C** — Rugi Rp 12.000 = salah identifikasi. HJ > M, bukan rugi.
 - **D** — Rugi Rp 8.000 = salah hitung.
+- **Konsep kunci:** Sedikit barang pecah belum tentu rugi: bandingkan dulu total harga jual dengan modal.
+- **Langkah Penyelesaian:**
+  1. Piring yang laku: 20 − 2 = 18 piring.
+  2. Total harga jual: 18 × 9.000 = Rp 162.000.
+  3. Karena 162.000 > 150.000 → untung 12.000.
 
 ---
 
@@ -961,6 +1171,10 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 - **B** — Benar. HJ total = 4 × 1.750.000 = 7.000.000. U = 7.000.000 − 6.000.000 = **Rp 1.000.000**. ✅
 - **C** — Rp 1.250.000 = salah hitung (7.250 − 6.000).
 - **D** — Rp 500.000 = U dibagi 2.
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 4 × 1.750.000 = Rp 7.000.000.
+  2. Untung: 7.000.000 − 6.000.000 = Rp 1.000.000.
 
 ---
 
@@ -976,6 +1190,10 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 - **B** — Rp 10.000 = salah hitung (70.000 − 60.000).
 - **C** — Rp 12.500 = salah hitung.
 - **D** — Rp 20.000 = salah hitung (80.000 − 60.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 30 × 2.500 = Rp 75.000.
+  2. Untung: 75.000 − 60.000 = Rp 15.000.
 
 ---
 
@@ -991,6 +1209,10 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 - **B** — Rp 50.000 = salah hitung (250.000 − 200.000).
 - **C** — Benar. HJ total = 25 × 12.000 = 300.000. U = 300.000 − 200.000 = **Rp 100.000**. ✅
 - **D** — Rp 80.000 = salah hitung (280.000 − 200.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 25 × 12.000 = Rp 300.000.
+  2. Untung: 300.000 − 200.000 = Rp 100.000.
 
 ---
 
@@ -1006,6 +1228,10 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 - **B** — Benar. M total = 850.000 + 100.000 = 950.000. U = 1.100.000 − 950.000 = **Rp 150.000**. ✅
 - **C** — Rp 50.000 = salah hitung (1.000 − 950).
 - **D** — Rp 350.000 = salah hitung (1.200 − 850).
+- **Konsep kunci:** Biaya perbaikan termasuk modal tambahan.
+- **Langkah Penyelesaian:**
+  1. Modal total: 850.000 + 100.000 = Rp 950.000.
+  2. Untung: 1.100.000 − 950.000 = Rp 150.000.
 
 ---
 
@@ -1030,6 +1256,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Untung Rp 24.000 = anggap 2 lusin = 48 atau salah hitung HJ.
 - **C** — Rugi Rp 24.000 = salah identifikasi.
 - **D** — Rugi Rp 12.000 = salah identifikasi (HJ > M, bukan rugi).
+- **Konsep kunci:** 1 lusin = 12 buah; bandingkan total harga jual dengan modal.
+- **Langkah Penyelesaian:**
+  1. 2 lusin = 24 pensil; total harga jual 24 × 2.000 = Rp 48.000.
+  2. Karena 48.000 > 36.000 → untung Rp 12.000.
 
 ---
 
@@ -1045,6 +1275,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Untung Rp 17.000.000 = salah identifikasi; uang yang baru masuk lebih kecil dari modal.
 - **C** — Rugi Rp 33.000.000 = anggap modal 0 (salah).
 - **D** — Untung Rp 33.000.000 = salah identifikasi total; itu HJ, bukan untung.
+- **Konsep kunci:** Untung/rugi sementara: yang dihitung hanya uang yang sudah masuk.
+- **Langkah Penyelesaian:**
+  1. Sudah diterima: Rp 33.000.000 (3 ekor).
+  2. Rugi sementara: 50.000.000 − 33.000.000 = Rp 17.000.000.
 
 ---
 
@@ -1060,6 +1294,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Rp 30.000 = salah hitung (130.000 − 100.000).
 - **C** — Benar. HJ total = 50 × 2.500 = 125.000. U = 125.000 − 100.000 = **Rp 25.000**. ✅
 - **D** — Rp 50.000 = salah hitung (150.000 − 100.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 50 × 2.500 = Rp 125.000.
+  2. Untung: 125.000 − 100.000 = Rp 25.000.
 
 ---
 
@@ -1075,6 +1313,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Benar. M total = 8.500.000 + 500.000 = 9.000.000. R = 9.000.000 − 8.700.000 = **Rp 300.000**. ✅
 - **C** — Untung Rp 700.000 = salah hitung.
 - **D** — Rugi Rp 200.000 = salah hitung (8.900 − 8.700).
+- **Konsep kunci:** Biaya servis termasuk modal tambahan.
+- **Langkah Penyelesaian:**
+  1. Modal total: 8.500.000 + 500.000 = Rp 9.000.000.
+  2. Karena 8.700.000 < 9.000.000 → rugi Rp 300.000.
 
 ---
 
@@ -1090,6 +1332,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Rp 20.000 = salah hitung (110.000 − 90.000).
 - **C** — Rp 12.000 = salah hitung (102.000 − 90.000).
 - **D** — Rp 25.000 = salah hitung (115.000 − 90.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 3 × 35.000 = Rp 105.000.
+  2. Untung: 105.000 − 90.000 = Rp 15.000.
 
 ---
 
@@ -1105,6 +1351,9 @@ Maka kunci yang benar adalah **A**.
 - **B** — Rp 1.250.000 = salah hitung (1.500 − 250).
 - **C** — Rp 1.000.000 = salah hitung (1.500 − 500).
 - **D** — Benar. M = HJ − U = 1.500.000 − 350.000 = **Rp 1.150.000**. ✅
+- **Konsep kunci:** Modal = harga jual dikurangi untung.
+- **Langkah Penyelesaian:**
+  1. Modal: 1.500.000 − 350.000 = Rp 1.150.000.
 
 ---
 
@@ -1120,6 +1369,10 @@ Maka kunci yang benar adalah **A**.
 - **B** — Rp 30.000 = salah hitung modal.
 - **C** — Benar. M = 20 × 6.000 = 120.000. U = 160.000 − 120.000 = **Rp 40.000**. ✅
 - **D** — Rp 50.000 = salah hitung modal (20 × 5.500).
+- **Konsep kunci:** Untung = uang yang diterima dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Modal: 20 × 6.000 = Rp 120.000.
+  2. Untung: 160.000 − 120.000 = Rp 40.000.
 
 ---
 
@@ -1145,6 +1398,10 @@ Opsi:
 - **B** — Rp 76.000 = salah hitung modal/HJ.
 - **C** — Rp 144.000 = salah hitung (624 − 480).
 - **D** — Rp 192.000 = anggap 4 lusin = 56 (salah konversi lusin).
+- **Konsep kunci:** 1 lusin = 12 buah; 4 lusin = 48 piring.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 48 × 12.000 = Rp 576.000.
+  2. Untung: 576.000 − 480.000 = Rp 96.000.
 
 Catatan: opsi awal "Rp 96.000 + 0" diabaikan; gunakan opsi terkoreksi di atas.
 
@@ -1162,6 +1419,10 @@ Catatan: opsi awal "Rp 96.000 + 0" diabaikan; gunakan opsi terkoreksi di atas.
 - **B** — Untung Rp 75.000 = salah identifikasi; HJ < M.
 - **C** — Rugi Rp 50.000 = salah hitung (225.000 − 175.000).
 - **D** — Untung Rp 50.000 = salah identifikasi dan salah hitung.
+- **Konsep kunci:** Rugi saat harga jual di bawah modal.
+- **Langkah Penyelesaian:**
+  1. Harga jual Rp 175.000 lebih kecil dari modal Rp 250.000 → rugi.
+  2. Rugi: 250.000 − 175.000 = Rp 75.000.
 
 ---
 
@@ -1177,32 +1438,29 @@ Catatan: opsi awal "Rp 96.000 + 0" diabaikan; gunakan opsi terkoreksi di atas.
 - **B** — Rp 700.000 = salah hitung (2.500 − 1.800).
 - **C** — Rp 200.000 = salah hitung (2.200 − 2.000).
 - **D** — Benar. M total = 1.800.000 + 200.000 = 2.000.000. U = 2.300.000 − 2.000.000 = **Rp 300.000**. ✅
+- **Konsep kunci:** Biaya perbaikan termasuk modal tambahan.
+- **Langkah Penyelesaian:**
+  1. Modal total: 1.800.000 + 200.000 = Rp 2.000.000.
+  2. Untung: 2.300.000 − 2.000.000 = Rp 300.000.
 
 ---
 
 **72.** Bu Tini menjual 15 ekor ayam dengan harga Rp 55.000 per ekor. Modal seluruh ayam Rp 750.000. Untung/rugi Bu Tini adalah ...
 - A. Untung Rp 75.000
 - B. Rugi Rp 75.000
-- C. Untung Rp 75.000 (cek)
-- D. Rugi Rp 50.000
-
-**Kunci: C**
-
-Perbaiki opsi (hindari duplikat):
-- A. Untung Rp 75.000
-- B. Rugi Rp 75.000
 - C. Untung Rp 50.000
 - D. Rugi Rp 50.000
 
-Hitung: HJ total = 15 × 55.000 = 825.000. U = 825.000 − 750.000 = 75.000.
-
 **Kunci: A**
-- **A** — Benar. HJ total = 15 × 55.000 = 825.000. U = 825.000 − 750.000 = **Rp 75.000**. ✅
-- **B** — Rugi Rp 75.000 = salah identifikasi (HJ > M).
-- **C** — Untung Rp 50.000 = salah hitung (800.000 − 750.000).
-- **D** — Rugi Rp 50.000 = salah identifikasi dan salah hitung.
-
-Catatan: kunci final **A** menggantikan teks awal.
+**Pembahasan:**
+- **A benar:** Hasil jual total = 15 × 55.000 = 825.000. Karena hasil jual (825.000) lebih besar dari modal (750.000), Bu Tini untung. Untung = 825.000 − 750.000 = Rp 75.000.
+- **B salah:** Arah selisihnya terbalik — dikira rugi, padahal hasil jual (825.000) lebih besar dari modal (750.000), jadi seharusnya untung, bukan rugi.
+- **C salah:** Salah kali: 15 × 55.000 dihitung seolah 800.000 (bukan 825.000), sehingga selisihnya jadi 50.000 saja.
+- **D salah:** Gabungan dua kesalahan sekaligus — hasil jual dihitung salah jadi 800.000 (bukan 825.000) dan arah selisihnya juga dibalik jadi "rugi", padahal seharusnya untung Rp 75.000.
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 15 × 55.000 = Rp 825.000.
+  2. Untung: 825.000 − 750.000 = Rp 75.000.
 
 ---
 
@@ -1218,6 +1476,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Benar. HJ total = 40 × 6.500 = 260.000. U = 260.000 − 200.000 = **Rp 60.000**. ✅
 - **C** — Rp 80.000 = salah hitung (280.000 − 200.000).
 - **D** — Rp 100.000 = salah hitung (300.000 − 200.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 40 × 6.500 = Rp 260.000.
+  2. Untung: 260.000 − 200.000 = Rp 60.000.
 
 ---
 
@@ -1233,6 +1495,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Rp 350.000 = lupa biaya perbaikan (1.600 − 1.250).
 - **C** — Rp 150.000 = salah operasi (anggap U = biaya perbaikan).
 - **D** — Rp 500.000 = salah hitung (1.750 − 1.250).
+- **Konsep kunci:** Biaya perbaikan termasuk modal tambahan.
+- **Langkah Penyelesaian:**
+  1. Modal total: 1.250.000 + 150.000 = Rp 1.400.000.
+  2. Untung: 1.600.000 − 1.400.000 = Rp 200.000.
 
 ---
 
@@ -1248,6 +1514,9 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Rp 4.000.000 = salah hitung (4.200 − 200).
 - **C** — Rp 4.200.000 = sama dengan HJ. Mustahil rugi.
 - **D** — Benar. M = HJ + R = 4.200.000 + 800.000 = **Rp 5.000.000**. ✅
+- **Konsep kunci:** Modal = harga jual ditambah rugi.
+- **Langkah Penyelesaian:**
+  1. Modal: 4.200.000 + 800.000 = Rp 5.000.000.
 
 ---
 
@@ -1263,6 +1532,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Rp 1.500 = salah hitung (90.000 ÷ 60).
 - **C** — Benar. U total = 360.000 − 240.000 = 120.000. Per buah = 120.000 ÷ 60 = **Rp 2.000**. ✅
 - **D** — Rp 3.000 = salah hitung (180.000 ÷ 60).
+- **Konsep kunci:** Untung per buah = untung total dibagi jumlah buah.
+- **Langkah Penyelesaian:**
+  1. Untung total: 360.000 − 240.000 = Rp 120.000.
+  2. Untung per donat: 120.000 ÷ 60 = Rp 2.000.
 
 ---
 
@@ -1278,6 +1551,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Rp 30.000 = salah hitung (105.000 − 75.000).
 - **C** — Rp 20.000 = salah hitung (95.000 − 75.000).
 - **D** — Rp 15.000 = salah hitung (90.000 − 75.000).
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 25 × 4.000 = Rp 100.000.
+  2. Untung: 100.000 − 75.000 = Rp 25.000.
 
 ---
 
@@ -1293,6 +1570,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Benar. HJ total = 4 × 22.000 = 88.000. R = 100.000 − 88.000 = **Rp 12.000**. ✅
 - **C** — Untung Rp 8.000 = salah identifikasi.
 - **D** — Untung Rp 12.000 = salah identifikasi.
+- **Konsep kunci:** Barang busuk tidak dihitung; bandingkan yang benar-benar laku.
+- **Langkah Penyelesaian:**
+  1. Yang laku: 4 kg × 22.000 = Rp 88.000.
+  2. Karena 88.000 < 100.000 → rugi Rp 12.000.
 
 ---
 
@@ -1308,6 +1589,10 @@ Catatan: kunci final **A** menggantikan teks awal.
 - **B** — Rp 200.000 = salah hitung (3.200 − 3.000).
 - **C** — Rp 250.000 = salah hitung (3.250 − 3.000).
 - **D** — Benar. HJ total = 1.700.000 + 1.450.000 = 3.150.000. U = 3.150.000 − 3.000.000 = **Rp 150.000**. ✅
+- **Konsep kunci:** Untung = total harga jual dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 1.700.000 + 1.450.000 = Rp 3.150.000.
+  2. Untung: 3.150.000 − 3.000.000 = Rp 150.000.
 
 ---
 
@@ -1330,6 +1615,10 @@ Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
 - **B** — Rugi Rp 36.000 = salah identifikasi (HJ > M).
 - **C** — Untung Rp 72.000 = salah hitung (252.000 − 180.000) atau anggap 3 lusin = 42.
 - **D** — Rugi Rp 72.000 = salah identifikasi besar.
+- **Konsep kunci:** 1 lusin = 12 buah; 3 lusin = 36 gelas.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 36 × 6.000 = Rp 216.000.
+  2. Karena 216.000 > 180.000 → untung Rp 36.000.
 
 ---
 
@@ -1347,6 +1636,11 @@ Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
 - **B** — Benar. Transaksi 1: 60 pulpen × 7.000 = 420.000; U₁ = 420.000 − 360.000 = 60.000. Transaksi 2: 120 pulpen × 7.000 = 840.000; U₂ = 840.000 − 720.000 = 120.000. Total = 60.000 + 120.000 = **Rp 180.000**. ✅
 - **C** — Rp 240.000 = salah hitung jumlah pulpen transaksi 2.
 - **D** — Rp 300.000 = anggap HJ per pulpen 7.500.
+- **Konsep kunci:** Untung tiap transaksi dihitung sendiri, lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Transaksi 1: 60 pulpen × 7.000 = 420.000; untung 420.000 − 360.000 = 60.000.
+  2. Transaksi 2: 120 pulpen × 7.000 = 840.000; untung 840.000 − 720.000 = 120.000.
+  3. Total untung: 60.000 + 120.000 = Rp 180.000.
 
 ---
 
@@ -1362,6 +1656,10 @@ Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
 - **B** — Untung Rp 16.000.000 = lupa biaya pakan (96 − 80).
 - **C** — Rugi Rp 8.000.000 = salah identifikasi.
 - **D** — Untung Rp 24.000.000 = salah hitung (104 − 80).
+- **Konsep kunci:** Biaya pakan termasuk modal, jadi untung bersih lebih kecil.
+- **Langkah Penyelesaian:**
+  1. Modal total: 80.000.000 + 8.000.000 = Rp 88.000.000.
+  2. Untung: 96.000.000 − 88.000.000 = Rp 8.000.000.
 
 ---
 
@@ -1377,6 +1675,10 @@ Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
 - **B** — Rp 83.000.000 = M + U saja, lupa biaya tambahan.
 - **C** — Rp 80.000.000 = M + biaya saja, lupa untung.
 - **D** — Benar. M total = 75.000.000 + 5.000.000 + 2.000.000 = 82.000.000. HJ = M + U = 82.000.000 + 8.000.000 = **Rp 90.000.000**. ✅
+- **Konsep kunci:** Semua biaya tambahan termasuk modal.
+- **Langkah Penyelesaian:**
+  1. Modal total: 75.000.000 + 5.000.000 + 2.000.000 = Rp 82.000.000.
+  2. Harga jual = modal + untung: 82.000.000 + 8.000.000 = Rp 90.000.000.
 
 ---
 
@@ -1397,6 +1699,11 @@ Periksa lagi: 85 × 3.000 = 255.000. 255.000 − 240.000 = **15.000**. Berarti k
 - **B** — Rugi Rp 15.000 = salah identifikasi.
 - **C** — Untung Rp 60.000 = anggap 100 butir laku semua (300.000 − 240.000).
 - **D** — Rugi Rp 60.000 = salah identifikasi besar.
+- **Konsep kunci:** Telur pecah tidak laku; yang dihitung hanya telur yang utuh.
+- **Langkah Penyelesaian:**
+  1. Telur laku: 100 − 15 = 85 butir.
+  2. Total harga jual: 85 × 3.000 = Rp 255.000.
+  3. Untung: 255.000 − 240.000 = Rp 15.000.
 
 Catatan: ganti C → A.
 
@@ -1414,6 +1721,10 @@ Catatan: ganti C → A.
 - **B** — Benar. HJ₁ = 30 × 120.000 = 3.600.000; HJ₂ = 20 × 80.000 = 1.600.000; total HJ = 5.200.000. U = 5.200.000 − 5.000.000 = **Rp 200.000**. ✅
 - **C** — Rp 800.000 = salah hitung sisi (5.800 − 5.000).
 - **D** — Rp 1.000.000 = salah hitung.
+- **Konsep kunci:** Bagian baju dijual dengan harga berbeda; jumlahkan lalu bandingkan.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 30 × 120.000 + 20 × 80.000 = 3.600.000 + 1.600.000 = Rp 5.200.000.
+  2. Untung: 5.200.000 − 5.000.000 = Rp 200.000.
 
 ---
 
@@ -1429,6 +1740,10 @@ Catatan: ganti C → A.
 - **B** — Rugi Rp 2.000.000 = salah identifikasi.
 - **C** — Untung Rp 4.000.000 = salah penjumlahan HJ (36.000.000).
 - **D** — Rugi Rp 4.000.000 = salah penjumlahan dan salah identifikasi.
+- **Konsep kunci:** Untung/rugi = total uang masuk dikurangi modal.
+- **Langkah Penyelesaian:**
+  1. Total uang masuk: 9.000.000 + 8.500.000 + 9.500.000 + 7.000.000 = Rp 34.000.000.
+  2. Karena 34.000.000 > 32.000.000 → untung Rp 2.000.000.
 
 ---
 
@@ -1451,30 +1766,31 @@ Periksa lagi: 180.000 + 48.000 = 228.000. 228.000 − 200.000 = 28.000 → **unt
 - **B** — Rugi Rp 28.000 = salah identifikasi.
 - **C** — Rugi Rp 32.000 = salah identifikasi dan salah hitung.
 - **D** — Untung Rp 32.000 = salah hitung HJ₂ (anggap Rp 7.000/kg).
+- **Konsep kunci:** Mangga hampir busuk dijual lebih murah; jumlahkan semua pemasukan.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 12 × 15.000 + 8 × 6.000 = 180.000 + 48.000 = Rp 228.000.
+  2. Untung: 228.000 − 200.000 = Rp 28.000.
 
 Catatan: ganti C → A.
 
 ---
 
 **88.** Pak Heru membeli 100 kg beras dengan modal Rp 1.000.000. Ia menjual 70 kg dengan harga Rp 12.000/kg dan sisa 30 kg karena lembab dijual Rp 8.000/kg. Untung/rugi Pak Heru adalah ...
-- A. Rugi Rp 80.000
-- B. Untung Rp 80.000
-- C. Rugi Rp 200.000
-- D. Untung Rp 80.000 (cek)
-
-Perbaiki opsi (hindari duplikat):
 - A. Untung Rp 80.000
 - B. Rugi Rp 80.000
 - C. Untung Rp 120.000
 - D. Rugi Rp 120.000
 
-Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1.080.000. U = 1.080.000 − 1.000.000 = 80.000.
-
 **Kunci: A**
-- **A** — Benar. HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total HJ = 1.080.000. U = 1.080.000 − 1.000.000 = **Rp 80.000**. ✅
-- **B** — Rugi Rp 80.000 = salah identifikasi.
-- **C** — Untung Rp 120.000 = salah hitung (1.120 − 1.000).
-- **D** — Rugi Rp 120.000 = salah identifikasi dan salah hitung.
+**Pembahasan:**
+- **A benar:** HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total hasil jual = 1.080.000. Untung = 1.080.000 − 1.000.000 = Rp 80.000.
+- **B salah:** Harga tertukar antar kedua kelompok beras — 70 kg dihitung dengan harga Rp 8.000 dan 30 kg dengan harga Rp 12.000 (kebalikan dari soal): 70 × 8.000 + 30 × 12.000 = 560.000 + 360.000 = 920.000, di bawah modal, sehingga dianggap rugi Rp 80.000.
+- **C salah:** Total hasil jual dihitung kebesaran (ada salah kali di salah satu kelompok), sehingga selisihnya dianggap untung Rp 120.000 — padahal hasil jual yang benar hanya Rp 1.080.000, jadi untungnya Rp 80.000.
+- **D salah:** Sama seperti kesalahan di C (hasil jual dihitung kebesaran), tapi arah untung/rugi-nya juga dibalik jadi "rugi", padahal hasil jual (1.080.000) tetap lebih besar dari modal (1.000.000) sehingga seharusnya untung.
+- **Konsep kunci:** Beras lembab dijual murah; jumlahkan semua pemasukan.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 70 × 12.000 + 30 × 8.000 = 840.000 + 240.000 = Rp 1.080.000.
+  2. Untung: 1.080.000 − 1.000.000 = Rp 80.000.
 
 ---
 
@@ -1490,6 +1806,10 @@ Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1
 - **B** — Rp 200.000 = salah hitung HJ₂ (anggap Rp 2.000).
 - **C** — Rp 250.000 = salah penjumlahan.
 - **D** — Rp 400.000 = anggap semua laku Rp 5.000 (1.000 − 600).
+- **Konsep kunci:** Sisa kue didiskon; jumlahkan semua pemasukan.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 150 × 5.000 + 50 × 3.000 = 750.000 + 150.000 = Rp 900.000.
+  2. Untung: 900.000 − 600.000 = Rp 300.000.
 
 ---
 
@@ -1505,6 +1825,10 @@ Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1
 - **B** — Benar. M total = 6.000.000 + 250.000 + 350.000 + 400.000 = 7.000.000. U = 7.500.000 − 7.000.000 = **Rp 500.000**. ✅
 - **C** — Rp 1.000.000 = lupa sebagian biaya (sisa M = 6.500.000).
 - **D** — Rp 250.000 = anggap salah satu biaya (hanya cat).
+- **Konsep kunci:** Semua biaya perbaikan termasuk modal.
+- **Langkah Penyelesaian:**
+  1. Modal total: 6.000.000 + 250.000 + 350.000 + 400.000 = Rp 7.000.000.
+  2. Untung: 7.500.000 − 7.000.000 = Rp 500.000.
 
 ---
 
@@ -1520,6 +1844,10 @@ Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1
 - **B** — Rugi Rp 60.000 = salah identifikasi.
 - **C** — Benar. Sisa = 9 ekor. HJ total = 9 × 60.000 = 540.000. U = 540.000 − 500.000 = **Rp 40.000**. ✅
 - **D** — Rugi Rp 40.000 = salah identifikasi.
+- **Konsep kunci:** Ayam mati tidak laku; hitung hanya yang dijual.
+- **Langkah Penyelesaian:**
+  1. Ayam laku: 10 − 1 = 9 ekor; total harga jual 9 × 60.000 = Rp 540.000.
+  2. Untung: 540.000 − 500.000 = Rp 40.000.
 
 ---
 
@@ -1535,6 +1863,11 @@ Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1
 - **B** — Rp 70.000 = anggap U = biaya gas/listrik. Salah konsep.
 - **C** — Rp 100.000 = salah hitung biaya tambahan.
 - **D** — Benar. HJ total = 50 × 12.000 = 600.000. M total = 480.000 + 70.000 = 550.000. U = 600.000 − 550.000 = **Rp 50.000**. ✅
+- **Konsep kunci:** Untung bersih = pemasukan dikurangi semua biaya, termasuk biaya operasional.
+- **Langkah Penyelesaian:**
+  1. Pemasukan: 50 × 12.000 = Rp 600.000.
+  2. Total biaya: 480.000 + 70.000 = Rp 550.000.
+  3. Untung bersih: 600.000 − 550.000 = Rp 50.000.
 
 ---
 
@@ -1550,6 +1883,10 @@ Hitung: HJ₁ = 70 × 12.000 = 840.000; HJ₂ = 30 × 8.000 = 240.000; total = 1
 - **B** — Rp 180.000 = salah hitung kg (anggap 65 kg).
 - **C** — Rp 240.000 = salah hitung (anggap 70 kg).
 - **D** — Rp 60.000 = salah hitung (anggap 55 kg).
+- **Konsep kunci:** Hitung total kilogram jeruk, lalu kalikan harga per kg.
+- **Langkah Penyelesaian:**
+  1. Total jeruk: 3 × 20 = 60 kg; harga jual 60 × 12.000 = Rp 720.000.
+  2. Untung: 720.000 − 600.000 = Rp 120.000.
 
 ---
 
@@ -1571,6 +1908,10 @@ Periksa: 120 × 15.000 = 1.800.000. 1.800.000 − 1.500.000 = 300.000. Maka jawa
 - **B** — Rp 375.000 = anggap 125 buah laku semua (1.875 − 1.500).
 - **C** — Rp 200.000 = salah hitung apel laku.
 - **D** — Rp 350.000 = salah hitung HJ per buah.
+- **Konsep kunci:** Buah busuk tidak laku; kurangi dari jumlah yang dijual.
+- **Langkah Penyelesaian:**
+  1. Buah laku: 5 × 25 − 5 = 120 buah; harga jual 120 × 15.000 = Rp 1.800.000.
+  2. Untung: 1.800.000 − 1.500.000 = Rp 300.000.
 
 Catatan: ganti B → A.
 
@@ -1588,6 +1929,10 @@ Catatan: ganti B → A.
 - **B** — Rugi Rp 72.000 = salah identifikasi.
 - **C** — Benar. 4 lusin = 48 sapu. Laku = 48 − 6 = 42 sapu. HJ total = 42 × 12.000 = 504.000. U = 504.000 − 480.000 = **Rp 24.000**. ✅
 - **D** — Rugi Rp 24.000 = salah identifikasi.
+- **Konsep kunci:** Sapu rusak tidak laku; hitung hanya yang terjual.
+- **Langkah Penyelesaian:**
+  1. Sapu laku: 48 − 6 = 42; harga jual 42 × 12.000 = Rp 504.000.
+  2. Untung: 504.000 − 480.000 = Rp 24.000.
 
 ---
 
@@ -1603,6 +1948,10 @@ Catatan: ganti B → A.
 - **B** — Untung Rp 1.200.000 = salah identifikasi.
 - **C** — Rugi Rp 800.000 = salah hitung penjumlahan HJ.
 - **D** — Untung Rp 800.000 = salah identifikasi dan salah hitung.
+- **Konsep kunci:** Untung/rugi sementara: yang dihitung hanya uang yang sudah masuk.
+- **Langkah Penyelesaian:**
+  1. Sudah diterima: 1.800.000 + 1.500.000 = Rp 3.300.000.
+  2. Karena 3.300.000 < 4.500.000 → rugi sementara Rp 1.200.000.
 
 ---
 
@@ -1618,6 +1967,11 @@ Catatan: ganti B → A.
 - **B** — Rp 350.000 = salah hitung HJ hari kedua.
 - **C** — Rp 250.000 = hanya hitung hari pertama (1.750 − 1.500).
 - **D** — Benar. Hari 1: HJ = 25 × 70.000 = 1.750.000; U₁ = 250.000. Hari 2: HJ = 20 × 80.000 = 1.600.000; U₂ = 200.000. Total = 250.000 + 200.000 = **Rp 450.000**. ✅
+- **Konsep kunci:** Untung tiap hari dihitung sendiri, lalu dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hari 1: 25 × 70.000 = 1.750.000 − 1.500.000 = untung 250.000.
+  2. Hari 2: 20 × 80.000 = 1.600.000 − 1.400.000 = untung 200.000.
+  3. Total untung: 250.000 + 200.000 = Rp 450.000.
 
 ---
 
@@ -1633,6 +1987,10 @@ Catatan: ganti B → A.
 - **B** — Benar. HJ₁ = 60 × 5.500 = 330.000; HJ₂ = 20 × 3.000 = 60.000; total HJ = 390.000. U = 390.000 − 320.000 = **Rp 70.000**. ✅
 - **C** — Rp 30.000 = salah hitung HJ₁ atau HJ₂.
 - **D** — Rp 90.000 = salah hitung HJ₂ (anggap Rp 4.500).
+- **Konsep kunci:** Buku obral dijual lebih murah; jumlahkan semua pemasukan.
+- **Langkah Penyelesaian:**
+  1. Total harga jual: 60 × 5.500 + 20 × 3.000 = 330.000 + 60.000 = Rp 390.000.
+  2. Untung: 390.000 − 320.000 = Rp 70.000.
 
 ---
 
@@ -1648,6 +2006,10 @@ Catatan: ganti B → A.
 - **B** — Rugi Rp 50.000 = salah identifikasi.
 - **C** — Benar. Sisa = 100 − 10 = 90 mangga. HJ total = 90 × 3.500 = 315.000. U = 315.000 − 250.000 = **Rp 65.000**. ✅
 - **D** — Rugi Rp 65.000 = salah identifikasi besar.
+- **Konsep kunci:** Mangga busuk tidak laku; kurangi dari jumlah yang dijual.
+- **Langkah Penyelesaian:**
+  1. Mangga laku: 100 − 10 = 90 buah; harga jual 90 × 3.500 = Rp 315.000.
+  2. Untung: 315.000 − 250.000 = Rp 65.000.
 
 ---
 
@@ -1663,6 +2025,11 @@ Catatan: ganti B → A.
 - **B** — Benar. M total = 60.000.000 + 3.000.000 + 2.000.000 = 65.000.000. HJ total = 5 × 14.000.000 = 70.000.000. U = 70.000.000 − 65.000.000 = **Rp 5.000.000**. ✅
 - **C** — Rp 15.000.000 = lupa modal awal sapi (hanya hitung HJ vs biaya pakan).
 - **D** — Rp 8.000.000 = lupa salah satu biaya (hanya 1 biaya tambahan).
+- **Konsep kunci:** Untung bersih = total penjualan dikurangi modal dan semua biaya.
+- **Langkah Penyelesaian:**
+  1. Total penjualan: 5 × 14.000.000 = Rp 70.000.000.
+  2. Total biaya: 60.000.000 + 3.000.000 + 2.000.000 = Rp 65.000.000.
+  3. Untung bersih: 70.000.000 − 65.000.000 = Rp 5.000.000.
 
 ---
 
