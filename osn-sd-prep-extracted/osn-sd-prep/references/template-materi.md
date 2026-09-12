@@ -1,6 +1,6 @@
 # Template Output Lengkap — Mode Per-Materi
 
-File ini berisi template detail untuk output Mode Per-Materi. Gunakan template ini **persis** agar konsistensi terjaga di semua 13 bab.
+File ini berisi template detail untuk output Mode Per-Materi. Gunakan template ini **persis** agar konsistensi terjaga di semua 14 bab.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: osn-sd-prep
-description: Generate paket pembinaan OSN/KSN SD lengkap — materi/teori + 100 soal PG per iterasi (4 opsi A-D) dengan pembahasan komprehensif analisis SETIAP pilihan A/B/C/D. Output DEFAULT HTML interaktif dengan Velo CT design + SVG diagrams (geometri, listrik, dll); alternatif .md jika diminta. Cakupan 8 bab MTK + 5 bab IPA. Use this skill SETIAP KALI user minta "buatkan soal OSN SD", "100 soal OSN SD", "modul KSN SD", "drill OSN SD", atau persiapan OSN/KSN SD. Saat dipanggil tanpa parameter, tampilkan menu interaktif dulu via markdown 13 bab + ask_user_input_v0 untuk mapel/tingkat/kelas. Tiga mode — Index, Per-Materi (1 bab teori + 100 soal PG), Komprehensif (campur lintas bab). Default tingkat 50 Kab + 30 Prov + 20 Nas. Output file di `/mnt/user-data/outputs/` lalu present_files. Selalu pakai osn-sd-prep agar kualitas pembahasan konsisten standar OSN/KSN Indonesia.
+description: Generate paket pembinaan OSN/KSN SD lengkap — materi/teori + 100 soal PG per iterasi (4 opsi A-D) dengan pembahasan komprehensif analisis SETIAP pilihan A/B/C/D. Output DEFAULT HTML interaktif dengan Velo CT design + SVG diagrams (geometri, listrik, dll); alternatif .md jika diminta. Cakupan 8 bab MTK + 6 bab IPA. Use this skill SETIAP KALI user minta "buatkan soal OSN SD", "100 soal OSN SD", "modul KSN SD", "drill OSN SD", atau persiapan OSN/KSN SD. Saat dipanggil tanpa parameter, tampilkan menu interaktif dulu via markdown 14 bab + ask_user_input_v0 untuk mapel/tingkat/kelas. Tiga mode — Index, Per-Materi (1 bab teori + 100 soal PG), Komprehensif (campur lintas bab). Default tingkat 50 Kab + 30 Prov + 20 Nas. Output file di `/mnt/user-data/outputs/` lalu present_files. Selalu pakai osn-sd-prep agar kualitas pembahasan konsisten standar OSN/KSN Indonesia.
 ---
 
 # OSN SD Prep — Materi, 100 Soal PG per Iterasi, Pembahasan Komprehensif
@@ -27,7 +27,7 @@ Kalau user trigger skill tanpa menyebut bab/mapel/tingkat secara spesifik (mis. 
 
 ### Langkah 1: Tampilkan Menu Daftar Bab (markdown table)
 
-Tulis dulu intro singkat + tabel lengkap 13 bab (8 MTK + 5 IPA) + opsi Komprehensif:
+Tulis dulu intro singkat + tabel lengkap 14 bab (8 MTK + 6 IPA) + opsi Komprehensif:
 
 ```markdown
 Saya akan menyiapkan paket pembinaan OSN SD. Berikut daftar bab yang tersedia — silakan pilih:
@@ -54,6 +54,7 @@ Saya akan menyiapkan paket pembinaan OSN SD. Berikut daftar bab yang tersedia �
 | IPA-03 | Gaya, Gerak, dan Energi (pesawat sederhana, listrik, magnet) |
 | IPA-04 | Cahaya, Bunyi, Panas, dan Sifat Zat (optik, kalor, perubahan wujud) |
 | IPA-05 | Bumi, Antariksa, dan Lingkungan (tata surya, gerhana, siklus, SDA) |
+| IPA-06 | Keterampilan Metode Ilmiah & Keanekaragaman Hayati (metode ilmiah, biodiversity) |
 
 ### 🎯 Atau pilih Komprehensif
 
@@ -66,7 +67,7 @@ Saya akan menyiapkan paket pembinaan OSN SD. Berikut daftar bab yang tersedia �
 
 Pakai tool `ask_user_input_v0` dengan 3 pertanyaan:
 
-- **Q1: "Pilih Mata Pelajaran"** — opsi: "Matematika (8 bab)", "IPA (5 bab)", "Komprehensif (campur semua)"
+- **Q1: "Pilih Mata Pelajaran"** — opsi: "Matematika (8 bab)", "IPA (6 bab)", "Komprehensif (campur semua)"
 - **Q2: "Pilih Tingkat Kesulitan"** — opsi: "Tingkat Kabupaten saja", "Tingkat Provinsi saja", "Tingkat Nasional saja", "Campur (50 Kab + 30 Prov + 20 Nas)"
 - **Q3: "Pilih Kelas Target"** — opsi: "Kelas 4 SD", "Kelas 5 SD", "Kelas 6 SD", "Campur 5-6 SD"
 
@@ -95,7 +96,7 @@ Contoh trigger yang SKIP menu:
 
 | Mode | Trigger | Output |
 |------|---------|--------|
-| **Index** | "lihat daftar materi OSN", "outline OSN SD" | 1 file `.md` peta 13 bab + cara generate per bab |
+| **Index** | "lihat daftar materi OSN", "outline OSN SD" | 1 file `.md` peta 14 bab + cara generate per bab |
 | **Per-Materi** | Bab spesifik (MTK-02, IPA-03, "pecahan", "listrik") | 1 file `.html` interaktif: Teori + 100 soal PG + diagram SVG (atau `.md` jika diminta) |
 | **Komprehensif** | "komprehensif", "campur semua bab", "try out OSN" | 1 file `.html` interaktif: 100 soal PG campur lintas bab (atau `.md` jika diminta) |
 
@@ -180,7 +181,7 @@ Kalau user request `.md`, gunakan struktur yang dijelaskan di `references/templa
 | MTK-07 | Statistika & Peluang |
 | MTK-08 | Pola Bilangan, Logika, & Aljabar Dasar |
 
-### IPA (5 Bab)
+### IPA (6 Bab)
 
 | Kode | Bab |
 |------|-----|
@@ -189,6 +190,7 @@ Kalau user request `.md`, gunakan struktur yang dijelaskan di `references/templa
 | IPA-03 | Gaya, Gerak, dan Energi |
 | IPA-04 | Cahaya, Bunyi, Panas, dan Sifat Zat |
 | IPA-05 | Bumi, Antariksa, dan Lingkungan |
+| IPA-06 | Keterampilan Metode Ilmiah & Keanekaragaman Hayati |
 
 **Detail sub-topik per bab** — lihat `references/taksonomi-matematika.md` dan `references/taksonomi-ipa.md`. Baca SEBELUM generate Mode Per-Materi.
 
@@ -271,13 +273,13 @@ Output 1 file `.md` besar berisi Teori Bab + 100 soal PG self-contained.
 
 ## Mode Komprehensif — Workflow
 
-100 soal PG campur lintas semua 13 bab.
+100 soal PG campur lintas semua 14 bab.
 
 **Langkah:**
 
 1. **Distribusi soal lintas bab** — default proporsional:
    - 8 bab Matematika × 8 soal = 64 soal MTK (1 bab dapat +1 untuk total 65)
-   - 5 bab IPA × 7 soal = 35 soal IPA
+   - 6 bab IPA × 6 soal = 36 soal IPA
    - Total = 100 soal
 
 2. **Distribusi tingkat**: 50 Kab + 30 Prov + 20 Nas (atau sesuai pilihan user).
@@ -297,10 +299,10 @@ Output: file referensi `osn-sd-index.md` berisi peta navigasi semua bab + cara g
 
 Struktur Index:
 - Header: `# OSN SD — Paket Pembinaan Lengkap (Index)`
-- Daftar semua 13 bab dengan deskripsi 1 kalimat
+- Daftar semua 14 bab dengan deskripsi 1 kalimat
 - Rekomendasi urutan belajar untuk kelas 5–6
 - Cara generate (trigger phrases per mode)
-- Estimasi total paket lengkap (13 bab × 100 soal + 100 komprehensif = 1.400 soal)
+- Estimasi total paket lengkap (14 bab × 100 soal + 100 komprehensif = 1.500 soal)
 
 ---
 
@@ -484,7 +486,7 @@ Sebelum mulai generate Mode Per-Materi, **baca file referensi yang relevan**:
 
 - `references/template-html-interaktif.md` — **WAJIB untuk output HTML (default)** — template lengkap struktur HTML + CSS Velo CT + JS interaktivitas + library SVG diagrams
 - `references/taksonomi-matematika.md` — detail sub-topik per 8 bab MTK + distribusi rekomendasi 100 soal
-- `references/taksonomi-ipa.md` — detail sub-topik per 5 bab IPA + distribusi rekomendasi 100 soal
+- `references/taksonomi-ipa.md` — detail sub-topik per 6 bab IPA + distribusi rekomendasi 100 soal
 - `references/template-materi.md` — template `.md` (untuk alternatif markdown output)
 - `references/contoh-kualitas.md` — 3 contoh soal PG benchmark dengan analisis 4 opsi (patokan kualitas konten)
 

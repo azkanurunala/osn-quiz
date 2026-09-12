@@ -3,7 +3,7 @@
 > Pemecahan lanjutan dari [_MASTER-INDEX.md](_MASTER-INDEX.md) — setiap bab dibedah jadi sub-bab,
 > setiap sub-bab × 6 tingkat = 1 paket drill 100 soal terfokus pada satu sub-topik.
 >
-> **160 sub-bab × 6 tingkat = 960 file × 100 soal PG = 96.000 soal terfokus**
+> **175 sub-bab × 6 tingkat = 1.050 file × 100 soal PG = 105.000 soal terfokus**
 >
 > Setiap file: 100 soal PG dengan analisis 4 opsi (sama standar mutu dengan MASTER-INDEX),
 > tapi 100% materinya digali di satu sub-bab → drill mendalam per sub-topik.
@@ -16,7 +16,7 @@
 osn-sd-{mapel}-{kodeBab}{kodeSubbab}-{slug}-{tingkat}.md
 ```
 
-- `kodeBab` = `01`–`08` (MTK) atau `01`–`05` (IPA)
+- `kodeBab` = `01`–`08` (MTK) atau `01`–`06` (IPA)
 - `kodeSubbab` = huruf kecil `a`, `b`, `c`, … `n` (urutan sesuai taksonomi)
 - `slug` = ringkas, kebab-case
 - `tingkat` = `campur` · `mudah` · `sedang` · `sulit` · `mudah-sedang` · `sedang-sulit`
@@ -50,12 +50,12 @@ Karena seluruh 100 soal per file berada di satu sub-topik yang sama, **risiko du
 
 ---
 
-## A · IPA Per Sub-Bab (66 sub-bab × 6 = 396 file)
+## A · IPA Per Sub-Bab (81 sub-bab × 6 = 486 file)
 
 Sumber sub-bab: [taksonomi-ipa.md](../osn-sd-prep-extracted/osn-sd-prep/references/taksonomi-ipa.md).
 Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot OSN — bukan jumlah soal. **Setiap file sub-bab tetap 100 soal**, apa pun tag fokusnya.
 
-### IPA-01 · Makhluk Hidup & Lingkungan (13 sub-bab)
+### IPA-01 · Makhluk Hidup & Lingkungan (18 sub-bab)
 
 **IPA-01a · Ciri-ciri Makhluk Hidup** (fokus Kab)
 - [x] `osn-sd-ipa-01a-ciri-makhluk-hidup-campur.md`
@@ -161,7 +161,47 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-01m-pelestarian-mudah-sedang.md`
 - [ ] `osn-sd-ipa-01m-pelestarian-sedang-sulit.md`
 
-### IPA-02 · Tubuh Manusia & Kesehatan (13 sub-bab)
+**IPA-01n · Klasifikasi Sistem 5 Kingdom (Monera, Protista, Fungi, Plantae, Animalia)** (fokus Prov)
+- [x] `osn-sd-ipa-01n-klasifikasi-5-kingdom-campur.md`
+- [ ] `osn-sd-ipa-01n-klasifikasi-5-kingdom-mudah.md`
+- [ ] `osn-sd-ipa-01n-klasifikasi-5-kingdom-sedang.md`
+- [ ] `osn-sd-ipa-01n-klasifikasi-5-kingdom-sulit.md`
+- [ ] `osn-sd-ipa-01n-klasifikasi-5-kingdom-mudah-sedang.md`
+- [ ] `osn-sd-ipa-01n-klasifikasi-5-kingdom-sedang-sulit.md`
+
+**IPA-01o · Sel & Jaringan (Level Dasar SD)** (fokus Prov)
+- [x] `osn-sd-ipa-01o-sel-jaringan-campur.md`
+- [ ] `osn-sd-ipa-01o-sel-jaringan-mudah.md`
+- [ ] `osn-sd-ipa-01o-sel-jaringan-sedang.md`
+- [ ] `osn-sd-ipa-01o-sel-jaringan-sulit.md`
+- [ ] `osn-sd-ipa-01o-sel-jaringan-mudah-sedang.md`
+- [ ] `osn-sd-ipa-01o-sel-jaringan-sedang-sulit.md`
+
+**IPA-01p · Fotosintesis & Metabolisme Tumbuhan** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-01p-fotosintesis-metabolisme-campur.md`
+- [ ] `osn-sd-ipa-01p-fotosintesis-metabolisme-mudah.md`
+- [ ] `osn-sd-ipa-01p-fotosintesis-metabolisme-sedang.md`
+- [ ] `osn-sd-ipa-01p-fotosintesis-metabolisme-sulit.md`
+- [ ] `osn-sd-ipa-01p-fotosintesis-metabolisme-mudah-sedang.md`
+- [ ] `osn-sd-ipa-01p-fotosintesis-metabolisme-sedang-sulit.md`
+
+**IPA-01q · Respirasi Sel & Fermentasi Mikroorganisme** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-01q-respirasi-fermentasi-campur.md`
+- [ ] `osn-sd-ipa-01q-respirasi-fermentasi-mudah.md`
+- [ ] `osn-sd-ipa-01q-respirasi-fermentasi-sedang.md`
+- [ ] `osn-sd-ipa-01q-respirasi-fermentasi-sulit.md`
+- [ ] `osn-sd-ipa-01q-respirasi-fermentasi-mudah-sedang.md`
+- [ ] `osn-sd-ipa-01q-respirasi-fermentasi-sedang-sulit.md`
+
+**IPA-01r · Populasi, Komunitas & Siklus Materi (Daur Karbon, Nitrogen)** (fokus Nas)
+- [x] `osn-sd-ipa-01r-populasi-siklus-materi-campur.md`
+- [ ] `osn-sd-ipa-01r-populasi-siklus-materi-mudah.md`
+- [ ] `osn-sd-ipa-01r-populasi-siklus-materi-sedang.md`
+- [ ] `osn-sd-ipa-01r-populasi-siklus-materi-sulit.md`
+- [ ] `osn-sd-ipa-01r-populasi-siklus-materi-mudah-sedang.md`
+- [ ] `osn-sd-ipa-01r-populasi-siklus-materi-sedang-sulit.md`
+
+### IPA-02 · Tubuh Manusia & Kesehatan (14 sub-bab)
 
 **IPA-02a · Sistem Pencernaan (Organ, Enzim, Fungsi)** (fokus Kab–Prov)
 - [x] `osn-sd-ipa-02a-pencernaan-campur.md`
@@ -267,7 +307,15 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-mudah-sedang.md`
 - [ ] `osn-sd-ipa-02m-diagnosis-gejala-sedang-sulit.md`
 
-### IPA-03 · Gaya, Gerak, dan Energi (12 sub-bab)
+**IPA-02n · Bioteknologi & Aplikasi Teknologi Lingkungan** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-02n-bioteknologi-campur.md`
+- [ ] `osn-sd-ipa-02n-bioteknologi-mudah.md`
+- [ ] `osn-sd-ipa-02n-bioteknologi-sedang.md`
+- [ ] `osn-sd-ipa-02n-bioteknologi-sulit.md`
+- [ ] `osn-sd-ipa-02n-bioteknologi-mudah-sedang.md`
+- [ ] `osn-sd-ipa-02n-bioteknologi-sedang-sulit.md`
+
+### IPA-03 · Gaya, Gerak, dan Energi (16 sub-bab)
 
 **IPA-03a · Pengertian & Jenis Gaya (Gesek, Gravitasi, Magnet, Otot, Pegas)** (fokus Kab)
 - [x] `osn-sd-ipa-03a-jenis-gaya-campur.md`
@@ -365,7 +413,39 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-03l-magnet-mudah-sedang.md`
 - [ ] `osn-sd-ipa-03l-magnet-sedang-sulit.md`
 
-### IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat (14 sub-bab)
+**IPA-03m · Momentum (Level Dasar SD)** (fokus Prov)
+- [x] `osn-sd-ipa-03m-momentum-campur.md`
+- [ ] `osn-sd-ipa-03m-momentum-mudah.md`
+- [ ] `osn-sd-ipa-03m-momentum-sedang.md`
+- [ ] `osn-sd-ipa-03m-momentum-sulit.md`
+- [ ] `osn-sd-ipa-03m-momentum-mudah-sedang.md`
+- [ ] `osn-sd-ipa-03m-momentum-sedang-sulit.md`
+
+**IPA-03n · Tekanan (Padat, Cair, Gas)** (fokus Kab–Prov)
+- [x] `osn-sd-ipa-03n-tekanan-campur.md`
+- [ ] `osn-sd-ipa-03n-tekanan-mudah.md`
+- [ ] `osn-sd-ipa-03n-tekanan-sedang.md`
+- [ ] `osn-sd-ipa-03n-tekanan-sulit.md`
+- [ ] `osn-sd-ipa-03n-tekanan-mudah-sedang.md`
+- [ ] `osn-sd-ipa-03n-tekanan-sedang-sulit.md`
+
+**IPA-03o · Listrik Statis** (fokus Kab–Prov)
+- [x] `osn-sd-ipa-03o-listrik-statis-campur.md`
+- [ ] `osn-sd-ipa-03o-listrik-statis-mudah.md`
+- [ ] `osn-sd-ipa-03o-listrik-statis-sedang.md`
+- [ ] `osn-sd-ipa-03o-listrik-statis-sulit.md`
+- [ ] `osn-sd-ipa-03o-listrik-statis-mudah-sedang.md`
+- [ ] `osn-sd-ipa-03o-listrik-statis-sedang-sulit.md`
+
+**IPA-03p · Induksi Elektromagnetik & Elektromagnet** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-03p-induksi-elektromagnetik-campur.md`
+- [ ] `osn-sd-ipa-03p-induksi-elektromagnetik-mudah.md`
+- [ ] `osn-sd-ipa-03p-induksi-elektromagnetik-sedang.md`
+- [ ] `osn-sd-ipa-03p-induksi-elektromagnetik-sulit.md`
+- [ ] `osn-sd-ipa-03p-induksi-elektromagnetik-mudah-sedang.md`
+- [ ] `osn-sd-ipa-03p-induksi-elektromagnetik-sedang-sulit.md`
+
+### IPA-04 · Cahaya, Bunyi, Panas, dan Sifat Zat (16 sub-bab)
 
 **IPA-04a · Sifat-sifat Cahaya (Merambat Lurus, Dipantulkan, Dibiaskan, Diuraikan)** (fokus Kab)
 - [x] `osn-sd-ipa-04a-sifat-cahaya-campur.md`
@@ -479,7 +559,23 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-04n-larutan-koloid-mudah-sedang.md`
 - [ ] `osn-sd-ipa-04n-larutan-koloid-sedang-sulit.md`
 
-### IPA-05 · Bumi, Antariksa, dan Lingkungan (14 sub-bab)
+**IPA-04o · Gelombang Mekanik (Tali, Transversal, Longitudinal)** (fokus Prov)
+- [x] `osn-sd-ipa-04o-gelombang-mekanik-campur.md`
+- [ ] `osn-sd-ipa-04o-gelombang-mekanik-mudah.md`
+- [ ] `osn-sd-ipa-04o-gelombang-mekanik-sedang.md`
+- [ ] `osn-sd-ipa-04o-gelombang-mekanik-sulit.md`
+- [ ] `osn-sd-ipa-04o-gelombang-mekanik-mudah-sedang.md`
+- [ ] `osn-sd-ipa-04o-gelombang-mekanik-sedang-sulit.md`
+
+**IPA-04p · Atom & Partikel Penyusun Benda (Proton, Neutron, Elektron)** (fokus Nas)
+- [x] `osn-sd-ipa-04p-atom-partikel-campur.md`
+- [ ] `osn-sd-ipa-04p-atom-partikel-mudah.md`
+- [ ] `osn-sd-ipa-04p-atom-partikel-sedang.md`
+- [ ] `osn-sd-ipa-04p-atom-partikel-sulit.md`
+- [ ] `osn-sd-ipa-04p-atom-partikel-mudah-sedang.md`
+- [ ] `osn-sd-ipa-04p-atom-partikel-sedang-sulit.md`
+
+### IPA-05 · Bumi, Antariksa, dan Lingkungan (15 sub-bab)
 
 **IPA-05a · Sistem Tata Surya & Ciri 8 Planet** (fokus Kab–Prov)
 - [x] `osn-sd-ipa-05a-tata-surya-campur.md`
@@ -593,6 +689,36 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik tersebut menurut bobot
 - [ ] `osn-sd-ipa-05n-bencana-alam-mudah-sedang.md`
 - [ ] `osn-sd-ipa-05n-bencana-alam-sedang-sulit.md`
 
+**IPA-05o · Bintang & Galaksi (Bima Sakti, Struktur Galaksi)** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-05o-bintang-galaksi-campur.md`
+- [ ] `osn-sd-ipa-05o-bintang-galaksi-mudah.md`
+- [ ] `osn-sd-ipa-05o-bintang-galaksi-sedang.md`
+- [ ] `osn-sd-ipa-05o-bintang-galaksi-sulit.md`
+- [ ] `osn-sd-ipa-05o-bintang-galaksi-mudah-sedang.md`
+- [ ] `osn-sd-ipa-05o-bintang-galaksi-sedang-sulit.md`
+
+---
+
+### IPA-06 · Keterampilan Metode Ilmiah & Keanekaragaman Hayati (2 sub-bab)
+
+> **Catatan:** Meresmikan file `ipa-06a` & `ipa-06b` yang sudah ada — lingkup resmi #1 & #2 Puspresnas/Kemendikdasmen.
+
+**IPA-06a · Metode Ilmiah & Keterampilan Proses Sains** (fokus Kab–Prov)
+- [x] `osn-sd-ipa-06a-metode-ilmiah-campur.md`
+- [x] `osn-sd-ipa-06a-metode-ilmiah-mudah.md`
+- [x] `osn-sd-ipa-06a-metode-ilmiah-sedang.md`
+- [x] `osn-sd-ipa-06a-metode-ilmiah-sulit.md`
+- [x] `osn-sd-ipa-06a-metode-ilmiah-mudah-sedang.md`
+- [x] `osn-sd-ipa-06a-metode-ilmiah-sedang-sulit.md`
+
+**IPA-06b · Keanekaragaman Hayati & Biodiversitas Indonesia** (fokus Prov–Nas)
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-campur.md`
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-mudah.md`
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-sedang.md`
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-sulit.md`
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-mudah-sedang.md`
+- [x] `osn-sd-ipa-06b-keanekaragaman-hayati-sedang-sulit.md`
+
 ---
 
 ## B · MTK Per Sub-Bab (94 sub-bab × 6 = 564 file)
@@ -604,39 +730,39 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 
 **MTK-01a · Operasi Hitung Bilangan Bulat (+, −, ×, ÷)** (fokus Kab)
 - [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-campur.md`
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-mudah.md`
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang.md`
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sulit.md`
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-mudah-sedang.md`
-- [ ] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang-sulit.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-mudah.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-sulit.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-mudah-sedang.md`
+- [x] `osn-sd-mtk-01a-operasi-bilangan-bulat-sedang-sulit.md`
 
 **MTK-01b · Urutan Operasi (Kurung-Pangkat-Kali-Bagi-Tambah-Kurang)** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01b-urutan-operasi-campur.md`
-- [ ] `osn-sd-mtk-01b-urutan-operasi-mudah.md`
-- [ ] `osn-sd-mtk-01b-urutan-operasi-sedang.md`
-- [ ] `osn-sd-mtk-01b-urutan-operasi-sulit.md`
-- [ ] `osn-sd-mtk-01b-urutan-operasi-mudah-sedang.md`
-- [ ] `osn-sd-mtk-01b-urutan-operasi-sedang-sulit.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-mudah.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-sedang.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-sulit.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-mudah-sedang.md`
+- [x] `osn-sd-mtk-01b-urutan-operasi-sedang-sulit.md`
 
 **MTK-01c · Faktor & Kelipatan Suatu Bilangan** (fokus Kab)
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-campur.md`
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-mudah.md`
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-sedang.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-mudah.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-sedang.md`
 - [ ] `osn-sd-mtk-01c-faktor-kelipatan-sulit.md`
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-mudah-sedang.md`
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-sedang-sulit.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-mudah-sedang.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-sedang-sulit.md`
 
 **MTK-01d · Bilangan Prima & Komposit** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01d-bilangan-prima-komposit-campur.md`
 - [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah.md`
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang.md`
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sulit.md`
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah-sedang.md`
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang-sulit.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-sulit.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah-sedang.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang-sulit.md`
 
 **MTK-01e · Faktorisasi Prima** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01e-faktorisasi-prima-campur.md`
-- [ ] `osn-sd-mtk-01e-faktorisasi-prima-mudah.md`
+- [x] `osn-sd-mtk-01e-faktorisasi-prima-mudah.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sedang.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sulit.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-mudah-sedang.md`
@@ -644,7 +770,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 
 **MTK-01f · FPB (Faktor Persekutuan Terbesar)** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01f-fpb-campur.md`
-- [ ] `osn-sd-mtk-01f-fpb-mudah.md`
+- [x] `osn-sd-mtk-01f-fpb-mudah.md`
 - [ ] `osn-sd-mtk-01f-fpb-sedang.md`
 - [ ] `osn-sd-mtk-01f-fpb-sulit.md`
 - [ ] `osn-sd-mtk-01f-fpb-mudah-sedang.md`
@@ -1374,12 +1500,13 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 
 | Bab | Sub-Bab | File (×6 tingkat) | Soal |
 |-----|---------|-------------------|------|
-| IPA-01 · Makhluk Hidup & Lingkungan | 13 | 78 | 7.800 |
-| IPA-02 · Tubuh Manusia & Kesehatan | 13 | 78 | 7.800 |
-| IPA-03 · Gaya, Gerak, dan Energi | 12 | 72 | 7.200 |
-| IPA-04 · Cahaya, Bunyi, Panas, Zat | 14 | 84 | 8.400 |
-| IPA-05 · Bumi, Antariksa, Lingkungan | 14 | 84 | 8.400 |
-| **Subtotal IPA** | **66** | **396** | **39.600** |
+| IPA-01 · Makhluk Hidup & Lingkungan | 18 | 108 | 10.800 |
+| IPA-02 · Tubuh Manusia & Kesehatan | 14 | 84 | 8.400 |
+| IPA-03 · Gaya, Gerak, dan Energi | 16 | 96 | 9.600 |
+| IPA-04 · Cahaya, Bunyi, Panas, Zat | 16 | 96 | 9.600 |
+| IPA-05 · Bumi, Antariksa, Lingkungan | 15 | 90 | 9.000 |
+| IPA-06 · Metode Ilmiah & Keanekaragaman Hayati | 2 | 12 | 1.200 |
+| **Subtotal IPA** | **81** | **486** | **48.600** |
 | MTK-01 · Bilangan & Operasi | 11 | 66 | 6.600 |
 | MTK-02 · Pecahan, Desimal, Persen | 11 | 66 | 6.600 |
 | MTK-03 · Geometri Datar | 13 | 78 | 7.800 |
@@ -1389,7 +1516,7 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 | MTK-07 · Statistika & Peluang | 13 | 78 | 7.800 |
 | MTK-08 · Pola, Logika, Aljabar | 11 | 66 | 6.600 |
 | **Subtotal MTK** | **94** | **564** | **56.400** |
-| **TOTAL** | **160** | **960** | **96.000** |
+| **TOTAL** | **175** | **1.050** | **105.000** |
 
 ---
 

@@ -1,6 +1,6 @@
-# OSN SD Prep — MASTER INDEX 96 File
+# OSN SD Prep — MASTER INDEX 102 File
 
-> Roadmap lengkap paket pembinaan OSN/KSN SD — **96 file × 100 soal PG = 9.600 soal**
+> Roadmap lengkap paket pembinaan OSN/KSN SD — **102 file × 100 soal PG = 10.200 soal**
 >
 > Setiap file: 100 soal Pilihan Ganda dengan pembahasan komprehensif (analisis A/B/C/D).
 > Format: 100% PG · Bahasa Indonesia · Kelas 5–6 SD · Pembahasan analisis 4 opsi.
@@ -20,10 +20,10 @@
 
 ---
 
-## Kategori File (16 kategori × 6 tingkat = 96 file)
+## Kategori File (17 kategori × 6 tingkat = 102 file)
 
 ### Kategori A · Komprehensif Lintas Mapel (6 file)
-Distribusi 65 MTK + 35 IPA campur lintas 13 bab.
+Distribusi 65 MTK + 35 IPA campur lintas 14 bab.
 
 - [x] `osn-sd-komprehensif-campur.md`
 - [x] `osn-sd-komprehensif-mudah.md`
@@ -33,7 +33,7 @@ Distribusi 65 MTK + 35 IPA campur lintas 13 bab.
 - [x] `osn-sd-komprehensif-sedang-sulit.md`
 
 ### Kategori B · IPA Komprehensif (6 file)
-100 soal IPA campur 5 bab. Distribusi proporsional ~20 soal per bab.
+100 soal IPA campur 6 bab. Distribusi proporsional ~16-17 soal per bab.
 
 - [x] `osn-sd-ipa-komprehensif-campur.md`
 - [x] `osn-sd-ipa-komprehensif-mudah.md`
@@ -52,7 +52,7 @@ Distribusi 65 MTK + 35 IPA campur lintas 13 bab.
 - [x] `osn-sd-mtk-komprehensif-mudah-sedang.md`
 - [x] `osn-sd-mtk-komprehensif-sedang-sulit.md`
 
-### Kategori D · IPA Per-Materi (5 bab × 6 tingkat = 30 file)
+### Kategori D · IPA Per-Materi (6 bab × 6 tingkat = 36 file)
 Setiap bab IPA + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 
 **IPA-01 · Makhluk Hidup & Lingkungan**
@@ -94,6 +94,14 @@ Setiap bab IPA + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - [x] `osn-sd-ipa-05-bumi-antariksa-sulit.md`
 - [x] `osn-sd-ipa-05-bumi-antariksa-mudah-sedang.md`
 - [x] `osn-sd-ipa-05-bumi-antariksa-sedang-sulit.md`
+
+**IPA-06 · Keterampilan Metode Ilmiah & Keanekaragaman Hayati**
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-campur.md`
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-mudah.md`
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-sedang.md`
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-sulit.md`
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-mudah-sedang.md`
+- [ ] `osn-sd-ipa-06-metode-ilmiah-keanekaragaman-sedang-sulit.md`
 
 ### Kategori E · MTK Per-Materi (8 bab × 6 tingkat = 48 file)
 Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
@@ -168,12 +176,12 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 
 | Kategori | Bab | Tingkat | File | Soal |
 |----------|-----|---------|------|------|
-| A · Komprehensif Lintas | 13 (campur) | 6 | 6 | 600 |
-| B · IPA Komprehensif | 5 (campur IPA) | 6 | 6 | 600 |
+| A · Komprehensif Lintas | 14 (campur) | 6 | 6 | 600 |
+| B · IPA Komprehensif | 6 (campur IPA) | 6 | 6 | 600 |
 | C · MTK Komprehensif | 8 (campur MTK) | 6 | 6 | 600 |
-| D · IPA Per-Materi | 5 bab | 6 | 30 | 3.000 |
+| D · IPA Per-Materi | 6 bab | 6 | 36 | 3.600 |
 | E · MTK Per-Materi | 8 bab | 6 | 48 | 4.800 |
-| **TOTAL** | | | **96** | **9.600** |
+| **TOTAL** | | | **102** | **10.200** |
 
 ---
 

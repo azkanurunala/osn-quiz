@@ -13,8 +13,15 @@
 // Usage:
 //   node scripts/record-videos.mjs [--tier=all] [--subject=all|ipa|mtk] [--only=id1,id2] [--exclude=id1,id2]
 //                                   [--base=http://localhost:5173] [--concurrency=6] [--out=recordings]
-//                                   [--width=1920] [--height=1080]
+//                                   [--width=1920] [--height=1080] [--limit=N] [--force]
+//                                   [--music=audio/osn-1.mp3] [--music-every=20] [--music-out=recordings-final]
 // Default records every sub-bab package in the manifest (all tiers, all subjects).
+//
+// --force re-records packages even when a video already exists (previous run is unlinked).
+// --music-every=N muxes the background music track into the last N finished videos as soon as
+//   they complete, IN PARALLEL with recording (non-blocking). Music is looped for the video's
+//   full length (same ffmpeg recipe as scripts/mux-audio.mjs). Requires ffmpeg on PATH or under
+//   .tools/ffmpeg-*/bin/ffmpeg.exe.
 //
 // ponytail: 1920x1080 is a deliberate ceiling, not a default to casually raise. The app's
 // clean-mode UI uses fixed px/rem sizing (not viewport-relative), and Playwright's video
@@ -31,7 +38,8 @@
 // to render off a virtual clock instead of wall-clock waits.
 
 import { chromium } from 'playwright';
-import { readFileSync, mkdirSync, renameSync, existsSync } from 'fs';
+import { spawn, execFileSync } from 'child_process';
+import { readFileSync, mkdirSync, renameSync, existsSync, unlinkSync, readdirSync } from 'fs';
 import { join, resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -41,7 +49,10 @@ const APP_ROOT = resolve(__dirname, '..');
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
     const m = a.match(/^--([^=]+)=(.*)$/);
-    return m ? [m[1], m[2]] : [a.replace(/^--/, ''), true];
+    if (!m) return [a.replace(/^--/, ''), true];
+    let key = m[1];
+    if (key.includes('-')) key = key.replace(/-([a-z])/g, (_, c) => c.toUpperCase());
+    return [key, m[2]];
   })
 );
 
@@ -56,6 +67,13 @@ const WIDTH = Number(args.width || 1920);
 const HEIGHT = Number(args.height || 1080);
 // --limit=N caps soal per package (quick preview recordings). PracticeArea reads ?limit=N.
 const LIMIT = args.limit ? Number(args.limit) : null;
+// --force re-records existing packages (good for a full re-record after a UI redesign).
+const FORCE = args.force === true || args.force === 'true' || args.force === '1';
+// --music-every=N: mux the music track into the last N finished videos, in parallel.
+const MUSIC = args.music || join(APP_ROOT, 'audio', 'osn-1.mp3');
+const MUSIC_EVERY = args.musicEvery ? Number(args.musicEvery) : 20;
+const MUSIC_OUT = resolve(APP_ROOT, args.musicOut || 'recordings-final');
+const MUSIC_CONCURRENCY = Number(args.musicConcurrency || 4);
 
 const manifest = JSON.parse(readFileSync(join(APP_ROOT, 'public', 'data', '_manifest.json'), 'utf8'));
 
@@ -87,18 +105,80 @@ function filenameFor(item) {
 }
 
 mkdirSync(OUT_DIR, { recursive: true });
+if (MUSIC_EVERY > 0) mkdirSync(MUSIC_OUT, { recursive: true });
 console.log(`Recording ${packages.length} package(s) @ tier=${TIER} subject=${SUBJECT}, concurrency=${CONCURRENCY}\n`);
+
+// ---- background music muxer (runs in parallel with recording) ----
+function findFfmpeg() {
+  try {
+    execFileSync('ffmpeg', ['-version'], { stdio: 'ignore' });
+    return 'ffmpeg';
+  } catch { /* fall through to portable build */ }
+  const toolsDir = join(APP_ROOT, '.tools');
+  if (existsSync(toolsDir)) {
+    const candidate = readdirSync(toolsDir).find((d) => d.startsWith('ffmpeg'));
+    if (candidate) {
+      const exe = join(toolsDir, candidate, 'bin', 'ffmpeg.exe');
+      if (existsSync(exe)) return exe;
+    }
+  }
+  return null;
+}
+const FFMPEG = MUSIC_EVERY > 0 ? findFfmpeg() : null;
+if (MUSIC_EVERY > 0 && !FFMPEG) {
+  console.warn('MUSIC: ffmpeg not found — recordings will be saved without a music track.');
+}
+const muxQueue = [];
+function muxVideo(src, dest) {
+  return new Promise((resolve, reject) => {
+    const proc = spawn(FFMPEG, [
+      '-y',
+      '-i', src,
+      '-stream_loop', '-1', '-i', MUSIC,
+      '-shortest',
+      '-map', '0:v', '-map', '1:a',
+      '-c:v', 'copy',
+      '-c:a', 'libopus', '-b:a', '128k', '-filter:a', 'volume=0.4',
+      dest,
+    ], { stdio: ['ignore', 'ignore', 'pipe'] });
+    let stderr = '';
+    proc.stderr.on('data', (d) => { stderr += d; });
+    proc.on('exit', (code) => code === 0 ? resolve() : reject(new Error(stderr.slice(-500) || `ffmpeg exit ${code}`)));
+  });
+}
+// Fire-and-forget: muxes the given finished videos now, without blocking the recording loop.
+function enqueueMux(files) {
+  if (MUSIC_EVERY <= 0 || !FFMPEG || files.length === 0) return Promise.resolve();
+  const record = [];
+  const run = async () => {
+    for (const file of files) {
+      const src = join(OUT_DIR, file);
+      const dest = join(MUSIC_OUT, file);
+      if (existsSync(dest)) { record.push(`skip  ${file}`); continue; }
+      try { await muxVideo(src, dest); record.push(`music ${file}`); }
+      catch (err) { record.push(`FAIL! ${file}: ${err.message}`); }
+    }
+  };
+  muxQueue.push(run().then(() => record.forEach((l) => console.log(`   [mux] ${l}`))));
+  return muxQueue[muxQueue.length - 1];
+}
+let pendingMux = [];
 
 async function recordOne(browser, item) {
   const filename = filenameFor(item);
   const dest = join(OUT_DIR, filename);
   if (existsSync(dest)) {
-    console.log(`skip  ${filename} (already exists)`);
-    return;
+    if (!FORCE) {
+      console.log(`skip  ${filename} (already exists)`);
+      return;
+    }
+    unlinkSync(dest);
+    const musicDest = join(MUSIC_OUT, filename);
+    if (existsSync(musicDest)) unlinkSync(musicDest);
   }
 
   const questionCount = Math.min(item.questionCount || 100, LIMIT || Infinity);
-  const timeoutMs = questionCount * 25_000 + 60_000; // 10s+15s per soal + slack
+  const timeoutMs = questionCount * 25_000 + 180_000; // 10s+15s per soal + slack
 
   const context = await browser.newContext({
     viewport: { width: WIDTH, height: HEIGHT },
@@ -121,6 +201,12 @@ async function recordOne(browser, item) {
       const path = await video.path();
       renameSync(path, dest);
       console.log(`saved ${filename}`);
+      // Every MUSIC_EVERY-th finished video, kick off a parallel mux batch (non-blocking).
+      pendingMux.push(filename);
+      if (pendingMux.length >= MUSIC_EVERY) {
+        const batch = pendingMux.splice(0, MUSIC_EVERY);
+        enqueueMux(batch); // fire-and-forget; awaited in the final summary
+      }
     }
   }
 }
@@ -143,4 +229,7 @@ try {
 } finally {
   await browser.close();
 }
-console.log(`\nAll done. Videos in ${OUT_DIR}`);
+// Flush any leftover batch (< MUSIC_EVERY) before reporting done.
+if (pendingMux.length > 0) enqueueMux(pendingMux.splice(0));
+await Promise.all(muxQueue);
+console.log(`\nAll done. Videos in ${OUT_DIR}${MUSIC_EVERY > 0 && FFMPEG ? `, with music in ${MUSIC_OUT}` : ''}`);

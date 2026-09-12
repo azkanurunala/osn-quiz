@@ -16,6 +16,7 @@ const SUBBAB_LABELS = {
   'ipa-04b': 'Optika & Cermin',
   'ipa-04c': 'Pembiasan Lensa',
   'ipa-05': 'Bumi & Antariksa',
+  'ipa-06a': 'Keterampilan & Metode Ilmiah',
   'mtk-01': 'Bilangan & Operasi',
   'mtk-02': 'Pecahan & Persentase',
   'mtk-03': 'Geometri Bidang Datar',

@@ -647,17 +647,17 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
           </div>
         )}
         <div className="w-full h-full grid grid-cols-1 lg:grid-cols-10 gap-0 overflow-hidden">
-          <div ref={questionScrollRef} className={`h-full flex flex-col justify-center p-6 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-3 min-w-0' : 'lg:col-span-10 max-w-7xl mx-auto'}`}>
+          <div ref={questionScrollRef} className={`h-full flex flex-col justify-center p-6 overflow-y-auto relative ${isSplitActive ? 'lg:col-span-5 min-w-0' : 'lg:col-span-10 max-w-7xl mx-auto'}`}>
             <div className={`glass-card rounded-3xl shadow-2xl relative max-w-7xl w-full mx-auto animate-scale-in ${isSplitActive ? 'p-4 space-y-3' : 'p-9 space-y-5'}`}>
               {timerEnabled && (
                 <div className="space-y-2 pt-1">
-                  <div className={`flex justify-between items-center font-bold text-gray-500 ${isSplitActive ? 'text-xs' : 'text-xl'}`}>
+                  <div className={`flex justify-between items-center font-bold text-gray-500 ${isSplitActive ? 'text-[10px]' : 'text-xl'}`}>
                     <span className={`flex items-center ${isSplitActive ? 'gap-1.5' : 'gap-2.5'}`}>
                       <span className={`rounded-full animate-ping ${isSplitActive ? 'h-2.5 w-2.5' : 'h-4 w-4'} ${timerPhase === 'question' ? 'bg-red-500' : 'bg-brand-accent'}`}></span>
                       {timerPhase === 'question' ? t('waktu_menjawab', 'Waktu Menjawab...') : t('durasi_pembahasan', 'Durasi Pembahasan...')}
                     </span>
                     <span className={`font-black tracking-tight ${
-                      isSplitActive ? 'text-lg' : 'text-3xl'
+                      isSplitActive ? 'text-[15px]' : 'text-3xl'
                     } ${
                       timerPhase === 'question' && timeLeft <= 3 ? 'text-red-500 animate-bounce' :
                       timerPhase === 'explanation' ? 'text-brand-accent' : 'text-gray-800'
@@ -675,13 +675,13 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   </div>
                 </div>
               )}
-              <div className={`flex items-center justify-between font-bold text-gray-500 pt-1 ${isSplitActive ? 'text-[11px]' : 'text-xl'}`}>
+              <div className={`flex items-center justify-between font-bold text-gray-500 pt-1 ${isSplitActive ? 'text-[9px]' : 'text-xl'}`}>
                 <span className={`flex items-center uppercase tracking-wider ${isSplitActive ? 'gap-1' : 'gap-2.5'}`}>
                   <BookOpen className={`text-brand-primary ${isSplitActive ? 'w-3.5 h-3.5' : 'w-7 h-7'}`} />
                   {t('soal_n', 'Soal ${n}').replace('${n}', currentQuestion.number)}
                 </span>
                 <span className={`rounded-full uppercase tracking-wider font-black ${
-                  isSplitActive ? 'px-2 py-0.5 text-[9px]' : 'px-4 py-1.5 text-base'
+                  isSplitActive ? 'px-2 py-0.5 text-[8px]' : 'px-4 py-1.5 text-base'
                 } ${
                   currentQuestion.level === 'Kab' ? 'bg-emerald-500/10 text-emerald-700' :
                   currentQuestion.level === 'Prov' ? 'bg-blue-500/10 text-blue-700' : 'bg-purple-500/10 text-purple-700'
@@ -690,11 +690,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 </span>
               </div>
               <div className={isSplitActive ? 'mb-4' : 'mb-12'}>
-                <h2 className={`font-extrabold font-heading leading-snug text-gray-850 min-w-0 ${isSplitActive ? 'text-base leading-normal' : 'text-[43px]'}`}>
+                <h2 className={`font-extrabold font-heading leading-snug text-gray-850 min-w-0 ${isSplitActive ? 'text-[32px] leading-normal' : 'text-[34px]'}`}>
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
-              <div className={`grid grid-cols-2 ${isSplitActive ? 'gap-1.5' : 'gap-8'}`}>
+              <div className={`grid ${Object.values(currentQuestion.options).some((o) => o && o.length > 15) ? 'grid-cols-1' : 'grid-cols-2'} ${isSplitActive ? 'gap-1.5' : 'gap-8'}`}>
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
                   if (!value) return null;
                   let optionBg = 'bg-white/50 border-gray-200 hover:bg-white hover:border-gray-300';
@@ -707,10 +707,10 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                     optionBg = 'bg-red-50/60 border-brand-primary ring-2 ring-red-500/10 text-brand-primary font-semibold';
                   }
                   return (
-                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left rounded-2xl border-2 transition-all font-medium ${isSplitActive ? 'p-2 text-base' : 'p-6 text-5xl'} ${optionBg}`}>
+                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left rounded-2xl border-2 transition-all font-medium ${isSplitActive ? 'p-3 text-[30px]' : 'p-6 text-[32px]'} ${optionBg}`}>
                       <div className={`flex items-center ${isSplitActive ? 'gap-1.5 min-w-0' : 'gap-4'}`}>
                         <span className={`rounded-2xl flex items-center justify-center font-black shrink-0 ${
-                          isSplitActive ? 'w-8 h-8 text-base' : 'w-16 h-16 text-3xl'
+                          isSplitActive ? 'w-12 h-12 text-[24px]' : 'w-16 h-16 text-[30px]'
                         } ${
                           isSelectedOption(key) && !isChecked ? 'bg-brand-primary text-white' :
                           isChecked && isCorrectOption(key) ? 'bg-emerald-500 text-white' :
@@ -733,11 +733,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   </button>
                 </div>
                 {!isChecked ? (
-                  <button onClick={handleCheckAnswer} disabled={!selectedOption} className={`bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold rounded-2xl transition shadow-lg shadow-red-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-xs' : 'px-10 py-4 text-xl'}`}>
+                  <button onClick={handleCheckAnswer} disabled={!selectedOption} className={`bg-brand-primary hover:bg-brand-hover disabled:opacity-40 disabled:hover:bg-brand-primary text-white font-bold rounded-2xl transition shadow-lg shadow-red-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-[10px]' : 'px-10 py-4 text-xl'}`}>
                     {t('cek_jawaban', 'Cek Jawaban')}
                   </button>
                 ) : (
-                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className={`bg-brand-accent hover:bg-blue-600 text-white font-bold rounded-2xl transition shadow-lg shadow-blue-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-xs' : 'px-10 py-4 text-xl'}`}>
+                  <button onClick={handleNextQuestion} disabled={positionInFilter >= filterTotal - 1} className={`bg-brand-accent hover:bg-blue-600 text-white font-bold rounded-2xl transition shadow-lg shadow-blue-500/10 flex items-center gap-1.5 ${isSplitActive ? 'px-3 py-1.5 text-[10px]' : 'px-10 py-4 text-xl'}`}>
                     {t('soal_selanjutnya', 'Soal Selanjutnya')} <ChevronRight className={isSplitActive ? 'w-4 h-4' : 'w-7 h-7'} />
                   </button>
                 )}
@@ -745,28 +745,28 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
           </div>
           {isSplitActive && (
-            <div ref={explanationScrollRef} className="lg:col-span-7 min-w-0 h-full bg-slate-900 text-slate-100 border-l border-slate-800 px-10 pb-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
+            <div ref={explanationScrollRef} className="lg:col-span-5 min-w-0 h-full bg-slate-900 text-slate-100 border-l border-slate-800 px-10 pb-10 overflow-y-auto animate-slide-in flex flex-col justify-start space-y-5 rounded-none relative">
               <div className="sticky top-0 pt-10 bg-slate-900 z-10 flex items-center gap-3 border-b border-slate-800 pb-3">
                 <div className="p-2 bg-red-950 border border-red-800/35 rounded-xl text-red-400"><Lightbulb className="w-7 h-7" /></div>
                 <div>
-                  <h3 className="text-[36px] font-bold font-heading text-white">{t('pembahasan_komprehensif', 'Pembahasan Komprehensif')}</h3>
-                  <p className="text-[21.6px] text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
+                  <h3 className="text-[31px] font-bold font-heading text-white">{t('pembahasan_komprehensif', 'Pembahasan Komprehensif')}</h3>
+                  <p className="text-[18px] text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
                 </div>
               </div>
               {currentQuestion.concept && (
                 <div className="bg-slate-800/80 rounded-2xl p-4 border border-slate-700/50 shadow-md">
-                  <span className="text-[21.6px] font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
-                  <p className="text-[28.8px] font-semibold text-slate-200 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} dark /></p>
+                  <span className="text-[18px] font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
+                  <p className="text-[24px] font-semibold text-slate-200 leading-relaxed"><InlineMarkdown text={currentQuestion.concept} dark /></p>
                 </div>
               )}
               <div className="space-y-2.5">
-                <span className="text-[21.6px] font-bold text-slate-500 uppercase tracking-wider block">{t('bongkar_pilihan', 'Bongkar Semua Pilihan (Penting!)')}</span>
+                <span className="text-[18px] font-bold text-slate-500 uppercase tracking-wider block">{t('bongkar_pilihan', 'Bongkar Semua Pilihan (Penting!)')}</span>
                 <div className="grid grid-cols-1 gap-2.5">
                   {Object.entries(currentQuestion.analysis).map(([key, val]) => {
                     if (!val) return null;
                     const isCorrect = key === currentQuestion.answerKey;
                     return (
-                      <div key={key} className={`p-4 rounded-xl text-[28.8px] leading-relaxed border ${isCorrect ? 'bg-emerald-950/40 border-emerald-900/60 text-emerald-200' : 'bg-slate-800/40 border-slate-800/60 text-slate-300'}`}>
+                      <div key={key} className={`p-4 rounded-xl text-[24px] leading-relaxed border ${isCorrect ? 'bg-emerald-950/40 border-emerald-900/60 text-emerald-200' : 'bg-slate-800/40 border-slate-800/60 text-slate-300'}`}>
                         <span className={`font-bold mr-1.5 ${isCorrect ? 'text-emerald-400' : 'text-slate-400'}`}>{t('pilihan', 'Pilihan')} {key}:</span>
                         <InlineMarkdown text={val} dark />
                       </div>
@@ -776,11 +776,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               </div>
               {currentQuestion.steps && currentQuestion.steps.length > 0 && (
                 <div className="space-y-2.5">
-                  <span className="text-[21.6px] font-bold text-slate-500 uppercase tracking-wider block">{t('langkah_penyelesaian', 'Langkah Penyelesaian')}</span>
+                  <span className="text-[18px] font-bold text-slate-500 uppercase tracking-wider block">{t('langkah_penyelesaian', 'Langkah Penyelesaian')}</span>
                   <div className="space-y-2">
                     {currentQuestion.steps.map((step, idx) => (
-                      <div key={idx} className="flex gap-3 text-[28.8px] text-slate-300 leading-relaxed">
-                        <span className="w-11 h-11 text-[19.2px] rounded-full bg-blue-950 border border-blue-900 text-blue-400 flex items-center justify-center font-bold shrink-0">{idx + 1}</span>
+                      <div key={idx} className="flex gap-3 text-[24px] text-slate-300 leading-relaxed">
+                        <span className="w-11 h-11 text-[16px] rounded-full bg-blue-950 border border-blue-900 text-blue-400 flex items-center justify-center font-bold shrink-0">{idx + 1}</span>
                         <span className="pt-0.5"><InlineMarkdown text={step} dark /></span>
                       </div>
                     ))}
@@ -790,9 +790,9 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               {currentQuestion.tips && (
                 <div className="bg-yellow-950/20 rounded-2xl p-4 border border-yellow-900/35 flex items-start gap-3 shadow-md">
                   <div className="p-1 bg-yellow-950/80 rounded-lg text-yellow-500 border border-yellow-800/30 shrink-0 mt-0.5"><Compass className="w-6 h-6" /></div>
-                  <div className="text-[28.8px] leading-relaxed text-yellow-200/90 font-medium">
-                    <span className="font-bold text-yellow-400 block mb-1">{t('tips_olimpiade', 'Tips Olimpiade 💭')}</span>
-                    <MarkdownText text={currentQuestion.tips} dark />
+                  <div className="text-[44px] leading-relaxed text-yellow-200/90 font-medium">
+                    <span className="text-[20px] font-bold text-yellow-400 block mb-1">{t('tips_olimpiade', 'Tips Olimpiade 💭')}</span>
+                    <MarkdownText className="text-[24px]" text={currentQuestion.tips} dark />
                   </div>
                 </div>
               )}
@@ -960,7 +960,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
 
           {/* Question + Pembahasan */}
           <div className={`grid grid-cols-1 ${isSplitActive ? 'lg:grid-cols-10' : ''} gap-6 transition-all duration-500 ease-out`}>
-            <div className={`glass-card rounded-3xl p-8 space-y-6 ${isSplitActive ? 'lg:col-span-3' : ''} transition-all duration-500`}>
+            <div className={`glass-card rounded-3xl p-8 space-y-6 ${isSplitActive ? 'lg:col-span-5' : ''} transition-all duration-500`}>
               {timerEnabled && (
                 <div className="space-y-2">
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
@@ -1047,7 +1047,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             </div>
 
             {isSplitActive && (
-              <div ref={explanationScrollRef} className="lg:col-span-7 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans">
+              <div ref={explanationScrollRef} className="lg:col-span-5 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans">
                 <PembahasanContent q={currentQuestion} />
               </div>
             )}

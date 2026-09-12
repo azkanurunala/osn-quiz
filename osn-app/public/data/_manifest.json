@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildTime": "2026-09-08T17:22:50.648Z",
+  "buildTime": "2026-09-10T15:50:33.710Z",
   "items": [
     {
       "id": "ipa-01-makhluk-hidup-campur",
@@ -2107,6 +2107,32 @@
       "questionCount": 100,
       "theorySectionCount": 10,
       "file": "ipa-05n-bencana-alam-campur.json"
+    },
+    {
+      "id": "ipa-06a-metode-ilmiah-campur",
+      "type": "subbab",
+      "subject": "ipa",
+      "chapter": "ipa-06",
+      "subBab": "ipa-06a",
+      "slug": "metode-ilmiah",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Sub-bab IPA-06a · Keterampilan & Metode Ilmiah",
+      "questionCount": 100,
+      "theorySectionCount": 8,
+      "file": "ipa-06a-metode-ilmiah-campur.json"
+    },
+    {
+      "id": "ipa-06b-keanekaragaman-hayati-campur",
+      "type": "subbab",
+      "subject": "ipa",
+      "chapter": "ipa-06",
+      "subBab": "ipa-06b",
+      "slug": "keanekaragaman-hayati",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Sub-bab IPA-06b · Keanekaragaman Hayati",
+      "questionCount": 80,
+      "theorySectionCount": 8,
+      "file": "ipa-06b-keanekaragaman-hayati-campur.json"
     },
     {
       "id": "mtk-01a-operasi-bilangan-bulat-campur",
