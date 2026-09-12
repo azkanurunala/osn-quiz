@@ -1444,3 +1444,798 @@ Seluruh 100 soal berikut berfokus pada klasifikasi bilangan prima dan komposit d
   3. 50 − 1 − 15 = 34 (jawaban D).
 
 ---
+
+**66.** Faktor dari bilangan 18 adalah ....
+
+- A. 1, 2, 3, 6, 9, 18
+- B. 1, 2, 4, 6, 9, 18
+- C. 1, 3, 6, 9, 12, 18
+- D. 1, 2, 3, 9, 18
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — Semua bilangan ini habis membagi 18 tanpa sisa: 18÷1=18, 18÷2=9, 18÷3=6, 18÷6=3, 18÷9=2, 18÷18=1.
+- **B salah** — 4 bukan faktor 18 karena 18÷4=4,5 (tidak habis).
+- **C salah** — 12 bukan faktor 18 karena 18÷12=1,5 (tidak habis).
+- **D salah** — Daftar ini benar sebagian tapi tidak lengkap; lupa memasukkan 6 sebagai faktor.
+- **Konsep kunci:** Faktor suatu bilangan harus dicek satu per satu dengan pembagian, bukan ditebak dari pola.
+- **Langkah Penyelesaian:**
+  1. Coba bagi 18 dengan 1, 2, 3, ..., 18.
+  2. Yang habis membagi: 1, 2, 3, 6, 9, 18.
+  3. Jawaban A.
+
+---
+
+**67.** Banyak faktor dari bilangan 16 adalah ....
+
+- A. 4
+- B. 5
+- C. 6
+- D. 3
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — Lupa memasukkan salah satu faktor (1 atau 16 sendiri).
+- **B benar** — Faktor 16: 1, 2, 4, 8, 16 → tepat 5 faktor.
+- **C salah** — Salah menghitung, menambahkan bilangan yang bukan faktor seperti 3 atau 6.
+- **D salah** — Terlalu sedikit, kurang teliti mendaftar faktor.
+- **Konsep kunci:** 16 = 2⁴; bilangan pangkat suatu prima punya banyak faktor sejumlah (pangkat + 1).
+- **Langkah Penyelesaian:**
+  1. Daftar faktor 16: 1, 2, 4, 8, 16.
+  2. Hitung banyaknya = 5.
+  3. Jawaban B.
+
+---
+
+**68.** Banyak faktor dari bilangan 20 adalah ....
+
+- A. 5
+- B. 7
+- C. 6
+- D. 4
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Lupa satu faktor, misalnya 4 atau 10.
+- **B salah** — Salah memasukkan bilangan yang bukan faktor, seperti 3.
+- **C benar** — Faktor 20: 1, 2, 4, 5, 10, 20 → tepat 6 faktor.
+- **D salah** — Terlalu sedikit; hanya menghitung faktor genapnya saja.
+- **Konsep kunci:** Mencari faktor dilakukan dengan mencoba pasangan pembagi dari kecil ke besar hingga bertemu di tengah.
+- **Langkah Penyelesaian:**
+  1. Cari pasangan faktor: 1×20, 2×10, 4×5.
+  2. Kumpulkan semua: 1, 2, 4, 5, 10, 20.
+  3. Hitung banyaknya = 6 (jawaban C).
+
+---
+
+**69.** Faktor dari 28 yang merupakan bilangan prima adalah ....
+
+- A. 2 dan 4
+- B. 4 dan 7
+- C. 1 dan 28
+- D. 2 dan 7
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 4 bukan prima (4 = 2 × 2, komposit), meski merupakan faktor 28.
+- **B salah** — 4 bukan prima; hanya 7 yang prima di antara keduanya.
+- **C salah** — 1 bukan prima (hanya punya 1 faktor) dan 28 juga bukan prima (komposit).
+- **D benar** — Faktor 28 adalah 1, 2, 4, 7, 14, 28; yang prima hanya 2 dan 7.
+- **Konsep kunci:** Tidak semua faktor suatu bilangan adalah prima; harus dicek satu per satu mana yang memenuhi definisi prima.
+- **Langkah Penyelesaian:**
+  1. Daftar semua faktor 28: 1, 2, 4, 7, 14, 28.
+  2. Uji tiap faktor: yang prima hanya 2 dan 7.
+  3. Jawaban D.
+
+---
+
+**70.** Bilangan berikut yang memiliki tepat 4 faktor adalah ....
+
+- A. 15
+- B. 16
+- C. 17
+- D. 9
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — Faktor 15: 1, 3, 5, 15 → tepat 4 faktor.
+- **B salah** — Faktor 16 ada 5 (1, 2, 4, 8, 16), bukan 4.
+- **C salah** — 17 prima, hanya punya 2 faktor.
+- **D salah** — 9 = 3², faktornya 1, 3, 9 → hanya 3 faktor.
+- **Konsep kunci:** Hasil kali dua bilangan prima berbeda (p × q) selalu menghasilkan tepat 4 faktor.
+- **Langkah Penyelesaian:**
+  1. Cek masing-masing pilihan dengan mendaftar faktornya.
+  2. Hanya 15 (= 3 × 5) yang punya tepat 4 faktor.
+  3. Jawaban A.
+
+---
+
+**71.** Pasangan bilangan berikut yang merupakan twin prime (berselisih 2 dan keduanya prima) adalah ....
+
+- A. (7, 11)
+- B. (11, 13)
+- C. (15, 17)
+- D. (9, 11)
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — Selisih 7 dan 11 adalah 4 (cousin prime), bukan 2.
+- **B benar** — 11 dan 13 keduanya prima dan berselisih tepat 2 → twin prime.
+- **C salah** — 15 = 3 × 5, bukan bilangan prima, meski berselisih 2 dengan 17.
+- **D salah** — 9 = 3², bukan bilangan prima, meski berselisih 2 dengan 11.
+- **Konsep kunci:** Twin prime harus memenuhi dua syarat sekaligus: keduanya prima DAN berselisih tepat 2.
+- **Langkah Penyelesaian:**
+  1. Cek tiap pasangan: apakah keduanya prima?
+  2. Cek selisihnya = 2.
+  3. Hanya (11, 13) memenuhi keduanya (jawaban B).
+
+---
+
+**72.** Pasangan berikut yang BUKAN merupakan twin prime adalah ....
+
+- A. (3, 5)
+- B. (5, 7)
+- C. (13, 17)
+- D. (17, 19)
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah (sebagai jawaban)** — 3 dan 5 keduanya prima, berselisih 2 → memang twin prime.
+- **B salah** — 5 dan 7 keduanya prima, berselisih 2 → twin prime.
+- **C benar** — 13 dan 17 keduanya prima, tapi berselisih 4 (cousin prime), bukan 2 → bukan twin prime.
+- **D salah** — 17 dan 19 keduanya prima, berselisih 2 → twin prime.
+- **Konsep kunci:** Cousin prime (selisih 4) sering tertukar dengan twin prime (selisih 2); harus dicek selisihnya dengan teliti.
+- **Langkah Penyelesaian:**
+  1. Cek selisih tiap pasangan.
+  2. (13, 17) berselisih 4, bukan 2.
+  3. Jawaban C.
+
+---
+
+**73.** Bilangan yang membentuk pasangan twin prime dengan 29 adalah ....
+
+- A. 27
+- B. 33
+- C. 23
+- D. 31
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 27 = 3³, bukan prima, meski selisihnya dengan 29 hanya 2.
+- **B salah** — 33 = 3 × 11, bukan prima; selisihnya dengan 29 juga 4, bukan 2.
+- **C salah** — 23 memang prima, tapi selisihnya dengan 29 adalah 6 (sexy prime), bukan 2.
+- **D benar** — 31 prima dan 31 − 29 = 2 → (29, 31) adalah twin prime.
+- **Konsep kunci:** Cari pasangan twin prime dengan mengecek n+2 dan n−2, lalu uji keprimaan hasilnya.
+- **Langkah Penyelesaian:**
+  1. Cek 29 − 2 = 27 (bukan prima) dan 29 + 2 = 31 (prima).
+  2. Pasangan twin prime dari 29 adalah 31.
+  3. Jawaban D.
+
+---
+
+**74.** Selisih antara dua bilangan pada pasangan twin prime selalu ....
+
+- A. 2
+- B. 1
+- C. 3
+- D. 4
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — Definisi twin prime adalah pasangan prima dengan selisih tepat 2.
+- **B salah** — Selisih 1 tidak mungkin terjadi antara dua bilangan prima (kecuali kasus 2 dan 3, yang bukan disebut twin prime).
+- **C salah** — Selisih 3 bukan pola umum twin prime.
+- **D salah** — Selisih 4 adalah ciri cousin prime, bukan twin prime.
+- **Konsep kunci:** Nama "twin" (kembar) merujuk pada selisih 2, selisih terkecil yang mungkin antara dua bilangan prima ganjil.
+- **Langkah Penyelesaian:**
+  1. Ingat definisi twin prime: selisih tepat 2.
+  2. Bandingkan dengan pilihan.
+  3. Jawaban A.
+
+---
+
+**75.** Pasangan (41, 43) disebut twin prime karena ....
+
+- A. keduanya bilangan genap
+- B. keduanya bilangan prima dan berselisih 2
+- C. keduanya bilangan komposit
+- D. salah satu bukan bilangan prima
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 41 dan 43 keduanya ganjil, bukan genap.
+- **B benar** — 41 dan 43 keduanya prima (tidak habis dibagi 2, 3, 5) dan 43 − 41 = 2.
+- **C salah** — Keduanya prima, bukan komposit.
+- **D salah** — Keduanya memang prima, bukan hanya salah satu.
+- **Konsep kunci:** Syarat twin prime: kedua bilangan harus prima DAN berselisih tepat 2.
+- **Langkah Penyelesaian:**
+  1. Uji 41 dan 43: keduanya tidak habis dibagi 2, 3, 5 (√43 ≈ 6,6) → prima.
+  2. Hitung selisih: 43 − 41 = 2.
+  3. Jawaban B.
+
+---
+
+**76.** Bilangan 129 adalah bilangan ....
+
+- A. prima
+- B. genap
+- C. komposit, karena 129 = 3 × 43
+- D. bukan bilangan asli
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — 129 habis dibagi 3 (jumlah digit 1+2+9=12), jadi bukan prima.
+- **B salah** — 129 ganjil.
+- **C benar** — 129 = 3 × 43, faktornya 1, 3, 43, 129 → komposit.
+- **D salah** — 129 jelas bilangan asli.
+- **Konsep kunci:** Aturan jumlah digit habis dibagi 3 membantu menemukan faktor bilangan tiga digit dengan cepat.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 129: 1+2+9=12, habis dibagi 3.
+  2. 129 ÷ 3 = 43 → 129 = 3 × 43.
+  3. Simpulkan 129 komposit (jawaban C).
+
+---
+
+**77.** Bilangan 141 adalah bilangan ....
+
+- A. prima
+- B. genap
+- C. bukan bilangan asli
+- D. komposit, karena 141 = 3 × 47
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 141 habis dibagi 3 (jumlah digit 1+4+1=6), jadi bukan prima.
+- **B salah** — 141 ganjil.
+- **C salah** — 141 jelas bilangan asli.
+- **D benar** — 141 = 3 × 47, faktornya 1, 3, 47, 141 → komposit.
+- **Konsep kunci:** Bilangan tiga digit dengan jumlah digit habis dibagi 3 pasti komposit.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 141: 1+4+1=6, habis dibagi 3.
+  2. 141 ÷ 3 = 47 → 141 = 3 × 47.
+  3. Simpulkan 141 komposit (jawaban D).
+
+---
+
+**78.** Bilangan 153 adalah bilangan ....
+
+- A. komposit, karena 153 = 9 × 17
+- B. prima
+- C. genap
+- D. bukan bilangan asli
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 153 = 9 × 17, faktornya 1, 3, 9, 17, 51, 153 → komposit.
+- **B salah** — 153 habis dibagi 3 dan 9 (jumlah digit 1+5+3=9), jadi bukan prima.
+- **C salah** — 153 ganjil.
+- **D salah** — 153 jelas bilangan asli.
+- **Konsep kunci:** Jumlah digit habis dibagi 9 menandakan bilangan tersebut habis dibagi 9, sehingga pasti komposit.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 153: 1+5+3=9, habis dibagi 9.
+  2. 153 ÷ 9 = 17 → 153 = 9 × 17.
+  3. Simpulkan 153 komposit (jawaban A).
+
+---
+
+**79.** Bilangan 159 adalah bilangan ....
+
+- A. genap
+- B. komposit, karena 159 = 3 × 53
+- C. bukan bilangan asli
+- D. prima
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 159 ganjil.
+- **B benar** — 159 = 3 × 53, faktornya 1, 3, 53, 159 → komposit.
+- **C salah** — 159 jelas bilangan asli.
+- **D salah** — 159 habis dibagi 3 (jumlah digit 1+5+9=15), jadi bukan prima.
+- **Konsep kunci:** Aturan jumlah digit habis dibagi 3 mengungkap faktor bilangan yang tampak seperti prima.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 159: 1+5+9=15, habis dibagi 3.
+  2. 159 ÷ 3 = 53 → 159 = 3 × 53.
+  3. Simpulkan 159 komposit (jawaban B).
+
+---
+
+**80.** Bilangan 171 adalah bilangan ....
+
+- A. prima
+- B. bukan bilangan asli
+- C. komposit, karena 171 = 9 × 19
+- D. genap
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — 171 habis dibagi 3 dan 9 (jumlah digit 1+7+1=9), jadi bukan prima.
+- **B salah** — 171 jelas bilangan asli.
+- **C benar** — 171 = 9 × 19, faktornya 1, 3, 9, 19, 57, 171 → komposit.
+- **D salah** — 171 ganjil.
+- **Konsep kunci:** Jumlah digit habis dibagi 9 menandakan bilangan tersebut habis dibagi 9, sehingga pasti komposit.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 171: 1+7+1=9, habis dibagi 9.
+  2. 171 ÷ 9 = 19 → 171 = 9 × 19.
+  3. Simpulkan 171 komposit (jawaban C).
+
+---
+
+**81.** Bilangan 187 adalah bilangan ....
+
+- A. prima
+- B. genap
+- C. bukan bilangan asli
+- D. komposit, karena 187 = 11 × 17
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 187 habis dibagi 11, jadi bukan prima; sering keliru karena tidak habis ÷2, 3, 5, 7.
+- **B salah** — 187 ganjil.
+- **C salah** — 187 jelas bilangan asli.
+- **D benar** — 187 = 11 × 17, faktornya 1, 11, 17, 187 → komposit.
+- **Konsep kunci:** Bilangan yang lolos cek 2, 3, 5, 7 masih perlu dicek pembagi 11 dan 13 sebelum disimpulkan prima.
+- **Langkah Penyelesaian:**
+  1. Cek 187 tidak habis dibagi 2, 3, 5, 7.
+  2. Cek 187 ÷ 11 = 17 → habis.
+  3. Simpulkan 187 komposit (jawaban D).
+
+---
+
+**82.** Bilangan 189 adalah bilangan ....
+
+- A. komposit, karena 189 = 27 × 7
+- B. prima
+- C. genap
+- D. bukan bilangan asli
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 189 = 27 × 7, faktornya 1, 3, 7, 9, 21, 27, 63, 189 → komposit.
+- **B salah** — 189 habis dibagi 3 dan 9 (jumlah digit 1+8+9=18), jadi bukan prima.
+- **C salah** — 189 ganjil.
+- **D salah** — 189 jelas bilangan asli.
+- **Konsep kunci:** Jumlah digit habis dibagi 9 menandakan bilangan tersebut habis dibagi 9, sehingga pasti komposit.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 189: 1+8+9=18, habis dibagi 9.
+  2. 189 ÷ 7 = 27 → 189 = 27 × 7.
+  3. Simpulkan 189 komposit (jawaban A).
+
+---
+
+**83.** Bilangan 201 adalah bilangan ....
+
+- A. genap
+- B. komposit, karena 201 = 3 × 67
+- C. bukan bilangan asli
+- D. prima
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 201 ganjil.
+- **B benar** — 201 = 3 × 67, faktornya 1, 3, 67, 201 → komposit.
+- **C salah** — 201 jelas bilangan asli.
+- **D salah** — 201 habis dibagi 3 (jumlah digit 2+0+1=3), jadi bukan prima.
+- **Konsep kunci:** Bilangan di atas 200 tetap harus dicek jumlah digitnya untuk pembagi 3, bukan otomatis dianggap prima.
+- **Langkah Penyelesaian:**
+  1. Jumlah digit 201: 2+0+1=3, habis dibagi 3.
+  2. 201 ÷ 3 = 67 → 201 = 3 × 67.
+  3. Simpulkan 201 komposit (jawaban B).
+
+---
+
+**84.** Bilangan 163 adalah bilangan ....
+
+- A. komposit, karena habis dibagi 7
+- B. genap
+- C. prima
+- D. negatif
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — 163 ÷ 7 = 23,28 (tidak habis), jadi 7 bukan pembagi 163.
+- **B salah** — 163 ganjil.
+- **C benar** — 163 tidak habis dibagi 2, 3, 5, 7, 11 (√163 ≈ 12,8) → prima.
+- **D salah** — 163 bilangan positif.
+- **Konsep kunci:** Bilangan tiga digit yang lolos cek semua pembagi prima sampai akar kuadratnya adalah prima, tidak peduli seberapa besar angkanya.
+- **Langkah Penyelesaian:**
+  1. Hitung √163 ≈ 12,8, cukup cek 2, 3, 5, 7, 11.
+  2. Tidak satupun habis membagi 163.
+  3. Simpulkan 163 prima (jawaban C).
+
+---
+
+**85.** Bilangan 179 adalah bilangan ....
+
+- A. komposit, karena habis dibagi 7
+- B. genap
+- C. bukan bilangan asli
+- D. prima
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 179 ÷ 7 = 25,57 (tidak habis).
+- **B salah** — 179 ganjil.
+- **C salah** — 179 jelas bilangan asli.
+- **D benar** — 179 tidak habis dibagi 2, 3, 5, 7, 11, 13 (√179 ≈ 13,4) → prima.
+- **Konsep kunci:** Bilangan yang tampak besar tetap bisa prima selama tidak ada pembagi prima ≤ akar kuadratnya.
+- **Langkah Penyelesaian:**
+  1. Hitung √179 ≈ 13,4, cukup cek 2, 3, 5, 7, 11, 13.
+  2. Tidak satupun habis membagi 179.
+  3. Simpulkan 179 prima (jawaban D).
+
+---
+
+**86.** Di antara bilangan berikut, yang merupakan bilangan prima adalah ....
+
+- A. 127
+- B. 115
+- C. 117
+- D. 119
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 127 tidak habis dibagi 2, 3, 5, 7, 11 (√127 ≈ 11,3) → prima.
+- **B salah** — 115 = 5 × 23 (berakhiran 5) → komposit.
+- **C salah** — 117 = 9 × 13 (jumlah digit 9) → komposit.
+- **D salah** — 119 = 7 × 17 → komposit.
+- **Konsep kunci:** Bilangan berakhiran ganjil bukan jaminan prima; tetap harus diuji pembaginya satu per satu.
+- **Langkah Penyelesaian:**
+  1. Cek B, C, D: masing-masing punya faktor selain 1 dan dirinya → komposit.
+  2. Cek A (127): tidak ada pembagi ≤ √127 → prima.
+  3. Jawaban A.
+
+---
+
+**87.** Bilangan berikut yang prima adalah ....
+
+- A. 133
+- B. 131
+- C. 135
+- D. 145
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 133 = 7 × 19 → komposit.
+- **B benar** — 131 tidak habis dibagi 2, 3, 5, 7, 11 (√131 ≈ 11,4) → prima.
+- **C salah** — 135 = 27 × 5 (berakhiran 5, jumlah digit 9) → komposit.
+- **D salah** — 145 = 5 × 29 (berakhiran 5) → komposit.
+- **Konsep kunci:** Bilangan berakhiran 5 (selain 5 sendiri) selalu habis dibagi 5, sehingga otomatis komposit.
+- **Langkah Penyelesaian:**
+  1. Cek A, C, D: masing-masing punya faktor selain 1 dan dirinya → komposit.
+  2. Cek B (131): tidak ada pembagi ≤ √131 → prima.
+  3. Jawaban B.
+
+---
+
+**88.** Di antara pilihan berikut, bilangan prima ditunjukkan oleh ....
+
+- A. 141
+- B. 147
+- C. 151
+- D. 161
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — 141 = 3 × 47 (jumlah digit 6) → komposit.
+- **B salah** — 147 = 3 × 49 (jumlah digit 12) → komposit.
+- **C benar** — 151 tidak habis dibagi 2, 3, 5, 7, 11 (√151 ≈ 12,3) → prima.
+- **D salah** — 161 = 7 × 23 → komposit.
+- **Konsep kunci:** Aturan jumlah digit habis dibagi 3 membantu menyingkirkan kandidat komposit dengan cepat.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, D: masing-masing punya faktor selain 1 dan dirinya → komposit.
+  2. Cek C (151): tidak ada pembagi ≤ √151 → prima.
+  3. Jawaban C.
+
+---
+
+**89.** Bilangan berikut yang komposit adalah ....
+
+- A. 157
+- B. 163
+- C. 167
+- D. 159
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 157 prima (tidak habis dibagi 2, 3, 5, 7, 11).
+- **B salah** — 163 prima.
+- **C salah** — 167 prima.
+- **D benar** — 159 = 3 × 53 (jumlah digit 15, habis dibagi 3) → komposit.
+- **Konsep kunci:** Aturan jumlah digit habis dibagi 3 mengungkap bilangan komposit yang tampak seperti prima.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, C: tidak ada pembagi ≤ √bilangan → prima.
+  2. Cek D: jumlah digit 15 habis dibagi 3 → 159 = 3 × 53 → komposit.
+  3. Jawaban D.
+
+---
+
+**90.** Bilangan berikut yang komposit adalah ....
+
+- A. 175
+- B. 173
+- C. 179
+- D. 181
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 175 = 25 × 7 (berakhiran 5, habis dibagi 5) → komposit.
+- **B salah** — 173 prima.
+- **C salah** — 179 prima.
+- **D salah** — 181 prima.
+- **Konsep kunci:** Bilangan berakhiran 5 (selain 5 sendiri) selalu habis dibagi 5, sehingga komposit.
+- **Langkah Penyelesaian:**
+  1. Cek B, C, D: tidak ada pembagi ≤ √bilangan → prima.
+  2. Cek A: berakhiran 5 → 175 = 5² × 7 → komposit.
+  3. Jawaban A.
+
+---
+
+**91.** Bilangan berikut yang komposit adalah ....
+
+- A. 191
+- B. 195
+- C. 193
+- D. 197
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 191 prima.
+- **B benar** — 195 = 3 × 65 (berakhiran 5, jumlah digit 15 habis ÷3) → komposit.
+- **C salah** — 193 prima.
+- **D salah** — 197 prima.
+- **Konsep kunci:** Bilangan yang habis dibagi 5 sekaligus habis dibagi 3 punya banyak faktor kecil.
+- **Langkah Penyelesaian:**
+  1. Cek A, C, D: tidak ada pembagi ≤ √bilangan → prima.
+  2. Cek B: berakhiran 5 dan jumlah digit 15 → 195 = 3 × 5 × 13 → komposit.
+  3. Jawaban B.
+
+---
+
+**92.** Di antara pilihan berikut, bilangan prima ditunjukkan oleh ....
+
+- A. 183
+- B. 185
+- C. 193
+- D. 187
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — 183 = 3 × 61 (jumlah digit 12) → komposit.
+- **B salah** — 185 = 5 × 37 (berakhiran 5) → komposit.
+- **C benar** — 193 tidak habis dibagi 2, 3, 5, 7, 11, 13 (√193 ≈ 13,9) → prima.
+- **D salah** — 187 = 11 × 17 → komposit.
+- **Konsep kunci:** Bilangan yang lolos cek 2, 3, 5, 7 masih perlu dicek pembagi 11 dan 13 sebelum disimpulkan prima.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, D: masing-masing punya faktor selain 1 dan dirinya → komposit.
+  2. Cek C (193): tidak ada pembagi ≤ √193 → prima.
+  3. Jawaban C.
+
+---
+
+**93.** Bilangan berikut yang komposit adalah ....
+
+- A. 199
+- B. 197
+- C. 191
+- D. 165
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — 199 prima.
+- **B salah** — 197 prima.
+- **C salah** — 191 prima.
+- **D benar** — 165 = 3 × 55 (berakhiran 5, jumlah digit 12) → komposit.
+- **Konsep kunci:** Bilangan yang habis dibagi 3 dan 5 sekaligus memiliki banyak faktor kecil.
+- **Langkah Penyelesaian:**
+  1. Cek A, B, C: tidak ada pembagi ≤ √bilangan → prima.
+  2. Cek D: berakhiran 5 dan jumlah digit 12 → 165 = 3 × 5 × 11 → komposit.
+  3. Jawaban D.
+
+---
+
+**94.** Bilangan berikut yang prima adalah ....
+
+- A. 127
+- B. 123
+- C. 125
+- D. 129
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 127 tidak habis dibagi 2, 3, 5, 7, 11 (√127 ≈ 11,3) → prima.
+- **B salah** — 123 = 3 × 41 (jumlah digit 6) → komposit.
+- **C salah** — 125 = 5³ (berakhiran 5) → komposit.
+- **D salah** — 129 = 3 × 43 (jumlah digit 12) → komposit.
+- **Konsep kunci:** Bilangan hasil pangkat suatu prima (seperti 5³) selalu komposit.
+- **Langkah Penyelesaian:**
+  1. Cek B, C, D: masing-masing punya faktor selain 1 dan dirinya → komposit.
+  2. Cek A (127): tidak ada pembagi ≤ √127 → prima.
+  3. Jawaban A.
+
+---
+
+**95.** Bilangan berikut yang komposit adalah ....
+
+- A. 137
+- B. 145
+- C. 139
+- D. 149
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — 137 prima.
+- **B benar** — 145 = 5 × 29 (berakhiran 5) → komposit.
+- **C salah** — 139 prima.
+- **D salah** — 149 prima.
+- **Konsep kunci:** Bilangan berakhiran 5 (selain 5 sendiri) selalu habis dibagi 5, sehingga otomatis komposit.
+- **Langkah Penyelesaian:**
+  1. Cek A, C, D: tidak ada pembagi ≤ √bilangan → prima.
+  2. Cek B: berakhiran 5 → 145 = 5 × 29 → komposit.
+  3. Jawaban B.
+
+---
+
+**96.** Banyak bilangan prima antara 20 sampai 40 adalah ....
+
+- A. 3
+- B. 5
+- C. 4
+- D. 6
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Lupa salah satu dari 23, 29, 31, 37.
+- **B salah** — Salah memasukkan satu bilangan komposit seperti 33 atau 35.
+- **C benar** — Prima 20–40: 23, 29, 31, 37 → tepat 4 bilangan.
+- **D salah** — Salah memasukkan dua bilangan komposit sekaligus.
+- **Konsep kunci:** Menghitung prima dalam rentang dengan mendaftar kandidat dan menyaring komposit.
+- **Langkah Penyelesaian:**
+  1. Daftar 20–40, coret genap, kelipatan 3, kelipatan 5.
+  2. Sisa yang prima: 23, 29, 31, 37.
+  3. Hitung banyaknya = 4 (jawaban C).
+
+---
+
+**97.** Banyak bilangan prima antara 60 sampai 80 adalah ....
+
+- A. 5
+- B. 4
+- C. 6
+- D. 7
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — Prima 60–80: 61, 67, 71, 73, 79 → tepat 5 bilangan.
+- **B salah** — Lupa salah satu dari daftar tersebut.
+- **C salah** — Salah memasukkan satu bilangan komposit seperti 63 atau 77.
+- **D salah** — Salah memasukkan dua bilangan komposit sekaligus.
+- **Konsep kunci:** Menghitung prima dalam rentang dengan mendaftar kandidat dan menguji satu per satu.
+- **Langkah Penyelesaian:**
+  1. Daftar 60–80 dan uji tiap bilangan.
+  2. Prima yang ditemukan: 61, 67, 71, 73, 79.
+  3. Hitung banyaknya = 5 (jawaban A).
+
+---
+
+**98.** Banyak bilangan prima antara 70 sampai 90 adalah ....
+
+- A. 4
+- B. 5
+- C. 6
+- D. 3
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — Lupa salah satu dari daftar prima 70–90.
+- **B benar** — Prima 70–90: 71, 73, 79, 83, 89 → tepat 5 bilangan.
+- **C salah** — Salah memasukkan satu bilangan komposit seperti 77 atau 87.
+- **D salah** — Lupa dua di antara daftar tersebut.
+- **Konsep kunci:** Menghitung prima dalam rentang dengan mendaftar kandidat dan menguji satu per satu.
+- **Langkah Penyelesaian:**
+  1. Daftar 70–90 dan uji tiap bilangan.
+  2. Prima yang ditemukan: 71, 73, 79, 83, 89.
+  3. Hitung banyaknya = 5 (jawaban B).
+
+---
+
+**99.** Banyak bilangan prima antara 80 sampai 100 adalah ....
+
+- A. 2
+- B. 4
+- C. 3
+- D. 5
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Lupa salah satu dari 83, 89, 97.
+- **B salah** — Salah memasukkan satu bilangan komposit seperti 87 atau 91.
+- **C benar** — Prima 80–100: 83, 89, 97 → tepat 3 bilangan.
+- **D salah** — Salah memasukkan dua bilangan komposit sekaligus.
+- **Konsep kunci:** Rentang 80–100 hanya memiliki 3 prima karena banyak kelipatan kecil (2, 3, 5, 7) menyaring bilangan lain.
+- **Langkah Penyelesaian:**
+  1. Daftar 80–100 dan uji tiap bilangan.
+  2. Prima yang ditemukan: 83, 89, 97.
+  3. Hitung banyaknya = 3 (jawaban C).
+
+---
+
+**100.** Banyak bilangan prima dari 1 sampai 60 adalah ....
+
+- A. 15
+- B. 16
+- C. 17
+- D. 18
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Lupa dua di antara 41, 43, 47, 53, 59.
+- **B salah** — Lupa salah satu dari daftar tersebut.
+- **C benar** — Prima 1–60: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59 → tepat 17 bilangan.
+- **D salah** — Salah memasukkan 51 atau 57 (keduanya komposit) sebagai prima.
+- **Konsep kunci:** Rentang 51–60 menambahkan 2 prima baru (53, 59) ke daftar prima 1–50.
+- **Langkah Penyelesaian:**
+  1. Mulai dari daftar prima 1–50 (15 bilangan), tambahkan 53 dan 59.
+  2. Total menjadi 17.
+  3. Jawaban C.
+
+---
+
+# Bagian III — Kunci & Distribusi
+
+## Tabel Kunci 100 Soal
+
+| 1–10 | 11–20 | 21–30 | 31–40 | 41–50 |
+|------|-------|-------|-------|-------|
+| 1. B | 11. C | 21. D | 31. A | 41. D |
+| 2. D | 12. A | 22. B | 32. C | 42. B |
+| 3. A | 13. D | 23. C | 33. B | 43. A |
+| 4. C | 14. B | 24. A | 34. D | 44. C |
+| 5. D | 15. C | 25. B | 35. A | 45. D |
+| 6. B | 16. A | 26. D | 36. C | 46. A |
+| 7. A | 17. D | 27. A | 37. D | 47. B |
+| 8. C | 18. C | 28. C | 38. B | 48. C |
+| 9. D | 19. B | 29. D | 39. A | 49. D |
+| 10. B | 20. A | 30. B | 40. C | 50. B |
+
+| 51–60 | 61–70 | 71–80 | 81–90 | 91–100 |
+|-------|-------|-------|-------|--------|
+| 51. C | 61. D | 71. B | 81. D | 91. B |
+| 52. A | 62. C | 72. C | 82. A | 92. C |
+| 53. D | 63. B | 73. D | 83. B | 93. D |
+| 54. B | 64. A | 74. A | 84. C | 94. A |
+| 55. C | 65. D | 75. B | 85. D | 95. B |
+| 56. D | 66. A | 76. C | 86. A | 96. C |
+| 57. A | 67. B | 77. D | 87. B | 97. A |
+| 58. B | 68. C | 78. A | 88. C | 98. B |
+| 59. C | 69. D | 79. B | 89. D | 99. C |
+| 60. A | 70. A | 80. C | 90. A | 100. C |
+
+## Distribusi Kunci
+
+Penghitungan per huruf (hasil akhir setelah rotasi opsi untuk keseimbangan):
+
+- **A** (25 soal): 3, 7, 12, 16, 20, 24, 27, 31, 35, 39, 43, 46, 52, 57, 60, 64, 66, 70, 74, 78, 82, 86, 90, 94, 97
+- **B** (25 soal): 1, 6, 10, 14, 19, 22, 25, 30, 33, 38, 42, 47, 50, 54, 58, 63, 67, 71, 75, 79, 83, 87, 91, 95, 98
+- **C** (26 soal): 4, 8, 11, 15, 18, 23, 28, 32, 36, 40, 44, 48, 51, 55, 59, 62, 68, 72, 76, 80, 84, 88, 92, 96, 99, 100
+- **D** (24 soal): 2, 5, 9, 13, 17, 21, 26, 29, 34, 37, 41, 45, 49, 53, 56, 61, 65, 69, 73, 77, 81, 85, 89, 93
+
+**Distribusi A: 25 · B: 25 · C: 26 · D: 24** — selisih maksimum 1 dari target ideal 25 per huruf, jauh di bawah toleransi ±5. Kunci tersebar acak di seluruh soal sehingga tidak ada pola "semua B" atau "semua A" yang dapat ditebak siswa.
+
+---
+
+## Strategi Belajar Bilangan Prima & Komposit
+
+- **Hafalkan 25 prima ≤ 100** — 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. Ini fondasi semua soal di bab ini.
+- **Wajib cek pembagi 7** sebelum menyimpulkan "prima" — 49, 77, 91, 119, 133, 143, 161 semuanya jebakan komposit yang lolos cek 2, 3, 5.
+- **Pakai aturan jumlah digit habis ÷3 dan ÷9** untuk menyingkirkan kandidat komposit dengan cepat tanpa pembagian panjang.
+- **1 bukan prima dan bukan komposit** — jangan pernah memasukkannya ke salah satu kelompok.
+- **2 adalah satu-satunya prima genap** — semua genap lain otomatis komposit.
+- **Twin prime = selisih 2, keduanya prima** — jangan tertukar dengan cousin prime (selisih 4) atau sexy prime (selisih 6).
+- **Faktor suatu bilangan dicari dengan pasangan pembagi** — dari kecil ke besar sampai bertemu di tengah (misal 20: 1×20, 2×10, 4×5).
+- **Menghitung banyak prima/komposit dalam rentang** — daftar dulu semua bilangan, saring genap dan kelipatan kecil, sisanya diuji satu per satu.
+- **Bilangan di atas 100 tidak otomatis komposit** — 101, 103, 107, 109, 113, 127, 131, ... tetap prima; selalu uji sampai √n.
+- **Latihan rutin dengan angka acak** — semakin sering menguji keprimaan, semakin cepat mengenali pola pembagi.
+
+---
+
+*Selesai. Sub-bab 01d - Bilangan Prima & Komposit (Mudah).*

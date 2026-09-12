@@ -723,3 +723,211 @@ Bagian ini menggabungkan faktorisasi prima bilangan menengah dengan penerapan FP
 
 ---
 
+**31.** Faktorisasi prima dari 250 adalah ....
+
+- A. 2 × 5³
+- B. 2² × 5²
+- C. 2 × 5²
+- D. 2³ × 5³
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 250 = 2 × 125 = 2 × 5³.
+- **B salah** — Menambahkan pangkat pada 2 padahal hanya muncul sekali, sekaligus mengurangi pangkat 5 (2²×5² = 100).
+- **C salah** — Kurang satu faktor 5 (2×5² = 50, seperlima dari 250).
+- **D salah** — Menambahkan pangkat pada 2 padahal hanya muncul sekali (2³×5³ = 1.000).
+- **Konsep kunci:** Bilangan berakhiran 0 punya faktor 2 DAN 5 sekaligus — pisahkan dulu faktor 2-nya, baru uraikan sisanya.
+- **Langkah Penyelesaian:**
+  1. 250 ÷ 2 = 125.
+  2. 125 = 5 × 5 × 5 = 5³.
+  3. 250 = 2 × 5³.
+
+---
+
+**32.** Banyak faktor dari 196 adalah ....
+
+- A. 4
+- B. 9
+- C. 3
+- D. 12
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — Tidak menambah 1 pada tiap pangkat, langsung mengalikan pangkatnya: 2×2 = 4.
+- **B benar** — 196 = 2² × 7². Banyak faktor = (2+1)(2+1) = 3×3 = 9.
+- **C salah** — Hanya menghitung dari salah satu faktor prima saja (mengabaikan yang lain sepenuhnya): (2+1) = 3.
+- **D salah** — Menambahkan 1 ekstra yang tidak perlu pada salah satu pangkat: (2+1)(2+1+1) = 3×4 = 12.
+- **Konsep kunci:** Rumus (a+1)(b+1) berlaku untuk SETIAP faktor prima berbeda, dikalikan bersama-sama.
+- **Langkah Penyelesaian:**
+  1. 196 = 2² × 7².
+  2. Banyak faktor = (2+1) × (2+1) = 3 × 3 = 9.
+
+---
+
+**33.** Pecahan 108/144 disederhanakan menggunakan FPB dari faktorisasi primanya menjadi ....
+
+- A. 27/36
+- B. 12/16
+- C. 2/3
+- D. 3/4
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — Hanya membagi dengan 4 (bagian dari FPB), belum dengan FPB penuh 36, hasil 27/36 masih bisa disederhanakan lagi.
+- **B salah** — Hanya membagi dengan 9 (bagian dari FPB), belum dengan FPB penuh 36, hasil 12/16 masih bisa disederhanakan lagi.
+- **C salah** — Membagi dengan angka yang bukan FPB sebenarnya (54, padahal 54 tidak membagi 144 secara utuh), hasil pembagian dipaksakan menjadi 2/3.
+- **D benar** — FPB(108,144) = 36 (lihat soal 26). 108÷36 = 3, 144÷36 = 4, hasil 3/4 (sudah paling sederhana).
+- **Konsep kunci:** Pecahan paling sederhana hanya didapat jika dibagi dengan FPB PENUH, bukan sebagian faktor sama saja.
+- **Langkah Penyelesaian:**
+  1. FPB(108,144) = 36.
+  2. 108 ÷ 36 = 3; 144 ÷ 36 = 4.
+  3. Hasil: 3/4.
+
+---
+
+**34.** Pak Made ingin membagi 126 bibit mangga dan 210 bibit jeruk ke dalam beberapa petak kebun sama rata tanpa sisa, sebanyak-banyaknya. Banyak petak maksimal adalah ... petak.
+
+- A. 42
+- B. 14
+- C. 21
+- D. 6
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 126=2×3²×7, 210=2×3×5×7. Faktor sama pangkat terkecil: 2¹, 3¹, 7¹. FPB = 2×3×7 = 42.
+- **B salah** — Hanya mengambil faktor sama 2 dan 7, melupakan faktor sama 3: 2×7 = 14.
+- **C salah** — Hanya mengambil faktor sama 3 dan 7, melupakan faktor sama 2: 3×7 = 21.
+- **D salah** — Hanya mengambil faktor sama 2 dan 3, melupakan faktor sama 7: 2×3 = 6.
+- **Konsep kunci:** "Sebanyak-banyaknya, tanpa sisa" adalah kata kunci FPB — pastikan semua faktor sama sudah terhitung, jangan berhenti sebagian.
+- **Langkah Penyelesaian:**
+  1. 126 = 2 × 3² × 7; 210 = 2 × 3 × 5 × 7.
+  2. Faktor sama: 2¹, 3¹, 7¹.
+  3. FPB = 2 × 3 × 7 = 42 petak.
+
+---
+
+**35.** Manakah bilangan berikut yang BUKAN kuadrat sempurna, berdasarkan faktorisasi primanya?
+
+- A. 324 (= 2² × 3⁴)
+- B. 392 (= 2³ × 7²)
+- C. 400 (= 2⁴ × 5²)
+- D. 441 (= 3² × 7²)
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah dipilih** — 324 = 2²×3⁴, semua pangkat genap → JUSTRU kuadrat sempurna (bukan jawaban yang dicari).
+- **B benar** — 392 = 2³×7², pangkat pada 2 adalah 3 (ganjil) → bukan kuadrat sempurna.
+- **C salah dipilih** — 400 = 2⁴×5², semua pangkat genap → JUSTRU kuadrat sempurna (bukan jawaban yang dicari).
+- **D salah dipilih** — 441 = 3²×7², semua pangkat genap → JUSTRU kuadrat sempurna (bukan jawaban yang dicari).
+- **Konsep kunci:** Hanya bilangan dengan SEMUA pangkat ganjil pada faktorisasinya yang bukan kuadrat sempurna; cukup satu pangkat ganjil saja sudah cukup menggagalkannya.
+- **Langkah Penyelesaian:**
+  1. Cek pangkat tiap faktorisasi yang diberikan.
+  2. 324, 400, 441 semua pangkatnya genap.
+  3. 392 = 2³×7² punya pangkat ganjil (3) pada faktor 2 → bukan kuadrat sempurna.
+
+---
+
+**36.** Diketahui 576 = 2⁶ × 3². Nilai √576 berdasarkan faktorisasi tersebut adalah ....
+
+- A. 192
+- B. 72
+- C. 24
+- D. 96
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Lupa membagi pangkat 2⁶ dengan 2, hanya membagi pangkat 3² menjadi 3¹: 2⁶×3 = 192.
+- **B salah** — Membagi pangkat 2⁶ dengan 2 secara benar (2³), tapi lupa membagi pangkat 3²: 2³×3² = 72.
+- **C benar** — Bagi tiap pangkat dengan 2: 2^(6/2) × 3^(2/2) = 2³ × 3¹ = 8 × 3 = 24. Cek: 24² = 576. ✓
+- **D salah** — Salah membagi pangkat 2 (menjadi 2⁵ bukan 2³, seolah 6÷2=5): 2⁵×3 = 96.
+- **Konsep kunci:** Bagi SETIAP pangkat dengan 2 secara konsisten untuk mendapatkan akar kuadrat dari faktorisasi prima.
+- **Langkah Penyelesaian:**
+  1. 576 = 2⁶ × 3².
+  2. Bagi tiap pangkat dengan 2: 2³ × 3¹.
+  3. √576 = 8 × 3 = 24.
+
+---
+
+**37.** Faktorisasi prima dari 405 adalah ....
+
+- A. 3⁴ × 5
+- B. 3³ × 5
+- C. 3⁴ × 5²
+- D. 3⁵ × 5
+
+**Kunci: A**
+**Pembahasan:**
+- **A benar** — 405 = 81 × 5 = 3⁴ × 5.
+- **B salah** — Kurang satu faktor 3 (3³×5 = 135, sepertiga dari 405).
+- **C salah** — Menambahkan pangkat pada 5 padahal hanya muncul sekali (3⁴×5² = 2.025).
+- **D salah** — Menambah satu faktor 3 lagi secara keliru (3⁵×5 = 1.215).
+- **Konsep kunci:** Jumlah digit 405 (4+0+5=9) habis dibagi 3 — bagi 3 berulang sampai tidak bisa lagi sebelum pindah ke prima berikutnya.
+- **Langkah Penyelesaian:**
+  1. 405 ÷ 3 = 135, ÷3 = 45, ÷3 = 15, ÷3 = 5 (empat kali bagi 3).
+  2. 5 adalah prima, berhenti.
+  3. 405 = 3⁴ × 5.
+
+---
+
+**38.** Kembang api A meletus tiap 15 detik dan kembang api B tiap 20 detik. Jika keduanya meletus bersamaan di awal pertunjukan, mereka akan meletus bersamaan lagi setelah ... detik.
+
+- A. 5
+- B. 35
+- C. 60
+- D. 300
+
+**Kunci: C**
+**Pembahasan:**
+- **A salah** — Ini adalah FPB (faktor sama hanya 5), bukan KPK — tertukar arah aturan.
+- **B salah** — Menjumlahkan kedua bilangan alih-alih mencari kelipatan persekutuan: 15+20 = 35.
+- **C benar** — 15=3×5, 20=2²×5. Semua prima (2,3,5) pangkat terbesar: 2²×3×5 = 60.
+- **D salah** — Mengalikan kedua bilangan langsung (15×20 = 300) tanpa memperhitungkan faktor 5 yang sama-sama dimiliki keduanya.
+- **Konsep kunci:** KPK bukan selalu hasil kali langsung dua bilangan — jika ada faktor sama, hasil kali langsung akan lebih besar dari KPK sebenarnya.
+- **Langkah Penyelesaian:**
+  1. 15 = 3 × 5; 20 = 2² × 5.
+  2. Pangkat terbesar: 2², 3¹, 5¹.
+  3. KPK = 4 × 3 × 5 = 60 detik.
+
+---
+
+**39.** Sebuah bilangan N = 2³ × 5² memiliki banyak faktor sebanyak ....
+
+- A. 6
+- B. 12
+- C. 16
+- D. 7
+
+**Kunci: B**
+**Pembahasan:**
+- **A salah** — Tidak menambah 1 pada tiap pangkat, langsung mengalikan pangkatnya: 3×2 = 6.
+- **B benar** — Banyak faktor = (3+1)(2+1) = 4×3 = 12.
+- **C salah** — Menambahkan 1 ekstra yang tidak perlu pada salah satu pangkat: (3+1)(2+1+1) = 4×4 = 16.
+- **D salah** — Menjumlahkan (a+1) dan (b+1), bukan mengalikannya: (3+1)+(2+1) = 4+3 = 7.
+- **Konsep kunci:** Rumus banyak faktor selalu berupa PERKALIAN (a+1)(b+1), bukan penjumlahan atau perkalian pangkat tanpa +1.
+- **Langkah Penyelesaian:**
+  1. N = 2³ × 5².
+  2. Banyak faktor = (3+1) × (2+1) = 4 × 3 = 12.
+
+---
+
+**40.** Diketahui A = 2⁵ × 3² dan B = 2² × 3⁵. Manakah pernyataan yang benar?
+
+- A. A lebih besar daripada B
+- B. A sama dengan B
+- C. A dan B sama-sama merupakan kuadrat sempurna
+- D. B lebih besar daripada A
+
+**Kunci: D**
+**Pembahasan:**
+- **A salah** — Hasil sebenarnya justru sebaliknya: A = 32×9 = 288, lebih kecil dari B.
+- **B salah** — Keduanya TIDAK sama; jumlah pangkatnya sama (5+2=7 dan 2+5=7) tapi nilai akhirnya berbeda karena basisnya berbeda.
+- **C salah** — Baik A maupun B punya pangkat 5 (ganjil) pada salah satu basisnya, jadi KEDUANYA bukan kuadrat sempurna.
+- **D benar** — A = 2⁵×3² = 32×9 = 288. B = 2²×3⁵ = 4×243 = 972. Karena 972 > 288, maka B lebih besar.
+- **Konsep kunci:** Jumlah pangkat yang sama tidak menjamin nilai yang sama — basis yang lebih besar (3 dibanding 2) memberi pengaruh lebih besar ketika mendapat pangkat besar.
+- **Langkah Penyelesaian:**
+  1. A = 2⁵×3² = 32 × 9 = 288.
+  2. B = 2²×3⁵ = 4 × 243 = 972.
+  3. 972 > 288, jadi B lebih besar.
+
+---
+

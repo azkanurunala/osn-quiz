@@ -748,13 +748,13 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-campur.md`
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-mudah.md`
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-sedang.md`
-- [ ] `osn-sd-mtk-01c-faktor-kelipatan-sulit.md`
+- [x] `osn-sd-mtk-01c-faktor-kelipatan-sulit.md`
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-mudah-sedang.md`
 - [x] `osn-sd-mtk-01c-faktor-kelipatan-sedang-sulit.md`
 
 **MTK-01d · Bilangan Prima & Komposit** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01d-bilangan-prima-komposit-campur.md`
-- [ ] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah.md`
+- [x] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah.md`
 - [x] `osn-sd-mtk-01d-bilangan-prima-komposit-sedang.md`
 - [x] `osn-sd-mtk-01d-bilangan-prima-komposit-sulit.md`
 - [x] `osn-sd-mtk-01d-bilangan-prima-komposit-mudah-sedang.md`
@@ -763,30 +763,30 @@ Tag **`(fokus …)`** = tingkat kesulitan alami sub-topik — bukan jumlah soal.
 **MTK-01e · Faktorisasi Prima** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01e-faktorisasi-prima-campur.md`
 - [x] `osn-sd-mtk-01e-faktorisasi-prima-mudah.md`
-- [ ] `osn-sd-mtk-01e-faktorisasi-prima-sedang.md`
-- [ ] `osn-sd-mtk-01e-faktorisasi-prima-sulit.md`
+- [x] `osn-sd-mtk-01e-faktorisasi-prima-sedang.md`
+- [x] `osn-sd-mtk-01e-faktorisasi-prima-sulit.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-mudah-sedang.md`
 - [ ] `osn-sd-mtk-01e-faktorisasi-prima-sedang-sulit.md`
 
 **MTK-01f · FPB (Faktor Persekutuan Terbesar)** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01f-fpb-campur.md`
 - [x] `osn-sd-mtk-01f-fpb-mudah.md`
-- [ ] `osn-sd-mtk-01f-fpb-sedang.md`
+- [x] `osn-sd-mtk-01f-fpb-sedang.md`
 - [ ] `osn-sd-mtk-01f-fpb-sulit.md`
-- [ ] `osn-sd-mtk-01f-fpb-mudah-sedang.md`
+- [x] `osn-sd-mtk-01f-fpb-mudah-sedang.md`
 - [ ] `osn-sd-mtk-01f-fpb-sedang-sulit.md`
 
 **MTK-01g · KPK (Kelipatan Persekutuan Terkecil)** (fokus Kab–Prov)
 - [x] `osn-sd-mtk-01g-kpk-campur.md`
-- [ ] `osn-sd-mtk-01g-kpk-mudah.md`
-- [ ] `osn-sd-mtk-01g-kpk-sedang.md`
+- [x] `osn-sd-mtk-01g-kpk-mudah.md`
+- [x] `osn-sd-mtk-01g-kpk-sedang.md`
 - [ ] `osn-sd-mtk-01g-kpk-sulit.md`
-- [ ] `osn-sd-mtk-01g-kpk-mudah-sedang.md`
+- [x] `osn-sd-mtk-01g-kpk-mudah-sedang.md`
 - [ ] `osn-sd-mtk-01g-kpk-sedang-sulit.md`
 
 **MTK-01h · Bilangan Kuadrat & Akar Kuadrat** (fokus Prov)
 - [x] `osn-sd-mtk-01h-kuadrat-akar-campur.md`
-- [ ] `osn-sd-mtk-01h-kuadrat-akar-mudah.md`
+- [x] `osn-sd-mtk-01h-kuadrat-akar-mudah.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-sedang.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-sulit.md`
 - [ ] `osn-sd-mtk-01h-kuadrat-akar-mudah-sedang.md`

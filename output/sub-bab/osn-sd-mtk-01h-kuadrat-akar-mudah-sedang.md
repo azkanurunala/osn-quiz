@@ -589,3 +589,538 @@ Bagian ini berisi hitungan kuadrat/akar langsung dan soal cerita persegi 1 langk
   3. Jadi 350 adalah pengecualian.
 
 ---
+
+**26.** Sebuah taman bermain berbentuk persegi dengan sisi 9 meter. Luas taman tersebut adalah …
+- A. 36 m²
+- B. 81 m²
+- C. 18 m²
+- D. 27 m²
+
+**Kunci: B**
+**Pembahasan:**
+- **A** — Mengira luas = 4 × sisi = 36. Salah, itu rumus keliling.
+- **B** — Benar. Luas persegi = sisi × sisi = 9 × 9 = 81 m².
+- **C** — Mengira luas = 2 × sisi = 18. Salah rumus.
+- **D** — Mengira 9 × 3 = 27. Tidak ada dasar rumus.
+
+- **Konsep kunci:** Luas persegi dihitung dengan mengalikan sisi dengan sisi.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus Luas = sisi × sisi.
+  2. Hitung 9 × 9.
+  3. Hasilnya 81 m².
+
+---
+
+**27.** Hasil dari 12² + 5² adalah …
+- A. 34
+- B. 144
+- C. 169
+- D. 25
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira 12² + 5² = 12×2 + 5×2 = 24 + 10 = 34. Konsep ² × 2, salah.
+- **B** — Hanya menghitung 12² = 144 dan lupa menambah 5².
+- **C** — Benar. 12² = 144, 5² = 25, jadi 144 + 25 = 169.
+- **D** — Hanya menghitung 5² = 25 dan lupa menambah 12².
+
+- **Konsep kunci:** Setiap suku kuadrat harus dihitung dulu sebelum dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 12² = 144.
+  2. Hitung 5² = 25.
+  3. Jumlahkan 144 + 25 = 169.
+
+---
+
+**28.** Bilangan kuadrat sempurna yang paling dekat dengan 200 adalah …
+- A. 225
+- B. 169
+- C. 196
+- D. 256
+
+**Kunci: C**
+**Pembahasan:**
+- Kuadrat di sekitar 200: 169 (13²), 196 (14²), 225 (15²).
+- **A** — 225 selisihnya 25 dari 200.
+- **B** — 169 selisihnya 31 dari 200. Bukan yang terdekat.
+- **C** — Benar. 196 selisihnya hanya 4 dari 200, paling dekat.
+- **D** — 256 selisihnya 56 dari 200, jauh.
+
+- **Konsep kunci:** Membandingkan selisih tiap kuadrat sempurna terhadap suatu bilangan untuk menemukan yang terdekat.
+- **Langkah Penyelesaian:**
+  1. Daftar kuadrat di sekitar 200: 169, 196, 225.
+  2. Hitung selisih masing-masing terhadap 200: 31, 4, 25.
+  3. 196 punya selisih terkecil (4), jadi paling dekat.
+
+---
+
+**29.** Hasil dari 30² adalah …
+- A. 900
+- B. 841
+- C. 961
+- D. 60
+
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. 30 × 30 = 900. Trik: 3 × 3 = 9, sambung dua nol → 900.
+- **B** — Mengira 30² = 29² = 841. Tergeser satu bilangan.
+- **C** — Mengira 30² = 31² = 961. Tergeser ke bilangan berikutnya.
+- **D** — Mengira 30² = 30 × 2 = 60. Salah konsep.
+
+- **Konsep kunci:** Kuadrat bilangan puluhan bulat dapat dihitung dengan mengalikan angka depan lalu menyambung nolnya.
+- **Langkah Penyelesaian:**
+  1. Kalikan angka depan 3 × 3 = 9.
+  2. Sambung dua angka nol dari 30 × 30.
+  3. Hasilnya 900.
+
+---
+
+**30.** Sebuah lapangan basket mini berbentuk persegi memiliki luas 289 m². Keliling lapangan tersebut adalah …
+- A. 17 m
+- B. 34 m
+- C. 68 m
+- D. 51 m
+
+**Kunci: C**
+**Pembahasan:**
+- Sisi = √289 = 17 m. Keliling = 4 × sisi = 4 × 17 = 68 m.
+- **A** — Hanya menghitung sisi (17 m), lupa mencari keliling.
+- **B** — Mengira keliling = 2 × sisi = 34. Itu rumus diameter, bukan keliling persegi.
+- **C** — Benar. K = 4 × 17 = 68 m.
+- **D** — Mengira keliling = 3 × sisi = 51. Salah rumus.
+
+- **Konsep kunci:** Keliling persegi dicari dengan mengalikan sisi (hasil akar dari luas) dengan 4.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √289 = 17 m.
+  2. Gunakan rumus keliling = 4 × sisi.
+  3. Hitung 4 × 17 = 68 m.
+
+---
+
+**31.** Hasil dari 3² + 4² + 5² adalah …
+- A. 144
+- B. 24
+- C. 50
+- D. 40
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira (3 + 4 + 5)² = 12² = 144. Salah, kuadrat tidak boleh dijumlah dulu.
+- **B** — Mengira 3×2 + 4×2 + 5×2 = 24. Konsep ² × 2, salah.
+- **C** — Benar. 3² + 4² + 5² = 9 + 16 + 25 = 50.
+- **D** — Salah hitung salah satu suku, misalnya 5² dianggap 15.
+
+- **Konsep kunci:** Jumlah beberapa kuadrat dihitung dengan mengkuadratkan tiap bilangan dulu, baru dijumlahkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 3²=9, 4²=16, 5²=25.
+  2. Jumlahkan 9 + 16 + 25.
+  3. Hasilnya 50.
+
+---
+
+**32.** Selisih antara 16² dan 15² adalah …
+- A. 1
+- B. 256
+- C. 225
+- D. 31
+
+**Kunci: D**
+**Pembahasan:**
+- **A** — Mengira selisih kuadrat berurutan = selisih angka asli (16 − 15 = 1). Salah, harus kuadratkan dulu.
+- **B** — Hanya menyebut 16² = 256 dan lupa mengurangi.
+- **C** — Hanya menyebut 15² = 225 dan lupa langkah pengurangan.
+- **D** — Benar. 16² = 256, 15² = 225, selisih = 256 − 225 = 31. Sesuai pola 2(15)+1 = 31.
+
+- **Konsep kunci:** Selisih dua kuadrat berurutan dihitung setelah masing-masing dikuadratkan, mengikuti pola 2n+1.
+- **Langkah Penyelesaian:**
+  1. Hitung 16² = 256 dan 15² = 225.
+  2. Kurangkan 256 − 225.
+  3. Hasilnya 31.
+
+---
+
+**33.** Dimas mempunyai kebun bunga berbentuk persegi dengan sisi 18 meter. Luas kebun tersebut adalah …
+- A. 72 m²
+- B. 324 m²
+- C. 36 m²
+- D. 54 m²
+
+**Kunci: B**
+**Pembahasan:**
+- **A** — Mengira luas = 4 × sisi = 72. Salah, itu rumus keliling.
+- **B** — Benar. Luas persegi = sisi × sisi = 18 × 18 = 324 m².
+- **C** — Mengira luas = 2 × sisi = 36. Salah rumus.
+- **D** — Mengira 18 × 3 = 54. Tidak ada dasar rumus.
+
+- **Konsep kunci:** Luas persegi dihitung dengan mengalikan sisi dengan sisi.
+- **Langkah Penyelesaian:**
+  1. Gunakan rumus Luas = sisi × sisi.
+  2. Hitung 18 × 18.
+  3. Hasilnya 324 m².
+
+---
+
+**34.** Hasil dari 6² × 4² adalah …
+- A. 576
+- B. 24
+- C. 100
+- D. 288
+
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. 6² = 36, 4² = 16, 36 × 16 = 576. Bisa juga (6 × 4)² = 24² = 576.
+- **B** — Mengira 6² × 4² = 6 × 4 = 24. Hanya mengalikan basisnya, salah konsep.
+- **C** — Mengira (6 + 4)² = 10² = 100. Penjumlahan vs perkalian basis berbeda.
+- **D** — Salah hitung, hanya setengah dari hasil sebenarnya.
+
+- **Konsep kunci:** Perkalian dua kuadrat sama dengan kuadrat dari perkalian bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 6² = 36 dan 4² = 16.
+  2. Kalikan 36 × 16.
+  3. Hasilnya 576, sama dengan (6×4)² = 24² = 576.
+
+---
+
+**35.** Jika luas persegi 441 cm², kelilingnya adalah …
+- A. 21 cm
+- B. 42 cm
+- C. 84 cm
+- D. 63 cm
+
+**Kunci: C**
+**Pembahasan:**
+- Sisi = √441 = 21 cm. Keliling = 4 × sisi = 4 × 21 = 84 cm.
+- **A** — Hanya menghitung sisi (21 cm), lupa cari keliling.
+- **B** — Mengira keliling = 2 × sisi = 42. Itu rumus diameter, bukan keliling persegi.
+- **C** — Benar. K = 4 × 21 = 84 cm.
+- **D** — Mengira keliling = 3 × sisi = 63. Salah rumus.
+
+- **Konsep kunci:** Keliling persegi dicari dengan mengalikan sisi (hasil akar dari luas) dengan 4.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √441 = 21 cm.
+  2. Gunakan rumus keliling = 4 × sisi.
+  3. Hitung 4 × 21 = 84 cm.
+
+---
+
+**36.** Bilangan kuadrat ke-12 (dimulai dari 1²) adalah …
+- A. 121
+- B. 144
+- C. 169
+- D. 24
+
+**Kunci: B**
+**Pembahasan:**
+- Urutan: ..., 10²=100 (ke-10), 11²=121 (ke-11), 12²=144 (ke-12), 13²=169 (ke-13).
+- **A** — 121 = 11², ini ke-11. Geser satu.
+- **B** — Benar. 12² = 144 adalah kuadrat ke-12.
+- **C** — 169 = 13², ke-13. Geser satu ke arah sebaliknya.
+- **D** — Mengira 12 × 2 = 24. Salah konsep.
+
+- **Konsep kunci:** Urutan bilangan kuadrat dimulai dari 1² sebagai suku pertama.
+- **Langkah Penyelesaian:**
+  1. Susun urutan 1², 2², ..., 12².
+  2. Hitung suku ke-12 yaitu 12².
+  3. 12² = 144.
+
+---
+
+**37.** Hasil dari 8² − 6² adalah …
+- A. 28
+- B. 4
+- C. 64
+- D. 36
+
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. 8² = 64, 6² = 36, 64 − 36 = 28.
+- **B** — Mengira (8 − 6)² = 2² = 4. Salah; kurang dulu lalu kuadrat berbeda dengan kuadrat dulu lalu kurang.
+- **C** — Hanya menulis 8² = 64 tanpa mengurangi.
+- **D** — Hanya menulis 6² = 36 tanpa langkah pengurangan.
+
+- **Konsep kunci:** Kuadratkan dulu setiap bilangan sebelum dikurangkan; hasilnya beda jika dikurangkan dulu baru dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 8² = 64 dan 6² = 36.
+  2. Kurangkan 64 − 36.
+  3. Hasilnya 28.
+
+---
+
+**38.** Sebuah kelas memiliki 225 ubin lantai berbentuk persegi yang disusun menjadi pola persegi besar. Berapa ubin di setiap sisi?
+- A. 15
+- B. 56
+- C. 113
+- D. 45
+
+**Kunci: A**
+**Pembahasan:**
+- Soal cerita akar: total 225 disusun persegi → sisi = √225 = 15.
+- **A** — Benar. 15 × 15 = 225 ubin. Setiap sisi 15 ubin.
+- **B** — Mengira 225 ÷ 4 sisi = 56 (dibulatkan). Itu kalau dibagi keempat sisi terpisah; tidak benar untuk pola persegi penuh.
+- **C** — Mengira 225 ÷ 2 = 112,5 dibulatkan 113. Bagi dua, bukan akar.
+- **D** — Mengira 225 ÷ 5 = 45. Salah operasi.
+
+- **Konsep kunci:** Menyusun sejumlah benda menjadi bentuk persegi berarti mencari akar kuadrat dari jumlah totalnya.
+- **Langkah Penyelesaian:**
+  1. Total ubin = 225.
+  2. Sisi persegi = √225.
+  3. Karena 15 × 15 = 225, tiap sisi berisi 15 ubin.
+
+---
+
+**39.** √841 = …
+- A. 28
+- B. 30
+- C. 420
+- D. 29
+
+**Kunci: D**
+**Pembahasan:**
+- **A** — Mengira 28² = 841. Salah, 28² = 784.
+- **B** — Mengira 30² = 841. Salah, 30² = 900 (kelewatan).
+- **C** — Mengira √841 = 841 ÷ 2 = 420. Salah, akar bukan "bagi 2".
+- **D** — Benar. 29 × 29 = 841.
+
+- **Konsep kunci:** Akar kuadrat mencari bilangan pengali dirinya sendiri, bukan hasil pembagian.
+- **Langkah Penyelesaian:**
+  1. Ingat hafalan kuadrat di sekitar 841.
+  2. Cek 29 × 29 = 841.
+  3. Jadi √841 = 29.
+
+---
+
+**40.** Lengkapilah: 17² = 289, maka 18² = …
+- A. 306
+- B. 361
+- C. 289
+- D. 324
+
+**Kunci: D**
+**Pembahasan:**
+- Pola: selisih 17² → 18² = 2(17) + 1 = 35, jadi 289 + 35 = 324.
+- **A** — Mengira 289 + 17 = 306. Konsep selisih salah, seharusnya 2n+1 bukan n.
+- **B** — Mengira 19² = 361 (geser satu).
+- **C** — Tidak menambah apa-apa. Sama dengan 17². Salah.
+- **D** — Benar. 18² = 324.
+
+- **Konsep kunci:** Kuadrat bilangan berikutnya bisa dicari dengan menambahkan selisih ganjil (2n+1) pada kuadrat sebelumnya.
+- **Langkah Penyelesaian:**
+  1. Selisih 18² dan 17² adalah 2(17)+1 = 35.
+  2. Tambahkan pada 289: 289 + 35.
+  3. Hasilnya 324.
+
+---
+
+**41.** Hasil dari √81 + √121 adalah …
+- A. 14
+- B. 18
+- C. 20
+- D. 25
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira √(81 + 121) = √202 ≈ 14. Akar TIDAK boleh dijumlah dulu.
+- **B** — Salah hitung salah satu akar, misalnya √81 dianggap 7.
+- **C** — Benar. √81 = 9, √121 = 11, 9 + 11 = 20.
+- **D** — Salah hitung, menjumlahkan angka yang keliru.
+
+- **Konsep kunci:** Akar dari beberapa bilangan dijumlahkan setelah masing-masing ditarik akarnya, bukan dijumlahkan dulu di dalam akar.
+- **Langkah Penyelesaian:**
+  1. Hitung √81 = 9.
+  2. Hitung √121 = 11.
+  3. Jumlahkan 9 + 11 = 20.
+
+---
+
+**42.** Jumlah angka pada hasil 24² adalah …
+- A. 15
+- B. 19
+- C. 18
+- D. 17
+
+**Kunci: C**
+**Pembahasan:**
+- Hitung dulu 24² = 576.
+- **A** — Salah hitung 24² menjadi 546, jumlah angka 5+4+6 = 15.
+- **B** — Mengira 24² = 676 (itu 26²), jumlah angka 6+7+6 = 19.
+- **C** — Benar. 24² = 576, jumlah angka = 5 + 7 + 6 = 18.
+- **D** — Salah hitung 24² menjadi 566, jumlah 17.
+
+- **Konsep kunci:** Menghitung kuadrat suatu bilangan dulu, baru menjumlahkan digit-digit hasilnya.
+- **Langkah Penyelesaian:**
+  1. Hitung 24² = 576.
+  2. Jumlahkan digit: 5 + 7 + 6.
+  3. Hasilnya 18.
+
+---
+
+**43.** Jika luas persegi 784 cm², kelilingnya adalah …
+- A. 28 cm
+- B. 56 cm
+- C. 84 cm
+- D. 112 cm
+
+**Kunci: D**
+**Pembahasan:**
+- Sisi = √784 = 28 cm. Keliling = 4 × sisi = 4 × 28 = 112 cm.
+- **A** — Hanya menghitung sisi (28 cm), lupa cari keliling.
+- **B** — Mengira keliling = 2 × sisi = 56. Itu rumus diameter, bukan keliling persegi.
+- **C** — Mengira keliling = 3 × sisi = 84. Salah rumus.
+- **D** — Benar. K = 4 × 28 = 112 cm.
+
+- **Konsep kunci:** Keliling persegi dicari dengan mengalikan sisi (hasil akar dari luas) dengan 4.
+- **Langkah Penyelesaian:**
+  1. Cari sisi = √784 = 28 cm.
+  2. Gunakan rumus keliling = 4 × sisi.
+  3. Hitung 4 × 28 = 112 cm.
+
+---
+
+**44.** Bilangan kuadrat terkecil yang lebih besar dari 100 adalah …
+- A. 100
+- B. 110
+- C. 121
+- D. 144
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — 100 = 10², tapi tidak LEBIH BESAR dari 100 (sama dengan 100). Salah arah.
+- **B** — 110 bukan kuadrat sempurna sama sekali.
+- **C** — Benar. 10² = 100 (bukan yang diminta), 11² = 121 (lebih besar dari 100 dan terkecil).
+- **D** — 144 = 12², kuadrat sempurna tetapi bukan yang terkecil di atas 100.
+
+- **Konsep kunci:** Mencari kuadrat sempurna terkecil di atas suatu batas dengan mengecek kuadrat berurutan.
+- **Langkah Penyelesaian:**
+  1. Cek 10² = 100 (belum lebih besar, sama dengan batas).
+  2. Cek 11² = 121 (sudah lebih besar dari 100).
+  3. 121 adalah kuadrat terkecil yang lebih besar dari 100.
+
+---
+
+**45.** Hasil dari 7² × 3² adalah …
+- A. 21
+- B. 100
+- C. 441
+- D. 220
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira 7² × 3² = 7 × 3 = 21. Hanya mengalikan basisnya, salah konsep.
+- **B** — Mengira (7 + 3)² = 10² = 100. Penjumlahan vs perkalian basis berbeda.
+- **C** — Benar. 7² = 49, 3² = 9, 49 × 9 = 441. Bisa juga (7 × 3)² = 21² = 441.
+- **D** — Salah hitung, hanya setengah dari hasil sebenarnya.
+
+- **Konsep kunci:** Perkalian dua kuadrat sama dengan kuadrat dari perkalian bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 7² = 49 dan 3² = 9.
+  2. Kalikan 49 × 9.
+  3. Hasilnya 441, sama dengan (7×3)² = 21² = 441.
+
+---
+
+**46.** Sebuah panitia lomba menyusun 324 kursi menjadi barisan berbentuk persegi. Berapa kursi di setiap sisi?
+- A. 81
+- B. 18
+- C. 162
+- D. 54
+
+**Kunci: B**
+**Pembahasan:**
+- Soal cerita akar: total 324 disusun persegi → sisi = √324 = 18.
+- **A** — Mengira 324 ÷ 4 sisi = 81. Itu kalau dibagi keempat sisi terpisah; tidak benar untuk pola persegi penuh.
+- **B** — Benar. 18 × 18 = 324 kursi. Setiap sisi 18 kursi.
+- **C** — Mengira 324 ÷ 2 = 162. Bagi dua, bukan akar.
+- **D** — Mengira 324 ÷ 6 = 54. Salah operasi.
+
+- **Konsep kunci:** Menyusun sejumlah benda menjadi bentuk persegi berarti mencari akar kuadrat dari jumlah totalnya.
+- **Langkah Penyelesaian:**
+  1. Total kursi = 324.
+  2. Sisi persegi = √324.
+  3. Karena 18 × 18 = 324, tiap sisi berisi 18 kursi.
+
+---
+
+**47.** Akar dari 900 dikurangi akar dari 400 adalah …
+- A. 22
+- B. 25
+- C. 10
+- D. 50
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira √(900 − 400) = √500 ≈ 22. Akar tidak boleh dikurangkan dulu di dalam tanda akar.
+- **B** — Salah hitung salah satu akar, misalnya √900 dianggap 35.
+- **C** — Benar. √900 = 30, √400 = 20, 30 − 20 = 10.
+- **D** — Mengira √900 = 900 ÷ 30 dan √400 = 400 ÷ 8, hasil dijumlahkan bukan dikurangkan.
+
+- **Konsep kunci:** Akar dari beberapa bilangan dihitung dulu satu per satu, baru dikurangkan.
+- **Langkah Penyelesaian:**
+  1. Hitung √900 = 30.
+  2. Hitung √400 = 20.
+  3. Kurangkan 30 − 20 = 10.
+
+---
+
+**48.** Hasil dari 6² × 2² adalah …
+- A. 12
+- B. 64
+- C. 144
+- D. 72
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Mengira 6² × 2² = 6 × 2 = 12. Hanya mengalikan basisnya, salah konsep.
+- **B** — Mengira (6 + 2)² = 8² = 64. Penjumlahan vs perkalian basis berbeda.
+- **C** — Benar. 6² = 36, 2² = 4, 36 × 4 = 144. Bisa juga (6 × 2)² = 12² = 144.
+- **D** — Salah hitung, hanya setengah dari hasil sebenarnya.
+
+- **Konsep kunci:** Perkalian dua kuadrat sama dengan kuadrat dari perkalian bilangan aslinya.
+- **Langkah Penyelesaian:**
+  1. Hitung 6² = 36 dan 2² = 4.
+  2. Kalikan 36 × 4.
+  3. Hasilnya 144, sama dengan (6×2)² = 12² = 144.
+
+---
+
+**49.** Lengkapilah: 20² = 400, maka 21² = …
+- A. 441
+- B. 420
+- C. 484
+- D. 400
+
+**Kunci: A**
+**Pembahasan:**
+- Pola: selisih 20² → 21² = 2(20) + 1 = 41, jadi 400 + 41 = 441.
+- **A** — Benar. 21² = 441.
+- **B** — Mengira 400 + 20 = 420. Konsep selisih salah, seharusnya 2n+1 bukan n.
+- **C** — Mengira 22² = 484 (geser satu).
+- **D** — Tidak menambah apa-apa. Sama dengan 20². Salah.
+
+- **Konsep kunci:** Kuadrat bilangan berikutnya bisa dicari dengan menambahkan selisih ganjil (2n+1) pada kuadrat sebelumnya.
+- **Langkah Penyelesaian:**
+  1. Selisih 21² dan 20² adalah 2(20)+1 = 41.
+  2. Tambahkan pada 400: 400 + 41.
+  3. Hasilnya 441.
+
+---
+
+**50.** Hasil dari 9² − 7² adalah …
+- A. 4
+- B. 32
+- C. 81
+- D. 49
+
+**Kunci: B**
+**Pembahasan:**
+- **A** — Mengira (9 − 7)² = 2² = 4. Kuadrat selisih ≠ selisih kuadrat.
+- **B** — Benar. 9² = 81, 7² = 49, 81 − 49 = 32.
+- **C** — Hanya menulis 9² = 81 tanpa mengurangi.
+- **D** — Hanya menulis 7² = 49 tanpa langkah pengurangan.
+
+- **Konsep kunci:** Selisih dua kuadrat dihitung setelah masing-masing dikuadratkan.
+- **Langkah Penyelesaian:**
+  1. Hitung 9² = 81 dan 7² = 49.
+  2. Kurangkan 81 − 49.
+  3. Hasilnya 32.
+
+---
