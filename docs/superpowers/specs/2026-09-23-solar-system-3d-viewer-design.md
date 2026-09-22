@@ -10,9 +10,11 @@ Add an interactive 3D solar system visualization for the Tata Surya sub-bab (ipa
 
 This is a pilot for one topic. If it validates well, the same pattern extends to other IPA sub-bab (atmosfer, gerhana, siklus air, etc.) as separate follow-up work — not part of this spec.
 
-## Why one component, three surfaces
+## Why one component, two surfaces (video deferred — see below)
 
-`osn-app` has no router — navigation is a `currentTab` state in `App.jsx` (`'dashboard' | 'practice' | 'tryout' | 'analytics'`). Video recording (`scripts/record-videos.mjs`) works by loading the app with `?record=<subBabId>&tier=<tier>` in headless Playwright and screen-recording whatever renders live in `PracticeArea`. Consequence: there is no separate "video mode" to build — if the 3D scene renders inline in `PracticeArea` for `ipa-05a`, it is captured automatically when that sub-bab gets recorded. Building one reusable `SolarSystemScene` component that mounts in two places (viewer tab, inline widget) covers all three consumption points named in the brainstorm.
+`osn-app` has no router — navigation is a `currentTab` state in `App.jsx` (`'dashboard' | 'practice' | 'tryout' | 'analytics'`). Building one reusable `SolarSystemScene` component that mounts in two places (a standalone viewer tab, and an inline widget in normal practice mode) covers two of the three consumption points named in the brainstorm.
+
+**Correction from initial brainstorm (found during planning):** the brainstorm assumed video recording would capture the inline widget "for free" because `record-videos.mjs` screen-records whatever `PracticeArea` renders. That's true only for the *normal* practice UI. In fact `PracticeArea.jsx` has a **separate, pixel-tuned full-screen render branch for `isCleanMode`** (`PracticeArea.jsx:584-804`, used during recording) that does not reuse the normal practice JSX tree (`PracticeArea.jsx:807+`) — it's a hand-tuned 10-column grid with its own font sizes and split-panel logic for the split-screen "soal / pembahasan" video composition. An inline widget added only to the normal branch would never appear in a recorded video. Video integration is therefore **out of scope for this pilot** and deferred to a follow-up once the viewer + inline-practice pattern is validated (see Out of Scope).
 
 ## Dependencies
 
@@ -55,24 +57,18 @@ Behavior:
 
 **1. Standalone viewer tab** — `App.jsx` gets a new nav entry (same pattern as existing Compass/BarChart3/Clock icons for Dashboard/Practice/Tryout/Analytics) that sets `currentTab = 'solar-system'` and renders `<SolarSystemViewer />` → `<SolarSystemScene interactive size="full" />`.
 
-**2. Inline in PracticeArea** — inside `PracticeArea.jsx`, when `effectiveSubBabId === 'ipa-05a'`, render `<SolarSystemScene interactive size="inline" />` in a card above/beside the soal content. Only mounts for this one sub-bab; no effect on any other sub-bab's practice flow.
-
-**3. Video recording** — no new code. `record-videos.mjs` already screen-records whatever `PracticeArea` shows; when it records `ipa-05a`, the inline widget from point 2 is captured as part of the video automatically.
-
-## Known risk to verify during implementation
-
-`record-videos.mjs` launches Chromium headless with no GPU flags (`chromium.launch({ headless: true })`), so WebGL runs on software rendering (SwiftShader). With `CONCURRENCY=6` parallel recordings at 1920×1080, continuous Three.js animation in the background could stutter or slow down capture. Mitigation if this proves true: simplify the scene (fewer draw calls) or reduce animation rate during recording — not blocking for building the feature, but must be checked before calling the video-recording surface done.
+**2. Inline in PracticeArea (normal mode only)** — inside `PracticeArea.jsx`'s standard-learning-mode branch (`:807+`), when `subBabId === 'ipa-05a'`, render `<SolarSystemScene interactive size="inline" />` in a card above/beside the soal content. Only mounts for this one sub-bab; no effect on any other sub-bab's practice flow, and does not touch the `isCleanMode` recording branch.
 
 ## Testing / verification plan
 
 No automated test framework in `osn-app` beyond eslint. Verification is manual, per this repo's UI-change convention:
 1. `npm run dev` → open the new "Tata Surya" tab → confirm orbit drag/zoom works, planets auto-orbit, clicking a planet shows correct facts, closing the panel works.
-2. Open Practice for `ipa-05a` → confirm the inline scene renders without breaking quiz flow (answering questions, navigation) for that sub-bab, and that other sub-bab don't render the widget.
-3. Run `npm run record:videos -- --only=ipa-05a` (or equivalent single-item filter) → inspect the output video for the risk above (stutter/frame drops) before considering the video surface validated.
+2. Open Practice for `ipa-05a` (normal mode, not recording) → confirm the inline scene renders without breaking quiz flow (answering questions, navigation) for that sub-bab, and that other sub-bab don't render the widget.
+3. One plain-Node `assert`-based check (no framework) on `planetsData.js` — validates data shape (8 planets, correct order 1–8, all required fields present) and the pure orbit-position helper. Run with `node`.
 
 ## Out of scope (explicitly deferred)
 
+- Video recording integration (`isCleanMode` branch in `PracticeArea.jsx`) — that branch is a separate, pixel-tuned render tree that doesn't reuse the normal practice JSX; adding the 3D scene there is a distinct follow-up task once this pilot validates the viewer + inline-practice pattern.
 - Any sub-bab other than `ipa-05a` (pilot only).
 - Realistic/textured PBR planets (stylized chosen instead).
-- A dedicated "video mode" prop/route (not needed — inline widget is captured as-is).
 - Astronomically accurate scale.
