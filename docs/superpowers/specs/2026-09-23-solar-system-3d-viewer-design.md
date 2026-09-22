@@ -28,11 +28,11 @@ No dependency existed for 3D before this; nothing else in the app uses Three.js.
 ## File structure
 
 ```
-osn-app/src/features/solar-system/
-  SolarSystemScene.jsx   # R3F <Canvas> — sun + 8 planets orbiting, camera controls, click handling
-  planetsData.js         # static data: id, name, order, color, orbitRadius, orbitSpeed, fact
-  PlanetInfoPanel.jsx    # overlay panel shown on planet click (Velo CT glass style)
+osn-app/src/features/solar-system-data.js   # plain JS: planet data + pure orbit-position math (no React/JSX — directly node-runnable)
+osn-app/src/features/solar-system.jsx       # R3F <Canvas>: SolarSystemScene, Sun, Planet, PlanetInfoPanel
 ```
+
+(Flat file per feature, matching the existing `src/features/bookmarks.jsx` convention — not a sub-folder.)
 
 New top-level view:
 ```
