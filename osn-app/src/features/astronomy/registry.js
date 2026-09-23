@@ -11,6 +11,12 @@ import { CirculatoryScene } from '../human-body/circulatory';
 import { ExcretoryScene } from '../human-body/excretory';
 import { NervousScene } from '../human-body/nervous';
 import { SkeletalScene } from '../human-body/skeletal';
+import { NoncommunicableScene } from '../human-body/noncommunicable';
+import { CommunicableScene } from '../human-body/communicable';
+import { HygieneScene } from '../human-body/hygiene';
+import { SymptomsScene } from '../human-body/symptoms';
+import { NutritionScene } from '../human-body/nutrition';
+import { BiotechScene } from '../human-body/biotech';
 
 export const SCENE_REGISTRY = {
   'ipa-05a': { component: SolarSystemScene, label: 'Tata Surya' },
@@ -25,4 +31,10 @@ export const SCENE_REGISTRY = {
   'ipa-02d': { component: ExcretoryScene, label: 'Sistem Ekskresi' },
   'ipa-02e': { component: NervousScene, label: 'Sistem Saraf & Indera' },
   'ipa-02f': { component: SkeletalScene, label: 'Sistem Rangka & Otot' },
+  'ipa-02i': { component: NutritionScene, label: 'Gizi Seimbang' },
+  'ipa-02j': { component: CommunicableScene, label: 'Penyakit Menular' },
+  'ipa-02k': { component: NoncommunicableScene, label: 'Penyakit Tidak Menular' },
+  'ipa-02l': { component: HygieneScene, label: 'Kebersihan Diri' },
+  'ipa-02m': { component: SymptomsScene, label: 'Diagnosis Gejala' },
+  'ipa-02n': { component: BiotechScene, label: 'Bioteknologi' },
 };
