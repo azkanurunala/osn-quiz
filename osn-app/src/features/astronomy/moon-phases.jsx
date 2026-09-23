@@ -5,17 +5,19 @@ import { CelestialBody } from './CelestialBody';
 import { InfoPanel } from './InfoPanel';
 import { MOON_PHASES_LAYOUT, getMoonOrbitPosition, getPhaseNameAtAngle } from './moon-phases-data';
 
-function useCurrentMoonAngle() {
-  const angleRef = useRef(0);
+// useFrame only works inside the R3F render tree (a descendant of <Canvas>) — MoonPhasesScene
+// itself renders <SceneCanvas> from the outside, so the angle tracker has to be its own
+// component placed as a child of SceneCanvas, writing into a ref created by the parent.
+function MoonAngleTracker({ angleRef }) {
   useFrame((state) => {
     angleRef.current = getMoonOrbitPosition(state.clock.elapsedTime).angle;
   });
-  return angleRef;
+  return null;
 }
 
 export function MoonPhasesScene({ interactive = true, size = 'inline' }) {
   const [phaseName, setPhaseName] = useState(null);
-  const angleRef = useCurrentMoonAngle();
+  const angleRef = useRef(0);
 
   return (
     <SceneCanvas
@@ -34,6 +36,7 @@ export function MoonPhasesScene({ interactive = true, size = 'inline' }) {
         />
       )}
     >
+      <MoonAngleTracker angleRef={angleRef} />
       <directionalLight position={[10, 3, 5]} intensity={2} />
       <CelestialBody
         id="earth"
