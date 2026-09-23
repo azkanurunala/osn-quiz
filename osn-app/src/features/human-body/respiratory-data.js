@@ -13,6 +13,7 @@ export const RESPIRATORY_PARTS = [
     name: 'Trakea (Batang Tenggorok)',
     real: true,
     models: ['/models/trachea.glb'],
+    tint: '#e0b8a8',
     fact: 'Saluran udara utama menuju paru-paru, dilapisi cincin tulang rawan agar tetap terbuka.',
   },
   {
@@ -20,6 +21,7 @@ export const RESPIRATORY_PARTS = [
     name: 'Bronkus',
     real: true,
     models: ['/models/main_bronchus.glb'],
+    tint: '#d4a898',
     fact: 'Cabang trakea yang mengalirkan udara ke masing-masing paru-paru kanan dan kiri.',
   },
   {
@@ -27,6 +29,7 @@ export const RESPIRATORY_PARTS = [
     name: 'Paru-paru',
     real: true,
     models: ['/models/lung.glb'],
+    tint: '#e8b4b8',
     fact: 'Tempat pertukaran oksigen dan karbon dioksida terjadi di kantung-kantung kecil bernama alveolus.',
   },
 ];

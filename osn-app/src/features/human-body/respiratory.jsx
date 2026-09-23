@@ -20,9 +20,6 @@ export function RespiratoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
-      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
-      // initial mount — changing cameraPosition later does NOT move an already-created camera.
-      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
       key={mode}
       size={size}
       interactive={interactive}
@@ -43,7 +40,7 @@ export function RespiratoryScene({ interactive = true, size = 'inline' }) {
       {!isDetail && <HumanBody />}
       {RESPIRATORY_PARTS.filter((p) => p.real).map((part) =>
         part.models.map((modelUrl) => (
-          <OrganModel key={modelUrl} id={part.id} url={modelUrl} onSelect={handleSelect} />
+          <OrganModel key={modelUrl} id={part.id} url={modelUrl} tint={part.tint} onSelect={handleSelect} />
         ))
       )}
       <mesh
@@ -51,7 +48,7 @@ export function RespiratoryScene({ interactive = true, size = 'inline' }) {
         onClick={handleSelect ? (e) => { e.stopPropagation(); handleSelect('hidung'); } : undefined}
       >
         <sphereGeometry args={[NOSE_MARKER.radius, 16, 16]} />
-        <meshStandardMaterial color={NOSE_MARKER.color} />
+        <meshToonMaterial color={NOSE_MARKER.color} />
       </mesh>
     </SceneCanvas>
   );

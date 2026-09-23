@@ -12,6 +12,7 @@ RESPIRATORY_PARTS.forEach((part) => {
     assert.ok(part[field] !== undefined, `${part.id} missing field "${field}"`);
   }
   if (part.real) {
+    assert.ok(part.tint, `${part.id} marked real but has no tint color`);
     assert.ok(Array.isArray(part.models) && part.models.length > 0, `${part.id} marked real but has no models`);
     part.models.forEach((modelPath) => {
       assert.ok(existsSync(`${PUBLIC_DIR}${modelPath}`), `model file missing on disk: ${modelPath}`);
