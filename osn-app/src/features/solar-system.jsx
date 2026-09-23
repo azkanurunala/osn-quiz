@@ -1,6 +1,7 @@
 import { Suspense, useState, useRef, useMemo } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Line, useTexture, Environment } from '@react-three/drei';
+import { RingGeometry, Vector3, DoubleSide } from 'three';
 import { X } from 'lucide-react';
 import { PLANETS, SUN, BACKGROUND_TEXTURE, getPlanetPosition } from './solar-system-data';
 
@@ -25,7 +26,36 @@ function Sun() {
   );
 }
 
+// RingGeometry's default UVs run angularly around the circumference, not radially,
+// so a radial ring texture (transparent near the planet, banded further out) would
+// just repeat instead of mapping correctly. Remap u = 0 at innerRadius -> u = 1 at
+// outerRadius so the texture reads correctly along the ring's radius.
+function useRadialRingGeometry(innerRadius, outerRadius) {
+  return useMemo(() => {
+    const geometry = new RingGeometry(innerRadius, outerRadius, 64);
+    const pos = geometry.attributes.position;
+    const v3 = new Vector3();
+    for (let i = 0; i < pos.count; i++) {
+      v3.fromBufferAttribute(pos, i);
+      const u = (v3.length() - innerRadius) / (outerRadius - innerRadius);
+      geometry.attributes.uv.setXY(i, u, 1);
+    }
+    return geometry;
+  }, [innerRadius, outerRadius]);
+}
+
+function PlanetRing({ ring }) {
+  const texture = useTexture(ring.texture);
+  const geometry = useRadialRingGeometry(ring.innerRadius, ring.outerRadius);
+  return (
+    <mesh geometry={geometry} rotation={[-Math.PI / 2 + 0.35, 0, 0.15]}>
+      <meshStandardMaterial map={texture} transparent side={DoubleSide} roughness={0.8} />
+    </mesh>
+  );
+}
+
 function Planet({ planet, onSelect }) {
+  const groupRef = useRef(null);
   const meshRef = useRef(null);
   const texture = useTexture(planet.texture);
 
@@ -40,8 +70,10 @@ function Planet({ planet, onSelect }) {
 
   useFrame((state) => {
     const { x, z } = getPlanetPosition(planet, state.clock.elapsedTime);
+    if (groupRef.current) {
+      groupRef.current.position.set(x, 0, z);
+    }
     if (meshRef.current) {
-      meshRef.current.position.set(x, 0, z);
       meshRef.current.rotation.y += 0.01;
     }
   });
@@ -49,10 +81,13 @@ function Planet({ planet, onSelect }) {
   return (
     <group>
       <Line points={ringPoints} color="#ffffff" transparent opacity={0.15} />
-      <mesh ref={meshRef} onClick={(e) => { e.stopPropagation(); onSelect?.(planet.id); }}>
-        <sphereGeometry args={[planet.radius, 24, 24]} />
-        <meshStandardMaterial map={texture} roughness={0.7} metalness={0.1} />
-      </mesh>
+      <group ref={groupRef}>
+        <mesh ref={meshRef} onClick={(e) => { e.stopPropagation(); onSelect?.(planet.id); }}>
+          <sphereGeometry args={[planet.radius, 24, 24]} />
+          <meshStandardMaterial map={texture} roughness={0.7} metalness={0.1} />
+        </mesh>
+        {planet.ring && <PlanetRing ring={planet.ring} />}
+      </group>
     </group>
   );
 }
@@ -94,10 +129,10 @@ export function SolarSystemScene({ interactive = true, size = 'inline' }) {
       <Canvas camera={{ position: size === 'full' ? [0, 22, 30] : [0, 16, 22], fov: 50 }}>
         <Suspense fallback={null}>
           <Environment files={BACKGROUND_TEXTURE} background />
-          <ambientLight intensity={0.35} />
+          <ambientLight intensity={0.7} />
           {/* decay=0: keeps consistent shading on far planets (orbitRadius up to 18) instead of
               Three's physically-correct inverse-square falloff washing them out to flat ambient light */}
-          <pointLight position={[0, 0, 0]} intensity={3.5} color="#fff6d8" decay={0} />
+          <pointLight position={[0, 0, 0]} intensity={6} color="#fff6d8" decay={0} />
           <Sun />
           {PLANETS.map((planet) => (
             <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />

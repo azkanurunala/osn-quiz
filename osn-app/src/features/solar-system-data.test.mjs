@@ -18,7 +18,15 @@ PLANETS.forEach((p, i) => {
   }
   assert.ok(p.texture.startsWith('/textures/'), `${p.id} texture path should be under /textures/`);
   assertTextureFileExists(p.texture);
+  if (p.ring) {
+    assert.ok(p.ring.outerRadius > p.ring.innerRadius, `${p.id} ring outerRadius should exceed innerRadius`);
+    assert.ok(p.ring.innerRadius > p.radius, `${p.id} ring should start outside the planet's own surface`);
+    assertTextureFileExists(p.ring.texture);
+  }
 });
+
+const saturn = PLANETS.find((p) => p.id === 'saturnus');
+assert.ok(saturn.ring, 'saturnus should have rings');
 
 for (let i = 1; i < PLANETS.length; i++) {
   assert.ok(
