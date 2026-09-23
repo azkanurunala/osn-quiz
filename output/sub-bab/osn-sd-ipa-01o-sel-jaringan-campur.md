@@ -182,10 +182,6 @@ Langkah 3: Urutan yang sesuai = opsi B.
 
 **(1) Soal:**
 Unit terkecil penyusun tubuh makhluk hidup yang dapat melakukan kegiatan kehidupan disebut...
-A. Organ
-B. Jaringan
-C. Sel
-D. Sistem organ
 
 **(2) Pilihan Jawaban:**
 A. Organ
@@ -214,10 +210,6 @@ D. Sistem organ
 
 **(1) Soal:**
 Bagian sel berupa selaput tipis paling luar yang mengatur zat keluar-masuk sel disebut...
-A. Inti sel
-B. Membran sel
-C. Dinding sel
-D. Sitoplasma
 
 **(2) Pilihan Jawaban:**
 A. Inti sel
@@ -246,10 +238,6 @@ D. Sitoplasma
 
 **(1) Soal:**
 Bagian sel yang dijuluki "pusat kendali" karena mengatur seluruh kegiatan sel adalah...
-A. Nukleus (inti sel)
-B. Ribosom
-C. Mitokondria
-D. Vakuola
 
 **(2) Pilihan Jawaban:**
 A. Nukleus (inti sel)
@@ -278,10 +266,6 @@ D. Vakuola
 
 **(1) Soal:**
 Cairan kental di dalam sel tempat organel-organel sel berada disebut...
-A. Inti sel
-B. Sitoplasma
-C. Membran sel
-D. Dinding sel
 
 **(2) Pilihan Jawaban:**
 A. Inti sel
@@ -310,10 +294,6 @@ D. Dinding sel
 
 **(1) Soal:**
 Organel sel yang berfungsi sebagai tempat pembuatan protein disebut...
-A. Kloroplas
-B. Mitokondria
-C. Ribosom
-D. Vakuola
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas
@@ -342,10 +322,6 @@ D. Vakuola
 
 **(1) Soal:**
 Organel yang hanya dimiliki oleh sel tumbuhan dan berfungsi sebagai tempat fotosintesis adalah...
-A. Mitokondria
-B. Nukleus
-C. Kloroplas
-D. Ribosom
 
 **(2) Pilihan Jawaban:**
 A. Mitokondria
@@ -374,10 +350,6 @@ D. Ribosom
 
 **(1) Soal:**
 Jaringan dalam tubuh tumbuhan yang berfungsi mengangkut air dan garam mineral dari akar ke seluruh bagian tubuh adalah...
-A. Floem
-B. Xilem
-C. Epidermis
-D. Meristem
 
 **(2) Pilihan Jawaban:**
 A. Floem
@@ -406,10 +378,6 @@ D. Meristem
 
 **(1) Soal:**
 Jaringan tumbuhan yang mengangkut hasil fotosintesis dari daun ke seluruh tubuh adalah...
-A. Xilem
-B. Parenkim
-C. Floem
-D. Stomata
 
 **(2) Pilihan Jawaban:**
 A. Xilem
@@ -438,10 +406,6 @@ D. Stomata
 
 **(1) Soal:**
 Jaringan epitel pada hewan memiliki fungsi utama...
-A. Menyebabkan gerak
-B. Menghantarkan rangsang
-C. Melindungi permukaan tubuh dan organ
-D. Menyimpan cadangan makanan
 
 **(2) Pilihan Jawaban:**
 A. Menyebabkan gerak
@@ -470,10 +434,6 @@ D. Menyimpan cadangan makanan
 
 **(1) Soal:**
 Jaringan yang bekerja dengan cara memendek (kontraksi) sehingga menyebabkan tubuh bergerak adalah...
-A. Jaringan saraf
-B. Jaringan otot
-C. Jaringan epitel
-D. Jaringan tulang
 
 **(2) Pilihan Jawaban:**
 A. Jaringan saraf
@@ -502,10 +462,6 @@ D. Jaringan tulang
 
 **(1) Soal:**
 Jaringan pada hewan yang berfungsi menerima rangsang dan menghantarkannya ke seluruh tubuh adalah...
-A. Jaringan saraf
-B. Jaringan tulang
-C. Jaringan otot
-D. Jaringan darah
 
 **(2) Pilihan Jawaban:**
 A. Jaringan saraf
@@ -534,10 +490,6 @@ D. Jaringan darah
 
 **(1) Soal:**
 Perhatikan pernyataan berikut. 1) Menyimpan cadangan air dan makanan. 2) Menyimpan zat sisa. Pernyataan tersebut menggambarkan fungsi organel...
-A. Ribosom
-B. Vakuola
-C. Mitokondria
-D. Nukleus
 
 **(2) Pilihan Jawaban:**
 A. Ribosom
@@ -566,10 +518,6 @@ D. Nukleus
 
 **(1) Soal:**
 Energi yang dibutuhkan sel untuk beraktivitas dihasilkan oleh organel...
-A. Kloroplas
-B. Ribosom
-C. Mitokondria
-D. Vakuola
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas
@@ -598,10 +546,6 @@ D. Vakuola
 
 **(1) Soal:**
 Perbesaran total mikroskop yang menggunakan lensa okuler 10× dan lensa objektif 40× adalah...
-A. 50×
-B. 400×
-C. 40×
-D. 140×
 
 **(2) Pilihan Jawaban:**
 A. 50×
@@ -630,10 +574,6 @@ D. 140×
 
 **(1) Soal:**
 Bagian sel yang dimiliki sel tumbuhan tetapi tidak dimiliki sel hewan adalah...
-A. Membran sel dan nukleus
-B. Dinding sel dan kloroplas
-C. Sitoplasma dan mitokondria
-D. Vakuola dan ribosom
 
 **(2) Pilihan Jawaban:**
 A. Membran sel dan nukleus
@@ -667,10 +607,6 @@ Perhatikan gambar sel berikut.
 - Di dalamnya terdapat zat hijau (klorofil)
 
 Gambar tersebut adalah...
-A. Sel hewan
-B. Sel tumbuhan
-C. Sel bakteri
-D. Sel jamur
 
 **(2) Pilihan Jawaban:**
 A. Sel hewan
@@ -699,10 +635,6 @@ D. Sel jamur
 
 **(1) Soal:**
 Berikut ini yang menunjukkan letak vakuola yang benar pada perbandingan sel tumbuhan dan sel hewan adalah...
-A. Sel tumbuhan vakuolanya kecil dan banyak; sel hewan besar di tengah
-B. Sel tumbuhan vakuolanya besar di tengah; sel hewan kecil dan banyak
-C. Keduanya memiliki vakuola besar di tengah
-D. Keduanya tidak memiliki vakuola
 
 **(2) Pilihan Jawaban:**
 A. Sel tumbuhan vakuolanya kecil dan banyak; sel hewan besar di tengah
@@ -731,10 +663,6 @@ D. Keduanya tidak memiliki vakuola
 
 **(1) Soal:**
 Organel berikut yang TIDAK dimiliki oleh sel hewan adalah...
-A. Mitokondria
-B. Ribosom
-C. Kloroplas
-D. Nukleus
 
 **(2) Pilihan Jawaban:**
 A. Mitokondria
@@ -763,10 +691,6 @@ D. Nukleus
 
 **(1) Soal:**
 Sel hewan dan sel tumbuhan sama-sama memiliki bagian berikut, KECUALI...
-A. Inti sel
-B. Membran sel
-C. Mitokondria
-D. Dinding sel
 
 **(2) Pilihan Jawaban:**
 A. Inti sel
@@ -795,10 +719,6 @@ D. Dinding sel
 
 **(1) Soal:**
 Alasan sel tumbuhan dapat berdiri tegak dan mempertahankan bentuknya adalah karena memiliki...
-A. Dinding sel dari selulosa
-B. Inti sel yang besar
-C. Sitoplasma yang kental
-D. Membran sel yang tebal
 
 **(2) Pilihan Jawaban:**
 A. Dinding sel dari selulosa
@@ -827,10 +747,6 @@ D. Membran sel yang tebal
 
 **(1) Soal:**
 Bagian tumbuhan yang berfungsi sebagai tempat pertukaran gas (CO₂ masuk dan O₂ keluar) adalah...
-A. Stomata
-B. Xilem
-C. Epidermis
-D. Floem
 
 **(2) Pilihan Jawaban:**
 A. Stomata
@@ -859,10 +775,6 @@ D. Floem
 
 **(1) Soal:**
 Jaringan meristem pada tumbuhan berfungsi untuk...
-A. Mengangkut air dan mineral
-B. Membelah sel sehingga tumbuhan bertambah tinggi dan panjang
-C. Menyimpan cadangan makanan
-D. Melindungi bagian dalam tubuh tumbuhan
 
 **(2) Pilihan Jawaban:**
 A. Mengangkut air dan mineral
@@ -891,10 +803,6 @@ D. Melindungi bagian dalam tubuh tumbuhan
 
 **(1) Soal:**
 Lapisan terluar daun yang berfungsi melindungi jaringan di dalamnya adalah...
-A. Epidermis
-B. Parenkim
-C. Floem
-D. Meristem
 
 **(2) Pilihan Jawaban:**
 A. Epidermis
@@ -923,10 +831,6 @@ D. Meristem
 
 **(1) Soal:**
 Dapat dilihat bahwa akar yang dipotong akan tampak lebih ringan karena bagian dalamnya tidak ikut berpikir kuat. Jaringan pada batang dan akar yang berfungsi menyimpan cadangan makanan adalah...
-A. Meristem
-B. Parenkim
-C. Epidermis
-D. Stomata
 
 **(2) Pilihan Jawaban:**
 A. Meristem
@@ -955,10 +859,6 @@ D. Stomata
 
 **(1) Soal:**
 Urutan bagian dalam sebatang daun untuk mengangkut air adalah dari...
-A. Akar → xilem batang → xilem daun
-B. Daun → floem → akar
-C. Akar → floem → daun
-D. Batang → xilem → akar → daun
 
 **(2) Pilihan Jawaban:**
 A. Akar → xilem batang → xilem daun
@@ -987,10 +887,6 @@ D. Batang → xilem → akar → daun
 
 **(1) Soal:**
 Ketika kita menebang pohon muda lalu mengupas kulitnya sampai membuang lapisan di bawah kulit, pohon akan mati dalam beberapa waktu karena...
-A. Air tidak bisa naik dari akar
-B. Jaringan pembuluh tapis (floem) yang mengangkut makanan rusak
-C. Daun kekurangan klorofil
-D. Akar tidak bisa menyerap mineral
 
 **(2) Pilihan Jawaban:**
 A. Air tidak bisa naik dari akar
@@ -1019,10 +915,6 @@ D. Akar tidak bisa menyerap mineral
 
 **(1) Soal:**
 Bagian tumbuhan yang paling banyak terdapat stomata adalah...
-A. Ujung akar
-B. Permukaan bawah daun
-C. Batang kayu tua
-D. Biji
 
 **(2) Pilihan Jawaban:**
 A. Ujung akar
@@ -1051,10 +943,6 @@ D. Biji
 
 **(1) Soal:**
 Siang hari yang sangat panas membuat mulut daun (stomata) cenderung...
-A. Terbuka lebar agar banyak air yang keluar
-B. Menutup untuk mengurangi penguapan air
-C. Pindah ke batang
-D. Menghasilkan lebih banyak klorofil
 
 **(2) Pilihan Jawaban:**
 A. Terbuka lebar agar banyak air yang keluar
@@ -1083,10 +971,6 @@ D. Menghasilkan lebih banyak klorofil
 
 **(1) Soal:**
 Kentang berisi banyak cadangan makanan yang tersimpan di dalam jaringan...
-A. Meristem batang
-B. Parenkim umbi
-C. Epidermis daun
-D. Floem
 
 **(2) Pilihan Jawaban:**
 A. Meristem batang
@@ -1115,10 +999,6 @@ D. Floem
 
 **(1) Soal:**
 Tumbuhan yang daunnya bercelah menjemur berkurang (menggulung) akan pulih kembali setelah disiram, karena...
-A. Vakuola selnya terisi air lagi sehingga sel menjadi tegak
-B. Dinding selnya meleleh dan diganti baru
-C. Kloroplasnya pindah ke batang
-D. Stomata ikut tercabut
 
 **(2) Pilihan Jawaban:**
 A. Vakuola selnya terisi air lagi sehingga sel menjadi tegak
@@ -1147,10 +1027,6 @@ D. Stomata ikut tercabut
 
 **(1) Soal:**
 Darah termasuk salah satu jaringan hewan, yaitu jaringan...
-A. Otot
-B. Saraf
-C. Penyokong (ikat)
-D. Epitel
 
 **(2) Pilihan Jawaban:**
 A. Otot
@@ -1179,10 +1055,6 @@ D. Epitel
 
 **(1) Soal:**
 Bukti bahwa jantung, otak, dan paru-paru termasuk organ adalah karena...
-A. Terdiri atas sel sejenis
-B. Terdiri atas beberapa jaringan yang bekerja sama
-C. Terletak di dalam rongga tubuh
-D. Berukuran besar
 
 **(2) Pilihan Jawaban:**
 A. Terdiri atas sel sejenis
@@ -1211,10 +1083,6 @@ D. Berukuran besar
 
 **(1) Soal:**
 Manakah pasangan jaringan hewan dan fungsinya yang TIDAK tepat?
-A. Otot — menyebabkan gerak
-B. Saraf — menghantarkan rangsang
-C. Epitel — melindungi permukaan
-D. Tulang — menghantarkan rangsang
 
 **(2) Pilihan Jawaban:**
 A. Otot — menyebabkan gerak
@@ -1243,10 +1111,6 @@ D. Tulang — menghantarkan rangsang
 
 **(1) Soal:**
 Susunan sel-sel otot yang bekerja sama untuk membuat jantung berdetak disebut...
-A. Organ
-B. Jaringan otot
-C. Sistem gerak
-D. Organisme
 
 **(2) Pilihan Jawaban:**
 A. Organ
@@ -1275,10 +1139,6 @@ D. Organisme
 
 **(1) Soal:**
 Urutan yang benar dari organisasi kehidupan yang paling sederhana ke paling kompleks adalah...
-A. Jaringan → sel → organ → sistem organ → organisme
-B. Sel → jaringan → organ → sistem organ → organisme
-C. Sel → organ → jaringan → organisme → sistem organ
-D. Organ → jaringan → sel → sistem organ → organisme
 
 **(2) Pilihan Jawaban:**
 A. Jaringan → sel → organ → sistem organ → organisme
@@ -1307,10 +1167,6 @@ D. Organ → jaringan → sel → sistem organ → organisme
 
 **(1) Soal:**
 Contoh berikut yang menunjukkan organisasi kehidupan TINGKAT SISTEM ORGAN adalah...
-A. Kumpulan sel otot jantung
-B. Darah yang mengalir di pembuluh
-C. Pencernaan yang terdiri atas mulut, lambung, dan usus
-D. Sebatang pohon mangga
 
 **(2) Pilihan Jawaban:**
 A. Kumpulan sel otot jantung
@@ -1339,10 +1195,6 @@ D. Sebatang pohon mangga
 
 **(1) Soal:**
 Makhluk hidup berikut yang termasuk organisme bersel satu (uniseluler) adalah...
-A. Katak
-B. Amoeba
-C. Pohon jambu
-D. Manusia
 
 **(2) Pilihan Jawaban:**
 A. Katak
@@ -1371,10 +1223,6 @@ D. Manusia
 
 **(1) Soal:**
 Berikut ini urutan tingkatan penyusun tubuh makhluk hidup multiseluler, dari yang PALING KECIL adalah...
-A. Jaringan, sel, organ
-B. Sel, jaringan, organ
-C. Organ, jaringan, sel
-D. Sel, organ, jaringan
 
 **(2) Pilihan Jawaban:**
 A. Jaringan, sel, organ
@@ -1403,10 +1251,6 @@ D. Sel, organ, jaringan
 
 **(1) Soal:**
 Alat yang digunakan untuk mengamati sel yang sangat kecil sehingga tidak terlihat mata adalah...
-A. Lup
-B. Mikroskop
-C. Teleskop
-D. Termometer
 
 **(2) Pilihan Jawaban:**
 A. Lup
@@ -1435,10 +1279,6 @@ D. Termometer
 
 **(1) Soal:**
 Bagian mikroskop yang berfungsi untuk memperbesar objek dan tepat di atas objek saat diamati adalah...
-A. Lensa okuler
-B. Lensa objektif
-C. Cermin
-D. Meja preparat
 
 **(2) Pilihan Jawaban:**
 A. Lensa okuler
@@ -1467,10 +1307,6 @@ D. Meja preparat
 
 **(1) Soal:**
 Ketika cahaya ruangan kurang terang sehingga preparat tampak gelap di mikroskop, bagian yang sebaiknya diatur adalah...
-A. Lensa objektif supaya diganti lebih kecil
-B. Cermin (reflektor) agar cahaya dipantulkan ke objek
-C. Tabung mikroskop
-D. Kondenser dibuang
 
 **(2) Pilihan Jawaban:**
 A. Lensa objektif supaya diganti lebih kecil
@@ -1499,10 +1335,6 @@ D. Kondenser dibuang
 
 **(1) Soal:**
 Perbesaran total mikroskop dengan okuler 15× dan objektif 20× adalah...
-A. 35×
-B. 300×
-C. 150×
-D. 200×
 
 **(2) Pilihan Jawaban:**
 A. 35×
@@ -1531,10 +1363,6 @@ D. 200×
 
 **(1) Soal:**
 Sebelum menggunakan mikroskop, preparat (benda yang akan diamati) diletakkan di atas...
-A. Lensa okuler
-B. Meja preparat
-C. Tabung mikroskop
-D. Kaki mikroskop
 
 **(2) Pilihan Jawaban:**
 A. Lensa okuler
@@ -1563,10 +1391,6 @@ D. Kaki mikroskop
 
 **(1) Soal:**
 Bakteri memiliki struktur sel yang berbeda dari sel hewan dan tumbuhan, yaitu...
-A. Memiliki kloroplas
-B. Tidak memiliki membran inti (prokariotik)
-C. Memiliki dinding sel dari selulosa
-D. Selalu bersel banyak
 
 **(2) Pilihan Jawaban:**
 A. Memiliki kloroplas
@@ -1595,10 +1419,6 @@ D. Selalu bersel banyak
 
 **(1) Soal:**
 Sel hewan dan sel tumbuhan sama-sama termasuk jenis sel...
-A. Prokariotik
-B. Eukariotik
-C. Tanpa inti
-D. Bersel satu
 
 **(2) Pilihan Jawaban:**
 A. Prokariotik
@@ -1627,10 +1447,6 @@ D. Bersel satu
 
 **(1) Soal:**
 Sianobakteri (ganggang biru) dan bakteri dimasukkan ke kingdom Monera, salah satu alasannya karena keduanya...
-A. Berinti sejati
-B. Selnya tidak bermembran inti
-C. Memiliki kloroplas
-D. Bersel banyak
 
 **(2) Pilihan Jawaban:**
 A. Berinti sejati
@@ -1659,10 +1475,6 @@ D. Bersel banyak
 
 **(1) Soal:**
 Sayur yang diletakkan di tempat panas menjadi layu. Penyebab utamanya adalah...
-A. Sel-selnya bertambah banyak
-B. Air di dalam sel keluar/menguap sehingga vakuola mengempis
-C. Dinding selnya mencair
-D. Kloroplas berpindah ke batang
 
 **(2) Pilihan Jawaban:**
 A. Sel-selnya bertambah banyak
@@ -1691,10 +1503,6 @@ D. Kloroplas berpindah ke batang
 
 **(1) Soal:**
 Hewan darat tidak seperti tumbuhan. Ketika makhluk hidup seperti kuda berlari, jaringan yang paling banyak bekerja adalah...
-A. Jaringan saraf saja
-B. Jaringan otot dan saraf
-C. Jaringan epitel
-D. Jaringan darah saja
 
 **(2) Pilihan Jawaban:**
 A. Jaringan saraf saja
@@ -1723,10 +1531,6 @@ D. Jaringan darah saja
 
 **(1) Soal:**
 Kebun wortel yang dipanen kemudian diiris tipis lalu dikehendaki awet, irisan wortel diletakkan di air. Setelah beberapa saat irisan wortel menjadi...
-A. Keriput, karena airnya keluar
-B. Lembek, karena selnya rusak
-C. Awet segar, karena jaringan menyerap air kembali
-D. Berubah warna, karena kloroplas berpindah
 
 **(2) Pilihan Jawaban:**
 A. Keriput, karena airnya keluar
@@ -1755,10 +1559,6 @@ D. Berubah warna, karena kloroplas berpindah
 
 **(1) Soal:**
 Pada musim kemarau, pohon jati "merontokkan" daun untuk mengurangi penguapan. Penguapan air dari daun tersebut terjadi melalui...
-A. Stomata
-B. Xilem
-C. Meristem
-D. Kloroplas
 
 **(2) Pilihan Jawaban:**
 A. Stomata
@@ -1796,10 +1596,6 @@ Perhatikan tabel organel dan fungsinya:
 | 4. Vakuola | d. Mengatur kegiatan sel |
 
 Pasangan organel dan fungsi yang benar adalah...
-A. 1-a, 2-b, 3-c, 4-d
-B. 1-b, 2-a, 3-d, 4-c
-C. 1-b, 2-a, 3-c, 4-d
-D. 1-d, 2-b, 3-a, 4-c
 
 **(2) Pilihan Jawaban:**
 A. 1-a, 2-b, 3-c, 4-d
@@ -1828,10 +1624,6 @@ D. 1-d, 2-b, 3-a, 4-c
 
 **(1) Soal:**
 Sel darah merah saat matang tidak berinti dan tidak bermitokondria, akibatnya...
-A. Dapat berfotosintesis
-B. Tidak dapat menghasilkan energi secara penuh dan mengandalkan energi dari glukosa
-C. Berhenti menyimpan protein
-D. Membuat dinding sel baru
 
 **(2) Pilihan Jawaban:**
 A. Dapat berfotosintesis
@@ -1860,10 +1652,6 @@ D. Membuat dinding sel baru
 
 **(1) Soal:**
 Sel tumbuhan tetap dapat hidup meski tidak terkena cahaya dalam waktu singkat di dalam botol tertutup, karena sel tumbuhan...
-A. Tetap bernapas menggunakan mitokondria
-B. Berhenti melakukan kegiatan
-C. Berfotosintesis terus tanpa cahaya
-D. Menggunakan dinding sel sebagai makanan
 
 **(2) Pilihan Jawaban:**
 A. Tetap bernapas menggunakan mitokondria
@@ -1892,10 +1680,6 @@ D. Menggunakan dinding sel sebagai makanan
 
 **(1) Soal:**
 Perbandingan sel bakteri dan sel tumbuhan yang tepat adalah...
-A. Bakteri berdinding sel dari selulosa, tumbuhan berdinding sel dari peptidoglikan
-B. Bakteri prokariotik; tumbuhan eukariotik
-C. Keduanya memiliki kloroplas
-D. Keduanya bervakuola besar di tengah
 
 **(2) Pilihan Jawaban:**
 A. Bakteri berdinding sel dari selulosa, tumbuhan berdinding sel dari peptidoglikan
@@ -1924,10 +1708,6 @@ D. Keduanya bervakuola besar di tengah
 
 **(1) Soal:**
 Fungsi membran sel yang BENAR adalah...
-A. Memberi bentuk kaku pada sel
-B. Mengatur zat keluar-masuk sel
-C. Tempat fotosintesis
-D. Menyimpan materi genetik
 
 **(2) Pilihan Jawaban:**
 A. Memberi bentuk kaku pada sel
@@ -1956,10 +1736,6 @@ D. Menyimpan materi genetik
 
 **(1) Soal:**
 Daun yang terlihat lebih tebal di bawah sinar mikroskop menunjukkan jaringan parenkim yang kaya kloroplas terletak pada bagian daun tempat...
-A. Stomata terbuka
-B. Mesofil (daging daun)
-C. Epidermis atas
-D. Pembuluh xilem
 
 **(2) Pilihan Jawaban:**
 A. Stomata terbuka
@@ -1988,10 +1764,6 @@ D. Pembuluh xilem
 
 **(1) Soal:**
 Pada penampang melintang batang dikotil, tersusun rapi dari luar ke dalam: epidermis, korteks, dan bagian tengah. Berurutan, jaringan pengangkut (xilem & floem) terletak...
-A. Di paling luar epidermis
-B. Menyusun lingkaran di dalam korteks, antara korteks dan empulur
-C. Hanya di daun
-D. Di dalam empulur mengisi seluruh batang
 
 **(2) Pilihan Jawaban:**
 A. Di paling luar epidermis
@@ -2020,10 +1792,6 @@ D. Di dalam empulur mengisi seluruh batang
 
 **(1) Soal:**
 Jika pada percobaan batang Seledri dicelupkan ke air yang diberi pewarna merah, bagian batang yang tampak berwarna merah adalah...
-A. Bagian tengah (empulur)
-B. Jaringan pembuluh (xilem)
-C. Lapisan paling luar (epidermis)
-D. Semua bagian sama rata
 
 **(2) Pilihan Jawaban:**
 A. Bagian tengah (empulur)
@@ -2052,10 +1820,6 @@ D. Semua bagian sama rata
 
 **(1) Soal:**
 Proses penyerapan air oleh akar menuju daun dipercepat oleh penguapan di daun. Pernyataan yang tepat mengenal peran transpirasi adalah...
-A. Memperlambat naiknya air di xilem
-B. Mempercepat naiknya air dari akar ke daun (tarikan transpirasi)
-C. Membuat daun gugur
-D. Menghasilkan oksigen
 
 **(2) Pilihan Jawaban:**
 A. Memperlambat naiknya air di xilem
@@ -2084,10 +1848,6 @@ D. Menghasilkan oksigen
 
 **(1) Soal:**
 Manakah pernyataan yang paling tepat tentang jaringan meristem?
-A. Terletak di ujung akar dan ujung batang serta aktif membelah
-B. Berfungsi mengangkut air ke atas
-C. Berfungsi sebagai tempat fotosintesis
-D. Terletak di permukaan luar tubuh tumbuhan sebagai pelindung
 
 **(2) Pilihan Jawaban:**
 A. Terletak di ujung akar dan ujung batang serta aktif membelah
@@ -2116,10 +1876,6 @@ D. Terletak di permukaan luar tubuh tumbuhan sebagai pelindung
 
 **(1) Soal:**
 Berikut ini jaringan yang TIDAK bersifat otot pada tubuh manusia adalah...
-A. Otot rangka (dilkat ke tulang)
-B. Otot polos (di dinding usus)
-C. Otot jantung (miokardium)
-D. Otot refleks saraf otak
 
 **(2) Pilihan Jawaban:**
 A. Otot rangka (dilkat ke tulang)
@@ -2148,10 +1904,6 @@ D. Otot refleks saraf otak
 
 **(1) Soal:**
 Jenis jaringan otot yang bekerja tanpa sadar (tidak kita perintah langsung) dan terdapat pada dinding usus adalah...
-A. Otot lurik
-B. Otot polos
-C. Otot jantung
-D. Otot rangka
 
 **(2) Pilihan Jawaban:**
 A. Otot lurik
@@ -2180,10 +1932,6 @@ D. Otot rangka
 
 **(1) Soal:**
 Saat kita menarik napas, jaringan otot yang berperan membantu menegakkan dan menggerakkan tulang rusuk adalah...
-A. Otot polos usus
-B. Otot lurik (rangka)
-C. Otot jantung
-D. Jaringan epitel
 
 **(2) Pilihan Jawaban:**
 A. Otot polos usus
@@ -2212,10 +1960,6 @@ D. Jaringan epitel
 
 **(1) Soal:**
 Struktur tubuh yang termasuk jaringan penyokong (ikat) ditunjukkan oleh pasangan...
-A. Darah dan tulang
-B. Epitel dan saraf
-C. Otot rangka dan otot polos
-D. Epidermis dan meristem
 
 **(2) Pilihan Jawaban:**
 A. Darah dan tulang
@@ -2244,10 +1988,6 @@ D. Epidermis dan meristem
 
 **(1) Soal:**
 Mikroskop cahaya memiliki perbesaran maksimum sekitar 1000×. Jika objek yang diamati tetap sulit terlihat detail, hal yang PALING TEPAT dilakukan di antaranya adalah...
-A. Mengganti alat dengan mikroskop elektron (perbesaran hingga ratusan ribu kali)
-B. Menambah cermin kedua
-C. Memanaskan preparat agar lebih besar
-D. Menyiram objek dengan air
 
 **(2) Pilihan Jawaban:**
 A. Mengganti alat dengan mikroskop elektron (perbesaran hingga ratusan ribu kali)
@@ -2276,10 +2016,6 @@ D. Menyiram objek dengan air
 
 **(1) Soal:**
 Pada mikroskop, urutan bagian yang dilalui cahaya agar objek tampak adalah...
-A. Cermin → diafragma → objek → lensa objektif → lensa okuler
-B. Lensa okuler → objek → cermin → diafragma
-C. Objek → cermin → lensa okuler → diafragma
-D. Diafragma → cermin → objek → lensa okuler → lensa objektif
 
 **(2) Pilihan Jawaban:**
 A. Cermin → diafragma → objek → lensa objektif → lensa okuler
@@ -2308,10 +2044,6 @@ D. Diafragma → cermin → objek → lensa okuler → lensa objektif
 
 **(1) Soal:**
 Jika lensa objektif diganti dari 10× menjadi 40×, perbesaran total yang awalnya 100× dengan okuler 10× menjadi...
-A. 40×
-B. 400×
-C. 100×
-D. 500×
 
 **(2) Pilihan Jawaban:**
 A. 40×
@@ -2340,10 +2072,6 @@ D. 500×
 
 **(1) Soal:**
 Perhatikan ciri-ciri berikut. 1) Tidak memiliki membran inti. 2) Tidak memiliki organel bermembran seperti mitokondria dan kloroplas. Ciri tersebut dimiliki oleh...
-A. Sel hewan
-B. Sel tumbuhan
-C. Sel bakteri
-D. Sel jamur
 
 **(2) Pilihan Jawaban:**
 A. Sel hewan
@@ -2372,10 +2100,6 @@ D. Sel jamur
 
 **(1) Soal:**
 Euglena memiliki kloroplas (autotrof) tetapi juga dapat berenang dengan flagela (heterotrof). Dari sisi struktur sel, Euglena merupakan sel berinti sejati sehingga dimasukkan kingdom...
-A. Monera (prokariotik)
-B. Protista (eukariotik)
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera (prokariotik)
@@ -2404,10 +2128,6 @@ D. Plantae
 
 **(1) Soal:**
 Ketika daun dibiarkan beberapa saat di bawah mikroskop setelah direndam air, terlihat gelembung udara keluar dari permukaan daun. Hal ini terjadi karena...
-A. Kloroplas menghasilkan oksigen dalam fotosintesis yang keluar lewat stomata
-B. Xilem melepaskan air
-C. Dinding sel mencair
-D. Meristem mengendur
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas menghasilkan oksigen dalam fotosintesis yang keluar lewat stomata
@@ -2436,10 +2156,6 @@ D. Meristem mengendur
 
 **(1) Soal:**
 Tanaman hidrofit seperti teratai memiliki banyak rongga udara pada batang dan akar (aerenkim). Keuntungan struktur tersebut adalah...
-A. Memudahkan pengangkutan oksigen dari atmosfer ke seluruh tubuh untuk respirasi sel
-B. Memperbanyak kloroplas
-C. Menyimpan cadangan garam
-D. Membentuk dinding sel
 
 **(2) Pilihan Jawaban:**
 A. Memudahkan pengangkutan oksigen dari atmosfer ke seluruh tubuh untuk respirasi sel
@@ -2468,10 +2184,6 @@ D. Membentuk dinding sel
 
 **(1) Soal:**
 Perhatikan gambar dua sel: Sel X berdinding sel dan berkloroplas; Sel Y berbentuk bulat fleksibel tanpa dinding sel. Kesimpulan yang tepat adalah...
-A. Keduanya sel tumbuhan
-B. Sel X sel tumbuhan, Sel Y sel hewan
-C. Sel X sel hewan, Sel Y sel bakteri
-D. Keduanya sel hewan
 
 **(2) Pilihan Jawaban:**
 A. Keduanya sel tumbuhan
@@ -2500,10 +2212,6 @@ D. Keduanya sel hewan
 
 **(1) Soal:**
 Sel-sel pada makhluk hidup multiseluler mengalami "spesialisasi" (diferensiasi), artinya...
-A. Sel-sel berubah menjadi beberapa jenis dengan bentuk dan fungsi berbeda
-B. Sel-sel selalu sama dan tidak pernah berubah
-C. Sel-sel membesar tanpa berubah bentuk
-D. Sel-sel saling menjauh tanpa berkoordinasi
 
 **(2) Pilihan Jawaban:**
 A. Sel-sel berubah menjadi beberapa jenis dengan bentuk dan fungsi berbeda
@@ -2532,10 +2240,6 @@ D. Sel-sel saling menjauh tanpa berkoordinasi
 
 **(1) Soal:**
 Ketika tubuh menerima rangsangan seperti suhu panas, urutan jaringan yang terlibat agar kita bisa menjauh adalah...
-A. Saraf menerima rangsang → otot berkontraksi → gerak menjauh
-B. Otot menerima rangsang → saraf berkontraksi → gerak
-C. Epitel menerima rangsang → saraf menjadi kaku
-D. Tulang menerima rangsang → otot tegang → gatal
 
 **(2) Pilihan Jawaban:**
 A. Saraf menerima rangsang → otot berkontraksi → gerak menjauh
@@ -2564,10 +2268,6 @@ D. Tulang menerima rangsang → otot tegang → gatal
 
 **(1) Soal:**
 Suatu sel memiliki ciri: tidak berdinding sel, vakuola kecil banyak, tidak berkloroplas, bentuk fleksibel. Sel tersebut paling mungkin adalah...
-A. Sel tumbuhan daun
-B. Sel hewan
-C. Sel bakteri
-D. Sel jamur
 
 **(2) Pilihan Jawaban:**
 A. Sel tumbuhan daun
@@ -2596,10 +2296,6 @@ D. Sel jamur
 
 **(1) Soal:**
 Teknik mencangkok (menghilangkan kulit melingkar pada batang) membuat akar baru tumbuh di atas luka karena...
-A. Zat makanan dari daun tertahan di atas luka karena floem terpotong, memicu pembentukan akar
-B. Air tidak bisa naik sehingga batang membengkak
-C. Kloroplas berpindah ke tempat luka
-D. Stomata terbuka lebar
 
 **(2) Pilihan Jawaban:**
 A. Zat makanan dari daun tertahan di atas luka karena floem terpotong, memicu pembentukan akar
@@ -2628,10 +2324,6 @@ D. Stomata terbuka lebar
 
 **(1) Soal:**
 Pepaya yang ditanam di ladang luas berbuah banyak. Jika seluruh daun pepaya itu diserang ulat sampai habis (termasuk tempat fotosintesis), maka...
-A. Buah tetap banyak karena cadangan air dari akar
-B. Buah menjadi sedikit/tidak berkembang karena tidak ada hasil fotosintesis untuk disalurkan ke buah
-C. Akar langsung menghasilkan makanan pengganti
-D. Batang menghasilkan makanan pengganti fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Buah tetap banyak karena cadangan air dari akar
@@ -2660,10 +2352,6 @@ D. Batang menghasilkan makanan pengganti fotosintesis
 
 **(1) Soal:**
 Dua kelompok sel tumbuhan: Kelompok A selnya aktif membelah (kecil, berdinding tipis); Kelompok B selnya sudah dewasa (besar, berdinding tebal). Kesimpulan yang tepat adalah...
-A. Kelompok A meristem; kelompok B jaringan dewasa
-B. Kelompok A epidermis; kelompok B meristem
-C. Keduanya meristem
-D. Kelompok A parenkim; kelompok B meristem
 
 **(2) Pilihan Jawaban:**
 A. Kelompok A meristem; kelompok B jaringan dewasa
@@ -2692,10 +2380,6 @@ D. Kelompok A parenkim; kelompok B meristem
 
 **(1) Soal:**
 Pada otot jantung, otot bekerja terus-menerus tanpa henti. Sifat ini cocok dengan ciri jaringan otot jantung, yaitu...
-A. Berkontraksi lambat dan mudah lelah
-B. Berdenyut otomatis, tidak cepat lelah
-C. Tidak dapat berkontraksi
-D. Hanya bekerja saat sadar
 
 **(2) Pilihan Jawaban:**
 A. Berkontraksi lambat dan mudah lelah
@@ -2729,10 +2413,6 @@ Perhatikan data berikut.
 - Sel R: prokariotik, tanpa dinding selulosa.
 
 Tiga sel tersebut secara berurutan adalah...
-A. Tumbuhan, hewan, bakteri
-B. Bakteri, tumbuhan, hewan
-C. Hewan, tumbuhan, jamur
-D. Jamur, bakteri, tumbuhan
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan, hewan, bakteri
@@ -2761,10 +2441,6 @@ D. Jamur, bakteri, tumbuhan
 
 **(1) Soal:**
 Seorang siswa merendam daun Seledri yang masih utuh dalam air berwarna biru selama 30 menit, lalu mengamati potongan melintang batangnya. Yang paling mungkin teramati adalah...
-A. Noda biru menyebar ke seluruh bagian batang
-B. Titik-titik biru tepat pada berkas pembuluh (xilem)
-C. Warna biru hanya di kulit terluar
-D. Batang tidak berubah sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Noda biru menyebar ke seluruh bagian batang
@@ -2793,10 +2469,6 @@ D. Batang tidak berubah sama sekali
 
 **(1) Soal:**
 Pada percobaan dua potong kentang: Potong A direndam air garam pekat; Potong B direndam air biasa. Setelah 30 menit, yang terjadi adalah...
-A. A layu (air keluar), B tetap segar
-B. A segar (air masuk), B layu
-C. Keduanya layu
-D. Keduanya segar
 
 **(2) Pilihan Jawaban:**
 A. A layu (air keluar), B tetap segar
@@ -2825,10 +2497,6 @@ D. Keduanya segar
 
 **(1) Soal:**
 Gambar mikroskop menunjukkan sel bawang merah (Allium cepa). Terlihat sel mengandung lapisan terluar transparan, cairan di dalam, dan bagian tengah yang warnanya lebih pekat. Bagian paling pekat tersebut adalah...
-A. Dinding sel
-B. Inti sel (nukleus)
-C. Vakuola
-D. Mitokondria
 
 **(2) Pilihan Jawaban:**
 A. Dinding sel
@@ -2857,10 +2525,6 @@ D. Mitokondria
 
 **(1) Soal:**
 Mengapa pipet self-observasi: seorang siswa menggerus daun dengan sedikit air lalu meneteskan sarinya di kaca; ia hendak melihat butiran hijau. Bagian yang diamati adalah...
-A. Kloroplas pada sel daun
-B. Nukleus pada sari buah
-C. Dinding sel yang lepas
-D. Inti sel kentang
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas pada sel daun
@@ -2898,10 +2562,6 @@ Perhatikan tabel perbandingan dua sel berikut.
 | Bentuk | Tetap | Berubah |
 
 Kesimpulan yang paling tepat adalah...
-A. Sel I sel tumbuhan dan Sel II sel hewan
-B. Sel I sel hewan dan Sel II sel bakteri
-C. Keduanya sel tumbuhan
-D. Sel I sel jamur dan Sel II sel tumbuhan
 
 **(2) Pilihan Jawaban:**
 A. Sel I sel tumbuhan dan Sel II sel hewan
@@ -2937,10 +2597,6 @@ Perhatikan data pengamatan:
 | B | Floem mengangkut hasil fotosintesis |
 
 Jika Xilem (A) rusak pada sebatang pohon besar, akibat pertama yang terjadi adalah...
-A. Daun tidak menerima air dan mineral → layu
-B. Akar tidak menerima makanan → mati
-C. Buah rontok karena makanan berlebih
-D. Batang bertambah besar tak terkendali
 
 **(2) Pilihan Jawaban:**
 A. Daun tidak menerima air dan mineral → layu
@@ -2969,10 +2625,6 @@ D. Batang bertambah besar tak terkendali
 
 **(1) Soal:**
 Seorang ahli membandingkan sel otot lurik dan sel otot polos. Pernyataan yang paling tepat adalah...
-A. Otot lurik melekat pada tulang dan bekerja sadar; otot polos di organ dalam dan bekerja tak sadar
-B. Otot lurik di usus; otot polos melekat tulang
-C. Keduanya bekerja sadar
-D. Keduanya hanya ada di jantung
 
 **(2) Pilihan Jawaban:**
 A. Otot lurik melekat pada tulang dan bekerja sadar; otot polos di organ dalam dan bekerja tak sadar
@@ -3010,10 +2662,6 @@ Perhatikan keterangan jaringan:
 | Stomata | 4 |
 
 Pasangan yang benar antara jaringan dan fungsinya adalah...
-A. 1(pembelah), 2(pengangkut air), 3(pengangkut makanan), 4(pertukaran gas)
-B. 1(pengangkut air), 2(pembelah), 3(pertukaran gas), 4(pengangkut makanan)
-C. 1(pertukaran gas), 2(pengangkut makanan), 3(pembelah), 4(pengangkut air)
-D. 1(pembelah), 2(pertukaran gas), 3(pengangkut air), 4(pengangkut makanan)
 
 **(2) Pilihan Jawaban:**
 A. 1(pembelah), 2(pengangkut air), 3(pengangkut makanan), 4(pertukaran gas)
@@ -3042,10 +2690,6 @@ D. 1(pembelah), 2(pertukaran gas), 3(pengangkut air), 4(pengangkut makanan)
 
 **(1) Soal:**
 Alasan mengapa sel tumbuhan bisa "menjadi lebih berat" segera setelah disiram, sedangkan sel hewan tidak mengalami hal yang persis sama, adalah karena...
-A. Vakuola besar sel tumbuhan menyerap air dan mendorong dinding sel, membuat sel tegak & berat
-B. Sel hewan tidak memiliki membran sel
-C. Kloroplas sel tumbuhan menyerap air berlebih
-D. Dinding sel hewan menyerap air
 
 **(2) Pilihan Jawaban:**
 A. Vakuola besar sel tumbuhan menyerap air dan mendorong dinding sel, membuat sel tegak & berat
@@ -3074,10 +2718,6 @@ D. Dinding sel hewan menyerap air
 
 **(1) Soal:**
 Mitokondria aktif di semua sel PENYABAB suatu kondisi: sel otot yang banyak bergerak memiliki jumlah mitokondria lebih banyak daripada sel kulit. Penjelasan paling tepat adalah...
-A. Otot lebih banyak beraktivitas → butuh energi lebih besar → mitokondria lebih banyak
-B. Kulit lebih banyak membutuhkan fotosintesis
-C. Otot tidak membutuhkan energi
-D. Kulit memiliki lebih banyak kloroplas
 
 **(2) Pilihan Jawaban:**
 A. Otot lebih banyak beraktivitas → butuh energi lebih besar → mitokondria lebih banyak
@@ -3106,10 +2746,6 @@ D. Kulit memiliki lebih banyak kloroplas
 
 **(1) Soal:**
 Pada tanaman xerofit (kaktus), daun menjelma menjadi duri dan batang tebal berdaging. Strategi ini berkaitan dengan konsep jaringan tumbuhan, terutama...
-A. Memperkecil luas permukaan stomata/daun untuk mengurangi penguapan air
-B. Memperbesar luas daun untuk fotosintesis
-C. Menambah xilem untuk menyerap udara
-D. Menambah meristem di batang agar berbuah
 
 **(2) Pilihan Jawaban:**
 A. Memperkecil luas permukaan stomata/daun untuk mengurangi penguapan air
@@ -3138,10 +2774,6 @@ D. Menambah meristem di batang agar berbuah
 
 **(1) Soal:**
 Jika sel darah merah manusia tidak memiliki mitokondria, sedangkan sel otot rangka memilikinya banyak, fungsi sel yang PASTI berbeda adalah... (Bandingkan juga akibatnya bagi energi.)
-A. Keduanya tetap menghasilkan energi penuh dari fotosintesis
-B. Sel darah merah menghasilkan energi lebih terbatas; sel otot menghasilkan banyak energi
-C. Keduanya tidak menghasilkan energi sama sekali
-D. Sel darah merah menghasilkan energi lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Keduanya tetap menghasilkan energi penuh dari fotosintesis
@@ -3173,10 +2805,6 @@ Perhatikan diagram aliran zat di tumbuhan:
 Akar → ? → Daun (arah naik) dan Daun → ? → Batang/Akar (arah turun).
 
 Pengisi yang tepat untuk kedua tanda tanya adalah...
-A. Xilem dan Floem
-B. Floem dan Xilem
-C. Xilem dan Xilem
-D. Stomata dan Kloroplas
 
 **(2) Pilihan Jawaban:**
 A. Xilem dan Floem
@@ -3205,10 +2833,6 @@ D. Stomata dan Kloroplas
 
 **(1) Soal:**
 Gambar mikroskop memperlihatkan sel berbentuk panjang seperti balok dengan ujung menyatu membentuk tabung, kosong di tengah, tersusun vertikal. Jaringan yang paling sesuai dengan penggambaran itu adalah...
-A. Xilem
-B. Parenkim
-C. Epidermis
-D. Meristem
 
 **(2) Pilihan Jawaban:**
 A. Xilem
@@ -3237,10 +2861,6 @@ D. Meristem
 
 **(1) Soal:**
 Pada diagram penampang daun, urutan jaringan dari atas (permukaan atas) ke bawah (permukaan bawah) yang benar adalah...
-A. Epidermis atas → mesofil (parenkim) → epidermis bawah (+ stomata)
-B. Mesofil → epidermis atas → epidermis bawah
-C. Epidermis bawah → mesofil → epidermis atas
-D. Stomata → epidermis atas → mesofil
 
 **(2) Pilihan Jawaban:**
 A. Epidermis atas → mesofil (parenkim) → epidermis bawah (+ stomata)
@@ -3269,10 +2889,6 @@ D. Stomata → epidermis atas → mesofil
 
 **(1) Soal:**
 Manfaat makan buah dan sayur segar berkaitan dengan konsep "serat" — namun dari sisi sel tumbuhan, dinding selnya tersusun dari...
-A. Selulosa yang tidak dapat dicerna manusia dan membantu gerak usus
-B. Kitin yang mudah dicerna
-C. Peptidoglikan yang beracun
-D. Lemak penyimpan energi
 
 **(2) Pilihan Jawaban:**
 A. Selulosa yang tidak dapat dicerna manusia dan membantu gerak usus
@@ -3301,10 +2917,6 @@ D. Lemak penyimpan energi
 
 **(1) Soal:**
 Ketika makanan masuk ke lambung, otot lam (usus) melakukan gerak meremas tanpa kita sadari, disebut gerak peristaltik. Jaringan yang bertanggung jawab adalah...
-A. Otot polos
-B. Otot lurik
-C. Otot jantung
-D. Epitel berlapis
 
 **(2) Pilihan Jawaban:**
 A. Otot polos
@@ -3333,10 +2945,6 @@ D. Epitel berlapis
 
 **(1) Soal:**
 Pada percobaan Hydrilla yang diletakkan di bawah cahaya dan diberi gelembung teramati, gelembung yang muncul berasal dari...
-A. Fotosintesis yang menghasilkan oksigen
-B. Respirasi yang menyerap oksigen
-C. Transpirasi daun
-D. Penyaringan akar
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis yang menghasilkan oksigen
@@ -3365,10 +2973,6 @@ D. Penyaringan akar
 
 **(1) Soal:**
 Seorang siswa diberi dua preparat: X diwarnai dan tampak inti sel sangat jelas; Y tampak banyak sel tanpa inti sejati. Kesimpulan terbaik adalah...
-A. X kemungkinan sel tumbuhan/hewan; Y kemungkinan sel bakteri
-B. X sel bakteri; Y sel tumbuhan
-C. Keduanya sel bakteri
-D. Keduanya sel hewan
 
 **(2) Pilihan Jawaban:**
 A. X kemungkinan sel tumbuhan/hewan; Y kemungkinan sel bakteri
@@ -3403,10 +3007,6 @@ Buatlah urutan paling logis penyebab tumbuhan layu setelah disiram air garam pek
 4. Daun/batang terlihat layu.
 
 Urutan yang benar adalah...
-A. 1 → 2 → 3 → 4
-B. 2 → 1 → 3 → 4
-C. 3 → 2 → 1 → 4
-D. 4 → 1 → 2 → 3
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3 → 4

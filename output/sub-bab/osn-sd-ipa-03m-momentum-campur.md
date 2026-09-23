@@ -164,10 +164,6 @@ Langkah 3: Kecepatan sama, massa lebih besar → momentum lebih besar → A.
 
 **(1) Soal:**
 Momentum adalah hasil kali antara...
-A. massa dan kecepatan
-B. massa dan jarak
-C. gaya dan waktu
-D. kecepatan dan berat
 
 **(2) Pilihan Jawaban:**
 A. massa dan kecepatan
@@ -196,10 +192,6 @@ D. kecepatan dan berat
 
 **(1) Soal:**
 Sebuah benda yang memiliki momentum besar akan...
-A. mudah dihentikan
-B. sulit dihentikan
-C. mudah berubah arah
-D. menjadi lebih kecil massanya
 
 **(2) Pilihan Jawaban:**
 A. mudah dihentikan
@@ -228,10 +220,6 @@ D. menjadi lebih kecil massanya
 
 **(1) Soal:**
 Satuan dari momentum adalah...
-A. meter per sekon (m/s)
-B. kilogram (kg)
-C. kilogram meter per sekon (kg·m/s)
-D. newton (N)
 
 **(2) Pilihan Jawaban:**
 A. meter per sekon (m/s)
@@ -260,10 +248,6 @@ D. newton (N)
 
 **(1) Soal:**
 Sebuah batu besar yang diam di pinggir jalan memiliki momentum...
-A. sangat besar
-B. tidak tentu
-C. sama besar dengan beratnya
-D. nol
 
 **(2) Pilihan Jawaban:**
 A. sangat besar
@@ -292,10 +276,6 @@ D. nol
 
 **(1) Soal:**
 Dua kendaraan melaju dengan kecepatan yang sama. Kendaraan yang lebih berat memiliki momentum...
-A. lebih besar
-B. lebih kecil
-C. sama besar
-D. tidak tentu
 
 **(2) Pilihan Jawaban:**
 A. lebih besar
@@ -324,10 +304,6 @@ D. tidak tentu
 
 **(1) Soal:**
 Dua mobil bermassa sama. Mobil yang melaju lebih kencang memiliki momentum...
-A. sama besar
-B. lebih kecil
-C. lebih besar
-D. nol
 
 **(2) Pilihan Jawaban:**
 A. sama besar
@@ -356,10 +332,6 @@ D. nol
 
 **(1) Soal:**
 Sebuah truk bermassa 2.000 kg melaju dengan kecepatan 5 m/s. Momentum truk tersebut adalah...
-A. 5.000 kg·m/s
-B. 10.000 kg·m/s
-C. 400 kg·m/s
-D. 20.000 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 5.000 kg·m/s
@@ -389,10 +361,6 @@ D. 20.000 kg·m/s
 
 **(1) Soal:**
 Sebuah sepeda motor bermassa 100 kg bergerak dengan kecepatan 2 m/s. Momentum sepeda motor itu adalah...
-A. 20 kg·m/s
-B. 50 kg·m/s
-C. 100 kg·m/s
-D. 200 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 20 kg·m/s
@@ -421,10 +389,6 @@ D. 200 kg·m/s
 
 **(1) Soal:**
 Impuls adalah...
-A. gaya yang bekerja selama suatu selang waktu tertentu
-B. hasil kali massa dan kecepatan
-C. jarak dibagi waktu
-D. besarnya berat benda
 
 **(2) Pilihan Jawaban:**
 A. gaya yang bekerja selama suatu selang waktu tertentu
@@ -453,10 +417,6 @@ D. besarnya berat benda
 
 **(1) Soal:**
 Semakin besar impuls yang diberikan pada sebuah benda, perubahan momentum benda itu semakin...
-A. kecil
-B. besar
-C. selalu tetap
-D. tidak terasa
 
 **(2) Pilihan Jawaban:**
 A. kecil
@@ -485,10 +445,6 @@ D. tidak terasa
 
 **(1) Soal:**
 Menabrak tumpukan karung pasir lebih aman daripada menabrak tembok karena karung pasir...
-A. lebih keras daripada tembok
-B. lebih berat daripada mobil
-C. memperlama waktu berhenti sehingga gaya yang terasa lebih kecil
-D. melemparkan mobil ke belakang
 
 **(2) Pilihan Jawaban:**
 A. lebih keras daripada tembok
@@ -517,10 +473,6 @@ D. melemparkan mobil ke belakang
 
 **(1) Soal:**
 Makin lama waktu yang dibutuhkan sebuah benda untuk berhenti, gaya yang terasa makin...
-A. kecil
-B. besar
-C. sama besar
-D. berlipat ganda
 
 **(2) Pilihan Jawaban:**
 A. kecil
@@ -549,10 +501,6 @@ D. berlipat ganda
 
 **(1) Soal:**
 Truk lebih sulit dihentikan daripada sepeda motor walaupun kecepatannya sama karena...
-A. truk melaju lebih lambat
-B. massa truk lebih besar sehingga momentumnya lebih besar
-C. ban truk lebih lebar
-D. truk tidak memiliki rem
 
 **(2) Pilihan Jawaban:**
 A. truk melaju lebih lambat
@@ -581,10 +529,6 @@ D. truk tidak memiliki rem
 
 **(1) Soal:**
 Sebuah mobil bermassa 800 kg melaju dengan kecepatan 3 m/s. Momentum mobil tersebut adalah...
-A. 800 kg·m/s
-B. 1.200 kg·m/s
-C. 1.600 kg·m/s
-D. 2.400 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 800 kg·m/s
@@ -613,10 +557,6 @@ D. 2.400 kg·m/s
 
 **(1) Soal:**
 Momentum sebuah benda akan berubah jika...
-A. kecepatan benda berubah
-B. warna benda berubah
-C. benda berada di tempat yang berpindah
-D. bentuk bungkusnya berganti
 
 **(2) Pilihan Jawaban:**
 A. kecepatan benda berubah
@@ -645,10 +585,6 @@ D. bentuk bungkusnya berganti
 
 **(1) Soal:**
 Saat pengendara sepeda mengerem pelan-pelan, kecepatan sepeda mengecil. Akibatnya momentum sepeda...
-A. membesar
-B. mengecil
-C. tetap tidak berubah
-D. menjadi nol seketika
 
 **(2) Pilihan Jawaban:**
 A. membesar
@@ -677,10 +613,6 @@ D. menjadi nol seketika
 
 **(1) Soal:**
 Sebuah bola ditendang dengan gaya besar dan cepat dari keadaan berhenti. Dibandingkan bola yang hanya didorong pelan, bola yang ditendang keras menerima...
-A. momentum yang lebih kecil
-B. impuls yang lebih kecil
-C. impuls yang lebih besar
-D. momentum yang sama
 
 **(2) Pilihan Jawaban:**
 A. momentum yang lebih kecil
@@ -709,10 +641,6 @@ D. momentum yang sama
 
 **(1) Soal:**
 Kelereng A dan kelereng B sama ukuran dan sama jenis. Kelereng A digelindingkan lebih cepat daripada kelereng B. Kelereng yang momentumnya lebih besar adalah...
-A. kelereng A karena kecepatannya lebih besar
-B. kelereng B karena geraknya pelan
-C. keduanya sama besar
-D. tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. kelereng A karena kecepatannya lebih besar
@@ -741,10 +669,6 @@ D. tidak dapat dibandingkan
 
 **(1) Soal:**
 Sebuah papan seluncur (skateboard) bermassa 4 kg digelindingkan dengan kecepatan 3 m/s. Momentum papan itu adalah...
-A. 4 kg·m/s
-B. 7 kg·m/s
-C. 10 kg·m/s
-D. 12 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 4 kg·m/s
@@ -773,10 +697,6 @@ D. 12 kg·m/s
 
 **(1) Soal:**
 Sebuah bola didorong dengan gaya 2 N selama 3 sekon. Besar impuls yang diberikan adalah...
-A. 3 N·s
-B. 6 N·s
-C. 9 N·s
-D. 1,5 N·s
 
 **(2) Pilihan Jawaban:**
 A. 3 N·s
@@ -805,10 +725,6 @@ D. 1,5 N·s
 
 **(1) Soal:**
 Dua mobil melaju dengan kecepatan sama, yaitu 10 m/s. Massa mobil X = 900 kg dan mobil Y = 1.200 kg. Pernyataan yang benar adalah...
-A. momentum mobil X lebih besar
-B. momentum keduanya sama besar
-C. momentum mobil Y lebih besar
-D. momentum keduanya tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. momentum mobil X lebih besar
@@ -837,10 +753,6 @@ D. momentum keduanya tidak dapat dibandingkan
 
 **(1) Soal:**
 Bagian dalam helm yang tebal dan empuk berguna agar saat terjadi benturan kepala...
-A. waktu berhentinya lebih lama sehingga gayanya lebih kecil
-B. menjadi lebih berat sehingga tidak mudah terbang
-C. momentumnya bertambah besar
-D. tidak terkena sinar matahari
 
 **(2) Pilihan Jawaban:**
 A. waktu berhentinya lebih lama sehingga gayanya lebih kecil
@@ -869,10 +781,6 @@ D. tidak terkena sinar matahari
 
 **(1) Soal:**
 Sabuk pengaman di mobil membantu penumpang karena...
-A. membuat penumpang tetap bergerak saat tabrakan
-B. memperlama waktu berhenti penumpang saat tabrakan sehingga gayanya lebih kecil
-C. menambah kecepatan mobil
-D. mengurangi masa berat penumpang
 
 **(2) Pilihan Jawaban:**
 A. membuat penumpang tetap bergerak saat tabrakan
@@ -901,10 +809,6 @@ D. mengurangi masa berat penumpang
 
 **(1) Soal:**
 Pengemudi yang mengerem pelan dari jarak jauh lebih aman daripada pengereman mendadak karena...
-A. waktunya lebih singkat sehingga cepat sampai
-B. momentum kendaraan bertambah
-C. waktu berhenti lebih lama sehingga gaya yang terasa lebih kecil
-D. ban tidak menyentuh jalan
 
 **(2) Pilihan Jawaban:**
 A. waktunya lebih singkat sehingga cepat sampai
@@ -933,10 +837,6 @@ D. ban tidak menyentuh jalan
 
 **(1) Soal:**
 Sebuah mobil mainan melaju lalu menabrak kelereng yang diam. Setelah itu kelereng terguling. Yang membuat kelereng bergerak adalah...
-A. momentum mobil mainan yang berpindah kepadanya
-B. warna mobil mainan
-C. cahaya lampu ruangan
-D. angin dari ban mainan
 
 **(2) Pilihan Jawaban:**
 A. momentum mobil mainan yang berpindah kepadanya
@@ -965,10 +865,6 @@ D. angin dari ban mainan
 
 **(1) Soal:**
 Kelereng kecil yang melaju sangat cepat dapat memiliki momentum lebih besar daripada kelereng besar yang bergerak lambat. Hal ini mungkin terjadi karena momentum bergantung pada...
-A. massa saja
-B. massa dan kecepatan
-C. bentuk kelereng saja
-D. warna kelereng saja
 
 **(2) Pilihan Jawaban:**
 A. massa saja
@@ -997,10 +893,6 @@ D. warna kelereng saja
 
 **(1) Soal:**
 Makin kencang kendaraan melaju, kecelakaan makin berbahaya karena...
-A. momentumnya makin kecil
-B. massanya makin besar
-C. momentumnya makin besar sehingga makin sulit dihentikan
-D. rodanya cepat aus
 
 **(2) Pilihan Jawaban:**
 A. momentumnya makin kecil
@@ -1029,10 +921,6 @@ D. rodanya cepat aus
 
 **(1) Soal:**
 Seorang pembalap bermassa 60 kg mengendarai sepeda balap 15 kg dengan kecepatan 5 m/s. Jika dihitung dari massa total, momentumnya adalah...
-A. 375 kg·m/s
-B. 300 kg·m/s
-C. 75 kg·m/s
-D. 5 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 375 kg·m/s
@@ -1061,10 +949,6 @@ D. 5 kg·m/s
 
 **(1) Soal:**
 Pada kecepatan yang sama, massa sebuah truk 10 kali massa sebuah sepeda motor. Momentum truk dibandingkan sepeda motor adalah...
-A. 10 kali lebih kecil
-B. 10 kali lebih besar
-C. sama besar
-D. hanya 2 kali lebih besar
 
 **(2) Pilihan Jawaban:**
 A. 10 kali lebih kecil
@@ -1093,10 +977,6 @@ D. hanya 2 kali lebih besar
 
 **(1) Soal:**
 Kiper menangkap bola yang datang kencang dengan tangan sedikit mundur mengikuti arah bola. Gerakan ini memperlama waktu sentuh sehingga...
-A. gaya pada tangan lebih besar
-B. bola menjadi lebih berat
-C. gaya pada tangan lebih kecil
-D. impuls menjadi nol
 
 **(2) Pilihan Jawaban:**
 A. gaya pada tangan lebih besar
@@ -1123,10 +1003,6 @@ D. impuls menjadi nol
 
 **(1) Soal:**
 Dalam permainan biliar, bola putih yang melaju menabrak bola lain yang diam sehingga bola lain itu ikut bergerak. Bola yang tadinya diam dapat bergerak karena...
-A. menerima impuls dari bola putih
-B. menerima cahaya dari meja biliar
-C. ditiup udara di sekitarnya
-D. meniru warna bola putih
 
 **(2) Pilihan Jawaban:**
 A. menerima impuls dari bola putih
@@ -1155,10 +1031,6 @@ D. meniru warna bola putih
 
 **(1) Soal:**
 Bola X bermassa 200 gram dan bola Y bermassa 500 gram menggelinding dengan kecepatan yang sama. Pernyataan yang benar adalah...
-A. momentum bola X lebih besar
-B. momentum bola Y lebih besar karena massanya lebih besar
-C. momentum kedua bola sama besar
-D. momentum kedua bola tidak tentu
 
 **(2) Pilihan Jawaban:**
 A. momentum bola X lebih besar
@@ -1187,10 +1059,6 @@ D. momentum kedua bola tidak tentu
 
 **(1) Soal:**
 Sepeda bermassa 20 kg bergerak dengan kecepatan 4 m/s. Momentum sepeda tersebut adalah...
-A. 5 kg·m/s
-B. 16 kg·m/s
-C. 24 kg·m/s
-D. 80 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 5 kg·m/s
@@ -1219,10 +1087,6 @@ D. 80 kg·m/s
 
 **(1) Soal:**
 Agar penumpang bus tidak terdorong keras saat bus berhenti, pengemudi sebaiknya...
-A. mengerem pelan dari jauh sehingga waktu berhentinya lama dan gaya kecil
-B. mengerem mendadak sekuat tenaga
-C. membiarkan bus terus berjalan tanpa berhenti
-D. menambah kecepatan lalu berbelok
 
 **(2) Pilihan Jawaban:**
 A. mengerem pelan dari jauh sehingga waktu berhentinya lama dan gaya kecil
@@ -1251,10 +1115,6 @@ D. menambah kecepatan lalu berbelok
 
 **(1) Soal:**
 Pengereman mendadak berbahaya bagi penumpang karena...
-A. waktu berhenti menjadi sangat lama
-B. gaya yang terjadi menjadi sangat kecil
-C. waktu berhenti sangat singkat sehingga gaya yang terjadi sangat besar
-D. momentum kendaraan membesar seketika
 
 **(2) Pilihan Jawaban:**
 A. waktu berhenti menjadi sangat lama
@@ -1283,10 +1143,6 @@ D. momentum kendaraan membesar seketika
 
 **(1) Soal:**
 Seorang pelari yang bertubuh besar dan berlari kencang memiliki momentum yang...
-A. kecil karena tubuhnya berat
-B. besar karena massa dan kecepatannya besar
-C. nol
-D. sama dengan pelari kecil yang berjalan pelan
 
 **(2) Pilihan Jawaban:**
 A. kecil karena tubuhnya berat
@@ -1315,10 +1171,6 @@ D. sama dengan pelari kecil yang berjalan pelan
 
 **(1) Soal:**
 Seorang komentator berkata, "Bola itu mengikuti momentumnya." Cara paling tepat memahami momentum adalah...
-A. momentum berlari sendiri mencari arah sasaran
-B. momentum dapat diikuti seperti ekor komet
-C. momentum benda yang mati bisa berpikir
-D. momentum adalah ukuran gerak benda; benda terus bergerak sesuai massa dan kecepatannya sampai ada gaya menghentikannya
 
 **(2) Pilihan Jawaban:**
 A. momentum berlari sendiri mencari arah sasaran
@@ -1347,10 +1199,6 @@ D. momentum adalah ukuran gerak benda; benda terus bergerak sesuai massa dan kec
 
 **(1) Soal:**
 Sebuah bola yang diam ditendang hingga melesat. Bola dapat bergerak karena...
-A. menerima impuls dari kaki sehingga kecepatannya berubah dari nol menjadi besar
-B. massanya bertambah banyak
-C. warnanya berubah menjadi putih
-D. udara di dalamnya keluar
 
 **(2) Pilihan Jawaban:**
 A. menerima impuls dari kaki sehingga kecepatannya berubah dari nol menjadi besar
@@ -1379,10 +1227,6 @@ D. udara di dalamnya keluar
 
 **(1) Soal:**
 Menangkap bola kasti yang melaju kencang terasa lebih tidak sakit jika tangan...
-A. kaku dan berhenti seketika
-B. sedikit mundur mengikuti arah bola agar waktu sentuh lebih lama
-C. menutup mata
-D. memegang bola sejauh mungkin dari tubuh
 
 **(2) Pilihan Jawaban:**
 A. kaku dan berhenti seketika
@@ -1411,10 +1255,6 @@ D. memegang bola sejauh mungkin dari tubuh
 
 **(1) Soal:**
 Contoh memperlama waktu berhenti agar gaya yang terasa lebih kecil adalah...
-A. menjatuhkan piring ke lantai semen
-B. melempar telur ke dinding bata
-C. jatuh ke atas kasur busa yang empuk
-D. menendang bola ke tembok beton
 
 **(2) Pilihan Jawaban:**
 A. menjatuhkan piring ke lantai semen
@@ -1443,10 +1283,6 @@ D. menendang bola ke tembok beton
 
 **(1) Soal:**
 Sebuah mobil bergerak lalu berhenti di lampu merah. Pada saat mobil sudah benar-benar berhenti, momentum mobil tersebut adalah...
-A. bertambah besar
-B. tetap besar
-C. tidak tentu
-D. nol, karena kecepatannya nol
 
 **(2) Pilihan Jawaban:**
 A. bertambah besar
@@ -1475,10 +1311,6 @@ D. nol, karena kecepatannya nol
 
 **(1) Soal:**
 Saat rem kendaraan bekerja, gaya gesek memperlambat roda. Akibatnya pada momentum kendaraan...
-A. momentum mengecil karena kecepatannya mengecil
-B. momentum membesar karena rem bekerja
-C. momentum tetap seperti semula
-D. massa kendaraan bertambah
 
 **(2) Pilihan Jawaban:**
 A. momentum mengecil karena kecepatannya mengecil
@@ -1507,10 +1339,6 @@ D. massa kendaraan bertambah
 
 **(1) Soal:**
 Sebuah gerobak pasar bermassa 40 kg didorong dengan kecepatan 2 m/s. Momentum gerobak tersebut adalah...
-A. 20 kg·m/s
-B. 80 kg·m/s
-C. 42 kg·m/s
-D. 100 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 20 kg·m/s
@@ -1539,10 +1367,6 @@ D. 100 kg·m/s
 
 **(1) Soal:**
 Dua mobil mainan bergerak dari arah berlawanan lalu saling menabrak. Setelah tabrakan, kecepatan kedua mobil mainan berubah. Peristiwa ini menunjukkan bahwa...
-A. momentum tidak pernah berubah saat tabrakan
-B. tabrakan tidak memengaruhi gerak benda
-C. kedua mobil menerima impuls yang mengubah geraknya
-D. hanya mobil yang lebih besar yang berubah
 
 **(2) Pilihan Jawaban:**
 A. momentum tidak pernah berubah saat tabrakan
@@ -1571,10 +1395,6 @@ D. hanya mobil yang lebih besar yang berubah
 
 **(1) Soal:**
 "Kereta mainan yang sedang berjalan adalah pengalaman momentum yang lebih besar daripada saat kereta sudah berhenti." Pernyataan ini...
-A. benar, karena setelah berhenti kecepatannya nol sehingga momentumnya nol
-B. salah, karena momentum tidak pernah berubah
-C. benar, karena massa kereta berubah
-D. salah, karena momentum justru semakin besar saat berhenti
 
 **(2) Pilihan Jawaban:**
 A. benar, karena setelah berhenti kecepatannya nol sehingga momentumnya nol
@@ -1603,10 +1423,6 @@ D. salah, karena momentum justru semakin besar saat berhenti
 
 **(1) Soal:**
 Walau jauh lebih ringan daripada truk, bola yang ditendang sangat keras tetap bisa berbahaya karena...
-A. massanya lebih besar daripada truk
-B. kecepatannya sangat besar sehingga momentumnya besar
-C. hanya berat yang menentukan bahaya
-D. momentum bola selalu nol
 
 **(2) Pilihan Jawaban:**
 A. massanya lebih besar daripada truk
@@ -1635,10 +1451,6 @@ D. momentum bola selalu nol
 
 **(1) Soal:**
 Kereta api yang melaju hanya 2 m/s ternyata tetap sulit dihentikan karena...
-A. kecepatannya nol
-B. momentumnya kecil
-C. kereta api tidak bermassa
-D. massanya sangat besar sehingga momentumnya besar
 
 **(2) Pilihan Jawaban:**
 A. kecepatannya nol
@@ -1667,10 +1479,6 @@ D. massanya sangat besar sehingga momentumnya besar
 
 **(1) Soal:**
 Telur yang dijatuhkan ke atas spons tidak pecah, tetapi telur yang dijatuhkan ke lantai semen dari ketinggian sama pecah. Sebabnya...
-A. spons memperlama waktu berhenti sehingga gaya yang mengenai telur lebih kecil
-B. spons menghangatkan telur
-C. lantai semen lebih licin
-D. telur di atas lantai lebih berat
 
 **(2) Pilihan Jawaban:**
 A. spons memperlama waktu berhenti sehingga gaya yang mengenai telur lebih kecil
@@ -1699,10 +1507,6 @@ D. telur di atas lantai lebih berat
 
 **(1) Soal:**
 Agar sebuah benda memiliki momentum yang besar, benda itu harus...
-A. berat tetapi diam
-B. ringan dan diam
-C. bergerak dengan massa dan kecepatan yang besar
-D. diam di tempat yang tinggi
 
 **(2) Pilihan Jawaban:**
 A. berat tetapi diam
@@ -1731,10 +1535,6 @@ D. diam di tempat yang tinggi
 
 **(1) Soal:**
 Besarnya perubahan momentum sebuah benda sama dengan...
-A. massa benda tersebut
-B. impuls yang diterimanya
-C. jarak yang ditempuh benda
-D. lamanya benda diam
 
 **(2) Pilihan Jawaban:**
 A. massa benda tersebut
@@ -1763,10 +1563,6 @@ D. lamanya benda diam
 
 **(1) Soal:**
 Mobil mainan bermassa 50 kg membawa penumpang boneka 10 kg. Keduanya bergerak bersama dengan kecepatan 2 m/s. Momentum totalnya adalah...
-A. 120 kg·m/s
-B. 60 kg·m/s
-C. 100 kg·m/s
-D. 30 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 120 kg·m/s
@@ -1795,10 +1591,6 @@ D. 30 kg·m/s
 
 **(1) Soal:**
 Kereta mainan bermassa 3 kali mobil mainan, dan keduanya melaju dengan kecepatan sama. Momentum kereta mainan adalah...
-A. sama dengan mobil mainan
-B. 3 kali lebih kecil dari mobil mainan
-C. 3 kali lebih besar dari mobil mainan
-D. 6 kali lebih besar dari mobil mainan
 
 **(2) Pilihan Jawaban:**
 A. sama dengan mobil mainan
@@ -1827,10 +1619,6 @@ D. 6 kali lebih besar dari mobil mainan
 
 **(1) Soal:**
 Sebuah benda menerima gaya 5 N selama 4 sekon. Impuls yang bekerja pada benda tersebut adalah...
-A. 9 N·s
-B. 20 N·s
-C. 54 N·s
-D. 0,8 N·s
 
 **(2) Pilihan Jawaban:**
 A. 9 N·s
@@ -1859,10 +1647,6 @@ D. 0,8 N·s
 
 **(1) Soal:**
 Bus yang tidak sengaja menabrak pagar karet (yang mudah melentur) lebih aman daripada menabrak tembok beton karena...
-A. waktu kontak dengan pagar karet lebih lama sehingga gaya lebih kecil
-B. pagar karet lebih keras daripada beton
-C. bus terpantul dengan kecepatan lebih tinggi
-D. momentum bus bertambah setelah menabrak
 
 **(2) Pilihan Jawaban:**
 A. waktu kontak dengan pagar karet lebih lama sehingga gaya lebih kecil
@@ -1891,10 +1675,6 @@ D. momentum bus bertambah setelah menabrak
 
 **(1) Soal:**
 Sebuah mobil mainan bermassa 1 kg melaju 4 m/s lalu menabrak dinding. Sesaat SEBELUM tabrakan, momentum mobil mainan tersebut adalah...
-A. 1 kg·m/s
-B. 2 kg·m/s
-C. 4 kg·m/s
-D. 5 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 1 kg·m/s
@@ -1923,10 +1703,6 @@ D. 5 kg·m/s
 
 **(1) Soal:**
 Sebuah mobil direm pelan mulai dari jauh (menempuh jarak panjang) hingga berhenti. Dibanding rem mendadak pada kecepatan awal yang sama, mobil yang direm dari jauh akan berhenti...
-A. dengan gaya yang lebih besar
-B. dengan gaya yang lebih kecil karena waktu berhentinya lebih lama
-C. tanpa gaya sama sekali
-D. dengan momentum yang makin besar
 
 **(2) Pilihan Jawaban:**
 A. dengan gaya yang lebih besar
@@ -1955,10 +1731,6 @@ D. dengan momentum yang makin besar
 
 **(1) Soal:**
 Sebuah benda memiliki momentum 150 kg·m/s dan bergerak dengan kecepatan 3 m/s. Massa benda tersebut adalah...
-A. 50 kg
-B. 100 kg
-C. 150 kg
-D. 450 kg
 
 **(2) Pilihan Jawaban:**
 A. 50 kg
@@ -1987,10 +1759,6 @@ D. 450 kg
 
 **(1) Soal:**
 Sebuah benda bermassa 4 kg memiliki momentum 60 kg·m/s. Kecepatan benda tersebut adalah...
-A. 4 m/s
-B. 24 m/s
-C. 56 m/s
-D. 15 m/s
 
 **(2) Pilihan Jawaban:**
 A. 4 m/s
@@ -2019,10 +1787,6 @@ D. 15 m/s
 
 **(1) Soal:**
 Truk yang bermuatan penuh dan truk yang kosong melaju dengan kecepatan sama. Yang lebih sulit dihentikan di jalan lurus adalah...
-A. truk kosong, karena lebih ringan
-B. truk bermuatan penuh, karena massanya lebih besar sehingga momentumnya lebih besar
-C. keduanya sama mudah dihentikan
-D. tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. truk kosong, karena lebih ringan
@@ -2051,10 +1815,6 @@ D. tidak dapat dibandingkan
 
 **(1) Soal:**
 Sebuah bola mendapat gaya 10 N selama 2 sekon. Besar perubahan momentum bola tersebut adalah...
-A. 5 kg·m/s
-B. 10 kg·m/s
-C. 20 kg·m/s
-D. 12 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 5 kg·m/s
@@ -2081,10 +1841,6 @@ D. 12 kg·m/s
 
 **(1) Soal:**
 Bola besi dan bola plastik memiliki ukuran yang sama dan melaju dengan kecepatan yang sama. Bola yang momentumnya lebih besar adalah...
-A. bola besi karena massanya lebih besar
-B. bola plastik karena lebih ringan
-C. keduanya sama besar
-D. tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. bola besi karena massanya lebih besar
@@ -2113,10 +1869,6 @@ D. tidak dapat dibandingkan
 
 **(1) Soal:**
 Airbag pada mobil menggembung dan mengempis secara pelan. Kegunaannya adalah...
-A. memperbesar gaya yang diterima penumpang
-B. memperlama waktu berhenti penumpang sehingga gaya yang diterimanya lebih kecil
-C. menambah momentum penumpang
-D. membuat penumpang tidak terlihat dari luar
 
 **(2) Pilihan Jawaban:**
 A. memperbesar gaya yang diterima penumpang
@@ -2145,10 +1897,6 @@ D. membuat penumpang tidak terlihat dari luar
 
 **(1) Soal:**
 Bola biliar putih yang melaju menabrak bola lain yang diam di atas meja licin. Setelah tabrakan, peristiwa yang paling mungkin terjadi adalah...
-A. bola putih selalu berhenti total dan bola lain tetap diam
-B. bola lain tidak mungkin bergerak karena diam
-C. kecepatan bola putih berkurang karena sebagian momentumnya berpindah ke bola lain
-D. momentum total menjadi dua kali lipat
 
 **(2) Pilihan Jawaban:**
 A. bola putih selalu berhenti total dan bola lain tetap diam
@@ -2177,10 +1925,6 @@ D. momentum total menjadi dua kali lipat
 
 **(1) Soal:**
 Menahan bola yang datang kencang dengan kaki kaku hingga bola berhenti seketika terasa sangat sakit karena...
-A. gaya yang timbul besar akibat waktu berhenti yang sangat singkat
-B. momentum bola menjadi nol sama sekali
-C. massa bola menjadi lebih besar
-D. gaya yang timbul sangat kecil
 
 **(2) Pilihan Jawaban:**
 A. gaya yang timbul besar akibat waktu berhenti yang sangat singkat
@@ -2209,10 +1953,6 @@ D. gaya yang timbul sangat kecil
 
 **(1) Soal:**
 Kelereng yang sedang menggelinding menabrak kelereng lain yang diam di lantai licin. Peristiwa yang benar adalah...
-A. tidak ada kelereng yang bergerak setelah tabrakan
-B. kelereng kedua mendapat impuls dan ikut menggelinding, kelereng pertama melambat
-C. kedua kelereng tiba-tiba berhenti tanpa sebab
-D. kelereng kedua terlempar ke atas menjauhi lantai
 
 **(2) Pilihan Jawaban:**
 A. tidak ada kelereng yang bergerak setelah tabrakan
@@ -2247,10 +1987,6 @@ Perhatikan empat kasus benda yang sedang bergerak:
 - Kasus D: massa 4 kg, kecepatan 2 m/s
 
 Momentum yang paling besar dimiliki oleh...
-A. kasus A
-B. kasus B
-C. kasus C
-D. kasus D
 
 **(2) Pilihan Jawaban:**
 A. kasus A
@@ -2280,10 +2016,6 @@ D. kasus D
 
 **(1) Soal:**
 Kecepatan sebuah bola dibuat menjadi dua kali lipat sedangkan massanya tetap. Momentum bola tersebut akan menjadi...
-A. dua kali lipat dari semula
-B. setengah dari semula
-C. tetap seperti semula
-D. empat kali lipat dari semula
 
 **(2) Pilihan Jawaban:**
 A. dua kali lipat dari semula
@@ -2312,10 +2044,6 @@ D. empat kali lipat dari semula
 
 **(1) Soal:**
 Massa sebuah benda dibuat menjadi dua kali lipat sedangkan kecepatannya tetap. Momentum benda tersebut akan menjadi...
-A. setengah dari semula
-B. dua kali lipat dari semula
-C. tetap seperti semula
-D. empat kali lipat dari semula
 
 **(2) Pilihan Jawaban:**
 A. setengah dari semula
@@ -2344,10 +2072,6 @@ D. empat kali lipat dari semula
 
 **(1) Soal:**
 Sebuah truk meluncur di jalan menurun sehingga kecepatannya terus bertambah. Saat itu momentum truk akan...
-A. mengecil
-B. tetap
-C. bertambah karena kecepatannya bertambah
-D. menjadi nol
 
 **(2) Pilihan Jawaban:**
 A. mengecil
@@ -2376,10 +2100,6 @@ D. menjadi nol
 
 **(1) Soal:**
 Sebuah bola bermassa 2 kg dipercepat dari kecepatan 1 m/s menjadi 4 m/s. Perubahan momentum bola tersebut adalah...
-A. 6 kg·m/s
-B. 2 kg·m/s
-C. 8 kg·m/s
-D. 3 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 6 kg·m/s
@@ -2408,10 +2128,6 @@ D. 3 kg·m/s
 
 **(1) Soal:**
 Kelereng X yang cepat menabrak kelereng Y yang bergerak lebih pelan di depannya, keduanya ke arah yang sama. Setelah tabrakan, kelereng Y akan...
-A. langsung berhenti
-B. kecepatannya bertambah karena menerima dorongan searah geraknya
-C. berbalik arah menjauhi X
-D. kecepatannya tetap seperti semula
 
 **(2) Pilihan Jawaban:**
 A. langsung berhenti
@@ -2440,10 +2156,6 @@ D. kecepatannya tetap seperti semula
 
 **(1) Soal:**
 Bola kasti datang dengan kecepatan 6 m/s lalu ditangkap hingga berhenti. Besar impuls yang diberikan sama dengan...
-A. jarak yang ditempuh bola
-B. besar massa bola saja
-C. perubahan momentum bola, yaitu mengurangi momentumnya menjadi nol
-D. berat bola di tangan
 
 **(2) Pilihan Jawaban:**
 A. jarak yang ditempuh bola
@@ -2472,10 +2184,6 @@ D. berat bola di tangan
 
 **(1) Soal:**
 Dua telur identik dijatuhkan dari ketinggian sama. Telur pertama jatuh ke lantai keras dan pecah; telur kedua jatuh ke spons tebal dan selamat. Kesimpulan yang benar adalah...
-A. berat telur di kedua percobaan berbeda
-B. kecepatan jatuh kedua telur berbeda
-C. momentum kedua telur sesaat sebelum menyentuh berbeda
-D. yang berbeda hanyalah waktu berhenti setelah menyentuh, bukan momentum saat jatuh
 
 **(2) Pilihan Jawaban:**
 A. berat telur di kedua percobaan berbeda
@@ -2509,10 +2217,6 @@ Tiga benda bergerak dengan data berikut:
 - Benda R: massa 4 kg, kecepatan 2 m/s
 
 Urutan momentum dari yang terbesar adalah...
-A. R, kemudian Q dan P sama besar
-B. P, kemudian Q, kemudian R
-C. Q, kemudian R, kemudian P
-D. ketiganya sama besar
 
 **(2) Pilihan Jawaban:**
 A. R, kemudian Q dan P sama besar
@@ -2541,10 +2245,6 @@ D. ketiganya sama besar
 
 **(1) Soal:**
 Mobil melaju dengan kecepatan sama menabrak tembok (berhenti sangat cepat) dan menabrak tumpukan karung pasir (berhenti lebih pelan). Perubahan momentum mobil pada kedua kasus SAMA, tetapi yang terjadi adalah...
-A. impuls mobil pada tembok lebih besar
-B. gaya rata-rata pada karung pasir lebih kecil karena waktu berhentinya lebih lama
-C. momentum mobil bertambah setelah menabrak karung
-D. massa mobil berubah setelah menabrak
 
 **(2) Pilihan Jawaban:**
 A. impuls mobil pada tembok lebih besar
@@ -2575,10 +2275,6 @@ D. massa mobil berubah setelah menabrak
 Kasus I: sebuah benda menerima gaya 10 N selama 2 sekon.
 Kasus II: benda lain menerima gaya 20 N selama 1 sekon.
 Perubahan momentum pada kasus I dibandingkan kasus II adalah...
-A. kasus I lebih besar
-B. kasus II lebih besar
-C. sama besar
-D. tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. kasus I lebih besar
@@ -2608,10 +2304,6 @@ D. tidak dapat dibandingkan
 
 **(1) Soal:**
 Sebuah gerobak yang sedang melaju didorong dari depan hingga berhenti. Pernyataan yang benar adalah...
-A. perubahan momentum gerobak sebanding dengan impuls dorongan yang diberikan
-B. perubahan momentum gerobak selalu nol
-C. massa gerobak bertambah karena didorong
-D. dorongan tidak memengaruhi gerak gerobak
 
 **(2) Pilihan Jawaban:**
 A. perubahan momentum gerobak sebanding dengan impuls dorongan yang diberikan
@@ -2640,10 +2332,6 @@ D. dorongan tidak memengaruhi gerak gerobak
 
 **(1) Soal:**
 Pada tendangan A, kaki menyentuh bola dengan gaya 30 N selama 0,1 sekon. Pada tendangan B, gaya 10 N selama 0,4 sekon. Impuls yang lebih besar diberikan oleh...
-A. tendangan A, karena gayanya lebih besar
-B. tendangan B, karena hasil kali gaya × waktunya lebih besar
-C. keduanya sama besar
-D. tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. tendangan A, karena gayanya lebih besar
@@ -2673,10 +2361,6 @@ D. tidak dapat dibandingkan
 
 **(1) Soal:**
 Mobil yang sama melaju dengan kecepatan yang sama. Jika mobil HARUS berhenti karena menabrak, pilihan yang paling aman bagi penumpang adalah...
-A. menabrak tembok beton
-B. menabrak tiang listrik
-C. menabrak tumpukan kasur besar
-D. apa pun sama bahayanya
 
 **(2) Pilihan Jawaban:**
 A. menabrak tembok beton
@@ -2705,10 +2389,6 @@ D. apa pun sama bahayanya
 
 **(1) Soal:**
 Setelah mempelajari berbagai kasus mobil, sepeda, dan telur, cara paling tepat untuk memperkecil gaya saat sebuah benda harus berhenti adalah...
-A. memperlama waktu berhenti benda
-B. mempercepat waktu berhenti benda
-C. menambah massa benda
-D. menambah kecepatan benda
 
 **(2) Pilihan Jawaban:**
 A. memperlama waktu berhenti benda
@@ -2742,10 +2422,6 @@ Sebuah percobaan menghitung momentum tiga mobil mainan:
 - Mobil 3: massa 2 kg, kecepatan 4 m/s → momentum 8
 
 Kesimpulan yang paling tepat dari data tersebut adalah...
-A. pada kecepatan sama, massa lebih besar membuat momentum lebih besar; pada massa sama, kecepatan lebih besar membuat momentum lebih besar
-B. hanya massa yang menentukan besarnya momentum
-C. hanya kecepatan yang menentukan besarnya momentum
-D. momentum tidak berubah walaupun massa dan kecepatan berubah
 
 **(2) Pilihan Jawaban:**
 A. pada kecepatan sama, massa lebih besar membuat momentum lebih besar; pada massa sama, kecepatan lebih besar membuat momentum lebih besar
@@ -2775,10 +2451,6 @@ D. momentum tidak berubah walaupun massa dan kecepatan berubah
 
 **(1) Soal:**
 Frasa "sepak bola itu mengikuti momentumnya" dianggap tidak tepat dalam fisika karena...
-A. momentum dapat berhenti lalu mengejar bola
-B. momentum bukan makhluk yang punya kemauan; momentum hanyalah ukuran gerak benda
-C. momentum sama dengan berat bola
-D. momentum hanya ada pada roket
 
 **(2) Pilihan Jawaban:**
 A. momentum dapat berhenti lalu mengejar bola
@@ -2807,10 +2479,6 @@ D. momentum hanya ada pada roket
 
 **(1) Soal:**
 Dalam olahraga tinju, sebuah pukulan terasa lebih kuat jika tangan "masuk" mengikuti sasaran sehingga waktu kontak lebih lama. Hal ini sesuai dengan prinsip...
-A. momentum sama dengan massa kali jarak
-B. benda yang lebih berat pasti selalu menang
-C. pada gaya yang sama, impuls bertambah jika waktu kontak bertambah
-D. momentum selalu berkurang seiring waktu
 
 **(2) Pilihan Jawaban:**
 A. momentum sama dengan massa kali jarak
@@ -2839,10 +2507,6 @@ D. momentum selalu berkurang seiring waktu
 
 **(1) Soal:**
 Mobil mainan bermassa 1 kg melaju 10 m/s. Pada percobaan 1 mobil menabrak tembok dan berhenti dalam 0,1 sekon; pada percobaan 2 mobil menabrak karung pasir dan berhenti dalam 1 sekon. Gaya rata-rata yang dialami mobil pada percobaan...
-A. lebih besar pada karung pasir
-B. sama besar pada kedua percobaan
-C. lebih kecil pada tembok
-D. lebih kecil pada karung pasir karena waktu berhentinya 10 kali lebih lama
 
 **(2) Pilihan Jawaban:**
 A. lebih besar pada karung pasir
@@ -2871,10 +2535,6 @@ D. lebih kecil pada karung pasir karena waktu berhentinya 10 kali lebih lama
 
 **(1) Soal:**
 Truk yang sama melaju dengan kecepatan awal sama. Saat kosong mudah direm, tetapi saat bermuatan penuh lebih sulit. Urutan sebab-akibat yang benar adalah...
-A. muatan besar → massa besar → momentum besar → dibutuhkan gaya pengereman lebih besar atau waktu lebih lama untuk berhenti
-B. muatan besar → benda lebih ringan → momentum kecil → mudah berhenti
-C. muatan besar → kecepatan berkurang sendiri → rem tidak diperlukan
-D. muatan besar → semakin ringan → semakin susah direm
 
 **(2) Pilihan Jawaban:**
 A. muatan besar → massa besar → momentum besar → dibutuhkan gaya pengereman lebih besar atau waktu lebih lama untuk berhenti
@@ -2904,10 +2564,6 @@ D. muatan besar → semakin ringan → semakin susah direm
 
 **(1) Soal:**
 Mobil bermassa 1.000 kg melaju 20 m/s direm hingga berhenti dalam 4 sekon. Perubahan momentum mobil adalah 20.000 kg·m/s. Gaya pengereman rata-rata yang bekerja adalah...
-A. 20.000 N
-B. 5.000 N
-C. 1.000 N
-D. 4.000 N
 
 **(2) Pilihan Jawaban:**
 A. 20.000 N
@@ -2936,10 +2592,6 @@ D. 4.000 N
 
 **(1) Soal:**
 "Benda yang ringan tidak mungkin memiliki momentum yang besar." Pernyataan tersebut...
-A. benar, karena momentum pasti kecil jika benda ringan
-B. benar, karena hanya benda berat yang bergerak
-C. salah, karena benda ringan yang bergerak sangat cepat dapat memiliki momentum yang besar
-D. tidak dapat dinilai
 
 **(2) Pilihan Jawaban:**
 A. benar, karena momentum pasti kecil jika benda ringan
@@ -2973,10 +2625,6 @@ Tiga bola yang sama melaju dengan kecepatan sama menabrak dinding. Data waktu ko
 - Bola Y: 0,25 sekon
 
 Bola yang menerima gaya paling kecil adalah...
-A. bola W
-B. bola X
-C. bola W dan X sama-sama terkecil
-D. bola Y
 
 **(2) Pilihan Jawaban:**
 A. bola W
@@ -3006,10 +2654,6 @@ D. bola Y
 
 **(1) Soal:**
 Saat memukul bola, tali raket melengkung dahulu sehingga waktu kontak raket dan bola bertambah. Jika impuls yang diberikan sama, waktu kontak yang lebih lama membuat...
-A. gaya rata-rata pada bola lebih kecil sehingga pukulan terasa lebih halus dan raket lebih awet
-B. gaya rata-rata pada bola lebih besar
-C. impuls pada bola menjadi nol
-D. bola berhenti sebelum dipukul
 
 **(2) Pilihan Jawaban:**
 A. gaya rata-rata pada bola lebih kecil sehingga pukulan terasa lebih halus dan raket lebih awet
@@ -3043,10 +2687,6 @@ Perhatikan tiga benda yang sedang bergerak:
 - Benda 3: massa 2 kg, kecepatan 6 m/s
 
 Perbandingan momentum yang benar adalah...
-A. Benda 1 lebih besar dari Benda 2, dan Benda 2 lebih besar dari Benda 3
-B. Benda 1 dan Benda 2 sama besar, keduanya lebih besar dari Benda 3
-C. Benda 3 yang paling besar
-D. ketiganya sama besar
 
 **(2) Pilihan Jawaban:**
 A. Benda 1 lebih besar dari Benda 2, dan Benda 2 lebih besar dari Benda 3
@@ -3075,10 +2715,6 @@ D. ketiganya sama besar
 
 **(1) Soal:**
 Kelereng A digelindingkan menabrak kelereng B yang diam di lantai licin. Setelah tabrakan, B bergerak dan A melambat (bahkan bisa berhenti). Pernyataan yang paling tepat adalah...
-A. momentum A selalu berubah menjadi nol
-B. B bergerak tanpa menerima impuls apa pun
-C. sebagian (atau seluruh) momentum A berpindah ke B, dan totalnya tetap selama tidak ada gaya luar
-D. massa B bertambah setelah tabrakan
 
 **(2) Pilihan Jawaban:**
 A. momentum A selalu berubah menjadi nol
@@ -3108,10 +2744,6 @@ D. massa B bertambah setelah tabrakan
 
 **(1) Soal:**
 "Impuls dan perubahan momentum adalah dua hal yang berbeda dan tidak saling berhubungan." Pernyataan tersebut...
-A. benar, karena keduanya memang berbeda
-B. benar, karena momentum tidak dipengaruhi gaya
-C. salah, karena impuls tidak pernah berhubungan dengan gaya
-D. salah, karena impuls selalu sama besar dengan perubahan momentum
 
 **(2) Pilihan Jawaban:**
 A. benar, karena keduanya memang berbeda
@@ -3141,10 +2773,6 @@ D. salah, karena impuls selalu sama besar dengan perubahan momentum
 
 **(1) Soal:**
 Dua telur dijatuhkan dari ketinggian yang sama: telur P jatuh ke lantai semen (pecah), telur Q jatuh ke spons tebal (selamat). Berdasarkan informasi ini, kecepatan kedua telur saat menumbuk permukaan adalah...
-A. sama besar, tetapi spons memperlama waktu berhenti sehingga gaya yang diterima telur Q lebih kecil
-B. lebih besar pada telur Q
-C. lebih kecil pada telur P
-D. selalu berbeda karena lantai berbeda
 
 **(2) Pilihan Jawaban:**
 A. sama besar, tetapi spons memperlama waktu berhenti sehingga gaya yang diterima telur Q lebih kecil
@@ -3174,10 +2802,6 @@ D. selalu berbeda karena lantai berbeda
 
 **(1) Soal:**
 Kereta mainan bermassa 3 kg menarik gerobak beban 2 kg dan keduanya bergerak bersama dengan kecepatan 4 m/s. Momentum total kereta + gerobak adalah...
-A. 12 kg·m/s
-B. 20 kg·m/s
-C. 8 kg·m/s
-D. 24 kg·m/s
 
 **(2) Pilihan Jawaban:**
 A. 12 kg·m/s
@@ -3206,10 +2830,6 @@ D. 24 kg·m/s
 
 **(1) Soal:**
 Saat jalanan licin (hujan), gaya gesek akibat rem menjadi sangat kecil. Akibatnya jarak yang ditempuh kendaraan hingga berhenti akan...
-A. lebih pendek sehingga lebih aman
-B. sama saja seperti jalan kering
-C. lebih panjang karena gaya pengereman efektif lebih kecil
-D. selalu nol
 
 **(2) Pilihan Jawaban:**
 A. lebih pendek sehingga lebih aman
@@ -3239,10 +2859,6 @@ D. selalu nol
 
 **(1) Soal:**
 Truk besar yang melaju pelan pun tetap berbahaya bagi pengendara lain karena...
-A. momentumnya kecil sehingga mudah dihentikan
-B. mudah berhenti seketika
-C. tidak memiliki massa
-D. momentumnya besar sehingga membutuhkan waktu dan jarak yang panjang untuk berhenti
 
 **(2) Pilihan Jawaban:**
 A. momentumnya kecil sehingga mudah dihentikan
@@ -3276,10 +2892,6 @@ Hasil percobaan menggelindingkan kelereng:
 - Percobaan C: massa 20 g, kecepatan 2 m/s → momentum 40
 
 Pola yang benar dari data tersebut adalah...
-A. percobaan A memiliki momentum terkecil, sedangkan percobaan B dan C sama besar
-B. percobaan A dan B sama besar
-C. percobaan A paling besar
-D. ketiga percobaan sama besar
 
 **(2) Pilihan Jawaban:**
 A. percobaan A memiliki momentum terkecil, sedangkan percobaan B dan C sama besar
@@ -3308,10 +2920,6 @@ D. ketiga percobaan sama besar
 
 **(1) Soal:**
 "Momentum bisa lenyap begitu saja ketika sebuah benda berhenti." Pandangan yang paling tepat terhadap pernyataan itu adalah...
-A. benar, momentum menghilang tanpa sebab apa pun
-B. momentum berubah karena ada impuls (gaya × waktu); momentum tidak lenyap tanpa sebab
-C. benar, karena gaya tidak memengaruhi momentum
-D. momentum justru bertambah besar saat benda berhenti
 
 **(2) Pilihan Jawaban:**
 A. benar, momentum menghilang tanpa sebab apa pun
@@ -3341,10 +2949,6 @@ D. momentum justru bertambah besar saat benda berhenti
 
 **(1) Soal:**
 Mobil A melaju cepat (momentum besar) menabrak "mobil" mainan B yang sedang diam. Karena momentum A sangat besar, dorongan (impuls) yang diterima mobil mainan B akan...
-A. sangat kecil sehingga B tidak bergerak
-B. nol karena B diam
-C. besar sehingga B bergeser jauh atau terpental
-D. mengubah arah A menjauh tanpa efek pada B
 
 **(2) Pilihan Jawaban:**
 A. sangat kecil sehingga B tidak bergerak
@@ -3373,10 +2977,6 @@ D. mengubah arah A menjauh tanpa efek pada B
 
 **(1) Soal:**
 Setelah mempelajari momentum dan impuls, pernyataan yang PALING tepat adalah...
-A. momentum hanya penting untuk kendaraan yang besar
-B. momentum dan impuls tidak ada hubungannya dengan keselamatan
-C. gaya yang besar selalu aman selama waktunya singkat
-D. momentum mengukur sulitnya benda dihentikan, impuls mengubah momentum, dan memperlama waktu berhenti memperkecil gaya — itulah dasar keselamatan berkendara
 
 **(2) Pilihan Jawaban:**
 A. momentum hanya penting untuk kendaraan yang besar

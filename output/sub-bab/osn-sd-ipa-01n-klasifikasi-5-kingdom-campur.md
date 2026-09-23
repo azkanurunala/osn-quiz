@@ -132,10 +132,6 @@ Langkah 4: Bukan Animalia karena hewan tidak berklorofil.
 
 **(1) Soal:**
 Organisme yang selnya **tidak memiliki membran inti** (bahan inti tersebar bebas di sitoplasma) dikelompokkan ke dalam kingdom...
-A. Monera
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -164,10 +160,6 @@ D. Plantae
 
 **(1) Soal:**
 Bakteri, seperti *Escherichia coli*, digolongkan ke dalam kingdom Monera karena...
-A. Memiliki dinding sel dari selulosa
-B. Selnya tidak bermembran inti (prokariotik)
-C. Hidupnya di dalam tubuh makhluk hidup lain
-D. Tubuhnya tersusun atas banyak sel
 
 **(2) Pilihan Jawaban:**
 A. Memiliki dinding sel dari selulosa
@@ -196,10 +188,6 @@ D. Tubuhnya tersusun atas banyak sel
 
 **(1) Soal:**
 Berikut ini yang termasuk anggota kingdom Monera adalah...
-A. Amoeba dan Paramecium
-B. Bakteri dan sianobakteri (ganggang biru)
-C. Jamur dan kapang
-D. Lumut dan paku
 
 **(2) Pilihan Jawaban:**
 A. Amoeba dan Paramecium
@@ -228,10 +216,6 @@ D. Lumut dan paku
 
 **(1) Soal:**
 Sianobakteri kadang disebut "ganggang biru hijau". Meskipun namanya ganggang, sianobakteri **tidak** digolongkan ke dalam kingdom Protista karena...
-A. Tidak dapat membuat makanan sendiri
-B. Tubuhnya tidak berwarna hijau
-C. Selnya bersifat prokariotik (tanpa membran inti)
-D. Hidupnya hanya di air laut
 
 **(2) Pilihan Jawaban:**
 A. Tidak dapat membuat makanan sendiri
@@ -260,10 +244,6 @@ D. Hidupnya hanya di air laut
 
 **(1) Soal:**
 Semua anggota kingdom Monera memiliki sifat...
-A. Bersel satu (uniseluler)
-B. Bersel banyak (multiseluler)
-C. Membuat makanan sendiri (autotrof)
-D. Memakan makhluk hidup lain
 
 **(2) Pilihan Jawaban:**
 A. Bersel satu (uniseluler)
@@ -292,10 +272,6 @@ D. Memakan makhluk hidup lain
 
 **(1) Soal:**
 Berdasarkan pengelompokan makhluk hidup, kelompok organisme yang paling sederhana karena selnya tidak bermembran inti adalah...
-A. Protista
-B. Monera
-C. Fungi
-D. Animalia
 
 **(2) Pilihan Jawaban:**
 A. Protista
@@ -324,10 +300,6 @@ D. Animalia
 
 **(1) Soal:**
 Makhluk hidup bersel satu yang memiliki membran inti dan bergerak dengan kaki semu (pseudopodia) adalah...
-A. Bakteri
-B. Ragi
-C. Amoeba
-D. Virus
 
 **(2) Pilihan Jawaban:**
 A. Bakteri
@@ -356,10 +328,6 @@ D. Virus
 
 **(1) Soal:**
 Paramecium merupakan organisme bersel satu yang bergerak menggunakan...
-A. Kaki semu (pseudopodia)
-B. Bulu-bulu getar (silia)
-C. Bulu cambuk (flagela)
-D. Kakik seribu
 
 **(2) Pilihan Jawaban:**
 A. Kaki semu (pseudopodia)
@@ -388,10 +356,6 @@ D. Kakik seribu
 
 **(1) Soal:**
 Euglena bergerak menggunakan alat berupa...
-A. Silia (bulu getar)
-B. Kaki semu
-C. Flagela (bulu cambuk)
-D. Sirip ekor
 
 **(2) Pilihan Jawaban:**
 A. Silia (bulu getar)
@@ -419,10 +383,6 @@ D. Sirip ekor
 
 **(1) Soal:**
 *Plasmodium*, penyebab penyakit malaria, termasuk kelompok organisme...
-A. Protista (protozoa)
-B. Monera (bakteri)
-C. Fungi (jamur)
-D. Animalia (cacing)
 
 **(2) Pilihan Jawaban:**
 A. Protista (protozoa)
@@ -451,10 +411,6 @@ D. Animalia (cacing)
 
 **(1) Soal:**
 Protozoa adalah protista yang sifat hidupnya mirip...
-A. Tumbuhan (berfotosintesis)
-B. Jamur (menyerap)
-C. Hewan (dapat bergerak dan memangsa)
-D. Bakteri (prokariotik)
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan (berfotosintesis)
@@ -482,10 +438,6 @@ D. Bakteri (prokariotik)
 
 **(1) Soal:**
 Jamur tiram yang dijadikan bahan makanan termasuk kingdom...
-A. Monera
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -514,10 +466,6 @@ D. Plantae
 
 **(1) Soal:**
 Jamur tidak dapat membuat makanan sendiri sehingga digolongkan sebagai organisme...
-A. Autotrof
-B. Heterotrof
-C. Prokariotik
-D. Fotosintetik
 
 **(2) Pilihan Jawaban:**
 A. Autotrof
@@ -546,10 +494,6 @@ D. Fotosintetik
 
 **(1) Soal:**
 Ragi (*Saccharomyces*) yang digunakan untuk mengembangkan roti termasuk kingdom...
-A. Monera
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -577,10 +521,6 @@ D. Plantae
 
 **(1) Soal:**
 Kapang hitam pada roti basi umumnya berupa jamur berserabut dari genus...
-A. Saccharomyces
-B. Rhizopus
-C. Penicillium
-D. Volvariella
 
 **(2) Pilihan Jawaban:**
 A. Saccharomyces
@@ -608,10 +548,6 @@ D. Volvariella
 
 **(1) Soal:**
 Bila dilihat di mikroskop, bagian tubuh jamur yang berbentuk benang-benang halus disebut...
-A. Hifa
-B. Pseudopodia
-C. Flagela
-D. Vakuola
 
 **(2) Pilihan Jawaban:**
 A. Hifa
@@ -639,10 +575,6 @@ D. Vakuola
 
 **(1) Soal:**
 Dinding sel anggota kingdom Fungi tersusun dari...
-A. Selulosa
-B. Kitin
-C. Peptidoglikan
-D. Kalsium karbonat
 
 **(2) Pilihan Jawaban:**
 A. Selulosa
@@ -670,10 +602,6 @@ D. Kalsium karbonat
 
 **(1) Soal:**
 Dalam ekosistem, jamur bersama bakteri berperan sebagai...
-A. Produsen
-B. Konsumen
-C. Pengurai (dekomposer)
-D. Pemangsa puncak
 
 **(2) Pilihan Jawaban:**
 A. Produsen
@@ -702,10 +630,6 @@ D. Pemangsa puncak
 
 **(1) Soal:**
 Jamur yang digunakan dalam pembuatan tempe adalah...
-A. *Saccharomyces cerevisiae*
-B. *Rhizopus oligosporus*
-C. *Penicillium notatum*
-D. *Volvariella volvacea*
 
 **(2) Pilihan Jawaban:**
 A. *Saccharomyces cerevisiae*
@@ -733,10 +657,6 @@ D. *Volvariella volvacea*
 
 **(1) Soal:**
 Di antara organisme berikut, yang **bukan** termasuk kingdom Fungi adalah...
-A. Jamur merang
-B. Jamur kuping
-C. Ganggang hijau
-D. Jamur kancing
 
 **(2) Pilihan Jawaban:**
 A. Jamur merang
@@ -765,10 +685,6 @@ D. Jamur kancing
 
 **(1) Soal:**
 Kelompok organisme yang seluruh anggotanya prokariotik adalah...
-A. Monera
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -797,10 +713,6 @@ D. Plantae
 
 **(1) Soal:**
 Ciri yang **khusus** dimiliki anggota kingdom Plantae sehingga dapat dikelompokkan tersendiri adalah...
-A. Menyerap zat makanan dari lingkungan
-B. Memiliki klorofil dan dapat berfotosintesis
-C. Berganti-ganti bentuk tubuh
-D. Hidupnya di tempat air
 
 **(2) Pilihan Jawaban:**
 A. Menyerap zat makanan dari lingkungan
@@ -829,10 +741,6 @@ D. Hidupnya di tempat air
 
 **(1) Soal:**
 Lumut dan tumbuhan paku termasuk kingdom...
-A. Fungi
-B. Protista
-C. Monera
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Fungi
@@ -861,10 +769,6 @@ D. Plantae
 
 **(1) Soal:**
 Kelompok makhluk hidup yang seluruh anggotanya bersel banyak (multiseluler), tidak berklorofil, dan memperoleh makanan dengan memakan organisme lain adalah kingdom...
-A. Monera
-B. Protista
-C. Fungi
-D. Animalia
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -893,10 +797,6 @@ D. Animalia
 
 **(1) Soal:**
 Berikut ini yang termasuk anggota kingdom Animalia adalah...
-A. Padi, jagung, dan kelapa
-B. Ikan mas, katak, dan ayam
-C. Rhizopus, Penicillium, dan Saccharomyces
-D. Ganggang biru dan bakteri
 
 **(2) Pilihan Jawaban:**
 A. Padi, jagung, dan kelapa
@@ -924,10 +824,6 @@ D. Ganggang biru dan bakteri
 
 **(1) Soal:**
 Dinding sel tumbuhan tersusun dari bahan... 
-A. Kitin
-B. Peptidoglikan
-C. Selulosa
-D. Fosfolipid
 
 **(2) Pilihan Jawaban:**
 A. Kitin
@@ -955,10 +851,6 @@ D. Fosfolipid
 
 **(1) Soal:**
 Ilmu yang mempelajari pengelompokan (klasifikasi) makhluk hidup disebut...
-A. Ekologi
-B. Taksonomi
-C. Anatomi
-D. Genetika
 
 **(2) Pilihan Jawaban:**
 A. Ekologi
@@ -986,10 +878,6 @@ D. Genetika
 
 **(1) Soal:**
 Urutan takson dari yang terbesar ke yang terkecil adalah...
-A. Kingdom – Filum – Kelas – Ordo – Famili – Genus – Spesies
-B. Spesies – Genus – Famili – Ordo – Kelas – Filum – Kingdom
-C. Kingdom – Kelas – Filum – Ordo – Famili – Genus – Spesies
-D. Filum – Kingdom – Kelas – Ordo – Genus – Famili – Spesies
 
 **(2) Pilihan Jawaban:**
 A. Kingdom – Filum – Kelas – Ordo – Famili – Genus – Spesies
@@ -1018,10 +906,6 @@ D. Filum – Kingdom – Kelas – Ordo – Genus – Famili – Spesies
 
 **(1) Soal:**
 Sistem klasifikasi 5 kingdom (Monera, Protista, Fungi, Plantae, Animalia) dikemukakan oleh...
-A. Robert H. Whittaker
-B. Carolus Linnaeus
-C. Aristoteles
-D. Charles Darwin
 
 **(2) Pilihan Jawaban:**
 A. Robert H. Whittaker
@@ -1050,10 +934,6 @@ D. Charles Darwin
 
 **(1) Soal:**
 Sebelum sistem 5 kingdom, makhluk hidup hanya dikelompokkan menjadi dua kelompok, yaitu...
-A. Monera dan Protista
-B. Tumbuhan dan Hewan
-C. Vertebrata dan Invertebrata
-D. Prokariotik dan Eukariotik
 
 **(2) Pilihan Jawaban:**
 A. Monera dan Protista
@@ -1082,10 +962,6 @@ D. Prokariotik dan Eukariotik
 
 **(1) Soal:**
 Aturan penulisan nama ilmiah dengan dua kata (binomial nomenclature) diperkenalkan oleh...
-A. Robert Whittaker
-B. Carolus Linnaeus
-C. Gregor Mendel
-D. Antonie van Leeuwenhoek
 
 **(2) Pilihan Jawaban:**
 A. Robert Whittaker
@@ -1113,10 +989,6 @@ D. Antonie van Leeuwenhoek
 
 **(1) Soal:**
 Di antara organisme berikut, yang termasuk multiseluler adalah...
-A. Amoeba
-B. Bakteri E. coli
-C. Ayam
-D. Paramecium
 
 **(2) Pilihan Jawaban:**
 A. Amoeba
@@ -1145,10 +1017,6 @@ D. Paramecium
 
 **(1) Soal:**
 Kelompok organisme yang berperan sebagai **pengurai** dalam ekosistem adalah...
-A. Bakteri dan jamur
-B. Tumbuhan hijau
-C. Semua hewan herbivora
-D. Fitoplankton
 
 **(2) Pilihan Jawaban:**
 A. Bakteri dan jamur
@@ -1177,10 +1045,6 @@ D. Fitoplankton
 
 **(1) Soal:**
 Bakteri *Rhizobium* yang hidup di akar kacang-kacangan bermanfaat karena dapat...
-A. Mengikat nitrogen dari udara untuk menyuburkan tanah
-B. Membuat makanan sendiri dari air
-C. Membunuh hama di sekitar tanaman
-D. Mengubah sampah menjadi plastik
 
 **(2) Pilihan Jawaban:**
 A. Mengikat nitrogen dari udara untuk menyuburkan tanah
@@ -1209,10 +1073,6 @@ D. Mengubah sampah menjadi plastik
 
 **(1) Soal:**
 Bakteri *Lactobacillus* dimanfaatkan dalam pembuatan...
-A. Tape
-B. Yoghurt
-C. Tempe
-D. Roti
 
 **(2) Pilihan Jawaban:**
 A. Tape
@@ -1240,10 +1100,6 @@ D. Roti
 
 **(1) Soal:**
 Antibiotik penisilin pertama kali dihasilkan oleh jamur dari genus...
-A. Rhizopus
-B. Penicillium
-C. Saccharomyces
-D. Aspergillus
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus
@@ -1271,10 +1127,6 @@ D. Aspergillus
 
 **(1) Soal:**
 Ganggang hijau bersel satu seperti *Chlorella* termasuk kingdom...
-A. Monera
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -1303,10 +1155,6 @@ D. Plantae
 
 **(1) Soal:**
 Rumput laut (alga coklat, misal *Sargassum*) digolongkan ke dalam kingdom...
-A. Plantae
-B. Protista
-C. Monera
-D. Fungi
 
 **(2) Pilihan Jawaban:**
 A. Plantae
@@ -1335,10 +1183,6 @@ D. Fungi
 
 **(1) Soal:**
 Dalam ekosistem air, fitoplankton (terutama alga dan sianobakteri) berperan sebagai...
-A. Konsumen puncak
-B. Pengurai
-C. Produsen (penghasil makanan)
-D. Pemangsa
 
 **(2) Pilihan Jawaban:**
 A. Konsumen puncak
@@ -1366,10 +1210,6 @@ D. Pemangsa
 
 **(1) Soal:**
 Perbedaan paling mendasar antara Amoeba dan bakteri adalah...
-A. Amoeba lebih besar dari bakteri
-B. Amoeba punya membran inti, bakteri tidak
-C. Amoeba hidup di air, bakteri di darat
-D. Amoeba berklorofil, bakteri tidak
 
 **(2) Pilihan Jawaban:**
 A. Amoeba lebih besar dari bakteri
@@ -1398,10 +1238,6 @@ D. Amoeba berklorofil, bakteri tidak
 
 **(1) Soal:**
 Satu-satunya kingdom yang seluruh anggotanya memiliki sel eukariotik bermembran inti adalah...
-A. Monera
-B. Protista, Fungi, Plantae, dan Animalia
-C. Monera dan Protista
-D. Animalia saja
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -1430,10 +1266,6 @@ D. Animalia saja
 
 **(1) Soal:**
 Nama ilmiah kucing rumah adalah *Felis catus*. Nama yang menunjukkan **genus** adalah...
-A. Felis
-B. catus
-C. Felis catus
-D. Kucing
 
 **(2) Pilihan Jawaban:**
 A. Felis
@@ -1461,10 +1293,6 @@ D. Kucing
 
 **(1) Soal:**
 Manusia memiliki nama ilmiah *Homo sapiens*. Genus manusia adalah...
-A. sapiens
-B. Homo
-C. Manusia
-D. Primate
 
 **(2) Pilihan Jawaban:**
 A. sapiens
@@ -1492,10 +1320,6 @@ D. Primate
 
 **(1) Soal:**
 Tanaman kelapa, mangga, dan padi termasuk kingdom...
-A. Fungi
-B. Protista
-C. Plantae
-D. Animalia
 
 **(2) Pilihan Jawaban:**
 A. Fungi
@@ -1523,10 +1347,6 @@ D. Animalia
 
 **(1) Soal:**
 Sianobakteri yang hidup di sawah sering disebut juga...
-A. Ganggang biru hijau
-B. Ganggang coklat
-C. Jamur tanah
-D. Cacing sutra
 
 **(2) Pilihan Jawaban:**
 A. Ganggang biru hijau
@@ -1554,10 +1374,6 @@ D. Cacing sutra
 
 **(1) Soal:**
 Virus tidak dimasukkan ke dalam salah satu kingdom 5 kingdom karena...
-A. Virus berukuran sangat besar
-B. Virus bukan organisme yang memiliki sel
-C. Virus tidak menyebabkan penyakit
-D. Virus tidak memiliki DNA
 
 **(2) Pilihan Jawaban:**
 A. Virus berukuran sangat besar
@@ -1586,10 +1402,6 @@ D. Virus tidak memiliki DNA
 
 **(1) Soal:**
 Bercak berbulu putih-hitam yang tumbuh pada roti basi adalah...
-A. Ragi Saccharomyces
-B. Kapang Rhizopus
-C. Bakteri Lactobacillus
-D. Protozoa Amoeba
 
 **(2) Pilihan Jawaban:**
 A. Ragi Saccharomyces
@@ -1618,10 +1430,6 @@ D. Protozoa Amoeba
 
 **(1) Soal:**
 Jamur yang termasuk jamur bersel satu (uniseluler) adalah...
-A. Jamur merang
-B. Jamur kuping
-C. Ragi (Saccharomyces)
-D. Jamur tiram
 
 **(2) Pilihan Jawaban:**
 A. Jamur merang
@@ -1650,10 +1458,6 @@ D. Jamur tiram
 
 **(1) Soal:**
 Ciri tumbuhan yang **tidak** dimiliki jamur adalah...
-A. Klorofil
-B. Dinding sel
-C. Reproduksi seksual
-D. Berkembang di tanah
 
 **(2) Pilihan Jawaban:**
 A. Klorofil
@@ -1681,10 +1485,6 @@ D. Berkembang di tanah
 
 **(1) Soal:**
 Kingdom yang anggotanya paling banyak bergerak aktif dan memiliki sistem saraf adalah...
-A. Monera
-B. Protista
-C. Fungi
-D. Animalia
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -1712,10 +1512,6 @@ D. Animalia
 
 **(1) Soal:**
 Perbedaan utama sel prokariotik dan eukariotik adalah...
-A. Ukuran sel
-B. Ada tidaknya membran inti
-C. Warna sel
-D. Bentuk sel
 
 **(2) Pilihan Jawaban:**
 A. Ukuran sel
@@ -1743,10 +1539,6 @@ D. Bentuk sel
 
 **(1) Soal:**
 Dinding sel bakteri tersusun atas...
-A. Selulosa
-B. Kitin
-C. Peptidoglikan
-D. Lignin
 
 **(2) Pilihan Jawaban:**
 A. Selulosa
@@ -1774,10 +1566,6 @@ D. Lignin
 
 **(1) Soal:**
 Meskipun dapat berfotosintesis seperti tumbuhan, sianobakteri tetap dimasukkan kingdom Monera karena...
-A. Tidak memiliki klorofil
-B. Selnya bersifat prokariotik
-C. Hidupnya di air tawar
-D. Bersel banyak
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki klorofil
@@ -1806,10 +1594,6 @@ D. Bersel banyak
 
 **(1) Soal:**
 Fakta yang menunjukkan bahwa jamur **bukan** tumbuhan adalah...
-A. Jamur tidak berklorofil dan dinding selnya tersusun dari kitin
-B. Jamur tidak bisa bergerak
-C. Jamur hidup di tempat lembap
-D. Jamur berkembang biak secara generatif dan vegetatif
 
 **(2) Pilihan Jawaban:**
 A. Jamur tidak berklorofil dan dinding selnya tersusun dari kitin
@@ -1838,10 +1622,6 @@ D. Jamur berkembang biak secara generatif dan vegetatif
 
 **(1) Soal:**
 Sel ragi (Saccharomyces) bersifat eukariotik. Artinya...
-A. Tidak memiliki inti sel
-B. Memiliki inti sel yang dibatasi membran
-C. Berkembang biak dengan spora saja
-D. Tidak memiliki DNA
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki inti sel
@@ -1869,10 +1649,6 @@ D. Tidak memiliki DNA
 
 **(1) Soal:**
 Pada jamur multi-seluler, kumpulan hifa yang bercabang menyerupai jaring disebut...
-A. Kloroplas
-B. Miselium
-C. Sporangium
-D. Stolon
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas
@@ -1900,10 +1676,6 @@ D. Stolon
 
 **(1) Soal:**
 Hubungan saling menguntungkan antara jamur dan akar tumbuhan disebut...
-A. Parasitisme
-B. Mikoriza
-C. Komensalisme
-D. Predasi
 
 **(2) Pilihan Jawaban:**
 A. Parasitisme
@@ -1932,10 +1704,6 @@ D. Predasi
 
 **(1) Soal:**
 Lumut kerak (lichen) sebenarnya adalah hasil simbiosis antara...
-A. Jamur dan ganggang
-B. Bakteri dan jamur
-C. Tumbuhan dan hewan
-D. Dua jenis jamur
 
 **(2) Pilihan Jawaban:**
 A. Jamur dan ganggang
@@ -1963,10 +1731,6 @@ D. Dua jenis jamur
 
 **(1) Soal:**
 Euglena memiliki klorofil dan dapat berfotosintesis, tetapi digolongkan ke kingdom Protista, bukan Plantae. Alasannya yang tepat adalah...
-A. Euglena tidak dapat bergerak
-B. Euglena bersel satu dan tidak memiliki akar-batang-daun
-C. Euglena hidup di air tawar
-D. Euglena tidak memiliki DNA
 
 **(2) Pilihan Jawaban:**
 A. Euglena tidak dapat bergerak
@@ -1995,10 +1759,6 @@ D. Euglena tidak memiliki DNA
 
 **(1) Soal:**
 Ganggang (alga) meskipun banyak yang berwarna hijau dan hidup di air, dimasukkan ke dalam kingdom Protista karena...
-A. Tidak memiliki klorofil
-B. Tidak memiliki akar, batang, dan daun sejati
-C. Ukurannya sangat kecil
-D. Tidak dapat melakukan fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki klorofil
@@ -2027,10 +1787,6 @@ D. Tidak dapat melakukan fotosintesis
 
 **(1) Soal:**
 Struktur yang dimiliki sel hewan tetapi **tidak** dimiliki sel tumbuhan adalah...
-A. Dinding sel
-B. Vakuola besar
-C. Sentriol (alat pembelahan sel)
-D. Kloroplas
 
 **(2) Pilihan Jawaban:**
 A. Dinding sel
@@ -2059,10 +1815,6 @@ D. Kloroplas
 
 **(1) Soal:**
 Sel tumbuhan memiliki kloroplas dan dinding sel. Kedua organel itu berfungsi untuk...
-A. Menyimpan cadangan makanan
-B. Fotosintesis dan menahan bentuk sel yang kaku
-C. Mengatur pertukaran zat
-D. Menyimpan air dan mineral
 
 **(2) Pilihan Jawaban:**
 A. Menyimpan cadangan makanan
@@ -2090,10 +1842,6 @@ D. Menyimpan air dan mineral
 
 **(1) Soal:**
 Sel hewan tidak memiliki dinding sel, sedangkan sel tumbuhan memilikinya. Akibat perbedaan ini, hewan...
-A. Tidak dapat tumbuh besar
-B. Memiliki bentuk tubuh yang lentur dan mudah bergerak
-C. Selalu hidup di air
-D. Tidak memiliki inti sel
 
 **(2) Pilihan Jawaban:**
 A. Tidak dapat tumbuh besar
@@ -2122,10 +1870,6 @@ D. Tidak memiliki inti sel
 
 **(1) Soal:**
 Pada sel bakteri, materi genetik (DNA) terletak...
-A. Di dalam inti bermembran
-B. Langsung di sitoplasma (tidak dibungkus membran)
-C. Di dalam mitokondria
-D. Di dalam vakuola
 
 **(2) Pilihan Jawaban:**
 A. Di dalam inti bermembran
@@ -2154,10 +1898,6 @@ D. Di dalam vakuola
 
 **(1) Soal:**
 Antibiotik streptomisin diperoleh dari organisme yang termasuk kingdom...
-A. Monera (bakteri Streptomyces)
-B. Protista
-C. Fungi (jamur Penicillium)
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera (bakteri Streptomyces)
@@ -2186,10 +1926,6 @@ D. Plantae
 
 **(1) Soal:**
 Bakteri Escherichia coli di dalam usus besar manusia bermanfaat untuk...
-A. Menghasilkan klorofil
-B. Membantu pembusukan sisa makanan dan menghasilkan vitamin
-C. Mengikat nitrogen dari udara
-D. Mengubah susu menjadi yoghurt
 
 **(2) Pilihan Jawaban:**
 A. Menghasilkan klorofil
@@ -2217,10 +1953,6 @@ D. Mengubah susu menjadi yoghurt
 
 **(1) Soal:**
 Jika seluruh bakteri dan jamur pengurai di sebuah hutan mati, akibat yang paling mungkin terjadi adalah...
-A. Tanah menjadi sangat subur
-B. Sampah dan bangkai menumpuk tidak terurai
-C. Tumbuhan semakin subur
-D. Hewan herbivora bertambah cepat
 
 **(2) Pilihan Jawaban:**
 A. Tanah menjadi sangat subur
@@ -2249,10 +1981,6 @@ D. Hewan herbivora bertambah cepat
 
 **(1) Soal:**
 Organisme protista yang mampu berfotosintesis sehingga berperan sebagai produsen di perairan adalah...
-A. Amoeba
-B. Paramecium
-C. Ganggang bersel satu (fitoplankton)
-D. Trypanosoma
 
 **(2) Pilihan Jawaban:**
 A. Amoeba
@@ -2281,10 +2009,6 @@ D. Trypanosoma
 
 **(1) Soal:**
 Kelompok protista yang bersifat heterotrof dan sering disebut "hewan bersel satu" adalah...
-A. Alga
-B. Protozoa
-C. Sianobakteri
-D. Diatom
 
 **(2) Pilihan Jawaban:**
 A. Alga
@@ -2313,10 +2037,6 @@ D. Diatom
 
 **(1) Soal:**
 Trypanosoma brucei menyebabkan penyakit tidur dan termasuk kelompok...
-A. Bakteri (Monera)
-B. Protozoa (Protista)
-C. Jamur (Fungi)
-D. Cacing (Animalia)
 
 **(2) Pilihan Jawaban:**
 A. Bakteri (Monera)
@@ -2344,10 +2064,6 @@ D. Cacing (Animalia)
 
 **(1) Soal:**
 Zooplankton yang dimakan ikan-ikan kecil di laut termasuk kelompok...
-A. Tumbuhan
-B. Protozoa (protista mirip hewan)
-C. Jamur
-D. Bakteri
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan
@@ -2375,10 +2091,6 @@ D. Bakteri
 
 **(1) Soal:**
 Rantai makanan "fitoplankton → zooplankton → ikan kecil → ikan besar" dimulai dari produsen berupa...
-A. Zooplankton
-B. Fitoplankton
-C. Bakteri pengurai
-D. Ganggang biru
 
 **(2) Pilihan Jawaban:**
 A. Zooplankton
@@ -2406,10 +2118,6 @@ D. Ganggang biru
 
 **(1) Soal:**
 Dua makhluk hidup dikatakan memiliki kekerabatan paling dekat apabila mereka berada pada tingkat takson yang paling...
-A. Tinggi (kingdom yang sama)
-B. Rendah (makin dekat ke spesies)
-C. Sama dengan filum
-D. Bervariasi berdasarkan habitat
 
 **(2) Pilihan Jawaban:**
 A. Tinggi (kingdom yang sama)
@@ -2438,10 +2146,6 @@ D. Bervariasi berdasarkan habitat
 
 **(1) Soal:**
 Urutan takson dari kelompok yang paling umum ke paling khusus yang benar adalah...
-A. Spesies → Genus → Famili → Ordo → Kelas → Filum → Kingdom
-B. Kingdom → Filum → Kelas → Ordo → Famili → Genus → Spesies
-C. Kingdom → Genus → Famili → Filum → Kelas → Ordo → Spesies
-D. Famili → Ordo → Kelas → Filum → Kingdom → Genus → Spesies
 
 **(2) Pilihan Jawaban:**
 A. Spesies → Genus → Famili → Ordo → Kelas → Filum → Kingdom
@@ -2470,10 +2174,6 @@ D. Famili → Ordo → Kelas → Filum → Kingdom → Genus → Spesies
 
 **(1) Soal:**
 Spesies didefinisikan sebagai kelompok makhluk hidup yang...
-A. Mempunyai penampilan paling mirip
-B. Dapat saling kawin dan menghasilkan keturunan yang subur
-C. Hidup di tempat yang sama
-D. Memiliki nama ilmiah berbeda
 
 **(2) Pilihan Jawaban:**
 A. Mempunyai penampilan paling mirip
@@ -2501,10 +2201,6 @@ D. Memiliki nama ilmiah berbeda
 
 **(1) Soal:**
 Kucing rumahan (*Felis catus*) dan kucing hutan (*Prionailurus bengalensis*) tidak dapat disatukan dalam satu genus karena...
-A. Berbeda cara makan
-B. Berbeda habitat
-C. Berbeda ukuran tubuh
-D. Berbeda genus (Felis vs Prionailurus)
 
 **(2) Pilihan Jawaban:**
 A. Berbeda cara makan
@@ -2533,10 +2229,6 @@ D. Berbeda genus (Felis vs Prionailurus)
 
 **(1) Soal:**
 Kedudukan manusia *Homo sapiens* dalam genus...
-A. Sapiens
-B. Homo
-C. Hominidae
-D. Primates
 
 **(2) Pilihan Jawaban:**
 A. Sapiens
@@ -2564,10 +2256,6 @@ D. Primates
 
 **(1) Soal:**
 Kucing dan harimau berbeda genus. Pernyataan yang benar adalah...
-A. Keduanya sejenis (satu spesies)
-B. Kucing tidak dapat menghasilkan keturunan subur dengan harimau
-C. Kucing dan harimau selalu sama persis bentuknya
-D. Keduanya tidak dimasukkan dalam satu famili
 
 **(2) Pilihan Jawaban:**
 A. Keduanya sejenis (satu spesies)
@@ -2596,10 +2284,6 @@ D. Keduanya tidak dimasukkan dalam satu famili
 
 **(1) Soal:**
 Selain bakteri, organisme berikut yang juga prokariotik adalah...
-A. Amoeba
-B. Sianobakteri
-C. Ragi
-D. Euglena
 
 **(2) Pilihan Jawaban:**
 A. Amoeba
@@ -2627,10 +2311,6 @@ D. Euglena
 
 **(1) Soal:**
 Kelompok makhluk hidup yang seluruhnya **heterotrof** adalah...
-A. Plantae dan Fungi
-B. Fungi dan Animalia
-C. Monera dan Plantae
-D. Protista dan Plantae
 
 **(2) Pilihan Jawaban:**
 A. Plantae dan Fungi
@@ -2659,10 +2339,6 @@ D. Protista dan Plantae
 
 **(1) Soal:**
 Urutan takson lengkap kucing rumahan (dari level terendah ke tertinggi) yang benar adalah...
-A. Spesies catus – Genus Felis – Famili Felidae – Ordo Karnivora – Kelas Mamalia – Filum Chordata – Kingdom Animalia
-B. Kingdom Animalia – Filum Chordata – Famili Felidae – Genus Felis – Spesies catus
-C. Genus Felis – Spesies catus – Famili Felidae – Kelas Mamalia – Filum Chordata – Kingdom Animalia
-D. Spesies catus – Kelas Mamalia – Genus Felis – Ordo Karnivora – Famili Felidae
 
 **(2) Pilihan Jawaban:**
 A. Spesies catus – Genus Felis – Famili Felidae – Ordo Karnivora – Kelas Mamalia – Filum Chordata – Kingdom Animalia
@@ -2691,10 +2367,6 @@ D. Spesies catus – Kelas Mamalia – Genus Felis – Ordo Karnivora – Famili
 
 **(1) Soal:**
 Euglena sering disebut organisme unik karena memiliki klorofil (seperti tumbuhan) tetapi juga bergerak aktif (seperti hewan). Klasifikasi yang paling tepat untuk Euglena adalah...
-A. Tumbuhan karena berklorofil
-B. Hewan karena dapat bergerak
-C. Protista karena bukan tumbuhan maupun hewan sejati
-D. Monera karena bersel satu
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan karena berklorofil
@@ -2723,10 +2395,6 @@ D. Monera karena bersel satu
 
 **(1) Soal:**
 Bu Sari mengawetkan ikan dengan garam kental dan mengeringkannya. Cara ini menghambat pertumbuhan bakteri pembusuk karena...
-A. Garam membunuh semua bakteri dengan racunnya
-B. Lingkungan berkadar garam tinggi membuat sebagian besar bakteri tidak dapat hidup
-C. Garam membuat ikan berubah jadi makanan baru
-D. Bakteri membutuhkan zat gula untuk berkembang
 
 **(2) Pilihan Jawaban:**
 A. Garam membunuh semua bakteri dengan racunnya
@@ -2755,10 +2423,6 @@ D. Bakteri membutuhkan zat gula untuk berkembang
 
 **(1) Soal:**
 Pada pembuatan roti, ragi menghasilkan gas yang membuat adonan mengembang. Gas tersebut adalah...
-A. Oksigen
-B. Karbon dioksida
-C. Nitrogen
-D. Hidrogen sulfida
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -2787,10 +2451,6 @@ D. Hidrogen sulfida
 
 **(1) Soal:**
 Pada pembuatan tape singkong, ragi mengubah gula menjadi...
-A. Alkohol dan karbon dioksida
-B. Air dan oksigen
-C. Protein dan lemak
-D. Vitamin dan mineral
 
 **(2) Pilihan Jawaban:**
 A. Alkohol dan karbon dioksida
@@ -2819,10 +2479,6 @@ D. Vitamin dan mineral
 
 **(1) Soal:**
 Peran sianobakteri dalam sejarah bumi yang paling penting adalah...
-A. Menurunkan suhu Bumi secara drastis
-B. Menghasilkan oksigen bebas pertama di atmosfer melalui fotosintesis
-C. Membuat lapisan ozon menipis
-D. Menggantikan semua tumbuhan darat
 
 **(2) Pilihan Jawaban:**
 A. Menurunkan suhu Bumi secara drastis
@@ -2851,10 +2507,6 @@ D. Menggantikan semua tumbuhan darat
 
 **(1) Soal:**
 Penemuan penisilin oleh Alexander Fleming pada 1928 diawali dari...
-A. Percobaan penyilangan tanaman
-B. Kapang Penicillium yang menghambat pertumbuhan bakteri di cawan Petri
-C. Penelitian tentang sel tumbuhan
-D. Pengamatan gerak Amoeba
 
 **(2) Pilihan Jawaban:**
 A. Percobaan penyilangan tanaman
@@ -2883,10 +2535,6 @@ D. Pengamatan gerak Amoeba
 
 **(1) Soal:**
 Dalam rantai makanan "daun → ulat → burung → elang", jika populasi bakteri dan jamur pengurai hilang, dampak yang terjadi pada siklus zat hara adalah...
-A. Unsur hara semakin banyak di tanah
-B. Unsur hara tidak kembali ke tanah sehingga tumbuhan kekurangan nutrisi
-C. Produsen semakin subur
-D. Konsumen puncak tidak terpengaruh
 
 **(2) Pilihan Jawaban:**
 A. Unsur hara semakin banyak di tanah
@@ -2915,10 +2563,6 @@ D. Konsumen puncak tidak terpengaruh
 
 **(1) Soal:**
 Pasangan organisme – bahan dinding sel yang benar adalah...
-A. Bakteri – peptidoglikan; jamur – kitin; tumbuhan – selulosa
-B. Bakteri – selulosa; jamur – peptidoglikan; tumbuhan – kitin
-C. Semuanya tersusun dari selulosa
-D. Hewan – kitin; tumbuhan – peptidoglikan
 
 **(2) Pilihan Jawaban:**
 A. Bakteri – peptidoglikan; jamur – kitin; tumbuhan – selulosa
@@ -2946,10 +2590,6 @@ D. Hewan – kitin; tumbuhan – peptidoglikan
 
 **(1) Soal:**
 Lichen yang menempel di batang pohon sering disalahartikan sebagai lumut. Secara taksonomi, lichen adalah...
-A. Tumbuhan anggota Plantae
-B. Simbiosis antara jamur dan ganggang (bukan satu kingdom tunggal)
-C. Jenis jamur murni
-D. Ganggang yang berubah jadi jamur
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan anggota Plantae
@@ -2977,10 +2617,6 @@ D. Ganggang yang berubah jadi jamur
 
 **(1) Soal:**
 Seorang siswa mengamati tetesan air kolam. Ditemukan organisme: eukariotik, bersel satu, berklorofil, dan bergerak dengan flagela. Organisme tersebut paling mungkin...
-A. Bakteri fotosintetik
-B. Ragi
-C. Euglena
-D. Sel tumbuhan
 
 **(2) Pilihan Jawaban:**
 A. Bakteri fotosintetik
@@ -3009,10 +2645,6 @@ D. Sel tumbuhan
 
 **(1) Soal:**
 Jika seluruh jamur di sebuah lahan hutan mengalami kematian, perkiraan kondisi yang terjadi pada musim berikutnya adalah...
-A. Tumbuhan berbunga lebih cepat
-B. Sampah daun dan sisa hewan menumpuk tanpa terurai
-C. Populasi serangga meningkat drastis
-D. Tanah menjadi sangat lembap
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan berbunga lebih cepat
@@ -3041,10 +2673,6 @@ D. Tanah menjadi sangat lembap
 
 **(1) Soal:**
 Tomat dan kentang sama-sama memiliki nama ilmiah dengan nama genus *Solanum*. Pernyataan yang benar adalah...
-A. Tomat dan kentang satu genus, tetapi berbeda spesies
-B. Tomat dan kentang satu spesies
-C. Tomat dan kentang satu kingdom namun berbeda filum
-D. Tomat dan kentang tidak dapat dibedakan
 
 **(2) Pilihan Jawaban:**
 A. Tomat dan kentang satu genus, tetapi berbeda spesies
@@ -3073,10 +2701,6 @@ D. Tomat dan kentang tidak dapat dibedakan
 
 **(1) Soal:**
 Bakteri extremophile yang hidup di sumber air panas bersuhu tinggi dikelompokkan ke dalam...
-A. Monera (Archaebacteria)
-B. Protista
-C. Fungi
-D. Plantae
 
 **(2) Pilihan Jawaban:**
 A. Monera (Archaebacteria)
@@ -3105,10 +2729,6 @@ D. Plantae
 
 **(1) Soal:**
 Plasmodium masuk kingdom Protista karena memiliki ciri sebagai organisme...
-A. Prokariotik bersel satu
-B. Eukariotik, bersel satu, dan heterotrof parasit
-C. Multiseluler dan berklorofil
-D. Tidak memiliki inti sel
 
 **(2) Pilihan Jawaban:**
 A. Prokariotik bersel satu
@@ -3136,10 +2756,6 @@ D. Tidak memiliki inti sel
 
 **(1) Soal:**
 Dari kejadian berikut, yang melibatkan organisme kingdom Fungi adalah...
-A. Susu berubah menjadi yoghurt
-B. Roti mengembang saat dipanggang dengan ragi
-C. Tanah menjadi subur karena cacing
-D. Air kolam berubah hijau oleh Euglena
 
 **(2) Pilihan Jawaban:**
 A. Susu berubah menjadi yoghurt
@@ -3168,10 +2784,6 @@ D. Air kolam berubah hijau oleh Euglena
 
 **(1) Soal:**
 Dua sel diamati: Sel P memiliki kloroplas; Sel Q tidak memiliki kloroplas dan dinding selnya mengandung kitin. Kesimpulan yang benar adalah...
-A. Sel P = tumbuhan, Sel Q = jamur
-B. Sel P = jamur, Sel Q = tumbuhan
-C. Keduanya tumbuhan
-D. Keduanya hewan
 
 **(2) Pilihan Jawaban:**
 A. Sel P = tumbuhan, Sel Q = jamur
@@ -3200,10 +2812,6 @@ D. Keduanya hewan
 
 **(1) Soal:**
 Sianobakteri dan Euglena sama-sama berklorofil, tetapi digolongkan ke kingdom yang berbeda. Dasar perbedaannya adalah...
-A. Ukuran tubuh
-B. Struktur sel (sianobakteri prokariotik, Euglena eukariotik)
-C. Habitat hidup
-D. Warna tubuh
 
 **(2) Pilihan Jawaban:**
 A. Ukuran tubuh
@@ -3233,10 +2841,6 @@ D. Warna tubuh
 
 **(1) Soal:**
 Dua spesies dalam satu famili tetapi berbeda ordo adalah... (pernyataan yang benar)
-A. Tidak mungkin, karena famili lebih rendah dari ordo
-B. Mungkin terjadi, karena ordo adalah tingkat yang lebih kecil dari famili
-C. Tidak mungkin, karena keduanya pasti satu kelas
-D. Mungkin, karena famili lebih besar dari kingdom
 
 **(2) Pilihan Jawaban:**
 A. Tidak mungkin, karena famili lebih rendah dari ordo
@@ -3265,10 +2869,6 @@ D. Mungkin, karena famili lebih besar dari kingdom
 
 **(1) Soal:**
 Berdasarkan struktur sel dan cara memperoleh makanan, kesimpulan yang paling tepat adalah...
-A. Prokariotik menjadi dasar masuk kingdom Fungi
-B. Jamur bukan tumbuhan karena heterotrof dan berdinding sel kitin; bakteri bukan hewan meskipun bersel kecil karena prokariotik
-C. Bakteri termasuk hewan karena bergerak dan tidak hijau
-D. Ganggang termasuk tumbuhan karena hijau dan hidup di air
 
 **(2) Pilihan Jawaban:**
 A. Prokariotik menjadi dasar masuk kingdom Fungi

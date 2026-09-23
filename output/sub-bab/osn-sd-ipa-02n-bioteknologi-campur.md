@@ -151,10 +151,6 @@ Langkah 3: Jawaban = B. Modern.
 
 **(1) Soal:**
 Bioteknologi adalah pemanfaatan makhluk hidup (seperti bakteri dan jamur) atau bagian-bagiannya untuk...
-A. Membuat produk atau jasa yang berguna bagi manusia
-B. Membunuh semua mikroorganisme
-C. Menghentikan semua proses alam
-D. Menghilangkan bahan makanan
 
 **(2) Pilihan Jawaban:**
 A. Membuat produk atau jasa yang berguna bagi manusia
@@ -183,10 +179,6 @@ D. Menghilangkan bahan makanan
 
 **(1) Soal:**
 Pembuatan tempe dan tape menggunakan mikroorganisme secara langsung tanpa mengubah gen. Cara ini disebut bioteknologi...
-A. Modern
-B. Konvensional (tradisional)
-C. Nuklir
-D. Angkasa
 
 **(2) Pilihan Jawaban:**
 A. Modern
@@ -215,10 +207,6 @@ D. Angkasa
 
 **(1) Soal:**
 Fermentasi adalah proses...
-A. Pertumbuhan tumbuhan karena cahaya
-B. Pembekuan makanan di dalam kulkas
-C. Pengubahan bahan makanan oleh mikroorganisme yang umumnya berlangsung tanpa udara
-D. Pemanasan makanan hingga sangat panas
 
 **(2) Pilihan Jawaban:**
 A. Pertumbuhan tumbuhan karena cahaya
@@ -247,10 +235,6 @@ D. Pemanasan makanan hingga sangat panas
 
 **(1) Soal:**
 Mikroorganisme yang berperan dalam pembuatan tempe adalah jamur...
-A. Lactobacillus bulgaricus
-B. Rhizopus oryzae
-C. Saccharomyces cerevisiae
-D. Acetobacter xylinum
 
 **(2) Pilihan Jawaban:**
 A. Lactobacillus bulgaricus
@@ -279,10 +263,6 @@ D. Acetobacter xylinum
 
 **(1) Soal:**
 Bahan utama pembuatan tempe adalah...
-A. Kedelai
-B. Susu
-C. Singkong
-D. Air kelapa
 
 **(2) Pilihan Jawaban:**
 A. Kedelai
@@ -311,10 +291,6 @@ D. Air kelapa
 
 **(1) Soal:**
 Untuk membuat tape digunakan ragi yang termasuk kelompok jamur, yaitu...
-A. Rhizopus oryzae
-B. Neurospora crassa
-C. Saccharomyces cerevisiae
-D. Acetobacter xylinum
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus oryzae
@@ -343,10 +319,6 @@ D. Acetobacter xylinum
 
 **(1) Soal:**
 Pada pembuatan roti, adonan mengembang karena ragi menghasilkan gas...
-A. Oksigen
-B. Karbon dioksida
-C. Nitrogen
-D. Hidrogen
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -375,10 +347,6 @@ D. Hidrogen
 
 **(1) Soal:**
 Yoghurt dibuat dengan bantuan bakteri asam laktat, contohnya...
-A. Lactobacillus bulgaricus
-B. Rhizopus oryzae
-C. Neurospora crassa
-D. Saccharomyces cerevisiae
 
 **(2) Pilihan Jawaban:**
 A. Lactobacillus bulgaricus
@@ -407,10 +375,6 @@ D. Saccharomyces cerevisiae
 
 **(1) Soal:**
 Keju dibuat melalui fermentasi bahan dasar...
-A. Kedelai
-B. Air kelapa
-C. Singkong
-D. Susu
 
 **(2) Pilihan Jawaban:**
 A. Kedelai
@@ -439,10 +403,6 @@ D. Susu
 
 **(1) Soal:**
 Asinan dan acar dibuat dengan bantuan bakteri asam laktat. Rasa khas hasil fermentasi tersebut adalah...
-A. Manis
-B. Asam
-C. Pedas
-D. Pahit
 
 **(2) Pilihan Jawaban:**
 A. Manis
@@ -471,10 +431,6 @@ D. Pahit
 
 **(1) Soal:**
 Kecap dibuat dari kedelai dengan bantuan jamur...
-A. Aspergillus
-B. Saccharomyces
-C. Penicillium
-D. Rhizopus
 
 **(2) Pilihan Jawaban:**
 A. Aspergillus
@@ -503,10 +459,6 @@ D. Rhizopus
 
 **(1) Soal:**
 Oncom dibuat dengan bantuan jamur...
-A. Rhizopus
-B. Saccharomyces
-C. Neurospora
-D. Acetobacter
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus
@@ -535,10 +487,6 @@ D. Acetobacter
 
 **(1) Soal:**
 Nata de coco dibuat melalui fermentasi air kelapa oleh bakteri...
-A. Rhizopus oryzae
-B. Acetobacter xylinum
-C. Lactobacillus bulgaricus
-D. Neurospora crassa
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus oryzae
@@ -567,10 +515,6 @@ D. Neurospora crassa
 
 **(1) Soal:**
 Biogas adalah gas yang dihasilkan dari penguraian kotoran ternak dan limbah organik oleh bakteri tanpa udara. Gas utama biogas yang dapat dibakar adalah...
-A. Metana
-B. Oksigen
-C. Karbon dioksida
-D. Helium
 
 **(2) Pilihan Jawaban:**
 A. Metana
@@ -599,10 +543,6 @@ D. Helium
 
 **(1) Soal:**
 Agar fermentasi tape berhasil, wadah penyimpanannya sebaiknya...
-A. Terbuka lebar agar terkena angin
-B. Kedap udara (tertutup rapat)
-C. Dipanaskan terus di atas api
-D. Direndam dalam air
 
 **(2) Pilihan Jawaban:**
 A. Terbuka lebar agar terkena angin
@@ -631,10 +571,6 @@ D. Direndam dalam air
 
 **(1) Soal:**
 Ragi yang dipakai membuat tape dan roti termasuk kelompok makhluk hidup...
-A. Bakteri
-B. Virus
-C. Jamur
-D. Lumut
 
 **(2) Pilihan Jawaban:**
 A. Bakteri
@@ -663,10 +599,6 @@ D. Lumut
 
 **(1) Soal:**
 Jamur tempe tampak seperti benang halus putih yang menyelimuti kedelai. Benang halus itu disebut...
-A. Insang
-B. Akar serabut
-C. Kaki
-D. Hifa
 
 **(2) Pilihan Jawaban:**
 A. Insang
@@ -695,10 +627,6 @@ D. Hifa
 
 **(1) Soal:**
 Kelompok makhluk hidup yang paling banyak berperan dalam fermentasi makanan adalah...
-A. Serangga dan ikan
-B. Bakteri dan jamur
-C. Virus dan ganggang
-D. Cacing dan siput
 
 **(2) Pilihan Jawaban:**
 A. Serangga dan ikan
@@ -727,10 +655,6 @@ D. Cacing dan siput
 
 **(1) Soal:**
 Cara mengubah sifat makhluk hidup dengan menyisipkan atau mengubah gen (DNA) disebut...
-A. Rekayasa genetika
-B. Fotosintesis
-C. Fermentasi
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Rekayasa genetika
@@ -759,10 +683,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Insulin untuk penderita diabetes kini banyak dibuat dengan memanfaatkan...
-A. Bakteri yang disisipi gen penghasil insulin
-B. Singkong yang difermentasi
-C. Jamur tempe secara langsung
-D. Air kelapa yang didiamkan
 
 **(2) Pilihan Jawaban:**
 A. Bakteri yang disisipi gen penghasil insulin
@@ -791,10 +711,6 @@ D. Air kelapa yang didiamkan
 
 **(1) Soal:**
 Vaksin diberikan kepada seseorang agar tubuhnya...
-A. Langsung sembuh dari semua penyakit
-B. Menjadi panas dan berkeringat
-C. Kebal terhadap penyakit tertentu
-D. Bertambah tinggi badan
 
 **(2) Pilihan Jawaban:**
 A. Langsung sembuh dari semua penyakit
@@ -823,10 +739,6 @@ D. Bertambah tinggi badan
 
 **(1) Soal:**
 Menumbuhkan potongan kecil jaringan tanaman di dalam media buatan agar menjadi banyak tanaman baru disebut...
-A. Kultur jaringan
-B. Fermentasi
-C. Kloning hewan
-D. Pengawetan makanan
 
 **(2) Pilihan Jawaban:**
 A. Kultur jaringan
@@ -855,10 +767,6 @@ D. Pengawetan makanan
 
 **(1) Soal:**
 Tanaman yang disisipi gen makhluk hidup lain agar memiliki sifat unggul disebut tanaman...
-A. Hidroponik
-B. Transgenik
-C. Liar
-D. Hias
 
 **(2) Pilihan Jawaban:**
 A. Hidroponik
@@ -887,10 +795,6 @@ D. Hias
 
 **(1) Soal:**
 Menghasilkan hewan baru yang hampir sama persis dengan induknya dari sebuah sel tubuh disebut...
-A. Kloning
-B. Fermentasi
-C. Penangkaran
-D. Transplantasi
 
 **(2) Pilihan Jawaban:**
 A. Kloning
@@ -919,10 +823,6 @@ D. Transplantasi
 
 **(1) Soal:**
 Pada pembuatan yoghurt, susu yang difermentasi akan berubah menjadi...
-A. Lebih cair dan tawar
-B. Kental dan asam
-C. Keras dan manis
-D. Berwarna hijau
 
 **(2) Pilihan Jawaban:**
 A. Lebih cair dan tawar
@@ -951,10 +851,6 @@ D. Berwarna hijau
 
 **(1) Soal:**
 Rasa manis pada tape berasal dari perubahan...
-A. Pati menjadi gula
-B. Gula menjadi lemak
-C. Air menjadi uap
-D. Serat menjadi minyak
 
 **(2) Pilihan Jawaban:**
 A. Pati menjadi gula
@@ -983,10 +879,6 @@ D. Serat menjadi minyak
 
 **(1) Soal:**
 Asinan dan acar tidak cepat busuk karena hasil fermentasi berupa asam dapat...
-A. Menambah banyak air
-B. Membuat makanan lebih manis
-C. Menghambat mikroba pembusuk
-D. Menarik serangga
 
 **(2) Pilihan Jawaban:**
 A. Menambah banyak air
@@ -1015,10 +907,6 @@ D. Menarik serangga
 
 **(1) Soal:**
 Pada pembuatan tape, gula pasir sering ditaburkan agar menjadi...
-A. Pemanis hasil fermentasi
-B. Makanan (sumber energi) bagi ragi
-C. Pengawet kimia
-D. Penyerap air
 
 **(2) Pilihan Jawaban:**
 A. Pemanis hasil fermentasi
@@ -1047,10 +935,6 @@ D. Penyerap air
 
 **(1) Soal:**
 Berikut ini yang merupakan hasil bioteknologi konvensional adalah...
-A. Tempe
-B. Insulin dari bakteri
-C. Kloning domba
-D. Tanaman transgenik
 
 **(2) Pilihan Jawaban:**
 A. Tempe
@@ -1079,10 +963,6 @@ D. Tanaman transgenik
 
 **(1) Soal:**
 Berikut ini yang merupakan hasil bioteknologi modern adalah...
-A. Tempe
-B. Insulin yang dibuat oleh bakteri
-C. Tape
-D. Asinan
 
 **(2) Pilihan Jawaban:**
 A. Tempe
@@ -1111,10 +991,6 @@ D. Asinan
 
 **(1) Soal:**
 Gelembung-gelembung gas yang dihasilkan ragi membuat adonan roti...
-A. Mengembang dan berongga
-B. Menyusut dan keras
-C. Berubah hitam
-D. Lengket di panci
 
 **(2) Pilihan Jawaban:**
 A. Mengembang dan berongga
@@ -1143,10 +1019,6 @@ D. Lengket di panci
 
 **(1) Soal:**
 Kotoran hewan ternak yang diolah menjadi biogas bermanfaat sebagai...
-A. Pupuk yang langsung ditabur
-B. Obat ternak
-C. Sumber energi (bahan bakar) untuk memasak
-D. Bahan bangunan rumah
 
 **(2) Pilihan Jawaban:**
 A. Pupuk yang langsung ditabur
@@ -1175,10 +1047,6 @@ D. Bahan bangunan rumah
 
 **(1) Soal:**
 Pembersihan lingkungan yang tercemar dengan memanfaatkan mikroorganisme disebut...
-A. Bioremediasi
-B. Biopori
-C. Reboisasi
-D. Daur ulang plastik
 
 **(2) Pilihan Jawaban:**
 A. Bioremediasi
@@ -1207,10 +1075,6 @@ D. Daur ulang plastik
 
 **(1) Soal:**
 Bakteri dan jamur yang menguraikan sampah organik menjadi zat sederhana berperan sebagai...
-A. Produsen
-B. Konsumen puncak
-C. Herbivora
-D. Pengurai (dekomposer)
 
 **(2) Pilihan Jawaban:**
 A. Produsen
@@ -1239,10 +1103,6 @@ D. Pengurai (dekomposer)
 
 **(1) Soal:**
 Obat yang mampu membunuh atau menghambat bakteri penyebab penyakit disebut...
-A. Antibiotik
-B. Vaksin
-C. Vitamin
-D. Analgesik
 
 **(2) Pilihan Jawaban:**
 A. Antibiotik
@@ -1271,10 +1131,6 @@ D. Analgesik
 
 **(1) Soal:**
 Antibiotik penisilin dihasilkan oleh jamur...
-A. Rhizopus
-B. Penicillium
-C. Saccharomyces
-D. Neurospora
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus
@@ -1303,10 +1159,6 @@ D. Neurospora
 
 **(1) Soal:**
 Saat membuat tape ketan, ketan yang sudah diberi ragi harus...
-A. Dibiarkan terkena angin kencang
-B. Direbus di atas api tinggi
-C. Dibungkus rapat atau ditutup agar tidak banyak terkena udara
-D. Dijemur di bawah terik matahari
 
 **(2) Pilihan Jawaban:**
 A. Dibiarkan terkena angin kencang
@@ -1335,10 +1187,6 @@ D. Dijemur di bawah terik matahari
 
 **(1) Soal:**
 Yoghurt dibuat dari fermentasi...
-A. Susu
-B. Kedelai
-C. Singkong
-D. Air kelapa
 
 **(2) Pilihan Jawaban:**
 A. Susu
@@ -1367,10 +1215,6 @@ D. Air kelapa
 
 **(1) Soal:**
 Bahan utama pembuatan kecap adalah...
-A. Singkong
-B. Kedelai
-C. Gandum
-D. Kelapa
 
 **(2) Pilihan Jawaban:**
 A. Singkong
@@ -1399,10 +1243,6 @@ D. Kelapa
 
 **(1) Soal:**
 Nata de coco dibuat dari hasil fermentasi...
-A. Air kelapa
-B. Susu
-C. Sari buah pisang
-D. Air tebu
 
 **(2) Pilihan Jawaban:**
 A. Air kelapa
@@ -1431,10 +1271,6 @@ D. Air tebu
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang bioteknologi konvensional adalah...
-A. Selalu memakai alat-alat yang sangat canggih
-B. Hanya bisa dilakukan ilmuwan luar negeri
-C. Menggunakan mikroorganisme secara langsung tanpa mengubah DNA
-D. Tidak memerlukan mikroorganisme sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Selalu memakai alat-alat yang sangat canggih
@@ -1463,10 +1299,6 @@ D. Tidak memerlukan mikroorganisme sama sekali
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang bioteknologi modern adalah...
-A. Hanya untuk membuat makanan tradisional
-B. Menggunakan rekayasa genetika atau manipulasi DNA
-C. Tidak memerlukan makhluk hidup
-D. Pasti selalu berbahaya
 
 **(2) Pilihan Jawaban:**
 A. Hanya untuk membuat makanan tradisional
@@ -1495,10 +1327,6 @@ D. Pasti selalu berbahaya
 
 **(1) Soal:**
 Produk bioteknologi berikut yang berfungsi mencegah penyakit menular (bukan mengobati) adalah...
-A. Vaksin
-B. Obat nyamuk
-C. Yoghurt
-D. Tempe
 
 **(2) Pilihan Jawaban:**
 A. Vaksin
@@ -1527,10 +1355,6 @@ D. Tempe
 
 **(1) Soal:**
 Tempe lebih mudah dicerna dan bergizi dibanding kedelai mentah karena selama fermentasi...
-A. Kedelai ditambah banyak garam
-B. Jamur menguraikan kedelai menjadi zat yang lebih sederhana
-C. Kedelai menyerap air laut
-D. Gula dalam kedelai menguap semua
 
 **(2) Pilihan Jawaban:**
 A. Kedelai ditambah banyak garam
@@ -1559,10 +1383,6 @@ D. Gula dalam kedelai menguap semua
 
 **(1) Soal:**
 Oncom umumnya dibuat dari bahan dasar...
-A. Ampas kedelai (bungkil) atau ampas tahu
-B. Susu segar
-C. Air kelapa
-D. Buah mangga
 
 **(2) Pilihan Jawaban:**
 A. Ampas kedelai (bungkil) atau ampas tahu
@@ -1591,10 +1411,6 @@ D. Buah mangga
 
 **(1) Soal:**
 Pengubahan kotoran ternak menjadi biogas terjadi karena aktivitas bakteri pengurai yang bekerja pada kondisi...
-A. Terang benderang
-B. Tanpa udara (anaerob)
-C. Penuh oksigen
-D. Sangat kering tanpa air
 
 **(2) Pilihan Jawaban:**
 A. Terang benderang
@@ -1623,10 +1439,6 @@ D. Sangat kering tanpa air
 
 **(1) Soal:**
 Di bawah ini yang termasuk dampak negatif/risiko bioteknologi modern yang perlu diawasi adalah...
-A. Gen dari tanaman transgenik dapat menyebar ke tanaman lain
-B. Semua makanan menjadi lebih murah
-C. Petani tidak perlu menanam lagi
-D. Penyakit pasti hilang dari dunia
 
 **(2) Pilihan Jawaban:**
 A. Gen dari tanaman transgenik dapat menyebar ke tanaman lain
@@ -1655,10 +1467,6 @@ D. Penyakit pasti hilang dari dunia
 
 **(1) Soal:**
 Bakteri yang membantu pembuatan yoghurt dan keju termasuk kelompok bakteri...
-A. Escherichia coli
-B. Metanogen
-C. Bakteri asam laktat
-D. Salmonella
 
 **(2) Pilihan Jawaban:**
 A. Escherichia coli
@@ -1687,10 +1495,6 @@ D. Salmonella
 
 **(1) Soal:**
 Tape dan yoghurt biasanya difermentasi di tempat yang...
-A. Hangat
-B. Sangat dingin
-C. Terkena hujan
-D. Berangin kencang
 
 **(2) Pilihan Jawaban:**
 A. Hangat
@@ -1719,10 +1523,6 @@ D. Berangin kencang
 
 **(1) Soal:**
 Pasangan produk dan mikroorganisme berikut yang benar adalah...
-A. Tempe — Saccharomyces cerevisiae
-B. Yoghurt — Rhizopus oryzae
-C. Nata de coco — Acetobacter xylinum
-D. Tape — Aspergillus oryzae
 
 **(2) Pilihan Jawaban:**
 A. Tempe — Saccharomyces cerevisiae
@@ -1751,10 +1551,6 @@ D. Tape — Aspergillus oryzae
 
 **(1) Soal:**
 Adonan roti yang sudah diberi ragi dibiarkan tertutup beberapa saat lalu dipanggang. Tanda paling jelas bahwa ragi menghasilkan gas CO₂ adalah...
-A. Adonan mengembang dan di dalam roti terdapat lubang-lubang kecil
-B. Roti menjadi berwarna hitam
-C. Adonan mengerut dan mengeras
-D. Roti terasa asin
 
 **(2) Pilihan Jawaban:**
 A. Adonan mengembang dan di dalam roti terdapat lubang-lubang kecil
@@ -1783,10 +1579,6 @@ D. Roti terasa asin
 
 **(1) Soal:**
 Tempe dikatakan gagal jika kedelainya berlendir, berbau busuk, dan tidak diselimuti jamur putih. Penyebab kegagalan tempe yang paling mungkin adalah...
-A. Kedelai dimasak terlalu matang
-B. Jamur tempe tidak tumbuh sempurna sehingga mikroba pembusuk mengambil alih karena kebersihan atau kondisi kurang baik
-C. Ragi tape tertelan oleh kedelai
-D. Kedelai terlalu manis
 
 **(2) Pilihan Jawaban:**
 A. Kedelai dimasak terlalu matang
@@ -1815,10 +1607,6 @@ D. Kedelai terlalu manis
 
 **(1) Soal:**
 Tape singkong yang dibiarkan terlalu lama (lebih dari satu minggu) akan...
-A. Bertambah asam dan berair, rasanya hampir seperti cuka
-B. Semakin manis dan tidak pernah berubah
-C. Berubah menjadi roti
-D. Kembali keras seperti singkong mentah
 
 **(2) Pilihan Jawaban:**
 A. Bertambah asam dan berair, rasanya hampir seperti cuka
@@ -1847,10 +1635,6 @@ D. Kembali keras seperti singkong mentah
 
 **(1) Soal:**
 Sebelum diberi bakteri yoghurt, susu biasanya dipanaskan (dipasteurisasi). Tujuan pemanasan itu adalah...
-A. Membuat susu terasa manis
-B. Membunuh bakteri lain yang tidak diinginkan
-C. Mengubah susu menjadi keju
-D. Menambah warna susu
 
 **(2) Pilihan Jawaban:**
 A. Membuat susu terasa manis
@@ -1879,10 +1663,6 @@ D. Menambah warna susu
 
 **(1) Soal:**
 Tape ketan selalu ditutup rapat selama fermentasi karena ragi bekerja lebih baik pada keadaan...
-A. Tanpa oksigen (anaerob)
-B. Banyak oksigen
-C. Suhu sangat tinggi
-D. Benar-benar kering tanpa air
 
 **(2) Pilihan Jawaban:**
 A. Tanpa oksigen (anaerob)
@@ -1911,10 +1691,6 @@ D. Benar-benar kering tanpa air
 
 **(1) Soal:**
 Perbedaan yang paling mendasar antara bioteknologi konvensional dan bioteknologi modern terletak pada...
-A. Harga produk yang dihasilkan
-B. Konvensional memakai mikroba utuh tanpa mengubah DNA, sedangkan modern memanfaatkan rekayasa genetika/DNA
-C. Konvensional selalu lebih modern dari zaman sekarang
-D. Modern tidak membutuhkan makhluk hidup
 
 **(2) Pilihan Jawaban:**
 A. Harga produk yang dihasilkan
@@ -1943,10 +1719,6 @@ D. Modern tidak membutuhkan makhluk hidup
 
 **(1) Soal:**
 Agar bakteri dapat menghasilkan insulin manusia, langkah yang dilakukan ilmuwan adalah...
-A. Menyisipkan gen penghasil insulin manusia ke dalam DNA bakteri
-B. Memberi insulin suntikan ke bakteri
-C. Memfermentasi bakteri dengan gula
-D. Membekukan bakteri di dalam es
 
 **(2) Pilihan Jawaban:**
 A. Menyisipkan gen penghasil insulin manusia ke dalam DNA bakteri
@@ -1975,10 +1747,6 @@ D. Membekukan bakteri di dalam es
 
 **(1) Soal:**
 Ketika seseorang divaksin, tubuhnya menjadi kebal karena vaksin...
-A. Membunuh semua kuman di dalam tubuh
-B. Membuat luka tetap terbuka
-C. Melatih tubuh mengenal dan melawan kuman penyebab penyakit
-D. Menambah sel darah merah
 
 **(2) Pilihan Jawaban:**
 A. Membunuh semua kuman di dalam tubuh
@@ -2007,10 +1775,6 @@ D. Menambah sel darah merah
 
 **(1) Soal:**
 Keuntungan utama memperbanyak tanaman anggrek dengan kultur jaringan adalah...
-A. Membutuhkan lahan yang sangat luas
-B. Menghasilkan banyak bibit dalam waktu relatif cepat dengan sifat sama seperti induk
-C. Bibit menjadi sangat mahal
-D. Menghasilkan buah tanpa biji
 
 **(2) Pilihan Jawaban:**
 A. Membutuhkan lahan yang sangat luas
@@ -2039,10 +1803,6 @@ D. Menghasilkan buah tanpa biji
 
 **(1) Soal:**
 Pak Tani menanam jagung transgenik yang tahan terhadap hama. Keuntungan langsung yang diperoleh Pak Tani adalah...
-A. Hasil panen lebih banyak dan penggunaan pestisida dapat dikurangi
-B. Jagung berubah menjadi padi
-C. Tidak perlu menyiram sama sekali
-D. Jagung tidak bisa dimakan
 
 **(2) Pilihan Jawaban:**
 A. Hasil panen lebih banyak dan penggunaan pestisida dapat dikurangi
@@ -2071,10 +1831,6 @@ D. Jagung tidak bisa dimakan
 
 **(1) Soal:**
 Salah satu kekhawatiran terhadap tanaman transgenik adalah...
-A. Tanaman transgenik tidak dapat dimakan sama sekali
-B. Semua pangan menjadi tidak enak
-C. Gen tanaman transgenik dapat menyebar ke tanaman liar sehingga perlu pengawasan ketat
-D. Tanaman transgenik tidak berfotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Tanaman transgenik tidak dapat dimakan sama sekali
@@ -2103,10 +1859,6 @@ D. Tanaman transgenik tidak berfotosintesis
 
 **(1) Soal:**
 Reaktor biogas ditutup rapat agar...
-A. Oksigen tidak masuk sehingga bakteri anaerob pengurai dapat bekerja
-B. Gas dapat keluar bebas ke udara
-C. Cahaya matahari dapat masuk
-D. Air cepat menguap
 
 **(2) Pilihan Jawaban:**
 A. Oksigen tidak masuk sehingga bakteri anaerob pengurai dapat bekerja
@@ -2135,10 +1887,6 @@ D. Air cepat menguap
 
 **(1) Soal:**
 Setelah air kelapa diberi starter nata lalu didiamkan dengan wadah ditutup, permukaannya terbentuk lapisan putih kenyal. Lapisan itu terbentuk karena...
-A. Air kelapa membeku karena dingin
-B. Bakteri Acetobacter xylinum membentuk lapisan selulosa
-C. Gula mengendap di permukaan
-D. Daun pembungkus jatuh ke dalam wadah
 
 **(2) Pilihan Jawaban:**
 A. Air kelapa membeku karena dingin
@@ -2167,10 +1915,6 @@ D. Daun pembungkus jatuh ke dalam wadah
 
 **(1) Soal:**
 Protein tempe lebih mudah dicerna tubuh dibanding protein kedelai mentah karena selama fermentasi...
-A. Jamur telah menguraikan kedelai menjadi zat-zat yang lebih sederhana
-B. Kedelai menjadi lebih keras
-C. Kedelai kehilangan semua kandungan gizinya
-D. Jamur menyerap seluruh protein kedelai
 
 **(2) Pilihan Jawaban:**
 A. Jamur telah menguraikan kedelai menjadi zat-zat yang lebih sederhana
@@ -2199,10 +1943,6 @@ D. Jamur menyerap seluruh protein kedelai
 
 **(1) Soal:**
 Pada pembuatan asinan, sayur dicuci bersih lalu direndam dalam larutan garam. Fungsi larutan garam adalah...
-A. Membuat sayur terasa lebih manis
-B. Menarik lebih banyak serangga
-C. Menghambat mikroba pembusuk dan membantu bakteri asam laktat bekerja
-D. Membuat sayur berwarna merah
 
 **(2) Pilihan Jawaban:**
 A. Membuat sayur terasa lebih manis
@@ -2231,10 +1971,6 @@ D. Membuat sayur berwarna merah
 
 **(1) Soal:**
 Dalam percobaan, air gula dan ragi dimasukkan ke botol lalu mulut botol ditutup balon. Setelah beberapa jam, balon mengembang. Balon mengembang karena...
-A. Udara luar masuk ke dalam botol
-B. Gas CO₂ hasil fermentasi ragi keluar dari botol
-C. Balon ikut memanas
-D. Air gula berubah menjadi uap
 
 **(2) Pilihan Jawaban:**
 A. Udara luar masuk ke dalam botol
@@ -2263,10 +1999,6 @@ D. Air gula berubah menjadi uap
 
 **(1) Soal:**
 Keju dan asinan dapat bertahan lama tanpa bahan pengawet kimia karena...
-A. Asam hasil fermentasi menghambat mikroba pembusuk
-B. Gula di dalamnya semakin banyak
-C. Warnanya terang
-D. Ukurannya kecil
 
 **(2) Pilihan Jawaban:**
 A. Asam hasil fermentasi menghambat mikroba pembusuk
@@ -2301,10 +2033,6 @@ Perhatikan tabel pasangan produk, mikroorganisme, dan bahan dasar berikut:
 - Nata de coco — Saccharomyces cerevisiae — air kelapa
 
 Pasangan yang TIDAK tepat adalah...
-A. Tempe — Rhizopus oryzae — kedelai
-B. Yoghurt — Lactobacillus bulgaricus — susu
-C. Kecap — Aspergillus oryzae — kedelai
-D. Nata de coco — Saccharomyces cerevisiae — air kelapa
 
 **(2) Pilihan Jawaban:**
 A. Tempe — Rhizopus oryzae — kedelai
@@ -2333,10 +2061,6 @@ D. Nata de coco — Saccharomyces cerevisiae — air kelapa
 
 **(1) Soal:**
 Agar tape tidak gagal, semua hal berikut perlu dilakukan, KECUALI...
-A. Memilih singkong yang masih baik
-B. Mencampur ragi secara merata
-C. Menutup wadah dengan rapat
-D. Membuka tutup wadah setiap beberapa jam untuk melihat-lihat
 
 **(2) Pilihan Jawaban:**
 A. Memilih singkong yang masih baik
@@ -2365,10 +2089,6 @@ D. Membuka tutup wadah setiap beberapa jam untuk melihat-lihat
 
 **(1) Soal:**
 Oncom memiliki warna oranye kemerahan di permukaannya karena...
-A. Spora jamur Neurospora berwarna oranye
-B. Dicat dengan pewarna makanan
-C. Ditambah tomat saat fermentasi
-D. Berubah warna oleh sinar matahari
 
 **(2) Pilihan Jawaban:**
 A. Spora jamur Neurospora berwarna oranye
@@ -2397,10 +2117,6 @@ D. Berubah warna oleh sinar matahari
 
 **(1) Soal:**
 Bakteri asam laktat bekerja dengan mengubah laktosa (gula susu) menjadi...
-A. Karbon dioksida yang berbusa
-B. Garam dapur
-C. Asam laktat yang membuat rasa asam
-D. Minyak goreng
 
 **(2) Pilihan Jawaban:**
 A. Karbon dioksida yang berbusa
@@ -2429,10 +2145,6 @@ D. Minyak goreng
 
 **(1) Soal:**
 Tumpahan minyak di laut sebagian dapat dibersihkan dengan menyebarkan bakteri pemakan minyak. Pemanfaatan makhluk hidup untuk membersihkan pencemaran ini disebut...
-A. Reboisasi
-B. Bioremediasi
-C. Eutrofikasi
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Reboisasi
@@ -2461,10 +2173,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Domba Dolly adalah hewan hasil kloning. Kegiatan kloning dapat menimbulkan perbedaan pendapat karena...
-A. Dikhawatirkan teknologi yang sama disalahgunakan, misalnya untuk mengkloning manusia
-B. Domba hasil kloning tidak bisa makan
-C. Kloning membuat domba bisa terbang
-D. Kloning tidak memerlukan sel sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Dikhawatirkan teknologi yang sama disalahgunakan, misalnya untuk mengkloning manusia
@@ -2493,10 +2201,6 @@ D. Kloning tidak memerlukan sel sama sekali
 
 **(1) Soal:**
 Di kebun plasma nutfah dikumpulkan berbagai jenis benih padi kuno. Kegunaan koleksi benih tersebut adalah...
-A. Untuk dibuang setelah panen
-B. Sebagai cadangan sifat unggul bila suatu jenis punah atau dibutuhkan di kemudian hari
-C. Untuk memberi makan ternak besar
-D. Agar petani berhenti menanam padi
 
 **(2) Pilihan Jawaban:**
 A. Untuk dibuang setelah panen
@@ -2525,10 +2229,6 @@ D. Agar petani berhenti menanam padi
 
 **(1) Soal:**
 Aturan keamanan hayati diperlukan dalam pengembangan produk bioteknologi modern agar...
-A. Produk dimakan semua orang setiap hari
-B. Produk yang dihasilkan aman bagi manusia dan lingkungan serta tidak disalahgunakan
-C. Ilmuwan berhenti meneliti
-D. Harga produk selalu naik
 
 **(2) Pilihan Jawaban:**
 A. Produk dimakan semua orang setiap hari
@@ -2557,10 +2257,6 @@ D. Harga produk selalu naik
 
 **(1) Soal:**
 Pada pembuatan tape, pati diubah menjadi gula, lalu gula diubah ragi menjadi...
-A. Alkohol dan sedikit gas CO₂
-B. Air murni
-C. Pasir
-D. Plastik
 
 **(2) Pilihan Jawaban:**
 A. Alkohol dan sedikit gas CO₂
@@ -2589,10 +2285,6 @@ D. Plastik
 
 **(1) Soal:**
 Dua gelas berisi susu: gelas A diberi satu sendok yoghurt, gelas B tidak diberi apa-apa. Keduanya ditutup dan diletakkan di tempat hangat semalaman. Perkiraan yang paling tepat adalah...
-A. Gelas A mengental dan asam, gelas B tetap cair dan cenderung basi
-B. Kedua gelas menjadi yoghurt yang sama baiknya
-C. Gelas B menjadi yoghurt yang lebih baik
-D. Kedua gelas berubah menjadi keju keras
 
 **(2) Pilihan Jawaban:**
 A. Gelas A mengental dan asam, gelas B tetap cair dan cenderung basi
@@ -2621,10 +2313,6 @@ D. Kedua gelas berubah menjadi keju keras
 
 **(1) Soal:**
 Pak Santo membuat dua adonan roti: adonan I diberi ragi dan gula, adonan II diberi ragi tanpa gula. Setelah didiamkan, adonan I mengembang sedangkan adonan II hampir tidak. Hal ini menunjukkan bahwa ragi...
-A. Tidak membutuhkan apa pun untuk bekerja
-B. Membutuhkan gula sebagai makanan (sumber energi) untuk menghasilkan gas
-C. Hanya bisa bekerja di dalam kulkas
-D. Berubah menjadi gas itu sendiri
 
 **(2) Pilihan Jawaban:**
 A. Tidak membutuhkan apa pun untuk bekerja
@@ -2653,10 +2341,6 @@ D. Berubah menjadi gas itu sendiri
 
 **(1) Soal:**
 Tempe yang sudah berlendir, berwarna hitam, dan berbau busuk tidak layak dimakan karena...
-A. Telah diurai mikroba pembusuk yang dapat membahayakan kesehatan
-B. Rasanya terlalu manis
-C. Warnanya belum cukup putih
-D. Kedelainya masih mentah
 
 **(2) Pilihan Jawaban:**
 A. Telah diurai mikroba pembusuk yang dapat membahayakan kesehatan
@@ -2685,10 +2369,6 @@ D. Kedelainya masih mentah
 
 **(1) Soal:**
 Pernyataan yang benar tentang bioteknologi konvensional dan modern adalah...
-A. Konvensional pasti menggunakan rekayasa genetika
-B. Modern hanya untuk memproduksi makanan
-C. Konvensional memakai mikroorganisme utuh tanpa mengubah DNA, sedangkan modern memanfaatkan perubahan gen/DNA
-D. Keduanya sama sekali tidak memerlukan makhluk hidup
 
 **(2) Pilihan Jawaban:**
 A. Konvensional pasti menggunakan rekayasa genetika
@@ -2723,10 +2403,6 @@ Perhatikan tabel pasangan produk, mikroorganisme, dan bahan dasar berikut:
 - Tape — Penicillium notatum — singkong
 
 Pasangan yang TIDAK tepat adalah...
-A. Tempe — Rhizopus oryzae — kedelai
-B. Yoghurt — Lactobacillus bulgaricus — susu
-C. Nata de coco — Acetobacter xylinum — air kelapa
-D. Tape — Penicillium notatum — singkong
 
 **(2) Pilihan Jawaban:**
 A. Tempe — Rhizopus oryzae — kedelai
@@ -2757,10 +2433,6 @@ D. Tape — Penicillium notatum — singkong
 
 **(1) Soal:**
 Seorang siswa membuat tape singkong di tiga tempat berbeda: (1) di kulkas bersuhu 10°C → singkong tetap keras dan tidak manis; (2) di ruang hangat 30°C → tape matang dan manis dalam 3 hari; (3) di dekat kompor 45°C → tape terlalu asam dan berair. Kesimpulan yang paling tepat berdasarkan hasil itu adalah...
-A. Ragi bekerja paling baik pada suhu hangat; terlalu dingin memperlambat, terlalu panas merusak
-B. Semakin dingin suhunya, semakin cepat tape matang
-C. Suhu tidak berpengaruh terhadap fermentasi
-D. Tape paling baik dibuat di dekat api
 
 **(2) Pilihan Jawaban:**
 A. Ragi bekerja paling baik pada suhu hangat; terlalu dingin memperlambat, terlalu panas merusak
@@ -2791,10 +2463,6 @@ D. Tape paling baik dibuat di dekat api
 
 **(1) Soal:**
 Pada percobaan fermentasi, mulut botol ditutup balon sehingga balon menggembung. Gas di dalam balon diduga CO₂. Cara paling aman dan tepat untuk menguji dugaan itu adalah...
-A. Mengarahkan gas ke lilin — api akan padam karena CO₂ memadamkan api
-B. Memeriksa warna gas — gas CO₂ pastilah merah
-C. Mencium baunya — gas CO₂ pasti berbau manis
-D. Memasukkan ikan ke dalam balon — ikan dapat berenang
 
 **(2) Pilihan Jawaban:**
 A. Mengarahkan gas ke lilin — api akan padam karena CO₂ memadamkan api
@@ -2830,10 +2498,6 @@ Urutan pembuatan tempe yang benar:
 3) Kedelai dibungkus dan didiamkan 1–2 hari hingga tertutup jamur putih
 
 Urutan yang benar adalah...
-A. 2 – 1 – 3
-B. 3 – 2 – 1
-C. 1 – 2 – 3
-D. 2 – 3 – 1
 
 **(2) Pilihan Jawaban:**
 A. 2 – 1 – 3
@@ -2870,10 +2534,6 @@ Urutan pembuatan tape yang benar:
 4) Didiamkan 2–3 hari sampai matang
 
 Urutan yang benar adalah...
-A. 4 – 3 – 2 – 1
-B. 1 – 2 – 3 – 4
-C. 2 – 1 – 4 – 3
-D. 3 – 4 – 1 – 2
 
 **(2) Pilihan Jawaban:**
 A. 4 – 3 – 2 – 1
@@ -2904,10 +2564,6 @@ D. 3 – 4 – 1 – 2
 
 **(1) Soal:**
 Pada pembuatan kecap, ampas kedelai yang tersisa setelah airnya menjadi kecap masih mengandung protein. Ampas kedelai tersebut biasanya diolah lebih lanjut menjadi...
-A. Oncom
-B. Nata de coco
-C. Yoghurt
-D. Keju
 
 **(2) Pilihan Jawaban:**
 A. Oncom
@@ -2938,10 +2594,6 @@ D. Keju
 
 **(1) Soal:**
 Tape yang disimpan terlalu lama berubah menjadi cuka. Urutan perubahan zat yang paling tepat adalah...
-A. Pati → gula → alkohol (oleh ragi) → cuka (oleh bakteri asam asetat)
-B. Gula → pati → alkohol → air murni
-C. Pati → cuka langsung → alkohol → sirup
-D. Alkohol → pati → gula → minyak
 
 **(2) Pilihan Jawaban:**
 A. Pati → gula → alkohol (oleh ragi) → cuka (oleh bakteri asam asetat)
@@ -2977,10 +2629,6 @@ Urutan pembuatan insulin dengan rekayasa genetika yang benar:
 3) Bakteri berkembang biak dan menghasilkan insulin
 
 Urutan yang benar adalah...
-A. 1 – 2 – 3
-B. 2 – 1 – 3
-C. 3 – 2 – 1
-D. 1 – 3 – 2
 
 **(2) Pilihan Jawaban:**
 A. 1 – 2 – 3
@@ -3011,10 +2659,6 @@ D. 1 – 3 – 2
 
 **(1) Soal:**
 Tiga gelas susu diperlakukan berbeda: A = dipanaskan lalu diberi bakteri yoghurt; B = susu mentah langsung diberi bakteri yoghurt; C = dipanaskan tanpa diberi bakteri yoghurt. Setelah semalam di tempat hangat, perkiraan yang paling benar adalah...
-A. Ketiganya menjadi yoghurt yang sama baiknya
-B. A menjadi yoghurt yang baik, B berisiko basi karena bakteri liar ikut tumbuh, C tetap cair dan tidak asam
-C. B menjadi yoghurt yang paling baik
-D. C menjadi keju padat
 
 **(2) Pilihan Jawaban:**
 A. Ketiganya menjadi yoghurt yang sama baiknya
@@ -3045,10 +2689,6 @@ D. C menjadi keju padat
 
 **(1) Soal:**
 Pernyataan berikut tentang fermentasi yang paling tepat adalah...
-A. Fermentasi selalu memerlukan oksigen yang berlimpah
-B. Semua jenis fermentasi menghasilkan alkohol
-C. Fermentasi umumnya berlangsung tanpa udara dan melibatkan mikroorganisme sebagai pelaku utama
-D. Fermentasi hanya dapat terjadi pada singkong
 
 **(2) Pilihan Jawaban:**
 A. Fermentasi selalu memerlukan oksigen yang berlimpah
@@ -3079,10 +2719,6 @@ D. Fermentasi hanya dapat terjadi pada singkong
 
 **(1) Soal:**
 Pembuatan kecap melewati dua tahap: fermentasi kedelai oleh jamur Aspergillus, lalu perendaman dalam larutan garam. Fungsi larutan garam pada tahap kedua adalah sebagai...
-A. Pengawet dan pemberi rasa asin, sekaligus menghambat mikroba pembusuk
-B. Pupuk untuk menyuburkan kedelai
-C. Pemanis alami untuk kecap manis
-D. Pewarna agar kecap hitam pekat
 
 **(2) Pilihan Jawaban:**
 A. Pengawet dan pemberi rasa asin, sekaligus menghambat mikroba pembusuk
@@ -3113,10 +2749,6 @@ D. Pewarna agar kecap hitam pekat
 
 **(1) Soal:**
 Seorang siswa mengukur tebal lapisan nata de coco (dalam cm): hari ke-3 = 0,5; hari ke-6 = 1,2; hari ke-9 = 2,0. Simpulan yang paling tepat dari data tersebut adalah...
-A. Lapisan nata selalu sama tebal setiap hari
-B. Selama bakteri masih aktif, lapisan nata terus menebal
-C. Nata hanya terbentuk pada hari pertama
-D. Lapisan nata menyusut seiring waktu
 
 **(2) Pilihan Jawaban:**
 A. Lapisan nata selalu sama tebal setiap hari
@@ -3147,10 +2779,6 @@ D. Lapisan nata menyusut seiring waktu
 
 **(1) Soal:**
 Data jumlah koloni bakteri pada makanan selama 24 jam: suhu 5°C = 100 koloni; suhu 30°C = 50.000 koloni; suhu 60°C = 200 koloni; suhu 80°C = 0 koloni. Berdasarkan data tersebut, cara paling praktis untuk memperlambat pembusukan makanan di rumah adalah menyimpannya pada suhu...
-A. 30°C (suhu ruang)
-B. 60°C (hangat)
-C. 80°C (sangat panas)
-D. 5°C (dalam lemari es)
 
 **(2) Pilihan Jawaban:**
 A. 30°C (suhu ruang)
@@ -3181,10 +2809,6 @@ D. 5°C (dalam lemari es)
 
 **(1) Soal:**
 Dalam diskusi kelas tentang rekayasa genetika, kesimpulan yang paling seimbang dan tepat adalah...
-A. Rekayasa genetika dapat memberi manfaat besar, tetapi wajib diawasi agar aman dan tidak disalahgunakan
-B. Rekayasa genetika selalu buruk sehingga harus dilarang total
-C. Rekayasa genetika selalu baik tanpa risiko apa pun
-D. Rekayasa genetika tidak berpengaruh apa pun terhadap kehidupan manusia
 
 **(2) Pilihan Jawaban:**
 A. Rekayasa genetika dapat memberi manfaat besar, tetapi wajib diawasi agar aman dan tidak disalahgunakan
@@ -3215,10 +2839,6 @@ D. Rekayasa genetika tidak berpengaruh apa pun terhadap kehidupan manusia
 
 **(1) Soal:**
 Grafik produksi biogas dari sebuah reaktor meningkat tajam sampai hari ke-20, kemudian terus menurun. Penyebab penurunan yang paling mungkin adalah...
-A. Jumlah bakteri pengurai bertambah banyak
-B. Suhu reaktor terus meningkat
-C. Bahan organik (makanan bakteri) mulai habis
-D. Gas yang dihasilkan membeku
 
 **(2) Pilihan Jawaban:**
 A. Jumlah bakteri pengurai bertambah banyak
@@ -3249,10 +2869,6 @@ D. Gas yang dihasilkan membeku
 
 **(1) Soal:**
 Rangkaian pengolahan limbah peternakan: kotoran ternak diubah menjadi biogas untuk memasak, lalu sisa lumpurnya dijadikan pupuk. Keuntungan rangkaian pengolahan ini adalah...
-A. Tidak ada keuntungannya bagi peternak
-B. Mengurangi pencemaran sekaligus memperoleh energi dan pupuk
-C. Hanya mengurangi jumlah limbah tanpa hasil berguna
-D. Limbah berubah menjadi plastik yang dapat dijual
 
 **(2) Pilihan Jawaban:**
 A. Tidak ada keuntungannya bagi peternak
@@ -3283,10 +2899,6 @@ D. Limbah berubah menjadi plastik yang dapat dijual
 
 **(1) Soal:**
 Dalam diskusi kelas dibahas kemungkinan mengkloning manusia. Pendapat yang paling tepat dari sisi ilmu pengetahuan dan etika adalah...
-A. Secara teknologi mungkin, tetapi menyangkut etika dan risiko besar sehingga banyak negara melarangnya
-B. Manusia boleh dikloning sesuka hati tanpa aturan
-C. Kloning manusia lebih mudah daripada kloning tumbuhan
-D. Kloning manusia menghasilkan vitamin untuk semua orang
 
 **(2) Pilihan Jawaban:**
 A. Secara teknologi mungkin, tetapi menyangkut etika dan risiko besar sehingga banyak negara melarangnya
@@ -3317,10 +2929,6 @@ D. Kloning manusia menghasilkan vitamin untuk semua orang
 
 **(1) Soal:**
 Dua botol diisi ragi dan air: botol A tanpa gula, botol B diberi gula. Masing-masing mulutnya ditutup balon lalu didiamkan 2 jam di tempat hangat. Hasil yang paling mungkin adalah...
-A. Balon botol A lebih menggembung
-B. Balon botol B lebih menggembung karena ragi mendapat makanan (gula)
-C. Kedua balon menggembung sama besar
-D. Kedua balon pasti tidak berubah
 
 **(2) Pilihan Jawaban:**
 A. Balon botol A lebih menggembung
@@ -3351,10 +2959,6 @@ D. Kedua balon pasti tidak berubah
 
 **(1) Soal:**
 Meskipun sudah ada varietas padi unggul berumur pendek dan berhasil tinggi, padi-padi lokal tetap dipertahankan di plasma nutfah. Alasan yang paling kuat adalah...
-A. Menjaga cadangan keanekaragaman gen untuk mengembangkan varietas baru di masa depan
-B. Padi lokal tidak berguna sama sekali
-C. Plasma nutfah hanya untuk koleksi di museum
-D. Menghabiskan lahan pertanian yang subur
 
 **(2) Pilihan Jawaban:**
 A. Menjaga cadangan keanekaragaman gen untuk mengembangkan varietas baru di masa depan
@@ -3385,10 +2989,6 @@ D. Menghabiskan lahan pertanian yang subur
 
 **(1) Soal:**
 Setelah mempelajari bioteknologi secara keseluruhan, kesimpulan yang paling tepat adalah...
-A. Bioteknologi hanya berguna untuk membuat makanan tradisional
-B. Bioteknologi memanfaatkan makhluk hidup untuk kesejahteraan manusia, dari fermentasi hingga rekayasa genetika, dengan tetap menjaga etika dan keamanan
-C. Bioteknologi tidak ada hubungannya dengan keseimbangan lingkungan
-D. Bioteknologi modern tidak boleh dikembangkan sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Bioteknologi hanya berguna untuk membuat makanan tradisional

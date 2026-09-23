@@ -161,10 +161,6 @@ Langkah 3: Dinamo sepeda mengubah gerak roda menjadi listrik — kebalikan kipas
 
 **(1) Soal:**
 Sebuah magnet batang digerakkan masuk dan keluar dari dalam kumparan yang kedua ujungnya dihubungkan ke galvanometer. Jarum galvanometer bergerak, artinya dalam kumparan muncul...
-A. Arus listrik
-B. Gas panas
-C. Cahaya terang
-D. Getaran bunyi
 
 **(2) Pilihan Jawaban:**
 A. Arus listrik
@@ -193,10 +189,6 @@ D. Getaran bunyi
 
 **(1) Soal:**
 Agar sebuah kumparan dapat menimbulkan arus listrik akibat magnet, magnet tersebut harus...
-A. Diam di dalam kumparan
-B. Digerakkan sehingga garis gaya magnet yang dilingkupi kumparan berubah
-C. Digunting kecil-kecil
-D. Diwarnai dengan cat agar menarik
 
 **(2) Pilihan Jawaban:**
 A. Diam di dalam kumparan
@@ -225,10 +217,6 @@ D. Diwarnai dengan cat agar menarik
 
 **(1) Soal:**
 GGL (gaya gerak listrik) induksi timbul pada kumparan ketika...
-A. Suhu kawat kumparan naik
-B. Warna magnet berubah
-C. Jumlah garis gaya magnet yang menembus kumparan berubah
-D. Kawat diganti dengan kawat yang lebih tebal saja
 
 **(2) Pilihan Jawaban:**
 A. Suhu kawat kumparan naik
@@ -257,10 +245,6 @@ D. Kawat diganti dengan kawat yang lebih tebal saja
 
 **(1) Soal:**
 Sebuah magnet batang didiamkan (tidak digerakkan) di dalam kumparan yang terhubung ke galvanometer. Yang terjadi pada jarum galvanometer adalah...
-A. Menyimpang terus-menerus
-B. Tetap diam di angka nol
-C. Berputar sangat cepat
-D. Menyimpang kemudian berputar pelan
 
 **(2) Pilihan Jawaban:**
 A. Menyimpang terus-menerus
@@ -289,10 +273,6 @@ D. Menyimpang kemudian berputar pelan
 
 **(1) Soal:**
 Ilmuwan yang menemukan bahwa gerakan magnet di dalam kumparan dapat menimbulkan arus listrik (induksi elektromagnetik) adalah...
-A. Isaac Newton
-B. Albert Einstein
-C. Michael Faraday
-D. Thomas Alva Edison
 
 **(2) Pilihan Jawaban:**
 A. Isaac Newton
@@ -322,10 +302,6 @@ D. Thomas Alva Edison
 
 **(1) Soal:**
 Supaya arus listrik yang dihasilkan kumparan menjadi lebih besar, magnet harus digerakkan dengan...
-A. Semakin cepat
-B. Semakin lambat
-C. Dihentikan di tengah-tengah
-D. Dibelokkan ke samping tanpa bergerak
 
 **(2) Pilihan Jawaban:**
 A. Semakin cepat
@@ -354,10 +330,6 @@ D. Dibelokkan ke samping tanpa bergerak
 
 **(1) Soal:**
 Kumparan X memiliki 10 lilitan dan kumparan Y memiliki 40 lilitan. Keduanya digerakkan magnet yang sama dengan kelajuan yang sama. Arus yang dihasilkan kumparan Y dibanding X adalah...
-A. Lebih kecil
-B. Lebih besar
-C. Sama persis
-D. Tidak ada arus sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Lebih kecil
@@ -386,10 +358,6 @@ D. Tidak ada arus sama sekali
 
 **(1) Soal:**
 Magnet yang lebih kuat (memiliki garis gaya magnet lebih banyak), jika digerakkan pada kumparan yang sama dengan kelajuan yang sama, menghasilkan GGL induksi yang...
-A. Lebih kecil
-B. Sama saja
-C. Lebih besar
-D. Tepat nol
 
 **(2) Pilihan Jawaban:**
 A. Lebih kecil
@@ -418,10 +386,6 @@ D. Tepat nol
 
 **(1) Soal:**
 Perhatikan faktor berikut. Faktor yang TIDAK memengaruhi besar GGL induksi adalah...
-A. Kecepatan gerak magnet
-B. Jumlah lilitan kumparan
-C. Kekuatan magnet
-D. Warna kawat kumparan
 
 **(2) Pilihan Jawaban:**
 A. Kecepatan gerak magnet
@@ -450,10 +414,6 @@ D. Warna kawat kumparan
 
 **(1) Soal:**
 Semakin cepat magnet digerakkan di dalam kumparan, simpangan jarum galvanometer semakin...
-A. Kecil
-B. Besar
-C. Tepat nol
-D. Tidak menentu
 
 **(2) Pilihan Jawaban:**
 A. Kecil
@@ -482,10 +442,6 @@ D. Tidak menentu
 
 **(1) Soal:**
 Jika magnet digerakkan masuk dan keluar kumparan secara teratur, arah arus pada kawat terus berubah-ubah bolak-balik. Arus semacam ini disebut arus...
-A. Searah (DC)
-B. Bolak-balik (AC)
-C. Magnet
-D. Diam
 
 **(2) Pilihan Jawaban:**
 A. Searah (DC)
@@ -514,10 +470,6 @@ D. Diam
 
 **(1) Soal:**
 Alat yang digunakan untuk menunjukkan ada atau tidaknya arus listrik kecil pada percobaan induksi elektromagnetik adalah...
-A. Galvanometer
-B. Termometer
-C. Barometer
-D. Timbangan
 
 **(2) Pilihan Jawaban:**
 A. Galvanometer
@@ -546,10 +498,6 @@ D. Timbangan
 
 **(1) Soal:**
 Pada generator listrik arus searah (DC), perangkat yang berfungsi membalik arah arus pada saat yang tepat agar arus yang keluar tetap satu arah disebut...
-A. Transformator
-B. Sekring
-C. Komutator
-D. Galvanometer
 
 **(2) Pilihan Jawaban:**
 A. Transformator
@@ -578,10 +526,6 @@ D. Galvanometer
 
 **(1) Soal:**
 Generator adalah alat yang mengubah energi... menjadi energi listrik.
-A. Cahaya
-B. Gerak (kinetik)
-C. Bunyi
-D. Kimia
 
 **(2) Pilihan Jawaban:**
 A. Cahaya
@@ -610,10 +554,6 @@ D. Kimia
 
 **(1) Soal:**
 Pada generator sederhana, bagian yang berputar sehingga memotong medan magnet dan menimbulkan arus listrik adalah...
-A. Kumparan (lilitan kawat yang diputar)
-B. Baterai isi ulang
-C. Kipas pendingin
-D. Bola lampu
 
 **(2) Pilihan Jawaban:**
 A. Kumparan (lilitan kawat yang diputar)
@@ -642,10 +582,6 @@ D. Bola lampu
 
 **(1) Soal:**
 Saat sepeda bergerak, roda memutar dinamo sehingga lampu di sepeda menyala. Perubahan energi yang terjadi di dalam dinamo sepeda adalah...
-A. Listrik → gerak
-B. Listrik → cahaya
-C. Gerak → listrik
-D. Cahaya → gerak
 
 **(2) Pilihan Jawaban:**
 A. Listrik → gerak
@@ -674,10 +610,6 @@ D. Cahaya → gerak
 
 **(1) Soal:**
 Supaya lampu dinamo sepeda menyala semakin terang, pengendara sebaiknya...
-A. Mengayuh lebih cepat sehingga dinamo berputar makin cepat
-B. Mengayuh sangat pelan
-C. Berhenti mengayuh
-D. Melepas dinamo dari ban
 
 **(2) Pilihan Jawaban:**
 A. Mengayuh lebih cepat sehingga dinamo berputar makin cepat
@@ -706,10 +638,6 @@ D. Melepas dinamo dari ban
 
 **(1) Soal:**
 Pada pembangkit listrik tenaga air (PLTA), air jatuh dari waduk memutar turbin, lalu turbin memutar generator. Urutan perubahan energi yang benar adalah...
-A. Air → generator → turbin → listrik
-B. Uap → turbin → generator → listrik
-C. Air → turbin → generator → listrik
-D. Listrik → turbin → air → listrik
 
 **(2) Pilihan Jawaban:**
 A. Air → generator → turbin → listrik
@@ -738,10 +666,6 @@ D. Listrik → turbin → air → listrik
 
 **(1) Soal:**
 Pada pembangkit listrik tenaga uap (PLTU), uap panas yang memutar turbin berasal dari...
-A. Bensin yang dibakar langsung di turbin
-B. Air yang dipanaskan (dididihkan) hingga menjadi uap
-C. Angin yang diisap cerobong
-D. Air laut yang menguap di pantai
 
 **(2) Pilihan Jawaban:**
 A. Bensin yang dibakar langsung di turbin
@@ -770,10 +694,6 @@ D. Air laut yang menguap di pantai
 
 **(1) Soal:**
 Jenis arus listrik yang dihasilkan oleh generator pada pembangkit listrik (misalnya PLTA) adalah arus...
-A. Searah (DC)
-B. Bolak-balik (AC)
-C. Yang tidak pernah berubah arah
-D. Statis (listrik diam)
 
 **(2) Pilihan Jawaban:**
 A. Searah (DC)
@@ -802,10 +722,6 @@ D. Statis (listrik diam)
 
 **(1) Soal:**
 Motor listrik adalah alat yang mengubah energi listrik menjadi energi...
-A. Gerak (kinetik)
-B. Potensial gravitasi
-C. Kimia
-D. Bunyi saja
 
 **(2) Pilihan Jawaban:**
 A. Gerak (kinetik)
@@ -834,10 +750,6 @@ D. Bunyi saja
 
 **(1) Soal:**
 Alat rumah tangga berikut yang menggunakan motor listrik adalah...
-A. Setrika listrik
-B. Rice cooker
-C. Kipas angin
-D. Termos
 
 **(2) Pilihan Jawaban:**
 A. Setrika listrik
@@ -866,10 +778,6 @@ D. Termos
 
 **(1) Soal:**
 Pada kipas angin, motor mengubah energi listrik menjadi energi gerak yang membuat...
-A. Baling-baling berputar
-B. Udara berubah menjadi es
-C. Kipas menyala seperti lampu
-D. Ruangan menjadi gelap
 
 **(2) Pilihan Jawaban:**
 A. Baling-baling berputar
@@ -898,10 +806,6 @@ D. Ruangan menjadi gelap
 
 **(1) Soal:**
 Perbedaan utama antara generator dan motor listrik adalah...
-A. Keduanya sama persis, tidak ada bedanya
-B. Generator mengubah gerak menjadi listrik, sedangkan motor mengubah listrik menjadi gerak
-C. Generator mengubah listrik menjadi gerak, sedangkan motor mengubah gerak menjadi listrik
-D. Generator memakai baterai, sedangkan motor memakai magnet
 
 **(2) Pilihan Jawaban:**
 A. Keduanya sama persis, tidak ada bedanya
@@ -930,10 +834,6 @@ D. Generator memakai baterai, sedangkan motor memakai magnet
 
 **(1) Soal:**
 Alat berikut yang prinsip kerjanya sama dengan generator (energi gerak diubah menjadi listrik) adalah...
-A. Kipas angin
-B. Blender
-C. Mixer
-D. Dinamo sepeda
 
 **(2) Pilihan Jawaban:**
 A. Kipas angin
@@ -962,10 +862,6 @@ D. Dinamo sepeda
 
 **(1) Soal:**
 Transformator tersusun dari...
-A. Dua kumparan kawat dan sebuah inti besi
-B. Satu kumparan dan sebuah baterai
-C. Dua magnet dan seutas kabel
-D. Tiga bola lampu dan saklar
 
 **(2) Pilihan Jawaban:**
 A. Dua kumparan kawat dan sebuah inti besi
@@ -994,10 +890,6 @@ D. Tiga bola lampu dan saklar
 
 **(1) Soal:**
 Transformator step-down dipakai untuk...
-A. Menaikkan tegangan listrik
-B. Menurunkan tegangan listrik
-C. Mengubah arah arus menjadi searah
-D. Menyimpan listrik dalam baterai
 
 **(2) Pilihan Jawaban:**
 A. Menaikkan tegangan listrik
@@ -1026,10 +918,6 @@ D. Menyimpan listrik dalam baterai
 
 **(1) Soal:**
 Transformator step-up (menaikkan tegangan) banyak dipasang pada...
-A. Menara transmisi PLN di dekat pembangkit
-B. Pengisi daya HP
-C. Kumparan dinamo sepeda
-D. Saklar lampu rumah
 
 **(2) Pilihan Jawaban:**
 A. Menara transmisi PLN di dekat pembangkit
@@ -1058,10 +946,6 @@ D. Saklar lampu rumah
 
 **(1) Soal:**
 Adapter pengisi daya (charger) HP berisi transformator yang mengubah tegangan 220 V dari stop kontak menjadi sekitar 5 V untuk HP. Transformator pada charger bekerja sebagai...
-A. Step-up (menaikkan tegangan)
-B. Penghasil arus searah dari gerak
-C. Step-down (menurunkan tegangan)
-D. Pembalik arah arus (komutator)
 
 **(2) Pilihan Jawaban:**
 A. Step-up (menaikkan tegangan)
@@ -1090,10 +974,6 @@ D. Pembalik arah arus (komutator)
 
 **(1) Soal:**
 Transformator hanya dapat bekerja dengan baik apabila dialiri...
-A. Arus bolak-balik (AC)
-B. Arus searah yang tetap (DC)
-C. Arus yang diam saja
-D. Magnet yang tidak bergerak
 
 **(2) Pilihan Jawaban:**
 A. Arus bolak-balik (AC)
@@ -1122,10 +1002,6 @@ D. Magnet yang tidak bergerak
 
 **(1) Soal:**
 Kompor induksi di dapur memanaskan wajan BUKAN dengan api, melainkan dengan...
-A. Sinar matahari
-B. Medan magnet bolak-balik yang menimbulkan arus induksi di dasar wajan besi
-C. Bara api dari bensin
-D. Kipas pemanas
 
 **(2) Pilihan Jawaban:**
 A. Sinar matahari
@@ -1154,10 +1030,6 @@ D. Kipas pemanas
 
 **(1) Soal:**
 Kartu akses pintu tanpa baterai cukup didekatkan ke mesin pembaca lalu pintu terbuka. Hal ini bisa terjadi karena di dalam kartu terdapat...
-A. Kumparan kecil yang menerima induksi dari mesin pembaca
-B. Baterai isi ulang yang tebal
-C. Magnet permanen yang menempel kuat
-D. Peluit kecil yang berbunyi
 
 **(2) Pilihan Jawaban:**
 A. Kumparan kecil yang menerima induksi dari mesin pembaca
@@ -1186,10 +1058,6 @@ D. Peluit kecil yang berbunyi
 
 **(1) Soal:**
 Alarm anti maling pada pintu memakai magnet kecil yang ditempel di daun pintu dan sebuah saklar di kusen. Saat pintu dibuka, magnet menjauh sehingga saklar berubah dan alarm berbunyi. Alat ini bekerja berdasarkan...
-A. Pemanasan kawat oleh listrik
-B. Perubahan kedudukan medan magnet terhadap sensor (saklar magnet)
-C. Pembakaran bahan kimia
-D. Bunyi derit pintu semata
 
 **(2) Pilihan Jawaban:**
 A. Pemanasan kawat oleh listrik
@@ -1218,10 +1086,6 @@ D. Bunyi derit pintu semata
 
 **(1) Soal:**
 Saat stiker tag untuk gerbang tanpa sentuh diayun di depan mesin pembaca, tag bekerja tanpa baterai. Energi untuk tag tersebut berasal dari...
-A. Panas matahari
-B. Baterai tipis di dalam stiker
-C. Gesekan tangan saat mengayun
-D. Induksi gelombang yang dipancarkan mesin pembaca pada kumparan tag
 
 **(2) Pilihan Jawaban:**
 A. Panas matahari
@@ -1250,10 +1114,6 @@ D. Induksi gelombang yang dipancarkan mesin pembaca pada kumparan tag
 
 **(1) Soal:**
 Perangkat berikut yang TIDAK memanfaatkan induksi elektromagnetik adalah...
-A. Kompor induksi
-B. Dinamo sepeda
-C. Setrika listrik biasa
-D. Kartu akses RFID
 
 **(2) Pilihan Jawaban:**
 A. Kompor induksi
@@ -1282,10 +1142,6 @@ D. Kartu akses RFID
 
 **(1) Soal:**
 Mikrofon adalah alat yang mengubah...
-A. Sinyal listrik menjadi bunyi
-B. Bunyi (getaran suara) menjadi sinyal listrik
-C. Cahaya menjadi bunyi
-D. Bunyi menjadi cahaya
 
 **(2) Pilihan Jawaban:**
 A. Sinyal listrik menjadi bunyi
@@ -1314,10 +1170,6 @@ D. Bunyi menjadi cahaya
 
 **(1) Soal:**
 Pengeras suara (speaker) mengubah...
-A. Sinyal listrik menjadi bunyi
-B. Bunyi menjadi sinyal listrik
-C. Bunyi menjadi cahaya
-D. Gerak menjadi listrik
 
 **(2) Pilihan Jawaban:**
 A. Sinyal listrik menjadi bunyi
@@ -1346,10 +1198,6 @@ D. Gerak menjadi listrik
 
 **(1) Soal:**
 Pada mikrofon, getaran suara membuat selaput tipis dan kumparan kecil bergetar di dekat magnet sehingga dihasilkan...
-A. Cahaya terang
-B. Panas yang tinggi
-C. Arus listrik yang berubah-ubah mengikuti suara
-D. Gas karbon dioksida
 
 **(2) Pilihan Jawaban:**
 A. Cahaya terang
@@ -1378,10 +1226,6 @@ D. Gas karbon dioksida
 
 **(1) Soal:**
 Urutan kerja pengeras suara di aula (sound system) yang benar adalah...
-A. Speaker → penguat → mikrofon → bunyi
-B. Bunyi → speaker → mikrofon → penguat
-C. Bunyi → mikrofon → penguat → speaker → bunyi yang lebih keras
-D. Mikrofon → bunyi → speaker → penguat
 
 **(2) Pilihan Jawaban:**
 A. Speaker → penguat → mikrofon → bunyi
@@ -1410,10 +1254,6 @@ D. Mikrofon → bunyi → speaker → penguat
 
 **(1) Soal:**
 Perbandingan yang tepat antara mikrofon dan pengeras suara adalah...
-A. Keduanya mengubah bunyi menjadi listrik
-B. Mikrofon mengubah bunyi menjadi listrik, sedangkan speaker mengubah listrik menjadi bunyi
-C. Mikrofon mengubah listrik menjadi bunyi, sedangkan speaker mengubah bunyi menjadi listrik
-D. Keduanya mengubah listrik menjadi bunyi
 
 **(2) Pilihan Jawaban:**
 A. Keduanya mengubah bunyi menjadi listrik
@@ -1442,10 +1282,6 @@ D. Keduanya mengubah listrik menjadi bunyi
 
 **(1) Soal:**
 Pada pembangkit listrik tenaga angin (PLTB), energi yang mula-mula digunakan untuk memutar baling-baling adalah...
-A. Energi gerak angin
-B. Energi panas matahari
-C. Energi kimia diesel
-D. Energi nuklir
 
 **(2) Pilihan Jawaban:**
 A. Energi gerak angin
@@ -1474,10 +1310,6 @@ D. Energi nuklir
 
 **(1) Soal:**
 Pembangkit listrik yang memanfaatkan panas dari dalam bumi disebut...
-A. PLTA
-B. PLTS
-C. PLTP (panas bumi/geotermal)
-D. PLTG
 
 **(2) Pilihan Jawaban:**
 A. PLTA
@@ -1506,10 +1338,6 @@ D. PLTG
 
 **(1) Soal:**
 Energi ombak laut dapat dimanfaatkan untuk membangkitkan listrik karena ombak membawa...
-A. Panas api
-B. Energi gerakan air
-C. Garam dapur
-D. Magnet alami
 
 **(2) Pilihan Jawaban:**
 A. Panas api
@@ -1538,10 +1366,6 @@ D. Magnet alami
 
 **(1) Soal:**
 Pembangkit listrik tenaga angin (PLTB) paling cocok dibangun di daerah yang...
-A. Jarang berangin
-B. Berangin kencang dan cukup stabil
-C. Selalu hujan deras
-D. Berawa-rawa tenang
 
 **(2) Pilihan Jawaban:**
 A. Jarang berangin
@@ -1570,10 +1394,6 @@ D. Berawa-rawa tenang
 
 **(1) Soal:**
 Sumber energi berikut yang dianggap TIDAK ramah lingkungan jika dipakai untuk membangkitkan listrik adalah...
-A. Batu bara
-B. Angin
-C. Air sungai
-D. Panas bumi
 
 **(2) Pilihan Jawaban:**
 A. Batu bara
@@ -1602,10 +1422,6 @@ D. Panas bumi
 
 **(1) Soal:**
 Senter dinamo tangan dapat menyala tanpa baterai karena di dalamnya terdapat generator kecil yang...
-A. Diputar oleh tuas sehingga menghasilkan listrik
-B. Dijemur di bawah sinar matahari
-C. Diisi bensin
-D. Dipukul-pukul ke lantai
 
 **(2) Pilihan Jawaban:**
 A. Diputar oleh tuas sehingga menghasilkan listrik
@@ -1634,10 +1450,6 @@ D. Dipukul-pukul ke lantai
 
 **(1) Soal:**
 Korsleting (hubungan singkat) pada instalasi listrik TIDAK berkaitan dengan induksi elektromagnetik karena korsleting adalah...
-A. Proses mengubah gerak menjadi listrik
-B. Jalan kerja transformator
-C. Hubungan langsung dua penghantar bertegangan tanpa hambatan sehingga arus melonjak besar
-D. Pembalikan arah arus oleh komutator
 
 **(2) Pilihan Jawaban:**
 A. Proses mengubah gerak menjadi listrik
@@ -1666,10 +1478,6 @@ D. Pembalikan arah arus oleh komutator
 
 **(1) Soal:**
 Lilitan pada kumparan generator sengaja dibuat banyak karena semakin banyak lilitan maka...
-A. Generator semakin ringan
-B. Arus listrik yang dihasilkan semakin besar
-C. Magnet semakin kuat
-D. Generator tidak perlu diputar
 
 **(2) Pilihan Jawaban:**
 A. Generator semakin ringan
@@ -1698,10 +1506,6 @@ D. Generator tidak perlu diputar
 
 **(1) Soal:**
 Magnet batang berdiri diam di atas meja, lalu sebuah kumparan digerakkan naik-turun di sekitar salah satu ujung magnet. Pada percobaan ini...
-A. Tidak akan pernah timbul arus karena magnetnya diam
-B. Arus timbul hanya jika kumparan tetap diam
-C. Arus tetap dapat timbul karena kumparan dan magnet bergerak relatif sehingga garis gaya magnet yang dilingkupi berubah
-D. Arus timbul hanya jika ada cahaya
 
 **(2) Pilihan Jawaban:**
 A. Tidak akan pernah timbul arus karena magnetnya diam
@@ -1730,10 +1534,6 @@ D. Arus timbul hanya jika ada cahaya
 
 **(1) Soal:**
 Saat listrik dari jaringan tegangan tinggi hendak masuk ke rumah-rumah, PLN memakai perangkat yang menurunkan tegangan. Perangkat itu adalah...
-A. Generator
-B. Motor listrik
-C. Komutator
-D. Transformator step-down
 
 **(2) Pilihan Jawaban:**
 A. Generator
@@ -1762,10 +1562,6 @@ D. Transformator step-down
 
 **(1) Soal:**
 Sebuah kumparan A memiliki 10 lilitan dan kumparan B memiliki 50 lilitan. Keduanya digerakkan magnet yang sama dengan kelajuan yang sama. Pernyataan yang tepat adalah...
-A. B menghasilkan arus lebih kecil karena lilitannya lebih banyak
-B. B menghasilkan arus lebih besar karena lilitannya lebih banyak
-C. Keduanya menghasilkan arus yang sama persis
-D. B tidak menghasilkan arus sama sekali
 
 **(2) Pilihan Jawaban:**
 A. B menghasilkan arus lebih kecil karena lilitannya lebih banyak
@@ -1794,10 +1590,6 @@ D. B tidak menghasilkan arus sama sekali
 
 **(1) Soal:**
 Andi dan Budi menarik magnet yang sama pada kumparan yang identik. Andi menarik magnet dengan cepat, sedangkan Budi menariknya dengan pelan. Lampu yang terhubung pada kumparan Andi dibandingkan lampu Budi akan...
-A. Menyala lebih terang
-B. Menyala lebih redup
-C. Menyala sama terang
-D. Tidak menyala sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Menyala lebih terang
@@ -1826,10 +1618,6 @@ D. Tidak menyala sama sekali
 
 **(1) Soal:**
 Sebuah generator diberi magnet yang kuat, lilitan yang banyak, dan diputar sangat cepat. Dibandingkan generator lain yang magnetnya lemah, lilitannya sedikit, dan putarannya lambat, generator pertama menghasilkan...
-A. Arus yang lebih kecil
-B. Tegangan yang nol
-C. Arus yang sama besar
-D. Arus yang lebih besar
 
 **(2) Pilihan Jawaban:**
 A. Arus yang lebih kecil
@@ -1860,10 +1648,6 @@ D. Arus yang lebih besar
 
 **(1) Soal:**
 Pada percobaan induksi, kapan jarum galvanometer menyimpang paling besar?
-A. Saat magnet digerakkan cepat dan kumparan memiliki banyak lilitan
-B. Saat magnet digerakkan pelan dan kumparan sedikit lilitan
-C. Saat magnet didiamkan di dalam kumparan
-D. Saat magnet dijauhkan sekali lalu tidak digerakkan lagi
 
 **(2) Pilihan Jawaban:**
 A. Saat magnet digerakkan cepat dan kumparan memiliki banyak lilitan
@@ -1892,10 +1676,6 @@ D. Saat magnet dijauhkan sekali lalu tidak digerakkan lagi
 
 **(1) Soal:**
 Sebuah magnet dimasukkan ke dalam kumparan, lalu dikeluarkan, lalu dimasukkan lagi berulang-ulang. Arus yang terjadi pada kawat adalah...
-A. Arus searah yang tetap
-B. Arus bolak-balik yang arahnya berubah-ubah
-C. Tidak ada arus sama sekali
-D. Arus yang selalu nol
 
 **(2) Pilihan Jawaban:**
 A. Arus searah yang tetap
@@ -1924,10 +1704,6 @@ D. Arus yang selalu nol
 
 **(1) Soal:**
 Saat membuat jus, buah menjadi hancur karena pisau blender berputar sangat cepat. Alat ini bekerja karena di dalamnya terdapat...
-A. Generator yang mengubah gerak menjadi listrik
-B. Motor listrik yang mengubah listrik menjadi gerak
-C. Transformator step-up yang menaikkan tegangan
-D. Komutator yang membalik arah arus
 
 **(2) Pilihan Jawaban:**
 A. Generator yang mengubah gerak menjadi listrik
@@ -1956,10 +1732,6 @@ D. Komutator yang membalik arah arus
 
 **(1) Soal:**
 Kulkas dapat mendinginkan isinya karena kompresor di bagian belakangnya bekerja dengan memakai...
-A. Motor listrik (listrik menjadi gerak untuk memompa zat pendingin)
-B. Generator (gerak menjadi listrik)
-C. Api pembakaran
-D. Angin dari kipas dapur
 
 **(2) Pilihan Jawaban:**
 A. Motor listrik (listrik menjadi gerak untuk memompa zat pendingin)
@@ -1988,10 +1760,6 @@ D. Angin dari kipas dapur
 
 **(1) Soal:**
 Dinamo sepeda dipasang agar menempel pada ban. Mengapa lampu hanya menyala saat sepeda berjalan?
-A. Karena baterai baru dinyalakan saat sepeda jalan
-B. Karena magnet di dalam dinamo selalu diam
-C. Karena ban yang berputar memutar bagian dinamo sehingga timbul listrik (induksi)
-D. Karena kabelnya putus saat sepeda berhenti
 
 **(2) Pilihan Jawaban:**
 A. Karena baterai baru dinyalakan saat sepeda jalan
@@ -2020,10 +1788,6 @@ D. Karena kabelnya putus saat sepeda berhenti
 
 **(1) Soal:**
 Mobil listrik digerakkan oleh motor listrik yang mendapat energi dari baterai. Perubahan energi yang benar saat mobil melaju adalah...
-A. Gerak → listrik → baterai
-B. Listrik (baterai) → motor → gerak roda
-C. Bahan bakar dibakar → gerak
-D. Listrik → panas → es
 
 **(2) Pilihan Jawaban:**
 A. Gerak → listrik → baterai
@@ -2052,10 +1816,6 @@ D. Listrik → panas → es
 
 **(1) Soal:**
 Sebuah generator secara alami menghasilkan arus bolak-balik. Agar lampu yang terhubung mendapat arus yang selalu searah (DC), generator dilengkapi dengan...
-A. Komutator yang membalik arah arus pada saat yang tepat
-B. Transformator step-up
-C. Dua magnet yang berdiam
-D. Kabel yang sangat panjang
 
 **(2) Pilihan Jawaban:**
 A. Komutator yang membalik arah arus pada saat yang tepat
@@ -2084,10 +1844,6 @@ D. Kabel yang sangat panjang
 
 **(1) Soal:**
 PLN menyalurkan listrik dari pembangkit ke kota dengan tegangan sangat tinggi. Alasan utamanya adalah...
-A. Agar energi listrik yang hilang di kabel selama perjalanan jauh menjadi kecil
-B. Agar kabelnya lebih mudah dipasang di tiang
-C. Karena tegangan tinggi tidak berbahaya
-D. Karena alat-alat rumah memang memakai tegangan tinggi
 
 **(2) Pilihan Jawaban:**
 A. Agar energi listrik yang hilang di kabel selama perjalanan jauh menjadi kecil
@@ -2116,10 +1872,6 @@ D. Karena alat-alat rumah memang memakai tegangan tinggi
 
 **(1) Soal:**
 Di dekat pembangkit listrik terdapat menara transmisi yang memakai transformator untuk...
-A. Menurunkan tegangan listrik
-B. Menyimpan listrik dalam baterai besar
-C. Menaikkan tegangan listrik sebelum dikirim ke jarak jauh
-D. Mengubah listrik menjadi angin
 
 **(2) Pilihan Jawaban:**
 A. Menurunkan tegangan listrik
@@ -2148,10 +1900,6 @@ D. Mengubah listrik menjadi angin
 
 **(1) Soal:**
 Di gardu dekat perkampungan, PLN memasang transformator step-down agar...
-A. Tegangan naik supaya listrik semakin kuat
-B. Tegangan turun ke sekitar 220 V sehingga aman bagi peralatan rumah
-C. Arus listrik berhenti mengalir
-D. Listrik berubah menjadi gerakan kincir
 
 **(2) Pilihan Jawaban:**
 A. Tegangan naik supaya listrik semakin kuat
@@ -2180,10 +1928,6 @@ D. Listrik berubah menjadi gerakan kincir
 
 **(1) Soal:**
 Pada transformator step-up, jumlah lilitan kumparan sekunder (keluaran) dibandingkan kumparan primer (masukan) adalah...
-A. Lebih sedikit
-B. Lebih banyak
-C. Sama persis
-D. Nol
 
 **(2) Pilihan Jawaban:**
 A. Lebih sedikit
@@ -2212,10 +1956,6 @@ D. Nol
 
 **(1) Soal:**
 Sebuah baterai 9 V dihubungkan ke sebuah transformator. Keluaran transformator tetap sekitar jumlah tegangan baterai (tidak ikut naik atau turun sewajarnya). Penyebabnya adalah...
-A. Baterai terlalu besar
-B. Baterai terlalu kecil
-C. Transformatornya rusak
-D. Transformator hanya bekerja pada arus bolak-balik, sedangkan baterai memberi arus searah yang tetap sehingga tidak ada perubahan medan magnet
 
 **(2) Pilihan Jawaban:**
 A. Baterai terlalu besar
@@ -2244,10 +1984,6 @@ D. Transformator hanya bekerja pada arus bolak-balik, sedangkan baterai memberi 
 
 **(1) Soal:**
 Kompor induksi dinilai lebih aman daripada kompor gas karena...
-A. Memakai bahan bakar gas
-B. Tidak ada api dan permukaan kompornya tidak ikut panas (panas timbul di dasar wajan)
-C. Memakai bensin sebagai bahan bakar
-D. Tidak memakai listrik sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Memakai bahan bakar gas
@@ -2276,10 +2012,6 @@ D. Tidak memakai listrik sama sekali
 
 **(1) Soal:**
 Kartu akses tanpa baterai dapat dibaca oleh mesin dari jarak beberapa sentimeter. Keistimewaan kartu tersebut adalah...
-A. Kumparan kecil di dalamnya menerima energi induksi dari mesin pembaca
-B. Berisi baterai tipis yang tahan puluhan tahun
-C. Terbuat dari kertas yang dapat menghantarkan listrik
-D. Mengeluarkan bunyi peluit saat dibaca
 
 **(2) Pilihan Jawaban:**
 A. Kumparan kecil di dalamnya menerima energi induksi dari mesin pembaca
@@ -2308,10 +2040,6 @@ D. Mengeluarkan bunyi peluit saat dibaca
 
 **(1) Soal:**
 Alarm anti maling pintu berbunyi saat pintu dibuka sehingga magnet di daun pintu menjauh dari sensor di kusen. Proses yang membuat sensor tersebut bekerja erat kaitannya dengan...
-A. Pemanasan logam oleh gesekan
-B. Pengaruh perubahan kedudukan medan magnet terhadap piranti elektronik pada sensor
-C. Tegangan DC dari baterai saja tanpa magnet
-D. Derit engsel pintu
 
 **(2) Pilihan Jawaban:**
 A. Pemanasan logam oleh gesekan
@@ -2340,10 +2068,6 @@ D. Derit engsel pintu
 
 **(1) Soal:**
 Saat berbicara di depan ponsel, selaput mikrofon bergetar dan kumparan kecil ikut bergetar di sekitar magnet. Hasil dari peristiwa tersebut adalah...
-A. Sinyal listrik yang berubah-ubah mengikuti suara
-B. Bunyi yang langsung mengecil
-C. Cahaya yang keluar dari kecil mikrofon
-D. Panas yang menyengat
 
 **(2) Pilihan Jawaban:**
 A. Sinyal listrik yang berubah-ubah mengikuti suara
@@ -2372,10 +2096,6 @@ D. Panas yang menyengat
 
 **(1) Soal:**
 Pengeras suara disebut 'kebalikan dari mikrofon' karena speaker...
-A. Mengubah bunyi menjadi listrik
-B. Membuat listrik menjadi dingin
-C. Mengubah sinyal listrik menjadi getaran (bunyi)
-D. Memancarkan cahaya dari listrik
 
 **(2) Pilihan Jawaban:**
 A. Mengubah bunyi menjadi listrik
@@ -2404,10 +2124,6 @@ D. Memancarkan cahaya dari listrik
 
 **(1) Soal:**
 Urutan perubahan energi pada PLTA dari air waduk hingga menjadi listrik yang benar adalah...
-A. Energi potensial air → energi kinetik air → turbin → energi listrik (generator)
-B. Energi listrik → energi potensial air
-C. Energi kimia batu → energi listrik
-D. Energi listrik → energi gerak turbin
 
 **(2) Pilihan Jawaban:**
 A. Energi potensial air → energi kinetik air → turbin → energi listrik (generator)
@@ -2436,10 +2152,6 @@ D. Energi listrik → energi gerak turbin
 
 **(1) Soal:**
 Pada PLTU, urutan kerja yang benar adalah...
-A. Uap → batu bara → turbin → generator
-B. Batu bara dibakar → air mendidih menjadi uap → uap memutar turbin → generator → listrik
-C. Angin → baling-baling → turbin → listrik
-D. Air hujan → pompa → baterai
 
 **(2) Pilihan Jawaban:**
 A. Uap → batu bara → turbin → generator
@@ -2468,10 +2180,6 @@ D. Air hujan → pompa → baterai
 
 **(1) Soal:**
 Pada pembangkit listrik tenaga angin, bilah kincir sengaja menghadap ke arah datangnya angin agar...
-A. Kincir tetap diam
-B. Bilah tidak cepat rusak
-C. Energi gerak angin ditangkap sebanyak mungkin untuk memutar turbin → generator
-D. Bayangan kincir tidak mengganggu rumah tetangga
 
 **(2) Pilihan Jawaban:**
 A. Kincir tetap diam
@@ -2500,10 +2208,6 @@ D. Bayangan kincir tidak mengganggu rumah tetangga
 
 **(1) Soal:**
 Pada PLTP (pembangkit listrik tenaga panas bumi), hal yang memutar turbin adalah...
-A. Angin
-B. Air hujan
-C. Cahaya matahari
-D. Uap air dari panas bumi
 
 **(2) Pilihan Jawaban:**
 A. Angin
@@ -2532,10 +2236,6 @@ D. Uap air dari panas bumi
 
 **(1) Soal:**
 Kesamaan utama antara PLTA dan PLTB adalah...
-A. Keduanya memakai gerakan untuk memutar turbin yang menggerakkan generator
-B. Keduanya membakar batu bara
-C. Keduanya memakai minyak bumi
-D. Keduanya tidak memakai generator
 
 **(2) Pilihan Jawaban:**
 A. Keduanya memakai gerakan untuk memutar turbin yang menggerakkan generator
@@ -2564,10 +2264,6 @@ D. Keduanya tidak memakai generator
 
 **(1) Soal:**
 Dua generator tangan diputar oleh dua siswa. Generator P diputar cepat, sedangkan generator Q diputar pelan. Kesimpulan yang paling tepat dari percobaan itu adalah...
-A. Lampu pada keduanya menyala sama terang
-B. Lampu pada generator P menyala lebih terang karena GGL induksinya lebih besar
-C. Lampu pada generator Q menyala lebih terang
-D. Kedua lampu tidak menyala sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Lampu pada keduanya menyala sama terang
@@ -2596,10 +2292,6 @@ D. Kedua lampu tidak menyala sama sekali
 
 **(1) Soal:**
 Untuk menghasilkan GGL induksi yang paling besar, cara yang paling tepat adalah...
-A. Memakai magnet lemah dengan lilitan sedikit
-B. Memakai magnet kuat, lilitan banyak, dan digerakkan cepat
-C. Mendiamkan magnet di dalam kumparan
-D. Mengurangi lilitan dan mempercepat gerak saja tanpa magnet kuat
 
 **(2) Pilihan Jawaban:**
 A. Memakai magnet lemah dengan lilitan sedikit
@@ -2630,10 +2322,6 @@ D. Mengurangi lilitan dan mempercepat gerak saja tanpa magnet kuat
 
 **(1) Soal:**
 Pernyataan "magnet yang diam di dalam kumparan akan menghasilkan arus listrik terus-menerus" adalah...
-A. Salah, karena tanpa perubahan jumlah garis gaya magnet tidak timbul arus induksi
-B. Benar, karena magnet selalu mengeluarkan listrik
-C. Benar, karena kawat kumparan menarik listrik dari udara
-D. Salah, karena kumparan harus diisi baterai
 
 **(2) Pilihan Jawaban:**
 A. Salah, karena tanpa perubahan jumlah garis gaya magnet tidak timbul arus induksi
@@ -2662,10 +2350,6 @@ D. Salah, karena kumparan harus diisi baterai
 
 **(1) Soal:**
 Dinamo sepeda menghasilkan arus bolak-balik (AC). Meskipun demikian, lampunya tetap menyala karena...
-A. Lampu akan mati jika dialiri AC
-B. Arus bolak-balik tetap dapat menyalakan lampu karena arah arusnya berganti sangat cepat
-C. Baterai di dalamnya yang menyalakan lampu
-D. Arus AC berubah menjadi DC di dalam lampu
 
 **(2) Pilihan Jawaban:**
 A. Lampu akan mati jika dialiri AC
@@ -2694,10 +2378,6 @@ D. Arus AC berubah menjadi DC di dalam lampu
 
 **(1) Soal:**
 Jika jumlah lilitan kumparan generator dikurangi menjadi seperempatnya dengan putaran yang sama, efek pada lampu yang terhubung adalah...
-A. Menyala lebih terang
-B. Tetap sama terangnya
-C. Langsung padam selamanya
-D. Menyala lebih redup karena GGL induksi mengecil
 
 **(2) Pilihan Jawaban:**
 A. Menyala lebih terang
@@ -2726,10 +2406,6 @@ D. Menyala lebih redup karena GGL induksi mengecil
 
 **(1) Soal:**
 Seorang siswa membuat tiga kumparan dengan 20, 40, dan 60 lilitan. Magnet yang sama digoyangkan dengan kelajuan yang sama di depan masing-masing kumparan yang terhubung lampu. Hasilnya lampu pada kumparan 60 lilitan paling terang. Simpulan yang paling tepat adalah...
-A. Jumlah lilitan tidak berpengaruh pada nyala lampu
-B. Makin banyak lilitan, GGL induksi makin besar sehingga lampu makin terang
-C. Semakin sedikit lilitan, lampu semakin terang
-D. Lampu menyala karena magnet didiamkan
 
 **(2) Pilihan Jawaban:**
 A. Jumlah lilitan tidak berpengaruh pada nyala lampu
@@ -2759,10 +2435,6 @@ D. Lampu menyala karena magnet didiamkan
 
 **(1) Soal:**
 Pada percobaan pengaruh jumlah lilitan terhadap GGL induksi, hal yang HARUS dipastikan sama agar hasilnya adil adalah...
-A. Kekuatan magnet, kecepatan gerak magnet, dan jenis lampu pengamat dipastikan sama
-B. Jumlah lilitan diganti-ganti di tengah pengukuran
-C. Lampu diganti dengan bohlam yang berbeda tiap pengukuran
-D. Magnet diganti yang lebih kuat tiap kali lilitan bertambah
 
 **(2) Pilihan Jawaban:**
 A. Kekuatan magnet, kecepatan gerak magnet, dan jenis lampu pengamat dipastikan sama
@@ -2791,10 +2463,6 @@ D. Magnet diganti yang lebih kuat tiap kali lilitan bertambah
 
 **(1) Soal:**
 Seorang siswa ingin membuat lampu dinamo tangan menyala paling terang. Cara yang paling tepat adalah...
-A. Memakai magnet dari plastik mainan
-B. Mengurangi jumlah lilitan kumparan
-C. Menambah jumlah lilitan, memakai magnet lebih kuat, dan memutar lebih cepat
-D. Menaruh dinamo di tempat gelap supaya lampu terlihat terang
 
 **(2) Pilihan Jawaban:**
 A. Memakai magnet dari plastik mainan
@@ -2823,10 +2491,6 @@ D. Menaruh dinamo di tempat gelap supaya lampu terlihat terang
 
 **(1) Soal:**
 Pernyataan "magnet yang kuat pasti menghasilkan arus besar meskipun tidak digerakkan" adalah...
-A. Benar, karena magnet kuat otomatis mengeluarkan listrik
-B. Benar, asalkan kumparannya besar
-C. Benar, asalkan lilitannya sedikit
-D. Salah, karena magnet harus bergerak relatif terhadap kumparan agar timbul GGL induksi
 
 **(2) Pilihan Jawaban:**
 A. Benar, karena magnet kuat otomatis mengeluarkan listrik
@@ -2855,10 +2519,6 @@ D. Salah, karena magnet harus bergerak relatif terhadap kumparan agar timbul GGL
 
 **(1) Soal:**
 Piliha pernyataan yang PALING benar tentang GGL induksi:
-A. GGL induksi hanya bergantung pada warna kawat kumparan
-B. GGL induksi makin kecil jika kumparan makin pendek lilitannya
-C. GGL induksi makin besar jika jumlah garis gaya magnet yang dilingkupi kumparan berubah lebih cepat
-D. GGL induksi tidak dipengaruhi oleh jumlah lilitan
 
 **(2) Pilihan Jawaban:**
 A. GGL induksi hanya bergantung pada warna kawat kumparan
@@ -2887,10 +2547,6 @@ D. GGL induksi tidak dipengaruhi oleh jumlah lilitan
 
 **(1) Soal:**
 Lacak alur listrik PLTA hingga menyalakan lampu rumah secara benar:
-A. Air → turbin → generator → trafo step-up → jaringan transmisi → gardu (trafo step-down) → rumah → lampu
-B. Trafo step-down → air → generator → rumah → lampu
-C. Generator → air → turbin → rumah → lampu
-D. Air → generator → turbin → jaringan → lampu rumah
 
 **(2) Pilihan Jawaban:**
 A. Air → turbin → generator → trafo step-up → jaringan transmisi → gardu (trafo step-down) → rumah → lampu
@@ -2919,10 +2575,6 @@ D. Air → generator → turbin → jaringan → lampu rumah
 
 **(1) Soal:**
 Penyaluran listrik jarak jauh menggunakan arus bolak-balik (AC), bukan arus searah (DC). Alasan utamanya adalah...
-A. Karena arus AC tidak berbahaya bagi manusia
-B. Karena hanya AC yang bisa dinaikkan/diturunkan tegangannya oleh transformator sehingga kerugian energi dapat ditekan
-C. Karena DC tidak dapat mengalir di kabel
-D. Karena AC lebih murah diproduksi dari angin saja
 
 **(2) Pilihan Jawaban:**
 A. Karena arus AC tidak berbahaya bagi manusia
@@ -2951,10 +2603,6 @@ D. Karena AC lebih murah diproduksi dari angin saja
 
 **(1) Soal:**
 Jika transformator step-down di gardu dekat rumah rusak sehingga tegangan tinggi langsung masuk ke rumah, akibat yang paling mungkin terjadi adalah...
-A. Lampu menyala lebih terang dan menyenangkan
-B. Tidak ada pengaruh apa pun
-C. Peralatan listrik rumah rusak atau berbahaya karena tegangannya jauh melampaui kemampuan alat
-D. Listrik berubah menjadi gerakan kincir mini
 
 **(2) Pilihan Jawaban:**
 A. Lampu menyala lebih terang dan menyenangkan
@@ -2983,10 +2631,6 @@ D. Listrik berubah menjadi gerakan kincir mini
 
 **(1) Soal:**
 Pernyataan "korsleting di rumah terjadi karena induksi elektromagnetik dari kompor induksi" lebih tepat dinilai sebagai...
-A. Salah, karena korsleting adalah hubungan langsung antar kabel bertegangan sehingga arus membesar — bukan proses induksi
-B. Benar, karena korsleting memakai kumparan dan magnet
-C. Benar, karena trafo di dapur menghasilkan korsleting
-D. Salah, karena korsleting hanya bisa terjadi di PLTA
 
 **(2) Pilihan Jawaban:**
 A. Salah, karena korsleting adalah hubungan langsung antar kabel bertegangan sehingga arus membesar — bukan proses induksi
@@ -3015,10 +2659,6 @@ D. Salah, karena korsleting hanya bisa terjadi di PLTA
 
 **(1) Soal:**
 Dalam percobaan, magnet A dua kali lebih kuat daripada magnet B. Keduanya digerakkan dengan kelajuan yang sama pada dua kumparan identik. Hasilnya GGL pada kumparan A lebih besar. Simpulan yang paling tepat adalah...
-A. Kekuatan magnet tidak berpengaruh pada GGL
-B. Semakin kuat magnet, semakin besar GGL induksi yang timbul jika digerakkan pada kumparan yang sama
-C. Kelajuan magnet adalah satu-satunya faktor GGL
-D. Kumparan menentukan seluruh besar GGL
 
 **(2) Pilihan Jawaban:**
 A. Kekuatan magnet tidak berpengaruh pada GGL
@@ -3047,10 +2687,6 @@ D. Kumparan menentukan seluruh besar GGL
 
 **(1) Soal:**
 Diketahui empat alat: (1) kipas angin, (2) dinamo sepeda, (3) transformator gardu, (4) blender. Alat yang mengubah energi gerak menjadi energi listrik adalah...
-A. Kipas angin dan blender
-B. Dinamo sepeda
-C. Semua alat di atas
-D. Tidak ada satu pun alat di atas
 
 **(2) Pilihan Jawaban:**
 A. Kipas angin dan blender
@@ -3079,10 +2715,6 @@ D. Tidak ada satu pun alat di atas
 
 **(1) Soal:**
 Pada sistem pengeras suara di sekolah, pembicara berbicara → sinyal listrik → penguat (amplifier) → getaran → bunyi mengeras. Bagian yang pertama kali mengubah getaran bunyi menjadi sinyal listrik adalah...
-A. Mikrofon
-B. Penguat (amplifier)
-C. Speaker
-D. Kabel konektor
 
 **(2) Pilihan Jawaban:**
 A. Mikrofon
@@ -3111,10 +2743,6 @@ D. Kabel konektor
 
 **(1) Soal:**
 Pada generator DC, komutator membalik arah arus pada saat yang tepat. Jika komutator dilepas, yang terjadi pada lampu yang terhubung ke generator itu adalah...
-A. Tidak ada perubahan sama sekali
-B. Lampu bertambah terang dua kali lipat
-C. Arus yang keluar menjadi bolak-balik (arahnya berubah-ubah) sehingga lampu menyala berkedip
-D. Lampu menyala lebih dingin
 
 **(2) Pilihan Jawaban:**
 A. Tidak ada perubahan sama sekali
@@ -3143,10 +2771,6 @@ D. Lampu menyala lebih dingin
 
 **(1) Soal:**
 Urutan perjalanan listrik dari pembangkit hingga rumah yang BENAR adalah...
-A. Trafo step-down → jaringan SUTET → trafo step-up → rumah
-B. Trafo step-up → jaringan SUTET → gardu (trafo step-down) → rumah
-C. Rumah → gardu → SUTET → pembangkit
-D. Trafo step-up → rumah → gardu step-down
 
 **(2) Pilihan Jawaban:**
 A. Trafo step-down → jaringan SUTET → trafo step-up → rumah
@@ -3175,10 +2799,6 @@ D. Trafo step-up → rumah → gardu step-down
 
 **(1) Soal:**
 Sebuah kotak diuji: jika porosnya diputar dengan cepat, kotak itu menghasilkan arus listrik; jika tidak diputar, tidak ada arus. Kotak tersebut paling mungkin adalah...
-A. Generator (dinamo)
-B. Transformator step-down
-C. Motor listrik
-D. Komutator
 
 **(2) Pilihan Jawaban:**
 A. Generator (dinamo)
@@ -3207,10 +2827,6 @@ D. Komutator
 
 **(1) Soal:**
 Dinamo sepeda dipasang agar menyentuh ban. Jika dinamo terlepas sehingga tidak lagi menyentuh ban saat sepeda sedang melaju, lampu akan...
-A. Menyala semakin terang
-B. Tetap menyala seperti biasa
-C. Menyala terus karena baterai cadangan
-D. Padam karena ban tidak lagi memutar dinamo sehingga tidak ada induksi
 
 **(2) Pilihan Jawaban:**
 A. Menyala semakin terang
@@ -3244,10 +2860,6 @@ Periksa pernyataan berikut:
 (iii) Transformator bekerja pada arus searah (DC);
 (iv) Korsleting tidak berkaitan dengan induksi elektromagnetik.
 Pernyataan yang benar adalah...
-A. (i), (ii), dan (iv)
-B. (ii) dan (iii)
-C. (i), (iii), dan (iv)
-D. Hanya (iii)
 
 **(2) Pilihan Jawaban:**
 A. (i), (ii), dan (iv)
@@ -3277,10 +2889,6 @@ D. Hanya (iii)
 
 **(1) Soal:**
 Sebuah desa nelayan di tepi pantai terkena angin laut yang kencang hampir sepanjang tahun. Sumber energi terbarukan yang paling cocok untuk membangkitkan listrik di desa itu adalah...
-A. Angin (dengan kincir angin / PLTB)
-B. Batu bara dari tambang jauh
-C. Bensin untuk mesin diesel
-D. Kerosin untuk lampu petromaks
 
 **(2) Pilihan Jawaban:**
 A. Angin (dengan kincir angin / PLTB)
@@ -3310,10 +2918,6 @@ D. Kerosin untuk lampu petromaks
 
 **(1) Soal:**
 Sebuah transformator memiliki kumparan primer sebanyak 100 lilitan dan kumparan sekunder 20 lilitan. Tegangan masuk pada primer 220 V. Dengan anggapan transformator ideal (perbandingan tegangan mengikuti perbandingan lilitan), tegangan keluarannya kira-kira...
-A. 44 V
-B. 5 V
-C. 1.100 V
-D. 220 V
 
 **(2) Pilihan Jawaban:**
 A. 44 V
@@ -3342,10 +2946,6 @@ D. 220 V
 
 **(1) Soal:**
 Setelah mempelajari induksi elektromagnetik, pernyataan yang paling tepat untuk merangkum seluruh topik adalah...
-A. Induksi hanya terjadi jika magnet didiamkan di tengah kumparan
-B. Energi listrik hanya dapat dibuat dari batu bara
-C. Generator dan motor mengubah energi dalam arah yang sama
-D. Induksi elektromagnetik terjadi saat ada perubahan garis gaya magnet yang dilingkupi kumparan, dan menjadi dasar kerja generator, dinamo, transformator, serta mikrofon/speaker
 
 **(2) Pilihan Jawaban:**
 A. Induksi hanya terjadi jika magnet didiamkan di tengah kumparan

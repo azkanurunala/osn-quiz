@@ -170,10 +170,6 @@ Langkah 3: Amilum berasal dari glukosa hasil fotosintesis.
 
 **(1) Soal:**
 Proses pembuatan makanan oleh tumbuhan hijau menggunakan cahaya matahari disebut...
-A. Fotosintesis
-B. Respirasi
-C. Transpirasi
-D. Evaporasi
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis
@@ -202,10 +198,6 @@ D. Evaporasi
 
 **(1) Soal:**
 Bagian tubuh tumbuhan yang paling banyak melakukan fotosintesis adalah...
-A. Akar
-B. Batang kayu
-C. Daun
-D. Bunga
 
 **(2) Pilihan Jawaban:**
 A. Akar
@@ -234,10 +226,6 @@ D. Bunga
 
 **(1) Soal:**
 Zat hijau daun yang berfungsi menangkap cahaya matahari pada fotosintesis adalah...
-A. Klorofil
-B. Kloroplas
-C. Amilum
-D. Glukosa
 
 **(2) Pilihan Jawaban:**
 A. Klorofil
@@ -266,10 +254,6 @@ D. Glukosa
 
 **(1) Soal:**
 Organel sel tempat berlangsungnya proses fotosintesis adalah...
-A. Mitokondria
-B. Kloroplas
-C. Ribosom
-D. Vakuola
 
 **(2) Pilihan Jawaban:**
 A. Mitokondria
@@ -298,10 +282,6 @@ D. Vakuola
 
 **(1) Soal:**
 Bahan-bahan (bahan baku) yang dibutuhkan tumbuhan untuk fotosintesis adalah...
-A. Glukosa dan oksigen
-B. Karbon dioksida dan air
-C. Amilum dan klorofil
-D. Gula dan garam mineral
 
 **(2) Pilihan Jawaban:**
 A. Glukosa dan oksigen
@@ -330,10 +310,6 @@ D. Gula dan garam mineral
 
 **(1) Soal:**
 Hasil fotosintesis yang menjadi makanan bagi tumbuhan adalah...
-A. Oksigen
-B. Karbon dioksida
-C. Glukosa
-D. Air
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -362,10 +338,6 @@ D. Air
 
 **(1) Soal:**
 Gas yang dilepaskan tumbuhan ke udara sebagai hasil fotosintesis adalah...
-A. Karbon dioksida
-B. Nitrogen
-C. Oksigen
-D. Hidrogen
 
 **(2) Pilihan Jawaban:**
 A. Karbon dioksida
@@ -394,10 +366,6 @@ D. Hidrogen
 
 **(1) Soal:**
 Karbon dioksida yang dibutuhkan fotosintesis masuk ke daun melalui...
-A. Xilem
-B. Stomata
-C. Floem
-D. Rambut akar
 
 **(2) Pilihan Jawaban:**
 A. Xilem
@@ -426,10 +394,6 @@ D. Rambut akar
 
 **(1) Soal:**
 Air yang dibutuhkan untuk fotosintesis diserap oleh tumbuhan melalui...
-A. Stomata
-B. Rambut akar
-C. Daun
-D. Bunga
 
 **(2) Pilihan Jawaban:**
 A. Stomata
@@ -458,10 +422,6 @@ D. Bunga
 
 **(1) Soal:**
 Gula/glukosa hasil fotosintesis yang tidak langsung dipakai akan disimpan dalam bentuk...
-A. Oksigen
-B. Amilum (pati)
-C. Karbon dioksida
-D. Klorofil
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -490,10 +450,6 @@ D. Klorofil
 
 **(1) Soal:**
 Perhatikan pernyataan: "Fotosintesis mengubah energi cahaya menjadi energi kimia berupa makanan." Pernyataan tersebut...
-A. Salah, karena energi cahaya berubah menjadi panas
-B. Benar, karena makanan (glukosa) menyimpan energi kimia
-C. Salah, karena fotosintesis tidak membutuhkan cahaya
-D. Benar, karena cahaya menjadi warna hijau daun
 
 **(2) Pilihan Jawaban:**
 A. Salah, karena energi cahaya berubah menjadi panas
@@ -522,10 +478,6 @@ D. Benar, karena cahaya menjadi warna hijau daun
 
 **(1) Soal:**
 Tumbuhan air (Hydrilla) yang diletakkan di gelas berisi air dan di bawah terik matahari akan mengeluarkan...
-A. Gelembung oksigen
-B. Gelembung karbon dioksida
-C. Tetesan air
-D. Butiran tanah
 
 **(2) Pilihan Jawaban:**
 A. Gelembung oksigen
@@ -554,10 +506,6 @@ D. Butiran tanah
 
 **(1) Soal:**
 Pada percobaan Ingenhousz, semakin kuat cahaya matahari yang menerpa, maka jumlah gelembung...
-A. Semakin sedikit
-B. Semakin banyak
-C. Tetap tidak berubah
-D. Berhenti sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Semakin sedikit
@@ -586,10 +534,6 @@ D. Berhenti sama sekali
 
 **(1) Soal:**
 Jika tabung berisi Hydrilla diletakkan di tempat gelap, yang terjadi adalah...
-A. Gelembung semakin banyak
-B. Gelembung berhenti/tidak muncul
-C. Hydrilla berubah menjadi merah
-D. Hydrilla menyerap oksigen berlebih
 
 **(2) Pilihan Jawaban:**
 A. Gelembung semakin banyak
@@ -618,10 +562,6 @@ D. Hydrilla menyerap oksigen berlebih
 
 **(1) Soal:**
 Untuk membuktikan bahwa gelembung pada percobaan Ingenhousz adalah oksigen, cara yang tepat adalah...
-A. Mendekatkan bara api → bara menyala kembali
-B. Meniup gas tersebut ke kertas lakmus
-C. Menuang ke gelas berisi air panas
-D. Membiarkan gas di dalam gelas tertutup
 
 **(2) Pilihan Jawaban:**
 A. Mendekatkan bara api → bara menyala kembali
@@ -650,10 +590,6 @@ D. Membiarkan gas di dalam gelas tertutup
 
 **(1) Soal:**
 Tanaman yang diletakkan di tempat yang sangat gelap dalam waktu lama akan...
-A. Tumbuh lebih hijau dan subur
-B. Menjadi pucat/kuning dan pertumbuhannya lambat
-C. Berbunga lebih cepat
-D. Berubah menjadi akar semua
 
 **(2) Pilihan Jawaban:**
 A. Tumbuh lebih hijau dan subur
@@ -682,10 +618,6 @@ D. Berubah menjadi akar semua
 
 **(1) Soal:**
 Dua pot tanaman sejenis: Pot A di jendela terang, Pot B di lemari gelap. Setelah seminggu, dugaan yang paling tepat adalah...
-A. Pot A tumbuh lebat hijau; Pot B pucat dan lemas
-B. Pot B tumbuh lebih subur karena tenang
-C. Keduanya tumbuh sama
-D. Pot A mengering karena cahaya berlebih
 
 **(2) Pilihan Jawaban:**
 A. Pot A tumbuh lebat hijau; Pot B pucat dan lemas
@@ -714,10 +646,6 @@ D. Pot A mengering karena cahaya berlebih
 
 **(1) Soal:**
 Pada malam hari, laju fotosintesis tumbuhan...
-A. Meningkat pesat
-B. Berhenti/menurun drastis karena tidak ada cahaya
-C. Tetap sama seperti siang
-D. Mengganti dengan perakaran
 
 **(2) Pilihan Jawaban:**
 A. Meningkat pesat
@@ -746,10 +674,6 @@ D. Mengganti dengan perakaran
 
 **(1) Soal:**
 Sinar matahari pagi dan lampu kamar dapat digunakan tumbuhan untuk fotosintesis karena keduanya...
-A. Mengandung cahaya (energi) yang diserap klorofil
-B. Mengandung karbon dioksida
-C. Berupa cahaya hijau
-D. Mengandung oksigen
 
 **(2) Pilihan Jawaban:**
 A. Mengandung cahaya (energi) yang diserap klorofil
@@ -778,10 +702,6 @@ D. Mengandung oksigen
 
 **(1) Soal:**
 Kegunaan fotosintesis bagi manusia dan hewan adalah...
-A. Menghasilkan air bersih
-B. Menghasilkan oksigen dan makanan
-C. Menghasilkan nitrogen untuk tanah
-D. Membuat tanah subur
 
 **(2) Pilihan Jawaban:**
 A. Menghasilkan air bersih
@@ -810,10 +730,6 @@ D. Membuat tanah subur
 
 **(1) Soal:**
 Larutan iodium/iodin yang diteteskan pada bahan yang mengandung amilum akan berubah warna menjadi...
-A. Merah muda
-B. Biru kehitaman
-C. Kuning
-D. Hijau
 
 **(2) Pilihan Jawaban:**
 A. Merah muda
@@ -842,10 +758,6 @@ D. Hijau
 
 **(1) Soal:**
 Sebelum diuji dengan iodium, daun harus direndam dalam alkohol yang dipanaskan. Tujuan langkah ini adalah...
-A. Melarutkan klorofil agar warna daun tidak mengganggu pengamatan
-B. Membuat daun lebih hijau
-C. Menambah amilum pada daun
-D. Menutup stomata
 
 **(2) Pilihan Jawaban:**
 A. Melarutkan klorofil agar warna daun tidak mengganggu pengamatan
@@ -874,10 +786,6 @@ D. Menutup stomata
 
 **(1) Soal:**
 Pada percobaan Sachs, daun dicabut cadangan patinya dengan cara...
-A. Disiram air garam
-B. Diletakkan di tempat gelap selama kurang lebih sehari
-C. Ditetesi iodium
-D. Direndam dalam alkohol
 
 **(2) Pilihan Jawaban:**
 A. Disiram air garam
@@ -906,10 +814,6 @@ D. Direndam dalam alkohol
 
 **(1) Soal:**
 Pada percobaan Sachs, bagian daun yang ditutupi kertas (tidak terkena cahaya) setelah ditetesi iodium akan...
-A. Berwarna biru kehitaman
-B. Tetap kuning/pucat (tidak berubah biru)
-C. Berwarna merah
-D. Berwarna hijau pekat
 
 **(2) Pilihan Jawaban:**
 A. Berwarna biru kehitaman
@@ -938,10 +842,6 @@ D. Berwarna hijau pekat
 
 **(1) Soal:**
 Pada percobaan Sachs, bagian daun yang terkena cahaya (tidak ditutup) setelah ditetesi iodium akan...
-A. Tetap kuning
-B. Berubah biru kehitaman
-C. Berubah merah
-D. Berubah hijau tua
 
 **(2) Pilihan Jawaban:**
 A. Tetap kuning
@@ -970,10 +870,6 @@ D. Berubah hijau tua
 
 **(1) Soal:**
 Urutan langkah yang tepat pada percobaan Sachs (uji amilum) adalah...
-A. Gelapkan → tutup sebagian → sinari → rebus → alkohol → tetes iodium
-B. Tetes iodium → gelapkan → rebus → alkohol → sinari
-C. Sinari → iodium → rebus → tutup → alkohol
-D. Rebus → sinari → alkohol → iodium → gelapkan
 
 **(2) Pilihan Jawaban:**
 A. Gelapkan → tutup sebagian → sinari → rebus → alkohol → tetes iodium
@@ -1002,10 +898,6 @@ D. Rebus → sinari → alkohol → iodium → gelapkan
 
 **(1) Soal:**
 Pada percobaan uji amilum, daun direbus terlebih dahulu. Tujuan perebusan adalah...
-A. Melarutkan klorofil
-B. Membunuh sel / menghentikan kegiatan sel agar pati tidak berpindah
-C. Menambah kadar air daun
-D. Membuka stomata lebar-lebar
 
 **(2) Pilihan Jawaban:**
 A. Melarutkan klorofil
@@ -1034,10 +926,6 @@ D. Membuka stomata lebar-lebar
 
 **(1) Soal:**
 Perhatikan daun belang (variegata): bagian yang putih (tidak hijau) jika diuji dengan iodium akan...
-A. Berwarna biru (positif amilum)
-B. Tidak berubah biru (tidak ada amilum)
-C. Berwarna merah
-D. Menjadi hijau kembali
 
 **(2) Pilihan Jawaban:**
 A. Berwarna biru (positif amilum)
@@ -1066,10 +954,6 @@ D. Menjadi hijau kembali
 
 **(1) Soal:**
 Pada daun variegata, bagian yang hijau mengandung klorofil sehingga jika dilihat hasil fotosintesisnya yang benar adalah...
-A. Bagian hijau menghasilkan amilum (positif) dan bagian putih tidak
-B. Bagian putih menghasilkan lebih banyak amilum
-C. Keduanya tidak menghasilkan amilum
-D. Bagian putih menghasilkan oksigen lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Bagian hijau menghasilkan amilum (positif) dan bagian putih tidak
@@ -1098,10 +982,6 @@ D. Bagian putih menghasilkan oksigen lebih banyak
 
 **(1) Soal:**
 Tumbuhan yang batang/daunnya tidak hijau (misal tangkai bunga putih) tidak dapat melakukan fotosintesis di bagian tersebut karena...
-A. Tidak memiliki klorofil
-B. Tidak memiliki akar
-C. Terlalu banyak air
-D. Terlalu panas
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki klorofil
@@ -1130,10 +1010,6 @@ D. Terlalu panas
 
 **(1) Soal:**
 Alasan utama daun tampak hijau karena...
-A. Klorofil memantulkan cahaya hijau ke mata kita
-B. Daun menyerap cahaya hijau seluruhnya
-C. Daun mengandung air berwarna hijau
-D. Tanah membuat daun hijau
 
 **(2) Pilihan Jawaban:**
 A. Klorofil memantulkan cahaya hijau ke mata kita
@@ -1162,10 +1038,6 @@ D. Tanah membuat daun hijau
 
 **(1) Soal:**
 Di sebuah rumah kaca, karena semua bahan lain cukup, tumbuhan akan berfotosintesis paling cepat saat...
-A. Mendapat banyak cahaya dan cukup CO₂
-B. Dalam keadaan gelap
-C. CO₂ sangat sedikit
-D. Air sangat sedikit
 
 **(2) Pilihan Jawaban:**
 A. Mendapat banyak cahaya dan cukup CO₂
@@ -1194,10 +1066,6 @@ D. Air sangat sedikit
 
 **(1) Soal:**
 Pengarang efek rumah kaca justru memompa lebih banyak karbon dioksida ke dalam rumah kaca agar tanaman tumbuh lebih cepat. Hal ini karena...
-A. CO₂ adalah bahan baku fotosintesis
-B. CO₂ membuat daun menjadi hijau
-C. CO₂ adalah hasil fotosintesis
-D. CO₂ menggantikan cahaya
 
 **(2) Pilihan Jawaban:**
 A. CO₂ adalah bahan baku fotosintesis
@@ -1226,10 +1094,6 @@ D. CO₂ menggantikan cahaya
 
 **(1) Soal:**
 Tanaman dalam pot yang jarang disiram akan layu dan fotosintesisnya terganggu karena...
-A. Air adalah bahan baku fotosintesis
-B. Air membuat daun hijau
-C. Air mengubah tanah jadi subur
-D. Air menggantikan cahaya
 
 **(2) Pilihan Jawaban:**
 A. Air adalah bahan baku fotosintesis
@@ -1258,10 +1122,6 @@ D. Air menggantikan cahaya
 
 **(1) Soal:**
 Setelah sore hari, ketika intensitas cahaya menurun, laju fotosintesis tumbuhan...
-A. Meningkat tajam
-B. Menurun
-C. Tetap
-D. Berhenti total di semua suhu
 
 **(2) Pilihan Jawaban:**
 A. Meningkat tajam
@@ -1290,10 +1150,6 @@ D. Berhenti total di semua suhu
 
 **(1) Soal:**
 Suhu yang terlalu panas (misal > 40°C) dapat membuat fotosintesis melambat karena...
-A. Enzim-enzim dalam sel terganggu/rusak
-B. Klorofil bertambah banyak
-C. Stomata terbuka lebar
-D. Air menjadi terlalu dingin
 
 **(2) Pilihan Jawaban:**
 A. Enzim-enzim dalam sel terganggu/rusak
@@ -1322,10 +1178,6 @@ D. Air menjadi terlalu dingin
 
 **(1) Soal:**
 Petani menanam kedelai di lahan tanpa pohon peneduh agar hasil panen maksimal. Alasannya adalah...
-A. Kedelai mendapat cahaya penuh untuk fotosintesis
-B. Kedelai tidak butuh air
-C. Pohon membuat tanah asam
-D. Kedelai butuh gelap sepanjang hari
 
 **(2) Pilihan Jawaban:**
 A. Kedelai mendapat cahaya penuh untuk fotosintesis
@@ -1354,10 +1206,6 @@ D. Kedelai butuh gelap sepanjang hari
 
 **(1) Soal:**
 Alasan para petani menyemprotkan air pada tanaman di pagi hari agar stomata tetap terbuka adalah agar...
-A. Karbon dioksida mudah masuk untuk fotosintesis
-B. Daun menjadi hijau
-C. Batang menjadi besar
-D. Akar bertambah banyak
 
 **(2) Pilihan Jawaban:**
 A. Karbon dioksida mudah masuk untuk fotosintesis
@@ -1386,10 +1234,6 @@ D. Akar bertambah banyak
 
 **(1) Soal:**
 Peristiwa yang menunjukkan bahwa laju fotosintesis meningkat setelah hujan adalah...
-A. Karena udara lembap membuat daun bisa menyerap air dan stomata terbuka
-B. Karena hujan menghilangkan semua CO₂
-C. Karena hujan membuat malam lebih panjang
-D. Karena hujan menghilangkan cahaya matahari
 
 **(2) Pilihan Jawaban:**
 A. Karena udara lembap membuat daun bisa menyerap air dan stomata terbuka
@@ -1418,10 +1262,6 @@ D. Karena hujan menghilangkan cahaya matahari
 
 **(1) Soal:**
 Bila semua syarat fotosintesis dipenuhi kecuali karbon dioksida yang sangat sedikit, maka hasil fotosintesis akan...
-A. Maksimal karena air cukup
-B. Sedikit/terbatas karena bahan baku kurang
-C. Tetap banyak karena cahaya menggantikan CO₂
-D. Menghasilkan amilum berlebih
 
 **(2) Pilihan Jawaban:**
 A. Maksimal karena air cukup
@@ -1450,10 +1290,6 @@ D. Menghasilkan amilum berlebih
 
 **(1) Soal:**
 Perbedaan utama fotosintesis dan respirasi sel adalah...
-A. Fotosintesis menyerap CO₂, respirasi melepas CO₂
-B. Keduanya selalu membutuhkan cahaya
-C. Keduanya menghasilkan oksigen
-D. Keduanya terjadi di kloroplas
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis menyerap CO₂, respirasi melepas CO₂
@@ -1482,10 +1318,6 @@ D. Keduanya terjadi di kloroplas
 
 **(1) Soal:**
 Respirasi sel pada tumbuhan berlangsung...
-A. Hanya pada malam hari
-B. Hanya pada siang hari
-C. Siang dan malam (terus-menerus)
-D. Hanya saat berbuah
 
 **(2) Pilihan Jawaban:**
 A. Hanya pada malam hari
@@ -1514,10 +1346,6 @@ D. Hanya saat berbuah
 
 **(1) Soal:**
 Pada siang hari, tumbuhan melakukan fotosintesis DAN respirasi secara bersamaan, tetapi gas yang dilepaskan lebih banyak oksigen dari... (konsekuensinya udara di sekitarnya)
-A. Fotosintesis berkelebihan, sehingga lingkungan sekitar mendapat O₂
-B. Respirasi berkelebihan, sehingga lingkungan kekurangan O₂
-C. Keduanya sama kuat
-D. Tumbuhan hanya berfotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis berkelebihan, sehingga lingkungan sekitar mendapat O₂
@@ -1546,10 +1374,6 @@ D. Tumbuhan hanya berfotosintesis
 
 **(1) Soal:**
 Pada malam hari, daun tumbuhan tidak berfotosintesis sehingga ketika kita banyak tumbuhan di dalam kamar tertutup...
-A. Oksigen berkurang dan CO₂ bertambah di udara kamar
-B. Oksigen bertambah banyak
-C. CO₂ berkurang drastis
-D. Tidak ada perubahan udara
 
 **(2) Pilihan Jawaban:**
 A. Oksigen berkurang dan CO₂ bertambah di udara kamar
@@ -1581,10 +1405,6 @@ Perhatikan reaksi di bawah ini.
 A + air → (cahaya) glukosa + B
 
 Huruf A dan B yang tepat adalah...
-A. A = oksigen, B = karbon dioksida
-B. A = karbon dioksida, B = oksigen
-C. A = glukosa, B = air
-D. A = klorofil, B = cahaya
 
 **(2) Pilihan Jawaban:**
 A. A = oksigen, B = karbon dioksida
@@ -1613,10 +1433,6 @@ D. A = klorofil, B = cahaya
 
 **(1) Soal:**
 Pada percobaan Ingenhousz, jika ke dalam air ditambahkan sedikit soda kue (NaHCO₃), jumlah gelembung biasanya meningkat. Penyebabnya adalah...
-A. NaHCO₃ menambah kadar CO₂ di dalam air (bahan baku fotosintesis)
-B. NaHCO₃ memberi vitamin
-C. NaHCO₃ mengganti cahaya
-D. NaHCO₃ membuat air berwarna hijau
 
 **(2) Pilihan Jawaban:**
 A. NaHCO₃ menambah kadar CO₂ di dalam air (bahan baku fotosintesis)
@@ -1645,10 +1461,6 @@ D. NaHCO₃ membuat air berwarna hijau
 
 **(1) Soal:**
 Dalam percobaan Sachs, yang diuji keberadaannya sebagai bukti fotosintesis adalah...
-A. Oksigen
-B. Karbon dioksida
-C. Amilum (pati)
-D. Klorofil
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -1677,10 +1489,6 @@ D. Klorofil
 
 **(1) Soal:**
 Dalam percobaan Sachs, mengapa daun harus "dicabut patinya" terlebih dahulu di tempat gelap?
-A. Agar ada pati yang banyak di awal
-B. Agar perbedaan pati sebelum/sesudah cahaya menjadi jelas dan hanya pati baru yang terdeteksi
-C. Agar daun menjadi lebih hijau
-D. Agar stomata terbuka
 
 **(2) Pilihan Jawaban:**
 A. Agar ada pati yang banyak di awal
@@ -1709,10 +1517,6 @@ D. Agar stomata terbuka
 
 **(1) Soal:**
 Siswa membandingkan dua tabung: Tabung 1 berisi Hydrilla + air, Tabung 2 berisi Hydrilla + air yang ditutup kain hitam. Setelah 15 menit, jumlah gelembung pada Tabung 2 lebih sedikit. Kesimpulan yang tepat adalah...
-A. Fotosintesis butuh cahaya
-B. Fotosintesis butuh klorofil
-C. Fotosintesis butuh CO₂
-D. Fotosintesis menghasilkan amilum
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis butuh cahaya
@@ -1741,10 +1545,6 @@ D. Fotosintesis menghasilkan amilum
 
 **(1) Soal:**
 Pada percobaan Sachs, bagian daun yang ditutup kertas berwarna hitam akan menghasilkan...
-A. Tidak ada amilum (iodium tidak membiru)
-B. Amilum banyak (iodium membiru)
-C. Lebih banyak klorofil
-D. Oksigen berlebih
 
 **(2) Pilihan Jawaban:**
 A. Tidak ada amilum (iodium tidak membiru)
@@ -1773,10 +1573,6 @@ D. Oksigen berlebih
 
 **(1) Soal:**
 Setelah 24 jam di gelap lalu disinari, sebuah daun diuji. Bagian yang terkena cahaya memberi reaksi biru pekat dengan iodium, sedangkan bagian tertutup kuning. Kesimpulan paling tepat adalah...
-A. Fotosintesis menghasilkan amilum hanya pada bagian yang terkena cahaya
-B. Fotosintesis menghasilkan oksigen di bagian gelap
-C. Klorofil berpindah ke bagian tertutup
-D. Stomata tertutup seluruhnya
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis menghasilkan amilum hanya pada bagian yang terkena cahaya
@@ -1805,10 +1601,6 @@ D. Stomata tertutup seluruhnya
 
 **(1) Soal:**
 Perhatikan persamaan: 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂. Jumlah molekul oksigen yang dihasilkan dari proses ini adalah...
-A. 1 molekul
-B. 6 molekul
-C. 12 molekul
-D. 3 molekul
 
 **(2) Pilihan Jawaban:**
 A. 1 molekul
@@ -1837,10 +1629,6 @@ D. 3 molekul
 
 **(1) Soal:**
 Jika semua bahan fotosintesis tersedia cukup, proses yang membuat tumbuhan memperbaiki diri adalah bahwa glukosa hasil fotosintesis dapat digunakan tumbuhan untuk...
-A. Bernapas (sumber energi) dan membangun tubuh (selulosa)
-B. Membuat klorofil dari dalam tanah
-C. Menutup stomata selamanya
-D. Mengubah tanah menjadi air
 
 **(2) Pilihan Jawaban:**
 A. Bernapas (sumber energi) dan membangun tubuh (selulosa)
@@ -1869,10 +1657,6 @@ D. Mengubah tanah menjadi air
 
 **(1) Soal:**
 Dalam percobaan Sachs, fungsi penutup kertas timah/hitam pada sebagian daun adalah...
-A. Menghalangi cahaya mencapai bagian itu
-B. Menambah suhu daun
-C. Menutup stomata
-D. Menambah kadar air
 
 **(2) Pilihan Jawaban:**
 A. Menghalangi cahaya mencapai bagian itu
@@ -1901,10 +1685,6 @@ D. Menambah kadar air
 
 **(1) Soal:**
 Pada pengamatan dengan mikroskop terhadap potongan daun yang masih segar, bagian yang tampak banyak butiran hijau bulat kecil adalah...
-A. Xilem
-B. Kloroplas dalam mesofil
-C. Epidermis atas yang bening
-D. Rambut akar
 
 **(2) Pilihan Jawaban:**
 A. Xilem
@@ -1933,10 +1713,6 @@ D. Rambut akar
 
 **(1) Soal:**
 Tanaman hidroponik diberi pencahayaan lampu khusus di ruangan tertutup. Alasan menggunakan cahaya lampu adalah karena...
-A. Cahaya lampu adalah sumber energi fotosintesis pengganti matahari
-B. Lampu menghasilkan karbon dioksida
-C. Lampu menyuburkan akar
-D. Lampu membuat air menjadi nutrisi
 
 **(2) Pilihan Jawaban:**
 A. Cahaya lampu adalah sumber energi fotosintesis pengganti matahari
@@ -1965,10 +1741,6 @@ D. Lampu membuat air menjadi nutrisi
 
 **(1) Soal:**
 Tanaman buah yang ditanam di tempat gelap berbunga sedikit dan buahnya kecil dibanding yang terang. Penyebab paling utama adalah...
-A. Fotosintesis terbatas → cadangan makanan (glukosa) untuk buah terbatas
-B. Cahaya membuat buah besar langsung
-C. Gelap membuat akar menyerap lebih banyak air
-D. Gelap menambah klorofil
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis terbatas → cadangan makanan (glukosa) untuk buah terbatas
@@ -1997,10 +1769,6 @@ D. Gelap menambah klorofil
 
 **(1) Soal:**
 Di alam bebas, jelaskan yang paling tepat: saat siang terik, stomata cenderung menutup. Akibatnya bagi fotosintesis adalah...
-A. CO₂ sulit masuk sehingga fotosintesis melambat sementara (menjaga air)
-B. Fotosintesis meningkat pesat
-C. Tidak berpengaruh
-D. Amilum bertambah drastis
 
 **(2) Pilihan Jawaban:**
 A. CO₂ sulit masuk sehingga fotosintesis melambat sementara (menjaga air)
@@ -2030,10 +1798,6 @@ D. Amilum bertambah drastis
 
 **(1) Soal:**
 Manakah kombinasi yang tepat untuk "Persamaan respirasi sel pada tumbuhan"?
-A. Glukosa + oksigen → energi + karbon dioksida + air
-B. Karbon dioksida + air → glukosa + oksigen
-C. Glukosa + karbon dioksida → energi + air
-D. Oksigen + air → glukosa + karbon dioksida
 
 **(2) Pilihan Jawaban:**
 A. Glukosa + oksigen → energi + karbon dioksida + air
@@ -2062,10 +1826,6 @@ D. Oksigen + air → glukosa + karbon dioksida
 
 **(1) Soal:**
 Pada tumbuhan, mitokondria justru paling mudah "diundang" bekerja saat malam, sedangkan kloroplas beristirahat. Pernyataan yang paling tepat adalah...
-A. Respirasi berjalan di malam hari bila fotosintesis berhenti
-B. Kloroplas juga bekerja sepanjang malam
-C. Mitokondria hanya ada saat malam
-D. Stomata menutup sepanjang malam
 
 **(2) Pilihan Jawaban:**
 A. Respirasi berjalan di malam hari bila fotosintesis berhenti
@@ -2094,10 +1854,6 @@ D. Stomata menutup sepanjang malam
 
 **(1) Soal:**
 Grafik menunjukkan: makin terang cahaya (sumbu X), laju fotosintesis (sumbu Y) makin naik sampai titik tertentu lalu mendatar. Interpretasi yang tepat adalah...
-A. Ada cahaya yang membuat laju naik, lalu faktor lain (mis. CO₂/suhu) menjadi pembatas
-B. Fotosintesis tidak dipengaruhi cahaya
-C. Makin terang selalu laju tak terbatas
-D. Grafik menunjukkan fotosintesis terjadi di gelap
 
 **(2) Pilihan Jawaban:**
 A. Ada cahaya yang membuat laju naik, lalu faktor lain (mis. CO₂/suhu) menjadi pembatas
@@ -2126,10 +1882,6 @@ D. Grafik menunjukkan fotosintesis terjadi di gelap
 
 **(1) Soal:**
 Jika grafik laju fotosintesis terhadap suhu menunjukkan kurva naik lalu turun tajam saat suhu > 45°C, artinya...
-A. Suhu terlalu tinggi merusak enzim → fotosintesis menurun
-B. Suhu tinggi selalu mempercepat segalanya
-C. Fotosintesis tidak dipengaruhi suhu
-D. Daun membeku
 
 **(2) Pilihan Jawaban:**
 A. Suhu terlalu tinggi merusak enzim → fotosintesis menurun
@@ -2158,10 +1910,6 @@ D. Daun membeku
 
 **(1) Soal:**
 Pada percobaan pengaruh kadar CO₂, dua kondisi dibandingkan: (1) kadar CO₂ normal, (2) kadar CO₂ berlebih. Bila cahaya dan air sama-sama melimpah, hasil paling mungkin adalah...
-A. Kondisi (2) laju fotosintesis lebih tinggi karena bahan baku lebih banyak
-B. Kondisi (1) laju lebih tinggi
-C. Keduanya sama persis
-D. Fotosintesis berhenti total
 
 **(2) Pilihan Jawaban:**
 A. Kondisi (2) laju fotosintesis lebih tinggi karena bahan baku lebih banyak
@@ -2190,10 +1938,6 @@ D. Fotosintesis berhenti total
 
 **(1) Soal:**
 Sebuah eksperimen ingin membuktikan bahwa cahaya mempercepat fotosintesis. Variabel yang HARUS dibedakan (diubah) antara dua kelompok adalah...
-A. Cahaya (satu terang, satu gelap)
-B. Jenis tumbuhan (hidup berbeda)
-C. Ukuran wadah berbeda
-D. Jumlah air berbeda
 
 **(2) Pilihan Jawaban:**
 A. Cahaya (satu terang, satu gelap)
@@ -2222,10 +1966,6 @@ D. Jumlah air berbeda
 
 **(1) Soal:**
 Dalam eksperimen membandingkan laju fotosintesis dua tabung Hydrilla, tabung harus diletakkan pada jarak cahaya yang sama. Ini adalah penerapan prinsip...
-A. Menggunakan variabel kontrol (membuat kondisi selain yang tengah diuji tetap sama)
-B. Memperbanyak warna cahaya
-C. Memperbesar perbesaran mikroskop
-D. Mengganti Hydrilla dengan daun lain
 
 **(2) Pilihan Jawaban:**
 A. Menggunakan variabel kontrol (membuat kondisi selain yang tengah diuji tetap sama)
@@ -2254,10 +1994,6 @@ D. Mengganti Hydrilla dengan daun lain
 
 **(1) Soal:**
 Siswa menyusun eksperimen: tiga gelas berisi Hydrilla dan air. Gelas A diletakkan 10 cm dari lampu, B 20 cm, C 30 cm. Variabel bebasnya adalah...
-A. Jarak Hydrilla dari lampu (intensitas cahaya)
-B. Jenis tumbuhan
-C. Suhu air
-D. Jumlah gelembung
 
 **(2) Pilihan Jawaban:**
 A. Jarak Hydrilla dari lampu (intensitas cahaya)
@@ -2286,10 +2022,6 @@ D. Jumlah gelembung
 
 **(1) Soal:**
 Dari eksperimen pada soal sebelumnya (A=10 cm, B=20 cm, C=30 cm), prediksi jumlah gelembung yang benar adalah...
-A. Gelas A paling banyak, lalu B, lalu C paling sedikit
-B. Gelas C paling banyak
-C. Semua sama
-D. Gelas A paling sedikit
 
 **(2) Pilihan Jawaban:**
 A. Gelas A paling banyak, lalu B, lalu C paling sedikit
@@ -2318,10 +2050,6 @@ D. Gelas A paling sedikit
 
 **(1) Soal:**
 Perhatian: sebuah daun kehilangan klorofil karena penyakit, tetapi tetap menerima cahaya dan CO₂. Pernyataan yang benar adalah...
-A. Daun tetap dapat membuat glukosa karena cahaya cukup
-B. Daun tidak dapat membuat glukosa karena klorofilnya rusak
-C. Daun berfotosintesis tidak memperdulikan klorofil
-D. Daun mengganti klorofil dengan stomata
 
 **(2) Pilihan Jawaban:**
 A. Daun tetap dapat membuat glukosa karena cahaya cukup
@@ -2350,10 +2078,6 @@ D. Daun mengganti klorofil dengan stomata
 
 **(1) Soal:**
 Di sebuah terowongan tanpa cahaya alami tapi diberi lampu merah menyala terus. Bila klorofil hanya menyerap kuat cahaya merah (dan biru), kondisi ini...
-A. Mendukung fotosintesis karena cahaya merah diserap klorofil
-B. Tidak berpengaruh
-C. Membuat fotosintesis berhenti total
-D. Mengganti klorofil dengan cairan
 
 **(2) Pilihan Jawaban:**
 A. Mendukung fotosintesis karena cahaya merah diserap klorofil
@@ -2382,10 +2106,6 @@ D. Mengganti klorofil dengan cairan
 
 **(1) Soal:**
 Tumbuhan yang mendapat cahaya putih penuh, CO₂ melimpah, dan air cukup, tetapi daunnya ditutupi lilin tebal (mis. akibat hujan minyak). Fotosintesis akan terganggu karena...
-A. Stomata tertutup sehingga CO₂ sulit masuk
-B. Klorofil menjadi hilang
-C. Cahaya menjadi terlalu kuat
-D. Akar menyerap air berlebih
 
 **(2) Pilihan Jawaban:**
 A. Stomata tertutup sehingga CO₂ sulit masuk
@@ -2414,10 +2134,6 @@ D. Akar menyerap air berlebih
 
 **(1) Soal:**
 Dalam percobaan berikut: Daun A ditutup kertas, Daun B dibiarkan terbuka; keduanya disinari. Setelah uji iodium, daun B positif biru, daun A negatif. Kesimpulan yang lebih tepat adalah...
-A. Cahaya diperlukan pada fotosintesis
-B. CO₂ diperlukan pada fotosintesis
-C. Air diperlukan pada fotosintesis
-D. Klorofil diperlukan pada fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Cahaya diperlukan pada fotosintesis
@@ -2446,10 +2162,6 @@ D. Klorofil diperlukan pada fotosintesis
 
 **(1) Soal:**
 Percobaan untuk membuktikan bahwa fotosintesis menghasilkan oksigen paling cocok memakai...
-A. Tumbuhan air Hydrilla dan mencatat gelembung gas yang bisa menyalakan bara
-B. Daun kering dan kaca gelap
-C. Akar yang direndam air garam
-D. Biji yang dikecambahkan di tempat gelap
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan air Hydrilla dan mencatat gelembung gas yang bisa menyalakan bara
@@ -2478,10 +2190,6 @@ D. Biji yang dikecambahkan di tempat gelap
 
 **(1) Soal:**
 Biji yang dikecambahkan di tempat gelap tetap tumbuh tetapi tidak hijau. Kesimpulan yang paling tepat adalah...
-A. Biji tidak punya fotosintesis untuk tumbuh — ia memakai cadangan makanan dalam biji
-B. Biji berfotosintesis tanpa cahaya
-C. Kecambah tidak membutuhkan air
-D. Cahaya menghentikan tumbuh kecambah
 
 **(2) Pilihan Jawaban:**
 A. Biji tidak punya fotosintesis untuk tumbuh — ia memakai cadangan makanan dalam biji
@@ -2510,10 +2218,6 @@ D. Cahaya menghentikan tumbuh kecambah
 
 **(1) Soal:**
 Daun yang terserang penyakit sehingga sebagian besar stomatanya mati, padahal klorofil normal. Gejala yang paling mungkin muncul adalah...
-A. Pertumbuhan daun terganggu karena CO₂ sulit masuk
-B. Klorofil bertambah
-C. Akar berhenti menyerap air
-D. Warna daun berubah merah
 
 **(2) Pilihan Jawaban:**
 A. Pertumbuhan daun terganggu karena CO₂ sulit masuk
@@ -2542,10 +2246,6 @@ D. Warna daun berubah merah
 
 **(1) Soal:**
 Sebuah desain: dua kotak tumbuhan. Kotak 1 ditiup udara mengandung CO₂ sedikit, Kotak 2 ditiup udara CO₂ normal. Setelah 2 minggu, tanaman Kotak 1 lebih pendek. Penyebab langsungnya...
-A. CO₂ kurang → bahan baku fotosintesis kurang → pertumbuhan terhambat
-B. Udara CO₂ sedikit membuat daun lebih hijau
-C. CO₂ membuat akar berhenti
-D. CO₂ menyebabkan malam lebih panjang
 
 **(2) Pilihan Jawaban:**
 A. CO₂ kurang → bahan baku fotosintesis kurang → pertumbuhan terhambat
@@ -2578,10 +2278,6 @@ Perhatikan dua data:
 - Tanaman di tengah ruangan tetap tegak.
 
 Kondisi yang tepat untuk dijelaskan: condong ke jendela adalah karena...
-A. Bagian daun yang mendapat cahaya melakukan fotosintesis dan hormon menyebabkan pertumbuhan memanjang menuju cahaya
-B. Jendela membuat angin mendorong
-C. Tanaman menjauh dari cahaya
-D. Akar tidak menyukai ruangan
 
 **(2) Pilihan Jawaban:**
 A. Bagian daun yang mendapat cahaya melakukan fotosintesis dan hormon menyebabkan pertumbuhan memanjang menuju cahaya
@@ -2610,10 +2306,6 @@ D. Akar tidak menyukai ruangan
 
 **(1) Soal:**
 Petani memanen padi di musim hujan panjang (banyak mendung). Hasil gabah biasanya lebih rendah daripada musim kemarau. Logika fotosintesis yang paling masuk akal:
-A. Mendung = cahaya berkurang → fotosintesis menurun → biji sedikit kecil
-B. Hujan menambah CO₂ terlalu banyak
-C. Hujan membuat dingin menyuburkan
-D. Mendung membuat klorofil berlimpah
 
 **(2) Pilihan Jawaban:**
 A. Mendung = cahaya berkurang → fotosintesis menurun → biji sedikit kecil
@@ -2642,10 +2334,6 @@ D. Mendung membuat klorofil berlimpah
 
 **(1) Soal:**
 Sebuah prosedur: "Daun direbus sampai layu, lalu ditetesi iodium tanpa dipecah klorofilnya." Kelemahan percobaan ini adalah...
-A. Warna hijau daun tetap menutupi perubahan warna iodium → hasil sulit dibaca
-B. Perebusan menghilangkan amilum
-C. Iodium tidak bekerja pada daun
-D. Daun justru menjadi terang benderang
 
 **(2) Pilihan Jawaban:**
 A. Warna hijau daun tetap menutupi perubahan warna iodium → hasil sulit dibaca
@@ -2674,10 +2362,6 @@ D. Daun justru menjadi terang benderang
 
 **(1) Soal:**
 Tumbuhan yang dipupuk nitrogen berlebih menjadi sangat hijau tapi buahnya sedikit. Dugaan yang paling logis terkait fotosintesis...
-A. Energi/fotosintesis lebih banyak dialihkan ke pembentukan daun daripada untuk buah
-B. Nitrogen menghalangi cahaya
-C. Nitrogen membuat stomata tertutup permanen
-D. Nitrogen mengganti peran klorofil
 
 **(2) Pilihan Jawaban:**
 A. Energi/fotosintesis lebih banyak dialihkan ke pembentukan daun daripada untuk buah
@@ -2706,10 +2390,6 @@ D. Nitrogen mengganti peran klorofil
 
 **(1) Soal:**
 Jika satu pohon di hutan ditebang, tanaman di sekitarnya akan tumbuh sedikit lebih cepat dari biasanya. Alasan yang paling terkait fotosintesis:
-A. Pohon tetangga mendapat lebih banyak cahaya (tidak terhalang) untuk fotosintesis
-B. Pohon ditebang melepas CO₂ yang menyuburkan
-C. Tanah menjadi lebih basah
-D. Akar pohon mempercepat jamur
 
 **(2) Pilihan Jawaban:**
 A. Pohon tetangga mendapat lebih banyak cahaya (tidak terhalang) untuk fotosintesis
@@ -2744,10 +2424,6 @@ Sebuah kelas merancang 4 perlakuan selama seminggu:
 4. Terang penuh, disiram, ditutup plastik rapat (sedikit CO₂) namun tetap ada cahaya.
 
 Urutan tanaman yang paling mungkin tetap segar dan tumbuh dari TERBAIK adalah...
-A. 2 – 1 – 3 – 4
-B. 2 – 4 – 1 – 3
-C. 1 – 2 – 3 – 4
-D. 4 – 3 – 2 – 1
 
 **(2) Pilihan Jawaban:**
 A. 2 – 1 – 3 – 4
@@ -2776,10 +2452,6 @@ D. 4 – 3 – 2 – 1
 
 **(1) Soal:**
 Dari empat perlakuan di Soal 81, tanaman pada perlakuan 3 (terang, tanpa air) paling mungkin menunjukkan gejala pertama:
-A. Daun layu/keriput karena turgor hilang dan stomata menutup
-B. Daun semakin hijau pekat
-C. Batang menggelembung
-D. Akar memanjang menjauhi tanah
 
 **(2) Pilihan Jawaban:**
 A. Daun layu/keriput karena turgor hilang dan stomata menutup
@@ -2808,10 +2480,6 @@ D. Akar memanjang menjauhi tanah
 
 **(1) Soal:**
 Grafik kadar CO₂ dalam ruang tertutup berisi tumbuhan selama 24 jam: malam naik, siang turun. Interpretasi yang benar adalah...
-A. Malam respirasi melepas CO₂ (naik); siang fotosintesis menyerap CO₂ (turun)
-B. Malam fotosintesis menyerap CO₂
-C. Siang respirasi berhenti total
-D. Kadar CO₂ tidak pernah berubah
 
 **(2) Pilihan Jawaban:**
 A. Malam respirasi melepas CO₂ (naik); siang fotosintesis menyerap CO₂ (turun)
@@ -2840,10 +2508,6 @@ D. Kadar CO₂ tidak pernah berubah
 
 **(1) Soal:**
 Berdasarkan grafik pada Soal 83, kadar oksigen (O₂) di ruang tersebut mengikuti pola...
-A. Naik saat siang (fot oosintesis melepas O₂), turun saat malam (respirasi memakai O₂)
-B. Turun siang, naik malam
-C. Selalu nol
-D. Sama dengan kadar CO₂ persis
 
 **(2) Pilihan Jawaban:**
 A. Naik saat siang (fot oosintesis melepas O₂), turun saat malam (respirasi memakai O₂)
@@ -2872,10 +2536,6 @@ D. Sama dengan kadar CO₂ persis
 
 **(1) Soal:**
 Rancangan: dua botol tertutup. Botol A berisi kecambah hijau (daun hijau) + air; Botol B berisi kecambah putih (tanpa klorofil) + air. Keduanya disinari. Perkiraan kadar O₂ di dalam botol setelah 1 jam adalah...
-A. A meningkat, B menurun/konstan rendah (respirasi saja)
-B. A menurun, B meningkat
-C. Keduanya meningkat sama
-D. Keduanya tak berubah
 
 **(2) Pilihan Jawaban:**
 A. A meningkat, B menurun/konstan rendah (respirasi saja)
@@ -2904,10 +2564,6 @@ D. Keduanya tak berubah
 
 **(1) Soal:**
 Lanjutan percobaan di Soal 85: jika kedua botol sama-sama ditempatkan di gelap, hasil perkirakan kadar O₂:
-A. Keduanya menurun (respirasi berjalan, fotosintesis tidak)
-B. Keduanya meningkat
-C. A meningkat, B tetap
-D. Sama seperti di terang
 
 **(2) Pilihan Jawaban:**
 A. Keduanya menurun (respirasi berjalan, fotosintesis tidak)
@@ -2936,10 +2592,6 @@ D. Sama seperti di terang
 
 **(1) Soal:**
 Petani di dataran tinggi menanam cabai. Di musim hujan mereka sering kehilangan panen. Langkah yang paling sesuai dengan prinsip fotosintesis untuk mengurangi kerugian adalah...
-A. Menambah pencahayaan lampu di malam hari / memilih lahan yang terbuka cerah
-B. Menyiram air lebih banyak saat hujan
-C. Menutup tanaman dengan kain hitam
-D. Mengurangi pupuk
 
 **(2) Pilihan Jawaban:**
 A. Menambah pencahayaan lampu di malam hari / memilih lahan yang terbuka cerah
@@ -2968,10 +2620,6 @@ D. Mengurangi pupuk
 
 **(1) Soal:**
 Pupuk kompos yang diaplikasikan ternyata tidak menambah hijau daun langsung, tetapi mencukupi mineral. Kesimpulan yang tepat untuk fotosintesis adalah...
-A. Mineral membantu pembentukan klorofil secara tidak langsung, sehingga status fotosintesis membaik
-B. Pupuk menggantikan peran cahaya
-C. Pupuk membuat stomata mati
-D. Pupuk menghasilkan O₂ langsung
 
 **(2) Pilihan Jawaban:**
 A. Mineral membantu pembentukan klorofil secara tidak langsung, sehingga status fotosintesis membaik
@@ -3000,10 +2648,6 @@ D. Pupuk menghasilkan O₂ langsung
 
 **(1) Soal:**
 Seorang siswa menyimpulkan dari percobaan Hydrilla: "Gelembung banyak di tabung terang karena airnya panas." Kelemahan kesimpulan ini adalah...
-A. Gelembung disebabkan fotosintesis yang butuh cahaya, bukan oleh panas air
-B. Air panas memang menghasilkan gelembung oksigen
-C. Kesimpulan tidak masalah
-D. Panas air menambah CO₂
 
 **(2) Pilihan Jawaban:**
 A. Gelembung disebabkan fotosintesis yang butuh cahaya, bukan oleh panas air
@@ -3032,10 +2676,6 @@ D. Panas air menambah CO₂
 
 **(1) Soal:**
 Siswa mengamati: daun di bagian yang ditutup kertas hitam tidak membiru dengan iodium. Ia menyimpulkan "bagian gelap tidak punya klorofil." Apakah kesimpulan ini tepat?
-A. Tidak tepat — bagian gelap punya klorofil, hanya tidak berfotosintesis sehingga tanpa amilum
-B. Tepat — gelap menghilangkan klorofil
-C. Tepat — gelap membuat daun putih
-D. Tidak tepat — gelap menambah amilum
 
 **(2) Pilihan Jawaban:**
 A. Tidak tepat — bagian gelap punya klorofil, hanya tidak berfotosintesis sehingga tanpa amilum
@@ -3064,10 +2704,6 @@ D. Tidak tepat — gelap menambah amilum
 
 **(1) Soal:**
 Fenomena "pohon senang berbuah di musim kemarau" dikaitkan dengan fotosintesis, terutama karena...
-A. Cuaca cerah → cahaya & suhu optimal → fotosintesis tinggi → banyak gula untuk buah
-B. Kekeringan menambah fotosintesis
-C. Kemarau membuat CO₂ berlimpah
-D. Kemarau malam sangat panjang
 
 **(2) Pilihan Jawaban:**
 A. Cuaca cerah → cahaya & suhu optimal → fotosintesis tinggi → banyak gula untuk buah
@@ -3096,10 +2732,6 @@ D. Kemarau malam sangat panjang
 
 **(1) Soal:**
 Mengapa panen padi di bulan dengan suhu terlalu panas (ekstrem) kadang justru menurun? Langkah yang tepat:
-A. Suhu ekstrem merusak enzim fotosintesis → produksi makanan turun
-B. Panas membantu semua enzim bekerja tanpa batas
-C. Panas membuat stomata membuka permanen
-D. Panas menambah air tanah subur
 
 **(2) Pilihan Jawaban:**
 A. Suhu ekstrem merusak enzim fotosintesis → produksi makanan turun
@@ -3128,10 +2760,6 @@ D. Panas menambah air tanah subur
 
 **(1) Soal:**
 Makanan yang kita makan (nasi dari padi) mengandung energi yang asalnya dari...
-A. Energi cahaya matahari yang disimpan lewat fotosintesis
-B. Energi panas bumi
-C. Energi air hujan
-D. Energi angin langsung
 
 **(2) Pilihan Jawaban:**
 A. Energi cahaya matahari yang disimpan lewat fotosintesis
@@ -3160,10 +2788,6 @@ D. Energi angin langsung
 
 **(1) Soal:**
 Hewan herbivora seperti sapi memperoleh energi dari rumput. Rantai logis yang benar adalah...
-A. Sinar matahari → fotosintesis rumput → glukosa/pati → dimakan sapi → energi sapi
-B. Sinar matahari → dimakan sapi langsung → energi
-C. Rumput membuat energi dari tanah
-D. Sapi berfotosintesis di perut
 
 **(2) Pilihan Jawaban:**
 A. Sinar matahari → fotosintesis rumput → glukosa/pati → dimakan sapi → energi sapi
@@ -3192,10 +2816,6 @@ D. Sapi berfotosintesis di perut
 
 **(1) Soal:**
 Tumbuhan CAM (mis. nanas) membuka stomata malam hari. Dengan konsep fotosintesis, keuntungan yang paling besar adalah...
-A. Memasukkan CO₂ di malam yang sejuk agar penguapan air siang nanti minim
-B. Memasukkan air berlebih saat malam
-C. Mengeluarkan oksigen lebih banyak siang
-D. Tidak butuh cahaya
 
 **(2) Pilihan Jawaban:**
 A. Memasukkan CO₂ di malam yang sejuk agar penguapan air siang nanti minim
@@ -3232,10 +2852,6 @@ Data eksperimen:
 | Gelap | 0 |
 
 Kesimpulan paling lengkap adalah...
-A. Fotosintesis naik dengan cahaya dan CO₂; tanpa cahaya berhenti
-B. CO₂ saja cukup, cahaya tidak penting
-C. Air tidak berpengaruh
-D. Gelembung tidak bermakna
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis naik dengan cahaya dan CO₂; tanpa cahaya berhenti
@@ -3264,10 +2880,6 @@ D. Gelembung tidak bermakna
 
 **(1) Soal:**
 Dari data Soal 96, persentase kenaikan gelembung akibat penambahan CO₂ (terang, bandingkan baris 1 dan 2) adalah...
-A. 50%
-B. 100%
-C. 200%
-D. 75%
 
 **(2) Pilihan Jawaban:**
 A. 50%
@@ -3296,10 +2908,6 @@ D. 75%
 
 **(1) Soal:**
 Mengapa pada baris "Redup + air biasa" gelembungnya jauh lebih sedikit (15) dibanding "Terang + air biasa" (45)? Penjelasan terbaik:
-A. Cahaya terbatas → energi fotosintesis terbatas → sedikit O₂
-B. Air berkurang di kondisi redup
-C. Tanaman alergi redup
-D. CO₂ habis tiba-tiba
 
 **(2) Pilihan Jawaban:**
 A. Cahaya terbatas → energi fotosintesis terbatas → sedikit O₂
@@ -3334,10 +2942,6 @@ Urutan yang benar tentang perjalanan membentuk biji berisi pati:
 4. Biji tersimpan penuh pati = gabah/padi siap panen.
 
 Urutan yang benar adalah...
-A. 1 → 2 → 3 → 4
-B. 2 → 1 → 4 → 3
-C. 3 → 2 → 1 → 4
-D. 1 → 3 → 2 → 4
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3 → 4
@@ -3374,10 +2978,6 @@ Sebuah tanah tercemar minyak menutupi pori-pori (rumput menguning). Selain mence
 4. Fotosintesis melambat → daun menguning layu.
 
 Urutan yang benar adalah...
-A. 1 → 2 → 3 → 4
-B. 4 → 3 → 2 → 1
-C. 2 → 1 → 3 → 4
-D. 1 → 3 → 2 → 4
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3 → 4

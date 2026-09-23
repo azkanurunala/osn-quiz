@@ -165,10 +165,6 @@ Langkah 3: Mesin hanya menggerakkan, bukan penyebab utama naik → B.
 
 **(1) Soal:**
 Tekanan dalam IPA didefinisikan sebagai...
-A. Gaya yang bekerja pada tiap satuan luas permukaan
-B. Gaya dikalikan luas permukaan
-C. Luas permukaan dibagi gaya
-D. Berat benda secara keseluruhan
 
 **(2) Pilihan Jawaban:**
 A. Gaya yang bekerja pada tiap satuan luas permukaan
@@ -197,10 +193,6 @@ D. Berat benda secara keseluruhan
 
 **(1) Soal:**
 Besar kecilnya tekanan yang dihasilkan zat padat dipengaruhi oleh...
-A. Suhu dan warna benda
-B. Hanya besarnya gaya saja
-C. Gaya tekan dan luas permukaan
-D. Hanya luas permukaan saja
 
 **(2) Pilihan Jawaban:**
 A. Suhu dan warna benda
@@ -229,10 +221,6 @@ D. Hanya luas permukaan saja
 
 **(1) Soal:**
 Pisau yang tajam lebih mudah memotong buah daripada pisau tumpul karena...
-A. Pisau tajam memiliki gaya potong yang lebih besar
-B. Mata pisau tipis membuat luas permukaan irisannya kecil sehingga tekanannya besar
-C. Pisau tajam memperbesar luas permukaan yang menyentuh buah
-D. Pisau tajam membuat buah menjadi lebih lunak
 
 **(2) Pilihan Jawaban:**
 A. Pisau tajam memiliki gaya potong yang lebih besar
@@ -261,10 +249,6 @@ D. Pisau tajam membuat buah menjadi lebih lunak
 
 **(1) Soal:**
 Ujung paku dibuat runcing (sempit) agar...
-A. Mudah menembus kayu karena tekanannya besar
-B. Mudah menembus kayu karena tekanannya kecil
-C. Paku terlihat lebih kecil
-D. Paku menjadi lebih ringan
 
 **(2) Pilihan Jawaban:**
 A. Mudah menembus kayu karena tekanannya besar
@@ -293,10 +277,6 @@ D. Paku menjadi lebih ringan
 
 **(1) Soal:**
 Pendaki yang berjalan di atas salju tebal memakai sepatu salju yang alasnya lebar supaya...
-A. Berat badan terkumpul pada satu titik sehingga mudah mencetak jejak
-B. Tekanan tubuh besar sehingga salju cepat mencair
-C. Berat tubuh tersebar ke luas alas besar sehingga tekanannya kecil dan tidak mudah tenggelam
-D. Sepatu lebih hangat saat di gunung
 
 **(2) Pilihan Jawaban:**
 A. Berat badan terkumpul pada satu titik sehingga mudah mencetak jejak
@@ -325,10 +305,6 @@ D. Sepatu lebih hangat saat di gunung
 
 **(1) Soal:**
 Sebuah kotak beratnya 400 N berdiri di atas meja. Luas permukaan kotak yang menyentuh meja adalah 20 cm². Tekanan yang diberikan kotak ke meja adalah...
-A. 10 N/cm²
-B. 20 N/cm²
-C. 40 N/cm²
-D. 800 N/cm²
 
 **(2) Pilihan Jawaban:**
 A. 10 N/cm²
@@ -358,10 +334,6 @@ D. 800 N/cm²
 
 **(1) Soal:**
 Sebuah batu bata beratnya 250 N diletakkan di atas tanah. Jika luas permukaan bata yang menyentuh tanah adalah 50 cm², tekanan bata ke tanah sebesar...
-A. 2 N/cm²
-B. 5 N/cm²
-C. 200 N/cm²
-D. 12.500 N/cm²
 
 **(2) Pilihan Jawaban:**
 A. 2 N/cm²
@@ -390,10 +362,6 @@ D. 12.500 N/cm²
 
 **(1) Soal:**
 Jika gaya yang sama diberikan, tetapi luas permukaan tempat gaya bekerja diperbesar, maka tekanan yang terjadi akan semakin...
-A. Kecil
-B. Besar
-C. Tetap
-D. Tidak terdefinisi
 
 **(2) Pilihan Jawaban:**
 A. Kecil
@@ -422,10 +390,6 @@ D. Tidak terdefinisi
 
 **(1) Soal:**
 Tekanan hidrostatis adalah tekanan yang ditimbulkan oleh...
-A. Benda padat di atas meja
-B. Angin yang bertiup kencang
-C. Berat zat cair yang berada di atas suatu titik
-D. Bunyi yang merambat dalam air
 
 **(2) Pilihan Jawaban:**
 A. Benda padat di atas meja
@@ -454,10 +418,6 @@ D. Bunyi yang merambat dalam air
 
 **(1) Soal:**
 Semakin dalam suatu benda berada di dalam air, tekanan yang dialaminya semakin...
-A. Sedikit
-B. Besar
-C. Tetap
-D. Bergantung ukuran benda
 
 **(2) Pilihan Jawaban:**
 A. Sedikit
@@ -486,10 +446,6 @@ D. Bergantung ukuran benda
 
 **(1) Soal:**
 Telinga terasa sakit saat kita menyelam cukup dalam karena...
-A. Tekanan air semakin besar dengan bertambahnya kedalaman
-B. Air masuk ke dalam telinga tanpa sebab
-C. Udara di telinga menjadi terlalu tinggi tekanannya
-D. Suhu air di dasar lebih dingin
 
 **(2) Pilihan Jawaban:**
 A. Tekanan air semakin besar dengan bertambahnya kedalaman
@@ -518,10 +474,6 @@ D. Suhu air di dasar lebih dingin
 
 **(1) Soal:**
 Dinding bendungan dibuat lebih tebal di bagian bawah karena...
-A. Tekanan air paling besar di permukaan
-B. Tekanan air sama besar di semua bagian
-C. Air tidak memberikan tekanan sama sekali
-D. Tekanan air paling besar di dekat dasar bendungan
 
 **(2) Pilihan Jawaban:**
 A. Tekanan air paling besar di permukaan
@@ -550,10 +502,6 @@ D. Tekanan air paling besar di dekat dasar bendungan
 
 **(1) Soal:**
 Tekanan hidrostatis dipengaruhi oleh...
-A. Warna dan bau zat cair
-B. Bentuk wadah serta besarnya wadah
-C. Kedalaman dan massa jenis zat cair
-D. Suhu dan kelembapan udara
 
 **(2) Pilihan Jawaban:**
 A. Warna dan bau zat cair
@@ -582,10 +530,6 @@ D. Suhu dan kelembapan udara
 
 **(1) Soal:**
 Sebuah kolam berisi air setinggi 5 m. Jika massa jenis air 1000 kg/m³ dan percepatan gravitasi 10 N/kg, tekanan hidrostatis di dasar kolam adalah...
-A. 500 N/m²
-B. 50.000 N/m²
-C. 5.000 N/m²
-D. 500.000 N/m²
 
 **(2) Pilihan Jawaban:**
 A. 500 N/m²
@@ -615,10 +559,6 @@ D. 500.000 N/m²
 
 **(1) Soal:**
 Sebuah titik A berada di kedalaman 1 m, sedangkan titik B berada di kedalaman 3 m dalam air yang sama. Tekanan hidrostatis di titik B dibandingkan titik A adalah...
-A. 3 kali lebih besar
-B. 2 kali lebih besar
-C. Sama besar
-D. 3 kali lebih kecil
 
 **(2) Pilihan Jawaban:**
 A. 3 kali lebih besar
@@ -647,10 +587,6 @@ D. 3 kali lebih kecil
 
 **(1) Soal:**
 Hukum Archimedes menyatakan bahwa benda yang dicelupkan ke dalam zat cair mendapat gaya dorong ke atas sebesar...
-A. Berat benda itu sendiri
-B. Berat wadah tempat zat cair
-C. Volume benda dikurangi volume air
-D. Berat zat cair yang dipindahkan oleh benda
 
 **(2) Pilihan Jawaban:**
 A. Berat benda itu sendiri
@@ -679,10 +615,6 @@ D. Berat zat cair yang dipindahkan oleh benda
 
 **(1) Soal:**
 Sekeping kayu mengapung di permukaan air karena...
-A. Kayu lebih berat daripada volume air yang dipindahkannya
-B. Massa jenis kayu lebih kecil daripada massa jenis air
-C. Kayu tidak menerima gaya gravitasi
-D. Air menolak semua benda padat
 
 **(2) Pilihan Jawaban:**
 A. Kayu lebih berat daripada volume air yang dipindahkannya
@@ -711,10 +643,6 @@ D. Air menolak semua benda padat
 
 **(1) Soal:**
 Kerikil tenggelam ketika dimasukkan ke dalam air karena...
-A. Kerikil berwarna gelap
-B. Kerikil mempunyai banyak pori-pori
-C. Massa jenis kerikil lebih besar daripada massa jenis air
-D. Kerikil terlalu kecil untuk mengapung
 
 **(2) Pilihan Jawaban:**
 A. Kerikil berwarna gelap
@@ -743,10 +671,6 @@ D. Kerikil terlalu kecil untuk mengapung
 
 **(1) Soal:**
 Sebuah benda dikatakan **melayang** di dalam zat cair apabila...
-A. Massa jenis benda sama dengan massa jenis zat cair
-B. Massa jenis benda lebih kecil daripada zat cair
-C. Massa jenis benda lebih besar daripada zat cair
-D. Benda menempel di dasar wadah
 
 **(2) Pilihan Jawaban:**
 A. Massa jenis benda sama dengan massa jenis zat cair
@@ -775,10 +699,6 @@ D. Benda menempel di dasar wadah
 
 **(1) Soal:**
 Kapal laut dibuat dari besi, tetapi tetap dapat mengapung di laut. Sebabnya adalah...
-A. Besi di kapal memakai jenis khusus yang lebih ringan dari air
-B. Kapal laut memakai mesin yang melawan gravitasi
-C. Laut berisi bantalan udara di bawah kapal
-D. Badan kapal berongga sehingga massa jenis rata-ratanya lebih kecil dari air
 
 **(2) Pilihan Jawaban:**
 A. Besi di kapal memakai jenis khusus yang lebih ringan dari air
@@ -807,10 +727,6 @@ D. Badan kapal berongga sehingga massa jenis rata-ratanya lebih kecil dari air
 
 **(1) Soal:**
 Kapal selam dapat menyelam ke dalam laut karena...
-A. Membuang air dari tangki pemberat sehingga lebih ringan
-B. Memasukkan air laut ke tangki pemberat sehingga lebih berat
-C. Memperbesar layarnya
-D. Menyalakan lampu yang kuat
 
 **(2) Pilihan Jawaban:**
 A. Membuang air dari tangki pemberat sehingga lebih ringan
@@ -839,10 +755,6 @@ D. Menyalakan lampu yang kuat
 
 **(1) Soal:**
 Balon udara panas dapat membumbung tinggi karena...
-A. Udara di dalam balon lebih berat daripada udara luar
-B. Balon terbuat dari bahan yang sangat ringan
-C. Gas atau udara panas di dalam balon lebih ringan sehingga gaya angkatnya besar
-D. Angin di dalam balon mendorongnya ke atas
 
 **(2) Pilihan Jawaban:**
 A. Udara di dalam balon lebih berat daripada udara luar
@@ -871,10 +783,6 @@ D. Angin di dalam balon mendorongnya ke atas
 
 **(1) Soal:**
 Sebuah telur tenggelam di dalam air tawar, tetapi mengapung di dalam air garam. Hal ini terjadi karena...
-A. Massa jenis air garam lebih besar daripada air tawar
-B. Air garam lebih dingin daripada air tawar
-C. Telur menjadi lebih ringan di air garam
-D. Air garam menolak benda berbentuk telur
 
 **(2) Pilihan Jawaban:**
 A. Massa jenis air garam lebih besar daripada air tawar
@@ -903,10 +811,6 @@ D. Air garam menolak benda berbentuk telur
 
 **(1) Soal:**
 Bunyi hukum Pascal yang benar adalah...
-A. Tekanan zat cair yang bergerak diteruskan ke satu arah saja
-B. Tekanan pada benda padat diteruskan ke segala arah
-C. Tekanan zat cair bertambah seiring kedalaman
-D. Tekanan yang diberikan pada zat cair dalam ruang tertutup diteruskan ke segala arah dengan sama besar
 
 **(2) Pilihan Jawaban:**
 A. Tekanan zat cair yang bergerak diteruskan ke satu arah saja
@@ -935,10 +839,6 @@ D. Tekanan yang diberikan pada zat cair dalam ruang tertutup diteruskan ke segal
 
 **(1) Soal:**
 Dongkrak hidrolik dapat mengangkat mobil yang sangat berat karena memanfaatkan...
-A. Hukum Archimedes
-B. Hukum Pascal
-C. Tekanan hidrostatis
-D. Bejana berhubungan
 
 **(2) Pilihan Jawaban:**
 A. Hukum Archimedes
@@ -967,10 +867,6 @@ D. Bejana berhubungan
 
 **(1) Soal:**
 Rem hidrolik pada sepeda motor bekerja berdasarkan prinsip bahwa tekanan zat cair diteruskan...
-A. Hanya ke arah pedal rem
-B. Hanya ke arah roda depan
-C. Ke segala arah dengan sama besar
-D. Ke segala arah dengan besar yang berbeda-beda
 
 **(2) Pilihan Jawaban:**
 A. Hanya ke arah pedal rem
@@ -999,10 +895,6 @@ D. Ke segala arah dengan besar yang berbeda-beda
 
 **(1) Soal:**
 Saat menghisap obat dengan alat suntik (spuit), kemudian menekan pengisapnya, cairan obat menyemprot dari jarum. Hal ini sesuai dengan...
-A. Tekanan cairan dalam ruang tertutup diteruskan ke segala arah
-B. Cairan mengumpul di ujung spuit
-C. Obat menguap karena dorongan tangan
-D. Udara luar menarik obat keluar dari jarum
 
 **(2) Pilihan Jawaban:**
 A. Tekanan cairan dalam ruang tertutup diteruskan ke segala arah
@@ -1031,10 +923,6 @@ D. Udara luar menarik obat keluar dari jarum
 
 **(1) Soal:**
 Jembatan angkat di tempat cuci mobil yang mengangkat mobil ke atas memakai minyak dan dua piston. Alat ini bekerja berdasarkan...
-A. Hukum Archimedes
-B. Hukum kekekalan energi
-C. Bejana berhubungan
-D. Hukum Pascal
 
 **(2) Pilihan Jawaban:**
 A. Hukum Archimedes
@@ -1063,10 +951,6 @@ D. Hukum Pascal
 
 **(1) Soal:**
 Kamu menekan salah satu bagian permukaan zat cair di dalam botol tertutup. Menurut hukum Pascal, tekanan itu akan...
-A. Hilang di tengah botol
-B. Tersebar ke segala arah dengan sama besar
-C. Naik ke atas botol saja
-D. Berubah menjadi gaya tarik
 
 **(2) Pilihan Jawaban:**
 A. Hilang di tengah botol
@@ -1095,10 +979,6 @@ D. Berubah menjadi gaya tarik
 
 **(1) Soal:**
 Jika beberapa bejana berbeda bentuk saling dihubungkan dan diisi air yang sama jenis, maka permukaan air pada semua bejana akan...
-A. Berbeda tinggi mengikuti bentuk bejana
-B. Selalu rata-rata
-C. Sama tinggi (datar)
-D. Tinggi pada bejana yang luas saja
 
 **(2) Pilihan Jawaban:**
 A. Berbeda tinggi mengikuti bentuk bejana
@@ -1125,10 +1005,6 @@ D. Tinggi pada bejana yang luas saja
 
 **(1) Soal:**
 Teko tempat memasak air dibuat dengan cerat (mulut) yang tingginya sama dengan tinggi badan teko. Tujuannya adalah...
-A. Permukaan air dalam teko dan cerat selalu sama tinggi, sehingga air tidak mudah tumpah sebelum mendidih
-B. Cerat agar terlihat menarik
-C. Air di cerat selalu lebih tinggi sehingga cepat mendidih
-D. Agar uap keluar lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Permukaan air dalam teko dan cerat selalu sama tinggi, sehingga air tidak mudah tumpah sebelum mendidih
@@ -1157,10 +1033,6 @@ D. Agar uap keluar lebih banyak
 
 **(1) Soal:**
 Dua ember dihubungkan dengan selang berisi air dan diisi air yang sama. Setelah air diam, permukaan air di kedua ember...
-A. Selalu lebih tinggi di ember pertama
-B. Selalu lebih tinggi di ember kedua
-C. Naik turun tanpa aturan
-D. Berada pada ketinggian yang sama
 
 **(2) Pilihan Jawaban:**
 A. Selalu lebih tinggi di ember pertama
@@ -1189,10 +1061,6 @@ D. Berada pada ketinggian yang sama
 
 **(1) Soal:**
 Sebuah botol diberi tiga lubang pada ketinggian berbeda lalu diisi air. Semburan air yang paling kencang dan paling jauh berasal dari lubang...
-A. Paling atas
-B. Paling bawah
-C. Tengah
-D. Semua lubang sama kencang
 
 **(2) Pilihan Jawaban:**
 A. Paling atas
@@ -1221,10 +1089,6 @@ D. Semua lubang sama kencang
 
 **(1) Soal:**
 Udara juga memiliki berat sehingga menekan benda-benda di sekitarnya. Tekanan tersebut disebut...
-A. Tekanan hidrostatis
-B. Tekanan zat padat
-C. Tekanan udara (atmosfer)
-D. Tekanan pascal
 
 **(2) Pilihan Jawaban:**
 A. Tekanan hidrostatis
@@ -1253,10 +1117,6 @@ D. Tekanan pascal
 
 **(1) Soal:**
 Alat yang digunakan untuk mengukur tekanan udara adalah...
-A. Barometer
-B. Termometer
-C. Higrometer
-D. Stetoskop
 
 **(2) Pilihan Jawaban:**
 A. Barometer
@@ -1285,10 +1145,6 @@ D. Stetoskop
 
 **(1) Soal:**
 Perbandingan tekanan udara di puncak gunung dan di pantai yang benar adalah...
-A. Di puncak gunung tekanan udara lebih besar
-B. Di pantai tekanan udara lebih kecil
-C. Tekanan udara sama di keduanya
-D. Di puncak gunung tekanan udara lebih kecil daripada di pantai
 
 **(2) Pilihan Jawaban:**
 A. Di puncak gunung tekanan udara lebih besar
@@ -1317,10 +1173,6 @@ D. Di puncak gunung tekanan udara lebih kecil daripada di pantai
 
 **(1) Soal:**
 Saat meminum minuman manis dengan sedotan, minuman dapat naik ke mulut karena...
-A. Sedotan menarik minuman dengan gaya magnet
-B. Isapan membuat tekanan udara di dalam sedotan kecil sehingga udara luar menekan permukaan minuman dan mendorongnya naik
-C. Minuman menjadi lebih ringan saat melewati sedotan
-D. Sedotan memanaskan minuman sehingga menguap
 
 **(2) Pilihan Jawaban:**
 A. Sedotan menarik minuman dengan gaya magnet
@@ -1349,10 +1201,6 @@ D. Sedotan memanaskan minuman sehingga menguap
 
 **(1) Soal:**
 Balon udara berisi udara panas akan naik, sedangkan balon berisi udara biasa (ditiup) akan jatuh perlahan. Penyebab perbedaannya adalah...
-A. Balon ditiup terbuat dari bahan yang lebih berat
-B. Balon berisi udara biasa lebih ringan daripada balon berisi udara panas
-C. Udara panas di dalam balon massa jenisnya lebih kecil daripada udara luar, sedangkan udara biasa massanya hampir sama dengan udara luar
-D. Angin hanya meniup balon yang panas
 
 **(2) Pilihan Jawaban:**
 A. Balon ditiup terbuat dari bahan yang lebih berat
@@ -1381,10 +1229,6 @@ D. Angin hanya meniup balon yang panas
 
 **(1) Soal:**
 Contoh pemanfaatan tekanan gas dalam kehidupan sehari-hari adalah...
-A. Mengisi ban sepeda dengan pompa sehingga ban terasa keras dan kuat
-B. Menyiram tanaman dengan gembor tanpa dipompa
-C. Mengikat tali sepatu dengan kuat
-D. Memotong kertas dengan gunting
 
 **(2) Pilihan Jawaban:**
 A. Mengisi ban sepeda dengan pompa sehingga ban terasa keras dan kuat
@@ -1413,10 +1257,6 @@ D. Memotong kertas dengan gunting
 
 **(1) Soal:**
 Pisau yang sudah tumpul diasah kembali agar tajam. Menggosok mata pisau ke batu asah membuat pisau tajam kembali karena luas permukaan mata pisau...
-A. Diperbesar sehingga tekanannya kecil
-B. Dibuat bergelombang
-C. Diperkecil sehingga tekanannya besar dan mudah memotong
-D. Dilapisi batu sehingga lebih kuat
 
 **(2) Pilihan Jawaban:**
 A. Diperbesar sehingga tekanannya kecil
@@ -1445,10 +1285,6 @@ D. Dilapisi batu sehingga lebih kuat
 
 **(1) Soal:**
 Sebuah lemari beratnya 600 N. Luas kaki lemari yang menyentuh lantai seluruhnya 30 cm². Tekanan yang diberikan lemari ke lantai adalah...
-A. 10 N/cm²
-B. 15 N/cm²
-C. 20 N/cm²
-D. 30 N/cm²
 
 **(2) Pilihan Jawaban:**
 A. 10 N/cm²
@@ -1477,10 +1313,6 @@ D. 30 N/cm²
 
 **(1) Soal:**
 Sebuah balok memberi tekanan 40 N/cm² ke lantai dengan gaya 800 N. Luas permukaan balok yang menyentuh lantai adalah...
-A. 10 cm²
-B. 20 cm²
-C. 40 cm²
-D. 800 cm²
 
 **(2) Pilihan Jawaban:**
 A. 10 cm²
@@ -1509,10 +1341,6 @@ D. 800 cm²
 
 **(1) Soal:**
 Sebuah kotak menekan meja dengan tekanan 25 N/cm² dan luas alas kotak yang menyentuh meja 8 cm². Gaya yang diberikan kotak ke meja adalah...
-A. 200 N
-B. 25 N
-C. 33 N
-D. 3 N
 
 **(2) Pilihan Jawaban:**
 A. 200 N
@@ -1541,10 +1369,6 @@ D. 3 N
 
 **(1) Soal:**
 Sebuah dongkrak hidrolik memiliki piston kecil seluas 4 cm² dan piston besar seluas 20 cm². Jika piston kecil ditekan dengan gaya 80 N, gaya pada piston besar sebesar...
-A. 100 N
-B. 16 N
-C. 80 N
-D. 400 N
 
 **(2) Pilihan Jawaban:**
 A. 100 N
@@ -1573,10 +1397,6 @@ D. 400 N
 
 **(1) Soal:**
 Gaya yang sama sebesar 100 N masing-masing bekerja pada permukaan X seluas 10 cm² dan permukaan Y seluas 50 cm². Tekanan pada permukaan X dibandingkan permukaan Y adalah...
-A. 2 kali lebih besar
-B. 5 kali lebih besar
-C. Sama besar
-D. 5 kali lebih kecil
 
 **(2) Pilihan Jawaban:**
 A. 2 kali lebih besar
@@ -1605,10 +1425,6 @@ D. 5 kali lebih kecil
 
 **(1) Soal:**
 Untuk membuat telur mengapung di air, kita menambahkan garam ke dalam air. Garam membuat air...
-A. Massa jenisnya menjadi lebih kecil
-B. Massa jenisnya menjadi lebih besar sehingga gaya apungnya bertambah
-C. Berubah menjadi minyak
-D. Suhunya menjadi sangat dingin
 
 **(2) Pilihan Jawaban:**
 A. Massa jenisnya menjadi lebih kecil
@@ -1637,10 +1453,6 @@ D. Suhunya menjadi sangat dingin
 
 **(1) Soal:**
 Titik A berada di kedalaman 2 m dan titik B di kedalaman 6 m dalam satu kolam air yang sama. Tekanan hidrostatis di titik B adalah...
-A. 2 kali tekanan di A
-B. 3 kali tekanan di A
-C. 4 kali tekanan di A
-D. Sama dengan tekanan di A
 
 **(2) Pilihan Jawaban:**
 A. 2 kali tekanan di A
@@ -1669,10 +1481,6 @@ D. Sama dengan tekanan di A
 
 **(1) Soal:**
 Lantai kolam renang yang dalam harus dibuat kuat dan tebal karena...
-A. Banyak orang melompat di dasar
-B. Air di dasar lebih dingin
-C. Lantai dasar lebih sering kering
-D. Di bagian dasar tekanan air paling besar
 
 **(2) Pilihan Jawaban:**
 A. Banyak orang melompat di dasar
@@ -1701,10 +1509,6 @@ D. Di bagian dasar tekanan air paling besar
 
 **(1) Soal:**
 Agar berlaku aturan "permukaan zat cair selalu datar" pada bejana berhubungan, syarat zat cairnya adalah...
-A. Zat cairnya boleh berbeda jenis
-B. Zat cairnya sama jenis (sejenis)
-C. Zat cairnya dipanaskan
-D. Zat cairnya bergerak cepat
 
 **(2) Pilihan Jawaban:**
 A. Zat cairnya boleh berbeda jenis
@@ -1733,10 +1537,6 @@ D. Zat cairnya bergerak cepat
 
 **(1) Soal:**
 Ban sepeda yang terisi penuh udara terasa keras dan mampu menahan beban pengendara. Hal ini membuktikan bahwa...
-A. Udara tidak memberi tekanan
-B. Gas dalam ruang tertutup memberikan tekanan ke segala arah
-C. Udara hanya menekan ke bawah
-D. Ban memakai gaya tarik magnet
 
 **(2) Pilihan Jawaban:**
 A. Udara tidak memberi tekanan
@@ -1765,10 +1565,6 @@ D. Ban memakai gaya tarik magnet
 
 **(1) Soal:**
 Seorang koki memiliki dua pisau dengan bahan sama dan gagang sama, tetapi pisau A bermata lebih tipis daripada pisau B. Tekanan potong yang benar adalah...
-A. Pisau A menghasilkan tekanan lebih besar karena luas permukaan irisannya lebih kecil
-B. Pisau B menghasilkan tekanan lebih besar karena lebih tebal
-C. Keduanya sama besar karena bahan dan gagangnya sama
-D. Tidak bisa dibandingkan karena belum dipakai
 
 **(2) Pilihan Jawaban:**
 A. Pisau A menghasilkan tekanan lebih besar karena luas permukaan irisannya lebih kecil
@@ -1797,10 +1593,6 @@ D. Tidak bisa dibandingkan karena belum dipakai
 
 **(1) Soal:**
 Dua orang dengan berat sama berjalan di atas salju. Orang A memakai sepatu berujung sempit, orang B memakai sepatu salju berpermukaan lebar. Peristiwa yang paling mungkin terjadi adalah...
-A. Keduanya tenggelam sama dalam
-B. Orang B tenggelam lebih dalam karena sepatunya besar
-C. Orang A tenggelam lebih dalam karena luas alas kecil → tekanan besar
-D. Keduanya tidak pernah tenggelam
 
 **(2) Pilihan Jawaban:**
 A. Keduanya tenggelam sama dalam
@@ -1829,10 +1621,6 @@ D. Keduanya tidak pernah tenggelam
 
 **(1) Soal:**
 Sebuah jerigen berisi air bermassa 12 kg diletakkan di atas permukaan tanah. Jika luas alas jerigen 40 cm² dan percepatan gravitasi 10 N/kg, tekanan jerigen ke tanah adalah...
-A. 3 N/cm²
-B. 5 N/cm²
-C. 30 N/cm²
-D. 300 N/cm²
 
 **(2) Pilihan Jawaban:**
 A. 3 N/cm²
@@ -1861,10 +1649,6 @@ D. 300 N/cm²
 
 **(1) Soal:**
 Bejana P berbentuk kerucut dan bejana Q berbentuk tabung diisi air sampai permukaan airnya sama tinggi pada kedalaman yang sama. Tekanan hidrostatis di dasar kedua bejana adalah...
-A. Lebih besar di bejana kerucut karena bentuknya runcing
-B. Sama besar karena kedalaman airnya sama
-C. Lebih besar di bejana tabung karena lebih luas
-D. Tidak dapat dibandingkan
 
 **(2) Pilihan Jawaban:**
 A. Lebih besar di bejana kerucut karena bentuknya runcing
@@ -1893,10 +1677,6 @@ D. Tidak dapat dibandingkan
 
 **(1) Soal:**
 Sebuah bendungan setinggi 10 m. Penampang melintangnya dibuat paling tebal pada kedalaman sekitar...
-A. 9–10 m dari permukaan (dekat dasar)
-B. 0–1 m dari permukaan
-C. 5 m tepat di tengah saja
-D. Seluruhnya sama tebal
 
 **(2) Pilihan Jawaban:**
 A. 9–10 m dari permukaan (dekat dasar)
@@ -1925,10 +1705,6 @@ D. Seluruhnya sama tebal
 
 **(1) Soal:**
 Sebuah danau memiliki kedalaman maksimum 8 m. Tekanan hidrostatis di dasar danau (ρ air = 1000 kg/m³, g = 10 N/kg) dibandingkan tekanan di titik yang hanya 2 m di bawah permukaan adalah...
-A. 8 kali lebih besar
-B. 2 kali lebih besar
-C. 16 kali lebih besar
-D. 4 kali lebih besar
 
 **(2) Pilihan Jawaban:**
 A. 8 kali lebih besar
@@ -1957,10 +1733,6 @@ D. 4 kali lebih besar
 
 **(1) Soal:**
 Dua bejana terpisah diisi sampai ketinggian sama: bejana A dengan air (ρ = 1000 kg/m³) dan bejana B dengan larutan garam pekat (ρ = 1200 kg/m³). Tekanan hidrostatis di dasar bejana A dan B adalah...
-A. Sama besar karena tingginya sama
-B. Lebih besar di bejana A karena air tawar
-C. Lebih besar di bejana B karena massa jenisnya lebih besar
-D. Tidak bisa ditentukan tanpa volume
 
 **(2) Pilihan Jawaban:**
 A. Sama besar karena tingginya sama
@@ -1989,10 +1761,6 @@ D. Tidak bisa ditentukan tanpa volume
 
 **(1) Soal:**
 Sebuah balok baja pejal tenggelam di laut, tetapi kapal yang terbuat dari baja yang sama dapat mengapung. Perbedaan keduanya adalah...
-A. Kapal bermesin sehingga tidak tenggelam
-B. Kapal berbentuk berongga sehingga massa jenis rata-ratanya lebih kecil dari air laut
-C. Baja kapal digunakan jenis yang lebih ringan
-D. Laut menolak benda yang terlalu besar
 
 **(2) Pilihan Jawaban:**
 A. Kapal bermesin sehingga tidak tenggelam
@@ -2021,10 +1789,6 @@ D. Laut menolak benda yang terlalu besar
 
 **(1) Soal:**
 Kapal selam yang menyelam pada kedalaman 50 m akan naik ke permukaan. Urutan peristiwa yang benar adalah...
-A. Air tangki pemberat dibuang → kapal lebih ringan → gaya apung lebih besar dari berat → kapal naik
-B. Air tangki diisi penuh → kapal lebih berat → naik lebih cepat
-C. Mesin dimatikan → kapal otomatis mengapung
-D. Udara dibuang keluar → kapal lebih ringan → naik
 
 **(2) Pilihan Jawaban:**
 A. Air tangki pemberat dibuang → kapal lebih ringan → gaya apung lebih besar dari berat → kapal naik
@@ -2053,10 +1817,6 @@ D. Udara dibuang keluar → kapal lebih ringan → naik
 
 **(1) Soal:**
 Pilot balon udara ingin balonnya turun perlahan. Langkah yang paling tepat adalah...
-A. Menyalakan api lebih besar agar balon membesar
-B. Menambah beban pasir di keranjang balon
-C. Mengurangi panas di dalam balon (atau melepas sebagian udara panas) sehingga gaya angkat berkurang
-D. Melepas semua tali keranjang
 
 **(2) Pilihan Jawaban:**
 A. Menyalakan api lebih besar agar balon membesar
@@ -2083,10 +1843,6 @@ D. Melepas semua tali keranjang
 
 **(1) Soal:**
 Telur asin sering mengapung di permukaan larutan air garam, sedangkan telur segar tenggelam. Kesimpulan yang paling tepat adalah...
-A. Telur asin lebih ringan daripada telur segar
-B. Telur asin berisi udara yang membuatnya ringan
-C. Massa jenis larutan air garam cukup besar sehingga gaya apungnya mengangkat telur
-D. Garam membuat telur menjadi plastik
 
 **(2) Pilihan Jawaban:**
 A. Telur asin lebih ringan daripada telur segar
@@ -2115,10 +1871,6 @@ D. Garam membuat telur menjadi plastik
 
 **(1) Soal:**
 Dua benda X dan Y memiliki volume sama. X tercelup seluruhnya di dalam air, sedangkan Y hanya tercelup sebagian (sisanya di atas permukaan). Pernyataan yang benar adalah...
-A. Benda X menerima gaya apung lebih besar daripada Y
-B. Benda Y menerima gaya apung lebih besar daripada X karena bentuknya lebih ringan
-C. Keduanya menerima gaya apung sama karena volume totalnya sama
-D. Tidak ada gaya apung pada keduanya
 
 **(2) Pilihan Jawaban:**
 A. Benda X menerima gaya apung lebih besar daripada Y
@@ -2147,10 +1899,6 @@ D. Tidak ada gaya apung pada keduanya
 
 **(1) Soal:**
 Sebuah dongkrak hidrolik memiliki piston kecil seluas 5 cm² dan piston besar seluas 60 cm². Piston kecil ditekan dengan gaya 50 N. Gaya angkat yang dihasilkan piston besar adalah...
-A. 600 N
-B. 300 N
-C. 50 N
-D. 12 N
 
 **(2) Pilihan Jawaban:**
 A. 600 N
@@ -2179,10 +1927,6 @@ D. 12 N
 
 **(1) Soal:**
 Rem hidrolik lebih disukai daripada rem kawat pada sepeda motor besar karena...
-A. Minyak rem membuat mesin lebih dingin
-B. Kawat lebih mahal daripada minyak
-C. Tekanan dari tangan diteruskan ke kampas rem dengan merata dan ampuh
-D. Minyak rem dapat menekan kampas langsung tanpa perantara
 
 **(2) Pilihan Jawaban:**
 A. Minyak rem membuat mesin lebih dingin
@@ -2211,10 +1955,6 @@ D. Minyak rem dapat menekan kampas langsung tanpa perantara
 
 **(1) Soal:**
 Peristiwa pada alat suntik: menarik pengisap → obat masuk ke dalam tabung; menekan pengisap → obat keluar lewat jarum. Prinsip pertama (obat masuk) berkaitan dengan...
-A. Hukum Pascal sebab tabungnya tertutup
-B. Hukum Archimedes pada cairan obat
-C. Perbedaan tekanan udara: ruang tabung membesar → tekanannya kecil → obat didorong masuk oleh tekanan luar
-D. Kapilaritas jarum suntik
 
 **(2) Pilihan Jawaban:**
 A. Hukum Pascal sebab tabungnya tertutup
@@ -2243,10 +1983,6 @@ D. Kapilaritas jarum suntik
 
 **(1) Soal:**
 Sebuah selang transparan berisi air diletakkan miring, ujung kiri lebih tinggi daripada ujung kanan. Setelah air berhenti mengalir, permukaan air di kedua ujung selang...
-A. Lebih tinggi di ujung kiri karena posisinya lebih tinggi
-B. Sama tinggi (datar) karena membentuk bejana berhubungan
-C. Lebih tinggi di ujung kanan karena lebih rendah
-D. Tidak menentu
 
 **(2) Pilihan Jawaban:**
 A. Lebih tinggi di ujung kiri karena posisinya lebih tinggi
@@ -2275,10 +2011,6 @@ D. Tidak menentu
 
 **(1) Soal:**
 Teko diisi air sampai penuh lalu ditutup rapat dengan tutup tanpa lubang; saat air mendidih kuat, isi teko bisa terdorong keluar dari cerat. Ini berkaitan dengan...
-A. Tekanan uap/udara panas menekan air dalam bejana tertutup sehingga terdorong keluar
-B. Air menyusut saat panas sehingga menarik tutup
-C. Teko menyedot udara luar
-D. Gaya gravitasi berubah arah di dalam teko
 
 **(2) Pilihan Jawaban:**
 A. Tekanan uap/udara panas menekan air dalam bejana tertutup sehingga terdorong keluar
@@ -2307,10 +2039,6 @@ D. Gaya gravitasi berubah arah di dalam teko
 
 **(1) Soal:**
 Seorang anak membuat tiga lubang di botol: lubang 1 (teratas), lubang 2 (tengah), lubang 3 (terbawah), lalu mengisi botol penuh air. Urutan jarak semburan dari terjauh ke terdekat adalah...
-A. Lubang 1 → lubang 2 → lubang 3
-B. Ketiganya sama jauh
-C. Lubang 2 paling jauh karena di tengah
-D. Lubang 3 → lubang 2 → lubang 1
 
 **(2) Pilihan Jawaban:**
 A. Lubang 1 → lubang 2 → lubang 3
@@ -2339,10 +2067,6 @@ D. Lubang 3 → lubang 2 → lubang 1
 
 **(1) Soal:**
 Seorang pendaki membawa barometer dari pantai (0 m) ke puncak gunung (2.500 m). Perubahan yang terjadi pada barometer adalah...
-A. Angka tekanan udara bertambah besar
-B. Angka tekanan udara tetap
-C. Angka tekanan udara bertambah kecil
-D. Barometer berubah fungsi menjadi termometer
 
 **(2) Pilihan Jawaban:**
 A. Angka tekanan udara bertambah besar
@@ -2371,10 +2095,6 @@ D. Barometer berubah fungsi menjadi termometer
 
 **(1) Soal:**
 Saat pesawat naik ke ketinggian, tekanan udara di kabin turun sehingga telinga terasa 'tersumbat'. Membuka mulut atau menelan dapat membantu karena...
-A. Membuat telinga lebih panas
-B. Menyamakan tekanan udara di dalam telinga dengan tekanan di luar
-C. Menambah oksigen ke dalam telinga
-D. Mengeluarkan air dari telinga
 
 **(2) Pilihan Jawaban:**
 A. Membuat telinga lebih panas
@@ -2403,10 +2123,6 @@ D. Mengeluarkan air dari telinga
 
 **(1) Soal:**
 Mengapa minuman bisa naik sampai mulut padahal kita tidak menyentuhnya dengan tangan? Penjelasan yang benar adalah...
-A. Tekanan udara di dalam sedotan diperkecil (diisap), sehingga tekanan udara yang lebih besar di permukaan minuman mendorong minuman masuk sedotan dan naik
-B. Sedotan menghisap seperti penyedot debu
-C. Minuman mengalir naik karena pipa sangat sempit
-D. Gravitasi berhenti bekerja pada minuman di dalam sedotan
 
 **(2) Pilihan Jawaban:**
 A. Tekanan udara di dalam sedotan diperkecil (diisap), sehingga tekanan udara yang lebih besar di permukaan minuman mendorong minuman masuk sedotan dan naik
@@ -2435,10 +2151,6 @@ D. Gravitasi berhenti bekerja pada minuman di dalam sedotan
 
 **(1) Soal:**
 Balon yang diisi udara di pantai dibawa mendaki gunung. Saat sampai di puncak, balon menjadi lebih besar (mengembang). Penyebabnya adalah...
-A. Udara di dalam balon bertambah banyak di pegunungan
-B. Suhu di gunung sangat panas
-C. Tekanan udara luar di gunung lebih kecil sehingga udara di dalam balon mendorong keluar dan mengembang
-D. Balon menyerap udara tipis di sekitar
 
 **(2) Pilihan Jawaban:**
 A. Udara di dalam balon bertambah banyak di pegunungan
@@ -2467,10 +2179,6 @@ D. Balon menyerap udara tipis di sekitar
 
 **(1) Soal:**
 Tekanan dapat dihasilkan oleh zat padat, zat cair, dan gas. Pernyataan yang benar adalah...
-A. Hanya zat padat yang dapat menimbulkan tekanan
-B. Hanya zat cair yang dapat menimbulkan tekanan
-C. Ketiganya dapat menimbulkan tekanan, tetapi cara kerjanya berbeda
-D. Gas tidak pernah menimbulkan tekanan
 
 **(2) Pilihan Jawaban:**
 A. Hanya zat padat yang dapat menimbulkan tekanan
@@ -2499,10 +2207,6 @@ D. Gas tidak pernah menimbulkan tekanan
 
 **(1) Soal:**
 Saat memompa ban sepeda, udara akan sulit masuk ketika ban sudah mengeras. Udara yang sulit didorong itu membuktikan bahwa...
-A. Ban tidak kuat menampung udara
-B. Gas dalam ruang yang sudah penuh memberikan tekanan yang semakin besar sehingga menolak udara tambahan
-C. Udara luar menolak pompa
-D. Ban sepeda selalu kedap udara sempurna
 
 **(2) Pilihan Jawaban:**
 A. Ban tidak kuat menampung udara
@@ -2531,10 +2235,6 @@ D. Ban sepeda selalu kedap udara sempurna
 
 **(1) Soal:**
 Sebuah akuarium setinggi 60 cm terisi air penuh. Bila dibandingkan, dinding mana yang paling menerima dorongan air?
-A. Dinding dekat dasar akuarium
-B. Dinding dekat permukaan air
-C. Semua dinding sama besar
-D. Dinding bagian atas yang terbuka
 
 **(2) Pilihan Jawaban:**
 A. Dinding dekat dasar akuarium
@@ -2563,10 +2263,6 @@ D. Dinding bagian atas yang terbuka
 
 **(1) Soal:**
 Sebuah potongan styrofoam (gabus plastik) ditekan ke dasar kolam lalu dilepaskan. Styrofoam akan...
-A. Tetap diam di dasar karena menempel
-B. Melayang tepat di tengah-tengah
-C. Berputar-putar di dasar
-D. Naik kembali ke permukaan karena massa jenisnya jauh lebih kecil dari air
 
 **(2) Pilihan Jawaban:**
 A. Tetap diam di dasar karena menempel
@@ -2595,10 +2291,6 @@ D. Naik kembali ke permukaan karena massa jenisnya jauh lebih kecil dari air
 
 **(1) Soal:**
 Alat hidrolik memiliki piston kecil (A₁ = 2 cm²) dan piston besar (A₂ = 40 cm²). Agar piston besar dapat mengangkat beban, gaya pada piston kecil yang diperlukan adalah...
-A. Lebih besar daripada beban yang diangkat
-B. Sama dengan beban yang diangkat
-C. Lebih kecil daripada beban yang diangkat
-D. Tidak berhubungan dengan beban
 
 **(2) Pilihan Jawaban:**
 A. Lebih besar daripada beban yang diangkat
@@ -2627,10 +2319,6 @@ D. Tidak berhubungan dengan beban
 
 **(1) Soal:**
 Bejana berhubungan diisi air, lalu ke salah satu sisinya dituang minyak goreng (massa jenis lebih kecil dari air). Setelah tenang, permukaan minyak akan...
-A. Sama tinggi dengan air di sisi lain
-B. Lebih tinggi daripada permukaan air karena massa jenisnya lebih kecil
-C. Lebih rendah daripada permukaan air
-D. Tepat di tengah-tengah
 
 **(2) Pilihan Jawaban:**
 A. Sama tinggi dengan air di sisi lain
@@ -2659,10 +2347,6 @@ D. Tepat di tengah-tengah
 
 **(1) Soal:**
 Traktor pengangkut hasil panen menggunakan ban yang sangat lebar. Alasan penggunaan ban lebar di lahan berlumpur adalah...
-A. Berat traktor tersebar ke luas besar → tekanan kecil → traktor tidak mudah amblas ke lumpur
-B. Berat traktor terpusat → tekanan besar → traktor lebih bertenaga
-C. Ban lebar membuat traktor lebih cepat
-D. Ban lebar dipakai agar lumpur tidak mengenai badan traktor
 
 **(2) Pilihan Jawaban:**
 A. Berat traktor tersebar ke luas besar → tekanan kecil → traktor tidak mudah amblas ke lumpur
@@ -2691,10 +2375,6 @@ D. Ban lebar dipakai agar lumpur tidak mengenai badan traktor
 
 **(1) Soal:**
 Pak Budi meletakkan batu berat di atas hamparan pasir. Batu itu membuat pasir berlekuk dalam. Ketika batu yang sama diletakkan di dalam air dangkal, hasil yang benar adalah...
-A. Batu tetap membuat lekukan yang sama dalam karena beratnya tetap
-B. Di dalam air, batu lebih ringan karena ada gaya apung sehingga lekukan pasir di bawahnya lebih dangkal
-C. Batu menghilang seluruhnya di dalam air
-D. Air membuat pasir menjadi lebih keras sehingga lekukan hilang
 
 **(2) Pilihan Jawaban:**
 A. Batu tetap membuat lekukan yang sama dalam karena beratnya tetap
@@ -2723,10 +2403,6 @@ D. Air membuat pasir menjadi lebih keras sehingga lekukan hilang
 
 **(1) Soal:**
 Seorang siswa menimpa tiga balok (berat sama) ke atas tiga alas pasir yang sama. Balok A menyentuh pasir dengan sisi 20 cm², balok B dengan sisi 10 cm², dan balok C dengan sisi 5 cm². Urutan kedalaman lekukan, dari yang paling dalam ke paling dangkal, adalah...
-A. A → B → C
-B. B → A → C
-C. C → B → A
-D. A → C → B
 
 **(2) Pilihan Jawaban:**
 A. A → B → C
@@ -2755,10 +2431,6 @@ D. A → C → B
 
 **(1) Soal:**
 Lina membuat tiga lubang (atas, tengah, bawah) pada botol dan mengisinya air penuh. Ia mengamati jarak jatuh semburan: bawah paling jauh. Kemudian ia menambahkan air sampai dua kali volume awal (botol lebih tinggi, lubang-lubang tetap di posisi yang sama). Yang terjadi adalah...
-A. Semburan semakin pendek karena air sulit keluar
-B. Ketiga semburan semakin jauh karena kedalaman terhadap masing-masing lubang bertambah
-C. Semburan tidak berubah sama sekali
-D. Hanya lubang atas yang berubah
 
 **(2) Pilihan Jawaban:**
 A. Semburan semakin pendek karena air sulit keluar
@@ -2787,10 +2459,6 @@ D. Hanya lubang atas yang berubah
 
 **(1) Soal:**
 Seorang siswa meletakkan tiga pipa vertikal di dalam air dengan ujung bawahnya pada kedalaman 2 m, 4 m, dan 6 m, lalu mengukur tekanan dengan alat. Hasil yang paling mungkin ditunjukkan tabel adalah...
-A. Kedalaman 2 m → 20.000 N/m², 4 m → 40.000 N/m², 6 m → 60.000 N/m²
-B. Kedalaman 2 m → 60.000 N/m², 4 m → 40.000 N/m², 6 m → 20.000 N/m²
-C. Kedalaman 2 m → 20.000 N/m² untuk semua kedalaman
-D. Kedalaman 2 m → 6.000 N/m², 4 m → 8.000 N/m², 6 m → 10.000 N/m²
 
 **(2) Pilihan Jawaban:**
 A. Kedalaman 2 m → 20.000 N/m², 4 m → 40.000 N/m², 6 m → 60.000 N/m²
@@ -2819,10 +2487,6 @@ D. Kedalaman 2 m → 6.000 N/m², 4 m → 8.000 N/m², 6 m → 10.000 N/m²
 
 **(1) Soal:**
 Telur dimasukkan ke dalam gelas berisi air tawar, telur tenggelam. Lalu garam ditambahkan sedikit demi sedikit sambil diaduk. Urutan keadaan telur yang paling tepat adalah...
-A. Tetap tenggelam selamanya
-B. Melayang segera setelah garam pertama ditambahkan
-C. Mengapung seketika
-D. Tetap tenggelam → lalu melayang → akhirnya mengapung ketika larutan cukup pekat
 
 **(2) Pilihan Jawaban:**
 A. Tetap tenggelam selamanya
@@ -2851,10 +2515,6 @@ D. Tetap tenggelam → lalu melayang → akhirnya mengapung ketika larutan cukup
 
 **(1) Soal:**
 Dua spuit (A kecil, B besar) dihubungkan dengan selang berisi air dan ujung B ditutup rapat. Saat pengisap A ditekan, yang paling mungkin terjadi adalah...
-A. Pengisap A menekan kuat tapi B tidak bergerak karena selangnya penuh
-B. Pengisap B bergerak keluar dengan jarak yang lebih pendek daripada dorongan pengisap A, tetapi menghasilkan gaya yang lebih besar
-C. Pengisap B ikut bergerak keluar dengan jarak yang sama jauhnya seperti A
-D. Air tidak meneruskan tekanan di dalam selang
 
 **(2) Pilihan Jawaban:**
 A. Pengisap A menekan kuat tapi B tidak bergerak karena selangnya penuh
@@ -2883,10 +2543,6 @@ D. Air tidak meneruskan tekanan di dalam selang
 
 **(1) Soal:**
 Empat benda diletakkan berdiri di atas lantai. Datanya: benda 1 (gaya 400 N, luas 10 cm²), benda 2 (gaya 300 N, luas 30 cm²), benda 3 (gaya 100 N, luas 5 cm²), benda 4 (gaya 250 N, luas 25 cm²). Benda yang memberikan tekanan paling besar ke lantai adalah...
-A. Benda 1
-B. Benda 2
-C. Benda 3
-D. Benda 4
 
 **(2) Pilihan Jawaban:**
 A. Benda 1
@@ -2915,10 +2571,6 @@ D. Benda 4
 
 **(1) Soal:**
 Kapal selam di kedalaman 100 m melakukan tiga hal sekaligus: (1) mempertahankan kedalaman dengan mengatur air pemberat, (2) menahan tekanan hidrostatis yang besar, dan (3) bergerak maju. Urutan prinsip fisika yang tepat untuk tiga hal tersebut adalah...
-A. (1) Archimedes, (2) tekanan hidrostatis, (3) bukan bagian dari soal tekanan
-B. (1) Pascal, (2) Archimedes, (3) Pascal
-C. (1) hidrostatis, (2) Pascal, (3) Archimedes
-D. (1) Archimedes, (2) Archimedes, (3) hidrostatis
 
 **(2) Pilihan Jawaban:**
 A. (1) Archimedes, (2) tekanan hidrostatis, (3) bukan bagian dari soal tekanan
@@ -2948,10 +2600,6 @@ D. (1) Archimedes, (2) Archimedes, (3) hidrostatis
 
 **(1) Soal:**
 "Tekanan hidrostatis di dasar wadah hanya bergantung pada bentuk wadah; makin lebar wadah, makin besar tekanannya." Pernyataan ini...
-A. Benar, karena wadah lebar menampung air lebih banyak
-B. Benar, karena bentuk menentukan kapasitas
-C. Sebagian benar, karena luas alas memengaruhi tekanan
-D. Salah, karena tekanan hidrostatis bergantung pada ρ, g, dan h; bentuk wadah tidak berpengaruh
 
 **(2) Pilihan Jawaban:**
 A. Benar, karena wadah lebar menampung air lebih banyak
@@ -2980,10 +2628,6 @@ D. Salah, karena tekanan hidrostatis bergantung pada ρ, g, dan h; bentuk wadah 
 
 **(1) Soal:**
 Dua gelas dihubungkan selang, satu sisi diisi minyak (ρ minyak < ρ air) dan sisi lain air sampai keduanya bertemu. Ternyata permukaan minyak lebih tinggi dari permukaan air. Kesimpulan yang benar adalah...
-A. Minyak lebih berat per volume sehingga naik lebih tinggi
-B. Untuk tekanan yang sama, zat cair yang lebih ringan memerlukan tinggi kolom yang lebih besar
-C. Minyak dan air selalu memiliki permukaan yang sama tinggi
-D. Percobaan gagal karena minyak merusak alat
 
 **(2) Pilihan Jawaban:**
 A. Minyak lebih berat per volume sehingga naik lebih tinggi
@@ -3012,10 +2656,6 @@ D. Percobaan gagal karena minyak merusak alat
 
 **(1) Soal:**
 Sebuah bendungan menyimpan air. Permukaan air berada 12 m di atas titik terendah bendungan. Tekanan hidrostatis di titik terendah itu (ρ air = 1000 kg/m³, g = 10 N/kg) adalah...
-A. 12.000 N/m²
-B. 120.000 N/m²
-C. 12.000.000 N/m²
-D. 1.200 N/m²
 
 **(2) Pilihan Jawaban:**
 A. 12.000 N/m²
@@ -3042,10 +2682,6 @@ D. 1.200 N/m²
 
 **(1) Soal:**
 Perhatikan empat pernyataan berikut! (1) Gaya apung bergantung pada massa jenis zat cair dan volume benda yang tercelup. (2) Gaya apung sama dengan berat benda di udara. (3) Gaya apung hanya terjadi pada benda yang mengapung. (4) Benda tenggelam karena massa jenisnya lebih kecil dari zat cair. Pernyataan yang benar adalah...
-A. (1) saja
-B. (2) saja
-C. (3) dan (4)
-D. (1), (2), (3), dan (4)
 
 **(2) Pilihan Jawaban:**
 A. (1) saja
@@ -3074,10 +2710,6 @@ D. (1), (2), (3), dan (4)
 
 **(1) Soal:**
 Sebuah balon udara terbang pada ketinggian tertentu. Urutan cara kerja yang paling sesuai prinsip Archimedes adalah...
-A. Udara dipanaskan → udara di dalam balon lebih padat → balon naik
-B. Balon turun saat udara di dalamnya dipanaskan terus-menerus
-C. Gaya apung balon selalu tetap selama terbang
-D. Udara panas lebih ringan (massa jenis kecil) → balon naik; udara mendingin → balon turun
 
 **(2) Pilihan Jawaban:**
 A. Udara dipanaskan → udara di dalam balon lebih padat → balon naik
@@ -3106,10 +2738,6 @@ D. Udara panas lebih ringan (massa jenis kecil) → balon naik; udara mendingin 
 
 **(1) Soal:**
 Di pantai barometer menunjukkan 76 cmHg. Saat pendaki membawa barometer itu ke puncak gunung, angka yang ditunjukkan 70 cmHg. Kesimpulan yang benar adalah...
-A. Tekanan udara di puncak gunung lebih besar daripada di pantai
-B. Barometer rusak karena udara di gunung terlalu dingin
-C. Tekanan udara makin tinggi tempat makin kecil, sehingga angka barometer turun
-D. Tekanan udara di gunung sama dengan di pantai
 
 **(2) Pilihan Jawaban:**
 A. Tekanan udara di puncak gunung lebih besar daripada di pantai
@@ -3138,10 +2766,6 @@ D. Tekanan udara di gunung sama dengan di pantai
 
 **(1) Soal:**
 Dua siswa berdebat. Danu: "Dongkrak hidrolik bekerja karena tekanan zat cair diteruskan ke segala arah." Mira: "Dinding kolam renang hanya ditimpa tekanan dari atas sehingga tak perlu dikuatkan." Manakah yang benar?
-A. Keduanya benar
-B. Danu benar, Mira salah karena tekanan hidrostatis menekan ke segala arah
-C. Danu salah, Mira benar
-D. Keduanya salah
 
 **(2) Pilihan Jawaban:**
 A. Keduanya benar
@@ -3170,10 +2794,6 @@ D. Keduanya salah
 
 **(1) Soal:**
 Seorang pesulap duduk di atas papan yang ditancapi ratusan paku; kulitnya tidak terluka. Penjelasan yang benar adalah...
-A. Berat tubuh tersebar ke banyak paku sehingga tekanan tiap paku kecil
-B. Pakunya sangat tajam sehingga menembus kulit tanpa rasa sakit
-C. Gaya berat tubuh pesulap menjadi nol
-D. Paku terbuat dari bahan yang sangat lentur
 
 **(2) Pilihan Jawaban:**
 A. Berat tubuh tersebar ke banyak paku sehingga tekanan tiap paku kecil
@@ -3202,10 +2822,6 @@ D. Paku terbuat dari bahan yang sangat lentur
 
 **(1) Soal:**
 Kapal A (terbuat dari kayu) dan kapal B (terbuat dari besi) mempunyai bentuk dan ukuran sama. Keduanya terapung di air laut, tetapi kapal B tercelup lebih dalam daripada kapal A. Pernyataan yang benar adalah...
-A. Besi lebih ringan daripada kayu sehingga B tercelup lebih dalam
-B. Kayu lebih berat daripada besi sehingga A lebih dalam
-C. Keduanya tercelup sama dalam karena bentuknya sama
-D. Massa jenis rata-rata kapal besi lebih besar, tetapi masih lebih kecil daripada air laut sehingga B tercelup lebih dalam
 
 **(2) Pilihan Jawaban:**
 A. Besi lebih ringan daripada kayu sehingga B tercelup lebih dalam
@@ -3234,10 +2850,6 @@ D. Massa jenis rata-rata kapal besi lebih besar, tetapi masih lebih kecil daripa
 
 **(1) Soal:**
 Tiga balok identik beratnya 300 N diletakkan tegak. Luas permukaan sentuhnya: balok P = 30 cm², balok Q = 60 cm², balok R = 15 cm². Urutan tekanan terkecil ke terbesar yang benar adalah...
-A. P, Q, R
-B. Q, P, R
-C. R, P, Q
-D. P, R, Q
 
 **(2) Pilihan Jawaban:**
 A. P, Q, R
@@ -3268,10 +2880,6 @@ D. P, R, Q
 
 **(1) Soal:**
 Ketika menyelam, penyelam merasakan (1) kuping 'berdengung', (2) dada terasa tertekan, (3) harus naik perlahan-lahan. Urutan prinsip fisika yang paling tepat untuk ketiga kejadian itu adalah...
-A. (1) Archimedes, (2) Pascal, (3) bejana berhubungan
-B. (1) tekanan hidrostatis bertambah dengan kedalaman, (2) zat cair menekan segala arah, (3) mencegah sakit karena tekanan berubah terlalu cepat
-C. (1) Pascal, (2) gaya apung, (3) Hukum Archimedes
-D. (1) tekanan udara, (2) tekanan zat padat, (3) ganjil-genap
 
 **(2) Pilihan Jawaban:**
 A. (1) Archimedes, (2) Pascal, (3) bejana berhubungan
@@ -3300,10 +2908,6 @@ D. (1) tekanan udara, (2) tekanan zat padat, (3) ganjil-genap
 
 **(1) Soal:**
 Mana pernyataan yang benar?
-A. Tekanan hidrostatis di dasar kolam lebih besar daripada di permukaan kolam, dan tekanan udara di puncak gunung lebih kecil daripada di pantai
-B. Tekanan udara paling besar terdapat di puncak gunung tertinggi
-C. Tekanan zat padat dapat dihitung dengan membagi volume dengan massa
-D. Gaya apung membuat berat benda yang diukur di udara menjadi bertambah
 
 **(2) Pilihan Jawaban:**
 A. Tekanan hidrostatis di dasar kolam lebih besar daripada di permukaan kolam, dan tekanan udara di puncak gunung lebih kecil daripada di pantai
@@ -3332,10 +2936,6 @@ D. Gaya apung membuat berat benda yang diukur di udara menjadi bertambah
 
 **(1) Soal:**
 Kelompok berikut yang memanfaatkan tekanan dengan cara yang benar adalah...
-A. Sol sepatu olahraga yang rata-lebar bertujuan memperbesar tekanan; fondasi gedung yang lebar memperbesar tekanan
-B. Paku di sepatu atletik memperkecil tekanan; sepatu salju yang lebar memperkecil tekanan
-C. Pisau tumpul lebih mudah memotong; ban sempit membuat kendaraan lebih nyaman di jalan berlumpur
-D. Ban truk besar dan lebar memperkecil tekanan ke jalan; pisau yang tipis memperbesar tekanan; fondasi lebar memperkecil tekanan gedung ke tanah
 
 **(2) Pilihan Jawaban:**
 A. Sol sepatu olahraga yang rata-lebar bertujuan memperbesar tekanan; fondasi gedung yang lebar memperbesar tekanan

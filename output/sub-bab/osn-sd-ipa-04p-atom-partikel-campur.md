@@ -158,10 +158,6 @@ Langkah 3: Hasilnya 210 gram → D.
 
 **(1) Soal:**
 Atom adalah...
-A. Sel terkecil penyusun tubuh makhluk hidup
-B. Partikel paling kecil penyusun semua materi
-C. Bagian kecil dari energi cahaya
-D. Debu halus yang beterbangan di udara
 
 **(2) Pilihan Jawaban:**
 A. Sel terkecil penyusun tubuh makhluk hidup
@@ -190,10 +186,6 @@ D. Debu halus yang beterbangan di udara
 
 **(1) Soal:**
 Meja kayu, air minum, dan udara di sekitar kita memiliki persamaan, yaitu sama-sama...
-A. Tersusun dari partikel kecil yang disebut atom
-B. Memiliki rasa yang sama
-C. Berasal dari tumbuhan
-D. Berwarna cokelat
 
 **(2) Pilihan Jawaban:**
 A. Tersusun dari partikel kecil yang disebut atom
@@ -222,10 +214,6 @@ D. Berwarna cokelat
 
 **(1) Soal:**
 Perbandingan ukuran atom dan molekul yang benar adalah...
-A. Molekul selalu lebih kecil daripada atom
-B. Molekul dan atom berukuran sama persis
-C. Atom selalu lebih kecil daripada molekul
-D. Atom lebih besar daripada molekul
 
 **(2) Pilihan Jawaban:**
 A. Molekul selalu lebih kecil daripada atom
@@ -254,10 +242,6 @@ D. Atom lebih besar daripada molekul
 
 **(1) Soal:**
 Batu dihancurkan menjadi pasir, lalu pasir ditumbuk menjadi debu yang sangat halus. Semua serpihan itu tetap tersusun dari...
-A. Pasir-pasir yang baru
-B. Partikel atom
-C. Cahaya matahari
-D. Tetesan air
 
 **(2) Pilihan Jawaban:**
 A. Pasir-pasir yang baru
@@ -286,10 +270,6 @@ D. Tetesan air
 
 **(1) Soal:**
 Benda yang memiliki massa dan menempati ruang disebut...
-A. Energi
-B. Materi
-C. Cahaya
-D. Bunyi
 
 **(2) Pilihan Jawaban:**
 A. Energi
@@ -318,10 +298,6 @@ D. Bunyi
 
 **(1) Soal:**
 Kelompok berikut yang semuanya termasuk materi adalah...
-A. Cahaya, bunyi, dan panas
-B. Kayu, air, dan udara
-C. Bau, warna, dan bayangan
-D. Suara, cahaya, dan asap
 
 **(2) Pilihan Jawaban:**
 A. Cahaya, bunyi, dan panas
@@ -350,10 +326,6 @@ D. Suara, cahaya, dan asap
 
 **(1) Soal:**
 Partikel penyusun atom yang bermuatan positif disebut...
-A. Proton
-B. Neutron
-C. Elektron
-D. Molekul
 
 **(2) Pilihan Jawaban:**
 A. Proton
@@ -382,10 +354,6 @@ D. Molekul
 
 **(1) Soal:**
 Partikel dalam inti atom yang tidak bermuatan (netral) disebut...
-A. Proton
-B. Elektron
-C. Neutron
-D. Ion
 
 **(2) Pilihan Jawaban:**
 A. Proton
@@ -414,10 +382,6 @@ D. Ion
 
 **(1) Soal:**
 Partikel bermuatan negatif yang bergerak mengelilingi inti atom adalah...
-A. Proton
-B. Neutron
-C. Elektron
-D. Inti
 
 **(2) Pilihan Jawaban:**
 A. Proton
@@ -446,10 +410,6 @@ D. Inti
 
 **(1) Soal:**
 Proton dan neutron berada di bagian atom yang disebut...
-A. Kulit atom
-B. Inti atom
-C. Atom bebas
-D. Muatan atom
 
 **(2) Pilihan Jawaban:**
 A. Kulit atom
@@ -478,10 +438,6 @@ D. Muatan atom
 
 **(1) Soal:**
 Elektron bergerak mengelilingi inti atom pada daerah yang dinamakan...
-A. Kulit atom
-B. Inti atom
-C. Pusat atom
-D. Dasar atom
 
 **(2) Pilihan Jawaban:**
 A. Kulit atom
@@ -510,10 +466,6 @@ D. Dasar atom
 
 **(1) Soal:**
 Gerak elektron mengelilingi inti atom dapat diibaratkan seperti...
-A. Ikan berenang di dalam akuarium
-B. Planet mengelilingi matahari
-C. Pesawat terbang di atas awan
-D. Burung hinggap di pohon
 
 **(2) Pilihan Jawaban:**
 A. Ikan berenang di dalam akuarium
@@ -542,10 +494,6 @@ D. Burung hinggap di pohon
 
 **(1) Soal:**
 Nomor atom suatu unsur menyatakan jumlah...
-A. Elektron terluar
-B. Proton di dalam inti
-C. Neutron di dalam inti
-D. Molekul dalam satu gram
 
 **(2) Pilihan Jawaban:**
 A. Elektron terluar
@@ -574,10 +522,6 @@ D. Molekul dalam satu gram
 
 **(1) Soal:**
 Pada atom yang netral, jumlah proton sama dengan jumlah...
-A. Neutron
-B. Elektron
-C. Molekul
-D. Inti atom
 
 **(2) Pilihan Jawaban:**
 A. Neutron
@@ -606,10 +550,6 @@ D. Inti atom
 
 **(1) Soal:**
 Atom karbon memiliki 6 proton, 6 neutron, dan 6 elektron. Muatan keseluruhan atom karbon itu adalah...
-A. Bermuatan positif
-B. Bermuatan negatif
-C. Netral (tidak bermuatan)
-D. Kadang positif, kadang negatif
 
 **(2) Pilihan Jawaban:**
 A. Bermuatan positif
@@ -639,10 +579,6 @@ D. Kadang positif, kadang negatif
 
 **(1) Soal:**
 Urutan muatan partikel proton, neutron, dan elektron yang benar adalah...
-A. Positif, netral, negatif
-B. Netral, positif, negatif
-C. Negatif, netral, positif
-D. Positif, negatif, netral
 
 **(2) Pilihan Jawaban:**
 A. Positif, netral, negatif
@@ -671,10 +607,6 @@ D. Positif, negatif, netral
 
 **(1) Soal:**
 Jenis suatu atom (misalnya atom besi atau atom emas) ditentukan oleh banyaknya...
-A. Elektron pada kulit terluar
-B. Neutron di sekitar inti
-C. Proton di dalam inti
-D. Muatan negatif seluruhnya
 
 **(2) Pilihan Jawaban:**
 A. Elektron pada kulit terluar
@@ -703,10 +635,6 @@ D. Muatan negatif seluruhnya
 
 **(1) Soal:**
 Atom oksigen memiliki 8 proton. Nomor atom oksigen adalah...
-A. 2
-B. 4
-C. 8
-D. 16
 
 **(2) Pilihan Jawaban:**
 A. 2
@@ -735,10 +663,6 @@ D. 16
 
 **(1) Soal:**
 Gabungan dua atom atau lebih yang terikat bersama disebut...
-A. Molekul
-B. Proton
-C. Elektron
-D. Inti atom
 
 **(2) Pilihan Jawaban:**
 A. Molekul
@@ -767,10 +691,6 @@ D. Inti atom
 
 **(1) Soal:**
 Gas oksigen yang kita hirup terdiri atas molekul dengan dua atom sejenis (O₂). O₂ termasuk...
-A. Molekul unsur
-B. Molekul senyawa
-C. Campuran
-D. Atom tunggal
 
 **(2) Pilihan Jawaban:**
 A. Molekul unsur
@@ -799,10 +719,6 @@ D. Atom tunggal
 
 **(1) Soal:**
 Tiap molekul air (H₂O) tersusun dari...
-A. 2 atom hidrogen dan 1 atom oksigen
-B. 1 atom hidrogen dan 2 atom oksigen
-C. 2 atom hidrogen dan 2 atom oksigen
-D. 1 atom hidrogen dan 1 atom oksigen
 
 **(2) Pilihan Jawaban:**
 A. 2 atom hidrogen dan 1 atom oksigen
@@ -831,10 +747,6 @@ D. 1 atom hidrogen dan 1 atom oksigen
 
 **(1) Soal:**
 Tiap molekul karbon dioksida (CO₂) tersusun dari...
-A. 2 atom karbon dan 1 atom oksigen
-B. 1 atom karbon dan 1 atom oksigen
-C. 1 atom karbon dan 2 atom oksigen
-D. 2 atom karbon dan 2 atom oksigen
 
 **(2) Pilihan Jawaban:**
 A. 2 atom karbon dan 1 atom oksigen
@@ -863,10 +775,6 @@ D. 2 atom karbon dan 2 atom oksigen
 
 **(1) Soal:**
 Zat tunggal yang tidak dapat diuraikan lagi menjadi zat yang lebih sederhana disebut...
-A. Senyawa
-B. Campuran
-C. Unsur
-D. Larutan
 
 **(2) Pilihan Jawaban:**
 A. Senyawa
@@ -895,10 +803,6 @@ D. Larutan
 
 **(1) Soal:**
 Zat yang terbentuk dari dua unsur atau lebih yang bergabung secara kimia disebut...
-A. Unsur
-B. Senyawa
-C. Campuran
-D. Atom
 
 **(2) Pilihan Jawaban:**
 A. Unsur
@@ -927,10 +831,6 @@ D. Atom
 
 **(1) Soal:**
 Zat berikut yang termasuk **senyawa** adalah...
-A. Emas
-B. Oksigen
-C. Air
-D. Besi
 
 **(2) Pilihan Jawaban:**
 A. Emas
@@ -959,10 +859,6 @@ D. Besi
 
 **(1) Soal:**
 Zat berikut yang termasuk **unsur** adalah...
-A. Gula pasir
-B. Garam dapur
-C. Emas batangan
-D. Air minum
 
 **(2) Pilihan Jawaban:**
 A. Gula pasir
@@ -991,10 +887,6 @@ D. Air minum
 
 **(1) Soal:**
 Hubungan yang benar antara atom dan molekul adalah...
-A. Molekul merupakan bagian terkecil dari atom
-B. Molekul tersusun dari atom
-C. Atom tersusun dari molekul
-D. Atom dan molekul tidak saling berhubungan
 
 **(2) Pilihan Jawaban:**
 A. Molekul merupakan bagian terkecil dari atom
@@ -1023,10 +915,6 @@ D. Atom dan molekul tidak saling berhubungan
 
 **(1) Soal:**
 Gas karbon dioksida (CO₂) memiliki atom karbon dan atom oksigen yang berlainan jenis. CO₂ termasuk...
-A. Molekul unsur
-B. Molekul senyawa
-C. Campuran
-D. Atom tunggal
 
 **(2) Pilihan Jawaban:**
 A. Molekul unsur
@@ -1055,10 +943,6 @@ D. Atom tunggal
 
 **(1) Soal:**
 Air garam dibuat dengan mencampur air dan garam tanpa reaksi kimia. Zat seperti ini disebut...
-A. Unsur
-B. Senyawa
-C. Campuran
-D. Molekul
 
 **(2) Pilihan Jawaban:**
 A. Unsur
@@ -1087,10 +971,6 @@ D. Molekul
 
 **(1) Soal:**
 Perbedaan utama senyawa dan campuran adalah...
-A. Senyawa tidak dapat diuraikan sama sekali
-B. Senyawa terbentuk lewat penggabungan kimia, campuran hanya pencampuran biasa
-C. Campuran selalu berwujud gas
-D. Senyawa hanya tersusun dari satu jenis atom
 
 **(2) Pilihan Jawaban:**
 A. Senyawa tidak dapat diuraikan sama sekali
@@ -1119,10 +999,6 @@ D. Senyawa hanya tersusun dari satu jenis atom
 
 **(1) Soal:**
 Zat berikut yang termasuk **campuran** adalah...
-A. Air murni
-B. Garam murni
-C. Es teh manis
-D. Gula murni
 
 **(2) Pilihan Jawaban:**
 A. Air murni
@@ -1151,10 +1027,6 @@ D. Gula murni
 
 **(1) Soal:**
 Gula pasir tersusun dari unsur karbon, hidrogen, dan oksigen. Berdasarkan penyusunnya, gula termasuk...
-A. Unsur
-B. Senyawa
-C. Campuran
-D. Atom tunggal
 
 **(2) Pilihan Jawaban:**
 A. Unsur
@@ -1183,10 +1055,6 @@ D. Atom tunggal
 
 **(1) Soal:**
 Garam dapur (NaCl) tersusun dari unsur natrium dan klorin. Contoh yang sama jenisnya (senyawa) dengan garam dapur adalah...
-A. Emas
-B. Air
-C. Besi
-D. Oksigen
 
 **(2) Pilihan Jawaban:**
 A. Emas
@@ -1215,10 +1083,6 @@ D. Oksigen
 
 **(1) Soal:**
 Udara berisi oksigen, nitrogen, karbon dioksida, dan uap air yang hanya tercampur. Udara merupakan contoh...
-A. Unsur
-B. Senyawa
-C. Campuran
-D. Molekul tunggal
 
 **(2) Pilihan Jawaban:**
 A. Unsur
@@ -1247,10 +1111,6 @@ D. Molekul tunggal
 
 **(1) Soal:**
 Es di dalam gelas lama-kelamaan mencair menjadi air. Peristiwa ini termasuk perubahan...
-A. Kimia
-B. Fisika
-C. Biologi
-D. Uap
 
 **(2) Pilihan Jawaban:**
 A. Kimia
@@ -1279,10 +1139,6 @@ D. Uap
 
 **(1) Soal:**
 Kertas yang dibakar menjadi abu termasuk perubahan...
-A. Fisika
-B. Kimia
-C. Suhu
-D. Wujud
 
 **(2) Pilihan Jawaban:**
 A. Fisika
@@ -1311,10 +1167,6 @@ D. Wujud
 
 **(1) Soal:**
 Peristiwa berikut yang termasuk **perubahan fisika** adalah...
-A. Besi berkarat
-B. Susu menjadi masam
-C. Kayu membusuk
-D. Air membeku menjadi es
 
 **(2) Pilihan Jawaban:**
 A. Besi berkarat
@@ -1343,10 +1195,6 @@ D. Air membeku menjadi es
 
 **(1) Soal:**
 Peristiwa berikut yang termasuk **perubahan kimia** adalah...
-A. Besi berkarat
-B. Air menguap
-C. Kapur barus menyublim
-D. Es meleleh
 
 **(2) Pilihan Jawaban:**
 A. Besi berkarat
@@ -1375,10 +1223,6 @@ D. Es meleleh
 
 **(1) Soal:**
 Manakah yang **BUKAN** tanda terjadinya perubahan kimia?
-A. Terbentuknya gelembung gas
-B. Terbentuknya endapan
-C. Berubahnya warna zat
-D. Berubahnya wujud (misalnya membeku)
 
 **(2) Pilihan Jawaban:**
 A. Terbentuknya gelembung gas
@@ -1407,10 +1251,6 @@ D. Berubahnya wujud (misalnya membeku)
 
 **(1) Soal:**
 Pasir dicampur dengan kerikil, lalu tidak terbentuk zat baru. Peristiwa ini termasuk perubahan...
-A. Kimia
-B. Fisika
-C. Biologi
-D. Listrik
 
 **(2) Pilihan Jawaban:**
 A. Kimia
@@ -1439,10 +1279,6 @@ D. Listrik
 
 **(1) Soal:**
 Zat yang memiliki bentuk dan volume tetap adalah zat...
-A. Padat
-B. Cair
-C. Gas
-D. Uap
 
 **(2) Pilihan Jawaban:**
 A. Padat
@@ -1471,10 +1307,6 @@ D. Uap
 
 **(1) Soal:**
 Partikel-partikel pada zat padat tersusun...
-A. Sangat rapat dan teratur
-B. Sangat berjauhan dan bebas
-C. Rapat tetapi tidak teratur
-D. Tersebar tidak menentu
 
 **(2) Pilihan Jawaban:**
 A. Sangat rapat dan teratur
@@ -1503,10 +1335,6 @@ D. Tersebar tidak menentu
 
 **(1) Soal:**
 Partikel-partikel pada zat cair tersusun...
-A. Sangat berjauhan dan bergerak bebas ke segala arah
-B. Rapat namun berjarak sedikit longgar dan dapat bergeser
-C. Sangat rapat sehingga tidak dapat bergerak sama sekali
-D. Seperti barisan yang sangat rapi dan tetap
 
 **(2) Pilihan Jawaban:**
 A. Sangat berjauhan dan bergerak bebas ke segala arah
@@ -1535,10 +1363,6 @@ D. Seperti barisan yang sangat rapi dan tetap
 
 **(1) Soal:**
 Partikel-partikel pada zat gas tersusun...
-A. Sangat rapat dan teratur
-B. Sangat berjauhan dan bergerak sangat bebas
-C. Rapat dan tidak teratur
-D. Diam tidak bergerak sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Sangat rapat dan teratur
@@ -1567,10 +1391,6 @@ D. Diam tidak bergerak sama sekali
 
 **(1) Soal:**
 Air di dalam gelas, jika dipindah ke botol, bentuknya akan mengikuti botol. Hal ini terjadi karena zat cair...
-A. Memiliki bentuk yang tetap
-B. Bentuknya mengikuti wadahnya
-C. Selalu berbentuk bulat
-D. Tidak memiliki volume
 
 **(2) Pilihan Jawaban:**
 A. Memiliki bentuk yang tetap
@@ -1599,10 +1419,6 @@ D. Tidak memiliki volume
 
 **(1) Soal:**
 Saat air dipanaskan, partikel air bergerak...
-A. Lebih lambat
-B. Lebih cepat
-C. Berhenti bergerak
-D. Tidak terpengaruh
 
 **(2) Pilihan Jawaban:**
 A. Lebih lambat
@@ -1631,10 +1447,6 @@ D. Tidak terpengaruh
 
 **(1) Soal:**
 Batu keras dan tidak mudah berubah bentuk karena partikel penyusunnya...
-A. Sangat berjauhan dan bebas
-B. Sangat rapat dan hanya bergetar di tempat
-C. Cepat berpindah mengikuti wadah
-D. Terpisah terbang ke segala arah
 
 **(2) Pilihan Jawaban:**
 A. Sangat berjauhan dan bebas
@@ -1663,10 +1475,6 @@ D. Terpisah terbang ke segala arah
 
 **(1) Soal:**
 Saat es meleleh menjadi air, partikel es...
-A. Diam total dan tidak bergerak
-B. Menerima kalor, bergerak lebih cepat, dan susunannya menjadi lebih renggang
-C. Menjauh sangat jauh lalu terbang bebas
-D. Berubah menjadi partikel yang sama sekali baru
 
 **(2) Pilihan Jawaban:**
 A. Diam total dan tidak bergerak
@@ -1695,10 +1503,6 @@ D. Berubah menjadi partikel yang sama sekali baru
 
 **(1) Soal:**
 Air yang mendidih hingga menguap menjadi uap. Partikel uap air...
-A. Sangat rapat dan teratur seperti es
-B. Berjarak sangat jauh dan bergerak sangat cepat
-C. Hanya bergetar kecil di tempatnya
-D. Berhenti total karena kepanasan
 
 **(2) Pilihan Jawaban:**
 A. Sangat rapat dan teratur seperti es
@@ -1727,10 +1531,6 @@ D. Berhenti total karena kepanasan
 
 **(1) Soal:**
 Es balok bermassa 1 kg dibiarkan mencair sempurna menjadi air tanpa ada yang tumpah. Massa air hasil peleburan adalah...
-A. 0,5 kg
-B. 1 kg
-C. 2 kg
-D. Tidak dapat ditentukan
 
 **(2) Pilihan Jawaban:**
 A. 0,5 kg
@@ -1759,10 +1559,6 @@ D. Tidak dapat ditentukan
 
 **(1) Soal:**
 Atom natrium memiliki 11 proton dan 12 neutron. Muatan inti atom natrium adalah...
-A. Positif
-B. Negatif
-C. Netral
-D. Nol dan tidak terkait partikel
 
 **(2) Pilihan Jawaban:**
 A. Positif
@@ -1791,10 +1587,6 @@ D. Nol dan tidak terkait partikel
 
 **(1) Soal:**
 Atom fluorin yang netral memiliki 9 elektron. Nomor atom fluorin adalah...
-A. 9
-B. 10
-C. 18
-D. 19
 
 **(2) Pilihan Jawaban:**
 A. 9
@@ -1823,10 +1615,6 @@ D. 19
 
 **(1) Soal:**
 Atom besi yang netral memiliki 26 elektron. Jumlah proton dan nomor atom besi adalah...
-A. 26 dan 26
-B. 13 dan 26
-C. 26 dan 52
-D. 52 dan 26
 
 **(2) Pilihan Jawaban:**
 A. 26 dan 26
@@ -1855,10 +1643,6 @@ D. 52 dan 26
 
 **(1) Soal:**
 Ada dua atom oksigen: atom P memiliki 8 proton dan 8 neutron, atom Q memiliki 8 proton dan 10 neutron. Kedua atom itu...
-A. Berbeda unsur karena neutronnya berbeda
-B. Termasuk unsur yang sama karena jumlah protonnya sama
-C. Salah satunya bermuatan negatif
-D. Salah satunya bukan atom oksigen
 
 **(2) Pilihan Jawaban:**
 A. Berbeda unsur karena neutronnya berbeda
@@ -1887,10 +1671,6 @@ D. Salah satunya bukan atom oksigen
 
 **(1) Soal:**
 Siswa menggambar dua bola kecil yang bergandengan untuk mewakili gas oksigen (O₂). Gambar itu menunjukkan...
-A. Molekul unsur yang tersusun dari dua atom sejenis
-B. Molekul senyawa dari dua atom berbeda
-C. Campuran dua macam unsur
-D. Dua atom yang tidak saling berhubungan
 
 **(2) Pilihan Jawaban:**
 A. Molekul unsur yang tersusun dari dua atom sejenis
@@ -1919,10 +1699,6 @@ D. Dua atom yang tidak saling berhubungan
 
 **(1) Soal:**
 Jumlah seluruh atom dalam **satu molekul** air (H₂O) adalah...
-A. 2
-B. 3
-C. 4
-D. 5
 
 **(2) Pilihan Jawaban:**
 A. 2
@@ -1951,10 +1727,6 @@ D. 5
 
 **(1) Soal:**
 Satu molekul garam dapur (NaCl) terdiri atas 1 atom natrium dan 1 atom klorin. Jumlah atom dalam satu molekul NaCl adalah...
-A. 1
-B. 2
-C. 3
-D. 4
 
 **(2) Pilihan Jawaban:**
 A. 1
@@ -1983,10 +1755,6 @@ D. 4
 
 **(1) Soal:**
 Air gula termasuk campuran **homogen** karena...
-A. Penyusunnya tercampur merata dan tidak lagi terlihat terpisah
-B. Penyusunnya masih terlihat terpisah-pisah di dalam gelas
-C. Mengendap di dasar setelah didiamkan
-D. Hanya terdiri dari satu jenis zat
 
 **(2) Pilihan Jawaban:**
 A. Penyusunnya tercampur merata dan tidak lagi terlihat terpisah
@@ -2015,10 +1783,6 @@ D. Hanya terdiri dari satu jenis zat
 
 **(1) Soal:**
 Cara paling mudah untuk memisahkan campuran serbuk besi dan pasir adalah dengan menggunakan...
-A. Magnet
-B. Saringan
-C. Kertas saring
-D. Penguapan
 
 **(2) Pilihan Jawaban:**
 A. Magnet
@@ -2047,10 +1811,6 @@ D. Penguapan
 
 **(1) Soal:**
 Gula pasir larut lebih cepat dalam air panas daripada air dingin karena...
-A. Partikel air panas bergerak lebih cepat sehingga partikel gula cepat tersebar
-B. Air panas membuat gula berubah menjadi zat baru
-C. Partikel air dingin lebih banyak jumlahnya
-D. Air panas merubah gula menjadi berat
 
 **(2) Pilihan Jawaban:**
 A. Partikel air panas bergerak lebih cepat sehingga partikel gula cepat tersebar
@@ -2079,10 +1839,6 @@ D. Air panas merubah gula menjadi berat
 
 **(1) Soal:**
 Bau masakan di dapur tercium sampai ke ruang tamu. Hal ini terjadi karena partikel bau dapat bergerak melewati...
-A. Dinding yang benar-benar rapat tanpa celah
-B. Lubang-lubang kecil (celah) di antara partikel penyusun benda
-C. Tiba-tiba berubah menjadi cahaya
-D. Udara dingin yang membuat partikel diam
 
 **(2) Pilihan Jawaban:**
 A. Dinding yang benar-benar rapat tanpa celah
@@ -2111,10 +1867,6 @@ D. Udara dingin yang membuat partikel diam
 
 **(1) Soal:**
 Minyak tanah dapat naik pada sumbu kompor melewati lubang-lubang kecil pada serat sumbu. Gejala naiknya zat cair melalui lubang/pori kecil ini disebut...
-A. Kapilaritas
-B. Difusi
-C. Sublimasi
-D. Kondensasi
 
 **(2) Pilihan Jawaban:**
 A. Kapilaritas
@@ -2143,10 +1895,6 @@ D. Kondensasi
 
 **(1) Soal:**
 Air dapat naik dari akar sampai ke daun-daun tumbuhan yang tinggi. Hal ini dimungkinkan, antara lain, karena adanya pembuluh-pembuluh sangat halus pada batang yang membuat air naik secara...
-A. Kapilaritas
-B. Pembekuan
-C. Penguapan
-D. Pengendapan
 
 **(2) Pilihan Jawaban:**
 A. Kapilaritas
@@ -2175,10 +1923,6 @@ D. Pengendapan
 
 **(1) Soal:**
 Soda kue yang dicampur cuka menghasilkan banyak gelembung gas. Peristiwa ini termasuk perubahan kimia karena...
-A. Munculnya zat baru berupa gas yang sebelumnya tidak ada
-B. Hanya terjadi perubahan wujud saja
-C. Warna larutan selalu tetap dan tidak ada zat baru
-D. Tidak terbentuk endapan
 
 **(2) Pilihan Jawaban:**
 A. Munculnya zat baru berupa gas yang sebelumnya tidak ada
@@ -2207,10 +1951,6 @@ D. Tidak terbentuk endapan
 
 **(1) Soal:**
 Besi yang dibiarkan di tempat lembap menjadi berkarat. Karat digolongkan sebagai perubahan kimia karena...
-A. Besi berubah menjadi zat baru yang sifatnya berbeda (karat)
-B. Besi hanya berubah bentuk menjadi lebih besar
-C. Karat dapat kembali menjadi besi dengan mudah
-D. Tidak terjadi perubahan pada besi
 
 **(2) Pilihan Jawaban:**
 A. Besi berubah menjadi zat baru yang sifatnya berbeda (karat)
@@ -2239,10 +1979,6 @@ D. Tidak terjadi perubahan pada besi
 
 **(1) Soal:**
 Kertas dipotong kecil-kecil, lalu sebagian dibakar menjadi abu. Pernyataan yang tepat adalah...
-A. Memotong = kimia; membakar = fisika
-B. Memotong = fisika; membakar = kimia
-C. Keduanya perubahan kimia
-D. Keduanya perubahan fisika
 
 **(2) Pilihan Jawaban:**
 A. Memotong = kimia; membakar = fisika
@@ -2271,10 +2007,6 @@ D. Keduanya perubahan fisika
 
 **(1) Soal:**
 Cara yang tepat untuk membuktikan bahwa gula yang larut dalam air belum hilang adalah...
-A. Mengamati air berubah warna menjadi cokelat
-B. Menguapkan airnya sehingga gula kembali mengkristal
-C. Menyaring air gula untuk menangkap butirannya
-D. Mendinginkan air hingga membeku
 
 **(2) Pilihan Jawaban:**
 A. Mengamati air berubah warna menjadi cokelat
@@ -2303,10 +2035,6 @@ D. Mendinginkan air hingga membeku
 
 **(1) Soal:**
 Es batu diletakkan di ruangan bersuhu 30°C. Partikel es menerima kalor sehingga...
-A. Bergerak lebih cepat dan susunannya renggang hingga berubah menjadi air
-B. Bergerak makin lambat hingga makin keras
-C. Berhenti bergerak selamanya
-D. Berubah menjadi partikel jenis lain
 
 **(2) Pilihan Jawaban:**
 A. Bergerak lebih cepat dan susunannya renggang hingga berubah menjadi air
@@ -2335,10 +2063,6 @@ D. Berubah menjadi partikel jenis lain
 
 **(1) Soal:**
 Kaleng minuman yang penyok karena terinjak termasuk perubahan fisika karena...
-A. Hanya bentuk kaleng yang berubah, tidak terbentuk zat baru
-B. Kaleng berubah menjadi zat yang lebih keras
-C. Permukaan kaleng berubah warna
-D. Kaleng menjadi lebih ringan
 
 **(2) Pilihan Jawaban:**
 A. Hanya bentuk kaleng yang berubah, tidak terbentuk zat baru
@@ -2367,10 +2091,6 @@ D. Kaleng menjadi lebih ringan
 
 **(1) Soal:**
 Makanan yang kita makan diubah tubuh menjadi zat-zat baru yang dapat diserap dan menghasilkan energi. Perubahan makanan di dalam tubuh termasuk perubahan...
-A. Kimia
-B. Fisika
-C. Wujud
-D. Ukuran
 
 **(2) Pilihan Jawaban:**
 A. Kimia
@@ -2399,10 +2119,6 @@ D. Ukuran
 
 **(1) Soal:**
 Air dan minyak dikocok kuat lalu didiamkan; keduanya kembali terpisah, minyak di atas air. Hal ini menunjukkan bahwa air dan minyak...
-A. Tidak dapat tercampur merata (terpisah kembali karena tidak saling melarutkan)
-B. Adalah dua zat yang sama
-C. Sudah bergabung secara kimia
-D. Berubah menjadi zat baru
 
 **(2) Pilihan Jawaban:**
 A. Tidak dapat tercampur merata (terpisah kembali karena tidak saling melarutkan)
@@ -2431,10 +2147,6 @@ D. Berubah menjadi zat baru
 
 **(1) Soal:**
 Hendak memisahkan pasir yang tercampur dalam air, cara yang paling tepat adalah...
-A. Penyaringan dengan saringan atau kain
-B. Menguapkan airnya terlebih dahulu
-C. Dibiarkan lalu didinginkan
-D. Menambahkan gula ke dalam air
 
 **(2) Pilihan Jawaban:**
 A. Penyaringan dengan saringan atau kain
@@ -2463,10 +2175,6 @@ D. Menambahkan gula ke dalam air
 
 **(1) Soal:**
 Es balok bermassa 2 kg dicairkan sempurna dalam panci tertutup tanpa ada yang tumpah. Massa air di dalam panci sekarang adalah...
-A. 1 kg karena setengah es hilang
-B. 2 kg karena jumlah partikel tidak berubah
-C. 4 kg karena air lebih berat dari es
-D. 0 kg karena es telah habis
 
 **(2) Pilihan Jawaban:**
 A. 1 kg karena setengah es hilang
@@ -2495,10 +2203,6 @@ D. 0 kg karena es telah habis
 
 **(1) Soal:**
 Ibu melarutkan 20 gram gula ke dalam segelas air (bermassa 180 gram) tanpa ada yang tumpah. Massa air gula setelah gula larut adalah...
-A. 200 gram (air + gula tetap ada semua)
-B. 180 gram (sama dengan air saja)
-C. 160 gram (berkurang karena gula larut)
-D. 20 gram (hanya sisa gula)
 
 **(2) Pilihan Jawaban:**
 A. 200 gram (air + gula tetap ada semua)
@@ -2527,10 +2231,6 @@ D. 20 gram (hanya sisa gula)
 
 **(1) Soal:**
 Gas selalu memenuhi seluruh wadah yang ditempatinya karena partikel gas...
-A. Berjarak sangat berjauhan dan bergerak bebas ke segala arah
-B. Sangat rapat sehingga menempel di dinding
-C. Diam dan tidak bergerak
-D. Hanya bergerak ke bawah
 
 **(2) Pilihan Jawaban:**
 A. Berjarak sangat berjauhan dan bergerak bebas ke segala arah
@@ -2559,10 +2259,6 @@ D. Hanya bergerak ke bawah
 
 **(1) Soal:**
 Kain lap atau handuk dapat 'menyerap' air hingga lantai menjadi kering. Prinsip yang bekerja sama dengan minyak naik pada sumbu adalah...
-A. Kapilaritas — air masuk lewat lubang-lubang kecil antar serat kain
-B. Difusi — air berubah menjadi bau
-C. Sublimasi — air langsung menguap dari kain
-D. Pengendapan — air turun ke bawah kain
 
 **(2) Pilihan Jawaban:**
 A. Kapilaritas — air masuk lewat lubang-lubang kecil antar serat kain
@@ -2591,10 +2287,6 @@ D. Pengendapan — air turun ke bawah kain
 
 **(1) Soal:**
 Air dibekukan menjadi es, es dibiarkan mencair menjadi air lagi, lalu air dididihkan menjadi uap. Ketiga peristiwa itu termasuk...
-A. Perubahan kimia karena air berubah-ubah
-B. Perubahan fisika karena wujud yang berubah dan tidak ada zat baru
-C. Perubahan biologi karena melibatkan makhluk
-D. Perubahan listrik karena air dipanaskan
 
 **(2) Pilihan Jawaban:**
 A. Perubahan kimia karena air berubah-ubah
@@ -2623,10 +2315,6 @@ D. Perubahan listrik karena air dipanaskan
 
 **(1) Soal:**
 Untuk mengambil kembali garam dari campuran air garam (larutan), cara yang tepat adalah...
-A. Menguapkan airnya sehingga garam tertinggal
-B. Memanaskan garam hingga menjadi cair
-C. Menyaring larutan dengan kain
-D. Mendinginkan larutan hingga beku
 
 **(2) Pilihan Jawaban:**
 A. Menguapkan airnya sehingga garam tertinggal
@@ -2655,10 +2343,6 @@ D. Mendinginkan larutan hingga beku
 
 **(1) Soal:**
 Gula dalam segelas es teh larut lebih cepat ketika diaduk. Alasannya adalah...
-A. Pengadukan membuat partikel gula cepat terpisah dan menyebar di air
-B. Pengadukan mengubah gula menjadi zat baru
-C. Pengadukan mendinginkan air
-D. Pengadukan membuat gula tenggelam ke dasar
 
 **(2) Pilihan Jawaban:**
 A. Pengadukan membuat partikel gula cepat terpisah dan menyebar di air
@@ -2687,10 +2371,6 @@ D. Pengadukan membuat gula tenggelam ke dasar
 
 **(1) Soal:**
 Pernyataan paling tepat tentang perbedaan senyawa dan campuran adalah...
-A. Senyawa penyusunnya terikat secara kimia dan tidak mudah dipisahkan dengan cara fisika sederhana; campuran mudah dipisahkan dengan cara fisika
-B. Senyawa hanya bisa berbentuk gas, campuran hanya berbentuk padat
-C. Campuran penyusunnya saling menempel kuat secara kimia
-D. Senyawa bisa dipisahkan dengan magnet, campuran dengan penguapan
 
 **(2) Pilihan Jawaban:**
 A. Senyawa penyusunnya terikat secara kimia dan tidak mudah dipisahkan dengan cara fisika sederhana; campuran mudah dipisahkan dengan cara fisika
@@ -2719,10 +2399,6 @@ D. Senyawa bisa dipisahkan dengan magnet, campuran dengan penguapan
 
 **(1) Soal:**
 Seorang siswa menimbang es batu (0,5 kg), membiarkannya mencair sempurna, lalu menimbang airnya. Hasil yang paling mungkin dan kesimpulannya adalah...
-A. Air 0,4 kg — berat berkurang karena zat hilang
-B. Air 0,5 kg — perubahan wujud tidak mengubah massa karena jumlah partikel tetap
-C. Air 1 kg — air lebih berat daripada es
-D. Air 0 kg — es telah "habis" berubah menjadi air
 
 **(2) Pilihan Jawaban:**
 A. Air 0,4 kg — berat berkurang karena zat hilang
@@ -2753,10 +2429,6 @@ D. Air 0 kg — es telah "habis" berubah menjadi air
 
 **(1) Soal:**
 Siswa menimbang air (200 g) dan gula (10 g) terpisah, lalu melarutkan gula ke air tanpa tumpah dan menimbang larutannya. Hasil timbangan yang paling mungkin adalah...
-A. 200 g — gula hilang saat larut
-B. 190 g — larutan lebih ringan
-C. 210 g — massa larutan = jumlah massa air dan gula
-D. 10 g — hanya gula yang tersisa
 
 **(2) Pilihan Jawaban:**
 A. 200 g — gula hilang saat larut
@@ -2787,10 +2459,6 @@ D. 10 g — hanya gula yang tersisa
 
 **(1) Soal:**
 Lilin utuh bermassa 50 g dibakar beberapa saat, lalu sisa lilin ditimbang dan ternyata tinggal 45 g. Penjelasan yang paling tepat adalah...
-A. Sebagian massa lilin hilang dan musnah saat terbakar
-B. Sebagian lilin berubah menjadi gas dan jelaga yang lepas ke udara; total materi tetap ada
-C. Lilin mengembang sehingga massanya berkurang
-D. Lilin berubah menjadi air murni
 
 **(2) Pilihan Jawaban:**
 A. Sebagian massa lilin hilang dan musnah saat terbakar
@@ -2821,10 +2489,6 @@ D. Lilin berubah menjadi air murni
 
 **(1) Soal:**
 Untuk membuktikan bahwa partikel bau dapat menyebar melewati celah-celah kecil antar partikel udara, percobaan paling tepat adalah...
-A. Menyemprot penyegar ruangan di satu sudut, lalu mencatat waktu sampai baunya tercium di sudut lain (diulang beberapa kali)
-B. Menimbang penyegar sebelum dan sesudah disemprot tanpa mengamati bau
-C. Melihat perubahan warna penyegar di dalam botol
-D. Mengukur suhu ruangan sebelum menyemprot
 
 **(2) Pilihan Jawaban:**
 A. Menyemprot penyegar ruangan di satu sudut, lalu mencatat waktu sampai baunya tercium di sudut lain (diulang beberapa kali)
@@ -2855,10 +2519,6 @@ D. Mengukur suhu ruangan sebelum menyemprot
 
 **(1) Soal:**
 Siswa ingin menyelidiki apakah air naik lebih tinggi pada kain tipis atau kain tebal. Agar percobaan ini adil, yang harus dibuat sama adalah...
-A. Jenis kain, lama waktu, dan jumlah air yang dicelupkan
-B. Satu kain dicelupkan lebih lama agar terlihat bedanya
-C. Air yang digunakan dibuat berbeda-beda suhunya
-D. Kain dibuat berukuran sangat berbeda
 
 **(2) Pilihan Jawaban:**
 A. Jenis kain, lama waktu, dan jumlah air yang dicelupkan
@@ -2889,10 +2549,6 @@ D. Kain dibuat berukuran sangat berbeda
 
 **(1) Soal:**
 Satu molekul air (H₂O) terbentuk dari 2 atom hidrogen dan 1 atom oksigen. Tersedia 8 atom hidrogen dan 8 atom oksigen. Jumlah molekul air paling banyak yang dapat dibentuk adalah...
-A. 2
-B. 4
-C. 8
-D. 16
 
 **(2) Pilihan Jawaban:**
 A. 2
@@ -2923,10 +2579,6 @@ D. 16
 
 **(1) Soal:**
 Sesuai model partikel, ketika kayu terbakar menjadi abu, gas, dan uap air, hal yang tetap sama sebelum dan sesudah pembakaran adalah...
-A. Jumlah serta jenis atom penyusunnya
-B. Bentuk kayu yang utuh
-C. Warna kayu yang cokelat
-D. Ukuran kayu yang besar
 
 **(2) Pilihan Jawaban:**
 A. Jumlah serta jenis atom penyusunnya
@@ -2957,10 +2609,6 @@ D. Ukuran kayu yang besar
 
 **(1) Soal:**
 Urutan susunan partikel dari yang paling **rapat** hingga paling **renggang** untuk es, air, dan uap adalah...
-A. Es → air → uap
-B. Uap → air → es
-C. Uap → es → air
-D. Air → es → uap
 
 **(2) Pilihan Jawaban:**
 A. Es → air → uap
@@ -2991,10 +2639,6 @@ D. Air → es → uap
 
 **(1) Soal:**
 Andi berpendapat gula yang dilarutkan "hilang" sehingga massanya berkurang. Argumen paling kuat untuk menyangkal pendapat Andi adalah...
-A. Air gula tetap bening
-B. Air gula terasa manis dan massa larutan tetap = massa air + massa gula
-C. Air gula berwarna cokelat
-D. Gula tenggelam ke dasar gelas
 
 **(2) Pilihan Jawaban:**
 A. Air gula tetap bening
@@ -3030,11 +2674,6 @@ Urutan penjelasan yang benar mengapa aroma durian tercium oleh orang yang berada
 (3) Partikel aroma sampai di dekat hidung
 (4) Hidung menangkap partikel aroma sebagai bau
 
-A. (4) → (2) → (1) → (3)
-B. (1) → (2) → (3) → (4)
-C. (2) → (1) → (4) → (3)
-D. (3) → (4) → (2) → (1)
-
 **(2) Pilihan Jawaban:**
 A. (4) → (2) → (1) → (3)
 B. (1) → (2) → (3) → (4)
@@ -3064,10 +2703,6 @@ D. (3) → (4) → (2) → (1)
 
 **(1) Soal:**
 Saat membilas bak mandi, air bersama larva nyamuk dapat melewati celah-celah dan lubang-lubang kecil pada dinding/lantai bak yang tampak "padat" dan ikut terbuang. Pernyataan yang tepat berdasarkan konsep partikel adalah...
-A. Meskipun tampak padat, antar partikel penyusun dinding bak tetap terdapat celah kecil yang dapat dilalui air
-B. Dinding bak seluruhnya berongga besar seperti jaring
-C. Partikel air berubah menjadi cahaya agar bisa lewat
-D. Larva nyamuk mengecil agar masuk ke celah
 
 **(2) Pilihan Jawaban:**
 A. Meskipun tampak padat, antar partikel penyusun dinding bak tetap terdapat celah kecil yang dapat dilalui air
@@ -3098,10 +2733,6 @@ D. Larva nyamuk mengecil agar masuk ke celah
 
 **(1) Soal:**
 Gelas A berisi es diletakkan di dalam kulkas, gelas B berisi es bermassa sama dibiarkan terbuka di meja yang lebih hangat. Kesimpulan yang tepat adalah...
-A. Es di B mencair lebih cepat karena partikelnya menerima kalor lebih banyak sehingga bergerak cepat dan susunannya renggang
-B. Es di A lebih cepat mencair karena kulkas mendinginkan
-C. Keduanya mencair dengan kecepatan yang sama
-D. Es di B berubah menjadi zat penting yang berbeda
 
 **(2) Pilihan Jawaban:**
 A. Es di B mencair lebih cepat karena partikelnya menerima kalor lebih banyak sehingga bergerak cepat dan susunannya renggang
@@ -3132,10 +2763,6 @@ D. Es di B berubah menjadi zat penting yang berbeda
 
 **(1) Soal:**
 Empat siswa membuat pernyataan tentang zat. Pernyataan yang **paling tepat** adalah...
-A. Air laut termasuk senyawa dan udara termasuk senyawa
-B. Garam termasuk senyawa dan udara termasuk campuran
-C. Gula pasir termasuk unsur dan air termasuk unsur
-D. Emas termasuk senyawa dan CO₂ termasuk unsur
 
 **(2) Pilihan Jawaban:**
 A. Air laut termasuk senyawa dan udara termasuk senyawa
@@ -3166,10 +2793,6 @@ D. Emas termasuk senyawa dan CO₂ termasuk unsur
 
 **(1) Soal:**
 Budi ingin melarutkan gula batu ke dalam es teh secepat mungkin. Cara yang paling tepat adalah...
-A. Membiarkan gula batu utuh di dasar gelas tanpa diaduk
-B. Menghancurkan gula batu menjadi butiran kecil lalu mengaduknya
-C. Memasukkan gula batu utuh dan mengaduk pelan satu kali
-D. Meletakkan gula batu utuh di atas daun teh
 
 **(2) Pilihan Jawaban:**
 A. Membiarkan gula batu utuh di dasar gelas tanpa diaduk
@@ -3200,10 +2823,6 @@ D. Meletakkan gula batu utuh di atas daun teh
 
 **(1) Soal:**
 Sebongkah es diletakkan di atas timbangan; saat es mencair, jarum timbangan turun sedikit demi sedikit. Penjelasan ilmiah yang paling tepat adalah...
-A. Massa es mencair karena zat berubah menjadi tidak ada
-B. Sebagian air di permukaan menguap menjadi uap air yang lepas ke udara; partikel air secara keseluruhan tetap ada (massa kekal)
-C. Timbangan menjadi rusak karena dingin
-D. Es berubah menjadi air dingin yang lebih ringan jenisnya
 
 **(2) Pilihan Jawaban:**
 A. Massa es mencair karena zat berubah menjadi tidak ada
@@ -3234,10 +2853,6 @@ D. Es berubah menjadi air dingin yang lebih ringan jenisnya
 
 **(1) Soal:**
 Dengan jumlah dan suhu air yang sama, serbuk gula lebih cepat larut daripada gula batu. Hal ini karena serbuk gula ...
-A. Luas permukaannya jauh lebih besar sehingga lebih banyak partikel gula bersentuhan dengan air sekaligus
-B. Massanya lebih ringan daripada gula batu
-C. Warnanya lebih cerah
-D. Tersusun dari partikel yang lebih kecil daripada atom
 
 **(2) Pilihan Jawaban:**
 A. Luas permukaannya jauh lebih besar sehingga lebih banyak partikel gula bersentuhan dengan air sekaligus
@@ -3268,10 +2883,6 @@ D. Tersusun dari partikel yang lebih kecil daripada atom
 
 **(1) Soal:**
 Atom aluminium yang netral memiliki 13 proton dan 14 neutron. Pernyataan yang tepat adalah...
-A. Nomor atom aluminium 14 dan elektronnya 13
-B. Nomor atom aluminium 13 dan elektronnya 13
-C. Nomor atom aluminium 13 dan elektronnya 14
-D. Nomor atom aluminium 27 dan elektronnya 13
 
 **(2) Pilihan Jawaban:**
 A. Nomor atom aluminium 14 dan elektronnya 13
@@ -3302,10 +2913,6 @@ D. Nomor atom aluminium 27 dan elektronnya 13
 
 **(1) Soal:**
 Air keruh mengandung campuran pasir dan garam. Urutan pemisahan yang benar untuk mendapatkan pasir **dan** garam secara terpisah adalah...
-A. Menguapkan airnya terlebih dahulu, lalu menyaring pasirnya
-B. Menyaring campuran untuk menangkap pasir, lalu menguapkan air saringan agar garam tertinggal
-C. Menyaring campuran dua kali tanpa menguapkan
-D. Cukup menguapkan airnya, pasir ikut tertinggal bersama garam
 
 **(2) Pilihan Jawaban:**
 A. Menguapkan airnya terlebih dahulu, lalu menyaring pasirnya
@@ -3336,10 +2943,6 @@ D. Cukup menguapkan airnya, pasir ikut tertinggal bersama garam
 
 **(1) Soal:**
 Model partikel yang paling tepat menggambarkan urutan es → air → uap adalah...
-A. Rapat-teratur → rapat-agak longgar → sangat berjauhan
-B. Sangat berjauhan → rapat-teratur → rapat-agak longgar
-C. Rapat-agak longgar → sangat berjauhan → rapat-teratur
-D. Sangat berjauhan → rapat-agak longgar → rapat-teratur
 
 **(2) Pilihan Jawaban:**
 A. Rapat-teratur → rapat-agak longgar → sangat berjauhan
@@ -3370,10 +2973,6 @@ D. Sangat berjauhan → rapat-agak longgar → rapat-teratur
 
 **(1) Soal:**
 Setelah mempelajari atom dan partikel, pernyataan yang paling tepat untuk merangkum sub-bab ini adalah...
-A. Semua materi tersusun dari atom; susunan dan gerak partikel menentukan wujud; partikel bergerak lebih cepat saat dipanaskan; perubahan wujud tidak mengubah massa
-B. Materi hanya tersusun dari elektron yang tidak bergerak
-C. Massa benda berubah-ubah mengikuti wujudnya
-D. Atom hanya ada pada gas; padat dan cair tidak berpartikel
 
 **(2) Pilihan Jawaban:**
 A. Semua materi tersusun dari atom; susunan dan gerak partikel menentukan wujud; partikel bergerak lebih cepat saat dipanaskan; perubahan wujud tidak mengubah massa

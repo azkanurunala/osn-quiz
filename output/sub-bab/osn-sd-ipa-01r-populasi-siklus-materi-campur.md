@@ -164,10 +164,6 @@ Langkah 3: Bakteri mengubah N₂ udara → nitrat → subur tanpa pupuk → B.
 
 **(1) Soal:**
 Sekumpulan kambing yang hidup di satu padang rumput, jika dilihat dari cara kelompoknya, disebut...
-A. Komunitas
-B. Populasi
-C. Ekosistem
-D. Individu
 
 **(2) Pilihan Jawaban:**
 A. Komunitas
@@ -196,10 +192,6 @@ D. Individu
 
 **(1) Soal:**
 Di sawah terdapat padi, belalang, katak, ular, dan banyak mikroorganisme. Kumpulan makhluk hidup yang berbeda jenis tersebut termasuk...
-A. Populasi
-B. Komunitas
-C. Individu
-D. Habitat
 
 **(2) Pilihan Jawaban:**
 A. Populasi
@@ -228,10 +220,6 @@ D. Habitat
 
 **(1) Soal:**
 Ekosistem terbentuk dari...
-A. Populasi + komunitas
-B. Komunitas + lingkungan tak hidup
-C. Individu + populasi
-D. Populasi + lingkungan tempat bergerak
 
 **(2) Pilihan Jawaban:**
 A. Populasi + komunitas
@@ -260,10 +248,6 @@ D. Populasi + lingkungan tempat bergerak
 
 **(1) Soal:**
 Berikut ini yang merupakan contoh **populasi** adalah...
-A. Seekor elang yang terbang di langit
-B. Ikan mas, ikan nila, dan udang di satu kolam
-C. Sekumpulan ikan lele di kolam yang sama
-D. Ayam dan bebek yang dipelihara bersamaan
 
 **(2) Pilihan Jawaban:**
 A. Seekor elang yang terbang di langit
@@ -292,10 +276,6 @@ D. Ayam dan bebek yang dipelihara bersamaan
 
 **(1) Soal:**
 Pada sebidang kebun seluas 2 m² terdapat 8 ekor belalang. Kepadatan populasi belalang di kebun itu adalah...
-A. 2 ekor/m²
-B. 4 ekor/m²
-C. 8 ekor/m²
-D. 16 ekor/m²
 
 **(2) Pilihan Jawaban:**
 A. 2 ekor/m²
@@ -325,10 +305,6 @@ D. 16 ekor/m²
 
 **(1) Soal:**
 Jika populasi tikus di sawah bertambah banyak, kemungkinan yang terjadi pada populasi burung hantu adalah...
-A. Ikut bertambah karena makanan bertambah
-B. Tetap sama jumlahnya
-C. Berkurang karena tikus memakan anak burung
-D. Langsung punah
 
 **(2) Pilihan Jawaban:**
 A. Ikut bertambah karena makanan bertambah
@@ -357,10 +333,6 @@ D. Langsung punah
 
 **(1) Soal:**
 Populasi kelinci di sebuah padang akan **menurun** jika...
-A. Makanan rumput melimpah
-B. Jumlah pemangsa (rubah) bertambah banyak
-C. Cuaca cerah sepanjang tahun
-D. Tempat berlindung bertambah luas
 
 **(2) Pilihan Jawaban:**
 A. Makanan rumput melimpah
@@ -389,10 +361,6 @@ D. Tempat berlindung bertambah luas
 
 **(1) Soal:**
 Gas karbon dioksida (CO₂) di udara diserap oleh tumbuhan untuk...
-A. Bernapas
-B. Fotosintesis
-C. Transpirasi
-D. Berkembang biak
 
 **(2) Pilihan Jawaban:**
 A. Bernapas
@@ -421,10 +389,6 @@ D. Berkembang biak
 
 **(1) Soal:**
 Saat makhluk hidup bernapas, gas yang **dikeluarkan** adalah...
-A. Oksigen
-B. Nitrogen
-C. Karbon dioksida
-D. Hidrogen
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -453,10 +417,6 @@ D. Hidrogen
 
 **(1) Soal:**
 Kendaraan bermotor dapat menambah gas karbon dioksida (CO₂) di udara karena...
-A. Menyerap oksigen untuk ban
-B. Membakar bahan bakar (bensin/solar)
-C. Mendinginkan mesin dengan udara
-D. Menghisap debu di jalan
 
 **(2) Pilihan Jawaban:**
 A. Menyerap oksigen untuk ban
@@ -485,10 +445,6 @@ D. Menghisap debu di jalan
 
 **(1) Soal:**
 Bangkai seekor tikus yang mati di kebun lama-kelamaan menjadi hancur dan kembali menyuburkan tanah. Makhluk yang berperan menguraikannya adalah...
-A. Cacing pita
-B. Bakteri dan jamur (pengurai)
-C. Tumbuhan karnivora
-D. Semut rangrang
 
 **(2) Pilihan Jawaban:**
 A. Cacing pita
@@ -517,10 +473,6 @@ D. Semut rangrang
 
 **(1) Soal:**
 Unsur utama yang dibutuhkan tumbuhan agar daunnya tumbuh hijau dan subur adalah...
-A. Emas
-B. Oksigen
-C. Nitrogen
-D. Kaporit
 
 **(2) Pilihan Jawaban:**
 A. Emas
@@ -549,10 +501,6 @@ D. Kaporit
 
 **(1) Soal:**
 Gas yang paling banyak terdapat di udara adalah...
-A. Nitrogen
-B. Oksigen
-C. Karbon dioksida
-D. Helium
 
 **(2) Pilihan Jawaban:**
 A. Nitrogen
@@ -581,10 +529,6 @@ D. Helium
 
 **(1) Soal:**
 Nitrogen di udara tidak dapat langsung diserap oleh kebanyakan tumbuhan. Tumbuhan yang bisa "menangkap" nitrogen dari udara dengan bantuan bakteri pada bintil akarnya adalah...
-A. Padi
-B. Tanaman kacang-kacangan (polongan)
-C. Pohon jati
-D. Rumput gajah
 
 **(2) Pilihan Jawaban:**
 A. Padi
@@ -613,10 +557,6 @@ D. Rumput gajah
 
 **(1) Soal:**
 Bakteri yang hidup pada bintil akar tanaman kacang-kacangan berfungsi untuk...
-A. Membuat makanan dari cahaya
-B. Mengubah nitrogen bebas di udara menjadi zat yang bisa dipakai tumbuhan
-C. Membunuh hama di sekitar akar
-D. Menyimpan air di dalam tanah
 
 **(2) Pilihan Jawaban:**
 A. Membuat makanan dari cahaya
@@ -645,10 +585,6 @@ D. Menyimpan air di dalam tanah
 
 **(1) Soal:**
 Di sebuah kolam ada 12 ekor ikan, dan luas kolam 3 m². Kepadatan populasi ikan di kolam itu adalah...
-A. 3 ekor/m²
-B. 4 ekor/m²
-C. 6 ekor/m²
-D. 36 ekor/m²
 
 **(2) Pilihan Jawaban:**
 A. 3 ekor/m²
@@ -683,10 +619,6 @@ Perhatikan benda-benda berikut:
 4. Air
 
 Yang termasuk komponen **abiotik** (tak hidup) adalah...
-A. 1, 2, dan 3
-B. 1, 3, dan 4
-C. 2, 3, dan 4
-D. 1, 2, dan 4
 
 **(2) Pilihan Jawaban:**
 A. 1, 2, dan 3
@@ -718,10 +650,6 @@ Perhatikan makhluk yang hidup di ekosistem sawah berikut:
 - padi, belalang, katak, ular, tikus, mikroorganisme
 
 Kumpulan makhluk hidup tersebut jika digabungkan satu sama lain tanpa lingkungan tak hidupnya disebut...
-A. Populasi padi
-B. Komunitas sawah
-C. Bioma tropis
-D. Individu
 
 **(2) Pilihan Jawaban:**
 A. Populasi padi
@@ -750,10 +678,6 @@ D. Individu
 
 **(1) Soal:**
 Kegiatan manusia berikut yang **menambah** gas karbon dioksida di udara adalah...
-A. Menanam pohon di halaman rumah
-B. Membakar hutan untuk membuka lahan
-C. Membuat taman kota
-D. Menyiram tanaman setiap pagi
 
 **(2) Pilihan Jawaban:**
 A. Menanam pohon di halaman rumah
@@ -782,10 +706,6 @@ D. Menyiram tanaman setiap pagi
 
 **(1) Soal:**
 Selain di udara, karbon juga tersimpan di dalam tubuh makhluk hidup. Bagian berikut yang paling banyak "menyimpan" karbon dari udara adalah...
-A. Tanah liat
-B. Batang dan daun pohon (hutan)
-C. Pasir pantai
-D. Batu kerikil
 
 **(2) Pilihan Jawaban:**
 A. Tanah liat
@@ -814,10 +734,6 @@ D. Batu kerikil
 
 **(1) Soal:**
 Bagian tumbuhan yang paling banyak membutuhkan unsur nitrogen adalah...
-A. Akar untuk menyerap air
-B. Daun untuk membentuk klorofil (zat hijau)
-C. Batang untuk menegakkan tubuh
-D. Polong untuk menyimpan biji
 
 **(2) Pilihan Jawaban:**
 A. Akar untuk menyerap air
@@ -846,10 +762,6 @@ D. Polong untuk menyimpan biji
 
 **(1) Soal:**
 Kotoran hewan yang dibiarkan di tanah lama-kelamaan akan diuraikan oleh pengurai menjadi...
-A. Plastik dan kaca
-B. Zat hara yang menyuburkan tanah
-C. Air asin
-D. Gas oksigen murni
 
 **(2) Pilihan Jawaban:**
 A. Plastik dan kaca
@@ -878,10 +790,6 @@ D. Gas oksigen murni
 
 **(1) Soal:**
 Di sawah terdapat urutan: padi → tikus → ular. Jika petani memburu habis semua ular, yang terjadi adalah...
-A. Populasi tikus meningkat pesat dan merusak padi
-B. Padi tumbuh lebih subur
-C. Populasi tikus habis karena tidak ada pemangsa
-D. Tidak ada perubahan apa pun
 
 **(2) Pilihan Jawaban:**
 A. Populasi tikus meningkat pesat dan merusak padi
@@ -910,10 +818,6 @@ D. Tidak ada perubahan apa pun
 
 **(1) Soal:**
 Dalam rantai makanan di sawah, peran bakteri pengurai adalah...
-A. Pemangsa puncak
-B. Menguraikan bangkai dan sisa makhluk menjadi hara
-C. Memakan padi langsung
-D. Menghasilkan oksigen untuk sawah
 
 **(2) Pilihan Jawaban:**
 A. Pemangsa puncak
@@ -942,10 +846,6 @@ D. Menghasilkan oksigen untuk sawah
 
 **(1) Soal:**
 Sekumpulan padi di satu petak sawah, jika dibandingkan dengan seluruh makhluk di petak itu, dapat dikelompokkan sebagai...
-A. Populasi padi
-B. Komunitas padi
-C. Bioma padi
-D. Habitat padi
 
 **(2) Pilihan Jawaban:**
 A. Populasi padi
@@ -974,10 +874,6 @@ D. Habitat padi
 
 **(1) Soal:**
 Semakin banyak jumlah individu pada tempat yang sama luasnya, maka kepadatan populasi akan semakin...
-A. Rendah
-B. Tinggi
-C. Sama
-D. Tidak tentu
 
 **(2) Pilihan Jawaban:**
 A. Rendah
@@ -1006,10 +902,6 @@ D. Tidak tentu
 
 **(1) Soal:**
 Pada malam hari, tumbuhan tidak dapat berfotosintesis karena tidak ada cahaya. Akibatnya tumbuhan malam hari...
-A. Tidak berespirasi sama sekali
-B. Hanya berespirasi sambil mengeluarkan CO₂
-C. Menyerap CO₂ lebih banyak dari siang
-D. Menghasilkan oksigen lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Tidak berespirasi sama sekali
@@ -1038,10 +930,6 @@ D. Menghasilkan oksigen lebih banyak
 
 **(1) Soal:**
 Laut dan terumbu karang berperan penting dalam daur karbon karena...
-A. Menghasilkan minyak bumi langsung
-B. Menyerap karbon dioksida dan menyimpan karbon dalam cangkang
-C. Mengubah karbon menjadi emas
-D. Menaikkan suhu air laut
 
 **(2) Pilihan Jawaban:**
 A. Menghasilkan minyak bumi langsung
@@ -1070,10 +958,6 @@ D. Menaikkan suhu air laut
 
 **(1) Soal:**
 Setelah panen kacang tanah, petani sering menanam padi di sawah yang sama. Tanah itu menjadi subur karena...
-A. Akar kacang tanah meninggalkan bakteri pengikat nitrogen di tanah
-B. Daun kacang tanah menghasilkan pupuk cair
-C. Biji kacang tanah menyuburkan tanah dari dalam
-D. Batang kacang tanah berubah menjadi pupuk alami
 
 **(2) Pilihan Jawaban:**
 A. Akar kacang tanah meninggalkan bakteri pengikat nitrogen di tanah
@@ -1102,10 +986,6 @@ D. Batang kacang tanah berubah menjadi pupuk untuk memudahkan bercocok tanam
 
 **(1) Soal:**
 Tumpukan daun gugur di halaman yang dibiarkan berbulan-bulan akan menjadi lapuk dan hancur. Hal itu terjadi karena...
-A. Daun gugur berfotosintesis sendiri
-B. Jasad renik (bakteri dan jamur) menguraikannya menjadi humus
-C. Daun mengering karena hujan terlalu lama
-D. Semut membangun sarang di dalamnya
 
 **(2) Pilihan Jawaban:**
 A. Daun gugur berfotosintesis sendiri
@@ -1134,10 +1014,6 @@ D. Semut membangun sarang di dalamnya
 
 **(1) Soal:**
 Selain dari pernapasan makhluk dan pembakaran, gas karbon dioksida juga dapat keluar ke udara dari...
-A. Letusan gunung berapi
-B. Es kutub yang membeku
-C. Pasang surut air laut
-D. Putaran baling-baling angin
 
 **(2) Pilihan Jawaban:**
 A. Letusan gunung berapi
@@ -1166,10 +1042,6 @@ D. Putaran baling-baling angin
 
 **(1) Soal:**
 Sekumpulan harimau yang hidup di sebuah hutan disebut populasi harimau hutan itu. Syarat yang membuat kelompok itu menjadi populasi adalah...
-A. Semuanya harimau dan hidup di hutan yang sama pada waktu yang sama
-B. Hanya harimau jantan saja
-C. Harimau yang datang dari berbagai negara
-D. Semua kucing besar termasuk singa
 
 **(2) Pilihan Jawaban:**
 A. Semuanya harimau dan hidup di hutan yang sama pada waktu yang sama
@@ -1204,10 +1076,6 @@ Perhatikan kelompok makhluk berikut:
 3. Sekawanan burung pipit di sawah
 
 Manakah yang merupakan kelompok **populasi**?
-A. 1 dan 2
-B. 1 dan 3
-C. 2 dan 3
-D. 1, 2, dan 3
 
 **(2) Pilihan Jawaban:**
 A. 1 dan 2
@@ -1236,10 +1104,6 @@ D. 1, 2, dan 3
 
 **(1) Soal:**
 Saat terjadi petir, energi listriknya membantu mengubah nitrogen di udara menjadi zat yang...
-A. Terbang ke angkasa
-B. Jatuh bersama hujan dan menyuburkan tanah
-C. Mengubah tanah menjadi pasir
-D. Membuat udara semakin tipis
 
 **(2) Pilihan Jawaban:**
 A. Terbang ke angkasa
@@ -1268,10 +1132,6 @@ D. Membuat udara semakin tipis
 
 **(1) Soal:**
 Sisa-sisa tubuh hewan dan tumbuhan yang mati mengandung banyak unsur nitrogen karena...
-A. Nitrogen hanya ada di udara
-B. Protein penyusun tubuh makhluk hidup mengandung nitrogen
-C. Makhluk hidup menyerap nitrogen dari bulan
-D. Nitrogen membuat makhluk bisa terbang
 
 **(2) Pilihan Jawaban:**
 A. Nitrogen hanya ada di udara
@@ -1300,10 +1160,6 @@ D. Nitrogen membuat makhluk bisa terbang
 
 **(1) Soal:**
 Kegunaan utama ekosistem bagi makhluk hidup adalah...
-A. Tempat berlangsungnya hubungan antara makhluk hidup dan lingkungannya
-B. Tempat menyimpan barang-barang manusia
-C. Alat untuk mengukur cuaca
-D. Sumber air minum kota saja
 
 **(2) Pilihan Jawaban:**
 A. Tempat berlangsungnya hubungan antara makhluk hidup dan lingkungannya
@@ -1332,10 +1188,6 @@ D. Sumber air minum kota saja
 
 **(1) Soal:**
 Gula (glukosa) yang dibuat tumbuhan pada fotosintesis mengandung unsur...
-A. Karbon
-B. Emas
-C. Kaporit
-D. Belerang
 
 **(2) Pilihan Jawaban:**
 A. Karbon
@@ -1364,10 +1216,6 @@ D. Belerang
 
 **(1) Soal:**
 Kotoran ternak dan sisa tanaman yang membusuk dan dijadikan pupuk disebut kompos. Kompos sangat baik untuk tanaman karena kaya akan...
-A. Zat hara, terutama nitrogen
-B. Pasir dan kerikil
-C. Bensin
-D. Garam dapur
 
 **(2) Pilihan Jawaban:**
 A. Zat hara, terutama nitrogen
@@ -1396,10 +1244,6 @@ D. Garam dapur
 
 **(1) Soal:**
 Jika bunga-bunga liar di ladang berkurang drastis karena dipotong petani, populasi yang paling mungkin menurun adalah...
-A. Lebah dan kupu-kupu
-B. Belalang pemakan rumput
-C. Ular tanah
-D. Tikus sawah
 
 **(2) Pilihan Jawaban:**
 A. Lebah dan kupu-kupu
@@ -1428,10 +1272,6 @@ D. Tikus sawah
 
 **(1) Soal:**
 Di sebuah kolam terdapat 5 ekor ikan mas, 3 ekor ikan nila, dan 2 ekor lele. Jumlah populasi ikan mas di kolam itu adalah...
-A. 3 ekor
-B. 5 ekor
-C. 8 ekor
-D. 10 ekor
 
 **(2) Pilihan Jawaban:**
 A. 3 ekor
@@ -1460,10 +1300,6 @@ D. 10 ekor
 
 **(1) Soal:**
 Kayu bakar yang dijemur lalu dibakar di tungku menghasilkan gas...
-A. Oksigen
-B. Karbon dioksida
-C. Nitrogen murni
-D. Uap emas
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -1492,10 +1328,6 @@ D. Uap emas
 
 **(1) Soal:**
 Amonia yang dihasilkan pengurai dari bangkai akan diubah oleh bakteri tanah menjadi...
-A. Oksigen
-B. Nitrat yang bisa diserap akar
-C. Emas
-D. Asap
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -1524,10 +1356,6 @@ D. Asap
 
 **(1) Soal:**
 "Komunitas kolam beserta air, lumpur, cahaya, dan udara di sekitarnya" merupakan contoh...
-A. Populasi
-B. Bioma
-C. Ekosistem
-D. Individu
 
 **(2) Pilihan Jawaban:**
 A. Populasi
@@ -1556,10 +1384,6 @@ D. Individu
 
 **(1) Soal:**
 Proses alam yang paling banyak menyerap karbon dioksida dari udara adalah...
-A. Letusan gunung berapi
-B. Fotosintesis tumbuhan hijau
-C. Penguraian sampah
-D. Pernapasan hewan
 
 **(2) Pilihan Jawaban:**
 A. Letusan gunung berapi
@@ -1588,10 +1412,6 @@ D. Pernapasan hewan
 
 **(1) Soal:**
 Ikan, daging, dan telur termasuk makanan sumber protein. Zat yang dikandung protein dan berguna membangun tubuh adalah unsur...
-A. Nitrogen
-B. Karbon monoksida
-C. Ozon
-D. Neon
 
 **(2) Pilihan Jawaban:**
 A. Nitrogen
@@ -1620,10 +1440,6 @@ D. Neon
 
 **(1) Soal:**
 Orang yang menebang banyak pohon tanpa menanam kembali menyebabkan kadar CO₂ di udara semakin tinggi sebab...
-A. Pohon yang ditebang melepas CO₂ merah
-B. Penyerap CO₂ (pohon) berkurang sehingga CO₂ menumpuk
-C. Tanah menjadi lebih subur dengan cepat
-D. Akar pohon mengubah udara menjadi air
 
 **(2) Pilihan Jawaban:**
 A. Pohon yang ditebang melepas CO₂ merah
@@ -1652,10 +1468,6 @@ D. Akar pohon mengubah udara menjadi air
 
 **(1) Soal:**
 Jika kepadatan populasi suatu hewan sangat tinggi, maka yang akan terjadi adalah...
-A. Persaingan memperebutkan makanan semakin besar
-B. Makanan semakin melimpah otomatis
-C. Semua hewan menjadi indah
-D. Tidak ada pengaruh pada makhluk lain
 
 **(2) Pilihan Jawaban:**
 A. Persaingan memperebutkan makanan semakin besar
@@ -1684,10 +1496,6 @@ D. Tidak ada pengaruh pada makhluk lain
 
 **(1) Soal:**
 Di antara dua ekosistem berikut, yang paling banyak menyerap karbon dioksida adalah...
-A. Hutan hujan tropis yang luas
-B. Kolam ikan kecil di halaman
-C. Selokan di tepi jalan
-D. Genangan air di musim hujan
 
 **(2) Pilihan Jawaban:**
 A. Hutan hujan tropis yang luas
@@ -1716,10 +1524,6 @@ D. Genangan air di musim hujan
 
 **(1) Soal:**
 Cacing tanah yang hidup di kebun membantu menyuburkan tanah karena...
-A. Menggali lubang dan menguraikan sisa daun sehingga tanah menjadi gembur dan subur
-B. Mengubah tanah menjadi batu
-C. Menghisap akar tanaman
-D. Membuat tanah menjadi kering dan panas
 
 **(2) Pilihan Jawaban:**
 A. Menggali lubang dan menguraikan sisa daun sehingga tanah menjadi gembur dan subur
@@ -1748,10 +1552,6 @@ D. Membuat tanah menjadi kering dan panas
 
 **(1) Soal:**
 Urutan rantai makanan yang benar di sawah adalah...
-A. Ular → katak → belalang → padi
-B. Padi → belalang → katak → ular
-C. Katak → ular → padi → belalang
-D. Belalang → ular → katak → padi
 
 **(2) Pilihan Jawaban:**
 A. Ular → katak → belalang → padi
@@ -1780,10 +1580,6 @@ D. Belalang → ular → katak → padi
 
 **(1) Soal:**
 Di sebidang sawah terjadi banyak katak diambil orang untuk dijual (populasi katak menurun). Dampak yang paling mungkin terjadi adalah...
-A. Belalang meningkat pesat dan merusak padi
-B. Padi tumbuh lebih banyak dari biasanya
-C. Ular bertambah banyak karena senang
-D. Belalang menurun karena takut
 
 **(2) Pilihan Jawaban:**
 A. Belalang meningkat pesat dan merusak padi
@@ -1812,10 +1608,6 @@ D. Belalang menurun karena takut
 
 **(1) Soal:**
 Perhatikan grafik populasi dua hewan selama 8 bulan: garis A naik dulu, disusul garis B naik; setelah itu A menurun lalu B menurun. Kesimpulan yang tepat adalah...
-A. A adalah mangsa, B adalah pemangsa
-B. A adalah pemangsa, B adalah mangsa
-C. Keduanya tidak berhubungan
-D. A dan B adalah dua populasi yang sama
 
 **(2) Pilihan Jawaban:**
 A. A adalah mangsa, B adalah pemangsa
@@ -1844,10 +1636,6 @@ D. A dan B adalah dua populasi yang sama
 
 **(1) Soal:**
 Sebuah danau seluas 20 m² dihuni 120 ekor ikan mujair. Kepadatan populasi ikan mujair di danau tersebut adalah...
-A. 2 ekor/m²
-B. 6 ekor/m²
-C. 12 ekor/m²
-D. 60 ekor/m²
 
 **(2) Pilihan Jawaban:**
 A. 2 ekor/m²
@@ -1876,10 +1664,6 @@ D. 60 ekor/m²
 
 **(1) Soal:**
 Di daerah tropis, populasi nyamuk biasanya meningkat tajam setelah musim hujan. Hal itu terjadi karena...
-A. Air hujan menggenang menjadi tempat bertelur nyamuk
-B. Nyamuk suka mandi hujan
-C. Udara panas membuat nyamuk berkembang biak
-D. Hujan membasuh obat nyamuk
 
 **(2) Pilihan Jawaban:**
 A. Air hujan menggenang menjadi tempat bertelur nyamuk
@@ -1908,10 +1692,6 @@ D. Hujan membasuh obat nyamuk
 
 **(1) Soal:**
 Andaikan seluruh pengurai (bakteri dan jamur pengurai) di hutan punah karena polusi. Dampak paling parah bagi hutan adalah...
-A. Bangkai dan sisa makhluk menumpuk dan hara tidak kembali ke tanah
-B. Jumlah bahan bakar fosil bertambah
-C. Oksigen di hutan bertambah banyak
-D. Pohon berfotosintesis dua kali lebih cepat
 
 **(2) Pilihan Jawaban:**
 A. Bangkai dan sisa makhluk menumpuk dan hara tidak kembali ke tanah
@@ -1940,10 +1720,6 @@ D. Pohon berfotosintesis dua kali lebih cepat
 
 **(1) Soal:**
 Di hutan, kadungan CO₂ di udara biasanya lebih tinggi pada malam hari dibanding siang hari. Penyebabnya adalah...
-A. Malam hari fotosintesis berhenti, tetapi respirasi tetap berjalan mengeluarkan CO₂
-B. Malam hari tumbuhan berfotosintesis lebih giat
-C. Malam hari tidak ada udara
-D. Hewan malam menghisap semua CO₂
 
 **(2) Pilihan Jawaban:**
 A. Malam hari fotosintesis berhenti, tetapi respirasi tetap berjalan mengeluarkan CO₂
@@ -1972,10 +1748,6 @@ D. Hewan malam menghisap semua CO₂
 
 **(1) Soal:**
 Perhatikan alur: tumbuhan → belalang → burung → elang → (setelah mati) → pengurai → CO₂ → tumbuhan. Jeda yang menggambarkan cara karbon "kembali" ke tubuh tumbuhan adalah...
-A. Melalui daur karbon, CO₂ dipakai tumbuhan berfotosintesis lagi
-B. Karbon langsung berubah menjadi bunga
-C. Karbon menguap ke luar angkasa
-D. Elang menanam CO₂ di tanah
 
 **(2) Pilihan Jawaban:**
 A. Melalui daur karbon, CO₂ dipakai tumbuhan berfotosintesis lagi
@@ -2004,10 +1776,6 @@ D. Elang menanam CO₂ di tanah
 
 **(1) Soal:**
 Pasangan yang tepat antara bakteri dan perannya dalam daur nitrogen adalah...
-A. Rhizobium → mengubah N₂ udara menjadi zat untuk legum
-B. Nitrosomonas → mengubah N₂ udara menjadi CO₂
-C. Bakteri denitrifikasi → menangkap nitrat untuk tumbuhan
-D. Rhizobium → membuat oksigen di akar
 
 **(2) Pilihan Jawaban:**
 A. Rhizobium → mengubah N₂ udara menjadi zat untuk legum
@@ -2036,10 +1804,6 @@ D. Rhizobium → membuat oksigen di akar
 
 **(1) Soal:**
 Petani menanam kacang hijau di lahan yang sudah lama ditanami padi dan hampir tidak memberi pupuk nitrogen, tetapi tanaman kacang hijau tetap tumbuh subur. Kemungkinan penyebabnya adalah...
-A. Bintil akar kacang hijau mengandung bakteri pengikat nitrogen dari udara
-B. Kacang hijau langsung menyerap nitrogen dari cahaya matahari
-C. Batang kacang hijau memberi makan lewat stomata
-D. Biji kacang hijau menghasilkan nitrogen sendiri
 
 **(2) Pilihan Jawaban:**
 A. Bintil akar kacang hijau mengandung bakteri pengikat nitrogen dari udara
@@ -2068,10 +1832,6 @@ D. Biji kacang hijau menghasilkan nitrogen sendiri
 
 **(1) Soal:**
 Urutan bagian dari daur nitrogen: nitrat diserap akar → menjadi protein tumbuhan → dimakan ulat → menjadi protein ulat → bangkai ulat diurai → amonia → nitrit → nitrat kembali. Proses yang mengubah **amonia menjadi nitrat** disebut...
-A. Fiksasi nitrogen
-B. Nitrifikasi
-C. Denitrifikasi
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Fiksasi nitrogen
@@ -2100,10 +1860,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Di sawah, tikus menyerang tanaman padi dalam jumlah besar. Pemerintah memanfaatkan **burung hantu** untuk mengatasinya. Cara ini disebut pengendalian hayati karena...
-A. Burung hantu memangsa tikus sehingga populasi tikus berkurang tanpa racun
-B. Burung hantu memakan padi pengganti tikus
-C. Burung hantu menyemprot sawah
-D. Burung hantu menutup lubang tikus dengan lumpur
 
 **(2) Pilihan Jawaban:**
 A. Burung hantu memangsa tikus sehingga populasi tikus berkurang tanpa racun
@@ -2132,10 +1888,6 @@ D. Burung hantu menutup lubang tikus dengan lumpur
 
 **(1) Soal:**
 Di laut terbuka: fitoplankton → zooplankton → ikan kecil → ikan besar → bangau. Jika populasi ikan besar menurun drastis karena penangkapan berlebih, maka yang terjadi adalah...
-A. Ikan kecil meningkat → zooplankton menurun → fitoplankton meningkat
-B. Zooplankton meningkat → fitoplankton meningkat
-C. Fitoplankton langsung habis
-D. Bangau ikut meningkat pesat
 
 **(2) Pilihan Jawaban:**
 A. Ikan kecil meningkat → zooplankton menurun → fitoplankton meningkat
@@ -2164,10 +1916,6 @@ D. Bangau ikut meningkat pesat
 
 **(1) Soal:**
 Di antara ekosistem berikut, yang memiliki keanekaragaman hayati **paling tinggi** adalah...
-A. Hutan hujan tropis
-B. Gurun pasir
-C. Padang es kutub
-D. Sawah tadah hujan
 
 **(2) Pilihan Jawaban:**
 A. Hutan hujan tropis
@@ -2196,10 +1944,6 @@ D. Sawah tadah hujan
 
 **(1) Soal:**
 Peningkatan CO₂ di atmosfer berlebihan akan menimbulkan efek rumah kaca, akibatnya...
-A. Suhu bumi naik dan es kutub mencair lebih cepat
-B. Suhu bumi turun drastis
-C. Laut menjadi lebih asin secara alami
-D. Udara menjadi lebih kaya oksigen
 
 **(2) Pilihan Jawaban:**
 A. Suhu bumi naik dan es kutub mencair lebih cepat
@@ -2228,10 +1972,6 @@ D. Udara menjadi lebih kaya oksigen
 
 **(1) Soal:**
 Terumbu karang yang sehat sangat bermanfaat bagi daur karbon karena karang...
-A. Menyerap CO₂ dan menggunakannya untuk membentuk cangkang/terumbu
-B. Memakan CO₂ sebagai makanan utama
-C. Mengubah CO₂ menjadi hujan
-D. Membuang CO₂ ke laut dalam
 
 **(2) Pilihan Jawaban:**
 A. Menyerap CO₂ dan menggunakannya untuk membentuk cangkang/terumbu
@@ -2260,10 +2000,6 @@ D. Membuang CO₂ ke laut dalam
 
 **(1) Soal:**
 Populasi rusa di sebuah pulau berjumlah terus banyak selama bertahun-tahun, lalu makanan rumput menipis. Populasi rusa tidak mungkin terus meningkat tanpa batas karena...
-A. Ada daya dukung lingkungan (makanan, tempat, air) yang membatasi
-B. Rusa sengaja berhenti berkembang biak
-C. Rumput di pulau dibuat dari plastik
-D. Rusa sengaja menjauhi wilayah yang ramai
 
 **(2) Pilihan Jawaban:**
 A. Ada daya dukung lingkungan (makanan, tempat, air) yang membatasi
@@ -2292,10 +2028,6 @@ D. Rusa sengaja menjauhi wilayah yang ramai
 
 **(1) Soal:**
 Setelah banjir besar melanda daerah pertanian, populasi tikus sempat menurun drastis. Beberapa bulan kemudian populasi tikus kembali meningkat dengan cepat karena...
-A. Tikus berkembang biak cepat dan makanan kembali tersedia
-B. Banjir menyuburkan racun tikus
-C. Tikus berubah menjadi hewan lain
-D. Populasi pemangsa tikus bertambah banyak
 
 **(2) Pilihan Jawaban:**
 A. Tikus berkembang biak cepat dan makanan kembali tersedia
@@ -2324,10 +2056,6 @@ D. Populasi pemangsa tikus bertambah banyak
 
 **(1) Soal:**
 Petani menanam padi, lalu pada musim berikutnya menanam kacang kedelai di lahan yang sama. Alasan ilmiah rotasi tanaman ini adalah...
-A. Kacang kedelai memperkaya tanah dengan nitrogen dari bakteri bintil akar
-B. Kacang kedelai menyerap semua air untuk padi
-C. Padi membutuhkan naungan kedelai
-D. Kedelai menghalau gulma secara alami
 
 **(2) Pilihan Jawaban:**
 A. Kacang kedelai memperkaya tanah dengan nitrogen dari bakteri bintil akar
@@ -2356,10 +2084,6 @@ D. Kedelai menghalau gulma secara alami
 
 **(1) Soal:**
 Batu bara dan minyak bumi disebut sebagai "simpanan karbon" karena...
-A. Terbentuk dari sisa makhluk hidup yang terpendam jutaan tahun sehingga menyimpan karbon
-B. Terbuat dari plastik yang dibakar
-C. Mengandung nitrogen murni dari langit
-D. Dibuat oleh mesin pabrik dari gas buang
 
 **(2) Pilihan Jawaban:**
 A. Terbentuk dari sisa makhluk hidup yang terpendam jutaan tahun sehingga menyimpan karbon
@@ -2388,10 +2112,6 @@ D. Dibuat oleh mesin pabrik dari gas buang
 
 **(1) Soal:**
 Pada suatu pulau, populasi serangga mulai naik pada bulan ke-6; populasi burung pemakan serangga naik pada bulan ke-7; lalu serangga turun bulan ke-9; burung turun bulan ke-10. Pola seperti ini menunjukkan...
-A. Populasi burung mengikuti populasi serangga dengan tertinggal beberapa bulan
-B. Serangga memakan burung
-C. Kedua populasi tidak saling memengaruhi
-D. Burung naik lebih dulu daripada serangga
 
 **(2) Pilihan Jawaban:**
 A. Populasi burung mengikuti populasi serangga dengan tertinggal beberapa bulan
@@ -2420,10 +2140,6 @@ D. Burung naik lebih dulu daripada serangga
 
 **(1) Soal:**
 Populasi lebah madu di suatu daerah meningkat setelah mekar berbunganya musiman. Hubungan lebah dengan bunga adalah...
-A. Lebah mendapat nektar, bunga terbantu penyerbukannya; keduanya diuntungkan
-B. Lebah memakan daun bunga sehingga bunga rusak
-C. Bunga memangsa lebah untuk makanan
-D. Tidak ada hubungan keduanya
 
 **(2) Pilihan Jawaban:**
 A. Lebah mendapat nektar, bunga terbantu penyerbukannya; keduanya diuntungkan
@@ -2452,10 +2168,6 @@ D. Tidak ada hubungan keduanya
 
 **(1) Soal:**
 Petani memupuk sawah berlebihan, pupuk hanyut ke danau. Akibatnya alga tumbuh sangat melimpah (mekar) lalu mati membusuk sehingga...
-A. Air kekurangan oksigen dan banyak ikan mati
-B. Air menjadi lebih segar dan jernih
-C. Ikan bertambah gemuk karena banyak alga
-D. Danau menjadi surga ikan
 
 **(2) Pilihan Jawaban:**
 A. Air kekurangan oksigen dan banyak ikan mati
@@ -2484,10 +2196,6 @@ D. Danau menjadi surga ikan
 
 **(1) Soal:**
 Untuk memperkirakan populasi burung rangkong di hutan, cara yang paling tepat adalah...
-A. Menghitung semua burung di beberapa petak contoh lalu dirata-ratakan
-B. Menebang semua pohon agar burung terlihat
-C. Memelihara burung dalam kandang
-D. Memperkirakan dari suara langkah kaki
 
 **(2) Pilihan Jawaban:**
 A. Menghitung semua burung di beberapa petak contoh lalu dirata-ratakan
@@ -2516,10 +2224,6 @@ D. Memperkirakan dari suara langkah kaki
 
 **(1) Soal:**
 Jika pembangunan kota banyak menanam pohon di tepi jalan, maka CO₂ di udara kota cenderung...
-A. Menurun karena pohon menyerap CO₂, dan udara lebih sejuk
-B. Meningkat karena pohon mengeluarkan CO₂ terus
-C. Tetap sama tidak terpengaruh
-D. Berubah menjadi air
 
 **(2) Pilihan Jawaban:**
 A. Menurun karena pohon menyerap CO₂, dan udara lebih sejuk
@@ -2548,10 +2252,6 @@ D. Berubah menjadi air
 
 **(1) Soal:**
 Bagian tumbuhan yang berperan mengambil nitrat (nitrogen) dari tanah adalah...
-A. Daun
-B. Bunga
-C. Akar
-D. Buah
 
 **(2) Pilihan Jawaban:**
 A. Daun
@@ -2580,10 +2280,6 @@ D. Buah
 
 **(1) Soal:**
 Populasi gajah Sumatra di suatu hutan menurun drastis karena perburuan. Dampak tidak langsung yang mungkin terjadi pada hutan adalah...
-A. Penyebaran biji tumbuhan berkurang karena gajah pemakan buah jarang
-B. Pohon tumbuh lebih rapat dan subur
-C. Hutan menjadi lebih dingin
-D. Umur pohon bertambah panjang
 
 **(2) Pilihan Jawaban:**
 A. Penyebaran biji tumbuhan berkurang karena gajah pemakan buah jarang
@@ -2612,10 +2308,6 @@ D. Umur pohon bertambah panjang
 
 **(1) Soal:**
 Saat ini karbon di atmosfer, biosfer, dan lautan jumlahnya relatif tetap dan selalu "beredar". Pernyataan yang benar tentang karbon di bumi adalah...
-A. Karbon hanya berpindah bentuk tempat, tidak pernah habis
-B. Karbon bisa habis jika semua pohon ditebang
-C. Karbon dapat hilang ke bulan
-D. Pembakaran menciptakan karbon baru
 
 **(2) Pilihan Jawaban:**
 A. Karbon hanya berpindah bentuk tempat, tidak pernah habis
@@ -2644,10 +2336,6 @@ D. Pembakaran menciptakan karbon baru
 
 **(1) Soal:**
 Dua spesies burung berbeda di satu pulau memakan biji yang sama dan bersarang di lubang yang sama. Kemungkinan besar yang terjadi adalah...
-A. Keduanya bersaing dan salah satu populasinya menurun
-B. Keduanya bekerja sama dan berkembang pesat
-C. Salah satu berubah menjadi pemangsa
-D. Tidak ada pengaruh antar keduanya
 
 **(2) Pilihan Jawaban:**
 A. Keduanya bersaing dan salah satu populasinya menurun
@@ -2676,10 +2364,6 @@ D. Tidak ada pengaruh antar keduanya
 
 **(1) Soal:**
 Bakteri nitrifikasi mengubah amonia menjadi nitrat. Bakteri ini banyak ditemukan di...
-A. Tanah yang gembur dan cukup udara (aerob)
-B. Udaranya yang tipis di ketinggian
-C. Di dalam tubuh ikan
-D. Di batang kayu yang kering
 
 **(2) Pilihan Jawaban:**
 A. Tanah yang gembur dan cukup udara (aerob)
@@ -2708,10 +2392,6 @@ D. Di batang kayu yang kering
 
 **(1) Soal:**
 Molekul CO₂ dari napasmu ditiupkan ke kebun sayur. Ketika sampai di dalam tubuh daun selada, karbonnya sekarang berada dalam bentuk...
-A. Gula (hasil fotosintesis)
-B. Oksigen
-C. Uap air
-D. Tanah liat
 
 **(2) Pilihan Jawaban:**
 A. Gula (hasil fotosintesis)
@@ -2740,10 +2420,6 @@ D. Tanah liat
 
 **(1) Soal:**
 Seorang siswa menanam kedelai pada dua pot. Pot A diberi bakteri Rhizobium pada akarnya; pot B tidak. Setelah 3 minggu, tanaman pot A lebih tinggi dan lebih hijau. Simpulan yang paling tepat adalah...
-A. Rhizobium membantu kedelai memperoleh nitrogen sehingga tumbuh lebih subur
-B. Pot B terkontaminasi hama
-C. Rhizobium membuat kedelai berfotosintesis lebih cepat
-D. Pot A mendapat cahaya lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Rhizobium membantu kedelai memperoleh nitrogen sehingga tumbuh lebih subur
@@ -2772,10 +2448,6 @@ D. Pot A mendapat cahaya lebih banyak
 
 **(1) Soal:**
 Grafik dua garis populasi mangsa (M) dan pemangsa (P) selama 2 tahun. Jumlah M selalu lebih tinggi daripada P sepanjang waktu, dan puncak P selalu terjadi ~2 bulan setelah puncak M. Manakah kesimpulan yang benar?
-A. M adalah mangsa; naiknya P menyusul karena melimpahnya M
-B. P adalah mangsa karena jumlahnya pasti lebih tinggi
-C. M dan P saling memangsa seimbang penuh
-D. Puncak keduanya terjadi bersamaan selalu
 
 **(2) Pilihan Jawaban:**
 A. M adalah mangsa; naiknya P menyusul karena melimpahnya M
@@ -2804,10 +2476,6 @@ D. Puncak keduanya terjadi bersamaan selalu
 
 **(1) Soal:**
 Di sebuah kebun apel, petani menyemprot pestisida yang membunuh serangga penyerbuk dan juga serangga lain. Dampak berantai yang paling mungkin adalah...
-A. Buah apel semakin sedikit karena penyerbukan terganggu
-B. Buah apel semakin banyak karena hama hilang
-C. Populasi burung bertambah karena hama hilang
-D. Pohon apel berubah menjadi pohon jeruk
 
 **(2) Pilihan Jawaban:**
 A. Buah apel semakin sedikit karena penyerbukan terganggu
@@ -2836,10 +2504,6 @@ D. Pohon apel berubah menjadi pohon jeruk
 
 **(1) Soal:**
 Seorang peneliti ingin memperkirakan jumlah rusa di cagar seluas 100 km². Cara yang paling tepat dan tidak merusak adalah...
-A. Menghitung rusa di beberapa petak contoh, menghitung rata-ratanya, lalu dikalikan luas total
-B. Menangkap semua rusa lalu melepaskannya
-C. Membakar hutan agar rusa lari keluar terhitung
-D. Menebang semua pohon agar hewan terlihat
 
 **(2) Pilihan Jawaban:**
 A. Menghitung rusa di beberapa petak contoh, menghitung rata-ratanya, lalu dikalikan luas total
@@ -2868,10 +2532,6 @@ D. Menebang semua pohon agar hewan terlihat
 
 **(1) Soal:**
 Kedua daur (karbon dan nitrogen) sama-sama bergantung pada makhluk berikut agar tetap berjalan, yaitu...
-A. Pengurai (bakteri dan jamur)
-B. Karnivora puncak saja
-C. Mamalia laut
-D. Serangga terbang
 
 **(2) Pilihan Jawaban:**
 A. Pengurai (bakteri dan jamur)
@@ -2900,10 +2560,6 @@ D. Serangga terbang
 
 **(1) Soal:**
 "Tanaman mengambil nitrogen langsung dari udara dalam jumlah besar." Pernyataan ini...
-A. Salah, karena kebanyakan tumbuhan mengambil nitrogen dari tanah dalam bentuk nitrat
-B. Benar, karena udara memang penuh nitrogen
-C. Benar, karena daun juga ikut menyerap nitrogen dari udara
-D. Salah, karena tumbuhan tidak butuh nitrogen
 
 **(2) Pilihan Jawaban:**
 A. Salah, karena kebanyakan tumbuhan mengambil nitrogen dari tanah dalam bentuk nitrat
@@ -2932,10 +2588,6 @@ D. Salah, karena tumbuhan tidak butuh nitrogen
 
 **(1) Soal:**
 Sebuah atom karbon yang kini berada dalam bahan bakar bensin diangkut ke mesin mobil dan dibakar. Setelah itu karbon paling mungkin berada dalam bentuk...
-A. CO₂ yang keluar lewat knalpot
-B. Bensin baru di dalam tangki
-C. Bijih besi di rangka mobil
-D. Air radiator
 
 **(2) Pilihan Jawaban:**
 A. CO₂ yang keluar lewat knalpot
@@ -2964,10 +2616,6 @@ D. Air radiator
 
 **(1) Soal:**
 Data populasi burung di sebuah rawa: Januari 40, Maret 60, Mei 20, Juli 80, September 55, November 30. Puncak populasi terjadi pada...
-A. Juli
-B. Januari
-C. Mei
-D. September
 
 **(2) Pilihan Jawaban:**
 A. Juli
@@ -2996,10 +2644,6 @@ D. September
 
 **(1) Soal:**
 Sebuah danau mengalami mekarnya alga dan banyak ikan mati akibat pupuk dari lahan pertanian. Upaya paling tepat untuk memulihkan danau adalah...
-A. Mengurangi pemakaian pupuk berlebihan di lahan sekitar dan menanam tanaman penyerap hara di tepi danau
-B. Menambah pupuk lebih banyak agar ikan kenyang
-C. Membuang detergen tinggi ke danau
-D. Menutup danau dengan terpal plastik
 
 **(2) Pilihan Jawaban:**
 A. Mengurangi pemakaian pupuk berlebihan di lahan sekitar dan menanam tanaman penyerap hara di tepi danau
@@ -3028,10 +2672,6 @@ D. Menutup danau dengan terpal plastik
 
 **(1) Soal:**
 Jika satu spesies pengurai utama di sebuah ekosistem punah, dampak pada daur materi dalam jangka panjang adalah...
-A. Daur materi melambat: bangkai menumpuk dan tanah miskin hara
-B. Daur materi semakin cepat karena tidak ada yang mengganggu
-C. Daur materi berhenti total dalam sekejap
-D. Tidak berdampak karena hanya satu spesies
 
 **(2) Pilihan Jawaban:**
 A. Daur materi melambat: bangkai menumpuk dan tanah miskin hara
@@ -3060,10 +2700,6 @@ D. Tidak berdampak karena hanya satu spesies
 
 **(1) Soal:**
 Di rantai: rumput → belalang → katak → elang, jumlah elang paling sedikit di antara semua tingkatan. Pernyataan yang benar adalah...
-A. Jumlah elang paling sedikit karena energi berkurang di setiap tingkatan makanan
-B. Jumlah elang paling sedikit karena elang malas beranak
-C. Jumlah elang bisa melebihi belalang jika mereka lapar
-D. Jumlah elang tidak berhubungan dengan rantai makanan
 
 **(2) Pilihan Jawaban:**
 A. Jumlah elang paling sedikit karena energi berkurang di setiap tingkatan makanan
@@ -3092,10 +2728,6 @@ D. Jumlah elang tidak berhubungan dengan rantai makanan
 
 **(1) Soal:**
 Seorang siswa meniupkan napas ke dalam air kapur melalui sedotan; air kapur menjadi keruh. Jika ia mengulang dengan udara dari pompa sepeda (perasan udara biasa), air kapur tidak keruh. Kesimpulan yang benar adalah...
-A. Napas manusia mengandung lebih banyak CO₂ daripada udara biasa
-B. Pompa sepeda mengeluarkan racun
-C. Air kapur bereaksi hanya dengan nitrogen
-D. Sedotan mengubah udara menjadi kapur
 
 **(2) Pilihan Jawaban:**
 A. Napas manusia mengandung lebih banyak CO₂ daripada udara biasa
@@ -3126,10 +2758,6 @@ D. Sedotan mengubah udara menjadi kapur
 
 **(1) Soal:**
 Populasi serangga naik selama 3 bulan, lalu turun. Populasi katak naik mulai bulan yang sama dengan puncak serangga dan masih naik saat serangga sudah turun. Prediksi yang paling masuk akal 3 bulan berikutnya adalah...
-A. Katak akan turun setelah serangga berkurang lama
-B. Katak akan terus naik tanpa batas
-C. Serangga akan langsung punah
-D. Katak berubah menjadi vegetarian
 
 **(2) Pilihan Jawaban:**
 A. Katak akan turun setelah serangga berkurang lama
@@ -3158,10 +2786,6 @@ D. Katak berubah menjadi vegetarian
 
 **(1) Soal:**
 Di hutan, pada jam berapa kandungan CO₂ udara biasanya paling rendah dalam sehari?
-A. Sore hari, setelah berjam-jam fotosintesis menyerap CO₂
-B. Tengah malam, saat semua makhluk tidur
-C. Pagi-pagi sekali sebelum matahari terbit
-D. Tidak pernah berubah sepanjang hari
 
 **(2) Pilihan Jawaban:**
 A. Sore hari, setelah berjam-jam fotosintesis menyerap CO₂
@@ -3190,10 +2814,6 @@ D. Tidak pernah berubah sepanjang hari
 
 **(1) Soal:**
 Laut menyerap CO₂ berlebih sehingga airnya lebih asam. Cangkang karang dan kerang yang terlarut kembali melepaskan senyawa karbonnya ke laut. Peristiwa ini menunjukkan...
-A. Karbon terus berdaur — tersimpan, bisa lepas, dan tersimpan lagi
-B. Cangkang karang tidak mengandung karbon
-C. Laut tidak berperan dalam daur karbon
-D. Karang menghasilkan oksigen murni dari cangkang
 
 **(2) Pilihan Jawaban:**
 A. Karbon terus berdaur — tersimpan, bisa lepas, dan tersimpan lagi
@@ -3224,10 +2844,6 @@ D. Karang menghasilkan oksigen murni dari cangkang
 
 **(1) Soal:**
 Seorang peternak ikan menambah pupuk kandang berlebihan ke kolam untuk menyuburkan pakan alami. Seminggu kemudian banyak ikan mati. Urutan sebab-akibat yang paling tepat adalah...
-A. Hara berlebih → alga mekar → alga mati membusuk → oksigen habis → ikan mati
-B. Pupuk → oksigen bertambah → ikan mati karena kenyang
-C. Pupuk → alga menurun → ikan kelaparan
-D. Pupuk kandang langsung beracun bagi insang ikan
 
 **(2) Pilihan Jawaban:**
 A. Hara berlebih → alga mekar → alga mati membusuk → oksigen habis → ikan mati
@@ -3261,10 +2877,6 @@ Tabel hasil percobaan padi dengan tiga perlakuan yang sama-sama tanpa pupuk nitr
 - Tanah alami (ada mikroba tanah): daun hijau, tinggi 40 cm
 
 Kesimpulan yang benar adalah...
-A. Rhizobium menyediakan nitrogen yang membuat padi subur; tanah alami juga membantu lewat mikroba
-B. Padi tidak butuh nitrogen
-C. Steril tidak berpengaruh pada pertumbuhan
-D. Tinggi 20 cm adalah yang terbaik
 
 **(2) Pilihan Jawaban:**
 A. Rhizobium menyediakan nitrogen yang membuat padi subur; tanah alami juga membantu lewat mikroba
@@ -3296,10 +2908,6 @@ D. Tinggi 20 cm adalah yang terbaik
 
 **(1) Soal:**
 Aktivitas manusia yang paling besar menambah CO₂ di udara didukung oleh pernyataan berikut: pembakaran fosil melepas CO₂ ke udara, sementara penebangan hutan...
-A. Mengurangi penyerap CO₂ sehingga CO₂ menumpuk lebih banyak
-B. Mengubah CO₂ menjadi oksigen secara otomatis
-C. Membuat tanah menyerap CO₂ dua kali lipat
-D. Menambah penyerap CO₂ baru dari tunggul pohon
 
 **(2) Pilihan Jawaban:**
 A. Mengurangi penyerap CO₂ sehingga CO₂ menumpuk lebih banyak
@@ -3328,10 +2936,6 @@ D. Menambah penyerap CO₂ baru dari tunggul pohon
 
 **(1) Soal:**
 Dalam model daur nitrogen, proses "denitrifikasi" dihilangkan total (tidak ada bakteri pengubah nitrat → N₂). Akibat pada model itu adalah...
-A. Nitrogen yang kembali ke udara berkurang; nitrat cenderung menumpuk di tanah
-B. Nitrogen di udara menjadi lebih banyak dari biasa
-C. Tanaman kekurangan air
-D. Tidak ada perubahan pada daur nitrogen
 
 **(2) Pilihan Jawaban:**
 A. Nitrogen yang kembali ke udara berkurang; nitrat cenderung menumpuk di tanah
@@ -3362,10 +2966,6 @@ D. Tidak ada perubahan pada daur nitrogen
 
 **(1) Soal:**
 Setelah mempelajari populasi dan daur materi, pernyataan yang paling tepat untuk menjaga keseimbangan ekosistem adalah...
-A. Setiap komponen (produsen, konsumen, pengurai) saling bergantung dan daur materi memastikan hara selalu tersedia
-B. Keseimbangan alam tidak memerlukan pengurai
-C. Manusia boleh menghilangkan satu spesies karena masih banyak yang lain
-D. Daur materi hanya penting bagi tumbuhan
 
 **(2) Pilihan Jawaban:**
 A. Setiap komponen (produsen, konsumen, pengurai) saling bergantung dan daur materi memastikan hara selalu tersedia

@@ -180,10 +180,6 @@ Langkah 3: Gula susu (laktosa) → asam laktat → susu asam/kental.
 
 **(1) Soal:**
 Setiap makhluk hidup memerlukan energi untuk hidup. Energi itu diperoleh dari...
-A. Fotosintesis pada semua makhluk
-B. Pemecahan zat makanan di dalam sel (respirasi sel)
-C. Transpirasi daun
-D. Penguapan air tubuh
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis pada semua makhluk
@@ -212,10 +208,6 @@ D. Penguapan air tubuh
 
 **(1) Soal:**
 Organel sel tempat berlangsungnya respirasi sel adalah...
-A. Kloroplas
-B. Mitokondria
-C. Nukleus
-D. Ribosom
 
 **(2) Pilihan Jawaban:**
 A. Kloroplas
@@ -244,10 +236,6 @@ D. Ribosom
 
 **(1) Soal:**
 Yang dilakukan makhluk hidup ketika "bernapas" adalah...
-A. Mengambil oksigen dan mengeluarkan karbon dioksida
-B. Membuat makanan dari cahaya
-C. Menguapkan air dari tubuh
-D. Memecah makanan di dalam sel
 
 **(2) Pilihan Jawaban:**
 A. Mengambil oksigen dan mengeluarkan karbon dioksida
@@ -276,10 +264,6 @@ D. Memecah makanan di dalam sel
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang respirasi sel adalah...
-A. Hanya berlangsung saat kita menarik napas
-B. Berlangsung terus-menerus di dalam sel selama sel hidup
-C. Hanya terjadi pada hewan, tidak pada tumbuhan
-D. Hanya terjadi pada malam hari
 
 **(2) Pilihan Jawaban:**
 A. Hanya berlangsung saat kita menarik napas
@@ -308,10 +292,6 @@ D. Hanya terjadi pada malam hari
 
 **(1) Soal:**
 Bahan bakar utama yang dipecah dalam respirasi sel untuk menghasilkan energi adalah...
-A. Oksigen
-B. Glukosa (gula)
-C. Karbon dioksida
-D. Air
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -340,10 +320,6 @@ D. Air
 
 **(1) Soal:**
 Hasil dari respirasi sel adalah...
-A. Glukosa dan oksigen
-B. Energi, karbon dioksida, dan air
-C. Amilum dan klorofil
-D. Alkohol dan oksigen
 
 **(2) Pilihan Jawaban:**
 A. Glukosa dan oksigen
@@ -375,10 +351,6 @@ Perhatikan persamaan sederhana berikut.
 Glukosa + oksigen → A + karbon dioksida + air
 
 Huruf A yang tepat adalah...
-A. Cahaya
-B. Amilum
-C. Energi
-D. Klorofil
 
 **(2) Pilihan Jawaban:**
 A. Cahaya
@@ -407,10 +379,6 @@ D. Klorofil
 
 **(1) Soal:**
 Persamaan respirasi sel AEROB yang benar adalah...
-A. Karbon dioksida + air → glukosa + oksigen
-B. Glukosa + oksigen → energi + karbon dioksida + air
-C. Glukosa + air → energi + oksigen
-D. Amilum + karbon dioksida → glukosa + energi
 
 **(2) Pilihan Jawaban:**
 A. Karbon dioksida + air → glukosa + oksigen
@@ -439,10 +407,6 @@ D. Amilum + karbon dioksida → glukosa + energi
 
 **(1) Soal:**
 Proses respirasi yang memerlukan oksigen disebut respirasi...
-A. Anaerob
-B. Aerob
-C. Fermentasi
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Anaerob
@@ -471,10 +435,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Respirasi yang berlangsung tanpa oksigen disebut...
-A. Aerob
-B. Anaerob (fermentasi)
-C. Fotosintesis
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Aerob
@@ -503,10 +463,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Perbandingan energi antara respirasi aerob dan anaerob adalah...
-A. Aerob menghasilkan energi lebih banyak daripada anaerob
-B. Anaerob menghasilkan energi lebih banyak
-C. Keduanya sama banyak
-D. Keduanya tidak menghasilkan energi
 
 **(2) Pilihan Jawaban:**
 A. Aerob menghasilkan energi lebih banyak daripada anaerob
@@ -535,10 +491,6 @@ D. Keduanya tidak menghasilkan energi
 
 **(1) Soal:**
 Mikroorganisme yang digunakan untuk membuat adonan roti mengembang adalah...
-A. Bakteri E. coli
-B. Ragi (khamir/Saccharomyces)
-C. Amoeba
-D. Virus influenza
 
 **(2) Pilihan Jawaban:**
 A. Bakteri E. coli
@@ -567,10 +519,6 @@ D. Virus influenza
 
 **(1) Soal:**
 Gas yang dikeluarkan ragi saat fermentasi dan membuat adonan roti mengembang adalah...
-A. Oksigen
-B. Karbon dioksida
-C. Nitrogen
-D. Hidrogen
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -599,10 +547,6 @@ D. Hidrogen
 
 **(1) Soal:**
 Zat lain selain karbon dioksida yang dihasilkan pada fermentasi alkohol adalah...
-A. Asam laktat
-B. Alkohol (etanol)
-C. Asam asetat (cuka)
-D. Klorofil
 
 **(2) Pilihan Jawaban:**
 A. Asam laktat
@@ -631,10 +575,6 @@ D. Klorofil
 
 **(1) Soal:**
 Singkong yang dijadikan tape menjadi lebih manis dan harum karena...
-A. Ragi mengubah amilum (tepung) menjadi gula sederhana
-B. Singkong menyerap gula dari udara
-C. Ragi membuat singkong berklorofil
-D. Singkong melakukan fotosintesis di dalam tempat tertutup
 
 **(2) Pilihan Jawaban:**
 A. Ragi mengubah amilum (tepung) menjadi gula sederhana
@@ -663,10 +603,6 @@ D. Singkong melakukan fotosintesis di dalam tempat tertutup
 
 **(1) Soal:**
 Pada pembuatan tape, bahan yang dicampurkan ke singkong/ketan adalah...
-A. Ragi
-B. Garam
-C. Cuka
-D. Kapur
 
 **(2) Pilihan Jawaban:**
 A. Ragi
@@ -695,10 +631,6 @@ D. Kapur
 
 **(1) Soal:**
 Wadah tape sebaiknya ditutup rapat beberapa hari supaya...
-A. Ragi bekerja tanpa oksigen (anaerob) sehingga fermentasi berjalan baik
-B. Ragi mendapat banyak oksigen
-C. Tape tidak berubah rasa manis
-D. Singkong tetap keras
 
 **(2) Pilihan Jawaban:**
 A. Ragi bekerja tanpa oksigen (anaerob) sehingga fermentasi berjalan baik
@@ -727,10 +659,6 @@ D. Singkong tetap keras
 
 **(1) Soal:**
 Yoghurt terbentuk dari susu yang difermentasi oleh...
-A. Ragi
-B. Bakteri asam laktat (Lactobacillus)
-C. Jamur Rhizopus
-D. Virus
 
 **(2) Pilihan Jawaban:**
 A. Ragi
@@ -759,10 +687,6 @@ D. Virus
 
 **(1) Soal:**
 Zat yang dihasilkan bakteri asam laktat pada fermentasi susu sehingga yoghurt terasa asam adalah...
-A. Alkohol
-B. Karbon dioksida
-C. Asam laktat
-D. Gula
 
 **(2) Pilihan Jawaban:**
 A. Alkohol
@@ -791,10 +715,6 @@ D. Gula
 
 **(1) Soal:**
 Selain yoghurt, produk lain yang dibuat dengan bakteri asam laktat adalah...
-A. Tape dan roti
-B. Acar dan keju
-C. Tempe dan kecap
-D. Roti dan tape
 
 **(2) Pilihan Jawaban:**
 A. Tape dan roti
@@ -823,10 +743,6 @@ D. Roti dan tape
 
 **(1) Soal:**
 Setelah berlari kencang cukup lama, otot kita terasa pegal. Hal ini terjadi karena otot...
-A. Berfermentasi tanpa oksigen menghasilkan asam laktat
-B. Berfotosintesis menghasilkan amilum
-C. Menyerap air berlebih
-D. Kelebihan oksigen
 
 **(2) Pilihan Jawaban:**
 A. Berfermentasi tanpa oksigen menghasilkan asam laktat
@@ -855,10 +771,6 @@ D. Kelebihan oksigen
 
 **(1) Soal:**
 Agar otot kembali segar setelah olahraga, kita perlu bernapas dalam-dalam. Gunanya adalah...
-A. Mengembalikan pasokan oksigen untuk respirasi aerob otot
-B. Menambah asam laktat
-C. Mengurangi glukosa
-D. Membuat otot bertambah
 
 **(2) Pilihan Jawaban:**
 A. Mengembalikan pasokan oksigen untuk respirasi aerob otot
@@ -887,10 +799,6 @@ D. Membuat otot bertambah
 
 **(1) Soal:**
 Tempe dibuat dari kedelai dengan bantuan mikroorganisme...
-A. Ragi
-B. Bakteri Lactobacillus
-C. Jamur Rhizopus oryzae
-D. Amoeba
 
 **(2) Pilihan Jawaban:**
 A. Ragi
@@ -919,10 +827,6 @@ D. Amoeba
 
 **(1) Soal:**
 Bagian putih yang merekatkan butiran kedelai menjadi tempe adalah...
-A. Kumpulan miselium (benang-benang jamur)
-B. Sisa kulit kedelai
-C. Kristal gula
-D. Bakteri asam laktat
 
 **(2) Pilihan Jawaban:**
 A. Kumpulan miselium (benang-benang jamur)
@@ -951,10 +855,6 @@ D. Bakteri asam laktat
 
 **(1) Soal:**
 Kecap juga terbuat dari kedelai. Mikroorganisme yang berperan dalam proses pembuatan kecap adalah...
-A. Jamur Aspergillus (serta fermentasi lanjutan)
-B. Bakteri asam laktat saja
-C. Ragi saja
-D. Virus
 
 **(2) Pilihan Jawaban:**
 A. Jamur Aspergillus (serta fermentasi lanjutan)
@@ -983,10 +883,6 @@ D. Virus
 
 **(1) Soal:**
 Peristiwa fermentasi yang dilakukan mikroorganisme merupakan contoh respirasi...
-A. Aerob
-B. Anaerob
-C. Fotosintesis
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Aerob
@@ -1015,10 +911,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Makanan yang dibiarkan terbuka beberapa hari akan busuk. Penyebab utama pembusukan adalah...
-A. Mikroorganisme (bakteri dan jamur) berkembang biak memakan makanan
-B. Makanan kekurangan garam
-C. Makanan terkena cahaya
-D. Makanan berubah menjadi alkohol
 
 **(2) Pilihan Jawaban:**
 A. Mikroorganisme (bakteri dan jamur) berkembang biak memakan makanan
@@ -1047,10 +939,6 @@ D. Makanan berubah menjadi alkohol
 
 **(1) Soal:**
 Cara yang paling tepat untuk mencegah makanan cepat busuk adalah...
-A. Meninggalkan terbuka di udara panas
-B. Menyimpan di tempat dingin (kulkas), mengeringkan, atau mengasinkan
-C. Menaruh di sebelah api terus-menerus
-D. Menyiram dengan air
 
 **(2) Pilihan Jawaban:**
 A. Meninggalkan terbuka di udara panas
@@ -1079,10 +967,6 @@ D. Menyiram dengan air
 
 **(1) Soal:**
 Ikan asin tidak mudah busuk karena...
-A. Kandungan garamnya menghambat pertumbuhan mikroorganisme
-B. Ikan asin berfotosintesis
-C. Garam membuat ikan beralkohol
-D. Garam menambah oksigen ikan
 
 **(2) Pilihan Jawaban:**
 A. Kandungan garamnya menghambat pertumbuhan mikroorganisme
@@ -1111,10 +995,6 @@ D. Garam menambah oksigen ikan
 
 **(1) Soal:**
 Tumbuhan juga melakukan respirasi sel. Pernyataan yang benar adalah...
-A. Respirasi sel tumbuhan memakai glukosa dan oksigen
-B. Respirasi sel tumbuhan hanya terjadi di daun hijau
-C. Tumbuhan tidak pernah berespirasi
-D. Respirasi sel tumbuhan menghasilkan klorofil
 
 **(2) Pilihan Jawaban:**
 A. Respirasi sel tumbuhan memakai glukosa dan oksigen
@@ -1143,10 +1023,6 @@ D. Respirasi sel tumbuhan menghasilkan klorofil
 
 **(1) Soal:**
 Pada siang hari, tumbuhan melakukan fotosintesis dan respirasi sekaligus. Gas yang lebih banyak DILEPAS pada siang hari adalah...
-A. Oksigen (dari fotosintesis)
-B. Karbon dioksida (dari respirasi)
-C. Nitrogen (dari respirasi)
-D. Uap air saja
 
 **(2) Pilihan Jawaban:**
 A. Oksigen (dari fotosintesis)
@@ -1175,10 +1051,6 @@ D. Uap air saja
 
 **(1) Soal:**
 Pada malam hari, tumbuhan tidak berfotosintesis, tetapi respirasi terus berjalan. Akibatnya tumbuhan akan...
-A. Menyerap oksigen dan melepas karbon dioksida
-B. Menyerap karbon dioksida dan melepas oksigen
-C. Tidak melakukan pertukaran gas
-D. Berubah menjadi putih
 
 **(2) Pilihan Jawaban:**
 A. Menyerap oksigen dan melepas karbon dioksida
@@ -1207,10 +1079,6 @@ D. Berubah menjadi putih
 
 **(1) Soal:**
 Pasangan yang benar antara proses dan tempat terjadinya adalah...
-A. Fotosintesis — mitokondria; respirasi — kloroplas
-B. Fotosintesis — kloroplas; respirasi — mitokondria
-C. Keduanya di kloroplas
-D. Keduanya di mitokondria
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis — mitokondria; respirasi — kloroplas
@@ -1239,10 +1107,6 @@ D. Keduanya di mitokondria
 
 **(1) Soal:**
 Ragi yang dicampur gula dan air hangat akan menghasilkan gelembung-gelembung di permukaannya. Gelembung itu adalah...
-A. Oksigen dari fotosintesis
-B. Karbon dioksida dari fermentasi
-C. Amilum yang naik
-D. Asam laktat yang menguap
 
 **(2) Pilihan Jawaban:**
 A. Oksigen dari fotosintesis
@@ -1271,10 +1135,6 @@ D. Asam laktat yang menguap
 
 **(1) Soal:**
 Mengapa adonan roti yang diberi ragi perlu didiamkan dulu sebelum dipanggang?
-A. Agar ragi sempat menghasilkan CO₂ sehingga adonan mengembang
-B. Agar ragi berfotosintesis
-C. Agar adonan kehilangan air
-D. Agar adonan menjadi dingin
 
 **(2) Pilihan Jawaban:**
 A. Agar ragi sempat menghasilkan CO₂ sehingga adonan mengembang
@@ -1303,10 +1163,6 @@ D. Agar adonan menjadi dingin
 
 **(1) Soal:**
 Perbandingan produk yang benar berdasarkan mikroorganismenya adalah...
-A. Yoghurt — Lactobacillus; Tape — ragi
-B. Tape — Lactobacillus; Roti — Rhizopus
-C. Tempe — ragi; Kecap — ragi
-D. Yoghurt — Rhizopus; Tempe — Lactobacillus
 
 **(2) Pilihan Jawaban:**
 A. Yoghurt — Lactobacillus; Tape — ragi
@@ -1335,10 +1191,6 @@ D. Yoghurt — Rhizopus; Tempe — Lactobacillus
 
 **(1) Soal:**
 Oksigen yang kita hirup digunakan tubuh untuk...
-A. Memecah glukosa dalam sel menghasilkan energi (respirasi sel)
-B. Membuat makanan dari cahaya
-C. Menguapkan air
-D. Menyimpan amilum
 
 **(2) Pilihan Jawaban:**
 A. Memecah glukosa dalam sel menghasilkan energi (respirasi sel)
@@ -1367,10 +1219,6 @@ D. Menyimpan amilum
 
 **(1) Soal:**
 Karbon dioksida dari tubuh kita saat menghembuskan napas berasal dari...
-A. Hasil respirasi sel (pemecahan glukosa)
-B. Fotosintesis di kulit
-C. Air minum
-D. Klorofil dalam darah
 
 **(2) Pilihan Jawaban:**
 A. Hasil respirasi sel (pemecahan glukosa)
@@ -1399,10 +1247,6 @@ D. Klorofil dalam darah
 
 **(1) Soal:**
 Bakteri termasuk makhluk hidup bersel satu. Kebutuhan energi bakteri diperoleh dari...
-A. Respirasi sel (pemecahan zat makanan)
-B. Fotosintesis yang sama dengan tumbuhan
-C. Bernapas lewat insang
-D. Transpirasi
 
 **(2) Pilihan Jawaban:**
 A. Respirasi sel (pemecahan zat makanan)
@@ -1431,10 +1275,6 @@ D. Transpirasi
 
 **(1) Soal:**
 Singkong yang dibuat menjadi "peuyeum" (tape singkong) terasa manis, agak berair, dan lunak. Perubahan ini akibat...
-A. Ragi memecah pati menjadi gula dan sedikit alkohol
-B. Singkong difermentasi bakteri asam laktat
-C. Singkong menyimpan banyak air
-D. Singkong menjadi berklorofil
 
 **(2) Pilihan Jawaban:**
 A. Ragi memecah pati menjadi gula dan sedikit alkohol
@@ -1471,10 +1311,6 @@ Perhatikan tabel:
 | 3. Tempe | c. Ragi |
 
 Pasangan yang benar adalah...
-A. 1-c, 2-a, 3-b
-B. 1-a, 2-c, 3-b
-C. 1-b, 2-c, 3-a
-D. 1-c, 2-b, 3-a
 
 **(2) Pilihan Jawaban:**
 A. 1-c, 2-a, 3-b
@@ -1503,10 +1339,6 @@ D. 1-c, 2-b, 3-a
 
 **(1) Soal:**
 Manakah pasangan yang TIDAK tepat?
-A. Kecap — Aspergillus
-B. Oncom merah — Neurospora
-C. Yoghurt — Rhizopus
-D. Tempe — Rhizopus
 
 **(2) Pilihan Jawaban:**
 A. Kecap — Aspergillus
@@ -1535,10 +1367,6 @@ D. Tempe — Rhizopus
 
 **(1) Soal:**
 Produk berikut yang memanfaatkan kegiatan BAKTERI (bukan jamur) adalah...
-A. Tempe dan kecap
-B. Yoghurt dan keju
-C. Roti dan tape
-D. Oncom dan kecap
 
 **(2) Pilihan Jawaban:**
 A. Tempe dan kecap
@@ -1567,10 +1395,6 @@ D. Oncom dan kecap
 
 **(1) Soal:**
 Persamaan fermentasi alkohol yang dilakukan ragi adalah...
-A. Glukosa → alkohol + karbon dioksida + energi (sedikit)
-B. Glukosa + oksigen → energi + air
-C. Glukosa → asam laktat + energi
-D. Karbon dioksida + air → glukosa + oksigen
 
 **(2) Pilihan Jawaban:**
 A. Glukosa → alkohol + karbon dioksida + energi (sedikit)
@@ -1599,10 +1423,6 @@ D. Karbon dioksida + air → glukosa + oksigen
 
 **(1) Soal:**
 Persamaan fermentasi asam laktat pada yoghurt adalah...
-A. Laktosa → asam laktat + energi (sedikit)
-B. Laktosa + oksigen → energi + CO₂
-C. Asam laktat → alkohol + CO₂
-D. Glukosa + air → amilum
 
 **(2) Pilihan Jawaban:**
 A. Laktosa → asam laktat + energi (sedikit)
@@ -1631,10 +1451,6 @@ D. Glukosa + air → amilum
 
 **(1) Soal:**
 Mengapa fermentasi menghasilkan energi yang sangat sedikit? Penyebabnya...
-A. Tanpa oksigen makanan tidak terurai tuntas sehingga banyak zat sisa tersisa
-B. Oksigen tidak dibutuhkan sama sekali
-C. Mikroorganisme tidak makan
-D. Glukosa tidak pernah dipecah
 
 **(2) Pilihan Jawaban:**
 A. Tanpa oksigen makanan tidak terurai tuntas sehingga banyak zat sisa tersisa
@@ -1663,10 +1479,6 @@ D. Glukosa tidak pernah dipecah
 
 **(1) Soal:**
 Sebuah tabung berisi adonan (tepung+gula+ragi+air). Bagian atas tabung diberi balon. Setelah 1 jam, balon akan...
-A. Mengembang karena terisi CO₂ hasil fermentasi
-B. Kempes karena gas keluar
-C. Tetap rata
-D. Berisi air
 
 **(2) Pilihan Jawaban:**
 A. Mengembang karena terisi CO₂ hasil fermentasi
@@ -1695,10 +1507,6 @@ D. Berisi air
 
 **(1) Soal:**
 Jika dalam percobaan balon ragi sebelumnya, gula tidak ditambahkan, maka balon akan...
-A. Mengembang lebih cepat
-B. Sedikit/tidak mengembang karena ragi kekurangan makanan (gula)
-C. Mengembang sama seperti biasanya
-D. Berisi oksigen
 
 **(2) Pilihan Jawaban:**
 A. Mengembang lebih cepat
@@ -1727,10 +1535,6 @@ D. Berisi oksigen
 
 **(1) Soal:**
 Pada eksperimen membuktikan hasil respirasi, siswa meniup udara ke dalam air kapur (air bening yang jernih). Jika udara itu dari tubuh manusia, air kapur akan...
-A. Menjadi keruh/padat kusam karena bereaksi dengan karbon dioksida
-B. Berubah warna menjadi biru
-C. Langsung menguap
-D. Tidak berubah apa pun
 
 **(2) Pilihan Jawaban:**
 A. Menjadi keruh/padat kusam karena bereaksi dengan karbon dioksida
@@ -1759,10 +1563,6 @@ D. Tidak berubah apa pun
 
 **(1) Soal:**
 Siswa memasukkan serangga ke dalam tabung tertutup berisi air kapur. Setelah beberapa lama, air kapur menjadi keruh. Hal ini menunjukkan serangga...
-A. Melakukan respirasi dan menghasilkan karbon dioksida
-B. Berfotosintesis menghasilkan oksigen
-C. Mengeluarkan air berlebih
-D. Menyerap kapur untuk makanan
 
 **(2) Pilihan Jawaban:**
 A. Melakukan respirasi dan menghasilkan karbon dioksida
@@ -1791,10 +1591,6 @@ D. Menyerap kapur untuk makanan
 
 **(1) Soal:**
 Roti tawar yang sudah lama menjadi keras dan berjamur. Jamurnya berasal dari...
-A. Spora jamur di udara yang tumbuh di roti lembap
-B. Ragi yang berubah jadi jamur
-C. Gula yang membeku
-D. Tepung yang berfotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Spora jamur di udara yang tumbuh di roti lembap
@@ -1823,10 +1619,6 @@ D. Tepung yang berfotosintesis
 
 **(1) Soal:**
 Makanan yang diawetkan (kering, asin, beku) tidak mudah rusak karena...
-A. Kondisi itu menghambat pertumbuhan mikroorganisme
-B. Makanan itu berfotosintesis
-C. Mikroorganisme membutuhkan cahaya
-D. Makanan kering mengandung alkohol
 
 **(2) Pilihan Jawaban:**
 A. Kondisi itu menghambat pertumbuhan mikroorganisme
@@ -1855,10 +1647,6 @@ D. Makanan kering mengandung alkohol
 
 **(1) Soal:**
 Penggunaan ragi pada pembuatan roti dan tape merupakan contoh pemanfaatan...
-A. Bioteknologi sederhana (konvensional)
-B. Fotosintesis buatan
-C. Energi nuklir
-D. Fosil mikroorganisme
 
 **(2) Pilihan Jawaban:**
 A. Bioteknologi sederhana (konvensional)
@@ -1887,10 +1675,6 @@ D. Fosil mikroorganisme
 
 **(1) Soal:**
 Bakteri dalam kantong makanan kaleng/steril yang masih hidup dan berkembang tanpa oksigen dapat berfermentasi. Salah satu mikroorganisme anaerob yang membahayakan adalah...
-A. Clostridium botulinum (penyebab keracunan botulisme)
-B. Lactobacillus yang menyehatkan
-C. Saccharomyces yang membuat roti
-D. Rhizopus pembuat tempe
 
 **(2) Pilihan Jawaban:**
 A. Clostridium botulinum (penyebab keracunan botulisme)
@@ -1919,10 +1703,6 @@ D. Rhizopus pembuat tempe
 
 **(1) Soal:**
 Pada pembuatan kecap, terjadi dua tahap: (1) jamur menguraikan kedelai, (2) fermentasi lanjutan oleh bakteri / ragi dalam larutan garam. Tahap (2) berlangsung dalam kondisi...
-A. Anaerob (minim oksigen) dalam air garam
-B. Aerob terbuka penuh cahaya
-C. Suhu sangat dingin
-D. Tanpa kedelai
 
 **(2) Pilihan Jawaban:**
 A. Anaerob (minim oksigen) dalam air garam
@@ -1951,10 +1731,6 @@ D. Tanpa kedelai
 
 **(1) Soal:**
 Mengapa ikan di kolam yang kehabisan oksigen bisa mati meski airnya banyak? Kaitkan dengan respirasi sel:
-A. Sel ikan tak mendapat cukup oksigen untuk respirasi aerob → energi tidak cukup → sel rusak
-B. Ikan berhenti makan
-C. Air menjadi asam laktat
-D. Ikan berfotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Sel ikan tak mendapat cukup oksigen untuk respirasi aerob → energi tidak cukup → sel rusak
@@ -1983,10 +1759,6 @@ D. Ikan berfotosintesis
 
 **(1) Soal:**
 Tumbuhan akuatik (Hydrilla) di dalam tabung tertutup pada Malam hari menyebabkan kadar oksigen air...
-A. Menurun (hanya respirasi yang berjalan)
-B. Meningkat drastis
-C. Tetap stabil selalu
-D. Menjadi nol selamanya
 
 **(2) Pilihan Jawaban:**
 A. Menurun (hanya respirasi yang berjalan)
@@ -2015,10 +1787,6 @@ D. Menjadi nol selamanya
 
 **(1) Soal:**
 Di jeruk (ekosistem akuarium) dengan banyak tumbuhan air dan sedikit ikan, pada tengah hari kadar O₂ bisa...
-A. Naik karena fotosintesis melepas O₂ berlebih
-B. Turun drastis
-C. Nol
-D. Dipenuhi CO₂
 
 **(2) Pilihan Jawaban:**
 A. Naik karena fotosintesis melepas O₂ berlebih
@@ -2055,10 +1823,6 @@ Perhatikan tabel perbedaan dua proses:
 | Produk gas | Oksigen | Karbon dioksida |
 
 Proses 1 dan Proses 2 adalah...
-A. Fotosintesis dan respirasi
-B. Respirasi dan fotosintesis
-C. Transpirasi dan evaporasi
-D. Fermentasi dan fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis dan respirasi
@@ -2087,10 +1851,6 @@ D. Fermentasi dan fotosintesis
 
 **(1) Soal:**
 Manakah pernyataan yang TIDAK tepat tentang respirasi aerob?
-A. Memerlukan oksigen
-B. Menghasilkan energi lebih banyak
-C. Berlangsung di kloroplas
-D. Meninggalkan CO₂ dan air
 
 **(2) Pilihan Jawaban:**
 A. Memerlukan oksigen
@@ -2119,10 +1879,6 @@ D. Meninggalkan CO₂ dan air
 
 **(1) Soal:**
 Seorang atlet berlari maraton; otot kakinya bekerja keras. Menjelang akhir, napasnya tersengal. Kondisi dalam sel otot yang paling tepat saat itu...
-A. Sudah mulai berfermentasi asam laktat karena O₂ tak cukup
-B. Berfotosintesis menghasilkan gula
-C. Berhenti total menghasilkan energi
-D. Menghasilkan alkohol seperti ragi
 
 **(2) Pilihan Jawaban:**
 A. Sudah mulai berfermentasi asam laktat karena O₂ tak cukup
@@ -2151,10 +1907,6 @@ D. Menghasilkan alkohol seperti ragi
 
 **(1) Soal:**
 Tape ketan yang berbau sangat menyengat (alkohol kuat) dan terlalu lama disimpan biasanya terjual. Jika terlalu lama, tape akan berubah lagi menjadi...
-A. Terasa sangat asam / busuk oleh mikroba lain setelah ragi bekerja
-B. Tetap semanis pertama
-C. Menjadi yoghurt
-D. Berfotosintesis kembali
 
 **(2) Pilihan Jawaban:**
 A. Terasa sangat asam / busuk oleh mikroba lain setelah ragi bekerja
@@ -2183,10 +1935,6 @@ D. Berfotosintesis kembali
 
 **(1) Soal:**
 Keju memiliki aroma khas kuat. Pada proses pembuatannya, mikroorganisme berperan mengubah...
-A. Laktosa susu menjadi asam laktat dan memberi cita rasa (dilanjutkan penambahan enzim)
-B. Susu menjadi glukosa
-C. Susu menjadi klorofil
-D. Susu menjadi oksigen
 
 **(2) Pilihan Jawaban:**
 A. Laktosa susu menjadi asam laktat dan memberi cita rasa (dilanjutkan penambahan enzim)
@@ -2215,10 +1963,6 @@ D. Susu menjadi oksigen
 
 **(1) Soal:**
 Jika semua bakteri asam laktat di usus kita mati (misal akibat obat), efek yang paling mungkin pada respirasi & kesehatan adalah...
-A. Pencernaan terganggu karena bakteri baik membantu mencerna/membuat vitamin; tubuh kurang sehat
-B. Kita langsung berfotosintesis sebagai gantinya
-C. Tidak ada pengaruh apa pun
-D. Kita berubah menjadi ragi
 
 **(2) Pilihan Jawaban:**
 A. Pencernaan terganggu karena bakteri baik membantu mencerna/membuat vitamin; tubuh kurang sehat
@@ -2247,10 +1991,6 @@ D. Kita berubah menjadi ragi
 
 **(1) Soal:**
 Petani menambahkan "starter" EM (mengandung bakteri & jamur) ke pupuk agar cepat mengurai sampah. Prinsip yang sama dengan...
-A. Fermentasi oleh mikroorganisme untuk menguraikan bahan
-B. Fotosintesis daun
-C. Transpirasi akar
-D. Respirasi manusia
 
 **(2) Pilihan Jawaban:**
 A. Fermentasi oleh mikroorganisme untuk menguraikan bahan
@@ -2283,10 +2023,6 @@ Buah yang disimpan bersama di dalam karung tertutup dan lembap akan cepat membus
 2. Buah menjadi lunak dan berbau busuk.
 3. Mikroba memakan gula dan mengurai daging buah.
 Urutan yang benar adalah...
-A. 1 → 3 → 2
-B. 3 → 1 → 2
-C. 2 → 1 → 3
-D. 1 → 2 → 3
 
 **(2) Pilihan Jawaban:**
 A. 1 → 3 → 2
@@ -2315,10 +2051,6 @@ D. 1 → 2 → 3
 
 **(1) Soal:**
 Agar papaya hasil panen tidak cepat busuk dalam perjalanan, cara yang paling tepat...
-A. Dibungkus/dikemas kering, disimpan sejuk, hindari luka-lecet
-B. Disiram air terus menerus
-C. Ditempelkan di bawah sinar matahari
-D. Dimasukkan ke air panas
 
 **(2) Pilihan Jawaban:**
 A. Dibungkus/dikemas kering, disimpan sejuk, hindari luka-lecet
@@ -2347,10 +2079,6 @@ D. Dimasukkan ke air panas
 
 **(1) Soal:**
 Sel otot rangka, sel usus, dan sel saraf masing-masing butuh energi. Kesamaan semua sel itu adalah...
-A. Semuanya melakukan respirasi sel untuk energi
-B. Semuanya berfotosintesis
-C. Semuanya memakai kloroplas
-D. Semuanya menghasilkan klorofil
 
 **(2) Pilihan Jawaban:**
 A. Semuanya melakukan respirasi sel untuk energi
@@ -2379,10 +2107,6 @@ D. Semuanya menghasilkan klorofil
 
 **(1) Soal:**
 Oksigen yang dihirup melalui hidung sampai ke sel-sel tubuh diangkut oleh...
-A. Darah (sel darah merah)
-B. Kulit
-C. Tulang
-D. Otot
 
 **(2) Pilihan Jawaban:**
 A. Darah (sel darah merah)
@@ -2411,10 +2135,6 @@ D. Otot
 
 **(1) Soal:**
 Sel darah merah tanpa mitokondria mengandalkan energi terbatas dari pemecahan glukosa sebagian. Ini menunjukkan...
-A. Mitokondria penting untuk respirasi aerob penuh yang efisien
-B. Sel darah merah lebih efisien berkloroplas
-C. Glukosa tidak pernah dipecah
-D. Oksigen tidak dibutuhkan di darah
 
 **(2) Pilihan Jawaban:**
 A. Mitokondria penting untuk respirasi aerob penuh yang efisien
@@ -2443,10 +2163,6 @@ D. Oksigen tidak dibutuhkan di darah
 
 **(1) Soal:**
 Seorang ilmuwan ingin membuat minuman probiotik dengan bakteri asam laktat. Syarat fermentasi yang HARUS dijaga adalah...
-A. Suhu hangat sesuai bakteri, wadah tertutup (minim oksigen), gula tersedia
-B. Disinari matahari terus
-C. Tempat sangat dingin membeku
-D. Disemprot oksigen terus-menerus
 
 **(2) Pilihan Jawaban:**
 A. Suhu hangat sesuai bakteri, wadah tertutup (minim oksigen), gula tersedia
@@ -2475,10 +2191,6 @@ D. Disemprot oksigen terus-menerus
 
 **(1) Soal:**
 Perbedaan utama prinsip pembuatan tempe dan yoghurt adalah...
-A. Tempe memakai jamur aerob (perlu udara) dalam fermentasi jamur; yoghurt memakai bakteri anaerob dalam larutan
-B. Keduanya persis sama
-C. Tempe memakai bakteri, yoghurt memakai jamur
-D. Keduanya memerlukan cahaya
 
 **(2) Pilihan Jawaban:**
 A. Tempe memakai jamur aerob (perlu udara) dalam fermentasi jamur; yoghurt memakai bakteri anaerob dalam larutan
@@ -2507,10 +2219,6 @@ D. Keduanya memerlukan cahaya
 
 **(1) Soal:**
 Mengapa tempe yang dibungkus rapat sekali (tanpa udara sama sekali) gagal bahkan bisa menghitam?
-A. Rhizopus butuh oksigen untuk tumbuh; tanpa udara jamur mati dan bakteri anaerob merusak
-B. Kedelai tidak pernah berfermentasi
-C. Tempe butuh cahaya matahari
-D. Ragi tidak bisa hidup
 
 **(2) Pilihan Jawaban:**
 A. Rhizopus butuh oksigen untuk tumbuh; tanpa udara jamur mati dan bakteri anaerob merusak
@@ -2539,10 +2247,6 @@ D. Ragi tidak bisa hidup
 
 **(1) Soal:**
 Eksperimen: 4 botol adonan ragi (gula+air+ragi). Botol A suhu 25°C, B suhu 45°C, C suhu 5°C, D suhu 90°C. Setelah 30 menit, balon paling mengembang adalah...
-A. B (suhu hangat mendekati optimal enzim)
-B. A (paling dingin)
-C. C (lebih dingin)
-D. D (paling panas)
 
 **(2) Pilihan Jawaban:**
 A. B (suhu hangat mendekati optimal enzim)
@@ -2571,10 +2275,6 @@ D. D (paling panas)
 
 **(1) Soal:**
 Dari eksperimen suhu fermentasi di Soal 74, botol D (90°C) menunjukkan balon TIDAK mengembang. Penyebab yang paling tepat...
-A. Suhu terlalu tinggi membuat ragi/enim dan mikroba mati
-B. Ragi kekurangan gula
-C. Balon bocor total
-D. Ragi berfotosintesis berlebihan
 
 **(2) Pilihan Jawaban:**
 A. Suhu terlalu tinggi membuat ragi/enim dan mikroba mati
@@ -2603,10 +2303,6 @@ D. Ragi berfotosintesis berlebihan
 
 **(1) Soal:**
 Siswa menuangkan air mendidih ke susu lalu menambahkan bakteri Lactobacillus "yoghurt starter". Hasilnya yoghurt gagal. Kemungkinan besar alasannya...
-A. Bakteri mati oleh air mendidih/panas tinggi sebelum sempat fermentasi
-B. Susu kurang manis
-C. Bakteri butuh cahaya
-D. Bakteri tidak pernah bekerja
 
 **(2) Pilihan Jawaban:**
 A. Bakteri mati oleh air mendidih/panas tinggi sebelum sempat fermentasi
@@ -2635,10 +2331,6 @@ D. Bakteri tidak pernah bekerja
 
 **(1) Soal:**
 Perbandingan jumlah ATP/energi yang "dibayar" sel: 1 molekul glukosa pada aerob menghasilkan jauh lebih banyak energi daripada anaerob. Kesimpulan paling luas untuk tubuh kita...
-A. Tubuh lebih efisien mendapat energi ketika oksigen cukup tersedia
-B. Tubuh selalu berfermentasi
-C. Oksigen tidak berguna
-D. Energi tidak penting
 
 **(2) Pilihan Jawaban:**
 A. Tubuh lebih efisien mendapat energi ketika oksigen cukup tersedia
@@ -2667,10 +2359,6 @@ D. Energi tidak penting
 
 **(1) Soal:**
 Mengapa adonan yang diuleni dan diberi ragi perlu "dibiarkan dua kali" (proofing) untuk hasil roti terbaik?
-A. Memberi waktu ragi menghasilkan banyak CO₂ sehingga roti lembut berlubang
-B. Ragi berfotosintesis lebih banyak
-C. Adonan mengeluarkan air
-D. Adonan tidak berubah
 
 **(2) Pilihan Jawaban:**
 A. Memberi waktu ragi menghasilkan banyak CO₂ sehingga roti lembut berlubang
@@ -2699,10 +2387,6 @@ D. Adonan tidak berubah
 
 **(1) Soal:**
 Ibu menyimpan adonan di kulkas semalam lalu memanggang paginya. Adonan dari kulkas tetap bisa mengembang meski lama? Alasan yang paling tepat...
-A. Di kulkas ragi melambat (bukan mati), lalu menghangat dan melanjutkan fermentasi
-B. Kulkas membunuh ragi
-C. Dingin mempercepat fermentasi
-D. Adonan malah mengeluarkan CO₂ lebih banyak saat beku
 
 **(2) Pilihan Jawaban:**
 A. Di kulkas ragi melambat (bukan mati), lalu menghangat dan melanjutkan fermentasi
@@ -2731,10 +2415,6 @@ D. Adonan malah mengeluarkan CO₂ lebih banyak saat beku
 
 **(1) Soal:**
 Proses fermentasi pada produk susu (yoghurt) dan produk kedelai (tempe) sama-sama berguna untuk...
-A. Mengubah bahan agar awet dan mudah dicerna serta nilai rasanya semakin baik
-B. Membuat bahan terasa lebih pahit
-C. Membuang nutrisi
-D. Mengurangi jumlah protein
 
 **(2) Pilihan Jawaban:**
 A. Mengubah bahan agar awet dan mudah dicerna serta nilai rasanya semakin baik
@@ -2769,10 +2449,6 @@ Urutan yang benar tentang perjalanan energi dari makanan:
 4. Energi dipakai untuk kegiatan hidup.
 
 Urutan yang benar adalah...
-A. 1 → 2 → 3 → 4
-B. 4 → 3 → 2 → 1
-C. 2 → 1 → 3 → 4
-D. 1 → 3 → 2 → 4
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3 → 4
@@ -2801,10 +2477,6 @@ D. 1 → 3 → 2 → 4
 
 **(1) Soal:**
 Bila tumbuhan pada siang hari menghasilkan lebih banyak O₂ daripada yang dipakai respirasi, sedangkan malam hanya memakai. Peristiwa itu menunjukkan...
-A. Gas O₂ bersih (netto) dihasilkan pada siang oleh fotosintesis
-B. Tumbuhan selalu menghabiskan O₂
-C. Tumbuhan tidak pernah menambah O₂
-D. O₂ hanya dipakai fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Gas O₂ bersih (netto) dihasilkan pada siang oleh fotosintesis
@@ -2833,10 +2505,6 @@ D. O₂ hanya dipakai fotosintesis
 
 **(1) Soal:**
 Mengapa danau yang sangat padat tumbuhan air bisa "matikan" ikan di dini hari (subuh)? 
-A. Dini hari O₂ paling rendah karena semalaman hanya respirasi
-B. Dini hari fotosintesis paling tinggi
-C. Dini hari O₂ melimpah
-D. Dini hari tumbuhan berfotosintesis banyak
 
 **(2) Pilihan Jawaban:**
 A. Dini hari O₂ paling rendah karena semalaman hanya respirasi
@@ -2865,10 +2533,6 @@ D. Dini hari tumbuhan berfotosintesis banyak
 
 **(1) Soal:**
 Buah matang yang dipetik dan disimpan dalam wadah tertutup kedap bisa menghasilkan panas & air di dalam wadah. Penyebabnya adalah...
-A. Buah masih hidup dan berespirasi sel (aerob) memakai O₂ → panas & air terbentuk
-B. Buah berfotosintesis dalam gelap
-C. Buah membeku
-D. Buah mengubah klorofil
 
 **(2) Pilihan Jawaban:**
 A. Buah masih hidup dan berespirasi sel (aerob) memakai O₂ → panas & air terbentuk
@@ -2897,10 +2561,6 @@ D. Buah mengubah klorofil
 
 **(1) Soal:**
 Sayur yang disimpan dalam plastik tertutup sepenuhnya (kedap udara) cepat membusuk daripada yang dibiarkan terbuka. Alasan utama...
-A. Kondisi lembap tanpa O₂ memudahkan mikroba anaerob tumbuh & bahan mengeluarkan uap air
-B. Sayur kehilangan air lebih cepat ketika tertutup
-C. Sayur berfotosintesis dalam plastik
-D. Plastik membuat sayur dingin
 
 **(2) Pilihan Jawaban:**
 A. Kondisi lembap tanpa O₂ memudahkan mikroba anaerob tumbuh & bahan mengeluarkan uap air
@@ -2929,10 +2589,6 @@ D. Plastik membuat sayur dingin
 
 **(1) Soal:**
 Dalam bahan makanan kaleng, biasanya ditambahkan pembunuh mikroba (disterilisasi) lalu ditutup rapat. Hal ini supaya...
-A. Bakteri aerob dan anaerob tidak bisa masuk, dan isi tetap steril hingga dibuka
-B. Kaleng terlihat penuh
-C. Makanan berfotosintesis
-D. Makanan jadi dingin
 
 **(2) Pilihan Jawaban:**
 A. Bakteri aerob dan anaerob tidak bisa masuk, dan isi tetap steril hingga dibuka
@@ -2961,10 +2617,6 @@ D. Makanan jadi dingin
 
 **(1) Soal:**
 Grafik konsumsi O₂ dan produksi CO₂ sebuah kecambah selama 24 jam di ruang gelap. Yang BENAR adalah...
-A. O₂ terus turun dan CO₂ terus naik (respirasi saja)
-B. O₂ naik siang, CO₂ turun malam
-C. Keduanya konstan
-D. Tidak ada data yang bisa ditarik
 
 **(2) Pilihan Jawaban:**
 A. O₂ terus turun dan CO₂ terus naik (respirasi saja)
@@ -2993,10 +2645,6 @@ D. Tidak ada data yang bisa ditarik
 
 **(1) Soal:**
 Perbandingan reaksi fermentasi alkohol vs asam laktat yang paling tepat adalah...
-A. Alkohol: produk CO₂ + alkohol; asam laktat: produk asam laktat (tanpa CO₂ utama)
-B. Alkohol: produk asam laktat; asam laktat: produk CO₂
-C. Keduanya menghasilkan oksigen
-D. Keduanya memerlukan oksigen
 
 **(2) Pilihan Jawaban:**
 A. Alkohol: produk CO₂ + alkohol; asam laktat: produk asam laktat (tanpa CO₂ utama)
@@ -3025,10 +2673,6 @@ D. Keduanya memerlukan oksigen
 
 **(1) Soal:**
 Saat kita pingsan kehabisan O₂ (mis. di air), sel otak mulai "berfermentasi". Bahaya terbesar fenomena ini adalah...
-A. Energi terlalu sedikit & asam laktat meracuni sehingga sel otak rusak cepat
-B. Otak berubah menjadi ragi
-C. Otak berfotosintesis
-D. Otak hanya berhenti sesaat lalu normal
 
 **(2) Pilihan Jawaban:**
 A. Energi terlalu sedikit & asam laktat meracuni sehingga sel otak rusak cepat
@@ -3057,10 +2701,6 @@ D. Otak hanya berhenti sesaat lalu normal
 
 **(1) Soal:**
 Setelah panen, umbi kentang harus "dikering-anginkan" bukan langsung dikantongi kedap. Jika langsung dikantongi kedap lembap, akibatnya...
-A. Kentang berespirasi → panas & CO₂ + kelembapan → mikroba (pembusuk) tumbuh cepat
-B. Kentang berfotosintesis lebih
-C. Kentang menjadi hijau
-D. Kentang berubah jadi yoghurt
 
 **(2) Pilihan Jawaban:**
 A. Kentang berespirasi → panas & CO₂ + kelembapan → mikroba (pembusuk) tumbuh cepat
@@ -3089,10 +2729,6 @@ D. Kentang berubah jadi yoghurt
 
 **(1) Soal:**
 Desain eksperimen membuktikan bahwa O₂ diperlukan untuk tumbuh kecambah. Kelompok kontrol yang TEPAT adalah...
-A. Kecambah disimpan RAPAT (tanpa O₂) vs kecambah dengan O₂ (semua faktor lain sama)
-B. Kecambah tergantung jenisnya berbeda
-C. Kecambah vs batu
-D. Satu disiram garam, satu digula
 
 **(2) Pilihan Jawaban:**
 A. Kecambah disimpan RAPAT (tanpa O₂) vs kecambah dengan O₂ (semua faktor lain sama)
@@ -3121,10 +2757,6 @@ D. Satu disiram garam, satu digula
 
 **(1) Soal:**
 Dari desain di Soal 91, kecambah yang tumbuh terhambat/berhenti adalah...
-A. Kecambah tanpa O₂ (kadar O₂ sangat rendah) — respirasi aerob terhambat
-B. Kecambah dengan O₂ — respirasi aerob jalan
-C. Keduanya sama
-D. Kecambah dengan O₂ justru mati
 
 **(2) Pilihan Jawaban:**
 A. Kecambah tanpa O₂ (kadar O₂ sangat rendah) — respirasi aerob terhambat
@@ -3153,10 +2785,6 @@ D. Kecambah dengan O₂ justru mati
 
 **(1) Soal:**
 Analogi yang paling tepat untuk menjelaskan respirasi sel kepada adik kelas adalah...
-A. Sel seperti mobil: glukosa = bensin, O₂ = udara yang dibutuhkan mesin, energi = gerak mobil, CO₂ = asap
-B. Sel seperti daun: makanan dibuat dari cahaya
-C. Sel seperti pasir: tidak berubah apa pun
-D. Sel seperti air: mengalir tak berhenti
 
 **(2) Pilihan Jawaban:**
 A. Sel seperti mobil: glukosa = bensin, O₂ = udara yang dibutuhkan mesin, energi = gerak mobil, CO₂ = asap
@@ -3185,10 +2813,6 @@ D. Sel seperti air: mengalir tak berhenti
 
 **(1) Soal:**
 Fermentasi dapat dianalogikan seperti mesin yang bekerja "tanpa udara" / "setengah daya". Pernyataan yang paling sesuai adalah...
-A. Sama seperti mesin mati agar tetap jalan walau boros bahan dan meninggalkan asap sisa (asam/alkohol)
-B. Mesin menjadi lebih efisien
-C. Mesin berhenti
-D. Mesin menghasilkan lebih banyak tenaga
 
 **(2) Pilihan Jawaban:**
 A. Sama seperti mesin mati agar tetap jalan walau boros bahan dan meninggalkan asap sisa (asam/alkohol)
@@ -3217,10 +2841,6 @@ D. Mesin menghasilkan lebih banyak tenaga
 
 **(1) Soal:**
 Seorang siswa menjelaskan "tape manis karena ragi menambahkan gula ke singkong." Apakah penjelasan ini tepat?
-A. Tidak tepat — ragi justru mengubah PATI yang ada menjadi gula
-B. Tepat — ragi membawa gula
-C. Tepat — singkong menyerap gula dari udara
-D. Tidak tepat — ragi menghilangkan semua gula
 
 **(2) Pilihan Jawaban:**
 A. Tidak tepat — ragi justru mengubah PATI yang ada menjadi gula
@@ -3249,10 +2869,6 @@ D. Tidak tepat — ragi menghilangkan semua gula
 
 **(1) Soal:**
 Siswa lain berkata "gelembung roti adalah oksigen buatan ragi." Apakah tepat?
-A. Tidak tepat — gelembung roti CO₂ hasil fermentasi, bukan oksigen
-B. Tepat — ragi membuat oksigen
-C. Tepat — ragi berfotosintesis
-D. Tidak tepat — gelembung berupa air
 
 **(2) Pilihan Jawaban:**
 A. Tidak tepat — gelembung roti CO₂ hasil fermentasi, bukan oksigen
@@ -3285,10 +2901,6 @@ Pak Tani menyimpan gabah yang baru dipanen dalam lumbung. Lumbung lembap tanpa v
 2. Kelembapan tinggi → jamur/bakteri tumbuh.
 3. Gabah menguning/reduksi kualitas & bau apek.
 Urutan sebab-akibat yang benar adalah...
-A. 1 → 2 → 3
-B. 2 → 1 → 3
-C. 3 → 2 → 1
-D. 1 → 3 → 2
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3
@@ -3317,10 +2929,6 @@ D. 1 → 3 → 2
 
 **(1) Soal:**
 Seorang pendaki membawa oksigen tabung. Ketika di ketinggian, udara tipis (O₂ rendah). Menurut konsep respirasi sel, efeknya pada tubuh adalah...
-A. Sel mengalami kekurangan O₂ → respirasi aerob terganggu → tubuh cepat lelah, perlu beradaptasi/bernapas tabung
-B. Sel berfotosintesis membantu
-C. Tubuh tidak terpengaruh
-D. Sel berfermentasi tanpa asam laktat
 
 **(2) Pilihan Jawaban:**
 A. Sel mengalami kekurangan O₂ → respirasi aerob terganggu → tubuh cepat lelah, perlu beradaptasi/bernapas tabung
@@ -3349,10 +2957,6 @@ D. Sel berfermentasi tanpa asam laktat
 
 **(1) Soal:**
 Diketahui 1 molekul glukosa: respirasi aerob menghasilkan 38 satuan energi; fermentasi hanya 2 satuan. Perbandingan energi aerob : anaerob adalah...
-A. 19 : 1
-B. 1 : 19
-C. 2 : 38
-D. 38 : 2 (sama seperti 19:1)
 
 **(2) Pilihan Jawaban:**
 A. 19 : 1
@@ -3381,10 +2985,6 @@ D. 38 : 2 (sama seperti 19:1)
 
 **(1) Soal:**
 Kesimpulan yang PALING tepat tentang hubungan fotosintesis dan respirasi sel pada tumbuhan adalah...
-A. Fotosintesis menghasilkan makanan & O₂; respirasi memakai makanan & O₂ untuk energi — keduanya menjaga keseimbangan hidup tumbuhan
-B. Fotosintesis menggantikan respirasi sepenuhnya
-C. Respirasi hanya terjadi saat fotosintesis gagal
-D. Keduanya tidak berhubungan
 
 **(2) Pilihan Jawaban:**
 A. Fotosintesis menghasilkan makanan & O₂; respirasi memakai makanan & O₂ untuk energi — keduanya menjaga keseimbangan hidup tumbuhan

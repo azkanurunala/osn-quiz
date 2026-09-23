@@ -118,8 +118,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
       setIsMuted(true);
       setLayoutSplit(true);
       setIsCleanMode(true);
-      setShowIntro(true);
-      setIntroTimeLeft(3);
+      setShowIntro(false); // skip cinematic 3-2-1 intro — jump straight to questions for recording
       return;
     }
 
@@ -707,7 +706,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                     optionBg = 'bg-red-50/60 border-brand-primary ring-2 ring-red-500/10 text-brand-primary font-semibold';
                   }
                   return (
-                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left rounded-2xl border-2 transition-all font-medium ${isSplitActive ? 'p-3 text-[30px]' : 'p-6 text-[32px]'} ${optionBg}`}>
+                    <button key={`${currentQuestion.number}-${key}`} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left rounded-2xl border-2 transition-all font-medium ${isSplitActive ? 'p-3 text-[30px]' : 'p-6 text-[32px]'} ${optionBg}`}>
                       <div className={`flex items-center ${isSplitActive ? 'gap-1.5 min-w-0' : 'gap-4'}`}>
                         <span className={`rounded-2xl flex items-center justify-center font-black shrink-0 ${
                           isSplitActive ? 'w-12 h-12 text-[24px]' : 'w-16 h-16 text-[30px]'
@@ -1010,7 +1009,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                     optionBg = 'bg-red-50/60 border-brand-primary ring-2 ring-red-500/10 text-brand-primary font-semibold';
                   }
                   return (
-                    <button key={key} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm font-sans ${optionBg}`}>
+                    <button key={`${currentQuestion.number}-${key}`} disabled={isChecked} onClick={() => handleOptionSelect(key)} className={`w-full flex items-center justify-between text-left p-4 rounded-2xl border transition-all text-sm font-sans ${optionBg}`}>
                       <div className="flex items-center gap-3">
                         <span className={`w-8 h-8 rounded-xl flex items-center justify-center font-bold text-xs shrink-0 ${
                           isSelectedOption(key) && !isChecked ? 'bg-brand-primary text-white' :

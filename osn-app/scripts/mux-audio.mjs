@@ -8,8 +8,11 @@
 // Usage:
 //   node scripts/mux-audio.mjs [--in=recordings] [--out=recordings-final]
 //                               [--music=<url-or-path>] [--volume=0.4]
+//                               [--trim=5] [--force]
 //
 // Video stream is copied as-is (no re-encode, no quality loss) — only audio is added.
+// --trim cuts N seconds off the start of the source video before muxing (default 5).
+// --force re-processes files even if they already exist in the output dir.
 
 import { execFileSync, spawnSync } from 'child_process';
 import { readdirSync, mkdirSync, existsSync } from 'fs';
@@ -30,6 +33,8 @@ const IN_DIR = resolve(APP_ROOT, args.in || 'recordings');
 const OUT_DIR = resolve(APP_ROOT, args.out || 'recordings-final');
 const MUSIC = args.music || 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3';
 const VOLUME = args.volume || '0.4';
+const TRIM = args.trim || '5';
+const FORCE = !!args.force;
 
 // Prefer ffmpeg on PATH; fall back to a portable build under .tools/ (no admin rights needed
 // to install one — see README note below) so this doesn't hard-require a system install.
@@ -78,14 +83,14 @@ let failed = 0;
 for (const file of files) {
   const src = join(IN_DIR, file);
   const dest = join(OUT_DIR, file);
-  if (existsSync(dest)) {
+  if (existsSync(dest) && !FORCE) {
     console.log(`skip  ${file} (already exists)`);
     continue;
   }
 
   const result = spawnSync(FFMPEG, [
     '-y',
-    '-i', src,
+    '-ss', TRIM, '-i', src,
     '-stream_loop', '-1', '-i', MUSIC,
     '-shortest',
     '-map', '0:v', '-map', '1:a',

@@ -170,6 +170,25 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - [x] `osn-sd-mtk-08-pola-logika-aljabar-mudah-sedang.md`
 - [x] `osn-sd-mtk-08-pola-logika-aljabar-sedang-sulit.md`
 
+### Kategori F · IPA 13 Bab Resmi Puspresnas (Video Rekap, 13 file)
+Konsolidasi soal per LINGKUP RESMI Puspresnas/Kemendikdasmen OSN IPA SD (berbeda dari pengelompokan 6-bab repo di Kategori D) — dibuat untuk keperluan video rekap per-bab. Bab #1 (100 soal, identik dengan IPA-06a) memakai jatah soal penuh karena sudah ada; bab #2–13 memakai 40 soal proporsional per sub-topik (bukan 100) khusus untuk format video, dengan penomoran chapter baru `ipa-07`–`ipa-19` agar tidak bentrok dengan `ipa-01`–`ipa-06` di Kategori D.
+
+- [x] `osn-sd-ipa-07-metode-ilmiah-campur.md` — Bab Resmi 1: Keterampilan & Metode Ilmiah (100 soal, = IPA-06a)
+- [x] `osn-sd-ipa-08-keanekaragaman-hayati-campur.md` — Bab Resmi 2: Keanekaragaman Hayati & Pengklasifikasian MH (40 soal)
+- [x] `osn-sd-ipa-09-proses-mekanisme-makhluk-hidup-campur.md` — Bab Resmi 3: Proses & Mekanisme pada Makhluk Hidup (40 soal)
+- [x] `osn-sd-ipa-10-ekologi-lingkungan-sda-campur.md` — Bab Resmi 4: Ekologi, Lingkungan, Pelestarian SDA (40 soal)
+- [x] `osn-sd-ipa-11-isu-kesehatan-lingkungan-teknologi-campur.md` — Bab Resmi 5: Isu Kesehatan, Lingkungan, Teknologi (40 soal)
+- [x] `osn-sd-ipa-12-mekanika-campur.md` — Bab Resmi 6: Mekanika (40 soal)
+- [x] `osn-sd-ipa-13-wujud-benda-campur.md` — Bab Resmi 7: Wujud Benda (40 soal)
+- [x] `osn-sd-ipa-14-listrik-magnet-campur.md` — Bab Resmi 8: Listrik dan Magnet (40 soal)
+- [x] `osn-sd-ipa-15-gelombang-optik-campur.md` — Bab Resmi 9: Gelombang dan Optik (40 soal)
+- [x] `osn-sd-ipa-16-suhu-kalor-campur.md` — Bab Resmi 10: Suhu dan Kalor (40 soal)
+- [x] `osn-sd-ipa-17-bentuk-energi-perubahan-campur.md` — Bab Resmi 11: Bentuk Energi dan Perubahannya (40 soal)
+- [x] `osn-sd-ipa-18-bumi-tata-surya-antariksa-campur.md` — Bab Resmi 12: Bumi, Tata Surya, dan Antariksa (40 soal)
+- [x] `osn-sd-ipa-19-atom-campur.md` — Bab Resmi 13: Atom (40 soal)
+
+**Status: 13/13 selesai (580 soal total).** Video rekap belum digenerate — lihat catatan di bawah.
+
 ---
 
 ## Rekap Statistik
@@ -181,7 +200,8 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 | C · MTK Komprehensif | 8 (campur MTK) | 6 | 6 | 600 |
 | D · IPA Per-Materi | 6 bab | 6 | 36 | 3.600 |
 | E · MTK Per-Materi | 8 bab | 6 | 48 | 4.800 |
-| **TOTAL** | | | **102** | **10.200** |
+| F · IPA 13 Bab Resmi (Video) | 13 (campur) | 1 | 13 | 580 |
+| **TOTAL** | | | **115** | **10.780** |
 
 ---
 
@@ -192,3 +212,4 @@ Setiap bab MTK + Bagian I Materi (teori 6 sub-bagian A–F) + 100 soal.
 - Update centang di file ini setelah setiap file selesai.
 - Urutan default: Kategori A → B → C → D → E (komprehensif dulu, per-materi belakangan).
 - User boleh redirect urutan kapan saja.
+- **Kategori F** (13 Bab Resmi) dibuat terpisah dari alur A–E, untuk kebutuhan video rekap per-bab di `osn-app`. Setelah 13 file JSON selesai (lewat `build-data.mjs` di `osn-app`), langkah selanjutnya: generate 13 video pakai `scripts/record-videos.mjs` (dengan musik), lalu update tracking video terpisah — belum ada di index ini.

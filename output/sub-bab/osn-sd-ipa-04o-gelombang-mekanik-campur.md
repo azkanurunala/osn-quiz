@@ -177,10 +177,6 @@ Langkah 3: Jawaban = A.
 
 **(1) Soal:**
 Gelombang dapat diartikan sebagai...
-A. Benda yang berpindah tempat karena didorong
-B. Getaran yang merambat dan membawa energi
-C. Udara yang mengalir dari satu tempat ke tempat lain
-D. Panas yang menyebar di dalam benda
 
 **(2) Pilihan Jawaban:**
 A. Benda yang berpindah tempat karena didorong
@@ -209,10 +205,6 @@ D. Panas yang menyebar di dalam benda
 
 **(1) Soal:**
 Saat gelombang merambat di sepanjang tali yang digoyang, yang benar-benar berpindah dari pangkal ke ujung tali adalah...
-A. Energi getaran
-B. Serat-serat tali
-C. Simpul-simpul tali
-D. Udara di sekitar tali
 
 **(2) Pilihan Jawaban:**
 A. Energi getaran
@@ -241,10 +233,6 @@ D. Udara di sekitar tali
 
 **(1) Soal:**
 Ujung tali digoyang naik-turun sehingga terbentuk gelombang yang merambat mendatar ke kanan. Arah getar bagian-bagian tali tersebut adalah...
-A. Searah dengan arah rambatnya
-B. Berlawanan dengan arah rambatnya
-C. Miring 45° dari arah rambat
-D. Tegak lurus terhadap arah rambat
 
 **(2) Pilihan Jawaban:**
 A. Searah dengan arah rambatnya
@@ -273,10 +261,6 @@ D. Tegak lurus terhadap arah rambat
 
 **(1) Soal:**
 Berikut ini yang merupakan contoh gelombang transversal adalah...
-A. Bunyi gitar yang didengar dari kejauhan
-B. Ombak di permukaan laut
-C. Suara seruling
-D. Gelombang slinky yang didorong ke depan
 
 **(2) Pilihan Jawaban:**
 A. Bunyi gitar yang didengar dari kejauhan
@@ -305,10 +289,6 @@ D. Gelombang slinky yang didorong ke depan
 
 **(1) Soal:**
 Pada gambar gelombang transversal berbentuk bukit dan lembah, titik tertinggi gelombang disebut...
-A. Lembah
-B. Amplitudo
-C. Puncak
-D. Rapatan
 
 **(2) Pilihan Jawaban:**
 A. Lembah
@@ -337,10 +317,6 @@ D. Rapatan
 
 **(1) Soal:**
 Bagian gelombang transversal yang paling rendah disebut...
-A. Lembah
-B. Puncak
-C. Simpul
-D. Renggangan
 
 **(2) Pilihan Jawaban:**
 A. Lembah
@@ -369,10 +345,6 @@ D. Renggangan
 
 **(1) Soal:**
 Amplitudo suatu gelombang adalah...
-A. Panjang satu gelombang penuh
-B. Banyaknya getaran dalam satu detik
-C. Waktu yang dibutuhkan untuk satu getaran
-D. Simpangan terjauh dari titik setimbang
 
 **(2) Pilihan Jawaban:**
 A. Panjang satu gelombang penuh
@@ -401,10 +373,6 @@ D. Simpangan terjauh dari titik setimbang
 
 **(1) Soal:**
 Pada gelombang transversal, satu panjang gelombang (λ) adalah jarak antara...
-A. Lembah dengan puncak yang berdekatan
-B. Puncak dengan puncak berikutnya yang berdekatan
-C. Titik setimbang dengan puncak
-D. Titik setimbang dengan lembah
 
 **(2) Pilihan Jawaban:**
 A. Lembah dengan puncak yang berdekatan
@@ -433,10 +401,6 @@ D. Titik setimbang dengan lembah
 
 **(1) Soal:**
 Pada gelombang longitudinal, bagian tempat partikel-partikel medium saling berdekatan (menumpuk) disebut...
-A. Rapatan
-B. Renggangan
-C. Puncak
-D. Lembah
 
 **(2) Pilihan Jawaban:**
 A. Rapatan
@@ -465,10 +429,6 @@ D. Lembah
 
 **(1) Soal:**
 Contoh gelombang longitudinal dalam kehidupan sehari-hari adalah...
-A. Gelombang tali yang digoyang naik-turun
-B. Ombak di permukaan danau
-C. Ripples yang dibuat jari di air
-D. Bunyi yang keluar dari pengeras suara
 
 **(2) Pilihan Jawaban:**
 A. Gelombang tali yang digoyang naik-turun
@@ -497,10 +457,6 @@ D. Bunyi yang keluar dari pengeras suara
 
 **(1) Soal:**
 Ciri khas gelombang mekanik adalah...
-A. Dapat merambat di ruang hampa
-B. Membutuhkan medium untuk merambat
-C. Terbentuk tanpa getaran
-D. Kecepatannya selalu sama di medium apa pun
 
 **(2) Pilihan Jawaban:**
 A. Dapat merambat di ruang hampa
@@ -529,10 +485,6 @@ D. Kecepatannya selalu sama di medium apa pun
 
 **(1) Soal:**
 Gelombang yang dapat merambat di ruang hampa (tanpa zat perantara) adalah...
-A. Cahaya dari matahari
-B. Bunyi gitar
-C. Gema di tebing
-D. Suara lonceng
 
 **(2) Pilihan Jawaban:**
 A. Cahaya dari matahari
@@ -561,10 +513,6 @@ D. Suara lonceng
 
 **(1) Soal:**
 Perbedaan utama antara gelombang bunyi dan gelombang cahaya adalah...
-A. Bunyi berbentuk bukit-lembah, cahaya berbentuk rapat-renggang
-B. Bunyi lebih cepat daripada cahaya
-C. Bunyi butuh medium, sedangkan cahaya tidak butuh medium
-D. Cahaya tidak berasal dari getaran
 
 **(2) Pilihan Jawaban:**
 A. Bunyi berbentuk bukit-lembah, cahaya berbentuk rapat-renggang
@@ -593,10 +541,6 @@ D. Cahaya tidak berasal dari getaran
 
 **(1) Soal:**
 Gelombang riak di permukaan kolam dapat merambat dari batu yang jatuh ke tepi kolam. Zat yang menjadi medium gelombang itu adalah...
-A. Air
-B. Udara
-C. Batu
-D. Cahaya
 
 **(2) Pilihan Jawaban:**
 A. Air
@@ -625,10 +569,6 @@ D. Cahaya
 
 **(1) Soal:**
 Bunyi lonceng tidak terdengar di dalam ruang hampa udara karena...
-A. Lonceng tidak dapat bergetar di ruang hampa
-B. Gelombang bunyi membutuhkan medium untuk merambat
-C. Ruang hampa membuat bunyi berubah menjadi cahaya
-D. Lonceng harus dipegang lebih dekat ke telinga
 
 **(2) Pilihan Jawaban:**
 A. Lonceng tidak dapat bergetar di ruang hampa
@@ -657,10 +597,6 @@ D. Lonceng harus dipegang lebih dekat ke telinga
 
 **(1) Soal:**
 Frekuensi suatu getaran adalah...
-A. Waktu yang dibutuhkan untuk satu getaran
-B. Banyaknya getaran yang terjadi dalam satu detik
-C. Jarak antara dua puncak gelombang
-D. Tinggi simpangan dari titik setimbang
 
 **(2) Pilihan Jawaban:**
 A. Waktu yang dibutuhkan untuk satu getaran
@@ -689,10 +625,6 @@ D. Tinggi simpangan dari titik setimbang
 
 **(1) Soal:**
 Periode suatu getaran adalah...
-A. Waktu yang dibutuhkan untuk satu getaran
-B. Banyaknya getaran dalam satu detik
-C. Jarak satu gelombang penuh
-D. Simpangan terjauh dari titik setimbang
 
 **(2) Pilihan Jawaban:**
 A. Waktu yang dibutuhkan untuk satu getaran
@@ -721,10 +653,6 @@ D. Simpangan terjauh dari titik setimbang
 
 **(1) Soal:**
 Periode getaran diukur dalam satuan...
-A. Meter
-B. Hertz
-C. Sekon (detik)
-D. Meter per detik
 
 **(2) Pilihan Jawaban:**
 A. Meter
@@ -753,10 +681,6 @@ D. Meter per detik
 
 **(1) Soal:**
 Rumus yang benar untuk menghitung cepat rambat gelombang (v) adalah...
-A. v = λ + f
-B. v = λ ÷ f
-C. v = f ÷ λ
-D. v = λ × f
 
 **(2) Pilihan Jawaban:**
 A. v = λ + f
@@ -785,10 +709,6 @@ D. v = λ × f
 
 **(1) Soal:**
 Sebuah gelombang memiliki panjang gelombang 2 m dan frekuensi 10 Hz. Cepat rambat gelombang itu adalah...
-A. 5 m/s
-B. 20 m/s
-C. 12 m/s
-D. 0,2 m/s
 
 **(2) Pilihan Jawaban:**
 A. 5 m/s
@@ -818,10 +738,6 @@ D. 0,2 m/s
 
 **(1) Soal:**
 Semakin besar amplitudo getaran sumber bunyi, maka bunyi yang dihasilkan semakin...
-A. Keras
-B. Rendah
-C. Cepat
-D. Pendek
 
 **(2) Pilihan Jawaban:**
 A. Keras
@@ -850,10 +766,6 @@ D. Pendek
 
 **(1) Soal:**
 Frekuensi getaran yang tinggi akan menghasilkan bunyi dengan...
-A. Suara yang lebih keras
-B. Suara yang lebih lembut
-C. Nada yang lebih tinggi
-D. Nada yang lebih cepat menghilang
 
 **(2) Pilihan Jawaban:**
 A. Suara yang lebih keras
@@ -882,10 +794,6 @@ D. Nada yang lebih cepat menghilang
 
 **(1) Soal:**
 Frekuensi getaran diukur dalam satuan...
-A. Sekon
-B. Meter
-C. Meter per detik
-D. Hertz
 
 **(2) Pilihan Jawaban:**
 A. Sekon
@@ -914,10 +822,6 @@ D. Hertz
 
 **(1) Soal:**
 Semua bunyi yang kita dengar berasal dari...
-A. Benda yang bergetar
-B. Udara yang bergerak cepat
-C. Listrik yang mengalir
-D. Panas yang berpindah
 
 **(2) Pilihan Jawaban:**
 A. Benda yang bergetar
@@ -946,10 +850,6 @@ D. Panas yang berpindah
 
 **(1) Soal:**
 Garputala berbunyi nyaring setelah dipukul karena...
-A. Kedua kakinya bergetar cepat
-B. Pegangannya berubah warna
-C. Udara di sekitarnya membeku
-D. Gayanya berubah menjadi listrik
 
 **(2) Pilihan Jawaban:**
 A. Kedua kakinya bergetar cepat
@@ -978,10 +878,6 @@ D. Gayanya berubah menjadi listrik
 
 **(1) Soal:**
 Saat gendang dipukul, yang menyebabkan bunyi terdengar adalah...
-A. Tangan pemain yang panas
-B. Kulit gendang bergetar
-C. Kayu badan gendang menyerap udara
-D. Genangan air di sekitar gendang
 
 **(2) Pilihan Jawaban:**
 A. Tangan pemain yang panas
@@ -1010,10 +906,6 @@ D. Genangan air di sekitar gendang
 
 **(1) Soal:**
 Senar gitar berbunyi ketika dipetik karena senar tersebut...
-A. Memanas oleh ujung jari
-B. Bergetar dengan cepat
-C. Tertarik ke bawah lalu diam
-D. Memantulkan cahaya ruangan
 
 **(2) Pilihan Jawaban:**
 A. Memanas oleh ujung jari
@@ -1042,10 +934,6 @@ D. Memantulkan cahaya ruangan
 
 **(1) Soal:**
 Suara kereta api yang datang dapat terdengar dari jauh jika telinga ditempelkan ke rel. Hal itu terjadi karena...
-A. Bunyi merambat dengan baik melalui zat padat (baja rel)
-B. Rel memanaskan udara di sekitarnya
-C. Baja rel mengubah bunyi menjadi gemuruh kecil
-D. Angin di sekitar rel membawa bunyi lebih pelan
 
 **(2) Pilihan Jawaban:**
 A. Bunyi merambat dengan baik melalui zat padat (baja rel)
@@ -1074,10 +962,6 @@ D. Angin di sekitar rel membawa bunyi lebih pelan
 
 **(1) Soal:**
 Urutan medium yang benar dari yang paling cepat merambatkan bunyi hingga paling lambat adalah...
-A. Gas → cair → padat
-B. Cair → gas → padat
-C. Gas → padat → cair
-D. Padat → cair → gas
 
 **(2) Pilihan Jawaban:**
 A. Gas → cair → padat
@@ -1106,10 +990,6 @@ D. Padat → cair → gas
 
 **(1) Soal:**
 Resonansi adalah...
-A. Bunyi yang memantul dari dinding jauh
-B. Bunyi yang terdengar dua kali di pegunungan
-C. Ikut bergetarnya suatu benda karena meneruskan getaran dari sumber yang frekuensinya sama
-D. Perpindahan bunyi dari zat padat ke zat cair
 
 **(2) Pilihan Jawaban:**
 A. Bunyi yang memantul dari dinding jauh
@@ -1138,10 +1018,6 @@ D. Perpindahan bunyi dari zat padat ke zat cair
 
 **(1) Soal:**
 Peristiwa berikut yang termasuk resonansi adalah...
-A. Garputala yang dipukul di dekat garputala lain yang frekuensinya sama ikut berbunyi
-B. Bunyi gong memantul di depan gedung
-C. Teriakan di tebing terdengar berulang
-D. Suara mesin motor terdengar dari jauh
 
 **(2) Pilihan Jawaban:**
 A. Garputala yang dipukul di dekat garputala lain yang frekuensinya sama ikut berbunyi
@@ -1170,10 +1046,6 @@ D. Suara mesin motor terdengar dari jauh
 
 **(1) Soal:**
 Manusia normal dapat mendengar bunyi dengan frekuensi antara...
-A. 1 Hz sampai 100 Hz
-B. 20 Hz sampai 20.000 Hz
-C. 200 Hz sampai 200.000 Hz
-D. 2 Hz sampai 2.000 Hz
 
 **(2) Pilihan Jawaban:**
 A. 1 Hz sampai 100 Hz
@@ -1202,10 +1074,6 @@ D. 2 Hz sampai 2.000 Hz
 
 **(1) Soal:**
 Bunyi dengan frekuensi di bawah 20 Hz disebut... Contohnya adalah getaran gempa dan suara gajah.
-A. Infrasonik
-B. Audiosonik
-C. Ultrasonik
-D. Supersonik
 
 **(2) Pilihan Jawaban:**
 A. Infrasonik
@@ -1234,10 +1102,6 @@ D. Supersonik
 
 **(1) Soal:**
 Bunyi dengan frekuensi di atas 20.000 Hz disebut ultrasonik. Hewan yang menggunakan bunyi ini untuk mendeteksi mangsa atau rintangan adalah...
-A. Ayam
-B. Sapi
-C. Kambing
-D. Kelelawar
 
 **(2) Pilihan Jawaban:**
 A. Ayam
@@ -1266,10 +1130,6 @@ D. Kelelawar
 
 **(1) Soal:**
 Untuk memeriksa kondisi bayi di dalam kandungan, dokter menggunakan gelombang...
-A. Infrasonik
-B. Audiosonik
-C. Ultrasonik
-D. Bunyi petir
 
 **(2) Pilihan Jawaban:**
 A. Infrasonik
@@ -1298,10 +1158,6 @@ D. Bunyi petir
 
 **(1) Soal:**
 Bunyi pantul yang terdengar jelas setelah bunyi aslinya selesai, karena dinding pemantulnya jauh, disebut...
-A. Gaung
-B. Gema
-C. Resonansi
-D. Desah
 
 **(2) Pilihan Jawaban:**
 A. Gaung
@@ -1330,10 +1186,6 @@ D. Desah
 
 **(1) Soal:**
 Gaung terjadi ketika bunyi pantul datang terlalu cepat sehingga mengganggu bunyi asli. Gaung biasanya terjadi di...
-A. Ruangan yang dinding pemantulnya dekat dengan sumber bunyi
-B. Lembah gunung yang sangat luas
-C. Gua yang dindingnya sangat jauh
-D. Ruang hampa udara
 
 **(2) Pilihan Jawaban:**
 A. Ruangan yang dinding pemantulnya dekat dengan sumber bunyi
@@ -1362,10 +1214,6 @@ D. Ruang hampa udara
 
 **(1) Soal:**
 Ketika bernyanyi di kamar mandi yang berisi air di baknya, suara terdengar lebih keras. Hal ini terjadi karena...
-A. Air membekukan bunyi
-B. Uap air menambah frekuensi bunyi
-C. Dinding kamar mandi mengubah bunyi
-D. Udara dan air di dalam ruangan ikut bergetar (resonansi)
 
 **(2) Pilihan Jawaban:**
 A. Air membekukan bunyi
@@ -1394,10 +1242,6 @@ D. Udara dan air di dalam ruangan ikut bergetar (resonansi)
 
 **(1) Soal:**
 Gelombang bunyi memiliki panjang gelombang 3 m dan frekuensi 100 Hz. Cepat rambat bunyi tersebut adalah...
-A. 33 m/s
-B. 103 m/s
-C. 300 m/s
-D. 0,03 m/s
 
 **(2) Pilihan Jawaban:**
 A. 33 m/s
@@ -1426,10 +1270,6 @@ D. 0,03 m/s
 
 **(1) Soal:**
 Pada tali tergambar gelombang yang membentuk 2 puncak dan 2 lembah. Banyaknya gelombang penuh yang terbentuk adalah...
-A. 2 gelombang
-B. 4 gelombang
-C. 1 gelombang
-D. 3 gelombang
 
 **(2) Pilihan Jawaban:**
 A. 2 gelombang
@@ -1458,10 +1298,6 @@ D. 3 gelombang
 
 **(1) Soal:**
 Bunyi bel sekolah terdengar sampai ke telinga siswa di lapangan. Zat perantara yang membawa bunyi tersebut adalah...
-A. Tiang bendera
-B. Udara
-C. Tanah lapangan
-D. Cahaya matahari
 
 **(2) Pilihan Jawaban:**
 A. Tiang bendera
@@ -1490,10 +1326,6 @@ D. Cahaya matahari
 
 **(1) Soal:**
 Bunyi dapat kita dengar karena di dalam telinga terdapat bagian yang bergetar mengikuti getaran bunyi, yaitu...
-A. Pangkal tenggorokan
-B. Serambi hidung
-C. Otot rahang
-D. Gendang telinga
 
 **(2) Pilihan Jawaban:**
 A. Pangkal tenggorokan
@@ -1522,10 +1354,6 @@ D. Gendang telinga
 
 **(1) Soal:**
 Burung berkicau dengan suara merdu karena...
-A. Pita suara di tenggorokannya bergetar
-B. Bulu-bulunya saling bergesekan dengan paruh
-C. Sayapnya membelah udara dengan keras
-D. Paruhnya diketuk-ketukan pada dahan
 
 **(2) Pilihan Jawaban:**
 A. Pita suara di tenggorokannya bergetar
@@ -1554,10 +1382,6 @@ D. Paruhnya diketuk-ketukan pada dahan
 
 **(1) Soal:**
 Bunyi yang paling cepat merambat melalui contoh medium berikut adalah melalui...
-A. Udara di halaman rumah
-B. Air di kolam renang
-C. Baja/besi pada rel kereta
-D. Gas dalam balon
 
 **(2) Pilihan Jawaban:**
 A. Udara di halaman rumah
@@ -1586,10 +1410,6 @@ D. Gas dalam balon
 
 **(1) Soal:**
 Jika frekuensi suatu getaran semakin besar, maka periode getaran tersebut akan semakin...
-A. Besar
-B. Kecil
-C. Sama
-D. Tidak menentu
 
 **(2) Pilihan Jawaban:**
 A. Besar
@@ -1618,10 +1438,6 @@ D. Tidak menentu
 
 **(1) Soal:**
 Pada gelombang longitudinal, satu panjang gelombang (λ) adalah jarak antara...
-A. Satu rapatan dan satu renggangan yang berurutan
-B. Dua rapatan yang sangat dekat
-C. Dua puncak yang berdekatan
-D. Dua lembah yang berdekatan
 
 **(2) Pilihan Jawaban:**
 A. Satu rapatan dan satu renggangan yang berurutan
@@ -1650,10 +1466,6 @@ D. Dua lembah yang berdekatan
 
 **(1) Soal:**
 Selembar gabus di atas kolam ikut naik-turun saat ombak lewat tetapi tidak terbawa ke tepi kolam. Hal ini menunjukkan bahwa gelombang air...
-A. Membawa gabus ke tepi kolam
-B. Membawa udara di dasar kolam
-C. Mengubah gabus menjadi gelombang
-D. Membawa energi, tetapi tidak membawa zat/gabusnya
 
 **(2) Pilihan Jawaban:**
 A. Membawa gabus ke tepi kolam
@@ -1682,10 +1494,6 @@ D. Membawa energi, tetapi tidak membawa zat/gabusnya
 
 **(1) Soal:**
 Ujung slinky didorong ke depan lalu ditarik ke belakang secara berulang. Gelombang yang terbentuk pada slinky termasuk gelombang...
-A. Transversal
-B. Longitudinal
-C. Elektromagnetik
-D. Berdiri
 
 **(2) Pilihan Jawaban:**
 A. Transversal
@@ -1714,10 +1522,6 @@ D. Berdiri
 
 **(1) Soal:**
 Ombak besar di laut yang menghantam pantai dapat merusak karang dan dermaga. Hal ini membuktikan bahwa gelombang...
-A. Tidak membawa energi apa pun
-B. Hanya membawa air dari tengah laut
-C. Membawa cukup banyak energi untuk melakukan usaha
-D. Mengubah pasir pantai menjadi batu
 
 **(2) Pilihan Jawaban:**
 A. Tidak membawa energi apa pun
@@ -1746,10 +1550,6 @@ D. Mengubah pasir pantai menjadi batu
 
 **(1) Soal:**
 Sebuah bandul bergetar 20 kali dalam waktu 4 detik. Frekuensi getaran bandul itu adalah...
-A. 5 Hz
-B. 80 Hz
-C. 24 Hz
-D. 16 Hz
 
 **(2) Pilihan Jawaban:**
 A. 5 Hz
@@ -1778,10 +1578,6 @@ D. 16 Hz
 
 **(1) Soal:**
 Saat terjadi petir, kilat terlihat lebih dulu daripada bunyi gunturnya terdengar. Hal ini karena...
-A. Bunyi guntur baru keluar setelah kilat selesai
-B. Gelombang cahaya merambat jauh lebih cepat daripada gelombang bunyi
-C. Mata menangkap petir lebih cepat daripada telinga
-D. Petir terjadi dua kali, yang pertama hanya cahaya
 
 **(2) Pilihan Jawaban:**
 A. Bunyi guntur baru keluar setelah kilat selesai
@@ -1810,10 +1606,6 @@ D. Petir terjadi dua kali, yang pertama hanya cahaya
 
 **(1) Soal:**
 Dua astronot berdiri berdekatan di permukaan Bulan, lalu salah satunya memukulkan batu. Astronot yang lain TIDAK dapat mendengar suara pukulan itu karena...
-A. Di Bulan tidak ada udara sehingga bunyi tidak punya medium untuk merambat
-B. Gravitasi Bulan terlalu kecil untuk bunyi
-C. Pukulan batu di Bulan tidak menimbulkan getaran
-D. Suhu di Bulan terlalu dingin untuk bunyi
 
 **(2) Pilihan Jawaban:**
 A. Di Bulan tidak ada udara sehingga bunyi tidak punya medium untuk merambat
@@ -1842,10 +1634,6 @@ D. Suhu di Bulan terlalu dingin untuk bunyi
 
 **(1) Soal:**
 Seseorang bertepuk di depan tebing. Bunyi pantul (gema) terdengar kembali setelah 2 detik. Jika cepat rambat bunyi di udara 340 m/s, jarak tebing dari orang itu adalah...
-A. 170 m
-B. 680 m
-C. 85 m
-D. 340 m
 
 **(2) Pilihan Jawaban:**
 A. 170 m
@@ -1875,10 +1663,6 @@ D. 340 m
 
 **(1) Soal:**
 Sebuah benda bergetar 40 kali dalam waktu 8 detik. Berapakah frekuensi dan periode getaran benda tersebut?
-A. Frekuensi 5 Hz, periode 0,2 s
-B. Frekuensi 5 Hz, periode 0,4 s
-C. Frekuensi 4 Hz, periode 0,25 s
-D. Frekuensi 10 Hz, periode 0,1 s
 
 **(2) Pilihan Jawaban:**
 A. Frekuensi 5 Hz, periode 0,2 s
@@ -1907,10 +1691,6 @@ D. Frekuensi 10 Hz, periode 0,1 s
 
 **(1) Soal:**
 Sebuah sumber bunyi memiliki frekuensi 4 Hz. Periode getaran sumber bunyi tersebut adalah...
-A. 0,25 s
-B. 4 s
-C. 0,75 s
-D. 1,5 s
 
 **(2) Pilihan Jawaban:**
 A. 0,25 s
@@ -1939,10 +1719,6 @@ D. 1,5 s
 
 **(1) Soal:**
 Gelombang di permukaan air memiliki cepat rambat 300 m/s dan panjang gelombang 1,5 m. Frekuensi gelombang air tersebut adalah...
-A. 450 Hz
-B. 200 Hz
-C. 300 Hz
-D. 150 Hz
 
 **(2) Pilihan Jawaban:**
 A. 450 Hz
@@ -1971,10 +1747,6 @@ D. 150 Hz
 
 **(1) Soal:**
 Gelombang A memiliki amplitudo 5 cm dan frekuensi 2 Hz. Gelombang B memiliki amplitudo 2 cm dan frekuensi 5 Hz. Pernyataan yang tepat adalah...
-A. A lebih keras dan lebih tinggi daripada B
-B. B lebih keras dan lebih tinggi daripada A
-C. A lebih keras, B lebih rendah nadanya
-D. A lebih keras, B lebih tinggi nadanya
 
 **(2) Pilihan Jawaban:**
 A. A lebih keras dan lebih tinggi daripada B
@@ -2004,10 +1776,6 @@ D. A lebih keras, B lebih tinggi nadanya
 
 **(1) Soal:**
 Dua garputala yang memiliki frekuensi sama diletakkan berdekatan. Jika garputala pertama dipukul lalu ditahan, maka garputala kedua...
-A. Tetap diam karena tidak dipukul
-B. Bergetar lebih lambat dari biasanya
-C. Ikut berbunyi karena terjadi resonansi
-D. Frekuensinya berubah lebih rendah
 
 **(2) Pilihan Jawaban:**
 A. Tetap diam karena tidak dipukul
@@ -2036,10 +1804,6 @@ D. Frekuensinya berubah lebih rendah
 
 **(1) Soal:**
 Pada gelombang transversal, jarak antara puncak dan lembah yang berurutan adalah 40 cm. Panjang gelombang (λ) gelombang tersebut adalah...
-A. 80 cm
-B. 40 cm
-C. 20 cm
-D. 160 cm
 
 **(2) Pilihan Jawaban:**
 A. 80 cm
@@ -2068,10 +1832,6 @@ D. 160 cm
 
 **(1) Soal:**
 Di dalam gua dengan dinding yang jauh, suara teriakan terdengar berulang dengan jelas. Peristiwa ini disebut... karena...
-A. Gaung — dinding gua dekat dengan mulut gua
-B. Gema — bunyi memantul dari dinding yang jauh dan kembali jelas
-C. Resonansi — gua ikut bergetar dengan frekuensi suara
-D. Desah — udara di gua bergetar tidak teratur
 
 **(2) Pilihan Jawaban:**
 A. Gaung — dinding gua dekat dengan mulut gua
@@ -2100,10 +1860,6 @@ D. Desah — udara di gua bergetar tidak teratur
 
 **(1) Soal:**
 Bermain bola di dalam aula kosong membuat suara pantulan terdengar mengganggu dan saling menimpa bunyi asli. Peristiwa ini disebut...
-A. Resonansi
-B. Gema
-C. Desah
-D. Gaung
 
 **(2) Pilihan Jawaban:**
 A. Resonansi
@@ -2132,10 +1888,6 @@ D. Gaung
 
 **(1) Soal:**
 Bunyi merambat di udara dengan cepat rambat 340 m/s dan frekuensi 170 Hz. Panjang gelombang bunyi tersebut adalah...
-A. 2 m
-B. 0,5 m
-C. 510 m
-D. 170 m
 
 **(2) Pilihan Jawaban:**
 A. 2 m
@@ -2164,10 +1916,6 @@ D. 170 m
 
 **(1) Soal:**
 Dua batu diketuk-ketukkan di dalam air kolam. Bunyinya terdengar lebih jelas oleh penyelam di dalam air daripada oleh orang di udara. Ini karena...
-A. Air lebih dingin daripada udara
-B. Bunyi tidak bisa merambat di air
-C. Bunyi merambat lebih cepat pada zat cair daripada gas (udara)
-D. Batu tidak bergetar di udara
 
 **(2) Pilihan Jawaban:**
 A. Air lebih dingin daripada udara
@@ -2196,10 +1944,6 @@ D. Batu tidak bergetar di udara
 
 **(1) Soal:**
 Kelelawar dapat terbang di gua yang gelap tanpa menabrak dinding karena...
-A. Matanya dapat melihat dalam gelap total
-B. Ia memancarkan ultrasonik dan mendengar pantulannya untuk mengetahui rintangan
-C. Ia memakai infrasonik untuk mendorong dinding
-D. Ekornya bisa merasakan angin di sekitar dinding
 
 **(2) Pilihan Jawaban:**
 A. Matanya dapat melihat dalam gelap total
@@ -2228,10 +1972,6 @@ D. Ekornya bisa merasakan angin di sekitar dinding
 
 **(1) Soal:**
 Gendang dipukul lebih kuat sehingga suaranya makin keras, tetapi nadanya tidak berubah. Penjelasan yang tepat adalah...
-A. Frekuensi bertambah tetapi amplitudo tetap
-B. Cepat rambat bunyi berubah-ubah
-C. Panjang gelombang berkurang otomatis
-D. Amplitudo bertambah (keras), sedangkan nada ditentukan frekuensi yang tidak berubah
 
 **(2) Pilihan Jawaban:**
 A. Frekuensi bertambah tetapi amplitudo tetap
@@ -2260,10 +2000,6 @@ D. Amplitudo bertambah (keras), sedangkan nada ditentukan frekuensi yang tidak b
 
 **(1) Soal:**
 Siswa menggeser penyumbat tabung sehingga panjang kolom udara di dalam tabung berubah-ubah sambil menempatkan garputala di dekatnya. Bunyi menjadi sangat keras pada panjang kolom tertentu karena...
-A. Kolom udara memantulkan bunyi dari dasar tabung lebih jauh
-B. Kolom udara ikut bergetar dengan frekuensi yang sama (resonansi)
-C. Tabung memanaskan udara di dalamnya
-D. Garputala berhenti bergetar pada panjang tersebut
 
 **(2) Pilihan Jawaban:**
 A. Kolom udara memantulkan bunyi dari dasar tabung lebih jauh
@@ -2292,10 +2028,6 @@ D. Garputala berhenti bergetar pada panjang tersebut
 
 **(1) Soal:**
 Sebelum kereta terlihat, seorang pekerja menempelkan telinganya ke rel dan menyatakan kereta sudah datang. Suara kereta terdengar lewat rel lebih dulu daripada lewat udara karena...
-A. Bunyi merambat lebih cepat pada zat padat (baja) daripada gas (udara)
-B. Rel menangkap bunyi dari tanah lebih jauh
-C. Udara membawa bunyi ke arah yang berlawanan
-D. Baja rel membuat frekuensi bunyi lebih tinggi
 
 **(2) Pilihan Jawaban:**
 A. Bunyi merambat lebih cepat pada zat padat (baja) daripada gas (udara)
@@ -2324,10 +2056,6 @@ D. Baja rel membuat frekuensi bunyi lebih tinggi
 
 **(1) Soal:**
 Gajah di kebun binatang mulai resah beberapa saat sebelum manusia merasakan getaran gempa. Kemungkinan penyebabnya adalah...
-A. Gajah melihat cahaya gempa lebih dulu
-B. Gajah mendengar bunyi ultrasonik gempa
-C. Gajah dapat mendeteksi infrasonik gempa yang tidak terdengar manusia
-D. Gajah merasakan panas bumi
 
 **(2) Pilihan Jawaban:**
 A. Gajah melihat cahaya gempa lebih dulu
@@ -2356,10 +2084,6 @@ D. Gajah merasakan panas bumi
 
 **(1) Soal:**
 Manusia tidak dapat mendengar bunyi yang dipancarkan kelelawar ketika terbang karena frekuensinya...
-A. Kurang dari 20 Hz (infrasonik)
-B. Lebih dari 20.000 Hz sehingga berada di luar jangkauan pendengaran manusia
-C. Terlalu rendah untuk didengar semua makhluk
-D. Sama dengan frekuensi denyut jantung manusia
 
 **(2) Pilihan Jawaban:**
 A. Kurang dari 20 Hz (infrasonik)
@@ -2388,10 +2112,6 @@ D. Sama dengan frekuensi denyut jantung manusia
 
 **(1) Soal:**
 Sepanjang tali sepanjang 6 meter terbentuk 3 gelombang penuh. Panjang gelombang gelombang pada tali tersebut adalah...
-A. 1 m
-B. 3 m
-C. 4 m
-D. 2 m
 
 **(2) Pilihan Jawaban:**
 A. 1 m
@@ -2420,10 +2140,6 @@ D. 2 m
 
 **(1) Soal:**
 Sebuah gelombang memiliki frekuensi 50 Hz dan panjang gelombang 6 m. Berapa waktu yang dibutuhkan gelombang untuk menempuh jarak 600 m?
-A. 2 detik
-B. 0,5 detik
-C. 5 detik
-D. 12 detik
 
 **(2) Pilihan Jawaban:**
 A. 2 detik
@@ -2452,10 +2168,6 @@ D. 12 detik
 
 **(1) Soal:**
 Penyelam dapat mendengar suara baling-baling kapal dari jarak yang sangat jauh meskipun di permukaan suaranya tidak terdengar. Peristiwa ini terjadi karena...
-A. Kapal menghasilkan infrasonik yang hanya merambat ke atas
-B. Bunyi berhenti merambat di permukaan air
-C. Bunyi merambat lebih cepat dan lebih jauh di air (cair) daripada di udara
-D. Air memantulkan semua bunyi kembali ke kapal
 
 **(2) Pilihan Jawaban:**
 A. Kapal menghasilkan infrasonik yang hanya merambat ke atas
@@ -2484,10 +2196,6 @@ D. Air memantulkan semua bunyi kembali ke kapal
 
 **(1) Soal:**
 Tiupan pada mulut botol kaca menghasilkan bunyi. Ketika botol kacanya diisi air makin penuh, bunyinya makin tinggi. Hal ini terjadi karena...
-A. Air menambah amplitudo bunyi sehingga nada naik
-B. Kolom udara di dalam botol semakin pendek sehingga frekuensi semakin besar
-C. Botol kaca dipanaskan oleh air
-D. Air menyerap bunyi dari mulut botol
 
 **(2) Pilihan Jawaban:**
 A. Air menambah amplitudo bunyi sehingga nada naik
@@ -2516,10 +2224,6 @@ D. Air menyerap bunyi dari mulut botol
 
 **(1) Soal:**
 Gelombang P digambar dengan simpangan maksimum 6 cm, sedangkan gelombang Q dengan simpangan maksimum 2 cm. Membandingkan keduanya, bunyi yang dihasilkan gelombang P akan...
-A. Lebih tinggi nadanya daripada Q
-B. Sama persis dengan Q
-C. Lebih pendek daripada Q
-D. Lebih keras daripada Q
 
 **(2) Pilihan Jawaban:**
 A. Lebih tinggi nadanya daripada Q
@@ -2548,10 +2252,6 @@ D. Lebih keras daripada Q
 
 **(1) Soal:**
 Di pantai, jarak antara dua puncak gelombang yang berdekatan adalah 10 m dan setiap gelombang membutuhkan waktu 2 detik untuk lewat pada satu titik. Cepat rambat gelombang laut tersebut adalah...
-A. 20 m/s
-B. 12 m/s
-C. 5 m/s
-D. 0,2 m/s
 
 **(2) Pilihan Jawaban:**
 A. 20 m/s
@@ -2580,10 +2280,6 @@ D. 0,2 m/s
 
 **(1) Soal:**
 Menyelam di kolam renang sambil mendengar bunyi musik dari speaker bawah air, suaranya terdengar jelas meskipun telinga berada di dalam air. Hal ini menunjukkan bahwa...
-A. Bunyi dapat merambat lebih baik di dalam air daripada di udara
-B. Air tidak dapat merambatkan bunyi sama sekali
-C. Speaker menghasilkan bunyi longitudinal yang berubah menjadi cahaya di air
-D. Bunyi di air memantul terus ke dasar kolam
 
 **(2) Pilihan Jawaban:**
 A. Bunyi dapat merambat lebih baik di dalam air daripada di udara
@@ -2612,10 +2308,6 @@ D. Bunyi di air memantul terus ke dasar kolam
 
 **(1) Soal:**
 Saat berteriak di lembah yang diapit bukit-bukit jauh, suara balasan terdengar jelas beberapa saat kemudian. Bunyi balasan ini terjadi karena...
-A. Udara menggandakan suara
-B. Bunyi dipantulkan oleh bukit yang jauh sehingga terdengar sebagai gema
-C. Burung meniru teriakan tersebut
-D. Suara asli menjadi lambat di udara dingin
 
 **(2) Pilihan Jawaban:**
 A. Udara menggandakan suara
@@ -2644,10 +2336,6 @@ D. Suara asli menjadi lambat di udara dingin
 
 **(1) Soal:**
 Saat gitar dipetik, di dalam dawai terjadi gelombang transversal, sedangkan di udara di sekitarnya terbentuk gelombang longitudinal. Pernyataan yang tepat adalah...
-A. Dawai bergetar tegak lurus, udara bergetar sejajar arah rambat bunyi
-B. Keduanya bergetar secara transversal
-C. Keduanya tidak membawa energi
-D. Dawai membawa bunyi tanpa medium
 
 **(2) Pilihan Jawaban:**
 A. Dawai bergetar tegak lurus, udara bergetar sejajar arah rambat bunyi
@@ -2676,10 +2364,6 @@ D. Dawai membawa bunyi tanpa medium
 
 **(1) Soal:**
 Telepon kaleng dibuat dengan dua kaleng yang dihubungkan benang. Agar suara sampai lebih jelas ke telinga teman, benang harus dibuat tegang. Hal ini karena...
-A. Benang tegang tidak menggoyangkan kaleng
-B. Benang yang tegang merambatkan getaran lebih baik daripada benang kendor
-C. Udara masuk lebih banyak ke kaleng
-D. Benang tegang menambah frekuensi suara
 
 **(2) Pilihan Jawaban:**
 A. Benang tegang tidak menggoyangkan kaleng
@@ -2708,10 +2392,6 @@ D. Benang tegang menambah frekuensi suara
 
 **(1) Soal:**
 Dua perahu kecil bergoyang mengikuti gelombang di tengah danau. Jarak antara dua perahu yang berada pada dua puncak berdekatan adalah 1,5 m, dan setiap detiknya lewat 2 gelombang penuh. Cepat rambat gelombang air danau tersebut adalah...
-A. 3 m/s
-B. 0,75 m/s
-C. 1,5 m/s
-D. 2 m/s
 
 **(2) Pilihan Jawaban:**
 A. 3 m/s
@@ -2741,10 +2421,6 @@ D. 2 m/s
 
 **(1) Soal:**
 Sebuah bel listrik diletakkan di dalam tabung kaca (lonceng) yang udaranya dapat disedot keluar. Mula-mula bel berbunyi nyaring. Saat pompa menyedot udara terus-menerus, bunyi bel semakin lemah dan akhirnya tidak terdengar, meskipun bel masih bergetar (buktinya stiknya masih bergerak). Kesimpulan yang paling tepat dari percobaan ini adalah...
-A. Bunyi memerlukan medium (udara) untuk merambat sampai ke pendengar
-B. Bel tidak dapat bergetar di ruang yang udaranya berkurang
-C. Bel menjadi terlalu dingin sehingga tidak berbunyi
-D. Udara justru menyerap bunyi bel sehingga semakin sedikit udara bunyi semakin keras
 
 **(2) Pilihan Jawaban:**
 A. Bunyi memerlukan medium (udara) untuk merambat sampai ke pendengar
@@ -2776,10 +2452,6 @@ D. Udara justru menyerap bunyi bel sehingga semakin sedikit udara bunyi semakin 
 
 **(1) Soal:**
 Dalam percobaan resonansi, garputala digetarkan di atas tabung resonansi. Bunyi terdengar paling keras ketika panjang kolom udara di dalam tabung 25 cm (sama dengan λ/4). Jika frekuensi garputala 340 Hz, cepat rambat bunyi yang sesuai data percobaan adalah...
-A. 170 m/s
-B. 85 m/s
-C. 340 m/s
-D. 680 m/s
 
 **(2) Pilihan Jawaban:**
 A. 170 m/s
@@ -2810,10 +2482,6 @@ D. 680 m/s
 
 **(1) Soal:**
 Hasil percobaan menentukan cepat rambat bunyi di beberapa medium menunjukkan: baja 5.100 m/s, air 1.500 m/s, udara 340 m/s. Berdasarkan data, simpulan yang tepat adalah...
-A. Bunyi paling cepat di zat padat karena partikelnya paling rapat, dan paling lambat di gas karena partikelnya paling renggang
-B. Bunyi paling cepat di udara karena paling berlimpah
-C. Cepat rambat bunyi tidak dipengaruhi jenis medium
-D. Air menyerap bunyi lebih banyak daripada baja
 
 **(2) Pilihan Jawaban:**
 A. Bunyi paling cepat di zat padat karena partikelnya paling rapat, dan paling lambat di gas karena partikelnya paling renggang
@@ -2844,10 +2512,6 @@ D. Air menyerap bunyi lebih banyak daripada baja
 
 **(1) Soal:**
 Sekeping gabus mengambang sejauh 30 cm dari titik jatuhnya kerikil. Setelah kerikil jatuh, gabus naik-turun di tempatnya saat gelombang lingkaran lewat, tetapi tidak bergeser mendekati titik jatuh. Pengamatan ini membuktikan bahwa...
-A. Gelombang air memindahkan air dari titik jatuh ke arah gabus
-B. Gelombang air memindahkan energi dalam bentuk lingkaran, sedangkan air (dan gabus) hanya bergetar di tempatnya
-C. Kerikil mendorong gabus lewat udara
-D. Gaya tarik kerikil memindahkan gabus
 
 **(2) Pilihan Jawaban:**
 A. Gelombang air memindahkan air dari titik jatuh ke arah gabus
@@ -2878,10 +2542,6 @@ D. Gaya tarik kerikil memindahkan gabus
 
 **(1) Soal:**
 Dua sumber getaran dicatat datanya: Sumber A bergetar 50 kali dalam 5 detik; Sumber B bergetar 80 kali dalam 20 detik. Pernyataan yang tepat adalah...
-A. A berfrekuensi 10 Hz dan B 4 Hz, sehingga getaran A lebih cepat daripada B
-B. A berfrekuensi 4 Hz dan B 10 Hz, sehingga getaran B lebih cepat
-C. A dan B memiliki frekuensi yang sama
-D. Frekuensi A 50 Hz dan B 80 Hz
 
 **(2) Pilihan Jawaban:**
 A. A berfrekuensi 10 Hz dan B 4 Hz, sehingga getaran A lebih cepat daripada B
@@ -2913,10 +2573,6 @@ D. Frekuensi A 50 Hz dan B 80 Hz
 
 **(1) Soal:**
 Seorang peneliti bertepuk di depan mulut gua. Ia mendengar gema dari dasar gua setelah bunyi tepukannya terdengar langsung, dengan selisih 3 detik. Jika cepat rambat bunyi di udara 340 m/s, maka perkiraan kedalaman gua dari mulutnya adalah...
-A. 1.020 m
-B. 170 m
-C. 510 m
-D. 340 m
 
 **(2) Pilihan Jawaban:**
 A. 1.020 m
@@ -2948,10 +2604,6 @@ D. 340 m
 
 **(1) Soal:**
 Siswa melakukan percobaan: gelas kaca A diisi air penuh, gelas B diisi air setengah, lalu keduanya digosok tepinya dengan jari basah hingga berbunyi. Dengan dasar "resonansi kolom udara", pernyataan yang paling tepat adalah...
-A. Kolom udara yang lebih pendek (gelas A) menghasilkan frekuensi lebih besar → nada lebih tinggi
-B. Gelas penuh air menghasilkan bunyi paling rendah karena air menyerap nada
-C. Kedua gelas menghasilkan bunyi yang sama tinggi
-D. Gelas berisi air tidak dapat beresonansi sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Kolom udara yang lebih pendek (gelas A) menghasilkan frekuensi lebih besar → nada lebih tinggi
@@ -2982,10 +2634,6 @@ D. Gelas berisi air tidak dapat beresonansi sama sekali
 
 **(1) Soal:**
 Dalam percobaan slinky, tangan didorong maju dan ditarik mundur berulang sehingga terbentuk pola rapat-renggang yang bergerak sepanjang slinky. Penjelasan ilmiah yang benar adalah...
-A. Terbentuk gelombang transversal karena getaran tegak lurus arah rambat
-B. Terbentuk gelombang longitudinal karena arah getar sejajar arah rambat
-C. Slinky tidak menunjukkan gejala gelombang karena tidak ada medium
-D. Rapatan dan renggangan tidak dapat disebut gelombang
 
 **(2) Pilihan Jawaban:**
 A. Terbentuk gelombang transversal karena getaran tegak lurus arah rambat
@@ -3016,10 +2664,6 @@ D. Rapatan dan renggangan tidak dapat disebut gelombang
 
 **(1) Soal:**
 Data jangkauan pendengaran beberapa hewan: kelelawar 1.000–120.000 Hz; lumba-lumba 75–150.000 Hz; gajah 16–12.000 Hz; manusia 20–20.000 Hz. Berdasarkan data, pernyataan yang benar adalah...
-A. Gajah dapat mendengar infrasonik yang tidak terdengar manusia, sedangkan kelelawar dan lumba-lumba dapat mendengar ultrasonik yang tidak terdengar manusia
-B. Semua hewan tersebut memiliki rentang pendengaran yang sama dengan manusia
-C. Kelelawar dan lumba-lumba lebih banyak mendengar infrasonik
-D. Gajah tidak dapat mendengar bunyi apa pun
 
 **(2) Pilihan Jawaban:**
 A. Gajah dapat mendengar infrasonik yang tidak terdengar manusia, sedangkan kelelawar dan lumba-lumba dapat mendengar ultrasonik yang tidak terdengar manusia
@@ -3050,10 +2694,6 @@ D. Gajah tidak dapat mendengar bunyi apa pun
 
 **(1) Soal:**
 Bunyi diketukkan pada dua ujung sebuah rel baja sepanjang 1.360 m. Seorang anak menempelkan telinganya pada rel di ujung yang lain. Bunyi diketukkan pada ujung jauh: melalui udara (340 m/s) dan melalui rel baja (1.700 m/s). Selisih waktu tiba antara bunyi lewat rel dan lewat udara adalah...
-A. 3,2 detik, bunyi lewat udara tiba lebih dahulu
-B. 4 detik, bunyi lewat rel tiba lebih dahulu
-C. 3,2 detik, bunyi lewat rel tiba lebih dahulu
-D. 0,8 detik, bunyi lewat rel tiba lebih dahulu
 
 **(2) Pilihan Jawaban:**
 A. 3,2 detik, bunyi lewat udara tiba lebih dahulu
@@ -3085,10 +2725,6 @@ D. 0,8 detik, bunyi lewat rel tiba lebih dahulu
 
 **(1) Soal:**
 Pada gitar, senar yang lebih pendek menghasilkan nada lebih tinggi daripada senar yang lebih panjang. Penjelasan yang benar adalah...
-A. Senar pendek bergetar dengan amplitudo yang lebih besar
-B. Senar pendek bergetar lebih cepat (frekuensi lebih besar) sehingga nadanya lebih tinggi
-C. Senar pendek menyerap bunyi lebih banyak
-D. Senar pendek memantulkan bunyi ke badan gitar
 
 **(2) Pilihan Jawaban:**
 A. Senar pendek bergetar dengan amplitudo yang lebih besar
@@ -3119,10 +2755,6 @@ D. Senar pendek memantulkan bunyi ke badan gitar
 
 **(1) Soal:**
 Pada tali sepanjang 12 m terbentuk 4 gelombang penuh yang merambat dengan frekuensi 10 Hz. Cepat rambat gelombang pada tali tersebut adalah...
-A. 30 m/s
-B. 40 m/s
-C. 10 m/s
-D. 120 m/s
 
 **(2) Pilihan Jawaban:**
 A. 30 m/s
@@ -3153,10 +2785,6 @@ D. 120 m/s
 
 **(1) Soal:**
 Pada percobaan resonansi, bunyi paling keras pertama terjadi saat panjang kolom udara 20 cm, dan paling keras kedua saat 60 cm. Berdasarkan dua data ini, panjang gelombang bunyi garputala adalah...
-A. 40 cm
-B. 60 cm
-C. 80 cm
-D. 20 cm
 
 **(2) Pilihan Jawaban:**
 A. 40 cm
@@ -3187,10 +2815,6 @@ D. 20 cm
 
 **(1) Soal:**
 Dua kelompok siswa membuat telepon kaleng. Kelompok 1 memakai benang kendor, kelompok 2 memakai benang sangat tegang. Teman yang mendengar di kelompok 2 mendengar suara paling jelas. Berdasarkan konsep perambatan bunyi pada zat padat, kesimpulan yang tepat adalah...
-A. Benang tegang membuat suara menjadi lebih pelan namun jelas
-B. Bunyi dapat merambat pada benang meskipun kendor karena benang adalah zat cair
-C. Benang yang kendor lebih merambatkan bunyi karena lentur
-D. Getaran (medium padat) yang tegang meneruskan energi bunyi lebih baik sehingga bunyi lebih jelas
 
 **(2) Pilihan Jawaban:**
 A. Benang tegang membuat suara menjadi lebih pelan namun jelas
@@ -3221,10 +2845,6 @@ D. Getaran (medium padat) yang tegang meneruskan energi bunyi lebih baik sehingg
 
 **(1) Soal:**
 Siswa mengukur cepat rambat bunyi di udara terbuka dengan bertepuk di depan dinding lapangan. Ia mendengar gema setelah 4 detik dan tahu bahwa dinding itu berjarak 680 m. Berdasarkan percobaan ini, cepat rambat bunyi di udara di tempat itu adalah...
-A. 170 m/s
-B. 340 m/s
-C. 2.720 m/s
-D. 680 m/s
 
 **(2) Pilihan Jawaban:**
 A. 170 m/s
@@ -3255,10 +2875,6 @@ D. 680 m/s
 
 **(1) Soal:**
 Gajah dapat berkomunikasi dengan gajah lain yang berjarak beberapa kilometer memakai suara infrasonik. Salah satu alasan ilmiah yang mendukung peristiwa ini adalah...
-A. Gelombang infrasonik memiliki panjang gelombang besar sehingga dapat menempuh jarak jauh dan melewati rintangan
-B. Gelombang infrasonik bergerak paling cepat karena tidak butuh medium
-C. Infrasonik selalu berbentuk gelombang transversal
-D. Gajah berkomunikasi memakai cahaya yang menembus hutan
 
 **(2) Pilihan Jawaban:**
 A. Gelombang infrasonik memiliki panjang gelombang besar sehingga dapat menempuh jarak jauh dan melewati rintangan
@@ -3296,10 +2912,6 @@ Tabel hasil pengamatan getaran dua pegas:
 | Pegas Q | 30 | 6 s |
 
 Pasangan yang benar untuk frekuensi dan periode masing-masing pegas adalah...
-A. P: 5 Hz dan 0,5 s; Q: 5 Hz dan 0,2 s
-B. P: 4 Hz dan 0,25 s; Q: 6 Hz dan 0,16 s
-C. P: 5 Hz dan 0,2 s; Q: 5 Hz dan 0,2 s
-D. P: 20 Hz dan 4 s; Q: 30 Hz dan 6 s
 
 **(2) Pilihan Jawaban:**
 A. P: 5 Hz dan 0,5 s; Q: 5 Hz dan 0,2 s
@@ -3336,10 +2948,6 @@ Perhatikan tiga pernyataan berikut:
 3. Astronot dapat berbicara satu sama lain di Bulan tanpa alat bantu karena dekat.
 
 Pernyataan yang benar adalah...
-A. 1 saja
-B. 2 saja
-C. 1, 2, dan 3
-D. 1 dan 2
 
 **(2) Pilihan Jawaban:**
 A. 1 saja
@@ -3376,10 +2984,6 @@ Perhatikan empat peristiwa:
 4. Ombak permukaan danau.
 
 Yang termasuk gelombang longitudinal adalah...
-A. 1 dan 3
-B. 2 dan 4
-C. 3 dan 4
-D. 1, 2, dan 3
 
 **(2) Pilihan Jawaban:**
 A. 1 dan 3
@@ -3410,10 +3014,6 @@ D. 1, 2, dan 3
 
 **(1) Soal:**
 Setelah mempelajari gelombang mekanik, pernyataan yang paling lengkap dan tepat adalah...
-A. Gelombang mekanik adalah getaran yang merambat membawa energi, butuh medium, terbagi menjadi transversal dan longitudinal, dan bunyi adalah contohnya
-B. Gelombang mekanik tidak membutuhkan medium dan dapat merambat di ruang hampa
-C. Frekuensi yang lebih besar selalu membuat bunyi lebih keras
-D. Cepat rambat bunyi paling besar di udara dibandingkan zat padat
 
 **(2) Pilihan Jawaban:**
 A. Gelombang mekanik adalah getaran yang merambat membawa energi, butuh medium, terbagi menjadi transversal dan longitudinal, dan bunyi adalah contohnya

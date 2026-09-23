@@ -139,10 +139,6 @@ Langkah 3: Jawaban = **B. In-situ**.
 
 **(1) Soal:**
 Indonesia punya ratusan varietas padi, misalnya Ciherang, IR-64, dan Pandan Wangi, tetapi semuanya masih satu spesies (Oryza sativa). Keanekaragaman ini termasuk tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Komunitas
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -171,10 +167,6 @@ D. Komunitas
 
 **(1) Soal:**
 Dua ekor ayam kampung Pak Tono berbulu hitam dan cokelat. Perbedaan warna bulu ini merupakan contoh keanekaragaman tingkat...
-A. Jenis
-B. Gen
-C. Ekosistem
-D. Populasi
 
 **(2) Pilihan Jawaban:**
 A. Jenis
@@ -203,10 +195,6 @@ D. Populasi
 
 **(1) Soal:**
 Mawar merah, putih, dan kuning di kebun Bu Rina masih satu spesies. Perbedaan warna bunga mawar timbul terutama karena...
-A. Pindah pot
-B. Perbedaan jenis tanah
-C. Sifat gen yang diwariskan
-D. Perbedaan jumlah air
 
 **(2) Pilihan Jawaban:**
 A. Pindah pot
@@ -235,10 +223,6 @@ D. Perbedaan jumlah air
 
 **(1) Soal:**
 Keanekaragaman hayati tingkat gen adalah...
-A. Perbedaan antar spesies
-B. Perbedaan antar ekosistem
-C. Perbedaan antar komunitas
-D. Perbedaan sifat dalam satu spesies
 
 **(2) Pilihan Jawaban:**
 A. Perbedaan antar spesies
@@ -267,10 +251,6 @@ D. Perbedaan sifat dalam satu spesies
 
 **(1) Soal:**
 Di satu peternakan terdapat kambing Etawa dengan warna bulu putih, hitam, dan cokelat. Yang menyebabkan warna bulu berbeda-beda adalah...
-A. Gen
-B. Penjaga kandang
-C. Fase bulan
-D. Pakan yang selalu sama
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -299,10 +279,6 @@ D. Pakan yang selalu sama
 
 **(1) Soal:**
 Burung merpati di satu kandang ada yang berbulu abu-abu, hitam, dan putih. Bentuk keanekaragaman seperti ini disebut keanekaragaman tingkat...
-A. Jenis
-B. Gen
-C. Ekosistem
-D. Bioma
 
 **(2) Pilihan Jawaban:**
 A. Jenis
@@ -331,10 +307,6 @@ D. Bioma
 
 **(1) Soal:**
 Bunga anggrek di rumah Bibi, yang merah muda dan yang putih, ditanam di pot yang sama dan dirawat sama. Penyebab paling tepat perbedaan warna itu adalah...
-A. Bunga saling memengaruhi
-B. Ukuran pot yang sama
-C. Sifat genetik bawaan
-D. Cahaya yang berubah-ubah
 
 **(2) Pilihan Jawaban:**
 A. Bunga saling memengaruhi
@@ -363,10 +335,6 @@ D. Cahaya yang berubah-ubah
 
 **(1) Soal:**
 Di kebun percobaan ada sapi Holstein belang hitam-putih dan belam cokelat-putih dalam satu ras. Perbedaan corak bulu itu menunjukkan keanekaragaman tingkat...
-A. Jenis
-B. Ekosistem
-C. Komunitas
-D. Gen
 
 **(2) Pilihan Jawaban:**
 A. Jenis
@@ -395,10 +363,6 @@ D. Gen
 
 **(1) Soal:**
 Padi Ciherang tahan wereng, sedangkan padi Rojolele batangnya tinggi. Keduanya satu spesies. Perbedaan sifat ini disebut keanekaragaman tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Habitat
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -427,10 +391,6 @@ D. Habitat
 
 **(1) Soal:**
 Sumber utama variasi sifat (warna, ukuran tubuh) dalam satu spesies adalah...
-A. Makanan yang cukup
-B. Gen yang diwariskan dari induk
-C. Hujan yang deras
-D. Jenis kandang
 
 **(2) Pilihan Jawaban:**
 A. Makanan yang cukup
@@ -459,10 +419,6 @@ D. Jenis kandang
 
 **(1) Soal:**
 Keanekaragaman tingkat jenis (spesies) ditunjukkan oleh pasangan...
-A. Dua ayam kampung berbulu berbeda
-B. Dua mobil berbeda warna
-C. Sapi dan kerbau
-D. Padi Ciherang dan IR-64
 
 **(2) Pilihan Jawaban:**
 A. Dua ayam kampung berbulu berbeda
@@ -491,10 +447,6 @@ D. Padi Ciherang dan IR-64
 
 **(1) Soal:**
 Dua makhluk hidup dikatakan satu spesies yang sama bila dapat kawin dan menghasilkan keturunan yang...
-A. Besar
-B. Cepat tumbuh
-C. Jarang lahir
-D. Subur
 
 **(2) Pilihan Jawaban:**
 A. Besar
@@ -523,10 +475,6 @@ D. Subur
 
 **(1) Soal:**
 Singa dan harimau dapat saling kawin dan menghasilkan liger, tetapi liger mandul (steril). Kesimpulan yang benar adalah singa dan harimau...
-A. Dua spesies yang berbeda
-B. Satu spesies yang sama
-C. Satu ras yang sama
-D. Satu varietas
 
 **(2) Pilihan Jawaban:**
 A. Dua spesies yang berbeda
@@ -555,10 +503,6 @@ D. Satu varietas
 
 **(1) Soal:**
 Contoh keanekaragaman tingkat jenis adalah...
-A. Kucing persia berbulu putih dan hitam
-B. Padi dan jagung
-C. Jeruk bali besar dan kecil
-D. Mangga golek dan manalagi
 
 **(2) Pilihan Jawaban:**
 A. Kucing persia berbulu putih dan hitam
@@ -587,10 +531,6 @@ D. Mangga golek dan manalagi
 
 **(1) Soal:**
 Di kebun sekolah tumbuh bunga mawar, bunga melati, dan bunga sepatu. Ketiganya berbeda jenis. Keanekaragaman yang tampak termasuk tingkat...
-A. Gen
-B. Populasi
-C. Jenis
-D. Ekosistem
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -619,10 +559,6 @@ D. Ekosistem
 
 **(1) Soal:**
 Berikut yang BUKAN termasuk keanekaragaman tingkat jenis adalah...
-A. Kucing dan harimau
-B. Gajah sumatera dan gajah afrika
-C. Sapi dan kerbau
-D. Mawar merah dan mawar putih
 
 **(2) Pilihan Jawaban:**
 A. Kucing dan harimau
@@ -651,10 +587,6 @@ D. Mawar merah dan mawar putih
 
 **(1) Soal:**
 Dua hewan termasuk SATU spesies bila dapat saling kawin dan menghasilkan anak yang...
-A. Subur
-B. Tinggal di tempat sama
-C. Warnanya sama
-D. Ukurannya sama
 
 **(2) Pilihan Jawaban:**
 A. Subur
@@ -683,10 +615,6 @@ D. Ukurannya sama
 
 **(1) Soal:**
 Kucing siam dan kucing anggora dapat kawin dan melahirkan anak kucing yang sehat. Keduanya disebut...
-A. Tiga spesies berbeda
-B. Satu spesies yang sama
-C. Dua kingdom berbeda
-D. Dua genus berbeda
 
 **(2) Pilihan Jawaban:**
 A. Tiga spesies berbeda
@@ -715,10 +643,6 @@ D. Dua genus berbeda
 
 **(1) Soal:**
 Di pekarangan Bu Ani ada ayam, bebek, dan angsa. Hewan-hewan tersebut menunjukkan keanekaragaman tingkat...
-A. Gen
-B. Populasi
-C. Jenis
-D. Bioma
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -747,10 +671,6 @@ D. Bioma
 
 **(1) Soal:**
 Pernyataan yang BENAR tentang keanekaragaman tingkat jenis adalah...
-A. Terjadi di dalam satu spesies
-B. Hanya disebabkan gen
-C. Meliputi perbedaan lingkungan
-D. Meliputi perbedaan antar spesies yang berbeda
 
 **(2) Pilihan Jawaban:**
 A. Terjadi di dalam satu spesies
@@ -779,10 +699,6 @@ D. Meliputi perbedaan antar spesies yang berbeda
 
 **(1) Soal:**
 Sawah, hutan hujan tropis, dan terumbu karang merupakan contoh keanekaragaman tingkat...
-A. Ekosistem
-B. Gen
-C. Jenis
-D. Populasi
 
 **(2) Pilihan Jawaban:**
 A. Ekosistem
@@ -811,10 +727,6 @@ D. Populasi
 
 **(1) Soal:**
 Ekosistem adalah kesatuan antara...
-A. Gen dan lingkungan
-B. Komunitas dengan lingkungan tak hidupnya
-C. Individu-individu sejenis
-D. Satu populasi dan makanannya
 
 **(2) Pilihan Jawaban:**
 A. Gen dan lingkungan
@@ -843,10 +755,6 @@ D. Satu populasi dan makanannya
 
 **(1) Soal:**
 Hutan bakau di pesisir berisi air payau, ikan, kepiting, dan burung. Keanekaragaman semacam ini disebut tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Ras
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -875,10 +783,6 @@ D. Ras
 
 **(1) Soal:**
 Penebangan seluruh hutan di pegunungan akan menghilangkan... (keanekaragaman ekosistem turun)
-A. Varietas padi di sawah
-B. Satu warna bulu ayam
-C. Satu jenis bunga di pot
-D. Habitat beserta semua makhluk hidup di dalamnya
 
 **(2) Pilihan Jawaban:**
 A. Varietas padi di sawah
@@ -907,10 +811,6 @@ D. Habitat beserta semua makhluk hidup di dalamnya
 
 **(1) Soal:**
 Contoh komponen TAK hidup (abiotik) dalam ekosistem sawah adalah...
-A. Air dan tanah
-B. Padi dan rumput
-C. Katak dan ikan
-D. Petani dan kerbau
 
 **(2) Pilihan Jawaban:**
 A. Air dan tanah
@@ -939,10 +839,6 @@ D. Petani dan kerbau
 
 **(1) Soal:**
 Tempat di laut dangkal yang kaya ikan kecil, terumbu, dan plankton disebut ekosistem...
-A. Hutan hujan tropis
-B. Terumbu karang
-C. Gurun
-D. Kutub
 
 **(2) Pilihan Jawaban:**
 A. Hutan hujan tropis
@@ -971,10 +867,6 @@ D. Kutub
 
 **(1) Soal:**
 Perbedaan utama antara hutan hujan tropis Kalimantan dan gurun pasir terletak pada...
-A. Warna batang pohon
-B. Jumlah bulu hewan
-C. Lingkungan beserta komponen di dalamnya
-D. Jumlah gen biji
 
 **(2) Pilihan Jawaban:**
 A. Warna batang pohon
@@ -1003,10 +895,6 @@ D. Jumlah gen biji
 
 **(1) Soal:**
 Yang termasuk komponen HIDUP (biotik) dalam ekosistem kolam adalah...
-A. Air
-B. Batu
-C. Sinar matahari
-D. Ikan koi dan eceng gondok
 
 **(2) Pilihan Jawaban:**
 A. Air
@@ -1035,10 +923,6 @@ D. Ikan koi dan eceng gondok
 
 **(1) Soal:**
 Keanekaragaman tingkat ekosistem dilihat dari perbedaan...
-A. Kelompok makhluk hidup beserta lingkungannya
-B. Warna bulu dalam satu spesies
-C. Ukuran biji pada satu tanaman
-D. Tinggi badan manusia
 
 **(2) Pilihan Jawaban:**
 A. Kelompok makhluk hidup beserta lingkungannya
@@ -1067,10 +951,6 @@ D. Tinggi badan manusia
 
 **(1) Soal:**
 Di pantai ditemukan hutan mangrove, sedangkan di dataran tinggi ditemukan hutan jati. Perbedaan kedua tempat ini merupakan keanekaragaman tingkat...
-A. Gen
-B. Ekosistem
-C. Jenis
-D. Populasi
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -1099,10 +979,6 @@ D. Populasi
 
 **(1) Soal:**
 Berikut ciri-ciri makhluk hidup, KECUALI...
-A. Bernapas
-B. Tumbuh
-C. Tetap diam di tempat selamanya
-D. Berkembang biak
 
 **(2) Pilihan Jawaban:**
 A. Bernapas
@@ -1131,10 +1007,6 @@ D. Berkembang biak
 
 **(1) Soal:**
 Putri malu menutup daunnya saat disentuh. Peristiwa itu menunjukkan makhluk hidup bersifat...
-A. Membuat makanan
-B. Tumbuh
-C. Berkembang biak
-D. Peka terhadap rangsangan
 
 **(2) Pilihan Jawaban:**
 A. Membuat makanan
@@ -1163,10 +1035,6 @@ D. Peka terhadap rangsangan
 
 **(1) Soal:**
 Semua makhluk hidup bernapas. Ikan yang hidup di air bernapas menggunakan...
-A. Insang
-B. Paru-paru
-C. Trakea
-D. Kulit
 
 **(2) Pilihan Jawaban:**
 A. Insang
@@ -1195,10 +1063,6 @@ D. Kulit
 
 **(1) Soal:**
 Semua makhluk hidup memerlukan makanan dan air untuk...
-A. Menjadi batu
-B. Mendapatkan energi dan bertahan hidup
-C. Menjadi benda mati
-D. Berpindah ke tempat lain
 
 **(2) Pilihan Jawaban:**
 A. Menjadi batu
@@ -1227,10 +1091,6 @@ D. Berpindah ke tempat lain
 
 **(1) Soal:**
 Bibit cabai yang ditanam bulan lalu kini lebih tinggi dan berdaun banyak. Peristiwa ini menunjukkan ciri makhluk hidup...
-A. Bernapas
-B. Berkembang biak
-C. Tumbuh
-D. Peka terhadap rangsangan
 
 **(2) Pilihan Jawaban:**
 A. Bernapas
@@ -1259,10 +1119,6 @@ D. Peka terhadap rangsangan
 
 **(1) Soal:**
 Sebuah benda dapat bergerak sendiri dan berbunyi, tetapi tidak bernapas, tidak tumbuh, dan tidak berkembang biak. Kesimpulan yang tepat adalah benda itu...
-A. Termasuk makhluk hidup
-B. Termasuk tumbuhan
-C. Termasuk hewan
-D. Bukan makhluk hidup
 
 **(2) Pilihan Jawaban:**
 A. Termasuk makhluk hidup
@@ -1291,10 +1147,6 @@ D. Bukan makhluk hidup
 
 **(1) Soal:**
 Ayam betina bertelur lalu telur menetas menjadi anak ayam. Peristiwa tersebut adalah contoh ciri makhluk hidup...
-A. Berkembang biak
-B. Tumbuh
-C. Bernapas
-D. Bergerak
 
 **(2) Pilihan Jawaban:**
 A. Berkembang biak
@@ -1323,10 +1175,6 @@ D. Bergerak
 
 **(1) Soal:**
 Tumbuhan membuat makanannya sendiri melalui proses...
-A. Pernapasan
-B. Fotosintesis
-C. Perkembangbiakan
-D. Penguapan
 
 **(2) Pilihan Jawaban:**
 A. Pernapasan
@@ -1355,10 +1203,6 @@ D. Penguapan
 
 **(1) Soal:**
 Tanaman di pot menguning karena kurang air dan zat hara. Air dan zat hara bagi tumbuhan termasuk...
-A. Rangsangan
-B. Tempat tinggal
-C. Kebutuhan hidup
-D. Alat pernapasan
 
 **(2) Pilihan Jawaban:**
 A. Rangsangan
@@ -1387,10 +1231,6 @@ D. Alat pernapasan
 
 **(1) Soal:**
 Kelompok yang SEMUANYA termasuk makhluk hidup adalah...
-A. Batu, air, dan udara
-B. Mobil, robot, dan balon
-C. Kaca, kertas, dan pasir
-D. Ayam, rumput, dan jamur
 
 **(2) Pilihan Jawaban:**
 A. Batu, air, dan udara
@@ -1419,10 +1259,6 @@ D. Ayam, rumput, dan jamur
 
 **(1) Soal:**
 Tumbuhan berdaun hijau dapat membuat makanannya sendiri karena memiliki...
-A. Klorofil
-B. Akar yang panjang
-C. Bunga yang harum
-D. Buah yang manis
 
 **(2) Pilihan Jawaban:**
 A. Klorofil
@@ -1451,10 +1287,6 @@ D. Buah yang manis
 
 **(1) Soal:**
 Secara paling sederhana, makhluk hidup dibagi menjadi dua kelompok besar, yaitu...
-A. Gen dan jenis
-B. Tumbuhan dan hewan
-C. Hutan dan laut
-D. Pagi dan malam
 
 **(2) Pilihan Jawaban:**
 A. Gen dan jenis
@@ -1483,10 +1315,6 @@ D. Pagi dan malam
 
 **(1) Soal:**
 Ciri umum HEWAN dibandingkan tumbuhan adalah...
-A. Berwarna hijau
-B. Membuat makanan sendiri
-C. Bergerak bebas mencari makanan
-D. Memiliki akar dan daun
 
 **(2) Pilihan Jawaban:**
 A. Berwarna hijau
@@ -1515,10 +1343,6 @@ D. Memiliki akar dan daun
 
 **(1) Soal:**
 Kelompok berikut yang SEMUANYA termasuk hewan adalah...
-A. Mangga, jambu, dan rambutan
-B. Jamur merang, jamur kuping, dan ragi
-C. Ganggang hijau dan lumut
-D. Burung, kucing, dan ikan
 
 **(2) Pilihan Jawaban:**
 A. Mangga, jambu, dan rambutan
@@ -1547,10 +1371,6 @@ D. Burung, kucing, dan ikan
 
 **(1) Soal:**
 Makhluk hidup yang TIDAK dapat membuat makanannya sendiri sehingga harus makan makhluk lain disebut...
-A. Heterotrof
-B. Autotrof
-C. Produsen
-D. Fototrof
 
 **(2) Pilihan Jawaban:**
 A. Heterotrof
@@ -1579,10 +1399,6 @@ D. Fototrof
 
 **(1) Soal:**
 Tumbuhan termasuk kelompok autotrof karena...
-A. Memakan hewan
-B. Membuat makanannya sendiri dari air, CO₂, dan cahaya
-C. Menyerap sari makanan makhluk lain
-D. Hidup menempel di batang
 
 **(2) Pilihan Jawaban:**
 A. Memakan hewan
@@ -1611,10 +1427,6 @@ D. Hidup menempel di batang
 
 **(1) Soal:**
 Klasifikasi makhluk hidup dibagi menjadi 5 kingdom: tumbuhan, hewan, jamur, Protista, dan...
-A. Batu
-B. Udara
-C. Monera
-D. Mineral
 
 **(2) Pilihan Jawaban:**
 A. Batu
@@ -1643,10 +1455,6 @@ D. Mineral
 
 **(1) Soal:**
 Jamur merang tidak berklorofil dan menyerap makanan dari batang/buah tempatnya menempel. Jamur termasuk kingdom...
-A. Plantae
-B. Animalia
-C. Monera
-D. Fungi
 
 **(2) Pilihan Jawaban:**
 A. Plantae
@@ -1675,10 +1483,6 @@ D. Fungi
 
 **(1) Soal:**
 Kelompok berikut yang termasuk kingdom TUMBUHAN adalah...
-A. Padi, kelapa, dan pepaya
-B. Sapi, kambing, dan ayam
-C. Amoeba dan Paramecium
-D. Bakteri dan ragi
 
 **(2) Pilihan Jawaban:**
 A. Padi, kelapa, dan pepaya
@@ -1707,10 +1511,6 @@ D. Bakteri dan ragi
 
 **(1) Soal:**
 Bakteri adalah makhluk hidup yang sangat kecil sehingga hanya terlihat dengan mikroskop. Bakteri termasuk kelompok...
-A. Tumbuhan
-B. Mikroorganisme
-C. Hewan
-D. Serangga
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan
@@ -1739,10 +1539,6 @@ D. Serangga
 
 **(1) Soal:**
 Komodo, kadal terbesar di dunia, hidup secara alami di...
-A. Pulau Jawa
-B. Pulau Bali
-C. Pulau Komodo (Nusa Tenggara)
-D. Pulau Papua
 
 **(2) Pilihan Jawaban:**
 A. Pulau Jawa
@@ -1771,10 +1567,6 @@ D. Pulau Papua
 
 **(1) Soal:**
 Orangutan, kera besar Indonesia, hidup di hutan...
-A. Papua dan Maluku
-B. Sulawesi dan NTT
-C. Pulau Komodo dan Bali
-D. Kalimantan dan Sumatera
 
 **(2) Pilihan Jawaban:**
 A. Papua dan Maluku
@@ -1803,10 +1595,6 @@ D. Kalimantan dan Sumatera
 
 **(1) Soal:**
 Burung cendrawasih yang indah bulunya berasal dari...
-A. Papua
-B. Bali
-C. Jawa
-D. Sumatera
 
 **(2) Pilihan Jawaban:**
 A. Papua
@@ -1835,10 +1623,6 @@ D. Sumatera
 
 **(1) Soal:**
 Anoa adalah hewan endemik yang hanya ditemukan di...
-A. Pulau Jawa
-B. Pulau Sulawesi
-C. Pulau Bali
-D. Pulau Papua
 
 **(2) Pilihan Jawaban:**
 A. Pulau Jawa
@@ -1867,10 +1651,6 @@ D. Pulau Papua
 
 **(1) Soal:**
 Rafflesia arnoldii adalah bunga khas Indonesia yang dikenal sebagai bunga...
-A. Terkecil di dunia
-B. Paling harum
-C. Terbesar di dunia
-D. Paling cepat mekar
 
 **(2) Pilihan Jawaban:**
 A. Terkecil di dunia
@@ -1899,10 +1679,6 @@ D. Paling cepat mekar
 
 **(1) Soal:**
 Bunga Rafflesia arnoldii banyak ditemukan hidup liar di pulau...
-A. Papua
-B. Kalimantan
-C. Jawa
-D. Sumatera
 
 **(2) Pilihan Jawaban:**
 A. Papua
@@ -1931,10 +1707,6 @@ D. Sumatera
 
 **(1) Soal:**
 Harimau sumatera hidup secara alami di hutan pulau...
-A. Sumatera
-B. Kalimantan
-C. Sulawesi
-D. Papua
 
 **(2) Pilihan Jawaban:**
 A. Sumatera
@@ -1963,10 +1735,6 @@ D. Papua
 
 **(1) Soal:**
 Cendrawasih sering dijuluki sebagai...
-A. Burung raja
-B. Burung surga
-C. Burung pemangsa
-D. Burung hantu
 
 **(2) Pilihan Jawaban:**
 A. Burung raja
@@ -1995,10 +1763,6 @@ D. Burung hantu
 
 **(1) Soal:**
 Makhluk hidup endemik artinya...
-A. Hidup di mana-mana di dunia
-B. Dibawa dari luar negeri
-C. Hanya ditemukan di satu tempat tertentu
-D. Populasinya banyak sekali
 
 **(2) Pilihan Jawaban:**
 A. Hidup di mana-mana di dunia
@@ -2027,10 +1791,6 @@ D. Populasinya banyak sekali
 
 **(1) Soal:**
 Komodo hidup secara alami di Provinsi Nusa Tenggara Timur, di sekitar pulau...
-A. Papua
-B. Jawa
-C. Kalimantan
-D. Rinca dan Komodo
 
 **(2) Pilihan Jawaban:**
 A. Papua
@@ -2059,10 +1819,6 @@ D. Rinca dan Komodo
 
 **(1) Soal:**
 Badak bercula satu merupakan hewan langka yang dilindungi di Taman Nasional...
-A. Ujung Kulon
-B. Way Kambas
-C. Komodo
-D. Tanjung Puting
 
 **(2) Pilihan Jawaban:**
 A. Ujung Kulon
@@ -2091,10 +1847,6 @@ D. Tanjung Puting
 
 **(1) Soal:**
 Burung jalak bali adalah burung langka yang berasal dari...
-A. Pulau Jawa
-B. Pulau Bali
-C. Pulau Papua
-D. Pulau Lombok
 
 **(2) Pilihan Jawaban:**
 A. Pulau Jawa
@@ -2123,10 +1875,6 @@ D. Pulau Lombok
 
 **(1) Soal:**
 Hewan laut yang populasinya menurun dan dilindungi karena sering diambil telurnya adalah...
-A. Komodo
-B. Orangutan
-C. Penyu hijau
-D. Maleo
 
 **(2) Pilihan Jawaban:**
 A. Komodo
@@ -2155,10 +1903,6 @@ D. Maleo
 
 **(1) Soal:**
 Rafflesia arnoldii semakin langka karena...
-A. Disiram setiap hari
-B. Dipindahkan ke dalam ruangan
-C. Diberi pupuk berlebihan
-D. Bergantung pada akar inang dan habitatnya rusak
 
 **(2) Pilihan Jawaban:**
 A. Disiram setiap hari
@@ -2187,10 +1931,6 @@ D. Bergantung pada akar inang dan habitatnya rusak
 
 **(1) Soal:**
 Harimau sumatera semakin langka karena...
-A. Habitatnya menyempit dan banyak diburu
-B. Makanannya terlalu banyak
-C. Hutannya bertambah luas
-D. Dilindungi oleh semua orang
 
 **(2) Pilihan Jawaban:**
 A. Habitatnya menyempit dan banyak diburu
@@ -2219,10 +1959,6 @@ D. Dilindungi oleh semua orang
 
 **(1) Soal:**
 Berikut yang termasuk tumbuhan langka khas Indonesia adalah...
-A. Kelapa sawit
-B. Anggrek hitam
-C. Padi
-D. Tebu
 
 **(2) Pilihan Jawaban:**
 A. Kelapa sawit
@@ -2251,10 +1987,6 @@ D. Tebu
 
 **(1) Soal:**
 Burung maleo, yang bertelur di dalam tanah berpasir panas, hidup di pulau...
-A. Bali
-B. Jawa
-C. Sulawesi
-D. NTT
 
 **(2) Pilihan Jawaban:**
 A. Bali
@@ -2283,10 +2015,6 @@ D. NTT
 
 **(1) Soal:**
 Hewan dan tumbuhan langka perlu dilindungi dengan tujuan utama...
-A. Agar bisa dijual mahal
-B. Supaya cepat punah
-C. Agar dipindah ke luar negeri
-D. Agar keanekaragaman hayati tetap terjaga untuk generasi mendatang
 
 **(2) Pilihan Jawaban:**
 A. Agar bisa dijual mahal
@@ -2315,10 +2043,6 @@ D. Agar keanekaragaman hayati tetap terjaga untuk generasi mendatang
 
 **(1) Soal:**
 Tarsius, hewan kecil bermata besar yang melompat di malam hari, hidup endemik di...
-A. Sulawesi
-B. Papua
-C. Jawa
-D. Bali
 
 **(2) Pilihan Jawaban:**
 A. Sulawesi
@@ -2347,10 +2071,6 @@ D. Bali
 
 **(1) Soal:**
 Pohon cendana yang kayunya harum ini semakin langka dan dilindungi karena...
-A. Berbuah sangat besar
-B. Kayunya banyak dicari dan populasinya menurun
-C. Daunnya mudah gugur
-D. Akarnya membuat tanah gembur
 
 **(2) Pilihan Jawaban:**
 A. Berbuah sangat besar
@@ -2379,10 +2099,6 @@ D. Akarnya membuat tanah gembur
 
 **(1) Soal:**
 Padi, jagung, dan singkong merupakan sumber pangan utama rakyat Indonesia. Manfaat keanekaragaman hayati yang dimaksud adalah...
-A. Sandang
-B. Obat
-C. Pangan
-D. Perumahan
 
 **(2) Pilihan Jawaban:**
 A. Sandang
@@ -2411,10 +2127,6 @@ D. Perumahan
 
 **(1) Soal:**
 Bahan pembuat kain sutra yang halus berasal dari...
-A. Serat daun nanas
-B. Bulu ayam
-C. Plastik daur ulang
-D. Kepompong ulat sutra
 
 **(2) Pilihan Jawaban:**
 A. Serat daun nanas
@@ -2443,10 +2155,6 @@ D. Kepompong ulat sutra
 
 **(1) Soal:**
 Tanaman kina menghasilkan zat yang dimanfaatkan sebagai...
-A. Obat malaria
-B. Pewarna pakaian
-C. Serat sandang
-D. Bumbu masak
 
 **(2) Pilihan Jawaban:**
 A. Obat malaria
@@ -2475,10 +2183,6 @@ D. Bumbu masak
 
 **(1) Soal:**
 Hutan yang dibiarkan tetap lebat memberikan manfaat ekologis, yaitu...
-A. Menghasilkan uang bagi pendatang
-B. Menyerap CO₂, menghasilkan oksigen, dan menahan air
-C. Menjadi tempat membuang sampah
-D. Sebagai pembatas jalan saja
 
 **(2) Pilihan Jawaban:**
 A. Menghasilkan uang bagi pendatang
@@ -2507,10 +2211,6 @@ D. Sebagai pembatas jalan saja
 
 **(1) Soal:**
 Lebah hinggap dari bunga ke bunga sambil membawa serbuk sari. Kegiatan lebah ini membantu tumbuhan dalam...
-A. Penyerapan air
-B. Perkecambahan
-C. Penyerbukan
-D. Fotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Penyerapan air
@@ -2539,10 +2239,6 @@ D. Fotosintesis
 
 **(1) Soal:**
 Temulawak dan jahe biasanya dimanfaatkan masyarakat sebagai...
-A. Bahan sandang
-B. Bahan bangunan
-C. Bahan bakar
-D. Obat tradisional
 
 **(2) Pilihan Jawaban:**
 A. Bahan sandang
@@ -2571,10 +2267,6 @@ D. Obat tradisional
 
 **(1) Soal:**
 Hutan bakau (mangrove) di pinggir pantai bermanfaat untuk...
-A. Mencegah pengikisan pantai dan menjadi tempat ikan berkembang biak
-B. Sumber bensin kendaraan
-C. Pengganti tembok rumah
-D. Peneduh jalan raya saja
 
 **(2) Pilihan Jawaban:**
 A. Mencegah pengikisan pantai dan menjadi tempat ikan berkembang biak
@@ -2603,10 +2295,6 @@ D. Peneduh jalan raya saja
 
 **(1) Soal:**
 Akar pohon bakau yang rapat sangat berguna untuk mencegah...
-A. Gempa bumi
-B. Pengikisan pantai (abrasi)
-C. Hujan lebat
-D. Datangnya pasang normal
 
 **(2) Pilihan Jawaban:**
 A. Gempa bumi
@@ -2635,10 +2323,6 @@ D. Datangnya pasang normal
 
 **(1) Soal:**
 Ragi (Saccharomyces) yang dicampur saat membuat adonan membuat roti menjadi...
-A. Keras dan kering
-B. Amis dan payau
-C. Mengembang dan lembut
-D. Hitam pekat
 
 **(2) Pilihan Jawaban:**
 A. Keras dan kering
@@ -2667,10 +2351,6 @@ D. Hitam pekat
 
 **(1) Soal:**
 Masyarakat di sekitar taman nasional mendapatkan penghasilan dengan menjadi pemandu wisata alam (ekowisata). Hal ini menunjukkan manfaat keanekaragaman hayati sebagai...
-A. Sumber pangan
-B. Sumber energi
-C. Sumber pakaian
-D. Sumber ekonomi/menambah pendapatan
 
 **(2) Pilihan Jawaban:**
 A. Sumber pangan
@@ -2699,10 +2379,6 @@ D. Sumber ekonomi/menambah pendapatan
 
 **(1) Soal:**
 Melestarikan hewan dan tumbuhan DI HABITAT ASLINYA, misalnya di taman nasional atau cagar alam, disebut konservasi...
-A. In-situ
-B. Ex-situ
-C. Reboisasi
-D. Introduksi
 
 **(2) Pilihan Jawaban:**
 A. In-situ
@@ -2731,10 +2407,6 @@ D. Introduksi
 
 **(1) Soal:**
 Kebun binatang yang memelihara berbagai hewan dari banyak daerah termasuk pelestarian...
-A. In-situ
-B. Ex-situ
-C. Alam liar
-D. Tebang pilih
 
 **(2) Pilihan Jawaban:**
 A. In-situ
@@ -2763,10 +2435,6 @@ D. Tebang pilih
 
 **(1) Soal:**
 Cagar alam dan suaka margasatwa merupakan kawasan pelestarian secara...
-A. Ex-situ
-B. Introduksi
-C. In-situ
-D. Rehabilitasi
 
 **(2) Pilihan Jawaban:**
 A. Ex-situ
@@ -2795,10 +2463,6 @@ D. Rehabilitasi
 
 **(1) Soal:**
 Menyimpan biji-biji tumbuhan langka di bank benih (bank gen) agar awet termasuk pelestarian...
-A. In-situ
-B. Di taman nasional
-C. Di alam liar
-D. Ex-situ
 
 **(2) Pilihan Jawaban:**
 A. In-situ
@@ -2827,10 +2491,6 @@ D. Ex-situ
 
 **(1) Soal:**
 Contoh pelestarian secara IN-SITU adalah...
-A. Taman Nasional Komodo
-B. Kebun Raya Bogor
-C. Kebun Binatang Surabaya
-D. Penangkaran rusa di pusat kota
 
 **(2) Pilihan Jawaban:**
 A. Taman Nasional Komodo
@@ -2859,10 +2519,6 @@ D. Penangkaran rusa di pusat kota
 
 **(1) Soal:**
 Contoh pelestarian secara EX-SITU adalah...
-A. Suaka margasatwa
-B. Kebun raya dengan koleksi tumbuhan langka
-C. Taman nasional
-D. Cagar alam
 
 **(2) Pilihan Jawaban:**
 A. Suaka margasatwa
@@ -2891,10 +2547,6 @@ D. Cagar alam
 
 **(1) Soal:**
 Badak bercula satu dilindungi di Taman Nasional Ujung Kulon, tempatnya hidup semula. Pelestarian ini termasuk...
-A. Ex-situ
-B. Introduksi
-C. In-situ
-D. Budi daya bebas
 
 **(2) Pilihan Jawaban:**
 A. Ex-situ
@@ -2923,10 +2575,6 @@ D. Budi daya bebas
 
 **(1) Soal:**
 Kebun Raya Bogor memelihara ratusan jenis tumbuhan yang dikumpulkan dari berbagai daerah. Usaha ini merupakan pelestarian...
-A. Di habitat asal
-B. In-situ
-C. Di hutan lindung
-D. Ex-situ
 
 **(2) Pilihan Jawaban:**
 A. Di habitat asal
@@ -2955,10 +2603,6 @@ D. Ex-situ
 
 **(1) Soal:**
 Suaka margasatwa adalah kawasan yang khusus digunakan untuk melindungi...
-A. Hewan liar di habitat aslinya
-B. Hanya tumbuhan hias
-C. Barang-barang antik
-D. Kendaraan dinas
 
 **(2) Pilihan Jawaban:**
 A. Hewan liar di habitat aslinya
@@ -2987,10 +2631,6 @@ D. Kendaraan dinas
 
 **(1) Soal:**
 Cagar alam adalah kawasan pelestarian yang melindungi...
-A. Hewan saja
-B. Flora dan fauna (tumbuhan dan hewan) di habitat aslinya
-C. Sisa batuan karang
-D. Lahan pertanian warga
 
 **(2) Pilihan Jawaban:**
 A. Hewan saja
@@ -3019,10 +2659,6 @@ D. Lahan pertanian warga
 
 **(1) Soal:**
 Perburuan liar terhadap hewan langka membuat jumlah hewan tersebut...
-A. Bertambah banyak
-B. Tetap stabil
-C. Semakin berkurang dan terancam punah
-D. Menjadi gemuk
 
 **(2) Pilihan Jawaban:**
 A. Bertambah banyak
@@ -3051,10 +2687,6 @@ D. Menjadi gemuk
 
 **(1) Soal:**
 Penebangan pohon secara liar di hutan menyebabkan...
-A. Air bersih bertambah
-B. Hutan makin lebat
-C. Udara makin sejuk
-D. Habitat hewan hilang dan banjir serta erosi
 
 **(2) Pilihan Jawaban:**
 A. Air bersih bertambah
@@ -3083,10 +2715,6 @@ D. Habitat hewan hilang dan banjir serta erosi
 
 **(1) Soal:**
 Kegiatan menanam kembali pohon di lahan yang gundul disebut...
-A. Reboisasi
-B. Tebang pilih
-C. Terasering
-D. Urbanisasi
 
 **(2) Pilihan Jawaban:**
 A. Reboisasi
@@ -3115,10 +2743,6 @@ D. Urbanisasi
 
 **(1) Soal:**
 Tebang pilih adalah cara memanen kayu dengan...
-A. Menebang semua pohon apa pun
-B. Menebang hanya pohon yang sudah tua/tertentu dan menyisakan pohon muda
-C. Membakar hutan lalu menebangnya
-D. Memindahkan semua pohon ke kota
 
 **(2) Pilihan Jawaban:**
 A. Menebang semua pohon apa pun
@@ -3147,10 +2771,6 @@ D. Memindahkan semua pohon ke kota
 
 **(1) Soal:**
 Pencemaran sungai oleh limbah membuat banyak ikan mati. Akibatnya keanekaragaman hayati di sungai...
-A. Naik pesat
-B. Tidak berubah
-C. Menurun
-D. Sulit diamati
 
 **(2) Pilihan Jawaban:**
 A. Naik pesat
@@ -3179,10 +2799,6 @@ D. Sulit diamati
 
 **(1) Soal:**
 Cara sederhana yang bisa dilakukan SISWA untuk menjaga keanekaragaman hayati di sekolah adalah...
-A. Memetik semua bunga di taman
-B. Menangkap semua kupu-kupu untuk dikoleksi
-C. Membuang sampah ke sungai dekat sekolah
-D. Menyiram dan merawat tanaman di halaman sekolah
 
 **(2) Pilihan Jawaban:**
 A. Memetik semua bunga di taman
@@ -3211,10 +2827,6 @@ D. Menyiram dan merawat tanaman di halaman sekolah
 
 **(1) Soal:**
 Membuang sampah sembarangan ke sungai berakibat...
-A. Air tercemar dan makhluk hidup air terganggu
-B. Ikan menjadi lebih banyak
-C. Air menjadi lebih jernih
-D. Padi di sawah makin subur
 
 **(2) Pilihan Jawaban:**
 A. Air tercemar dan makhluk hidup air terganggu
@@ -3243,10 +2855,6 @@ D. Padi di sawah makin subur
 
 **(1) Soal:**
 Hutan di pegunungan perlu dijaga agar tetap rimbun karena berfungsi sebagai daerah tangkapan air. Jika hutan gundul, akibatnya...
-A. Harga tanah naik
-B. Air tanah berkurang dan banjir mudah terjadi
-C. Udara makin dingin sepanjang tahun
-D. Semua hewan pindah ke laut
 
 **(2) Pilihan Jawaban:**
 A. Harga tanah naik
@@ -3275,10 +2883,6 @@ D. Semua hewan pindah ke laut
 
 **(1) Soal:**
 Populasi hewan langka semakin menurun karena terus diburu. Usaha yang paling tepat agar hewan itu tidak punah adalah...
-A. Membiarkan saja sampai habis
-B. Menjualnya ke pasar
-C. Melarang perburuan dan menjaga habitatnya
-D. Mengurung semua hewan di rumah
 
 **(2) Pilihan Jawaban:**
 A. Membiarkan saja sampai habis
@@ -3307,10 +2911,6 @@ D. Mengurung semua hewan di rumah
 
 **(1) Soal:**
 Kesimpulan yang paling tepat mengenai sikap kita terhadap keanekaragaman hayati adalah...
-A. Boleh merusaknya karena milik orang lain
-B. Keanekaragaman hayati tidak perlu dirawat
-C. Hanya tugas petugas taman yang menjaganya
-D. Menjaga dan merawat keanekaragaman hayati adalah tugas semua orang
 
 **(2) Pilihan Jawaban:**
 A. Boleh merusaknya karena milik orang lain

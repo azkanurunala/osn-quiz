@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildTime": "2026-09-12T11:05:23.143Z",
+  "buildTime": "2026-09-13T16:04:29.186Z",
   "items": [
     {
       "id": "ipa-01-makhluk-hidup-campur",
@@ -391,6 +391,175 @@
       "questionCount": 100,
       "theorySectionCount": 8,
       "file": "ipa-05-bumi-antariksa-sulit.json"
+    },
+    {
+      "id": "ipa-07-metode-ilmiah-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-07",
+      "subBab": null,
+      "slug": "metode-ilmiah",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 1 · Keterampilan & Metode Ilmiah",
+      "questionCount": 100,
+      "theorySectionCount": 8,
+      "file": "ipa-07-metode-ilmiah-campur.json"
+    },
+    {
+      "id": "ipa-08-keanekaragaman-hayati-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-08",
+      "subBab": null,
+      "slug": "keanekaragaman-hayati",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 2 · Keanekaragaman Hayati & Pengklasifikasian Makhluk Hidup",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-08-keanekaragaman-hayati-campur.json"
+    },
+    {
+      "id": "ipa-09-proses-mekanisme-makhluk-hidup-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-09",
+      "subBab": null,
+      "slug": "proses-mekanisme-makhluk-hidup",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 3 · Proses dan Mekanisme yang Terjadi pada Makhluk Hidup",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-09-proses-mekanisme-makhluk-hidup-campur.json"
+    },
+    {
+      "id": "ipa-10-ekologi-lingkungan-sda-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-10",
+      "subBab": null,
+      "slug": "ekologi-lingkungan-sda",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 4 · Ekologi, Lingkungan, dan Pelestarian Sumber Daya Alam",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-10-ekologi-lingkungan-sda-campur.json"
+    },
+    {
+      "id": "ipa-11-isu-kesehatan-lingkungan-teknologi-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-11",
+      "subBab": null,
+      "slug": "isu-kesehatan-lingkungan-teknologi",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 5 · Isu Kesehatan, Lingkungan, dan Teknologi",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-11-isu-kesehatan-lingkungan-teknologi-campur.json"
+    },
+    {
+      "id": "ipa-12-mekanika-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-12",
+      "subBab": null,
+      "slug": "mekanika",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 6 · Mekanika",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-12-mekanika-campur.json"
+    },
+    {
+      "id": "ipa-13-wujud-benda-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-13",
+      "subBab": null,
+      "slug": "wujud-benda",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 7 · Wujud Benda",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-13-wujud-benda-campur.json"
+    },
+    {
+      "id": "ipa-14-listrik-magnet-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-14",
+      "subBab": null,
+      "slug": "listrik-magnet",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 8 · Listrik dan Magnet",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-14-listrik-magnet-campur.json"
+    },
+    {
+      "id": "ipa-15-gelombang-optik-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-15",
+      "subBab": null,
+      "slug": "gelombang-optik",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 9 · Gelombang dan Optik",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-15-gelombang-optik-campur.json"
+    },
+    {
+      "id": "ipa-16-suhu-kalor-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-16",
+      "subBab": null,
+      "slug": "suhu-kalor",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 10 · Suhu dan Kalor",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-16-suhu-kalor-campur.json"
+    },
+    {
+      "id": "ipa-17-bentuk-energi-perubahan-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-17",
+      "subBab": null,
+      "slug": "bentuk-energi-perubahan",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 11 · Bentuk Energi dan Perubahannya",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-17-bentuk-energi-perubahan-campur.json"
+    },
+    {
+      "id": "ipa-18-bumi-tata-surya-antariksa-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-18",
+      "subBab": null,
+      "slug": "bumi-tata-surya-antariksa",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 12 · Bumi, Tata Surya, dan Antariksa",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-18-bumi-tata-surya-antariksa-campur.json"
+    },
+    {
+      "id": "ipa-19-atom-campur",
+      "type": "chapter",
+      "subject": "ipa",
+      "chapter": "ipa-19",
+      "subBab": null,
+      "slug": "atom",
+      "tier": "campur",
+      "title": "OSN SD · IPA · Bab Resmi 13 · Atom",
+      "questionCount": 40,
+      "theorySectionCount": 6,
+      "file": "ipa-19-atom-campur.json"
     },
     {
       "id": "ipa-komprehensif-campur",
@@ -2702,7 +2871,7 @@
       "slug": "bilangan-prima-komposit",
       "tier": "mudah",
       "title": "OSN/KSN SD — MTK · Sub-Bab 01d: Bilangan Prima & Komposit (Tingkat Mudah)",
-      "questionCount": 65,
+      "questionCount": 100,
       "theorySectionCount": 9,
       "file": "mtk-01d-bilangan-prima-komposit-mudah.json"
     },
@@ -2798,6 +2967,19 @@
       "file": "mtk-01e-faktorisasi-prima-sedang.json"
     },
     {
+      "id": "mtk-01e-faktorisasi-prima-sulit",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-01",
+      "subBab": "mtk-01e",
+      "slug": "faktorisasi-prima",
+      "tier": "sulit",
+      "title": "OSN/KSN SD — MTK · Sub-Bab 01e: Faktorisasi Prima (Tingkat Sulit)",
+      "questionCount": 100,
+      "theorySectionCount": 10,
+      "file": "mtk-01e-faktorisasi-prima-sulit.json"
+    },
+    {
       "id": "mtk-01f-fpb-campur",
       "type": "subbab",
       "subject": "mtk",
@@ -2819,7 +3001,7 @@
       "slug": "fpb",
       "tier": "mudah-sedang",
       "title": "OSN/KSN SD — MTK · Sub-Bab 01f: FPB (Faktor Persekutuan Terbesar) (Tingkat Mudah-Sedang)",
-      "questionCount": 50,
+      "questionCount": 100,
       "theorySectionCount": 7,
       "file": "mtk-01f-fpb-mudah-sedang.json"
     },
@@ -2835,6 +3017,19 @@
       "questionCount": 100,
       "theorySectionCount": 10,
       "file": "mtk-01f-fpb-mudah.json"
+    },
+    {
+      "id": "mtk-01f-fpb-sedang",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-01",
+      "subBab": "mtk-01f",
+      "slug": "fpb",
+      "tier": "sedang",
+      "title": "OSN/KSN SD — MTK · Sub-Bab 01f: FPB (Faktor Persekutuan Terbesar) (Tingkat Sedang)",
+      "questionCount": 100,
+      "theorySectionCount": 8,
+      "file": "mtk-01f-fpb-sedang.json"
     },
     {
       "id": "mtk-01g-kpk-campur",
@@ -2900,6 +3095,19 @@
       "questionCount": 50,
       "theorySectionCount": 6,
       "file": "mtk-01h-kuadrat-akar-mudah-sedang.json"
+    },
+    {
+      "id": "mtk-01h-kuadrat-akar-mudah",
+      "type": "subbab",
+      "subject": "mtk",
+      "chapter": "mtk-01",
+      "subBab": "mtk-01h",
+      "slug": "kuadrat-akar",
+      "tier": "mudah",
+      "title": "OSN/KSN SD — MTK · Sub-Bab 01h: Bilangan Kuadrat & Akar Kuadrat (Tingkat Mudah)",
+      "questionCount": 100,
+      "theorySectionCount": 6,
+      "file": "mtk-01h-kuadrat-akar-mudah.json"
     },
     {
       "id": "mtk-01i-kubik-akar-kubik-campur",

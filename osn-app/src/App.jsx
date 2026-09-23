@@ -24,13 +24,22 @@ export default function App() {
   // bootstrap effect below (child effects mount before parent effects, so the tour's own
   // localStorage check can win and block the page before isCleanMode flips true).
   const isHeadless = typeof navigator !== 'undefined' && navigator.webdriver === true;
-  const [currentTab, setCurrentTab] = useState('dashboard');
-  const [selectedSubBab, setSelectedSubBab] = useState(null);
+  // Read ?record=<subBabId>&tier=<tier> synchronously so the very first render already
+  // lands on the practice tab — deferring this to an effect (which fires after first
+  // paint) flashed the dashboard for a frame in recorded videos.
+  const initialRecordParams = (() => {
+    if (typeof window === 'undefined') return null;
+    const params = new URLSearchParams(window.location.search);
+    const autoId = params.get('record');
+    return autoId ? { subBabId: autoId, tier: params.get('tier') || 'campur' } : null;
+  })();
+  const [currentTab, setCurrentTab] = useState(initialRecordParams ? 'practice' : 'dashboard');
+  const [selectedSubBab, setSelectedSubBab] = useState(initialRecordParams?.subBabId || null);
   const [isCleanMode, setIsCleanMode] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [forceTourOpen, setForceTourOpen] = useState(false);
   const [pendingSubBabId, setPendingSubBabId] = useState(null);
-  const [recordingMode, setRecordingMode] = useState(null); // 'manual' | 'auto-record' | null
+  const [recordingMode, setRecordingMode] = useState(initialRecordParams ? 'auto-record' : null); // 'manual' | 'auto-record' | null
   const [bulkQueue, setBulkQueue] = useState([]); // array of subBabId strings
   const [bulkPanelOpen, setBulkPanelOpen] = useState(false);
   const [bulkStream, setBulkStream] = useState(null); // shared MediaStream for batch recording
@@ -140,24 +149,20 @@ export default function App() {
   // Headless batch capture entrypoint — see scripts/record-videos.mjs.
   // ?record=<subBabId>&tier=<tier> jumps straight into auto-record mode,
   // skipping the mode-selector modal so a browser-automation script can drive it.
+  // currentTab/selectedSubBab/recordingMode are already set from initialRecordParams above
+  // (synchronously, before first paint) — this effect only needs to apply the tier
+  // preference, which lives in usePersistedState and can't be read synchronously here.
   const autoBootRef = useRef(false);
   useEffect(() => {
-    if (autoBootRef.current) return;
-    const params = new URLSearchParams(window.location.search);
-    const autoId = params.get('record');
-    if (!autoId) return;
+    if (autoBootRef.current || !initialRecordParams) return;
     autoBootRef.current = true;
-    const tier = params.get('tier') || 'campur';
-    setSettings((s) => ({ ...s, tierPreference: tier }));
-    setSelectedSubBab(autoId);
-    setRecordingMode('auto-record');
-    setCurrentTab('practice');
+    setSettings((s) => ({ ...s, tierPreference: initialRecordParams.tier }));
   }, [setSettings]);
 
   return (
     <div className="min-h-screen bg-mesh flex flex-col font-sans">
 
-      <SplashScreen durationMs={1800} />
+      {!isHeadless && <SplashScreen durationMs={1800} />}
       {!isCleanMode && !isHeadless && <OnboardingTour forceOpen={forceTourOpen} onClose={() => setForceTourOpen(false)} />}
       {!isCleanMode && <ShortcutHelp />}
       {!isCleanMode && <PomodoroTimer />}
@@ -186,7 +191,7 @@ export default function App() {
         onClose={() => setBulkPanelOpen(false)}
       />
 
-      {!isCleanMode && (
+      {!isCleanMode && !isHeadless && (
         <header className="sticky top-0 z-40 w-full bg-white/70 backdrop-blur-md border-b border-gray-100 px-6 py-4">
           <div className="max-w-7xl mx-auto flex items-center justify-between">
             <div className="flex items-center gap-2.5 cursor-pointer" onClick={() => { setCurrentTab('dashboard'); setSelectedSubBab(null); }}>

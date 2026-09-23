@@ -172,10 +172,6 @@ Langkah 4: Jawaban = C.
 
 **(1) Soal:**
 Secara umum, muatan listrik terdiri atas dua jenis, yaitu...
-A. muatan positif dan muatan negatif
-B. muatan besar dan muatan kecil
-C. muatan panas dan muatan dingin
-D. muatan atas dan muatan bawah
 
 **(2) Pilihan Jawaban:**
 A. muatan positif dan muatan negatif
@@ -204,10 +200,6 @@ D. muatan atas dan muatan bawah
 
 **(1) Soal:**
 Partikel dalam atom yang bermuatan listrik positif adalah...
-A. elektron
-B. proton
-C. neutron
-D. kulit atom
 
 **(2) Pilihan Jawaban:**
 A. elektron
@@ -236,10 +228,6 @@ D. kulit atom
 
 **(1) Soal:**
 Jika dua buah muatan positif saling didekatkan, yang terjadi adalah...
-A. keduanya tarik-menarik
-B. keduanya tolak-menolak
-C. keduanya menjadi netral
-D. keduanya saling menempel
 
 **(2) Pilihan Jawaban:**
 A. keduanya tarik-menarik
@@ -268,10 +256,6 @@ D. keduanya saling menempel
 
 **(1) Soal:**
 Muatan positif dan muatan negatif yang saling didekatkan akan...
-A. tolak-menolak
-B. saling menjauh
-C. tarik-menarik
-D. tidak bereaksi
 
 **(2) Pilihan Jawaban:**
 A. tolak-menolak
@@ -300,10 +284,6 @@ D. tidak bereaksi
 
 **(1) Soal:**
 Bagian atom yang bermuatan negatif adalah...
-A. proton
-B. neutron
-C. elektron
-D. inti atom
 
 **(2) Pilihan Jawaban:**
 A. proton
@@ -332,10 +312,6 @@ D. inti atom
 
 **(1) Soal:**
 Sebuah atom dikatakan netral (tidak bermuatan listrik) jika jumlah...
-A. proton lebih banyak daripada elektron
-B. proton sama dengan elektron
-C. elektron lebih banyak daripada proton
-D. neutron lebih banyak daripada proton
 
 **(2) Pilihan Jawaban:**
 A. proton lebih banyak daripada elektron
@@ -364,10 +340,6 @@ D. neutron lebih banyak daripada proton
 
 **(1) Soal:**
 Bagian atom yang tersusun atas proton dan neutron disebut...
-A. inti atom
-B. kulit atom
-C. elektron bebas
-D. muatan gosokan
 
 **(2) Pilihan Jawaban:**
 A. inti atom
@@ -396,10 +368,6 @@ D. muatan gosokan
 
 **(1) Soal:**
 Suatu benda dapat menjadi bermuatan listrik karena...
-A. atom berpindah dari satu benda ke benda lain
-B. elektron berpindah antara dua benda
-C. neutron keluar dari dalam benda
-D. benda berubah warna
 
 **(2) Pilihan Jawaban:**
 A. atom berpindah dari satu benda ke benda lain
@@ -428,10 +396,6 @@ D. benda berubah warna
 
 **(1) Soal:**
 Benda yang melepaskan (kehilangan) elektron akan bermuatan...
-A. positif
-B. negatif
-C. netral
-D. tidak tentu
 
 **(2) Pilihan Jawaban:**
 A. positif
@@ -460,10 +424,6 @@ D. tidak tentu
 
 **(1) Soal:**
 Benda yang menerima elektron berlebih akan bermuatan...
-A. positif
-B. negatif
-C. netral
-D. magnetis
 
 **(2) Pilihan Jawaban:**
 A. positif
@@ -492,10 +452,6 @@ D. magnetis
 
 **(1) Soal:**
 Balon yang digosok-gosokkan pada rambut, lalu didekatkan ke dinding, akan menempel. Hal ini terjadi karena...
-A. balon mengandung lem
-B. balon bermuatan listrik statis dari gosokan sehingga dapat menarik/menempel
-C. dinding bersifat magnet
-D. rambut mendorong balon ke dinding
 
 **(2) Pilihan Jawaban:**
 A. balon mengandung lem
@@ -524,10 +480,6 @@ D. rambut mendorong balon ke dinding
 
 **(1) Soal:**
 Penggaris plastik yang digosok kain wol mampu menarik potongan kertas kecil karena...
-A. penggaris menjadi panas
-B. penggaris bermuatan listrik statis
-C. kertas mengandung besi
-D. penggaris menjadi basah
 
 **(2) Pilihan Jawaban:**
 A. penggaris menjadi panas
@@ -556,10 +508,6 @@ D. penggaris menjadi basah
 
 **(1) Soal:**
 Sisir plastik yang digosokkan ke rambut kering, lalu didekatkan ke rambut, akan...
-A. menarik rambut
-B. menolak rambut
-C. memutuskan rambut
-D. tidak berpengaruh
 
 **(2) Pilihan Jawaban:**
 A. menarik rambut
@@ -588,10 +536,6 @@ D. tidak berpengaruh
 
 **(1) Soal:**
 Batang kaca yang digosok dengan kain sutra menjadi bermuatan positif karena kaca...
-A. menerima elektron dari sutra
-B. melepaskan elektron ke sutra
-C. menerima proton dari sutra
-D. melepaskan proton ke sutra
 
 **(2) Pilihan Jawaban:**
 A. menerima elektron dari sutra
@@ -620,10 +564,6 @@ D. melepaskan proton ke sutra
 
 **(1) Soal:**
 Benda yang jumlah protonnya sama dengan jumlah elektronnya disebut benda...
-A. bermuatan positif
-B. bermuatan negatif
-C. netral
-D. bermuatan ganda
 
 **(2) Pilihan Jawaban:**
 A. bermuatan positif
@@ -652,10 +592,6 @@ D. bermuatan ganda
 
 **(1) Soal:**
 Listrik yang mengalir dari baterai melalui kabel untuk menyalakan lampu senter disebut listrik...
-A. statis
-B. dinamis
-C. gosokan
-D. awan
 
 **(2) Pilihan Jawaban:**
 A. statis
@@ -684,10 +620,6 @@ D. awan
 
 **(1) Soal:**
 Listrik statis adalah listrik yang...
-A. mengalir terus-menerus dalam kabel
-B. muatannya diam atau terkumpul pada suatu benda
-C. hanya ada di pembangkit listrik
-D. berasal dari air terjun
 
 **(2) Pilihan Jawaban:**
 A. mengalir terus-menerus dalam kabel
@@ -716,10 +648,6 @@ D. berasal dari air terjun
 
 **(1) Soal:**
 Contoh listrik dinamis dalam kehidupan sehari-hari adalah...
-A. arus listrik yang menyalakan lampu dan televisi
-B. penggaris menarik kertas kecil
-C. balon menempel di dinding
-D. sisir menarik rambut
 
 **(2) Pilihan Jawaban:**
 A. arus listrik yang menyalakan lampu dan televisi
@@ -748,10 +676,6 @@ D. sisir menarik rambut
 
 **(1) Soal:**
 Contoh listrik statis dalam kehidupan sehari-hari adalah...
-A. listrik yang menyalakan lampu di rumah
-B. penggaris plastik menarik kertas kecil setelah digosok
-C. arus dari baterai yang memutar kipas
-D. listrik yang memanaskan setrika
 
 **(2) Pilihan Jawaban:**
 A. listrik yang menyalakan lampu di rumah
@@ -780,10 +704,6 @@ D. listrik yang memanaskan setrika
 
 **(1) Soal:**
 Bahan berikut yang paling baik menghantarkan listrik adalah...
-A. karet
-B. kayu
-C. tembaga
-D. plastik
 
 **(2) Pilihan Jawaban:**
 A. karet
@@ -812,10 +732,6 @@ D. plastik
 
 **(1) Soal:**
 Bahan berikut yang termasuk isolator listrik adalah...
-A. besi
-B. kaca
-C. aluminium
-D. tembaga
 
 **(2) Pilihan Jawaban:**
 A. besi
@@ -844,10 +760,6 @@ D. tembaga
 
 **(1) Soal:**
 Petir yang menyambar tiang besi lebih mudah menyalur melalui tiang menuju tanah karena besi merupakan...
-A. konduktor listrik
-B. isolator listrik
-C. magnet listrik
-D. isolator panas
 
 **(2) Pilihan Jawaban:**
 A. konduktor listrik
@@ -876,10 +788,6 @@ D. isolator panas
 
 **(1) Soal:**
 Pegangan tang pemotong kabel dilapisi karet atau plastik supaya...
-A. tang lebih berat dan kokoh
-B. tang terlihat lebih bagus
-C. tangan tidak tersengat listrik karena karet/plastik adalah isolator
-D. kabel tidak mudah putus
 
 **(2) Pilihan Jawaban:**
 A. tang lebih berat dan kokoh
@@ -908,10 +816,6 @@ D. kabel tidak mudah putus
 
 **(1) Soal:**
 Di dapur, contoh benda yang bersifat konduktor listrik adalah...
-A. piring keramik
-B. sendok besi
-C. talenan kayu
-D. gelas kaca
 
 **(2) Pilihan Jawaban:**
 A. piring keramik
@@ -940,10 +844,6 @@ D. gelas kaca
 
 **(1) Soal:**
 Kabel listrik bagian dalam terbuat dari tembaga, sedangkan bagian luarnya dibungkus plastik. Fungsi pembungkus plastik adalah...
-A. agar kabel lebih mahal
-B. sebagai isolator agar listrik tidak bocor atau menyengat
-C. agar kabel lebih lentur
-D. agar tembaga mengilap
 
 **(2) Pilihan Jawaban:**
 A. agar kabel lebih mahal
@@ -972,10 +872,6 @@ D. agar tembaga mengilap
 
 **(1) Soal:**
 Petir terjadi karena...
-A. awan bermuatan listrik melepaskan muatan besar ke bumi atau awan lain
-B. awan saling bertabrakan lalu meledak
-C. matahari memanaskan awan
-D. angin kencang menekan awan
 
 **(2) Pilihan Jawaban:**
 A. awan bermuatan listrik melepaskan muatan besar ke bumi atau awan lain
@@ -1004,10 +900,6 @@ D. angin kencang menekan awan
 
 **(1) Soal:**
 Saat terjadi petir, muatan listrik yang sangat besar berpindah dari awan ke bumi. Perpindahan muatan seketika itu dinamakan...
-A. hujan listrik
-B. kilat atau sambaran petir
-C. angin guruh
-D. banjir listrik
 
 **(2) Pilihan Jawaban:**
 A. hujan listrik
@@ -1036,10 +928,6 @@ D. banjir listrik
 
 **(1) Soal:**
 Fungsi utama penangkal petir pada sebuah gedung adalah...
-A. menangkap sambaran petir lalu menyalurkan muatannya ke tanah
-B. mengubah petir menjadi hujan
-C. memantulkan petir kembali ke awan
-D. mendinginkan udara di sekitar gedung
 
 **(2) Pilihan Jawaban:**
 A. menangkap sambaran petir lalu menyalurkan muatannya ke tanah
@@ -1068,10 +956,6 @@ D. mendinginkan udara di sekitar gedung
 
 **(1) Soal:**
 Bangunan yang sangat tinggi, seperti menara, biasanya dipasangi penangkal petir agar...
-A. terlihat indah dan modern
-B. tidak mudah goyah diterpa angin
-C. aman dari sambaran petir
-D. suhu ruangannya tetap sejuk
 
 **(2) Pilihan Jawaban:**
 A. terlihat indah dan modern
@@ -1100,10 +984,6 @@ D. suhu ruangannya tetap sejuk
 
 **(1) Soal:**
 Saat hujan badai disertai petir, tempat paling aman untuk berlindung adalah...
-A. di bawah pohon besar
-B. di dalam mobil atau bangunan
-C. di tengah lapangan terbuka
-D. di bawah tiang listrik
 
 **(2) Pilihan Jawaban:**
 A. di bawah pohon besar
@@ -1132,10 +1012,6 @@ D. di bawah tiang listrik
 
 **(1) Soal:**
 Berlindung di bawah pohon saat terjadi petir berbahaya karena...
-A. pohon yang tinggi lebih mudah disambar petir
-B. pohon menarik angin kencang
-C. pohon bersifat magnet
-D. pohon menyimpan listrik dinamis
 
 **(2) Pilihan Jawaban:**
 A. pohon yang tinggi lebih mudah disambar petir
@@ -1164,10 +1040,6 @@ D. pohon menyimpan listrik dinamis
 
 **(1) Soal:**
 Di lapangan terbuka saat petir, sebaiknya tidak membawa benda panjang yang terbuat dari logam karena...
-A. logam mudah terasa panas
-B. logam adalah konduktor sehingga dapat menarik/menyalurkan petir
-C. logam mudah pecah terkena hujan
-D. logam menarik air hujan
 
 **(2) Pilihan Jawaban:**
 A. logam mudah terasa panas
@@ -1196,10 +1068,6 @@ D. logam menarik air hujan
 
 **(1) Soal:**
 Alat untuk mendeteksi atau mengetahui ada tidaknya muatan listrik pada suatu benda adalah...
-A. termometer
-B. barometer
-C. elektroskop
-D. stopwatch
 
 **(2) Pilihan Jawaban:**
 A. termometer
@@ -1228,10 +1096,6 @@ D. stopwatch
 
 **(1) Soal:**
 Pada elektroskop, bagian yang membuka (berkembang) ketika elektroskop menerima muatan listrik adalah...
-A. daun elektroskop
-B. kepala (piring) elektroskop
-C. kaki elektroskop
-D. kaca pelindung
 
 **(2) Pilihan Jawaban:**
 A. daun elektroskop
@@ -1260,10 +1124,6 @@ D. kaca pelindung
 
 **(1) Soal:**
 Kaca yang digosok sutra bermuatan positif, sedangkan penggaris plastik yang digosok wol bermuatan negatif. Jika keduanya saling didekatkan akan...
-A. tarik-menarik
-B. tolak-menolak
-C. menjadi netral
-D. tidak bereaksi
 
 **(2) Pilihan Jawaban:**
 A. tarik-menarik
@@ -1292,10 +1152,6 @@ D. tidak bereaksi
 
 **(1) Soal:**
 Semakin dekat jarak dua benda yang bermuatan listrik, gaya tarik-menarik atau tolak-menolak di antara keduanya semakin...
-A. besar
-B. kecil
-C. hilang
-D. tetap sama
 
 **(2) Pilihan Jawaban:**
 A. besar
@@ -1324,10 +1180,6 @@ D. tetap sama
 
 **(1) Soal:**
 Balon bermuatan didekatkan ke potongan kertas kecil tanpa menyentuhnya, lalu kertas tertarik. Muatan yang terbentuk pada kertas akibat didekati balon disebut muatan...
-A. muatan tetap
-B. muatan induksi (terbentuk tanpa sentuhan)
-C. muatan dinamis
-D. muatan generator
 
 **(2) Pilihan Jawaban:**
 A. muatan tetap
@@ -1356,10 +1208,6 @@ D. muatan generator
 
 **(1) Soal:**
 Benda netral dapat ditarik oleh benda bermuatan listrik walaupun tidak bersentuhan. Hal ini terjadi karena...
-A. muatan pada benda netral terinduksi: sisi dekatnya menjadi muatan berlawanan sehingga tertarik
-B. benda netral mengeluarkan panas
-C. benda netral mengandung magnet
-D. benda bermuatan memancarkan cahaya
 
 **(2) Pilihan Jawaban:**
 A. muatan pada benda netral terinduksi: sisi dekatnya menjadi muatan berlawanan sehingga tertarik
@@ -1388,10 +1236,6 @@ D. benda bermuatan memancarkan cahaya
 
 **(1) Soal:**
 Mesin fotokopi memanfaatkan listrik statis untuk...
-A. menempelkan serbuk tinta (toner) pada kertas
-B. meniup kertas agar halus
-C. memanaskan tinta agar cair
-D. membasahi kertas dengan air
 
 **(2) Pilihan Jawaban:**
 A. menempelkan serbuk tinta (toner) pada kertas
@@ -1420,10 +1264,6 @@ D. membasahi kertas dengan air
 
 **(1) Soal:**
 Alat pembersih udara elektrostatis bekerja dengan cara...
-A. membakar debu sampai habis
-B. memberi muatan pada partikel debu lalu menangkapnya pada lempeng yang bermuatan
-C. menyiram debu dengan air
-D. menarik debu dengan magnet
 
 **(2) Pilihan Jawaban:**
 A. membakar debu sampai habis
@@ -1452,10 +1292,6 @@ D. menarik debu dengan magnet
 
 **(1) Soal:**
 Pada bengkel pengecatan, mobil dicat dengan bantuan listrik statis. Tujuan dari cara ini adalah agar cat...
-A. menempel merata ke seluruh permukaan bodi
-B. cepat mengering terkena angin
-C. berbau harum
-D. berwarna lebih tua
 
 **(2) Pilihan Jawaban:**
 A. menempel merata ke seluruh permukaan bodi
@@ -1484,10 +1320,6 @@ D. berwarna lebih tua
 
 **(1) Soal:**
 Sebuah benda netral digosok dengan kain wol sehingga kehilangan beberapa elektron. Sifat benda tersebut sekarang adalah...
-A. bermuatan positif
-B. bermuatan negatif
-C. tetap netral
-D. bermuatan ganda
 
 **(2) Pilihan Jawaban:**
 A. bermuatan positif
@@ -1516,10 +1348,6 @@ D. bermuatan ganda
 
 **(1) Soal:**
 Dua balon digosok pada rambut yang sama sehingga kedua balon bermuatan sejenis. Jika kedua balon didekatkan, yang terjadi adalah...
-A. tarik-menarik
-B. tolak-menolak
-C. saling menempel
-D. meletus
 
 **(2) Pilihan Jawaban:**
 A. tarik-menarik
@@ -1548,10 +1376,6 @@ D. meletus
 
 **(1) Soal:**
 Percobaan penggaris menarik potongan kertas kecil paling berhasil dilakukan pada hari yang kering karena...
-A. udara basah membantu menyimpan muatan
-B. udara kering membuat muatan tidak cepat hilang
-C. udara panas menciptakan elektron baru
-D. udara dingin membuat kertas lebih ringan
 
 **(2) Pilihan Jawaban:**
 A. udara basah membantu menyimpan muatan
@@ -1580,10 +1404,6 @@ D. udara dingin membuat kertas lebih ringan
 
 **(1) Soal:**
 Sebelum terjadi petir, di dalam awan berkumpul banyak...
-A. muatan listrik
-B. pasir dan debu logam
-C. batu-batuan
-D. cahaya matahari
 
 **(2) Pilihan Jawaban:**
 A. muatan listrik
@@ -1612,10 +1432,6 @@ D. cahaya matahari
 
 **(1) Soal:**
 Kepala elektroskop disentuh batang yang bermuatan listrik sehingga muatan masuk ke elektroskop. Daun elektroskop membuka karena...
-A. daun menjadi basah oleh hujan
-B. kedua daun mendapat muatan sejenis sehingga saling tolak-menolak
-C. batang memanaskan daun elektroskop
-D. daun tertiup angin
 
 **(2) Pilihan Jawaban:**
 A. daun menjadi basah oleh hujan
@@ -1644,10 +1460,6 @@ D. daun tertiup angin
 
 **(1) Soal:**
 Bagian paling atas penangkal petir dibuat runcing/tajam. Tujuannya adalah...
-A. agar lebih mudah menangkap/memusatkan muatan petir
-B. supaya atap terlihat indah
-C. agar tidak berkarat
-D. sebagai tempat hinggap burung
 
 **(2) Pilihan Jawaban:**
 A. agar lebih mudah menangkap/memusatkan muatan petir
@@ -1676,10 +1488,6 @@ D. sebagai tempat hinggap burung
 
 **(1) Soal:**
 Di antara benda berikut, yang paling berbahaya digenggam saat terjadi petir di lapangan terbuka adalah...
-A. tongkat besi panjang
-B. sapu dari ijuk
-C. botol plastik
-D. kardus bekas
 
 **(2) Pilihan Jawaban:**
 A. tongkat besi panjang
@@ -1708,10 +1516,6 @@ D. kardus bekas
 
 **(1) Soal:**
 Peristiwa berikut yang menunjukkan gejala listrik statis adalah...
-A. lampu menyala di rumah
-B. penggaris plastik menarik serpihan kertas setelah digosok
-C. kipas angin berputar
-D. setrika menjadi panas
 
 **(2) Pilihan Jawaban:**
 A. lampu menyala di rumah
@@ -1740,10 +1544,6 @@ D. setrika menjadi panas
 
 **(1) Soal:**
 Muatan listrik tidak dapat diciptakan atau dimusnahkan. Yang terjadi pada peristiwa listrik statis hanyalah muatan...
-A. berpindah dari satu benda ke benda lain
-B. berubah menjadi suara
-C. hilang ke udara
-D. berubah menjadi magnet
 
 **(2) Pilihan Jawaban:**
 A. berpindah dari satu benda ke benda lain
@@ -1772,10 +1572,6 @@ D. berubah menjadi magnet
 
 **(1) Soal:**
 Sebuah sisir platik digosokkan ke kain wol sehingga menjadi bermuatan negatif. Pernyataan yang paling tepat tentang peristiwa itu adalah...
-A. sisir melepaskan elektron ke kain wol
-B. sisir menerima elektron dari kain wol sehingga kelebihan elektron
-C. sisir menerima proton dari kain wol
-D. kain wol melepaskan proton ke sisir
 
 **(2) Pilihan Jawaban:**
 A. sisir melepaskan elektron ke kain wol
@@ -1804,10 +1600,6 @@ D. kain wol melepaskan proton ke sisir
 
 **(1) Soal:**
 Setelah digosok, ujung penggaris plastik dapat menarik potongan kertas kecil yang awalnya netral. Kertas bisa tertarik karena...
-A. kertas menjadi bermuatan sejenis dengan penggaris
-B. kertas mengandung serat besi
-C. muatan pada kertas terinduksi sehingga sisi dekat penggaris menjadi muatan berlawanan lalu tertarik
-D. penggaris memindahkan seluruh elektronnya ke kertas secara permanen
 
 **(2) Pilihan Jawaban:**
 A. kertas menjadi bermuatan sejenis dengan penggaris
@@ -1836,10 +1628,6 @@ D. penggaris memindahkan seluruh elektronnya ke kertas secara permanen
 
 **(1) Soal:**
 Benda P dan Q digosok secara terpisah. Benda P ternyata kelebihan 500 elektron dan benda Q kekurangan 300 elektron. Jenis muatan P dan Q berturut-turut adalah...
-A. positif dan negatif
-B. negatif dan positif
-C. positif dan positif
-D. negatif dan negatif
 
 **(2) Pilihan Jawaban:**
 A. positif dan negatif
@@ -1868,10 +1656,6 @@ D. negatif dan negatif
 
 **(1) Soal:**
 Sebuah benda netral berisi 1.000 elektron dan 1.000 proton. Setelah digosok, benda tersebut kehilangan 40 elektron. Muatan benda sekarang adalah...
-A. positif dengan kelebihan 40 proton
-B. negatif dengan kelebihan 40 elektron
-C. netral karena jumlahnya masih banyak
-D. positif dengan kelebihan 960 proton
 
 **(2) Pilihan Jawaban:**
 A. positif dengan kelebihan 40 proton
@@ -1900,10 +1684,6 @@ D. positif dengan kelebihan 960 proton
 
 **(1) Soal:**
 Kepala elektroskop didekati batang bermuatan positif TANPA menyentuhnya. Daun elektroskop membuka. Setelah batang dijauhkan, daun kembali menutup. Kesimpulan yang tepat adalah...
-A. muatan pada elektroskop bersifat sementara (induktif) dan kembali netral saat penyebabnya dijauhkan
-B. elektroskop tetap bermuatan positif selamanya
-C. elektroskop menjadi rusak
-D. muatan dari batang berpindah permanen ke elektroskop
 
 **(2) Pilihan Jawaban:**
 A. muatan pada elektroskop bersifat sementara (induktif) dan kembali netral saat penyebabnya dijauhkan
@@ -1932,10 +1712,6 @@ D. muatan dari batang berpindah permanen ke elektroskop
 
 **(1) Soal:**
 Saat hujan petir, orang di dalam mobil merasa lebih aman. Alasan yang paling tepat adalah...
-A. ban mobil terbuat dari karet sehingga listrik tidak bisa masuk
-B. mobil menjadi netral saat hujan turun
-C. kerangka logam mobil menyalurkan muatan petir mengelilingi badan mobil ke tanah sehingga penumpang aman
-D. kaca mobil dapat menolak listrik
 
 **(2) Pilihan Jawaban:**
 A. ban mobil terbuat dari karet sehingga listrik tidak bisa masuk
@@ -1964,10 +1740,6 @@ D. kaca mobil dapat menolak listrik
 
 **(1) Soal:**
 Saat hujan petir di lapangan terbuka, orang diminta membuka payung yang tidak berujung logam dan menyingkir. Alasannya adalah...
-A. payung besi bersifat magnet dan menarik awan
-B. benda runcing atau logam yang menjulang tinggi dapat menarik sambaran petir
-C. hujan akan merusak kayu payung
-D. payung menghalangi pandangan jalan
 
 **(2) Pilihan Jawaban:**
 A. payung besi bersifat magnet dan menarik awan
@@ -1996,10 +1768,6 @@ D. payung menghalangi pandangan jalan
 
 **(1) Soal:**
 Petir yang menyambar tiang besi dengan mudah menyalurkan muatannya ke tanah, sedangkan melalui batang kayu kering lebih sulit. Perbedaan ini terjadi karena...
-A. kayu lebih keras daripada besi
-B. besi adalah konduktor listrik, sedangkan kayu kering adalah isolator
-C. besi lebih berat daripada kayu
-D. kayu lebih licin daripada besi
 
 **(2) Pilihan Jawaban:**
 A. kayu lebih keras daripada besi
@@ -2028,10 +1796,6 @@ D. kayu lebih licin daripada besi
 
 **(1) Soal:**
 Kepala elektroskop netral disentuh batang bermuatan negatif, lalu batang dijauhkan. Daun elektroskop tetap membuka. Muatan pada elektroskop sekarang adalah...
-A. positif
-B. netral
-C. negatif
-D. berubah-ubah setiap detik
 
 **(2) Pilihan Jawaban:**
 A. positif
@@ -2060,10 +1824,6 @@ D. berubah-ubah setiap detik
 
 **(1) Soal:**
 Elektroskop sedang bermuatan positif. Ketika batang bermuatan positif didekatkan ke kepala elektroskop, daun elektroskop akan...
-A. semakin terbuka (menjauh lebih lebar)
-B. semakin menutup
-C. tidak berubah sama sekali
-D. rontok berjatuhan
 
 **(2) Pilihan Jawaban:**
 A. semakin terbuka (menjauh lebih lebar)
@@ -2092,10 +1852,6 @@ D. rontok berjatuhan
 
 **(1) Soal:**
 Setelah menempel beberapa saat pada penggaris bermuatan, beberapa potongan kertas kecil bisa "terlontar" menjauh. Penyebabnya adalah...
-A. kertas menjadi panas lalu menguap
-B. kertas menerima sebagian muatan sejenis dari penggaris sehingga lama-kelamaan ditolak
-C. penggaris kehabisan muatan total
-D. angin meniup kertas menjauh
 
 **(2) Pilihan Jawaban:**
 A. kertas menjadi panas lalu menguap
@@ -2124,10 +1880,6 @@ D. angin meniup kertas menjauh
 
 **(1) Soal:**
 Benda X netral disentuh benda Y yang bermuatan negatif, lalu dilepaskan. Sesudahnya benda X bermuatan negatif. Hal ini terjadi karena...
-A. proton dari Y berpindah ke X
-B. elektron dari Y berpindah ke X
-C. neutron dari Y berpindah ke X
-D. X melepaskan elektronnya ke Y
 
 **(2) Pilihan Jawaban:**
 A. proton dari Y berpindah ke X
@@ -2156,10 +1908,6 @@ D. X melepaskan elektronnya ke Y
 
 **(1) Soal:**
 Perbedaan utama antara listrik statis dan listrik dinamis adalah...
-A. harga dan merk listriknya
-B. muatan listrik: diam/terkumpul (statis) versus mengalir melalui penghantar (dinamis)
-C. warna dan baunya
-D. asal negara penemunya
 
 **(2) Pilihan Jawaban:**
 A. harga dan merk listriknya
@@ -2188,10 +1936,6 @@ D. asal negara penemunya
 
 **(1) Soal:**
 Sebelum terjadi petir, di dalam awan terjadi gesekan antarbutiran air dan kristal es sehingga awan menjadi bermuatan listrik. Ketika muatan terus mengumpul dan beda muatan dengan bumi sangat besar, yang terjadi adalah...
-A. awan jatuh ke bumi
-B. hujan langsung berhenti
-C. lompatan muatan besar (kilat/petir) dari awan ke bumi
-D. angin di sekitar terdiam total
 
 **(2) Pilihan Jawaban:**
 A. awan jatuh ke bumi
@@ -2220,10 +1964,6 @@ D. angin di sekitar terdiam total
 
 **(1) Soal:**
 Penangkal petir dipasang di bagian tertinggi sebuah bangunan karena petir cenderung menyambar...
-A. titik tertinggi yang menonjol
-B. bangunan yang rendah
-C. tempat yang gelap gulita
-D. tempat yang sering digenangi air
 
 **(2) Pilihan Jawaban:**
 A. titik tertinggi yang menonjol
@@ -2252,10 +1992,6 @@ D. tempat yang sering digenangi air
 
 **(1) Soal:**
 Pada alat pembersih udara elektrostatis, partikel debu diberi muatan lalu ditangkap pada lempeng bermuatan. Manfaat utama cara ini dibanding sekadar meniup debu adalah...
-A. debu menjadi beraroma harum
-B. debu yang sangat kecil pun dapat tertangkap secara efektif
-C. udara menjadi lebih panas dan nyaman
-D. debu berubah wujud menjadi air
 
 **(2) Pilihan Jawaban:**
 A. debu menjadi beraroma harum
@@ -2284,10 +2020,6 @@ D. debu berubah wujud menjadi air
 
 **(1) Soal:**
 Pada mesin fotokopi, drum bermuatan dipola dengan cahaya pada bagian tertentu. Serbuk toner kemudian menempel HANYA pada bagian drum yang bermuatan. Hal ini menunjukkan bahwa...
-A. toner menempel karena lem khusus
-B. toner bermuatan listrik dan tertarik ke bagian yang bermuatan berbeda
-C. toner bersifat magnet yang menempel pada drum logam
-D. toner tersedot oleh kipas di dalam mesin
 
 **(2) Pilihan Jawaban:**
 A. toner menempel karena lem khusus
@@ -2316,10 +2048,6 @@ D. toner tersedot oleh kipas di dalam mesin
 
 **(1) Soal:**
 Pernyataan berikut yang paling tepat tentang keselamatan saat petir adalah...
-A. aman berlindung di bawah pohon karena daun menghalangi petir
-B. aman membawa payung logam di lapangan terbuka
-C. sebaiknya menjauhi benda tinggi dan logam, lalu berlindung di bangunan atau mobil
-D. aman berenang di kolam karena air mendinginkan petir
 
 **(2) Pilihan Jawaban:**
 A. aman berlindung di bawah pohon karena daun menghalangi petir
@@ -2348,10 +2076,6 @@ D. aman berenang di kolam karena air mendinginkan petir
 
 **(1) Soal:**
 Elektroskop sedang bermuatan negatif (daun terbuka). Ketika jari menyentuh kepala elektroskop, daun elektroskop menutup. Hal ini terjadi karena...
-A. elektron dari jari mengalir masuk menambah muatan negatif
-B. elektron mengalir dari elektroskop ke tubuh kita, sehingga muatannya berkurang
-C. jari menekan daun elektroskop
-D. jari memberikan proton kepada elektroskop
 
 **(2) Pilihan Jawaban:**
 A. elektron dari jari mengalir masuk menambah muatan negatif
@@ -2380,10 +2104,6 @@ D. jari memberikan proton kepada elektroskop
 
 **(1) Soal:**
 Penggaris plastik dan balon sama-sama digosok dengan kain wol sehingga keduanya bermuatan negatif. Ketika penggaris didekatkan ke balon, yang terjadi adalah...
-A. tarik-menarik
-B. tolak-menolak
-C. saling menempel
-D. menjadi netral
 
 **(2) Pilihan Jawaban:**
 A. tarik-menarik
@@ -2412,10 +2132,6 @@ D. menjadi netral
 
 **(1) Soal:**
 Benda netral digosok sehingga kini memiliki jumlah elektron 5.040 dan proton 5.000. Pernyataan yang benar tentang benda itu adalah...
-A. benda bermuatan negatif karena elektronnya lebih banyak
-B. benda bermuatan positif karena protonnya lebih banyak
-C. benda tetap netral karena perbedaannya kecil
-D. benda bermuatan positif karena kehilangan neutron
 
 **(2) Pilihan Jawaban:**
 A. benda bermuatan negatif karena elektronnya lebih banyak
@@ -2444,10 +2160,6 @@ D. benda bermuatan positif karena kehilangan neutron
 
 **(1) Soal:**
 Petir sering disebut "korsleting raksasa" dengan bumi karena...
-A. ada kabel besar yang menghubungkan awan dan bumi
-B. awan benar-benar menyentuh permukaan bumi
-C. muatan listrik melompat sangat cepat dari awan ke bumi melewati celah udara
-D. bumi menarik awan hingga turun mendekat
 
 **(2) Pilihan Jawaban:**
 A. ada kabel besar yang menghubungkan awan dan bumi
@@ -2476,10 +2188,6 @@ D. bumi menarik awan hingga turun mendekat
 
 **(1) Soal:**
 Pada hari kering, setelah rambut disisir, beberapa helai rambut tampak "berdiri" dan terangkat mengikuti sisir. Rambut-rambut itu saling menjauh satu sama lain karena...
-A. setiap helai mendapatkan muatan sejenis sehingga tolak-menolak
-B. setiap helai bermuatan beda jenis sehingga tarik-menarik
-C. sisir memotong helai rambut menjadi pendek
-D. rambut menggumpal karena lembap
 
 **(2) Pilihan Jawaban:**
 A. setiap helai mendapatkan muatan sejenis sehingga tolak-menolak
@@ -2508,10 +2216,6 @@ D. rambut menggumpal karena lembap
 
 **(1) Soal:**
 Seorang siswa mendeteksi benda Z dengan elektroskop yang sudah bermuatan positif (daun terbuka). Saat benda Z didekatkan ke kepala elektroskop, daun justru semakin terbuka lebar. Simpulan yang paling tepat adalah...
-A. benda Z tidak bermuatan
-B. benda Z bermuatan sejenis (positif) dengan elektroskop
-C. benda Z bermuatan berlawanan dengan elektroskop
-D. benda Z basah oleh air
 
 **(2) Pilihan Jawaban:**
 A. benda Z tidak bermuatan
@@ -2540,10 +2244,6 @@ D. benda Z basah oleh air
 
 **(1) Soal:**
 Agar listrik dinamis (arus listrik) dapat mengalir dari baterai ke lampu, syarat rangkaiannya adalah...
-A. tersambung (tertutup) menggunakan kabel konduktor dari kutub baterai ke lampu
-B. putus di salah satu ujungnya
-C. hanya menggunakan satu kabel tanpa sambungan
-D. memakai kabel dari karet tanpa tembaga
 
 **(2) Pilihan Jawaban:**
 A. tersambung (tertutup) menggunakan kabel konduktor dari kutub baterai ke lampu
@@ -2572,10 +2272,6 @@ D. memakai kabel dari karet tanpa tembaga
 
 **(1) Soal:**
 Saat petir sedang sangat dekat, disarankan menjauh dari jendela, pipa logam, dan bak air. Alasannya adalah...
-A. logam dan air menjadi panas karena disinari petir
-B. petir dapat menyalur lewat bahan konduktor seperti kabel, logam, dan air
-C. jendela menjadi retak karena suara petir
-D. dengan menjauh kita bisa melihat petir lebih jelas
 
 **(2) Pilihan Jawaban:**
 A. logam dan air menjadi panas karena disinari petir
@@ -2604,10 +2300,6 @@ D. dengan menjauh kita bisa melihat petir lebih jelas
 
 **(1) Soal:**
 Benda Q yang bermuatan positif menarik benda R yang netral. Setelah menempel beberapa waktu, R kadang terlontar menjauh. Peristiwa paling mirip dengan ini adalah...
-A. kertas kecil yang menempel pada penggaris bermuatan lalu terlontar menjauh
-B. magnet yang menarik baut besi lalu bautnya rontok
-C. cahaya yang memantul dari cermin
-D. air yang menguap saat dipanaskan
 
 **(2) Pilihan Jawaban:**
 A. kertas kecil yang menempel pada penggaris bermuatan lalu terlontar menjauh
@@ -2636,10 +2328,6 @@ D. air yang menguap saat dipanaskan
 
 **(1) Soal:**
 Sebuah benda yang bermuatan negatif dihubungkan ke tanah dengan kawat penghantar. Sesudahnya benda menjadi netral. Hal ini terjadi karena...
-A. kelebihan elektron pada benda mengalir ke tanah
-B. tanah mengirim proton sebanyak-banyaknya ke benda
-C. tanah memanaskan benda sehingga muatannya hilang
-D. benda menyerap air dari tanah
 
 **(2) Pilihan Jawaban:**
 A. kelebihan elektron pada benda mengalir ke tanah
@@ -2668,10 +2356,6 @@ D. benda menyerap air dari tanah
 
 **(1) Soal:**
 Ketika penangkal petir menyalurkan muatan petir ke dalam tanah, yang terjadi pada muatan tersebut adalah...
-A. muatan diurai/dinetralkan dengan aman di dalam tanah
-B. muatan disimpan di dalam bangunan untuk dipakai
-C. muatan diubah menjadi air hujan
-D. muatan dipantulkan kembali ke awan
 
 **(2) Pilihan Jawaban:**
 A. muatan diurai/dinetralkan dengan aman di dalam tanah
@@ -2700,10 +2384,6 @@ D. muatan dipantulkan kembali ke awan
 
 **(1) Soal:**
 Dua balon digantung bersebelahan setelah keduanya digosok pada rambut yang sama. Kedua balon terlihat saling menjauh. Pernyataan yang paling tepat sesuai data percobaan adalah...
-A. kedua balon bermuatan sejenis sehingga tolak-menolak
-B. kedua balon bermuatan beda jenis sehingga tolak-menolak
-C. kedua balon netral sehingga saling menolak
-D. satu balon kosong dan satu balon berisi air
 
 **(2) Pilihan Jawaban:**
 A. kedua balon bermuatan sejenis sehingga tolak-menolak
@@ -2732,10 +2412,6 @@ D. satu balon kosong dan satu balon berisi air
 
 **(1) Soal:**
 Rina menggosok penggaris pada kain wol. Potongan kertas kecil menempel di penggaris. Saat penggaris digosok lebih lama, jumlah potongan kertas yang menempel lebih banyak. Simpulan yang paling tepat untuk percobaan ini adalah...
-A. semakin lama digosok, semakin banyak muatan terkumpul sehingga tarikannya semakin kuat
-B. kertas menjadi semakin ringan setelah digosok
-C. penggaris menjadi semakin panas sehingga kertas menempel
-D. udara di sekitar penggaris menjadi lebih kering
 
 **(2) Pilihan Jawaban:**
 A. semakin lama digosok, semakin banyak muatan terkumpul sehingga tarikannya semakin kuat
@@ -2765,10 +2441,6 @@ D. udara di sekitar penggaris menjadi lebih kering
 
 **(1) Soal:**
 Penggaris P menolak balon B dan penggaris P menarik batang kaca K yang telah digosok sutra (K bermuatan positif). Muatan penggaris P dan balon B berturut-turut adalah...
-A. positif dan positif
-B. negatif dan negatif
-C. negatif dan positif
-D. positif dan negatif
 
 **(2) Pilihan Jawaban:**
 A. positif dan positif
@@ -2798,10 +2470,6 @@ D. positif dan negatif
 
 **(1) Soal:**
 "Sisir plastik yang digosok wol menjadi positif sedangkan kaca yang digosok sutra menjadi negatif." Pernyataan ini...
-A. salah, karena kaca yang digosok sutra adalah positif dan sisir plastik yang digosok wol adalah negatif
-B. benar, karena semua benda yang digosok menjadi positif
-C. benar, karena jenis muatan selalu berubah-ubah tanpa aturan
-D. salah, karena plastik tidak pernah bisa bermuatan
 
 **(2) Pilihan Jawaban:**
 A. salah, karena kaca yang digosok sutra adalah positif dan sisir plastik yang digosok wol adalah negatif
@@ -2831,10 +2499,6 @@ D. salah, karena plastik tidak pernah bisa bermuatan
 
 **(1) Soal:**
 Batang P yang bermuatan negatif didekatkan (tanpa menyentuh) kepala elektroskop netral; daun elektroskop membuka. Kepala elektroskop kemudian disentuh jari, daun menutup. Setelah jari dilepas dan batang P dijauhkan, muatan elektroskop menjadi...
-A. bermuatan ganda
-B. bermuatan positif
-C. bermuatan negatif
-D. tepat netral
 
 **(2) Pilihan Jawaban:**
 A. bermuatan ganda
@@ -2864,10 +2528,6 @@ D. tepat netral
 
 **(1) Soal:**
 Penggaris yang sudah digosok kuat mula-mula mampu menarik banyak serpihan kertas. Setelah beberapa menit, serpihan yang tertarik semakin sedikit. Penyebab yang paling mungkin adalah...
-A. penggaris kehabisan proton sehingga muatannya habis
-B. sebagian muatan hilang dinetralkan udara lembap dan saat menyentuh serpihan kertas
-C. serpihan kertas bertambah berat seiring waktu
-D. penggaris menjadi panas dan kehilangan elektron seluruhnya
 
 **(2) Pilihan Jawaban:**
 A. penggaris kehabisan proton sehingga muatannya habis
@@ -2896,10 +2556,6 @@ D. penggaris menjadi panas dan kehilangan elektron seluruhnya
 
 **(1) Soal:**
 Banyak orang mengira mobil aman saat petir karena ban karetnya mengisolasi listrik. Pendapat itu...
-A. keliru; yang membuat aman adalah kerangka logam mobil yang menyalurkan muatan petir mengelilingi mobil ke tanah
-B. benar, karena ban karet sangat tebal
-C. benar, karena kaca mobil juga isolator
-D. keliru; mobil sebenarnya selalu berbahaya saat petir
 
 **(2) Pilihan Jawaban:**
 A. keliru; yang membuat aman adalah kerangka logam mobil yang menyalurkan muatan petir mengelilingi mobil ke tanah
@@ -2928,10 +2584,6 @@ D. keliru; mobil sebenarnya selalu berbahaya saat petir
 
 **(1) Soal:**
 Sebuah rumah berjendela kaca, berdinding kayu, berkerangka besi, dan kabel listriknya berlapis plastik. Saat petir menyambar atap rumah tanpa penangkal, jalur yang paling mungkin dilalui muatan petir menuju tanah adalah...
-A. kerangka besi rumah karena bersifat konduktor
-B. dinding kayu karena paling tebal
-C. genteng tanah liat karena paling tinggi
-D. lapisan plastik pembungkus kabel
 
 **(2) Pilihan Jawaban:**
 A. kerangka besi rumah karena bersifat konduktor
@@ -2960,10 +2612,6 @@ D. lapisan plastik pembungkus kabel
 
 **(1) Soal:**
 Sebuah elektroskop netral: saat batang bermuatan didekatkan tanpa sentuh, daun membuka; saat batang dijauhkan, daun menutup kembali. Perbedaan utama muatan hasil cara ini (induksi) dibanding cara sentuhan adalah...
-A. muatan hasil induksi bersifat sementara dan hilang saat penyebabnya dijauhkan
-B. muatan hasil induksi bersifat permanen selamanya
-C. muatan hasil induksi tidak terdeteksi oleh elektroskop
-D. muatan hasil induksi selalu bermuatan positif
 
 **(2) Pilihan Jawaban:**
 A. muatan hasil induksi bersifat sementara dan hilang saat penyebabnya dijauhkan
@@ -2992,10 +2640,6 @@ D. muatan hasil induksi selalu bermuatan positif
 
 **(1) Soal:**
 Banyak yang mengira listrik statis sama sekali tidak berbahaya karena tidak terasa seperti arus listrik rumah. Pernyataan yang paling tepat adalah...
-A. salah, karena petir adalah listrik statis berenergi sangat besar yang bisa melukai atau membakar
-B. benar, karena tidak pernah ada korban petir
-C. benar, karena listrik statis hanya ada di mainan anak
-D. salah, karena listrik statis tidak pernah terjadi di alam
 
 **(2) Pilihan Jawaban:**
 A. salah, karena petir adalah listrik statis berenergi sangat besar yang bisa melukai atau membakar
@@ -3024,10 +2668,6 @@ D. salah, karena listrik statis tidak pernah terjadi di alam
 
 **(1) Soal:**
 Mesin fotokopi dan alat pembersih udara elektrostatis sama-sama bekerja berdasarkan prinsip yang sama, yaitu...
-A. muatan listrik menarik benda atau partikel yang bermuatan berbeda
-B. magnet menarik serbuk besi
-C. panas menguapkan zat cair
-D. tekanan udara meniup benda ringan
 
 **(2) Pilihan Jawaban:**
 A. muatan listrik menarik benda atau partikel yang bermuatan berbeda
@@ -3056,10 +2696,6 @@ D. tekanan udara meniup benda ringan
 
 **(1) Soal:**
 Tiga benda X, Y, Z pada percobaan: X menarik Y; X menarik Z; Y menolak Z. Jika Y bermuatan positif, maka muatan X dan Z berturut-turut adalah...
-A. X negatif dan Z positif
-B. X positif dan Z negatif
-C. X negatif dan Z negatif
-D. X dan Z keduanya bisa berapa saja tanpa aturan
 
 **(2) Pilihan Jawaban:**
 A. X negatif dan Z positif
@@ -3089,10 +2725,6 @@ D. X dan Z keduanya bisa berapa saja tanpa aturan
 
 **(1) Soal:**
 Pengamatan di lapangan menunjukkan petir lebih sering menyambar ujung pohon kelapa yang tinggi daripada pohon pendek di dekatnya. Alasan yang paling tepat adalah...
-A. pohon tinggi merupakan titik tertinggi yang paling mungkin disambar petir
-B. buah kelapa bersifat menarik muatan listrik
-C. pohon pendek selalu bermuatan positif
-D. petir hanya menyambar benda yang berbuah
 
 **(2) Pilihan Jawaban:**
 A. pohon tinggi merupakan titik tertinggi yang paling mungkin disambar petir
@@ -3121,10 +2753,6 @@ D. petir hanya menyambar benda yang berbuah
 
 **(1) Soal:**
 Seseorang terjebak hujan petir di padang terbuka tanpa bangunan atau mobil. Tindakan yang paling tepat adalah...
-A. berjongkok membungkuk dengan kedua kaki rapat, tubuh serendah mungkin
-B. berlari kencang menuju pohon untuk berteduh
-C. berdiri tegak sambil mengangkat tangan tinggi
-D. berbaring telentang merentangkan tangan dan kaki
 
 **(2) Pilihan Jawaban:**
 A. berjongkok membungkuk dengan kedua kaki rapat, tubuh serendah mungkin
@@ -3153,10 +2781,6 @@ D. berbaring telentang merentangkan tangan dan kaki
 
 **(1) Soal:**
 Menurut hukum kekekalan muatan, setelah penggaris plastik dan kain wol digosok-gosokkan (sampai penggaris bermuatan negatif), jumlah muatan total penggaris dan wol bersama-sama adalah...
-A. tetap netral, karena elektron hanya berpindah di antara keduanya
-B. menjadi negatif karena elektron bertambah
-C. menjadi positif karena proton bertambah
-D. bertambah banyak setiap kali digosok
 
 **(2) Pilihan Jawaban:**
 A. tetap netral, karena elektron hanya berpindah di antara keduanya
@@ -3185,10 +2809,6 @@ D. bertambah banyak setiap kali digosok
 
 **(1) Soal:**
 Robi menggantung dua sedotan plastik yang telah digosok kain wol pada dua tali sehingga menggantung sejajar. Kedua sedotan saling menjauh. Ketika salah satu sedotan didekatkan ke batang kaca bermuatan positif, sedotan itu tertarik. Muatan kedua sedotan adalah...
-A. keduanya bermuatan negatif
-B. keduanya bermuatan positif
-C. satu positif dan satu negatif
-D. keduanya netral
 
 **(2) Pilihan Jawaban:**
 A. keduanya bermuatan negatif
@@ -3218,10 +2838,6 @@ D. keduanya netral
 
 **(1) Soal:**
 "Petir terjadi karena awan menyentuh bumi, lalu bumi memantulkan cahaya." Pernyataan ini...
-A. salah, karena petir adalah lompatan muatan listrik dari awan ke bumi atau awan lain saat beda muatan sangat besar
-B. benar, karena awan memang menyentuh puncak gunung
-C. benar, karena bumi berpijar seperti lampu
-D. benar, karena petir bersal dari cahaya bulan
 
 **(2) Pilihan Jawaban:**
 A. salah, karena petir adalah lompatan muatan listrik dari awan ke bumi atau awan lain saat beda muatan sangat besar
@@ -3250,10 +2866,6 @@ D. benar, karena petir bersal dari cahaya bulan
 
 **(1) Soal:**
 Saat badai petir sangat dekat, keluarga disarankan mematikan sementara alat elektronik dan mencabut kabel dari stop kontak. Alasan yang paling tepat adalah...
-A. petir dapat menyalur lewat kabel/instalasi dan merusak alat yang tersambung
-B. listrik menjadi lebih mahal saat petir
-C. alat menjadi kedinginan jika terus menyala
-D. untuk menghemat baterai alat-alat tersebut
 
 **(2) Pilihan Jawaban:**
 A. petir dapat menyalur lewat kabel/instalasi dan merusak alat yang tersambung
@@ -3282,10 +2894,6 @@ D. untuk menghemat baterai alat-alat tersebut
 
 **(1) Soal:**
 Elektroskop bermuatan negatif dihubungkan ke tanah menggunakan kawat tembaga. Daun elektroskop menutup. Hal ini terjadi karena...
-A. elektron mengalir dari elektroskop ke tanah melalui kawat konduktor, sehingga muatannya berkurang
-B. elektron dari tanah mengalir masuk dan memperkuat muatan negatif
-C. kawat tembaga menyerap proton elektroskop
-D. kawat memanaskan daun hingga menyatu
 
 **(2) Pilihan Jawaban:**
 A. elektron mengalir dari elektroskop ke tanah melalui kawat konduktor, sehingga muatannya berkurang
@@ -3314,10 +2922,6 @@ D. kawat memanaskan daun hingga menyatu
 
 **(1) Soal:**
 Urutan yang paling tepat menggambarkan mekanisme petir dan penanggulangannya adalah...
-A. gesekan butiran air/es → awan bermuatan → beda muatan sangat besar → lompatan muatan (kilat) → diarahkan penangkal petir ke tanah
-B. awan bermagnet → menarik besi di tanah → menimbulkan kilat
-C. angin kencang → menggerakkan elektron → awan kehabisan muatan → tidak ada petir
-D. bulan memancarkan cahaya → cahaya menciptakan muatan → petir menyambar
 
 **(2) Pilihan Jawaban:**
 A. gesekan butiran air/es → awan bermuatan → beda muatan sangat besar → lompatan muatan (kilat) → diarahkan penangkal petir ke tanah
@@ -3346,10 +2950,6 @@ D. bulan memancarkan cahaya → cahaya menciptakan muatan → petir menyambar
 
 **(1) Soal:**
 Setelah mempelajari sub-bab listrik statis, pernyataan yang paling tepat untuk merangkum konsepnya adalah...
-A. listrik statis timbul karena pemisahan muatan (elektron berpindah), dan pemahamannya dipakai untuk aplikasi (fotokopi, filter udara) serta keselamatan saat petir
-B. listrik statis selalu berbahaya dan sama sekali tidak berguna
-C. listrik statis tidak berbeda dengan listrik dinamis
-D. listrik statis berasal dari magnet bumi
 
 **(2) Pilihan Jawaban:**
 A. listrik statis timbul karena pemisahan muatan (elektron berpindah), dan pemahamannya dipakai untuk aplikasi (fotokopi, filter udara) serta keselamatan saat petir

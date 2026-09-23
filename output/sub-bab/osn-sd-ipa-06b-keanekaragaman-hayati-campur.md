@@ -151,10 +151,6 @@ Langkah 3: Jawaban = **A. In-situ**.
 
 **(1) Soal:**
 Banyak varietas padi di Indonesia memiliki warna gabah dan ketahanan berbeda, tetapi semuanya termasuk satu spesies yang sama (Oryza sativa). Perbedaan ini merupakan contoh keanekaragaman hayati tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Populasi
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -183,10 +179,6 @@ D. Populasi
 
 **(1) Soal:**
 Dua ekor kucing anggora di rumah Bu Sari — yang satu berbulu putih, yang lain abu-abu — masih satu ras. Perbedaan warna bulu ini terutama disebabkan oleh...
-A. Perbedaan jumlah makanan
-B. Gen yang berbeda
-C. Perbedaan tempat tidur
-D. Perbedaan iklim kota
 
 **(2) Pilihan Jawaban:**
 A. Perbedaan jumlah makanan
@@ -215,10 +207,6 @@ D. Perbedaan iklim kota
 
 **(1) Soal:**
 Kelompok berikut yang merupakan contoh keanekaragaman hayati tingkat gen adalah...
-A. Sawah, rawa, dan danau
-B. Kucing, harimau, dan singa
-C. Varietas mangga harum manis dan mangga golek
-D. Hutan hujan dan hutan bakau
 
 **(2) Pilihan Jawaban:**
 A. Sawah, rawa, dan danau
@@ -247,10 +235,6 @@ D. Hutan hujan dan hutan bakau
 
 **(1) Soal:**
 Pasangan berikut yang BUKAN merupakan contoh keanekaragaman hayati tingkat gen adalah...
-A. Warna bulu ayam dalam satu kandang berbeda-beda
-B. Padi varietas Ciherang dan padi IR-64
-C. Kucing anggora berbulu putih dan berbulu abu-abu
-D. Gajah sumatra dan gajah afrika
 
 **(2) Pilihan Jawaban:**
 A. Warna bulu ayam dalam satu kandang berbeda-beda
@@ -279,10 +263,6 @@ D. Gajah sumatra dan gajah afrika
 
 **(1) Soal:**
 Di dalam satu spesies manusia terdapat perbedaan warna kulit, bentuk rambut, dan golongan darah. Dilihat dari tingkat keanekaragaman hayati, perbedaan ini termasuk tingkat...
-A. Ekosistem
-B. Jenis
-C. Populasi
-D. Gen
 
 **(2) Pilihan Jawaban:**
 A. Ekosistem
@@ -311,10 +291,6 @@ D. Gen
 
 **(1) Soal:**
 Tempat yang paling tepat untuk MENCARI contoh keanekaragaman hayati tingkat gen adalah...
-A. Kawasan hutan dan kebun
-B. Sawah dan rawa yang berdekatan
-C. Sekelompok sapi betina dalam satu peternakan
-D. Laut dan pantai
 
 **(2) Pilihan Jawaban:**
 A. Kawasan hutan dan kebun
@@ -343,10 +319,6 @@ D. Laut dan pantai
 
 **(1) Soal:**
 Perbedaan antara harimau sumatra dan kucing peliharaan merupakan keanekaragaman hayati tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Komunitas
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -375,10 +347,6 @@ D. Komunitas
 
 **(1) Soal:**
 Dari pasangan berikut, yang merupakan dua spesies berbeda adalah...
-A. Padi dan jagung
-B. Ayam kampung jantan dan ayam kampung betina
-C. Mawar merah dan mawar putih
-D. Pisang ambon dan pisang mas
 
 **(2) Pilihan Jawaban:**
 A. Padi dan jagung
@@ -407,10 +375,6 @@ D. Pisang ambon dan pisang mas
 
 **(1) Soal:**
 Keanekaragaman tingkat jenis ditandai dengan adanya perbedaan antara...
-A. Spesies yang tidak dapat saling kawin sampai menghasilkan keturunan yang subur
-B. Individu jantan dan betina pada spesies yang sama
-C. Warna bulu dalam satu spesies
-D. Tempat hidup suatu spesies yang berpindah-pindah
 
 **(2) Pilihan Jawaban:**
 A. Spesies yang tidak dapat saling kawin sampai menghasilkan keturunan yang subur
@@ -439,10 +403,6 @@ D. Tempat hidup suatu spesies yang berpindah-pindah
 
 **(1) Soal:**
 Contoh keanekaragaman hayati tingkat jenis yang paling tepat adalah...
-A. Dua ekor sapi, satu berwarna putih dan satu cokelat
-B. Sapi, kerbau, dan kambing di suatu kandang
-C. Pohon kelapa di pantai dan di pegunungan
-D. Ayam ras broiler dan ayam kampung
 
 **(2) Pilihan Jawaban:**
 A. Dua ekor sapi, satu berwarna putih dan satu cokelat
@@ -471,10 +431,6 @@ D. Ayam ras broiler dan ayam kampung
 
 **(1) Soal:**
 Pada sawah Pak Tani hidup padi, wereng, katak, dan ular. Keanekaragaman makhluk hidup pada pernyataan tersebut termasuk tingkat...
-A. Gen
-B. Ekosistem
-C. Jenis
-D. Individu
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -503,10 +459,6 @@ D. Individu
 
 **(1) Soal:**
 Kucing dan harimau sama-sama pemakan daging, tetapi ilmuwan menyebut keduanya spesies berbeda. Alasan paling tepat adalah...
-A. Bentuk keduanya hampir sama
-B. Keduanya berkaki empat
-C. Keduanya bisa tinggal di tempat yang sama
-D. Meskipun dapat kawin silang, keturunan keduanya umumnya tidak subur
 
 **(2) Pilihan Jawaban:**
 A. Bentuk keduanya hampir sama
@@ -535,10 +487,6 @@ D. Meskipun dapat kawin silang, keturunan keduanya umumnya tidak subur
 
 **(1) Soal:**
 Hutan hujan tropis, terumbu karang, sawah, dan gurun merupakan contoh keanekaragaman hayati tingkat...
-A. Gen
-B. Jenis
-C. Populasi
-D. Ekosistem
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -567,10 +515,6 @@ D. Ekosistem
 
 **(1) Soal:**
 Perbedaan makhluk hidup beserta lingkungannya di sungai, rawa, dan laut menunjukkan keanekaragaman tingkat...
-A. Gen
-B. Jenis
-C. Ekosistem
-D. Komunitas
 
 **(2) Pilihan Jawaban:**
 A. Gen
@@ -599,10 +543,6 @@ D. Komunitas
 
 **(1) Soal:**
 Sawah, ladang, dan kebun merupakan contoh ekosistem...
-A. Alami
-B. Buatan
-C. Air tawar
-D. Gurun
 
 **(2) Pilihan Jawaban:**
 A. Alami
@@ -631,10 +571,6 @@ D. Gurun
 
 **(1) Soal:**
 Contoh ekosistem alami yang banyak terdapat di Indonesia adalah...
-A. Hutan hujan tropis Kalimantan
-B. Taman kota Surabaya
-C. Kebun raya Bogor
-D. Akuarium air laut
 
 **(2) Pilihan Jawaban:**
 A. Hutan hujan tropis Kalimantan
@@ -663,10 +599,6 @@ D. Akuarium air laut
 
 **(1) Soal:**
 Terumbu karang merupakan ekosistem laut yang sangat penting karena...
-A. Menjadi tempat tinggal dan mencari makan bagi banyak ikan
-B. Membuat air laut tampak berwarna-warni
-C. Menjadi tempat membuang sampah di laut
-D. Menjadi alat untuk menangkap ikan
 
 **(2) Pilihan Jawaban:**
 A. Menjadi tempat tinggal dan mencari makan bagi banyak ikan
@@ -695,10 +627,6 @@ D. Menjadi alat untuk menangkap ikan
 
 **(1) Soal:**
 Jamur tiram dapat dimakan manusia, tetapi tubuhnya tidak memiliki klorofil. Berdasarkan ciri tersebut, jamur tiram termasuk kingdom...
-A. Plantae
-B. Fungi
-C. Protista
-D. Monera
 
 **(2) Pilihan Jawaban:**
 A. Plantae
@@ -727,10 +655,6 @@ D. Monera
 
 **(1) Soal:**
 Bakteri termasuk dalam kingdom Monera karena selnya...
-A. Memiliki klorofil
-B. Berinti sel yang besar
-C. Tidak memiliki membran inti
-D. Selalu membentuk jaringan tubuh
 
 **(2) Pilihan Jawaban:**
 A. Memiliki klorofil
@@ -759,10 +683,6 @@ D. Selalu membentuk jaringan tubuh
 
 **(1) Soal:**
 Dari daftar berikut, yang termasuk kingdom Animalia adalah...
-A. Jamur merang
-B. Ganggang hijau
-C. Amoeba
-D. Ikan lele
 
 **(2) Pilihan Jawaban:**
 A. Jamur merang
@@ -791,10 +711,6 @@ D. Ikan lele
 
 **(1) Soal:**
 Ciri utama tumbuhan (Plantae) yang membedakannya dengan jamur adalah...
-A. Bersel satu
-B. Tidak berklorofil
-C. Bernapas dengan insang
-D. Memiliki klorofil sehingga mampu berfotosintesis
 
 **(2) Pilihan Jawaban:**
 A. Bersel satu
@@ -823,10 +739,6 @@ D. Memiliki klorofil sehingga mampu berfotosintesis
 
 **(1) Soal:**
 Amoeba dan Paramecium termasuk kingdom Protista karena keduanya...
-A. Tidak memiliki inti sel
-B. Bersel banyak dan berjaringan
-C. Uniseluler dan sudah memiliki inti (eukariot)
-D. Memiliki klorofil yang jelas
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki inti sel
@@ -855,10 +767,6 @@ D. Memiliki klorofil yang jelas
 
 **(1) Soal:**
 Virus tidak dimasukkan ke dalam klasifikasi 5 kingdom karena...
-A. Berukuran sangat besar
-B. Bukan sel dan tidak dapat berkembang biak sendiri di luar sel inang
-C. Memiliki klorofil
-D. Mempunyai inti sel ganda
 
 **(2) Pilihan Jawaban:**
 A. Berukuran sangat besar
@@ -887,10 +795,6 @@ D. Mempunyai inti sel ganda
 
 **(1) Soal:**
 Urutan klasifikasi makhluk hidup dari tingkat tertinggi ke terendah yang benar adalah...
-A. Kingdom, filum, kelas, ordo, famili, genus, spesies
-B. Spesies, genus, famili, ordo, kelas, filum, kingdom
-C. Kingdom, kelas, filum, ordo, famili, spesies, genus
-D. Filum, kingdom, kelas, ordo, genus, famili, spesies
 
 **(2) Pilihan Jawaban:**
 A. Kingdom, filum, kelas, ordo, famili, genus, spesies
@@ -919,10 +823,6 @@ D. Filum, kingdom, kelas, ordo, genus, famili, spesies
 
 **(1) Soal:**
 Perhatikan ciri berikut: (1) memiliki klorofil, (2) berdinding sel dari selulosa, (3) tidak dapat berpindah bebas. Ciri-ciri tersebut dimiliki oleh kingdom...
-A. Plantae
-B. Animalia
-C. Fungi
-D. Monera
 
 **(2) Pilihan Jawaban:**
 A. Plantae
@@ -951,10 +851,6 @@ D. Monera
 
 **(1) Soal:**
 Dalam pembuatan yoghurt, susu diubah menjadi asam sehingga menggumpal. Mikroorganisme yang berperan dalam proses ini adalah...
-A. Jamur Rhizopus
-B. Bakteri Lactobacillus
-C. Virus corona
-D. Amoeba
 
 **(2) Pilihan Jawaban:**
 A. Jamur Rhizopus
@@ -983,10 +879,6 @@ D. Amoeba
 
 **(1) Soal:**
 Jamur yang dimanfaatkan dalam pembuatan tempe adalah...
-A. Saccharomyces cerevisiae
-B. Penicillium notatum
-C. Rhizopus oligosporus
-D. Lactobacillus bulgaricus
 
 **(2) Pilihan Jawaban:**
 A. Saccharomyces cerevisiae
@@ -1015,10 +907,6 @@ D. Lactobacillus bulgaricus
 
 **(1) Soal:**
 Ketika roti difermentasi, adonan menjadi mengembang. Gas yang dihasilkan ragi (Saccharomyces) sehingga adonan mengembang adalah...
-A. Oksigen
-B. Nitrogen
-C. Hidrogen
-D. Karbon dioksida
 
 **(2) Pilihan Jawaban:**
 A. Oksigen
@@ -1047,10 +935,6 @@ D. Karbon dioksida
 
 **(1) Soal:**
 Bakteri Rhizobium yang hidup pada akar tanaman kacang-kacangan sangat bermanfaat karena...
-A. Membuat akar menjadi beracun
-B. Mengubah tanah menjadi basah
-C. Menghambat pertumbuhan tanaman lain
-D. Mengikat nitrogen dari udara sehingga menyuburkan tanah
 
 **(2) Pilihan Jawaban:**
 A. Membuat akar menjadi beracun
@@ -1079,10 +963,6 @@ D. Mengikat nitrogen dari udara sehingga menyuburkan tanah
 
 **(1) Soal:**
 Jamur dari genus Penicillium bermanfaat bagi kesehatan manusia karena menghasilkan...
-A. Racun yang membasmi hama
-B. Vitamin D dari sinar matahari
-C. Antibiotik penisilin
-D. Klorofil untuk obat herbal
 
 **(2) Pilihan Jawaban:**
 A. Racun yang membasmi hama
@@ -1111,10 +991,6 @@ D. Klorofil untuk obat herbal
 
 **(1) Soal:**
 Pasangan mikroorganisme dan produk olahannya yang paling tepat adalah...
-A. Saccharomyces → yoghurt
-B. Rhizopus → tempe
-C. Lactobacillus → tempe
-D. Penicillium → roti
 
 **(2) Pilihan Jawaban:**
 A. Saccharomyces → yoghurt
@@ -1143,10 +1019,6 @@ D. Penicillium → roti
 
 **(1) Soal:**
 Komodo merupakan hewan endemik Indonesia. Habitat asli komodo terdapat di kawasan Pulau...
-A. Komodo, Nusa Tenggara
-B. Kalimantan
-C. Papua
-D. Sumatra
 
 **(2) Pilihan Jawaban:**
 A. Komodo, Nusa Tenggara
@@ -1175,10 +1047,6 @@ D. Sumatra
 
 **(1) Soal:**
 Hewan endemik berbulu putih dengan jambul biru kehitaman di kepala dan suara merdu ini hanya bisa ditemukan di Bali. Hewan tersebut adalah...
-A. Jalak bali
-B. Cendrawasih
-C. Maleo
-D. Kakatua raja
 
 **(2) Pilihan Jawaban:**
 A. Jalak bali
@@ -1207,10 +1075,6 @@ D. Kakatua raja
 
 **(1) Soal:**
 Harimau sumatra, orangutan, dan tapir merupakan contoh fauna Indonesia yang dipengaruhi oleh wilayah persebaran...
-A. Australia (Paparan Sahul)
-B. Asia (Paparan Sunda)
-C. Eropa
-D. Kutub Utara
 
 **(2) Pilihan Jawaban:**
 A. Australia (Paparan Sahul)
@@ -1239,10 +1103,6 @@ D. Kutub Utara
 
 **(1) Soal:**
 Fauna khas daerah peralihan di Indonesia antara lain adalah...
-A. Kanguru dan kasuari
-B. Harimau dan gajah
-C. Anoa dan babirusa
-D. Badak dan orangutan
 
 **(2) Pilihan Jawaban:**
 A. Kanguru dan kasuari
@@ -1271,10 +1131,6 @@ D. Badak dan orangutan
 
 **(1) Soal:**
 Burung cendrawasih dengan keindahan bulunya banyak dijumpai di hutan...
-A. Sumatra
-B. Kalimantan
-C. Bali
-D. Papua
 
 **(2) Pilihan Jawaban:**
 A. Sumatra
@@ -1303,10 +1159,6 @@ D. Papua
 
 **(1) Soal:**
 Bunga terkenal sangat besar, berdiameter sampai 1 meter, dan merupakan tumbuhan langka dari Sumatera adalah...
-A. Anggrek bulan
-B. Bunga melati
-C. Bunga sepatu
-D. Rafflesia arnoldi
 
 **(2) Pilihan Jawaban:**
 A. Anggrek bulan
@@ -1335,10 +1187,6 @@ D. Rafflesia arnoldi
 
 **(1) Soal:**
 Badak bercula satu (badak jawa) di Indonesia dilindungi di Taman Nasional...
-A. Bromo Tengger Semeru
-B. Gunung Komodo
-C. Ujung Kulon
-D. Lorentz
 
 **(2) Pilihan Jawaban:**
 A. Bromo Tengger Semeru
@@ -1367,10 +1215,6 @@ D. Lorentz
 
 **(1) Soal:**
 Pohon kina dimanfaatkan manusia terutama sebagai bahan...
-A. Bahan bakar rumah tangga
-B. Obat penyakit malaria
-C. Pakan ternak
-D. Pewarna pakaian
 
 **(2) Pilihan Jawaban:**
 A. Bahan bakar rumah tangga
@@ -1399,10 +1243,6 @@ D. Pewarna pakaian
 
 **(1) Soal:**
 Tumbuhan berikut yang dimanfaatkan sebagai sumber bahan pangan pokok adalah...
-A. Padi
-B. Kapas
-C. Kina
-D. Damar
 
 **(2) Pilihan Jawaban:**
 A. Padi
@@ -1431,10 +1271,6 @@ D. Damar
 
 **(1) Soal:**
 Kapas dan sutra dimanfaatkan oleh manusia terutama sebagai bahan...
-A. Sandang (pakaian)
-B. Pangan (makanan)
-C. Obat-obatan
-D. Bahan bangunan
 
 **(2) Pilihan Jawaban:**
 A. Sandang (pakaian)
@@ -1463,10 +1299,6 @@ D. Bahan bangunan
 
 **(1) Soal:**
 Peran lebah madu dalam ekosistem yang sangat bermanfaat bagi tumbuhan berbunga adalah sebagai...
-A. Pemangsa hama
-B. Penyerbuk bunga
-C. Pengurai sampah
-D. Inang parasit
 
 **(2) Pilihan Jawaban:**
 A. Pemangsa hama
@@ -1495,10 +1327,6 @@ D. Inang parasit
 
 **(1) Soal:**
 Temulawak, kunyit, dan jahe sering dimanfaatkan oleh masyarakat sebagai bahan...
-A. Konstruksi rumah
-B. Bahan sandang
-C. Obat tradisional dan jamu
-D. Pelengkap bangunan kapal
 
 **(2) Pilihan Jawaban:**
 A. Konstruksi rumah
@@ -1527,10 +1355,6 @@ D. Pelengkap bangunan kapal
 
 **(1) Soal:**
 Cagar alam dan suaka margasatwa adalah kawasan yang ditetapkan pemerintah untuk melindungi flora dan fauna. Upaya semacam ini dilakukan secara...
-A. Ex-situ
-B. Introduksi
-C. Domestikasi
-D. In-situ
 
 **(2) Pilihan Jawaban:**
 A. Ex-situ
@@ -1559,10 +1383,6 @@ D. In-situ
 
 **(1) Soal:**
 Kebun binatang dan kebun raya merupakan contoh upaya pelestarian keanekaragaman hayati secara...
-A. In-situ
-B. Alami
-C. Habitat
-D. Ex-situ
 
 **(2) Pilihan Jawaban:**
 A. In-situ
@@ -1591,10 +1411,6 @@ D. Ex-situ
 
 **(1) Soal:**
 Suaka margasatwa adalah kawasan yang secara khusus digunakan untuk melindungi...
-A. Tumbuhan langka
-B. Semua jenis ikan
-C. Hewan liar
-D. Jenis-jenis jamur
 
 **(2) Pilihan Jawaban:**
 A. Tumbuhan langka
@@ -1623,10 +1439,6 @@ D. Jenis-jenis jamur
 
 **(1) Soal:**
 Perburuan liar, penebangan hutan, dan pencemaran secara terus-menerus akan menyebabkan keanekaragaman hayati...
-A. Bertambah banyak
-B. Menurun dan terancam punah
-C. Tetap tidak berubah
-D. Tidak berpengaruh apa pun
 
 **(2) Pilihan Jawaban:**
 A. Bertambah banyak
@@ -1655,10 +1467,6 @@ D. Tidak berpengaruh apa pun
 
 **(1) Soal:**
 Agar populasi komodo tidak punah, upaya yang paling tepat dilakukan adalah...
-A. Melindungi habitat aslinya dan mengawasi perburuan
-B. Memindahkan semua komodo ke dalam rumah warga
-C. Memberi komodo makan di pasar umum
-D. Membiarkan tanpa ada aturan perlindungan
 
 **(2) Pilihan Jawaban:**
 A. Melindungi habitat aslinya dan mengawasi perburuan
@@ -1687,10 +1495,6 @@ D. Membiarkan tanpa ada aturan perlindungan
 
 **(1) Soal:**
 Hutan bakau (mangrove) perlu dijaga kelestariannya karena berfungsi...
-A. Mencegah abrasi pantai dan menjadi tempat ikan berkembang biak
-B. Tempat membuang limbah pabrik
-C. Mengurangi pasir pantai
-D. Membuat air laut menjadi asin
 
 **(2) Pilihan Jawaban:**
 A. Mencegah abrasi pantai dan menjadi tempat ikan berkembang biak
@@ -1719,10 +1523,6 @@ D. Membuat air laut menjadi asin
 
 **(1) Soal:**
 Untuk menekan perdagangan satwa langka dari berbagai negara, dunia memiliki perjanjian internasional yang disebut...
-A. WHO
-B. CITES
-C. FAO
-D. IMF
 
 **(2) Pilihan Jawaban:**
 A. WHO
@@ -1751,10 +1551,6 @@ D. IMF
 
 **(1) Soal:**
 Pak Budi menyilangkan mangga arum manis (rasa manis, daging tebal) dengan mangga golek (buah besar). Dari anakan hasil persilangan, ia memilih yang paling manis untuk ditanam lagi. Kegiatan Pak Budi memanfaatkan keanekaragaman hayati tingkat...
-A. Ekosistem, karena melibatkan kebun yang luas
-B. Jenis, karena arum manis dan golek adalah dua spesies berbeda
-C. Gen, karena ia memanfaatkan keragaman sifat dalam satu spesies mangga
-D. Komunitas, karena melibatkan banyak pohon sekaligus
 
 **(2) Pilihan Jawaban:**
 A. Ekosistem, karena melibatkan kebun yang luas
@@ -1783,10 +1579,6 @@ D. Komunitas, karena melibatkan banyak pohon sekaligus
 
 **(1) Soal:**
 Pernyataan yang paling tepat menunjukkan keanekaragaman tingkat gen adalah...
-A. Sawah, hutan, dan laut dihuni makhluk hidup yang berbeda-beda.
-B. Harimau sumatra dan harimau benggala hidup di benua yang berbeda.
-C. Taman nasional memiliki ekosistem hutan, pantai, dan rawa.
-D. Padi varietas Ciherang, IR-64, dan Inpari memiliki rasa dan hasil panen yang berbeda.
 
 **(2) Pilihan Jawaban:**
 A. Sawah, hutan, dan laut dihuni makhluk hidup yang berbeda-beda.
@@ -1815,10 +1607,6 @@ D. Padi varietas Ciherang, IR-64, dan Inpari memiliki rasa dan hasil panen yang 
 
 **(1) Soal:**
 Seekor induk kucing melahirkan anak-anak dengan variasi warna hitam, putih, dan belang. Penjelasan yang paling tepat adalah...
-A. Anak-anak kucing itu berasal dari spesies yang berbeda.
-B. Makanan induk berbeda-beda untuk tiap anak.
-C. Kondisi kandang berubah-ubah setiap hari.
-D. Setiap anak mewarisi kombinasi gen yang berbeda dari kedua induknya.
 
 **(2) Pilihan Jawaban:**
 A. Anak-anak kucing itu berasal dari spesies yang berbeda.
@@ -1847,10 +1635,6 @@ D. Setiap anak mewarisi kombinasi gen yang berbeda dari kedua induknya.
 
 **(1) Soal:**
 Pasangan makhluk hidup berikut yang menunjukkan keanekaragaman TINGKAT JENIS (spesies) adalah...
-A. Kelinci anggora dan kelinci lokal.
-B. Padi varietas Ciherang dan padi varietas IR-64.
-C. Ayam kampung dan bebek.
-D. Mangga arum manis dan mangga golek.
 
 **(2) Pilihan Jawaban:**
 A. Kelinci anggora dan kelinci lokal.
@@ -1879,10 +1663,6 @@ D. Mangga arum manis dan mangga golek.
 
 **(1) Soal:**
 Dua kelompok makhluk hidup dikatakan sebagai satu spesies apabila...
-A. Bentuk tubuhnya selalu persis sama.
-B. Dapat saling kawin dan menghasilkan keturunan yang subur.
-C. Hidup berdekatan di habitat yang sama.
-D. Memakan jenis makanan yang sama.
 
 **(2) Pilihan Jawaban:**
 A. Bentuk tubuhnya selalu persis sama.
@@ -1911,10 +1691,6 @@ D. Memakan jenis makanan yang sama.
 
 **(1) Soal:**
 Liger adalah anak hasil perkawinan singa jantan dengan harimau betina. Status liger yang paling tepat adalah...
-A. Bukan spesies baru karena liger steril (tidak dapat menghasilkan keturunan).
-B. Spesies baru karena terbentuk dari dua induk yang berbeda spesies.
-C. Spesies baru yang dapat menghasilkan keturunan yang subur.
-D. Subspesies dari kucing rumah.
 
 **(2) Pilihan Jawaban:**
 A. Bukan spesies baru karena liger steril (tidak dapat menghasilkan keturunan).
@@ -1943,10 +1719,6 @@ D. Subspesies dari kucing rumah.
 
 **(1) Soal:**
 Bagal (baning) adalah anak hasil perkawinan kuda betina dengan keledai jantan. Pernyataan yang benar tentang bagal adalah...
-A. Bagal steril sehingga kuda dan keledai tetap dianggap dua spesies yang berbeda.
-B. Bagal subur sehingga kuda dan keledai menjadi satu spesies.
-C. Bagal termasuk kingdom baru yang belum dikenal ilmuwan.
-D. Bagal termasuk tumbuhan yang dihasilkan dari persilangan.
 
 **(2) Pilihan Jawaban:**
 A. Bagal steril sehingga kuda dan keledai tetap dianggap dua spesies yang berbeda.
@@ -1975,10 +1747,6 @@ D. Bagal termasuk tumbuhan yang dihasilkan dari persilangan.
 
 **(1) Soal:**
 Terumbu karang, sawah, dan hutan bakau memiliki susunan makhluk hidup dan kondisi lingkungan yang berbeda. Keanekaragaman ini disebut tingkat... , dengan penyebab utamanya adalah...
-A. Jenis; perbedaan ukuran tubuh para penghuninya.
-B. Ekosistem; perbedaan komponen biotik dan abiotik lingkungannya.
-C. Gen; perbedaan jumlah kromosom.
-D. Populasi; perbedaan jumlah hewan yang ada.
 
 **(2) Pilihan Jawaban:**
 A. Jenis; perbedaan ukuran tubuh para penghuninya.
@@ -2007,10 +1775,6 @@ D. Populasi; perbedaan jumlah hewan yang ada.
 
 **(1) Soal:**
 Lahan gambut, sawah tadah hujan, dan kebun teh terbentuk sebagai ekosistem yang berbeda. Alasan yang paling tepat adalah...
-A. Ketiganya dihuni oleh jenis makhluk hidup yang persis sama.
-B. Perbedaannya hanya dipengaruhi oleh jumlah musim penghujan.
-C. Setiap ekosistem memiliki komponen biotik dan abiotik khas yang saling menunjang.
-D. Ketiganya semata-mata buatan manusia tanpa partisipasi alam.
 
 **(2) Pilihan Jawaban:**
 A. Ketiganya dihuni oleh jenis makhluk hidup yang persis sama.
@@ -2039,10 +1803,6 @@ D. Ketiganya semata-mata buatan manusia tanpa partisipasi alam.
 
 **(1) Soal:**
 Kegiatan berikut yang PALING tepat menjaga keanekaragaman tingkat ekosistem adalah...
-A. Menyimpan ribuan varietas benih padi di bank benih.
-B. Mencagarkan komodo di dalam kebun binatang.
-C. Menanam satu pohon di halaman rumah.
-D. Mempertahankan kawasan taman nasional, hutan, mangrove, dan terumbu karang.
 
 **(2) Pilihan Jawaban:**
 A. Menyimpan ribuan varietas benih padi di bank benih.
@@ -2071,10 +1831,6 @@ D. Mempertahankan kawasan taman nasional, hutan, mangrove, dan terumbu karang.
 
 **(1) Soal:**
 Seekor makhluk hidup bersel satu, berinti (eukariot), sebagian mampu membuat makanan lewat fotosintesis dan sebagian menelan makanan, serta memiliki flagela untuk bergerak. Makhluk ini paling tepat dimasukkan ke kingdom...
-A. Monera
-B. Fungi
-C. Animalia
-D. Protista
 
 **(2) Pilihan Jawaban:**
 A. Monera
@@ -2103,10 +1859,6 @@ D. Protista
 
 **(1) Soal:**
 Perbedaan paling mendasar antara jamur (Fungi) dan tumbuhan hijau (Plantae) terletak pada...
-A. Jamur berklorofil, sedangkan tumbuhan tidak berklorofil.
-B. Jamur dan tumbuhan sama-sama melakukan fotosintesis.
-C. Jamur tidak berklorofil dan menyerap zat makanan, sedangkan tumbuhan berklorofil dan berfotosintesis.
-D. Jamur bergerak bebas, sedangkan tumbuhan diam di tempat.
 
 **(2) Pilihan Jawaban:**
 A. Jamur berklorofil, sedangkan tumbuhan tidak berklorofil.
@@ -2135,10 +1887,6 @@ D. Jamur bergerak bebas, sedangkan tumbuhan diam di tempat.
 
 **(1) Soal:**
 Urutan takson yang benar dari kelompok besar ke kelompok kecil adalah...
-A. Spesies → Genus → Famili → Ordo → Kingdom.
-B. Kingdom → Filum → Kelas → Ordo → Famili → Genus → Spesies.
-C. Kingdom → Spesies → Genus → Famili.
-D. Genus → Ordo → Kingdom → Filum.
 
 **(2) Pilihan Jawaban:**
 A. Spesies → Genus → Famili → Ordo → Kingdom.
@@ -2167,10 +1915,6 @@ D. Genus → Ordo → Kingdom → Filum.
 
 **(1) Soal:**
 Spirulina dan ganggang biru-hijau lainnya dimasukkan ke kingdom Monera walaupun mampu berfotosintesis. Dasar pengelompokannya adalah...
-A. Selnya tidak memiliki membran inti (prokariot).
-B. Mempunyai klorofil sehingga pasti tumbuhan.
-C. Hidupnya selalu di dalam air laut.
-D. Warnanya biru kehijauan.
 
 **(2) Pilihan Jawaban:**
 A. Selnya tidak memiliki membran inti (prokariot).
@@ -2199,10 +1943,6 @@ D. Warnanya biru kehijauan.
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang virus adalah...
-A. Virus bukan sel sehingga tidak dimasukkan ke lima kingdom.
-B. Virus masuk kingdom Monera karena berukuran sangat kecil.
-C. Virus dapat berkembang biak sendiri di luar sel inang.
-D. Virus memiliki inti sel dan membran sel lengkap.
 
 **(2) Pilihan Jawaban:**
 A. Virus bukan sel sehingga tidak dimasukkan ke lima kingdom.
@@ -2231,10 +1971,6 @@ D. Virus memiliki inti sel dan membran sel lengkap.
 
 **(1) Soal:**
 Pasangan mikroorganisme dengan produk hasilnya yang BENAR adalah...
-A. Penicillium → yoghurt.
-B. Lactobacillus → yoghurt.
-C. Rhizopus → keju.
-D. Saccharomyces → tempe.
 
 **(2) Pilihan Jawaban:**
 A. Penicillium → yoghurt.
@@ -2263,10 +1999,6 @@ D. Saccharomyces → tempe.
 
 **(1) Soal:**
 Bakteri Rhizobium yang hidup pada bintil akar kacang-kacangan membantu petani karena mampu...
-A. Menguraikan sisa-sisa makanan menjadi kompos.
-B. Mengubah gula menjadi gas karbon dioksida.
-C. Mengikat nitrogen dari udara menjadi zat yang berguna bagi tumbuhan (menyuburkan tanah).
-D. Menghasilkan antibiotik untuk melawan penyakit.
 
 **(2) Pilihan Jawaban:**
 A. Menguraikan sisa-sisa makanan menjadi kompos.
@@ -2295,10 +2027,6 @@ D. Menghasilkan antibiotik untuk melawan penyakit.
 
 **(1) Soal:**
 Bakteri dan jamur pengurai kadang dianggap "pembusuk", tetapi sebenarnya sangat penting bagi ekosistem karena...
-A. Menghilangkan seluruh mineral yang ada di dalam tanah.
-B. Membuat tanah menjadi beracun bagi tumbuhan.
-C. Menambah jumlah sampah di lingkungan sekitar.
-D. Menguraikan sisa makhluk hidup menjadi zat hara yang menyuburkan tanah.
 
 **(2) Pilihan Jawaban:**
 A. Menghilangkan seluruh mineral yang ada di dalam tanah.
@@ -2327,10 +2055,6 @@ D. Menguraikan sisa makhluk hidup menjadi zat hara yang menyuburkan tanah.
 
 **(1) Soal:**
 Adonan roti yang diberi ragi (Saccharomyces) menjadi mengembang karena ragi...
-A. Menghasilkan klorofil sehingga adonan berwarna hijau.
-B. Memakan tepung sampai berlubang-lubang.
-C. Mendinginkan adonan hingga volumenya naik.
-D. Mengubah gula menjadi gas karbon dioksida yang terperangkap dalam adonan.
 
 **(2) Pilihan Jawaban:**
 A. Menghasilkan klorofil sehingga adonan berwarna hijau.
@@ -2359,10 +2083,6 @@ D. Mengubah gula menjadi gas karbon dioksida yang terperangkap dalam adonan.
 
 **(1) Soal:**
 Maleo senkawor hanya dapat ditemukan di Sulawesi dan tidak dijumpai liar di tempat lain. Maleo digolongkan sebagai makhluk hidup...
-A. Introduksi (pendatang baru).
-B. Asing (invasif).
-C. Endemik (hanya ada di daerah itu).
-D. Migran (penjelajah musiman).
 
 **(2) Pilihan Jawaban:**
 A. Introduksi (pendatang baru).
@@ -2391,10 +2111,6 @@ D. Migran (penjelajah musiman).
 
 **(1) Soal:**
 Garis khayal Wallace pada peta Indonesia memisahkan wilayah fauna...
-A. Peralihan dengan Paparan Sahul (timur).
-B. Paparan Sunda (barat) dengan fauna peralihan.
-C. Kutub utara dengan daerah tropis.
-D. Fauna laut dengan fauna darat.
 
 **(2) Pilihan Jawaban:**
 A. Peralihan dengan Paparan Sahul (timur).
@@ -2423,10 +2139,6 @@ D. Fauna laut dengan fauna darat.
 
 **(1) Soal:**
 Kelompok fauna berikut yang hidup di Wilayah Timur (Paparan Sahul / dipengaruhi Australia) adalah...
-A. Cendrawasih dan kasuari.
-B. Harimau sumatra dan orangutan.
-C. Anoa dan babirusa.
-D. Badak jawa dan elang jawa.
 
 **(2) Pilihan Jawaban:**
 A. Cendrawasih dan kasuari.
@@ -2455,10 +2167,6 @@ D. Badak jawa dan elang jawa.
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang komodo adalah...
-A. Komodo hidup liar di kawasan Pulau Komodo (NTT) dan dilindungi di Taman Nasional Komodo.
-B. Komodo dapat ditemukan menyebar di seluruh wilayah Indonesia.
-C. Komodo termasuk fauna barat yang berciri Asia.
-D. Komodo dilindungi di cagar alam yang khusus untuk tumbuhan.
 
 **(2) Pilihan Jawaban:**
 A. Komodo hidup liar di kawasan Pulau Komodo (NTT) dan dilindungi di Taman Nasional Komodo.
@@ -2487,10 +2195,6 @@ D. Komodo dilindungi di cagar alam yang khusus untuk tumbuhan.
 
 **(1) Soal:**
 Rafflesia arnoldii yang ditemukan di hutan Sumatra dikenal sebagai...
-A. Bunga terbesar di dunia yang baunya harum seperti melati.
-B. Bunga terbesar di dunia yang hidup menumpang pada inangnya dan berbau menyengat untuk memikat lalat.
-C. Jamur raksasa dari kingdom Fungi.
-D. Tumbuhan penghasil buah-buahan khas Jawa.
 
 **(2) Pilihan Jawaban:**
 A. Bunga terbesar di dunia yang baunya harum seperti melati.
@@ -2519,10 +2223,6 @@ D. Tumbuhan penghasil buah-buahan khas Jawa.
 
 **(1) Soal:**
 Petani durian senang melihat kelelawar buah terbang di kebunnya pada malam hari karena kelelawar...
-A. Memakan buah durian yang jatuh dan busuk.
-B. Menyerbuki bunga durian yang mekar pada malam hari sehingga buah dapat terbentuk.
-C. Menjatuhkan durian yang sudah masak dari atas pohon.
-D. Membunuh ulat pemakan daun durian.
 
 **(2) Pilihan Jawaban:**
 A. Memakan buah durian yang jatuh dan busuk.
@@ -2551,10 +2251,6 @@ D. Membunuh ulat pemakan daun durian.
 
 **(1) Soal:**
 Setelah hutan di lereng gunung ditebang habis, daerah hilir sering dilanda banjir dan tanah longsor. Penjelasan yang paling tepat adalah...
-A. Hujan deras hanya turun di daerah hilir saja.
-B. Penebangan pohon tidak berpengaruh terhadap banjir.
-C. Hilangnya hewan hutan menyebabkan sungai meluap.
-D. Akar pohon tidak lagi menyerap dan menahan air, sehingga air mengalir deras membawa tanah (erosi).
 
 **(2) Pilihan Jawaban:**
 A. Hujan deras hanya turun di daerah hilir saja.
@@ -2583,10 +2279,6 @@ D. Akar pohon tidak lagi menyerap dan menahan air, sehingga air mengalir deras m
 
 **(1) Soal:**
 Batang rami dan kelopak rosela dimanfaatkan manusia terutama untuk...
-A. Makanan pokok sehari-hari.
-B. Obat penyakit malaria.
-C. Bahan bakar kendaraan.
-D. Bahan serat (sandang, tali, dan tekstil).
 
 **(2) Pilihan Jawaban:**
 A. Makanan pokok sehari-hari.
@@ -2615,10 +2307,6 @@ D. Bahan serat (sandang, tali, dan tekstil).
 
 **(1) Soal:**
 Bank gen (bank benih) yang dikelola berbagai lembaga berfungsi untuk...
-A. Menyimpan hewan ternak hidup di dalam kandang.
-B. Menyimpan benih atau sel demi menjaga plasma nutfah (pelestarian ex-situ).
-C. Melindungi ekosistem hutan di habitat aslinya.
-D. Membudidayakan ikan hias di dalam akuarium.
 
 **(2) Pilihan Jawaban:**
 A. Menyimpan hewan ternak hidup di dalam kandang.
@@ -2647,10 +2335,6 @@ D. Membudidayakan ikan hias di dalam akuarium.
 
 **(1) Soal:**
 Jalak bali dikembangbiakkan di penangkaran lalu dilepasliarkan ke hutan di Bali. Pernyataan yang tepat tentang upaya ini adalah...
-A. Penangkaran jalak bali termasuk pelestarian in-situ di hutan alam.
-B. Penangkaran (ex-situ) yang diikuti pelepasliaran ke habitat asli membantu memulihkan populasi satwa langka.
-C. Pelepasliaran jalak bali berarti mengekspor burung ke luar negeri.
-D. Jalak bali masih sangat banyak sehingga tidak perlu dilindungi.
 
 **(2) Pilihan Jawaban:**
 A. Penangkaran jalak bali termasuk pelestarian in-situ di hutan alam.
@@ -2679,10 +2363,6 @@ D. Jalak bali masih sangat banyak sehingga tidak perlu dilindungi.
 
 **(1) Soal:**
 Penetapan kawasan konservasi dan pengawasan satwa liar di Indonesia sebagian besar berada di bawah...
-A. Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
-B. Kementerian Kesehatan.
-C. Kementerian Perhubungan.
-D. Dinas pasar di setiap daerah.
 
 **(2) Pilihan Jawaban:**
 A. Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
@@ -2711,10 +2391,6 @@ D. Dinas pasar di setiap daerah.
 
 **(1) Soal:**
 Rina menanam padi varietas Ciherang dan IR-64 di petak yang sama, diberi air dan pupuk yang sama, lalu mengukur tinggi tanamannya setiap minggu. Setelah sebulan, tinggi kedua varietas itu berbeda. Simpulan yang paling tepat dari percobaan ini adalah...
-A. Perbedaan tinggi disebabkan oleh perbedaan gen kedua varietas karena lingkungan dibuat sama.
-B. Perbedaan tinggi hanya disebabkan jumlah air yang lebih banyak.
-C. Lingkungan (air dan pupuk) tidak berpengaruh terhadap pertumbuhan padi.
-D. Ciherang dan IR-64 bukan satu spesies sehingga selalu berbeda ukurannya.
 
 **(2) Pilihan Jawaban:**
 A. Perbedaan tinggi disebabkan oleh perbedaan gen kedua varietas karena lingkungan dibuat sama.
@@ -2743,10 +2419,6 @@ D. Ciherang dan IR-64 bukan satu spesies sehingga selalu berbeda ukurannya.
 
 **(1) Soal:**
 Di sebuah kebun binatang, dua binatang diberi nama spesies yang berbeda oleh penjaga. Ternyata keduanya dapat saling kawin dan anak-anaknya terus bereproduksi dengan subur antar generasi. Berdasarkan definisi spesies, pernyataan yang paling tepat adalah...
-A. Keduanya tetap dua spesies karena nama pada papan sudah dicetak.
-B. Anaknya otomatis menjadi spesies ketiga yang baru.
-C. Keduanya kemungkinan besar satu spesies karena mampu kawin dan menghasilkan keturunan subur.
-D. Status spesies ditentukan oleh penjaga kebun binatang.
 
 **(2) Pilihan Jawaban:**
 A. Keduanya tetap dua spesies karena nama pada papan sudah dicetak.
@@ -2775,10 +2447,6 @@ D. Status spesies ditentukan oleh penjaga kebun binatang.
 
 **(1) Soal:**
 Pak Tani menyemprotkan pestisida yang sangat kuat untuk membasmi ulat tepat saat pohon sedang berbunga. Anehnya, buah yang terbentuk sangat sedikit. Penyebab paling tepat adalah...
-A. Pestisida ikut membunuh lebah dan kupu-kupu penyerbuk sehingga penyerbukan bunga terganggu.
-B. Ulat sebenarnya membantu penyerbukan bunga.
-C. Pestisida menyuburkan tanah sehingga buah gugur karena terlalu banyak unsur hara.
-D. Penyemprotan dilakukan pada waktu pagi hari.
 
 **(2) Pilihan Jawaban:**
 A. Pestisida ikut membunuh lebah dan kupu-kupu penyerbuk sehingga penyerbukan bunga terganggu.
@@ -2807,10 +2475,6 @@ D. Penyemprotan dilakukan pada waktu pagi hari.
 
 **(1) Soal:**
 Populasi badak jawa hanya tersisa sangat sedikit di Taman Nasional Ujung Kulon. Strategi konservasi yang paling tepat untuk menyelamatkannya adalah...
-A. Memindahkan seluruh badak ke kebun binatang di luar negeri.
-B. Membiarkan badak tanpa pemantauan agar hidup alami.
-C. Menebang seluruh hutan Ujung Kulon supaya badak terlihat jelas.
-D. Melindungi habitat Ujung Kulon, melakukan patroli antiperburuan, dan memantau kesehatan badak secara rutin.
 
 **(2) Pilihan Jawaban:**
 A. Memindahkan seluruh badak ke kebun binatang di luar negeri.
@@ -2839,10 +2503,6 @@ D. Melindungi habitat Ujung Kulon, melakukan patroli antiperburuan, dan memantau
 
 **(1) Soal:**
 Eceng gondok yang sengaja dibawa masuk ke sebuah danau tumbuh subur dan menutupi hampir seluruh permukaan air. Dampak paling besar dari kondisi ini adalah...
-A. Populasi ikan di danau justru bertambah dengan pesat.
-B. Cahaya dan oksigen dalam air berkurang sehingga ikan dan biota air mati (spesies asing invasif).
-C. Air danau menjadi lebih bersih dan lebih dingin.
-D. Tidak ada dampak karena eceng gondok adalah tumbuhan air.
 
 **(2) Pilihan Jawaban:**
 A. Populasi ikan di danau justru bertambah dengan pesat.
@@ -2871,10 +2531,6 @@ D. Tidak ada dampak karena eceng gondok adalah tumbuhan air.
 
 **(1) Soal:**
 Hutan di suatu lereng gunung ditebang habis untuk dijadikan perkebunan. Pernyataan yang paling tepat tentang dampak paling luas dari perbuatan itu adalah...
-A. Selain satwa kehilangan rumah, tanah mudah tererosi dan daerah hilir rawan banjir serta longsor.
-B. Hanya spesies burung yang terganggu kehidupannya.
-C. Keanekaragaman hayati di dalam tanah justru semakin meningkat.
-D. Tidak ada dampak apa pun karena sawit juga merupakan tumbuhan.
 
 **(2) Pilihan Jawaban:**
 A. Selain satwa kehilangan rumah, tanah mudah tererosi dan daerah hilir rawan banjir serta longsor.
@@ -2903,10 +2559,6 @@ D. Tidak ada dampak apa pun karena sawit juga merupakan tumbuhan.
 
 **(1) Soal:**
 Garis khayal Weber membatasi wilayah fauna peralihan dengan fauna timur (Paparan Sahul). Jika kita berada tepat di sebelah barat garis Weber, fauna yang lebih mungkin kita temui secara alami adalah...
-A. Cendrawasih dan kasuari jenis Australia.
-B. Anoa dan babirusa khas peralihan (Sulawesi).
-C. Penguin dan beruang kutub.
-D. Ikan laut dalam di Samudra Hindia.
 
 **(2) Pilihan Jawaban:**
 A. Cendrawasih dan kasuari jenis Australia.
@@ -2935,10 +2587,6 @@ D. Ikan laut dalam di Samudra Hindia.
 
 **(1) Soal:**
 Untuk membandingkan keanekaragaman jenis makhluk di hutan A dan hutan B, seorang peneliti membuat beberapa petak contoh berukuran sama, lalu menghitung jumlah jenis di setiap petak. Alasan utama penggunaan petak contoh adalah...
-A. Hutan terlalu luas untuk dihitung seluruhnya, sehingga petak contoh yang diambil acak mewakili keadaan hutan.
-B. Agar angka yang dihitung tidak perlu dianalisis lagi.
-C. Supaya semua makhluk dapat dipindahkan ke petak contoh.
-D. Agar hutan menjadi lebih bersih dari sampah.
 
 **(2) Pilihan Jawaban:**
 A. Hutan terlalu luas untuk dihitung seluruhnya, sehingga petak contoh yang diambil acak mewakili keadaan hutan.
@@ -2967,10 +2615,6 @@ D. Agar hutan menjadi lebih bersih dari sampah.
 
 **(1) Soal:**
 Makhluk X memiliki kelenjar susu dan menyusui anaknya, tetapi ia bertelur dan memiliki paruh. Kelompok yang paling tepat untuk makhluk X adalah...
-A. Aves (burung) karena bertelur dan berparuh.
-B. Reptil karena kulitnya bersisik.
-C. Amfibi karena hidup di dua alam.
-D. Mamalia karena menyusui anaknya (termasuk mamalia bertelur seperti platipus).
 
 **(2) Pilihan Jawaban:**
 A. Aves (burung) karena bertelur dan berparuh.
@@ -2999,10 +2643,6 @@ D. Mamalia karena menyusui anaknya (termasuk mamalia bertelur seperti platipus).
 
 **(1) Soal:**
 Pernyataan yang PALING benar tentang keanekaragaman hayati Indonesia adalah...
-A. Keanekaragaman hayati Indonesia termasuk yang paling rendah di dunia.
-B. Seluruh fauna Indonesia berasal dari daratan Australia.
-C. Indonesia kaya keanekaragaman hayati dengan banyak spesies endemik, sehingga wajib dilindungi.
-D. Keanekaragaman hayati hanya diartikan sebagai banyaknya jenis tumbuhan.
 
 **(2) Pilihan Jawaban:**
 A. Keanekaragaman hayati Indonesia termasuk yang paling rendah di dunia.
@@ -3031,10 +2671,6 @@ D. Keanekaragaman hayati hanya diartikan sebagai banyaknya jenis tumbuhan.
 
 **(1) Soal:**
 Di sebuah hutan, harimau diburu habis untuk diambil kulitnya. Beberapa tahun kemudian, jumlah kijang meledak dan semak-semak rusak. Alasan paling tepat adalah...
-A. Kijang menjadi pemangsa baru bagi hewan lain.
-B. Harimau adalah pemangsa kijang; tanpa pemangsa, populasi kijang tidak terkendali dan merusak vegetasi.
-C. Kijang berpindah dari hutan lain karena mencari makanan.
-D. Semak-semak tumbuh lebih cepat dengan sendirinya tanpa alasan.
 
 **(2) Pilihan Jawaban:**
 A. Kijang menjadi pemangsa baru bagi hewan lain.
@@ -3063,10 +2699,6 @@ D. Semak-semak tumbuh lebih cepat dengan sendirinya tanpa alasan.
 
 **(1) Soal:**
 Limbah dari sebuah pabrik dibuang langsung ke sungai dan kemudian banyak ikan mati. Urutan dampak yang paling tepat dari peristiwa ini adalah...
-A. Air sungai tercemar → kadar oksigen menurun → ikan dan biota air mati.
-B. Ikan mati lebih dulu karena lapar, baru kemudian airnya menjadi tercemar.
-C. Burung dan udara di pegunungan tercemar lebih dulu.
-D. Pencemaran tidak menimbulkan dampak apa pun pada ekosistem sungai.
 
 **(2) Pilihan Jawaban:**
 A. Air sungai tercemar → kadar oksigen menurun → ikan dan biota air mati.
@@ -3095,10 +2727,6 @@ D. Pencemaran tidak menimbulkan dampak apa pun pada ekosistem sungai.
 
 **(1) Soal:**
 Pemerintah dan lembaga penelitian menyimpan ribuan varietas padi lokal di bank benih. Alasan terkuat mengapa upaya ini penting adalah...
-A. Untuk menyimpan beras agar tidak busuk.
-B. Untuk menggantikan peran seluruh hutan lindung.
-C. Untuk menghilangkan varietas lokal yang dianggap kuno.
-D. Sebagai cadangan benih dari varietas lokal agar tetap tersedia bila benih unggul terserang penyakit atau saat tanam sulit.
 
 **(2) Pilihan Jawaban:**
 A. Untuk menyimpan beras agar tidak busuk.
@@ -3127,10 +2755,6 @@ D. Sebagai cadangan benih dari varietas lokal agar tetap tersedia bila benih ung
 
 **(1) Soal:**
 Pak Harto mengelola hutan dengan "tebang pilih" (hanya menebang pohon tua tertentu) lalu menanam bibit pohon yang sama sebagai pengganti (reboisasi). Penilaian yang paling tepat terhadap caranya adalah...
-A. Cara ini pasti mengubah seluruh hutan menjadi gurun.
-B. Reboisasi otomatis mengganti semua jenis pohon yang pernah ditebang.
-C. Tebang pilih dan reboisasi menjaga hutan tetap lestari selama jenis yang ditanam sesuai dan jumlahnya seimbang.
-D. Cara ini merusak tanah lebih parah daripada menebang habis.
 
 **(2) Pilihan Jawaban:**
 A. Cara ini pasti mengubah seluruh hutan menjadi gurun.
@@ -3159,10 +2783,6 @@ D. Cara ini merusak tanah lebih parah daripada menebang habis.
 
 **(1) Soal:**
 Seorang nelayan melepas ikan asing besar ke sebuah sungai kecil untuk pancingan. Setahun kemudian ikan lokal semakin jarang ditemukan. Urutan dampak yang paling tepat adalah...
-A. Ikan lokal bertambah karena predator asing menambah makanan.
-B. Ikan asing memangsa atau bersaing dengan ikan lokal → populasi lokal menurun → keanekaragaman sungai menurun.
-C. Vegetasi di tepi sungai tumbuh semakin subur.
-D. Air sungai menjadi semakin jernih tanpa sebab.
 
 **(2) Pilihan Jawaban:**
 A. Ikan lokal bertambah karena predator asing menambah makanan.
@@ -3191,10 +2811,6 @@ D. Air sungai menjadi semakin jernih tanpa sebab.
 
 **(1) Soal:**
 Seorang siswa menulis, "Komodo adalah fauna yang paling banyak tersebar di seluruh Indonesia." Evaluasi yang paling tepat terhadap pernyataan itu adalah...
-A. Klaim salah; komodo endemik dan hanya hidup liar di sejumlah pulau di NTT.
-B. Klaim benar karena komodo ada di semua provinsi.
-C. Klaim benar karena komodo jumlahnya jutaan ekor.
-D. Klaim tidak ada hubungannya dengan keanekaragaman hayati.
 
 **(2) Pilihan Jawaban:**
 A. Klaim salah; komodo endemik dan hanya hidup liar di sejumlah pulau di NTT.
@@ -3223,10 +2839,6 @@ D. Klaim tidak ada hubungannya dengan keanekaragaman hayati.
 
 **(1) Soal:**
 Dua individu hewan dibandingkan DNA-nya dan ternyata hampir sama (lebih dari 99%) dan keduanya dapat menghasilkan keturunan yang subur. Simpulan yang paling tepat adalah...
-A. Keduanya pasti berjenis kelamin sama.
-B. Kemiripan DNA tidak menunjukkan kekerabatan.
-C. Keduanya dari dua spesies yang berbeda karena ada selisih sedikit.
-D. Keduanya sangat dekat kekerabatan dan kemungkinan besar satu spesies.
 
 **(2) Pilihan Jawaban:**
 A. Keduanya pasti berjenis kelamin sama.
@@ -3255,10 +2867,6 @@ D. Keduanya sangat dekat kekerabatan dan kemungkinan besar satu spesies.
 
 **(1) Soal:**
 Taman Nasional Komodo membuka ekowisata dengan aturan ketat (jumlah pengunjung dibatasi, pengawas selalu mendampingi). Manfaat paling utama dari kegiatan ini bagi pelestarian komodo adalah...
-A. Uang tiket digunakan hanya untuk mengganti kerusakan habitat.
-B. Wisatawan boleh berfoto dengan memegang komodo secara bebas.
-C. Pendapatan ekowisata membiayai patroli dan pelestarian, serta masyarakat ikut menjaga komodo.
-D. Wisatawan memberi makan komodo di tepi pantai.
 
 **(2) Pilihan Jawaban:**
 A. Uang tiket digunakan hanya untuk mengganti kerusakan habitat.
@@ -3287,10 +2895,6 @@ D. Wisatawan memberi makan komodo di tepi pantai.
 
 **(1) Soal:**
 Mengapa kita wajib melestarikan semua makhluk hidup, bukan hanya hewan yang dianggap cantik atau berguna? Alasan paling tepat adalah...
-A. Karena semua makhluk hidup selalu berwarna-warni.
-B. Setiap makhluk punya peran dalam rantai/jaring-jaring makanan, sehingga hilangnya satu jenis dapat mengganggu yang lain.
-C. Agar kebun binatang selalu ramai dikunjungi.
-D. Agar perburuan tetap diperbolehkan sepanjang musim.
 
 **(2) Pilihan Jawaban:**
 A. Karena semua makhluk hidup selalu berwarna-warni.
@@ -3319,10 +2923,6 @@ D. Agar perburuan tetap diperbolehkan sepanjang musim.
 
 **(1) Soal:**
 Setelah mempelajari ancaman (perburuan, deforestasi, pencemaran, invasif) dan upaya pelestarian, kesimpulan yang paling tepat tentang keanekaragaman hayati adalah...
-A. Manusia wajib menjaga habitat dan keanekaragaman hayati agar keseimbangan ekosistem terjaga untuk generasi mendatang.
-B. Manusia boleh memusnahkan spesies yang dianggap mengganggu demi kenyamanan.
-C. Keseimbangan alam tidak dipengaruhi oleh keanekaragaman hayati.
-D. Pelestarian hanya menjadi tugas lembaga negara, bukan masyarakat.
 
 **(2) Pilihan Jawaban:**
 A. Manusia wajib menjaga habitat dan keanekaragaman hayati agar keseimbangan ekosistem terjaga untuk generasi mendatang.

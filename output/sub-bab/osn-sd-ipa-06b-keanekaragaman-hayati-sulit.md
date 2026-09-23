@@ -147,10 +147,6 @@ Langkah 3: Kesimpulan jujur: tren masih turun, perlindungan belum terbukti naik 
 
 **(1) Soal:**
 Populasi orangutan di hutan Kalimantan terus menurun karena habitatnya dibuka menjadi kebun sawit. Para konservasionis sepakat bahwa program PERTAMA yang paling penting dilakukan adalah...
-A. Menanam kelapa sawit baru di sekitar hutan agar orangutan punya makanan
-B. Menangkap seluruh orangutan lalu memeliharanya selamanya di kebun binatang besar
-C. Membiarkan orangutan pindah sendiri tanpa campur tangan manusia
-D. Menetapkan dan menjaga kawasan hutan sisa sebagai kawasan lindung (in-situ) sambil memulihkan koridor hutan yang terputus
 
 **(2) Pilihan Jawaban:**
 A. Menanam kelapa sawit baru di sekitar hutan agar orangutan punya makanan
@@ -180,10 +176,6 @@ D. Menetapkan dan menjaga kawasan hutan sisa sebagai kawasan lindung (in-situ) s
 
 **(1) Soal:**
 Di danau terjadi urutan makanan: ganggang → ikan kecil → ikan besar → bangau. Nelayan menangkap ikan besar secara berlebihan. Rangkuman dampak berantai yang paling tepat adalah...
-A. Ganggang bertambah karena tidak ada yang memakannya
-B. Bangau bertambah karena makanan berlimpah
-C. Ikan besar justru makin banyak karena dibantu nelayan
-D. Ikan kecil meledak populasinya, ganggang menipis, dan bangau mencari makan lebih jauh
 
 **(2) Pilihan Jawaban:**
 A. Ganggang bertambah karena tidak ada yang memakannya
@@ -213,10 +205,6 @@ D. Ikan kecil meledak populasinya, ganggang menipis, dan bangau mencari makan le
 
 **(1) Soal:**
 Maleo adalah burung endemik Sulawesi yang menggali sarang di pasir panas dekat gunung berapi untuk menetaskan telurnya. Jika kawasan pegunungan itu diubah menjadi perumahan dan pabrik, urutan akibat yang paling mungkin terjadi adalah...
-A. Maleo pindah ke Kalimantan dan tetap berkembang biak di sana
-B. Maleo bersarang di pantai dan jumlahnya malah bertambah
-C. Tempat bertelur alami hilang, telur tidak menetas, populasi maleo menurun, dan berisiko punah
-D. Telur maleo menetas lebih cepat karena udara hangat pabrik
 
 **(2) Pilihan Jawaban:**
 A. Maleo pindah ke Kalimantan dan tetap berkembang biak di sana
@@ -246,10 +234,6 @@ D. Telur maleo menetas lebih cepat karena udara hangat pabrik
 
 **(1) Soal:**
 Seorang pejabat berkata: "Dengan memperbanyak rusa di taman nasional, pasti keanekaragaman hayati taman akan naik." Pernyataan ini layak disebut ASUNSI, bukan kesimpulan berbukti, karena...
-A. Rusa memang makanan harimau sehingga pasti bermanfaat
-B. Data populasi rusa dan data spesies lain sebelum-sesudah tidak pernah dicatat
-C. Semua hewan di taman sudah dihitung dengan pasti
-D. Rusa berwarna cokelat sehingga mudah dilihat
 
 **(2) Pilihan Jawaban:**
 A. Rusa memang makanan harimau sehingga pasti bermanfaat
@@ -288,10 +272,6 @@ Perhatikan data jumlah sarang burung di sebuah pulau kecil:
 | 2021 | 55 | 27 |
 
 Kesimpulan yang PALING didukung data adalah...
-A. Sarang berkurang hampir sejalan dengan berkurangnya luas hutan, sehingga perusakan habitat menjadi dugaan penyebab yang masuk akal
-B. Jumlah sarang turun karena burung migrasi tiap musim dingin
-C. Populasi burung naik stabil 20% tiap tahun
-D. Burung pindah ke pulau lain karena hujan
 
 **(2) Pilihan Jawaban:**
 A. Sarang berkurang hampir sejalan dengan berkurangnya luas hutan, sehingga perusakan habitat menjadi dugaan penyebab yang masuk akal
@@ -321,10 +301,6 @@ D. Burung pindah ke pulau lain karena hujan
 
 **(1) Soal:**
 Jaring makanan di kebun: (pohon mangga) → (belalang / ulat) → (burung / laba-laba) → (elang). Jika petani menyemprot racun yang mematikan semua serangga, akibarnya yang paling mungkin adalah...
-A. Elang bertambah karena burung bebas bergerak
-B. Burung dan laba-laba kelaparan, sementara belalang dan ulat tidak ada lagi, sehingga elang ikut berkurang
-C. Pohon mangga berbuah lebih banyak
-D. Laba-laba berpindah memangsa elang
 
 **(2) Pilihan Jawaban:**
 A. Elang bertambah karena burung bebas bergerak
@@ -354,10 +330,6 @@ D. Laba-laba berpindah memangsa elang
 
 **(1) Soal:**
 Eceng gondok (bukan tanaman asli perairan Indonesia) masuk ke danau. Dalam beberapa bulan ia menutupi permukaan air. Logika paling tepat MENGAPA ini disebut gangguan serius bagi keanekaragaman hayati adalah...
-A. Eceng gondok indah sehingga wisatawan betah
-B. Eceng gondok mengubah danau menjadi air asin
-C. Eceng gondok memakan ikan kecil
-D. Eceng gondok menutup permukaan sehingga cahaya menurun, oksigen berkurang, dan ikan serta biota asli terganggu
 
 **(2) Pilihan Jawaban:**
 A. Eceng gondok indah sehingga wisatawan betah
@@ -387,10 +359,6 @@ D. Eceng gondok menutup permukaan sehingga cahaya menurun, oksigen berkurang, da
 
 **(1) Soal:**
 Di sekitar hutan penyangga taman nasional tinggal desa yang selama ini menebang kayu ibarat mata pencaharian. Program pelestarian berkelanjutan yang paling mungkin BERTAHAN jangka panjang adalah...
-A. Larangan total masuk hutan tanpa memberi pekerjaan pengganti
-B. Patroli hutan oleh petugas pusat saja, desa tidak dilibatkan
-C. Ekowisata, penangkaran lebah madu, dan hasil hutan bukan kayu yang dikelola desa, dengan aturan tebang pilih
-D. Meninggalkan desa tanpa program apa pun karena masyarakat pasti mengerti sendiri
 
 **(2) Pilihan Jawaban:**
 A. Larangan total masuk hutan tanpa memberi pekerjaan pengganti
@@ -420,10 +388,6 @@ D. Meninggalkan desa tanpa program apa pun karena masyarakat pasti mengerti send
 
 **(1) Soal:**
 Rafflesia arnoldii (bunga raksasa khas Sumatera) tumbuh menumpang akar tanaman inang di hutan. Bunganya sulit dibudidayakan di luar hutan karena siklusnya bergantung inang dan jenis serangga penyerbuk. Strategi pelestarian yang paling tepat adalah...
-A. Melindungi blok hutan tempat Rafflesia hidup (in-situ) dan menjaga inang serta penyerbuknya
-B. Memindahkan semua bunga ke kebun raya yang berpendingin ruangan
-C. Menyiram bunga dengan pupuk kimia tiap hari
-D. Mengeringkan bunga lalu menyimpannya di bank benih sebagai pengganti
 
 **(2) Pilihan Jawaban:**
 A. Melindungi blok hutan tempat Rafflesia hidup (in-situ) dan menjaga inang serta penyerbuknya
@@ -453,10 +417,6 @@ D. Mengeringkan bunga lalu menyimpannya di bank benih sebagai pengganti
 
 **(1) Soal:**
 Di terumbu karang: ganggang alga → ikan pemakan rumput laut → ikan hiu kecil. Ketika populasi hiu kecil hampir habis karena ditangkap, yang paling mungkin terjadi adalah...
-A. Ganggang alga bertambah banyak dan terumbu makin sehat
-B. Ikan pemakan rumput laut meledak sehingga alga menipis dan karang punya ruang untuk pulih
-C. Alga menutupi karang lebih deras karena pemangkasnya berkurang
-D. Karang tidak terpengaruh sama sekali karena alga bukan makanannya
 
 **(2) Pilihan Jawaban:**
 A. Ganggang alga bertambah banyak dan terumbu makin sehat
@@ -486,10 +446,6 @@ D. Karang tidak terpengaruh sama sekali karena alga bukan makanannya
 
 **(1) Soal:**
 Kanguru pohon adalah hewan endemik Papua yang hidup di pohon. Jika hutan tempatnya tinggal dibuka untuk perkebunan kelapa sawit dan disisakan pepohonan yang jarang, nasib paling mungkin bagi kanguru pohon adalah...
-A. Beradaptasi menjadi hewan darat dan melompat di perkebunan
-B. Berpindah ke pohon-pohon sawit yang cocok untuk bersarang
-C. Kehilangan tempat tinggal dan pakan, populasi merosot, terdesak ke sisa hutan sempit dan saling berebut
-D. Jumlahnya bertambah karena sawit menyediakan makanan berlimpah
 
 **(2) Pilihan Jawaban:**
 A. Beradaptasi menjadi hewan darat dan melompat di perkebunan
@@ -519,10 +475,6 @@ D. Jumlahnya bertambah karena sawit menyediakan makanan berlimpah
 
 **(1) Soal:**
 Sebuah artikel menyatakan: "PROVEN: pemasangan pagar taman nasional berhasil karena populasi badak tidak berkurang." Untuk menilai apakah klaim "proven" ini masuk akal, pertanyaan PERTAMA yang harus diajukan adalah...
-A. Berapa harga pagar yang dipasang?
-B. Apakah fakta "populasi tidak berkurang" didukung data penghitungan sebelum dan sesudah pagar?
-C. Siapa yang mengecat pagar tersebut?
-D. Apakah badak menyukai warna pagar?
 
 **(2) Pilihan Jawaban:**
 A. Berapa harga pagar yang dipasang?
@@ -559,10 +511,6 @@ Pengamatan karang di dua lokasi laut:
 | B (jauh dari sungai) | 17 | 16 | 340 |
 
 Menjelang 2021, lahan sekitar sungai dihuni pemukiman baru. Kesimpulan yang PALING didukung data adalah...
-A. Karang di A berkurang lebih banyak dan diduga berhubungan dengan limbah pemukiman yang mengalir ke laut
-B. Ikan di A lebih banyak daripada di B sehingga A lebih sehat
-C. Karang di B berkurang lebih parah daripada di A
-D. Sungai sama sekali tidak memengaruhi laut
 
 **(2) Pilihan Jawaban:**
 A. Karang di A berkurang lebih banyak dan diduga berhubungan dengan limbah pemukiman yang mengalir ke laut
@@ -592,10 +540,6 @@ D. Sungai sama sekali tidak memengaruhi laut
 
 **(1) Soal:**
 Di ekosistem sawah: padi → tikus → ular; padi → wereng → laba-laba → ular. Jika tikus dibasmi habis oleh petani, yang paling mungkin terjadi adalah...
-A. Populasi ular bertambah besar
-B. Padi menghasilkan lebih sedikit gabah
-C. Tikus tidak berdampak apa pun karena jalur utama tetap
-D. Ular lebih mengandalkan jalur wereng–laba-laba sehingga laba-laba dan wereng berkurang drastis
 
 **(2) Pilihan Jawaban:**
 A. Populasi ular bertambah besar
@@ -625,10 +569,6 @@ D. Ular lebih mengandalkan jalur wereng–laba-laba sehingga laba-laba dan weren
 
 **(1) Soal:**
 Ikan sapu-sapu yang biasa dipelihara di akuarium ternyata dibuang orang ke sungai. Ikan ini bukan asli sungai kita dan tahan hidup di air kotor. Risiko terbesar yang harus dicegah adalah...
-A. Ikan sapu-sapu membuat sungai lebih bersih sehingga bagus
-B. Ikan sapu-sapu bertumbuh cepat, menikmati makanan & tempat ikan asli, serta tidak punya pemangsa alami di sungai
-C. Ikan sapu-sapu hanya hidup sebentar lalu mati sendiri
-D. Ikan asli justru bermigrasi ke akuarium
 
 **(2) Pilihan Jawaban:**
 A. Ikan sapu-sapu membuat sungai lebih bersih sehingga bagus
@@ -658,10 +598,6 @@ D. Ikan asli justru bermigrasi ke akuarium
 
 **(1) Soal:**
 Di pesisir, warga biasa menebang mangrove untuk kayu bakar, sehingga garis pantai terkikis dan ikan kehilangan tempat berkembang biak. Solusi berkelanjutan yang paling tepat adalah...
-A. Menebang semua mangrove dan menggantinya dengan beton pantai
-B. Melarang total tanpa memberi alternatif energi, sambil mengabaikannya
-C. Menanam kembali mangrove bersama warga, menyediakan tungku hemat kayu bakar, dan menjadikan kawasan itu zona jaga bersama (mangrove dijaga, produksi udang tradisional dibiarkan)
-D. Membiarkan saja karena mangrove tidak berguna
 
 **(2) Pilihan Jawaban:**
 A. Menebang semua mangrove dan menggantinya dengan beton pantai
@@ -691,10 +627,6 @@ D. Membiarkan saja karena mangrove tidak berguna
 
 **(1) Soal:**
 Badak bercula satu (badak jawa) hidup di Taman Nasional Ujung Kulon. Populasi badak sangat sedikit dan serangan penyakit bisa menghabiskannya. Para ahli mempertimbangkan mendirikan "badak kedua" dengan membawa beberapa badak ke hutan lain yang dijaga. Pertimbangan ilmiah yang paling tepat adalah...
-A. Menghentikan seluruh pengawasan karena Ujung Kulon sudah aman
-B. Semua badak dikumpulkan ke satu kandang pusat agar mudah diawasi
-C. Populasi badak tidak perlu ditambah karena sedikit justru aman
-D. Membangun "populasi cadangan" di habitat kedua (ex-situ intensif + reintroduksi) agar jika badak di Ujung Kulon terserang bencana, masih ada yang selamat
 
 **(2) Pilihan Jawaban:**
 A. Menghentikan seluruh pengawasan karena Ujung Kulon sudah aman
@@ -725,10 +657,6 @@ D. Membangun "populasi cadangan" di habitat kedua (ex-situ intensif + reintroduk
 
 **(1) Soal:**
 Di kebun buah, lebah penyerbuk berkurang drastis karena pestisida. Urutan dampak berantai yang paling tepat adalah...
-A. Buah menjadi lebih manis karena tidak ada lebah yang mengganggu
-B. Pohon berbuah sepanjang tahun karena lebah tidak menyedot sari buah
-C. Lebah bertambah karena pestisida membasmi predatornya
-D. Bunga tidak terserbuki → buah sedikit → makanan burung & kera berkurang → populasi mereka menurun
 
 **(2) Pilihan Jawaban:**
 A. Buah menjadi lebih manis karena tidak ada lebah yang mengganggu
@@ -758,10 +686,6 @@ D. Bunga tidak terserbuki → buah sedikit → makanan burung & kera berkurang �
 
 **(1) Soal:**
 Tarsius adalah primata kecil endemik Sulawesi yang aktif malam dan memangsa serangga. Kamu menemukan data: di satu kawasan, serangga malam tetap melimpah, tetapi populasi tarsius tetap turun. Dugaan paling masuk akal yang didukung data ini adalah...
-A. Tarsius kekurangan serangga
-B. Faktor lain (kehilangan tempat tinggal/perburuan) yang menekan tarsius, karena makanannya masih cukup
-C. Tarsius berpindah memakan buah-buahan
-D. Tarsius mati karena cahaya bulan
 
 **(2) Pilihan Jawaban:**
 A. Tarsius kekurangan serangga
@@ -791,10 +715,6 @@ D. Tarsius mati karena cahaya bulan
 
 **(1) Soal:**
 Seorang peneliti menulis: "Hutan A lebih beragam daripada hutan B." Pilihan data berikut yang PALING kuat mendukung pernyataan tersebut adalah...
-A. Hutan A lebih sejuk daripada hutan B
-B. Di hutan A ditemukan 45 jenis pohon dalam satu plot, di hutan B 12 jenis dalam plot berukuran sama
-C. Hutan A banyak dikunjungi wisatawan
-D. Kayu hutan A lebih mahal daripada kayu hutan B
 
 **(2) Pilihan Jawaban:**
 A. Hutan A lebih sejuk daripada hutan B
@@ -833,10 +753,6 @@ Tabel jumlah individu tiga spesies burung di hutan yang sama selama 4 tahun:
 | 2021 | 60 | 105 | 30 |
 
 Pada 2019–2020 terjadi penebangan besar-besaran. Kesimpulan PALING didukung data adalah...
-A. Burung B terus bertambah karena serangga semakin banyak
-B. Tabel menunjukkan burung B bertambah karena hutan makin luas
-C. Burung A tidak dipengaruhi penebangan
-D. Kedua burung turun ketika hutan menciut, tetapi burung A jatuh paling tajam sehingga paling terdampak
 
 **(2) Pilihan Jawaban:**
 A. Burung B terus bertambah karena serangga semakin banyak
@@ -866,10 +782,6 @@ D. Kedua burung turun ketika hutan menciut, tetapi burung A jatuh paling tajam s
 
 **(1) Soal:**
 Jaring makanan laut: fitoplankton → zooplankton → ikan kecil → ikan besar; fitoplankton → kerang. Jika kerang diambil habis oleh nelayan, perkiraan terbaik adalah...
-A. Zooplankton bertambah karena kerang bukan makanannya
-B. Ikan kecil bertambah karena kerang bukan saingannya
-C. Fitoplankton bertambah banyak karena pemakan utamanya (kerang) berkurang, sementara hewan lain yang biasa memangsa kerang kehilangan makanan pokoknya
-D. Fitoplankton berkurang karena tidak ada yang membersihkan
 
 **(2) Pilihan Jawaban:**
 A. Zooplankton bertambah karena kerang bukan makanannya
@@ -899,10 +811,6 @@ D. Fitoplankton berkurang karena tidak ada yang membersihkan
 
 **(1) Soal:**
 Di sebuah danau masuk spesies ikan predator asing. Tiga tahun kemudian jumlah ikan asli menurun drastis. Manakah urutan PENANGGULANGAN yang paling tepat secara ilmiah?
-A. Biarkan beberapa tahun, mungkin rantai makanan menyesuaikan sendiri
-B. Tangkap & kurangi predator asing, cegah air danau terhubung ke danau lain, lalu pulihkan habitat ikan asli
-C. Lepas lebih banyak predator asing agar saling berkelahi
-D. Buang air danau seluruhnya lalu isi lagi
 
 **(2) Pilihan Jawaban:**
 A. Biarkan beberapa tahun, mungkin rantai makanan menyesuaikan sendiri
@@ -932,10 +840,6 @@ D. Buang air danau seluruhnya lalu isi lagi
 
 **(1) Soal:**
 Taman nasional ingin melindungi penyu yang bertelur di pantai. Namun warga biasa mengambil telurnya untuk dijual. Program yang paling berkelanjutan adalah...
-A. Melarang warga menuju pantai tanpa mengganti penghasilan mereka
-B. Melibatkan warga sebagai penjaga sarang; sebagian telur dengan izin dan kuota ditetaskan untuk penghasilan kampung, sisanya dibiarkan alami; ekowisata dirintis
-C. Memagari pantai sepenuhnya dengan kawat berduri
-D. Menjual telur penyu lebih banyak kepada turis
 
 **(2) Pilihan Jawaban:**
 A. Melarang warga menuju pantai tanpa mengganti penghasilan mereka
@@ -965,10 +869,6 @@ D. Menjual telur penyu lebih banyak kepada turis
 
 **(1) Soal:**
 Varietas padi lokal yang tahan kekeringan hampir punah karena petani beralih ke varietas unggul. Agar "bank genetika" padi itu tidak hilang selamanya, langkah paling tepat dan realistis adalah...
-A. Menyimpan benih di bank benih/plasma nutfah (ex-situ) sambil menanamnya kembali di lahan petani yang mau (in-situ)
-B. Menanam satu jenis varietas itu saja di seluruh Indonesia
-C. Membuang benihnya karena sudah punya varietas unggul
-D. Menyilangkan sembarangan tanpa catatan
 
 **(2) Pilihan Jawaban:**
 A. Menyimpan benih di bank benih/plasma nutfah (ex-situ) sambil menanamnya kembali di lahan petani yang mau (in-situ)
@@ -998,10 +898,6 @@ D. Menyilangkan sembarangan tanpa catatan
 
 **(1) Soal:**
 Di kebun, pemakaian racun serangga berlebihan ternyata membuat panen KOPI menurun. Rangkuman alasan paling logis adalah...
-A. Serangga pemakan daun semua mati, daun kopi jadi utuh dan lebat
-B. Hama mati sempurna sehingga kopi aman, panen justru naik
-C. Serangga penyerbuk kopi ikut mati sehingga bunga tidak jadi buah, kopi berkurang
-D. Racun menyuburkan tanah sehingga kopi raksasa
 
 **(2) Pilihan Jawaban:**
 A. Serangga pemakan daun semua mati, daun kopi jadi utuh dan lebat
@@ -1031,10 +927,6 @@ D. Racun menyuburkan tanah sehingga kopi raksasa
 
 **(1) Soal:**
 Anoa (kerbau kecil endemik Sulawesi) hidup berpasangan di hutan rimba. Jika hutan rimba Sulawesi dibuka untuk pertanian dan dibangun jalan yang memotong hutan, dampak yang paling mungkin dialami anoa adalah...
-A. Populasi anoa meningkat karena lahan pertanian menyediakan rumput
-B. Anoa mudah berpindah melalui jalan sehingga kawin lebih mudah
-C. Wilayah hidup terpecah, perjumpaan untuk kawin berkurang, dan risiko diburu di sekitar jalan meningkat, sehingga populasi menurun
-D. Anoa berubah menjadi hewan siang hari karena jalan terang
 
 **(2) Pilihan Jawaban:**
 A. Populasi anoa meningkat karena lahan pertanian menyediakan rumput
@@ -1064,10 +956,6 @@ D. Anoa berubah menjadi hewan siang hari karena jalan terang
 
 **(1) Soal:**
 Bandana melaporkan hasil pengamatannya: "Di sungai M, ikan lebih banyak di bagian hulu daripada di hilir." Agar laporan ini menjadi kesimpulan yang SAH, kondisi yang paling penting adalah...
-A. Pengamatan dilakukan dengan metode yang sama dan pada waktu yang sebanding di kedua bagian sungai
-B. Bandana memakai sepatu yang sama ketika ke hulu dan hilir
-C. Ikan dihitung hanya di bagian hilir
-D. Bandana memasukkan perkiraan jumlah ikan tanpa menghitung
 
 **(2) Pilihan Jawaban:**
 A. Pengamatan dilakukan dengan metode yang sama dan pada waktu yang sebanding di kedua bagian sungai
@@ -1104,10 +992,6 @@ Data jumlah sarang penyu di dua pantai setelah patroli penjaga mulai berjalan:
 | Q (terpencil) | 38 | 36 | 30 | tidak ada |
 
 Kesimpulan yang PALING didukung data adalah...
-A. Patroli belum terbukti menaikkan jumlah sarang secara tajam, tetapi pantai tanpa patroli (Q) terus menurun sehingga perlindungan tetap perlu
-B. Patroli gagal total karena P tidak pernah naik banyak
-C. Q lebih aman karena jumlahnya turun sedikit
-D. Data tidak berguna untuk menilai patroli sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Patroli belum terbukti menaikkan jumlah sarang secara tajam, tetapi pantai tanpa patroli (Q) terus menurun sehingga perlindungan tetap perlu
@@ -1137,10 +1021,6 @@ D. Data tidak berguna untuk menilai patroli sama sekali
 
 **(1) Soal:**
 Jaring makanan rumput laut: rumput laut → ikan pemakan rumput → kepiting; rumput laut → siput → kepiting. Jika kepiting diambil besar-besaran untuk dijual, dampak yang PALING mungkin adalah...
-A. Siput berkurang karena dimakan ikan pemakan rumput
-B. Rumput laut bertambah karena kepiting adalah pemangsanya
-C. Kepiting bertambah karena bersaing bebas
-D. Ikan pemakan rumput dan siput bertambah karena tak ada pemangsanya, sehingga rumput laut semakin menipis
 
 **(2) Pilihan Jawaban:**
 A. Siput berkurang karena dimakan ikan pemakan rumput
@@ -1170,10 +1050,6 @@ D. Ikan pemakan rumput dan siput bertambah karena tak ada pemangsanya, sehingga 
 
 **(1) Soal:**
 Di pulau komodo, tikus dan kucing liar (bukan asli pulau) masuk mengikuti kapal. Kucing liar memangsa komodo muda dan memakan telur komodo. Logika penanggulangan yang paling benar adalah...
-A. Kucing liar dibiarkan karena komodo besar tidak terancam
-B. Memberi makan tikus agar kucing tidak memangsa komodo
-C. Melepas kucing baru agar jumlah kucing makin banyak dan saling berkompetisi
-D. Mengeliminasi/merelokasi kucing dan tikus liar secara terkendali serta mengembalikan kondisi pulau seperti semula, karena predator asing mengancam spesies endemik yang tak punya pertahanan
 
 **(2) Pilihan Jawaban:**
 A. Kucing liar dibiarkan karena komodo besar tidak terancam
@@ -1203,10 +1079,6 @@ D. Mengeliminasi/merelokasi kucing dan tikus liar secara terkendali serta mengem
 
 **(1) Soal:**
 Kebun raya dan bank benih dirancang sebagai "museum hidup" untuk tumbuhan langka. Bagian dari strategi pelestarian berkelanjutan yang PALING sesuai dengan peran keduanya adalah...
-A. Menggantikan seluruh taman nasional sehingga tidak perlu lagi kawasan lindung
-B. Menyimpan dan membudidayakan spesies di luar habitat untuk cadangan, sambil tetap menjaga habitat asli (in-situ) sebagai rumah utama
-C. Hanya memajang tumbuhan langka untuk pajangan wisata
-D. Menjual benih langka sebanyak-banyaknya
 
 **(2) Pilihan Jawaban:**
 A. Menggantikan seluruh taman nasional sehingga tidak perlu lagi kawasan lindung
@@ -1236,10 +1108,6 @@ D. Menjual benih langka sebanyak-banyaknya
 
 **(1) Soal:**
 Sebuah suaka margasatwa melindungi rusa di habitat aslinya. Namun populasi rusa tetap turun karena pemburu menyusup. Bila pilihan hanya antara menambah patroli atau membangun penangkaran, pertimbangan paling matang adalah...
-A. Menambah patroli lebih dulu karena penyebab penurunan (perburuan) ada di dalam habitat; penangkaran tidak menyelesaikan akar masalah
-B. Beralih total ke penangkaran karena mudah
-C. Berhenti melakukan apa pun karena rusa banyak di tempat lain
-D. Menebang sebagian hutan agar pemburu mudah dilihat
 
 **(2) Pilihan Jawaban:**
 A. Menambah patroli lebih dulu karena penyebab penurunan (perburuan) ada di dalam habitat; penangkaran tidak menyelesaikan akar masalah
@@ -1269,10 +1137,6 @@ D. Menebang sebagian hutan agar pemburu mudah dilihat
 
 **(1) Soal:**
 Di danau, tikus air memakan sarang telur bebek liar. Nelayan memburu tikus air habis-habisan. Dampak berantai yang paling mungkin adalah...
-A. Sarang bebek liar aman → populasi bebek naik → persaingan makanan dengan ikan meningkat
-B. Bebek liar berkurang karena kehilangan predator
-C. Tikus air bertambah karena bebek liarnya memburu tikus
-D. Danau tidak berubah karena tikus air tidak berhubungan dengan bebek
 
 **(2) Pilihan Jawaban:**
 A. Sarang bebek liar aman → populasi bebek naik → persaingan makanan dengan ikan meningkat
@@ -1302,10 +1166,6 @@ D. Danau tidak berubah karena tikus air tidak berhubungan dengan bebek
 
 **(1) Soal:**
 Cendrawasih adalah burung endemik Papua yang jantannya sangat indah. Permintaan tinggi dari pemburu bulu. Data penangkapan dari 2016–2020 menunjukkan jumlah terus naik. Upaya yang menjadi PRIORITAS PERTAMA sesuai akar masalah adalah...
-A. Menangkap semua cendrawasih untuk diamankan di kebun binatang
-B. Menghentikan/menekan permintaan bulu, memperkuat patroli, dan memperbanyak penangkaran yang sifatnya darurat
-C. Menanam pohon asing supaya cendrawasih banyak bersarang
-D. Memajang bulu cendrawasih di museum agar terjual mahal
 
 **(2) Pilihan Jawaban:**
 A. Menangkap semua cendrawasih untuk diamankan di kebun binatang
@@ -1335,10 +1195,6 @@ D. Memajang bulu cendrawasih di museum agar terjual mahal
 
 **(1) Soal:**
 Toko bunga menjual: "Tanaman ini MACAM HK: terbukti memperbaiki udara." Penilai kritis yang benar terhadap klaim itu adalah...
-A. Langsung percaya karena sudah ditulis di label
-B. Menganggap perbaikan udara sebanding dengan harga tanaman
-C. Membeli semua tanaman itu agar udara rumah bersih
-D. Meminta data ukur kualitas udara sebelum-sesudah menaruh tanaman itu di ruangan yang terkontrol
 
 **(2) Pilihan Jawaban:**
 A. Langsung percaya karena sudah ditulis di label
@@ -1377,10 +1233,6 @@ Data dua spesies di hutan lindung (hasil pantauan 4 tahun):
 | 2021 | 120 | 15 | 95 |
 
 Kesimpulan yang PALING didukung data adalah...
-A. Rusa menurun bersamaan dengan meledaknya kambing lepas, sehingga persaingan makanan rusa–kambing menjadi dugaan yang paling masuk akal
-B. Harimau naik karena memangsa kambing sehingga rusa makin banyak
-C. Rusa berkurang karena harimau sangat banyak memangsa rusa
-D. Kambing lepas membantu rusa dengan membabat rumput
 
 **(2) Pilihan Jawaban:**
 A. Rusa menurun bersamaan dengan meledaknya kambing lepas, sehingga persaingan makanan rusa–kambing menjadi dugaan yang paling masuk akal
@@ -1410,10 +1262,6 @@ D. Kambing lepas membantu rusa dengan membabat rumput
 
 **(1) Soal:**
 Ekosistem puncak gunung: rumput → kelinci → elang; rumput → belalang → burung hantu; kelinci → burung hantu. Jika kelinci dijangkiti penyakit dan populasinya runtuh, maka...
-A. Burung hantu bertambah karena kelinci berkurang
-B. Elang beralih ke rumput
-C. Belalang berkurang karena kelinci memangsa belalang
-D. Burung hantu beralih total ke belalang sehingga belalang menurun, elang kehilangan mangsa utama
 
 **(2) Pilihan Jawaban:**
 A. Burung hantu bertambah karena kelinci berkurang
@@ -1443,10 +1291,6 @@ D. Burung hantu beralih total ke belalang sehingga belalang menurun, elang kehil
 
 **(1) Soal:**
 Gulma air (mis. eceng gondok) tumbuh menutupi permukaan danau. Seorang ahli mengusulkan tiga perlakuan berbeda. Manakah yang paling tepat secara ekologis?
-A. Menebar herbisida kuat ke seluruh danau sekaligus
-B. Membiarkan gulma menutup total karena "bukan masalah besar"
-C. Menambah ikan asing pemakan gulma dalam jumlah besar
-D. Memanen gulma secara bertahap di kawasan terinfeksi sambil menanam kembali tumbuhan air asli dan mengurangi masuknya limbah yang menyuburkan air
 
 **(2) Pilihan Jawaban:**
 A. Menebar herbisida kuat ke seluruh danau sekaligus
@@ -1476,10 +1320,6 @@ D. Memanen gulma secara bertahap di kawasan terinfeksi sambil menanam kembali tu
 
 **(1) Soal:**
 Kawasan karst (bukit kapur) dirahasiakan lokasinya agar tidak rusak oleh pertambangan. Namun sebagian warga bergantung pada tanah di sekitarnya untuk bertani. Rancangan pelestarian berkelanjutan yang paling tepat adalah...
-A. Menutup seluruh desa dan mengusir warga dari kawasan itu sepenuhnya
-B. Menghidupkan komoditas bernilai yang ramah karst (mis. madu hutan & ekowisata gua dengan kuota), melibatkan warga sebagai penjaga, dan menetapkan zona inti yang tidak boleh digarap
-C. Menjual semua bukit ke penambang demi uang tunai cepat
-D. Membiarkan pengeboran dengan alasan "tambang membuka lapangan kerja"
 
 **(2) Pilihan Jawaban:**
 A. Menutup seluruh desa dan mengusir warga dari kawasan itu sepenuhnya
@@ -1507,10 +1347,6 @@ D. Membiarkan pengeboran dengan alasan "tambang membuka lapangan kerja"
 
 **(1) Soal:**
 Harimau sumatra liar menyerang ternak warga yang menggembala di tepi hutan. Akibatnya warga marah dan beberapa memburu harimau. Solusi pelestarian yang paling logis adalah...
-A. Membiarkan warga memburu agar ternak aman
-B. Menjauhkan ternak dari hutan (zona gembala), memberi ganti rugi ternak yang diserang, dan memperkuat patroli; membalas dengan racun tidak dibenarkan
-C. Menembak semua harimau supaya tidak ada konflik
-D. Membuang harimau ke kebun binatang selamanya
 
 **(2) Pilihan Jawaban:**
 A. Membiarkan warga memburu agar ternak aman
@@ -1540,10 +1376,6 @@ D. Membuang harimau ke kebun binatang selamanya
 
 **(1) Soal:**
 Di kebun kelapa, penebangan besar-besaran untuk bahan bangunan dilakukan serentak. Urutan dampak berantai yang PALING mungkin adalah...
-A. Kelapa banyak jatuh dan tikus kehabisan makanan
-B. Kelelawar bertambah karena tempat tinggalnya lebih luas
-C. Tanah menjadi lebih subur karena banyak sisa tebangan
-D. Kanopi berkurang → burung dan kelelawar kehilangan sarang → serangga penyerbuk kelapa berkurang → buah kelapa semakin sedikit
 
 **(2) Pilihan Jawaban:**
 A. Kelapa banyak jatuh dan tikus kehabisan makanan
@@ -1573,10 +1405,6 @@ D. Kanopi berkurang → burung dan kelelawar kehilangan sarang → serangga peny
 
 **(1) Soal:**
 Organutan jantan dan betina hidup menyendiri dan bertemu hanya untuk kawin. Di hutan Kalimantan, koridor hutan yang menghubungkan dua kawasan dipotong oleh jalan. Akibat paling serius bagi populasi orangutan adalah...
-A. Orangutan jadi lebih mudah berjalan di jalan sehingga kawin makin sering
-B. Populasi yang terpisah tidak bisa saling bertemu, perkawinan menjadi jarang, dan keragaman gen menurun
-C. Orangutan berpindah ke kota dan berkembang biak di sana
-D. Jalan menambah makanan orangutan dari pohon pinggir jalan
 
 **(2) Pilihan Jawaban:**
 A. Orangutan jadi lebih mudah berjalan di jalan sehingga kawin makin sering
@@ -1606,10 +1434,6 @@ D. Jalan menambah makanan orangutan dari pohon pinggir jalan
 
 **(1) Soal:**
 Tim peneliti ingin membuktikan bahwa "kebun organik memiliki lebih banyak jenis burung daripada kebun nonorganik". Rancangan yang paling tepat adalah...
-A. Menghitung burung di kebun organik saja dan menyimpulkan
-B. Menganggap kebun organik pasti lebih banyak burung karena labelnya
-C. Bertanya kepada petani organik berapa jumlah burung
-D. Menghitung jenis burung di BANYAK pasangan kebun (organik vs nonorganik) yang dekat, memakai metode sama dalam periode yang sama
 
 **(2) Pilihan Jawaban:**
 A. Menghitung burung di kebun organik saja dan menyimpulkan
@@ -1647,10 +1471,6 @@ Data populasi dua spesies ular di sebuah lembah tiga tahun berturut-turut:
 | 2021 | 33 | 40 | 30 |
 
 Pada 2020–2021 sebagian sawah dialihkan menjadi pabrik (katak bergantung pada sawah basah). Kesimpulan PALING didukung data adalah...
-A. Ular A ikut menurun besar karena habitatnya hilang
-B. Ular B menurun jauh lebih tajam karena makanannya (katak) kehilangan sawah basah; ular A yang makan tikus hampir tidak terganggu
-C. Kedua ular naik karena habitat baru dibuat
-D. ular B naik karena katak makin banyak
 
 **(2) Pilihan Jawaban:**
 A. Ular A ikut menurun besar karena habitatnya hilang
@@ -1680,10 +1500,6 @@ D. ular B naik karena katak makin banyak
 
 **(1) Soal:**
 Jaring di pegunungan: pinus → lembing → tupai; pinus → burung pipit → tupai? (salah arah) — koreksi: pinus → kumbang → burung pelatuk; pinus → burung pipit → elang; kumbang → burung pelatuk → elang. Jika pinus ditebang berlebihan hingga biji & serangganya berkurang, spesies yang paling cepat terdampak adalah...
-A. Elang (di puncak jaring) — semua sumber makanannya berkurang
-B. Rumput (tidak terkait pinus)
-C. Batu (abiotik)
-D. Burung pipit hanya seorang
 
 **(2) Pilihan Jawaban:**
 A. Elang (di puncak jaring) — semua sumber makanannya berkurang
@@ -1713,10 +1529,6 @@ D. Burung pipit hanya seorang
 
 **(1) Soal:**
 Sebuah danau dikhawatirkan kemasukan ikan mas (bukan asli) yang bisa menjadi invasif. Tindakan PENCEGAHAN paling tepat sejak awal adalah...
-A. Menunggu sampai ikan menyebar baru berpikir
-B. Memasang pintu-pintu air / pembatas yang mencegah lalulintas ikan antar perairan dan mengawasi buangan akuarium masyarakat
-C. Menebang semua pohon di tepi danau
-D. Menaikkan suhu air danau dengan pemanas
 
 **(2) Pilihan Jawaban:**
 A. Menunggu sampai ikan menyebar baru berpikir
@@ -1746,10 +1558,6 @@ D. Menaikkan suhu air danau dengan pemanas
 
 **(1) Soal:**
 Di daerah perbukitan, warga terpaksa membuka lahan dengan membakar karena itu cara termurah. Udara menjadi tercemar dan lahan cepat tandus. Solusi berkelanjutan yang paling tepat adalah...
-A. Melarang pembakaran seraya menyediakan teknik pengolahan lahan hemat biaya dan ramah lingkungan (kompos, mulsa, pembajakan manual)
-B. Membiarkan pembakaran karena sudah turun-temurun
-C. Mendorong petani membakar lebih besar agar hasil lebih banyak
-D. Memberi hukuman berat tanpa sosialisasi alternatif
 
 **(2) Pilihan Jawaban:**
 A. Melarang pembakaran seraya menyediakan teknik pengolahan lahan hemat biaya dan ramah lingkungan (kompos, mulsa, pembajakan manual)
@@ -1779,10 +1587,6 @@ D. Memberi hukuman berat tanpa sosialisasi alternatif
 
 **(1) Soal:**
 Di dataran tinggi, anggrek langka endemik hanya tumbuh di satu gunung. Perencana ingin membangun restoran puncak gunung tersebut. Prioritas pertama pelestarian yang paling tepat adalah...
-A. Membangun restoran dengan jendela gelap agar anggrek tak terganggu matahari
-B. Memindahkan seluruh gunung berlapis-lapis ke lokasi lain
-C. Membiarkan pembangunan dengan kompensasi menanam anggrek plastik
-D. Menetapkan kawasan anggrek sebagai zona perlindungan penuh (tidak boleh dibangun), mengalihkan lokasi bangunan ke zona di luar habitat, dan menanam bibit anggrek cadangan di kebun raya
 
 **(2) Pilihan Jawaban:**
 A. Membangun restoran dengan jendela gelap agar anggrek tak terganggu matahari
@@ -1812,10 +1616,6 @@ D. Menetapkan kawasan anggrek sebagai zona perlindungan penuh (tidak boleh diban
 
 **(1) Soal:**
 Di hutan gambut, kanal-kanal pengeringan dibangun untuk sawit. Tanah gambut kering lalu mudah terbakar. Urutan dampak bencana terpanjang yang paling tepat adalah...
-A. Hutan berhenti terbakar karena kering
-B. Gambut kering → mudah terbakar → kebakaran membakar gambut dan pohon → satwa kehilangan habitat & asap mencemari → ekosistem gambut sulit pulih
-C. Kanal menambah air sehingga gambut tetap basah
-D. Kebakaran menyuburkan tanah gambut sehingga hutan baru lebih banyak
 
 **(2) Pilihan Jawaban:**
 A. Hutan berhenti terbakar karena kering
@@ -1845,10 +1645,6 @@ D. Kebakaran menyuburkan tanah gambut sehingga hutan baru lebih banyak
 
 **(1) Soal:**
 Duyung (dugong) adalah mamalia laut yang masuk perairan Indonesia dan memakan lamun (seagrass). Jika lamun di pesisir rusak karena reklamasi dan polusi, maka yang paling mungkin terjadi adalah...
-A. Duyung bertambah karena pengganti makanannya berlimpah
-B. Duyung berpindah memakan rumput darat
-C. Sumber makanan duyung berkurang, populasi duyung menurun, dan ekosistem lamun (rumah ikan kecil) ikut rusak
-D. Duyung berubah menjadi ikan
 
 **(2) Pilihan Jawaban:**
 A. Duyung bertambah karena pengganti makanannya berlimpah
@@ -1878,10 +1674,6 @@ D. Duyung berubah menjadi ikan
 
 **(1) Soal:**
 Sebuah berita: "Nilai keanekaragaman hayati Taman Nasional Bromo menurun 2019." Tindakan evaluasi yang paling tepat agar klaim itu bisa dimaknai benar adalah...
-A. Melihat metode pengumpulan data (berapa banyak plot, alat apa, apakah lokasi sampel adil) sebab tanpa metode klaim tidak bermakna
-B. Langsung percaya karena dipakai berita televisi
-C. Menganggap penurunan pasti karena pengunjung membuang sampah
-D. Menghapus klaim karena semua berita pasti salah
 
 **(2) Pilihan Jawaban:**
 A. Melihat metode pengumpulan data (berapa banyak plot, alat apa, apakah lokasi sampel adil) sebab tanpa metode klaim tidak bermakna
@@ -1920,10 +1712,6 @@ Tabel hasil tangkapan tiga spesies ikan di muara pantai yang sama:
 | 2019 | 3,0 | 2,1 | 1,2 |
 
 Muara mangrove ditebang besar-besaran menjelang 2017. Kesimpulan yang PALING didukung data adalah...
-A. Ikan teri naik tajam tiap tahun
-B. Tangkapan justru naik karena kapal makin banyak
-C. Mangrove tidak berpengaruh karena hasil tangkapan ditentukan kapal
-D. Semua tangkapan turun setelah habitat mangrove rusak, sehingga kerusakan habitat diduga menurunkan daya dukung ikan dan udang
 
 **(2) Pilihan Jawaban:**
 A. Ikan teri naik tajam tiap tahun
@@ -1953,10 +1741,6 @@ D. Semua tangkapan turun setelah habitat mangrove rusak, sehingga kerusakan habi
 
 **(1) Soal:**
 Jaring makanan di kebun cokelat: biji cokelat → tikus → ular; biji cokelat → burung → elang; tikus → elang. Petani mengintroduksi racun yang mematikan burung secara tidak sengaja. Perkiraan dampak PALING tepat adalah...
-A. Elang semakin banyak karena memakan tikus yang melimpah
-B. Tikus melonjak karena pemangsanya (elang) bisa pindah ke tikus, tetapi populasi elang masih tertekan karena burung (mangsa utama) hilang; tikus tetap naik dan biji cokelat terancam
-C. Biji cokelat bertambah karena burung hilang
-D. Tidak ada pengaruh karena burung dan elang tak berhubungan
 
 **(2) Pilihan Jawaban:**
 A. Elang semakin banyak karena memakan tikus yang melimpah
@@ -1986,10 +1770,6 @@ D. Tidak ada pengaruh karena burung dan elang tak berhubungan
 
 **(1) Soal:**
 Di satu pulau kecil, tikus (bukan asli) memangsa telur burung laut yang bersarang di tanah. Mengapa pengendalian tikus harus dilakukan dengan hati-hati dan tidak memakai racun yang menyebar luas?
-A. Racun yang menyebar luas bisa ikut membunuh burung laut, biota bukan sasaran, dan pencemaran rantai makanan
-B. Tikus tidak membahayakan burung
-C. Racun membuat tikus bertambah
-D. Burung laut suka racun
 
 **(2) Pilihan Jawaban:**
 A. Racun yang menyebar luas bisa ikut membunuh burung laut, biota bukan sasaran, dan pencemaran rantai makanan
@@ -2019,10 +1799,6 @@ D. Burung laut suka racun
 
 **(1) Soal:**
 Peternak sapi melepas ternaknya berkeliaran di hutan lindung karena tanpa biaya kandang. Akibatnya rumput dan semai pohon ludes. Solusi berkelanjutan yang paling masuk akal adalah...
-A. Menyeret semua ternak keluar tanpa kompensasi
-B. Menanam lebih banyak rumput di hutan agar ternak kenyang
-C. Membiarkan ternak karena hutan bisa pulih sendiri
-D. Memberi insentif kandang bersama dan penggembalaan di lahan khusus, sambil menutup hutan lindung agar semaian pulih
 
 **(2) Pilihan Jawaban:**
 A. Menyeret semua ternak keluar tanpa kompensasi
@@ -2052,10 +1828,6 @@ D. Memberi insentif kandang bersama dan penggembalaan di lahan khusus, sambil me
 
 **(1) Soal:**
 Ikan arwana (salah satu ikan hias termahal) hidup di rawa gambut. Penangkapan liar merajalela karena harga mahal. Desain konservasi paling lengkap adalah...
-A. Menaikkan harga jual agar penangkap kaya sehingga berhenti menangkap
-B. Penangkaran resmi (ex-situ) untuk pasokan pasar + patroli rawa + restocking jalur sungai yang masih berfungsi + dorongan budidaya rakyat
-C. Menebang semua rawa agar ikan tak bisa ditangkap
-D. Menutup seluruh usaha ikan arwana di Indonesia
 
 **(2) Pilihan Jawaban:**
 A. Menaikkan harga jual agar penangkap kaya sehingga berhenti menangkap
@@ -2085,10 +1857,6 @@ D. Menutup seluruh usaha ikan arwana di Indonesia
 
 **(1) Soal:**
 Di danau gunung, ikan pemakan ganggang menurun drastis karena ditangkap untuk ikan hias. Urutan dampak yang paling mungkin adalah...
-A. Ganggang melonjak → menutupi danau → kanal penyerap cahaya & nutrisi berkurang (mengurangi oksigen) → ikan penghuni lain tertekan
-B. Ganggang aman karena belum ada yang memakannya
-C. Danau bertambah jernih karena pemanen ganggang hilang
-D. Ikan predator di danau bertambah
 
 **(2) Pilihan Jawaban:**
 A. Ganggang melonjak → menutupi danau → kanal penyerap cahaya & nutrisi berkurang (mengurangi oksigen) → ikan penghuni lain tertekan
@@ -2118,10 +1886,6 @@ D. Ikan predator di danau bertambah
 
 **(1) Soal:**
 Komodo di Nusa Tenggara terancam dua hal: perburuan tak langsung (lewat makan bangkai beracun) dan berkurangnya rusa/mangsa karena perburuan. Bila populasi mangsa komodo terus menurun, yang PALING mungkin terjadi pada komodo adalah...
-A. Komodo tetap sehat karena makan bangkai apa saja
-B. Komodo pindah ke pulau lain yang tidak ada mangsanya
-C. Komodo kesulitan makan, perkembangbiakan terganggu, dan populasi menurun
-D. Komodo berubah menjadi pemakan rumput
 
 **(2) Pilihan Jawaban:**
 A. Komodo tetap sehat karena makan bangkai apa saja
@@ -2151,10 +1915,6 @@ D. Komodo berubah menjadi pemakan rumput
 
 **(1) Soal:**
 Siswa membandingkan dua halaman sekolah: satu ditanam bermacam bunga, satu lain berumput saja. Ia menghitung jumlah kupu-kupu seminggu. Kesimpulan yang PALING tepat dia tulis adalah...
-A. Halaman berbunga punya kupu-kupu, halaman berumput tidak → jadi menanam bunga terbukti meningkatkan jumlah kupu-kupu
-B. Kupu-kupu hanya muncul di halaman berbunga saat dia mengamati → untuk membuktikan sebabnya, perlu diamati berulang dan diukur pada kondisi yang sama
-C. Semua bunga pasti menarik kupu-kupu
-D. Kupu-kupu tidak menyukai rumput sehingga berpindah selamanya
 
 **(2) Pilihan Jawaban:**
 A. Halaman berbunga punya kupu-kupu, halaman berumput tidak → jadi menanam bunga terbukti meningkatkan jumlah kupu-kupu
@@ -2193,10 +1953,6 @@ Tabel jumlah pasangan burung hantu di kawasan lindung (dihitung tiap Maret):
 | 2020 | 10 | 300 | 48 |
 
 Antara 2018–2019 terjadi penebangan parah di sebagian kawasan. Kesimpulan PALING benar berdasarkan data dan aturan pola mangsa-pemangsa adalah...
-A. Burung hantu bertambah terus karena tikus selalu banyak
-B. Hutan tidak punya hubungan dengan tikus
-C. Tikus tidak terpengaruh burung hantu
-D. Tikus bertambah karena pemangsanya (burung hantu) meningkat, tetapi saat tikus dan hutan turun bersama di 2020, burung hantu ikut turun — data cocok dengan pola mangsa-pemangsa yang saling terkait
 
 **(2) Pilihan Jawaban:**
 A. Burung hantu bertambah terus karena tikus selalu banyak
@@ -2226,10 +1982,7 @@ D. Tikus bertambah karena pemangsanya (burung hantu) meningkat, tetapi saat tiku
 
 **(1) Soal:**
 Jaring: nektar bunga → lebah → burung pemakan lebah; nektar → kupu-kupu → laba-laba → burung pemakan serangga. Jika lebah menurun drastis karena penyakit, spesies yang paling merasakan efek cepat adalah...
-A. Bunga (penyerbukan berkurang) dan burung pemakan lebah (mangsa pokok berkurang)
-B. Laba-laba (tidak bergantung lebah)
-C. Batu dan pasir
-D. Rumput liar di pinggir
+
 **(2) Pilihan Jawaban:**
 A. Bunga (penyerbukan berkurang) dan burung pemakan lebah (mangsa pokok berkurang)
 B. Laba-laba (tidak bergantung lebah)
@@ -2258,10 +2011,6 @@ D. Rumput liar di pinggir
 
 **(1) Soal:**
 Di kebun botani, guppy yang dilepas pengunjung ke kolam berhasil menyingkirkan beberapa jenis serangga air asli. Staf ingin memulihkan kolam. Pilihan terbaik adalah...
-A. Menebang pohon di sekitar kolam supaya pengunjung tak suka
-B. Membiarkan guppy karena merekaya cantik
-C. Menambah guppy lagi agar kolam penuh
-D. Menguras dan memindahkan guppy, memulihkan tumbuhan air asli, lalu memberlakukan aturan "dilarang melepas hewan" kepada pengunjung
 
 **(2) Pilihan Jawaban:**
 A. Menebang pohon di sekitar kolam supaya pengunjung tak suka
@@ -2291,10 +2040,6 @@ D. Menguras dan memindahkan guppy, memulihkan tumbuhan air asli, lalu memberlaku
 
 **(1) Soal:**
 Di pesisir, rumah karang alami (ekosistem reef) dimanfaatkan warga dengan bom ikan untuk hasil cepat. Rancangan solusi berkelanjutan terbaik adalah...
-A. Mengganti karang dengan beton agar tak diledakkan
-B. Menangkap pengebom lalu menyerahkannya tanpa alternatif mata pencaharian
-C. Mendorong alat tangkap ramah lingkungan + patroli berlapis + ekowisata karang yang memberi pendapatan warga + budidaya ikan dalam keramba (daripada bom)
-D. Membiarkan bom karena kebutuhan ekonomi warga
 
 **(2) Pilihan Jawaban:**
 A. Mengganti karang dengan beton agar tak diledakkan
@@ -2324,10 +2069,6 @@ D. Membiarkan bom karena kebutuhan ekonomi warga
 
 **(1) Soal:**
 Kakatua jambul kuning di pedalaman Nusa Tenggara hampir masuk daftar terancam karena perdagangan hewan. Habitat alaminya masih luas dan sehat. Strategi konservasi yang paling tepat didukung situasi ini adalah...
-A. Menangkap Semua kakatua lalu menetaskanya di laboratorium rahasia
-B. Memperkuat patroli habitat dan penegakan hukum perdagangan (in-situ) karena habitat masih sehat; penangkaran hanya saat memang diperlukan
-C. Menebang seperempat hutan agar kakatua tidak bisa ditangkap
-D. Menunda semua tindakan sampai punah
 
 **(2) Pilihan Jawaban:**
 A. Menangkap Semua kakatua lalu menetaskanya di laboratorium rahasia
@@ -2357,10 +2098,7 @@ D. Menunda semua tindakan sampai punah
 
 **(1) Soal:**
 Di hutan bakau, burung bangau memakan ikan-ikan kecil. Warga menangkap semua ikan kecil (yang akan menjadi induk) untuk pakan ternak. Urutan dampak yang terjadi adalah...
-A. Ikan kecil berkurang → bangau kekurangan pangan → populasi bangau turun → bakau (tanpa penebaran biji dari ikan) terpengaruh
-B. Ikan kecil bertambah → bangau kenyang
-C. Bangau bertambah → menangkap lebih banyak ikan
-D. Bakau tetap malah lebat
+
 **(2) Pilihan Jawaban:**
 A. Ikan kecil berkurang → bangau kekurangan pangan → populasi bangau turun → bakau (tanpa penebaran biji dari ikan) terpengaruh
 B. Ikan kecil bertambah → bangau kenyang
@@ -2389,10 +2127,7 @@ D. Bakau tetap malah lebat
 
 **(1) Soal:**
 Burung Kepodang (Oriolus) yang endemik Jawa bersarang di hutan depan kota. Pembangunan bangunan tinggi menyebabkan kepodang tidak menemukan pohon besar yang tepat untuk sarang. Akibat paling mendasar adalah...
-A. Kepodang bersarang di layang-layang listrik karena lebih tinggi
-B. Gagal bersarang dan pembiakan menurun → populasi menurun
-C. Kepodang berubah menjadi burung pantai
-D. Kepodang bertambah karena gedung memberikan perlindungan
+
 **(2) Pilihan Jawaban:**
 A. Kepodang bersarang di layang-layang listrik karena lebih tinggi
 B. Gagal bersarang dan pembiakan menurun → populasi menurun
@@ -2421,10 +2156,7 @@ D. Kepodang bertambah karena gedung memberikan perlindungan
 
 **(1) Soal:**
 Sebuah pabrik mengklaim: "Pembuangan limbah kami TIDAK mencemari sungai karena ikan masih ada di sungai." Alasan mengapa klaim ini lemah adalah...
-A. Keberadaan ikan tidak otomatis berarti air bersih; bisa jadi hanya spesies yang tahan polusi, dan tidak diukur kadar kimia sungai
-B. Ikan selalu mati jika ada polusi
-C. Kalau ada ikan berarti sungai pasti sangat bersih
-D. Limbah pabrik tidak masuk ke sungai
+
 **(2) Pilihan Jawaban:**
 A. Keberadaan ikan tidak otomatis berarti air bersih; bisa jadi hanya spesies yang tahan polusi, dan tidak diukur kadar kimia sungai
 B. Ikan selalu mati jika ada polusi
@@ -2460,10 +2192,7 @@ Tabel lamun (tumbuhan pesisir) dan penyu di dua teluk:
 | Y (terpencil) | 55 | 54 | 45 |
 
 Antara 2018–2021 dermaga di X diperluas. Kesimpulan PALING didukung data adalah...
-A. Penambahan dermaga justru menambah lamun
-B. Penyu di X lebih banyak daripada Y
-C. Lamun di Y berkurang lebih parah daripada X
-D. Lamun X menyusut dan penyu jarang datang, sementara Y stabil dan penyu melimpah — kerusakan lamun (oleh dermaga) berhubungan dengan berkurangnya kehadiran penyu
+
 **(2) Pilihan Jawaban:**
 A. Penambahan dermaga justru menambah lamun
 B. Penyu di X lebih banyak daripada Y
@@ -2492,10 +2221,7 @@ D. Lamun X menyusut dan penyu jarang datang, sementara Y stabil dan penyu melimp
 
 **(1) Soal:**
 Alga → keong → kepiting; alga → ikan kecil → kepiting; alga → ikan kecil → burung laut. Jika semua kepiting dibasmi (oleh virus), maka...
-A. Keong & ikan kecil bertambah sementara burung laut juga bisa bertambah lewat berlimpahnya ikan kecil — tetapi ganggang menipis oleh terlalu banyak pemakan rumput
-B. Kepiting bertambah karena bebas kompetisi
-C. Burung laut berkurang karena kepiting menghabiskannya
-D. Alga mekar tak terkendali karena kepiting pemangkasnya
+
 **(2) Pilihan Jawaban:**
 A. Keong & ikan kecil bertambah sementara burung laut juga bisa bertambah lewat berlimpahnya ikan kecil — tetapi ganggang menipis oleh terlalu banyak pemakan rumput
 B. Kepiting bertambah karena bebas kompetisi
@@ -2524,10 +2250,7 @@ D. Alga mekar tak terkendali karena kepiting pemangkasnya
 
 **(1) Soal:**
 Rumput asing yang tahan naungan masuk kebun dan menyingkirkan rumput lokal. Langkah yang paling tepat adalah...
-A. Menebang semua pohon agar sinar matahari membunuh rumput asing
-B. Menyiram herbisida seluas bumi
-C. Membiarkan karena rumput juga hijau
-D. Menggali dan membuang gulma asing pada area awal (persemaian), menanam kembali rumput lokal, dan memantau area yang terbebas
+
 **(2) Pilihan Jawaban:**
 A. Menebang semua pohon agar sinar matahari membunuh rumput asing
 B. Menyiram herbisida seluas bumi
@@ -2556,10 +2279,7 @@ D. Menggali dan membuang gulma asing pada area awal (persemaian), menanam kembal
 
 **(1) Soal:**
 Danau lindung menjadi tempat hidup ikan lokal. Petani tepi danau menggunakan pestisida yang mengalir ke danau. Solusi berkelanjutan bersama warga adalah...
-A. Melarang petani bertani di sekitar danau
-B. Menyangga tepi danau dengan beton penuh
-C. Program pertanian ramah danau (pestisida nabati & jarak aman dari tepi), penyuluhan, dan insentif untuk pola tani ramah lingkungan
-D. Membiarkan karena petani butuh pestisida
+
 **(2) Pilihan Jawaban:**
 A. Melarang petani bertani di sekitar danau
 B. Menyangga tepi danau dengan beton penuh
@@ -2588,10 +2308,7 @@ D. Membiarkan karena petani butuh pestisida
 
 **(1) Soal:**
 Di sebuah danau kecil hanya tinggal 20 ekor kura-kura endemik dan habitat basahnya menyusut. Para ahli berdebat: apakah dipindahkan (ex-situ) atau tetap di tempat (in-situ). Keputusan paling tepat didasarkan pada...
-A. Menilai dulu apakah habitat masih mencukupi untuk 20 ekor; bila tidak, pindahkan sebagian ke penangkaran sambil memperbaiki habitatnya — kombinasi adalah pilihan terbaik
-B. Selalu memindahkan semua tanpa tinjauan
-C. Selalu membiarkan di tempat tanpa tinjauan
-D. Memindahkan danau itu sendiri
+
 **(2) Pilihan Jawaban:**
 A. Menilai dulu apakah habitat masih mencukupi untuk 20 ekor; bila tidak, pindahkan sebagian ke penangkaran sambil memperbaiki habitatnya — kombinasi adalah pilihan terbaik
 B. Selalu memindahkan semua tanpa tinjauan
@@ -2620,10 +2337,7 @@ D. Memindahkan danau itu sendiri
 
 **(1) Soal:**
 Di kebun kelapa sawit (sudah monokultur), burung dan kelelawar sudah jarang. Jika tikus sawit meledak, kendala utama yang mencegah pemulihan alami adalah...
-A. Pemangsa tikus (burung hantu, ular, kelelawar) sulit hidup di monokultur, sehingga ledakan tikus sulit dikendalikan secara alami
-B. Tikus sawit tidak berbahaya
-C. Kelelawar membantu tikus berkembang biak
-D. Monokultur menyediakan banyak sarang pemangsa
+
 **(2) Pilihan Jawaban:**
 A. Pemangsa tikus (burung hantu, ular, kelelawar) sulit hidup di monokultur, sehingga ledakan tikus sulit dikendalikan secara alami
 B. Tikus sawit tidak berbahaya
@@ -2652,10 +2366,7 @@ D. Monokultur menyediakan banyak sarang pemangsa
 
 **(1) Soal:**
 Badak jawa di Ujung Kulon hidup di tepi pantai dan rawa. Bila tsunami besar menghantam pantai Ujung Kulon, maka...
-A. Badak langsung pindah ke pegunungan karena dekat
-B. Sebagian besar habitat tepi pantai rusak, populasi badak sangat terpukul karena semua hidup di satu tempat, dan perlu upaya pemulihan habitat serta cadangan populasi
-C. Badak berenang ke Sumatera dan melanjutkan hidup
-D. Tsunami membawa badak ke tempat lebih subur — tetap aman
+
 **(2) Pilihan Jawaban:**
 A. Badak langsung pindah ke pegunungan karena dekat
 B. Sebagian besar habitat tepi pantai rusak, populasi badak sangat terpukul karena semua hidup di satu tempat, dan perlu upaya pemulihan habitat serta cadangan populasi
@@ -2684,10 +2395,7 @@ D. Tsunami membawa badak ke tempat lebih subur — tetap aman
 
 **(1) Soal:**
 Pernyataan siswa: "Semakin banyak duri pada tanaman, semakin sedikit hewan yang memakannya" — ia mengamati 10 jenis tanaman. Manakah yang merupakan penilaian paling tepat tentang pernyataan itu?
-A. Sudah terbukti karena diamati 10 jenis
-B. Babi hutan pasti takut duri apapun
-C. 10 pengamatan memberi petunjuk awal, tetapi untuk menyatakan "semakin banyak duri → semakin sedikit pemakan", perlu pengukuran dan uji pada lebih banyak bahan serta kondisi terkontrol
-D. Duri tidak pernah memengaruhi hewan
+
 **(2) Pilihan Jawaban:**
 A. Sudah terbukti karena diamati 10 jenis
 B. Babi hutan pasti takut duri apapun
@@ -2725,10 +2433,7 @@ Data pengamatan 4 tahun di rawa:
 | 2021 | 22 | 800 | 2,1 |
 
 Pada 2019–2020 banyak pupuk masuk rawa dari lahan pertanian. Kesimpulan PALING didukung data adalah...
-A. Amonia tidak ada hubungannya dengan ikan
-B. Bangau naik terus karena amonia menyuburkan
-C. Ikan gabus bertambah karena amonia
-D. Bangau dan ikan gabus menurun bersamaan kenaikan amonia; kenaikan pencemaran (amonia) diduga menekan rantai makanan rawa
+
 **(2) Pilihan Jawaban:**
 A. Amonia tidak ada hubungannya dengan ikan
 B. Bangau naik terus karena amonia menyuburkan
@@ -2757,10 +2462,7 @@ D. Bangau dan ikan gabus menurun bersamaan kenaikan amonia; kenaikan pencemaran 
 
 **(1) Soal:**
 Dalam jaring: rumput → belalang → katak → ular; rumput → tikus → ular. Jika seluruh katak mati karena penyakit jamur, makhluk yang paling besar tekanan berikutnya dialami...
-A. Belalang (kehilangan predator), lalu rumput (karena tikus sebagai pemakan rumput juga)
-B. Ular (makanan katak hilang)
-C. Rumput bertambah (tidak ada yang memakannya)
-D. Tikus bertambah (tanpa saingan katak)
+
 **(2) Pilihan Jawaban:**
 A. Belalang (kehilangan predator), lalu rumput (karena tikus sebagai pemakan rumput juga)
 B. Ular (makanan katak hilang)
@@ -2789,10 +2491,7 @@ D. Tikus bertambah (tanpa saingan katak)
 
 **(1) Soal:**
 Di sungai, kepiting merah (bukan asli) menyebar cepat. Fakta bahwa kepiting ini tahan di air berlumpur dan punya banyak telur membuatnya sulit diberantas saat sudah menyebar. Cara paling tepat untuk menghentikannya SEBELUM menyebar luas adalah...
-A. Membiarkan karena sudah terlambat
-B. Deteksi dini di titik masuk (pelabuhan, jembatan, saluran) + larangan dan kontrol buangan akuarium serta pembersihan alat transportasi air
-C. Melepas kepiting merah lagi agar saling menekan
-D. Menutung seluruh sungai
+
 **(2) Pilihan Jawaban:**
 A. Membiarkan karena sudah terlambat
 B. Deteksi dini di titik masuk (pelabuhan, jembatan, saluran) + larangan dan kontrol buangan akuarium serta pembersihan alat transportasi air
@@ -2821,10 +2520,7 @@ D. Menutung seluruh sungai
 
 **(1) Soal:**
 Desa wisata ingin memanfaatkan hutan lindung untuk atraksi. Rancangan terbaik dan paling bertanggung jawab adalah...
-A. Membangun jalan aspal menembus hutan agar banyak pengunjung
-B. Menjual tiket tanpa aturan demi pendapatan maksimal
-C. Menyerahkan hutan kepada investor hotel besar
-D. Ekowisata dengan jalur tetap, kuota pengunjung harian, pemandu lokal terlatih, dan dana masuk untuk patroli & pemeliharaan habitat
+
 **(2) Pilihan Jawaban:**
 A. Membangun jalan aspal menembus hutan agar banyak pengunjung
 B. Menjual tiket tanpa aturan demi pendapatan maksimal
@@ -2851,10 +2547,7 @@ D. Ekowisata dengan jalur tetap, kuota pengunjung harian, pemandu lokal terlatih
 
 **(1) Soal:**
 Di taman nasional, pemburu menyamar sebagai wisatawan menembak burung rusa era. Ada dua usulan: (a) menambah pos jaga; (b) menutup wisata seluruhnya. Keputusan paling tepat adalah...
-A. Menutup wisata seluruhnya tanpa solusi alternatif, supaya tidak ada orang masuk
-B. Menambah pos jaga dan sistem izin masuk yang jelas (kunjungan terkendali), sehingga pemburu mudah dikenali dan wisata tetap berjalan sehat
-C. Menghapus patung pos jaga dan tidak menggantinya
-D. Membiarkan karena pemburu hanya sedikit
+
 **(2) Pilihan Jawaban:**
 A. Menutup wisata seluruhnya tanpa solusi alternatif, supaya tidak ada orang masuk
 B. Menambah pos jaga dan sistem izin masuk yang jelas (kunjungan terkendali), sehingga pemburu mudah dikenali dan wisata tetap berjalan sehat
@@ -2883,10 +2576,7 @@ D. Membiarkan karena pemburu hanya sedikit
 
 **(1) Soal:**
 Di daerah pertanian, lebah madu dipelihara massal untuk panen madu. Tiba-tiba panen madu anjlok dan buah-buahan petani juga berkurang. Hubungan yang PALING logis adalah...
-A. Lebah yang sedikit otomatis membuat buah semakin banyak karena tidak mengganggu
-B. Buah berkurang karena lebah memakan buah-buahan
-C. Lebah madu hanya berguna untuk isi perut manusia
-D. Lebah madu membantu penyerbukan bunga; berkurangnya koloni lebah berarti penyerbukan berkurang → madu dan buah sama-sama turun
+
 **(2) Pilihan Jawaban:**
 A. Lebah yang sedikit otomatis membuat buah semakin banyak karena tidak mengganggu
 B. Buah berkurang karena lebah memakan buah-buahan
@@ -2915,10 +2605,7 @@ D. Lebah madu membantu penyerbukan bunga; berkurangnya koloni lebah berarti peny
 
 **(1) Soal:**
 Jalak bali, endemik Bali, habitat aslinya (hutan kering Bali) menyusut dan penangkaran liar marak. Mengapa penangkaran SEHARUSNYA dibarengi restorasi habitat aslinya?
-A. Karena burung senang hidup di kandang
-B. Karena penangkaran hanya perbanyak burung; tanpa habitat liar yang siap, burung hasil penangkaran tak punya rumah untuk dilepasliarkan
-C. Karena habitat liar hanya untuk kecantikan
-D. Karena restorasi membuat burung takut
+
 **(2) Pilihan Jawaban:**
 A. Karena burung senang hidup di kandang
 B. Karena penangkaran hanya perbanyak burung; tanpa habitat liar yang siap, burung hasil penangkaran tak punya rumah untuk dilepasliarkan
@@ -2947,10 +2634,7 @@ D. Karena restorasi membuat burung takut
 
 **(1) Soal:**
 Dua tim meneliti jumlah spesies kupu-kupu di hutan yang sama. Tim A: 40 spesies; Tim B: 25 spesies. Langkah paling tepat sebelum menyimpulkan "siapa benar" adalah...
-A. Menerima angka terbesar sebagai yang benar
-B. Memeriksa metode: kapan mengamati, berapa hari, jam berapa, alat dan cara menangkapnya — sebab perbedaan metode bisa menimbulkan beda hasil
-C. Mengumumkan satu peneliti bohong
-D. Rata-rata kan saja 32,5
+
 **(2) Pilihan Jawaban:**
 A. Menerima angka terbesar sebagai yang benar
 B. Memeriksa metode: kapan mengamati, berapa hari, jam berapa, alat dan cara menangkapnya — sebab perbedaan metode bisa menimbulkan beda hasil
@@ -2988,10 +2672,7 @@ Data penangkaran penyu (jumlah tukik yang dilepas) dan jumlah sarang alam:
 | 2021 | 30 | 1200 |
 
 Kesimpulan PALING didukung data adalah...
-A. Sarang alam masih belum menunjukkan kenaikan nyata meski penangkaran besar-besaran berjalan; butuh waktu bertahun karena penyu baru bertelur setelah dewasa (lama)
-B. Penangkaran berhasil menaikkan sarang dengan cepat
-C. Sarang alam turun terus sehingga penangkaran gagal
-D. Data tidak menunjukkan apa-apa
+
 **(2) Pilihan Jawaban:**
 A. Sarang alam masih belum menunjukkan kenaikan nyata meski penangkaran besar-besaran berjalan; butuh waktu bertahun karena penyu baru bertelur setelah dewasa (lama)
 B. Penangkaran berhasil menaikkan sarang dengan cepat
@@ -3020,10 +2701,7 @@ D. Data tidak menunjukkan apa-apa
 
 **(1) Soal:**
 Jaring di sawah: padi → tikus → ular sawah; padi → wereng → laba-laba → ular sawah; tikus → burung hantu. Jika ular sawah diambil masal oleh pemburu kulit, spesies yang POPULASINYA paling mungkin MELONJAK adalah...
-A. Padi
-B. Burung hantu (karena tikusnya berkurang)
-C. Wereng (karena musuhnya lebih banyak)
-D. Tikus (karena pemangsanya, ular sawah, berkurang drastis)
+
 **(2) Pilihan Jawaban:**
 A. Padi
 B. Burung hantu (karena tikusnya berkurang)
@@ -3052,10 +2730,7 @@ D. Tikus (karena pemangsanya, ular sawah, berkurang drastis)
 
 **(1) Soal:**
 Eceng gondok menutup 40% permukaan danau pemukiman dan menggusur tumbuhan air asli. Kenapa pemilihan "menguras danau" bukan solusi tepat meski cepat?
-A. Menguras membuang seluruh biota asli bersama gulma, merusak dasar danau, dan mengganggu kegiatan warga; pilihan ekologis justru panen bertahap + perbaikan habitat
-B. Menguras adalah cara tercepat dan paling aman
-C. Menguras tidak menghilangkan eceng gondok
-D. Menguras hanya boleh dilakukan saat hujan
+
 **(2) Pilihan Jawaban:**
 A. Menguras membuang seluruh biota asli bersama gulma, merusak dasar danau, dan mengganggu kegiatan warga; pilihan ekologis justru panen bertahap + perbaikan habitat
 B. Menguras adalah cara tercepat dan paling aman
@@ -3084,10 +2759,7 @@ D. Menguras hanya boleh dilakukan saat hujan
 
 **(1) Soal:**
 Suaka margasatwa dekat desa; ternak desa bebas masuk karena pagar rusak. Agar suaka tetap berfungsi dan warga tidak dirugikan, program terbaik adalah...
-A. Menangkap ternak dan menahannya di kantor desa (kandang hukuman)
-B. Membiarkan ternak mencari makan sendiri di dalam suaka
-C. Memberi obat ternak di dalam suaka
-D. Memagari ulang suaka secara permanen + membangun jarak aman, dan memfasilitasi pakan/ternak warga di luar kawasan
+
 **(2) Pilihan Jawaban:**
 A. Menangkap ternak dan menahannya di kantor desa (kandang hukuman)
 B. Membiarkan ternak mencari makan sendiri di dalam suaka
@@ -3116,10 +2788,7 @@ D. Memagari ulang suaka secara permanen + membangun jarak aman, dan memfasilitas
 
 **(1) Soal:**
 Spesies ikan pelangi endemik hidup di danau-danau karst yang tidak terhubung satu sama lain. Satu danau mulai mengering karena penambangan besarnya. Strategi terbaik adalah...
-A. Memindahkan sebagian ikan ke danau karst lain yang sehat (cadangan ekologis) dan sedapat mungkin memulihkan debit air danau yang mengering — kombinasi ex-situ & in-situ
-B. Mengambil semua ikan lalu memasukkan ke akuarium kecil-kecil
-C. Membiarkan danau kering sepenuhnya, ikan pindah sendiri
-D. Menambang lebih banyak untuk memperbesar danau
+
 **(2) Pilihan Jawaban:**
 A. Memindahkan sebagian ikan ke danau karst lain yang sehat (cadangan ekologis) dan sedapat mungkin memulihkan debit air danau yang mengering — kombinasi ex-situ & in-situ
 B. Mengambil semua ikan lalu memasukkan ke akuarium kecil-kecil
@@ -3148,10 +2817,7 @@ D. Menambang lebih banyak untuk memperbesar danau
 
 **(1) Soal:**
 Di pegunungan, burung pelatuk memakan serangga yang hidup di pohon mati. Peternak membakar hutan sederhana untuk membuka padang, memusnahkan semua pohon mati. Dampak berantai yang paling mungkin adalah...
-A. Serangga pohon mati hilang → burung pelatuk kehilangan pangan → populasi pelatuk turun → penyebar biji pohon berkurang → regenerasi hutan terganggu
-B. Serangga bertambah karena tak ada pelatuk
-C. Padang baru menyediakan makan pelatuk
-D. Hutan makin lebat karena terbakar
+
 **(2) Pilihan Jawaban:**
 A. Serangga pohon mati hilang → burung pelatuk kehilangan pangan → populasi pelatuk turun → penyebar biji pohon berkurang → regenerasi hutan terganggu
 B. Serangga bertambah karena tak ada pelatuk
@@ -3180,10 +2846,7 @@ D. Hutan makin lebat karena terbakar
 
 **(1) Soal:**
 Trenggiling (javan pangolin) memiliki sisik yang menjadi incaran perdagangan besar. Populasi di alam menyusut drastis. Mengapa perdagangan sisik adalah ancaman yang memerlukan penegakan hukum, bukan sekadar imbauan?
-A. Karena trenggiling banyak
-B. Karena setiap sisik yang terjual = satu trenggiling yang diburu; jumlah yang hilang jauh melebihi reproduksi alaminya yang sangat lambat
-C. Karena sisik bisa tumbuh lagi
-D. Karena trenggiling tidak merasa sakit
+
 **(2) Pilihan Jawaban:**
 A. Karena trenggiling banyak
 B. Karena setiap sisik yang terjual = satu trenggiling yang diburu; jumlah yang hilang jauh melebihi reproduksi alaminya yang sangat lambat
@@ -3212,10 +2875,7 @@ D. Karena trenggiling tidak merasa sakit
 
 **(1) Soal:**
 Seorang petani berkata: “Pegun sayur saya selalu diserang hama hanya karena kurang menyiangi rumput.” Pernyataan ini ASUNSI karena...
-A. Tanpa data perbandingan (kebun yang rutin disiangi vs tidak) dan tanpa identifikasi hama, penyebab pastinya tidak bisa dipastikan
-B. Rumput pasti penyebab hama
-C. Rumput selalu berisi hama
-D. Sayur pasti bebas hama kalau rumput disiangi
+
 **(2) Pilihan Jawaban:**
 A. Tanpa data perbandingan (kebun yang rutin disiangi vs tidak) dan tanpa identifikasi hama, penyebab pastinya tidak bisa dipastikan
 B. Rumput pasti penyebab hama
@@ -3253,10 +2913,7 @@ Tabel pengamatan periode 2019–2022 di hutan lindung:
 | 2022 | 110 | 30 | 14 |
 
 Kesimpulan PALING didukung data adalah...
-A. Tumbuhan muda naik karena rusa naik
-B. Rusa naik karena tumbuhan bertambah
-C. Carnivora kecil naik karena rusa berkurang
-D. Rusa terus naik seiring tumbuhan muda terus turun — penggembalaan berlebih diduga menekan regenerasi hutan
+
 **(2) Pilihan Jawaban:**
 A. Tumbuhan muda naik karena rusa naik
 B. Rusa naik karena tumbuhan bertambah
@@ -3285,10 +2942,7 @@ D. Rusa terus naik seiring tumbuhan muda terus turun — penggembalaan berlebih 
 
 **(1) Soal:**
 Jaring: rumput → belalang → kadal → elang; rumput → cacing → katak → elang. Bila kadal dan katak berkurang karena pestisida, dampak yang paling mungkin adalah...
-A. Belalang melonjak (kadal berkurang) dan cacing bertambah sedikit (katak berkurang), tetapi elang (pemakan kadal & katak) kehilangan dua jalur pangan
-B. Elang bertambah karena mangsa berkurang
-C. Elang berpindah memakan rumput karena kelaparan
-D. Cacing punah karena katak berkurang
+
 **(2) Pilihan Jawaban:**
 A. Belalang melonjak (kadal berkurang) dan cacing bertambah sedikit (katak berkurang), tetapi elang (pemakan kadal & katak) kehilangan dua jalur pangan
 B. Elang bertambah karena mangsa berkurang
@@ -3317,10 +2971,7 @@ D. Cacing punah karena katak berkurang
 
 **(1) Soal:**
 Di kebun raya, tikus asing memakan akar tanaman purba di rumah kaca. Staf ingin memberantasnya tanpa membahayakan koleksi langka. Pilihan terbaik adalah...
-A. Menyebar racun tikus massal di seluruh rumah kaca
-B. Perangkap selektif dan pemantauan (monitoring) rutin; serta menutup celah masuk tikus
-C. Melepas ular besar pemakan tikus ke rumah kaca tanpa perhitungan
-D. Meninggalkan tikus supaya tanaman beradaptasi
+
 **(2) Pilihan Jawaban:**
 A. Menyebar racun tikus massal di seluruh rumah kaca
 B. Perangkap selektif dan pemantauan (monitoring) rutin; serta menutup celah masuk tikus
@@ -3349,10 +3000,7 @@ D. Meninggalkan tikus supaya tanaman beradaptasi
 
 **(1) Soal:**
 Di lereng gunung, hutan di atas menjadi sumber air desa di bawah, tetapi pohonnya ditebang untuk kayu. Rancangan berkelanjutan yang paling tepat adalah...
-A. Menebang semua pohon lalu menanam kopi homogen
-B. Menutup dan mengusir seluruh warga desa
-C. Membiarkan pohon ditebang demi uang cepat
-D. Membentuk PES (payment for ecosystem services): desa diberi insentif menjaga hutan dari pembalakan, karena jasa air dilindungi; ditambah patroli dan sumber penghasilan alternatif (hutan agroforestry)
+
 **(2) Pilihan Jawaban:**
 A. Menebang semua pohon lalu menanam kopi homogen
 B. Menutup dan mengusir seluruh warga desa
@@ -3381,10 +3029,7 @@ D. Membentuk PES (payment for ecosystem services): desa diberi insentif menjaga 
 
 **(1) Soal:**
 Di kawasan pesisir, karang rusak akibat bom ikan. Selain melarang bom, kebijakan yang paling lengkap adalah...
-A. Membuat kawasan rehabilitasi karang (terumbu transplantasi) + zona larang tangkap + penegakan + mata pencaharian alternatif bagi nelayan pengebom
-B. Hanya melarang bom tanpa pengganti
-C. Menambah bahan peledak untuk dipelajari
-D. Mengabaikan karena karang mati sudah mati
+
 **(2) Pilihan Jawaban:**
 A. Membuat kawasan rehabilitasi karang (terumbu transplantasi) + zona larang tangkap + penegakan + mata pencaharian alternatif bagi nelayan pengebom
 B. Hanya melarang bom tanpa pengganti
@@ -3413,10 +3058,7 @@ D. Mengabaikan karena karang mati sudah mati
 
 **(1) Soal:**
 Di padang savana kecil, api liar menghabiskan hamparan rumput muda. Rantai dampak yang paling tepat adalah...
-A. Rumput muda hilang → herbivora (kijang, domba) kehilangan pangan → karnivora besar kelaparan untuk sementara; setelah hujan rumput tumbuh kembali, sistem pulih perlahan
-B. Herbivora bertambah karena api menghilangkan rumput tua
-C. Karnivora langsung punah selamanya
-D. Rumput tidak akan pernah tumbuh lagi
+
 **(2) Pilihan Jawaban:**
 A. Rumput muda hilang → herbivora (kijang, domba) kehilangan pangan → karnivora besar kelaparan untuk sementara; setelah hujan rumput tumbuh kembali, sistem pulih perlahan
 B. Herbivora bertambah karena api menghilangkan rumput tua
@@ -3445,10 +3087,7 @@ D. Rumput tidak akan pernah tumbuh lagi
 
 **(1) Soal:**
 Di rawa bakau, ular sawah dan buaya berbagi makanan (ikan kecil). Petani mengambil banyak ikan kecil untuk pakan ternak. Dampak berantai paling lengkap adalah...
-A. Tidak ada pengaruh karena ikan kecil sudah banyak
-B. Ikan kecil bertambah karena dimanfaatkan
-C. Buaya bertambah karena ikannya berkurang
-D. Ikan kecil berkurang → ular sawah & buaya bersaing lebih keras → keduanya menurun → fungsi rantai bakau (bibit ikan) ikut menurun
+
 **(2) Pilihan Jawaban:**
 A. Tidak ada pengaruh karena ikan kecil sudah banyak
 B. Ikan kecil bertambah karena dimanfaatkan
@@ -3477,10 +3116,7 @@ D. Ikan kecil berkurang → ular sawah & buaya bersaing lebih keras → keduanya
 
 **(1) Soal:**
 Tim konservasi mengklaim: "Program pelepas jalak bali BERHASIL karena kami melepas 500 burung." Untuk memperkuat klaim, data penutup yang paling penting ditambahkan adalah...
-A. Jumlah burung yang dicabut dari kandang
-B. Jumlah pakan yang dibeli
-C. Jumlah BURUNG YANG HIDUP (survival) dan berkembang biak di alam, mis. hasil pantauan sarang setelah pelepasliaran
-D. Daftar harga jual burung
+
 **(2) Pilihan Jawaban:**
 A. Jumlah burung yang dicabut dari kandang
 B. Jumlah pakan yang dibeli

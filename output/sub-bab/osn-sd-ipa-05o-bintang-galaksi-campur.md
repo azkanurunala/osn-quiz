@@ -164,10 +164,6 @@ Langkah 3: C.
 
 **(1) Soal:**
 Benda langit berbentuk bola gas yang sangat panas dan memancarkan cahayanya sendiri disebut...
-A. Planet
-B. Bintang
-C. Asteroid
-D. Satelit
 
 **(2) Pilihan Jawaban:**
 A. Planet
@@ -196,10 +192,6 @@ D. Satelit
 
 **(1) Soal:**
 Di antara benda langit berikut, yang merupakan contoh bintang adalah...
-A. Bulan
-B. Bumi
-C. Matahari
-D. Jupiter
 
 **(2) Pilihan Jawaban:**
 A. Bulan
@@ -228,10 +220,6 @@ D. Jupiter
 
 **(1) Soal:**
 Cahaya terang yang dipancarkan bintang berasal dari...
-A. Reaksi nuklir (penggabungan gas hidrogen) di dalam tubuh bintang
-B. Pantulan cahaya matahari
-C. Api dari kebakaran di permukaannya
-D. Lampu listrik raksasa dari bumi
 
 **(2) Pilihan Jawaban:**
 A. Reaksi nuklir (penggabungan gas hidrogen) di dalam tubuh bintang
@@ -260,10 +248,6 @@ D. Lampu listrik raksasa dari bumi
 
 **(1) Soal:**
 Ciri utama yang membedakan bintang dari planet adalah...
-A. Bintang berukuran lebih kecil
-B. Bintang memancarkan cahaya sendiri, sedangkan planet memantulkan cahaya matahari
-C. Planet letaknya jauh lebih jauh dari bumi
-D. Bintang selalu berada di rasi yang berbeda
 
 **(2) Pilihan Jawaban:**
 A. Bintang berukuran lebih kecil
@@ -292,10 +276,6 @@ D. Bintang selalu berada di rasi yang berbeda
 
 **(1) Soal:**
 Planet Venus dan Mars dapat terlihat bersinar dari bumi, padahal planet tidak bercahaya. Penyebabnya adalah...
-A. Planet menghasilkan gas yang menyala
-B. Planet berisi lahar panas yang bercahaya
-C. Planet memantulkan cahaya matahari
-D. Planet diberi lampu oleh manusia
 
 **(2) Pilihan Jawaban:**
 A. Planet menghasilkan gas yang menyala
@@ -324,10 +304,6 @@ D. Planet diberi lampu oleh manusia
 
 **(1) Soal:**
 Bintang di langit malam tampak berkedip-kedip (kelap-kelip). Penyebab utama kedipan itu adalah...
-A. Bintangnya sendiri yang memang menyala-mati bergantian
-B. Cahaya bintang melewati lapisan udara (atmosfer) yang bergerak-gerak
-C. Angin di bumi meniup bintang
-D. Bintang berukuran sangat kecil sehingga nyalanya goyah
 
 **(2) Pilihan Jawaban:**
 A. Bintangnya sendiri yang memang menyala-mati bergantian
@@ -356,10 +332,6 @@ D. Bintang berukuran sangat kecil sehingga nyalanya goyah
 
 **(1) Soal:**
 Bintang sebenarnya sangat besar, tetapi tampak hanya sebesar titik kecil ketika dilihat dari bumi. Alasan yang tepat adalah...
-A. Bintang memang berukuran kecil
-B. Cahaya bintang terlalu lemah untuk diperbesar
-C. Jarak bintang sangat jauh dari bumi
-D. Bumi terlalu besar dibanding bintang
 
 **(2) Pilihan Jawaban:**
 A. Bintang memang berukuran kecil
@@ -388,10 +360,6 @@ D. Bumi terlalu besar dibanding bintang
 
 **(1) Soal:**
 Pada malam hari terlihat satu titik cahaya yang tidak berkedip, dan dari malam ke malam titik itu bergeser di antara bintang-bintang lain. Titik cahaya itu kemungkinan besar adalah...
-A. Bintang Polaris
-B. Meteor
-C. Satelit buatan yang melesat cepat
-D. Planet
 
 **(2) Pilihan Jawaban:**
 A. Bintang Polaris
@@ -420,10 +388,6 @@ D. Planet
 
 **(1) Soal:**
 Kumpulan bintang yang tampak membentuk pola atau gambar tertentu di langit disebut...
-A. Rasi bintang (konstelasi)
-B. Galaksi
-C. Nebula
-D. Planet
 
 **(2) Pilihan Jawaban:**
 A. Rasi bintang (konstelasi)
@@ -452,10 +416,6 @@ D. Planet
 
 **(1) Soal:**
 Rasi bintang yang terkenal memiliki tiga bintang segaris di bagian "sabuknya" dan sering dinamai Sang Pemburu adalah...
-A. Orion
-B. Ursa Major
-C. Scorpio
-D. Cassiopeia
 
 **(2) Pilihan Jawaban:**
 A. Orion
@@ -484,10 +444,6 @@ D. Cassiopeia
 
 **(1) Soal:**
 Masyarakat petani Jawa zaman dulu menggunakan kemunculan Bintang Waluku (bagian dari rasi Orion) sebagai petunjuk...
-A. Arah angin bertiup
-B. Lokasi laut lepas
-C. Datangnya musim untuk menentukan waktu tanam
-D. Warna pupuk yang tepat
 
 **(2) Pilihan Jawaban:**
 A. Arah angin bertiup
@@ -516,10 +472,6 @@ D. Warna pupuk yang tepat
 
 **(1) Soal:**
 Bintang yang hampir selalu terletak di arah utara dan dipakai sebagai penunjuk arah di belahan bumi utara adalah...
-A. Sirius
-B. Bintang Utara (Polaris)
-C. Bintang Waluku
-D. Venus
 
 **(2) Pilihan Jawaban:**
 A. Sirius
@@ -548,10 +500,6 @@ D. Venus
 
 **(1) Soal:**
 Pada malam hari bintang tampak bergerak melintasi langit dari timur ke barat. Sebenarnya yang bergerak adalah...
-A. Bintang-bintang itu sendiri
-B. Bulan yang mendorong bintang
-C. Bumi yang berputar pada porosnya (rotasi bumi)
-D. Matahari yang menarik bintang
 
 **(2) Pilihan Jawaban:**
 A. Bintang-bintang itu sendiri
@@ -580,10 +528,6 @@ D. Matahari yang menarik bintang
 
 **(1) Soal:**
 Kumpulan yang sangat besar berisi ratusan miliar bintang, gas, dan debu yang beredar bersama disebut...
-A. Galaksi
-B. Rasi bintang
-C. Tata surya
-D. Asteroid
 
 **(2) Pilihan Jawaban:**
 A. Galaksi
@@ -612,10 +556,6 @@ D. Asteroid
 
 **(1) Soal:**
 Nama galaksi tempat tata surya kita berada adalah...
-A. Andromeda
-B. Bima Sakti (Milky Way)
-C. Orion
-D. Nebula Orion
 
 **(2) Pilihan Jawaban:**
 A. Andromeda
@@ -644,10 +584,6 @@ D. Nebula Orion
 
 **(1) Soal:**
 Bentuk galaksi Bima Sakti apabila dilihat dari atas adalah...
-A. Bulat seperti bola
-B. Lonjong seperti telur
-C. Spiral (pilinan berlengan)
-D. Persegi panjang
 
 **(2) Pilihan Jawaban:**
 A. Bulat seperti bola
@@ -676,10 +612,6 @@ D. Persegi panjang
 
 **(1) Soal:**
 Di manakah letak matahari dan planet-planet tata surya?
-A. Di luar galaksi Bima Sakti
-B. Di pusat alam semesta
-C. Di dekat rasi Orion saja
-D. Di dalam galaksi Bima Sakti
 
 **(2) Pilihan Jawaban:**
 A. Di luar galaksi Bima Sakti
@@ -708,10 +640,6 @@ D. Di dalam galaksi Bima Sakti
 
 **(1) Soal:**
 Bintang paling terang yang terlihat dari bumi (selain matahari) adalah...
-A. Polaris
-B. Proxima Centauri
-C. Vega
-D. Sirius
 
 **(2) Pilihan Jawaban:**
 A. Polaris
@@ -740,10 +668,6 @@ D. Sirius
 
 **(1) Soal:**
 "Tahun cahaya" adalah satuan yang digunakan untuk mengukur...
-A. Waktu
-B. Jarak
-C. Massa (berat)
-D. Suhu
 
 **(2) Pilihan Jawaban:**
 A. Waktu
@@ -772,10 +696,6 @@ D. Suhu
 
 **(1) Soal:**
 Para astronom menggunakan satuan "tahun cahaya" untuk jarak antar bintang karena...
-A. Bintang tidak memiliki jarak sejati
-B. Angka jika pakai kilometer menjadi tak masuk akal besar
-C. Tahun cahaya lebih pendek dari kilometer
-D. Bintang selalu bergerak sehingga jaraknya beda-beda
 
 **(2) Pilihan Jawaban:**
 A. Bintang tidak memiliki jarak sejati
@@ -804,10 +724,6 @@ D. Bintang selalu bergerak sehingga jaraknya beda-beda
 
 **(1) Soal:**
 Matahari tampak jauh lebih besar dan terang daripada bintang-bintang lain. Alasan utamanya adalah...
-A. Matahari adalah bintang yang paling dekat dengan bumi
-B. Matahari adalah bintang terbesar di alam semesta
-C. Bintang lain tidak bercahaya
-D. Matahari didekatkan manusia ke bumi
 
 **(2) Pilihan Jawaban:**
 A. Matahari adalah bintang yang paling dekat dengan bumi
@@ -836,10 +752,6 @@ D. Matahari didekatkan manusia ke bumi
 
 **(1) Soal:**
 Ilmuwan yang khusus mempelajari benda-benda langit seperti bintang, planet, dan galaksi disebut...
-A. Dokter
-B. Insinyur
-C. Astronom
-D. Pilot
 
 **(2) Pilihan Jawaban:**
 A. Dokter
@@ -868,10 +780,6 @@ D. Pilot
 
 **(1) Soal:**
 Alat utama yang digunakan astronom untuk melihat benda langit yang sangat jauh adalah...
-A. Teleskop
-B. Mikroskop
-C. Senter
-D. Kompas
 
 **(2) Pilihan Jawaban:**
 A. Teleskop
@@ -900,10 +808,6 @@ D. Kompas
 
 **(1) Soal:**
 Roket dalam penerbangan antariksa berfungsi untuk...
-A. Menggali terowongan di bawah tanah
-B. Mengeringkan rawa untuk sawah
-C. Memperbaiki jalan raya
-D. Membawa wahana (pesawat, satelit) keluar dari atmosfer bumi
 
 **(2) Pilihan Jawaban:**
 A. Menggali terowongan di bawah tanah
@@ -932,10 +836,6 @@ D. Membawa wahana (pesawat, satelit) keluar dari atmosfer bumi
 
 **(1) Soal:**
 Satelit buatan yang mengelilingi bumi sering digunakan untuk...
-A. Memancing ikan di laut
-B. Komunikasi seperti siaran TV, telepon, dan internet
-C. Menanam pohon di hutan
-D. Mengukur panas tubuh kita
 
 **(2) Pilihan Jawaban:**
 A. Memancing ikan di laut
@@ -964,10 +864,6 @@ D. Mengukur panas tubuh kita
 
 **(1) Soal:**
 Satelit cuaca membantu para ahli untuk...
-A. Memperkirakan cuaca dengan memotret awan dan badai dari angkasa
-B. Menggali batu bara di gunung
-C. Membuat garam dari air laut
-D. Memelihara ikan di kolam
 
 **(2) Pilihan Jawaban:**
 A. Memperkirakan cuaca dengan memotret awan dan badai dari angkasa
@@ -996,10 +892,6 @@ D. Memelihara ikan di kolam
 
 **(1) Soal:**
 Energi matahari dan panas yang sampai ke bumi berasal dari reaksi yang terjadi di dalam matahari, yaitu...
-A. Pembakaran batu bara raksasa
-B. Reaksi penggabungan inti hidrogen menjadi helium (reaksi nuklir)
-C. Gesekan antar awan di angkasa
-D. Sambaran petir di permukaannya
 
 **(2) Pilihan Jawaban:**
 A. Pembakaran batu bara raksasa
@@ -1028,10 +920,6 @@ D. Sambaran petir di permukaannya
 
 **(1) Soal:**
 Sumber cahaya utama bagi bumi pada siang hari adalah...
-A. Bulan
-B. Bintang Sirius
-C. Matahari
-D. Planet Venus
 
 **(2) Pilihan Jawaban:**
 A. Bulan
@@ -1060,10 +948,6 @@ D. Planet Venus
 
 **(1) Soal:**
 Pada siang hari bintang-bintang lain tidak terlihat. Penyebab yang paling tepat adalah...
-A. Bintang-bintang pergi ke tempat lain
-B. Semua bintang padam pada siang hari
-C. Bintang tidur siang seperti manusia
-D. Cahaya matahari sangat terang sehingga menutupi cahaya bintang
 
 **(2) Pilihan Jawaban:**
 A. Bintang-bintang pergi ke tempat lain
@@ -1092,10 +976,6 @@ D. Cahaya matahari sangat terang sehingga menutupi cahaya bintang
 
 **(1) Soal:**
 Jumlah bintang di galaksi Bima Sakti diperkirakan mencapai...
-A. Puluhan saja
-B. Ratusan miliar
-C. Tepat 8 buah
-D. 12 buah (satu per rasi)
 
 **(2) Pilihan Jawaban:**
 A. Puluhan saja
@@ -1124,10 +1004,6 @@ D. 12 buah (satu per rasi)
 
 **(1) Soal:**
 Benda langit berupa bintang yang paling dekat dengan bumi adalah...
-A. Matahari
-B. Sirius
-C. Polaris
-D. Bintang Waluku
 
 **(2) Pilihan Jawaban:**
 A. Matahari
@@ -1156,10 +1032,6 @@ D. Bintang Waluku
 
 **(1) Soal:**
 Saat langit cerah tanpa awan pada malam hari, bintang terlihat sebagai...
-A. Piringan bundar yang besar
-B. Bulatan berisi cairan bercahaya
-C. Titik-titik cahaya yang berkelap-kelip
-D. Garis lurus bercahaya yang memanjang
 
 **(2) Pilihan Jawaban:**
 A. Piringan bundar yang besar
@@ -1188,10 +1060,6 @@ D. Garis lurus bercahaya yang memanjang
 
 **(1) Soal:**
 Petani zaman dahulu memanfaatkan rasi bintang untuk...
-A. Menentukan warna cat rumah
-B. Menentukan waktu tanam dan kaitannya dengan musim
-C. Menghias sawah agar indah
-D. Membuat garam dari laut
 
 **(2) Pilihan Jawaban:**
 A. Menentukan warna cat rumah
@@ -1220,10 +1088,6 @@ D. Membuat garam dari laut
 
 **(1) Soal:**
 Para pelaut zaman dahulu menentukan arah di tengah laut lepas pada malam hari dengan cara...
-A. Menggunakan posisi bintang (rasi) sebagai penunjuk arah
-B. Menebak dari warna air laut
-C. Mendengarkan bunyi ombak
-D. Melihat bentuk daun kelapa
 
 **(2) Pilihan Jawaban:**
 A. Menggunakan posisi bintang (rasi) sebagai penunjuk arah
@@ -1252,10 +1116,6 @@ D. Melihat bentuk daun kelapa
 
 **(1) Soal:**
 Sirius, bintang paling terang di langit malam, berada di rasi yang bernama...
-A. Orion
-B. Ursa Major
-C. Scorpio
-D. Canis Major (Anjing Besar)
 
 **(2) Pilihan Jawaban:**
 A. Orion
@@ -1284,10 +1144,6 @@ D. Canis Major (Anjing Besar)
 
 **(1) Soal:**
 Di pagi hari sebelum matahari terbit kadang tampak satu benda langit sangat terang yang disebut "bintang pagi". Benda itu sebenarnya adalah planet...
-A. Mars
-B. Saturnus
-C. Venus
-D. Neptunus
 
 **(2) Pilihan Jawaban:**
 A. Mars
@@ -1316,10 +1172,6 @@ D. Neptunus
 
 **(1) Soal:**
 Bulan terlihat bercahaya di malam hari, tetapi bulan bukanlah bintang karena...
-A. Ukurannya lebih kecil dari bintang
-B. Bulan hanya memantulkan cahaya matahari
-C. Bulan tidak berbentuk bulat
-D. Bulan bergerak terlalu cepat
 
 **(2) Pilihan Jawaban:**
 A. Ukurannya lebih kecil dari bintang
@@ -1348,10 +1200,6 @@ D. Bulan bergerak terlalu cepat
 
 **(1) Soal:**
 Keuntungan menggunakan teleskop dibandingkan mata telanjang adalah...
-A. Dapat melihat benda langit lebih jelas dan lebih banyak
-B. Membuat bintang bertambah banyak
-C. Mengubah planet menjadi bintang
-D. Menyalakan matahari lebih terang
 
 **(2) Pilihan Jawaban:**
 A. Dapat melihat benda langit lebih jelas dan lebih banyak
@@ -1380,10 +1228,6 @@ D. Menyalakan matahari lebih terang
 
 **(1) Soal:**
 Pada malam yang sangat gelap dan bebas polusi cahaya, galaksi Bima Sakti tampak di langit sebagai...
-A. Titik merah raksasa
-B. Garis lurus bercahaya yang berjalan
-C. Pita cahaya keperakan yang memanjang di langit
-D. Bulatan cahaya yang berkedip-kedip
 
 **(2) Pilihan Jawaban:**
 A. Titik merah raksasa
@@ -1412,10 +1256,6 @@ D. Bulatan cahaya yang berkedip-kedip
 
 **(1) Soal:**
 Reaksi nuklir pada matahari mengubah gas...
-A. Oksigen menjadi air
-B. Karbon menjadi emas
-C. Nitrogen menjadi hujan
-D. Hidrogen menjadi helium
 
 **(2) Pilihan Jawaban:**
 A. Oksigen menjadi air
@@ -1444,10 +1284,6 @@ D. Hidrogen menjadi helium
 
 **(1) Soal:**
 Bintang yang paling dekat dengan bumi setelah matahari adalah...
-A. Sirius
-B. Proxima Centauri
-C. Polaris
-D. Vega
 
 **(2) Pilihan Jawaban:**
 A. Sirius
@@ -1476,10 +1312,6 @@ D. Vega
 
 **(1) Soal:**
 Tempat yang paling baik untuk mengamati bintang adalah daerah yang...
-A. Bebas dari polusi cahaya (jauh dari lampu kota)
-B. Banyak lampu terang
-C. Penuh asap kendaraan
-D. Sangat ramai penduduk
 
 **(2) Pilihan Jawaban:**
 A. Bebas dari polusi cahaya (jauh dari lampu kota)
@@ -1508,10 +1340,6 @@ D. Sangat ramai penduduk
 
 **(1) Soal:**
 Teleskop yang ditempatkan di luar angkasa (misalnya Teleskop Hubble) menguntungkan karena...
-A. Lebih hemat listrik
-B. Lebih dekat dengan bintang
-C. Tidak perlu dirawat
-D. Bebas dari gangguan atmosfer bumi
 
 **(2) Pilihan Jawaban:**
 A. Lebih hemat listrik
@@ -1540,10 +1368,6 @@ D. Bebas dari gangguan atmosfer bumi
 
 **(1) Soal:**
 Bintang tampak "terbit" dari timur dan "terbenam" di barat setiap malam. Peristiwa itu sebenarnya terjadi karena...
-A. Bintang bergerak mengelilingi bumi
-B. Matahari mendorong bintang-bintang
-C. Bumi berputar pada porosnya (rotasi)
-D. Bulan menarik bintang ke barat
 
 **(2) Pilihan Jawaban:**
 A. Bintang bergerak mengelilingi bumi
@@ -1572,10 +1396,6 @@ D. Bulan menarik bintang ke barat
 
 **(1) Soal:**
 Selain sebagai penanda datangnya musim, pengetahuan tentang rasi bintang membantu petani dalam hal...
-A. Memilih warna pupuk
-B. Mengatur waktu bercocok tanam agar sesuai musim
-C. Menjual hasil panen ke luar negeri
-D. Menghitung banyaknya padi di lumbung
 
 **(2) Pilihan Jawaban:**
 A. Memilih warna pupuk
@@ -1604,10 +1424,6 @@ D. Menghitung banyaknya padi di lumbung
 
 **(1) Soal:**
 Perbedaan utama antara satelit buatan dan Bulan adalah...
-A. Satelit buatan dibuat dan diluncurkan oleh manusia
-B. Satelit buatan berukuran lebih besar dari bulan
-C. Satelit buatan memancarkan cahaya sendiri
-D. Tidak ada perbedaan sama sekali
 
 **(2) Pilihan Jawaban:**
 A. Satelit buatan dibuat dan diluncurkan oleh manusia
@@ -1636,10 +1452,6 @@ D. Tidak ada perbedaan sama sekali
 
 **(1) Soal:**
 Awan raksasa berisi gas dan debu di angkasa tempat lahirnya bintang-bintang baru disebut...
-A. Komet
-B. Meteor
-C. Asteroid
-D. Nebula
 
 **(2) Pilihan Jawaban:**
 A. Komet
@@ -1668,10 +1480,6 @@ D. Nebula
 
 **(1) Soal:**
 Cahaya matahari yang kita lihat memerlukan waktu sekitar... untuk sampai ke bumi.
-A. 8 menit
-B. 8 jam
-C. 8 hari
-D. 8 tahun
 
 **(2) Pilihan Jawaban:**
 A. 8 menit
@@ -1700,10 +1508,6 @@ D. 8 tahun
 
 **(1) Soal:**
 Kegunaan satelit komunikasi dalam kehidupan sehari-hari adalah...
-A. Menyiram sawah secara otomatis
-B. Meneruskan sinyal siaran TV, telepon, dan internet ke berbagai tempat
-C. Memadamkan kebakaran hutan
-D. Menanam pohon di jalan raya
 
 **(2) Pilihan Jawaban:**
 A. Menyiram sawah secara otomatis
@@ -1732,10 +1536,6 @@ D. Menanam pohon di jalan raya
 
 **(1) Soal:**
 Pernyataan yang paling tepat tentang hubungan tata surya dan galaksi adalah...
-A. Tata surya lebih besar daripada galaksi
-B. Galaksi berada di dalam tata surya
-C. Tata surya dan galaksi besarnya sama
-D. Tata surya berada di dalam galaksi
 
 **(2) Pilihan Jawaban:**
 A. Tata surya lebih besar daripada galaksi
@@ -1764,10 +1564,6 @@ D. Tata surya berada di dalam galaksi
 
 **(1) Soal:**
 Malam ini seorang siswa melihat dua titik cahaya di langit: titik pertama berkelap-kelip terus-menerus, titik kedua sangat terang dan tenang. Kesimpulan yang paling tepat adalah...
-A. Titik pertama planet karena berkedip, titik kedua bintang
-B. Keduanya pasti bintang karena sangat jauh
-C. Titik pertama kemungkinan besar bintang, titik kedua kemungkinan planet
-D. Keduanya pasti planet karena dekat dengan bumi
 
 **(2) Pilihan Jawaban:**
 A. Titik pertama planet karena berkedip, titik kedua bintang
@@ -1796,10 +1592,6 @@ D. Keduanya pasti planet karena dekat dengan bumi
 
 **(1) Soal:**
 Pesawat ruang angkasa tercepat buatan manusia laju ± 60.000 km/jam, sedangkan jarak ke bintang terdekat adalah 4,2 tahun cahaya. Kesimpulan yang tepat adalah...
-A. Manusia belum bisa mengunjungi bintang karena jaraknya sangat luar biasa jauh
-B. Manusia bisa sampai ke bintang dalam beberapa hari
-C. Bintang terdekat hanya sejauh Amerika Serikat
-D. Cahaya bintang tidak pernah sampai ke bumi
 
 **(2) Pilihan Jawaban:**
 A. Manusia belum bisa mengunjungi bintang karena jaraknya sangat luar biasa jauh
@@ -1828,10 +1620,6 @@ D. Cahaya bintang tidak pernah sampai ke bumi
 
 **(1) Soal:**
 Pada bulan Agustus sekolah A mengamati rasi tertentu, tetapi pada bulan Desember rasi yang sama tidak terlihat di tempat itu. Gerakan bumi yang menyebabkan hal ini adalah...
-A. Rotasi bumi harian
-B. Revolusi bumi mengelilingi matahari
-C. Pergerakan bintang mendekati bumi
-D. Perubahan arah poros bumi dalam semalam
 
 **(2) Pilihan Jawaban:**
 A. Rotasi bumi harian
@@ -1860,10 +1648,6 @@ D. Perubahan arah poros bumi dalam semalam
 
 **(1) Soal:**
 Seorang astronom muda di Australia ingin menentukan arah selatan pada malam hari. Penunjuk arah yang tepat adalah rasi...
-A. Orion
-B. Ursa Major
-C. Bintang Waluku
-D. Salib Selatan (Crux)
 
 **(2) Pilihan Jawaban:**
 A. Orion
@@ -1892,10 +1676,6 @@ D. Salib Selatan (Crux)
 
 **(1) Soal:**
 Sebuah kampung di Jawa menggantungkan jadwal tanam pada kemunculan Bintang Waluku. Saat Bintang Waluku mulai tampak di langit timur malam hari, penduduk segera menanam. Sikap yang paling tepat adalah...
-A. Menghargainya sebagai kearifan lokal kalender musim, tetapi memadukan dengan data ilmu cuaca modern
-B. Mencemooh petani karena tidak masuk akal sama sekali
-C. Melarang semua penggunaan bintang karena tidak ilmiah
-D. Menghapus kebiasaan tanpa penggantinya
 
 **(2) Pilihan Jawaban:**
 A. Menghargainya sebagai kearifan lokal kalender musim, tetapi memadukan dengan data ilmu cuaca modern
@@ -1924,10 +1704,6 @@ D. Menghapus kebiasaan tanpa penggantinya
 
 **(1) Soal:**
 Sirius berjarak 8,6 tahun cahaya. Saat kita memandang Sirius malam ini, sebenarnya kita sedang melihat...
-A. Sirius yang sedang meledak
-B. Cahaya Sirius yang berangkat dari sana 8,6 tahun yang lalu
-C. Cahaya Sirius yang baru saja dipancarkan beberapa detik lalu
-D. Bayangan Sirius di kaca atmosfer
 
 **(2) Pilihan Jawaban:**
 A. Sirius yang sedang meledak
@@ -1956,10 +1732,6 @@ D. Bayangan Sirius di kaca atmosfer
 
 **(1) Soal:**
 Sebuah bintang terletak pada jarak 4 tahun cahaya dari bumi. Artinya cahaya bintang tersebut memerlukan waktu... untuk mencapai bumi.
-A. 4 jam
-B. 4 hari
-C. 4 tahun
-D. 40 tahun
 
 **(2) Pilihan Jawaban:**
 A. 4 jam
@@ -1988,10 +1760,6 @@ D. 40 tahun
 
 **(1) Soal:**
 Bintang berkedip karena melewati atmosfer, tetapi planet umumnya tampak tenang meskipun cahayanya juga melewati atmosfer yang sama. Penjelasan yang paling tepat adalah...
-A. Planet terlihat sebagai piringan kecil (bukan titik) sehingga gemerlap atmosfer "dirata-rata" dan tampak stabil
-B. Planet berada di dalam atmosfer bumi sehingga tidak terganggu
-C. Planet tidak memantulkan cahaya matahari
-D. Atmosfer hanya mengganggu bintang, tidak mengganggu cahaya planet
 
 **(2) Pilihan Jawaban:**
 A. Planet terlihat sebagai piringan kecil (bukan titik) sehingga gemerlap atmosfer "dirata-rata" dan tampak stabil
@@ -2020,10 +1788,6 @@ D. Atmosfer hanya mengganggu bintang, tidak mengganggu cahaya planet
 
 **(1) Soal:**
 Sirius adalah bintang paling terang di langit malam dan cahayanya jauh lebih kuat daripada matahari. Akan tetapi, matahari tampak jauh lebih terang bagi kita. Penyebabnya adalah...
-A. Sirius benar-benar tidak menyala lagi
-B. Matahari berada di galaksi berbeda sehingga lebih terang
-C. Sirius lebih besar dari galaksi kita
-D. Matahari letaknya jauh lebih dekat ke bumi daripada Sirius
 
 **(2) Pilihan Jawaban:**
 A. Sirius benar-benar tidak menyala lagi
@@ -2052,10 +1816,6 @@ D. Matahari letaknya jauh lebih dekat ke bumi daripada Sirius
 
 **(1) Soal:**
 Observatorium bintang sering dibangun di puncak gunung atau gurun yang jauh dari kota. Alasan utamanya adalah...
-A. Udara lebih dingin supaya dia tidak kepanasan
-B. Agar teleskop bisa lebih cepat dihidupkan
-C. Udara di sana tipis, kering, dan jauh dari polusi cahaya sehingga langit lebih jernih
-D. Agar bintang bisa ditarik lebih dekat dengan magnet
 
 **(2) Pilihan Jawaban:**
 A. Udara lebih dingin supaya dia tidak kepanasan
@@ -2084,10 +1844,6 @@ D. Agar bintang bisa ditarik lebih dekat dengan magnet
 
 **(1) Soal:**
 Sebuah satelit komunikasi tampak "diam" relatif terhadap suatu tempat di bumi sehingga antena penerima tidak perlu terus-menerus diarahkan ulang. Hal ini terjadi karena satelit itu...
-A. Mengelilingi bumi dengan periode yang sama dengan rotasi bumi
-B. Tidak mengelilingi bumi sama sekali
-C. Dikunci oleh magnet bumi agar berhenti
-D. Sangat jauh sehingga tidak bergerak
 
 **(2) Pilihan Jawaban:**
 A. Mengelilingi bumi dengan periode yang sama dengan rotasi bumi
@@ -2116,10 +1872,6 @@ D. Sangat jauh sehingga tidak bergerak
 
 **(1) Soal:**
 Gambar bintang dari teleskop luar angkasa jauh lebih tajam daripada dari teleskop di bumi, meskipun lensanya tidak lebih besar. Penyebab utamanya adalah...
-A. Di luar angkasa bintang lebih terang
-B. Di luar angkasa tidak ada atmosfer yang membelokkan dan mengaburkan cahaya
-C. Teleskop luar angkasa menyala 24 jam nonstop
-D. Bintang di luar angkasa tidak bergerak
 
 **(2) Pilihan Jawaban:**
 A. Di luar angkasa bintang lebih terang
@@ -2148,10 +1900,6 @@ D. Bintang di luar angkasa tidak bergerak
 
 **(1) Soal:**
 Dua sekolah melakukan pengamatan: Sekolah X mengamati rasi Orion di timur malam ini, Sekolah Y mengamati bintang yang sama 9 jam kemudian. Perkiraan yang paling tepat adalah...
-A. Orion diam saja di timur karena bintang tidak bergerak
-B. Orion berpindah ke selatan beberapa derajat
-C. Orion turun ke bawah cakrawala lalu musnah
-D. Orion sudah bergeser ke arah barat karena bumi berotasi
 
 **(2) Pilihan Jawaban:**
 A. Orion diam saja di timur karena bintang tidak bergerak
@@ -2180,10 +1928,6 @@ D. Orion sudah bergeser ke arah barat karena bumi berotasi
 
 **(1) Soal:**
 Pelaut di belahan bumi utara menggunakan Polaris sebagai patokan. Bagaimana sebaiknya Polaris digunakan?
-A. Arah pandang ke Polaris menunjukkan kira-kira arah utara
-B. Jarak Polaris dari cakrawala menunjukkan arah timur
-C. Posisi Polaris di atas kepala menunjukkan arah selatan
-D. Polaris selalu berada tepat di atas kepala di mana pun pengamatnya
 
 **(2) Pilihan Jawaban:**
 A. Arah pandang ke Polaris menunjukkan kira-kira arah utara
@@ -2212,10 +1956,6 @@ D. Polaris selalu berada tepat di atas kepala di mana pun pengamatnya
 
 **(1) Soal:**
 Seorang siswa mencatat bahwa rasi tertentu terbit **4 menit lebih awal** setiap malamnya, sehingga bulan berikutnya rasi itu terbit jauh lebih awal. Penyebab pola ini adalah...
-A. Bumi berotasi lebih cepat di malam hari
-B. Bintang menghabiskan energinya sehingga datang lebih cepat
-C. Bumi sedang berevolusi mengelilingi matahari, jadi "hari bintang" lebih pendek dari "hari matahari"
-D. Bulan menarik bintang ke arah terbit lebih cepat
 
 **(2) Pilihan Jawaban:**
 A. Bumi berotasi lebih cepat di malam hari
@@ -2244,10 +1984,6 @@ D. Bulan menarik bintang ke arah terbit lebih cepat
 
 **(1) Soal:**
 Saat ini para astronom tahu matahari hanya salah satu dari ratusan miliar bintang di Bima Sakti. Bukti yang paling mendukung pernyataan itu adalah...
-A. Dengan teleskop, makin banyak bintang terlihat tak terhitung di sepanjang pita Bima Sakti
-B. Matahari lebih besar dari semua bintang di Bima Sakti
-C. Matahari sendirian di luar galaksi
-D. Tidak ada bintang lain yang menyala
 
 **(2) Pilihan Jawaban:**
 A. Dengan teleskop, makin banyak bintang terlihat tak terhitung di sepanjang pita Bima Sakti
@@ -2276,10 +2012,6 @@ D. Tidak ada bintang lain yang menyala
 
 **(1) Soal:**
 Andromeda sering disebut sebagai "galaksi tetangga". Pernyataan yang tepat tentang Andromeda adalah...
-A. Andromeda adalah rasi bintang di langit selatan
-B. Andromeda adalah bagian dari tata surya
-C. Andromeda adalah nama planet urutan kelima
-D. Andromeda adalah galaksi lain di luar Bima Sakti
 
 **(2) Pilihan Jawaban:**
 A. Andromeda adalah rasi bintang di langit selatan
@@ -2308,10 +2040,6 @@ D. Andromeda adalah galaksi lain di luar Bima Sakti
 
 **(1) Soal:**
 Karena bumi berada **di dalam** piringan Bima Sakti, galaksi kita tampak dari sini sebagai... walaupun sebenarnya berbentuk spiral.
-A. Bulatan penuh seperti matahari
-B. Persegi bercahaya
-C. Pita (sabuk) cahaya yang melingkari langit
-D. Kerucut terbalik
 
 **(2) Pilihan Jawaban:**
 A. Bulatan penuh seperti matahari
@@ -2340,10 +2068,6 @@ D. Kerucut terbalik
 
 **(1) Soal:**
 Menurut teori asal tata surya yang umum diterima, matahari dan planet-planet terbentuk dari...
-A. Sisa ledakan kendaraan luar angkasa
-B. Awan gas dan debu raksasa (nebula) yang berputar lalu memadat
-C. Bahan yang dijatuhkan dari bulan
-D. Materi yang terlempar dari Bumi
 
 **(2) Pilihan Jawaban:**
 A. Sisa ledakan kendaraan luar angkasa
@@ -2377,10 +2101,6 @@ Perhatikan data warna bintang berikut:
 - Bintang C: merah oranye
 
 Jika warna bintang mencerminkan suhu permukaannya, urutan dari yang **paling panas** ke **paling dingin** adalah...
-A. A → B → C
-B. C → B → A
-C. B → A → C
-D. C → A → B
 
 **(2) Pilihan Jawaban:**
 A. A → B → C
@@ -2409,10 +2129,6 @@ D. C → A → B
 
 **(1) Soal:**
 Sebuah eksperimen: siswa menyalakan lilin di malam hari — nyala terlihat jelas. Keesokan siang, lilin yang sama dinyalakan di bawah terik matahari — nyalanya nyaris tak terlihat. Kesimpulan yang paling sesuai untuk menjelaskan hilangnya bintang pada siang hari adalah...
-A. Bintang benar-benar padam ketika matahari terbit
-B. Matahari menutupi bintang dengan asap
-C. Cahaya matahari jauh lebih kuat sehingga "menutupi" cahaya bintang yang lebih lemah
-D. Bintang pindah ke balik bumi sehingga tidak terlihat
 
 **(2) Pilihan Jawaban:**
 A. Bintang benar-benar padam ketika matahari terbit
@@ -2441,10 +2157,6 @@ D. Bintang pindah ke balik bumi sehingga tidak terlihat
 
 **(1) Soal:**
 Dari tengah kota yang terang benderang, sesorang hanya bisa melihat beberapa bintang, padahal dari desa gelap bisa melihat ribuan. Penyebab utamanya adalah...
-A. Di kota tidak ada bintang karena udara panas
-B. Cahaya lampu kota (polusi cahaya) menyebar di atmosfer dan menyembunyikan bintang redup
-C. Bintang takut lampu sehingga pergi ke desa
-D. Di kota bintang berada di bawah tanah
 
 **(2) Pilihan Jawaban:**
 A. Di kota tidak ada bintang karena udara panas
@@ -2473,10 +2185,6 @@ D. Di kota bintang berada di bawah tanah
 
 **(1) Soal:**
 Di Indonesia (dekat khatulistiwa), rasi Orion sering terlihat di langit barat saat menjelang akhir musim hujan hingga awal musim kemarau. Bagi petani, posisi Orion yang seperti ini dimanfaatkan untuk...
-A. Memilih hari pasar terbaik untuk jualan
-B. Menebak posisi ikan di laut
-C. Menentukan saat yang baik untuk mulai menanam sesuai perkiraan musim
-D. Menghitung jumlah burung yang bermigrasi
 
 **(2) Pilihan Jawaban:**
 A. Memilih hari pasar terbaik untuk jualan
@@ -2505,10 +2213,6 @@ D. Menghitung jumlah burung yang bermigrasi
 
 **(1) Soal:**
 Jika matahari "padam" seketika sekarang, para astronom baru akan mengetahui kejadian itu... karena cahaya matahari memerlukan waktu ±8 menit untuk sampai.
-A. 8 menit kemudian
-B. 8 jam kemudian
-C. 8 tahun kemudian
-D. keesokan harinya
 
 **(2) Pilihan Jawaban:**
 A. 8 menit kemudian
@@ -2537,10 +2241,6 @@ D. keesokan harinya
 
 **(1) Soal:**
 BMKG (Badan Meteorologi Indonesia) memanfaatkan citra satelit cuaca untuk memberi peringatan dini. Contoh pemanfaatan yang paling tepat adalah...
-A. Memprediksi rute kapal nelayan untuk mencari ikan
-B. Menghitung jumlah penduduk secara cepat
-C. Menentukan harga beras di pasar
-D. Mendeteksi pertumbuhan awan badai dan memberi peringatan banjir/gelombang tinggi
 
 **(2) Pilihan Jawaban:**
 A. Memprediksi rute kapal nelayan untuk mencari ikan
@@ -2569,10 +2269,6 @@ D. Mendeteksi pertumbuhan awan badai dan memberi peringatan banjir/gelombang tin
 
 **(1) Soal:**
 Meskipun teleskop sangat kuat, bintang-bintang yang jauh tetap tampak sebagai titik (tidak seperti planet yang tampak piringan). Sebabnya adalah...
-A. Bintang memang berbentuk titik di alam
-B. Jarak bintang sangat jauh sehingga sudut lihatnya sangat kecil
-C. Lensa teleskop tidak mampu menangkap cahaya bintang
-D. Bintang tidak memancarkan cahaya
 
 **(2) Pilihan Jawaban:**
 A. Bintang memang berbentuk titik di alam
@@ -2601,10 +2297,6 @@ D. Bintang tidak memancarkan cahaya
 
 **(1) Soal:**
 Rasi Orion tampak tinggi di langit timur pada bulan Agustus malam, tetapi pada bulan yang sama tahun depan posisinya hampir sama lagi. Dua pengamatan itu berbeda 1 tahun. Gerakan bumi yang paling berperan agar pola terulang adalah...
-A. Rotasi bumi yang sangat cepat
-B. Gerakan bintang mengelilingi bumi
-C. Revolusi bumi mengelilingi matahari (satu putaran penuh)
-D. Naik turunnya pasang surut
 
 **(2) Pilihan Jawaban:**
 A. Rotasi bumi yang sangat cepat
@@ -2633,10 +2325,6 @@ D. Naik turunnya pasang surut
 
 **(1) Soal:**
 Planet Venus kadang terlihat di langit barat setelah matahari terbenam ("bintang kejora"), kadang di langit timur sebelum fajar ("bintang pagi"). Kesimpulan yang tepat adalah...
-A. Venus adalah planet yang mengelilingi matahari lebih dekat dari bumi sehingga tampak dekat dengan matahari di langit
-B. Venus tidak pernah mengelilingi matahari
-C. Venus memancarkan cahaya sendiri sehingga bebas muncul kapan saja di langit
-D. Venus selalu muncul tepat di atas kepala
 
 **(2) Pilihan Jawaban:**
 A. Venus adalah planet yang mengelilingi matahari lebih dekat dari bumi sehingga tampak dekat dengan matahari di langit
@@ -2665,10 +2353,6 @@ D. Venus selalu muncul tepat di atas kepala
 
 **(1) Soal:**
 Para astronom mengamati bahwa hampir semua galaksi lain tampak **menjauh** dari kita, dan yang lebih jauh menjauh lebih cepat. Kesimpulan paling masuk akal untuk menjawab hal ini adalah...
-A. Galaksi yang jauh lebih dekat justru menjauh lebih cepat
-B. Bima Sakti adalah pusat semesta yang diam
-C. Setiap galaksi bergerak acak seperti kenari di atas panggung
-D. Alam semesta mengembang (meluas) sehingga semua galaksi saling menjauh
 
 **(2) Pilihan Jawaban:**
 A. Galaksi yang jauh lebih dekat justru menjauh lebih cepat
@@ -2699,10 +2383,6 @@ D. Alam semesta mengembang (meluas) sehingga semua galaksi saling menjauh
 Susunlah struktur berikut dari yang **terkecil** ke yang **terbesar**:
 1. Galaksi; 2. Bumi; 3. Tata Surya; 4. Alam Semesta
 Urutan yang benar adalah...
-A. 1 → 2 → 3 → 4
-B. 2 → 3 → 1 → 4
-C. 3 → 2 → 1 → 4
-D. 4 → 1 → 2 → 3
 
 **(2) Pilihan Jawaban:**
 A. 1 → 2 → 3 → 4
@@ -2731,10 +2411,6 @@ D. 4 → 1 → 2 → 3
 
 **(1) Soal:**
 Pernyataan berikut yang **paling tepat** tentang bintang adalah...
-A. Bintang adalah bola gas yang memancarkan cahaya sendiri karena reaksi nuklir, seperti matahari
-B. Bintang hanya muncul pada malam hari dan padam ketika siang datang
-C. Bintang berkelap-kelip karena rotasinya yang sangat cepat
-D. Bintang hanya menghasilkan cahaya, tetapi tidak menghasilkan panas
 
 **(2) Pilihan Jawaban:**
 A. Bintang adalah bola gas yang memancarkan cahaya sendiri karena reaksi nuklir, seperti matahari
@@ -2763,10 +2439,6 @@ D. Bintang hanya menghasilkan cahaya, tetapi tidak menghasilkan panas
 
 **(1) Soal:**
 Seorang siswa membuat "teleskop" sederhana dari dua kaca pembesar dan tabung kardus lalu mengamati rasi Orion. Dibanding melihat langsung dengan mata, hasil yang paling mungkin adalah...
-A. Mata akan melihat lebih banyak bintang daripada teleskop buatan
-B. Pola Orion berubah menjadi rasi yang berbeda
-C. Lebih banyak bintang redup yang terlihat dan bintang tampak lebih terang
-D. Bintang berubah menjadi planet
 
 **(2) Pilihan Jawaban:**
 A. Mata akan melihat lebih banyak bintang daripada teleskop buatan
@@ -2797,10 +2469,6 @@ D. Bintang berubah menjadi planet
 
 **(1) Soal:**
 Susunan struktur berikut dari yang **terkecil** sampai **terbesar** adalah...
-A. Bumi → Matahari → Galaksi Bima Sakti → Tata Surya
-B. Bumi → Tata Surya → Galaksi Bima Sakti → Alam Semesta
-C. Matahari → Bumi → Tata Surya → Galaksi
-D. Bima Sakti → Tata Surya → Bumi → Matahari
 
 **(2) Pilihan Jawaban:**
 A. Bumi → Matahari → Galaksi Bima Sakti → Tata Surya
@@ -2831,10 +2499,6 @@ D. Bima Sakti → Tata Surya → Bumi → Matahari
 
 **(1) Soal:**
 Seorang siswa melihat "bintang jatuh" yang melesat di langit lalu hilang. Penjelasan ilmiah yang benar adalah...
-A. Sebuah bintang kecil benar-benar jatuh ke bumi
-B. Bintang yang sudah mati meluncur miring ke bumi
-C. Asteroid besar perlahan melayang di langit
-D. Meteor atau batuan angkasa yang terbakar karena gesekan saat masuk atmosfer
 
 **(2) Pilihan Jawaban:**
 A. Sebuah bintang kecil benar-benar jatuh ke bumi
@@ -2865,10 +2529,6 @@ D. Meteor atau batuan angkasa yang terbakar karena gesekan saat masuk atmosfer
 
 **(1) Soal:**
 Sebuah percobaan: senter disorotkan menembus akuarium berisi air, dan di sisi seberang cahaya bergetar saat air dikocok. Percobaan ini paling tepat menjelaskan...
-A. Bintang berkelap-kelip karena cahayanya melewati lapisan udara (atmosfer) yang bergerak
-B. Bintang memancarkan cahaya yang bergoyang dari dalam tubuhnya
-C. Planet berkelap-kelip karena melewati air
-D. Cahaya bintang tidak dapat menembus atmosfer
 
 **(2) Pilihan Jawaban:**
 A. Bintang berkelap-kelip karena cahayanya melewati lapisan udara (atmosfer) yang bergerak
@@ -2899,10 +2559,6 @@ D. Cahaya bintang tidak dapat menembus atmosfer
 
 **(1) Soal:**
 Data tiga bintang: P (jarak 8 tahun cahaya, cahaya sejati sangat kuat), Q (jarak 300 tahun cahaya, cahaya sejati sangat kuat), R (jarak 8 tahun cahaya, cahaya sejati lemah). Pernyataan yang benar adalah...
-A. Q tampak paling terang karena paling jauh
-B. P dan R tampak sama terang karena jarak sama
-C. P tampak lebih terang daripada Q karena P lebih dekat, padahal keduanya cahaya sejatinya sama kuat
-D. Semakin dekat jarak bintang, pasti selalu lebih redup
 
 **(2) Pilihan Jawaban:**
 A. Q tampak paling terang karena paling jauh
@@ -2933,10 +2589,6 @@ D. Semakin dekat jarak bintang, pasti selalu lebih redup
 
 **(1) Soal:**
 Satu tahun cahaya kira-kira 9,5 triliun km. Jika sebuah bintang berjarak 5 tahun cahaya, perkiraan jaraknya adalah...
-A. ± 14,5 triliun km
-B. ± 47,5 triliun km
-C. ± 950 triliun km
-D. ± 1,9 triliun km
 
 **(2) Pilihan Jawaban:**
 A. ± 14,5 triliun km
@@ -2967,10 +2619,6 @@ D. ± 1,9 triliun km
 
 **(1) Soal:**
 Manakah pernyataan berikut yang **benar semuanya**?
-A. Matahari adalah bintang; Bulan adalah satelit alami; planet memantulkan cahaya matahari
-B. Bulan adalah bintang; Matahari adalah planet; Sirius memantulkan cahaya
-C. Planet memancarkan cahaya sendiri; Matahari memantulkan cahaya Bulan
-D. Polaris memantulkan cahaya; Matahari bukan bintang
 
 **(2) Pilihan Jawaban:**
 A. Matahari adalah bintang; Bulan adalah satelit alami; planet memantulkan cahaya matahari
@@ -3001,10 +2649,6 @@ D. Polaris memantulkan cahaya; Matahari bukan bintang
 
 **(1) Soal:**
 Seorang siswa ingin membuktikan bahwa pergeseran rasi sepanjang tahun disebabkan oleh revolusi bumi. Rancangan percobaan yang paling tepat adalah...
-A. Mengamati satu rasi terus-menerus sepanjang satu malam di satu tempat
-B. Mengamati rasi yang sama dari dua kota berbeda pada malam yang sama
-C. Mengamati bintang melalui teleskop pada siang hari
-D. Mengamati rasi yang sama pada tanggal yang sama tiap bulan selama satu tahun, lalu membandingkan posisinya
 
 **(2) Pilihan Jawaban:**
 A. Mengamati satu rasi terus-menerus sepanjang satu malam di satu tempat
@@ -3035,10 +2679,6 @@ D. Mengamati rasi yang sama pada tanggal yang sama tiap bulan selama satu tahun,
 
 **(1) Soal:**
 Citra satelit cuaca menunjukkan sekumpulan awan cumulonimbus raksasa berkembang pesat di atas perairan selatan pulau Jawa, dengan suhu puncak awan sangat dingin. Tindakan terbaik pihak berwenang adalah...
-A. Menunggu saja sampai cuaca membaik
-B. Menerbitkan peringatan dini cuaca ekstrem dan gelombang tinggi bagi nelayan dan warga pesisir
-C. Menganjurkan nelayan berangkat melaut agar cepat menangkap ikan
-D. Mematikan satelit agar tidak membuang data
 
 **(2) Pilihan Jawaban:**
 A. Menunggu saja sampai cuaca membaik
@@ -3075,10 +2715,6 @@ Empat siswa menjelaskan mengapa bintang tampak kecil:
 - Dodi: karena atmosfer mengecilkan bayangan bintang.
 
 Penjelasan yang paling tepat adalah pendapat...
-A. Andi
-B. Bunga
-C. Cici
-D. Dodi
 
 **(2) Pilihan Jawaban:**
 A. Andi
@@ -3109,10 +2745,6 @@ D. Dodi
 
 **(1) Soal:**
 Roket tetap dapat melaju dan bekerja di luar angkasa yang tidak memiliki udara. Penyebabnya adalah...
-A. Roket membawa bahan bakar dan gas pendorongnya sendiri, lalu menyemburkannya ke belakang sehingga roket terdorong maju
-B. Roket mengandalkan sayap ekor yang dikibaskan seperti burung
-C. Roket bergantung pada angin di atmosfer untuk mendorongnya
-D. Roket hanya didorong oleh cahaya matahari dengan layar surya
 
 **(2) Pilihan Jawaban:**
 A. Roket membawa bahan bakar dan gas pendorongnya sendiri, lalu menyemburkannya ke belakang sehingga roket terdorong maju
@@ -3143,10 +2775,6 @@ D. Roket hanya didorong oleh cahaya matahari dengan layar surya
 
 **(1) Soal:**
 Mengapa para astronom rela mengeluarkan biaya sangat besar untuk menempatkan teleskop di luar angkasa, padahal ada teleskop raksasa di bumi?
-A. Teleskop luar angkasa lebih dekat dengan bintang sehingga tampak lebih besar
-B. Di luar angkasa bintang menyala lebih terang sehingga mudah difoto
-C. Teleskop luar angkasa tidak membutuhkan tenaga listrik sama sekali
-D. Di luar angkasa tidak ada atmosfer yang membelokkan dan menyerap cahaya, sehingga gambarnya sangat tajam di berbagai panjang gelombang
 
 **(2) Pilihan Jawaban:**
 A. Teleskop luar angkasa lebih dekat dengan bintang sehingga tampak lebih besar
@@ -3177,10 +2805,6 @@ D. Di luar angkasa tidak ada atmosfer yang membelokkan dan menyerap cahaya, sehi
 
 **(1) Soal:**
 Cahaya Sirius memerlukan 8,6 tahun untuk sampai ke bumi. Jika hari ini Sirius mengalami ledakan besar (supernova), manusia di bumi baru akan melihat ledakan itu...
-A. Hari ini juga
-B. Besok pagi
-C. 8,6 tahun kemudian
-D. Tidak akan pernah terlihat
 
 **(2) Pilihan Jawaban:**
 A. Hari ini juga
@@ -3211,10 +2835,6 @@ D. Tidak akan pernah terlihat
 
 **(1) Soal:**
 Seorang petani modern tetap menengok Bintang Waluku sebelum menanam, tetapi juga memantau prakiraan cuaca dari ponselnya. Sikap ini paling tepat karena...
-A. Tradisi warisan tidak punya dasar ilmiah sama sekali
-B. Kedua sumber saling melengkapi: Waluku memberi penanda musim dari kebiasaan lama, BMKG memberi data cuaca aktual
-C. Data BMKG pasti keliru sehingga harus diganti bintang
-D. Bintang secara fisik mengendalikan hujan dan kemarau di bumi
 
 **(2) Pilihan Jawaban:**
 A. Tradisi warisan tidak punya dasar ilmiah sama sekali
@@ -3245,10 +2865,6 @@ D. Bintang secara fisik mengendalikan hujan dan kemarau di bumi
 
 **(1) Soal:**
 Dalam sebuah nebula, awan gas memadat, memanas di bagian pusat, lalu mulai menyala. Kesimpulan yang tepat dari proses itu adalah...
-A. Bintang baru lahir dari nebula; matahari pun dahulu lahir dari proses nebula yang sama
-B. Nebula hanya menghasilkan planet, tidak pernah menghasilkan bintang
-C. Bintang lahir dari komet yang membeku dan mencair
-D. Nebula tidak ada hubungannya dengan kelahiran bintang
 
 **(2) Pilihan Jawaban:**
 A. Bintang baru lahir dari nebula; matahari pun dahulu lahir dari proses nebula yang sama
@@ -3279,10 +2895,6 @@ D. Nebula tidak ada hubungannya dengan kelahiran bintang
 
 **(1) Soal:**
 Pasangan ciri yang **benar** tentang bintang dan planet adalah...
-A. Bintang memantulkan cahaya dan berkedip; planet memancarkan cahaya dan stabil
-B. Bintang berkedip dan memantulkan cahaya; planet stabil dan memancarkan cahaya
-C. Bintang stabil dan memancarkan cahaya; planet berkedip dan memantulkan cahaya
-D. Bintang memancarkan cahaya sendiri dan berkedip; planet memantulkan cahaya dan stabil
 
 **(2) Pilihan Jawaban:**
 A. Bintang memantulkan cahaya dan berkedip; planet memancarkan cahaya dan stabil
@@ -3313,10 +2925,6 @@ D. Bintang memancarkan cahaya sendiri dan berkedip; planet memantulkan cahaya da
 
 **(1) Soal:**
 Urutan yang benar dalam pembuatan dan peluncuran satelit komunikasi adalah...
-A. Satelit dinaikkan pesawat penumpang → dipasang di gedung → dinyalakan TV
-B. Satelit dirancang → diuji di darat → diangkat roket → ditempatkan di orbit → dihubungkan dengan stasiun bumi
-C. Satelit dinyalakan di pabrik → dilempar ke laut → ditarik jaring kapal
-D. Satelit diletakkan di orbit lebih dulu, baru dibuat di pabrik
 
 **(2) Pilihan Jawaban:**
 A. Satelit dinaikkan pesawat penumpang → dipasang di gedung → dinyalakan TV
@@ -3347,10 +2955,6 @@ D. Satelit diletakkan di orbit lebih dulu, baru dibuat di pabrik
 
 **(1) Soal:**
 Teleskop astronomi berbeda dari teropong biasa karena teleskop astronomi...
-A. Tidak memiliki lensa maupun cermin
-B. Dirancang mengumpulkan cahaya dalam jumlah besar sehingga objek sangat redup (bintang jauh) pun dapat terlihat
-C. Berukuran lebih kecil dan hanya untuk siang hari
-D. Hanya bisa digunakan untuk melihat bulan
 
 **(2) Pilihan Jawaban:**
 A. Tidak memiliki lensa maupun cermin
@@ -3381,10 +2985,6 @@ D. Hanya bisa digunakan untuk melihat bulan
 
 **(1) Soal:**
 Setelah mempelajari bintang dan galaksi, kesimpulan yang **paling tepat** tentang kedudukan bumi dan matahari di alam semesta adalah...
-A. Bumi adalah pusat alam semesta
-B. Matahari adalah pusat alam semesta
-C. Galaksi Bima Sakti adalah seluruh alam semesta
-D. Bumi dan matahari hanyalah bagian yang sangat kecil di dalam alam semesta yang amat luas
 
 **(2) Pilihan Jawaban:**
 A. Bumi adalah pusat alam semesta
