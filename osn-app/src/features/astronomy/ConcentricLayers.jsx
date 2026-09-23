@@ -4,12 +4,29 @@ import { DoubleSide } from 'three';
 const CUTAWAY_ANGLE = Math.PI / 2;
 
 export function ConcentricLayers({ layers, mode, onSelect }) {
+  // For concentric shells, the nearest raycaster hit is always the outermost layer's near
+  // surface — it directly faces the camera everywhere within its silhouette, so a naive "select
+  // whatever was clicked" handler would report the outermost layer no matter where you click.
+  // Instead, look at every layer the ray actually passed through (e.intersections, provided by
+  // R3F) and pick the SMALLEST-radius one among them — that's the layer closest to the center,
+  // matching what clicking "deeper into" the stack should mean.
+  const handleClick = (e) => {
+    e.stopPropagation();
+    if (!onSelect) return;
+    const hitIds = new Set(e.intersections.map((i) => i.object.userData?.layerId).filter(Boolean));
+    const innermostHit = layers
+      .filter((l) => hitIds.has(l.id))
+      .reduce((a, b) => (a.radius < b.radius ? a : b), layers[layers.length - 1]);
+    onSelect(innermostHit.id);
+  };
+
   return (
     <>
       {layers.map((layer) => (
         <mesh
           key={layer.id}
-          onClick={onSelect ? (e) => { e.stopPropagation(); onSelect(layer.id); } : undefined}
+          userData={{ layerId: layer.id }}
+          onClick={onSelect ? handleClick : undefined}
         >
           <sphereGeometry
             args={
