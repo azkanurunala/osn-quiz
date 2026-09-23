@@ -23,22 +23,23 @@ Two more patterns repeat across scenes and get their own shared pieces:
 ## File structure
 
 ```
-osn-app/src/features/astronomy/
-  SceneCanvas.jsx          # shared: WebGL fallback + Suspense + Environment(background) + lights + OrbitControls
-  CelestialBody.jsx        # shared: textured sphere, optional self-rotation, click-to-select
-  InfoPanel.jsx             # shared: overlay panel for the selected object (generalized PlanetInfoPanel)
-  ConcentricLayers.jsx     # shared: nested spherical layers, mode: 'cutaway' | 'shell'
-  registry.js               # SCENE_REGISTRY: { [subBabId]: { component, label } }
+osn-app/src/features/
+  solar-system.jsx + solar-system-data.js          # existing (ipa-05a) — refactored to import the shared pieces below
 
-  solar-system.jsx + solar-system-data.js         # existing (ipa-05a) — refactored onto the shared pieces above
-  earth-layers.jsx + earth-layers-data.js         # ipa-05b
-  earth-motion.jsx + earth-motion-data.js         # ipa-05c
-  moon-phases.jsx + moon-phases-data.js           # ipa-05d
-  eclipse.jsx + eclipse-data.js                   # ipa-05e
-  atmosphere.jsx + atmosphere-data.js             # ipa-05k
+  astronomy/
+    SceneCanvas.jsx          # shared: WebGL fallback + Suspense + Environment(background) + lights + OrbitControls
+    CelestialBody.jsx        # shared: textured sphere, optional self-rotation, click-to-select
+    InfoPanel.jsx             # shared: overlay panel for the selected object (generalized PlanetInfoPanel)
+    ConcentricLayers.jsx     # shared: nested spherical layers, mode: 'cutaway' | 'shell'
+    registry.js               # SCENE_REGISTRY: { [subBabId]: { component, label } }
+    earth-layers.jsx + earth-layers-data.js         # ipa-05b
+    earth-motion.jsx + earth-motion-data.js         # ipa-05c
+    moon-phases.jsx + moon-phases-data.js           # ipa-05d
+    eclipse.jsx + eclipse-data.js                   # ipa-05e
+    atmosphere.jsx + atmosphere-data.js             # ipa-05k
 ```
 
-`solar-system.jsx`/`solar-system-data.js` stay where they are (not moved into the new folder) to keep this diff reviewable — the new `astronomy/` folder holds the shared pieces plus the 5 new scenes; `solar-system.jsx` imports from `../astronomy/` the same way the new scenes do. (Moving the pilot's files into the new folder for full consistency is a trivial follow-up, not required for this batch.)
+`solar-system.jsx`/`solar-system-data.js` stay at the top level (not moved) to keep this diff reviewable — it starts importing the shared pieces from `./astronomy/` instead of duplicating them. (Moving the pilot's own files into `astronomy/` for full consistency is a trivial follow-up, not required for this batch.)
 
 ## Shared components
 
