@@ -1,18 +1,11 @@
-import { Suspense, useState, useRef, useMemo } from 'react';
-import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Line, useTexture, Environment } from '@react-three/drei';
+// osn-app/src/features/solar-system.jsx
+import { useState, useRef, useMemo } from 'react';
+import { useFrame } from '@react-three/fiber';
+import { Line, useTexture } from '@react-three/drei';
 import { RingGeometry, Vector3, DoubleSide } from 'three';
-import { X } from 'lucide-react';
-import { PLANETS, SUN, BACKGROUND_TEXTURE, getPlanetPosition } from './solar-system-data';
-
-function isWebGLAvailable() {
-  try {
-    const canvas = document.createElement('canvas');
-    return !!(window.WebGLRenderingContext && (canvas.getContext('webgl') || canvas.getContext('experimental-webgl')));
-  } catch {
-    return false;
-  }
-}
+import { SceneCanvas } from './astronomy/SceneCanvas';
+import { InfoPanel } from './astronomy/InfoPanel';
+import { PLANETS, SUN, getPlanetPosition } from './solar-system-data';
 
 function Sun() {
   const texture = useTexture(SUN.texture);
@@ -92,55 +85,30 @@ function Planet({ planet, onSelect }) {
   );
 }
 
-function PlanetInfoPanel({ planet, onClose }) {
-  return (
-    <div className="absolute bottom-3 left-3 right-3 md:right-auto md:w-72 glass-card rounded-2xl p-4 shadow-lg space-y-1.5 animate-fade-in">
-      <div className="flex items-start justify-between gap-3">
-        <div>
-          <span className="text-[10px] font-bold text-brand-primary uppercase tracking-wider">Planet ke-{planet.order} dari Matahari</span>
-          <h4 className="text-sm font-black font-heading text-gray-800">{planet.name}</h4>
-        </div>
-        <button onClick={onClose} className="text-gray-400 hover:text-gray-700 shrink-0" aria-label="Tutup">
-          <X className="w-4 h-4" />
-        </button>
-      </div>
-      <p className="text-xs text-gray-600 leading-relaxed">{planet.fact}</p>
-    </div>
-  );
-}
-
 export function SolarSystemScene({ interactive = true, size = 'inline' }) {
   const [selectedId, setSelectedId] = useState(null);
-  const [webglOk] = useState(() => isWebGLAvailable());
-
   const selectedPlanet = PLANETS.find((p) => p.id === selectedId) || null;
-  const heightClass = size === 'full' ? 'h-[70vh] min-h-[420px]' : 'h-72 md:h-96';
-
-  if (!webglOk) {
-    return (
-      <div className={`glass-card rounded-3xl flex items-center justify-center text-center p-8 ${heightClass}`}>
-        <p className="text-sm text-gray-500 font-semibold">Visualisasi 3D tidak didukung di browser ini.</p>
-      </div>
-    );
-  }
 
   return (
-    <div className={`relative rounded-3xl overflow-hidden glass-card ${heightClass}`}>
-      <Canvas camera={{ position: size === 'full' ? [0, 22, 30] : [0, 16, 22], fov: 50 }}>
-        <Suspense fallback={null}>
-          <Environment files={BACKGROUND_TEXTURE} background />
-          <ambientLight intensity={0.7} />
-          {/* decay=0: keeps consistent shading on far planets (orbitRadius up to 18) instead of
-              Three's physically-correct inverse-square falloff washing them out to flat ambient light */}
-          <pointLight position={[0, 0, 0]} intensity={6} color="#fff6d8" decay={0} />
-          <Sun />
-          {PLANETS.map((planet) => (
-            <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />
-          ))}
-          {interactive && <OrbitControls enablePan={false} minDistance={8} maxDistance={45} />}
-        </Suspense>
-      </Canvas>
-      {selectedPlanet && <PlanetInfoPanel planet={selectedPlanet} onClose={() => setSelectedId(null)} />}
-    </div>
+    <SceneCanvas
+      size={size}
+      interactive={interactive}
+      cameraPosition={size === 'full' ? [0, 22, 30] : [0, 16, 22]}
+      minDistance={8}
+      maxDistance={45}
+      overlay={selectedPlanet && (
+        <InfoPanel
+          eyebrow={`Planet ke-${selectedPlanet.order} dari Matahari`}
+          title={selectedPlanet.name}
+          body={selectedPlanet.fact}
+          onClose={() => setSelectedId(null)}
+        />
+      )}
+    >
+      <Sun />
+      {PLANETS.map((planet) => (
+        <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />
+      ))}
+    </SceneCanvas>
   );
 }
