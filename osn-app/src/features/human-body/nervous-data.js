@@ -7,11 +7,11 @@ export const SENSE_MARKERS = [
 ];
 
 export const NERVOUS_PARTS = [
-  { id: 'otak', name: 'Otak', real: true, models: ['/models/brain.glb'], fact: 'Pusat kendali tubuh — mengatur pikiran, gerakan, dan semua indera.' },
-  { id: 'sumsum-tulang-belakang', name: 'Sumsum Tulang Belakang', real: true, models: ['/models/spinal_cord.glb'], fact: 'Jalur utama sinyal saraf antara otak dan seluruh tubuh, dilindungi oleh tulang belakang.' },
+  { id: 'otak', name: 'Otak', real: true, models: ['/models/brain.glb'], tint: '#c9a8b8', fact: 'Pusat kendali tubuh — mengatur pikiran, gerakan, dan semua indera.' },
+  { id: 'sumsum-tulang-belakang', name: 'Sumsum Tulang Belakang', real: true, models: ['/models/spinal_cord.glb'], tint: '#ede0c8', fact: 'Jalur utama sinyal saraf antara otak dan seluruh tubuh, dilindungi oleh tulang belakang.' },
   // eye.glb listed twice deliberately: the source dataset only ships one eye model, so the scene
   // renders it a second time mirrored (scale=[-1,1,1]) for the other eye — see Step 4 below.
-  { id: 'mata', name: 'Mata (Penglihatan)', real: true, models: ['/models/eye.glb', '/models/eye.glb'], fact: 'Indera penglihatan — menangkap cahaya dan mengirim sinyal gambar ke otak.' },
+  { id: 'mata', name: 'Mata (Penglihatan)', real: true, models: ['/models/eye.glb', '/models/eye.glb'], tint: '#dce8f0', fact: 'Indera penglihatan — menangkap cahaya dan mengirim sinyal gambar ke otak.' },
   { id: 'telinga', name: 'Telinga (Pendengaran)', real: false, fact: 'Indera pendengaran — menangkap getaran suara dan membantu keseimbangan tubuh.' },
   { id: 'hidung', name: 'Hidung (Penciuman)', real: false, fact: 'Indera penciuman — mendeteksi partikel bau di udara.' },
   { id: 'lidah', name: 'Lidah (Pengecap)', real: false, fact: 'Indera pengecap — mendeteksi rasa manis, asin, asam, pahit, dan umami.' },

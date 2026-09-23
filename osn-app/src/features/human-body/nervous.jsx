@@ -15,9 +15,6 @@ export function NervousScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
-      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
-      // initial mount — changing cameraPosition later does NOT move an already-created camera.
-      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
       key={mode}
       size={size}
       interactive={interactive}
@@ -42,10 +39,7 @@ export function NervousScene({ interactive = true, size = 'inline' }) {
             key={`${part.id}-${i}`}
             id={part.id}
             url={modelUrl}
-            // Mirror the second copy of the eye model across X for the other eye — the source
-            // dataset only ships one eye, avoiding loading a second ~9MB source file for a
-            // near-symmetric part. useGLTF caches by URL, so the second OrganModel here reuses
-            // the already-fetched/parsed scene rather than downloading it again.
+            tint={part.tint}
             scale={part.id === 'mata' && i === 1 ? [-1, 1, 1] : 1}
             onSelect={handleSelect}
           />
@@ -58,7 +52,7 @@ export function NervousScene({ interactive = true, size = 'inline' }) {
           onClick={handleSelect ? (e) => { e.stopPropagation(); handleSelect(marker.id); } : undefined}
         >
           <sphereGeometry args={[marker.radius, 16, 16]} />
-          <meshStandardMaterial color={marker.color} />
+          <meshToonMaterial color={marker.color} />
         </mesh>
       ))}
     </SceneCanvas>
