@@ -12,7 +12,7 @@ import { InlineMarkdown, MarkdownText } from '../utils/markdown.jsx';
 import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
-import { SolarSystemScene } from '../features/solar-system';
+import { SCENE_REGISTRY } from '../features/astronomy/registry';
 import { fireMilestone } from '../utils/milestones';
 import { useT } from '../i18n';
 import { startRecording, startRecordingFromStream } from '../utils/recorder';
@@ -895,7 +895,10 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
             })}
           </div>
 
-          {subBabId === 'ipa-05a' && <SolarSystemScene interactive size="inline" />}
+          {SCENE_REGISTRY[subBabId] && (() => {
+            const Scene = SCENE_REGISTRY[subBabId].component;
+            return <Scene interactive size="inline" />;
+          })()}
 
           {filterTotal === 0 ? (
             <div className="glass-card rounded-3xl p-10 text-center space-y-2 font-sans">
