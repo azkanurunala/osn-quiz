@@ -347,6 +347,10 @@ export function ExcretoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
@@ -485,6 +489,10 @@ export function CirculatoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
@@ -640,6 +648,10 @@ export function RespiratoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
@@ -786,6 +798,10 @@ export function DigestiveScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
@@ -941,6 +957,10 @@ export function NervousScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
@@ -1107,6 +1127,10 @@ export function SkeletalScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
+      // initial mount — changing cameraPosition later does NOT move an already-created camera.
+      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
