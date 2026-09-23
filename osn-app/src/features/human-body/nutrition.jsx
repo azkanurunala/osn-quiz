@@ -27,7 +27,7 @@ export function NutritionScene({ interactive = true, size = 'inline' }) {
     >
       <mesh rotation={[-Math.PI / 2, 0, 0]}>
         <circleGeometry args={[PLATE_RADIUS + 0.08, 48]} />
-        <meshStandardMaterial color="#f5f5f0" />
+        <meshToonMaterial color="#f5f5f0" />
       </mesh>
       {NUTRITION_WEDGES.map((wedge) => (
         <mesh
@@ -37,12 +37,12 @@ export function NutritionScene({ interactive = true, size = 'inline' }) {
           onClick={onClickFor(wedge.id)}
         >
           <circleGeometry args={[PLATE_RADIUS, 32, wedge.thetaStart, wedge.thetaLength]} />
-          <meshStandardMaterial color={wedge.color} />
+          <meshToonMaterial color={wedge.color} />
         </mesh>
       ))}
       <mesh position={WATER_GLASS.position} onClick={onClickFor('air')}>
         <cylinderGeometry args={[WATER_GLASS.radiusTop, WATER_GLASS.radiusBottom, WATER_GLASS.height, 24]} />
-        <meshStandardMaterial color="#bcd8e8" transparent opacity={0.6} />
+        <meshToonMaterial color="#bcd8e8" transparent opacity={0.6} />
       </mesh>
     </SceneCanvas>
   );

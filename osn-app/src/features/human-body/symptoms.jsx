@@ -42,7 +42,7 @@ export function SymptomsScene({ interactive = true, size = 'inline' }) {
           onClick={handleSelect ? (e) => { e.stopPropagation(); handleSelect(marker.id); } : undefined}
         >
           <sphereGeometry args={[marker.radius, 16, 16]} />
-          <meshStandardMaterial color={marker.color} />
+          <meshToonMaterial color={marker.color} />
         </mesh>
       ))}
     </SceneCanvas>

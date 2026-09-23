@@ -40,7 +40,7 @@ export function BiotechScene({ interactive = true, size = 'inline' }) {
       </group>
       <mesh position={FERMENTATION_JAR.position} onClick={onClickFor('fermentasi')}>
         <cylinderGeometry args={[FERMENTATION_JAR.radius, FERMENTATION_JAR.radius, FERMENTATION_JAR.height, 24]} />
-        <meshStandardMaterial color="#d4a843" transparent opacity={0.5} />
+        <meshToonMaterial color="#d4a843" transparent opacity={0.5} />
       </mesh>
     </SceneCanvas>
   );

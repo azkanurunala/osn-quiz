@@ -49,11 +49,11 @@ export function CommunicableScene({ interactive = true, size = 'inline' }) {
       )}
       <mesh position={PATHOGEN_MARKERS.flu.position} onClick={onClickFor('flu')}>
         <icosahedronGeometry args={[PATHOGEN_MARKERS.flu.radius, 0]} />
-        <meshStandardMaterial color="#8bc34a" />
+        <meshToonMaterial color="#8bc34a" />
       </mesh>
       <mesh position={PATHOGEN_MARKERS.diare.position} scale={[1, 1.8, 1]} onClick={onClickFor('diare')}>
         <sphereGeometry args={[PATHOGEN_MARKERS.diare.radius, 12, 12]} />
-        <meshStandardMaterial color="#9c6b98" />
+        <meshToonMaterial color="#9c6b98" />
       </mesh>
       {PATHOGEN_MARKERS.cacar.spots.map((offset, i) => (
         <mesh
@@ -66,7 +66,7 @@ export function CommunicableScene({ interactive = true, size = 'inline' }) {
           onClick={onClickFor('cacar')}
         >
           <sphereGeometry args={[PATHOGEN_MARKERS.cacar.radius, 12, 12]} />
-          <meshStandardMaterial color="#e0668a" />
+          <meshToonMaterial color="#e0668a" />
         </mesh>
       ))}
     </SceneCanvas>
