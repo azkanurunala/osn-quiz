@@ -14,12 +14,17 @@ export function ExcretoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
+      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, on
+      // initial mount — changing the cameraPosition prop later does NOT move an already-created
+      // camera. Keying on mode forces a full remount (and thus a fresh camera position) whenever
+      // Dalam Tubuh <-> Detail Organ toggles; useGLTF's cache means the GLB models don't re-fetch.
+      key={mode}
       size={size}
       interactive={interactive}
       background="clinical"
       cameraPosition={isDetail ? EXCRETORY_DETAIL_CAMERA : [0, 0, 2.4]}
       target={isDetail ? EXCRETORY_DETAIL_TARGET : [0, 0, 0]}
-      minDistance={isDetail ? 0.3 : 1.2}
+      minDistance={isDetail ? 0.15 : 1.2}
       maxDistance={isDetail ? 2 : 5}
       overlay={
         <>

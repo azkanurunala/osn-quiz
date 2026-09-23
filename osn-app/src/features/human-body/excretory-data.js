@@ -22,4 +22,4 @@ export const EXCRETORY_PARTS = [
 // Kamera "Detail Organ": pusat kira-kira di tengah area ginjal-ureter-kandung kemih
 // (dihitung dari bounding box asli tiap model — lihat spec untuk data lengkapnya).
 export const EXCRETORY_DETAIL_TARGET = [0, 0.18, 0];
-export const EXCRETORY_DETAIL_CAMERA = [0, 0.18, 0.55];
+export const EXCRETORY_DETAIL_CAMERA = [0, 0.18, 0.4];
