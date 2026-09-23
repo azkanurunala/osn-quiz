@@ -42,6 +42,7 @@ export function ExcretoryScene({ interactive = true, size = 'inline' }) {
             key={modelUrl}
             id={part.id}
             url={modelUrl}
+            tint={part.tint}
             onSelect={interactive ? setSelectedId : undefined}
           />
         ))
