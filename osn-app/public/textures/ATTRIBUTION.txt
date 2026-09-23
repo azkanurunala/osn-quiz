@@ -1,0 +1,3 @@
+Planet, Sun, and Milky Way textures in this folder are from Solar System
+Scope (https://www.solarsystemscope.com/textures/), based on NASA imagery,
+licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).

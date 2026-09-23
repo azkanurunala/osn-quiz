@@ -1,13 +1,23 @@
 import assert from 'node:assert/strict';
-import { PLANETS, SUN, getPlanetPosition } from './solar-system-data.js';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { PLANETS, SUN, BACKGROUND_TEXTURE, getPlanetPosition } from './solar-system-data.js';
+
+const PUBLIC_DIR = fileURLToPath(new URL('../../public', import.meta.url));
+function assertTextureFileExists(texturePath) {
+  const onDisk = `${PUBLIC_DIR}${texturePath}`;
+  assert.ok(existsSync(onDisk), `texture file missing on disk: ${onDisk}`);
+}
 
 assert.equal(PLANETS.length, 8, 'expected 8 planets');
 
 PLANETS.forEach((p, i) => {
   assert.equal(p.order, i + 1, `planet at index ${i} should have order ${i + 1}`);
-  for (const field of ['id', 'name', 'color', 'radius', 'orbitRadius', 'orbitSpeed', 'fact']) {
+  for (const field of ['id', 'name', 'color', 'radius', 'orbitRadius', 'orbitSpeed', 'texture', 'fact']) {
     assert.ok(p[field] !== undefined && p[field] !== '', `${p.id} missing field "${field}"`);
   }
+  assert.ok(p.texture.startsWith('/textures/'), `${p.id} texture path should be under /textures/`);
+  assertTextureFileExists(p.texture);
 });
 
 for (let i = 1; i < PLANETS.length; i++) {
@@ -17,7 +27,10 @@ for (let i = 1; i < PLANETS.length; i++) {
   );
 }
 
-assert.ok(SUN.color && SUN.radius > 0, 'sun data present');
+assert.ok(SUN.color && SUN.radius > 0 && SUN.texture, 'sun data present');
+assertTextureFileExists(SUN.texture);
+assert.ok(BACKGROUND_TEXTURE.startsWith('/textures/'), 'background texture path should be under /textures/');
+assertTextureFileExists(BACKGROUND_TEXTURE);
 
 const earth = PLANETS.find((p) => p.id === 'bumi');
 const at0 = getPlanetPosition(earth, 0);

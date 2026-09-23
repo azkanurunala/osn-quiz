@@ -1,8 +1,8 @@
-import { useState, useRef, useMemo } from 'react';
+import { Suspense, useState, useRef, useMemo } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Line } from '@react-three/drei';
+import { OrbitControls, Line, useTexture, Environment } from '@react-three/drei';
 import { X } from 'lucide-react';
-import { PLANETS, SUN, getPlanetPosition } from './solar-system-data';
+import { PLANETS, SUN, BACKGROUND_TEXTURE, getPlanetPosition } from './solar-system-data';
 
 function isWebGLAvailable() {
   try {
@@ -14,16 +14,20 @@ function isWebGLAvailable() {
 }
 
 function Sun() {
+  const texture = useTexture(SUN.texture);
   return (
     <mesh>
       <sphereGeometry args={[SUN.radius, 32, 32]} />
-      <meshStandardMaterial color={SUN.color} emissive={SUN.color} emissiveIntensity={1.6} toneMapped={false} />
+      {/* meshBasicMaterial: the sun is self-luminous, so it should read as fully lit
+          regardless of scene lighting — no shading/shadow falls on a star. */}
+      <meshBasicMaterial map={texture} toneMapped={false} />
     </mesh>
   );
 }
 
 function Planet({ planet, onSelect }) {
   const meshRef = useRef(null);
+  const texture = useTexture(planet.texture);
 
   const ringPoints = useMemo(() => {
     const pts = [];
@@ -47,7 +51,7 @@ function Planet({ planet, onSelect }) {
       <Line points={ringPoints} color="#ffffff" transparent opacity={0.15} />
       <mesh ref={meshRef} onClick={(e) => { e.stopPropagation(); onSelect?.(planet.id); }}>
         <sphereGeometry args={[planet.radius, 24, 24]} />
-        <meshStandardMaterial color={planet.color} roughness={0.7} metalness={0.1} />
+        <meshStandardMaterial map={texture} roughness={0.7} metalness={0.1} />
       </mesh>
     </group>
   );
@@ -88,15 +92,18 @@ export function SolarSystemScene({ interactive = true, size = 'inline' }) {
   return (
     <div className={`relative rounded-3xl overflow-hidden glass-card ${heightClass}`}>
       <Canvas camera={{ position: size === 'full' ? [0, 22, 30] : [0, 16, 22], fov: 50 }}>
-        <ambientLight intensity={0.35} />
-        {/* decay=0: keeps consistent shading on far planets (orbitRadius up to 18) instead of
-            Three's physically-correct inverse-square falloff washing them out to flat ambient light */}
-        <pointLight position={[0, 0, 0]} intensity={3.5} color="#fff6d8" decay={0} />
-        <Sun />
-        {PLANETS.map((planet) => (
-          <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />
-        ))}
-        {interactive && <OrbitControls enablePan={false} minDistance={8} maxDistance={45} />}
+        <Suspense fallback={null}>
+          <Environment files={BACKGROUND_TEXTURE} background />
+          <ambientLight intensity={0.35} />
+          {/* decay=0: keeps consistent shading on far planets (orbitRadius up to 18) instead of
+              Three's physically-correct inverse-square falloff washing them out to flat ambient light */}
+          <pointLight position={[0, 0, 0]} intensity={3.5} color="#fff6d8" decay={0} />
+          <Sun />
+          {PLANETS.map((planet) => (
+            <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />
+          ))}
+          {interactive && <OrbitControls enablePan={false} minDistance={8} maxDistance={45} />}
+        </Suspense>
       </Canvas>
       {selectedPlanet && <PlanetInfoPanel planet={selectedPlanet} onClose={() => setSelectedId(null)} />}
     </div>
