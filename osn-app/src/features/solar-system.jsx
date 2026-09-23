@@ -88,8 +88,10 @@ export function SolarSystemScene({ interactive = true, size = 'inline' }) {
   return (
     <div className={`relative rounded-3xl overflow-hidden glass-card ${heightClass}`}>
       <Canvas camera={{ position: size === 'full' ? [0, 22, 30] : [0, 16, 22], fov: 50 }}>
-        <ambientLight intensity={0.4} />
-        <pointLight position={[0, 0, 0]} intensity={2.5} color="#fff6d8" />
+        <ambientLight intensity={0.35} />
+        {/* decay=0: keeps consistent shading on far planets (orbitRadius up to 18) instead of
+            Three's physically-correct inverse-square falloff washing them out to flat ambient light */}
+        <pointLight position={[0, 0, 0]} intensity={3.5} color="#fff6d8" decay={0} />
         <Sun />
         {PLANETS.map((planet) => (
           <Planet key={planet.id} planet={planet} onSelect={interactive ? setSelectedId : undefined} />
