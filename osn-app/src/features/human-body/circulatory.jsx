@@ -14,9 +14,6 @@ export function CirculatoryScene({ interactive = true, size = 'inline' }) {
 
   return (
     <SceneCanvas
-      // key={mode}: R3F's <Canvas camera={{position}}> only applies that position once, at
-      // initial mount — changing cameraPosition later does NOT move an already-created camera.
-      // Keying on mode forces a remount (fresh camera) on every Dalam Tubuh/Detail Organ toggle.
       key={mode}
       size={size}
       interactive={interactive}
@@ -37,7 +34,7 @@ export function CirculatoryScene({ interactive = true, size = 'inline' }) {
       {!isDetail && <HumanBody />}
       {CIRCULATORY_PARTS.map((part) =>
         part.models.map((modelUrl) => (
-          <OrganModel key={modelUrl} id={part.id} url={modelUrl} onSelect={interactive ? setSelectedId : undefined} />
+          <OrganModel key={modelUrl} id={part.id} url={modelUrl} tint={part.tint} onSelect={interactive ? setSelectedId : undefined} />
         ))
       )}
     </SceneCanvas>

@@ -8,7 +8,7 @@ const PUBLIC_DIR = fileURLToPath(new URL('../../../public', import.meta.url));
 assert.equal(CIRCULATORY_PARTS.length, 2, 'expected 2 circulatory parts');
 
 CIRCULATORY_PARTS.forEach((part) => {
-  for (const field of ['id', 'name', 'models', 'fact']) {
+  for (const field of ['id', 'name', 'models', 'tint', 'fact']) {
     assert.ok(part[field] !== undefined, `${part.id} missing field "${field}"`);
   }
   part.models.forEach((modelPath) => {

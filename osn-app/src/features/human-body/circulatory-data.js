@@ -3,12 +3,14 @@ export const CIRCULATORY_PARTS = [
     id: 'jantung',
     name: 'Jantung',
     models: ['/models/heart.glb'],
+    tint: '#d9665c',
     fact: 'Otot pemompa darah, berdetak sekitar 60-100 kali per menit, mengalirkan darah ke seluruh tubuh.',
   },
   {
     id: 'pembuluh-darah',
     name: 'Pembuluh Darah',
     models: ['/models/blood_vasculature_heart.glb'],
+    tint: '#b33951',
     fact: 'Arteri membawa darah kaya oksigen DARI jantung ke seluruh tubuh; vena membawa darah kembali KE jantung. Bersama-sama membentuk jaringan pembuluh yang mengalirkan darah ke seluruh tubuh.',
   },
 ];
