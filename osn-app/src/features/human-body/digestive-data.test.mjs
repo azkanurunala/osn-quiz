@@ -27,13 +27,32 @@ const mulutBottom = DIGESTIVE_PRIMITIVES.mulut.position[1] - DIGESTIVE_PRIMITIVE
 const kerongkonganTop = DIGESTIVE_PRIMITIVES.kerongkongan.from[1];
 assert.ok(kerongkonganTop <= mulutBottom + 0.05, 'kerongkongan top should be close to mulut bottom');
 
-const kerongkonganBottom = DIGESTIVE_PRIMITIVES.kerongkongan.to[1];
-const lambungTop = DIGESTIVE_PRIMITIVES.lambung.position[1] + DIGESTIVE_PRIMITIVES.lambung.radiusY;
-assert.ok(lambungTop >= kerongkonganBottom - 0.05, 'lambung top should reach up to meet kerongkongan bottom');
+// lambung is now 3 overlapping lobes (fundus->body->antrum) forming a J-curve instead of one
+// oval sphere — check each lobe has the expected shape, and that the chain overlaps end-to-end.
+assert.equal(DIGESTIVE_PRIMITIVES.lambung.length, 3, 'expected 3 lambung lobes (fundus, body, antrum)');
+DIGESTIVE_PRIMITIVES.lambung.forEach((lobe) => {
+  for (const field of ['id', 'position', 'radius']) {
+    assert.ok(lobe[field] !== undefined, `lambung lobe missing field "${field}"`);
+  }
+});
 
-const lambungBottom = DIGESTIVE_PRIMITIVES.lambung.position[1] - DIGESTIVE_PRIMITIVES.lambung.radiusY;
+const kerongkonganBottom = DIGESTIVE_PRIMITIVES.kerongkongan.to[1];
+const fundus = DIGESTIVE_PRIMITIVES.lambung[0];
+const fundusTop = fundus.position[1] + fundus.radius;
+assert.ok(fundusTop >= kerongkonganBottom - 0.05, 'lambung fundus top should reach up to meet kerongkongan bottom');
+
+for (let i = 0; i < DIGESTIVE_PRIMITIVES.lambung.length - 1; i += 1) {
+  const upper = DIGESTIVE_PRIMITIVES.lambung[i];
+  const lower = DIGESTIVE_PRIMITIVES.lambung[i + 1];
+  const upperBottom = upper.position[1] - upper.radius;
+  const lowerTop = lower.position[1] + lower.radius;
+  assert.ok(lowerTop >= upperBottom - 0.05, `lambung lobe "${lower.id}" should overlap lobe "${upper.id}"`);
+}
+
+const antrum = DIGESTIVE_PRIMITIVES.lambung[DIGESTIVE_PRIMITIVES.lambung.length - 1];
+const antrumBottom = antrum.position[1] - antrum.radius;
 const SMALL_INTESTINE_BBOX_TOP_Y = 0.3652; // from gltf-transform inspect public/models/small_intestine.glb
-assert.ok(lambungBottom <= SMALL_INTESTINE_BBOX_TOP_Y + 0.05, 'lambung bottom should reach down to overlap the real intestine mesh');
+assert.ok(antrumBottom <= SMALL_INTESTINE_BBOX_TOP_Y + 0.05, 'lambung antrum bottom should reach down to overlap the real intestine mesh');
 
 assert.equal(DIGESTIVE_DETAIL_TARGET.length, 3);
 assert.equal(DIGESTIVE_DETAIL_CAMERA.length, 3);

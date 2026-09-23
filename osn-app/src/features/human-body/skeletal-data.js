@@ -1,10 +1,16 @@
 // tengkorak, tulang lengan, tulang kaki tidak punya model asli — primitif, diposisikan relatif
 // terhadap tulang belakang & panggul asli. Tulang rusuk direpresentasikan sbg beberapa garis
 // lengkung (bukan satu bola besar spt sebelumnya, yg terlihat seperti noda melayang di dada).
+// tengkorak dirender sbg sphere yg di-scale non-uniform (oval, bukan bola bulat sempurna) +
+// primitif rahang kecil di bawahnya — lihat Step 4 pada component.
+// Proporsi tubuh standar (8-kepala, crown=0.91, pubic/hip-tengah=0, feet=-0.91): lengan yg
+// menggantung di sisi tubuh mencapai kira-kira pertengahan paha (~y=-0.2), BUKAN berhenti di
+// pinggul (y=0.15) seperti versi sebelumnya — itu bug, lengan jadi kependekan/tidak proporsional.
 export const SKELETAL_PRIMITIVES = {
-  tengkorak: { position: [0, 0.83, 0], radius: 0.09 },
-  tulangLenganKiri: { from: [0.2, 0.58, 0], to: [0.22, 0.15, 0] },
-  tulangLenganKanan: { from: [-0.2, 0.58, 0], to: [-0.22, 0.15, 0] },
+  tengkorak: { position: [0, 0.82, 0], radius: 0.08 },
+  rahang: { position: [0, 0.735, 0.02], radiusX: 0.055, radiusY: 0.03, radiusZ: 0.05 },
+  tulangLenganKiri: { from: [0.2, 0.58, 0], to: [0.25, -0.2, 0] },
+  tulangLenganKanan: { from: [-0.2, 0.58, 0], to: [-0.25, -0.2, 0] },
   tulangKakiKiri: { from: [0.08, -0.03, 0], to: [0.09, -0.85, 0] },
   tulangKakiKanan: { from: [-0.08, -0.03, 0], to: [-0.09, -0.85, 0] },
 };

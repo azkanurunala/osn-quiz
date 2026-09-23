@@ -3,10 +3,17 @@
 // asli (gltf-transform inspect) punya bboxMin y=0.09983, bboxMax y=0.3652 — rantai
 // mulut->kerongkongan->lambung->usus sekarang tumpang tindih sedikit tiap sambungan, bukan
 // mengambang terpisah seperti sebelumnya.
+// lambung direvisi 2026-09-24: dari 1 sphere oval polos (terlihat seperti telur) jadi 3 sphere
+// bertumpuk yg melengkung dari kiri-atas (fundus, dekat sambungan kerongkongan) turun ke
+// kanan-bawah (antrum, dekat sambungan ke usus halus) — lebih mirip bentuk J lambung sungguhan.
 export const DIGESTIVE_PRIMITIVES = {
   mulut: { position: [0, 0.83, 0.09], radius: 0.02 },
   kerongkongan: { from: [0, 0.8, 0.06], to: [0, 0.5, 0.02], radius: 0.012 },
-  lambung: { position: [0.02, 0.4, 0.03], radiusX: 0.06, radiusY: 0.1, radiusZ: 0.05 },
+  lambung: [
+    { id: 'fundus', position: [0, 0.49, 0.025], radius: 0.055 },
+    { id: 'body', position: [0.035, 0.41, 0.02], radius: 0.05 },
+    { id: 'antrum', position: [0.055, 0.35, 0.015], radius: 0.032 },
+  ],
 };
 
 export const DIGESTIVE_PARTS = [

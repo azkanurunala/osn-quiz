@@ -58,18 +58,12 @@ export function DigestiveScene({ interactive = true, size = 'inline' }) {
         lineWidth={6}
         onClick={onClickFor('kerongkongan')}
       />
-      <mesh
-        position={DIGESTIVE_PRIMITIVES.lambung.position}
-        scale={[
-          1,
-          DIGESTIVE_PRIMITIVES.lambung.radiusY / DIGESTIVE_PRIMITIVES.lambung.radiusX,
-          DIGESTIVE_PRIMITIVES.lambung.radiusZ / DIGESTIVE_PRIMITIVES.lambung.radiusX,
-        ]}
-        onClick={onClickFor('lambung')}
-      >
-        <sphereGeometry args={[DIGESTIVE_PRIMITIVES.lambung.radiusX, 20, 20]} />
-        <meshToonMaterial color="#d98c5f" />
-      </mesh>
+      {DIGESTIVE_PRIMITIVES.lambung.map((lobe) => (
+        <mesh key={lobe.id} position={lobe.position} onClick={onClickFor('lambung')}>
+          <sphereGeometry args={[lobe.radius, 20, 20]} />
+          <meshToonMaterial color="#d98c5f" />
+        </mesh>
+      ))}
     </SceneCanvas>
   );
 }

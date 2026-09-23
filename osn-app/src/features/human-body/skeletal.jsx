@@ -47,7 +47,7 @@ export function SkeletalScene({ interactive = true, size = 'inline' }) {
           zooming in on a bone isn't cluttered by the full-body overlay. Trade-off: Otot itself is
           only inspectable (click-to-info) from Dalam Tubuh mode as a result (see design spec). */}
       {!isDetail && (
-        <OrganModel id="otot" url="/models/skin.glb" opacity={0.35} tint="#c0392b" scale={1.03} onSelect={handleSelect} />
+        <OrganModel id="otot" url="/models/skin.glb" opacity={0.22} tint="#c0392b" scale={1.03} onSelect={handleSelect} />
       )}
 
       {SKELETAL_PARTS.filter((p) => p.real).map((part) =>
@@ -56,8 +56,20 @@ export function SkeletalScene({ interactive = true, size = 'inline' }) {
         ))
       )}
 
-      <mesh position={SKELETAL_PRIMITIVES.tengkorak.position} onClick={onClickFor('tengkorak')}>
+      <mesh
+        position={SKELETAL_PRIMITIVES.tengkorak.position}
+        scale={[0.92, 1.2, 1.05]}
+        onClick={onClickFor('tengkorak')}
+      >
         <sphereGeometry args={[SKELETAL_PRIMITIVES.tengkorak.radius, 20, 20]} />
+        <meshToonMaterial color="#f0e6d2" />
+      </mesh>
+      <mesh
+        position={SKELETAL_PRIMITIVES.rahang.position}
+        scale={[1, SKELETAL_PRIMITIVES.rahang.radiusY / SKELETAL_PRIMITIVES.rahang.radiusX, SKELETAL_PRIMITIVES.rahang.radiusZ / SKELETAL_PRIMITIVES.rahang.radiusX]}
+        onClick={onClickFor('tengkorak')}
+      >
+        <sphereGeometry args={[SKELETAL_PRIMITIVES.rahang.radiusX, 16, 16]} />
         <meshToonMaterial color="#f0e6d2" />
       </mesh>
       {RIB_ARCS.map((points, i) => (
