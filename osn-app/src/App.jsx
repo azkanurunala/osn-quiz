@@ -1,9 +1,10 @@
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders } from 'lucide-react';
+import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders, Orbit } from 'lucide-react';
 import Dashboard from './components/Dashboard';
 import PracticeArea from './components/PracticeArea';
 import TryoutArea from './components/TryoutArea';
 import Analytics from './components/Analytics';
+import SolarSystemViewer from './components/SolarSystemViewer';
 import OnboardingTour from './components/OnboardingTour';
 import ShortcutHelp from './components/ShortcutHelp';
 import SplashScreen from './components/SplashScreen';
@@ -229,6 +230,14 @@ export default function App() {
               >
                 <BarChart3 className="w-4 h-4" /> {t('analitik_belajar', 'Analitik Belajar')}
               </button>
+              <button
+                onClick={() => { setCurrentTab('solar-system'); setSelectedSubBab(null); }}
+                className={`px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1.5 ${
+                  currentTab === 'solar-system' ? 'bg-white text-brand-primary shadow-sm' : 'text-gray-500 hover:text-gray-800'
+                }`}
+              >
+                <Orbit className="w-4 h-4" /> {t('tata_surya_3d_nav', 'Tata Surya 3D')}
+              </button>
             </nav>
 
             <div className="flex items-center gap-3">
@@ -326,6 +335,8 @@ export default function App() {
             onJumpToSubBab={handleSelectSubBab}
           />
         )}
+
+        {currentTab === 'solar-system' && <SolarSystemViewer />}
       </main>
 
       {/* Mobile bottom nav */}
@@ -335,6 +346,7 @@ export default function App() {
             { id: 'dashboard', icon: Compass, label: t('roadmap_belajar', 'Roadmap').split(' ')[0] },
             { id: 'tryout', icon: Clock, label: t('tryout_mandiri', 'Tryout').split(' ')[0] },
             { id: 'analytics', icon: BarChart3, label: t('analitik_belajar', 'Analitik').split(' ')[0] },
+            { id: 'solar-system', icon: Orbit, label: t('tata_surya_3d_nav', 'Tata Surya 3D').split(' ')[0] },
           ].map(({ id, icon: Icon, label }) => {
             const active = currentTab === id;
             return (
