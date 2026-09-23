@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
-import { SKELETAL_PARTS, SKELETAL_PRIMITIVES, SKELETAL_DETAIL_TARGET, SKELETAL_DETAIL_CAMERA } from './skeletal-data.js';
+import { SKELETAL_PARTS, SKELETAL_PRIMITIVES, RIB_ARCS, SKELETAL_DETAIL_TARGET, SKELETAL_DETAIL_CAMERA } from './skeletal-data.js';
 
 const PUBLIC_DIR = fileURLToPath(new URL('../../../public', import.meta.url));
 
@@ -12,6 +12,7 @@ SKELETAL_PARTS.forEach((part) => {
     assert.ok(part[field] !== undefined, `${part.id} missing field "${field}"`);
   }
   if (part.real) {
+    assert.ok(part.tint, `${part.id} marked real but has no tint color`);
     part.models.forEach((modelPath) => {
       assert.ok(existsSync(`${PUBLIC_DIR}${modelPath}`), `model file missing on disk: ${modelPath}`);
     });
@@ -21,7 +22,14 @@ SKELETAL_PARTS.forEach((part) => {
 const realCount = SKELETAL_PARTS.filter((p) => p.real).length;
 assert.equal(realCount, 2, 'expected exactly 2 real-model parts (tulang-belakang, panggul)');
 
-assert.ok(SKELETAL_PRIMITIVES.tengkorak && SKELETAL_PRIMITIVES.tulangRusuk, 'primitive geometry present');
+assert.ok(SKELETAL_PRIMITIVES.tengkorak, 'tengkorak primitive geometry present');
+
+assert.equal(RIB_ARCS.length, 5, 'expected 5 rib arcs');
+RIB_ARCS.forEach((arc) => {
+  assert.ok(arc.length > 0, 'each rib arc should have points');
+  arc.forEach((point) => assert.equal(point.length, 3, 'each rib arc point should be [x,y,z]'));
+});
+
 assert.equal(SKELETAL_DETAIL_TARGET.length, 3);
 assert.equal(SKELETAL_DETAIL_CAMERA.length, 3);
 

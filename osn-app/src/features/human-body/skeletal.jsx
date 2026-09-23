@@ -4,7 +4,13 @@ import { SceneCanvas } from '../astronomy/SceneCanvas';
 import { InfoPanel } from '../astronomy/InfoPanel';
 import { OrganModel } from './OrganModel';
 import { ViewToggle } from './ViewToggle';
-import { SKELETAL_PARTS, SKELETAL_PRIMITIVES, SKELETAL_DETAIL_TARGET, SKELETAL_DETAIL_CAMERA } from './skeletal-data';
+import {
+  SKELETAL_PARTS,
+  SKELETAL_PRIMITIVES,
+  RIB_ARCS,
+  SKELETAL_DETAIL_TARGET,
+  SKELETAL_DETAIL_CAMERA,
+} from './skeletal-data';
 
 export function SkeletalScene({ interactive = true, size = 'inline' }) {
   const [mode, setMode] = useState('in-body');
@@ -37,28 +43,31 @@ export function SkeletalScene({ interactive = true, size = 'inline' }) {
       }
     >
       {/* Otot: reuses the real skin mesh, tinted red and made translucent, wrapping the bones
-          underneath — no dedicated muscle model exists in the source dataset. */}
-      <OrganModel id="otot" url="/models/skin.glb" opacity={0.35} tint="#c0392b" scale={1.03} onSelect={handleSelect} />
+          underneath. Hidden in Detail Organ mode — like HumanBody is hidden elsewhere — so
+          zooming in on a bone isn't cluttered by the full-body overlay. Trade-off: Otot itself is
+          only inspectable (click-to-info) from Dalam Tubuh mode as a result (see design spec). */}
+      {!isDetail && (
+        <OrganModel id="otot" url="/models/skin.glb" opacity={0.35} tint="#c0392b" scale={1.03} onSelect={handleSelect} />
+      )}
 
       {SKELETAL_PARTS.filter((p) => p.real).map((part) =>
         part.models.map((modelUrl) => (
-          <OrganModel key={modelUrl} id={part.id} url={modelUrl} onSelect={handleSelect} />
+          <OrganModel key={modelUrl} id={part.id} url={modelUrl} tint={part.tint} onSelect={handleSelect} />
         ))
       )}
 
       <mesh position={SKELETAL_PRIMITIVES.tengkorak.position} onClick={onClickFor('tengkorak')}>
         <sphereGeometry args={[SKELETAL_PRIMITIVES.tengkorak.radius, 20, 20]} />
-        <meshStandardMaterial color="#f5f0e6" />
+        <meshToonMaterial color="#f0e6d2" />
       </mesh>
-      <mesh position={SKELETAL_PRIMITIVES.tulangRusuk.position} onClick={onClickFor('tulang-rusuk')}>
-        <sphereGeometry args={[SKELETAL_PRIMITIVES.tulangRusuk.radiusX, 20, 20]} />
-        <meshStandardMaterial color="#f5f0e6" transparent opacity={0.6} />
-      </mesh>
+      {RIB_ARCS.map((points, i) => (
+        <Line key={`rib-${i}`} points={points} color="#f0e6d2" lineWidth={4} onClick={onClickFor('tulang-rusuk')} />
+      ))}
       {[SKELETAL_PRIMITIVES.tulangLenganKiri, SKELETAL_PRIMITIVES.tulangLenganKanan].map((bone, i) => (
-        <Line key={`lengan-${i}`} points={[bone.from, bone.to]} color="#f5f0e6" lineWidth={8} onClick={onClickFor('tulang-lengan')} />
+        <Line key={`lengan-${i}`} points={[bone.from, bone.to]} color="#f0e6d2" lineWidth={8} onClick={onClickFor('tulang-lengan')} />
       ))}
       {[SKELETAL_PRIMITIVES.tulangKakiKiri, SKELETAL_PRIMITIVES.tulangKakiKanan].map((bone, i) => (
-        <Line key={`kaki-${i}`} points={[bone.from, bone.to]} color="#f5f0e6" lineWidth={10} onClick={onClickFor('tulang-kaki')} />
+        <Line key={`kaki-${i}`} points={[bone.from, bone.to]} color="#f0e6d2" lineWidth={10} onClick={onClickFor('tulang-kaki')} />
       ))}
     </SceneCanvas>
   );
