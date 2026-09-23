@@ -17,9 +17,11 @@ export function SceneCanvas({
   size = 'inline',
   interactive = true,
   cameraPosition,
+  target = [0, 0, 0],
   minDistance = 8,
   maxDistance = 45,
   showPointLight = true,
+  background = 'space',
   overlay = null,
   children,
 }) {
@@ -54,7 +56,9 @@ export function SceneCanvas({
   return (
     <div
       ref={wrapperRef}
-      className={`relative rounded-3xl overflow-hidden glass-card ${isFullscreen ? 'h-screen w-screen' : heightClass}`}
+      className={`relative rounded-3xl overflow-hidden glass-card ${isFullscreen ? 'h-screen w-screen' : heightClass} ${
+        background === 'clinical' ? 'bg-gradient-to-br from-blue-50 to-slate-100' : ''
+      }`}
     >
       <button
         onClick={toggleFullscreen}
@@ -64,16 +68,18 @@ export function SceneCanvas({
       >
         {isFullscreen ? <Minimize className="w-4 h-4" /> : <Maximize className="w-4 h-4" />}
       </button>
-      <Canvas camera={{ position: cameraPosition || defaultCameraPosition, fov: 50 }}>
+      <Canvas camera={{ position: cameraPosition || defaultCameraPosition, fov: 50 }} gl={{ alpha: true }}>
         <Suspense fallback={null}>
-          <Environment files={BACKGROUND_TEXTURE} background />
+          {background === 'space' && <Environment files={BACKGROUND_TEXTURE} background />}
           <ambientLight intensity={0.7} />
           {/* decay=0: keeps consistent shading regardless of how far a body sits from the
               origin, instead of Three's physically-correct inverse-square falloff washing
               distant objects out to flat ambient light (see solar-system.jsx's fix). */}
           {showPointLight && <pointLight position={[0, 0, 0]} intensity={6} color="#fff6d8" decay={0} />}
           {children}
-          {interactive && <OrbitControls enablePan={false} minDistance={minDistance} maxDistance={maxDistance} />}
+          {interactive && (
+            <OrbitControls target={target} enablePan={false} minDistance={minDistance} maxDistance={maxDistance} />
+          )}
         </Suspense>
       </Canvas>
       {overlay}
