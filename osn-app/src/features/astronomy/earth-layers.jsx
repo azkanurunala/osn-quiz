@@ -19,7 +19,7 @@ export function EarthLayersScene({ interactive = true, size = 'inline' }) {
         <InfoPanel eyebrow="Lapisan Bumi" title={selected.name} body={selected.fact} onClose={() => setSelectedId(null)} />
       )}
     >
-      <ConcentricLayers layers={EARTH_LAYERS} mode="cutaway" onSelect={interactive ? setSelectedId : undefined} />
+      <ConcentricLayers layers={EARTH_LAYERS} mode="shell" onSelect={interactive ? setSelectedId : undefined} />
     </SceneCanvas>
   );
 }

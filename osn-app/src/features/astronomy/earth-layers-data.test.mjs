@@ -4,9 +4,10 @@ import { EARTH_LAYERS } from './earth-layers-data.js';
 assert.equal(EARTH_LAYERS.length, 4, 'expected 4 Earth layers');
 
 EARTH_LAYERS.forEach((layer) => {
-  for (const field of ['id', 'name', 'radius', 'color', 'fact']) {
+  for (const field of ['id', 'name', 'radius', 'color', 'opacity', 'fact']) {
     assert.ok(layer[field] !== undefined && layer[field] !== '', `${layer.id} missing field "${field}"`);
   }
+  assert.ok(layer.opacity > 0 && layer.opacity <= 1, `${layer.id} opacity should be a valid translucent-to-opaque fraction`);
 });
 
 for (let i = 1; i < EARTH_LAYERS.length; i++) {

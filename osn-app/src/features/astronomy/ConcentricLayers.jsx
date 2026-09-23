@@ -22,6 +22,11 @@ export function ConcentricLayers({ layers, mode, onSelect }) {
             color={layer.color}
             transparent={mode === 'shell'}
             opacity={mode === 'shell' ? layer.opacity : 1}
+            // depthWrite=false in shell mode: Three.js doesn't disable depth-writing just
+            // because a material is transparent, so without this, whichever shell draws first
+            // (typically the largest/outermost) writes its depth and hides every smaller shell
+            // behind it — the layers stop being visible through each other entirely.
+            depthWrite={mode !== 'shell'}
             side={DoubleSide}
             roughness={0.8}
           />
