@@ -32,7 +32,7 @@ export function DigestiveScene({ interactive = true, size = 'inline' }) {
       cameraPosition={isDetail ? DIGESTIVE_DETAIL_CAMERA : [0, 0, 2.4]}
       target={isDetail ? DIGESTIVE_DETAIL_TARGET : [0, 0, 0]}
       minDistance={isDetail ? 0.4 : 1.2}
-      maxDistance={isDetail ? 2.5 : 5}
+      maxDistance={isDetail ? 3 : 5}
       overlay={
         <>
           <ViewToggle mode={mode} onChange={setMode} />
@@ -45,12 +45,12 @@ export function DigestiveScene({ interactive = true, size = 'inline' }) {
       {!isDetail && <HumanBody />}
       {DIGESTIVE_PARTS.filter((p) => p.real).map((part) =>
         part.models.map((modelUrl) => (
-          <OrganModel key={modelUrl} id={part.id} url={modelUrl} onSelect={handleSelect} />
+          <OrganModel key={modelUrl} id={part.id} url={modelUrl} tint={part.tint} onSelect={handleSelect} />
         ))
       )}
       <mesh position={DIGESTIVE_PRIMITIVES.mulut.position} onClick={onClickFor('mulut')}>
         <sphereGeometry args={[DIGESTIVE_PRIMITIVES.mulut.radius, 16, 16]} />
-        <meshStandardMaterial color="#e8a87c" />
+        <meshToonMaterial color="#e8a87c" />
       </mesh>
       <Line
         points={[DIGESTIVE_PRIMITIVES.kerongkongan.from, DIGESTIVE_PRIMITIVES.kerongkongan.to]}
@@ -68,7 +68,7 @@ export function DigestiveScene({ interactive = true, size = 'inline' }) {
         onClick={onClickFor('lambung')}
       >
         <sphereGeometry args={[DIGESTIVE_PRIMITIVES.lambung.radiusX, 20, 20]} />
-        <meshStandardMaterial color="#d98c5f" />
+        <meshToonMaterial color="#d98c5f" />
       </mesh>
     </SceneCanvas>
   );
