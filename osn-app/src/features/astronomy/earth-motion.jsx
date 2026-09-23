@@ -28,7 +28,7 @@ export function EarthMotionScene({ interactive = true, size = 'inline' }) {
         <InfoPanel
           eyebrow="Gerakan Bumi"
           title={selected === 'sun' ? 'Matahari' : 'Bumi'}
-          body={selected === 'sun' ? 'Pusat tata surya — sumber cahaya & panas yang menyebabkan siang di sisi Bumi yang menghadapnya.' : `${EARTH_MOTION.facts.rotasi} ${EARTH_MOTION.facts.revolusi}`}
+          body={selected === 'sun' ? EARTH_MOTION.facts.sun : `${EARTH_MOTION.facts.rotasi} ${EARTH_MOTION.facts.revolusi}`}
           onClose={() => setSelected(null)}
         />
       )}
@@ -39,6 +39,7 @@ export function EarthMotionScene({ interactive = true, size = 'inline' }) {
         position={[0, 0, 0]}
         radius={EARTH_MOTION.sun.radius}
         texture={EARTH_MOTION.sun.texture}
+        spinSpeed={EARTH_MOTION.sun.spinSpeed}
         material="basic"
         onSelect={interactive ? setSelected : undefined}
       />

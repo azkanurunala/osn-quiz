@@ -63,7 +63,7 @@ export function EclipseScene({ interactive = true, size = 'inline' }) {
           layout.sun (off-origin) — without a light there, Earth/Moon (both 'standard' material)
           would be lit from the wrong place instead of from the sun's actual position. */}
       <pointLight position={layout.sun} intensity={8} color="#fff6d8" decay={0} />
-      <CelestialBody id="sun" position={layout.sun} radius={ECLIPSE_BODIES.sun.radius} texture={ECLIPSE_BODIES.sun.texture} material="basic" onSelect={interactive ? setSelected : undefined} />
+      <CelestialBody id="sun" position={layout.sun} radius={ECLIPSE_BODIES.sun.radius} texture={ECLIPSE_BODIES.sun.texture} spinSpeed={0.004} material="basic" onSelect={interactive ? setSelected : undefined} />
       <CelestialBody id="earth" position={layout.earth} radius={ECLIPSE_BODIES.earth.radius} texture={ECLIPSE_BODIES.earth.texture} onSelect={interactive ? setSelected : undefined} />
       <CelestialBody id="moon" position={layout.moon} radius={ECLIPSE_BODIES.moon.radius} texture={ECLIPSE_BODIES.moon.texture} onSelect={interactive ? setSelected : undefined} />
       <ShadowCone from={layout.sun} to={layout[layout.blockerId]} />

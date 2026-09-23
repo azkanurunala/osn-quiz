@@ -9,8 +9,19 @@ import { PLANETS, SUN, getPlanetPosition } from './solar-system-data';
 
 function Sun() {
   const texture = useTexture(SUN.texture);
+  const meshRef = useRef(null);
+
+  // Schematic spin, slower than a planet's self-rotation — the real Sun takes ~25 Earth days
+  // to rotate once (differential rotation, since it's gas rather than solid), much slower than
+  // Earth's 24 hours; this keeps that relative pacing without being imperceptibly slow on screen.
+  useFrame(() => {
+    if (meshRef.current) {
+      meshRef.current.rotation.y += 0.004;
+    }
+  });
+
   return (
-    <mesh>
+    <mesh ref={meshRef}>
       <sphereGeometry args={[SUN.radius, 32, 32]} />
       {/* meshBasicMaterial: the sun is self-luminous, so it should read as fully lit
           regardless of scene lighting — no shading/shadow falls on a star. */}
