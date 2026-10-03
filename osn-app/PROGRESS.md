@@ -1,12 +1,98 @@
 # OSN-SD App — Progress Tracker
 
-> Tujuan: catat status implementasi & cara melanjutkan di chat baru. **Update saat ada perubahan signifikan.**
+> Tujuan: catat status implementasi & cara melanjutkan di chat/model baru. **Update saat ada perubahan signifikan.**
 
-Last updated: **2026-09-09** (Round 12 / Video-mode re-design 30:70 split + batch record pipeline).
+Last updated: **2026-10-03** (PIVOT: ilustrasi IPA akan diganti gambar asli Vertex AI; pilot `paru-paru` selesai; menunggu cek billing. **Baru:** 19 diagram SVG MTK dibangun + gate subject matcher diperbaiki + presisi keyword MTK di-tuning).
 
 ---
 
-## Status singkat
+## HANDOFF — posisi pekerjaan saat ini (baca ini dulu)
+
+### ⚠️ PIVOT (2026-10-03) — baca dulu sebelum lanjut
+Keputusan user: **ilustrasi SVG tidak relevan/akurat untuk IPA → semua SVG IPA akan diganti ilustrasi asli yang digenerate dari Vertex AI.** SVG MTK boleh tetap. Pipeline-nya SUDAH ADA di repo ini (`image-prompts/` + `image-results/` + `image-prompts/_src/gemini-gen.mjs`); tinggal digen → direview → diintegrasikan ke app.
+
+**Akun/project Vertex (WAJIB ini):** gcloud config `osn-sd` = `azukanurunara94@gmail.com`, project `project-a087bc92-937b-4ba3-859`. Pakai `node image-prompts/_src/gemini-gen.mjs --vertex <ids…>` (tanpa API key; token dari `gcloud auth print-access-token`). Jangan sentuh config `default` (milik klien lain). Sudah diverifikasi bekerja 2026-10-03.
+
+**Kendala penting:** opencode TIDAK bisa melihat gambar (no image input). Review akurasi visual HARUS dilakukan model ber-vision (Claude) atau manusia. Progress ini ditulis sebagai *bridging* agar Claude bisa melanjutkan review + generate.
+
+**Status pipeline gambar:** total slot IPA **1776** (33 terisi / 1743 kosong), MTK **184** (0 terisi). `image-results/_STATUS.md` & `_review.json` = source of truth review.
+
+**Pilot `paru-paru` (2026-10-03):** p07 (ilustrasi depan) + p11 (penampang belah) digen pakai FLASH dan PRO; 4 gambar perbandingan di `C:\Users\nurun\AppData\Local\Temp\opencode\shots\PARU-p07/11-*-FLASH|PRO.png`. Biaya pilot ≈ **$0.76** (`--biaya`: flash ~$0.47 / pro ~$0.29). Slot `paru-paru/p07` & `/p11` saat ini berisi versi **PRO** (belum direview).
+
+**Keputusan model (user): HYBRID** — FLASH `gemini-2.5-flash-image` (~$0.039/gbr) untuk subjek sederhana (hewan, tumbuhan, benda, antariksa); PRO `gemini-3-pro-image` (~$0.134/gbr) untuk anatomi & penampang skematik.
+
+**BLOKER: menunggu cek billing.** User cek di Google Cloud Billing → Reports (kredit free-trial kabarnya tidak berlaku untuk image-gen). **Jangan jalankan batch besar sebelum billing dikonfirmasi.**
+
+### Tujuan besar
+Ganti ilustrasi IPA di app dengan gambar asli Vertex AI (pipeline `image-prompts` → `image-results` → review → wiring app). SVG IPA = sementara; SVG MTK tetap.
+
+### Rekam video (status)
+Percobaan rekam `ipa-02a` (42 menit) **diabort** 2026-10-03 karena SVG IPA sudah diputuskan tidak dipakai. Catatan akar masalah yang sempat menghambat: stall rekam ~20 menit BUKAN bug app — recorder headless tidak menjalankan `MediaRecorder` app; stall dipicu kontensi server `@playwright/mcp` + RAM rendah. Setelah proses MCP dibunuh, smoke `--limit=10` sukses (260s). Musik `audio/osn-1.mp3`. `--music-out` default `recordings-final` → **wajib override** agar tak menimpa 201 video final.
+
+### Yang sudah selesai
+- **34 diagram SVG** di `src/features/diagrams/` (13 lama + 21 baru):
+  - `families/tubuh.jsx` (5): saluran-pencernaan, penyerapan-nutrisi, organ-ekskresi, pernapasan-paru, peredaran-darah → ipa-02
+  - `families/fisika.jsx` (6): perambatan-cahaya, pemantulan-cahaya, pembiasan-cahaya, perpindahan-panas, pemantulan-bunyi, pemisahan-campuran → ipa-04
+  - `families/bumi.jsx` (6): tata-surya, rotasi-revolusi, gerhana, fase-bulan, lapisan-atmosfer, siklus-batu → ipa-05
+  - `families/sains.jsx` (4): keanekaragaman-hayati, variabel-penelitian, alat-pengukuran, metode-ilmiah → ipa-06
+  - lama: `mekanika.jsx` (5), `listrik.jsx` (4), `ekologi.jsx` (4)
+- Terdaftar di `registry.js` + `diagram-data.js`. **Smoke test render `node scripts/audit-render.mjs`** (SSR, tanpa browser): 68 render (34 diagram × 2 fase) lolos, tanpa warning React/NaN.
+- **Bug diperbaiki**:
+  - `components/PracticeArea.jsx`: `<QuestionFigure isSplitActive />` (JSX shorthand = `true`) → `isSplitActive={isSplitActive}`. Figure fase soal sempat 260px, bukan 520px.
+  - `features/diagrams/DiagramFrame.jsx`: `maxWidth` → `width` + `maxWidth:'100%'` agar flex-item tidak kolaps.
+  - `families/tubuh.jsx` saluran-pencernaan: connector `xs[i+1]` pada organ terakhir → `undefined-34 = NaN`; diperbaiki `organs.slice(0,-1)`.
+- **Matcher topik** `features/diagrams/matchDiagram.js`: `topicOf()` = `subTopic` non-junk + segmen tengah `level`; haystack = `topicOf` + `concept` + `question`. `MIN_SCORE=6`, `MIN_MARGIN=4`, guard negasi. **Audit presisi Stream A (2026-10-03)**: ke-34 diagram ditinjau via `node scripts/audit-matches.mjs <id>`; keyword generik yang mencuri soal lintas topik dibuang: `percobaan, kesimpulan, observasi, varietas, endemik, satuan, penggaris, usus, perut, mulut, gizi, enzim, habitat, lingkungan hidup, berputar pada, mengukur, prisma, terurai, bayangan, sifat cahaya, berkas cahaya, pantulan, memantul, bercabang, penghantar, mengangkat beban, dimakan, empedu, gugur darah, oksigen, karbon dioksida, pertukaran gas, lereng, tangga, jantung, disaring, zat sisa, membeku, uap air`. Contoh FP yang diperbaiki: MTK prisma→pembiasan-cahaya, ular lidah bercabang→rangkaian-paralel, bola memantul→pemantulan-bunyi, fotosintesis→pernapasan-paru, es mencair "penyerapan kalor"→penyerapan-nutrisi, tuas "mengangkat beban"→katrol, "rumah tangga"/soal daya/erosi lereng→bidang-miring, "otot jantung"/batang otak→peredaran-darah, "air membeku"→siklus-batu, "uap air" perubahan wujud→siklus-air, "udara disaring" hidung→pemisahan-campuran.
+- **Coverage 35 paket IPA = 1589/3445 (46.1%)** (audit presisi penuh; presisi lebih penting). Per bab: ipa-01 24.4% · ipa-02 45.4% · ipa-03 40.4% · ipa-04 50.6% · ipa-05 57.4% · ipa-06 52.6%.
+- `npm run build` ✅ (~19s). `npx eslint src/features/diagrams` ✅ bersih (19 problem tersisa = baseline lama di `PracticeArea.jsx`).
+- **19 diagram SVG MTK dibangun** (family baru) — pasangan SVG yang tetap dipakai setelah pivot (IPA → Vertex):
+  - `families/bilangan.jsx` (3): pohon-faktor, garis-bilangan, pola-bilangan
+  - `families/geometri-datar.jsx` (3): bangun-datar, lingkaran-unsur, sudut
+  - `families/geometri-ruang.jsx` (3): bangun-ruang, jaring-jaring, bangun-ruang-gabungan
+  - `families/pengukuran.jsx` (4): tangga-satuan, kecepatan-jarak-waktu, debit, skala-peta
+  - `families/statistika.jsx` (4): diagram-batang, diagram-lingkaran, mean-median-modus, peluang-dadu
+  - `families/aljabar.jsx` (2): diskon-ppn, timbangan-aljabar
+  - Terdaftar di `registry.js` + `diagram-data.js` dengan `subject: 'mtk'`. **Total sekarang 53 diagram** (34 IPA + 19 MTK).
+  - Verifikasi: `npx eslint src/features/diagrams` ✅ bersih; `node scripts/audit-render.mjs` = **106 render (53 × 2 fase) lolos** (warning `<animateMotion />` casing pre-existing, bukan dari MTK).
+- **Gate subject matcher (bug MTK) DIPERBAIKI:** `matchDiagram(question, packageSubject)` + helper `subjectOf()`; diagram tanpa `subject` = IPA default. Wiring: `PracticeArea.jsx` (`matchDiagram(currentQuestion, questionsData?.subject)` ~107) + `PembahasanContent({q, subject})` (2 call site); `scripts/audit-matches.mjs` pass `it.subject`. Paket MTK tak lagi memunculkan diagram IPA.
+- **Presisi keyword MTK di-tuning** (audit sampel via `node scripts/audit-matches.mjs --all <id>`). FP yang dibuang: `garis-bilangan` menangkap aritmetika negatif (kini 2 soal, keduanya garis bilangan asli); `pola-bilangan` menangkap soal mean (via `selisih tetap`); `diagram-batang` menangkap persen/modul (hapus `banyak siswa`,`nilai ulangan`,`frekuensi`); `bangun-ruang-gabungan` menangkap gabungan **2D** (kini hanya frasa `bangun ruang gabungan`); `kecepatan-jarak-waktu` menangkap work-rate/debit & selisih waktu (hapus `kecepatan` telanjang, `jarak yang ditempuh`, `lama perjalanan`); `debit` menangkap volume-cair & pecahan (kini 64 soal debit asli); `diagram-lingkaran` menangkap konversi pecahan→persen (hapus `derajat`,`dalam persen`); `timbangan-aljabar` menangkap KPK/FPB bervariabel (hapus `variabel`). `mean-median-modus` dapat `frekuensi tertinggi` (modus). Sisa borderline: ~5 soal *konversi kecepatan* tetap ke `kecepatan-jarak-waktu` (masih konteks kecepatan, bukan sains salah).
+- **Coverage `--all` = 4721/10435 (45.2%)**. Per bab MTK: mtk-01 26.5% · mtk-02 12.8% · mtk-03 81.8% · mtk-04 85.4% · mtk-05 57.6% · mtk-06 64.8% · mtk-07 68.6% · mtk-08 70.6%. Diagram MTK teratas: pohon-faktor 806, bangun-datar 358, bangun-ruang 381, diskon-ppn 314, timbangan-aljabar 230, pola-bilangan 200, peluang-dadu 179, kecepatan-jarak-waktu 176, lingkaran-unsur 96, mean-median-modus 81, tangga-satuan 73, debit 64, skala-peta 49, diagram-batang 41, diagram-lingkaran 39, bangun-ruang-gabungan 23, jaring-jaring 11, sudut 9, garis-bilangan 2.
+
+### Yang belum selesai (lanjutkan dari sini)
+
+**A. Pipeline gambar Vertex (PRIORITAS BARU — tunggu konfirmasi billing dulu)**
+1. **USER: cek billing** di Google Cloud Billing → Reports untuk project `project-a087bc92-937b-4ba3-859`. Lanjut/batal batch berdasarkan hasil.
+2. **CLAUDE (ber-vision): review 4 gambar pilot `paru-paru`** — bandingkan FLASH vs PRO di `C:\Users\nurun\AppData\Local\Temp\opencode\shots\PARU-*.png`; tentukan apakah FLASH cukup untuk non-anatomi & PRO perlu untuk anatomi. Tulis verdict ke `image-results/_review.json` (format contoh sudah ada di file itu), lalu `node image-prompts/_src/gen.mjs` untuk refresh `_STATUS.md`.
+3. **Tentukan routing HYBRID** (daftar id PRO vs FLASH). Usul: PRO = semua `image-prompts/ipa/02-tubuh-manusia/*` **dan** tiap objek yang punya slot `-penampang*`; sisanya FLASH. Jalankan **satu bab dulu** (`ipa-02`, 55 objek) end-to-end (gen → review → integrasi), baru perbesar. Perintah: `node image-prompts/_src/gemini-gen.mjs --vertex --model <flash|pro> <ids…>`; `--hemat` = 1 ilustrasi + penampang/objek (~510 gambar IPA total); `--biaya` = total biaya dari `_usage.jsonl`.
+4. **Integrasi ke app (belum ada kode sama sekali):** `grep` di `src/` tak menemukan referensi `image-results`. Perlu: (a) ekspos gambar lolos ke app (copy ke `public/` lewat skrip, atau `import.meta.glob` Vite), (b) ubah `QuestionFigure`/`matchDiagram` untuk IPA agar render `<img>` hasil map objek→slot, (c) biarkan SVG untuk MTK.
+
+**B. Pekerjaan SVG/matcher (MTK aktif; IPA diarsip selama SVG diganti Vertex)**
+1. **Bug produk MTK (SELESAI 2026-10-03):** matcher dipanggil untuk semua mapel tanpa gate subject → paket MTK memunculkan diagram sains IPA yang salah. Kini `matchDiagram(question, packageSubject)` + `subjectOf()`; diagram tanpa `subject` = IPA default; paket MTK hanya cocok diagram `subject: 'mtk'`. Wiring di `PracticeArea.jsx` (~107 + 2 call site) & `audit-matches.mjs`.
+2. **Audit presisi matcher — selesai** untuk 34 diagram IPA (Stream A) **dan 19 diagram MTK** (2026-10-03); hanya ~3 (IPA) + ~5 (MTK konversi-kecepatan) borderline tak berbahaya. Script `node scripts/audit-matches.mjs <diagram-id>` (`--all` untuk semua subject; lihat sampel soal).
+3. **Audit browser** `node scripts/audit-diagrams.mjs <paket> ...` (butuh dev server `:5173`). Catatan: `node scripts/audit-render.mjs` sempat memunculkan peringatan React 19 `<animateMotion /> incorrect casing` dari `families/bumi.jsx:25,182` — cek animasi Bulan/Bumi tetap jalan.
+
+### Cara melanjutkan di model lain (handoff)
+1. Buka folder `C:\Products\osn-sd\osn-app` di tool apa pun (Claude Code, Cursor, Codex, dsb.).
+2. Model akan otomatis membaca `AGENTS.md` (dan `..\CLAUDE.md`). Perintah cukup: **"Baca `osn-app/PROGRESS.md`, lalu lanjutkan dari bagian 'Yang belum selesai'."**
+3. **Review/generate gambar Vertex → pakai model BER-VISION (Claude).** opencode/Codex tak bisa melihat gambar. Bridging: `node image-prompts/_src/gen.mjs` (refresh `_STATUS.md`) lalu "cek gambar" mengikuti `..\CLAUDE.md` §Reviewing images → tulis verdict ke `image-results/_review.json`.
+4. Prasyarat: `npm install`; `npm run dev` (audit Playwright butuh dev server `http://localhost:5173`). Generate gambar: `node image-prompts/_src/gemini-gen.mjs --vertex <ids…>` (akun/project Vertex di atas).
+5. Jangan ubah `recordings-final/` (201 video final sudah tervalidasi). Jangan commit tanpa diminta.
+
+**Prompt siap tempel ke Claude (bridging gambar, model ber-vision):**
+```
+Saya lanjutkan OSN-SD app di C:\Products\osn-sd\osn-app. Baca PROGRESS.md (seksi PIVOT) + ..\CLAUDE.md.
+Tugas: (1) review 4 gambar pilot paru-paru di C:\Users\nurun\AppData\Local\Temp\opencode\shots\PARU-*.png (FLASH vs PRO), tulis verdict ke image-results/_review.json; (2) setelah billing Vertex dikonfirmasi, generate bab ipa-02 dengan routing HYBRID — PRO (gemini-3-pro-image) untuk anatomi/penampang, FLASH (gemini-2.5-flash-image) sisanya — via `node image-prompts/_src/gemini-gen.mjs --vertex --model <model> <ids...>`; (3) review hasil & refresh _STATUS.md via node image-prompts/_src/gen.mjs.
+```
+
+### Next steps (prioritas)
+1. **USER** konfirmasi billing Vertex untuk project `project-a087bc92-937b-4ba3-859`.
+2. **CLAUDE (ber-vision)** review 4 gambar pilot `paru-paru` (FLASH vs PRO) → verdict di `image-results/_review.json`; refresh `_STATUS.md` lewat `node image-prompts/_src/gen.mjs`.
+3. Setelah billing OK: generate **bab `ipa-02` (55 objek)** routing HYBRID (PRO anatomi/penampang, FLASH sisanya) `--hemat` → review → integrasi app; baru perbesar ke seluruh IPA.
+4. (Opsional) Review visual 19 diagram MTK di browser (`node scripts/audit-diagrams.mjs <paket-mtk>` + screenshot) oleh manusia/ber-vision.
+5. (Arsip) Audit browser + review visual SVG IPA sisa; rekam video IPA **ditunda** sampai ilustrasi IPA beres.
+
+---
+
+## Status singkat (per Round 12 — arsip)
 
 | Aspek | Status | Catatan |
 |---|---|---|

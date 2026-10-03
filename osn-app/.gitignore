@@ -35,3 +35,7 @@ metadata/
 *.sw?
 
 .vercel
+
+# rahasia lokal (API key)
+.env
+image-results/*

@@ -2,8 +2,22 @@
  * Strategy: cache-first for app shell ("/") and built assets ("/assets/*").
  * Cache name is versioned; bump the version to invalidate old caches.
  */
-const CACHE_NAME = 'osn-sd-v1';
-const PRECACHE_URLS = ['/', '/manifest.webmanifest', '/icon-192.svg', '/icon-512.svg'];
+const CACHE_NAME = 'osn-sd-v2';
+const PRECACHE_URLS = [
+  '/',
+  '/manifest.webmanifest',
+  '/icon-192.svg',
+  '/icon-512.svg',
+  '/interaktif/',
+  '/interaktif/play.html',
+  '/interaktif/assets/base.css',
+  '/interaktif/assets/lib.js',
+  '/interaktif/assets/stage.js',
+  '/interaktif/assets/quiz.js',
+  '/interaktif/assets/player.js',
+  '/interaktif/assets/hub.js',
+  '/interaktif/data/hub.json',
+];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -31,6 +45,10 @@ function isCacheable(request) {
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return false;
   if (url.pathname.startsWith('/assets/')) return true;
+  // interactive layer: standalone pages, their engine/scenes/topic scripts and
+  // the question packages they read (never the recordings, those are videos).
+  if (url.pathname.startsWith('/interaktif/')) return true;
+  if (/^\/data\/.+\.json$/.test(url.pathname)) return true;
   if (url.pathname === '/' || url.pathname === '/index.html') return true;
   if (url.pathname === '/manifest.webmanifest') return true;
   if (url.pathname === '/icon-192.svg' || url.pathname === '/icon-512.svg') return true;

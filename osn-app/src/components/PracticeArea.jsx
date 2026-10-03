@@ -13,6 +13,8 @@ import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { SCENE_REGISTRY } from '../features/astronomy/registry';
+import { matchDiagram } from '../features/diagrams/matchDiagram';
+import { QuestionFigure, ExplanationFigure } from '../features/diagrams/QuestionFigure';
 import { fireMilestone } from '../utils/milestones';
 import { useT } from '../i18n';
 import { startRecording, startRecordingFromStream } from '../utils/recorder';
@@ -99,6 +101,13 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   const [recHudExpanded, setRecHudExpanded] = useState(false);
 
   const currentQuestion = questions[currentIndex];
+
+  // Illustration for this question, or null when nothing matches confidently. Computed once and
+  // shared by both phases: the question shows it still, the explanation animates the same figure.
+  const questionFigure = useMemo(
+    () => matchDiagram(currentQuestion, questionsData?.subject),
+    [currentQuestion, questionsData?.subject],
+  );
 
   // True when driven by scripts/record-videos.mjs (Playwright sets navigator.webdriver).
   // Playwright records the page itself, so skip getDisplayMedia entirely — no screen-share
@@ -694,7 +703,12 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
-              <div className={`grid ${Object.values(currentQuestion.options).some((o) => o && o.length > 15) ? 'grid-cols-1' : 'grid-cols-2'} ${isSplitActive ? 'gap-1.5' : 'gap-8'}`}>
+              {isSplitActive && <QuestionFigure diagram={questionFigure} isSplitActive />}
+              {/* The question card is vertically centred, so any added height clips off BOTH the top
+                  and the bottom of the 1080px frame. In the wide (non-split) layout the option stack
+                  is far taller than any figure, so the figure rides beside it and costs no height. */}
+              <div className={`flex gap-8 items-start ${isSplitActive ? 'flex-col' : 'flex-col lg:flex-row-reverse'}`}>
+              <div className={`grid flex-1 min-w-0 ${Object.values(currentQuestion.options).some((o) => o && o.length > 15) ? 'grid-cols-1' : 'grid-cols-2'} ${isSplitActive ? 'gap-1.5' : 'gap-8'}`}>
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
                   if (!value) return null;
                   let optionBg = 'bg-white/50 border-gray-200 hover:bg-white hover:border-gray-300';
@@ -722,6 +736,11 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                     </button>
                   );
                 })}
+              </div>
+              {/* NOTE: must be isSplitActive={isSplitActive}, not the bare `isSplitActive` shorthand — inside a
+                  JSX attribute a bare identifier means `={true}`, which silently sizes every
+                  question figure for the narrow split layout. */}
+              {!isSplitActive && <QuestionFigure diagram={questionFigure} isSplitActive={isSplitActive} />}
               </div>
               <div className={`flex items-center justify-between border-t border-gray-100 ${isSplitActive ? 'pt-2' : 'pt-7'}`}>
                 <div className={`flex items-center ${isSplitActive ? 'gap-1' : 'gap-2'}`}>
@@ -753,6 +772,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   <p className="text-[18px] text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
                 </div>
               </div>
+              <ExplanationFigure diagram={questionFigure} isSplitActive />
               {currentQuestion.concept && (
                 <div className="bg-slate-800/80 rounded-2xl p-4 border border-slate-700/50 shadow-md">
                   <span className="text-[18px] font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
@@ -1002,6 +1022,8 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 </h2>
               </div>
 
+              <QuestionFigure diagram={questionFigure} />
+
               <div className="grid grid-cols-1 gap-3">
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
                   if (!value) return null;
@@ -1053,14 +1075,14 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
 
             {isSplitActive && (
               <div ref={explanationScrollRef} className="lg:col-span-5 glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-slide-in space-y-6 max-h-[540px] overflow-y-auto pr-3 font-sans">
-                <PembahasanContent q={currentQuestion} />
+                <PembahasanContent q={currentQuestion} subject={questionsData?.subject} />
               </div>
             )}
           </div>
 
           {showPembahasan && !layoutSplit && (
             <div className="glass-card rounded-3xl p-8 border-l-4 border-brand-primary animate-fade-in space-y-6 font-sans">
-              <PembahasanContent q={currentQuestion} />
+              <PembahasanContent q={currentQuestion} subject={questionsData?.subject} />
             </div>
           )}
 
@@ -1090,7 +1112,7 @@ function ToggleTile({ label, value, onToggle, color }) {
   );
 }
 
-function PembahasanContent({ q }) {
+function PembahasanContent({ q, subject }) {
   const t = useT();
   return (
     <>
@@ -1101,6 +1123,8 @@ function PembahasanContent({ q }) {
           <p className="text-xs text-gray-400">Analisis konsep & opsi salah untuk mencegah miskonsepsi</p>
         </div>
       </div>
+
+      <ExplanationFigure diagram={matchDiagram(q, subject)} />
 
       {q.concept && (
         <div className="bg-red-50/50 rounded-2xl p-4 border border-red-100">

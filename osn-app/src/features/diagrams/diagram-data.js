@@ -1,0 +1,354 @@
+// Content only — no component imports, so matchDiagram.js can be unit-tested under plain Node.
+// registry.js maps each id to its React component.
+
+export const DIAGRAM_DATA = [
+  {
+    id: 'tuas',
+    title: 'Tuas',
+    caption: 'Gaya di lengan panjang, beban di lengan pendek.',
+    keywords: ['tuas', 'lengan manusia', 'tumpuan', 'momen gaya', 'lever', 'ungkit'],
+  },
+  {
+    id: 'katrol',
+    title: 'Katrol',
+    caption: 'Katrol bergerak: gaya angkat jadi setengah berat.',
+    keywords: ['katrol', 'pulley', 'tali', 'katrol bergerak', 'katrol tetap'],
+  },
+  {
+    id: 'bidang-miring',
+    title: 'Bidang Miring',
+    caption: 'Semakin landai, gaya dorong makin kecil.',
+    keywords: ['bidang miring', 'permukaan miring', 'landai', 'menanjak'],
+  },
+  {
+    id: 'roda-poros',
+    title: 'Roda Berporos',
+    caption: 'Roda besar membuat gaya lebih kecil.',
+    keywords: ['roda berporos', 'berporos', 'roda dan poros', 'roda gigi', 'gir'],
+  },
+  {
+    id: 'gaya-resultan',
+    title: 'Gaya Resultan',
+    caption: 'Resultan = jumlah gaya searah.',
+    keywords: ['gaya resultan', 'resultan', 'jumlah gaya', 'resultan gaya', 'gaya berlawanan'],
+  },
+  {
+    id: 'rangkaian-seri',
+    title: 'Rangkaian Seri',
+    caption: 'Satu jalur: tambah lampu, semuanya redup.',
+    keywords: ['rangkaian seri', 'seri', 'satu jalur', 'arus sama', 'dirangkai seri'],
+  },
+  {
+    id: 'rangkaian-paralel',
+    title: 'Rangkaian Paralel',
+    caption: 'Jalur bercabang: satu lampu mati, yang lain menyala.',
+    keywords: ['rangkaian paralel', 'paralel', 'arus bercabang', 'rangkaian bercabang', 'cabang tersendiri', 'saling bebas'],
+  },
+  {
+    id: 'konduktor-isolator',
+    title: 'Konduktor dan Isolator',
+    caption: 'Logam punya ion bebas; plastik dan kayu tidak.',
+    keywords: ['konduktor', 'isolator', 'penghantar listrik', 'mengalirkan listrik', 'listrik statis', 'penyerap listrik'],
+  },
+  {
+    id: 'magnet',
+    title: 'Medan Magnet',
+    caption: 'Gaya magnet mengalir dari kutub N ke kutub S.',
+    keywords: ['magnet', 'magnetik', 'kutub', 'medan magnet', 'gaya magnet'],
+  },
+  {
+    id: 'rantai-makanan',
+    title: 'Rantai Makanan',
+    caption: 'Energi mengalir dari organisme yang dimakan.',
+    keywords: ['rantai makanan', 'jaring makanan', 'rantai makan', 'trofik', 'produsen', 'konsumen', 'dekomposer'],
+  },
+  {
+    id: 'siklus-air',
+    title: 'Siklus Air',
+    caption: 'Menguap, mengembun, hujan, kembali ke laut.',
+    keywords: ['siklus air', 'evaporasi', 'kondensasi', 'presipitasi', 'pengembunan', 'hujan'],
+  },
+  {
+    id: 'metamorfosis',
+    title: 'Metamorfosis',
+    caption: 'Telur → larva → pupa → imago.',
+    keywords: ['metamorfosis', 'metamorfosis sempurna', 'metamorfosis tidak sempurna', 'pupa', 'larva', 'imago', 'berudu', 'ulat', 'nimfa', 'daur hidup', 'kupu-kupu'],
+  },
+  {
+    id: 'ekosistem',
+    title: 'Ekosistem',
+    caption: 'Biotik berinteraksi dengan abiotik dalam satu habitat.',
+    keywords: ['ekosistem', 'biotik', 'abiotik', 'populasi', 'komunitas'],
+  },
+
+  // ---------------------------------------------------------------- tubuh manusia (ipa-02)
+  {
+    id: 'saluran-pencernaan',
+    title: 'Saluran Pencernaan',
+    caption: 'Mulut, kerongkongan, perut, usus halus, lalu usus besar.',
+    keywords: ['saluran pencernaan', 'organnya pencernaan', 'pencernaan', 'kerongkongan', 'dinding lambung', 'usus halus', 'usus besar', 'enzim ludah', 'amilase'],
+  },
+  {
+    id: 'penyerapan-nutrisi',
+    title: 'Penyerapan Nutrisi',
+    caption: 'Usus halus menyerap nutrient ke pembuluh darah.',
+    keywords: ['penyerapan nutrisi', 'penyerapan zat makanan', 'nutrisi diserap', 'diserap usus', 'vili', 'jonjot usus', 'usus menyerap'],
+  },
+  {
+    id: 'organ-ekskresi',
+    title: 'Organ Ekskresi',
+    caption: 'Ginjal, paru-paru, kulit, dan hati membuang zat sisa.',
+    keywords: ['ekskresi', 'ekskresi organ', 'organ ekskresi', 'zat sisa metabolisme', 'urin', 'keringat', 'buang zat sisa', 'membuang zat sisa'],
+  },
+  {
+    id: 'pernapasan-paru',
+    title: 'Pernapasan',
+    caption: 'Pertukaran oksigen dan karbon dioksida di alveolus.',
+    keywords: ['paru-paru', 'paru paru', 'alveolus', 'bronkus', 'bronkiolus', 'diafragma', 'pertukaran oksigen', 'pernapasan manusia', 'organ pernapasan', 'sistem pernapasan'],
+  },
+  {
+    id: 'peredaran-darah',
+    title: 'Peredaran Darah',
+    caption: 'Jantung 4 ruang: bilik kanan dan kiri.',
+    keywords: ['peredaran darah', 'bilik', 'serambi', 'arteri', 'vena', 'pembuluh darah', 'memompa', 'hemoglobin'],
+  },
+
+  // ---------------------------------------------------------------- cahaya, bunyi, panas (ipa-04)
+  {
+    id: 'perambatan-cahaya',
+    title: 'Perambatan Cahaya',
+    caption: 'Cahaya merambat lurus dan membentuk bayangan.',
+    keywords: ['merambat lurus', 'perambatan cahaya', 'cahaya merambat', 'bayangan benda', 'bayangan terbentuk', 'benda penghalang'],
+  },
+  {
+    id: 'pemantulan-cahaya',
+    title: 'Pemantulan Cahaya',
+    caption: 'Sudut datang sama dengan sudut pantul.',
+    keywords: ['pemantulan cahaya', 'dipantulkan', 'sudut datang', 'sudut pantul', 'cermin datar', 'memantulkan cahaya'],
+  },
+  {
+    id: 'pembiasan-cahaya',
+    title: 'Pembiasan Cahaya',
+    caption: 'Cahaya terurai saat melewati medium berbeda.',
+    keywords: ['pembiasan', 'dispersi', 'pelangi', 'prisma kaca', 'spektrum warna', 'warna dasar', 'menyebar cahaya', 'lensa'],
+  },
+  {
+    id: 'perpindahan-panas',
+    title: 'Perpindahan Panas',
+    caption: 'Konduksi, konveksi, dan radiasi.',
+    keywords: ['perpindahan panas', 'konduksi', 'konveksi', 'radiasi', 'penghantar panas', 'mengalirkan panas', 'panas merambat'],
+  },
+  {
+    id: 'pemantulan-bunyi',
+    title: 'Pemantulan Bunyi',
+    caption: 'Bunyi memantul dan terdengar sebagai gaung.',
+    keywords: ['pemantulan bunyi', 'gaung', 'bunyi memantul', 'gema', 'bunyi pantul', 'jarak pemantul'],
+  },
+  {
+    id: 'pemisahan-campuran',
+    title: 'Pemisahan Campuran',
+    caption: 'Destilasi menguapkan air, garam tertinggal.',
+    keywords: ['pemisahan campuran', 'destilasi', 'penyaringan', 'filtrasi', 'campuran homogen', 'campuran heterogen', 'menguapkan air'],
+  },
+
+  // ---------------------------------------------------------------- bumi & tata surya (ipa-05)
+  {
+    id: 'tata-surya',
+    title: 'Tata Surya',
+    caption: 'Delapan planet mengelilingi Matahari.',
+    keywords: ['tata surya', 'planet', 'merkurius', 'venus', 'jupiter', 'saturnus', 'uranus', 'neptunus', 'sistem tata surya', 'bumi mengelilingi'],
+  },
+  {
+    id: 'rotasi-revolusi',
+    title: 'Rotasi dan Revolusi',
+    caption: 'Rotasi berputar pada poros, revolusi mengelilingi.',
+    keywords: ['rotasi', 'revolusi', 'rotasi bumi', 'revolusi bumi', 'berotasi', 'mengelilingi matahari', 'sumbu bumi', 'periode revolusi'],
+  },
+  {
+    id: 'gerhana',
+    title: 'Gerhana',
+    caption: 'Terjadi ketika Matahari, Bumi, dan Bulan segaris.',
+    keywords: ['gerhana', 'gerhana matahari', 'gerhana bulan', 'bulan menyerobong', 'menghalangi cahaya'],
+  },
+  {
+    id: 'fase-bulan',
+    title: 'Fase Bulan',
+    caption: 'Bulan baru sampai bulan penuh, tiap 29,5 hari.',
+    keywords: ['fase bulan', 'bulan baru', 'bulan penuh', 'sabit bulan', 'peredaran bulan', 'fase-fase bulan'],
+  },
+  {
+    id: 'lapisan-atmosfer',
+    title: 'Lapisan Atmosfer',
+    caption: 'Troposfer, stratosfer, mesosfer, termosfer, eksosfer.',
+    keywords: ['lapisan atmosfer', 'atmosfer', 'troposfer', 'stratosfer', 'mesosfer', 'termosfer', 'eksosfer', 'ozon', 'tekanan udara'],
+  },
+  {
+    id: 'siklus-batu',
+    title: 'Siklus Batu',
+    caption: 'Magma mendingin jadi batuan beku, lalu sedimen dan metamorf.',
+    keywords: ['siklus batuan', 'batuan beku', 'batuan sedimen', 'batuan metamorf', 'batuan beku jenis', 'magma', 'lelehan', 'sedimen'],
+  },
+
+  // ---------------------------------------------------------------- sains (ipa-06)
+  {
+    id: 'keanekaragaman-hayati',
+    title: 'Keanekaragaman Hayati',
+    caption: 'Tingkat gen, jenis, dan ekosistem.',
+    keywords: ['keanekaragaman hayati', 'keanekaragaman', 'biodiversitas', 'tingkat gen', 'tingkat jenis', 'tingkat ekosistem', 'keragaman jenis'],
+  },
+  {
+    id: 'variabel-penelitian',
+    title: 'Variabel Penelitian',
+    caption: 'Bebas, terikat, dan terkendali.',
+    keywords: ['variabel bebas', 'variabel terikat', 'variabel terkendali', 'variabel', 'fair test', 'percobaan adil'],
+  },
+  {
+    id: 'alat-pengukuran',
+    title: 'Alat Pengukuran',
+    caption: 'Panjang, massa, waktu, dan suhu punya satuan berbeda.',
+    keywords: ['alat ukur', 'alat pengukuran', 'mengukur panjang', 'mengukur massa', 'mengukur waktu', 'mengukur suhu', 'mikroskop', 'stopwatch', 'termometer', 'timbangan', 'neraca'],
+  },
+  {
+    id: 'metode-ilmiah',
+    title: 'Metode Ilmiah',
+    caption: 'Observasi, hipotesis, percobaan, kesimpulan.',
+    keywords: ['metode ilmiah', 'hipotesis', 'langkah penelitian', 'sikap ilmiah', 'data pengamatan', 'jawaban sementara'],
+  },
+
+  // ---------------------------------------------------------------- MTK (subject: 'mtk')
+  // Every entry above is IPA by default; these set subject explicitly so the matcher never borrows
+  // across subjects (an MTK question can no longer pull up a science figure, and vice versa).
+  {
+    id: 'pohon-faktor',
+    subject: 'mtk',
+    title: 'Pohon Faktor',
+    caption: 'Faktorisasi prima dipakai untuk mencari FPB dan KPK.',
+    keywords: ['pohon faktor', 'faktorisasi prima', 'faktor prima', 'faktorkan', 'fpb', 'kpk', 'faktor persekutuan', 'kelipatan persekutuan', 'kelipatan bersama', 'faktor bersama'],
+  },
+  {
+    id: 'garis-bilangan',
+    subject: 'mtk',
+    title: 'Garis Bilangan',
+    caption: 'Semakin ke kanan, nilai bilangan makin besar.',
+    keywords: ['garis bilangan', 'letak bilangan', 'urutan bilangan bulat', 'membandingkan bilangan bulat', 'suhu di bawah nol', 'nilai terendah suhu'],
+  },
+  {
+    id: 'pola-bilangan',
+    subject: 'mtk',
+    title: 'Pola Bilangan',
+    caption: 'Selisih tetap membentuk barisan aritmetika.',
+    keywords: ['pola bilangan', 'pola aritmetika', 'beda tetap', 'barisan geometri', 'pola geometri', 'suku berikutnya', 'suku ke', 'barisan bilangan', 'bilangan berikutnya', 'pola barisan'],
+  },
+  {
+    id: 'bangun-datar',
+    subject: 'mtk',
+    title: 'Bangun Datar',
+    caption: 'Luas dan keliling persegi, persegi panjang, segitiga, jajar genjang.',
+    keywords: ['bangun datar', 'persegi panjang', 'jajar genjang', 'luas persegi', 'keliling persegi', 'luas segitiga', 'keliling segitiga', 'trapesium', 'belah ketupat', 'layang-layang', 'luas bangun datar', 'sisi sejajar'],
+  },
+  {
+    id: 'lingkaran-unsur',
+    subject: 'mtk',
+    title: 'Unsur Lingkaran',
+    caption: 'Jari-jari, diameter, keliling, dan luas lingkaran.',
+    keywords: ['unsur lingkaran', 'jari-jari', 'jari jari', 'diameter', 'keliling lingkaran', 'luas lingkaran', 'tali busur', 'juring', 'tembereng', 'apotema', '22 7', '3 14'],
+  },
+  {
+    id: 'sudut',
+    subject: 'mtk',
+    title: 'Jenis Sudut',
+    caption: 'Lancip < 90°, siku-siku = 90°, tumpul > 90°, lurus = 180°.',
+    keywords: ['jenis sudut', 'klasifikasi sudut', 'sudut lancip', 'sudut siku-siku', 'sudut tumpul', 'sudut lurus', 'sudut refleks', 'mengukur sudut', 'busur derajat'],
+  },
+  {
+    id: 'bangun-ruang',
+    subject: 'mtk',
+    title: 'Bangun Ruang',
+    caption: 'Volume kubus, balok, tabung, kerucut, bola, limas.',
+    keywords: ['bangun ruang', 'volume kubus', 'volume balok', 'volume tabung', 'volume kerucut', 'volume bola', 'volume limas', 'volume prisma', 'luas permukaan', 'sisi tegak', 'bangun ruang sisi', 'tabung', 'kerucut', 'prisma'],
+  },
+  {
+    id: 'jaring-jaring',
+    subject: 'mtk',
+    title: 'Jaring-jaring',
+    caption: 'Bangun datar yang dilipat membentuk bangun ruang.',
+    keywords: ['jaring jaring', 'jarring', 'jaring kubus', 'jaring balok', 'jaring tabung', 'rangkaian persegi', 'rangkaian bangun datar'],
+  },
+  {
+    id: 'bangun-ruang-gabungan',
+    subject: 'mtk',
+    title: 'Bangun Ruang Gabungan',
+    caption: 'Volume gabungan = jumlah volume tiap bangun penyusun.',
+    keywords: ['bangun ruang gabungan', 'volume gabungan', 'volume bangun gabungan', 'bangun ruang tersusun', 'gabungan dua bangun ruang', 'gabungan bangun ruang'],
+  },
+  {
+    id: 'tangga-satuan',
+    subject: 'mtk',
+    title: 'Tangga Satuan',
+    caption: 'Turun satu tangga ×10, naik satu tangga ÷10.',
+    keywords: ['tangga satuan', 'satuan panjang', 'satuan berat', 'satuan volume', 'satuan luas', 'konversi satuan panjang', 'konversi satuan volume', 'ubah satuan', 'naik satu tangga', 'turun satu tangga', 'satuan waktu', 'kilogram', 'mililiter'],
+  },
+  {
+    id: 'kecepatan-jarak-waktu',
+    subject: 'mtk',
+    title: 'Kecepatan, Jarak, Waktu',
+    caption: 'V = s ÷ t, s = V × t, t = s ÷ V.',
+    keywords: ['kecepatan rata-rata', 'waktu tempuh', 'jarak tempuh', 'berpapasan', 'menyusul', 'km jam', 'm detik', 'per jam', 'per detik'],
+  },
+  {
+    id: 'debit',
+    subject: 'mtk',
+    title: 'Debit',
+    caption: 'Debit = volume ÷ waktu.',
+    keywords: ['debit air', 'debit', 'debitnya', 'besar debit', 'aliran air', 'mengisi bak', 'menguras', 'liter menit', 'liter detik', 'kran air', 'keran air', 'volume per waktu', 'debit adalah'],
+  },
+  {
+    id: 'skala-peta',
+    subject: 'mtk',
+    title: 'Skala Peta',
+    caption: 'Jarak sebenarnya = jarak pada peta × skala.',
+    keywords: ['skala peta', 'skala', 'jarak sebenarnya', 'jarak pada peta', 'jarak peta', 'jarak sesungguhnya', 'denah', 'ukuran sebenarnya', 'perbandingan skala'],
+  },
+  {
+    id: 'diagram-batang',
+    subject: 'mtk',
+    title: 'Diagram Batang',
+    caption: 'Tinggi batang menunjukkan frekuensi data.',
+    keywords: ['diagram batang', 'diagram batang daun', 'batang daun', 'grafik batang', 'tabel frekuensi'],
+  },
+  {
+    id: 'diagram-lingkaran',
+    subject: 'mtk',
+    title: 'Diagram Lingkaran',
+    caption: 'Besar sudut sebanding dengan persen data.',
+    keywords: ['diagram lingkaran', 'diagram pie', 'persentase data', 'sudut pusat', 'bagian lingkaran', 'dalam diagram'],
+  },
+  {
+    id: 'mean-median-modus',
+    subject: 'mtk',
+    title: 'Mean, Median, Modus',
+    caption: 'Rata-rata, nilai tengah, dan nilai yang paling sering.',
+    keywords: ['rata-rata', 'median', 'modus', 'nilai tengah', 'nilai yang paling sering', 'paling sering muncul', 'frekuensi tertinggi', 'data tunggal', 'jangkauan', 'selisih data', 'statistika'],
+  },
+  {
+    id: 'peluang-dadu',
+    subject: 'mtk',
+    title: 'Peluang',
+    caption: 'P(A) = banyak kejadian A ÷ ruang sampel.',
+    keywords: ['peluang', 'ruang sampel', 'mata dadu', 'dadu', 'peluang muncul', 'peluang kejadian', 'frekuensi harapan', 'uang logam', 'koin', 'peluang teoritik'],
+  },
+  {
+    id: 'diskon-ppn',
+    subject: 'mtk',
+    title: 'Diskon & PPN',
+    caption: 'Harga bayar setelah diskon dan pajak.',
+    keywords: ['diskon', 'ppn', 'pajak', 'harga jual', 'harga beli', 'potongan harga', 'persentase untung', 'persentase rugi', 'harga bayar', 'rabat', 'bruto', 'netto', 'tara', 'bunga'],
+  },
+  {
+    id: 'timbangan-aljabar',
+    subject: 'mtk',
+    title: 'Persamaan Aljabar',
+    caption: 'Kedua ruas seimbang: cari nilai x.',
+    keywords: ['persamaan', 'nilai x', 'persamaan linear', 'sistem persamaan', 'menyelesaikan persamaan', 'pertidaksamaan', 'ruas kiri', 'ruas kanan', 'aljabar'],
+  },
+];

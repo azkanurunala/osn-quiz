@@ -9,7 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "record:videos": "node scripts/record-videos.mjs",
-    "mux:audio": "node scripts/mux-audio.mjs"
+    "mux:audio": "node scripts/mux-audio.mjs",
+    "build:interactive": "node scripts/build-interactive.mjs",
+    "check:interactive": "node scripts/build-interactive.mjs --check",
+    "audit:interactive": "node scripts/audit-interactive.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.8",

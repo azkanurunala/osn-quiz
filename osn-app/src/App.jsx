@@ -1,6 +1,7 @@
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders, Orbit } from 'lucide-react';
+import { Compass, BarChart3, Clock, Trophy, Star, Flame, Sliders, Orbit, MousePointerClick } from 'lucide-react';
 import Dashboard from './components/Dashboard';
+import InteractiveHub from './components/InteractiveHub';
 import PracticeArea from './components/PracticeArea';
 import TryoutArea from './components/TryoutArea';
 import Analytics from './components/Analytics';
@@ -238,6 +239,14 @@ export default function App() {
               >
                 <Orbit className="w-4 h-4" /> {t('jelajah_3d_nav', 'Jelajah 3D')}
               </button>
+              <button
+                onClick={() => { setCurrentTab('interaktif'); setSelectedSubBab(null); tickEngagement(); }}
+                className={`px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1.5 ${
+                  currentTab === 'interaktif' ? 'bg-white text-brand-primary shadow-sm' : 'text-gray-500 hover:text-gray-800'
+                }`}
+              >
+                <MousePointerClick className="w-4 h-4" /> {t('materi_interaktif', 'Materi Interaktif')}
+              </button>
             </nav>
 
             <div className="flex items-center gap-3">
@@ -337,6 +346,8 @@ export default function App() {
         )}
 
         {currentTab === 'astronomy' && <AstronomyViewer />}
+
+        {currentTab === 'interaktif' && <InteractiveHub />}
       </main>
 
       {/* Mobile bottom nav */}
@@ -347,6 +358,7 @@ export default function App() {
             { id: 'tryout', icon: Clock, label: t('tryout_mandiri', 'Tryout').split(' ')[0] },
             { id: 'analytics', icon: BarChart3, label: t('analitik_belajar', 'Analitik').split(' ')[0] },
             { id: 'astronomy', icon: Orbit, label: t('jelajah_3d_nav', 'Jelajah 3D').split(' ')[0] },
+            { id: 'interaktif', icon: MousePointerClick, label: t('materi_interaktif', 'Interaktif').split(' ')[0] },
           ].map(({ id, icon: Icon, label }) => {
             const active = currentTab === id;
             return (
@@ -355,7 +367,7 @@ export default function App() {
                 onClick={() => {
                   setCurrentTab(id);
                   setSelectedSubBab(null);
-                  if (id === 'tryout') tickEngagement();
+                  if (id === 'tryout' || id === 'interaktif') tickEngagement();
                 }}
                 className={`flex flex-col items-center justify-center gap-0.5 flex-1 py-1.5 rounded-xl transition ${
                   active ? 'text-brand-primary' : 'text-gray-400'
