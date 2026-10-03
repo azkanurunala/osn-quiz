@@ -15,7 +15,7 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
 );
 
 // ------------------------------------------------------------------ saluran pencernaan
-export function SaluranPencerna({ motion }) {
+export function SaluranPencernaan({ motion }) {
   const organs = [
     { t: 'Mulut', c: PINK, note: 'dikunyah', i: 0 },
     { t: 'Kerongkongan', c: AMBER, note: 'menelan', i: 1 },
@@ -153,14 +153,14 @@ export function PernapasanParu({ motion }) {
         <polygon points="352,24 345,36 359,36" fill={RED} />
       </g>
       {label(356, 16, 'karbon dioksida keluar', RED, 11)}
-      {label(250, 272, 'pertukaran gas terjadi di alveolus di dalam paru-paru', MUTE, 10)}
-      {label(250, 290, 'jalur napas: hidung - tenggorokan - paru-paru', MUTE, 9)}
+      {motion ? label(250, 272, 'pertukaran gas terjadi di alveolus di dalam paru-paru', MUTE, 10) : null}
+      {motion ? label(250, 290, 'jalur napas: hidung - tenggorokan - paru-paru', MUTE, 9) : null}
     </>
   );
 }
 
 // ------------------------------------------------------------------ peredaran darah
-export function PeredarahDarah({ motion }) {
+export function PeredaranDarah({ motion }) {
   return (
     <>
       <circle cx="196" cy="128" r="64" fill="#0f172a" stroke={INK} strokeWidth="3" />

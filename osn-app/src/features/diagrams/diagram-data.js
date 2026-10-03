@@ -47,7 +47,7 @@ export const DIAGRAM_DATA = [
   {
     id: 'konduktor-isolator',
     title: 'Konduktor dan Isolator',
-    caption: 'Logam punya ion bebas; plastik dan kayu tidak.',
+    caption: 'Logam punya elektron bebas; plastik dan kayu tidak.',
     keywords: ['konduktor', 'isolator', 'penghantar listrik', 'mengalirkan listrik', 'listrik statis', 'penyerap listrik'],
   },
   {
@@ -85,14 +85,14 @@ export const DIAGRAM_DATA = [
   {
     id: 'saluran-pencernaan',
     title: 'Saluran Pencernaan',
-    caption: 'Mulut, kerongkongan, perut, usus halus, lalu usus besar.',
+    caption: 'Mulut, kerongkongan, lambung, usus halus, lalu usus besar.',
     keywords: ['saluran pencernaan', 'organnya pencernaan', 'pencernaan', 'kerongkongan', 'dinding lambung', 'usus halus', 'usus besar', 'enzim ludah', 'amilase'],
   },
   {
     id: 'penyerapan-nutrisi',
     title: 'Penyerapan Nutrisi',
-    caption: 'Usus halus menyerap nutrient ke pembuluh darah.',
-    keywords: ['penyerapan nutrisi', 'penyerapan zat makanan', 'nutrisi diserap', 'diserap usus', 'vili', 'jonjot usus', 'usus menyerap'],
+    caption: 'Usus halus menyerap sari makanan ke pembuluh darah.',
+    keywords: ['penyerapan nutrisi', 'penyerapan zat makanan', 'nutrisi diserap', 'diserap usus', 'vili', 'jonjot usus', 'usus menyerap', 'pembuluh getah bening'],
   },
   {
     id: 'organ-ekskresi',
@@ -104,7 +104,7 @@ export const DIAGRAM_DATA = [
     id: 'pernapasan-paru',
     title: 'Pernapasan',
     caption: 'Pertukaran oksigen dan karbon dioksida di alveolus.',
-    keywords: ['paru-paru', 'paru paru', 'alveolus', 'bronkus', 'bronkiolus', 'diafragma', 'pertukaran oksigen', 'pernapasan manusia', 'organ pernapasan', 'sistem pernapasan'],
+    keywords: ['paru-paru', 'paru paru', 'alveolus', 'bronkus', 'bronkiolus', 'otot diafragma', 'diafragma berkontraksi', 'pernapasan diafragma', 'pertukaran oksigen', 'pernapasan manusia', 'organ pernapasan', 'sistem pernapasan'],
   },
   {
     id: 'peredaran-darah',
@@ -129,7 +129,7 @@ export const DIAGRAM_DATA = [
   {
     id: 'pembiasan-cahaya',
     title: 'Pembiasan Cahaya',
-    caption: 'Cahaya terurai saat melewati medium berbeda.',
+    caption: 'Cahaya dibelokkan dan diuraikan saat melewati medium berbeda.',
     keywords: ['pembiasan', 'dispersi', 'pelangi', 'prisma kaca', 'spektrum warna', 'warna dasar', 'menyebar cahaya', 'lensa'],
   },
   {
@@ -141,14 +141,14 @@ export const DIAGRAM_DATA = [
   {
     id: 'pemantulan-bunyi',
     title: 'Pemantulan Bunyi',
-    caption: 'Bunyi memantul dan terdengar sebagai gaung.',
+    caption: 'Bunyi pantul: gema terdengar jelas, gaung terdengar samar.',
     keywords: ['pemantulan bunyi', 'gaung', 'bunyi memantul', 'gema', 'bunyi pantul', 'jarak pemantul'],
   },
   {
     id: 'pemisahan-campuran',
     title: 'Pemisahan Campuran',
     caption: 'Destilasi menguapkan air, garam tertinggal.',
-    keywords: ['pemisahan campuran', 'destilasi', 'penyaringan', 'filtrasi', 'campuran homogen', 'campuran heterogen', 'menguapkan air'],
+    keywords: ['destilasi', 'distilasi', 'penyulingan', 'distilasi sederhana', 'menguapkan air', 'penguapan air', 'diuapkan', 'menguapkan', 'memurnikan air'],
   },
 
   // ---------------------------------------------------------------- bumi & tata surya (ipa-05)
@@ -173,7 +173,7 @@ export const DIAGRAM_DATA = [
   {
     id: 'fase-bulan',
     title: 'Fase Bulan',
-    caption: 'Bulan baru sampai bulan penuh, tiap 29,5 hari.',
+    caption: 'Bulan Baru ke Bulan Baru ± 29,5 hari.',
     keywords: ['fase bulan', 'bulan baru', 'bulan penuh', 'sabit bulan', 'peredaran bulan', 'fase-fase bulan'],
   },
   {
@@ -238,6 +238,13 @@ export const DIAGRAM_DATA = [
     title: 'Pola Bilangan',
     caption: 'Selisih tetap membentuk barisan aritmetika.',
     keywords: ['pola bilangan', 'pola aritmetika', 'beda tetap', 'barisan geometri', 'pola geometri', 'suku berikutnya', 'suku ke', 'barisan bilangan', 'bilangan berikutnya', 'pola barisan'],
+  },
+  {
+    id: 'pecahan',
+    subject: 'mtk',
+    title: 'Pecahan, Desimal & Persen',
+    caption: '3/4 = 6/8 = 0,75 = 75%; operasi pecahan disamakan penyebutnya.',
+    keywords: ['pecahan senilai', 'menyederhanakan pecahan', 'membandingkan pecahan', 'mengurutkan pecahan', 'pembilang', 'penyebut', 'pecahan biasa', 'pecahan campuran', 'operasi pecahan', 'operasi desimal', 'pembulatan desimal', 'bentuk desimal', 'bentuk persen', 'persen dari', 'nilai persen', 'samakan penyebut', 'kpk penyebut'],
   },
   {
     id: 'bangun-datar',

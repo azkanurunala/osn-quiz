@@ -1,4 +1,5 @@
 import { anim } from '../anim';
+import { parseTextBars } from '../../../utils/textBars';
 
 const INK = '#e2e8f0';
 const MUTE = '#94a3b8';
@@ -6,6 +7,7 @@ const GREEN = '#4ade80';
 const BLUE = '#60a5fa';
 const AMBER = '#fbbf24';
 const PURPLE = '#c084fc';
+const COLORS = [BLUE, GREEN, AMBER, PURPLE];
 
 const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
   <text x={x} y={y} fill={fill} fontSize={size} fontWeight="800" textAnchor={anchor}
@@ -13,35 +15,108 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
 );
 
 // ------------------------------------------------------------------ diagram batang
-export function DiagramBatang({ motion }) {
-  const bars = [
-    { v: '6', f: 3 }, { v: '7', f: 5 }, { v: '8', f: 8 }, { v: '9', f: 4 }, { v: '10', f: 2 },
-  ];
-  const base = 232;
-  const unit = 16;
+// Smallest "nice" step (1, 2, 5 x 10^k) that keeps the y axis to at most 6 intervals.
+function niceStep(max) {
+  for (let p = 1; ; p *= 10) {
+    for (const m of [1, 2, 5]) if (max / (m * p) <= 6) return m * p;
+  }
+}
+
+const clip = (str, n) => (str.length > n ? `${str.slice(0, n - 1)}…` : str);
+
+// Draws the soal's own numbers as a single-series bar chart, or a grouped ("ganda") chart when the
+// stem carries two series. When the stem has no readable dataset it renders nothing — a made-up
+// ABCDE sketch next to a question about different data teaches the wrong thing.
+export function DiagramBatang({ motion, question }) {
+  const { bars: single, grouped, names, intro: rawIntro, scale } = parseTextBars(question?.question);
+  const intro = rawIntro
+    .replace(/^diagram batang\s*(ganda|tunggal)?\s*(menunjukkan\s*)?/i, '')
+    .replace(/^\((.*)\)$/, '$1')
+    .replace(/^./, (c) => c.toUpperCase());
+
+  const isGrouped = grouped.length >= 2 && names.length >= 2;
+  if (!isGrouped && single.length < 2) return null;
+
+  const left = 78; const right = 504; const top = 54; const base = 226;
+  const cats = isGrouped ? grouped.map((g) => g.label) : single.map((b) => b.label);
+  const values = isGrouped
+    ? grouped.flatMap((g) => names.map((n) => g.pairs[n] ?? 0))
+    : single.map((b) => b.value);
+  const maxV = Math.max(...values);
+  const step = niceStep(maxV || 1);
+  const yMax = Math.max(step, Math.ceil(maxV / step) * step);
+  const y = (v) => base - ((base - top) * v) / yMax;
+  const ticks = Array.from({ length: Math.round(yMax / step) + 1 }, (_, k) => k * step);
+  const slot = (right - left) / cats.length;
+
+  const groupW = Math.min(70, slot * 0.68);
+  const barW = isGrouped ? groupW / names.length : Math.min(64, slot * 0.6);
+  const nameSize = cats.some((c) => c.length > 8) ? 11 : 14;
+  const fmt = (n) => String(n).replace('.', ',');
+
+  const units = single.map((b) => b.unit);
+  const allKotak = !isGrouped && units.length > 0 && units.every((u) => /kotak/i.test(u));
+  const yTitle = allKotak
+    ? 'kotak'
+    : intro.match(/nilai|skor/i)?.[0].toLowerCase() ?? units.find(Boolean) ?? 'jumlah';
+
   return (
     <>
-      <line x1="78" y1="56" x2="78" y2={base} stroke={INK} strokeWidth="3" />
-      <line x1="78" y1={base} x2="468" y2={base} stroke={INK} strokeWidth="3" />
-      {[0, 1, 2, 3, 4, 5, 6, 7, 8].map((k) => (
-        <g key={k}>
-          <line x1="72" y1={base - k * unit} x2="78" y2={base - k * unit} stroke={MUTE} strokeWidth="2" />
-          <line x1="78" y1={base - k * unit} x2="468" y2={base - k * unit} stroke="#1e293b" strokeWidth="1" />
-          {label(64, base - k * unit + 4, String(k), MUTE, 10, 'end')}
+      {label(260, 30, clip(intro, 52), INK, 15)}
+
+      {ticks.map((t) => (
+        <g key={t}>
+          <line x1={left} y1={y(t)} x2={right} y2={y(t)} stroke="#1e293b" strokeWidth="1.5" />
+          {label(left - 10, y(t) + 5, String(t), MUTE, 13, 'end')}
         </g>
       ))}
-      {bars.map((b, i) => {
-        const cx = 110 + i * 70;
-        const hgt = b.f * unit;
-        return (
-          <g key={b.v} {...anim(motion, 'ix-rise', { duration: 2 + i * 0.2 })}>
-            <rect x={cx - 22} y={base - hgt} width="44" height={hgt} rx="4" fill={i === 2 ? AMBER : BLUE} opacity="0.9" />
-            {label(cx, base - hgt - 6, String(b.f), INK, 11)}
-            {label(cx, base + 20, b.v, MUTE, 12)}
+      <line x1={left} y1={top - 10} x2={left} y2={base} stroke={INK} strokeWidth="3" />
+      <line x1={left} y1={base} x2={right} y2={base} stroke={INK} strokeWidth="3" />
+      <text x="20" y={(top + base) / 2} fill={MUTE} fontSize="13" fontWeight="800" textAnchor="middle"
+        transform={`rotate(-90 20 ${(top + base) / 2})`} fontFamily="'IBM Plex Sans',system-ui,sans-serif">{yTitle}</text>
+
+      {isGrouped
+        ? cats.map((cat, i) => {
+          const cx = left + slot * (i + 0.5);
+          return (
+            <g key={`${cat}-${i}`}>
+              {names.map((name, si) => {
+                const v = grouped[i].pairs[name] ?? 0;
+                const x = cx - groupW / 2 + si * barW;
+                return (
+                  <g key={name}>
+                    <rect x={x} y={y(v)} width={Math.max(6, barW - 3)} height={base - y(v)} rx="3"
+                      fill={COLORS[si % COLORS.length]} opacity="0.92"
+                      {...anim(motion, 'ix-grow', { duration: 2.4 + si * 0.4, origin: `${x}px ${base}px` })} />
+                    {label(x + barW / 2, y(v) - 6, fmt(v), INK, 12)}
+                  </g>
+                );
+              })}
+              {label(cx, base + 22, clip(cat, 12), INK, nameSize)}
+            </g>
+          );
+        })
+        : single.map((b, i) => {
+          const cx = left + slot * (i + 0.5);
+          return (
+            <g key={`${b.label}-${i}`}>
+              <rect x={cx - barW / 2} y={y(b.value)} width={barW} height={base - y(b.value)} rx="4"
+                fill={BLUE} opacity="0.9"
+                {...anim(motion, 'ix-grow', { duration: 3.2, origin: `${cx}px ${base}px` })} />
+              {label(cx, y(b.value) - 8, fmt(b.value), INK, 15)}
+              {label(cx, base + 22, clip(b.label, 12), INK, nameSize)}
+            </g>
+          );
+        })}
+
+      {isGrouped
+        ? names.map((name, si) => (
+          <g key={name} {...anim(motion, 'ix-pulse', { duration: 2.4 + si * 0.3 })}>
+            <rect x={110 + si * 150} y={272} width="16" height="12" rx="3" fill={COLORS[si % COLORS.length]} />
+            {label(132 + si * 150, 282, name, INK, 12, 'start')}
           </g>
-        );
-      })}
-      {label(273, 276, 'diagram batang: tinggi batang = frekuensi', MUTE, 11)}
+        ))
+        : label(260, 282, scale ? `skala: ${scale}` : 'tinggi batang menunjukkan besar nilai data', MUTE, 13)}
     </>
   );
 }

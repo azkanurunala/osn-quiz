@@ -17,7 +17,7 @@ npm run build                     # verifikasi build
 npx eslint src/features/diagrams src/components/PracticeArea.jsx
 
 node scripts/validate-data.mjs    # validasi shape semua paket JSON
-node scripts/audit-render.mjs     # render 53 diagram (2 fase) tanpa browser — cek throw/NaN
+node scripts/audit-render.mjs     # render 54 diagram (2 fase) tanpa browser — cek throw/NaN
 node scripts/audit-matches.mjs [--all] [id...]   # coverage + sampel match per diagram (--all = IPA+MTK)
 node scripts/audit-diagrams.mjs <paket...>   # audit figure/animasi di browser (dev server harus jalan)
 node scripts/record-videos.mjs --only <id> --tier campur   # rekam video
@@ -29,9 +29,10 @@ node image-prompts/_src/gemini-gen.mjs --biaya   # total biaya dari _usage.jsonl
 
 ## Kondisi saat ini (2026-10-03)
 - **PIVOT:** SVG IPA → gambar asli Vertex AI. Pipeline: 262 objek IPA (1776 slot, 33 terisi; MTK 184 slot). Pilot `paru-paru` FLASH vs PRO selesai (~$0.76). Model **HYBRID** (PRO anatomi/penampang, FLASH sisanya). **Blokir: user cek billing Vertex** sebelum batch besar. Detail + bridging: PROGRESS.md seksi PIVOT.
-- **53 diagram SVG** di `src/features/diagrams/` — **34 IPA** (families: tubuh, fisika, bumi, sains, mekanika, listrik, ekologi; akan diganti Vertex) + **19 MTK** (families: bilangan, geometri-datar, geometri-ruang, pengukuran, statistika, aljabar). Entri MTK ditandai `subject: 'mtk'` di `diagram-data.js`; tanpa `subject` = IPA default. Matcher di `matchDiagram.js`.
-- Audit presisi matcher: `node scripts/audit-matches.mjs <id...>` (sampel soal per diagram) — **selesai untuk 34 IPA + 19 MTK**. Render tanpa browser: `node scripts/audit-render.mjs` (106 render lolos).
-- Coverage ilustrasi `--all` = **45.2%** (IPA 35 paket 46.1%; MTK per bab mtk-01 26.5% … mtk-04 85.4%; lihat PROGRESS.md).
+- **54 diagram SVG** di `src/features/diagrams/` — **34 IPA** (families: tubuh, fisika, bumi, sains, mekanika, listrik, ekologi; akan diganti Vertex) + **20 MTK** (families: bilangan, pecahan, geometri-datar, geometri-ruang, pengukuran, statistika, aljabar). Entri MTK ditandai `subject: 'mtk'` di `diagram-data.js`; tanpa `subject` = IPA default. Matcher di `matchDiagram.js`.
+- Audit presisi matcher: `node scripts/audit-matches.mjs <id...>` (sampel soal per diagram) — **selesai untuk 34 IPA + 20 MTK**. Render tanpa browser: `node scripts/audit-render.mjs` (108 render lolos).
+- **Audit browser 11 paket IPA (2026-10-03) lolos** setelah koreksi sains diagram (`families/bumi|tubuh|fisika|sains.jsx`) oleh Claude. Follow-up opencode: keyword `pemisahan-campuran` dipersempit (hanya distilasi/penguapan — buang `filtrasi`,`penyaringan`,`campuran homogen/heterogen`,`air laut`), `pernapasan-paru` buang `diafragma` telanjang (FP klakson), `penyerapan-nutrisi` + `pembuluh getah bening` (vili), beberapa caption/typo dibetulkan. **Terbuka: diagram di fase soal membocorkan jawaban** (mis. gerhana menulis "Matahari-Bulan-Bumi segaris" = opsi A) — perlu keputusan apakah teks penjelasan hanya tampil di fase pembahasan.
+- Coverage ilustrasi `--all` = **47.7%** (IPA per bab ipa-01 24.4% … ipa-05 57.2%; MTK per bab mtk-01 26.6% … mtk-04 85.4%; lihat PROGRESS.md).
 - **Gate subject (SELESAI):** `matchDiagram(question, packageSubject)` + `subjectOf()`; diagram tanpa `subject` = IPA. Paket MTK hanya cocok diagram `subject: 'mtk'` — bug diagram IPA muncul di soal MTK sudah beres (wiring di `PracticeArea.jsx:107` + `PembahasanContent`, dan `audit-matches.mjs`).
 
 ## Aturan / larangan

@@ -28,15 +28,18 @@ const BOX = {
  * runs out. Renders nothing when no diagram matched confidently.
  *
  * @param {{object}|null} diagram result of matchDiagram()
+ * @param {object|null} question the soal, for families that draw its own data (e.g. bar charts)
  */
-export function QuestionFigure({ diagram, isSplitActive = false }) {
+export function QuestionFigure({ diagram, question = null, isSplitActive = false }) {
   const Scene = sceneFor(diagram);
   if (!Scene) return null;
   const k = isSplitActive ? 'split' : 'full';
   return (
     <div className={`flex justify-center ${isSplitActive ? 'mb-1' : 'mb-3'}`}>
-      <DiagramFrame title={diagram.title} caption={diagram.caption} mode="still" boxHeight={BOX.question[k]}>
-        {(frame) => <Scene {...frame} />}
+      {/* No caption here: captions commonly state the answer ("...segaris" = option A), and the
+          question phase must not give the answer away. The caption returns in the explanation. */}
+      <DiagramFrame title={diagram.title} mode="still" boxHeight={BOX.question[k]}>
+        {(frame) => <Scene {...frame} question={question} />}
       </DiagramFrame>
     </div>
   );
@@ -45,14 +48,14 @@ export function QuestionFigure({ diagram, isSplitActive = false }) {
 /**
  * Animation for the 15s explanation phase: the same figure, now looping.
  */
-export function ExplanationFigure({ diagram, isSplitActive = false }) {
+export function ExplanationFigure({ diagram, question = null, isSplitActive = false }) {
   const Scene = sceneFor(diagram);
   if (!Scene) return null;
   const k = isSplitActive ? 'split' : 'full';
   return (
     <div className={`flex justify-center ${isSplitActive ? '' : 'mb-1'}`}>
       <DiagramFrame title={diagram.title} caption={diagram.caption} mode="motion" boxHeight={BOX.explanation[k]}>
-        {(frame) => <Scene {...frame} />}
+        {(frame) => <Scene {...frame} question={question} />}
       </DiagramFrame>
     </div>
   );

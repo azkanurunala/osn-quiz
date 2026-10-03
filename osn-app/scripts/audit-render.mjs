@@ -24,12 +24,14 @@ console.error = (...args) => {
 };
 try {
   const { DIAGRAM_BY_ID } = await server.ssrLoadModule('/src/features/diagrams/registry.js');
+  // Data-driven diagrams (bar chart) only draw when the soal carries a dataset, so hand them one.
+  const sample = { question: 'Diagram batang contoh:\n```\nApel : ████ (4)\nJeruk : ██ (2)\nMangga : ██████ (6)\n```' };
   for (const [id, d] of Object.entries(DIAGRAM_BY_ID)) {
     current = id;
     for (const motion of [false, true]) {
       n += 1;
       try {
-        const html = renderToStaticMarkup(React.createElement(d.component, { motion }));
+        const html = renderToStaticMarkup(React.createElement(d.component, { motion, question: sample }));
         if (!svgChild.test(html)) { console.log(`FAIL empty  ${id} motion=${motion}`); bad += 1; }
       } catch (e) {
         console.log(`THROW ${id} motion=${motion}: ${e.message}`);

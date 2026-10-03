@@ -1,4 +1,5 @@
 import React from 'react';
+import { flattenTextBars } from './textBars';
 
 const INLINE_RE = /(\*\*[^*\n]+\*\*|\*[^*\n]+\*|`[^`\n]+`|_[^_\n]+_)/g;
 
@@ -22,7 +23,7 @@ function renderInline(text, keyPrefix, dark) {
 }
 
 export function InlineMarkdown({ text, dark = false }) {
-  return <>{renderInline(text, 'inl', dark)}</>;
+  return <>{renderInline(flattenTextBars(text), 'inl', dark)}</>;
 }
 
 export function MarkdownText({ text, dark = false }) {

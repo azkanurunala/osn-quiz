@@ -137,7 +137,7 @@ export function RodaPoros({ motion }) {
         <Box x={386} y={188} w={64} h={44} labelText="W" stroke={BLUE} />
       </g>
       <Arrow x={386} y={244} dx={0} dy={-30} color={GREEN} motion={motion} labelText="F" labelDx={18} labelDy={2} />
-      {label(190, 262, 'roda besar → gaya putar lebih kecil', MUTE, 11)}
+      {motion ? label(190, 262, 'roda besar → gaya putar lebih kecil', MUTE, 11) : null}
     </>
   );
 }

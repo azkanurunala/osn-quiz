@@ -38,7 +38,7 @@ const V_URL = (model) => `https://aiplatform.googleapis.com/v1/projects/${V_PROJ
 let vToken = null, vTokenAt = 0;
 async function authHeaders() {
   if (!VERTEX) return { 'x-goog-api-key': KEY };
-  if (!vToken || Date.now() - vTokenAt > 40 * 60 * 1000) {   // token gcloud berlaku ±60 menit
+  if (!vToken || Date.now() - vTokenAt > 10 * 60 * 1000) {   // token dari cache gcloud bisa sisa sedikit masa berlakunya
     const { execSync } = await import('node:child_process');
     vToken = execSync('gcloud auth print-access-token', { env: { ...process.env, CLOUDSDK_ACTIVE_CONFIG_NAME: V_CONFIG }, stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim();
     vTokenAt = Date.now();
@@ -47,7 +47,7 @@ async function authHeaders() {
 }
 
 async function call(url, body) {
-  for (let i = 0; i < 6; i++) {
+  for (let i = 0; i < 10; i++) {
     const r = await fetch(url, { method: body ? 'POST' : 'GET', headers: { ...(await authHeaders()), 'content-type': 'application/json' }, body: body && JSON.stringify(body) });
     if (r.ok) return r.json();
     const t = await r.text();
@@ -55,10 +55,11 @@ async function call(url, body) {
       console.error('✗ Kuota tier GRATIS untuk model ini = 0. Model gambar Gemini hanya bisa dipakai setelah billing diaktifkan di Google AI Studio (https://aistudio.google.com → Billing).');
       process.exit(2);
     }
-    if (r.status === 429 || r.status >= 500) { const w = 15000 * (i + 1); console.log(`  ⏳ HTTP ${r.status}, tunggu ${w / 1000}s`); await sleep(w); continue; }
+    if (r.status === 401 && VERTEX && i < 2) { vToken = null; console.log('  🔑 token kedaluwarsa, ambil token baru'); continue; }   // perbarui token, coba lagi
+    if (r.status === 429 || r.status >= 500) { const w = Math.min(300000, 15000 * 2 ** i); console.log(`  ⏳ HTTP ${r.status}, tunggu ${w / 1000}s`); await sleep(w); continue; }
     throw new Error(`HTTP ${r.status}: ${t.slice(0, 400)}`);
   }
-  throw new Error('gagal setelah 6 percobaan (rate limit / server)');
+  throw new Error('gagal setelah 10 percobaan (rate limit / server)');
 }
 
 // ---- biaya: harga resmi paid tier (USD per 1 juta token), cek ulang di https://ai.google.dev/gemini-api/docs/pricing ----
@@ -147,10 +148,14 @@ for (const id of ids) {
       history.push({ role: 'user', parts });
       try {
         const imageConfig = { aspectRatio: /TURNAROUND/.test(s.text) ? '16:9' : '1:1' };
-        const d = await call(VERTEX ? V_URL(MODEL) : `${API}/models/${MODEL}:generateContent`, { contents: history, generationConfig: { responseModalities: ['TEXT', 'IMAGE'], imageConfig } });
-        const cand = d.candidates?.[0];
-        const img = cand?.content?.parts?.find(p => p.inlineData || p.inline_data);
-        fs.appendFileSync(USAGE, JSON.stringify({ t: new Date().toISOString(), id, slot: tag, model: MODEL, ok: !!img, usage: d.usageMetadata || null }) + '\n');
+        let d, cand, img;
+        for (let t = 0; t < 3 && !img; t++) {   // model kadang membalas teks saja (STOP) → coba lagi
+          d = await call(VERTEX ? V_URL(MODEL) : `${API}/models/${MODEL}:generateContent`, { contents: history, generationConfig: { responseModalities: ['TEXT', 'IMAGE'], imageConfig } });
+          cand = d.candidates?.[0];
+          img = cand?.content?.parts?.find(p => p.inlineData || p.inline_data);
+          fs.appendFileSync(USAGE, JSON.stringify({ t: new Date().toISOString(), id, slot: tag, model: MODEL, ok: !!img, usage: d.usageMetadata || null }) + '\n');
+          if (!img && t < 2) { console.log(`  ↻ ${tag}: tidak ada gambar (${cand?.finishReason || "?"}), coba lagi`); await sleep(5000); }
+        }
         if (!img) throw new Error('tidak ada gambar di respons: ' + (cand?.finishReason || JSON.stringify(d.promptFeedback || {})));
         history.push({ role: 'model', parts: cand.content.parts });   // simpan utuh (termasuk thought signature) untuk langkah lanjutan
         const data = (img.inlineData || img.inline_data).data;

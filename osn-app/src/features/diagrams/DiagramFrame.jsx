@@ -8,6 +8,7 @@ const KEYFRAMES = `
 @keyframes ix-flow { to { stroke-dashoffset: -24; } }
 @keyframes ix-spin { to { transform: rotate(360deg); } }
 @keyframes ix-spin-ccw { to { transform: rotate(-360deg); } }
+@keyframes ix-grow { 0% { transform: scaleY(0); } 35%,100% { transform: scaleY(1); } }
 @keyframes ix-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
 @keyframes ix-rise { 0% { transform: translateY(9px); opacity: 0; } 25%,80% { transform: translateY(0); opacity: 1; } 100% { transform: translateY(-9px); opacity: 0; } }
 @keyframes ix-swing { 0%,100% { transform: rotate(-13deg); } 50% { transform: rotate(13deg); } }

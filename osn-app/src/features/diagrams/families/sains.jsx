@@ -167,9 +167,13 @@ export function MetodeIlmiah({ motion }) {
           </g>
         );
       })}
-      {label(260, 216, 'dari pengamatan dibuat dugaan sementara (hipotesis), lalu diuji dengan percobaan', MUTE, 10)}
-      {label(260, 238, 'percobaan yang baik harus diulang, dikendalikan, dan dicatat apa adanya', MUTE, 9)}
-      {label(260, 258, 'kesimpulan tidak boleh lebih besar dari data yang ditemukan', MUTE, 9)}
+      {motion ? (
+        <>
+          {label(260, 216, 'dari pengamatan dibuat dugaan sementara (hipotesis), lalu diuji dengan percobaan', MUTE, 10)}
+          {label(260, 238, 'percobaan yang baik harus diulang, dikendalikan, dan dicatat apa adanya', MUTE, 9)}
+          {label(260, 258, 'kesimpulan tidak boleh lebih besar dari data yang ditemukan', MUTE, 9)}
+        </>
+      ) : null}
     </>
   );
 }

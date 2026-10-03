@@ -113,8 +113,8 @@ export function Gerhana({ motion }) {
       <circle cx="118" cy="146" r="34" fill="#0f172a" />
       <circle cx="118" cy="146" r="34" fill="none" stroke={MUTE} strokeWidth="2" />
       {label(196, 196, 'Bulan', INK, 10)}
-      {label(196, 212, 'menutupi Matahari', MUTE, 9)}
-      {label(140, 238, 'Matahari - Bulan - Bumi segaris', MUTE, 9)}
+      {motion ? label(196, 212, 'menutupi Matahari', MUTE, 9) : null}
+      {motion ? label(140, 238, 'Matahari - Bulan - Bumi segaris', MUTE, 9) : null}
 
       <rect x="272" y="52" width="228" height="200" rx="10" fill="#020617" stroke={INK} strokeWidth="1.5" />
       {label(386, 76, 'GERHANA BULAN', PURPLE, 12)}
@@ -122,12 +122,12 @@ export function Gerhana({ motion }) {
       <path d="M 386 124 A 26 26 0 0 0 386 176 A 34 34 0 0 1 386 124 Z" fill={RED}
         {...anim(motion, 'ix-pulse', { duration: 2.6 })} />
       {label(450, 128, 'bayangan Bumi', BLUE, 10)}
-      {label(450, 146, 'menutupi', MUTE, 9)}
+      {motion ? label(450, 146, 'menutupi', MUTE, 9) : null}
       {label(450, 162, 'Bulan', MUTE, 9)}
-      {label(386, 210, 'Matahari - Bumi - Bulan', MUTE, 9)}
-      {label(386, 228, 'segaris', MUTE, 9)}
+      {motion ? label(386, 210, 'Matahari - Bumi - Bulan', MUTE, 9) : null}
+      {motion ? label(386, 228, 'segaris', MUTE, 9) : null}
 
-      {label(260, 278, 'gerhana terjadi ketika bulan, bumi, dan matahari berada dalam satu garis', MUTE, 10)}
+      {motion ? label(260, 278, 'gerhana terjadi ketika bulan, bumi, dan matahari berada dalam satu garis', MUTE, 10) : null}
     </>
   );
 }
@@ -184,11 +184,15 @@ export function FaseBulan({ motion }) {
         </g>
       ) : null}
 
-      {label(442, 112, 'separuh Bulan yang', MUTE, 9)}
-      {label(442, 126, 'menghadap Matahari', MUTE, 9)}
-      {label(442, 140, 'selalu terang', MUTE, 9)}
-      {label(260, 270, 'fase berubah karena posisi Bulan saat mengelilingi Bumi', MUTE, 10)}
-      {label(260, 288, 'satu putaran fase (Bulan Baru ke Bulan Baru) ± 29,5 hari', MUTE, 9)}
+      {motion ? (
+        <>
+          {label(442, 112, 'separuh Bulan yang', MUTE, 9)}
+          {label(442, 126, 'menghadap Matahari', MUTE, 9)}
+          {label(442, 140, 'selalu terang', MUTE, 9)}
+          {label(260, 270, 'fase berubah karena posisi Bulan saat mengelilingi Bumi', MUTE, 10)}
+          {label(260, 288, 'satu putaran fase (Bulan Baru ke Bulan Baru) ± 29,5 hari', MUTE, 9)}
+        </>
+      ) : null}
     </>
   );
 }

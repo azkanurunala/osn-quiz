@@ -703,7 +703,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   <InlineMarkdown text={currentQuestion.question} />
                 </h2>
               </div>
-              {isSplitActive && <QuestionFigure diagram={questionFigure} isSplitActive />}
+              {isSplitActive && <QuestionFigure diagram={questionFigure} question={currentQuestion} isSplitActive />}
               {/* The question card is vertically centred, so any added height clips off BOTH the top
                   and the bottom of the 1080px frame. In the wide (non-split) layout the option stack
                   is far taller than any figure, so the figure rides beside it and costs no height. */}
@@ -740,7 +740,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               {/* NOTE: must be isSplitActive={isSplitActive}, not the bare `isSplitActive` shorthand — inside a
                   JSX attribute a bare identifier means `={true}`, which silently sizes every
                   question figure for the narrow split layout. */}
-              {!isSplitActive && <QuestionFigure diagram={questionFigure} isSplitActive={isSplitActive} />}
+              {!isSplitActive && <QuestionFigure diagram={questionFigure} question={currentQuestion} isSplitActive={isSplitActive} />}
               </div>
               <div className={`flex items-center justify-between border-t border-gray-100 ${isSplitActive ? 'pt-2' : 'pt-7'}`}>
                 <div className={`flex items-center ${isSplitActive ? 'gap-1' : 'gap-2'}`}>
@@ -772,7 +772,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   <p className="text-[18px] text-slate-400">{t('analisis_konsep_desc', 'Analisis konsep & opsi salah untuk mencegah miskonsepsi')}</p>
                 </div>
               </div>
-              <ExplanationFigure diagram={questionFigure} isSplitActive />
+              <ExplanationFigure diagram={questionFigure} question={currentQuestion} isSplitActive />
               {currentQuestion.concept && (
                 <div className="bg-slate-800/80 rounded-2xl p-4 border border-slate-700/50 shadow-md">
                   <span className="text-[18px] font-bold text-red-400 uppercase tracking-wider block mb-1">{t('konsep_kunci', 'Konsep Kunci')}</span>
@@ -1022,7 +1022,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                 </h2>
               </div>
 
-              <QuestionFigure diagram={questionFigure} />
+              <QuestionFigure diagram={questionFigure} question={currentQuestion} />
 
               <div className="grid grid-cols-1 gap-3">
                 {Object.entries(currentQuestion.options).map(([key, value]) => {
@@ -1124,7 +1124,7 @@ function PembahasanContent({ q, subject }) {
         </div>
       </div>
 
-      <ExplanationFigure diagram={matchDiagram(q, subject)} />
+      <ExplanationFigure diagram={matchDiagram(q, subject)} question={q} />
 
       {q.concept && (
         <div className="bg-red-50/50 rounded-2xl p-4 border border-red-100">

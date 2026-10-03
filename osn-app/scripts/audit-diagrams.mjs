@@ -23,7 +23,7 @@ const BASE = 'http://localhost:5173';
 
 // Packages chosen because their question #1 already matches a diagram, so the audit never waits
 // for the 10s+15s auto-advance.
-const DEFAULTS = ['ipa-03e', 'ipa-03j', 'ipa-01g', 'ipa-05j'];
+const DEFAULTS = ['ipa-02b', 'ipa-04a', 'ipa-05a', 'ipa-05e'];
 
 const args = process.argv.slice(2);
 const outArg = args.find((a) => a.startsWith('--out='));

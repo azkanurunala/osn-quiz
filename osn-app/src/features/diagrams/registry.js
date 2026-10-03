@@ -6,13 +6,14 @@ import { DIAGRAM_DATA } from './diagram-data';
 import { Tuas, Katrol, BidangMiring, RodaPoros, GayaResultan } from './families/mekanika';
 import { RangkaianSeri, RangkaianParalel, KonduktorIsolator, Magnetik } from './families/listrik';
 import { RantaiMakanan, SiklusAir, Metamorfosis, Ekosistem } from './families/ekologi';
-import { SaluranPencerna, PenyerapanNutrisi, OrganEkskresi, PernapasanParu, PeredarahDarah } from './families/tubuh';
+import { SaluranPencernaan, PenyerapanNutrisi, OrganEkskresi, PernapasanParu, PeredaranDarah } from './families/tubuh';
 import {
   PerambatanCahaya, PemantulanCahaya, PembiasanCahaya, PerpindahanPanas, PemantulanBunyi, PemisahanCampuran,
 } from './families/fisika';
 import { TataSurya, RotasiRevolusi, Gerhana, FaseBulan, LapisanAtmosfer, SiklusBatu } from './families/bumi';
 import { KeanekaragamanHayati, VariabelPenelitian, AlatPengukuran, MetodeIlmiah } from './families/sains';
 import { PohonFaktor, GarisBilangan, PolaBilangan } from './families/bilangan';
+import { Pecahan } from './families/pecahan';
 import { BangunDatar, LingkaranUnsur, Sudut } from './families/geometri-datar';
 import { BangunRuang, JaringJaring, BangunRuangGabungan } from './families/geometri-ruang';
 import { TanggaSatuan, KecepatanJarakWaktu, Debit, SkalaPeta } from './families/pengukuran';
@@ -33,11 +34,11 @@ const COMPONENTS = {
   'siklus-air': SiklusAir,
   metamorfosis: Metamorfosis,
   ekosistem: Ekosistem,
-  'saluran-pencernaan': SaluranPencerna,
+  'saluran-pencernaan': SaluranPencernaan,
   'penyerapan-nutrisi': PenyerapanNutrisi,
   'organ-ekskresi': OrganEkskresi,
   'pernapasan-paru': PernapasanParu,
-  'peredaran-darah': PeredarahDarah,
+  'peredaran-darah': PeredaranDarah,
   'perambatan-cahaya': PerambatanCahaya,
   'pemantulan-cahaya': PemantulanCahaya,
   'pembiasan-cahaya': PembiasanCahaya,
@@ -59,6 +60,7 @@ const COMPONENTS = {
   'pohon-faktor': PohonFaktor,
   'garis-bilangan': GarisBilangan,
   'pola-bilangan': PolaBilangan,
+  pecahan: Pecahan,
   'bangun-datar': BangunDatar,
   'lingkaran-unsur': LingkaranUnsur,
   sudut: Sudut,

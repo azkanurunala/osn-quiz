@@ -77,9 +77,13 @@ export function PemantulanCahaya({ motion }) {
       <path d="M 250 110 A 40 40 0 0 1 287.5 136.1" fill="none" stroke={PURPLE} strokeWidth="2" />
       {label(278, 110, 'r', PURPLE, 12)}
 
-      {label(260, 204, 'sudut datang (i) = sudut pantul (r)', INK, 12)}
-      {label(260, 228, 'benda terlihat karena cahaya darinya dipantulkan ke mata', MUTE, 10)}
-      {label(260, 252, 'pemantulan bunyi memakai hukum yang sama', MUTE, 9)}
+      {motion ? (
+        <>
+          {label(260, 204, 'sudut datang (i) = sudut pantul (r)', INK, 12)}
+          {label(260, 228, 'benda terlihat karena cahaya darinya dipantulkan ke mata', MUTE, 10)}
+          {label(260, 252, 'pemantulan bunyi memakai hukum yang sama', MUTE, 9)}
+        </>
+      ) : null}
     </>
   );
 }
@@ -107,10 +111,14 @@ export function PembiasanCahaya({ motion }) {
       {label(490, 132, 'merah', colors[0], 9, 'end')}
       {label(490, 236, 'ungu', colors[6], 9, 'end')}
 
-      {label(370, 56, 'cahaya putih terurai', PURPLE, 11)}
-      {label(370, 74, 'menjadi 7 warna (dispersi)', PURPLE, 10)}
-      {label(370, 92, 'mejikuhibiniu, seperti pelangi', MUTE, 9)}
-      {label(260, 270, 'cahaya dibiaskan (dibelokkan) saat masuk ke medium yang berbeda', MUTE, 10)}
+      {motion ? (
+        <>
+          {label(370, 56, 'cahaya putih terurai', PURPLE, 11)}
+          {label(370, 74, 'menjadi 7 warna (dispersi)', PURPLE, 10)}
+          {label(370, 92, 'mejikuhibiniu, seperti pelangi', MUTE, 9)}
+          {label(260, 270, 'cahaya dibiaskan (dibelokkan) saat masuk ke medium yang berbeda', MUTE, 10)}
+        </>
+      ) : null}
     </>
   );
 }
@@ -196,14 +204,14 @@ export function PemantulanBunyi({ motion }) {
 
       <rect x="356" y="70" width="148" height="68" rx="10" fill="#1e293b" opacity="0.8" stroke={GREEN} strokeWidth="2.5" />
       {label(430, 94, 'GEMA', GREEN, 13)}
-      {label(430, 112, 'dinding jauh: terdengar', MUTE, 9)}
-      {label(430, 126, 'setelah bunyi asli selesai', MUTE, 9)}
+      {motion ? label(430, 112, 'dinding jauh: terdengar', MUTE, 9) : null}
+      {motion ? label(430, 126, 'setelah bunyi asli selesai', MUTE, 9) : null}
       <rect x="356" y="152" width="148" height="68" rx="10" fill="#1e293b" opacity="0.8" stroke={PURPLE} strokeWidth="2.5" />
       {label(430, 176, 'GAUNG', PURPLE, 13)}
-      {label(430, 194, 'dinding dekat: bersamaan', MUTE, 9)}
-      {label(430, 208, 'bunyi asli, jadi tidak jelas', MUTE, 9)}
+      {motion ? label(430, 194, 'dinding dekat: bersamaan', MUTE, 9) : null}
+      {motion ? label(430, 208, 'bunyi asli, jadi tidak jelas', MUTE, 9) : null}
 
-      {label(260, 264, 'gema terdengar jika jarak ke pemantul kira-kira 17 meter atau lebih', MUTE, 10)}
+      {motion ? label(260, 264, 'gema terdengar jika jarak ke pemantul kira-kira 17 meter atau lebih', MUTE, 10) : null}
     </>
   );
 }
