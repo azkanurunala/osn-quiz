@@ -1,0 +1,198 @@
+{
+  "akar-tunggang-serabut-set/p01-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Daun padi terpotong di tepi atas, dan daun mangga menempel ke tepi (melanggar aturan full body). Akar tunggang mangga terlalu gemuk dan berdaging seperti singkong/wortel; akar tunggang semai mangga seharusnya ramping dan berkayu. Akar serabut padi sudah benar. Prompt koreksi: \"Regenerate: zoom out so BOTH plants are fully visible with at least 10% white margin above the tallest leaf tip — nothing touching or cut by the frame. The mango seedling taproot must be a slender, woody, light-brown root (about as thick as the stem, gradually tapering), NOT a swollen fleshy tuber like cassava or carrot.\""
+  },
+  "akar-tunggang-serabut-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Akar tunggang (akar pokok meruncing + akar cabang) dan akar serabut (banyak akar seragam dari pangkal batang) tergambar benar. Utuh, tanpa teks, background bersih."
+  },
+  "akar-tunggang-serabut-set/p04-penampang-transparan": {
+    "status": "salah",
+    "catatan": "Penuh label teks, termasuk kata tak bermakna (\"Crals root\"). Garis penunjuk salah sasaran: 'root hairs' ke batang, 'epidermis' ke daun, 'xylem' ke akar. Penampang dimasukkan ke bola kaca, dan kedua penampang tidak dibedakan antara dikotil dan monokotil. Prompt SUDAH DIPERBAIKI (wajib tanpa teks, tanpa bola kaca, penampang dikotil dan monokotil dibedakan). Generate ulang pakai Prompt 4 yang baru di chat BARU."
+  },
+  "jantung/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gaya ilustrasi buku pelajaran, tampak depan, utuh, tanpa teks. Anatomi sesuai tingkat SD: lengkung aorta 3 cabang, vena cava superior & inferior (biru) di sisi kanan tubuh (kiri gambar), apeks condong ke kiri tubuh (kanan gambar), arteri pulmonalis biru, pembuluh koroner di permukaan. Model: gemini-2.5-flash-image via Vertex AI. Tetap perlu cek guru IPA sebelum rilis."
+  },
+  "bebek/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Tampak depan, kaki berselaput oranye jelas, paruh pipih, bulu putih-cokelat sesuai prompt. Utuh, tanpa teks."
+  },
+  "ikan-mas/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Digambar dari samping (bukan kepala menghadap kamera), tetapi justru tampak yang paling berguna untuk soal. Sisik sikloid, gurat sisi, tutup insang, 2 pasang sungut, sirip lengkap, ekor bercagak: benar. Orientasi 'depan' ikan di katalog sudah diubah ke samping."
+  },
+  "kelelawar-ekolokasi/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Daun hidung tapal kuda, telinga besar runcing, mata kecil, selaput sayap di antara jari, cakar ibu jari. Ciri kelelawar pemakan serangga berekolokasi tergambar benar."
+  },
+  "kelelawar/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Kalong: muka mirip rubah, mata besar, mantel keemasan di leher, cakar ibu jari, tanpa daun hidung. Benar untuk kelelawar buah."
+  },
+  "kelinci/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Duduk tegak tampak depan, gigi seri terlihat, ekor kapas putih, kaki belakang besar. Benar."
+  },
+  "sapi/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Sapi Bali tampak depan: cokelat kemerahan, kaki 'kaos kaki' putih, tanduk pendek, kuku belah, ambing. Sesuai."
+  },
+  "kucing-domestik/p01-realistis-turnaround": {
+    "status": "revisi",
+    "catatan": "Hanya 3 panel (tampak kiri tidak ada), dan dari belakang anus terlihat (kurang pantas untuk anak SD). Anatomi kucing benar. Template sudah diperketat (tepat 4 panel, ekor menutupi bagian belakang)."
+  },
+  "kucing-domestik/p02-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Tampak 3/4 (badan menyerong), bukan depan lurus. Prompt koreksi: \"Strict straight-on front view: the cat faces the camera squarely, body hidden behind the chest, both front legs symmetrical, no three-quarter angle.\""
+  },
+  "kucing-domestik/p03-realistis-belakang": {
+    "status": "revisi",
+    "catatan": "Tampak belakang benar, tetapi anus terlihat jelas. Prompt koreksi: \"Same view, but the tail hangs down naturally and covers the rear; nothing anatomical visible under the tail.\""
+  },
+  "kucing-domestik/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Profil samping, kepala ke kiri gambar, konsisten dengan tampak lain."
+  },
+  "kucing-domestik/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Profil samping, kepala ke kanan gambar (cermin dari tampak kiri). Konsisten."
+  },
+  "kucing-domestik/p06-ilustrasi-turnaround": {
+    "status": "revisi",
+    "catatan": "Isi benar (depan, belakang, 2 samping) tetapi tersusun 2 baris, bukan 1 baris, dan anus tampak sebagai titik di tampak belakang. Generate ulang dengan template baru."
+  },
+  "kucing-domestik/p08-ilustrasi-belakang": {
+    "status": "revisi",
+    "catatan": "Bukan tampak belakang: kucing menyerong (3/4 belakang-samping) dengan kepala menoleh. Generate ulang."
+  },
+  "kucing-domestik/p09-ilustrasi-kiri": {
+    "status": "revisi",
+    "catatan": "Kepala menghadap ke kanan gambar dan menoleh ke kamera, sama arahnya dengan tampak kanan. Tampak kiri harus kepala ke KIRI gambar, profil murni. Template sudah diperjelas."
+  },
+  "kucing-domestik/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Profil samping, kepala ke kanan gambar. Benar."
+  },
+  "nyamuk-aedes/p01-realistis-turnaround": {
+    "status": "revisi",
+    "catatan": "Ilmiah benar (pola lira putih di toraks, kaki bergelang putih, antena betina berambut jarang, 6 kaki), tetapi ada garis pembatas panel padahal dilarang. Kecil; bisa dipakai setelah dipotong per panel, atau generate ulang dengan template baru."
+  },
+  "nyamuk-aedes/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Digambar dari atas (dorsal), bukan depan, tetapi justru paling informatif: lira putih, 6 kaki bergelang, antena betina, sayap bersisik. Benar untuk Aedes aegypti betina."
+  },
+  "nyamuk-aedes/p03-realistis-belakang": {
+    "status": "revisi",
+    "catatan": "Hampir identik dengan p02 (tampak atas), bukan tampak belakang. Tidak salah secara ilmiah, tetapi duplikat."
+  },
+  "nyamuk-aedes/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Profil samping, kepala ke kiri, 6 kaki bergelang putih, belalai dan antena. Benar."
+  },
+  "nyamuk-aedes/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "Kepala masih menghadap ke KIRI gambar (sama dengan p04), seharusnya ke kanan. Template sudah diperjelas."
+  },
+  "nyamuk-aedes/p06-ilustrasi-turnaround": {
+    "status": "revisi",
+    "catatan": "5 panel (seharusnya tepat 4), tersusun 2 baris. Isi ilmiah benar. Generate ulang dengan template baru."
+  },
+  "akar-tunggang-serabut-set/p03-penampang-belah.lama": {
+    "status": "salah",
+    "catatan": "Penampang akar padi (monokotil) digambar sama persis dengan akar mangga (dikotil); ini menyesatkan. Yang benar: dikotil = xilem berbentuk bintang di pusat tanpa empulur; monokotil = banyak berkas xilem dan floem berselang-seling membentuk cincin, dengan empulur besar di tengah. Selain itu ada teks dengan salah ketik (\"seedlinit\"). Penyebabnya prompt lama (penampang.mjs hanya punya satu deskripsi untuk kedua akar). SUDAH DIPERBAIKI: generate ulang pakai Prompt 3 yang baru."
+  },
+  "lumba-lumba/p07-ilustrasi-depan.lama": {
+    "status": "revisi",
+    "catatan": "Gaya terlalu kartun/imut (wajah tersenyum, badan gemuk), padahal prompt melarang gaya chibi. Anatomi dasar benar (lubang napas di atas kepala, sirip punggung, sirip dada). Prompt koreksi: \"Redraw as an accurate textbook illustration, not cute: realistic slender bottlenose dolphin proportions, no cartoon smile, side profile showing the whole body, blowhole, dorsal fin, pectoral fin and horizontal tail flukes.\""
+  },
+  "paus-biru/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Yang tergambar paus BUNGKUK (humpback), bukan paus biru: sirip dada sangat panjang dan putih, ada benjolan di kepala. Paus biru: badan sangat panjang dan ramping, sirip dada kecil, sirip punggung mungil jauh di belakang, kepala rata tanpa benjolan, kulit biru-abu berbintik. Katalog sudah diperjelas. Generate ulang."
+  },
+  "telur-ayam/p02-ilustrasi-depan.lama": {
+    "status": "revisi",
+    "catatan": "Telur utuh benar. Pada potongan: kalaza digambar sebagai tali lepas di samping, padahal kalaza menghubungkan kuning telur ke kedua UJUNG telur; rongga udara digambar sebagai gelembung di dalam putih telur, padahal letaknya di ujung tumpul di antara dua selaput kulit. Prompt sudah diperjelas. Prompt koreksi: \"The two twisted white chalazae must connect the yolk to the top and bottom ends of the egg; the air cell sits at the blunt end between the two shell membranes, not floating in the egg white.\""
+  },
+  "kucing-domestik/p07-ilustrasi-depan.lama": {
+    "status": "revisi",
+    "catatan": "Tampak 3/4, bukan depan lurus. Pakai prompt koreksi yang sama seperti p02."
+  },
+  "nyamuk-aedes/p07-ilustrasi-depan.lama": {
+    "status": "revisi",
+    "catatan": "Tampak depan seperti laba-laba; jumlah kaki sulit dipastikan (perlu dihitung manual: harus tepat 6, 3 pasang menempel di toraks), sayap tidak terlihat, gaya agak menyeramkan untuk anak. Prompt koreksi: \"Show the mosquito from directly above (dorsal view) with wings spread: exactly six legs (three pairs attached to the thorax), white lyre pattern on the thorax, white-banded legs.\""
+  },
+  "anoa/p07-ilustrasi-depan": {
+    "status": "revisi",
+    "catatan": "Badan gelap, kaki 'kaos kaki' putih: benar. Tetapi tanduk terlalu panjang dan melengkung keluar seperti sapi; tanduk anoa dataran rendah pendek, lurus, dan mengarah ke belakang. Prompt koreksi: \"Same front view, but the horns are short, straight, and point backward along the head (lowland anoa), not long and curved outward.\""
+  },
+  "ayam/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Ayam jantan: jengger dan pial merah, bulu leher keemasan, ekor sabit hijau-hitam, kaki kuning bertaji. Benar."
+  },
+  "ayam/p11-penampang-belah": {
+    "status": "revisi",
+    "catatan": "Tembolok, ampela berbatu kecil, usus, jantung, paru, kantong udara, kloaka, dan lingkaran label kosong ada. Tetapi ampela digambar jauh di dekat ekor/kloaka; seharusnya di tengah rongga perut tepat di belakang hati. Deskripsi penampang sudah diperjelas."
+  },
+  "badak-jawa/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Satu cula pendek, lipatan kulit seperti baju zirah, tekstur mosaik. Benar untuk badak Jawa."
+  },
+  "buaya/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Tampak depan, sisik bertulang (osteoderm) di punggung, gigi kerucut, mata dan lubang hidung di atas kepala. Benar."
+  },
+  "bunglon/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Jambul kepala (casque), mata menonjol yang bisa berputar, jari menjepit ranting (zigodaktil), ekor melingkar. Benar."
+  },
+  "elang/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Elang Jawa: jambul hitam berujung putih, dada bergaris cokelat, paruh bengkok, mata dan kaki kuning. Ada tenggeran kecil (tidak diminta, tetapi wajar)."
+  },
+  "ikan-mas/p11-penampang-belah": {
+    "status": "revisi",
+    "catatan": "Gelembung renang 2 ruang, hati, usus, ginjal, otak, gonad, label kosong: benar. Tetapi insang merah di belakang kepala tidak terlihat, dan jantung digambar seperti simbol hati (bentuk 'love'), padahal jantung ikan kecil dan 2 ruang. Deskripsi penampang sudah diperjelas."
+  },
+  "katak/p11-penampang-belah": {
+    "status": "ok",
+    "catatan": "Paru-paru, jantung, hati dengan kantong empedu hijau, lambung, usus, ginjal, badan lemak kuning, kloaka ungu, label kosong dan garis putus-putus. Jari depan 4, belakang berselaput. Jumlah ruang jantung (3) terlalu kecil untuk dipastikan; cek guru."
+  },
+  "kucing-domestik/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Sudah tampak depan lurus dan simetris (template baru berhasil). Utuh, tanpa teks."
+  },
+  "kura-kura/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Penyu hijau tampak depan berenang: sirip dayung, tempurung, plastron, kepala bersisik. Benar."
+  },
+  "lumba-lumba/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Tampak depan kepala ke kamera: lubang napas di atas kepala, sirip dada, sirip punggung, ekor horizontal. Masih sedikit 'tersenyum', tetapi sudah tidak chibi. Bisa dipakai."
+  },
+  "tarsius/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Mata sangat besar, telinga tipis, kaki belakang sangat panjang, ekor panjang dengan jumbai di ujung, jari panjang tanpa bantalan isap. Sesuai sumber."
+  },
+  "telur-ayam/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Sudah benar: kalaza menghubungkan kuning telur ke ujung atas dan bawah, rongga udara di ujung tumpul. Tanpa teks."
+  },
+  "telur-ayam/p03-penampang-belah": {
+    "status": "revisi",
+    "catatan": "Rongga udara, putih telur, kuning telur, keping lembaga, dan label kosong benar. Tetapi kalaza masih digambar sebagai tali bergelombang di samping kuning telur, tidak menyambung ke ujung telur. Deskripsi penampang sudah diperjelas."
+  },
+  "ular/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Ular melingkar, kepala menghadap depan, lidah bercabang, pupil bulat, sisik halus. Sesuai Ptyas korros."
+  },
+  "paru-paru/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Paru kanan (kiri gambar) 3 lobus, paru kiri (kanan gambar) 2 lobus dengan lekuk jantung, trakea bercincin, bronkus. Benar. Tetap perlu cek guru."
+  },
+  "paru-paru/p11-penampang-belah": {
+    "status": "ok",
+    "catatan": "Cabang bronkus, arteri (biru) dan vena (merah) pulmonalis, garis putus-putus pemisah lobus (3 kiri gambar, 2 kanan gambar), label kosong. Benar."
+  }
+}

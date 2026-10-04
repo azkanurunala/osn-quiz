@@ -38,4 +38,4 @@ metadata/
 
 # rahasia lokal (API key)
 .env
-image-results/*
+# image-results/*
