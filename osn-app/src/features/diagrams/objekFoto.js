@@ -15,14 +15,43 @@ import { matchDiagram } from './matchDiagram';
 
 // Catalog kw that is wider than its picture. kura-kura: the picture is a green sea turtle, which
 // cannot pull its head into its shell, so it must not illustrate land/freshwater "kura-kura".
-// telur-ayam: claim "telur ayam" as a phrase so it wins over the "ayam" (rooster) picture.
+// telur-ayam: only "telur ayam"; frog spawn, ovovivipar eggs or "foam berbentuk telur" are not it.
 const KW_OVERRIDE = {
   'kura-kura': 'penyu',
-  'telur-ayam': 'telur ayam|telur',
+  'telur-ayam': 'telur ayam',
+  // Generic catalog words that pull in other organisms or non-biology meanings.
+  'cacing-tanah': 'cacing tanah',
+  benalu: 'benalu',
+  'cumi-cumi': 'cumi-cumi|cumi',
+  kepiting: 'kepiting',
+  rafflesia: 'raf+lesia|padma raksasa',
+  'spons-porifera': 'porifera|spons laut|bunga karang|hewan spons',
+  stetoskop: 'stetoskop',
+  'sumber-protein-set': 'sumber protein|protein',
+  'tanaman-kacang': 'tanaman kacang|kacang tanah|biji kacang|kecambah kacang|bintil akar|legum',
+  'tulang-belakang': 'tulang belakang|ruas tulang belakang|vertebra|skoliosis|lordosis|kifosis',
+};
+
+// The soal must also say this, or the picture is only loosely related ("jaringan listrik",
+// "pertukaran gas pada tumbuhan", "mata tunas").
+const REQUIRE = {
+  // the carp stands for "a fish" only in soal about fish in general, not for other named species
+  'ikan-mas': /ikan mas|sirip|sisik|insang|pisces|kelompok ikan|ikan bernapas|bernapas menggunakan|ikan bergerak/,
+  'daun-sejajar-menyirip-menjari-set': /daun/,
+  alveolus: /alveolus|paru/,
+  'bola-sepak': /bola/,
+  'jantung-penampang': /jantung/,
+  'kantong-semar': /kantong semar|nepenthes/,
+  'jamur-rhizopus': /rhizopus|jamur roti|jamur tempe|ragi tempe/,
+  'pembuluh-darah-set': /darah|arteri|vena|kapiler|nadi|pembuluh balik/,
+  'penampang-daun': /daun|stomata|mesofil|palisade/,
+  'sel-tumbuhan': /tumbuhan/,
+  'sel-hewan': /hewan|membran sel/,
+  mata: /pupil|kedip|lensa mata|kornea|retina|cacat mata|kelainan (pada )?mata|kesehatan mata|gangguan mata|rabun|buta warna|berkedip|debu (masuk )?(di|ke) mata/,
 };
 
 // Generic words several objects share; a specific name in the same stem wins over them.
-const WEAK = new Set(['ikan', 'telur', 'ulat', 'larva', 'pupa', 'karang', 'udang', 'kodok', 'siput', 'gurita', 'tiram', 'tokek', 'itik']);
+const WEAK = new Set(['ikan', 'telur', 'ulat', 'larva', 'pupa']);
 
 // Same word, different animal: the catalog notes that fruit bats do not echolocate.
 const TIEBREAK = [
@@ -40,22 +69,47 @@ const OTHER_ORGANISMS = ['tikus', 'kadal', 'anjing', 'kambing', 'kuda', 'babi', 
   'rubah', 'serigala', 'platipus', 'belut', 'burung unta', 'pinguin', 'kerbau', 'domba', 'unta', 'zebra',
   'jerapah', 'kanguru', 'beruang', 'macan', 'musang', 'landak', 'tupai', 'merpati', 'bangau', 'cacing',
   'kura-kura', 'mangga', 'padi', 'jagung', 'pisang', 'durian', 'kelapa', 'rumput', 'bayam', 'kacang',
-  // "burung" alone is a second animal ("burung dan ayam"); "burung elang" is just the eagle.
-  'burung(?!\s+(?:elang|cenderawasih|jalak|maleo|unta))'];
+  'gurita', 'tali putri', 'remora', 'rayap', 'kutu', 'vanili', 'ngengat', 'rosela', 'rami', 'planaria',
+  'lipan', 'lintah', 'kanguru', 'koala', 'kuda laut',
+  'lele', 'mujair', 'nila', 'gurame', 'cupang', 'buntal', 'arwana', 'tuna', 'goby', 'koki', 'koi', 'salmon', 'bandeng', 'teri',
+  // venomous snakes: the snake picture is a non-venomous rat snake
+  'kobra', 'piton', 'sanca', 'ular berbisa', 'ular derik'];
 
-const BEFORE = /(?:mirip|seperti|menyerupai|bagaikan|layaknya|daging|susu|sate|sop|soto|bulu|kulit)\s+(?:\S+\s+)?$/;
-const AFTER_FOOD = /^\s+(?:goreng|bakar|panggang|rebus|geprek|potong)\b/;
+// Contexts a specific picture cannot illustrate. ayam: the picture is a rooster, which does not
+// lay or brood eggs.
+const NOT_FOR = {
+  ayam: /betina|induk|bertelur|mengeram|dierami/,
+  // human uterus picture: soal about animal pregnancy or vivipary in general
+  'janin-rahim': /hewan|mamalia/,
+  'hati-empedu': /hati-hati|senang hati|rendah hati|baik hati|sepenuh hati|dalam hati|berhati/,
+  'hidung-penampang': /pesawat|kereta|kapal|diangkut/,
+  'jamur-tiram': /penisilin|penicillium|panu|kurap|mikoriza|ragi|kaki atlet|penyakit/,
+  'kulit-penampang': /batuk|kutu|mencangkok|cangkok|salak|kina|pohon|batang|tumbuhan/,
+  // the picture shows the foods themselves, which are often the options of these soal
+  'sumber-protein-set': /berikut|kecuali|nabati|hewani|sumber|enzim/,
+  'tanaman-kacang': /non-legum|selain legum/,
+  // small-intestine villi absorb nutrients; water is taken up in the large intestine
+  'vili-usus': /penyerapan air|diare/,
+  // a bacteriophage infects bacteria; it must not stand for human disease viruses
+  'virus-bakteriofag': /penyakit|diare|imun|vaksin|campak|menular|infeksi|flu|demam/,
+};
+
+const BEFORE = /(?:mirip|seperti|menyerupai|bagaikan|layaknya|daging|susu|sate|sop|soto|bulu|kulit|pukat)\s+(?:\S+\s+)?$/;
+// Also non-biology uses of the word: "mata tunas", "hidung pesawat", "kulit batang".
+const AFTER_FOOD = /^\s+(?:goreng|bakar|panggang|rebus|geprek|potong|tunas|gergaji|pencaharian|uang|pisau|angin|air|kaki|pelajaran|rantai|pesawat|kereta|batang|pohon|buah|kayu|telur|bawang|jeruk)\b/;
 // A breed or species word right after the name means a different animal than the one drawn.
-const AFTER_BREED = /^\s+(?:holstein|brahman|limosin|siam|anggora|angora|persia|hutan|liar|sanca|piton|kobra|boa|hijau|laut|air tawar|komodo|kampung jantan)\b/;
+const AFTER_BREED = /^\s+(?:holstein|brahman|limosin|siam|anggora|angora|persia|hutan|liar|sanca|piton|kobra|boa|hijau|laut|air tawar|komodo|kampung jantan|hitam|putih|kotak)\b/;
 
 const OBJECTS = OBJEK_FOTO.map((o) => {
   const kw = (KW_OVERRIDE[o.id] ?? o.kw).replace(/\\b/g, '');
   // Catalog kw is a regex source with its own \b; whole-word guards replace it consistently.
   return { ...o, re: new RegExp(`(?<![a-z])(?:${kw})(?![a-z])`, 'gi') };
 });
-const OTHER_RE = new RegExp(`(?<![a-z])(?:${OTHER_ORGANISMS
-  .filter((w) => !OBJECTS.some((o) => { o.re.lastIndex = 0; return o.re.test(w); }))
-  .join('|')})(?![a-z])`);
+const OTHER_RE = new RegExp(`(?<![a-z])(?:${[
+  ...OTHER_ORGANISMS.filter((w) => !OBJECTS.some((o) => { o.re.lastIndex = 0; return o.re.test(w); })),
+  // "burung" alone is a second animal ("burung dan ayam"); "burung elang" is just the eagle.
+  String.raw`burung(?!\s+(?:elang|cenderawasih|jalak|maleo|unta))`,
+].join('|')})(?![a-z])`);
 
 const plain = (text) => String(text ?? '')
   .replace(/```[\s\S]*?```/g, ' ')
@@ -65,6 +119,8 @@ const plain = (text) => String(text ?? '')
 function hitsIn(stem, raw) {
   const hits = [];
   for (const o of OBJECTS) {
+    // matchAll starts from the regex's lastIndex, which an earlier .test() may have left behind.
+    o.re.lastIndex = 0;
     const mentions = [...stem.matchAll(o.re)].map((m) => {
       const before = stem.slice(Math.max(0, m.index - 30), m.index);
       const after = stem.slice(m.index + m[0].length, m.index + m[0].length + 20);
@@ -113,27 +169,34 @@ function inCommaList(stem, o) {
 }
 
 /**
- * @returns {{id:'objek-foto', title:string, objek:{id:string,file:string}}|null}
+ * @returns {{id:'objek-foto', title:string, objek:{id:string,file:string,dark:boolean}}|null}
  */
-export function matchObjekFoto(question, packageSubject) {
+export function matchObjekFoto(question, packageSubject, { anyPicture = false } = {}) {
   // MTK story problems name animals too ("Pak Budi punya 12 ayam"); those never get a picture.
   if ([packageSubject, question?.subTopic].some((s) => String(s ?? '').toLowerCase() === 'mtk')) return null;
   const raw = String(question?.question ?? '').replace(/```[\s\S]*?```/g, ' ').replace(/[*_`]/g, '');
   const stem = raw.toLowerCase();
   if (!stem.trim()) return null;
   if (/→|->|⇒/.test(stem) || OTHER_RE.test(stem)) return null;
+  // A bullet list of pairs/cases is a matching task, not a soal about one object.
+  if ((stem.match(/(^|\n)\s*-\s/g) ?? []).length >= 2) return null;
+  // "Perhatikan gambar berikut": our picture would be mistaken for the soal's own (missing) figure.
+  if (/perhatikan gambar|gambar berikut|gambar di (atas|bawah)|^gambar\s/.test(stem.trim())) return null;
 
   const hit = single(hitsIn(stem, raw), stem);
-  if (!hit?.o.file) return null;
+  // anyPicture: audit only, to rank which unreviewed objects would unlock the most soal.
+  if (!hit || (!hit.o.file && !anyPicture)) return null;
   if (hit.mentions.some((m) => m.otherKind || m.notTheAnimal)) return null;
   if (hit.mentions.every((m) => m.young)) return null;
   const { o } = hit;
+  if (NOT_FOR[o.id]?.test(stem)) return null;
+  if (REQUIRE[o.id] && !REQUIRE[o.id].test(stem)) return null;
   for (const opt of Object.values(question?.options ?? {})) {
     o.re.lastIndex = 0;
     if (o.re.test(plain(opt))) return null;
   }
   if (inCommaList(stem, o)) return null;
-  return { id: 'objek-foto', title: o.title, objek: { id: o.id, file: o.file } };
+  return { id: 'objek-foto', title: o.title, objek: { id: o.id, file: o.file, dark: Boolean(o.dark) } };
 }
 
 /** Figure for a soal: the reviewed object picture when the soal is plainly about one object,

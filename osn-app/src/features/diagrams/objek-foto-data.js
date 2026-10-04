@@ -81,7 +81,8 @@ export const OBJEK_FOTO = [
     "id": "katak",
     "title": "Katak",
     "kw": "katak|kodok",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/katak.webp"
   },
   {
     "id": "ikan-mas",
@@ -94,13 +95,15 @@ export const OBJEK_FOTO = [
     "id": "hiu",
     "title": "Hiu",
     "kw": "\\bhiu\\b",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/hiu.webp"
   },
   {
     "id": "cicak",
     "title": "Cicak",
     "kw": "cicak|tokek",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/cicak.webp"
   },
   {
     "id": "bunglon",
@@ -134,31 +137,37 @@ export const OBJEK_FOTO = [
     "id": "komodo",
     "title": "Komodo",
     "kw": "komodo",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/komodo.webp"
   },
   {
     "id": "anoa",
     "title": "Anoa",
     "kw": "anoa",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/anoa.webp"
   },
   {
     "id": "jalak-bali",
     "title": "Jalak Bali",
     "kw": "jalak bali",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/jalak-bali.webp",
+    "dark": true
   },
   {
     "id": "orangutan",
     "title": "Orangutan",
     "kw": "orang ?utan",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/orangutan.webp"
   },
   {
     "id": "harimau-sumatra",
     "title": "Harimau Sumatra",
     "kw": "harimau",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/harimau-sumatra.webp"
   },
   {
     "id": "badak-jawa",
@@ -171,13 +180,15 @@ export const OBJEK_FOTO = [
     "id": "cenderawasih",
     "title": "Burung Cenderawasih",
     "kw": "cendrawasih|cenderawasih",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/cenderawasih.webp"
   },
   {
     "id": "maleo",
     "title": "Maleo",
     "kw": "maleo",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/maleo.webp"
   },
   {
     "id": "tarsius",
@@ -190,91 +201,107 @@ export const OBJEK_FOTO = [
     "id": "gajah-sumatra",
     "title": "Gajah Sumatra",
     "kw": "gajah",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/gajah-sumatra.webp"
   },
   {
     "id": "bintang-laut",
     "title": "Bintang laut",
     "kw": "bintang laut",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bintang-laut.webp"
   },
   {
     "id": "spons-porifera",
     "title": "Spons laut",
     "kw": "porifera|spons|karang",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/spons-porifera.webp"
   },
   {
     "id": "ubur-ubur",
     "title": "Ubur-ubur",
     "kw": "ubur-ubur",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/ubur-ubur.webp",
+    "dark": true
   },
   {
     "id": "cacing-tanah",
     "title": "Cacing tanah",
     "kw": "cacing",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/cacing-tanah.webp"
   },
   {
     "id": "bekicot",
     "title": "Bekicot",
     "kw": "bekicot|siput",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bekicot.webp"
   },
   {
     "id": "cumi-cumi",
     "title": "Cumi-cumi",
     "kw": "cumi|gurita",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/cumi-cumi.webp"
   },
   {
     "id": "kerang",
     "title": "Kerang",
     "kw": "kerang|tiram",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kerang.webp"
   },
   {
     "id": "kepiting",
     "title": "Kepiting",
     "kw": "kepiting|udang",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kepiting.webp"
   },
   {
     "id": "laba-laba",
     "title": "Laba-laba",
     "kw": "laba-laba",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/laba-laba.webp"
   },
   {
     "id": "semut",
     "title": "Semut",
     "kw": "\\bsemut",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/semut.webp"
   },
   {
     "id": "lebah",
     "title": "Lebah madu",
     "kw": "lebah",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/lebah.webp"
   },
   {
     "id": "belalang",
     "title": "Belalang",
     "kw": "belalang",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/belalang.webp"
   },
   {
     "id": "kecoak",
     "title": "Kecoak",
     "kw": "kecoak?",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kecoak.webp"
   },
   {
     "id": "capung",
     "title": "Capung",
     "kw": "capung",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/capung.webp"
   },
   {
     "id": "nyamuk-aedes",
@@ -287,13 +314,15 @@ export const OBJEK_FOTO = [
     "id": "lalat",
     "title": "Lalat rumah",
     "kw": "lalat",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/lalat.webp"
   },
   {
     "id": "daur-kupu-kupu-set",
     "title": "Metamorfosis sempurna kupu-kupu",
     "kw": "kupu-kupu|kepompong|ulat|pupa|larva",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/daur-kupu-kupu-set.webp"
   },
   {
     "id": "kupu-kupu",
@@ -305,43 +334,50 @@ export const OBJEK_FOTO = [
     "id": "ulat",
     "title": "Ulat",
     "kw": "ulat",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/ulat.webp"
   },
   {
     "id": "kepompong",
     "title": "Kepompong",
     "kw": "kepompong|pupa",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kepompong.webp"
   },
   {
     "id": "daur-katak-set",
     "title": "Daur hidup katak",
     "kw": "katak|berudu|kecebong",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/daur-katak-set.webp"
   },
   {
     "id": "daur-nyamuk-set",
     "title": "Daur hidup nyamuk",
     "kw": "nyamuk|jentik",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/daur-nyamuk-set.webp"
   },
   {
     "id": "daur-kecoak-set",
     "title": "Metamorfosis tidak sempurna kecoak",
     "kw": "nimfa|kecoak?|belalang",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/daur-kecoak-set.webp"
   },
   {
     "id": "tanaman-jagung",
     "title": "Tanaman jagung",
     "kw": "jagung|monokotil|serabut",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/tanaman-jagung.webp"
   },
   {
     "id": "tanaman-kacang",
     "title": "Tanaman kacang tanah",
     "kw": "kacang|dikotil|tunggang",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/tanaman-kacang.webp"
   },
   {
     "id": "biji-mono-dikotil-set",
@@ -353,37 +389,43 @@ export const OBJEK_FOTO = [
     "id": "daun-sejajar-menyirip-menjari-set",
     "title": "Tulang daun: sejajar, melengkung, menyirip, menjari",
     "kw": "tulang daun|menyirip|menjari|sejajar|melengkung",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/daun-sejajar-menyirip-menjari-set.webp"
   },
   {
     "id": "lumut",
     "title": "Lumut",
     "kw": "lumut",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/lumut.webp"
   },
   {
     "id": "paku",
     "title": "Tumbuhan paku",
     "kw": "\\bpaku\\b|pakis|pteridophyta",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/paku.webp"
   },
   {
     "id": "pinus-konus",
     "title": "Pinus & runjung",
     "kw": "pinus|runjung|gymnosperm|berbiji terbuka|melinjo",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/pinus-konus.webp"
   },
   {
     "id": "bunga-sepatu",
     "title": "Bunga sepatu",
     "kw": "kembang sepatu|bunga sepatu|benang sari|putik|mahkota|kelopak",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bunga-sepatu.webp"
   },
   {
     "id": "bunga-penampang",
     "title": "Penampang bunga sempurna",
     "kw": "benang sari|putik|kepala sari|kepala putik|bakal buah|tangkai sari",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bunga-penampang.webp"
   },
   {
     "id": "akar-tunggang-serabut-set",
@@ -396,67 +438,78 @@ export const OBJEK_FOTO = [
     "id": "kentang-bertunas",
     "title": "Umbi batang kentang",
     "kw": "kentang|umbi",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kentang-bertunas.webp"
   },
   {
     "id": "bawang-merah",
     "title": "Umbi lapis bawang merah",
     "kw": "bawang|umbi lapis",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bawang-merah.webp"
   },
   {
     "id": "jahe-rimpang",
     "title": "Rimpang jahe",
     "kw": "jahe|kunyit|rimpang|lengkuas",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/jahe-rimpang.webp"
   },
   {
     "id": "stroberi-geragih",
     "title": "Geragih stroberi",
     "kw": "geragih|stolon|stroberi|pegagan",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/stroberi-geragih.webp"
   },
   {
     "id": "cocor-bebek",
     "title": "Cocor bebek",
     "kw": "cocor bebek|tunas adventif",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/cocor-bebek.webp"
   },
   {
     "id": "singkong-stek",
     "title": "Stek batang singkong",
     "kw": "stek|singkong",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/singkong-stek.webp"
   },
   {
     "id": "kaktus",
     "title": "Kaktus",
     "kw": "kaktus|xerofit",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kaktus.webp"
   },
   {
     "id": "teratai",
     "title": "Teratai",
     "kw": "teratai|hidrofit",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/teratai.webp"
   },
   {
     "id": "eceng-gondok",
     "title": "Eceng gondok",
     "kw": "eceng|enceng",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/eceng-gondok.webp"
   },
   {
     "id": "bakau",
     "title": "Bakau",
     "kw": "bakau|mangrove|halofit",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bakau.webp"
   },
   {
     "id": "kantong-semar",
     "title": "Kantong semar",
     "kw": "kantong semar|nepenthes|karnivora",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kantong-semar.webp"
   },
   {
     "id": "putri-malu",
@@ -468,67 +521,78 @@ export const OBJEK_FOTO = [
     "id": "anggrek-bulan",
     "title": "Anggrek bulan",
     "kw": "anggrek",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/anggrek-bulan.webp"
   },
   {
     "id": "rafflesia",
     "title": "Rafflesia arnoldii",
     "kw": "rafflesia|padma",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/rafflesia.webp"
   },
   {
     "id": "bunga-bangkai",
     "title": "Bunga bangkai",
     "kw": "bunga bangkai|amorphophallus|suweg",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bunga-bangkai.webp"
   },
   {
     "id": "benalu",
     "title": "Benalu pada ranting",
     "kw": "benalu|tali putri",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/benalu.webp"
   },
   {
     "id": "lichen",
     "title": "Lumut kerak",
     "kw": "lichen|lumut kerak",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/lichen.webp"
   },
   {
     "id": "ikan-badut-anemon",
     "title": "Ikan badut & anemon laut",
     "kw": "anemon|ikan badut",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/ikan-badut-anemon.webp"
   },
   {
     "id": "kerbau-jalak",
     "title": "Kerbau & burung jalak",
     "kw": "kerbau|jalak",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kerbau-jalak.webp"
   },
   {
     "id": "jamur-tiram",
     "title": "Jamur tiram",
     "kw": "jamur",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/jamur-tiram.webp"
   },
   {
     "id": "jamur-rhizopus",
     "title": "Jamur tempe Rhizopus",
     "kw": "rhizopus|hifa|miselium|spora",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/jamur-rhizopus.webp"
   },
   {
     "id": "sel-ragi",
     "title": "Ragi",
     "kw": "ragi|khamir|saccharomyces",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/sel-ragi.webp"
   },
   {
     "id": "bakteri-bentuk-set",
     "title": "Bakteri",
     "kw": "bakteri|monera|kokus|basil",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/bakteri-bentuk-set.webp"
   },
   {
     "id": "amoeba",
@@ -540,49 +604,57 @@ export const OBJEK_FOTO = [
     "id": "paramecium",
     "title": "Paramecium",
     "kw": "paramecium|silia|protista",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/paramecium.webp"
   },
   {
     "id": "euglena",
     "title": "Euglena",
     "kw": "euglena|protista",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/euglena.webp"
   },
   {
     "id": "virus-bakteriofag",
     "title": "Virus",
     "kw": "virus",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/virus-bakteriofag.webp"
   },
   {
     "id": "sel-hewan",
     "title": "Sel hewan",
     "kw": "sel hewan|organel|membran sel|mitokondria|nukleus|inti sel",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/sel-hewan.webp"
   },
   {
     "id": "sel-tumbuhan",
     "title": "Sel tumbuhan",
     "kw": "sel tumbuhan|dinding sel|kloroplas|vakuola",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/sel-tumbuhan.webp"
   },
   {
     "id": "kloroplas",
     "title": "Kloroplas",
     "kw": "kloroplas|klorofil",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/kloroplas.webp"
   },
   {
     "id": "penampang-daun",
     "title": "Penampang melintang daun",
     "kw": "jaringan|stomata|mesofil|palisade|epidermis",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/penampang-daun.webp"
   },
   {
     "id": "stomata",
     "title": "Stomata",
     "kw": "stomata|mulut daun",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/stomata.webp"
   },
   {
     "id": "hydrilla-ingenhousz",
@@ -594,67 +666,78 @@ export const OBJEK_FOTO = [
     "id": "tempe-tape-set",
     "title": "Hasil fermentasi: tempe, tape singkong, tape ketan",
     "kw": "tempe|tape|fermentasi",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/tempe-tape-set.webp"
   },
   {
     "id": "sistem-pencernaan",
     "title": "Sistem pencernaan lengkap",
     "kw": "pencernaan|kerongkongan|lambung|usus",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/sistem-pencernaan.webp"
   },
   {
     "id": "gigi-jenis-set",
     "title": "Jenis gigi: seri, taring, geraham kecil, geraham besar",
     "kw": "gigi",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/gigi-jenis-set.webp"
   },
   {
     "id": "gigi-penampang",
     "title": "Penampang gigi",
     "kw": "email|dentin|pulpa|gigi",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/gigi-penampang.webp"
   },
   {
     "id": "lidah",
     "title": "Lidah",
     "kw": "lidah|pengecap|papila",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/lidah.webp"
   },
   {
     "id": "lambung",
     "title": "Lambung",
     "kw": "lambung|maag|pepsin|asam lambung",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/lambung.webp"
   },
   {
     "id": "hati-empedu",
     "title": "Hati & kantong empedu",
     "kw": "\\bhati\\b|empedu",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/hati-empedu.webp"
   },
   {
     "id": "pankreas",
     "title": "Pankreas",
     "kw": "pankreas|insulin",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/pankreas.webp"
   },
   {
     "id": "usus-halus-besar",
     "title": "Usus halus & usus besar",
     "kw": "usus|umbai cacing|apendiks|apendisitis|vili",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/usus-halus-besar.webp"
   },
   {
     "id": "vili-usus",
     "title": "Vili usus halus",
     "kw": "vili|jonjot|penyerapan",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/vili-usus.webp"
   },
   {
     "id": "sistem-pernapasan",
     "title": "Sistem pernapasan",
     "kw": "pernapasan|paru-paru|trakea|bronkus|tenggorok",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/sistem-pernapasan.webp"
   },
   {
     "id": "paru-paru",
@@ -667,13 +750,15 @@ export const OBJEK_FOTO = [
     "id": "alveolus",
     "title": "Alveolus",
     "kw": "alveol(?:us|i)|pertukaran gas",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/alveolus.webp"
   },
   {
     "id": "insang-ikan",
     "title": "Insang ikan",
     "kw": "insang",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/insang-ikan.webp"
   },
   {
     "id": "jantung",
@@ -686,13 +771,15 @@ export const OBJEK_FOTO = [
     "id": "jantung-penampang",
     "title": "Penampang jantung",
     "kw": "serambi|bilik|katup|septum",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/jantung-penampang.webp"
   },
   {
     "id": "pembuluh-darah-set",
     "title": "Pembuluh darah: arteri, vena, kapiler",
     "kw": "arteri|vena|kapiler|pembuluh",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/pembuluh-darah-set.webp"
   },
   {
     "id": "sel-darah-set",
@@ -704,13 +791,15 @@ export const OBJEK_FOTO = [
     "id": "sistem-urinaria",
     "title": "Sistem ekskresi ginjal",
     "kw": "ginjal|ureter|kandung kemih|uretra|urin",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/sistem-urinaria.webp"
   },
   {
     "id": "ginjal-penampang",
     "title": "Penampang ginjal",
     "kw": "ginjal|korteks|medula|nefron|pelvis",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/ginjal-penampang.webp"
   },
   {
     "id": "nefron",
@@ -722,7 +811,8 @@ export const OBJEK_FOTO = [
     "id": "kulit-penampang",
     "title": "Penampang kulit",
     "kw": "kulit|keringat|epidermis|dermis",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/kulit-penampang.webp"
   },
   {
     "id": "otak",
@@ -740,7 +830,8 @@ export const OBJEK_FOTO = [
     "id": "mata",
     "title": "Bola mata",
     "kw": "\\bmata\\b|retina|kornea|iris|pupil|lensa mata",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/mata.webp"
   },
   {
     "id": "mata-penampang",
@@ -758,7 +849,8 @@ export const OBJEK_FOTO = [
     "id": "hidung-penampang",
     "title": "Penampang hidung",
     "kw": "hidung|pembau|penciuman|olfaktori",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/hidung-penampang.webp"
   },
   {
     "id": "kerangka-manusia",
@@ -776,7 +868,8 @@ export const OBJEK_FOTO = [
     "id": "tulang-belakang",
     "title": "Tulang belakang",
     "kw": "tulang belakang|ruas|vertebra|skoliosis|lordosis|kifosis",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/tulang-belakang.webp"
   },
   {
     "id": "tulang-rusuk",
@@ -794,7 +887,8 @@ export const OBJEK_FOTO = [
     "id": "sendi-set",
     "title": "Jenis sendi: peluru, engsel, putar, pelana",
     "kw": "sendi",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/sendi-set.webp"
   },
   {
     "id": "otot-lengan",
@@ -812,7 +906,8 @@ export const OBJEK_FOTO = [
     "id": "reproduksi-wanita",
     "title": "Organ reproduksi wanita",
     "kw": "rahim|ovarium|indung telur|tuba|uterus|menstruasi",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/reproduksi-wanita.webp"
   },
   {
     "id": "reproduksi-pria",
@@ -830,7 +925,8 @@ export const OBJEK_FOTO = [
     "id": "janin-rahim",
     "title": "Janin dalam rahim",
     "kw": "janin|kehamilan|plasenta|tali pusat|embrio",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/janin-rahim.webp"
   },
   {
     "id": "isi-piringku",
@@ -848,7 +944,8 @@ export const OBJEK_FOTO = [
     "id": "sumber-protein-set",
     "title": "Sumber protein",
     "kw": "protein|tempe|tahu|daging|telur|ikan",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/sumber-protein-set.webp"
   },
   {
     "id": "sumber-lemak-set",
@@ -884,7 +981,8 @@ export const OBJEK_FOTO = [
     "id": "bakteri-tbc",
     "title": "Bakteri TBC",
     "kw": "tbc|tuberkulosis|mycobacterium",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/bakteri-tbc.webp"
   },
   {
     "id": "vaksin-suntik",
@@ -902,7 +1000,8 @@ export const OBJEK_FOTO = [
     "id": "alat-kebersihan-set",
     "title": "Alat kebersihan diri",
     "kw": "sikat gigi|sabun|cuci tangan|pasta gigi|handuk|shampo|gunting kuku",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/alat-kebersihan-set.webp"
   },
   {
     "id": "tensimeter",
@@ -920,7 +1019,8 @@ export const OBJEK_FOTO = [
     "id": "stetoskop",
     "title": "Stetoskop",
     "kw": "stetoskop|denyut|detak",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/stetoskop.webp"
   },
   {
     "id": "fermentasi-produk-set",
@@ -938,7 +1038,8 @@ export const OBJEK_FOTO = [
     "id": "bola-sepak",
     "title": "Bola sepak",
     "kw": "bola sepak|sepak bola|menendang",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/bola-sepak.webp"
   },
   {
     "id": "plastisin",
@@ -956,7 +1057,8 @@ export const OBJEK_FOTO = [
     "id": "jungkat-jungkit",
     "title": "Jungkat-jungkit",
     "kw": "jungkat-jungkit",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/jungkat-jungkit.webp"
   },
   {
     "id": "tuas-jenis-1-set",

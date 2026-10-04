@@ -34,7 +34,7 @@
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kupu-kupu/p01-realistis-turnaround.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of an adult common lime butterfly (Papilio demoleus). Wings open. Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
+Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of an adult common lime butterfly (Papilio demoleus). Wings open. TAILLESS swallowtail: the hindwings have a smooth scalloped edge with NO tail streamers (Papilio demoleus has no tails). Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -51,7 +51,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kupu-kupu/p02-realistis-depan.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of an adult common lime butterfly (Papilio demoleus). Wings open. Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
+Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of an adult common lime butterfly (Papilio demoleus). Wings open. TAILLESS swallowtail: the hindwings have a smooth scalloped edge with NO tail streamers (Papilio demoleus has no tails). Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -96,7 +96,7 @@ Using the exact same adult common lime butterfly (Papilio demoleus) from the pre
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kupu-kupu/p06-ilustrasi-turnaround.png`
 
 ```text
-High-quality, highly detailed educational illustration of an adult common lime butterfly (Papilio demoleus). Wings open. Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
+High-quality, highly detailed educational illustration of an adult common lime butterfly (Papilio demoleus). Wings open. TAILLESS swallowtail: the hindwings have a smooth scalloped edge with NO tail streamers (Papilio demoleus has no tails). Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real adult common lime butterfly (Papilio demoleus).
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
@@ -114,7 +114,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kupu-kupu/p07-ilustrasi-depan.png`
 
 ```text
-High-quality, highly detailed educational illustration of an adult common lime butterfly (Papilio demoleus). Wings open. Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
+High-quality, highly detailed educational illustration of an adult common lime butterfly (Papilio demoleus). Wings open. TAILLESS swallowtail: the hindwings have a smooth scalloped edge with NO tail streamers (Papilio demoleus has no tails). Black wings with scattered yellow spots and bands, red and blue eyespot near the hindwing, scaled wing texture (tiny overlapping scales visible up close), club-tipped antennae, coiled proboscis, six legs.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real adult common lime butterfly (Papilio demoleus).
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.

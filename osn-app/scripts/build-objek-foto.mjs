@@ -86,6 +86,8 @@ for (const o of objects) {
     kw: o.kw,
     bab: o.bab,
     ...(file ? { file } : {}),
+    // generated on a black background (catalog bg: 'k'); the frame must match it
+    ...(file && o.bg === 'k' ? { dark: true } : {}),
   });
 }
 

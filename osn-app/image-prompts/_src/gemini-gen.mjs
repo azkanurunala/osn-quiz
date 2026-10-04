@@ -26,6 +26,11 @@ const SLOTS = opt('--slots')?.split(',');
 // --hemat: per objek hanya 1 ilustrasi tampak depan/atas + penampang dibelah (kalau ada), model termurah
 const HEMAT = flag('--hemat');
 const HEMAT_RE = /p\d+-(ilustrasi-(depan|atas)|penampang-belah)\.png$/;
+// --fix: tambahkan prompt koreksi dari review sebelumnya (_review.json, kunci "<id>/<slot>.lama")
+const FIX = flag('--fix');
+// Lembar turnaround tidak di-generate (model hampir selalu salah menyusun 4 panel); disusun oleh montase-turnaround.py
+// dari 4 tampak tunggal yang lolos review. --turnaround untuk tetap meminta ke model.
+const TURN = flag('--turnaround');
 const MODEL = opt('--model') || process.env.GEMINI_IMAGE_MODEL || 'gemini-2.5-flash-image';
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
@@ -119,6 +124,14 @@ function sessions(slots) {
   return out;
 }
 
+const realFile = (p) => ['.png', '.jpg', '.jpeg', '.webp'].map(e => p.replace(/\.png$/, e)).find(q => fs.existsSync(q));
+const REVIEW = FIX ? JSON.parse(fs.readFileSync(path.join(APP, 'image-results', '_review.json'), 'utf8')) : {};
+function fixNote(out) {
+  const key = path.basename(path.dirname(out)) + '/' + path.basename(out, '.png');
+  const c = REVIEW[key + '.lama']?.catatan;
+  const m = c && [...c.matchAll(/"([^"]{8,})"/g)].map(x => x[1]).join(' ');
+  return m ? `\n\nCORRECTION (a previous attempt was rejected by a science reviewer; fix this): ${m}` : '';
+}
 const exists = (p) => ['.png', '.jpg', '.jpeg', '.webp'].some(e => fs.existsSync(p.replace(/\.png$/, e)));
 const mime = (p) => p.endsWith('.png') ? 'image/png' : 'image/jpeg';
 
@@ -130,7 +143,7 @@ for (const id of ids) {
   const { acuanLine, acuan, slots } = parse(id);
   console.log(`\n■ ${id} — ${slots.length} slot, ${acuan.length} acuan, model ${MODEL}`);
   for (const sess of sessions(slots)) {
-    const want = sess.filter(s => (!SLOTS || SLOTS.includes(`p${String(s.n).padStart(2, '0')}`)) && (!HEMAT || HEMAT_RE.test(s.out)));
+    const want = sess.filter(s => (!SLOTS || SLOTS.includes(`p${String(s.n).padStart(2, '0')}`)) && (!HEMAT || HEMAT_RE.test(s.out)) && (TURN || !/-turnaround\.png$/.test(s.out)));
     if (!want.length) continue;
     if (!FORCE && want.every(s => exists(s.out))) { skipped += want.length; console.log(`  ↷ lewati ${want.map(s => 'p' + s.n).join(',')} (sudah ada)`); continue; }
     // follow-up butuh gambar depan di sesi yang sama → kalau slot follow-up diminta, jalankan seluruh sesinya
@@ -138,11 +151,21 @@ for (const id of ids) {
     const history = [];
     for (const s of run) {
       const parts = [];
+      const keep = !want.includes(s) && realFile(s.out);   // gambar lama yang sudah lolos: pakai sebagai konteks sesi, jangan ditimpa
+      if (keep && !DRY) {
+        if (!s.followUp && acuan.length) {
+          for (const a of acuan) parts.push({ inline_data: { mime_type: mime(a), data: fs.readFileSync(a).toString('base64') } });
+          if (acuanLine) parts.push({ text: acuanLine });
+        }
+        parts.push({ text: s.text });
+        history.push({ role: 'user', parts }, { role: 'model', parts: [{ inline_data: { mime_type: mime(keep), data: fs.readFileSync(keep).toString('base64') } }] });
+        continue;
+      }
       if (!s.followUp && acuan.length) {
         for (const a of acuan) parts.push({ inline_data: { mime_type: mime(a), data: fs.readFileSync(a).toString('base64') } });
         if (acuanLine) parts.push({ text: acuanLine });
       }
-      parts.push({ text: s.text });
+      parts.push({ text: s.text + (FIX ? fixNote(s.out) : '') });
       const tag = `p${String(s.n).padStart(2, '0')}`;
       if (DRY) { console.log(`  • ${tag}${s.followUp ? ' (lanjutan sesi)' : ''} → ${path.relative(APP, s.out)} [${parts.length - 1} lampiran]`); continue; }
       history.push({ role: 'user', parts });
