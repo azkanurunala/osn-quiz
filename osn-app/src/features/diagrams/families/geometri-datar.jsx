@@ -51,7 +51,7 @@ export function BangunDatar({ motion }) {
       {label(415, 150, 'a', PURPLE, 12)}
       {label(407, 96, 't', PURPLE, 12, 'end')}
       {label(422, 168, 'L = a × t', PURPLE, 12)}
-      {label(422, 190, 'K = 2(a + b)', MUTE, 11)}
+      {label(422, 190, 'K = jumlah 4 sisi', MUTE, 11)}
     </>
   );
 }

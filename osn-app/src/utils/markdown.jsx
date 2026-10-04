@@ -26,6 +26,26 @@ export function InlineMarkdown({ text, dark = false }) {
   return <>{renderInline(flattenTextBars(text), 'inl', dark)}</>;
 }
 
+/**
+ * Teks soal: inline markdown, tetapi blok ``` dipertahankan tata letaknya (mis. jaring-jaring dari
+ * kotak [ ]). InlineMarkdown saja meratakannya jadi satu baris dan menampilkan tanda ``` mentah.
+ * Blok data grafik sebaiknya sudah dibuang dulu dengan stripDataBlocks() bila diagramnya digambar.
+ */
+export function QuestionMarkdown({ text, dark = false }) {
+  const s = String(text ?? '');
+  if (!s.includes('```')) return <InlineMarkdown text={s} dark={dark} />;
+  const parts = s.split(/```[a-z]*\n?([\s\S]*?)(?:```|$)/i);
+  return (
+    <>
+      {parts.map((part, i) => (i % 2 === 1 ? (
+        <pre key={i} className={`my-3 w-fit max-w-full overflow-x-auto rounded-xl px-4 py-3 font-mono text-[0.8em] leading-snug ${dark ? 'bg-slate-800 text-slate-100' : 'border border-gray-200 bg-white/70 text-gray-800'}`}>{part.replace(/\s+$/, '')}</pre>
+      ) : (
+        <InlineMarkdown key={i} text={part} dark={dark} />
+      )))}
+    </>
+  );
+}
+
 export function MarkdownText({ text, dark = false }) {
   if (!text) return null;
   const lines = String(text).split('\n');

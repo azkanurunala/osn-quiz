@@ -12,6 +12,14 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
     fontFamily="'IBM Plex Sans',system-ui,sans-serif">{str}</text>
 );
 
+// "1.500.000" -> 1500000, "2,5" -> 2.5
+const num = (s) => Number(String(s).replace(/\.(?=\d{3}\b)/g, '').replace(',', '.'));
+// 1500000 -> "1.500.000", 2.5 -> "2,5"
+const fmt = (n) => {
+  const [i, d] = String(Math.round(n * 1000) / 1000).split('.');
+  return i.replace(/\B(?=(\d{3})+(?!\d))/g, '.') + (d ? `,${d}` : '');
+};
+
 // ------------------------------------------------------------------ tangga satuan
 export function TanggaSatuan({ motion }) {
   const units = [
@@ -48,29 +56,33 @@ export function TanggaSatuan({ motion }) {
       {label(310, 98, 'naik (kiri) → ÷10', BLUE, 12, 'start')}
       {label(310, 130, 'setiap turun 1 tangga,', MUTE, 11, 'start')}
       {label(310, 148, 'koma bergeser 1 langkah', MUTE, 11, 'start')}
-      {label(40, 286, 'luas: turun ×100 · naik ÷100     volume: turun ×1000 · naik ÷1000', PURPLE, 11, 'start')}
+      {label(40, 286, 'luas: turun ×100, naik ÷100  ·  volume: turun ×1000, naik ÷1000', PURPLE, 11, 'start')}
     </>
   );
 }
 
 // ------------------------------------------------------------------ kecepatan, jarak, waktu
+// The "magic triangle": jarak (s) on top, kecepatan (V) and waktu (t) below. Cover the one you
+// want: s = V × t (side by side), V = s ÷ t and t = s ÷ V (one over the other).
 export function KecepatanJarakWaktu({ motion }) {
   return (
     <>
       <g {...anim(motion, 'ix-pulse', { duration: 2.6 })}>
-        <polygon points="180,74 262,198 98,198" fill="#0f172a" stroke={INK} strokeWidth="3" />
+        <polygon points="180,62 272,206 88,206" fill="#0f172a" stroke={INK} strokeWidth="3" />
       </g>
-      {label(180, 120, 'V', AMBER, 20)}
-      {label(118, 178, 's', GREEN, 18)}
-      {label(242, 178, 't', BLUE, 18)}
-
-      {label(180, 236, 'V = kecepatan (km/jam)', MUTE, 11)}
+      <line x1="124" y1="150" x2="236" y2="150" stroke={INK} strokeWidth="2.5" />
+      <line x1="180" y1="150" x2="180" y2="206" stroke={INK} strokeWidth="2.5" />
+      {label(180, 132, 's', GREEN, 22)}
+      {label(150, 188, 'V', AMBER, 20)}
+      {label(210, 188, 't', BLUE, 20)}
+      {label(180, 236, 's = jarak · V = kecepatan · t = waktu', MUTE, 11)}
 
       {label(320, 84, 'Rumus', INK, 13, 'start')}
-      {label(320, 120, 'V = s ÷ t', AMBER, 14, 'start')}
-      {label(320, 156, 's = V × t', GREEN, 14, 'start')}
+      {label(320, 120, 's = V × t', GREEN, 14, 'start')}
+      {label(320, 156, 'V = s ÷ t', AMBER, 14, 'start')}
       {label(320, 192, 't = s ÷ V', BLUE, 14, 'start')}
-      {label(320, 230, 's = jarak, t = waktu', MUTE, 11, 'start')}
+      {label(320, 230, 'tutup yang dicari,', MUTE, 11, 'start')}
+      {label(320, 248, 'sisanya rumusnya', MUTE, 11, 'start')}
     </>
   );
 }
@@ -106,7 +118,21 @@ export function Debit({ motion }) {
 }
 
 // ------------------------------------------------------------------ skala peta
-export function SkalaPeta({ motion }) {
+// Uses the soal's own scale and map distance. The worked result is the answer to most of these soal,
+// so it is shown only in the explanation phase; without readable numbers only the rule is shown.
+function realDistance(cm) {
+  if (cm >= 100000) return `${fmt(cm / 100000)} km`;
+  if (cm >= 100) return `${fmt(cm / 100)} m`;
+  return `${fmt(cm)} cm`;
+}
+
+export function SkalaPeta({ motion, question }) {
+  const text = String(question?.question ?? '');
+  const scaleRaw = text.match(/1\s*:\s*(\d[\d.]*)/)?.[1];
+  const scale = scaleRaw ? num(scaleRaw) : null;
+  const cmRaw = text.match(/(\d+(?:,\d+)?)\s*cm\b/)?.[1];
+  const cm = cmRaw && /peta|denah|maket/i.test(text) ? num(cmRaw) : null;
+  const worked = scale && cm;
   return (
     <>
       <rect x="46" y="68" width="214" height="154" rx="10" fill="#0f172a" stroke={GREEN} strokeWidth="2.5" />
@@ -119,14 +145,20 @@ export function SkalaPeta({ motion }) {
       <circle cx="216" cy="104" r="7" fill={AMBER} stroke="#0f172a" strokeWidth="2" />
       {label(76, 186, 'A', BLUE, 13)}
       {label(226, 96, 'B', AMBER, 13)}
-      {label(150, 244, 'jarak pada peta = 4 cm', MUTE, 11)}
+      {label(150, 248, cm ? `jarak pada peta = ${fmt(cm)} cm` : 'jarak pada peta', MUTE, 12)}
 
-      {label(348, 92, 'Skala 1 : 500.000', INK, 13)}
-      {label(348, 132, 'jarak sebenarnya', GREEN, 12)}
-      {label(348, 156, '= jarak peta × skala', GREEN, 12)}
-      {label(348, 182, '= 4 × 500.000', AMBER, 12)}
-      {label(348, 208, '= 2.000.000 cm', AMBER, 12)}
-      {label(348, 234, '= 20 km', PURPLE, 14)}
+      {label(380, 84, scale ? `Skala 1 : ${fmt(scale)}` : 'Skala 1 : n', INK, 14)}
+      {label(380, 114, '1 cm di peta =', MUTE, 11)}
+      {label(380, 132, scale ? `${fmt(scale)} cm sebenarnya` : 'n cm sebenarnya', MUTE, 11)}
+      {label(380, 164, 'jarak sebenarnya', GREEN, 12)}
+      {label(380, 184, '= jarak peta × skala', GREEN, 12)}
+      {motion && worked ? (
+        <>
+          {label(380, 214, `= ${fmt(cm)} × ${fmt(scale)} = ${fmt(cm * scale)} cm`, AMBER, 12)}
+          {label(380, 242, `= ${realDistance(cm * scale)}`, PURPLE, 15)}
+        </>
+      ) : null}
+      {label(380, 280, '1 km = 100.000 cm · 1 m = 100 cm', MUTE, 10)}
     </>
   );
 }

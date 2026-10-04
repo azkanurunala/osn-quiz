@@ -13,69 +13,94 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
 );
 
 // ------------------------------------------------------------------ rantai makanan
-export function RantaiMakanan({ motion }) {
-  const nodes = [
-    { x: 66, t: 'Rumput', c: GREEN },
-    { x: 186, t: 'Belalang', c: AMBER },
-    { x: 306, t: 'Katak', c: '#34d399' },
-    { x: 426, t: 'Ular', c: PURPLE },
-  ];
+// The soal's own chain when it writes one ("padi → tikus → ular → elang"), else a labelled example.
+// Roles (produsen, konsumen I...) are often the answer, so they appear only in the explanation.
+function chainFromText(text) {
+  const m = String(text ?? '').match(/([A-Za-z][\w ]{0,18}?\s*(?:→|->|⇒)\s*){2,4}[A-Za-z][\w ]{0,18}/);
+  if (!m) return null;
+  const items = m[0].split(/→|->|⇒/).map((t) => t.trim()).filter(Boolean);
+  return items.length >= 3 && items.length <= 5 ? items : null;
+}
+
+const CHAIN_COLORS = [GREEN, AMBER, '#34d399', PURPLE, BLUE];
+const ROLES = ['produsen', 'konsumen I', 'konsumen II', 'konsumen III', 'konsumen IV'];
+
+export function RantaiMakanan({ motion, question }) {
+  const own = chainFromText(question?.question);
+  const names = own ?? ['Rumput', 'Belalang', 'Katak', 'Ular'];
+  const gap = 440 / names.length;
+  const nodes = names.map((t, i) => ({ x: 40 + gap * (i + 0.5), t, c: CHAIN_COLORS[i] }));
+  const r = Math.min(36, gap / 2 - 12);
   return (
     <>
+      {own ? null : label(500, 40, 'contoh', MUTE, 11, 'end')}
       {nodes.map((n, i) => (
-        <g key={n.t} {...anim(motion, 'ix-bob', { origin: `${n.x}px 150px`, duration: 2 + i * 0.3 })}>
-          <circle cx={n.x} cy={150} r="34" fill="#0f172a" stroke={n.c} strokeWidth="3" />
-          {label(n.x, 155, n.t, n.c, 11)}
+        <g key={`${n.t}-${i}`} {...anim(motion, 'ix-bob', { origin: `${n.x}px 140px`, duration: 2 + i * 0.3 })}>
+          <circle cx={n.x} cy={140} r={r} fill="#0f172a" stroke={n.c} strokeWidth="3" />
+          {label(n.x, 145, n.t.length > 9 ? `${n.t.slice(0, 8)}…` : n.t, n.c, n.t.length > 7 ? 10 : 12)}
+          {motion ? label(n.x, 140 + r + 22, ROLES[i], MUTE, 10) : null}
         </g>
       ))}
       {nodes.slice(0, -1).map((n, i) => (
-        <g key={`a${n.t}`} {...anim(motion, 'ix-flow', { duration: 1.6 })}>
-          <line x1={n.x + 38} y1={150} x2={nodes[i + 1].x - 40} y2={150}
+        <g key={`a${i}`} {...anim(motion, 'ix-flow', { duration: 1.6 })}>
+          <line x1={n.x + r + 4} y1={140} x2={nodes[i + 1].x - r - 6} y2={140}
             stroke={INK} strokeWidth="3" strokeDasharray="9 7" />
           <polygon
-            points={`${nodes[i + 1].x - 40},150 ${nodes[i + 1].x - 54},143 ${nodes[i + 1].x - 54},157`}
+            points={`${nodes[i + 1].x - r - 4},140 ${nodes[i + 1].x - r - 16},133 ${nodes[i + 1].x - r - 16},147`}
             fill={INK} />
         </g>
       ))}
-      {label(260, 226, 'panah menunjukkan aliran energi dari yang dimakan', MUTE, 11)}
-      {label(260, 254, 'produsen → konsumen → decomposer', AMBER, 11)}
+      {label(260, 240, 'panah = "dimakan oleh" (arah aliran energi)', MUTE, 11)}
+      {label(260, 264, 'produsen → konsumen; pengurai menguraikan sisa makhluk hidup', AMBER, 11)}
     </>
   );
 }
 
 // ------------------------------------------------------------------ siklus air
+// Sun heats the sea -> water evaporates -> condenses into clouds -> rain falls on the mountain ->
+// water flows back down to the sea.
 export function SiklusAir({ motion }) {
   return (
     <>
-      <path d="M 60 236 Q 260 292 460 236 L 460 264 L 60 264 Z" fill="#1e3a8a" opacity="0.75" />
-      <path d="M 60 236 Q 260 292 460 236" fill="none" stroke={BLUE} strokeWidth="2.5" />
-
-      <g {...anim(motion, 'ix-vapor', { origin: '150px 190px', duration: 3 })}>
-        <ellipse cx="150" cy="190" rx="34" ry="20" fill="#cbd5e1" opacity="0.7" />
+      <g {...anim(motion, 'ix-glow', { duration: 2.4, origin: '62px 52px' })}>
+        <circle cx="62" cy="52" r="22" fill={AMBER} />
       </g>
 
-      <g {...anim(motion, 'ix-vapor', { origin: '380px 200px', duration: 3.6 })}>
-        <ellipse cx="380" cy="200" rx="30" ry="17" fill="#cbd5e1" opacity="0.6" />
+      <path d="M 0 236 Q 30 228 60 236 T 120 236 T 180 236 T 240 236 L 260 236 L 260 300 L 0 300 Z"
+        fill="#1e3a8a" opacity="0.85" />
+      {label(110, 276, 'laut', BLUE, 12)}
+      <polygon points="230,300 380,118 520,300" fill="#334155" stroke="#475569" strokeWidth="2" />
+
+      {[70, 120, 170].map((x) => (
+        <g key={x} {...anim(motion, 'ix-flow', { duration: 1.6 })}>
+          <path d={`M ${x} 224 Q ${x - 8} 200 ${x} 180 Q ${x + 8} 160 ${x} 140`} fill="none" stroke="#cbd5e1"
+            strokeWidth="2.5" strokeDasharray="7 6" />
+          <polygon points={`${x},132 ${x - 6},144 ${x + 6},144`} fill="#cbd5e1" />
+        </g>
+      ))}
+      {label(120, 106, 'penguapan', '#cbd5e1', 12)}
+      {label(120, 122, '(evaporasi)', MUTE, 10)}
+
+      <g {...anim(motion, 'ix-bob', { duration: 3, origin: '330px 66px' })}>
+        <ellipse cx="300" cy="70" rx="34" ry="20" fill="#cbd5e1" />
+        <ellipse cx="338" cy="60" rx="34" ry="24" fill="#e2e8f0" />
+        <ellipse cx="372" cy="72" rx="30" ry="18" fill="#cbd5e1" />
       </g>
+      {label(240, 30, 'pengembunan (kondensasi) → awan', INK, 11)}
 
-      <circle cx="120" cy="212" r="15" fill={AMBER} {...anim(motion, 'ix-glow', { duration: 2.4, origin: '120px 212px' })} />
-      {label(120, 292, 'evaporasi', AMBER, 11)}
+      {[330, 352, 374, 396].map((x, i) => (
+        <line key={x} x1={x} y1={98} x2={x - 6} y2={128 + (i % 2) * 10} stroke={BLUE} strokeWidth="2.5"
+          strokeDasharray="6 5" {...anim(motion, 'ix-flow', { duration: 1 + i * 0.1 })} />
+      ))}
+      {label(512, 104, 'hujan', BLUE, 12, 'end')}
+      {label(512, 118, '(presipitasi)', MUTE, 10, 'end')}
 
-      <g {...anim(motion, 'ix-drip', { origin: '250px 120px', duration: 2.2 })}>
-        <path d="M 250 96 Q 258 112 250 124 Q 242 112 250 96" fill={BLUE} />
+      <g {...anim(motion, 'ix-flow', { duration: 1.8 })}>
+        <path d="M 340 168 Q 300 220 262 240" fill="none" stroke={BLUE} strokeWidth="3" strokeDasharray="8 6" />
+        <polygon points="0,0 -12,-6 -12,6" fill={BLUE} transform="translate(256 243) rotate(152)" />
       </g>
-      <g {...anim(motion, 'ix-drip', { origin: '310px 96px', duration: 2.6 })}>
-        <path d="M 310 96 Q 318 112 310 124 Q 302 112 310 96" fill={BLUE} />
-      </g>
-      {label(280, 76, 'kondensasi', BLUE, 11)}
-
-      <path d="M 400 92 Q 452 132 462 214" fill="none" stroke={GREEN} strokeWidth="2.5" strokeDasharray="8 6"
-        {...anim(motion, 'ix-flow', { duration: 1.8 })} />
-      {label(430, 150, 'presipitasi', GREEN, 11)}
-
-      <path d="M 96 214 Q 60 160 74 120" fill="none" stroke={MUTE} strokeWidth="2.5" strokeDasharray="8 6"
-        {...anim(motion, 'ix-flow', { duration: 2.2 })} />
-      {label(260, 254, 'siklus air: penguapan → kondensasi → hujan → kembali ke laut', MUTE, 10)}
+      {label(410, 262, 'air mengalir', INK, 11)}
+      {label(410, 278, 'kembali ke laut', INK, 11)}
     </>
   );
 }
@@ -121,8 +146,9 @@ export function Metamorfosis({ motion }) {
           <polygon points={`${62 + (i + 1) * 116 - 40},140 ${62 + (i + 1) * 116 - 54},133 ${62 + (i + 1) * 116 - 54},147`} fill={INK} />
         </g>
       ))}
-      {label(260, 240, 'metamorfosis: bentuk tubuh berubah total pada tiap tahap', MUTE, 11)}
-      {label(260, 266, 'telur → larva → pupa → imago (dewasa)', PURPLE, 11)}
+      {label(260, 238, 'metamorfosis: bentuk tubuh berubah pada tiap tahap', MUTE, 11)}
+      {label(260, 264, 'sempurna: telur → larva → pupa → imago (dewasa)', PURPLE, 11)}
+      {label(260, 284, 'tidak sempurna (mis. belalang): telur → nimfa → dewasa', MUTE, 10)}
     </>
   );
 }
@@ -133,24 +159,26 @@ export function Ekosistem({ motion }) {
     <>
       <rect x="40" y="60" width="440" height="184" rx="10" fill="#052e16" opacity="0.55" stroke={GREEN} strokeWidth="2.5" />
       {label(260, 88, 'EKOSISTEM', GREEN, 13)}
+      {label(260, 126, 'biotik (makhluk hidup)', INK, 11)}
 
       <g {...anim(motion, 'ix-bob', { origin: '150px 180px' })}>
-        <circle cx="150" cy="176" r="26" fill="#0f172a" stroke={GREEN} strokeWidth="3" />
-        {label(150, 181, 'tumbuhan', GREEN, 10)}
+        <circle cx="150" cy="176" r="34" fill="#0f172a" stroke={GREEN} strokeWidth="3" />
+        {label(150, 180, 'tumbuhan', GREEN, 11)}
       </g>
       <g {...anim(motion, 'ix-bob', { origin: '260px 176px', duration: 2.6 })}>
-        <circle cx="260" cy="176" r="26" fill="#0f172a" stroke={AMBER} strokeWidth="3" />
+        <circle cx="260" cy="176" r="34" fill="#0f172a" stroke={AMBER} strokeWidth="3" />
         {label(260, 181, 'hewan', AMBER, 10)}
       </g>
       <g {...anim(motion, 'ix-bob', { origin: '370px 176px', duration: 2.2 })}>
-        <circle cx="370" cy="176" r="26" fill="#0f172a" stroke={BLUE} strokeWidth="3" />
+        <circle cx="370" cy="176" r="34" fill="#0f172a" stroke={BLUE} strokeWidth="3" />
         {label(370, 181, 'pengurai', BLUE, 10)}
       </g>
 
       {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => (
         <circle key={i} {...anim(motion, 'ix-rise', { duration: 2.6 + i * 0.2 })}
-          cx={70 + i * 54} cy={226} r="4.5" fill={i % 2 ? GREEN : BLUE} />
+          cx={70 + i * 54} cy={220} r="4.5" fill={i % 2 ? GREEN : BLUE} />
       ))}
+      {label(260, 238, 'abiotik (tak hidup): air, tanah, udara, cahaya', INK, 10)}
       {label(260, 268, 'unsur biotik saling berhubungan dengan unsur abiotik', MUTE, 11)}
     </>
   );

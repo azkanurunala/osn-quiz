@@ -121,7 +121,8 @@ export function parseTextBars(text) {
     if (group && pushGrouped(group.label, group.entries)) continue;
 
     // One bar per line: "Kelas 5A : 30", "Ali : 4 buku", "Sen = 80".
-    const row = line.match(/^(.*?)\s*[=:]\s*([\d][\d.,]*)\s*([A-Za-z%]*)$/);
+    // "Kelas A : 18 dari 25" → nilai 18, keterangan "dari 25".
+    const row = line.match(/^(.*?)\s*[=:]\s*([\d][\d.,]*)\s*(dari\s+[\d.,]+|[A-Za-z%]*)$/);
     if (row && row[1].trim() && !/[=,;]/.test(row[1])) {
       bars.push({ label: row[1].trim(), value: parseNum(row[2]), unit: row[3] || '', boxes: parseNum(row[2]), given: true });
       continue;
@@ -137,9 +138,12 @@ export function parseTextBars(text) {
     // "Q1=10/40, Q2=20/50" — two series separated by a slash, category = the label.
     const slash = [...line.matchAll(/([A-Za-z]\w*)\s*=\s*([\d.,]+)\s*\/\s*([\d.,]+)/g)];
     if (slash.length >= 2) {
-      for (const name of ['Seri 1', 'Seri 2']) if (!names.includes(name)) names.push(name);
+      // Series names come from a note like "(Format: Sport/Sedan per kuartal)" when the stem has one.
+      const hint = src.match(/format\s*:\s*([^)\n]+?)(?:\s+per\b[^)\n]*)?\)/i)?.[1].split('/').map((s) => s.trim());
+      const [n1, n2] = hint?.length === 2 && hint.every(Boolean) ? hint : ['Seri 1', 'Seri 2'];
+      for (const name of [n1, n2]) if (!names.includes(name)) names.push(name);
       for (const s of slash) {
-        grouped.push({ label: s[1], pairs: { 'Seri 1': parseNum(s[2]), 'Seri 2': parseNum(s[3]) } });
+        grouped.push({ label: s[1], pairs: { [n1]: parseNum(s[2]), [n2]: parseNum(s[3]) } });
       }
     }
   }
@@ -161,4 +165,19 @@ export function flattenTextBars(text) {
       return item + (rows[i + 1] ? ',' : '.');
     })
     .join('\n');
+}
+
+/**
+ * Teks soal tanpa blok ``` yang berisi data grafik. Dipakai saat datanya sudah digambar sebagai
+ * diagram, supaya angka yang sama tidak muncul dua kali dan blok mentahnya tidak tampil sebagai
+ * kotak hitam. Blok ``` lain (mis. gambar jaring-jaring dari [ ]) dibiarkan.
+ */
+export function stripDataBlocks(text) {
+  return String(text ?? '')
+    .replace(/```[a-z]*\n?([\s\S]*?)(?:```|$)/gi, (block, body) => {
+      const p = parseTextBars(body);
+      return p.bars.length >= 2 || p.grouped.length >= 2 ? '' : block;
+    })
+    .replace(/[ \t]*\n{2,}/g, '\n')
+    .trim();
 }

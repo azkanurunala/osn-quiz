@@ -100,7 +100,7 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Kloroplas (tempat fotosintesis) | 1 | 157 | ✅ 3 | [kloroplas](ipa/01-makhluk-hidup/kloroplas.md) |
 | Penampang melintang daun (jaringan) | 1 | 219 | ✅ 2 | [penampang-daun](ipa/01-makhluk-hidup/penampang-daun.md) |
 | Stomata (mulut daun) | 1 | 89 | ✅ 2 | [stomata](ipa/01-makhluk-hidup/stomata.md) |
-| Percobaan Ingenhousz (Hydrilla menghasilkan O₂) | 4 | 54 | ✅ 2 | [hydrilla-ingenhousz](ipa/01-makhluk-hidup/hydrilla-ingenhousz.md) |
+| Percobaan Ingenhousz (Hydrilla menghasilkan O₂) | 1 | 54 | ✅ 2 | [hydrilla-ingenhousz](ipa/01-makhluk-hidup/hydrilla-ingenhousz.md) |
 | Hasil fermentasi: tempe, tape singkong, tape ketan | 1 | 135 | ✅ 2 | [tempe-tape-set](ipa/01-makhluk-hidup/tempe-tape-set.md) |
 
 ## IPA 02 · Tubuh Manusia & Kesehatan

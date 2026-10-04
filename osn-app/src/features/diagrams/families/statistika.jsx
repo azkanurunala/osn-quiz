@@ -58,7 +58,7 @@ export function DiagramBatang({ motion, question }) {
   const allKotak = !isGrouped && units.length > 0 && units.every((u) => /kotak/i.test(u));
   const yTitle = allKotak
     ? 'kotak'
-    : intro.match(/nilai|skor/i)?.[0].toLowerCase() ?? units.find(Boolean) ?? 'jumlah';
+    : intro.match(/nilai|skor/i)?.[0].toLowerCase() ?? units.find((u) => u && !/^dari\b/i.test(u)) ?? 'jumlah';   // "18 dari 25" is a note, not a unit
 
   return (
     <>
@@ -120,6 +120,12 @@ export function DiagramBatang({ motion, question }) {
     </>
   );
 }
+
+// QuestionFigure hides the whole frame when this is false, instead of an empty titled box.
+DiagramBatang.usable = (question) => {
+  const { bars, grouped, names } = parseTextBars(question?.question);
+  return bars.length >= 2 || (grouped.length >= 2 && names.length >= 2);
+};
 
 // ------------------------------------------------------------------ diagram lingkaran
 function sector(cx, cy, r, a0, a1, fill, motion, delay) {

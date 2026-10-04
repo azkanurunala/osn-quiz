@@ -12,8 +12,25 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
     fontFamily="'IBM Plex Sans',system-ui,sans-serif">{str}</text>
 );
 
+// "1.500.000" -> 1500000, "2,5" -> 2.5
+const num = (s) => Number(String(s).replace(/\.(?=\d{3}\b)/g, '').replace(',', '.'));
+// 1500000 -> "1.500.000", 2.5 -> "2,5"
+const fmt = (n) => {
+  const [i, d] = String(Math.round(n * 1000) / 1000).split('.');
+  return i.replace(/\B(?=(\d{3})+(?!\d))/g, '.') + (d ? `,${d}` : '');
+};
+
 // ------------------------------------------------------------------ diskon & PPN
-export function DiskonPPN({ motion }) {
+// Price tag with the soal's own price and discount. The amount to pay is the answer to most of these
+// soal, so the worked numbers appear only in the explanation phase.
+export function DiskonPPN({ motion, question }) {
+  const text = String(question?.question ?? '');
+  const priceRaw = text.match(/Rp\s?(\d[\d.]*)/i)?.[1];
+  const price = priceRaw ? num(priceRaw) : null;
+  const discs = [...text.matchAll(/diskon\D{0,12}?(\d+(?:,\d+)?)\s*%/gi)];
+  const pct = discs.length === 1 ? num(discs[0][1]) : null;
+  const worked = price && pct && !/asli|semula|ppn|pajak|untung|rugi|modal|\+/i.test(text);
+  const cut = worked ? (price * pct) / 100 : 0;
   return (
     <>
       <g {...anim(motion, 'ix-pulse', { duration: 2.6 })}>
@@ -21,18 +38,21 @@ export function DiskonPPN({ motion }) {
         <circle cx="98" cy="150" r="9" fill="#0f172a" stroke={AMBER} strokeWidth="2.5" />
       </g>
 
-      {label(176, 116, 'Harga Rp200.000', MUTE, 13)}
-      <line x1="112" y1="112" x2="240" y2="112" stroke={MUTE} strokeWidth="2" />
-      {label(176, 152, 'Diskon 25%', GREEN, 14)}
-      {label(176, 196, 'Bayar Rp150.000', AMBER, 16)}
+      {label(184, 116, price ? `Harga Rp${fmt(price)}` : 'Harga awal', MUTE, 13)}
+      {label(184, 152, pct ? `Diskon ${fmt(pct)}%` : 'Diskon p%', GREEN, 14)}
+      {label(184, 194, motion && worked ? `Bayar Rp${fmt(price - cut)}` : 'Bayar = ?', AMBER, 16)}
 
-      {label(322, 88, 'Menghitung sendiri', INK, 13, 'start')}
-      {label(322, 122, 'diskon = 25% × 200.000', GREEN, 12, 'start')}
-      {label(322, 148, '= 50.000', GREEN, 12, 'start')}
-      {label(322, 182, 'bayar = 200.000 − 50.000', AMBER, 12, 'start')}
-      {label(322, 208, '= 150.000', AMBER, 12, 'start')}
-      {label(322, 244, 'PPN menambah harga:', PURPLE, 11, 'start')}
-      {label(322, 264, 'harga + (persen × harga)', PURPLE, 11, 'start')}
+      {label(322, 88, 'Cara menghitung', INK, 13, 'start')}
+      {label(322, 120, 'potongan = persen × harga', GREEN, 12, 'start')}
+      {label(322, 144, 'bayar = harga − potongan', AMBER, 12, 'start')}
+      {motion && worked ? (
+        <>
+          {label(322, 176, `${fmt(pct)}% × ${fmt(price)} = ${fmt(cut)}`, GREEN, 12, 'start')}
+          {label(322, 200, `${fmt(price)} − ${fmt(cut)} = ${fmt(price - cut)}`, AMBER, 12, 'start')}
+        </>
+      ) : null}
+      {label(322, 240, 'PPN menambah harga:', PURPLE, 11, 'start')}
+      {label(322, 260, 'harga + (persen × harga)', PURPLE, 11, 'start')}
     </>
   );
 }
@@ -65,18 +85,19 @@ export function TimbanganAljabar({ motion }) {
         <Hanger x={150} y={180} />
         <Hanger x={370} y={180} />
         <Weight x={132} y={165} text="x" color={GREEN} motion={motion} size={16} />
-        <Weight x={170} y={165} text="+3" color={GREEN} motion={motion} size={12} />
-        <Weight x={370} y={165} text="7" color={BLUE} motion={motion} size={16} />
+        <Weight x={170} y={165} text="a" color={GREEN} motion={motion} size={15} />
+        <Weight x={370} y={165} text="b" color={BLUE} motion={motion} size={16} />
       </g>
 
-      {label(150, 118 - 18, 'x + 3', GREEN, 13)}
-      {label(370, 118 - 18, '7', BLUE, 13)}
+      {label(150, 118 - 18, 'x + a', GREEN, 13)}
+      {label(370, 118 - 18, 'b', BLUE, 13)}
 
       <polygon points="260,118 242,152 278,152" fill={INK} />
       <rect x="253" y="152" width="14" height="88" fill="#334155" stroke={INK} strokeWidth="2" />
       <rect x="226" y="240" width="68" height="12" rx="4" fill="#334155" stroke={INK} strokeWidth="2" />
 
-      {label(260, 280, 'x + 3 = 7      x = 7 − 3 = 4', AMBER, 14)}
+      {label(260, 274, 'x + a = b  →  x = b − a', AMBER, 14)}
+      {label(260, 294, 'kurangi kedua sisi dengan angka yang sama: tetap seimbang', MUTE, 10)}
     </>
   );
 }

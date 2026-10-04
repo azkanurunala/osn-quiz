@@ -8,7 +8,9 @@ function quickConfetti() {
   confetti({ particleCount: 55, spread: 70, startVelocity: 45, ticks: 40, origin: { y: 0.6 }, colors: ['#e53935', '#3b82f6', '#10b981', '#eab308'] });
   setTimeout(() => confetti.reset(), 850);
 }
-import { InlineMarkdown, MarkdownText } from '../utils/markdown.jsx';
+import { InlineMarkdown, MarkdownText, QuestionMarkdown } from '../utils/markdown.jsx';
+import { stripDataBlocks } from '../utils/textBars';
+import { DIAGRAM_BY_ID } from '../features/diagrams/registry';
 import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
@@ -108,6 +110,14 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
     () => matchDiagram(currentQuestion, questionsData?.subject),
     [currentQuestion, questionsData?.subject],
   );
+
+  // When the figure draws the soal's own dataset (bar chart), the raw data block in the stem is a
+  // duplicate that renders as black boxes and backtick fences, so drop it. Other figures keep the text.
+  const questionStem = useMemo(() => {
+    const text = currentQuestion?.question ?? '';
+    const Scene = questionFigure && DIAGRAM_BY_ID[questionFigure.id]?.component;
+    return Scene?.usable?.(currentQuestion) ? stripDataBlocks(text) : text;
+  }, [currentQuestion, questionFigure]);
 
   // True when driven by scripts/record-videos.mjs (Playwright sets navigator.webdriver).
   // Playwright records the page itself, so skip getDisplayMedia entirely — no screen-share
@@ -700,7 +710,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
               </div>
               <div className={isSplitActive ? 'mb-4' : 'mb-12'}>
                 <h2 className={`font-extrabold font-heading leading-snug text-gray-850 min-w-0 ${isSplitActive ? 'text-[32px] leading-normal' : 'text-[34px]'}`}>
-                  <InlineMarkdown text={currentQuestion.question} />
+                  <QuestionMarkdown text={questionStem} />
                 </h2>
               </div>
               {isSplitActive && <QuestionFigure diagram={questionFigure} question={currentQuestion} isSplitActive />}
@@ -1018,7 +1028,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
                   </div>
                 )}
                 <h2 className="text-xl font-bold font-heading leading-relaxed text-gray-800">
-                  <InlineMarkdown text={currentQuestion.question} />
+                  <QuestionMarkdown text={questionStem} />
                 </h2>
               </div>
 

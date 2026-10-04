@@ -319,6 +319,7 @@ export const DIAGRAM_DATA = [
   {
     id: 'diagram-batang',
     subject: 'mtk',
+    large: true,
     title: 'Diagram Batang',
     caption: 'Tinggi batang menunjukkan frekuensi data.',
     keywords: ['diagram batang', 'diagram batang daun', 'batang daun', 'grafik batang', 'tabel frekuensi'],

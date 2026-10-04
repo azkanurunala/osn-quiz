@@ -19,6 +19,7 @@ import { BangunRuang, JaringJaring, BangunRuangGabungan } from './families/geome
 import { TanggaSatuan, KecepatanJarakWaktu, Debit, SkalaPeta } from './families/pengukuran';
 import { DiagramBatang, DiagramLingkaran, MeanMedianModus, PeluangDadu } from './families/statistika';
 import { DiskonPPN, TimbanganAljabar } from './families/aljabar';
+import { ObjekFoto } from './families/objek';
 
 const COMPONENTS = {
   tuas: Tuas,
@@ -87,3 +88,7 @@ if (missing.length) {
 }
 
 export const DIAGRAM_BY_ID = Object.fromEntries(DIAGRAMS.map((d) => [d.id, d]));
+
+// Reviewed object pictures are matched separately (objekFoto.js), not by keyword score, so they
+// have no DIAGRAM_DATA entry; the title comes from the match itself.
+DIAGRAM_BY_ID['objek-foto'] = { id: 'objek-foto', subject: 'ipa', component: ObjekFoto };

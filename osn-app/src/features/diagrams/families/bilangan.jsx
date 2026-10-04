@@ -14,9 +14,10 @@ const label = (x, y, str, fill = MUTE, size = 12, anchor = 'middle') => (
 
 // ------------------------------------------------------------------ pohon faktor
 function TreeNode({ x, y, value, color, motion, delay }) {
+  const w = 14 + 9 * String(value).length;
   return (
     <g {...anim(motion, 'ix-pulse', { duration: 2 + delay })}>
-      <rect x={x - 19} y={y - 15} width="38" height="30" rx="8" fill="#0f172a" stroke={color} strokeWidth="3" />
+      <rect x={x - w / 2} y={y - 14} width={w} height="28" rx="8" fill="#0f172a" stroke={color} strokeWidth="3" />
       {label(x, y + 5, value, color, 14)}
     </g>
   );
@@ -29,25 +30,76 @@ function branch(x1, y1, x2, y2, motion) {
   );
 }
 
-export function PohonFaktor({ motion }) {
-  const root = { x: 150, y: 44, v: '36', c: AMBER };
-  const a = { x: 70, y: 108, v: '2', c: GREEN };
-  const b = { x: 250, y: 108, v: '18', c: BLUE };
-  const c = { x: 195, y: 172, v: '2', c: GREEN };
-  const d = { x: 335, y: 172, v: '9', c: PURPLE };
-  const e = { x: 300, y: 236, v: '3', c: GREEN };
-  const f = { x: 385, y: 236, v: '3', c: GREEN };
-  const nodes = [root, a, b, c, d, e, f];
-  const edges = [
-    [root, a], [root, b],
-    [b, c], [b, d],
-    [d, e], [d, f],
-  ];
+function primeFactors(n) {
+  const out = [];
+  for (let p = 2; p * p <= n; p += 1) while (n % p === 0) { out.push(p); n /= p; }
+  if (n > 1) out.push(n);
+  return out;
+}
+
+// The question's own numbers: up to two composites, so "FPB 360 dan 540" gets both trees.
+// Trees deeper than 6 levels do not fit the frame, so those numbers are skipped.
+function factorTargets(text) {
+  const found = [];
+  for (const m of String(text ?? '').replace(/(\d)\.(\d{3})/g, '$1$2').matchAll(/(?<![\d,])\d{1,5}(?![\d,])/g)) {
+    const n = Number(m[0]);
+    const f = n >= 4 ? primeFactors(n) : [];
+    if (f.length >= 2 && f.length <= 6 && !found.includes(n)) found.push(n);
+    if (found.length === 2) break;
+  }
+  return found;
+}
+
+const powers = (factors) => [...new Set(factors)]
+  .map((p) => {
+    const k = factors.filter((q) => q === p).length;
+    return k > 1 ? `${p}${'⁰¹²³⁴⁵⁶⁷⁸⁹'[k]}` : String(p);
+  })
+  .join(' × ');
+
+// "Caterpillar" tree: each step splits off the smallest prime (left leaf) and keeps the rest.
+function Tree({ n, x0, dx, motion, full }) {
+  const fs = primeFactors(n);
+  const dy = Math.min(40, 200 / fs.length);
+  const nodes = [{ x: x0, y: 40, v: String(n), c: AMBER }];
+  const edges = [];
+  let rest = n; let x = x0; let y = 40;
+  fs.slice(0, -1).forEach((p, i) => {
+    rest /= p;
+    const last = i === fs.length - 2;
+    const leaf = { x: x - dx, y: y + dy, v: String(p), c: GREEN };
+    const next = { x: x + dx, y: y + dy, v: String(rest), c: last ? GREEN : BLUE };
+    edges.push([{ x, y }, leaf], [{ x, y }, next]);
+    nodes.push(leaf, next);
+    x += dx; y += dy;
+  });
   return (
     <>
-      {edges.map(([p, q]) => branch(p.x, p.y + 15, q.x, q.y - 15, motion))}
-      {nodes.map((n, i) => <TreeNode key={n.v + i} {...n} motion={motion} delay={i * 0.15} />)}
-      {label(260, 288, 'Faktorisasi prima:  36 = 2² × 3²', AMBER, 13)}
+      {full ? edges.map(([p, q]) => branch(p.x, p.y + 14, q.x, q.y - 14, motion)) : null}
+      {(full ? nodes : nodes.slice(0, 1)).map((nd, i) => (
+        <TreeNode key={i} x={nd.x} y={nd.y} value={nd.v} color={nd.c} motion={motion} delay={i * 0.15} />
+      ))}
+      {full ? label(x0 + dx * (fs.length - 2) / 2, 272, `${n} = ${powers(fs)}`, AMBER, 13) : null}
+    </>
+  );
+}
+
+// Question phase shows only the number(s) to factor — the finished tree is the answer to many of
+// these soal, so it appears in the explanation. With no usable number, a labelled example (36)
+// shown whole in both phases, since it answers nothing.
+export function PohonFaktor({ motion, question }) {
+  const targets = factorTargets(question?.question);
+  const ns = targets.length ? targets : [36];
+  const two = ns.length === 2;
+  return (
+    <>
+      {ns.map((n, i) => (
+        <Tree key={n} n={n} x0={two ? 70 + i * 250 : 160} dx={two ? 34 : 50} motion={motion}
+          full={motion || !targets.length} />
+      ))}
+      {!motion && targets.length ? label(260, 272, 'bagi terus dengan bilangan prima terkecil', MUTE, 12) : null}
+      {!targets.length ? label(500, 24, 'contoh', MUTE, 11, 'end') : null}
+      {motion || !targets.length ? label(260, 292, 'faktor prima = ujung cabang (hijau)', MUTE, 10) : null}
     </>
   );
 }

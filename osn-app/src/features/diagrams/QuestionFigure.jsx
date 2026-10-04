@@ -23,6 +23,18 @@ const BOX = {
   explanation: { split: 250, full: 320 },
 };
 
+// Data charts (entry.large) carry numbers the student must read off the figure, so they get a
+// bigger frame; the question text drops the duplicate data block (stripDataBlocks) to make room.
+const BOX_LARGE = {
+  question: { split: 240, full: 340 },
+  explanation: { split: 260, full: 400 },
+};
+const boxFor = (diagram, phase, k) => (DIAGRAM_BY_ID[diagram.id]?.large ? BOX_LARGE : BOX)[phase][k];
+
+// A family can declare `usable(question)`; when it returns false (e.g. a bar chart with no readable
+// dataset) render nothing rather than an empty titled frame.
+const usable = (Scene, question) => !Scene.usable || Scene.usable(question);
+
 /**
  * Illustration for the 10s question phase: static, so it can be read at a glance before the timer
  * runs out. Renders nothing when no diagram matched confidently.
@@ -32,13 +44,13 @@ const BOX = {
  */
 export function QuestionFigure({ diagram, question = null, isSplitActive = false }) {
   const Scene = sceneFor(diagram);
-  if (!Scene) return null;
+  if (!Scene || !usable(Scene, question)) return null;
   const k = isSplitActive ? 'split' : 'full';
   return (
     <div className={`flex justify-center ${isSplitActive ? 'mb-1' : 'mb-3'}`}>
       {/* No caption here: captions commonly state the answer ("...segaris" = option A), and the
           question phase must not give the answer away. The caption returns in the explanation. */}
-      <DiagramFrame title={diagram.title} mode="still" boxHeight={BOX.question[k]}>
+      <DiagramFrame title={diagram.title} mode="still" boxHeight={boxFor(diagram, 'question', k)}>
         {(frame) => <Scene {...frame} question={question} />}
       </DiagramFrame>
     </div>
@@ -50,11 +62,11 @@ export function QuestionFigure({ diagram, question = null, isSplitActive = false
  */
 export function ExplanationFigure({ diagram, question = null, isSplitActive = false }) {
   const Scene = sceneFor(diagram);
-  if (!Scene) return null;
+  if (!Scene || !usable(Scene, question)) return null;
   const k = isSplitActive ? 'split' : 'full';
   return (
     <div className={`flex justify-center ${isSplitActive ? '' : 'mb-1'}`}>
-      <DiagramFrame title={diagram.title} caption={diagram.caption} mode="motion" boxHeight={BOX.explanation[k]}>
+      <DiagramFrame title={diagram.title} caption={diagram.caption} mode="motion" boxHeight={boxFor(diagram, 'explanation', k)}>
         {(frame) => <Scene {...frame} question={question} />}
       </DiagramFrame>
     </div>

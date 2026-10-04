@@ -157,15 +157,12 @@ export function BangunRuangGabungan({ motion }) {
       <Cylinder cx={165} cy={155} r={30} h={70} color={AMBER} motion={motion} />
       <Box cx={165} cy={214} w={150} h={48} dp={22} color={BLUE} motion={motion} />
 
-      {label(165, 112, 'tabung', AMBER, 12)}
-      {label(165, 256, 'balok', BLUE, 12)}
-      <line x1="96" y1="120" x2="120" y2="112" stroke={AMBER} strokeWidth="2" />
-      <line x1="96" y1="150" x2="120" y2="158" stroke={AMBER} strokeWidth="2" />
-      <line x1="96" y1="210" x2="70" y2="256" stroke={BLUE} strokeWidth="2" />
+      {label(206, 138, 'tabung', AMBER, 12, 'start')}
+      {label(165, 262, 'balok', BLUE, 12)}
 
       {label(340, 96, 'Volume gabungan', INK, 13, 'start')}
       {label(340, 132, 'V = V balok + V tabung', GREEN, 12, 'start')}
-      {label(340, 162, 'V = (p × l × t)', AMBER, 12, 'start')}
+      {label(340, 162, 'V = (p × l × t)', BLUE, 12, 'start')}
       {label(360, 188, '+ (π × r² × t)', AMBER, 12, 'start')}
       {label(340, 226, 'menghitung bertahap,', MUTE, 11, 'start')}
       {label(340, 244, 'lalu jumlahkan hasilnya', MUTE, 11, 'start')}
