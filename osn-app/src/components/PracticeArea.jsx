@@ -15,7 +15,7 @@ import { logActivity } from '../utils/activityLog';
 import { recordReview } from '../utils/spacedRepetition';
 import { BookmarkButton } from '../features/bookmarks';
 import { SCENE_REGISTRY } from '../features/astronomy/registry';
-import { matchDiagram } from '../features/diagrams/matchDiagram';
+import { matchFigure } from '../features/diagrams/objekFoto';
 import { QuestionFigure, ExplanationFigure } from '../features/diagrams/QuestionFigure';
 import { fireMilestone } from '../utils/milestones';
 import { useT } from '../i18n';
@@ -107,7 +107,7 @@ export default function PracticeArea({ subBabId, questionsData, subBabProgress, 
   // Illustration for this question, or null when nothing matches confidently. Computed once and
   // shared by both phases: the question shows it still, the explanation animates the same figure.
   const questionFigure = useMemo(
-    () => matchDiagram(currentQuestion, questionsData?.subject),
+    () => matchFigure(currentQuestion, questionsData?.subject),
     [currentQuestion, questionsData?.subject],
   );
 
@@ -1134,7 +1134,7 @@ function PembahasanContent({ q, subject }) {
         </div>
       </div>
 
-      <ExplanationFigure diagram={matchDiagram(q, subject)} question={q} />
+      <ExplanationFigure diagram={matchFigure(q, subject)} question={q} />
 
       {q.concept && (
         <div className="bg-red-50/50 rounded-2xl p-4 border border-red-100">

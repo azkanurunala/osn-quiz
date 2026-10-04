@@ -25,8 +25,10 @@ const RESULTS = join(ROOT, 'image-results');
 const OUT_DIR = join(ROOT, 'public', 'objek');
 const DATA_FILE = join(ROOT, 'src', 'features', 'diagrams', 'objek-foto-data.js');
 
-const ffmpegDir = readdirSync(join(ROOT, '.tools')).find((d) => d.startsWith('ffmpeg-'));
-const FFMPEG = ffmpegDir ? join(ROOT, '.tools', ffmpegDir, 'bin', 'ffmpeg.exe') : 'ffmpeg';
+// Bundled Windows ffmpeg in .tools/ when present, otherwise the one on PATH.
+const TOOLS = join(ROOT, '.tools');
+const ffmpegDir = existsSync(TOOLS) ? readdirSync(TOOLS).find((d) => d.startsWith('ffmpeg-')) : null;
+const FFMPEG = ffmpegDir ? join(TOOLS, ffmpegDir, 'bin', 'ffmpeg.exe') : 'ffmpeg';
 
 // Which approved slot represents the object best: a clean front illustration first (calm, readable
 // at a glance in a 10 s question phase), then realistic views. Cut-open (penampang) slots are left

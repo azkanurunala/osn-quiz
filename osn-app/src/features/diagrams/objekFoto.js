@@ -21,6 +21,14 @@ const KW_OVERRIDE = {
   'telur-ayam': 'telur ayam|telur',
 };
 
+// The picture shows one particular animal; a stem about a trait it lacks must not get it.
+// ayam: the picture is a rooster, which does not lay or brood eggs.
+// ular: the picture is a rat snake (Ptyas korros), which is not venomous.
+const MISMATCH = {
+  ayam: /betina|bertelur|mengeram|dierami|induk/,
+  ular: /berbisa|bisa ular|racun|kobra|taring/,
+};
+
 // Generic words several objects share; a specific name in the same stem wins over them.
 const WEAK = new Set(['ikan', 'telur', 'ulat', 'larva', 'pupa', 'karang', 'udang', 'kodok', 'siput', 'gurita', 'tiram', 'tokek', 'itik']);
 
@@ -41,7 +49,7 @@ const OTHER_ORGANISMS = ['tikus', 'kadal', 'anjing', 'kambing', 'kuda', 'babi', 
   'jerapah', 'kanguru', 'beruang', 'macan', 'musang', 'landak', 'tupai', 'merpati', 'bangau', 'cacing',
   'kura-kura', 'mangga', 'padi', 'jagung', 'pisang', 'durian', 'kelapa', 'rumput', 'bayam', 'kacang',
   // "burung" alone is a second animal ("burung dan ayam"); "burung elang" is just the eagle.
-  'burung(?!\s+(?:elang|cenderawasih|jalak|maleo|unta))'];
+  'burung(?!\\s+(?:elang|cenderawasih|jalak|maleo|unta))'];
 
 const BEFORE = /(?:mirip|seperti|menyerupai|bagaikan|layaknya|daging|susu|sate|sop|soto|bulu|kulit)\s+(?:\S+\s+)?$/;
 const AFTER_FOOD = /^\s+(?:goreng|bakar|panggang|rebus|geprek|potong)\b/;
@@ -54,7 +62,8 @@ const OBJECTS = OBJEK_FOTO.map((o) => {
   return { ...o, re: new RegExp(`(?<![a-z])(?:${kw})(?![a-z])`, 'gi') };
 });
 const OTHER_RE = new RegExp(`(?<![a-z])(?:${OTHER_ORGANISMS
-  .filter((w) => !OBJECTS.some((o) => { o.re.lastIndex = 0; return o.re.test(w); }))
+  // Test the bare word, not the pattern: "burung(?!…jalak…)" would otherwise hit the jalak object.
+  .filter((w) => !OBJECTS.some((o) => { o.re.lastIndex = 0; return o.re.test(w.replace(/\(\?!.*$/, '')); }))
   .join('|')})(?![a-z])`);
 
 const plain = (text) => String(text ?? '')
@@ -65,6 +74,9 @@ const plain = (text) => String(text ?? '')
 function hitsIn(stem, raw) {
   const hits = [];
   for (const o of OBJECTS) {
+    // matchAll copies lastIndex from the shared /g regex; a .test() on an earlier soal can leave it
+    // mid-string and silently skip mentions here.
+    o.re.lastIndex = 0;
     const mentions = [...stem.matchAll(o.re)].map((m) => {
       const before = stem.slice(Math.max(0, m.index - 30), m.index);
       const after = stem.slice(m.index + m[0].length, m.index + m[0].length + 20);
@@ -128,6 +140,7 @@ export function matchObjekFoto(question, packageSubject) {
   if (hit.mentions.some((m) => m.otherKind || m.notTheAnimal)) return null;
   if (hit.mentions.every((m) => m.young)) return null;
   const { o } = hit;
+  if (MISMATCH[o.id]?.test(stem)) return null;
   for (const opt of Object.values(question?.options ?? {})) {
     o.re.lastIndex = 0;
     if (o.re.test(plain(opt))) return null;

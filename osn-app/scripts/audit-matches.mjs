@@ -13,7 +13,8 @@ import { createServer } from 'vite';
 const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const server = await createServer({ server: { middlewareMode: true }, appType: 'custom', logLevel: 'error' });
 try {
-  const { matchDiagram } = await server.ssrLoadModule('/src/features/diagrams/matchDiagram.js');
+  // matchFigure = what the app shows: a reviewed object picture first, else the concept diagram.
+  const { matchFigure } = await server.ssrLoadModule('/src/features/diagrams/objekFoto.js');
   const man = JSON.parse(readFileSync(`${ROOT}/public/data/_manifest.json`, 'utf8'));
   const args = process.argv.slice(2);
   const allSubjects = args.includes('--all');
@@ -31,7 +32,7 @@ try {
     for (const q of pkg.questions) {
       total += 1;
       c.q += 1;
-      const d = matchDiagram(q, it.subject);
+      const d = matchFigure(q, it.subject);
       if (d) { hit += 1; c.hit += 1; (byId[d.id] ??= []).push(q); }
     }
   }

@@ -2,7 +2,7 @@
 
 > Tujuan: catat status implementasi & cara melanjutkan di chat/model baru. **Update saat ada perubahan signifikan.**
 
-Last updated: **2026-10-03** (PIVOT: ilustrasi IPA akan diganti gambar asli Vertex AI; pilot `paru-paru` selesai; menunggu cek billing. **Baru:** 20 diagram SVG MTK (+ keluarga `pecahan`) + gate subject matcher diperbaiki + presisi keyword MTK & IPA di-tuning + audit browser 11 paket IPA lolos).
+Last updated: **2026-10-04** (gambar objek Vertex yang lolos review kini **tampil di app** untuk soal IPA; lihat seksi "Gambar objek di app" di bawah). Sebelumnya 2026-10-03: PIVOT ilustrasi IPA → gambar asli Vertex AI; pilot `paru-paru`; 20 diagram SVG MTK; gate subject matcher.
 
 ---
 
@@ -22,6 +22,18 @@ Keputusan user: **ilustrasi SVG tidak relevan/akurat untuk IPA → semua SVG IPA
 **Keputusan model (user): HYBRID** — FLASH `gemini-2.5-flash-image` (~$0.039/gbr) untuk subjek sederhana (hewan, tumbuhan, benda, antariksa); PRO `gemini-3-pro-image` (~$0.134/gbr) untuk anatomi & penampang skematik.
 
 **BLOKER: menunggu cek billing.** User cek di Google Cloud Billing → Reports (kredit free-trial kabarnya tidak berlaku untuk image-gen). **Jangan jalankan batch besar sebelum billing dikonfirmasi.**
+
+### Gambar objek di app (2026-10-04)
+- **Pipeline publikasi:** `node scripts/build-objek-foto.mjs` → hanya slot ber-verdict `"ok"` di `image-results/_review.json` yang dipublikasi ke `public/objek/<id>.webp` (maks 640 px; urutan pilih: ilustrasi-depan → ilustrasi-atas → realistis-depan → …; penampang tidak dipakai) + `src/features/diagrams/objek-foto-data.js` (GENERATED, jangan edit tangan). Saat ini **21 objek** punya gambar. Jalankan ulang tiap selesai satu ronde review. ffmpeg: `.tools/ffmpeg-*` (Windows) bila ada, selain itu `ffmpeg` di PATH.
+- **Matcher:** `src/features/diagrams/objekFoto.js` → `matchObjekFoto()` (presisi ketat: hanya stem soal, tepat satu organisme, objek tidak muncul di opsi, bukan daftar koma/rantai makanan, bukan "mirip bebek"/"ayam goreng"/ras lain) dan `matchFigure()` = gambar objek dulu, fallback diagram SVG.
+- **Wiring app (SELESAI 2026-10-04):** `PracticeArea.jsx` kini memakai `matchFigure` (fase soal + `PembahasanContent`). Diverifikasi di browser (`?record=ipa-02c`, soal 2 jantung): gambar statis di fase soal, zoom pelan di pembahasan, tanpa pageerror.
+- **Bug matcher yang diperbaiki 2026-10-04:**
+  - regex `/g` bersama: `matchAll` mewarisi `lastIndex` basi dari `.test()` soal sebelumnya → hasil bergantung urutan soal (soal ekolokasi dapat gambar **kalong** yang tidak berekolokasi; "Selain kelelawar & lumba-lumba…" lolos padahal 2 hewan). Kini `lastIndex = 0` sebelum `matchAll`.
+  - `'burung(?!\\s+…)'` dulu ditulis `\s` (tanpa escape) di string JS sehingga menjadi `s`; dan filter `OTHER_ORGANISMS` menguji teks pola (berisi `jalak`) → `burung` terbuang dari guard. "Burung dan ayam…" sempat dapat gambar ayam. Keduanya diperbaiki.
+  - Guard `MISMATCH`: gambar `ayam` = **ayam jantan** (tidak bertelur/mengeram) → tidak dipakai untuk soal betina/bertelur/mengeram/dierami/induk; gambar `ular` = **ular tikus (tidak berbisa)** → tidak dipakai untuk soal berbisa/racun/kobra/taring.
+- **Cakupan sekarang:** 85 soal IPA unik bergambar objek (kelelawar-ekolokasi 11, bunglon 10, bebek 8, ikan-mas 6, badak-jawa 6, jantung 5, ular 5, …). Daftar lengkap: dump seperti `scripts/_claude-objek.mjs`.
+- `scripts/audit-matches.mjs` kini menghitung lewat `matchFigure` (sama dengan app); `scripts/audit-render.mjs` memberi `objek-foto` sampel soal bernama objek → **110 render (55 × 2 fase) lolos**.
+- **Sisa/borderline:** "Rambut akar…" → gambar set akar tunggang/serabut (rambut akar tak terlihat jelas); "Bunglon dan gurita…" lolos karena `gurita` ada di `WEAK`. Tidak menyesatkan, tapi tinjau bila ingin lebih ketat. Gambar organ (jantung, paru-paru) tetap perlu sign-off guru IPA sebelum rilis.
 
 ### Tujuan besar
 Ganti ilustrasi IPA di app dengan gambar asli Vertex AI (pipeline `image-prompts` → `image-results` → review → wiring app). SVG IPA = sementara; SVG MTK tetap.
@@ -67,7 +79,7 @@ Percobaan rekam `ipa-02a` (42 menit) **diabort** 2026-10-03 karena SVG IPA sudah
 1. **USER: cek billing** di Google Cloud Billing → Reports untuk project `project-a087bc92-937b-4ba3-859`. Lanjut/batal batch berdasarkan hasil.
 2. **CLAUDE (ber-vision): review 4 gambar pilot `paru-paru`** — bandingkan FLASH vs PRO di `C:\Users\nurun\AppData\Local\Temp\opencode\shots\PARU-*.png`; tentukan apakah FLASH cukup untuk non-anatomi & PRO perlu untuk anatomi. Tulis verdict ke `image-results/_review.json` (format contoh sudah ada di file itu), lalu `node image-prompts/_src/gen.mjs` untuk refresh `_STATUS.md`.
 3. **Tentukan routing HYBRID** (daftar id PRO vs FLASH). Usul: PRO = semua `image-prompts/ipa/02-tubuh-manusia/*` **dan** tiap objek yang punya slot `-penampang*`; sisanya FLASH. Jalankan **satu bab dulu** (`ipa-02`, 55 objek) end-to-end (gen → review → integrasi), baru perbesar. Perintah: `node image-prompts/_src/gemini-gen.mjs --vertex --model <flash|pro> <ids…>`; `--hemat` = 1 ilustrasi + penampang/objek (~510 gambar IPA total); `--biaya` = total biaya dari `_usage.jsonl`.
-4. **Integrasi ke app (belum ada kode sama sekali):** `grep` di `src/` tak menemukan referensi `image-results`. Perlu: (a) ekspos gambar lolos ke app (copy ke `public/` lewat skrip, atau `import.meta.glob` Vite), (b) ubah `QuestionFigure`/`matchDiagram` untuk IPA agar render `<img>` hasil map objek→slot, (c) biarkan SVG untuk MTK.
+4. **Integrasi ke app — SELESAI 2026-10-04** (lihat "Gambar objek di app"). Tiap ronde review baru: `node scripts/build-objek-foto.mjs` lalu cek dump match per objek; tambah `MISMATCH`/`KW_OVERRIDE` di `objekFoto.js` bila gambar hanya mewakili satu jenis/jantan/spesies tertentu.
 
 **B. Pekerjaan SVG/matcher (MTK aktif; IPA diarsip selama SVG diganti Vertex)**
 1. **Bug produk MTK (SELESAI 2026-10-03):** matcher dipanggil untuk semua mapel tanpa gate subject → paket MTK memunculkan diagram sains IPA yang salah. Kini `matchDiagram(question, packageSubject)` + `subjectOf()`; diagram tanpa `subject` = IPA default; paket MTK hanya cocok diagram `subject: 'mtk'`. Wiring di `PracticeArea.jsx` (~107 + 2 call site) & `audit-matches.mjs`.
