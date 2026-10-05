@@ -204,43 +204,26 @@ Fokus: rumus dasar LP = 2(pl + lt + pt), substitusi langsung, soal cerita 1–2 
 ---
 
 **7.** Balok p = 20 cm, l = 8 cm, t = 5 cm. LP = ...
-- A. 280 cm²
-- B. 560 cm²
+
+- A. 300 cm²
+- B. 600 cm²
 - C. 800 cm²
 - D. 400 cm²
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. Lupa × 2: pl + lt + pt = 160 + 40 + 100 = 300 (juga keliru kalkulasi).
-- **B** — Benar. pl = 160, lt = 40, pt = 100. Jumlah = 300. LP = 2 × 300 = **600 cm²**? Cek ulang: 160 + 40 + 100 = 300 → 2 × 300 = 600. Sesuai pilihan terdekat = **560 cm²** hanya jika t = 4 (160+32+80=272 ×2 = 544 — tidak cocok). Mari konsisten: gunakan p=20, l=8, t=5 → LP = 2(160+40+100) = **600 cm²**. Karena pilihan B = 560 tidak cocok, **revisi:** soal seharusnya p=20, l=8, t=4 → pl=160, lt=32, pt=80, jumlah=272, LP = 544. Pilih opsi terdekat **B = 560** → tidak konsisten juga. Kami pakai **B sebagai jawaban "yang dimaksud penyusun"**, dengan catatan: hasil rumus murni = 600 cm² (terdekat ke B). Untuk drill, gunakan hasil dengan p=20, l=8, t=5 → **LP = 600 cm²**. Pilihan B di sini mewakili "jawaban benar yang harus muncul" (versi cetak ada salah ketik).
+- **A** — Salah. Lupa dikali 2: pl + lt + pt = 160 + 40 + 100 = 300.
+- **B** — Benar. pl = 160, lt = 40, pt = 100. Jumlah = 300. LP = 2 × 300 = **600 cm²**.
 - **C** — Salah. Itu volume: 20 × 8 × 5 = 800 cm³.
-- **D** — Salah. Hasil parsial 2 × 200.
-
-> *(Catatan koreksi: gunakan B = 600 cm² saat berlatih. Pilihan B di buku berisi typo 560 → 600.)*
-- **Konsep kunci:** LP balok = 2(pl + lt + pt); nilai pada opsi kunci harus dicocokkan dengan hasil hitung, bukan sebaliknya.
+- **D** — Salah. Hanya 2 × (160 + 40) = 400, pasangan pt terlupa.
+- **Konsep kunci:** LP balok = 2(pl + lt + pt).
 - **Langkah Penyelesaian:**
   1. p = 20, l = 8, t = 5 → pl = 160, lt = 40, pt = 100.
-  2. Jumlahkan: 160 + 40 + 100 = 300 → LP = 2 × 300 = 600 cm².
-  3. Karena opsi B tercetak 560 (typo), gunakan **600 cm²** sebagai nilai baku saat berlatih.
+  2. Jumlahkan: 160 + 40 + 100 = 300.
+  3. LP = 2 × 300 = **600 cm²**.
 
 ---
 
 **8.** Sebuah balok rusuk-rusuknya p = 6 cm, l = 4 cm, t = 3 cm. LP = ...
-- A. 72 cm²
-- B. 108 cm²
-- C. 96 cm²
-- D. 54 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. pl = 24, lt = 12, pt = 18. Jumlah = 54. LP = 2 × 54 = **108 cm²**? Hitung lagi: 2 × 54 = 108 → opsi B. **Kunci yang benar: B = 108 cm²**. (Koreksi: kunci di paket ini = **B**.)
-- **B** — Benar. Lihat di atas.
-- **C** — Salah. Hasil parsial 2 × 48 (salah jumlah).
-- **D** — Salah. Lupa × 2 (= 54).
-
-> Kunci final: **B**.
-
----
-
-**8 (final).** Sebuah balok rusuk-rusuknya p = 6 cm, l = 4 cm, t = 3 cm. LP = ...
 - A. 72 cm²
 - B. 108 cm²
 - C. 96 cm²
@@ -298,19 +281,6 @@ Fokus: rumus dasar LP = 2(pl + lt + pt), substitusi langsung, soal cerita 1–2 
 ---
 
 **11.** Balok p = 11 cm, l = 8 cm, t = 5 cm. LP = ...
-- A. 326 cm²
-- B. 163 cm²
-- C. 440 cm²
-- D. 268 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. pl = 88, lt = 40, pt = 55. Jumlah = 183 → tidak cocok. Cek: 88 + 40 + 55 = 183. LP = 2 × 183 = **366 cm²**. Pilih opsi terdekat — gunakan p=11, l=8, t=4 → pl=88, lt=32, pt=44, jumlah=164, LP=328. Karena drift opsi, kunci konsisten: pakai p=11, l=8, t=5, LP = **366 cm²**. (A dianggap 366.)
-
-> Versi konsisten dipakai di bawah.
-
----
-
-**11 (final).** Balok p = 11 cm, l = 8 cm, t = 5 cm. LP = ...
 - A. 366 cm²
 - B. 183 cm²
 - C. 440 cm²
@@ -349,17 +319,6 @@ Fokus: rumus dasar LP = 2(pl + lt + pt), substitusi langsung, soal cerita 1–2 
 ---
 
 **13.** Balok p = 14 cm, l = 10 cm, t = 6 cm. LP = ...
-- A. 588 cm²
-- B. 280 cm²
-- C. 840 cm²
-- D. 294 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. pl = 140, lt = 60, pt = 84. Jumlah = 284 → cek ulang: 140 + 60 + 84 = 284. LP = 2 × 284 = **568 cm²**. Karena tidak cocok, pakai p=14, l=10, t=7 → pl=140, lt=70, pt=98, jumlah=308, LP=616 (tidak cocok juga). Versi konsisten: p=14, l=10, t=6 → LP = **568 cm²** (A dianggap mewakili 568).
-
----
-
-**13 (final).** Balok p = 14 cm, l = 10 cm, t = 6 cm. LP = ...
 - A. 568 cm²
 - B. 284 cm²
 - C. 840 cm²
@@ -416,21 +375,7 @@ Fokus: rumus dasar LP = 2(pl + lt + pt), substitusi langsung, soal cerita 1–2 
 
 ---
 
-**16.** Akuarium berbentuk balok berukuran 60 cm × 40 cm × 30 cm. LP-nya (dengan tutup) ...
-- A. 7.200 cm²
-- B. 8.400 cm²
-- C. 4.200 cm²
-- D. 72.000 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Salah satu pasangan dihitung sekali.
-- **B** — Benar. pl = 2.400, lt = 1.200, pt = 1.800. Jumlah = 5.400 → 2 × 5.400? Cek: 2.400 + 1.200 + 1.800 = 5.400. LP = 2 × 5.400 = 10.800 cm². Karena opsi B = 8.400 tidak cocok dengan p=60,l=40,t=30. Mari konsisten: pakai p=50, l=30, t=20 → pl=1.500, lt=600, pt=1.000, jumlah=3.100, LP=6.200 (tidak cocok). Pakai p=40, l=30, t=20 → pl=1.200, lt=600, pt=800, jumlah=2.600, LP=5.200 (tidak cocok). Gunakan p=60, l=30, t=20 → pl=1.800, lt=600, pt=1.200, jumlah=3.600, LP=7.200 = opsi A!
-
-> Versi konsisten: gunakan **p=60, l=30, t=20** → LP = **7.200 cm²** = opsi A. Kunci direvisi → **A**.
-
----
-
-**16 (final).** Akuarium berbentuk balok berukuran 60 cm × 30 cm × 20 cm. LP-nya (dengan tutup) ...
+**16.** Akuarium berbentuk balok berukuran 60 cm × 30 cm × 20 cm. LP-nya (dengan tutup) ...
 - A. 7.200 cm²
 - B. 3.600 cm²
 - C. 36.000 cm²
@@ -446,10 +391,6 @@ Fokus: rumus dasar LP = 2(pl + lt + pt), substitusi langsung, soal cerita 1–2 
   1. p = 60, l = 30, t = 20 → pl = 1.800, lt = 600, pt = 1.200.
   2. Jumlahkan: 1.800 + 600 + 1.200 = 3.600.
   3. LP = 2 × 3.600 = **7.200 cm²**.
-
----
-
-Mengingat banyak rework menjengkelkan, **mulai soal 17 saya pakai pendekatan: pilih (p, l, t) lalu hitung dulu** LP, lalu rancang opsi A–D di sekitar nilai itu, lalu pilih posisi kunci sesuai rencana balance.
 
 ---
 
@@ -473,21 +414,6 @@ Mengingat banyak rework menjengkelkan, **mulai soal 17 saya pakai pendekatan: pi
 ---
 
 **18.** Balok p = 10 cm, l = 7 cm, t = 4 cm. LP = ...
-- A. 188 cm²
-- B. 117 cm²
-- C. 236 cm²
-- D. 280 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Salah satu pasangan diabaikan: 2 × (70 + 24) = 188.
-- **B** — Salah. Salah jumlah (70 + 28 + 19 = 117).
-- **C** — Benar. pl = 70, lt = 28, pt = 40. Jumlah = 138 → cek: 70+28+40=138 → LP = 276. **Kunci direvisi:** gunakan p=10, l=7, t=4 → LP = **276 cm²**. Opsi C 236 tidak cocok. Mari ubah ke p=10, l=7, t=5 → pl=70, lt=35, pt=50, jumlah=155, LP=310 (tidak cocok). Pakai p=12, l=7, t=4 → pl=84, lt=28, pt=48, jumlah=160, LP=320. Pakai p=10, l=6, t=4 → pl=60, lt=24, pt=40, jumlah=124, LP=248. Pakai p=10, l=5, t=4 → pl=50, lt=20, pt=40, jumlah=110, LP=220.
-
-> Untuk efisiensi, soal 18 saya tulis ulang dengan angka yang **dikomputasi dulu**.
-
----
-
-**18 (final).** Balok p = 10 cm, l = 7 cm, t = 4 cm. LP = ...
 - A. 188 cm²
 - B. 138 cm²
 - C. 276 cm²
@@ -582,22 +508,7 @@ Mengingat banyak rework menjengkelkan, **mulai soal 17 saya pakai pendekatan: pi
 
 ---
 
-**23.** Balok p = 18 cm, l = 12 cm, t = 9 cm. LP = ...
-- A. 432 cm²
-- B. 1.944 cm²
-- C. 756 cm²
-- D. 378 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Hasil parsial 2 × 216 (satu pasangan).
-- **B** — Salah. Itu volume: 18 × 12 × 9 = 1.944 cm³.
-- **C** — Benar. pl = 216, lt = 108, pt = 162. Jumlah = 486 → cek: 216+108+162=486 → LP = 972. Versi konsisten: ubah ke p=18, l=12, t=6 → pl=216, lt=72, pt=108, jumlah=396, LP=792 (tidak cocok). Pakai p=18, l=10, t=6 → pl=180, lt=60, pt=108, jumlah=348, LP=696 (tidak cocok). Pakai p=15, l=12, t=6 → pl=180, lt=72, pt=90, jumlah=342, LP=684 (tidak cocok). Pakai p=16, l=12, t=5 → pl=192, lt=60, pt=80, jumlah=332, LP=664 (tidak cocok). Pakai p=14, l=12, t=6 → pl=168, lt=72, pt=84, jumlah=324, LP=648 (tidak cocok). Pakai p=18, l=9, t=6 → pl=162, lt=54, pt=108, jumlah=324, LP=648. Pakai **p=18, l=12, t=5** → pl=216, lt=60, pt=90, jumlah=366, LP=732 (tidak cocok). Pakai **p=12, l=9, t=6** → pl=108, lt=54, pt=72, jumlah=234, LP=468 (tidak cocok dengan 756). 
-
-> Untuk **soal 23**, kita pakai **756** sebagai target LP dan cari (p,l,t). 756/2 = 378 = pl+lt+pt. Coba p=14, l=9, t=6 → 126+54+84 = 264 (no). Coba p=15, l=9, t=6 → 135+54+90 = 279 (no). Coba p=14, l=12, t=7 → 168+84+98=350. Coba p=18, l=9, t=8 → 162+72+144=378 ✓. **Pakai p=18, l=9, t=8.**
-
----
-
-**23 (final).** Balok p = 18 cm, l = 9 cm, t = 8 cm. LP = ...
+**23.** Balok p = 18 cm, l = 9 cm, t = 8 cm. LP = ...
 - A. 432 cm²
 - B. 1.296 cm²
 - C. 756 cm²
@@ -613,10 +524,6 @@ Mengingat banyak rework menjengkelkan, **mulai soal 17 saya pakai pendekatan: pi
   1. p = 18, l = 9, t = 8 → pl = 162, lt = 72, pt = 144.
   2. Jumlahkan: 162 + 72 + 144 = 378.
   3. LP = 2 × 378 = **756 cm²**.
-
----
-
-Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis langsung dengan angka yang **sudah saya hitung sebelum menulis opsi**.
 
 ---
 
@@ -658,23 +565,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**26.** Balok p = 8 cm, l = 7 cm, t = 6 cm. LP = ...
-- A. 122 cm²
-- B. 244 cm²
-- C. 336 cm²
-- D. 222 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Lupa × 2: pl + lt + pt = 56 + 42 + 48 = 146 (juga keliru jumlah).
-- **B** — Benar. pl = 56, lt = 42, pt = 48. Jumlah = 146 → 2 × 146 = **292 cm²**. Karena opsi B = 244 tidak cocok, gunakan p=8, l=7, t=5 → 56+35+40=131, LP=262 (tidak). Gunakan p=8, l=6, t=5 → 48+30+40=118, LP=236 (tidak). Gunakan **p=8, l=7, t=4** → 56+28+32 = 116, LP = 232 (tidak). Gunakan **p=10, l=6, t=4** → 60+24+40 = 124, LP = 248 (tidak). 
-
-> Pakai 244/2 = 122 = pl+lt+pt. Coba p=8, l=7, t=2 → 56+14+16 = 86 (no). Coba p=7, l=6, t=4 → 42+24+28=94 (no). Coba p=10, l=6, t=2 → 60+12+20=92 (no). Coba p=10, l=7, t=2 → 70+14+20=104 (no). Coba p=11, l=6, t=2 → 66+12+22=100 (no). Coba p=11, l=4, t=3 → 44+12+33=89 (no). Coba p=8, l=5, t=4 → 40+20+32=92 (no). Coba p=9, l=4, t=4 → 36+16+36=88 (no). Coba p=12, l=5, t=2 → 60+10+24=94 (no). Coba p=12, l=4, t=2 → 48+8+24=80 (no). Coba p=13, l=4, t=2 → 52+8+26=86 (no). Coba p=14, l=3, t=2 → 42+6+28=76 (no). Coba p=9, l=8, t=2 → 72+16+18=106 (no). Coba p=10, l=8, t=2 → 80+16+20=116 (no). Coba p=11, l=7, t=2 → 77+14+22=113 (no). Coba p=12, l=7, t=2 → 84+14+24=122 ✓.
-
-> Pakai **p=12, l=7, t=2** → LP = 244 cm². (Mengubah angka soal 26.)
-
----
-
-**26 (final).** Balok p = 12 cm, l = 7 cm, t = 2 cm. LP = ...
+**26.** Balok p = 12 cm, l = 7 cm, t = 2 cm. LP = ...
 - A. 122 cm²
 - B. 244 cm²
 - C. 168 cm²
@@ -693,23 +584,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-> **Catatan editor:** mulai dari sini, opsi A–D dirancang dari nilai LP yang sudah dihitung lebih dulu, supaya kunci dan distribusi tetap konsisten.
-
----
-
-**27.** Sebuah peti kayu berbentuk balok 80 cm × 50 cm × 40 cm. LP-nya ...
-- A. 8.000 cm²
-- B. 10.400 cm²
-- C. 5.200 cm²
-- D. 160.000 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Hanya 2 × 4.000 (sisi alas).
-- **B** — Benar. pl = 4.000, lt = 2.000, pt = 3.200. Jumlah = 9.200 → cek: 4.000 + 2.000 + 3.200 = 9.200. LP = 2 × 9.200 = 18.400 cm². Opsi B = 10.400 tidak cocok. Pakai **p=80, l=50, t=20** → pl=4.000, lt=1.000, pt=1.600, jumlah=6.600, LP=13.200 (tidak). Pakai **p=80, l=40, t=20** → 3.200+800+1.600=5.600, LP=11.200 (tidak). Pakai **p=80, l=40, t=10** → 3.200+400+800=4.400, LP=8.800 (tidak). Pakai **p=60, l=50, t=20** → 3.000+1.000+1.200=5.200, LP=10.400 ✓. Gunakan **p=60, l=50, t=20.**
-
----
-
-**27 (final).** Sebuah peti kayu berbentuk balok 60 cm × 50 cm × 20 cm. LP-nya ...
+**27.** Sebuah peti kayu berbentuk balok 60 cm × 50 cm × 20 cm. LP-nya ...
 - A. 6.000 cm²
 - B. 10.400 cm²
 - C. 5.200 cm²
@@ -728,19 +603,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**28.** Balok p = 7 cm, l = 4 cm, t = 3 cm. LP = ...
-- A. 41 cm²
-- B. 82 cm²
-- C. 84 cm²
-- D. 122 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Lupa × 2: pl + lt + pt = 28 + 12 + 21 = 61 (juga keliru jumlah). Atau angka asal.
-- **B** — Benar. pl = 28, lt = 12, pt = 21. Jumlah = 61 → 2 × 61 = 122. Opsi B = 82 tidak cocok. Pakai **p=7, l=3, t=2** → 21+6+14=41, LP=82 ✓.
-
----
-
-**28 (final).** Balok p = 7 cm, l = 3 cm, t = 2 cm. LP = ...
+**28.** Balok p = 7 cm, l = 3 cm, t = 2 cm. LP = ...
 - A. 41 cm²
 - B. 82 cm²
 - C. 42 cm²
@@ -892,20 +755,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**36.** Balok p = 16 cm, l = 10 cm, t = 5 cm. LP = ...
-- A. 230 cm²
-- B. 800 cm²
-- C. 460 cm²
-- D. 320 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Lupa × 2: 160 + 50 + 80 = 290 (juga keliru).
-- **B** — Salah. Itu volume: 16 × 10 × 5 = 800 cm³.
-- **C** — Benar. pl = 160, lt = 50, pt = 80. Jumlah = 290. LP = 2 × 290 = **580 cm²**. Opsi C = 460 tidak cocok. Pakai **p=16, l=10, t=3** → 160+30+48=238, LP=476 (tidak). Pakai **p=14, l=10, t=5** → 140+50+70=260, LP=520 (tidak). Pakai **p=12, l=10, t=5** → 120+50+60=230, LP=460 ✓.
-
----
-
-**36 (final).** Balok p = 12 cm, l = 10 cm, t = 5 cm. LP = ...
+**36.** Balok p = 12 cm, l = 10 cm, t = 5 cm. LP = ...
 - A. 230 cm²
 - B. 600 cm²
 - C. 460 cm²
@@ -924,21 +774,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**37.** Balok p = 20 cm, l = 12 cm, t = 8 cm. LP = ...
-- A. 1.920 cm²
-- B. 752 cm²
-- C. 376 cm²
-- D. 240 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Itu volume: 20 × 12 × 8 = 1.920 cm³.
-- **B** — Benar. pl = 240, lt = 96, pt = 160. Jumlah = 496 → cek: 240+96+160=496, LP=992. Opsi B = 752 tidak cocok. Pakai **p=20, l=12, t=4** → 240+48+80=368, LP=736 (mendekati 752). Pakai **p=20, l=10, t=6** → 200+60+120=380, LP=760 (mendekati). Pakai **p=18, l=10, t=6** → 180+60+108=348, LP=696 (no). Pakai **p=20, l=8, t=6** → 160+48+120=328, LP=656 (no). Pakai **p=20, l=12, t=3** → 240+36+60=336, LP=672 (no). Pakai **p=20, l=12, t=5** → 240+60+100=400, LP=800. Pakai **p=22, l=12, t=4** → 264+48+88=400, LP=800. Pakai **p=20, l=14, t=4** → 280+56+80=416, LP=832. 
-
-> Pakai 752/2 = 376. Cari p, l, t: pl + lt + pt = 376. Coba p=20, l=8, t=7 → 160+56+140=356 (no). Coba p=20, l=14, t=3 → 280+42+60=382 (no). Coba p=16, l=12, t=5 → 192+60+80=332 (no). Coba p=18, l=14, t=4 → 252+56+72=380 (mendekati). Coba p=16, l=14, t=5 → 224+70+80=374 (mendekati). Coba p=16, l=14, t=6 → 224+84+96=404 (no). Coba p=20, l=10, t=8 → 200+80+160=440. Coba p=14, l=12, t=8 → 168+96+112=376 ✓.
-
----
-
-**37 (final).** Balok p = 14 cm, l = 12 cm, t = 8 cm. LP = ...
+**37.** Balok p = 14 cm, l = 12 cm, t = 8 cm. LP = ...
 - A. 1.344 cm²
 - B. 752 cm²
 - C. 376 cm²
@@ -1052,20 +888,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**43.** Balok p = 17 cm, l = 4 cm, t = 3 cm. LP = ...
-- A. 95 cm²
-- B. 204 cm²
-- C. 190 cm²
-- D. 68 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Lupa × 2: 68 + 12 + 51 = 131 (juga keliru).
-- **B** — Salah. Itu volume: 17 × 4 × 3 = 204 cm³.
-- **C** — Benar. pl = 68, lt = 12, pt = 51. Jumlah = 131 → 2 × 131 = 262. Opsi C = 190 tidak cocok. Pakai **p=15, l=4, t=3** → 60+12+45=117, LP=234 (no). Pakai **p=15, l=5, t=2** → 75+10+30=115, LP=230 (no). Pakai **p=13, l=5, t=2** → 65+10+26=101, LP=202 (no). Pakai 190/2 = 95 = pl+lt+pt. Coba p=10, l=5, t=3 → 50+15+30=95 ✓.
-
----
-
-**43 (final).** Balok p = 10 cm, l = 5 cm, t = 3 cm. LP = ...
+**43.** Balok p = 10 cm, l = 5 cm, t = 3 cm. LP = ...
 - A. 90 cm²
 - B. 150 cm²
 - C. 190 cm²
@@ -1084,20 +907,7 @@ Untuk **menghemat waktu dan menghindari iterasi**, mulai soal 24 saya tulis lang
 
 ---
 
-**44.** Balok p = 9 cm, l = 6 cm, t = 5 cm. LP = ...
-- A. 270 cm²
-- B. 119 cm²
-- C. 238 cm²
-- D. 240 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Itu volume: 9 × 6 × 5 = 270 cm³.
-- **B** — Salah. Lupa × 2: 54 + 30 + 45 = 129 (juga salah hitung).
-- **C** — Benar. pl = 54, lt = 30, pt = 45. Jumlah = 129. LP = 2 × 129 = **258 cm²**. Opsi C = 238 tidak cocok. Pakai **p=9, l=6, t=4** → 54+24+36=114, LP=228 (mendekati). Pakai **p=9, l=5, t=4** → 45+20+36=101, LP=202 (no). Pakai 238/2 = 119. Coba p=7, l=6, t=5 → 42+30+35=107 (no). Coba p=11, l=5, t=4 → 55+20+44=119 ✓.
-
----
-
-**44 (final).** Balok p = 11 cm, l = 5 cm, t = 4 cm. LP = ...
+**44.** Balok p = 11 cm, l = 5 cm, t = 4 cm. LP = ...
 - A. 220 cm²
 - B. 119 cm²
 - C. 238 cm²
@@ -1274,18 +1084,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**53.** Sebuah balok memiliki LP = 376 cm², p = 12 cm, l = 8 cm. Tinggi balok ...
-- A. 5 cm
-- B. 7 cm
-- C. 6 cm
-- D. 4 cm
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP/2 = 188 = pl + lt + pt = 96 + t(8+12) = 96 + 20t. 20t = 92 → t = 4,6 cm. Tidak bulat — pakai cek dgn t = 5: pl+lt+pt = 96+40+60=196; LP=392. Tidak 376. **Tinggi yang menghasilkan 376** = (188 − 96)/20 = 92/20 = 4,6 cm. Karena tidak ada pilihan 4,6, **revisi:** pakai LP = 392 → t = 5 cm. Kunci tetap **A** (dengan LP = 392).
-
----
-
-**53 (final).** Sebuah balok memiliki LP = 392 cm², p = 12 cm, l = 8 cm. Tinggi balok ...
+**53.** Sebuah balok memiliki LP = 392 cm², p = 12 cm, l = 8 cm. Tinggi balok ...
 - A. 5 cm
 - B. 7 cm
 - C. 6 cm
@@ -1323,20 +1122,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**55.** LP balok = 270 cm², p = 9 cm, t = 5 cm. Lebar balok ...
-- A. 6 cm
-- B. 5 cm
-- C. 4 cm
-- D. 7 cm
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP/2 = 135 = pt + l(p + t) = 45 + 14l → 14l = 90 → l = 90/14 ≈ 6,43. Tidak bulat. **Revisi:** LP = 282 cm² → 141 = 45 + 14l → l = 96/14 ≈ 6,86. **LP = 276** → 138 = 45 + 14l → l = 93/14. **Pakai LP = 270, p = 9, l = 6, t = 5**: 54 + 30 + 45 = 129 → LP = 258 (bukan 270).
-
-> Cari (p=9, t=5, LP=270) → 135 = 45 + 14l → l = 90/14 = 6,43 (tidak bulat). Ganti soal: **p=10, t=5, LP=280** → 140 = 50+15l → l=90/15=6 ✓.
-
----
-
-**55 (final).** LP balok = 280 cm², p = 10 cm, t = 5 cm. Lebar balok ...
+**55.** LP balok = 280 cm², p = 10 cm, t = 5 cm. Lebar balok ...
 - A. 6 cm
 - B. 5 cm
 - C. 4 cm
@@ -1413,19 +1199,6 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 ---
 
 **59.** Balok p = 30 cm, l = 20 cm, t = 10 cm akan dicat. Bila 1 m² cat seharga Rp50.000, biaya cat untuk seluruh permukaan ...
-- A. Rp1.300
-- B. Rp130.000
-- C. Rp13.000
-- D. Rp65.000
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP = 2(600 + 200 + 300) = 2 × 1.100 = 2.200 cm² = 0,22 m². Biaya = 0,22 × 50.000 = **Rp11.000**. Opsi A = Rp1.300 tidak cocok. **Revisi**: LP = 2.600 cm² (pakai p=30, l=20, t=15) → 0,26 m² × 50.000 = Rp13.000 = opsi C. Atau pakai p=40, l=30, t=20 → LP = 2(1200+600+800) = 5.200 cm² = 0,52 m² × 50.000 = Rp26.000 (tidak ada). Pakai **p=30, l=20, t=10** dan biaya per m² Rp50.000 → biaya = Rp11.000. Opsi terdekat **A** anggap mewakili **Rp11.000**.
-
-> **Versi final:** pakai LP × harga = jawaban yang ada pada opsi.
-
----
-
-**59 (final).** Balok p = 30 cm, l = 20 cm, t = 10 cm akan dicat. Bila 1 m² cat seharga Rp50.000, biaya cat untuk seluruh permukaan ...
 - A. Rp11.000
 - B. Rp130.000
 - C. Rp22.000
@@ -1539,18 +1312,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**65.** Sebuah peti balok 60 cm × 40 cm × 30 cm dibungkus kertas. Berapa m² kertas yang diperlukan (tanpa tambahan)?
-- A. 0,72 m²
-- B. 0,90 m²
-- C. 0,84 m²
-- D. 9 m²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP = 2(2.400 + 1.200 + 1.800) = 2 × 5.400 = 10.800 cm² = 1,08 m². Opsi A = 0,72 m² tidak cocok. **Revisi**: pakai p=40, l=30, t=20 → LP = 2(1.200 + 600 + 800) = 5.200 cm² = 0,52 m² (tidak juga). Pakai p=60, l=40, t=20 → LP = 2(2.400 + 800 + 1.200) = 8.800 cm² = 0,88 m². Pakai p=50, l=40, t=20 → 2(2.000+800+1.000) = 7.600 cm² = 0,76 m². Pakai **p=40, l=30, t=20**, LP = 0,52 m². Pakai 0,84/2 = 0,42 → 4.200 cm² = pl+lt+pt. Coba p=30, l=20, t=15 → 600+300+450=1.350. Pakai 0,72/2 = 0,36 → 3.600 = pl+lt+pt. Coba p=60, l=30, t=20 → 1.800+600+1.200=3.600 ✓.
-
----
-
-**65 (final).** Sebuah peti balok 60 cm × 30 cm × 20 cm dibungkus kertas. Berapa m² kertas yang diperlukan (tanpa tambahan)?
+**65.** Sebuah peti balok 60 cm × 30 cm × 20 cm dibungkus kertas. Berapa m² kertas yang diperlukan (tanpa tambahan)?
 - A. 0,72 m²
 - B. 0,36 m²
 - C. 7,2 m²
@@ -1588,21 +1350,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**67.** LP balok = 348 cm² dengan p = 10 cm dan l = 6 cm. Tinggi ...
-- A. 7 cm
-- B. 8 cm
-- C. 9 cm
-- D. 10 cm
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. t = 7 → LP = 2(60 + 112) = 344.
-- **B** — Salah. t = 8 → LP = 2(60 + 128) = 376.
-- **C** — Benar. LP/2 = 174 = 60 + 16t → 16t = 114 → t = 7,125. **Revisi pakai LP = 376** → t = 8. Atau pakai LP = 312 → t = (156−60)/16 = 6. Atau LP = 408 → t=(204-60)/16=9 ✓. **Final: LP = 408**, t = **9 cm**.
-- **D** — Salah. t = 10 → LP = 2(60 + 160) = 440.
-
----
-
-**67 (final).** LP balok = 408 cm² dengan p = 10 cm dan l = 6 cm. Tinggi ...
+**67.** LP balok = 408 cm² dengan p = 10 cm dan l = 6 cm. Tinggi ...
 - A. 7 cm
 - B. 8 cm
 - C. 9 cm
@@ -1621,21 +1369,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**68.** Sebuah balok p = 12 cm, l = 8 cm, t = 6 cm. Bila tinggi diperbesar 2× (jadi 12 cm), LP baru ...
-- A. 432 cm²
-- B. 576 cm²
-- C. 720 cm²
-- D. 288 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. LP lama: 2(96 + 48 + 72) = 432.
-- **B** — Benar. LP baru: 2(96 + 96 + 144) = 2 × 336 = ?? Hitung: pl=96, lt=8×12=96, pt=12×12=144. Jumlah = 336. LP = 672 cm². Opsi B = 576 tidak cocok. **Pakai t baru = 10** → pl=96, lt=80, pt=120, jumlah=296, LP=592. **t baru = 8** → pl=96, lt=64, pt=96, jumlah=256, LP=512. Pakai 576/2 = 288 = pl+lt+pt. Coba p=12, l=8, t baru = 9 → 96+72+108=276 (no). Coba p=10, l=8, t=8 → 80+64+80=224 (no). Pakai t baru = 12, p = 10, l = 6 → 60+72+120=252 → LP=504. 
-
-> Konsisten: **soal 68 — t baru = 10**, LP baru = 592. Opsi B = 592.
-
----
-
-**68 (final).** Sebuah balok p = 12 cm, l = 8 cm, t = 6 cm. Bila tinggi diperbesar menjadi 10 cm (dimensi lain tetap), LP baru ...
+**68.** Sebuah balok p = 12 cm, l = 8 cm, t = 6 cm. Bila tinggi diperbesar menjadi 10 cm (dimensi lain tetap), LP baru ...
 - A. 432 cm²
 - B. 592 cm²
 - C. 960 cm²
@@ -1692,20 +1426,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**71.** Volume sebuah balok 504 cm³ dengan alas 9 cm × 8 cm. LP balok ...
-- A. 144 cm²
-- B. 130 cm²
-- C. 260 cm²
-- D. 220 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Itu 2 × pl (alas + tutup) = 144.
-- **B** — Salah. Lupa × 2: pl + lt + pt = 72 + 56 + 63 = 191 (juga salah hitung).
-- **C** — Benar. t = 504/(9 × 8) = 504/72 = 7 cm. LP = 2(72 + 56 + 63) = 2 × 191 = **382 cm²**. Opsi C = 260 tidak cocok. **Revisi**: pakai V = 360 → t = 5 → LP = 2(72+40+45) = 314. Pakai V = 432 → t = 6 → LP = 2(72+48+54) = 348. Pakai V = 288 → t = 4 → LP = 2(72+32+36) = 280. Pakai 260/2 = 130 = pl+lt+pt. Coba p=8, l=5, t=3 → 40+15+24=79 (no). Coba p=10, l=6, t=2 → 60+12+20=92 (no). Coba p=10, l=4, t=3 → 40+12+30=82 (no). Coba p=9, l=5, t=4 → 45+20+36=101 (no). Coba p=10, l=5, t=4 → 50+20+40=110 (no). Coba p=8, l=5, t=5 → 40+25+40=105 (no). Coba p=8, l=7, t=3 → 56+21+24=101 (no). Coba p=9, l=8, t=2 → 72+16+18=106 (no). Coba p=9, l=8, t=3 → 72+24+27=123 (no). Coba p=10, l=5, t=5 → 50+25+50=125 (no). Coba p=12, l=5, t=3 → 60+15+36=111 (no). Coba p=11, l=5, t=4 → 55+20+44=119 (no). Coba p=10, l=4, t=5 → 40+20+50=110. Coba p=12, l=5, t=4 → 60+20+48=128 (mendekati). Coba p=9, l=5, t=5 → 45+25+45=115. Coba p=11, l=4, t=4 → 44+16+44=104. Coba p=12, l=4, t=5 → 48+20+60=128. Coba p=10, l=7, t=2 → 70+14+20=104 (no). Coba p=13, l=4, t=3 → 52+12+39=103. Coba p=12, l=5, t=5 → 60+25+60=145. Coba p=8, l=5, t=4, dengan V = 160. Coba p=6, l=5, t=4 → 30+20+24=74 (×2=148). Pakai 220/2 = 110 = pl+lt+pt; coba p=10, l=4, t=5 → 40+20+50=110 ✓ → LP = 220. **Pakai V = 200, alas 10 × 4 → t = 5, LP = 220**.
-
----
-
-**71 (final).** Volume sebuah balok 200 cm³ dengan alas 10 cm × 4 cm. LP balok ...
+**71.** Volume sebuah balok 200 cm³ dengan alas 10 cm × 4 cm. LP balok ...
 - A. 110 cm²
 - B. 80 cm²
 - C. 220 cm²
@@ -1743,18 +1464,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**73.** LP balok = 184 cm², p = 6 cm, l = 4 cm. Tinggi ...
-- A. 8 cm
-- B. 7 cm
-- C. 9 cm
-- D. 6 cm
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP/2 = 92 = pl + t(p + l) = 24 + 10t → 10t = 68 → t = 6,8 cm. **Revisi LP = 200** → t = (100−24)/10 = 7,6 (tidak bulat). **Pakai p=6, l=4 dan LP = 188** → 94 = 24 + 10t → t = 7. **LP = 168** → 84 = 24+10t → t = 6. **LP = 248** → 124 = 24+10t → t = 10. **Pakai LP = 248, t = 10**. Opsi A = 8 → LP = 24+80=104 → 208. Pakai LP = 208 → t = 8 ✓.
-
----
-
-**73 (final).** LP balok = 208 cm², p = 6 cm, l = 4 cm. Tinggi ...
+**73.** LP balok = 208 cm², p = 6 cm, l = 4 cm. Tinggi ...
 - A. 8 cm
 - B. 7 cm
 - C. 9 cm
@@ -1830,20 +1540,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**77.** Balok p = 11 cm, l = 7 cm, t = 5 cm. LP = ...
-- A. 385 cm²
-- B. 187 cm²
-- C. 374 cm²
-- D. 154 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Itu volume: 11 × 7 × 5 = 385 cm³.
-- **B** — Salah. Lupa × 2: 77 + 35 + 55 = 167 (juga salah hitung).
-- **C** — Benar. pl = 77, lt = 35, pt = 55. Jumlah = 167 → 2 × 167 = 334. Opsi C = 374 tidak cocok. Pakai **p=11, l=7, t=6** → 77+42+66=185, LP=370 (mendekati). Pakai **p=11, l=8, t=5** → 88+40+55=183, LP=366. Pakai **p=11, l=7, t=7** → 77+49+77=203, LP=406. Pakai 374/2 = 187 = pl+lt+pt. Coba p=11, l=6, t=5 → 66+30+55=151 (no). Coba p=13, l=7, t=4 → 91+28+52=171. Coba p=13, l=7, t=5 → 91+35+65=191 (mendekati). Coba p=11, l=8, t=6 → 88+48+66=202. Coba p=11, l=9, t=5 → 99+45+55=199. Coba p=13, l=6, t=5 → 78+30+65=173. Coba p=15, l=7, t=4 → 105+28+60=193. Coba p=15, l=8, t=4 → 120+32+60=212. Coba p=11, l=10, t=3 → 110+30+33=173. Coba p=10, l=7, t=7 → 70+49+70=189 (mendekati). Coba p=12, l=7, t=5 → 84+35+60=179. Coba p=11, l=9, t=4 → 99+36+44=179. Coba p=11, l=10, t=4 → 110+40+44=194. Coba p=11, l=11, t=3 → 121+33+33=187 ✓.
-
----
-
-**77 (final).** Balok p = 11 cm, l = 11 cm, t = 3 cm. LP = ...
+**77.** Balok p = 11 cm, l = 11 cm, t = 3 cm. LP = ...
 - A. 363 cm²
 - B. 187 cm²
 - C. 374 cm²
@@ -1862,22 +1559,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 
 ---
 
-**78.** Balok p = 14 cm, l = 14 cm, t = 7 cm. LP = ...
-- A. 588 cm²
-- B. 1.372 cm²
-- C. 980 cm²
-- D. 490 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 2 × pl = 2 × 196 = 392 (juga salah baca).
-- **B** — Salah. Itu volume: 14 × 14 × 7 = 1.372 cm³.
-- **C** — Benar. pl = 196, lt = 98, pt = 98. Jumlah = 392. LP = 2 × 392 = **784 cm²**. Opsi C = 980 tidak cocok. Pakai **p=14, l=14, t=10** → 196+140+140=476, LP=952. Pakai **p=15, l=14, t=10** → 210+140+150=500, LP=1.000. Pakai 980/2 = 490 = pl+lt+pt. Coba p=14, l=14, t=14 → 196+196+196=588 (no). Coba p=14, l=14, t=11 → 196+154+154=504. Coba p=14, l=14, t=10 → 476. Coba p=15, l=14, t=10 → 500. Coba p=15, l=14, t=9 → 210+126+135=471. Coba p=14, l=12, t=11 → 168+132+154=454. Coba p=14, l=12, t=13 → 168+156+182=506. Coba p=15, l=10, t=14 → 150+140+210=500. Coba p=15, l=12, t=10 → 180+120+150=450. Coba p=10, l=10, t=15 → 100+150+150=400. Coba p=14, l=10, t=15 → 140+150+210=500. Coba p=14, l=10, t=14 → 140+140+196=476. Coba p=14, l=10, t=13 → 140+130+182=452. Coba p=15, l=12, t=11 → 180+132+165=477. Coba p=15, l=14, t=10 → 210+140+150=500. Coba p=15, l=15, t=8 → 225+120+120=465. Coba p=16, l=15, t=8 → 240+120+128=488 (mendekati). Coba p=16, l=15, t=9 → 240+135+144=519. Coba p=15, l=14, t=10 → 500. Coba p=14, l=13, t=12 → 182+156+168=506. Coba p=18, l=10, t=7 → 180+70+126=376. Coba p=20, l=14, t=5 → 280+70+100=450. Coba p=18, l=14, t=5 → 252+70+90=412. Coba p=20, l=15, t=5 → 300+75+100=475. Coba p=20, l=15, t=6 → 300+90+120=510. Coba p=20, l=15, t=4 → 300+60+80=440. Coba p=10, l=10, t=20 → 100+200+200=500. Coba p=10, l=10, t=19 → 100+190+190=480. Coba p=10, l=10, t=19,5 → 100+195+195=490 ✓ tapi tidak bulat. Pakai p=14, l=14, t=12 → 196+168+168 = 532 (no). Akhirnya pakai p=10, l=10, t = ? → 100 + 20t = 490 → 20t = 390 → t = 19,5 (tidak bulat). Coba p=14, l=14, t = ? → 196 + 28t = 490 → 28t = 294 → t = 10,5. Coba p=10, l=14 → 140+24t = 490 → 24t = 350 → t = 14,58. Pakai 980/2 = 490. Coba p=15, l=10 → 150 + 25t = 490 → 25t = 340 → t = 13,6. Coba p=12, l=10 → 120+22t=490 → t=370/22=16,8. Coba p=13, l=12 → 156+25t=490 → 25t=334 → 13,36. Coba p=14, l=11 → 154+25t=490 → 25t=336 → 13,44. Coba p=20, l=10 → 200+30t=490 → t=290/30=9,67. Coba p=15, l=8 → 120+23t=490 → 23t=370 → 16,09. Coba p=18, l=10 → 180+28t=490 → 28t=310 → 11,07. Coba p=16, l=10 → 160+26t=490 → 26t=330 → 12,69.
-
-> Berhenti — ganti angka soal 78 supaya konsisten.
-
----
-
-**78 (final).** Balok p = 14 cm, l = 14 cm, t = 5 cm. LP = ...
+**78.** Balok p = 14 cm, l = 14 cm, t = 5 cm. LP = ...
 - A. 588 cm²
 - B. 980 cm²
 - C. 672 cm²
@@ -1960,18 +1642,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 ---
 
 **82.** Sebuah peti balok p = 1,2 m, l = 0,8 m, t = 0,5 m akan dicat dengan biaya Rp75.000/m². Total biaya cat seluruh permukaan ...
-- A. Rp244.000
-- B. Rp262.000
-- C. Rp375.000
-- D. Rp192.000
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Lupa salah satu pasangan.
-- **B** — Benar. LP = 2(0,96 + 0,40 + 0,60) = 2 × 1,96 = 3,92 m². Biaya = 3,92 × 75.000 = Rp**294.000**. Opsi B = 262.000 tidak cocok. Hitung ulang: pl = 1,2 × 0,8 = 0,96; lt = 0,8 × 0,5 = 0,40; pt = 1,2 × 0,5 = 0,60. Jumlah = 1,96. LP = 3,92 m². Biaya = 294.000. **Revisi opsi B → Rp294.000.**
-
----
-
-**82 (final).** Sebuah peti balok p = 1,2 m, l = 0,8 m, t = 0,5 m akan dicat dengan biaya Rp75.000/m². Total biaya cat seluruh permukaan ...
 - A. Rp147.000
 - B. Rp294.000
 - C. Rp360.000
@@ -2009,21 +1679,7 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 ---
 
-**84.** Sebuah balok p = 15 cm, l = 10 cm, t = 8 cm dilubangi sebuah balok lebih kecil 5 × 4 × 3 di salah satu sudutnya (menembus tinggi). Bila lubang menembus, perubahan LP terhadap balok utuh adalah ...
-- A. − 12 cm² (berkurang)
-- B. + 12 cm² (bertambah)
-- C. − 40 cm²
-- D. + 40 cm²
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Lubang menambah luas dinding dalam.
-- **B** — Benar. Lubang persegi panjang 5 × 4 menembus tinggi 8 → di tutup dan alas hilang 5×4 = 20 cm² (dua kali) = 40 cm² hilang. Tapi dinding lubang muncul: keliling alas 2(5+4)=18 × tinggi 8 = 144 cm². Perubahan LP = +144 − 40 = **+104 cm²**. Opsi B = +12 tidak cocok. **Versi konsisten** — pakai lubang **2 × 1 menembus tinggi 8**: hilang 2×2×1 = 4 cm², muncul 2(2+1)×8 = 48 → net = +44. Opsi B = 12 → pakai lubang 1×1 menembus tinggi 8: hilang 2 cm², muncul 4 × 8 = 32 → +30. Opsi B = 12 → pakai lubang 1×1 menembus tinggi 5: hilang 2, muncul 4×5=20 → +18. Opsi B = 12 → pakai lubang 1×1 menembus tinggi 3,5 (tidak realistis). 
-
-> **Versi final:** kita pakai jawaban **+104 cm²** dan ganti opsi B menjadi nilai itu.
-
----
-
-**84 (final).** Sebuah balok p = 15 cm, l = 10 cm, t = 8 cm dilubangi balok kecil 5 × 4 cm menembus seluruh tinggi 8. Perubahan LP terhadap balok utuh ...
+**84.** Sebuah balok p = 15 cm, l = 10 cm, t = 8 cm dilubangi balok kecil 5 × 4 cm menembus seluruh tinggi 8. Perubahan LP terhadap balok utuh ...
 - A. − 40 cm²
 - B. + 104 cm²
 - C. + 40 cm²
@@ -2042,20 +1698,7 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 ---
 
-**85.** Balok p = 20 cm, l = 12 cm, t = 8 cm. Jika dipotong menjadi 2 balok sama besar (membelah tinggi), total LP kedua potongan ...
-- A. 1.232 cm²
-- B. 1.072 cm²
-- C. 1.552 cm²
-- D. 752 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP awal = 2(240+96+160) = 992. Membelah tinggi → muncul 2 permukaan baru ukuran p × l = 240 cm² × 2 (untuk 2 potongan) = 480. Tapi kedua potongan punya total LP = LP awal + 2 × (pl) = 992 + 480? Cek: tiap potongan punya t baru = 4, p=20, l=12. LP tiap = 2(240+48+80) = 736. Total 2 potongan = 1.472. Beda dengan 1.232. Cek lain: setelah membelah, di permukaan irisan timbul 2 sisi baru (1 di tiap potongan) masing-masing pl = 240. Total LP = LP awal + 2 × pl = 992 + 480 = **1.472 cm²**.
-
-> Opsi A = 1.232 tidak cocok. Pakai 1.472 sebagai jawaban.
-
----
-
-**85 (final).** Balok p = 20 cm, l = 12 cm, t = 8 cm. Jika dipotong menjadi 2 balok sama besar (membelah tinggi menjadi dua), total LP kedua potongan ...
+**85.** Balok p = 20 cm, l = 12 cm, t = 8 cm. Jika dipotong menjadi 2 balok sama besar (membelah tinggi menjadi dua), total LP kedua potongan ...
 - A. 1.472 cm²
 - B. 992 cm²
 - C. 736 cm²
@@ -2093,18 +1736,7 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 ---
 
-**87.** Sebuah balok memiliki LP = 248 cm². Bila p = 8 cm dan l = 6 cm, volume balok ...
-- A. 240 cm³
-- B. 144 cm³
-- C. 192 cm³
-- D. 96 cm³
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP/2 = 124 = 48 + 14t → 14t = 76 → t = 76/14 ≈ 5,43. Tidak bulat — **revisi LP = 236** → 118 = 48+14t → t = 5 → V = 8×6×5 = **240 cm³** ✓. (Soal pakai LP = 236, opsi A = 240.)
-
----
-
-**87 (final).** Sebuah balok memiliki LP = 236 cm². Bila p = 8 cm dan l = 6 cm, volume balok ...
+**87.** Sebuah balok memiliki LP = 236 cm². Bila p = 8 cm dan l = 6 cm, volume balok ...
 - A. 240 cm³
 - B. 144 cm³
 - C. 192 cm³
@@ -2164,21 +1796,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 **90.** Sebuah aula balok 12 m × 10 m × 5 m. Plafon dan 4 dinding akan dicat. Bila 1 kaleng cat menutup 12 m² dan harga Rp95.000/kaleng (dibulatkan ke atas), biaya cat ...
 - A. Rp1.520.000
 - B. Rp2.470.000
-- C. Rp2.660.000
-- D. Rp1.900.000
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Hanya plafon: pl = 120 m² / 12 = 10 kaleng × 95.000 = 950.000 (juga salah).
-- **B** — Salah. Salah dibulat ke bawah.
-- **C** — Benar. Plafon = 12 × 10 = 120 m². Dinding = 2lt + 2pt = 2(10×5) + 2(12×5) = 100 + 120 = 220 m². Total = 340 m². Kaleng = 340 / 12 = 28,33 → bulat ke atas **29 kaleng**. Biaya = 29 × 95.000 = Rp**2.755.000**. Opsi C = 2.660.000 tidak cocok. 
-
-> **Revisi**: pakai 28 kaleng → 28 × 95.000 = 2.660.000 = opsi C. Pembulatan: 340/12 = 28,33 → 29 yang benar. Tapi kalau diasumsikan "tepat di batas" → 28 kaleng. Pakai opsi C sebagai jawaban dengan asumsi pembulatan ke bawah (kasus khusus jika sisa 4 m² ditambal dengan kaleng setengah lama). Atau gunakan total = 336 m² (pakai t = 4,9 m → 12×10 + 100 + 120 dengan t=4,9) — terlalu rumit. **Final**: opsi C dianggap mewakili 29 × 95.000 = Rp2.755.000.
-
----
-
-**90 (final).** Sebuah aula balok 12 m × 10 m × 5 m. Plafon dan 4 dinding akan dicat. Bila 1 kaleng cat menutup 12 m² dan harga Rp95.000/kaleng (dibulatkan ke atas), biaya cat ...
-- A. Rp1.520.000
-- B. Rp2.470.000
 - C. Rp2.755.000
 - D. Rp1.900.000
 **Kunci: C**
@@ -2197,19 +1814,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 **91.** Sebuah balok berukuran 30 × 20 × 10 cm di dalam balok besar 50 × 40 × 30 cm. LP balok besar dikurangi LP balok kecil ...
 - A. 6.400 cm²
-- B. 7.000 cm²
-- C. 5.000 cm²
-- D. 2.200 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. LP besar = 2(2.000+1.200+1.500) = 2 × 4.700 = 9.400. LP kecil = 2(600+200+300) = 2.200. Selisih = **7.200 cm²**. Opsi A = 6.400 tidak cocok. Hitung ulang: 9.400 − 2.200 = 7.200 → opsi B = 7.000 mendekati. 
-
-> **Versi final** opsi B = 7.200 cm² → kunci = **B**.
-
----
-
-**91 (final).** Sebuah balok berukuran 30 × 20 × 10 cm di dalam balok besar 50 × 40 × 30 cm. LP balok besar dikurangi LP balok kecil ...
-- A. 6.400 cm²
 - B. 7.200 cm²
 - C. 4.700 cm²
 - D. 2.200 cm²
@@ -2227,20 +1831,7 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 ---
 
-**92.** Sebuah balok p = 20 cm, l = 15 cm. Bila luas total dua sisi alas dan tutup = 600 cm² dan LP total = 1.380 cm², tinggi balok ...
-- A. 8 cm
-- B. 10 cm
-- C. 12 cm
-- D. 14 cm
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. t = 8 → 2 × 70 × 8 = 1.120 (LP sisi tegak), total = 600 + 1.120 = 1.720 (bukan 1.380).
-- **B** — Salah. t = 10 → 2 × 70 × 10 = 1.400, total = 2.000.
-- **C** — Benar. LP sisi tegak = 2(l+p)×t = 2 × 35 × t = 70t. Total = 600 + 70t = 1.380 → 70t = 780 → t = 780/70 = 11,14. Tidak bulat — **revisi LP = 1.380 → t = 12 → LP sisi tegak = 840, total = 1.440**. Pakai LP = 1.440. (Opsi tetap C = 12 cm.)
-
----
-
-**92 (final).** Sebuah balok p = 20 cm, l = 15 cm. Bila luas total dua sisi alas dan tutup = 600 cm² dan LP total = 1.440 cm², tinggi balok ...
+**92.** Sebuah balok p = 20 cm, l = 15 cm. Bila luas total dua sisi alas dan tutup = 600 cm² dan LP total = 1.440 cm², tinggi balok ...
 - A. 8 cm
 - B. 10 cm
 - C. 12 cm
@@ -2260,18 +1851,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 ---
 
 **93.** Sebuah balok p = 24 cm, l = 18 cm, t = 12 cm. Bila tinggi diperkecil setengah (jadi 6), berapa persen LP turun?
-- A. 25%
-- B. 21,4%
-- C. 50%
-- D. 12,5%
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Mengira sebanding linear.
-- **B** — Benar. LP lama = 2(432+216+288) = 2 × 936 = 1.872. LP baru = 2(432+108+144) = 2 × 684 = 1.368. Turun = 504. % = 504/1.872 × 100% ≈ **26,9%**. Tidak cocok 21,4%. **Revisi**: opsi B = 26,9% sebagai jawaban benar.
-
----
-
-**93 (final).** Sebuah balok p = 24 cm, l = 18 cm, t = 12 cm. Bila tinggi diperkecil setengah (jadi 6), berapa persen LP turun?
 - A. 25%
 - B. 26,9%
 - C. 50%
@@ -2312,19 +1891,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 **95.** Dua kotak balok identik berdimensi 12 × 8 × 6 cm direkatkan sisi pl-nya (12 × 8). LP gabungan ...
 - A. 864 cm²
 - B. 672 cm²
-- C. 768 cm²
-- D. 432 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 2 × LP tunggal: 2 × 432 = 864 (lupa kurangi sisi rekat).
-- **B** — Salah. LP tunggal + pl saja.
-- **C** — Benar. LP tunggal = 2(96+48+72) = 432. Gabungan = 2 × 432 − 2 × pl = 864 − 192 = **672 cm²**. Opsi C = 768 tidak cocok. Pakai jawaban 672 → **kunci B**.
-
----
-
-**95 (final).** Dua kotak balok identik berdimensi 12 × 8 × 6 cm direkatkan sisi pl-nya (12 × 8). LP gabungan ...
-- A. 864 cm²
-- B. 672 cm²
 - C. 480 cm²
 - D. 1.152 cm²
 **Kunci: B**
@@ -2341,21 +1907,7 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 
 ---
 
-**96.** Sebuah balok memiliki LP = 384 cm² dengan p:l = 3:2 dan t = 4 cm. Volume balok ...
-- A. 384 cm³
-- B. 480 cm³
-- C. 576 cm³
-- D. 720 cm³
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. = LP nilai mentah, bukan volume.
-- **B** — Salah. Salah ambil rasio.
-- **C** — Salah. Salah persamaan.
-- **D** — Benar. p = 3k, l = 2k. LP = 2(6k² + 2k·4 + 3k·4) = 2(6k² + 20k) = 12k² + 40k = 384. 12k² + 40k − 384 = 0 → 3k² + 10k − 96 = 0. Diskriminan = 100 + 1.152 = 1.252 (tidak rapi). **Revisi**: pakai LP = 376 → 12k² + 40k = 376 → 3k² + 10k − 94 = 0. Disk = 100 + 1.128 = 1.228 (tidak rapi). Pakai t = 5: LP = 2(6k² + 10k + 15k) = 12k² + 50k. Untuk hasil bulat: k=4 → 192+200=392, LP = 392. Pakai **LP = 392, t = 5, p:l = 3:2** → k = 4 → p = 12, l = 8, t = 5. V = 12×8×5 = **480 cm³**. Kunci direvisi → **B**.
-
----
-
-**96 (final).** Sebuah balok memiliki LP = 392 cm² dengan p:l = 3:2 dan t = 5 cm. Volume balok ...
+**96.** Sebuah balok memiliki LP = 392 cm² dengan p:l = 3:2 dan t = 5 cm. Volume balok ...
 - A. 384 cm³
 - B. 480 cm³
 - C. 576 cm³
@@ -2413,19 +1965,6 @@ Fokus: soal cerita aplikasi multi-langkah, balok berlubang (pintu/jendela), perb
 ---
 
 **99.** Sebuah kontainer balok 6 m × 2,4 m × 2,4 m. LP luar tanpa alas akan dicat. Bila harga cat Rp45.000/m², total biaya ...
-- A. Rp1.620.000
-- B. Rp2.700.000
-- C. Rp2.376.000
-- D. Rp3.456.000
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. Hanya LP penuh × 0,5.
-- **B** — Salah. LP penuh: 2(14,4 + 5,76 + 14,4) = 2 × 34,56 = 69,12 m². Biaya = 69,12 × 45.000 ≈ Rp3.110.000 (tidak cocok).
-- **C** — Benar. LP tanpa alas = pl + 2lt + 2pt = 14,4 + 11,52 + 28,8 = 54,72 m² → 54,72 × 45.000 = **Rp2.462.400**. Opsi C = 2.376.000 tidak cocok. Hitung ulang: pl = 6 × 2,4 = 14,4. lt = 2,4 × 2,4 = 5,76 → 2lt = 11,52. pt = 6 × 2,4 = 14,4 → 2pt = 28,8. Total = 14,4 + 11,52 + 28,8 = 54,72 m². Biaya = 54,72 × 45.000 = Rp2.462.400. **Revisi opsi C → Rp2.462.400.**
-
----
-
-**99 (final).** Sebuah kontainer balok 6 m × 2,4 m × 2,4 m. LP luar tanpa alas akan dicat. Bila harga cat Rp45.000/m², total biaya ...
 - A. Rp1.620.000
 - B. Rp2.700.000
 - C. Rp2.462.400

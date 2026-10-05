@@ -20,6 +20,7 @@ import { TanggaSatuan, KecepatanJarakWaktu, Debit, SkalaPeta } from './families/
 import { DiagramBatang, DiagramLingkaran, MeanMedianModus, PeluangDadu } from './families/statistika';
 import { DiskonPPN, TimbanganAljabar } from './families/aljabar';
 import { ObjekFoto } from './families/objek';
+import { DiagramGaris, Pertidaksamaan, Pembulatan, PersenBagian, LangkahHitung, KonversiSatuan, FaktorKelipatan } from './families/mtk-tambahan';
 
 const COMPONENTS = {
   tuas: Tuas,
@@ -78,6 +79,13 @@ const COMPONENTS = {
   'peluang-dadu': PeluangDadu,
   'diskon-ppn': DiskonPPN,
   'timbangan-aljabar': TimbanganAljabar,
+  'diagram-garis': DiagramGaris,
+  pertidaksamaan: Pertidaksamaan,
+  pembulatan: Pembulatan,
+  'persen-bagian': PersenBagian,
+  'langkah-hitung': LangkahHitung,
+  'konversi-satuan': KonversiSatuan,
+  'faktor-kelipatan': FaktorKelipatan,
 };
 
 export const DIAGRAMS = DIAGRAM_DATA.map((d) => ({ ...d, component: COMPONENTS[d.id] }));

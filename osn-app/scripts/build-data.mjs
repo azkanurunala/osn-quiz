@@ -455,7 +455,9 @@ function parseQuestionBlock(lines) {
     const ln = lines[i];
     if (soalMarkerLine === -1 && /^\*\*(?:\(1\)\s*)?Soal:?\*\*/i.test(ln)) soalMarkerLine = i;
     if (pilihanMarkerLine === -1 && /^\*\*(?:\(2\)\s*)?Pilihan(?:\s+Jawaban)?:?\*\*/i.test(ln)) pilihanMarkerLine = i;
-    if (jawabanMarkerLine === -1 && /^\*\*(?:\(3\)\s*)?Jawaban:?\*\*/i.test(ln)) jawabanMarkerLine = i;
+    // "**Jawaban:** C" and also "**Jawaban: C**" (letter inside the bold) — the latter used to be
+    // missed, which silently defaulted the key to "A" for whole files.
+    if (jawabanMarkerLine === -1 && /^\*\*(?:\(3\)\s*)?Jawaban:?(?:\s*[A-D](?:[.·)\s][^*]*)?)?\*\*/i.test(ln)) jawabanMarkerLine = i;
     if (kunciLine === -1 && /^\*\*Kunci:?\s*([A-D])/i.test(ln)) kunciLine = i;
     if (pembahasanLine === -1 && /\*\*[📖🔍]?\s*(?:\(\d+\)\s*)?Pembahasan/iu.test(ln)) pembahasanLine = i;
     if (firstDashOptionLine === -1 && /^-\s+[A-D]\.\s+/.test(ln)) firstDashOptionLine = i;

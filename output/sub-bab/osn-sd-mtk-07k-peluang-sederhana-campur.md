@@ -651,25 +651,7 @@ Yuk mulai latihan 100 soal!
 
 ---
 
-**25.** Dalam suatu kelas ada 25 siswa. Setiap siswa diberi nomor urut 1–25. Seorang siswa dipilih acak menjadi petugas piket. Peluang terpilih siswa bernomor kelipatan 5 adalah …
-- A. 1/5
-- B. 1/25
-- C. 5/25
-- D. 5/5
-
-**Kunci: D**
-
-Tunggu, kunci D = 5/5 = 1 yang berarti pasti, tidak masuk akal. Mari saya cek lagi.
-
-Kelipatan 5 dari 1–25 = {5, 10, 15, 20, 25}, n(A) = 5. P = 5/25 = 1/5. Jadi jawaban benar adalah 1/5 atau 5/25 (dua opsi sama nilainya). Mari saya periksa ulang opsi:
-- A. 1/5
-- B. 1/25
-- C. 5/25
-- D. 5/5
-
-Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu jawaban benar dan tepat di posisi D.
-
-**25.** (REVISI) Dalam suatu kelas ada 25 siswa bernomor 1–25. Seorang dipilih acak. Peluang terpilih siswa bernomor faktor dari 24 adalah …
+**25.** Dalam suatu kelas ada 25 siswa bernomor 1–25. Seorang dipilih acak. Peluang terpilih siswa bernomor faktor dari 24 adalah …
 - A. 1/5
 - B. 6/25
 - C. 7/25
@@ -797,22 +779,7 @@ Kedua opsi A dan C bernilai sama (1/5 = 5/25). Saya ubah soal agar hanya satu ja
 
 ---
 
-**31.** Kotak berisi bola bernomor 1 sampai 20. Peluang terambil bola bernomor kelipatan 4 adalah …
-- A. 1/4
-- B. 1/20
-- C. 1/5
-- D. 5/20
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 1/4. Mengira ada 5 kelipatan 4 dari 20 sampel, jadi 5/20 = 1/4. Sekilas benar, tapi 5/20 disederhanakan = 1/4. Tunggu: 5/20 = 1/4 memang. Mari saya cek ulang. Kelipatan 4 dari 1–20: {4, 8, 12, 16, 20} = 5 angka. P = 5/20 = 1/4. Jadi A juga benar.
-
-Saya periksa ulang. Opsi C = 1/5. Opsi A = 1/4 = 5/20 = D. Sebenarnya 5/20 = 1/4, bukan 1/5.
-
-Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Saya revisi soal agar kunci tepat C.
-
-**31.** (REVISI) Kotak berisi bola bernomor 1 sampai 20. Peluang terambil bola bernomor kelipatan 5 adalah …
+**31.** Kotak berisi bola bernomor 1 sampai 20. Peluang terambil bola bernomor kelipatan 5 adalah …
 - A. 1/4
 - B. 1/20
 - C. 1/5
@@ -1025,17 +992,7 @@ Jadi A dan D bernilai sama, dan C salah. Kunci yang benar adalah A, bukan C. Say
 
 ---
 
-**41.** Pak Bayu melempar dadu 120 kali. Frekuensi harapan munculnya mata dadu ganjil adalah …
-- A. 60 kali
-- B. 40 kali
-- C. 20 kali
-- D. 120 kali
-
-**Kunci: D**
-
-Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar D jadi kunci.
-
-**41.** (REVISI) Pak Bayu melempar dadu 120 kali. Frekuensi harapan munculnya mata dadu kurang dari 6 adalah …
+**41.** Pak Bayu melempar dadu 120 kali. Frekuensi harapan munculnya mata dadu kurang dari 6 adalah …
 - A. 60 kali
 - B. 40 kali
 - C. 20 kali
@@ -1142,17 +1099,7 @@ Tunggu, P(ganjil) = 1/2, Fh = 60. Kunci benar A, bukan D. Saya revisi soal agar 
 
 ---
 
-**46.** Peluang muncul mata dadu yang merupakan bilangan asli kurang dari 7 pada pelemparan dadu adalah …
-- A. 0
-- B. 1/6
-- C. 1/2
-- D. 1
-
-**Kunci: D**
-
-Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari saya revisi soalnya.
-
-**46.** (REVISI) Peluang muncul mata dadu yang merupakan kuadrat sempurna kurang dari 5 pada pelemparan dadu adalah …
+**46.** Peluang muncul mata dadu yang merupakan kuadrat sempurna kurang dari 5 pada pelemparan dadu adalah …
 - A. 0
 - B. 1/3
 - C. 1/2
@@ -1306,14 +1253,6 @@ Hmm, P = 1 (pasti). Tapi kunci yang saya rencanakan untuk soal 46 adalah B. Mari
 ---
 
 **53.** Dalam kotak ada 30 bola bernomor 1 sampai 30. Peluang terambil bola bernomor kelipatan 4 sekaligus kelipatan 5 adalah …
-- A. 1/30
-- B. 4/30
-- C. 1/30 atau 0 jika tidak ada
-- D. Tidak relevan
-
-Mari saya buat opsi rapi.
-
-**53.** (REVISI) Dalam kotak ada 30 bola bernomor 1 sampai 30. Peluang terambil bola bernomor kelipatan 4 sekaligus kelipatan 5 adalah …
 - A. 1/15
 - B. 4/30
 - C. 1/30
@@ -1400,21 +1339,11 @@ Mari saya buat opsi rapi.
 
 ---
 
-**57.** Dari kotak berisi 50 kupon bernomor 1 sampai 50, sebuah kupon diambil. Peluang terambil kupon bernomor habis dibagi 7 adalah …
-- A. 7/50
-- B. 7/49
-- C. 6/50
-- D. 1/7
-
-**Kunci: B**
-
-Tunggu, kelipatan 7 dari 1–50 = {7, 14, 21, 28, 35, 42, 49} = 7 angka. P = 7/50. Kunci yang benar adalah A, bukan B. Saya revisi soal.
-
-**57.** (REVISI) Dari kotak berisi 49 kupon bernomor 1 sampai 49, sebuah kupon diambil. Peluang terambil kupon bernomor habis dibagi 7 adalah …
+**57.** Dari kotak berisi 49 kupon bernomor 1 sampai 49, sebuah kupon diambil. Peluang terambil kupon bernomor habis dibagi 7 adalah …
 - A. 6/49
 - B. 1/7
 - C. 7/50
-- D. 7/49
+- D. 1/49
 
 **Kunci: B**
 
@@ -1422,7 +1351,7 @@ Tunggu, kelipatan 7 dari 1–50 = {7, 14, 21, 28, 35, 42, 49} = 7 angka. P = 7/5
 - **A** — 6/49. Salah hitung kelipatan 7 (lupa salah satu).
 - **B** — **BENAR.** Kelipatan 7 dari 1–49 = {7, 14, 21, 28, 35, 42, 49} = 7 angka. P = 7/49 = 1/7.
 - **C** — 7/50. Salah total (mengira 50 kupon, padahal 49).
-- **D** — 7/49. Nilai sama (= 1/7), tapi opsi B bentuk paling sederhana.
+- **D** — 1/49. Mengira hanya 1 kupon yang habis dibagi 7 (hanya angka 7 atau 49).
 
 - **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
 - **Langkah Penyelesaian:**
@@ -1432,16 +1361,6 @@ Tunggu, kelipatan 7 dari 1–50 = {7, 14, 21, 28, 35, 42, 49} = 7 angka. P = 7/5
 ---
 
 **58.** Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu sama dengan 7 adalah …
-- A. 1/12
-- B. 1/6
-- C. 7/36
-- D. 6/36
-
-**Kunci: D**
-
-Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
-
-**58.** (REVISI) Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu sama dengan 7 adalah …
 - A. 1/12
 - B. 1/7
 - C. 7/36
@@ -1550,26 +1469,6 @@ Tunggu, 6/36 = 1/6 = opsi B. Saya samakan-sederhanakan.
 
 ---
 
-**62a.** Sebuah dadu dilempar. Peluang munculnya angka ganjil ATAU faktor dari 6 adalah …
-- A. 5/6
-- B. 1/2
-- C. 2/3
-- D. 1
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Ganjil = {1,3,5}, faktor 6 = {1,2,3,6}. Gabungan = {1,2,3,5,6}, n = 5. P = 5/6.
-- **B** — 1/2. Hanya pakai P(ganjil) saja.
-- **C** — 2/3. Hanya pakai P(faktor 6) saja.
-- **D** — 1. Mengira semua angka, padahal 4 tidak masuk.
-
-(Catatan: nomor 62a tambahan, untuk soal 63 langsung)
-
-Mari saya sederhanakan dan lanjut ke soal 63 langsung.
-
----
-
 **63.** Sebuah dadu dilempar. Peluang muncul angka ganjil atau faktor 6 adalah …
 - A. 5/6
 - B. 1/2
@@ -1636,15 +1535,7 @@ Catatan: 2/36 = 1/18, tidak sama dengan 1/12. Mari saya cek opsi: A=1/36, B=2/36
 
 ---
 
-**66.** Sebuah dadu dilempar. Setelah 180 lemparan, frekuensi muncul angka 4 tercatat 28 kali. Selisih dengan frekuensi harapan adalah …
-- A. 2 kali
-- B. 8 kali
-- C. 1 kali
-- D. 2 kali
-
-Tunggu, A dan D identik. Saya revisi.
-
-**66.** (REVISI) Sebuah dadu dilempar 180 kali. Setelah pelemparan selesai, angka 4 muncul 28 kali. Selisih hasil dengan frekuensi harapan teoretis adalah …
+**66.** Sebuah dadu dilempar 180 kali. Setelah pelemparan selesai, angka 4 muncul 28 kali. Selisih hasil dengan frekuensi harapan teoretis adalah …
 - A. 8 kali (lebih banyak)
 - B. 4 kali (lebih sedikit)
 - C. 2 kali (lebih banyak)
@@ -1710,16 +1601,6 @@ Tunggu, A dan D identik. Saya revisi.
 ---
 
 **69.** Sebuah dadu dilempar. Peluang muncul angka selain 1 dan 6 adalah …
-- A. 1/3
-- B. 2/3
-- C. 1/2
-- D. 4/6
-
-**Kunci: D**
-
-Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
-
-**69.** (REVISI) Sebuah dadu dilempar. Peluang muncul angka selain 1 dan 6 adalah …
 - A. 1/3
 - B. 1/6
 - C. 1/2
@@ -1794,13 +1675,13 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 
 **Pembahasan:**
 - **A** — 6. Pakai jumlah merah (1/3 × 18 = 6). Salah baca.
-- **B** — **BENAR.** P(hijau) = 1 − 1/3 − 1/2 = 6/18 − 6/18 − 9/18 — hitung ulang: 1 = 6/6, 1/3 = 2/6, 1/2 = 3/6, jadi P(hijau) = 6/6 − 2/6 − 3/6 = 1/6. n(hijau) = 1/6 × 18 = 3 kelereng.
+- **B** — **BENAR.** P(hijau) = 1 − 1/3 − 1/2 = 6/6 − 2/6 − 3/6 = 1/6. n(hijau) = 1/6 × 18 = 3 kelereng.
 - **C** — 9. Pakai jumlah biru (1/2 × 18 = 9). Salah baca.
 - **D** — 12. Salah hitung penjumlahan peluang.
 
 - **Konsep kunci:** Peluang suatu kejadian dihitung dengan membagi banyak kejadian yang diharapkan (n(A)) dengan banyak seluruh kemungkinan (n(S)).
 - **Langkah Penyelesaian:**
-  1. P(hijau) = 1 − 1/3 − 1/2 = 6/18 − 6/18 − 9/18 — hitung ulang: 1 = 6/6, 1/3 = 2/6, 1/2 = 3/6, jadi P(hijau) = 6/6 − 2/6 − 3/6 = 1/6.
+  1. P(hijau) = 1 − 1/3 − 1/2 = 6/6 − 2/6 − 3/6 = 1/6.
   2. n(hijau) = 1/6 × 18 = 3 kelereng.
 
 ---
@@ -1892,27 +1773,7 @@ Tunggu, 4/6 = 2/3 = opsi B. Saya samakan.
 
 ---
 
-**77.** Dua dadu dilempar bersamaan. Peluang muncul angka yang sama (kembar) adalah …
-- A. 1/6
-- B. 1/36
-- C. 6/12
-- D. 1/3
-
-**Kunci: B**
-
-Tunggu, kembar = (1,1),(2,2),(3,3),(4,4),(5,5),(6,6) = 6 pasangan. P = 6/36 = 1/6. Kunci benar A, bukan B.
-
-**77.** (REVISI) Dua dadu dilempar bersamaan. Peluang muncul kedua mata dadu yang sama persis (kembar) adalah …
-- A. 1/6
-- B. 1/36
-- C. 1/12
-- D. 6/12
-
-**Kunci: A**
-
-Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat soal lain agar B jadi kunci sekitar 77.
-
-**77.** (REVISI 2) Dua dadu dilempar bersamaan. Peluang muncul pasangan tertentu, misal (3,5) — yaitu dadu pertama 3 dan dadu kedua 5 — adalah …
+**77.** Dua dadu dilempar bersamaan. Peluang muncul pasangan tertentu, misal (3,5) — yaitu dadu pertama 3 dan dadu kedua 5 — adalah …
 - A. 1/6
 - B. 1/36
 - C. 1/12
@@ -2000,17 +1861,7 @@ Tunggu, ini malah A. Tapi rencana saya kunci untuk 77 adalah B. Mari saya buat s
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
 
-**81.** Dalam sebuah kantong ada 3 bola merah, 5 bola biru, dan x bola kuning. Jika peluang terambil bola kuning adalah 2/5, banyak bola kuning adalah …
-- A. 4
-- B. 6
-- C. 8
-- D. 16/3
-
-Kalau dihitung: P(kuning) = x/(8+x) = 2/5. → 5x = 2(8+x) = 16+2x → 3x = 16 → x = 16/3. Tidak bulat.
-
-Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = total: x/(8+x) = 2/5, 5x = 16+2x, 3x = 16. Tidak bulat. Coba P = 1/2: x/(8+x) = 1/2, 2x = 8+x, x = 8. Pakai itu.
-
-**81.** (REVISI) Dalam sebuah kantong ada 3 bola merah, 5 bola biru, dan x bola kuning. Jika peluang terambil bola kuning adalah 1/2, banyak bola kuning adalah …
+**81.** Dalam sebuah kantong ada 3 bola merah, 5 bola biru, dan x bola kuning. Jika peluang terambil bola kuning adalah 1/2, banyak bola kuning adalah …
 - A. 4
 - B. 6
 - C. 16
@@ -2099,16 +1950,6 @@ Mari saya revisi agar hasilnya bulat. Misal P = 2/5 dengan x sehingga (3+5+x) = 
 **85.** Dalam kotak berisi kartu bernomor 1–100, sebuah kartu diambil. Peluang terambil kartu bernomor kuadrat sempurna adalah …
 - A. 1/100
 - B. 9/100
-- C. 1/10
-- D. 1/5
-
-**Kunci: D**
-
-Tunggu, kuadrat dari 1–100: 1,4,9,16,25,36,49,64,81,100 = 10 angka. P = 10/100 = 1/10. Kunci benar C.
-
-**85.** (REVISI) Dalam kotak berisi kartu bernomor 1–100, sebuah kartu diambil. Peluang terambil kartu bernomor kuadrat sempurna adalah …
-- A. 1/100
-- B. 9/100
 - C. 1/50
 - D. 1/10
 
@@ -2170,21 +2011,7 @@ Tunggu, kuadrat dari 1–100: 1,4,9,16,25,36,49,64,81,100 = 10 angka. P = 10/100
 
 ---
 
-**88.** Sekantong permen berisi 5 rasa A, 7 rasa B, dan 3 rasa C. Permen diambil acak, dicatat, lalu dikembalikan, lakukan 90 kali. Selisih frekuensi harapan rasa B dan rasa A adalah …
-- A. 12 kali
-- B. 18 kali
-- C. 6 kali
-- D. 24 kali
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 12 kali. Salah perhitungan.
-- **B** — **BENAR.** P(B) = 7/15, P(A) = 5/15. Fh(B) = 7/15 × 90 = 42. Fh(A) = 5/15 × 90 = 30. Selisih = 42 − 30 = 12 kali.
-
-Tunggu, hasilnya 12 ≠ 18. Saya salah. Kunci yang benar adalah A (12 kali).
-
-**88.** (REVISI) Sekantong permen berisi 5 rasa A, 8 rasa B, dan 2 rasa C. Permen diambil acak, dicatat, lalu dikembalikan, dilakukan 90 kali. Selisih frekuensi harapan rasa B dan rasa A adalah …
+**88.** Sekantong permen berisi 5 rasa A, 8 rasa B, dan 2 rasa C. Permen diambil acak, dicatat, lalu dikembalikan, dilakukan 90 kali. Selisih frekuensi harapan rasa B dan rasa A adalah …
 - A. 12 kali
 - B. 18 kali
 - C. 9 kali
@@ -2206,29 +2033,7 @@ Tunggu, hasilnya 12 ≠ 18. Saya salah. Kunci yang benar adalah A (12 kali).
 
 ---
 
-**89.** Sebuah keluarga punya 3 anak. Anggap peluang anak laki-laki & perempuan masing-masing 1/2. Peluang ketiga anak BERJENIS KELAMIN BERBEDA dengan susunan tertentu (urut) adalah … (Catatan: kalau tepat 1 perempuan)
-- A. 1/4
-- B. 1/8
-- C. 3/8
-- D. 1/2
-
-**Kunci: D**
-
-Tunggu, tepat 1 perempuan dari 3 anak: kombinasi PLL, LPL, LLP = 3 cara dari total 8 (2³). P = 3/8. Kunci yang benar adalah C.
-
-**89.** (REVISI) Sebuah keluarga punya 3 anak. Anggap peluang anak laki-laki & perempuan masing-masing 1/2. Peluang ketiga anak semuanya perempuan adalah …
-- A. 1/8
-- B. 1/4
-- C. 1/2
-- D. 3/8
-
-**Kunci: D**
-
-Tunggu, peluang PPP = 1/2 × 1/2 × 1/2 = 1/8. Kunci A.
-
-Mari saya buat soal yang menghasilkan kunci D = 3/8.
-
-**89.** (REVISI 2) Sebuah keluarga punya 3 anak. Anggap peluang anak laki-laki & perempuan masing-masing 1/2. Peluang TEPAT 1 anak perempuan adalah …
+**89.** Sebuah keluarga punya 3 anak. Anggap peluang anak laki-laki & perempuan masing-masing 1/2. Peluang TEPAT 1 anak perempuan adalah …
 - A. 1/8
 - B. 1/4
 - C. 1/2
@@ -2401,43 +2206,7 @@ Mari saya buat soal yang menghasilkan kunci D = 3/8.
 
 ---
 
-**97.** Sebuah kotak berisi 100 kartu undian. Hadiah utama hanya 1 kartu. Andi membeli 5 kartu. Peluang Andi menang hadiah utama adalah …
-- A. 1/100
-- B. 5/100
-- C. 1/20
-- D. 5/95
-
-**Kunci: D**
-
-Tunggu, sederhana: P(menang) = 5/100 = 1/20. Itu di opsi B dan C bernilai sama. Kunci benar adalah B atau C. Bukan D.
-
-**97.** (REVISI) Sebuah kotak berisi 200 kartu undian. Hadiah utama hanya 1 kartu. Andi membeli 5 kartu. Peluang Andi menang hadiah utama adalah …
-- A. 1/200
-- B. 1/40
-- C. 5/195
-- D. 1/100
-
-Hmm, sederhana 5/200 = 1/40 (opsi B). Kunci D harus berbeda nilai. Mari saya buat soal lain.
-
-**97.** (REVISI 2) Sebuah arisan punya 100 anggota. Setiap kali undian, 5 nama diambil sekaligus (tanpa pengembalian). Berapa peluang nama Bu Ina (1 anggota tertentu) terpilih dalam undian tersebut?
-- A. 1/100
-- B. 1/20
-- C. 5/95
-- D. 1/19
-
-Hmm, P = 5/100 = 1/20 = opsi B. Sulit untuk D.
-
-Saya akan ubah pendekatan: buat soal yang hasilnya = pecahan tidak sederhana di posisi D.
-
-**97.** (REVISI 3) Dalam undian berhadiah, ada 100 kupon dengan 4 hadiah pertama, 6 hadiah kedua, dan 10 hadiah ketiga. Andi membeli 1 kupon. Peluang Andi mendapatkan hadiah (apa saja) adalah …
-- A. 1/5
-- B. 1/10
-- C. 4/100
-- D. 20/100
-
-Hmm, 20/100 = 1/5 = opsi A.
-
-**97.** (REVISI 4) Dalam undian berhadiah, ada 100 kupon dengan 5 hadiah pertama, 7 hadiah kedua, dan 11 hadiah ketiga. Andi membeli 1 kupon. Peluang Andi mendapatkan hadiah (jenis apa saja) adalah …
+**97.** Dalam undian berhadiah, ada 100 kupon dengan 5 hadiah pertama, 7 hadiah kedua, dan 11 hadiah ketiga. Andi membeli 1 kupon. Peluang Andi mendapatkan hadiah (jenis apa saja) adalah …
 - A. 5/100
 - B. 7/100
 - C. 11/100
@@ -2458,59 +2227,7 @@ Hmm, 20/100 = 1/5 = opsi A.
 
 ---
 
-**98.** Dalam permainan, sebuah dadu dilempar. Pemenang ditentukan jika muncul angka prima ATAU genap. Peluang pemain MENANG adalah …
-- A. 1/2
-- B. 5/6
-- C. 4/6
-- D. 1
-
-**Kunci: A**
-
-Tunggu, prima = {2,3,5}, genap = {2,4,6}, gabungan = {2,3,4,5,6} = 5 angka. P = 5/6 = opsi B. Kunci B, bukan A.
-
-**98.** (REVISI) Dalam permainan, sebuah dadu dilempar. Pemenang ditentukan jika muncul angka prima ATAU genap. Peluang pemain MENANG adalah …
-- A. 1/2
-- B. 2/3
-- C. 5/6
-- D. 1
-
-**Kunci: A**
-
-Hmm, masih C = 5/6 jawabannya. Saya cek lagi: prima = {2,3,5}, genap = {2,4,6}, gabungan = {2,3,4,5,6} = 5. P = 5/6. Maka kunci = C.
-
-Untuk soal 98 saya butuh kunci = A. Mari buat soal lain.
-
-**98.** (REVISI 2) Pada acara olimpiade, peluang Andi menang medali emas adalah 1/5, perak 1/4, perunggu 1/10. Peluang Andi mendapat medali (apa saja) adalah …
-- A. 1/2
-- B. 11/20
-- C. 9/20
-- D. 19/20
-
-Hitung: 1/5 + 1/4 + 1/10 = 4/20 + 5/20 + 2/20 = 11/20. Jadi kunci B.
-
-**98.** (REVISI 3) Peluang Andi menang medali emas 1/4, perak 1/8, perunggu 1/8. Peluang dapat medali (apa saja) adalah …
-- A. 1/2
-- B. 3/8
-- C. 1/4
-- D. 5/8
-
-Hitung: 1/4 + 1/8 + 1/8 = 2/8 + 1/8 + 1/8 = 4/8 = 1/2. Kunci A.
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Karena ketiga kejadian saling lepas, P(medali) = 1/4 + 1/8 + 1/8 = 2/8 + 1/8 + 1/8 = 4/8 = 1/2.
-- **B** — 3/8. Hanya menjumlah dua medali.
-- **C** — 1/4. Hanya emas saja.
-- **D** — 5/8. Salah samakan penyebut.
-
-Tunggu rencana saya untuk soal 98 adalah C. Mari saya bikin soal yang kunci = C.
-
-**98.** (REVISI 4) Pada arisan undian, ada 36 kupon. Bu Sari ingin tahu peluang nama terpilih bila dadu standar dilempar dan posisi terpilih = mata dadu × 6. Peluang bu Sari terpilih bila nomornya 30 adalah …
-
-Terlalu rumit. Ganti pendekatan: cuma butuh soal sederhana dengan kunci C.
-
-**98.** (REVISI 5) Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu sama dengan 8 adalah …
+**98.** Dua dadu dilempar bersamaan. Peluang jumlah kedua mata dadu sama dengan 8 adalah …
 - A. 1/9
 - B. 1/6
 - C. 5/36

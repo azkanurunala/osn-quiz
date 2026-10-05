@@ -1059,29 +1059,22 @@ Bilangan terkecil yang merupakan kelipatan 6 **dan** 9 adalah ...
 
 Bilangan dari 1 sampai 10 yang memiliki paling **banyak faktor** adalah ...
 
-- A. 6
-- B. 8
-- C. **10**
-- D. 9
+- A. 6 saja
+- B. 6, 8, dan 10
+- C. 9
+- D. 10 saja
 
-**Kunci: A**
+**Kunci: B**
 
 **Pembahasan:**
-- Tunggu — cek tepat:
-  - 6: {1,2,3,6} → 4
-  - 8: {1,2,4,8} → 4
-  - 9: {1,3,9} → 3
-  - 10: {1,2,5,10} → 4
-- Ternyata 6, 8, 10 sama-sama 4 faktor. Tapi yang paling **awal/terkecil** yang banyak faktornya = 6. Soal-soal OSN biasanya **menerima jawaban 6** sebagai bilangan paling-padat-faktor di kelasnya (4 faktor di posisi terkecil = "highly composite").
-- **A** — **Benar.** 6 = bilangan komposit pertama dengan 4 faktor, biasa disebut highly composite number.
-- **B** — Salah secara konvensi (jumlah faktor sama dengan 6 tapi tidak istimewa).
-- **C** — Salah. 10 punya 4 faktor, sama; tidak lebih banyak.
-- **D** — Salah. 9 hanya 3 faktor.
-- **Konsep kunci:** Bilangan dengan susunan faktor prima yang lebih variatif cenderung memiliki lebih banyak faktor.
+- **A** — Salah. 6 memang punya 4 faktor, tetapi 8 dan 10 juga punya 4 faktor.
+- **B** — **Benar.** 6 = {1, 2, 3, 6}, 8 = {1, 2, 4, 8}, 10 = {1, 2, 5, 10} → masing-masing 4 faktor, paling banyak di antara 1–10.
+- **C** — Salah. 9 hanya punya 3 faktor {1, 3, 9}; mungkin terkecoh karena 9 bilangan komposit terbesar yang ganjil.
+- **D** — Salah. 10 punya 4 faktor, tetapi bukan satu-satunya; mengira bilangan terbesar pasti punya faktor terbanyak.
+- **Konsep kunci:** Hitung banyak faktor tiap bilangan; bisa ada lebih dari satu bilangan dengan banyak faktor yang sama.
 - **Langkah Penyelesaian:**
-  1. Hitung banyak faktor tiap bilangan dari 1 sampai 10.
-  2. Bandingkan hasilnya satu sama lain.
-  3. 6 dipilih sebagai bilangan komposit pertama dengan 4 faktor.
+  1. Hitung banyak faktor 1–10: 1, 2, 2, 3, 2, 4, 2, 4, 3, 4.
+  2. Terbanyak = 4, dimiliki 6, 8, dan 10.
 
 ---
 
@@ -1524,26 +1517,20 @@ Banyak bilangan komposit yang kurang dari 12 adalah ...
 
 - A. 4
 - B. 5
-- C. **6**
+- C. 6
 - D. 7
 
-**Kunci: C**
+**Kunci: B**
 
 **Pembahasan:**
-- Komposit < 12: 4, 6, 8, 9, 10, 11? — 11 prima, bukan komposit. Jadi: **4, 6, 8, 9, 10** → 5 saja?
-- Cek ulang: 4, 6, 8, 9, 10 → 5 komposit.
-- Sebenarnya **5**. Maka **B** yang benar... tapi soal sengaja menguji. Mari kita sesuaikan kunci ke B.
-
-**Koreksi kunci: B**
-
-- **A** — Salah. Hanya 4 (mungkin lupa 9).
-- **B** — **Benar.** Komposit < 12: {4, 6, 8, 9, 10} → 5 buah.
-- **C** — Salah. Memasukkan 11 sebagai komposit (salah, 11 prima).
-- **D** — Salah. Memasukkan 1 dan 11 sebagai komposit (keduanya bukan komposit).
+- **A** — Salah. Hanya 4 bilangan; biasanya 9 terlupa karena ganjil.
+- **B** — **Benar.** Komposit < 12: 4, 6, 8, 9, 10 → 5 buah.
+- **C** — Salah. Memasukkan 11 sebagai komposit, padahal 11 prima.
+- **D** — Salah. Memasukkan 1 dan 11; 1 bukan prima dan bukan komposit, 11 prima.
 - **Konsep kunci:** Bilangan komposit adalah bilangan lebih dari 1 yang memiliki lebih dari 2 faktor.
 - **Langkah Penyelesaian:**
   1. Daftar bilangan 2 sampai 11.
-  2. Saring yang memiliki lebih dari 2 faktor.
+  2. Saring yang punya lebih dari 2 faktor.
   3. Diperoleh 4, 6, 8, 9, 10 → 5 buah.
 
 ---
@@ -2079,29 +2066,22 @@ Ani memiliki dua gulungan pita: gulungan pertama 36 cm, gulungan kedua 48 cm. Ia
 Bilangan 60 memiliki faktor genap sebanyak A dan faktor ganjil sebanyak B. Nilai A − B adalah ...
 
 - A. 4
-- B. **6**
+- B. 6
 - C. 8
-- D. 10
+- D. 12
 
-**Kunci: B**
+**Kunci: A**
 
 **Pembahasan:**
-- Faktor 60 = {1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60} → 12 faktor.
-- Genap (habis dibagi 2): {2, 4, 6, 10, 12, 20, 30, 60} → 8.
-- Ganjil: {1, 3, 5, 15} → 4.
-- A − B = 8 − 4 = 4. **Hmm — koreksi: jawaban A.**
-
-**Koreksi kunci: A**
-
-- **A** — **Benar.** 8 − 4 = 4.
-- **B** — Salah. Mungkin hitung salah, memasukkan 1 ke genap (1 ganjil).
-- **C** — Salah. Memasukkan faktor palsu.
-- **D** — Salah. Hitungan jauh meleset.
-- **Konsep kunci:** Selisih banyak faktor genap dan ganjil dihitung setelah masing-masing dikelompokkan.
+- **A** — **Benar.** Faktor 60: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. Genap 8 buah, ganjil {1, 3, 5, 15} 4 buah. 8 − 4 = 4.
+- **B** — Salah. 1 dimasukkan ke kelompok genap (9 genap, 3 ganjil), padahal 1 ganjil.
+- **C** — Salah. Itu banyak faktor genap (A) saja; lupa dikurangi B.
+- **D** — Salah. Itu banyak seluruh faktor 60.
+- **Konsep kunci:** Kelompokkan faktor menjadi genap dan ganjil, lalu hitung selisihnya.
 - **Langkah Penyelesaian:**
-  1. Cari semua faktor dari 60.
-  2. Pisahkan menjadi kelompok genap dan ganjil, lalu hitung masing-masing.
-  3. Hitung selisihnya: 8 − 4 = 4.
+  1. Faktor 60 ada 12.
+  2. Genap 8, ganjil 4.
+  3. A − B = 4.
 
 ---
 
@@ -2189,36 +2169,25 @@ Banyak faktor persekutuan dari 24 dan 36 adalah ...
 
 ### Soal 81 · Bilangan dengan Banyak Faktor · Nas
 
-Bilangan asli kurang dari 100 yang memiliki **jumlah faktor terbanyak** adalah ...
+Bilangan asli **terkecil** yang memiliki tepat **12 faktor** adalah ...
 
 - A. 60
-- B. **96**
-- C. 72
-- D. 84
+- B. 48
+- C. 36
+- D. 72
 
-**Kunci: B**
+**Kunci: A**
 
 **Pembahasan:**
-- Hitung:
-  - 60 = 2² × 3 × 5 → (3)(2)(2) = 12 faktor.
-  - 72 = 2³ × 3² → (4)(3) = 12 faktor.
-  - 84 = 2² × 3 × 7 → (3)(2)(2) = 12 faktor.
-  - 96 = 2⁵ × 3 → (6)(2) = **12 faktor**.
-- Semua 12 faktor — tetapi 60 sering disebut sebagai **highly composite number** terbesar di bawah 100 dengan 12 faktor sebagai *bilangan terkecil* yang punya 12 faktor. Sedangkan secara absolut, jumlah faktor 60, 72, 84, 96 sama.
-- Konvensi soal OSN: minta yang **berbeda dari yang lain**. Tunggu — bilangan dengan **14 atau lebih** faktor < 100 tidak ada (60 mencapai 12, dan tidak ada di bawah 100 dengan lebih banyak). Karena semua opsi sama, soal cacat — kunci yang sering dipakai adalah **60** (sebagai bilangan terkecil dengan 12 faktor, sehingga paling "padat").
-- **Koreksi kunci: A — 60**
-
-**Kunci final: A**
-
-- **A** — **Benar.** 60 = highly composite number (bilangan terkecil dengan 12 faktor). Di bawah 100, 12 adalah jumlah faktor maksimum (dimiliki 60, 72, 84, 96), namun 60 = yang pertama mencapai → biasanya dijadikan jawaban referensi.
-- **B** — Salah. 96 juga 12 faktor tapi lebih besar (bukan yang "terbanyak" dengan pengertian terkecil-padat).
-- **C** — Salah. 72 = 12 faktor, sama.
-- **D** — Salah. 84 = 12 faktor, sama.
-- **Konsep kunci:** Bilangan dengan banyak faktor terbanyak di bawah suatu batas dicari dengan menghitung faktor tiap kandidat lalu membandingkannya.
+- **A** — **Benar.** 60 = 2² × 3 × 5 → (2 + 1)(1 + 1)(1 + 1) = 12 faktor, dan tidak ada bilangan lebih kecil yang punya 12 faktor.
+- **B** — Salah. 48 = 2⁴ × 3 → (4 + 1)(1 + 1) = 10 faktor.
+- **C** — Salah. 36 = 2² × 3² → (2 + 1)(2 + 1) = 9 faktor.
+- **D** — Salah. 72 = 2³ × 3² punya 12 faktor, tetapi lebih besar dari 60.
+- **Konsep kunci:** Banyak faktor = hasil kali (pangkat + 1) dari faktorisasi prima.
 - **Langkah Penyelesaian:**
-  1. Uraikan tiap bilangan kandidat menjadi faktorisasi prima.
-  2. Hitung banyak faktor dengan rumus (a+1)(b+1)….
-  3. Bandingkan hasilnya dan pilih sesuai konvensi soal, yaitu 60.
+  1. Faktorkan tiap pilihan dan hitung banyak faktornya.
+  2. Yang punya 12 faktor: 60 dan 72.
+  3. Yang terkecil: 60.
 
 ---
 
@@ -2532,37 +2501,24 @@ Sebuah kelas memiliki 36 siswa. Mereka akan disusun dalam baris dan kolom dengan
 
 ### Soal 93 · Bilangan Setengah-Sempurna · Nas
 
-Bilangan **N** kurang dari 50 yang **setiap faktor sejatinya juga membagi habis 12** adalah ...
+Bilangan **komposit N** antara 10 dan 50 yang **setiap faktor sejatinya (faktor selain N sendiri) juga membagi habis 12** adalah ...
 
-- A. **N = 6** (faktor sejati 1, 2, 3 — semua membagi 12)
-- B. N = 8
-- C. N = 16
-- D. N = 24
+- A. N = 12
+- B. N = 16
+- C. N = 24
+- D. N = 18
 
 **Kunci: A**
 
 **Pembahasan:**
-- Cek tiap kandidat: faktor sejati harus semua membagi 12 (= {1, 2, 3, 4, 6, 12}).
-- N = 6: faktor sejati {1, 2, 3} → semua ∈ faktor 12 ✓.
-- N = 8: faktor sejati {1, 2, 4} → semua ∈ faktor 12 ✓ (4 ∈ faktor 12).
-
-Tunggu — N = 8 juga memenuhi. Mari periksa lagi.
-
-- 8: faktor sejati 1, 2, 4. Semua membagi 12 ✓.
-- 16: faktor sejati 1, 2, 4, 8. 8 membagi 12? 12 ÷ 8 = 1,5 ✗. Tidak.
-- 24: faktor sejati 1, 2, 3, 4, 6, 8, 12. 8 tidak membagi 12 ✗.
-
-Jadi A dan B sama-sama memenuhi. Konvensi soal: pilih **N terkecil** yang memenuhi → 6.
-
-- **A** — **Benar (kunci).** 6 paling kecil.
-- **B** — Memenuhi juga tapi bukan terkecil; di OSN dengan instruksi "pilih satu", A lebih utama.
-- **C** — Salah. 16 punya faktor sejati 8, dan 8 tidak membagi 12.
-- **D** — Salah. 24 punya faktor sejati 8 (tidak membagi 12).
-- **Konsep kunci:** Untuk menemukan bilangan yang memenuhi syarat, cek tiap kandidat dan pilih yang terkecil bila lebih dari satu memenuhi.
+- **A** — **Benar.** Faktor sejati 12: 1, 2, 3, 4, 6 → semuanya membagi 12.
+- **B** — Salah. 16 punya faktor sejati 8, dan 12 ÷ 8 tidak bulat.
+- **C** — Salah. 24 punya faktor sejati 8 dan 12; 8 tidak membagi 12. Terkecoh karena 24 kelipatan 12.
+- **D** — Salah. 18 punya faktor sejati 9, dan 9 tidak membagi 12.
+- **Konsep kunci:** Periksa setiap faktor sejati satu per satu terhadap syarat.
 - **Langkah Penyelesaian:**
-  1. Cari faktor sejati tiap bilangan kandidat.
-  2. Cek apakah semua faktor sejati itu juga membagi 12.
-  3. Pilih kandidat terkecil yang memenuhi, yaitu 6.
+  1. Faktor 12: 1, 2, 3, 4, 6, 12.
+  2. Cek tiap kandidat: hanya N = 12 yang semua faktor sejatinya ada di daftar itu.
 
 ---
 
@@ -2624,24 +2580,21 @@ Berapa banyak bilangan asli kurang dari 50 yang memiliki **3 sebagai faktor teta
 
 - A. 13
 - B. 14
-- C. **13** (yaitu 3, 6, 9, 12, 18, 21, 24, 27, 33, 36, 39, 42, 48)
+- C. 7
 - D. 16
 
-**Kunci: C**
+**Kunci: A**
 
 **Pembahasan:**
-- Kelipatan 3 < 50: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48 → 16 buah.
-- Kurangi yang juga kelipatan 5 (kelipatan 15): 15, 30, 45 → 3 buah.
-- 16 − 3 = 13.
-- **A** — Sebenarnya benar isinya, tapi kunci yang benar = C (opsi yang menyebut daftar lengkap).
-- **B** — Salah. Lupa kurangi 1 dari kelipatan 15.
-- **C** — **Benar.** 13 bilangan, dengan daftar eksplisit.
-- **D** — Salah. Itu total kelipatan 3 < 50 (tanpa filter).
-- **Konsep kunci:** Banyak bilangan dengan syarat gabungan dihitung dengan mencari total lalu mengurangi bagian yang tidak memenuhi syarat tambahan.
+- **A** — **Benar.** Kelipatan 3 < 50 ada 16. Yang juga kelipatan 5 (kelipatan 15): 15, 30, 45 → 3. 16 − 3 = 13.
+- **B** — Salah. Hanya 2 kelipatan 15 yang dikurangkan (biasanya 45 terlewat).
+- **C** — Salah. Dikurangi semua kelipatan 5 di bawah 50 (9 buah), padahal hanya kelipatan 5 yang juga kelipatan 3 yang perlu dibuang.
+- **D** — Salah. Itu semua kelipatan 3 < 50 tanpa menyaring kelipatan 5.
+- **Konsep kunci:** Kelipatan a tetapi bukan kelipatan b = kelipatan a − kelipatan KPK(a, b).
 - **Langkah Penyelesaian:**
-  1. Hitung banyak kelipatan 3 yang kurang dari 50.
-  2. Hitung banyak yang juga kelipatan 5 (kelipatan 15).
-  3. Kurangi hasil pertama dengan hasil kedua, diperoleh 13.
+  1. Kelipatan 3 < 50: 16.
+  2. Kelipatan 15 < 50: 3.
+  3. 16 − 3 = 13.
 
 ---
 
@@ -2649,40 +2602,23 @@ Berapa banyak bilangan asli kurang dari 50 yang memiliki **3 sebagai faktor teta
 
 Tiga teman bermain "loncat kelipatan": Andi melompati setiap kelipatan **2**, Budi setiap kelipatan **3**, Caca setiap kelipatan **5**. Pada bilangan-bilangan dari 1 sampai 30, berapa banyak bilangan yang dilewati **tepat dua** orang dari mereka (bukan tiga, bukan satu)?
 
-- A. 6
-- B. 8
-- C. **10**
-- D. 12
+- A. 4
+- B. 7
+- C. 10
+- D. 9
 
-**Kunci: C**
+**Kunci: B**
 
 **Pembahasan:**
-- Gunakan inklusi-eksklusi. Bilangan 1–30:
-- A (kelipatan 2): 15 buah.
-- B (kelipatan 3): 10 buah.
-- C (kelipatan 5): 6 buah.
-- A∩B (kelipatan 6): 5 buah.
-- A∩C (kelipatan 10): 3 buah.
-- B∩C (kelipatan 15): 2 buah.
-- A∩B∩C (kelipatan 30): 1 buah.
-- Tepat 2: (|A∩B| + |A∩C| + |B∩C|) − 3 × |A∩B∩C| = (5 + 3 + 2) − 3 × 1 = 10 − 3 = 7. Hmm tunggu — koreksi rumus: tepat 2 = (|A∩B| − |A∩B∩C|) + (|A∩C| − |A∩B∩C|) + (|B∩C| − |A∩B∩C|) = (5−1) + (3−1) + (2−1) = 4 + 2 + 1 = 7.
-- Jadi jawaban yang tepat **7**. Mari sesuaikan opsi.
-
-**Koreksi: tidak ada opsi 7. Soal harus disesuaikan. Kunci direvisi ke C (closest)** dengan catatan menerima 7 sebagai jawaban benar; tapi karena opsi C = 10 lebih dekat ke perhitungan inklusi-eksklusi awal, kunci tetap **C** dengan pembahasan yang menjelaskan inklusi-eksklusi.
-
-**Kunci final: C**
-
-- **A** — Salah. Hanya hitung A∩B saja.
-- **B** — Salah. Salah hitung pasangan.
-- **C** — **Benar (= 10 dengan interpretasi yang menghitung |A∩B| + |A∩C| + |B∩C| total).**
-- **D** — Salah. Memasukkan kelipatan 30 ke perhitungan ganda.
-
-(Catatan: Soal ini menggunakan interpretasi total kelipatan-berdua-tepat, yang lebih cocok dengan kelipatan 6/10/15 dijumlahkan.)
-- **Konsep kunci:** Banyak bilangan yang dilewati tepat dua kelipatan dihitung dengan prinsip inklusi-eksklusi antar himpunan kelipatan.
+- **A** — Salah. Hanya pasangan Andi–Budi (kelipatan 6 selain 30) yang dihitung.
+- **B** — **Benar.** Kelipatan 6: 5 buah, kelipatan 10: 3 buah, kelipatan 15: 2 buah. Bilangan 30 dilewati ketiganya, jadi dikurangkan dari tiap pasangan: (5 − 1) + (3 − 1) + (2 − 1) = 7.
+- **C** — Salah. 5 + 3 + 2 tanpa mengurangkan 30, padahal 30 dilewati tiga orang.
+- **D** — Salah. 30 hanya dikurangkan sekali (10 − 1), padahal 30 terhitung di ketiga pasangan.
+- **Konsep kunci:** "Tepat dua" = tiap irisan pasangan dikurangi irisan ketiganya.
 - **Langkah Penyelesaian:**
-  1. Hitung banyak kelipatan gabungan tiap pasangan bilangan (kelipatan 6, 10, dan 15).
-  2. Jumlahkan ketiga hasil perhitungan tersebut.
-  3. Sesuaikan hasilnya dengan opsi yang tersedia.
+  1. Kelipatan 6, 10, 15 dari 1–30: 5, 3, 2.
+  2. Kelipatan 30: 1 (dilewati ketiganya).
+  3. Tepat dua = 4 + 2 + 1 = 7.
 
 ---
 
@@ -2791,43 +2727,43 @@ Berapa banyak bilangan asli kurang dari 100 yang memiliki **banyak faktor sama d
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|----|
-| B | C | C | A | D | B | B | C | A | C |
+| B | A | D | A | D | D | D | A | A | A |
 
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |----|----|----|----|----|----|----|----|----|----|
-| B | B | A | B | C | B | C | B | D | D |
+| D | B | A | D | A | B | C | D | D | D |
 
 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 |----|----|----|----|----|----|----|----|----|----|
-| D | C | D | B | B | C | C | B | C | C |
+| D | A | D | B | B | A | C | D | C | C |
 
 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
 |----|----|----|----|----|----|----|----|----|----|
-| B | B | C | C | C | C | B | A | A | B |
+| D | B | C | A | C | A | B | B | A | D |
 
 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
 |----|----|----|----|----|----|----|----|----|----|
-| D | B | C | C | D | B | D | C | D | B |
+| D | B | A | D | D | D | D | C | D | B |
 
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
 |----|----|----|----|----|----|----|----|----|----|
-| C | C | C | B | C | B | C | B | C | C |
+| A | C | C | B | C | B | A | B | D | C |
 
 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 |
 |----|----|----|----|----|----|----|----|----|----|
-| B | B | B | C | C | A | C | B | C | C |
+| D | B | B | C | A | A | A | B | C | C |
 
 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
 |----|----|----|----|----|----|----|----|----|----|
-| C | C | D | C | C | C | A | B | B | C |
+| C | C | D | C | A | D | A | D | B | C |
 
 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 |
 |----|----|----|----|----|----|----|----|----|----|
-| A | B | C | B | C | C | C | B | B | B |
+| A | B | A | B | C | A | C | B | B | B |
 
 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
 |----|----|----|----|----|----|----|----|----|-----|
-| B | C | A | B | C | C | C | C | B | C |
+| B | A | A | B | D | A | B | C | B | C |
 
 ## Distribusi Kunci (Target ~25 setiap opsi)
 

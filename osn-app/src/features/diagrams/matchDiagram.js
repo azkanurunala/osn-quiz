@@ -1,4 +1,17 @@
 import { DIAGRAM_DATA } from './diagram-data';
+import { parseInequality, parseRounding, parsePercent, parseExpression, parseConversion, parseFactorTask } from '../../utils/mtkParse';
+import { meanFigureUsable } from '../../utils/meanData';
+
+// Readers for diagrams that declare `detect`. Each returns null unless it can read the soal's whole
+// task, so a hit is stronger evidence than any keyword and wins outright. Order matters only when two
+// could read the same stem: the more specific reader goes first.
+const DETECTORS = { inequality: parseInequality, rounding: parseRounding, percent: parsePercent, conversion: parseConversion, factor: parseFactorTask, expression: parseExpression };
+const DETECTING = ['inequality', 'rounding', 'percent', 'conversion', 'factor', 'expression']
+  .map((name) => DIAGRAM_DATA.find((d) => d.detect === name))
+  .filter(Boolean);
+// A diagram with `requires` is only a candidate when its figure can actually draw the soal; otherwise
+// it would win the keyword ranking, render nothing, and hide the runner-up that could have drawn it.
+const REQUIRES = { mean: meanFigureUsable };
 
 // The package metadata is inconsistent: `subTopic` holds the literal "IPA" for whole chapters
 // (all 500 ipa-03 questions, 400 of ipa-02), so it cannot be trusted on its own. `level` carries
@@ -93,12 +106,22 @@ export function matchDiagram(question, packageSubject) {
   if (!haystack.trim()) return null;
 
   const subject = subjectOf(question, packageSubject);
+  if (subject !== 'ipa') {
+    for (const diagram of DETECTING) if (DETECTORS[diagram.detect](question?.question)) return diagram;
+  }
   const scored = [];
   for (const diagram of DIAGRAM_DATA) {
     if (subject && (diagram.subject ?? 'ipa') !== subject) continue;
+    if (diagram.requires && !REQUIRES[diagram.requires](question?.question)) continue;
+    // detect-only figures draw nothing unless their reader parsed the soal (handled above), so they
+    // must not win on keywords and hide a figure that could have been shown
+    if (diagram.detect) continue;
     let score = 0;
-    for (const keyword of diagram.keywords) {
-      if (!haystack.includes(` ${keyword.toLowerCase()} `)) continue;
+    for (const raw of diagram.keywords) {
+      // The haystack went through normalise(), which turns "rata-rata" into "rata rata"; a keyword
+      // must go through it too or every hyphenated keyword silently never matches.
+      const keyword = normalise(raw).trim();
+      if (!haystack.includes(` ${keyword} `)) continue;
       if (isNegated(haystack, keyword)) continue;
       score += phraseWeight(keyword);
     }

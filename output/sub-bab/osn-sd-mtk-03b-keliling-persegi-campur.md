@@ -1601,31 +1601,22 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 ---
 
 **81.** Keliling sebuah persegi panjang 84 cm. Selisih panjang dan lebar 6 cm. Berapa luas persegi panjang itu?
-- A. 432 cm²
-- B. 396 cm²
-- C. 459 cm²
-- D. 432 cm²
 
-> Catatan: opsi A dan D sengaja berbeda — A = 432 dari (24×18), D = 432 dari pasangan dimensi lain. Pilih sesuai langkah hitung.
-
-- A. 432 cm²
-- B. 396 cm²
-- C. 459 cm²
+- A. 540 cm²
+- B. 441 cm²
+- C. 42 cm²
 - D. 432 cm²
 **Kunci: D**
 **Pembahasan:**
-
-> Catatan revisi: opsi A = 540 cm², opsi D = 432 cm² (perbaikan agar berbeda).
-
-- **A** — Salah (540 cm²). Memakai p = 30, l = 18 (p − l = 12), salah selisih.
-- **B** — Salah. 396 dari pembulatan kasar.
-- **C** — Salah. 459 = 27 × 17, salah parsing.
-- **D** — Benar. (p + l) = 84 ÷ 2 = 42. p − l = 6 → p = (42+6)/2 = 24, l = (42−6)/2 = 18. Luas = 24 × 18 = **432 cm²**.
-- **Konsep kunci:** Jika diketahui keliling dan selisih panjang-lebar, cari (p + l) dari keliling dulu, lalu pakai jumlah dan selisih itu untuk mendapatkan p dan l sebelum menghitung luas.
+- **A** — Salah. 540 = 30 × 18; panjang salah dihitung 42 − 12 = 30, sehingga p + l = 48 dan kelilingnya bukan 84.
+- **B** — Salah. 441 = 21 × 21; bangun dianggap persegi (84 ÷ 4 = 21), padahal panjang dan lebar berbeda 6 cm.
+- **C** — Salah. 42 adalah p + l (setengah keliling), bukan luas.
+- **D** — Benar. p + l = 42 dan p − l = 6 → p = 24, l = 18. Luas = 24 × 18 = **432 cm²**.
+- **Konsep kunci:** Dari keliling dapat (p + l); dengan selisih p − l, cari p dan l lalu hitung luas.
 - **Langkah Penyelesaian:**
-  1. (p + l) = K ÷ 2 = 84 ÷ 2 = 42 cm.
-  2. Karena p − l = 6: p = (42+6)÷2 = 24, l = (42−6)÷2 = 18.
-  3. Luas = p × l = 24 × 18 = 432 cm².
+  1. p + l = 84 ÷ 2 = 42.
+  2. p = (42 + 6) ÷ 2 = 24; l = (42 − 6) ÷ 2 = 18.
+  3. Luas = 432 cm².
 
 ---
 
@@ -1668,27 +1659,21 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 ---
 
 **84.** Sebuah lapangan persegi memiliki luas 144 m². Berapa keliling lapangan tersebut?
-- A. 48 m
-- B. 48 m
-- C. 36 m
-- D. 12 m
 
-> Opsi A dan B sengaja berbeda untuk uji kecermatan; gunakan langkah hitung berikut.
-
-- A. 60 m
+- A. 144 m
 - B. 48 m
 - C. 36 m
 - D. 12 m
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 60 = sembarang, bukan hasil 4 × s.
-- **B** — Benar. Luas persegi = s² = 144 → s = √144 = 12 m. Keliling = 4 × 12 = **48 m**.
-- **C** — Salah. 3 × 12 = 36, hanya 3 sisi.
-- **D** — Salah. 12 adalah sisi, bukan keliling.
-- **Konsep kunci:** Jika hanya luas persegi yang diketahui, cari dulu sisi dengan akar kuadrat luas, baru hitung keliling.
+- **A** — Salah. 144 adalah luasnya; luas dan keliling tertukar.
+- **B** — Benar. s = √144 = 12 m. Keliling = 4 × 12 = **48 m**.
+- **C** — Salah. 3 × 12 = 36, hanya tiga sisi.
+- **D** — Salah. 12 adalah panjang sisi, bukan keliling.
+- **Konsep kunci:** Dari luas persegi, cari sisi dengan akar kuadrat, lalu keliling = 4 × sisi.
 - **Langkah Penyelesaian:**
-  1. Sisi = √Luas = √144 = 12 m.
-  2. K = 4 × s = 4 × 12 = 48 m.
+  1. Sisi = √144 = 12 m.
+  2. K = 4 × 12 = 48 m.
 
 ---
 
@@ -1730,27 +1715,21 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 ---
 
 **87.** Sebuah kebun berbentuk persegi panjang berukuran 60 m × 40 m. Di sekelilingnya akan ditanami pohon mangga dengan jarak 5 m antar pohon. Di setiap sudut harus ada satu pohon. Berapa pohon mangga yang dibutuhkan?
-- A. 40 pohon
-- B. 40 pohon
-- C. 24 pohon
-- D. 100 pohon
-
-> Periksa langkah dengan teliti.
 
 - A. 20 pohon
 - B. 40 pohon
-- C. 24 pohon
-- D. 100 pohon
+- C. 36 pohon
+- D. 41 pohon
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. (p + l) ÷ 5 = 100 ÷ 5 = 20, lupa kali 2 pada keliling.
-- **B** — Benar. K = 2 × (60 + 40) = 200 m. Karena jarak 5 m dan 60, 40 keduanya kelipatan 5, sudut otomatis terisi. Pohon = 200 ÷ 5 = **40 pohon**.
-- **C** — Salah. Hitungan asal: (60 ÷ 5) + (40 ÷ 5) × 2 = 12 + 16 − 4 = 24, mencoba kurangi sudut tapi salah.
-- **D** — Salah. K ÷ 2 = 100, salah pembagi.
-- **Konsep kunci:** Jika jarak antar pohon/tiang habis membagi kedua sisi, sudut sudah otomatis terisi sehingga jumlah pohon = keliling ÷ jarak, tanpa penyesuaian tambahan.
+- **A** — Salah. (60 + 40) ÷ 5 = 20; memakai setengah keliling.
+- **B** — Benar. K = 2 × (60 + 40) = 200 m. Pada lintasan tertutup, banyak pohon = 200 ÷ 5 = **40 pohon** (sudut sudah termasuk karena 60 dan 40 kelipatan 5).
+- **C** — Salah. 4 pohon sudut dikurangkan karena dikira terhitung dua kali; pada lintasan tertutup, keliling ÷ jarak tidak menghitung sudut dua kali.
+- **D** — Salah. Ditambah 1 seperti menanam di garis lurus; pada lintasan tertutup ujung dan pangkal bertemu.
+- **Konsep kunci:** Pada lintasan tertutup, banyak pohon = keliling ÷ jarak.
 - **Langkah Penyelesaian:**
-  1. K = 2 × (60 + 40) = 200 m.
-  2. Pohon = 200 ÷ 5 = 40 pohon.
+  1. K = 200 m.
+  2. 200 ÷ 5 = 40 pohon.
 
 ---
 
@@ -1850,47 +1829,42 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 ---
 
 **93.** Sebuah taman berbentuk persegi panjang berukuran 30 m × 20 m. Pak Andi membuat jalan setapak selebar 1 m di sekeliling bagian dalam taman, sehingga tersisa kebun bunga di tengah. Berapa keliling kebun bunga yang tersisa?
+
 - A. 100 m
 - B. 92 m
 - C. 96 m
-- D. 88 m
-**Kunci: C**
+- D. 84 m
+**Kunci: B**
 **Pembahasan:**
-- **A** — Salah. K asli = 2 × (30 + 20) = 100 m, lupa jalan setapak mengurangi.
-- **B** — Salah. Mengurangi 2 × 4 = 8 (4 sudut), tidak tepat.
-- **C** — Benar. Kebun bunga: panjang = 30 − 2(1) = 28, lebar = 20 − 2(1) = 18. K = 2 × (28 + 18) = 2 × 46 = **92 m**. 
-
-> Koreksi: Benar 92 m, bukan 96. Pilih opsi yang sesuai langkah hitung — jawaban yang benar berdasar langkah ini adalah B = 92 m.
-
-> Klarifikasi akhir: **Kunci B = 92 m**. Anggap C salah.
-
-- **D** — Salah. Mengurangi total 12 dari K asli (100 − 12 = 88), salah perhitungan margin.
-- **Konsep kunci:** Jika ada jalur selebar tertentu yang dikurangi di sekeliling, kurangi 2 kali lebar jalur itu dari panjang dan lebar asli sebelum menghitung keliling area yang tersisa.
+- **A** — Salah. 100 m adalah keliling taman asli; jalan setapak belum dikurangkan.
+- **B** — Benar. Kebun bunga: 30 − 2 = 28 m dan 20 − 2 = 18 m. K = 2 × (28 + 18) = **92 m**.
+- **C** — Salah. Panjang dan lebar hanya dikurangi 1 m (29 × 19); jalan ada di kedua sisi, jadi dikurangi 2 × 1 m.
+- **D** — Salah. Panjang dan lebar dikurangi 4 m (26 × 16), seolah jalan selebar 2 m.
+- **Konsep kunci:** Jalan selebar a di sekeliling bagian dalam mengurangi panjang dan lebar masing-masing 2a.
 - **Langkah Penyelesaian:**
-  1. Kurangi jalan setapak dari kedua sisi: panjang = 30 − 2×1 = 28 m, lebar = 20 − 2×1 = 18 m.
-  2. K = 2 × (28 + 18) = 92 m.
+  1. Kebun: 28 m × 18 m.
+  2. K = 92 m.
 
 ---
 
 **94.** Sebuah lapangan berbentuk persegi panjang dengan keliling 200 m. Jika panjangnya 2 kali lebarnya, berapa panjang lapangan tersebut?
+
 - A. 66,67 m
 - B. 100 m
 - C. 50 m
 - D. 33,33 m
 **Kunci: A**
 
-> Koreksi: dengan p = 2l dan K = 200, maka 2(2l + l) = 200 → 6l = 200 → l = 33,33; p = 66,67. Pilih A.
-
 **Pembahasan:**
-- **A** — Benar. p + l = 100. p = 2l → 2l + l = 100 → 3l = 100 → l ≈ 33,33; p = 2l ≈ **66,67 m**.
-- **B** — Salah. (p + l) = 100, itu setengah keliling, bukan p.
-- **C** — Salah. K ÷ 4 = 50, salah karena bukan persegi.
-- **D** — Salah. Itu lebar, bukan panjang.
-- **Konsep kunci:** Jika panjang dan lebar dinyatakan sebagai perbandingan (p = 2 × l), gunakan permisalan aljabar untuk mencari nilainya dari keliling.
+- **A** — Benar. p + l = 100; p = 2l → 3l = 100 → l ≈ 33,33; p ≈ **66,67 m**.
+- **B** — Salah. 100 adalah p + l (setengah keliling).
+- **C** — Salah. 200 ÷ 4 = 50; dianggap persegi.
+- **D** — Salah. 33,33 adalah lebar, bukan panjang.
+- **Konsep kunci:** Nyatakan panjang dalam lebar (p = 2l), lalu gunakan p + l = K ÷ 2.
 - **Langkah Penyelesaian:**
-  1. (p + l) = K ÷ 2 = 200 ÷ 2 = 100 m.
-  2. Misal l = x, p = 2x → 3x = 100 → x ≈ 33,33.
-  3. Panjang = 2x ≈ 66,67 m.
+  1. p + l = 100.
+  2. 3l = 100 → l ≈ 33,33.
+  3. p ≈ 66,67 m.
 
 ---
 
@@ -1931,28 +1905,22 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 
 ---
 
-**97.** Sebuah kebun berbentuk persegi panjang berukuran 80 m × 50 m akan dibuat pagar. Di setiap sudut dipasang 1 batu pondasi, dan di sepanjang sisi dipasang tiang dengan jarak 5 m. Berapa total tiang dan batu pondasi?
-- A. 56 buah
-- B. 52 buah
-- C. 56 buah
+**97.** Sebuah kebun berbentuk persegi panjang berukuran 80 m × 50 m akan dipagari. Titik-titik pagar dibuat setiap 5 m mengelilingi kebun, termasuk di keempat sudut. Di setiap sudut dipasang tiang besar, sedangkan di titik lainnya dipasang tiang kecil. Berapa banyak tiang kecil?
 
-> Klarifikasi: ada 4 batu pondasi di sudut. Lihat langkah hitung.
-
-- A. 60 buah
-- B. 52 buah
+- A. 52 buah
+- B. 48 buah
 - C. 56 buah
-- D. 100 buah
-**Kunci: C**
+- D. 44 buah
+**Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 60 = K ÷ 5 × beberapa, salah hitung.
-- **B** — Salah. 52 = K ÷ 5 (tanpa sudut), atau hitung tidak menambah sudut dengan benar.
-- **C** — Benar. K = 2 × (80 + 50) = 260 m. Jika tiang di setiap 5 m dan ada di sudut, jumlah tiang = 260 ÷ 5 = 52. Tambah 4 batu pondasi di sudut yang dihitung terpisah dari tiang → bila batu adalah TAMBAHAN dari tiang sudut, jawaban tergantung interpretasi. Untuk soal ini, batu pondasi MENGGANTI tiang sudut → total tetap 52, tetapi soal meminta total tiang + batu = 48 tiang biasa + 4 batu sudut + 4 (jika dihitung dua kali) → **56 buah** (48 tiang non-sudut + 4 tiang sudut + 4 batu pondasi, dengan batu pondasi berbeda dari tiang sudut).
-- **D** — Salah. K ÷ 2,6 atau hitungan kasar.
-- **Konsep kunci:** Untuk soal gabungan tiang di sepanjang sisi dan batu pondasi di sudut, hitung dulu jumlah tiang dari keliling ÷ jarak, baru tambahkan batu pondasi sudut sesuai ketentuan soal.
+- **A** — Salah. 52 adalah seluruh titik pagar (260 ÷ 5), termasuk 4 sudut yang memakai tiang besar.
+- **B** — Benar. K = 2 × (80 + 50) = 260 m. Titik pagar = 260 ÷ 5 = 52. Tiang kecil = 52 − 4 sudut = **48 buah**.
+- **C** — Salah. 4 sudut ditambahkan, bukan dikurangkan (52 + 4).
+- **D** — Salah. Tiap sisi dikurangi 2 titik ujung (52 − 8); padahal tiap sudut dipakai bersama oleh dua sisi.
+- **Konsep kunci:** Pada lintasan tertutup, banyak titik = keliling ÷ jarak; kurangi titik sudut bila sudut memakai benda lain.
 - **Langkah Penyelesaian:**
-  1. K = 2 × (80 + 50) = 260 m.
-  2. Tiang = 260 ÷ 5 = 52.
-  3. Tambahkan 4 batu pondasi di sudut sesuai pembahasan → total 56 buah.
+  1. K = 260 m → 52 titik.
+  2. Tiang kecil = 52 − 4 = 48.
 
 ---
 
@@ -2034,11 +2002,11 @@ Soal kombinasi, perbandingan, dua bangun, atau mencari dimensi dari informasi ti
 | 15  | B     | 40  | C     | 65  | D     | 90  | D     |
 | 16  | C     | 41  | D     | 66  | D     | 91  | A     |
 | 17  | D     | 42  | D     | 67  | A     | 92  | B     |
-| 18  | D     | 43  | A     | 68  | B     | 93  | C     |
+| 18  | D     | 43  | A     | 68  | B     | 93  | B     |
 | 19  | A     | 44  | B     | 69  | C     | 94  | A     |
 | 20  | B     | 45  | C     | 70  | A     | 95  | B     |
 | 21  | C     | 46  | A     | 71  | B     | 96  | C     |
-| 22  | A     | 47  | B     | 72  | C     | 97  | C     |
+| 22  | A     | 47  | B     | 72  | C     | 97  | B     |
 | 23  | B     | 48  | C     | 73  | D     | 98  | D     |
 | 24  | C     | 49  | D     | 74  | D     | 99  | A     |
 | 25  | D     | 50  | D     | 75  | A     | 100 | B     |

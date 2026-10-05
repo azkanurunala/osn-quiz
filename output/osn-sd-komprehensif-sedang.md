@@ -767,31 +767,31 @@ Pada segitiga ABC, besar sudut A : sudut B : sudut C = 2 : 3 : 5. Besar sudut te
 
 **(2) Pilihan Jawaban:**
 
-A. 60 derajat
-B. 75 derajat
+A. 36 derajat
+B. 54 derajat
 C. 90 derajat
-D. 108 derajat
+D. 180 derajat
 
 **(3) Jawaban:** **C. 90 derajat**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Jumlah sudut dalam segitiga + perbandingan
+- **Konsep yang diuji:** Jumlah sudut dalam segitiga + perbandingan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 60 derajat** — Salah. Ini sudut B (3 x 18 = 54... bukan, mari hitung: 60 muncul jika perbandingan dianggap 1:2:3 yang totalnya 6 bagian).
-  - **B. 75 derajat** — Salah. Distraktor umpan.
-  - **C. 90 derajat** — Benar. Total bagian = 2 + 3 + 5 = 10. Total sudut = 180 derajat. Tiap bagian = 18 derajat. Terbesar = 5 x 18 = 90 derajat.
-  - **D. 108 derajat** — Salah. Muncul jika total perbandingan dianggap 2+3+5 = 10 dan sudut terbesar dianggap 180 x 6/10 = 108 (salah pakai 6 untuk 3+3, bukan 5).
+  - **A. 36 derajat** — Salah. Itu sudut terkecil (2 bagian), bukan terbesar.
+  - **B. 54 derajat** — Salah. Itu sudut B (3 bagian).
+  - **C. 90 derajat** — Benar. Total bagian = 10; tiap bagian = 180 : 10 = 18°. Terbesar = 5 × 18 = 90°.
+  - **D. 180 derajat** — Salah. Jumlah sudut segitiga dikira 360°, sehingga 5/10 × 360 = 180.
 
 - **Langkah Penyelesaian:**
-  1. Jumlah perbandingan = 2 + 3 + 5 = 10.
-  2. Sudut C terbesar = 5/10 x 180 derajat = 90 derajat.
-  3. Verifikasi: A = 2/10 x 180 = 36; B = 3/10 x 180 = 54; C = 90. Total = 180.
+  1. Jumlah perbandingan = 10.
+  2. Sudut C = 5/10 × 180° = 90°.
+  3. Cek: 36 + 54 + 90 = 180 ✓.
 
 - **Hasil akhir:** **90 derajat**
 
-- **Tips:** Untuk perbandingan sudut/sisi, jumlahkan perbandingan dulu, lalu hitung tiap nilai dari total.
+- **Tips:** Jumlahkan angka perbandingan dulu, lalu bagi 180° untuk mendapat nilai satu bagian.
 
 ---
 
@@ -1259,33 +1259,31 @@ Sebuah truk membawa 2,5 ton beras, 35 kuintal gula, dan 750 kg tepung. Total mua
 
 **(2) Pilihan Jawaban:**
 
-A. 6.250 kg
+A. 3.600 kg
 B. 6.750 kg
-C. 7.250 kg
-D. 7.750 kg
+C. 4.500 kg
+D. 38.250 kg
 
-**(3) Jawaban:** **A. 6.250 kg**
+**(3) Jawaban:** **B. 6.750 kg**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi ton & kuintal ke kg
+- **Konsep yang diuji:** Konversi ton dan kuintal ke kg.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 6.250 kg** — Benar. 2,5 ton = 2.500 kg; 35 kuintal = 3.500 kg; 750 kg. Total = 2.500 + 3.500 + 750 = 6.750 kg. Tunggu — cek ulang.
-  - **B. 6.750 kg** — Benar (revisi). 2.500 + 3.500 + 750 = 6.750 kg.
-  - **C. 7.250 kg** — Salah. Muncul jika 35 kuintal dihitung 4.000 kg.
-  - **D. 7.750 kg** — Salah. Muncul jika 2,5 ton dihitung 3.500 kg.
+  - **A. 3.600 kg** — Salah. 1 kuintal dikira 10 kg (35 kuintal = 350 kg).
+  - **B. 6.750 kg** — Benar. 2.500 + 3.500 + 750 = 6.750 kg.
+  - **C. 4.500 kg** — Salah. 1 ton dikira 100 kg (2,5 ton = 250 kg).
+  - **D. 38.250 kg** — Salah. 1 kuintal dikira 1.000 kg (35 kuintal = 35.000 kg).
 
 - **Langkah Penyelesaian:**
-  1. 2,5 ton = 2,5 x 1.000 kg = 2.500 kg.
-  2. 35 kuintal = 35 x 100 kg = 3.500 kg.
-  3. Total = 2.500 + 3.500 + 750 = 6.750 kg.
+  1. 2,5 ton = 2.500 kg.
+  2. 35 kuintal = 3.500 kg.
+  3. Total = 6.750 kg.
 
 - **Hasil akhir:** **6.750 kg**
 
-- **Tips:** 1 ton = 1.000 kg; 1 kuintal = 100 kg. Koreksi: jawaban benar **B. 6.750 kg**.
-
-> Catatan: jawaban yang benar adalah **B. 6.750 kg** (perhitungan: 2.500 + 3.500 + 750 = 6.750).
+- **Tips:** 1 ton = 1.000 kg; 1 kuintal = 100 kg.
 
 ---
 
@@ -1403,31 +1401,31 @@ Sebuah mobil melaju dengan kecepatan 60 km/jam selama 1 jam 30 menit, lalu beris
 **(2) Pilihan Jawaban:**
 
 A. 120 km
-B. 130 km
+B. 165 km
 C. 140 km
-D. 150 km
+D. 108 km
 
-**(3) Jawaban:** **D. 140 km**
+**(3) Jawaban:** **C. 140 km**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** s = v x t + konversi menit ke jam
+- **Konsep yang diuji:** s = v × t dengan konversi menit ke jam.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 120 km** — Salah. Muncul jika 40 menit dihitung sebagai 0,4 jam.
-  - **B. 130 km** — Salah. Muncul jika hanya jarak pertama yang dihitung benar.
-  - **C. 140 km** — Benar. Jarak 1 = 60 x 1,5 = 90 km. Jarak 2 = 75 x (40/60) = 75 x 2/3 = 50 km. Total = 90 + 50 = 140 km.
-  - **D. 150 km** — Salah. Muncul jika 40 menit dibulatkan jadi 1 jam.
+  - **A. 120 km** — Salah. 40 menit dikira 0,4 jam (75 × 0,4 = 30).
+  - **B. 165 km** — Salah. Waktu istirahat 20 menit ikut dihitung sebagai berjalan (60 menit × 75 km/jam).
+  - **C. 140 km** — Benar. 60 × 1,5 = 90 km; 75 × 2/3 = 50 km; total 140 km.
+  - **D. 108 km** — Salah. 1 jam 30 menit dibaca 1,3 jam dan 40 menit dibaca 0,4 jam (78 + 30).
 
 - **Langkah Penyelesaian:**
-  1. Bagian 1: t = 1,5 jam, v = 60 → s = 60 x 1,5 = 90 km.
-  2. Istirahat tidak menambah jarak (0 km).
-  3. Bagian 2: t = 40/60 = 2/3 jam, v = 75 → s = 75 x 2/3 = 50 km.
-  4. Total = 90 + 50 = 140 km.
+  1. Bagian 1: 60 × 1,5 = 90 km.
+  2. Istirahat: 0 km.
+  3. Bagian 2: 75 × 40/60 = 50 km.
+  4. Total = 140 km.
 
-- **Hasil akhir:** **140 km** (jawaban yang benar adalah **C. 140 km**)
+- **Hasil akhir:** **140 km**
 
-> Koreksi: kunci benar adalah **C. 140 km**.
+- **Tips:** Menit diubah ke jam dengan dibagi 60, bukan 100.
 
 ---
 
@@ -1962,29 +1960,28 @@ Diagram lingkaran menunjukkan kegemaran 120 siswa: sepak bola 40%, basket 25%, v
 A. 18
 B. 24
 C. 30
-D. 36
+D. 48
 
-**(3) Jawaban:** **A. 18**
+**(3) Jawaban:** **C. 30**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Persen dari total + sisa
+- **Konsep yang diuji:** Persen dari total dan sisa persen.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 18** — Benar. Lain-lain = 100% - 85% = 15%. Sepak bola = 40% x 120 = 48. Lain-lain = 15% x 120 = 18. Selisih = 48 - 18 = 30.
-  - **B. 24** — Salah.
-  - **C. 30** — Benar. (Koreksi: 48 - 18 = 30, jadi kunci yang benar adalah **C**.)
-  - **D. 36** — Salah.
+  - **A. 18** — Salah. Itu banyak siswa lain-lain, bukan selisihnya.
+  - **B. 24** — Salah. Lain-lain dikira 20% (seperti voli), sehingga 48 − 24.
+  - **C. 30** — Benar. Lain-lain = 15% → 18 siswa. Sepak bola = 48 siswa. Selisih = 30.
+  - **D. 48** — Salah. Itu banyak siswa sepak bola saja.
 
 - **Langkah Penyelesaian:**
-  1. Lain-lain = 100% - (40+25+20)% = 15%.
-  2. Sepak bola = 40/100 x 120 = 48 siswa.
-  3. Lain-lain = 15/100 x 120 = 18 siswa.
-  4. Selisih = 48 - 18 = 30 siswa.
+  1. Lain-lain = 100% − 85% = 15%.
+  2. Sepak bola = 48; lain-lain = 18.
+  3. Selisih = 30.
 
-- **Hasil akhir:** **30** (jawaban benar: **C. 30**)
+- **Hasil akhir:** **30**
 
-> Koreksi: kunci yang benar adalah **C. 30**.
+- **Tips:** Selisih dua bagian = selisih persennya × total (25% × 120 = 30).
 
 ---
 

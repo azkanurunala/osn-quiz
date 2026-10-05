@@ -292,23 +292,7 @@ Yuk mulai latihan 100 soal!
 
 ---
 
-**12.** Suku ke-9 barisan geometri dengan a=2, r=2 adalah ...
-- A. 256
-- B. 1024
-- C. 512
-- D. 128
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 256. Itu pangkat 2^8 saja, tanpa kalikan a.
-- **B** — 1024. Pakai 2 × 2^9 = 1024. Lupa (n−1).
-- **C** — 512. Itu U₁₀ kalau pakai (n−1), atau salah indeks.
-- **D** — **BENAR.** U₉ = 2 × 2^(9−1) = 2 × 256 = 512. *Tunggu — 2 × 256 = 512, jadi seharusnya jawaban 512 (opsi C).*
-
-Koreksi pembahasan: rumus benar U₉ = 2 × 2⁸ = 2 × 256 = 512. Tetapi soal mengkunci D = 128. Karena kunci sudah ditetapkan dan tidak boleh direbalance, **ubah angka soal**:
-
-**12 (revisi).** Suku ke-7 barisan geometri dengan a=2, r=2 adalah ...
+**12.** Suku ke-7 barisan geometri dengan a=2, r=2 adalah ...
 - A. 256
 - B. 64
 - C. 512
@@ -436,19 +420,7 @@ Koreksi pembahasan: rumus benar U₉ = 2 × 2⁸ = 2 × 256 = 512. Tetapi soal m
 
 ---
 
-**20.** Berapa suku ke-100 dari barisan 1, 2, 3, 4, 5, ...?
-- A. 100
-- B. 99
-- C. 101
-- D. 1000
-
-**Kunci: D**
-
-**Pembahasan:**
-
-Tunggu — barisan asli adalah 1, 2, 3, 4, 5, ... yang jelas suku ke-100 = 100. Tetapi kunci ditetapkan D (1000) yang tidak masuk akal. Karena tidak boleh rebalance, **ubah soal** agar 1000 jadi benar:
-
-**20 (revisi).** Diketahui barisan 10, 20, 30, 40, ... Berapa suku ke-100?
+**20.** Diketahui barisan 10, 20, 30, 40, ... Berapa suku ke-100?
 - A. 100
 - B. 99
 - C. 101
@@ -480,22 +452,7 @@ Tunggu — barisan asli adalah 1, 2, 3, 4, 5, ... yang jelas suku ke-100 = 100. 
 
 ---
 
-**22.** Suku ke-12 barisan 50, 47, 44, 41, ... adalah ...
-- A. 17
-- B. 14
-- C. 20
-- D. 11
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 17. Pakai 50 − 11×3 = 17 dengan logika setengah benar. Sebenarnya 50 − 11×3 = 50 − 33 = 17? Hmm benar juga. Mari hitung ulang.
-
-Cek: a=50, b=−3. U₁₂ = 50 + (12−1)(−3) = 50 − 33 = 17. Jadi A = 17 SEBENARNYA BENAR.
-
-Karena kunci ditetapkan B, **ubah angka soal** agar B benar:
-
-**22 (revisi).** Suku ke-13 barisan 50, 47, 44, 41, ... adalah ...
+**22.** Suku ke-13 barisan 50, 47, 44, 41, ... adalah ...
 - A. 17
 - B. 14
 - C. 20
@@ -511,21 +468,7 @@ Karena kunci ditetapkan B, **ubah angka soal** agar B benar:
 
 ---
 
-**23.** Diketahui barisan 80, 76, 72, 68, ... Suku ke-20 adalah ...
-- A. 0
-- B. 4
-- C. 8
-- D. 16
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 0. Pakai 80 − 20×4 = 0. Lupa (n−1).
-- **B** — 4. Pakai 80 − 19×4 = 4? Cek: 19×4 = 76, 80−76 = 4. Sebenarnya ini hitungan U₂₀ yang benar!
-
-Karena hasil sebenarnya U₂₀ = 4 (opsi B), tapi kunci ditetapkan C, **ubah angka soal**:
-
-**23 (revisi).** Diketahui barisan 80, 76, 72, 68, ... Suku ke-19 adalah ...
+**23.** Diketahui barisan 80, 76, 72, 68, ... Suku ke-19 adalah ...
 - A. 0
 - B. 4
 - C. 8
@@ -541,19 +484,7 @@ Karena hasil sebenarnya U₂₀ = 4 (opsi B), tapi kunci ditetapkan C, **ubah an
 
 ---
 
-**24.** Barisan 1, 3, 6, 10, 15, ... (segitiga). Suku ke-10 adalah ...
-- A. 55
-- B. 50
-- C. 45
-- D. 65
-
-**Kunci: A**
-
-**Pembahasan:**
-
-Hmm, kunci 24 ditetapkan D. Cek aslinya. Mari saya teruskan dengan kunci yang sudah dipasang: 24 → D. Mari mundur ke rencana awal: kunci untuk 24 = D, jadi opsi D = "65" tidak benar untuk barisan segitiga (U₁₀ = 55).
-
-**24 (revisi).** Barisan 1, 3, 6, 10, 15, ... (segitiga). Suku ke-11 adalah ...
+**24.** Barisan 1, 3, 6, 10, 15, ... (segitiga). Suku ke-11 adalah ...
 - A. 55
 - B. 50
 - C. 60
@@ -757,20 +688,7 @@ Cek: U₁ = 1/2 = 2⁻¹, U₂ = 1/4 = 2⁻², ..., Uₙ = 2⁻ⁿ. U₈ = 2⁻�
 
 ---
 
-**36.** Barisan 6, 11, 16, 21, 26, ... Suku ke-40 adalah ...
-- A. 201
-- B. 206
-- C. 196
-- D. 211
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 201. Pakai n=40 langsung: 6 + 40×5 = 206. Bukan 201; mungkin 6 + 39×5 = 201? Cek: 39×5=195, 6+195=201. INI BENAR sebagai U₄₀!
-
-Karena U₄₀ sesungguhnya = 201 (opsi A), tapi kunci ditetapkan C, **ubah angka soal**:
-
-**36 (revisi).** Barisan 6, 11, 16, 21, 26, ... Suku ke-39 adalah ...
+**36.** Barisan 6, 11, 16, 21, 26, ... Suku ke-39 adalah ...
 - A. 201
 - B. 206
 - C. 196
@@ -836,22 +754,7 @@ Cek: a=4, b=7. U₂₅ = 4 + 24×7 = 4 + 168 = 172. ✓
 
 ---
 
-**40.** Suku ke-20 dari barisan 12, 9, 6, 3, ... adalah ...
-- A. −45
-- B. −48
-- C. −42
-- D. −51
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — −45. Pakai 12 − 19×3 + 3 = atau geser indeks.
-- **B** — −48. Pakai 12 − 20×3 = −48. Lupa (n−1).
-- **C** — **BENAR.** a=12, b=−3. U₂₀ = 12 + 19×(−3) = 12 − 57 = −45. 
-
-Wait, hitung ulang: 19×3 = 57, jadi U₂₀ = 12 − 57 = −45. Jadi sesungguhnya A = −45 yang benar. Karena kunci ditetapkan C, **ubah angka soal**:
-
-**40 (revisi).** Suku ke-19 dari barisan 12, 9, 6, 3, ... adalah ...
+**40.** Suku ke-19 dari barisan 12, 9, 6, 3, ... adalah ...
 - A. −45
 - B. −48
 - C. −42
@@ -1083,25 +986,7 @@ Cek: U₁₂ = 3×144 + 2 = 432 + 2 = 434. ✓
 
 ---
 
-**53.** Suku ke-n dari barisan 4, 7, 12, 19, 28, ... (beda bertingkat) adalah ...
-- A. n² + 3
-- B. n² + 4
-- C. n² + 2
-- D. n² + 5
-
-**Kunci: A**
-
-**Pembahasan:**
-
-Beda: 3, 5, 7, 9 → beda dari beda = 2 (konstan, jadi rumusnya kuadrat). Coba Uₙ = n² + c.
-- n=1: 1 + c = 4 → c = 3. Jadi Uₙ = n² + 3.
-- Verifikasi n=2: 4 + 3 = 7 ✓; n=3: 9 + 3 = 12 ✓; n=4: 16 + 3 = 19 ✓.
-
-- **A** — n² + 3. **BENAR.** Cek semua suku cocok.
-
-Tunggu, kunci 53 = B. Tapi rumus benar adalah n² + 3 (= opsi A). Karena kunci ditetapkan B, **ubah angka soal** agar opsi B benar:
-
-**53 (revisi).** Suku ke-n dari barisan 5, 8, 13, 20, 29, ... (beda bertingkat) adalah ...
+**53.** Suku ke-n dari barisan 5, 8, 13, 20, 29, ... (beda bertingkat) adalah ...
 - A. n² + 3
 - B. n² + 4
 - C. n² + 2
@@ -1171,21 +1056,7 @@ Cek Fibonacci: F₁=1, F₂=1, F₃=2, ..., F₁₃=233, F₁₄=377, F₁₅=61
 
 ---
 
-**57.** Suku ke-7 barisan dengan Uₙ = 2ⁿ + n adalah ...
-- A. 135
-- B. 128
-- C. 130
-- D. 137
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: U₇ = 2⁷ + 7 = 128 + 7 = 135. ✓ Jadi 135 benar (opsi A).
-
-Karena kunci ditetapkan B, **ubah angka soal**:
-
-**57 (revisi).** Suku ke-7 barisan dengan Uₙ = 2ⁿ + 0 (yaitu Uₙ = 2ⁿ) adalah ...
+**57.** Suku ke-7 barisan dengan Uₙ = 2ⁿ + 0 (yaitu Uₙ = 2ⁿ) adalah ...
 - A. 135
 - B. 128
 - C. 130
@@ -1219,21 +1090,7 @@ Cek: 144 = 12². Jadi n = 12. ✓
 
 ---
 
-**59.** Suku ke-n dari barisan 3, 9, 27, 81, ... yang nilainya 729 adalah n = ...
-- A. 5
-- B. 7
-- C. 6
-- D. 4
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: geometri a=3, r=3. Uₙ = 3 × 3^(n−1) = 3ⁿ. Jadi 3ⁿ = 729 → n = 6. ✓ (opsi C)
-
-Karena kunci ditetapkan B = 7, **ubah angka soal** agar 7 benar:
-
-**59 (revisi).** Suku ke-n dari barisan 3, 9, 27, 81, ... yang nilainya 2187 adalah n = ...
+**59.** Suku ke-n dari barisan 3, 9, 27, 81, ... yang nilainya 2187 adalah n = ...
 - A. 5
 - B. 7
 - C. 6
@@ -1303,21 +1160,7 @@ Cek: Uₙ = n(n+1)/2 = 78 → n(n+1) = 156 → n = 12 (karena 12×13 = 156). ✓
 
 ---
 
-**63.** Suku ke-n dari barisan 2, 8, 18, 32, 50, ... (beda bertingkat 6,10,14,...) adalah ...
-- A. 2n²
-- B. n² + 1
-- C. 2n²
-- D. n² + n
-
-**Kunci: C**
-
-**Pembahasan:**
-
-Cek: 2, 8, 18, 32, 50. Coba Uₙ = 2n²: n=1→2 ✓, n=2→8 ✓, n=3→18 ✓, n=4→32 ✓, n=5→50 ✓.
-
-A dan C identik. Kunci ditetapkan C, jadi pilih C sebagai jawaban benar. Anggap A keliru tulis (mis. 2n² + 1 atau 2n − 1).
-
-**63 (revisi).** Suku ke-n dari barisan 2, 8, 18, 32, 50, ... adalah ...
+**63.** Suku ke-n dari barisan 2, 8, 18, 32, 50, ... adalah ...
 - A. n² + 1
 - B. 2n − 1
 - C. 2n²
@@ -1349,21 +1192,7 @@ A dan C identik. Kunci ditetapkan C, jadi pilih C sebagai jawaban benar. Anggap 
 
 ---
 
-**65.** Sebuah peternak punya 3 kelinci. Setiap bulan, jumlah kelinci jadi 2 kali lipat. Berapa kelinci setelah 10 bulan?
-- A. 3072
-- B. 1536
-- C. 3000
-- D. 1024
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: a=3 (bulan 0), Uₙ = 3 × 2ⁿ. Setelah 10 bulan → 3 × 2¹⁰ = 3 × 1024 = 3072. ✓ (opsi A)
-
-Tapi kunci 65 = B. **Ubah angka soal** agar B benar:
-
-**65 (revisi).** Sebuah peternak punya 3 kelinci. Setiap bulan, jumlah kelinci jadi 2 kali lipat. Berapa kelinci setelah 9 bulan?
+**65.** Sebuah peternak punya 3 kelinci. Setiap bulan, jumlah kelinci jadi 2 kali lipat. Berapa kelinci setelah 9 bulan?
 - A. 3072
 - B. 1536
 - C. 3000
@@ -1400,21 +1229,7 @@ Cek n=4: 4×5×9/6 = 180/6 = 30 ✓.
 
 ---
 
-**67.** Suku ke-10 dari barisan 1, 5, 14, 30, 55, ... adalah ...
-- A. 385
-- B. 350
-- C. 405
-- D. 285
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: jumlah kuadrat 1+4+9+...+100 = 10×11×21/6 = 2310/6 = 385. ✓ (opsi A)
-
-Karena kunci 67 = B, **ubah angka soal**:
-
-**67 (revisi).** Suku ke-9 dari barisan jumlah kuadrat (1, 5, 14, 30, 55, ...) adalah ...
+**67.** Suku ke-9 dari barisan jumlah kuadrat (1, 5, 14, 30, 55, ...) adalah ...
 - A. 385
 - B. 285
 - C. 405
@@ -1573,40 +1388,7 @@ Cek: 3n + 2 = 80 → 3n = 78 → n = 26. ✓
 
 ---
 
-**76.** Barisan: 5, 12, 23, 38, 57, ... Apa rumus suku ke-n?
-- A. 2n² + 3n
-- B. 2n² + 3
-- C. n² + 2n + 2
-- D. 2n² + 3
-
-**Kunci: D**
-
-**Pembahasan:**
-
-Cek: U₁=5, U₂=12, U₃=23, U₄=38, U₅=57. Coba Uₙ = 2n² + 3:
-- n=1: 2 + 3 = 5 ✓
-- n=2: 8 + 3 = 11 ≠ 12 ✗
-
-Salah. Mari coba opsi A = 2n² + 3n:
-- n=1: 2 + 3 = 5 ✓
-- n=2: 8 + 6 = 14 ≠ 12 ✗
-
-Coba C = n² + 2n + 2:
-- n=1: 1 + 2 + 2 = 5 ✓
-- n=2: 4 + 4 + 2 = 10 ≠ 12 ✗
-
-Tampaknya rumus benar harus dicari. Beda pertama: 7, 11, 15, 19 → beda kedua = 4 konstan. Jadi rumus kuadrat 2n² + ?
-
-2n² → 2, 8, 18, 32, 50. Selisih dari Uₙ: 5−2=3, 12−8=4, 23−18=5, 38−32=6, 57−50=7. Tambahan tidak konstan.
-
-Sebenarnya cek: 5, 12, 23 — beda 7, 11 → beda kedua 4. Maka kuadratiknya 2n²:
-Uₙ = 2n² + cn + d. Dari U₁=5 → 2+c+d=5; U₂=12 → 8+2c+d=12. Selisih: 6+c = 7 → c=1. Lalu 2+1+d=5 → d=2. Jadi Uₙ = 2n² + n + 2.
-
-Cek n=3: 18+3+2=23 ✓; n=4: 32+4+2=38 ✓; n=5: 50+5+2=57 ✓.
-
-Jadi rumus benar 2n² + n + 2 — yang tidak ada di opsi. Karena kunci 76 = D, **ubah angka soal** agar D = 2n² + 3 benar:
-
-**76 (revisi).** Barisan: 5, 11, 21, 35, 53, ... Apa rumus suku ke-n?
+**76.** Barisan: 5, 11, 21, 35, 53, ... Apa rumus suku ke-n?
 - A. 2n² + 3n
 - B. 2n² + 3
 - C. n² + 2n + 2
@@ -1643,21 +1425,7 @@ Cek: U₂₀ = 2×400 + 3 = 803. ✓
 
 ---
 
-**78.** Pertumbuhan sel: jam pertama 4 sel, jam kedua 12 sel, jam ketiga 36 sel, ... Berapa sel di jam ke-8?
-- A. 8748
-- B. 26244
-- C. 13122
-- D. 4374
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: a=4, r=3. U₈ = 4 × 3⁷ = 4 × 2187 = 8748. ✓ (opsi A)
-
-Karena kunci 78 = B, **ubah angka soal** agar B benar:
-
-**78 (revisi).** Pertumbuhan sel: jam pertama 4 sel, jam kedua 12 sel, jam ketiga 36 sel, ... Berapa sel di jam ke-9?
+**78.** Pertumbuhan sel: jam pertama 4 sel, jam kedua 12 sel, jam ketiga 36 sel, ... Berapa sel di jam ke-9?
 - A. 8748
 - B. 26244
 - C. 13122
@@ -1711,23 +1479,7 @@ Cek: U₂₅ = 625 + 25 = 650. ✓
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
 
-**81.** Suku ke-n dari barisan 2, 7, 17, 37, 77, 157, ... (rekursif Uₙ₊₁ = 2Uₙ + 3) adalah ...
-- A. (5 × 2ⁿ − 3) / ?... rumus tersembunyi
-- B. 5 × 2^(n−1) − 3
-- C. 4 × 2ⁿ − 3
-- D. 3 × 2ⁿ + 1
-
-**Kunci: A**
-
-**Pembahasan:**
-
-Untuk rekursi Uₙ₊₁ = 2Uₙ + 3 dengan U₁ = 2: solusi umum Uₙ = (U₁ + 3) × 2^(n−1) − 3 = 5 × 2^(n−1) − 3.
-
-Cek: n=1: 5 − 3 = 2 ✓; n=2: 10 − 3 = 7 ✓; n=3: 20 − 3 = 17 ✓; n=4: 40 − 3 = 37 ✓. 
-
-Hasil benar: 5 × 2^(n−1) − 3 (opsi B). Karena kunci 81 = A, **ubah opsi A** agar formula benar muncul di A:
-
-**81 (revisi).** Suku ke-n dari barisan 2, 7, 17, 37, 77, ... (rekursif Uₙ₊₁ = 2Uₙ + 3) adalah ...
+**81.** Suku ke-n dari barisan 2, 7, 17, 37, 77, ... (rekursif Uₙ₊₁ = 2Uₙ + 3) adalah ...
 - A. 5 × 2^(n−1) − 3
 - B. 5 × 2ⁿ − 3
 - C. 4 × 2ⁿ − 3
@@ -1891,36 +1643,7 @@ U₁₀ = 100 − 10 + 1 = 91. ✓
 
 ---
 
-**90.** Diberikan barisan dengan U₁ = 2, dan Uₙ₊₁ = 3Uₙ − 1. Suku ke-5 adalah ...
-- A. 122
-- B. 100
-- C. 150
-- D. 90
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: U₁=2, U₂=3×2−1=5, U₃=3×5−1=14, U₄=3×14−1=41, U₅=3×41−1=122. ✓ (opsi A)
-
-Karena kunci 90 = B, **ubah angka soal** agar B benar:
-
-**90 (revisi).** Diberikan barisan dengan U₁ = 2, dan Uₙ₊₁ = 2Uₙ + 4. Suku ke-5 adalah ...
-- A. 122
-- B. 100
-- C. 150
-- D. 90
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: U₁=2, U₂=2×2+4=8, U₃=2×8+4=20, U₄=2×20+4=44, U₅=2×44+4=92. Hmm bukan 100 juga.
-
-Coba rumus lain agar U₅ = 100: U₁=2, Uₙ₊₁=2Uₙ+? Kalau U₅ harus 100, mari coba Uₙ₊₁ = 2Uₙ + a.
-U₁=2; U₂=2a+4? Tidak praktis. Mari pilih barisan langsung:
-
-**90 (revisi-2).** Diberikan barisan 1, 4, 13, 40, ... dengan Uₙ₊₁ = 3Uₙ + 1. Suku ke-5 adalah ...
+**90.** Diberikan barisan 1, 4, 13, 40, ... dengan Uₙ₊₁ = 3Uₙ + 1. Suku ke-5 adalah ...
 - A. 122
 - B. 121
 - C. 150
@@ -2014,40 +1737,6 @@ Cek: barisan ini adalah kuadrat sederhana Uₙ = n². U₅₀ = 2500. ✓
 **95.** Diberikan: U₁ = 2, U₂ = 5, Uₙ = Uₙ₋₁ + Uₙ₋₂ untuk n ≥ 3. Suku ke-10 adalah ...
 - A. 254
 - B. 230
-- C. 268
-- D. 280
-
-**Kunci: C**
-
-**Pembahasan:**
-
-Cek: U₁=2, U₂=5, U₃=7, U₄=12, U₅=19, U₆=31, U₇=50, U₈=81, U₉=131, U₁₀=212. Sebenarnya 212, bukan 268.
-
-Karena hasil sebenarnya 212 (tidak ada di opsi) dan kunci 95 = C = 268, **ubah angka soal**:
-
-**95 (revisi).** Diberikan: U₁ = 3, U₂ = 7, Uₙ = Uₙ₋₁ + Uₙ₋₂ untuk n ≥ 3. Suku ke-10 adalah ...
-- A. 254
-- B. 230
-- C. 288
-- D. 280
-
-**Kunci: C**
-
-**Pembahasan:**
-
-Cek: U₁=3, U₂=7, U₃=10, U₄=17, U₅=27, U₆=44, U₇=71, U₈=115, U₉=186, U₁₀=301. Bukan 288 juga.
-
-Mari coba langsung Fibonacci-like dengan U₁=2, U₂=4: U₃=6, U₄=10, U₅=16, U₆=26, U₇=42, U₈=68, U₉=110, U₁₀=178. Bukan.
-
-Coba: U₁=4, U₂=4: U₃=8, U₄=12, U₅=20, U₆=32, U₇=52, U₈=84, U₉=136, U₁₀=220. Bukan.
-
-U₁=8, U₂=10: U₃=18, U₄=28, U₅=46, U₆=74, U₇=120, U₈=194, U₉=314, U₁₀=508. Bukan.
-
-Lebih pragmatis, **ubah opsi C** jadi 212 dengan U₁=2, U₂=5 (sesuai cek pertama):
-
-**95 (revisi-2).** Diberikan: U₁ = 2, U₂ = 5, Uₙ = Uₙ₋₁ + Uₙ₋₂ untuk n ≥ 3. Suku ke-10 adalah ...
-- A. 254
-- B. 230
 - C. 212
 - D. 280
 
@@ -2108,21 +1797,7 @@ Cek opsi A = n(2n−1):
 
 ---
 
-**98.** Suku ke-100 dari barisan 1, 6, 15, 28, 45, 66, ... adalah ...
-- A. 19800
-- B. 20000
-- C. 19900
-- D. 20100
-
-**Kunci: B**
-
-**Pembahasan:**
-
-Cek: Uₙ = n(2n−1), U₁₀₀ = 100 × 199 = 19900. ✓ (opsi C)
-
-Karena kunci 98 = B, **ubah angka soal** agar B benar:
-
-**98 (revisi).** Suku ke-100 dari barisan 1, 6, 15, 28, ... (heksagonal), kemudian ditambah 100. Hasilnya: ...
+**98.** Suku ke-100 dari barisan 1, 6, 15, 28, ... (heksagonal), kemudian ditambah 100. Hasilnya: ...
 - A. 19800
 - B. 20000
 - C. 19900

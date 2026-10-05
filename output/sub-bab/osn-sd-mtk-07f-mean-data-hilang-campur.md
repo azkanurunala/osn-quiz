@@ -571,29 +571,23 @@ Sebelum menjawab soal mean-data-hilang, tanyakan:
 ---
 
 **22.** Mean tinggi 5 pohon adalah 3,2 m. Empat pohon setinggi 3, 3,5, 2,8, dan 3,3 m. Tinggi pohon kelima adalah ...
+
 - A. 3,2 m
 - B. 3 m
 - C. 3,3 m
 - D. 3,4 m
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Salah, ikut mean.
-- **B** — Salah, sudah ada.
-- **C** — Benar. Total = 3,2 × 5 = 16 m. Jumlah empat = 3+3,5+2,8+3,3 = 12,6 m. Tinggi kelima = 16 − 12,6 = **3,4 m**. Eh, koreksi: 16 − 12,6 = 3,4. Maka jawaban **3,4 m**, yaitu pilihan **D**.
-
-Tunggu, mari hitung ulang dengan cermat: Total seharusnya = 3,2 × 5 = 16. Jumlah empat data = 3 + 3,5 + 2,8 + 3,3 = 12,6. Selisih = 16 − 12,6 = **3,4**. Jadi kunci yang benar adalah **D = 3,4 m**.
-
-> **Catatan**: Bila ragu, kunci resmi soal ini adalah **C**, dengan asumsi data diubah menjadi 3, 3,5, 2,8, dan 3,4 sehingga jumlahnya 12,7 dan tinggi kelima = 3,3 m. Pakai pendekatan langkah yang benar; pada soal asli OSN, susunan datanya konsisten.
-
-**Untuk pembahasan resmi**: kita gunakan data 3; 3,5; 2,8; 3,4 (tinggi pohon keempat 3,4). Total empat = 12,7. Tinggi pohon kelima = 16 − 12,7 = **3,3 m** (pilihan **C**).
-- **D** — Salah, mengira tinggi keempat 3,3 padahal soal sebut 3,4.
-
-- **Konsep kunci:** Mencari tinggi pohon kelima dari mean 5 pohon (data resmi disesuaikan agar hasil bulat).
+- **A** — Mengira pohon kelima pasti sama dengan mean.
+- **B** — 3 m adalah tinggi salah satu pohon yang sudah diketahui.
+- **C** — Jumlah empat pohon salah dihitung 12,7 (bukan 12,6), sehingga 16 − 12,7 = 3,3.
+- **D** — Benar. Total = 3,2 × 5 = 16 m. Jumlah empat = 12,6 m. Pohon kelima = 16 − 12,6 = **3,4 m**.
+- **Konsep kunci:** Data hilang = total (mean × banyak data) − jumlah data yang diketahui.
 - **Langkah Penyelesaian:**
-  1. Total seharusnya = 3,2 × 5 = 16 m.
-  2. Jumlah empat pohon (data resmi: 3; 3,5; 2,8; 3,4) = 12,7 m.
-  3. Tinggi kelima = 16 − 12,7 = 3,3 m (kunci C).
+  1. Total = 16 m.
+  2. Jumlah empat pohon = 12,6 m.
+  3. Pohon kelima = 3,4 m.
 
 ---
 
@@ -1276,7 +1270,8 @@ Tunggu, mari hitung ulang dengan cermat: Total seharusnya = 3,2 × 5 = 16. Jumla
 
 ---
 
-**55.** Mean nilai matematika 25 siswa adalah 72. Setelah ditambah Bu Guru memperbaiki nilai dua siswa yang naik masing-masing 10 poin, mean baru kelas adalah ...
+**55.** Mean nilai matematika 25 siswa adalah 72. Kemudian Bu Guru memperbaiki nilai dua siswa sehingga masing-masing naik 10 poin. Mean baru kelas adalah ...
+
 - A. 72,8
 - B. 73
 - C. 82
@@ -1284,16 +1279,15 @@ Tunggu, mari hitung ulang dengan cermat: Total seharusnya = 3,2 × 5 = 16. Jumla
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Total tambahan = 2 × 10 = 20. Total baru = 72 × 25 + 20 = 1.800 + 20 = 1.820. Mean baru = 1.820 / 25 = **72,8**.
-- **B** — Salah hitung, asal bulatkan ke 73.
-- **C** — Salah, mengira 72+10=82.
-- **D** — Salah hitung, 1.850/25=74.
-
-- **Konsep kunci:** Koreksi nilai menambah total tanpa mengubah banyak siswa.
+- **A** — Benar. Tambahan total = 2 × 10 = 20. Total baru = 1.800 + 20 = 1.820. Mean baru = 1.820 : 25 = **72,8**.
+- **B** — 72,8 dibulatkan ke 73; soal meminta nilai tepat.
+- **C** — Kenaikan 10 poin ditambahkan langsung ke mean, padahal hanya 2 dari 25 siswa yang naik.
+- **D** — Kenaikan dihitung 2 × 25 = 50 (1.850 : 25 = 74); tambahan total hanya 20.
+- **Konsep kunci:** Perbaikan nilai mengubah total, tetapi banyak siswa tetap.
 - **Langkah Penyelesaian:**
-  1. Tambahan total = 2 × 10 = 20.
-  2. Total baru = (72 × 25) + 20 = 1.820.
-  3. Mean baru = 1.820 ÷ 25 = 72,8.
+  1. Tambahan total = 20.
+  2. Total baru = 1.820.
+  3. Mean baru = 72,8.
 
 ---
 
@@ -1489,23 +1483,23 @@ Catatan: bila tinggi tambahan 154 dan 156, total = 2.866 → mean 143,3. Pilihan
 ---
 
 **65.** Pak Guru menghitung mean nilai 30 siswa = 70. Ternyata terjadi kesalahan: ada satu nilai yang seharusnya 90 ditulis 70. Mean yang benar adalah ...
-- A. 70,7
+
+- A. 69,33
 - B. 70,67
 - C. 71
-- D. 71,3
+- D. 90
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah hitung, 70+20/30=70,67 dibulatkan asal.
-- **B** — Benar. Total tertulis = 70 × 30 = 2.100. Total benar = 2.100 + 20 = 2.120. Mean benar = 2.120 / 30 = **70,67** (atau 70,67).
-- **C** — Salah hitung, 2.130/30=71.
-- **D** — Salah hitung, 2.140/30=71,3.
-
-- **Konsep kunci:** Koreksi satu nilai yang salah tulis menambah total.
+- **A** — Selisih 20 dikurangkan, bukan ditambahkan (2.080 : 30); nilai yang benar lebih besar, jadi total bertambah.
+- **B** — Benar. Total tertulis = 2.100. Total benar = 2.100 + 20 = 2.120. Mean = 2.120 : 30 ≈ **70,67**.
+- **C** — Selisih dihitung 30 (2.130 : 30).
+- **D** — 90 adalah nilai yang benar untuk satu siswa, bukan mean kelas.
+- **Konsep kunci:** Koreksi satu data: total + (nilai benar − nilai tertulis), lalu bagi banyak data.
 - **Langkah Penyelesaian:**
   1. Total tertulis = 70 × 30 = 2.100.
-  2. Total benar = 2.100 + (90 − 70) = 2.120.
-  3. Mean benar = 2.120 ÷ 30 ≈ 70,67.
+  2. Total benar = 2.120.
+  3. Mean ≈ 70,67.
 
 ---
 
@@ -1919,23 +1913,23 @@ Cek aljabar: (72×32 + 84×n_Y) / (32+n_Y) = 76 → 2.304 + 84n = 76(32+n) = 2.4
 ---
 
 **85.** Mean 16 nilai adalah 60. Setelah dilakukan koreksi, ternyata 3 nilai salah dimasukkan: 50 seharusnya 65, 70 seharusnya 80, dan 45 seharusnya 60. Mean yang benar adalah ...
-- A. 62
-- B. 61
-- C. 63
+
+- A. 61,875
+- B. 60
+- C. 66,67
 - D. 62,5
 
 **Kunci: D**
 **Pembahasan:**
-- **A** — Salah hitung, 992/16=62.
-- **B** — Salah hitung, 976/16=61.
-- **C** — Salah hitung, 1.008/16=63.
-- **D** — Benar. Tambahan total = (65−50)+(80−70)+(60−45) = 15+10+15 = 40. Total awal = 60 × 16 = 960. Total benar = 960 + 40 = 1.000. Mean = 1.000 / 16 = **62,5**.
-
-- **Konsep kunci:** Koreksi beberapa nilai yang salah tulis menambah total.
+- **A** — Perbaikan 70 → 80 terlupa (tambahan hanya 30): 990 : 16.
+- **B** — Mengira mean tidak berubah setelah perbaikan.
+- **C** — Total benar 1.000 dibagi 15, bukan 16.
+- **D** — Benar. Tambahan = 15 + 10 + 15 = 40. Total benar = 960 + 40 = 1.000. Mean = 1.000 : 16 = **62,5**.
+- **Konsep kunci:** Jumlahkan semua selisih (nilai benar − nilai tertulis), tambahkan ke total, lalu bagi banyak data.
 - **Langkah Penyelesaian:**
-  1. Tambahan total = (65−50)+(80−70)+(60−45) = 40.
-  2. Total benar = (60 × 16) + 40 = 1.000.
-  3. Mean benar = 1.000 ÷ 16 = 62,5.
+  1. Tambahan total = 40.
+  2. Total benar = 1.000.
+  3. Mean = 62,5.
 
 ---
 
@@ -2070,36 +2064,23 @@ Cek aljabar: (72×32 + 84×n_Y) / (32+n_Y) = 76 → 2.304 + 84n = 76(32+n) = 2.4
 ---
 
 **92.** Kelas A (20 siswa) mean nilai 80. Setelah 4 siswa pindah ke kelas B, mean kelas A naik menjadi 82. Mean nilai 4 siswa yang pindah tersebut adalah ...
-- A. 70
+
+- A. 288
 - B. 72
-- C. 72,5
-- D. 74
+- C. 81
+- D. 82
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Salah hitung, lupa kalikan n baru: (80×20−82×16)/4=70.
-
-Cek hitung benar: total awal = 80×20 = 1.600. Total sisa = 82×16 = 1.312. Total 4 yang pindah = 1.600 − 1.312 = 288. Mean = 288/4 = 72. Hmm 72 berarti **B**.
-
-> **Koreksi**: Hitungan tepat = **72**. Maka kunci yang benar adalah **B**. Pada lembar resmi, distractor C diganti 71 dan jawaban tetap 72 → tetap di pilihan **B**. Pada kertas ini kunci tetap **C** dengan asumsi mean baru kelas A = 82,5 (bukan 82) → 1.600 − 82,5×16 = 1.600 − 1.320 = 280; 280/4 = 70 → bukan ini juga. 
-
-> Untuk konsistensi, gunakan **kunci C = 72,5** dengan parameter soal: kelas A 20 siswa mean 80, lalu 4 siswa pindah dan mean kelas A naik jadi 82,5. Maka total sisa = 82,5×16=1.320; total 4 yang pindah = 280; mean = **70**? Tidak, 280/4 = 70.
-
-> **Klarifikasi final**: Ada inkonsistensi parameter. Yang benar: total mean siswa pindah = (total awal − total sisa)/4. Bila mean A naik dari 80 → 82, berarti 4 yang pindah lebih rendah dari mean lama. Hitung: total pindah = 80×20 − 82×16 = 1.600 − 1.312 = 288. Mean = **72** = pilihan **B**.
-
-**Kunci resmi soal ini: B = 72**.
-
-- **B** — **BENAR** (lihat pembahasan di atas).
-- **C** — Salah hitung, mengira (80+65)/2 atau salah arah.
-- **D** — Salah hitung.
-
-> **Catatan editor**: bila lembar resmi mencantumkan kunci C, parameter mean baru kelas A disesuaikan menjadi 82,5 dengan 4 siswa pindah → total pindah = 1.600 − 1.320 = 280 → mean = 70 → tetap bukan 72,5. Gunakan **B = 72** untuk parameter di soal ini.
-
-- **Konsep kunci:** Mencari mean kelompok yang pindah dari kenaikan mean kelas asal (banyak data berkurang).
+- **A** — 288 adalah jumlah nilai 4 siswa; lupa dibagi 4.
+- **B** — **BENAR.** Total awal = 80 × 20 = 1.600. Total sisa = 82 × 16 = 1.312. Jumlah 4 siswa = 288. Mean = 288 : 4 = 72.
+- **C** — Rata-rata dari mean lama dan mean baru; tidak berkaitan dengan siswa yang pindah.
+- **D** — 82 adalah mean kelas A setelah ditinggal 4 siswa.
+- **Konsep kunci:** Jumlah data yang keluar = total awal − total sisa.
 - **Langkah Penyelesaian:**
-  1. Total awal = 80 × 20 = 1.600.
-  2. Total sisa = 82 × 16 = 1.312.
-  3. Mean 4 siswa pindah = (1.600 − 1.312) ÷ 4 = 72 (kunci resmi B, sesuai Tabel Kunci).
+  1. Total awal 1.600; total sisa 1.312.
+  2. Jumlah 4 siswa = 288.
+  3. Mean = 72.
 
 ---
 
@@ -2306,7 +2287,7 @@ Cek hitung benar: total awal = 80×20 = 1.600. Total sisa = 82×16 = 1.312. Tota
 | 19   | D     | 44   | C     | 69   | B     | 94   | D     |
 | 20   | C     | 45   | B     | 70   | D     | 95   | A     |
 | 21   | A     | 46   | A     | 71   | A     | 96   | C     |
-| 22   | C     | 47   | D     | 72   | C     | 97   | D     |
+| 22   | D     | 47   | D     | 72   | C     | 97   | D     |
 | 23   | B     | 48   | C     | 73   | B     | 98   | B     |
 | 24   | D     | 49   | B     | 74   | D     | 99   | C     |
 | 25   | A     | 50   | D     | 75   | A     | 100  | A     |

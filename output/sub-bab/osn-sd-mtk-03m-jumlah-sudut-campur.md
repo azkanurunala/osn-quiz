@@ -1058,6 +1058,7 @@ Dua sudut alas sama, total = 180° − 90° = 90°. Tiap sudut alas = 90° ÷ 2 
 ---
 
 **47.** Pada hexagon beraturan, jika dijumlah seluruh enam sudutnya, hasilnya ...
+
 - A. 720°
 - B. 540°
 - C. 360°
@@ -1065,16 +1066,13 @@ Dua sudut alas sama, total = 180° − 90° = 90°. Tiap sudut alas = 90° ÷ 2 
 
 **Kunci: A**
 **Pembahasan:**
-6 × 120° = 720°. Atau langsung pakai (6−2) × 180° = 720°.
-- **A** — Benar. 720°. ✅
-- **B** — 540° = pentagon.
-- **C** — 360° = segiempat.
-- **D** — 900° = heptagon.
-- **Konsep kunci:** Jumlah seluruh sudut hexagon dapat dihitung langsung dengan rumus (n−2)×180° atau dari sudut per titik.
+- **A** — Benar. (6 − 2) × 180° = 720° (atau 6 × 120°). ✅
+- **B** — 540° adalah jumlah sudut segi lima (pentagon).
+- **C** — 360° adalah jumlah sudut segi empat; mungkin tertukar dengan jumlah sudut luar.
+- **D** — 900° adalah jumlah sudut segi tujuh.
+- **Konsep kunci:** Jumlah sudut dalam segi-n = (n − 2) × 180°.
 - **Langkah Penyelesaian:**
-  1. Cara 1: (6 − 2) × 180° = 720°.
-  2. Cara 2 (cek ulang): 6 × 120° = 720°.
-  3. Jawaban: 720° (opsi A).
+  1. (6 − 2) × 180° = 720°.
 
 ---
 
@@ -1627,38 +1625,22 @@ Jumlah pentagon = 540°. 3 × 110° + 2∠D = 540° → 330° + 2∠D = 540° �
 ---
 
 **74.** Sebuah segitiga memiliki dua sudut eksterior 100° dan 130°. Sudut ketiga (interior) = ...
+
 - A. 50°
-- B. 70°
+- B. 230°
 - C. 80°
 - D. 130°
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-Sudut interior = 180° − sudut eksterior. Dua sudut interior: 80° dan 50°. Sudut ketiga = 180° − 80° − 50° = 50°. Tunggu: kita perlu cek sudut interior ketiga.
-Sudut eksterior ketiga = 360° − 100° − 130° = 130°. Sudut interior ketiga = 180° − 130° = 50°. Tapi soal minta sudut interior ketiga (yang tidak diberi eksteriornya). Mari periksa: 80° + 50° + ? = 180° → ? = 50°. Hmm, dua opsi mengarah ke 50°.
-Sebenarnya: sudut interior pertama = 180° − 100° = 80°. Sudut interior kedua = 180° − 130° = 50°. Sudut interior ketiga = 180° − 80° − 50° = 50°. Tetapi soal minta interior ketiga (= 50°). Cek opsi: 50° = A.
-Karena dua sudut interior sudah diketahui (80° dan 50°), interior ketiga adalah 180° − 130° = 50°. Hmm, sudut ketiga = 50° → harus jawaban A.
-Mari kita ganti pendekatan: jumlah sudut eksterior segitiga = 360°. Eksterior ketiga = 360° − 100° − 130° = 130°. Interior ketiga = 180° − 130° = 50°. Tapi 50° = A. Maka jawabannya **A** bukan B. Mari saya rewrite soal agar B benar.
-
-Sudut interior dari eksterior = 180° − ekst. Interior ketiga = 70°. Maka sudut eksterior ketiga = 180° − 70° = 110°. Total eksterior = 100° + 130° + 110° = 340° ≠ 360° → bukan dari rumus segitiga.
-
-OK saya akan ganti angka soal: "sudut eksterior 100° dan 140°".
-- **A** — 50° (tidak sesuai dengan revisi).
-- **B** — Benar. Eksterior ketiga = 360° − 100° − 140° = 120°. Interior ketiga = 180° − 120° = 60°. Hmm masih bukan 70°.
-
-Saya pakai: eksterior 110° dan 140°. Interior ketiga: ekst ketiga = 360 − 110 − 140 = 110°. Interior ketiga = 70°. ✅
-**Soal direvisi**: "Sebuah segitiga memiliki dua sudut eksterior 110° dan 140°. Sudut ketiga (interior) = ...". Eksterior ketiga = 360° − 110° − 140° = 110°. Interior ketiga = 180° − 110° = 70°.
-- **A** — 50° → tidak konsisten.
-- **B** — Benar. Interior ketiga = 70°. ✅
-- **C** — 80° → eksterior 100°, total 350°.
-- **D** — 130° → eksterior 50°, total 300°.
-
-**(Catatan revisi soal: gunakan 110° dan 140°, bukan 100° dan 130°.)**
-- **Konsep kunci:** Sudut eksterior ketiga dicari dari 360° dikurangi dua sudut eksterior lain, lalu diubah ke interior dengan 180° − eksterior.
+- **A** — Benar. Sudut luar ketiga = 360° − 100° − 130° = 130° → sudut dalam ketiga = 180° − 130° = 50°. (Cek: sudut dalam 80° + 50° + 50° = 180°.) ✅
+- **B** — 230° = 100° + 130°; kedua sudut luar dijumlahkan saja.
+- **C** — 80° adalah sudut dalam pasangan sudut luar 100°, bukan sudut ketiga.
+- **D** — 130° adalah sudut luar ketiga; belum diubah ke sudut dalam.
+- **Konsep kunci:** Jumlah sudut luar segitiga = 360°; sudut dalam = 180° − sudut luar.
 - **Langkah Penyelesaian:**
-  1. Cari sudut eksterior ketiga: 360° − 110° − 140° = 110°.
-  2. Ubah ke sudut interior: 180° − 110° = 70°.
-  3. Jawaban: 70° (opsi B, memakai soal versi revisi 110° dan 140°).
+  1. Sudut luar ketiga = 130°.
+  2. Sudut dalam ketiga = 50°.
 
 ---
 
@@ -1725,29 +1707,23 @@ Sudut puncak = 180° − 2 × 65° = 180° − 130° = 50°. Tiga sudut: 65°, 6
 
 ---
 
-**78.** Sebuah segitiga memiliki sudut (2x+10)°, (3x−20)°, dan (x+30)°. Nilai x = ...
-- A. 25°
-- B. 27°
+**78.** Sebuah segitiga memiliki sudut (2x)°, (3x−10)°, dan (x+10)°. Nilai x = ...
+
+- A. 36°
+- B. 60°
 - C. 30°
-- D. 35°
+- D. 15°
 
 **Kunci: C**
 **Pembahasan:**
-(2x+10) + (3x−20) + (x+30) = 180° → 6x + 20 = 180° → 6x = 160° → x ≈ 26,67°. Hmm, tidak bulat.
-
-**Revisi soal**: sudut (2x+10)°, (3x−10)°, (x+20)°. 2x+10 + 3x−10 + x+20 = 6x + 20 = 180° → tetap. Mari ubah ke (2x+10), (3x), (x+10): 6x + 20 = 180°, hmm.
-
-Pakai (2x), (3x−10), (x+10): 6x = 180°→ x = 30°. ✅
-**(Soal direvisi: sudut (2x)°, (3x−10)°, dan (x+10)°)**.
-- **A** — 25° → 50 + 65 + 35 = 150°.
-- **B** — 27° → 54 + 71 + 37 = 162°.
-- **C** — Benar. 60 + 80 + 40 = 180°. ✅
-- **D** — 35° → 70 + 95 + 45 = 210°.
-- **Konsep kunci:** Jumlahkan sudut bentuk aljabar, samakan dengan 180°, lalu selesaikan x.
+- **A** — Suku x pada (x + 10) terlupa, sehingga 5x = 180.
+- **B** — 60° adalah besar sudut 2x, bukan nilai x.
+- **C** — Benar. 2x + (3x − 10) + (x + 10) = 6x = 180° → x = 30°. Sudut: 60°, 80°, 40° ✅.
+- **D** — Jumlah sudut segitiga dikira 90° (6x = 90).
+- **Konsep kunci:** Jumlahkan sudut berbentuk aljabar dan samakan dengan 180°.
 - **Langkah Penyelesaian:**
-  1. Jumlahkan: 2x + (3x − 10) + (x + 10) = 6x.
-  2. Samakan dengan 180°: 6x = 180° → x = 30°.
-  3. Jawaban: x = 30° (opsi C, memakai soal versi revisi).
+  1. 6x = 180°.
+  2. x = 30°.
 
 ---
 
@@ -1921,46 +1897,24 @@ n = 360° / 24° = 15. Jumlah interior = (15−2) × 180° = 13 × 180° = 2340�
 
 ---
 
-**87.** Pada segitiga, ∠A = 3∠B = 5∠C. Besar ∠A = ...
-- A. 100°
-- B. 90°
-- C. ≈ 115,1°
-- D. 105°
+**87.** Pada segitiga ABC, ∠A = 2∠B dan ∠C = 45°. Besar ∠A = ...
+
+- A. 45°
+- B. 67,5°
+- C. 90°
+- D. 135°
 
 **Kunci: C**
 **Pembahasan:**
-Misal ∠A = 15k (KPK dari 1,3,5). ∠B = 5k, ∠C = 3k. Total: 15k + 5k + 3k = 23k = 180° → k = 180°/23 ≈ 7,83°. ∠A = 15k ≈ 117,4°. Atau lebih akurat: ∠A = (15/23)×180° ≈ 117,4°. Pilihan terdekat 115,1° dari pendekatan k ≈ 7,67°. **Mari hitung ulang**: ∠A = 3∠B → ∠B = ∠A/3. ∠A = 5∠C → ∠C = ∠A/5. ∠A + ∠A/3 + ∠A/5 = 180° → ∠A (1 + 1/3 + 1/5) = 180° → ∠A × 23/15 = 180° → ∠A = 180° × 15/23 = 2700°/23 ≈ 117,4°.
-Tidak ada opsi tepat 117,4°. **Soal direvisi**: "∠A = 2∠B = 4∠C". ∠B = ∠A/2, ∠C = ∠A/4. ∠A + ∠A/2 + ∠A/4 = 7∠A/4 = 180° → ∠A = 720°/7 ≈ 102,86°.
-
-Versi paling bersih: **"∠A = 2∠B = 3∠C"**. ∠B = ∠A/2, ∠C = ∠A/3. ∠A(1 + 1/2 + 1/3) = ∠A(11/6) = 180° → ∠A = 1080°/11 ≈ 98,2°.
-
-**Soal final yang dipakai**: "∠A = 2∠B dan ∠C = 30°". ∠A + ∠B = 150°. 2∠B + ∠B = 150° → ∠B = 50° → ∠A = 100°.
-Maka kunci = A (100°). Tapi target kunci adalah C. Saya akan ubah ke soal yang menghasilkan C:
-
-**Soal final**: "Pada segitiga, ∠A = 2∠B dan ∠C = 60°. Besar ∠A = ...". ∠A + ∠B = 120°. 2∠B + ∠B = 120° → ∠B = 40° → ∠A = 80°. Hmm.
-
-Pakai: "∠A = 2∠B dan ∠C = 40°". ∠A + ∠B = 140°. 2∠B + ∠B = 140° → ∠B ≈ 46,67° → ∠A ≈ 93,3°. Tidak bulat.
-
-**Versi paling sederhana yang menghasilkan jawaban bulat dan target C**: "Pada segitiga ABC, ∠A = 2∠B dan ∠C = 45°. ∠A = ?". ∠A + ∠B = 135°. ∠A = 2∠B → 3∠B = 135° → ∠B = 45° → ∠A = 90°. → Kunci B.
-
-OK saya ganti angka target soal agar **menghasilkan ∠A = 90°**, dan ubah opsi sehingga 90° = C bukan B. Mari:
-- A. 60°
-- B. 75°
-- **C. 90°**
-- D. 100°
-
-OK, soal: **"Pada segitiga ABC, ∠A = 2∠B dan ∠C = 45°. Besar ∠A = ..."**
-- **A** — 60° → ∠B = 30°, ∠C = 90° (bukan 45°).
-- **B** — 75° → ∠B = 37,5°, ∠C = 67,5° (bukan 45°).
-- **C** — Benar. ∠A = 90°, ∠B = 45°, ∠C = 45°. Total 180°. ✅
-- **D** — 100° → ∠B = 50°, ∠C = 30° (bukan 45°).
-
-**(Soal final: ∠A = 2∠B dan ∠C = 45°. Pilihan dengan C = 90°.)**
-- **Konsep kunci:** Nyatakan sudut yang dicari dalam satu variabel dengan sudut lain yang diketahui, lalu selesaikan dari total 180°.
+- **A** — 45° adalah besar ∠B, bukan ∠A.
+- **B** — Mengira ∠A = ∠B, sehingga 135° dibagi 2.
+- **C** — Benar. 2∠B + ∠B + 45° = 180° → 3∠B = 135° → ∠B = 45° → ∠A = 90°. ✅
+- **D** — 135° adalah ∠A + ∠B, belum dibagi menurut perbandingan.
+- **Konsep kunci:** Nyatakan sudut dalam satu variabel, lalu gunakan jumlah 180°.
 - **Langkah Penyelesaian:**
-  1. Jumlahkan: ∠A + ∠B + ∠C = 180°, dengan ∠A = 2∠B dan ∠C = 45°.
-  2. Substitusi: 2∠B + ∠B + 45° = 180° → 3∠B = 135° → ∠B = 45°.
-  3. ∠A = 2 × 45° = 90° (opsi C, memakai soal versi final ∠C = 45°).
+  1. ∠A + ∠B = 135°.
+  2. 3∠B = 135° → ∠B = 45°.
+  3. ∠A = 90°.
 
 ---
 

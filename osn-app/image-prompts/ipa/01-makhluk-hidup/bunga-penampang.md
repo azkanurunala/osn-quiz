@@ -3,15 +3,15 @@
 - **Bab:** IPA 01 · Makhluk Hidup & Lingkungan
 - **Sub-bab:** 01d, 01e
 - **Objek (EN):** a peach blossom (Prunus persica), a complete flower, cut lengthwise in half (longitudinal section)
-- **Soal terkait:** 57 soal di 12 file
-  - `ipa-01d-struktur-tumbuhan-campur` (18)
-  - `ipa-01e-reproduksi-tumbuhan-campur` (18)
-  - `ipa-01-makhluk-hidup-sedang` (5)
-  - `ipa-01-makhluk-hidup-campur` (3)
-  - `ipa-01-makhluk-hidup-mudah` (3)
-  - `ipa-01-makhluk-hidup-sedang-sulit` (3)
-  - `ipa-01-makhluk-hidup-sulit` (2)
-  - `ipa-01-makhluk-hidup-mudah-sedang` (1)
+- **Soal terkait:** 145 soal di 29 file
+  - `ipa-01e-reproduksi-tumbuhan-campur` (36)
+  - `ipa-01d-struktur-tumbuhan-campur` (25)
+  - `ipa-01-makhluk-hidup-sedang` (11)
+  - `ipa-01-makhluk-hidup-sedang-sulit` (9)
+  - `ipa-01-makhluk-hidup-mudah-sedang` (7)
+  - `ipa-01i-adaptasi-tumbuhan-campur` (7)
+  - `ipa-01l-simbiosis-campur` (6)
+  - `ipa-01-makhluk-hidup-campur` (5)
 - **Tampak:** satu tampak lurus dari depan, full body (objek datar/simetris/percobaan)
 - **Versi:** A. Realistis (prompt 1) · B. Ilustrasi (prompt 2) · C. Penampang skematik (prompt 3–4)
 - **Folder hasil:** `image-results/ipa/01-makhluk-hidup/bunga-penampang/`

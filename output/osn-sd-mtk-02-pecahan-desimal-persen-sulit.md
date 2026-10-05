@@ -648,75 +648,32 @@ Bu Sinta menabung Rp 500.000 di bank dengan bunga tunggal 8% per tahun. Setelah 
 
 **(2) Pilihan Jawaban:**
 
-A. Rp 525.000
-B. Rp 540.000
-C. Rp 551.250
-D. Rp 567.000
+A. Rp 530.000
+B. Rp 567.000
+C. Rp 556.500
+D. Rp 555.000
 
-**(3) Jawaban:** **C · Rp 551.250**
+**(3) Jawaban:** **C · Rp 556.500**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Bunga tunggal proporsional waktu + persen tambahan berlapis.
+- **Konsep yang diuji:** Bunga tunggal sebanding waktu + persen tambahan dari saldo akhir.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp 525.000** — Hanya bunga 5% saja.
-  - **B. Rp 540.000** — Bunga 8% 1 tahun penuh (tanpa proporsi 9 bulan).
-  - **C. Rp 551.250** — Benar.
-  - **D. Rp 567.000** — Salah konversi bunga atau cashback.
+  - **A. Rp 530.000** — Salah. Hanya saldo setelah bunga 9 bulan; cashback 5% terlupa.
+  - **B. Rp 567.000** — Salah. Bunga dihitung setahun penuh (540.000), lalu × 1,05. Padahal baru 9 bulan.
+  - **C. Rp 556.500** — Benar. Bunga 9 bulan = 9/12 × 8% × 500.000 = 30.000 → saldo 530.000. Cashback 5% × 530.000 = 26.500. Total 556.500.
+  - **D. Rp 555.000** — Salah. Cashback dihitung dari tabungan awal (5% × 500.000 = 25.000), padahal soal menyebut dari saldo akhir.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Bunga 9 bulan = (9/12) × 8% × 500.000 = 0,06 × 500.000 = 30.000.
-  2. Saldo setelah bunga = 500.000 + 30.000 = 530.000.
-  3. Cashback 5% × 530.000 = 26.500.
-  4. Total = 530.000 + 26.500 = 556.500.
+  1. Bunga 9 bulan = 0,75 × 8% × 500.000 = 30.000.
+  2. Saldo = 530.000.
+  3. Cashback = 5% × 530.000 = 26.500.
+  4. Total = 556.500.
 
-  Cek dengan pilihan: pilihan C = 551.250 ≠ 556.500. Hitung ulang:
-  - Bunga: 9/12 = 0,75; 0,75 × 8% = 6%; 6% × 500.000 = 30.000. Saldo 530.000.
-  - 530.000 × 1,05 = 556.500.
+- **Hasil akhir:** **C · Rp 556.500**
 
-  Karena nilai sebenarnya 556.500 dan tidak ada di pilihan, modifikasi: cashback 4% × 530.000 = 21.200. Total = 551.200 ≈ C.
-
-  Lebih tepat: bunga 7% per tahun, 9 bulan, plus cashback 5%.
-  - Bunga = 9/12 × 7% × 500.000 = 0,0525 × 500.000 = 26.250. Saldo = 526.250.
-  - 526.250 × 1,05 = 552.562,5. Bukan.
-
-  Coba bunga 8% setahun penuh + cashback 2%:
-  - 500.000 × 1,08 = 540.000.
-  - 540.000 × 1,021 ≈ 551.340. Mendekati.
-
-  Anggap data soal sesuai: bunga 8% setahun, plus cashback 5%:
-  - 500.000 × 1,08 = 540.000.
-  - 540.000 × 1,05 = ?
-
-  Coba bunga proporsional 9 bulan 8%/tahun: 0,75 × 0,08 × 500.000 = 30.000. Saldo 530.000.
-  Cashback dari saldo awal 5% × 500.000 = 25.000. Total = 530.000 + 25.000 − 3.750 = 551.250. Yang lebih masuk: cashback 5% dari saldo bunga (530.000) DIKURANGI fee 5.250 administratif.
-
-  Mari sederhanakan: anggap **bunga 8% per tahun selama 9 bulan, lalu cashback 4% dari saldo akhir**.
-  - Bunga 9 bulan = 30.000. Saldo 530.000.
-  - Cashback 4% × 530.000 = 21.200. Total = 551.200.
-
-  Atau **bunga 7% × 9/12 + cashback 5% dari saldo bunga**:
-  - 0,0525 × 500.000 = 26.250. Saldo 526.250.
-  - 526.250 × 1,05 = 552.562,5.
-
-  Untuk match nilai bulat 551.250, kombinasi: 525.000 × 1,05 = 551.250. Maka saldo bunga = 525.000.
-  - 525.000 − 500.000 = 25.000 = 5% × 500.000. Bunga 5% setahun, 1 tahun penuh? Atau 6,67% × 9/12.
-
-  Mari ubah soal supaya konsisten: **bunga 5% per tahun, 1 tahun + cashback 5% saldo akhir**.
-  - 500.000 × 1,05 = 525.000.
-  - 525.000 × 1,05 = 551.250. Cocok.
-
-  Anggap soal benar: bunga 5% per tahun 1 tahun + cashback 5% saldo akhir.
-
-  Revisi langkah penyelesaian:
-  1. Bunga 1 tahun 5% × 500.000 = 25.000. Saldo = 525.000.
-  2. Cashback 5% × 525.000 = 26.250.
-  3. Total = 525.000 + 26.250 = 551.250.
-
-- **Hasil akhir:** **C · Rp 551.250**
-
-- **Tips:** Bunga dan cashback ditambah (bukan dikalikan harga jual seperti diskon). Saldo bunga lebih dulu, lalu cashback dari saldo bunga.
+- **Tips:** Bunga tunggal untuk n bulan = n/12 × bunga setahun. Baca dengan teliti dasar perhitungan persen berikutnya (saldo awal atau saldo akhir).
 
 ---
 
@@ -940,59 +897,34 @@ D. 3/4
 ### Soal 20 · MTK-02 · Persen sebagai Bagian · Nasional
 
 **(1) Soal:**
-Dalam sebuah perusahaan terdapat 250 karyawan. 36% di antaranya bekerja di bagian produksi, dan 5/8 dari karyawan produksi adalah pria. Berapa banyak karyawan pria di bagian produksi?
+Dalam sebuah perusahaan terdapat 240 karyawan. 35% di antaranya bekerja di bagian produksi, dan 2/3 dari karyawan produksi adalah pria. Berapa banyak karyawan pria di bagian produksi?
 
 **(2) Pilihan Jawaban:**
 
-A. 45 orang
-B. 54 orang
+A. 28 orang
+B. 160 orang
 C. 56 orang
-D. 90 orang
+D. 84 orang
 
 **(3) Jawaban:** **C · 56 orang**
 
-Hitung ulang: 36% × 250 = 90; 5/8 × 90 = 56,25.
+**(4) Pembahasan Komprehensif:**
 
-Mari modifikasi: 40% × 250 = 100; 5/8 × 100 = 62,5. Bukan.
-
-Coba 36% × 250 = 90; 5/9 × 90 = 50. Bukan.
-
-Coba 32% × 250 = 80; 5/8 × 80 = 50. Bukan.
-
-Coba 36% × 200 = 72; 5/8 × 72 = 45. Hasil A.
-
-Anggap soal: 200 karyawan, 36%, 5/8 → 45 orang = A.
-
-Atau pertahankan 250 karyawan: 40% × 250 = 100; 9/20 × 100 = 45 = A. Atau 45% × 250 = 112,5 (bukan bulat).
-
-Cara cleanest: 250 karyawan, 32%, 7/10 → 80 × 0,7 = 56. Bukan 5/8.
-
-Coba: 250 karyawan, 36%, 7/9 = 36% × 250 × 7/9 = 90 × 7/9 = 70. Bukan.
-
-Coba: 240 karyawan, 35%, 2/3 → 84 × 2/3 = 56 = C.
-
-Anggap soal **240 karyawan, 35% di produksi, 2/3 pria** → 56. Cocok C.
-
-Revisi:
-
-**(1) Soal (revisi):**
-Dalam sebuah perusahaan terdapat 240 karyawan. 35% di antaranya bekerja di bagian produksi, dan 2/3 dari karyawan produksi adalah pria. Berapa banyak karyawan pria di bagian produksi?
-
-- **Konsep yang diuji:** Persen + pecahan dalam soal cerita berlapis.
+- **Konsep yang diuji:** Persen lalu pecahan dalam soal cerita berlapis.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 45 orang** — Salah hitung.
-  - **B. 54 orang** — Salah pecahan (mungkin 9/14).
-  - **C. 56 orang** — Benar.
-  - **D. 90 orang** — Total produksi, bukan pria.
+  - **A. 28 orang** — Salah. Itu karyawan **wanita** di produksi (1/3 × 84).
+  - **B. 160 orang** — Salah. 2/3 dikalikan langsung ke seluruh karyawan (240), lupa menyaring bagian produksi dulu.
+  - **C. 56 orang** — Benar. Produksi = 35% × 240 = 84. Pria = 2/3 × 84 = 56.
+  - **D. 84 orang** — Salah. Itu seluruh karyawan produksi; langkah 2/3 terlupa.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Karyawan produksi = 35% × 240 = 0,35 × 240 = 84 orang.
+  1. Karyawan produksi = 0,35 × 240 = 84 orang.
   2. Pria di produksi = 2/3 × 84 = 56 orang.
 
 - **Hasil akhir:** **C · 56 orang**
 
-- **Tips:** Untuk soal cerita berlapis (persen lalu pecahan), kerjakan langkah demi langkah dan beri label.
+- **Tips:** Kerjakan soal berlapis langkah demi langkah dan beri label tiap hasil.
 
 ---
 
@@ -1330,43 +1262,31 @@ Hasil dari 2/3 × (5/6 + 1/4) − 1/12 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 4/9
-B. 5/9
-C. 11/18
-D. 13/18
+A. 13/18
+B. 23/36
+C. 2/3
+D. 19/60
 
-**(3) Jawaban:** **B · 5/9**
+**(3) Jawaban:** **B · 23/36**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi campuran pecahan (kurung, kali, kurang).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 4/9** — Salah penyederhanaan.
-  - **B. 5/9** — Benar.
-  - **C. 11/18** — Salah hitung.
-  - **D. 13/18** — Salah penyederhanaan.
+  - **A. 13/18** — Salah. Itu hasil 2/3 × 13/12; pengurangan 1/12 terlupa.
+  - **B. 23/36** — Benar. 5/6 + 1/4 = 13/12; 2/3 × 13/12 = 13/18; 13/18 − 1/12 = 26/36 − 3/36 = 23/36.
+  - **C. 2/3** — Salah. 1/12 dikurangkan di dalam kurung dulu (13/12 − 1/12 = 1), padahal pengurangan berada di luar kurung dan dikerjakan setelah perkalian.
+  - **D. 19/60** — Salah. Penjumlahan di kurung dilakukan dengan menjumlah pembilang dan penyebut (5/6 + 1/4 dikira 6/10), lalu 2/3 × 6/10 − 1/12 = 2/5 − 1/12 = 19/60.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Kurung: 5/6 + 1/4. KPK(6,4) = 12. 5/6 = 10/12; 1/4 = 3/12. Total = 13/12.
-  2. Kali 2/3: (2/3) × (13/12) = 26/36 = 13/18.
-  3. Kurang 1/12: 13/18 − 1/12. KPK(18,12) = 36. 13/18 = 26/36; 1/12 = 3/36. Total = 23/36.
+  1. Kurung: 10/12 + 3/12 = 13/12.
+  2. Kali: 2/3 × 13/12 = 26/36 = 13/18.
+  3. Kurang: 13/18 − 1/12 = 26/36 − 3/36 = 23/36.
 
-  Cek pilihan: A = 4/9 = 16/36; B = 5/9 = 20/36; C = 11/18 = 22/36; D = 13/18 = 26/36.
+- **Hasil akhir:** **B · 23/36**
 
-  Hasil 23/36 tidak match. Modifikasi soal: ubah 1/12 → 1/6.
-  - 13/18 − 1/6. KPK(18,6) = 18. 1/6 = 3/18. Total = 10/18 = 5/9 = B.
-
-  Anggap soal: **2/3 × (5/6 + 1/4) − 1/6**.
-
-  Re-verifikasi:
-  - Kurung: 5/6 + 1/4 = 13/12.
-  - Kali 2/3: 2/3 × 13/12 = 26/36 = 13/18.
-  - Kurang 1/6 = 3/18: 13/18 − 3/18 = 10/18 = 5/9.
-
-- **Hasil akhir:** **B · 5/9**
-
-- **Tips:** Untuk kurung kompleks, samakan penyebut ke KPK. Setelah perkalian, sederhanakan sebelum lanjut operasi.
+- **Tips:** Kurung dulu, lalu kali/bagi, baru tambah/kurang. Samakan penyebut dengan KPK.
 
 ---
 
@@ -1412,84 +1332,32 @@ Sebuah pecahan jika pembilangnya dikurang 5 menjadi 1/3, dan jika penyebutnya di
 
 **(2) Pilihan Jawaban:**
 
-A. 7/19
-B. 8/21
-C. 9/23
-D. 11/27
+A. 8/16
+B. 3/9
+C. 8/9
+D. 9/8
 
-**(3) Jawaban:** **C · 9/23**
+**(3) Jawaban:** **C · 8/9**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Pecahan dengan dua syarat — perubahan pembilang dan penyebut.
+- **Konsep yang diuji:** Pecahan dengan dua syarat perubahan pembilang dan penyebut.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 7/19** — Cek: (7−5)/19 = 2/19 ≠ 1/3.
-  - **B. 8/21** — Cek: (8−5)/21 = 3/21 = 1/7 ≠ 1/3.
-  - **C. 9/23** — Cek: (9−5)/(23) = 4/23 ≠ 1/3.
-
-  Hmm, 9/23 tidak memenuhi syarat pertama. Modifikasi:
-
-  Cari pecahan a/b dengan (a−5)/b = 1/3 dan a/(b+7) = 1/2.
-  - Persamaan 1: 3(a−5) = b → 3a − 15 = b.
-  - Persamaan 2: 2a = b + 7 → b = 2a − 7.
-  - Set: 3a − 15 = 2a − 7 → a = 8.
-  - b = 3(8) − 15 = 9.
-
-  Pecahan asli = 8/9. Tidak ada di pilihan.
-
-  Coba syarat lain: (a−5)/b = 1/3 dan a/(b+7) = 1/2.
-  - 3a − 15 = b.
-  - 2a = b + 7 → b = 2a − 7.
-  - 3a − 15 = 2a − 7 → a = 8; b = 9. Hasil 8/9.
-
-  Modifikasi soal: (a+5)/b = 1/3 dan a/(b−7) = 1/2.
-  - 3(a+5) = b → b = 3a + 15.
-  - 2a = b − 7 → b = 2a + 7.
-  - 3a + 15 = 2a + 7 → a = −8. Negatif, salah.
-
-  Coba: (a−1)/b = 1/3 dan (a+1)/b = 1/2.
-  - 3a − 3 = b; 2a + 2 = b.
-  - 3a − 3 = 2a + 2 → a = 5; b = 12. Hasil 5/12. Bukan pilihan.
-
-  Modifikasi soal sehingga jawabannya match C = 9/23:
-  - Syarat: (a+1)/(b−3) = 5/11 dst — terlalu kompleks.
-
-  Ambil 9/23 sebagai jawaban dengan syarat baru:
-  - (9 − 1)/23 = 8/23 ≠ ada bentuk nice.
-  - 9/(23 + 4) = 9/27 = 1/3.
-  - (9 + 5)/(23 − 1) = 14/22 = 7/11.
-
-  Coba syarat: a/(b+4) = 1/3 dan (a−2)/b = 1/3 → tidak unik.
-
-  Ubah pilihan: ganti C menjadi 8/9 dan revisi soal asli.
-
-  Anggap soal: **Sebuah pecahan jika pembilangnya dikurang 5 menjadi 1/3, dan jika penyebutnya ditambah 7 menjadi 1/2. Pecahan asli adalah …**
-
-  **Pilihan revisi:** A. 6/7  B. 7/8  C. 8/9  D. 9/10
-
-  Jawaban: **C · 8/9**.
-
-  Verifikasi:
-  - (8 − 5)/9 = 3/9 = 1/3 ✓.
-  - 8/(9 + 7) = 8/16 = 1/2 ✓.
-
-- **Analisis Setiap Pilihan Jawaban (revisi):**
-  - **A. 6/7** — (6−5)/7 = 1/7 ≠ 1/3. Salah.
-  - **B. 7/8** — (7−5)/8 = 2/8 = 1/4 ≠ 1/3. Salah.
-  - **C. 8/9** — Memenuhi keduanya. Benar.
-  - **D. 9/10** — (9−5)/10 = 4/10 = 2/5 ≠ 1/3. Salah.
+  - **A. 8/16** — Salah. Itu bentuk setelah penyebut ditambah 7, bukan pecahan asli.
+  - **B. 3/9** — Salah. Itu bentuk setelah pembilang dikurang 5, bukan pecahan asli.
+  - **C. 8/9** — Benar. (8 − 5)/9 = 3/9 = 1/3 ✓ dan 8/(9 + 7) = 8/16 = 1/2 ✓.
+  - **D. 9/8** — Salah. Pembilang dan penyebut tertukar; (9 − 5)/8 = 1/2, bukan 1/3.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Misalkan pecahan asli = a/b.
-  2. Syarat 1: (a−5)/b = 1/3 → 3(a−5) = b → b = 3a − 15.
-  3. Syarat 2: a/(b+7) = 1/2 → 2a = b + 7 → b = 2a − 7.
-  4. Set sama: 3a − 15 = 2a − 7 → a = 8.
-  5. b = 2(8) − 7 = 9. Pecahan = 8/9.
+  1. Misalkan pecahan = a/b.
+  2. (a − 5)/b = 1/3 → b = 3a − 15.
+  3. a/(b + 7) = 1/2 → b = 2a − 7.
+  4. 3a − 15 = 2a − 7 → a = 8; b = 9.
 
 - **Hasil akhir:** **C · 8/9**
 
-- **Tips:** Untuk pecahan dengan dua syarat, set persamaan untuk pembilang & penyebut, lalu eliminasi.
+- **Tips:** Ubah tiap syarat menjadi persamaan, lalu samakan bentuk b-nya.
 
 ---
 
@@ -1500,47 +1368,31 @@ Hasil dari 4 1/2 − 2 1/3 ÷ 1 2/5 + 1 1/6 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 3 5/6
-B. 4 1/30
-C. 4 1/3
-D. 4 1/6
+A. 2 5/7
+B. 4
+C. 2 2/5
+D. 1 2/3
 
-**(3) Jawaban:** **B · 4 1/30**
+**(3) Jawaban:** **B · 4**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi campuran pecahan campuran dengan urutan operasi (bagi dulu, baru tambah-kurang).
+- **Konsep yang diuji:** Urutan operasi pada pecahan campuran (bagi dulu, baru tambah-kurang dari kiri).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 3 5/6** — Salah urutan.
-  - **B. 4 1/30** — Benar.
-  - **C. 4 1/3** — Salah hitung.
-  - **D. 4 1/6** — Salah pembagian.
+  - **A. 2 5/7** — Salah. Dikerjakan dari kiri tanpa mendahulukan bagi: (9/2 − 7/3) ÷ 7/5 + 7/6 = 65/42 + 49/42 = 114/42 = 2 5/7.
+  - **B. 4** — Benar. 7/3 ÷ 7/5 = 5/3; 9/2 − 5/3 + 7/6 = 27/6 − 10/6 + 7/6 = 24/6 = 4.
+  - **C. 2 2/5** — Salah. Pembagi tidak dibalik: 7/3 × 7/5 = 49/15, lalu 9/2 − 49/15 + 7/6 = 72/30 = 2 2/5.
+  - **D. 1 2/3** — Salah. Penjumlahan didahulukan dari pengurangan: 9/2 − (5/3 + 7/6) = 9/2 − 17/6 = 10/6 = 1 2/3.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Ubah ke biasa: 4 1/2 = 9/2; 2 1/3 = 7/3; 1 2/5 = 7/5; 1 1/6 = 7/6.
-  2. Bagi dulu: 7/3 ÷ 7/5 = 7/3 × 5/7 = 5/3.
-  3. Substitusi: 9/2 − 5/3 + 7/6.
-  4. KPK(2, 3, 6) = 6. 9/2 = 27/6; 5/3 = 10/6; 7/6 = 7/6.
-  5. 27/6 − 10/6 + 7/6 = 24/6 = 4.
+  1. Ubah: 9/2; 7/3; 7/5; 7/6.
+  2. Bagi dulu: 7/3 × 5/7 = 5/3.
+  3. 9/2 − 5/3 + 7/6 = 27/6 − 10/6 + 7/6 = 24/6 = 4.
 
-  Hasil 4. Cek pilihan: tidak ada 4 saja. Mari modifikasi: ubah 1 1/6 jadi 1 1/5.
-  - 7/5 hat? 1 1/5 = 6/5.
-  - 9/2 − 5/3 + 6/5. KPK = 30. 9/2 = 135/30; 5/3 = 50/30; 6/5 = 36/30.
-  - 135 − 50 + 36 = 121/30 = 4 1/30. Cocok B.
+- **Hasil akhir:** **B · 4**
 
-  Anggap soal benar: **4 1/2 − 2 1/3 ÷ 1 2/5 + 1 1/5**.
-
-  Revisi langkah:
-  1. Ubah: 4 1/2 = 9/2; 2 1/3 = 7/3; 1 2/5 = 7/5; 1 1/5 = 6/5.
-  2. Bagi dulu: 7/3 ÷ 7/5 = 7/3 × 5/7 = 5/3.
-  3. Substitusi: 9/2 − 5/3 + 6/5.
-  4. KPK(2,3,5) = 30. 9/2 = 135/30; 5/3 = 50/30; 6/5 = 36/30.
-  5. (135 − 50 + 36)/30 = 121/30 = 4 1/30.
-
-- **Hasil akhir:** **B · 4 1/30**
-
-- **Tips:** Urutan operasi tetap: bagi dulu, lalu tambah-kurang dari kiri ke kanan. Samakan penyebut dengan KPK.
+- **Tips:** Bagi dulu, lalu tambah-kurang dari kiri ke kanan.
 
 ---
 
@@ -1706,49 +1558,25 @@ B. 7/9 ; 11/14 ; 3/4 ; 5/7
 C. 7/9 ; 3/4 ; 11/14 ; 5/7
 D. 11/14 ; 3/4 ; 7/9 ; 5/7
 
-**(3) Jawaban:** **B · 7/9 ; 11/14 ; 3/4 ; 5/7**
+**(3) Jawaban:** **A · 11/14 ; 7/9 ; 3/4 ; 5/7**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Mengurutkan pecahan yang nilainya berdekatan (semua dekat 0,75).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A.** Salah; 11/14 ≈ 0,7857 < 7/9 ≈ 0,7778? Cek: 11/14 = 0,7857; 7/9 = 0,7778. 7/9 < 11/14. Maka A salah karena urutan 11/14 lebih besar dari 7/9? Hmm.
-
-  Hitung ulang:
-  - 3/4 = 0,7500.
-  - 5/7 = 0,7143.
-  - 7/9 = 0,7778.
-  - 11/14 ≈ 0,7857.
-
-  Terbesar ke terkecil: 11/14 (0,7857) > 7/9 (0,7778) > 3/4 (0,75) > 5/7 (0,7143).
-
-  Jadi A = 11/14 ; 7/9 ; 3/4 ; 5/7 — sebenarnya benar.
-
-  Mari periksa: A. **11/14 ; 7/9 ; 3/4 ; 5/7** ↔ 0,7857; 0,7778; 0,7500; 0,7143. Menurun benar.
-
-  Jawaban yang benar adalah A.
-
-  Revisi jawaban: **A · 11/14 ; 7/9 ; 3/4 ; 5/7**.
-
-- **Analisis Setiap Pilihan Jawaban (revisi):**
-  - **A. 11/14 ; 7/9 ; 3/4 ; 5/7** — Benar.
-  - **B. 7/9 ; 11/14 ; 3/4 ; 5/7** — Salah; 11/14 > 7/9.
-  - **C. 7/9 ; 3/4 ; 11/14 ; 5/7** — Salah urutan.
-  - **D. 11/14 ; 3/4 ; 7/9 ; 5/7** — Salah; 7/9 > 3/4.
+  - **A. 11/14 ; 7/9 ; 3/4 ; 5/7** — Benar. 11/14 ≈ 0,7857 > 7/9 ≈ 0,7778 > 3/4 = 0,75 > 5/7 ≈ 0,7143.
+  - **B. 7/9 ; 11/14 ; 3/4 ; 5/7** — Salah. Mengira 7/9 lebih besar karena penyebutnya lebih kecil; padahal 11/14 ≈ 0,7857 > 0,7778.
+  - **C. 7/9 ; 3/4 ; 11/14 ; 5/7** — Salah. Mengurutkan berdasarkan besar penyebut (9, 4, 14, 7 tanpa pola yang benar) atau menebak; 11/14 justru yang terbesar.
+  - **D. 11/14 ; 3/4 ; 7/9 ; 5/7** — Salah. 3/4 ditempatkan di atas 7/9, padahal 3/4 = 0,75 < 0,7778.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Konversi ke desimal:
-     - 3/4 = 0,7500.
-     - 5/7 ≈ 0,7143.
-     - 7/9 ≈ 0,7778.
-     - 11/14 ≈ 0,7857.
+  1. Ubah ke desimal: 3/4 = 0,7500; 5/7 ≈ 0,7143; 7/9 ≈ 0,7778; 11/14 ≈ 0,7857.
   2. Urutkan menurun: 0,7857 > 0,7778 > 0,7500 > 0,7143.
-  3. Bentuk asli: 11/14 ; 7/9 ; 3/4 ; 5/7.
 
 - **Hasil akhir:** **A · 11/14 ; 7/9 ; 3/4 ; 5/7**
 
-- **Tips:** Konversi ke desimal 4 tempat untuk pecahan yang nilainya berdekatan. Atau pakai perkalian silang pasangan.
+- **Tips:** Untuk pecahan yang berdekatan, pakai desimal 4 angka atau perkalian silang berpasangan.
 
 ---
 
@@ -1907,43 +1735,29 @@ Sebuah perpustakaan memiliki 1.500 buku. 24% adalah buku fiksi, 36% adalah buku 
 
 A. 180 buku
 B. 240 buku
-C. 300 buku
+C. 600 buku
 D. 540 buku
 
-**(3) Jawaban:** **C · 300 buku**
+**(3) Jawaban:** **B · 240 buku**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Persen sebagai bagian dengan sisa + selisih.
+- **Konsep yang diuji:** Persen sebagai bagian, sisa persen, lalu selisih.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 180 buku** — Salah.
-  - **B. 240 buku** — Selisih pelajaran dan fiksi.
-  - **C. 300 buku** — Benar.
-  - **D. 540 buku** — Banyak pelajaran.
+  - **A. 180 buku** — Salah. Itu selisih buku pelajaran dan fiksi (540 − 360).
+  - **B. 240 buku** — Benar. Non-fiksi lain = 100% − 24% − 36% = 40% → 600 buku. Fiksi = 360 buku. Selisih = 240.
+  - **C. 600 buku** — Salah. Itu banyak non-fiksi lain; belum dikurangi fiksi.
+  - **D. 540 buku** — Salah. Itu banyak buku pelajaran.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Fiksi = 24% × 1.500 = 360 buku.
-  2. Pelajaran = 36% × 1.500 = 540 buku.
-  3. Persen non-fiksi lain = 100% − 24% − 36% = 40%.
-  4. Non-fiksi lain = 40% × 1.500 = 600 buku.
-  5. Selisih non-fiksi lain − fiksi = 600 − 360 = 240.
+  1. Fiksi = 24% × 1.500 = 360.
+  2. Non-fiksi lain = 40% × 1.500 = 600.
+  3. Selisih = 600 − 360 = 240. (Cara cepat: (40% − 24%) × 1.500 = 240.)
 
-  Hmm hasil 240 = B. Mari ubah angka agar match C = 300:
-  - Total 1.500, fiksi 20%, pelajaran 40%, sisa 40% = 600. Selisih 600 − 300 = 300.
-  - Total 1.500, fiksi 20% = 300; pelajaran 40% = 600; sisa 40% = 600. Selisih = 600 − 300 = 300 ✓.
+- **Hasil akhir:** **B · 240 buku**
 
-  Anggap soal: **1.500 buku, 20% fiksi, 40% pelajaran, sisa non-fiksi lain. Selisih non-fiksi lain dengan fiksi.**
-
-  Revisi:
-  1. Fiksi = 20% × 1.500 = 300.
-  2. Pelajaran = 40% × 1.500 = 600.
-  3. Non-fiksi lain = 40% × 1.500 = 600.
-  4. Selisih |600 − 300| = 300.
-
-- **Hasil akhir:** **C · 300 buku**
-
-- **Tips:** Saat sisa persen sama dengan persen yang lain (40% & 40%), hasil non-fiksi lain = banyak pelajaran. Selisih = non-fiksi − fiksi.
+- **Tips:** Selisih dua bagian bisa dihitung langsung dari selisih persennya.
 
 ---
 
@@ -1954,86 +1768,31 @@ Hasil dari 5/6 ÷ 2/3 + 1/4 × 8/9 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 1 5/18
-B. 1 19/36
-C. 1 25/36
-D. 1 17/18
+A. 7/9
+B. 1 17/36
+C. 1 1/3
+D. 1 1/4
 
-**(3) Jawaban:** **C · 1 25/36**
+**(3) Jawaban:** **B · 1 17/36**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi campuran pecahan biasa (bagi & kali dulu, baru tambah).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1 5/18** — Salah hitung bagian pembagian.
-  - **B. 1 19/36** — Salah penyederhanaan.
-  - **C. 1 25/36** — Benar.
-  - **D. 1 17/18** — Salah hitung.
+  - **A. 7/9** — Salah. Pembagi tidak dibalik: 5/6 × 2/3 = 5/9, lalu 5/9 + 2/9 = 7/9.
+  - **B. 1 17/36** — Benar. 5/6 ÷ 2/3 = 5/4; 1/4 × 8/9 = 2/9; 5/4 + 2/9 = 45/36 + 8/36 = 53/36 = 1 17/36.
+  - **C. 1 1/3** — Salah. Dikerjakan dari kiri: (5/4 + 1/4) × 8/9 = 3/2 × 8/9 = 4/3, padahal kali harus didahulukan dari tambah.
+  - **D. 1 1/4** — Salah. Hanya bagian pembagian (5/4); suku 1/4 × 8/9 terlupa.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Bagi dulu: 5/6 ÷ 2/3 = 5/6 × 3/2 = 15/12 = 5/4.
-  2. Kali: 1/4 × 8/9 = 8/36 = 2/9.
-  3. Tambah: 5/4 + 2/9. KPK(4,9) = 36. 5/4 = 45/36; 2/9 = 8/36. Total = 53/36.
-  4. Ubah ke campuran: 53/36 = 1 17/36.
-
-  Cek pilihan: A=1 5/18 = 1 10/36; B=1 19/36; C=1 25/36; D=1 17/18 = 1 34/36.
-
-  Hasil 1 17/36 tidak match. Mari modifikasi: ubah 5/6 jadi 7/6.
-  - 7/6 ÷ 2/3 = 7/6 × 3/2 = 21/12 = 7/4.
-  - 1/4 × 8/9 = 2/9.
-  - 7/4 + 2/9. KPK = 36. 7/4 = 63/36; 2/9 = 8/36. Total = 71/36 = 1 35/36.
-
-  Tidak match. Coba 5/6 ÷ 2/3 + 1/4 × 4/9:
-  - 5/4 + 1/9 = 45/36 + 4/36 = 49/36 = 1 13/36. Tidak match.
-
-  Coba 5/6 ÷ 2/3 + 5/12 × 8/9:
-  - 5/4 + 40/108 = 5/4 + 10/27. KPK(4,27)=108. 5/4 = 135/108; 10/27 = 40/108. Total = 175/108 — bukan bilangan rapi.
-
-  Coba 7/9 ÷ 2/3 + 1/4 × 8/9:
-  - 7/9 × 3/2 = 21/18 = 7/6.
-  - 7/6 + 2/9. KPK=18. 7/6 = 21/18; 2/9 = 4/18. Total = 25/18 = 1 7/18.
-
-  Bukan match.
-
-  Coba 5/6 ÷ 2/9 + 1/4 × 8/9:
-  - 5/6 × 9/2 = 45/12 = 15/4.
-  - 1/4 × 8/9 = 2/9.
-  - 15/4 + 2/9. KPK=36. 15/4=135/36; 2/9=8/36. Total = 143/36 = 3 35/36.
-
-  Ubah pilihan jadi 1 17/36 dan jawaban C:
-
-  **Pilihan revisi:** A. 1 5/18  B. 1 17/36  C. 1 25/36  D. 1 17/18
-
-  Aku akan keep angka asli soal dan ubah jawaban + pilihan B menjadi 1 17/36, jawaban benar B.
-
-  Anggap soal asli: 5/6 ÷ 2/3 + 1/4 × 8/9.
-  Hasil: 1 17/36.
-  Jawaban benar: B · 1 17/36.
-
-  Revisi pilihan:
-  A. 1 5/18
-  B. 1 17/36
-  C. 1 25/36
-  D. 1 17/18
-
-  Jawaban: **B · 1 17/36**.
-
-- **Analisis Setiap Pilihan Jawaban (final):**
-  - **A. 1 5/18** — Lupa kali dengan 4 di pembagian.
-  - **B. 1 17/36** — Benar.
-  - **C. 1 25/36** — Salah penyederhanaan.
-  - **D. 1 17/18** — Salah hitung total.
-
-- **Langkah Penyelesaian (cara benar):**
-  1. Bagi: 5/6 ÷ 2/3 = 5/6 × 3/2 = 15/12 = 5/4.
-  2. Kali: 1/4 × 8/9 = 8/36 = 2/9.
-  3. Tambah: 5/4 + 2/9. KPK(4,9) = 36. 5/4 = 45/36; 2/9 = 8/36.
-  4. Total = 53/36 = 1 17/36.
+  1. Bagi: 5/6 × 3/2 = 15/12 = 5/4.
+  2. Kali: 1/4 × 8/9 = 2/9.
+  3. Tambah: 45/36 + 8/36 = 53/36 = 1 17/36.
 
 - **Hasil akhir:** **B · 1 17/36**
 
-- **Tips:** Urutan operasi: bagi & kali dulu, baru tambah. KPK adalah trik samakan penyebut.
+- **Tips:** Bagi dan kali dulu (dari kiri), baru tambah.
 
 ---
 
@@ -2910,52 +2669,35 @@ D. 141 kantong
 ### Soal 69 · MTK-02 · Soal Cerita Persen Aplikatif · Nasional
 
 **(1) Soal:**
-Dalam suatu pertandingan, sebuah tim memenangkan 60% dari 25 pertandingan pertama. Lalu mereka memenangkan 75% dari 16 pertandingan berikutnya. Persen kemenangan total tim tersebut adalah …
+Dalam suatu pertandingan, sebuah tim memenangkan 60% dari 25 pertandingan pertama. Lalu mereka memenangkan 75% dari 16 pertandingan berikutnya. Persen kemenangan total tim tersebut adalah … (dibulatkan dua angka di belakang koma)
 
 **(2) Pilihan Jawaban:**
 
-A. 64%
+A. 60%
 B. 65,85%
-C. 66,67%
+C. 27%
 D. 67,5%
 
-**(3) Jawaban:** **C · 66,67%**
+**(3) Jawaban:** **B · 65,85%**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Persen total dari dua sub-grup dengan jumlah berbeda; rata-rata berbobot.
+- **Konsep yang diuji:** Persen total dari dua kelompok berukuran berbeda (rata-rata berbobot).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 64%** — Rata-rata sederhana (60+75)/2 = 67,5%. Bukan ini.
-  - **B. 65,85%** — Salah hitung.
-  - **C. 66,67%** — Benar.
-  - **D. 67,5%** — Rata-rata sederhana (salah).
+  - **A. 60%** — Salah. Hanya persen kelompok pertama; 16 pertandingan berikutnya terlupa.
+  - **B. 65,85%** — Benar. Menang 60% × 25 = 15 dan 75% × 16 = 12 → 27 dari 41. 27/41 × 100% ≈ 65,85%.
+  - **C. 27%** — Salah. Banyak kemenangan (27) ditulis sebagai persen, belum dibagi total pertandingan.
+  - **D. 67,5%** — Salah. Rata-rata sederhana (60% + 75%) : 2, padahal banyak pertandingan tiap kelompok berbeda.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Menang dari 25 pertandingan: 60% × 25 = 15.
-  2. Menang dari 16 pertandingan: 75% × 16 = 12.
-  3. Total menang = 27.
-  4. Total pertandingan = 25 + 16 = 41.
-  5. Persen kemenangan total = 27/41 × 100% ≈ 65,85%.
+  1. 60% × 25 = 15; 75% × 16 = 12. Total menang = 27.
+  2. Total pertandingan = 41.
+  3. 27/41 × 100% ≈ 65,85%.
 
-  Hmm hasil 65,85% = B. Mari koreksi: anggap jawaban B.
+- **Hasil akhir:** **B · 65,85%**
 
-  Revisi jawaban: **B · 65,85%**.
-
-  Tapi tetap mau kita ambil 66,67% untuk pas. Coba: menang 60% × 25 = 15; menang 75% × 20 = 15. Total = 30. Total tanding = 45. Persen = 30/45 = 66,67%.
-
-  Ubah soal: "60% dari 25 pertandingan, 75% dari 20 pertandingan berikutnya."
-
-  Anggap soal: **60% dari 25 pertandingan pertama, 75% dari 20 pertandingan berikutnya. Persen total?**
-
-  Langkah:
-  1. 60% × 25 = 15. 75% × 20 = 15. Total menang = 30.
-  2. Total tanding = 45.
-  3. Persen total = 30/45 = 2/3 ≈ 66,67%.
-
-- **Hasil akhir:** **C · 66,67%**
-
-- **Tips:** Persen rata-rata = total bagian / total keseluruhan. BUKAN rata-rata sederhana persen.
+- **Tips:** Persen gabungan = total bagian ÷ total keseluruhan, bukan rata-rata persen.
 
 ---
 
@@ -3177,49 +2919,31 @@ Ibu membeli 5 kg buah. 1/5 dari berat buah adalah jeruk, 2/5 adalah apel, 1/4 da
 **(2) Pilihan Jawaban:**
 
 A. 1 1/2 kg
-B. 1 3/4 kg
-C. 2 1/4 kg
-D. 2 1/2 kg
+B. 3/4 kg
+C. 2 kg
+D. 1/2 kg
 
-**(3) Jawaban:** **B · 1 3/4 kg**
+**(3) Jawaban:** **A · 1 1/2 kg**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Pecahan bagian dari total + bagian dari sisa.
+- **Konsep yang diuji:** Pecahan dari total dan pecahan dari sisa.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1 1/2 kg** — Salah faktor.
-  - **B. 1 3/4 kg** — Benar.
-  - **C. 2 1/4 kg** — Salah hitung.
-  - **D. 2 1/2 kg** — Salah hitung.
+  - **A. 1 1/2 kg** — Benar. Jeruk 1 kg, apel 2 kg, sisa 2 kg. Pir = 1/4 × 2 = 1/2 kg. Mangga = 2 − 1/2 = 1 1/2 kg.
+  - **B. 3/4 kg** — Salah. Pir dihitung 1/4 dari total (1 1/4 kg), padahal soal menyebut 1/4 dari sisa.
+  - **C. 2 kg** — Salah. Pir terlupa; seluruh sisa dianggap mangga.
+  - **D. 1/2 kg** — Salah. Itu berat pir, bukan mangga.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Jeruk = 1/5 × 5 = 1 kg. Apel = 2/5 × 5 = 2 kg.
-  2. Sisa setelah jeruk & apel = 5 − 1 − 2 = 2 kg.
+  1. Jeruk = 1 kg; apel = 2 kg.
+  2. Sisa = 5 − 3 = 2 kg.
   3. Pir = 1/4 × 2 = 1/2 kg.
-  4. Mangga = sisa − pir = 2 − 1/2 = 1 1/2 kg.
+  4. Mangga = 2 − 1/2 = 1 1/2 kg.
 
-  Hmm hasil 1 1/2 kg = A. Tapi pertanyaan ditujukan untuk match B = 1 3/4. Mari modifikasi: ubah 1/4 menjadi 1/8.
-  - Pir = 1/8 × 2 = 1/4 kg.
-  - Mangga = 2 − 1/4 = 1 3/4 kg = B.
+- **Hasil akhir:** **A · 1 1/2 kg**
 
-  Anggap soal: **1/8 dari sisa pir, sisanya mangga**.
-
-  Atau jika 1/4 dari total, bukan dari sisa:
-  - Pir = 1/4 × 5 = 1,25 kg.
-  - Total ambil = 1 + 2 + 1,25 = 4,25. Mangga = 0,75 kg. Bukan match.
-
-  Final: anggap pir = 1/8 dari sisa. Jawaban B = 1 3/4 kg.
-
-  Revisi langkah:
-  1. Jeruk = 1/5 × 5 = 1 kg. Apel = 2/5 × 5 = 2 kg.
-  2. Sisa = 5 − 1 − 2 = 2 kg.
-  3. Pir = 1/8 × 2 = 1/4 kg.
-  4. Mangga = 2 − 1/4 = 7/4 = 1 3/4 kg.
-
-- **Hasil akhir:** **B · 1 3/4 kg**
-
-- **Tips:** "Dari sisa" mengubah basis perhitungan. Hitung sisa dulu, lalu pakai pecahan terhadap sisa.
+- **Tips:** "Dari sisa" mengubah dasar perhitungan; hitung sisanya dulu.
 
 ---
 
@@ -3517,53 +3241,31 @@ Hasil dari [(3/4) × (2/5)] + [(1/2) ÷ (3/4)] adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 11/12
-B. 5/6
-C. 13/15
-D. 17/18
+A. 29/30
+B. 27/40
+C. 3/10
+D. 2/3
 
-**(3) Jawaban:** **A · 11/12**
+**(3) Jawaban:** **A · 29/30**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Dua sub-ekspresi pecahan (kali & bagi) lalu jumlahkan.
+- **Konsep yang diuji:** Dua sub-ekspresi pecahan (kali & bagi) lalu dijumlahkan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 11/12** — Benar.
-  - **B. 5/6** — Salah hitung.
-  - **C. 13/15** — Salah pembagian.
-  - **D. 17/18** — Salah hitung.
+  - **A. 29/30** — Benar. 3/4 × 2/5 = 3/10; 1/2 ÷ 3/4 = 2/3; 3/10 + 2/3 = 9/30 + 20/30 = 29/30.
+  - **B. 27/40** — Salah. Pembagi tidak dibalik: 1/2 × 3/4 = 3/8, lalu 3/10 + 3/8 = 27/40.
+  - **C. 3/10** — Salah. Hanya kurung pertama.
+  - **D. 2/3** — Salah. Hanya kurung kedua.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Kurung pertama: (3/4) × (2/5) = 6/20 = 3/10.
-  2. Kurung kedua: (1/2) ÷ (3/4) = (1/2) × (4/3) = 4/6 = 2/3.
-  3. Tambah: 3/10 + 2/3. KPK(10,3) = 30. 3/10 = 9/30; 2/3 = 20/30.
-  4. Total = 29/30.
+  1. Kurung pertama: 6/20 = 3/10.
+  2. Kurung kedua: 1/2 × 4/3 = 2/3.
+  3. 3/10 + 2/3 = 29/30.
 
-  Hmm 29/30 tidak match A. Pilihan A = 11/12.
+- **Hasil akhir:** **A · 29/30**
 
-  Coba: 1/2 ÷ 3/4 = 4/6 = 2/3 = 20/30. 3/10 = 9/30. Total = 29/30. Bukan match.
-
-  Mari modifikasi: kurung kedua (1/2) ÷ (3/8).
-  - 1/2 × 8/3 = 8/6 = 4/3.
-  - Kurung pertama = 3/10.
-  - Total = 3/10 + 4/3 = 9/30 + 40/30 = 49/30. Bukan.
-
-  Coba kurung pertama (3/4) × (2/3) = 6/12 = 1/2.
-  - 1/2 + 2/3 = 3/6 + 4/6 = 7/6. Bukan match A = 11/12.
-
-  Coba: (3/4) × (1/3) + (1/2) ÷ (3/4) = 1/4 + 2/3 = 3/12 + 8/12 = 11/12 = A ✓.
-
-  Anggap soal: **[(3/4) × (1/3)] + [(1/2) ÷ (3/4)]**.
-
-  Revisi langkah:
-  1. Kurung pertama: 3/4 × 1/3 = 3/12 = 1/4.
-  2. Kurung kedua: 1/2 ÷ 3/4 = 1/2 × 4/3 = 4/6 = 2/3.
-  3. Tambah: 1/4 + 2/3 = 3/12 + 8/12 = 11/12.
-
-- **Hasil akhir:** **A · 11/12**
-
-- **Tips:** Kerjakan tiap kurung secara independen, lalu jumlahkan/operasikan hasilnya.
+- **Tips:** Kerjakan tiap kurung sendiri, lalu operasikan hasilnya.
 
 ---
 
@@ -3684,46 +3386,31 @@ Pecahan 18/45 jika disederhanakan dan kemudian penyebutnya ditambah 7 menjadi se
 
 **(2) Pilihan Jawaban:**
 
-A. 1/4
-B. 2/7
-C. 2/9
-D. 1/3
+A. 9/26
+B. 9/5
+C. 2/5
+D. 1/6
 
-**(3) Jawaban:** **D · 1/3**
+**(3) Jawaban:** **D · 1/6**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Menyederhanakan + modifikasi penyebut.
+- **Konsep yang diuji:** Menyederhanakan pecahan lalu mengubah penyebut.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1/4** — Salah.
-  - **B. 2/7** — Salah.
-  - **C. 2/9** — Sederhana 18/45 (tanpa modifikasi).
-  - **D. 1/3** — Benar.
+  - **A. 9/26** — Salah. 7 ditambahkan ke penyebut asli (45 + 7 = 52) sebelum disederhanakan: 18/52 = 9/26. Urutan langkah di soal terbalik.
+  - **B. 9/5** — Salah. 7 ditambahkan ke pembilang (2 + 7), bukan penyebut.
+  - **C. 2/5** — Salah. Itu bentuk sederhana 18/45; penambahan 7 terlupa.
+  - **D. 1/6** — Benar. 18/45 = 2/5 (bagi 9). Penyebut + 7 → 2/12 = 1/6.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Sederhanakan 18/45: FPB = 9 → 2/5.
-  2. Penyebut + 7: 5 + 7 = 12. Bentuk baru = 2/12 = 1/6.
+  1. FPB(18, 45) = 9 → 2/5.
+  2. Penyebut ditambah 7: 2/12.
+  3. Sederhanakan: 1/6.
 
-  Hasil 1/6 tidak ada di pilihan. Mari koreksi:
+- **Hasil akhir:** **D · 1/6**
 
-  Coba 2/12 = 1/6 → tidak match.
-
-  Modifikasi: jika pembilang ditambah 1 saja → 3/12 = 1/4 = A.
-
-  Atau soal: pecahan 18/45 → sederhana 2/5 → pembilang × 2 = 4, penyebut × 2 = 10 → 4/10 = 2/5 (senilai).
-
-  Coba: penyebut + 1: 2/6 = 1/3 = D.
-
-  Anggap soal: **Pecahan 18/45 jika disederhanakan dan kemudian penyebutnya ditambah 1 menjadi senilai dengan pecahan …**
-
-  Re-langkah:
-  1. 18/45 = 2/5 (sederhana).
-  2. Penyebut + 1 → 2/6 = 1/3.
-
-- **Hasil akhir:** **D · 1/3**
-
-- **Tips:** Sederhanakan dulu sebelum modifikasi penyebut.
+- **Tips:** Ikuti urutan langkah di soal: sederhanakan dulu, baru ubah penyebut.
 
 ---
 
@@ -4113,73 +3800,36 @@ D. 2
 ### Soal 100 · MTK-02 · Soal Cerita Persen Aplikatif · Nasional
 
 **(1) Soal:**
-Sebuah toko awalnya menjual barang dengan harga Rp 200.000 (sudah termasuk untung 25% dari harga beli). Toko memberi diskon 10% pada harga ini. Pajak PPN 11% kemudian dikenakan pada harga setelah diskon. Berapa persen total keuntungan/kerugian akhirnya terhadap harga beli?
+Sebuah toko awalnya menjual barang dengan harga Rp 200.000 (sudah termasuk untung 25% dari harga beli). Toko memberi diskon 10% pada harga ini. Pembeli juga membayar PPN 11% dari harga setelah diskon, dan PPN itu disetor toko ke negara. Berapa persen keuntungan toko terhadap harga beli?
 
 **(2) Pilihan Jawaban:**
 
-A. Untung 11,5%
-B. Untung 12,15%
-C. Untung 13%
-D. Rugi 1%
+A. Untung 10%
+B. Untung 12,5%
+C. Untung 24,875%
+D. Untung 15%
 
-**(3) Jawaban:** **B · Untung 12,15%**
+**(3) Jawaban:** **B · Untung 12,5%**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Soal cerita kombinasi paling kompleks — untung dasar + diskon + PPN, cari persen untung total terhadap harga beli.
+- **Konsep yang diuji:** Untung dasar + diskon + PPN; persen untung dihitung dari harga beli dan uang yang benar-benar diterima toko.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Untung 11,5%** — Pembulatan tidak akurat.
-  - **B. Untung 12,15%** — Benar.
-  - **C. Untung 13%** — Pembulatan ke atas.
-  - **D. Rugi 1%** — Salah arah.
+  - **A. Untung 10%** — Salah. Untung 20.000 dibagi harga jual 200.000; persen untung harus dibagi harga beli.
+  - **B. Untung 12,5%** — Benar. Harga beli = 200.000 ÷ 1,25 = 160.000. Setelah diskon toko menerima 180.000 (PPN diteruskan ke negara). Untung = 20.000 → 20.000/160.000 = 12,5%.
+  - **C. Untung 24,875%** — Salah. PPN ikut dianggap pendapatan toko: 199.800 − 160.000 = 39.800 → 24,875%.
+  - **D. Untung 15%** — Salah. Persen dikurangkan langsung (25% − 10%); diskon 10% dihitung dari harga jual, bukan dari harga beli.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Harga beli: harga jual awal = beli × 1,25 = 200.000, jadi beli = 160.000.
-  2. Setelah diskon 10%: 200.000 × 0,90 = 180.000.
-  3. Setelah PPN 11%: 180.000 × 1,11 = 199.800.
-
-  Catatan: PPN biasanya dibayar pembeli ke pemerintah, bukan masuk ke toko. Jika diasumsikan harga akhir yang diterima toko = setelah diskon (180.000) saja, untung = 180.000 − 160.000 = 20.000; persen = 20.000/160.000 = 12,5%.
-
-  Tapi jika sudut pandang pembeli (total yang dibayar 199.800):
-  - Toko terima 180.000 (PPN ke negara).
-  - Untung toko = 20.000. Persen untung = 12,5%.
-
-  Persen 12,5% ≈ 12,5%. Pilihan paling dekat: B = 12,15% bukan persis. Mari hitung jika PPN masuk:
-  - Harga total yang dibayar pembeli = 199.800. Toko terima setelah setor PPN = 180.000.
-  - Persen untung = 20.000/160.000 = 12,5%.
-
-  Jika ditanya total untung toko = 12,5%. Tidak ada pilihan 12,5%. Pilihan B = 12,15%.
-
-  Modifikasi soal supaya cocok B = 12,15%:
-  - Beli = 160.000. Jual awal = 200.000 (untung 25%).
-  - Diskon 10% → 180.000.
-  - Lebih cocok jika ada cashback 1% diberikan ke pembeli, total terima toko = 180.000 × 0,99 = 178.200.
-  - Untung = 178.200 − 160.000 = 18.200. Persen = 18.200/160.000 = 11,375%. Bukan B juga.
-
-  Atau diskon 5% bukan 10%: 200.000 × 0,95 = 190.000. Untung = 30.000. Persen = 30.000/160.000 = 18,75%. Bukan.
-
-  Modifikasi: beli = 178.500. Jual setelah diskon 10% dari 200.000 = 180.000. Untung = 180.000 − 178.500 = 1.500. Persen = 1.500/178.500 ≈ 0,84%. Bukan.
-
-  Final keep: jawaban B = 12,15% bisa dijustifikasi dengan asumsi PPN sebagian masuk toko (skema khusus). Mari pertahankan asumsi sederhana dan ubah pilihan B menjadi 12,5%.
-
-  **Pilihan final:**
-  A. Untung 11,5%
-  B. Untung 12,5%
-  C. Untung 13%
-  D. Rugi 1%
-
-  Jawaban: **B · Untung 12,5%**.
-
-  Revisi langkah:
-  1. Harga beli: 200.000 = beli × 1,25 → beli = 160.000.
-  2. Setelah diskon 10%: 200.000 × 0,90 = 180.000. (PPN dibayar pembeli ke negara, tidak masuk ke kas toko.)
-  3. Untung toko = 180.000 − 160.000 = 20.000.
-  4. Persen untung = 20.000 / 160.000 × 100% = 12,5%.
+  1. Harga beli = 200.000 ÷ 1,25 = 160.000.
+  2. Setelah diskon: 200.000 × 0,90 = 180.000 (yang diterima toko).
+  3. Untung = 180.000 − 160.000 = 20.000.
+  4. Persen untung = 20.000 ÷ 160.000 × 100% = 12,5%.
 
 - **Hasil akhir:** **B · Untung 12,5%**
 
-- **Tips:** PPN biasanya untuk pembeli ke negara, bukan masuk ke toko. Fokus pada uang yang DITERIMA toko untuk hitung untung-rugi.
+- **Tips:** PPN dibayar pembeli untuk negara, jadi tidak menambah untung toko. Persen untung selalu terhadap harga beli.
 
 ---
 
@@ -4233,7 +3883,7 @@ D. Rugi 1%
 | 40  | B       | Soal Cerita Pecahan                    | Nasional |
 | 41  | A       | Pecahan Senilai & Menyederhanakan      | Nasional |
 | 42  | C       | Mencari Bilangan Asal dari Persen      | Nasional |
-| 43  | C       | Persen sebagai Bagian                  | Nasional |
+| 43  | B       | Persen sebagai Bagian                  | Nasional |
 | 44  | B       | Operasi Pecahan Biasa                  | Nasional |
 | 45  | B       | Konversi Bentuk                        | Nasional |
 | 46  | B       | Pembulatan Desimal                     | Nasional |
@@ -4241,7 +3891,7 @@ D. Rugi 1%
 | 48  | C       | Soal Cerita Pecahan                    | Nasional |
 | 49  | C       | Operasi Desimal                        | Nasional |
 | 50  | B       | Persen sebagai Bagian                  | Nasional |
-| 51  | A       | Membandingkan & Mengurutkan Pecahan    | Nasional |
+| 51  | B       | Membandingkan & Mengurutkan Pecahan    | Nasional |
 | 52  | B       | Operasi Pecahan Biasa                  | Nasional |
 | 53  | B       | Soal Cerita Persen Aplikatif           | Nasional |
 | 54  | B       | Konversi Bentuk                        | Nasional |
@@ -4259,14 +3909,14 @@ D. Rugi 1%
 | 66  | B       | Pecahan Campuran                       | Nasional |
 | 67  | B       | Pecahan Senilai & Menyederhanakan      | Nasional |
 | 68  | A       | Pembulatan Desimal                     | Nasional |
-| 69  | C       | Soal Cerita Persen Aplikatif           | Nasional |
+| 69  | B       | Soal Cerita Persen Aplikatif           | Nasional |
 | 70  | B       | Operasi Pecahan Biasa                  | Nasional |
 | 71  | B       | Operasi Desimal                        | Nasional |
 | 72  | B       | Mencari Bilangan Asal dari Persen      | Nasional |
 | 73  | C       | Konversi Bentuk                        | Nasional |
 | 74  | A       | Pecahan Campuran                       | Nasional |
 | 75  | C       | Persen sebagai Bagian                  | Nasional |
-| 76  | B       | Soal Cerita Pecahan                    | Nasional |
+| 76  | A       | Soal Cerita Pecahan                    | Nasional |
 | 77  | D       | Operasi Pecahan Biasa                  | Nasional |
 | 78  | A       | Membandingkan & Mengurutkan Pecahan    | Nasional |
 | 79  | A       | Soal Cerita Persen Aplikatif           | Nasional |

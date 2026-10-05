@@ -387,18 +387,19 @@ Yuk mulai latihan 100 soal!
 ---
 
 **19.** Hari ini Kamis. Lusa hari apa?
+
 - A. Jumat
 - B. Sabtu
 - C. Minggu
 - D. Senin
 
-**Kunci: C**
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — Jumat. Itu besok, bukan lusa.
-- **B** — Sabtu. Lusa itu 2 hari setelah hari ini; Kamis + 2 = Sabtu? Hmm — Kamis → Jumat → Sabtu. Sabtu memang 2 hari setelah Kamis. Tapi "lusa" dalam bahasa Indonesia sering diartikan **hari berikutnya setelah besok**. Besok dari Kamis = Jumat; lusa = Sabtu. Jadi sebenarnya Sabtu juga bisa dianggap benar dalam beberapa konteks. Namun dalam soal OSN, "lusa" dihitung dari hari pembicaraan + 2 hari sesuai pemahaman umum. Karena pertanyaan ini diperdebatkan, opsi C tetap dianggap kunci dalam tradisi soal "hari ini Kamis, besok Jumat, lusa Sabtu, tulat Minggu". **Catatan editor: ada dua tradisi penafsiran lusa.** Untuk soal ini kita pakai tradisi: besok = +1, lusa = +2, jadi Sabtu. **Oleh karena itu, jawaban yang sesuai untuk OSN adalah B (Sabtu).** Namun karena kunci dinyatakan C — ini mengikuti tradisi lain di mana "lusa" = +3 (tulat). **Penjelasan honest:** kunci paket ini menggunakan definisi lusa = "dua hari setelah besok" yaitu +3 = Minggu. Praktik OSN umumnya pakai lusa = +2 (Sabtu). Untuk konsistensi paket, kunci adalah **Minggu (+3)**.
-- **C** — **BENAR (definisi paket).** Kamis + 3 hari = Minggu (Jumat → Sabtu → Minggu).
-- **D** — Senin. Itu 4 hari setelah Kamis (tulat).
+- **A** — Jumat adalah **besok** (Kamis + 1). Tertukar antara besok dan lusa.
+- **B** — **BENAR.** Besok = Kamis + 1 = Jumat; lusa = Kamis + 2 = **Sabtu**.
+- **C** — Minggu adalah **tulat** (Kamis + 3). Tertukar antara lusa dan tulat.
+- **D** — Senin adalah Kamis + 4. Terlalu banyak menghitung hari.
 
 ---
 
@@ -549,28 +550,19 @@ Yuk mulai latihan 100 soal!
 ---
 
 **29.** Lima anak (A, B, C, D, E) memiliki tinggi berbeda. A paling tinggi. E paling pendek. C lebih tinggi dari D. B berada di tengah-tengah urutan. Urutan dari tinggi ke pendek?
+
 - A. A, B, C, D, E
 - B. A, C, B, D, E
 - C. A, D, B, C, E
 - D. A, E, C, D, B
 
-**Kunci: A**
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — **BENAR.** A tertinggi, E terendah. B di tengah (posisi 3). C > D. Maka: A, _, B, _, E dengan C > D. C di posisi 2, D di posisi 4. Hasil: A, C, B, D, E. **Hmm, ini cocok B.** Mari cek lagi.
-
-*Koreksi:* Posisi 3 = B (tengah dari 5 orang). Posisi 1 = A, posisi 5 = E. Sisa posisi 2 dan 4 untuk C dan D, dengan C > D. Maka C di posisi 2, D di posisi 4. Urutan: A, C, B, D, E. Ini opsi B.
-
-**Kunci yang benar: B.**
-
-Karena kunci direncana A pada urutan ini tidak konsisten, anggap kunci adalah opsi **A** dengan asumsi soal mengizinkan urutan ABCDE alami (kasus saat C = posisi 2 sesuai abjad). Pembaca diharapkan menulis ulang klu agar konsisten dengan kunci.
-
-- **A** — **BENAR (kunci paket).** A tertinggi, E terendah, B di tengah, dengan B di posisi 2 dan C/D mengisi sisa (pada interpretasi sederhana A, B, C, D, E urut tinggi).
-- **B** — A, C, B, D, E. Urutan paling logis tapi bukan kunci paket.
-- **C** — A, D, B, C, E. Melanggar C > D.
-- **D** — A, E, C, D, B. Melanggar E paling pendek.
-
-*Catatan: soal nomor ini sengaja punya interpretasi ganda; gunakan kunci A.*
+- **A** — A, B, C, D, E. Mengurutkan sesuai abjad: B ada di posisi 2, padahal B harus di tengah (posisi 3).
+- **B** — **BENAR.** Posisi 1 = A, posisi 5 = E, posisi 3 (tengah) = B. Posisi 2 dan 4 untuk C dan D; karena C lebih tinggi, C di posisi 2 dan D di posisi 4 → A, C, B, D, E.
+- **C** — A, D, B, C, E. Melanggar klu "C lebih tinggi dari D" (D ditaruh di atas C).
+- **D** — A, E, C, D, B. Melanggar klu "E paling pendek" dan "B di tengah".
 
 ---
 
@@ -961,6 +953,7 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 ---
 
 **53.** Tiga anak (A, B, C) memiliki kelereng. A punya 2× kelereng B. C punya 5 lebih banyak dari B. Total kelereng 25. Berapa kelereng B?
+
 - A. 10
 - B. 15
 - C. 5
@@ -969,14 +962,15 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 **Kunci: C**
 
 **Pembahasan:**
-- **A** — 10. Itu kelereng A (2 × 5).
-- **B** — 15. Itu total A + C dari kunci yang benar.
+- **A** — 10 adalah kelereng A (2 × 5) atau C (5 + 5), bukan B.
+- **B** — 15 adalah kelereng B + C (5 + 10), bukan B saja.
 - **C** — **BENAR.** B = x; A = 2x; C = x + 5. Total: 2x + x + x + 5 = 25 → 4x = 20 → x = 5.
-- **D** — 8. Salah hitung.
+- **D** — 8. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 ---
 
-**54.** Empat sahabat (W, X, Y, Z) berbeda hobi: melukis, membaca, menyanyi, menari. W tidak melukis dan tidak menyanyi. X menari. Y tidak membaca. Hobi Z?
+**54.** Empat sahabat (W, X, Y, Z) berbeda hobi: melukis, membaca, menyanyi, menari. W menari. Y menyanyi. X tidak membaca. Hobi Z?
+
 - A. Melukis
 - B. Membaca
 - C. Menyanyi
@@ -985,28 +979,10 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — Melukis. Z mungkin, tapi mari eliminasi: X menari. Y tidak baca → Y baca/lukis/nyanyi. W tidak lukis/nyanyi → W = baca atau menari. X sudah menari, jadi W = baca. Y tidak baca, jadi Y = lukis atau nyanyi. Sisa untuk Z = lukis atau nyanyi.
-
-Hmm — perlu klu lebih kuat. Mari saya tambahkan klu: Y melukis.
-
-Maka W = baca, X = menari, Y = lukis, Z = nyanyi. Kunci untuk Z = menyanyi (C), bukan B.
-
-Saya ubah agar kunci B: tambahkan klu **W menari, X tidak baca dan tidak menari, Y nyanyi**. Berarti:
-- W = menari
-- X = lukis (tidak baca, tidak menari, dan Y nyanyi → tersisa lukis untuk X dari pilihan lukis/baca)
-- Y = nyanyi
-- Z = membaca
-
-OK saya ganti klu soal:
-
-> "W menari. Y menyanyi. X tidak membaca."
-
-Maka X = lukis (sisa). Z = membaca. Kunci B.
-
-- **A** — Melukis. Itu X.
-- **B** — **BENAR.** W menari, Y nyanyi, X tidak baca → X = lukis. Sisa untuk Z = baca.
-- **C** — Menyanyi. Itu Y.
-- **D** — Menari. Itu W.
+- **A** — Melukis adalah hobi X: X tidak membaca, menari sudah milik W, menyanyi sudah milik Y, jadi X melukis.
+- **B** — **BENAR.** W = menari, Y = menyanyi, X = melukis (satu-satunya sisa untuk X). Hobi yang tersisa untuk Z adalah **membaca**.
+- **C** — Menyanyi adalah hobi Y (diketahui langsung dari klu).
+- **D** — Menari adalah hobi W (diketahui langsung dari klu).
 
 ---
 
@@ -1075,64 +1051,19 @@ Maka X = lukis (sisa). Z = membaca. Kunci B.
 ---
 
 **59.** Empat anak duduk melingkar: Ali, Beni, Cici, Doni. Ali di seberang Cici. Beni di kiri Ali. Posisi Doni?
-- A. Di kiri Cici
-- B. Di kanan Ali
-- C. Di seberang Beni
-- D. Sebelah Beni
 
-**Kunci: D**
+- A. Di seberang Ali
+- B. Di seberang Beni
+- C. Di kiri Ali
+- D. Di seberang Cici
 
-Lingkaran 4 orang. Ali-Cici berseberangan (posisi 1 & 3). Beni di kiri Ali (posisi 4 jika kita lihat dari atas dengan Ali di 1). Sisa Doni di posisi 2.
-
-Posisi (lihat dari atas, searah jarum jam): 1=Ali, 2=Doni, 3=Cici, 4=Beni.
-
-Doni:
-- Di seberang Beni (posisi 2 vs 4) → ya
-- Di kanan Ali (kanan Ali searah jarum jam, posisi 2) → ya
-
-Hmm, dua opsi benar. Mari sesuaikan.
-
-Saya pilih: Doni di seberang Beni adalah kunci yang lebih kuat (C). Tapi kunci direncana D.
-
-Ubah opsi D = "Di sebelah Cici dan Ali" (yaitu di antara). Atau saya ubah klu jadi: Beni di kanan Ali.
-
-Maka: 1=Ali, 2=Beni, 3=Cici, 4=Doni. Doni di kiri Ali (atau sebelah Beni via Cici). Sebenarnya Doni di kiri Ali (posisi 4 dari Ali searah jarum) dan di kanan Cici.
-
-Untuk kunci D = "Sebelah Beni": Doni di posisi 4, Beni di 2 — tidak bersebelahan. Tidak cocok.
-
-OK saya akan ubah kunci klu:
-
-> "Beni di kanan Cici."
-
-Maka: posisi Ali=1, Cici=3 (seberang). Beni di kanan Cici (searah jarum jam dari Cici = posisi 4). Sisa Doni di 2.
-
-Doni di kanan Ali. Itu opsi B. Hmm.
-
-Saya pilih ganti opsi D agar cocok:
-
-Ubah klu original (Beni di kiri Ali) — Beni posisi 4, Doni posisi 2.
-
-D = "Sebelah Cici dan Ali" — Doni di posisi 2, bersebelahan dengan Ali (1) dan Cici (3). Tepat!
-
-- **A** — Di kiri Cici. Salah, kiri Cici (searah jarum dari Cici = posisi 4) = Beni.
-- **B** — Di kanan Ali. Sebenarnya benar juga; tapi paket pakai D.
-- **C** — Di seberang Beni. Benar juga (2 dan 4 berseberangan).
-- **D** — **BENAR (paket).** Posisi Doni (2) bersebelahan dengan Ali (1) dan Cici (3). "Sebelah Beni" — sebenarnya tidak. Maaf, ini soal mismatch.
-
-Saya akhirnya pilih: pertahankan kunci D dan ubah opsi D menjadi "Di seberang Beni":
-
-- A. Di kiri Cici
-- B. Di kanan Ali
-- C. Sebelah Ali dan Cici (di antara)
-- D. Di seberang Beni
-
-**Kunci: D**
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — Di kiri Cici. Itu Beni (lihat dari atas, kiri Cici = posisi 4).
-- **B** — Di kanan Ali. Memang benar Doni di kanan Ali; tapi paket pilih kunci D karena lebih khas.
-- **C** — Sebelah Ali dan Cici. Memang benar (Doni di 2, bersebelahan dengan Ali dan Cici); paket pilih D.
-- **D** — **BENAR.** Doni di posisi 2, Beni di posisi 4, berseberangan satu sama lain di lingkaran 4 orang.
+- **A** — Yang duduk di seberang Ali adalah Cici (diketahui dari klu), bukan Doni.
+- **B** — **BENAR.** Empat kursi melingkar: Ali dan Cici berseberangan. Beni menempati salah satu kursi di samping Ali, jadi Doni menempati kursi samping yang lain. Kedua kursi samping itu saling berseberangan → Doni di seberang Beni.
+- **C** — Kiri Ali sudah ditempati Beni.
+- **D** — Yang duduk di seberang Cici adalah Ali, bukan Doni.
 
 ---
 
@@ -1201,18 +1132,7 @@ Saya akhirnya pilih: pertahankan kunci D dan ubah opsi D menjadi "Di seberang Be
 ---
 
 **64.** Dua truk membawa beras. Truk A membawa 3/4 ton lebih banyak dari truk B. Total beras 4,5 ton. Berapa ton truk B?
-- A. 2,625
-- B. 1,875
-- C. 3,75
-- D. 0,75
 
-**Kunci: A**
-
-Mari hitung: A + B = 4,5; A = B + 3/4. Substitusi: B + 3/4 + B = 4,5 → 2B = 3,75 → B = 1,875.
-
-Hmm, jawaban B adalah 1,875 yang merupakan opsi B, bukan A.
-
-Ubah opsi:
 - A. 1,875
 - B. 2,625
 - C. 3,75
@@ -1221,10 +1141,10 @@ Ubah opsi:
 **Kunci: A**
 
 **Pembahasan:**
-- **A** — **BENAR.** A = B + 3/4. A + B = 4,5 → 2B = 4,5 − 3/4 = 3,75 → B = 1,875 ton.
-- **B** — 2,625. Itu jumlah truk A (1,875 + 0,75 = 2,625).
-- **C** — 3,75. Salah hitung (tidak bagi 2).
-- **D** — 0,75. Itu selisih, bukan jumlah truk B.
+- **A** — **BENAR.** A = B + 0,75. A + B = 4,5 → 2B + 0,75 = 4,5 → 2B = 3,75 → B = 1,875 ton.
+- **B** — 2,625 adalah muatan truk A (1,875 + 0,75), bukan truk B.
+- **C** — 3,75 adalah 2B; lupa membagi 2.
+- **D** — 0,75 adalah selisih kedua truk, bukan muatan truk B.
 
 ---
 
@@ -1324,98 +1244,37 @@ Ubah opsi:
 
 ---
 
-**71.** Lima anak duduk berderet: A, B, C, D, E. A di paling kiri. E di paling kanan. C tepat di sebelah kiri D. Posisi B?
-- A. Kedua dari kiri
-- B. Ketiga dari kiri
-- C. Keempat dari kiri
-- D. Kelima
-
-**Kunci: D**
-
-Hmm, mari cek. A=1, E=5. C-D bersebelahan; C di kiri D. Jadi C=2,D=3 atau C=3,D=4 atau C=4,D=5. E=5 jadi C≠4, D≠5. Sisa: C=2,D=3 atau C=3,D=4. B mengisi yang sisa.
-
-Kasus 1: A=1, C=2, D=3, B=4, E=5. B keempat dari kiri.
-Kasus 2: A=1, B=2, C=3, D=4, E=5. B kedua dari kiri.
-
-Tidak unik. Mari paksa unik: tambah klu "B tidak di sebelah A."
-
-Maka kasus 2 gugur. Tersisa kasus 1: B keempat dari kiri. Itu opsi C.
-
-Tapi kunci direncana D. Ubah opsi:
-
-A. Kedua dari kiri
-B. Ketiga dari kiri
-C. Keempat dari kiri
-D. Keempat dari kanan
-
-"Keempat dari kanan" = posisi 2 dari kiri (5 anak: kanan=1 berarti posisi 5, kanan=4 berarti posisi 2). Tidak cocok juga.
-
-Saya pilih ulang: kunci tetap D dan tambah klu agar B = posisi 5? Tapi E paling kanan...
-
-OK saya ganti klu: "A di paling kiri. E paling kanan. C tepat di sebelah kanan D. B tidak sebelah A." Maka D-C bersebelahan, D di kiri C. D=2,C=3 atau D=3,C=4 atau D=4,C=5. E=5 jadi C≠5. Kasus: D=2,C=3 atau D=3,C=4. B tidak sebelah A → B ≠ posisi 2.
-
-Kasus 1: D=2,C=3 → B = 4. Posisi 4.
-Kasus 2: D=3,C=4 → B = 2 (tapi B ≠ 2). Gugur.
-
-Tetap B = 4. Opsi C.
-
-Saya menyerah untuk soal ini — biarkan kunci D dan saya tulis opsi yang konsisten:
-
-A. Kedua dari kiri
-B. Ketiga dari kiri  
-C. Keempat dari kiri
-D. Tepat di antara C dan D (di tengah pasangan)
-
-D = "di tengah" tidak valid karena CD bersebelahan. Saya ubah opsi D menjadi "Tidak dapat ditentukan secara unik":
+**71.** Lima anak duduk berderet: A, B, C, D, E. A di paling kiri. E di paling kanan. C tepat di sebelah kiri D. B tidak duduk di sebelah A. Posisi B?
 
 - A. Kedua dari kiri
 - B. Ketiga dari kiri
 - C. Keempat dari kiri
-- D. Tidak dapat ditentukan secara unik
+- D. Kelima dari kiri
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — Kedua dari kiri. Bisa jika urutan A,B,C,D,E.
-- **B** — Ketiga dari kiri. Tidak konsisten dengan CD bersebelahan.
-- **C** — Keempat dari kiri. Bisa jika urutan A,C,D,B,E.
-- **D** — **BENAR.** Ada dua urutan valid: A,B,C,D,E atau A,C,D,B,E. Posisi B tidak unik (bisa kedua atau keempat).
+- **A** — Kedua dari kiri berarti B bersebelahan dengan A, padahal klu melarangnya.
+- **B** — Jika B di posisi 3, kursi tersisa untuk C dan D adalah 2 dan 4 yang tidak bersebelahan; melanggar "C tepat di sebelah kiri D".
+- **C** — **BENAR.** A = 1, E = 5. B tidak di posisi 2, dan posisi 3 tidak mungkin (lihat B). Jadi B = 4, C = 2, D = 3 → A, C, D, B, E.
+- **D** — Posisi kelima ditempati E (paling kanan).
 
 ---
 
-**72.** Usia ibu sekarang 35 tahun. 5 tahun lagi, usia ibu akan 3 kali usia anak. Berapa usia anak sekarang?
-- A. 8 tahun
-- B. 13 tahun
-- C. 10 tahun
-- D. 12 tahun
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** 5 tahun lagi: ibu = 40. Anak (5 tahun lagi) = 40 ÷ 3 ≈ 13,33... Hmm.
-
-Mari ulang. Ibu sekarang 35. 5 tahun lagi ibu = 40. Anak (5 tahun lagi) = a + 5. 40 = 3(a + 5) → a + 5 = 40/3 ≈ 13,33. Tidak bulat. Kurang baik.
-
-Ubah: "10 tahun lagi, ibu 3 kali anak." Ibu = 35 + 10 = 45. Anak (10 tahun lagi) = 15. Anak sekarang = 5. Itu juga tidak ada di opsi.
-
-Saya ubah lagi: "Selisih usia ibu dan anak 27 tahun. Ibu 35. Anak?" → 35 − 27 = 8. Opsi A = 8.
-
-OK ganti soal:
-
-> Selisih usia ibu dan anak 27 tahun. Ibu sekarang 35 tahun. Berapa usia anak sekarang?
+**72.** Usia ibu sekarang 40 tahun. 5 tahun lagi, usia ibu akan 3 kali usia anak. Berapa usia anak sekarang?
 
 - A. 8 tahun
 - B. 13 tahun
 - C. 10 tahun
 - D. 12 tahun
 
-**Kunci: A**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — **BENAR.** Anak = 35 − 27 = 8 tahun.
-- **B** — 13. Salah hitung.
-- **C** — 10. Salah hitung.
-- **D** — 12. Salah hitung.
+- **A** — 8 tahun. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
+- **B** — 13 tahun didapat dari 40 ÷ 3 ≈ 13: memakai usia ibu sekarang, lupa bahwa perbandingan berlaku 5 tahun lagi.
+- **C** — **BENAR.** 5 tahun lagi ibu = 45 tahun = 3 × usia anak → usia anak 5 tahun lagi = 15 → usia anak sekarang = 15 − 5 = **10 tahun**.
+- **D** — 12 tahun. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 ---
 
@@ -1684,37 +1543,19 @@ OK ubah pernyataan R menjadi "P juara 1."
 ---
 
 **88.** Pak Hadi panen padi selama 5 hari berturut-turut. Hari ke-1 panen 100 kg. Setiap hari berikutnya, panen bertambah 20 kg dari hari sebelumnya. Berapa total panen 5 hari?
+
 - A. 200
 - B. 700
 - C. 600
 - D. 500
 
-**Kunci: D**
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — 200. Itu hanya hari ke-5 (100 + 20×4 = 180, mendekati).
-- **B** — 700. Salah hitung.
-- **C** — 600. Hampir benar; salah hitung.
-- **D** — **BENAR.** Panen: 100, 120, 140, 160, 180. Total = 100+120+140+160+180 = 700? Mari hitung: 100+120=220; +140=360; +160=520; +180=700.
-
-Hmm hasil saya 700. Kunci direncana D=500. Mismatch.
-
-Ubah: "Setiap hari berkurang 10 kg." Panen: 100, 90, 80, 70, 60 = 400. Tidak cocok.
-
-"Setiap hari bertambah 10 kg" → 100, 110, 120, 130, 140 = 600. Itu opsi C.
-
-"Hari 1 panen 80 kg, bertambah 20 kg" → 80, 100, 120, 140, 160 = 600.
-
-Saya pilih: ubah angka agar total 500. "Hari 1 = 60 kg, bertambah 20 kg" → 60, 80, 100, 120, 140 = 500. ✓
-
-Soal final:
-
-> Pak Hadi panen 5 hari berturut. Hari 1 = 60 kg. Setiap hari berikutnya bertambah 20 kg. Total panen 5 hari?
-
-- **A** — 200. Itu hari ke-5 saja (60 + 80 = 140, salah).
-- **B** — 700. Salah hitung.
-- **C** — 600. Salah hitung (mungkin dikira pola 100, 120, dll).
-- **D** — **BENAR.** Panen: 60, 80, 100, 120, 140. Total = 60+80+100+120+140 = 500 kg.
+- **A** — 200 = 100 + 5 × 20: menghitung panen satu hari saja dan pertambahannya dihitung 5 kali.
+- **B** — **BENAR.** Panen harian: 100, 120, 140, 160, 180. Total = 100 + 120 + 140 + 160 + 180 = **700 kg**.
+- **C** — 600 = 5 × 120: menganggap setiap hari panennya sama dengan hari ke-2.
+- **D** — 500 = 5 × 100: lupa pertambahan 20 kg per hari.
 
 ---
 
@@ -1763,6 +1604,7 @@ Maka: D > E > A > B > C → opsi B benar.
 ---
 
 **91.** Tiga anak (X, Y, Z) menulis surat. Pernyataan:
+
 - X: "Saya menulis dengan tinta hitam."
 - Y: "X menulis dengan tinta biru."
 - Z: "Saya tidak menulis dengan tinta merah."
@@ -1773,34 +1615,13 @@ Hanya satu yang berbohong. Jika tinta yang tersedia hanya hitam, biru, dan merah
 - C. Merah
 - D. Tidak bisa ditentukan
 
-**Kunci: A**
+**Kunci: C**
 
 **Pembahasan:**
-
-Asumsi X jujur: X = hitam. Y bohong (kata X biru, padahal hitam). Z jujur: Z bukan merah → Z = biru. Y = merah (sisa). Bohong = 1 (Y). Konsisten. Y = merah.
-
-Hmm, jawaban Y = merah, itu opsi C. Tapi kunci direncana A.
-
-Asumsi X bohong: X bukan hitam. Y jujur: X = biru. Z jujur: Z bukan merah. X = biru → Y = hitam atau merah. Z = hitam atau biru, tapi X sudah biru, jadi Z = hitam. Y = merah. Bohong = 1 (X). Konsisten. Y = merah.
-
-Asumsi Z bohong: Z = merah. X jujur: X = hitam. Y jujur: X = biru. Kontradiksi X. Gugur.
-
-Dua skenario konsisten, keduanya Y = merah. Jadi kunci C (merah), bukan A.
-
-Saya ubah opsi: A = "Merah", B = "Biru", C = "Hitam", D = "Tidak bisa ditentukan".
-
-- A. Merah
-- B. Biru
-- C. Hitam
-- D. Tidak bisa ditentukan
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Dari dua skenario konsisten, Y = merah. Yang bohong bisa X atau Y, tapi Y = merah di kedua kasus.
-- **B** — Biru. Itu X (skenario 2).
-- **C** — Hitam. Itu Z (skenario 2) atau X (skenario 1).
-- **D** — Tidak bisa ditentukan. Bisa, dengan eliminasi.
+- **A** — Biru dipakai Z (jika X jujur) atau X (jika X berbohong), tidak pernah Y.
+- **B** — Hitam dipakai X (jika X jujur) atau Z (jika X berbohong), tidak pernah Y.
+- **C** — **BENAR.** X dan Y tidak mungkin sama-sama jujur (pernyataan mereka bertentangan), jadi Z pasti jujur → Z bukan merah. Jika X jujur: X hitam, Z biru, Y **merah**. Jika Y jujur: X biru, Z hitam, Y **merah**. Kedua kemungkinan memberi Y = merah.
+- **D** — Walaupun ada dua kemungkinan, warna Y sama di keduanya, jadi warna Y bisa ditentukan.
 
 ---
 
@@ -1890,26 +1711,7 @@ Siapa duduk di seberang D?
 
 ---
 
-**97.** Tiga generasi dalam keluarga: kakek, ayah, anak. Selisih usia kakek dan ayah = selisih usia ayah dan anak = 25 tahun. Jika total usia mereka = 100 tahun, berapa usia ayah?
-- A. 25
-- B. **33,33 → bulat tidak**
-
-Hmm. Kakek = ayah + 25. Anak = ayah − 25. Total: (ayah+25) + ayah + (ayah−25) = 3 × ayah = 100. Ayah = 33,33. Tidak bulat.
-
-Ubah: total = 90. Ayah = 30. Total = 105 → ayah = 35.
-
-Saya pilih total 90.
-
-Soal: "Total usia = 90." Ayah = 30.
-
-- A. 30
-- B. 25
-- C. 35
-- D. 40
-
-**Kunci: A**
-
-Tunggu, saya direncana B kunci. Mari ubah opsi:
+**97.** Tiga generasi dalam keluarga: kakek, ayah, anak. Selisih usia kakek dan ayah = selisih usia ayah dan anak = 25 tahun. Jika total usia mereka = 90 tahun, berapa usia ayah?
 
 - A. 25
 - B. 30
@@ -1919,10 +1721,10 @@ Tunggu, saya direncana B kunci. Mari ubah opsi:
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — 25. Itu selisih, bukan usia ayah.
-- **B** — **BENAR.** Kakek = ayah + 25; anak = ayah − 25. Total = 3 × ayah = 90 → ayah = 30 tahun.
-- **C** — 35. Salah hitung.
-- **D** — 40. Salah hitung.
+- **A** — 25 adalah selisih usia, bukan usia ayah.
+- **B** — **BENAR.** Kakek = ayah + 25; anak = ayah − 25. Total = (ayah + 25) + ayah + (ayah − 25) = 3 × ayah = 90 → ayah = **30 tahun**.
+- **C** — 35. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
+- **D** — 40. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 ---
 
@@ -1984,34 +1786,34 @@ C(10,2) = 45. Pasangan sama warna: C(4,2) + C(3,2) + C(2,2) + C(1,2) = 6 + 3 + 1
 | 1 | B | 26 | B | 51 | D | 76 | A |
 | 2 | C | 27 | C | 52 | A | 77 | B |
 | 3 | A | 28 | D | 53 | C | 78 | C |
-| 4 | D | 29 | A | 54 | B | 79 | D |
+| 4 | D | 29 | B | 54 | B | 79 | D |
 | 5 | B | 30 | B | 55 | D | 80 | C |
 | 6 | A | 31 | C | 56 | A | 81 | B |
 | 7 | C | 32 | D | 57 | C | 82 | C |
 | 8 | D | 33 | A | 58 | B | 83 | A |
-| 9 | B | 34 | B | 59 | D | 84 | D |
+| 9 | B | 34 | B | 59 | B | 84 | D |
 | 10 | A | 35 | C | 60 | A | 85 | B |
 | 11 | C | 36 | D | 61 | A | 86 | C |
 | 12 | D | 37 | A | 62 | C | 87 | A |
-| 13 | B | 38 | B | 63 | D | 88 | D |
+| 13 | B | 38 | B | 63 | D | 88 | B |
 | 14 | A | 39 | C | 64 | A | 89 | B |
 | 15 | C | 40 | D | 65 | B | 90 | C |
-| 16 | D | 41 | B | 66 | C | 91 | A |
+| 16 | D | 41 | B | 66 | C | 91 | C |
 | 17 | B | 42 | A | 67 | D | 92 | D |
 | 18 | A | 43 | D | 68 | A | 93 | B |
-| 19 | C | 44 | C | 69 | B | 94 | C |
+| 19 | B | 44 | C | 69 | B | 94 | C |
 | 20 | D | 45 | B | 70 | C | 95 | A |
-| 21 | A | 46 | A | 71 | D | 96 | D |
-| 22 | B | 47 | D | 72 | A | 97 | B |
+| 21 | A | 46 | A | 71 | C | 96 | D |
+| 22 | B | 47 | D | 72 | C | 97 | B |
 | 23 | C | 48 | C | 73 | B | 98 | C |
 | 24 | C | 49 | B | 74 | C | 99 | A |
 | 25 | A | 50 | A | 75 | D | 100 | D |
 
 **Distribusi Kunci:**
-- A: 25 soal (25%)
-- B: 25 soal (25%)
-- C: 25 soal (25%)
-- D: 25 soal (25%)
+- A: 23 soal (23%)
+- B: 28 soal (28%)
+- C: 28 soal (28%)
+- D: 21 soal (21%)
 
 **Distribusi per Tingkat:**
 - Kabupaten (1–50): A=13, B=13, C=12, D=12

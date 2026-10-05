@@ -128,12 +128,7 @@ Sekarang mari berlatih 100 soal!
 ### A. SOAL TINGKAT KABUPATEN (Soal 1–50)
 
 **1.** Skala sebuah peta 1 : 100.000. Jarak dua kota di peta 7 cm. Jarak sebenarnya adalah…
-- A. 7 km
-- B. 7 km (dihitung 7 × 100.000 cm = 7.000.000 cm = 70 km)
-- C. 70 km
-- D. 700 km
 
-Tunggu, opsi B salah ketik. Mari kita pakai opsi yang valid:
 - A. 0,7 km
 - B. 7 km
 - C. 70 km
@@ -142,14 +137,14 @@ Tunggu, opsi B salah ketik. Mari kita pakai opsi yang valid:
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — 0,7 km. Salah konversi: 7.000.000 cm dianggap = 0,7 km (terlalu banyak bagi).
-- **B** — **BENAR.** 7 × 100.000 = 700.000 cm. 700.000 cm ÷ 100.000 = 7 km. Atau pakai trik: 1 : 100.000 → 1 cm peta = 1 km, jadi 7 cm = 7 km.
-- **C** — 70 km. Mengalikan 7 × 10 (lupa trik 1 : 100.000 = 1 km/cm).
-- **D** — 700 km. Tidak konversi cm ke km — biarkan 700.000 lalu ambil 3 angka pertama.
-- **Konsep kunci:** Ukuran sebenarnya (US) didapat dengan mengalikan ukuran di peta dengan angka skala, lalu satuannya diubah.
+- **A** — 0,7 km. 700.000 cm dibagi 1.000.000 (terlalu banyak dibagi).
+- **B** — **BENAR.** 7 × 100.000 = 700.000 cm = 7 km. Trik: skala 1 : 100.000 berarti 1 cm peta = 1 km.
+- **C** — 70 km. 700.000 cm dibagi 10.000 (kurang dibagi).
+- **D** — 700 km. 700.000 cm dibagi 1.000 seolah langsung menjadi km.
+- **Konsep kunci:** Jarak sebenarnya = jarak peta × skala, lalu ubah cm ke km (÷ 100.000).
 - **Langkah Penyelesaian:**
-  1. Ingat trik: skala 1 : 100.000 berarti 1 cm di peta = 1 km di dunia nyata.
-  2. Kalikan jarak di peta dengan trik itu: 7 cm × 1 km = 7 km.
+  1. 7 × 100.000 = 700.000 cm.
+  2. 700.000 ÷ 100.000 = 7 km.
 
 ---
 
@@ -354,12 +349,7 @@ Tunggu, opsi B salah ketik. Mari kita pakai opsi yang valid:
 ---
 
 **12.** Tinggi maket monumen 25 cm dengan skala 1 : 200. Tinggi monumen sebenarnya adalah…
-- A. 50 m
-- B. 500 m
-- C. 25 m
-- D. 50 m… (kita ganti supaya beda)
 
-Opsi final:
 - A. 25 m
 - B. 5.000 m
 - C. 500 cm
@@ -368,14 +358,14 @@ Opsi final:
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — 25 m. Tidak konversi (25 cm × 1, tidak kalikan skala).
-- **B** — 5.000 m. Salah konversi (5.000 cm dianggap 5.000 m).
-- **C** — 500 cm. Benar dalam cm, tapi soal minta m. Lupa konversi akhir.
+- **A** — 25 m. Satuan cm langsung diganti m tanpa dikali skala.
+- **B** — 5.000 m. 5.000 cm dianggap 5.000 m (lupa dibagi 100).
+- **C** — 500 cm. Skala salah dibaca 1 : 20 (25 × 20).
 - **D** — **BENAR.** 25 × 200 = 5.000 cm = 50 m.
-- **Konsep kunci:** Ukuran sebenarnya (US) = ukuran di maket × angka skala, lalu ubah satuannya.
+- **Konsep kunci:** Ukuran sebenarnya = ukuran maket × skala, lalu ubah satuannya.
 - **Langkah Penyelesaian:**
-  1. Kalikan 25 cm × 200 = 5.000 cm.
-  2. Ubah ke meter: 5.000 ÷ 100 = 50 m.
+  1. 25 × 200 = 5.000 cm.
+  2. 5.000 ÷ 100 = 50 m.
 
 ---
 
@@ -1164,18 +1154,6 @@ Catatan: Soal ini fiktif untuk latihan; jarak nyata Yogya–Solo ~65 km.
 ---
 
 **52.** Sebuah denah taman berskala 1 : 100. Luas taman di denah 24 cm². Luas taman sebenarnya adalah…
-- A. 24 m²
-- B. 240 m²
-- C. 2.400 m²
-- D. 240.000 m²
-
-**Kunci: D**
-
-Tunggu, mari periksa. 1 cm² di denah = (1 × 100)² cm² = 10.000 cm² = 1 m² sebenarnya. Jadi 24 cm² = 24 m².
-
-Mari saya benarkan opsi:
-
-**52.** Sebuah denah taman berskala 1 : 100. Luas taman di denah 24 cm². Luas taman sebenarnya adalah…
 - A. 240 m²
 - B. 2.400 m²
 - C. 24 cm²
@@ -1258,24 +1236,23 @@ Mari saya benarkan opsi:
 ---
 
 **56.** Skala denah 1 : 300. Lebar kebun di denah 12 cm. Panjang kebun di denah 20 cm. Luas kebun sebenarnya adalah…
+
 - A. 21,6 m²
 - B. 216 m²
 - C. 2.160 m²
-- D. 2.16 m²
+- D. 7,2 m²
 
 **Kunci: C**
 
-Hmm tunggu, mari hitung: Panjang sebenarnya = 20 × 300 = 6.000 cm = 60 m. Lebar = 12 × 300 = 3.600 cm = 36 m. Luas = 60 × 36 = 2.160 m². Benar opsi C.
-
 **Pembahasan:**
-- **A** — 21,6 m². Salah konversi (terlalu banyak bagi).
-- **B** — 216 m². Salah konversi (cuma sebagian).
-- **C** — **BENAR.** Panjang sebenarnya = 20 × 300 = 6.000 cm = 60 m. Lebar = 12 × 300 = 3.600 cm = 36 m. Luas = 60 × 36 = 2.160 m².
-- **D** — 2,16 m². Terlalu kecil.
-- **Konsep kunci:** Untuk luas persegi panjang, ubah panjang dan lebar ke ukuran sebenarnya dulu, baru dikalikan.
+- **A** — 21,6 m². 21.600.000 cm² dibagi 1.000.000 (padahal 1 m² = 10.000 cm²).
+- **B** — 216 m². 21.600.000 cm² dibagi 100.000.
+- **C** — **BENAR.** Panjang = 20 × 300 = 6.000 cm = 60 m. Lebar = 12 × 300 = 3.600 cm = 36 m. Luas = 60 × 36 = 2.160 m².
+- **D** — 7,2 m². Luas denah (240 cm²) hanya dikali skala sekali (72.000 cm²); padahal panjang dan lebar masing-masing dikali skala.
+- **Konsep kunci:** Ubah panjang dan lebar ke ukuran sebenarnya dulu, baru dikalikan.
 - **Langkah Penyelesaian:**
-  1. Ubah ke sebenarnya: 20 cm × 300 = 6.000 cm = 60 m; 12 cm × 300 = 3.600 cm = 36 m.
-  2. Hitung luas: 60 m × 36 m = 2.160 m².
+  1. 60 m dan 36 m.
+  2. Luas = 2.160 m².
 
 ---
 
@@ -1339,18 +1316,6 @@ Hmm tunggu, mari hitung: Panjang sebenarnya = 20 × 300 = 6.000 cm = 60 m. Lebar
   2. Hitung luas: 24 km × 16 km = 384 km².
 
 ---
-
-**60.** Sebuah denah kebun berskala 1 : 250. Luas kebun di denah 48 cm². Luas kebun sebenarnya adalah…
-- A. 3 m²
-- B. 30 m²
-- C. 300 m²
-- D. 3.000 m²
-
-**Kunci: D**
-
-Tunggu mari hitung: Skala luas = 1 : 250² = 1 : 62.500. Luas sebenarnya = 48 × 62.500 cm² = 3.000.000 cm² = 300 m². Jadi C.
-
-Mari saya perbaiki:
 
 **60.** Sebuah denah kebun berskala 1 : 250. Luas kebun di denah 48 cm². Luas kebun sebenarnya adalah…
 - A. 30 m²
@@ -1514,18 +1479,6 @@ Mari saya perbaiki:
 ---
 
 **68.** Sebuah peta berskala 1 : 300.000. Sebuah lapangan tergambar berbentuk persegi panjang 5 cm × 4 cm. Berapa keliling lapangan sebenarnya?
-- A. 54 km
-- B. 108 km
-- C. 27 km
-- D. 5,4 km
-
-**Kunci: B**
-
-Tunggu, mari hitung: Panjang sebenarnya = 5 × 3 = 15 km. Lebar = 4 × 3 = 12 km. Keliling = 2(15+12) = 54 km. Jadi A.
-
-Mari koreksi:
-
-**68.** Sebuah peta berskala 1 : 300.000. Sebuah lapangan tergambar berbentuk persegi panjang 5 cm × 4 cm. Berapa keliling lapangan sebenarnya?
 - A. 27 km
 - B. 54 km
 - C. 108 km
@@ -1646,15 +1599,6 @@ Mari koreksi:
 ---
 
 **74.** Skala denah lapangan 1 : 50. Lapangan berbentuk persegi panjang dengan panjang di denah 16 cm dan lebar 8 cm. Berapa luas lapangan sebenarnya?
-- A. 32 m²
-- B. 320 m²
-- C. 32 m² ... ah, mari hitung ulang.
-
-Panjang sebenarnya = 16 × 50 = 800 cm = 8 m. Lebar sebenarnya = 8 × 50 = 400 cm = 4 m. Luas = 8 × 4 = 32 m². Jadi A.
-
-Mari atur ulang dengan kunci C:
-
-**74.** Skala denah lapangan 1 : 50. Lapangan berbentuk persegi panjang dengan panjang di denah 16 cm dan lebar 8 cm. Berapa luas lapangan sebenarnya?
 - A. 320 m²
 - B. 3,2 m²
 - C. 32 m²
@@ -1673,20 +1617,6 @@ Mari atur ulang dengan kunci C:
   2. Hitung luas: 8 m × 4 m = 32 m².
 
 ---
-
-**75.** Sebuah peta berskala 1 : 750.000. Sebuah daerah perkebunan teh tergambar 3 cm × 5 cm. Berapa hektar luasnya? (1 km² = 100 ha)
-- A. 84.375 ha
-- B. 8.437,5 ha
-- C. 843,75 ha
-- D. 84,375 ha
-
-**Kunci: D**
-
-Tunggu, mari hitung dengan benar.
-
-Panjang sebenarnya = 5 × 7,5 = 37,5 km. Lebar = 3 × 7,5 = 22,5 km. Luas = 37,5 × 22,5 = 843,75 km². Konversi: 1 km² = 100 ha, jadi 843,75 × 100 = 84.375 ha. Jadi A.
-
-Mari koreksi:
 
 **75.** Sebuah peta berskala 1 : 750.000. Sebuah daerah perkebunan teh tergambar 3 cm × 5 cm. Berapa hektar luasnya? (1 km² = 100 ha)
 - A. 84,375 ha
@@ -1729,16 +1659,6 @@ Mari koreksi:
 ---
 
 **77.** Skala peta 1 : 1.500.000. Sebuah danau berbentuk lingkaran di peta berdiameter 4 cm. Berapa luas danau sebenarnya? (π = 3,14)
-- A. 11.304 km²
-- B. 1.130,4 km²
-- C. 113,04 km²
-- D. 1,1304 km²
-
-**Kunci: B**
-
-Mari hitung: Diameter sebenarnya = 4 × 15 = 60 km. Jari-jari = 30 km. Luas = π × r² = 3,14 × 30² = 3,14 × 900 = 2.826 km². Hmm nilai berbeda dari opsi. Mari saya buat ulang:
-
-**77.** Skala peta 1 : 1.500.000. Sebuah danau berbentuk lingkaran di peta berdiameter 4 cm. Berapa luas danau sebenarnya? (π = 3,14)
 - A. 282,6 km²
 - B. 2.826 km²
 - C. 28,26 km²
@@ -1757,18 +1677,6 @@ Mari hitung: Diameter sebenarnya = 4 × 15 = 60 km. Jari-jari = 30 km. Luas = π
   2. Hitung luas lingkaran: π × r² = 3,14 × 30² = 2.826 km².
 
 ---
-
-**78.** Skala denah 1 : 400. Sebuah halaman sekolah berbentuk persegi panjang dengan ukuran 8 cm × 5 cm di denah. Berapa keliling halaman sebenarnya?
-- A. 104 m
-- B. 10,4 m
-- C. 1.040 m
-- D. 1,04 m
-
-**Kunci: A**
-
-Mari hitung: Panjang sebenarnya = 8 × 4 = 32 m. Lebar = 5 × 4 = 20 m. Keliling = 2(32+20) = 104 m. Benar A.
-
-Tapi opsi posisi 78 = C. Mari atur ulang:
 
 **78.** Skala denah 1 : 400. Sebuah halaman sekolah berbentuk persegi panjang dengan ukuran 8 cm × 5 cm di denah. Berapa keliling halaman sebenarnya?
 - A. 10,4 m
@@ -1791,24 +1699,24 @@ Tapi opsi posisi 78 = C. Mari atur ulang:
 ---
 
 **79.** Skala maket berukuran 1 : 25. Volume maket bak air 200 cm³. Berapa volume bak air sebenarnya?
+
 - A. 3.125 m³
 - B. 312,5 m³
-- C. 31,25 m³
+- C. 0,005 m³
 - D. 3,125 m³
 
 **Kunci: D**
 
-Mari hitung: Skala volume = 1 : 25³ = 1 : 15.625. Volume sebenarnya = 200 × 15.625 = 3.125.000 cm³. Konversi: 1 m³ = 1.000.000 cm³, jadi 3.125.000 ÷ 1.000.000 = 3,125 m³. Benar D.
-
 **Pembahasan:**
-- **A** — 3.125 m³. Lupa konversi cm³ → m³.
-- **B** — 312,5 m³. Salah konversi.
-- **C** — 31,25 m³. Salah konversi.
-- **D** — **BENAR.** Skala volume = 1 : 25³ = 1 : 15.625. Volume sebenarnya = 200 × 15.625 = 3.125.000 cm³ = 3,125 m³ (karena 1 m³ = 1.000.000 cm³).
-- **Konsep kunci:** Untuk volume, faktor skala dipangkatkan tiga sebelum dikalikan ke ukuran di maket.
+- **A** — 3.125 m³. 3.125.000 cm³ dibagi 1.000, padahal 1 m³ = 1.000.000 cm³.
+- **B** — 312,5 m³. Dibagi 10.000.
+- **C** — 0,005 m³. Skala tidak dipangkatkan tiga (200 × 25 = 5.000 cm³).
+- **D** — **BENAR.** Skala volume = 25³ = 15.625. Volume = 200 × 15.625 = 3.125.000 cm³ = 3,125 m³.
+- **Konsep kunci:** Untuk volume, faktor skala dipangkatkan tiga.
 - **Langkah Penyelesaian:**
-  1. Hitung skala volume: 1 : 25³ = 1 : 15.625.
-  2. Kalikan: 200 × 15.625 = 3.125.000 cm³ = 3,125 m³.
+  1. 25³ = 15.625.
+  2. 200 × 15.625 = 3.125.000 cm³.
+  3. ÷ 1.000.000 = 3,125 m³.
 
 ---
 
@@ -1833,30 +1741,6 @@ Mari hitung: Skala volume = 1 : 25³ = 1 : 15.625. Volume sebenarnya = 200 × 15
 ---
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
-
-**81.** Sebuah peta berskala 1 : 200.000. Ari mengukur tiga sisi sebuah sawah berbentuk segitiga: 6 cm, 8 cm, dan 10 cm di peta. Berapa hektar luas sawah sebenarnya? (1 km² = 100 ha)
-- A. 192 ha
-- B. 1.920 ha
-- C. 19.200 ha
-- D. 192.000 ha
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 192 ha. Lupa konversi km² → ha.
-- **B** — **BENAR.** Sisi-sisi sebenarnya: 6 × 2 = 12 km, 8 × 2 = 16 km, 10 × 2 = 20 km (segitiga siku-siku karena 12² + 16² = 144 + 256 = 400 = 20²). Luas = ½ × 12 × 16 = 96 km². Konversi: 96 × 100 = 9.600 ha. Hmm bukan 1.920. Mari hitung ulang: Luas = ½ × 12 × 16 = 96 km². 1 km² = 100 ha → 96 × 100 = 9.600 ha. Jadi seharusnya 9.600 ha. Saya akan ganti opsi.
-
-Mari saya perbaiki dengan nilai akurat:
-
-**81.** Sebuah peta berskala 1 : 200.000. Ari mengukur tiga sisi sebuah sawah berbentuk segitiga: 6 cm, 8 cm, dan 10 cm di peta. Berapa hektar luas sawah sebenarnya? (1 km² = 100 ha)
-- A. 9.600 ha
-- B. 96 ha
-- C. 960 ha
-- D. 96.000 ha
-
-**Kunci: A**... Tapi posisi 81 perlu B.
-
-Mari atur ulang opsi sehingga jawaban benar muncul di B:
 
 **81.** Sebuah peta berskala 1 : 200.000. Ari mengukur tiga sisi sebuah sawah berbentuk segitiga: 6 cm, 8 cm, dan 10 cm di peta. Berapa hektar luas sawah sebenarnya? (1 km² = 100 ha)
 - A. 96 ha
@@ -1898,18 +1782,6 @@ Mari atur ulang opsi sehingga jawaban benar muncul di B:
   2. Bandingkan skala (peta kedua 2× lebih kecil), kalikan luas dengan (1/2)² = 1/4: 24 × 1/4 = 6 cm².
 
 ---
-
-**83.** Sebuah maket berskala 1 : 100 memiliki kolam berbentuk balok dengan ukuran 8 cm × 5 cm × 3 cm. Berapa volume kolam sebenarnya?
-- A. 12 m³
-- B. 1,2 m³
-- C. 120 m³
-- D. 1.200 m³
-
-**Kunci: C**
-
-Mari hitung: Volume maket = 8 × 5 × 3 = 120 cm³. Skala volume = 1 : 100³ = 1 : 1.000.000. Volume sebenarnya = 120 × 1.000.000 = 120.000.000 cm³. Konversi: 1 m³ = 1.000.000 cm³, jadi 120.000.000 ÷ 1.000.000 = 120 m³. Benar C.
-
-Tapi posisi 83 = D. Mari atur ulang opsi:
 
 **83.** Sebuah maket berskala 1 : 100 memiliki kolam berbentuk balok dengan ukuran 8 cm × 5 cm × 3 cm. Berapa volume kolam sebenarnya?
 - A. 12 m³
@@ -2050,16 +1922,6 @@ Tapi posisi 83 = D. Mari atur ulang opsi:
   2. Hitung luas trapesium: ½ × (10+15) × 7,5 = 93,75 km².
 
 ---
-
-**90.** Pada peta dengan skala 1 : 1.500.000, dua kota berjarak 60 km. Jika peta diperkecil 3 kali, berapa jarak dua kota di peta baru?
-- A. 4 cm
-- B. 12 cm
-- C. 1,33 cm
-- D. 1,33 cm... mari hitung ulang.
-
-Jarak di peta lama = 60 km ÷ 15 km/cm = 4 cm. Setelah diperkecil 3 kali, jarak di peta baru = 4/3 ≈ 1,33 cm. Jadi C.
-
-Tapi posisi 90 perlu D. Mari atur:
 
 **90.** Pada peta dengan skala 1 : 1.500.000, dua kota berjarak 60 km. Jika peta diperkecil 3 kali, berapa jarak dua kota di peta baru?
 - A. 12 cm
@@ -2203,16 +2065,6 @@ Tapi posisi 90 perlu D. Mari atur:
 
 **97.** Sebuah peta berskala 1 : 80.000 ingin diganti menjadi peta dengan skala 1 : 120.000 (lebih kecil). Sebuah danau yang luas peta lamanya 36 cm², berapa luas danau di peta baru?
 - A. 24 cm²
-- B. 16 cm²
-- C. 54 cm²
-- D. 16 cm²
-
-Tunggu, mari hitung. Faktor pengecilan = 80.000/120.000 = 2/3. Faktor luas = (2/3)² = 4/9. Luas baru = 36 × 4/9 = 16 cm². Benar 16. Tapi kunci posisi 97 = D.
-
-Mari atur ulang opsi:
-
-**97.** Sebuah peta berskala 1 : 80.000 ingin diganti menjadi peta dengan skala 1 : 120.000 (lebih kecil). Sebuah danau yang luas peta lamanya 36 cm², berapa luas danau di peta baru?
-- A. 24 cm²
 - B. 54 cm²
 - C. 36 cm²
 - D. 16 cm²
@@ -2272,16 +2124,6 @@ Mari atur ulang opsi:
 ---
 
 **100.** Sebuah maket kota dibuat dengan skala 1 : 1.000. Volume sebuah danau buatan dalam maket adalah 50 cm³, dan volume sebuah gunung dalam maket adalah 200 cm³. Selisih volume sebenarnya antara gunung dan danau adalah…
-- A. 150.000 m³
-- B. 1.500 m³
-- C. 150 m³
-- D. 150.000 m³ (tetap)
-
-Mari hitung dengan benar. Selisih volume di maket = 200 - 50 = 150 cm³. Skala volume = 1 : 1.000³ = 1 : 10⁹. Volume sebenarnya = 150 × 10⁹ cm³. Konversi: 1 m³ = 10⁶ cm³, jadi 150 × 10⁹ ÷ 10⁶ = 150.000 m³.
-
-Mari pastikan opsi terstruktur untuk kunci D:
-
-**100.** Sebuah maket kota dibuat dengan skala 1 : 1.000. Volume sebuah danau buatan dalam maket adalah 50 cm³, dan volume sebuah gunung dalam maket adalah 200 cm³. Selisih volume sebenarnya antara gunung dan danau adalah…
 - A. 150 m³
 - B. 1.500 m³
 - C. 15.000 m³
@@ -2318,7 +2160,7 @@ Mari pastikan opsi terstruktur untuk kunci D:
 **Soal 51–80 (Prov):**
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C | D | A | B | C | D | B | A | C | D | B | A | C | D | B | A | C | B | C | C | A | A | B | C | D | A | B | C | D | A |
+| C | D | A | B | C | C | B | A | C | D | B | A | C | D | C | A | C | B | C | C | A | A | B | C | D | A | B | C | D | A |
 
 **Soal 81–100 (Nas):**
 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |

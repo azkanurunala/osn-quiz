@@ -937,34 +937,6 @@ Selisih peserta Bimbel C dan Bimbel B adalah ...
 Tim A : 60
 Tim B : 75
 Tim C : 50
-Tim D : 80
-```
-Total skor keempat tim adalah ...
-- A. 260
-- B. 265
-- C. 270
-- D. 250
-
-**Kunci: D**
-
-**Pembahasan**:
-- **A. 260** — Salah, mungkin keliru penjumlahan.
-- **B. 265** — Salah, dugaan salah.
-- **C. 270** — Salah, mungkin (60+75+55+80).
-- **D. 250** ✓ — Benar. 60+75+50+80 = 265... eh tunggu, harus cek lagi. 60+75 = 135. 135+50 = 185. 185+80 = 265.
-
-Maaf, hitung ulang. 60+75+50+80 = 265. Jadi kunci yang benar **B**.
-
-Tapi karena rencana kunci #32 adalah **D**, mari ubah soal supaya konsisten dengan D=250.
-
-Ganti soal: Tim A=60, Tim B=75, Tim C=50, Tim D=**65**. Jumlah = 60+75+50+65 = 250. ✓
-
-**Soal #32 (revisi)**:
-Diagram batang skor permainan basket 4 tim:
-```
-Tim A : 60
-Tim B : 75
-Tim C : 50
 Tim D : 65
 ```
 Total skor keempat tim adalah ...
@@ -1484,30 +1456,6 @@ Hari ini Kelas 6 absen 5 orang. Berapa siswa kelas 6 yang hadir pramuka hari ini
 Minggu 1 : 120
 Minggu 2 : 95
 Minggu 3 : 180
-Minggu 4 : 145
-```
-Rata-rata penjualan buku per minggu adalah ...
-- A. 130
-- B. 135
-- C. 145
-- D. 140
-
-**Kunci: D**
-
-**Pembahasan**:
-- **A. 130** — Salah, mungkin keliru hitung 520/4 = 130 (padahal jumlahnya bukan 520).
-- **B. 135** — Salah, dugaan kasar.
-- **C. 145** — Salah, itu Minggu 4.
-- **D. 140** ✓ — Benar. Total = 120+95+180+145 = 540. Rata-rata = 540/4 = 135. Tunggu, hitung ulang: 120+95 = 215. 215+180 = 395. 395+145 = 540. 540/4 = 135. Jadi kunci sebenarnya **B = 135**.
-
-Untuk konsistensi dengan rencana kunci #51 = **D**, ubah angka: ganti Minggu 4 = **165** agar total 120+95+180+165 = 560, rata-rata = 140 ✓.
-
-**Soal #51 (revisi)**:
-Diagram batang banyak buku terjual di toko (4 minggu):
-```
-Minggu 1 : 120
-Minggu 2 : 95
-Minggu 3 : 180
 Minggu 4 : 165
 ```
 Rata-rata penjualan buku per minggu adalah ...
@@ -1643,32 +1591,6 @@ Berapa total hewan **berkaki empat** di peternakan?
 
 **56.** Diagram batang nilai Bahasa Inggris 5 siswa:
 ```
-A : 70
-B : 85
-C : 65
-D : 90
-E : 80
-```
-Siapa siswa dengan **nilai di atas rata-rata** kelas?
-- A. A dan B
-- B. B, D, dan E
-- C. D saja
-- D. B, D, E
-
-**Kunci: D**
-
-**Pembahasan**:
-Rata-rata = (70+85+65+90+80)/5 = 390/5 = 78.
-- **A. A dan B** — Salah, A = 70 < 78.
-- **B. B, D, dan E** — Salah, ini sama dengan D? Mari cek: B=85, D=90, E=80, semua di atas 78. Ya semua benar.
-- **C. D saja** — Salah, B dan E juga di atas 78.
-- **D. B, D, E** ✓ — Benar. (B,D,E sama dengan opsi B?)
-
-(Opsi B dan D **identik**. Mari saya perbaiki — pembahasan ini menunjukkan masalah desain opsi. Jawaban resmi: **D**, tetapi soal harus didesain ulang. Karena diminta tidak rebalance, saya pertahankan kunci D. Saya akan ubah opsi B menjadi "B dan E saja" untuk distinct.)
-
-**Soal #56 (revisi opsi)**:
-Diagram batang nilai Bahasa Inggris 5 siswa:
-```
 A : 70 ; B : 85 ; C : 65 ; D : 90 ; E : 80
 ```
 Siapa siswa dengan **nilai di atas rata-rata** kelas?
@@ -1735,11 +1657,11 @@ Total siswa **perempuan** di kelas 6 adalah ...
 **Kunci: A**
 
 **Pembahasan**:
-Total perempuan = 12 + 16 + 10 = 38. Tunggu, hasilnya 38, bukan sesuai kunci A (saya rencanakan A=38). Cek: 12+16+10 = 38. ✓
+Total perempuan = 12 + 16 + 10 = 38.
 - **A. 38** ✓ — Benar. 12+16+10 = 38.
-- **B. 32** — Salah, mungkin keliru.
+- **B. 32** — Salah, membaca 6B keliru sebagai 10 (12 + 10 + 10 = 32) — salah baca batang.
 - **C. 52** — Salah, itu total laki-laki (18+14+20).
-- **D. 30** — Salah, mungkin keliru.
+- **D. 30** — Salah, itu total siswa kelas 6C saja (20 + 10), bukan total perempuan.
 - **Konsep kunci:** Total siswa perempuan kelas 6 = jumlahkan perempuan semua kelas.
 - **Langkah Penyelesaian:**
   1. Perempuan: 6A = 12, 6B = 16, 6C = 10.
@@ -1804,32 +1726,6 @@ Total = 150+240+320+90 = 800. Komik/total × 100% = 240/800 × 100% = 30%.
 
 **61.** Diagram batang banyak pasien di klinik selama 6 hari:
 ```
-Senin   : 24
-Selasa  : 32
-Rabu    : 28
-Kamis   : 40
-Jumat   : 36
-Sabtu   : 20
-```
-Hari dengan jumlah pasien **di bawah rata-rata** adalah ...
-- A. Senin dan Sabtu
-- B. Rabu, Sabtu
-- C. Senin, Rabu, Sabtu
-- D. Senin saja
-
-**Kunci: A**
-
-**Pembahasan**:
-Rata-rata = (24+32+28+40+36+20)/6 = 180/6 = 30.
-- **A. Senin dan Sabtu** ✓ — Benar. Senin=24<30, Sabtu=20<30. Rabu=28 (kurang dari 30, tetapi mari teliti). 28<30 jadi Rabu juga di bawah rata.
-
-Tunggu — Rabu = 28 juga < 30. Maka jawaban benar adalah opsi C (Senin, Rabu, Sabtu).
-
-Untuk konsisten dengan rencana A, saya ubah Rabu menjadi **31** sehingga di atas rata-rata.
-
-**Soal #61 (revisi)**:
-Diagram batang banyak pasien di klinik selama 6 hari:
-```
 Senin=24 ; Selasa=32 ; Rabu=31 ; Kamis=40 ; Jumat=33 ; Sabtu=20
 ```
 Hari dengan jumlah pasien **di bawah rata-rata** adalah ...
@@ -1854,26 +1750,6 @@ Rata-rata = (24+32+31+40+33+20)/6 = 180/6 = 30.
 ---
 
 **62.** Diagram batang banyak siswa yang ikut lomba menyanyi per kelas:
-```
-Kelas 4 : 15
-Kelas 5 : 25
-Kelas 6 : 30
-```
-Bila kelas 4 dan 5 memilih membentuk tim gabungan, sedangkan kelas 6 tim sendiri, perbandingan ukuran tim gabungan : tim kelas 6 adalah ...
-- A. 4:3
-- B. 3:4
-- C. 5:4
-- D. 4:5
-
-**Kunci: D**
-
-**Pembahasan**:
-Tim gabungan = 15+25 = 40. Tim kelas 6 = 30. Rasio 40:30 = 4:3.
-
-Hmm, hasilnya 4:3 (A), bukan 4:5 (D). Untuk match D=4:5, saya ubah angka: kelas 4=10, kelas 5=14, kelas 6=30. Gab = 24, kls 6=30. 24:30 = 4:5. ✓
-
-**Soal #62 (revisi)**:
-Diagram batang banyak siswa yang ikut lomba menyanyi per kelas:
 ```
 Kelas 4 : 10
 Kelas 5 : 14
@@ -1929,30 +1805,6 @@ Total kotak = 7+4+9+6 = 26. Setiap kotak = 5 kartu. Total = 26 × 5 = 130.
 ---
 
 **64.** Diagram batang banyak siswa yang lulus tes per kelas:
-```
-Kelas A : 18 dari 25
-Kelas B : 20 dari 30
-Kelas C : 24 dari 30
-Kelas D : 16 dari 20
-```
-Persentase kelulusan **tertinggi** ada di kelas ...
-- A. A
-- B. D
-- C. C
-- D. B
-
-**Kunci: B**
-
-**Pembahasan**:
-- Kelas A: 18/25 = 72%.
-- Kelas B: 20/30 ≈ 66,7%.
-- Kelas C: 24/30 = 80%.
-- Kelas D: 16/20 = 80%.
-
-Kelas C dan D sama-sama 80%. Untuk match B (=D), saya ubah agar D unggul. Ganti: Kelas D = 18 dari 20 = 90%.
-
-**Soal #64 (revisi)**:
-Diagram batang banyak siswa yang lulus tes per kelas:
 ```
 Kelas A : 18 dari 25
 Kelas B : 20 dari 30
@@ -2042,29 +1894,6 @@ Tertinggi = 8 (Kamis), terendah = 4 (Senin). Selisih = 4.
 ---
 
 **67.** Diagram batang berat barang yang dikirim (kg):
-```
-Truk A : 250
-Truk B : 320
-Truk C : 280
-Truk D : 350
-```
-Rata-rata berat barang per truk adalah ... kg.
-- A. 290
-- B. 300
-- C. 310
-- D. 320
-
-**Kunci: C**
-
-**Pembahasan**:
-Total = 250+320+280+350 = 1200. Rata-rata = 1200/4 = 300.
-- **A. 290** — Salah, hampir.
-- **B. 300** — Tunggu, hitung lagi: 250+320=570, 570+280=850, 850+350=1200. 1200/4=300. Jawaban benar B!
-
-Untuk match C=310, saya ubah Truk D = 390. Total = 250+320+280+390 = 1240. 1240/4 = 310. ✓
-
-**Soal #67 (revisi)**:
-Diagram batang berat barang yang dikirim (kg):
 ```
 Truk A : 250 ; Truk B : 320 ; Truk C : 280 ; Truk D : 390
 ```
@@ -2227,26 +2056,6 @@ Total kotak = 4+6+3+5 = 18. Total penumpang = 18 × 20 = 360.
 ---
 
 **73.** Diagram batang banyak siswa SD per kelas (L dan P, ganda):
-```
-Kelas 5A : L=15, P=18
-Kelas 5B : L=20, P=14
-Kelas 5C : L=12, P=20
-```
-Kelas dengan **siswa terbanyak** adalah kelas ...
-- A. 5A
-- B. 5C
-- C. 5B
-- D. semua sama
-
-**Kunci: A**
-
-**Pembahasan**:
-Total: 5A = 15+18=33. 5B = 20+14=34. 5C = 12+20=32.
-
-Tertinggi = 5B (34). Untuk match A, ubah: 5A=L=15, P=21. Total 5A=36. 5B=34. 5C=32.
-
-**Soal #73 (revisi)**:
-Diagram batang banyak siswa SD per kelas (L dan P, ganda):
 ```
 Kelas 5A : L=15, P=21
 Kelas 5B : L=20, P=14
@@ -2458,29 +2267,6 @@ Nonfiksi total = 15+30+22 = 67.
 
 **81.** Diagram batang banyak pengunjung pameran selama 6 hari:
 ```
-Hari 1 : 250
-Hari 2 : 380
-Hari 3 : 420
-Hari 4 : 350
-Hari 5 : 480
-Hari 6 : 320
-```
-Bila tiket masuk Rp15.000 per orang, total pendapatan tiket selama 6 hari adalah ... rupiah.
-- A. Rp33.000.000
-- B. Rp34.500.000
-- C. Rp36.000.000
-- D. Rp35.000.000
-
-**Kunci: C**
-
-**Pembahasan**:
-Total pengunjung = 250+380+420+350+480+320 = 2.200. Pendapatan = 2.200 × 15.000 = 33.000.000.
-
-Hasilnya 33 juta. Untuk match C=36 juta, ganti total jadi 2.400. Ubah Hari 6 = 520. Total = 250+380+420+350+480+520 = 2.400. ✓ 2.400 × 15.000 = 36.000.000.
-
-**Soal #81 (revisi)**:
-Diagram batang banyak pengunjung pameran selama 6 hari:
-```
 Hari 1 : 250 ; Hari 2 : 380 ; Hari 3 : 420 ; Hari 4 : 350 ; Hari 5 : 480 ; Hari 6 : 520
 ```
 Bila tiket masuk Rp15.000 per orang, total pendapatan tiket selama 6 hari adalah ...
@@ -2545,7 +2331,6 @@ Berapa **persen** kenaikan pengunjung dari Minggu 1 ke Minggu 3?
 **Pembahasan**:
 Kenaikan = 320 − 240 = 80. Persen = 80/240 × 100% ≈ 33,3%.
 
-Tunggu, 80/240 = 1/3 ≈ 33,3%. ✓
 - **A. 80%** — Salah, itu **nilai kenaikan**, bukan persen.
 - **B. 25%** — Salah, mungkin keliru 80/320 = 25%.
 - **C. 33,3%** ✓ — Benar.
@@ -2583,29 +2368,6 @@ Total dari diagram = 30+45+25+60+80 = 240. Tapi total unik siswa = 190 anak. Sel
 ---
 
 **85.** Diagram batang ganda banyak siswa kelas 5 dan 6 yang lulus tes:
-```
-Mapel MTK   : Kelas5=25, Kelas6=30
-Mapel IPA   : Kelas5=28, Kelas6=22
-Mapel B.Indo: Kelas5=20, Kelas6=24
-```
-Berapa **persentase siswa kelas 6 yang lulus** dari total semua siswa lulus?
-- A. 50,7%
-- B. 49,3%
-- C. 51,3%
-- D. 48,7%
-
-**Kunci: A**
-
-**Pembahasan**:
-Total kelas 5 lulus = 25+28+20 = 73.
-Total kelas 6 lulus = 30+22+24 = 76.
-Total = 73+76 = 149.
-Persen kelas 6 = 76/149 × 100% ≈ 51,01%. Hmm, hasilnya ~51%, bukan 50,7%.
-
-Untuk match A=50,7%, ubah angka: Kelas5 totalnya 73, Kelas6 75. Total 148. 75/148 ≈ 50,7%. ✓ Atau ubah MTK Kelas6 = 29.
-
-**Soal #85 (revisi)**:
-Diagram batang ganda banyak siswa kelas 5 dan 6 yang lulus tes:
 ```
 Mapel MTK   : Kelas5=25, Kelas6=29
 Mapel IPA   : Kelas5=28, Kelas6=22
@@ -2661,29 +2423,6 @@ Total sekarang = 120+180+150+210+140 = 800. Tambahan = 1000 − 800 = 200.
 ```
 Sen=120, Sel=145, Rab=130, Kam=160, Jum=155, Sab=180, Min=110
 ```
-Bila setiap 12 butir telur dijual seharga Rp24.000, total pendapatan seminggu adalah ...
-- A. Rp1.800.000
-- B. Rp2.100.000
-- C. Rp2.000.000
-- D. Rp2.400.000
-
-**Kunci: C**
-
-**Pembahasan**:
-Total butir = 120+145+130+160+155+180+110 = 1.000.
-Banyak set 12 butir = 1.000/12 = 83,33 set (sisa 4 butir tidak dihitung). Untuk soal SD, anggap dijual 84 set = 1008 butir.
-
-Hmm, lebih bersih jika total butir = 1.200 yang habis dibagi 12.
-
-Ubah: Sen=140, Sel=145, Rab=160, Kam=180, Jum=175, Sab=200, Min=200. Total = 1.200. Set 12-an = 100 set. Pendapatan = 100 × 24.000 = 2.400.000.
-
-Tapi rencana kunci C=2.000.000. Untuk match: total butir 1000, harga set 12 = 24.000. Set 12 = 83,33. Tidak bersih. Ubah harga: setiap 10 butir = Rp20.000. Total 1000 butir = 100 set × 20.000 = 2.000.000. ✓
-
-**Soal #87 (revisi)**:
-Diagram batang banyak telur produksi seminggu (butir):
-```
-Sen=120, Sel=145, Rab=130, Kam=160, Jum=155, Sab=180, Min=110
-```
 Bila setiap 10 butir telur dijual seharga Rp20.000, total pendapatan seminggu adalah ...
 - A. Rp1.800.000
 - B. Rp2.100.000
@@ -2705,29 +2444,7 @@ Total butir = 120+145+130+160+155+180+110 = 1.000. Set 10 butir = 100. Pendapata
 
 ---
 
-**88.** Diagram batang ganda banyak siswa per mapel (sekarang vs tahun lalu):
-```
-MTK   : Lalu=30, Sekarang=45
-IPA   : Lalu=40, Sekarang=35
-IPS   : Lalu=20, Sekarang=28
-```
-Mapel dengan **persentase kenaikan tertinggi** dari tahun lalu ke sekarang adalah ...
-- A. IPA
-- B. IPS
-- C. MTK
-- D. tidak ada yang naik
-
-**Kunci: A**
-
-**Pembahasan**:
-- MTK: kenaikan = 15, persen = 15/30 = 50%.
-- IPA: berkurang 5 (turun ~12,5%).
-- IPS: kenaikan = 8, persen = 8/20 = 40%.
-
-Tertinggi = MTK 50%. Untuk match A=IPA, perlu IPA naik tertinggi. Ubah: IPA Lalu=20, Sekarang=40. Naik 100%. ✓
-
-**Soal #88 (revisi)**:
-Diagram batang ganda banyak siswa per mapel:
+**88.** Diagram batang ganda banyak siswa per mapel:
 ```
 MTK : Lalu=30, Sekarang=45
 IPA : Lalu=20, Sekarang=40
@@ -2757,28 +2474,6 @@ Mapel dengan **persentase kenaikan tertinggi** dari tahun lalu adalah ...
 ---
 
 **89.** Diagram batang banyak siswa per kelas:
-```
-Kelas A : 30 ; Kelas B : 25 ; Kelas C : 28 ; Kelas D : 32
-```
-Bila setiap kelas menyumbang Rp50.000 per siswa untuk amal, dan dari Kelas A hanya 80% siswa yang menyumbang, sisanya menyumbang penuh, total dana yang terkumpul adalah ...
-- A. Rp5.450.000
-- B. Rp5.350.000
-- C. Rp5.500.000
-- D. Rp5.400.000
-
-**Kunci: B**
-
-**Pembahasan**:
-- Kelas A: 80% × 30 = 24 siswa × 50.000 = 1.200.000.
-- Kelas B: 25 × 50.000 = 1.250.000.
-- Kelas C: 28 × 50.000 = 1.400.000.
-- Kelas D: 32 × 50.000 = 1.600.000.
-Total = 1.200.000+1.250.000+1.400.000+1.600.000 = 5.450.000.
-
-Hmm hasilnya 5.450.000 (=A). Untuk match B=5.350.000, ubah Kelas C jadi 26 siswa. 26 × 50.000 = 1.300.000. Total = 1.200.000+1.250.000+1.300.000+1.600.000 = 5.350.000. ✓
-
-**Soal #89 (revisi)**:
-Diagram batang banyak siswa per kelas:
 ```
 Kelas A : 30 ; Kelas B : 25 ; Kelas C : 26 ; Kelas D : 32
 ```
@@ -2934,24 +2629,6 @@ Total = 8+32+12+4 = 56. Bukan kurus = 56 − 8 = 48. Peluang = 48/56 = 6/7.
 
 **95.** Diagram batang penjualan motor (unit) per bulan:
 ```
-Jan=24, Feb=18, Mar=32, Apr=28, Mei=36, Jun=30
-```
-Bila harga 1 motor Rp15.000.000 dan dealer dapat komisi 4% per motor, total **komisi** dealer selama 6 bulan adalah ...
-- A. Rp102.000.000
-- B. Rp100.800.000
-- C. Rp108.000.000
-- D. Rp105.600.000
-
-**Kunci: D**
-
-**Pembahasan**:
-Total motor = 24+18+32+28+36+30 = 168. Total penjualan = 168 × 15jt = 2.520jt. Komisi = 4% × 2.520jt = 100,8 juta.
-
-Hmm hasilnya 100.800.000 (=B), bukan 105.600.000 (=D). Untuk match D: total motor harus 176. Tambah Jun jadi 38. Total = 24+18+32+28+36+38 = 176. Komisi = 176 × 15jt × 4% = 176 × 600.000 = 105.600.000. ✓
-
-**Soal #95 (revisi)**:
-Diagram batang penjualan motor (unit) per bulan:
-```
 Jan=24, Feb=18, Mar=32, Apr=28, Mei=36, Jun=38
 ```
 Bila harga 1 motor Rp15.000.000 dan dealer dapat komisi 4% per motor, total **komisi** dealer selama 6 bulan adalah ...
@@ -2976,36 +2653,6 @@ Total = 24+18+32+28+36+38 = 176. Penjualan = 176 × 15.000.000 = 2.640.000.000. 
 ---
 
 **96.** Diagram batang banyak murid yang mengikuti ujian:
-```
-SD A=120, SD B=150, SD C=180, SD D=200, SD E=250
-```
-Bila tingkat kelulusan setiap SD masing-masing 90%, 80%, 85%, 75%, 92%, berapa **total** murid yang lulus dari 5 SD?
-- A. 750
-- B. 728
-- C. 800
-- D. 700
-
-**Kunci: B**
-
-**Pembahasan**:
-- SD A: 120 × 0,90 = 108.
-- SD B: 150 × 0,80 = 120.
-- SD C: 180 × 0,85 = 153.
-- SD D: 200 × 0,75 = 150.
-- SD E: 250 × 0,92 = 230.
-
-Total = 108+120+153+150+230 = 761. Hmm bukan 728.
-
-Untuk match B=728, hitung mundur. Coba ubah SD D=180. 180×0,75=135. Total = 108+120+153+135+230 = 746. Masih bukan.
-
-Coba: SD E=200, 0,80 = 160. SD A=120, 0,90 = 108. SD B=150, 0,80 = 120. SD C=180, 0,80 = 144. SD D=200, 0,75 = 150. SD E=250, 0,80 = 200. Total = 108+120+144+150+200 = 722. Masih bukan.
-
-Mari coba berbeda: SD A=100×0,90=90. SD B=140×0,80=112. SD C=180×0,85=153. SD D=200×0,75=150. SD E=250×0,92=230. Total = 90+112+153+150+230 = 735. Bukan.
-
-Ubah SD A=130, 0,90 = 117. SD B=150, 0,80 = 120. SD C=160, 0,85 = 136. SD D=200, 0,75 = 150. SD E=250, 0,82 = 205. Total = 117+120+136+150+205 = 728. ✓
-
-**Soal #96 (revisi)**:
-Diagram batang banyak murid yang mengikuti ujian:
 ```
 SD A=130, SD B=150, SD C=160, SD D=200, SD E=250
 ```
@@ -3126,74 +2773,6 @@ Total lulus = 22+18+24+20 = 84. Total tidak = 3+7+1+5 = 16. Total = 100. Persen 
 ---
 
 **100.** Diagram batang banyak siswa peserta olimpiade per tahun:
-```
-2020 = 80 ; 2021 = 120 ; 2022 = 144 ; 2023 = 180 ; 2024 = 216
-```
-Berapa **rata-rata persentase kenaikan** dari tahun ke tahun?
-- A. 25%
-- B. 22%
-- C. 20%
-- D. 24%
-
-**Kunci: B**
-
-**Pembahasan**:
-- 2020→2021: (120−80)/80 = 50%.
-- 2021→2022: (144−120)/120 = 20%.
-- 2022→2023: (180−144)/144 = 25%.
-- 2023→2024: (216−180)/180 = 20%.
-
-Rata-rata = (50+20+25+20)/4 = 115/4 = 28,75%.
-
-Hmm bukan 22%. Coba ubah angka: 2020=80, 2021=100, 2022=120, 2023=140, 2024=160.
-- 80→100: 25%.
-- 100→120: 20%.
-- 120→140: ≈16,67%.
-- 140→160: ≈14,29%.
-
-Rata-rata = (25+20+16,67+14,29)/4 ≈ 19%. Belum 22%.
-
-Sederhanakan: 2020=100, 2021=120 (+20%), 2022=144 (+20%), 2023=168 (+16,67%), 2024=200 (+19,05%). Rata-rata = ~18,93. Masih bukan.
-
-Untuk match 22% rata-rata persen kenaikan, coba persentase 20, 22, 24, 22: data 100→120→146,4→181,5→221,5. Tidak bersih.
-
-Saya pakai cara berbeda — "rata-rata persentase kenaikan" sering diartikan total kenaikan ÷ banyak interval ÷ awal. Total kenaikan = 216 − 80 = 136. Bagi 4 = 34/tahun. 34/80 = 42,5%? Itu juga aneh.
-
-Atau: persen kenaikan total / banyak tahun = (216−80)/80 × 100% = 170% / 4 = 42,5%/tahun. Tetap bukan 22%.
-
-Coba sederhanakan tujuan. Saya pakai: 2020=100, 2021=125, 2022=150, 2023=175, 2024=200. Kenaikan persen: 25, 20, 16,67, 14,29. Rata-rata ≈ 19%. Masih bukan.
-
-Saya akan ubah pertanyaan agar match B=22%. Tanya rata-rata kenaikan persen tahunan **dengan basis tahun pertama saja**:
-"Rata-rata kenaikan siswa per tahun (dalam **persen dari tahun pertama**)":
-Data: 80→120→144→180→216.
-- Tahun 1 (2020→2021): 40 siswa = 40/80 × 100% = 50% (basis 80).
-
-Sebenarnya saya akan reformulasi sederhana — tanya total kenaikan dari 2020 ke 2024:
-
-Pertanyaan baru: "Berapa **rata-rata jumlah siswa** per tahun?"
-
-Data 80, 120, 144, 180, 216. Total = 740. Rata-rata = 148. Hmm itu bukan 22%.
-
-Mari pakai pertanyaan yang menghasilkan 22% bersih. Saya buat data baru:
-2020=100, 2021=122, 2022=144, 2023=166, 2024=188. Pertanyaan: "Berapa persen rata-rata kenaikan setiap tahun dari tahun sebelumnya?"
-- 100→122 = 22%.
-- 122→144 = 18,03%.
-- 144→166 = 15,28%.
-- 166→188 = 13,25%.
-Rata-rata = ~17%. Belum.
-
-Saya akan ubah pertanyaan menjadi **kenaikan absolut**:
-"Berapa **rata-rata kenaikan siswa** setiap tahun (dari tahun sebelumnya)?"
-Data 80, 120, 144, 180, 216. Kenaikan: 40, 24, 36, 36. Rata-rata = 136/4 = 34.
-
-Tidak match 22.
-
-Saya akan reformulasi total dengan simpel: pertanyaan adalah "Persentase kenaikan dari 2020 ke 2021" dan jawabannya 50% — namun rencana kunci B = 22%.
-
-Untuk match 22%, ubah data: 2020=100, 2021=122, 2022=144, 2023=166, 2024=188. Tanya: persentase kenaikan dari 2020 ke 2021. = 22/100 = 22%. ✓
-
-**Soal #100 (revisi)**:
-Diagram batang banyak siswa peserta olimpiade per tahun:
 ```
 2020 = 100 ; 2021 = 122 ; 2022 = 144 ; 2023 = 166 ; 2024 = 188
 ```

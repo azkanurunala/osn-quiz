@@ -597,14 +597,6 @@ Yuk mulai latihan 100 soal!
 
 **26.** Konversikan 126 km/jam ke m/detik.
 - A. 12,6 m/detik
-- B. 30 m/detik
-- C. 35 m/detik
-- D. 35 m/detik (alternatif benar)
-
-Maaf, koreksi opsi:
-
-**26.** Konversikan 126 km/jam ke m/detik.
-- A. 12,6 m/detik
 - B. 25 m/detik
 - C. 30 m/detik
 - D. 35 m/detik
@@ -1722,19 +1714,6 @@ Maaf, koreksi opsi:
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
 
-**81.** Dua kereta saling mendekat. Kereta A: 90 km/jam, Kereta B: 20 m/detik. Jarak awal 100 km. Berapa lama hingga bertemu?
-- A. 50 menit
-- B. 60 menit
-- C. 40 menit
-- D. 75 menit
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Konversi B: 20 × 3,6 = 72 km/jam. Kecepatan relatif = 90 + 72 = 162 km/jam. W = 100/162 jam = 0,617 jam = 37 menit. *(Koreksi: lihat C.)*
-
-Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban paling dekat C (40 menit). Mari koreksi opsi:
-
 **81.** Dua kereta saling mendekat. Kereta A: 90 km/jam, Kereta B: 20 m/detik. Jarak awal 81 km. Berapa lama hingga bertemu?
 - A. 30 menit
 - B. 60 menit
@@ -1962,22 +1941,6 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 
 ---
 
-**92.** Dua kereta saling berpapasan. Kereta A 200 m panjang dengan 72 km/jam, kereta B 300 m dengan 54 km/jam. Berapa detik berpapasan (dari ujung depan bertemu sampai ujung belakang lepas)?
-- A. 15 detik
-- B. 12 detik
-- C. 20 detik
-- D. 10 detik
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 15. Mungkin pakai relatif 33 m/s.
-- **B** — 12. Salah hitung.
-- **C** — 20. Pakai relatif 25 m/s.
-- **D** — **BENAR.** Konversi: A = 20 m/s, B = 15 m/s. Relatif berpapasan = 20+15 = 35 m/s. Jarak total = 200+300 = 500 m. W = 500/35 ≈ 14,3 detik. *(Hmm: lebih dekat A=15.)*
-
-*Koreksi:* W = 500/35 ≈ 14,3 detik. Opsi paling tepat A (15 detik). **Ganti kunci** — tidak, ikuti aturan: opsi diubah, bukan kunci. Mari ulang soal:
-
 **92.** Dua kereta saling berpapasan. Kereta A 200 m panjang dengan 72 km/jam, kereta B 200 m dengan 54 km/jam. Berapa detik berpapasan?
 - A. 15,2 detik
 - B. 12 detik
@@ -2123,22 +2086,6 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 
 ---
 
-**99.** Mobil A 30 m/s, mobil B 90 km/jam. Mereka berangkat dari titik sama ke arah berlawanan. Setelah 10 menit, berapa km jarak A dari B?
-- A. 33 km
-- B. 33 m
-- C. 22 km
-- D. 30 km
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 33. Pembulatan tidak tepat.
-- **B** — 33 m. Salah satuan.
-- **C** — 22. Pakai relatif 22 m/s.
-- **D** — **BENAR.** A = 30 m/s = 108 km/jam. B = 90 km/jam. Relatif berpisah = 108 + 90 = 198 km/jam. 10 menit = 1/6 jam. J = 198/6 = 33 km. *(Hmm, 33 km bukan 30.)*
-
-*Koreksi:* hasil 33 km, opsi yang benar A. Mari **ubah angka soal** agar hasil bulat 30 km:
-
 **99.** Mobil A 25 m/s, mobil B 90 km/jam. Mereka berangkat dari titik sama ke arah berlawanan. Setelah 10 menit, berapa km jarak A dari B?
 - A. 33 km
 - B. 25 m
@@ -2193,7 +2140,7 @@ Maaf, hitungan ulang: W = 100/162 jam ≈ 0,617 jam × 60 ≈ 37 menit. Jawaban 
 **Soal 26–50 (Kab kedua):**
 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | B | A | C | B | C | A | D | A | C | B | C | A | C | B | B | C | B | D | A | C | D | A | C | B |
+| D | B | A | C | B | C | A | D | A | C | B | C | A | C | D | B | C | B | D | A | C | D | A | C | B |
 
 **Soal 51–80 (Prov):**
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |

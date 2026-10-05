@@ -1059,14 +1059,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 **47.** Harga buku tulis Rp7.000 belum termasuk PPN 11%. Total bayar adalah …
 - A. Rp7.770
 - B. Rp7.077
-- C. Rp7.770... sebenarnya. Hmm. Cek: 11% × 7.000 = 770. Total = 7.770. A benar.
-- D. Rp6.230
-
-*Saya akan tulis ulang dengan baik:*
-
-**47.** Harga buku tulis Rp7.000 belum termasuk PPN 11%. Total bayar adalah …
-- A. Rp7.770
-- B. Rp7.077
 - C. Rp7.700
 - D. Rp6.230
 
@@ -1123,15 +1115,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. Bagi gaji bersih dengan 0,95: 4.750.000 ÷ 0,95 = 5.000.000.
 
 ---
-
-**50.** Jumlah PPN 11% pada harga barang Rp90.000 adalah …
-- A. Rp990
-- B. Rp9.900
-- C. Rp9.000
-- D. Rp99.000
-
-**Kunci: B**
-*Periksa: 11% × 90.000 = 9.900. B benar. Tapi rencana pos 50 = C. Mari ganti angka biar kunci jatuh ke C.*
 
 **50.** Bila harga barang sebelum PPN Rp80.000 dan PPN 11%, maka PPN-nya adalah …
 - A. Rp800
@@ -1381,17 +1364,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 
 ---
 
-**62.** Harga sebuah TV Rp4.500.000 sudah termasuk PPN 11%. Berapa harga sebelum PPN?
-- A. Rp4.005.000
-- B. Rp4.054.054
-- C. Rp4.054.000
-- D. Rp4.000.000
-
-**Kunci: C**
-*Periksa: 4.500.000 ÷ 1,11 = 4.054.054,05... ≈ 4.054.054. Pembulatan ke C (4.054.000) terdekat. Tapi B lebih tepat.*
-
-*Mari pilih angka yang clean. Ganti 4.500.000 jadi 4.440.000:*
-
 **62.** Harga sebuah TV Rp4.440.000 sudah termasuk PPN 11%. Berapa harga sebelum PPN?
 - A. Rp3.951.600
 - B. Rp4.884.000
@@ -1539,14 +1511,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 **69.** Bila gaji bersih Pak Rendy Rp5.700.000 setelah dipotong PPh 5%, maka gaji kotornya adalah …
 - A. Rp6.000.000
 - B. Rp5.985.000
-- C. Rp5.428.500
-- D. Rp5.985.000
-
-*[Pilihan B dan D sama. Mari diperbaiki.]*
-
-**69.** Bila gaji bersih Pak Rendy Rp5.700.000 setelah dipotong PPh 5%, maka gaji kotornya adalah …
-- A. Rp6.000.000
-- B. Rp5.985.000
 - C. Rp5.435.000
 - D. Rp5.415.000
 
@@ -1584,15 +1548,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 
 ---
 
-**71.** Sebuah laptop dijual seharga Rp8.000.000 sebelum PPN 11%. Setelah promo "PPN ditanggung penjual", harga jual jadi …
-- A. Rp7.200.000
-- B. Rp8.880.000
-- C. Rp8.000.000
-- D. Rp880.000
-
-**Kunci: C**
-*Periksa: Kalau PPN ditanggung penjual, pembeli hanya bayar harga sebelum PPN = 8.000.000. C benar. Tapi rencana pos 71 = D. Mari ganti soal agar kunci D.*
-
 **71.** Sebuah laptop dijual seharga Rp8.000.000 sebelum PPN 11%. Berapa selisih total bayar jika promo "PPN ditanggung penjual" diterapkan?
 - A. Rp7.200.000
 - B. Rp8.000.000
@@ -1612,28 +1567,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. Itulah selisih yang dihemat pembeli.
 
 ---
-
-**72.** Sebuah restoran menerapkan service 10% dan PPN 11%. Bila total bayar Rp 487.080, berapa subtotal awal?
-- A. Rp400.000
-- B. Rp410.000
-- C. Rp390.000
-- D. Rp420.000
-
-**Kunci: A**
-*Periksa: subtotal × 1,10 × 1,11 = subtotal × 1,221. Subtotal = 487.080 / 1,221 = 398.918? Hmm. Mari hitung ulang: 400.000 × 1,10 × 1,11 = 440.000 × 1,11 = 488.400. Itu beda.*
-
-*Coba subtotal 400.000 × 1,10 = 440.000, × 1,11 = 488.400. Bukan 487.080.*
-
-*Pilih subtotal yang clean. 487.080 / 1,221 ≈ 398.917. Sembarang. Mari ganti angka soal.*
-
-**72.** Sebuah restoran menerapkan service 10% dan PPN 11%. Bila total bayar Rp488.400, berapa subtotal awal?
-- A. Rp400.000
-- B. Rp410.000
-- C. Rp390.000
-- D. Rp440.000
-
-**Kunci: A**
-*Tapi rencana pos 72 = B. Ganti angka subtotal jadi 410.000 supaya kunci B.*
 
 **72.** Sebuah restoran menerapkan service 10% dan PPN 11%. Bila total bayar Rp500.610, berapa subtotal awal?
 - A. Rp400.000
@@ -1715,15 +1648,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. Bagi total dengan 1,10: 110.000 ÷ 1,10 = 100.000.
 
 ---
-
-**76.** Sebuah barang harga sebelum PPN 10% adalah Rp X. Setelah PPN, harga jadi Rp77.000. Bila kemudian pembeli mendapat cashback 5%, berapa yang dibayar?
-- A. Rp73.150
-- B. Rp66.500
-- C. Rp70.000
-- D. Rp77.000
-
-**Kunci: A**
-*Periksa: X = 77.000 ÷ 1,10 = 70.000. Setelah PPN = 77.000. Cashback 5% dari 77.000 = 3.850. Bayar = 77.000 − 3.850 = 73.150. A benar. Tapi rencana pos 76 = B. Mari ganti angka.*
 
 **76.** Sebuah barang harga sebelum PPN 10% adalah Rp X. Setelah PPN, harga jadi Rp77.000. Bila pembeli juga membayar biaya kirim Rp10.000, total bayar adalah …
 - A. Rp77.000
@@ -1809,17 +1733,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 
 ---
 
-**80.** Gaji Pak Doni Rp X. Setelah dipotong PPh 5% dan tunjangan ditambahkan Rp500.000, ia menerima Rp10.500.000. Maka X = …
-- A. Rp10.526.316
-- B. Rp10.526.000
-- C. Rp10.000.000
-- D. Rp10.526.500
-
-**Kunci: B**
-*Periksa: (X − 5%X) + 500.000 = 10.500.000. 0,95X = 10.000.000. X = 10.000.000/0,95 = 10.526.315,79... ≈ 10.526.316. A benar. Tapi rencana B.*
-
-*Mari ganti angka. Bila tunjangan Rp 500.000 dikurangi (bukan ditambah)? Atau ganti hasil sehingga X clean.*
-
 **80.** Gaji Pak Doni Rp X. Setelah dipotong PPh 5%, gaji bersih Rp9.500.000. Maka X = …
 - A. Rp9.975.000
 - B. Rp10.000.000
@@ -1841,22 +1754,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 ---
 
 ### 🔴 SEKSI C · 20 Soal Tingkat Nasional (No. 81–100)
-
-**81.** Sebuah restoran punya 3 menu: A Rp50.000, B Rp75.000, C Rp80.000. Service charge 5%, PPN 11%. Bila bill terdiri dari 2A + 1B + 3C, total bayar adalah …
-- A. Rp474.165
-- B. Rp472.165
-- C. Rp478.275
-- D. Rp415.000
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — 474.165 = sembarang/salah hitung.
-- **B** — 472.165 = sembarang.
-- **C** — Benar. Subtotal = 2×50.000 + 75.000 + 3×80.000 = 100.000 + 75.000 + 240.000 = 415.000. Setelah service 5%: 415.000 × 1,05 = 435.750. Setelah PPN 11%: 435.750 × 1,11 = 483.682,5. Hmm tidak match. Coba lagi: 415.000 × 1,05 = 435.750. × 1,11 = 483.682,50. Kurang tepat.
-
-*Mari fix: 415.000 × 1,05 × 1,11 = 415.000 × 1,1655 = 483.682,5. Maka opsi C harus 483.682,50.*
-
-*Saya rapikan ulang opsi:*
 
 **81.** Sebuah restoran punya 3 menu: A Rp50.000, B Rp75.000, C Rp80.000. Service charge 5%, PPN 11%. Bila bill terdiri dari 2A + 1B + 3C, total bayar (dibulatkan rupiah terdekat) adalah …
 - A. Rp470.000
@@ -1900,27 +1797,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 
 ---
 
-**83.** Sebuah harga setelah PPN 11% adalah Rp X. Bila X = total bayar, maka harga awal = (X / 1,11). Bila X = 999.000.000, berapa PPN-nya (yang sudah termasuk dalam X)?
-- A. Rp90.000.000
-- B. Rp99.000.000
-- C. Rp99.999.000
-- D. Rp109.890.000
-
-**Kunci: B**
-*Periksa: harga awal = 999jt / 1,11 = 900jt. PPN = 999jt − 900jt = 99jt. B benar. Tapi rencana pos 83 = D. Mari ganti.*
-
-*Sebelumnya saya cek rencana sequence: 81=C, 82=A, 83=D, 84=B, 85=C, 86=A, 87=D, 88=B, 89=C, 90=A, 91=D, 92=B, 93=C, 94=A, 95=D, 96=B, 97=C, 98=A, 99=D, 100=B*
-
-*Maka pos 83 = D. Mari atur soal sehingga D benar.*
-
-**83.** Harga setelah PPN 11% adalah Rp999.000. PPN yang termasuk di dalam harga itu adalah …
-- A. Rp109.890
-- B. Rp90.000
-- C. Rp99.000
-- D. Rp99.000
-
-*Ini bermasalah (B & D sama). Mari benar2 atur agar D yang benar dengan angka berbeda.*
-
 **83.** Sebuah barang harga di label Rp999.000 sudah termasuk PPN 11%. Kombinasi pernyataan yang BENAR adalah …
 - A. Harga sebelum PPN Rp890.090, PPN Rp108.910.
 - B. Harga sebelum PPN Rp888.111, PPN Rp110.889.
@@ -1940,14 +1816,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. PPN = 999.000 − 900.000 = 99.000.
 
 ---
-
-**84.** Sebuah perusahaan bayar gaji Rp X kepada Pak Beni. PPh 5%, BPJS 1%, tunjangan transport ditambah Rp300.000. Pak Beni menerima Rp7.700.000. Maka X = …
-- A. Rp7.500.000
-- B. Rp7.872.340
-- C. Rp7.872.000
-- D. Rp7.500.000
-
-*A dan D sama. Mari diperbaiki:*
 
 **84.** Sebuah perusahaan bayar gaji Rp X kepada Pak Beni. PPh 5%, BPJS 1%, tunjangan transport ditambah Rp300.000 (tidak kena pajak). Pak Beni menerima total Rp7.700.000. Maka X = …
 - A. Rp7.500.000
@@ -1990,17 +1858,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. Hitung harga setelah PPN: 500.000 × 1,11 = 555.000.
 
 ---
-
-**86.** Sebuah barang harga awal Rp X. Setelah diskon 10% lalu PPN 11%, harga akhir = harga awal − Rp1.000. Maka X = …
-- A. Rp100.000
-- B. Rp50.000
-- C. Rp200.000
-- D. Rp10.000
-
-**Kunci: A**
-*Periksa: X × 0,9 × 1,11 = X − 1.000. 0,999X = X − 1.000. 0,001X = 1.000. X = 1.000.000. Hmm tidak match opsi.*
-
-*Mari atur: X × 0,9 × 1,11 = 0,999X. Maka X − 0,999X = 0,001X. Bila itu = 1.000, X = 1.000.000. Bila kita ingin X = 100.000, selisih = 100. Mari ganti angka soal.*
 
 **86.** Sebuah barang harga awal Rp X. Setelah diskon 10% lalu PPN 11%, harga akhir = harga awal − Rp100. Maka X = …
 - A. Rp100.000
@@ -2063,16 +1920,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   3. Bunga bersih: 600.000 − 120.000 = 480.000.
 
 ---
-
-**89.** Sebuah barang setelah PPN 11% dijual Rp444.000. Bila penjual memberi diskon 5% dari harga setelah PPN dan pembeli juga membayar biaya admin Rp10.000, total yang dibayar adalah …
-- A. Rp431.800
-- B. Rp435.500
-- C. Rp431.800
-- D. Rp431.800
-
-*Banyak yang sama. Mari hitung tepat.*
-
-*444.000 × 0,95 = 421.800. + 10.000 = 431.800.*
 
 **89.** Sebuah barang setelah PPN 11% dijual Rp444.000. Penjual memberi diskon 5% dari harga setelah PPN, lalu pembeli bayar biaya admin Rp10.000. Total yang dibayar adalah …
 - A. Rp421.800
@@ -2194,29 +2041,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
 
 ---
 
-**95.** Sebuah toko: harga setelah PPN 11% Rp666.000. Toko memberi cashback 5% dari harga sebelum PPN. Total yang dibayar pembeli setelah cashback adalah …
-- A. Rp600.000
-- B. Rp636.000
-- C. Rp632.700
-- D. Rp636.000
-
-*B dan D sama. Mari diperbaiki:*
-
-**95.** Sebuah toko: harga setelah PPN 11% adalah Rp666.000. Toko memberi cashback 5% dari harga **sebelum** PPN. Total yang dibayar pembeli setelah cashback adalah …
-- A. Rp600.000
-- B. Rp632.700
-- C. Rp636.000
-- D. Rp636.700
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 600.000 = harga sebelum PPN saja, salah konteks.
-- **B** — 632.700 = 666.000 × 0,95 (cashback 5% dari total, bukan dari harga sebelum PPN).
-- **C** — 636.000 = sembarang.
-- **D** — Benar. Harga sebelum PPN = 666.000 ÷ 1,11 = 600.000. Cashback = 5% × 600.000 = 30.000. Pembeli bayar = 666.000 − 30.000 = 636.000. Hmm hasilnya 636.000, sama dengan opsi C.
-
-*Mari hitung ulang dan rapikan. 666.000 − 30.000 = 636.000. Maka jawaban benar adalah Rp636.000. Saya gunakan B sebagai distractor dan ganti opsi D agar berbeda.*
-
 **95.** Sebuah toko: harga setelah PPN 11% adalah Rp666.000. Toko memberi cashback 5% dari harga sebelum PPN. Bila kemudian pembeli bayar biaya admin Rp700, total yang dibayar pembeli adalah …
 - A. Rp600.000
 - B. Rp632.700
@@ -2237,17 +2061,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   3. Tambahkan biaya admin: 636.000 + 700 = 636.700.
 
 ---
-
-**96.** Bila harga sebelum PPN Rp X, lalu diskon 10% diterapkan, lalu PPN 11%, lalu cashback 5% dari hasilnya, total bayar = Rp X − Rp1.001. Maka X = …
-- A. Rp1.000.000
-- B. Rp100.000
-- C. Rp10.000
-- D. Rp1.001.000
-
-**Kunci: B**
-*Periksa: total = X × 0,9 × 1,11 × 0,95 = X × 0,949...05 = 0,94905X. X − 0,94905X = 0,05095X. Bila itu = 1.001, X = 1.001/0,05095 = 19.646. Tidak match.*
-
-*Saya skipped — mari ganti angka.*
 
 **96.** Sebuah barang harga awal Rp X. Setelah diskon 10% lalu PPN 11%, harga akhir Rp99.900. Maka X = …
 - A. Rp99.000
@@ -2308,25 +2121,6 @@ Contoh: subtotal 100.000, service 5%, PPN 11%.
   2. Bagi total dengan faktor: 666.000 ÷ 0,8325 = 800.000.
 
 ---
-
-**99.** Sebuah restoran membebankan service 5% (dari subtotal) dan PPN 11% (dari subtotal+service). Bila subtotal Rp200.000, total bayar = …
-- A. Rp231.000
-- B. Rp233.100
-- C. Rp232.000
-- D. Rp233.100
-
-*A dan B berbeda. Mari hitung tepat: 200.000 × 1,05 × 1,11 = 210.000 × 1,11 = 233.100. Jadi B = 233.100, dan D = 233.100 duplikat. Mari atur opsi:*
-
-**99.** Sebuah restoran membebankan service 5% (dari subtotal) dan PPN 11% (dari subtotal + service). Bila subtotal Rp200.000, total bayar adalah …
-- A. Rp231.000
-- B. Rp232.000
-- C. Rp233.100
-- D. Rp222.000
-
-**Kunci: D**
-*Periksa: 200.000 × 1,05 × 1,11 = 210.000 × 1,11 = 233.100. C benar, bukan D. Mari fix sehingga D benar.*
-
-*Rencana sequence pos 99 = D. Saya perlu opsi D = 233.100 dan jawaban benarnya 233.100. Atau saya bisa ubah angka subtotal supaya total = angka yang saya tetapkan jadi D.*
 
 **99.** Sebuah restoran membebankan service 5% (dari subtotal) dan PPN 11% (dari subtotal + service). Bila subtotal Rp400.000, total bayar (dibulatkan ke ribuan terdekat) adalah …
 - A. Rp444.000

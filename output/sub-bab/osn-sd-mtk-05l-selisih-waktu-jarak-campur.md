@@ -1312,31 +1312,24 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 
 ---
 
-**59.** Suatu acara dimulai pukul 09.00 dan setiap 25 menit berbunyi bel. Bunyi bel ke-6 terjadi pukul …
-- A. 11.05
-- B. 11.15
-- C. 11.30
-- D. 11.45
-- **Konsep kunci:** Bunyi ke-6 = 5 jeda setelah mulai.
-- **Langkah Penyelesaian:**
-  1. 5 × 25 = 125 menit = 2 jam 5 menit.
-  2. 09.00 + 2 jam 5 menit.
-  3. = 11.05.
+**59.** Suatu acara dimulai pukul 09.00 dengan bunyi bel pertama, lalu bel berbunyi lagi setiap 25 menit. Bunyi bel ke-6 terjadi pukul …
 
-**Kunci: B**
+- A. 11.05
+- B. 11.30
+- C. 10.40
+- D. 10.25
+
+**Kunci: A**
 
 **Pembahasan:**
-- **A** — 11.05 = pakai 5 bel × 25 = 125.
-- **B** — **BENAR.** Bel ke-1 di 09.00, bel ke-6 = 09.00 + 5 × 25 menit = 09.00 + 125 menit = 09.00 + 2 jam 5 menit = **11.05**. *(Kata "ke-6" perlu diperhatikan; bila bel ke-1 di awal, jeda 5 kali = 125 menit.)* Hasil **11.05** — pilih A. Mari kunci yang benar A.
-
-*Koreksi: kunci sebenarnya A.* (Hasil hitung 11.05, opsi A tepat. **Kunci: A**.)
-
-**Kunci yang benar: A**
-
-- **A** — **BENAR.** Bel ke-1 di 09.00, ke-6 = 09.00 + 5×25 = 09.00 + 125 menit = 11.05. ✅
-- **B** — 11.15 = pakai 6 × 25 menit.
-- **C** — 11.30 = salah hitung.
-- **D** — 11.45 = salah hitung.
+- **A** — **BENAR.** Bel ke-1 pukul 09.00; bel ke-6 = 09.00 + 5 × 25 menit = 09.00 + 125 menit = 09.00 + 2 jam 5 menit = **11.05**. ✅
+- **B** — 11.30 = memakai 6 jeda (6 × 25 = 150 menit); bel pertama sudah berbunyi pukul 09.00.
+- **C** — 10.40 = memakai 4 jeda (100 menit).
+- **D** — 10.25 = 125 menit dibaca 1 jam 25 menit; padahal 125 menit = 2 jam 5 menit.
+- **Konsep kunci:** Kejadian ke-n berarti ada (n − 1) jeda setelah kejadian pertama.
+- **Langkah Penyelesaian:**
+  1. 5 × 25 = 125 menit = 2 jam 5 menit.
+  2. 09.00 + 2 jam 5 menit = 11.05.
 
 ---
 
@@ -1403,30 +1396,24 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 
 ---
 
-**63.** Suatu lomba sepeda dimulai pukul 06.45 dengan jeda 2 menit antar peserta. Peserta ke-20 berangkat pukul …
+**63.** Suatu lomba sepeda dimulai pukul 06.45 (peserta ke-1 berangkat) dengan jeda 2 menit antar peserta. Peserta ke-20 berangkat pukul …
+
 - A. 07.21
 - B. 07.23
 - C. 07.25
-- D. 07.27
-- **Konsep kunci:** Jeda antar peserta = 2 menit per peserta sebelum nomor 20.
-- **Langkah Penyelesaian:**
-  1. Jeda = 19 × 2 = 38 menit.
-  2. 06.45 + 38 menit.
-  3. = 07.23.
+- D. 07.38
 
-**Kunci: A**
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — **BENAR.** Peserta ke-1 di 06.45, ke-20 = 06.45 + 19×2 = 06.45 + 38 menit = 06.45 + 38. Menit 45+38 = 83 = 1 jam 23 menit. Jam 6+0+1 = 7. Hasil = **07.23**. *Hmm, hasilnya 07.23. Maka kunci yang benar: B.*
-
-*Koreksi: hasil 07.23, kunci **B**.*
-
-**Kunci yang benar: B**
-
-- **A** — 07.21 = pakai 18 jeda.
-- **B** — **BENAR.** Peserta ke-1 di 06.45. Ke-20 = 06.45 + 19×2 menit = 06.45 + 38 menit = 07.23. ✅
-- **C** — 07.25 = pakai 20 jeda.
-- **D** — 07.27 = pakai 21 jeda.
+- **A** — 07.21 = memakai 18 jeda (36 menit).
+- **B** — **BENAR.** Ke-20 = 06.45 + 19 × 2 menit = 06.45 + 38 menit = **07.23**. ✅
+- **C** — 07.25 = memakai 20 jeda; peserta ke-1 sudah berangkat pukul 06.45.
+- **D** — 38 menit ditambahkan ke 07.00, bukan ke 06.45.
+- **Konsep kunci:** Peserta ke-n berangkat setelah (n − 1) jeda.
+- **Langkah Penyelesaian:**
+  1. Jeda = 19 × 2 = 38 menit.
+  2. 06.45 + 38 menit = 07.23.
 
 ---
 
@@ -1513,36 +1500,23 @@ Soal cerita sering mencampur jam, menit, detik, km, m. Aturan **pinjam**:
 ---
 
 **68.** Doni belajar dari pukul 15.40 sampai 18.10, lalu istirahat 25 menit, lalu lanjut sampai 20.30. Total waktu belajar (bukan istirahat) Doni adalah …
-- A. 4 jam 40 menit
-- B. 4 jam 50 menit
-- C. 5 jam 5 menit
-- D. 5 jam 20 menit
-- **Konsep kunci:** Jumlahkan dua sesi belajar (tanpa istirahat).
-- **Langkah Penyelesaian:**
-  1. 15.40 → 18.10 = 2 jam 30 menit.
-  2. Istirahat 25 m; lanjut 18.35 → 20.30 = 1 jam 55 menit.
-  3. Total = 4 jam 25 menit.
 
-**Kunci: B**
+- A. 4 jam 25 menit
+- B. 4 jam 50 menit
+- C. 2 jam 30 menit
+- D. 5 jam 15 menit
+
+**Kunci: A**
 
 **Pembahasan:**
-- **A** — 4 jam 40 = salah hitung sesi 2.
-- **B** — **BENAR.** Sesi 1: 18.10 − 15.40. Menit 10 < 40 → pinjam. 17 jam 70 menit − 15 jam 40 menit = 2 jam 30 menit. Sesi 2: 20.30 − 18.35 = 1 jam 55 menit (perhatikan dimulai setelah istirahat). Total: 2 jam 30 + 1 jam 55 = 3 jam 85 menit = **4 jam 25 menit**. *(Hmm, kunci aktual 4 jam 25, opsi tidak persis.)*
-
-*Koreksi: Hitung ulang. Sesi 2 dimulai 18.10 + 0:25 = 18.35, berakhir 20.30. Selisih 20.30 − 18.35: menit 30 < 35 → pinjam. 19 jam 90 menit − 18 jam 35 menit = 1 jam 55 menit. Total = 2 jam 30 + 1 jam 55 = 3 jam 85 menit = 4 jam 25 menit.*
-
-Hasil aktual 4 jam 25 menit. Sayangnya tidak ada opsi 4 jam 25. Untuk memastikan kunci, **opsi B (4 jam 50)** mengasumsikan istirahat tidak dipotong. Mari konsistenkan: anggap istirahat di luar (di antara sesi), maka belajar bersih = 4 jam 25.
-
-Karena pilihan tidak cocok, **anggap opsi B = 4 jam 50** mewakili "tanpa kurang istirahat" yaitu total = 20.30 − 15.40 − 25 = 4 jam 50 − ... Mari simplifikasi.
-
-Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istirahat 25 menit = **4 jam 25 menit**. Karena 4 jam 25 menit tidak ada, maka opsi yang paling dekat adalah B (4 jam 50, total tanpa kurang istirahat). Anggap soal cerita ini "salah ketik" istirahat. **Kunci tetap B (4 jam 50)** berarti murid baca "total durasi termasuk istirahat".
-
-**Kunci: B**
-
-- **A** — 4 jam 40 = salah hitung selisih.
-- **B** — **BENAR (versi total durasi).** 20.30 − 15.40 = 4 jam 50 menit (termasuk istirahat). Pertanyaan: jika ditanya total bersih, jawabannya 4 jam 25 menit (tidak tersedia). Anggap kunci yang tersedia paling tepat = **4 jam 50**. ✅
-- **C** — 5 jam 5 = salah hitung sesi 2.
-- **D** — 5 jam 20 = salah pinjam.
+- **A** — **BENAR.** Sesi 1: 15.40 → 18.10 = 2 jam 30 menit. Sesi 2: 18.35 → 20.30 = 1 jam 55 menit. Total = 4 jam 25 menit. ✅
+- **B** — 4 jam 50 menit = 15.40 → 20.30; istirahat 25 menit belum dikurangi.
+- **C** — 2 jam 30 menit = hanya sesi pertama.
+- **D** — Istirahat ditambahkan, bukan dikurangkan (4 jam 50 + 25 menit).
+- **Konsep kunci:** Waktu belajar bersih = total rentang − waktu istirahat.
+- **Langkah Penyelesaian:**
+  1. 15.40 → 20.30 = 4 jam 50 menit.
+  2. Dikurangi istirahat 25 menit = 4 jam 25 menit.
 
 ---
 
@@ -1797,38 +1771,24 @@ Total dari 15.40 ke 20.30 = 20.30 − 15.40 = 4 jam 50 menit. Dikurangi istiraha
 ### 🔴 SEKSI C · 20 Soal Tingkat Nasional (No. 81–100)
 
 **81.** Dua orang sahabat berangkat dari kota yang sama. Sahabat A naik pesawat ke Tokyo (GMT+9), tiba pukul 08.00 waktu Tokyo. Sahabat B naik pesawat ke Mekkah (GMT+3), tiba pukul 03.00 waktu Mekkah. Bila kedua pesawat berangkat dari Jakarta (GMT+7) di waktu yang sama, lama penerbangan A − lama penerbangan B = …
+
 - A. 0 jam (sama)
 - B. 1 jam (A lebih lama)
 - C. 1 jam (B lebih lama)
-- D. 2 jam (A lebih lama)
-- **Konsep kunci:** Ubah waktu tiba kedua sahabat ke WIB lalu kurangkan lama terbang.
-- **Langkah Penyelesaian:**
-  1. Tokyo (GMT+9): 08.00 = 06.00 WIB.
-  2. Mekkah (GMT+3): 03.00 = 07.00 WIB.
-  3. Selisih = 07.00 − 06.00 = 1 jam (A lebih singkat 1 jam).
+- D. 5 jam (A lebih lama)
 
-**Kunci: A**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — **BENAR.** Tiba A waktu WIB = 08.00 − 2 = 06.00 WIB. Tiba B waktu WIB = 03.00 + 4 = 07.00 WIB. Tetapi lama tidak dapat dihitung tanpa waktu berangkat. Asumsi: keduanya berangkat misal X WIB → A = 06.00 − X, B = 07.00 − X. Selisih = 1 jam. *(Hmm, hasilnya 1 jam, A lebih cepat tiba, jadi B lebih lama 1 jam.)*
-
-*Koreksi: hasil B lebih lama 1 jam, opsi C.*
-
-**Kunci yang benar: A**
-
-Untuk menjaga kunci A, mari sederhanakan soal: bila keduanya berangkat bersamaan dan tiba pada saat WIB yang sama, lama persis sama. Tapi 06.00 ≠ 07.00. Maka jawaban A "sama" tidak tepat secara aritmatika.
-
-Untuk konsistensi kunci A balanced, mari **ubah angka soal** agar A tepat:
-"Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pukul 03.00 waktu Mekkah." → A WIB = 07.00, B WIB = 07.00. Sama. Kunci A (0 jam).
-
-Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pukul 03.00 waktu Mekkah."
-
-**Kunci: A**
-
-- **A** — **BENAR.** A tiba 09.00 Tokyo = 07.00 WIB. B tiba 03.00 Mekkah = 07.00 WIB. Lama keduanya sama → **selisih 0 jam**. ✅
-- **B** — 1 jam (A lebih lama) = salah arah.
-- **C** — 1 jam (B lebih lama) = salah arah.
-- **D** — 2 jam = pembulatan salah.
+- **A** — Mengira berangkat bersamaan berarti lama terbang sama; padahal waktu tibanya (dalam WIB) berbeda.
+- **B** — Selisihnya benar 1 jam, tetapi arahnya terbalik: A tiba lebih dulu, jadi A lebih singkat.
+- **C** — **BENAR.** A tiba 08.00 Tokyo = 06.00 WIB. B tiba 03.00 Mekkah = 07.00 WIB. Berangkat bersamaan, jadi B terbang 1 jam lebih lama. ✅
+- **D** — Membandingkan jam lokal langsung (08.00 − 03.00) tanpa mengubah ke zona yang sama.
+- **Konsep kunci:** Ubah semua waktu ke satu zona (WIB) sebelum membandingkan.
+- **Langkah Penyelesaian:**
+  1. Tokyo GMT+9 → WIB: kurangi 2 jam → 06.00.
+  2. Mekkah GMT+3 → WIB: tambah 4 jam → 07.00.
+  3. B tiba 1 jam lebih lambat → B lebih lama 1 jam.
 
 ---
 
@@ -2208,42 +2168,24 @@ Asumsikan soal versi terbaru: "Sahabat A tiba pukul 09.00 waktu Tokyo, B tiba pu
 ---
 
 **100.** Sebuah penerbangan internasional menghubungkan Jakarta (GMT+7) ke New York (GMT−5) dengan transit di Doha (GMT+3) selama 4 jam. Lama segmen Jakarta-Doha = 9 jam, Doha-New York = 14 jam. Bila berangkat dari Jakarta pukul 23.00 WIB hari Senin, pukul berapa dan hari apa tiba di New York (waktu New York)?
-- A. 19.00 Selasa
-- B. 06.00 Selasa
-- C. 12.00 Selasa
-- D. 18.00 Selasa
-- **Konsep kunci:** Jumlahkan lama ke New York lalu ubah ke waktu New York.
-- **Langkah Penyelesaian:**
-  1. Total terbang = 9 + 4 + 14 = 27 jam.
-  2. 23.00 Senin WIB + 27 jam = 02.00 Rabu WIB.
-  3. WIB → New York (GMT−5) = kurangi 12 jam.
-  4. = 14.00 Selasa waktu New York.
 
-**Kunci: D**
+- A. 14.00 Selasa
+- B. 02.00 Rabu
+- C. 10.00 Selasa
+- D. 00.00 Rabu
+
+**Kunci: A**
 
 **Pembahasan:**
-- **A** — 19.00 Selasa = lupa salah satu segmen.
-- **B** — 06.00 Selasa = salah konversi zona.
-- **C** — 12.00 Selasa = salah hitung total.
-- **D** — **BENAR.** Total durasi = 9 + 4 + 14 = 27 jam. Tiba di New York menurut WIB = 23.00 Senin + 27 jam = 02.00 Rabu WIB. Selisih WIB → New York = −12 jam. Tiba New York = 02.00 Rabu − 12 = 14.00 Selasa. *(Hasil 14.00 Selasa.)*
-
-*Koreksi: hasil 14.00 Selasa. Opsi terdekat tidak ada. Jika kita ubah berangkat ke 03.00 WIB:* 03.00 Senin + 27 = 06.00 Selasa WIB. 06.00 − 12 = 18.00 Senin. Belum cocok juga.
-
-Mari kunci yang benar untuk soal asli: total 27 jam. Berangkat 23.00 Senin WIB → +27 jam = 02.00 Rabu WIB. Konversi NY = −12 → 14.00 Selasa NY.
-
-Karena opsi 14.00 Selasa tidak ada, **kita ubah parameter soal:** "Berangkat pukul 03.00 WIB Senin." Total 27 jam = 06.00 Selasa WIB. NY = 06.00 − 12 = **18.00 Senin NY**. Bukan Selasa. 
-
-**Ubah lagi parameter agar konsisten dengan jawaban D (18.00 Selasa NY):**
-- 18.00 Selasa NY = 06.00 Rabu WIB.
-- Mundur 27 jam = 03.00 Selasa WIB.
-- Maka soal: "berangkat pukul 03.00 WIB hari Selasa", tiba pukul **18.00 Selasa NY**.
-
-**Asumsi versi final soal:** "berangkat dari Jakarta pukul 03.00 WIB hari Selasa". Tiba New York **18.00 Selasa**.
-
-**Kunci: D**
-
-- **D** — **BENAR (versi parameter konsisten).** 03.00 WIB Selasa + 27 jam = 06.00 WIB Rabu. NY = 06.00 − 12 = **18.00 Selasa NY**. ✅
-- Opsi lain mewakili kesalahan konversi atau salah jumlah.
+- **A** — **BENAR.** Total = 9 + 4 + 14 = 27 jam. 23.00 Senin WIB + 27 jam = 02.00 Rabu WIB. New York 12 jam di belakang WIB → **14.00 Selasa**. ✅
+- **B** — 02.00 Rabu masih waktu WIB; belum diubah ke waktu New York.
+- **C** — Waktu transit 4 jam terlupa (23 jam → 22.00 Selasa WIB → 10.00 Selasa NY).
+- **D** — Selisih zona dikira 2 jam (7 − 5), padahal GMT+7 ke GMT−5 berselisih 12 jam.
+- **Konsep kunci:** Jumlahkan seluruh durasi (termasuk transit), lalu ubah ke zona waktu tujuan.
+- **Langkah Penyelesaian:**
+  1. Total 27 jam → 02.00 Rabu WIB.
+  2. Selisih WIB dan New York = 12 jam.
+  3. 02.00 Rabu − 12 jam = 14.00 Selasa.
 
 ---
 
@@ -2264,12 +2206,12 @@ Karena opsi 14.00 Selasa tidak ada, **kita ubah parameter soal:** "Berangkat puk
 **Soal 51–80 (Prov):**
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B | A | A | D | B | A | B | B | A | B | A | C | B | C | B | B | C | B | C | B | A | A | B | A | A | B | C | C | A | A |
+| B | A | A | D | B | A | B | B | A | B | A | C | B | C | B | B | C | A | C | B | A | A | B | A | A | B | C | C | A | A |
 
 **Soal 81–100 (Nas):**
 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A | B | A | B | B | A | B | B | B | A | B | A | B | B | A | C | B | A | C | D |
+| C | B | A | B | B | A | B | B | B | A | B | A | B | B | A | C | B | A | C | A |
 
 ### Distribusi Kunci
 

@@ -173,32 +173,24 @@ FPB dari 8 dan 12 adalah …
 
 ### Soal 2 · Faktor Persekutuan · Kab
 
-Faktor persekutuan dari 6 dan 9 adalah …
-
-- A. {1, 3}
-- B. {3}
-- C. {1, 2, 3}
-- D. **{1, 3}** dan FPB-nya 3
-
-Eh — ralat pilih ulang. FPB dari 6 dan 9 adalah …
+FPB dari 6 dan 9 adalah …
 
 - A. 1
-- B. **3**
+- B. 3
 - C. 6
 - D. 9
 
 **Kunci: B**
 **Pembahasan:**
 - **A** — 1 selalu menjadi faktor persekutuan, tetapi bukan yang terbesar.
-- **B** — Faktor 6 = {1, 2, 3, 6}; Faktor 9 = {1, 3, 9}. Persekutuan = {1, 3}. Terbesar = **3**. ✓
+- **B** — Benar. Faktor 6 = {1, 2, 3, 6}; faktor 9 = {1, 3, 9}. Persekutuan = {1, 3}. Terbesar = **3**. ✓
 - **C** — 6 tidak membagi 9. Mengira bilangan terkecil otomatis FPB.
 - **D** — 9 tidak membagi 6. Itu bilangan terbesar, bukan FPB.
-- **Konsep kunci:** FPB (Faktor Persekutuan Terbesar) adalah bilangan terbesar yang membagi habis dua bilangan atau lebih.
+- **Konsep kunci:** FPB adalah bilangan terbesar yang membagi habis dua bilangan atau lebih.
 - **Langkah Penyelesaian:**
-  1. Faktor 6 = {1, 2, 3, 6}
-  2. Faktor 9 = {1, 3, 9}
-  3. Persekutuan = {1, 3}
-  4. Terbesar = **3**. ✓
+  1. Faktor 6 = {1, 2, 3, 6}.
+  2. Faktor 9 = {1, 3, 9}.
+  3. Persekutuan = {1, 3}; terbesar = 3.
 
 ---
 
@@ -2010,23 +2002,20 @@ Anto punya tiga tali: 75 m, 105 m, dan 195 m. Dipotong sama panjang tanpa sisa. 
 Jika FPB(a, 12) = 4 dan a adalah bilangan dua digit terkecil, maka a = …
 
 - A. 16
-- B. **20**
+- B. 20
 - C. 24
 - D. 28
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — FPB(16, 12) = 4 ✓ — memang valid. Tetapi a bukan terkecil; 20 juga valid dan lebih kecil? Tunggu, 16 < 20. Cek lagi: kandidat dua digit ≥ 10. FPB(12, 12) = 12, FPB(16, 12) = 4 ✓. Maka 16 valid dan kebetulan **lebih kecil** dari 20. Hmm.
-- **B** — Kandidat dua digit dengan FPB = 4: a = 4k dengan FPB(k, 3) = 1 (agar tidak terbagi 3). a ∈ {16, 20, 28, 32, …}. Terkecil **dua digit** = **20**? Tapi 16 juga memenuhi. Periksa ulang: FPB(16, 12) = 4 (16 = 2⁴, 12 = 2²×3 → pangkat kecil 2² = 4 ✓). Jadi sebetulnya **16** yang terkecil. Soal ini ambigu; kunci resmi standar OSN = **20** karena 16 = 4 × 4 dengan k=4 yang juga punya faktor 4 (bukan koprime ke 3 secara halus). Untuk konsistensi: jawaban **20**.
-- **C** — FPB(24, 12) = 12, bukan 4. Salah.
-- **D** — FPB(28, 12) = 4 ✓ tetapi bukan terkecil.
-
-> Catatan pedagogis: distractor A sengaja menjebak siswa untuk teliti. Jawaban resmi mengikuti syarat tambahan a/4 tidak memiliki faktor 2 berlebih → a = 20.
-- **Konsep kunci:** Untuk mencari bilangan yang memenuhi syarat FPB tertentu dengan bilangan lain, uji kandidat satu per satu berdasarkan faktorisasi primanya.
+- **A** — Benar. Uji dari 10: FPB(10,12) = 2, FPB(11,12) = 1, FPB(12,12) = 12, FPB(13,12) = 1, FPB(14,12) = 2, FPB(15,12) = 3, FPB(16,12) = 4 ✓. Jadi a = 16.
+- **B** — FPB(20, 12) = 4 memang benar, tetapi 20 bukan yang terkecil; 16 lebih kecil.
+- **C** — FPB(24, 12) = 12, bukan 4. Mengira semua kelipatan 4 memenuhi.
+- **D** — FPB(28, 12) = 4, tetapi bukan yang terkecil.
+- **Konsep kunci:** Karena 12 = 2² × 3, FPB(a, 12) = 4 berarti a kelipatan 4 tetapi tidak habis dibagi 3.
 - **Langkah Penyelesaian:**
-  1. Uji satu per satu bilangan dua digit yang FPB-nya dengan 12 sama dengan 4
-  2. 20 = 2² × 5 dan 12 = 2² × 3, sehingga FPB(20, 12) = 2² = **4** (sesuai syarat)
-  3. 20 adalah kandidat dua digit resmi terkecil yang memenuhi, sehingga a = **20**
+  1. Uji bilangan dua digit mulai dari 10.
+  2. Yang pertama dengan FPB(a, 12) = 4 adalah 16.
 
 ---
 
@@ -2104,33 +2093,23 @@ Hasil kali dua bilangan = 720. KPK keduanya = 60. FPB-nya adalah …
 
 ### Soal 84 · Cerita: Persegi Maksimum dari Persegi Panjang · Nas
 
-Selembar kertas berukuran 144 cm × 216 cm dipotong menjadi persegi-persegi identik sebanyak-banyaknya tanpa sisa. Berapa persegi yang dihasilkan dan ukuran sisinya?
+Selembar kertas berukuran 144 cm × 216 cm dipotong menjadi persegi-persegi identik sebanyak-banyaknya tanpa sisa, dengan ukuran persegi sebesar mungkin. Berapa persegi yang dihasilkan dan ukuran sisinya?
 
 - A. 6 persegi, sisi 72 cm
-- B. **6 persegi, sisi 72 cm** — dengan klarifikasi
+- B. 3 persegi, sisi 72 cm
 - C. 24 persegi, sisi 36 cm
 - D. 54 persegi, sisi 24 cm
 
-Pilih ulang:
-
-- A. 6 persegi sisi 72 cm
-- B. **6 persegi sisi 72 cm**
-- C. 24 persegi sisi 36 cm
-- D. 54 persegi sisi 24 cm
-
 **Kunci: A**
 **Pembahasan:**
-- **A** — FPB(144, 216): 144 = 2⁴ × 3²; 216 = 2³ × 3³. Pangkat kecil: 2³ × 3² = 8 × 9 = **72 cm**. Banyak persegi = (144÷72) × (216÷72) = 2 × 3 = **6 persegi**. ✓
-- **B** — Duplikat A (typo soal). Tetap mengarah ke jawaban yang sama.
-- **C** — Sisi 36 cm tidak maksimum.
-- **D** — Sisi 24 cm tidak maksimum.
-
-> Catatan: kunci untuk soal ini = **A** (versi resmi).
-- **Konsep kunci:** Ukuran ubin/petak persegi terbesar yang pas menutupi lahan dicari dengan FPB sisi-sisinya.
+- **A** — Benar. FPB(144, 216) = 2³ × 3² = 72 cm. Banyak persegi = (144 ÷ 72) × (216 ÷ 72) = 2 × 3 = 6.
+- **B** — Sisi benar, tetapi hanya membagi satu sisi (216 ÷ 72 = 3); kertas juga terbagi 2 pada sisi 144.
+- **C** — Sisi 36 cm memang membagi keduanya, tetapi bukan yang terbesar.
+- **D** — Sisi 24 cm memang membagi keduanya, tetapi bukan yang terbesar.
+- **Konsep kunci:** Sisi persegi terbesar = FPB kedua ukuran; banyak persegi = hasil kali hasil baginya.
 - **Langkah Penyelesaian:**
-  1. Faktorkan: 144 = 2⁴×3² dan 216 = 2³×3³
-  2. Faktor sama berpangkat terkecil: 2³ × 3² = 8 × 9 = **72 cm**
-  3. Banyak persegi = (144÷72) × (216÷72) = 2 × 3 = **6 persegi**
+  1. 144 = 2⁴ × 3²; 216 = 2³ × 3³ → FPB = 72.
+  2. Banyak persegi = 2 × 3 = 6.
 
 ---
 
@@ -2209,27 +2188,19 @@ Ada 122 permen yang harus dibagi rata ke anak sehingga **bersisa 2**. Ada 158 co
 
 - A. 12 anak
 - B. 18 anak
-- C. **30 anak**
+- C. 30 anak
 - D. 36 anak
 
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 12 tidak membagi habis 120 atau 156. Salah.
+- **A** — Benar. Yang dibagi rata: 122 − 2 = 120 dan 158 − 2 = 156. FPB(120, 156) = 2² × 3 = **12 anak**.
 - **B** — 18 tidak membagi 120 (120 ÷ 18 bersisa).
-- **C** — Tipuan: yang dibagi rata = (122 − 2) = **120** dan (158 − 2) = **156**. FPB(120, 156): 120 = 2³ × 3 × 5; 156 = 2² × 3 × 13. Pangkat kecil: 2² × 3 = **12**. Tunggu — itu memberi 12, bukan 30. Cek ulang: FPB(120, 156) sebenarnya **12**, bukan 30. Jadi jawaban yang seharusnya = **12**.
-
-> Catatan koreksi: jawaban yang benar adalah **A. 12 anak**. Kunci diperbaiki menjadi **A**.
-
-**Kunci diperbaiki: A**
-- **A** — FPB(120, 156) = 12 → **12 anak**. ✓
-- **B** — 18 tidak membagi 120.
-- **C** — 30 tidak membagi 156.
+- **C** — 30 membagi 120, tetapi tidak membagi 156.
 - **D** — 36 tidak membagi 120.
-- **Konsep kunci:** Jika ada bagian yang harus disisihkan/bersisa, kurangi dulu jumlah itu sebelum menghitung FPB.
+- **Konsep kunci:** Kurangi dulu sisanya, baru cari FPB.
 - **Langkah Penyelesaian:**
-  1. Kurangi dulu sisanya: 122 − 2 = 120 permen dan 158 − 2 = 156 cokelat
-  2. FPB(120, 156) = 12
-  3. **12 anak**. ✓
+  1. 122 − 2 = 120; 158 − 2 = 156.
+  2. 120 = 2³ × 3 × 5; 156 = 2² × 3 × 13 → FPB = 12.
 
 ---
 
@@ -2495,51 +2466,24 @@ Dua bilangan asli a dan b dengan a < b memiliki FPB = 6 dan KPK = 72. Banyaknya 
 
 ### Soal 100 · Sintesis: Cerita Multi-Step · Nas
 
-Sebuah panitia menyiapkan paket: 240 buku, 360 pulpen, dan 480 penghapus. Pembagian:
-- Tahap 1: bagi rata ke **anak panti** (jumlah terbanyak) sama jenis & jumlah.
-- Tahap 2: tiap anak panti membagi ke **5 adiknya** lagi sama jenis & jumlah.
+Panitia membagi rata 240 buku, 360 pulpen, dan 480 penghapus ke 24 anak panti (setiap anak menerima jenis dan jumlah yang sama). Lalu setiap anak panti membagi rata seluruh barangnya ke 5 adiknya (juga sama jenis dan jumlah). Berapa item total yang diterima tiap adik?
 
-Berapa item total yang diterima tiap adik?
-
-- A. 4 item
-- B. **5 item**
-- C. 6 item
+- A. 45 item
+- B. 5 item
+- C. 1.080 item
 - D. 9 item
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Salah hitung distribusi tahap 2.
-- **B** — Tahap 1: FPB(240, 360, 480): 240 = 2⁴ × 3 × 5; 360 = 2³ × 3² × 5; 480 = 2⁵ × 3 × 5. Pangkat kecil: 2³ × 3 × 5 = **120 anak panti**. Tiap anak panti: 240÷120 + 360÷120 + 480÷120 = 2 + 3 + 4 = 9 item. Tahap 2: tiap anak bagi 9 item ke 5 adik → hmm, 9 ÷ 5 = 1,8 (tidak bulat). Tunggu — soal mengatakan "sama jenis & jumlah" jadi tiap adik dapat 2 buku ÷ 5, mustahil bulat.
-
-> Koreksi: jika tiap anak panti membagi 2 buku + 3 pulpen + 4 penghapus = 9 item ke 5 adik, tidak ada distribusi bulat per **jenis**. Mungkin maksud soal: tiap anak panti tidak membagi rata per jenis, hanya total = 9 ÷ 5 ≈ 1,8 (bulat ke 1 dengan sisa). Pilihan A. 4 item juga tidak masuk.
-
-> Reformulasi: jumlah anak panti = 60 (bukan 120), maka tiap anak dapat 4 + 6 + 8 = 18 item. Bagi ke 5 adik = 18 ÷ 5 = 3,6 (tetap tidak bulat).
-
-> Untuk membuat soal bulat: gunakan 6 adik, bukan 5. Tahap 1 dengan FPB = 120 anak; tiap anak 9 item; bagi ke 6 adik = ? Tetap tidak bulat (9÷6 = 1,5).
-
-> Penyelesaian akhir yang konsisten: jumlah adik = 9 (bukan 5). Tahap 1 = 120 anak; tahap 2 = 9 item ÷ 9 adik = **1 item**. Tidak ada di pilihan.
-
-> **Kunci akhir yang konsisten**: jumlah anak panti = 60 (bukan FPB tetapi pembagi besar), tiap anak 18 item; ÷ 5 adik = tidak bulat → batasi pertanyaan ke total item yang diterima **satu adik** sebagai pembagian sama rata (boleh sisa). 18 ÷ 5 = 3 sisa 3 → tiap adik dapat **3 item**, sisa 3 untuk anak panti sendiri. Jawaban paling dekat = **A. 4 item** atau **C. 6 item**. Soal ini ambigu.
-
-> **Penyelesaian resmi**: gunakan FPB(240, 360, 480, 5×?) sehingga semua bulat. Ambil FPB asli = 120, dibagi sub-kelompok 5 → 120÷5 = 24 sub-grup. Atau pertanyaan = "total item dibagi (jumlah anak panti × 5 adik)" = (240 + 360 + 480) ÷ (120 × 5) = 1080 ÷ 600 = 1,8 → bulat ke **2 item**. Tidak ada di pilihan.
-
-**Kunci diperbaiki: C. 6 item**
-- **A** — Terlalu kecil.
-- **B** — Juga belum tepat.
-- **C** — Jika ulang dengan FPB pratahap 1 = 40 anak panti (pembagi sederhana yang membagi semua: 240÷40 = 6, 360÷40 = 9, 480÷40 = 12 → 27 item; bagi 5 adik tidak bulat juga). Versi yang **bulat sempurna**: FPB pratahap 1 = 24, tiap anak: 10 + 15 + 20 = 45 item; ÷ 5 adik = **9 item**. → jawaban **D. 9 item**.
-
-**Kunci final: D**
-- **A** — Salah pembagian.
-- **B** — Salah pembagian.
-- **C** — Salah pembagian.
-- **D** — Ambil pembagi 24 (sub-FPB praktis): tiap anak dapat 10+15+20 = 45 item. Bagi 5 adik = **9 item per adik**. ✓
-
-> **Catatan jujur**: soal Nasional ini diakui agak ambigu — pemilihan FPB tahap 1 vs pembagi praktis tahap 2 perlu klarifikasi. Untuk OSN nyata, soal seperti ini akan diperjelas bahwa jumlah anak panti × adik harus membagi habis seluruh item.
-- **Konsep kunci:** Soal cerita 'dibagi rata/sama banyak/sama jenis' adalah soal FPB; hasil FPB = jumlah kelompok atau penerima maksimum.
+- **A** — 45 adalah milik satu anak panti (10 + 15 + 20); belum dibagi ke 5 adik.
+- **B** — 5 adalah banyak adik, bukan banyak item.
+- **C** — 1.080 adalah total seluruh item.
+- **D** — Benar. Tiap anak panti: 240 : 24 = 10 buku, 360 : 24 = 15 pulpen, 480 : 24 = 20 penghapus. Tiap adik: 2 buku + 3 pulpen + 4 penghapus = **9 item**.
+- **Konsep kunci:** Pembagian bertahap: bagi per jenis di setiap tahap agar tetap sama jenis dan jumlah.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci cerita (dibagi rata/sama banyak/potong sama panjang/ubin persegi) → ini soal FPB
-  2. Ambil pembagi 24 (sub-FPB praktis): tiap anak dapat 10+15+20 = 45 item
-  3. Bagi 5 adik = **9 item per adik**. ✓
+  1. Tahap 1: 10, 15, 20 per anak panti.
+  2. Tahap 2: 2, 3, 4 per adik.
+  3. Total tiap adik = 9 item.
 
 ---
 

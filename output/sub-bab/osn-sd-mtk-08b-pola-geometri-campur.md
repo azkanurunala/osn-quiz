@@ -1120,28 +1120,6 @@ Yuk mulai latihan 100 soal! Soal berurutan dari yang ringan ke berat.
 
 **58.** Suku ke-3 dan ke-7 berbanding 1 : 16. Berapa rasio (positif) barisan tersebut?
 - A. 4
-- B. √2
-- C. 16
-- D. 2
-
-**Kunci: B**
-
-**Pembahasan:**
-- U₇ ÷ U₃ = r⁴ = 16 → r = ∜16 = **2**... tunggu, ∜16 = 2. Tapi opsi B = √2 dan D = 2. r = **2**.
-
-Maaf, perbaikan: U₇/U₃ = r^(7−3) = r⁴ = 16 → r⁴ = 16 → r = 2.
-
-- **A. 4** → salah; r² = 16 jika dipikir hanya 2 langkah.
-- **B. √2** → salah; jika dipikir r⁸ = 16.
-- **C. 16** → salah; r itu sendiri 16 (lupa pangkat).
-- **D. 2** → BENAR (r⁴ = 16 → r = 2).
-
-**Kunci diperbarui: D** ... Mohon maaf, ini kesalahan. Untuk konsistensi balanced, soal **58** kuncinya **D**, tetapi rencana awal saya menetapkan B di posisi 58. Saya akan ubah pembahasan agar pertanyaan menghasilkan B = 2.
-
-Versi final soal **58:**
-
-**58.** Suku ke-3 dan ke-7 berbanding 1 : 16. Berapa rasio (positif) barisan tersebut?
-- A. 4
 - B. 2
 - C. 16
 - D. √2
@@ -1283,22 +1261,6 @@ Versi final soal **58:**
 
 ---
 
-**66.** Pada barisan geometri, U₄ : U₂ = 9 : 1. Jika U₁ = 5, maka U₆ = ....
-- A. 1.215
-- B. 729
-- C. 135
-- D. 405
-
-**Kunci: D**
-
-**Pembahasan:**
-- U₄ ÷ U₂ = r² = 9 → r = 3 (positif).
-- U₆ = U₁ × r⁵ = 5 × 243 = **1.215**.
-
-Tunggu, kunci ditetapkan D di posisi ini. 1.215 tidak D. Mari perbaiki opsi atau soalnya.
-
-Versi final soal **66:**
-
 **66.** Pada barisan geometri, U₄ : U₂ = 9 : 1. Jika U₁ = 5, maka U₅ = ....
 - A. 1.215
 - B. 729
@@ -1414,22 +1376,6 @@ Versi final soal **66:**
 - A. 105 cm
 - B. 60 cm
 - C. 135 cm
-- D. 142,5 cm
-
-**Kunci: D**
-
-**Pembahasan:**
-- Pantul 1 = 80 × ¾ = 60 ; Pantul 2 = 60 × ¾ = 45 ; Pantul 3 = 45 × ¾ = 33,75.
-- Jumlah = 60 + 45 + 33,75 = **138,75**.
-
-Hmm 138,75 tidak D. Ada error. Mari periksa: 80 × ¾ = 60. 60 × ¾ = 45. 45 × ¾ = 33,75. Total = 138,75. Mari perbaiki opsi:
-
-Versi final soal **72:**
-
-**72.** Sebuah bola memantul dari 80 cm dengan rasio pantul ¾. Total tinggi setelah pantulan ke-1, 2, dan 3 dijumlahkan = ....
-- A. 105 cm
-- B. 60 cm
-- C. 135 cm
 - D. 138,75 cm
 
 **Kunci: D**
@@ -1437,7 +1383,7 @@ Versi final soal **72:**
 **Pembahasan:**
 - Pantul 1 = 80 × ¾ = 60 cm. Pantul 2 = 60 × ¾ = 45 cm. Pantul 3 = 45 × ¾ = 33,75 cm.
 - Jumlah = 60 + 45 + 33,75 = **138,75 cm**.
-- **A. 105 cm** → salah; hanya menjumlah dua pantul terakhir + asal-asalan.
+- **A. 105 cm** → salah; hanya pantulan ke-1 dan ke-2 (60 + 45), pantulan ke-3 terlupa.
 - **B. 60 cm** → salah; pantul 1 saja.
 - **C. 135 cm** → salah; lupa pecahan 33,75 dibulatkan jadi 30.
 - **D. 138,75 cm** → BENAR.
@@ -1633,28 +1579,6 @@ Versi final soal **72:**
 
 ---
 
-**83.** Diberikan barisan geometri positif: U₂ = 6 ; U₅ + U₆ + U₇ = 4.374. Maka rasionya = ....
-- A. 3
-- B. 2
-- C. 4
-- D. 9
-
-**Kunci: A**
-
-**Pembahasan:**
-- U₅ + U₆ + U₇ = U₅(1 + r + r²) = U₁ × r⁴ × (1 + r + r²) = 4.374.
-- U₁ = U₂/r = 6/r. Maka (6/r) × r⁴ × (1+r+r²) = 6 r³ (1+r+r²) = 4.374 → r³(1+r+r²) = 729.
-- Coba r = 3: 27 × (1+3+9) = 27 × 13 = 351. Tidak cocok.
-- Coba lagi: r³ (1 + r + r²) = r³ + r⁴ + r⁵.
-- r = 3: 27 + 81 + 243 = 351. Tidak 729.
-- Mari hitung U₅, U₆, U₇ dengan r = 3, U₁ = 2: U₅ = 2 × 81 = 162; U₆ = 486; U₇ = 1.458. Jumlah = 2.106. Bukan 4.374.
-- Coba r = 3, U₂ = 6, U₁ = 2 lebih spesifik. Hitung U₆+U₇+U₈: 486 + 1.458 + 4.374 = 6.318. Bukan.
-- Coba r = 3 dengan soal "U₅+U₆+U₇" = 4.374. Hmm, 4.374 = 2 × 2.187 = 2 × 3⁷. Jika U₇ = 4.374 sendiri, U₁ = 2.
-
-Mari saya sesuaikan soal. Sederhana: cukup minta U₂ = 6 dan U₇ = 4.374. r dipilih sehingga balanced.
-
-Versi final soal **83:**
-
 **83.** Diberikan barisan geometri positif: U₂ = 6 dan U₇ = 1.458. Tentukan rasionya!
 - A. 3
 - B. 6
@@ -1674,27 +1598,6 @@ Versi final soal **83:**
 ---
 
 **84.** Tiga bilangan positif yang berbeda membentuk barisan geometri. Jumlah ketiganya adalah 21 dan hasil kalinya 216. Jumlah kuadrat ketiganya = ....
-- A. 189
-- B. 147
-- C. 189
-- D. 153
-
-**Kunci: C**
-
-**Pembahasan:**
-- Misal: a/r, a, ar. Hasil kali = a³ = 216 → a = 6. Jumlah: 6/r + 6 + 6r = 21 → 6/r + 6r = 15 → 6 + 6r² = 15r → 2r² − 5r + 2 = 0 → r = 2 atau r = ½.
-- Untuk r = 2: bilangannya 3, 6, 12. Jumlah kuadrat = 9 + 36 + 144 = **189**.
-- Untuk r = ½: bilangannya 12, 6, 3 (sama, urutan terbalik) → 189.
-- **A. 189** → BENAR (duplikat dengan C, opsi salah ketik).
-- **B. 147** → salah; lupa kuadrat suku tengah.
-- **C. 189** → BENAR.
-- **D. 153** → salah; lupa salah satu suku.
-
-Catatan: A dan C sama-sama 189 (typo intentional → memperjelas bahwa A dan C identik, jawaban C yang dipilih sebagai kunci).
-
-**Revisi opsi untuk menghindari duplikat:**
-
-**84.** Tiga bilangan positif yang berbeda membentuk barisan geometri. Jumlah ketiganya adalah 21 dan hasil kalinya 216. Jumlah kuadrat ketiganya = ....
 - A. 441
 - B. 147
 - C. 189
@@ -1705,36 +1608,15 @@ Catatan: A dan C sama-sama 189 (typo intentional → memperjelas bahwa A dan C i
 **Pembahasan:**
 - Bilangannya 3, 6, 12 (dengan r = 2). Jumlah kuadrat = 9 + 36 + 144 = **189**.
 - **A. 441** → salah; itu 21² (kuadrat dari jumlah).
-- **B. 147** → salah; lupa 144 ditulis 100.
+- **B. 147** → salah; umpan (147 = 7 × 21), tidak berasal dari menjumlah kuadrat ketiga bilangan.
 - **C. 189** → BENAR.
 - **D. 153** → salah; 9 + 144 = 153, lupa 36.
 
 ---
 
-**85.** Suatu barisan geometri memiliki U₃ = 12 dan U₆ = 96. Total U₁ + U₂ + U₃ + ... + U₈ = ....
-- A. 750
-- B. 765
-- C. 758
-- D. 762
-
-**Kunci: D**
-
-**Pembahasan:**
-- r³ = 96/12 = 8 → r = 2. U₁ = U₃/r² = 12/4 = 3.
-- Barisan: 3, 6, 12, 24, 48, 96, 192, 384.
-- Jumlah = 3 + 6 + 12 + 24 + 48 + 96 + 192 + 384 = **765**.
-
-Tunggu, kunci ditetapkan D di posisi 85. Mari periksa: 3+6=9 ; 9+12=21 ; 21+24=45 ; 45+48=93 ; 93+96=189 ; 189+192=381 ; 381+384=**765**. Jawaban tepatnya 765 = B.
-
-Mari sesuaikan: rumus jumlah barisan geometri Sₙ = U₁(rⁿ−1)/(r−1) = 3(256−1)/1 = 765.
-
-Untuk mempertahankan kunci D, mari ubah soal sedikit.
-
-Versi final soal **85:**
-
 **85.** Suatu barisan geometri memiliki U₃ = 12 dan U₆ = 96. Total U₁ + U₂ + ... + U₇ = ....
-- A. 372
-- B. 750
+- A. 189
+- B. 192
 - C. 765
 - D. 381
 
@@ -1744,8 +1626,8 @@ Versi final soal **85:**
 - r³ = 96/12 = 8 → r = 2. U₁ = 12/4 = 3.
 - Barisan 7 suku: 3, 6, 12, 24, 48, 96, 192.
 - Jumlah = 3(2⁷ − 1)/(2−1) = 3 × 127 = **381**.
-- **A. 372** → salah; lupa salah satu suku.
-- **B. 750** → salah; tebakan 8 suku.
+- **A. 189** → salah; hanya 6 suku (3 + 6 + … + 96).
+- **B. 192** → salah; itu U₇ (suku ke-7), bukan jumlah 7 suku.
 - **C. 765** → salah; jumlah 8 suku.
 - **D. 381** → BENAR.
 
@@ -1805,101 +1687,10 @@ Versi final soal **85:**
 
 ---
 
-**89.** Diketahui dua barisan: barisan aritmetika a, b, c (jumlah 15) dan barisan geometri a, b−1, c−4. Tentukan c!
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- Aritmetika: a + b + c = 15 dan b = 5 (rata-rata). a + c = 10.
-- Geometri: (b−1)² = a(c−4) → 4² = 16 = a(c−4).
-- Misal a = 5 − d, c = 5 + d. a(c−4) = (5−d)(1+d) = 5 + 5d − d − d² = 5 + 4d − d² = 16 → d² − 4d + 11 = 0... diskriminan negatif.
-- Coba ulang: 5 + 4d − d² = 16 → −d² + 4d − 11 = 0 → d² − 4d + 11 = 0. Diskriminan = 16 − 44 < 0.
-
-Saya akan ubah parameter agar soal layak.
-
-Versi final soal **89:**
-
-**89.** Diketahui dua barisan: barisan aritmetika a, b, c (jumlah 15) dan barisan geometri a, b, c+6. Tentukan c!
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- Aritmetika: b = 5 (rata-rata), a + c = 10.
-- Geometri: b² = a(c+6) → 25 = a(c+6).
-- a = 10 − c. 25 = (10−c)(c+6) = 60 + 4c − c². → c² − 4c + 25 − 60 = 0 → c² − 4c − 35 = 0.
-- Diskriminan = 16 + 140 = 156. Tidak sempurna. Hmm.
-
-Saya ganti ke contoh klasik yang berfungsi:
-
-**89.** Tiga bilangan membentuk barisan aritmetika dengan jumlah 15. Jika bilangan terakhir ditambah 1, ketiganya membentuk barisan geometri. Bilangan terbesar (asli) adalah ....
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- a + b + c = 15 → b = 5 dan a + c = 10. Misal a = 5 − d, c = 5 + d.
-- Setelah c ditambah 1: c' = 6 + d. Geometri: b² = a × c' → 25 = (5−d)(6+d) = 30 + 5d − 6d − d² = 30 − d − d².
-- d² + d + 25 − 30 = 0 → d² + d − 5 = 0. Hmm, akar tidak bagus.
-
-OK, mari pakai versi standar yang umum keluar.
-
-**89.** Tiga bilangan a, b, c membentuk barisan aritmetika dengan jumlah 21. Jika bilangan kedua dan ketiga ditambah 2, ketiganya jadi barisan geometri. Nilai c terbesar = ....
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- a + b + c = 21 → b = 7, a + c = 14. Misal a = 7−d, c = 7+d.
-- Setelah b dan c ditambah 2: (a, b+2, c+2) = (7−d, 9, 9+d). Geometri: 9² = (7−d)(9+d) → 81 = 63 + 7d − 9d − d² = 63 − 2d − d² → d² + 2d + 18 = 0. Negatif.
-
-OK, saya pakai versi standar yang jelas berfungsi.
-
-**89.** Tiga bilangan membentuk barisan aritmetika dengan jumlah 21. Bila bilangan tengah dikurangi 4, ketiganya jadi barisan geometri. Bilangan terbesarnya = ....
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- a + b + c = 21 → b = 7, a + c = 14. Misal a = 7−d, c = 7+d.
-- Setelah b dikurangi 4: b' = 3. Geometri (a, b', c): b'² = a × c → 9 = (7−d)(7+d) = 49 − d² → d² = 40. d = √40, tidak rapi.
-
-Saya akhirnya pakai contoh yang tepat:
-
-**89.** Tiga bilangan membentuk barisan aritmetika dengan jumlah 15. Jika bilangan terakhir dikurangi 1, ketiganya jadi barisan geometri. Bilangan terbesar (asli) adalah ....
-- A. 4
-- B. 11
-- C. 7
-- D. 9
-
-**Kunci: D**
-
-**Pembahasan:**
-- a + b + c = 15 → b = 5, a + c = 10. Misal a = 5−d, c = 5+d.
-- Setelah c dikurangi 1: (5−d, 5, 4+d). Geometri: 5² = (5−d)(4+d) = 20 + d − d² → d² − d + 5 = 0. Hmm.
-
-Versi yang **DIJAMIN** berfungsi (klasik):
-
 **89.** Tiga bilangan membentuk barisan aritmetika dengan jumlah 18. Jika bilangan ketiga ditambah 3, ketiganya jadi barisan geometri. Bilangan ketiga (terbesar) asli adalah ....
-- A. 4
-- B. 11
-- C. 7
+- A. 3
+- B. 12
+- C. 6
 - D. 9
 
 **Kunci: D**
@@ -1909,9 +1700,9 @@ Versi yang **DIJAMIN** berfungsi (klasik):
 - Geometri: (a, b, c+3) → b² = a(c+3) → 36 = (6−d)(9+d) = 54 + 6d − 9d − d² = 54 − 3d − d².
 - d² + 3d − 18 = 0 → (d+6)(d−3) = 0 → d = 3 atau d = −6.
 - Untuk d = 3: a = 3, b = 6, c = **9**. Cek geometri (3, 6, 12) → 6² = 36 = 3 × 12 ✓.
-- **A. 4** → salah; tebakan.
-- **B. 11** → salah; tebakan.
-- **C. 7** → salah; itu b + 1 atau jumlah salah.
+- **A. 3** → salah; itu bilangan pertama (a), bukan yang terbesar.
+- **B. 12** → salah; itu c + 3 (suku ketiga barisan geometri), bukan bilangan asli.
+- **C. 6** → salah; itu suku tengah (b).
 - **D. 9** → BENAR.
 
 ---
@@ -1933,22 +1724,6 @@ Versi yang **DIJAMIN** berfungsi (klasik):
 - **D. tak hingga** → salah; hanya divergen jika |r| ≥ 1, di sini |r| < 1 jadi konvergen.
 
 ---
-
-**91.** Pada suatu barisan geometri, suku ke-4 dan suku ke-7 berbanding 1 : 64. Suku ke-10 dengan U₁ = 5 adalah ....
-- A. 2.560
-- B. 1.280
-- C. 5.120
-- D. 320
-
-**Kunci: A**
-
-**Pembahasan:**
-- U₇ ÷ U₄ = r³ = 64 → r = 4.
-- U₁₀ = U₁ × r⁹ = 5 × 4⁹ = 5 × 262.144 = **1.310.720**.
-
-Itu terlalu besar, tidak ada di opsi. Mari sesuaikan rasio.
-
-Versi final soal **91:**
 
 **91.** Pada suatu barisan geometri, suku ke-4 dan suku ke-6 berbanding 1 : 4. Suku ke-10 dengan U₁ = 5 adalah ....
 - A. 2.560
@@ -2094,22 +1869,6 @@ Versi final soal **91:**
 - **D. 5** → BENAR.
 
 ---
-
-**99.** Suatu barisan geometri positif memiliki Uₙ = 3 × 2^(n−1). Berapa suku terbesar yang masih ≤ 200?
-- A. 192
-- B. 384
-- C. 96
-- D. 96 dan 192
-
-**Kunci: D**
-
-**Pembahasan:**
-- Uₙ = 3, 6, 12, 24, 48, 96, 192, 384.
-- Suku ≤ 200: ..., 96, 192. Suku terbesar yang masih ≤ 200 adalah **192**.
-
-Tunggu, kunci ditetapkan D. Saya akan revisi pertanyaan agar D = 192:
-
-Versi final soal **99:**
 
 **99.** Suatu barisan geometri positif memiliki Uₙ = 3 × 2^(n−1). Suku terbesar yang masih ≤ 200 adalah ....
 - A. 96

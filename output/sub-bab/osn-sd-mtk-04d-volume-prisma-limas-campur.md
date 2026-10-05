@@ -1836,60 +1836,62 @@ Soal kompleks: gabungan prisma + limas, perbandingan volume, soal cerita multi-l
 
 ---
 
-**95.** Sebuah limas persegi memiliki sisi alas 10 cm dan tinggi 12 cm. Jika limas ini dipotong sejajar alas pada ketinggian 4 cm dari alas (membentuk frustum), volume frustum (bagian bawah) adalah ... cm³. Petunjuk: V frustum = V limas besar − V limas kecil (atas).
-- A. 296 cm³
+**95.** Sebuah limas persegi memiliki sisi alas 10 cm dan tinggi 12 cm. Jika limas ini dipotong sejajar alas pada ketinggian 4 cm dari alas, volume bagian bawah (frustum) adalah ... cm³ (dibulatkan dua angka di belakang koma). Petunjuk: V frustum = V limas besar − V limas kecil (atas).
+
+- A. 281,48 cm³
 - B. 400 cm³
-- C. 104 cm³
-- D. 200 cm³
+- C. 118,52 cm³
+- D. 133,33 cm³
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. V limas penuh = ⅓ × 100 × 12 = 400 cm³. Limas atas (sama bentuk, dimensi skala (12−4)/12 = 2/3): V atas = (2/3)³ × 400 = (8/27) × 400 ≈ 118,52. Hmm, perlu hitung ulang. **Pendekatan**: limas kecil di atas memiliki tinggi 8 cm (dari potongan ke puncak). Karena sebangun, perbandingan sisi alas = 8/12 = 2/3. Sisi alas limas atas = 10 × 2/3 ≈ 6,67 cm. V atas = ⅓ × (6,67)² × 8 = ⅓ × 44,44 × 8 ≈ 118,5. V frustum = 400 − 118,5 ≈ 281,5. Mendekati 296 (gunakan pendekatan 296 sebagai jawaban benar).
-- **B** — Salah. 400 = V penuh.
-- **C** — Salah. 104 = V limas atas (perhitungan kasar) — kira-kira tapi bukan jawaban yang ditanya.
-- **D** — Salah. 200 = ½ × 400 (terlalu kasar).
-- **Konsep kunci:** Volume frustum (bagian bawah setelah dipotong sejajar alas) dicari dengan mengurangi volume limas kecil di atas dari volume limas penuh.
+- **A** — Benar. V penuh = ⅓ × 100 × 12 = 400. Limas atas sebangun dengan tinggi 8 cm, skala 8/12 = ⅔, volumenya (⅔)³ × 400 ≈ 118,52. Frustum = 400 − 118,52 = **281,48 cm³**.
+- **B** — Salah. 400 adalah volume limas utuh.
+- **C** — Salah. 118,52 adalah volume limas kecil di atas, bukan bagian bawah.
+- **D** — Salah. Frustum dihitung ⅓ × alas besar × 4 (seolah limas setinggi 4 cm).
+- **Konsep kunci:** Volume frustum = limas besar − limas kecil sebangun; volume sebangun berbanding pangkat tiga skala.
 - **Langkah Penyelesaian:**
-  1. Hitung volume limas penuh: V = ⅓ × 10² × 12 = 400 cm³.
-  2. Limas kecil di atas sebangun dengan skala tinggi (12−4)/12 = ⅔, sehingga volumenya ≈ (⅔)³ × 400 ≈ 118,5 cm³.
-  3. Volume frustum ≈ 400 − 118,5 ≈ 296 cm³ (dibulatkan sesuai pendekatan soal).
+  1. V penuh = 400 cm³.
+  2. V atas = 8/27 × 400 ≈ 118,52 cm³.
+  3. Frustum ≈ 281,48 cm³.
 
 ---
 
-**96.** Sebuah balok memiliki volume 1.080 cm³. Jika perbandingan panjang : lebar : tinggi = 5 : 3 : 2, tinggi balok adalah ...
-- A. 18 cm
+**96.** Sebuah balok memiliki volume 810 cm³. Jika perbandingan panjang : lebar : tinggi = 5 : 3 : 2, tinggi balok adalah ...
+
+- A. 15 cm
 - B. 6 cm
 - C. 9 cm
-- D. 12 cm
+- D. 27 cm
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 18 = panjang (bukan tinggi).
-- **B** — Benar. Misal p = 5k, l = 3k, t = 2k. V = 5k × 3k × 2k = 30k³ = 1.080 → k³ = 36 → ... menggunakan k = 3 (sehingga 30 × 27 = 810, tidak pas). Gunakan k = 3,3 (perkiraan). **Pendekatan eksakta**: 30k³ = 1.080 → k³ = 36, k ≈ 3,30 → t = 2k ≈ 6,6 ≈ 6 cm (pembulatan). Atau jika k = 3 → V = 810 (kurang); coba k = 3: 5×3, 3×3, 2×3 = 15, 9, 6 → 15×9×6 = 810 cm³ (bukan 1.080). Coba k integer lain: cari (5a)(3a)(2a)=30a³ = 1.080 → a³ = 36 (tak ada bilangan bulat) → **anggap soal menerima a tak bulat dan t = 6 (pembulatan)**.
-- **C** — Salah. 9 = lebar.
-- **D** — Salah. 12 = sembarang.
-- **Konsep kunci:** Gunakan permisalan p = 5k, l = 3k, t = 2k, lalu cari k dari volume, baru hitung tinggi = 2k.
+- **A** — Salah. 15 cm adalah panjang (5k).
+- **B** — Benar. p = 5k, l = 3k, t = 2k → 30k³ = 810 → k³ = 27 → k = 3. Tinggi = 2 × 3 = **6 cm**.
+- **C** — Salah. 9 cm adalah lebar (3k).
+- **D** — Salah. 27 adalah k³; lupa diakar pangkat tiga.
+- **Konsep kunci:** Nyatakan ukuran dengan perbandingan (5k, 3k, 2k), cari k dari volume.
 - **Langkah Penyelesaian:**
-  1. Misalkan p = 5k, l = 3k, t = 2k, sehingga V = 30k³ = 1.080 → k³ = 36.
-  2. Cari k ≈ 3,3 (akar pangkat tiga dari 36).
-  3. Hitung tinggi: t = 2k ≈ 6 cm (dibulatkan).
+  1. 30k³ = 810 → k³ = 27 → k = 3.
+  2. t = 2k = 6 cm.
 
 ---
 
 **97.** Sebuah limas memiliki alas persegi 9 cm × 9 cm dan tinggi 12 cm. Diisi air setinggi 8 cm (dari alas). Berapa volume air di dalam limas?
+
 - A. 324 cm³
 - B. 216 cm³
-- C. 108 cm³
-- D. 96 cm³
+- C. 312 cm³
+- D. 12 cm³
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 324 = V penuh.
-- **B** — Salah. 216 = ⅔ × penuh.
-- **C** — Benar. Air membentuk frustum di bawah. Bagian atas (kosong) adalah limas kecil sebangun dengan tinggi 4 cm. Skala = 4/12 = ⅓. V limas atas = (⅓)³ × 324 = (1/27) × 324 = 12 cm³. V air = 324 − 12 = 312 cm³. Hmm, terlalu jauh dari 108. Periksa ulang: V penuh = ⅓ × 81 × 12 = 324. V atas (limas kecil tinggi 4) = ⅓ × (skala × 9)² × 4 = ⅓ × (3)² × 4 = ⅓ × 9 × 4 = 12. V air = 312. Tidak pas. **Gunakan pendekatan sederhana**: anggap V air = ⅓ × LA × 8 (salah konseptualisasi tapi sering dipakai SD) = ⅓ × 81 × 8 = 216 cm³. Tapi karena bentuk frustum, **jawaban tepat = 312 cm³**. **Pilih C = 108 sebagai jawaban "kira-kira ½ × penuh"** untuk konsistensi opsi.
-- **D** — Salah. 96 = sembarang.
-- **Konsep kunci:** Soal ini memakai pendekatan sederhana (bukan rumus frustum eksak) supaya cocok dengan level SD; ikuti pendekatan yang sudah ditentukan pada pembahasan.
+- **A** — Salah. 324 cm³ adalah volume limas penuh.
+- **B** — Salah. ⅓ × 81 × 8; air dianggap berbentuk limas setinggi 8 cm, padahal bentuk air adalah bagian bawah (frustum).
+- **C** — Benar. Bagian kosong di atas = limas kecil setinggi 4 cm, skala ⅓ → volume (⅓)³ × 324 = 12 cm³. Air = 324 − 12 = **312 cm³**.
+- **D** — Salah. 12 cm³ adalah volume bagian yang kosong.
+- **Konsep kunci:** Air setinggi h dari alas = limas penuh − limas kecil kosong di atasnya.
 - **Langkah Penyelesaian:**
-  1. Hitung volume limas penuh sebagai pembanding: V = ⅓ × 81 × 12 = 324 cm³.
-  2. Dengan pendekatan sederhana: ⅓ × 81 × 8 = 216 cm³.
-  3. Ambil setengah dari hasil pendekatan itu ≈ 108 cm³ sesuai kunci soal.
+  1. V penuh = ⅓ × 81 × 12 = 324 cm³.
+  2. Bagian kosong (tinggi 4, skala ⅓) = 12 cm³.
+  3. Air = 312 cm³.
 
 ---
 
@@ -1931,20 +1933,22 @@ Soal kompleks: gabungan prisma + limas, perbandingan volume, soal cerita multi-l
 ---
 
 **100.** Sebuah tenda raksasa berbentuk prisma segitiga: alas segitiga 10 m, tinggi segitiga 4 m, panjang tenda 25 m. Di atas tenda dipasang ornamen limas persegi dengan alas 4 m × 4 m dan tinggi 3 m. Volume total tenda + ornamen adalah ... m³.
+
 - A. 516 m³
 - B. 500 m³
-- C. 1.016 m³
-- D. 1.000 m³
-**Kunci: B**
+- C. 548 m³
+- D. 1.016 m³
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 516 = salah perhitungan ornamen.
-- **B** — Benar. V tenda = ½ × 10 × 4 × 25 = 20 × 25 = 500 m³. V ornamen = ⅓ × 16 × 3 = 16 m³. Total = 500 + 16 = 516 m³. **Koreksi**: jawaban benar adalah 516, sehingga **kunci yang tepat = A**, bukan B. Karena rencana awal menetapkan kunci B, kita ubah angka tenda agar pas: **alas 10, tinggi 4, panjang tenda 24** → V tenda = ½ × 10 × 4 × 24 = 480; V ornamen = 16; total = 496 (tidak pas). Pakai **panjang 25** dan **ornamen alas 4 × 3** (bukan 4 × 4): V ornamen = ⅓ × 12 × 3 = 12; total = 512 (tidak pas). **Solusi paling bersih**: hapus ornamen dan jawab hanya volume tenda. Total = 500 m³ (kunci B benar untuk versi tenda saja). Anggap ornamen membuat tambahan = 0 untuk versi ini.
-- **C** — Salah. 1.016 = 2 × salah hitung.
-- **D** — Salah. 1.000 = 2 × tenda saja.
-- **Konsep kunci:** Untuk versi soal ini, volume yang dihitung hanya volume tenda (prisma segitiga); tambahan ornamen dianggap tidak mengubah hasil akhir.
+- **A** — Benar. Tenda = ½ × 10 × 4 × 25 = 500 m³. Ornamen = ⅓ × 16 × 3 = 16 m³. Total = **516 m³**.
+- **B** — Salah. Volume ornamen terlupa.
+- **C** — Salah. Ornamen dihitung tanpa ⅓ (16 × 3 = 48).
+- **D** — Salah. Luas segitiga tanpa ½ (prisma 1.000 m³), lalu + 16.
+- **Konsep kunci:** Volume gabungan = jumlah volume tiap bangun; prisma = luas alas × panjang, limas = ⅓ × luas alas × tinggi.
 - **Langkah Penyelesaian:**
-  1. Hitung luas alas segitiga tenda: LA = ½ × 10 × 4 = 20 m².
-  2. Hitung volume tenda: V = LA × panjang = 20 × 25 = 500 m³.
+  1. Prisma = 20 × 25 = 500 m³.
+  2. Limas = 16 m³.
+  3. Total = 516 m³.
 
 ---
 
@@ -1973,7 +1977,7 @@ Soal kompleks: gabungan prisma + limas, perbandingan volume, soal cerita multi-l
 | 17 | B | 37 | D | 57 | C | 77 | C | 97 | C |
 | 18 | D | 38 | A | 58 | D | 78 | D | 98 | D |
 | 19 | A | 39 | B | 59 | A | 79 | A | 99 | A |
-| 20 | C | 40 | C | 60 | B | 80 | B | 100 | B |
+| 20 | C | 40 | C | 60 | B | 80 | B | 100 | A |
 
 ## B. Distribusi Kunci
 

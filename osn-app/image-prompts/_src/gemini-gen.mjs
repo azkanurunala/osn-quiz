@@ -53,7 +53,12 @@ async function authHeaders() {
 
 async function call(url, body) {
   for (let i = 0; i < 10; i++) {
-    const r = await fetch(url, { method: body ? 'POST' : 'GET', headers: { ...(await authHeaders()), 'content-type': 'application/json' }, body: body && JSON.stringify(body) });
+    let r;
+    try {
+      r = await fetch(url, { method: body ? 'POST' : 'GET', headers: { ...(await authHeaders()), 'content-type': 'application/json' }, body: body && JSON.stringify(body) });
+    } catch (e) {   // gangguan jaringan (fetch failed / ECONNRESET): tunggu lalu coba lagi
+      const w = Math.min(300000, 15000 * 2 ** i); console.log(`  ⏳ jaringan: ${e.cause?.code || e.message}, tunggu ${w / 1000}s`); await sleep(w); continue;
+    }
     if (r.ok) return r.json();
     const t = await r.text();
     if (r.status === 429 && /free_tier[^\n]*limit: 0|limit: 0[^\n]*free_tier/.test(t)) {

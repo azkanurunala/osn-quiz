@@ -21,28 +21,26 @@ B. 42 parsel, isi 9 buah
 C. 42 parsel, isi 12 buah
 D. 84 parsel, isi 6 buah
 
-**(3) Jawaban:** **C. 42 parsel, isi 9 buah**
+**(3) Jawaban:** **B. 42 parsel, isi 9 buah**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** FPB tiga bilangan + perhitungan isi per kelompok.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 21 parsel, isi 18 buah** — Salah. 21 memang faktor persekutuan 84, 126, 168 namun bukan yang terbesar. Ini perangkap bagi siswa yang berhenti di faktor persekutuan pertama yang ditemukan.
-  - **B. 42 parsel, isi 9 buah** — Salah pada jumlah isi. Jumlah parsel benar (42), tetapi isi 9 hanya menjumlahkan 84÷42 + 126÷42 = 2 + 3 = 5, ditambah 168÷42 = 4 menjadi 9. Tunggu, justru ini hasil yang benar (2+3+4=9). Lihat kembali — opsi B menulis 42 parsel, isi 9 buah. Mari kita teliti.
-  - **C. 42 parsel, isi 9 buah** — Benar. FPB(84, 126, 168) dihitung lewat faktorisasi: 84 = 2² × 3 × 7; 126 = 2 × 3² × 7; 168 = 2³ × 3 × 7. FPB = 2¹ × 3¹ × 7¹ = 42. Tiap parsel berisi 84÷42 + 126÷42 + 168÷42 = 2 + 3 + 4 = **9 buah**.
-  - **D. 84 parsel, isi 6 buah** — Salah. 84 bukan faktor dari 126 (126÷84 tidak bulat), jadi mustahil membagi rata. Distraktor untuk siswa yang asal mengambil bilangan terbesar sebagai pembagi.
-
-> Catatan editor: opsi B dan C identik teksnya — agar tidak ambigu, anggap C sebagai pilihan utama dan B adalah distraktor variasi penulisan "42 parsel, isi 9 buah" yang sengaja diisi keliru di lembar (misal isi 9 tetapi 9 dijabarkan sebagai 9 mangga saja, bukan total). Jawaban resmi tetap **C**.
+  - **A. 21 parsel, isi 18 buah** — Salah. 21 memang faktor persekutuan 84, 126, 168, tetapi bukan yang terbesar. Perangkap bagi siswa yang berhenti di faktor persekutuan pertama yang ditemukan.
+  - **B. 42 parsel, isi 9 buah** — Benar. 84 = 2² × 3 × 7; 126 = 2 × 3² × 7; 168 = 2³ × 3 × 7. FPB = 2 × 3 × 7 = 42. Isi tiap parsel = 84÷42 + 126÷42 + 168÷42 = 2 + 3 + 4 = 9 buah.
+  - **C. 42 parsel, isi 12 buah** — Salah. Banyak parsel benar, tetapi isi dihitung keliru: 12 muncul bila salak dibagi 14 (168 ÷ 14), padahal semua jenis harus dibagi 42.
+  - **D. 84 parsel, isi 6 buah** — Salah. 84 tidak membagi habis 126, jadi mustahil membagi rata. Distraktor untuk siswa yang asal mengambil bilangan terkecil sebagai banyak parsel.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Faktorisasi: 84 = 2²·3·7; 126 = 2·3²·7; 168 = 2³·3·7.
-  2. FPB = ambil pangkat terkecil tiap prima: 2¹·3¹·7¹ = 42.
-  3. Isi tiap parsel: 84÷42 = 2 mangga, 126÷42 = 3 jambu, 168÷42 = 4 salak → total **9 buah**.
+  2. FPB = ambil pangkat terkecil tiap prima: 2·3·7 = 42.
+  3. Isi tiap parsel: 2 mangga + 3 jambu + 4 salak = 9 buah.
 
-- **Hasil akhir:** 42 parsel, masing-masing berisi 9 buah (2 mangga + 3 jambu + 4 salak).
+- **Hasil akhir:** 42 parsel, masing-masing berisi 9 buah (jawaban **B**).
 
-- **Tips:** Pertanyaan "paling banyak" + "tiap kelompok sama" → FPB. Selalu cek satu bilangan kandidat: apakah membagi habis semua bilangan asal.
+- **Tips:** Pertanyaan "paling banyak" + "tiap kelompok sama" → FPB. Selalu cek apakah kandidat membagi habis semua bilangan asal.
 
 ---
 
@@ -58,29 +56,26 @@ B. 19.12.00
 C. 19.18.00
 D. 19.24.00
 
-**(3) Jawaban:** **C. 19.18.00**
+**(3) Jawaban:** **B. 19.12.00**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK tiga bilangan dan penerapan pengulangan periodik.
+- **Konsep yang diuji:** KPK tiga bilangan dan pengulangan periodik.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 19.06.00** — Salah. 6 menit = 360 detik. 360 memang kelipatan persekutuan, tetapi bukan KPK pertama. 360 ÷ 18 = 20, 360 ÷ 24 = 15, 360 ÷ 30 = 12. Sebenarnya 360 adalah kelipatan kedua bertemu kembali, bukan kelipatan pertama. Distraktor untuk yang salah hitung KPK.
-  - **B. 19.12.00** — Salah. Ini KPK pertama bertemu (720 detik = 12 menit) — bukan kali ketiga, melainkan kali kedua (kali pertama saat 19.00.00, kali kedua di 19.12.00).
-  - **C. 19.18.00** — Benar. KPK(18, 24, 30): faktorisasi 18 = 2·3²; 24 = 2³·3; 30 = 2·3·5. KPK = 2³·3²·5 = 360 detik. Kali kedua di 19.00 + 6 menit = 19.06. Tunggu — itu salah. KPK = 360 detik = 6 menit. Kali kedua 19.06, kali ketiga 19.12. Jadi jawaban semestinya 19.12. Mari cermati: kali pertama 19.00; kali ke-2 = +6 menit = 19.06; kali ke-3 = +12 menit = 19.12. Jawaban koreksi: **B. 19.12.00**.
-
-> Koreksi: Jawaban yang benar adalah **B. 19.12.00**. KPK = 360 detik = 6 menit; kejadian ke-3 adalah saat ke-2 setelah waktu awal, yaitu pada 19.00 + 2 × 6 menit = 19.12.
-
-  - **D. 19.24.00** — Salah. Ini kali keempat (3 × 6 menit setelah 19.00 untuk kejadian ke-4). Distraktor untuk siswa yang menghitung "ketiga kalinya" sebagai "tiga kelipatan KPK setelah awal".
+  - **A. 19.06.00** — Salah. Itu kedipan bersama yang **kedua** (19.00.00 + 1 × KPK).
+  - **B. 19.12.00** — Benar. KPK(18, 24, 30) = 2³·3²·5 = 360 detik = 6 menit. Ke-1 pukul 19.00.00, ke-2 pukul 19.06.00, ke-3 pukul 19.12.00.
+  - **C. 19.18.00** — Salah. Menambahkan 3 × 6 menit; padahal pukul 19.00.00 sudah dihitung sebagai kali pertama, jadi cukup 2 × 6 menit.
+  - **D. 19.24.00** — Salah. KPK dikira 720 detik (12 menit), lalu ditambah dua kali. 360 sudah habis dibagi 18, 24, dan 30, jadi 720 bukan yang terkecil.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Faktorisasi: 18 = 2·3²; 24 = 2³·3; 30 = 2·3·5.
-  2. KPK = pangkat tertinggi: 2³·3²·5 = 8·9·5 = **360 detik** = 6 menit.
-  3. Kedipan bersama: ke-1 di 19.00.00; ke-2 di 19.06.00; ke-3 di 19.12.00.
+  2. KPK = 2³·3²·5 = 360 detik = 6 menit.
+  3. Kali ketiga = 19.00.00 + 2 × 6 menit = 19.12.00.
 
 - **Hasil akhir:** Pukul **19.12.00** (jawaban **B**).
 
-- **Tips:** "Ke-n kalinya" untuk peristiwa periodik = waktu_awal + (n−1) × KPK. Hati-hati membaca "kali pertama" sebagai kejadian awal atau kejadian berikutnya.
+- **Tips:** "Ke-n kalinya" = waktu awal + (n − 1) × KPK.
 
 ---
 
@@ -96,29 +91,26 @@ B. 1
 C. 2
 D. 3
 
-**(3) Jawaban:** **B. 1**
+**(3) Jawaban:** **A. 0**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Bilangan prima, perkalian, sisa pembagian (modulo).
+- **Konsep yang diuji:** Bilangan prima, perkalian, sisa pembagian.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 0** — Salah. Sisa 0 berarti habis dibagi 5, padahal 210 tidak mengandung faktor 5 (5 baru muncul jika prima kelima 11 tidak dipakai — di sini kita pakai 2,3,5,7,11 berbeda). Tunggu: tiga prima terkecil = 2,3,5. Maka 5 sudah masuk! Distraktor: siswa yang menerima logika ini bisa terjebak. Mari verifikasi setelah perhitungan.
-  - **B. 1** — Benar. Tiga prima terkecil: 2, 3, 5 → N = 30. Prima keempat terkecil = 7. N × 7 = 210. 210 ÷ 5 = 42 sisa 0. Hmm, sisa 0 berarti A. Mari ulangi: 210 = 5 × 42 → sisa **0**. Jawaban koreksi: **A. 0**.
-
-> Koreksi: Jawaban benar adalah **A. 0**. Karena 5 sudah menjadi salah satu faktor N, maka hasil kali N × 7 = 210 habis dibagi 5.
-
-  - **C. 2** — Salah. Distraktor umpan tanpa derivasi langsung.
-  - **D. 3** — Salah. Distraktor umpan; tidak ada kombinasi yang menghasilkan sisa 3.
+  - **A. 0** — Benar. Tiga prima terkecil 2, 3, 5 → N = 30. Prima keempat = 7. 30 × 7 = 210 = 5 × 42, sisa 0. Karena 5 sudah menjadi faktor N, hasilnya pasti habis dibagi 5.
+  - **B. 1** — Salah. Umpan: tidak ada perhitungan benar yang menghasilkan sisa 1.
+  - **C. 2** — Salah. Muncul bila 5 terlewat dari daftar prima (N = 2 × 3 × 7 = 42, prima keempat dikira 11): 462 ÷ 5 sisa 2.
+  - **D. 3** — Salah. Umpan: biasanya dipilih karena menebak tanpa menghitung faktor 5.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Tiga prima terkecil: **2, 3, 5** → N = 2 × 3 × 5 = **30**.
-  2. Prima keempat terkecil = **7**. Hasil kali = 30 × 7 = **210**.
-  3. 210 ÷ 5 = 42 sisa **0**.
+  1. Tiga prima terkecil: 2, 3, 5 → N = 30.
+  2. Prima keempat terkecil = 7 → 30 × 7 = 210.
+  3. 210 ÷ 5 = 42 sisa 0.
 
-- **Hasil akhir:** Sisa pembagian adalah **0** (jawaban **A**).
+- **Hasil akhir:** Sisa **0** (jawaban **A**).
 
-- **Tips:** Untuk soal sisa pembagian, cek apakah pembagi sudah ada di faktorisasi prima hasilnya. Jika ya → sisa langsung 0.
+- **Tips:** Jika pembagi sudah ada di faktorisasi prima hasil kali, sisanya langsung 0.
 
 ---
 
@@ -408,29 +400,26 @@ B. 2
 C. 3
 D. 4
 
-**(3) Jawaban:** **B. 2**
+**(3) Jawaban:** **C. 3**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Identifikasi bilangan prima dengan kondisi tambahan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1** — Salah. Lebih dari satu bilangan memenuhi.
-  - **B. 2** — Benar. Bilangan dua digit jumlah digit 8: 17, 26, 35, 44, 53, 62, 71, 80. Prima di antara mereka: 17 dan 53 dan 71. Tunggu: 17 → prima ✓; 26 = 2·13 ✗; 35 = 5·7 ✗; 44 = 4·11 ✗; 53 → prima ✓; 62 = 2·31 ✗; 71 → prima ✓; 80 ✗. Jadi prima: 17, 53, 71 → **3** bilangan.
-
-> Koreksi: Jawaban benar adalah **C. 3**. Tiga bilangan prima: 17, 53, 71.
-
-  - **C. 3** — Benar. (Lihat koreksi di atas.)
-  - **D. 4** — Salah. Hanya tiga prima dua-digit dengan jumlah digit 8.
+  - **A. 1** — Salah. Hanya menemukan 17 lalu berhenti.
+  - **B. 2** — Salah. Biasanya 71 terlewat karena pemeriksaan berhenti di 53.
+  - **C. 3** — Benar. Kandidat: 17, 26, 35, 44, 53, 62, 71, 80. Yang prima: 17, 53, 71.
+  - **D. 4** — Salah. Ikut menghitung 35 karena ganjil dan tidak habis dibagi 3, padahal 35 = 5 × 7.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Daftar dua-digit dengan jumlah 8: 17, 26, 35, 44, 53, 62, 71, 80.
-  2. Eliminasi non-prima: 26, 35, 44, 62, 80.
-  3. Sisa prima: **17, 53, 71** → tiga bilangan.
+  1. Daftar dua digit berjumlah 8: 17, 26, 35, 44, 53, 62, 71, 80.
+  2. Coret yang bukan prima: 26, 35, 44, 62, 80.
+  3. Sisa: 17, 53, 71 → 3 bilangan.
 
 - **Hasil akhir:** **3** bilangan (jawaban **C**).
 
-- **Tips:** Untuk soal "prima dengan kondisi tertentu", daftar kandidat dulu lalu uji satu-satu.
+- **Tips:** Daftar kandidat dulu, lalu uji prima satu per satu.
 
 ---
 
@@ -711,35 +700,31 @@ Hasil dari (3/4 + 1/6) ÷ (5/8) adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 11/15
+A. 55/96
 B. 22/15
-C. 33/20
+C. 16/25
 D. 44/15
 
-**(3) Jawaban:** **D. 44/15**
+**(3) Jawaban:** **B. 22/15**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi gabungan pecahan dengan pembagian.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 11/15** — Salah. Hanya 11/12 (sebelum dibagi) atau salah konversi.
-  - **B. 22/15** — Salah. Hasil setengah dari jawaban benar.
-  - **C. 33/20** — Salah. Mengabaikan langkah balik pembagi.
-  - **D. 44/15** — Benar. 3/4 + 1/6 = 9/12 + 2/12 = 11/12. (11/12) ÷ (5/8) = 11/12 × 8/5 = 88/60 = **22/15**.
-
-> Koreksi: Hasil sebenarnya **22/15** (jawaban **B**), bukan 44/15. Verifikasi: 88/60 = 22/15.
-
-  - Jawaban resmi: **B. 22/15**.
+  - **A. 55/96** — Salah. Pembagi tidak dibalik: 11/12 × 5/8 = 55/96.
+  - **B. 22/15** — Benar. 3/4 + 1/6 = 9/12 + 2/12 = 11/12. 11/12 ÷ 5/8 = 11/12 × 8/5 = 88/60 = 22/15.
+  - **C. 16/25** — Salah. Pembilang dan penyebut dijumlah langsung: 3/4 + 1/6 dikira 4/10 = 2/5, lalu 2/5 × 8/5 = 16/25.
+  - **D. 44/15** — Salah. Saat menyederhanakan 88/60, hanya penyebut yang dibagi 2 (88/30 = 44/15), sehingga nilainya jadi dua kali lipat.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Dalam kurung: 3/4 + 1/6 = 9/12 + 2/12 = 11/12.
-  2. Bagi: (11/12) ÷ (5/8) = (11/12) × (8/5) = 88/60.
-  3. Sederhanakan: 88/60 = **22/15**.
+  1. Dalam kurung: 9/12 + 2/12 = 11/12.
+  2. Bagi: 11/12 × 8/5 = 88/60.
+  3. Sederhanakan (bagi 4): 22/15.
 
 - **Hasil akhir:** **22/15** (jawaban **B**).
 
-- **Tips:** Untuk pembagian pecahan, kalikan dengan kebalikan.
+- **Tips:** Pembagian pecahan = kali kebalikan; sederhanakan pembilang dan penyebut dengan bilangan yang sama.
 
 ---
 
@@ -1138,34 +1123,31 @@ Sebuah segitiga sama kaki memiliki alas 16 cm dan keliling 50 cm. Luas segitiga 
 
 **(2) Pilihan Jawaban:**
 
-A. 96 cm²
+A. 136 cm²
 B. 120 cm²
-C. 168 cm²
-D. 192 cm²
+C. 240 cm²
+D. 60 cm²
 
-**(3) Jawaban:** **A. 96 cm²**
+**(3) Jawaban:** **B. 120 cm²**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Mencari tinggi segitiga sama kaki dengan Pythagoras.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 96 cm²** — Benar. Sisi miring = (50−16)/2 = 17. Setengah alas = 8. Tinggi = √(17²−8²) = √225 = 15. Luas = ½ × 16 × 15 = **120**. Tunggu — hitung ulang: ½ × 16 × 15 = 120.
-
-> Koreksi: Jawaban benar adalah **B. 120 cm²**. Luas = ½ × 16 × 15 = 120 cm².
-
-  - **B. 120 cm²** — Benar (lihat koreksi).
-  - **C. 168 cm²** — Salah.
-  - **D. 192 cm²** — Salah.
+  - **A. 136 cm²** — Salah. Sisi miring (17 cm) dipakai sebagai tinggi: ½ × 16 × 17 = 136.
+  - **B. 120 cm²** — Benar. Sisi miring = (50 − 16) : 2 = 17. Tinggi = √(17² − 8²) = √225 = 15. Luas = ½ × 16 × 15 = 120 cm².
+  - **C. 240 cm²** — Salah. Lupa dikali ½ (16 × 15).
+  - **D. 60 cm²** — Salah. Memakai setengah alas sebagai alas: ½ × 8 × 15.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Sisi miring = (50 − 16)/2 = 17 cm.
-  2. Tinggi = √(17² − 8²) = √(289 − 64) = √225 = 15 cm.
-  3. Luas = ½ × 16 × 15 = **120 cm²**.
+  1. Sisi miring = (50 − 16) : 2 = 17 cm.
+  2. Tinggi = √(17² − 8²) = √(289 − 64) = 15 cm.
+  3. Luas = ½ × 16 × 15 = 120 cm².
 
 - **Hasil akhir:** **120 cm²** (jawaban **B**).
 
-- **Tips:** Segitiga sama kaki: tinggi membagi alas; gunakan Pythagoras.
+- **Tips:** Pada segitiga sama kaki, tinggi membagi alas sama panjang; gunakan Pythagoras.
 
 ---
 
@@ -1536,31 +1518,28 @@ Sebuah bangun gabungan terdiri dari kubus bersisi 10 cm dan setengah bola di ata
 A. 1.000 cm³
 B. 1.261,67 cm³
 C. 1.523,33 cm³
-D. 1.523 cm³
+D. 1.392,5 cm³
 
-**(3) Jawaban:** **D. 1.523 cm³** (pembulatan)
+**(3) Jawaban:** **B. 1.261,67 cm³**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Volume gabungan kubus + setengah bola.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1.000 cm³** — Salah. Hanya kubus, lupa setengah bola.
-  - **B. 1.261,67 cm³** — Salah. Salah hitung setengah bola (mungkin pakai ⅓).
-  - **C. 1.523,33 cm³** — Sangat dekat. Setengah bola = ½ × (4/3)π×5³ = ⅔ × 3,14 × 125 = ⅔ × 392,5 = 261,67. Total = 1.000 + 261,67 = **1.261,67**.
-
-> Koreksi: Jawaban benar **B. 1.261,67 cm³**. Setengah bola dengan jari-jari 5: (½)(4/3)π(125) = (2/3)(3,14)(125) = 261,67. Total: 1000 + 261,67 = 1261,67 cm³.
-
-  - **D. 1.523 cm³** — Salah.
+  - **A. 1.000 cm³** — Salah. Hanya kubus, setengah bola terlupa.
+  - **B. 1.261,67 cm³** — Benar. Setengah bola = ½ × 4/3 × 3,14 × 125 = 261,67 cm³. Total = 1.000 + 261,67 = 1.261,67 cm³.
+  - **C. 1.523,33 cm³** — Salah. Memakai bola penuh (523,33 cm³), bukan setengah.
+  - **D. 1.392,5 cm³** — Salah. Memakai πr³ = 392,5 tanpa faktor ⅔.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. V_kubus = 10³ = 1.000 cm³.
-  2. V_½bola = (½)(4/3)π·r³ = (2/3)(3,14)(125) = 261,67 cm³.
-  3. Total = **1.261,67 cm³**.
+  1. V kubus = 10³ = 1.000 cm³.
+  2. V setengah bola = ⅔ × 3,14 × 125 = 261,67 cm³.
+  3. Total = 1.261,67 cm³.
 
 - **Hasil akhir:** **1.261,67 cm³** (jawaban **B**).
 
-- **Tips:** Setengah bola = (2/3)πr³.
+- **Tips:** Setengah bola = ⅔πr³.
 
 ---
 
@@ -2090,32 +2069,29 @@ Bak mandi berisi 240 liter air dikuras menggunakan keran berdebit 3 liter/menit.
 **(2) Pilihan Jawaban:**
 
 A. 100 L
-B. 130 L
+B. 190 L
 C. 150 L
 D. 250 L
 
-**(3) Jawaban:** **C. 150 L**
+**(3) Jawaban:** **D. 250 L**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Debit, pengurangan dan penambahan volume bertahap.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 100 L** — Salah. Distraktor umpan.
-  - **B. 130 L** — Salah. Salah hitung pengurangan.
-  - **C. 150 L** — Benar. Dikuras 30 menit × 3 = 90 L → tersisa 240 − 90 = 150 L. Diisi 20 × 5 = 100 L → 150 + 100 = 250 L. 
-
-> Koreksi: Setelah penambahan, total = 150 + 100 = **250 L** (jawaban **D**).
-
-  - **D. 250 L** — Benar (lihat koreksi).
+  - **A. 100 L** — Salah. Hanya air yang diisi kembali (5 × 20); air yang tersisa di bak terlupa.
+  - **B. 190 L** — Salah. Debit pengurasan dikira 5 L/menit (tertukar dengan debit pengisian): 240 − 150 + 100 = 190.
+  - **C. 150 L** — Salah. Berhenti setelah pengurasan (240 − 90); pengisian kembali terlupa.
+  - **D. 250 L** — Benar. Dikuras 3 × 30 = 90 L → sisa 150 L. Diisi 5 × 20 = 100 L → 150 + 100 = 250 L.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Dikuras: 3 × 30 = 90 L → sisa 150 L.
-  2. Diisi: 5 × 20 = 100 L → 150 + 100 = **250 L**.
+  2. Diisi: 5 × 20 = 100 L → 250 L.
 
 - **Hasil akhir:** **250 L** (jawaban **D**).
 
-- **Tips:** Volume baru = volume awal − dikuras + diisi.
+- **Tips:** Volume akhir = volume awal − dikuras + diisi.
 
 ---
 
@@ -3319,7 +3295,7 @@ D. 36
 
 | No | Bab | Sub-topik | Tingkat | Jawaban |
 |----|-----|-----------|---------|---------|
-| 1 | MTK-01 | FPB Soal Cerita | Provinsi | C |
+| 1 | MTK-01 | FPB Soal Cerita | Provinsi | B |
 | 2 | MTK-01 | KPK Soal Cerita | Provinsi | B |
 | 3 | MTK-01 | Faktorisasi Prima & Sisa | Nasional | A |
 | 4 | MTK-01 | Operasi Campuran | Nasional | A |

@@ -480,22 +480,6 @@ Yuk mulai latihan 100 soal!
 
 ---
 
-**17.** U₁ = 5, b = 2. Tentukan jumlah 5 suku pertama (S₅).
-- A. 35
-- B. 45
-- C. 30
-- D. 25
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 35. Salah pakai rumus, mungkin 5×7.
-- **B** — 45. Pakai 5×9 = 45 (rata-rata salah).
-- **C** — 30. Lupa pakai rumus Gauss (5+13)÷2 = 9; 5×9 = 45 atau salah cara.
-- **D** — **BENAR.** Suku 1–5: 5, 7, 9, 11, 13. S₅ = 5×(5+13)÷2 = 5×9 = 45. Wait, biarkan cek: rumus = n(U₁+Uₙ)/2 = 5×18/2 = 45. Maka D harusnya 45, bukan 25. Mari benarkan: U₁=5, b=2, U₅=5+4×2=13. S₅ = 5(5+13)/2 = 90/2 = **45**. Jadi B (45) yang benar. **Koreksi: Kunci = B.** [Distractor 25 = 5×5 salah cara; 30 = 5×6; 35 = 5×7.]
-
-Wait, this conflicts with my pre-planned key. Let me restart this question with different numbers so D = correct answer:
-
 **17.** U₁ = 2, b = 3. Tentukan jumlah 5 suku pertama (S₅).
 - A. 35
 - B. 45
@@ -847,16 +831,6 @@ Wait, this conflicts with my pre-planned key. Let me restart this question with 
   3. Hitung: 2 + 12 = 14 (atau langsung 2 × 7 = 14).
 
 ---
-
-**33.** Pola: 10, 16, 22, 28, ... Suku ke-11 adalah ...
-- A. 70
-- B. 76
-- C. 64
-- D. 70
-
-**Kunci: B**
-
-(Catatan koreksi: A dan D sama. Ganti A = 60.)
 
 **33.** Pola: 10, 16, 22, 28, ... Suku ke-11 adalah ...
 - A. 60
@@ -1366,21 +1340,6 @@ Wait, this conflicts with my pre-planned key. Let me restart this question with 
 
 ---
 
-**56.** Bilangan 105 adalah suku ke berapa pada barisan 3, 8, 13, 18, ...?
-- A. 19
-- B. 20
-- C. 21
-- D. 22
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 19. Salah hitung; (105−3)÷5 = 20,4, salah.
-- **B** — 20. Pakai (105−3)÷5 = 20,4 → bulatkan 20. Salah cara.
-- **C** — **BENAR.** 105 = 3 + (n−1)×5 → (n−1)×5 = 102 → tidak bulat? Cek: 3+(n−1)×5=105 → (n−1)=20,4. Tidak bulat. Hmm — soal direvisi.
-
-Mari ganti soal:
-
 **56.** Bilangan 103 adalah suku ke berapa pada barisan 3, 8, 13, 18, ...?
 - A. 19
 - B. 20
@@ -1402,20 +1361,6 @@ Mari ganti soal:
   3. Tambahkan 1: n = 20 + 1 = 21.
 
 ---
-
-**57.** Jumlah 10 suku pertama barisan 2, 5, 8, 11, ... adalah ...
-- A. 130
-- B. 145
-- C. 155
-- D. 140
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 130. Salah hitung Uₙ; mungkin pakai U₁₀=27 (salah).
-- **B** — **BENAR.** U₁=2, b=3, U₁₀ = 2+9×3 = 29. S₁₀ = 10×(2+29)/2 = 10×15,5 = 155. Tunggu — 155, bukan 145. Mari koreksi distractor:
-
-Mari ganti angka agar konsisten:
 
 **57.** Jumlah 10 suku pertama barisan 2, 5, 8, 11, ... adalah ...
 - A. 130
@@ -1504,29 +1449,6 @@ Mari ganti angka agar konsisten:
   3. Selesaikan: 3x = 21 → x = 7.
 
 ---
-
-**61.** Pada barisan: 5, 9, 13, 17, ..., berapakah jumlah 8 suku pertama?
-- A. 144
-- B. 156
-- C. 152
-- D. 148
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** U₁=5, b=4. U₈ = 5+7×4 = 33. S₈ = 8×(5+33)/2 = 8×19 = 152. Tunggu — itu 152, bukan 144. Koreksi:
-
-Mari ganti urutan kunci agar sesuai. Setelah hitung: 152 ada di pilihan C. Pindahkan kunci ke C:
-
-**61.** Pada barisan: 5, 9, 13, 17, ..., berapakah jumlah 8 suku pertama?
-- A. 144
-- B. 156
-- C. 152
-- D. 148
-
-**Kunci: A**
-
-Mari perbaiki angka soal agar A jadi benar. Ganti barisan:
 
 **61.** Pada barisan: 4, 8, 12, 16, ..., berapakah jumlah 8 suku pertama?
 - A. 144
@@ -1682,58 +1604,6 @@ Mari perbaiki angka soal agar A jadi benar. Ganti barisan:
 
 ---
 
-**68.** Tiga bilangan berurutan: 2x−3, x+2, 3x−1 membentuk barisan aritmetika. Nilai x adalah ...
-- A. 4
-- B. 5
-- C. 6
-- D. 7
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Pada barisan aritmetika, suku tengah = rata-rata dua tetangganya. Jadi x+2 = ((2x−3)+(3x−1))/2 = (5x−4)/2 → 2(x+2) = 5x−4 → 2x+4 = 5x−4 → 3x = 8 → tidak bulat? Mari koreksi:
-
-Mari ganti angka soal:
-
-**68.** Tiga bilangan berurutan: x−2, 2x+1, 3x+2 membentuk barisan aritmetika. Nilai x adalah ...
-- A. 5
-- B. 4
-- C. 6
-- D. 3
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** 2x+1 = (x−2 + 3x+2)/2 = (4x)/2 = 2x → 2x+1 = 2x → 1=0, kontradiksi.
-
-Kasus ini bermasalah. Mari pakai pendekatan beda tetap:
-
-**68.** Tiga bilangan berurutan x−1, 2x+1, 5x−3 membentuk barisan aritmetika. Nilai x adalah ...
-- A. 5
-- B. 4
-- C. 3
-- D. 2
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** (2x+1) − (x−1) = (5x−3) − (2x+1) → x+2 = 3x−4 → 2x = 6 → x = 3. Tunggu, hasilnya 3, bukan 5.
-
-Saya akan ulangi dengan lebih hati-hati:
-
-**68.** Tiga bilangan berurutan x+2, 3x−1, 5x−4 membentuk barisan aritmetika. Nilai x adalah ...
-- A. 5
-- B. 4
-- C. 3
-- D. 2
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** (3x−1) − (x+2) = (5x−4) − (3x−1) → 2x−3 = 2x−3. Selalu sama? Identitas — perlu rubah angka. Mari pakai cara langsung:
-
-Mari ganti soal ini dengan yang sederhana:
-
 **68.** Suku ke-3 dan ke-7 sebuah barisan aritmetika berturut-turut adalah 15 dan 35. Suku pertama (U₁) adalah ...
 - A. 5
 - B. 7
@@ -1755,19 +1625,6 @@ Mari ganti soal ini dengan yang sederhana:
   3. Hitung: 15 − 10 = 5.
 
 ---
-
-**69.** Pada barisan 2, 5, 8, ..., berapa jumlah suku-suku dari ke-1 sampai ke-20?
-- A. 590
-- B. 580
-- C. 600
-- D. 610
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** U₁=2, b=3. U₂₀ = 2+19×3 = 59. S₂₀ = 20×(2+59)/2 = 20×30,5 = 610. Tunggu — 610. Mari perbaiki angka:
-
-Mari saya pilih soal yang hasilnya 590:
 
 **69.** Pada barisan 4, 7, 10, ..., berapa jumlah suku-suku dari ke-1 sampai ke-20?
 - A. 650
@@ -1947,20 +1804,6 @@ Mari saya pilih soal yang hasilnya 590:
 
 **77.** Pada barisan aritmetika: 2, 8, 14, 20, ..., suku yang nilainya 134 adalah suku ke ...
 - A. 24
-- B. 22
-- C. 25
-- D. 23
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 24. Salah hitung indeks.
-- **B** — **BENAR.** 134 = 2 + (n−1)×6 → (n−1)×6 = 132 → n−1 = 22 → n = 23. Tunggu — n=23, bukan 22. Koreksi:
-
-Saya akan benarkan: jawaban benar adalah n=23, bukan 22. Mari pindahkan ke D, dan distractor lupa +1 (yaitu 22) ke B.
-
-**77.** Pada barisan aritmetika: 2, 8, 14, 20, ..., suku yang nilainya 134 adalah suku ke ...
-- A. 24
 - B. 23
 - C. 25
 - D. 22
@@ -2048,36 +1891,6 @@ Saya akan benarkan: jawaban benar adalah n=23, bukan 22. Mari pindahkan ke D, da
 ---
 
 ### C. SOAL TINGKAT NASIONAL (Soal 81–100)
-
-**81.** Pada sebuah barisan aritmetika, jumlah suku ke-3 dan ke-7 adalah 38, sedangkan jumlah suku ke-5 dan ke-9 adalah 54. Suku ke-15 adalah ...
-- A. 49
-- B. 53
-- C. 45
-- D. 57
-
-**Kunci: A**
-
-**Pembahasan:**
-Misal U₁ = a, beda = b.
-- U₃ + U₇ = (a+2b) + (a+6b) = 2a + 8b = 38 ⟹ a + 4b = 19 ...(i)
-- U₅ + U₉ = (a+4b) + (a+8b) = 2a + 12b = 54 ⟹ a + 6b = 27 ...(ii)
-- Selisih (ii)−(i): 2b = 8 ⟹ b = 4. Substitusi ke (i): a = 19 − 16 = 3.
-- U₁₅ = a + 14b = 3 + 56 = 59. Hmm, hasilnya 59 bukan 49.
-
-Mari pakai angka berbeda:
-
-**81.** Pada sebuah barisan aritmetika, jumlah suku ke-3 dan ke-7 adalah 30, sedangkan jumlah suku ke-5 dan ke-9 adalah 46. Suku ke-15 adalah ...
-- A. 49
-- B. 53
-- C. 45
-- D. 57
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** U₃+U₇ = 2a+8b = 30 → a+4b = 15. U₅+U₉ = 2a+12b = 46 → a+6b = 23. Selisih: 2b = 8 → b=4. Maka a = 15−16 = −1. U₁₅ = −1 + 14×4 = −1 + 56 = 55. Hmm masih meleset. Pakai a+4b=15, a+6b=23 → b=4, a=−1, U₁₅ = −1+56 = 55. Bukan 49.
-
-Mari ulangi dengan target 49: a + 14b = 49. Coba b=3, a=7: a+4b = 19, a+6b = 25. Maka jumlah U₃+U₇ = 2a+8b = 14+24 = 38; U₅+U₉ = 2a+12b = 14+36 = 50.
 
 **81.** Pada sebuah barisan aritmetika, jumlah suku ke-3 dan ke-7 adalah 38, sedangkan jumlah suku ke-5 dan ke-9 adalah 50. Suku ke-15 adalah ...
 - A. 49
@@ -2168,22 +1981,6 @@ Mari ulangi dengan target 49: a + 14b = 49. Coba b=3, a=7: a+4b = 19, a+6b = 25.
 
 ---
 
-**85.** Banyak bilangan asli dua angka yang merupakan kelipatan 4 adalah ...
-- A. 25
-- B. 23
-- C. 24
-- D. 22
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 25. Salah hitung indeks.
-- **B** — **BENAR.** Bilangan dua angka kelipatan 4: 12, 16, 20, ..., 96. U₁=12, b=4, Uₙ=96. n = (96−12)÷4 + 1 = 21 + 1 = 22. Wait, jawab seharusnya 22, bukan 23. Mari koreksi distribusi kunci.
-
-Saya akan ubah opsi agar 23 = jawab. Pertanyaan: berapa bilangan dua angka kelipatan 4? Mulai dari 12 (4×3) sampai 96 (4×24). Jumlah = 24 − 3 + 1 − wait. Kelipatan 4 antara 10 dan 99: 4×3=12 sampai 4×24=96. Jadi ada 24−3+1 = 22 bilangan. Maka jawaban benar = 22.
-
-Pindahkan kunci ke D dan susun ulang. Tapi saya butuh B untuk pertanyaan ini sesuai pre-plan. Mari gunakan soal berbeda yang jawaban = B = 23:
-
 **85.** Banyak bilangan tiga angka yang merupakan kelipatan 11 adalah ...
 - A. 80
 - B. 81
@@ -2271,30 +2068,6 @@ Pindahkan kunci ke D dan susun ulang. Tapi saya butuh B untuk pertanyaan ini ses
   3. Bilangan terbesar = a+b = 8+4 = 12.
 
 ---
-
-**89.** Pada barisan aritmetika, S₅ = 30 dan S₁₀ = 110. Suku ke-7 adalah ...
-- A. 14
-- B. 13
-- C. 15
-- D. 12
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 14. Pakai a + 7b dengan salah hitung.
-- **B** — **BENAR.** S₅ = 5(2a+4b)/2 = 5(a+2b) = 30 → a+2b = 6 ...(i). S₁₀ = 10(2a+9b)/2 = 5(2a+9b) = 110 → 2a+9b = 22 ...(ii). Dari (i): 2a+4b = 12. Selisih (ii)−ini: 5b = 10 → b = 2. Maka a = 6−4 = 2. U₇ = a+6b = 2+12 = 14. Hmm — 14, bukan 13. Koreksi:
-
-Pindahkan kunci ke A (14) dan sesuaikan distractor:
-
-**89.** Pada barisan aritmetika, S₅ = 30 dan S₁₀ = 110. Suku ke-7 adalah ...
-- A. 14
-- B. 13
-- C. 15
-- D. 12
-
-**Kunci: A**
-
-Tapi saya butuh B untuk soal ini. Mari ubah soal agar jawab = 13:
 
 **89.** Pada barisan aritmetika, S₅ = 25 dan S₁₀ = 100. Suku ke-7 adalah ...
 - A. 14
@@ -2386,16 +2159,6 @@ Tapi saya butuh B untuk soal ini. Mari ubah soal agar jawab = 13:
 ---
 
 **93.** Pada barisan aritmetika, jika U₁₀ = 50 dan beda 4, maka jumlah 10 suku pertama (S₁₀) adalah ...
-- A. 320
-- B. 320
-- C. 300
-- D. 350
-
-**Kunci: B**
-
-Saya akan perbaiki duplikasi A dan B:
-
-**93.** Pada barisan aritmetika, jika U₁₀ = 50 dan beda 4, maka jumlah 10 suku pertama (S₁₀) adalah ...
 - A. 340
 - B. 320
 - C. 300
@@ -2418,16 +2181,6 @@ Saya akan perbaiki duplikasi A dan B:
 ---
 
 **94.** Pada barisan aritmetika, banyaknya bilangan dari 1 sampai 1000 yang habis dibagi 7 adalah ...
-- A. 142
-- B. 142
-- C. 143
-- D. 144
-
-**Kunci: B**
-
-Saya perbaiki:
-
-**94.** Pada barisan aritmetika, banyaknya bilangan dari 1 sampai 1000 yang habis dibagi 7 adalah ...
 - A. 141
 - B. 142
 - C. 143
@@ -2448,32 +2201,6 @@ Saya perbaiki:
   3. Jadi banyaknya = 142.
 
 ---
-
-**95.** Tiga bilangan berurutan dalam barisan aritmetika berjumlah 21. Jika bilangan terkecil dikalikan 2, bilangan tengah dikalikan 3, dan bilangan terbesar dikalikan 4, jumlahnya menjadi 68. Bilangan terbesar adalah ...
-- A. 11
-- B. 9
-- C. 13
-- D. 10
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** Misal bilangan: a, a+b, a+2b. Jumlah = 3a+3b = 21 → a+b = 7. Kedua: 2a + 3(a+b) + 4(a+2b) = 9a + 11b = 68. Substitusi a = 7−b: 9(7−b) + 11b = 68 → 63 − 9b + 11b = 68 → 2b = 5 → b = 2,5. Maka a = 4,5, bilangan terbesar = a+2b = 4,5 + 5 = 9,5. Hmm bukan bilangan bulat.
-
-Mari ganti angka. Pakai jumlah = 24, kedua = 76:
-
-**95.** Tiga bilangan berurutan dalam barisan aritmetika berjumlah 24. Jika bilangan terkecil dikalikan 2, bilangan tengah dikalikan 3, dan bilangan terbesar dikalikan 4, jumlahnya menjadi 82. Bilangan terbesar adalah ...
-- A. 11
-- B. 9
-- C. 13
-- D. 10
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** a + (a+b) + (a+2b) = 3a+3b = 24 → a+b = 8. 2a + 3(a+b) + 4(a+2b) = 9a + 11b = 82. Substitusi a = 8−b: 9(8−b) + 11b = 82 → 72 + 2b = 82 → b = 5. Maka a = 3. Bilangan: 3, 8, 13. Cek: 3+8+13 = 24 ✓, 2(3)+3(8)+4(13) = 6+24+52 = 82 ✓. Terbesar = 13. Tapi A = 11. Mari koreksi: pilihan A harus 13.
-
-Atur ulang:
 
 **95.** Tiga bilangan berurutan dalam barisan aritmetika berjumlah 24. Jika bilangan terkecil dikalikan 2, bilangan tengah dikalikan 3, dan bilangan terbesar dikalikan 4, jumlahnya menjadi 82. Bilangan terbesar adalah ...
 - A. 13
@@ -2498,34 +2225,6 @@ Atur ulang:
 
 ---
 
-**96.** Pada sebuah barisan aritmetika: U₃ + U₅ = 24 dan U₅ × U₇ = 117. Suku ke-1 (jika b > 0) adalah ...
-- A. 1
-- B. 3
-- C. 5
-- D. 7
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 1. Cek: a=1, b=? U₃+U₅ = (1+2b)+(1+4b) = 2+6b = 24 → b=11/3, tidak bulat.
-- **B** — **BENAR.** U₃+U₅ = 2a+6b = 24 → a+3b = 12 → U₄ = 12 (suku tengah pada U₃, U₄, U₅). Lalu U₅×U₇ = (a+4b)(a+6b) = 117. Cara cepat: misal U₅ = 12+b. U₅×U₇ = (12+b)(12+3b) = 117. Coba b=1: 13×15 = 195. b=−1: 11×9 = 99. b=2: 14×18 = 252. b=−2: 10×6 = 60. Hmm, mari lebih teliti: 117 = 9×13. Maka U₅=9, U₇=13 → b=2, U₅=9 → a+4b = 9 → a = 1. Tapi soal minta b>0, dan a=1. Mari koreksi:
-
-Mari ganti angka. Coba U₅×U₇ = 165 = 11×15: U₅=11, U₇=15 → b=2 dan a+4b=11 → a=3.
-
-**96.** Pada sebuah barisan aritmetika: U₃ + U₅ = 24 dan U₅ × U₇ = 165 (dengan b > 0). Suku ke-1 adalah ...
-- A. 1
-- B. 3
-- C. 5
-- D. 7
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 1. Salah hitung b.
-- **B** — **BENAR.** U₃+U₅ = 2a+6b = 24 → a+3b = 12 → U₄ = 12. U₅ = 12+b, U₇ = 12+3b. (12+b)(12+3b) = 165. Coba b=3: 15×21 = 315 — tidak. Coba b=1: 13×15 = 195. Coba b sehingga: pakai 165 = 11×15 → U₅=11, U₇=15 → 12+b=11 (b=−1) — bertentangan. Coba 165 = 5×33 → b=−7. Coba 165 = 15×11 → tidak sesuai b positif. Mari pakai pasangan yang konsisten: cari (12+b)(12+3b) = 165. Ekspansi: 144 + 36b + 12b + 3b² = 144 + 48b + 3b² = 165 → 3b² + 48b − 21 = 0 → b² + 16b − 7 = 0 → b = (−16+√284)/2 — tidak bulat.
-
-Ini menjadi rumit. Mari sederhanakan soal:
-
 **96.** Pada sebuah barisan aritmetika, U₄ = 9 dan U₈ = 21. Suku ke-1 adalah ...
 - A. 1
 - B. 0
@@ -2547,29 +2246,6 @@ Ini menjadi rumit. Mari sederhanakan soal:
   3. Hitung: 9 − 9 = 0.
 
 ---
-
-**97.** Diberikan barisan aritmetika: 13, 17, 21, 25, ..., 401. Jumlah seluruh suku barisan tersebut adalah ...
-- A. 20.470
-- B. 20.700
-- C. 20.700
-- D. 20.500
-
-Saya akan perbaiki:
-
-**97.** Diberikan barisan aritmetika: 13, 17, 21, 25, ..., 401. Jumlah seluruh suku barisan tersebut adalah ...
-- A. 19.800
-- B. 20.380
-- C. 20.700
-- D. 20.500
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 19.800. Salah hitung n.
-- **B** — 20.380. Salah hitung jumlah.
-- **C** — **BENAR.** U₁=13, b=4, Uₙ=401. n = (401−13)÷4 + 1 = 97 + 1 = 98. Sₙ = 98×(13+401)/2 = 98×207 = 20.286. Hmm bukan 20.700. Mari hitung ulang: 98×207. 100×207 = 20.700, dikurangi 2×207 = 414. Maka 20.700 − 414 = 20.286. Jadi jawab 20.286 yang seharusnya. Atau pakai n=100 untuk Uₙ=409:
-
-Mari ganti angka agar bulat:
 
 **97.** Diberikan barisan aritmetika: 13, 17, 21, 25, ..., 409. Jumlah seluruh suku barisan tersebut adalah ...
 - A. 19.800
@@ -2614,22 +2290,6 @@ Mari ganti angka agar bulat:
   3. Selesaikan: b = 2.
 
 ---
-
-**99.** Pada sebuah barisan aritmetika, hasil kali suku ke-3 dan ke-7 adalah 60. Selisih kuadrat antara suku ke-5 dan suku ke-3 adalah 32. Suku ke-1 (jika positif dan beda positif) adalah ...
-- A. 1
-- B. 3
-- C. 5
-- D. 2
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 1. Salah hitung.
-- **B** — 3. Salah hitung.
-- **C** — 5. Salah hitung.
-- **D** — **BENAR.** Misal U₅ = a+4b, U₃ = a+2b. (U₅)² − (U₃)² = (U₅−U₃)(U₅+U₃) = (2b)(2a+6b) = 4b(a+3b) = 32 → b(a+3b) = 8. Catat a+3b = U₄. Jadi b×U₄ = 8 ...(i). U₃×U₇ = (a+2b)(a+6b) = 60. Trik: U₃+U₇ = 2(a+4b) = 2U₅; selisih U₇−U₃ = 4b. Mari coba nilai. Karena b×U₄ = 8, coba pasangan: b=1, U₄=8 → a=8−3=5; cek U₃×U₇ = 7×11 = 77 ≠ 60. b=2, U₄=4 → a=4−6=−2 (negatif). b=4, U₄=2 → a=2−12=−10. b=8, U₄=1 → a negatif. Coba pakai b kecil pecahan: b=1/2, U₄=16 → a=16−1,5=14,5. Tidak rapi. Pakai b=1, U₄=8: U₃=7, U₇=11, 7×11 = 77, tidak 60. Coba ulang dengan U₃×U₇ = 65: ... Soal kompleks, simpan untuk versi sederhana:
-
-Mari ganti soal 99:
 
 **99.** Pada barisan aritmetika, U₁ + U₂ + U₃ = 15 dan U₁ × U₃ = 21. Suku ke-1 (asumsi terkecil) adalah ...
 - A. 1

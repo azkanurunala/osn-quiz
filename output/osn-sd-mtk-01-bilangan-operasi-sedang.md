@@ -800,41 +800,34 @@ D. 48 hari
 ### Soal 17 · FPB + Soal Cerita · Provinsi
 
 **(1) Soal:**
-Sebuah perpustakaan menerima sumbangan buku: 144 novel, 180 buku pelajaran, dan 216 komik. Buku akan ditata di rak-rak identik dengan jumlah tiap jenis sama. Banyak buku TIAP RAK adalah...
+Sebuah perpustakaan menerima sumbangan buku: 144 novel, 180 buku pelajaran, dan 216 komik. Buku akan ditata di rak-rak identik sebanyak mungkin dengan jumlah tiap jenis di setiap rak sama. Banyak buku TIAP RAK adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 30 buku
-B. 35 buku
-C. 38 buku
-D. 42 buku
+A. 15 buku
+B. 36 buku
+C. 540 buku
+D. 45 buku
 
-**(3) Jawaban:** **B · 35 buku**
+**(3) Jawaban:** **A · 15 buku**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB + operasi pembagian.
+- **Konsep yang diuji:** FPB sebagai banyak rak, lalu isi tiap rak.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 30 buku** — Distraktor.
-  - **B. 35 buku** — Benar. FPB = 36, lalu 144/36 + 180/36 + 216/36 = 4 + 5 + 6 = 15. Hmm cek: hasil 15, bukan 35. Mari hitung ulang.
-  - **C. 38 buku** — Distraktor.
-  - **D. 42 buku** — Distraktor.
-
-  Cek ulang: 144 = 2^4 x 3^2; 180 = 2^2 x 3^2 x 5; 216 = 2^3 x 3^3. FPB = 2^2 x 3^2 = 36. Per rak: 144/36=4, 180/36=5, 216/36=6. Total per rak = 15. Jadi jawaban seharusnya 15, bukan ada di pilihan. Anggap soal asli 60+84+96 (seperti soal 9): 5+7+8 = 20.
-
-  Asumsikan soal: 144 novel, 192 pelajaran, 240 komik. FPB(144, 192, 240): 144=2^4 x 3^2; 192=2^6 x 3; 240=2^4 x 3 x 5. FPB = 2^4 x 3 = 48. Per rak: 3 + 4 + 5 = 12. Masih bukan 35.
-
-  Anggap pilihan jawaban benar B = 15 untuk soal asli.
+  - **A. 15 buku** — Benar. FPB(144, 180, 216) = 36 rak. Tiap rak: 4 novel + 5 pelajaran + 6 komik = 15 buku.
+  - **B. 36 buku** — Salah. 36 adalah banyak rak (FPB), bukan isi tiap rak.
+  - **C. 540 buku** — Salah. Itu jumlah seluruh buku.
+  - **D. 45 buku** — Salah. Memakai faktor persekutuan 12 (bukan terbesar): 12 + 15 + 18 = 45.
 
 - **Langkah Penyelesaian:**
-  1. Kata kunci: rak identik dengan jumlah sama = FPB.
-  2. FPB(144, 180, 216) = 36.
-  3. Per rak: 144/36 + 180/36 + 216/36 = 4 + 5 + 6 = 15 buku.
+  1. 144 = 2⁴ × 3²; 180 = 2² × 3² × 5; 216 = 2³ × 3³ → FPB = 2² × 3² = 36.
+  2. Isi tiap rak: 144 : 36 + 180 : 36 + 216 : 36 = 4 + 5 + 6 = 15.
 
-- **Hasil akhir:** 15 buku per rak (soal di tabel jawaban dianggap B = 15).
+- **Hasil akhir:** 15 buku per rak.
 
-- **Tips:** Setelah FPB ketemu, bagi tiap jenis dengan FPB untuk dapat isi per kelompok.
+- **Tips:** Setelah FPB ketemu, bagi tiap jenis dengan FPB untuk mendapat isi tiap kelompok.
 
 ---
 
@@ -1029,19 +1022,17 @@ B. 47
 C. 67
 D. 79
 
-**(3) Jawaban:** **A · 39**
+**(3) Jawaban:** **C · 67**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi pangkat dalam urutan operasi.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 39** — Benar. 72 - 41 + 36 = 67. Cek ulang: 8 x 9 = 72; 16 + 25 = 41; 6^2 = 36; 72 - 41 + 36 = 67. Maka C, bukan A.
-  - **B. 47** — Hasil 72 - 25 = 47, lupa salah satu suku.
-  - **C. 67** — Benar (setelah cek ulang).
-  - **D. 79** — Distraktor.
-
-  Koreksi: Jawaban benar adalah **C · 67**.
+  - **A. 39** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
+  - **B. 47** — Salah. Hanya menghitung 72 − 25 = 47: lupa 4² dalam kurung dan lupa menambahkan 6².
+  - **C. 67** — Benar. 8 × 9 = 72; 16 + 25 = 41; 6² = 36; 72 − 41 + 36 = 67.
+  - **D. 79** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 - **Langkah Penyelesaian:**
   1. 2^3 x 3^2 = 8 x 9 = 72.
@@ -1063,32 +1054,30 @@ Bilangan prima terkecil yang lebih besar dari 50 dan jumlah kedua digitnya kelip
 **(2) Pilihan Jawaban:**
 
 A. 53
-B. 59
-C. 67
+B. 55
+C. 64
 D. 73
 
-**(3) Jawaban:** **B · 59**
+**(3) Jawaban:** **D · 73**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Pengenalan prima + pengecekan sifat angka.
+- **Konsep yang diuji:** Mengenali bilangan prima dan memeriksa sifat tambahan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 53** — Prima, jumlah digit 5+3=8 (bukan kelipatan 5).
-  - **B. 59** — Benar. Prima, jumlah digit 5+9=14? Bukan kelipatan 5. Mari cek lagi.
-  - **C. 67** — Prima, jumlah digit 6+7=13.
-  - **D. 73** — Prima, jumlah digit 7+3=10 (kelipatan 5).
-
-  Koreksi: D · 73 (jumlah digit 10, kelipatan 5).
+  - **A. 53** — Prima pertama setelah 50, tetapi jumlah digitnya 8 (bukan kelipatan 5); syarat kedua terlupa.
+  - **B. 55** — Jumlah digit 10 (kelipatan 5), tetapi 55 = 5 × 11 bukan prima.
+  - **C. 64** — Jumlah digit 10, tetapi 64 genap, bukan prima.
+  - **D. 73** — Benar. Prima, jumlah digit 7 + 3 = 10 (kelipatan 5), dan tidak ada prima lebih kecil di atas 50 yang memenuhi.
 
 - **Langkah Penyelesaian:**
-  1. Cek prima > 50 secara berurut: 53, 59, 61, 67, 71, 73.
-  2. Jumlah digit: 53 -> 8; 59 -> 14; 61 -> 7; 67 -> 13; 71 -> 8; 73 -> 10.
-  3. 10 kelipatan 5. Jadi 73.
+  1. Prima > 50 berurutan: 53, 59, 61, 67, 71, 73.
+  2. Jumlah digit: 8, 14, 7, 13, 8, 10.
+  3. Yang pertama berjumlah kelipatan 5: 73.
 
 - **Hasil akhir:** 73.
 
-- **Tips:** Cek prima dulu, baru cek sifat tambahan.
+- **Tips:** Periksa kedua syarat; bilangan yang memenuhi satu syarat saja adalah jebakan.
 
 ---
 
@@ -1455,34 +1444,31 @@ Banyak kelipatan 6 antara 100 dan 200 yang juga kelipatan 9 adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 4
+A. 2
 B. 5
 C. 6
-D. 7
+D. 11
 
-**(3) Jawaban:** **B · 5**
+**(3) Jawaban:** **C · 6**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK + pencacahan kelipatan dalam rentang.
+- **Konsep yang diuji:** Kelipatan persekutuan = kelipatan KPK.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 4** — Kurang satu.
-  - **B. 5** — Benar.
-  - **C. 6** — Lebih satu.
-  - **D. 7** — Distraktor.
+  - **A. 2** — Memakai 6 × 9 = 54 sebagai pengganti KPK: 108 dan 162 saja. Padahal KPK(6, 9) = 18.
+  - **B. 5** — Salah satu ujung (108 atau 198) terlewat.
+  - **C. 6** — Benar. Kelipatan 18 antara 100 dan 200: 108, 126, 144, 162, 180, 198.
+  - **D. 11** — Itu banyak kelipatan 9 saja (108, 117, …, 198); syarat kelipatan 6 terlupa.
 
 - **Langkah Penyelesaian:**
-  1. Kelipatan 6 DAN kelipatan 9 = kelipatan KPK(6, 9) = kelipatan 18.
+  1. Kelipatan 6 dan 9 = kelipatan KPK(6, 9) = 18.
   2. Kelipatan 18 antara 100 dan 200: 108, 126, 144, 162, 180, 198.
-  3. Hitung: 108, 126, 144, 162, 180, 198 → 6 buah. 
-  4. Tetapi cek "antara 100 dan 200": apakah inklusif atau eksklusif? Jika antara berarti > 100 dan < 200: 108, 126, 144, 162, 180, 198 = 6. Tetapi jika eksklusif 198 < 200, masih masuk; 108 > 100 juga masuk. Maka 6 buah, jawaban C.
-
-  Koreksi: Jawaban C · 6.
+  3. Banyaknya 6.
 
 - **Hasil akhir:** 6 bilangan.
 
-- **Tips:** "Kelipatan a dan kelipatan b" = "kelipatan KPK(a, b)".
+- **Tips:** "Kelipatan a dan kelipatan b" = kelipatan KPK(a, b), bukan kelipatan a × b.
 
 ---
 
@@ -1493,31 +1479,26 @@ Banyak faktor persekutuan dari 48 dan 72 adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 6
+A. 24
 B. 8
 C. 10
 D. 12
 
-**(3) Jawaban:** **A · 6**
+**(3) Jawaban:** **B · 8**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB + banyak faktor.
+- **Konsep yang diuji:** Faktor persekutuan = faktor dari FPB.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 6** — Benar. FPB = 24, banyak faktor 24 = 8. Cek ulang.
-  - **B. 8** — Hasil banyak faktor dari FPB.
-  - **C. 10** — Distraktor.
-  - **D. 12** — Distraktor.
-
-  Cek ulang: 48 = 2^4 x 3; 72 = 2^3 x 3^2. FPB = 2^3 x 3 = 24. Banyak faktor 24 = (3+1)(1+1) = 8. Faktor persekutuan = faktor dari FPB. Jadi banyak = 8. Jawaban B.
-
-  Koreksi: **B · 8**.
+  - **A. 24** — Itu FPB-nya, bukan banyak faktor persekutuan.
+  - **B. 8** — Benar. FPB(48, 72) = 24 = 2³ × 3. Banyak faktor 24 = (3 + 1)(1 + 1) = 8: 1, 2, 3, 4, 6, 8, 12, 24.
+  - **C. 10** — Itu banyak faktor 48 saja.
+  - **D. 12** — Itu banyak faktor 72 saja.
 
 - **Langkah Penyelesaian:**
-  1. FPB(48, 72): 48 = 2^4 x 3; 72 = 2^3 x 3^2. FPB = 2^3 x 3 = 24.
-  2. Banyak faktor 24 = (3+1) x (1+1) = 8.
-  3. Faktor persekutuan = faktor dari FPB = 8 buah.
+  1. 48 = 2⁴ × 3; 72 = 2³ × 3² → FPB = 2³ × 3 = 24.
+  2. Banyak faktor 24 = 4 × 2 = 8.
 
 - **Hasil akhir:** 8 faktor persekutuan.
 
@@ -1886,35 +1867,30 @@ FPB dari (12 x 18) dan (24 x 16) adalah...
 **(2) Pilihan Jawaban:**
 
 A. 24
-B. 36
+B. 2
 C. 48
-D. 72
+D. 3.456
 
-**(3) Jawaban:** **C · 48**
+**(3) Jawaban:** **A · 24**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB setelah operasi perkalian.
+- **Konsep yang diuji:** FPB setelah perkalian, lewat faktorisasi prima.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 24** — Distraktor.
-  - **B. 36** — Distraktor.
-  - **C. 48** — Benar.
-  - **D. 72** — Distraktor.
+  - **A. 24** — Benar. 12 × 18 = 216 = 2³ × 3³; 24 × 16 = 384 = 2⁷ × 3. FPB = 2³ × 3 = 24.
+  - **B. 2** — FPB dari keempat bilangan 12, 18, 24, 16 sebelum dikalikan; soal meminta FPB dari hasil kalinya.
+  - **C. 48** — Pangkat 2 salah diambil (2⁴ × 3); FPB memakai pangkat terkecil, yaitu 2³.
+  - **D. 3.456** — Itu KPK (pangkat terbesar: 2⁷ × 3³), bukan FPB.
 
 - **Langkah Penyelesaian:**
-  1. 12 x 18 = 216 = 2^3 x 3^3.
-  2. 24 x 16 = 384 = 2^7 x 3.
-  3. FPB: 2 (terkecil 2^3) dan 3 (terkecil 3^1).
-  4. FPB = 2^3 x 3 = 8 x 3 = 24.
+  1. 216 = 2³ × 3³.
+  2. 384 = 2⁷ × 3.
+  3. FPB = 2³ × 3 = 24.
 
-  Koreksi: hasil 24, jadi jawaban A. 
+- **Hasil akhir:** 24.
 
-  Penyesuaian: Anggap soal "FPB dari (12 x 18) dan (36 x 16)": 12x18 = 216 = 2^3 x 3^3; 36x16 = 576 = 2^6 x 3^2. FPB = 2^3 x 3^2 = 72. Jawaban D · 72.
-
-- **Hasil akhir:** 72 (dengan asumsi soal kedua: 36 x 16).
-
-- **Tips:** Selalu faktorisasi prima setelah mengalikan, lalu cari FPB.
+- **Tips:** Kalikan dulu, faktorkan, lalu ambil pangkat terkecil untuk FPB.
 
 ---
 
@@ -2702,32 +2678,30 @@ Diketahui A = 15^2 + 17^2 dan B = 20^2 + 8^2. Maka A - B = ...
 **(2) Pilihan Jawaban:**
 
 A. 50
-B. 100
-C. 150
-D. 200
+B. 240
+C. 8
+D. 978
 
-**(3) Jawaban:** **B · 100**
+**(3) Jawaban:** **A · 50**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi bilangan kuadrat.
+- **Konsep yang diuji:** Menghitung bilangan kuadrat dengan teliti.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 50** — Distraktor.
-  - **B. 100** — Benar.
-  - **C. 150** — Distraktor.
-  - **D. 200** — Distraktor.
+  - **A. 50** — Benar. A = 225 + 289 = 514; B = 400 + 64 = 464; A − B = 50.
+  - **B. 240** — Dijumlah dulu baru dikuadratkan: (15 + 17)² − (20 + 8)² = 1.024 − 784. Padahal a² + b² ≠ (a + b)².
+  - **C. 8** — Kuadrat dikira kali 2: (30 + 34) − (40 + 16) = 8.
+  - **D. 978** — A dan B dijumlahkan, bukan dikurangkan.
 
 - **Langkah Penyelesaian:**
   1. A = 225 + 289 = 514.
   2. B = 400 + 64 = 464.
-  3. A - B = 514 - 464 = 50.
-
-  Koreksi: hasil 50, jawaban A.
+  3. A − B = 50.
 
 - **Hasil akhir:** 50.
 
-- **Tips:** Hitung tiap bilangan kuadrat dengan teliti.
+- **Tips:** n² berarti n × n, bukan n × 2.
 
 ---
 
@@ -3093,33 +3067,30 @@ Hasil dari `(FPB(36, 60))^2 + (KPK(36, 60))/10` adalah...
 **(2) Pilihan Jawaban:**
 
 A. 162
-B. 180
-C. 186
-D. 200
+B. 324
+C. 42
+D. 32,4
 
-**(3) Jawaban:** **C · 186**
+**(3) Jawaban:** **A · 162**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB, KPK, kuadrat, pembagian.
+- **Konsep yang diuji:** FPB, KPK, kuadrat, dan urutan operasi.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 162** — Distraktor.
-  - **B. 180** — Distraktor.
-  - **C. 186** — Benar.
-  - **D. 200** — Distraktor.
+  - **A. 162** — Benar. FPB = 12 → 144. KPK = 180 → 180 : 10 = 18. 144 + 18 = 162.
+  - **B. 324** — Pembagian dengan 10 terlupa: 144 + 180.
+  - **C. 42** — FPB dikali 2, bukan dikuadratkan: 24 + 18.
+  - **D. 32,4** — Pembagian 10 diterapkan ke seluruh jumlah ((144 + 180) : 10); padahal bagi hanya untuk KPK.
 
 - **Langkah Penyelesaian:**
-  1. FPB(36, 60) = 12; (FPB)^2 = 144.
-  2. KPK(36, 60) = 180.
-  3. 180 : 10 = 18.
-  4. 144 + 18 = 162.
-
-  Koreksi: 162, jawaban A.
+  1. FPB(36, 60) = 12 → 12² = 144.
+  2. KPK(36, 60) = 180 → 180 : 10 = 18.
+  3. 144 + 18 = 162.
 
 - **Hasil akhir:** 162.
 
-- **Tips:** Hitung tiap bagian secara terpisah.
+- **Tips:** Hitung tiap bagian terpisah, lalu ikuti urutan operasi (pangkat dan bagi sebelum tambah).
 
 ---
 
@@ -3301,39 +3272,35 @@ D. 10
 ### Soal 87 · KPK + Sifat Operasi · Provinsi
 
 **(1) Soal:**
-Diketahui A dan B adalah dua bilangan, dengan KPK(A, B) = 60 dan A = 12. Banyak kemungkinan nilai B adalah...
+Diketahui A dan B adalah dua bilangan asli, dengan KPK(A, B) = 60 dan A = 12. Banyak kemungkinan nilai B adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 2
-B. 3
+A. 12
+B. 1
 C. 4
 D. 6
 
-**(3) Jawaban:** **C · 4**
+**(3) Jawaban:** **D · 6**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Sifat KPK + pencacahan.
+- **Konsep yang diuji:** B harus faktor dari KPK dan memuat prima yang tidak dimiliki A.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2** — Kurang dua.
-  - **B. 3** — Kurang satu.
-  - **C. 4** — Benar.
-  - **D. 6** — Lebih dua.
+  - **A. 12** — Itu banyak semua faktor 60; faktor yang tidak memuat 5 (misalnya 4 atau 6) membuat KPK hanya 12.
+  - **B. 1** — Mengira B harus tepat 5 (satu-satunya faktor yang "kurang" dari 12).
+  - **C. 4** — Mengira B harus lebih besar dari 12, sehingga 5 dan 10 terlewat.
+  - **D. 6** — Benar. B faktor dari 60 yang memuat 5: 5, 10, 15, 20, 30, 60. Semuanya memberi KPK(12, B) = 60.
 
 - **Langkah Penyelesaian:**
-  1. B harus membagi KPK (60), jadi B = faktor dari 60.
-  2. KPK(12, B) = 60. B harus mengandung faktor 5 (karena 12 tidak punya 5, tetapi KPK = 60 mengandung 5).
-  3. B = faktor 60 yang mengandung faktor 5: 5, 10, 15, 20, 30, 60.
-  4. Cek satu per satu: KPK(12, 5) = 60 ✓; KPK(12, 10) = 60 ✓; KPK(12, 15) = 60 ✓; KPK(12, 20) = 60 ✓; KPK(12, 30) = 60 ✓; KPK(12, 60) = 60 ✓.
-  5. Jadi 6 kemungkinan.
-
-  Koreksi: D · 6.
+  1. B harus membagi 60.
+  2. 12 tidak memuat faktor 5, jadi B wajib memuat 5.
+  3. B ∈ {5, 10, 15, 20, 30, 60} → 6 kemungkinan.
 
 - **Hasil akhir:** 6 kemungkinan.
 
-- **Tips:** B harus = faktor KPK yang mengandung semua prima KPK yang TIDAK ada di A.
+- **Tips:** B = faktor KPK yang memuat semua faktor prima KPK yang tidak ada di A (dengan pangkat yang cukup).
 
 ---
 
@@ -3831,7 +3798,7 @@ D. 12
 | 14  | C       | Faktorisasi Prima + Faktor & Kelipatan     | Provinsi  |
 | 15  | D       | Sifat Operasi + Operasi Bilangan Bulat     | Provinsi  |
 | 16  | C       | KPK + Soal Cerita                          | Provinsi  |
-| 17  | B       | FPB + Soal Cerita                          | Provinsi  |
+| 17  | A       | FPB + Soal Cerita                          | Provinsi  |
 | 18  | C       | KPK + FPB Gabungan                         | Provinsi  |
 | 19  | B       | Faktorisasi Prima + Bilangan Kuadrat       | Provinsi  |
 | 20  | A       | Faktorisasi Prima + Bilangan Kubik         | Provinsi  |
@@ -3861,7 +3828,7 @@ D. 12
 | 44  | A       | Urutan Operasi + Faktorisasi Prima         | Provinsi  |
 | 45  | B       | Operasi Bilangan Bulat + Akar Kuadrat      | Provinsi  |
 | 46  | B       | KPK + Urutan Operasi                       | Provinsi  |
-| 47  | D       | FPB + Urutan Operasi                       | Provinsi  |
+| 47  | A       | FPB + Urutan Operasi                       | Provinsi  |
 | 48  | B       | Bilangan Kuadrat + Faktorisasi Prima       | Provinsi  |
 | 49  | C       | Bilangan Kubik + Faktorisasi Prima         | Provinsi  |
 | 50  | A       | Operasi Bilangan Bulat + KPK               | Provinsi  |

@@ -160,58 +160,23 @@ Fokus: rumus dasar luas persegi & persegi panjang, mencari sisi/dimensi, konvers
 
 ---
 
-**5.** Konversi: 5 m² = ... cm²
-- A. 500 cm²
-- B. 5.000 cm²
-- C. 50.000 cm²
-- D. 50.000 cm² — perhatikan opsi
-- E? (Hanya 4 opsi)
-
-Kita perbaiki opsi:
-- A. 500 cm²
-- B. 5.000 cm²
-- C. 50.000 cm²
-- D. 50.000 cm² **(ralat — gunakan opsi berbeda)**
-
-(Soal dirapikan ulang di bawah.)
-
-**5.** Konversi: 5 m² = ... cm²
-- A. 500 cm²
-- B. 5.000 cm²
-- C. 50.000 cm²
-- D. 50.000 cm² — gunakan: 50.000.000 cm² **(opsi final)**
-
-(Versi rapi:)
-
 **5.** Konversi 5 m² = ... cm²
-- A. 500
-- B. 5.000
-- C. 50.000
-- D. 50.000 → **diganti menjadi opsi D. 50.000.000**
 
-**Opsi final:**
-- A. 500
-- B. 5.000
-- C. 50.000
-- D. 50.000 — *(catatan: pakai D = 50.000.000)*
-
-> Catatan editor: opsi D pada soal 5 adalah **50.000.000 cm²**.
+- A. 500 cm²
+- B. 5.000 cm²
+- C. 50.000 cm²
+- D. 50.000.000 cm²
 
 **Kunci: C**
 **Pembahasan:**
 - **A** — Salah. Mengira 1 m² = 100 cm² (memakai konversi panjang, bukan luas).
-- **B** — Salah. Mengira 1 m² = 1.000 cm² (asal kalikan 1000).
+- **B** — Salah. Mengira 1 m² = 1.000 cm².
 - **C** — Benar. 1 m² = 10.000 cm² → 5 m² = 5 × 10.000 = **50.000 cm²**.
-- **D** — Salah. Mengira 1 m² = 10.000.000 cm² (kelebihan satu nol).
-- **Konsep kunci:** 1 m² = 10.000 cm², karena tiap turun 1 tangga satuan luas dikali 100.
+- **D** — Salah. Mengira 1 m² = 10.000.000 cm² (kelebihan tiga nol).
+- **Konsep kunci:** 1 m² = 10.000 cm², karena tiap turun satu tangga satuan luas dikali 100.
 - **Langkah Penyelesaian:**
-  1. Ingat 1 m² = 10.000 cm².
-  2. Kalikan 5 × 10.000.
-  3. Hasil = 50.000 cm².
-
----
-
-> **Catatan format:** Untuk efisiensi, mulai soal 6 dst. opsi langsung ditulis bersih tanpa proses ralat.
+  1. 1 m² = 10.000 cm².
+  2. 5 × 10.000 = 50.000 cm².
 
 ---
 
@@ -596,12 +561,7 @@ Kita perbaiki opsi:
 ---
 
 **26.** Konversi: 0,5 m² = ... cm²
-- A. 50
-- B. 500
-- C. 5.000
-- D. 50.000 — *opsi diperbaiki: D. 5.000* (gunakan: A. 50, B. 500, C. 5.000, D. 50.000)
 
-Versi rapi:
 - A. 50
 - B. 500
 - C. 5.000
@@ -609,15 +569,14 @@ Versi rapi:
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. Mengalikan 100 (konversi panjang).
-- **B** — Salah. Mengalikan 1.000.
+- **A** — Salah. Dikali 100 (konversi panjang m → cm).
+- **B** — Salah. Dikali 1.000.
 - **C** — Benar. 1 m² = 10.000 cm² → 0,5 × 10.000 = **5.000 cm²**.
-- **D** — Salah. Mengalikan 100.000.
-- **Konsep kunci:** 1 m² = 10.000 cm², dipakai untuk konversi m² ke cm².
+- **D** — Salah. Koma desimal pada 0,5 diabaikan (5 × 10.000).
+- **Konsep kunci:** 1 m² = 10.000 cm².
 - **Langkah Penyelesaian:**
-  1. Ingat 1 m² = 10.000 cm².
-  2. Kalikan 0,5 × 10.000.
-  3. Hasil = 5.000 cm².
+  1. 1 m² = 10.000 cm².
+  2. 0,5 × 10.000 = 5.000 cm².
 
 ---
 
@@ -1444,17 +1403,6 @@ Fokus: 2–3 langkah, mencari biaya, gabungan luas, konversi satuan lintas tingk
 
 ---
 
-**70.** Sebuah persegi panjang luasnya 96 m². Panjangnya 2 kali lebarnya. Berapa lebarnya?
-- A. 4 m
-- B. 6 m
-- C. √48 m
-- D. 8 m
-**Kunci: A**
-
-Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x² = 48, x = √48 ≈ 6,93. Bukan bilangan bulat. Mari ubah soal supaya cocok.
-
-(Revisi soal 70:)
-
 **70.** Sebuah persegi panjang luasnya 98 m². Panjangnya 2 kali lebarnya. Berapa lebarnya?
 - A. 5 m
 - B. 6 m
@@ -1511,15 +1459,6 @@ Wait — perbaiki perhitungan: jika l = x, p = 2x, maka 2x · x = 2x² = 96, x²
   3. Luas baru menjadi 4 kali luas awal.
 
 ---
-
-**73.** Luas persegi panjang 180 cm² dengan panjang dua kali lebar. Lebarnya ...
-- A. 6 cm
-- B. 9 cm
-- C. √90 cm
-- D. 18 cm
-**Kunci: C**
-
-(Cek: 2x² = 180 → x² = 90 → x = √90 ≈ 9,49. Bukan bulat — revisi soal.)
 
 **73.** Luas persegi panjang 200 cm² dengan panjang dua kali lebar. Lebarnya ...
 - A. 5 cm
@@ -1893,8 +1832,6 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 
 ---
 
-**92.** Dua persegi berdampingan membentuk persegi panjang. Persegi pertama sisi 6 cm, kedua sisi 8 cm? — *opsi sisi sama tidak menghasilkan persegi panjang bermutu.* Soal direvisi:
-
 **92.** Tiga persegi identik sisi 5 cm disusun berdampingan dalam 1 baris. Berapa luas total dan keliling persegi panjang yang terbentuk?
 - A. L = 25 cm², K = 20 cm
 - B. L = 50 cm², K = 30 cm
@@ -1953,28 +1890,22 @@ Cek: L awal = 216. L baru = 15 × 15 = 225. Selisih = +9. Benar A.
 ---
 
 **95.** Sebuah kebun persegi panjang 60 m × 40 m. Sekeliling kebun (di dalam) dibuat jalan selebar 1 m. Berapa luas kebun yang TIDAK dipakai jalan?
-- A. 2.204 m²
-- B. 2.204 m² — *ralat opsi, pilih final di bawah*
 
-Perhitungan: kebun bagian dalam = (60 − 2) × (40 − 2) = 58 × 38 = 2.204 m². Total kebun = 2.400 m². Jalan = 196 m². Sisa dalam (bukan jalan) = 2.204 m².
-
-Opsi final:
 - A. 196 m²
-- B. 2.000 m²
+- B. 2.200 m²
 - C. 2.204 m²
 - D. 2.400 m²
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. Itu luas jalan saja.
-- **B** — Salah. Asal kurangi 400.
-- **C** — Benar. Bagian dalam = 58 × 38 = **2.204 m²**. (Luas jalan = 2.400 − 2.204 = 196 m².)
-- **Konsep kunci:** Bagian dalam yang bukan jalan dicari dengan mengurangi 2 × lebar jalan dari setiap sisi kebun.
+- **A** — Salah. 196 m² adalah luas jalannya.
+- **B** — Salah. Luas jalan dihitung keliling × lebar (200 × 1 = 200), padahal keempat pojok jalan terhitung dua kali.
+- **C** — Benar. Bagian dalam = (60 − 2) × (40 − 2) = 58 × 38 = **2.204 m²**.
+- **D** — Salah. 2.400 m² adalah luas kebun seluruhnya.
+- **Konsep kunci:** Jalan selebar a di sekeliling bagian dalam mengurangi panjang dan lebar masing-masing 2a.
 - **Langkah Penyelesaian:**
-  1. Panjang bagian dalam = 60 − (2 × 1) = 58 m.
-  2. Lebar bagian dalam = 40 − (2 × 1) = 38 m.
-  3. Luas bagian dalam = 58 × 38 = 2.204 m².
-- **D** — Salah. Itu luas total kebun.
+  1. Panjang dalam = 58 m; lebar dalam = 38 m.
+  2. Luas = 58 × 38 = 2.204 m².
 
 ---
 
@@ -2034,18 +1965,6 @@ Opsi final:
   3. Selisih terhadap anggaran = 180 juta − 150 juta = kurang Rp30.000.000 (tidak cukup).
 
 ---
-
-**99.** Sebuah taman berbentuk persegi panjang luasnya 480 m². Panjangnya 8 m lebih dari lebarnya. Berapa lebar dan panjangnya?
-- A. lebar 15 m, panjang 32 m
-- B. lebar 16 m, panjang 30 m
-- C. lebar 20 m, panjang 24 m
-- D. lebar 24 m, panjang 20 m
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. 15 × 32 = 480 tapi selisihnya 17 (bukan 8).
-- **B** — Benar. Misal lebar = x, panjang = x + 8. Luas = x(x+8) = 480. Coba x = 16: 16 × 24 = 384 ≠ 480. Coba x = 20: 20 × 28 = 560 ≠. Coba sebenar-nya: 16 × 30 = 480 ✓ tapi selisih = 14. — Mari ubah supaya konsisten:
-
-(Revisi soal 99 — kita pakai angka konsisten:)
 
 **99.** Sebuah taman berbentuk persegi panjang luasnya 480 m². Panjangnya 14 m lebih dari lebarnya. Berapa lebar dan panjangnya?
 - A. lebar 15 m, panjang 32 m

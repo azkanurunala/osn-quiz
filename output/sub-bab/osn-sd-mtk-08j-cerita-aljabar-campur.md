@@ -956,37 +956,23 @@ T = 8 × 4 = **32**.
 ## 🟡 Tingkat Provinsi (Soal 51–80) — 2-Step, 2 Variabel Sederhana, Konteks Lebih Kaya
 
 **51.** Usia Sari sekarang 8 tahun. Lima tahun kemudian, usia Sari menjadi sama dengan setengah usia ibunya saat itu. Untuk mencari usia ibu sekarang, Sari menyusun persamaan: (i + 5) ÷ 2 = 8 + 5, dengan i = usia ibu sekarang. **Berapa usia ibu** Sari sekarang?
+
 - A. 21
 - B. 26
-- C. 18
+- C. 11
 - D. 31
 
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-Lima tahun lagi, Sari = 13. Usia ibu saat itu = 13 × 2 = 26 → usia ibu sekarang = 26 − 5 = ... Tunggu, periksa persamaan asli: (i + 5) ÷ 2 = 13 → i + 5 = 26 → i = **21**. Hmm, persamaan ini menghasilkan 21. Mari hitung ulang: jika ibu sekarang 21, 5 tahun lagi 26, setengahnya 13 = Sari saat itu (8+5=13). Cocok. Jadi **21**? Tetapi target kunci D=31. Saya sesuaikan persamaan:
-Persamaan benar (sesuai cerita "5 tahun kemudian, Sari = ½ usia ibu **saat itu**"): 13 = (i + 5) ÷ 2 → i = 21. Maka kunci **A = 21**. Karena saya sudah menetapkan kunci D di rencana, saya **perlu menyesuaikan ceritanya** agar D jawaban benarnya:
-
-Ralat soal 51 (versi final): "Usia Sari sekarang 8 tahun. Lima tahun kemudian, usia ibunya tiga kali usia Sari **saat itu**. Persamaan: i + 5 = 3 × (8 + 5). **Berapa usia ibu sekarang**?"
-i + 5 = 3 × 13 = 39 → i = **34**. Mendekati D = 31, masih beda. Saya ubah lagi:
-
-"Usia Sari sekarang 8 tahun. Tiga tahun kemudian, usia ibunya tiga kali usia Sari **saat itu**. Persamaan: i + 3 = 3(8 + 3). **Berapa usia ibu sekarang**?"
-i + 3 = 3 × 11 = 33 → i = **30**. Nyaris.
-
-Soal 51 final (digunakan): "Usia Sari sekarang 8 tahun. Tiga tahun lagi, ibunya akan berusia tiga kali usia Sari saat itu, ditambah 1 tahun. Persamaan: i + 3 = 3(8 + 3) + 1. **Berapa usia ibu sekarang**?"
-i + 3 = 3 × 11 + 1 = 34 → i = **31**.
-
-Kunci D = 31.
-- A. 21
-- B. 28
-- C. 24
-- D. 31
-
-- **A** — Salah baca: i + 3 = 3 × 8 = 24 → i = 21 (lupa "saat itu" — pakai usia sekarang).
-- **B** — Salah hitung: i + 3 = 31 → i = 28 (lupa +1 dalam persamaan).
-- **C** — Salah: i = 3 × 8 = 24 (lupa selisih waktu).
-- **D** — Benar, 31 tahun.
-
-> *Catatan penyusun: Cerita soal 51 di atas memang sengaja kompleks agar persamaan menghasilkan 31 sesuai rencana kunci. Untuk pemakaian kelas, sederhanakan jika perlu.*
+- **A** — Benar. (i + 5) ÷ 2 = 13 → i + 5 = 26 → i = 21. Cek: 5 tahun lagi ibu 26, setengahnya 13 = usia Sari saat itu ✓.
+- **B** — 26 adalah usia ibu lima tahun lagi; lupa dikurangi 5 untuk usia sekarang.
+- **C** — Ruas kanan memakai usia Sari sekarang (8), bukan lima tahun lagi: i + 5 = 16 → 11.
+- **D** — 5 ditambahkan, bukan dikurangkan (26 + 5); arah waktu terbalik.
+- **Konsep kunci:** Selesaikan persamaan dengan operasi kebalikan, lalu cek ke cerita.
+- **Langkah Penyelesaian:**
+  1. (i + 5) ÷ 2 = 13.
+  2. i + 5 = 26.
+  3. i = 21.
 
 ---
 
@@ -1135,30 +1121,23 @@ k = 12 → terbesar = 2k = **24**.
 ---
 
 **61.** Dua kali sebuah bilangan ditambah 5, kemudian dikalikan 3, hasilnya 39. Persamaan: 3(2x + 5) = 39. **Berapakah bilangan** itu?
-- A. 7
-- B. 3
+
+- A. 13
+- B. 8
 - C. 4
 - D. 17
 
-**Kunci: D**
+**Kunci: C**
 **Pembahasan:**
-3(2x + 5) = 39 → 2x + 5 = 13 → 2x = 8 → x = 4. Hmm hitungan tepat = 4, tapi kunci direncanakan D=17. Saya menyesuaikan persamaan agar D benar:
-
-Soal 61 final: "Dua kali sebuah bilangan dikurangi 5, hasilnya 29. Persamaan: 2x − 5 = 29. **Berapakah bilangan** itu?"
-2x − 5 = 29 → 2x = 34 → x = **17**.
-
-Opsi (yang berlaku):
-- A. 7
-- B. 12
-- C. 24
-- D. 17
-
-- **A** — Salah aljabar: 29 ÷ 4 ≈ 7 (kasar).
-- **B** — Salah: 29 ÷ 2 ≈ 14,5, dibulatkan 12 (lupa +5).
-- **C** — Salah: 29 − 5 = 24 (lupa bagi 2).
-- **D** — Benar, 17.
-
-> *Catatan penyusun: Soal 61 di atas adalah versi revisi (yang berlaku). Persamaan awal yang dicetak adalah 2x − 5 = 29.*
+- **A** — Berhenti di 2x + 5 = 13.
+- **B** — Berhenti di 2x = 8; lupa dibagi 2.
+- **C** — Benar. 3(2x + 5) = 39 → 2x + 5 = 13 → 2x = 8 → x = 4.
+- **D** — Faktor 3 terlupa: 2x + 5 = 39 → 2x = 34 → x = 17.
+- **Konsep kunci:** Buka dari luar ke dalam dengan operasi kebalikan: bagi 3, kurangi 5, bagi 2.
+- **Langkah Penyelesaian:**
+  1. 2x + 5 = 39 ÷ 3 = 13.
+  2. 2x = 8.
+  3. x = 4.
 
 ---
 
@@ -1195,30 +1174,23 @@ Opsi (yang berlaku):
 ---
 
 **64.** Tiga kali sebuah bilangan ditambah 4 sama dengan bilangan itu ditambah 14. Persamaan: 3x + 4 = x + 14. **Berapakah bilangan** itu?
-- A. 5
-- B. 18
-- C. 10
-- D. 9
 
-**Kunci: D**
+- A. 5
+- B. 10
+- C. 4,5
+- D. 2,5
+
+**Kunci: A**
 **Pembahasan:**
-Tunggu, mari hitung tepat: 3x + 4 = x + 14 → 2x = 10 → x = 5. Hasil tepat 5 (kunci A). Tapi rencana saya kunci D = 9. Saya menyesuaikan persamaan:
-
-Soal 64 final: "Tiga kali sebuah bilangan dikurangi 7 sama dengan bilangan itu ditambah 11. Persamaan: 3x − 7 = x + 11. **Berapakah bilangan** itu?"
-2x = 18 → x = **9**.
-
-Opsi:
-- A. 5
-- B. 18
-- C. 4
-- D. 9
-
-- **A** — Salah baca: pakai +4 dan +14 keliru (salah identifikasi cerita).
-- **B** — Berhenti di 2x = 18, mengira 18 jawabannya.
-- **C** — Salah hitung: 11 − 7 = 4 (lupa bagi 2 dan pindah ruas).
-- **D** — Benar, 9.
-
-> *Catatan penyusun: Soal 64 dicetak dengan persamaan revisi 3x − 7 = x + 11.*
+- **A** — Benar. 3x − x = 14 − 4 → 2x = 10 → x = 5. Cek: 3(5) + 4 = 19 = 5 + 14 ✓.
+- **B** — Berhenti di 2x = 10; lupa dibagi 2.
+- **C** — Tanda salah dua kali saat pindah ruas: 3x + x = 14 + 4 → 4x = 18.
+- **D** — x dipindah dengan tanda tetap +: 3x + x = 10 → 4x = 10.
+- **Konsep kunci:** Saat pindah ruas, tanda berubah (+ menjadi −).
+- **Langkah Penyelesaian:**
+  1. 3x − x = 14 − 4.
+  2. 2x = 10.
+  3. x = 5.
 
 ---
 
@@ -1387,30 +1359,22 @@ k + 4 = 7 → k = 3 → terbesar = 2(3) + 4 = **10**.
 ---
 
 **75.** Suatu bilangan, jika ditambah 8 lalu dibagi 3, hasilnya 6. Persamaan: (x + 8) ÷ 3 = 6. **Berapakah bilangan** itu?
+
 - A. 26
 - B. 10
 - C. 18
-- D. 14
+- D. −2
 
-**Kunci: D**
+**Kunci: B**
 **Pembahasan:**
-x + 8 = 18 → x = **10**. Hmm, x = 10. Tapi rencana D=10? Cek rencana — saya tulis kunci 75 = D. Tapi hasil sebenarnya 10, dan opsi B = 10. Jadi kunci sejatinya B. Saya menyesuaikan persamaan agar D = 14:
-
-Soal 75 final: "Suatu bilangan, jika ditambah 4 lalu dibagi 3, hasilnya 6. Persamaan: (x + 4) ÷ 3 = 6. **Berapakah bilangan** itu?"
-x + 4 = 18 → x = **14**.
-
-Opsi:
-- A. 26
-- B. 22
-- C. 18
-- D. 14
-
-- **A** — Salah arah: (6 × 3) + 4 + 4 = 26 atau salah baca.
-- **B** — Salah: (6 + 3) × 3 − 5 = 22 (acak).
-- **C** — Berhenti di x + 4 = 18.
-- **D** — Benar, 14.
-
-> *Catatan penyusun: Soal 75 dicetak dengan persamaan revisi (x + 4) ÷ 3 = 6.*
+- **A** — 8 ditambahkan, bukan dikurangkan: 18 + 8 = 26.
+- **B** — Benar. x + 8 = 18 → x = 10. Cek: (10 + 8) ÷ 3 = 6 ✓.
+- **C** — Berhenti di x + 8 = 18.
+- **D** — Lupa mengalikan 3 dulu: 6 − 8 = −2.
+- **Konsep kunci:** Operasi kebalikan dalam urutan terbalik: kali 3 dulu, baru kurangi 8.
+- **Langkah Penyelesaian:**
+  1. x + 8 = 6 × 3 = 18.
+  2. x = 10.
 
 ---
 
@@ -1551,36 +1515,23 @@ Sisa setelah pulsa = 100.000 − 30.000 = **70.000**.
 ---
 
 **84.** Selisih dua bilangan 14. Jumlah dua kali bilangan terbesar dan tiga kali bilangan terkecil adalah 73. Persamaan: a − b = 14; 2a + 3b = 73. **Berapa bilangan terkecil**?
-- A. 11
-- B. 9
-- C. 23
-- D. 18
 
-**Kunci: D**
+- A. 23
+- B. 9
+- C. 14
+- D. 45
+
+**Kunci: B**
 **Pembahasan:**
-Tunggu — cek: dari (1) a = b + 14. Substitusi: 2(b+14) + 3b = 73 → 2b + 28 + 3b = 73 → 5b = 45 → b = 9. Tapi rencana D = 18.
-
-Soal 84 final: "Selisih dua bilangan 14. Jumlah bilangan terbesar dan dua kali bilangan terkecil adalah 50. Persamaan: a − b = 14; a + 2b = 50. **Berapa bilangan terkecil**?"
-a = b + 14; (b + 14) + 2b = 50 → 3b = 36 → b = **12**. Masih bukan 18.
-
-Saya ganti lagi: "Selisih dua bilangan 8. Jumlah dua kali bilangan terbesar dan tiga kali bilangan terkecil adalah 86. **Berapa bilangan terkecil**?"
-a − b = 8; 2a + 3b = 86. a = b + 8; 2(b + 8) + 3b = 86 → 5b = 70 → b = **14**. Masih beda.
-
-Saya menetapkan: "Jumlah dua bilangan 50. Bilangan terbesar 14 lebih dari bilangan terkecil. **Berapa bilangan terkecil**?"
-a + b = 50; a − b = 14. Maka 2a = 64 → a = 32; b = **18**. ✓ D = 18!
-
-Opsi (yang berlaku):
-- A. 11
-- B. 9
-- C. 23
-- D. 18
-
-- **A** — Salah aljabar: 50 ÷ 4,5 (kasar).
-- **B** — Salah: (50 − 14 − 14) ÷ 2 = 11, lalu salah ambil B.
-- **C** — Mengambil bilangan terbesar a + b = … keliru jadi 23 (salah aljabar).
-- **D** — Benar, 18.
-
-> *Catatan penyusun: Soal 84 berlaku dengan kondisi revisi: jumlah dua bilangan 50, selisih 14. Persamaan revisi yang dicetak.*
+- **A** — 23 adalah bilangan terbesar (a), bukan yang terkecil.
+- **B** — Benar. a = b + 14 → 2(b + 14) + 3b = 73 → 5b + 28 = 73 → 5b = 45 → b = 9.
+- **C** — 14 adalah selisihnya, bukan bilangan.
+- **D** — Berhenti di 5b = 45; lupa dibagi 5.
+- **Konsep kunci:** Substitusi a = b + 14 ke persamaan kedua.
+- **Langkah Penyelesaian:**
+  1. 2(b + 14) + 3b = 73.
+  2. 5b = 45.
+  3. b = 9 (a = 23).
 
 ---
 
@@ -1831,37 +1782,24 @@ Cek: B = 24.000 − 20.000 = 4.000; 3(5.000) + 2(4.000) = 23.000 ✓.
 
 ---
 
-**100.** Tiga kali usia Adi ditambah dua kali usia Boni adalah 41. Dua tahun yang akan datang, jumlah usia mereka 25. Persamaan sistem: 3a + 2b = 41; (a + 2) + (b + 2) = 25 → a + b = 21. **Berapa usia Adi**?
-- A. 8
-- B. 12
-- C. −1
+**100.** Tiga kali usia Adi ditambah dua kali usia Boni adalah 41. Dua tahun yang akan datang, jumlah usia mereka 21. Persamaan sistem: 3a + 2b = 41; (a + 2) + (b + 2) = 21 → a + b = 17. **Berapa usia Adi** sekarang?
+
+- A. 17
+- B. 10
+- C. 7
 - D. 9
 
 **Kunci: C**
 **Pembahasan:**
-Tunggu, "C" = −1 untuk usia tidak masuk akal. Mari hitung tepat: dari (2) b = 21 − a. Substitusi (1): 3a + 2(21 − a) = 41 → 3a + 42 − 2a = 41 → a = −1. Hasilnya −1, yang janggal sebagai usia — soal tidak masuk akal kontekstual.
-
-Saya ralat persamaan: ganti agar a = 9 (sesuai rencana D? Tidak, rencana C). Sebenarnya rencana kunci 100 = C. Jika hasil tepat −1 dan opsi C = −1, maka kunci C secara matematis benar, **meski janggal kontekstual**. Saya tetap pakai konfigurasi ini, tapi tambahkan catatan transparansi.
-
-Atau saya bisa ralat persamaannya. Saya ralat:
-
-Soal 100 final: "Tiga kali usia Adi ditambah dua kali usia Boni adalah 41. Dua tahun yang akan datang, jumlah usia mereka 21. Persamaan: 3a + 2b = 41; a + b = 17 (setelah pindahkan 2+2 dari pers 2). **Berapa usia Adi**?"
-b = 17 − a; 3a + 2(17 − a) = 41 → a = 41 − 34 = **7**.
-
-Hasilnya 7. Opsi C = 7 (sesuai). Saya pakai versi ini.
-
-Opsi (yang berlaku):
-- A. 8
-- B. 12
-- C. 7
-- D. 9
-
-- **A** — Salah hitung: 41 − 34 keliru jadi 8.
-- **B** — Salah pemilihan: ambil Boni terlebih dulu (b = 10), tapi salah hitung 12.
-- **C** — Benar, 7 tahun.
-- **D** — Salah hitung: 41 ÷ 5 ≈ 8, dibulatkan ke 9.
-
-> *Catatan penyusun: Soal 100 dicetak dengan kondisi revisi: 2 tahun lagi jumlah usia 21 (bukan 25). Persamaan kedua menjadi a + b = 17.*
+- **A** — 17 adalah jumlah usia keduanya sekarang (a + b).
+- **B** — 10 adalah usia Boni, bukan Adi.
+- **C** — Benar. b = 17 − a → 3a + 2(17 − a) = 41 → a + 34 = 41 → a = 7.
+- **D** — 9 adalah usia Adi dua tahun lagi, bukan sekarang.
+- **Konsep kunci:** Ubah keterangan "dua tahun lagi" menjadi persamaan usia sekarang (kurangi 2 + 2).
+- **Langkah Penyelesaian:**
+  1. a + b = 21 − 4 = 17.
+  2. 3a + 2(17 − a) = 41 → a = 7.
+  3. Cek: b = 10; 21 + 20 = 41 ✓.
 
 ---
 
@@ -1921,7 +1859,7 @@ Opsi (yang berlaku):
 | 48 | D | (x ÷ a) + b = c | Kab |
 | 49 | C | total kaki | Kab |
 | 50 | C | bagi-rata | Kab |
-| 51 | D | usia (2-step) | Prov |
+| 51 | A | usia (2-step) | Prov |
 | 52 | B | sisa (2-step) | Prov |
 | 53 | A | jumlah & rasio | Prov |
 | 54 | C | harga campuran | Prov |
@@ -1931,10 +1869,10 @@ Opsi (yang berlaku):
 | 58 | C | usia (selisih + jumlah) | Prov |
 | 59 | B | selisih & rasio | Prov |
 | 60 | A | harga campuran | Prov |
-| 61 | D | ax − b = c (2-step) | Prov |
+| 61 | C | ax − b = c (2-step) | Prov |
 | 62 | C | bagi-rata 3 anak | Prov |
 | 63 | A | usia (waktu mundur) | Prov |
-| 64 | D | persamaan 2-sisi | Prov |
+| 64 | A | persamaan 2-sisi | Prov |
 | 65 | B | harga 2 jenis | Prov |
 | 66 | C | ax + bx = c | Prov |
 | 67 | A | bagi-kantong | Prov |
@@ -1945,7 +1883,7 @@ Opsi (yang berlaku):
 | 72 | A | 3 bil. berurutan | Prov |
 | 73 | B | harga 2 jenis | Prov |
 | 74 | C | rasio + transfer | Prov |
-| 75 | D | (x + a) ÷ b = c | Prov |
+| 75 | B | (x + a) ÷ b = c | Prov |
 | 76 | A | 3 ganjil berurutan | Prov |
 | 77 | B | usia (selisih × waktu) | Prov |
 | 78 | C | harga 2 jenis | Prov |
@@ -1954,7 +1892,7 @@ Opsi (yang berlaku):
 | 81 | A | sistem 2 var | Nas |
 | 82 | B | usia 2 var (waktu) | Nas |
 | 83 | C | multi-step sisa | Nas |
-| 84 | D | jumlah & selisih | Nas |
+| 84 | B | jumlah & selisih | Nas |
 | 85 | B | sistem 2 var (eliminasi) | Nas |
 | 86 | A | 3 anak rangking | Nas |
 | 87 | D | sistem ternak (kaki) | Nas |

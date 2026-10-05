@@ -1068,12 +1068,7 @@ Penerapan langsung rumus V_kerucut = ⅓πr²t dan V_bola = (4/3)πr³, dengan s
 ---
 
 **49.** Sebuah kerucut tinggi 30 cm dan jari-jari alas 7 cm. Volumenya adalah ... (π = 22/7)
-- A. 4.620 cm³
-- B. 770 cm³
-- C. 1.540 cm³
-- D. 1.540 cm³ (alt — ditarik)
 
-Catatan: opsi C dan D pernah duplikat — opsi D diperbaiki menjadi:
 - A. 4.620 cm³
 - B. 770 cm³
 - C. 1.540 cm³
@@ -1081,16 +1076,16 @@ Catatan: opsi C dan D pernah duplikat — opsi D diperbaiki menjadi:
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 4.620 = π × r² × t = tabung. Lupa ⅓.
-- **B** — Salah. 770 = volume kerucut r = 7, t = 15 — salah substitusi t.
-- **C** — Benar. V = ⅓ × 22/7 × 49 × 30 = ⅓ × 22 × 7 × 30 = ⅓ × 4.620 = 1.540 cm³.
-- **D** — Salah. 462 = volume kerucut r = 7, t = 9 — salah substitusi t.
+- **A** — Salah. 4.620 = π × r² × t, itu volume tabung; faktor ⅓ terlupa.
+- **B** — Salah. 770 muncul bila tinggi dipakai setengahnya (t = 15), misalnya karena tertukar dengan jari-jari kali dua.
+- **C** — Benar. V = ⅓ × 22/7 × 49 × 30 = ⅓ × 4.620 = 1.540 cm³.
+- **D** — Salah. 462 = 4.620 ÷ 10; salah membagi (÷ 10, bukan ÷ 3).
 
-- **Konsep kunci:** Volume kerucut dihitung dengan rumus V = ⅓ × π × r² × t, yaitu sepertiga dari volume tabung dengan r dan t yang sama.
+- **Konsep kunci:** Volume kerucut = ⅓ × π × r² × t, yaitu sepertiga volume tabung dengan r dan t yang sama.
 - **Langkah Penyelesaian:**
-  1. r = 7 cm, t = 30 cm, pakai π = 22/7.
-  2. Substitusi: V = ⅓ × 22/7 × 49 × 30 = ⅓ × 4.620.
-  3. Hasil: V = 1.540 cm³.
+  1. r = 7 cm, t = 30 cm, π = 22/7.
+  2. V = ⅓ × 22/7 × 49 × 30 = ⅓ × 4.620.
+  3. V = 1.540 cm³.
 
 ---
 
@@ -1139,17 +1134,6 @@ Soal multi-langkah, konversi satuan, perbandingan volume, kerucut + setengah bol
   3. Jumlahkan: 113,04 + 56,52 = 169,56 cm³.
 
 ---
-
-**52.** Sebuah kerucut memiliki volume 462 cm³ dan jari-jari 7 cm. Tingginya adalah ... (π = 22/7)
-- A. 18 cm
-- B. 6 cm
-- C. 9 cm
-- D. 21 cm
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. V = ⅓πr²t → 462 = ⅓ × 22/7 × 49 × t → 462 = ⅓ × 154 × t → t = 462 × 3 / 154 = 1.386 / 154 = 9. Tunggu — periksa ulang: 462 × 3 = 1.386; 1.386 / 154 = 9 cm. Jadi t = 9 cm. Kunci semestinya **C**. Koreksi: kunci untuk soal ini adalah C.
-
-Catatan editorial: untuk menjaga konsistensi pembahasan dengan kunci A, soal ini direvisi menjadi:
 
 **52.** Sebuah kerucut memiliki volume 924 cm³ dan jari-jari 7 cm. Tingginya adalah ... (π = 22/7)
 - A. 18 cm
@@ -1232,73 +1216,65 @@ Catatan editorial: untuk menjaga konsistensi pembahasan dengan kunci A, soal ini
 ---
 
 **56.** Sebuah kerucut berjari-jari 6 cm memiliki garis pelukis 10 cm. Volume kerucut adalah ... (π = 3,14)
+
 - A. 376,8 cm³
 - B. 1.130,4 cm³
 - C. 301,44 cm³
 - D. 100,48 cm³
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 376,8 = volume kerucut r = 6, t = 10 (memakai s sebagai t — jebakan garis pelukis).
-- **B** — Salah. 1.130,4 = tabung r = 6, t = 10, salah dua kali.
-- **C** — Benar. t = √(s² − r²) = √(100 − 36) = √64 = 8. V = ⅓ × 3,14 × 36 × 8 = ⅓ × 904,32 = 301,44 cm³.
-- **D** — Salah. 100,48 = ⅓ × 301,44, salah hitung ulang.
+- **A** — Salah. 376,8 = ⅓ × 3,14 × 36 × 10; garis pelukis dipakai sebagai tinggi.
+- **B** — Salah. 1.130,4 = 3,14 × 36 × 10; garis pelukis dipakai sebagai tinggi dan ⅓ terlupa.
+- **C** — Benar. t = √(10² − 6²) = √64 = 8. V = ⅓ × 3,14 × 36 × 8 = 301,44 cm³.
+- **D** — Salah. 100,48 = 301,44 ÷ 3; hasil yang sudah benar dibagi 3 sekali lagi.
 
-- **Konsep kunci:** Jika yang diketahui garis pelukis (s), tinggi atau jari-jari kerucut dicari dulu dengan Pythagoras sebelum menghitung volume.
+- **Konsep kunci:** Jika yang diketahui garis pelukis (s), cari tinggi dengan Pythagoras sebelum menghitung volume.
 - **Langkah Penyelesaian:**
-  1. Cari t dengan Pythagoras: t = √(s² − r²) = √(100 − 36) = √64 = 8 cm.
-  2. Substitusi ke rumus volume: V = ⅓ × 3,14 × 36 × 8.
-  3. Hasil: V = 301,44 cm³.
+  1. t = √(s² − r²) = √(100 − 36) = 8 cm.
+  2. V = ⅓ × 3,14 × 36 × 8.
+  3. V = 301,44 cm³.
 
 ---
 
 **57.** Sebuah kerucut berjari-jari 7 cm dan garis pelukis 25 cm. Volume kerucut adalah ... (π = 22/7)
+
 - A. 1.232 cm³
-- B. 1.078 cm³
-- C. 1.540 cm³
+- B. 3.696 cm³
+- C. 1.283,33 cm³
 - D. 924 cm³
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 1.232 = volume kerucut t = 24 dengan substitusi keliru.
-- **B** — Benar. t = √(25² − 7²) = √(625 − 49) = √576 = 24. V = ⅓ × 22/7 × 49 × 24 = ⅓ × 22 × 7 × 24 = ⅓ × 3.696 = 1.232 cm³. Periksa ulang: 22 × 7 × 24 = 154 × 24 = 3.696; 3.696 / 3 = 1.232. Sebenarnya V = 1.232 cm³, bukan 1.078. Maka kunci yang benar adalah **A**.
+- **A** — Benar. t = √(25² − 7²) = √576 = 24. V = ⅓ × 22/7 × 49 × 24 = ⅓ × 3.696 = 1.232 cm³.
+- **B** — Salah. 3.696 = π × r² × t; faktor ⅓ terlupa.
+- **C** — Salah. Garis pelukis 25 dipakai sebagai tinggi: ⅓ × 154 × 25 ≈ 1.283,33.
+- **D** — Salah. Tinggi dihitung 25 − 7 = 18 (selisih, bukan Pythagoras): ⅓ × 154 × 18 = 924.
 
-Koreksi editorial soal 57:
-- **Kunci: A**
-- **A** — Benar. t = √(25² − 7²) = √576 = 24. V = ⅓ × 22/7 × 49 × 24 = 1.232 cm³.
-- **B** — Salah. 1.078 = ⅓ × 22/7 × 49 × 21 (salah t = 21).
-- **C** — Salah. 1.540 = ⅓ × 22/7 × 49 × 30 (salah t = 30).
-- **D** — Salah. 924 = ⅓ × 22/7 × 49 × 18 (salah t = 18).
-
-(Catatan: soal 57 dengan kunci A. Untuk menjaga distribusi, soal lain disesuaikan.)
-
-- **Konsep kunci:** Jika yang diketahui garis pelukis (s), tinggi atau jari-jari kerucut dicari dulu dengan Pythagoras sebelum menghitung volume.
+- **Konsep kunci:** Jika yang diketahui garis pelukis (s), cari tinggi dengan Pythagoras sebelum menghitung volume.
 - **Langkah Penyelesaian:**
-  1. Cari t dengan Pythagoras: t = √(25² − 7²) = √576 = 24 cm.
-  2. Substitusi ke rumus volume: V = ⅓ × 22/7 × 49 × 24.
-  3. Hasil: V = 1.232 cm³ (opsi A, sesuai koreksi kunci soal ini).
+  1. t = √(625 − 49) = √576 = 24 cm.
+  2. V = ⅓ × 22/7 × 49 × 24.
+  3. V = 1.232 cm³.
 
 ---
 
 **58.** Sebuah kerucut tinggi 8 cm, garis pelukis 10 cm. Volumenya adalah ... (π = 3,14)
-- A. 150,72 cm³
+
+- A. 376,8 cm³
 - B. 301,44 cm³
-- C. 100,48 cm³
-- D. 75,36 cm³
-**Kunci: A**
+- C. 904,32 cm³
+- D. 33,49 cm³
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. r = √(s² − t²) = √(100 − 64) = √36 = 6. V = ⅓ × 3,14 × 36 × 8 = ⅓ × 904,32 — tunggu, 3,14 × 36 = 113,04 × 8 = 904,32; ⅓ × 904,32 = 301,44 cm³. Jadi kunci benar = B, bukan A.
+- **A** — Salah. Garis pelukis 10 dipakai sebagai tinggi: ⅓ × 3,14 × 36 × 10.
+- **B** — Benar. r = √(10² − 8²) = √36 = 6. V = ⅓ × 3,14 × 36 × 8 = 301,44 cm³.
+- **C** — Salah. 904,32 = 3,14 × 36 × 8; faktor ⅓ terlupa.
+- **D** — Salah. Jari-jari dihitung 10 − 8 = 2 (selisih, bukan Pythagoras): ⅓ × 3,14 × 4 × 8 ≈ 33,49.
 
-Koreksi soal 58:
-- **Kunci: B**
-- **A** — Salah. 150,72 = ½ × 301,44, salah hitung.
-- **B** — Benar. r = √(100 − 64) = 6. V = ⅓ × 3,14 × 36 × 8 = ⅓ × 904,32 = 301,44 cm³.
-- **C** — Salah. 100,48 = ⅓ × 301,44 (asal bagi 3 lagi).
-- **D** — Salah. 75,36 = ¼ × 301,44, salah hitung.
-
-- **Konsep kunci:** Jika yang diketahui garis pelukis (s), tinggi atau jari-jari kerucut dicari dulu dengan Pythagoras sebelum menghitung volume.
+- **Konsep kunci:** Jika yang diketahui garis pelukis (s) dan tinggi, cari jari-jari dengan Pythagoras.
 - **Langkah Penyelesaian:**
-  1. Cari r dengan Pythagoras: r = √(s² − t²) = √(100 − 64) = √36 = 6 cm.
-  2. Substitusi ke rumus volume: V = ⅓ × 3,14 × 36 × 8.
-  3. Hasil: V = 301,44 cm³ (opsi B).
+  1. r = √(s² − t²) = √(100 − 64) = 6 cm.
+  2. V = ⅓ × 3,14 × 36 × 8.
+  3. V = 301,44 cm³.
 
 ---
 
@@ -1443,29 +1419,24 @@ Koreksi soal 58:
 ---
 
 **66.** Sebuah ember berbentuk kerucut tinggi 30 cm dan jari-jari atas 14 cm. (Ember terbalik, ujung runcing di bawah.) Kapasitas ember dalam liter adalah ... (π = 22/7)
-- A. 18,48 L
-- B. 6,16 L
-- C. 6,16 L (alt)
-- D. 6,16 L
 
-Catatan editorial: jawaban benar untuk volume ember kerucut ini adalah 6.160 cm³ ÷ 1.000 = 6,16 L. Untuk membedakan opsi, diperbaiki menjadi:
 - A. 18,48 L
-- B. 12,32 L
+- B. 6.160 L
 - C. 6,16 L
-- D. 1,232 L
+- D. 0,616 L
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. 18,48 = volume tabung (lupa ⅓).
-- **B** — Salah. 12,32 = 2 × volume benar.
-- **C** — Benar. V = ⅓ × 22/7 × 196 × 30 = ⅓ × 22 × 28 × 30 = ⅓ × 18.480 = 6.160 cm³ = 6,16 L.
-- **D** — Salah. 1,232 = pembagian ÷ 10.000 salah.
+- **A** — Salah. 18,48 L = volume tabung (18.480 cm³); faktor ⅓ terlupa.
+- **B** — Salah. 6.160 adalah volume dalam cm³; belum dibagi 1.000 untuk menjadi liter.
+- **C** — Benar. V = ⅓ × 22/7 × 196 × 30 = ⅓ × 18.480 = 6.160 cm³ = 6,16 L.
+- **D** — Salah. Dibagi 10.000 (bukan 1.000) saat mengubah cm³ ke liter.
 
-- **Konsep kunci:** Setelah volume dihitung dalam cm³, ubah ke liter atau mL memakai patokan 1.000 cm³ = 1 liter dan 1 cm³ = 1 mL.
+- **Konsep kunci:** Setelah volume dihitung dalam cm³, ubah ke liter dengan 1.000 cm³ = 1 liter.
 - **Langkah Penyelesaian:**
-  1. Hitung dulu volume kerucut: r = 14, t = 30, π = 22/7 → V = ⅓ × 18.480 = 6.160 cm³.
-  2. Ingat patokan 1.000 cm³ = 1 liter.
-  3. Konversi: 6.160 ÷ 1.000 = 6,16 liter.
+  1. V = ⅓ × 22/7 × 196 × 30 = 6.160 cm³.
+  2. 1.000 cm³ = 1 liter.
+  3. 6.160 ÷ 1.000 = 6,16 liter.
 
 ---
 
@@ -1490,24 +1461,23 @@ Catatan editorial: jawaban benar untuk volume ember kerucut ini adalah 6.160 cm�
 ---
 
 **68.** Sebuah kerucut tinggi 21 cm dan jari-jari 14 cm. Volume kerucut adalah ... (π = 22/7)
+
 - A. 4.312 cm³
 - B. 12.936 cm³
 - C. 1.078 cm³
 - D. 6.468 cm³
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 4.312 = ⅓ × 22/7 × 196 × 14 (salah t = 14, bukan 21).
-- **B** — Salah. 12.936 = π × r² × t = tabung. Lupa ⅓.
-- **C** — Salah. 1.078 = volume kerucut r = 7, t = 21 (salah substitusi r).
-- **D** — Benar. V = ⅓ × 22/7 × 196 × 21 = ⅓ × 22 × 28 × 21 = ⅓ × 12.936 = 4.312 cm³. Periksa ulang: 22/7 × 196 = 22 × 28 = 616; 616 × 21 = 12.936; ÷3 = 4.312 cm³. Jadi kunci yang benar = **A**.
+- **A** — Benar. V = ⅓ × 22/7 × 196 × 21 = ⅓ × 12.936 = 4.312 cm³.
+- **B** — Salah. 12.936 = π × r² × t, volume tabung; faktor ⅓ terlupa.
+- **C** — Salah. Jari-jari dipakai setengahnya (r = 7), seolah 14 adalah diameter.
+- **D** — Salah. Dikalikan ½, bukan ⅓: 12.936 ÷ 2 = 6.468.
 
-Koreksi: kunci soal 68 = **A**.
-
-- **Konsep kunci:** Volume kerucut dihitung dengan rumus V = ⅓ × π × r² × t, yaitu sepertiga dari volume tabung dengan r dan t yang sama.
+- **Konsep kunci:** Volume kerucut = ⅓ × π × r² × t.
 - **Langkah Penyelesaian:**
-  1. r = 14 cm, t = 21 cm, pakai π = 22/7.
-  2. Substitusi: V = ⅓ × 22/7 × 196 × 21 = ⅓ × 12.936.
-  3. Hasil: V = 4.312 cm³ (opsi A, sesuai koreksi kunci soal ini).
+  1. r = 14 cm, t = 21 cm, π = 22/7.
+  2. V = ⅓ × 22/7 × 196 × 21 = ⅓ × 12.936.
+  3. V = 4.312 cm³.
 
 ---
 
@@ -1731,34 +1701,24 @@ Koreksi: kunci soal 68 = **A**.
 
 ---
 
-**80.** Sebuah kerucut tinggi 12 cm volumenya 942 cm³. Jari-jari alasnya adalah ... (π = 3,14)
-- A. 5 cm
+**80.** Sebuah kerucut tinggi 12 cm volumenya 1.017,36 cm³. Jari-jari alasnya adalah ... (π = 3,14)
+
+- A. 81 cm
 - B. 9 cm
-- C. 6 cm
-- D. 10 cm
+- C. 27 cm
+- D. 6 cm
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. r = 5 → V = 314 cm³.
-- **B** — Benar. 942 = ⅓ × 3,14 × r² × 12 → 942 = 12,56 × r² → r² = 942 / 12,56 = 75 — nilai ini tidak menghasilkan bilangan bulat. Hitung ulang: ⅓ × 12 = 4, jadi 942 = 3,14 × r² × 4 = 12,56 × r² → r² = 75, r ≈ 8,66. Tidak sesuai opsi. Soal direvisi:
+- **A** — Salah. 81 adalah nilai r²; lupa diakarkan.
+- **B** — Benar. 1.017,36 = ⅓ × 3,14 × r² × 12 = 12,56 × r² → r² = 81 → r = 9 cm.
+- **C** — Salah. Faktor ⅓ terlupa (r² = 1.017,36 ÷ 37,68 = 27) dan hasilnya juga lupa diakarkan.
+- **D** — Salah. Umpan: r = 6 menghasilkan V = 452,16 cm³, jauh dari 1.017,36.
 
-Revisi soal 80:
-Sebuah kerucut tinggi 12 cm volumenya 1.017,36 cm³. Jari-jari alasnya adalah ... (π = 3,14)
-- A. 5 cm
-- B. 9 cm
-- C. 6 cm
-- D. 10 cm
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. r = 5 → V = 314 cm³.
-- **B** — Benar. 1.017,36 = ⅓ × 3,14 × r² × 12 → r² = 1.017,36 / 12,56 = 81 → r = 9 cm.
-- **C** — Salah. r = 6 → V = 452,16 cm³.
-- **D** — Salah. r = 10 → V = 1.256 cm³.
-
-- **Konsep kunci:** Mencari jari-jari kerucut dari volume yang diketahui memakai rumus terbalik r² = V ÷ (⅓ × π × t), lalu diakarkan.
+- **Konsep kunci:** Jari-jari dari volume: r² = V ÷ (⅓ × π × t), lalu diakarkan.
 - **Langkah Penyelesaian:**
-  1. Gunakan rumus terbalik r² = V ÷ (⅓ × π × t).
-  2. Substitusi: r² = 1.017,36 ÷ 12,56 = 81.
-  3. Akarkan: r = √81 = 9 cm.
+  1. ⅓ × 3,14 × 12 = 12,56.
+  2. r² = 1.017,36 ÷ 12,56 = 81.
+  3. r = √81 = 9 cm.
 
 ---
 
@@ -1889,25 +1849,24 @@ Soal multi-langkah berat, gabungan kerucut + setengah bola dengan ukuran berbeda
 ---
 
 **87.** Sebuah bola memiliki volume V₁. Jika jari-jarinya diperbesar 2 kali, volume baru adalah ... kali volume awal.
+
 - A. 8 kali
 - B. 4 kali
 - C. 2 kali
 - D. 16 kali
 **Kunci: A**
 
-Catatan editorial: opsi A "8 kali" benar — perlu disesuaikan agar kunci sesuai rencana balance. Soal direvisi agar kunci jatuh ke B "4 kali" bila memungkinkan, namun untuk bola tepat 8 kali. Kunci tetap A.
-
 **Pembahasan:**
-- **A** — Benar. V = (4/3)πr³. Jika r → 2r, r³ → 8r³. V_baru = 8 × V₁.
-- **B** — Salah. 4 = jika hanya r² (luas permukaan), bukan volume.
-- **C** — Salah. 2 = jika rumus linear.
-- **D** — Salah. 16 = jika r → 4r dan kuadrat. Salah skala.
+- **A** — Benar. V = (4/3)πr³. Jika r menjadi 2r, maka r³ menjadi 8r³, jadi volume baru = 8 × V₁.
+- **B** — Salah. 4 kali adalah perubahan luas permukaan (sebanding r²), bukan volume.
+- **C** — Salah. Mengira volume naik sebanding dengan jari-jari (linear).
+- **D** — Salah. Memakai pangkat 4 (2⁴); volume hanya memakai pangkat 3.
 
-- **Konsep kunci:** Jika jari-jari diperbesar n kali, volume kerucut membesar n² kali (sebanding r²), sedangkan volume bola membesar n³ kali (sebanding r³).
+- **Konsep kunci:** Volume bola sebanding r³; jika r dikali n, volume dikali n³.
 - **Langkah Penyelesaian:**
-  1. Bandingkan rumus V = (4/3)πr³ sebelum dan sesudah r digandakan.
-  2. Karena r → 2r, maka r³ → (2r)³ = 8r³.
-  3. Volume baru = 8 × volume awal (V₁).
+  1. V awal = (4/3)πr³.
+  2. V baru = (4/3)π(2r)³ = 8 × (4/3)πr³.
+  3. Volume baru = 8 × V₁.
 
 ---
 
@@ -2056,45 +2015,24 @@ Catatan: opsi A diperbaiki menjadi **131,88 mL**.
 
 ---
 
-**95.** Sebuah kerucut volumenya 1.078 cm³. Jika r = t, maka r adalah ... (π = 22/7)
+**95.** Sebuah kerucut volumenya 2.874⅔ cm³. Jika r = t, maka r adalah ... (π = 22/7)
+
 - A. 7 cm
 - B. 14 cm
 - C. 21 cm
 - D. 10 cm
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. r = 7 → V = ⅓ × 22/7 × 49 × 7 = 359⅓ cm³.
-- **B** — Benar. V = ⅓πr²t = ⅓πr³ (karena r = t). 1.078 = ⅓ × 22/7 × r³ → r³ = 1.078 × 21 / 22 = 22.638 / 22 = 1.029 — tidak menghasilkan bilangan bulat. Hitung ulang: r³ = 1.078 × 3 / (22/7) = 3.234 × 7 / 22 = 22.638 / 22 = 1.029. ∛1.029 ≈ 10,1. Tidak rapi. Soal direvisi:
+- **A** — Salah. Setengah jawaban benar; tertukar antara jari-jari dan setengahnya (seperti diameter 14 dibagi 2). Dengan r = 7, V hanya 359⅓ cm³.
+- **B** — Benar. Karena r = t, V = ⅓ × 22/7 × r³ = 2.874⅔ → r³ = 2.874⅔ × 21 ÷ 22 = 2.744 → r = 14 cm.
+- **C** — Salah. Umpan: dengan r = 21, V = 9.702 cm³, jauh lebih besar dari 2.874⅔.
+- **D** — Salah. Menebak ∛ bilangan bulat terdekat (10³ = 1.000) tanpa menyelesaikan persamaan.
 
-Revisi soal 95:
-Sebuah kerucut volumenya 359⅓ cm³ dengan r = t. Nilai r adalah ... (π = 22/7)
-- A. 7 cm
-- B. 14 cm
-- C. 21 cm
-- D. 10 cm
-
-**Kunci: A**
-
-Catatan: dengan revisi, kunci jatuh ke A. Untuk menjaga distribusi B, kita pertahankan soal asli dengan kunci B namun dengan revisi nilai V:
-
-Revisi soal 95 (final):
-Sebuah kerucut volumenya 2.874⅔ cm³ dengan r = t. Nilai r adalah ... (π = 22/7)
-- A. 7 cm
-- B. 14 cm
-- C. 21 cm
-- D. 10 cm
-
-**Pembahasan:**
-- **A** — Salah. r = 7 → V = 359⅓ cm³ (kelipatan 8 lebih kecil).
-- **B** — Benar. V = ⅓πr³ = ⅓ × 22/7 × r³ = 2.874⅔ → r³ = 2.874⅔ × 21/22 = 2.744 → r = ∛2.744 = 14 cm.
-- **C** — Salah. r = 21 → V = 9.702 cm³.
-- **D** — Salah. r = 10 → V ≈ 1.047,62 cm³.
-
-- **Konsep kunci:** Mencari jari-jari bola dari volume yang diketahui memakai rumus terbalik r³ = V ÷ ((4/3) × π), lalu diakarpangkatkan tiga.
+- **Konsep kunci:** Jika r = t, rumus kerucut menjadi V = ⅓πr³, sehingga r = ∛(3V ÷ π).
 - **Langkah Penyelesaian:**
-  1. Karena r = t, rumus kerucut menjadi V = ⅓πr³.
-  2. Substitusi V = 2.874⅔ cm³: r³ = 2.874⅔ × 21 ÷ 22 = 2.744.
-  3. Akarkan: r = ∛2.744 = 14 cm.
+  1. V = ⅓πr³.
+  2. r³ = 2.874⅔ × 21 ÷ 22 = 2.744.
+  3. r = ∛2.744 = 14 cm.
 
 ---
 
@@ -2158,26 +2096,24 @@ Sebuah kerucut volumenya 2.874⅔ cm³ dengan r = t. Nilai r adalah ... (π = 22
 
 ---
 
-**99.** Sebuah es krim cone (kerucut r = 7, t = 18 cm; tutup setengah bola r = 7). Jika es krim cone terjual 100 buah dalam sehari, total volume cairan es krim (asumsi seluruhnya cair) adalah ... liter (π = 22/7)
-- A. 132,48 L
-- B. 165,87 L
-- C. 92,4 L
+**99.** Sebuah es krim cone (kerucut r = 7, t = 18 cm; tutup setengah bola r = 7). Jika es krim cone terjual 100 buah dalam sehari, total volume cairan es krim (asumsi seluruhnya cair) adalah ... liter (π = 22/7, dibulatkan dua angka di belakang koma)
+
+- A. 92,4 L
+- B. 164,27 L
+- C. 236,13 L
 - D. 71,87 L
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. 132,48 = perhitungan asal.
-- **B** — Benar. V_kerucut = ⅓ × 22/7 × 49 × 18 = ⅓ × 22 × 7 × 18 = ⅓ × 2.772 = 924 cm³. V_½bola = 718⅔. Total per cone = 924 + 718⅔ = 1.642⅔ cm³ ≈ 1.642,67 cm³. × 100 = 164.267 cm³ ≈ 164,27 L. Pembulatan ke 164,27 L (≈ 165,87 dengan sedikit perbedaan presisi). Untuk konsistensi: tepatnya 100 × 1.642⅔ cm³ = 164.266,67 cm³ = 164,27 L. Opsi yang paling mendekati adalah B (165,87 L) dengan toleransi pembulatan.
+- **A** — Salah. Hanya kerucut (924 cm³ × 100); setengah bola terlupa.
+- **B** — Benar. Kerucut = ⅓ × 22/7 × 49 × 18 = 924 cm³. Setengah bola = ⅔ × 22/7 × 343 = 718⅔ cm³. Satu cone = 1.642⅔ cm³. × 100 = 164.266⅔ cm³ ≈ 164,27 L.
+- **C** — Salah. Memakai bola penuh (1.437⅓ cm³) sebagai tutup, bukan setengah bola.
+- **D** — Salah. Hanya setengah bola (718⅔ cm³ × 100); kerucut terlupa.
 
-Catatan editorial: nilai tepat 164,27 L; opsi B diperbaiki menjadi **164,27 L**.
-- **B** — Benar. 164,27 L (lihat hitungan).
-- **C** — Salah. 92,4 = kerucut saja (× 100 mL).
-- **D** — Salah. 71,87 = setengah bola × 100 mL, asal.
-
-- **Konsep kunci:** Volume es krim cone (gabungan kerucut dan setengah bola sejenis) dicari dengan menjumlahkan volume kedua bagian yang jari-jarinya sama.
+- **Konsep kunci:** Volume gabungan = jumlah volume tiap bagian; setengah bola = ⅔πr³.
 - **Langkah Penyelesaian:**
-  1. Kerucut: r = 7, t = 18 → V = ⅓ × 22/7 × 49 × 18 = 924 cm³.
-  2. Setengah bola: r = 7 → V = 718⅔ cm³, sehingga satu cone = 924 + 718⅔ = 1.642⅔ cm³.
-  3. Untuk 100 cone: 100 × 1.642⅔ cm³ = 164.266⅔ cm³ ≈ 164,27 liter.
+  1. Kerucut: 924 cm³.
+  2. Setengah bola: 718⅔ cm³ → satu cone 1.642⅔ cm³.
+  3. 100 cone = 164.266⅔ cm³ ≈ 164,27 liter.
 
 ---
 

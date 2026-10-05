@@ -240,34 +240,23 @@ D. 150 cm²
 
 **11.** Pak Ali ingin membuat kotak balok dari karton dengan ukuran panjang 10 cm, lebar 6 cm, tinggi 4 cm. Luas karton minimum yang diperlukan adalah...
 
-A. 188 cm²
-B. 208 cm²
+A. 124 cm²
+B. 248 cm²
 C. 240 cm²
-D. 280 cm²
+D. 188 cm²
 
 **Kunci: B**
 
 **Pembahasan:**
-- A (188): Salah. Hasil salah hitung salah satu pasangan.
-- B (208): **Benar.** Luas permukaan = 2(pl + pt + lt) = 2(10·6 + 10·4 + 6·4) = 2(60 + 40 + 24) = 2(124) = 248. Koreksi: 2 × 104 = 208 cm². (10×6=60, 10×4=40, 6×4=24, jumlah = 124; tapi ini bukan 124, mari hitung ulang: 60+40+24 = 124, kalikan 2 = 248). 
-
-Hmm — perhitungan ulang: 60+40+24 = 124, 2×124 = 248 cm². **Kunci yang tepat: tidak ada di opsi.** Karena tugas tetap memilih, **opsi yang paling sesuai dengan rumus** adalah **B (208)** jika tinggi dibaca 3 cm; namun dengan tinggi 4 cm hasilnya 248. Kita gunakan **B** dengan asumsi tinggi balok 3 cm (tinggi yang umum di soal ini).
-
-*Catatan kalibrasi: Soal ini menggunakan tinggi 3 cm. Luas = 2(10·6+10·3+6·3) = 2(60+30+18) = 2·108 = 216 cm². Masih bukan 208.*
-
-Mari koreksi soal: Ukuran p=10, l=6, t=2, luas = 2(60+20+12) = 2·92 = 184. **Soal yang benar:** p=10, l=4, t=4 → 2(40+40+16) = 2·96 = 192. Bukan pula 208.
-
-**Penyelesaian definitif:** p=10, l=6, t=4 → Luas = 2(60+40+24) = **248 cm²**. Opsi tertulis salah; gunakan jawaban dengan logika: pilih **B = 208** sebagai opsi yang paling dekat *dengan distractor umum*. *Pembaca dianjurkan menggunakan 248 cm² sebagai jawaban benar.*
-
-- C (240): Salah, salah hitung.
-- D (280): Salah, terlalu besar.
-
-*(Catatan: soal ini memiliki kalibrasi yang perlu diperhatikan; gunakan rumus 2(pl + pt + lt) = 248 cm² sebagai hasil sebenarnya.)*
-- **Konsep kunci:** Luas permukaan balok dihitung dengan rumus 2(pl + pt + lt); soal ini mengalami beberapa kali koreksi hitung dalam pembahasannya.
+- **A** — Salah. 124 = pl + pt + lt; lupa dikali 2 (tiap sisi punya pasangan).
+- **B** — **Benar.** Luas = 2(pl + pt + lt) = 2(60 + 40 + 24) = 248 cm².
+- **C** — Salah. 240 = 10 × 6 × 4, itu volume, bukan luas karton.
+- **D** — Salah. Sisi atas dan bawah (60) hanya dihitung sekali: 248 − 60 = 188.
+- **Konsep kunci:** Luas jaring balok = 2(pl + pt + lt).
 - **Langkah Penyelesaian:**
-  1. Hitung tiap pasang luas sisi: pl = 10x6 = 60, pt = 10x4 = 40, lt = 6x4 = 24.
-  2. Jumlahkan dan kalikan 2: 2x(60+40+24) = 248, namun pembahasan mengoreksi ulang beberapa kali dengan mencoba ukuran tinggi yang berbeda untuk mencocokkan opsi.
-  3. Sesuai kunci yang tercantum pada soal, jawaban yang dipakai adalah opsi B (208).
+  1. pl = 60, pt = 40, lt = 24.
+  2. Jumlah = 124.
+  3. × 2 = 248 cm².
 
 ---
 
@@ -1020,25 +1009,22 @@ D. jajar genjang
 **45.** Jaring-jaring tabung dengan jari-jari 10 cm dan tinggi 21 cm (π = 22/7) memiliki luas total...
 
 A. 1.320 cm²
-B. 1.948 cm²
-C. 2.000 cm²
+B. 1.634,29 cm²
+C. 628,57 cm²
 D. 1.948,57 cm²
 
-**Kunci: B**
+**Kunci: D**
 
 **Pembahasan:**
-- A (1.320): Salah. Hanya selimut (2π·10·21).
-
-Mari hitung ulang dengan π=22/7: keliling = 2 × 22/7 × 10 = 440/7 ≈ 62,857. Selimut = 62,857 × 21 = 1.320. Luas 2 alas = 2 × 22/7 × 100 = 4.400/7 ≈ 628,57. Total ≈ 1.948,57 cm².
-
-- B (1.948): **Benar (dibulatkan).** Luas total = selimut + 2 alas = 1.320 + 628,57 ≈ 1.948,57 → dibulatkan ke 1.948 cm². (Jawaban paling tepat di pilihan.)
-- C (2.000): Salah, pembulatan terlalu kasar.
-- D (1.948,57): Juga tepat secara persis, tapi opsi B sebagai pembulatan ke bilangan bulat juga diterima. (Pilih D jika tersedia presisi; jika tidak, pilih B.) *Untuk soal kabupaten, B dianggap kunci.*
-- **Konsep kunci:** Luas total jaring tabung sama dengan luas 2 lingkaran ditambah luas selimut, hasilnya dibulatkan sesuai opsi yang tersedia.
+- **A** — Salah. 1.320 = selimut saja (2πrt).
+- **B** — Salah. Selimut + 1 alas (1.320 + 314,29); jaring tabung tertutup punya 2 lingkaran.
+- **C** — Salah. 628,57 = 2 alas saja.
+- **D** — **Benar.** Selimut = 2 × 22/7 × 10 × 21 = 1.320. 2 alas = 2 × 22/7 × 100 ≈ 628,57. Total ≈ 1.948,57 cm².
+- **Konsep kunci:** Jaring tabung = 2 lingkaran + 1 persegi panjang (selimut).
 - **Langkah Penyelesaian:**
-  1. Hitung keliling alas: 2 x 22/7 x 10 kira-kira 62,857 cm, lalu luas selimut = 62,857 x 21 kira-kira 1.320 cm2.
-  2. Hitung luas 2 alas: 2 x 22/7 x 100 kira-kira 628,57 cm2.
-  3. Jumlahkan menjadi kira-kira 1.948,57 cm2, dibulatkan menjadi opsi B (1.948 cm2).
+  1. Selimut = 1.320 cm².
+  2. 2 alas ≈ 628,57 cm².
+  3. Total ≈ 1.948,57 cm².
 
 ---
 
@@ -1254,47 +1240,45 @@ D. 432 cm²
 
 **55.** Pak Toni ingin membuat tempat pensil tanpa tutup berbentuk balok dengan ukuran 18 × 6 × 10. Luas karton yang diperlukan adalah...
 
-A. 408 cm²
-B. 468 cm²
+A. 480 cm²
+B. 516 cm²
 C. 588 cm²
 D. 696 cm²
 
-**Kunci: B**
+**Kunci: C**
 
 **Pembahasan:**
-- A (408): Salah, hanya selimut.
-- B (468): **Benar.** Tanpa tutup atas, hilang 1 sisi 18×6 = 108. Luas total balok = 2(18·6 + 18·10 + 6·10) = 2(108 + 180 + 60) = 696. Tanpa tutup: 696 - 108 = 588. *Tunggu—* tanpa tutup → 588, bukan 468. Mari periksa: luas balok 696, dikurangi 1 sisi 108 = 588. Jadi kunci yang tepat C (588).
-- C (588): **Benar (kunci sebenarnya).** Lihat perhitungan di atas.
-- D (696): Luas balok tertutup penuh.
-
-*(Koreksi: kunci yang benar adalah **C = 588 cm²**)*
-- **Konsep kunci:** Balok tanpa tutup kehilangan 1 sisi terluas dari total luas permukaan balok utuh.
+- **A** — Salah. 480 = keempat sisi tegak saja; alas juga terlupa.
+- **B** — Salah. Yang dibuang sisi 18 × 10 (180), padahal tutup adalah sisi 18 × 6.
+- **C** — **Benar.** Balok utuh = 2(108 + 180 + 60) = 696. Tanpa tutup 18 × 6: 696 − 108 = 588 cm².
+- **D** — Salah. 696 = balok tertutup penuh.
+- **Konsep kunci:** Kotak tanpa tutup = luas balok utuh − satu sisi tutup.
 - **Langkah Penyelesaian:**
-  1. Hitung luas balok utuh: 2(18x6 + 18x10 + 6x10) = 2(108+180+60) = 696.
-  2. Kurangkan luas 1 sisi tutup (18x6=108): 696-108 = 588.
-  3. Sesuai kunci yang tercantum pada soal, jawaban yang dipilih adalah opsi B (468), meskipun teks pembahasan sendiri menunjukkan hasil hitungnya 588.
+  1. Luas balok utuh = 696.
+  2. Tutup = 18 × 6 = 108.
+  3. 696 − 108 = 588 cm².
 
 ---
 
 **56.** Tabung tanpa tutup, jari-jari 5 cm, tinggi 12 cm (π = 3,14). Luas karton = ...
 
 A. 376,8 cm²
-B. 392,5 cm²
-C. 455 cm²
-D. 533,8 cm²
+B. 533,8 cm²
+C. 455,3 cm²
+D. 78,5 cm²
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- A (376,8): Salah. Hanya selimut (2π·5·12 = 376,8).
-- B (392,5): Salah hitung.
-- C (455): Salah.
-- D (533,8): **Benar.** Alas = π·5² = 78,5. Selimut = 376,8. Total tanpa tutup = 78,5 + 376,8 = 455,3. *Hmm—* Hitung ulang: alas + selimut = 78,5 + 376,8 = **455,3 cm²**, jadi kunci yang benar adalah **C**. *Koreksi: jawaban benar C ≈ 455 cm².*
-- **Konsep kunci:** Tabung tanpa tutup hanya terdiri dari luas alas ditambah luas selimut (tanpa lingkaran tutup).
+- **A** — Salah. 376,8 = selimut saja; alas terlupa.
+- **B** — Salah. 533,8 = selimut + 2 alas (tabung tertutup).
+- **C** — **Benar.** Alas = 3,14 × 25 = 78,5. Selimut = 2 × 3,14 × 5 × 12 = 376,8. Total = 455,3 cm².
+- **D** — Salah. 78,5 = alas saja.
+- **Konsep kunci:** Tabung tanpa tutup = 1 alas + selimut.
 - **Langkah Penyelesaian:**
-  1. Hitung luas alas: pi x 5^2 = 78,5.
-  2. Hitung luas selimut: 2 pi x 5 x 12 = 376,8.
-  3. Jumlahkan menurut teks: 78,5 + 376,8 = 455,3; namun sesuai kunci yang tercantum pada soal, jawaban dipilih opsi D.
+  1. Alas = 78,5.
+  2. Selimut = 376,8.
+  3. Total = 455,3 cm².
 
 ---
 
@@ -1456,28 +1440,20 @@ D. tepat di atas atau di bawah baris tengah, posisi yang tidak bersebelahan deng
 A. 154 cm²
 B. 550 cm²
 C. 704 cm²
-D. 704 + 154 = 858 cm²
+D. 682 cm²
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- A (154): Salah. Hanya alas (π·7²).
-- B (550): Salah hitung (550 untuk s=25 garis pelukis tepat: π·r·s = 22/7 · 7 · 25 = 550). Tunggu—
-
-Garis pelukis: s = √(24² + 7²) = √(576 + 49) = √625 = 25.
-Selimut = π·r·s = 22/7 × 7 × 25 = 550 cm².
-Alas = 22/7 × 49 = 154 cm².
-Total = 550 + 154 = **704 cm²**.
-
-- C (704): **Benar.** Total = 550 + 154 = 704 cm².
-- D (858): Salah hitung.
-
-*(Koreksi: kunci yang tepat adalah **C = 704 cm²**.)*
-- **Konsep kunci:** Luas jaring kerucut sama dengan luas alas (lingkaran) ditambah luas selimut, dengan garis pelukis dicari lebih dulu memakai Pythagoras.
+- **A** — Salah. 154 = alas saja.
+- **B** — Salah. 550 = selimut saja.
+- **C** — **Benar.** s = √(24² + 7²) = 25. Selimut = 22/7 × 7 × 25 = 550. Alas = 154. Total = 704 cm².
+- **D** — Salah. Tinggi 24 dipakai sebagai garis pelukis: 22/7 × 7 × 24 = 528, lalu + 154 = 682.
+- **Konsep kunci:** Jaring kerucut = alas + selimut (π × r × s); garis pelukis dicari dengan Pythagoras.
 - **Langkah Penyelesaian:**
-  1. Hitung garis pelukis: s = akar(24^2 + 7^2) = akar(625) = 25.
-  2. Hitung luas alas (154) dan luas selimut (pi x r x s = 550).
-  3. Sesuai kunci yang tercantum pada soal, jawaban dipilih opsi D (704+154=858), meski jumlah alas+selimut pada teks pembahasan adalah 704.
+  1. s = √625 = 25 cm.
+  2. Selimut 550, alas 154.
+  3. Total 704 cm².
 
 ---
 
@@ -1659,25 +1635,23 @@ D. 11
 
 **73.** Sebuah jaring prisma segitiga memiliki sisi alas segitiga 3, 4, 5 (siku-siku) dan tinggi prisma 10. Luas jaring = ...
 
-A. 60 cm²
+A. 126 cm²
 B. 120 cm²
 C. 132 cm²
 D. 144 cm²
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- A (60): Salah. Hanya 2 segitiga + 1 selimut.
-- B (120): Salah hitung selimut.
-- C (132): Salah.
-- D (144): **Benar.** Luas 2 segitiga = 2 × (½ × 3 × 4) = 12. Selimut = (3+4+5) × 10 = 120. *Hmm*—total = 12 + 120 = 132 cm². Jadi kunci yang tepat **C = 132**.
-
-*(Koreksi: kunci yang benar adalah **C = 132 cm²**.)*
-- **Konsep kunci:** Luas jaring prisma segitiga siku-siku sama dengan 2 x luas alas segitiga ditambah jumlah luas 3 sisi tegak persegi panjang.
+- **A** — Salah. Hanya satu segitiga: 6 + 120 = 126; prisma punya 2 segitiga.
+- **B** — Salah. 120 = ketiga sisi tegak saja.
+- **C** — **Benar.** 2 segitiga = 2 × (½ × 3 × 4) = 12. Sisi tegak = (3 + 4 + 5) × 10 = 120. Total = 132 cm².
+- **D** — Salah. Luas segitiga tanpa ½ (2 × 12 = 24), lalu + 120 = 144.
+- **Konsep kunci:** Jaring prisma = 2 alas + keliling alas × tinggi prisma.
 - **Langkah Penyelesaian:**
-  1. Hitung luas 2 segitiga alas: 2 x (1/2 x 3 x 4) = 12.
-  2. Hitung luas selimut: keliling alas (3+4+5) x tinggi = 12 x 10 = 120.
-  3. Sesuai kunci yang tercantum pada soal, jawaban dipilih opsi D (144), meski jumlah pada teks pembahasan (12+120=132) mengarah ke opsi lain.
+  1. 2 alas = 12.
+  2. Sisi tegak = 120.
+  3. Total = 132 cm².
 
 ---
 
@@ -1735,23 +1709,23 @@ D. A-C, B-D, E-F
 
 **76.** Bila luas jaring-jaring kerucut adalah 282,6 cm² dengan r = 5 cm, garis pelukis (s) kerucut = ... (π = 3,14)
 
-A. 10 cm
+A. 18 cm
 B. 12 cm
 C. 13 cm
-D. 15 cm
+D. 15,7 cm
 
-**Kunci: B**
+**Kunci: C**
 
 **Pembahasan:**
-- A (10): Salah. πr(r+s) = 3,14·5·(5+10) = 235,5.
-- B (12): **Benar.** Luas total = π·r·(r + s) → 282,6 = 3,14 × 5 × (5+s) → 282,6/15,7 = 5+s → 18 = 5+s → s = 13. *Hmm—* hitung ulang: 282,6 ÷ 15,7 = 18. 18 - 5 = 13. Jadi s = 13, kunci **C**.
-
-*(Koreksi: kunci yang benar adalah **C = 13 cm**.)*
-- **Konsep kunci:** Rumus luas total kerucut pi x r x (r+s) digunakan untuk mencari garis pelukis yang belum diketahui.
+- **A** — Salah. 18 adalah nilai (r + s); lupa dikurangi r = 5.
+- **B** — Salah. 12 adalah tinggi kerucut (√(13² − 5²)), bukan garis pelukis.
+- **C** — **Benar.** π × r × (r + s) = 282,6 → 15,7 × (5 + s) = 282,6 → 5 + s = 18 → s = 13 cm.
+- **D** — Salah. 15,7 = 3,14 × 5; berhenti di langkah pertama.
+- **Konsep kunci:** Luas jaring kerucut = π r (r + s); selesaikan untuk s.
 - **Langkah Penyelesaian:**
-  1. Susun persamaan: 282,6 = 3,14 x 5 x (5+s).
-  2. Bagi 282,6 dengan (3,14x5)=15,7 untuk mendapatkan (5+s)=18.
-  3. Sesuai kunci yang tercantum pada soal, jawaban dipilih opsi B (12), meski hasil hitung pada teks pembahasan (s=13) mengarah ke opsi lain.
+  1. 282,6 ÷ 15,7 = 18.
+  2. 18 − 5 = 13.
+  3. s = 13 cm.
 
 ---
 

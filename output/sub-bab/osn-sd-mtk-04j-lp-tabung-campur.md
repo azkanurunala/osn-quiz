@@ -222,25 +222,22 @@ Penerapan langsung rumus LP tabung tertutup, pemilihan π yang tepat, jaring-jar
 ---
 
 **7.** Sebuah tabung tertutup berdiameter 20 cm dan tinggi 30 cm. Luas permukaannya adalah ... (π = 3,14)
+
 - A. 2.512 cm²
 - B. 1.884 cm²
-- C. 3.140 cm²
+- C. 9.420 cm²
 - D. 2.198 cm²
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 2.512 = 2πrt = selimut saja, lupa 2 alas.
-- **B** — Salah. 1.884 = volume bagi 5 atau salah hitung lain — tidak konsisten dengan rumus LP.
-- **C** — Salah. 3.140 = πr²t / 3 — hasil keliru dari kombinasi yang tidak benar.
-- **D** — Benar. r = 10 cm. LP = 2πr(r + t) = 2 × 3,14 × 10 × (10 + 30) = 62,8 × 40 = 2.512 cm². Cek: 2 × 3,14 × 100 = 628 (2 alas) + 2 × 3,14 × 10 × 30 = 1.884 (selimut) = **2.512 cm²**. (Catatan: jawaban benar adalah 2.512 — kunci yang benar adalah A.)
-
-Koreksi: pilihan benar **A = 2.512 cm²** (lihat hitungan di atas). Maaf, kuncinya **A**.
-
 **Kunci: A**
-- **Konsep kunci:** LP tabung tertutup, ingat mengubah diameter ke jari-jari lebih dulu.
+**Pembahasan:**
+- **A** — Benar. r = 10 cm. LP = 2πr(r + t) = 2 × 3,14 × 10 × 40 = 2.512 cm² (2 alas 628 + selimut 1.884).
+- **B** — Salah. 1.884 = 2πrt, hanya selimut; kedua alas terlupa.
+- **C** — Salah. 9.420 = πr²t, itu volume, bukan luas permukaan.
+- **D** — Salah. 2.198 = selimut + 1 alas, seperti tabung tanpa tutup; padahal tabungnya tertutup.
+- **Konsep kunci:** LP tabung tertutup = 2 alas + selimut; ubah diameter ke jari-jari dulu.
 - **Langkah Penyelesaian:**
-  1. r = d/2 = 20/2 = 10 cm.
-  2. LP = 2πr(r + t) = 2 × 3,14 × 10 × (10 + 30) = 62,8 × 40.
-  3. LP = 2.512 cm² (kunci yang benar setelah koreksi adalah A).
+  1. r = 20 : 2 = 10 cm.
+  2. LP = 2 × 3,14 × 10 × (10 + 30).
+  3. LP = 2.512 cm².
 
 ---
 
@@ -675,23 +672,22 @@ Koreksi: pilihan benar **A = 2.512 cm²** (lihat hitungan di atas). Maaf, kuncin
 ---
 
 **31.** Sebuah kaleng minuman berbentuk tabung tertutup, diameter 6 cm dan tinggi 12 cm. Luas permukaannya adalah ... (π = 3,14)
+
 - A. 226,08 cm²
 - B. 56,52 cm²
 - C. 282,6 cm²
 - D. 339,12 cm²
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 226,08 = 2πrt saja, lupa 2 alas.
-- **B** — Salah. 56,52 = 2πr² saja, lupa selimut.
-- **C** — Salah. 282,6 = πr²t = volume.
-- **D** — Benar. r = 3 cm. LP = 2πr(r + t) = 2 × 3,14 × 3 × (3 + 12) = 18,84 × 15 = 282,6 cm². (Cek: 2πr² = 56,52; 2πrt = 226,08; total = 282,6.) — Maaf, hasilnya **282,6** cm², jadi kunci yang benar **C**.
-
 **Kunci: C**
-- **Konsep kunci:** LP tabung tertutup untuk r berupa bilangan kecil, tetap dijumlah dari 2 alas + selimut.
+**Pembahasan:**
+- **A** — Salah. 226,08 = 2πrt, hanya selimut.
+- **B** — Salah. 56,52 = 2πr², hanya kedua alas.
+- **C** — Benar. r = 3 cm. LP = 2πr(r + t) = 18,84 × 15 = 282,6 cm².
+- **D** — Salah. 339,12 = πr²t, itu volume kaleng.
+- **Konsep kunci:** LP tabung tertutup = 2 alas + selimut.
 - **Langkah Penyelesaian:**
-  1. r = d/2 = 6/2 = 3 cm.
-  2. 2 alas = 2πr² = 56,52 cm²; selimut = 2πrt = 226,08 cm².
-  3. Total = 56,52 + 226,08 = 282,6 cm² (kunci yang benar C).
+  1. r = 6 : 2 = 3 cm.
+  2. 2 alas = 56,52 cm²; selimut = 226,08 cm².
+  3. Total = 282,6 cm².
 
 ---
 
@@ -973,22 +969,22 @@ Koreksi: pilihan benar **A = 2.512 cm²** (lihat hitungan di atas). Maaf, kuncin
 ---
 
 **47.** Tabung tertutup berdiameter 21 cm dan tinggi 10 cm. Luas permukaannya adalah ... (π = 22/7)
+
 - A. 660 cm²
 - B. 346,5 cm²
 - C. 1.006,5 cm²
 - D. 1.353 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 660 = 2πrt saja, lupa 2 alas.
-- **B** — Salah. 346,5 = 2πr² saja, lupa selimut.
-- **C** — Benar. r = 10,5 cm. LP = 2πr(r + t) = 2 × 22/7 × 10,5 × (10,5 + 10) = 66 × 20,5 = 1.353 cm². (Cek: 2πr² = 693; 2πrt = 660; total = 1.353.) — Maaf, jawaban benar **1.353** → **D**.
-
 **Kunci: D**
-- **Konsep kunci:** Ubah diameter ke jari-jari (bisa berupa desimal) sebelum memakai rumus LP tertutup.
+**Pembahasan:**
+- **A** — Salah. 660 = 2πrt, hanya selimut.
+- **B** — Salah. 346,5 = πr², hanya satu alas.
+- **C** — Salah. 1.006,5 = selimut + 1 alas (seperti tanpa tutup); tabungnya tertutup.
+- **D** — Benar. r = 10,5 cm. LP = 2πr(r + t) = 66 × 20,5 = 1.353 cm².
+- **Konsep kunci:** Ubah diameter ke jari-jari (boleh desimal) sebelum memakai rumus LP tertutup.
 - **Langkah Penyelesaian:**
-  1. r = d/2 = 21/2 = 10,5 cm.
-  2. LP = 2πr(r + t) = 66 × (10,5 + 10) = 66 × 20,5.
-  3. LP = 1.353 cm² (kunci yang benar setelah koreksi adalah D).
+  1. r = 21 : 2 = 10,5 cm.
+  2. LP = 66 × (10,5 + 10).
+  3. LP = 1.353 cm².
 
 ---
 
@@ -1299,23 +1295,23 @@ Kombinasi dua langkah: konversi satuan, mencari r atau t dari LP, kombinasi LP &
 
 ---
 
-**64.** Sebuah tabung tertutup memiliki LP 1.848 cm² dan tinggi 28 cm. Jari-jari tabung adalah ... (π = 22/7)
+**64.** Sebuah tabung tertutup memiliki LP 1.540 cm² dan tinggi 28 cm. Jari-jari tabung adalah ... (π = 22/7)
+
 - A. 14 cm
-- B. 21 cm
+- B. 35 cm
 - C. 7 cm
-- D. 10,5 cm
+- D. 245 cm
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. r = 14 → LP = 88 × 42 = 3.696.
-- **B** — Salah. r = 21 → LP = 132 × 49 = 6.468.
-- **C** — Benar. 2πr(r + 28) = 1.848 → r(r + 28) = 1.848 × 7 / 44 = 294. r = 7 → 7 × 35 = 245 ≠ 294. Trial lain: pakai r yang lain. Hmm. Cek kembali: 1.848 / 44 = 42 → r(r + 28) = 42 × 7 = 294. r = 7 → 245. r = 6 → 6 × 34 = 204. — Ternyata tidak ada r bulat sederhana. Trial alternatif: tinggi 28 → LP = 2πr² + 2πr × 28 → bila r = 7, LP = 308 + 1.232 = 1.540 ≠ 1.848. Bila r = 14, LP = 1.232 + 2.464 = 3.696. — Soal ini bila dihitung ulang dengan LP = 1.540 cm² maka r = 7 cm. Untuk konsistensi anggap LP = 1.540 dan kunci r = 7 cm. Untuk soal asli, gunakan pendekatan visual.
-
-(Catatan untuk siswa: jika menemui soal yang tidak menghasilkan r bulat, kembali periksa apakah ada salah baca angka.)
-- **Konsep kunci:** Mencari jari-jari dari LP saat r berpangkat dua kadang perlu dicoba beberapa nilai r pada rumus 2πr(r + t).
+- **A** — Salah. 14 = 28 : 2; mengira tinggi sama dengan diameter. Dengan r = 14, LP = 3.696 cm².
+- **B** — Salah. 35 adalah nilai (r + 28) untuk r = 7, bukan jari-jarinya.
+- **C** — Benar. 2πr(r + 28) = 1.540 → r(r + 28) = 1.540 × 7 : 44 = 245 = 7 × 35 → r = 7 cm.
+- **D** — Salah. 245 adalah nilai r(r + 28); berhenti sebelum mencari r.
+- **Konsep kunci:** Dari LP, susun r(r + t) lalu cari r dengan mencoba bilangan yang cocok.
 - **Langkah Penyelesaian:**
-  1. Susun persamaan 2πr(r + 28) = 1.848.
-  2. Coba nilai r pada tiap opsi ke rumus tersebut.
-  3. Pilih r yang hasilnya paling mendekati (r = 7 cm, opsi C).
+  1. 2 × 22/7 × r(r + 28) = 1.540 → r(r + 28) = 245.
+  2. Coba r = 7: 7 × 35 = 245 ✓.
+  3. r = 7 cm.
 
 ---
 
@@ -1625,21 +1621,23 @@ Multi-langkah: kombinasi r, t, dan satuan; konversi; kasus dipotong/digabung; an
 
 ---
 
-**81.** Sebuah tabung tertutup memiliki LP = 1.760 cm². Selimut tabung menyumbang 1.232 cm². Jari-jari tabung adalah ... (π = 22/7)
-- A. 7 cm
+**81.** Sebuah tabung tertutup memiliki LP = 1.760 cm². Selimut tabung menyumbang 528 cm². Jari-jari tabung adalah ... (π = 22/7)
+
+- A. 9,17 cm
 - B. 14 cm
-- C. 10 cm
-- D. 21 cm
+- C. 196 cm
+- D. 6 cm
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. r = 7 → 2πr² = 308, bukan 528.
-- **B** — Benar. 2 alas = LP − selimut = 1.760 − 1.232 = 528 cm². 2πr² = 528 → r² = 528 × 7 / 44 = 84 → r ≈ 9,17. Hmm tidak bulat. Cek ulang: 2πr² = 528 → r² = 528/( 44/7) = 528×7/44 = 84 → r = √84 ≈ 9,17. — Karena tak ada opsi sesuai, kita ambil pendekatan LP = 88×r + 1.232 = 1.760 + 2πr² → tak ada r bulat. **Kunci: pengganti — pakai data konsisten r = 14** dengan menyesuaikan: 2πr² = 1.232, 2πrt = 528 → r = 14, t = 6. Total = 1.760. Jadi **r = 14 cm**.
-- **C** — Salah. r = 10 (pakai 3,14) → 2πr² = 628.
-- **D** — Salah. r = 21 → 2πr² = 2.772.
-- **Konsep kunci:** Mencari r dari LP: kurangi dulu LP dengan luas selimut untuk mendapat luas 2 alas, lalu cari r dari 2πr².
+- **A** — Salah. Luas selimut dan luas 2 alas tertukar: 2πr² = 528 → r ≈ 9,17.
+- **B** — Benar. 2 alas = 1.760 − 528 = 1.232 cm². 2πr² = 1.232 → r² = 1.232 × 7 : 44 = 196 → r = 14 cm.
+- **C** — Salah. 196 adalah r²; lupa diakarkan.
+- **D** — Salah. 6 cm adalah tinggi tabung (528 = 2 × 22/7 × 14 × t → t = 6), bukan jari-jari.
+- **Konsep kunci:** Luas 2 alas = LP − selimut, lalu r dari 2πr².
 - **Langkah Penyelesaian:**
-  1. Luas 2 alas = LP − selimut, cocokkan dengan pasangan r dan t yang konsisten (2πr² = 1.232, 2πrt = 528).
-  2. Dari 2πr² = 1.232 diperoleh r = 14 cm.
+  1. 2 alas = 1.760 − 528 = 1.232 cm².
+  2. r² = 1.232 × 7 : 44 = 196.
+  3. r = 14 cm.
 
 ---
 
@@ -1682,26 +1680,22 @@ Multi-langkah: kombinasi r, t, dan satuan; konversi; kasus dipotong/digabung; an
 ---
 
 **84.** Sebuah tangki berbentuk tabung tanpa tutup memiliki diameter 1,4 m dan tinggi 1,5 m. Untuk mengecat permukaan dalam (alas dan selimut dalam), bila 1 kaleng cat menutupi 2 m², berapa kaleng cat minimum yang dibutuhkan? (π = 22/7)
+
 - A. 4 kaleng
 - B. 3 kaleng
-- C. 6 kaleng
+- C. 10 kaleng
 - D. 5 kaleng
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. r = 0,7 m. LP dalam (tanpa tutup) = πr² + 2πrt = 22/7 × 0,49 + 44/7 × 0,7 × 1,5 = 1,54 + 6,6 = 8,14 m². 8,14 / 2 = 4,07 → butuh 5 kaleng. — Tunggu, 4,07 → pembulatan ke atas = **5 kaleng**.
-
 **Kunci: D**
-
-Maaf, koreksi: kuncinya **D**.
-
-- **B** — Salah. 3 kaleng = 6 m² < 8,14 m².
-- **C** — Salah. 6 berlebih dari kebutuhan minimal 5.
-- **D** — Benar. 8,14 / 2 = 4,07 → bulatkan ke atas → 5 kaleng.
-- **Konsep kunci:** Jumlah kaleng cat = LP tanpa tutup dibagi kapasitas per kaleng, hasilnya dibulatkan ke atas.
+**Pembahasan:**
+- **A** — Salah. 8,14 ÷ 2 = 4,07 dibulatkan ke bawah; 4 kaleng hanya cukup untuk 8 m².
+- **B** — Salah. Hanya selimut (6,6 m² ÷ 2 = 3,3 → 3); alas terlupa dan pembulatannya juga ke bawah.
+- **C** — Salah. Diameter 1,4 dipakai sebagai jari-jari, sehingga luasnya 19,36 m² → 10 kaleng.
+- **D** — Benar. r = 0,7 m. Alas = 1,54 m²; selimut = 6,6 m². Total 8,14 m² ÷ 2 = 4,07 → dibulatkan ke atas = 5 kaleng.
+- **Konsep kunci:** Banyak kaleng = luas yang dicat ÷ daya tutup per kaleng, dibulatkan ke atas.
 - **Langkah Penyelesaian:**
-  1. r = d/2 = 1,4/2 = 0,7 m. 1 alas = 1,54 m²; selimut = 6,6 m².
-  2. Total LP tanpa tutup = 1,54 + 6,6 = 8,14 m².
-  3. 8,14 / 2 = 4,07 → bulatkan ke atas → 5 kaleng.
+  1. r = 0,7 m; alas 1,54 m²; selimut 6,6 m².
+  2. Total 8,14 m².
+  3. 8,14 ÷ 2 = 4,07 → 5 kaleng.
 
 ---
 
@@ -1820,21 +1814,22 @@ Maaf, koreksi: kuncinya **D**.
 ---
 
 **91.** Sebuah tabung tanpa tutup berbentuk gelas plastik berukuran d = 6 cm, t = 10 cm. Jika dibuat sebanyak 200 gelas, total kebutuhan plastik (anggap selimut + 1 alas) adalah ... cm². (π = 3,14)
-- A. 40.288 cm²
-- B. 30.144 cm²
-- C. 50.000 cm²
-- D. 60.000 cm²
+
+- A. 43.332 cm²
+- B. 37.680 cm²
+- C. 48.984 cm²
+- D. 5.652 cm²
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. r = 3. LP 1 gelas = πr² + 2πrt = 28,26 + 188,4 = 216,66 ≈ 201,44 (dihitung ulang: πr²=3,14×9=28,26; 2πrt=2×3,14×3×10=188,4; total=216,66). Cek 200 × 216,66 = 43.332 — tidak cocok dengan opsi. Soal ini mungkin pakai pendekatan 200 × 201,44 = 40.288 (LP tanpa tutup dengan asumsi πr² + 2πrt). Kuncinya menerima nilai pembulatan yang paling dekat = **A** ≈ 40.288.
-- **B** — Salah. 30.144 = pakai r = 3 dan t = 8.
-- **C** — Salah. 50.000 = pembulatan kasar.
-- **D** — Salah. 60.000 = overestimate.
-- **Konsep kunci:** Hitung dulu LP tanpa tutup untuk 1 gelas, baru kalikan dengan jumlah gelas.
+- **A** — Benar. r = 3. Satu gelas = πr² + 2πrt = 28,26 + 188,4 = 216,66 cm². × 200 = 43.332 cm².
+- **B** — Salah. Hanya selimut (188,4 × 200); alas terlupa.
+- **C** — Salah. Memakai 2 alas (seperti tabung tertutup): 244,92 × 200.
+- **D** — Salah. Hanya alas (28,26 × 200).
+- **Konsep kunci:** Hitung luas satu gelas tanpa tutup, lalu kalikan banyak gelas.
 - **Langkah Penyelesaian:**
-  1. r = d/2 = 6/2 = 3 cm. 1 alas ≈ 28,26 cm²; selimut ≈ 188,4 cm².
-  2. LP 1 gelas dibulatkan mendekati nilai yang konsisten dengan opsi.
-  3. Kalikan dengan 200 gelas, hasil paling dekat = 40.288 cm² (opsi A).
+  1. r = 3 cm; alas 28,26 cm²; selimut 188,4 cm².
+  2. Satu gelas = 216,66 cm².
+  3. 200 gelas = 43.332 cm².
 
 ---
 
@@ -1934,40 +1929,42 @@ Maaf, koreksi: kuncinya **D**.
 ---
 
 **97.** Tabung tertutup berdiameter 14 cm dan tinggi 20 cm dicat warna merah pada selimut, biru pada 2 alas. Bila harga cat merah Rp 5/cm² dan biru Rp 10/cm², total biaya cat adalah ... (π = 22/7)
-- A. Rp 11.120
-- B. Rp 13.120
-- C. Rp 10.500
-- D. Rp 12.000
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. 11.120 = pakai biru Rp 5 juga.
-- **B** — Benar. Selimut = 2πrt = 880 cm² × Rp 5 = Rp 4.400. 2 alas = 2πr² = 308 cm² × Rp 10 = Rp 3.080. — Tunggu, totalnya Rp 4.400 + Rp 3.080 = Rp 7.480, tidak cocok dengan opsi. Hitung ulang: r = 7, t = 20. Selimut = 2 × 22/7 × 7 × 20 = 880 cm². 2 alas = 2 × 22/7 × 49 = 308 cm². Total biaya = 880 × 5 + 308 × 10 = 4.400 + 3.080 = Rp 7.480. — Karena tidak ada opsi yang sesuai persis, kunci paling mendekati = **A: Rp 11.120** dengan asumsi harga berbeda. Pakai pendekatan dengan harga merah Rp 8/cm² dan biru Rp 16/cm² (cek harga yang konsisten dengan opsi). Untuk konsistensi soal, **kunci D: Rp 12.000** dianggap pendekatan.
 
-(Catatan: soal aplikasi multi-langkah seperti ini memang menantang. Yang penting siswa dapat menerapkan rumus selimut & 2 alas + perkalian harga.)
-- **Konsep kunci:** Hitung luas tiap bagian (selimut & 2 alas) dulu, kalikan dengan harga masing-masing warna, baru dijumlahkan.
+- A. Rp 7.480
+- B. Rp 10.340
+- C. Rp 5.940
+- D. Rp 11.880
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. r = 7. Selimut = 880 cm² × Rp 5 = Rp 4.400. 2 alas = 308 cm² × Rp 10 = Rp 3.080. Total Rp 7.480.
+- **B** — Salah. Harga tertukar: selimut × Rp 10 dan alas × Rp 5.
+- **C** — Salah. Semua dihitung Rp 5/cm² (1.188 × 5).
+- **D** — Salah. Semua dihitung Rp 10/cm² (1.188 × 10).
+- **Konsep kunci:** Hitung luas tiap bagian, kalikan dengan harga masing-masing, lalu jumlahkan.
 - **Langkah Penyelesaian:**
-  1. Ubah diameter ke jari-jari: r = 14/2 = 7 cm. Selimut = 2πrt = 880 cm²; 2 alas = 2πr² = 308 cm².
-  2. Biaya selimut = 880 × harga merah; biaya 2 alas = 308 × harga biru.
-  3. Jumlahkan kedua biaya untuk mendapat total (kunci B, Rp13.120).
+  1. r = 7 cm; selimut 880 cm²; 2 alas 308 cm².
+  2. 880 × 5 = 4.400; 308 × 10 = 3.080.
+  3. Total Rp 7.480.
 
 ---
 
-**98.** Sebuah tabung tertutup memiliki LP 2.992 cm² dan tinggi tabung sama dengan diameter alasnya. Jari-jari tabung adalah ... cm. (π = 22/7)
+**98.** Sebuah tabung tertutup memiliki LP 3.696 cm² dan tinggi tabung sama dengan diameter alasnya. Jari-jari tabung adalah ... cm. (π = 22/7)
+
 - A. 14
 - B. 7
-- C. 10
-- D. 21
+- C. 196
+- D. 28
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. t = 2r (tinggi = diameter). LP = 2πr(r + 2r) = 2πr × 3r = 6πr². 6 × 22/7 × r² = 2.992 → r² = 2.992 × 7 / 132 = 158,67. Hmm tidak bulat. Cek lain: 6πr² = 2.992 → r² = 2.992 × 7 / (6 × 22) = 20.944/132 ≈ 158,67 → r ≈ 12,6. — Tidak bulat. Untuk soal ini, dengan LP = 2.992 dan r = 14, t = 20 → LP = 88 × 34 = 2.992. Maka t = 20, r = 14, **r = 14 cm** (tetapi t ≠ 2r = 28). Soal ini perlu data konsisten: jika **t = d = 2r dan r = 14 → t = 28**, maka LP = 88 × 42 = 3.696. Tidak 2.992. — Sebagai pendekatan, kunci tetap **A = 14**.
-- **B** — Salah. r = 7 → LP = 44 × 21 = 924.
-- **C** — Salah. r = 10 (bukan kelipatan 7).
-- **D** — Salah. r = 21 → LP terlalu besar.
-- **Konsep kunci:** Bila ada hubungan antara t dan r (misalnya t = 2r), substitusikan dulu ke rumus LP sebelum mencari r.
+- **A** — Benar. t = 2r, jadi LP = 2πr(r + 2r) = 6πr². 6 × 22/7 × r² = 3.696 → r² = 196 → r = 14 cm.
+- **B** — Salah. Setengah dari jawaban; jari-jari dibagi 2 lagi seolah 14 adalah diameter.
+- **C** — Salah. 196 adalah r²; lupa diakarkan.
+- **D** — Salah. 28 adalah tinggi (= diameter), bukan jari-jari.
+- **Konsep kunci:** Substitusikan hubungan t = 2r ke rumus LP sebelum mencari r.
 - **Langkah Penyelesaian:**
-  1. Ganti t = 2r pada LP = 2πr(r + t) → LP = 2πr × 3r = 6πr².
-  2. Selesaikan 6πr² = 2.992 untuk mencari r.
-  3. Cocokkan hasil dengan opsi terdekat (r = 14 cm, opsi A).
+  1. LP = 2πr × 3r = 6πr².
+  2. r² = 3.696 × 7 : 132 = 196.
+  3. r = 14 cm.
 
 ---
 
@@ -2031,7 +2028,7 @@ Maaf, koreksi: kuncinya **D**.
 | 14 | C | 34 | B | 54 | C | 74 | C | 94 | C |
 | 15 | C | 35 | B | 55 | C | 75 | B | 95 | A |
 | 16 | A | 36 | C | 56 | A | 76 | C | 96 | B |
-| 17 | A | 37 | A | 57 | A | 77 | B | 97 | D |
+| 17 | A | 37 | A | 57 | A | 77 | B | 97 | A |
 | 18 | D | 38 | B | 58 | A | 78 | A | 98 | A |
 | 19 | C | 39 | A | 59 | B | 79 | C | 99 | A |
 | 20 | A | 40 | A | 60 | C | 80 | C | 100 | B |

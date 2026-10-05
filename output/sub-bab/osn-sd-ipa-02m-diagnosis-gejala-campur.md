@@ -3301,7 +3301,7 @@ D. Membiarkan tidur sampai sembuh sendiri
 
 - **Langkah Penyelesaian:**
   1. Beri 15 g gula sederhana.
-  2. Tunggu 15 menit, cek lagi.
+  2. Tunggu 15 menit, lalu periksa kembali keadaannya.
   3. Bila membaik, lanjut makan KH kompleks (nasi, roti) untuk stabilkan.
   4. Bila tidak sadar → JANGAN beri makan/minum, segera RS untuk dekstrosa IV.
 

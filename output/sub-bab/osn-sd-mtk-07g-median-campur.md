@@ -1271,23 +1271,6 @@ Median = ...
 
 ---
 
-**58.** Banyak peserta lomba dari 7 sekolah: 12, 15, 18, 20, 14, 16, 22. Median = ...
-- A. 14
-- B. 18
-- C. 16
-- D. 20
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 14 = data ke-2.
-- **B** — 18 = data ke-4 (jika lupa urut, asal ambil ke-4).
-- **C** — 16 = data ke-3 setelah urut.
-- **D** — Benar. Urut: 12, 14, 15, 16, 18, 20, 22. n=7. Data ke-4 = **16**... 
-
-Tunggu, mari koreksi: data ke-4 dari urutan 12,14,15,16,18,20,22 adalah 16, bukan 20. Median = **16**, jadi kunci yang benar adalah C, bukan D.
-
-Mari ganti soal supaya kunci D tetap valid. Saya tulis ulang soal 58:
-
 **58.** Banyak peserta lomba dari 7 sekolah: 18, 22, 25, 30, 20, 28, 24. Median = ...
 - A. 18
 - B. 22
@@ -1378,22 +1361,7 @@ Berapa median berat badan?
 
 ---
 
-**62.** Diberikan 8 data nilai ulangan: 75, 80, 70, 85, 90, 65, 95, 80. Median = ...
-- A. 75
-- B. 85
-- C. 80
-- D. 82,5
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 75 = data ke-3.
-- **B** — 85 = data ke-6.
-- **C** — 80 = data ke-4 atau ke-5, lupa rata-rata (atau benar bila keduanya 80, tapi di sini ke-4=80, ke-5=85).
-- **D** — Benar. Urut: 65, 70, 75, 80, 85, 90, 95... tunggu ada 8 data, dengan dua 80. Urut: 65, 70, 75, 80, 80, 85, 90, 95. n=8. Median = (data ke-4 + data ke-5)/2 = (80+80)/2 = 80.
-
-Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbaiki dengan mengganti data: 75, 80, 70, 85, 90, 65, 95, 88.
-
-**62 (revisi):** Diberikan 8 data nilai ulangan: 75, 80, 70, 85, 90, 65, 95, 88. Median = ...
+**62.** Diberikan 8 data nilai ulangan: 75, 80, 70, 85, 90, 65, 95, 88. Median = ...
 - A. 75
 - B. 85
 - C. 80
@@ -1473,23 +1441,7 @@ Tunggu — saya keliru: dengan dua 80, hasilnya 80, bukan 82,5. Mari saya perbai
 
 ---
 
-**66.** Jumlah pengunjung perpustakaan 9 hari: 30, 40, 35, 50, 45, 60, 55, 70, 65. Median = ...
-- A. 40
-- B. 45
-- C. 50
-- D. 55
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 40 = data ke-2.
-- **B** — 45 = data ke-3.
-- **C** — 50 = data ke-4.
-
-Tunggu, dengan n=9 posisi tengah = 5. Mari urutkan: 30, 35, 40, 45, 50, 55, 60, 65, 70. Data ke-5 = 50, bukan 55. Maka kunci yang benar adalah C, bukan D.
-
-Saya akan ganti datanya supaya median = 55. Ubah dataset sehingga data ke-5 = 55:
-
-**66 (revisi):** Jumlah pengunjung perpustakaan 9 hari: 40, 45, 50, 55, 60, 65, 35, 70, 75. Median = ...
+**66.** Jumlah pengunjung perpustakaan 9 hari: 40, 45, 50, 55, 60, 65, 35, 70, 75. Median = ...
 - A. 40
 - B. 50
 - C. 60
@@ -1550,32 +1502,6 @@ Saya akan ganti datanya supaya median = 55. Ubah dataset sehingga data ke-5 = 55
 ---
 
 **69.** Tabel nilai siswa:
-
-| Nilai | Frekuensi |
-|-------|-----------|
-| 5     | 2         |
-| 6     | 3         |
-| 7     | 5         |
-| 8     | 6         |
-| 9     | 4         |
-| 10    | 2         |
-
-Median = ...
-- A. 6
-- B. 7
-- C. 8
-- D. 9
-
-**Kunci: B**
-**Pembahasan:**
-- **A** — 6 = posisi awal.
-- **B** — Benar. n = 2+3+5+6+4+2 = 22 (genap). Posisi tengah = data ke-11 dan ke-12. Kumulatif: 5→2, 6→5, 7→10, 8→16. Data ke-11 jatuh di nilai 8, data ke-12 di nilai 8. Median = (8+8)/2 = 8.
-
-Tunggu — saya salah. Data ke-11: setelah kumulatif 10 (nilai 7), data ke-11 jatuh di nilai 8. Data ke-12 juga di nilai 8. Maka median = 8, bukan 7. Kunci yang benar adalah C.
-
-Mari saya ganti soal supaya kunci B sesuai. Saya ubah frekuensi:
-
-**69 (revisi):** Tabel nilai siswa:
 
 | Nilai | Frekuensi |
 |-------|-----------|
@@ -1981,20 +1907,6 @@ Mean dan median dari data ini adalah ...
 **88.** Sebuah data terdiri dari 5 bilangan asli berbeda yang jumlahnya 50, dengan median 10. Bilangan terbesar dari data tersebut sebanyak-banyaknya adalah ...
 - A. 24
 - B. 30
-- C. 32
-- D. 33
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — 24 = belum optimal.
-- **B** — 30 = belum maksimum.
-- **C** — Benar. Median = data ke-3 = 10. Untuk memaksimalkan bilangan terbesar, dua bilangan kecil minimal (1 dan 2), data ke-3 = 10 (fix). Data ke-4 minimal 11. Maka data ke-5 (terbesar) = 50 − (1+2+10+11) = 50 − 24 = **26**.
-
-Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 50 − 24 = 26. Bukan 32. Maka kunci yang benar adalah... tidak ada di pilihan. Mari sesuaikan supaya kunci C = 26.
-
-**88 (revisi):** Sebuah data terdiri dari 5 bilangan asli berbeda yang jumlahnya 50, dengan median 10. Bilangan terbesar dari data tersebut sebanyak-banyaknya adalah ...
-- A. 24
-- B. 30
 - C. 26
 - D. 33
 
@@ -2114,24 +2026,7 @@ Tunggu, mari hitung ulang: data terkecil 1 + 2 + 10 (median) + 11 + x = 50. x = 
 
 ---
 
-**94.** Jika 5 bilangan bulat positif berbeda memiliki median 8 dan rata-rata 10, maka bilangan terbesar minimal adalah ...
-- A. 11
-- B. 12
-- C. 13
-- D. 14
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 11 = belum memenuhi jumlah.
-- **B** — 12 = belum memenuhi.
-- **C** — 13 = belum memenuhi.
-- **D** — Benar. Median = data ke-3 = 8. Jumlah 5 data = 5×10 = 50. Untuk **meminimalkan** bilangan terbesar, kita harus **memaksimalkan** data ke-4. Data ke-3 = 8, data ke-4 minimal 9 (berbeda). Tapi untuk meminimalkan data ke-5, kita maksimalkan data ke-4. Data ke-4 maks = data ke-5 − 1. Misal data ke-5 = x, data ke-4 = x−1. Dua bilangan kecil minimal 1 dan 2 (atau lebih). Total: 1 + 2 + 8 + (x−1) + x = 50 → 2x + 10 = 50 → 2x = 40 → x = 20. Hmm, hasilnya 20, bukan 14. 
-
-Mari saya cek ulang: dengan dua kecil = 1,2, median 8, data ke-4 dan ke-5 = a,b (a<b berbeda). 1+2+8+a+b = 50 → a+b = 39. Untuk minimumkan b, maksimumkan a. a max = b−1. → (b−1)+b = 39 → 2b = 40 → b = 20.
-
-Maka jawaban yang benar adalah 20, bukan 14. Mari ganti pilihan supaya kunci D = 20:
-
-**94 (revisi):** Jika 5 bilangan bulat positif berbeda memiliki median 8 dan rata-rata 10, maka bilangan terbesar **minimal** adalah ...
+**94.** Jika 5 bilangan bulat positif berbeda memiliki median 8 dan rata-rata 10, maka bilangan terbesar **minimal** adalah ...
 - A. 11
 - B. 14
 - C. 17
@@ -2152,29 +2047,6 @@ Maka jawaban yang benar adalah 20, bukan 14. Mari ganti pilihan supaya kunci D =
 ---
 
 **95.** Suatu data tabel:
-
-| Nilai | Frekuensi |
-|-------|-----------|
-| 60    | 2         |
-| 70    | x         |
-| 80    | 5         |
-| 90    | 3         |
-
-Jika total 15 data dan mediannya 80, berapa nilai x?
-- A. 2
-- B. 5
-- C. 6
-- D. 7
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. n = 2 + x + 5 + 3 = 15 → x = **5**.
-
-Tunggu, 2 + x + 5 + 3 = 15 → x = 5. Maka jawaban yang benar adalah 5, yaitu B, bukan A. Mari saya cek median: dengan x=5, kumulatif: 60→2, 70→7, 80→12, 90→15. Posisi tengah = (15+1)/2 = 8. Data ke-8 berada di nilai 80 (kumulatif 80 = 12). Median = 80. ✅. Maka x = 5, kunci B.
-
-Saya akan ubah soal supaya kunci A valid (x=2):
-
-**95 (revisi):** Suatu data tabel:
 
 | Nilai | Frekuensi |
 |-------|-----------|
@@ -2203,21 +2075,7 @@ Jika total 15 data dan mediannya 80, berapa nilai x?
 
 ---
 
-**96.** Diketahui data nilai matematika 12 siswa yang sudah urut: 50, 55, 60, 65, a, b, 75, 80, 85, 90, 95, 100. Bila median data = 70, maka pasangan (a, b) yang **mungkin** adalah ...
-- A. (66, 74)
-- B. (68, 72)
-- C. (65, 75)
-- D. (67, 73)
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Median = (66+74)/2 = 70. Memenuhi! Tapi syarat urut a > 65 dan b < 75. Cek: 66 > 65 ✓, 74 < 75 ✓. Memenuhi.
-- **B** — Median = (68+72)/2 = 70. Memenuhi syarat urut.
-- **C** — Benar. Median = (65+75)/2 = 70. ✅ Tapi syarat urut a ≥ 65 dan b ≤ 75. Pilihan ini paling tepat karena meliputi batas. Catatan: pilihan A, B, D juga memenuhi secara matematis, tapi C sering dianggap "pasangan termudah dilihat" karena sama dengan tetangga. 
-
-Sebenarnya semua pilihan memenuhi syarat median = 70. Mari saya ubah supaya hanya satu jawaban yang benar.
-
-**96 (revisi):** Diketahui data nilai matematika 12 siswa yang sudah urut: 50, 55, 60, 65, a, b, 75, 80, 85, 90, 95, 100. Bila median data = 70 **dan** a + b = 140, maka pasangan (a, b) yang memenuhi syarat data tetap urut adalah ...
+**96.** Diketahui data nilai matematika 12 siswa yang sudah urut: 50, 55, 60, 65, a, b, 75, 80, 85, 90, 95, 100. Bila median data = 70 **dan** a + b = 140, maka pasangan (a, b) yang memenuhi syarat data tetap urut adalah ...
 - A. (60, 80)
 - B. (74, 66)
 - C. (68, 72)
@@ -2257,24 +2115,7 @@ Sebenarnya semua pilihan memenuhi syarat median = 70. Mari saya ubah supaya hany
 
 ---
 
-**98.** Lima bilangan bulat positif memiliki median 6 dan mean 7. Jumlah bilangan terkecil dan terbesar maksimum adalah ...
-- A. 16
-- B. 18
-- C. 19
-- D. 20
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 16 = belum optimal.
-- **B** — 18 = belum optimal.
-- **C** — 19 = belum optimal.
-- **D** — Benar. Jumlah total = 5×7 = 35. Median = data ke-3 = 6. Maka data ke-1 ≤ 6, data ke-2 ≤ 6, data ke-3 = 6, data ke-4 ≥ 6, data ke-5 ≥ 6. Untuk **maksimumkan** (terkecil + terbesar) = data ke-1 + data ke-5, kita perlu **meminimumkan** data ke-2 + data ke-4. Data ke-2 minimum = 1 (kalau berbeda dengan data ke-1) atau bisa sama dengan data ke-1 jika tidak ada syarat berbeda. Anggap boleh sama: data ke-2 min = 1, data ke-4 min = 6. Maka data ke-1 + data ke-5 = 35 − (1 + 6 + 6) = 35 − 13 = 22.
-
-Tunggu, kalau bilangan boleh sama: data ke-1 ≤ data ke-2 = 1 → data ke-1 = 1. data ke-4 = 6, data ke-5 ≥ 6. Total: 1 + 1 + 6 + 6 + x = 35 → x = 21. Maka data ke-1 + data ke-5 = 1 + 21 = 22.
-
-Hasilnya 22, bukan 20. Mari sesuaikan soal supaya kunci D = 20. Atau ubah pilihan:
-
-**98 (revisi):** Lima bilangan bulat positif memiliki median 6 dan mean 7. Jumlah bilangan terkecil dan terbesar **maksimum** adalah ...
+**98.** Lima bilangan bulat positif memiliki median 6 dan mean 7. Jumlah bilangan terkecil dan terbesar **maksimum** adalah ...
 - A. 16
 - B. 18
 - C. 20
@@ -2294,21 +2135,7 @@ Hasilnya 22, bukan 20. Mari sesuaikan soal supaya kunci D = 20. Atau ubah piliha
 
 ---
 
-**99.** Sebuah data terdiri dari 7 nilai dengan median 50. Jika **data ketiga setelah diurutkan** dinaikkan sebesar 10 (sehingga sekarang menjadi 60), maka median data baru ...
-- A. Tetap 50
-- B. Naik menjadi 60
-- C. Naik menjadi 55
-- D. Tergantung nilai data lain
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Median 7 data = data ke-4. Data ke-3 dinaikkan tidak mengubah data ke-4 selama urutan tetap (data ke-3 baru ≤ data ke-4 lama, yaitu 60 ≤ data ke-4 = 50 ... tunggu, ini melanggar urut).
-
-Mari cek: median = data ke-4 = 50. Data ke-3 awal ≤ 50. Setelah dinaikkan +10, jika data ke-3 baru ≤ 50, urutan tetap. Misal data ke-3 awal = 45, baru 55 > 50. Maka urutan berubah! Data ke-3 baru (55) > data ke-4 lama (50), jadi setelah re-sort, data ke-4 baru = 55 (yang tadi data ke-3). Median berubah jadi 55.
-
-Jadi jawaban tergantung. Saya akan ubah soalnya supaya kunci A jelas:
-
-**99 (revisi):** Sebuah data terdiri dari 7 nilai dengan median 50. Jika **data terkecil** dinaikkan sebesar 10 (tetap masih ≤ data lain di atasnya), maka median data baru ...
+**99.** Sebuah data terdiri dari 7 nilai dengan median 50. Jika **data terkecil** dinaikkan sebesar 10 (tetap masih ≤ data lain di atasnya), maka median data baru ...
 - A. Tetap 50
 - B. Naik menjadi 60
 - C. Naik menjadi 55

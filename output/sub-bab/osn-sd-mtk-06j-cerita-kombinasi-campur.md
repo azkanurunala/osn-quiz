@@ -1119,26 +1119,23 @@ Pedagang sering:
 ---
 
 **53.** Andi menabung Rp800.000 di bank dengan bunga 9% per tahun. Setelah 8 bulan, ibu menambah Rp200.000 ke tabungan Andi. Setelah total 12 bulan dari awal (dengan bunga juga atas tambahan untuk 4 bulan saja), berapa total saldo Andi? (Asumsi bunga sederhana, dihitung terpisah per setoran.)
-- A. Rp1.066.000
+
+- A. Rp1.078.000
 - B. Rp1.072.000
-- C. Rp1.060.000
-- D. Rp1.078.000
+- C. Rp1.090.000
+- D. Rp78.000
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Setoran 1: 800.000 × 9% × 1 = 72.000. Setoran 2 (4 bulan): 200.000 × 9% × (4/12) = 6.000. Total saldo = 800.000 + 200.000 + 72.000 + 6.000 = **Rp1.078.000**. — Ralat: jawaban benar = Rp1.078.000 → kunci semestinya **D**.
-- **B** — Rp1.072.000 = 800.000 + 72.000 + 200.000 (lupa bunga setoran 2).
-- **C** — Rp1.060.000 = 800.000 × 1,075 + 200.000 sembarang.
-- **D** — **Benar versi koreksi**. Saldo akhir = 800.000 + 200.000 + 72.000 + 6.000 = **Rp1.078.000**. ✅
-
----
-
-> **Catatan koreksi soal 53**: Kunci sebenarnya adalah **D** (Rp1.078.000). Untuk menjaga distribusi balanced di file ini, soal ini diganti kuncinya menjadi **A** dengan pengubahan opsi sbb: A=Rp1.078.000 (benar); B=Rp1.072.000; C=Rp1.060.000; D=Rp1.080.000. Pembahasan benar pada opsi **A**.
+- **A** — Benar. Setoran 1: 800.000 × 9% × 1 = 72.000. Setoran 2: 200.000 × 9% × 4/12 = 6.000. Saldo = 800.000 + 200.000 + 72.000 + 6.000 = **Rp1.078.000**.
+- **B** — Bunga setoran kedua terlupa (1.072.000).
+- **C** — Setoran kedua dianggap berbunga 12 bulan (18.000), padahal baru 4 bulan.
+- **D** — Hanya total bunganya; lupa ditambah kedua setoran.
 - **Konsep kunci:** Setiap setoran punya masa bunga sendiri, dihitung terpisah lalu dijumlahkan.
 - **Langkah Penyelesaian:**
-  1. Hitung bunga setoran pertama 12 bulan: 9% × 800.000 = 72.000.
-  2. Hitung bunga setoran kedua 4 bulan: (4/12) × 9% × 200.000 = 6.000.
-  3. Jumlahkan semua: 800.000 + 200.000 + 72.000 + 6.000 = Rp1.078.000.
+  1. Bunga setoran 1 (12 bulan): 72.000.
+  2. Bunga setoran 2 (4 bulan): 6.000.
+  3. Saldo = 1.078.000.
 
 ---
 
@@ -1261,25 +1258,23 @@ Pedagang sering:
 ---
 
 **60.** Pak Joko ke toko elektronik. Harga TV Rp4.500.000. Toko memberi diskon Idul Fitri 15%, lalu PPN 11%. Setelah itu Pak Joko punya voucher Rp100.000 yang dipakai. Berapa total bayar?
-- A. Rp4.348.875
-- B. Rp4.155.625
-- C. Rp4.148.875
-- D. Rp4.200.000
+
+- A. Rp4.245.750
+- B. Rp4.134.750
+- C. Rp4.145.750
+- D. Rp3.725.000
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Rp4.348.875 = lupa potong voucher.
-- **B** — Rp4.155.625 = sembarang.
-- **C** — Benar. Setelah diskon: 4.500.000 × 0,85 = 3.825.000. + PPN 11%: 3.825.000 × 1,11 = 4.245.750. Hmm, mari ulang: 3.825.000 × 1,11 = 3.825.000 + 420.750 = 4.245.750. − voucher 100.000 = **Rp4.145.750**. ✅ (Versi pembulatan opsi C dianggap Rp4.145.750 ≈ Rp4.148.875 dalam draf.)
-- **D** — Rp4.200.000 = sembarang.
-
----
-
-> **Catatan koreksi soal 60**: Jawaban eksak = Rp4.145.750. Opsi C diganti menjadi **Rp4.145.750** (kunci tetap C). A=Rp4.245.750 (lupa voucher); B=Rp4.155.625 sembarang; C=Rp4.145.750 (benar); D=Rp4.200.000 sembarang.
-- **Konsep kunci:** Diskon, PPN, dan voucher dikerjakan berurutan sesuai urutan kejadian di cerita.
+- **A** — Voucher lupa dipotong.
+- **B** — Voucher dipotong sebelum PPN ((3.825.000 − 100.000) × 1,11); di cerita voucher dipakai setelah PPN.
+- **C** — Benar. 4.500.000 × 0,85 = 3.825.000; × 1,11 = 4.245.750; − 100.000 = **Rp4.145.750**.
+- **D** — PPN terlupa (3.825.000 − 100.000).
+- **Konsep kunci:** Diskon, PPN, dan voucher dikerjakan berurutan sesuai cerita.
 - **Langkah Penyelesaian:**
-  1. Kurangi diskon 15%: 4.500.000 × 0,85 = 3.825.000.
-  2. Tambahkan PPN 11%: 3.825.000 × 1,11 = 4.245.750, lalu kurangi voucher 100.000 = Rp4.145.750.
+  1. Diskon: 3.825.000.
+  2. PPN: 4.245.750.
+  3. Voucher: 4.145.750.
 
 ---
 
@@ -1349,45 +1344,42 @@ Pedagang sering:
 ---
 
 **64.** Sari membeli sebuah laptop bekas seharga Rp4.000.000. Setelah 2 tahun ia menjualnya dengan harga Rp2.800.000. Berapa persen kerugiannya?
-- A. 35%
-- B. 25%
-- C. 40%
-- D. 30%
+
+- A. 30%
+- B. 42,86%
+- C. 70%
+- D. 15%
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Rugi = 4.000.000 − 2.800.000 = 1.200.000. %Rugi = (1.200.000/4.000.000) × 100% = **30%**. Kunci semestinya tampil di posisi pengganti agar konsisten — kami koreksi: jawaban benar adalah **30% → D**, namun untuk menjaga kunci sequence A pada soal 64, kami ubah harga jual menjadi Rp2.600.000 → Rugi = 1.400.000; %Rugi = 35%. Maka opsi A=**35%** ✅ benar.
-
----
-
-> **Catatan koreksi soal 64**: Harga jual diubah menjadi Rp2.600.000 (bukan Rp2.800.000). Rugi = 1.400.000. %Rugi = 35%. Kunci **A** (35%). Opsi: A=35% (benar); B=25%; C=40%; D=30%.
-- **Konsep kunci:** Persen rugi dihitung dari selisih modal-jual dibagi modal.
+- **A** — Benar. Rugi = 4.000.000 − 2.800.000 = 1.200.000. Persen rugi = 1.200.000 : 4.000.000 × 100% = **30%**.
+- **B** — Rugi dibagi harga jual (1,2 juta : 2,8 juta); persen rugi harus dibagi harga beli.
+- **C** — Harga jual dibagi harga beli (2,8 : 4); itu persentase harga jual terhadap modal, bukan kerugian.
+- **D** — 30% dibagi 2 tahun; soal tidak meminta kerugian per tahun.
+- **Konsep kunci:** Persen rugi = rugi ÷ harga beli × 100%.
 - **Langkah Penyelesaian:**
-  1. Hitung rugi: 4.000.000 − 2.600.000 = 1.400.000.
-  2. Bagi rugi dengan modal lalu kali 100%: (1.400.000/4.000.000) × 100% = 35%.
+  1. Rugi = 1.200.000.
+  2. 1.200.000 : 4.000.000 × 100% = 30%.
 
 ---
 
-**65.** Pak Joko menukar 2 lembar 100 ribu menjadi 5 lembar 50 ribu di kasir bank, kemudian menabung Rp250.000 itu dengan bunga 6% per tahun. Setelah 8 bulan ia menarik semuanya. Berapa rupiah yang Pak Joko terima?
+**65.** Pak Joko menabung Rp250.000 dengan bunga tunggal 6% per tahun. Setelah 8 bulan ia menarik semuanya. Berapa rupiah yang Pak Joko terima?
+
 - A. Rp260.000
 - B. Rp250.000
 - C. Rp265.000
-- D. Rp262.500
+- D. Rp10.000
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Rp260.000 = 250.000 + 10.000 (bunga setahun penuh 4% atau sembarang).
-- **B** — Benar. Bunga 8 bulan = (8/12) × 6% × 250.000 = (2/3) × 15.000 = 10.000. Total = 250.000 + 10.000 = **Rp260.000**. — Hmm, ini sama dengan A. Mari koreksi: ubah bunga jadi 9%, waktu 8 bulan. Bunga = (8/12) × 9% × 250.000 = (2/3) × 22.500 = 15.000. Total = **Rp265.000**. Kunci semestinya C.
-- **C** — Rp265.000 = jawaban setelah koreksi → kunci **C**.
-- **D** — Rp262.500 = (3/12) × salah waktu.
-
----
-
-> **Catatan koreksi soal 65**: Bunga diubah ke 9%/tahun, waktu 8 bulan. Total = Rp265.000. Kunci **B** dengan opsi: A=Rp260.000 (bunga 6% asli); B=Rp265.000 (benar); C=Rp270.000; D=Rp262.500. Kunci **B**.
-- **Konsep kunci:** Bunga untuk sebagian tahun harus diproporsikan dengan (bulan/12).
+- **A** — Benar. Bunga = 250.000 × 6% × 8/12 = 10.000. Total = **Rp260.000**.
+- **B** — Bunga terlupa; hanya tabungan awal.
+- **C** — Bunga setahun penuh (15.000), padahal baru 8 bulan.
+- **D** — Hanya bunganya; lupa ditambah tabungan awal.
+- **Konsep kunci:** Bunga untuk sebagian tahun = bunga setahun × (bulan/12).
 - **Langkah Penyelesaian:**
-  1. Hitung bunga 8 bulan: (8/12) × 9% × 250.000 = 15.000.
-  2. Tambahkan ke pokok tabungan: 250.000 + 15.000 = Rp265.000.
+  1. Bunga setahun = 15.000; 8 bulan = 15.000 × 8/12 = 10.000.
+  2. Total = 260.000.
 
 ---
 
@@ -1831,48 +1823,43 @@ Pedagang sering:
 ---
 
 **86.** Sari mengikuti lomba memasak dan menang. Hadiahnya Rp5.000.000 sebelum pajak. Pajak hadiah 25%. Setelah pajak, ia bagi dengan ibu, ayah, dan adiknya dengan perbandingan kontribusi (atas resep) 4:3:2:1 (Sari:Ibu:Ayah:Adik). Berapa bagian Sari?
-- A. Rp1.875.000
-- B. Rp1.500.000
-- C. Rp1.500.000 (jawaban benar)
-- D. Rp2.000.000
 
-**Kunci: D**
+- A. Rp1.500.000
+- B. Rp2.000.000
+- C. Rp500.000
+- D. Rp937.500
+
+**Kunci: A**
 **Pembahasan:**
-- **A** — Opsi A diganti Rp1.875.000 (yang benar). Ralat: 5 jt × 0,75 = 3,75 jt. Total bagian = 4+3+2+1 = 10. Bagian Sari = (4/10) × 3,75 jt = **Rp1.500.000**. Maka jawaban benar = Rp1.500.000.
-- **B** — Sama dengan jawaban benar. Untuk konsistensi kunci D, kami koreksi: B=Rp1.250.000 (salah konsep, abaikan pajak).
-- **C** — Sama dengan jawaban benar. Untuk kunci D, kami koreksi: C=Rp2.500.000 (abaikan pajak).
-- **D** — Opsi D diganti Rp1.500.000 (benar). Kunci **D**.
-
----
-
-> **Catatan koreksi soal 86**: A=Rp1.875.000; B=Rp1.250.000; C=Rp2.500.000; D=Rp1.500.000 (benar). Kunci **D**.
-- **Konsep kunci:** Pajak dikurangi dulu dari hadiah, baru sisanya dibagi sesuai perbandingan.
+- **A** — Benar. Hadiah bersih = 5.000.000 × 75% = 3.750.000. Bagian Sari = 4/10 × 3.750.000 = **Rp1.500.000**.
+- **B** — Pajak terlupa: 4/10 × 5.000.000.
+- **C** — Yang dibagi adalah besar pajaknya (1.250.000), bukan hadiah bersih.
+- **D** — Hadiah bersih dibagi rata 4 orang; perbandingan 4 : 3 : 2 : 1 diabaikan.
+- **Konsep kunci:** Kurangi pajak dulu, lalu bagi sisanya sesuai perbandingan.
 - **Langkah Penyelesaian:**
-  1. Kurangi pajak 25%: 5.000.000 × 0,75 = 3.750.000.
-  2. Jumlahkan bagian (4+3+2+1=10), bagian Sari = (4/10) × 3.750.000 = Rp1.500.000.
+  1. Hadiah bersih = 3.750.000.
+  2. Jumlah bagian = 10.
+  3. Sari = 4/10 × 3.750.000 = 1.500.000.
 
 ---
 
 **87.** Pak Joko ekspedisi peta. Ia mengirim paket berisi peta lipat seharga Rp200.000 dengan ongkos kirim Rp30.000. Asuransi 1% dari nilai paket dan PPN ongkos kirim 11%. Berapa total bayar?
-- A. Rp233.000
-- B. Rp232.000
-- C. Rp235.300
-- D. Rp235.300 (jawaban benar)
+
+- A. Rp230.000
+- B. Rp235.300
+- C. Rp232.000
+- D. Rp254.000
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Opsi A diganti Rp230.000 = lupa asuransi & PPN.
-- **B** — Benar. Asuransi = 1% × 200.000 = 2.000. PPN ongkos = 11% × 30.000 = 3.300. Total = 200.000 + 30.000 + 2.000 + 3.300 = **Rp235.300**. ✅
-- **C** — Sama dengan jawaban benar — kami koreksi: C=Rp232.000 (lupa PPN).
-- **D** — Opsi D diganti Rp240.000 = sembarang.
-
----
-
-> **Catatan koreksi soal 87**: A=Rp230.000; B=Rp235.300 (benar); C=Rp232.000; D=Rp240.000. Kunci **B**.
-- **Konsep kunci:** Beberapa biaya tambahan (asuransi, PPN ongkos kirim) dijumlahkan ke harga dan ongkir.
+- **A** — Asuransi dan PPN terlupa (200.000 + 30.000).
+- **B** — Benar. Asuransi = 1% × 200.000 = 2.000. PPN ongkos = 11% × 30.000 = 3.300. Total = **Rp235.300**.
+- **C** — PPN ongkos kirim terlupa.
+- **D** — PPN dihitung dari harga peta (22.000), padahal yang dikenai PPN adalah ongkos kirim.
+- **Konsep kunci:** Hitung tiap biaya tambahan dari dasar yang tepat, lalu jumlahkan.
 - **Langkah Penyelesaian:**
-  1. Hitung asuransi: 1% × 200.000 = 2.000, dan PPN ongkir: 11% × 30.000 = 3.300.
-  2. Jumlahkan semua: 200.000 + 30.000 + 2.000 + 3.300 = Rp235.300.
+  1. Asuransi 2.000; PPN ongkir 3.300.
+  2. Total = 200.000 + 30.000 + 2.000 + 3.300 = 235.300.
 
 ---
 
@@ -2192,11 +2179,11 @@ Pedagang sering:
 | 8 | D | 33 | A | 58 | A | 83 | A |
 | 9 | A | 34 | B | 59 | B | 84 | D |
 | 10 | B | 35 | D | 60 | C | 85 | A |
-| 11 | D | 36 | C | 61 | D | 86 | D |
+| 11 | D | 36 | C | 61 | D | 86 | A |
 | 12 | C | 37 | B | 62 | B | 87 | B |
 | 13 | A | 38 | A | 63 | C | 88 | C |
 | 14 | B | 39 | C | 64 | A | 89 | C |
-| 15 | C | 40 | D | 65 | B | 90 | A |
+| 15 | C | 40 | D | 65 | A | 90 | A |
 | 16 | D | 41 | B | 66 | C | 91 | C |
 | 17 | B | 42 | A | 67 | A | 92 | B |
 | 18 | C | 43 | D | 68 | A | 93 | D |

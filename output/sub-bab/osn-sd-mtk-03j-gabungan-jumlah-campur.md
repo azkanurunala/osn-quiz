@@ -1113,42 +1113,42 @@ Bagian ini berisi bangun gabungan sederhana (2 bangun), perhitungan langsung, da
 - A. 20 cm
 - B. 16 cm
 - C. 26 cm
-- D. 30 cm
+- D. 36 cm
 
 **Kunci: C**
 **Pembahasan:**
 - **A salah** — Hanya keliling persegi.
 - **B salah** — Hanya keliling persegi panjang.
-- **C benar** — Telusuri pinggir luar: 5 + 5 + 3 + (5−3) + (5+3) + 5 = 5+5+3+2+8+5? Hitung ulang dengan teliti. Bangun L pembungkus = (5+3) × 5. Keliling L sama dengan keliling pembungkus = 2 × (8 + 5) = **26 cm**.
-- **D salah** — Salah jumlah keliling bagian terpisah: keliling persegi 20 + keliling panjang 16 = 36, lalu salah dikurangi jadi 30.
+- **C benar** — Bangun gabungan menempel pada sisi 5 cm. Keliling = 20 + 16 − 2 × 5 = **26 cm** (sama dengan keliling pembungkus 8 × 5 = 2 × 13).
+- **D salah** — Keliling kedua bangun dijumlahkan (20 + 16) tanpa mengurangi sisi yang menempel, padahal sisi itu ada di dalam.
 
-- **Konsep kunci:** Keliling bangun L sama dengan keliling persegi panjang pembungkusnya, karena sisi takik saling menggantikan.
+- **Konsep kunci:** Keliling gabungan = jumlah keliling − 2 × panjang sisi yang menempel.
 - **Langkah Penyelesaian:**
-  1. Tentukan ukuran persegi panjang pembungkus: (5 + 3) × 5 = 8 × 5.
-  2. Hitung keliling pembungkus: 2 × (8 + 5) = 26 cm.
-  3. Itulah keliling bangun L.
+  1. Keliling persegi 20, persegi panjang 16.
+  2. Sisi menempel 5 cm hilang dari kedua bangun: 36 − 10.
+  3. Keliling = 26 cm.
 
 ---
 
-**43.** Sebuah bangun terdiri atas persegi panjang 8 cm × 6 cm dan setengah lingkaran r = 3 cm di salah satu sisi panjang. Keliling bangun (π = 3,14) adalah ....
+**43.** Sebuah bangun terdiri atas persegi panjang 8 cm × 6 cm dan setengah lingkaran r = 3 cm yang menempel di salah satu sisi pendek (6 cm). Keliling bangun (π = 3,14) adalah ....
 
 - A. 28 cm
-- B. 25,42 cm
+- B. 22 cm
 - C. 31,42 cm
 - D. 37,42 cm
 
 **Kunci: C**
 **Pembahasan:**
-- **A salah** — Keliling persegi panjang utuh: 2(8+6) = 28.
-- **B salah** — Sisi-sisi luar persegi panjang tanpa atas (8+6+8 = 22) + busur (3,14 × 3 ≈ 9,42) salah dihitung jadi 25,42.
-- **C benar** — Tepi luar: 2 sisi pendek persegi panjang (6+6) + 1 sisi panjang tak tertutup (8) + busur setengah lingkaran (π × r = 3,14 × 3 = 9,42). Tunggu — periksa sisi mana yang tertutup. Diameter setengah lingkaran = 6 (= sisi pendek persegi panjang), maka setengah lingkaran menempel pada sisi pendek 6, BUKAN sisi panjang 8. Reset: tepi luar = 8 (atas) + 8 (bawah) + 6 (satu sisi pendek) + busur (9,42) = **31,42 cm**.
-- **D salah** — Salah tambah diameter ikut: 28 + 9,42 = 37,42.
+- **A salah** — Keliling persegi panjang utuh: 2(8 + 6) = 28; busur tidak dihitung dan sisi yang tertutup masih dihitung.
+- **B salah** — Sisi luar persegi panjang saja (8 + 8 + 6); busur setengah lingkaran terlupa.
+- **C benar** — Tepi luar = 8 + 8 + 6 + busur (π × r = 3,14 × 3 = 9,42) = **31,42 cm**.
+- **D salah** — Busur ditambahkan ke keliling utuh (28 + 9,42); sisi 6 cm yang tertutup masih ikut dihitung.
 
-- **Konsep kunci:** Sebelum menghitung tepi luar, pastikan dulu sisi mana yang tertutup oleh setengah lingkaran (sisi yang sama panjang dengan diameternya).
+- **Konsep kunci:** Sisi yang tertutup bangun lain tidak termasuk keliling; busur setengah lingkaran = π × r.
 - **Langkah Penyelesaian:**
-  1. Diameter setengah lingkaran (6 cm) sama dengan sisi pendek, jadi sisi pendek itu tertutup.
-  2. Jumlahkan tepi luar yang tersisa: 2 sisi panjang (8 + 8) + 1 sisi pendek sisa (6) + busur (π × 3 = 9,42).
-  3. Hasil: 8 + 8 + 6 + 9,42 = 31,42 cm.
+  1. Sisi pendek 6 cm tertutup setengah lingkaran.
+  2. Tepi luar: 8 + 8 + 6 + 9,42.
+  3. Keliling = 31,42 cm.
 
 ---
 
@@ -1334,27 +1334,25 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 
 ---
 
-**52.** Bangun gabungan terdiri atas persegi panjang 20 cm × 14 cm, segitiga siku-siku di sudut kiri atas (kaki 6 cm dan 5 cm), dan setengah lingkaran di sisi kanan (diameter 14 cm). Luas total bangun (π = 22/7) adalah ....
+**52.** Bangun gabungan terdiri atas persegi panjang 20 cm × 14 cm dan setengah lingkaran yang menempel di sisi kanan (diameter 14 cm). Luas total bangun (π = 22/7) adalah ....
 
-- A. 295 cm²
+- A. 434 cm²
 - B. 280 cm²
-- C. 392 cm²
+- C. 203 cm²
 - D. 357 cm²
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Lupa segitiga: 280 + 15 = 295, atau salah hitung.
-- **B salah** — Hanya persegi panjang.
-- **C salah** — Mengira lingkaran utuh: 280 + 154 + (?) salah hitung jadi 392.
-- **D benar** — Persegi panjang = 280 cm². Segitiga = ½ × 6 × 5 = 15 cm². Setengah lingkaran r = 7: ½ × 22/7 × 49 = 77 cm². Total = 280 + 15 + 77 − ... = **372 cm²**? Periksa: 280+15+77 = 372. Soal seharusnya: jika segitiga di sudut MENEMPEL di luar (menambah), maka total = 372. Jika DIPOTONG dari persegi panjang (sudut dipotong), maka total = 280 − 15 + 77 = 342. Untuk soal ini segitiga MENEMPEL (menambah): 280 + 15 + 77 = **372 cm²**. *(Catatan: opsi D = 372 sebaiknya. Bila soal disertai gambar yang menunjukkan sudut DIPOTONG, hasilnya 342.)* Untuk konsistensi, kunci yang benar dari opsi: 357 ≈ pendekatan (15 + 77 = 92; 280 + 77 = 357 → mengabaikan segitiga). Soal ini terbaik dijawab dengan asumsi setengah lingkaran TANPA segitiga = 357. Jadi: 280 + 77 = **357 cm²** (segitiga di sini adalah jebakan/tidak ada).
+- **A salah** — Memakai lingkaran penuh (154): 280 + 154.
+- **B salah** — Hanya persegi panjang; setengah lingkaran terlupa.
+- **C salah** — Setengah lingkaran dikurangkan (280 − 77), padahal menempel di luar sehingga ditambahkan.
+- **D benar** — Persegi panjang = 280 cm². Setengah lingkaran r = 7: ½ × 22/7 × 49 = 77 cm². Total = **357 cm²**.
 
-*(Catatan editor: opsi terbaik adalah D = 357 dengan asumsi "segitiga" di soal adalah pelengkap deskripsi yang tidak ditambahkan ke total.)*
-
-- **Konsep kunci:** Konsisten dengan kunci D, luas total di sini hanya menjumlahkan persegi panjang dan setengah lingkaran (segitiga pada deskripsi soal tidak diikutsertakan dalam pilihan D).
+- **Konsep kunci:** Bagian yang menempel di luar ditambahkan; setengah lingkaran = ½ × π × r².
 - **Langkah Penyelesaian:**
-  1. Luas persegi panjang = 20 × 14 = 280 cm².
-  2. Luas setengah lingkaran r = 7 cm: ½ × 22/7 × 49 = 77 cm².
-  3. Jumlahkan: 280 + 77 = 357 cm² (sesuai kunci D).
+  1. 20 × 14 = 280 cm².
+  2. ½ × 22/7 × 49 = 77 cm².
+  3. 280 + 77 = 357 cm².
 
 ---
 
@@ -1895,24 +1893,17 @@ Bagian ini berisi bangun gabungan 3 bangun, hitungan dua langkah, dan kombinasi 
 - C. 22
 - D. 44
 
-**Kunci: A**
+**Kunci: D**
 **Pembahasan:**
-- **A benar** — Keliling bangun: 2 sisi pendek (10+10 = 20) + 1 sisi panjang (14) + busur setengah lingkaran r = 7 (π × 7 = 22) = 56 cm. Sisa pita = 100 − 56 = **44 cm**.
+- **A salah** — 56 adalah keliling bangun, bukan sisa pita.
+- **B salah** — Hanya busur (22) yang dikurangkan dari 100.
+- **C salah** — 22 adalah panjang busur saja.
+- **D benar** — Keliling = 10 + 14 + 10 + busur (22/7 × 7 = 22) = 56 cm. Sisa = 100 − 56 = **44 cm**.
 
-*(Tunggu, sisa = 44, jadi kunci yang benar D = 44.)* Periksa kembali: tepi luar = 10 + 14 + 10 + 22 (busur) = 56 cm keliling. Sisa pita = 100 − 56 = 44 cm. Kunci yang benar = **D**.
-
-- **D benar** — Keliling = 56 cm. Sisa = 100 − 56 = **44 cm**.
-- **A salah** — Mengira keliling = 44 dan sisa = 56 (tertukar).
-- **B salah** — Salah hitung keliling (28 + 22 + 28 = 78), lalu salah lain.
-- **C salah** — Salah keliling: 22 (hanya busur).
-
-*(Kunci: D)*
-
-- **Konsep kunci:** Hitung dulu keliling bangun gabungan (tepi luar), baru cari sisa pita dengan mengurangkannya dari panjang pita mula-mula.
+- **Konsep kunci:** Hitung keliling (tepi luar) dulu, lalu kurangkan dari panjang pita.
 - **Langkah Penyelesaian:**
-  1. Hitung keliling bangun: 2 sisi pendek (10 + 10 = 20) + 1 sisi panjang tak tertutup (14) + busur setengah lingkaran r = 7 (22/7 × 7 = 22) = 56 cm.
-  2. Kurangkan dari panjang pita mula-mula: 100 − 56.
-  3. Hasil: sisa pita = 44 cm (sesuai kunci terkoreksi D).
+  1. Keliling = 20 + 14 + 22 = 56 cm.
+  2. Sisa = 100 − 56 = 44 cm.
 
 ---
 
@@ -2103,26 +2094,20 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 - A. 2400 m²
 - B. 280 m²
 - C. 2120 m²
-- D. 1966 m²
+- D. 2230 m²
 
-**Kunci: D**
+**Kunci: C**
 **Pembahasan:**
-- **A salah** — Lupa kurangi semua.
-- **B salah** — Hanya total area pengurang: bangunan 96 + 30 = 126; kolam 154; total 280.
-- **C salah** — Hanya kurangi bangunan: 2400 − 280 = 2120 (tapi salah karena kolam belum dikurangi).
-- **D benar** — Halaman = 2400 m². Bangunan L = 12 × 8 + 6 × 5 = 96 + 30 = 126 m². Kolam = 22/7 × 49 = 154 m². Sisa = 2400 − 126 − 154 = **2120 − 154 = 2120; tunggu, 2400 − 280 = 2120**. Periksa hitungan: 2400 − 126 − 154 = 2120. Jadi kunci yang benar **C = 2120**. (Opsi D = 1966 = 2400 − 434 = salah hitung).
+- **A salah** — Luas halaman utuh; bangunan dan kolam belum dikurangkan.
+- **B salah** — 280 adalah total luas yang dikurangkan (126 + 154), bukan sisanya.
+- **C benar** — 2400 − (96 + 30) − 154 = **2120 m²**.
+- **D salah** — Keliling kolam (2 × 22/7 × 7 = 44) dipakai sebagai luas: 2400 − 126 − 44.
 
-*(Perbaikan: kunci yang benar **C** = 2120 m². Jawaban D salah hitung.)*
-
-- **C benar** — Halaman 2400, dikurangi bangunan 126 dan kolam 154: 2400 − 126 − 154 = **2120 m²**.
-
-*(Kunci: C)*
-
-- **Konsep kunci:** Jika ada beberapa bagian yang dikurangi, jumlahkan dulu semua luas pengurang, baru kurangkan sekali dari luas total.
+- **Konsep kunci:** Luas sisa = luas total − jumlah semua luas yang dipakai.
 - **Langkah Penyelesaian:**
-  1. Luas halaman = 60 × 40 = 2400 m².
-  2. Jumlahkan luas bangunan L (12×8 + 6×5 = 126) dan kolam (22/7 × 49 = 154): 126 + 154 = 280 m².
-  3. Kurangkan: 2400 − 280 = 2120 m² (sesuai kunci terkoreksi C).
+  1. Halaman = 2400 m².
+  2. Bangunan 126 m² + kolam 154 m² = 280 m².
+  3. Sisa = 2120 m².
 
 ---
 
@@ -2239,28 +2224,21 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 **92.** Sebuah bangun L: persegi 10 × 10 ditambah persegi 6 × 6 yang menempel di sisi. Suatu pita digunakan untuk membuat tepi luar (keliling) bangun L. Jika pita seharga Rp1.500/cm, berapa biaya total pita?
 
 - A. Rp60.000
-- B. Rp45.000
-- C. Rp75.000
-- D. Rp52.500
+- B. Rp96.000
+- C. Rp78.000
+- D. Rp36.000
 
-**Kunci: A**
+**Kunci: C**
 **Pembahasan:**
-- **A benar** — Keliling L = keliling pembungkus persegi panjang 16 × 10 = 2(16+10) = 52 cm? Periksa: pembungkus (10+6) × 10 = 16 × 10 → keliling = 52 cm. Atau pembungkus 10 × (10+6) = 10 × 16 → keliling = 52. Biaya = 52 × 1500 = Rp78.000. Hmm, periksa opsi: A = 60.000 → 40 cm; B = 45.000 → 30; C = 75.000 → 50; D = 52.500 → 35.
+- **A salah** — Hanya keliling persegi besar (40 cm × 1.500).
+- **B salah** — Keliling kedua persegi dijumlah (40 + 24 = 64 cm) tanpa mengurangi sisi yang menempel.
+- **C benar** — Keliling = 40 + 24 − 2 × 6 = 52 cm (sisi 6 cm yang menempel tidak termasuk tepi luar). Biaya = 52 × 1.500 = **Rp78.000**.
+- **D salah** — Hanya keliling persegi kecil (24 cm × 1.500).
 
-*(Periksa ulang: pembungkus persegi L dengan persegi 10×10 dan persegi 6×6 disambung di pojok = ukuran pembungkus (10+6) × 10 = 16 × 10 jika kedua persegi menempel di sisi yang sama. Atau (10×(10+6)) = 10×16 jika menempel vertikal. Bila salah satu sisi persegi 6 menempel di pojok persegi 10, pembungkus jadi 10×(10) + 6×6 = pojok L dengan pembungkus 10×10 yang sudah utuh + 6 di sudut = 16 × 10. Keliling = 52 cm.)*
-
-*(Karena 52 × 1500 = 78.000 tidak ada di opsi, dan opsi terdekat 75.000 = 50 cm, kemungkinan ukuran salah satu persegi disesuaikan. Asumsikan pembungkus 10 × 10 (bangun L tetap = keliling pembungkus = 40 cm); biaya = 40 × 1500 = Rp60.000 = **A**.)*
-
-- **A benar** — Keliling L = keliling pembungkus persegi 10 × 10 = 40 cm. Biaya = 40 × Rp1.500 = **Rp60.000**.
-- **B salah** — Hanya keliling persegi kecil: 24 × 1500 = 36.000.
-- **C salah** — Hanya keliling persegi besar 10 × 10 ditambah 10 cm = 50 × 1500 = 75.000.
-- **D salah** — Salah hitung 35 cm.
-
-- **Konsep kunci:** Biaya pita untuk mengelilingi bangun = keliling bangun (mengikuti pembungkusnya) dikalikan harga per satuan panjang.
+- **Konsep kunci:** Keliling gabungan = jumlah keliling − 2 × sisi yang menempel.
 - **Langkah Penyelesaian:**
-  1. Tentukan keliling bangun L (mengikuti kunci, memakai keliling pembungkus persegi 10 × 10 = 40 cm).
-  2. Kalikan dengan harga per cm: 40 × Rp1.500.
-  3. Hasil: total biaya = Rp60.000.
+  1. Keliling = 40 + 24 − 12 = 52 cm.
+  2. Biaya = 52 × 1.500 = Rp78.000.
 
 ---
 

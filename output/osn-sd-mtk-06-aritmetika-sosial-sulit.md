@@ -361,38 +361,29 @@ Toko A memberikan diskon tunggal 40% pada sepatu seharga Rp600.000. Toko B membe
 
 A. Toko A lebih murah Rp3.000
 B. Toko B lebih murah Rp3.000
-C. Toko A lebih murah Rp17.000
+C. Toko B lebih murah Rp30.000
 D. Sama saja
 
-**(3) Jawaban:** **A. Toko A lebih murah Rp3.000**
+**(3) Jawaban:** **B. Toko B lebih murah Rp3.000**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Membandingkan diskon tunggal dengan diskon berlapis. 30% lalu 15% = 1 − 0,70×0,85 = 40,5%, sedikit lebih besar daripada 40%? Mari cek.
+- **Konsep yang diuji:** Membandingkan diskon tunggal dengan diskon berlapis (faktor dikalikan, bukan persen dijumlah).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Toko A lebih murah Rp3.000** — Benar. Toko A: 600.000 × 0,60 = Rp360.000. Toko B: 600.000 × 0,70 × 0,85 = 600.000 × 0,595 = Rp357.000. Hmm, Toko B = 357.000 lebih murah Rp3.000 daripada Toko A 360.000. Jadi sebenarnya **Toko B yang lebih murah**.
-  - **B. Toko B lebih murah Rp3.000** — Benar (saya koreksi).
-  - **C. Toko A lebih murah Rp17.000** — Salah.
-  - **D. Sama saja** — Salah.
-
-Perlu koreksi: jawaban yang tepat adalah **B**, bukan A. Saya perbaiki di sini.
-
-**JAWABAN BENAR (koreksi):** **B. Toko B lebih murah Rp3.000**
-
-  - **A. Toko A lebih murah Rp3.000** — Salah. Muncul kalau siswa membalik hasil — mengira diskon tunggal lebih besar daripada gabungan.
-  - **B. Toko B lebih murah Rp3.000** — Benar. Toko A: 600.000 × (1 − 0,40) = Rp360.000. Toko B: 600.000 × 0,70 × 0,85 = 600.000 × 0,595 = Rp357.000. Selisih = Rp3.000 lebih murah di Toko B.
-  - **C. Toko A lebih murah Rp17.000** — Salah. Muncul kalau siswa menjumlahkan diskon Toko B menjadi 45% → 600.000 × 0,55 = Rp330.000 → Toko A − Toko B = 30.000 (atau salah arah). Hasil 17.000 tidak punya justifikasi langsung, distraktor umpan.
-  - **D. Sama saja** — Salah. Muncul kalau siswa mengira 30%+15% berlapis = 40% (dijumlahkan dengan salah pengertian), padahal ≠.
+  - **A. Toko A lebih murah Rp3.000** — Salah. Selisihnya benar, tetapi arahnya terbalik; mengira diskon tunggal 40% pasti lebih besar daripada diskon berlapis.
+  - **B. Toko B lebih murah Rp3.000** — Benar. Toko A: 600.000 × 0,60 = Rp360.000. Toko B: 600.000 × 0,70 × 0,85 = Rp357.000. Toko B lebih murah Rp3.000.
+  - **C. Toko B lebih murah Rp30.000** — Salah. Diskon Toko B dijumlah menjadi 45% (600.000 × 0,55 = 330.000), padahal diskon kedua dihitung dari harga setelah diskon pertama.
+  - **D. Sama saja** — Salah. Mengira 30% lalu 15% kira-kira sama dengan 40%; hasil hitung menunjukkan beda Rp3.000.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Toko A: harga akhir = 600.000 × (1 − 0,40) = 600.000 × 0,60 = Rp360.000.
-  2. Toko B: setelah diskon 30%: 600.000 × 0,70 = Rp420.000. Setelah diskon 15% lagi: 420.000 × 0,85 = Rp357.000.
-  3. Selisih = Rp360.000 − Rp357.000 = Rp3.000, **Toko B lebih murah**.
+  1. Toko A: 600.000 × 0,60 = Rp360.000.
+  2. Toko B: 600.000 × 0,70 = 420.000; 420.000 × 0,85 = Rp357.000.
+  3. Selisih = Rp3.000, Toko B lebih murah.
 
 - **Hasil akhir:** Toko B lebih murah Rp3.000.
 
-- **💭 Tips:** Diskon berlapis 30%+15% = 1 − 0,70×0,85 = 40,5%, sedikit lebih besar daripada diskon tunggal 40%. Hitung cermat, bedanya bisa kecil.
+- **💭 Tips:** Diskon berlapis 30% lalu 15% setara 1 − 0,70 × 0,85 = 40,5%, sedikit lebih besar dari 40%.
 
 ---
 
@@ -512,49 +503,31 @@ Pada peta dengan skala 1 : 200.000, dua kota terhubung oleh jalan sepanjang 7,5 
 
 **(2) Pilihan Jawaban:**
 
-A. 1 jam 15 menit
-B. 1 jam 30 menit
-C. 2 jam
-D. 2 jam 30 menit
+A. 15 menit
+B. 2 jam 30 menit
+C. 4 jam
+D. 7,5 menit
 
-**(3) Jawaban:** **D. 2 jam 30 menit**
+**(3) Jawaban:** **A. 15 menit**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Skala + konversi panjang ke km + jarak/kecepatan = waktu.
+- **Konsep yang diuji:** Skala + konversi cm ke km + waktu = jarak ÷ kecepatan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1 jam 15 menit** — Salah. Muncul kalau siswa salah konversi skala (mis. 1:200.000 dianggap 7,5 km), lalu 7,5 ÷ 60 × 60 = 7,5 menit → tidak konsisten dengan jawaban A juga. Distraktor umpan.
-  - **B. 1 jam 30 menit** — Salah. Muncul kalau siswa salah hitung: 7,5 × 200.000 = 1.500.000 cm = 15.000 m, lalu ÷ 1.000 = 15 km, dan 15 ÷ 60 = 0,25 jam = 15 menit — bukan ini juga. Atau salah konversi 100 m bukan 1.000.
-  - **C. 2 jam** — Salah. Muncul kalau siswa menghitung jarak asli = 7,5 × 200.000 = 1.500.000 cm = 150.000 cm yang salah dianggap 150 km, lalu 150 ÷ 60 = 2,5 jam — hampir benar tetapi mengaku 2 jam (pembulatan ke bawah salah).
-  - **D. 2 jam 30 menit** — Benar. Jarak asli = 7,5 cm × 200.000 = 1.500.000 cm = 15.000 m = 15 km. Tunggu — itu cuma 15 km, dan 15 ÷ 60 = 0,25 jam, bukan 2,5 jam.
-
-Saya periksa ulang: 7,5 × 200.000 = 1.500.000 cm. 1 m = 100 cm → 1.500.000/100 = 15.000 m. 1 km = 1.000 m → 15.000/1.000 = 15 km. Waktu = 15/60 = 0,25 jam = 15 menit.
-
-Soal harus disesuaikan agar jawaban D (2 jam 30 menit) cocok. Saya ganti angka soal: skala 1:2.000.000 (bukan 200.000), 7,5 cm tetap, kecepatan 60 km/jam.
-
-**Saya revisi soal:** Pada peta dengan skala 1 : **2.000.000**, dua kota terhubung jalan 7,5 cm. Mobil melaju 60 km/jam. Waktu tempuh?
-
-Jarak asli = 7,5 × 2.000.000 = 15.000.000 cm = 150 km. Waktu = 150/60 = 2,5 jam = 2 jam 30 menit ✓.
-
-**(1) Soal (revisi):**
-Pada peta dengan skala 1 : 2.000.000, dua kota terhubung oleh jalan sepanjang 7,5 cm. Mobil melaju dengan kecepatan rata-rata 60 km/jam. Berapa lama waktu tempuhnya?
-
-  - **A. 1 jam 15 menit** — Salah. Muncul kalau siswa salah konversi cm ke km (mengira 1 km = 10.000 cm bukan 100.000 cm), sehingga jarak asli jadi 1.500 km tapi waktu salah.
-  - **B. 1 jam 30 menit** — Salah. Muncul kalau siswa menghitung jarak 90 km (pembulatan tidak tepat) lalu 90/60 = 1,5 jam.
-  - **C. 2 jam** — Salah. Muncul kalau siswa salah pembulatan 150 km/60 km/jam, atau menganggap 60 km/jam = 75 km/jam.
-  - **D. 2 jam 30 menit** — Benar. Jarak asli = 7,5 cm × 2.000.000 = 15.000.000 cm = 150 km. Waktu = 150 ÷ 60 = 2,5 jam = 2 jam 30 menit.
+  - **A. 15 menit** — Benar. Jarak asli = 7,5 × 200.000 = 1.500.000 cm = 15 km. Waktu = 15 ÷ 60 = 0,25 jam = 15 menit.
+  - **B. 2 jam 30 menit** — Salah. 1 km dikira 10.000 cm, sehingga jarak jadi 150 km.
+  - **C. 4 jam** — Salah. Rumus terbalik: kecepatan ÷ jarak (60 ÷ 15).
+  - **D. 7,5 menit** — Salah. Jarak di peta (7,5) dipakai langsung sebagai 7,5 km tanpa dikali skala.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Jarak peta = 7,5 cm.
-  2. Skala 1 : 2.000.000 berarti 1 cm peta = 2.000.000 cm asli.
-  3. Jarak asli = 7,5 × 2.000.000 = 15.000.000 cm.
-  4. Konversi ke km: 15.000.000 cm ÷ 100.000 = 150 km.
-  5. Waktu = jarak ÷ kecepatan = 150 ÷ 60 = 2,5 jam = 2 jam 30 menit.
+  1. Jarak asli = 7,5 × 200.000 = 1.500.000 cm.
+  2. 1.500.000 cm ÷ 100.000 = 15 km.
+  3. Waktu = 15 ÷ 60 = 1/4 jam = 15 menit.
 
-- **Hasil akhir:** 2 jam 30 menit.
+- **Hasil akhir:** 15 menit.
 
-- **💭 Tips:** 1 km = 100.000 cm. Setelah dapat jarak asli dalam cm, bagi 100.000 langsung untuk dapat km.
+- **💭 Tips:** 1 km = 100.000 cm. Waktu = jarak ÷ kecepatan.
 
 ---
 
@@ -637,55 +610,31 @@ Pak Tono membeli 30 ekor ayam dengan harga total Rp1.500.000. Ia menjual 18 ekor
 
 **(2) Pilihan Jawaban:**
 
-A. Rp220.000
-B. Rp260.000
-C. Rp280.000
-D. Rp310.000
-
-**(3) Jawaban:** **B. Rp260.000**
-
-**(4) Pembahasan Komprehensif:**
-
-- **Konsep yang diuji:** Untung-rugi multi-kelompok dengan persentase berbeda — basis HB per ekor.
-
-- **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp220.000** — Salah. Muncul kalau siswa lupa menjumlahkan untung dari 8 ekor kelompok kedua, hanya 18×10.000 + 4×(−2.500) = 180.000 − 10.000 = 170.000 (bukan ini juga); distraktor umpan dengan kesalahan parsial.
-  - **B. Rp260.000** — Benar. HB per ekor = 1.500.000 ÷ 30 = Rp50.000. Untung dari 18 ekor = 18 × 50.000 × 0,20 = Rp180.000. Untung dari 8 ekor = 8 × 50.000 × 0,10 = Rp40.000. Rugi dari 4 ekor = 4 × 50.000 × 0,05 = Rp10.000 (rugi). Total = 180.000 + 40.000 − 10.000 = **Rp210.000**.
-
-Hmm, saya dapat 210.000, bukan 260.000. Saya periksa ulang.
-
-18 ekor × Rp50.000 × 20% = 18 × Rp10.000 = Rp180.000 untung ✓
-8 ekor × Rp50.000 × 10% = 8 × Rp5.000 = Rp40.000 untung ✓
-4 ekor × Rp50.000 × 5% = 4 × Rp2.500 = Rp10.000 rugi ✓
-Total = 180.000 + 40.000 − 10.000 = **Rp210.000**.
-
-Saya perlu menyesuaikan opsi sehingga jawaban benar adalah Rp210.000. Saya ganti opsi:
-
-**(2) Pilihan Jawaban (revisi):**
-
 A. Rp180.000
 B. Rp210.000
 C. Rp230.000
-D. Rp250.000
+D. Rp220.000
 
 **(3) Jawaban:** **B. Rp210.000**
 
-  - **A. Rp180.000** — Salah. Muncul kalau siswa hanya menghitung untung dari kelompok pertama saja (18 × 10.000 = 180.000), lupa kelompok kedua dan ketiga.
-  - **B. Rp210.000** — Benar. HB per ekor = Rp50.000. Untung 18 ekor = 18×10.000 = Rp180.000. Untung 8 ekor = 8×5.000 = Rp40.000. Rugi 4 ekor = 4×2.500 = Rp10.000. Total = 180.000 + 40.000 − 10.000 = Rp210.000.
-  - **C. Rp230.000** — Salah. Muncul kalau siswa lupa mengurangi rugi (180.000 + 40.000 + 10.000 = 230.000) — kelirunya menjumlahkan rugi sebagai untung.
-  - **D. Rp250.000** — Salah. Muncul kalau siswa salah hitung untung kelompok pertama: 18 × 50.000 × 0,25 (bukan 0,20) = 225.000, atau salah persentase.
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Untung-rugi beberapa kelompok dengan persen berbeda, dasar harga beli per ekor.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp180.000** — Salah. Hanya untung kelompok 18 ekor; kelompok lain terlupa.
+  - **B. Rp210.000** — Benar. Harga beli per ekor = 50.000. Untung 18 × 10.000 = 180.000; untung 8 × 5.000 = 40.000; rugi 4 × 2.500 = 10.000. Total = 210.000.
+  - **C. Rp230.000** — Salah. Rugi 10.000 ikut ditambahkan sebagai untung.
+  - **D. Rp220.000** — Salah. Rugi 4 ekor terakhir diabaikan (180.000 + 40.000).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. HB per ekor = Rp1.500.000 ÷ 30 = Rp50.000.
+  1. Harga beli per ekor = 1.500.000 ÷ 30 = Rp50.000.
   2. Sisa ayam yang rugi = 30 − 18 − 8 = 4 ekor.
-  3. Untung kelompok 1 (18 ekor, 20%) = 18 × 50.000 × 0,20 = Rp180.000.
-  4. Untung kelompok 2 (8 ekor, 10%) = 8 × 50.000 × 0,10 = Rp40.000.
-  5. Rugi kelompok 3 (4 ekor, 5%) = 4 × 50.000 × 0,05 = Rp10.000 (dikurangi).
-  6. Total keuntungan = 180.000 + 40.000 − 10.000 = **Rp210.000**.
+  3. 180.000 + 40.000 − 10.000 = Rp210.000.
 
 - **Hasil akhir:** Rp210.000.
 
-- **💭 Tips:** Selalu hitung HB per unit dulu, lalu setiap kelompok (untung/rugi) dihitung terpisah, terakhir gabungkan dengan tanda yang benar (+ untuk untung, − untuk rugi).
+- **💭 Tips:** Hitung tiap kelompok terpisah, lalu gabungkan dengan tanda yang benar (+ untung, − rugi).
 
 ---
 
@@ -734,43 +683,31 @@ Uang Ali, Beni, dan Cici berbanding 5 : 6 : 9. Jika uang Cici Rp36.000 lebih ban
 
 **(2) Pilihan Jawaban:**
 
-A. Rp160.000
+A. Rp240.000
 B. Rp180.000
-C. Rp200.000
-D. Rp220.000
+C. Rp81.000
+D. Rp80.000
 
-**(3) Jawaban:** **C. Rp180.000**
+**(3) Jawaban:** **B. Rp180.000**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Perbandingan rasio dengan selisih sebagai kunci untuk nilai 1 satuan.
+- **Konsep yang diuji:** Selisih perbandingan untuk mencari nilai satu bagian.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp160.000** — Salah. Muncul kalau siswa salah pakai selisih: anggap selisih C−A = 9−5 = 4, lalu 36.000 ÷ 4 = 9.000 sebagai 1 satuan, total = (5+6+9)×9.000 = 180.000 — bukan 160.000. Distraktor umpan.
-  - **B. Rp180.000** — Tunggu, saya cek dulu jawaban benarnya.
-
-C − A = 9k − 5k = 4k = 36.000 → k = 9.000.
-Total = (5+6+9) × 9.000 = 20 × 9.000 = **Rp180.000**.
-
-Jadi jawaban benar adalah **B. Rp180.000**, bukan C. Saya perbaiki di sini:
-
-**(3) Jawaban (koreksi):** **B. Rp180.000**
-
-  - **A. Rp160.000** — Salah. Muncul kalau siswa pakai k = 8.000 (salah, 36.000 ÷ 4 = 9.000, bukan 8.000).
-  - **B. Rp180.000** — Benar. C − A = 9k − 5k = 4k = 36.000 → k = 9.000. Total uang = (5+6+9) × 9.000 = 20 × 9.000 = Rp180.000.
-  - **C. Rp200.000** — Salah. Muncul kalau siswa pakai jumlah rasio 5+6+9 = 20 langsung dengan k = 10.000 (yang dari salah perhitungan 36.000/3,6 atau pembulatan).
-  - **D. Rp220.000** — Salah. Muncul kalau siswa pakai k = 11.000 (= 36.000/3,27, tidak masuk akal) atau salah jumlah rasio menjadi 22.
+  - **A. Rp240.000** — Salah. Memakai selisih Cici dan Beni (9 − 6 = 3), sehingga satu bagian = 12.000.
+  - **B. Rp180.000** — Benar. 9k − 5k = 4k = 36.000 → k = 9.000. Total = 20k = 180.000.
+  - **C. Rp81.000** — Salah. Itu uang Cici saja (9 × 9.000).
+  - **D. Rp80.000** — Salah. 36.000 dianggap uang Cici (9k = 36.000 → k = 4.000), padahal 36.000 adalah selisih.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Misal nilai 1 satuan = k. Maka Ali = 5k, Beni = 6k, Cici = 9k.
-  2. Selisih Cici dan Ali = 9k − 5k = 4k.
-  3. 4k = 36.000 → k = 9.000.
-  4. Total = 5k + 6k + 9k = 20k = 20 × 9.000 = **Rp180.000**.
-  5. Cek: Ali 45.000, Beni 54.000, Cici 81.000, Cici − Ali = 36.000 ✓.
+  1. Cici − Ali = 9k − 5k = 4k = 36.000 → k = 9.000.
+  2. Total = (5 + 6 + 9) × 9.000 = 180.000.
+  3. Cek: 45.000, 54.000, 81.000; 81.000 − 45.000 = 36.000 ✓.
 
 - **Hasil akhir:** Rp180.000.
 
-- **💭 Tips:** Selisih dalam perbandingan = selisih rasio × k. Cari k dulu, baru total.
+- **💭 Tips:** Selisih dalam perbandingan = selisih angka rasio × k.
 
 ---
 
@@ -1222,48 +1159,31 @@ Sebuah laptop harga Rp8.000.000 mendapat diskon 10%, lalu diskon tambahan 5% bag
 
 **(2) Pilihan Jawaban:**
 
-A. Rp7.483.000
-B. Rp7.534.800
-C. Rp7.600.800
-D. Rp7.715.600
-
-**(3) Jawaban:** **D. Rp7.593.840** — saya cek dulu.
-
-Setelah diskon 10%: 8.000.000 × 0,90 = 7.200.000.
-Setelah diskon 5%: 7.200.000 × 0,95 = 6.840.000.
-Setelah PPN 11%: 6.840.000 × 1,11 = 6.840.000 + 752.400 = 7.592.400.
-
-Jawaban tepat ≈ **Rp7.592.400**. Saya sesuaikan opsi:
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. Rp7.480.000
-B. Rp7.520.400
+A. Rp7.548.000
+B. Rp6.840.000
 C. Rp7.592.400
-D. Rp7.680.000
+D. Rp7.720.000
 
 **(3) Jawaban:** **C. Rp7.592.400**
 
-  - **A. Rp7.480.000** — Salah. Muncul kalau siswa menjumlahkan diskon: 10%+5% = 15% lalu PPN 11% = 4% bersih → 8.000.000 × 0,96 = 7.680.000 — bukan ini juga. Distraktor umpan.
-  - **B. Rp7.520.400** — Salah. Muncul kalau siswa terapkan PPN sebelum diskon kedua: 8.000.000 × 0,90 × 1,11 = 7.992.000, lalu × 0,95 = 7.592.400. Urutannya kebetulan sama (perkalian komutatif), tapi nilai 7.520.400 muncul jika salah aritmetika.
-  - **C. Rp7.592.400** — Benar. 8.000.000 × 0,90 × 0,95 × 1,11 = 8.000.000 × 0,9495 = Rp7.596.000... mari hitung ulang lebih cermat.
+**(4) Pembahasan Komprehensif:**
 
-Cek: 8.000.000 × 0,90 = 7.200.000. × 0,95 = 6.840.000. × 1,11 = ?
-6.840.000 × 1,11 = 6.840.000 + 6.840.000 × 0,11 = 6.840.000 + 752.400 = **7.592.400** ✓.
+- **Konsep yang diuji:** Diskon berlapis lalu PPN; tiap langkah dikalikan faktornya.
 
-Jawaban benar = Rp7.592.400.
-
-  - **D. Rp7.680.000** — Salah. Muncul kalau siswa pakai 8.000.000 × 0,96 = 7.680.000 (gabungkan 15% diskon − 11% pajak salah).
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp7.548.000** — Salah. Diskon dijumlah 15%: 6.800.000 × 1,11. Diskon kedua seharusnya dari harga setelah diskon pertama.
+  - **B. Rp6.840.000** — Salah. Itu harga setelah kedua diskon; PPN terlupa.
+  - **C. Rp7.592.400** — Benar. 8.000.000 × 0,90 = 7.200.000; × 0,95 = 6.840.000; × 1,11 = 7.592.400.
+  - **D. Rp7.720.000** — Salah. PPN dihitung dari harga awal (11% × 8.000.000 = 880.000) lalu ditambah ke 6.840.000.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Diskon 10%: 8.000.000 × 0,90 = Rp7.200.000.
-  2. Diskon 5%: 7.200.000 × 0,95 = Rp6.840.000.
-  3. PPN 11%: 6.840.000 × 1,11 = Rp7.592.400.
-  4. Total faktor: 0,90 × 0,95 × 1,11 = 0,94905 dari harga awal.
+  1. Diskon 10%: 7.200.000.
+  2. Diskon 5%: 6.840.000.
+  3. PPN 11%: 6.840.000 + 752.400 = 7.592.400.
 
 - **Hasil akhir:** Rp7.592.400.
 
-- **💭 Tips:** Diskon dan PPN — kalikan faktor masing-masing. Diskon → (1 − d). PPN → (1 + p). Urutan tidak penting (perkalian komutatif).
+- **💭 Tips:** Diskon → kali (1 − d); PPN → kali (1 + p), dari harga yang disebut di soal.
 
 ---
 
@@ -1307,51 +1227,36 @@ D. Rp120.000
 ### Soal 29 · Bunga tunggal · Nasional
 
 **(1) Soal:**
-Pak Joko menabung dan setelah 18 bulan tabungannya menjadi Rp5.760.000 dengan bunga tunggal 12% per tahun. Berapa pokok yang Pak Joko tabung mula-mula?
+Pak Joko menabung dan setelah 18 bulan tabungannya menjadi Rp5.664.000 dengan bunga tunggal 12% per tahun. Berapa pokok yang Pak Joko tabung mula-mula?
 
 **(2) Pilihan Jawaban:**
 
 A. Rp4.800.000
-B. Rp5.000.000
-C. Rp5.100.000
-D. Rp5.200.000
+B. Rp4.644.480
+C. Rp4.984.320
+D. Rp864.000
 
 **(3) Jawaban:** **A. Rp4.800.000**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Mencari pokok dari tabungan akhir, dengan periode pecahan tahun.
+- **Konsep yang diuji:** Mencari pokok dari tabungan akhir dengan waktu dalam bulan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp4.800.000** — Benar. Waktu = 18/12 = 1,5 tahun. Tabungan akhir = pokok × (1 + i×t) = pokok × (1 + 0,12 × 1,5) = pokok × 1,18. Pokok = 5.760.000 ÷ 1,18... cek lagi.
-
-Saya cek: 1 + 0,12 × 1,5 = 1 + 0,18 = 1,18. 5.760.000 ÷ 1,18 ≈ 4.881.356. Tidak cocok dengan 4.800.000.
-
-Saya periksa: kalau pokok = 4.800.000 maka tabungan akhir = 4.800.000 × 1,18 = 5.664.000. Tidak cocok.
-Kalau pokok = 5.000.000 maka tabungan akhir = 5.000.000 × 1,18 = 5.900.000. Tidak cocok.
-
-Hmm, saya sesuaikan soal: jika tabungan akhir = Rp5.664.000 dan bunga 12% per tahun selama 18 bulan, pokok = ?
-
-Pokok × 1,18 = 5.664.000 → Pokok = 5.664.000 ÷ 1,18 = **Rp4.800.000** ✓.
-
-**(1) Soal (revisi):**
-Pak Joko menabung dan setelah 18 bulan tabungannya menjadi Rp5.664.000 dengan bunga tunggal 12% per tahun. Berapa pokok yang Pak Joko tabung mula-mula?
-
-  - **A. Rp4.800.000** — Benar. Waktu = 18/12 = 1,5 tahun. Tabungan akhir = pokok × (1 + 0,12 × 1,5) = pokok × 1,18. Pokok = 5.664.000 ÷ 1,18 = Rp4.800.000.
-  - **B. Rp5.000.000** — Salah. Muncul kalau siswa pakai i × t = 0,12 × 1,5 = 0,18; lalu kurangi 18% dari 5.664.000 = 4.644.480 — pakai cara salah (kurangi, bukan bagi).
-  - **C. Rp5.100.000** — Salah. Muncul kalau siswa salah hitung 1+0,12 = 1,12 (lupa kalikan 1,5): 5.664.000 ÷ 1,12 ≈ 5.057.143 ≈ 5.100.000 (pembulatan kasar).
-  - **D. Rp5.200.000** — Salah. Muncul kalau siswa pakai 1 + 0,09 = 1,09 (bunga 9% bukan 12%, atau salah waktu).
+  - **A. Rp4.800.000** — Benar. 18 bulan = 1,5 tahun. Tabungan akhir = pokok × (1 + 0,12 × 1,5) = pokok × 1,18. Pokok = 5.664.000 ÷ 1,18 = 4.800.000.
+  - **B. Rp4.644.480** — Salah. 18% dikurangkan dari tabungan akhir (5.664.000 × 0,82); padahal bunga dihitung dari pokok, jadi harus dibagi 1,18.
+  - **C. Rp4.984.320** — Salah. Hanya 12% yang dikurangkan (lupa waktu 1,5 tahun) dan dengan cara mengurangi, bukan membagi.
+  - **D. Rp864.000** — Salah. Itu besar bunganya (4.800.000 × 18%), bukan pokok.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Waktu = 18 bulan = 18/12 = 1,5 tahun.
-  2. Faktor: 1 + i × t = 1 + 0,12 × 1,5 = 1 + 0,18 = 1,18.
-  3. Tabungan akhir = pokok × 1,18 = 5.664.000.
-  4. Pokok = 5.664.000 ÷ 1,18 = **Rp4.800.000**.
-  5. Cek: 4.800.000 × 1,18 = 4.800.000 + 864.000 = 5.664.000 ✓.
+  1. Waktu = 18/12 = 1,5 tahun.
+  2. Faktor = 1 + 0,12 × 1,5 = 1,18.
+  3. Pokok = 5.664.000 ÷ 1,18 = 4.800.000.
+  4. Cek: 4.800.000 + 864.000 = 5.664.000 ✓.
 
-- **Hasil akhir:** Pokok = Rp4.800.000.
+- **Hasil akhir:** Rp4.800.000.
 
-- **💭 Tips:** Konversi bulan ke tahun dulu, lalu pakai faktor (1 + i×t). Untuk mencari pokok, **bagi** dengan faktor ini.
+- **💭 Tips:** Untuk mencari pokok, bagi tabungan akhir dengan faktor (1 + i × t).
 
 ---
 
@@ -1398,53 +1303,31 @@ Pak Yusuf membeli 50 kg beras seharga Rp600.000. Setelah disimpan, beras berkura
 
 **(2) Pilihan Jawaban:**
 
-A. Rp95.000
+A. Rp125.000
 B. Rp96.000
-C. Rp104.000
-D. Rp124.000
+C. Rp696.000
+D. Rp67.000
 
-**(3) Jawaban:** **D. Rp96.000**
+**(3) Jawaban:** **B. Rp96.000**
 
-Saya cek: 50 kg × 4% = 2 kg susut. Sisa 48 kg × 14.500 = 696.000. Untung = 696.000 − 600.000 = Rp96.000.
+**(4) Pembahasan Komprehensif:**
 
-Jawaban benar = **B. Rp96.000**. Saya perbaiki opsi agar jawaban benar = D.
+- **Konsep yang diuji:** Penyusutan barang mengurangi pendapatan; modal tetap.
 
-Tukar posisi: A=Rp96.000, B=Rp104.000, C=Rp124.000, D=tukar. Atau ubah pertanyaan supaya jawaban benar = D.
-
-Saya akan ubah angka soal supaya jawaban Rp124.000 ada di D. Ganti susut jadi 2% dan harga jual Rp14.500/kg:
-50 × 2% = 1 kg susut. Sisa 49 × 14.500 = 710.500. Untung = 710.500 − 600.000 = 110.500. Tidak rapi.
-
-Coba: harga jual Rp15.000/kg dan susut 4%:
-Sisa 48 × 15.000 = 720.000. Untung = 720.000 − 600.000 = Rp120.000.
-
-Pakai harga jual Rp15.500/kg dan susut 4%:
-Sisa 48 × 15.500 = 744.000. Untung = 744.000 − 600.000 = Rp144.000.
-
-Saya pakai versi awal (harga jual Rp14.500/kg, susut 4%, untung Rp96.000) tapi pindah jawaban ke D dengan permutasi opsi.
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. Rp78.000
-B. Rp85.000
-C. Rp90.000
-D. Rp96.000
-
-**(3) Jawaban (final):** **D. Rp96.000**
-
-  - **A. Rp78.000** — Salah. Muncul kalau siswa salah hitung susut: pakai 5% bukan 4%; sisa 47,5 kg × 14.500 = 688.750, untung 88.750 ≈ 90.000 — bukan ini. Distraktor umpan.
-  - **B. Rp85.000** — Salah. Muncul kalau siswa lupa susut: 50 × 14.500 = 725.000, lalu kurangi modal Rp640.000 (modal salah) → 85.000.
-  - **C. Rp90.000** — Salah. Muncul kalau siswa pakai susut 5%: 47,5 × 14.500 ≈ 688.750, untung 88.750 ≈ 90.000 (pembulatan).
-  - **D. Rp96.000** — Benar. Susut = 4% × 50 = 2 kg. Sisa = 48 kg. Pendapatan = 48 × 14.500 = Rp696.000. Untung = 696.000 − 600.000 = Rp96.000.
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp125.000** — Salah. Penyusutan terlupa: 50 × 14.500 − 600.000.
+  - **B. Rp96.000** — Benar. Susut 4% × 50 = 2 kg, sisa 48 kg. Pendapatan 48 × 14.500 = 696.000. Untung 96.000.
+  - **C. Rp696.000** — Salah. Itu pendapatan, belum dikurangi modal.
+  - **D. Rp67.000** — Salah. 4% dibaca 4 kg, sehingga sisa 46 kg (46 × 14.500 = 667.000).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Susut beras = 4% × 50 kg = 2 kg.
-  2. Sisa beras = 50 − 2 = 48 kg.
-  3. Pendapatan = 48 × Rp14.500 = Rp696.000.
-  4. Untung = 696.000 − 600.000 = **Rp96.000**.
+  1. Susut = 4% × 50 kg = 2 kg; sisa 48 kg.
+  2. Pendapatan = 48 × 14.500 = Rp696.000.
+  3. Untung = 696.000 − 600.000 = Rp96.000.
 
 - **Hasil akhir:** Rp96.000.
 
-- **💭 Tips:** Susut/rusak dihitung dari berat awal, lalu sisa berat dipakai untuk hitung pendapatan. Modal tetap utuh.
+- **💭 Tips:** Susut dihitung dari berat awal; sisa berat dipakai untuk pendapatan, modal tetap utuh.
 
 ---
 
@@ -1594,53 +1477,35 @@ D. 300 km²
 ### Soal 36 · Persentase untung & rugi · Nasional
 
 **(1) Soal:**
-Pedagang membeli 2 jenis baju: 30 baju A dengan harga Rp50.000/baju dan 20 baju B dengan harga Rp80.000/baju. Baju A dijual untung 20% dan baju B dijual rugi 10%. Berapa persentase untung/rugi total pedagang?
+Pedagang membeli 2 jenis baju: 30 baju A dengan harga Rp50.000/baju dan 20 baju B dengan harga Rp80.000/baju. Baju A dijual untung 20% dan baju B dijual rugi 10%. Berapa persentase untung/rugi total pedagang? (dibulatkan dua angka di belakang koma)
 
 **(2) Pilihan Jawaban:**
 
-A. Rugi 1,3%
-B. Untung 3,2%
-C. Untung 5,0%
-D. Untung 8,5%
+A. Untung 5%
+B. Untung 4,52%
+C. Untung 9,33%
+D. Untung 10%
 
-**(3) Jawaban:** **B. Untung 3,2%**
+**(3) Jawaban:** **B. Untung 4,52%**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Untung-rugi gabungan dari dua jenis dengan modal berbeda — basis = total modal.
+- **Konsep yang diuji:** Persen untung gabungan dihitung dari total modal, bukan rata-rata persen.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rugi 1,3%** — Salah. Muncul kalau siswa membalik tanda atau menjumlah persentase langsung (20% − 10% = 10% lalu dibagi 2 jenis = 5% — tidak konsisten). Distraktor umpan.
-  - **B. Untung 3,2%** — Benar. Modal A = 30 × 50.000 = 1.500.000. Modal B = 20 × 80.000 = 1.600.000. Total modal = 3.100.000. Untung A = 1.500.000 × 0,20 = 300.000. Rugi B = 1.600.000 × 0,10 = 160.000. Untung bersih = 300.000 − 160.000 = 140.000. % = 140.000 / 3.100.000 × 100% ≈ 4,52% — bukan 3,2%.
-
-Saya cek ulang. Sepertinya jawaban benar adalah 4,5% bukan 3,2%. Saya sesuaikan opsi.
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. Rugi 2,0%
-B. Untung 4,5%
-C. Untung 7,0%
-D. Untung 10,0%
-
-**(3) Jawaban (final):** **B. Untung 4,5%**
-
-  - **A. Rugi 2,0%** — Salah. Muncul kalau siswa salah hitung: 30×50.000 × (−0,10) + 20×80.000 × (+0,20) — terbalik membaca soal.
-  - **B. Untung 4,5%** — Benar. Total modal = 30×50.000 + 20×80.000 = 1.500.000 + 1.600.000 = Rp3.100.000. Untung A = 1.500.000 × 0,20 = 300.000. Rugi B = 1.600.000 × 0,10 = 160.000. Untung bersih = 300.000 − 160.000 = 140.000. % = 140.000/3.100.000 × 100% ≈ 4,52% ≈ 4,5%.
-  - **C. Untung 7,0%** — Salah. Muncul kalau siswa membagi 140.000 dengan modal A saja (1.500.000) → 9,3% — bukan 7,0%. Distraktor.
-  - **D. Untung 10,0%** — Salah. Muncul kalau siswa hanya ambil rata-rata 20% dan (−10%) → 5% lalu salah jadi 10% atau pakai cara salah.
+  - **A. Untung 5%** — Salah. Rata-rata sederhana (20% − 10%) : 2, padahal modal kedua jenis berbeda.
+  - **B. Untung 4,52%** — Benar. Modal = 1.500.000 + 1.600.000 = 3.100.000. Untung bersih = 300.000 − 160.000 = 140.000. 140.000/3.100.000 × 100% ≈ 4,52%.
+  - **C. Untung 9,33%** — Salah. Untung bersih dibagi modal baju A saja (1.500.000).
+  - **D. Untung 10%** — Salah. Persen dikurangkan langsung (20% − 10%).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Modal baju A = 30 × Rp50.000 = Rp1.500.000.
-  2. Modal baju B = 20 × Rp80.000 = Rp1.600.000.
-  3. Total modal = Rp3.100.000.
-  4. Untung dari baju A = 20% × 1.500.000 = Rp300.000.
-  5. Rugi dari baju B = 10% × 1.600.000 = Rp160.000.
-  6. Untung bersih = 300.000 − 160.000 = Rp140.000.
-  7. % untung total = (140.000 / 3.100.000) × 100% ≈ **4,5%**.
+  1. Modal A = 1.500.000; modal B = 1.600.000; total 3.100.000.
+  2. Untung A = 300.000; rugi B = 160.000; untung bersih 140.000.
+  3. Persen = 140.000 ÷ 3.100.000 × 100% ≈ 4,52%.
 
-- **Hasil akhir:** Untung sekitar 4,5%.
+- **Hasil akhir:** Untung sekitar 4,52%.
 
-- **💭 Tips:** Persen untung gabungan harus dihitung dari **total modal**, bukan rata-rata persen. Dua persen berbeda dengan modal berbeda tidak bisa langsung dirata-rata.
+- **💭 Tips:** Persen gabungan selalu = untung bersih ÷ total modal.
 
 ---
 
@@ -2160,69 +2025,35 @@ D. 176
 ### Soal 51 · Diskon · Nasional
 
 **(1) Soal:**
-Seorang pembeli membayar Rp637.500 untuk sebuah barang yang sudah didiskon 15% dan dikenakan PPN 11% setelah diskon. Berapa harga awal barang?
-
-**(2) Pilihan Jawaban:**
-
-A. Rp675.000
-B. Rp700.000
-C. Rp720.000
-D. Rp750.000
-
-**(3) Jawaban:** **A. Rp675.000**
-
-Saya hitung. Misal H = harga awal. Setelah diskon: H × 0,85. Setelah PPN: H × 0,85 × 1,11 = H × 0,9435. Set = 637.500 → H = 637.500 ÷ 0,9435 = 675.671... ≈ 675.000.
-
-Lebih tepat: 637.500 ÷ 0,9435 = 675.677,3. Kalau saya pilih angka rapi, harga awal = Rp675.000 maka harga akhir = 675.000 × 0,9435 = 636.862,5 ≈ 637.000.
-
-Saya sesuaikan angka. Kalau H = 700.000, harga akhir = 700.000 × 0,9435 = 660.450. Tidak cocok juga.
-
-Saya buat: H = 1.000.000, harga akhir = 943.500. Tidak rapi.
-
-Coba: skenario PPN 10% diskon 15%: faktor 0,85 × 1,10 = 0,935. Jika harga akhir = 654.500, maka H = 700.000. Boleh.
-
-Atau pakai diskon 20% + PPN 10%: faktor 0,80 × 1,10 = 0,88. Harga akhir = 660.000 → H = 750.000.
-
-Saya ganti soal:
-
-**(1) Soal (revisi):**
 Seorang pembeli membayar Rp660.000 untuk sebuah barang yang sudah didiskon 20% dan dikenakan PPN 10% setelah diskon. Berapa harga awal barang?
 
 **(2) Pilihan Jawaban:**
 
-A. Rp700.000
-B. Rp720.000
-C. Rp750.000
-D. Rp780.000
-
-**(3) Jawaban (final):** **C. Rp750.000**
-
-Hmm, but I need A=heavy. Let me reverse so jawaban = A.
-
-**(2) Pilihan Jawaban (revisi):**
-
 A. Rp750.000
-B. Rp720.000
-C. Rp700.000
+B. Rp726.000
+C. Rp825.000
 D. Rp660.000
 
 **(3) Jawaban:** **A. Rp750.000**
 
-  - **A. Rp750.000** — Benar. Faktor diskon × PPN = 0,80 × 1,10 = 0,88. H × 0,88 = 660.000 → H = 660.000 ÷ 0,88 = Rp750.000.
-  - **B. Rp720.000** — Salah. Muncul kalau siswa salah hitung pembagian.
-  - **C. Rp700.000** — Salah. Muncul kalau siswa pakai 660.000 ÷ 0,94 (faktor salah karena PPN 6%) = 702.000 ≈ 700.000.
-  - **D. Rp660.000** — Salah. Ini adalah harga akhir yang dibayar, bukan harga awal.
+**(4) Pembahasan Komprehensif:**
+
+- **Konsep yang diuji:** Mencari harga awal dengan membagi harga akhir oleh gabungan faktor diskon dan PPN.
+
+- **Analisis Setiap Pilihan Jawaban:**
+  - **A. Rp750.000** — Benar. Faktor = 0,80 × 1,10 = 0,88. H = 660.000 ÷ 0,88 = 750.000.
+  - **B. Rp726.000** — Salah. Persen digabung jadi +10% (20% − 10%) lalu dikalikan: 660.000 × 1,10. Langkah mundur harus membagi, bukan mengalikan.
+  - **C. Rp825.000** — Salah. Hanya diskon yang dibatalkan (660.000 ÷ 0,80); PPN terlupa.
+  - **D. Rp660.000** — Salah. Itu harga akhir yang dibayar, bukan harga awal.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Misal H = harga awal.
-  2. Setelah diskon 20%: H × 0,80.
-  3. Setelah PPN 10%: H × 0,80 × 1,10 = H × 0,88.
-  4. H × 0,88 = 660.000 → H = 660.000 ÷ 0,88 = **Rp750.000**.
-  5. Cek: 750.000 × 0,80 = 600.000; 600.000 × 1,10 = 660.000 ✓.
+  1. H × 0,80 × 1,10 = 660.000.
+  2. H × 0,88 = 660.000 → H = 750.000.
+  3. Cek: 750.000 × 0,80 = 600.000; × 1,10 = 660.000 ✓.
 
 - **Hasil akhir:** Rp750.000.
 
-- **💭 Tips:** Gabungkan faktor diskon dan PPN dulu (0,80 × 1,10 = 0,88), lalu bagi harga akhir dengan faktor itu untuk dapat harga awal.
+- **💭 Tips:** Gabungkan faktor diskon dan PPN, lalu bagi harga akhir dengan faktor itu.
 
 ---
 
@@ -2706,35 +2537,26 @@ B. Toko Y lebih murah Rp24.000
 C. Toko X lebih murah Rp16.000
 D. Sama saja
 
-**(3) Jawaban:** **A. Toko X lebih murah Rp24.000**
+**(3) Jawaban:** **D. Sama saja**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Membandingkan diskon tunggal vs diskon berlapis.
+- **Konsep yang diuji:** Diskon berlapis setara dengan 1 − hasil kali faktornya.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Toko X lebih murah Rp24.000** — Benar. Toko X: 600.000 × (1 − 0,36) = 600.000 × 0,64 = Rp384.000. Toko Y: 600.000 × 0,80 × 0,80 = 600.000 × 0,64 = Rp384.000. Hmm, sama saja.
-
-Saya cek ulang. 20% + 20% berlapis = 1 − 0,80×0,80 = 1 − 0,64 = 36%. Itu sama dengan tunggal 36%. **Jawaban benar = D. Sama saja**.
-
-Saya perbaiki:
-
-**(3) Jawaban (koreksi):** **D. Sama saja**
-
-  - **A. Toko X lebih murah Rp24.000** — Salah. Muncul kalau siswa pakai 20%+20% berlapis = 40% (dijumlahkan), maka Toko Y 600.000 × 0,60 = 360.000; selisih dengan Toko X (384.000) = 24.000 → Toko Y lebih murah, terbalik arah.
-  - **B. Toko Y lebih murah Rp24.000** — Salah. Sama penjelasan A, tetapi pakai cara salah berlapis dijumlahkan.
-  - **C. Toko X lebih murah Rp16.000** — Salah. Distraktor umpan.
-  - **D. Sama saja** — Benar. Toko X: 600.000 × 0,64 = 384.000. Toko Y: 600.000 × 0,80 × 0,80 = 600.000 × 0,64 = 384.000. Karena 20%+20% berlapis = 36% (sama dengan diskon tunggal 36%).
+  - **A. Toko X lebih murah Rp24.000** — Salah. Selisih 24.000 berasal dari menjumlah diskon Toko Y (40%), lalu arahnya juga terbalik.
+  - **B. Toko Y lebih murah Rp24.000** — Salah. Diskon Toko Y dijumlah jadi 40% (600.000 × 0,60 = 360.000), padahal diskon kedua dihitung dari harga setelah diskon pertama.
+  - **C. Toko X lebih murah Rp16.000** — Salah. Umpan; tidak ada perhitungan yang menghasilkan selisih 16.000.
+  - **D. Sama saja** — Benar. Toko X: 600.000 × 0,64 = 384.000. Toko Y: 600.000 × 0,80 × 0,80 = 384.000. Diskon 20% + 20% berlapis = 36% efektif.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Toko X: harga setelah diskon 36% = 600.000 × (1 − 0,36) = 600.000 × 0,64 = Rp384.000.
-  2. Toko Y: 20% lalu 20% berlapis = 600.000 × 0,80 × 0,80 = 600.000 × 0,64 = Rp384.000.
-  3. Selisih = 0. **Sama saja**.
-  4. Diskon efektif Toko Y = 1 − 0,64 = 0,36 = 36% (sama dengan Toko X).
+  1. Toko X: 600.000 × 0,64 = Rp384.000.
+  2. Toko Y: 600.000 × 0,80 × 0,80 = Rp384.000.
+  3. Selisih 0 → sama saja.
 
-- **Hasil akhir:** Sama saja (kedua toko = Rp384.000).
+- **Hasil akhir:** Sama saja (Rp384.000).
 
-- **💭 Tips:** 20% + 20% berlapis = 36% efektif, bukan 40%. Ini kebetulan sama dengan diskon tunggal 36% di soal ini.
+- **💭 Tips:** 20% lalu 20% = 1 − 0,8 × 0,8 = 36%, bukan 40%.
 
 ---
 
@@ -2925,45 +2747,30 @@ Jarak rumah Andi ke sekolah pada peta dengan skala 1 : 25.000 adalah 8 cm. Andi 
 **(2) Pilihan Jawaban:**
 
 A. Pukul 06.50
-B. Pukul 07.00
-C. Pukul 07.10
-D. Pukul 07.20
+B. Pukul 06.56
+C. Pukul 08.20
+D. Pukul 12.40
 
-**(3) Jawaban:** **D. Pukul 07.20**
+**(3) Jawaban:** **A. Pukul 06.50**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Skala → jarak asli → waktu tempuh → jam tiba.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Pukul 06.50** — Salah. Muncul kalau siswa salah konversi: jarak 2 km, waktu 10 menit.
-  - **B. Pukul 07.00** — Salah. Muncul kalau siswa pakai jarak 3 km / kecepatan 12 = 15 menit.
-  - **C. Pukul 07.10** — Salah. Distraktor umpan.
-  - **D. Pukul 07.20** — Benar. Jarak asli = 8 × 25.000 = 200.000 cm = 2 km. Waktu = 2 ÷ 12 = 1/6 jam = 10 menit. Tunggu—saya cek lagi. 1/6 jam = 10 menit, tiba pukul 06.50, bukan 07.20.
-
-Saya periksa ulang. Jarak 2 km / 12 km/jam = 1/6 jam ≈ 10 menit. Tiba pukul 06.50. Jadi jawaban yang benar = A.
-
-Saya ubah angka soal supaya hasil 07.20 (= 40 menit perjalanan). 12 km/jam × 40/60 = 8 km. Jadi jarak harus 8 km.
-
-Saya ubah skala atau jarak peta. Skala 1:100.000, jarak peta 8 cm: jarak asli = 800.000 cm = 8 km ✓. Waktu = 8/12 = 2/3 jam = 40 menit. Tiba 06.40 + 40 menit = 07.20 ✓.
-
-**(1) Soal (revisi):**
-Jarak rumah Andi ke sekolah pada peta dengan skala 1 : 100.000 adalah 8 cm. Andi berangkat naik sepeda dengan kecepatan 12 km/jam. Pukul berapa Andi tiba kalau berangkat pukul 06.40?
-
-  - **A. Pukul 06.50** — Salah. Muncul kalau siswa salah konversi: jarak 2 km / 12 = 10 menit, tiba 06.50.
-  - **B. Pukul 07.00** — Salah. Muncul kalau siswa salah hitung jarak (4 km, atau 20 menit).
-  - **C. Pukul 07.10** — Salah. Distraktor umpan.
-  - **D. Pukul 07.20** — Benar. Jarak asli = 8 × 100.000 = 800.000 cm = 8 km. Waktu = 8 ÷ 12 = 2/3 jam = 40 menit. Tiba = 06.40 + 40 menit = 07.20.
+  - **A. Pukul 06.50** — Benar. Jarak asli = 8 × 25.000 = 200.000 cm = 2 km. Waktu = 2 ÷ 12 = 1/6 jam = 10 menit. Tiba 06.50.
+  - **B. Pukul 06.56** — Salah. 1/6 jam ≈ 0,16 jam dibaca 16 menit; padahal 1/6 × 60 = 10 menit.
+  - **C. Pukul 08.20** — Salah. 200.000 cm dikira 20 km (dibagi 10.000), sehingga waktu 1 jam 40 menit.
+  - **D. Pukul 12.40** — Salah. Rumus terbalik: 12 ÷ 2 = 6 jam.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Jarak asli = 8 cm × 100.000 = 800.000 cm = 8 km.
-  2. Waktu = jarak ÷ kecepatan = 8 ÷ 12 = 2/3 jam.
-  3. 2/3 jam = (2/3) × 60 menit = 40 menit.
-  4. Tiba = 06.40 + 40 menit = **07.20**.
+  1. Jarak asli = 200.000 cm = 2 km.
+  2. Waktu = 2 ÷ 12 jam = 10 menit.
+  3. Tiba = 06.40 + 10 menit = 06.50.
 
-- **Hasil akhir:** Pukul 07.20.
+- **Hasil akhir:** Pukul 06.50.
 
-- **💭 Tips:** Konversi jarak ke km (bagi 100.000). Konversi fraksi jam ke menit (kalikan 60).
+- **💭 Tips:** Ubah pecahan jam ke menit dengan mengalikan 60.
 
 ---
 
@@ -3289,59 +3096,31 @@ Jumlah uang Anto dan Bayu adalah Rp350.000. Perbandingan uang mereka 3 : 4. Jika
 
 **(2) Pilihan Jawaban:**
 
-A. 1 : 3
+A. 3 : 4
 B. 2 : 5
-C. 1 : 2,5
-D. 2 : 6
+C. 4 : 3
+D. 1 : 2
 
-**(3) Jawaban:** **A. 1 : 3**
+**(3) Jawaban:** **B. 2 : 5**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Perbandingan setelah transfer — hitung nilai awal lalu sesuaikan.
+- **Konsep yang diuji:** Perbandingan setelah pemindahan uang: hitung nilai awal, sesuaikan, lalu sederhanakan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1 : 3** — Benar. Anto awal = 3/7 × 350.000 = 150.000. Bayu awal = 4/7 × 350.000 = 200.000. Setelah transfer Rp50.000: Anto 100.000, Bayu 250.000. Perbandingan 100.000 : 250.000 = 1 : 2,5 = 2 : 5.
-
-Saya cek. 100/250 = 2/5 = 0,4. 1/3 = 0,333. Tidak sama. Jadi jawaban yang benar adalah **B. 2 : 5** (yang sama dengan 1 : 2,5 = C).
-
-Saya periksa: 100.000 : 250.000 = simplify dengan bagi 50.000 → 2 : 5. Atau bagi 100.000 → 1 : 2,5.
-
-Jadi B dan C **identik secara matematis**. Itu masalah opsi. Saya perbaiki opsi agar hanya satu jawaban benar.
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. 1 : 3
-B. 2 : 5
-C. 3 : 7
-D. 1 : 2
-
-**(3) Jawaban (final):** **B. 2 : 5**
-
-Tetapi saya butuh D pada soal ini untuk balance. Saya pertahankan dengan ubah cerita supaya jawaban = D = 1 : 2.
-
-Untuk jawaban 1 : 2, butuh setelah transfer 100.000 : 200.000 atau 80.000 : 160.000. Awal 3:4 jumlah 350.000 → 150.000 : 200.000. Anto beri X → 150-X : 200+X = 1 : 2 → 2(150-X) = 200+X → 300 − 2X = 200 + X → 100 = 3X → X = 33.333. Tidak rapi.
-
-Atau ubah perbandingan awal: 5 : 7 dengan total 600.000 → 250.000 : 350.000. Anto beri Y → 250−Y : 350+Y = 1 : 2 → 500 − 2Y = 350 + Y → 150 = 3Y → Y = 50.000. Setelah: 200.000 : 400.000 = 1 : 2 ✓.
-
-**(1) Soal (revisi final):**
-Jumlah uang Anto dan Bayu adalah Rp600.000. Perbandingan uang mereka 5 : 7. Jika Anto memberikan Rp50.000 kepada Bayu, berapa perbandingan baru?
-
-  - **A. 1 : 3** — Salah. Muncul kalau siswa salah hitung total atau salah arah transfer.
-  - **B. 2 : 5** — Salah. Distraktor umpan.
-  - **C. 3 : 7** — Salah. Distraktor umpan.
-  - **D. 1 : 2** — Benar. Anto awal = 5/12 × 600.000 = 250.000. Bayu awal = 7/12 × 600.000 = 350.000. Setelah transfer: Anto 200.000, Bayu 400.000. Perbandingan = 200 : 400 = 1 : 2.
+  - **A. 3 : 4** — Salah. Mengira perbandingan tidak berubah karena jumlah uang tetap.
+  - **B. 2 : 5** — Benar. Anto 150.000, Bayu 200.000. Setelah pemberian: 100.000 : 250.000 = 2 : 5.
+  - **C. 4 : 3** — Salah. Arah pemberian terbalik (Bayu memberi Anto): 200.000 : 150.000.
+  - **D. 1 : 2** — Salah. Uang Anto dikurangi 50.000 tetapi uang Bayu lupa ditambah: 100.000 : 200.000.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Total rasio = 5 + 7 = 12.
-  2. Anto awal = 5/12 × 600.000 = Rp250.000.
-  3. Bayu awal = 7/12 × 600.000 = Rp350.000.
-  4. Setelah transfer: Anto = 250.000 − 50.000 = Rp200.000; Bayu = 350.000 + 50.000 = Rp400.000.
-  5. Perbandingan = 200.000 : 400.000 = **1 : 2**.
+  1. Anto = 3/7 × 350.000 = 150.000; Bayu = 200.000.
+  2. Setelah: Anto 100.000; Bayu 250.000.
+  3. 100.000 : 250.000 = 2 : 5.
 
-- **Hasil akhir:** 1 : 2.
+- **Hasil akhir:** 2 : 5.
 
-- **💭 Tips:** Setelah transfer, hitung nilai akhir masing-masing, lalu sederhanakan rasio dengan FPB.
+- **💭 Tips:** Saat uang berpindah, satu pihak berkurang dan pihak lain bertambah dengan jumlah yang sama.
 
 ---
 
@@ -3989,53 +3768,31 @@ Bu Tini membeli 3 jenis kue: 20 kue A seharga Rp4.000/buah, 15 kue B seharga Rp5
 
 **(2) Pilihan Jawaban:**
 
-A. Rp200.000
-B. Rp220.000
-C. Rp240.000
-D. Rp250.000
+A. Rp230.000
+B. Rp420.000
+C. Rp190.000
+D. Rp180.000
 
-**(3) Jawaban:** **D. Rp250.000**
+**(3) Jawaban:** **C. Rp190.000**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Total modal dari banyak jenis, total pendapatan, dan untung total.
+- **Konsep yang diuji:** Total modal dari beberapa jenis, total pendapatan, lalu untung.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp200.000** — Salah. Distraktor umpan.
-  - **B. Rp220.000** — Salah. Distraktor umpan.
-  - **C. Rp240.000** — Salah. Muncul kalau siswa salah hitung modal: 80.000 + 75.000 + 70.000 = 225.000 (kue C salah dengan harga 2.800). Total pendapatan dengan modal 250.000 → 420.000 − 200.000 = 220.000 — tidak konsisten.
-  - **D. Rp250.000** — Benar. Modal A = 20 × 4.000 = 80.000. Modal B = 15 × 5.000 = 75.000. Modal C = 25 × 3.000 = 75.000. Total modal = 230.000. Jumlah kue = 60. Total pendapatan = 60 × 7.000 = 420.000. Untung = 420.000 − 230.000 — bukan 250, mari ulangi.
-
-Saya cek: 420.000 − 230.000 = Rp190.000. Tidak cocok dengan 250.000. Saya perlu sesuaikan opsi atau angka soal.
-
-Saya pertahankan modal benar (Rp230.000) dan pendapatan (Rp420.000), untung = Rp190.000. Saya pilih: opsi D = Rp190.000.
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. Rp150.000
-B. Rp170.000
-C. Rp180.000
-D. Rp190.000
-
-**(3) Jawaban (final):** **D. Rp190.000**
-
-  - **A. Rp150.000** — Salah. Muncul kalau siswa pakai harga jual Rp6.000 (bukan 7.000): 60 × 6.000 = 360.000 − 230.000 = 130.000 — bukan ini juga. Distraktor umpan.
-  - **B. Rp170.000** — Salah. Distraktor umpan.
-  - **C. Rp180.000** — Salah. Muncul kalau siswa salah jumlah kue (mengira 58): 58 × 7.000 = 406.000 − 230.000 = 176.000 ≈ 180.000.
-  - **D. Rp190.000** — Benar. Modal A = 20×4.000 = 80.000. Modal B = 15×5.000 = 75.000. Modal C = 25×3.000 = 75.000. Total modal = 230.000. Total kue = 60. Pendapatan = 60×7.000 = 420.000. Untung = 420.000 − 230.000 = Rp190.000.
+  - **A. Rp230.000** — Salah. Itu total modal, bukan untung.
+  - **B. Rp420.000** — Salah. Itu total pendapatan; belum dikurangi modal.
+  - **C. Rp190.000** — Benar. Modal = 80.000 + 75.000 + 75.000 = 230.000. Pendapatan = 60 × 7.000 = 420.000. Untung = 190.000.
+  - **D. Rp180.000** — Salah. Memakai rata-rata harga beli tanpa bobot ((4.000 + 5.000 + 3.000) : 3 = 4.000), sehingga untung 3.000 × 60; padahal banyak tiap jenis berbeda.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Modal kue A = 20 × Rp4.000 = Rp80.000.
-  2. Modal kue B = 15 × Rp5.000 = Rp75.000.
-  3. Modal kue C = 25 × Rp3.000 = Rp75.000.
-  4. Total modal = 80.000 + 75.000 + 75.000 = Rp230.000.
-  5. Total kue = 20 + 15 + 25 = 60 kue.
-  6. Total pendapatan = 60 × Rp7.000 = Rp420.000.
-  7. Untung total = 420.000 − 230.000 = **Rp190.000**.
+  1. Modal: 20 × 4.000 + 15 × 5.000 + 25 × 3.000 = 230.000.
+  2. Pendapatan: 60 × 7.000 = 420.000.
+  3. Untung = 420.000 − 230.000 = 190.000.
 
 - **Hasil akhir:** Rp190.000.
 
-- **💭 Tips:** Untuk banyak jenis dengan modal berbeda tapi HJ sama, hitung total modal dengan menjumlahkan masing-masing, lalu total pendapatan = total unit × HJ.
+- **💭 Tips:** Banyak jenis dengan modal berbeda → jumlahkan modal tiap jenis, jangan merata-ratakan harga.
 
 ---
 
@@ -4055,7 +3812,7 @@ D. Rp190.000
 | 6   | B | Persentase untung | Nasional |
 | 7   | D | Perbandingan senilai | Nasional |
 | 8   | B | Perbandingan berbalik nilai | Nasional |
-| 9   | D | Skala pada peta | Nasional |
+| 9   | A | Skala pada peta | Nasional |
 | 10  | B | Bunga tunggal | Nasional |
 | 11  | B | Pajak (PPN) | Nasional |
 | 12  | B | Soal cerita kombinasi | Nasional |
@@ -4077,7 +3834,7 @@ D. Rp190.000
 | 28  | C | Persentase untung | Nasional |
 | 29  | A | Bunga tunggal | Nasional |
 | 30  | B | Perbandingan senilai | Nasional |
-| 31  | D | Harga beli, harga jual | Nasional |
+| 31  | B | Harga beli, harga jual | Nasional |
 | 32  | D | Diskon | Nasional |
 | 33  | D | Perbandingan berbalik nilai | Nasional |
 | 34  | C | Soal cerita kombinasi | Nasional |
@@ -4086,7 +3843,7 @@ D. Rp190.000
 | 37  | C | Diskon berlapis | Nasional |
 | 38  | D | Harga beli, harga jual | Nasional |
 | 39  | C | Bunga tunggal | Nasional |
-| 40  | B | Soal cerita kombinasi | Nasional |
+| 40  | A | Soal cerita kombinasi | Nasional |
 | 41  | B | Perbandingan senilai | Nasional |
 | 42  | C | Perbandingan berbalik nilai | Nasional |
 | 43  | C | Pajak | Nasional |
@@ -4117,7 +3874,7 @@ D. Rp190.000
 | 68  | A | Bunga tunggal | Nasional |
 | 69  | A | Soal cerita kombinasi | Nasional |
 | 70  | A | Diskon | Nasional |
-| 71  | D | Skala | Nasional |
+| 71  | A | Skala | Nasional |
 | 72  | A | Pajak | Nasional |
 | 73  | A | Persentase rugi | Nasional |
 | 74  | A | Perbandingan senilai | Nasional |
@@ -4127,7 +3884,7 @@ D. Rp190.000
 | 78  | D | Diskon berlapis | Nasional |
 | 79  | D | Skala | Nasional |
 | 80  | D | Harga beli, harga jual | Nasional |
-| 81  | D | Perbandingan dengan kondisi | Nasional |
+| 81  | B | Perbandingan dengan kondisi | Nasional |
 | 82  | B | Pajak | Nasional |
 | 83  | D | Perbandingan berbalik nilai | Nasional |
 | 84  | D | Diskon | Nasional |
@@ -4146,7 +3903,7 @@ D. Rp190.000
 | 97  | A | Perbandingan dengan kondisi | Nasional |
 | 98  | C | Diskon | Nasional |
 | 99  | B | Pajak | Nasional |
-| 100 | D | Soal cerita kombinasi | Nasional |
+| 100 | C | Soal cerita kombinasi | Nasional |
 
 ## 📊 Rekap Distribusi
 

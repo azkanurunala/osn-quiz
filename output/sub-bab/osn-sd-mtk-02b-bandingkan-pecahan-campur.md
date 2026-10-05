@@ -1132,28 +1132,25 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
   3. Ada 10 nilai k, jadi ada 10 pecahan.
 
 **55.** Pecahan yang nilainya **paling dekat** dengan 2/3 adalah ...
+
 - A. 5/8
 - B. 7/10
 - C. 11/15
 - D. 9/14
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
-- **A** — 5/8 = 0,625; jarak ke 0,667 ≈ 0,042.
-- **B** — 7/10 = 0,7; jarak ≈ 0,033.
-- **C** — BENAR. 11/15 ≈ 0,7333; jarak ke 0,667 ≈ 0,067 — lebih jauh dari pilihan B. **Koreksi:** ternyata B (7/10) yang paling dekat (0,033). Jawaban yang benar adalah **B**. Tetapi karena penyetelan distribusi, kita pakai analisis ulang:
-
-> Penyetelan ulang soal: Untuk memastikan jawaban yang ditandai (C) benar, ganti pilihan: A 5/8 (0,625, jarak 0,042), B 7/10 (0,7, jarak 0,033), C **17/25** (0,68, jarak 0,013), D 9/14 (≈0,643, jarak 0,024). Dengan pilihan ini **C = 17/25** adalah yang paling dekat. **Pakai pilihan C = 17/25** untuk soal ini.
-
-- **C** — BENAR (dengan C = 17/25). 17/25 = 0,68; jarak ke 2/3 ≈ 0,667 = 0,013 — paling kecil.
-- **D** — 9/14 ≈ 0,643; jarak ≈ 0,024.
-
-> Catatan untuk pengguna: jika opsi C tercetak sebagai 11/15, jawaban yang benar berubah menjadi **B (7/10)** karena jaraknya paling kecil (0,033). Soal ini sengaja memakai versi C = 17/25 supaya kunci sesuai distribusi.
-- **Konsep kunci:** Pecahan paling dekat ke suatu nilai ditentukan dari selisih terkecil setelah semua diubah ke desimal.
+- **A** — 5/8 = 0,625; jarak ke 2/3 (≈ 0,6667) ≈ 0,042.
+- **B** — 7/10 = 0,7; jarak ≈ 0,033. Sering dipilih karena 0,7 terasa paling dekat, padahal ada yang lebih dekat.
+- **C** — 11/15 ≈ 0,733; jarak ≈ 0,067. Terkecoh karena 11/15 dekat dengan 10/15 = 2/3, padahal selisihnya 1/15.
+- **D** — BENAR. 9/14 ≈ 0,643; jarak ≈ 0,024, paling kecil.
+- **Konsep kunci:** Pecahan paling dekat = selisih terkecil setelah diubah ke desimal.
 - **Langkah Penyelesaian:**
-  1. Ubah tiap opsi ke desimal dan hitung jaraknya ke 2/3 ≈ 0,667.
-  2. Bandingkan seluruh jarak: 5/8 (0,042), 7/10 (0,033), 17/25 (0,013), 9/14 (0,024).
-  3. Jarak terkecil dimiliki 17/25 (opsi C versi final), jadi itu yang paling dekat.
+  1. 2/3 ≈ 0,667.
+  2. Jarak: 0,042; 0,033; 0,067; 0,024.
+  3. Terkecil: 9/14.
+
+---
 
 **56.** Bandingkan 5/8 dan 0,624.
 - A. 5/8 > 0,624
@@ -1554,29 +1551,24 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
   3. Susun sebagai pecahan biasa: 17/5.
 
 **78.** Manakah pecahan terkecil di antara: 3/7, 5/12, 7/15, 11/24?
+
 - A. 3/7
 - B. 5/12
 - C. 7/15
 - D. 11/24
 
-**Kunci: D**
+**Kunci: B**
 **Pembahasan:**
-- **A** — 3/7 ≈ 0,4286.
-- **B** — 5/12 ≈ 0,4167.
-- **C** — 7/15 ≈ 0,4667 — justru terbesar.
-- **D** — BENAR. 11/24 ≈ 0,4583. Tunggu — itu lebih besar dari 5/12 (0,4167). **Koreksi:** terkecil sebenarnya 5/12. Untuk menjaga kunci D, ganti opsi D menjadi **3/8**. 3/8 = 0,375 — paling kecil.
-
-> Penyetelan ulang: pakai opsi D = **3/8** (bukan 11/24). Dengan begitu D = 0,375 adalah terkecil.
-
-- **A** — 3/7 ≈ 0,429.
-- **B** — 5/12 ≈ 0,417.
-- **C** — 7/15 ≈ 0,467.
-- **D** — BENAR (dengan D = 3/8). 3/8 = 0,375 — terkecil.
-- **Konsep kunci:** Mengubah semua pecahan ke desimal memudahkan mencari yang terkecil dari beberapa pilihan.
+- **A** — 3/7 ≈ 0,429; sedikit lebih besar dari 5/12. Terkecoh karena penyebutnya paling kecil.
+- **B** — BENAR. 5/12 ≈ 0,417, nilai terkecil.
+- **C** — 7/15 ≈ 0,467, justru yang terbesar.
+- **D** — 11/24 ≈ 0,458; terkecoh karena penyebutnya paling besar.
+- **Konsep kunci:** Ubah ke desimal (atau kali silang) untuk membandingkan pecahan berbeda penyebut.
 - **Langkah Penyelesaian:**
-  1. Ubah tiap opsi ke desimal: 3/7≈0,429; 5/12≈0,417; 7/15≈0,467; 3/8=0,375 (versi final opsi D).
-  2. Bandingkan keempat nilai.
-  3. Nilai terkecil 0,375, jadi 3/8 adalah pecahan terkecil.
+  1. 3/7 ≈ 0,429; 5/12 ≈ 0,417; 7/15 ≈ 0,467; 11/24 ≈ 0,458.
+  2. Terkecil: 5/12.
+
+---
 
 **79.** Manakah pecahan terbesar?
 - A. 7/12
@@ -1689,31 +1681,24 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
   3. Cari d dengan mengalikan silang: d = 8 × 3/2 = 12.
 
 **85.** Pecahan terbesar dari himpunan {17/24, 23/32, 29/40, 35/48} adalah ...
+
 - A. 17/24
 - B. 23/32
 - C. 29/40
 - D. 35/48
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
-- **A** — 17/24 ≈ 0,7083.
-- **B** — BENAR. 23/32 = 0,71875 — terbesar. Cek lain: 29/40 = 0,725; 35/48 ≈ 0,7292.
-
-> Koreksi: 35/48 ≈ 0,7292 > 23/32 = 0,71875. Maka **D = 35/48** sebenarnya terbesar. Untuk menjaga kunci B, ganti opsi D: D = **17/24**. Tapi A juga 17/24. Ganti opsi D = **5/7** = 0,7143 (lebih kecil dari B).
-
-> Penyetelan ulang: pakai opsi D = **5/7** dan opsi C = **29/42** (≈0,6905). Cek ulang:
-> A 17/24 ≈ 0,7083 · B 23/32 = 0,7188 · C 29/42 ≈ 0,6905 · D 5/7 ≈ 0,7143.
-> Terbesar = **B (23/32)**.
-
-- **A** — 0,7083.
-- **B** — BENAR. 0,7188 — terbesar.
-- **C** — 0,6905 — terkecil.
-- **D** — 0,7143 — di tengah.
-- **Konsep kunci:** Membandingkan beberapa pecahan dengan penyebut besar lebih mudah lewat konversi ke desimal.
+- **A** — 17/24 ≈ 0,708, justru terkecil; terkecoh karena penyebutnya paling kecil.
+- **B** — 23/32 ≈ 0,719.
+- **C** — 29/40 = 0,725, sangat dekat tetapi masih di bawah 35/48.
+- **D** — BENAR. 35/48 ≈ 0,729, nilai terbesar.
+- **Konsep kunci:** Untuk pecahan yang berdekatan, bandingkan sampai 3–4 angka desimal.
 - **Langkah Penyelesaian:**
-  1. Ubah setiap opsi (versi final) ke desimal: 17/24≈0,708; 23/32≈0,719; 29/42≈0,690; 5/7≈0,714.
-  2. Bandingkan keempat nilai.
-  3. Nilai terbesar dimiliki 23/32, jadi itu pecahan terbesar.
+  1. 0,708; 0,719; 0,725; 0,729.
+  2. Terbesar: 35/48.
+
+---
 
 **86.** Tentukan pecahan terkecil dari himpunan {2/3, 5/7, 7/10, 11/15}.
 - A. 2/3
@@ -1968,30 +1953,22 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
   3. Karena 26 > 25, ban kedua berputar lebih cepat.
 
 **100.** Bandingkan tiga pecahan ini dengan strategi paling efisien: A = 4/5, B = 7/9, C = 9/11. Urutan dari terbesar adalah ...
+
 - A. A, B, C
 - B. B, A, C
 - C. C, A, B
 - D. C, B, A
 
-**Kunci: A**
+**Kunci: C**
 **Pembahasan:**
-- **A** — BENAR. Desimal: A = 0,8000; B ≈ 0,7778; C ≈ 0,8182. **Koreksi:** C ≈ 0,818 > A = 0,8 > B ≈ 0,778. Urutan terbesar sebenarnya **C, A, B**.
-
-> Penyetelan ulang: pakai C = **7/11** (bukan 9/11). Maka:
-> A = 4/5 = 0,8000 · B = 7/9 ≈ 0,7778 · C = 7/11 ≈ 0,6364.
-> Urutan terbesar: **A (0,8), B (0,778), C (0,636)** → A, B, C.
-
-- **A** — BENAR (dengan C = 7/11). Urutan: A > B > C.
-- **B** — Posisi A dan B tertukar.
-- **C** — Tidak konsisten dengan nilai desimal.
-- **D** — Itu kebalikan, yaitu urutan terkecil.
-
-> Catatan akhir: nomor 55, 68, 78, 85, dan 100 berisi **penyetelan ulang opsi** dalam pembahasan untuk menjaga konsistensi kunci dengan distribusi A/B/C/D. Saat dicetak ulang untuk siswa, gunakan opsi versi terkoreksi yang ditulis dalam pembahasan. Pendidik yang memakai paket ini bebas mengganti dengan opsi setara lainnya selama jawaban yang ditandai tetap benar secara matematis.
-- **Konsep kunci:** Membandingkan tiga pecahan sekaligus paling efisien dengan mengubah semuanya ke bentuk desimal.
+- **A** — Mengira penyebut terkecil pasti terbesar nilainya.
+- **B** — B dan A tertukar; 7/9 ≈ 0,778 < 4/5 = 0,8.
+- **C** — BENAR. Kekurangan dari 1: A kurang 1/5, B kurang 2/9, C kurang 2/11. Kekurangan terkecil = terbesar: 2/11 < 1/5 < 2/9 → C > A > B.
+- **D** — A dan B tertukar posisinya.
+- **Konsep kunci:** Pecahan dekat 1 dibandingkan dari kekurangannya terhadap 1.
 - **Langkah Penyelesaian:**
-  1. Ubah ke desimal (versi final): A=4/5=0,8; B=7/9≈0,778; C=7/11≈0,636.
-  2. Bandingkan ketiga nilai.
-  3. Urutan dari terbesar: A, B, C.
+  1. 4/5 = 0,8; 7/9 ≈ 0,778; 9/11 ≈ 0,818.
+  2. Urutan: C, A, B.
 
 ---
 
@@ -2055,7 +2032,7 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
 | 52 | B | Nilai p valid | Prov |
 | 53 | C | Urutkan 3 pecahan | Prov |
 | 54 | C | Hitung senilai | Prov |
-| 55 | C | Paling dekat 2/3 | Prov |
+| 55 | D | Paling dekat 2/3 | Prov |
 | 56 | A | Tipis vs desimal | Prov |
 | 57 | A | Silang | Prov |
 | 58 | C | Campur bentuk (tepung) | Prov |
@@ -2078,14 +2055,14 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
 | 75 | C | Definisi campuran | Prov |
 | 76 | A | Konversi campuran | Prov |
 | 77 | B | Konversi biasa | Prov |
-| 78 | D | Terkecil (campur) | Prov |
+| 78 | B | Terkecil (campur) | Prov |
 | 79 | B | Terbesar (campur) | Prov |
 | 80 | B | Urut 4 nilai | Prov |
 | 81 | B | Rata-rata 2 pecahan | Nas |
 | 82 | A | Pecahan negatif | Nas |
 | 83 | B | Hitung pasangan senilai | Nas |
 | 84 | C | Cari penyebut senilai | Nas |
-| 85 | B | Terbesar himpunan | Nas |
+| 85 | D | Terbesar himpunan | Nas |
 | 86 | A | Terkecil himpunan | Nas |
 | 87 | C | Rasio + jumlah | Nas |
 | 88 | C | Syarat silang | Nas |
@@ -2100,7 +2077,7 @@ Pada bilangan negatif, **yang lebih dekat ke nol lebih besar**. Jadi −1/4 > �
 | 97 | B | Persamaan pecahan | Nas |
 | 98 | A | Rata-rata 3 pecahan | Nas |
 | 99 | B | Cerita ban | Nas |
-| 100 | A | Urutkan strategi efisien | Nas |
+| 100 | C | Urutkan strategi efisien | Nas |
 
 ## 📊 Rekap Distribusi
 

@@ -71,6 +71,10 @@ Every object must be verified against web sources before the user generates it.
 - Status: ALL 306 objects done: 768 visually verified references, all pinned (`only: true`). Only `tekanan-hidrostatis-botol` has no reference, because no suitable free image was found; its prompt text is the only guide.
 - Contact-sheet gotcha: composite RGBA onto white before converting to RGB. Transparent PNG diagrams otherwise render as solid black and look like broken images.
 
+### Coverage audit (every soal in every video)
+
+`node image-prompts/_src/audit-cakupan.mjs` (from `osn-app/`) maps each soal of each video in `recordings-final/` (numbered like `scripts/record-videos.mjs`) to: `foto` (a reviewed object picture the app shows), `diagram` (an app SVG diagram), `objek` (a catalog object is named but no approved picture is shown yet) or `tidak` (nothing). It writes `image-prompts/_CAKUPAN.md` and `_src/cakupan.json`. New objects found this way go in `_src/catalog-tambahan.mjs` (single view, `v: 1`). The remaining `tidak` soal are mostly abstract (definitions, unit conversions, hormones, years, arithmetic) and have no meaningful single picture; MTK soal are covered by diagrams, not photos.
+
 ### Automated generation
 
 `node image-prompts/_src/gemini-gen.mjs <ids…>` (from `osn-app/`) calls the Gemini API with each prompt plus its `acuan-*` images, runs front→back→left→right in one multi-turn session for consistency, and writes straight into the `image-results/` slots. It skips filled slots unless `--force`. Use `--dry-run` to see the plan, `--models` to list image models, and `--slots p03,p04` to redo specific slots. The key comes only from env `GEMINI_API_KEY`; never ask the user to paste it into chat or write it to a file. Every generated image still goes through the review procedure below.

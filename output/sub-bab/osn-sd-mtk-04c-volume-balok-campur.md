@@ -454,15 +454,6 @@ Fokus: rumus dasar V = p × l × t, dimensi dari volume, konversi satuan dasar, 
 **20.** Sebuah peti berukuran 60 cm × 40 cm × 20 cm. Volume peti adalah ...
 - A. 12.000 cm³
 - B. 24.000 cm³
-- C. 48.000 cm³
-- D. 48.000 cm³ ditulis sama (cek): salah — perbaiki dibuat: 36.000 cm³
-**Kunci: D**
-
-(Revisi soal 20 — opsi yang konsisten:)
-
-**20.** Sebuah peti berukuran 60 cm × 40 cm × 20 cm. Volume peti adalah ...
-- A. 12.000 cm³
-- B. 24.000 cm³
 - C. 36.000 cm³
 - D. 48.000 cm³
 **Kunci: D**
@@ -688,15 +679,6 @@ Fokus: rumus dasar V = p × l × t, dimensi dari volume, konversi satuan dasar, 
   3. V = 0,48 m³.
 ---
 
-**32.** Sebuah balok mempunyai p = 30 cm, l = 20 cm, t = 10 cm. Volume balok adalah ...
-- A. 60 cm³
-- B. 600 cm³
-- C. 6.000 cm³
-- D. 60.000 cm³
-**Kunci: C**
-
-(Cek: 30 × 20 × 10 = 6.000 → kunci C. Untuk balancing, ganti kunci jadi D dengan ukuran berbeda.)
-
 **32.** Sebuah balok mempunyai p = 30 cm, l = 20 cm, t = 10 cm. Volume balok adalah ... cm³.
 - A. 60
 - B. 600
@@ -754,15 +736,6 @@ Fokus: rumus dasar V = p × l × t, dimensi dari volume, konversi satuan dasar, 
   3. V = 480 cm³.
 ---
 
-**35.** Sebuah balok mempunyai p = 12 cm, l = 10 cm, t = 5 cm. Volumenya adalah ...
-- A. 600 cm³
-- B. 120 cm³
-- C. 60 cm³
-- D. 27 cm³
-**Kunci: A**
-
-(Untuk balancing target A pada 35, kunci A dipertahankan. Tetapi rencana minta D di 35. Revisi opsi & kunci agar D:)
-
 **35.** Sebuah balok berukuran 12 cm × 10 cm × 5 cm. Volumenya adalah ...
 - A. 27 cm³
 - B. 120 cm³
@@ -800,15 +773,6 @@ Fokus: rumus dasar V = p × l × t, dimensi dari volume, konversi satuan dasar, 
   2. Kalikan: 25 × 12 × 4.
   3. V = 1.200 cm³.
 ---
-
-**37.** Sebuah balok 7 cm × 6 cm × 5 cm. Volumenya adalah ...
-- A. 18 cm³
-- B. 210 cm³
-- C. 42 cm³
-- D. 35 cm³
-**Kunci: B**
-
-(Rencana A pada 37. Revisi opsi:)
 
 **37.** Sebuah balok 7 cm × 6 cm × 5 cm. Volumenya adalah ...
 - A. 210 cm³
@@ -1274,15 +1238,6 @@ Fokus: kapasitas (liter ↔ dm³ ↔ m³), debit pengisian, jumlah barang dalam 
 
 **61.** Sebuah kontainer pengiriman berbentuk balok 6 m × 2,5 m × 2 m. Volume kontainer adalah ...
 - A. 10,5 m³
-- B. 30 m³
-- C. 15 m³
-- D. 60 m³
-**Kunci: B**
-
-(Cek: 6 × 2,5 × 2 = 30. Kunci ke C? Rencana 61 = C. Revisi kunci ke C dengan menyesuaikan opsi.)
-
-**61.** Sebuah kontainer pengiriman berbentuk balok 6 m × 2,5 m × 2 m. Volume kontainer adalah ...
-- A. 10,5 m³
 - B. 15 m³
 - C. 30 m³
 - D. 60 m³
@@ -1375,15 +1330,6 @@ Fokus: kapasitas (liter ↔ dm³ ↔ m³), debit pengisian, jumlah barang dalam 
   2. V kubus = 10 × 10 × 10 = 1.000 cm³.
   3. 72.000 ÷ 1.000 = 72 kubus.
 ---
-
-**66.** Sebuah bak mandi 1 m × 80 cm × 60 cm sudah berisi air 240 liter. Berapa liter lagi diperlukan untuk memenuhi bak?
-- A. 480 liter
-- B. 240 liter
-- C. 360 liter
-- D. 240 liter (selisih)
-**Kunci: B**
-
-(Cek: V bak penuh = 100 × 80 × 60 = 480.000 cm³ = 480 L. Sudah terisi 240, kekurangan = 240. Kunci B atau D pilih B.)
 
 **66.** Sebuah bak mandi 1 m × 80 cm × 60 cm sudah berisi air 240 liter. Berapa liter lagi diperlukan untuk memenuhi bak?
 - A. 480 liter
@@ -1599,15 +1545,6 @@ Fokus: kapasitas (liter ↔ dm³ ↔ m³), debit pengisian, jumlah barang dalam 
 ---
 
 **77.** Sebuah balok mempunyai luas alas 45 cm² dan tinggi 8 cm. Volume balok adalah ...
-- A. 360 cm³
-- B. 53 cm³
-- C. 180 cm³
-- D. 720 cm³
-**Kunci: A**
-
-(Rencana 77 = C. Revisi opsi:)
-
-**77.** Sebuah balok mempunyai luas alas 45 cm² dan tinggi 8 cm. Volume balok adalah ...
 - A. 53 cm³
 - B. 180 cm³
 - C. 360 cm³
@@ -1666,15 +1603,6 @@ Fokus: kapasitas (liter ↔ dm³ ↔ m³), debit pengisian, jumlah barang dalam 
   2. Kalikan: 9 × 6 × 5.
   3. V = 270 cm³.
 ---
-
-**80.** Sebuah akuarium 100 cm × 50 cm × 40 cm. Akuarium ini berisi air setinggi 30 cm. Jika 5 ikan masuk dan tinggi air naik 1 cm, berapa volume rata-rata 1 ikan?
-- A. 200 cm³
-- B. 500 cm³
-- C. 1.000 cm³
-- D. 1.500 cm³
-**Kunci: C**
-
-(Rencana 80 = D. Revisi opsi:)
 
 **80.** Sebuah akuarium 100 cm × 50 cm × 40 cm berisi air. Saat 5 ikan masuk, tinggi air naik 1 cm. Berapa volume rata-rata 1 ikan?
 - A. 500 cm³
@@ -1825,15 +1753,6 @@ Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
   3. 57.600 ÷ 72 = 800 balok kecil.
 ---
 
-**87.** Sebuah balok memiliki volume 4.500 cm³. Perbandingan p : l : t = 6 : 5 : 3. Lebar balok adalah ...
-- A. 10 cm
-- B. 15 cm
-- C. 12 cm
-- D. 25 cm
-**Kunci: B**
-
-(Hitung: V = 6x · 5x · 3x = 90x³ = 4.500 → x³ = 50 → x ≈ 3,68. Tidak bulat. Revisi V agar bulat: pakai V = 720 → x³ = 8 → x = 2 → p = 12, l = 10, t = 6. Kunci lebar = 10. Atau pakai V = 5.760 → x³ = 64 → x = 4 → p = 24, l = 20, t = 12. Lebar 20. Kita pakai V = 720.)
-
 **87.** Sebuah balok memiliki volume 720 cm³. Perbandingan p : l : t = 6 : 5 : 3. Lebar balok adalah ...
 - A. 8 cm
 - B. 10 cm
@@ -1874,15 +1793,6 @@ Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
   2. = 4 × 4 × 4.
   3. = 64 peti kecil.
 ---
-
-**89.** Sebuah akuarium 80 cm × 50 cm × 60 cm berisi air setinggi 40 cm. Sebuah balok besi 20 cm × 10 cm × 5 cm dicelupkan seluruhnya. Berapa cm kenaikan tinggi air?
-- A. 0,25 cm
-- B. 0,5 cm
-- C. 0,75 cm
-- D. 1 cm
-**Kunci: A**
-
-(Hitung: V balok = 20 × 10 × 5 = 1.000 cm³. Luas alas air = 80 × 50 = 4.000 cm². Kenaikan = 1.000 ÷ 4.000 = 0,25 cm. Kunci A — rencana 89 = C. Revisi tinggi balok agar kunci C: pakai balok 30 × 10 × 10 = 3.000 → kenaikan = 3.000 ÷ 4.000 = 0,75. Itu kunci C.)
 
 **89.** Sebuah akuarium 80 cm × 50 cm × 60 cm berisi air setinggi 40 cm. Sebuah balok besi 30 cm × 10 cm × 10 cm dicelupkan seluruhnya. Berapa cm kenaikan tinggi air?
 - A. 0,25 cm
@@ -2059,18 +1969,6 @@ Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
 ---
 
 **98.** Sebuah bak balok kosong 1,2 m × 80 cm × 50 cm akan diisi oleh dua keran. Keran A berdebit 10 L/menit dan keran B berdebit 6 L/menit. Tetapi setelah 10 menit, keran B ditutup. Berapa menit total waktu pengisian penuh?
-- A. 30 menit
-- B. 40 menit
-- C. 35 menit
-- D. 45 menit
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. Mengira semua dengan dua keran nyala.
-- **B** — Benar. V bak = 120 × 80 × 50 = 480.000 cm³ = 480 L. 10 menit pertama: dua keran (10 + 6) = 16 L/menit → terisi 160 L. Sisa = 480 − 160 = 320 L. Setelah keran B ditutup, hanya A (10 L/menit) → waktu sisa = 320 ÷ 10 = 32 menit. Total = 10 + 32 = **42 menit**.
-
-(Cek ulang: 42 menit, tidak ada di opsi. Revisi opsi:)
-
-**98.** Sebuah bak balok kosong 1,2 m × 80 cm × 50 cm akan diisi oleh dua keran. Keran A berdebit 10 L/menit dan keran B berdebit 6 L/menit. Tetapi setelah 10 menit, keran B ditutup. Berapa menit total waktu pengisian penuh?
 - A. 32 menit
 - B. 42 menit
 - C. 48 menit
@@ -2110,15 +2008,6 @@ Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
 
 **100.** Sebuah kontainer balok 2 m × 1,5 m × 1 m akan diisi penuh dengan kotak balok kecil 50 cm × 30 cm × 25 cm. Berapa kotak kecil maksimum dapat dimuat?
 - A. 60
-- B. 72
-- C. 80
-- D. 80 (cek)
-**Kunci: C**
-
-(Cek: grid = (200÷50) × (150÷30) × (100÷25) = 4 × 5 × 4 = 80. Cek volume: 3.000.000 ÷ 37.500 = 80 ✓. Kunci C — namun rencana 100 = D. Revisi opsi:)
-
-**100.** Sebuah kontainer balok 2 m × 1,5 m × 1 m akan diisi penuh dengan kotak balok kecil 50 cm × 30 cm × 25 cm. Berapa kotak kecil maksimum dapat dimuat?
-- A. 60
 - B. 64
 - C. 72
 - D. 80
@@ -2150,7 +2039,7 @@ Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
 | 6 | D | 31 | C | 56 | B | 81 | A |
 | 7 | C | 32 | D | 57 | A | 82 | B |
 | 8 | D | 33 | C | 58 | B | 83 | C |
-| 9 | A | 34 | B | 59 | C | 84 | A |
+| 9 | A | 34 | B | 59 | C | 84 | C |
 | 10 | B | 35 | D | 60 | D | 85 | B |
 | 11 | C | 36 | A | 61 | C | 86 | B |
 | 12 | D | 37 | A | 62 | C | 87 | B |

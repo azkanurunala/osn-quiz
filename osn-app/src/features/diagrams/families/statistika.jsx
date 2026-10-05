@@ -1,5 +1,6 @@
 import { anim } from '../anim';
 import { parseTextBars } from '../../../utils/textBars';
+import { parseMeanData, meanFigureUsable } from '../../../utils/meanData';
 
 const INK = '#e2e8f0';
 const MUTE = '#94a3b8';
@@ -175,13 +176,101 @@ export function DiagramLingkaran({ motion }) {
 }
 
 // ------------------------------------------------------------------ mean, median, modus
-export function MeanMedianModus({ motion }) {
+// ------------------------------------------------------------------ mean / median / modus
+const fmt = (n) => (Number.isInteger(n) ? n.toLocaleString('id-ID') : n.toLocaleString('id-ID', { maximumFractionDigits: 2 }));
+
+function ValueBox({ x, y, v, color, motion, delay, w = 52 }) {
+  return (
+    <g {...anim(motion, 'ix-pulse', { duration: 2 + delay })}>
+      <rect x={x - w / 2} y={y} width={w} height="42" rx="8" fill="#0f172a" stroke={color} strokeWidth="3" />
+      {label(x, y + 27, v, color, String(v).length > 5 ? 12 : 15)}
+    </g>
+  );
+}
+
+function boxRow(items, y, motion) {
+  const gap = Math.min(64, 480 / items.length);
+  const w = Math.min(52, gap - 6);
+  const x0 = 260 - (gap * (items.length - 1)) / 2;
+  return items.map((it, i) => <ValueBox key={i} x={x0 + i * gap} y={y} v={it.v} color={it.c} w={w} motion={motion} delay={i * 0.15} />);
+}
+
+function MeanDariSoal({ motion, d }) {
+  const { kind, mean, n, values } = d;
+  if (kind === 'hilang') {
+    const total = mean * n;
+    const known = values.reduce((s, v) => s + v, 0);
+    const items = [...values.map((v) => ({ v: fmt(v), c: BLUE })), { v: motion ? fmt(+(total - known).toFixed(2)) : '?', c: AMBER }];
+    return (
+      <>
+        {label(260, 50, `${n} data, rata-rata = ${fmt(mean)}`, INK, 14)}
+        {boxRow(items, 78, motion)}
+        {motion ? (
+          <>
+            {label(260, 168, `jumlah semua = ${n} × ${fmt(mean)} = ${fmt(total)}`, PURPLE, 13)}
+            {label(260, 196, `jumlah yang diketahui = ${fmt(known)}`, BLUE, 13)}
+            {label(260, 224, `data yang hilang = ${fmt(total)} − ${fmt(known)} = ${fmt(+(total - known).toFixed(2))}`, AMBER, 13)}
+          </>
+        ) : label(260, 180, 'jumlah semua data = banyak data × rata-rata', MUTE, 12)}
+      </>
+    );
+  }
+  if (kind === 'jumlah') {
+    const items = Array.from({ length: n }, () => ({ v: fmt(mean), c: BLUE }));
+    return (
+      <>
+        {label(260, 50, `${n} data, rata-rata = ${fmt(mean)}`, INK, 14)}
+        {boxRow(items, 78, motion)}
+        {label(260, 168, 'rata-rata = jumlah ÷ banyak data', MUTE, 12)}
+        {motion ? label(260, 204, `jumlah = ${n} × ${fmt(mean)} = ${fmt(n * mean)}`, PURPLE, 14) : null}
+      </>
+    );
+  }
+  // lengkap: question phase shows the data as given; the explanation sorts it and marks the answers
+  const sorted = [...values].sort((a, b) => a - b);
+  const total = values.reduce((s, v) => s + v, 0);
+  const counts = new Map(); values.forEach((v) => counts.set(v, (counts.get(v) ?? 0) + 1));
+  const top = Math.max(...counts.values());
+  const modus = top > 1 ? [...counts].filter(([, c]) => c === top).map(([v]) => v) : [];
+  const mid = sorted.length % 2 ? sorted[(sorted.length - 1) / 2] : (sorted[sorted.length / 2 - 1] + sorted[sorted.length / 2]) / 2;
+  const solve = motion && !d.changed;
+  const shown = solve ? sorted : values;
+  const items = shown.map((v, i) => {
+    const isMid = solve && (sorted.length % 2 ? i === (sorted.length - 1) / 2 : i === sorted.length / 2 - 1 || i === sorted.length / 2);
+    return { v: fmt(v), c: isMid ? GREEN : solve && modus.includes(v) ? AMBER : BLUE };
+  });
+  return (
+    <>
+      {label(260, 50, solve ? 'data diurutkan' : `${values.length} data`, INK, 14)}
+      {boxRow(items, 70, motion)}
+      {solve ? (
+        <>
+          {label(260, 152, `rata-rata = ${fmt(total)} ÷ ${values.length} = ${fmt(+(total / values.length).toFixed(2))}`, PURPLE, 13)}
+          {label(260, 180, `median (tengah, hijau) = ${fmt(mid)}`, GREEN, 13)}
+          {label(260, 208, modus.length ? `modus (paling sering, kuning) = ${modus.map(fmt).join(' dan ')}` : 'modus: tidak ada nilai yang muncul lebih dari sekali', AMBER, 12)}
+          {label(260, 236, `jangkauan = ${fmt(sorted[sorted.length - 1])} − ${fmt(sorted[0])} = ${fmt(+(sorted[sorted.length - 1] - sorted[0]).toFixed(2))}`, MUTE, 12)}
+        </>
+      ) : (
+        <>
+          {label(260, 160, 'rata-rata = jumlah data ÷ banyak data', MUTE, 12)}
+          {label(260, 184, 'median = nilai tengah setelah diurutkan', MUTE, 12)}
+          {label(260, 208, 'modus = nilai yang paling sering muncul', MUTE, 12)}
+        </>
+      )}
+    </>
+  );
+}
+
+export function MeanMedianModus({ motion, question }) {
+  const d = parseMeanData(question?.question);
+  if (d.kind) return <MeanDariSoal motion={motion} d={d} />;
   const data = [
     { v: '6', kind: 'plain' }, { v: '7', kind: 'modus' }, { v: '7', kind: 'median' },
     { v: '8', kind: 'plain' }, { v: '9', kind: 'plain' },
   ];
   return (
     <>
+      {label(500, 24, 'contoh', MUTE, 11, 'end')}
       {label(230, 66, 'data terurut: 6, 7, 7, 8, 9', INK, 13)}
       {data.map((d, i) => {
         const x = 110 + i * 60;
@@ -204,6 +293,12 @@ export function MeanMedianModus({ motion }) {
     </>
   );
 }
+
+// Only for soal that are actually about these statistics: inside a statistika package a soal on
+// primes or triangles must not get the 6-7-7-8-9 example just because of the package topic.
+// The fixed example is only for concept soal ("Median adalah ...") — a soal with its own numbers that
+// the parser could not read (weighted mean, work rate) gets no figure rather than unrelated data.
+MeanMedianModus.usable = (question) => meanFigureUsable(question?.question);
 
 // ------------------------------------------------------------------ peluang dadu
 const PIP_LAYOUT = {

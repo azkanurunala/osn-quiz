@@ -1621,22 +1621,7 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 
 ---
 
-**85.** Sebuah kubus berlubang tembus di tengah (lubang berbentuk persegi 2 × 2 cm menembus dari sisi atas ke sisi bawah). Bila rusuk kubus 6 cm, berapa total LP (luar + dalam lubang)?
-- A. 216 cm²
-- B. 200 cm²
-- C. 224 cm²
-- D. 256 cm²
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. LP utuh tanpa lubang.
-- **B** — Salah. Lupa tambah dinding dalam lubang.
-- **C** — Benar. LP luar = 216 cm². Dikurangi 2 lubang (atas & bawah) = 216 − 2×4 = 208. Ditambah dinding dalam lubang (4 dinding × 2 × 6) = 48. Total = 208 + 48 = **256 cm²**. — Koreksi: total = **256 cm²**, jadi kunci yang benar adalah D. (Lihat opsi D.)
-
-> **Ralat:** kunci soal 85 yang benar **D**, bukan C. (Perhitungan di atas memperlihatkan jawabannya 256 cm². Anggap soal ini berkunci **D**.)
-
----
-
-**85 (REVISI).** Sebuah kubus berlubang tembus di tengah (lubang persegi 2 × 2 cm menembus dari sisi atas ke sisi bawah). Bila rusuk kubus 6 cm, berapa total LP (luar + dalam lubang)?
+**85.** Sebuah kubus berlubang tembus di tengah (lubang persegi 2 × 2 cm menembus dari sisi atas ke sisi bawah). Bila rusuk kubus 6 cm, berapa total LP (luar + dalam lubang)?
 - A. 216 cm²
 - B. 208 cm²
 - C. 240 cm²
@@ -1712,22 +1697,6 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 ---
 
 **89.** Sebuah ruangan kubus rusuk 5 m dicat seluruh dinding (4 sisi) dan langit-langit (1 sisi). Biaya cat Rp65.000/m², tukang Rp150.000/m². Total biaya = ...
-- A. Rp4.812.500
-- B. Rp5.000.000
-- C. Rp26.875.000
-- D. Rp5.375.000
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. Hanya bahan cat.
-- **B** — Salah. Asal bulat.
-- **C** — Salah. 6 sisi (lupa lantai bebas).
-- **D** — Benar. Luas dicat = 5 × 25 = 125 m². Total per m² = 65.000 + 150.000 = 215.000. Biaya = 125 × 215.000 = Rp26.875.000. — *Koreksi:* angka terlalu besar; perhitungan yang benar **Rp26.875.000** sesuai opsi C. Maka kunci yang benar = **C**, bukan D.
-
-> **Ralat:** kunci soal 89 yang benar **C** (Rp26.875.000), bukan D. Tetap dipakai untuk drill kalkulasi, namun anggap kunci akhir = **C**.
-
----
-
-**89 (REVISI).** Sebuah ruangan kubus rusuk 5 m dicat seluruh dinding (4 sisi) dan langit-langit (1 sisi). Biaya cat Rp65.000/m², tukang Rp150.000/m². Total biaya = ...
 - A. Rp4.812.500
 - B. Rp5.000.000
 - C. Rp26.875.000
@@ -1891,19 +1860,6 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 ---
 
 **98.** Sebuah kotak susu kubus rusuk 8 cm akan dikemas dalam karton 6 sisi terpisah (sebagai jaring kubus). Bila tiap sisi 8×8 cm dipotong dari karton 30×40 cm, berapa sisa karton setelah memotong 6 sisi?
-- A. 768 cm²
-- B. 816 cm²
-- C. 1.200 cm²
-- D. 384 cm²
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Luas karton = 30 × 40 = 1.200 cm². 6 sisi × 64 = 384 cm² terpakai. Sisa = 1.200 − 384 = **816 cm²**. — Koreksi: 1.200 − 384 = **816**, jadi jawabannya **B (816)**, bukan A.
-
-> **Ralat:** kunci soal 98 yang benar **B (816 cm²)**, bukan A.
-
----
-
-**98 (REVISI).** Sebuah kotak susu kubus rusuk 8 cm akan dikemas dalam karton 6 sisi terpisah (sebagai jaring kubus). Bila tiap sisi 8×8 cm dipotong dari karton 30×40 cm, berapa sisa karton setelah memotong 6 sisi?
 - A. 384 cm²
 - B. 816 cm²
 - C. 1.200 cm²
@@ -1942,22 +1898,6 @@ Fokus: penalaran multi-langkah, kombinasi LP dengan volume + biaya + konversi, s
 ---
 
 **100.** Sebuah kubus rusuk 20 cm akan dilapisi karton di luar (6 sisi) lalu ditambahkan bingkai pita di setiap rusuknya (12 rusuk). Karton seharga Rp30/cm², pita Rp200/cm. Berapa total biaya?
-- A. Rp48.000
-- B. Rp72.000
-- C. Rp120.000
-- D. Rp130.000
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. Karton saja (LP × 30 = 2.400 × 30 = 72.000) — tidak, ini juga keliru.
-- **B** — Salah. Karton saja (LP × 30 = 2.400 × 30 = **Rp72.000**, lupa biaya pita).
-- **C** — Salah. Pita saja (12 × 20 × 200 = 48.000) + sebagian.
-- **D** — Benar. LP = 6 × 400 = 2.400 cm². Karton = 2.400 × 30 = Rp72.000. Total rusuk = 12 × 20 = 240 cm. Pita = 240 × 200 = Rp48.000. Total = 72.000 + 48.000 = **Rp120.000**. — Koreksi: total **Rp120.000** = opsi C, bukan D.
-
-> **Ralat:** kunci soal 100 yang benar **C (Rp120.000)**, bukan D.
-
----
-
-**100 (REVISI).** Sebuah kubus rusuk 20 cm akan dilapisi karton di luar (6 sisi) lalu ditambahkan bingkai pita di setiap rusuknya (12 rusuk). Karton seharga Rp30/cm², pita Rp200/cm. Berapa total biaya?
 - A. Rp48.000
 - B. Rp72.000
 - C. Rp120.000

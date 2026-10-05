@@ -352,29 +352,22 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 ---
 
 **12.** Bu Lina menabung Rp2.000.000 dengan bunga 6% per tahun. Setelah 1 tahun, berapa saldonya?
+
 - A. Rp2.012.000
 - B. Rp2.120.000
 - C. Rp2.060.000
 - D. Rp120.000
-- **Konsep kunci:** Saldo = Modal + Bunga (Modal × suku × waktu).
+
+**Kunci: B**
+**Pembahasan:**
+- **A** — 2.012.000 = 6% dibaca 0,6% sehingga bunganya 12.000.
+- **B** — Benar. Bunga = 2.000.000 × 0,06 × 1 = 120.000. Saldo = 2.000.000 + 120.000 = **Rp2.120.000**. ✅
+- **C** — 2.060.000 = bunga dihitung untuk setengah tahun (3%), padahal lamanya 1 tahun.
+- **D** — 120.000 = bunga saja; lupa ditambah tabungan awal.
+- **Konsep kunci:** Saldo = modal + bunga; bunga = modal × suku × waktu.
 - **Langkah Penyelesaian:**
   1. Bunga = 2.000.000 × 0,06 × 1 = 120.000.
-  2. Saldo = 2.000.000 + 120.000 = 2.120.000.
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — 2.012.000 = tambah 12.000 (salah konversi).
-- **B** — 2.120.000 = bunga 6% dihitung jadi 120.000 (salah baca persen, mengira 6/100 × 2.000.000 = 120.000? Sebenarnya 0,06 × 2.000.000 = 120.000, tapi yang benar tetap C; ini perangkap karena 120.000 = 12% × 1.000.000 atau salah pikir bahwa 6% dari 2.000.000 = 120.000. Tunggu — cek: 0,06 × 2.000.000 = 120.000. Hmm. Distractor B di sini salah karena mengira bunga 6% × 2 juta = 120.000. Yang benar bunga = 0,06 × 2.000.000 × 1 = 120.000.). 
-
-— Sebenarnya bunga benar = 120.000. Saldo = 2.000.000 + 120.000 = 2.120.000.
-
-❌ Soal ini perlu direvisi karena hitungannya membuat B = jawaban benar. Mari kita ubah modal agar tidak ambigu. **Perbaikan:** modal Rp2.000.000 dengan bunga 3% per tahun.
-- **A** — 2.012.000 = tambah 12.000 (salah konversi).
-- **B** — 2.120.000 = mengira 6% × 2 juta (salah baca suku).
-- **C** — Benar. B = 2.000.000 × 0,03 × 1 = 60.000. Saldo = 2.000.000 + 60.000 = **Rp2.060.000**. ✅
-- **D** — 120.000 = mengira jawaban bunga 6% (salah persen) atau salah lihat saldo.
-
-> **Catatan editor**: Bunga **3% per tahun** untuk Rp2.000.000 = Rp60.000/tahun. Saldo akhir 1 tahun = **Rp2.060.000**. (Soal aslinya menggunakan 3% per tahun; opsi B sengaja pakai 6% sebagai jebakan dua kali lipat suku.)
+  2. Saldo = 2.120.000.
 
 ---
 
@@ -646,26 +639,22 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 ---
 
 **27.** Pak Indra pinjam Rp1.000.000 dengan bunga 10% per tahun selama 3 bulan. Berapa total bayar?
+
 - A. Rp1.300.000
-- B. Rp1.030.000
+- B. Rp1.025.000
 - C. Rp1.100.000
 - D. Rp25.000
-- **Konsep kunci:** Total bayar = Modal + Bunga (3 bulan = 0,25 tahun).
-- **Langkah Penyelesaian:**
-  1. Bunga = 1.000.000 × 0,10 × 0,25 = 25.000.
-  2. Total = 1.000.000 + 25.000 = 1.025.000.
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 1.300.000 = 1.000.000 × 1,3 (mengira bunga 30%).
-- **B** — Benar. B = 1.000.000 × 0,10 × (3/12) = 25.000. Total = 1.000.000 + 25.000 = **Rp1.025.000**. (Eh, 1.025.000 bukan 1.030.000.)
-
-> **Koreksi cetak**: kunci sebenarnya **Rp1.025.000**. Karena opsi B di soal asli salah tik (1.030.000), gunakan opsi B sebagai jawaban yang dimaksud. Perbaikan opsi: **B. Rp1.025.000**.
-
-- **A** — 1.300.000 = mengira bunga = 30% × 1.000.000 (tanpa konversi waktu).
-- **B** — Benar. B = 1.000.000 × 0,10 × 0,25 = 25.000. Total = **Rp1.025.000**. ✅
-- **C** — 1.100.000 = bunga 1 tahun (lupa konversi waktu).
-- **D** — 25.000 = bunga saja, lupa tambah modal.
+- **A** — 1.300.000 = 3 bulan dikira 3 tahun (bunga 30%).
+- **B** — Benar. Bunga = 1.000.000 × 0,10 × 3/12 = 25.000. Total = **Rp1.025.000**. ✅
+- **C** — 1.100.000 = bunga 1 tahun penuh; lupa mengubah 3 bulan menjadi 1/4 tahun.
+- **D** — 25.000 = bunga saja; lupa ditambah pinjaman pokok.
+- **Konsep kunci:** Total bayar = pinjaman + bunga; 3 bulan = 3/12 tahun.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.000.000 × 0,10 × 0,25 = 25.000.
+  2. Total = 1.025.000.
 
 ---
 
@@ -708,24 +697,22 @@ Hati-hati: bila soal menyebut "**bunga 1% per bulan**", artinya **per tahun = 12
 ---
 
 **30.** Pak Bowo menabung Rp1.000.000 dengan bunga 8% per tahun selama 9 bulan. Berapa bunganya?
+
 - A. Rp72.000
 - B. Rp80.000
 - C. Rp60.000
 - D. Rp720.000
-- **Konsep kunci:** Waktu 9 bulan = 0,75 tahun; Bunga = Modal × suku × waktu.
-- **Langkah Penyelesaian:**
-  1. Bunga = 1.000.000 × 0,08 × 0,75.
-  2. Bunga = 60.000.
 
-**Kunci: C** 
-
-Tunggu, hitung dulu: 1.000.000 × 0,08 × (9/12) = 80.000 × 0,75 = 60.000. Benar.
-
+**Kunci: C**
 **Pembahasan:**
-- **A** — 72.000 = sembarang (salah hitung pecahan waktu).
-- **B** — 80.000 = bunga 1 tahun (lupa konversi 9 bulan).
-- **C** — Benar. t = 9/12 = 0,75 tahun. B = 1.000.000 × 0,08 × 0,75 = **Rp60.000**. ✅
-- **D** — 720.000 = 1.000.000 × 0,08 × 9 (pakai t = 9 langsung).
+- **A** — 72.000 = 9 bulan dibaca 0,9 tahun (1.000.000 × 0,08 × 0,9); padahal 9 bulan = 9/12 = 0,75 tahun.
+- **B** — 80.000 = bunga 1 tahun; lupa mengubah waktu.
+- **C** — Benar. Bunga = 1.000.000 × 0,08 × 9/12 = **Rp60.000**. ✅
+- **D** — 720.000 = waktu dipakai 9 (tahun) langsung.
+- **Konsep kunci:** Waktu dalam bulan diubah ke tahun dengan membagi 12.
+- **Langkah Penyelesaian:**
+  1. 9 bulan = 0,75 tahun.
+  2. Bunga = 1.000.000 × 0,08 × 0,75 = 60.000.
 
 ---
 
@@ -1206,31 +1193,23 @@ Hitung: t = 1,25 tahun. B = 2.000.000 × 0,08 × 1,25 = 160.000 × 1,25 = 200.00
 ---
 
 **54.** Bu Mira menabung Rp600.000 selama 5 bulan dengan bunga 6% per tahun. Setelah itu, bunga ditambahkan, lalu Bu Mira menambah modal Rp150.000 dan menabung lagi 5 bulan dengan bunga sama. Berapa saldo akhir? (bunga **tunggal**, hitung tiap fase terpisah)
-- A. Rp780.000
-- B. Rp770.000
-- C. Rp765.000
-- D. Rp774.375
-- **Konsep kunci:** Hitung tiap fase terpisah: fase 1 (5 bulan), tambah modal, fase 2 (5 bulan).
-- **Langkah Penyelesaian:**
-  1. Fase 1: 600.000 × 0,06 × 5/12 = 15.000; saldo 615.000.
-  2. Tambah modal: 615.000 + 150.000 = 765.000.
-  3. Fase 2: 765.000 × 0,06 × 5/12 = 19.125.
-  4. Saldo = 765.000 + 19.125 = 784.125.
 
-**Kunci: D**
+- A. Rp784.125
+- B. Rp783.750
+- C. Rp787.500
+- D. Rp765.000
 
-Hitung tahap 1: B1 = 600.000 × 0,06 × (5/12) = 600.000 × 0,025 = 15.000. Saldo setelah 5 bulan = 615.000.
-Tambah modal: 615.000 + 150.000 = 765.000.
-Tahap 2: B2 = 765.000 × 0,06 × (5/12) = 765.000 × 0,025 = 19.125.
-Saldo akhir = 765.000 + 19.125 = **784.125**.
-
-> Catatan: bila opsi D dipilih sebagai "paling dekat dengan saldo akhir benar (Rp784.125)", jawaban yang lebih tepat sebenarnya tidak ada di antara opsi. Untuk soal latihan, pilih **D** yang paling masuk akal pendekatannya (siswa diharapkan dapat melakukan langkah dua tahap). Catatan editor: opsi diperbaiki di file versi-2.
-
+**Kunci: A**
 **Pembahasan:**
-- **A** — 780.000 = tambah 30.000 (asal hitung).
-- **B** — 770.000 = abaikan tahap kedua.
-- **C** — 765.000 = saldo sebelum tahap kedua diberi bunga.
-- **D** — Benar (pendekatan). Saldo akhir ≈ **Rp784.125** (atau pilih D sebagai jawaban dengan langkah dua fase yang benar). ✅
+- **A** — Benar. Fase 1: 600.000 × 0,06 × 5/12 = 15.000 → 615.000. Tambah 150.000 → 765.000. Fase 2: 765.000 × 0,06 × 5/12 = 19.125. Saldo = **Rp784.125**. ✅
+- **B** — 783.750 = bunga fase 2 dihitung dari 750.000 saja; bunga fase 1 yang sudah ditambahkan ke saldo tidak ikut berbunga.
+- **C** — 787.500 = seluruh 750.000 dianggap berbunga 10 bulan sekaligus; padahal 150.000 baru masuk di fase 2.
+- **D** — 765.000 = saldo sebelum fase 2 diberi bunga.
+- **Konsep kunci:** Hitung tiap fase terpisah; saldo fase sebelumnya menjadi modal fase berikutnya.
+- **Langkah Penyelesaian:**
+  1. Fase 1: bunga 15.000 → 615.000.
+  2. Tambah modal: 765.000.
+  3. Fase 2: bunga 19.125 → 784.125.
 
 ---
 
@@ -1329,28 +1308,22 @@ Saldo akhir = 1.560.000 + 46.800 = **1.606.800**.
 ---
 
 **59.** Bu Yuli pinjam Rp2.400.000 dengan bunga 10% per tahun selama 18 bulan. Berapa total bayar dan cicilan/bulan?
+
 - A. Total Rp2.640.000; cicilan Rp146.667
 - B. Total Rp2.760.000; cicilan Rp153.333
 - C. Total Rp2.880.000; cicilan Rp160.000
-- D. Total Rp2.720.000; cicilan Rp151.111
-- **Konsep kunci:** Hitung total bayar, lalu bagi dengan lama cicilan 18 bulan.
-- **Langkah Penyelesaian:**
-  1. Bunga = 2.400.000 × 0,10 × 1,5 = 360.000; total = 2.760.000.
-  2. Cicilan = 2.760.000 ÷ 18 = 153.333.
+- D. Total Rp2.760.000; cicilan Rp230.000
 
-**Kunci: C**
-
-Hitung: B = 2.400.000 × 0,10 × 1,5 = 360.000. Total = 2.760.000. Cicilan = 2.760.000 ÷ 18 = 153.333.
-
-Hmm, jawaban benar adalah total 2.760.000 dengan cicilan 153.333 → opsi **B**.
-
-> **Koreksi cetak**: kunci yang benar adalah **B**.
-
+**Kunci: B**
 **Pembahasan:**
-- **A** — 2.640.000 = pakai t = 1 tahun saja (lupa 6 bulan).
-- **B** — Benar. B = 2.400.000 × 0,10 × 1,5 = 360.000. Total = **Rp2.760.000**. Cicilan = 2.760.000 ÷ 18 = **Rp153.333**/bulan. ✅
-- **C** — 2.880.000 = pakai t = 2 tahun (salah konversi).
-- **D** — 2.720.000 = asal hitung.
+- **A** — Waktu dihitung 1 tahun saja (bunga 240.000); 6 bulan terakhir terlupa.
+- **B** — Benar. Bunga = 2.400.000 × 0,10 × 1,5 = 360.000. Total = **Rp2.760.000**. Cicilan = 2.760.000 ÷ 18 = **Rp153.333**/bulan. ✅
+- **C** — Waktu dihitung 2 tahun (bunga 480.000).
+- **D** — Total benar, tetapi cicilan dibagi 12 bulan, padahal lama pinjaman 18 bulan.
+- **Konsep kunci:** Total bayar = pinjaman + bunga; cicilan = total ÷ banyak bulan.
+- **Langkah Penyelesaian:**
+  1. Bunga = 360.000; total = 2.760.000.
+  2. Cicilan = 2.760.000 ÷ 18 ≈ 153.333.
 
 ---
 
@@ -1814,28 +1787,22 @@ Hitung: t = 2,75 tahun. B = 10.000.000 × 0,08 × 2,75 = 2.200.000.
 ---
 
 **80.** Bu Vina pinjam Rp1.500.000 dengan bunga 12% per tahun. Setelah 8 bulan ia bayar lunas. Berapa total yang ia bayar?
+
 - A. Rp1.620.000
-- B. Rp1.660.000
-- C. Rp1.580.000
-- D. Rp1.600.000
-- **Konsep kunci:** Total bayar = Modal + Bunga; 8 bulan = 2/3 tahun.
-- **Langkah Penyelesaian:**
-  1. Bunga = 1.500.000 × 0,12 × (2/3) = 120.000.
-  2. Total = 1.500.000 + 120.000 = 1.620.000.
+- B. Rp1.680.000
+- C. Rp120.000
+- D. Rp1.644.000
 
-**Kunci: D**
-
-Hitung: B = 1.500.000 × 0,12 × (8/12) = 1.500.000 × 0,08 = 120.000. Total = 1.620.000.
-
-Hmm: 0,12 × (8/12) = 0,08, kalikan 1.500.000 = 120.000. Total = 1.500.000 + 120.000 = 1.620.000 = opsi A. Maka kunci yang benar adalah **A**.
-
-> **Koreksi cetak**: kunci yang benar adalah **A**, bukan D.
-
+**Kunci: A**
 **Pembahasan:**
-- **A** — Benar. B = 1.500.000 × 0,12 × (8/12) = 120.000. Total = **Rp1.620.000**. ✅
-- **B** — 1.660.000 = asal hitung 160.000 bunga.
-- **C** — 1.580.000 = asal hitung kurang.
-- **D** — 1.600.000 = asal pembulatan.
+- **A** — Benar. Bunga = 1.500.000 × 0,12 × 8/12 = 120.000. Total = **Rp1.620.000**. ✅
+- **B** — 1.680.000 = bunga 1 tahun penuh (180.000).
+- **C** — 120.000 = bunga saja; lupa ditambah pinjaman.
+- **D** — 1.644.000 = 8 bulan dibaca 0,8 tahun (bunga 144.000).
+- **Konsep kunci:** 8 bulan = 8/12 tahun; total bayar = pinjaman + bunga.
+- **Langkah Penyelesaian:**
+  1. Bunga = 1.500.000 × 0,08 = 120.000.
+  2. Total = 1.620.000.
 
 ---
 
@@ -2293,34 +2260,27 @@ Hitung: B = 2.250.000. r = 2.250.000 ÷ (10.000.000 × 3) = 2.250.000 ÷ 30.000.
 ---
 
 **100.** Pak Aditya mendepositokan Rp8.000.000 dengan dua opsi:
+
 - Opsi X: bunga 7% per tahun selama 3 tahun.
 - Opsi Y: bunga 1,5% per bulan selama 18 bulan.
 
 Mana yang lebih untung dan berapa selisih bunganya?
 - A. X lebih untung; selisih Rp480.000
 - B. Y lebih untung; selisih Rp480.000
-- C. X lebih untung; selisih Rp720.000
-- D. Y lebih untung; selisih Rp600.000
-- **Konsep kunci:** Hitung bunga kedua opsi lalu bandingkan selisihnya.
-- **Langkah Penyelesaian:**
-  1. Opsi X: 8.000.000 × 0,07 × 3 = 1.680.000.
-  2. Opsi Y: 8.000.000 × 0,015 × 18 = 2.160.000.
-  3. Opsi Y lebih untung, selisih = 480.000.
+- C. X lebih untung; selisih Rp1.500.000
+- D. Y lebih untung; selisih Rp2.160.000
 
-**Kunci: A**
-
-Hitung X: B = 8.000.000 × 0,07 × 3 = 1.680.000.
-Hitung Y: B = 8.000.000 × 0,015 × 18 = 2.160.000.
-
-Y > X! Y lebih untung. Selisih = 2.160.000 − 1.680.000 = 480.000.
-
-> **Koreksi cetak**: kunci yang benar adalah **B** (Y lebih untung dengan selisih Rp480.000).
-
+**Kunci: B**
 **Pembahasan:**
-- **A** — X lebih untung, salah. X = 1.680.000, Y = 2.160.000. Y lebih besar.
-- **B** — Benar. Opsi Y = Rp2.160.000 > Opsi X = Rp1.680.000. Y lebih untung. Selisih = **Rp480.000**. ✅
-- **C** — Selisih salah hitung.
-- **D** — Selisih 600.000 = sembarang.
+- **A** — Selisih benar, tetapi arah terbalik; mengira jangka waktu lebih lama (3 tahun) pasti lebih untung.
+- **B** — Benar. X = 8.000.000 × 0,07 × 3 = 1.680.000. Y = 8.000.000 × 0,015 × 18 = 2.160.000. Y lebih untung, selisih **Rp480.000**. ✅
+- **C** — 1,5% dibaca per tahun (Y = 180.000), sehingga X tampak jauh lebih untung.
+- **D** — Bunga Y (2.160.000) ditulis sebagai selisih; lupa dikurangi bunga X.
+- **Konsep kunci:** Samakan satuan waktu suku bunga sebelum membandingkan.
+- **Langkah Penyelesaian:**
+  1. Bunga X = 1.680.000.
+  2. Bunga Y = 2.160.000.
+  3. Y lebih untung, selisih 480.000.
 
 ---
 

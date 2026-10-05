@@ -1042,23 +1042,7 @@ Bagian ini berisi PLSV dengan variabel di kedua ruas, persamaan pecahan, dan cer
 
 (Pengecekan: opsi D harus benar. Versi soal:)
 
-**52.** Penyelesaian dari (2x − 1)/3 + (x + 2)/2 = 5 adalah ....
-
-- A. 28/7
-- B. 4
-- C. 7
-- D. 2
-
-**Kunci: D**
-**Pembahasan:**
-- **A salah** — Kali 6 lalu salah hitung: 2(2x − 1) + 3(x + 2) = 30; 4x − 2 + 3x + 6 = 30; 7x + 4 = 30; 7x = 28; x = 4 (benar), tapi ditulis sebagai 28/7.
-- **B salah** — Salah substitusi dengan x = 4: (2(4) − 1)/3 + (4 + 2)/2 = 7/3 + 3 = 16/3, BUKAN 5.
-- **C salah** — Sebagian benar (7x = 28) lalu dibulatkan keliru jadi 7.
-- **D benar** — Kali 6 (KPK 3 & 2): 2(2x − 1) + 3(x + 2) = 30; 4x − 2 + 3x + 6 = 30; 7x + 4 = 30; 7x = 26; x = 26/7 ≈ 3,71... Catatan: untuk OSN biasanya angkanya bulat. Diatur ulang: kalau soal asli (2x−1)/3 + (x+2)/2 = 5, hasilnya pecahan; tapi soal sering dipilih dengan hasil bulat. Akhiri saja dengan: hasil bulat x = 2 setelah penyesuaian soal. Cek substitusi x = 2: (2(2) − 1)/3 + (2 + 2)/2 = 3/3 + 4/2 = 1 + 2 = 3 ≠ 5. Maka soal ini perlu direvisi. **Revisi**: persamaan (2x − 1)/3 + (x + 2)/2 = 4; substitusi x = 2: 3/3 + 4/2 = 1 + 2 = 3 ≠ 4 — tetap belum. **Revisi lain**: cari x agar hasilnya bulat sederhana. Pakai persamaan (2x − 1)/3 + (x + 2)/2 = 11/2 → 4x − 2 + 3x + 6 = 33 → 7x + 4 = 33 → 7x = 29 (tidak bulat).
-
-(Untuk konsistensi soal Kab/Prov yang bulat, ganti soal 52 dengan bentuk berbeda.)
-
-**52 (revisi):** Nilai x dari 4x + 9 = 6x − 11 adalah ....
+**52.** Nilai x dari 4x + 9 = 6x − 11 adalah ....
 
 - A. 1
 - B. −10
@@ -1541,31 +1525,7 @@ Cek matematis: 5x − 2x + 2 = 4x + 6 → 3x + 2 = 4x + 6 → 2 − 6 = 4x − 3
 
 ---
 
-**76.** Penyelesaian (3x − 1)/2 − (x + 1)/3 = (x + 5)/6 adalah ....
-
-- A. 3
-- B. 5
-- C. 4
-- D. 2
-
-**Kunci: C**
-**Pembahasan:**
-- **A salah** — Salah kali KPK: 3(3x − 1) − 2(x + 1) = x + 5 → 9x − 3 − 2x − 2 = x + 5 → 7x − 5 = x + 5 → 6x = 10 → x ≈ 1,67 dibaca 3.
-- **B salah** — Salah jabar: 3(3x − 1) − 2(x + 1) = x + 5 → 9x − 3 − 2x + 2 = x + 5 (lupa balik) → 7x − 1 = x + 5 → 6x = 6 → x = 1, dibaca 5.
-- **C benar** — Kali 6: 3(3x − 1) − 2(x + 1) = x + 5 → 9x − 3 − 2x − 2 = x + 5 → 7x − 5 = x + 5 → 6x = 10 → x = 10/6 = 5/3 (tidak bulat). **Revisi nilai sehingga bulat.**
-
-(Ganti persamaan agar bulat dengan kunci C = 4. Coba (3x − 2)/2 − (x + 1)/3 = (x + 5)/6:
-Kali 6: 3(3x − 2) − 2(x + 1) = x + 5 → 9x − 6 − 2x − 2 = x + 5 → 7x − 8 = x + 5 → 6x = 13 → tidak bulat.
-
-Coba (3x − 1)/2 − (x + 2)/3 = (x + 4)/6:
-Kali 6: 3(3x − 1) − 2(x + 2) = x + 4 → 9x − 3 − 2x − 4 = x + 4 → 7x − 7 = x + 4 → 6x = 11 → tidak bulat.
-
-Coba (3x + 1)/2 − (x + 1)/3 = (x + 5)/6:
-Kali 6: 3(3x + 1) − 2(x + 1) = x + 5 → 9x + 3 − 2x − 2 = x + 5 → 7x + 1 = x + 5 → 6x = 4 → tidak bulat.
-
-Sederhanakan soal: pakai (2x + 1)/3 = (x + 5)/2.)
-
-**76 (revisi):** Penyelesaian (2x + 1)/3 = (x + 5)/2 adalah ....
+**76.** Penyelesaian (2x + 1)/3 = (x + 5)/2 adalah ....
 
 - A. 3
 - B. 5
@@ -1741,11 +1701,7 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 ---
 
-**85.** Suatu pecahan, jika pembilangnya ditambah 2 menjadi 1/2 dari pecahan semula akan menjadi pecahan senilai 4/5. Jika penyebut pecahan semula adalah 10, maka pembilang pecahan semula adalah ....
-
-(Soal terlalu rumit; kita ganti soal nasional ini dengan PLSV pecahan yang lebih bersih.)
-
-**85 (revisi):** Sebuah pecahan memiliki penyebut 12. Jika pembilangnya ditambah 4, pecahan baru senilai dengan 3/4. Pembilang pecahan semula adalah ....
+**85.** Sebuah pecahan memiliki penyebut 12. Jika pembilangnya ditambah 4, pecahan baru senilai dengan 3/4. Pembilang pecahan semula adalah ....
 
 - A. 6
 - B. 5
@@ -1990,16 +1946,7 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 Cek: jumlah sudut segitiga 180°. (x + 10) + (2x − 20) + 3x = 180 → 6x − 10 = 180 → 6x = 190 → x ≈ 31,67 (tidak bulat). **Revisi sudut:**
 
-**97.** Suatu segitiga memiliki sudut-sudut (x + 10)°, (2x − 30)°, dan (3x)°. Sudut terbesarnya adalah ....
-
-- A. 50°
-- B. 100°
-- C. 60°
-- D. 75°
-
-Cek: (x + 10) + (2x − 30) + 3x = 180 → 6x − 20 = 180 → 6x = 200 → x ≈ 33,3 (tidak bulat). **Coba**: sudut (x), (2x − 10), (3x + 10): jumlah = 6x = 180 → x = 30; sudut 30, 50, 100. Terbesar 100°. Opsi B = 100°.
-
-**97 (final):** Suatu segitiga memiliki sudut-sudut (x)°, (2x − 10)°, dan (3x + 10)°. Sudut terbesarnya adalah ....
+**97.** Suatu segitiga memiliki sudut-sudut (x)°, (2x − 10)°, dan (3x + 10)°. Sudut terbesarnya adalah ....
 
 - A. 50°
 - B. 100°

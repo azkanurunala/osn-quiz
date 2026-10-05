@@ -466,25 +466,24 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 
 ---
 
-**18.** Berat badan 6 anak (kg): 28, 30, 25, 32, 30, 27. Berapa rata-rata berat badan mereka?
+**18.** Berat badan 6 anak (kg): 28, 30, 25, 32, 30, 27. Berapa rata-rata berat badan mereka (dibulatkan dua angka di belakang koma)?
+
 - A. 29 kg
 - B. 30 kg
-- C. 28,5 kg
+- C. 28,67 kg
 - D. 27 kg
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — 29 = (28+30)/2, hanya pakai dua data.
-- **B** — 30 = modus, bukan rata-rata.
-- **C** — Benar. Jumlah = 28+30+25+32+30+27 = 172. Rata-rata = 172 ÷ 6 = **28,67 ≈ 28,5** (hitung ulang: 172/6 = 28,67). Soal sederhana memilih nilai paling dekat = **28,5 kg**.
-   *Cek koreksi*: 172/6 = 28,67. Yang paling dekat dari opsi: 28,5. ✅
+- **A** — 29 = (28 + 30) : 2, hanya memakai dua data pertama.
+- **B** — 30 = modus (muncul 2 kali), bukan rata-rata.
+- **C** — Benar. Jumlah = 28 + 30 + 25 + 32 + 30 + 27 = 172. Rata-rata = 172 ÷ 6 ≈ **28,67 kg**.
 - **D** — 27 = salah satu data, bukan rata-rata.
 
 - **Konsep kunci:** Mean dihitung dari jumlah seluruh data dibagi banyak data.
 - **Langkah Penyelesaian:**
-  1. Jumlahkan berat 6 anak: 28+30+25+32+30+27 = 172.
-  2. Bagi dengan banyak anak (6).
-  3. Rata-rata = 172 ÷ 6 ≈ 28,67, dibulatkan mendekati 28,5 kg.
+  1. Jumlahkan berat 6 anak: 172.
+  2. Bagi dengan banyak anak: 172 ÷ 6 ≈ 28,67 kg.
 
 ---
 
@@ -636,33 +635,24 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 ---
 
 **26.** Skor permainan dadu Andi dalam 8 putaran: 3, 5, 6, 4, 5, 2, 5, 6. Berapa **median**-nya?
+
 - A. 4
 - B. 6
 - C. 5
 - D. 4,5
 
-**Kunci: D**
-**Pembahasan:**
-- **A** — 4 = salah satu data, posisi ke-3 setelah diurutkan.
-- **B** — 6 = data terbesar.
-- **C** — 5 = modus, bukan median (tapi bisa kebetulan; cek hitung).
-- **D** — Benar. Urut: 2,3,4,**4,5**,5,5,6 (cek ulang: 2,3,4,5,5,5,6,6). 8 data (genap), median = (data ke-4 + ke-5)/2 = (5+5)/2 = **5**.
-   *Koreksi*: median = 5, jawaban harusnya C. — namun perhatikan: opsi C adalah 5 dan D adalah 4,5. Jawaban yang benar = **5** → kunci C.
-
-*[CATATAN GENERASI: Soal #26 mengalami inkonsistensi kunci. Hasil hitung urutan 2,3,4,5,5,5,6,6 → median = (5+5)/2 = 5 → kunci C. Mohon ditandai sebagai koreksi: KUNCI = C.]*
-
-Setelah dikoreksi:
 **Kunci: C**
-- **A** — 4 = data sebelum tengah.
-- **B** — 6 = data terbesar.
-- **C** — Benar. Urut: 2,3,4,5,5,5,6,6. Genap (8), median = (5+5)/2 = **5**. ✅
-- **D** — 4,5 = salah pasangan data tengah.
+**Pembahasan:**
+- **A** — 4 = data ke-3 setelah diurutkan; salah menentukan posisi tengah.
+- **B** — 6 = data terbesar, bukan data tengah.
+- **C** — Benar. Urut: 2, 3, 4, 5, 5, 5, 6, 6. Banyak data genap (8), median = (data ke-4 + ke-5) : 2 = (5 + 5) : 2 = **5**. (Kebetulan 5 juga modusnya.)
+- **D** — 4,5 = rata-rata data ke-4 dan ke-5 dari data yang **belum diurutkan** (4 dan 5).
 
 - **Konsep kunci:** Median data genap adalah rata-rata dua data tengah setelah data diurutkan.
 - **Langkah Penyelesaian:**
-  1. Urutkan data: 2,3,4,5,5,5,6,6.
-  2. Karena banyak data genap (8), ambil dua data tengah (data ke-4 dan ke-5, yaitu 5 dan 5).
-  3. Median = (5+5) ÷ 2 = 5.
+  1. Urutkan data: 2, 3, 4, 5, 5, 5, 6, 6.
+  2. Dua data tengah (ke-4 dan ke-5): 5 dan 5.
+  3. Median = (5 + 5) ÷ 2 = 5.
 
 ---
 
@@ -1173,30 +1163,24 @@ Setelah dikoreksi:
 ### 🟡 SEKSI B · 30 Soal Tingkat Provinsi (No. 51–80)
 
 **51.** Tabel frekuensi nilai ulangan 30 siswa: nilai 60 (5 anak), 70 (8 anak), 80 (10 anak), 90 (5 anak), 100 (2 anak). Berapa **rata-rata** nilai kelas tersebut?
-- A. 76,67
-- B. 80
-- C. 78
+
+- A. 80
+- B. 77
+- C. 462
 - D. 82
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-- **A** — 76,67 = mengira (60+70+80+90+100)/5 (rata-rata nilai berbeda saja, lupa frekuensi).
-- **B** — 80 = modus, bukan rata-rata.
-- **C** — Benar. Jumlah = 60·5+70·8+80·10+90·5+100·2 = 300+560+800+450+200 = 2310. Rata-rata = 2310 ÷ 30 = **77**. *Koreksi*: hitung ulang 2310/30 = 77. Tapi opsi C = 78, terdekat. Sebenarnya jawaban tepat = **77**.
+- **A** — 80 = rata-rata lima nilai tanpa frekuensi ((60 + 70 + 80 + 90 + 100) : 5); kebetulan juga modus. Frekuensi tiap nilai terlupa.
+- **B** — Benar. Jumlah = 60×5 + 70×8 + 80×10 + 90×5 + 100×2 = 300 + 560 + 800 + 450 + 200 = 2.310. Rata-rata = 2.310 ÷ 30 = **77**.
+- **C** — 462 = 2.310 dibagi 5 (banyak jenis nilai), bukan banyak siswa (30).
+- **D** — 82 = umpan; tidak berasal dari perhitungan yang benar, biasanya dipilih karena menebak sedikit di atas modus.
 
-*[KOREKSI HITUNG: 60·5=300, 70·8=560, 80·10=800, 90·5=450, 100·2=200. Total=2310. Rata-rata=77. Opsi yang paling dekat (atau opsi yang harusnya = 77) adalah C dengan asumsi tipo "78" → seharusnya "77".]*
-
-**Kunci yang benar: C (dengan koreksi opsi C = 77)**
-- **A** — 76,67 = lupa frekuensi.
-- **B** — 80 = modus.
-- **C** — Benar. Mean berbobot = 2310 ÷ 30 = **77**. ✅
-- **D** — 82 = perkiraan salah.
-
-- **Konsep kunci:** Mean data berkelompok (berfrekuensi) = jumlah (nilai × frekuensi) dibagi total frekuensi.
+- **Konsep kunci:** Mean data berfrekuensi = jumlah (nilai × frekuensi) dibagi total frekuensi.
 - **Langkah Penyelesaian:**
-  1. Kalikan tiap nilai dengan frekuensinya lalu jumlahkan: 60×5+70×8+80×10+90×5+100×2 = 2310.
-  2. Jumlahkan seluruh frekuensi: 5+8+10+5+2 = 30.
-  3. Rata-rata = 2310 ÷ 30 = 77.
+  1. Σ(nilai × frekuensi) = 2.310.
+  2. Total frekuensi = 5 + 8 + 10 + 5 + 2 = 30.
+  3. Rata-rata = 2.310 ÷ 30 = 77.
 
 ---
 
@@ -1688,58 +1672,44 @@ Setelah dikoreksi:
 ---
 
 **75.** Banyak siswa yang lulus tiap kelas: 6A 25 dari 30, 6B 24 dari 28, 6C 22 dari 25. Kelas mana **persentase kelulusan tertinggi**?
+
 - A. 6A
 - B. 6B
 - C. 6C
 - D. Sama
 
-**Kunci: D**
-**Pembahasan:**
-- **A** — 6A = 25/30 = 83,33%.
-- **B** — 6B = 24/28 = 85,71%.
-- **C** — 6C = 22/25 = 88%.
-
-Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
-
-*[KOREKSI: jawaban yang benar adalah C (6C dengan 88%).]*
-
 **Kunci: C**
-- **A** — 6A = 83,33% (terendah).
-- **B** — 6B = 85,71%.
-- **C** — Benar. 6C = 22/25 × 100% = **88%** (tertinggi). ✅
-- **D** — Tidak sama, persen berbeda.
+**Pembahasan:**
+- **A** — 6A = 25/30 ≈ 83,33%, justru terendah. Terkecoh karena jumlah lulusnya (25) paling banyak.
+- **B** — 6B = 24/28 ≈ 85,71%.
+- **C** — Benar. 6C = 22/25 × 100% = **88%**, tertinggi.
+- **D** — Tidak sama; ketiga persentase berbeda. Mungkin terkecoh karena banyak yang tidak lulus di tiap kelas hampir sama (5, 4, 3).
 
-- **Konsep kunci:** Untuk membandingkan performa antar kelompok dengan jumlah anggota berbeda, ubah dulu ke bentuk persentase, bukan bandingkan jumlah mentah.
+- **Konsep kunci:** Untuk membandingkan kelompok dengan jumlah anggota berbeda, ubah ke persentase, jangan bandingkan jumlah mentah.
 - **Langkah Penyelesaian:**
-  1. Ubah tiap data menjadi persentase: 6A=25/30×100%=83,33%, 6B=24/28×100%=85,71%, 6C=22/25×100%=88%.
-  2. Bandingkan ketiga persentase tersebut.
-  3. Persentase tertinggi adalah 6C (88%).
+  1. 6A = 83,33%; 6B = 85,71%; 6C = 88%.
+  2. Persentase tertinggi: 6C.
 
 ---
 
 **76.** Hasil ulangan 8 siswa: 7, 8, 5, 9, 7, 6, 8, 10. Jika nilai 10 ternyata salah catat (seharusnya 6), berapa **rata-rata baru**?
+
 - A. 7,5
-- B. 7,25
+- B. 6,25
 - C. 7
-- D. 6,5
-
-**Kunci: B**
-**Pembahasan:**
-- **A** — 7,5 = rata-rata lama (sebelum dikoreksi).
-- **B** — Benar. Total lama = 7+8+5+9+7+6+8+10 = 60. Ganti 10 → 6: total baru = 60 − 10 + 6 = 56. Rata-rata = 56 ÷ 8 = **7**. *Koreksi opsi*: hasil = 7, kunci sebenarnya C. **Kunci yang benar: C**.
-
-*[KOREKSI: 56/8 = 7 → kunci C.]*
+- D. 8
 
 **Kunci: C**
-- **A** — 7,5 = rata-rata lama.
-- **B** — 7,25 = perkiraan salah.
-- **C** — Benar. Total baru = 56. Rata-rata = **7**. ✅
-- **D** — 6,5 = perkiraan salah.
+**Pembahasan:**
+- **A** — 7,5 = rata-rata lama (60 ÷ 8), sebelum diperbaiki.
+- **B** — 6,25 = nilai 10 dihapus tanpa ditambah nilai 6 yang benar: 50 ÷ 8.
+- **C** — Benar. Total lama = 60. Total baru = 60 − 10 + 6 = 56. Rata-rata = 56 ÷ 8 = **7**.
+- **D** — 8 = 56 dibagi 7, seolah banyak siswa berkurang; padahal nilai hanya diganti, siswanya tetap 8.
 
-- **Konsep kunci:** Bila ada data yang salah dicatat, ganti nilai lama dengan nilai yang benar sebelum menghitung ulang rata-rata.
+- **Konsep kunci:** Bila ada data salah catat, ganti nilai lama dengan nilai benar sebelum menghitung rata-rata.
 - **Langkah Penyelesaian:**
-  1. Hitung total data lama: 7+8+5+9+7+6+8+10 = 60.
-  2. Ganti nilai yang salah catat (10) dengan nilai benar (6): total baru = 60 − 10 + 6 = 56.
+  1. Total lama: 7 + 8 + 5 + 9 + 7 + 6 + 8 + 10 = 60.
+  2. Total baru = 60 − 10 + 6 = 56.
   3. Rata-rata baru = 56 ÷ 8 = 7.
 
 ---
@@ -1808,59 +1778,48 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 ---
 
 **80.** Sebuah toko menjual buku dengan harga 5 jenis: Rp10rb, Rp15rb, Rp20rb, Rp25rb, Rp30rb. Banyak terjual berturut-turut: 10, 8, 15, 5, 2 buku. Berapa **rata-rata harga buku** yang terjual?
-- A. Rp18.000
-- B. Rp17.250
-- C. Rp16.500
+
+- A. Rp20.000
+- B. Rp17.625
+- C. Rp141.000
 - D. Rp17.000
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Rp18.000 = perkiraan salah.
-- **B** — Benar. Total uang = 10·10rb + 8·15rb + 15·20rb + 5·25rb + 2·30rb = 100+120+300+125+60 = 705 (dalam ribuan). Banyak buku = 10+8+15+5+2 = 40. Rata-rata = 705rb ÷ 40 = **17.625**. *Koreksi opsi*: paling dekat = B. Hasil akurat = Rp17.625.
+- **A** — Rp20.000 = rata-rata lima harga tanpa memperhitungkan banyak buku terjual.
+- **B** — Benar. Total uang = 10×10rb + 8×15rb + 15×20rb + 5×25rb + 2×30rb = 705rb. Banyak buku = 40. Rata-rata = 705.000 ÷ 40 = **Rp17.625**.
+- **C** — Rp141.000 = 705rb dibagi 5 (banyak jenis harga), bukan banyak buku.
+- **D** — Rp17.000 = hasil benar yang dibulatkan ke bawah terlalu kasar; soal meminta nilai tepat.
 
-*[KOREKSI: 705.000/40 = 17.625. Opsi B = 17.250 perlu dibaca sebagai 17.625, atau jika opsi B = 17.625 maka kunci B benar. Asumsi tipo, kunci = B.]*
-
-**Kunci: B**
-- **A** — Rp18.000 = perkiraan.
-- **B** — Benar. Rata-rata = Rp17.625. ✅
-- **C** — Rp16.500 = perkiraan salah.
-- **D** — Rp17.000 = perkiraan salah.
-
-- **Konsep kunci:** Mean harga yang terjual dihitung dengan mean berbobot: jumlah (harga × banyak terjual) dibagi total barang terjual.
+- **Konsep kunci:** Rata-rata harga barang terjual = jumlah (harga × banyak terjual) dibagi total barang.
 - **Langkah Penyelesaian:**
-  1. Kalikan tiap harga buku dengan banyak terjualnya lalu jumlahkan: 100+120+300+125+60 = 705 (ribuan).
-  2. Jumlahkan banyak buku terjual: 10+8+15+5+2 = 40.
-  3. Rata-rata = 705.000 ÷ 40 = 17.625, mendekati opsi Rp17.250/Rp17.625.
+  1. Σ(harga × banyak) = 100 + 120 + 300 + 125 + 60 = 705 (ribu).
+  2. Total buku = 10 + 8 + 15 + 5 + 2 = 40.
+  3. Rata-rata = 705.000 ÷ 40 = Rp17.625.
 
 ---
 
 ### 🔴 SEKSI C · 20 Soal Tingkat Nasional (No. 81–100)
 
-**81.** Pada ujian akhir, mean kelas A (n=15) = 75, mean kelas B (n=25) = 81. Setelah digabung, dua siswa yang nilainya 100 dipindahkan dari kelas B ke kelas A. Berapa **mean baru kelas A**?
-- A. 78,1
-- B. 80
-- C. 76
+**81.** Pada ujian akhir, mean kelas A (15 siswa) = 75 dan mean kelas B (25 siswa) = 81. Kemudian dua siswa kelas B yang nilainya masing-masing 100 pindah ke kelas A. Berapa **mean baru kelas A** (dibulatkan dua angka di belakang koma)?
+
+- A. 77,94
+- B. 78
+- C. 88,33
 - D. 75
 
-**Kunci: C**
-**Pembahasan:**
-- **A** — 78,1 = perkiraan salah.
-- **B** — 80 = perkiraan asal antara 75 dan 81.
-- **C** — Benar. Total A lama = 75·15 = 1125. Tambah 2·100 = 200. Total A baru = 1325. Banyak A baru = 17. Mean = 1325 ÷ 17 = **77,94 ≈ 78**. *Koreksi*: hasilnya ≈ 78. Asumsi opsi A = 78 dan opsi C = 78. **Kunci A**.
-
-*[KOREKSI: 1325/17 = 77,94. Opsi A "78,1" mendekati. Anggap kunci A.]*
-
 **Kunci: A**
-- **A** — Benar. Mean baru ≈ 77,94 (78,1 sebagai pembulatan opsi terdekat). ✅
-- **B** — 80 = perkiraan asal.
-- **C** — 76 = perkiraan salah.
-- **D** — 75 = mean lama.
+**Pembahasan:**
+- **A** — Benar. Total A lama = 75 × 15 = 1.125. Ditambah 2 × 100 = 200 → 1.325. Banyak siswa A = 17. Mean = 1.325 ÷ 17 ≈ **77,94**.
+- **B** — 78 = rata-rata kedua mean kelas ((75 + 81) : 2); tidak memperhitungkan siswa yang pindah.
+- **C** — 88,33 = 1.325 dibagi 15; banyak siswa kelas A lupa ditambah 2.
+- **D** — 75 = mean lama, belum diperbarui.
 
-- **Konsep kunci:** Saat data dipindahkan antar kelompok, hitung ulang total dan banyak data kelompok yang menerima sebelum mencari mean barunya.
+- **Konsep kunci:** Saat data pindah antar kelompok, perbarui total **dan** banyak data kelompok penerima.
 - **Langkah Penyelesaian:**
-  1. Hitung total nilai kelas A awal: 75 × 15 = 1125.
-  2. Tambahkan nilai 2 siswa pindahan yang masing-masing 100: 1125 + 200 = 1325.
-  3. Mean baru = 1325 ÷ (15+2) = 1325 ÷ 17 ≈ 77,94, mendekati opsi 78,1.
+  1. Total kelas A awal: 75 × 15 = 1.125.
+  2. Total baru: 1.125 + 200 = 1.325; banyak siswa 17.
+  3. Mean baru = 1.325 ÷ 17 ≈ 77,94.
 
 ---
 
@@ -1928,59 +1887,46 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 ---
 
 **85.** Sebuah keranjang berisi 10 apel: 3 busuk, 7 segar. Diambil **dua apel** sekaligus secara acak. Berapa peluang **keduanya segar**?
+
 - A. 7/10
 - B. 49/100
-- C. 21/45 (atau 7/15)
-- D. 14/45
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 7/10 = peluang segar dalam satu pengambilan.
-- **B** — 49/100 = (7/10)² dengan pengembalian (salah, soal tanpa pengembalian).
-- **C** — 21/45 = mengira C(7,2) = 21? Sebenarnya C(7,2) = 21 dan C(10,2) = 45. 21/45 = **7/15**.
-
-*Koreksi*: P(dua segar) tanpa pengembalian = (7/10)·(6/9) = 42/90 = **7/15** = 21/45. Jawaban benar = **C**.
+- C. 7/15
+- D. 21/100
 
 **Kunci: C**
-- **A** — 7/10 = peluang satu segar.
-- **B** — 49/100 = dengan pengembalian (salah konteks).
-- **C** — Benar. P = (7/10)·(6/9) = 42/90 = **7/15**. ✅
-- **D** — 14/45 = salah hitung kombinasi.
+**Pembahasan:**
+- **A** — 7/10 = peluang segar pada satu pengambilan saja.
+- **B** — 49/100 = (7/10)², seolah apel pertama dikembalikan.
+- **C** — Benar. P = 7/10 × 6/9 = 42/90 = **7/15** (sama dengan C(7,2)/C(10,2) = 21/45).
+- **D** — 21/100 = pembilang C(7,2) = 21 benar, tetapi penyebutnya memakai 10 × 10 = 100, bukan C(10,2) = 45.
 
-- **Konsep kunci:** Peluang dua kejadian berturutan tanpa pengembalian dihitung dengan mengalikan peluang tiap pengambilan, dengan sisa data yang berkurang.
+- **Konsep kunci:** Pengambilan tanpa pengembalian: kalikan peluang tiap pengambilan dengan sisa yang berkurang.
 - **Langkah Penyelesaian:**
-  1. Hitung peluang apel segar pada pengambilan pertama: 7/10.
-  2. Karena tanpa pengembalian, hitung peluang segar kedua dari sisa: 6/9.
-  3. Kalikan: (7/10) × (6/9) = 42/90 = 7/15.
+  1. Peluang segar pertama: 7/10.
+  2. Peluang segar kedua: 6/9.
+  3. 7/10 × 6/9 = 7/15.
 
 ---
 
-**86.** Mean 10 nilai = 70. Setelah nilai tertinggi (90) dikeluarkan, mean 9 nilai sisa adalah?
+**86.** Mean 10 nilai = 70. Setelah nilai tertinggi (90) dikeluarkan, mean 9 nilai sisa adalah … (dibulatkan satu angka di belakang koma)
+
 - A. 70
-- B. 65
+- B. 60
 - C. 67,8
-- D. 68
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — 70 = mean lama.
-- **B** — 65 = perkiraan salah.
-- **C** — 67,8 = perkiraan salah.
-- **D** — Benar. Total = 70·10 = 700. Sisa = 700 − 90 = 610. Mean = 610 ÷ 9 = **67,78 ≈ 67,8**.
-
-*Koreksi*: hasilnya 67,78. Opsi C lebih tepat (67,8). **Kunci: C**.
+- D. 61
 
 **Kunci: C**
-- **A** — 70 = mean lama.
-- **B** — 65 = perkiraan.
-- **C** — Benar. Mean baru = 610 ÷ 9 = **67,78 ≈ 67,8**. ✅
-- **D** — 68 = pembulatan terlalu kasar.
+**Pembahasan:**
+- **A** — 70 = mean lama, belum diperbarui.
+- **B** — 60 = mengurangkan 90 : 9 = 10 langsung dari mean; mean tidak bisa dikurangi seperti itu.
+- **C** — Benar. Total = 70 × 10 = 700. Sisa = 700 − 90 = 610. Mean = 610 ÷ 9 ≈ **67,8**.
+- **D** — 61 = 610 dibagi 10; banyak data lupa dikurangi satu.
 
-- **Konsep kunci:** Soal balik mean: setelah satu data dikeluarkan, hitung ulang total dan bagi dengan banyak data yang tersisa.
+- **Konsep kunci:** Setelah satu data dikeluarkan, hitung ulang total lalu bagi dengan banyak data yang tersisa.
 - **Langkah Penyelesaian:**
-  1. Hitung total 10 data: 70 × 10 = 700.
-  2. Kurangi nilai tertinggi yang dikeluarkan (90): 700 − 90 = 610.
-  3. Mean baru = 610 ÷ 9 ≈ 67,8.
+  1. Total 10 data: 700.
+  2. Total 9 data: 700 − 90 = 610.
+  3. Mean = 610 ÷ 9 ≈ 67,8.
 
 ---
 
@@ -2196,32 +2142,23 @@ Cek koreksi: 6C tertinggi (88%). Maka kunci seharusnya **C**.
 ---
 
 **97.** Tabel hasil ujian 50 siswa: nilai 60 (8), 70 (12), 80 (18), 90 (8), 100 (4). Berapa **persentase siswa** dengan nilai **di atas rata-rata kelas**?
+
 - A. 40%
 - B. 24%
-- C. 30%
-- D. 48%
+- C. 60%
+- D. 36%
 
 **Kunci: C**
 **Pembahasan:**
-- Total = 50. Jumlah = 60·8+70·12+80·18+90·8+100·4 = 480+840+1440+720+400 = 3880. Mean = 3880÷50 = 77,6.
-- Di atas 77,6: nilai 80, 90, 100 = 18+8+4 = 30. P = 30/50 = **60%**.
+- **A** — 40% = persentase siswa **di bawah** rata-rata (nilai 60 dan 70: 20 siswa).
+- **B** — 24% = hanya nilai 90 dan 100 (12 siswa); nilai 80 terlupa padahal 80 > 77,6.
+- **C** — Benar. Jumlah = 480 + 840 + 1.440 + 720 + 400 = 3.880. Mean = 3.880 ÷ 50 = 77,6. Di atas 77,6: nilai 80, 90, 100 → 18 + 8 + 4 = 30 siswa. 30/50 = **60%**.
+- **D** — 36% = hanya nilai 80 (18 siswa); nilai 90 dan 100 terlupa.
 
-*Koreksi*: 60% bukan dari opsi. Yang paling dekat: jumlah di atas 80 (eksklusif) = 8+4 = 12 → 24%.
-
-Bila yang dimaksud "lebih dari rata-rata" = > 77,6, maka nilai ≥ 80: 18+8+4 = 30 → **60%**. Tidak ada di opsi.
-
-*[KOREKSI: jawaban yang tepat 60%; jika opsi paling dekat = A (40%) atau D (48%), maka asumsi opsi C berisi "60%". Anggap kunci C = 60%.]*
-
-**Kunci: C**
-- **A** — 40% = perkiraan salah.
-- **B** — 24% = hanya nilai > mean (90 dan 100 saja).
-- **C** — Benar. Mean = 77,6. Siswa ≥ 80 = 30 dari 50 = **60%**. ✅
-- **D** — 48% = perkiraan.
-
-- **Konsep kunci:** Untuk mencari persentase siswa di atas rata-rata pada data berkelompok, hitung mean-nya dulu baru jumlahkan frekuensi nilai yang lebih besar dari mean.
+- **Konsep kunci:** Hitung mean dulu, lalu jumlahkan frekuensi nilai yang lebih besar dari mean.
 - **Langkah Penyelesaian:**
-  1. Hitung mean kelas: Σ(nilai × frekuensi) ÷ total = 3880 ÷ 50 = 77,6.
-  2. Jumlahkan frekuensi nilai yang lebih besar dari mean (80, 90, 100): 18+8+4 = 30 siswa.
+  1. Mean = 3.880 ÷ 50 = 77,6.
+  2. Frekuensi nilai > 77,6: 18 + 8 + 4 = 30.
   3. Persentase = 30/50 × 100% = 60%.
 
 ---

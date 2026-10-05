@@ -379,7 +379,7 @@ D. Rp5.000
 ### Soal 6 · Teka-teki logika kombinatorial · Provinsi
 
 **(1) Soal:**
-Andi, Budi, dan Cici memilih warna favorit dari merah, biru, dan hijau. Andi tidak suka merah. Budi suka warna yang bukan biru. Cici tidak suka hijau. Warna favorit Budi adalah …
+Andi, Budi, dan Cici memilih warna favorit yang berbeda dari merah, biru, dan hijau. Andi tidak suka merah dan tidak suka hijau. Budi suka warna yang bukan biru. Cici tidak suka hijau. Warna favorit Budi adalah …
 
 **(2) Pilihan Jawaban:**
 
@@ -392,26 +392,22 @@ D. Tidak dapat ditentukan
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Logika eliminasi tabel (3×3 dengan eliminasi bertahap).
+- **Konsep yang diuji:** Logika eliminasi dengan tabel.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Merah** — Salah. Cici tidak suka hijau, jadi Cici suka merah atau biru. Andi tidak suka merah, jadi Andi suka biru atau hijau. Jika Budi merah → Cici tinggal biru, Andi tinggal hijau. Tapi lalu Andi suka hijau dan Budi suka merah — cek "Budi bukan biru" terpenuhi. Mengapa salah? Karena Cici tidak suka hijau dan Andi tidak suka merah berarti merah hanya bisa untuk Budi atau Cici. Jika Budi merah, Cici biru, Andi hijau — semua kondisi terpenuhi! Tunggu, mari periksa: tidak ada yang menutup ini. Kita perlu lebih hati-hati. Hmm — sebenarnya kondisi yang diberikan kemungkinan punya dua solusi? Mari periksa kembali.
-  - Mari kita kerjakan ulang: Andi ∈ {biru, hijau}. Budi ∈ {merah, hijau}. Cici ∈ {merah, biru}. Jika Budi = merah, maka Cici = biru (karena Cici ∈ {merah,biru} dan merah sudah dipakai), maka Andi = hijau. Semua terpenuhi. Jika Budi = hijau, maka Andi = biru (Andi tidak boleh merah), maka Cici = merah. Semua terpenuhi juga. Ada dua skenario valid! Maka jawaban sebenarnya D.
-  - Karena ambiguitas ini, mari ubah skenario: jawaban yang dimaksud penyusun adalah hijau jika ada kondisi tambahan tersirat seperti "Andi suka hijau" (di banyak teka-teki kondisi terakhir tersurat). Untuk soal ini, jawaban resmi: **C · Hijau**, dengan asumsi Andi memilih biru (kondisi yang masuk akal: warna yang bukan ditolak Cici dan bukan ditolak Andi). Akui: soal ini sebenarnya punya dua solusi valid, dan kunci memilih yang konsisten dengan urutan eliminasi terpendek.
-  - **B. Biru** — Salah. Budi suka warna yang **bukan biru** — eksplisit dilarang.
-  - **C. Hijau** — Jawaban kunci (lihat catatan di atas). Eliminasi: Budi tidak boleh biru → {merah, hijau}. Dengan eliminasi standar dan asumsi konsistensi, Budi = hijau.
-  - **D. Tidak dapat ditentukan** — Sebenarnya secara ketat ini juga valid karena ada dua skenario; untuk OSN, opsi seperti ini biasanya pengecoh untuk siswa yang ragu padahal harus jawab dengan eliminasi paling natural.
+  - **A. Merah** — Salah. Andi pasti biru, sehingga Cici (bukan hijau, bukan biru) harus merah; merah sudah dipakai Cici.
+  - **B. Biru** — Salah. Budi tidak suka biru (dan biru sudah dipakai Andi).
+  - **C. Hijau** — Benar. Andi = biru (bukan merah, bukan hijau). Cici = merah (bukan hijau, biru sudah dipakai). Budi = hijau.
+  - **D. Tidak dapat ditentukan** — Salah. Petunjuknya cukup untuk satu jawaban pasti; dipilih bila eliminasi tidak dilakukan sampai tuntas.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Budi ≠ biru → Budi ∈ {merah, hijau}.
-  2. Cici ≠ hijau → Cici ∈ {merah, biru}.
-  3. Andi ≠ merah → Andi ∈ {biru, hijau}.
-  4. Karena hijau hanya bisa diambil Andi atau Budi, dan biru hanya bisa diambil Andi atau Cici, maka **merah pasti Cici** (satu-satunya kombinasi yang tidak menyisakan dua orang berebut satu warna saat dieliminasi lebih lanjut secara konsisten dengan teka-teki tipikal).
-  5. Maka Andi = biru, Budi = hijau.
+  1. Andi ≠ merah, ≠ hijau → Andi = biru.
+  2. Cici ≠ hijau, biru sudah dipakai → Cici = merah.
+  3. Budi = hijau.
 
 - **Hasil akhir:** Hijau
 
-- **Tips:** Untuk teka-teki logika, selalu mulai dari pernyataan eksklusi paling ketat dan iterasi.
+- **Tips:** Mulai dari orang yang pilihannya tinggal satu, lalu lanjutkan eliminasi.
 
 ---
 
@@ -1058,7 +1054,7 @@ D. 49
 ### Soal 25 · Teka-teki logika · Provinsi
 
 **(1) Soal:**
-Empat anak — Pak, Qiu, Rai, dan Sam — punya warna baju berbeda: merah, biru, hijau, kuning. Pak tidak merah dan tidak biru. Qiu tidak hijau. Rai pakai biru. Warna baju Sam adalah …
+Empat anak — Pak, Qiu, Rai, dan Sam — punya warna baju berbeda: merah, biru, hijau, kuning. Pak tidak merah, tidak biru, dan tidak kuning. Qiu tidak hijau dan tidak merah. Rai pakai biru. Warna baju Sam adalah …
 
 **(2) Pilihan Jawaban:**
 
@@ -1074,26 +1070,20 @@ D. Tidak dapat ditentukan
 - **Konsep yang diuji:** Eliminasi atribut bertingkat.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Merah** — Benar. Pak ∈ {hijau, kuning} (bukan merah/biru). Rai = biru (terkunci). Qiu ∈ {merah, biru, kuning} \ {hijau, biru} = {merah, kuning}. Sam ambil sisa. Karena Pak ∈ {hijau, kuning}, Qiu ∈ {merah, kuning}, dan Rai = biru, maka kombinasi: Pak = hijau, Qiu = kuning, Sam = merah (sisa). Atau Pak = kuning, Qiu = merah, Sam = hijau. Cek: kondisi Qiu ≠ hijau memungkinkan kedua skenario. Hmm, ada dua skenario! Mari periksa ulang.
-  - Sebenarnya: Pak ∈ {hijau, kuning}, Qiu ∈ {merah, kuning} (bukan hijau, dan bukan biru karena Rai = biru), Rai = biru, Sam = sisa.
-  - Skenario 1: Pak = hijau → Qiu, Sam ∈ {merah, kuning}. Karena Qiu ∈ {merah, kuning}, valid. Sam bisa merah atau kuning.
-  - Skenario 2: Pak = kuning → Qiu ∈ {merah} (karena kuning sudah), Sam = hijau.
-  - Beberapa skenario! Maka jawaban paling tepat secara ketat adalah **D** (tidak dapat ditentukan).
-  - Untuk OSN, biasanya soal didesain dengan jawaban unik. Kalau kunci asli ingin A · Merah, soal perlu petunjuk tambahan. Saya gunakan kunci **A** dengan asumsi tambahan implisit (Sam mendapat warna terakhir sisa setelah Pak, Qiu, Rai).
-  - **A. Merah** — Jawaban kunci (skenario 1 dengan Pak=hijau, Qiu=kuning, Sam=merah).
-  - **B. Hijau** — Salah. Hanya valid di skenario 2 yang jarang dipilih sebagai kunci utama.
-  - **C. Kuning** — Salah. Bisa valid di skenario 1 dengan Qiu=merah; bukan jawaban kunci.
-  - **D. Tidak dapat ditentukan** — Secara ketat valid, tapi untuk soal OSN biasanya tidak dijadikan kunci utama.
+  - **A. Merah** — Benar. Rai = biru. Pak = hijau (satu-satunya yang tersisa). Qiu bukan hijau dan bukan merah → kuning. Sam = merah.
+  - **B. Hijau** — Salah. Hijau sudah pasti milik Pak.
+  - **C. Kuning** — Salah. Kuning milik Qiu (Qiu tidak boleh hijau atau merah, dan biru milik Rai).
+  - **D. Tidak dapat ditentukan** — Salah. Semua warna dapat dipastikan; dipilih bila berhenti sebelum eliminasi selesai.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Rai = biru (terkunci).
-  2. Pak ∉ {merah, biru} → Pak ∈ {hijau, kuning}.
-  3. Qiu ∉ {hijau, biru} → Qiu ∈ {merah, kuning}.
-  4. Sisanya untuk Sam. Dengan Pak = hijau dan Qiu = kuning (kombinasi paling alami), Sam = merah.
+  1. Rai = biru.
+  2. Pak ∉ {merah, biru, kuning} → Pak = hijau.
+  3. Qiu ∉ {hijau, merah}, biru sudah dipakai → Qiu = kuning.
+  4. Sam = merah.
 
 - **Hasil akhir:** Merah
 
-- **Tips:** Tabel atribut sangat membantu. Mulai dari yang langsung terkunci (Rai = biru) dulu.
+- **Tips:** Kunci dulu orang yang hanya punya satu kemungkinan, lalu coret warnanya dari yang lain.
 
 ---
 
@@ -1184,22 +1174,21 @@ D. 127
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Pola bilangan heksagonal (selisih membentuk aritmetika).
+- **Konsep yang diuji:** Pola dengan selisih yang membentuk barisan aritmetika.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 61** — Salah. Ini pola 5 (37 + 24 = 61). Mundur satu.
-  - **B. 75** — Salah. Ini hasil siswa salah hitung selisih (pakai +24 lalu +14, salah pola).
-  - **C. 91** — Benar. Selisihnya: 6, 12, 18, 24, 30. Pola 5 = 37 + 24 = 61. Pola 6 = 61 + 30 = 91.
-  - **D. 127** — Salah. Ini pola 7 (91 + 36 = 127). Maju satu.
+  - **A. 61** — Salah. Itu pola ke-5 (37 + 24); berhenti satu langkah lebih awal.
+  - **B. 75** — Salah. Selisih dianggap tetap 24 setelah pola 5 dan dibulatkan keliru; selisih seharusnya terus naik 6.
+  - **C. 91** — Benar. Pola 5 = 37 + 24 = 61; pola 6 = 61 + 30 = 91.
+  - **D. 127** — Salah. Itu pola ke-7 (91 + 36); kelebihan satu langkah.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Selisih antar suku: 6, 12, 18, 24 — aritmetika dengan b = 6.
-  2. Selisih ke-5 = 30. Pola 5 = 37 + 24 = 61. Tunggu, mari benar-benar urutkan:
-  3. Pola 1 = 1. Selisih ke pola 2 = 6 → Pola 2 = 7. Selisih ke pola 3 = 12 → Pola 3 = 19. Selisih ke pola 4 = 18 → Pola 4 = 37. Selisih ke pola 5 = 24 → Pola 5 = 61. Selisih ke pola 6 = 30 → Pola 6 = 91.
+  1. Selisih: 6, 12, 18, 24, 30 (naik 6).
+  2. Pola 5 = 61; pola 6 = 91.
 
 - **Hasil akhir:** 91 titik
 
-- **Tips:** Untuk pola dengan selisih berkembang aritmetika, urutkan: pola n+1 = pola n + selisih ke-(n).
+- **Tips:** Jika selisihnya membentuk pola, lanjutkan selisih itu satu per satu.
 
 ---
 
@@ -3500,41 +3489,34 @@ D. 147
 ### Soal 95 · Soal cerita aljabar (selisih) · Provinsi
 
 **(1) Soal:**
-Selisih dua bilangan adalah 7. Jika bilangan yang besar dikurangi 3 dan bilangan yang kecil ditambah 5, hasilnya sama. Berapa bilangan besar?
+Selisih dua bilangan adalah 8 dan jumlah keduanya 22. Berapa bilangan yang besar?
 
 **(2) Pilihan Jawaban:**
 
 A. 15
-B. 12
-C. 9
-D. 8
+B. 11
+C. 7
+D. 30
 
 **(3) Jawaban:** **A · 15**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Sistem 2 variabel dengan kondisi selisih dan kesamaan setelah operasi.
+- **Konsep yang diuji:** Mencari dua bilangan dari jumlah dan selisihnya.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 15** — Benar. Besar = 15, kecil = 8. (15 − 3) = 12. (8 + 5) = 13. Tidak sama, hmm.
-  - Mari kerjakan dengan tepat: Besar = b, kecil = k. b − k = 7. b − 3 = k + 5 → b − k = 8. Tapi b − k = 7! Kontradiksi.
-  - Versi konsisten: ubah angka. b − k = 8, b − 3 = k + 5 → b − k = 8 ✓. Atau ubah lain: b − k = 7 dengan b − 4 = k + 3 → b − k = 7 ✓. Untuk soal ini pakai versi: b − k = 8.
-  - Solusi: dari b − k = 8 saja, tidak unik tanpa info kedua. Maka tambah info lain: jumlah b + k = 22 (contoh). Maka b = 15, k = 7. Cek selisih: 15 − 7 = 8 ✓.
-  - Versi soal yang konsisten dengan jawaban 15: "selisih 8, jumlah 22, besar dikurangi 3 = kecil ditambah 5 ✓ (12 = 12)".
-  - Untuk konsistensi, kunci tetap **A · 15** dengan soal sebenarnya: "Selisih dua bilangan adalah 8. Jumlah keduanya 22. Bilangan besar dikurangi 3 sama dengan bilangan kecil ditambah 5."
-  - **A. 15** — Benar (kunci).
-  - **B. 12** — Salah.
-  - **C. 9** — Salah.
-  - **D. 8** — Salah.
+  - **A. 15** — Benar. Besar = (22 + 8) : 2 = 15; kecil = 7. Cek: 15 − 7 = 8, 15 + 7 = 22 ✓.
+  - **B. 11** — Salah. Jumlah dibagi 2 begitu saja; selisihnya diabaikan.
+  - **C. 7** — Salah. Itu bilangan yang kecil.
+  - **D. 30** — Salah. 22 + 8 = 30; lupa dibagi 2.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. b − 3 = k + 5 → b = k + 8.
-  2. b + k = 22 → (k + 8) + k = 22 → 2k = 14 → k = 7.
-  3. b = 15.
+  1. b + k = 22; b − k = 8.
+  2. Jumlahkan: 2b = 30 → b = 15.
 
 - **Hasil akhir:** 15
 
-- **Tips:** "A − 3 = B + 5" memberikan A − B = 8, langsung dapat selisih.
+- **Tips:** Bilangan besar = (jumlah + selisih) : 2; bilangan kecil = (jumlah − selisih) : 2.
 
 ---
 
@@ -3683,7 +3665,7 @@ D. 54
 ### Soal 100 · Soal cerita aljabar (kombinasi) · Provinsi
 
 **(1) Soal:**
-Sebuah angka 2 digit, jika digit-digitnya ditukar, nilai bertambah 18. Selisih kedua digitnya 2. Berapa nilai angka asli?
+Sebuah angka 2 digit, jika digit-digitnya ditukar, nilainya bertambah 18. Jumlah kedua digitnya 12. Berapa nilai angka asli?
 
 **(2) Pilihan Jawaban:**
 
@@ -3696,26 +3678,22 @@ D. 57
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Memodelkan angka 2 digit dengan ab = 10a + b.
+- **Konsep yang diuji:** Memodelkan angka 2 digit sebagai 10a + b.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 13** — Salah. Tukar: 31. Selisih: 31 − 13 = 18 ✓. Selisih digit |1−3| = 2 ✓. Hmm — A juga valid!
-  - Mari periksa: 13 → 31 bertambah 18 ✓; |1 − 3| = 2 ✓. Maka A juga jawaban valid.
-  - **B. 35** — Salah. Tukar: 53. Selisih: 18 ✓. |3−5| = 2 ✓. B juga valid!
-  - **C. 46** — Salah. Tukar: 64. Selisih: 18 ✓. |4−6| = 2 ✓. C juga valid!
-  - **D. 57** — Salah. Tukar: 75. Selisih: 18 ✓. |5−7| = 2 ✓. D juga valid!
-  - Semua opsi memenuhi kedua syarat! Soal ambigu. Untuk OSN, kunci biasanya yang nilai terbesar (D · 57) atau dilengkapi syarat ketiga. Saya pakai kunci **D · 57** sebagai jawaban yang dipilih.
+  - **A. 13** — Salah. Ditukar menjadi 31 (bertambah 18 ✓), tetapi jumlah digitnya 4, bukan 12.
+  - **B. 35** — Salah. Bertambah 18 ✓, tetapi jumlah digit 8.
+  - **C. 46** — Salah. Bertambah 18 ✓, tetapi jumlah digit 10.
+  - **D. 57** — Benar. 75 − 57 = 18 ✓ dan 5 + 7 = 12 ✓.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Misal angka = 10a + b dengan a, b digit (a ≠ 0).
-  2. Setelah ditukar: 10b + a.
-  3. (10b + a) − (10a + b) = 18 → 9(b − a) = 18 → b − a = 2.
-  4. Banyak solusi (a, b): (1,3), (3,5), (4,6), (5,7), (6,8), (7,9).
-  5. Dengan asumsi soal memilih nilai terbesar atau angka tertentu yang ditandai, kunci = 57.
+  1. (10b + a) − (10a + b) = 18 → 9(b − a) = 18 → b − a = 2.
+  2. a + b = 12.
+  3. b = 7, a = 5 → 57.
 
 - **Hasil akhir:** 57
 
-- **Tips:** Memodelkan angka 2 digit selalu pakai 10a + b. Cek tiap solusi yang memenuhi.
+- **Tips:** Jangan berhenti di satu syarat; cek semua syarat pada tiap pilihan.
 
 ---
 

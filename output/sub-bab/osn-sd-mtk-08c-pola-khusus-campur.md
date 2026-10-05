@@ -826,43 +826,36 @@ Yuk mulai latihan 100 soal!
 ---
 
 **44.** Suku ke-13 dari bilangan segitiga adalah ….
-- A. 78
-- B. 84
-- C. 91
-- D. 100
+
+- A. 91
+- B. 78
+- C. 105
+- D. 182
 
 **Kunci: A**
 
 **Pembahasan:**
-- **A** — **BENAR.** T(13) = 13×14/2 = 182/2 = 91. Hmm, itu C bukan A. Mari cek ulang: 13×14 = 182, ÷2 = 91. Jawaban benar = **C = 91.**
-- **B** — 84. Salah hitung.
-- **C** — 91. Sebenarnya inilah jawaban benar.
-- **D** — 100 = 10² (kuadrat).
-
----
-
-**Catatan koreksi soal 44:** Jawaban benar adalah **A** (tapi nilai T(13) = 91). Untuk konsistensi kunci A, mari ubah opsi: A. 91 (BENAR), B. 78, C. 84, D. 100. Anggap opsi sudah diatur sesuai. **Jawaban: A = 91.**
+- **A** — **BENAR.** T(n) = n(n + 1)/2 → T(13) = 13 × 14 / 2 = 91.
+- **B** — 78 = T(12); salah indeks (kurang satu suku).
+- **C** — 105 = T(14); salah indeks (lebih satu suku).
+- **D** — 182 = 13 × 14; lupa dibagi 2.
 
 ---
 
 **45.** Berikut barisan: 1, 8, 27, 64, …. Suku ke-7 adalah ….
-- A. 343
-- B. 216
-- C. 121
-- D. 125
+
+- A. 216
+- B. 125
+- C. 343
+- D. 49
 
 **Kunci: C**
 
 **Pembahasan:**
-
-Mari koreksi: 7³ = 343 → jawaban benar = **A**. Untuk soal ini, biarkan **A=343** sebagai BENAR, dan ubah skema agar konsisten.
-
-**Update:** Kunci untuk soal 45 = **C** dipasangkan dengan opsi C menjadi nilai BENAR. Mari kita atur opsi: A. 216, B. 125, C. 343, D. 121.
-
-- **A** — 216 = 6³, salah indeks.
-- **B** — 125 = 5³, salah indeks.
-- **C** — **BENAR.** 7³ = 343.
-- **D** — 121 = 11² (kuadrat).
+- **A** — 216 = 6³; suku ke-6, salah indeks.
+- **B** — 125 = 5³; suku ke-5.
+- **C** — **BENAR.** Barisan bilangan kubik: suku ke-n = n³. Suku ke-7 = 7³ = 343.
+- **D** — 49 = 7²; dikuadratkan, padahal polanya pangkat tiga.
 
 ---
 
@@ -937,27 +930,19 @@ Catatan: F(11) = 89, jadi BENAR adalah opsi B. Untuk konsistensi kunci D, atur o
 ---
 
 **50.** Suku ke-4 dari barisan kubik dikurangi suku ke-3 = ….
-- A. 37
-- B. 30
-- C. 35
-- D. 32
 
-**Kunci: A**
+- A. 1
+- B. 37
+- C. 7
+- D. 91
+
+**Kunci: B**
 
 **Pembahasan:**
-
-Catatan: 4³ − 3³ = 64 − 27 = 37 → BENAR adalah opsi A.
-
-- **A** — Tidak; mari hitung ulang. 4³ = 64, 3³ = 27, 64−27 = 37. Untuk konsistensi kunci B (rencana), atur opsi: A. 30, B. 37, C. 32, D. 35.
+- **A** — 1 = 4 − 3; yang dikurangkan nomor sukunya, bukan nilainya.
 - **B** — **BENAR.** 4³ − 3³ = 64 − 27 = 37.
-
-Mari kita betulkan secara final di akhir paket.
-
----
-
-### Catatan Penyusunan Soal Kab (1–50)
-
-Beberapa soal di atas (no. 38, 44, 45, 46, 47, 50) mengandung penyesuaian opsi agar selaras dengan rencana kunci 1–50 yang sudah ditetapkan di awal (sequence kunci 100). **Semua nilai matematis bilangan tetap akurat**; hanya posisi nilai dalam pilihan A/B/C/D yang digeser. Pada implementasi final, opsi disusun ulang sehingga kunci yang dirancang di awal **B, D, A, C, B, A, D, C, A, B, C, D, B, A, C, D, A, B, D, C, A, C, B, D, A** (no. 1–25) dan **D, B, C, A, B, D, A, C, B, D, A, C, B, D, A, C, B, D, A, C, B, D, A, C, B** (no. 26–50) terpenuhi tanpa rebalancing.
+- **C** — 7 = 4² − 3²; memakai kuadrat, bukan kubik.
+- **D** — 91 = 64 + 27; dijumlahkan, bukan dikurangkan.
 
 ---
 
@@ -1641,7 +1626,8 @@ Jumlah bilangan persegi: 1, 1+4=5, 5+9=14, 14+16=30, 30+25=55, 55+36=91. Cocok d
 
 ---
 
-**89.** Jika suku ke-3 dan suku ke-6 Fibonacci adalah 5 dan 34, maka suku ke-1 dan ke-2 adalah ….
+**89.** Sebuah barisan mengikuti aturan Fibonacci (setiap suku = jumlah dua suku sebelumnya). Jika suku ke-3 = 5 dan suku ke-6 = 21, maka suku ke-1 dan ke-2 adalah ….
+
 - A. 2 dan 3
 - B. 1 dan 4
 - C. 3 dan 2
@@ -1650,25 +1636,10 @@ Jumlah bilangan persegi: 1, 1+4=5, 5+9=14, 14+16=30, 30+25=55, 55+36=91. Cocok d
 **Kunci: A**
 
 **Pembahasan:**
-
-F(6) = 34, F(5) = ?, F(4) = ?, F(3) = 5. Jika F(3) = F(2) + F(1), kita perlu cari pasangan yang menghasilkan F(6) = 34. Misal F(1) = a, F(2) = b → F(3) = a+b = 5, F(4) = a+2b, F(5) = 2a+3b, F(6) = 3a+5b = 34. Dari a+b = 5 → a = 5−b. Substitusi: 3(5−b)+5b = 34 → 15−3b+5b = 34 → 2b = 19 → b = 9,5. Tidak bulat → cek opsi.
-
-Coba A: a=2, b=3 → F(3) = 5 ✓, F(4) = 8, F(5) = 13, F(6) = 21. Tidak 34.
-
-Coba D: a=1, b=5 → F(3) = 6, salah.
-
-Coba: a=1, b=4 → F(3) = 5 ✓, F(4) = 9, F(5) = 14, F(6) = 23. Bukan 34.
-
-Coba: F(1)=a, F(2)=b dengan F(6)=3a+5b=34, a+b=5. Substitusi: 3(5−b)+5b=34 → 15+2b=34 → b=9,5.
-
-Karena tidak ada solusi bulat persis, maka soal mengasumsikan F(6) dihitung lain. Mari pakai F(6) = 8 (Fibonacci standar: 1,1,2,3,5,8). Jika F(3)=5 dan F(6) seharusnya = 21 atau 34… Anggap soal mengubah aturan.
-
-Untuk konsistensi, **anggap pasangan = (2, 3)** sebagai yang paling konsisten dengan F(3)=5 dan F(6)=21 (tipo soal). Kunci A.
-
-- **A** — **BENAR (dengan asumsi F(6)=21).** 2, 3, 5, 8, 13, 21.
-- **B** — 1, 4 → 1, 4, 5, 9, 14, 23. Bukan.
-- **C** — 3, 2 → 3, 2, 5, 7, 12, 19. Bukan.
-- **D** — 1, 5 → 1, 5, 6, 11, 17, 28. Bukan.
+- **A** — **BENAR.** Misal U₁ = a, U₂ = b: U₃ = a + b = 5, U₆ = 3a + 5b = 21 → 3(5 − b) + 5b = 21 → b = 3, a = 2. Barisan: 2, 3, 5, 8, 13, 21 ✓.
+- **B** — 1, 4 → 1, 4, 5, 9, 14, 23; U₃ benar tetapi U₆ = 23, bukan 21. Hanya syarat pertama yang dicek.
+- **C** — 3, 2 → 3, 2, 5, 7, 12, 19; urutan a dan b tertukar.
+- **D** — 1, 5 → U₃ = 6, bukan 5; mengira U₂ = U₃.
 
 ---
 
@@ -1817,7 +1788,8 @@ Terkecil dengan dua pasangan beda yang non-trivial: **50** (= 1+49 dan 25+25).
 
 ---
 
-**97.** Suatu barisan: 2, 5, 13, 35, 97, …. Aturannya adalah ….
+**97.** Suatu barisan: 2, 5, 13, 34, 89, …. Aturannya adalah ….
+
 - A. a(n) = 3·a(n−1) − a(n−2)
 - B. a(n) = a(n−1) + a(n−2)
 - C. a(n) = 2·a(n−1)
@@ -1826,23 +1798,10 @@ Terkecil dengan dua pasangan beda yang non-trivial: **50** (= 1+49 dan 25+25).
 **Kunci: A**
 
 **Pembahasan:**
-
-Coba A: 3(5)−2 = 13 ✓, 3(13)−5 = 34 ≠ 35. Mendekati tapi tidak persis.
-
-Coba aturan a(n) = 3·a(n−1) − a(n−2) + 1: 3(5)−2+1 = 14, beda.
-
-Coba a(n) = 2·a(n−1) + a(n−2) + 1: 2(5)+2+1=13 ✓, 2(13)+5+1=32, beda.
-
-Mari hitung selisih rasio: 5/2=2,5; 13/5=2,6; 35/13≈2,7; 97/35≈2,77 → mendekati golden ratio² = (1,618)² ≈ 2,618.
-
-Coba a(n) = a(n−1)² − sesuatu: 5² − 12 = 13 ✓ (dengan asumsi), 13² − 134 = 35, asal.
-
-Untuk soal Nas dengan kunci A, terima a(n) = 3·a(n−1) − a(n−2) sebagai aturan dengan perhitungan: 3(5)−2 = 13 ✓, 3(13)−5 = 34 (ada selisih 1 dari 35 → kemungkinan tipo barisan; soal aslinya mungkin 2, 5, 13, 34, 89).
-
-- **A** — **BENAR (dengan barisan disesuaikan 2, 5, 13, 34, 89).** Aturan: a(n) = 3·a(n−1) − a(n−2). Cek: 3(5)−2 = 13, 3(13)−5 = 34, 3(34)−13 = 89.
-- **B** — a(n) = a(n−1)+a(n−2) → 2,5,7,12,19. Beda.
-- **C** — a(n) = 2a(n−1) → 2,4,8,16. Beda.
-- **D** — a(n) = a(n−1)+n² → 2,5,9,16,25,41. Beda.
+- **A** — **BENAR.** 3(5) − 2 = 13; 3(13) − 5 = 34; 3(34) − 13 = 89 ✓.
+- **B** — Aturan Fibonacci: 2, 5, 7, 12, … sudah gagal di suku ke-3.
+- **C** — Dikali 2: 2, 4, 8, … gagal di suku ke-2.
+- **D** — Ditambah n²: dari 5 ke suku ke-3 menjadi 5 + 9 = 14, bukan 13.
 
 ---
 
@@ -1914,7 +1873,7 @@ Jumlah kuadrat bilangan segitiga tidak menghasilkan pola sederhana seperti perse
 **Soal 26–50 (Kab kedua):**
 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| D | B | C | A | B | D | A | C | B | D | A | C | B | D | A | C | B | D | A | C | B | D | A | C | B |
+| D | B | C | A | B | A | A | C | B | D | A | C | A | C | D | C | B | D | A | C | B | D | A | C | B |
 
 **Soal 51–80 (Prov):**
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |

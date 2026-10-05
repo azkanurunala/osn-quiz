@@ -210,38 +210,19 @@ Sekarang mari kita berlatih 100 soal!
 ---
 
 **5.** Dua dadu dilempar. Berapa peluang keluar jumlah mata dadu = 7?
-- A. 6/36
-- B. 1/12
-- C. 7/36
+
+- A. 7/36
+- B. 1/6
+- C. 5/36
 - D. 1/7
 
 **Kunci: B**
 
-(Catatan: 6/36 = 1/6; jawab "B = 1/12" — tunggu, perlu hitung ulang)
-
 **Pembahasan:**
-- **A** — 6/36 = 1/6. Hampir benar bentuk, tetapi jawaban paling sederhana dipakai oleh kunci adalah 1/6 — namun pada paket ini formula bentuk paling sederhana ditampilkan; ini ada di pilihan A. Kunci sebenarnya: pasangan jumlah 7 ada 6 (lihat tabel). 6/36 = 1/6.
-- **B** — 1/12. Salah hitung, mungkin dianggap hanya 3 pasangan dari 36.
-- **C** — 7/36. Salah anggap pembilang = jumlah, bukan banyak pasangan.
-- **D** — 1/7. Tertukar; tidak terkait rumus.
-
-Catatan kunci: kunci diset **B = 1/6 disederhanakan dari 6/36**. Pada soal ini, A = 6/36 dan dianggap **BENAR**. Sehingga kunci diperbaiki: **A**.
-
-> **Kunci direvisi: A.** (6/36 sama dengan 1/6, paling tepat untuk soal yang minta langsung bentuk pecahan).
-
-Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan kunci **B**. Maka opsinya disusun ulang seperti berikut agar B = 1/6:
-
-> Susunan opsi yang benar untuk soal 5 ini:
-> - A. 7/36
-> - B. 1/6
-> - C. 5/36
-> - D. 1/7
-
-**Pembahasan ulang:**
-- **A** — 7/36. Salah anggap pembilang = jumlah mata 7, bukan banyak pasangan.
-- **B** — **BENAR.** Pasangan dadu dengan jumlah 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 pasangan. P = 6/36 = 1/6.
-- **C** — 5/36. Hanya menghitung 5 pasangan, lupa salah satunya.
-- **D** — 1/7. Asal anggap peluang = 1 dibagi nilai jumlahnya. Salah konsep.
+- **A** — 7/36. Mengira pembilang = nilai jumlahnya (7), bukan banyak pasangan yang berjumlah 7.
+- **B** — **BENAR.** Pasangan berjumlah 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 pasangan dari 36. P = 6/36 = 1/6.
+- **C** — 5/36. Hanya menemukan 5 pasangan; biasanya (3,4) dan (4,3) dianggap sama.
+- **D** — 1/7. Mengira peluang = 1 dibagi nilai jumlahnya. Tidak ada hubungannya dengan ruang sampel.
 
 ---
 
@@ -518,26 +499,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **23.** Sebuah koin dilempar dua kali. Berapa peluang muncul Gambar pada kedua lemparan?
-- A. 1/2
-- B. 1/3
-- C. 2/4
-- D. 1/4
 
-**Kunci: B**
-
-(Revisi: 1/4 untuk GG. Untuk menjaga kunci B, ubah opsi:)
-
-**Susunan opsi diatur ulang:**
 - A. 1/8
 - B. 1/4
 - C. 1/2
 - D. 3/4
 
+**Kunci: B**
+
 **Pembahasan:**
-- **A** — 1/8. Itu untuk 3 koin (GGG), bukan 2 koin.
-- **B** — **BENAR.** P(G) × P(G) = 1/2 × 1/2 = 1/4.
-- **C** — 1/2. Hanya peluang 1 lemparan, lupa kalikan.
-- **D** — 3/4. Itu peluang minimal 1 Gambar, bukan kedua-duanya.
+- **A** — 1/8. Itu peluang GGG untuk 3 lemparan, bukan 2.
+- **B** — **BENAR.** Ruang sampel {AA, AG, GA, GG}; hanya GG yang cocok. P = 1/2 × 1/2 = 1/4.
+- **C** — 1/2. Hanya peluang Gambar pada satu lemparan; lupa dikalikan untuk lemparan kedua.
+- **D** — 3/4. Itu peluang **minimal satu** Gambar, bukan kedua-duanya.
 
 ---
 
@@ -670,26 +644,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **32.** Lempar 3 koin. Berapa peluang muncul setidaknya 1 Angka?
-- A. 7/8
-- B. 1/8
-- C. 3/8
-- D. 6/8
 
-**Kunci: C**
-
-(Revisi opsi agar C = 7/8:)
-
-**Susunan opsi:**
 - A. 1/8
 - B. 3/8
 - C. 7/8
-- D. 5/8
+- D. 1/2
+
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — 1/8. Itu peluang GGG (tidak ada Angka sama sekali).
-- **B** — 3/8. Itu peluang tepat 2 Angka.
+- **A** — 1/8. Itu peluang GGG (tidak ada Angka sama sekali), justru kebalikannya.
+- **B** — 3/8. Itu peluang **tepat** 1 Angka (AGG, GAG, GGA), padahal "setidaknya 1" juga mencakup 2 dan 3 Angka.
 - **C** — **BENAR.** P(minimal 1 A) = 1 − P(tidak ada A) = 1 − 1/8 = 7/8.
-- **D** — 5/8. Lupa salah satu outcome.
+- **D** — 1/2. Mengira peluang Angka tetap 1/2 berapa pun banyak koinnya.
 
 ---
 
@@ -790,50 +757,36 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **39.** Sebuah koin dilempar 1 kali dan dadu 1 kali. Berapa peluang muncul A dan mata genap?
-- A. 1/12
-- B. 1/4
-- C. 1/6
-- D. 1/3
 
-**Kunci: B**
-
-(Revisi opsi agar B = 1/4:)
-
-**Susunan opsi:**
 - A. 1/12
 - B. 1/4
 - C. 1/2
-- D. 3/12
+- D. 1/6
+
+**Kunci: B**
 
 **Pembahasan:**
-- **A** — 1/12. Itu peluang A dan mata spesifik 1 saja, bukan genap (mata genap ada 3 angka).
-- **B** — **BENAR.** P(A) × P(genap) = 1/2 × 3/6 = 1/2 × 1/2 = 1/4.
-- **C** — 1/2. Hanya peluang dadu genap atau koin A, lupa kalikan.
-- **D** — 3/12 = 1/4. Bentuk benar tetapi belum disederhanakan; opsi B menampilkan bentuk paling sederhana.
+- **A** — 1/12. Itu peluang Angka dan **satu** mata tertentu (misalnya 2 saja), padahal mata genap ada 3 (2, 4, 6).
+- **B** — **BENAR.** P(A) × P(genap) = 1/2 × 3/6 = 1/4.
+- **C** — 1/2. Hanya peluang salah satu kejadian (koin A atau dadu genap); lupa dikalikan.
+- **D** — 1/6. Menghitung mata genap hanya 2 angka: 1/2 × 2/6 = 1/6.
 
 ---
 
 **40.** Lempar 2 dadu. Berapa peluang jumlah mata kurang dari 4?
+
 - A. 2/36
-- B. 3/36
+- B. 1/6
 - C. 1/12
-- D. 4/36
+- D. 1/36
 
 **Kunci: C**
 
-(Revisi opsi agar C = 3/36 = 1/12:)
-
-**Susunan opsi:**
-- A. 2/36
-- B. 4/36
-- C. 1/12
-- D. 1/9
-
 **Pembahasan:**
-- **A** — 2/36. Lupa pasangan jumlah 3.
-- **B** — 4/36 = 1/9. Salah hitung; ada 3 pasangan, bukan 4.
-- **C** — **BENAR.** Jumlah < 4 berarti 2 atau 3. Pasangan: (1,1),(1,2),(2,1) = 3. P = 3/36 = 1/12.
-- **D** — 1/9. Salah penyederhanaan 3/36 → 1/9.
+- **A** — 2/36. Hanya (1,1) dan (1,2); pasangan (2,1) terlupa karena urutan dadu dianggap tidak penting.
+- **B** — 1/6. Membaca "kurang dari 4" sebagai "paling banyak 4", sehingga jumlah 4 ikut dihitung (6 pasangan).
+- **C** — **BENAR.** Jumlah < 4 berarti 2 atau 3: (1,1), (1,2), (2,1) = 3 pasangan. P = 3/36 = 1/12.
+- **D** — 1/36. Hanya jumlah 2 yang dihitung, (1,1) saja.
 
 ---
 
@@ -854,26 +807,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **42.** Lempar 1 dadu. Berapa peluang muncul angka kurang dari 3?
-- A. 1/6
-- B. 1/3
-- C. 1/2
-- D. 2/6
 
-**Kunci: C**
-
-(Revisi opsi agar C = 1/3:)
-
-**Susunan opsi:**
 - A. 1/6
 - B. 1/2
 - C. 1/3
-- D. 3/6
+- D. 2/3
+
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — 1/6. Hanya 1 angka dihitung (misal 1 saja).
-- **B** — 1/2. Salah hitung; mata <3 hanya 2 angka, bukan 3.
-- **C** — **BENAR.** Angka <3: 1, 2 = 2 angka. P = 2/6 = 1/3.
-- **D** — 3/6. Salah; mata <3 hanya 2 angka, bukan 3.
+- **A** — 1/6. Hanya angka 1 yang dihitung, lupa 2.
+- **B** — 1/2. Ikut memasukkan angka 3 ({1, 2, 3}), padahal syaratnya kurang dari 3.
+- **C** — **BENAR.** Angka < 3: 1 dan 2 → 2 angka. P = 2/6 = 1/3.
+- **D** — 2/3. Itu peluang angka 3 atau lebih (komplemennya).
 
 ---
 
@@ -894,74 +840,53 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **44.** Kantong berisi 7 bola: 3 putih dan 4 hitam. Diambil 1 bola, **dikembalikan**, lalu ambil 1 lagi. Berapa peluang putih lalu hitam?
-- A. 1/7
-- B. 12/49
-- C. 6/49
-- D. 12/49
 
-(Catatan: A dan D sama. Mari ubah opsi.)
-
-**Susunan opsi:**
 - A. 1/7
-- B. 6/49
-- C. 7/49
+- B. 9/49
+- C. 2/7
 - D. 12/49
 
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — 1/7. Salah hitung; mungkin hanya satu pengambilan.
-- **B** — 6/49. Salah perkalian; mungkin (3×2)/49.
-- **C** — 7/49 = 1/7. Salah; tidak terkait perkalian peluang.
-- **D** — **BENAR.** P(putih) × P(hitam) = 3/7 × 4/7 = 12/49.
+- **A** — 1/7. Umpan: tidak berasal dari perkalian peluang; biasanya dipilih karena ada 7 bola.
+- **B** — 9/49. Itu peluang putih lalu putih (3/7 × 3/7).
+- **C** — 2/7. Itu jika bola **tidak** dikembalikan: 3/7 × 4/6 = 12/42 = 2/7.
+- **D** — **BENAR.** Karena dikembalikan, isi kantong tetap. P = 3/7 × 4/7 = 12/49.
 
 ---
 
 **45.** Kantong sama (3 putih, 4 hitam). Diambil 2 bola **tanpa pengembalian**. Berapa peluang putih lalu hitam?
+
 - A. 2/7
 - B. 12/49
-- C. 12/42
-- D. 1/2
+- C. 4/7
+- D. 3/7
 
 **Kunci: A**
 
-(Revisi opsi agar A = 12/42 = 2/7:)
-
-**Susunan opsi:**
-- A. 2/7
-- B. 12/49
-- C. 1/4
-- D. 1/2
-
 **Pembahasan:**
-- **A** — **BENAR.** P = 3/7 × 4/6 = 12/42 = 2/7.
-- **B** — 12/49. Itu kasus dengan pengembalian.
-- **C** — 1/4. Salah hitung.
-- **D** — 1/2. Hanya peluang 1 pengambilan.
+- **A** — **BENAR.** P(putih dulu) = 3/7; sisa 6 bola dengan 4 hitam, P(hitam) = 4/6. P = 3/7 × 4/6 = 12/42 = 2/7.
+- **B** — 12/49. Itu kasus dengan pengembalian (penyebut kedua tetap 7).
+- **C** — 4/7. Hanya peluang hitam pada satu pengambilan.
+- **D** — 3/7. Hanya peluang putih pada pengambilan pertama; lupa syarat bola kedua hitam.
 
 ---
 
 **46.** Lempar 1 dadu 2 kali. Berapa peluang muncul angka 6 setidaknya satu kali?
-- A. 5/36
-- B. 11/36
-- C. 6/36
-- D. 1/3
 
-**Kunci: C**
-
-(Revisi: minimal 1 enam = 1 − P(tidak ada 6) = 1 − (5/6)² = 1 − 25/36 = 11/36. Untuk kunci C, opsi diatur ulang:)
-
-**Susunan opsi:**
 - A. 25/36
 - B. 1/3
 - C. 11/36
-- D. 5/36
+- D. 1/36
+
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — 25/36. Itu peluang **tidak ada** angka 6 sama sekali.
-- **B** — 1/3. Salah hitung; asal.
+- **A** — 25/36. Itu peluang **tidak ada** angka 6 sama sekali, (5/6)².
+- **B** — 1/3. Menjumlah 1/6 + 1/6, sehingga kejadian (6,6) terhitung dua kali.
 - **C** — **BENAR.** P(setidaknya satu 6) = 1 − P(tidak ada 6) = 1 − (5/6)² = 1 − 25/36 = 11/36.
-- **D** — 5/36. Hanya menghitung 5 outcome saja.
+- **D** — 1/36. Itu peluang 6 muncul pada **kedua** lemparan.
 
 ---
 
@@ -1160,28 +1085,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **59.** Sebuah dadu dilempar 2 kali. Berapa peluang jumlah mata kedua dadu sama dengan 7 dan dadu pertama keluar angka 3?
-- A. 1/36
-- B. 1/12
-- C. 1/6
-- D. 5/36
+
+- A. 1/6
+- B. 1/36
+- C. 1/18
+- D. 1/3
 
 **Kunci: B**
 
-(Catatan: jika tahu dadu pertama = 3 dan jumlah = 7, maka dadu kedua = 4. P = 1/6 × 1/6 = 1/36. Tapi soal mungkin minta peluang gabungan, bukan bersyarat.)
-
-(Revisi: agar B = 1/36, opsi diubah)
-
-**Susunan opsi:**
-- A. 1/6
-- B. 1/36
-- C. 1/12
-- D. 5/36
-
 **Pembahasan:**
-- **A** — 1/6. Hanya peluang dadu pertama keluar 3 saja, lupa syarat kedua.
-- **B** — **BENAR.** Dadu pertama = 3 DAN dadu kedua = 4 (agar jumlah 7). P = 1/6 × 1/6 = 1/36.
-- **C** — 1/12. Salah hitung.
-- **D** — 5/36. Salah hitung; mungkin lupa syarat dadu pertama.
+- **A** — 1/6. Hanya peluang dadu pertama keluar 3, lupa syarat jumlah 7.
+- **B** — **BENAR.** Agar jumlahnya 7, dadu pertama 3 dan dadu kedua 4. Hanya pasangan (3,4). P = 1/6 × 1/6 = 1/36.
+- **C** — 1/18. Ikut menghitung (4,3), padahal dadu pertama harus 3.
+- **D** — 1/3. Menjumlah 1/6 + 1/6, padahal dua syarat "dan" harus dikalikan.
 
 ---
 
@@ -1218,26 +1134,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **62.** Sebuah dadu dilempar 3 kali. Berapa peluang ketiganya muncul angka berbeda?
-- A. 1/3
-- B. 1/2
-- C. 5/6
-- D. 5/9
 
-**Kunci: C**
-
-(Revisi: P = 6/6 × 5/6 × 4/6 = 120/216 = 5/9. Untuk kunci C, opsi diatur:)
-
-**Susunan opsi:**
-- A. 1/3
-- B. 1/2
+- A. 1/36
+- B. 5/6
 - C. 5/9
 - D. 4/9
 
+**Kunci: C**
+
 **Pembahasan:**
-- **A** — 1/3. Salah hitung; asal.
-- **B** — 1/2. Salah hitung.
-- **C** — **BENAR.** Pertama: 6/6 (bebas). Kedua: 5/6 (beda dari pertama). Ketiga: 4/6 (beda dari 2 pertama). P = 6/6 × 5/6 × 4/6 = 120/216 = 5/9.
-- **D** — 4/9. Salah hitung; mungkin pakai 4/6 × 4/6.
+- **A** — 1/36. Itu peluang ketiganya **sama** (6/216).
+- **B** — 5/6. Hanya memastikan lemparan kedua beda dari pertama; syarat lemparan ketiga terlupa.
+- **C** — **BENAR.** Lemparan 1 bebas (6/6), lemparan 2 beda (5/6), lemparan 3 beda dari keduanya (4/6). P = 120/216 = 5/9.
+- **D** — 4/9. Itu peluang ada angka yang sama (1 − 5/9), justru kebalikannya.
 
 ---
 
@@ -1454,30 +1363,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **76.** Sebuah kotak berisi 5 kartu bernomor 1, 2, 3, 4, 5. Diambil 2 kartu berurutan tanpa pengembalian. Berapa peluang jumlah kedua kartu = 7?
-- A. 1/5
-- B. 1/10
-- C. 4/20
-- D. 2/20
+
+- A. 4/25
+- B. 1/5
+- C. 1/10
+- D. 2/5
 
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — 1/5. Hanya peluang 1 pengambilan; salah konsep.
-- **B** — **BENAR.** Ruang sampel berurutan: 5 × 4 = 20. Pasangan jumlah 7: (2,5),(5,2),(3,4),(4,3) = 4. P = 4/20 = 1/5. Tunggu, ini 1/5, bukan 1/10.
-
-(Revisi: jawab benarnya 4/20 = 1/5. Maka kunci B di sini = 1/5. Susunan opsi diubah:)
-
-**Susunan opsi yang benar:**
-- A. 4/25
-- B. 1/5
-- C. 2/20
-- D. 1/10
-
-**Pembahasan:**
-- **A** — 4/25. Itu kasus dengan pengembalian (5 × 5 = 25).
-- **B** — **BENAR.** Ruang sampel 2 kartu berurutan: 5 × 4 = 20. Pasangan jumlah 7: (2,5),(5,2),(3,4),(4,3) = 4. P = 4/20 = 1/5.
-- **C** — 2/20. Hanya menghitung urutan satu arah.
-- **D** — 1/10. Salah penyederhanaan dari 2/20.
+- **A** — 4/25. Memakai ruang sampel 5 × 5 = 25, seolah kartu dikembalikan.
+- **B** — **BENAR.** Ruang sampel berurutan: 5 × 4 = 20. Jumlah 7: (2,5), (5,2), (3,4), (4,3) = 4. P = 4/20 = 1/5.
+- **C** — 1/10. Hanya menghitung satu arah urutan, (2,5) dan (3,4), dengan penyebut 20.
+- **D** — 2/5. Pembilang memakai urutan (4) tetapi penyebut tanpa urutan (10 pasang); ukuran pembilang dan penyebut tidak sejenis.
 
 ---
 
@@ -1676,29 +1574,19 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **89.** Dua dadu dilempar. Berapa peluang **mata dadu sama** ATAU **jumlah mata = 8**?
-- A. 11/36
-- B. 10/36
-- C. 5/12
-- D. 6/36
+
+- A. 5/18
+- B. 11/36
+- C. 1/6
+- D. 5/36
 
 **Kunci: A**
 
 **Pembahasan:**
-- **A** — **BENAR.** Sama: 6 pasangan (1,1)...(6,6). Jumlah 8: 5 pasangan. Irisan (sama DAN jumlah 8): (4,4) = 1 pasangan. Total = 6 + 5 − 1 = 10. P = 10/36 = 5/18.
-
-(Catatan: jawaban benar 10/36, bukan 11/36. Maka kunci A di sini adalah 10/36. Atur opsi:)
-
-**Susunan opsi yang benar:**
-- A. 10/36
-- B. 11/36
-- C. 1/2
-- D. 6/36
-
-**Pembahasan ulang:**
-- **A** — **BENAR.** Sama: 6 pasangan. Jumlah 8: 5 pasangan. Irisan (4,4): 1. Total = 6 + 5 − 1 = 10. P = 10/36 = 5/18.
-- **B** — 11/36. Lupa kurangi irisan (4,4) yang terhitung dua kali.
-- **C** — 1/2. Asal hitung.
-- **D** — 6/36. Hanya kasus sama, lupa jumlah 8.
+- **A** — **BENAR.** Kembar: 6 pasangan. Jumlah 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 pasangan. Irisan (4,4) = 1. Total = 6 + 5 − 1 = 10. P = 10/36 = 5/18.
+- **B** — 11/36. Lupa mengurangi irisan (4,4) yang terhitung dua kali.
+- **C** — 1/6. Hanya kasus kembar (6/36), lupa jumlah 8.
+- **D** — 5/36. Hanya kasus jumlah 8, lupa kembar.
 
 ---
 
@@ -1719,56 +1607,36 @@ Untuk konsistensi sekuens kunci yang sudah direncanakan, soal ini menggunakan ku
 ---
 
 **91.** Sebuah dadu dilempar terus sampai muncul angka 6. Berapa peluang muncul 6 tepat pada lemparan ke-3?
-- A. 1/36
-- B. 25/216
-- C. 1/6
-- D. 5/36
 
-**Kunci: C**
-
-(Catatan: 25/216. Untuk kunci C, susunan opsi diubah:)
-
-**Susunan opsi yang benar:**
 - A. 1/36
 - B. 5/36
 - C. 25/216
 - D. 1/216
 
+**Kunci: C**
+
 **Pembahasan:**
-- **A** — 1/36. Itu untuk muncul 6 di lemparan ke-2.
-- **B** — 5/36. Itu untuk muncul 6 di lemparan ke-2 dengan kondisi sebelumnya bukan 6.
-- **C** — **BENAR.** Lemparan 1 bukan 6 (5/6), lemparan 2 bukan 6 (5/6), lemparan 3 baru 6 (1/6). P = 5/6 × 5/6 × 1/6 = 25/216.
-- **D** — 1/216. Itu untuk 3 lemparan semua keluar 6.
+- **A** — 1/36. Mengalikan 1/6 × 1/6 seolah 6 harus muncul dua kali berturut-turut.
+- **B** — 5/36. Itu peluang 6 pertama muncul tepat pada lemparan ke-2 (5/6 × 1/6).
+- **C** — **BENAR.** Lemparan 1 bukan 6 (5/6), lemparan 2 bukan 6 (5/6), lemparan 3 baru 6 (1/6). P = 25/216.
+- **D** — 1/216. Itu peluang ketiga lemparan semuanya 6.
 
 ---
 
 **92.** Kantong berisi 4 bola merah dan 6 bola biru. Diambil 3 bola sekaligus. Berapa peluang **lebih banyak merah** daripada biru?
-- A. 1/3
-- B. 1/2
-- C. 2/15
-- D. 11/30
 
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 1/3. Asal hitung.
-- **B** — 1/2. Salah hitung.
-- **C** — 2/15. Itu peluang 3 merah saja (C(4,3)/C(10,3) = 4/120 = 1/30).
-- **D** — **BENAR.** Lebih banyak merah dari 3 bola: berarti 2 merah 1 biru atau 3 merah. C(10,3) = 120. C(4,2)×C(6,1) = 6×6 = 36. C(4,3) = 4. Total = 36+4 = 40. Tunggu: 40/120 = 1/3. Maka jawaban sebenarnya **A = 1/3**. Mari periksa ulang.
-
-Periksa ulang: 40/120 = 1/3. Maka kunci sebenarnya **A**. Tetapi sekuens kunci direncanakan **D**. Ubah opsi:
-
-**Susunan opsi yang benar:**
-- A. 2/15
+- A. 3/10
 - B. 1/2
 - C. 1/30
 - D. 1/3
 
-**Pembahasan ulang:**
-- **A** — 2/15. Salah hitung kombinasi.
-- **B** — 1/2. Asal hitung.
-- **C** — 1/30. Itu peluang **tepat 3 merah** saja (C(4,3)/C(10,3) = 4/120 = 1/30).
-- **D** — **BENAR.** Lebih banyak merah berarti 2M-1B atau 3M-0B. C(4,2)×C(6,1) = 6×6 = 36. C(4,3) = 4. Total = 40 dari 120. P = 40/120 = 1/3.
+**Kunci: D**
+
+**Pembahasan:**
+- **A** — 3/10. Hanya kasus 2 merah 1 biru (36/120); kasus 3 merah terlupa.
+- **B** — 1/2. Mengira merah dan biru sama peluangnya, padahal biru lebih banyak.
+- **C** — 1/30. Hanya kasus 3 merah (4/120).
+- **D** — **BENAR.** C(10,3) = 120. Dua merah satu biru: C(4,2) × C(6,1) = 36. Tiga merah: C(4,3) = 4. P = 40/120 = 1/3.
 
 ---
 
@@ -1805,29 +1673,19 @@ Periksa ulang: 40/120 = 1/3. Maka kunci sebenarnya **A**. Tetapi sekuens kunci d
 ---
 
 **95.** Kantong berisi 6 bola: 3 hitam dan 3 putih. Diambil 1 bola, dan jika hitam, dikembalikan; jika putih, tidak dikembalikan. Lalu diambil 1 bola lagi. Berapa peluang bola kedua hitam?
-- A. 1/2
-- B. 7/12
-- C. 3/4
-- D. 5/12
+
+- A. 11/20
+- B. 1/2
+- C. 3/5
+- D. 3/10
 
 **Kunci: A**
 
 **Pembahasan:**
-- **A** — **BENAR.** Kasus 1 — bola pertama hitam (dikembalikan): P = 3/6 = 1/2. Setelah dikembalikan, P(hitam) = 3/6 = 1/2. Kontribusi = 1/2 × 1/2 = 1/4. Kasus 2 — bola pertama putih (tidak dikembalikan): P = 3/6 = 1/2. Setelah putih hilang, sisa 3 hitam dari 5. P(hitam) = 3/5. Kontribusi = 1/2 × 3/5 = 3/10. Total = 1/4 + 3/10 = 5/20 + 6/20 = 11/20. Tunggu: ini bukan 1/2. Mari periksa ulang.
-
-5/20 + 6/20 = 11/20, bukan 1/2 = 10/20. Maka jawaban sebenarnya 11/20. Kunci direncana A = 1/2.
-
-**Susunan opsi yang benar:**
-- A. 11/20
-- B. 1/2
-- C. 7/12
-- D. 5/12
-
-**Pembahasan ulang:**
-- **A** — **BENAR.** Kasus 1 — pertama hitam (P=3/6=1/2), dikembalikan, P(hitam kedua) = 1/2. Kontribusi = 1/2 × 1/2 = 1/4 = 5/20. Kasus 2 — pertama putih (P=1/2), tidak dikembalikan, P(hitam kedua) = 3/5. Kontribusi = 1/2 × 3/5 = 3/10 = 6/20. Total = 11/20.
-- **B** — 1/2. Salah hitung kontribusi.
-- **C** — 7/12. Asal hitung.
-- **D** — 5/12. Salah perkalian.
+- **A** — **BENAR.** Kasus hitam dulu (1/2), dikembalikan → P(hitam kedua) = 1/2; kontribusi 1/4 = 5/20. Kasus putih dulu (1/2), tidak dikembalikan → sisa 3 hitam dari 5; kontribusi 1/2 × 3/5 = 6/20. Total = 11/20.
+- **B** — 1/2. Mengira kedua kasus sama-sama dikembalikan, sehingga isi kantong tidak berubah.
+- **C** — 3/5. Hanya peluang bersyarat pada kasus putih; belum dikali 1/2 dan kasus hitam terlupa.
+- **D** — 3/10. Hanya kontribusi kasus putih; kontribusi kasus hitam (1/4) lupa dijumlahkan.
 
 ---
 
@@ -1848,26 +1706,19 @@ Periksa ulang: 40/120 = 1/3. Maka kunci sebenarnya **A**. Tetapi sekuens kunci d
 ---
 
 **97.** Sebuah kotak berisi 8 kelereng: 4 putih, 3 hitam, 1 merah. Diambil 2 kelereng sekaligus. Berapa peluang keduanya **bukan** merah?
-- A. 21/28
-- B. 7/8
-- C. 6/7
-- D. 3/4
+
+- A. 3/4
+- B. 1/4
+- C. 7/8
+- D. 49/64
 
 **Kunci: A**
 
-(Catatan: 7 non-merah dari 8. Kombinasi 2 dari 7 = 21. Kombinasi 2 dari 8 = 28. P = 21/28 = 3/4. Maka A = 21/28 atau D = 3/4, dua-duanya benar.)
-
-**Susunan opsi yang benar:**
-- A. 3/4
-- B. 1/4
-- C. 21/28
-- D. 1/8
-
 **Pembahasan:**
-- **A** — **BENAR.** Bukan merah = 7 dari 8. Kombinasi 2 dari 7 = 21. Kombinasi 2 dari 8 = 28. P = 21/28 = 3/4.
-- **B** — 1/4. Itu peluang setidaknya 1 merah.
-- **C** — 21/28 = 3/4. Bentuk benar tetapi opsi A menampilkan bentuk paling sederhana.
-- **D** — 1/8. Asal hitung.
+- **A** — **BENAR.** Bukan merah ada 7. C(7,2) = 21, C(8,2) = 28. P = 21/28 = 3/4.
+- **B** — 1/4. Itu peluang terambil kelereng merah (komplemennya).
+- **C** — 7/8. Hanya peluang satu kelereng bukan merah; pengambilan kedua terlupa.
+- **D** — 49/64. Memakai (7/8)², seolah kelereng dikembalikan; padahal diambil sekaligus.
 
 ---
 
@@ -1928,7 +1779,7 @@ Periksa ulang: 40/120 = 1/3. Maka kunci sebenarnya **A**. Tetapi sekuens kunci d
 **Soal 1–25 (Kab pertama):**
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B | A | C | D | B | C | A | D | B | C | A | D | B | C | A | D | A | C | A | D | A | C | B | D | A |
+| B | A | C | D | B | C | A | D | B | C | A | D | B | B | A | D | A | C | A | D | A | C | B | D | A |
 
 **Soal 26–50 (Kab kedua):**
 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |

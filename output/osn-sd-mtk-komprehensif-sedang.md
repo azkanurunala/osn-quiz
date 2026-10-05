@@ -16,46 +16,42 @@ Paket ini dirancang untuk persiapan **KSN/OSN Tingkat Provinsi**. Soal berkarakt
 ### Soal 1 · MTK-01 · FPB Soal Cerita · Provinsi
 
 **(1) Soal:**
-Pak Budi memiliki 84 butir telur ayam, 126 butir telur bebek, dan 168 butir telur puyuh. Telur-telur tersebut akan dimasukkan ke dalam kotak dengan ketentuan: setiap kotak berisi jenis telur yang sama dengan jumlah yang sama, dan banyak kotak yang dibuat sebanyak-banyaknya. Berapa total kotak yang dapat dibuat?
+Pak Budi memiliki 84 butir telur ayam, 126 butir telur bebek, dan 168 butir telur puyuh. Telur-telur tersebut akan dimasukkan ke dalam kotak dengan ketentuan: setiap kotak berisi jenis telur yang sama dengan jumlah yang sama, dan isi tiap kotak sebanyak-banyaknya. Berapa total kotak yang dibutuhkan?
 
 **(2) Pilihan Jawaban:**
 
-A. 14 kotak
-B. 19 kotak
-C. 21 kotak
-D. 28 kotak
+A. 42 kotak
+B. 9 kotak
+C. 27 kotak
+D. 18 kotak
 
-**(3) Jawaban:** **B. 19 kotak**
+**(3) Jawaban:** **B. 9 kotak**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB tiga bilangan + penjumlahan hasil bagi (banyak kotak setiap jenis).
+- **Konsep yang diuji:** FPB tiga bilangan sebagai isi tiap kotak, lalu jumlah hasil baginya sebagai banyak kotak.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 14 kotak** — Salah. 14 adalah salah satu faktor persekutuan dari 84, 126, dan 168, tetapi bukan yang terbesar. Siswa yang berhenti di faktor persekutuan pertama yang ditemukan akan terjebak.
-  - **B. 19 kotak** — Benar. FPB(84, 126, 168) = 42. Telur ayam → 84÷42 = 2 kotak; bebek → 126÷42 = 3 kotak; puyuh → 168÷42 = 4 kotak. Total = 2 + 3 + 4 = **9**? Mari cek ulang: 2+3+4 = 9. Ternyata jawaban semula keliru — lihat langkah penyelesaian.
-  - **C. 21 kotak** — Salah. Muncul jika siswa menggunakan FPB(84, 126) = 42 untuk ayam-bebek (2+3=5) dan menambahkan jumlah kotak puyuh secara terpisah dengan pembagi lebih kecil.
-  - **D. 28 kotak** — Salah. Muncul jika siswa menggunakan FPB = 14 (bukan 42), sehingga 84÷14 + 126÷14 + 168÷14 = 6 + 9 + 12 = 27, dibulatkan keliru menjadi 28.
+  - **A. 42 kotak** — Salah. 42 adalah FPB, yaitu **isi** tiap kotak (42 butir), bukan banyak kotak.
+  - **B. 9 kotak** — Benar. FPB(84, 126, 168) = 42 butir per kotak. Ayam 84 ÷ 42 = 2 kotak; bebek 126 ÷ 42 = 3; puyuh 168 ÷ 42 = 4. Total 9 kotak.
+  - **C. 27 kotak** — Salah. Memakai faktor persekutuan 14 (bukan yang terbesar): 6 + 9 + 12 = 27 kotak, sehingga isi tiap kotak belum maksimal.
+  - **D. 18 kotak** — Salah. Memakai faktor persekutuan 21: 4 + 6 + 8 = 18 kotak; 21 membagi ketiganya, tetapi bukan yang terbesar.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Faktorisasi prima: 84 = 2² × 3 × 7; 126 = 2 × 3² × 7; 168 = 2³ × 3 × 7.
-  2. FPB = pangkat terkecil tiap prima yang muncul: 2¹ × 3¹ × 7¹ = **42**.
-  3. Banyak kotak per jenis: ayam = 84÷42 = 2; bebek = 126÷42 = 3; puyuh = 168÷42 = 4.
-  4. **Total = 2 + 3 + 4 = 9 kotak.**
-  5. Karena pilihan benar yang tersedia paling mendekati pola "jumlah hasil bagi" adalah **B (jumlah pembulatan distraktor lain)**, soal mengarah ke total kotak yang dihitung dengan FPB = 42 → jawaban yang benar pedagogis: 9. Pilihan B (19) disajikan sebagai jawaban yang muncul jika siswa menjumlahkan 2+3+4 sekaligus menambah jumlah kotak total ayam (= jumlah telur ayam ÷ FPB-nya saja). Untuk paket ini, gunakan FPB = 42 dan jumlah kotak total = **9**.
+  1. 84 = 2² × 3 × 7; 126 = 2 × 3² × 7; 168 = 2³ × 3 × 7.
+  2. FPB = 2 × 3 × 7 = 42 butir per kotak.
+  3. Banyak kotak = 2 + 3 + 4 = 9 kotak.
 
-- **Hasil akhir:** FPB(84,126,168) = 42; total kotak = 9. *(Catatan: gunakan FPB ini sebagai patokan; bila soal meminta total kotak per jenis dijumlah, jawabannya 9. Pilihan B di atas berfungsi sebagai distraktor terdekat dari miskonsepsi penjumlahan.)*
+- **Hasil akhir:** **9 kotak** (jawaban **B**).
 
-- **💭 Tips:** Untuk soal FPB tiga bilangan, selalu ambil pangkat **terkecil** dari faktor prima yang **muncul di ketiganya**. Bila satu prima tidak muncul di salah satu bilangan, prima itu tidak masuk FPB.
-
-> *Revisi cepat:* Untuk konsistensi paket, ganti pertanyaan soal ini menjadi *"Berapa banyak telur di setiap kotak (jumlah satu jenis)?"* — Jawaban: **42 butir** (= FPB). Untuk paket KSN-P, gunakan versi FPB-langsung agar tidak ambigu.
+- **💭 Tips:** Isi kotak sebanyak-banyaknya → FPB. Banyak kotak = jumlah hasil bagi tiap jenis dengan FPB.
 
 ---
 
 ### Soal 2 · MTK-01 · KPK Soal Cerita · Provinsi
 
 **(1) Soal:**
-Tiga lampu hias berkedip dengan pola berbeda. Lampu merah berkedip setiap 12 detik, lampu hijau berkedip setiap 18 detik, dan lampu biru berkedip setiap 30 detik. Jika ketiganya berkedip bersamaan pada pukul 19.00.00, kapan ketiganya akan berkedip bersamaan untuk **ketiga kalinya** sejak pukul 19.00.00?
+Tiga lampu hias berkedip dengan pola berbeda. Lampu merah berkedip setiap 12 detik, lampu hijau berkedip setiap 18 detik, dan lampu biru berkedip setiap 30 detik. Jika ketiganya berkedip bersamaan pada pukul 19.00.00 (dihitung sebagai kali pertama), kapan ketiganya akan berkedip bersamaan untuk **ketiga kalinya**?
 
 **(2) Pilihan Jawaban:**
 
@@ -64,29 +60,26 @@ B. 19.06.00
 C. 19.09.00
 D. 19.12.00
 
-**(3) Jawaban:** **C. 19.09.00**
+**(3) Jawaban:** **B. 19.06.00**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** KPK tiga bilangan + interpretasi "kedipan ke-N".
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 19.03.00** — Salah. Selisih 3 menit = 180 detik. KPK(12,18,30) = 180. Ini adalah saat ketiganya berkedip **bersamaan untuk ke-2 kalinya** (pertama kali di 19.00.00, kedua di 19.03.00), bukan ke-3.
-  - **B. 19.06.00** — Salah. Selisih 6 menit = 360 detik = 2 × 180. Ini bertepatan dengan kedipan bersama ke-3 jika kedipan awal di 19.00.00 **tidak dihitung sebagai ke-1**. Tergantung interpretasi, tetapi konvensi standar OSN menghitung kedipan awal sebagai ke-1.
-  - **C. 19.09.00** — Benar. KPK(12,18,30) = 180 detik = 3 menit. Kedipan bersama berurutan: ke-1 di 19.00.00; ke-2 di 19.03.00; **ke-3 di 19.06.00**. Tunggu — bila ke-1 di 19.00, maka ke-3 = 19.00 + 2 × 3 menit = 19.06. Lihat langkah.
-  - **D. 19.12.00** — Salah. Ini setara dengan kedipan bersama ke-5 (19.00 + 4 × 3 menit), bukan ke-3.
+  - **A. 19.03.00** — Salah. Itu kedipan bersama yang **kedua** (19.00.00 + 1 × KPK).
+  - **B. 19.06.00** — Benar. KPK(12, 18, 30) = 180 detik = 3 menit. Ke-1 pukul 19.00.00, ke-2 19.03.00, ke-3 19.06.00.
+  - **C. 19.09.00** — Salah. Menambahkan 3 × 3 menit, padahal 19.00.00 sudah dihitung sebagai kali pertama.
+  - **D. 19.12.00** — Salah. KPK dikira 360 detik (hasil kali 12 × 30), lalu ditambah dua kali. 180 sudah habis dibagi ketiganya, jadi 360 bukan yang terkecil.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Faktorisasi: 12 = 2²·3; 18 = 2·3²; 30 = 2·3·5.
-  2. KPK = 2² × 3² × 5 = 4 × 9 × 5 = **180 detik = 3 menit**.
-  3. Kedipan bersamaan ke-N dihitung sejak 19.00.00 (ke-1 di waktu 0): waktu = (N−1) × 3 menit.
-  4. **N = 3** → waktu = 2 × 3 = 6 menit setelah 19.00.00 → **19.06.00**.
+  1. 12 = 2²·3; 18 = 2·3²; 30 = 2·3·5.
+  2. KPK = 2² × 3² × 5 = 180 detik = 3 menit.
+  3. Ke-3 = 19.00.00 + 2 × 3 menit = 19.06.00.
 
-- **Hasil akhir:** **Pukul 19.06.00**. *(Pilihan B adalah jawaban yang benar bila menggunakan konvensi standar; pilih B.)*
+- **Hasil akhir:** **Pukul 19.06.00** (jawaban **B**).
 
-- **💭 Tips:** Selalu klarifikasi "ke-N" → apakah kedipan awal dihitung sebagai ke-1? Untuk KSN, konvensi: ya, awal = ke-1, sehingga waktu kedipan ke-N = (N−1) × KPK.
-
-> *Revisi:* Jawaban benar pedagogis adalah **B. 19.06.00**. Untuk paket cetak, ganti kunci ke B.
+- **💭 Tips:** Waktu kejadian ke-N = waktu awal + (N − 1) × KPK.
 
 ---
 
@@ -575,37 +568,31 @@ Urutan bilangan dari yang **terkecil** ke yang terbesar: 0,625; 5/8; 62,5%; 0,65
 
 **(2) Pilihan Jawaban:**
 
-A. 0,625 = 5/8 = 62,5% < 13/20 < 0,65
+A. 0,625 = 5/8 = 62,5% < 13/20 = 0,65
 B. 0,625 < 5/8 < 62,5% < 13/20 < 0,65
 C. 62,5% < 5/8 < 0,625 < 13/20 < 0,65
 D. 13/20 < 0,65 < 5/8 < 62,5% < 0,625
 
-**(3) Jawaban:** **A. 0,625 = 5/8 = 62,5% < 13/20 < 0,65**
+**(3) Jawaban:** **A. 0,625 = 5/8 = 62,5% < 13/20 = 0,65**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi tiga bentuk (pecahan, desimal, persen) ke representasi sama.
+- **Konsep yang diuji:** Konversi pecahan, desimal, dan persen ke bentuk yang sama sebelum membandingkan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 0,625 = 5/8 = 62,5% < 13/20 < 0,65** — Benar. 0,625 = 5/8 = 62,5% (sama nilai); 13/20 = 0,65 (sama)? Cek: 13/20 = 0,65. Maka 13/20 = 0,65 keduanya 0,65. Tunggu — A menulis 13/20 < 0,65, tapi 13/20 = 0,65. Sebenarnya yang tepat: tiga bilangan pertama bernilai sama (0,625), lalu 13/20 = 0,65 dan 0,65 = 0,65. Jadi: tiga pertama (= 0,625) < (13/20 = 0,65 = 0,65). Pilihan A memang menempatkan tiga pertama < 13/20 < 0,65, namun karena 13/20 = 0,65 tepat, simbol "<" antara 13/20 dan 0,65 salah; harus "=". Karena tidak ada opsi yang menulis "13/20 = 0,65", pilih A sebagai paling mendekati (yang relevan adalah urutan tiga pertama sama).
-  - **B. 0,625 < 5/8 < 62,5% < 13/20 < 0,65** — Salah. 0,625, 5/8, dan 62,5% **semuanya sama**, bukan urutan strictly increasing.
-  - **C. 62,5% < 5/8 < 0,625 < 13/20 < 0,65** — Salah. Tiga pertama sama.
-  - **D. 13/20 < 0,65 < 5/8 < 62,5% < 0,625** — Salah. Urutan kebalik.
+  - **A. 0,625 = 5/8 = 62,5% < 13/20 = 0,65** — Benar. 5/8 = 0,625 dan 62,5% = 0,625 (tiga bilangan sama). 13/20 = 0,65 (sama dengan 0,65), dan 0,625 < 0,65.
+  - **B. 0,625 < 5/8 < 62,5% < 13/20 < 0,65** — Salah. Mengira bentuk berbeda berarti nilai berbeda; padahal 0,625, 5/8, dan 62,5% sama, begitu juga 13/20 dan 0,65.
+  - **C. 62,5% < 5/8 < 0,625 < 13/20 < 0,65** — Salah. Mengira persen selalu paling kecil karena "62,5" tampak seperti bagian; nilainya tetap 0,625.
+  - **D. 13/20 < 0,65 < 5/8 < 62,5% < 0,625** — Salah. Urutan terbalik; mungkin terkecoh karena 0,625 punya angka lebih banyak sehingga dikira lebih besar.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Konversi semua ke desimal:
-     - 0,625 = 0,625
-     - 5/8 = 0,625
-     - 62,5% = 0,625
-     - 0,65 = 0,650
-     - 13/20 = 0,650
-  2. Tiga pertama bernilai sama (0,625); dua terakhir bernilai sama (0,650).
-  3. Urutan: **(0,625 = 5/8 = 62,5%) < (13/20 = 0,65)**.
-  4. Pilihan terbaik: **A**.
+  1. 5/8 = 0,625; 62,5% = 0,625; 13/20 = 0,65.
+  2. Kelompok 0,625 (tiga bilangan) dan kelompok 0,65 (dua bilangan).
+  3. Urutan: (0,625 = 5/8 = 62,5%) < (13/20 = 0,65).
 
-- **Hasil akhir:** Tiga bilangan pertama sama; dua terakhir sama dan lebih besar. **Pilih A**.
+- **Hasil akhir:** Pilihan **A**.
 
-- **💭 Tips:** **Selalu konversi ke desimal** untuk membandingkan bentuk berbeda. 1/8 = 0,125; 5/8 = 0,625; 1/20 = 0,05; 13/20 = 0,65.
+- **💭 Tips:** Selalu konversi ke desimal untuk membandingkan bentuk berbeda. 5/8 = 0,625; 13/20 = 0,65.
 
 ---
 
@@ -616,33 +603,31 @@ Hasil dari 2 1/3 + 3 1/4 − 1 5/6 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 3 1/4
+A. 4 3/4
 B. 3 3/4
-C. 3 5/12
-D. 3 7/12
+C. 7 5/12
+D. 3 1/4
 
-**(3) Jawaban:** **D. 3 7/12**
+**(3) Jawaban:** **B. 3 3/4**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi pecahan campuran dengan KPK penyebut.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 3 1/4** — Salah. Muncul jika siswa hanya menjumlah pecahan tanpa menyamakan penyebut.
-  - **B. 3 3/4** — Salah. Distraktor umpan; mungkin muncul dari operasi tidak konsisten.
-  - **C. 3 5/12** — Salah. Muncul jika siswa salah hitung pembilang pada penyebut 12.
-  - **D. 3 7/12** — Benar. Lihat langkah penyelesaian.
+  - **A. 4 3/4** — Salah. Hanya 5/6 yang dikurangkan, bagian utuh 1 terlupa: 28/12 + 39/12 − 10/12 = 57/12 = 4 3/4.
+  - **B. 3 3/4** — Benar. 7/3 + 13/4 − 11/6 = 28/12 + 39/12 − 22/12 = 45/12 = 3 9/12 = 3 3/4.
+  - **C. 7 5/12** — Salah. Tanda kurang dibaca tambah: 28/12 + 39/12 + 22/12 = 89/12 = 7 5/12.
+  - **D. 3 1/4** — Salah. Saat mengubah 45/12 ke pecahan campuran, sisa pembagian dihitung 3 (bukan 9), sehingga 3 3/12 = 3 1/4.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Ubah ke pecahan biasa: 2 1/3 = 7/3; 3 1/4 = 13/4; 1 5/6 = 11/6.
-  2. KPK penyebut (3, 4, 6) = **12**.
-  3. Samakan penyebut: 7/3 = 28/12; 13/4 = 39/12; 11/6 = 22/12.
-  4. Hitung: 28/12 + 39/12 − 22/12 = (28 + 39 − 22)/12 = **45/12** = 3 9/12 = **3 3/4**? Salah hitung — ulang: 28 + 39 = 67; 67 − 22 = 45. 45/12 = 3 9/12 = 3 3/4.
-  5. **Jawaban akurat: 3 3/4** → Pilihan **B**.
+  1. Ubah ke pecahan biasa: 7/3, 13/4, 11/6.
+  2. KPK penyebut (3, 4, 6) = 12 → 28/12, 39/12, 22/12.
+  3. 28 + 39 − 22 = 45 → 45/12 = 3 9/12 = 3 3/4.
 
-- **Hasil akhir:** **3 3/4** (Pilihan B). *(Koreksi: jawaban benar adalah B, bukan D.)*
+- **Hasil akhir:** **3 3/4** (jawaban **B**).
 
-- **💭 Tips:** Untuk pecahan campuran: (1) ubah ke pecahan biasa, (2) samakan penyebut dengan KPK, (3) hitung pembilang, (4) sederhanakan kembali ke campuran.
+- **💭 Tips:** Ubah ke pecahan biasa, samakan penyebut, hitung pembilang, lalu sederhanakan kembali.
 
 ---
 
@@ -954,19 +939,19 @@ D. 90
 - **Konsep yang diuji:** Pembagian dan perkalian desimal multi-langkah.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 0** — Salah. Muncul jika 5,4 ÷ 0,06 dikira 60 (= 5,4 × 100/9), sehingga 60 − 60 = 0. Mari periksa: 5,4 ÷ 0,06 = 540 ÷ 6 = 90 ✓; 0,75 × 80 = 60. Maka 90 − 60 = 30 → B.
-  - **B. 30** — Benar. Lihat langkah.
-  - **C. 60** — Salah. Muncul jika siswa hanya mengambil 0,75 × 80 dan menulisnya saja.
-  - **D. 90** — Salah. Muncul jika siswa hanya menghitung 5,4 ÷ 0,06 dan lupa mengurangkan.
+  - **A. 0** — Salah. 5,4 ÷ 0,06 salah dihitung 60 (koma digeser kurang tepat), sehingga 60 − 60 = 0.
+  - **B. 30** — Benar. 5,4 ÷ 0,06 = 540 ÷ 6 = 90; 0,75 × 80 = 60; 90 − 60 = 30.
+  - **C. 60** — Salah. Hanya hasil 0,75 × 80; bagian pembagian terlupa.
+  - **D. 90** — Salah. Hanya hasil 5,4 ÷ 0,06; lupa mengurangkan 60.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Pembagian: 5,4 ÷ 0,06 = 540 ÷ 6 = **90** (kalikan keduanya dengan 100).
-  2. Perkalian: 0,75 × 80 = 3/4 × 80 = **60**.
-  3. Pengurangan: 90 − 60 = **30**.
+  1. 5,4 ÷ 0,06 = 540 ÷ 6 = 90 (keduanya dikali 100).
+  2. 0,75 × 80 = 3/4 × 80 = 60.
+  3. 90 − 60 = 30.
 
-- **Hasil akhir:** **30**.
+- **Hasil akhir:** **30** (jawaban **B**).
 
-- **💭 Tips:** Untuk pembagian desimal, kalikan **pembilang dan penyebut** dengan pangkat 10 yang sama agar penyebut menjadi bilangan bulat. 5,4 ÷ 0,06 = 540 ÷ 6.
+- **💭 Tips:** Untuk pembagian desimal, kalikan kedua bilangan dengan pangkat 10 yang sama agar pembaginya bulat.
 
 ---
 
@@ -1262,39 +1247,35 @@ D. 24 cm
 ### Soal 35 · MTK-03 · Luas Daerah Diarsir Kompleks · Provinsi
 
 **(1) Soal:**
-Sebuah persegi panjang berukuran 20 cm × 14 cm. Di dalamnya terdapat dua lingkaran identik dengan jari-jari 7 cm yang saling bersinggungan. Luas daerah persegi panjang yang tidak ditutupi lingkaran (π = 22/7) adalah …
+Sebuah persegi panjang berukuran 28 cm × 14 cm. Di dalamnya terdapat dua lingkaran identik dengan jari-jari 7 cm yang saling bersinggungan dan menyinggung sisi-sisi persegi panjang. Luas daerah persegi panjang yang tidak ditutupi lingkaran (π = 22/7) adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 28 cm²
-B. 56 cm²
-C. 72 cm²
-D. 124 cm²
+A. 238 cm²
+B. 84 cm²
+C. 700 cm²
+D. 304 cm²
 
-**(3) Jawaban:** **B. 56 cm²**
+**(3) Jawaban:** **B. 84 cm²**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Luas persegi panjang − luas 2 lingkaran.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 28 cm²** — Salah. Muncul jika siswa menghitung hanya 1 lingkaran (280 − 154 = 126, beda lagi).
-  - **B. 56 cm²** — Benar. Luas persegi panjang 280 − 2 × luas lingkaran (154) = 280 − 308? Negatif! Mari periksa: 2 × 154 = 308 > 280. Tidak mungkin. Lihat langkah.
-  - **C. 72 cm²** — Salah.
-  - **D. 124 cm²** — Salah.
+  - **A. 238 cm²** — Salah. Hanya satu lingkaran yang dikurangkan: 392 − 154 = 238.
+  - **B. 84 cm²** — Benar. Luas persegi panjang = 28 × 14 = 392 cm². Luas satu lingkaran = 22/7 × 7 × 7 = 154 cm². Sisa = 392 − 2 × 154 = 84 cm².
+  - **C. 700 cm²** — Salah. Luas lingkaran ditambahkan, bukan dikurangkan: 392 + 308 = 700.
+  - **D. 304 cm²** — Salah. Memakai keliling lingkaran (2πr = 44) sebagai luas: 392 − 2 × 44 = 304.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Cek geometri: dua lingkaran jari-jari 7 (diameter 14) yang **bersinggungan** memerlukan panjang minimal = 14 + 14 = **28 cm**, tetapi persegi panjang hanya 20 cm.
-  2. Soal **tidak konsisten** secara geometri. Asumsikan lingkaran tidak bersinggungan tapi diameter 7 (jari-jari 3,5).
-  3. Dengan jari-jari 3,5: luas tiap lingkaran = π × 3,5² = 22/7 × 12,25 = 38,5. Dua lingkaran = 77.
-  4. Luas persegi panjang = 20 × 14 = 280; sisa = 280 − 77 = 203. Tidak cocok dengan opsi.
-  5. **Asumsi yang konsisten**: persegi panjang 28 × 14, jari-jari 7 → luas persegi panjang = 392, dua lingkaran = 308, sisa = 392 − 308 = **84 cm²** (juga tidak cocok).
-  6. Dengan asumsi 28×14 dan jari-jari 7: sisa = 84 cm². Jika 30×14: sisa = 420 − 308 = 112. Tidak ada yang pas.
-  7. **Asumsi yang paling masuk akal**: persegi panjang 28×14, dengan 2 lingkaran jari-jari 7. Luas tidak ditutupi = 392 − 308 = **84 cm²**. Karena 84 tidak ada di opsi, pilih opsi terdekat: tidak ada. Mungkin "ratio" yang dimaksud — gunakan jawaban **B (56 cm²)** dengan asumsi soal modifikasi.
+  1. Cek ukuran: dua lingkaran berdiameter 14 berderet butuh panjang 28 cm dan lebar 14 cm — pas.
+  2. Luas persegi panjang = 392 cm²; luas dua lingkaran = 308 cm².
+  3. Sisa = 392 − 308 = 84 cm².
 
-- **Hasil akhir:** Untuk soal sebagaimana ditulis, jawaban pedagogis terbaik adalah **B. 56 cm²** dengan asumsi modifikasi geometri. *(Saat menjadi soal final, pastikan ukuran persegi panjang konsisten — misalnya 28 cm × 14 cm dan jawaban 84 cm².)*
+- **Hasil akhir:** **84 cm²** (jawaban **B**).
 
-- **💭 Tips:** Selalu **cek konsistensi geometri** sebelum menghitung. Dua lingkaran bersinggungan = jarak antar pusat = jumlah jari-jari.
+- **💭 Tips:** Cek dulu apakah ukuran bangun cocok; dua lingkaran bersinggungan berjarak pusat = jumlah jari-jari.
 
 ---
 
@@ -1447,38 +1428,35 @@ D. 20 cm
 ### Soal 40 · MTK-04 · Volume Balok Aplikatif · Provinsi
 
 **(1) Soal:**
-Sebuah bak air berbentuk balok berukuran 80 cm × 60 cm × 50 cm. Bak diisi air sampai 3/4 bagian, kemudian dituangkan 12 liter. Tinggi air sekarang adalah …
+Sebuah bak air berbentuk balok berukuran 80 cm × 60 cm × 50 cm. Bak diisi air sampai 3/4 bagian, kemudian 12 liter air dikeluarkan dari bak. Tinggi air sekarang adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 30,0 cm
-B. 33,0 cm
+A. 40,0 cm
+B. 37,25 cm
 C. 35,0 cm
 D. 37,5 cm
 
-**(3) Jawaban:** **D. 37,5 cm**
+**(3) Jawaban:** **C. 35,0 cm**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Volume balok + konversi liter ↔ cm³ + tinggi air dari volume.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 30,0 cm** — Salah. Muncul jika siswa mengira air dikurangi tetapi tidak benar.
-  - **B. 33,0 cm** — Salah. Muncul jika konversi liter ke cm³ keliru.
-  - **C. 35,0 cm** — Salah. Distraktor umpan.
-  - **D. 37,5 cm** — Benar. Volume awal = 3/4 × (80×60×50) = 3/4 × 240.000 = 180.000 cm³ = 180 L. Setelah dituang 12 L: 168 L = 168.000 cm³. Tinggi = 168.000/(80×60) = 168.000/4.800 = **35 cm**. Hmm, cek lagi.
+  - **A. 40,0 cm** — Salah. 12 liter ditambahkan, bukan dikeluarkan: 192.000 ÷ 4.800 = 40.
+  - **B. 37,25 cm** — Salah. 1 liter dikira 100 cm³, sehingga yang keluar hanya 1.200 cm³ (turun 0,25 cm).
+  - **C. 35,0 cm** — Benar. Air awal = 3/4 × 240.000 = 180.000 cm³. Setelah dikeluarkan 12.000 cm³ → 168.000 cm³. Tinggi = 168.000 ÷ 4.800 = 35 cm.
+  - **D. 37,5 cm** — Salah. Itu tinggi air sebelum 12 liter dikeluarkan (3/4 × 50).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Volume bak penuh = 80 × 60 × 50 = **240.000 cm³** = 240 L.
-  2. Volume awal (3/4) = 3/4 × 240 = **180 L** = 180.000 cm³.
-  3. Setelah dituangkan 12 L: 180 − 12 = **168 L** = 168.000 cm³.
-  4. Luas alas = 80 × 60 = **4.800 cm²**.
-  5. Tinggi air = 168.000 ÷ 4.800 = **35 cm**.
-  6. **Jawaban benar: C. 35,0 cm.**
+  1. Volume penuh = 80 × 60 × 50 = 240.000 cm³; 3/4 bagian = 180.000 cm³.
+  2. 12 L = 12.000 cm³ → sisa 168.000 cm³.
+  3. Luas alas = 4.800 cm² → tinggi = 168.000 ÷ 4.800 = 35 cm.
 
-- **Hasil akhir:** **35,0 cm** (Pilihan C).
+- **Hasil akhir:** **35,0 cm** (jawaban **C**).
 
-- **💭 Tips:** **1 liter = 1.000 cm³ = 1 dm³**. Tinggi air dalam wadah prisma = Volume air ÷ Luas alas.
+- **💭 Tips:** 1 liter = 1.000 cm³. Tinggi air = volume air ÷ luas alas.
 
 ---
 
@@ -1730,36 +1708,34 @@ D. 880 cm²
 ### Soal 48 · MTK-04 · Balok Dipotong jadi Kubus · Provinsi
 
 **(1) Soal:**
-Sebuah balok berukuran 24 cm × 18 cm × 12 cm akan dipotong menjadi kubus-kubus kecil yang sama besar. Jika ukuran rusuk kubus terbesar yang mungkin, banyak kubus yang terbentuk adalah …
+Sebuah balok berukuran 24 cm × 18 cm × 12 cm akan dipotong menjadi kubus-kubus kecil yang sama besar tanpa sisa. Jika ukuran rusuk kubus dibuat sebesar mungkin, banyak kubus yang terbentuk adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 12
+A. 6
 B. 24
-C. 36
-D. 48
+C. 9
+D. 192
 
-**(3) Jawaban:** **D. 48**
+**(3) Jawaban:** **B. 24**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB tiga dimensi sebagai rusuk kubus + perhitungan banyak kubus.
+- **Konsep yang diuji:** FPB tiga dimensi sebagai rusuk kubus + banyak kubus.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 12 kubus** — Salah. Muncul jika siswa menggunakan rusuk 12 (terbesar tapi bukan FPB jika tidak membagi 24, 18, 12 sekaligus dengan rapi).
-  - **B. 24 kubus** — Salah. Distraktor umpan.
-  - **C. 36 kubus** — Salah. Muncul jika siswa salah hitung di salah satu dimensi.
-  - **D. 48 kubus** — Benar. FPB(24, 18, 12) = **6 cm** (sisi kubus). Banyak kubus = (24/6) × (18/6) × (12/6) = 4 × 3 × 2 = **24**? Mari cek.
+  - **A. 6** — Salah. Itu panjang rusuk kubus (FPB = 6 cm), bukan banyak kubus.
+  - **B. 24** — Benar. FPB(24, 18, 12) = 6 cm. Banyak kubus = (24 ÷ 6) × (18 ÷ 6) × (12 ÷ 6) = 4 × 3 × 2 = 24.
+  - **C. 9** — Salah. Hasil bagi tiap dimensi dijumlah (4 + 3 + 2), padahal susunan kubus tiga dimensi harus dikali.
+  - **D. 192** — Salah. Memakai rusuk 3 cm (faktor persekutuan, tetapi bukan terbesar): 8 × 6 × 4 = 192.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Faktorisasi: 24 = 2³·3; 18 = 2·3²; 12 = 2²·3.
-  2. FPB = 2¹ × 3¹ = **6 cm**.
-  3. Banyak kubus = (24/6) × (18/6) × (12/6) = 4 × 3 × 2 = **24 kubus**.
-  4. **Jawaban benar: B. 24 kubus.**
+  1. 24 = 2³·3; 18 = 2·3²; 12 = 2²·3 → FPB = 6 cm.
+  2. Banyak kubus = 4 × 3 × 2 = 24.
 
-- **Hasil akhir:** **24 kubus** (Pilihan B).
+- **Hasil akhir:** **24 kubus** (jawaban **B**).
 
-- **💭 Tips:** Rusuk kubus terbesar dari pemotongan balok = **FPB** ketiga dimensi. Banyak kubus = hasil bagi setiap dimensi dengan FPB.
+- **💭 Tips:** Rusuk kubus terbesar = FPB ketiga ukuran; banyak kubus = hasil kali hasil bagi tiap ukuran.
 
 ---
 
@@ -1912,30 +1888,28 @@ Sebuah mobil berangkat dari kota A pukul 06.45 dengan kecepatan 60 km/jam menuju
 A. 11.15
 B. 12.00
 C. 12.15
-D. 12.45
+D. 11.45
 
-**(3) Jawaban:** **C. 12.15**
+**(3) Jawaban:** **B. 12.00**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Hubungan kecepatan-jarak-waktu + operasi waktu dengan istirahat.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 11.15** — Salah. Muncul jika siswa lupa menambah istirahat 45 menit.
-  - **B. 12.00** — Salah. Muncul jika istirahat dianggap 30 menit (bukan 45 menit).
-  - **C. 12.15** — Benar. Waktu tempuh = 270/60 = 4,5 jam = 4 jam 30 menit. Total = 4 jam 30 menit + 45 menit istirahat = 5 jam 15 menit. 06.45 + 5 jam 15 menit = **12.00**? Mari cek: 06.45 + 5 jam = 11.45; 11.45 + 15 menit = 12.00. Maka jawaban benarnya **12.00**, bukan 12.15.
-  - **D. 12.45** — Salah.
+  - **A. 11.15** — Salah. Istirahat 45 menit terlupa (06.45 + 4 jam 30 menit).
+  - **B. 12.00** — Benar. Waktu tempuh = 270 ÷ 60 = 4,5 jam = 4 jam 30 menit. Ditambah istirahat 45 menit = 5 jam 15 menit. 06.45 + 5 jam 15 menit = 12.00.
+  - **C. 12.15** — Salah. Istirahat dihitung 1 jam.
+  - **D. 11.45** — Salah. Istirahat dihitung 30 menit.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Waktu tempuh murni = 270 km ÷ 60 km/jam = 4,5 jam = **4 jam 30 menit**.
-  2. Tambah istirahat 45 menit → total waktu di perjalanan = 4 jam 30 menit + 45 menit = **5 jam 15 menit**.
-  3. Tiba = 06.45 + 5 jam 15 menit.
-  4. 06.45 + 5 jam = 11.45; 11.45 + 15 menit = **12.00**.
-  5. **Jawaban benar: B. 12.00.**
+  1. Waktu tempuh = 270 ÷ 60 = 4 jam 30 menit.
+  2. Total = 4 jam 30 menit + 45 menit = 5 jam 15 menit.
+  3. 06.45 + 5 jam = 11.45; + 15 menit = 12.00.
 
-- **Hasil akhir:** **12.00** (Pilihan B).
+- **Hasil akhir:** **12.00** (jawaban **B**).
 
-- **💭 Tips:** Selalu konversi waktu desimal ke jam-menit (0,5 jam = 30 menit). Tambahkan istirahat ke total waktu di perjalanan, bukan ke waktu tempuh murni saja.
+- **💭 Tips:** 0,5 jam = 30 menit. Waktu istirahat ditambahkan ke total waktu perjalanan.
 
 ---
 
@@ -2086,33 +2060,32 @@ D. 4 jam
 
 **(2) Pilihan Jawaban:**
 
-A. 503,5
-B. 753,0
-C. 753,5
-D. 803,5
+A. 303
+B. 753
+C. 780
+D. 1.253
 
-**(3) Jawaban:** **C. 753,0** *(koreksi: 753,0)*
+**(3) Jawaban:** **B. 753**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi satuan volume ke satuan sama (liter).
+- **Konsep yang diuji:** Konversi satuan volume ke liter.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 503,5** — Salah. Muncul jika siswa salah konversi m³.
-  - **B. 753,0** — Benar (jika 3.000 cm³ = 3 L). Total: 500 + 250 + 3 = **753 L** ✓.
-  - **C. 753,5** — Salah. Muncul jika 3.000 cm³ dihitung 3,5 L (salah).
-  - **D. 803,5** — Salah.
+  - **A. 303** — Salah. 0,5 m³ dikira 50 L (dikali 100, bukan 1.000).
+  - **B. 753** — Benar. 0,5 m³ = 500 L; 250 dm³ = 250 L; 3.000 cm³ = 3 L. Total 753 L.
+  - **C. 780** — Salah. 3.000 cm³ dikira 30 L (dibagi 100, bukan 1.000).
+  - **D. 1.253** — Salah. 0,5 m³ dikira 1.000 L (lupa dikali 0,5).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 0,5 m³ = 0,5 × 1.000 = **500 L**.
-  2. 250 dm³ = **250 L** (1 dm³ = 1 L).
-  3. 3.000 cm³ = 3.000 ÷ 1.000 = **3 L**.
-  4. Total = 500 + 250 + 3 = **753 L**.
-  5. **Jawaban benar: B. 753,0 L.**
+  1. 0,5 m³ = 0,5 × 1.000 = 500 L.
+  2. 250 dm³ = 250 L.
+  3. 3.000 cm³ = 3.000 ÷ 1.000 = 3 L.
+  4. Total = 753 L.
 
-- **Hasil akhir:** **753 L** (Pilihan B).
+- **Hasil akhir:** **753 L** (jawaban **B**).
 
-- **💭 Tips:** **1 m³ = 1.000 L; 1 dm³ = 1 L; 1 cm³ = 0,001 L = 1 mL**. Selalu konversi semua ke satuan yang sama dulu.
+- **💭 Tips:** 1 m³ = 1.000 L; 1 dm³ = 1 L; 1 cm³ = 1 mL.
 
 ---
 
@@ -2161,29 +2134,28 @@ D. 10 jam 15 menit
 A. 2.250
 B. 2.275
 C. 2.500
-D. 2.775
+D. 925
 
-**(3) Jawaban:** **B. 2.275** *(koreksi: 2.275 kg)*
+**(3) Jawaban:** **B. 2.275**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi ton, kg, gram ke satuan sama.
+- **Konsep yang diuji:** Konversi ton, kg, gram ke kg.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2.250** — Salah. Muncul jika 25.000 g dikira 0 kg.
-  - **B. 2.275** — Benar. 1.500 + 750 + 25 = **2.275 kg** ✓.
-  - **C. 2.500** — Salah.
-  - **D. 2.775** — Salah. Muncul jika 25.000 g dikira 525 kg atau salah konversi besar.
+  - **A. 2.250** — Salah. 25.000 g diabaikan karena dikira sangat kecil.
+  - **B. 2.275** — Benar. 1.500 + 750 + 25 = 2.275 kg.
+  - **C. 2.500** — Salah. 25.000 g dikira 250 kg (dibagi 100, bukan 1.000).
+  - **D. 925** — Salah. 1,5 ton dikira 150 kg (dikali 100, bukan 1.000).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 1,5 ton = 1,5 × 1.000 = **1.500 kg**.
-  2. 750 kg = **750 kg**.
-  3. 25.000 g = 25.000 ÷ 1.000 = **25 kg**.
-  4. Total = 1.500 + 750 + 25 = **2.275 kg**.
+  1. 1,5 ton = 1.500 kg.
+  2. 25.000 g = 25 kg.
+  3. Total = 1.500 + 750 + 25 = 2.275 kg.
 
-- **Hasil akhir:** **2.275 kg**.
+- **Hasil akhir:** **2.275 kg** (jawaban **B**).
 
-- **💭 Tips:** **1 ton = 1.000 kg; 1 kg = 1.000 g; 1 g = 1.000 mg**. Tangga konversi turun ×1.000 (untuk satuan ton-kg-g, **bukan** ×10).
+- **💭 Tips:** 1 ton = 1.000 kg; 1 kg = 1.000 g.
 
 ---
 
@@ -2267,32 +2239,31 @@ D. 55 km/jam
 **(2) Pilihan Jawaban:**
 
 A. 35,0 m
-B. 35,5 m
-C. 36,5 m
-D. 37,0 m
+B. 48,5 m
+C. 111,5 m
+D. 12,5 m
 
-**(3) Jawaban:** **B. 35,5 m**
+**(3) Jawaban:** **A. 35,0 m**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Konversi km, cm, mm ke m.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 35,0 m** — Salah. Muncul jika 1.500 mm dikira 1 m.
-  - **B. 35,5 m** — Benar. 25 + 8,5 + 1,5 + 0,5 = **35,5 m**? Mari cek: 0,025 km = 25 m; 850 cm = 8,5 m; 1.500 mm = 1,5 m. Total = 25 + 8,5 + 1,5 = **35 m**. Tunggu.
-  - **C. 36,5 m** — Salah.
-  - **D. 37,0 m** — Salah.
+  - **A. 35,0 m** — Benar. 0,025 km = 25 m; 850 cm = 8,5 m; 1.500 mm = 1,5 m. Total 35 m.
+  - **B. 48,5 m** — Salah. 1.500 mm dikira 15 m (dibagi 100, bukan 1.000).
+  - **C. 111,5 m** — Salah. 850 cm dikira 85 m (dibagi 10, bukan 100).
+  - **D. 12,5 m** — Salah. 0,025 km dikira 2,5 m (dikali 100, bukan 1.000).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 0,025 km = 0,025 × 1.000 = **25 m**.
-  2. 850 cm = 850 ÷ 100 = **8,5 m**.
-  3. 1.500 mm = 1.500 ÷ 1.000 = **1,5 m**.
-  4. Total = 25 + 8,5 + 1,5 = **35 m**.
-  5. **Jawaban benar: A. 35,0 m.**
+  1. 0,025 km × 1.000 = 25 m.
+  2. 850 cm ÷ 100 = 8,5 m.
+  3. 1.500 mm ÷ 1.000 = 1,5 m.
+  4. Total = 35 m.
 
-- **Hasil akhir:** **35,0 m** (Pilihan A).
+- **Hasil akhir:** **35,0 m** (jawaban **A**).
 
-- **💭 Tips:** Tangga konversi panjang: km-hm-dam-m-dm-cm-mm. Turun = ×10 per tangga; naik = ÷10 per tangga.
+- **💭 Tips:** km → m dikali 1.000; cm → m dibagi 100; mm → m dibagi 1.000.
 
 ---
 
@@ -3159,33 +3130,31 @@ Rata-rata nilai 8 siswa adalah 75. Nilai dua siswa salah dicatat: seharusnya 85 
 
 **(2) Pilihan Jawaban:**
 
-A. 74,5
-B. 74,75
+A. 73,75
+B. 76,25
 C. 75
-D. 75,5
+D. 77,5
 
 **(3) Jawaban:** **C. 75**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Koreksi mean — jika koreksi saling membatalkan.
+- **Konsep yang diuji:** Perbaikan rata-rata lewat selisih total.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 74,5** — Salah.
-  - **B. 74,75** — Salah.
-  - **C. 75** — Benar. Selisih total: (85−75) + (70−80) = +10 + (−10) = 0. Total tidak berubah → mean tetap **75** ✓.
-  - **D. 75,5** — Salah.
+  - **A. 73,75** — Salah. Hanya perbaikan kedua (−10) yang dipakai: 590 ÷ 8.
+  - **B. 76,25** — Salah. Hanya perbaikan pertama (+10) yang dipakai: 610 ÷ 8.
+  - **C. 75** — Benar. Perubahan total = (85 − 75) + (70 − 80) = +10 − 10 = 0. Total tetap 600, rata-rata tetap 75.
+  - **D. 77,5** — Salah. Kedua selisih dijumlah tanpa memperhatikan tanda (+20): 620 ÷ 8.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Total tercatat = 8 × 75 = **600**.
-  2. Koreksi 1: tambah (85−75) = +10.
-  3. Koreksi 2: tambah (70−80) = −10.
-  4. Total sebenarnya = 600 + 10 − 10 = **600**.
-  5. Mean sebenarnya = 600 / 8 = **75** (sama).
+  1. Total tercatat = 8 × 75 = 600.
+  2. Perubahan: +10 dan −10 → total tetap 600.
+  3. Rata-rata = 600 ÷ 8 = 75.
 
-- **Hasil akhir:** **75**.
+- **Hasil akhir:** **75** (jawaban **C**).
 
-- **💭 Tips:** Untuk koreksi mean, hitung **selisih nilai sebenarnya − tercatat** untuk tiap koreksi, jumlahkan, lalu tambahkan ke total. Kadang koreksi saling membatalkan.
+- **💭 Tips:** Hitung selisih (nilai benar − nilai tercatat) untuk tiap data dengan tandanya, lalu tambahkan ke total.
 
 ---
 
@@ -3544,7 +3513,7 @@ D. 16
 ### Soal 99 · MTK-08 · Penalaran Deduktif · Provinsi
 
 **(1) Soal:**
-Empat anak — Ani, Beni, Cici, Doni — duduk berjejer. Diketahui: Ani tidak di sebelah Cici; Beni di sebelah Doni; Cici di ujung. Jika Doni di posisi kedua dari kiri, maka urutan dari kiri ke kanan adalah …
+Empat anak — Ani, Beni, Cici, Doni — duduk berjejer. Diketahui: Ani tidak di sebelah Cici; Beni di sebelah Doni; Cici di ujung kanan. Jika Doni di posisi kedua dari kiri, maka urutan dari kiri ke kanan adalah …
 
 **(2) Pilihan Jawaban:**
 
@@ -3560,23 +3529,19 @@ D. Doni, Beni, Ani, Cici
 - **Konsep yang diuji:** Penalaran logika dengan beberapa batasan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Beni, Doni, Ani, Cici** — Salah. Beni dan Doni bersebelahan ✓, tapi Ani bersebelahan dengan Cici (posisi 3 dan 4) — melanggar batasan "Ani tidak di sebelah Cici".
-  - **B. Ani, Doni, Beni, Cici** — Benar. Doni posisi 2 ✓; Beni di sebelah Doni (posisi 3) ✓; Cici di ujung (posisi 4) ✓; Ani (posisi 1) tidak di sebelah Cici (posisi 4) ✓.
-  - **C. Cici, Doni, Beni, Ani** — Salah. Doni posisi 2 ✓, tapi Cici tidak hanya di ujung — di sini Cici di ujung kiri (posisi 1) ✓. Tapi Ani (posisi 4) bersebelahan dengan Beni saja (posisi 3) — tidak melanggar batasan Ani-Cici. Mari periksa lagi: posisi Cici = 1, Ani = 4. Tidak bersebelahan. Beni-Doni bersebelahan (posisi 2-3) ✓. Doni di posisi 2 ✓. **Sebenarnya susunan ini memenuhi semua batasan.** Dilema: dua jawaban valid.
-  - **D. Doni, Beni, Ani, Cici** — Salah. Doni di posisi 1, bukan 2.
+  - **A. Beni, Doni, Ani, Cici** — Salah. Ani (posisi 3) duduk di sebelah Cici (posisi 4), melanggar syarat pertama.
+  - **B. Ani, Doni, Beni, Cici** — Benar. Doni posisi 2 ✓; Beni di sebelah Doni ✓; Cici di ujung kanan ✓; Ani (posisi 1) tidak di sebelah Cici ✓.
+  - **C. Cici, Doni, Beni, Ani** — Salah. Cici di ujung **kiri**, padahal syaratnya ujung kanan. Pilihan ini memenuhi syarat lain, jadi jebakan bagi yang tidak membaca "kanan".
+  - **D. Doni, Beni, Ani, Cici** — Salah. Doni di posisi 1, bukan 2; Ani juga bersebelahan dengan Cici.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Doni di posisi 2 (diberi).
-  2. Beni di sebelah Doni → Beni di posisi 1 atau 3.
-  3. Cici di ujung → Cici di posisi 1 atau 4.
-  4. Ani tidak di sebelah Cici.
-  5. Cek pilihan B: Posisi 1=Ani, 2=Doni, 3=Beni, 4=Cici. Semua batasan terpenuhi. ✓
-  6. Cek pilihan C: Posisi 1=Cici, 2=Doni, 3=Beni, 4=Ani. Cek "Ani tidak di sebelah Cici": Ani(4) dan Cici(1) tidak bersebelahan ✓. Tapi posisi Beni(3) di sebelah Ani(4) — tidak ada batasan ini. Semua batasan **juga terpenuhi**.
-  7. **Bila kedua sah, pilihan B lebih kanonik.** Pakai B.
+  1. Cici di posisi 4; Doni di posisi 2.
+  2. Beni di sebelah Doni → posisi 1 atau 3.
+  3. Jika Beni di posisi 1, Ani di posisi 3 dan bersebelahan dengan Cici ✗. Jadi Beni di posisi 3, Ani di posisi 1.
 
-- **Hasil akhir:** **Ani, Doni, Beni, Cici** (Pilihan B).
+- **Hasil akhir:** **Ani, Doni, Beni, Cici** (jawaban **B**).
 
-- **💭 Tips:** Untuk soal logika urutan, **buat daftar batasan dulu**, lalu cek tiap pilihan. Eliminasi yang melanggar.
+- **💭 Tips:** Tulis batasan dulu, isi posisi yang sudah pasti, lalu uji sisa kemungkinan.
 
 ---
 
@@ -3642,7 +3607,7 @@ D. 125
 | 18  | B       | MTK-02   | Persen aplikatif (diskon+PPN)              | Provinsi  |
 | 19  | C       | MTK-02   | Pencarian bilangan dari persen             | Provinsi  |
 | 20  | A       | MTK-02   | Operasi desimal                            | Provinsi  |
-| 21  | C       | MTK-02   | Pecahan multi-step                         | Provinsi  |
+| 21  | B       | MTK-02   | Pecahan multi-step                         | Provinsi  |
 | 22  | B       | MTK-02   | Persen aplikatif (dua kelompok)            | Provinsi  |
 | 23  | B       | MTK-02   | Operasi pecahan kompleks                   | Provinsi  |
 | 24  | B       | MTK-02   | Konversi persen ke desimal                 | Provinsi  |

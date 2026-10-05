@@ -208,9 +208,9 @@ Kolam berisi air bening yang dalamnya **120 cm** akan terlihat dari atas seperti
 **📖 Pembahasan:**
 
 - **Konsep kunci:** Karena pembiasan, kolam berisi air bening tampak **lebih dangkal** dari kenyataan. Rasio sederhana:
-  
+
   **Kedalaman terlihat ≈ kedalaman nyata × (1 / indeks bias air) = 120 × (1/1.33) ≈ 90 cm**.
-  
+
   Inilah alasan penting keselamatan: **jangan loncat ke kolam yang dasarnya tampak dekat — bisa jadi lebih dalam dari yang terlihat!**
 
 - **Analisis tiap opsi:**
@@ -235,7 +235,7 @@ Lensa **cembung** memiliki bentuk yang...
 **📖 Pembahasan:**
 
 - **Konsep kunci:** **Lensa cembung** = permukaan melengkung keluar, lebih tebal di tengah. Cahaya yang masuk dibiaskan ke arah sumbu utama → cahaya mengumpul ke satu titik (F).
-  
+
   **Lensa cekung** = kebalikannya, lebih tipis di tengah. Cahaya menyebar.
 
 - **Analisis tiap opsi:**
@@ -332,7 +332,7 @@ Lensa cekung berfungsi untuk...
   - **Maya** (di sisi yang sama dengan benda).
   - **Tegak**.
   - **Diperbesar**.
-  
+
   Itulah cara lup memperbesar tulisan kecil.
 
 - **Analisis tiap opsi:**
@@ -413,7 +413,7 @@ Pembiasan terjadi karena cahaya...
   - Air: ~225.000 km/s.
   - Kaca: ~200.000 km/s.
   - Intan: ~124.000 km/s.
-  
+
   Saat cahaya melintasi batas dua medium dengan sudut tertentu, **sebagian gelombang sampai duluan di medium baru**, sehingga arahnya membelok.
 
 - **Analisis tiap opsi:**
@@ -467,7 +467,7 @@ Bagian mata yang berfungsi seperti **lensa cembung untuk memfokuskan cahaya ke r
 - **Konsep kunci:** Mata manusia punya **dua "lensa cembung"**:
   - **Kornea** — lapisan bening terluar, lensa cembung tetap (kontribusi terbesar untuk pembiasan, ~2/3 dari total).
   - **Lensa mata (lensa kristalin)** — lensa cembung di belakang pupil, **bisa berubah ketebalan** (akomodasi) untuk fokus benda dekat atau jauh.
-  
+
   Akomodasi:
   - Benda dekat → lensa mata **menebal** (lebih cembung) → fokus benda dekat.
   - Benda jauh → lensa mata **menipis** (lebih rata) → fokus benda jauh.
@@ -497,7 +497,7 @@ Saat menggunakan lup untuk memperbesar tulisan, jarak lup ke tulisan harus...
   - Benda **di dalam F** (lebih dekat dari F ke lensa) → bayangan **maya, tegak, diperbesar**.
   - Benda **di luar F** → bayangan **nyata, terbalik** (tidak cocok untuk membaca).
   - Benda **tepat di F** → tidak terbentuk bayangan.
-  
+
   Untuk lup dengan F = 10 cm, tulisan harus diletakkan kurang dari 10 cm dari lup.
 
 - **Analisis tiap opsi:**
@@ -525,7 +525,7 @@ Kamera digital atau smartphone menggunakan lensa di depan sensor. Saat memotret 
   - **Nyata** (bisa ditangkap di sensor/film).
   - **Terbalik** (atas-bawah).
   - **Diperkecil** (lebih kecil dari benda asli).
-  
+
   Bayangan terbalik di sensor tidak masalah karena perangkat lunak (atau orientasi LCD) "membalikkan" gambar untuk ditampilkan tegak ke pengguna.
 
 - **Analisis tiap opsi:**
@@ -550,7 +550,7 @@ Ikan di akuarium **jernih** terlihat dari luar pada posisi yang sedikit **berges
 **📖 Pembahasan:**
 
 - **Konsep kunci:** Cahaya dari ikan (di air) lewat ke udara → membelok karena pembiasan. Mata kita menelusuri balik cahaya dengan asumsi cahaya bergerak lurus → posisi ikan terlihat di **garis bias yang ditelusuri balik**, bukan posisi nyata di air.
-  
+
   Akibatnya:
   - Ikan tampak **lebih dekat ke permukaan** (efek kolam terlihat dangkal).
   - Posisi horizontal ikan juga sedikit bergeser.
@@ -581,7 +581,7 @@ Bayangan yang terbentuk oleh lensa cekung selalu memiliki sifat...
   - **Tegak** (tidak terbalik).
   - **Diperkecil**.
   - **Lebih dekat ke lensa** dari benda asli.
-  
+
   Mirip dengan cermin cembung dalam konsistensi.
 
 - **Analisis tiap opsi:**
@@ -608,7 +608,7 @@ Saat cahaya berpindah dari **air ke udara**, arah cahaya akan...
 - **Konsep kunci:** Arah pembelokan dalam pembiasan tergantung perpindahan medium:
   - Kurang rapat → lebih rapat: **mendekati** normal.
   - Lebih rapat → kurang rapat: **menjauhi** normal.
-  
+
   Air (n = 1.33) → udara (n = 1.00) = lebih rapat ke kurang rapat = **menjauhi normal**.
 
 - **Analisis tiap opsi:**
@@ -636,7 +636,7 @@ Saat benda diletakkan **di dalam F** lensa cembung (jarak < F), sifat bayangan a
   - **Maya** (di sisi yang sama dengan benda).
   - **Tegak**.
   - **Diperbesar**.
-  
+
   Ini adalah penggunaan paling umum lensa cembung untuk pembesaran tulisan, jam, koin, prangko.
 
 - **Analisis tiap opsi:**
@@ -690,7 +690,7 @@ Cahaya yang masuk ke kaca **tegak lurus** permukaan (sudut datang 0°) akan...
 **📖 Pembahasan:**
 
 - **Konsep kunci:** Hukum Snellius: n₁ sin θ₁ = n₂ sin θ₂. Untuk θ₁ = 0°: sin 0° = 0, jadi sin θ₂ = 0 → θ₂ = 0°.
-  
+
   Konsep: cahaya yang masuk tegak lurus permukaan = arahnya **sejajar dengan garis normal** → tidak ada arah "samping" untuk membelok → tetap lurus.
 
 - **Analisis tiap opsi:**
@@ -740,7 +740,7 @@ Saat benda diletakkan **antara F dan 2F** lensa cembung, sifat bayangan adalah..
 - **Konsep kunci:** Posisi benda antara F dan 2F lensa cembung → bayangan:
   - Di luar 2F (sisi berlawanan).
   - **Nyata, terbalik, diperbesar**.
-  
+
   Inilah prinsip kerja **proyektor**: slide diletakkan antara F dan 2F lensa proyektor → bayangan besar terbalik di layar.
 
 - **Analisis tiap opsi:**
@@ -915,10 +915,10 @@ Beberapa lensa kamera profesional mengandung **kombinasi lensa cembung + cekung*
 - **Konsep kunci:** Lensa cembung tunggal punya **aberasi**: aberasi kromatik (warna pelangi di tepi), aberasi sferis (gambar buram di tepi). Lensa cekung dengan tipe kaca berbeda dipasang berkombinasi untuk **mengkompensasi** distorsi ini → gambar lebih tajam dan akurat.
 
 - **Analisis opsi:**
-  - **A salah:** Bukan tujuan.
-  - **B salah:** Bukan tujuan.
-  - **C benar:** Koreksi optik.
-  - **D salah:** Tidak relevan.
+  - **A salah:** Berat kamera bukan tujuan desain optik; menambah elemen justru diusahakan seringan mungkin.
+  - **B salah:** Harga naik sebagai akibat, bukan tujuan; pilihan ini mencampur akibat dengan fungsi.
+  - **C benar:** Lensa cekung dengan jenis kaca berbeda mengimbangi aberasi lensa cembung sehingga gambar lebih tajam.
+  - **D salah:** Lensa bekerja dengan cahaya, bukan bunyi; tidak berkaitan dengan suara.
 
 - **💭 Tip:** Lensa kamera mahal (Canon L, Nikon Pro) berisi 10-20 elemen lensa berbagai bentuk untuk gambar berkualitas tinggi.
 
@@ -1057,9 +1057,10 @@ Kamera smartphone modern menggunakan **beberapa lensa kecil tersusun** (lens sta
 - **Konsep kunci:** Kamera HP perlu **tipis** tapi memberikan gambar berkualitas. Lensa tunggal besar tidak praktis di HP. Solusi: gunakan **5-7 lensa kecil tersusun** yang masing-masing kontribusi spesifik (fokus, koreksi distorsi, koreksi warna).
 
 - **Analisis opsi:**
-  - **A, B salah:** Bukan alasan.
-  - **C benar:** Koreksi & ukuran.
-  - **D salah:** Ada alasan teknis kuat.
+  - **A salah:** Tampilan bukan alasan teknis; lensa ada di dalam modul dan tidak terlihat.
+  - **B salah:** Harga adalah akibat dari banyaknya elemen, bukan tujuannya.
+  - **C benar:** Tiap lensa kecil punya tugas (fokus, koreksi distorsi, koreksi warna) dan susunannya tetap tipis.
+  - **D salah:** Ada alasan teknis kuat: satu lensa besar tidak muat di HP tipis dan tidak bisa mengoreksi semua aberasi.
 
 - **💭 Tip:** iPhone Pro 2024 punya 7 elemen lensa di kamera utama. Pabrikan optik (Sony, Largan) berinvestasi miliar dollar untuk lensa HP berkualitas.
 
@@ -2399,7 +2400,10 @@ Kamera utama smartphone flagship 2024 punya sekitar **5-7 elemen lensa**. Mengap
 - Pabrikan optik HP (Largan, Sunny Optical, ZEISS) berinvestasi miliaran dolar di riset lensa kecil berkualitas tinggi.
 
 - **Analisis opsi:**
-  - **A benar:** Koreksi aberasi.
+  - **A benar:** Tiap elemen mengoreksi jenis aberasi tertentu; gabungannya menghasilkan gambar tajam walau modul tipis.
+  - **B salah:** Harga adalah akibat, bukan alasan optik.
+  - **C salah:** Desain lensa ditentukan kebutuhan optik, bukan kebiasaan atau tradisi.
+  - **D salah:** Elemen lensa HP sangat ringan; tambahan berat justru dihindari, jadi bukan tujuan.
 
 - **💭 Tip:** Lensa HP modern setara dengan kamera point-and-shoot dari 2010 — dengan ukuran 1 mm tebal. Revolusi miniaturisasi optik.
 

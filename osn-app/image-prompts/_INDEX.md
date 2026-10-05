@@ -1,6 +1,6 @@
 # Index Prompt Gambar — OSN SD
 
-Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file data) yang menyebut objek tersebut. File di-generate otomatis oleh `_src/gen.mjs` — edit katalog di `_src/catalog-*.mjs`, jangan edit file .md langsung.
+Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file data) yang menyebut objek tersebut. File di-generate otomatis oleh `_src/gen.mjs` — edit katalog di `_src/catalog-*.mjs`, jangan edit file .md langsung.
 
 ## IPA 01 · Makhluk Hidup & Lingkungan
 
@@ -66,7 +66,7 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Tumbuhan paku (pteridophyta) | 4 | 189 | ✅ 4 | [paku](ipa/01-makhluk-hidup/paku.md) |
 | Pinus & runjung (gymnospermae) | 1 | 28 | ✅ 3 | [pinus-konus](ipa/01-makhluk-hidup/pinus-konus.md) |
 | Bunga sepatu (bunga sempurna) | 4 | 81 | ✅ 3 | [bunga-sepatu](ipa/01-makhluk-hidup/bunga-sepatu.md) |
-| Penampang bunga sempurna (bagian-bagian bunga) | 1 | 57 | ✅ 3 | [bunga-penampang](ipa/01-makhluk-hidup/bunga-penampang.md) |
+| Penampang bunga sempurna (bagian-bagian bunga) | 1 | 145 | ✅ 3 | [bunga-penampang](ipa/01-makhluk-hidup/bunga-penampang.md) |
 | Akar tunggang vs akar serabut | 1 | 44 | ✅ 4 | [akar-tunggang-serabut-set](ipa/01-makhluk-hidup/akar-tunggang-serabut-set.md) |
 | Umbi batang kentang (vegetatif) | 4 | 56 | ✅ 2 | [kentang-bertunas](ipa/01-makhluk-hidup/kentang-bertunas.md) |
 | Umbi lapis bawang merah (vegetatif) | 1 | 45 | ✅ 2 | [bawang-merah](ipa/01-makhluk-hidup/bawang-merah.md) |
@@ -87,6 +87,8 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Lumut kerak (lichen, simbiosis) | 4 | 13 | ✅ 3 | [lichen](ipa/01-makhluk-hidup/lichen.md) |
 | Ikan badut & anemon laut (mutualisme) | 4 | 14 | ✅ 3 | [ikan-badut-anemon](ipa/01-makhluk-hidup/ikan-badut-anemon.md) |
 | Kerbau & burung jalak (mutualisme) | 4 | 42 | ✅ 4 | [kerbau-jalak](ipa/01-makhluk-hidup/kerbau-jalak.md) |
+| Ekosistem kolam kecil (komponen biotik & abiotik) | 1 | 390 | — | [ekosistem-kolam](ipa/01-makhluk-hidup/ekosistem-kolam.md) |
+| Individu, populasi, komunitas (tingkatan organisasi kehidupan) | 1 | 315 | — | [tingkatan-organisasi-makhluk-hidup-set](ipa/01-makhluk-hidup/tingkatan-organisasi-makhluk-hidup-set.md) |
 | Jamur tiram (kingdom fungi) | 4 | 204 | ✅ 4 | [jamur-tiram](ipa/01-makhluk-hidup/jamur-tiram.md) |
 | Jamur tempe Rhizopus (hifa & sporangium) | 4 | 86 | ✅ 2 | [jamur-rhizopus](ipa/01-makhluk-hidup/jamur-rhizopus.md) |
 | Ragi / khamir Saccharomyces (bertunas) | 1 | 92 | ✅ 3 | [sel-ragi](ipa/01-makhluk-hidup/sel-ragi.md) |
@@ -102,6 +104,25 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Stomata (mulut daun) | 1 | 89 | ✅ 2 | [stomata](ipa/01-makhluk-hidup/stomata.md) |
 | Percobaan Ingenhousz (Hydrilla menghasilkan O₂) | 1 | 54 | ✅ 2 | [hydrilla-ingenhousz](ipa/01-makhluk-hidup/hydrilla-ingenhousz.md) |
 | Hasil fermentasi: tempe, tape singkong, tape ketan | 1 | 135 | ✅ 2 | [tempe-tape-set](ipa/01-makhluk-hidup/tempe-tape-set.md) |
+| Anjing (mamalia) | 1 | 54 | ✅ 2 | [anjing](ipa/01-makhluk-hidup/anjing.md) |
+| Kuda | 1 | 33 | ✅ 2 | [kuda](ipa/01-makhluk-hidup/kuda.md) |
+| Tikus | 1 | 105 | ✅ 2 | [tikus](ipa/01-makhluk-hidup/tikus.md) |
+| Burung pipit | 1 | 27 | ✅ 2 | [burung-pipit](ipa/01-makhluk-hidup/burung-pipit.md) |
+| Burung hantu (nokturnal) | 1 | 18 | ✅ 3 | [burung-hantu](ipa/01-makhluk-hidup/burung-hantu.md) |
+| Unta (adaptasi gurun) | 1 | 15 | ✅ 2 | [unta](ipa/01-makhluk-hidup/unta.md) |
+| Trenggiling | 1 | 6 | ✅ 3 | [trenggiling](ipa/01-makhluk-hidup/trenggiling.md) |
+| Walang sangit | 1 | 3 | ✅ 4 | [walang-sangit](ipa/01-makhluk-hidup/walang-sangit.md) |
+| Owa jawa (endemik) | 1 | 1 | ✅ 3 | [owa-jawa](ipa/01-makhluk-hidup/owa-jawa.md) |
+| Hydra (bertunas) | 1 | 4 | ✅ 3 | [hydra](ipa/01-makhluk-hidup/hydra.md) |
+| Tanaman padi | 1 | 251 | ✅ 3 | [tanaman-padi](ipa/01-makhluk-hidup/tanaman-padi.md) |
+| Mangga (buah & penampang) | 1 | 215 | ✅ 3 | [tanaman-mangga](ipa/01-makhluk-hidup/tanaman-mangga.md) |
+| Pohon karet (getah lateks) | 1 | 4 | ✅ 2 | [pohon-karet](ipa/01-makhluk-hidup/pohon-karet.md) |
+| Mawar (duri & bunga) | 1 | 46 | ✅ 3 | [mawar](ipa/01-makhluk-hidup/mawar.md) |
+| Perkecambahan kacang hijau | 1 | 93 | ✅ 1 | [kecambah](ipa/01-makhluk-hidup/kecambah.md) |
+| Pisang (tunas anakan) | 1 | 62 | ✅ 2 | [tanaman-pisang](ipa/01-makhluk-hidup/tanaman-pisang.md) |
+| Cangkok, okulasi, sambung, stek | 1 | 321 | ✅ 3 | [cangkok-okulasi-set](ipa/01-makhluk-hidup/cangkok-okulasi-set.md) |
+| Pohon jati (meranggas) | 1 | 20 | ✅ 2 | [pohon-jati](ipa/01-makhluk-hidup/pohon-jati.md) |
+| Melinjo (Gymnospermae) | 1 | 6 | ✅ 3 | [melinjo](ipa/01-makhluk-hidup/melinjo.md) |
 
 ## IPA 02 · Tubuh Manusia & Kesehatan
 
@@ -162,6 +183,11 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Glukometer (alat cek gula darah) | 1 | 214 | ✅ 2 | [glukometer](ipa/02-tubuh-manusia/glukometer.md) |
 | Stetoskop (denyut jantung) | 1 | 38 | ✅ 3 | [stetoskop](ipa/02-tubuh-manusia/stetoskop.md) |
 | Produk bioteknologi konvensional | 1 | 171 | ✅ 4 | [fermentasi-produk-set](ipa/02-tubuh-manusia/fermentasi-produk-set.md) |
+| Kantong darah donor | 1 | 23 | ⚠️ | [kantong-darah](ipa/02-tubuh-manusia/kantong-darah.md) |
+| Inhaler asma | 1 | 56 | ✅ 1 | [inhaler](ipa/02-tubuh-manusia/inhaler.md) |
+| Obat (tablet, kapsul, sirup) | 1 | 128 | ✅ 2 | [obat-set](ipa/02-tubuh-manusia/obat-set.md) |
+| Kutu rambut | 1 | 16 | ✅ 1 | [kutu-rambut](ipa/02-tubuh-manusia/kutu-rambut.md) |
+| Nyamuk Anopheles (malaria) | 1 | 54 | ✅ 1 | [nyamuk-anopheles](ipa/02-tubuh-manusia/nyamuk-anopheles.md) |
 
 ## IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 
@@ -171,6 +197,7 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Bola sepak (gaya dorong/tendang) | 1 | 50 | ✅ 1 | [bola-sepak](ipa/03-gaya-gerak-energi/bola-sepak.md) |
 | Plastisin/tanah liat berubah bentuk (pengaruh gaya) | 1 | 81 | ✅ 1 | [plastisin](ipa/03-gaya-gerak-energi/plastisin.md) |
 | Ban berulir (manfaat gaya gesek) | 4 | 288 | ✅ 4 | [ban-berulir](ipa/03-gaya-gerak-energi/ban-berulir.md) |
+| Bola ringan vs bola berat bergerak sama cepat (momentum) | 1 | 85 | — | [momentum-bola-set](ipa/03-gaya-gerak-energi/momentum-bola-set.md) |
 | Jungkat-jungkit (tuas jenis 1) | 4 | 22 | ✅ 3 | [jungkat-jungkit](ipa/03-gaya-gerak-energi/jungkat-jungkit.md) |
 | Alat tuas jenis 1 (titik tumpu di tengah) | 1 | 332 | ✅ 2 | [tuas-jenis-1-set](ipa/03-gaya-gerak-energi/tuas-jenis-1-set.md) |
 | Alat tuas jenis 2 (beban di tengah) | 1 | 61 | ✅ 1 | [tuas-jenis-2-set](ipa/03-gaya-gerak-energi/tuas-jenis-2-set.md) |
@@ -213,6 +240,13 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Balon & sisir (gosokan listrik statis) | 1 | 99 | ✅ 3 | [balon-listrik-statis](ipa/03-gaya-gerak-energi/balon-listrik-statis.md) |
 | Transformator / trafo | 4 | 49 | ✅ 2 | [transformator](ipa/03-gaya-gerak-energi/transformator.md) |
 | Induksi: magnet, kumparan & galvanometer | 1 | 83 | ✅ 2 | [galvanometer-kumparan](ipa/03-gaya-gerak-energi/galvanometer-kumparan.md) |
+| Ketapel (gaya pegas) | 1 | 4 | ✅ 1 | [ketapel](ipa/03-gaya-gerak-energi/ketapel.md) |
+| Karet gelang (elastis) | 1 | 7 | ✅ 1 | [karet-gelang](ipa/03-gaya-gerak-energi/karet-gelang.md) |
+| Ayunan | 1 | 12 | ✅ 1 | [ayunan](ipa/03-gaya-gerak-energi/ayunan.md) |
+| Delman (kuda menarik) | 1 | 2 | ✅ 3 | [delman](ipa/03-gaya-gerak-energi/delman.md) |
+| Komidi putar & bianglala | 1 | 5 | ✅ 2 | [komidi-putar](ipa/03-gaya-gerak-energi/komidi-putar.md) |
+| Bendungan & PLTA | 1 | 59 | ✅ 1 | [bendungan-plta](ipa/03-gaya-gerak-energi/bendungan-plta.md) |
+| Alat listrik rumah tangga | 1 | 36 | ✅ 2 | [alat-listrik-rumah-set](ipa/03-gaya-gerak-energi/alat-listrik-rumah-set.md) |
 
 ## IPA 04 · Cahaya, Bunyi, Panas & Zat
 
@@ -252,6 +286,16 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Efek Tyndall | 1 | 18 | ✅ 2 | [efek-tyndall](ipa/04-cahaya-bunyi-panas-zat/efek-tyndall.md) |
 | Slinki (gelombang transversal & longitudinal) | 1 | 101 | ✅ 2 | [slinki](ipa/04-cahaya-bunyi-panas-zat/slinki.md) |
 | Model atom (inti proton-neutron & elektron) | 1 | 167 | ✅ 2 | [model-atom](ipa/04-cahaya-bunyi-panas-zat/model-atom.md) |
+| Sedotan tampak patah (pembiasan) | 1 | 17 | ✅ 1 | [sedotan-gelas-air](ipa/04-cahaya-bunyi-panas-zat/sedotan-gelas-air.md) |
+| Sonar kapal selam | 1 | 61 | ⚠️ | [kapal-selam-sonar](ipa/04-cahaya-bunyi-panas-zat/kapal-selam-sonar.md) |
+| Gema di tebing | 1 | 91 | ✅ 1 | [tebing-gema](ipa/04-cahaya-bunyi-panas-zat/tebing-gema.md) |
+| Ambulans (efek Doppler) | 1 | 25 | ✅ 1 | [ambulans-doppler](ipa/04-cahaya-bunyi-panas-zat/ambulans-doppler.md) |
+| Gelombang transversal pada tali | 1 | 18 | ✅ 1 | [gelombang-tali](ipa/04-cahaya-bunyi-panas-zat/gelombang-tali.md) |
+| Air mendidih | 1 | 102 | ✅ 2 | [air-mendidih](ipa/04-cahaya-bunyi-panas-zat/air-mendidih.md) |
+| Gula larut dalam air | 1 | 105 | ✅ 1 | [gula-larut](ipa/04-cahaya-bunyi-panas-zat/gula-larut.md) |
+| Model molekul (H₂O, CO₂, O₂) | 1 | 109 | ✅ 1 | [molekul-set](ipa/04-cahaya-bunyi-panas-zat/molekul-set.md) |
+| Contoh unsur | 1 | 259 | ⚠️ | [unsur-logam-set](ipa/04-cahaya-bunyi-panas-zat/unsur-logam-set.md) |
+| Lemari es / kulkas | 1 | 84 | ✅ 1 | [lemari-es](ipa/04-cahaya-bunyi-panas-zat/lemari-es.md) |
 
 ## IPA 05 · Bumi, Antariksa & Lingkungan
 
@@ -282,6 +326,31 @@ Total **306 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Alat ukur cuaca: barometer, anemometer, higrometer, penakar hujan, baling-baling angin | 1 | 159 | ✅ 2 | [alat-cuaca-set](ipa/05-bumi-antariksa/alat-cuaca-set.md) |
 | Sampah organik vs anorganik | 1 | 203 | ✅ 1 | [sampah-organik-anorganik-set](ipa/05-bumi-antariksa/sampah-organik-anorganik-set.md) |
 | Tempat sampah terpilah (organik, anorganik, B3) | 1 | 26 | ✅ 1 | [tempat-sampah-3](ipa/05-bumi-antariksa/tempat-sampah-3.md) |
+| Gunung api meletus | 1 | 181 | ✅ 2 | [gunung-meletus](ipa/05-bumi-antariksa/gunung-meletus.md) |
+| Gempa: patahan, hiposentrum, episentrum | 1 | 109 | ⚠️ | [gempa-patahan](ipa/05-bumi-antariksa/gempa-patahan.md) |
+| Tsunami | 1 | 56 | ✅ 3 | [tsunami](ipa/05-bumi-antariksa/tsunami.md) |
+| Banjir | 1 | 91 | ✅ 2 | [banjir](ipa/05-bumi-antariksa/banjir.md) |
+| Kekeringan | 1 | 55 | ✅ 2 | [kekeringan](ipa/05-bumi-antariksa/kekeringan.md) |
+| Jenis awan | 1 | 206 | ✅ 1 | [awan-jenis-set](ipa/05-bumi-antariksa/awan-jenis-set.md) |
+| Petir | 1 | 76 | ✅ 2 | [petir](ipa/05-bumi-antariksa/petir.md) |
+| Pelangi | 1 | 110 | ✅ 1 | [pelangi](ipa/05-bumi-antariksa/pelangi.md) |
+| Siklus air (diorama) | 1 | 225 | ⚠️ | [siklus-air-diorama](ipa/05-bumi-antariksa/siklus-air-diorama.md) |
+| Sengkedan / terasering | 1 | 11 | ✅ 2 | [sengkedan](ipa/05-bumi-antariksa/sengkedan.md) |
+| Hutan gundul & reboisasi | 1 | 85 | ✅ 1 | [reboisasi](ipa/05-bumi-antariksa/reboisasi.md) |
+| Pencemaran air sungai | 1 | 85 | ✅ 1 | [pencemaran-sungai](ipa/05-bumi-antariksa/pencemaran-sungai.md) |
+| Pencemaran udara | 1 | 131 | ✅ 1 | [polusi-udara](ipa/05-bumi-antariksa/polusi-udara.md) |
+| Dampak hujan asam | 1 | 32 | ✅ 1 | [hujan-asam](ipa/05-bumi-antariksa/hujan-asam.md) |
+| Rumah kaca | 1 | 67 | ✅ 2 | [rumah-kaca](ipa/05-bumi-antariksa/rumah-kaca.md) |
+| Es kutub mencair | 1 | 37 | ✅ 1 | [es-kutub-mencair](ipa/05-bumi-antariksa/es-kutub-mencair.md) |
+| Sampah plastik di laut | 1 | 32 | ✅ 1 | [sampah-plastik-laut](ipa/05-bumi-antariksa/sampah-plastik-laut.md) |
+| Terumbu karang (sehat & memutih) | 1 | 46 | ✅ 1 | [terumbu-karang](ipa/05-bumi-antariksa/terumbu-karang.md) |
+| Pasang naik & surut | 1 | 52 | ⚠️ | [pasang-surut-set](ipa/05-bumi-antariksa/pasang-surut-set.md) |
+| Aurora | 1 | 14 | ✅ 2 | [aurora](ipa/05-bumi-antariksa/aurora.md) |
+| Roket | 1 | 18 | ✅ 1 | [roket](ipa/05-bumi-antariksa/roket.md) |
+| Astronot (baju antariksa) | 1 | 36 | ✅ 2 | [astronot](ipa/05-bumi-antariksa/astronot.md) |
+| Rasi bintang Orion (Waluku) | 1 | 44 | ✅ 2 | [rasi-orion](ipa/05-bumi-antariksa/rasi-orion.md) |
+| Galaksi Bima Sakti | 1 | 41 | ⚠️ | [galaksi-bima-sakti](ipa/05-bumi-antariksa/galaksi-bima-sakti.md) |
+| Pupuk & kompos | 1 | 185 | ✅ 3 | [pupuk-kompos-set](ipa/05-bumi-antariksa/pupuk-kompos-set.md) |
 
 ## IPA 06 · Metode Ilmiah & Alat Laboratorium
 

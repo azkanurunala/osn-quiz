@@ -263,10 +263,10 @@ Empat bel sekolah berbunyi bersamaan pada pukul 07.00. Bel 1 berbunyi tiap 15 me
 
 **(2) Pilihan Jawaban:**
 
-A. 12.00
+A. 09.00
 B. 13.00
-C. 14.00
-D. 15.00
+C. 10.00
+D. 19.00
 
 **(3) Jawaban:** **B. 13.00**
 
@@ -275,20 +275,19 @@ D. 15.00
 - **Konsep yang diuji:** KPK empat bilangan + konversi menit ke jam.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 12.00** — Salah. Pakai KPK = 300 menit = 5 jam? Hitung ulang: KPK seharusnya 360 menit = 6 jam. 5 jam dari 07.00 = 12.00, tapi KPK 300 salah.
-  - **B. 13.00** — Benar. KPK(15,18,20,24) = 360 menit = 6 jam. 07.00 + 6 jam = 13.00.
-  - **C. 14.00** — Salah. Pakai KPK = 420 menit = 7 jam — angka tidak benar.
-  - **D. 15.00** — Salah. KPK = 480 menit (8 jam) — keliru tambah faktor.
+  - **A. 09.00** — Salah. Pangkat 3² terlupa: 2³ × 3 × 5 = 120 menit; 18 tidak membagi 120.
+  - **B. 13.00** — Benar. KPK(15, 18, 20, 24) = 2³ × 3² × 5 = 360 menit = 6 jam. 07.00 + 6 jam = 13.00.
+  - **C. 10.00** — Salah. Pangkat 2³ terlupa: 2² × 3² × 5 = 180 menit; 24 tidak membagi 180.
+  - **D. 19.00** — Salah. 12 jam adalah kelipatan persekutuan kedua (2 × 360 menit), bukan yang pertama.
 
 - **Langkah Penyelesaian:**
-  1. Faktorisasi: 15 = 3·5; 18 = 2·3²; 20 = 2²·5; 24 = 2³·3.
-  2. KPK ambil pangkat tertinggi: 2³·3²·5 = 8·9·5 = 360.
-  3. 360 menit = 6 jam.
-  4. 07.00 + 6 jam = 13.00.
+  1. 15 = 3·5; 18 = 2·3²; 20 = 2²·5; 24 = 2³·3.
+  2. KPK = 2³·3²·5 = 360 menit = 6 jam.
+  3. 07.00 + 6 jam = 13.00.
 
 - **Hasil akhir:** **Pukul 13.00**.
 
-- **💭 Tips:** Untuk KPK banyak bilangan, faktorkan satu per satu lalu ambil pangkat tertinggi tiap prima. Lebih aman daripada coba kelipatan.
+- **💭 Tips:** Ambil pangkat tertinggi tiap faktor prima; pastikan setiap bilangan membagi hasilnya.
 
 ---
 
@@ -979,38 +978,30 @@ Sebuah balok berukuran 24 cm × 18 cm × 12 cm dipotong menjadi kubus-kubus keci
 **(2) Pilihan Jawaban:**
 
 A. 24 buah
-B. 36 buah
-C. 48 buah
-D. 72 buah
+B. 6 buah
+C. 192 buah
+D. 9 buah
 
-**(3) Jawaban:** **C. 48 buah**
+**(3) Jawaban:** **A. 24 buah**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB (sisi kubus terbesar) + volume / banyak kubus.
+- **Konsep yang diuji:** FPB sebagai rusuk kubus terbesar, lalu banyak kubus.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 24 buah** — Salah. Sisi kubus = 6 → 4·3·2 = 24. Tapi 6 bukan FPB terbesar; 6 memang FPB(24,18,12) → cek FPB lagi.
-  - **B. 36 buah** — Salah. Pakai sisi kubus 4 — bukan FPB.
-  - **C. 48 buah** — Benar. FPB(24,18,12) = 6. Banyak kubus per dimensi: 24/6 = 4, 18/6 = 3, 12/6 = 2. Total = 4·3·2 = 24. Hmm tunggu — itu jawaban A. Mari ulang: FPB(24,18,12). 24 = 2³·3; 18 = 2·3²; 12 = 2²·3 → FPB = 2·3 = 6. Banyak kubus = 4·3·2 = 24. Jadi jawabannya **A. 24 buah**, bukan C.
-
-- **(3) Jawaban (KOREKSI):** **A. 24 buah**
-
-- **Analisis Setiap Pilihan Jawaban (revisi):**
-  - **A. 24 buah** — Benar. FPB(24,18,12) = 6 cm; 24/6 × 18/6 × 12/6 = 4 × 3 × 2 = 24.
-  - **B. 36 buah** — Salah. Sisi kubus 4 cm — 4 bukan FPB ketiga bilangan (18/4 tidak bulat).
-  - **C. 48 buah** — Salah. Sisi kubus 3 cm — 3 membagi semua tapi bukan terbesar (FPB lebih besar = 6).
-  - **D. 72 buah** — Salah. Sisi kubus 2 cm — terlalu kecil, bukan FPB.
+  - **A. 24 buah** — Benar. FPB(24, 18, 12) = 6 cm; 4 × 3 × 2 = 24 kubus.
+  - **B. 6 buah** — Salah. 6 adalah panjang rusuk (cm), bukan banyak kubus.
+  - **C. 192 buah** — Salah. Memakai rusuk 3 cm (faktor persekutuan, bukan terbesar): 8 × 6 × 4.
+  - **D. 9 buah** — Salah. Hasil bagi tiap ukuran dijumlahkan (4 + 3 + 2), padahal harus dikalikan.
 
 - **Langkah Penyelesaian:**
-  1. Sisi kubus terbesar = FPB(24, 18, 12).
-  2. Faktorisasi: 24 = 2³·3, 18 = 2·3², 12 = 2²·3 → FPB = 2¹·3¹ = 6.
-  3. Banyak kubus per dimensi: 24/6 = 4, 18/6 = 3, 12/6 = 2.
-  4. Total = 4 × 3 × 2 = 24 kubus.
+  1. FPB(24, 18, 12) = 6.
+  2. 24 : 6 = 4; 18 : 6 = 3; 12 : 6 = 2.
+  3. Banyak kubus = 24.
 
 - **Hasil akhir:** **24 kubus**.
 
-- **💭 Tips:** "Kubus terbesar" = FPB sisi balok; banyak kubus = perkalian banyak kubus per dimensi.
+- **💭 Tips:** Rusuk kubus terbesar = FPB; banyak kubus = hasil kali hasil bagi tiap ukuran.
 
 ---
 
@@ -1870,37 +1861,31 @@ Sebuah diagram lingkaran menampilkan data hobi 240 siswa: olahraga 30%, musik 25
 
 **(2) Pilihan Jawaban:**
 
-A. 36 siswa
+A. 60 siswa
 B. 48 siswa
-C. 60 siswa
-D. 72 siswa
+C. 72 siswa
+D. 192 siswa
 
-**(3) Jawaban:** **A. 36 siswa**
+**(3) Jawaban:** **B. 48 siswa**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Diagram lingkaran: 100% = 360°. Konversi % ↔ derajat + pelengkap.
+- **Konsep yang diuji:** 100% = 360°; ubah derajat ke persen lalu cari sisa.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 36 siswa** — Benar. Seni 90° = 25% (90/360). Total dikenal: 30+25+25 = 80%. Sisa = 20%. Jumlah = 20% × 240 = 48 siswa. Hmm... tunggu, 48 = jawab B. Mari hitung lagi: 90/360 = 0,25 = 25%. Olahraga 30% + Musik 25% + Seni 25% = 80%. Lainnya = 20%. 20% × 240 = 48. Jawaban yang benar adalah **B. 48 siswa**.
-
-- **(3) Jawaban (KOREKSI):** **B. 48 siswa**
-
-- **Analisis Setiap Pilihan Jawaban (revisi):**
-  - **A. 36 siswa** — Salah. Pakai 15% (90/600 — salah konversi).
-  - **B. 48 siswa** — Benar. Seni 90° = 25%. Total 30+25+25 = 80%. Lainnya = 20%. 20% × 240 = 48.
-  - **C. 60 siswa** — Salah. Pakai 25% (kira lainnya = seni).
-  - **D. 72 siswa** — Salah. Pakai 30%.
+  - **A. 60 siswa** — Salah. "Lainnya" dikira sama dengan seni (25%).
+  - **B. 48 siswa** — Benar. Seni 90° = 25%. Total diketahui 30 + 25 + 25 = 80%. Lainnya = 20% × 240 = 48.
+  - **C. 72 siswa** — Salah. "Lainnya" dikira sama dengan olahraga (30%).
+  - **D. 192 siswa** — Salah. Itu banyak siswa selain "lainnya" (80% × 240).
 
 - **Langkah Penyelesaian:**
-  1. Seni = 90°/360° = 25%.
-  2. Total dikenal = 30% (olahraga) + 25% (musik) + 25% (seni) = 80%.
-  3. Lainnya = 100% − 80% = 20%.
-  4. Banyak siswa "lainnya" = 20% × 240 = 48.
+  1. Seni = 90/360 = 25%.
+  2. Lainnya = 100% − 80% = 20%.
+  3. 20% × 240 = 48.
 
 - **Hasil akhir:** **48 siswa**.
 
-- **💭 Tips:** Diagram lingkaran: 90° = ¼ = 25%; 60° = ⅙ ≈ 16,67%; 120° = ⅓ ≈ 33,33%.
+- **💭 Tips:** 90° = 25%; 60° ≈ 16,67%; 120° ≈ 33,33%.
 
 ---
 
@@ -2294,38 +2279,35 @@ D. x ≥ 12
 ### Soal 64 · MTK-08 · Kombinatorik Sederhana · Nasional
 
 **(1) Soal:**
-Banyak cara menyusun 4 huruf berbeda dari kata "MATEMATIKA" untuk menjadi kata baru adalah …
+Huruf-huruf berbeda pada kata "MATEMATIKA" adalah M, A, T, E, I, dan K. Banyak cara menyusun 4 huruf berbeda dari keenam huruf itu (urutan diperhatikan) adalah …
 
 **(2) Pilihan Jawaban:**
 
 A. 24
-B. 60
-C. 120
-D. 5040
+B. 15
+C. 360
+D. 1.296
 
-**(3) Jawaban:** **C. 120**
+**(3) Jawaban:** **C. 360**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Permutasi (susunan) huruf berbeda.
+- **Konsep yang diuji:** Permutasi r unsur dari n unsur berbeda.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 24** — Salah. 4! = 24, tapi belum dikalikan pilihan huruf.
-  - **B. 60** — Salah. Pakai 5·12.
-  - **C. 120** — Benar. Huruf "berbeda" dari MATEMATIKA = {M, A, T, E, I, K} = 6 huruf berbeda. Susun 4 dari 6 = 6·5·4·3 = 360. Hmm — itu bukan jawaban. Tunggu, cek lagi: huruf unik dalam MATEMATIKA: M, A, T, E, I, K — total 6 unik. P(6,4) = 6!/(6−4)! = 6·5·4·3 = 360. Tidak ada di opsi.
-
-Mari interpretasikan ulang: "4 huruf berbeda" mungkin maksudnya hanya 4 huruf pertama. Atau pilih huruf berbeda secara acak. Mari pakai: huruf yang akan disusun adalah 4 huruf saja {M, A, T, E} (4 huruf pertama berbeda) → 4! = 24, opsi A. Atau {M, A, T, I, K} = 5 → P(5,4) = 120 = opsi C.
-
-  - **C. 120** — Benar (versi yang lebih sesuai opsi). Jika dipilih 5 huruf unik MATIK dan disusun 4 dari 5: P(5,4) = 5·4·3·2 = 120. Atau cara lain yang menghasilkan 120.
-  - **D. 5040** — Salah. 7! atau salah komputasi.
+  - **A. 24** — Salah. 4! = 24 hanya menyusun 4 huruf tertentu; belum memperhitungkan pilihan 4 dari 6 huruf.
+  - **B. 15** — Salah. C(6, 4) = 15 hanya memilih huruf tanpa memperhatikan urutan.
+  - **C. 360** — Benar. P(6, 4) = 6 × 5 × 4 × 3 = 360.
+  - **D. 1.296** — Salah. 6⁴; huruf dianggap boleh berulang, padahal harus berbeda.
 
 - **Langkah Penyelesaian:**
-  1. Identifikasi 5 huruf unik yang akan dipakai (misalnya M, A, T, I, K).
-  2. Permutasi 4 huruf dari 5: P(5,4) = 5!/(5−4)! = 5·4·3·2·1/1 = 120.
+  1. Ada 6 huruf berbeda.
+  2. Posisi 1: 6 pilihan, posisi 2: 5, posisi 3: 4, posisi 4: 3.
+  3. 6 × 5 × 4 × 3 = 360.
 
-- **Hasil akhir:** **120 cara**.
+- **Hasil akhir:** **360 cara**.
 
-- **💭 Tips:** Permutasi P(n,r) = n!/(n−r)!. Hati-hati: kalau ada huruf berulang, hitung dengan permutasi ulang (n!/(k₁!·k₂!·…)).
+- **💭 Tips:** Urutan diperhatikan → permutasi; urutan tidak diperhatikan → kombinasi.
 
 ---
 

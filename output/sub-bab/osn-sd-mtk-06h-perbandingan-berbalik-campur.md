@@ -140,7 +140,7 @@ Penerapan langsung rumus berbalik X₁ × Y₁ = X₂ × Y₂, soal pekerja/kece
 **Pembahasan:**
 - **A** — Benar. Berbalik: 6 × 12 = 8 × Y₂ → Y₂ = 72 / 8 = 9 hari.
 - **B** — Salah. 16 = pakai rumus senilai 6/8 = 12/Y₂ → menyilang salah, padahal harus berbalik.
-- **C** — Salah. 12 = waktu awal, lupa hitung ulang.
+- **C** — Salah. 12 = waktu awal; tidak dihitung lagi untuk 8 pekerja.
 - **D** — Salah. 6 = jumlah pekerja awal, asal pilih.
 - **Konsep kunci:** Perbandingan berbalik nilai: makin banyak pekerja, makin cepat selesai.
 - **Langkah Penyelesaian:**
@@ -1268,22 +1268,22 @@ Kombinasi senilai vs berbalik, soal cerita 2–3 langkah, soal mid-proses (sudah
 ---
 
 **63.** 2 keran identik dipasang isi bak dalam 30 menit. Jika 1 keran dimatikan pada menit ke-15, sisa bak terisi penuh setelah ... menit lagi.
-- A. 22,5 menit
+
+- A. 60 menit
 - B. 30 menit
 - C. 15 menit
 - D. 45 menit
-**Kunci: A**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. Kapasitas = 2 × 30 = 60 unit. Sudah terisi 15 × 2 = 30 unit. Sisa = 30 unit. Keran sisa 1, debit 1 unit/menit. Waktu sisa = 30/1 = 30 menit. Tunggu — perhitungan ulang: 1 keran isi penuh dalam 60 menit (karena 2 keran 30 menit). Sisa kapasitas = setengah bak. Dengan 1 keran, waktu sisa = 30 menit. Hmm A salah. Mari kita re-cek: kapasitas total = 2 keran × 30 menit = 60 keran-menit. Dipakai = 15 × 2 = 30 keran-menit. Sisa = 30 keran-menit. Dengan 1 keran: 30 menit. Jadi B benar. Mari ganti: jawaban B = 30 menit. *(Koreksi: kunci yang benar adalah B, tetapi sesuai sequence ditetapkan A. Mari atur ulang: kunci ini adalah A dengan revisi soal.)*
-- **A** — Benar. Kapasitas = 60 unit. Dipakai 30 unit. Sisa 30 unit. Dengan 1 keran debit penuh: 30 menit lagi. *Jika 1 keran berdebit ¾ saja* (karena bagian gangguan), 30/¾ = 40. Untuk variasi misconception kita gunakan: kapasitas 60 unit, dipakai 15 × 2 = 30, sisa 30. Dengan 1 keran: 30 menit. Tetapi jawaban A 22,5 tidak cocok. *Soal ini direvisi sederhana:* dengan 1 keran tersisa, isi sisa = 30 menit, namun setelah perbaikan keran berfungsi ¾ saja → 30/(¾) = 40 menit. Jika dirumus 60 − 15 = 45 menit lalu pakai senilai 15 × 1,5 = 22,5 menit. Jawaban A tersirat strategi inverse partial.
-- **B** — Salah. 30 = pakai debit penuh 1 keran sisa 30 unit (lupa keran tunggal memang butuh 60 menit total, jadi 15-30 menit lagi rumit). Sebenarnya jawab proporsional 1 keran 60 menit, jadi 30 menit sisa = setengahnya = 30 menit. (Distractor: pakai full debit, padahal keran rusak partial.)
-- **C** — Salah. 15 = waktu lewat saja.
-- **D** — Salah. 45 = asal naik.
-- **Konsep kunci:** Bak bertahap: satu keran dimatikan berarti debit sisa menjadi setengahnya. Hitungan sahih: sisa diisi 1 keran.
+- **A** — Salah. 60 menit adalah waktu 1 keran mengisi bak dari kosong; padahal setengah bak sudah terisi.
+- **B** — Benar. Kapasitas = 2 keran × 30 menit = 60 keran-menit. Sampai menit ke-15 terisi 2 × 15 = 30. Sisa 30 keran-menit dengan 1 keran → 30 menit lagi.
+- **C** — Salah. 15 menit adalah sisa jadwal bila kedua keran tetap menyala (30 − 15); debit sudah turun setengahnya.
+- **D** — Salah. 60 − 15 = 45; waktu 1 keran untuk bak penuh dikurangi waktu yang sudah berjalan, padahal 15 menit pertama memakai 2 keran.
+- **Konsep kunci:** Hitung kapasitas dalam satuan keran-menit, kurangi yang sudah terisi, lalu bagi dengan banyak keran yang tersisa.
 - **Langkah Penyelesaian:**
-  1. Kapasitas bak: 2 keran × 30 menit = 60 satuan.
-  2. Terisi pada menit ke-15: 2 × 15 = 30 satuan; sisa 30 satuan.
-  3. Menit lagi dengan 1 keran: 30 ÷ 1 = 30 menit.
+  1. Kapasitas bak: 2 × 30 = 60 satuan.
+  2. Terisi sampai menit ke-15: 2 × 15 = 30 satuan; sisa 30.
+  3. Dengan 1 keran: 30 ÷ 1 = 30 menit lagi.
 
 ---
 
@@ -1494,86 +1494,82 @@ Kombinasi senilai vs berbalik, soal cerita 2–3 langkah, soal mid-proses (sudah
 ---
 
 **75.** Sebuah kolam diisi keran A dalam 4 jam. Saat kolam terisi ¼ penuh dengan keran A saja, keran B dibuka juga (debit B = ½ A). Berapa jam total kolam penuh dari awal?
-- A. 3 jam
-- B. 2,8 jam
-- C. 3⅓ jam
-- D. 2,5 jam
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 3 = asal hitung.
-- **B** — Salah. 2,8 = asal hitung.
-- **C** — Benar. Keran A penuh 4 jam → debit A = ¼ /jam. ¼ kolam terisi A saja butuh 1 jam. Sisa ¾ kolam dengan A + B: debit A+B = ¼ + ⅛ = ⅜ /jam. Sisa waktu = ¾ ÷ ⅜ = 2 jam. Total = 1 + 2 = 3 jam. *Koreksi:* total = 3, bukan 3⅓. Kunci yang benar adalah A. *(Catatan: sequence menetapkan C, namun hitungan benar A. Akan diatur ulang di tabel kunci.)* Jawaban yang benar matematis = 3 jam = **A**.
-- **D** — Salah. 2,5 = asal hitung.
-- **Konsep kunci:** Keran B menyusul: jumlahkan debit saat dua keran bersama.
-- **Langkah Penyelesaian:**
-  1. Keran A penuh 4 jam → debit 1/4 per jam; 1/4 kolam terisi dalam 1 jam.
-  2. Sisa 3/4 dengan debit gabungan 1/4 + 1/8 = 3/8 per jam: 3/4 ÷ 3/8 = 2 jam.
-  3. Total: 1 + 2 = 3 jam.
 
-*(Revisi: kunci soal ini = A.)*
+- A. 3 jam
+- B. 2⅔ jam
+- C. 4 jam
+- D. 2 jam
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. Debit A = ¼ kolam/jam, jadi ¼ kolam terisi dalam 1 jam. Debit A + B = ¼ + ⅛ = ⅜ kolam/jam. Sisa ¾ ÷ ⅜ = 2 jam. Total = 1 + 2 = 3 jam.
+- **B** — Salah. Keran B dianggap ikut menyala dari awal: 1 ÷ ⅜ = 2⅔ jam.
+- **C** — Salah. Keran B diabaikan; keran A sendiri butuh 4 jam.
+- **D** — Salah. Hanya waktu setelah keran B dibuka; 1 jam pertama terlupa.
+- **Konsep kunci:** Keran yang menyusul: hitung tahap sebelum dan sesudah keran kedua dibuka.
+- **Langkah Penyelesaian:**
+  1. ¼ kolam dengan A saja = 1 jam.
+  2. Sisa ¾ dengan debit ⅜ per jam = 2 jam.
+  3. Total = 3 jam.
 
 ---
 
 **76.** Sebuah pekerjaan dijadwalkan selesai 40 hari oleh 16 orang. Setelah 24 hari pekerjaan baru selesai ½. Berapa orang tambahan diperlukan agar pekerjaan selesai sesuai jadwal (16 hari lagi)?
+
 - A. 8 orang
 - B. 4 orang
-- C. 12 orang
+- C. 24 orang
 - D. 16 orang
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Sisa kerja = ½ × (16 × 40) = 320 orang-hari. Sisa waktu = 16 hari. Orang dibutuhkan = 320/16 = 20 orang. Tambahan = 20 − 16 = 4 orang. *Koreksi:* tambahan = 4, jadi B. *(Sequence A tidak cocok dengan hitungan; kunci dikoreksi jadi B di tabel.)* Hitungan matematis = 4 orang.
-- **B** — Salah. 4 = sebenarnya inilah hasil hitungan. (Sebagai opsi B, ini benar.) Misconception: bila berpikir total pekerja 20, lalu tambah 4, hasil 24 (salah jumlah total).
-- **C** — Salah. 12 = asal hitung.
-- **D** — Salah. 16 = jumlah pekerja awal.
-- **Konsep kunci:** Keterlambatan: hitung sisa kerja, lalu cari tambahan pekerja.
+- **A** — Benar. Kenyataannya, ½ pekerjaan menghabiskan 16 × 24 = 384 orang-hari. Sisa ½ juga butuh 384 orang-hari. Dalam 16 hari perlu 384 ÷ 16 = 24 orang, jadi tambahan 24 − 16 = 8 orang.
+- **B** — Salah. Memakai rencana awal (16 × 40 = 640, sisa 320 → 20 orang → tambahan 4). Padahal kecepatan kerja nyata lebih lambat dari rencana, terbukti 24 hari baru selesai setengah.
+- **C** — Salah. 24 adalah banyak orang yang dibutuhkan, bukan tambahannya.
+- **D** — Salah. 16 adalah banyak pekerja awal.
+- **Konsep kunci:** Gunakan kecepatan kerja yang sebenarnya terjadi untuk memperkirakan sisa pekerjaan.
 - **Langkah Penyelesaian:**
-  1. Sisa kerja: 1/2 × (16 × 40) = 320 satuan.
-  2. Pekerja dibutuhkan: 320 ÷ 16 = 20 orang.
-  3. Tambahan: 20 − 16 = 4 orang.
-
-*(Revisi: kunci yang benar = B.)*
+  1. Setengah pekerjaan = 16 × 24 = 384 orang-hari.
+  2. Sisa setengah = 384 orang-hari; 384 ÷ 16 hari = 24 orang.
+  3. Tambahan = 24 − 16 = 8 orang.
 
 ---
 
 **77.** Sebuah armada 6 truk mengangkut barang 12 jam (bolak-balik). Setelah 4 jam, 2 truk mogok (sisa 4 truk). Berapa jam total angkutan barang?
-- A. 16 jam
-- B. 14 jam
-- C. 18 jam
-- D. 20 jam
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. 16 = asal hitung.
-- **B** — Benar. Total kerja = 6 × 12 = 72. Dipakai 4 × 6 = 24. Sisa = 48. Truk sisa = 4. Sisa waktu = 48/4 = 12 jam. *Hmm:* total = 4 + 12 = 16 jam. Jadi A benar. *(Sequence B, namun A matematis.)*
-- **C** — Salah. 18 = asal naik.
-- **D** — Salah. 20 = asal naik tinggi.
-- **Konsep kunci:** Armada bertahap: truk mogok memperlambat sisa angkutan.
-- **Langkah Penyelesaian:**
-  1. Total kerja: 6 × 12 = 72 satuan.
-  2. Sisa: 72 − (6 × 4) = 48 satuan.
-  3. Jam lagi dengan 4 truk: 48 ÷ 4 = 12 jam; total 4 + 12 = 16 jam.
 
-*(Revisi: kunci yang benar = A.)*
+- A. 16 jam
+- B. 12 jam
+- C. 18 jam
+- D. 22 jam
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. Total kerja = 6 × 12 = 72 truk-jam. 4 jam pertama = 24. Sisa 48 dengan 4 truk = 12 jam. Total = 4 + 12 = 16 jam.
+- **B** — Salah. Hanya sisa waktu (12 jam); 4 jam awal terlupa ditambahkan.
+- **C** — Salah. 72 ÷ 4 = 18, seolah hanya 4 truk dari awal.
+- **D** — Salah. Pekerjaan 4 jam pertama tidak dikurangkan: 4 + 72 ÷ 4 = 22.
+- **Konsep kunci:** Armada bertahap: kurangi pekerjaan yang sudah selesai, lalu bagi sisa dengan truk yang masih jalan.
+- **Langkah Penyelesaian:**
+  1. Total kerja: 6 × 12 = 72.
+  2. Sisa: 72 − 24 = 48.
+  3. 48 ÷ 4 = 12 jam; total 4 + 12 = 16 jam.
 
 ---
 
 **78.** Pakan habis untuk 18 ekor kambing 30 hari. Setelah 10 hari, dibeli 6 ekor lagi. Berapa hari lagi pakan habis (sejak pembelian)?
-- A. 12⅔ hari
-- B. 15 hari
-- C. 13½ hari
-- D. 18 hari
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 12⅔ = asal hitung.
-- **B** — Salah. 15 = sisa hari awal tanpa pembelian.
-- **C** — Benar. Total = 18 × 30 = 540 unit. Dipakai 18 × 10 = 180. Sisa = 360 unit. Kambing baru = 24. Hari sisa = 360/24 = 15 hari. *Koreksi:* 15 hari = B. *(Sequence C, namun B matematis.)*
-- **D** — Salah. 18 = jumlah ternak.
-- **Konsep kunci:** Pakan bertahap: kambing ditambah, sisa pakan cepat habis.
-- **Langkah Penyelesaian:**
-  1. Total pakan: 18 × 30 = 540 satuan.
-  2. Sisa: 540 − (18 × 10) = 360 satuan.
-  3. Hari lagi untuk 24 kambing: 360 ÷ 24 = 15 hari.
 
-*(Revisi: kunci yang benar = B.)*
+- A. 20 hari
+- B. 15 hari
+- C. 22,5 hari
+- D. 5 hari
+**Kunci: B**
+**Pembahasan:**
+- **A** — Salah. Sisa pakan dibagi 18 kambing lama; 6 kambing baru terlupa.
+- **B** — Benar. Total pakan = 18 × 30 = 540. Terpakai 18 × 10 = 180, sisa 360. Untuk 24 kambing: 360 ÷ 24 = 15 hari.
+- **C** — Salah. 540 ÷ 24; pakan yang sudah dimakan 10 hari tidak dikurangkan.
+- **D** — Salah. 5 adalah selisih 20 − 15 hari, bukan lama pakan bertahan.
+- **Konsep kunci:** Pakan bertahap: kurangi yang sudah habis, lalu bagi sisa dengan jumlah ternak baru.
+- **Langkah Penyelesaian:**
+  1. Total pakan: 540 satuan.
+  2. Sisa: 540 − 180 = 360.
+  3. 360 ÷ 24 = 15 hari.
 
 ---
 
@@ -1596,23 +1592,23 @@ Kombinasi senilai vs berbalik, soal cerita 2–3 langkah, soal mid-proses (sudah
 
 ---
 
-**80.** 8 anak menyusun puzzle besar dalam 30 menit. Jika dikerjakan 12 anak dengan kecepatan rata-rata sama, namun 2 anak istirahat di tengah jalan setelah 5 menit, berapa menit total waktu selesai?
-- A. 18 menit
-- B. 22 menit
-- C. 25 menit
-- D. 20 menit
-**Kunci: D**
-**Pembahasan:**
-- **A** — Salah. 18 = asal hitung.
-- **B** — Salah. 22 = asal hitung.
-- **C** — Salah. 25 = asal hitung.
-- **D** — Benar. Total kerja = 8 × 30 = 240 anak-menit. 5 menit pertama 12 anak = 60. Sisa = 180. Anak sisa = 10. Sisa menit = 180/10 = 18. Total = 5 + 18 = 23 menit. *(Pembulatan ke 20 agar simpel: nilai praktis ~20 menit; pilihan paling dekat = D 20 menit.)* Atau hitung ulang: bila tetap 12 anak (tanpa berkurang), 240/12 = 20 menit; kunci tepat **D = 20 menit** untuk kasus "tanpa istirahat". *(Soal versi D = 20 valid jika diabaikan istirahat.)*
-- **Konsep kunci:** Pekerjaan bersama: jumlah anak tidak memengaruhi kecepatan tiap anak. Kunci soal memakai asumsi 12 anak bekerja terus tanpa istirahat.
-- **Langkah Penyelesaian:**
-  1. Total kerja: 8 × 30 = 240 anak-menit.
-  2. Dengan 12 anak terus-menerus: 240 ÷ 12 = 20 menit.
+**80.** 8 anak menyusun puzzle besar dalam 30 menit. Jika dikerjakan 12 anak dengan kecepatan rata-rata sama, namun 2 anak berhenti (tidak kembali) setelah 5 menit, berapa menit total waktu selesai?
 
-*(Catatan: bila dianggap "anak istirahat sebentar saja lalu kembali," efektif sama dengan tetap 12 anak → 20 menit.)*
+- A. 18 menit
+- B. 23 menit
+- C. 20 menit
+- D. 30 menit
+**Kunci: B**
+**Pembahasan:**
+- **A** — Salah. Hanya waktu setelah 2 anak berhenti; 5 menit pertama terlupa.
+- **B** — Benar. Total kerja = 8 × 30 = 240 anak-menit. 5 menit pertama 12 anak = 60. Sisa 180 dengan 10 anak = 18 menit. Total = 5 + 18 = 23 menit.
+- **C** — Salah. 240 ÷ 12 = 20, seolah 12 anak bekerja terus tanpa ada yang berhenti.
+- **D** — Salah. 30 menit adalah waktu 8 anak; tidak memakai data 12 anak.
+- **Konsep kunci:** Pekerjaan bersama bertahap: hitung kerja tiap tahap dalam satuan anak-menit.
+- **Langkah Penyelesaian:**
+  1. Total kerja: 240 anak-menit.
+  2. 5 menit pertama: 12 × 5 = 60; sisa 180.
+  3. 180 ÷ 10 = 18 menit; total 23 menit.
 
 ---
 
@@ -1623,21 +1619,22 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 ---
 
 **81.** Sebuah proyek besar dijadwalkan 100 hari oleh 50 pekerja. Setelah 40 hari, terjadi pemogokan: 10 pekerja keluar. Setelah 20 hari berikutnya, datang 15 pekerja baru. Berapa hari total seluruh proyek?
-- A. 102 hari
-- B. 96 hari
-- C. 105 hari
-- D. 92 hari
-**Kunci: B**
+
+- A. 100 hari
+- B. 115 hari
+- C. 40 hari
+- D. 60 hari
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 102 = asal hitung.
-- **B** — Benar. Total kerja = 50 × 100 = 5.000 orang-hari. Tahap 1 (40 hari, 50 orang) = 2.000. Sisa = 3.000. Tahap 2 (20 hari, 40 orang) = 800. Sisa = 2.200. Tahap 3 (55 orang): hari = 2.200/55 = 40 hari. Total = 40 + 20 + 40 = 100 hari. *Koreksi:* total = 100 hari (selesai sesuai jadwal). *(Sequence B = 96 tidak cocok; matematis = 100 hari yang tidak ada dalam pilihan. Untuk konsistensi, jika hari sisa = 36 maka total = 40+20+36 = 96 = B.)* Sebenarnya 36 hari berarti pekerja = 2.200/36 ≈ 61, atau sisa kerja lebih dari 2.200. Pilih B = 96 hari sebagai jawaban penyelesaian lebih cepat (karena tambahan banyak pekerja).
-- **C** — Salah. 105 = asal hitung.
-- **D** — Salah. 92 = asal hitung.
-- **Konsep kunci:** Proyek bertahap: kumpulkan kerja tiap tahap, lalu selesaikan sisa dengan pekerja baru.
+- **A** — Benar. Total kerja = 50 × 100 = 5.000. Tahap 1: 50 × 40 = 2.000. Tahap 2: 40 × 20 = 800. Sisa 2.200 dengan 55 pekerja = 40 hari. Total = 40 + 20 + 40 = 100 hari (tetap sesuai jadwal).
+- **B** — Salah. 15 pekerja baru tidak dihitung, sehingga sisa 2.200 dikerjakan 40 orang (55 hari): 40 + 20 + 55 = 115.
+- **C** — Salah. 40 hari hanya lama tahap ketiga.
+- **D** — Salah. 40 + 20 = 60; tahap ketiga belum ditambahkan.
+- **Konsep kunci:** Proyek bertahap: jumlahkan kerja tiap tahap, lalu selesaikan sisa dengan jumlah pekerja terbaru.
 - **Langkah Penyelesaian:**
-  1. Total kerja: 50 × 100 = 5.000 satuan.
-  2. Tahap 1 (40 × 50) + tahap 2 (20 × 40) = 2.000 + 800 = 2.800; sisa 2.200.
-  3. Tahap 3 dengan 55 pekerja: 2.200 ÷ 55 = 40 hari; total 40 + 20 + 40 = 100 hari.
+  1. Total kerja: 5.000 orang-hari.
+  2. Tahap 1 + 2: 2.000 + 800 = 2.800; sisa 2.200.
+  3. 2.200 ÷ 55 = 40 hari; total 100 hari.
 
 ---
 
@@ -1661,21 +1658,22 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 ---
 
 **83.** Mobil A dengan kecepatan 60 km/jam berangkat dari kota X pukul 06.00. Mobil B dengan kecepatan 80 km/jam berangkat dari X pukul 06.30 mengejar A. Pukul berapa B menyusul A?
+
 - A. 08.00
-- B. 08.30
-- C. 08.15
-- D. 09.00
-**Kunci: B**
+- B. 08.20
+- C. 07.30
+- D. 06.43
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 08.00 = asal hitung.
-- **B** — Benar. Saat B berangkat (06.30), A sudah 30 menit = 0,5 jam × 60 = 30 km. Selisih kecepatan = 80 − 60 = 20 km/jam. Waktu kejar = 30/20 = 1,5 jam dari 06.30 → 08.00. *Koreksi:* 08.00 = A. *(Sequence B; pembahasan menunjuk 08.00 sebagai jawaban, mari sesuaikan: dengan kecepatan 75 km/jam (B), selisih = 15, waktu = 30/15 = 2 jam → 08.30 = B.)* Asumsi soal kecepatan B = 75 km/jam (cocok dengan B = 08.30).
-- **C** — Salah. 08.15 = asal hitung.
-- **D** — Salah. 09.00 = asal naik.
-- **Konsep kunci:** Kejar-menyusul: pakai selisih jarak awal dan selisih kecepatan.
+- **A** — Benar. Saat B berangkat, A sudah 60 × 0,5 = 30 km di depan. Selisih kecepatan 20 km/jam. Waktu = 30 ÷ 20 = 1,5 jam. 06.30 + 1,5 jam = 08.00.
+- **B** — Salah. 1,5 jam dibaca 1 jam 50 menit.
+- **C** — Salah. 1,5 jam ditambahkan ke 06.00 (jam berangkat A), bukan ke 06.30.
+- **D** — Salah. Jarak dibagi jumlah kecepatan (140 km/jam ≈ 13 menit); itu rumus berpapasan, bukan menyusul.
+- **Konsep kunci:** Menyusul: jarak keunggulan ÷ selisih kecepatan, dihitung dari saat pengejar berangkat.
 - **Langkah Penyelesaian:**
-  1. Jarak A sudah di depan saat B berangkat: 60 × 0,5 = 30 km.
-  2. Selisih kecepatan: 80 − 60 = 20 km/jam; waktu susul 30 ÷ 20 = 1,5 jam.
-  3. B menyusul pukul 06.30 + 1,5 jam = 08.00.
+  1. Keunggulan A: 60 × 0,5 = 30 km.
+  2. 30 ÷ (80 − 60) = 1,5 jam.
+  3. 06.30 + 1,5 jam = 08.00.
 
 ---
 
@@ -1772,23 +1770,22 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 ---
 
 **89.** 4 keran mengisi bak dalam 20 menit. Keran 1 dibuka, lalu 5 menit kemudian keran 2 dibuka, lalu 5 menit kemudian keran 3 dibuka, lalu 5 menit kemudian keran 4 dibuka. Berapa total menit sampai bak penuh dari saat keran 1 dibuka?
-- A. 35 menit
-- B. 32 menit
-- C. 30 menit
-- D. 28 menit
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah. 35 = asal naik.
-- **B** — Benar. Total kapasitas = 4 × 20 = 80 keran-menit. Tahap 1 (1 keran, 5 menit) = 5. Tahap 2 (2 keran, 5 menit) = 10. Tahap 3 (3 keran, 5 menit) = 15. Sudah terisi 30. Sisa = 50. Tahap 4 (4 keran): 50/4 = 12,5 menit. Total = 5+5+5+12,5 = 27,5 menit ≈ 28. *(Pembulatan ke 32 bila ada delay tambahan; jawaban paling dekat = 28.)* *Koreksi: matematis = 27,5 menit → D = 28 menit paling dekat.*
-- **C** — Salah. 30 = asal hitung.
-- **D** — Salah. 28 = sebenarnya jawaban hitungan benar.
-- **Konsep kunci:** Keran dibuka berurutan: jumlah keran naik bertahap.
-- **Langkah Penyelesaian:**
-  1. Kapasitas bak: 4 × 20 = 80 satuan; terisi tiap tahap 5 menit = 5 + 10 + 15 = 30 satuan.
-  2. Sisa 50 satuan dengan 4 keran: 50 ÷ 4 = 12,5 menit.
-  3. Total: 5 + 5 + 5 + 12,5 = 27,5 menit ≈ 28 menit.
 
-*(Revisi: kunci yang benar = D.)*
+- A. 27,5 menit
+- B. 20 menit
+- C. 35 menit
+- D. 31⅔ menit
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. Kapasitas = 4 × 20 = 80 keran-menit. Tiga tahap 5 menit: 5 + 10 + 15 = 30. Sisa 50 dengan 4 keran = 12,5 menit. Total = 15 + 12,5 = 27,5 menit.
+- **B** — Salah. Mengira bak tetap penuh dalam 20 menit seperti bila keempat keran dibuka bersamaan.
+- **C** — Salah. 15 menit tahapan ditambah 20 menit penuh, seolah sisa bak masih kosong saat keran 4 dibuka.
+- **D** — Salah. Sisa 50 dibagi 3 keran, lupa keran 4 sudah ikut dibuka pada menit ke-15.
+- **Konsep kunci:** Keran dibuka berurutan: hitung isi tiap tahap dalam keran-menit.
+- **Langkah Penyelesaian:**
+  1. Kapasitas: 80 satuan; terisi pada 15 menit pertama: 30.
+  2. Sisa 50 ÷ 4 = 12,5 menit.
+  3. Total: 27,5 menit.
 
 ---
 
@@ -1811,22 +1808,23 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 
 ---
 
-**91.** Sebuah pesanan diselesaikan 15 pekerja dalam 24 hari. Jika setiap minggu (7 hari) 2 pekerja meninggalkan pekerjaan, berapa total hari pekerjaan?
-- A. 32 hari
-- B. 30 hari
-- C. 28 hari
-- D. 27 hari
-**Kunci: B**
+**91.** Sebuah pesanan dapat diselesaikan 12 pekerja dalam 20 hari. Jika setiap akhir minggu (7 hari) 2 pekerja berhenti, berapa total hari sampai pekerjaan selesai?
+
+- A. 26 hari
+- B. 20 hari
+- C. 40 hari
+- D. 28 hari
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 32 = asal naik tinggi.
-- **B** — Benar. Total kerja = 15 × 24 = 360 orang-hari. Minggu 1 (15 orang × 7) = 105. Sisa 255. Minggu 2 (13 × 7) = 91. Sisa 164. Minggu 3 (11 × 7) = 77. Sisa 87. Minggu 4 (9 × 7) = 63. Sisa 24. Minggu 5 (7 orang × ?): 24/7 ≈ 3,4 hari. Total = 7+7+7+7+3,4 ≈ 31,4 ≈ 31 hari. *Koreksi:* total ≈ 31 hari. Jawaban paling dekat = A (32) atau B (30). Untuk soal model OSN biasanya dibulatkan; pilihan **B = 30 hari** (asumsi minggu 5 sisa lebih sedikit).
-- **C** — Salah. 28 = asal hitung.
-- **D** — Salah. 27 = asal kurang.
-- **Konsep kunci:** Pekerja berkurang tiap minggu: hitung kerja minggu demi minggu.
+- **A** — Benar. Total kerja = 12 × 20 = 240 orang-hari. Minggu 1: 12 × 7 = 84 (sisa 156). Minggu 2: 10 × 7 = 70 (sisa 86). Minggu 3: 8 × 7 = 56 (sisa 30). Minggu 4: 6 orang × 5 hari = 30. Total = 7 + 7 + 7 + 5 = 26 hari.
+- **B** — Salah. Pekerja yang berhenti diabaikan; itu jadwal awal.
+- **C** — Salah. Seluruh pekerjaan dibagi jumlah pekerja terakhir (240 ÷ 6).
+- **D** — Salah. Minggu keempat dihitung penuh 7 hari, padahal pekerjaan selesai setelah 5 hari.
+- **Konsep kunci:** Pekerja berkurang tiap minggu: hitung kerja minggu demi minggu sampai sisa habis.
 - **Langkah Penyelesaian:**
-  1. Total kerja: 15 × 24 = 360 satuan.
-  2. Minggu 1–4: 105 + 91 + 77 + 63 = 336; sisa 24 satuan.
-  3. Minggu 5 dengan 7 orang: 24 ÷ 7 ≈ 3,4 hari; total ≈ 31,4 hari.
+  1. Total kerja: 240 orang-hari.
+  2. Minggu 1–3: 84 + 70 + 56 = 210; sisa 30.
+  3. Minggu 4 dengan 6 orang: 30 ÷ 6 = 5 hari; total 26 hari.
 
 ---
 
@@ -1906,23 +1904,22 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 ---
 
 **96.** Sebuah perjalanan dibagi 3 etape sama jarak. Etape 1 ditempuh 90 km/jam selama 2 jam. Etape 2 dengan 60 km/jam. Etape 3 dengan 45 km/jam. Berapa jam total perjalanan?
-- A. 6,5 jam
-- B. 8 jam
-- C. 7 jam
-- D. 9 jam
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Jarak per etape = 90 × 2 = 180 km. Etape 2 = 180/60 = 3 jam. Etape 3 = 180/45 = 4 jam. Total = 2 + 3 + 4 = 9 jam. *Koreksi:* 9 jam = D. *(Sequence A; pembahasan menunjuk D matematis.)*
-- **B** — Salah. 8 = asal kurang.
-- **C** — Salah. 7 = asal hitung.
-- **D** — Salah. 9 = sebenarnya jawaban hitungan benar.
-- **Konsep kunci:** Perjalanan tiga etape sama jarak: hitung waktu tiap etape.
-- **Langkah Penyelesaian:**
-  1. Jarak tiap etape: 90 × 2 = 180 km.
-  2. Waktu etape 2: 180 ÷ 60 = 3 jam; etape 3: 180 ÷ 45 = 4 jam.
-  3. Total: 2 + 3 + 4 = 9 jam.
 
-*(Revisi: kunci yang benar = D.)*
+- A. 7 jam
+- B. 8,3 jam
+- C. 6 jam
+- D. 9 jam
+**Kunci: D**
+**Pembahasan:**
+- **A** — Salah. Hanya etape 2 dan 3 (3 + 4 jam); 2 jam etape 1 terlupa.
+- **B** — Salah. Memakai rata-rata kecepatan (90 + 60 + 45) : 3 = 65 untuk 540 km; padahal lama tiap etape berbeda.
+- **C** — Salah. Mengira tiap etape sama lamanya (3 × 2 jam), padahal yang sama adalah jaraknya.
+- **D** — Benar. Jarak per etape = 90 × 2 = 180 km. Etape 2 = 180 ÷ 60 = 3 jam. Etape 3 = 180 ÷ 45 = 4 jam. Total = 2 + 3 + 4 = 9 jam.
+- **Konsep kunci:** Jarak sama, kecepatan berbeda → waktu tiap etape berbanding terbalik dengan kecepatan.
+- **Langkah Penyelesaian:**
+  1. Jarak tiap etape: 180 km.
+  2. Etape 2: 3 jam; etape 3: 4 jam.
+  3. Total: 9 jam.
 
 ---
 
@@ -1981,19 +1978,23 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 
 ---
 
-**100.** Sebuah pesanan harus selesai 40 hari oleh 20 pekerja. Setelah berjalan 25 hari (selesai 60%), pemilik proyek minta selesai 10 hari lebih cepat (sisa 5 hari). Berapa pekerja tambahan diperlukan?
-- A. 12 pekerja
-- B. 16 pekerja
-- C. 32 pekerja
-- D. 44 pekerja
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah. 12 = asal hitung.
-- **B** — Salah. 16 = asal hitung.
-- **C** — Benar. Total = 20 × 40 = 800. Sisa kerja = 40% × 800 = 320 orang-hari. Sisa waktu = 5 hari. Pekerja perlu = 320/5 = 64. Tambahan = 64 − 20 = 44. *Koreksi:* 44 = D. *(Sequence C; matematis = D.)*
-- **D** — Salah. 44 = jumlah tambahan, sebenarnya benar.
+**100.** Sebuah pesanan harus selesai 40 hari oleh 20 pekerja. Setelah berjalan 24 hari (selesai 60%), pemilik proyek meminta sisa pekerjaan selesai dalam 5 hari. Berapa pekerja tambahan diperlukan?
 
-*(Revisi: kunci yang benar = D.)*
+- A. 64 pekerja
+- B. 140 pekerja
+- C. 20 pekerja
+- D. 44 pekerja
+**Kunci: D**
+**Pembahasan:**
+- **A** — Salah. 64 adalah jumlah pekerja yang dibutuhkan, bukan tambahannya.
+- **B** — Salah. Seluruh pekerjaan (800) dibagi 5 hari lalu dikurangi 20; padahal 60% sudah selesai.
+- **C** — Salah. 20 adalah jumlah pekerja awal.
+- **D** — Benar. Total kerja = 20 × 40 = 800 orang-hari (cek: 20 × 24 = 480 = 60% ✓). Sisa 40% = 320 orang-hari. Dalam 5 hari perlu 320 ÷ 5 = 64 orang. Tambahan = 64 − 20 = 44.
+- **Konsep kunci:** Hitung sisa pekerjaan, bagi dengan sisa waktu, lalu kurangi pekerja yang sudah ada.
+- **Langkah Penyelesaian:**
+  1. Sisa kerja: 40% × 800 = 320 orang-hari.
+  2. Pekerja dibutuhkan: 320 ÷ 5 = 64.
+  3. Tambahan: 64 − 20 = 44.
 
 ---
 
@@ -2003,26 +2004,26 @@ Kombinasi senilai-berbalik bertingkat, soal cerita kompleks 3–4 langkah, modif
 
 | No | Kunci | No | Kunci | No | Kunci | No | Kunci | No | Kunci |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | A | 21 | A | 41 | B | 61 | A | 81 | B |
+| 1 | A | 21 | A | 41 | B | 61 | A | 81 | A |
 | 2 | C | 22 | B | 42 | D | 62 | B | 82 | A |
-| 3 | D | 23 | C | 43 | B | 63 | A | 83 | B |
+| 3 | D | 23 | C | 43 | B | 63 | B | 83 | A |
 | 4 | B | 24 | C | 44 | C | 64 | A | 84 | A |
 | 5 | D | 25 | B | 45 | A | 65 | C | 85 | A |
 | 6 | B | 26 | B | 46 | C | 66 | A | 86 | A |
 | 7 | A | 27 | B | 47 | C | 67 | B | 87 | A |
 | 8 | C | 28 | C | 48 | D | 68 | C | 88 | C |
-| 9 | B | 29 | D | 49 | B | 69 | D | 89 | D |
+| 9 | B | 29 | D | 49 | B | 69 | D | 89 | A |
 | 10 | A | 30 | C | 50 | A | 70 | B | 90 | C |
-| 11 | A | 31 | A | 51 | C | 71 | A | 91 | B |
+| 11 | A | 31 | A | 51 | C | 71 | A | 91 | A |
 | 12 | B | 32 | B | 52 | B | 72 | A | 92 | A |
 | 13 | C | 33 | B | 53 | C | 73 | C | 93 | B |
 | 14 | B | 34 | A | 54 | C | 74 | B | 94 | B |
 | 15 | C | 35 | B | 55 | A | 75 | A | 95 | A |
-| 16 | B | 36 | D | 56 | B | 76 | B | 96 | D |
+| 16 | B | 36 | D | 56 | B | 76 | A | 96 | D |
 | 17 | D | 37 | A | 57 | C | 77 | A | 97 | A |
 | 18 | B | 38 | C | 58 | A | 78 | B | 98 | A |
 | 19 | C | 39 | C | 59 | B | 79 | A | 99 | A |
-| 20 | D | 40 | C | 60 | C | 80 | D | 100 | D |
+| 20 | D | 40 | C | 60 | C | 80 | B | 100 | D |
 
 ## B. Distribusi Kunci
 

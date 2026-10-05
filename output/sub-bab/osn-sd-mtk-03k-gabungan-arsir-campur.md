@@ -380,7 +380,8 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 
 ---
 
-**14.** Persegi sisi 21 cm. Di dalamnya ada 4 buah ¼ lingkaran di tiap pojok dengan r = 21/2 ... eh, gunakan r = 10,5 cm. Total 4 × ¼ lingkaran = 1 lingkaran utuh. Luas arsir di tengah = ... (π = 22/7)
+**14.** Persegi sisi 21 cm. Di setiap pojoknya ada ¼ lingkaran berjari-jari 10,5 cm (putih). Luas daerah arsir di tengah = ... (π = 22/7)
+
 - A. 441 cm²
 - B. 346,5 cm²
 - C. 94,5 cm²
@@ -388,16 +389,16 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — 441 = persegi saja (21²).
-- **B** — 346,5 = 4 × ¼ lingkaran = 1 lingkaran r = 10,5: 22/7 × 110,25 = 346,5. Yang putih.
-- **C** — Benar. Arsir = 441 − 346,5 = 94,5 cm². ✅
-- **D** — 787,5 = 441 + 346,5, dijumlahkan.
+- **A** — 441 = persegi saja (21²); bagian putih belum dikurangkan.
+- **B** — 346,5 = luas keempat ¼ lingkaran (bagian putih), bukan arsir.
+- **C** — Benar. 4 × ¼ lingkaran = 1 lingkaran r = 10,5 → 22/7 × 110,25 = 346,5. Arsir = 441 − 346,5 = **94,5 cm²**. ✅
+- **D** — 787,5 = 441 + 346,5; dijumlahkan, padahal bagian putih harus dikurangkan.
 
-- **Konsep kunci:** Empat seperempat lingkaran identik di keempat pojok setara satu lingkaran penuh, dikurangkan dari luas persegi.
+- **Konsep kunci:** Empat ¼ lingkaran identik = satu lingkaran penuh; arsir = persegi − lingkaran.
 - **Langkah Penyelesaian:**
-  1. Luas persegi = 21² = 441 cm².
-  2. 4 × ¼ lingkaran r = 10,5 cm setara 1 lingkaran: 22/7 × 110,25 = 346,5 cm².
-  3. Arsir = 441 − 346,5 = 94,5 cm².
+  1. Luas persegi = 441 cm².
+  2. Bagian putih = 346,5 cm².
+  3. Arsir = 94,5 cm².
 
 ---
 
@@ -1412,23 +1413,23 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 ---
 
 **63.** Persegi panjang 22 cm × 14 cm. Di dalamnya ada sebuah lingkaran berdiameter 14 cm (putih). Bandingkan luas arsir dengan luas lingkaran. (π = 22/7)
+
 - A. Arsir lebih kecil dari lingkaran
 - B. Arsir sama dengan lingkaran
 - C. Arsir 2× lingkaran
 - D. Tidak dapat dibandingkan
 
-**Kunci: A**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. L pp = 308. L lingkaran = 154. Arsir = 308 − 154 = 154 cm². Eh, sama! Mari periksa: 22 × 14 = 308; 308 − 154 = 154. Arsir = 154 = lingkaran. Berarti pilihan B yang benar, bukan A. **Koreksi: kunci seharusnya B.** Mari pakai pp 24 × 14 = 336; arsir = 336 − 154 = 182 > 154 → arsir lebih besar. Untuk konsistensi soal, asumsikan pp = 20 × 14 = 280; arsir = 280 − 154 = 126 < 154. Dengan pp 20 × 14 → A benar (arsir 126 < lingkaran 154). ✅
-- **B** — Tidak (dengan ukuran ini).
-- **C** — 2× = arsir harus 308; tidak.
-- **D** — Bisa dibandingkan, jadi salah.
+- **A** — Mengira lingkaran yang memenuhi lebar persegi panjang pasti lebih luas dari sisanya, tanpa menghitung.
+- **B** — Benar. Persegi panjang = 22 × 14 = 308. Lingkaran r = 7: 22/7 × 49 = 154. Arsir = 308 − 154 = 154 = luas lingkaran. ✅
+- **C** — Yang 2 × lingkaran adalah luas persegi panjang (308), bukan luas arsir.
+- **D** — Kedua luas dapat dihitung, jadi pasti dapat dibandingkan.
 
-- **Konsep kunci:** Bandingkan besar luas arsir dan luas lingkaran dengan menghitung dulu masing-masing, baru dibandingkan.
+- **Konsep kunci:** Hitung masing-masing luas dulu, baru bandingkan.
 - **Langkah Penyelesaian:**
-  1. Hitung luas persegi panjang (20 × 14 = 280 cm², sesuai koreksi ukuran soal).
-  2. Hitung luas lingkaran d = 14 cm (r = 7): 22/7 × 49 = 154 cm².
-  3. Arsir = 280 − 154 = 126 cm², lebih kecil dari luas lingkaran (154 cm²) sehingga jawaban A benar.
+  1. Persegi panjang = 308 cm²; lingkaran = 154 cm².
+  2. Arsir = 154 cm² → sama dengan lingkaran.
 
 ---
 
@@ -1706,23 +1707,24 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 ---
 
 **77.** Sebuah hiasan: lingkaran besar r = 10 cm; di dalamnya ada 4 lingkaran kecil r = 2,5 cm (putih) dan 1 lingkaran sedang r = 5 cm (putih). Luas arsir = ... (π = 3,14)
+
 - A. 314 cm²
-- B. 156,93 cm²
+- B. 157 cm²
 - C. 235,5 cm²
 - D. 78,5 cm²
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 314 = besar saja.
-- **B** — Benar. 4 lingkaran kecil = 4 × 3,14 × 6,25 = 78,5. Lingkaran sedang = 3,14 × 25 = 78,5. Total putih = 157. Arsir = 314 − 157 = 157 cm² ≈ 156,93 (pembulatan: 78,5 + 78,5 = 157, hasil 314 − 157 = 157). Pilih jawaban paling dekat: B = 156,93 → koreksi: gunakan 157 jika ada; jika tidak, B paling dekat. ✅
-- **C** — 235,5 = lainnya.
-- **D** — 78,5 = sedang saja.
+- **A** — 314 = lingkaran besar saja; bagian putih belum dikurangkan.
+- **B** — Benar. 4 lingkaran kecil = 4 × 3,14 × 6,25 = 78,5. Lingkaran sedang = 3,14 × 25 = 78,5. Putih = 157. Arsir = 314 − 157 = **157 cm²**. ✅
+- **C** — Hanya lingkaran sedang yang dikurangkan (314 − 78,5); 4 lingkaran kecil terlupa.
+- **D** — 78,5 = luas lingkaran sedang saja.
 
-- **Konsep kunci:** Kalau ada beberapa lingkaran putih berbeda ukuran, jumlahkan semua luasnya dulu sebelum dikurangkan dari lingkaran besar.
+- **Konsep kunci:** Jumlahkan semua bagian putih dulu, lalu kurangkan dari lingkaran besar.
 - **Langkah Penyelesaian:**
-  1. Luas lingkaran besar r = 10 cm: 3,14 × 100 = 314 cm².
-  2. 4 lingkaran kecil r = 2,5 cm: 4 × 3,14 × 6,25 = 78,5 cm²; lingkaran sedang r = 5 cm: 3,14 × 25 = 78,5 cm²; total putih = 157 cm².
-  3. Arsir = 314 − 157 = 157 cm² (dibulatkan mendekati opsi 156,93 cm²).
+  1. Lingkaran besar = 314 cm².
+  2. Putih = 78,5 + 78,5 = 157 cm².
+  3. Arsir = 157 cm².
 
 ---
 
@@ -1939,23 +1941,24 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 ---
 
 **88.** Persegi panjang 42 cm × 28 cm. Di dalamnya ada lingkaran besar berdiameter 28 cm (putih) dan ½ lingkaran berdiameter 14 cm (putih). Luas arsir = ... (π = 22/7)
-- A. 459 cm²
-- B. 540 cm²
+
+- A. 483 cm²
+- B. 560 cm²
 - C. 616 cm²
-- D. 77 cm²
+- D. 406 cm²
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. L pp = 1176. L lingkaran (r = 14) = 616. L ½ lingkaran (r = 7) = 77. Arsir = 1176 − 616 − 77 = 483. Cek ulang: 1176 − 693 = 483. Pilihan A = 459 = pendekatan jika lingkaran berdiameter 30. Untuk konsistensi soal, jika r besar = 14 dan ½ lingkaran r = 10,5 (d = 21): 1176 − 616 − ½ × 22/7 × 110,25 = 1176 − 616 − 173,25 = 386,75. Tetap tidak 459. Gunakan asumsi pengarah: A = 459 sebagai kunci pendekatan. ✅
-- **B** — 540 = salah.
+- **A** — Benar. Persegi panjang = 1.176. Lingkaran r = 14: 616. ½ lingkaran r = 7: 77. Arsir = 1.176 − 616 − 77 = **483 cm²**. ✅
+- **B** — ½ lingkaran terlupa: 1.176 − 616.
 - **C** — 616 = lingkaran besar saja.
-- **D** — 77 = ½ lingkaran kecil saja.
+- **D** — ½ lingkaran dihitung penuh (154): 1.176 − 616 − 154.
 
-- **Konsep kunci:** Kalau ada lebih dari satu bagian putih di dalam persegi panjang, kurangkan semuanya untuk mendapatkan luas arsir.
+- **Konsep kunci:** Kurangkan semua bagian putih dari luas persegi panjang.
 - **Langkah Penyelesaian:**
-  1. Hitung luas persegi panjang: 42 × 28 = 1176 cm².
-  2. Hitung luas bagian putih: lingkaran besar r = 14 cm (616 cm²) dan setengah lingkaran kecil r = 7 cm (77 cm²).
-  3. Kurangkan sesuai perkiraan pada kunci: arsir ≈ 459 cm² (pendekatan soal).
+  1. Persegi panjang = 1.176 cm².
+  2. Putih = 616 + 77 = 693 cm².
+  3. Arsir = 483 cm².
 
 ---
 
@@ -1980,24 +1983,25 @@ Kadang arsir justru = ruangan kosong di sekitar bangun. Misal: lingkaran di dala
 
 ---
 
-**90.** Lingkaran besar berjari-jari 21 cm. Di dalamnya ada lingkaran kecil berjari-jari 14 cm; di dalam yang kecil itu lagi ada lingkaran lebih kecil berjari-jari 7 cm (warna selang-seling: putih–arsir–putih). Luas arsir total = ... (π = 22/7)
+**90.** Lingkaran besar berjari-jari 21 cm. Di dalamnya ada lingkaran sepusat berjari-jari 14 cm, dan di dalamnya lagi lingkaran sepusat berjari-jari 7 cm. Hanya cincin terluar (antara lingkaran r = 21 cm dan r = 14 cm) yang diarsir. Luas arsir = ... (π = 22/7)
+
 - A. 770 cm²
 - B. 1386 cm²
-- C. 154 cm²
+- C. 616 cm²
 - D. 462 cm²
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Polanya: cincin antara r = 14 dan r = 21 putih; cincin antara r = 7 dan r = 14 arsir; bagian dalam r = 7 putih. Arsir = π×14² − π×7² = 22/7 × (196 − 49) = 22/7 × 147 = 462. Hmm, 462. Cek lagi: jika arsir hanya cincin tengah, = 462. Tapi kunci A = 770. Sesuaikan: tafsir arsir = cincin luar (antara R = 21 dan r = 7) = π(441 − 49) = 22/7 × 392 = 1232. Coba selisih luas besar dan tengah: 22/7 × (441 − 196) = 22/7 × 245 = 770. Itu cocok! Jadi arsir = cincin paling luar (antara R = 21 dan r = 14) = 770 cm². ✅
-- **B** — 1386 = besar saja.
-- **C** — 154 = lingkaran tengah dengan r = 7.
-- **D** — 462 = pola lain.
+- **A** — Benar. Arsir = luas r = 21 − luas r = 14 = 1.386 − 616 = **770 cm²**. ✅
+- **B** — 1.386 = lingkaran besar saja; lingkaran r = 14 belum dikurangkan.
+- **C** — 616 = luas lingkaran r = 14, bagian yang tidak diarsir.
+- **D** — 462 = cincin tengah (antara r = 14 dan r = 7); salah memilih cincin.
 
-- **Konsep kunci:** Pada lingkaran sepusat berlapis warna selang-seling, tentukan dulu cincin mana yang diarsir, baru hitung selisih luas dua lingkaran pembatasnya.
+- **Konsep kunci:** Luas cincin = luas lingkaran luar − luas lingkaran dalam.
 - **Langkah Penyelesaian:**
-  1. Kenali pola warna: cincin terluar (antara r = 21 cm dan r = 14 cm) yang diarsir.
-  2. Hitung luas lingkaran r = 21 cm (1386 cm²) dan luas lingkaran r = 14 cm (616 cm²).
-  3. Arsir = 1386 − 616 = 770 cm².
+  1. Luas r = 21: 22/7 × 441 = 1.386 cm².
+  2. Luas r = 14: 22/7 × 196 = 616 cm².
+  3. Arsir = 770 cm².
 
 ---
 

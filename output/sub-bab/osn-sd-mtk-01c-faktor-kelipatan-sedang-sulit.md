@@ -1224,7 +1224,6 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 - **Langkah Penyelesaian:**
   1. Terapkan rumus: a × b = 120 × 4 = 480.
   2. Substitusi 24 → b = 480 ÷ 24 = 20.
-  3. Cek ulang: KPK x FPB = a x b => 24 x b = 120 x 4 = 480, sehingga b = 480 : 24 = 20.
 
 ---
 
@@ -1436,7 +1435,7 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — Salah. Menghitung KPK − 24 atau salah hitung salah satu nilainya.
+- **A** — Salah. FPB dikira 24 (padahal 24 tidak membagi 60), sehingga 240 − 24 = 216.
 - **B** — Salah. Menjumlahkan KPK dan FPB (240 + 12 = 252), tapi soal minta selisih.
 - **C** — Salah. Itu KPK-nya saja.
 - **D** — **Benar.** 48 = 2⁴·3, 60 = 2²·3·5 → KPK = 2⁴·3·5 = 240, FPB = 2²·3 = 12 → 240 − 12 = 228.
@@ -1444,7 +1443,6 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 - **Langkah Penyelesaian:**
   1. Uraikan 48 dan 60; hitung KPK = 240 dan FPB = 12.
   2. Kurangkan: 240 − 12 = 228.
-  3. Hitung ulang KPK(48, 60) = 240 dan FPB(48, 60) = 12, selisihnya 240 - 12 = 228.
 
 ---
 
@@ -1584,21 +1582,20 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 
 - A. 80
 - B. 81
-- C. 83
+- C. 79
 - D. 82
 
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — Salah. Menghitung komplemen dengan salah satu sisi keliru.
-- **B** — Salah. Off-by-one pada kelipatan 35.
-- **C** — Salah. Mengurangi kelipatan 5 dan 7 tanpa menambahkan kembali kelipatan 35.
+- **A** — Salah. Kelipatan 35 dihitung 1 saja (hanya 35), padahal ada 35, 70, 105: 120 − (24 + 17 − 1) = 80.
+- **B** — Salah. Kelipatan 35 dihitung 2: 120 − (24 + 17 − 2) = 81.
+- **C** — Salah. Kelipatan 35 tidak ditambahkan kembali, sehingga terhitung dua kali: 120 − (24 + 17) = 79.
 - **D** — **Benar.** Kelipatan 5: 24; kelipatan 7: 17; kelipatan 35: 3. Habis dibagi salah satu = 24 + 17 − 3 = 38 → tidak keduanya = 120 − 38 = 82.
 - **Konsep kunci:** Komplemen = total − |A∪B| dengan |A∪B| = |A| + |B| − |A∩B|.
 - **Langkah Penyelesaian:**
   1. Hitung [120÷5] = 24, [120÷7] = 17, [120÷35] = 3.
   2. 120 − (24 + 17 − 3) = 120 − 38 = 82.
-  3. Hitung ulang dengan inklusi-eksklusi: 120 - (24 + 17 - 3) = 120 - 38 = 82.
 
 ---
 
@@ -1825,22 +1822,21 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 **82.** Banyak bilangan bulat dari 1 sampai 200 yang habis dibagi 6 **atau** 15 adalah ...
 
 - A. 41
-- B. 43
+- B. 46
 - C. 40
 - D. 39
 
 **Kunci: C**
 
 **Pembahasan:**
-- **A** — Salah. Tidak mengurangi irisan dengan benar.
-- **B** -- Salah. Menjumlahkan kelipatan 6 dan 15 lalu mengurangi 2 saja.
+- **A** — Salah. Kelipatan 30 dihitung 5 (lupa 180), sehingga 33 + 13 − 5 = 41.
+- **B** — Salah. Irisan (kelipatan 30) tidak dikurangkan: 33 + 13 = 46.
 - **C** — **Benar.** Kelipatan 6: [200÷6] = 33; kelipatan 15: [200÷15] = 13; kelipatan 30: 6 → 33 + 13 − 6 = 40.
 - **D** — Salah. Off-by-one pada kelipatan 15 (seharusnya 13).
 - **Konsep kunci:** Inklusi-eksklusi: |A∪B| = |A| + |B| − |A∩B| dengan irisan = kelipatan KPK.
 - **Langkah Penyelesaian:**
   1. Hitung [200÷6] = 33, [200÷15] = 13, [200÷30] = 6.
   2. 33 + 13 − 6 = 40.
-  3. Hitung ulang: kelipatan 6 atau 15 yang tidak lewat 200 = 33 + 13 - 6 = 40.
 
 ---
 
@@ -1913,22 +1909,21 @@ Kelipatan persekutuan dua bilangan adalah kelipatan dari **KPK**(nya).
 **86.** Jumlah semua faktor dari 480 adalah ...
 
 - A. 1512
-- B. 1440
-- C. 1560
-- D. 1488
+- B. 744
+- C. 24
+- D. 252
 
 **Kunci: A**
 
 **Pembahasan:**
 - **A** — **Benar.** 480 = 2⁵ × 3 × 5 → σ = (1+2+4+8+16+32)(1+3)(1+5) = 63 × 4 × 6 = 1512.
-- **B** — Salah. Menghitung σ(2⁴ × 3 × 5) (lupa pangkat 2⁵).
-- **C** — Salah. Memasukkan faktor palsu ke penjumlahan.
-- **D** — Salah. Lupa beberapa faktor besar (mis. 240 atau 160).
+- **B** — Salah. Pangkat 2⁵ dibaca 2⁴: (1+2+4+8+16) × 4 × 6 = 744.
+- **C** — Salah. 24 adalah banyak faktor (6 × 2 × 2), bukan jumlahnya.
+- **D** — Salah. Faktor prima 5 terlupa: 63 × 4 = 252.
 - **Konsep kunci:** σ(n) = hasil kali deret pangkat (1 + p + … + p^a) untuk tiap prima.
 - **Langkah Penyelesaian:**
   1. Uraikan 480 = 2⁵ × 3 × 5.
   2. Hitung (1+2+4+8+16+32) = 63; 63 × (1+3) × (1+5) = 63 × 4 × 6 = 1512.
-  3. Hitung ulang sigma(480) = 63 x 4 x 6 = 1512.
 
 ---
 

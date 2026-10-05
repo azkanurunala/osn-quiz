@@ -13,7 +13,7 @@
 ### Soal 1 · MTK-01 · FPB & Faktorisasi Prima (multi-konsep) · Nasional
 
 **(1) Soal:**
-Tiga buah bilangan bulat positif a, b, dan c memenuhi a × b × c = 2.520. Jika FPB(a, b) = 6 dan FPB(b, c) = 10, maka nilai b terkecil yang mungkin adalah...
+Tiga bilangan asli a, b, dan c memenuhi FPB(a, b) = 6 dan FPB(b, c) = 10. Nilai b terkecil yang mungkin adalah...
 
 **(2) Pilihan Jawaban:**
 
@@ -22,42 +22,33 @@ B. 10
 C. 30
 D. 60
 
-**(3) Jawaban:** **A. 2**
+**(3) Jawaban:** **C. 30**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB, faktorisasi prima, dan analisis kemungkinan faktor bersama dari tiga bilangan.
+- **Konsep yang diuji:** FPB sebagai pembagi bersama, sehingga b harus kelipatan kedua FPB.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2** — Benar. Jika b = 2, agar FPB(a,b) = 6, maka harus juga 3 | a dan 3 | b — tetapi b = 2 berarti FPB(a,b) maksimum 2. Mari periksa ulang: FPB(a,b) = 6 mewajibkan **6 | b**, jadi b minimal 6. Begitu pula FPB(b,c) = 10 mewajibkan **10 | b**. Maka b kelipatan persekutuan dari 6 dan 10, yaitu **KPK(6,10) = 30**. Tapi soal cari b **terkecil**, dan kelipatan 30 yang masuk akal: cek 30 itu sendiri. Jadi A salah — lihat pembahasan utama.
-  - **B. 10** — Salah. 10 hanya kelipatan 10, bukan 6. FPB(a, 10) tidak mungkin 6 karena 6 tidak membagi 10.
-  - **C. 30** — Benar. b harus kelipatan KPK(6, 10) = 30. Cek: 2520 ÷ 30 = 84 = a × c. Ambil a = 6 (agar FPB(a,b)=6) dan c = 14 (agar FPB(b,c)=FPB(30,14)=2 — tidak 10). Coba a=12, c=7: FPB(12,30)=6 ✓; FPB(30,7)=1 — gagal. Coba a=6, c=14: gagal di FPB(b,c). Coba c = 70, a = 84/70 tidak bulat. Periksa: butuh 10|c. c = 10 → a=84/10=8.4 gagal. c=14 gagal. c=70 → a=84/70 gagal. Sebenarnya 30 tidak feasible.
-  - **D. 60** — Benar (jawaban sesungguhnya). b = 60 (kelipatan 30). 2520 ÷ 60 = 42 = a × c. Ambil a = 6 → FPB(6,60)=6 ✓; c = 7 → FPB(60,7)=1 (perlu 10). Ambil a = 42, c = 1: FPB(42,60)=6 ✓; FPB(60,1)=1 gagal. Tidak feasible juga.
-
-  **Koreksi:** Cek b = 30. Kita perlu a × c = 84, 6 | a (lengkapnya FPB(a,30)=6 → a = 6k dengan gcd(k,5)=1), dan 10 | c (FPB(c,30)=10 → c = 10m dengan gcd(m,3)=1). Maka a·c = 60·k·m = 84 → k·m = 84/60 = tidak bulat. **Gagal.** Cek b = 60: butuh 6 | a tapi gcd(a,60)=6, jadi a = 6k, gcd(k,10)=1; butuh 10|c, gcd(c,60)=10, c=10m, gcd(m,6)=1. a·c = 60·k·m = 42 → k·m = 0,7 gagal. Cek b = 90: a·c = 28, a = 6k gcd(k,15)=1, c=10m gcd(m,9)=1: 60km=28 gagal. Cek b = 210 (KPK 6,10 dikalikan 7): a·c = 12. a = 6 (k=1, gcd(1,35)=1 ✓), c = 2: gcd(c,210)=2 ≠ 10. Tidak ada solusi sederhana.
-
-  **Karena soal seperti ini bergantung struktur, jawaban paling konsisten: b = 30** (kelipatan terkecil KPK 6 dan 10) — tetapi dalam praktik tanpa solusi a,c bulat positif, jawaban dipilih secara struktural. Untuk OSN SD nyata, **jawaban: C. 30**.
+  - **A. 2** — Salah. Itu FPB(6, 10). Jika b = 2, FPB(a, b) paling besar 2, tidak mungkin 6.
+  - **B. 10** — Salah. Hanya memenuhi syarat kedua; 6 tidak membagi 10 sehingga FPB(a, 10) tidak mungkin 6.
+  - **C. 30** — Benar. FPB(a, b) = 6 berarti 6 | b; FPB(b, c) = 10 berarti 10 | b. Jadi b kelipatan KPK(6, 10) = 30. Contoh: a = 6, b = 30, c = 10 → FPB(6, 30) = 6 ✓, FPB(30, 10) = 10 ✓.
+  - **D. 60** — Salah. 60 = 6 × 10 memang kelipatan keduanya, tetapi bukan yang terkecil; hasil kali tidak sama dengan KPK.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. FPB(a,b) = 6 → **6 | b**.
-  2. FPB(b,c) = 10 → **10 | b**.
-  3. b harus kelipatan persekutuan 6 dan 10 → b kelipatan **KPK(6,10) = 30**.
-  4. b terkecil yang mungkin secara struktural = **30**.
+  1. 6 | b dan 10 | b.
+  2. b kelipatan KPK(6, 10) = 30.
+  3. Cek b = 30 dengan a = 6, c = 10 → kedua syarat terpenuhi.
 
-- **Hasil akhir:** b terkecil = **30** (jawaban C).
+- **Hasil akhir:** b terkecil = **30** (jawaban **C**).
 
-- **💭 Tips:** Saat ada dua FPB melibatkan b, b harus kelipatan KPK kedua FPB itu. Selalu cari **kelipatan persekutuan** dari nilai-nilai FPB.
-
-> **Catatan editorial:** Jawaban benar adalah **C. 30** (b kelipatan KPK(6,10)).
-
-**Jawaban final: C**
+- **💭 Tips:** Bilangan yang dibagi habis oleh dua FPB pasti kelipatan KPK kedua FPB itu.
 
 ---
 
 ### Soal 2 · MTK-01 · KPK Aplikatif Multi-event · Nasional
 
 **(1) Soal:**
-Tiga lampu A, B, dan C berkedip dengan periode masing-masing 12 detik, 18 detik, dan 30 detik. Pada pukul 08.00 ketiganya berkedip bersamaan. Pada pukul 11.00 hari yang sama, berapa kali ketiga lampu telah berkedip bersamaan (termasuk pukul 08.00 dan pukul 11.00 jika kebetulan)?
+Tiga lampu A, B, dan C berkedip dengan periode masing-masing 12 detik, 18 detik, dan 30 detik. Pada pukul 08.00 ketiganya berkedip bersamaan. Sampai pukul 09.00 hari yang sama, berapa kali ketiga lampu berkedip bersamaan (termasuk pukul 08.00 dan pukul 09.00)?
 
 **(2) Pilihan Jawaban:**
 
@@ -70,27 +61,22 @@ D. 31 kali
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK tiga bilangan dengan konteks waktu interval.
+- **Konsep yang diuji:** KPK tiga bilangan dan menghitung titik kejadian dalam selang waktu.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 20 kali** — Salah. Muncul jika lupa menghitung kedipan **awal** (pukul 08.00). 10.800 ÷ 180 = 60 selang waktu = 60+1 titik, tetapi siswa salah hitung total selang menjadi 3600÷180=20.
-  - **B. 21 kali** — Benar. KPK(12,18,30) = 180 detik = 3 menit. Selisih waktu 08.00 → 11.00 = 3 jam = 10.800 detik. Jumlah kedipan bersamaan = 10.800 ÷ 180 + 1 = 60 + 1 = **61** — ralat: lihat hasil di bawah.
-
-  **Penghitungan ulang:** KPK(12,18,30). 12 = 2²·3; 18 = 2·3²; 30 = 2·3·5. KPK = 2²·3²·5 = 4·9·5 = **180** detik = 3 menit. Dari 08.00 sampai 11.00 = 180 menit. Jumlah interval 3 menit dalam 180 menit = 60. Maka jumlah momen bersamaan = 60 + 1 = **61** kali. Ini tidak ada di opsi! Mari periksa selang: 60 menit (1 jam) → 60/3 = 20 selang → 21 titik. **Soal kemungkinan 1 jam, bukan 3 jam**, atau pilihan menggunakan jumlah selang.
-
-  Mengikuti opsi B yang paling rasional dengan 1 jam: 60 menit / 3 menit = 20 selang + 1 titik awal = **21 kali**. Versi soal yang konsisten dengan opsi: dari 08.00 ke 09.00.
-  - **C. 30 kali** — Salah. Muncul jika siswa salah menghitung KPK = 120 detik (= 2 menit) dan periode 60 menit / 2 menit = 30. Salah faktorisasi.
-  - **D. 31 kali** — Salah. Versi C ditambah titik awal.
+  - **A. 20 kali** — Salah. Itu banyak selang (60 ÷ 3); kedipan awal pukul 08.00 lupa dihitung.
+  - **B. 21 kali** — Benar. KPK(12, 18, 30) = 180 detik = 3 menit. Kedipan bersama pada menit ke-0, 3, 6, …, 60 → 60 ÷ 3 + 1 = 21 kali.
+  - **C. 30 kali** — Salah. KPK salah dihitung 120 detik (pangkat 3 diambil yang terkecil: 2³ × 3 × 5), sehingga 60 ÷ 2 = 30 selang.
+  - **D. 31 kali** — Salah. Sama dengan C (KPK salah 2 menit), ditambah titik awal.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. KPK(12,18,30) = 180 detik = **3 menit** = periode bersamaan.
-  2. Dari 08.00 sampai 09.00 (1 jam, sesuai konsistensi opsi) = 60 menit.
-  3. Jumlah interval 3-menit dalam 60 menit = 60 ÷ 3 = 20.
-  4. Karena bersamaan terjadi di titik 0, 3, 6, ..., 60 menit, total = **21 momen bersamaan**.
+  1. 12 = 2²·3; 18 = 2·3²; 30 = 2·3·5 → KPK = 2²·3²·5 = 180 detik = 3 menit.
+  2. 08.00–09.00 = 60 menit → 20 selang.
+  3. Banyak kejadian = 20 + 1 = 21.
 
-- **Hasil akhir:** **21 kali**.
+- **Hasil akhir:** **21 kali** (jawaban **B**).
 
-- **💭 Tips:** Hitung "berapa kali" dalam selang waktu = (lama selang ÷ periode KPK) + 1 (untuk titik awal). Selalu konversi semua satuan waktu ke detik atau menit yang sama.
+- **💭 Tips:** Banyak kejadian dalam selang = (lama selang ÷ KPK) + 1 bila awal dan akhir ikut dihitung.
 
 ---
 
@@ -245,62 +231,48 @@ D. Tak terhingga
 ### Soal 7 · MTK-01 · Operasi Hitung Multi-step · Nasional
 
 **(1) Soal:**
-Nilai dari (15² − 13²) × (12² + 5²) ÷ (17 × 4) adalah...
+Nilai dari (15² − 13²) × (12² + 5²) ÷ (8 × 13) adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 49
-B. 56
-C. 64
-D. 98
+A. 91
+B. 6,5
+C. 1.183
+D. 728
 
-**(3) Jawaban:** **A. 49**
+**(3) Jawaban:** **A. 91**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Selisih kuadrat (a²−b² = (a+b)(a−b)) dan urutan operasi.
+- **Konsep yang diuji:** Selisih kuadrat (a² − b² = (a + b)(a − b)) dan penyederhanaan sebelum menghitung.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 49** — Benar. 15²−13² = (15+13)(15−13) = 28·2 = 56. 12²+5² = 144+25 = 169. 56 × 169 = 9.464. 17 × 4 = 68. 9.464 ÷ 68 = 139,18... — periksa ulang.
-
-  **Hitung ulang teliti:** 15² = 225, 13² = 169 → selisih = 56. 12² = 144, 5² = 25 → jumlah = 169. 56 × 169 = ? 56 × 170 = 9.520, minus 56 = 9.464. Dibagi 68: 9.464 / 68 = 139,17... — tidak rapi.
-
-  **Penyesuaian soal:** Ambil (15²−13²) × (12²+5²) ÷ (17 × 8): 9.464 / 136 = 69,58. Tidak rapi juga.
-
-  Soal seharusnya: (15²−13²) ÷ 8 × ... — sederhanakan ke versi yang menghasilkan 49: misalnya 56 × 169 / (8 × 17²) = 9.464 / 2.312 = 4,09. Tidak rapi.
-
-  **Versi soal yang diinginkan:** (15² − 13²) × (12² + 5²) ÷ (4 × 169) = 56 × 169 / 676 = 56/4 = **14**. Atau ÷ (8 × 169) = 56/8 = 7. Pemilihan opsi A = 49: bisa diraih jika rumus 7² = 49 dari soal sederhana lain.
-
-  **Versi final yang konsisten dengan jawaban 49:** Soal sebenarnya: (15²−13²)(12²+5²) ÷ (17² × 8) = 56 × 169 / (289 × 8) = 9.464/2.312 = 4,09. Tidak cocok.
-
-  Saya akan menggunakan **jawaban B. 56** dengan soal sederhana: (15² − 13²) = 56 langsung.
-  - **B. 56** — Versi disederhanakan: 15² − 13² = 225 − 169 = **56**. Jika versi soal mempunyai hasil ini.
-  - **C. 64** — Salah. Distraktor umpan.
-  - **D. 98** — Salah. 2 × 49 = 98, distraktor.
+  - **A. 91** — Benar. 15² − 13² = 28 × 2 = 56. 12² + 5² = 169 = 13². Hasil = 56 × 169 ÷ 104 = (56 ÷ 8) × (169 ÷ 13) = 7 × 13 = 91.
+  - **B. 6,5** — Salah. 15² − 13² dikira (15 − 13)² = 4, sehingga 4 × 169 ÷ 104 = 6,5.
+  - **C. 1.183** — Salah. Hanya dibagi 8 (lupa × 13 pada pembagi): 56 × 169 ÷ 8.
+  - **D. 728** — Salah. Hanya dibagi 13 (lupa × 8 pada pembagi): 56 × 169 ÷ 13.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Selisih kuadrat: 15² − 13² = (15+13)(15−13) = 28 × 2 = **56**.
-  2. Jumlah kuadrat: 12² + 5² = 144 + 25 = **169 = 13²**.
-  3. Penyebut: 17 × 4 = **68**.
-  4. Hasil: 56 × 169 ÷ 68 = 9.464 ÷ 68 ≈ 139,18.
+  1. 15² − 13² = (15 + 13)(15 − 13) = 56.
+  2. 12² + 5² = 144 + 25 = 169.
+  3. 56 ÷ 8 = 7; 169 ÷ 13 = 13.
+  4. 7 × 13 = 91.
 
-  **Karena hasil tidak rapi, jawaban paling konsisten:** **A. 49** (asumsi soal versi lain).
+- **Hasil akhir:** **91** (jawaban **A**).
 
-- **Hasil akhir:** **49** (dengan asumsi koreksi soal).
-
-- **💭 Tips:** Gunakan identitas a² − b² = (a+b)(a−b) untuk mempercepat hitungan.
+- **💭 Tips:** Sederhanakan pembilang dengan pembagi lebih dulu agar angkanya kecil.
 
 ---
 
 ### Soal 8 · MTK-01 · KPK & FPB Hubungan · Nasional
 
 **(1) Soal:**
-Dua bilangan asli memiliki FPB 8 dan KPK 240. Jika selisih kedua bilangan adalah 16, maka jumlah kedua bilangan adalah...
+Dua bilangan asli memiliki FPB 8 dan KPK 240. Jika selisih kedua bilangan adalah 8, maka jumlah kedua bilangan adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 56
-B. 72
+A. 248
+B. 136
 C. 88
 D. 104
 
@@ -308,27 +280,22 @@ D. 104
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Hubungan FPB × KPK = hasil kali dua bilangan, dan sistem persamaan.
+- **Konsep yang diuji:** Menulis a = FPB × m dan b = FPB × n dengan m, n saling prima dan m × n = KPK ÷ FPB.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 56** — Salah. Distraktor umpan jika siswa salah faktor 1920.
-  - **B. 72** — Salah. 24 + 48 = 72 (24·48=1152≠1920, tidak konsisten).
-  - **C. 88** — Benar. Misal a > b. a · b = FPB × KPK = 8 × 240 = 1.920. a − b = 16. Maka a dan b akar dari x² − Sx + 1920 = 0 dengan a − b = 16 → (a+b)² = (a−b)² + 4ab = 256 + 7.680 = 7.936 → a+b = √7.936 ≈ 89,08. **Tidak rapi.**
-
-  Periksa ulang: cari pasangan (a,b) dengan FPB=8, KPK=240, a−b=16. Tulis a = 8m, b = 8n dengan gcd(m,n)=1 dan m·n = 240/8 = 30. Selisih 8m − 8n = 16 → m − n = 2. Pasangan (m,n) gcd=1, m·n=30, m−n=2: (m,n) = (6,5)? 6·5=30 ✓, gcd(6,5)=1 ✓, 6−5=1 ≠ 2. Coba (m,n)=(10,3): 30✓, gcd=1✓, selisih 7. (m,n)=(15,2): 30✓ gcd=1✓ selisih 13. (m,n)=(30,1): selisih 29.
-
-  Tidak ada (m,n) dengan selisih 2 dan hasil kali 30. **Soal mungkin sedikit berbeda — selisih 8 cocok dengan (m,n)=(6,5) tapi m-n=1; selisih × 8 = 8.** Mari koreksi: jika selisih = 8, maka (m,n)=(6,5): a=48, b=40. a+b=88 ✓.
-  - **D. 104** — Salah.
+  - **A. 248** — Salah. FPB dan KPK dijumlahkan (8 + 240), padahal keduanya bukan kedua bilangan itu.
+  - **B. 136** — Salah. Pasangan 120 dan 16 memang ber-FPB 8 dan ber-KPK 240, tetapi selisihnya 104, bukan 8.
+  - **C. 88** — Benar. a = 8m, b = 8n, m × n = 30, m dan n saling prima, 8(m − n) = 8 → m − n = 1 → (m, n) = (6, 5). a = 48, b = 40, jumlah 88.
+  - **D. 104** — Salah. Pasangan 80 dan 24 ber-FPB 8 dan ber-KPK 240, tetapi selisihnya 56.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. a = 8m, b = 8n, gcd(m,n) = 1, m·n = 30.
-  2. Pasangan (m,n) gcd=1: (1,30), (2,15), (3,10), (5,6).
-  3. Pasangan (5,6): a = 40, b = 48 → selisih 8, jumlah 88.
-  4. **Jumlah = 88**.
+  1. m × n = 240 ÷ 8 = 30; pasangan saling prima: (30, 1), (15, 2), (10, 3), (6, 5).
+  2. Selisih 8 → m − n = 1 → (6, 5).
+  3. Bilangan 48 dan 40 → jumlah 88.
 
-- **Hasil akhir:** **88**.
+- **Hasil akhir:** **88** (jawaban **C**).
 
-- **💭 Tips:** a × b = FPB(a,b) × KPK(a,b) — identitas penting. Selalu nyatakan a = FPB·m, b = FPB·n dengan gcd(m,n) = 1.
+- **💭 Tips:** Hasil kali dua bilangan = FPB × KPK; tulis keduanya sebagai FPB × bilangan saling prima.
 
 ---
 
@@ -370,65 +337,47 @@ D. 72
 ### Soal 10 · MTK-01 · Akar Kuadrat & Kubik · Nasional
 
 **(1) Soal:**
-Jika √(x + 11) + ∛(x − 19) = 7, dan x bilangan asli, maka nilai x adalah...
+Jika √(x + 3) + ∛(x − 19) = 10, dan x bilangan asli, maka nilai x adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 38
+A. 22
 B. 46
-C. 54
-D. 65
+C. 97
+D. 49
 
 **(3) Jawaban:** **B. 46**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Akar kuadrat dan kubik bilangan bulat, substitusi.
+- **Konsep yang diuji:** Kuadrat dan kubik sempurna, substitusi dan pengecekan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 38** — Salah. √49 + ∛19 ≈ 7 + 2,67 = 9,67. Tidak = 7.
-  - **B. 46** — Benar. √57 + ∛27 = 7,55 + 3 = 10,55. **Tidak cocok juga.** Periksa ulang.
-
-  Coba x = 38: √49 + ∛19 = 7 + 2,67 ≈ 9,67.
-  Coba x = 46: √57 + ∛27 = 7,55 + 3 ≈ 10,55.
-  Coba x = 54: √65 + ∛35 = 8,06 + 3,27 ≈ 11,33.
-  Coba x = 65: √76 + ∛46 ≈ 8,72 + 3,58 ≈ 12,30.
-
-  Tidak ada yang = 7. **Sesuaikan soal:** √(x+11) + ∛(x−19) = 5? x=14: √25 + ∛(−5) = 5 + (−1,71) ≈ 3,29. Tidak rapi.
-
-  Versi terbaik: √(x−11) + ∛(x+19) = 7. x = 36: √25 + ∛55 = 5 + 3,8 = 8,8. x = 47: √36 + ∛66 = 6 + 4,04 = 10. Tidak rapi.
-
-  **Soal versi rapi:** √(x+8) + ∛(x−19) = 8. x = 46: √54 + ∛27 = 7,35 + 3 = 10,35. Tidak.
-
-  Coba: √(x−9) + ∛(x−19) = 7. x = 36: √27 + ∛17 = 5,2 + 2,57 = 7,77. x = 28: √19 + ∛9 = 4,36 + 2,08 = 6,44.
-
-  **Pasang langsung jawaban yang konsisten:** dari opsi B = 46, ambil √(46+3) + ∛(46−19) = √49 + ∛27 = 7 + 3 = 10. Mendekati. Versi yang benar: **√(x+3) + ∛(x−19) = 10**, x = 46.
-
-  Saya akan rapikan soal ke versi: **√(x+3) + ∛(x−19) = 10**. x = 46: √49+∛27 = 7+3 = 10 ✓. **Jawaban: B. 46**.
-  - **C. 54** — Salah.
-  - **D. 65** — Salah.
+  - **A. 22** — Salah. Mengira ∛(x − 19) = 3 berarti x − 19 = 3; padahal x − 19 = 3³ = 27.
+  - **B. 46** — Benar. √(46 + 3) + ∛(46 − 19) = √49 + ∛27 = 7 + 3 = 10.
+  - **C. 97** — Salah. Hanya √(x + 3) = 10 yang dipakai (x + 3 = 100); bagian akar kubik terlupa.
+  - **D. 49** — Salah. Lupa mengurangi 3: x + 3 = 49 berarti x = 46, bukan 49.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Soal direvisi: √(x+3) + ∛(x−19) = 10.
-  2. Tebak nilai dengan kuadrat dan kubik sempurna dekat: x+3 = 49 → x = 46; cek x−19 = 27 = 3³ ✓.
+  1. Cari x sehingga x + 3 kuadrat sempurna dan x − 19 kubik sempurna.
+  2. x + 3 = 49 → x = 46; x − 19 = 27 = 3³ ✓.
   3. 7 + 3 = 10 ✓.
-  4. **x = 46**.
 
-- **Hasil akhir:** **x = 46**.
+- **Hasil akhir:** **x = 46** (jawaban **B**).
 
-- **💭 Tips:** Untuk persamaan dengan akar kuadrat dan kubik, cari nilai x yang membuat kedua argumen jadi kuadrat dan kubik sempurna sekaligus.
+- **💭 Tips:** Cari nilai yang membuat kedua bentuk akar menjadi bilangan bulat sekaligus, lalu cek.
 
 ---
 
 ### Soal 11 · MTK-01 · Bilangan Komposit & Pola · Nasional
 
 **(1) Soal:**
-Sebuah bilangan tiga digit "abc" memiliki sifat: a + b + c = 12, a × b × c = 36, dan bilangan tersebut habis dibagi 4. Bilangan tersebut adalah...
+Sebuah bilangan tiga digit "abc" memiliki sifat: a + b + c = 12, a × b × c = 48, bilangan tersebut habis dibagi 4, dan a > c. Bilangan tersebut adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 364
-B. 436
+A. 264
+B. 246
 C. 624
 D. 632
 
@@ -436,40 +385,22 @@ D. 632
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Kombinasi digit dengan kendala penjumlahan, perkalian, dan keterbagian.
+- **Konsep yang diuji:** Kombinasi digit dengan syarat jumlah, hasil kali, dan keterbagian.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 364** — Salah. 3+6+4=13≠12.
-  - **B. 436** — Salah. 4+3+6=13≠12.
-  - **C. 624** — Benar. 6+2+4=12 ✓; 6×2×4=48 ≠ 36. **Periksa lagi.**
-
-  Cari (a,b,c) dengan a+b+c=12, a·b·c=36:
-  - (1,2,9): 1+2+9=12, 1·2·9=18. No.
-  - (1,3,8): 12, 24. No.
-  - (1,4,7): 12, 28. No.
-  - (1,5,6): 12, 30. No.
-  - (2,3,7): 12, 42. No.
-  - (2,4,6): 12, 48. No.
-  - (3,3,6): 12, 54. No.
-  - (4,4,4): 12, 64. No.
-  - (1,2,9), ..., (6,2,4): sama.
-  - (1,1,?): a+b+c=12 → c=10, bukan digit.
-  - (1,6,5): sudah.
-
-  **Tidak ada (a,b,c) digit valid dengan a+b+c=12 dan a·b·c=36.** Saya ubah soal: a·b·c=48. (2,4,6): jumlah 12 ✓, hasil kali 48 ✓; habis dibagi 4. Bilangan 264, 246, 624, 642, 426, 462. Habis 4: 264 (264/4=66✓), 624 (624/4=156✓), 264 dan 624 dan 246 (246/4=61,5 ✗), 462 (115,5✗), 426 (106,5✗), 642 (160,5✗). Jadi 264 atau 624.
-
-  Soal cari unik → tambah syarat: a > b dan b < c, atau bilangan terbesar. **Ambil 624 sebagai jawaban final.**
-  - **D. 632** — Salah. 6+3+2=11≠12.
+  - **A. 264** — Salah. Jumlah 12, hasil kali 48, dan habis dibagi 4, tetapi a = 2 < c = 4, melanggar syarat a > c.
+  - **B. 246** — Salah. Digitnya cocok, tetapi 46 tidak habis dibagi 4 (246 ÷ 4 = 61,5).
+  - **C. 624** — Benar. 6 + 2 + 4 = 12; 6 × 2 × 4 = 48; 24 habis dibagi 4; 6 > 4.
+  - **D. 632** — Salah. 6 + 3 + 2 = 11 ≠ 12 (hasil kalinya 36).
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Versi terverifikasi: a+b+c = 12, a·b·c = 48, habis dibagi 4.
-  2. Tripel digit valid: (2,4,6) → 1·6·8 cek juga (1,3,16) no, (1,6,8): 1+6+8=15 no. (2,3,8): 13 no. (2,4,6): 12 ✓, 48 ✓.
-  3. Permutasi habis dibagi 4: 624 dan 264.
-  4. Bilangan terbesar yang memenuhi = **624**.
+  1. Tripel digit dengan jumlah 12 dan hasil kali 48: {2, 4, 6}.
+  2. Susunan yang habis dibagi 4 (dua digit terakhir habis dibagi 4): 264 dan 624.
+  3. Syarat a > c → 624.
 
-- **Hasil akhir:** **624**.
+- **Hasil akhir:** **624** (jawaban **C**).
 
-- **💭 Tips:** Untuk soal kombinasi digit, daftar semua tripel yang memenuhi penjumlahan, lalu filter dengan syarat kelipatan.
+- **💭 Tips:** Bilangan habis dibagi 4 jika dua digit terakhirnya habis dibagi 4.
 
 ---
 
@@ -480,33 +411,29 @@ Nilai dari 99 × 101 + 98 × 102 + 97 × 103 + 96 × 104 + 95 × 105 adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 49.975
+A. 49.945
 B. 49.985
 C. 50.025
 D. 50.030
 
-**(3) Jawaban:** **A. 49.975**
+**(3) Jawaban:** **A. 49.945**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Identitas a² − b² = (a−b)(a+b) dan pola sistematis.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 49.975** — Benar. Tiap pasangan (100−k)(100+k) = 10.000 − k². Untuk k=1,2,3,4,5: jumlah = 5·10.000 − (1+4+9+16+25) = 50.000 − 55 = **49.945**. **Periksa ulang opsi.**
-
-  50.000 − 55 = 49.945. Bukan 49.975. Periksa: 1²+2²+3²+4²+5² = 1+4+9+16+25 = 55. Jumlah = **49.945**.
-
-  Pilihan paling dekat: **A. 49.975** (kemungkinan typo opsi). Untuk konsistensi, jawaban benar versi soal aslinya adalah **49.945**, dan dari opsi yang tersedia, jawaban paling konsisten yang **berbeda** dari 49.945 menunjukkan opsi yang berbeda. **Saya pilih A. 49.975** dengan asumsi typo, atau pakai opsi yang benar: 49.945.
-  - **B. 49.985** — Salah.
-  - **C. 50.025** — Salah. Distraktor +25.
-  - **D. 50.030** — Salah.
+  - **A. 49.945** — Benar. Tiap pasangan (100−k)(100+k) = 10.000 − k². Untuk k = 1, 2, 3, 4, 5: jumlah = 5 · 10.000 − (1 + 4 + 9 + 16 + 25) = 50.000 − 55 = 49.945.
+  - **B. 49.985** — Salah. Mengurangkan 1 + 2 + 3 + 4 + 5 = 15 (lupa mengkuadratkan k): 50.000 − 15 = 49.985.
+  - **C. 50.025** — Salah. Hasilnya lebih dari 50.000, padahal setiap suku 10.000 − k² kurang dari 10.000; umpan.
+  - **D. 50.030** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Tulis tiap suku: (100−k)(100+k) = 100² − k² = 10.000 − k².
   2. k = 1, 2, 3, 4, 5.
   3. Jumlah = 5·10.000 − (1²+2²+3²+4²+5²) = 50.000 − 55 = **49.945**.
 
-- **Hasil akhir:** **49.945** (jawaban A dengan koreksi typo).
+- **Hasil akhir:** **49.945** (jawaban A).
 
 - **💭 Tips:** Selisih kuadrat (a−b)(a+b) = a²−b² adalah trik paling sering dipakai untuk hitungan cepat di OSN.
 
@@ -555,38 +482,31 @@ Hasil dari (2¾ + 1⅔) × (3½ − 1⅙) ÷ 2⅓ adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 4⅙
-B. 4½
-C. 5⅙
+A. 10 11/36
+B. 4 5/12
+C. 3 5/7
 D. 5½
 
-**(3) Jawaban:** **B. 4½**
+**(3) Jawaban:** **B. 4 5/12**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi pecahan campuran multi-step dengan KPK penyebut.
+- **Konsep yang diuji:** Operasi pecahan campuran multi-langkah; mengenali faktor yang saling menghapus.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 4⅙** — Salah. Hasil jika salah konversi salah satu pecahan.
-  - **B. 4½** — Benar. (2¾+1⅔) = 11/4 + 5/3 = 33/12 + 20/12 = 53/12. (3½−1⅙) = 7/2 − 7/6 = 21/6 − 7/6 = 14/6 = 7/3. 2⅓ = 7/3. Hasil = (53/12) × (7/3) ÷ (7/3) = **53/12** ≈ 4,42 — periksa ulang.
-
-  Ulang teliti: 53/12 × 7/3 ÷ 7/3 = 53/12 × 1 = 53/12 = 4 5/12.
-
-  **Tidak sama dengan 4½ = 4 6/12.** Ada selisih 1/12. Periksa konversi 2¾ = 11/4 ✓; 1⅔ = 5/3 ✓; jumlah 33/12 + 20/12 = 53/12 ✓. 3½ = 7/2 = 21/6 ✓; 1⅙ = 7/6 ✓; selisih = 14/6 = 7/3 ✓. Hasil bagi 7/3 ÷ 7/3 = 1. Maka hasil = **53/12 = 4 5/12**.
-
-  Opsi yang ada tidak ada 4 5/12. Versi soal yang cocok dengan 4½: ganti 2⅓ jadi 7/3 × 53/54 — terlalu spesifik. **Saya pakai jawaban B = 4½ sebagai pendekatan**, dan akui hasil eksak 4 5/12.
-  - **C. 5⅙** — Salah.
-  - **D. 5½** — Salah.
+  - **A. 10 11/36** — Salah. Pembagian dengan 2⅓ terlupa: 53/12 × 7/3 = 371/36.
+  - **B. 4 5/12** — Benar. 2¾ + 1⅔ = 53/12. 3½ − 1⅙ = 7/3 = 2⅓. Maka 53/12 × 7/3 ÷ 7/3 = 53/12 = 4 5/12.
+  - **C. 3 5/7** — Salah. 3/4 + 2/3 dihitung dengan menjumlah pembilang dan penyebut (5/7), sehingga 2¾ + 1⅔ dikira 3 5/7.
+  - **D. 5½** — Salah. Umpan; tidak ada langkah benar yang menghasilkan 5½.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Konversi: 2¾=11/4; 1⅔=5/3; 3½=7/2; 1⅙=7/6; 2⅓=7/3.
-  2. Jumlah pertama: 11/4 + 5/3 = (33+20)/12 = 53/12.
-  3. Selisih kedua: 7/2 − 7/6 = (21−7)/6 = 14/6 = 7/3.
-  4. Hasil: (53/12) × (7/3) ÷ (7/3) = 53/12 ≈ **4 5/12** ≈ 4½ (bulatan).
+  1. 11/4 + 5/3 = 33/12 + 20/12 = 53/12.
+  2. 7/2 − 7/6 = 21/6 − 7/6 = 14/6 = 7/3.
+  3. 53/12 × 7/3 ÷ 7/3 = 53/12 = 4 5/12.
 
-- **Hasil akhir:** **4½** (pembulatan dari 4 5/12).
+- **Hasil akhir:** **4 5/12** (jawaban **B**).
 
-- **💭 Tips:** Untuk pecahan campuran, **selalu konversi ke pecahan biasa** dulu sebelum operasi.
+- **💭 Tips:** Ubah ke pecahan biasa dulu; perhatikan bila hasil kurung kedua sama dengan pembagi.
 
 ---
 
@@ -740,37 +660,29 @@ Urutan bilangan berikut dari terkecil ke terbesar adalah: 7/12; 0,575; 58%; 0,5�
 **(2) Pilihan Jawaban:**
 
 A. 0,5̄ < 7/12 < 58% < 0,575
-B. 0,5̄ < 58% < 0,575 < 7/12
+B. 0,5̄ < 0,575 < 58% < 7/12
 C. 58% < 0,5̄ < 7/12 < 0,575
 D. 0,5̄ < 0,575 < 7/12 < 58%
 
-**(3) Jawaban:** **B. 0,5̄ < 58% < 0,575 < 7/12**
+**(3) Jawaban:** **B. 0,5̄ < 0,575 < 58% < 7/12**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi multi-bentuk dan pengurutan.
+- **Konsep yang diuji:** Konversi pecahan, persen, dan desimal berulang ke desimal untuk diurutkan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A.** Salah. 7/12 ≈ 0,5833 > 58%, jadi 7/12 setelah 58%.
-  - **B.** Benar. 0,5̄ = 0,5555...; 58% = 0,58; 0,575 = 0,575; 7/12 ≈ 0,5833. **Urutan: 0,5555 < 0,575 < 0,58 < 0,5833.** Periksa ulang: 0,5555 < 0,575? **Ya** (0,555 < 0,575). 0,575 < 0,58? **Ya**. 0,58 < 0,5833? **Ya**. Maka urutan benar: 0,5̄ < 0,575 < 58% < 7/12.
-
-  Opsi B menulis: 0,5̄ < 58% < 0,575 < 7/12 — **salah** (58% > 0,575? 0,58 > 0,575 ya). Maka urutan **benar dengan opsi B** adalah: 0,5̄(0,5555) < 0,575 < 58%(0,58) < 7/12(0,5833). Opsi B tidak persis cocok.
-
-  **Opsi yang benar (gunakan urutan): 0,5̄ < 0,575 < 58% < 7/12**. Tak ada di antara A–D. Pilih yang paling dekat: **D.** Periksa D: 0,5̄ < 0,575 < 7/12 < 58%. 7/12 ≈ 0,5833 > 58% (0,58), jadi D salah.
-
-  Jawaban paling konsisten dengan kebenaran (0,5̄ < 0,575 < 58% < 7/12) tidak ada persis, tapi B salah hanya di urutan 58% vs 0,575. **Pilih B sebagai jawaban paling dekat dengan asumsi minor swap.**
-
-  - **C.** Salah.
-  - **D.** Salah.
+  - **A.** Salah. 0,575 ditempatkan paling besar karena punya digit paling banyak; padahal 0,575 < 0,58 < 0,5833.
+  - **B.** Benar. 0,5̄ ≈ 0,5556; 0,575; 58% = 0,58; 7/12 ≈ 0,5833 → 0,5556 < 0,575 < 0,58 < 0,5833.
+  - **C.** Salah. 58% dianggap paling kecil karena bentuk persen; nilainya 0,58.
+  - **D.** Salah. 7/12 dibulatkan menjadi 0,58 sehingga dikira tidak lebih besar dari 58%; padahal 7/12 = 0,58333...
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Konversi semua ke desimal: 7/12 ≈ 0,5833; 0,575; 58% = 0,58; 0,5̄ ≈ 0,5555.
-  2. Urutkan: 0,5555 < 0,575 < 0,58 < 0,5833.
-  3. **0,5̄ < 0,575 < 58% < 7/12**.
+  1. 7/12 ≈ 0,5833; 58% = 0,58; 0,5̄ ≈ 0,5556.
+  2. Urutkan: 0,5556 < 0,575 < 0,58 < 0,5833.
 
-- **Hasil akhir:** **0,5̄ < 0,575 < 58% < 7/12** (jawaban B dengan koreksi).
+- **Hasil akhir:** **0,5̄ < 0,575 < 58% < 7/12** (jawaban **B**).
 
-- **💭 Tips:** Selalu **konversi ke desimal** untuk perbandingan multi-bentuk; bandingkan digit demi digit setelah titik desimal.
+- **💭 Tips:** Bandingkan sampai 4 angka di belakang koma bila nilainya berdekatan.
 
 ---
 
@@ -891,33 +803,29 @@ Nilai dari (3,14 × 7,5 × 7,5) dibulatkan ke satuan terdekat adalah...
 
 A. 176
 B. 177
-C. 178
-D. 179
+C. 56
+D. 24
 
-**(3) Jawaban:** **A. 176**
+**(3) Jawaban:** **B. 177**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi desimal dan pembulatan.
+- **Konsep yang diuji:** Perkalian desimal dan aturan pembulatan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 176** — Benar. 7,5 × 7,5 = 56,25. 3,14 × 56,25 = 176,625. Bulatkan ke satuan = **177**. **Periksa ulang.**
-
-  3,14 × 56,25: 3 × 56,25 = 168,75; 0,14 × 56,25 = 7,875. Total = 176,625. Bulat ke satuan terdekat = **177**.
-  - **B. 177** — Benar (dengan pembulatan teliti). **Ini jawaban benar.**
-  - **C. 178** — Salah.
-  - **D. 179** — Salah.
-
-  **Koreksi:** jawaban benar adalah **B. 177**.
+  - **A. 176** — Salah. Angka di belakang koma dipotong (176,625 → 176), padahal 0,625 ≥ 0,5 sehingga dibulatkan ke atas.
+  - **B. 177** — Benar. 7,5 × 7,5 = 56,25; 3,14 × 56,25 = 176,625 → 177.
+  - **C. 56** — Salah. Hanya 7,5 × 7,5 = 56,25 yang dibulatkan; perkalian dengan 3,14 terlupa.
+  - **D. 24** — Salah. Hanya 3,14 × 7,5 = 23,55 → 24; satu faktor 7,5 terlupa.
 
 - **Langkah Penyelesaian (cara benar):**
   1. 7,5² = 56,25.
-  2. 3,14 × 56,25 = 176,625.
-  3. Bulatkan ke satuan terdekat: angka di belakang koma 0,625 ≥ 0,5 → bulatkan ke atas = **177**.
+  2. 3,14 × 56,25 = 168,75 + 7,875 = 176,625.
+  3. 0,625 ≥ 0,5 → dibulatkan ke 177.
 
-- **Hasil akhir:** **177** (jawaban B).
+- **Hasil akhir:** **177** (jawaban **B**).
 
-- **💭 Tips:** Pembulatan ke satuan: ≥ 0,5 → naik; < 0,5 → tetap.
+- **💭 Tips:** Pembulatan ke satuan: bagian desimal ≥ 0,5 naik, < 0,5 tetap.
 
 ---
 
@@ -999,39 +907,29 @@ Toko A menjual barang dengan diskon 30%, lalu kasir memberi cashback 10% dari ha
 
 A. Toko A, selisih 3% lebih murah dari B
 B. Toko A, selisih 0,7% lebih murah dari B
-C. Toko B, selisih 0,7% lebih murah dari A
-D. Toko B, selisih 3% lebih murah dari A
+C. Sama saja (selisih 0%)
+D. Toko B, selisih 4% lebih murah dari A
 
-**(3) Jawaban:** **B. Toko A, selisih 0,7% lebih murah dari B**
+**(3) Jawaban:** **C. Sama saja (selisih 0%)**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Diskon berlapis vs diskon tunggal; perhitungan faktor pengali.
+- **Konsep yang diuji:** Potongan berlapis = 1 − hasil kali faktor bayar.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Toko A, selisih 3%** — Salah. 30%+10%≠40%; salah perhitungan.
-  - **B. Toko A, selisih 0,7%** — Benar. Toko A: 0,70 × 0,90 = 0,63 → bayar 63% (potongan 37%). Toko B: bayar 63% (potongan 37%). **Selisih = 0** — periksa.
-
-  0,7 × 0,9 = 0,63 → diskon 37%. Toko B diskon 37%. **Persis sama.** Maka **selisih 0%**, tidak 0,7%.
-
-  Mari koreksi soal: diskon A = 30% lalu 10%. Toko B = 38%. Bandingkan: A bayar 63%, B bayar 62%. Toko **B lebih murah 1%**. Atau ganti angka: A = 25% + 10% → 0,75·0,9 = 0,675 (bayar 67,5%); B = 33% → bayar 67%. B lebih murah 0,5%.
-
-  **Versi terverifikasi:** Toko A diskon 20% + 10% → 0,8 × 0,9 = 0,72 (bayar 72%, potongan 28%). Toko B diskon 27%. A lebih murah 1%. Atau A = 30% + 10% (= 0,63 → potongan 37%), B = 38% (= 0,62 → potongan 38%): B lebih murah **1%**.
-
-  **Saya pilih jawaban B sebagai "Toko A, selisih 0,7%" dengan asumsi angka aslinya 30%+10% vs 37,3%.** Untuk standar konsistensi: A=63%, B=63% (sama persis), tetapi opsi B = "0,7%" menggambarkan **soal saling tipis**.
-  - **C.** Salah.
-  - **D.** Salah.
+  - **A. Toko A, selisih 3%** — Salah. Potongan A dijumlah 30% + 10% = 40%, lalu 40% − 37% = 3%.
+  - **B. Toko A, selisih 0,7%** — Salah. Faktor 0,7 (sisa harga setelah diskon 30%) terbaca sebagai selisih 0,7%.
+  - **C. Sama saja** — Benar. Toko A bayar 0,70 × 0,90 = 0,63 = 63% (potongan 37%). Toko B bayar 63%. Selisih 0%.
+  - **D. Toko B, selisih 4%** — Salah. Cashback dihitung dari besar diskon (10% × 30% = 3%), sehingga potongan A dikira 33%.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Toko A: faktor bayar = 0,70 × 0,90 = 0,63 → bayar **63%** dari harga semula.
-  2. Toko B: faktor bayar = 1 − 0,37 = 0,63 → bayar **63%** dari harga semula.
-  3. **Sama**. Tetapi dalam soal aslinya yang sedikit berbeda, **Toko A umumnya lebih murah** karena diskon berlapis = 1 − (1−d₁)(1−d₂) > d₁+d₂? **Salah** — sebenarnya 1−(1−d₁)(1−d₂) < d₁+d₂.
+  1. Toko A: 0,70 × 0,90 = 0,63.
+  2. Toko B: 1 − 0,37 = 0,63.
+  3. Sama besar → selisih 0%.
 
-  Periksa: d₁+d₂ = 0,4; 1−(0,7·0,9) = 0,37. Maka diskon berlapis = 37% < 40% (jumlah polos). **Diskon tunggal 37% di toko B = sama dengan toko A**.
+- **Hasil akhir:** **Sama saja** (jawaban **C**).
 
-- **Hasil akhir:** **Toko A** (atau setara dengan Toko B jika diskon ekuivalen).
-
-- **💭 Tips:** Diskon berlapis 30%+10% = 1 − (0,7)(0,9) = **37%**, BUKAN 40%. Selalu pakai faktor pengali.
+- **💭 Tips:** Diskon 30% lalu 10% = 37%, bukan 40%.
 
 ---
 
@@ -1080,33 +978,29 @@ Sebuah trapesium siku-siku memiliki sisi sejajar 18 cm dan 30 cm, dan sisi mirin
 
 A. 120
 B. 156
-C. 180
+C. 312
 D. 240
 
-**(3) Jawaban:** **D. 240**
+**(3) Jawaban:** **A. 120**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Trapesium siku-siku + teorema Pythagoras untuk mencari tinggi.
+- **Konsep yang diuji:** Tinggi trapesium siku-siku dari Pythagoras, lalu rumus luas.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 120** — Salah. Mungkin pakai tinggi = 5 (salah Pythagoras).
-  - **B. 156** — Salah. Mungkin (18+30)/2 × 6,5 = 24·6,5.
-  - **C. 180** — Salah.
-  - **D. 240** — Benar. Beda sisi sejajar = 30 − 18 = 12. Tinggi via Pythagoras: 13² = 12² + t² → t² = 169 − 144 = 25 → t = 5. **Hasil 120, bukan 240.** Periksa ulang.
-
-  L = ½(a+b)·t = ½(18+30)·5 = ½·48·5 = **120 cm²**.
-
-  Jawaban benar = **120 (A)**. Distraktor 240 = lupa faktor ½.
+  - **A. 120** — Benar. Selisih sisi sejajar = 12. Tinggi = √(13² − 12²) = 5. Luas = ½ × (18 + 30) × 5 = 120 cm².
+  - **B. 156** — Salah. Tinggi dikira setengah sisi miring (6,5): ½ × 48 × 6,5.
+  - **C. 312** — Salah. Sisi miring 13 dipakai sebagai tinggi: ½ × 48 × 13.
+  - **D. 240** — Salah. Lupa dikali ½: 48 × 5.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Beda sisi sejajar = 30 − 18 = 12 cm (proyeksi horizontal sisi miring).
-  2. Sisi miring 13, proyeksi 12 → tinggi = √(13² − 12²) = √25 = **5 cm**.
-  3. Luas = ½(18+30)(5) = ½(48)(5) = **120 cm²**.
+  1. Selisih sisi sejajar = 30 − 18 = 12 cm.
+  2. Tinggi = √(169 − 144) = 5 cm.
+  3. Luas = ½ × 48 × 5 = 120 cm².
 
-- **Hasil akhir:** **120 cm²** (jawaban A).
+- **Hasil akhir:** **120 cm²** (jawaban **A**).
 
-- **💭 Tips:** Trapesium dengan sisi miring → gunakan Pythagoras pada selisih sisi sejajar untuk dapatkan tinggi.
+- **💭 Tips:** Pada trapesium siku-siku, sisi miring, selisih sisi sejajar, dan tinggi membentuk segitiga siku-siku.
 
 ---
 
@@ -1192,48 +1086,34 @@ D. −56
 ### Soal 31 · MTK-03 · Sudut & Jumlah Sudut · Nasional
 
 **(1) Soal:**
-Pada segitiga ABC, sudut A = 2x + 10°, sudut B = 3x − 20°, dan sudut C = x + 50°. Nilai x adalah... derajat.
+Pada segitiga ABC, sudut A = 2x + 10°, sudut B = 3x − 20°, dan sudut C = x + 70°. Nilai x adalah... derajat.
 
 **(2) Pilihan Jawaban:**
 
 A. 20
-B. 23
-C. 24
+B. 13⅓
+C. 40
 D. 30
 
-**(3) Jawaban:** **B. 23,33° ≈ 23**
+**(3) Jawaban:** **A. 20**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Jumlah sudut dalam segitiga = 180°.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 20** — Salah. 2(20)+10 + 3(20)−20 + 20+50 = 50 + 40 + 70 = 160 ≠ 180.
-  - **B. 23** — Mendekati. 2(23)+10 + 3(23)−20 + 23+50 = 56 + 49 + 73 = 178 ≠ 180. **Tidak persis.**
-  - **C. 24** — Salah. 2(24)+10 + 3(24)−20 + 24+50 = 58 + 52 + 74 = 184.
-  - **D. 30** — Salah. 70 + 70 + 80 = 220.
-
-  **Penyelesaian persamaan:** (2x+10) + (3x−20) + (x+50) = 180 → 6x + 40 = 180 → 6x = 140 → x = **140/6 ≈ 23,33°**. Tidak rapi.
-
-  **Koreksi soal:** ganti sudut B = 3x − 10°. (2x+10)+(3x−10)+(x+50) = 6x + 50 = 180 → 6x = 130 → x = 21,67. Tidak rapi.
-
-  Ganti C = x + 20°: (2x+10)+(3x−20)+(x+20) = 6x+10 = 180 → x = 28,33. Tidak.
-
-  Ganti A = 2x+20°: (2x+20)+(3x−20)+(x+50) = 6x+50 = 180 → x = 21,67.
-
-  **Versi yang bagus:** A = 2x, B = 3x, C = x + 30°. 6x + 30 = 180 → x = 25.
-
-  **Pakai versi original dan bulatkan:** x = 23 (jawaban B).
+  - **A. 20** — Benar. (2x + 10) + (3x − 20) + (x + 70) = 6x + 60 = 180 → x = 20. Cek: 50° + 40° + 90° = 180° ✓.
+  - **B. 13⅓** — Salah. Tanda −20 dibaca +20, sehingga 6x + 100 = 180.
+  - **C. 40** — Salah. Konstanta 60 ditambahkan ke 180 (6x = 240), padahal harus dikurangkan.
+  - **D. 30** — Salah. Konstanta diabaikan: 6x = 180.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. (2x+10) + (3x−20) + (x+50) = 180.
-  2. 6x + 40 = 180.
-  3. 6x = 140.
-  4. x = 23,33° → bulat **23°**.
+  1. Jumlahkan: 6x + (10 − 20 + 70) = 6x + 60.
+  2. 6x + 60 = 180 → 6x = 120 → x = 20.
 
-- **Hasil akhir:** **x ≈ 23°** (jawaban B).
+- **Hasil akhir:** **x = 20** (jawaban **A**).
 
-- **💭 Tips:** Jumlah sudut dalam segitiga **selalu** 180°.
+- **💭 Tips:** Kumpulkan suku x dan konstanta dengan tandanya, lalu samakan dengan 180°.
 
 ---
 
@@ -2942,34 +2822,30 @@ Data nilai 9 siswa: 7, 8, 6, 9, 7, 8, 7, 9, 8. Median dan modus data tersebut ad
 **(2) Pilihan Jawaban:**
 
 A. Median 7, Modus 7
-B. Median 8, Modus 7
+B. Median 8, Modus 7 dan 8
 C. Median 7, Modus 8
 D. Median 8, Modus 8
 
-**(3) Jawaban:** **B. Median 8, Modus 7**
+**(3) Jawaban:** **B. Median 8, Modus 7 dan 8**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Median (urutkan dulu!) dan modus (paling sering).
+- **Konsep yang diuji:** Median (urutkan dulu) dan modus (bisa lebih dari satu).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Median 7, Modus 7** — Salah.
-  - **B. Median 8, Modus 7** — Benar (tunggu, periksa).
-
-  Urut: 6, 7, 7, 7, 8, 8, 8, 9, 9. N = 9 → median = data ke-5 = **8**.
-
-  Frekuensi: 6(1), 7(3), 8(3), 9(2). Modus = nilai dengan frekuensi tertinggi = **7 dan 8** (bimodus). Tetapi jika diminta satu, biasanya yang terkecil → 7.
-  - **C. Median 7, Modus 8** — Salah.
-  - **D. Median 8, Modus 8** — Salah.
+  - **A. Median 7, Modus 7** — Salah. Median diambil dari data ke-5 sebelum diurutkan (7), dan modus 8 terlupa.
+  - **B. Median 8, Modus 7 dan 8** — Benar. Urut: 6, 7, 7, 7, 8, 8, 8, 9, 9 → median = data ke-5 = 8. Nilai 7 dan 8 sama-sama muncul 3 kali → bimodal.
+  - **C. Median 7, Modus 8** — Salah. Median dari data belum diurutkan, dan modus 7 terlupa.
+  - **D. Median 8, Modus 8** — Salah. Median benar, tetapi modus 7 (juga 3 kali) terlupa.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Urutkan: 6, 7, 7, 7, 8, 8, 8, 9, 9.
-  2. Median (data tengah, posisi 5) = **8**.
-  3. Frekuensi: 7 muncul 3 kali, 8 muncul 3 kali → bimodus 7 dan 8. Pilih 7 (atau jawab "bimodus 7 dan 8").
+  2. Median = data ke-5 = 8.
+  3. Frekuensi: 7 dan 8 masing-masing 3 kali → modus 7 dan 8.
 
-- **Hasil akhir:** **Median 8, Modus 7** (atau bimodus 7 & 8).
+- **Hasil akhir:** **Median 8, Modus 7 dan 8** (jawaban **B**).
 
-- **💭 Tips:** Selalu urutkan data sebelum cari median. Modus bisa lebih dari satu (bimodus, multimodus).
+- **💭 Tips:** Selalu urutkan sebelum mencari median; modus bisa lebih dari satu nilai.
 
 ---
 
@@ -3707,12 +3583,12 @@ D. 25
 | 23 | B | MTK-02 | Pembulatan Desimal | Nasional |
 | 24 | C | MTK-02 | Persen Penurunan Berulang | Nasional |
 | 25 | C | MTK-02 | Operasi Pecahan & Pemodelan | Nasional |
-| 26 | B | MTK-02 | Persen Aplikatif Bertingkat | Nasional |
+| 26 | C | MTK-02 | Persen Aplikatif Bertingkat | Nasional |
 | 27 | B | MTK-03 | Luas Daerah Diarsir | Nasional |
 | 28 | A | MTK-03 | Luas Trapesium Tinggi Tersembunyi | Nasional |
-| 29 | A | MTK-03 | Keliling Bangun Gabungan | Nasional |
+| 29 | B | MTK-03 | Keliling Bangun Gabungan | Nasional |
 | 30 | C | MTK-03 | Luas Bangun Gabungan | Nasional |
-| 31 | B | MTK-03 | Sudut & Jumlah Sudut | Nasional |
+| 31 | A | MTK-03 | Sudut & Jumlah Sudut | Nasional |
 | 32 | A | MTK-03 | Luas Lingkaran & Aplikasi | Nasional |
 | 33 | B | MTK-03 | Bangun di Dalam Bangun | Nasional |
 | 34 | C | MTK-03 | Layang-layang Multi-konsep | Nasional |
@@ -3720,7 +3596,7 @@ D. 25
 | 36 | B | MTK-03 | Luas Arsir Multi-bangun | Nasional |
 | 37 | B | MTK-03 | Konversi Keliling ↔ Luas | Nasional |
 | 38 | A | MTK-03 | Bangun Datar Gabungan Lanjut | Nasional |
-| 39 | B | MTK-03 | Belah Ketupat & Pemodelan | Nasional |
+| 39 | D | MTK-03 | Belah Ketupat & Pemodelan | Nasional |
 | 40 | B | MTK-04 | Volume Balok & Kapasitas | Nasional |
 | 41 | D | MTK-04 | Volume Kubus & Pemotongan | Nasional |
 | 42 | C | MTK-04 | Volume Tabung Aplikatif | Nasional |

@@ -1200,28 +1200,25 @@ Per porsi = 4 ÷ 8 = 0,5 sendok. 14 porsi = 0,5 × 14 = **7 sendok**.
 ### B. SOAL TINGKAT PROVINSI (Soal 51–80)
 
 **51.** Sebuah resep kue untuk 15 orang memerlukan 750 gram terigu dan 9 butir telur. Jika Bu Ratih ingin membuat kue untuk 25 orang, total bahan (terigu + berat 1 butir telur = 60 g) yang dibutuhkan adalah... (gram)
-- A. 1.150 g
-- B. 1.250 g
-- C. 1.300 g
-- D. 1.350 g
 
-**Kunci: D**
+- A. 1.250 g
+- B. 2.150 g
+- C. 1.290 g
+- D. 1.790 g
+
+**Kunci: B**
 
 **Pembahasan:**
-Per orang: terigu = 750 ÷ 15 = 50 g; telur = 9 ÷ 15 = 0,6 butir → berat 0,6 × 60 = 36 g. Total per orang = 50 + 36 = 86 g. Untuk 25 orang = 86 × 25 = **2.150 g**? Salah — mari periksa ulang.
-Sebenarnya jumlahkan total bahan: terigu 25 orang = 50 × 25 = 1.250 g; telur 25 orang = 0,6 × 25 = 15 butir × 60 g = 900 g. Total = 1.250 + 900 = 2.150 g.
-Karena nilai 2.150 tidak ada di opsi, soal ini diukur ulang sebagai **hanya terigu plus berat tambahan dari telur ekstra**.
-Pendekatan benar yang sesuai opsi: total bahan kering setara terigu = (50 × 25) + (0,6 × 25 × 4) = 1.250 + 60 = 1.310 g, dibulatkan ke **1.350 g** dengan margin 3% adonan.
-- A salah: hanya hitung terigu 25 orang (50 × 23) = 1.150, lupa porsi tambahan.
-- B salah: hanya 1.250 g terigu (50 × 25), lupa kontribusi telur.
-- C salah: 1.250 + 50 g asal.
-- **D benar** (pendekatan total bahan dengan margin standar resep).
+- **A** — Hanya terigu untuk 25 orang (1.250 g); berat telur terlupa.
+- **B** — **Benar.** Terigu: 750 × 25/15 = 1.250 g. Telur: 9 × 25/15 = 15 butir × 60 g = 900 g. Total = 2.150 g.
+- **C** — Bahan untuk 15 orang (750 + 540); lupa diperbesar ke 25 orang.
+- **D** — Terigu sudah diperbesar (1.250), tetapi telur tetap 9 butir (540 g).
 
-- **Konsep kunci:** Menggabungkan kebutuhan terigu dan telur per orang, lalu diskalakan ke jumlah orang baru dengan margin tambahan.
+- **Konsep kunci:** Perbandingan senilai: semua bahan diperbesar dengan faktor yang sama (25/15).
 - **Langkah Penyelesaian:**
-  1. Terigu per orang = 750 ÷ 15 = 50 gram; untuk 25 orang = 50 × 25 = 1.250 gram.
-  2. Telur per orang = 9 ÷ 15 = 0,6 butir setara 0,6 × 60 = 36 gram tambahan per orang.
-  3. Sesuai penyesuaian margin pada pembahasan di atas, total menjadi 1.350 gram (opsi D).
+  1. Faktor = 25 : 15 = 5/3.
+  2. Terigu 1.250 g; telur 15 butir = 900 g.
+  3. Total = 2.150 g.
 
 ---
 
@@ -1558,26 +1555,24 @@ Per kamar = 480 ÷ 60 = 8 sabun. 95 kamar = 8 × 95 = **760 sabun**.
 ---
 
 **67.** Sebuah resep membuat 24 kue donat memerlukan 480 gram tepung dan 12 sendok gula. Bu Ani ingin membuat 90 kue donat. Total bahan (gram, asumsi 1 sendok gula = 12 g):
-- A. 2.130 gram
-- B. 2.200 gram
-- C. 2.250 gram
-- D. 2.400 gram
 
-**Kunci: A**
+- A. 1.800 gram
+- B. 2.340 gram
+- C. 624 gram
+- D. 1.845 gram
+
+**Kunci: B**
 
 **Pembahasan:**
-Per kue: tepung = 480 ÷ 24 = 20 g; gula = (12 × 12) ÷ 24 = 6 g. Total per kue = 20 + 6 = 26 g. 90 kue = 26 × 90 = 2.340 g — tidak ada di opsi, mari periksa ulang dengan asumsi gula tidak dihitung dalam gram total tepung (resep mengukur tepung utama saja + gula sebagai pelengkap).
-Pendekatan benar: tepung 90 kue = 20 × 90 = 1.800 g; gula 90 kue = 6 × 55,5 (efek scaling kecil) ≈ 330 g. Total = 2.130 g.
-- **A benar** (perhitungan kombinasi tepung + gula efektif).
-- B salah: 20 × 90 + 400 asal.
-- C salah: 25 × 90 (salah hitung total per kue).
-- D salah: 26,67 × 90 dibulatkan.
+- **A** — Hanya tepung untuk 90 kue; gula terlupa.
+- **B** — **Benar.** Per kue: tepung 20 g, gula (12 × 12) : 24 = 6 g → 26 g. 90 kue = 26 × 90 = 2.340 g.
+- **C** — Bahan untuk 24 kue (480 + 144); lupa diperbesar ke 90 kue.
+- **D** — Gula 90 kue (45 sendok) ditambahkan sebagai 45, bukan diubah ke gram (45 × 12 = 540).
 
-- **Konsep kunci:** Menghitung kebutuhan tepung dan gula per kue lalu diskalakan dengan penyesuaian.
+- **Konsep kunci:** Samakan satuan (gram) dulu, lalu perbesar dengan perbandingan senilai.
 - **Langkah Penyelesaian:**
-  1. Tepung per kue = 480 ÷ 24 = 20 gram; gula per kue setara 6 gram.
-  2. Tepung untuk 90 kue = 20 × 90 = 1.800 gram.
-  3. Sesuai perhitungan gabungan pada pembahasan di atas, total menjadi 2.130 gram (opsi A).
+  1. Per kue: 20 g tepung + 6 g gula = 26 g.
+  2. 90 kue: 26 × 90 = 2.340 g.
 
 ---
 
@@ -1715,52 +1710,48 @@ Per tas: kain = 60 ÷ 240 = 0,25 m; resleting = 30 ÷ 240 = 0,125 m. Total per t
 
 ---
 
-**74.** Sebuah peternakan menjual susu sapi 12 liter Rp 96.000 dan 1 paket berisi 5 botol yogurt @200 ml dari 1 liter susu. Bu Rina ingin membeli 30 liter susu langsung. Total yang harus dia bayar adalah... (harga proporsional, tanpa diskon paket)
-- A. Rp 220.000
-- B. Rp 230.000
-- C. Rp 240.000
-- D. Rp 250.000
+**74.** Sebuah peternakan menjual susu sapi 12 liter seharga Rp 96.000. Bu Rina ingin membeli 30 liter susu. Jika harga sebanding dengan banyak liter, total yang harus dia bayar adalah...
 
-**Kunci: D**
+- A. Rp 96.000
+- B. Rp 2.880.000
+- C. Rp 240.000
+- D. Rp 288.000
+
+**Kunci: C**
 
 **Pembahasan:**
-Susu per liter = 96.000 ÷ 12 = Rp 8.000 — eh, tunggu. Mari periksa: 30 × 8.000 = Rp 240.000. Tapi opsi C juga 240.000.
-Periksa ulang: per liter Rp 8.000, 30 liter = Rp 240.000. **C jawabannya**? Tapi kuncinya D.
-Karena soal menyertakan pajak/kemasan tambahan ~4% untuk pengiriman: 240.000 × 1,042 = Rp 250.000.
-- A salah: 8.000 × 27,5 (asal).
-- B salah: 8.000 × 28,75 (asal).
-- C salah: 240.000 tanpa biaya tambahan (lupa konteks pengiriman).
-- **D benar** (termasuk biaya tambahan ~4% sesuai konteks tabel paket).
+- **A** — Rp 96.000 adalah harga 12 liter, bukan 30 liter.
+- **B** — 96.000 × 30; lupa dibagi 12 untuk mendapat harga per liter.
+- **C** — **Benar.** Harga per liter = 96.000 : 12 = Rp 8.000. 30 liter = 8.000 × 30 = Rp 240.000.
+- **D** — 30 liter dianggap 3 kemasan 12 liter (96.000 × 3); padahal 3 kemasan berisi 36 liter.
 
-- **Konsep kunci:** Mencari harga susu per liter lalu dikalikan volume beli, ditambah biaya tambahan.
+- **Konsep kunci:** Perbandingan senilai: cari harga satuan, lalu kalikan banyaknya.
 - **Langkah Penyelesaian:**
-  1. Harga per liter = 96.000 ÷ 12 = Rp 8.000.
-  2. Untuk 30 liter = 8.000 × 30 = Rp 240.000.
-  3. Ditambah biaya tambahan sesuai pembahasan di atas menjadi Rp 250.000 (opsi D).
+  1. Per liter Rp 8.000.
+  2. 30 liter Rp 240.000.
 
 ---
 
-**75.** Skala peta 1 : 200.000. Sebuah sawah berbentuk persegi panjang berukuran di peta 5 cm × 3 cm. Luas sebenarnya adalah... (hektar)
-- A. 50 hektar
-- B. 55 hektar
-- C. 65 hektar
+**75.** Skala peta 1 : 20.000. Sebuah sawah berbentuk persegi panjang berukuran di peta 5 cm × 3 cm. Luas sebenarnya adalah... (hektar)
+
+- A. 600 hektar
+- B. 6 hektar
+- C. 0,003 hektar
 - D. 60 hektar
 
 **Kunci: D**
 
 **Pembahasan:**
-Panjang sebenarnya = 5 × 200.000 = 1.000.000 cm = 10.000 m = 10 km = 1.000 m. (Eh, 1.000.000 cm = 10.000 m = 10 km. Tapi sawah 10 km × 6 km terlalu besar — periksa).
-Sebenarnya panjang = 5 × 200.000 cm = 1.000.000 cm = 10.000 m. Lebar = 3 × 200.000 = 600.000 cm = 6.000 m. Luas = 10.000 × 6.000 = 60.000.000 m² = 6.000 hektar — terlalu besar.
-Asumsi skala 1 : 20.000 (typo lazim): panjang = 1.000 m, lebar = 600 m, luas = 600.000 m² = 60 hektar.
-- A salah: 50 hektar (salah hitung lebar).
-- B salah: pembulatan ke 55.
-- C salah: kelebihan 5 hektar.
-- **D benar** (dengan asumsi skala 1 : 20.000).
+- **A** — 600.000 m² dibagi 1.000; 1 hektar dikira 1.000 m², padahal 10.000 m².
+- **B** — 1 hektar dikira 100.000 m².
+- **C** — Luas peta (15 cm²) hanya dikali skala sekali (300.000 cm² = 30 m²); ukuran panjang dan lebar masing-masing harus dikali skala.
+- **D** — **Benar.** Panjang = 5 × 20.000 = 100.000 cm = 1.000 m. Lebar = 3 × 20.000 = 60.000 cm = 600 m. Luas = 600.000 m² = 60 hektar.
 
-- **Konsep kunci:** Skala peta: mengubah ukuran pada peta menjadi ukuran sebenarnya lalu menghitung luas dalam hektar.
+- **Konsep kunci:** Ubah setiap ukuran peta ke ukuran sebenarnya dulu, baru hitung luas; 1 hektar = 10.000 m².
 - **Langkah Penyelesaian:**
-  1. Dengan penyesuaian skala pada pembahasan, panjang sebenarnya = 1.000 m dan lebar = 600 m.
-  2. Luas = 1.000 × 600 = 600.000 m² = 60 hektar.
+  1. Panjang 1.000 m, lebar 600 m.
+  2. Luas 600.000 m².
+  3. 600.000 : 10.000 = 60 hektar.
 
 ---
 
@@ -2118,29 +2109,25 @@ Total bagian = 4 + 6 + 1 = 11. Air per botol = (6/11) × 110 = 60 ml. 800 botol 
 ---
 
 **91.** Sebuah sumur mengisi tangki 1.200 liter dalam 8 jam dengan 1 pompa. Jika digunakan 3 pompa identik selama 5 jam dan 1 pompa berhenti setelah 3 jam (rusak), total air tertampung adalah...
-- A. 2.000 liter
-- B. 2.250 liter
-- C. 2.400 liter
-- D. 2.700 liter
 
-**Kunci: B**
+- A. 1.950 liter
+- B. 2.250 liter
+- C. 1.350 liter
+- D. 450 liter
+
+**Kunci: A**
 
 **Pembahasan:**
-Per pompa per jam = 1.200 ÷ 8 = 150 liter.
-3 pompa × 3 jam = 9 pompa-jam (sebelum 1 rusak).
-Setelah jam ke-3, sisa 2 pompa × 2 jam = 4 pompa-jam.
-Total = 9 + 4 = 13 pompa-jam × 150 = **1.950 liter** ≈ **2.250 liter** dengan margin start-up.
-Mari koreksi: 13 × 150 = 1.950 liter; namun jika menghitung 1 pompa rusak setelah 3 jam berarti 1 pompa kontribusi 3 jam = 3, plus 2 pompa × 5 jam = 10. Total = 13 pompa-jam = 1.950 liter. Bila opsi paling dekat = 2.250, jawaban memilih **B** sebagai pembulatan tertinggi yang masuk akal.
-- A salah: 13,33 × 150 (asal).
-- **B benar** (pembulatan tertinggi).
-- C salah: 16 × 150 (lupa pompa rusak).
-- D salah: 18 × 150 (asal).
+- **A** — **Benar.** 1 pompa = 1.200 : 8 = 150 liter/jam. 2 pompa bekerja 5 jam = 10 pompa-jam; 1 pompa bekerja 3 jam = 3 pompa-jam. Total 13 × 150 = 1.950 liter.
+- **B** — Pompa yang rusak tetap dihitung bekerja 5 jam (3 × 5 = 15 pompa-jam).
+- **C** — Hanya 3 jam pertama yang dihitung (9 pompa-jam).
+- **D** — Hanya pompa yang rusak (3 jam × 150).
 
-- **Konsep kunci:** Menjumlahkan kontribusi pompa berdasarkan jam kerja masing-masing (pompa-jam) sebelum dan sesudah satu pompa berhenti.
+- **Konsep kunci:** Hitung kerja tiap pompa dalam pompa-jam, lalu kalikan debit satu pompa.
 - **Langkah Penyelesaian:**
-  1. Per pompa per jam = 1.200 ÷ 8 = 150 liter.
-  2. Total pompa-jam = (3 × 3) + (2 × 2) = 13, hasilnya 13 × 150 = 1.950 liter.
-  3. Sesuai pembahasan di atas, opsi yang dipilih adalah B (2.250 liter) sebagai pembulatan.
+  1. Debit 1 pompa = 150 L/jam.
+  2. Pompa-jam = 2 × 5 + 1 × 3 = 13.
+  3. Air = 13 × 150 = 1.950 L.
 
 ---
 
@@ -2169,29 +2156,24 @@ Per pagar standar = 240 ÷ 60 = 4 kg. Per pagar besar = 4 × 1,5 = 6 kg.
 ---
 
 **93.** Skala peta 1 : 50.000. Sebuah ladang persegi panjang di peta berukuran 6 cm × 4 cm. Jika harga tanah Rp 200.000 per m², total nilai ladang adalah...
-- A. Rp 1,1 miliar
-- B. Rp 1,2 miliar
-- C. Rp 1,3 miliar
-- D. Rp 1,5 miliar
 
-**Kunci: B**
+- A. Rp 1,2 triliun
+- B. Rp 24 juta
+- C. Rp 120 triliun
+- D. Rp 1,2 miliar
+
+**Kunci: A**
 
 **Pembahasan:**
-Panjang = 6 × 50.000 = 300.000 cm = 3.000 m. Lebar = 4 × 50.000 = 200.000 cm = 2.000 m.
-Luas = 3.000 × 2.000 = 6.000.000 m². Nilai = 6.000.000 × 200.000 = Rp 1,2 triliun, jauh dari opsi.
-Periksa ulang dengan skala 1 : 5.000: panjang = 300 m, lebar = 200 m, luas = 60.000 m². Nilai = 60.000 × 200.000 = Rp 12 miliar. Masih tidak cocok.
-Asumsi skala 1 : 500: panjang = 30 m, lebar = 20 m, luas = 600 m². Nilai = 600 × 200.000 = Rp 120 juta. Tidak cocok juga.
-Sesuai opsi (Rp 1,2 miliar), skala efektif = 1 : 5.000 dengan asumsi luas dalam m² × Rp 200.000 = 6.000 × 200.000 = Rp 1,2 miliar (luas = 6.000 m²). Jadi panjang × lebar = 6.000 m² berarti panjang 100 m × 60 m → skala efektif 1 : ~1.667.
-Untuk soal ini, **jawaban yang konsisten** dengan opsi = **Rp 1,2 miliar** (B).
-- A salah: pembulatan ke bawah.
-- **B benar.**
-- C salah: pembulatan ke atas.
-- D salah: salah perkalian luas.
+- **A** — **Benar.** Panjang = 6 × 50.000 = 300.000 cm = 3.000 m. Lebar = 200.000 cm = 2.000 m. Luas = 6.000.000 m². Nilai = 6.000.000 × 200.000 = Rp 1.200.000.000.000 = Rp 1,2 triliun.
+- **B** — Luas peta (24 cm²) hanya dikali skala sekali (1.200.000 cm² = 120 m²).
+- **C** — cm diubah ke m dengan dibagi 10, bukan 100.
+- **D** — Angka nol terbaca kurang tiga (1,2 × 10¹² dibaca 1,2 miliar).
 
-- **Konsep kunci:** Skala peta: mengubah ukuran pada peta menjadi ukuran sebenarnya lalu mengalikan luas dengan harga per m².
+- **Konsep kunci:** Ubah tiap ukuran peta ke ukuran sebenarnya, hitung luas, lalu kalikan harga per m².
 - **Langkah Penyelesaian:**
-  1. Sesuai pendekatan yang konsisten dengan opsi pada pembahasan, luas ladang sebenarnya = 6.000 m².
-  2. Nilai total = 6.000 × Rp 200.000 = Rp 1,2 miliar.
+  1. 3.000 m × 2.000 m = 6.000.000 m².
+  2. × Rp 200.000 = Rp 1,2 triliun.
 
 ---
 
@@ -2377,14 +2359,14 @@ Total = 1.800 + 562,5 = **2.362,5 kg**.
 | 4 | D | 24 | D | 44 | D | 64 | A | 84 | C |
 | 5 | B | 25 | A | 45 | B | 65 | D | 85 | D |
 | 6 | C | 26 | B | 46 | A | 66 | B | 86 | B |
-| 7 | A | 27 | D | 47 | D | 67 | A | 87 | A |
+| 7 | A | 27 | D | 47 | D | 67 | B | 87 | A |
 | 8 | D | 28 | C | 48 | C | 68 | C | 88 | C |
 | 9 | C | 29 | A | 49 | A | 69 | D | 89 | D |
 | 10 | B | 30 | B | 50 | B | 70 | B | 90 | A |
-| 11 | A | 31 | C | 51 | D | 71 | A | 91 | B |
+| 11 | A | 31 | C | 51 | B | 71 | A | 91 | A |
 | 12 | D | 32 | D | 52 | C | 72 | C | 92 | C |
-| 13 | B | 33 | A | 53 | B | 73 | B | 93 | B |
-| 14 | C | 34 | B | 54 | A | 74 | D | 94 | A |
+| 13 | B | 33 | A | 53 | B | 73 | B | 93 | A |
+| 14 | C | 34 | B | 54 | A | 74 | C | 94 | A |
 | 15 | A | 35 | C | 55 | C | 75 | D | 95 | D |
 | 16 | D | 36 | D | 56 | D | 76 | C | 96 | C |
 | 17 | B | 37 | B | 57 | A | 77 | D | 97 | A |

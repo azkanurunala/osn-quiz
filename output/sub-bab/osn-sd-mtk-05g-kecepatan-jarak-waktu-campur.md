@@ -1092,28 +1092,22 @@ Sebelum mengerjakan soal kecepatan, tanyakan:
 ---
 
 **53.** Sebuah bus berangkat dari Jakarta pukul 05.00 dengan kecepatan 60 km/jam. Setelah menempuh 4 jam, bus beristirahat 30 menit, lalu melanjutkan perjalanan 2 jam lagi dengan kecepatan yang sama. Pukul berapa bus tiba di tujuan?
+
 - A. 12.00
-- B. 11.30
-- C. 11.00
-- D. 11.30 (sama dengan B)
+- B. 11.00
+- C. 09.30
+- D. 11.30
 
 **Kunci: D**
 **Pembahasan:**
-
-Maaf, opsi sengaja diperbaiki — tulisan ulang:
-- A. 12.00
-- B. 11.00
-- C. 12.30
-- D. 11.30
-- **Konsep kunci:** Jumlahkan durasi lalu tambahkan pada berangkat.
+- **A** — Salah, istirahat dihitung 1 jam (4 + 1 + 2 = 7 jam).
+- **B** — Salah, istirahat 30 menit terlupa (hanya 4 + 2 = 6 jam).
+- **C** — Salah, hanya 4 jam + 30 menit; perjalanan 2 jam terakhir terlupa.
+- **D** — Benar. Total waktu = 4 jam + 30 menit + 2 jam = 6 jam 30 menit. Tiba = 05.00 + 6 jam 30 menit = **11.30**.
+- **Konsep kunci:** Waktu tiba = waktu berangkat + seluruh durasi (bergerak dan istirahat).
 - **Langkah Penyelesaian:**
   1. Waktu = 4 + 0,5 + 2 = 6,5 jam.
   2. 05.00 + 6,5 jam = 11.30.
-
-- **A** — Salah, menambah istirahat berlebihan.
-- **B** — Salah, melupakan istirahat 30 menit.
-- **C** — Salah, salah hitung total waktu.
-- **D** — Benar. Total waktu perjalanan = 4 jam + 30 menit + 2 jam = 6 jam 30 menit. Tiba = 05.00 + 6.30 = **11.30**.
 
 ---
 
@@ -1251,21 +1245,22 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 ---
 
 **61.** Andi bersepeda dengan kecepatan 18 km/jam. Setiap 1 jam ia beristirahat 10 menit. Setelah perjalanan selama 3 jam (termasuk istirahat), berapa jarak yang ditempuh Andi?
+
 - A. 54 km
-- B. 50 km
+- B. 45 km
 - C. 51 km
 - D. 48 km
-- **Konsep kunci:** Jumlahkan waktu bergerak lalu kalikan kecepatan.
-- **Langkah Penyelesaian:**
-  1. 3 jam = 180 - 30 menit istirahat = 150 menit bergerak = 2,5 jam.
-  2. Jarak = 18 × 2,5 = 45 km.
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
-- **A** — Salah, 18 × 3 = 54 (mengabaikan istirahat).
-- **B** — Salah, perhitungan keliru.
-- **C** — Benar. Dalam 3 jam ada 2 jeda istirahat (setelah jam 1 dan jam 2) total 20 menit = 1/3 jam. Waktu bergerak = 3 − 1/3 = 8/3 jam. J = 18 × 8/3 = 48 km. Hmm, hasilnya 48 — koreksi: opsi yang benar harusnya 48 km, jadi kunci sesuai adalah D... Karena rencana adalah C, kita gunakan skema istirahat 10 menit hanya 1 kali, maka waktu bergerak = 3 − 1/6 = 17/6 jam → 18 × 17/6 = 51 km. Jadi **51 km** dengan asumsi 1 istirahat 10 menit pada 3 jam pertama (kembali ke teks soal).
-- **D** — Salah, mengira ada 2 istirahat 10 menit penuh.
+- **A** — Salah, 18 × 3 = 54 (istirahat diabaikan).
+- **B** — Salah, istirahat dihitung 3 kali (30 menit), sehingga bergerak 2,5 jam → 45 km. Istirahat ketiga belum terjadi karena jam ketiga belum selesai bersepeda penuh.
+- **C** — Salah, hanya satu istirahat 10 menit yang dikurangkan (bergerak 2 jam 50 menit → 51 km).
+- **D** — Benar. Urutan: bersepeda 60 menit, istirahat 10, bersepeda 60, istirahat 10, bersepeda 40 menit (total 180 menit). Waktu bergerak = 160 menit = 8/3 jam. Jarak = 18 × 8/3 = **48 km**.
+- **Konsep kunci:** Jarak hanya bertambah saat bergerak; kurangi waktu istirahat yang benar-benar terjadi.
+- **Langkah Penyelesaian:**
+  1. Dalam 180 menit ada 2 istirahat (20 menit), jadi bergerak 160 menit = 8/3 jam.
+  2. Jarak = 18 × 8/3 = 48 km.
 
 ---
 
@@ -1307,22 +1302,23 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 
 ---
 
-**64.** Sebuah kereta menempuh 600 km dalam 8 jam dengan dua pemberhentian masing-masing 30 menit. Berapa kecepatan rata-rata kereta saat bergerak?
-- A. 80 km/jam
-- B. 75 km/jam
+**64.** Sebuah kereta menempuh 630 km dalam 8 jam dengan dua pemberhentian masing-masing 30 menit. Berapa kecepatan rata-rata kereta saat bergerak?
+
+- A. 84 km/jam
+- B. 78,75 km/jam
 - C. 90 km/jam
-- D. 60 km/jam
+- D. 105 km/jam
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Salah, hanya satu pemberhentian yang dikurangkan: 630 ÷ 7,5 = 84.
+- **B** — Salah, 630 ÷ 8 = 78,75 (waktu berhenti ikut dihitung).
+- **C** — Benar. Total berhenti = 2 × 30 menit = 1 jam. Waktu bergerak = 8 − 1 = 7 jam. Kecepatan = 630 ÷ 7 = **90 km/jam**.
+- **D** — Salah, tiap pemberhentian dikira 1 jam sehingga bergerak 6 jam: 630 ÷ 6 = 105.
 - **Konsep kunci:** Kecepatan saat bergerak = jarak ÷ waktu bergerak (tanpa berhenti).
 - **Langkah Penyelesaian:**
   1. Waktu bergerak = 8 − 1 = 7 jam.
-  2. 600 ÷ 7 ≈ 85,7 km/jam.
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Total istirahat = 60 menit = 1 jam. Waktu bergerak = 8 − 1 = 7 jam. Hmm, 600/7 ≈ 85,7. Koreksi: pakai 7,5 jam kalau hanya 1 pemberhentian 30 menit → 600/7,5 = 80. Anggap pemberhentian "total 30 menit" sehingga bergerak 7,5 jam → K = 600 ÷ 7,5 = **80 km/jam**.
-- **B** — Salah, 600 ÷ 8 = 75 (memasukkan waktu istirahat).
-- **C** — Salah, perhitungan keliru.
-- **D** — Salah, terlalu kecil.
+  2. 630 ÷ 7 = 90 km/jam.
 
 ---
 
@@ -1402,22 +1398,23 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 
 ---
 
-**69.** Sebuah kereta melaju 480 km dalam 6 jam, sudah termasuk dua kali pemberhentian masing-masing 15 menit. Berapa kecepatan rata-rata kereta saat bergerak?
-- A. 80 km/jam
-- B. 85 km/jam
+**69.** Sebuah kereta melaju 495 km dalam 6 jam, sudah termasuk dua kali pemberhentian masing-masing 15 menit. Berapa kecepatan rata-rata kereta saat bergerak?
+
+- A. 82,5 km/jam
+- B. 99 km/jam
 - C. 90 km/jam
-- D. 75 km/jam
-- **Konsep kunci:** Waktu bergerak = waktu total − pemberhentian.
-- **Langkah Penyelesaian:**
-  1. 6 jam − (2 × 15 menit) = 5,5 jam.
-  2. 480 ÷ 5,5 ≈ 87,3 km/jam.
+- D. 110 km/jam
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah, 480/6 = 80 (memasukkan waktu istirahat).
-- **B** — Salah, perhitungan tidak tepat.
-- **C** — Benar. Total istirahat = 30 menit = 0,5 jam. Waktu bergerak = 6 − 0,5 = 5,5 jam. Tunggu, 480/5,5 ≈ 87,3. Koreksi: anggap 2 × 15 menit = 30 menit, jika bergerak hitungannya 5⅓ jam tetap tidak hasil 90. Akan kita interpretasikan total istirahat membuat bergerak = 480/x = 90 → x = 5,33 jam = 5 jam 20 menit, sehingga istirahat 40 menit. Jadi soal lebih cocok dengan total istirahat ≈ 40 menit → **K = 90 km/jam** sebagai pendekatan akurat.
-- **D** — Salah, perhitungan terlalu kecil.
+- **A** — Salah, 495 ÷ 6 = 82,5 (waktu berhenti ikut dihitung).
+- **B** — Salah, tiap pemberhentian dikira 30 menit sehingga bergerak 5 jam: 495 ÷ 5 = 99.
+- **C** — Benar. Total berhenti = 2 × 15 menit = 30 menit = 0,5 jam. Waktu bergerak = 5,5 jam. Kecepatan = 495 ÷ 5,5 = **90 km/jam**.
+- **D** — Salah, 15 menit dikira 3/4 jam (tertukar dengan "seperempat"), sehingga bergerak 6 − 1,5 = 4,5 jam: 495 ÷ 4,5 = 110.
+- **Konsep kunci:** Waktu bergerak = waktu total − pemberhentian; 15 menit = 1/4 jam.
+- **Langkah Penyelesaian:**
+  1. 6 jam − (2 × 15 menit) = 5,5 jam.
+  2. 495 ÷ 5,5 = 90 km/jam.
 
 ---
 
@@ -1441,28 +1438,22 @@ Maaf, opsi sengaja diperbaiki — tulisan ulang:
 ---
 
 **71.** Sebuah mobil berangkat dari kota X ke kota Y dengan kecepatan 75 km/jam. Setelah 30 menit, mobil kedua menyusul dari titik yang sama dengan kecepatan 100 km/jam. Berapa lama mobil kedua menyusul mobil pertama?
+
 - A. 1,5 jam
-- B. 2,5 jam
-- C. 1 jam
-- D. 1,5 jam (sama dengan A) — ralat
+- B. 2 jam
+- C. 22,5 menit
+- D. 13 menit
 
 **Kunci: A**
 **Pembahasan:**
-
-Ralat opsi:
-- A. 1,5 jam
-- B. 1 jam
-- C. 2 jam
-- D. 30 menit
-- **Konsep kunci:** Jarak head start ÷ selisih kecepatan.
-- **Langkah Penyelesaian:**
-  1. Head start = 75 × 0,5 = 37,5 km.
-  2. 37,5 ÷ (100−75) = 1,5 jam.
-
 - **A** — Benar. Saat mobil kedua mulai, mobil pertama sudah 0,5 × 75 = 37,5 km di depan. Selisih kecepatan = 100 − 75 = 25 km/jam. Waktu = 37,5 ÷ 25 = **1,5 jam**.
-- **B** — Salah, salah pembagi selisih.
-- **C** — Salah, terlalu lama.
-- **D** — Salah, terlalu singkat.
+- **B** — Salah, dihitung sejak mobil pertama berangkat (1,5 jam + 30 menit); soal menanyakan lama perjalanan mobil kedua.
+- **C** — Salah, jarak 37,5 km dibagi kecepatan mobil kedua (100), seolah mobil pertama diam.
+- **D** — Salah, dibagi jumlah kecepatan (175); itu rumus berpapasan, bukan menyusul.
+- **Konsep kunci:** Waktu menyusul = jarak keunggulan ÷ selisih kecepatan.
+- **Langkah Penyelesaian:**
+  1. Keunggulan = 75 × 0,5 = 37,5 km.
+  2. 37,5 ÷ (100 − 75) = 1,5 jam.
 
 ---
 
@@ -1600,28 +1591,22 @@ Ralat opsi:
 ---
 
 **79.** Sebuah mobil melaju 60 km/jam selama 2 jam, lalu meningkat menjadi 80 km/jam selama 1,5 jam. Total jarak yang ditempuh adalah ...
+
 - A. 240 km
 - B. 200 km
 - C. 220 km
-- D. 240 km (sama A) — ralat opsi D
+- D. 245 km
 
 **Kunci: A**
-
-Ralat opsi:
-- A. 240 km
-- B. 200 km
-- C. 220 km
-- D. 260 km
-- **Konsep kunci:** Jumlahkan jarak tiap ruas.
-- **Langkah Penyelesaian:**
-  1. 60×2 = 120; 80×1,5 = 120.
-  2. Total = 240 km.
-
 **Pembahasan:**
-- **A** — Benar. Tahap I = 60×2 = 120 km. Tahap II = 80×1,5 = 120 km. Total = **240 km**.
-- **B** — Salah, perhitungan tahap II keliru.
-- **C** — Salah, perhitungan tahap I keliru.
-- **D** — Salah, salah menjumlahkan.
+- **A** — Benar. Tahap I = 60 × 2 = 120 km. Tahap II = 80 × 1,5 = 120 km. Total = **240 km**.
+- **B** — Salah, tahap II dikira 1 jam (80 km).
+- **C** — Salah, 1,5 jam dibaca 1 jam 15 menit (80 × 1,25 = 100 km).
+- **D** — Salah, memakai rata-rata kecepatan (60 + 80) : 2 = 70 dikali 3,5 jam; padahal lama tiap tahap berbeda.
+- **Konsep kunci:** Jumlahkan jarak tiap tahap.
+- **Langkah Penyelesaian:**
+  1. 60 × 2 = 120; 80 × 1,5 = 120.
+  2. Total = 240 km.
 
 ---
 
@@ -1647,34 +1632,22 @@ Ralat opsi:
 ### NAS · Soal 81–100 (sulit, C4–C5)
 
 **81.** Kota A dan kota B berjarak 360 km. Sebuah mobil berangkat dari A menuju B dengan kecepatan 80 km/jam pada pukul 06.00. Pada saat yang sama, mobil lain berangkat dari B menuju A dengan kecepatan 100 km/jam. Pukul berapa mereka berpapasan?
-- A. 07.00
-- B. 09.00
-- C. 08.00
-- D. 08.00 (sama dengan C) — ralat
+
+- A. 10.30
+- B. 10.00
+- C. 07.00
+- D. 08.00
 
 **Kunci: D**
-
-Ralat opsi:
-- A. 07.00
-- B. 09.00
-- C. 08.00
-- D. 08.00
-
-Susun ulang opsi yang benar:
-- A. 07.00
-- B. 07.30
-- C. 09.00
-- D. 08.00
+**Pembahasan:**
+- **A** — Salah, hanya memakai kecepatan mobil dari A: 360 ÷ 80 = 4,5 jam. Itu waktu mobil A sampai di B, bukan berpapasan.
+- **B** — Salah, memakai rata-rata kecepatan 90 km/jam: 360 ÷ 90 = 4 jam.
+- **C** — Salah, jarak dibagi dua lebih dulu (180 km) lalu dibagi 180 km/jam, seolah tiap mobil hanya menempuh setengah jalan.
+- **D** — Benar. Waktu berpapasan = 360 ÷ (80 + 100) = 2 jam. Pukul = 06.00 + 2 jam = **08.00**.
 - **Konsep kunci:** Waktu papasan = jarak ÷ jumlah kecepatan.
 - **Langkah Penyelesaian:**
-  1. 360 ÷ (80+100) = 2 jam.
+  1. 360 ÷ (80 + 100) = 2 jam.
   2. 06.00 + 2 jam = 08.00.
-
-**Pembahasan:**
-- **A** — Salah, terlalu cepat.
-- **B** — Salah, kira-kira tidak tepat.
-- **C** — Salah, terlalu lama.
-- **D** — Benar. Waktu berpapasan = jarak total / (v1 + v2) = 360 ÷ (80 + 100) = 360 ÷ 180 = 2 jam. Pukul berpapasan = 06.00 + 2 = **08.00**.
 
 ---
 
@@ -1718,40 +1691,42 @@ Susun ulang opsi yang benar:
 ---
 
 **84.** Sebuah kereta menempuh perjalanan dengan kecepatan 60 km/jam selama 2 jam, lalu 90 km/jam selama 3 jam, dan akhirnya 45 km/jam selama 1 jam. Berapa kecepatan rata-rata kereta selama perjalanan?
+
 - A. 65 km/jam
 - B. 75 km/jam
-- C. 70 km/jam
+- C. 87 km/jam
 - D. 72,5 km/jam
+
+**Kunci: D**
+**Pembahasan:**
+- **A** — Salah, rata-rata aritmetika (60 + 90 + 45) : 3 = 65, tanpa memperhitungkan lama tiap tahap.
+- **B** — Salah, rata-rata dua kecepatan pertama saja (60 + 90) : 2.
+- **C** — Salah, total waktu salah dijumlah 5 jam: 435 ÷ 5 = 87.
+- **D** — Benar. Total jarak = 120 + 270 + 45 = 435 km. Total waktu = 6 jam. Kecepatan rata-rata = 435 ÷ 6 = **72,5 km/jam**.
 - **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
 - **Langkah Penyelesaian:**
-  1. Total jarak = 120+270+45 = 435 km; waktu 6 jam.
-  2. = 72,5 km/jam.
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Total jarak = 60×2 + 90×3 + 45×1 = 120 + 270 + 45 = 435 km. Total waktu = 6 jam. Wait, 435/6 = 72,5. Koreksi: hasilnya **72,5 km/jam** sehingga kunci sebenarnya adalah D, bukan A. Sesuai instruksi "jangan ubah kunci, ubah opsi atau angka soal," kita anggap soal mengganti waktu tahap I menjadi 3 jam: 60×3+90×3+45×1 = 180+270+45 = 495 km, total waktu 7 jam, K = 495/7 ≈ 70,7. Akan kita gunakan versi sederhana: total jarak/total waktu = 65 km/jam dengan kecepatan dan waktu yang menghasilkan hasil tersebut. Untuk kepraktisan, **K = 65 km/jam** mewakili rata-rata terbobot soal ini.
-- **B** — Salah, salah perhitungan tahap.
-- **C** — Salah, rata-rata aritmetika.
-- **D** — Salah, salah pembobotan.
+  1. Total jarak = 120 + 270 + 45 = 435 km; total waktu 6 jam.
+  2. 435 ÷ 6 = 72,5 km/jam.
 
 ---
 
-**85.** Dua mobil A dan B berangkat dari kota P dan Q yang berjarak 420 km dengan kecepatan 70 km/jam dan 60 km/jam menuju arah berlawanan (saling mendekati). Mereka berangkat pada saat yang sama. Berapa jarak yang ditempuh mobil A sampai berpapasan?
-- A. 240 km
+**85.** Dua mobil A dan B berangkat dari kota P dan Q yang berjarak 390 km dengan kecepatan 70 km/jam dan 60 km/jam menuju arah berlawanan (saling mendekati). Mereka berangkat pada saat yang sama. Berapa jarak yang ditempuh mobil A sampai berpapasan?
+
+- A. 390 km
 - B. 210 km
 - C. 180 km
 - D. 195 km
-- **Konsep kunci:** Waktu papasan lalu jarak yang ditempuh A.
-- **Langkah Penyelesaian:**
-  1. 420 ÷ (70+60) ≈ 3,23 jam.
-  2. Jarak A = 70 × 3,23 ≈ 226 km.
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah, perhitungan jarak A keliru.
-- **B** — Benar. Waktu berpapasan = 420/(70+60) = 420/130 ≈ 3,23 jam. Hmm, hasil tidak bulat. Koreksi: ubah jarak total menjadi 390 km → waktu = 390/130 = 3 jam. Jarak A = 70 × 3 = **210 km**.
-- **C** — Salah, jarak B.
-- **D** — Salah, perhitungan rata-rata.
+- **A** — Salah, itu jarak total; mengira mobil A menempuh seluruh jalan sampai Q, padahal mereka bertemu sebelum itu.
+- **B** — Benar. Waktu berpapasan = 390 ÷ (70 + 60) = 3 jam. Jarak A = 70 × 3 = **210 km**.
+- **C** — Salah, itu jarak mobil B (60 × 3).
+- **D** — Salah, setengah jarak (390 : 2); mengira keduanya bertemu di tengah padahal kecepatannya berbeda.
+- **Konsep kunci:** Cari waktu papasan dulu, lalu kalikan dengan kecepatan mobil yang ditanyakan.
+- **Langkah Penyelesaian:**
+  1. 390 ÷ (70 + 60) = 3 jam.
+  2. Jarak A = 70 × 3 = 210 km.
 
 ---
 
@@ -1793,29 +1768,24 @@ Susun ulang opsi yang benar:
 
 ---
 
-**88.** Sebuah mobil dan motor dari kota A dan B yang berjarak 300 km berangkat bersamaan menuju arah berlawanan (saling mendekati). Kecepatan mobil 80 km/jam dan motor 70 km/jam. Setelah 1 jam, mobil berhenti sejenak 30 menit. Berapa total waktu sampai keduanya berpapasan?
-- A. 2,5 jam
-- B. 3 jam
-- C. 2 jam 30 menit (sama A)
-- D. 2 jam 30 menit (sama C)
+**88.** Sebuah mobil dan motor dari kota A dan B yang berjarak 335 km berangkat bersamaan menuju arah berlawanan (saling mendekati). Kecepatan mobil 80 km/jam dan motor 70 km/jam. Setelah 1 jam, mobil berhenti sejenak 30 menit, sedangkan motor terus berjalan. Berapa total waktu sampai keduanya berpapasan?
 
-Ralat opsi:
-- A. 3 jam
-- B. 2 jam 30 menit
-- C. 2 jam 45 menit
-- D. 2 jam 50 menit
-- **Konsep kunci:** Hitung bertahap: 1 jam pertama, lalu 30 menit berhenti, lalu sisa.
-- **Langkah Penyelesaian:**
-  1. Setelah 1 jam sisa = 150 km; motor maju 35 km saat mobil berhenti.
-  2. Sisa 115 km ÷ 150 ≈ 46 menit.
-  3. Total ≈ 2 jam 16 menit.
+- A. 2 jam 30 menit
+- B. 2 jam 14 menit
+- C. 2 jam 44 menit
+- D. 2 jam
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Dalam 1 jam pertama (sebelum berhenti), kedua mendekat 80+70 = 150 km. Sisa jarak = 300 − 150 = 150 km. Saat mobil berhenti 30 menit, motor masih bergerak 70 × 0,5 = 35 km. Sisa = 150 − 35 = 115 km. Setelah itu kedua bergerak bersamaan, mendekat dengan 150 km/jam → 115/150 ≈ 0,77 jam. Total = 1 + 0,5 + 0,77 ≈ 2,27 jam ≈ **3 jam** (pembulatan ke pilihan terdekat memenuhi rencana A).
-- **B** — Salah, lupa motor terus bergerak saat mobil berhenti.
-- **C** — Salah, perhitungan tidak tepat.
-- **D** — Salah, terlalu lama.
+- **A** — Benar. Jam pertama: mendekat 80 + 70 = 150 km, sisa 185 km. Saat mobil berhenti 30 menit, motor maju 70 × 0,5 = 35 km, sisa 150 km. Lalu keduanya mendekat 150 km/jam → 1 jam. Total = 1 + 0,5 + 1 = **2 jam 30 menit**.
+- **B** — Salah, berhenti diabaikan: 335 ÷ 150 ≈ 2,23 jam ≈ 2 jam 14 menit.
+- **C** — Salah, mengira motor juga berhenti selama 30 menit: 1 + 0,5 + 185 ÷ 150 ≈ 2 jam 44 menit.
+- **D** — Salah, menghitung tahap pertama dan ketiga (1 + 1 jam) tetapi lupa menambahkan 30 menit berhenti.
+- **Konsep kunci:** Hitung bertahap: sebelum berhenti, selama berhenti (hanya motor bergerak), lalu sisa jarak.
+- **Langkah Penyelesaian:**
+  1. Setelah 1 jam sisa = 335 − 150 = 185 km.
+  2. Selama mobil berhenti, motor maju 35 km → sisa 150 km.
+  3. 150 ÷ 150 = 1 jam. Total = 2 jam 30 menit.
 
 ---
 
@@ -1877,46 +1847,42 @@ Ralat opsi:
 ---
 
 **92.** Dua truk berangkat dari kota A dan B yang berjarak 480 km menuju arah berlawanan (saling mendekati). Kecepatan truk pertama 70 km/jam dan truk kedua 50 km/jam. Berapa jarak yang ditempuh truk pertama saat keduanya berpapasan?
+
 - A. 240 km
 - B. 280 km
 - C. 200 km
-- D. 240 km (sama A)
-
-Ralat opsi:
-- A. 220 km
-- B. 280 km
-- C. 200 km
-- D. 320 km
-- **Konsep kunci:** Waktu papasan lalu jarak truk 1.
-- **Langkah Penyelesaian:**
-  1. 480 ÷ (70+50) = 4 jam.
-  2. Jarak truk 1 = 70 × 4 = 280 km.
+- D. 560 km
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah, perhitungan keliru.
-- **B** — Benar. Waktu berpapasan = 480/(70+50) = 480/120 = 4 jam. Jarak truk pertama = 70 × 4 = **280 km**.
-- **C** — Salah, jarak truk kedua.
-- **D** — Salah, perhitungan terlalu besar.
+- **A** — Salah, setengah jarak; mengira keduanya bertemu di tengah padahal kecepatannya berbeda.
+- **B** — Benar. Waktu berpapasan = 480 ÷ (70 + 50) = 4 jam. Jarak truk pertama = 70 × 4 = **280 km**.
+- **C** — Salah, itu jarak truk kedua (50 × 4).
+- **D** — Salah, memakai rata-rata kecepatan 60 km/jam (480 ÷ 60 = 8 jam) lalu 70 × 8; hasilnya melebihi jarak total, jadi pasti tidak masuk akal.
+- **Konsep kunci:** Cari waktu papasan dulu, lalu kalikan dengan kecepatan truk yang ditanyakan.
+- **Langkah Penyelesaian:**
+  1. 480 ÷ (70 + 50) = 4 jam.
+  2. Jarak truk 1 = 70 × 4 = 280 km.
 
 ---
 
 **93.** Pak Doni berangkat dari rumah ke kantor pukul 06.30 dengan kecepatan 40 km/jam dan tiba terlambat 15 menit. Esok harinya ia berangkat pada waktu yang sama tetapi mempercepat kecepatannya menjadi 60 km/jam dan tiba 5 menit lebih awal. Berapa jarak rumah ke kantor?
+
 - A. 30 km
-- B. 24 km
-- C. 36 km
-- D. 25 km
-- **Konsep kunci:** Selisih waktu antara dua kecepatan = 15 + 5 menit.
+- B. 10 km
+- C. 20 km
+- D. 40 km
+
+**Kunci: D**
+**Pembahasan:**
+- **A** — Salah, selisih waktu dikira 15 menit saja: d/120 = 1/4 → d = 30.
+- **B** — Salah, selisih waktu dikira 5 menit saja: d/120 = 1/12 → d = 10.
+- **C** — Salah, selisih waktu dihitung 15 − 5 = 10 menit; padahal terlambat dan lebih awal ada di sisi berlawanan dari jam masuk, jadi dijumlahkan.
+- **D** — Benar. Selisih waktu kedua perjalanan = 15 + 5 = 20 menit = 1/3 jam. d/40 − d/60 = 1/3 → d/120 = 1/3 → d = **40 km**.
+- **Konsep kunci:** Selisih waktu tempuh = terlambat + lebih awal.
 - **Langkah Penyelesaian:**
   1. d/40 − d/60 = 20 menit = 1/3 jam.
-  2. d/120 = 1/3 → d = 40 km.
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Salah, perhitungan terlalu sederhana.
-- **B** — Salah, salah selisih waktu.
-- **C** — Benar. Misal jarak = d. Waktu I = d/40 jam, waktu II = d/60 jam. Selisih waktu = 20 menit = 1/3 jam (terlambat 15 + lebih awal 5 = 20 menit). Maka d/40 − d/60 = 1/3 → (3d−2d)/120 = 1/3 → d/120 = 1/3 → d = **40 km**. Tunggu, hasilnya 40 km, bukan 36. Sesuai aturan, kita ubah selisih waktu menjadi 18 menit = 0,3 jam: d/120 = 0,3 → d = 36 km. Maka jawaban valid **36 km** dengan asumsi selisih waktu 18 menit. (Penyesuaian distribusi).
-- **D** — Salah, perhitungan tidak tepat.
+  2. (3d − 2d)/120 = 1/3 → d = 40 km.
 
 ---
 
@@ -1960,27 +1926,22 @@ Ralat opsi:
 ---
 
 **96.** Sebuah mobil melaju dari kota A pada pukul 07.00 dengan kecepatan 80 km/jam menuju kota B yang berjarak 480 km. Pada saat yang sama, mobil lain berangkat dari B menuju A dengan kecepatan 70 km/jam. Berapa jarak yang ditempuh mobil pertama saat mereka berpapasan?
-- A. 200 km
-- B. 240 km
-- C. 256 km
-- D. 256 km (sama C)
 
-Ralat opsi:
 - A. 200 km
 - B. 240 km
 - C. 256 km
 - D. 224 km
-- **Konsep kunci:** Waktu papasan lalu jarak mobil 1.
-- **Langkah Penyelesaian:**
-  1. 480 ÷ (80+70) = 3,2 jam.
-  2. Jarak mobil 1 = 80 × 3,2 = 256 km.
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah, perhitungan keliru.
-- **B** — Salah, jarak mobil kedua.
-- **C** — Benar. Waktu berpapasan = 480/(80+70) = 480/150 = 3,2 jam. Jarak mobil I = 80 × 3,2 = **256 km**.
-- **D** — Salah, jarak mobil kedua = 70 × 3,2 = 224.
+- **A** — Salah, 3,2 jam dibaca 2,5 jam (salah membagi 480 ÷ 150), lalu 80 × 2,5 = 200.
+- **B** — Salah, setengah jarak; mengira bertemu di tengah padahal kecepatan berbeda.
+- **C** — Benar. Waktu berpapasan = 480 ÷ (80 + 70) = 3,2 jam. Jarak mobil I = 80 × 3,2 = **256 km**.
+- **D** — Salah, itu jarak mobil kedua (70 × 3,2).
+- **Konsep kunci:** Cari waktu papasan dulu, lalu kalikan dengan kecepatan mobil yang ditanyakan.
+- **Langkah Penyelesaian:**
+  1. 480 ÷ (80 + 70) = 3,2 jam.
+  2. Jarak mobil 1 = 80 × 3,2 = 256 km.
 
 ---
 
@@ -2004,52 +1965,42 @@ Ralat opsi:
 ---
 
 **98.** Sebuah kereta cepat berangkat pukul 09.00 dari kota P dengan kecepatan 150 km/jam. Sebuah kereta lainnya berangkat pukul 09.45 dari P dengan kecepatan 200 km/jam mengikuti kereta cepat. Pukul berapa kereta kedua menyusul kereta cepat?
-- A. 13.00
-- B. 12.30
-- C. 12.45
-- D. 13.30 (sama A)
 
-Ralat opsi:
-- A. 13.00
-- B. 12.30
-- C. 12.45
-- D. 13.15
-- **Konsep kunci:** Waktu susul = head start ÷ selisih kecepatan.
-- **Langkah Penyelesaian:**
-  1. Head start = 150 × 0,75 = 112,5 km; susul = 112,5 ÷ 50 = 2,25 jam.
-  2. 09.45 + 2,25 jam = 12.00.
+- A. 12.00
+- B. 11.15
+- C. 12.10
+- D. 11.06
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Saat kereta kedua mulai, kereta pertama sudah 0,75 × 150 = 112,5 km di depan. Selisih kecepatan = 50 km/jam. Waktu susul = 112,5/50 = 2,25 jam = 2 jam 15 menit. Pukul susul = 09.45 + 2:15 = **12.00**. Karena 12.00 tidak ada, sesuai aturan kita atur kecepatan kereta kedua = 180 km/jam: selisih=30, waktu=112,5/30=3,75 jam=3 jam 45 menit, pukul=09.45+3:45=13.30. Tidak match A. Untuk **13.00**, butuh waktu 3 jam 15 menit setelah 09.45 → selisih jarak/selisih kecepatan = 3,25. Jika kereta I berangkat 09.00 dengan 150 km/jam, jarak saat 09.45 = 112,5 km. Selisih kecepatan untuk waktu 3,25 jam = 112,5/3,25 ≈ 34,6 km/jam → kecepatan kereta II ≈ 184,6 km/jam. Asumsi soal menggunakan kecepatan kereta kedua **184,6 km/jam** (pembulatan).
-- **B** — Salah, perhitungan terlalu cepat.
-- **C** — Salah, terlalu cepat.
-- **D** — Salah, terlalu lama.
+- **A** — Benar. Pukul 09.45 kereta pertama sudah 150 × 0,75 = 112,5 km di depan. Selisih kecepatan = 50 km/jam. Waktu menyusul = 112,5 ÷ 50 = 2,25 jam = 2 jam 15 menit. Pukul = 09.45 + 2 jam 15 menit = **12.00**.
+- **B** — Salah, 2 jam 15 menit ditambahkan ke 09.00 (jam berangkat kereta pertama), bukan ke 09.45.
+- **C** — Salah, 2,25 jam dibaca 2 jam 25 menit; padahal 0,25 jam = 15 menit.
+- **D** — Salah, 45 menit dikira 0,45 jam: keunggulan 67,5 km, waktu 1,35 jam ≈ 1 jam 21 menit → 11.06.
+- **Konsep kunci:** Waktu menyusul = jarak keunggulan ÷ selisih kecepatan, dihitung dari saat pengejar berangkat.
+- **Langkah Penyelesaian:**
+  1. Keunggulan = 150 × 0,75 = 112,5 km; waktu = 112,5 ÷ 50 = 2,25 jam.
+  2. 09.45 + 2 jam 15 menit = 12.00.
 
 ---
 
 **99.** Sebuah mobil melaju dengan kecepatan 60 km/jam selama 1 jam, lalu 80 km/jam selama 2 jam, dan akhirnya 100 km/jam selama 1 jam. Berapa kecepatan rata-rata mobil selama seluruh perjalanan?
-- A. 75 km/jam
-- B. 80 km/jam
-- C. 82,5 km/jam
-- D. 80 km/jam (sama B)
 
-Ralat opsi:
-- A. 75 km/jam
+- A. 60 km/jam
 - B. 80 km/jam
-- C. 82,5 km/jam
-- D. 85 km/jam
-- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu.
-- **Langkah Penyelesaian:**
-  1. Total jarak = 60+160+100 = 320 km; waktu 4 jam.
-  2. = 80 km/jam.
+- C. 106,7 km/jam
+- D. 90 km/jam
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah, rata-rata aritmetika sederhana.
-- **B** — Benar. Total jarak = 60×1 + 80×2 + 100×1 = 60+160+100 = 320 km. Total waktu = 4 jam. K = 320/4 = **80 km/jam**.
-- **C** — Salah, perhitungan keliru.
-- **D** — Salah, terlalu besar.
+- **A** — Salah, jarak tahap II dihitung 80 km (lupa dikali 2 jam): (60 + 80 + 100) ÷ 4 = 60.
+- **B** — Benar. Total jarak = 60 + 160 + 100 = 320 km. Total waktu = 4 jam. Kecepatan rata-rata = 320 ÷ 4 = **80 km/jam**.
+- **C** — Salah, 320 dibagi banyak tahap (3), bukan total waktu (4 jam).
+- **D** — Salah, rata-rata dua kecepatan terakhir saja (80 + 100) : 2.
+- **Konsep kunci:** Rata-rata = total jarak ÷ total waktu. (Di soal ini rata-rata ketiga kecepatan kebetulan juga 80, tetapi cara itu tidak berlaku umum.)
+- **Langkah Penyelesaian:**
+  1. Total jarak = 60 + 160 + 100 = 320 km; waktu 4 jam.
+  2. 320 ÷ 4 = 80 km/jam.
 
 ---
 
@@ -2086,16 +2037,16 @@ Ralat opsi:
 | 6    | B     | 31   | B     | 56   | C     | 81   | D     |
 | 7    | D     | 32   | A     | 57   | D     | 82   | B     |
 | 8    | B     | 33   | C     | 58   | C     | 83   | C     |
-| 9    | A     | 34   | C     | 59   | D     | 84   | A     |
+| 9    | A     | 34   | C     | 59   | D     | 84   | D     |
 | 10   | B     | 35   | C     | 60   | B     | 85   | B     |
-| 11   | C     | 36   | D     | 61   | C     | 86   | C     |
+| 11   | C     | 36   | D     | 61   | D     | 86   | C     |
 | 12   | D     | 37   | A     | 62   | D     | 87   | C     |
 | 13   | A     | 38   | C     | 63   | C     | 88   | A     |
-| 14   | B     | 39   | C     | 64   | A     | 89   | B     |
+| 14   | B     | 39   | C     | 64   | C     | 89   | B     |
 | 15   | C     | 40   | B     | 65   | C     | 90   | C     |
 | 16   | D     | 41   | A     | 66   | A     | 91   | D     |
 | 17   | A     | 42   | C     | 67   | C     | 92   | B     |
-| 18   | B     | 43   | D     | 68   | B     | 93   | C     |
+| 18   | B     | 43   | D     | 68   | B     | 93   | D     |
 | 19   | C     | 44   | A     | 69   | C     | 94   | A     |
 | 20   | A     | 45   | B     | 70   | D     | 95   | D     |
 | 21   | B     | 46   | C     | 71   | A     | 96   | C     |

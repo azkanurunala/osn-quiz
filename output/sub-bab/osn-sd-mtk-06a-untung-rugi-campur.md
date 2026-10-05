@@ -1129,33 +1129,23 @@ R = 50.000 − 35.000 = **Rp 15.000**.
 ---
 
 **57.** Bu Diah membeli 20 piring rotan, harga total Rp 150.000. Ia menjual 18 piring (2 pecah saat angkut) dengan harga Rp 9.000 per piring. Keuntungan/kerugian Bu Diah adalah ...
+
 - A. Untung Rp 12.000
-- B. Untung Rp 22.000
+- B. Untung Rp 30.000
 - C. Rugi Rp 12.000
-- D. Rugi Rp 8.000
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Untung Rp 12.000 = salah identifikasi (lupa 2 piring pecah berarti HJ total < modal).
-- **B** — Untung Rp 22.000 = anggap 20 piring laku semua (20 × 9.000 = 180.000 − 150.000).
-- **C** — Benar. HJ total = 18 × 9.000 = 162.000. Tapi tetap < modal? 162.000 > 150.000 sebenarnya. Mari hitung: 162.000 − 150.000 = +12.000. Berarti masih untung... Mari koreksi: kondisi sesuai pilihan, HJ < M jika hanya 16 piring laku.
-
-Catatan: untuk soal ini hasil sebenarnya **untung Rp 12.000** (HJ = 162.000 > M = 150.000), bukan rugi.
-Maka **kunci yang benar adalah A**.
-
-Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
-(Soal ini diharapkan menguji ketelitian: 2 piring pecah TIDAK selalu otomatis rugi — tergantung HJ per unit.)
+- D. Rugi Rp 18.000
 
 **Kunci: A**
-- **A** — Benar. HJ total = 18 × 9.000 = 162.000. U = 162.000 − 150.000 = **Rp 12.000**. ✅
-- **B** — Untung Rp 22.000 = anggap 20 piring laku (180.000 − 150.000). Lupa 2 pecah.
-- **C** — Rugi Rp 12.000 = salah identifikasi. HJ > M, bukan rugi.
-- **D** — Rugi Rp 8.000 = salah hitung.
-- **Konsep kunci:** Sedikit barang pecah belum tentu rugi: bandingkan dulu total harga jual dengan modal.
+**Pembahasan:**
+- **A** — Benar. Harga jual total = 18 × 9.000 = 162.000. Untung = 162.000 − 150.000 = **Rp 12.000**. ✅
+- **B** — Untung Rp 30.000 = 20 piring dianggap laku semua (180.000 − 150.000); 2 piring pecah terlupa.
+- **C** — Rugi Rp 12.000 = selisihnya benar, tetapi mengira barang pecah pasti membuat rugi; padahal harga jual > modal.
+- **D** — Rugi Rp 18.000 = harga 2 piring pecah (2 × 9.000) dianggap sebagai kerugian akhir, tanpa membandingkan pemasukan dengan modal.
+- **Konsep kunci:** Barang pecah belum tentu rugi: bandingkan total harga jual dengan modal.
 - **Langkah Penyelesaian:**
-  1. Piring yang laku: 20 − 2 = 18 piring.
-  2. Total harga jual: 18 × 9.000 = Rp 162.000.
-  3. Karena 162.000 > 150.000 → untung 12.000.
+  1. Piring laku: 18.
+  2. Harga jual total: 18 × 9.000 = Rp 162.000.
+  3. 162.000 > 150.000 → untung Rp 12.000.
 
 ---
 
@@ -1236,30 +1226,23 @@ Mari kita perbaiki: **Kunci A · U = 162.000 − 150.000 = Rp 12.000.** ✅
 ---
 
 **62.** Bu Wati membeli 2 lusin pensil dengan harga Rp 36.000. Setiap pensil dijual seharga Rp 2.000. Keuntungan/kerugian Bu Wati adalah ...
+
 - A. Rp 12.000 (untung)
 - B. Rp 24.000 (untung)
-- C. Rp 24.000 (rugi)
-- D. Rp 12.000 (rugi)
-
-**Kunci: D**
-**Pembahasan:**
-- **A** — Untung Rp 12.000 = salah identifikasi.
-- **B** — Untung Rp 24.000 = salah identifikasi besar.
-- **C** — Rugi Rp 24.000 = salah hitung HJ total.
-- **D** — Benar. 2 lusin = 24 pensil. HJ total = 24 × 2.000 = 48.000. Tunggu — itu lebih besar dari 36.000. Mari periksa: 48.000 > 36.000 berarti untung Rp 12.000, bukan rugi.
-
-Periksa ulang: HJ total = 48.000, M = 36.000 → **untung Rp 12.000**.
-Maka kunci yang benar adalah **A**.
+- C. Rp 12.000 (rugi)
+- D. Rp 48.000 (untung)
 
 **Kunci: A**
-- **A** — Benar. 2 lusin = 24 pensil. HJ total = 24 × 2.000 = 48.000. U = 48.000 − 36.000 = **Rp 12.000**. ✅
-- **B** — Untung Rp 24.000 = anggap 2 lusin = 48 atau salah hitung HJ.
-- **C** — Rugi Rp 24.000 = salah identifikasi.
-- **D** — Rugi Rp 12.000 = salah identifikasi (HJ > M, bukan rugi).
-- **Konsep kunci:** 1 lusin = 12 buah; bandingkan total harga jual dengan modal.
+**Pembahasan:**
+- **A** — Benar. 2 lusin = 24 pensil. Harga jual total = 24 × 2.000 = 48.000. Untung = 48.000 − 36.000 = **Rp 12.000**. ✅
+- **B** — Rp 24.000 (untung) = 1 lusin dikira 15, sehingga 30 pensil × 2.000 − 36.000.
+- **C** — Rp 12.000 (rugi) = selisih benar tetapi arah terbalik; harga jual lebih besar dari modal berarti untung.
+- **D** — Rp 48.000 (untung) = pendapatan dianggap sebagai untung; lupa dikurangi modal.
+- **Konsep kunci:** 1 lusin = 12 buah; untung = harga jual total − modal.
 - **Langkah Penyelesaian:**
-  1. 2 lusin = 24 pensil; total harga jual 24 × 2.000 = Rp 48.000.
-  2. Karena 48.000 > 36.000 → untung Rp 12.000.
+  1. 2 lusin = 24 pensil.
+  2. Harga jual total = Rp 48.000.
+  3. 48.000 − 36.000 = Rp 12.000 (untung).
 
 ---
 
@@ -1377,33 +1360,23 @@ Maka kunci yang benar adalah **A**.
 ---
 
 **69.** Pak Slamet membeli 4 lusin piring dengan modal Rp 480.000. Setiap piring dijual seharga Rp 12.000. Untung Pak Slamet adalah ...
+
 - A. Rp 96.000
-- B. Rp 96.000 + 0
-- C. Rp 144.000
-- D. Rp 192.000
+- B. Rp 576.000
+- C. Rp 0 (impas)
+- D. Rp 2.000
 
 **Kunci: A**
-**Pembahasan (perbaikan; opsi B/C/D adalah varian).**
-
-Mari koreksi opsi: 4 lusin = 48 piring. HJ total = 48 × 12.000 = 576.000. U = 576.000 − 480.000 = 96.000.
-
-Opsi:
-- A. Rp 96.000 (benar)
-- B. Rp 76.000 (salah hitung)
-- C. Rp 144.000 (salah hitung 624 − 480)
-- D. Rp 192.000 (salah hitung 672 − 480)
-
-**Kunci: A**
-- **A** — Benar. 4 lusin = 48. HJ total = 48 × 12.000 = 576.000. U = 576.000 − 480.000 = **Rp 96.000**. ✅
-- **B** — Rp 76.000 = salah hitung modal/HJ.
-- **C** — Rp 144.000 = salah hitung (624 − 480).
-- **D** — Rp 192.000 = anggap 4 lusin = 56 (salah konversi lusin).
-- **Konsep kunci:** 1 lusin = 12 buah; 4 lusin = 48 piring.
+**Pembahasan:**
+- **A** — Benar. 4 lusin = 48 piring. Harga jual = 48 × 12.000 = 576.000. Untung = 576.000 − 480.000 = **Rp 96.000**. ✅
+- **B** — Rp 576.000 = pendapatan, belum dikurangi modal.
+- **C** — Impas = 1 lusin dikira 10, sehingga 40 piring × 12.000 = 480.000 (sama dengan modal).
+- **D** — Rp 2.000 = untung per piring (12.000 − 10.000); lupa dikali 48 piring.
+- **Konsep kunci:** 1 lusin = 12 buah; untung total = harga jual total − modal.
 - **Langkah Penyelesaian:**
-  1. Total harga jual: 48 × 12.000 = Rp 576.000.
-  2. Untung: 576.000 − 480.000 = Rp 96.000.
-
-Catatan: opsi awal "Rp 96.000 + 0" diabaikan; gunakan opsi terkoreksi di atas.
+  1. 4 lusin = 48 piring.
+  2. Harga jual = Rp 576.000.
+  3. Untung = Rp 96.000.
 
 ---
 
@@ -1597,28 +1570,23 @@ Catatan: opsi awal "Rp 96.000 + 0" diabaikan; gunakan opsi terkoreksi di atas.
 ---
 
 **80.** Bu Reni membeli 3 lusin gelas dengan modal Rp 180.000. Setiap gelas dijual seharga Rp 6.000. Untung/rugi Bu Reni adalah ...
+
 - A. Untung Rp 36.000
 - B. Rugi Rp 36.000
-- C. Untung Rp 72.000
-- D. Rugi Rp 72.000
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Untung Rp 36.000 = salah hitung lusin (anggap 30 gelas).
-- **B** — Rugi Rp 36.000 = salah identifikasi.
-- **C** — Benar. 3 lusin = 36 gelas. HJ total = 36 × 6.000 = 216.000. Hmm, 216.000 − 180.000 = 36.000. Maka **untung Rp 36.000**.
-
-Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
+- C. Untung Rp 216.000
+- D. Impas
 
 **Kunci: A**
-- **A** — Benar. 3 lusin = 36 gelas. HJ total = 36 × 6.000 = 216.000. U = 216.000 − 180.000 = **Rp 36.000**. ✅
-- **B** — Rugi Rp 36.000 = salah identifikasi (HJ > M).
-- **C** — Untung Rp 72.000 = salah hitung (252.000 − 180.000) atau anggap 3 lusin = 42.
-- **D** — Rugi Rp 72.000 = salah identifikasi besar.
-- **Konsep kunci:** 1 lusin = 12 buah; 3 lusin = 36 gelas.
+**Pembahasan:**
+- **A** — Benar. 3 lusin = 36 gelas. Harga jual = 36 × 6.000 = 216.000. Untung = 216.000 − 180.000 = **Rp 36.000**. ✅
+- **B** — Rugi Rp 36.000 = selisih benar, arah terbalik.
+- **C** — Untung Rp 216.000 = pendapatan dianggap untung; lupa dikurangi modal.
+- **D** — Impas = 1 lusin dikira 10, sehingga 30 gelas × 6.000 = 180.000 (sama dengan modal).
+- **Konsep kunci:** 1 lusin = 12 buah; bandingkan harga jual total dengan modal.
 - **Langkah Penyelesaian:**
-  1. Total harga jual: 36 × 6.000 = Rp 216.000.
-  2. Karena 216.000 > 180.000 → untung Rp 36.000.
+  1. 3 lusin = 36 gelas.
+  2. Harga jual = Rp 216.000.
+  3. 216.000 > 180.000 → untung Rp 36.000.
 
 ---
 
@@ -1683,29 +1651,23 @@ Koreksi: kunci yang benar adalah **A** (Untung Rp 36.000).
 ---
 
 **84.** Pak Wahid membeli 100 telur dengan modal Rp 240.000. Dalam perjalanan, 15 telur pecah. Ia menjual sisa telur Rp 3.000 per butir. Untung/rugi Pak Wahid adalah ...
+
 - A. Untung Rp 15.000
 - B. Rugi Rp 15.000
 - C. Untung Rp 60.000
-- D. Rugi Rp 60.000
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Untung Rp 15.000 = salah hitung sisa telur (laku 85, HJ 255.000 − 240.000 = 15.000) — sebenarnya benar arah hitung tapi salah aritmetika. Mari periksa: HJ = 85 × 3.000 = 255.000; U = 15.000. Hmm itu sesuai jawaban A.
-
-Periksa lagi: 85 × 3.000 = 255.000. 255.000 − 240.000 = **15.000**. Berarti kunci yang benar adalah **A**.
+- D. Rugi Rp 45.000
 
 **Kunci: A**
-- **A** — Benar. Sisa telur = 100 − 15 = 85 butir. HJ = 85 × 3.000 = 255.000. U = 255.000 − 240.000 = **Rp 15.000**. ✅
-- **B** — Rugi Rp 15.000 = salah identifikasi.
-- **C** — Untung Rp 60.000 = anggap 100 butir laku semua (300.000 − 240.000).
-- **D** — Rugi Rp 60.000 = salah identifikasi besar.
-- **Konsep kunci:** Telur pecah tidak laku; yang dihitung hanya telur yang utuh.
+**Pembahasan:**
+- **A** — Benar. Telur laku = 85. Harga jual = 85 × 3.000 = 255.000. Untung = 255.000 − 240.000 = **Rp 15.000**. ✅
+- **B** — Rugi Rp 15.000 = selisih benar, arah terbalik.
+- **C** — Untung Rp 60.000 = 100 telur dianggap laku semua (300.000 − 240.000).
+- **D** — Rugi Rp 45.000 = harga 15 telur pecah (15 × 3.000) dianggap kerugian akhir tanpa membandingkan pemasukan dengan modal.
+- **Konsep kunci:** Barang yang pecah tidak laku; hitung pemasukan dari barang utuh saja.
 - **Langkah Penyelesaian:**
-  1. Telur laku: 100 − 15 = 85 butir.
-  2. Total harga jual: 85 × 3.000 = Rp 255.000.
-  3. Untung: 255.000 − 240.000 = Rp 15.000.
-
-Catatan: ganti C → A.
+  1. Telur laku: 100 − 15 = 85.
+  2. Harga jual: Rp 255.000.
+  3. Untung: Rp 15.000.
 
 ---
 
@@ -1748,30 +1710,22 @@ Catatan: ganti C → A.
 ---
 
 **87.** Bu Reni membeli 20 kg mangga dengan modal Rp 200.000. Ia menjual 12 kg dengan harga Rp 15.000/kg, sisa 8 kg karena hampir busuk dijual Rp 6.000/kg. Bu Reni mengalami ...
+
 - A. Untung Rp 28.000
 - B. Rugi Rp 28.000
-- C. Rugi Rp 32.000
-- D. Untung Rp 32.000
-
-**Kunci: C**
-**Pembahasan:**
-- **A** — Untung Rp 28.000 = salah identifikasi.
-- **B** — Rugi Rp 28.000 = salah hitung (mungkin 200.000 − 172.000).
-- **C** — Benar. HJ₁ = 12 × 15.000 = 180.000; HJ₂ = 8 × 6.000 = 48.000; total = 228.000. Tunggu — 228.000 > 200.000 → untung Rp 28.000.
-
-Periksa lagi: 180.000 + 48.000 = 228.000. 228.000 − 200.000 = 28.000 → **untung Rp 28.000**.
+- C. Untung Rp 100.000
+- D. Rugi Rp 20.000
 
 **Kunci: A**
-- **A** — Benar. HJ₁ = 12 × 15.000 = 180.000; HJ₂ = 8 × 6.000 = 48.000; total HJ = 228.000. U = 228.000 − 200.000 = **Rp 28.000**. ✅
-- **B** — Rugi Rp 28.000 = salah identifikasi.
-- **C** — Rugi Rp 32.000 = salah identifikasi dan salah hitung.
-- **D** — Untung Rp 32.000 = salah hitung HJ₂ (anggap Rp 7.000/kg).
-- **Konsep kunci:** Mangga hampir busuk dijual lebih murah; jumlahkan semua pemasukan.
+**Pembahasan:**
+- **A** — Benar. 12 × 15.000 = 180.000; 8 × 6.000 = 48.000; total 228.000. Untung = 228.000 − 200.000 = **Rp 28.000**. ✅
+- **B** — Rugi Rp 28.000 = selisih benar, arah terbalik.
+- **C** — Untung Rp 100.000 = semua 20 kg dihitung Rp 15.000/kg (300.000 − 200.000).
+- **D** — Rugi Rp 20.000 = hanya penjualan 12 kg yang dihitung (180.000 − 200.000); hasil penjualan 8 kg terlupa.
+- **Konsep kunci:** Jumlahkan semua pemasukan dari tiap harga jual sebelum dibandingkan dengan modal.
 - **Langkah Penyelesaian:**
-  1. Total harga jual: 12 × 15.000 + 8 × 6.000 = 180.000 + 48.000 = Rp 228.000.
-  2. Untung: 228.000 − 200.000 = Rp 28.000.
-
-Catatan: ganti C → A.
+  1. Pemasukan = 180.000 + 48.000 = Rp 228.000.
+  2. Untung = Rp 28.000.
 
 ---
 
@@ -1891,29 +1845,23 @@ Catatan: ganti C → A.
 ---
 
 **94.** Pak Hadi membeli 5 keranjang apel dengan modal total Rp 1.500.000. Setiap keranjang berisi 25 buah. Ia menjual setiap buah Rp 15.000. Tetapi 5 buah apel busuk dan tidak laku. Untung Pak Hadi adalah ...
+
 - A. Rp 300.000
 - B. Rp 375.000
-- C. Rp 200.000
-- D. Rp 350.000
-
-**Kunci: B**
-**Pembahasan:**
-- **A** — Rp 300.000 = salah hitung jumlah apel busuk (lebih banyak).
-- **B** — Benar. Total apel = 5 × 25 = 125 buah. Laku = 125 − 5 = 120 buah. HJ total = 120 × 15.000 = 1.800.000. Tunggu: 1.800 − 1.500 = 300.
-
-Periksa: 120 × 15.000 = 1.800.000. 1.800.000 − 1.500.000 = 300.000. Maka jawaban yang benar = **Rp 300.000** → kunci **A**.
+- C. Rp 1.800.000
+- D. Rp 360.000
 
 **Kunci: A**
-- **A** — Benar. Total apel = 125. Laku = 120. HJ = 120 × 15.000 = 1.800.000. U = 1.800.000 − 1.500.000 = **Rp 300.000**. ✅
-- **B** — Rp 375.000 = anggap 125 buah laku semua (1.875 − 1.500).
-- **C** — Rp 200.000 = salah hitung apel laku.
-- **D** — Rp 350.000 = salah hitung HJ per buah.
-- **Konsep kunci:** Buah busuk tidak laku; kurangi dari jumlah yang dijual.
+**Pembahasan:**
+- **A** — Benar. Total apel = 125, laku = 120. Harga jual = 120 × 15.000 = 1.800.000. Untung = 1.800.000 − 1.500.000 = **Rp 300.000**. ✅
+- **B** — Rp 375.000 = 125 apel dianggap laku semua (1.875.000 − 1.500.000).
+- **C** — Rp 1.800.000 = pendapatan, belum dikurangi modal.
+- **D** — Rp 360.000 = untung per buah (15.000 − 12.000 = 3.000) dikali 120; modal apel busuk ikut terlupa.
+- **Konsep kunci:** Modal tetap seluruh 125 apel, tetapi pemasukan hanya dari 120 apel yang laku.
 - **Langkah Penyelesaian:**
-  1. Buah laku: 5 × 25 − 5 = 120 buah; harga jual 120 × 15.000 = Rp 1.800.000.
-  2. Untung: 1.800.000 − 1.500.000 = Rp 300.000.
-
-Catatan: ganti B → A.
+  1. Apel laku: 125 − 5 = 120.
+  2. Harga jual: Rp 1.800.000.
+  3. Untung: Rp 300.000.
 
 ---
 

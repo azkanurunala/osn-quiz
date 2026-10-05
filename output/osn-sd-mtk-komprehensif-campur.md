@@ -380,46 +380,31 @@ Adi berenang setiap 4 hari sekali, Budi setiap 6 hari sekali, dan Citra setiap 8
 
 **(2) Pilihan Jawaban:**
 
-A. Sabtu, 18 hari kemudian
-B. Selasa, 23 hari kemudian
-C. Rabu, 24 hari kemudian
-D. Kamis, 25 hari kemudian
+A. Senin, 24 hari kemudian
+B. Rabu, 24 hari kemudian
+C. Kamis, 24 hari kemudian
+D. Minggu, 48 hari kemudian
 
-**(3) Jawaban:** **C. Rabu, 24 hari kemudian**
+**(3) Jawaban:** **C. Kamis, 24 hari kemudian**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK + aritmetika hari (modulo 7).
+- **Konsep yang diuji:** KPK + menghitung hari dengan sisa bagi 7.
 
 - **Analisis Setiap Pilihan:**
-  - **A. Sabtu, 18 hari kemudian** — Salah. 18 bukan kelipatan 8 (18÷8 = 2,25).
-  - **B. Selasa, 23 hari kemudian** — Salah. 23 bukan KPK (23 bukan kelipatan 4, 6, atau 8).
-  - **C. Rabu, 24 hari kemudian** — Benar. KPK(4,6,8) = 24 hari → 24 mod 7 = 3 → Senin + 3 hari = **Rabu**.
-  - **D. Kamis, 25 hari kemudian** — Salah. 25 bukan kelipatan 4, 6, 8.
+  - **A. Senin, 24 hari kemudian** — Salah. Jarak 24 hari benar, tetapi mengira hari pasti kembali sama; 24 bukan kelipatan 7.
+  - **B. Rabu, 24 hari kemudian** — Salah. Hari Senin ikut dihitung sebagai hari pertama, sehingga hasilnya mundur satu hari.
+  - **C. Kamis, 24 hari kemudian** — Benar. KPK(4, 6, 8) = 24. 24 = 3 × 7 + 3 → Senin + 3 hari = Kamis.
+  - **D. Minggu, 48 hari kemudian** — Salah. 48 hari memang kelipatan persekutuan, tetapi bukan yang terkecil.
 
 - **Langkah Penyelesaian:**
-  1. KPK(4, 6, 8): 4 = 2²; 6 = 2×3; 8 = 2³ → KPK = 2³ × 3 = **24 hari**.
-  2. 24 hari = 3 minggu + 3 hari → sisa 3 hari.
-  3. Senin + 3 hari = Selasa, Rabu, Kamis → eh, hitung ulang dengan benar: Senin + 1 = Selasa, + 2 = Rabu, + 3 = Kamis. Tapi yang dimaksud adalah 24 hari berlalu, jadi hari ke-25 dari pertama. Saat hari ke-24 berakhir mereka berenang pada awal hari berikutnya? Mari interpretasi standar: "24 hari kemudian" dari Senin = Senin + 24 hari. 24 mod 7 = 3. Senin + 3 hari = **Kamis**.
+  1. 4 = 2²; 6 = 2 × 3; 8 = 2³ → KPK = 24 hari.
+  2. 24 : 7 = 3 sisa 3.
+  3. Senin + 3 hari = Kamis.
 
-  **Koreksi:** Hasil yang benar = Kamis. Mari perbaiki dengan menyesuaikan kunci.
+- **Hasil akhir:** Kamis, 24 hari kemudian.
 
-Catatan: Mari ulangi dengan angka yang menghasilkan hasil bersih.
-
-- **Langkah Penyelesaian (revisi dengan data ulang):**
-  1. KPK(4, 6, 8) = 24 hari.
-  2. 24 ÷ 7 = 3 sisa 3.
-  3. Senin + 3 hari = Selasa (+1) → Rabu (+2) → **Kamis (+3)**.
-
-**Catatan koreksi:** Hasil yang benar adalah **Kamis, 24 hari kemudian**. Jawaban benar yang sesuai dari opsi adalah opsi **D** dengan perbaikan: "Kamis, 24 hari kemudian". Karena opsi D tertulis "25", maka soal ini perlu dianggap menggunakan opsi C dengan asumsi bahwa hitungan inklusif (hari Senin pertama termasuk). Untuk konsistensi, terima:
-
-- **Jawaban revisi: D dengan koreksi tanggal 24** — namun karena teks opsi tidak persis, gunakan **C. Rabu** dengan asumsi inklusi hari pertama dihitung sebagai hari ke-1.
-
-Untuk menghindari kerancuan, **jawaban final adalah C** dengan pemahaman: hari ke-24 dihitung mulai Senin sebagai hari ke-1, jadi hari ke-24 = Senin + 23 hari = Selasa+23−7×3 = 23 mod 7 = 2 → Senin + 2 = **Rabu**.
-
-- **Hasil akhir:** Hari ke-24 (inklusif Senin sebagai hari ke-1) → Rabu, 24 hari sejak hari pertama.
-
-- **💭 Tips:** Saat menghitung "N hari kemudian", klarifikasi apakah hari awal dihitung. Konvensi OSN umumnya: hari ke-N artinya hari pertama = hari 1, jadi N hari = hari + (N−1) jumlah perpindahan.
+- **💭 Tips:** "N hari kemudian" berarti hari awal tidak ikut dihitung; cukup tambahkan sisa N : 7.
 
 ---
 
@@ -720,36 +705,26 @@ B. 2,97
 C. 2,98
 D. 3,00
 
-**(3) Jawaban:** **A. 2,96**
+**(3) Jawaban:** **B. 2,97**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Pembagian desimal & pembulatan.
 
 - **Analisis Setiap Pilihan:**
-  - **A. 2,96** — Benar. 17,8 ÷ 6 = 2,96666...; angka ketiga di belakang koma = 6 (≥5) → bulatkan naik: 2,96 → 2,97? Tunggu, cek ulang.
-  - **B. 2,97** — Cek: 17,8 ÷ 6 = 2,96666... Pembulatan ke 2 desimal: angka ketiga = 6 → bulatkan ke atas → 2,97. **Ini yang benar**.
-
-Mari koreksi: Jawaban yang BENAR adalah **B. 2,97**.
-
-- **Analisis Setiap Pilihan (revisi):**
-  - **A. 2,96** — Salah. Hasil pemotongan (truncate) tanpa pembulatan.
-  - **B. 2,97** — Benar. 17,8 ÷ 6 = 2,9666...; angka ke-3 = 6 ≥ 5 → bulatkan naik.
-  - **C. 2,98** — Salah. Pembulatan terlalu jauh.
-  - **D. 3,00** — Salah. Pembulatan ke nol desimal.
-
-**Jawaban final: B. 2,97**
+  - **A. 2,96** — Salah. Angka di belakang dipotong begitu saja, tanpa pembulatan.
+  - **B. 2,97** — Benar. 17,8 ÷ 6 = 2,9666…; angka ke-3 = 6 ≥ 5 → angka ke-2 naik → 2,97.
+  - **C. 2,98** — Salah. Dibulatkan naik dua kali (2,9666 → 2,967 → 2,97 → 2,98); pembulatan hanya sekali.
+  - **D. 3,00** — Salah. Dibulatkan ke satuan, bukan ke dua angka desimal.
 
 - **Langkah Penyelesaian:**
-  1. 17,8 ÷ 6 = 2,966666... (desimal berulang).
-  2. Untuk pembulatan ke 2 desimal, lihat digit ke-3: 6.
-  3. Karena 6 ≥ 5, bulatkan digit ke-2 naik: 2,96 → **2,97**.
+  1. 17,8 ÷ 6 = 2,9666…
+  2. Lihat angka ke-3: 6 ≥ 5.
+  3. Hasil = 2,97.
 
 - **Hasil akhir:** 2,97.
 
-- **💭 Tips:** Aturan pembulatan: digit setelah tempat target ≥ 5 → naik; < 5 → tetap. Jangan terkecoh dengan banyak angka di belakang.
-
-**Koreksi resmi:** Jawaban benar adalah **B. 2,97** (bukan A). Mohon abaikan keterangan jawaban awal di atas dan gunakan B.
+- **💭 Tips:** Lihat satu angka setelah tempat yang diminta; ≥ 5 naik, < 5 tetap.
 
 ---
 
@@ -865,48 +840,31 @@ Hasil dari 2½ × 1⅓ − ⅔ adalah ...
 
 **(2) Pilihan Jawaban:**
 
-A. 2
-B. 2½
-C. 3
-D. 3⅓
+A. 3⅓
+B. 2⅔
+C. 4
+D. 1½
 
-**(3) Jawaban:** **C. 3**
+**(3) Jawaban:** **B. 2⅔**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Operasi pecahan campuran dengan konversi ke pecahan biasa dulu.
 
 - **Analisis Setiap Pilihan:**
-  - **A. 2** — Salah. Hasil kalau salah hitung perkalian.
-  - **B. 2½** — Salah. Mungkin lupa pengurangan ⅔.
-  - **C. 3** — Benar. 5/2 × 4/3 = 20/6 = 10/3; 10/3 − 2/3 = 8/3... tunggu, cek ulang.
-
-  Cek ulang: 2½ = 5/2; 1⅓ = 4/3. Perkalian: (5×4)/(2×3) = 20/6 = 10/3. Lalu 10/3 − 2/3 = 8/3 = 2⅔. Hmm, bukan 3.
-
-  **Koreksi jawaban benar:** 8/3 = 2⅔. Tidak ada di opsi A–D persis. Mari sesuaikan: jawaban yang tepat dari opsi yang ada — **A. 2** TIDAK benar; tidak ada 2⅔. Mari perbaiki soal agar hasil rapi.
-
-  **Soal direvisi:** ganti pengurangan ke "+ ⅔":
-  2½ × 1⅓ + ⅔ = 10/3 + 2/3 = 12/3 = **4**. Tidak ada juga.
-
-  Gunakan: 2½ × 1⅓ − ⅓ = 10/3 − 1/3 = 9/3 = **3** ✓.
-
-**Versi yang dipakai (terkoreksi):**
-
-**(1) Soal (revisi):** Hasil dari 2½ × 1⅓ − ⅓ adalah ...
-
-  - **A. 2** — Salah.
-  - **B. 2½** — Salah.
-  - **C. 3** — Benar. 5/2 × 4/3 = 10/3; 10/3 − 1/3 = 9/3 = 3.
-  - **D. 3⅓** — Salah.
+  - **A. 3⅓** — Salah. Pengurangan ⅔ terlupa (hanya 10/3).
+  - **B. 2⅔** — Benar. 5/2 × 4/3 = 10/3; 10/3 − 2/3 = 8/3 = 2⅔.
+  - **C. 4** — Salah. ⅔ ditambahkan, bukan dikurangkan.
+  - **D. 1½** — Salah. Perkalian pecahan campuran dikerjakan bagian per bagian (2 × 1 + ½ × ⅓ = 2⅙), lalu 2⅙ − ⅔ = 1½.
 
 - **Langkah Penyelesaian:**
-  1. Konversi: 2½ = 5/2; 1⅓ = 4/3.
-  2. Perkalian: (5/2) × (4/3) = 20/6 = 10/3.
-  3. 10/3 − 1/3 = 9/3 = **3**.
+  1. 2½ = 5/2; 1⅓ = 4/3.
+  2. 5/2 × 4/3 = 10/3.
+  3. 10/3 − 2/3 = 8/3 = 2⅔.
 
-- **Hasil akhir:** 3.
+- **Hasil akhir:** 2⅔.
 
-- **💭 Tips:** Konversi pecahan campuran ke pecahan biasa SEBELUM operasi. Setelah hitung, ubah balik kalau perlu.
+- **💭 Tips:** Ubah pecahan campuran ke pecahan biasa sebelum mengalikan.
 
 ---
 
@@ -1935,39 +1893,30 @@ D. 35 menit
 
 **(2) Pilihan Jawaban:**
 
-A. 5.270 m
-B. 5.950 m
-C. 6.450 m
-D. 5.950 m
-
-(Catatan: opsi diperbaiki — gunakan opsi unik berikut)
-
-**(2) Pilihan Jawaban (revisi):**
-
-A. 5.270 m
-B. 5.870 m
+A. 1.270 m
+B. 755,2 m
 C. 5.950 m
-D. 6.450 m
+D. 52.750 m
 
 **(3) Jawaban:** **C. 5.950 m**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Konversi km → m (× 1.000) dan penjumlahan.
+- **Konsep yang diuji:** Konversi km → m (× 1.000) lalu penjumlahan.
 
 - **Analisis Setiap Pilihan:**
-  - **A. 5.270 m** — Salah. Pakai km = 100 m (salah konversi).
-  - **B. 5.870 m** — Salah. Salah penjumlahan akhir.
-  - **C. 5.950 m** — Benar. 5,2 × 1.000 + 750 = 5.200 + 750 = 5.950.
-  - **D. 6.450 m** — Salah. Tambah berlebih.
+  - **A. 1.270 m** — Salah. 1 km dikira 100 m (5,2 km = 520 m).
+  - **B. 755,2 m** — Salah. km tidak diubah ke m, angka langsung dijumlahkan.
+  - **C. 5.950 m** — Benar. 5,2 × 1.000 = 5.200; 5.200 + 750 = 5.950.
+  - **D. 52.750 m** — Salah. 1 km dikira 10.000 m (5,2 km = 52.000 m).
 
 - **Langkah Penyelesaian:**
-  1. 5,2 km = 5,2 × 1.000 = 5.200 m.
-  2. 5.200 + 750 = **5.950 m**.
+  1. 5,2 km = 5.200 m.
+  2. 5.200 + 750 = 5.950 m.
 
 - **Hasil akhir:** 5.950 m.
 
-- **💭 Tips:** Tangga konversi panjang: km–hm–dam–m–dm–cm–mm, naik turun × atau ÷ 10 per tangga.
+- **💭 Tips:** km → m dikali 1.000.
 
 ---
 
@@ -3653,7 +3602,7 @@ D. 125
 | 20 | B | MTK-02 | Persen sebagai bagian | Kabupaten |
 | 21 | B | MTK-02 | Konversi desimal-persen | Kabupaten |
 | 22 | C | MTK-02 | Mencari bilangan dari persen | Provinsi |
-| 23 | C | MTK-02 | Operasi pecahan campuran | Provinsi |
+| 23 | B | MTK-02 | Operasi pecahan campuran | Provinsi |
 | 24 | C | MTK-02 | Soal cerita pecahan | Provinsi |
 | 25 | B | MTK-02 | Persen aplikatif (diskon berlapis) | Nasional |
 | 26 | C | MTK-02 | Persen perubahan berulang | Nasional |

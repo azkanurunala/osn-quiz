@@ -1978,34 +1978,23 @@ Faktorisasi prima dari **360** adalah...
 
 Bilangan **berikut** yang memiliki **tepat 6 faktor** adalah...
 
-- A. 12 (2² × 3)
-- B. **18 (2 × 3²)**
+- A. 8 (2³)
+- B. 18 (2 × 3²)
 - C. 16 (2⁴)
 - D. 24 (2³ × 3)
 
 **Kunci: B**
 
 **Pembahasan:**
-- Rumus banyak faktor (a+1)(b+1)...
-- A. (2+1)(1+1) = 6. → eh ini juga 6!
-- B. (1+1)(2+1) = 6. ✓
-- C. (4+1) = 5.
-- D. (3+1)(1+1) = 8.
+- **A** — Salah. 8 = 2³ → (3 + 1) = 4 faktor (1, 2, 4, 8).
+- **B** — Benar. 18 = 2 × 3² → (1 + 1)(2 + 1) = 6 faktor: 1, 2, 3, 6, 9, 18. ✓
+- **C** — Salah. 16 = 2⁴ → 5 faktor (1, 2, 4, 8, 16).
+- **D** — Salah. 24 = 2³ × 3 → (3 + 1)(1 + 1) = 8 faktor.
 
-Sebenarnya A & B sama-sama 6. Mari periksa ulang: 12 = 2² × 3 → (2+1)(1+1) = 6. Faktor 12: 1, 2, 3, 4, 6, 12 → 6 faktor. 18 = 2 × 3² → (1+1)(2+1) = 6. Faktor 18: 1, 2, 3, 6, 9, 18 → 6 faktor.
-
-Karena A dan B keduanya 6, kunci yang dimaksud adalah B (jawaban tunggal yang paling sering muncul di kunci). Untuk soal sebenarnya, kita anggap distractor A perlu dihindari. Asumsikan A diganti 8 (2³) → (3+1) = 4. Maka **B** tetap satu-satunya yang 6.
-
-- **A** — (Anggap tipo: harusnya 8, bukan 12). Tidak 6 faktor.
-- **B** — Benar. 6 faktor. ✓
-- **C** — Salah. 5 faktor (1, 2, 4, 8, 16).
-- **D** — Salah. 8 faktor.
-
-- **Konsep kunci:** Banyak faktor dihitung dengan menambah 1 pada tiap pangkat faktor prima lalu dikalikan.
+- **Konsep kunci:** Banyak faktor = hasil kali (pangkat + 1) tiap faktor prima.
 - **Langkah Penyelesaian:**
-  1. Hitung banyak faktor tiap opsi memakai rumus (a+1)(b+1)....
-  2. 18 = 2 x 3^2 -> (1+1)(2+1) = 6 faktor.
-  3. Cocokkan dengan opsi yang tepat berjumlah 6 -> 18.
+  1. Hitung banyak faktor tiap pilihan dengan rumus (a + 1)(b + 1).
+  2. Hanya 18 yang menghasilkan 6.
 
 ---
 
@@ -2218,25 +2207,21 @@ Bilangan **berikut** yang BUKAN kuadrat sempurna dari faktorisasinya adalah...
 
 - A. 64 (2⁶)
 - B. 100 (2² × 5²)
-- C. **150 (2 × 3 × 5²)**
+- C. 150 (2 × 3 × 5²)
 - D. 225 (3² × 5²)
 
 **Kunci: C**
 
 **Pembahasan:**
-- Kuadrat sempurna = semua pangkat genap.
-- A. 2⁶ → pangkat genap. Kuadrat. (√64 = 8.)
-- B. 2² × 5² → semua genap. Kuadrat. (√100 = 10.)
-- C. 2¹ × 3¹ × 5² → pangkat 2 dan 3 ganjil. BUKAN kuadrat sempurna. ✓
-- D. 3² × 5² → semua genap. Kuadrat. (√225 = 15.)
-- **A/B/D** — Salah (justru kuadrat sempurna).
-- **C** — Benar (jawaban yang dicari). ✓
+- **A** — Salah. 2⁶ → semua pangkat genap → kuadrat sempurna (√64 = 8).
+- **B** — Salah. 2² × 5² → semua pangkat genap → kuadrat sempurna (√100 = 10).
+- **C** — Benar. 2¹ × 3¹ × 5² → pangkat 2 dan 3 ganjil → bukan kuadrat sempurna. ✓
+- **D** — Salah. 3² × 5² → semua pangkat genap → kuadrat sempurna (√225 = 15).
 
-- **Konsep kunci:** Bilangan adalah kuadrat sempurna jika dan hanya jika semua pangkat pada faktorisasi primanya genap.
+- **Konsep kunci:** Bilangan adalah kuadrat sempurna jika semua pangkat pada faktorisasi primanya genap.
 - **Langkah Penyelesaian:**
-  1. Cek pangkat tiap faktorisasi: 64=2^6 (genap), 100=2^2x5^2 (genap), 225=3^2x5^2 (genap).
-  2. Cek 150=2x3x5^2: pangkat 2 dan 3 adalah 1 (ganjil).
-  3. Karena ada pangkat ganjil, 150 bukan kuadrat sempurna.
+  1. Periksa pangkat tiap faktorisasi.
+  2. 150 memuat pangkat ganjil (2¹ dan 3¹) → bukan kuadrat sempurna.
 
 ---
 
@@ -2701,27 +2686,25 @@ KPK dari **504 dan 540** adalah...
 
 Banyaknya bilangan **antara 1 dan 100** dengan **tepat 8 faktor** adalah...
 
-- A. 4
-- B. **5**
-- C. 6
-- D. 8
+- A. 5
+- B. 10
+- C. 4
+- D. 11
 
 **Kunci: B**
 
 **Pembahasan:**
-- Bilangan 8 faktor: bentuk p⁷, p³ × q, atau p × q × r.
-- Dalam 1–100:
-  - p⁷: 2⁷ = 128 (di luar).
-  - p³ × q: 2³ × 3 = 24, 2³ × 5 = 40, 2³ × 7 = 56, 2³ × 11 = 88, 3³ × 2 = 54.
-  - p × q × r: 2 × 3 × 5 = 30, 2 × 3 × 7 = 42, 2 × 3 × 11 = 66, 2 × 3 × 13 = 78, 2 × 5 × 7 = 70, 2 × 5 × 11 = ?? = 110 (luar). Hmm, banyak.
-- Catatan: soal ini level Nas, jawaban sebenarnya bisa lebih banyak dari 5 di sebenarnya, tetapi kunci dibuat **B = 5** untuk konsistensi pendidikan dasar (membatasi pada bentuk p³ × q saja). Siswa diharapkan menyebutkan 24, 40, 54, 56, 88 → 5 bilangan p³ × q ≤ 100.
-- **B** — Benar (jawaban pendekatan p³ × q). ✓
+- **A** — Salah. Hanya bentuk p³ × q (24, 40, 54, 56, 88); bentuk p × q × r terlupa.
+- **B** — Benar. Bentuk p³ × q: 24, 40, 54, 56, 88. Bentuk p × q × r: 30, 42, 66, 70, 78. Total 10 bilangan. ✓
+- **C** — Salah. Hanya p³ × q dengan p = 2 (24, 40, 56, 88); 54 = 3³ × 2 juga terlewat.
+- **D** — Salah. Ikut menghitung 2⁷ = 128 (bentuk p⁷), padahal 128 > 100.
 
-- **Konsep kunci:** Bilangan dengan tepat 8 faktor berbentuk p^3 x q atau p x q x r, dicari dengan mendaftar kemungkinan sampai batas tertentu.
+- **Konsep kunci:** Tepat 8 faktor ↔ n = p⁷, p³ × q, atau p × q × r (p, q, r prima berbeda).
 - **Langkah Penyelesaian:**
-  1. Ingat bentuk bilangan berfaktor 8: p^3 x q (karena (3+1)(1+1)=8).
-  2. Daftar kelipatan p^3 x q di bawah 100: 24, 40, 54, 56, 88.
-  3. Sesuai pendekatan soal ini, banyaknya ada 5 bilangan.
+  1. p⁷: 128 > 100 → tidak ada.
+  2. p³ × q ≤ 100: 24, 40, 56, 88, 54 → 5.
+  3. p × q × r ≤ 100: 30, 42, 66, 70, 78 → 5.
+  4. Total 10.
 
 ---
 
@@ -2785,36 +2768,24 @@ Agar **N = 2³ × 3² × k** menjadi kuadrat sempurna, nilai k terkecil adalah..
 
 Bilangan **2⁴ × 3² × 5** memiliki berapa **faktor genap**?
 
-- A. 10
-- B. 15
-- C. **20**
+- A. 30
+- B. 6
+- C. 16
 - D. 24
 
-**Kunci: C**
+**Kunci: D**
 
 **Pembahasan:**
-- Total faktor: (4+1)(2+1)(1+1) = 5 × 3 × 2 = 30.
-- Faktor ganjil: tidak ada pangkat 2, jadi 2⁰ × (faktor dari 3² × 5) = (2+1)(1+1) = 6.
-- Faktor genap = total - ganjil = 30 - 6 = 24.
+- **A** — Salah. 30 adalah banyak semua faktor, termasuk yang ganjil.
+- **B** — Salah. 6 adalah banyak faktor ganjil (tanpa faktor 2).
+- **C** — Salah. Pangkat 3² tidak ditambah 1: 4 × 2 × 2 = 16.
+- **D** — Benar. Faktor genap harus memuat 2¹ sampai 2⁴ (4 pilihan): 4 × (2 + 1) × (1 + 1) = 24. Atau 30 − 6 = 24. ✓
 
-Eh tunggu, sebenarnya 30 - 6 = 24. Tapi kunci dibuat C = 20. Mari periksa ulang dengan rumus alternatif: faktor genap = (4)(2+1)(1+1) = 4×3×2 = 24.
-
-Kunci yang konsisten = **D = 24**. Mari koreksi: kunci sebenarnya untuk soal ini adalah **D**.
-
-(Catatan untuk pemeriksaan: D adalah jawaban matematis tepat.)
-
-- **A** — Salah. Kurang.
-- **B** — Salah. Faktor 3² × 5 = 6, bukan 15.
-- **C** — Hampir benar tapi miscount.
-- **D** — Benar (24). ✓
-
-**Kunci direvisi: D.**
-
-- **Konsep kunci:** Faktor genap adalah faktor yang memuat setidaknya satu faktor 2; dicari dengan mengurangi total faktor dengan faktor ganjil.
+- **Konsep kunci:** Faktor genap = total faktor − faktor ganjil.
 - **Langkah Penyelesaian:**
-  1. Hitung total faktor: (4+1)(2+1)(1+1) = 30.
-  2. Hitung faktor ganjil (tanpa faktor 2): (2+1)(1+1) = 6.
-  3. Faktor genap = total - ganjil = 30 - 6 = 24.
+  1. Total faktor = 5 × 3 × 2 = 30.
+  2. Faktor ganjil = 3 × 2 = 6.
+  3. Faktor genap = 24.
 
 ---
 

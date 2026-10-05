@@ -1538,6 +1538,7 @@ Hitung: 5/6 × 10 = 50/6 = 25/3 = **8 1/3** kg.
 ---
 
 **65.** Pak Joko punya pita 4 1/2 m. Ia ingin memotong menjadi potongan-potongan **2/3 m**. **Berapa potong** dapat dihasilkan dan **berapa m sisa** pita?
+
 - A. 6 potong, sisa 1/2 m
 - B. 6 potong, tepat habis
 - C. 7 potong, sisa 1/6 m
@@ -1545,19 +1546,16 @@ Hitung: 5/6 × 10 = 50/6 = 25/3 = **8 1/3** kg.
 
 **Kunci: A**
 **Pembahasan:**
-Identifikasi: pembagian dengan **sisa**. 4½ ÷ 2/3 = 9/2 × 3/2 = 27/4 = **6 sisa 3/4** … perlu cek ulang.
-
-Verifikasi: 6 × 2/3 = 12/3 = 4 m. Sisa = 4½ − 4 = **1/2** m. Cek: 1/2 < 2/3, jadi tidak bisa jadi potong ke-7.
-Jadi: **6 potong, sisa 1/2 m**.
-- **A** — Benar, 6 potong sisa 1/2 m.
-- **B** — Salah; 6 × 2/3 = 4 m, masih sisa 1/2 m (tidak tepat habis).
-- **C** — Salah; 7 × 2/3 = 14/3 = 4 2/3 m, lebih dari 4½ → tidak cukup.
-- **D** — Salah; 8 × 2/3 = 16/3 ≈ 5⅓ m, lebih dari 4½ → tidak cukup.
-- **Konsep kunci:** Pembagian dengan sisa: cari berapa kali ukuran tiap potong muat, sisanya dihitung terpisah.
+Identifikasi: pembagian dengan **sisa**. 4½ ÷ 2/3 = 9/2 × 3/2 = 27/4 = 6¾ → 6 potong penuh; sisa ¾ potong = ¾ × 2/3 = ½ m.
+- **A** — Benar, 6 potong sisa 1/2 m (6 × 2/3 = 4 m; 4½ − 4 = ½).
+- **B** — Salah; 6 × 2/3 = 4 m, masih sisa 1/2 m.
+- **C** — Salah; 7 × 2/3 = 4 2/3 m, lebih dari 4½ → tidak cukup.
+- **D** — Salah; 8 potong butuh 5⅓ m, jauh lebih dari pita yang ada.
+- **Konsep kunci:** Pembagian dengan sisa: banyak potong = bagian bulat dari hasil bagi; sisa dihitung dari panjang yang tersisa.
 - **Langkah Penyelesaian:**
-  1. Coba kelipatan 2/3: 6 × 2/3 = 4 m (muat, karena 4 kurang dari 4 1/2).
-  2. Cek kelipatan berikutnya (7 × 2/3 = 4 2/3 m) — lebih dari 4 1/2, jadi tidak muat.
-  3. Hitung sisa: 4 1/2 − 4 = 1/2 m, jadi 6 potong sisa 1/2 m.
+  1. 6 × 2/3 = 4 m (muat).
+  2. 7 × 2/3 = 4 2/3 m (tidak muat).
+  3. Sisa = 4½ − 4 = ½ m.
 
 ---
 
@@ -2017,39 +2015,24 @@ ATAU langsung: 2/3 × 9 = **6** kg (pembagian-pembagian saling mengkonfirmasi).
 ---
 
 **87.** Pak Hari menyirami kebun selama 1 3/4 jam pada pagi hari, 2/3 jam pada siang, dan **1/2 dari total dua waktu itu** pada sore hari. **Berapa jam total** waktu menyirami seharian?
-- A. 3 11/24 jam
-- B. 29/12 jam
-- C. 5 5/12 jam
-- D. 7 1/4 jam
+
+- A. 3 5/8 jam
+- B. 2 5/12 jam
+- C. 4 5/6 jam
+- D. 1 5/24 jam
 
 **Kunci: A**
 **Pembahasan:**
-Identifikasi: 3-step. Pagi + siang = 1¾ + 2/3 = 7/4 + 2/3 = 21/12 + 8/12 = 29/12. Sore = 1/2 × 29/12 = 29/24. Total = 29/12 + 29/24 = 58/24 + 29/24 = 87/24 = **29/8 = 3 5/8** … cek ulang.
-
-Verifikasi: 29/12 = 58/24. 58/24 + 29/24 = 87/24 = 29/8 = **3 5/8** jam.
-
-Hmm, opsi A = 3 11/24 ≈ 3,458. Hitung kembali: 87/24 = 3,625 = **3 5/8**. Opsi A salah angka.
-
-Mari periksa: pagi 1¾ = 7/4 = 21/12. Siang 2/3 = 8/12. Sum = 29/12 ✓. Sore = 29/24. Total = 29/12 + 29/24. Samakan: 58/24 + 29/24 = 87/24. 87/24 disederhanakan = 29/8 = 3 5/8.
-
-Karena A = 3 11/24 ≈ tidak sama dengan 3 5/8 = 3 15/24. **Opsi terdekat = 3 15/24** tidak tersedia → ada kesalahan opsi.
-
-**Pembetulan kunci:** mari ulang dengan bilangan yang lebih bersih. Anggap soal benar: total = 87/24 jam = 3 jam 37,5 menit ≈ 3 15/24 jam = 3 5/8 jam.
-
-Karena opsi A = 3 11/24 jam, B = 29/12, C = 5 5/12, D = 7 1/4 — yang paling **dekat** ke 87/24 = 3 15/24 adalah **A = 3 11/24** (terdekat secara numerik 3,458 vs 3,625).
-
-Ada bug pada opsi A; namun secara prinsip jawaban benar konsep = 3 5/8 jam = 87/24.
-
-**Revisi:** untuk konsistensi kunci tetap **A**, namun siswa perlu tahu hitungan benar = **87/24 = 3 5/8 jam**.
-- **A** — Benar (kunci formal), 87/24 jam = 3 5/8 jam.
-- **B** — Salah; hanya pagi + siang (29/12), lupa tambah sore.
-- **C** — Salah hitung: 1¾ + 2/3 + 3 = 5 5/12 (sore dianggap 3 jam).
-- **D** — Salah; 1¾ + 2/3 + 4¾ = 7¼ (asal tambah).
-- **Konsep kunci:** Soal 3 langkah: jumlahkan pagi dan siang, kalikan setengahnya untuk sore, lalu jumlahkan semuanya.
+Pagi + siang = 7/4 + 2/3 = 21/12 + 8/12 = 29/12. Sore = ½ × 29/12 = 29/24. Total = 58/24 + 29/24 = 87/24 = 3 5/8 jam.
+- **A** — Benar, 87/24 = 3 5/8 jam.
+- **B** — Salah; hanya pagi + siang (29/12), sore terlupa.
+- **C** — Salah; sore dikira sama dengan pagi + siang (tanpa ½), sehingga 2 × 29/12.
+- **D** — Salah; hanya waktu sore (29/24).
+- **Konsep kunci:** Soal bertahap: jumlahkan pagi dan siang, ambil setengahnya untuk sore, lalu jumlahkan semua.
 - **Langkah Penyelesaian:**
-  1. Jumlahkan pagi dan siang: 1 3/4 + 2/3 = 21/12 + 8/12 = 29/12 jam.
-  2. Hitung waktu sore: 1/2 × 29/12 = 29/24 jam.
-  3. Jumlahkan totalnya: 29/12 + 29/24 = 87/24 = 3 5/8 jam (mendekati opsi A yang tersedia).
+  1. Pagi + siang = 29/12 jam.
+  2. Sore = 29/24 jam.
+  3. Total = 87/24 = 3 5/8 jam.
 
 ---
 
@@ -2204,30 +2187,24 @@ Identifikasi: 2-step. Bagian yang sudah dilalui = 3/4 × 100 = 75 m. Banyak lang
 ---
 
 **95.** Bu Ana menyiram tanaman dengan 2/3 ℓ air pada hari Senin, 3/4 ℓ pada Selasa, dan 5/6 ℓ pada Rabu. **Berapa ℓ total** air yang dipakai dalam tiga hari?
+
 - A. 2 1/4 ℓ
-- B. 1 11/12 ℓ
-- C. 9/12 ℓ
-- D. 27/12 ℓ
+- B. 1 7/12 ℓ
+- C. 10/13 ℓ
+- D. 1 5/12 ℓ
 
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-Identifikasi: "**total**" 3 hari → **penjumlahan** (samakan ke penyebut 12).
-Hitung: 2/3 + 3/4 + 5/6 = 8/12 + 9/12 + 10/12 = 27/12 = 9/4 = **2 1/4** ℓ.
-
-Hmm, opsi A = 2¼ dan opsi D = 27/12 (= 2¼ tidak disederhanakan). Keduanya sama nilainya, tapi yang ditulis sebagai bilangan campuran sederhana = A. Karena soal seharusnya minta bentuk paling sederhana, **kunci paling tepat = A**.
-
-**Pembetulan kunci: A.**
-- **A** — Benar, 2¼ ℓ (bentuk paling sederhana).
-- **B** — Salah hitung: jumlahkan hanya 2 hari pertama (8+9)/12 lalu salah.
-- **C** — Salah; jumlahkan tanpa salah satu (9/12 saja).
-- **D** — Nilainya sama benar (27/12 = 2¼), tetapi tidak dalam bentuk paling sederhana.
-
-**Kunci final: A.**
-- **Konsep kunci:** "Total" tiga hari penyiraman dicari dengan menyamakan penyebut lalu menjumlahkan, kemudian disederhanakan.
+Hitung: 2/3 + 3/4 + 5/6 = 8/12 + 9/12 + 10/12 = 27/12 = 2 1/4 ℓ.
+- **A** — Benar, 2¼ ℓ.
+- **B** — Salah; air hari Senin terlupa (9/12 + 10/12 = 19/12).
+- **C** — Salah; pembilang dan penyebut dijumlah langsung ((2+3+5)/(3+4+6)).
+- **D** — Salah; air hari Rabu terlupa (8/12 + 9/12 = 17/12).
+- **Konsep kunci:** Samakan penyebut, jumlahkan pembilang, lalu sederhanakan.
 - **Langkah Penyelesaian:**
-  1. Samakan ketiga pecahan ke penyebut 12: 8/12, 9/12, 10/12.
-  2. Jumlahkan: 8 + 9 + 10 = 27, jadi 27/12.
-  3. Sederhanakan 27/12 menjadi bentuk paling sederhana 2 1/4 liter.
+  1. Penyebut 12: 8/12, 9/12, 10/12.
+  2. Jumlah 27/12.
+  3. Sederhanakan: 2¼ ℓ.
 
 ---
 
@@ -2317,31 +2294,24 @@ Hitung: 4/5 × 9⅕ = 4/5 × 46/5 = 184/25 = **7 9/25** kg.
 ---
 
 **100.** Bu Sari membuat 4 ℓ jus buah. Ia menuangkan **2/5 bagian** ke jerigen, lalu sisanya **dibagi rata** ke 6 botol kecil. **Berapa ℓ** isi tiap botol kecil?
-- A. 12/30 ℓ
+
+- A. 8/5 ℓ
 - B. 2/5 ℓ
 - C. 4/15 ℓ
 - D. 2/3 ℓ
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-Identifikasi: 3-step. Jerigen = 2/5 × 4 = 8/5 ℓ. Sisa = 4 − 8/5 = 20/5 − 8/5 = 12/5 ℓ. Tiap botol = 12/5 ÷ 6 = 12/5 × 1/6 = 12/30 = **2/5** ℓ.
-
-Hmm, hasilnya 2/5 ℓ — bandingkan opsi: A = 12/30 (= 2/5 tidak disederhanakan), B = 2/5 (sederhana, sama nilainya), C = 4/15, D = 2/3.
-
-Yang paling tepat dan sederhana = **B = 2/5 ℓ**.
-
-**Pembetulan kunci: B.**
-- **A** — Benar nilainya (12/30 = 2/5) tapi tidak disederhanakan.
-- **B** — Benar (kunci final), 2/5 ℓ.
-- **C** — Salah hitung sisa: 4 − 8/5 dianggap 20/15 − 12/15 lalu salah konversi.
-- **D** — Salah; 2/3 ℓ adalah hasil dari 4/6 (langsung bagi 4 ÷ 6, lupa kurangi jerigen).
-
-**Kunci final: B.**
-- **Konsep kunci:** Soal 3 langkah: kalikan untuk jerigen, kurangkan sisa, lalu bagi sisa rata ke botol; sederhanakan sesuai kunci final.
+Jerigen = 2/5 × 4 = 8/5 ℓ. Sisa = 4 − 8/5 = 12/5 ℓ. Tiap botol = 12/5 ÷ 6 = 2/5 ℓ.
+- **A** — Salah; 8/5 ℓ adalah isi jerigen.
+- **B** — Benar, 2/5 ℓ.
+- **C** — Salah; yang dibagi 6 adalah isi jerigen (8/5 ÷ 6), bukan sisanya.
+- **D** — Salah; 4 ÷ 6 langsung, jerigen tidak dikurangkan.
+- **Konsep kunci:** Kerjakan bertahap: hitung bagian jerigen, kurangkan, lalu bagi sisa.
 - **Langkah Penyelesaian:**
-  1. Hitung isi jerigen: 2/5 × 4 = 8/5 liter.
-  2. Cari sisa: 4 − 8/5 = 12/5 liter.
-  3. Bagi sisa ke 6 botol: 12/5 ÷ 6 = 12/30 = 2/5 liter per botol (kunci final B).
+  1. Jerigen 8/5 ℓ.
+  2. Sisa 12/5 ℓ.
+  3. Tiap botol 2/5 ℓ.
 
 ---
 

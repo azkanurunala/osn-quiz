@@ -1811,7 +1811,7 @@ D. Tidak bisa diperiksa dengan cara ini
   - **D. Tidak bisa diperiksa** — Salah. Justru inilah cara mengecek: pakai massa baku.
 - **Langkah Penyelesaian:**
   1. Uji dengan massa baku: nilai tampil 5,5 padahal baku 5 → selisih +0,5.
-  2. Koreksi: nilai terukur terlalu besar 0,5.
+  2. Artinya setiap pembacaan timbangan terlalu besar 0,5 gram.
   3. Berat kertas = 1,2 − 0,5 = 0,7 gram.
 - **Hasil akhir:** Kalibrasi salah (+0,5), berat kertas 0,7 gram.
 - **💭 Tips:** Benda baku membuktikan alat. "Tampil lebih besar" berarti kamu harus mengurangi dari tiap pembacaan.

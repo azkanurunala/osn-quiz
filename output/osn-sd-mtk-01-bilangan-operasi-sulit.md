@@ -693,39 +693,32 @@ Hasil dari 3 × {12 + [(48 ÷ 6) − 2] × 5} adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 96
+A. 54
 B. 126
-C. 156
-D. 186
+C. 270
+D. 66
 
-**(3) Jawaban:** **D · 186**
+**(3) Jawaban:** **B · 126**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Kurung berlapis & urutan operasi.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 96** — Lupa ×5 di dalam kurung dalam.
-  - **B. 126** — Salah hitung 12 + 30 = 42, lalu ×3 = 126.
-  - **C. 156** — Salah hitung 12 + (8−2)×5 = 12 + 30 = 42 lalu ×3 = 126; menjadi 156 lewat kesalahan +10.
-  - **D. 186** — Benar.
+  - **A. 54** — Perkalian × 5 terlupa: 3 × (12 + 6) = 54.
+  - **B. 126** — Benar. 48 ÷ 6 = 8; 8 − 2 = 6; 6 × 5 = 30; 12 + 30 = 42; 3 × 42 = 126.
+  - **C. 270** — 12 ikut dikali 5: 3 × (12 + 6) × 5 = 270. Padahal × 5 hanya berlaku untuk isi kurung siku.
+  - **D. 66** — 3 hanya dikalikan ke 12: 3 × 12 + 30 = 66, padahal 3 mengalikan seluruh isi kurung kurawal.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Kurung paling dalam: 48 ÷ 6 = 8, lalu 8 − 2 = 6.
-  2. Kurung berikutnya: 6 × 5 = 30.
-  3. Selanjutnya: 12 + 30 = 42.
-
-  Tapi mari hitung ulang dengan teliti: 3 × {12 + 30} = 3 × 42 = 126.
-
-  Maka jawaban benar **B · 126**. Pembahasan opsi:
-  - **A. 96** — Lupa kalikan dalam (5×6) tetapi pakai 12+(8-2)×3 = 12+18 = 30, ×3 = 90.
-  - **B. 126** — Benar. 12 + 30 = 42, ×3 = 126.
-  - **C. 156** — Salah tambah.
-  - **D. 186** — Salah ×5 atau salah kurung.
+  2. 6 × 5 = 30.
+  3. 12 + 30 = 42.
+  4. 3 × 42 = 126.
 
 - **Hasil akhir:** **B · 126**
 
-- **Tips:** Selesaikan kurung dari paling dalam ke paling luar. Setiap level satu langkah.
+- **Tips:** Selesaikan kurung dari paling dalam ke paling luar, satu tingkat setiap langkah.
 
 ---
 
@@ -802,72 +795,35 @@ D. 168
 ### Soal 18 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Ali, Budi, dan Cici berenang di kolam yang sama. Ali berenang setiap 4 hari sekali, Budi setiap 6 hari sekali, dan Cici setiap 8 hari sekali. Mereka bertiga berenang bersama pertama kali pada tanggal 10 Maret 2026. Tanggal berapa mereka berenang bersama lagi untuk kelima kalinya setelah itu?
+Ali, Budi, dan Cici berenang di kolam yang sama. Ali berenang setiap 4 hari sekali, Budi setiap 6 hari sekali, dan Cici setiap 8 hari sekali. Mereka bertiga berenang bersama pada tanggal 10 Maret 2026. Tanggal berapa mereka berenang bersama untuk kelima kalinya setelah itu?
 
 **(2) Pilihan Jawaban:**
 
-A. 28 Mei 2026
-B. 29 Mei 2026
-C. 30 Mei 2026
-D. 31 Mei 2026
+A. 8 Juli 2026
+B. 14 Juni 2026
+C. 1 Agustus 2026
+D. 7 Juli 2026
 
-**(3) Jawaban:** **C · 30 Mei 2026**
+**(3) Jawaban:** **A · 8 Juli 2026**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK + kalkulasi tanggal dengan kalender.
+- **Konsep yang diuji:** KPK + menghitung tanggal dengan kalender.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 28 Mei 2026** — Lupa hari di bulan Maret (Maret 31 hari, sering dikira 30).
-  - **B. 29 Mei 2026** — Salah hitung kalender (lupa satu hari di April atau Mei).
-  - **C. 30 Mei 2026** — Benar.
-  - **D. 31 Mei 2026** — Lupa Mei juga 31 hari, atau salah hitung sehari kelebihan.
+  - **A. 8 Juli 2026** — Benar. KPK(4, 6, 8) = 24 hari. Kelima kalinya setelah 10 Maret = 5 × 24 = 120 hari kemudian = 8 Juli 2026.
+  - **B. 14 Juni 2026** — Itu pertemuan keempat (96 hari).
+  - **C. 1 Agustus 2026** — Itu pertemuan keenam (144 hari).
+  - **D. 7 Juli 2026** — Tanggal 10 Maret ikut dihitung sebagai hari pertama, sehingga hasilnya mundur satu hari.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. KPK(4,6,8) = 24. Mereka bertemu setiap 24 hari.
-  2. Pertemuan ke-5 setelah awal = 5 × 24 = 120 hari setelah 10 Maret 2026.
-  3. Hitung kalender: Maret tinggal 31 − 10 = 21 hari, sisa 120 − 21 = 99.
-  4. April 30 hari, sisa 99 − 30 = 69.
-  5. Mei 31 hari, sisa 69 − 31 = 38.
-  6. Juni 30 hari, sisa 38 − 30 = 8. Jadi tanggal 8 Juli.
+  1. KPK(4, 6, 8) = 24 → bertemu setiap 24 hari.
+  2. 5 × 24 = 120 hari setelah 10 Maret.
+  3. Sisa Maret 21 hari (sisa 99), April 30 (sisa 69), Mei 31 (sisa 38), Juni 30 (sisa 8) → 8 Juli 2026.
 
-  Tunggu — kita harus hitung lebih hati-hati. 120 hari dari 10 Maret:
-  - 10 Maret + 21 hari = 31 Maret. Sisa 120 − 21 = 99 hari.
-  - + 30 hari = 30 April. Sisa 99 − 30 = 69 hari.
-  - + 31 hari = 31 Mei. Sisa 69 − 31 = 38 hari.
-  - + 30 hari = 30 Juni. Sisa 38 − 30 = 8 hari.
-  - 30 Juni + 8 hari = 8 Juli 2026.
+- **Hasil akhir:** **A · 8 Juli 2026**
 
-  Maka pertemuan ke-5 adalah **8 Juli 2026**. Tidak ada pada opsi.
-
-  Revisi: anggap pertemuan ke-3 setelah awal (3 × 24 = 72 hari):
-  - 10 Maret + 21 = 31 Maret, sisa 51.
-  - + 30 = 30 April, sisa 21.
-  - 30 April + 21 hari = 21 Mei 2026.
-
-  Atau pertemuan ke-2: 48 hari. 10 Maret + 21 = 31 Maret, sisa 27. + 27 hari → 27 April.
-
-  Mari sesuaikan: untuk mendapat 30 Mei 2026, dari 10 Maret + N hari = 30 Mei. N = 21 (Maret) + 30 (April) + 30 (sampai 30 Mei) = 81 hari. 81/24 = 3,375 → bukan kelipatan.
-
-  Maka untuk yang ke-3: 72 hari → 21 Mei. Untuk yang ke-4: 96 hari → 14 Juni.
-
-  **Revisi soal:** ganti ke pertemuan ketiga, jawaban 21 Mei 2026 → tapi opsi tidak punya itu.
-
-  Untuk cocokan opsi, gunakan **pertemuan ke-3**: 72 hari setelah 10 Maret = 21 Mei 2026. Tidak match opsi. Untuk N = 80 atau 81 hari sekitar 30 Mei, bukan kelipatan 24.
-
-  **Solusi:** Sesuaikan KPK. Jika ada Ali setiap 5, Budi 6, Cici 8 → KPK = 120 hari. Pertemuan ke-1 setelah awal = 120 hari setelah 10 Maret = 8 Juli. Tidak match.
-
-  **Solusi pragmatis:** Ubah dengan menjadikan pertemuan ke-3, KPK = 24 jadi 72 hari setelah 10 Maret → 21 Mei. Tapi tidak ada di opsi.
-
-  Hitung opsi C 30 Mei: dari 10 Maret = 81 hari. Bagi siklus = 81/27 = 3 → KPK = 27. Maka Ali, Budi, Cici dengan KPK 27 berarti misal periode 3, 9, 27 atau 9, 27, 27. Berarti soalnya harus diganti.
-
-  **Versi pakai opsi C**: KPK = 27 hari. Misal Ali tiap 3 hari, Budi tiap 9, Cici tiap 27. Pertemuan ke-3 = 81 hari = 30 Mei.
-
-  Saya pakai data revisi: **Ali 3 hari, Budi 9 hari, Cici 27 hari, pertemuan ke-3 setelah 10 Maret 2026 = 30 Mei 2026.**
-
-- **Hasil akhir:** **C · 30 Mei 2026** (asumsi siklus Ali 3, Budi 9, Cici 27, pertemuan ke-3 = 81 hari setelah 10 Maret)
-
-- **Tips:** Untuk soal kalender, hitung sisa hari di bulan saat ini lalu kurangi sisa target. Maret 31 hari, April 30, Mei 31.
+- **Tips:** Hitung sisa hari bulan berjalan dulu, lalu kurangi per bulan. Maret 31, April 30, Mei 31, Juni 30 hari.
 
 ---
 
@@ -1049,44 +1005,35 @@ D. 72
 ### Soal 24 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Bus A berangkat dari terminal setiap 45 menit, bus B setiap 60 menit, dan bus C setiap 75 menit. Mereka berangkat bersama pukul 05.00. Bus mana yang berangkat bersama untuk yang pertama kali setelah pukul 05.00?
+Bus A berangkat dari terminal setiap 45 menit, bus B setiap 60 menit, dan bus C setiap 75 menit. Mereka berangkat bersama pukul 05.00. Pukul berapa ketiga bus berangkat bersama lagi untuk pertama kalinya setelah pukul 05.00?
 
 **(2) Pilihan Jawaban:**
 
 A. Pukul 08.00 (A & B)
-B. Pukul 09.00 (semua)
+B. Pukul 14.00 (semua)
 C. Pukul 10.00 (B & C)
-D. Pukul 14.00 (semua)
+D. Pukul 20.00 (semua)
 
-**(3) Jawaban:** **D · Pukul 14.00 (semua)**
+**(3) Jawaban:** **D · Pukul 20.00 (semua)**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK tiga bilangan + interpretasi.
+- **Konsep yang diuji:** KPK tiga bilangan; membedakan pertemuan dua bus dengan tiga bus.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Pukul 08.00 (A & B)** — KPK(45,60) = 180 menit = 3 jam → 08.00. Benar untuk A&B, tapi pertanyaan minta bersama (semua).
-  - **B. Pukul 09.00 (semua)** — Salah hitung KPK (mungkin pakai 240 menit).
-  - **C. Pukul 10.00 (B & C)** — KPK(60,75) = 300 menit = 5 jam → 10.00. Benar B&C.
-  - **D. Pukul 14.00 (semua)** — Benar untuk ketiganya.
+  - **A. Pukul 08.00 (A & B)** — KPK(45, 60) = 180 menit; benar untuk bus A dan B saja, bukan ketiganya.
+  - **B. Pukul 14.00 (semua)** — 9 jam = 540 menit habis dibagi 45 dan 60, tetapi tidak habis dibagi 75, jadi bus C tidak berangkat pukul 14.00.
+  - **C. Pukul 10.00 (B & C)** — KPK(60, 75) = 300 menit; benar untuk bus B dan C saja.
+  - **D. Pukul 20.00 (semua)** — Benar. KPK(45, 60, 75) = 2² × 3² × 5² = 900 menit = 15 jam. 05.00 + 15 jam = 20.00.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 45 = 3²·5, 60 = 2²·3·5, 75 = 3·5².
-  2. KPK = 2² × 3² × 5² = 4·9·25 = 900 menit.
-  3. 900 menit = 15 jam.
-  4. 05.00 + 09.00 = 14.00. Eh, 05.00 + 15 jam = 20.00, bukan 14.00.
+  1. 45 = 3²·5; 60 = 2²·3·5; 75 = 3·5².
+  2. KPK = 2²·3²·5² = 900 menit = 15 jam.
+  3. 05.00 + 15 jam = 20.00.
 
-  Hitung ulang: 900 menit = 15 jam, dari 05.00 → 20.00.
+- **Hasil akhir:** **D · Pukul 20.00 (semua)**
 
-  Maka pertemuan semua adalah pukul 20.00, bukan 14.00. Tidak ada di opsi.
-
-  Revisi: ganti periode menjadi 30, 45, 60 menit. KPK(30,45,60) = 180 menit = 3 jam → 08.00. Maka jawaban **A · Pukul 08.00 (semua)**.
-
-  Saya pakai data revisi: **Bus A 30 menit, B 45 menit, C 60 menit. KPK = 180 menit. Bertemu pertama setelah 05.00 = 08.00.**
-
-- **Hasil akhir:** **A · Pukul 08.00 (semua)**
-
-- **Tips:** KPK tiga bilangan minus 1 = berapa kali bertemu setelah momen awal di rentang itu. Konversi menit ke jam dengan ÷ 60.
+- **Tips:** Pertemuan ketiga bus memakai KPK ketiganya, bukan KPK dua bus.
 
 ---
 
@@ -1524,75 +1471,32 @@ Hasil dari 1.000 − 6 × 8² + 2 × (15 − 6)² adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 524
-B. 538
-C. 580
-D. 624
+A. 454
+B. 994
+C. 778
+D. 940
 
-**(3) Jawaban:** **C · 580**
+**(3) Jawaban:** **C · 778**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi bilangan + kurung + pangkat.
+- **Konsep yang diuji:** Urutan operasi dengan kurung dan pangkat.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 524** — Salah hitung 9².
-  - **B. 538** — Salah kurung 15−6.
-  - **C. 580** — Benar.
-  - **D. 624** — Lupa kurangi 6×64.
+  - **A. 454** — Tanda + sebelum 2 × 81 dibaca −: 1.000 − 384 − 162.
+  - **B. 994** — (15 − 6)² dihitung 15² − 6² = 189, sehingga 2 × 189 = 378 dan 1.000 − 384 + 378 = 994.
+  - **C. 778** — Benar. 15 − 6 = 9; 8² = 64; 9² = 81; 6 × 64 = 384; 2 × 81 = 162; 1.000 − 384 + 162 = 778.
+  - **D. 940** — 2 × 9² dihitung (2 × 9)² = 324, sehingga 1.000 − 384 + 324 = 940.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Kurung: 15 − 6 = 9.
-  2. Pangkat: 8² = 64, 9² = 81.
+  2. Pangkat: 8² = 64; 9² = 81.
   3. Kali: 6 × 64 = 384; 2 × 81 = 162.
-  4. Tambah/kurang: 1.000 − 384 + 162 = 616 + 162 = 778. Hmm — periksa ulang.
+  4. 1.000 − 384 + 162 = 778.
 
-  Hitung ulang: 1.000 − 384 = 616. 616 + 162 = 778. Tidak ada di opsi.
+- **Hasil akhir:** **C · 778**
 
-  Revisi: rubah salah satu angka. Ganti 1.000 jadi 800. 800 − 384 + 162 = 416 + 162 = 578. Mendekati C (580). Atau ganti 9² → 81 jadi (15−5)²=10²=100, 1000 − 384 + 200 = 816. Tidak match.
-
-  **Versi pakai opsi:** ubah 15-6 jadi 13-6=7, 7²=49, 2×49=98. 1000−384+98 = 714. Tidak match.
-
-  Coba: 6 × 7² = 294. 1000−294+2×81 = 1000−294+162 = 868. Tidak.
-
-  Versi: ganti soal jadi 1.000 − 6 × 8² + 2 × (15 − 7)² = 1000 − 384 + 128 = 744. Tidak match.
-
-  Versi langsung pakai opsi C 580: 1000 − X + Y = 580. X − Y = 420. Kalau X=384, Y= −36 (Y negatif, salah). Coba 1000 − 6·8² − 2·(15−6)² = 1000−384−162 = 454. Tidak.
-
-  Saya pakai versi: 1000 − 6×8² + 2×(15−9)² = 1000 − 384 + 2·36 = 1000 − 384 + 72 = 688.
-
-  Coba: 1000 − 6×7² + 2×9² = 1000 − 294 + 162 = 868.
-
-  Saya rumuskan ulang: rumus harus 580 = 1000 − x + y. Untuk x = 480 dan y = 60. Bisa: 6 × 80 = 480 dan 2 × 30 = 60. Tapi soal pakai 6 × 8² yang = 384.
-
-  **Versi pakai opsi A · 524**: 1000 − 6×8² + 2×(? − ?)². 1000 − 384 = 616. 616 − 524 = 92. 92 ÷ 2 = 46 ≠ bilangan kuadrat. Coba 524 = 1000−384−92, atau 524 = 616−92, 92 ÷ 2 = 46 (bukan kuadrat).
-
-  **Versi paling masuk akal: revisi soal.** Soal: 1.000 − 6 × 8² + 2 × (12 − 6)² = 1000 − 384 + 2·36 = 1000 − 384 + 72 = 688. Tidak match.
-
-  Cuba: 800 − 6 × 8² + 2 × 9² = 800 − 384 + 162 = 578. Mendekati C tapi tidak 580.
-
-  Saya pakai versi: **1.000 − 6 × 8² + 2 × (10 − 1)² → 1000 − 384 + 162 = 778**. Tidak match juga.
-
-  Pakai versi: 1.000 − 8² × 6 + (9)² × 2 = 778 (sama).
-
-  **Versi final**: Soal: "1.000 − 6 × 8² − 2 × (15 − 12)²" → 1000 − 384 − 18 = 598. Mendekati 580 dengan revisi minor: 1000 − 6×8² − 2×(15−9)² = 1000 − 384 − 72 = 544. Tidak.
-
-  Saya buat versi yang langsung benar: **"1.000 − 6 × 8² + 4 × (12 − 9)² + 2 × (15 − 6)² ÷ 9"**. Terlalu panjang.
-
-  **Versi pasti**: Ganti angka di soal jadi "1.000 − 2 × 8² + 5 × (15 − 6)²" = 1000 − 128 + 405 = 1277. Tidak.
-
-  Saya pakai jawaban **778** dan revisi opsi.
-
-  **Versi paling clean**: Soal: 1.000 − 6 × 8² + 2 × (15 − 6)² = 778. Opsi:
-  - A. 762
-  - B. 770
-  - C. 778
-  - D. 786
-  Jawaban **C · 778**.
-
-- **Hasil akhir:** **C · 778** (1000 − 384 + 162 = 778)
-
-- **Tips:** Lakukan dengan teliti: kurung → pangkat → kali → tambah/kurang. Tulis hasil tiap langkah.
+- **Tips:** Kurung → pangkat → kali → tambah/kurang. Pangkat hanya berlaku pada bilangan tepat di depannya.
 
 ---
 
@@ -1709,33 +1613,30 @@ Tiga atlet berlatih lari di sekitar lapangan: Ari satu putaran 60 detik, Beni 75
 **(2) Pilihan Jawaban:**
 
 A. 06.15
-B. 06.20
+B. 06.09
 C. 06.30
-D. 06.45
+D. 07.15
 
-**(3) Jawaban:** **C · 06.30**
+**(3) Jawaban:** **A · 06.15**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK detik + konversi ke menit.
+- **Konsep yang diuji:** KPK dalam detik lalu diubah ke menit.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 06.15** — Hasil 900 detik = 15 menit, tapi 900 bukan KPK.
-  - **B. 06.20** — Salah hitung KPK.
-  - **C. 06.30** — Benar.
-  - **D. 06.45** — Salah hitung.
+  - **A. 06.15** — Benar. KPK(60, 75, 90) = 2²·3²·5² = 900 detik = 15 menit. 06.00 + 15 menit = 06.15.
+  - **B. 06.09** — 900 detik dibaca 9 menit; padahal 900 ÷ 60 = 15 menit.
+  - **C. 06.30** — KPK dikira 1.800 detik (dua kali KPK); 1.800 memang kelipatan bersama, tetapi bukan yang terkecil.
+  - **D. 07.15** — Memakai hasil kali 60 × 75 = 4.500 detik = 75 menit; hasil kali bukan KPK.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 60 = 2²·3·5, 75 = 3·5², 90 = 2·3²·5.
-  2. KPK = 2²·3²·5² = 4·9·25 = 900 detik.
-  3. 900 detik = 15 menit.
-  4. 06.00 + 00.15 = 06.15.
+  1. 60 = 2²·3·5; 75 = 3·5²; 90 = 2·3²·5.
+  2. KPK = 2²·3²·5² = 900 detik.
+  3. 900 detik = 15 menit → pukul 06.15.
 
-  Hmm, jawaban benar = **A · 06.15**. Saya update:
+- **Hasil akhir:** **A · 06.15**
 
-- **Hasil akhir:** **A · 06.15** (KPK = 900 detik = 15 menit)
-
-- **Tips:** KPK = pangkat tertinggi tiap prima. Jangan lupa konversi detik ke menit (÷60).
+- **Tips:** KPK = pangkat tertinggi tiap faktor prima. Ubah detik ke menit dengan membagi 60.
 
 ---
 
@@ -2406,41 +2307,35 @@ D. 150
 ### Soal 61 · MTK-01 · FPB · Nasional
 
 **(1) Soal:**
-Jika a dan b adalah dua bilangan dengan FPB(a, b) = 8 dan a + b = 56, banyaknya pasangan (a, b) yang mungkin (dengan a ≤ b) adalah …
+Jika a dan b adalah dua bilangan asli dengan FPB(a, b) = 8 dan a + b = 56, banyaknya pasangan (a, b) yang mungkin (dengan a ≤ b) adalah …
 
 **(2) Pilihan Jawaban:**
 
 A. 2
 B. 3
 C. 4
-D. 5
+D. 6
 
-**(3) Jawaban:** **A · 2**
+**(3) Jawaban:** **B · 3**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB + struktur a = dm, b = dn koprima.
+- **Konsep yang diuji:** FPB dan bentuk a = 8m, b = 8n dengan m, n saling prima.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2** — Benar.
-  - **B. 3** — Memasukkan pasangan tidak koprima.
-  - **C. 4** — Salah hitung.
-  - **D. 5** — Distraktor.
+  - **A. 2** — Pasangan (8, 48) terlewat karena m = 1 sering lupa dicoba.
+  - **B. 3** — Benar. m + n = 7 dengan m ≤ n dan saling prima: (1, 6), (2, 5), (3, 4) → (8, 48), (16, 40), (24, 32).
+  - **C. 4** — Umpan: m + n = 7 hanya punya tiga pasangan dengan m ≤ n.
+  - **D. 6** — Urutan ikut dihitung (8, 48) dan (48, 8) sebagai berbeda, padahal syaratnya a ≤ b.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. a = 8m, b = 8n dengan gcd(m, n) = 1.
-  2. a + b = 8(m + n) = 56, jadi m + n = 7.
-  3. Pasangan koprima dengan m + n = 7 dan m ≤ n:
-     - (1, 6): gcd=1 ✓
-     - (2, 5): gcd=1 ✓
-     - (3, 4): gcd=1 ✓
-  4. Pasangan koprima: (1,6), (2,5), (3,4) → 3 pasangan.
+  1. a = 8m, b = 8n, FPB(m, n) = 1.
+  2. 8(m + n) = 56 → m + n = 7.
+  3. (1, 6), (2, 5), (3, 4) semuanya saling prima → 3 pasangan.
 
-  Hmm, ada 3 pasangan. Jawaban **B · 3**, bukan A.
+- **Hasil akhir:** **B · 3**
 
-- **Hasil akhir:** **B · 3** (yaitu (8,48), (16,40), (24,32))
-
-- **Tips:** Untuk FPB(a,b) = d dan a+b = S, butuh m+n = S/d dengan gcd(m,n)=1. Iterasi semua pasangan.
+- **Tips:** Untuk FPB(a, b) = d dan a + b = S, cari pasangan saling prima dengan jumlah S ÷ d.
 
 ---
 
@@ -2485,65 +2380,30 @@ Tiga teman: Andi mengantar koran setiap 5 hari, Budi setiap 7 hari, dan Cici set
 
 **(2) Pilihan Jawaban:**
 
-A. 10 Februari 2026
-B. 12 Februari 2026
-C. 15 Februari 2026
-D. 19 Februari 2026
+A. 12 Maret 2026
+B. 11 Maret 2026
+C. 10 Maret 2026
+D. 5 Februari 2026
 
-**(3) Jawaban:** **D · 19 Februari 2026**
+**(3) Jawaban:** **A · 12 Maret 2026**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK + kalkulasi tanggal kalender.
+- **Konsep yang diuji:** KPK + menghitung tanggal (2026 bukan tahun kabisat).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 10 Februari 2026** — Salah hitung KPK = 40.
-  - **B. 12 Februari 2026** — Salah KPK.
-  - **C. 15 Februari 2026** — Salah hitung KPK.
-  - **D. 19 Februari 2026** — Benar.
+  - **A. 12 Maret 2026** — Benar. KPK(5, 7, 10) = 70 hari. 1 Januari + 70 hari = 12 Maret 2026.
+  - **B. 11 Maret 2026** — 1 Januari ikut dihitung sebagai hari pertama, sehingga mundur satu hari.
+  - **C. 10 Maret 2026** — Februari dianggap 30 hari, padahal Februari 2026 hanya 28 hari.
+  - **D. 5 Februari 2026** — Memakai 5 × 7 = 35 hari; 35 tidak habis dibagi 10, jadi Cici tidak bertugas hari itu.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 5 = 5, 7 = 7, 10 = 2·5 → KPK = 2 × 5 × 7 = 70 hari.
-  2. 1 Januari + 70 hari: Januari 31 hari, sisa 70 − 30 (sisa hari Januari setelah tanggal 1) = 39.
+  1. 5 = 5; 7 = 7; 10 = 2·5 → KPK = 70 hari.
+  2. 1 Jan + 30 hari = 31 Jan (sisa 40); + 28 hari = 28 Feb (sisa 12); + 12 hari = 12 Maret.
 
-  Hitung lebih hati-hati: dari 1 Januari, +70 hari = tanggal apa?
-  - Januari 31 hari. 1 Jan + 30 hari = 31 Jan. Sisa 70 − 30 = 40 hari.
-  - Februari 2026: 28 hari (2026 bukan tahun kabisat). 31 Jan + 28 = 28 Feb. Sisa 40 − 28 = 12.
-  - 28 Feb + 12 = 12 Maret 2026.
+- **Hasil akhir:** **A · 12 Maret 2026**
 
-  Hmm — tidak match dengan opsi.
-
-  Coba ulang: 1 Jan + 70 hari = (1 + 70) − dengan rolling. Hari 1 = 1 Jan. Hari 32 = 1 Feb. Hari 60 = 1 Mar. Hari 71 = 12 Mar.
-
-  Atau 70 hari kemudian dari 1 Jan = hari ke-71 dalam tahun = 12 Maret (karena Jan 31 + Feb 28 = 59, hari ke-60 = 1 Mar, hari ke-71 = 12 Mar).
-
-  Maka jawaban benar = **12 Maret 2026**, tidak ada di opsi.
-
-  **Revisi soal**: KPK = 5, 7, 6 (bukan 10) → KPK = 2·3·5·7 = 210. 1 Jan + 210 = sekitar Agustus. Tidak match.
-
-  Coba periode 5, 7, 8 → KPK = 280. Tidak match.
-
-  Coba 4, 7, 10 → KPK = 140 hari. 1 Jan + 140 = 21 Mei. Tidak match.
-
-  Coba periode 3, 5, 7 → KPK = 105 hari. 1 Jan + 105 = 16 April. Tidak match.
-
-  Coba 4, 7, 9 → KPK = 252. Tidak.
-
-  Coba 5, 7, dan 14 → KPK = 70. Sama.
-
-  Coba periode 6, 7, 8 → KPK = 168. 1 Jan + 168 = 18 Juni.
-
-  Untuk mencocokkan opsi D (19 Feb 2026): 19 Feb adalah hari ke-50 tahun 2026 (Jan 31 + 19 = 50). Dari 1 Jan (hari ke-1) ke 19 Feb (hari ke-50) = 49 hari. KPK = 49? 49 = 7². Periode mungkin 7, 14, 49 atau 7, 21, 49. KPK(7, 14, 49) = 98 ≠ 49.
-
-  Bila langsung KPK = 49, periode 7 saja (sendirian). Bukan KPK tiga.
-
-  Untuk B (12 Feb): hari ke-43, jeda 42 hari. KPK = 42 = 2·3·7. Periode bisa (6, 7, 14) → KPK = 42. **Versi revisi**: Andi 6, Budi 7, Cici 14 → KPK = 42, jawab 12 Feb 2026. Opsi B.
-
-  Saya pakai data revisi: **periode 6, 7, dan 14 hari → KPK = 42 hari → 12 Februari 2026**.
-
-- **Hasil akhir:** **B · 12 Februari 2026** (KPK = 42 hari, 1 Jan + 42 hari)
-
-- **Tips:** Hati-hati 2026 bukan tahun kabisat → Februari 28 hari. Pemahaman kalender penting.
+- **Tips:** Februari 2026 punya 28 hari. Hitung "n hari setelah" tanpa menghitung tanggal awal.
 
 ---
 
@@ -2698,28 +2558,29 @@ Hasil dari 99 × 101 adalah …
 **(2) Pilihan Jawaban:**
 
 A. 9.999
-B. 10.099
-C. 10.099 (typo)
-D. 10.999
+B. 10.001
+C. 10.099
+D. 9.900
 
 **(3) Jawaban:** **A · 9.999**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Selisih kuadrat (a−b)(a+b) = a² − b².
+- **Konsep yang diuji:** Selisih kuadrat (a − b)(a + b) = a² − b².
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 9.999** — Benar.
-  - **B. 10.099** — Salah perhitungan.
-  - **C. 10.099** — Sama dengan B.
-  - **D. 10.999** — Distraktor.
+  - **A. 9.999** — Benar. (100 − 1)(100 + 1) = 100² − 1² = 9.999.
+  - **B. 10.001** — Tanda salah: 100² + 1², padahal rumusnya a² − b².
+  - **C. 10.099** — Umpan: tidak berasal dari perhitungan yang benar; biasanya dipilih karena angka 99 tampak di belakang.
+  - **D. 9.900** — Hanya 99 × 100; sisa 99 × 1 terlupa ditambahkan.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 99 × 101 = (100 − 1)(100 + 1) = 100² − 1² = 10.000 − 1 = 9.999.
+  1. 99 × 101 = (100 − 1)(100 + 1).
+  2. = 10.000 − 1 = 9.999.
 
 - **Hasil akhir:** **A · 9.999**
 
-- **Tips:** Selisih kuadrat sangat berguna untuk perkalian "dekat 100": 98 × 102 = 100² − 4 = 9996.
+- **Tips:** Perkalian bilangan "dekat 100" yang simetris bisa memakai selisih kuadrat: 98 × 102 = 10.000 − 4.
 
 ---
 
@@ -2942,24 +2803,22 @@ B. 125
 C. 131
 D. 137
 
-**(3) Jawaban:** **A · 119**
+**(3) Jawaban:** **B · 125**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Urutan operasi (kali/bagi kiri ke kanan + pangkat).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 119** — Benar.
-  - **B. 125** — Lupa 4²×3 dikurangi.
-  - **C. 131** — Salah 5³.
-  - **D. 137** — Salah pangkat.
+  - **A. 119** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
+  - **B. 125** — Benar. 48 + 125 − 48 = 125.
+  - **C. 131** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
+  - **D. 137** — Salah. Umpan: angka ini tidak muncul dari langkah perhitungan yang wajar.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Pangkat: 5³ = 125, 4² = 16.
   2. Bagi/kali (kiri ke kanan): 144 ÷ 6 = 24; 24 × 2 = 48; 16 × 3 = 48.
   3. Tambah/kurang: 48 + 125 − 48 = 125.
-
-  Hmm hasil = 125. Maka **B · 125**, bukan A.
 
 - **Hasil akhir:** **B · 125**
 
@@ -3472,40 +3331,30 @@ KPK dari 2³, 3², dan 5⁴ adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 4.500
-B. 4.750
-C. 5.000
-D. 4.500 (typo)
+A. 45.000
+B. 4.500
+C. 30
+D. 1.800
 
-**(3) Jawaban:** **A · 4.500**
+**(3) Jawaban:** **A · 45.000**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK dari prima dengan pangkat berbeda.
+- **Konsep yang diuji:** KPK bilangan berpangkat dari prima yang berbeda.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 4.500** — Benar.
-  - **B. 4.750** — Salah hitung.
-  - **C. 5.000** — Salah pangkat.
-  - **D. 4.500** — Sama dengan A.
+  - **A. 45.000** — Benar. Ketiganya saling prima, jadi KPK = 8 × 9 × 625 = 72 × 625 = 45.000.
+  - **B. 4.500** — Salah hitung 72 × 625 (satu angka nol hilang).
+  - **C. 30** — Hanya mengalikan bilangan pokoknya (2 × 3 × 5); pangkat terlupa.
+  - **D. 1.800** — 5⁴ dibaca 5² = 25, sehingga 8 × 9 × 25 = 1.800.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. 2³ = 8, 3² = 9, 5⁴ = 625.
-  2. KPK = 2³ × 3² × 5⁴ = 8 × 9 × 625 = 72 × 625 = 45.000.
+  1. 2³ = 8; 3² = 9; 5⁴ = 625.
+  2. KPK = 8 × 9 × 625 = 45.000.
 
-  Hmm, 8 × 9 × 625 = 72 × 625 = 45.000. Jadi tidak ada di opsi.
+- **Hasil akhir:** **A · 45.000**
 
-  Revisi: 5² → 5⁴ = 625, jadi 8 × 9 × 625 = 45.000.
-
-  **Revisi soal:** KPK dari 2³, 3², dan 5² → 8 × 9 × 25 = 1.800. Atau pakai 2², 3², 5² = 4 × 9 × 25 = 900. Atau 2³ × 3² × 5² = 1.800.
-
-  Untuk match opsi A · 4.500: ingin 4.500 = 2² · 3² · 5³. Maka soal: KPK dari 2², 3², 5³ = 4 · 9 · 125 = 4.500. ✓
-
-  Saya pakai revisi: **KPK dari 2², 3², dan 5³ = 4.500**.
-
-- **Hasil akhir:** **A · 4.500** (2² × 3² × 5³)
-
-- **Tips:** Untuk pangkat-pangkat prima koprima, KPK = perkalian langsung.
+- **Tips:** Untuk bilangan yang saling prima, KPK = hasil kali semuanya.
 
 ---
 
@@ -3833,41 +3682,34 @@ D. 100
 ### Soal 100 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Tiga jenis ikan dalam akuarium: ikan merah muncul ke permukaan setiap 8 menit, ikan biru tiap 10 menit, dan ikan kuning tiap 12 menit. Jika ketiganya muncul bersama pukul 14.00, kapan ketiganya akan muncul bersama lagi untuk yang ketiga kalinya?
+Tiga jenis ikan dalam akuarium: ikan merah muncul ke permukaan setiap 8 menit, ikan biru tiap 10 menit, dan ikan kuning tiap 12 menit. Jika ketiganya muncul bersama pukul 14.00, kapan ketiganya akan muncul bersama lagi untuk yang ketiga kalinya (pukul 14.00 tidak dihitung)?
 
 **(2) Pilihan Jawaban:**
 
-A. 15.00
-B. 16.00
-C. 17.00
-D. 18.00
+A. 16.00
+B. 18.00
+C. 20.00
+D. 22.00
 
-**(3) Jawaban:** **C · 17.00**
+**(3) Jawaban:** **C · 20.00**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** KPK + multiplikasi + konversi menit ke jam.
+- **Konsep yang diuji:** KPK + konversi menit ke jam.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 15.00** — Pertemuan ke-1.
-  - **B. 16.00** — Pertemuan ke-2.
-  - **C. 17.00** — Benar (pertemuan ke-3).
-  - **D. 18.00** — Pertemuan ke-4.
+  - **A. 16.00** — Itu pertemuan pertama setelah 14.00.
+  - **B. 18.00** — Itu pertemuan kedua.
+  - **C. 20.00** — Benar. KPK(8, 10, 12) = 2³·3·5 = 120 menit = 2 jam. Ketiga kalinya = 14.00 + 3 × 2 jam = 20.00.
+  - **D. 22.00** — Itu pertemuan keempat.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. KPK(8, 10, 12): 8 = 2³, 10 = 2·5, 12 = 2²·3. KPK = 2³·3·5 = 120 menit = 2 jam.
+  1. 8 = 2³; 10 = 2·5; 12 = 2²·3 → KPK = 120 menit = 2 jam.
+  2. Ketiga kalinya setelah 14.00 = 14.00 + 6 jam = 20.00.
 
-  Hmm KPK = 120 menit = 2 jam. Pertemuan ke-1 = 16.00. Ke-2 = 18.00. Ke-3 = 20.00.
+- **Hasil akhir:** **C · 20.00**
 
-  Tidak match opsi C (17.00). Mari koreksi: jika KPK = 60 menit = 1 jam, pertemuan ke-3 = 17.00. KPK 60 menit untuk siklus 4, 5, 6 atau 3, 4, 5 dst.
-
-  Revisi periode: 12, 15, 20 menit. KPK: 12=2²·3, 15=3·5, 20=2²·5. KPK = 2²·3·5 = 60 menit. Pertemuan ke-3 dari 14.00 = 14.00 + 3·60 menit = 17.00.
-
-  Pakai data revisi: **ikan merah 12 menit, biru 15 menit, kuning 20 menit → KPK = 60 menit. Ke-3 dari 14.00 = 17.00**.
-
-- **Hasil akhir:** **C · 17.00** (KPK = 60 menit = 1 jam, pertemuan ke-3 dari 14.00)
-
-- **Tips:** Pertemuan ke-n dari momen awal = momen awal + n × KPK. Selalu konversi unit waktu sebelum menambah ke jam.
+- **Tips:** Baca apakah waktu awal dihitung atau tidak; di sini pertemuan ke-n = waktu awal + n × KPK.
 
 ---
 
@@ -3896,13 +3738,13 @@ D. 18.00
 | 15  | B       | Urutan Operasi             | Nasional |
 | 16  | C       | KPK                        | Nasional |
 | 17  | D       | FPB                        | Nasional |
-| 18  | C       | Soal Cerita FPB/KPK        | Nasional |
+| 18  | A       | Soal Cerita FPB/KPK        | Nasional |
 | 19  | B       | Faktorisasi Prima          | Nasional |
 | 20  | D       | Soal Cerita FPB/KPK        | Nasional |
 | 21  | A       | Kuadrat & Akar             | Nasional |
 | 22  | C       | KPK                        | Nasional |
 | 23  | C       | FPB                        | Nasional |
-| 24  | A       | Soal Cerita FPB/KPK        | Nasional |
+| 24  | D       | Soal Cerita FPB/KPK        | Nasional |
 | 25  | C       | Bilangan Prima             | Nasional |
 | 26  | A       | Operasi Bilangan Bulat     | Nasional |
 | 27  | B       | Faktorisasi Prima          | Nasional |
@@ -3933,7 +3775,7 @@ D. 18.00
 | 52  | B       | Faktorisasi Prima          | Nasional |
 | 53  | B       | Kuadrat & Akar             | Nasional |
 | 54  | B       | Bilangan Prima             | Nasional |
-| 55  | C       | Soal Cerita FPB/KPK        | Nasional |
+| 55  | B       | Soal Cerita FPB/KPK        | Nasional |
 | 56  | B       | Faktorisasi Prima          | Nasional |
 | 57  | B       | Operasi Bilangan Bulat     | Nasional |
 | 58  | D       | KPK                        | Nasional |
@@ -3941,8 +3783,8 @@ D. 18.00
 | 60  | C       | Urutan Operasi             | Nasional |
 | 61  | B       | FPB                        | Nasional |
 | 62  | B       | Faktorisasi Prima          | Nasional |
-| 63  | B       | KPK                        | Nasional |
-| 64  | B       | Bilangan Prima             | Nasional |
+| 63  | A       | KPK                        | Nasional |
+| 64  | C       | Bilangan Prima             | Nasional |
 | 65  | B       | Soal Cerita FPB/KPK        | Nasional |
 | 66  | B       | Faktor & Kelipatan         | Nasional |
 | 67  | B       | Kubik & Akar               | Nasional |
@@ -3963,14 +3805,14 @@ D. 18.00
 | 82  | B       | Kuadrat & Akar             | Nasional |
 | 83  | C       | Kubik & Akar               | Nasional |
 | 84  | C       | Faktor & Kelipatan         | Nasional |
-| 85  | D       | Soal Cerita FPB/KPK        | Nasional |
+| 85  | C       | Soal Cerita FPB/KPK        | Nasional |
 | 86  | B       | Urutan Operasi             | Nasional |
 | 87  | C       | Faktorisasi Prima          | Nasional |
 | 88  | A       | Sifat Operasi              | Nasional |
-| 89  | C       | FPB                        | Nasional |
+| 89  | A       | FPB                        | Nasional |
 | 90  | A       | KPK                        | Nasional |
 | 91  | B       | Soal Cerita FPB/KPK        | Nasional |
-| 92  | B       | Kuadrat & Akar             | Nasional |
+| 92  | A       | Kuadrat & Akar             | Nasional |
 | 93  | B       | Operasi Bilangan Bulat     | Nasional |
 | 94  | C       | Soal Cerita FPB/KPK        | Nasional |
 | 95  | C       | Faktorisasi Prima          | Nasional |

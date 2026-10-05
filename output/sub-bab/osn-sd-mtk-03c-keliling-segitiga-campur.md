@@ -1099,25 +1099,23 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 ---
 
-**52.** Sebuah segitiga sama kaki memiliki keliling 64 cm. Jika kaki tiga kali alas, panjang alas adalah …
+**52.** Sebuah segitiga sama kaki memiliki keliling 56 cm. Jika kaki tiga kali alas, panjang alas adalah …
+
 - A. 8 cm
-- B. 16 cm
+- B. 14 cm
 - C. 24 cm
-- D. 32 cm
+- D. 28 cm
 
 **Kunci: A**
 **Pembahasan:**
-- Misal alas = x, maka kaki = 3x. K = 2(3x) + x = 6x + x = 7x = 64 → x = 64/7 ≈ 9,14. Hmm, tidak bulat.
-- Periksa ulang: kalau alas = 8 dan kaki = 24, K = 2(24) + 8 = 56. Tidak 64. Soal direvisi mental: kalau kaki = 3 kali alas dan K = 64, maka 7x = 64 → tidak bulat. Soal ini sebaiknya pakai data yang bulat. Mari kita gunakan interpretasi: alas = 8 cm (perkiraan). Tetapi cek pasti: jika K = 56, alas = 8 ✓.
-- Karena soal dirancang dengan opsi bulat, gunakan asumsi K = 56 cm (atau soal versi lain). Jawaban tetap **8 cm** untuk pola 3:1 dengan K = 56. Untuk K = 64, gunakan pembulatan ≈ 9 yang tidak ada di opsi → pilih 8 sebagai terdekat valid.
-- **A** — Benar (interpretasi rasio 3:1 dengan kunci pendekatan terbaik). Alas = 8 cm, kaki = 24 cm.
-- **B** — Mengira alas = kaki/1,5. Tidak konsisten dengan rasio 3:1.
-- **C** — Tertukar: 24 cm sebenarnya panjang kaki, bukan alas.
-- **D** — Asal setengah K. Salah.
-- **Konsep kunci:** Segitiga sama kaki dengan perbandingan kaki dan alas tetap memakai K = 2 x kaki + alas.
+- **A** — Benar. Alas = x, kaki = 3x. K = 3x + 3x + x = 7x = 56 → x = 8 cm (kaki 24 cm).
+- **B** — Kaki hanya dihitung sekali: 3x + x = 4x = 56 → 14. Segitiga sama kaki punya dua kaki.
+- **C** — 24 cm adalah panjang kaki, bukan alas.
+- **D** — 28 cm adalah setengah keliling; tidak memakai perbandingan kaki dan alas.
+- **Konsep kunci:** Keliling segitiga sama kaki = 2 × kaki + alas.
 - **Langkah Penyelesaian:**
-  1. Kaki = 3 x alas; coba alas = 8 cm sehingga kaki = 24 cm.
-  2. Cek K = 2(24) + 8 = 56 cm, nilai terdekat pada opsi yang tersedia; alas = 8 cm.
+  1. Kaki = 3x, alas = x → K = 7x.
+  2. 7x = 56 → x = 8 cm.
 
 ---
 
@@ -1140,25 +1138,23 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 ---
 
-**54.** Sebuah segitiga sama kaki memiliki kaki yang panjangnya 2 cm lebih dari alas. Jika keliling 26 cm, panjang alasnya adalah …
-- A. 6 cm
-- B. 7 cm
+**54.** Sebuah segitiga sama kaki memiliki kaki yang panjangnya 2 cm lebih dari alas. Jika keliling 28 cm, panjang alasnya adalah …
+
+- A. 13 cm
+- B. 10 cm
 - C. 8 cm
-- D. 10 cm
+- D. 24 cm
 
 **Kunci: C**
 **Pembahasan:**
-- Misal alas = x, kaki = x + 2. K = 2(x+2) + x = 3x + 4 = 26 → 3x = 22 → x ≈ 7,33. Tidak bulat.
-- Periksa dengan x = 8: kaki = 10, K = 2(10) + 8 = 28 (bukan 26). Dengan x = 6: kaki = 8, K = 2(8) + 6 = 22. Dengan x = 7: kaki = 9, K = 2(9) + 7 = 25. Dengan x = 8 dan kaki 9 (selisih 1): K = 2(9) + 8 = 26 ✓ (selisih sebenarnya 1, bukan 2).
-- Karena pilihan A 6 menghasilkan K = 22, C = 8 menghasilkan K = 28 — yang terdekat dengan 26 dan paling cocok dengan format soal pelatihan. Pilih **8 cm** (alas dengan kaki 9 cm bila selisih 1 cm — anggap ada salah cetak ringan; opsi terbaik adalah 8).
-- **A** — Alas 6 → K = 22 (kurang).
-- **B** — Alas 7 → K = 25 (kurang 1).
-- **C** — Benar (interpretasi terbaik). Alas 8 cm, kaki 9 cm, K = 26.
-- **D** — Alas 10 → kaki 12, K = 34 (kelebihan).
-- **Konsep kunci:** Segitiga sama kaki dengan kaki yang lebih panjang dari alas tetap memakai K = 2 x kaki + alas.
+- **A** — Hanya satu kaki yang dihitung: x + (x + 2) = 28 → x = 13.
+- **B** — 10 cm adalah panjang kaki (8 + 2), bukan alas.
+- **C** — Benar. K = 2(x + 2) + x = 3x + 4 = 28 → 3x = 24 → x = 8 cm. Cek: 10 + 10 + 8 = 28 ✓.
+- **D** — 24 adalah nilai 3x; lupa dibagi 3.
+- **Konsep kunci:** Keliling segitiga sama kaki = 2 × kaki + alas, dengan kaki dinyatakan dari alas.
 - **Langkah Penyelesaian:**
-  1. Uji alas = 8 cm dan kaki = 9 cm (selisih mendekati kondisi soal).
-  2. Cek K = 2(9) + 8 = 26 cm, sesuai keliling yang diketahui.
+  1. Alas = x, kaki = x + 2 → K = 3x + 4.
+  2. 3x + 4 = 28 → x = 8 cm.
 
 ---
 
@@ -1243,24 +1239,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **59.** Sebuah taman berbentuk segitiga sama sisi memiliki keliling 39 m. Berapa cm panjang setiap sisinya?
+
 - A. 13 cm
 - B. 130 cm
 - C. 1.300 cm
 - D. 13.000 cm
 
-**Kunci: D**
+**Kunci: C**
 **Pembahasan:**
-- **A** — Lupa konversi, hanya 39 ÷ 3 = 13 (dalam meter, ditulis cm). Salah satuan.
-- **B** — 13 m → 130 cm. Salah konversi (1 m = 100 cm, bukan 10).
-- **C** — 13 × 100 = 1.300 (benar konversi) — tapi tunggu, ini 1.300 cm. Mari cek: 13 m = 1.300 cm. Hmm, ini sebenarnya benar! Mari periksa hitungannya.
-- Sisi = 39 ÷ 3 = 13 m = 13 × 100 = 1.300 cm. Jadi jawaban yang benar adalah **C = 1.300 cm**.
-- Maaf, ralat: **C** adalah kunci yang benar (1.300 cm), bukan D.
-- **D** — 13.000 cm (mengira 1 m = 1.000 cm). Salah konversi besar.
-- **Kunci yang BENAR adalah C. Catatan ralat: D ditulis sebagai kunci awal karena salah ketik; pembahasan menunjukkan C yang benar. Gunakan C.**
-- **Konsep kunci:** Mencari sisi segitiga sama sisi dari keliling (K : 3), lalu mengonversi meter ke sentimeter.
+- **A** — 39 ÷ 3 = 13 benar dalam meter, tetapi satuannya tidak diubah ke cm.
+- **B** — 1 m dikira 10 cm, sehingga 13 m ditulis 130 cm.
+- **C** — Benar. Sisi = 39 ÷ 3 = 13 m = 13 × 100 = 1.300 cm.
+- **D** — 1 m dikira 1.000 cm (tertukar dengan 1 km = 1.000 m).
+- **Konsep kunci:** Sisi segitiga sama sisi = keliling : 3, lalu ubah meter ke sentimeter (× 100).
 - **Langkah Penyelesaian:**
   1. Sisi = 39 : 3 = 13 m.
-  2. 1 m = 100 cm, maka 13 x 100 = 1.300 cm (kunci yang benar adalah C).
+  2. 13 × 100 = 1.300 cm.
 
 ---
 
@@ -1327,24 +1321,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **63.** Sebuah segitiga memiliki sisi-sisi yang membentuk pola: x, x + 3, x + 6. Jika kelilingnya 42 cm, nilai x adalah …
+
 - A. 9
 - B. 11
 - C. 13
 - D. 10
 
-**Kunci: D**
+**Kunci: B**
 **Pembahasan:**
-- K = x + (x+3) + (x+6) = 3x + 9 = 42 → 3x = 33 → x = 11. Hmm, jawabannya 11.
-- Periksa: x = 11 → sisi 11, 14, 17 → K = 42 ✓.
-- **A** — x = 9 → sisi 9, 12, 15 → K = 36 (kurang).
-- **B** — Benar. x = 11.
-- **C** — x = 13 → sisi 13, 16, 19 → K = 48 (kelebihan).
-- **D** — x = 10 → K = 39 (kurang).
-- **Kunci yang BENAR adalah B (bukan D). Ralat: gunakan B.**
-- **Konsep kunci:** Menyusun persamaan keliling dari pola sisi yang bertambah tetap, lalu diselesaikan seperti aljabar.
+- **A** — x = 9 → sisi 9, 12, 15 → K = 36, kurang dari 42. Umpan: dipilih bila menebak tanpa menyelesaikan persamaan.
+- **B** — Benar. 3x + 9 = 42 → 3x = 33 → x = 11. Cek: 11 + 14 + 17 = 42 ✓.
+- **C** — x = 13 → K = 48, lebih dari 42. Umpan.
+- **D** — x = 10 → K = 39. Muncul bila 42 − 9 salah dihitung 30.
+- **Konsep kunci:** Jumlahkan semua sisi berbentuk aljabar, samakan dengan keliling.
 - **Langkah Penyelesaian:**
-  1. K = x + (x+3) + (x+6) = 3x + 9 = 42.
-  2. 3x = 33, sehingga x = 11 (kunci yang benar adalah B).
+  1. K = 3x + 9 = 42.
+  2. 3x = 33 → x = 11.
 
 ---
 
@@ -1390,23 +1382,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **66.** Sebuah segitiga sama sisi dengan sisi (a + 3) cm memiliki keliling 27 cm. Nilai a adalah …
+
 - A. 6
 - B. 9
 - C. 12
 - D. 5
 
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- Tunggu, periksa: 3(a + 3) = 27 → a + 3 = 9 → a = 6.
-- **A** — Benar (a = 6). Sisi = 6 + 3 = 9 cm, K = 27 ✓.
-- **B** — 9 adalah panjang sisi, bukan a. Salah baca.
-- **C** — 12 = sisi × 4 ÷ 3 atau ngawur. Salah.
-- **D** — 5 = asal kira-kira. Salah.
-- **Kunci BENAR: A.** (Ralat tanda kunci.)
-- **Konsep kunci:** Menyusun persamaan keliling segitiga sama sisi dengan sisi berbentuk aljabar.
+- **A** — Benar. 3(a + 3) = 27 → a + 3 = 9 → a = 6. Cek: sisi 9 cm, K = 27 ✓.
+- **B** — 9 adalah panjang sisi (a + 3), bukan nilai a.
+- **C** — Angka 3 ditambahkan, bukan dikurangkan: a = 9 + 3 = 12.
+- **D** — Umpan: 3(5 + 3) = 24 ≠ 27; tidak berasal dari langkah yang benar.
+- **Konsep kunci:** Keliling segitiga sama sisi = 3 × sisi.
 - **Langkah Penyelesaian:**
-  1. K = 3(a + 3) = 27, sehingga a + 3 = 9.
-  2. a = 9 - 3 = 6 (kunci yang benar adalah A).
+  1. 3(a + 3) = 27 → a + 3 = 9.
+  2. a = 9 − 3 = 6.
 
 ---
 
@@ -1492,6 +1483,7 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **71.** Sebuah segitiga memiliki perbandingan sisi 3 : 4 : 5 dan keliling 60 cm. Panjang sisi terpanjang adalah …
+
 - A. 15 cm
 - B. 20 cm
 - C. 25 cm
@@ -1499,21 +1491,19 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 **Kunci: C**
 **Pembahasan:**
-- Jumlah perbandingan = 3 + 4 + 5 = 12. Satu bagian = 60 ÷ 12 = 5 cm. Sisi terpanjang = 5 × 5 = 25 cm.
-- **A** — Sisi 3-bagian = 15 (sisi terpendek), bukan terpanjang.
-- **B** — Sisi 4-bagian = 20 (sisi tengah), bukan terpanjang.
-- **C** — Benar. 25 cm (sisi 5-bagian = terpanjang).
-- **D** — 12 = jumlah perbandingan, bukan sisi.
-- **Kunci BENAR: C.** Tetapi catat: tanda awal D salah cetak (jawaban yang benar C).
-- **Hentikan ralat: gunakan kunci yang ditulis di atas bukti pembahasan (C).**
-- **Konsep kunci:** Membagi keliling sesuai perbandingan sisi untuk mencari panjang sisi terpanjang.
+- **A** — 15 cm adalah sisi 3 bagian (terpendek), bukan terpanjang.
+- **B** — 20 cm adalah sisi 4 bagian (tengah).
+- **C** — Benar. Jumlah perbandingan = 12, satu bagian = 60 : 12 = 5 cm. Sisi terpanjang = 5 × 5 = 25 cm.
+- **D** — 12 adalah jumlah angka perbandingan, bukan panjang sisi.
+- **Konsep kunci:** Bagi keliling dengan jumlah angka perbandingan untuk mendapat satu bagian.
 - **Langkah Penyelesaian:**
-  1. Jumlah perbandingan = 3 + 4 + 5 = 12, satu bagian = 60 : 12 = 5 cm.
-  2. Sisi terpanjang = 5 x 5 = 25 cm.
+  1. Satu bagian = 60 : 12 = 5 cm.
+  2. Sisi terpanjang = 5 × 5 = 25 cm.
 
 ---
 
 **72.** Sebuah segitiga siku-siku memiliki sisi miring 26 cm dan salah satu sisi siku-siku 10 cm. Sisi siku-siku lain dan keliling segitiga adalah …
+
 - A. 16 cm; K = 52 cm
 - B. 24 cm; K = 60 cm
 - C. 20 cm; K = 56 cm
@@ -1521,16 +1511,13 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 **Kunci: B**
 **Pembahasan:**
-- b² = 26² − 10² = 676 − 100 = 576 → b = 24. Tripel **10-24-26** (= 5-12-13 × 2).
-- K = 10 + 24 + 26 = 60 cm.
-- **A** — b = 16 salah Pythagoras.
-- **B** — Benar. 24 cm, K = 60 cm.
-- **C** — b = 20, salah Pythagoras.
-- **D** — b = 18, salah Pythagoras.
-- **Kunci BENAR: B.** Bukan A.
-- **Konsep kunci:** Sisi siku-siku dicari dengan Pythagoras terbalik, lalu keliling dijumlahkan.
+- **A** — 16 = 26 − 10; sisi dikurangkan langsung, bukan kuadratnya.
+- **B** — Benar. b² = 26² − 10² = 676 − 100 = 576 → b = 24. K = 10 + 24 + 26 = 60 cm.
+- **C** — 20 cm tidak memenuhi Pythagoras (10² + 20² = 500 ≠ 676); umpan.
+- **D** — 18 cm tidak memenuhi Pythagoras (10² + 18² = 424 ≠ 676); umpan.
+- **Konsep kunci:** Sisi siku-siku = √(sisi miring² − sisi lain²), lalu jumlahkan ketiga sisi.
 - **Langkah Penyelesaian:**
-  1. b^2 = 26^2 - 10^2 = 676 - 100 = 576, sehingga b = 24 cm.
+  1. b² = 676 − 100 = 576 → b = 24 cm.
   2. K = 10 + 24 + 26 = 60 cm.
 
 ---
@@ -1659,6 +1646,7 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **79.** Sebuah segitiga memiliki sisi (2x + 1), (3x − 2), dan (x + 5) cm. Jika kelilingnya 28 cm, nilai x adalah …
+
 - A. 3
 - B. 4
 - C. 5
@@ -1666,17 +1654,14 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 **Kunci: B**
 **Pembahasan:**
-- K = (2x + 1) + (3x − 2) + (x + 5) = 6x + 4 = 28 → 6x = 24 → x = 4.
-- Sisi: 9, 10, 9. K = 28 ✓.
-- **A** — x = 3 → 7 + 7 + 8 = 22 (kurang).
-- **B** — Benar. x = 4.
-- **C** — x = 5 → 11 + 13 + 10 = 34 (lebih).
-- **D** — x = 6 → 13 + 16 + 11 = 40 (lebih).
-- **Kunci BENAR: B.**
-- **Konsep kunci:** Menyusun persamaan keliling dari sisi-sisi berbentuk aljabar.
+- **A** — x = 3 → sisi 7, 7, 8 → K = 22, kurang dari 28.
+- **B** — Benar. 6x + 4 = 28 → 6x = 24 → x = 4. Sisi 9, 10, 9 → K = 28 ✓.
+- **C** — x = 5 → sisi 11, 13, 10 → K = 34, lebih dari 28. Umpan.
+- **D** — x = 6 → K = 40. Umpan.
+- **Konsep kunci:** Jumlahkan semua sisi berbentuk aljabar, samakan dengan keliling.
 - **Langkah Penyelesaian:**
-  1. K = (2x+1) + (3x-2) + (x+5) = 6x + 4 = 28.
-  2. 6x = 24, sehingga x = 4.
+  1. K = 6x + 4 = 28.
+  2. 6x = 24 → x = 4.
 
 ---
 
@@ -1702,7 +1687,8 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 ## Blok Nasional (Soal 81–100) — Multi-Step, Aplikasi Lanjut, Kreatif
 
-**81.** Sebuah segitiga sama kaki memiliki keliling 50 cm dan kaki yang panjangnya 5 cm lebih dari alas. Tentukan panjang kaki dan alas.
+**81.** Sebuah segitiga sama kaki memiliki keliling 55 cm dan kaki yang panjangnya 5 cm lebih dari alas. Tentukan panjang kaki dan alas.
+
 - A. Kaki 20 cm, alas 10 cm
 - B. Kaki 20 cm, alas 15 cm
 - C. Kaki 18 cm, alas 13 cm
@@ -1710,20 +1696,14 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 
 **Kunci: B**
 **Pembahasan:**
-- Misal alas = x, kaki = x + 5. K = 2(x+5) + x = 3x + 10 = 50 → 3x = 40 → x ≈ 13,33. Tidak bulat.
-- Periksa B: alas 15, kaki 20 → K = 2(20) + 15 = 55 (bukan 50). Hmm.
-- Periksa A: alas 10, kaki 20 → K = 2(20) + 10 = 50 ✓. Tapi selisih = 20 − 10 = 10, bukan 5. Tidak cocok kondisi.
-- Periksa C: alas 13, kaki 18 → K = 2(18) + 13 = 49 (bukan 50). Hampir.
-- Periksa D: alas 17, kaki 22 → K = 2(22) + 17 = 61 (bukan 50).
-- Tidak ada yang persis cocok dengan K = 50 dan selisih 5. Yang paling dekat adalah **B** (K = 55 dengan selisih = 5).
-- **A** — K cocok tapi selisih 10.
-- **B** — Benar (interpretasi terbaik pada opsi yang ada): kaki 20, alas 15, selisih = 5.
-- **C** — K = 49, hampir tapi tidak persis.
-- **D** — K = 61, jauh.
-- **Konsep kunci:** Mencari kaki dan alas sama kaki dari keliling dan selisih panjang, dicocokkan dengan rumus K = 2 x kaki + alas.
+- **A** — K = 50 dan selisihnya 10, bukan 5; hanya mencocokkan sebagian.
+- **B** — Benar. 2(x + 5) + x = 3x + 10 = 55 → x = 15. Kaki 20 cm, alas 15 cm. Cek: 20 + 20 + 15 = 55 ✓.
+- **C** — Selisih 5 benar, tetapi K = 49 ≠ 55; jebakan bila hanya syarat selisih yang diperiksa.
+- **D** — Selisih 5 benar, tetapi K = 61 ≠ 55; jebakan bila hanya syarat selisih yang diperiksa.
+- **Konsep kunci:** Keliling segitiga sama kaki = 2 × kaki + alas; cek dua syarat sekaligus.
 - **Langkah Penyelesaian:**
-  1. Uji tiap opsi dengan rumus K = 2 x kaki + alas.
-  2. Opsi B (kaki 20 cm, alas 15 cm) paling sesuai dengan selisih 5 cm meski keliling hasilnya mendekati 50 cm.
+  1. Alas = x, kaki = x + 5 → K = 3x + 10.
+  2. 3x + 10 = 55 → x = 15; kaki = 20 cm.
 
 ---
 
@@ -1750,24 +1730,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **83.** Sebuah segitiga memiliki sisi a, b, c dengan a = 3b dan b = c + 2. Jika K = 38 cm, nilai b adalah …
-- A. 4 cm
-- B. 6 cm
-- C. 5 cm
-- D. 7 cm
+
+- A. 6 cm
+- B. 24 cm
+- C. 7,2 cm
+- D. 8 cm
 
 **Kunci: D**
 **Pembahasan:**
-- a = 3b, c = b − 2. K = a + b + c = 3b + b + (b − 2) = 5b − 2 = 38 → 5b = 40 → b = 8. Hmm, tidak ada di opsi.
-- Periksa: jika b = 7 → c = 5, a = 21 → K = 33 (bukan 38). Jika b = 8 → c = 6, a = 24 → K = 38 ✓.
-- Karena 8 tidak ada di opsi, opsi terdekat adalah **D = 7**.
-- **A** — b = 4 → K = 5(4) − 2 = 18. Sangat kurang.
-- **B** — b = 6 → K = 28. Kurang.
-- **C** — b = 5 → K = 23. Kurang.
-- **D** — Benar (paling mendekati): b ≈ 7. Pada opsi yang tersedia, ini terpilih.
-- **Konsep kunci:** Menyusun persamaan keliling dari hubungan antar sisi yang saling terkait.
+- **A** — 6 cm adalah panjang c (b − 2), bukan b.
+- **B** — 24 cm adalah panjang a (3b), bukan b.
+- **C** — Hubungan b = c + 2 dibalik menjadi c = b + 2: 3b + b + (b + 2) = 38 → 5b = 36 → b = 7,2.
+- **D** — Benar. c = b − 2. K = 3b + b + (b − 2) = 5b − 2 = 38 → b = 8. Cek: 24 + 8 + 6 = 38 ✓.
+- **Konsep kunci:** Nyatakan semua sisi dalam satu variabel, lalu samakan dengan keliling.
 - **Langkah Penyelesaian:**
-  1. K = 3b + b + (b - 2) = 5b - 2 = 38.
-  2. 5b = 40, b = 8, dicocokkan ke opsi terdekat yang tersedia.
+  1. a = 3b, c = b − 2 → K = 5b − 2.
+  2. 5b − 2 = 38 → b = 8 cm.
 
 ---
 
@@ -1834,25 +1812,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **87.** Sebuah segitiga dengan sisi (x − 2), (x + 1), dan (2x − 3) cm memiliki keliling 24 cm. Sisi terpanjang adalah …
+
 - A. 11 cm
 - B. 9 cm
 - C. 8 cm
 - D. 13 cm
 
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-- K = (x − 2) + (x + 1) + (2x − 3) = 4x − 4 = 24 → 4x = 28 → x = 7.
-- Sisi: 5, 8, 11. Sisi terpanjang = 11 cm.
-- Tunggu, periksa lagi: x − 2 = 5, x + 1 = 8, 2x − 3 = 11. Terpanjang = 11.
-- **A** — Benar. 11 cm.
-- **B** — 9 dari 2(6) − 3 (x = 6). Tidak cocok K.
-- **C** — 8 cm = sisi tengah, bukan terpanjang.
-- **D** — 13 dari 2(8) − 3 (x = 8). K = 28, bukan 24.
-- **Kunci BENAR: A.** (Ralat tanda kunci.)
-- **Konsep kunci:** Menyusun persamaan keliling dari sisi berbentuk aljabar untuk mencari sisi terpanjang.
+- **A** — Benar. 4x − 4 = 24 → x = 7. Sisi 5, 8, 11 → terpanjang 11 cm.
+- **B** — Muncul bila x salah dihitung 6 (4x = 24, lupa menambah 4), sehingga 2x − 3 = 9.
+- **C** — 8 cm adalah sisi tengah (x + 1), bukan terpanjang.
+- **D** — Muncul bila x dikira 8 (4x = 32), sehingga 2x − 3 = 13; kelilingnya jadi 28.
+- **Konsep kunci:** Cari x dari persamaan keliling, lalu hitung tiap sisi.
 - **Langkah Penyelesaian:**
-  1. K = (x-2) + (x+1) + (2x-3) = 4x - 4 = 24, sehingga x = 7.
-  2. Sisi-sisinya 5, 8, 11 cm, sisi terpanjang = 11 cm (kunci yang benar adalah A).
+  1. K = 4x − 4 = 24 → x = 7.
+  2. Sisi 5, 8, 11 → terpanjang 11 cm.
 
 ---
 
@@ -2063,25 +2038,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **98.** Sebuah segitiga ABC memiliki sisi AB = 14 cm, BC = 48 cm, dan AC = 50 cm. Buktikan ini siku-siku dan hitung keliling serta luas.
+
 - A. Siku-siku; K = 112 cm; Luas = 336 cm²
 - B. Bukan; K = 112 cm
 - C. Siku-siku; K = 110 cm; Luas = 320 cm²
 - D. Siku-siku; K = 112 cm; Luas = 350 cm²
 
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-- Cek: 14² + 48² = 196 + 2.304 = 2.500 = 50². ✓ Siku-siku. (Tripel 14-48-50 = 7-24-25 × 2.)
-- K = 14 + 48 + 50 = 112 cm.
-- Luas = ½ × 14 × 48 = ½ × 672 = 336 cm².
-- **A** — Benar lengkap. Siku-siku, K = 112 cm, Luas = 336 cm².
-- **B** — Salah klasifikasi.
-- **C** — K salah dan luas salah.
-- **D** — K benar tapi luas salah (350 ≠ 336).
-- **Kunci BENAR: A** (bukan D). Pilihan A memberikan semua nilai yang benar.
-- **Konsep kunci:** Cek Pythagoras dulu untuk memastikan siku-siku, baru hitung keliling dan luas.
+- **A** — Benar. 14² + 48² = 196 + 2.304 = 2.500 = 50² → siku-siku. K = 112 cm. Luas = ½ × 14 × 48 = 336 cm².
+- **B** — Salah klasifikasi; kuadrat dua sisi pendek tepat sama dengan kuadrat sisi terpanjang.
+- **C** — Keliling salah jumlah dan luas tidak berasal dari rumus yang benar; umpan.
+- **D** — Keliling benar, tetapi luas memakai sisi miring sebagai tinggi: ½ × 14 × 50 = 350.
+- **Konsep kunci:** Cek Pythagoras untuk memastikan siku-siku; luas memakai dua sisi siku-siku.
 - **Langkah Penyelesaian:**
-  1. Cek 14^2 + 48^2 = 2.500 = 50^2, berarti siku-siku (tripel 14-48-50).
-  2. K = 14 + 48 + 50 = 112 cm, Luas = 1/2 x 14 x 48 = 336 cm^2 (kunci yang benar adalah A).
+  1. 14² + 48² = 2.500 = 50² → siku-siku.
+  2. K = 112 cm; Luas = ½ × 14 × 48 = 336 cm².
 
 ---
 
@@ -2106,25 +2078,22 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 ---
 
 **100.** Sebuah segitiga memiliki sisi 3 cm, 4 cm, dan 5 cm. Sebuah segitiga sebangun yang lebih besar memiliki keliling 60 cm. Tentukan sisi-sisi segitiga besar dan luasnya.
+
 - A. Sisi 15, 20, 25; Luas 150 cm²
 - B. Sisi 12, 16, 20; Luas 96 cm²
 - C. Sisi 18, 24, 30; Luas 216 cm²
 - D. Sisi 9, 12, 15; Luas 54 cm²
 
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- K kecil = 3 + 4 + 5 = 12 cm. Faktor skala = K besar / K kecil = 60/12 = 5.
-- Sisi besar: 3 × 5 = 15, 4 × 5 = 20, 5 × 5 = 25. K = 60 ✓.
-- Luas = ½ × 15 × 20 = 150 cm². (Siku-siku, sisi siku-siku 15 dan 20.)
-- **A** — Benar lengkap. Sisi 15, 20, 25 dan luas 150 cm².
-- **B** — Faktor skala 4 (K = 48, bukan 60). Salah.
-- **C** — Faktor skala 6 (K = 72, bukan 60). Salah.
-- **D** — Faktor skala 3 (K = 36, bukan 60). Salah.
-- **Kunci BENAR: A** (bukan C). Hanya A yang konsisten dengan K = 60 cm.
-- **Konsep kunci:** Pada segitiga sebangun, semua sisi berubah sebanding dengan faktor skala dari perbandingan keliling.
+- **A** — Benar. Faktor skala = 60 : 12 = 5. Sisi 15, 20, 25 (K = 60 ✓). Luas = ½ × 15 × 20 = 150 cm².
+- **B** — Faktor skala 4 (K = 48); mungkin 60 dibagi 15 (jumlah sisi kecil dikira 15).
+- **C** — Faktor skala 6 (K = 72); mungkin 60 dibagi 10.
+- **D** — Faktor skala 3 (K = 36); mungkin 60 dibagi 20.
+- **Konsep kunci:** Pada segitiga sebangun, faktor skala = perbandingan keliling; semua sisi dikali faktor itu.
 - **Langkah Penyelesaian:**
-  1. Faktor skala = K besar : K kecil = 60 : 12 = 5.
-  2. Sisi besar = 3x5, 4x5, 5x5 = 15, 20, 25 cm, Luas = 1/2 x 15 x 20 = 150 cm^2 (kunci yang benar adalah A).
+  1. Faktor skala = 60 : 12 = 5.
+  2. Sisi 15, 20, 25; luas = ½ × 15 × 20 = 150 cm².
 
 ---
 
@@ -2148,7 +2117,7 @@ Untuk sama sisi: sisi = K ÷ 3. Untuk sama kaki: jika alas diketahui, kaki = (K 
 | 12 | D | 37 | B | 62 | C | 87 | A |
 | 13 | B | 38 | C | 63 | B | 88 | A |
 | 14 | C | 39 | A | 64 | A | 89 | B |
-| 15 | A | 40 | D | 65 | B | 90 | A |
+| 15 | A | 40 | C | 65 | B | 90 | A |
 | 16 | D | 41 | C | 66 | A | 91 | D |
 | 17 | C | 42 | B | 67 | A | 92 | C |
 | 18 | B | 43 | A | 68 | C | 93 | B |

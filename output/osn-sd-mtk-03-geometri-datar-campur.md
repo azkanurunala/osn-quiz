@@ -556,13 +556,17 @@ D. Lurus
 Sebuah lingkaran memiliki jari-jari 14 cm. Berapa kelilingnya? (π = 22/7)
 
 A. 44 cm
-B. 66 cm
+B. 616 cm
 C. 88 cm
-D. 154 cm
+D. 28 cm
 
 **Jawaban: C. 88 cm**
 
-**Pembahasan:** K = 2 × π × r = 2 × (22/7) × 14 = 2 × 22 × 2 = **88 cm**. Opsi A (44) adalah π × r (salah). Opsi B (66) salah hitung. Opsi D (154) adalah luas lingkaran ((22/7)×196/2 ≈ 308... wait), sebenarnya keliling × 7/4 atau salah pakai rumus.
+**Pembahasan:**
+- **A** — 44 = π × r; lupa dikali 2.
+- **B** — 616 = π × r², itu rumus luas, bukan keliling.
+- **C** — Benar. K = 2 × π × r = 2 × 22/7 × 14 = **88 cm**.
+- **D** — 28 = diameter (2 × r); lupa dikali π.
 
 ---
 
@@ -743,7 +747,11 @@ D. 1.764 cm²
 
 **Jawaban: C. 1.386 cm²**
 
-**Pembahasan:** L = π × r² = (22/7) × 21² = (22/7) × 441 = 22 × 63 = **1.386 cm²**. Hitung ulang: 22 × 63 = 22 × 60 + 22 × 3 = 1320 + 66 = 1386. Opsi A (66) adalah 2πr/2. Opsi B (132) adalah keliling lingkaran r=21. Opsi D (1764) salah hitung 42 × 42.
+**Pembahasan:**
+- **A** — 66 = π × r; jari-jari tidak dikuadratkan.
+- **B** — 132 = 2 × π × r, itu keliling, bukan luas.
+- **C** — Benar. L = π × r² = 22/7 × 441 = 22 × 63 = **1.386 cm²**.
+- **D** — 1.764 = 42²; diameter dikuadratkan tanpa dikali π.
 
 ---
 
@@ -1440,13 +1448,17 @@ D. 200 cm²
 Sebuah bangun berbentuk gabungan: persegi panjang 14 cm × 7 cm dengan setengah lingkaran berdiameter 7 cm menempel di **dua** sisi pendek (di luar persegi panjang). Berapa luas total bangun tersebut? (π = 22/7)
 
 A. 98 cm²
-B. 116,5 cm²
-C. 137,5 cm²
-D. 196 cm²
+B. 117,25 cm²
+C. 136,5 cm²
+D. 252 cm²
 
-**Jawaban: C. 137,5 cm²**
+**Jawaban: C. 136,5 cm²**
 
-**Pembahasan:** Luas persegi panjang = 14 × 7 = 98 cm². Dua setengah lingkaran berdiameter 7 = satu lingkaran utuh r = 3,5. Luas lingkaran = (22/7) × 3,5² = (22/7) × 12,25 = 22 × 1,75 = 38,5 cm². Total = 98 + 38,5 = **136,5 cm²** ≈ 137 cm². Hmm, sesungguhnya 98 + 38,5 = 136,5; opsi C (137,5) tidak tepat. Mari hitung ulang: (22/7) × 12,25 = (22 × 12,25)/7 = 269,5/7 = 38,5. Jadi 98 + 38,5 = 136,5. Yang terdekat: tidak ada 136,5; namun dengan pendekatan, jawaban C yang dimaksud adalah 137 (pembulatan dari 136,5). Pilihan benar **C** dengan catatan pembulatan.
+**Pembahasan:**
+- **A** — 98 = persegi panjang saja; kedua setengah lingkaran terlupa.
+- **B** — Hanya satu setengah lingkaran yang ditambahkan (98 + 19,25).
+- **C** — Benar. Persegi panjang = 98. Dua setengah lingkaran (r = 3,5) = satu lingkaran = 22/7 × 12,25 = 38,5. Total = **136,5 cm²**.
+- **D** — Diameter 7 dipakai sebagai jari-jari (luas lingkaran 154): 98 + 154.
 
 ---
 
@@ -1634,13 +1646,17 @@ D. 98 cm²
 Sebuah trapesium siku-siku memiliki sisi sejajar 12 cm dan 20 cm. Tinggi trapesium = 6 cm. Salah satu sisi miring sejajar dengan tinggi (yaitu sisi tegak lurus). Berapa keliling trapesium? (gunakan teorema Pythagoras untuk sisi miring lain)
 
 A. 48 cm
-B. 50 cm
-C. 56 cm
-D. 60 cm
+B. 46 cm
+C. 52 cm
+D. 42 cm
 
-**Jawaban: B. 50 cm**
+**Jawaban: A. 48 cm**
 
-**Pembahasan:** Dua sisi sejajar = 12 dan 20 cm. Sisi tegak lurus (tinggi) = 6 cm. Sisi miring lain: selisih sisi sejajar = 20 − 12 = 8 cm; tinggi = 6 cm. Sisi miring = √(8² + 6²) = √(64 + 36) = √100 = 10 cm. Keliling = 12 + 20 + 6 + 10 = 48 cm. Hmm, hasil 48; mari periksa. Sebenarnya jawaban yang benar adalah **A. 48 cm**. Hitung: 12 + 20 + 6 + 10 = 48 cm. Jawaban benar: **A. 48 cm**.
+**Pembahasan:**
+- **A** — Benar. Selisih sisi sejajar = 8 cm, tinggi 6 cm → sisi miring = √(64 + 36) = 10 cm. Keliling = 12 + 20 + 6 + 10 = **48 cm**.
+- **B** — Sisi miring dikira sama dengan selisih sisi sejajar (8 cm), tanpa Pythagoras.
+- **C** — Sisi miring dikira 8 + 6 = 14 cm (dijumlahkan, bukan Pythagoras).
+- **D** — Sisi tegak 6 cm terlupa (12 + 20 + 10).
 
 ---
 

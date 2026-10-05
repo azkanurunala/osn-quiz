@@ -164,48 +164,37 @@ Bilangan asli N memenuhi: N memiliki tepat 6 faktor (termasuk 1 dan N), faktoris
 **(2) Pilihan Jawaban:**
 
 A. 30
-B. 42
-C. 50
-D. 60
+B. 54
+C. 66
+D. 62
 
-**(3) Jawaban:** **B. 42**
+**(3) Jawaban:** **A. 30**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Banyak faktor dari faktorisasi prima (jika N = pᵃ × qᵇ maka jumlah faktor = (a+1)(b+1))
+- **Konsep yang diuji:** Banyak faktor dari faktorisasi prima (N = pᵃ × qᵇ → banyak faktor = (a + 1)(b + 1)).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 30** — Salah. Hasil jika hanya hitung 12 + 18 = 30, melewatkan kandidat lain.
-  - **B. 42** — Benar. Kandidat N < 50 dengan tepat 6 faktor dan hanya prima 2 & 3 adalah 12 dan 18. 18 = 2 × 3² (faktor: 1,2,3,6,9,18 → 6), 12 = 2² × 3 (faktor: 1,2,3,4,6,12 → 6). Tidak ada lagi <50 (2² × 3² = 36 punya 9 faktor; 2⁵ = 32 hanya prima satu jenis; 3⁵ = 243 > 50). Jumlah = 12 + 18 = **30**? — Tunggu, cek ulang: 12+18 = 30. Mari periksa lagi: ada juga 2¹ × 3² = 18 (6 faktor) dan 2² × 3 = 12 (6 faktor). Kandidat valid: {12, 18}. Jumlah = 30.
-
-  Koreksi: jawaban benar adalah **A. 30**. Mari rumuskan ulang.
-
-  - **A. 30** — Benar. Kandidat: 12 (= 2²×3, faktor: 6) dan 18 (= 2×3², faktor: 6). Jumlah = 12 + 18 = 30.
-  - **B. 42** — Salah. Muncul jika siswa salah menyertakan 24 = 2³×3 (yang punya 8 faktor, BUKAN 6).
-  - **C. 50** — Salah. Muncul jika siswa salah menyertakan 36 = 2²×3² (yang punya 9 faktor, BUKAN 6).
-  - **D. 60** — Salah. Total jika menyertakan banyak kandidat tidak valid sekaligus.
-
-  **(3) Jawaban yang benar:** **A. 30**
+  - **A. 30** — Benar. N = 2ᵃ × 3ᵇ dengan a, b ≥ 1 dan (a + 1)(b + 1) = 6 → (a, b) = (2, 1) atau (1, 2) → N = 12 atau 18. Jumlah = 30.
+  - **B. 54** — Salah. Ikut menyertakan 24 = 2³ × 3, padahal 24 punya (3 + 1)(1 + 1) = 8 faktor.
+  - **C. 66** — Salah. Ikut menyertakan 36 = 2² × 3², padahal 36 punya 9 faktor.
+  - **D. 62** — Salah. Ikut menyertakan 32 = 2⁵; memang punya 6 faktor, tetapi hanya memakai prima 2, padahal syaratnya memakai 2 dan 3.
 
 - **Langkah Penyelesaian:**
-  1. Jika N = 2ᵃ × 3ᵇ, jumlah faktor = (a+1)(b+1) = 6.
-  2. Faktorisasi 6 = 6×1 atau 2×3 → (a+1, b+1) = (6,1) atau (2,3) atau (3,2) atau (1,6).
-  3. Karena syarat **dua prima berbeda** (a ≥ 1 dan b ≥ 1), kasus (6,1) dan (1,6) ditolak.
-  4. Kasus (a,b) = (1,2): N = 2 × 9 = 18. Kasus (a,b) = (2,1): N = 4 × 3 = 12.
-  5. Cek <50: 12 ✓ dan 18 ✓. Jumlah = **30**.
+  1. (a + 1)(b + 1) = 6 dengan a, b ≥ 1 → (2, 3) atau (3, 2).
+  2. (a, b) = (1, 2) → 18; (2, 1) → 12. Keduanya < 50.
+  3. Jumlah = 12 + 18 = 30.
 
-- **Hasil akhir:** **30** (kandidat: 12 dan 18).
+- **Hasil akhir:** **30** (kandidat 12 dan 18).
 
-- **💭 Tips:** Rumus jumlah faktor: jika N = p₁^a₁ × p₂^a₂ × ... maka banyak faktor = (a₁+1)(a₂+1)…. Faktorisasi 6 sebagai produk = {1×6, 2×3} → ini pegangan untuk soal "N punya 6 faktor".
-
-> **Catatan editor:** Jawaban benar untuk Soal 4 adalah **A. 30** (kandidat 12 dan 18, jumlah = 30).
+- **💭 Tips:** Banyak faktor = hasil kali (pangkat + 1). Uraikan 6 = 2 × 3 untuk menemukan pasangan pangkatnya.
 
 ---
 
 ### Soal 5 · MTK-01 · Akar Kuadrat & Kubik · Nasional
 
 **(1) Soal:**
-Diketahui √(N+5) + ∛(N−2) = 7. Jika N bilangan asli kurang dari 100, berapakah nilai N?
+Diketahui √(N − 4) + ∛(N − 2) = 8. Jika N bilangan asli kurang dari 100, berapakah nilai N?
 
 **(2) Pilihan Jawaban:**
 
@@ -218,75 +207,22 @@ D. 30
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Bilangan kuadrat sempurna + bilangan kubik sempurna + sistem persamaan sederhana
+- **Konsep yang diuji:** Kuadrat sempurna dan kubik sempurna, substitusi dan pengecekan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 11** — Salah. Cek: √16 + ∛9 = 4 + (≈2,08) ≠ 7. ∛9 bukan bilangan bulat.
-  - **B. 20** — Salah. Cek: √25 + ∛18 = 5 + (≈2,62) ≠ 7. ∛18 bukan bulat.
-  - **C. 29** — Benar. Cek: √34 — bukan! Hitung ulang: √(29+5) = √34… tidak rapi.
+  - **A. 11** — Salah. Mengira ∛(N − 2) = 3 berarti N − 2 = 3² = 9; padahal akar pangkat tiga berarti N − 2 = 3³ = 27.
+  - **B. 20** — Salah. Hanya membuat √(N − 4) = 4 bulat; bagian kubik ∛18 tidak bulat dan jumlahnya bukan 8.
+  - **C. 29** — Benar. √(29 − 4) + ∛(29 − 2) = √25 + ∛27 = 5 + 3 = 8.
+  - **D. 30** — Salah. Dari N − 2 = 27, tanda dibalik menjadi N = 27 + 3; seharusnya N = 27 + 2 = 29.
 
-  Mari setel ulang: kita cari N agar √(N+5) dan ∛(N−2) keduanya bulat (agar jumlah persis 7).
-  - Kuadrat sempurna: N+5 ∈ {1, 4, 9, 16, 25, 36, 49, 64, 81, 100}.
-  - Kubik sempurna: N−2 ∈ {1, 8, 27, 64}.
-  - Cari N yang memenuhi keduanya dengan √(N+5) + ∛(N−2) = 7.
-  - Coba N−2 = 27 → N = 29 → N+5 = 34, BUKAN kuadrat sempurna. ✗
-  - Coba N−2 = 8 → N = 10 → N+5 = 15, BUKAN kuadrat. ✗
-  - Coba N−2 = 1 → N = 3 → N+5 = 8, BUKAN kuadrat. ✗
-  - Coba N−2 = 64 → N = 66 → N+5 = 71, BUKAN kuadrat. ✗
+- **Langkah Penyelesaian:**
+  1. Cari N sehingga N − 4 kuadrat sempurna dan N − 2 kubik sempurna.
+  2. N − 2 = 27 → N = 29; N − 4 = 25 = 5² ✓.
+  3. 5 + 3 = 8 ✓.
 
-  Hmm, tidak ada yang cocok. Mari koreksi soal: ubah persamaannya menjadi √(N+15) + ∛(N+2) = 7.
-  - N+2 = 27 → N = 25 → N+15 = 40, bukan kuadrat. ✗
+- **Hasil akhir:** **N = 29**.
 
-  Mari koreksi langsung: pakai N agar √(N+5) = 5 dan ∛(N−2) = 2, jumlah = 7.
-  - √(N+5) = 5 → N+5 = 25 → N = 20.
-  - Cek: ∛(20−2) = ∛18 ≠ 2.
-
-  Pakai N = 29: √(29+5) = √34 (≈5,83), ∛(29−2) = ∛27 = 3. Jumlah ≈ 8,83 ≠ 7.
-
-  Mari coba kondisi: √(N+5) = 4 dan ∛(N−2) = 3 → N+5 = 16 → N = 11; N−2 = 27 → N = 29. Tidak konsisten.
-
-  Koreksi: gunakan persamaan **√(N+7) + ∛(N+5) = 8** dengan N = 9: √16 + ∛14 → tidak bulat.
-
-  **Versi soal yang dipakai (final):** ganti soal menjadi: "Bilangan N bilangan asli sehingga N+5 adalah kuadrat sempurna dan N−2 adalah kubik sempurna, dengan N kurang dari 50. Berapa nilai N?"
-  - N−2 ∈ {1, 8, 27} → N ∈ {3, 10, 29}.
-  - Cek N+5: 8 (bukan), 15 (bukan), 34 (bukan). Tidak ada.
-  - Coba N−2 = 0 (jika diperbolehkan) → N = 2, N+5 = 7 (bukan).
-
-  **Pemecahan sederhana — soal direvisi:**
-  Soal aslinya kita ganti menjadi: "Diketahui √(N+15) + ∛(N+27) = 11. Berapa N (N bilangan asli)?"
-  - Coba ∛(N+27) = 3 → N+27 = 27 → N = 0 (tidak asli). Coba ∛(N+27) = 4 → N = 37; √52 ≠ 7.
-  - Coba ∛(N+27) = 5 → N = 98; √113 ≠ 6.
-
-  **Final — soal direvisi ke bentuk standar:**
-
-  > **(1) Soal (revisi):** Diketahui √(N−4) = 5 dan ∛(N+10) = ∛39. Salah satu pernyataan tentang N: N = 29. Berapa nilai N?
-
-  Karena revisi ini memakan tempat, **kita ganti soal 5 dengan versi yang clean:**
-
-  > **(1) Soal (versi final):** Berapakah nilai dari √169 + ∛216 − √(81)?
-  >
-  > **(2) Pilihan Jawaban:** A. 8 · B. 10 · C. 12 · D. 14
-  >
-  > **(3) Jawaban:** **B. 10**
-  >
-  > **(4) Pembahasan:** √169 = 13, ∛216 = 6, √81 = 9. Hasil = 13 + 6 − 9 = **10**.
-
-  - **A. 8** — Salah. Jika siswa hitung √169 = 13 lalu lupa tambah ∛216.
-  - **B. 10** — Benar. 13 + 6 − 9 = 10.
-  - **C. 12** — Salah. Hasil dari 13 + 9 − 10, salah substitusi.
-  - **D. 14** — Salah. Hasil 13 + 6 − 5, salah hitung √81 = 5.
-
-- **Langkah Penyelesaian (versi final):**
-  1. √169: cari bilangan yang dikuadratkan = 169 → 13.
-  2. ∛216: cari bilangan yang dipangkatkan tiga = 216 → 6 (karena 6³ = 216).
-  3. √81: cari bilangan yang dikuadratkan = 81 → 9.
-  4. 13 + 6 − 9 = **10**.
-
-- **Hasil akhir:** **10**.
-
-- **💭 Tips:** Hafalkan kuadrat sempurna sampai 20² (= 400) dan kubik sempurna 1–10 (1, 8, 27, 64, 125, 216, 343, 512, 729, 1000). Soal akar di OSN biasanya angka rapi — kalau hasil tidak bulat, kemungkinan salah operasi.
-
-> **Catatan editor:** Versi soal 5 yang berlaku adalah versi final di atas (√169 + ∛216 − √81 = 10), jawaban **B. 10**.
+- **💭 Tips:** Hafalkan kuadrat sampai 20² dan kubik 1³–10³; soal akar OSN biasanya memakai angka sempurna.
 
 ---
 
@@ -372,42 +308,30 @@ Jumlah dari semua bilangan kuadrat sempurna yang lebih besar dari 50 dan kurang 
 **(2) Pilihan Jawaban:**
 
 A. 615
-B. 819
+B. 728
 C. 875
-D. 920
+D. 1.100
 
-**(3) Jawaban:** **B. 819**
+**(3) Jawaban:** **C. 875**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Bilangan kuadrat sempurna + identifikasi rentang
+- **Konsep yang diuji:** Bilangan kuadrat sempurna dalam suatu rentang.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 615** — Salah. Hasil jika siswa melewatkan 64 (8²) atau salah sertakan 49 (yang ≤ 50).
-  - **B. 819** — Benar. Kuadrat dalam rentang (50, 200): 64, 81, 100, 121, 144, 169, 196. Jumlah = 64+81+100+121+144+169+196 = 875.
-
-  Tunggu, mari hitung ulang: 64+81 = 145; 145+100 = 245; 245+121 = 366; 366+144 = 510; 510+169 = 679; 679+196 = **875**.
-
-  Jadi jawaban benar = **C. 875**, bukan B. Mari perbaiki.
-
-  - **A. 615** — Salah. Hasil jika melewatkan 196 dan beberapa angka. Distraktor umpan.
-  - **B. 819** — Salah. Hasil jika lupa 196 atau salah hitung penjumlahan (mis. 875 − 56).
+  - **A. 615** — Salah. Kedua ujung (64 dan 196) terlewat: 875 − 64 − 196.
+  - **B. 728** — Salah. 49 ikut dimasukkan (padahal 49 < 50) dan 196 terlewat.
   - **C. 875** — Benar. 64 + 81 + 100 + 121 + 144 + 169 + 196 = 875.
-  - **D. 920** — Salah. Hasil jika siswa menyertakan 225 (= 15²) yang lebih dari 200.
-
-  **(3) Jawaban (revisi):** **C. 875**
+  - **D. 1.100** — Salah. 225 = 15² ikut dimasukkan, padahal 225 > 200.
 
 - **Langkah Penyelesaian:**
-  1. Cari N² yang memenuhi 50 < N² < 200.
-  2. Karena √50 ≈ 7,07 dan √200 ≈ 14,14, maka N ∈ {8, 9, 10, 11, 12, 13, 14}.
-  3. Kuadrat masing-masing: 64, 81, 100, 121, 144, 169, 196.
-  4. Jumlah = 64+81+100+121+144+169+196 = **875**.
+  1. 50 < N² < 200 → N = 8, 9, …, 14.
+  2. Kuadratnya: 64, 81, 100, 121, 144, 169, 196.
+  3. Jumlah = 875.
 
 - **Hasil akhir:** **875**.
 
-- **💭 Tips:** Untuk soal "kuadrat dalam rentang", cari batas N dengan akar kuadrat batas atas/bawah, lalu daftar dan jumlahkan. Hafalan kuadrat 1²–20² sangat menghemat waktu.
-
-> **Catatan editor:** Jawaban benar Soal 8 adalah **C. 875**.
+- **💭 Tips:** Tentukan batas N dengan akar dari batas bawah dan atas, lalu periksa kedua ujung.
 
 ---
 
@@ -420,48 +344,30 @@ Hasil dari (2¾ + 1⅔) × 1⅕ − 3½ adalah...
 
 A. 1⅗
 B. 1⅘
-C. 2⅖
-D. 2⅗
+C. 5 3/10
+D. 3⅛
 
-**(3) Jawaban:** **A. 1⅗**
+**(3) Jawaban:** **B. 1⅘**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi campuran pecahan (penjumlahan, perkalian, pengurangan) dengan pecahan campuran
+- **Konsep yang diuji:** Operasi campuran pecahan (tambah, kali, kurang).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 1⅗** — Benar. Lihat langkah penyelesaian. Hasil = 51/10 − 35/10 = 16/10 = 8/5 = 1⅗.
-  - **B. 1⅘** — Salah. Hasil jika di langkah terakhir siswa salah pengurangan: 51/10 − 33/10 = 18/10 = 9/5.
-  - **C. 2⅖** — Salah. Hasil jika siswa lupa kurangi 3½ — hanya menghitung (2¾+1⅔)×1⅕.
-  - **D. 2⅗** — Salah. Salah konversi 1⅕ → 1,2 lalu kalikan dengan hasil yang salah.
+  - **A. 1⅗** — Salah. 3½ salah diubah menjadi 37/10 (3,7), sehingga 53/10 − 37/10 = 16/10.
+  - **B. 1⅘** — Benar. 11/4 + 5/3 = 53/12; 53/12 × 6/5 = 53/10; 53/10 − 35/10 = 18/10 = 1⅘.
+  - **C. 5 3/10** — Salah. Pengurangan 3½ terlupa (hanya 53/10).
+  - **D. 3⅛** — Salah. 1⅕ dibaca 1½: 53/12 × 3/2 = 53/8, lalu 53/8 − 7/2 = 25/8 = 3⅛.
 
 - **Langkah Penyelesaian:**
-  1. Konversi ke pecahan biasa: 2¾ = 11/4; 1⅔ = 5/3; 1⅕ = 6/5; 3½ = 7/2.
-  2. Penjumlahan dalam kurung: 11/4 + 5/3 = (33 + 20)/12 = 53/12.
-  3. Kalikan dengan 6/5: (53/12) × (6/5) = 318/60 = 53/10.
-  4. Kurangi 7/2 = 35/10: 53/10 − 35/10 = 18/10 = 9/5.
-
-  Hmm, hasil = 9/5 = 1⅘. Mari koreksi: 53/12 × 6/5 = (53×6)/(12×5) = 318/60. Sederhanakan: 318/60 = 53/10 = 5,3. Kurangi 3,5 = 1,8 = 9/5 = **1⅘**.
-
-  **(3) Jawaban (revisi):** **B. 1⅘**
-
-  Koreksi analisis opsi:
-  - **A. 1⅗** — Salah. Muncul jika siswa hitung 53/10 − 37/10 = 16/10 (salah konversi 3½ menjadi 37/10).
-  - **B. 1⅘** — Benar. (11/4 + 5/3) × 6/5 − 7/2 = (53/12)(6/5) − 7/2 = 53/10 − 35/10 = 18/10 = 9/5 = 1⅘.
-  - **C. 2⅖** — Salah. Hasil jika lupa kurangi 3½.
-  - **D. 2⅗** — Salah. Hasil jika salah konversi 1⅕ → 1½.
-
-- **Langkah Penyelesaian (final):**
-  1. Konversi pecahan campuran → biasa: 2¾=11/4; 1⅔=5/3; 1⅕=6/5; 3½=7/2.
-  2. 11/4 + 5/3 = 33/12 + 20/12 = 53/12.
-  3. 53/12 × 6/5 = 318/60 = 53/10.
-  4. 53/10 − 7/2 = 53/10 − 35/10 = 18/10 = 9/5 = **1⅘**.
+  1. 2¾ = 11/4; 1⅔ = 5/3; 1⅕ = 6/5; 3½ = 7/2.
+  2. 11/4 + 5/3 = 53/12.
+  3. 53/12 × 6/5 = 53/10.
+  4. 53/10 − 35/10 = 18/10 = 9/5 = 1⅘.
 
 - **Hasil akhir:** **1⅘**.
 
-- **💭 Tips:** Konversi semua pecahan campuran ke pecahan biasa **sebelum** operasi, lalu kerjakan urutan: kurung → perkalian → pengurangan. Jangan campur pecahan campuran dengan biasa di tengah hitungan — bingung dan rentan salah.
-
-> **Catatan editor:** Jawaban benar Soal 9 adalah **B. 1⅘**.
+- **💭 Tips:** Ubah semua pecahan campuran ke pecahan biasa dulu, lalu kerjakan kurung → kali → kurang.
 
 ---
 
@@ -1045,50 +951,34 @@ D. 80°
 ### Soal 26 · MTK-04 · Volume Balok dari Kubus · Provinsi
 
 **(1) Soal:**
-Sebuah balok berukuran 20 cm × 15 cm × 12 cm akan dipotong menjadi kubus-kubus kecil yang sama besar. Berapa jumlah maksimum kubus kecil yang dapat dibuat?
+Sebuah balok berukuran 24 cm × 18 cm × 12 cm akan dipotong menjadi kubus-kubus yang sama besar tanpa sisa, dengan ukuran kubus sebesar mungkin. Berapa banyak kubus yang dapat dibuat?
 
 **(2) Pilihan Jawaban:**
 
-A. 60
-B. 100
-C. 120
-D. 150
+A. 6
+B. 24
+C. 9
+D. 192
 
-**(3) Jawaban:** **B. 100**
+**(3) Jawaban:** **B. 24**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** FPB untuk menentukan sisi kubus maksimum + volume
+- **Konsep yang diuji:** FPB untuk rusuk kubus terbesar, lalu banyak kubus.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 60** — Salah. Hasil jika siswa pakai sisi kubus = 6 (yang bukan FPB).
-  - **B. 100** — Benar. FPB(20, 15, 12) = 1; tapi soal cari kubus terkecil dengan jumlah maksimum dan ukuran kubus integer. Cek ulang:
+  - **A. 6** — Salah. Itu panjang rusuk kubus (FPB), bukan banyak kubus.
+  - **B. 24** — Benar. FPB(24, 18, 12) = 6. Banyak kubus = 4 × 3 × 2 = 24.
+  - **C. 9** — Salah. Hasil bagi tiap ukuran dijumlah (4 + 3 + 2), padahal harus dikali.
+  - **D. 192** — Salah. Memakai rusuk 3 cm (faktor persekutuan, bukan terbesar): 8 × 6 × 4.
 
-  Mari hitung ulang: FPB(20, 15, 12) — faktorisasi: 20 = 2²×5; 15 = 3×5; 12 = 2²×3. FPB = 1 (tidak ada faktor prima bersama). Jika sisi kubus = 1, jumlah = 20×15×12 = 3600.
+- **Langkah Penyelesaian:**
+  1. 24 = 2³·3; 18 = 2·3²; 12 = 2²·3 → FPB = 6.
+  2. Banyak kubus = (24 ÷ 6) × (18 ÷ 6) × (12 ÷ 6) = 24.
 
-  Hmm, kalau kita ingin **kubus terbesar**, sisi = FPB = 1 cm, jumlah = 3600. Itu jawaban "maksimum" jumlah tapi kubusnya kecil.
+- **Hasil akhir:** **24 kubus** dengan rusuk 6 cm.
 
-  Lebih masuk akal soal: "kubus **terbesar** yang sama besar" → sisi = FPB. Kalau FPB = 1, soal jadi tidak menarik. Mari **revisi angka**: balok 24 × 18 × 12 → FPB = 6 → sisi 6 → jumlah = (24×18×12)/(6³) = 5184/216 = 24.
-
-  **(1) Soal (revisi):** Sebuah balok berukuran 24 cm × 18 cm × 12 cm akan dipotong menjadi kubus-kubus terbesar yang sama besar. Berapa jumlah kubus yang dapat dibuat?
-
-  - **A. 6** — Salah. Hasil 24/6 saja.
-  - **B. 24** — Benar. Sisi kubus = FPB(24,18,12) = 6. Jumlah = 24/6 × 18/6 × 12/6 = 4×3×2 = 24.
-  - **C. 36** — Salah. Hasil 24/6 × 18/4 (kira FPB = 4).
-  - **D. 48** — Salah. Hasil 24×2 distractor.
-
-  **(3) Jawaban (revisi):** **B. 24**
-
-- **Langkah Penyelesaian (final):**
-  1. Sisi kubus terbesar yang dapat memotong balok merata = FPB(24, 18, 12).
-  2. Faktorisasi: 24 = 2³×3; 18 = 2×3²; 12 = 2²×3. FPB = 2 × 3 = **6**.
-  3. Jumlah kubus = (24/6) × (18/6) × (12/6) = 4 × 3 × 2 = **24**.
-
-- **Hasil akhir:** **24 kubus** dengan sisi 6 cm.
-
-- **💭 Tips:** Untuk "kubus terbesar yang membagi balok merata", **sisi kubus = FPB(p, l, t)**. Lalu jumlah = (p/s)(l/s)(t/s).
-
-> **Catatan editor:** Soal 26 menggunakan angka 24×18×12; jawaban benar **B. 24**.
+- **💭 Tips:** Rusuk kubus terbesar = FPB ketiga ukuran; banyak kubus = hasil kali hasil bagi.
 
 ---
 
@@ -2088,48 +1978,30 @@ Data: 7, 8, 5, 9, 7, 6, 8, 7, 5, X. Jika rata-rata data adalah 7, berapa nilai m
 **(2) Pilihan Jawaban:**
 
 A. Modus 7, Median 7
-B. Modus 8, Median 7
+B. Modus 7 dan 8, Median 7
 C. Modus 7, Median 7,5
-D. Modus 5, Median 7
+D. Modus 8, Median 7,5
 
-**(3) Jawaban:** **A. Modus 7, Median 7**
+**(3) Jawaban:** **B. Modus 7 dan 8, Median 7**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Mean → mencari X + modus + median data genap
+- **Konsep yang diuji:** Mencari X dari mean, lalu modus dan median data genap.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Modus 7, Median 7** — Benar. Lihat langkah penyelesaian.
-  - **B. Modus 8, Median 7** — Salah. Modus salah identifikasi.
-  - **C. Modus 7, Median 7,5** — Salah. Median salah (tidak rata-rata dua tengah).
-  - **D. Modus 5, Median 7** — Salah. Modus 5 hanya muncul 2 kali, tidak terbanyak.
+  - **A. Modus 7, Median 7** — Salah. Lupa bahwa X = 8 menambah frekuensi 8 menjadi 3, sama dengan 7.
+  - **B. Modus 7 dan 8, Median 7** — Benar. Total = 70, jumlah 9 data = 62, X = 8. Urut: 5, 5, 6, 7, 7, 7, 8, 8, 8, 9. Nilai 7 dan 8 sama-sama 3 kali (bimodal). Median = (data ke-5 + ke-6) : 2 = (7 + 7) : 2 = 7.
+  - **C. Modus 7, Median 7,5** — Salah. Modus 8 terlupa, dan median diambil dari data ke-6 dan ke-7 (7 dan 8).
+  - **D. Modus 8, Median 7,5** — Salah. Modus 7 terlupa, dan posisi median bergeser satu.
 
 - **Langkah Penyelesaian:**
-  1. Mean = 7 dengan 10 data → total = 70. Jumlah 9 data tanpa X = 7+8+5+9+7+6+8+7+5 = 62. X = 70 − 62 = **8**.
-  2. Data lengkap: 7, 8, 5, 9, 7, 6, 8, 7, 5, **8**. Urut: 5, 5, 6, 7, 7, 7, 8, 8, 8, 9.
-  3. Modus: 7 muncul 3 kali; 8 muncul 3 kali → **dua modus** (bimodal): 7 dan 8.
+  1. X = 70 − 62 = 8.
+  2. Urutkan: 5, 5, 6, 7, 7, 7, 8, 8, 8, 9.
+  3. Modus: 7 dan 8 (masing-masing 3 kali). Median: (7 + 7) : 2 = 7.
 
-  Karena terdapat dua modus (7 dan 8), tidak ada opsi yang persis cocok. Mari **cek ulang** jumlah: 7+8 = 15; +5 = 20; +9 = 29; +7 = 36; +6 = 42; +8 = 50; +7 = 57; +5 = 62. Benar, X = 8.
+- **Hasil akhir:** **Modus 7 dan 8; Median 7**.
 
-  Frekuensi: 5: 2 kali, 6: 1, 7: 3, 8: 3, 9: 1.
-
-  Karena 7 dan 8 sama frekuensinya, soal **dimultimodal**. Untuk konsistensi, modifikasi soal sedikit dengan X yang menghasilkan modus tunggal — atau yang setara, jawaban benar:
-
-  **Median** = (data ke-5 + data ke-6)/2 = (7+7)/2 = **7**.
-
-  Karena bimodal, opsi A mengakui "modus 7" sebagai salah satu modus. Jawaban **A** tetap tepat sebagai "modus paling rendah di antara modus-modus".
-
-  Lebih bersih: ubah data agar modus 7 tunggal. **Versi final soal**: 7, 8, 5, 9, 7, 6, 7, 7, 5, X. Total tanpa X = 7+8+5+9+7+6+7+7+5 = 61. Mean 7 → total 70 → X = 9. Data: 5,5,6,7,7,7,7,8,9,9 → modus 7 (4x), median = (7+7)/2 = 7. ✓
-
-  **(1) Soal (versi final):** Data: 7, 8, 5, 9, 7, 6, 7, 7, 5, X. Mean = 7. Modus & median?
-
-  Jawaban **A. Modus 7, Median 7** ✓.
-
-- **Hasil akhir:** **Modus = 7; Median = 7**.
-
-- **💭 Tips:** Untuk soal "X dari mean", pakai total. Untuk modus, cari frekuensi tertinggi. Untuk median, urutkan dulu. Cek konsistensi: median harus = data tengah setelah urut.
-
-> **Catatan editor:** Soal 55 versi final dengan data 7,8,5,9,7,6,7,7,5,X dan X=9; jawaban **A**.
+- **💭 Tips:** Setelah X ditemukan, masukkan kembali ke data sebelum menghitung modus dan median.
 
 ---
 
@@ -2172,54 +2044,35 @@ D. 1/3
 ### Soal 57 · MTK-07 · Jangkauan & Rata-rata · Provinsi
 
 **(1) Soal:**
-Nilai matematika 6 siswa adalah 65, 70, 75, 80, 85, dan X. Jika jangkauan data 30 dan rata-rata 75, berapa nilai X?
+Nilai matematika 6 siswa adalah 65, 70, 75, 80, 85, dan X, dengan X lebih besar dari 85. Jika jangkauan data 30, berapa nilai X?
 
 **(2) Pilihan Jawaban:**
 
-A. 65
-B. 70
-C. 75
+A. 55
+B. 75
+C. 115
 D. 95
 
 **(3) Jawaban:** **D. 95**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Jangkauan = max − min; mean → total
+- **Konsep yang diuji:** Jangkauan = nilai terbesar − nilai terkecil.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 65** — Salah. Tidak memenuhi jangkauan = 30 (max sudah 85, min sudah 65, X = 65 tidak mengubah).
-  - **B. 70** — Salah. Tidak mengubah jangkauan; mean tidak 75.
-  - **C. 75** — Salah. Mean tidak 75 jika X = 75 (mean = (65+70+75+80+85+75)/6 = 450/6 = 75 — wait, ini benar!).
-
-  Mari cek ulang: 65+70+75+80+85 = 375. + X. Mean 75 → total = 450 → X = 75. Jangkauan dengan X=75: max=85, min=65, jangkauan = 20. Tidak 30. ✗
-
-  Jika jangkauan 30: max−min = 30. Kandidat: max = 95, min = 65 (X = 95). Atau max = 85, min = 55 (X = 55). Cek mean masing-masing:
-  - X = 95: total = 470; mean = 470/6 ≈ 78,3. ✗
-  - X = 55: total = 430; mean = 430/6 ≈ 71,7. ✗
-
-  Hmm, tidak ada X yang memenuhi keduanya. Mari **revisi**: ganti rata-rata = 80 atau hapus syarat rata-rata.
-
-  **Versi final:** Data 65, 70, 75, 80, 85, X. Jangkauan = 30 dan X > 85. Berapa X?
-  - Jangkauan = 30 → X − 65 = 30 → X = **95**.
-
-  Lebih sederhana. Jawaban **D. 95**.
-
-  - **A. 65** — Salah. Tidak mengubah jangkauan dari 20.
-  - **B. 70** — Salah. Tidak mengubah jangkauan.
-  - **C. 75** — Salah. Sama, tidak mengubah jangkauan.
-  - **D. 95** — Benar. Jangkauan = 95 − 65 = 30 ✓.
+  - **A. 55** — Salah. X dianggap menjadi nilai terkecil (85 − 30), padahal soal menyatakan X > 85.
+  - **B. 75** — Salah. Nilai di antara 65 dan 85 tidak mengubah jangkauan (tetap 20).
+  - **C. 115** — Salah. 30 ditambahkan ke nilai terbesar lama (85 + 30), padahal jangkauan diukur dari nilai terkecil.
+  - **D. 95** — Benar. X menjadi nilai terbesar: X − 65 = 30 → X = 95.
 
 - **Langkah Penyelesaian:**
-  1. Data tanpa X: min = 65, max = 85, jangkauan = 20.
-  2. Jangkauan 30 → max baru − min = 30. Karena X > 85, max baru = X.
-  3. X − 65 = 30 → X = **95**.
+  1. Nilai terkecil = 65.
+  2. Karena X > 85, X adalah nilai terbesar.
+  3. X − 65 = 30 → X = 95.
 
 - **Hasil akhir:** **X = 95**.
 
-- **💭 Tips:** Jangkauan = max − min. Jika data baru lebih besar dari max → max berubah. Jika lebih kecil dari min → min berubah. Jika di antara → jangkauan tidak berubah.
-
-> **Catatan editor:** Soal 57 dengan syarat X > 85 dan jangkauan 30; jawaban **D. 95**.
+- **💭 Tips:** Data baru hanya mengubah jangkauan bila lebih besar dari nilai terbesar atau lebih kecil dari nilai terkecil.
 
 ---
 
@@ -2297,7 +2150,7 @@ D. 25 tahun
 ### Soal 60 · MTK-08 · Teka-teki Logika · Nasional
 
 **(1) Soal:**
-Andi, Beni, Cici, dan Dedi tinggal di rumah bernomor 1, 2, 3, dan 4 (urutan acak). Diketahui: (1) Andi tidak tinggal di rumah no. 1 atau 3. (2) Cici tinggal di antara Beni dan Dedi (no. rumah Cici di antara). (3) Beni tinggal di rumah dengan nomor lebih kecil dari Dedi. Siapa yang tinggal di rumah no. 4?
+Andi, Beni, Cici, dan Dedi tinggal di rumah bernomor 1, 2, 3, dan 4 (urutan acak). Diketahui: (1) Andi tinggal di rumah no. 2. (2) Nomor rumah Cici berada di antara nomor rumah Beni dan Dedi. (3) Nomor rumah Beni lebih kecil dari Dedi. Siapa yang tinggal di rumah no. 4?
 
 **(2) Pilihan Jawaban:**
 
@@ -2310,43 +2163,22 @@ D. Dedi
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Teka-teki logika dengan multiple constraint
+- **Konsep yang diuji:** Teka-teki logika dengan beberapa syarat.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Andi** — Salah. Petunjuk (1) bisa membuat Andi di no. 2 atau 4; tapi cek dengan (2): Cici antara Beni dan Dedi → Beni, Cici, Dedi membutuhkan 3 nomor berurutan. Jika Andi di 4, Beni-Cici-Dedi di 1, 2, 3 — Cici di 2 ✓. Itu valid skenario juga? Cek (3): Beni < Dedi. Beni=1, Dedi=3 ✓. Hmm, ini juga skenario valid. Tampaknya soal punya **dua solusi**. Mari kita perbaiki.
-
-  Tunggu — petunjuk (2) hanya bilang "Cici di antara Beni dan Dedi", artinya no. Cici di antara no. Beni & no. Dedi secara numerik. Dengan Beni=1, Cici=2, Dedi=3 ✓.
-
-  Tapi alternatif: Andi=2, Beni=1, Cici=3, Dedi=4 → Cici antara 1 dan 4 ✓, Beni<Dedi ✓, Andi tidak di 1/3 ✓.
-
-  Untuk membuat jawaban unik **D. Dedi**, kita harus melarang skenario 1. Tambah petunjuk: "Andi tidak tinggal di rumah no. 4 juga." Versi diperketat:
-
-  **Petunjuk (1) revisi:** Andi tinggal di rumah no. 2.
-
-  Maka langsung: Andi=2. Cici antara Beni & Dedi → posisi yang tersisa untuk B, C, D = 1, 3, 4. C harus di antara B & D (numerik). B<D, jadi:
-  - B=1, C=3, D=4 → C (3) antara 1 dan 4 ✓.
-  Solusi unik: Dedi di rumah no. **4**.
-
-  **(1) Soal (revisi):** Petunjuk (1) "Andi tinggal di rumah no. 2", (2) "Cici di antara Beni dan Dedi", (3) "Beni < Dedi". Siapa di no. 4?
-
-  - **A. Andi** — Salah. Andi sudah di no. 2.
-  - **B. Beni** — Salah. Beni < Dedi, jadi Beni tidak di no. 4 (paling besar).
-  - **C. Cici** — Salah. Cici di antara → bukan ujung.
-  - **D. Dedi** — Benar. Dedi paling besar nomornya = 4.
+  - **A. Andi** — Salah. Andi sudah pasti di rumah no. 2.
+  - **B. Beni** — Salah. Nomor Beni lebih kecil dari Dedi, jadi Beni tidak mungkin di nomor terbesar.
+  - **C. Cici** — Salah. Cici berada di antara Beni dan Dedi, jadi bukan di nomor paling ujung.
+  - **D. Dedi** — Benar. Sisa nomor 1, 3, 4 untuk Beni, Cici, Dedi dengan Beni < Cici < Dedi → Beni 1, Cici 3, Dedi 4.
 
 - **Langkah Penyelesaian:**
-  1. Petunjuk (1): Andi di no. **2**.
-  2. Sisa no. 1, 3, 4 untuk Beni, Cici, Dedi.
-  3. Petunjuk (2): Cici di antara Beni & Dedi (numerik).
-  4. Petunjuk (3): Beni < Dedi.
-  5. Maka B=1, C=3, D=4 (urutan menaik yang memenuhi semua).
-  6. Rumah no. 4 = **Dedi**.
+  1. Andi = 2; sisa 1, 3, 4.
+  2. Cici di antara Beni dan Dedi, dan Beni < Dedi → Beni < Cici < Dedi.
+  3. Beni = 1, Cici = 3, Dedi = 4.
 
 - **Hasil akhir:** **Dedi** tinggal di rumah no. 4.
 
-- **💭 Tips:** Teka-teki logika dengan banyak constraint: **mulai dari constraint terkuat** (yang memberi info paling spesifik). Tuliskan kemungkinan dan eliminasi sistematis. Petunjuk "X di antara Y dan Z" berarti X adalah nilai tengah secara numerik.
-
-> **Catatan editor:** Soal 60 versi final: Andi di rumah no. 2; jawaban **D. Dedi** unik.
+- **💭 Tips:** Mulai dari petunjuk paling pasti, lalu susun urutan dari petunjuk perbandingan.
 
 ---
 
@@ -2680,39 +2512,35 @@ D. Melindungi dari herbivora air
 ### Soal 70 · IPA-01 · Rantai Makanan · Provinsi
 
 **(1) Soal:**
-Dalam rantai makanan sawah: padi → tikus → ular → elang. Jika populasi ular menurun drastis karena perburuan, dampak paling langsung adalah...
+Dalam rantai makanan sawah: padi → tikus → ular → elang. Jika populasi ular menurun drastis karena perburuan, makhluk hidup mana yang populasinya akan meningkat dalam waktu dekat?
 
 **(2) Pilihan Jawaban:**
 
-A. Populasi padi meningkat
-B. Populasi tikus meningkat
-C. Populasi elang menurun
-D. Populasi tikus dan elang menurun
+A. Padi
+B. Tikus
+C. Elang
+D. Ular
 
-**(3) Jawaban:** **B. Populasi tikus meningkat**
+**(3) Jawaban:** **B. Tikus**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Hubungan predator-mangsa dalam rantai makanan
+- **Konsep yang diuji:** Hubungan pemangsa-mangsa dalam rantai makanan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A.** — Salah. Dampak terhadap padi adalah dampak sekunder (lewat tikus); bukan paling langsung.
-  - **B.** — Benar. Ular adalah predator utama tikus; berkurangnya predator → tikus berkembang biak tanpa hambatan.
-  - **C.** — Salah. Dampak terhadap elang juga ada (kekurangan mangsa), tapi tidak paling langsung — kurangnya ular sebagai mangsa elang juga langsung membuat elang menurun. Hmm — ini juga reasonable.
-
-  Sebenarnya **kedua** B dan C bisa dianggap "langsung". Mari pilih yang **paling cepat terlihat**: dengan kurangnya ular, tikus akan bereproduksi cepat (paling cepat tampak). Elang menurun butuh waktu lebih lama karena mereka masih bisa mencari mangsa lain.
-
-  - **C.** — Sebagian benar tapi bukan paling cepat terlihat. Elang masih dapat memakan mangsa lain (tikus secara langsung).
-  - **D.** — Salah. Tikus tidak menurun, justru meningkat.
+  - **A. Padi** — Salah. Padi justru berkurang karena tikus yang bertambah memakan lebih banyak padi.
+  - **B. Tikus** — Benar. Ular adalah pemangsa tikus; jika ular berkurang, tikus yang dimangsa juga berkurang sehingga populasinya naik.
+  - **C. Elang** — Salah. Elang kehilangan ular sebagai makanannya, jadi populasinya tidak naik (cenderung turun).
+  - **D. Ular** — Salah. Ular sendiri yang sedang diburu dan menurun.
 
 - **Langkah Penyelesaian:**
-  1. Ular berkurang → tikus tidak terkontrol → populasi tikus meningkat (paling cepat).
-  2. Padi → karena tikus banyak, padi dimakan lebih banyak → populasi padi menurun (dampak sekunder).
-  3. Elang → kehilangan mangsa ular, tapi bisa cari mangsa lain (tikus) → dampak campuran.
+  1. Ular berkurang → pemangsa tikus berkurang → tikus meningkat.
+  2. Tikus meningkat → padi berkurang.
+  3. Elang kehilangan makanan → cenderung menurun.
 
-- **Hasil akhir:** **B** — populasi tikus meningkat.
+- **Hasil akhir:** **B** — tikus meningkat.
 
-- **💭 Tips:** Dalam rantai makanan, jika predator berkurang → mangsa langsung **meningkat**; jika mangsa utama berkurang → predator langsung **menurun**. Cari konsumen yang **paling dekat** dengan tingkat trofik yang berubah.
+- **💭 Tips:** Jika pemangsa berkurang, mangsanya meningkat; jika mangsa berkurang, pemangsanya menurun.
 
 ---
 
@@ -3847,7 +3675,7 @@ D. Pasang surut air laut
 | 2   | A       | MTK-01   | KPK soal cerita | Provinsi |
 | 3   | A       | MTK-01   | Bilangan prima | Provinsi |
 | 4   | A       | MTK-01   | Faktorisasi prima & jumlah faktor | Nasional |
-| 5   | B       | MTK-01   | Akar kuadrat & kubik | Nasional |
+| 5   | C       | MTK-01   | Akar kuadrat & kubik | Nasional |
 | 6   | A       | MTK-01   | Sifat distributif | Provinsi |
 | 7   | C       | MTK-01   | Kombinasi FPB-KPK | Nasional |
 | 8   | C       | MTK-01   | Bilangan kuadrat | Nasional |
@@ -3897,7 +3725,7 @@ D. Pasang surut air laut
 | 52  | C       | MTK-07   | Diagram lingkaran | Nasional |
 | 53  | B       | MTK-07   | Peluang dadu | Provinsi |
 | 54  | B       | MTK-07   | Statistik gabungan | Nasional |
-| 55  | A       | MTK-07   | Modus & median | Nasional |
+| 55  | B       | MTK-07   | Modus & median | Nasional |
 | 56  | A       | MTK-07   | Peluang tanpa pengembalian | Nasional |
 | 57  | D       | MTK-07   | Jangkauan & rata-rata | Provinsi |
 | 58  | C       | MTK-08   | Pola bilangan aritmetika | Provinsi |

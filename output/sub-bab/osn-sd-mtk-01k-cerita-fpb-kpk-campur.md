@@ -1304,28 +1304,24 @@ Hitung: 12 = 2² × 3 ; 16 = 2⁴ → KPK = 2⁴ × 3 = **48** jam = **2 hari**.
 ---
 
 **54.** Aldi menabung tiap 6 hari, Bagas tiap 8 hari, Caca tiap 12 hari. Jika hari Minggu ini ketiganya **menabung bersama**, hari apa mereka akan **menabung bersama lagi**?
+
 - A. Selasa, 24 hari lagi
-- B. Selasa, 48 hari lagi
+- B. Rabu, 24 hari lagi
 - C. Minggu, 24 hari lagi
-- D. Minggu, 48 hari lagi
+- D. Sabtu, 48 hari lagi
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan.
-Hitung: 6 = 2 × 3, 8 = 2³, 12 = 2² × 3 → KPK = 2³ × 3 = **24** hari. 24 = 3 × 7 + 3, jadi 24 mod 7 = 3 → Minggu + 3 hari = **Rabu**. (Tunggu: 24 ÷ 7 = 3 sisa 3 → Minggu, Senin, Selasa, **Rabu**.) Tapi 24 hari dari Minggu sejatinya = setiap minggu hari Minggu lagi setelah 21 hari, +3 hari = **Rabu**. Periksa jawaban: tak ada Rabu di opsi! Karena itu hitung ulang KPK kelipatan 7 terdekat: 24, 48, 72, 168 = 7×24. Tunggu — sebenarnya 24 mod 7 = 3 → bukan Minggu. Maka jawaban "Minggu, 24 hari lagi" salah, "Minggu 48 hari lagi": 48 mod 7 = 6 → Sabtu. Hmm, jawaban C juga tidak pas.
-
-Mari hitung dengan teliti: 24 ÷ 7 = 3 sisa 3. 24 hari dari Minggu = Minggu (lewat 3 minggu, hari ke-21) + 3 hari → **Rabu**. KPK adalah **24 hari**, jatuh pada **Rabu**.
-
-Karena tidak ada opsi "Rabu, 24 hari lagi", soal ini memiliki kekurangan. Jawaban yang paling mendekati KPK = 24 hari dan menyebut Minggu adalah salah. **Anggap jawaban C dengan koreksi: Minggu setelah 24 hari = Rabu, jadi jawaban yang valid hanya jika kita pakai opsi "24 hari lagi" tanpa hari**.
-- **A** — Selasa salah; 24 mod 7 = 3 → Rabu, bukan Selasa.
-- **B** — Selasa setelah 48 hari: 48 mod 7 = 6 → Sabtu, salah.
-- **C** — Benar dipilih untuk jarak **24 hari** (KPK), hari sebetulnya Rabu (anggap kesalahan minor pada nama hari).
-- **D** — 48 hari bukan KPK terkecil.
-- **Konsep kunci:** KPK tiga bilangan menentukan jarak hari sampai ketiganya menabung bersama lagi; nama hari pada opsi soal ini keliru, tetapi kunci tetap dipilih berdasarkan jarak 24 hari yang benar.
+Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan, lalu hitung hari.
+- **A** — Selasa: sisa 24 ÷ 7 salah dihitung 2. Seharusnya 24 = 3 × 7 + 3.
+- **B** — Benar. KPK(6, 8, 12) = 2³ × 3 = 24 hari. 24 ÷ 7 = 3 sisa 3 → Minggu + 3 hari = Rabu.
+- **C** — Minggu: mengira setelah KPK pasti kembali ke hari yang sama; itu hanya benar jika KPK kelipatan 7.
+- **D** — 48 hari memang kelipatan persekutuan, tetapi bukan yang terkecil (48 ÷ 7 sisa 6 → Sabtu).
+- **Konsep kunci:** KPK menentukan jarak hari; sisa pembagian dengan 7 menentukan nama harinya.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Faktorkan 6 = 2 × 3, 8 = 2³, dan 12 = 2² × 3 → KPK = 2³ × 3 = 24 hari.
-  3. 24 hari dari Minggu sebenarnya jatuh pada hari Rabu (opsi C dipilih sebagai kunci formal karena jarak 24 harinya benar, meski nama harinya tidak tepat).
+  1. Kata kunci "bersama lagi" → KPK.
+  2. 6 = 2 × 3, 8 = 2³, 12 = 2² × 3 → KPK = 24 hari.
+  3. 24 ÷ 7 = 3 sisa 3 → Minggu + 3 = Rabu.
 
 ---
 
@@ -1418,30 +1414,24 @@ Hitung: 35 = 5 × 7 ; 49 = 7² → FPB = **7** pelanggan. Telur asin/pelanggan =
 ---
 
 **59.** Setiap 6 hari Rio piket kelas, setiap 9 hari Rio les Bahasa Inggris, setiap 12 hari Rio les Matematika. Jika hari Senin ini **ketiganya** bersamaan, hari apa Rio akan **piket+les Bahasa Inggris+les Matematika bersamaan lagi**?
+
 - A. Senin, 36 hari lagi
 - B. Selasa, 36 hari lagi
 - C. Rabu, 36 hari lagi
 - D. Senin, 72 hari lagi
 
-**Kunci: A**
+**Kunci: B**
 **Pembahasan:**
 Identifikasi: "**bersamaan lagi**" → **KPK** 3 bilangan.
-Hitung: 6 = 2 × 3 ; 9 = 3² ; 12 = 2² × 3 → KPK = 2² × 3² = **36** hari. 36 ÷ 7 = 5 sisa 1; Senin + 1 hari = Selasa. Hmm — tetapi soal menanyakan hari setelah 36 hari dari Senin: Senin → Senin (7 hari ke-1, 14, 21, 28, 35) lalu +1 hari = **Selasa**.
-
-Periksa kembali: A menyebut Senin, B menyebut Selasa. Yang benar adalah **Selasa**. Maka kunci sebenarnya **B**, bukan A. Mari saya koreksi.
-
-**Pembetulan:** kunci yang benar **B — Selasa, 36 hari lagi**.
-- **A** — Senin salah perhitungan hari (36 mod 7 = 1, bukan 0).
-- **B** — Benar, Selasa setelah 36 hari (36 = 5×7 + 1).
-- **C** — Rabu salah; 36 mod 7 = 1, bukan 2.
-- **D** — 72 hari kelipatan persekutuan tapi bukan terkecil.
-
-**Kunci final: B**
-- **Konsep kunci:** KPK tiga bilangan menentukan jarak hari sampai ketiga kegiatan bersamaan lagi; sisa pembagian dengan 7 menentukan nama harinya.
+- **A** — Senin: mengira KPK selalu jatuh pada hari yang sama; 36 bukan kelipatan 7.
+- **B** — Benar. KPK(6, 9, 12) = 2² × 3² = 36 hari. 36 ÷ 7 = 5 sisa 1 → Senin + 1 = Selasa.
+- **C** — Rabu: sisa salah dihitung 2.
+- **D** — 72 hari bukan yang terkecil; lagi pula 72 ÷ 7 sisa 2, jadi harinya Rabu, bukan Senin.
+- **Konsep kunci:** KPK menentukan jarak hari; sisa pembagian dengan 7 menentukan nama harinya.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersamaan lagi" → gunakan KPK tiga bilangan.
-  2. Faktorkan 6 = 2 × 3, 9 = 3², dan 12 = 2² × 3 → KPK = 2² × 3² = 36 hari.
-  3. 36 dibagi 7 bersisa 1, jadi Senin + 1 hari = Selasa (kunci final B).
+  1. Kata kunci "bersamaan lagi" → KPK.
+  2. 6 = 2 × 3, 9 = 3², 12 = 2² × 3 → KPK = 36 hari.
+  3. 36 ÷ 7 = 5 sisa 1 → Selasa.
 
 ---
 
@@ -1490,43 +1480,24 @@ Hitung: 64 = 2⁶ ; 80 = 2⁴ × 5 ; 48 = 2⁴ × 3 → FPB = 2⁴ = **16** sisw
 ---
 
 **62.** Bel A berbunyi tiap 35 menit, bel B tiap 50 menit. Jika **bersama** pukul 08.00, kapan **bersama lagi**?
+
 - A. 08.50
 - B. 11.30
-- C. 13.30
-- D. 14.00
+- C. 13.50
+- D. 13.30
 
-**Kunci: B**
+**Kunci: C**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK**.
-Hitung: 35 = 5 × 7 ; 50 = 2 × 5² → KPK = 2 × 5² × 7 = **350** menit = 5 jam 50 menit. 08.00 + 5 jam 50 menit = **13.50**.
-
-Periksa opsi: tidak ada 13.50. Mari koreksi: 350/60 = 5 sisa 50, jadi 08.00 + 5j50m = **13.50**.
-
-**Pembetulan opsi:** seharusnya opsi C atau D = 13.50. Karena tidak tersedia tepat, jawaban terdekat **B (11.30)** = 210 menit = kelipatan 35 saja (210/50 ≠ bulat) → salah.
-
-Mari periksa ulang KPK: 35 = 5×7, 50 = 2×25. KPK = 2 × 5² × 7 = 350. Benar.
-
-Karena tidak ada opsi tepat, gunakan opsi yang ada: 13.30 = 330 menit (kelipatan 33×10, bukan kelipatan persekutuan). 14.00 = 360 menit (bukan kelipatan persekutuan). 11.30 = 210 menit (kelipatan 35 saja).
-
-**Soal ini memiliki kesalahan opsi.** Kunci konseptual seharusnya pukul **13.50**. Karena soal harus tetap konsisten, **kunci dipindahkan ke B = 11.30** dengan pemahaman bahwa opsi memiliki bug; namun secara ketat, **TIDAK ada opsi yang benar matematis**. Untuk konsistensi tabel jawaban, **kunci dianggap = B** dengan catatan koreksi soal di refleksi.
-
-Karena opsi cacat, soal ini akan dianggap **kunci B sebagai jawaban formal**, dan siswa diharapkan menandai sebagai soal trick (anti-clickbait): pelajaran ambil dari pembahasan.
-
-Karena terlalu rumit, **revisi soal**: ganti angka jadi 35 dan 42 untuk kunci bersih.
-
-**REVISI SOAL 62 (final):** Bel A tiap **35** menit, bel B tiap **42** menit. Bersama pukul 08.00 → KPK = 35=5×7, 42=2×3×7, KPK = 2×3×5×7 = **210** menit = 3 jam 30 menit. 08.00 + 3.30 = **11.30**. ✅
-
-- **A** — 50 menit = bel B ke-1 saja.
-- **B** — Benar, 11.30 (210 menit = KPK).
-- **C** — 13.30 = 330 menit, bukan kelipatan persekutuan.
-- **D** — 14.00 = 360 menit, bukan kelipatan persekutuan.
-
-**Kunci final: B (dengan revisi angka 42, bukan 50, untuk angka B)**
-- **Konsep kunci:** KPK dipakai untuk mencari waktu TERSINGKAT dua bel berbunyi bersama lagi; soal ini direvisi (bel B menjadi 42 menit) agar hasilnya cocok dengan salah satu opsi.
+- **A** — 08.50 hanya bunyi pertama bel B (50 menit); bel A tidak berbunyi saat itu.
+- **B** — 11.30 = 210 menit, kelipatan 35 saja (210 ÷ 50 tidak bulat).
+- **C** — Benar. 35 = 5 × 7; 50 = 2 × 5² → KPK = 2 × 5² × 7 = 350 menit = 5 jam 50 menit. 08.00 + 5 jam 50 menit = 13.50.
+- **D** — 350 menit dibaca 5 jam 30 menit; padahal 350 = 5 × 60 + 50.
+- **Konsep kunci:** KPK memberi waktu tersingkat kedua bel berbunyi bersama lagi.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK.
-  2. Sesuai revisi soal: faktorkan 35 = 5 × 7 dan 42 = 2 × 3 × 7 → KPK = 2 × 3 × 5 × 7 = 210 menit.
-  3. Tambahkan ke 08.00: 08.00 + 3 jam 30 menit = 11.30 (kunci final B).
+  1. Kata kunci "bersama lagi" → KPK.
+  2. KPK(35, 50) = 350 menit.
+  3. 350 menit = 5 jam 50 menit → 13.50.
 
 ---
 
@@ -1641,30 +1612,24 @@ Hitung: 96 = 2⁵ × 3 ; 144 = 2⁴ × 3² ; 192 = 2⁶ × 3 → FPB = 2⁴ × 3
 ---
 
 **68.** Tiga jenis kereta lewat stasiun tiap 25, 35, dan 50 menit. Jika **bertiga lewat bersama** pukul 06.00, pukul berapa **bersama lagi**?
-- A. 11.50
-- B. 14.50
-- C. 17.00
-- D. 23.00
 
-**Kunci: D**
+- A. 11.50
+- B. 09.50
+- C. 11.30
+- D. 17.40
+
+**Kunci: A**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan.
-Hitung: 25 = 5² ; 35 = 5 × 7 ; 50 = 2 × 5² → KPK = 2 × 5² × 7 = **350** menit = **5 jam 50 menit**. 06.00 + 5.50 = **11.50**.
-
-Maka kunci yang benar = **A (11.50)**, bukan D.
-
-**Pembetulan kunci: A.**
-- **A** — Benar, 11.50 (350 menit).
-- **B** — 14.50 = 530 menit, bukan kelipatan persekutuan.
-- **C** — 17.00 = 660 menit, bukan kelipatan persekutuan.
-- **D** — 23.00 = 1020 menit, kelipatan persekutuan (≈ 3×350=1050 no), juga tidak tepat.
-
-**Kunci final: A**
-- **Konsep kunci:** KPK tiga bilangan menentukan waktu TERSINGKAT tiga kereta lewat bersama lagi.
+- **A** — Benar. 25 = 5²; 35 = 5 × 7; 50 = 2 × 5² → KPK = 2 × 5² × 7 = 350 menit = 5 jam 50 menit. 06.00 + 5 jam 50 menit = 11.50.
+- **B** — 350 menit dibaca 3 jam 50 menit (dibagi 100, bukan 60).
+- **C** — 350 menit dibaca 5 jam 30 menit.
+- **D** — 700 menit adalah kelipatan persekutuan kedua (2 × 350), bukan yang pertama.
+- **Konsep kunci:** KPK tiga bilangan memberi waktu tersingkat ketiga kereta lewat bersama lagi.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Faktorkan 25 = 5², 35 = 5 × 7, dan 50 = 2 × 5² → KPK = 2 × 5² × 7 = 350 menit.
-  3. 350 menit = 5 jam 50 menit; 06.00 + 5 jam 50 menit = 11.50 (kunci final A).
+  1. Kata kunci "bersama lagi" → KPK.
+  2. KPK(25, 35, 50) = 350 menit.
+  3. 350 menit = 5 jam 50 menit → 11.50.
 
 ---
 
@@ -1691,27 +1656,24 @@ Hitung: 56 = 2³ × 7 ; 84 = 2² × 3 × 7 ; 112 = 2⁴ × 7 → FPB = 2² × 7 
 ---
 
 **70.** Bus Damri berangkat tiap 75 menit, bus Sinar Jaya tiap 90 menit, bus Pahala Kencana tiap 120 menit. Jika **bertiga berangkat bersama** pukul 05.00, pukul berapa **bersama lagi**?
-- A. 11.00
-- B. 12.00
-- C. 23.00
+
+- A. 11.00 esok hari
+- B. 11.00 hari ini
+- C. 15.00 hari ini
 - D. 05.00 esok hari
 
 **Kunci: A**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan.
-Hitung: 75 = 3 × 5² ; 90 = 2 × 3² × 5 ; 120 = 2³ × 3 × 5 → KPK = 2³ × 3² × 5² = **1800** menit = **30 jam** = 1 hari + 6 jam → 05.00 + 30 jam = **11.00 esok hari**.
-
-Tunggu — jika opsi A = 11.00 (tanpa keterangan), maka maksudnya hari berikutnya. Periksa opsi: A = 11.00 hari berikutnya secara tersirat.
-
-- **A** — Benar, 11.00 (esok hari, total 30 jam dari 05.00).
-- **B** — 12.00 = 31 jam (1860 menit), bukan KPK.
-- **C** — 23.00 = 18 jam, kelipatan 90 saja (1080 menit kelipatan 90, bukan kelipatan 75 atau 120).
-- **D** — 05.00 esok hari = 24 jam (1440 menit), bukan KPK.
-- **Konsep kunci:** KPK tiga bilangan dipakai untuk mencari waktu TERSINGKAT tiga bus berangkat bersama lagi.
+- **A** — Benar. 75 = 3 × 5²; 90 = 2 × 3² × 5; 120 = 2³ × 3 × 5 → KPK = 2³ × 3² × 5² = 1.800 menit = 30 jam. 05.00 + 30 jam = 11.00 keesokan harinya.
+- **B** — 30 jam dikira 6 jam (24 jam pertama terlupa), sehingga jatuh pada hari yang sama.
+- **C** — Hanya KPK bus Damri dan Pahala Kencana (600 menit = 10 jam); bus Sinar Jaya tidak berangkat pukul 15.00.
+- **D** — Mengira ketiga bus pasti bertemu lagi tepat 24 jam kemudian; 1.440 menit tidak habis dibagi 75.
+- **Konsep kunci:** KPK bisa melewati tengah malam; hitung jam dan harinya.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Faktorkan 75 = 3 × 5², 90 = 2 × 3² × 5, dan 120 = 2³ × 3 × 5 → KPK = 2³ × 3² × 5² = 1800 menit = 30 jam.
-  3. 05.00 + 30 jam = 11.00 keesokan harinya.
+  1. Kata kunci "bersama lagi" → KPK.
+  2. KPK = 1.800 menit = 30 jam = 1 hari 6 jam.
+  3. 05.00 + 1 hari 6 jam = 11.00 esok hari.
 
 ---
 
@@ -1738,32 +1700,24 @@ Hitung: 144 = 2⁴ × 3² ; 192 = 2⁶ × 3 ; 240 = 2⁴ × 3 × 5 → FPB = 2�
 ---
 
 **72.** Pak Toni latihan futsal tiap 6 hari, Pak Edi tiap 9 hari, Pak Imam tiap 15 hari. Jika hari **Selasa** ini bertiga latihan bersama, hari **apa** mereka latihan **bersama lagi**?
-- A. Selasa
-- B. Rabu
-- C. Kamis
-- D. Sabtu
 
-**Kunci: D**
+- A. Selasa
+- B. Senin
+- C. Jumat
+- D. Minggu
+
+**Kunci: B**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan, lalu hitung hari.
-Hitung: 6 = 2 × 3 ; 9 = 3² ; 15 = 3 × 5 → KPK = 2 × 3² × 5 = **90** hari. 90 mod 7 = 90 − 12×7 = 90 − 84 = **6**. Selasa + 6 hari = Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu, **Senin**.
-
-Tunggu — Selasa + 6 hari: Rabu(+1), Kamis(+2), Jumat(+3), Sabtu(+4), Minggu(+5), **Senin(+6)**. Maka jawaban yang benar adalah **Senin**, tetapi tidak ada di opsi.
-
-**Pembetulan:** mari periksa KPK lagi: 6, 9, 15. KPK = 90. 90 mod 7 = 6. Selasa + 6 = Senin. Jadi opsi tidak ada yang benar.
-
-**Revisi soal:** ganti jadwal jadi 6, 9, 12 → KPK = 36. 36 mod 7 = 1. Selasa + 1 = Rabu. Opsi B.
-
-**Kunci final dengan revisi: B (Rabu, 36 hari lagi). Asumsikan angka asli 6, 9, 12.**
-- **A** — Selasa salah; 36 mod 7 = 1.
-- **B** — Benar, Rabu setelah 36 hari (KPK 6,9,12 = 36).
-- **C** — Kamis salah; itu Selasa + 2.
-- **D** — Sabtu salah; itu Selasa + 4.
-- **Konsep kunci:** KPK tiga bilangan menentukan jarak hari sampai ketiga orang latihan bersama lagi; soal ini direvisi (jadwal Pak Imam menjadi 12 hari) agar hasilnya cocok opsi.
+- **A** — Selasa: mengira KPK pasti kembali ke hari yang sama; 90 bukan kelipatan 7.
+- **B** — Benar. 6 = 2 × 3; 9 = 3²; 15 = 3 × 5 → KPK = 2 × 3² × 5 = 90 hari. 90 = 12 × 7 + 6 → Selasa + 6 hari = Senin.
+- **C** — KPK dikira 45 (faktor 2 dari 6 terlupa): 45 ÷ 7 sisa 3 → Jumat.
+- **D** — Sisa 6 dihitung dengan Selasa sebagai hari pertama, sehingga mundur satu hari menjadi Minggu.
+- **Konsep kunci:** KPK menentukan jarak hari; sisa pembagian dengan 7 menentukan nama harinya.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Sesuai revisi soal: faktorkan 6 = 2 × 3, 9 = 3², dan 12 = 2² × 3 → KPK = 2² × 3² = 36 hari.
-  3. 36 dibagi 7 bersisa 1, jadi Selasa + 1 hari = Rabu (kunci final B).
+  1. KPK(6, 9, 15) = 90 hari.
+  2. 90 ÷ 7 = 12 sisa 6.
+  3. Selasa + 6 hari = Senin.
 
 ---
 
@@ -1878,28 +1832,24 @@ Hitung: 132 = 2² × 3 × 11 ; 198 = 2 × 3² × 11 → FPB = 2 × 3 × 11 = **6
 ---
 
 **78.** Tiga kapal feri singgah di Pelabuhan Merak tiap 8, 12, dan 16 jam. Jika **bertiga singgah bersama** Senin pukul 00.00, **hari apa dan pukul berapa** singgah **bersama lagi**?
-- A. Senin, 24.00
-- B. Selasa, 00.00
-- C. Selasa, 24.00
+
+- A. Selasa, 00.00
+- B. Selasa, 12.00
+- C. Senin, 16.00
 - D. Rabu, 00.00
 
-**Kunci: B**
+**Kunci: D**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan.
-Hitung: 8 = 2³ ; 12 = 2² × 3 ; 16 = 2⁴ → KPK = 2⁴ × 3 = **48** jam = **2 hari**. Senin + 2 hari = **Rabu** pukul 00.00. Tunggu — Senin 00.00 + 48 jam = Rabu 00.00.
-
-**Pembetulan kunci: D — Rabu, 00.00.**
-- **A** — Senin 24.00 = 24 jam, kelipatan 8 & 12, bukan kelipatan 16.
-- **B** — Selasa 00.00 = 24 jam, sama dengan A.
-- **C** — Selasa 24.00 (=Rabu 00.00) = 48 jam, sama dengan D.
-- **D** — Benar, Rabu 00.00 = 48 jam = KPK.
-
-**Kunci final: D**
-- **Konsep kunci:** KPK tiga bilangan dipakai untuk mencari waktu TERSINGKAT tiga kapal singgah bersama lagi.
+- **A** — 24 jam hanya KPK kapal 8 jam dan 12 jam; 24 tidak habis dibagi 16.
+- **B** — 36 jam berasal dari menjumlah 8 + 12 + 16, bukan KPK.
+- **C** — 16 jam hanya periode kapal terlama; kapal 12 jam tidak singgah saat itu.
+- **D** — Benar. 8 = 2³; 12 = 2² × 3; 16 = 2⁴ → KPK = 2⁴ × 3 = 48 jam = 2 hari. Senin 00.00 + 2 hari = Rabu 00.00.
+- **Konsep kunci:** KPK tiga bilangan memberi waktu tersingkat ketiga kapal singgah bersama lagi.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Faktorkan 8 = 2³, 12 = 2² × 3, dan 16 = 2⁴ → KPK = 2⁴ × 3 = 48 jam = 2 hari.
-  3. Senin 00.00 + 2 hari = Rabu 00.00 (kunci final D).
+  1. KPK(8, 12, 16) = 48 jam.
+  2. 48 jam = 2 hari.
+  3. Senin 00.00 + 2 hari = Rabu 00.00.
 
 ---
 
@@ -1926,28 +1876,24 @@ Hitung: 64 = 2⁶ ; 80 = 2⁴ × 5 ; 48 = 2⁴ × 3 → FPB = 2⁴ = **16** kand
 ---
 
 **80.** Pak Min, Pak Yas, dan Pak Tio menyiram tanaman desa tiap 4, 6, dan 10 hari. Jika hari **Minggu** ini ketiganya menyiram **bersama**, hari **apa** mereka menyiram **bersama lagi**?
-- A. Senin
+
+- A. Selasa
 - B. Rabu
-- C. Sabtu
+- C. Kamis
 - D. Minggu
 
-**Kunci: A**
+**Kunci: C**
 **Pembahasan:**
 Identifikasi: "**bersama lagi**" → **KPK** 3 bilangan, lalu hitung hari.
-Hitung: 4 = 2² ; 6 = 2 × 3 ; 10 = 2 × 5 → KPK = 2² × 3 × 5 = **60** hari. 60 mod 7 = 4 (60 = 8×7 + 4). Minggu + 4 hari = **Kamis**.
-
-**Pembetulan:** kunci yang benar **Kamis**, tetapi opsi tidak ada Kamis. Mari koreksi angka soal jadi 4, 6, 8 → KPK = 24. 24 mod 7 = 3 → Minggu + 3 = **Rabu**. Opsi **B**.
-
-**Kunci final (revisi 4, 6, 8): B (Rabu)**
-- **A** — Senin = Minggu + 1, salah hari.
-- **B** — Benar, Rabu setelah 24 hari (KPK 4, 6, 8).
-- **C** — Sabtu = Minggu + 6, salah hari.
-- **D** — Minggu = 7n hari kemudian; 24 bukan kelipatan 7.
-- **Konsep kunci:** KPK tiga bilangan menentukan jarak hari sampai ketiga orang menyiram bersama lagi; soal ini direvisi (jadwal Pak Tio menjadi 8 hari) agar hasilnya cocok opsi.
+- **A** — Memakai hasil kali 4 × 6 × 10 = 240 hari: 240 ÷ 7 sisa 2 → Selasa. Hasil kali bukan KPK.
+- **B** — Sisa 60 ÷ 7 salah dihitung 3.
+- **C** — Benar. 4 = 2²; 6 = 2 × 3; 10 = 2 × 5 → KPK = 2² × 3 × 5 = 60 hari. 60 = 8 × 7 + 4 → Minggu + 4 = Kamis.
+- **D** — Mengira KPK pasti kembali ke hari yang sama; 60 bukan kelipatan 7.
+- **Konsep kunci:** KPK menentukan jarak hari; sisa pembagian dengan 7 menentukan nama harinya.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "bersama lagi" → gunakan KPK tiga bilangan.
-  2. Sesuai revisi soal: faktorkan 4 = 2², 6 = 2 × 3, dan 8 = 2³ → KPK = 2³ × 3 = 24 hari.
-  3. 24 dibagi 7 bersisa 3, jadi Minggu + 3 hari = Rabu (kunci final B).
+  1. KPK(4, 6, 10) = 60 hari.
+  2. 60 ÷ 7 = 8 sisa 4.
+  3. Minggu + 4 hari = Kamis.
 
 ---
 
@@ -2116,6 +2062,7 @@ Hitung: 90 = 2 × 3² × 5 ; 120 = 2³ × 3 × 5 ; 150 = 2 × 3 × 5² → KPK =
 ---
 
 **88.** Pak Andi memiliki **300 buah pena, 450 buah pensil, 600 buah penghapus** untuk hadiah lomba. Ia membaginya ke beberapa peserta **sama rata**. **Paling banyak** berapa peserta? **Berapa total alat tulis** per peserta?
+
 - A. 50 peserta, 27 alat tulis
 - B. 75 peserta, 18 alat tulis
 - C. 150 peserta, 9 alat tulis
@@ -2124,58 +2071,37 @@ Hitung: 90 = 2 × 3² × 5 ; 120 = 2³ × 3 × 5 ; 150 = 2 × 3 × 5² → KPK =
 **Kunci: C**
 **Pembahasan:**
 Identifikasi: "**sama rata**" + "**paling banyak**" → **FPB** 3 bilangan.
-Hitung: 300 = 2² × 3 × 5² ; 450 = 2 × 3² × 5² ; 600 = 2³ × 3 × 5² → FPB = 2 × 3 × 5² = **150** peserta. Total/peserta = 300/150 + 450/150 + 600/150 = 2 + 3 + 4 = **9** alat tulis.
-- **A** — 50 bukan FPB terbesar.
-- **B** — 75 hanya membagi 300 & 450, tidak membagi 600 habis (600/75=8).
-
-Tunggu — 600/75 = 8, membagi habis. Mari cek lagi: 75 = 3 × 5². 300/75 = 4. 450/75 = 6. 600/75 = 8. Semuanya habis! Maka 75 adalah faktor persekutuan; tapi FPB = 150 (lebih besar). Jadi B salah karena bukan TERBESAR.
-
-- **B** — 75 faktor persekutuan, tapi 150 lebih besar.
-- **C** — Benar, 150 peserta & 9 alat tulis (2+3+4).
-- **D** — 300 tidak membagi 450 habis (450/300 = 1.5).
-- **Konsep kunci:** Setelah FPB (jumlah peserta terbanyak) dari tiga jenis alat tulis ditemukan, jumlahkan hasil bagi tiap jenis untuk mendapatkan total per peserta.
+- **A** — 50 memang faktor persekutuan (isi 6 + 9 + 12 = 27), tetapi bukan yang terbesar.
+- **B** — 75 juga faktor persekutuan (4 + 6 + 8 = 18), tetapi 150 lebih besar.
+- **C** — Benar. 300 = 2² × 3 × 5²; 450 = 2 × 3² × 5²; 600 = 2³ × 3 × 5² → FPB = 2 × 3 × 5² = 150 peserta. Tiap peserta: 2 + 3 + 4 = 9 alat tulis.
+- **D** — 300 tidak membagi habis 450 (hasilnya 1,5), jadi tidak bisa dibagi rata.
+- **Konsep kunci:** FPB memberi banyak peserta terbanyak; jumlah hasil bagi tiap jenis memberi isi tiap paket.
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "sama rata" + "paling banyak" → cari FPB tiga bilangan dulu.
-  2. Faktorkan 300 = 2² × 3 × 5², 450 = 2 × 3² × 5², dan 600 = 2³ × 3 × 5² → FPB = 2 × 3 × 5² = 150 peserta.
-  3. Total alat tulis tiap peserta = 300/150 + 450/150 + 600/150 = 2 + 3 + 4 = 9.
+  1. Kata kunci "sama rata" + "paling banyak" → FPB.
+  2. FPB(300, 450, 600) = 150.
+  3. Isi tiap peserta = 2 + 3 + 4 = 9.
 
 ---
 
-**89.** Tiga kelompok pengrajin **menghias gerabah** dengan irama: Kelompok A cat tiap 9 menit, B tiap 15 menit, C tiap 25 menit. Jika **bertiga cat bersamaan** pukul 09.00, **berapa kali** mereka cat **bersamaan dalam 24 jam ke depan**?
-- A. 1 kali
-- B. 2 kali
-- C. 3 kali
-- D. 4 kali
+**89.** Tiga kelompok pengrajin **menghias gerabah** dengan irama: Kelompok A cat tiap 9 menit, B tiap 15 menit, C tiap 25 menit. Jika **bertiga cat bersamaan** pukul 09.00, **berapa kali** mereka cat **bersamaan lagi dalam 24 jam ke depan** (pukul 09.00 tidak dihitung)?
+
+- A. 6 kali
+- B. 7 kali
+- C. 160 kali
+- D. 0 kali
 
 **Kunci: A**
 **Pembahasan:**
-Identifikasi: "**bersamaan lagi**" → **KPK** 3 bilangan, lalu hitung kemunculan.
-Hitung: 9 = 3² ; 15 = 3 × 5 ; 25 = 5² → KPK = 3² × 5² = **225** menit = **3 jam 45 menit**. Dalam 24 jam (1440 menit): 1440 ÷ 225 = 6 sisa 90. Maka **6 kali** terjadi pertemuan bersama (selain awal). Tapi yang ditanya "**dalam 24 jam ke depan**" (tidak termasuk pukul 09.00 awal): pertemuan ke-1: +225 menit, ke-2: +450, ..., ke-6: +1350 menit (< 1440), ke-7: +1575 menit (> 1440). Jadi **6 kali**.
-
-Opsi tidak ada 6. Periksa ulang: 225 × 6 = 1350, 225 × 7 = 1575. Dalam 1440 menit, mencakup 6 pertemuan ulang. Tapi pertanyaan agak ambigu; jika hitung **pertemuan dalam 24 jam termasuk yang pas habisnya**, maka 6.
-
-**Pembetulan dengan angka berbeda:** ganti soal jadi 12, 15, 20 menit → KPK = 60 menit = 1 jam. Dalam 24 jam = **24 kali**. Tetap tidak ada opsi.
-
-Atau **gunakan asumsi pertanyaan = "berapa kali dalam waktu kerja 8 jam (480 menit)"**: 480/225 = 2 sisa 30 → **2 kali**. Opsi B.
-
-**Kunci final dengan asumsi "dalam 8 jam ke depan": B = 2 kali.**
-
-Untuk konsistensi, mari soal direvisi:
-
-**REVISI SOAL 89:** ... **berapa kali bersama dalam 8 jam ke depan**?
-Hitung: KPK = 225 menit. 8 jam = 480 menit. 480/225 = 2.13 → **2 kali** (pada menit ke-225 dan menit ke-450).
-
-- **A** — 1 kali salah; 2 pertemuan dalam 8 jam.
-- **B** — Benar, 2 kali.
-- **C** — 3 kali salah; pertemuan ke-3 di menit 675 (sudah lebih dari 480).
-- **D** — 4 kali salah.
-
-**Kunci final: B**
-- **Konsep kunci:** Setelah KPK tiga bilangan ditemukan, bagi rentang waktu dengan KPK untuk menghitung berapa kali ketiga kelompok mengecat bersamaan; soal ini direvisi rentangnya menjadi 8 jam agar cocok opsi.
+Identifikasi: "**bersamaan**" berulang → **KPK** 3 bilangan, lalu hitung kemunculan.
+- **A** — Benar. 9 = 3²; 15 = 3 × 5; 25 = 5² → KPK = 3² × 5² = 225 menit. 24 jam = 1.440 menit. 1.440 ÷ 225 = 6 sisa 90 → 6 kali.
+- **B** — Pukul 09.00 ikut dihitung, padahal soal menyatakan tidak dihitung.
+- **C** — 1.440 ÷ 9; itu banyak cat kelompok A saja, bukan saat ketiganya bersamaan.
+- **D** — Memakai hasil kali 9 × 15 × 25 = 3.375 menit (lebih dari 24 jam); hasil kali bukan KPK.
+- **Konsep kunci:** Banyak kejadian dalam rentang waktu = rentang ÷ KPK (dibulatkan ke bawah).
 - **Langkah Penyelesaian:**
-  1. Kenali kata kunci "berapa kali bersamaan" → cari KPK tiga bilangan dulu.
-  2. Faktorkan 9 = 3², 15 = 3 × 5, dan 25 = 5² → KPK = 3² × 5² = 225 menit.
-  3. Sesuai revisi rentang 8 jam (480 menit): 480 ÷ 225 = 2 sisa 30 → 2 kali (kunci final B).
+  1. KPK(9, 15, 25) = 225 menit.
+  2. 1.440 ÷ 225 = 6 sisa 90.
+  3. Ada 6 kali bersamaan setelah pukul 09.00.
 
 ---
 
@@ -2502,7 +2428,7 @@ Hitung: 192 = 2⁶ × 3 ; 240 = 2⁴ × 3 × 5 ; 336 = 2⁴ × 3 × 7 → FPB = 
 | 51 | A | FPB+lanjutan | Prov |
 | 52 | C | FPB+lanjutan | Prov |
 | 53 | C | KPK+hari/jam | Prov |
-| 54 | C | KPK+hari (revisi) | Prov |
+| 54 | B | KPK+hari (revisi) | Prov |
 | 55 | A | FPB+lanjutan | Prov |
 | 56 | B | FPB 3-bil | Prov |
 | 57 | C | KPK 3-bil | Prov |
@@ -2510,7 +2436,7 @@ Hitung: 192 = 2⁶ × 3 ; 240 = 2⁴ × 3 × 5 ; 336 = 2⁴ × 3 × 7 → FPB = 
 | 59 | B | KPK+hari (revisi) | Prov |
 | 60 | B | KPK 3-bil | Prov |
 | 61 | B | FPB+lanjutan 3-bil | Prov |
-| 62 | B | KPK (revisi 35,42) | Prov |
+| 62 | C | KPK (revisi 35,42) | Prov |
 | 63 | A | FPB+total potongan | Prov |
 | 64 | C | KPK+konversi bulan | Prov |
 | 65 | B | FPB+lanjutan | Prov |
@@ -2528,25 +2454,25 @@ Hitung: 192 = 2⁶ × 3 ; 240 = 2⁴ × 3 × 5 ; 336 = 2⁴ × 3 × 7 → FPB = 
 | 77 | D | FPB+lanjutan | Prov |
 | 78 | D | KPK 3-bil+hari | Prov |
 | 79 | B | FPB 3-bil+total | Prov |
-| 80 | B | KPK+hari (revisi 4,6,8) | Prov |
+| 80 | C | KPK+hari (revisi 4,6,8) | Prov |
 | 81 | C | FPB 3-bil+lanjutan | Nas |
 | 82 | C | KPK 4-bil | Nas |
 | 83 | C | FPB 3-bil+total | Nas |
-| 84 | B | KPK+hitung kemunculan | Nas |
-| 85 | C | KPK 3-bil+lama | Nas |
+| 84 | A | KPK+hitung kemunculan | Nas |
+| 85 | A | KPK 3-bil+lama | Nas |
 | 86 | B | FPB+anggota | Nas |
 | 87 | D | KPK 3-bil+kalender | Nas |
 | 88 | C | FPB 3-bil+total | Nas |
-| 89 | B | KPK 3-bil+kemunculan (rev) | Nas |
+| 89 | A | KPK 3-bil+kemunculan (rev) | Nas |
 | 90 | B | FPB 3-bil+total | Nas |
-| 91 | B | KPK+kemunculan | Nas |
+| 91 | C | KPK+kemunculan | Nas |
 | 92 | B | FPB 4-bil | Nas |
 | 93 | C | KPK 4-bil | Nas |
 | 94 | C | FPB 3-bil+lanjutan | Nas |
 | 95 | B | KPK 3-bil+lama | Nas |
 | 96 | B | FPB 3-bil+total | Nas |
-| 97 | C | KPK 3-bil+kemunculan | Nas |
-| 98 | A | FPB 3-bil+total (rev 144,192,240) | Nas |
+| 97 | B | KPK 3-bil+kemunculan | Nas |
+| 98 | D | FPB 3-bil+total (rev 144,192,240) | Nas |
 | 99 | B | KPK 4-bil | Nas |
 | 100 | B | FPB 3-bil+total | Nas |
 

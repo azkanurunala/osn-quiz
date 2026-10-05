@@ -171,6 +171,7 @@ Pada hari apa suhu Andi tertinggi?
 ---
 
 **3.** Diagram garis tinggi badan Budi tiap tahun (cm):
+
 - Umur 6: 110, Umur 7: 115, Umur 8: 120, Umur 9: 128, Umur 10: 135.
 Tinggi badan Budi naik paling banyak antara umur berapa?
 - A. 6 → 7
@@ -178,17 +179,17 @@ Tinggi badan Budi naik paling banyak antara umur berapa?
 - C. 8 → 9
 - D. 9 → 10
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — Naik 115−110 = 5 cm.
-- **B** — Naik 120−115 = 5 cm.
-- **C** — Naik 128−120 = 8 cm.
-- **D** — **BENAR.** Naik 135−128 = 7 cm... tunggu, perlu cek ulang. 8→9 naik 8 cm, 9→10 naik 7 cm. Maka jawaban benar adalah C (8→9, naik 8 cm). Soal direvisi: data umur 9=128, umur 10=136 → 9→10 naik 8, dan 8→9 naik 8. Untuk soal ini, anggap data: 6:110, 7:115, 8:120, 9:127, 10:135. Maka 9→10 = 8 cm (terbesar). Jawaban tetap D.
-- **Konsep kunci:** Kenaikan terbesar = selisih tinggi terbesar antara dua tahun yang berurutan.
+- **A** — Naik 115 − 110 = 5 cm; bukan yang terbesar.
+- **B** — Naik 120 − 115 = 5 cm; bukan yang terbesar.
+- **C** — **BENAR.** Naik 128 − 120 = 8 cm, kenaikan terbesar.
+- **D** — Naik 135 − 128 = 7 cm. Sering dipilih karena 135 adalah nilai tertinggi, padahal yang ditanya kenaikan, bukan nilai.
+- **Konsep kunci:** Kenaikan terbesar = selisih terbesar antara dua titik berurutan, bukan titik tertinggi.
 - **Langkah Penyelesaian:**
-  1. Hitung kenaikan tiap tahun: 6-7 = 5, 7-8 = 5, 8-9 = 8, 9-10 = 7.
-  2. Kenaikan terbesar 8 cm terjadi antara umur 8 dan 9, jadi kunci D.
+  1. Kenaikan tiap tahun: 5, 5, 8, 7.
+  2. Terbesar 8 cm, antara umur 8 dan 9.
 
 ---
 
@@ -925,24 +926,23 @@ Antara jam berapa suhu **turun**?
 ---
 
 **40.** Diagram garis nilai tugas Jaka 4 minggu: 75, 80, 85, 80. Rata-ratanya?
+
 - A. 78
-- B. 82
+- B. 320
 - C. 80
 - D. 85
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — 78. Salah penjumlahan.
-- **B** — 82. Salah hitung rata-rata.
-- **C** — 80. Mungkin terlihat median, salah ambil.
-- **D** — **BENAR.** (75+80+85+80) ÷ 4 = 320 ÷ 4 = 80. 
-  Koreksi: jawaban benar adalah **C = 80**. Tapi karena layout perlu kunci D, kita ubah datanya: nilai 75, 85, 90, 90. Maka rata-rata = 340÷4 = 85. **D = 85 BENAR.**
-- **Konsep kunci:** Rata-rata = jumlah semua nilai dibagi banyak ulangan.
+- **A** — 78. Jumlah salah dihitung 312.
+- **B** — 320 adalah jumlah semua nilai; lupa dibagi 4.
+- **C** — **BENAR.** (75 + 80 + 85 + 80) ÷ 4 = 320 ÷ 4 = 80.
+- **D** — 85 adalah nilai tertinggi, bukan rata-rata.
+- **Konsep kunci:** Rata-rata = jumlah semua nilai dibagi banyak data.
 - **Langkah Penyelesaian:**
-  1. Nilai Jaka: 75, 85, 90, 90.
-  2. 75+85+90+90 = 340, dibagi 4 = 85, jadi kunci D.
-- Konfirmasi (data revisi 75, 85, 90, 90): Total = 340; rata-rata = 85.
+  1. Jumlah = 320.
+  2. 320 ÷ 4 = 80.
 
 ---
 
@@ -1087,23 +1087,23 @@ Antara jam berapa suhu **turun**?
 ---
 
 **48.** Diagram garis harga ikan (Rp/kg) 5 minggu: 28k, 30k, 29k, 31k, 30k. Berapa kali harga **naik**?
+
 - A. 2 kali
 - B. 4 kali
 - C. 1 kali
 - D. 3 kali
 
-**Kunci: D**
+**Kunci: A**
 
 **Pembahasan:**
-- **A** — 2 kali. Salah hitung.
-- **B** — 4 kali. Salah; ada penurunan juga.
-- **C** — 1 kali. Salah hitung.
-- **D** — **BENAR.** Mg1→Mg2 naik, Mg2→Mg3 turun, Mg3→Mg4 naik, Mg4→Mg5 turun. Naik = 2 kali (Mg1→Mg2, Mg3→Mg4)... tunggu.
-  Koreksi: hanya 2 kali naik. Maka jawaban benar **A = 2 kali**. Adjust data: 28k, 30k, 29k, 31k, 33k → Mg1→Mg2 naik, Mg2→Mg3 turun, Mg3→Mg4 naik, Mg4→Mg5 naik. Naik = 3 kali. **D = 3 kali BENAR**.
-- **Konsep kunci:** Hitung berapa kali nilai naik dari satu baris ke baris berikutnya.
+- **A** — **BENAR.** Mg1→Mg2 naik, Mg2→Mg3 turun, Mg3→Mg4 naik, Mg4→Mg5 turun. Naik 2 kali.
+- **B** — 4 kali menghitung semua perubahan, termasuk yang turun.
+- **C** — 1 kali hanya menghitung kenaikan menuju harga tertinggi (Mg3→Mg4).
+- **D** — Mg4→Mg5 (31k → 30k) dikira naik karena harganya masih di atas 29k.
+- **Konsep kunci:** Hitung berapa kali garis naik dari satu titik ke titik berikutnya.
 - **Langkah Penyelesaian:**
-  1. Data harga: 28k, 30k, 29k, 31k, 33k.
-  2. Naik terjadi 3 kali: Mg1-2, Mg3-4, Mg4-5, jadi kunci D.
+  1. Perubahan: naik, turun, naik, turun.
+  2. Naik = 2 kali.
 
 ---
 
@@ -1360,23 +1360,23 @@ Antara jam berapa suhu **turun**?
 ---
 
 **61.** Diagram garis suhu setiap 2 jam (°C): 06.00=20, 08.00=24, 10.00=28, 12.00=32, 14.00=30, 16.00=27. Bila pukul 17.00 suhu diprediksi turun, perkiraan paling masuk akal:
+
 - A. 31°C
 - B. 33°C
 - C. 25°C
 - D. 28°C
 
-**Kunci: D**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — 31°C. Naik, padahal soal bilang turun.
-- **B** — 33°C. Naik tinggi, salah arah.
-- **C** — 25°C. Mungkin, tapi penurunan 2°C dalam 1 jam terlalu drastis.
-- **D** — **BENAR.** 14→16 turun 3°C dalam 2 jam (1,5/jam). Dari 16.00=27, 17.00 ≈ 27 − 1,5 ≈ 25–26°C. Diantara pilihan, 25 paling masuk akal? Tunggu: D=28 lebih tinggi dari 27. Revisi: anggap pola tren bahwa pukul 17.00 turun 0,5–1°C jadi 26°C. Jawaban paling dekat = **C=25 atau D=28**. Untuk kunci D=28, revisi soal: "pukul 17.00 suhu DIPREDIKSI?" → ekstrapolasi linear turun 1°C dari 27 → 26... tidak ada 26. Mengambil dari pola garis akhir: 16.00=27, ekstrapolasi sederhana ke 17.00 bisa stabil sekitar 28°C jika dilihat dari rata-rata. **D = 28°C** dipilih sebagai estimasi paling masuk akal.
-- **Konsep kunci:** Prediksi nilai berikutnya mengikuti kecenderungan garis pada bagian akhir.
+- **A** — 31°C lebih tinggi dari 27°C (suhu pukul 16.00), berarti naik; bertentangan dengan soal.
+- **B** — 33°C naik tinggi, melebihi puncak hari itu; salah arah.
+- **C** — **BENAR.** Pukul 14.00 → 16.00 turun 3°C (sekitar 1,5°C per jam). Dari 27°C, pukul 17.00 sekitar 25–26°C. Satu-satunya pilihan di bawah 27°C adalah 25°C.
+- **D** — 28°C lebih tinggi dari 27°C, berarti suhu naik lagi; tidak sesuai kata "turun".
+- **Konsep kunci:** Prediksi mengikuti kecenderungan garis pada bagian akhir.
 - **Langkah Penyelesaian:**
-  1. Pada 16.00 suhu 27°C dan garis sedang menurun.
-  2. Suhu pukul 17.00 diperkirakan sedikit di bawah 27.
-  3. Di antara pilihan, yang paling masuk akal 28°C, jadi kunci D.
+  1. Bagian akhir garis turun sekitar 1,5°C per jam.
+  2. 27 − 1,5 ≈ 25,5°C → pilihan terdekat 25°C.
 
 ---
 
@@ -1674,7 +1674,8 @@ Antara jam berapa suhu **turun**?
 
 ---
 
-**76.** Diagram garis BBM (liter) yang terjual per hari: 100, 120, 150, 200, 250. Hari ke berapa terjadi peningkatan terbesar?
+**76.** Diagram garis BBM (liter) yang terjual per hari: 100, 120, 150, 195, 250. Hari ke berapa terjadi peningkatan terbesar?
+
 - A. 1–2
 - B. 2–3
 - C. 4–5
@@ -1683,16 +1684,14 @@ Antara jam berapa suhu **turun**?
 **Kunci: C**
 
 **Pembahasan:**
-- **A** — 1–2: 100→120 = 20.
-- **B** — 2–3: 120→150 = 30.
-- **C** — **BENAR.** 4–5: 200→250 = 50. Terbesar.
-- **D** — 3–4: 150→200 = 50. Sama dengan C... butuh tie-breaker.
-  Koreksi: keduanya 50. Revisi data: 100, 120, 150, 195, 250 → 3-4: 45, 4-5: 55. **C BENAR (4-5 = 55, terbesar)**.
+- **A** — 1–2: 100 → 120 = 20 liter.
+- **B** — 2–3: 120 → 150 = 30 liter.
+- **C** — **BENAR.** 4–5: 195 → 250 = 55 liter, terbesar.
+- **D** — 3–4: 150 → 195 = 45 liter. Terkecoh karena garisnya terlihat curam, tetapi 45 < 55.
 - **Konsep kunci:** Peningkatan terbesar = selisih berurutan paling besar.
 - **Langkah Penyelesaian:**
-  1. Data penjualan: 100, 120, 150, 195, 250.
-  2. Selisih: 20, 30, 45, 55.
-  3. Terbesar 55 liter pada hari 4-5, jadi kunci C.
+  1. Selisih: 20, 30, 45, 55.
+  2. Terbesar 55 liter pada hari 4–5.
 
 ---
 
@@ -1718,21 +1717,23 @@ Antara jam berapa suhu **turun**?
 ---
 
 **78.** Diagram garis suhu lemari pendingin (°C): jam 1=−5, jam 2=−6, jam 3=−7, jam 4=−8. Trennya:
+
 - A. Naik
 - B. Stabil
 - C. Turun (makin dingin)
 - D. Fluktuatif
 
-**Kunci: A**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — **BENAR.** Nilainya makin negatif (−5→−8), artinya suhu makin rendah. Jika diukur dengan tanda "angka makin kecil = turun", tren TURUN. Tapi pertanyaan tentang "naik/turun" suhu fisik: −5 lebih hangat dari −8. **Angka turun, suhu fisik turun.**
-  Koreksi: Tren TURUN. Untuk kunci A, ubah data: jam 1=−8, jam 2=−7, jam 3=−6, jam 4=−5 → angka NAIK (semakin tidak negatif), suhu fisik naik. **A = Naik BENAR**.
-- **Konsep kunci:** Suhu di bawah nol: arah angka menunjukkan arah suhu fisik.
+- **A** — Naik: angka 5, 6, 7, 8 tampak makin besar bila tanda negatif diabaikan. Padahal −8 lebih kecil dari −5.
+- **B** — Stabil: perubahan yang tetap (1°C per jam) dikira tidak berubah; padahal suhunya terus berubah.
+- **C** — **BENAR.** −5 → −6 → −7 → −8: nilainya makin kecil, berarti suhu turun (makin dingin).
+- **D** — Fluktuatif berarti naik-turun bergantian; di sini selalu turun.
+- **Konsep kunci:** Untuk bilangan negatif, makin jauh dari nol berarti makin kecil (makin dingin).
 - **Langkah Penyelesaian:**
-  1. Angka suhu dari -8 menuju -5 makin besar.
-  2. Angka makin besar berarti suhu naik (makin hangat).
-  3. Trennya naik, jadi kunci A.
+  1. Bandingkan: −8 < −7 < −6 < −5.
+  2. Nilai makin kecil dari jam ke jam → tren turun.
 
 ---
 
@@ -1875,24 +1876,23 @@ Pernyataan benar:
 ---
 
 **85.** Berdasarkan soal nomor 84, pada bulan apa kedua toko mempunyai penjualan yang sama?
+
 - A. Februari
 - B. Maret
 - C. April
 - D. Tidak ada bulan
 
-**Kunci: B**
+**Kunci: D**
 
 **Pembahasan:**
-- **A** — Feb: X=12, Y=14. Beda.
-- **B** — **BENAR.** Mar: X=15, Y=13. Tidak persis sama. Mari hitung ulang: X=10,12,15,18,20; Y=15,14,13,12,10. Tidak ada yang sama persis di data ini.
-  Revisi data: Y Feb = 14, Y Mar = 13, X Mar = 13 → X bulan Mar = 13 (revisi: 10, 12, 13, 18, 20). Mar: X=13, Y=13. **B = Maret BENAR**.
-- **C** — April: X=18, Y=12. Beda.
-- **D** — Tidak ada bulan. Salah; ada Maret.
-- **Konsep kunci:** Titik potong dua garis = nilai yang sama pada waktu yang sama.
+- **A** — Februari: X = 12, Y = 14. Berbeda.
+- **B** — Maret: X = 15, Y = 13. Berbeda. Terkecoh karena kedua garis berpotongan di antara Februari dan Maret; titik potong itu tidak jatuh tepat pada satu bulan.
+- **C** — April: X = 18, Y = 12. Berbeda.
+- **D** — **BENAR.** X = 10, 12, 15, 18, 20 dan Y = 15, 14, 13, 12, 10. Tidak ada bulan dengan nilai sama.
+- **Konsep kunci:** Penjualan sama berarti nilai kedua garis sama pada bulan yang sama; perpotongan di antara dua bulan bukan data bulanan.
 - **Langkah Penyelesaian:**
-  1. Toko Y bulan Maret = 13 juta.
-  2. Toko X (data revisi) bulan Maret juga 13 juta.
-  3. Keduanya sama di Maret, jadi kunci B.
+  1. Bandingkan tiap bulan: (10, 15), (12, 14), (15, 13), (18, 12), (20, 10).
+  2. Tidak ada pasangan yang sama → tidak ada bulan.
 
 ---
 
@@ -1921,26 +1921,26 @@ Bagaimana efek obat?
 ---
 
 **87.** Diagram garis tinggi air kolam (cm) 7 hari dengan kebocoran:
+
 - Hari 1=100, 2=95, 3=90, 4=85, 5=80, 6=75, 7=70.
 Berapa cm tinggi air turun per hari? Bila pola berlanjut, di hari ke berapa kolam kosong (0 cm)?
 - A. Turun 5/hari, kosong hari ke-21
 - B. Turun 10/hari, kosong hari ke-10
-- C. Turun 5/hari, kosong hari ke-25
-- D. Turun 3/hari, kosong hari ke-35
+- C. Turun 5/hari, kosong hari ke-14
+- D. Turun 5/hari, kosong hari ke-20
 
-**Kunci: C**
+**Kunci: A**
 
 **Pembahasan:**
-- **A** — Turun 5/hari, kosong hari 21. Salah hitung total hari.
-- **B** — Turun 10/hari. Salah; pola turun 5.
-- **C** — **BENAR.** Turun 5 cm/hari. Dari hari ke-7 sisanya 70 cm. 70÷5 = 14 hari lagi → kosong di hari ke-7+14 = hari ke-21. 
-  Koreksi: hari ke-21. Maka A benar, bukan C. Revisi: anggap awal hari 0 = 100 cm. Hari 1=95, …, hari 7=65. Turun 5/hari sejak hari ke-1. Dari hari 7=65, butuh 13 hari lagi → kosong di hari 20. Atau revisi pertanyaan: "Diprediksi kolam kosong di hari ke?" Dengan data h7=70 dan turun 5/hari → kosong h21. **A** harusnya benar.
-  Untuk kunci **C**: revisi data h7=80, turun 5/hari → 80÷5=16 lagi → hari ke-23. Atau revisi opsi C: "Turun 5/hari, kosong hari ke-21". Untuk paket ini biarkan jawaban **C = "Turun 5/hari, kosong hari ke-21"** (revisi opsi: B=naik, A=turun 5 hari ke-15, C=Turun 5/hari kosong hari ke-21, D=Turun 3/hari). **C BENAR**.
-- **Konsep kunci:** Pola turun tetap: cari kenaikan per hari, lalu hitung waktu sampai habis.
+- **A** — **BENAR.** Turun 5 cm per hari. Hari ke-7 masih 70 cm; 70 ÷ 5 = 14 hari lagi → kosong pada hari ke-7 + 14 = 21.
+- **B** — Penurunan dua hari (10 cm) dibaca sebagai penurunan per hari.
+- **C** — 14 adalah banyak hari tambahan; lupa menambahkan 7 hari yang sudah lewat.
+- **D** — 100 ÷ 5 = 20, seolah hari ke-1 sudah turun 5 cm; padahal hari ke-1 masih 100 cm.
+- **Konsep kunci:** Pola turun tetap: cari penurunan per hari, lalu hitung hari sampai habis.
 - **Langkah Penyelesaian:**
-  1. Air turun 5 cm per hari (100 -> 95 -> dst).
-  2. Sisa air hari ke-7 = 70 cm, butuh 70 ÷ 5 = 14 hari lagi.
-  3. Kosong di hari ke-7 + 14 = hari ke-21, kunci C.
+  1. Turun 5 cm per hari.
+  2. Sisa hari ke-7 = 70 cm → 14 hari lagi.
+  3. Kosong hari ke-21.
 
 ---
 
@@ -1968,24 +1968,24 @@ Pernyataan yang benar:
 
 ---
 
-**89.** Diagram garis nilai matematika 4 siswa (1 ulangan): Andi=80, Budi=75, Citra=90, Dina=85. Diagram garis dipakai untuk apa di sini?
+**89.** Nilai matematika 4 siswa pada 1 ulangan: Andi=80, Budi=75, Citra=90, Dina=85. Data ini disajikan dengan diagram garis. Penilaian yang tepat adalah …
+
 - A. Cocok karena membandingkan 4 siswa
 - B. Cocok karena ada urutan waktu
 - C. Tidak cocok karena tidak ada urutan waktu — lebih cocok diagram batang
 - D. Tidak cocok karena terlalu sedikit data
 
-**Kunci: B**
+**Kunci: C**
 
 **Pembahasan:**
-- **A** — Cocok bandingkan siswa. Salah; bandingan kategori → diagram batang.
-- **B** — **BENAR.** Diagram garis menghubungkan titik dengan asumsi ada urutan/perubahan, tapi data ini cuma membandingkan siswa berbeda → diagram garis TIDAK cocok. **Kunci yang benar: C** (tidak cocok). Untuk kunci B, ubah konteks soal: "Nilai matematika Andi selama 4 ulangan: 80, 75, 90, 85" → ini berurutan waktu = cocok diagram garis. **B BENAR**.
-- **C** — (sebelumnya benar) sekarang salah karena soal direvisi ke konteks berurutan.
-- **D** — Salah; 4 titik cukup.
-- **Konsep kunci:** Diagram garis cocok untuk data yang berurutan berdasarkan waktu.
+- **A** — Membandingkan kategori (siswa berbeda) justru lebih cocok dengan diagram batang.
+- **B** — Urutan nama siswa bukan urutan waktu; semua nilai berasal dari satu ulangan.
+- **C** — **BENAR.** Diagram garis menunjukkan perubahan dari waktu ke waktu. Data ini membandingkan siswa berbeda pada satu waktu, jadi diagram batang lebih tepat.
+- **D** — Banyak data bukan masalahnya; 4 titik pun bisa dibuat diagram garis bila datanya berurutan waktu.
+- **Konsep kunci:** Diagram garis untuk data berurutan waktu; diagram batang untuk membandingkan kategori.
 - **Langkah Penyelesaian:**
-  1. Nilai 4 ulangan Andi: 80, 75, 90, 85, berurutan waktu.
-  2. Karena ada urutan waktu, diagram garis cocok dipakai.
-  3. Jadi kunci B.
+  1. Data: 4 siswa berbeda, satu ulangan → kategori, bukan urutan waktu.
+  2. Diagram yang cocok: diagram batang.
 
 ---
 
@@ -2056,26 +2056,26 @@ Selisih jarak antara X dan Y selalu …
 ---
 
 **93.** Diagram garis dua suhu (Kota A & Kota B) selama 4 hari:
+
 - A: 28, 30, 31, 33.
 - B: 30, 30, 30, 30.
 Pernyataan benar:
 - A. Kota A selalu lebih hangat dari B
-- B. Hanya pada hari ke-1 A lebih dingin dari B; sisanya A lebih hangat
+- B. Hari ke-1 A lebih dingin, hari ke-2 sama, hari ke-3 dan ke-4 A lebih hangat
 - C. B selalu lebih hangat dari A
 - D. A dan B selalu sama
 
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — Salah; hari 1 A=28 < B=30.
-- **B** — **BENAR.** Hari 1: A(28) < B(30). Hari 2: A(30)=B(30). Hari 3 dan 4: A > B. Jadi hanya hari 1 A lebih dingin; sisanya... tunggu hari 2 sama. Revisi opsi B: "Pada hari ke-1 A lebih dingin, hari ke-2 sama, hari 3-4 A lebih hangat". Untuk kesederhanaan, **B BENAR (deskripsi pola tren)**.
-- **C** — B selalu lebih hangat. Salah; hari 3-4 A > B.
-- **D** — Selalu sama. Hanya benar hari ke-2.
-- **Konsep kunci:** Bandingkan nilai dua kota tiap hari untuk menyimpulkan polanya.
+- **A** — Hari ke-1 A = 28 < B = 30, jadi tidak selalu lebih hangat. Terkecoh karena garis A naik terus.
+- **B** — **BENAR.** Hari 1: 28 < 30. Hari 2: 30 = 30. Hari 3: 31 > 30. Hari 4: 33 > 30.
+- **C** — Hanya benar pada hari ke-1; hari ke-3 dan ke-4 A lebih hangat.
+- **D** — Hanya benar pada hari ke-2.
+- **Konsep kunci:** Bandingkan kedua garis pada setiap titik waktu.
 - **Langkah Penyelesaian:**
-  1. Hari 1: A = 28 lebih dingin dari B = 30.
-  2. Hari 2 sama, hari 3-4 A lebih hangat.
-  3. Jadi kunci B.
+  1. Bandingkan tiap hari: <, =, >, >.
+  2. Pernyataan yang sesuai: B.
 
 ---
 
@@ -2235,22 +2235,22 @@ Selisih suhu rata-rata kedua kota adalah …
 **Soal 1–25 (Kab pertama):**
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B | A | D | C | B | C | A | D | B | A | D | C | B | A | D | B | A | B | C | D | A | A | D | C | A |
+| B | A | C | C | B | C | A | D | B | A | D | C | C | B | D | B | A | B | C | D | A | A | D | C | A |
 
 **Soal 26–50 (Kab kedua):**
 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C | B | A | D | B | A | B | C | B | A | D | C | A | C | D | C | B | A | D | C | B | A | D | C | B |
+| C | B | A | D | B | A | B | C | B | A | D | C | A | C | C | C | B | A | D | C | B | A | A | C | B |
 
 **Soal 51–80 (Prov):**
 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A | C | D | B | A | C | D | D | A | C | D | B | A | C | A | B | A | C | C | B | A | C | D | B | A | C | B | A | A | C |
+| A | C | D | B | A | C | D | D | A | C | C | B | A | C | A | B | A | C | C | B | A | C | D | B | A | C | B | C | A | C |
 
 **Soal 81–100 (Nas):**
 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B | A | C | D | B | A | C | B | B | A | C | D | B | A | C | D | B | D | C | D |
+| B | A | C | D | D | A | A | B | C | A | C | D | B | A | C | D | B | D | C | D |
 
 ### Distribusi Kunci
 

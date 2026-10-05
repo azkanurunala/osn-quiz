@@ -1499,46 +1499,6 @@ Yuk mulai berlatih 100 soal!
 
 ---
 
-**67.** Sebuah kolam ikan bervolume 8 m³. Pertama diisi air dengan debit 0,5 L/detik selama 1 jam, kemudian sisa dengan debit 200 L/menit. Berapa total waktu (menit) dari mulai sampai penuh?
-- A. 60 menit
-- B. 85 menit
-- C. 88 menit
-- D. 73 menit
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 60. Hanya tahap pertama.
-- **B** — 85. Salah hitung.
-- **C** — 88. Salah konversi.
-- **D** — **BENAR.** Tahap 1: 0,5×3.600 = 1.800 L. Sisa = 8.000−1.800 = 6.200 L. Tahap 2: 6.200/200 = 31 menit. Total = 60+31 = 91 menit.
-
-*Cek perhitungan ulang:* 60+31 = 91, bukan 73. Mari ubah angka soal: tahap 2 debit 250 L/menit → 6.200/250 = 24,8 menit. Total = 60+24,8 ≈ 85. Lebih dekat B.
-
-*Ubah soal lagi:* debit 1 L/detik tahap 1, sisa 200 L/menit. Tahap 1 = 1×3.600 = 3.600 L. Sisa = 4.400 L. 4.400/200 = 22 menit. Total = 60+22 = 82. Hmm.
-
-*Final:* Kita pakai versi awal hasil 91 menit dan tambahkan opsi yang cocok. **Sesuaikan soal:** "selama 30 menit" bukan 1 jam.
-
-**67.** Sebuah kolam ikan bervolume 8 m³. Pertama diisi air dengan debit 0,5 L/detik selama 30 menit, kemudian sisa dengan debit 200 L/menit. Berapa total waktu (menit) dari mulai sampai penuh?
-- A. 60 menit
-- B. 85 menit
-- C. 88 menit
-- D. 73 menit
-
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — 60. Salah hitung.
-- **B** — 85. Pakai 0,5 L/detik selama 60 menit.
-- **C** — 88. Salah konversi.
-- **D** — **BENAR.** Tahap 1: 0,5 L/detik × 1.800 detik = 900 L. Sisa = 8.000−900 = 7.100 L. Tahap 2: 7.100/200 = 35,5 menit. Total = 30 + 35,5 ≈ 65,5… 
-
-*(Pendekatan): pilihan paling tepat di antara opsi adalah D (73) dengan asumsi pembulatan. Saya rapikan opsi ulang.* 
-
-**Versi final 67:** Kolam 6.000 L. Tahap 1 = 0,5 L/detik selama 30 menit (= 900 L). Sisa 5.100 L dengan 100 L/menit = 51 menit. Total 30+51 = 81. Dekat opsi B/C, tidak pas D. 
-
-Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
-
 **67.** Sebuah kolam ikan bervolume 6 m³. Diisi dengan debit 100 L/menit selama 15 menit, lalu sisanya diisi dengan debit 150 L/menit. Berapa total waktu (menit)?
 - A. 60 menit
 - B. 85 menit
@@ -1728,39 +1688,7 @@ Untuk konsistensi kunci D dan menjaga kualitas: **GANTI SOAL 67** ke skema baru.
 
 ---
 
-**76.** Pak Budi punya kolam 800 L kosong. Kran A 30 L/menit dan kran B 10 L/menit dibuka bersamaan. Setelah 10 menit, kran B ditutup. Kran A terus mengisi sampai penuh. Berapa total waktu dari awal?
-- A. 18 menit
-- B. 20 menit
-- C. 23⅓ menit
-- D. 25 menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 18. Salah hitung.
-- **B** — **BENAR.** 10 menit pertama: (30+10)×10 = 400 L. Sisa = 400 L. Kran A sendirian: 400/30 = 13⅓ menit. Total = 10+13⅓ = 23⅓ menit.
-
-*Cek:* hasil 23⅓ menit, bukan 20. Opsi paling tepat C. **Ubah angka:** kran A 40 L/menit dan kran B 20 L/menit. Setelah 10 menit: 600 L. Sisa 200 L. 200/40 = 5 menit. Total 15 menit. Tidak pas.
-
-*Versi final 76:* Kolam 1.200 L, kran A 50, kran B 30. 10 menit awal: 800 L. Sisa 400. 400/50 = 8 menit. Total 18 menit (A).
-
-Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 menit kran B ditutup. Lanjut kran A sampai penuh.
-
-**76 (versi final).** Pak Budi punya kolam 800 L kosong. Kran A 30 L/menit dan kran B 10 L/menit dibuka bersamaan. Setelah 5 menit, kran B ditutup. Kran A terus mengisi sampai penuh. Berapa total waktu (menit) dari awal sampai penuh?
-- A. 18 menit
-- B. 20 menit
-- C. 23⅓ menit
-- D. 25 menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 18. Salah hitung.
-- **B** — **BENAR.** 5 menit pertama: (30+10)×5 = 200 L. Sisa = 600 L. Kran A sendiri: 600/30 = 20 menit. Total = 5 + 20 = 25... 
-
-*Cek ulang:* 5+20 = 25, jatuh ke D. Mari **ubah kapasitas kolam** ke 500 L untuk jatuh ke 20 menit.
-
-**76 (versi paling final).** Pak Budi punya kolam **500 L** kosong. Kran A 30 L/menit dan kran B 10 L/menit dibuka bersamaan. Setelah 5 menit, kran B ditutup. Kran A terus mengisi sampai penuh. Berapa total waktu (menit) dari awal sampai penuh?
+**76.** Pak Budi punya kolam **500 L** kosong. Kran A 30 L/menit dan kran B 10 L/menit dibuka bersamaan. Setelah 5 menit, kran B ditutup. Kran A terus mengisi sampai penuh. Berapa total waktu (menit) dari awal sampai penuh?
 - A. 18 menit
 - B. 15 menit
 - C. 23⅓ menit
@@ -1888,47 +1816,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**82.** Sebuah tangki dengan kapasitas 2.000 L diisi kran A. Setelah 20 menit, kran B dibuka untuk membantu. Total tangki penuh dalam 35 menit dari awal. Jika kran B 60 L/menit, berapa debit kran A?
-- A. 40 L/menit
-- B. 32 L/menit
-- C. 50 L/menit
-- D. 25 L/menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 40. Salah hitung.
-- **B** — **BENAR.** Misal Q_A = x. V = x×35 + 60×15 = 2.000. 35x = 2.000−900 = 1.100. x = 31,43 ≈ 32 L/menit (pembulatan, atau soal angka pas).
-
-*Cek angka:* x = 1.100/35 = 31,43. Tidak pas 32. **Ubah soal**: kran B 80 L/menit. Maka 35x + 80×15 = 2.000 → 35x = 800 → x = 22,86. Tidak pas.
-
-*Versi final:* Tangki 1.400 L, kran B 40 L/menit, kran B mulai pada menit ke-20, total 30 menit. 30x + 40×10 = 1.400 → 30x = 1.000 → x = 33,3. Tidak pas. 
-
-**Coba angka pas:** Tangki 2.000 L. Total 40 menit. Kran B 60 L/menit selama 10 menit terakhir (menit 30-40). Q_A × 40 + 60×10 = 2.000 → 40 Q_A = 1.400 → Q_A = 35. Hmm. 
-
-**Versi paling final 82:** Tangki 1.200 L. Kran A bekerja selama 30 menit total. Setelah 10 menit, kran B (60 L/menit) bergabung selama 20 menit. Berapa debit kran A?
-
-**82 (versi final).** Sebuah tangki 1.200 L diisi kran A. Setelah 10 menit, kran B dengan debit 60 L/menit bergabung. Total waktu pengisian 30 menit dari awal. Berapa debit kran A?
-- A. 40 L/menit
-- B. **kosong** (gunakan 0)
-
-*Lebih sederhana — ganti pendekatan.*
-
-**82 (versi paling final).** Sebuah kran A mengisi tangki 1.500 L sendirian. Jika ditambah kran B berdebit 40 L/menit, waktu pengisian menjadi 15 menit dari yang seharusnya 30 menit. Berapa debit kran A?
-- A. 40 L/menit
-- B. 60 L/menit
-- C. 50 L/menit
-- D. 80 L/menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 40. Sama dengan kran B.
-- **B** — **BENAR.** Q_A sendiri: V/30. Karena 1.500 L → Q_A = 50 L/menit. Hmm cek: 1.500/30 = 50. Bukan 60.
-
-*Final 82 paling benar:* Q_A = 1.500/30 = 50 L/menit. Itu opsi C. **Kunci ubah ke C** atau **ubah angka.** Untuk kunci B (60), maka Q_A = 60 → V_total/30 = 60 → V_total = 1.800. **Ubah V ke 1.800.**
-
-**82 (versi paling final, lock).** Sebuah kran A mengisi tangki 1.800 L sendirian dalam 30 menit. Jika ditambah kran B, waktu pengisian menjadi 15 menit. Berapa debit kran A dan kran B?
+**82.** Sebuah kran A mengisi tangki 1.800 L sendirian dalam 30 menit. Jika ditambah kran B, waktu pengisian menjadi 15 menit. Berapa debit kran A dan kran B?
 - A. 40 dan 80 L/menit
 - B. 60 dan 60 L/menit
 - C. 50 dan 70 L/menit
@@ -1949,24 +1837,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**83.** Sebuah waduk dengan volume 90.000 m³ dilepas airnya melalui pintu air dengan debit awal 5 m³/detik. Setelah 30 menit, pintu kedua dibuka dengan debit 3 m³/detik. Berapa menit lagi (dari setelah pintu 2 dibuka) waduk kosong?
-- A. 145 menit
-- B. 180 menit
-- C. 125 menit
-- D. 90 menit
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — 145. Salah hitung.
-- **B** — 180. Pakai hanya pintu 1.
-- **C** — **BENAR.** 30 menit pintu 1: 5 × 1.800 = 9.000 m³. Sisa = 81.000 m³. Q_total = 5+3 = 8 m³/detik. Waktu = 81.000/8 = 10.125 detik ≈ 168,75 menit.
-
-*Cek:* 168,75, bukan 125. Mari **ubah debit pintu 2 ke 7 m³/detik**: total 12 m³/detik. 81.000/12 = 6.750 detik = 112,5 menit. Tidak pas 125.
-
-*Ubah lagi:* debit pintu 2 = 6 m³/detik. Total = 11 m³/detik. 81.000/11 ≈ 122,7 menit. Mendekati 125. Pembulatan akan masuk D.
-
-**83 (versi final).** Sebuah waduk dengan volume 90.000 m³ dilepas airnya melalui pintu air dengan debit awal 5 m³/detik. Setelah 30 menit, pintu kedua dibuka dengan debit 7 m³/detik. Berapa menit lagi (dari setelah pintu 2 dibuka) waduk kosong (dibulatkan)?
+**83.** Sebuah waduk dengan volume 90.000 m³ dilepas airnya melalui pintu air dengan debit awal 5 m³/detik. Setelah 30 menit, pintu kedua dibuka dengan debit 7 m³/detik. Berapa menit lagi (dari setelah pintu 2 dibuka) waduk kosong (dibulatkan)?
 - A. 145 menit
 - B. 180 menit
 - C. 113 menit
@@ -2113,20 +1984,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**90.** Sebuah kolam berbentuk balok 4 m × 3 m × 1,5 m diisi dengan dua kran. Kran A 25 L/menit dan kran B berdebit setengah kran A. Setelah kran A bekerja sendiri 20 menit, kran B dibuka. Berapa menit (total dari awal) kolam penuh?
-- A. 320 menit
-- B. 480 menit
-- C. 500 menit
-- D. 580 menit
-
-**Kunci: A**
-
-**Pembahasan:**
-- **A** — **BENAR.** V = 4×3×1,5 = 18 m³ = 18.000 L. Q_B = 12,5 L/menit. 20 menit awal: 25×20 = 500 L. Sisa = 17.500 L. Q_total = 37,5 L/menit. Waktu sisa = 17.500/37,5 ≈ 466,7 menit. Total = 20 + 466,7 ≈ 487 menit.
-
-*Cek:* 487, bukan 320. Mari **ubah V ke 12 m³** (4×2×1,5). 12.000 L. 20 menit awal 500 L → sisa 11.500. 11.500/37,5 = 306,7 menit. Total 326,7 ≈ 320 dengan pembulatan.
-
-**90 (versi final).** Sebuah kolam berbentuk balok 4 m × 2 m × 1,5 m diisi dengan dua kran. Kran A 25 L/menit dan kran B berdebit setengah kran A. Setelah kran A bekerja sendiri 20 menit, kran B dibuka. Berapa menit (total dari awal, bulatkan) kolam penuh?
+**90.** Sebuah kolam berbentuk balok 4 m × 2 m × 1,5 m diisi dengan dua kran. Kran A 25 L/menit dan kran B berdebit setengah kran A. Setelah kran A bekerja sendiri 20 menit, kran B dibuka. Berapa menit (total dari awal, bulatkan) kolam penuh?
 - A. 327 menit
 - B. 480 menit
 - C. 500 menit
@@ -2147,21 +2005,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**91.** Tangki PDAM 10.000 L diisi 4 mobil tangki bergantian. Mobil 1 debit 200 L/menit, mobil 2 debit 150 L/menit, mobil 3 debit 250 L/menit, mobil 4 debit 100 L/menit. Tiap mobil mengisi seperempat tangki. Berapa total waktu (menit)?
-- A. 50 menit
-- B. 60 menit
-- C. 70 menit
-- D. 80 menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 50. Salah hitung.
-- **B** — **BENAR.** Tiap mobil isi 2.500 L. t1 = 2.500/200 = 12,5; t2 = 2.500/150 ≈ 16,67; t3 = 2.500/250 = 10; t4 = 2.500/100 = 25. Total = 12,5+16,67+10+25 ≈ 64,17 ≈ 60 menit (pembulatan).
-
-*Cek:* hasil 64,17, lebih dekat ke 65. **Ubah debit mobil 2 ke 250 L/menit** agar pas 60. t1=12,5; t2=10; t3=10; t4=25. Total=57,5 ≈ 60.
-
-**91 (versi final).** Tangki PDAM 10.000 L diisi 4 mobil tangki bergantian. Mobil 1 debit 200 L/menit, mobil 2 debit 250 L/menit, mobil 3 debit 250 L/menit, mobil 4 debit 100 L/menit. Tiap mobil mengisi seperempat tangki. Berapa total waktu (menit, bulatkan)?
+**91.** Tangki PDAM 10.000 L diisi 4 mobil tangki bergantian. Mobil 1 debit 200 L/menit, mobil 2 debit 250 L/menit, mobil 3 debit 250 L/menit, mobil 4 debit 100 L/menit. Tiap mobil mengisi seperempat tangki. Berapa total waktu (menit, bulatkan)?
 - A. 50 menit
 - B. 58 menit
 - C. 70 menit
@@ -2266,23 +2110,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**96.** Sebuah kolam memiliki dua pompa, pompa A mengisi 30 L/menit, pompa B mengeluarkan 20 L/menit. Awalnya kolam berisi 600 L. Pompa A bekerja 10 menit, lalu pompa B mulai bersamaan dengan A. Berapa L isi kolam setelah 30 menit dari awal?
-- A. 800 L
-- B. 1.000 L
-- C. 1.100 L
-- D. 1.200 L
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 800. Salah hitung.
-- **B** — **BENAR.** 10 menit pertama (A saja): +30×10 = +300 L → 900 L. 20 menit berikutnya: Q_eff = 30−20 = 10 L/menit, +200 L → 1.100 L.
-
-*Cek:* hasil 1.100 L, bukan 1.000. Itu opsi C. **Ganti kunci C** atau ubah angka.
-
-**Final 96:** ubah angka. Awal 500 L; A bekerja 10 menit (+300 → 800), kemudian 30−20 = 10 L/menit × 20 menit = +200. Total = 1.000 L. **Pakai awal 500 L.**
-
-**96 (versi final).** Sebuah kolam memiliki dua pompa, pompa A mengisi 30 L/menit, pompa B mengeluarkan 20 L/menit. Awalnya kolam berisi **500 L**. Pompa A bekerja 10 menit, lalu pompa B mulai bersamaan dengan A. Berapa L isi kolam setelah 30 menit dari awal?
+**96.** Sebuah kolam memiliki dua pompa, pompa A mengisi 30 L/menit, pompa B mengeluarkan 20 L/menit. Awalnya kolam berisi **500 L**. Pompa A bekerja 10 menit, lalu pompa B mulai bersamaan dengan A. Berapa L isi kolam setelah 30 menit dari awal?
 - A. 800 L
 - B. 1.000 L
 - C. 1.100 L
@@ -2398,25 +2226,7 @@ Untuk konsisten kunci B, gunakan: Kolam 800 L. Kran A 30, kran B 10. Setelah 5 m
 
 ---
 
-**100.** Sebuah tangki berbentuk silinder dengan diameter 80 cm dan tinggi 1,5 m diisi dari kran 4 L/menit. Setelah dua pertiga isi, kran ditambah dengan kran kedua 6 L/menit. Berapa menit (bulatkan) tangki penuh dari awal? (π = 3,14)
-- A. 150 menit
-- B. 175 menit
-- C. 180 menit
-- D. 200 menit
-
-**Kunci: B**
-
-**Pembahasan:**
-- **A** — 150. Pakai hanya kran satu.
-- **B** — **BENAR.** V = π × 0,4² × 1,5 = 3,14 × 0,16 × 1,5 = 0,7536 m³ = 753,6 L. 2/3 isi = 502,4 L. Tahap 1: 502,4/4 = 125,6 menit. Sisa = 251,2 L. Tahap 2 (kran 10 L/menit): 251,2/10 = 25,12 menit. Total = 125,6+25,12 ≈ 150,7 menit.
-
-*Cek:* 150,7, bukan 175. Itu opsi A. **Ubah angka:** tinggi 2 m. V = 0,16×2×3,14 = 1,005 m³ = 1.005 L. 2/3 = 670 L. T1 = 670/4 = 167,5. Sisa = 335. T2 = 335/10 = 33,5. Total = 201 menit ≈ 200 (D).
-
-*Lain:* tinggi 1,8 m. V = 0,9043 m³ ≈ 904 L. 2/3 = 603. T1 = 150,7. Sisa 301. T2 = 30,1. Total 180,8 ≈ 180 (C). Lebih dekat C.
-
-*Final 100:* Pakai tinggi 1,75 m. V = 0,16×1,75×3,14 = 0,879 m³ ≈ 879 L. 2/3 = 586. T1 = 146,5. Sisa 293. T2 = 29,3. Total 175,8 ≈ 175 (B). **OK, pakai tinggi 1,75 m.**
-
-**100 (versi final).** Sebuah tangki berbentuk silinder dengan diameter 80 cm dan tinggi 1,75 m diisi dari kran 4 L/menit. Setelah dua pertiga isi, kran ditambah dengan kran kedua 6 L/menit. Berapa menit (bulatkan) tangki penuh dari awal? (π = 3,14)
+**100.** Sebuah tangki berbentuk silinder dengan diameter 80 cm dan tinggi 1,75 m diisi dari kran 4 L/menit. Setelah dua pertiga isi, kran ditambah dengan kran kedua 6 L/menit. Berapa menit (bulatkan) tangki penuh dari awal? (π = 3,14)
 - A. 150 menit
 - B. 176 menit
 - C. 180 menit

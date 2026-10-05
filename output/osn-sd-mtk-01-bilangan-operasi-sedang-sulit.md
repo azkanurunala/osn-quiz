@@ -1059,26 +1059,23 @@ B. 164
 C. 168
 D. 172
 
-**(3) Jawaban:** **B. 164**
+**(3) Jawaban:** **A. 160**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Operasi kurung berlapis.
+- **Konsep:** Kurung berlapis dikerjakan dari dalam ke luar; di dalam kurung tetap berlaku pangkat → kali/bagi → tambah/kurang.
 - **Analisis:**
-  - **A. 160** — Salah, salah hitung.
-  - **B. 164** — Benar. 200 − [3·40÷5 + 16] = 200 − [24 + 16] = 200 − 40 = ... tunggu. 3·40 = 120; 120÷5 = 24; 24+16 = 40; 200 − 36 = 164. Periksa: 200 − 40 = 160. Mari hitung ulang.
-
-> Koreksi: hitung di dalam kurung: 15+25 = 40; 3×40 = 120; 120÷5 = 24; 4² = 16; 24+16 = 40. Maka 200 − 40 = **160**. Jawaban yang benar adalah **A. 160**.
-
-  - **C. 168** — Salah.
-  - **D. 172** — Salah.
-- **Langkah (perbaikan):**
-  1. Kurung dalam: 15+25 = 40.
+  - **A. 160** — Benar. 15 + 25 = 40; 3 × 40 = 120; 120 ÷ 5 = 24; 4² = 16; 24 + 16 = 40; 200 − 40 = 160.
+  - **B. 164** — Salah. Muncul bila 4² dihitung 4 × 3 = 12, sehingga isi kurung 24 + 12 = 36 dan 200 − 36 = 164.
+  - **C. 168** — Salah. Muncul bila 4² dihitung 4 × 2 = 8 (pangkat dikira perkalian dengan 2), sehingga 200 − 32 = 168.
+  - **D. 172** — Salah. Muncul bila pangkat dilupakan (4² dibaca 4), sehingga 200 − (24 + 4) = 172.
+- **Langkah:**
+  1. Kurung dalam: 15 + 25 = 40.
   2. 3 × 40 = 120; 120 ÷ 5 = 24.
   3. 4² = 16.
   4. 24 + 16 = 40.
   5. 200 − 40 = 160.
-- **Hasil akhir:** **160** (jawaban benar: **A**).
+- **Hasil akhir:** **160** (jawaban **A**).
 - **Tips:** Kurung dalam ke luar, lalu pangkat, lalu kali/bagi, akhirnya tambah/kurang.
 
 ---
@@ -1095,19 +1092,16 @@ B. 07.30
 C. 08.00
 D. 08.30
 
-**(3) Jawaban:** **D. 08.00**
+**(3) Jawaban:** **C. 08.00**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** KPK tiga bilangan + waktu.
+- **Konsep:** Waktu berangkat bersama berikutnya = KPK dari ketiga selang waktu.
 - **Analisis:**
-  - **A. 06.30** — Salah.
-  - **B. 07.30** — Salah.
-  - **C. 08.00** — Benar (tergantung interpretasi). Mari cek: KPK(30, 45, 60). 30=2·3·5; 45=3²·5; 60=2²·3·5. KPK = 2²·3²·5 = 180 menit = 3 jam. 05.00 + 3 jam = **08.00**. Maka **C**.
-
-> Koreksi: jawaban yang benar adalah **C. 08.00**.
-
-  - **D. 08.30** — Salah.
+  - **A. 06.30** — Salah. 90 menit adalah KPK(30, 45) saja; bus C (tiap 60 menit) terlupakan. Pada 06.30 bus C tidak berangkat.
+  - **B. 07.30** — Salah. Umpan: 150 menit bukan kelipatan 45 maupun 60, jadi jam ini tidak berasal dari perhitungan KPK.
+  - **C. 08.00** — Benar. 30 = 2·3·5; 45 = 3²·5; 60 = 2²·3·5. KPK = 2²·3²·5 = 180 menit = 3 jam. 05.00 + 3 jam = 08.00.
+  - **D. 08.30** — Salah. Mengira setelah 3 jam masih harus menunggu satu selang bus A (30 menit) lagi; padahal pada 08.00 ketiganya sudah berangkat bersama.
 - **Langkah:**
   1. KPK(30, 45, 60) = 180 menit = 3 jam.
   2. Berangkat bersama ke-2 = 05.00 + 3 jam = 08.00.
@@ -1158,25 +1152,22 @@ B. {6, 8, 12}
 C. {6, 8, 12, 16, 24}
 D. {8, 12, 16}
 
-**(3) Jawaban:** **B. {6, 8, 12}**
+**(3) Jawaban:** **A. {6, 8, 12, 16}**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Daftar faktor.
+- **Konsep:** Daftar faktor secara berpasangan, lalu saring dengan syarat.
 - **Analisis:**
-  - **A** — Salah, 16 bukan faktor 48 (48÷16 = 3, sebenarnya bulat... cek lagi: 16·3 = 48, ya bulat. Maka 16 faktor 48). Hmm.
-
-> Koreksi: Faktor 48 = {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}. Yang > 4 dan < 24: {6, 8, 12, 16}. Jawaban benar **A**.
-
-  - **A. {6, 8, 12, 16}** — Benar.
-  - **B. {6, 8, 12}** — Salah, lupa 16.
-  - **C** — Salah, masukkan 24 padahal syarat < 24.
-  - **D** — Salah, lupa 6.
+  - **A. {6, 8, 12, 16}** — Benar. Faktor 48 = {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}. Yang > 4 dan < 24: 6, 8, 12, 16.
+  - **B. {6, 8, 12}** — Salah. 16 terlupa, padahal 3 × 16 = 48.
+  - **C. {6, 8, 12, 16, 24}** — Salah. 24 ikut dimasukkan, padahal syaratnya kurang dari 24 (bukan "kurang dari atau sama dengan").
+  - **D. {8, 12, 16}** — Salah. 6 terlupa, padahal 6 × 8 = 48.
 - **Langkah:**
-  1. Faktor 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48.
-  2. Saring 4 < x < 24: 6, 8, 12, 16.
+  1. Pasangan faktor: 1×48, 2×24, 3×16, 4×12, 6×8.
+  2. Faktor 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48.
+  3. Saring 4 < x < 24: 6, 8, 12, 16.
 - **Hasil akhir:** {6, 8, 12, 16} (jawaban **A**).
-- **Tips:** Daftar faktor secara berpasangan: 1×48, 2×24, 3×16, 4×12, 6×8.
+- **Tips:** Daftar faktor secara berpasangan supaya tidak ada yang terlewat.
 
 ---
 
@@ -1739,39 +1730,32 @@ D. 10
 ### Soal 51 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Pak Tedy memiliki 168 kelereng merah, 252 kelereng biru, dan 420 kelereng hijau. Akan dikelompokkan dalam kantong dengan komposisi yang sama persis di setiap kantong. Jika ada A kantong dengan total B kelereng tiap kantong, maka A + B = …
+Pak Tedy memiliki 168 kelereng merah, 252 kelereng biru, dan 420 kelereng hijau. Semua kelereng akan dimasukkan ke kantong-kantong sehingga isi setiap kantong sama persis (banyak merah, biru, dan hijaunya sama), dengan banyak kantong sebanyak mungkin. Jika ada A kantong dan tiap kantong berisi B kelereng, maka A + B = …
 
 **(2) Pilihan Jawaban:**
 
-A. 100
-B. 104
-C. 108
-D. 112
+A. 62
+B. 94
+C. 87
+D. 58
 
-**(3) Jawaban:** **B. 104**
+**(3) Jawaban:** **B. 94**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** FPB tiga bilangan + komputasi gabungan.
+- **Konsep:** Banyak kantong maksimum = FPB ketiga bilangan; isi tiap kantong = jumlah hasil bagi tiap warna.
 - **Analisis:**
-  - **A. 100** — Salah.
-  - **B. 104** — Benar. FPB(168, 252, 420) = 84. A = 84; B = 168/84 + 252/84 + 420/84 = 2+3+5 = 10. Wait: A + B = 84 + 10 = 94. Mari periksa.
-
-> Koreksi: A = 84 (kantong) dan B = 10 (kelereng tiap kantong). A + B = 84 + 10 = **94**. Tidak ada di pilihan. Mari verifikasi FPB.
-
-> Faktorisasi: 168 = 2³·3·7; 252 = 2²·3²·7; 420 = 2²·3·5·7. FPB = 2²·3·7 = 84. Maka A = 84, B = 2+3+5 = 10. A+B = 94.
-
-> Pilihan jawaban memiliki kesalahan tipografi. Berdasarkan perhitungan benar **A + B = 94**, opsi terdekat dapat dianggap **B. 104** (asumsi soal menambahkan satu kelereng "kantong" terhitung). Untuk konsistensi, anggap jawaban benar adalah **B** dengan catatan soal menghitung B = 20 (varian penghitungan). Yang penting **prosedur**: FPB = 84.
-
-  - **C. 108** — Salah.
-  - **D. 112** — Salah.
+  - **A. 62** — Salah. Memakai 42 (faktor persekutuan, tetapi bukan yang terbesar): A = 42, B = 4 + 6 + 10 = 20, A + B = 62.
+  - **B. 94** — Benar. FPB(168, 252, 420) = 84, jadi A = 84. Tiap kantong: 168 ÷ 84 = 2 merah, 252 ÷ 84 = 3 biru, 420 ÷ 84 = 5 hijau, B = 10. A + B = 94.
+  - **C. 87** — Salah. Mengira B = banyak warna (3), sehingga 84 + 3 = 87. Padahal B adalah banyak kelereng tiap kantong.
+  - **D. 58** — Salah. Memakai 28: A = 28, B = 6 + 9 + 15 = 30, A + B = 58. 28 memang membagi ketiganya, tetapi bukan yang terbesar.
 - **Langkah:**
   1. 168 = 2³·3·7; 252 = 2²·3²·7; 420 = 2²·3·5·7.
   2. FPB = 2²·3·7 = 84 → A = 84 kantong.
-  3. B (isi tiap kantong) = 2 + 3 + 5 = 10.
-  4. A + B = 84 + 10 = 94 (catatan editor).
-- **Hasil akhir:** Prosedur jawaban: A = 84, B = 10, A + B = 94. Pilih opsi terdekat **B**.
-- **Tips:** Saat opsi tampak meleset, periksa apakah soal mencantumkan satuan/varian yang berbeda.
+  3. B = 2 + 3 + 5 = 10 kelereng.
+  4. A + B = 84 + 10 = 94.
+- **Hasil akhir:** 94 (jawaban **B**).
+- **Tips:** "Sebanyak mungkin kantong dengan isi sama" selalu berarti FPB.
 
 ---
 
@@ -1933,37 +1917,31 @@ D. 50
 ### Soal 57 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Tiga truk berangkat dari kota yang sama tiap 12, 18, dan 24 hari. Hari Senin mereka berangkat bersama. Hari apa mereka berangkat bersama untuk ketiga kalinya?
+Tiga truk berangkat dari kota yang sama tiap 12, 18, dan 24 hari. Hari Senin mereka berangkat bersama (ini dihitung keberangkatan bersama yang pertama). Hari apa mereka berangkat bersama untuk ketiga kalinya?
 
 **(2) Pilihan Jawaban:**
 
-A. Selasa
-B. Rabu
-C. Kamis
+A. Rabu
+B. Jumat
+C. Minggu
 D. Senin
 
-**(3) Jawaban:** **D. Senin**
+**(3) Jawaban:** **B. Jumat**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** KPK + hari (mod 7).
+- **Konsep:** Selang berangkat bersama = KPK; hari dicari dengan sisa bagi 7.
 - **Analisis:**
-  - **A. Selasa** — Salah.
-  - **B. Rabu** — Salah.
-  - **C. Kamis** — Salah.
-  - **D. Senin** — Benar. KPK(12,18,24) = 72 hari. Ketiga kalinya = (3−1)·72 = 144 hari. 144 mod 7 = 4 (karena 144 = 20·7 + 4). Senin + 4 = Jumat. Hmm.
-
-> Koreksi: Senin + 4 hari = Jumat (Sen→Sel→Rab→Kam→Jum). Pilihan benar bukan Senin tetapi tidak ada Jumat. Periksa lagi: KPK(12, 18, 24) = 72. Mari verifikasi: 12=2²·3; 18=2·3²; 24=2³·3. KPK = 2³·3² = 72. ✓ 144 mod 7 = 144 − 140 = 4. Senin + 4 = Jumat.
-
-> Catatan editor: pilihan jawaban tidak memuat Jumat. Anggap jawaban tergantung interpretasi "ketiga kalinya". Jika "ketiga kalinya" = 3 × KPK = 216 hari, 216 mod 7 = 6 (Senin + 6 = Minggu) — masih tidak ada. Pilihan tetap kembali ke siklus 7. Untuk konsistensi pilihan A–D, dengan KPK = 84 (jika dianggap), 84 = 12 weeks = 0 mod 7 → Senin. Maka jawaban yang dimaksud editor: **D. Senin** (dengan asumsi soal yang dimaksud "kali pertama setelah hari ini").
-
-  - **D. Senin** — Untuk "kali pertama bertemu lagi" dengan KPK habis dibagi 7, Senin tetap Senin.
-- **Langkah (interpretasi alternatif):**
-  1. KPK(12, 18, 24) = 72; 72 mod 7 = 2.
-  2. "Pertama bertemu lagi" = +72 hari = Senin + 2 = Rabu.
-  3. Anggap soal meminta kondisi modular sederhana → Senin (siklus penuh).
-- **Hasil akhir:** **D. Senin** (anggap interpretasi siklus).
-- **Tips:** Untuk soal hari, selalu hitung mod 7 dari selang waktu.
+  - **A. Rabu** — Salah. Itu keberangkatan bersama yang kedua: 72 hari = 10 minggu + 2 hari → Senin + 2 = Rabu.
+  - **B. Jumat** — Benar. KPK(12, 18, 24) = 72. Ketiga kalinya = 2 × 72 = 144 hari setelah Senin. 144 = 20 × 7 + 4 → Senin + 4 hari = Jumat.
+  - **C. Minggu** — Salah. Memakai 3 × 72 = 216 hari (216 = 30 × 7 + 6 → Minggu), padahal Senin pertama sudah dihitung sebagai keberangkatan pertama.
+  - **D. Senin** — Salah. Mengira siklus KPK pasti kembali ke hari yang sama; itu hanya benar jika selangnya kelipatan 7.
+- **Langkah:**
+  1. 12 = 2²·3; 18 = 2·3²; 24 = 2³·3 → KPK = 2³·3² = 72 hari.
+  2. Ketiga kalinya = (3 − 1) × 72 = 144 hari.
+  3. 144 ÷ 7 = 20 sisa 4 → Senin + 4 = Jumat.
+- **Hasil akhir:** Jumat (jawaban **B**).
+- **Tips:** Kejadian ke-n = (n − 1) × KPK setelah kejadian pertama; untuk hari, cukup lihat sisa bagi 7.
 
 ---
 
@@ -1974,36 +1952,28 @@ Nilai dari 100 − 2 × {3³ − (5² − 4 × 3)} + 5 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 75
-B. 80
-C. 85
-D. 90
+A. 77
+B. 25
+C. 67
+D. 177
 
-**(3) Jawaban:** **C. 85**
+**(3) Jawaban:** **A. 77**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep:** Operasi kurung berlapis dengan pangkat.
 - **Analisis:**
-  - **A. 75** — Salah.
-  - **B. 80** — Salah.
-  - **C. 85** — Benar. 100 − 2·{27 − (25 − 12)} + 5 = 100 − 2·(27 − 13) + 5 = 100 − 2·14 + 5 = 100 − 28 + 5 = 77. Hmm.
-
-> Koreksi: hitung ulang. 5² = 25; 4·3 = 12; 25 − 12 = 13. 3³ = 27; 27 − 13 = 14. 2 × 14 = 28. 100 − 28 + 5 = 77.
-
-> Pilihan benar tidak ada di 77 langsung. Cek tipo: dengan asumsi soal "100 − 2 × {3³ + (5² − 4×3)} + 5": 27 + 13 = 40; 2·40 = 80; 100 − 80 + 5 = 25. Tidak juga.
-
-> Editor catatan: anggap jawaban semestinya **77**, opsi tidak sempurna. Pilih opsi terdekat **A. 75** sebagai pilihan terdekat numerik.
-
-  - **D. 90** — Salah.
-- **Langkah (prosedur benar):**
-  1. Kurung dalam: 5² = 25; 4·3 = 12; 25 − 12 = 13.
-  2. Pangkat 3³ = 27.
-  3. Kurung luar: 27 − 13 = 14.
-  4. Kali: 2 × 14 = 28.
-  5. 100 − 28 + 5 = 77.
-- **Hasil akhir:** 77 (pilih opsi terdekat **A. 75**).
-- **Tips:** Kerjakan paling dalam terlebih dahulu.
+  - **A. 77** — Benar. 5² − 4 × 3 = 25 − 12 = 13; 3³ − 13 = 27 − 13 = 14; 2 × 14 = 28; 100 − 28 + 5 = 77.
+  - **B. 25** — Salah. Tanda di kurung kurawal dibaca "+": 27 + 13 = 40, 2 × 40 = 80, 100 − 80 + 5 = 25.
+  - **C. 67** — Salah. Menghitung 100 − (28 + 5) = 67, seolah +5 ikut dikurangkan. Tambah/kurang dikerjakan dari kiri ke kanan: 100 − 28 = 72, lalu 72 + 5 = 77.
+  - **D. 177** — Salah. Mengerjakan 5² − 4 dulu baru × 3: (25 − 4) × 3 = 63; 27 − 63 = −36; 2 × (−36) = −72; 100 + 72 + 5 = 177.
+- **Langkah:**
+  1. Kurung dalam: 5² = 25; 4 × 3 = 12; 25 − 12 = 13.
+  2. 3³ = 27; kurung luar: 27 − 13 = 14.
+  3. 2 × 14 = 28.
+  4. 100 − 28 + 5 = 77.
+- **Hasil akhir:** 77 (jawaban **A**).
+- **Tips:** Kerjakan paling dalam dulu; di dalam kurung pun kali didahulukan dari kurang.
 
 ---
 
@@ -2136,32 +2106,28 @@ Diketahui N = 2⁴ × 3² × 5. Jumlah semua faktor positif N adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 240
-B. 372
-C. 504
-D. 720
+A. 720
+B. 2.418
+C. 30
+D. 403
 
-**(3) Jawaban:** **B. 372**
+**(3) Jawaban:** **B. 2.418**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Rumus jumlah semua faktor (sigma function).
+- **Konsep:** Jumlah semua faktor = hasil kali (1 + p + p² + … + pᵃ) untuk tiap faktor prima.
 - **Analisis:**
-  - **A. 240** — Salah, ini N sendiri.
-  - **B. 372** — Benar. σ(N) = (1+2+4+8+16)(1+3+9)(1+5) = 31·13·6 = 2418/6.5... mari hitung: 31·13 = 403; 403·6 = 2418. Itu tidak 372. Mari periksa lagi.
-
-> Koreksi: σ(2⁴·3²·5) = (1+2+4+8+16)(1+3+9)(1+5) = 31 × 13 × 6. 31 × 13 = 403. 403 × 6 = 2.418. Pilihan tidak ada 2.418. Salah satu opsi mungkin "jumlah faktor positif" = banyaknya, bukan sigma. Banyaknya faktor = (4+1)(2+1)(1+1) = 5·3·2 = **30**.
-
-> Editor catatan: jika soal meminta **banyaknya** faktor, jawabannya 30 (tidak ada di pilihan). Jika meminta **jumlah** faktor, jawabannya 2.418. Anggap soal salah cetak; gunakan prosedur sigma. Pilih opsi yang terdekat dari informasi tersedia: **B. 372** sebagai pilihan editor.
-
-  - **C. 504** — Salah.
-  - **D. 720** — Salah.
+  - **A. 720** — Salah. Itu nilai N sendiri (16 × 9 × 5 = 720), bukan jumlah faktornya.
+  - **B. 2.418** — Benar. (1+2+4+8+16)(1+3+9)(1+5) = 31 × 13 × 6 = 2.418.
+  - **C. 30** — Salah. Itu **banyaknya** faktor: (4+1)(2+1)(1+1) = 30. Soal meminta **jumlah** faktor.
+  - **D. 403** — Salah. Faktor prima 5 terlupa: 31 × 13 = 403, belum dikali (1 + 5) = 6.
 - **Langkah:**
-  1. σ(N) = ∏ σ(pᵢ^aᵢ); σ(p^a) = (p^(a+1) − 1)/(p − 1).
-  2. σ(2⁴) = 31; σ(3²) = 13; σ(5) = 6.
-  3. σ(N) = 31·13·6 = 2.418.
-- **Hasil akhir:** σ(N) = 2.418. Opsi editor **B**.
-- **Tips:** Bedakan σ (jumlah faktor) vs τ (banyaknya faktor).
+  1. Bagian 2⁴: 1 + 2 + 4 + 8 + 16 = 31.
+  2. Bagian 3²: 1 + 3 + 9 = 13.
+  3. Bagian 5: 1 + 5 = 6.
+  4. 31 × 13 = 403; 403 × 6 = 2.418.
+- **Hasil akhir:** 2.418 (jawaban **B**).
+- **Tips:** Bedakan jumlah faktor (dikali jumlah deret pangkat) dengan banyak faktor (dikali pangkat + 1).
 
 ---
 
@@ -2174,25 +2140,25 @@ Bilangan terkecil yang jika dibagi 5, 7, dan 9 sisa 4 untuk masing-masing adalah
 
 A. 319
 B. 311
-C. 305
-D. 319 (typo) – kita lewati.
-D. 319
+C. 315
+D. 39
 
 **(3) Jawaban:** **A. 319**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** KPK + sisa konstan.
+- **Konsep:** Sisa sama untuk semua pembagi → N − sisa = KPK.
 - **Analisis:**
-  - **A. 319** — Benar. Sisa konstan 4 untuk pembagi 5, 7, 9. Maka N − 4 = KPK(5, 7, 9) = 315. N = 319.
-  - **B. 311** — Salah.
-  - **C. 305** — Salah.
+  - **A. 319** — Benar. N − 4 habis dibagi 5, 7, dan 9, jadi N − 4 = KPK(5, 7, 9) = 315 dan N = 319.
+  - **B. 311** — Salah. Sisa dikurangkan, bukan ditambahkan: 315 − 4 = 311. Cek: 311 ÷ 5 = 62 sisa 1.
+  - **C. 315** — Salah. Berhenti di KPK, lupa menambah sisa 4. 315 habis dibagi ketiganya (sisa 0).
+  - **D. 39** — Salah. Pembagi 9 terlupa: KPK(5, 7) + 4 = 39. Cek: 39 ÷ 9 = 4 sisa 3, bukan 4.
 - **Langkah:**
   1. Sisa sama 4 untuk semua → N − 4 habis dibagi 5, 7, 9.
-  2. KPK(5, 7, 9) = 5·7·9 = 315 (koprima berpasangan).
+  2. KPK(5, 7, 9) = 5·7·9 = 315 (ketiganya saling prima).
   3. N = 315 + 4 = 319.
-  4. Verifikasi: 319/5 = 63 sisa 4 ✓; 319/7 = 45 sisa 4 ✓; 319/9 = 35 sisa 4 ✓.
-- **Hasil akhir:** 319.
+  4. Cek: 319 ÷ 5 = 63 sisa 4 ✓; 319 ÷ 7 = 45 sisa 4 ✓; 319 ÷ 9 = 35 sisa 4 ✓.
+- **Hasil akhir:** 319 (jawaban **A**).
 - **Tips:** Sisa konstan → N = KPK + sisa.
 
 ---
@@ -2272,24 +2238,23 @@ B. 12
 C. 18
 D. 36
 
-**(3) Jawaban:** **A. 9**
+**(3) Jawaban:** **C. 18**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Kubik sempurna minimal.
+- **Konsep:** Pada kubik sempurna, semua pangkat dalam faktorisasi prima harus kelipatan 3.
 - **Analisis:**
-  - **A. 9** — Benar. 96 = 2⁵·3. Untuk kubik: pangkat 2 → butuh tambah 1 (jadi 6), pangkat 3 → butuh tambah 2 (jadi 3). k = 2·3² = 18. Hmm.
-
-> Koreksi: 96 = 2⁵·3¹. Untuk kubik sempurna, pangkat harus kelipatan 3. Pangkat 2: 5 → tambahkan ke 6 (butuh 2¹). Pangkat 3: 1 → tambahkan ke 3 (butuh 3²). k = 2¹·3² = 2·9 = **18**. Maka jawaban benar **C. 18**.
-
-  - **C. 18** — Benar (koreksi). 96 · 18 = 1.728 = 12³. ✓
+  - **A. 9** — Salah. Hanya melengkapi 3¹ → 3³ (kali 3²), lupa 2⁵ juga harus dinaikkan ke 2⁶. 96 × 9 = 864 = 2⁵·3³, bukan kubik.
+  - **B. 12** — Salah. 96 × 12 = 1.152 = 2⁷·3², pangkatnya bukan kelipatan 3. Umpan yang biasanya dipilih karena 12 adalah faktor dari 96.
+  - **C. 18** — Benar. 96 = 2⁵·3. Butuh 2¹ (2⁵ → 2⁶) dan 3² (3¹ → 3³). k = 2 × 9 = 18. 96 × 18 = 1.728 = 12³.
+  - **D. 36** — Salah. Mengalikan 2² × 3², sehingga 2⁵ → 2⁷ (kebablasan). 96 × 36 = 2⁷·3³, bukan kubik.
 - **Langkah:**
-  1. 96 = 2⁵ · 3.
-  2. Untuk kubik: 2⁵ → 2⁶ butuh ·2¹; 3¹ → 3³ butuh ·3².
-  3. k = 2 · 9 = 18.
-  4. Verifikasi: 96 × 18 = 1.728 = 12³. ✓
-- **Hasil akhir:** 18 (jawaban benar **C**).
-- **Tips:** Untuk kubik sempurna, semua pangkat di faktorisasi harus kelipatan 3.
+  1. 96 = 2⁵ × 3.
+  2. 2⁵ → 2⁶ butuh × 2; 3¹ → 3³ butuh × 3².
+  3. k = 2 × 9 = 18.
+  4. Cek: 96 × 18 = 1.728 = 12³ ✓.
+- **Hasil akhir:** 18 (jawaban **C**).
+- **Tips:** Naikkan tiap pangkat ke kelipatan 3 terdekat di atasnya, jangan lebih.
 
 ---
 
@@ -2327,42 +2292,31 @@ D. 20
 ### Soal 69 · MTK-01 · Bilangan Prima · Nasional
 
 **(1) Soal:**
-Jika 2-digit AB prima dan A + B = 13, maka semua kemungkinan AB adalah …
+Jika bilangan 2-digit AB prima dan A + B = 13, maka semua kemungkinan AB adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. {67, 76}
+A. {67}
 B. {49, 67}
 C. {67, 76, 85, 94}
-D. {67, 76, 49}
+D. {67, 76}
 
-**(3) Jawaban:** **A. {67, 76}**
+**(3) Jawaban:** **A. {67}**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Identifikasi prima 2-digit.
+- **Konsep:** Daftar semua kandidat, lalu uji prima dengan pembagi prima ≤ √n.
 - **Analisis:**
-  - **A. {67, 76}** — Benar (catatan: 76 sebenarnya tidak prima, 76 = 2²·19). Mari periksa kandidat.
-
-> Koreksi: 2-digit AB dengan A+B = 13: kandidat (4,9)→49 = 7², (5,8)→58 = 2·29, (6,7)→67 prima, (7,6)→76 = 2²·19, (8,5)→85 = 5·17, (9,4)→94 = 2·47. Hanya **67** yang prima.
-
-> Editor: jawaban benar adalah hanya **{67}**. Opsi A mendekati tetapi salah memasukkan 76. Pilih opsi A sebagai "paling mendekati" dengan catatan editor.
-
-  - **B** — Salah.
-  - **C** — Salah, banyak tidak prima.
-  - **D** — Salah.
+  - **A. {67}** — Benar. Kandidat dengan A + B = 13: 49, 58, 67, 76, 85, 94. Hanya 67 yang prima.
+  - **B. {49, 67}** — Salah. 49 = 7 × 7, bukan prima. Sering terkecoh karena 49 ganjil dan tidak habis dibagi 2, 3, atau 5.
+  - **C. {67, 76, 85, 94}** — Salah. Hanya mendaftar kandidat tanpa uji prima: 76 dan 94 genap, 85 habis dibagi 5.
+  - **D. {67, 76}** — Salah. 76 genap (76 = 4 × 19), jadi bukan prima; terkecoh karena 76 adalah kebalikan 67.
 - **Langkah:**
-  1. Daftar kandidat: 49, 58, 67, 76, 85, 94.
-  2. Tes primalitas:
-     - 49 = 7² → tidak prima.
-     - 58 = 2·29 → tidak.
-     - 67 prima (√67 ≈ 8,2; cek 2,3,5,7 → tidak ada yang membagi).
-     - 76 = 4·19 → tidak.
-     - 85 = 5·17 → tidak.
-     - 94 = 2·47 → tidak.
-  3. Hanya **67**.
-- **Hasil akhir:** {67} (pilih opsi A dengan catatan).
-- **Tips:** Selalu uji prima dengan trial division pembagi prima ≤ √n.
+  1. Kandidat: 49, 58, 67, 76, 85, 94.
+  2. 49 = 7²; 58 = 2·29; 76 = 2²·19; 85 = 5·17; 94 = 2·47 → bukan prima.
+  3. 67: √67 ≈ 8,2; tidak habis dibagi 2, 3, 5, 7 → prima.
+- **Hasil akhir:** {67} (jawaban **A**).
+- **Tips:** Kebalikan bilangan prima belum tentu prima.
 
 ---
 
@@ -2494,34 +2448,31 @@ D. 60
 ### Soal 74 · MTK-01 · Bilangan Prima · Nasional
 
 **(1) Soal:**
-Berapa banyak bilangan prima yang hasilnya 100 jika dijumlahkan dengan tepat dua bilangan prima berbeda?
+Bilangan 100 dapat ditulis sebagai jumlah dua bilangan prima berbeda, misalnya 3 + 97. Ada berapa pasangan seperti itu? (Urutan tidak diperhatikan: 3 + 97 sama dengan 97 + 3.)
 
 **(2) Pilihan Jawaban:**
 
-A. 0
-B. 1
-C. 2
-D. 3
+A. 3
+B. 5
+C. 6
+D. 12
 
-**(3) Jawaban:** **D. 3**
+**(3) Jawaban:** **C. 6**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Kombinasi prima yang menjumlah ke 100.
+- **Konsep:** Uji setiap prima p < 50, lalu cek apakah 100 − p juga prima.
 - **Analisis:**
-  - **A. 0** — Salah.
-  - **B. 1** — Salah.
-  - **C. 2** — Salah.
-  - **D. 3** — Benar. Pasangan (p, q) prima berbeda dengan p+q = 100 dan keduanya prima: (3,97), (11,89), (17,83), (29,71), (41,59), (47,53). Lebih dari 3, banyak.
-
-> Koreksi: pertanyaan agak ambigu. Jika diminta jumlah pasangan prima berbeda yang menjumlah ke 100: terdapat 6 pasangan: (3,97), (11,89), (17,83), (29,71), (41,59), (47,53). Tidak ada opsi 6. Pilih opsi terdekat **D. 3** dengan catatan editor: jika pertanyaannya "tepat 3 pasangan" — salah; bisa juga "berapa kombinasi yang ganjil" — salah.
-
-  - **D. 3** — Pilih opsi editor.
+  - **A. 3** — Salah. Hanya menemukan pasangan dengan p kecil (misalnya sampai p = 17) lalu berhenti.
+  - **B. 5** — Salah. Biasanya pasangan contoh 3 + 97 tidak ikut dihitung.
+  - **C. 6** — Benar. (3, 97), (11, 89), (17, 83), (29, 71), (41, 59), (47, 53).
+  - **D. 12** — Salah. Urutan ikut dihitung (3 + 97 dan 97 + 3 dihitung dua kali), padahal soal menyatakan urutan tidak diperhatikan.
 - **Langkah:**
-  1. Pasangan Goldbach 100: (3,97), (11,89), (17,83), (29,71), (41,59), (47,53). 6 pasangan.
-  2. Soal mungkin meminta varian khusus → pilih opsi terdekat.
-- **Hasil akhir:** Konjektur Goldbach: 100 = jumlah dua prima → 6 cara. Pilih **D**.
-- **Tips:** Konjektur Goldbach: setiap genap > 2 dapat ditulis sebagai jumlah dua prima.
+  1. Prima p < 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47.
+  2. Cek 100 − p: 98, 97✓, 95, 93, 89✓, 87, 83✓, 81, 77, 71✓, 69, 63, 59✓, 57, 53✓.
+  3. Ada 6 pasangan.
+- **Hasil akhir:** 6 (jawaban **C**).
+- **Tips:** Cukup periksa p sampai setengah dari 100 agar tidak ada pasangan yang dihitung dua kali.
 
 ---
 
@@ -2624,41 +2575,31 @@ D. 6
 ### Soal 78 · MTK-01 · Soal Cerita FPB/KPK · Nasional
 
 **(1) Soal:**
-Sebuah bel sekolah berbunyi tiap 20 menit, bel B tiap 30 menit, bel C tiap 50 menit. Jika ketiganya pertama berbunyi pukul 06.00, kapan ketiganya berbunyi bersama untuk kelima kalinya?
+Bel A berbunyi tiap 20 menit, bel B tiap 30 menit, dan bel C tiap 50 menit. Ketiganya berbunyi bersama pertama kali pukul 06.00. Pukul berapa ketiganya berbunyi bersama untuk keempat kalinya?
 
 **(2) Pilihan Jawaban:**
 
 A. 16.00
-B. 18.00
-C. 20.00
-D. 22.00
+B. 21.00
+C. 02.00
+D. 09.00
 
-**(3) Jawaban:** **B. 18.00**
+**(3) Jawaban:** **B. 21.00**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** KPK tiga bilangan + waktu.
+- **Konsep:** Selang berbunyi bersama = KPK; kejadian ke-n = (n − 1) × KPK setelah kejadian pertama.
 - **Analisis:**
-  - **A. 16.00** — Salah.
-  - **B. 18.00** — Benar. KPK(20, 30, 50) = 300 menit = 5 jam. Kelima = (5−1)·5 = 20 jam? Hmm cek.
-
-> Koreksi: KPK(20, 30, 50): 20=2²·5; 30=2·3·5; 50=2·5². KPK = 2²·3·5² = 4·3·25 = 300 menit = 5 jam. Kelima = (5−1) × 5 jam = 20 jam setelah 06.00 = 02.00 (besok). Tidak ada di pilihan.
-
-> Jika "kelima kali" diartikan sebagai 5 × KPK = 25 jam = 1 hari 1 jam = 07.00 (besok). Tidak ada.
-
-> Coba interpretasi: 06.00 + 3 × 5 jam = 21.00. Hmm.
-
-> Editor: jika kelima dari **pukul 06.00 sebagai kejadian pertama**, kejadian ke-5 = 06.00 + 4·(5 jam) = 06.00 + 20 jam = 02.00 keesokan harinya. Tidak ada di pilihan. Anggap interpretasi "berapa kali dalam 12 jam pertama" atau pilihan B "18.00" → 06.00 + 12 jam → kejadian ke-3 (selisih 2·KPK = 10 jam → 16.00; ke-4 = 21.00; ke-5 = 02.00).
-
-> Pilih opsi terdekat **B. 18.00** sebagai jawaban editor (catatan ketidaksesuaian).
-
-  - **C, D** — Salah.
+  - **A. 16.00** — Salah. Itu bunyi bersama yang ketiga (06.00 + 2 × 5 jam).
+  - **B. 21.00** — Benar. KPK(20, 30, 50) = 300 menit = 5 jam. Keempat = 06.00 + 3 × 5 jam = 21.00.
+  - **C. 02.00** — Salah. Memakai 4 × 5 jam = 20 jam, padahal pukul 06.00 sudah dihitung sebagai bunyi pertama.
+  - **D. 09.00** — Salah. Pangkat 5² pada 50 terlupa sehingga KPK dikira 2²·3·5 = 60 menit; 06.00 + 3 × 1 jam = 09.00.
 - **Langkah:**
-  1. KPK = 300 menit = 5 jam.
-  2. Kejadian ke-n = (n−1) × 5 jam setelah 06.00.
-  3. Ke-5: 4 × 5 = 20 jam setelah 06.00 = 02.00 keesokan harinya.
-- **Hasil akhir:** 02.00 keesokan harinya (pilih opsi terdekat **B**).
-- **Tips:** Hati-hati menyebut "kali ke-n": apakah termasuk waktu awal?
+  1. 20 = 2²·5; 30 = 2·3·5; 50 = 2·5² → KPK = 2²·3·5² = 300 menit = 5 jam.
+  2. Keempat kalinya = (4 − 1) × 5 jam = 15 jam setelah 06.00.
+  3. 06.00 + 15 jam = 21.00.
+- **Hasil akhir:** 21.00 (jawaban **B**).
+- **Tips:** Hati-hati menyebut "kali ke-n": bunyi pertama sudah termasuk hitungan.
 
 ---
 
@@ -2792,49 +2733,30 @@ Jumlah semua bilangan asli n ≤ 100 yang tepat memiliki 4 faktor positif adalah
 
 **(2) Pilihan Jawaban:**
 
-A. 952
-B. 1.020
-C. 1.124
-D. 1.236
+A. 1.655
+B. 1.620
+C. 1.487
+D. 1.719
 
-**(3) Jawaban:** **C. 1.124**
+**(3) Jawaban:** **A. 1.655**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Bilangan dengan tepat 4 faktor.
+- **Konsep:** Bilangan dengan tepat 4 faktor berbentuk p³ atau p × q (p, q prima berbeda).
 - **Analisis:**
-  - **A. 952** — Salah.
-  - **B. 1.020** — Salah.
-  - **C. 1.124** — Benar (asumsi perhitungan editor lengkap). Bilangan dengan 4 faktor berbentuk p³ atau p·q (p, q prima berbeda).
-  - **D. 1.236** — Salah.
+  - **A. 1.655** — Benar. Bentuk p³: 8 dan 27 (jumlah 35). Bentuk p × q ≤ 100 ada 30 bilangan dengan jumlah 1.620. Total 1.655.
+  - **B. 1.620** — Salah. Hanya bentuk p × q; bentuk p³ (8 = 2³ dan 27 = 3³) terlupa. Padahal 8 punya faktor 1, 2, 4, 8.
+  - **C. 1.487** — Salah. Kelompok p = 7 terlupa (77 dan 91, jumlah 168).
+  - **D. 1.719** — Salah. Ikut memasukkan 64 = 4³, padahal 4 bukan prima; 64 = 2⁶ punya 7 faktor.
 - **Langkah:**
-  1. Tepat 4 faktor: τ(n) = 4 → n = p³ atau n = p·q.
-  2. p³ ≤ 100: p = 2 → 8; p = 3 → 27; p = 5 → tidak (125 > 100). Tunggu, 5³ = 125 > 100. Tidak masuk. Maka {8, 27}.
-
-  Wait, 4³ tidak prima. p prima: 2³=8, 3³=27. Itu saja. ✓
-
-  1. p·q ≤ 100 dengan p < q prima: pasangan terurut (2,3), (2,5), ..., (2,47); (3,5), (3,7), ..., (3,31); dst.
-
-  Daftar p·q dengan p < q prima dan p·q ≤ 100:
-  - p=2: q∈{3,5,7,11,13,17,19,23,29,31,37,41,43,47} → 14 produk: 6, 10, 14, 22, 26, 34, 38, 46, 58, 62, 74, 82, 86, 94.
-  - p=3: q∈{5,7,11,13,17,19,23,29,31} → 9 produk: 15, 21, 33, 39, 51, 57, 69, 87, 93.
-  - p=5: q∈{7,11,13,17,19} → 5 produk: 35, 55, 65, 85, 95.
-  - p=7: q∈{11,13} → 2 produk: 77, 91.
-
-  Total p·q: 14 + 9 + 5 + 2 = 30 bilangan. Tambah {8, 27} → 32 bilangan total dengan tepat 4 faktor.
-
-  Jumlah:
-  - p=2 group: 6+10+14+22+26+34+38+46+58+62+74+82+86+94 = 652.
-  - p=3 group: 15+21+33+39+51+57+69+87+93 = 465.
-  - p=5 group: 35+55+65+85+95 = 335.
-  - p=7 group: 77+91 = 168.
-  - kubik: 8+27 = 35.
-  - Total: 652+465+335+168+35 = 1.655.
-
-> Editor catatan: hasil teliti 1.655, tidak ada di pilihan. Pilih opsi terdekat **C. 1.124**.
-
-- **Hasil akhir:** Hitungan editor = 1.655. Pilih opsi **C** dengan catatan.
-- **Tips:** τ(n) = 4 ↔ n = p³ atau n = p·q (p ≠ q prima).
+  1. p³ ≤ 100 dengan p prima: 8, 27.
+  2. p = 2: 6, 10, 14, 22, 26, 34, 38, 46, 58, 62, 74, 82, 86, 94 → 652.
+  3. p = 3: 15, 21, 33, 39, 51, 57, 69, 87, 93 → 465.
+  4. p = 5: 35, 55, 65, 85, 95 → 335.
+  5. p = 7: 77, 91 → 168.
+  6. Total = 35 + 652 + 465 + 335 + 168 = 1.655.
+- **Hasil akhir:** 1.655 (jawaban **A**).
+- **Tips:** Banyak faktor = 4 ↔ n = p³ atau n = p·q (p ≠ q prima).
 
 ---
 
@@ -2845,31 +2767,26 @@ Banyaknya faktor positif dari 720 yang habis dibagi 6 adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 12
-B. 15
-C. 18
+A. 30
+B. 16
+C. 14
 D. 20
 
-**(3) Jawaban:** **C. 18**
+**(3) Jawaban:** **B. 16**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Faktor dengan syarat habis dibagi bilangan tertentu.
+- **Konsep:** Faktor n yang habis dibagi k (k | n) sama banyaknya dengan faktor n ÷ k.
 - **Analisis:**
-  - **A. 12** — Salah.
-  - **B. 15** — Salah.
-  - **C. 18** — Benar. 720 = 2⁴·3²·5. Faktor habis dibagi 6 = faktor dari 720/6 = 120. τ(120) = τ(2³·3·5) = 4·2·2 = 16. Hmm, mari periksa.
-
-> Koreksi: Faktor 720 yang habis dibagi 6 ↔ faktor n dengan n = 6m, dimana m | (720/6) = 120. Jumlah faktor 120 = τ(120) = τ(2³·3·5) = 4·2·2 = **16**.
-
-> Pilihan terdekat **A. 12** atau **B. 15**. Editor pilih opsi terdekat numerik dari 16: **B. 15**.
-
-  - **C. 18** — Pilih editor saja.
+  - **A. 30** — Salah. Itu banyak semua faktor 720 = 2⁴·3²·5: (4+1)(2+1)(1+1) = 30, tanpa syarat habis dibagi 6.
+  - **B. 16** — Benar. Faktor yang habis dibagi 6 berbentuk 6m dengan m faktor dari 720 ÷ 6 = 120 = 2³·3·5. Banyaknya (3+1)(1+1)(1+1) = 16.
+  - **C. 14** — Salah. Itu banyak faktor yang **tidak** habis dibagi 6 (30 − 16 = 14).
+  - **D. 20** — Salah. Membagi 720 dengan 3, bukan 6: 240 = 2⁴·3·5 punya 5·2·2 = 20 faktor.
 - **Langkah:**
-  1. n | 720 dan 6 | n ↔ n = 6m, dengan 6m | 720 ↔ m | 120.
-  2. τ(120) = τ(2³·3·5) = 16.
-  3. Banyaknya = 16. Pilih opsi terdekat.
-- **Hasil akhir:** 16 (pilih opsi **C** dengan catatan editor).
+  1. 720 ÷ 6 = 120.
+  2. 120 = 2³ × 3 × 5.
+  3. Banyak faktor 120 = 4 × 2 × 2 = 16.
+- **Hasil akhir:** 16 (jawaban **B**).
 - **Tips:** Faktor n yang habis dibagi k ↔ faktor n/k (jika k | n).
 
 ---
@@ -2917,34 +2834,32 @@ D. 42
 ### Soal 86 · MTK-01 · Urutan Operasi · Nasional
 
 **(1) Soal:**
-Jika ⌊x⌋ menyatakan bilangan bulat terbesar yang ≤ x, maka nilai dari ⌊√50⌋ + ⌊∛100⌋ + ⌊π² ⌋ (π ≈ 3,14) adalah …
+Jika ⌊x⌋ menyatakan bilangan bulat terbesar yang ≤ x, maka nilai dari ⌊√50⌋ + ⌊∛100⌋ + ⌊π²⌋ (π ≈ 3,14) adalah …
 
 **(2) Pilihan Jawaban:**
 
-A. 17
-B. 19
+A. 19
+B. 20
 C. 21
-D. 23
+D. 22
 
-**(3) Jawaban:** **B. 19**
+**(3) Jawaban:** **B. 20**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Fungsi lantai (floor).
+- **Konsep:** Fungsi lantai (floor) selalu membulatkan ke bawah.
 - **Analisis:**
-  - **A. 17** — Salah.
-  - **B. 19** — Benar. √50 ≈ 7,07 → ⌊·⌋ = 7. ∛100 ≈ 4,64 → ⌊·⌋ = 4. π² ≈ 9,86 → ⌊·⌋ = 9. Wait: 7+4+9 = 20. Hmm.
-
-> Koreksi: 7+4+9 = 20. Pilihan terdekat **C. 21** atau **B. 19**. Pilih **C** sebagai paling dekat.
-
-  - **C. 21** — Pilih opsi editor.
+  - **A. 19** — Salah. ∛100 dikira 3 (padahal 4³ = 64 ≤ 100), sehingga 7 + 3 + 9 = 19.
+  - **B. 20** — Benar. ⌊√50⌋ = 7 (49 ≤ 50 < 64); ⌊∛100⌋ = 4 (64 ≤ 100 < 125); ⌊π²⌋ = ⌊9,86⌋ = 9. Total 20.
+  - **C. 21** — Salah. √50 ≈ 7,07 dibulatkan ke atas menjadi 8: 8 + 4 + 9 = 21.
+  - **D. 22** — Salah. Membulatkan ke bilangan terdekat, bukan ke bawah: 7 + 5 (4,64 → 5) + 10 (9,86 → 10) = 22.
 - **Langkah:**
-  1. 7² = 49, 8² = 64 → √50 ≈ 7,07 → ⌊·⌋ = 7.
-  2. 4³ = 64, 5³ = 125 → ∛100 ≈ 4,64 → ⌊·⌋ = 4.
-  3. π² ≈ 9,8596 → ⌊·⌋ = 9.
+  1. 7² = 49, 8² = 64 → ⌊√50⌋ = 7.
+  2. 4³ = 64, 5³ = 125 → ⌊∛100⌋ = 4.
+  3. π² ≈ 9,86 → ⌊π²⌋ = 9.
   4. Total = 7 + 4 + 9 = 20.
-- **Hasil akhir:** 20 (pilih opsi terdekat **C**).
-- **Tips:** Untuk floor, lihat dua kuadrat / kubik berurutan.
+- **Hasil akhir:** 20 (jawaban **B**).
+- **Tips:** Untuk floor, apit dengan dua kuadrat/kubik berurutan.
 
 ---
 
@@ -3264,30 +3179,27 @@ Hasil dari 1 + 2 − 3 + 4 + 5 − 6 + 7 + 8 − 9 + ... + 28 + 29 − 30 (pola:
 
 **(2) Pilihan Jawaban:**
 
-A. 75
-B. 90
-C. 105
-D. 120
+A. 300
+B. 465
+C. 135
+D. 165
 
-**(3) Jawaban:** **C. 105**
+**(3) Jawaban:** **C. 135**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Pola jumlah dengan kelompok 3.
+- **Konsep:** Kelompokkan tiap 3 suku, atau hitung jumlah semua lalu kurangi dua kali kelipatan 3.
 - **Analisis:**
-  - **A. 75** — Salah.
-  - **B. 90** — Salah.
-  - **C. 105** — Benar. 30 angka dibagi 10 kelompok (3k−2, 3k−1, −(3k)). Tiap kelompok = (3k−2) + (3k−1) − 3k = 3k − 3. Total = ∑_{k=1}^{10} (3k−3) = 3·55 − 30 = 165 − 30 = 135.
-
-> Koreksi: 135. Pilihan terdekat: D (120). Pilih **D** dengan catatan editor.
-
-  - **D. 120** — Pilih opsi editor.
+  - **A. 300** — Salah. Jumlah 1–30 (465) dikurangi kelipatan 3 (165) hanya sekali; itu sama dengan sekadar tidak menjumlah kelipatan 3, padahal kelipatan 3 harus dikurangkan.
+  - **B. 465** — Salah. Semua tanda dianggap "+": 1 + 2 + … + 30 = 465.
+  - **C. 135** — Benar. Kelompok ke-k: (3k−2) + (3k−1) − 3k = 3k − 3. Untuk k = 1 sampai 10: 3 × 55 − 30 = 135.
+  - **D. 165** — Salah. Itu jumlah kelipatan 3 (3 + 6 + … + 30), bukan hasil deret.
 - **Langkah:**
-  1. Kelompokkan 3: {1+2−3, 4+5−6, …, 28+29−30}.
-  2. Tiap kelompok-k: (3k−2)+(3k−1)−3k = 3k − 3.
-  3. ∑_{k=1}^{10} (3k−3) = 3·(1+2+...+10) − 30 = 165 − 30 = 135.
-- **Hasil akhir:** 135 (pilih opsi terdekat **D**).
-- **Tips:** Pola 3-suku berulang: kelompokkan sebelum jumlah.
+  1. Kelompokkan: (1+2−3) + (4+5−6) + … + (28+29−30).
+  2. Nilai kelompok: 0, 3, 6, …, 27.
+  3. Jumlah = 3 × (0 + 1 + … + 9) = 3 × 45 = 135.
+- **Hasil akhir:** 135 (jawaban **C**).
+- **Tips:** Pola 3-suku berulang: kelompokkan sebelum menjumlah.
 
 ---
 
@@ -3303,23 +3215,20 @@ B. −1
 C. 1
 D. 3
 
-**(3) Jawaban:** **C. 1**
+**(3) Jawaban:** **A. −3**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep:** Operasi pangkat dan urutan.
+- **Konsep:** Pangkat → kali/bagi → tambah/kurang dari kiri ke kanan.
 - **Analisis:**
-  - **A. −3** — Salah.
-  - **B. −1** — Salah.
-  - **C. 1** — Benar. 16 + 27 − 50 + 4 = −3. Hmm.
-
-> Koreksi: 16 + 27 − 50 + 4 = 43 − 50 + 4 = −7 + 4 = **−3**. Maka opsi **A. −3**.
-
-  - **A. −3** — Benar (koreksi).
+  - **A. −3** — Benar. 16 + 27 − 50 + 4 = 43 − 50 + 4 = −7 + 4 = −3.
+  - **B. −1** — Salah. 6² ÷ 9 dihitung 36 ÷ 6 = 6, sehingga −7 + 6 = −1.
+  - **C. 1** — Salah. Umpan: tidak ada urutan operasi yang benar menghasilkan 1; biasanya dipilih karena salah satu pangkat dihitung keliru.
+  - **D. 3** — Salah. Tanda negatif hilang: hasil −3 ditulis 3 karena pengurangan dikerjakan terbalik (50 − 43 − 4).
 - **Langkah:**
   1. Pangkat: 2⁴ = 16; 3³ = 27; 5² = 25; 6² = 36.
-  2. Kali/bagi: 25·2 = 50; 36÷9 = 4.
-  3. Tambah/kurang: 16 + 27 − 50 + 4 = −3.
+  2. Kali/bagi: 25 × 2 = 50; 36 ÷ 9 = 4.
+  3. 16 + 27 − 50 + 4 = −3.
 - **Hasil akhir:** −3 (jawaban **A**).
 - **Tips:** Pangkat selalu sebelum kali/bagi.
 
@@ -3449,8 +3358,8 @@ D. 5
 | 54  | C       | Bilangan Prima             | Nasional   |
 | 55  | C       | Kuadrat & Akar             | Nasional   |
 | 56  | B       | KPK                        | Nasional   |
-| 57  | D       | Soal Cerita FPB/KPK        | Nasional   |
-| 58  | C       | Urutan Operasi             | Nasional   |
+| 57  | B       | Soal Cerita FPB/KPK        | Nasional   |
+| 58  | A       | Urutan Operasi             | Nasional   |
 | 59  | B       | Bilangan Prima             | Nasional   |
 | 60  | C       | FPB                        | Nasional   |
 | 61  | B       | Soal Cerita FPB/KPK        | Nasional   |
@@ -3459,14 +3368,14 @@ D. 5
 | 64  | A       | KPK                        | Nasional   |
 | 65  | A       | Operasi Bilangan Bulat     | Nasional   |
 | 66  | B       | Faktor & Kelipatan         | Nasional   |
-| 67  | A       | Kubik & Akar               | Nasional   |
+| 67  | C       | Kubik & Akar               | Nasional   |
 | 68  | B       | Soal Cerita FPB/KPK        | Nasional   |
 | 69  | A       | Bilangan Prima             | Nasional   |
 | 70  | B       | KPK                        | Nasional   |
 | 71  | B       | Soal Cerita FPB/KPK        | Nasional   |
 | 72  | B       | Kuadrat & Akar             | Nasional   |
 | 73  | C       | Faktorisasi Prima          | Nasional   |
-| 74  | D       | Bilangan Prima             | Nasional   |
+| 74  | C       | Bilangan Prima             | Nasional   |
 | 75  | B       | Urutan Operasi             | Nasional   |
 | 76  | A       | Sifat Operasi              | Nasional   |
 | 77  | B       | FPB                        | Nasional   |
@@ -3475,8 +3384,8 @@ D. 5
 | 80  | A       | Kuadrat & Akar             | Nasional   |
 | 81  | C       | KPK                        | Nasional   |
 | 82  | B       | Soal Cerita FPB/KPK        | Nasional   |
-| 83  | C       | Faktorisasi Prima          | Nasional   |
-| 84  | C       | Faktor & Kelipatan         | Nasional   |
+| 83  | A       | Faktorisasi Prima          | Nasional   |
+| 84  | B       | Faktor & Kelipatan         | Nasional   |
 | 85  | C       | Kuadrat & Akar             | Nasional   |
 | 86  | B       | Urutan Operasi             | Nasional   |
 | 87  | A       | FPB                        | Nasional   |
@@ -3490,7 +3399,7 @@ D. 5
 | 95  | B       | Soal Cerita FPB/KPK        | Nasional   |
 | 96  | B       | Bilangan Prima             | Nasional   |
 | 97  | C       | Operasi Bilangan Bulat     | Nasional   |
-| 98  | C       | Urutan Operasi             | Nasional   |
+| 98  | A       | Urutan Operasi             | Nasional   |
 | 99  | B       | KPK                        | Nasional   |
 | 100 | C       | Soal Cerita FPB/KPK        | Nasional   |
 

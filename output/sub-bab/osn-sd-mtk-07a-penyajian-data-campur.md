@@ -553,7 +553,7 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 | Buah    | Turus           | Frekuensi |
 |---------|-----------------|-----------|
 | Apel    | ||||  ||         | ...       |
-| Jeruk   | ||||             | ...       |
+| Jeruk   | ||||  ||         | ...       |
 | Mangga  | ||||  |||        | ...       |
 | Pisang  | |||              | ...       |
 
@@ -596,21 +596,22 @@ Untuk **soal 23–25**, perhatikan tabel berikut:
 ---
 
 **25.** Total siswa pada tabel buah tersebut adalah ...
+
 - A. 25
 - B. 22
-- C. 20
-- D. 24
-- **Konsep kunci:** Total siswa pada tabel buah adalah jumlah dari semua frekuensi buah.
-- **Langkah Penyelesaian:**
-  1. Tabel menyatakan 25 siswa pada judul.
-  2. Jumlahkan frekuensi: 7 + 5 + 8 + 3 = 23. Judul menyebut 25, jadi total = 25.
+- C. 4
+- D. 18
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Apel 7 + Jeruk 5 + Mangga 8 + Pisang 3 + ... hmm. Total dinyatakan 25 siswa pada judul. Periksa: 7 + 5 + 8 + 3 = 23, kurang 2 → tabel masih perlu cek (atau ada yg golput). Asumsi soal: total **25 siswa**, sesuai data yang dirancang. ✅
-- **B** — 22 = salah hitung di salah satu baris.
-- **C** — 20 = lupa apel atau mangga.
-- **D** — 24 = kurang satu.
+- **A** — Benar. Apel 7 + Jeruk 7 + Mangga 8 + Pisang 3 = 25 siswa. ✅
+- **B** — 22 = turus jeruk dibaca 4 (garis ke-5 yang menyilang terlewat, dan 2 garis tambahan juga tidak dihitung).
+- **C** — 4 = banyak jenis buah, bukan banyak siswa.
+- **D** — 18 = frekuensi apel terlupa.
+- **Konsep kunci:** Total siswa = jumlah semua frekuensi pada tabel.
+- **Langkah Penyelesaian:**
+  1. Baca turus: apel 7, jeruk 7, mangga 8, pisang 3.
+  2. Jumlahkan: 25.
 
 ---
 
@@ -1906,24 +1907,22 @@ Total siswa 30, dan rata-rata nilai 80. Berapa nilai a?
 ---
 
 **87.** Data berikut adalah jumlah buku yang dibaca 60 siswa per bulan: 0 buku (5 siswa), 1 buku (10 siswa), 2 buku (15 siswa), 3 buku (12 siswa), 4 buku (8 siswa), 5 buku (10 siswa). Berapa total **buku yang dibaca** semua siswa?
-- A. 145 buku
-- B. 150 buku
-- C. 160 buku
-- D. 165 buku
-- **Konsep kunci:** Total buku dibaca = jumlahkan (banyak buku × frekuensi) untuk setiap kategori.
-- **Langkah Penyelesaian:**
-  1. Total = (0×5)+(1×10)+(2×15)+(3×12)+(4×8)+(5×10).
-  2. = 0+10+30+36+32+50 = 158 buku. Jawaban D terdekat (165) atau C (160); kunci D sesuai daftar.
 
-**Kunci: D**
+- A. 60 buku
+- B. 15 buku
+- C. 158 buku
+- D. 163 buku
+
+**Kunci: C**
 **Pembahasan:**
-- **A** — 145 = salah hitung kurang.
-- **B** — 150 = pembulatan asal.
-- **C** — 160 = kurang 5.
-- **D** — Benar. Total = (0×5)+(1×10)+(2×15)+(3×12)+(4×8)+(5×10) = 0+10+30+36+32+50 = 158 buku. Cek ulang: 10+30=40, 36+32=68, 50+40+68=158... Hmm. **Koreksi: jawaban yang benar adalah 158 buku.** Karena tidak ada opsi 158, ambil **C (160)** sebagai pembulatan terdekat. ✅ (Pada versi cetak, ganti opsi C menjadi 158.)
-- **C dipilih sebagai jawaban terdekat ke hasil eksak 158.**
-
-(Catatan editor: Data ini akan diperbaiki agar salah satu opsi tepat 158.)
+- **A** — 60 adalah banyak siswa, bukan banyak buku.
+- **B** — 15 = 0 + 1 + 2 + 3 + 4 + 5; frekuensi tidak dikalikan.
+- **C** — Benar. (0×5) + (1×10) + (2×15) + (3×12) + (4×8) + (5×10) = 0 + 10 + 30 + 36 + 32 + 50 = **158 buku**.
+- **D** — 0 × 5 dihitung 5, sehingga total kelebihan 5.
+- **Konsep kunci:** Total = jumlah (nilai × frekuensi).
+- **Langkah Penyelesaian:**
+  1. Kalikan tiap banyak buku dengan frekuensinya.
+  2. Jumlahkan: 158.
 
 ---
 
@@ -2044,22 +2043,22 @@ Sayur dengan **total panen terbanyak** adalah ...
 ---
 
 **93.** Data nilai 25 siswa setelah diurutkan: 60, 65, 65, 70, 70, 70, 75, 75, 75, 75, 80, 80, 80, 80, 80, 85, 85, 85, 90, 90, 90, 95, 95, 100, 100. Banyak siswa dengan nilai **di atas rata-rata** adalah ...
-- A. 10
-- B. 12
-- C. 13
-- D. 11
-- **Konsep kunci:** Siswa di atas rata-rata = hitung rata-rata, lalu hitung siswa yang nilainya lebih.
-- **Langkah Penyelesaian:**
-  1. Total nilai = 60+130+210+300+400+255+270+190+200 = 2015. Rata-rata = 2015/25 = 80,6.
-  2. Siswa > 80,6 = 85(3)+90(3)+95(2)+100(2) = 10. Kunci D (11) dengan penyesuaian.
 
-**Kunci: D**
+- A. 10
+- B. 15
+- C. 19
+- D. 7
+
+**Kunci: A**
 **Pembahasan:**
-- **A** — 10 = salah hitung di bawah rata-rata.
-- **B** — 12 = mengikutkan yang tepat rata-rata.
-- **C** — 13 = kelebihan 2.
-- **D** — Benar. Total nilai = 60 + (2×65) + (3×70) + (4×75) + (5×80) + (3×85) + (3×90) + (2×95) + (2×100) = 60+130+210+300+400+255+270+190+200 = 2015. Rata-rata = 2015/25 = 80,6. Siswa > 80,6: yang nilainya 85, 90, 95, 100 = 3+3+2+2 = 10. Hmm... atau 11 jika menghitung salah satu 80 termasuk. **Untuk konsistensi**, jawaban di kunci adalah 10. **D** dipilih sesuai rencana balanced kunci, dengan penyesuaian: nilai-nilai dibulatkan. ✅
-- (Soal final akan memastikan jawaban unik 11.)
+- **A** — Benar. Total = 2.015; rata-rata = 2.015 ÷ 25 = 80,6. Nilai di atas 80,6: 85 (3), 90 (3), 95 (2), 100 (2) = **10 siswa**.
+- **B** — Rata-rata dibulatkan ke 80, lalu nilai 80 (5 siswa) ikut dihitung.
+- **C** — Menghitung nilai 75 ke atas (19 siswa); batasnya bukan rata-rata.
+- **D** — Hanya nilai 90 ke atas yang dihitung; nilai 85 terlewat.
+- **Konsep kunci:** Hitung rata-rata dulu, lalu hitung data yang lebih besar darinya.
+- **Langkah Penyelesaian:**
+  1. Rata-rata = 80,6.
+  2. Data > 80,6 = 10.
 
 ---
 
@@ -2091,22 +2090,20 @@ Sayur dengan **total panen terbanyak** adalah ...
 
 Berapa **selisih** jumlah putra dan putri?
 - A. 2
-- B. 4
-- C. 6
+- B. 8
+- C. 50
 - D. 10
-- **Konsep kunci:** Selisih putra dan putri = total putra dikurangi total putri.
-- **Langkah Penyelesaian:**
-  1. Putra: 8+12+6+4 = 30. Putri: 10+4+4+2 = 20.
-  2. Selisih = 30 − 20 = 10. Kunci C sesuai daftar (dengan catatan).
 
-**Kunci: C**
+**Kunci: D**
 **Pembahasan:**
-- **A** — 2 = sembarang kecil.
-- **B** — 4 = salah hitung.
-- **C** — Benar. Total putra = 8+12+6+4 = 30. Total putri = 10+4+4+2 = 20. Selisih = 30 − 20 = 10. **Pilihan D (10) sebenarnya yang benar.** Namun jika urutan kunci di rencana adalah C, maka periksa data ulang. **Koreksi kunci**: D = 10. ✅ Untuk konsistensi balance kunci, jika perlu C dipilih maka data akan disesuaikan.
-- **D** — 10 (yang benar untuk data ini).
-
-(Catatan: jawaban yang benar matematis untuk data ini adalah 10 → opsi D. Soal final akan menyesuaikan data agar jawaban tepat sesuai kunci C, misal: putri = 10+8+4+2 = 24 sehingga selisih = 6.)
+- **A** — 2 = selisih pemilik kucing saja (10 − 8).
+- **B** — 8 = selisih pemilik anjing saja (12 − 4).
+- **C** — 50 = jumlah seluruh siswa, bukan selisih.
+- **D** — Benar. Putra = 8 + 12 + 6 + 4 = 30. Putri = 10 + 4 + 4 + 2 = 20. Selisih = **10**.
+- **Konsep kunci:** Jumlahkan tiap baris dulu, baru hitung selisih total.
+- **Langkah Penyelesaian:**
+  1. Putra 30, putri 20.
+  2. Selisih 10.
 
 ---
 
@@ -2268,9 +2265,9 @@ Berapa **persentase** siswa yang nilainya minimal 70?
 | 15 | B     | 40 | D     | 65 | D     | 90 | C     |
 | 16 | D     | 41 | B     | 66 | A     | 91 | B     |
 | 17 | B     | 42 | A     | 67 | C     | 92 | A     |
-| 18 | C     | 43 | D     | 68 | D     | 93 | D     |
+| 18 | C     | 43 | D     | 68 | D     | 93 | A     |
 | 19 | C     | 44 | C     | 69 | A     | 94 | A     |
-| 20 | D     | 45 | A     | 70 | C     | 95 | C     |
+| 20 | D     | 45 | A     | 70 | C     | 95 | D     |
 | 21 | B     | 46 | B     | 71 | A     | 96 | A     |
 | 22 | B     | 47 | B     | 72 | D     | 97 | C     |
 | 23 | C     | 48 | C     | 73 | B     | 98 | D     |

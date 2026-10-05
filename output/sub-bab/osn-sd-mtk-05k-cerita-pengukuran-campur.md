@@ -460,22 +460,23 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 ---
 
 **19.** Ria menimbang 5 buah jeruk. Empat jeruk pertama beratnya 150 g, 175 g, 160 g, dan 180 g. Total kelima jeruk 0,9 kg. Berapa gram berat jeruk kelima?
+
 - A. 230 g
 - B. 235 g
-- C. 235 g
+- C. 665 g
 - D. 245 g
-- **Konsep kunci:** Jumlahkan berat empat jeruk dulu lalu kurangi dari total.
-- **Langkah Penyelesaian:**
-  1. Empat jeruk = 150+175+160+180 = 665 g.
-  2. Total 0,9 kg = 900 g.
-  3. Jeruk kelima = 900 − 665 = 235 g.
 
-**Kunci: C**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Salah, 0,9 kg dikira 900 g, lalu kurangi 670 = 230. Cek ulang: 150+175+160+180 = 665, bukan 670.
-- **B** — Salah, dicantumkan sama dengan C; pilih C.
-- **C** — Benar. Jumlah 4 jeruk = 150 + 175 + 160 + 180 = 665 g. 0,9 kg = 900 g. Jeruk ke-5 = 900 − 665 = **235 g**.
-- **D** — Salah, mengira total 4 jeruk = 655 g.
+- **A** — Salah. Jumlah empat jeruk salah dihitung 670 g, sehingga 900 − 670 = 230.
+- **B** — Benar. Empat jeruk = 150 + 175 + 160 + 180 = 665 g. 0,9 kg = 900 g. Jeruk kelima = 900 − 665 = **235 g**.
+- **C** — Salah. 665 g adalah berat empat jeruk, belum dikurangkan dari total.
+- **D** — Salah. Jumlah empat jeruk salah dihitung 655 g.
+- **Konsep kunci:** Samakan satuan (kg → g), lalu kurangi total dengan jumlah yang diketahui.
+- **Langkah Penyelesaian:**
+  1. Empat jeruk = 665 g.
+  2. 0,9 kg = 900 g.
+  3. Jeruk kelima = 235 g.
 
 ---
 
@@ -748,25 +749,22 @@ Demi konsistensi cerita, kita pakai empat tokoh:
 ---
 
 **34.** Bu Tini ingin membungkus 60 buah permen ke dalam plastik kecil. Setiap plastik berisi 4 permen. Setiap plastik bagiannya dijual Rp2.500. Berapa total uang dari penjualan jika semua habis terjual?
+
 - A. Rp30.000
-- B. Rp36.000
+- B. Rp150.000
 - C. Rp37.500
 - D. Rp50.000
-- **Konsep kunci:** Hitung jumlah plastik lalu kalikan harga per plastik.
+
+**Kunci: C**
+**Pembahasan:**
+- **A** — Salah. Banyak plastik salah dihitung 12 (60 ÷ 5).
+- **B** — Salah. Harga Rp2.500 dikira per permen (60 × 2.500), padahal per plastik.
+- **C** — Benar. Plastik = 60 ÷ 4 = 15. Uang = 15 × Rp2.500 = **Rp37.500**.
+- **D** — Salah. Plastik dikira berisi 3 permen (20 plastik).
+- **Konsep kunci:** Hitung banyak plastik dulu, lalu kalikan harga per plastik.
 - **Langkah Penyelesaian:**
   1. 60 ÷ 4 = 15 plastik.
-  2. 15 × 2.500 = 37.500.
-
-**Kunci: B**
-**Pembahasan:**
-- **A** — Salah, 12 × 2.500 = 30.000 (jumlah plastik salah).
-- **B** — Benar. Plastik = 60 ÷ 4 = 15 plastik. Uang = 15 × Rp2.500 = **Rp37.500**. → Cek: 15 × 2.500 = 37.500, jadi B salah. Maka B SEHARUSNYA bukan benar. Periksa ulang: B = 36.000 ≠ 37.500. KOREKSI: pilih **C**.
-- **C** — Benar. 15 plastik × Rp2.500 = **Rp37.500**.
-- **D** — Salah, 60 ÷ 3 × 2.500 = 50.000 (plastik dikira 3 permen).
-
-> Catatan: opsi B keliru cetak; jawaban sahih = C (Rp37.500). Pilih C.
-
-Maka **Kunci: C**.
+  2. 15 × 2.500 = Rp37.500.
 
 ---
 
@@ -1875,24 +1873,22 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 ---
 
 **91.** Pak Joko membeli pipa air. Pipa A panjang 6 m harga Rp80.000. Pipa B panjang 4 m harga Rp50.000. Pak Joko butuh pipa 24 m. Kombinasi mana yang paling murah?
+
 - A. 4 pipa A
 - B. 6 pipa B
-- C. 4 pipa A
+- C. 3 pipa A + 2 pipa B
 - D. 2 pipa A + 3 pipa B
-- **Konsep kunci:** Bandingkan harga per meter tiap pipa lalu pilih termurah untuk 24 m.
-- **Langkah Penyelesaian:**
-  1. Pipa A: 80.000 ÷ 6 = 13.333/m; Pipa B: 50.000 ÷ 4 = 12.500/m.
-  2. Pipa B lebih murah → kombinasi 6× pipa B = 24 m.
-  3. Biaya = 6 × 50.000 = 300.000.
 
-**Kunci: D**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Salah, 4 × 80.000 = 320.000.
-- **B** — Salah, 6 × 50.000 = 300.000.
-- **C** — Salah, duplikat A.
-- **D** — Benar. Kombinasi: 2 pipa A (12 m) + 3 pipa B (12 m) = 24 m. Biaya = 2 × 80.000 + 3 × 50.000 = 160.000 + 150.000 = **Rp310.000**. Tunggu — itu lebih mahal dari 6 pipa B. Periksa: 6×50.000=300.000 paling murah. Kunci sahih = **B**. Soal direvisi internal.
-
-> Pilih **B** (6 pipa B = Rp300.000).
+- **A** — Salah. 4 × 80.000 = Rp320.000; mengira pipa yang lebih panjang pasti lebih hemat.
+- **B** — Benar. 6 × 4 m = 24 m, biaya 6 × 50.000 = **Rp300.000** (termurah). Harga per meter B = Rp12.500 < A ≈ Rp13.333.
+- **C** — Salah. 18 + 8 = 26 m (kelebihan), biaya Rp340.000.
+- **D** — Salah. 12 + 12 = 24 m, biaya Rp310.000; campuran dikira paling hemat.
+- **Konsep kunci:** Bandingkan harga per meter, lalu cek kombinasi yang pas panjangnya.
+- **Langkah Penyelesaian:**
+  1. A: 80.000 ÷ 6 ≈ 13.333/m; B: 50.000 ÷ 4 = 12.500/m.
+  2. 6 pipa B tepat 24 m → Rp300.000.
 
 ---
 
@@ -1917,21 +1913,23 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 ---
 
 **93.** Andi mengikuti perjalanan pramuka. Tahap 1: jalan kaki 6 km dalam 1 jam 30 menit. Tahap 2: bersepeda 24 km dengan kecepatan 16 km/jam. Tahap 3: naik mobil 60 km dengan kecepatan 60 km/jam. Berapa kecepatan rata-rata Andi seluruh perjalanan?
+
 - A. 18 km/jam
 - B. 22,5 km/jam
 - C. 27 km/jam
 - D. 30 km/jam
+
+**Kunci: B**
+**Pembahasan:**
+- **A** — Salah. Waktu total salah dihitung 5 jam (90 ÷ 5).
+- **B** — Benar. Jarak = 90 km. Waktu = 1,5 + 24/16 + 60/60 = 1,5 + 1,5 + 1 = 4 jam. Rata-rata = 90 ÷ 4 = **22,5 km/jam**.
+- **C** — Salah. Rata-rata ketiga kecepatan ((4 + 16 + 60) : 3 ≈ 26,7 ≈ 27), tanpa memperhitungkan lama tiap tahap.
+- **D** — Salah. Waktu tahap 1 terlupa (90 ÷ 3 jam = 30).
 - **Konsep kunci:** Kecepatan rata-rata = total jarak ÷ total waktu.
 - **Langkah Penyelesaian:**
-  1. Total jarak = 6 + 24 + 60 = 90 km.
-  2. Tahap 1 = 1,5 jam; Tahap 2 = 24÷16 = 1,5 jam; Tahap 3 = 1 jam.
-  3. Total waktu = 4 jam → 90 ÷ 4 = 22,5 km/jam.
-
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Total jarak = 6 + 24 + 60 = 90 km. Total waktu = 1,5 + (24/16) + (60/60) = 1,5 + 1,5 + 1 = 4 jam. Wait — that gives 90/4 = 22,5. Cek lagi: 1,5 + 1,5 + 1 = 4 jam, 90/4 = 22,5 → opsi B. Maka kunci sahih = **B**.
-
-> Pilih **B = 22,5 km/jam**.
+  1. Total jarak = 90 km.
+  2. Total waktu = 4 jam.
+  3. 90 ÷ 4 = 22,5 km/jam.
 
 ---
 
@@ -2099,10 +2097,10 @@ Sahih: **Kunci: C** (revisi internal). Pilih C: 26,67 km/jam.
 | 13   | A     | 38   | B     | 63   | C     | 88   | D     |
 | 14   | B     | 39   | C     | 64   | A     | 89   | A     |
 | 15   | C     | 40   | B     | 65   | D     | 90   | B     |
-| 16   | D     | 41   | D     | 66   | A     | 91   | C     |
-| 17   | A     | 42   | A     | 67   | C     | 92   | D     |
-| 18   | B     | 43   | D     | 68   | B     | 93   | A     |
-| 19   | C     | 44   | C     | 69   | D     | 94   | B     |
+| 16   | D     | 41   | D     | 66   | A     | 91   | B     |
+| 17   | A     | 42   | A     | 67   | C     | 92   | B     |
+| 18   | B     | 43   | D     | 68   | B     | 93   | B     |
+| 19   | B     | 44   | C     | 69   | D     | 94   | B     |
 | 20   | D     | 45   | B     | 70   | B     | 95   | C     |
 | 21   | A     | 46   | A     | 71   | A     | 96   | D     |
 | 22   | B     | 47   | D     | 72   | A     | 97   | A     |
