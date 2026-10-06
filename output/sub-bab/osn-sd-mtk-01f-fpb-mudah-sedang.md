@@ -2111,7 +2111,7 @@ Bagian ini menambah kompleksitas: tiga+ bilangan, bilangan lebih besar, algoritm
 - **B salah** — Sisa 5 itu sendiri sudah salah hitung (90 − 1×84 = 6, bukan 5), jadi FPB = 5 juga ikut salah.
 - **C salah** — Algoritma Euclid mensyaratkan bilangan yang lebih besar dibagi bilangan yang lebih kecil terlebih dahulu (90 ÷ 84), bukan dibalik; juga sisa tidak boleh negatif.
 - **D salah** — Sisa 5 salah (seharusnya 6), sehingga kesimpulan FPB = 1 pun tidak berdasar pada hitungan yang benar.
-- **Konsep kunci:** Selalu cek ulang hasil pengurangan pada tiap langkah Algoritma Euclid — kesalahan aritmetika kecil membuat seluruh rangkaian langkah berikutnya salah.
+- **Konsep kunci:** Periksa hasil pengurangan pada tiap langkah Algoritma Euclid — kesalahan aritmetika kecil membuat seluruh rangkaian langkah berikutnya salah.
 - **Langkah Penyelesaian:**
   1. 90 = 1 × 84 + 6 (bukan +5, karena 90 − 84 = 6).
   2. 84 = 14 × 6 + 0.

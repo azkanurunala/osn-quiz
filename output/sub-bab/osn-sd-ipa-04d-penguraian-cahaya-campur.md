@@ -2231,34 +2231,20 @@ Sensor kamera digital (CCD/CMOS) menangkap gambar warna dengan **Bayer filter** 
 
 **CMB (Cosmic Microwave Background)** = radiasi sisa Big Bang, sekarang berada di domain microwave (panjang gelombang ~mm). Awalnya CMB adalah...
 
-- A. Hijau
-- B. **Cahaya tampak panas (~3000 K) dari plasma alam semesta muda (~380.000 tahun setelah Big Bang); akibat alam semesta mengembang, λ terenggang ~1000× → sekarang microwave**
-- D. Sinar gamma
+- A. Sinar gamma
+- B. Sinar X
+- C. **Cahaya tampak/inframerah dari plasma panas (~3000 K) alam semesta muda; alam semesta yang mengembang merenggangkan panjang gelombangnya menjadi microwave**
+- D. Gelombang radio sejak awal, tidak pernah berubah
 
 **📖 Pembahasan:**
 
-- **Konsep:** Saat alam semesta umur 380.000 tahun, suhu turun cukup sehingga elektron + proton membentuk atom netral → cahaya bebas merambat (sebelumnya terhalang plasma). Cahaya ini dengan λ awal ~1 µm (IR-merah) terus mengembang dengan alam semesta selama 13.8 miliar tahun → sekarang ~1 mm = microwave.
+- **Konsep:** Saat alam semesta berumur ±380.000 tahun, suhunya turun hingga ±3000 K sehingga elektron dan proton membentuk atom netral, dan cahaya bisa bebas merambat. Panjang gelombang awalnya ±1 µm (cahaya tampak merah/inframerah). Alam semesta terus mengembang selama ±13,8 miliar tahun, sehingga panjang gelombang itu teregang ±1000× menjadi ±1 mm (microwave).
 
 - **Analisis opsi:**
-  - **B benar (di C posisi):** CMB sejarah.
-
-Wait — saya melewatkan opsi C. Mari pretahankan kunci D dan revise:
-
-- D. **Sinar gamma awal dingin → microwave sekarang** — sebenarnya CMB awal lebih ke IR/cahaya tampak, bukan gamma.
-
-Hmm, mari saya benar-benar reset opsi:
-
-- A. Hijau
-- B. Sinar gamma
-- C. **Cahaya tampak panas (~3000 K) dari plasma alam semesta muda; alam semesta mengembang merenggangkan λ jadi microwave**
-- D. Sinar X
-
-Then key is C. Let me adjust below.
-
-- **Konsep:** Saat alam semesta umur 380.000 tahun, suhu turun → terbentuk atom netral → cahaya bebas merambat. λ awal ~1 µm (mendekati IR-merah, suhu plasma ~3000K). Alam semesta mengembang sejak itu → λ terenggang ~1100× → sekarang mendekati mm (microwave).
-
-- **Analisis opsi (revisi):**
-  - **C benar:** CMB dari plasma awal.
+  - **A salah:** Mengira radiasi Big Bang pasti berenergi paling tinggi. Pada umur 380.000 tahun suhunya sudah turun ke ±3000 K, jauh terlalu dingin untuk sinar gamma.
+  - **B salah:** Sinar X dipancarkan benda bersuhu jutaan K; plasma saat itu jauh lebih dingin.
+  - **C benar:** CMB berasal dari cahaya plasma ±3000 K yang panjang gelombangnya teregang oleh pengembangan alam semesta.
+  - **D salah:** Mengira panjang gelombangnya tetap; padahal pengembangan alam semesta merenggangkan panjang gelombang cahaya.
 
 - **💭 Tip:** Penemu CMB: Penzias & Wilson (1965, Nobel 1978). Bukti utama Big Bang dan kosmologi modern.
 

@@ -777,41 +777,34 @@ D. 09.30
 ### Soal 19 · Kecepatan jarak waktu · Provinsi
 
 **(1) Soal:**
-Adi bersepeda dari A ke B pukul 06.30 dengan kecepatan 15 km/jam. Beni dari B ke A pukul 07.00 dengan kecepatan 20 km/jam. Jarak AB = 50 km. Pukul berapa mereka bertemu?
+Adi bersepeda dari A ke B pukul 06.30 dengan kecepatan 20 km/jam. Beni bersepeda dari B ke A pukul 07.00 dengan kecepatan 30 km/jam. Jarak AB = 85 km. Pukul berapa mereka bertemu?
 
 **(2) Pilihan Jawaban:**
 
 A. 08.00
-B. 08.15
+B. 08.12
 C. 08.30
-D. 08.45
+D. 08.42
 
-**(3) Jawaban:** **B · 08.15**
+**(3) Jawaban:** **C · 08.30**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Bertemu (berhadapan) dengan jam berangkat berbeda.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 08.00** — Salah. Muncul kalau dianggap berangkat bersamaan: 50/(15+20) = 50/35 ≈ 1,43 jam; 06.30 + 1,43 jam ≈ 07.56 ≈ 08.00.
-  - **B. 08.15** — Benar. Saat Beni berangkat (07.00), Adi sudah jalan 0,5 jam = 7,5 km. Sisa jarak = 50 − 7,5 = 42,5 km. Waktu bertemu = 42,5 / (15+20) = 42,5/35 = 1,214 jam ≈ 1 jam 13 menit. 07.00 + 1 jam 13 menit ≈ 08.13. Pembulatan: 08.15.
+  - **A. 08.00** — Salah. Waktu 1,5 jam sudah benar, tetapi dihitung dari 06.30 (jam Adi), padahal 1,5 jam itu dihitung mulai 07.00 saat keduanya sudah bergerak.
+  - **B. 08.12** — Salah. Dianggap berangkat bersamaan pukul 06.30: 85 ÷ 50 = 1,7 jam = 1 jam 42 menit → 08.12.
+  - **C. 08.30** — Benar. Pukul 07.00 Adi sudah menempuh 0,5 × 20 = 10 km. Sisa jarak 75 km ditutup dengan kecepatan 20 + 30 = 50 km/jam → 1,5 jam. 07.00 + 1 jam 30 menit = 08.30.
+  - **D. 08.42** — Salah. Jarak 10 km yang sudah ditempuh Adi tidak dikurangkan: 85 ÷ 50 = 1 jam 42 menit dari 07.00.
 
-  Mari hitung lebih teliti: 42,5/35 = 17/14 jam = 1 + 3/14 jam. 3/14 jam × 60 = 180/14 ≈ 12,86 menit ≈ 13 menit. Jam bertemu = 07.00 + 1 jam 13 menit = 08.13. Hmm, opsi terdekat 08.15.
+- **Langkah Penyelesaian:**
+  1. Jarak Adi sebelum Beni berangkat = 0,5 jam × 20 km/jam = 10 km.
+  2. Sisa jarak = 85 − 10 = 75 km.
+  3. Waktu = 75 ÷ (20 + 30) = 1,5 jam.
+  4. Bertemu = 07.00 + 1 jam 30 menit = 08.30.
 
-  Untuk menyajikan jawaban bersih, ralat data: pakai jarak AB = 50 km, kecepatan Adi 12 km/jam (bukan 15). Saat Beni berangkat, Adi sudah 0,5 jam × 12 = 6 km. Sisa = 44 km. Waktu = 44/(12+20) = 44/32 = 11/8 jam = 1 jam 22,5 menit. Tetap tidak rapi.
-
-  **Ralat soal**: lihat versi soal di langkah penyelesaian.
-  - **C. 08.30** — Salah. Muncul kalau siswa salah aritmetika di sisa jarak (45 atau 47,5). Distraktor mendekati.
-  - **D. 08.45** — Salah. Muncul kalau siswa pakai jarak 50 langsung tanpa kurangi awal Adi. Distraktor.
-
-- **Langkah Penyelesaian (cara benar — pakai versi rapi):**
-
-  Misalkan jarak Adi sudah berjalan saat Beni berangkat (07.00): Adi sudah 30 menit = 0,5 jam × 15 km/jam = 7,5 km. Sisa jarak antara mereka = 50 − 7,5 = 42,5 km. Kecepatan tutup = 15 + 20 = 35 km/jam.
-  Waktu bertemu setelah 07.00 = 42,5 ÷ 35 = 1,214… jam ≈ 1 jam 13 menit. Bertemu pada ≈ 08.13.
-
-  Pilihan terdekat = 08.15 (pembulatan 5-menitan).
-
-- **Hasil akhir:** ≈ Pukul 08.15
+- **Hasil akhir:** Pukul 08.30
 
 - **💭 Tips:** Kalau berangkat tidak bersamaan, kurangi dulu jarak yang sudah ditempuh oleh yang lebih dulu, baru bagi jumlah kecepatan.
 
@@ -1787,8 +1780,6 @@ D. 3,5 km
   - **B. 2,5 km** — Salah. Muncul kalau siswa pakai 6 menit = 0,12 jam atau salah konversi.
   - **C. 3 km** — Salah. Muncul kalau siswa salah rumus selisih (d/4 + d/5 alih-alih kurang).
   - **D. 3,5 km** — Salah. Muncul kalau siswa pakai selisih kecepatan langsung tanpa rumus waktu.
-
-
 
 - **Langkah Penyelesaian (cara benar):**
   1. Misal jarak = d km. Waktu A = d/4 jam, Waktu B = d/5 jam.
@@ -3257,8 +3248,8 @@ Pak Tono panen 1,2 ton singkong. ⅓ dijual ke pasar, ¼ untuk pakan ternak, sis
 **(2) Pilihan Jawaban:**
 
 A. 400 kg
-B. 450 kg
-C. 480 kg
+B. 600 kg
+C. 700 kg
 D. 500 kg
 
 **(3) Jawaban:** **D · 500 kg**
@@ -3268,11 +3259,9 @@ D. 500 kg
 - **Konsep yang diuji:** Konversi ton → kg + pecahan campur.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 400 kg** — Salah. Muncul kalau siswa pakai sisa = ⅓ × 1.200 = 400 (kira sisa langsung ⅓).
-  - **B. 450 kg** — Salah. Muncul kalau hitung ⅓ + ¼ = 7/12, sisa 5/12 × 1.200 = 500. Hmm. Salah pembulatan.
-
-  Cek ⅓ + ¼ = 4/12 + 3/12 = 7/12. Sisa = 1 − 7/12 = 5/12. 5/12 × 1.200 = 500.
-  - **C. 480 kg** — Salah. Distraktor mendekati.
+  - **A. 400 kg** — Salah. 400 kg adalah bagian yang dijual ke pasar (⅓ × 1.200), bukan yang disimpan.
+  - **B. 600 kg** — Salah. ¼ dihitung dari sisa setelah dijual (¼ × 800 = 200), padahal ¼ itu dari seluruh panen.
+  - **C. 700 kg** — Salah. 400 + 300 = 700 kg adalah bagian yang dipakai; lupa mengurangkannya dari 1.200.
   - **D. 500 kg** — Benar. Total = 1,2 ton = 1.200 kg. Dijual + ternak = ⅓ + ¼ = 7/12. Sisa = 5/12 × 1.200 = 500 kg.
 
 - **Langkah Penyelesaian (cara benar):**
@@ -3645,9 +3634,9 @@ Bu Ani belanja di pasar mulai pukul 08.30, butuh 1 jam 45 menit. Lalu antar anak
 
 **(2) Pilihan Jawaban:**
 
-A. 12.30
+A. 11.10
 B. 13.10
-C. 13.30
+C. 13.15
 D. 13.40
 
 **(3) Jawaban:** **D · 13.40**
@@ -3657,10 +3646,10 @@ D. 13.40
 - **Konsep yang diuji:** Operasi waktu serial dengan banyak segmen.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 12.30** — Salah. Muncul kalau siswa lupa segmen menunggu.
-  - **B. 13.10** — Salah. Muncul kalau siswa lupa segmen pulang 30 menit.
-  - **C. 13.30** — Salah. Distraktor mendekati.
-  - **D. 13.40** — Benar. 08.30 + 1 jam 45 menit (belanja) = 10.15. + 25 menit (antar) = 10.40. + 2 jam 30 menit (tunggu) = 13.10. + 30 menit (pulang) = 13.40.
+  - **A. 11.10** — Salah. Waktu menunggu 2 jam 30 menit terlupa.
+  - **B. 13.10** — Salah. Perjalanan pulang 30 menit terlupa.
+  - **C. 13.15** — Salah. Perjalanan antar 25 menit terlupa.
+  - **D. 13.40** — Benar. 08.30 + 1 jam 45 menit (belanja) = 10.15. + 25 menit (antar) = 10.40. + 2 jam 30 menit (menunggu) = 13.10. + 30 menit (pulang) = 13.40.
 
 - **Langkah Penyelesaian (cara benar):**
   1. 08.30 + 1 jam 45 menit = 10.15.
@@ -3700,7 +3689,7 @@ D. 13.40
 | 16 | C | Kecepatan jarak waktu | Provinsi |
 | 17 | B | Kecepatan jarak waktu | Provinsi |
 | 18 | A | Kecepatan jarak waktu | Provinsi |
-| 19 | B | Kecepatan jarak waktu | Provinsi |
+| 19 | C | Kecepatan jarak waktu | Provinsi |
 | 20 | C | Konversi kecepatan | Provinsi |
 | 21 | D | Konversi kecepatan | Provinsi |
 | 22 | C | Konversi kecepatan | Provinsi |

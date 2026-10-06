@@ -3,11 +3,11 @@
 - **Bab:** MTK 04 · Geometri Ruang
 - **Sub-bab:** 04b, 04c, 04l, 08b
 - **Objek (EN):** a stack of interlocking unit cubes forming a 4×3×2 rectangular block, plus a few loose cubes
-- **Soal terkait:** 183 soal di 67 file
+- **Soal terkait:** 183 soal di 66 file
   - `ipa-03j-listrik-seri-paralel-campur` (13)
   - `mtk-04b-volume-kubus-campur` (11)
   - `ipa-03-gaya-gerak-energi-sedang-sulit` (10)
-  - `ipa-03-gaya-gerak-energi-sedang` (9)
+  - `ipa-03-gaya-gerak-energi-sedang` (10)
   - `ipa-03-gaya-gerak-energi-sulit` (8)
   - `ipa-03-gaya-gerak-energi-campur` (7)
   - `mtk-01e-faktorisasi-prima-sedang` (7)

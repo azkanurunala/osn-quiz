@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02a, 02d
 - **Objek (EN):** a human liver with gallbladder anatomical model
-- **Soal terkait:** 218 soal di 49 file
+- **Soal terkait:** 217 soal di 48 file
   - `ipa-02d-ekskresi-campur` (31)
   - `ipa-02a-pencernaan-campur` (26)
   - `ipa-02-tubuh-manusia-campur` (13)

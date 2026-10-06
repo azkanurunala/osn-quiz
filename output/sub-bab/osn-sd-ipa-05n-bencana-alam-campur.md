@@ -914,7 +914,7 @@
 **Pembahasan:**
 - **A salah** — Sangat berbahaya, tetap di zona tsunami.
 - **B salah** — Mati pasti; gelombang tsunami menggulung semua benda.
-- **C benar** — Prinsip **"natural warning"**: jika di pesisir merasakan **gempa kuat > 20 detik**, **JANGAN tunggu sirene** atau pengumuman resmi — **langsung lari ke tempat tinggi** atau jauh dari pantai. Sirene mungkin terlambat atau gagal. Tsunami lokal bisa tiba dalam < 15 menit (kasus Palu 2018 hanya 3-5 menit setelah gempa).
+- **C benar** — Prinsip **"natural warning"**: jika di pesisir merasakan **gempa kuat > 20 detik**, **JANGAN menunggu sirene** atau pengumuman resmi — **langsung lari ke tempat tinggi** atau jauh dari pantai. Sirene mungkin terlambat atau gagal. Tsunami lokal bisa tiba dalam < 15 menit (kasus Palu 2018 hanya 3-5 menit setelah gempa).
 - **D salah** — Membuang waktu yang sangat krusial.
 
 ---

@@ -2173,39 +2173,8 @@ Yuk mulai berlatih 100 soal!
 
 ---
 
-**99.** Sebuah air terjun mengalirkan 1.500 m³ air per menit. Di bawahnya, dam menampung air dan disalurkan ke turbin dengan debit 20 m³/detik. Jika ditarik dari kondisi air dam stabil (jumlah masuk = keluar), apakah konsistensi terpenuhi?
-- A. Ya, masuk = keluar = 25 m³/detik
-- B. Tidak, masuk < keluar selisih 5 m³/detik
-- C. Tidak, masuk > keluar selisih 5 m³/detik
-- D. Ya, tetapi perlu konversi lebih lanjut
+**99.** Sebuah air terjun mengalirkan 1.500 m³ air per menit ke sebuah dam. Dari dam, air disalurkan ke turbin dengan debit 20 m³/detik. Pernyataan yang paling tepat adalah ...
 
-**Kunci: D**
-
-**Pembahasan:**
-- **A** — Konversi salah.
-- **B** — Arah salah.
-- **C** — Arah benar tapi nilai salah.
-- **D** — **BENAR.** Masuk = 1.500 m³/menit = 25 m³/detik. Keluar = 20 m³/detik. Masuk > keluar selisih 5 m³/detik. **Tidak stabil** — air di dam akan **bertambah**. Jawaban "konsistensi terpenuhi" itu tidak, sehingga D mengkaji penting konversi (jawaban tepat memerlukan pernyataan "tidak stabil"). 
-
-*Catatan:* dalam soal di atas opsi C juga klaim "masuk > keluar selisih 5 m³/detik" yang sebenarnya BENAR secara fakta. Mari perbaiki versi final dengan kunci C.
-
-**99 (versi final).** Sebuah air terjun mengalirkan 1.500 m³ air per menit. Di bawahnya, dam menampung air dan disalurkan ke turbin dengan debit 20 m³/detik. Apakah air dam stabil (masuk = keluar)?
-- A. Ya, masuk = keluar = 25 m³/detik
-- B. Tidak, masuk < keluar selisih 5 m³/detik
-- C. Tidak stabil, masuk > keluar selisih 5 m³/detik
-- D. Ya, masuk = keluar = 20 m³/detik
-
-**Kunci: C**
-
-**Pembahasan:**
-- **A** — Salah, masuk dan keluar tidak sama.
-- **B** — Arah salah.
-- **C** — **BENAR.** Masuk = 1.500/60 = 25 m³/detik. Keluar = 20 m³/detik. Selisih = 5 m³/detik, masuk > keluar.
-- **D** — Salah, debit masuk tidak 20.
-
-*Catatan kunci:* Karena soal 99 dimaksudkan kunci D (lihat rencana), saya tetap pakai versi D dengan opsi yang konsisten. Mari kembali ke versi D:
-
-**99 (lock).** Sebuah air terjun mengalirkan 1.500 m³ air per menit. Di bawahnya, dam menampung air dan disalurkan ke turbin dengan debit 20 m³/detik. Jika analisis stabilitas memerlukan konversi satuan, manakah pernyataan paling tepat?
 - A. Masuk = 1.500 m³/detik, keluar 20 m³/detik (masuk jauh lebih besar)
 - B. Masuk dan keluar sama setelah konversi
 - C. Masuk = 25 m³/menit, keluar = 20 m³/detik
@@ -2214,15 +2183,15 @@ Yuk mulai berlatih 100 soal!
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — Lupa konversi 1.500 m³/menit ke m³/detik.
-- **B** — Salah, tidak sama.
-- **C** — Konversi tidak konsisten satuan.
-- **D** — **BENAR.** 1.500/60 = 25 m³/detik. Selisih 5 m³/detik mengisi dam, sehingga dam akan meluap.
-- **Konsep kunci:** Mengubah satuan debit masuk ke satuan yang sama dengan debit keluar untuk membandingkan keduanya.
+- **A** — Satuan menit dibaca sebagai detik; 1.500 m³/menit belum dikonversi.
+- **B** — Mengira debit masuk 1.500 ÷ 60 = 20; hasil bagi yang benar 25.
+- **C** — Angkanya sudah dibagi 60, tetapi satuannya masih ditulis per menit; kedua debit jadi tidak bisa dibandingkan.
+- **D** — **BENAR.** 1.500 ÷ 60 = 25 m³/detik. Selisih 5 m³/detik terus mengisi dam, sehingga air dam bertambah (tidak stabil).
+- **Konsep kunci:** Ubah debit masuk dan keluar ke satuan yang sama sebelum membandingkannya.
 - **Langkah Penyelesaian:**
-  1. Ubah debit masuk 1.500 m³/menit menjadi m³/detik: 1.500÷60 = 25 m³/detik.
+  1. Ubah debit masuk 1.500 m³/menit menjadi m³/detik: 1.500 ÷ 60 = 25 m³/detik.
   2. Bandingkan dengan debit keluar 20 m³/detik.
-  3. Karena masuk lebih besar 5 m³/detik, air di dam akan terus bertambah (tidak stabil).
+  3. Masuk lebih besar 5 m³/detik → air di dam terus bertambah.
 
 ---
 

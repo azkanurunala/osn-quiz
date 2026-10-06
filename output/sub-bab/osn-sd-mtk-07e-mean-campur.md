@@ -1686,24 +1686,21 @@ Berapa rata-rata nilainya?
 | 8 | 2 |
 
 Berapa rata-ratanya?
-- A. 5,5
-- B. 5,75
+- A. 23,6
+- B. 5,9
 - C. 6
-- D. 6,1
+- D. 4
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 5,5 = sembarang.
-- **B** — Benar. Σ(nilai×freq) = 8+25+48+21+16 = 118. Σfreq = 20. (Hitung ulang: 8+25 = 33; 33+48 = 81; 81+21 = 102; 102+16 = 118.) Mean = 118 ÷ 20 = 5,9. (Tertulis 5,75: koreksi—jawaban yang benar adalah 5,9.) ✅
-- **C** — 6 = nilai dengan frekuensi tertinggi (modus), bukan mean.
-- **D** — 6,1 = sembarang.
-
-Catatan kunci: jawaban resmi tetap **B** sesuai pilihan paling dekat dengan hasil hitung Σ(nilai×freq) = 118 dan Σfreq = 20 → 5,9. Distractor A (5,5), C (6,0), D (6,1) menggambarkan miskonsepsi umum (pembulatan kasar, modus, asal-asalan).
-
+- **A** — 118 dibagi 5 (banyak baris nilai), padahal harus dibagi total frekuensi 20.
+- **B** — Benar. Σ(nilai × frek) = 8 + 25 + 48 + 21 + 16 = 118. Σfrek = 20. Mean = 118 ÷ 20 = 5,9.
+- **C** — 6 adalah modus (frekuensi tertinggi), bukan mean.
+- **D** — 20 ÷ 5 = 4 adalah rata-rata frekuensinya, bukan rata-rata nilai.
 - **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
 - **Langkah Penyelesaian:**
-  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (4×2+5×5+6×8+7×3+8×2 = 118).
-  2. Jumlahkan seluruh frekuensi (2+5+8+3+2 = 20).
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (4×2 + 5×5 + 6×8 + 7×3 + 8×2 = 118).
+  2. Jumlahkan seluruh frekuensi (2 + 5 + 8 + 3 + 2 = 20).
   3. Bagi total perkalian dengan total frekuensi (118 ÷ 20 = 5,9).
 
 ---
@@ -2045,25 +2042,22 @@ Berapa rata-rata banyak saudara per siswa?
 | 85 | 4 |
 | 90 | 3 |
 
-Berapa rata-rata nilainya?
-- A. 78
-- B. 79
-- C. 79,17
-- D. 80
+Berapa rata-rata nilainya (dibulatkan dua angka di belakang koma)?
+- A. 78,67
+- B. 80
+- C. 472
+- D. 2.360
 
-**Kunci: C**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 78 = pembulatan kasar.
-- **B** — 79 = pembulatan kasar.
-- **C** — Benar. Σ(nilai×freq) = 350+600+800+340+270 = 2.360. Σfreq = 30. Mean = 2.360 ÷ 30 = 78,67. (Tertulis 79,17 — koreksi: jawaban sebenarnya = 78,67. Distractor C tetap dipilih sebagai paling mendekati hitung detail.) Hasil persis: 2.360 ÷ 30 = 78,67. ✅
-- **D** — 80 = modus (frekuensi tertinggi), bukan mean.
-
-Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling presisi adalah ≈ 78,67. Pilihan C (79,17) muncul jika frekuensi nilai 85 dianggap 5 (bukan 4). Jika tabel benar maka mean = 78,67 ≈ 79 (bulat ke atas). Untuk konsistensi balanced key, kunci tetap **C** sebagai jawaban hitung mendekati.
-
+- **A** — Benar. Σ(nilai × frek) = 350 + 600 + 800 + 340 + 270 = 2.360. Σfrek = 30. Mean = 2.360 ÷ 30 ≈ 78,67.
+- **B** — 80 adalah rata-rata kelima nilai tanpa memperhatikan frekuensi (sekaligus modus).
+- **C** — 2.360 dibagi 5 (banyak baris), bukan 30 siswa.
+- **D** — Berhenti di jumlah hasil kali; lupa membagi dengan banyak siswa.
 - **Konsep kunci:** Mean dari tabel frekuensi dihitung dengan menjumlahkan hasil kali setiap nilai dan frekuensinya, lalu dibagi total frekuensi.
 - **Langkah Penyelesaian:**
-  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (70×5+75×8+80×10+85×4+90×3 = 2.360).
-  2. Jumlahkan seluruh frekuensi (5+8+10+4+3 = 30).
+  1. Kalikan setiap nilai dengan frekuensinya lalu jumlahkan (70×5 + 75×8 + 80×10 + 85×4 + 90×3 = 2.360).
+  2. Jumlahkan seluruh frekuensi (5 + 8 + 10 + 4 + 3 = 30).
   3. Bagi total perkalian dengan total frekuensi (2.360 ÷ 30 ≈ 78,67).
 
 ---
@@ -2111,25 +2105,23 @@ Catatan: dalam soal Nas, perhatikan presisi pembulatan. Jawaban yang paling pres
 ---
 
 **92.** Mean dari empat bilangan adalah 30. Jika bilangan kelima 50, dan kemudian bilangan keenam ditambahkan, mean enam bilangan menjadi 34. Berapa nilai bilangan keenam?
-- A. 38
+
+- A. 84
 - B. 34
-- C. 40
-- D. 50
+- C. 54
+- D. 4
 
-**Kunci: A**
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. Jumlah 4 bilangan = 30×4 = 120. Jumlah 5 bilangan = 120+50 = 170. Jumlah 6 bilangan = 34×6 = 204. Bilangan ke-6 = 204 − 170 = 34. (Koreksi: tertulis A jawaban 38; perlu cek ulang.) Hitung ulang: 34×6 = 204. 204 − 170 = 34. Jadi bilangan ke-6 = 34. Jawaban yang konsisten adalah 34 = **B**. Karena kebutuhan balanced kunci=A, distractor disusun sedemikian; tetapi jawaban matematis benar = **34** (B). ✅
-- **B** — 34 = mean baru, sekaligus jawaban matematis sebenarnya.
-- **C** — 40 = sembarang.
-- **D** — 50 = bilangan kelima, asal jawab.
-
-Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjaga balance kunci, jika perlu disesuaikan, kunci diubah ke **B** dengan rata-rata akhir = 34. Soal ini contoh "selisih kontribusi" — Nas-level analysis.
-
+- **A** — 204 − 120 = 84; bilangan kelima (50) lupa dikurangkan, sehingga 84 adalah jumlah bilangan kelima dan keenam.
+- **B** — Benar. Jumlah 4 bilangan = 30 × 4 = 120. Jumlah 5 bilangan = 120 + 50 = 170. Jumlah 6 bilangan = 34 × 6 = 204. Bilangan ke-6 = 204 − 170 = 34.
+- **C** — Jumlah 5 bilangan dikira 30 × 5 = 150 (bilangan kelima dianggap 30): 204 − 150 = 54.
+- **D** — 34 − 30 = 4 hanyalah kenaikan mean, bukan nilai bilangan.
 - **Konsep kunci:** Saat ada data baru ditambahkan, cari dulu jumlah data lama, tambahkan data baru, baru bagi dengan banyak data yang baru.
 - **Langkah Penyelesaian:**
-  1. Hitung jumlah 4 bilangan pertama (30×4 = 120) lalu tambahkan bilangan kelima (120+50 = 170).
-  2. Hitung jumlah 6 bilangan dari mean barunya (34×6 = 204).
-  3. Kurangi jumlah 6 bilangan dengan jumlah 5 bilangan untuk dapat bilangan keenam (204 − 170 = 34).
+  1. Hitung jumlah 4 bilangan pertama (30 × 4 = 120) lalu tambahkan bilangan kelima (120 + 50 = 170).
+  2. Hitung jumlah 6 bilangan dari mean barunya (34 × 6 = 204).
+  3. Kurangi jumlah 6 bilangan dengan jumlah 5 bilangan (204 − 170 = 34).
 
 ---
 
@@ -2304,11 +2296,11 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 ## BAGIAN III · CATATAN KUNCI BALANCED
 
 **Distribusi kunci jawaban (100 soal):**
-- **A**: 25 soal
-- **B**: 25 soal
-- **C**: 25 soal
-- **D**: 25 soal
-- **Total**: 100 soal — distribusi seimbang 25/25/25/25.
+- **A**: 27 soal
+- **B**: 34 soal
+- **C**: 30 soal
+- **D**: 9 soal
+- **Total**: 100 soal.
 
 **Sequence kunci (1–100):**
 1.A  2.B  3.C  4.D  5.A  6.C  7.C  8.A  9.B  10.C
@@ -2319,11 +2311,11 @@ Catatan kunci: jawaban matematis yang benar adalah **34** (opsi B). Untuk menjag
 51.C 52.B 53.C 54.B 55.C 56.A 57.C 58.B 59.D 60.B
 61.C 62.B 63.B 64.D 65.A 66.A 67.C 68.A 69.B 70.B
 71.C 72.B 73.B 74.A 75.C 76.B 77.D 78.B 79.A 80.B
-81.B 82.A 83.A 84.C 85.C 86.B 87.B 88.B 89.C 90.C
-91.B 92.A 93.C 94.A 95.C 96.A 97.B 98.B 99.A 100.D
+81.B 82.A 83.A 84.C 85.C 86.B 87.B 88.B 89.A 90.C
+91.B 92.B 93.C 94.A 95.C 96.A 97.B 98.B 99.A 100.D
 
 **Anti-pola yang dihindari di file ini:**
-- Tidak ada deretan kunci satu huruf yang berturut-turut > 3 (cek: 29-32 = C,C,C,C — tepat 4; perlu cek ulang).
+- Kunci tidak disusun berpola; deretan huruf yang sama paling panjang 4 soal (29–32 = C).
 - Distractor selalu mencerminkan miskonsepsi spesifik:
   - **"Jumlah total"** sebagai jawaban (lupa membagi banyak data) — distractor klasik di hampir semua soal Kab.
   - **"Salah satu data"** asal pilih (asumsi mean = data tunggal).

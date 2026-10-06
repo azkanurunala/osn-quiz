@@ -3,7 +3,7 @@
 - **Bab:** IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 - **Sub-bab:** 03p
 - **Objek (EN):** an educational step-down transformer
-- **Soal terkait:** 49 soal di 13 file
+- **Soal terkait:** 48 soal di 12 file
   - `ipa-03p-induksi-elektromagnetik-campur` (24)
   - `mtk-02-pecahan-desimal-persen-campur` (7)
   - `ipa-03j-listrik-seri-paralel-campur` (3)

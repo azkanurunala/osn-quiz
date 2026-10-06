@@ -2049,7 +2049,7 @@ D. 11
 ### Soal 55 · Teka-teki logika · Provinsi
 
 **(1) Soal:**
-Tiga teman: Ana, Bayu, Cinta mempunyai hewan peliharaan berbeda: kucing, anjing, ikan. Ana tidak memelihara kucing. Bayu tidak memelihara anjing maupun ikan. Cinta memelihara apa?
+Tiga teman: Ana, Bayu, Cinta mempunyai hewan peliharaan berbeda: kucing, anjing, ikan. Ana tidak memelihara kucing. Bayu tidak memelihara anjing maupun ikan. Cinta tidak memelihara ikan. Cinta memelihara apa?
 
 **(2) Pilihan Jawaban:**
 
@@ -2065,16 +2065,15 @@ D. Tidak dapat ditentukan
 - **Konsep yang diuji:** Eliminasi pada teka-teki kombinatorial.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Kucing** — Salah. Kucing harus dimiliki Bayu (lihat eliminasi).
-  - **B. Anjing** — Benar. Bayu = kucing (karena tidak anjing/ikan). Ana = ikan (karena bukan kucing dan bukan kucing-nya Bayu). Sisanya Cinta = anjing.
-  - **C. Ikan** — Salah. Ikan dimiliki Ana.
-  - **D. Tidak dapat ditentukan** — Salah. Bisa ditentukan dengan eliminasi.
+  - **A. Kucing** — Salah. Kucing sudah pasti milik Bayu.
+  - **B. Anjing** — Benar. Bayu = kucing (bukan anjing dan bukan ikan). Cinta bukan ikan dan bukan kucing → Cinta = anjing. Sisa Ana = ikan.
+  - **C. Ikan** — Salah. Premis "Cinta tidak memelihara ikan" terlewat.
+  - **D. Tidak dapat ditentukan** — Salah. Mengira premisnya kurang; eliminasi sudah cukup.
 
 - **Langkah Penyelesaian:**
   1. Bayu bukan anjing & bukan ikan → Bayu = kucing.
-  2. Ana bukan kucing (sudah Bayu) → pilih dari anjing/ikan. Tunggu, info tidak menutup ini langsung. Tapi sekarang Cinta + Ana harus dapat anjing & ikan. Soal hanya menutup "Ana bukan kucing"; tidak jelas siapa anjing/ikan? Periksa lagi.
-
-  Sebenarnya: Bayu = kucing (dipastikan). Ana = anjing atau ikan. Cinta = sisa. Soal tidak memberi info lain untuk membedakan Ana antara anjing & ikan; namun "Cinta memelihara apa" — kalau Ana bisa anjing atau ikan, maka jawabannya juga bervariasi. Untuk soal di atas, kita asumsikan ada premis tambahan implisit; karena ini soal Provinsi, premisnya cukup → Cinta = anjing. Cara konkret: Karena Ana bisa anjing/ikan tetapi Cinta-nya kepastian, satu-satunya yang tersisa di luar Bayu adalah anjing & ikan. Asumsi: yang ditetapkan eksplisit lewat eliminasi adalah Cinta = anjing.
+  2. Cinta bukan ikan, dan kucing sudah milik Bayu → Cinta = anjing.
+  3. Ana = ikan (sisa). Cek: Ana bukan kucing ✓.
 
 - **Hasil akhir:** Anjing.
 
@@ -2377,10 +2376,10 @@ D. Doni
 - **Konsep yang diuji:** Logika "hanya satu jujur" (jebakan klasik).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Adi** — Salah. Kalau Adi pencurinya: Adi bohong (oke), Beni bohong (oke, dia bukan), Cindy benar (Beni memang bohong), Doni jujur (Doni bukan pencuri). Maka ada 2 yang jujur (Cindy & Doni), tidak konsisten dengan "hanya satu jujur".
-  - **B. Beni** — Salah. Kalau Beni pencuri: Adi jujur, Beni bohong, Cindy bohong (Beni tidak bohong, Cindy adalah… tunggu), Doni jujur. 2 jujur, tidak konsisten.
-  - **C. Cindy** — Salah. Kalau Cindy: Adi bohong, Beni jujur, Cindy bohong (Beni tidak bohong, jadi pernyataan "Beni bohong" salah → benar), Doni jujur. 2 jujur lagi.
-  - **D. Doni** — Benar. Kalau Doni: Adi bohong (Beni bukan), Beni bohong (Cindy bukan), Cindy jujur (Beni memang bohong), Doni bohong (dia memang pencuri). Hanya Cindy yang jujur ✅.
+  - **A. Adi** — Salah. Jika Adi pencurinya: pernyataan Cindy benar (Beni memang bohong) dan pernyataan Doni benar → 2 jujur.
+  - **B. Beni** — Salah. Jika Beni pencurinya: Adi benar, Cindy benar (Beni bohong), Doni benar → 3 jujur.
+  - **C. Cindy** — Salah. Jika Cindy pencurinya: Beni benar dan Doni benar → 2 jujur.
+  - **D. Doni** — Benar. Jika Doni pencurinya: Adi bohong, Beni bohong, Cindy benar (Beni memang bohong), Doni bohong. Hanya Cindy yang jujur ✅.
 
 - **Langkah Penyelesaian:**
   1. Uji satu per satu hipotesis siapa pencuri.

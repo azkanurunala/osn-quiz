@@ -1690,24 +1690,17 @@ Fokus: multi-langkah, satuan campur, rasio dimensi, pengisian/pengurasan, kombin
 ---
 
 **84.** Sebuah balok berukuran p : l : t = 4 : 3 : 2. Jika luas alas balok 192 cm², volume balok adalah ...
+
 - A. 1.536 cm³
-- B. 1.152 cm³
+- B. 2.304 cm³
 - C. 768 cm³
 - D. 384 cm³
-**Kunci: C**
-
-(Rencana 84 = C. Cek: p · l = 4x · 3x = 12x² = 192 → x² = 16 → x = 4. Maka p = 16, l = 12, t = 8. V = 16 × 12 × 8 = 1.536. Kunci A. Revisi: ubah luas alas atau rasio supaya kunci C. Gunakan rasio 4:3:2 dengan luas alas 48 → p=8,l=6,t=4 → V=192. Atau geser rencana: terima Kunci A pada 84.)
-
-Untuk menjaga keseimbangan distribusi, **terima kunci A pada soal 84**:
-
-**Pembahasan (Kunci A):**
-- **A** — Benar. Misal p = 4x, l = 3x, t = 2x. Luas alas = pl = 12x² = 192 → x² = 16 → x = 4. Maka p = 16, l = 12, t = 8. V = 16 × 12 × 8 = **1.536 cm³**.
-- **B** — Salah. Memakai t = 6 (salah).
-- **C** — Salah. Memakai t = 4 (salah).
-- **D** — Salah. Memakai t = 2 (salah).
-
 **Kunci: A**
-
+**Pembahasan:**
+- **A** — Benar. Misal p = 4x, l = 3x, t = 2x. Luas alas = pl = 12x² = 192 → x² = 16 → x = 4. Maka p = 16, l = 12, t = 8. V = 16 × 12 × 8 = **1.536 cm³**.
+- **B** — Salah. Lebar (12 cm) dipakai sebagai tinggi: 192 × 12.
+- **C** — Salah. Tinggi dikira x = 4, padahal t = 2x = 8: 192 × 4.
+- **D** — Salah. Angka rasio 2 dipakai langsung sebagai tinggi: 192 × 2.
 - **Konsep kunci:** Untuk rasio tiga dimensi, misalkan p = 4x, l = 3x, t = 2x; gunakan luas alas untuk mencari x, lalu hitung volume.
 - **Langkah Penyelesaian:**
   1. Luas alas = p × l = 12x² = 192 → x² = 16 → x = 4.

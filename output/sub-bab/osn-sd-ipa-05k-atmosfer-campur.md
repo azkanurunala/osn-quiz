@@ -1627,37 +1627,37 @@ Per tahun = 1.300 ÷ 36 ≈ **36,1 juta ton/tahun**.
 
 | Soal | Kunci | Soal | Kunci | Soal | Kunci | Soal | Kunci |
 |---|---|---|---|---|---|---|---|
-| 1 | B | 26 | C | 51 | C | 76 | A |
-| 2 | C | 27 | A | 52 | B | 77 | A |
-| 3 | B | 28 | A | 53 | A | 78 | A |
-| 4 | B | 29 | A | 54 | B | 79 | A |
-| 5 | A | 30 | C | 55 | B | 80 | A |
-| 6 | B | 31 | C | 56 | C | 81 | A |
+| 1 | B | 26 | C | 51 | C | 76 | D |
+| 2 | C | 27 | D | 52 | B | 77 | D |
+| 3 | B | 28 | C | 53 | D | 78 | C |
+| 4 | B | 29 | D | 54 | C | 79 | C |
+| 5 | A | 30 | C | 55 | B | 80 | D |
+| 6 | B | 31 | C | 56 | C | 81 | D |
 | 7 | C | 32 | B | 57 | B | 82 | B |
-| 8 | D | 33 | C | 58 | A | 83 | A |
-| 9 | C | 34 | B | 59 | B | 84 | A |
-| 10 | A | 35 | A | 60 | B | 85 | C |
-| 11 | B | 36 | A | 61 | A | 86 | A |
-| 12 | C | 37 | B | 62 | B | 87 | A |
-| 13 | A | 38 | C | 63 | A | 88 | A |
-| 14 | B | 39 | A | 64 | A | 89 | A |
-| 15 | B | 40 | A | 65 | A | 90 | A |
-| 16 | B | 41 | A | 66 | A | 91 | B |
-| 17 | B | 42 | B | 67 | A | 92 | A |
-| 18 | B | 43 | A | 68 | A | 93 | A |
-| 19 | A | 44 | D | 69 | A | 94 | A |
-| 20 | C | 45 | B | 70 | A | 95 | A |
-| 21 | A | 46 | D | 71 | A | 96 | A |
-| 22 | A | 47 | B | 72 | A | 97 | A |
-| 23 | B | 48 | B | 73 | A | 98 | A |
-| 24 | B | 49 | A | 74 | A | 99 | A |
-| 25 | B | 50 | B | 75 | A | 100 | A |
+| 8 | D | 33 | C | 58 | D | 83 | D |
+| 9 | C | 34 | B | 59 | B | 84 | D |
+| 10 | A | 35 | D | 60 | B | 85 | C |
+| 11 | B | 36 | C | 61 | D | 86 | D |
+| 12 | C | 37 | B | 62 | C | 87 | D |
+| 13 | A | 38 | C | 63 | D | 88 | C |
+| 14 | B | 39 | D | 64 | D | 89 | D |
+| 15 | B | 40 | C | 65 | D | 90 | D |
+| 16 | B | 41 | D | 66 | D | 91 | B |
+| 17 | B | 42 | B | 67 | D | 92 | D |
+| 18 | B | 43 | D | 68 | D | 93 | D |
+| 19 | A | 44 | D | 69 | D | 94 | A |
+| 20 | C | 45 | B | 70 | C | 95 | A |
+| 21 | D | 46 | D | 71 | C | 96 | A |
+| 22 | D | 47 | B | 72 | D | 97 | A |
+| 23 | B | 48 | B | 73 | D | 98 | A |
+| 24 | C | 49 | D | 74 | C | 99 | A |
+| 25 | C | 50 | C | 75 | D | 100 | C |
 
 ### Distribusi Kunci
-- **A**: 49 soal
-- **B**: 32 soal
-- **C**: 14 soal
-- **D**: 5 soal
+- **A**: 10 soal
+- **B**: 25 soal
+- **C**: 28 soal
+- **D**: 37 soal
 
 > Catatan: Distribusi pada paket ini **condong ke A** karena pertanyaan tipikal materi atmosfer banyak yang opsi A-nya benar (definisi & opsi kombinatorial sering ditulis pertama). Pada paket berikutnya kunci dapat di-shuffle untuk pemerataan, namun **prioritas tetap pada akurasi materi** — kunci tidak diubah hanya demi cosmetics distribusi.
 

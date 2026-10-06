@@ -1250,23 +1250,24 @@ Silo: tabung r = 7 m, t = 10 m, di atasnya setengah bola r = 7 m.
 
 ---
 
-**60.** Sebuah bangun L: balok-1 (12×6×4) dan balok-2 (6×6×4). LP gabungan dengan sisi bertemu 6×4 = 24 cm² = ... cm²
+**60.** Sebuah bangun L tersusun dari balok-1 (12×6×4 cm) dan balok-2 (6×6×4 cm) yang ditempelkan pada sisi berukuran 6×4 cm. Luas permukaan bangun gabungan = ... cm²
+
 - A. 288 cm²
-- B. 192 cm²
-- C. 432 cm²
-- D. 480 cm²
+- B. 168 cm²
+- C. 408 cm²
+- D. 432 cm²
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — LP balok-1 saja = 2(72+48+24) = 288.
-- **B** — LP balok-2 saja = 2(36+24+24) = 168 ≠ 192 (distractor salah).
-- **C** — Benar. LP₁ = 2(12×6 + 12×4 + 6×4) = 2(72+48+24) = 288. LP₂ = 2(6×6 + 6×4 + 6×4) = 2(36+24+24) = 168. Sisi bertemu 6×4 = 24, dikurangi 2 × 24 = 48. LP = 288 + 168 − 48 = 408 cm² (cek ulang). Soal asumsi 432: koreksi → jawaban yang sesuai opsi adalah 432 jika sisi bertemu hanya dihitung 1 kali (288+168 − 24 = 432). Pakai konvensi "kurangi sekali" pada konteks sebagian buku. ✅
-- **D** — 480 = 288+192 (salah pilih balok-2 LP).
-- **Konsep kunci:** Kadang sisi yang bertemu hanya dikurangi SATU kali (bukan dua kali) — cocokkan dengan opsi jawaban yang tersedia pada soal tersebut.
+- **A** — LP balok-1 saja = 2(72 + 48 + 24) = 288.
+- **B** — LP balok-2 saja = 2(36 + 24 + 24) = 168.
+- **C** — Benar. LP₁ = 288, LP₂ = 168. Sisi yang bertempel (6×4 = 24) tertutup pada KEDUA balok, jadi dikurangi 2 × 24 = 48. LP = 288 + 168 − 48 = 408 cm².
+- **D** — Sisi tempel hanya dikurangi sekali (288 + 168 − 24 = 432), padahal sisi itu hilang dari kedua balok.
+- **Konsep kunci:** Saat dua balok ditempel, luas sisi yang bertemu dikurangi dua kali (sekali dari tiap balok).
 - **Langkah Penyelesaian:**
-  1. LP balok-1 = 2(12×6 + 12×4 + 6×4) = 2(72+48+24) = 288 cm².
-  2. LP balok-2 = 2(6×6 + 6×4 + 6×4) = 2(36+24+24) = 168 cm².
-  3. Sisi bertemu (6×4 = 24) dikurangi satu kali: 288 + 168 − 24 = 432 cm² (opsi C).
+  1. LP balok-1 = 2(12×6 + 12×4 + 6×4) = 288 cm².
+  2. LP balok-2 = 2(6×6 + 6×4 + 6×4) = 168 cm².
+  3. LP gabungan = 288 + 168 − 2 × 24 = 408 cm².
 
 ---
 
@@ -1655,22 +1656,23 @@ Silo: tabung r = 7 m, t = 10 m, di atasnya setengah bola r = 7 m.
 ### SEKSI C · 20 Soal Tingkat Nasional (No. 81–100)
 
 **81.** Sebuah silo besar: tabung r = 14 m, t = 25 m dengan setengah bola r = 14 m di atas. Silo akan dicat (selimut tabung + kulit ½ bola, alas tabung tidak dicat). Biaya cat Rp 50.000/m². Total biaya = ... (π = 22/7)
-- A. Rp 172.480.000
+
+- A. Rp 171.600.000
 - B. Rp 233.200.000
 - C. Rp 110.000.000
 - D. Rp 61.600.000
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. Selimut tabung = 2πrt = 2 × 22/7 × 14 × 25 = 2.200 m². Kulit ½ bola = 2πr² = 2 × 22/7 × 196 = 1.232 m². Total LP = 2.200 + 1.232 = 3.432 m². Eh, 3.432 × 50.000 = 171.600.000, dibulatkan = Rp 172.480.000 (dengan pembulatan π yang lebih akurat). ✅
-- **B** — Salah hitung (kulit bola utuh).
-- **C** — Selimut tabung saja × 50.000.
-- **D** — Kulit ½ bola saja × 50.000.
-- **Konsep kunci:** Biaya pengecatan = luas permukaan yang dicat × harga per satuan luas; luas permukaannya tetap dihitung hanya dari sisi yang terlihat.
+- **A** — Benar. Selimut tabung = 2πrt = 2 × 22/7 × 14 × 25 = 2.200 m². Kulit ½ bola = 2πr² = 2 × 22/7 × 196 = 1.232 m². Total = 3.432 m² × Rp50.000 = **Rp171.600.000**.
+- **B** — Kulit bola utuh (4πr² = 2.464 m²) yang dipakai: (2.200 + 2.464) × 50.000.
+- **C** — Hanya selimut tabung: 2.200 × 50.000.
+- **D** — Hanya kulit ½ bola: 1.232 × 50.000.
+- **Konsep kunci:** Biaya pengecatan = luas permukaan yang dicat × harga per satuan luas.
 - **Langkah Penyelesaian:**
-  1. Selimut tabung = 2πrt = 2 × 22/7 × 14 × 25 = 2.200 m²
-  2. Kulit ½ bola = 2πr² = 2 × 22/7 × 196 = 1.232 m²
-  3. Jadi hasilnya = Rp 172.480.000 (opsi A).
+  1. Selimut tabung = 2πrt = 2.200 m².
+  2. Kulit ½ bola = 2πr² = 1.232 m².
+  3. Biaya = 3.432 × Rp50.000 = Rp171.600.000.
 
 ---
 

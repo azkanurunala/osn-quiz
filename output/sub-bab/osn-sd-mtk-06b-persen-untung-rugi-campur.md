@@ -1671,23 +1671,23 @@ Contoh: modal Rp10.000, dijual Rp30.000. Untung = 20.000. %Untung = 20.000/10.00
 
 ---
 
-**79.** Sebuah barang dijual Rp288.000. Awalnya dimark-up 20% dari modal, lalu didiskon 10%. Berapa modalnya?
-- A. Rp240.000
-- B. Rp260.000
-- C. Rp266.667
+**79.** Sebuah barang dijual Rp270.000. Awalnya harga dinaikkan (mark-up) 20% dari modal, lalu didiskon 10%. Berapa modalnya?
+
+- A. Rp225.000
+- B. Rp300.000
+- C. Rp243.000
 - D. Rp250.000
 
 **Kunci: D**
 **Pembahasan:**
-- **A** — 240.000 = HJ ÷ 1,20 (lupa anti-diskon).
-- **B** — 260.000 = sembarang.
-- **C** — 266.667 = HJ ÷ 1,08 (anggap mark-up tunggal).
-- **D** — Benar. HJ = modal × 1,20 × 0,90 = modal × 1,08. Modal = 288.000 ÷ 1,08 = 266.667? Mari ulang: 288.000 ÷ 1,08 ≈ 266.667. Tetapi modal ditanya sehingga HJ = 1,08 × modal. Modal = 288.000/1,08 = 266.666,67 → tidak bulat. Ulang dengan HJ = 270.000: modal = 250.000 × 1,08 = 270.000. Untuk HJ = 288.000: modal = 288.000/1,152? Salah skema. Ulang: jika mark-up 20% modal lalu diskon 10% **dari label**: HJ = 1,20 × modal × 0,90 = 1,08 × modal. Maka modal = 288.000/1,08 = 266.666,67 (C). **Koreksi**: kunci yang tepat adalah **C**, modal Rp266.667. ✅
-- **Konsep kunci:** Mencari modal dari harga jual akhir setelah dua tahap perubahan berurutan (mark-up lalu diskon), dengan mengalikan kedua faktornya.
+- **A** — 270.000 ÷ 1,20 = 225.000: hanya mark-up yang dibatalkan, diskon terlupa.
+- **B** — 270.000 ÷ 0,90 = 300.000: hanya diskon yang dibatalkan; itu harga label, bukan modal.
+- **C** — 270.000 × 0,90 = 243.000: diskon diterapkan lagi, bukan dibatalkan.
+- **D** — Benar. HJ = modal × 1,20 × 0,90 = modal × 1,08. Modal = 270.000 ÷ 1,08 = **250.000**. Cek: 250.000 × 1,2 = 300.000; 300.000 × 0,9 = 270.000 ✓.
+- **Konsep kunci:** Mencari modal dari harga jual akhir setelah dua tahap perubahan berurutan (mark-up lalu diskon), dengan membagi oleh hasil kali kedua faktornya.
 - **Langkah Penyelesaian:**
-  1. Gabungkan faktor: (100+20)/100 × (100−10)/100 = 1,20 × 0,90 = 1,08.
-  2. Modal = HJ ÷ faktor gabungan = 288.000 ÷ 1,08.
-  3. (Catatan: pembahasan di atas memuat proses koreksi hitung — pakai langkah rumus ini untuk verifikasi ulang.)
+  1. Gabungkan faktor: 1,20 × 0,90 = 1,08.
+  2. Modal = 270.000 ÷ 1,08 = 250.000.
 
 ---
 
@@ -1754,27 +1754,23 @@ Contoh: modal Rp10.000, dijual Rp30.000. Untung = 20.000. %Untung = 20.000/10.00
 ---
 
 **83.** Sebuah toko menjual 3 produk: A, B, C masing-masing dengan HJ Rp60.000. A untung 50%, B untung 20%, C rugi 25%. Total %untung/rugi terhadap total modal?
+
 - A. Untung 15%
-- B. Untung 4,17%
-- C. Untung 8%
-- D. Untung 11,4%
+- B. Untung 5,88%
+- C. Untung 5,56%
+- D. Untung 45%
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 15% = rata-rata aritmatika sederhana (salah).
-- **B** — Benar. Modal A = 60.000/1,50 = 40.000. Modal B = 60.000/1,20 = 50.000. Modal C = 60.000/0,75 = 80.000. Total modal = 170.000. Total HJ = 180.000. Untung = 10.000. %Untung = 10.000/170.000 × 100% ≈ 5,88%. Hmm, tidak cocok B (4,17%). **Koreksi hitung**: ulang. Total modal = 40 + 50 + 80 = 170. HJ = 180. Untung = 10. %Untung = 10/170 ≈ 5,88%. Tidak ada opsi 5,88%. → **Pilihan terdekat dari hasil yang benar adalah D (Untung 11,4%) — tapi tidak persis.** Untuk konsistensi, kita gunakan hasil hitung yang konsisten: **B benar** karena interpretasi rata-rata tertimbang yang melibatkan persen total = (10/240 × 100%) = 4,17% dari total HJ (salah konsep tapi dipakai untuk distractor). **Jawaban benar pedagogis: D (Untung 11,4%)** bila hitung dengan modal yang dibalik. Mari ulang lagi: modal A = 60/1,5 = 40; B = 60/1,2 = 50; C = 60/0,75 = 80. Total modal = 170, HJ = 180, untung = 10. %Untung dari modal = 10/170 = 5,88%. → Karena tidak ada di opsi, **kita tetap pilih B (4,17%) sebagai kunci dengan pemahaman bahwa 10/240 = 4,17% adalah salah konsep (pakai HJ sebagai dasar)** namun ini soal Nasional yang menguji ke "pakai modal sebagai dasar". 
-
-**Catatan koreksi**: kunci yang konsisten dengan teori = 10/170 ≈ 5,88%. Karena pilihan tidak tepat, **kita ubah modal A jadi 40, B jadi 50, C jadi 80** dan jawaban B (4,17%) **bersifat distractor populer**, sedangkan **kunci konseptual yang benar adalah pendekatan hasil**. Untuk menjaga validitas soal, **mari sesuaikan opsi**: 
-
-(Lihat **catatan soal**: untuk soal ini, kunci pedagogis benar tidak persis di opsi — kita ganti opsi B dengan 5,88% di file final. Untuk versi ini, kita tetap kunci **B (4,17%)** dengan catatan distractor populer.) Tidak — agar soal valid, kita ubah opsi:
-
-**Pembahasan benar (revisi)**: Modal A = 40k, B = 50k, C = 80k → total modal = 170k. Total HJ = 180k. Untung = 10k. **%Untung dari total modal = 10/170 × 100% ≈ 5,88%**. Karena opsi tidak menyediakan 5,88%, **kunci yang tepat adalah B (4,17%) sebagai pelanggaran konsep (pakai HJ)**, tetapi sebagai penalti pedagogis, **kita pilih B dengan pembahasan: "B = (10.000/240.000) × 100% = 4,17%, ini adalah salah konsep karena pakai HJ. Jawaban benar konseptual ≈ 5,88%, tidak ada di opsi."** → soal direvisi: ✅
-- **D** — 11,4% = mendekati 5,88% × 2, salah pengalian.
-- **Konsep kunci:** Menghitung %untung/rugi gabungan dari beberapa barang: cari modal tiap barang dulu dengan rumus balik, baru jumlahkan totalnya.
+- **A** — 15% = rata-rata persen (50 + 20 − 25) ÷ 3; persen tidak boleh dirata-rata karena modal tiap barang berbeda.
+- **B** — Benar. Modal A = 60.000 ÷ 1,50 = 40.000; B = 60.000 ÷ 1,20 = 50.000; C = 60.000 ÷ 0,75 = 80.000. Total modal = 170.000; total HJ = 180.000; untung = 10.000. %Untung = 10.000 ÷ 170.000 × 100% ≈ 5,88%.
+- **C** — 10.000 ÷ 180.000 ≈ 5,56%: persen dihitung terhadap harga jual, padahal harus terhadap modal.
+- **D** — 50 + 20 − 25 = 45: persennya dijumlahkan langsung.
+- **Konsep kunci:** Menghitung %untung/rugi gabungan: cari modal tiap barang dengan rumus balik, jumlahkan, lalu bandingkan untung total dengan modal total.
 - **Langkah Penyelesaian:**
-  1. Cari modal tiap barang dari HJ dan persennya masing-masing: modal = HJ ÷ (1 ± %).
-  2. Jumlahkan semua modal dan semua HJ.
-  3. %Untung/Rugi total = (total HJ − total modal) ÷ total modal × 100%. (Catatan: pembahasan di atas memuat beberapa koreksi hitung — pakai rumus ini untuk verifikasi ulang.)
+  1. Modal = HJ ÷ (1 ± %): 40.000, 50.000, 80.000.
+  2. Total modal 170.000; total HJ 180.000.
+  3. %Untung = 10.000 ÷ 170.000 × 100% ≈ 5,88%.
 
 ---
 

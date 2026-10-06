@@ -2821,7 +2821,7 @@ Andi (15 tahun) belum menunjukkan tanda pubertas apapun. Saran yang paling tepat
 
 **(2) Pilihan Jawaban:**
 
-A. Tunggu saja, pasti akan datang
+A. Diamkan saja, pasti akan datang
 B. Konsultasi ke dokter untuk pemeriksaan hormon
 C. Minum obat dewasa
 D. Tidak perlu lakukan apa-apa
@@ -2833,9 +2833,10 @@ D. Tidak perlu lakukan apa-apa
 - **Konsep yang diuji:** Pubertas terlambat.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A & D.** Setelah 15 thn perlu pemeriksaan, jangan diabaikan.
-  - **B.** Benar; bisa jadi pubertas terlambat fisiologis atau ada gangguan.
-  - **C.** Berbahaya; jangan tanpa resep.
+  - **A. Diamkan saja** — Salah. Mengira pubertas pasti datang sendiri; padahal usia 15 tahun tanpa tanda apa pun perlu diperiksa.
+  - **B. Konsultasi ke dokter** — Benar. Bisa jadi hanya pubertas terlambat yang wajar, atau ada gangguan hormon yang perlu ditangani.
+  - **C. Minum obat dewasa** — Salah. Berbahaya; obat hormon hanya boleh dengan resep dokter.
+  - **D. Tidak perlu lakukan apa-apa** — Salah. Sama dengan A; mengabaikan tanda yang perlu diperiksa.
 
 - **Langkah Penyelesaian:**
   1. Usia >15 + tidak ada tanda = perlu konsultasi.
@@ -3731,6 +3732,4 @@ Setelah menguasai sub-bab ini (target: benar ≥80 dari 100), siswa disarankan l
 - **Sub-bab terkait:** [IPA-02g · Sistem Reproduksi (level dasar SD)](osn-sd-ipa-02g-sistem-reproduksi-campur.md) — memperdalam organ-organ reproduksi.
 - **Sub-bab pengembangan:** [IPA-02i · Gizi Seimbang](osn-sd-ipa-02i-gizi-campur.md) — nutrisi yang mendukung tumbuh-kembang optimal saat pubertas.
 - **Tingkat lanjut sub-bab yang sama:** `osn-sd-ipa-02h-pubertas-sulit.md` (100 soal khusus Nasional) untuk asah tipe gray area.
-
-
 

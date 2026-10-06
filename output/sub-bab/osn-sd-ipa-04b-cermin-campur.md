@@ -1240,15 +1240,14 @@ Saat benda berada di luar 2F cermin cekung, bayangan nyata yang terbentuk berada
   - Benda di luar 2F → bayangan **antara F dan 2F** (lebih dekat ke cermin), diperkecil, terbalik, nyata.
   - Benda di antara F dan 2F → bayangan **di luar 2F** (lebih jauh dari cermin), diperbesar, terbalik, nyata.
   - Benda tepat di 2F → bayangan tepat di 2F (sama besar).
-  
+
   Ini menunjukkan **simetri** — benda dan bayangan bisa "tukar tempat" antara F-2F dan luar 2F.
 
 - **Analisis tiap opsi:**
-  - **A salah — bukan nyata:** Bayangan di belakang cermin = maya, bukan nyata.
-  - **B salah — bukan posisi untuk benda di luar 2F:** Bayangan di dalam F terjadi saat benda di luar 2F? Tunggu, kita perlu cek lagi.
-    Sebenarnya: benda di tak terhingga → bayangan di F. Benda di luar 2F → bayangan **antara F dan 2F**. Jadi bukan di dalam F.
+  - **A salah — bukan nyata:** Bayangan di belakang cermin = maya, bukan nyata. Itu terjadi saat benda di dalam F.
+  - **B salah — tidak ada bayangan nyata di dalam F:** Semakin jauh benda, bayangan semakin mendekati F, tetapi tidak pernah masuk ke antara cermin dan F. (Benda di tak terhingga → bayangan tepat di F.)
   - **C benar:** Antara F dan 2F.
-  - **D salah — itu untuk benda antara F-2F:** Bayangan di luar 2F terjadi saat benda antara F dan 2F.
+  - **D salah — itu untuk benda antara F-2F:** Posisi benda dan bayangan tertukar; bayangan di luar 2F terjadi saat benda antara F dan 2F.
 
 - **💭 Tip transfer:** Hafalkan diagram klasik cermin cekung. Posisi benda dan bayangan saling bercerminan terhadap 2F. Konsep "simetri di 2F" sangat berguna untuk soal Prov-Nas.
 

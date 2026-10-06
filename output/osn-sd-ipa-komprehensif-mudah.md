@@ -3368,7 +3368,7 @@ D. Tetap tidur di kasur
 - **Konsep yang diuji:** Mitigasi bencana — tindakan saat gempa.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Berlari ke luar dengan tergesa-gesa** — Salah. Berlari tergesa saat lantai bergoyang berisiko terjatuh; risiko tertimpa atap/genteng saat keluar pintu lebih besar. Yang aman: tunggu goncangan mereda baru evakuasi.
+  - **A. Berlari ke luar dengan tergesa-gesa** — Salah. Berlari tergesa saat lantai bergoyang berisiko terjatuh; risiko tertimpa atap/genteng saat keluar pintu lebih besar. Yang aman: bertahan sampai goncangan mereda, baru evakuasi.
   - **B. Berlindung di bawah meja yang kokoh, jauh dari kaca & lemari tinggi** — Benar. Meja kokoh melindungi dari benda yang jatuh. Jauhi kaca (bisa pecah) & lemari tinggi (bisa roboh).
   - **C. Naik ke atas atap rumah** — Salah. Sangat berbahaya — atap bisa runtuh dan korban terjatuh.
   - **D. Tetap tidur di kasur** — Salah. Tidak ada perlindungan dari benda jatuh.

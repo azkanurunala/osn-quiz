@@ -1133,7 +1133,7 @@ D. Merunduk
 **Jawaban:** **C**
 
 **Pembahasan:**
-- **A salah:** **Cangkok** = mengupas kulit cabang sebagian, balut tanah, tunggu tumbuh akar, lalu dipotong.
+- **A salah:** **Cangkok** = mengupas kulit cabang sebagian, balut tanah, biarkan sampai berakar, lalu dipotong.
 - **B salah:** **Stek** = memotong bagian tumbuhan (batang/daun) dan ditanam langsung agar tumbuh akar.
 - **C benar:** **Okulasi** = menempel mata tunas (sayatan kecil dengan tunas dorman) ke batang bawah, dibalut. Bermanfaat untuk menggabungkan akar kuat & buah unggul.
 - **D salah:** **Merunduk** = membengkokkan cabang ke tanah hingga tumbuh akar di titik sentuh.
@@ -2682,5 +2682,4 @@ Tulis **3 insight** paling berharga yang saya dapatkan dari mengerjakan paket in
 Selamat berlatih, calon ilmuwan masa depan!
 
 ---
-
 

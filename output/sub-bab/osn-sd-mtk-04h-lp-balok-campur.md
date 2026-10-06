@@ -1370,6 +1370,7 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 ---
 
 **68.** Sebuah balok p = 12 cm, l = 8 cm, t = 6 cm. Bila tinggi diperbesar menjadi 10 cm (dimensi lain tetap), LP baru ...
+
 - A. 432 cm²
 - B. 592 cm²
 - C. 960 cm²
@@ -1379,8 +1380,8 @@ Fokus: balok tanpa tutup, mencari dimensi dari LP, soal cerita aplikasi (cat, ke
 - **A** — Salah. Itu LP lama: 2(96 + 48 + 72) = 432.
 - **B** — Benar. LP baru = 2(96 + 80 + 120) = 2 × 296 = **592 cm²**.
 - **C** — Salah. Itu volume baru: 12 × 8 × 10 = 960 cm³.
-- **D** — Salah. Salah hitung 2 × 360.
-- **Konsep kunci:** Bila salah satu dimensi diperbesar, hitung ulang LP dengan dimensi baru (bukan mengalikan LP lama).
+- **D** — Salah. LP lama diperbesar sebanding tinggi (432 × 10/6 = 720), padahal sisi atas-bawah tidak ikut berubah.
+- **Konsep kunci:** Bila salah satu dimensi diperbesar, LP dihitung lagi dengan dimensi baru (bukan mengalikan LP lama).
 - **Langkah Penyelesaian:**
   1. Dimensi baru: p = 12, l = 8, t = 10.
   2. pl = 96, lt = 80, pt = 120 → jumlah = 296.

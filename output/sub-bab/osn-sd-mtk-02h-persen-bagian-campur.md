@@ -866,31 +866,21 @@ Soal 1–2 langkah, fokus rumus dasar persen.
 ---
 
 **41.** Berapa persen 36 dari 60?
-- A. 36%
-- B. 60%
-- C. 40%
-- D. 60%
-- *(catatan: "60%" tidak muncul dua kali; opsi D digantikan 24%)*
-
-> ⚠️ Koreksi opsi (cetak ulang):
 
 - A. 36%
 - B. 60%
 - C. 40%
 - D. 24%
-
-Pertanyaan utama: "Berapa persen 36 dari 60?"
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. Angka 36 disalin tanpa diolah dengan 60.
+- **A** — Salah. Angka 36 disalin sebagai persen tanpa dibandingkan dengan 60.
 - **B** — Benar. (36/60) × 100% = (3/5) × 100% = 60%.
-- **C** — Salah. (24/60) × 100% = 40%, padahal pembilangnya 36 (bukan 24).
-- **D** — Salah. (60 − 36)/60 × 100% = 24/60 × 100% = 40%; angka 24 (sisa) disalin sebagai persen.
-- **Konsep kunci:** Menentukan berapa persen 36 dari 60 memakai rumus (bagian ÷ total) × 100%; opsi yang salah cetak sudah dikoreksi lebih dulu.
+- **C** — Salah. 40% adalah persen sisanya: (60 − 36)/60 × 100% = 40%.
+- **D** — Salah. Selisih 60 − 36 = 24 disalin langsung sebagai persen.
+- **Konsep kunci:** Berapa persen a dari b = (a ÷ b) × 100%.
 - **Langkah Penyelesaian:**
   1. Tulis pecahan bagian per total: 36/60 = 3/5.
   2. Kalikan dengan 100%: (3/5) × 100% = 60%.
-  3. Cocokkan dengan opsi B yang sudah dikoreksi.
 
 ---
 
@@ -1963,19 +1953,18 @@ Soal 4–6 langkah, kombinasi konsep, kenaikan-penurunan berulang, kasus terapan
 ---
 
 **100.** Tabungan Rina Rp800.000 dengan bunga 5% per tahun (sederhana). Tabungan Sari Rp1.000.000 dengan bunga 4% per tahun (sederhana). Setelah 5 tahun, berapa selisih saldo Rina dan Sari?
+
 - A. Rp0
 - B. Rp40.000
 - C. Rp200.000
 - D. Rp240.000
-**Kunci: D**
+**Kunci: C**
 **Pembahasan:**
-- **A** — Salah. Sekilas dikira bunga sama saja (5%×800 = 40 = 4%×1.000 → bunga tahunan sama Rp40.000), tetapi selisih saldo bukan selisih bunga — selisih pokok juga ikut.
-- **B** — Salah. Selisih bunga per tahun = Rp0 (memang sama Rp40.000). Tapi pertanyaan: selisih SALDO, bukan selisih bunga.
-- **C** — Salah. Selisih pokok = Rp1.000.000 − Rp800.000 = Rp200.000 (lupa bahwa setelah 5 tahun masing-masing tumbuh tetapi tetap dengan bunga sama).
-- **D** — Benar. Rina setelah 5 thn: Rp800.000 + 5 × 5% × Rp800.000 = Rp800.000 + Rp200.000 = Rp1.000.000. Sari setelah 5 thn: Rp1.000.000 + 5 × 4% × Rp1.000.000 = Rp1.000.000 + Rp200.000 = Rp1.200.000. Selisih = Rp1.200.000 − Rp1.000.000 = **Rp200.000**. *(Catatan: jawaban tepat = Rp200.000, terdapat di opsi C; opsi D dipilih bila penghitung salah menambahkan selisih bunga. Pilih C bila membaca dengan teliti.)* → Pada koreksi: **kunci yang benar adalah C (Rp200.000)**.
-
-> ⚠️ Koreksi soal 100: kunci benar adalah **C (Rp200.000)**.
-- **Konsep kunci:** Selisih saldo akhir dihitung dari total saldo masing-masing setelah bunga sederhana ditambahkan selama beberapa tahun, bukan dari selisih bunga saja.
+- **A** — Salah. Bunga tahunan keduanya sama (Rp40.000), lalu dikira saldonya juga sama; padahal pokoknya berbeda.
+- **B** — Salah. Rp40.000 adalah bunga satu tahun masing-masing, bukan selisih saldo.
+- **C** — Benar. Rina: Rp800.000 + 5 × 5% × Rp800.000 = Rp1.000.000. Sari: Rp1.000.000 + 5 × 4% × Rp1.000.000 = Rp1.200.000. Selisih = **Rp200.000**.
+- **D** — Salah. Selisih pokok (Rp200.000) ditambah bunga satu tahun (Rp40.000), seolah bunganya hanya dimiliki satu orang.
+- **Konsep kunci:** Selisih saldo akhir dihitung dari total saldo masing-masing setelah bunga sederhana ditambahkan selama beberapa tahun.
 - **Langkah Penyelesaian:**
   1. Saldo Rina setelah 5 tahun: Rp800.000 + (5 × 5% × Rp800.000) = Rp1.000.000.
   2. Saldo Sari setelah 5 tahun: Rp1.000.000 + (5 × 4% × Rp1.000.000) = Rp1.200.000.

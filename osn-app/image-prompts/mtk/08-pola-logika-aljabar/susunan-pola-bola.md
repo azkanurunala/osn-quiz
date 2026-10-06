@@ -3,7 +3,7 @@
 - **Bab:** MTK 08 · Pola, Logika & Aljabar
 - **Sub-bab:** 08a–08e
 - **Objek (EN):** glossy wooden beads arranged into triangular number patterns
-- **Soal terkait:** 812 soal di 148 file
+- **Soal terkait:** 809 soal di 148 file
   - `mtk-08e-pola-gambar-campur` (95)
   - `mtk-08-pola-logika-aljabar-mudah` (49)
   - `mtk-08i-penalaran-deduktif-campur` (46)

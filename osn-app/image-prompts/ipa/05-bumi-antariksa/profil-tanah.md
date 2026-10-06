@@ -3,8 +3,8 @@
 - **Bab:** IPA 05 · Bumi, Antariksa & Lingkungan
 - **Sub-bab:** 05h
 - **Objek (EN):** a soil profile monolith (a preserved vertical column of real soil)
-- **Soal terkait:** 717 soal di 137 file
-  - `ipa-05h-tanah-campur` (88)
+- **Soal terkait:** 718 soal di 137 file
+  - `ipa-05h-tanah-campur` (89)
   - `ipa-05j-siklus-air-campur` (27)
   - `ipa-01r-populasi-siklus-materi-campur` (23)
   - `ipa-01d-struktur-tumbuhan-campur` (18)

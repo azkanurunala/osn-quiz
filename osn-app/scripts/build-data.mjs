@@ -738,7 +738,9 @@ function parseQuestionBlock(lines) {
     flushMode();
   }
 
-  if (!answerKey) answerKey = answerFromMarker || answerFromBold || 'A';
+  // An explicit Jawaban/Kunci line beats a "benar" verdict found in the analysis:
+  // in "pernyataan yang SALAH" soal the true statements are labelled "Benar".
+  answerKey = answerFromMarker || answerFromKunci || answerKey || answerFromBold || 'A';
   void hasStructured;
 
   return {

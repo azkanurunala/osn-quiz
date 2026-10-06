@@ -2137,8 +2137,8 @@ D. 2 1/4
 - **Konsep yang diuji:** Pecahan kompleks (pecahan di dalam pecahan) — sederhanakan dulu masing-masing.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2 1/30** — Salah. Tidak ada derivation valid.
-  - **B. 2 7/60** — Salah. Mungkin siswa salah hitung pembilang akhir.
+  - **A. 2 1/30** — Salah. Pengecoh umpan yang nilainya dekat (≈ 2,03); tidak berasal dari langkah hitung tertentu.
+  - **B. 2 7/60** — Salah. Pengecoh umpan yang nilainya dekat (≈ 2,12); tidak berasal dari langkah hitung tertentu.
   - **C. 2 13/60** — Benar. 1/(1+1/2) = 1/(3/2) = 2/3; 1/(1+1/3) = 1/(4/3) = 3/4; 1/(1+1/4) = 1/(5/4) = 4/5. KPK(3,4,5)=60. Jumlah = 40/60 + 45/60 + 48/60 = 133/60 = **2 13/60**.
   - **D. 2 1/4** — Salah. 2 1/4 = 2,25; nilai sebenarnya 133/60 ≈ 2,217 < 2,25.
 
@@ -2151,7 +2151,7 @@ D. 2 1/4
 
 - **Hasil akhir:** 2 13/60
 
-- **💭 Tips:** Pecahan kompleks: 1/(1 + 1/n) = n/(n+1). Pola ini menghemat waktu — langsung tulis 2/3, 3/4, 4/5 tanpa hitung ulang.
+- **💭 Tips:** Pecahan kompleks: 1/(1 + 1/n) = n/(n+1). Pola ini menghemat waktu — langsung tulis 2/3, 3/4, 4/5 tanpa menghitung panjang.
 
 ---
 

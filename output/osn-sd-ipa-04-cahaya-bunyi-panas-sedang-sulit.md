@@ -446,7 +446,7 @@ D. Lensa cekung, karena dapat mengumpulkan cahaya sehingga bayangan bergeser ke 
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Koreksi miopi dengan lensa cekung
+- **Konsep yang diuji:** Mengatasi miopi dengan lensa cekung
 
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Lensa cembung, menyebarkan cahaya** — Salah ganda: lensa cembung mengumpulkan (bukan menyebarkan) cahaya, DAN untuk miopi justru butuh lensa yang menyebarkan agar bayangan bergeser ke belakang.
@@ -456,7 +456,7 @@ D. Lensa cekung, karena dapat mengumpulkan cahaya sehingga bayangan bergeser ke 
 
 - **Langkah Penyelesaian (cara benar):**
   1. Miopi: bola mata terlalu panjang atau lensa terlalu cembung → bayangan jatuh di depan retina.
-  2. Untuk koreksi: bayangan harus digeser ke belakang (ke retina).
+  2. Untuk memperbaikinya: bayangan harus digeser ke belakang (ke retina).
   3. Untuk menggeser bayangan ke belakang: cahaya harus disebarkan sebelum masuk mata.
   4. Lensa yang menyebarkan cahaya = **lensa cekung** (divergen).
 

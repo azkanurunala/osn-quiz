@@ -521,7 +521,7 @@ D. 260 cm²
 ### Soal 9 · Luas Permukaan Tabung · Nasional
 
 **(1) Soal:**
-Sebuah kaleng berbentuk tabung tanpa tutup memiliki diameter 28 cm dan tinggi 20 cm. Kaleng akan dicat luar dan dalam (semua permukaan terlihat). Berapa luas total yang harus dicat? (π = 22/7)
+Sebuah kaleng berbentuk tabung tanpa tutup memiliki diameter 28 cm dan tinggi 20 cm. Kaleng akan dicat luar dan dalam (semua permukaan, termasuk alas bagian luar). Berapa luas total yang harus dicat? (π = 22/7)
 
 **(2) Pilihan Jawaban:**
 
@@ -537,21 +537,21 @@ D. 4.752 cm²
 - **Konsep yang diuji:** Luas permukaan tabung tanpa tutup, dicat dua sisi (luar dan dalam).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 2.376 cm²** — Salah. Ini LP tabung tanpa tutup hanya sisi LUAR (sekali cat): πr² + 2πrt = 22/7·196 + 2·22/7·14·20 = 616 + 1.760 = 2.376. Lupa kalau "luar dan dalam" perlu dikali 2.
-  - **B. 3.520 cm²** — Salah. Muncul kalau siswa hitung luar+dalam tapi salah ambil selimut saja (lupa alas): 2 × 1.760 = 3.520. Lupa alas juga punya dua sisi.
-  - **C. 4.136 cm²** — Salah. Muncul kalau siswa hitung LP tabung TERTUTUP utuh: 2πr² + 2πrt = 2·616 + 1.760 = 1.232 + 1.760 = 2.992 (salah). Atau pakai LP utuh × kombinasi tertentu = 4.136. Distraktor umpan.
-  - **D. 4.752 cm²** — Benar. LP tanpa tutup (satu sisi) = πr² + 2πr·t. r = 14 cm. Alas: πr² = 22/7 × 196 = 616 cm². Selimut: 2πr·t = 2 × 22/7 × 14 × 20 = 1.760 cm². LP satu sisi = 616 + 1.760 = 2.376 cm². Karena dicat luar DAN dalam (dua sisi seluruh permukaan kecuali alas bawah luar yang... oh wait — perlu diteliti). Asumsi soal: total permukaan yang terlihat dari luar (alas luar + selimut luar) + total permukaan dalam (alas dalam + selimut dalam) = 2 × 2.376 = 4.752 cm².
+  - **A. 2.376 cm²** — Salah. Ini LP tabung tanpa tutup satu sisi saja (616 + 1.760); lupa dikali 2 untuk sisi dalam.
+  - **B. 3.520 cm²** — Salah. Hanya selimut luar dan dalam (2 × 1.760); alas terlupa.
+  - **C. 4.136 cm²** — Salah. Selimut dicat dua kali, tetapi alas hanya sekali: 616 + 2 × 1.760.
+  - **D. 4.752 cm²** — Benar. Satu sisi = alas 616 + selimut 1.760 = 2.376 cm². Luar dan dalam = 2 × 2.376 = 4.752 cm².
 
 - **Langkah Penyelesaian (cara benar):**
   1. Jari-jari = 28 ÷ 2 = 14 cm, tinggi = 20 cm.
-  2. Luas alas (1 lingkaran) = πr² = 22/7 × 14² = 22/7 × 196 = 616 cm².
+  2. Luas alas = πr² = 22/7 × 196 = 616 cm².
   3. Luas selimut = 2πr × t = 2 × 22/7 × 14 × 20 = 1.760 cm².
-  4. LP tabung tanpa tutup (sisi luar) = 616 + 1.760 = 2.376 cm².
-  5. Karena dicat dalam dan luar: total = 2 × 2.376 = 4.752 cm².
+  4. LP tabung tanpa tutup (satu sisi) = 616 + 1.760 = 2.376 cm².
+  5. Dicat dalam dan luar: total = 2 × 2.376 = 4.752 cm².
 
 - **Hasil akhir:** Luas yang dicat = **4.752 cm²**.
 
-- **💭 Tips:** Untuk tabung tanpa tutup, hanya 1 alas (di bawah). Kalau dicat dua sisi (luar dan dalam), kalikan total LP dengan 2. Hati-hati: jangan terjebak menambahkan tutup karena soal bilang "tanpa tutup".
+- **💭 Tips:** Untuk tabung tanpa tutup, hanya ada 1 alas. Kalau dicat dua sisi, kalikan LP satu sisi dengan 2.
 
 ---
 

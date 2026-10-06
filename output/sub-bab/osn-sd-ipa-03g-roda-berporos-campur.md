@@ -2387,10 +2387,10 @@ D. 1.000 N
 - **Konsep yang diuji:** Aplikasi untung gaya saat dorong di tepi roda.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 4 N** — Salah. Terbalik.
-  - **B. 10 N** — Salah.
-  - **C. 100 N** — Benar. R = 25 cm, r = 2,5 cm. K × R = B × r → 20 × 25 = B × 2,5 → B = 500/2,5 = 200… tunggu, perhatikan: r = 5 cm/2 = 2,5? Sebenarnya soal menyebut "poros 5 cm" sebagai jari-jari poros, jadi r = 5. Hitung ulang: K × R = B × r → 20 × 25 = B × 5 → B = 100 N. ✓
-  - **D. 1.000 N** — Salah. Terlalu besar.
+  - **A. 4 N** — Salah. Gaya dibagi keuntungan mekanis (20 ÷ 5), padahal seharusnya dikali.
+  - **B. 10 N** — Salah. Hasil bagi diameter roda dengan poros (50 ÷ 5 = 10) dikira besar beban.
+  - **C. 100 N** — Benar. R = 25 cm, r = 2,5 cm. K × R = B × r → 20 × 25 = B × 2,5 → R = 25 cm (jari-jari roda), r = 5 cm (jari-jari poros). K × R = B × r → 20 × 25 = B × 5 → B = 100 N. ✓
+  - **D. 1.000 N** — Salah. Gaya dikali diameter roda (20 × 50) tanpa dibagi jari-jari poros.
 
 - **Langkah Penyelesaian:**
   1. R = 25 cm, r = 5 cm.

@@ -1250,7 +1250,7 @@ D. lensa datar
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** koreksi cacat mata dengan lensa, sifat konvergen lensa cembung.
+- **Konsep yang diuji:** mengatasi cacat mata dengan lensa, sifat konvergen lensa cembung.
 
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. lensa cekung** = untuk **miopi (rabun jauh)**, bayangan jatuh di depan retina → perlu lensa divergen agar bayangan mundur ke retina.

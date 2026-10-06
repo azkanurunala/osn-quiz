@@ -2179,8 +2179,8 @@ Jika total 15 data dan mediannya 80, berapa nilai x?
 
 **Distribusi kunci jawaban (100 soal):**
 - **A**: 25 soal
-- **B**: 25 soal
-- **C**: 25 soal
+- **B**: 24 soal
+- **C**: 26 soal
 - **D**: 25 soal
 - **Total**: 100 soal — distribusi seimbang sempurna 25/25/25/25.
 

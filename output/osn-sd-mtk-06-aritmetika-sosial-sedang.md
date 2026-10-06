@@ -642,10 +642,10 @@ Sebuah tas branded seharga Rp 500.000 mendapat diskon 30% di papan promo. Di kas
 
 **(2) Pilihan Jawaban:**
 
-A. Rp 295.000
+A. Rp 300.000
 B. Rp 315.000
-C. Rp 325.000
-D. Rp 350.000
+C. Rp 350.000
+D. Rp 185.000
 
 **(3) Jawaban:** **B. Rp 315.000**
 
@@ -654,10 +654,10 @@ D. Rp 350.000
 - **Konsep yang diuji:** Diskon berlapis 30% lalu 10%.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp 295.000** — Salah. Distraktor umpan.
+  - **A. Rp 300.000** — Salah. Kedua diskon dijumlahkan menjadi 40%: 500.000 × 0,60 = 300.000. Padahal diskon kedua dihitung dari harga yang sudah didiskon.
   - **B. Rp 315.000** — Benar. 500.000 × 0,70 × 0,90 = 500.000 × 0,63 = 315.000.
-  - **C. Rp 325.000** — Salah. Distraktor umpan.
-  - **D. Rp 350.000** — Salah. Muncul kalau siswa menjumlahkan diskon: 30% + 10% = 40%. Eh, 500.000 × 0,60 = 300.000 (bukan 350.000); ini distraktor umpan.
+  - **C. Rp 350.000** — Salah. Hanya diskon 30% yang dihitung; diskon member 10% terlupa.
+  - **D. Rp 185.000** — Salah. Itu total potongan (500.000 − 315.000), bukan harga yang dibayar.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Setelah diskon 30%: 500.000 × 0,70 = 350.000.

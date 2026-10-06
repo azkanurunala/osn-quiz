@@ -2644,9 +2644,9 @@ D. 0,60
 - **Konsep yang diuji:** Konversi pecahan ke desimal lalu pembulatan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 0,57** — Salah. Memotong tanpa membulatkan.
-  - **B. 0,58** — Benar. 7/12 = 0,5833…; digit ke-3 = 3, < 5 → 0,58. Tunggu — 0,5833 → digit ke-3 = 3, jadi tidak naik. Pembulatan: 0,58.
-  - **C. 0,59** — Salah. Salah pembulatan ke atas.
+  - **A. 0,57** — Salah. Pengecoh umpan: 7/12 = 0,583…, jadi pembulatan ke bawah pun tetap 0,58, bukan 0,57.
+  - **B. 0,58** — Benar. 7/12 = 0,5833…; digit ke-3 = 3, < 5 → tetap 0,58.
+  - **C. 0,59** — Salah. Dibulatkan ke atas karena desimalnya berulang, padahal yang menentukan hanya digit ke-3 (3 < 5).
   - **D. 0,60** — Salah. Pembulatan ke persepuluhan.
 
 - **Langkah Penyelesaian (cara benar):**
@@ -3959,9 +3959,5 @@ Setelah menguasai MTK-02 (target: benar ≥80 dari 100), siswa disarankan lanjut
 
 **Selamat berlatih, calon juara OSN/KSN!**
 
-
 ---
-
-
-
 

@@ -3,12 +3,12 @@
 - **Bab:** MTK 03 · Geometri Datar & Sudut
 - **Sub-bab:** 03b–03h
 - **Objek (EN):** a wooden geoboard with a 7×7 grid of pegs and colored rubber bands
-- **Soal terkait:** 44 soal di 23 file
+- **Soal terkait:** 43 soal di 23 file
   - `mtk-01f-fpb-sedang` (5)
-  - `mtk-01f-fpb-campur` (4)
   - `mtk-08e-pola-gambar-campur` (4)
   - `ipa-01r-populasi-siklus-materi-campur` (3)
   - `mtk-01e-faktorisasi-prima-sedang` (3)
+  - `mtk-01f-fpb-campur` (3)
   - `mtk-01f-fpb-mudah-sedang` (3)
   - `mtk-05c-konversi-luas-campur` (3)
   - `ipa-06a-metode-ilmiah-sulit` (2)

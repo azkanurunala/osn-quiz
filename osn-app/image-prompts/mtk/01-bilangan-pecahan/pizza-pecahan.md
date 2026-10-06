@@ -3,7 +3,7 @@
 - **Bab:** MTK 01–02 · Bilangan, Pecahan, Desimal, Persen
 - **Sub-bab:** 02a–02d, 02j
 - **Objek (EN):** a round pizza cut into 8 equal slices with one slice pulled slightly away
-- **Soal terkait:** 573 soal di 164 file
+- **Soal terkait:** 574 soal di 164 file
   - `mtk-06c-diskon-campur` (62)
   - `mtk-02k-cerita-persen-campur` (16)
   - `mtk-02j-cerita-pecahan-campur` (14)

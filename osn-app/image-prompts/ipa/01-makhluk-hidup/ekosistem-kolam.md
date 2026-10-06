@@ -3,7 +3,7 @@
 - **Bab:** IPA 01 · Makhluk Hidup & Lingkungan
 - **Sub-bab:** 01j
 - **Objek (EN):** a small freshwater pond ecosystem scene in a clear glass terrarium tank
-- **Soal terkait:** 390 soal di 47 file
+- **Soal terkait:** 389 soal di 47 file
   - `ipa-01j-ekosistem-campur` (70)
   - `ipa-01k-rantai-makanan-campur` (33)
   - `ipa-06b-keanekaragaman-hayati-campur` (22)

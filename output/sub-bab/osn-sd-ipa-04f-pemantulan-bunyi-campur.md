@@ -451,9 +451,12 @@ Tradisi orang gunung memanggil teman dari jauh dengan berteriak ke arah lembah. 
 - **Konsep:** Teriak ke lembah → bunyi sampai ke gunung seberang (>17 m) → pantul → kembali terdengar terpisah dari teriakan asli = gema.
 
 - **Analisis:**
-  - **A benar:** Gema.
+  - **A benar:** Gema — pantulan terdengar terpisah, setelah bunyi asli selesai.
+  - **B salah:** Gaung juga pantulan, tetapi datang hampir bersamaan dengan bunyi asli sehingga bunyi asli terdengar kurang jelas (dinding dekat). Di sini pantulan terdengar terpisah setelah beberapa detik.
+  - **C salah:** Penyerapan membuat bunyi hilang, bukan kembali ke sumbernya.
+  - **D salah:** Pembiasan adalah pembelokan bunyi saat melewati medium berbeda, bukan bunyi yang kembali.
 
-- **💭 Tip:** Eksperimen klasik: cari spot dengan tebing/dinding besar 50-200 m → teriak "halo!" → tunggu pantulnya.
+- **💭 Tip:** Eksperimen klasik: cari tempat dengan tebing/dinding besar 50–200 m → teriak "halo!" → dengarkan pantulannya.
 
 ---
 

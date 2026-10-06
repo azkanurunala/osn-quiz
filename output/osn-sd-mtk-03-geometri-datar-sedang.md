@@ -1323,30 +1323,30 @@ Sebuah bangun terdiri dari persegi 14 cm × 14 cm dan setengah lingkaran berdiam
 
 A. 56 cm
 B. 64 cm
-C. 70 cm
+C. 86 cm
 D. 78 cm
 
-**(3) Jawaban:** **C. 64 cm**
+**(3) Jawaban:** **B. 64 cm**
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Keliling bangun gabungan — 3 sisi persegi (yang tersisa) + busur setengah lingkaran.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 56 cm** — Salah. Ini keliling persegi utuh saja (4 × 14 = 56). Lupa modifikasi karena ada setengah lingkaran.
-  - **B. 64 cm** — Salah. Distraktor umpan. Atau, ini muncul kalau siswa pakai 3 sisi persegi + busur, tapi salah hitung busur = 22 (kira setengah dari 44, tapi 44 sebenarnya busur).
-  - **C. 64 cm** ... mari saya cek lagi: 3 sisi persegi yang tersisa = 3 × 14 = 42. Busur setengah lingkaran (d=14) = ½ × π × d = ½ × 22/7 × 14 = ½ × 44 = 22 cm. Total = 42 + 22 = 64 cm. **C. 64 cm** — Benar. Sisi persegi yang masih jadi keliling: 3 sisi (1 sisi sudah jadi diameter setengah lingkaran, tidak dihitung) = 3 × 14 = 42 cm. Busur setengah lingkaran = ½ × π × d = ½ × 22/7 × 14 = 22 cm. Total = 42 + 22 = 64 cm.
-  - **D. 78 cm** — Salah. Ini muncul kalau siswa tetap hitung 4 sisi persegi (lupa hapus sisi yang jadi diameter setengah lingkaran): 56 + 22 = 78 cm.
+  - **A. 56 cm** — Salah. Ini keliling persegi utuh saja (4 × 14 = 56); busur setengah lingkaran terlupa.
+  - **B. 64 cm** — Benar. 3 sisi persegi = 42 cm. Busur setengah lingkaran = ½ × 22/7 × 14 = 22 cm. Total = 42 + 22 = 64 cm.
+  - **C. 86 cm** — Salah. Keliling lingkaran penuh (44 cm) yang ditambahkan, bukan setengahnya: 42 + 44 = 86.
+  - **D. 78 cm** — Salah. Sisi persegi yang menjadi diameter tetap dihitung: 56 + 22 = 78 cm.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Identifikasi sisi yang masih ada di keliling: 3 sisi persegi (1 sisi "hilang" jadi diameter setengah lingkaran di dalam).
+  1. Identifikasi sisi yang masih ada di keliling: 3 sisi persegi (1 sisi menjadi diameter setengah lingkaran, ada di dalam).
   2. Total 3 sisi persegi = 3 × 14 = 42 cm.
-  3. Busur setengah lingkaran (d=14) = ½ × π × d = ½ × 22/7 × 14 = ½ × 44 = 22 cm.
+  3. Busur setengah lingkaran (d = 14) = ½ × π × d = ½ × 22/7 × 14 = 22 cm.
   4. Keliling total = 42 + 22 = 64 cm.
 
 - **Hasil akhir:** Keliling bangun = **64 cm**.
 
-- **💭 Tips:** Saat 2 bangun bergabung, sisi yang menjadi "garis pertemuan" tidak dihitung sebagai keliling. Pada gabungan persegi + setengah lingkaran (di sisi persegi), 1 sisi persegi hilang dari keliling.
+- **💭 Tips:** Saat 2 bangun bergabung, sisi yang menjadi "garis pertemuan" tidak dihitung sebagai keliling.
 
 ---
 
@@ -3844,7 +3844,7 @@ D. 637 cm²
 | 28 | A | Luas Daerah Diarsir | Sedang |
 | 29 | B | Sudut Segiempat | Sedang |
 | 30 | C | Bangun Gabungan | Sedang |
-| 31 | C | Keliling Bangun Gabungan | Sedang |
+| 31 | B | Keliling Bangun Gabungan | Sedang |
 | 32 | B | Luas Daerah Diarsir | Sedang |
 | 33 | C | Luas Segitiga | Sedang |
 | 34 | C | Keliling Belah Ketupat | Sedang |

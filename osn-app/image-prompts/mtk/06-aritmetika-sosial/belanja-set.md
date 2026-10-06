@@ -3,15 +3,15 @@
 - **Bab:** MTK 06 · Aritmetika Sosial & Skala
 - **Sub-bab:** 06a–06d, 06j
 - **Objek (EN):** everyday Indonesian shopping goods arranged in a tidy row, all unbranded, blank labels
-- **Soal terkait:** 1701 soal di 186 file
+- **Soal terkait:** 1699 soal di 186 file
   - `mtk-06a-untung-rugi-campur` (100)
   - `mtk-06b-persen-untung-rugi-campur` (100)
   - `mtk-06c-diskon-campur` (100)
   - `mtk-06d-diskon-berlapis-campur` (95)
   - `mtk-06f-pajak-campur` (71)
   - `mtk-06-aritmetika-sosial-mudah` (66)
-  - `mtk-06j-cerita-kombinasi-campur` (63)
   - `mtk-06-aritmetika-sosial-mudah-sedang` (62)
+  - `mtk-06j-cerita-kombinasi-campur` (62)
 - **Tampak:** satu gambar berisi beberapa benda (set), lurus, full body
 - **Versi:** A. Realistis (prompt 1) · B. Ilustrasi (prompt 2)
 - **Folder hasil:** `image-results/mtk/06-aritmetika-sosial/belanja-set/`

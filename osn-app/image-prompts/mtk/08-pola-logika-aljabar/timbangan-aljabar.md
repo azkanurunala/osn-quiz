@@ -3,7 +3,7 @@
 - **Bab:** MTK 08 · Pola, Logika & Aljabar
 - **Sub-bab:** 08f, 08g, 08j
 - **Objek (EN):** an equal-arm balance scale in equilibrium with cubes and a mystery bag
-- **Soal terkait:** 465 soal di 85 file
+- **Soal terkait:** 460 soal di 85 file
   - `mtk-08j-cerita-aljabar-campur` (100)
   - `mtk-08-pola-logika-aljabar-mudah-sedang` (35)
   - `mtk-08-pola-logika-aljabar-sulit` (31)

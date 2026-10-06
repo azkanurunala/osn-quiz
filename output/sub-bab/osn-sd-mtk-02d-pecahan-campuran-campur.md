@@ -534,28 +534,25 @@ Contoh: 2¼ ÷ 1½ = 9/4 ÷ 3/2 = 9/4 × 2/3 = 18/12 = 3/2 = **1½**.
   3. Sederhanakan 28/4 = 7.
 
 **24.** Hasil 4½ ÷ 3 adalah …
-- A. 1
-- B. 1½
-- C. 13½
-- D. 1½ menjadi ulang
 
-Mari ulang opsi rapi:
 - A. 1
-- B. 1¼
+- B. 4⅙
 - C. 13½
 - D. 1½
 
 **Kunci: D**
 **Pembahasan:**
-- **A** — 1, terlalu kecil.
-- **B** — 1¼, kira-kira tetapi salah.
-- **C** — 13½ muncul kalau siswa **mengalikan** 4½ × 3 = 27/2 = 13½.
-- **D** — 9/2 ÷ 3 = 9/2 × 1/3 = 9/6 = 3/2 = 1½ ✓.
-- **Konsep kunci:** Pembagian pecahan campuran dengan bilangan bulat.
+- **A** — Salah. Hanya 4 ÷ 3 ≈ 1 yang dihitung; bagian ½ diabaikan.
+- **B** — Salah. Hanya bagian pecahan yang dibagi: 4 + (½ ÷ 3) = 4⅙; bilangan bulatnya tidak ikut dibagi.
+- **C** — Salah. Dikalikan, bukan dibagi: 4½ × 3 = 13½.
+- **D** — Benar. 9/2 ÷ 3 = 9/2 × 1/3 = 9/6 = 3/2 = 1½.
+- **Konsep kunci:** Pembagian pecahan campuran dengan bilangan bulat: ubah ke pecahan biasa, lalu kalikan dengan kebalikan pembagi.
 - **Langkah Penyelesaian:**
   1. Ubah 4½ ke biasa = 9/2.
   2. Kalikan dengan kebalikan 3, yaitu 1/3: 9/2 × 1/3 = 9/6.
   3. Sederhanakan 9/6 = 3/2 = 1½.
+
+---
 
 **25.** 2¾ + 3¼ = …
 - A. 5

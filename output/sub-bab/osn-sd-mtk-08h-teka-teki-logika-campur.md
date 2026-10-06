@@ -758,7 +758,8 @@ Yuk mulai latihan 100 soal!
 
 ---
 
-**42.** Tiga anak (Ali, Beni, Cici) berlomba sepatu. Ali pakai sepatu merah. Beni tidak pakai biru. Cici tidak pakai merah. Warna sepatu Beni?
+**42.** Tiga anak (Ali, Beni, Cici) memakai sepatu berwarna merah, biru, dan hijau; masing-masing satu warna berbeda. Ali pakai sepatu merah. Beni tidak pakai biru. Cici tidak pakai merah. Warna sepatu Beni?
+
 - A. Hijau
 - B. Biru
 - C. Merah
@@ -767,13 +768,10 @@ Yuk mulai latihan 100 soal!
 **Kunci: A**
 
 **Pembahasan:**
-
-Tunggu — klu cuma menyebut 3 warna (merah, biru, hijau dengan asumsi)? Mari lihat ulang. Ali merah. Beni bukan biru. Cici bukan merah. Maka Cici = biru (karena Ali sudah merah). Sisa Beni = hijau.
-
-- **A** — **BENAR.** Ali = merah. Cici bukan merah → Cici = biru atau hijau. Beni bukan biru → Beni = merah atau hijau. Ali sudah merah, jadi Beni = hijau. Cici = biru.
-- **B** — Biru. Beni eksplisit BUKAN biru.
-- **C** — Merah. Itu Ali, bukan Beni.
-- **D** — Tidak bisa ditentukan. Bisa, dengan eliminasi.
+- **A** — **BENAR.** Ali = merah. Beni bukan biru dan bukan merah (sudah dipakai Ali) → Beni = hijau. Sisa Cici = biru.
+- **B** — Petunjuk "Beni tidak pakai biru" terlewat.
+- **C** — Merah sudah dipakai Ali; tiap warna hanya dipakai satu anak.
+- **D** — Mengira petunjuknya kurang, padahal eliminasi sudah cukup.
 
 ---
 
@@ -842,18 +840,6 @@ Tunggu — klu cuma menyebut 3 warna (merah, biru, hijau dengan asumsi)? Mari li
 ---
 
 **47.** Tiga anak dari satu keluarga: Adi sulung, Beni bungsu, Cici di tengah. Cici lahir tahun 2014. Adi lahir 2 tahun sebelum Cici. Tahun lahir Adi?
-- A. 2016
-- B. 2012
-- C. 2014
-- D. 2010
-
-**Kunci: D**
-
-Tunggu, kunci direncana D. Adi sebelum Cici 2 tahun = 2014 − 2 = 2012. Itu opsi B, bukan D.
-
-Mari ubah agar kunci D benar. Ubah soal: "Adi lahir 4 tahun sebelum Cici."
-
-Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 
 - A. 2016
 - B. 2013
@@ -863,9 +849,9 @@ Atau: ubah opsi D menjadi 2012. Saya pilih ubah opsi:
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — 2016. Salah arah (setelah Cici, bukan sebelum).
-- **B** — 2013. Hanya kurang 1 tahun.
-- **C** — 2014. Sama dengan Cici (lupa kurang).
+- **A** — Salah arah: 2 tahun ditambahkan (setelah Cici), padahal Adi lahir sebelum Cici.
+- **B** — Menghitung "2 tahun" dengan ikut menghitung tahun 2014 (2014, 2013), sehingga hanya mundur 1 tahun.
+- **C** — Sama dengan tahun lahir Cici; selisih 2 tahun tidak dipakai.
 - **D** — **BENAR.** Adi lahir 2 tahun sebelum Cici = 2014 − 2 = 2012.
 
 ---
@@ -1444,9 +1430,10 @@ Susun posisi 1–5 dari kiri: Ari = posisi 1 (paling kiri). Bayu = posisi 5 (pal
 ---
 
 **83.** Dalam suatu lomba, ada 4 pesaing (P, Q, R, S). Pernyataan:
+
 - P: "Saya juara 1."
 - Q: "P bohong."
-- R: "Q juara 1."
+- R: "P juara 1."
 - S: "Saya bukan juara 1."
 
 Hanya 1 yang berbohong. Siapa juara 1?
@@ -1458,23 +1445,13 @@ Hanya 1 yang berbohong. Siapa juara 1?
 **Kunci: A**
 
 **Pembahasan:**
-
-Asumsi P jujur: P juara 1. Q bohong (karena bilang P bohong). R: Q juara 1 — Q bukan juara 1, jadi R bohong. Dua orang bohong (Q dan R), kontradiksi dengan "hanya 1 bohong".
-
-Asumsi P bohong: P bukan juara 1. Q jujur (P bohong). R: Q juara 1; jika Q juara 1, R jujur. S: bukan juara 1; jika Q juara 1, S jujur. Total bohong = 1 (P). Konsisten. Maka Q juara 1.
-
-Tunggu, Q juara 1, bukan P. Maka kunci C (Q).
-
-Saya ubah soal agar P juara 1. Ubah pernyataan R: "P juara 1."
-
-Asumsi P jujur: P juara 1. Q (P bohong) → Q bohong. R (P juara 1) → R jujur. S (bukan juara 1) → S jujur. Bohong = 1 (Q). Konsisten. Maka P juara 1.
-
-OK ubah pernyataan R menjadi "P juara 1."
-
-- **A** — **BENAR.** P juara 1. Q bohong (satu-satunya pembohong).
-- **B** — R. R jujur, bukan juara 1.
-- **C** — Q. Q bohong, jadi tidak juara 1.
-- **D** — S. S jujur menyatakan dirinya bukan juara 1.
+Pernyataan P dan Q saling bertentangan, jadi pembohong tunggalnya P atau Q.
+- Jika P bohong: P bukan juara 1, maka R ("P juara 1") juga bohong → dua pembohong. Tidak mungkin.
+- Jika Q bohong: P, R, S jujur → P juara 1. Cocok.
+- **A** — **BENAR.** P juara 1; Q satu-satunya pembohong.
+- **B** — R jujur, tetapi pernyataannya justru menunjuk P sebagai juara.
+- **C** — Mengira orang yang menuduh "P bohong" pasti benar; jika Q jujur, P dan R sama-sama bohong.
+- **D** — S jujur menyatakan dirinya bukan juara 1.
 
 ---
 

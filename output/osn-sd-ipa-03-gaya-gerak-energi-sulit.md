@@ -2305,28 +2305,26 @@ B. selatan
 C. tidak tetap, kadang U kadang S
 D. tetap netral
 
-**(3) Jawaban:** **A. utara**
+**(3) Jawaban:** **B. selatan**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** kutub akhir gosokan = kutub yang berlawanan dengan kutub magnet penggosok? **Salah** — pada metode gosokan satu arah, ujung paku yang disentuh **terakhir** oleh kutub magnet penggosok memiliki kutub **berlawanan** dari kutub penggosok. Penjelasan lengkap di langkah.
+- **Konsep yang diuji:** Membuat magnet dengan cara menggosok satu arah; kutub di ujung akhir gosokan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. utara** — BENAR mengikuti konvensi standar SD: ujung paku yang menjadi tempat kutub penggosok "meninggalkan" akan terbentuk kutub yang berlawanan dengan kutub penggosok. Tetapi ada konvensi lain. (Penjelasan lengkap di tips.)
-  - **B. selatan** — alternatif.
-  - **C. tidak tetap** — SALAH (paku besi murni sementara, tapi sifatnya jelas).
-  - **D. netral** — SALAH.
+  - **A. utara** — Salah. Mengira ujung paku ikut berkutub sama dengan kutub penggosok, padahal ujung akhir gosokan berkutub berlawanan.
+  - **B. selatan** — Benar. Pada gosokan satu arah, ujung paku yang terakhir disentuh penggosok menjadi kutub yang berlawanan dengan kutub penggosok. Penggosok = U → ujung runcing (ujung akhir) = S, ujung kepala = U.
+  - **C. tidak tetap** — Salah. Gosokan satu arah menyearahkan magnet-magnet kecil (domain) di dalam paku, sehingga kutubnya jelas dan tetap selama paku masih bersifat magnet.
+  - **D. netral** — Salah. Mengira paku besi tidak bisa menjadi magnet; besi termasuk bahan magnetik dan bisa dijadikan magnet.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Aturan umum yang dipakai di buku SD Indonesia: kutub yang **terbentuk di ujung akhir gosokan** = berlawanan dengan kutub magnet penggosok. Penggosok = U → ujung akhir = S; ujung awal = U.
-  2. Pada soal ini, ujung runcing = ujung akhir → menjadi S.
-  3. **Koreksi: jawaban yang benar adalah B (selatan).** (Konvensi standar SD Indonesia.)
+  1. Aturan: kutub di ujung akhir gosokan = berlawanan dengan kutub penggosok.
+  2. Penggosok kutub U, gosokan berakhir di ujung runcing.
+  3. Ujung runcing = S.
 
-- **Hasil akhir:** B (revisi).
+- **Hasil akhir:** B. selatan.
 
-- **Tips:** Sebagai aturan praktis: bayangkan kutub U penggosok "menyeret" domain magnetik searah; ketika magnet diangkat dari ujung akhir, domain tertinggal dengan kutub S menghadap ke ujung akhir (karena U penggosok baru saja melepaskan). Selalu cek konvensi buku.
-
-> **Catatan revisi:** jawaban yang konsisten dengan konvensi gosokan satu arah pada SD = **B. selatan**.
+- **Tips:** Bayangkan kutub U penggosok "menarik" kutub S magnet-magnet kecil di dalam paku sepanjang gosokan; ketika penggosok diangkat di ujung runcing, kutub S tertinggal di sana.
 
 ---
 

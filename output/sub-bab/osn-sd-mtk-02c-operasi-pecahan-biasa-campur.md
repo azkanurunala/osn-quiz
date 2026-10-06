@@ -1315,26 +1315,21 @@ Soal cerita 2–3 langkah dan operasi yang melibatkan pecahan campuran.
 ---
 
 **67.** Ayah membeli 5/6 kg gula. Sebanyak 1/3 kg digunakan untuk membuat kue, dan 1/6 kg digunakan untuk teh manis. Berapa kg gula yang tersisa?
+
 - A. 1/2 kg
 - B. 1/3 kg
-- C. 3/6 kg
-- D. 5/6 − 2/6 = 3/6 = 1/2 kg
-**Kunci: A**
-**Pembahasan:**
-- **A** — Benar. Pakai total = 1/3 + 1/6 = 2/6 + 1/6 = 3/6. Sisa = 5/6 − 3/6 = 2/6 = 1/3 kg ... Mari cek lagi: 5/6 − 3/6 = 2/6 = 1/3. Hmm, jawaban 1/3. Maaf, mari saya hitung ulang: terpakai 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 kg. Sisa = 5/6 − 1/2 = 5/6 − 3/6 = 2/6 = 1/3 kg. Jadi kunci yang benar adalah B (1/3 kg).
-
-**Koreksi: Kunci sebenarnya = B**
-- **A** — Salah. 5/6 − 3/6 = 2/6 yang disederhanakan jadi 1/3, bukan 1/2. Lupa menyederhanakan dengan benar atau salah hitung 2/6.
-- **B** — Benar. Total terpakai = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 kg. Sisa = 5/6 − 1/2 = 5/6 − 3/6 = 2/6 = 1/3 kg.
-- **C** — Salah. Bentuk mentah sebelum disederhanakan dari hitung asal. 3/6 adalah jumlah terpakai, bukan sisa.
-- **D** — Salah. Menampilkan jumlah terpakai (3/6 = 1/2), bukan sisa.
-
+- C. 2/3 kg
+- D. 11/18 kg
 **Kunci: B**
-
+**Pembahasan:**
+- **A** — Salah. 1/2 kg adalah jumlah gula yang terpakai (1/3 + 1/6), bukan sisanya.
+- **B** — Benar. Total terpakai = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 kg. Sisa = 5/6 − 3/6 = 2/6 = 1/3 kg.
+- **C** — Salah. Hanya gula untuk teh yang dikurangkan: 5/6 − 1/6 = 4/6 = 2/3; gula untuk kue terlupa.
+- **D** — Salah. 1/3 + 1/6 dijumlahkan dengan cara pembilang + pembilang dan penyebut + penyebut (= 2/9), lalu 5/6 − 2/9 = 11/18.
 - **Konsep kunci:** Soal 'sisa setelah dipakai untuk beberapa keperluan' — jumlahkan dulu semua yang terpakai, baru kurangkan dari total.
 - **Langkah Penyelesaian:**
   1. Total terpakai = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2.
-  2. Sisa = 5/6 − 1/2 = 5/6 − 3/6 = 2/6 = 1/3 kg (mengikuti kunci final: B).
+  2. Sisa = 5/6 − 3/6 = 2/6 = 1/3 kg.
 ---
 
 **68.** 9/10 × 2/3 ÷ 1/5 = ...
@@ -1822,26 +1817,22 @@ Multi-step kompleks, sintesis operasi pecahan + soal cerita non-rutin.
 ---
 
 **94.** Sebuah tugas selesai 1/2 oleh Adi dalam 3 hari. Sisanya dikerjakan oleh Adi & Budi bersama, selesai dalam 1 hari. Berapa hari Budi sendirian akan menyelesaikan tugas itu?
+
 - A. 1 hari
-- B. 1 1/2 hari
+- B. 3 hari
 - C. 6 hari
-- D. 4 hari
+- D. 1 1/2 hari
 **Kunci: B**
 **Pembahasan:**
-- **A** — Salah. Karena Adi & Budi bersama menyelesaikan setengah dalam 1 hari, dianggap Budi sendirian = 1 hari. Lupa peran Adi.
-- **B** — Benar. Adi mengerjakan 1/2 dalam 3 hari → kecepatan Adi = 1/6 tugas/hari. Adi+Budi mengerjakan 1/2 dalam 1 hari → kecepatan bersama = 1/2 tugas/hari. Maka kecepatan Budi = 1/2 − 1/6 = 3/6 − 1/6 = 2/6 = 1/3 tugas/hari. Waktu Budi sendirian = 1 ÷ 1/3 = 3 hari. Hmm. Mari saya periksa lagi: Adi+Budi bersama menyelesaikan SISA (1/2) dalam 1 hari, jadi kecepatan bersama = 1/2 tugas/hari. Kecepatan Adi = 1/2 ÷ 3 = 1/6 tugas/hari. Kecepatan Budi = 1/2 − 1/6 = 1/3 tugas/hari. Waktu Budi sendirian untuk SELURUH tugas = 1 ÷ 1/3 = 3 hari. Jadi B = 3 hari? Tapi opsi B = 1½. **Koreksi: Kunci yang benar = "3 hari", tetapi opsi tidak ada 3 hari. Mari kita asumsikan opsi B = 3 hari (typo) → Kunci: B.**
-- **C** — Salah. Total kecepatan dianggap dijumlahkan langsung (3+1=4 atau 6 asal).
-- **D** — Salah. Kecepatan Budi dihitung 1/4 (asal jadi 4 hari). Lupa rumus kerja bersama.
-
-**(Catatan editor: Soal & opsi sebaiknya disempurnakan. Kunci konseptual = 3 hari. Jika opsi B = 3 hari, maka kunci: B.)**
-
-**Kunci: B** (diasumsikan opsi B = 3 hari)
-
+- **A** — Salah. Karena berdua menyelesaikan setengah tugas dalam 1 hari, dianggap Budi sendirian juga 1 hari; peran Adi terlupa.
+- **B** — Benar. Kecepatan Adi = 1/2 ÷ 3 = 1/6 tugas/hari. Kecepatan bersama = 1/2 tugas/hari. Kecepatan Budi = 1/2 − 1/6 = 1/3 tugas/hari. Waktu Budi untuk seluruh tugas = 1 ÷ 1/3 = 3 hari.
+- **C** — Salah. 6 hari adalah waktu Adi sendirian untuk seluruh tugas, bukan Budi.
+- **D** — Salah. 1½ hari adalah waktu Budi untuk SETENGAH tugas; yang ditanya seluruh tugas.
 - **Konsep kunci:** Kecepatan orang kedua dicari dengan mengurangkan kecepatan yang sudah diketahui dari kecepatan gabungan, lalu waktu = 1 dibagi kecepatan itu.
 - **Langkah Penyelesaian:**
   1. Kecepatan Adi = 1/2 ÷ 3 = 1/6 tugas/hari; kecepatan gabungan (menyelesaikan sisa 1/2 dalam 1 hari) = 1/2 tugas/hari.
   2. Kecepatan Budi = 1/2 − 1/6 = 1/3 tugas/hari.
-  3. Waktu Budi sendirian = 1 ÷ 1/3 = 3 hari (kunci final mengikuti opsi B pada soal ini).
+  3. Waktu Budi sendirian = 1 ÷ 1/3 = 3 hari.
 ---
 
 **95.** Hasil dari (3/4 − 1/8) × (2 + 1/3) ÷ 7/8 = ...

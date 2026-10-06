@@ -1589,7 +1589,7 @@ D. 1/6
   - **A. 6/10** - Belum sederhana. 6/10 = 3/5.
   - **B. 3/5** - Benar. 0,6 = 6/10 = 3/5.
   - **C. 60/100** - Belum sederhana. 60/100 = 3/5.
-  - **D. 1/6** - Salah. 1/6 = 0,166..., bukan 0,6.
+  - **D. 1/6** - Salah. Angka 6 pada 0,6 dijadikan penyebut; padahal 1/6 = 0,166..., bukan 0,6.
 
 - **Langkah Penyelesaian (cara benar):**
   1. 0,6 = 6/10.
@@ -1598,7 +1598,7 @@ D. 1/6
 
 - **Hasil akhir:** 3/5
 
-- **Tips:** Soal yang minta bentuk paling sederhana - cek ulang pilihan, ada yang belum sederhana.
+- **Tips:** Soal yang minta bentuk paling sederhana - periksa setiap pilihan, ada yang nilainya sama tetapi belum sederhana.
 
 ---
 

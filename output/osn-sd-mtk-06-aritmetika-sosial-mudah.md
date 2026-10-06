@@ -736,8 +736,8 @@ Sebuah jam tangan berharga Rp400.000 diberi diskon 30%. Berapa besar potongan ha
 
 A. Rp30.000
 B. Rp120.000
-C. Rp130.000
-D. Rp140.000
+C. Rp280.000
+D. Rp370.000
 
 **(3) Jawaban:** **B. Rp120.000**
 
@@ -746,10 +746,10 @@ D. Rp140.000
 - **Konsep yang diuji:** Besar diskon = persen × harga.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Rp30.000** — Salah. Muncul kalau siswa mengira 30% = Rp30.000 (persen disamakan dengan ribu rupiah).
+  - **A. Rp30.000** — Salah. 30% disamakan dengan Rp30.000 (angka persen dibaca sebagai ribuan rupiah).
   - **B. Rp120.000** — Benar. 30% × 400.000 = 0,3 × 400.000 = 120.000.
-  - **C. Rp130.000** — Salah. Muncul kalau siswa salah hitung 30 × 4 = 13 (typo).
-  - **D. Rp140.000** — Salah. Muncul kalau siswa salah hitung 30% × 400.000 = 140.000.
+  - **C. Rp280.000** — Salah. Itu harga setelah diskon (400.000 − 120.000); yang ditanya besar potongannya.
+  - **D. Rp370.000** — Salah. 30% dianggap Rp30.000, lalu dikurangkan dari harga (400.000 − 30.000).
 
 - **Langkah Penyelesaian (cara benar):**
   1. Diskon = 30% × 400.000 = 3/10 × 400.000.

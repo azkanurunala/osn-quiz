@@ -1047,10 +1047,10 @@ D. Merunduk
 
 - **Tips:** Beda kunci antara metode vegetatif buatan:
   - **Stek**: potong → tancap.
-  - **Cangkok**: sayat → bungkus tanah → tunggu akar → potong → tanam.
+  - **Cangkok**: sayat → bungkus tanah → biarkan berakar → potong → tanam.
   - **Okulasi**: ambil mata tunas → tempel di batang lain.
   - **Sambung**: ambil pucuk → sambungkan di batang lain.
-  - **Merunduk**: tarik cabang ke tanah → benamkan → tunggu akar.
+  - **Merunduk**: tarik cabang ke tanah → benamkan → biarkan berakar.
 
 ---
 
@@ -4123,7 +4123,4 @@ Selamat berlatih! Ingat: **Konsistensi mengalahkan intensitas**. Lebih baik 1 ja
 ---
 
 > **Penutup Bab IPA-01.** Bab Makhluk Hidup & Lingkungan adalah fondasi seluruh biologi tingkat SD. Pahami sebagai **jaringan konsep yang saling terhubung** — bukan daftar terpisah. Klasifikasi membantumu mengenali siapa; adaptasi menjelaskan bagaimana mereka bertahan; ekosistem menggambarkan tempat hidup; rantai makanan menunjukkan bagaimana energi mengalir; simbiosis menjelaskan hubungan antar makhluk; daur hidup dan reproduksi mengungkap kelangsungan generasi; struktur tumbuhan mengaitkan bentuk dengan fungsi; pelestarian menjadi tanggung jawab kita semua. Semoga 100 soal ini membantumu naik kelas dari sekadar **mengenal** menjadi **menganalisis & mengaplikasikan**. Selamat menuju Provinsi & Nasional!
-
-
-
 

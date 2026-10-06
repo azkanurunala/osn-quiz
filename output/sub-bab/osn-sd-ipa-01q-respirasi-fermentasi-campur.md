@@ -2879,7 +2879,7 @@ D. Tidak tepat — gelembung berupa air
 **(3) Jawaban:** **A. Tidak tepat — gelembung roti CO₂ hasil fermentasi, bukan oksigen**
 
 **(4) Pembahasan Komprehensif:**
-- **Konsep yang diuji:** Koreksi jenis gas roti.
+- **Konsep yang diuji:** Mengenali jenis gas pada roti.
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Tidak tepat — gelembung roti CO₂ hasil fermentasi, bukan oksigen** — Benar. Ragi MENGHASILKAN CO₂, bukan O₂.
   - **B. Tepat — ragi membuat oksigen** — Salah. Terbalik.

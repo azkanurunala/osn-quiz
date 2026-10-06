@@ -2442,7 +2442,7 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 | 51–60 | 61–70 | 71–80 | 81–90 | 91–100 |
 |-------|-------|-------|-------|--------|
 | 51. C | 61. C | 71. C | 81. C | 91. C  |
-| 52. D | 62. C | 72. C | 82. C | 92. A  |
+| 52. D | 62. C | 72. C | 82. C | 92. C  |
 | 53. C | 63. D | 73. C | 83. C | 93. C  |
 | 54. C | 64. C | 74. C | 84. C | 94. C  |
 | 55. C | 65. C | 75. C | 85. C | 95. C  |
@@ -2450,7 +2450,7 @@ Bagian ini berisi bangun gabungan kompleks (3–4 bangun), analisis multi-langka
 | 57. C | 67. C | 77. D | 87. C | 97. C  |
 | 58. C | 68. C | 78. C | 88. C | 98. C  |
 | 59. C | 69. A | 79. D | 89. C | 99. C  |
-| 60. C | 70. C | 80. C | 90. C | 100. C |
+| 60. C | 70. C | 80. C | 90. C | 100. D |
 
 ## Distribusi Kunci (rekap final)
 

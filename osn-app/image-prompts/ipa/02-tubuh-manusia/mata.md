@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02e, 04c
 - **Objek (EN):** a human eyeball anatomical model with extrinsic muscles
-- **Soal terkait:** 605 soal di 122 file
+- **Soal terkait:** 606 soal di 123 file
   - `ipa-04c-lensa-pembiasan-campur` (38)
   - `ipa-02e-saraf-indera-campur` (37)
   - `ipa-04a-sifat-cahaya-campur` (34)

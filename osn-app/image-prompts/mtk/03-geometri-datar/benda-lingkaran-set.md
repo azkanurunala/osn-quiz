@@ -3,9 +3,9 @@
 - **Bab:** MTK 03 · Geometri Datar & Sudut
 - **Sub-bab:** 03e, 03i
 - **Objek (EN):** everyday circular objects arranged in a tidy row, unbranded
-- **Soal terkait:** 1028 soal di 116 file
+- **Soal terkait:** 1023 soal di 116 file
   - `mtk-03e-keliling-lingkaran-campur` (93)
-  - `mtk-04f-volume-kerucut-bola-campur` (88)
+  - `mtk-04f-volume-kerucut-bola-campur` (84)
   - `ipa-03g-roda-berporos-campur` (80)
   - `mtk-04j-lp-tabung-campur` (59)
   - `mtk-04e-volume-tabung-campur` (53)

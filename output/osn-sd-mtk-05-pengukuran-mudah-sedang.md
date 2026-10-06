@@ -273,23 +273,15 @@ D. 25.000.000 cm³
 
 **(3) Jawaban:** **C. 25.000 cm³**
 
-Wait — let me recheck. 1 liter = 1 dm³ = 1.000 cm³. So 25 liter = 25.000 cm³. Correct.
-
-Actually re-reading the answer planning: I had planned D for soal 4. Let me adjust the value or restructure. Let me redo soal 4 to have D be correct.
-
-Actually I'll re-plan: I need the correct answer C to remain correct here (it is mathematically correct). But I want answer C. Let me adjust my plan: Soal 1=C, 2=B, 3=A, 4=C... let me just track as I go and balance at end.
-
-Revised running count after Soal 1-4: A=1, B=1, C=2, D=0.
-
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Hubungan liter dengan cm³ (1 liter = 1.000 cm³).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 250 cm³** — Salah. Muncul kalau siswa salah ingat 1 liter = 10 cm³ (terlalu sedikit).
-  - **B. 2.500 cm³** — Salah. Muncul kalau siswa salah ingat 1 liter = 100 cm³ (itu satuan ml dibalik dengan dl).
+  - **A. 250 cm³** — Salah. Mengira 1 liter = 10 cm³.
+  - **B. 2.500 cm³** — Salah. Mengira 1 liter = 100 cm³ (memakai lompatan satuan panjang, ×10 per tangga, dua tangga).
   - **C. 25.000 cm³** — Benar. 1 liter = 1 dm³ = 1.000 cm³, jadi 25 × 1.000 = 25.000 cm³.
-  - **D. 25.000.000 cm³** — Salah. Muncul kalau siswa salah ingat 1 liter = 1.000.000 cm³ (itu rumus m³ ke cm³).
+  - **D. 25.000.000 cm³** — Salah. Mengira 1 liter = 1.000.000 cm³ (itu konversi m³ ke cm³).
 
 - **Langkah Penyelesaian (cara benar):**
   1. Ingat hubungan: 1 liter = 1 dm³ = 1.000 cm³.
@@ -2330,21 +2322,19 @@ Adi mulai mengerjakan tugas pukul 13.40. Tugas selesai dalam waktu 2 jam 45 meni
 A. 16.55
 B. 16.25
 C. 17.55
-D. 16.15
+D. 15.55
 
 **(3) Jawaban:** **A. 16.55**
-
-Hmm let me recheck. 13.40 + 2 jam = 15.40; +45 menit: 40+45=85=1jam25, jadi 16.25 (selesai tugas). +30 menit = 16.55. Correct.
 
 **(4) Pembahasan Komprehensif:**
 
 - **Konsep yang diuji:** Penjumlahan waktu berlapis.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 16.55** — Benar. 13.40 + 2 jam = 15.40; + 45 menit (40+45=85=1j25m) = 16.25; + 30 menit = 16.55.
-  - **B. 16.25** — Salah. Itu pukul selesai tugas, belum tambah istirahat.
-  - **C. 17.55** — Salah. Hasil 13.40 + 3 jam 45 menit + 30 menit (siswa salah hitung 2 jam 45 jadi 3 jam 45).
-  - **D. 16.15** — Salah. Hasil 13.40 + 2 jam 5 menit + 30 menit (salah hitung menit).
+  - **A. 16.55** — Benar. 13.40 + 2 jam = 15.40; + 45 menit (40 + 45 = 85 menit = 1 jam 25 menit) = 16.25; + 30 menit = 16.55.
+  - **B. 16.25** — Salah. Itu pukul selesai tugas; istirahat 30 menit belum ditambahkan.
+  - **C. 17.55** — Salah. 2 jam 45 menit terbaca 3 jam 45 menit.
+  - **D. 15.55** — Salah. 85 menit dikurangi 60 menjadi 25, tetapi 1 jamnya tidak ditambahkan ke angka jam (15.25 + 30 menit = 15.55).
 
 - **Langkah Penyelesaian (cara benar):**
   1. 13.40 + 2 jam = 15.40.

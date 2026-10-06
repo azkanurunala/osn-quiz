@@ -3,7 +3,7 @@
 - **Bab:** MTK 05 · Pengukuran (Panjang, Berat, Volume, Waktu, Kecepatan, Debit)
 - **Sub-bab:** 05e, 05f
 - **Objek (EN):** time-keeping objects arranged in a tidy row, unbranded
-- **Soal terkait:** 1529 soal di 180 file
+- **Soal terkait:** 1528 soal di 180 file
   - `mtk-05j-konversi-debit-campur` (99)
   - `mtk-05f-operasi-waktu-campur` (98)
   - `mtk-05i-debit-campur` (98)

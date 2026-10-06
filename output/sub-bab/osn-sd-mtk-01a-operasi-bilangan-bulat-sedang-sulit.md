@@ -392,7 +392,7 @@ Bagian ini berisi soal cerita 2 langkah dan kombinasi operasi yang lebih komplek
 **Pembahasan:**
 - **A benar** — Benar: 12 × 3 = 36. Salah: 5 × (−1) = −5. Kosong: 3 × 0 = 0. Total 36 + (−5) = 31.
 - **B salah** — Berhenti di skor benar 36, lupa mengurangkan penalti salah.
-- **C salah** — Menganggap soal kosong juga dihitung salah (−1): 36 − 5 − 3 = 28.
+- **C salah** — Mengira soal kosong juga diberi −1: 36 − 5 − 3 = 28.
 - **D salah** — Salah poin benar: 12 × 5 = 60 (mengira poin benar 5).
 - **Konsep kunci:** Kalikan banyak kejadian dengan poin masing-masing, jumlahkan sebagai bilangan bertanda.
 - **Langkah Penyelesaian:**

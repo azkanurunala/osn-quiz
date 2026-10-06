@@ -333,10 +333,10 @@ Perhatikan rantai makanan: tanaman padi → tikus → ular sawah → elang → p
 
 A. Produsen
 B. Konsumen tingkat II
-C. Konsumen tingkat III
-D. Konsumen puncak (tingkat IV)
+C. Konsumen tingkat III sekaligus konsumen puncak
+D. Konsumen tingkat IV
 
-**(3) Jawaban:** **D. Konsumen puncak (tingkat IV)**
+**(3) Jawaban:** **C. Konsumen tingkat III sekaligus konsumen puncak**
 
 **(4) Pembahasan Komprehensif:**
 
@@ -345,21 +345,17 @@ D. Konsumen puncak (tingkat IV)
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Produsen** — Salah. Produsen adalah organisme yang membuat makanan sendiri (autotrof), yaitu tumbuhan hijau. Elang adalah karnivora — konsumen.
   - **B. Konsumen tingkat II** — Salah. Konsumen tingkat II memakan konsumen tingkat I (herbivora). Dalam rantai ini, konsumen tingkat II adalah ular (memakan tikus).
-  - **C. Konsumen tingkat III** — Salah. Konsumen tingkat III adalah pemakan konsumen tingkat II. Dalam soal, yang memakan ular adalah elang, jadi elang seharusnya tingkat IV.
-  - **D. Konsumen puncak (tingkat IV)** — Benar. Hitung urutan: padi (produsen) → tikus (K-I) → ular (K-II) → elang (K-III? Tunggu, hitung ulang).
-
-  *Klarifikasi penghitungan:* Padi = produsen. Tikus = konsumen tingkat I (memakan produsen). Ular = konsumen tingkat II (memakan K-I). **Elang = konsumen tingkat III** (memakan K-II). Karena tidak ada predator alami di atas elang dalam rantai ini, elang juga berperan sebagai **konsumen puncak**. Opsi D yang menyebut "konsumen puncak" lebih tepat secara fungsi ekologis dibandingkan label angka. Pilih D karena konsumen puncak = top predator dalam rantai tersebut.
-
-  *Catatan:* Penomoran "tingkat IV" pada opsi D adalah label penomoran yang merujuk peran puncak, bukan urutan hitungan numerik dari produsen. Yang ditanyakan adalah **peran**, dan elang adalah top predator (puncak).
+  - **C. Konsumen tingkat III sekaligus konsumen puncak** — Benar. Padi = produsen, tikus = konsumen I, ular = konsumen II, elang = konsumen III. Tidak ada yang memangsa elang dalam rantai ini, jadi elang juga konsumen puncak.
+  - **D. Konsumen tingkat IV** — Salah. Padi ikut dihitung sebagai tingkat pertama konsumen, padahal padi adalah produsen.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Tentukan posisi elang: pemakan ular = jenjang teratas dalam rantai ini.
-  2. Tidak ada predator alami untuk elang di rantai → top predator.
-  3. Peran ekologis: konsumen puncak.
+  1. Padi = produsen.
+  2. Tikus = konsumen I, ular = konsumen II, elang = konsumen III.
+  3. Elang tidak dimangsa organisme lain di rantai ini → konsumen puncak.
 
-- **Hasil akhir:** Elang = **konsumen puncak**.
+- **Hasil akhir:** Elang = **konsumen tingkat III sekaligus konsumen puncak**.
 
-- **💭 Tips:** "Konsumen puncak" = top predator yang tidak dimangsa oleh organisme lain dalam rantai. Selalu cek ujung rantai tepat sebelum pengurai — itu posisi puncak. Pengurai (bakteri, jamur) bukan konsumen puncak; pengurai berperan menguraikan zat organik.
+- **💭 Tips:** Mulai menghitung tingkat konsumen dari pemakan produsen (konsumen I). Pengurai (bakteri, jamur) bukan konsumen puncak; pengurai berperan menguraikan zat organik.
 
 ---
 
@@ -3837,7 +3833,7 @@ Bagian ini merangkum 100 soal yang telah dikerjakan: kunci jawaban, sub-topik, d
 | 6  | B | IPA-01 | Struktur tumbuhan | Provinsi |
 | 7  | B | IPA-01 | Reproduksi tumbuhan | Nasional |
 | 8  | C | IPA-01 | Pelestarian | Nasional |
-| 9  | D | IPA-01 | Rantai makanan | Nasional |
+| 9  | C | IPA-01 | Rantai makanan | Nasional |
 | 10 | B | IPA-01 | Adaptasi tumbuhan | Nasional |
 | 11 | B | IPA-01 | Klasifikasi tumbuhan | Provinsi |
 | 12 | A | IPA-01 | Ekosistem | Provinsi |

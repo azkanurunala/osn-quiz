@@ -1099,11 +1099,11 @@ D. Merunduk
 - **Konsep yang diuji:** Definisi cangkok.
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Stek** — Stek = potong langsung & tanam, bukan dengan bungkus tanah.
-  - **B. Cangkok** — Benar; kupas kulit kambium → bungkus tanah → tunggu sampai berakar → potong & tanam.
+  - **B. Cangkok** — Benar; kupas kulit kambium → bungkus tanah → dibiarkan sampai berakar → potong & tanam.
   - **C. Okulasi** — Okulasi = tempel mata tunas pohon unggul ke batang lain.
   - **D. Merunduk** — Merunduk = cabang dirundukkan, ditimbun tanah; bukan dikupas.
 - **Langkah Penyelesaian:**
-  1. Definisi cangkok = kupas + bungkus + tunggu akar.
+  1. Definisi cangkok = kupas + bungkus + biarkan sampai berakar.
 - **Hasil akhir:** Cangkok.
 - **💭 Tips:** Cangkok hanya untuk pohon BERKAYU (punya kambium).
 
@@ -1183,7 +1183,7 @@ D. Okulasi
 
 - **Konsep yang diuji:** Merunduk.
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Merunduk** — Benar; cabang fleksibel ditekuk ke tanah, ditimbun, tunggu akar tumbuh, lalu pisahkan.
+  - **A. Merunduk** — Benar; cabang fleksibel ditekuk ke tanah, ditimbun, dibiarkan sampai berakar, lalu dipisahkan.
   - **B. Stek** — Stek memotong langsung; merunduk tidak memotong dari induk.
   - **C. Cangkok** — Cangkok di udara dengan bungkus tanah, tidak ditarik ke tanah.
   - **D. Okulasi** — Tempel mata tunas; beda total.

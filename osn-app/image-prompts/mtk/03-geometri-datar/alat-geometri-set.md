@@ -3,7 +3,7 @@
 - **Bab:** MTK 03 · Geometri Datar & Sudut
 - **Sub-bab:** 03l, 03m
 - **Objek (EN):** a school geometry set arranged in a tidy row
-- **Soal terkait:** 150 soal di 72 file
+- **Soal terkait:** 151 soal di 72 file
   - `mtk-03a-jenis-bangun-datar-campur` (9)
   - `mtk-03e-keliling-lingkaran-campur` (8)
   - `ipa-02k-penyakit-tidak-menular-campur` (7)

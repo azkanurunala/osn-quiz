@@ -1521,7 +1521,7 @@ D. Wedhus Gembel (piroklastik)
   - **B. Lapili** — Salah. Lapili adalah batuan kecil (2–64 mm) yang dilemparkan saat letusan, bukan awan panas. Lapili padat, sedangkan awan panas adalah campuran gas + abu + batu yang mengalir cepat.
   - **C. Magma intrusif** — Salah. Magma intrusif adalah magma yang **tidak keluar** ke permukaan, melainkan membeku di dalam kerak Bumi (membentuk batuan beku dalam seperti granit). Tidak ada hubungan dengan awan panas.
   - **D. Wedhus Gembel (piroklastik)** — Benar. **Awan panas** atau **piroclastic density current** (di Jawa disebut "wedhus gembel" karena tampak seperti domba berbulu). Campuran gas panas (400–700 °C) + abu + batu yang menuruni lereng dengan kecepatan 50–700 km/jam. Sangat mematikan — letusan Merapi 2010 menewaskan banyak warga karena ini.
-  
+
 - **Langkah Penyelesaian (cara benar):**
   1. Daftar material gunung meletus:
      - **Lava** → cairan magma yang mengalir
@@ -1774,7 +1774,7 @@ D. Mudah dibakar sehingga cepat habis
      - **Terbarukan** → dapat diperbarui alami dalam skala waktu manusia (air, matahari, angin)
      - **Tak terbarukan** → pembentukannya jutaan tahun, jauh lebih lambat dari pemakaian (minyak bumi, batu bara, mineral)
   2. Asal bahan bakar fosil: sisa makhluk hidup yang terkubur ratusan juta tahun lalu.
-  3. Sekali habis, kita tidak bisa tunggu jutaan tahun untuk yang baru → tak terbarukan.
+  3. Sekali habis, kita tidak bisa menunggu jutaan tahun untuk yang baru → tak terbarukan.
 
 - **Hasil akhir:** Tak terbarukan karena **pembentukan jutaan tahun, jauh lebih lambat dari pemakaian**.
 
@@ -2474,8 +2474,8 @@ D. Berdiri di tengah ruangan tanpa berlindung
 
 - **Langkah Penyelesaian (cara benar):**
   1. Saat guncangan dimulai: **Drop, Cover, Hold On**.
-  2. Pilih tempat aman: bawah meja kokoh, di sudut dinding pintu (door frame), jauh dari jendela.
-  3. Tunggu guncangan reda — biasanya hanya beberapa detik sampai 1 menit.
+  2. Pilih tempat aman: bawah meja kokoh, jauh dari jendela dan lemari tinggi.
+  3. Bertahan sampai guncangan reda — biasanya hanya beberapa detik sampai 1 menit.
   4. Setelah reda, baru keluar gedung secara tertib melalui tangga (jangan lift).
   5. Tetap waspada terhadap gempa susulan.
 
@@ -4424,10 +4424,4 @@ Setelah menguasai Tingkat Sedang (Provinsi) bab IPA-05 ini (skor ≥70):
 ---
 
 > ✓ Selamat! Kamu sudah selesai 100 soal IPA-05 Bumi, Antariksa & Lingkungan Tingkat Sedang. Jangan lupa istirahat sebelum lanjut latihan berikutnya. **Semangat menuju OSN/KSN!** 🌍🌙⭐
-
-
-
-
-
-
 

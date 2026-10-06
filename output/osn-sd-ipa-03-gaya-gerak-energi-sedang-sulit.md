@@ -2339,25 +2339,22 @@ D. Pinset
 
 ### Soal 93 · IPA-03 · Rangkaian campuran (R3 paralel R2) · Nasional
 
-R1 = 5 Ω disusun seri dengan paralel dari R2 = 12 Ω dan R3 = 6 Ω. Tegangan 16 V. Berapa arus total dan arus di R3?
+R1 = 5 Ω disusun seri dengan rangkaian paralel R2 = 12 Ω dan R3 = 6 Ω. Tegangan sumber 18 V. Berapa arus total dan arus yang melewati R3?
 
 A. I = 2 A; I_R3 = 1,33 A
-B. I = 1 A; I_R3 = 0,67 A
+B. I = 0,78 A; I_R3 = 0,78 A
 C. I = 2 A; I_R3 = 0,67 A
-D. I = 4 A; I_R3 = 2,67 A
+D. I = 4,5 A; I_R3 = 3 A
 
 **Jawaban:** A
 
 **Pembahasan komprehensif:**
 - R_p = (12 × 6)/(12 + 6) = 72/18 = 4 Ω. R_total = 5 + 4 = 9 Ω.
-- Hmm: 16/9 ≈ 1,78 A, bukan 2. Let me reconsider — anggap sumber 18 V (revisi): I = 18/9 = 2 A; V_p = 2 × 4 = 8 V; I_R3 = 8/6 = 1,33 A.
-- Catatan: dengan V = 16 V, I = 1,78 A, V_p = 7,11 V, I_R3 = 1,19 A — mendekati opsi A (1,33 untuk soal V=18). Untuk opsi tetap A, anggap V = 18 V (soal mungkin perlu dibulatkan). **Jawaban dipilih:** **A (paling dekat untuk V = 18 V; bila V = 16 V mendekati 1,78 A & 1,19 A).**
-- **A (2 A; 1,33) — benar (asumsi pembulatan/V=18):** sesuai hitung.
-- **B — salah:** I terlalu kecil.
-- **C — salah:** I_R3 salah.
-- **D — salah:** I jauh terlalu besar.
-
-(Catatan: untuk konsistensi soal-jawaban, anggap V = 18 V dengan revisi mental.)
+- I = 18/9 = 2 A. V_paralel = 2 × 4 = 8 V. I_R3 = 8/6 ≈ 1,33 A (dan I_R2 = 8/12 ≈ 0,67 A).
+- **A — benar:** sesuai hitungan di atas.
+- **B — salah:** semua hambatan dianggap seri (5 + 12 + 6 = 23 Ω → 18/23 ≈ 0,78 A), sehingga arusnya sama di mana-mana.
+- **C — salah:** arus total benar, tetapi 0,67 A adalah arus di R2. Arus lebih besar justru melewati hambatan yang lebih kecil (R3 = 6 Ω).
+- **D — salah:** R1 diabaikan: 18/4 = 4,5 A, dan seluruh 18 V dianggap jatuh di R3 (18/6 = 3 A).
 
 ---
 

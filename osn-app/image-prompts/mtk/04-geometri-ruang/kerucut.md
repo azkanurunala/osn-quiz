@@ -3,8 +3,8 @@
 - **Bab:** MTK 04 · Geometri Ruang
 - **Sub-bab:** 04a, 04f
 - **Objek (EN):** a right circular cone standing on its base
-- **Soal terkait:** 201 soal di 33 file
-  - `mtk-04f-volume-kerucut-bola-campur` (65)
+- **Soal terkait:** 200 soal di 33 file
+  - `mtk-04f-volume-kerucut-bola-campur` (64)
   - `mtk-04l-ruang-gabungan-campur` (35)
   - `mtk-04k-jaring-jaring-campur` (16)
   - `mtk-04-geometri-ruang-sulit` (14)

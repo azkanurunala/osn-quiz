@@ -354,7 +354,7 @@ D. Setiap kali makan
   - **A. 1 kali** — Salah. Tidak cukup; sisa makanan & plak menumpuk 12 jam berikutnya.
   - **B. 2 kali** — Benar. Anjuran resmi: pagi setelah sarapan & malam sebelum tidur — 2× sehari sudah memutus pembentukan plak penyebab karies.
   - **C. 4 kali** — Salah. Bukan anjuran utama; menyikat terlalu sering & keras malah merusak email gigi.
-  - **D. Setiap kali makan** — Salah. Justru tidak dianjurkan menyikat langsung setelah makan asam (jeruk, soda) karena email sedang lunak — tunggu ±30 menit. Tidak setiap habis makan harus menyikat.
+  - **D. Setiap kali makan** — Salah. Justru tidak dianjurkan menyikat langsung setelah makan asam (jeruk, soda) karena email sedang lunak — beri jeda ±30 menit. Tidak setiap habis makan harus menyikat.
 
 - **Langkah Penyelesaian:**
   1. Aturan baku dokter gigi: **2×/hari** (pagi setelah sarapan + malam sebelum tidur).

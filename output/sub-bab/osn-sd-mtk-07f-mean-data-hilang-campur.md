@@ -1493,9 +1493,9 @@ Catatan: bila tinggi tambahan 154 dan 156, total = 2.866 → mean 143,3. Pilihan
 **Pembahasan:**
 - **A** — Selisih 20 dikurangkan, bukan ditambahkan (2.080 : 30); nilai yang benar lebih besar, jadi total bertambah.
 - **B** — Benar. Total tertulis = 2.100. Total benar = 2.100 + 20 = 2.120. Mean = 2.120 : 30 ≈ **70,67**.
-- **C** — Selisih dihitung 30 (2.130 : 30).
+- **C** — Selisih 90 − 70 salah dihitung 30: 2.130 : 30 = 71.
 - **D** — 90 adalah nilai yang benar untuk satu siswa, bukan mean kelas.
-- **Konsep kunci:** Koreksi satu data: total + (nilai benar − nilai tertulis), lalu bagi banyak data.
+- **Konsep kunci:** Membetulkan satu data: total + (nilai benar − nilai tertulis), lalu bagi banyak data.
 - **Langkah Penyelesaian:**
   1. Total tertulis = 70 × 30 = 2.100.
   2. Total benar = 2.120.

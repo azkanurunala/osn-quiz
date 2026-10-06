@@ -1549,14 +1549,14 @@ Indonesia kaya akan tambang mineral:
 
 **99.** Pak Hadi memberi pertanyaan: "**Pembentukan mineral baru oleh manusia** (sintetik) misalnya intan sintetik, ruby sintetik. Apa metodenya?"
 - A. tidak ada metode
-- B. tunggu jutaan tahun
+- B. harus menunggu jutaan tahun seperti di alam
 - C. impor dari Mars
 - D. (1) **HPHT (High Pressure High Temperature)** — meniru kondisi mantel Bumi (5-6 GPa, 1.300-1.600 °C) untuk intan; (2) **CVD (Chemical Vapor Deposition)** — gas metana terurai di plasma, atom karbon mengendap pada substrat → intan tumbuh lapis demi lapis; (3) **Verneuil, Czochralski** untuk ruby/sapphire sintetik; (4) **flux growth** untuk emerald
 
 **Kunci: D**
 **Pembahasan:**
 - **A salah** — Banyak metode sintetis.
-- **B salah** — Sintetik bisa cepat.
+- **B salah** — Di alam memang butuh waktu sangat lama, tetapi di laboratorium tekanan dan suhu bisa ditiru sehingga kristal tumbuh dalam hitungan minggu.
 - **C salah** — Bukan dari Mars.
 - **D benar** — **Mineral sintetik** dibuat di laboratorium/pabrik dengan metode meniru atau menyederhanakan proses alami: (1) **Intan sintetik**: (a) **HPHT (High Pressure High Temperature)** — meniru kondisi mantel Bumi (5-6 GPa, 1.300-1.600 °C dengan press hidraulik raksasa); (b) **CVD (Chemical Vapor Deposition)** — gas metana terurai di plasma, atom karbon mengendap pada substrat → intan tumbuh perlahan **lapis demi lapis**. Intan CVD modern berkualitas sangat tinggi, sulit dibedakan dari alami; (2) **Ruby & sapphire sintetik**: metode **Verneuil** (1902, melelehkan alumina ke api → kristal tumbuh) atau **Czochralski** (penarikan kristal dari lelehan); (3) **Emerald sintetik**: metode **flux growth** (mineral terlarut di flux cair, mengkristal saat mendingin); (4) **Kuarsa sintetik** untuk industri (hidrotermal). Penggunaan: perhiasan murah, industri (intan untuk pemotong), elektronik, sensor.
 

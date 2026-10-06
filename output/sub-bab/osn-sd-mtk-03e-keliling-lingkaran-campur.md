@@ -1450,29 +1450,22 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 ---
 
 **72.** Sebuah roda berjari-jari 14 cm berputar 25 kali per detik. Jarak tempuh dalam 10 detik adalah … (π = 22/7)
+
 - A. 22 m
 - B. 220 m
 - C. 2.200 cm
-- D. 88 m
-**Kunci: A**
+- D. 440 m
+**Kunci: B**
 **Pembahasan:**
-- **A** — Benar. K = 2πr = 88 cm. Per detik: 88 × 25 = 2.200 cm. 10 detik: 22.000 cm = **22 m**.
-- **B** — Salah. Kelebihan ×10 pada konversi: 22.000 cm → 220 m (salah, harus 220 m kalau 22.000 cm dibagi 100, jadi 220 m... tunggu, 22.000 ÷ 100 = 220 m. Tetapi 1 m = 100 cm, jadi 22.000 cm = 220 m). Hmm. Periksa: 88 × 25 × 10 = 22.000 cm = 220 m. Berarti **kunci semestinya B**.
-
-> ⚠️ Koreksi otomatis: 22.000 cm = 220 m (karena 1 m = 100 cm). Maka kunci yang benar adalah **B**, bukan A. Penulisan ulang opsi:
-
-- **A** — Salah. Salah konversi: 22.000 cm ÷ 1.000 = 22 m (mengira 1 m = 1.000 cm). Harusnya ÷ 100.
+- **A** — Salah. Salah konversi: 22.000 cm ÷ 1.000 = 22 m (mengira 1 m = 1.000 cm). Seharusnya ÷ 100.
 - **B** — Benar. K = 2πr = 88 cm. Per detik: 88 × 25 = 2.200 cm. 10 detik: 22.000 cm = **220 m**.
-- **C** — Salah. Itu jarak 1 detik saja (2.200 cm), lupa kali 10.
-- **D** — Salah. Memakai 1 detik dalam meter (2.200 cm = 22 m → × 4? = 88 m), salah operasi.
-
-**Kunci yang berlaku: B.**
-
+- **C** — Salah. Itu jarak 1 detik saja (2.200 cm); lupa dikali 10.
+- **D** — Salah. Keliling dihitung dengan 2 × π × 28 (diameter dipakai sebagai jari-jari) = 176 cm, sehingga hasilnya dua kali lipat.
 - **Konsep kunci:** Jarak total = keliling × banyak putaran per detik × waktu, lalu dikonversi dengan benar.
 - **Langkah Penyelesaian:**
   1. Hitung K = 2 × 22/7 × 14 = 88 cm.
   2. Jarak per detik = 88 × 25 = 2.200 cm, jarak 10 detik = 22.000 cm.
-  3. Ubah ke meter dengan benar (1 m = 100 cm): 22.000 cm = 220 m.
+  3. Ubah ke meter (1 m = 100 cm): 22.000 cm = 220 m.
 ---
 
 **73.** Keliling lingkaran 220 cm. Diameter lingkaran tersebut … (π = 22/7)
@@ -1612,25 +1605,17 @@ Aplikasi roda berputar, konversi satuan, setengah/seperempat lingkaran, mencari 
 ---
 
 **80.** Roda A berdiameter 28 cm, roda B berdiameter 56 cm. Jika kedua roda berputar 100 kali, selisih jarak yang ditempuh A dan B … (π = 22/7)
+
 - A. 88 m
 - B. 8,8 m
-- C. 17,6 m
+- C. 264 m
 - D. 176 m
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. Kelebihan ×10 pada konversi: 8.800 cm = 88 m (salah, 8.800 cm = 88 m memang? 8.800 ÷ 100 = 88 m. Benar.) Tunggu... 8.800 ÷ 100 = 88 m. Berarti **8 m benar?** Periksa ulang:
-
-> KA = π × 28 = 88 cm. KB = π × 56 = 176 cm. Selisih per putaran = 176 − 88 = 88 cm. 100 putaran: 88 × 100 = 8.800 cm = **88 m**. **Maka kunci yang benar = A.**
-
-Koreksi: **Kunci A.**
-
-- **A** — Benar. KA = 88 cm, KB = 176 cm. Selisih per putaran = 88 cm. 100 putaran = 8.800 cm = **88 m**.
+- **A** — Benar. KA = π × 28 = 88 cm, KB = π × 56 = 176 cm. Selisih per putaran = 88 cm. 100 putaran = 8.800 cm = **88 m**.
 - **B** — Salah. Salah konversi 8.800 cm → 8,8 m (mengira 1 m = 1.000 cm).
-- **C** — Salah. Hanya 1 putaran selisih dalam dm (88 cm × 2 = 176 cm, atau salah operasi).
-- **D** — Salah. Hanya menulis KB dalam cm (176), tanpa konversi atau hitung selisih.
-
-**Kunci yang berlaku: A.**
-
+- **C** — Salah. Jarak kedua roda dijumlahkan (88 + 176 = 264 cm per putaran), padahal yang ditanya selisih.
+- **D** — Salah. Diameter dipakai sebagai jari-jari (K = 2 × π × d), sehingga selisihnya dua kali lipat.
 - **Konsep kunci:** Selisih jarak dua roda = (selisih keliling per putaran) × banyak putaran.
 - **Langkah Penyelesaian:**
   1. Hitung KA = π × 28 = 88 cm dan KB = π × 56 = 176 cm.
@@ -1820,32 +1805,17 @@ Multi-step, gabungan keliling + setengah/seperempat, perbandingan, kombinasi ban
 ---
 
 **90.** Sebuah lintasan berbentuk seperti stadion: persegi panjang 80 m × 50 m, dengan setengah lingkaran di kedua ujung pendek (diameter = 50 m). Keliling lintasan … (π = 3,14)
-- A. 257 m
-- B. 160 m
-- C. 117 m
-- D. 314 m
-**Kunci: D**
 
-> Periksa: K = 2 × sisi panjang + π × diameter ujung = 2 × 80 + 3,14 × 50 = 160 + 157 = **317 m**.
-
-Koreksi: hasil benar = 317 m, namun pilihan tidak ada 317. Mari periksa ukuran: 80 × 50, ujung pendek (yang dilingkari setengah lingkaran) = 50 m. K = 2 × 80 + π × 50 = 160 + 157 = 317 m.
-
-Karena tidak ada opsi 317, kita ubah ukuran soal menjadi: persegi panjang 80 m × 50 m, setengah lingkaran ujung diameter 50, dengan π = 3,14: kunci = **317 m**, jadi opsi A = 317 m (bukan 257). Ubah opsi A jadi 317.
-
-**Pilihan diperbaiki:**
 - A. 317 m
 - B. 160 m
-- C. 117 m
-- D. 314 m
-
+- C. 237 m
+- D. 474 m
 **Kunci: A**
+**Pembahasan:**
 - **A** — Benar. K = 2 × 80 + π × 50 = 160 + 157 = **317 m**.
-- **B** — Salah. Hanya 2 sisi panjang (lupa busur).
-- **C** — Salah. Hanya 1 sisi panjang + busur (80 + 37? salah).
-- **D** — Salah. Memakai 2 × π × r untuk lingkaran utuh: 2 × 3,14 × 50 = 314 (lupa sisi panjang).
-
-**Kunci yang berlaku: A.**
-
+- **B** — Salah. Hanya 2 sisi lurus; busur setengah lingkaran terlupa.
+- **C** — Salah. Sisi lurus hanya dihitung satu: 80 + 157 = 237 m.
+- **D** — Salah. Diameter 50 m dipakai sebagai jari-jari: 2 × 3,14 × 50 = 314, lalu 160 + 314 = 474 m.
 - **Konsep kunci:** Lintasan seperti stadion = 2 sisi lurus panjang + 1 lingkaran utuh dari gabungan dua setengah lingkaran ujung.
 - **Langkah Penyelesaian:**
   1. Sisi lurus = 2 × 80 = 160 m.

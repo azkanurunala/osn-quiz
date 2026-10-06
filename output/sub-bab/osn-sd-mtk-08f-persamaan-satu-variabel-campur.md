@@ -360,30 +360,15 @@ Bagian ini berisi PLSV bentuk dasar (ax + b = c, x + a = b, ax = b) dan cerita p
 **12.** Penyelesaian 3x − 5 = 16 adalah ....
 
 - A. 11/3
-- B. 7
-- C. 21
-- D. 7 (dengan pengecekan)
-
-**Kunci: D**
-
-Catatan: opsi D ditulis ulang sebagai pilihan utama. Pertimbangkan distractor lain.
-
-(Soal direvisi untuk menjaga kunci D yang benar tanpa kembar dengan B.)
-
-Versi soal yang dipakai:
-
-**12.** Penyelesaian 3x − 5 = 16 adalah ....
-
-- A. 11/3
 - B. 21
-- C. 5,5
+- C. 63
 - D. 7
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Salah tanda: 3x = 16 − 5 = 11; lalu x = 11/3.
-- **B salah** — Lupa bagi 3: 3x = 21 dianggap x = 21.
-- **C salah** — Salah hitung: x = (16 + 5)/4 = 5,25 dibulatkan keliru.
+- **A salah** — −5 dipindah ke ruas kanan tanpa mengubah tanda: 3x = 16 − 5 = 11 → x = 11/3.
+- **B salah** — Berhenti di 3x = 21; lupa membagi dengan 3.
+- **C salah** — 3x = 21 lalu dikalikan 3, padahal seharusnya dibagi 3.
 - **D benar** — 3x = 16 + 5 = 21; x = 21 ÷ 3 = 7. Cek: 3(7) − 5 = 16 ✓.
 
 ---
@@ -615,28 +600,15 @@ Versi soal yang dipakai:
 **27.** Nilai x dari (2x + 1)/3 = 5 adalah ....
 
 - A. 14
-- B. 16/3
-- C. 7
-- D. 7,5
-
-**Kunci: D**
-
-Catatan: Hindari kembar dengan opsi lain. Versi pakai opsi A.
-
-(Direvisi:)
-
-**27.** Nilai x dari (2x + 1)/3 = 5 adalah ....
-
-- A. 14
-- B. 16/3
+- B. 2
 - C. 8
 - D. 7
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Salah tanda: 2x + 1 = 15 → 2x = 16 → x = 8, salah dibaca jadi 14.
-- **B salah** — Lupa kurangi 1: 2x = 15 → x = 15/2; ditulis 16/3 keliru.
-- **C salah** — Salah pindah: 2x = 15 + 1 = 16, x = 8.
+- **A salah** — Berhenti di 2x = 14; lupa membagi dengan 2.
+- **B salah** — Lupa mengalikan 3: 2x + 1 = 5 → 2x = 4 → x = 2.
+- **C salah** — +1 dipindah tanpa mengubah tanda: 2x = 15 + 1 = 16 → x = 8.
 - **D benar** — Kali 3: 2x + 1 = 15; 2x = 14; x = 7. Cek: (2(7) + 1)/3 = 15/3 = 5 ✓.
 
 ---
@@ -1031,30 +1003,19 @@ Bagian ini berisi PLSV dengan variabel di kedua ruas, persamaan pecahan, dan cer
 
 ---
 
-**52.** Penyelesaian dari (2x − 1)/3 + (x + 2)/2 = 5 adalah ....
-
-- A. 28/7
-- B. 4
-- C. 7
-- D. 2
-
-**Kunci: D**
-
-(Pengecekan: opsi D harus benar. Versi soal:)
-
 **52.** Nilai x dari 4x + 9 = 6x − 11 adalah ....
 
 - A. 1
 - B. −10
-- C. 5
+- C. −2
 - D. 10
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Salah tanda: 4x + 6x = −11 − 9 → 10x = −20 → x = −2 dibaca 1.
-- **B salah** — Salah pindah variabel: 4x − 6x = −11 − 9 → −2x = −20 → x = 10 (benar magnitudo) tapi ditulis −10 (salah tanda akhir).
-- **C salah** — Berhenti di −2x = −20 lalu bagi salah (−20 ÷ −4 = 5).
-- **D benar** — Pindahkan: 4x − 6x = −11 − 9; −2x = −20; x = 10. Cek: 4(10) + 9 = 49; 6(10) − 11 = 49 ✓.
+- **A salah** — +9 dipindah tanpa mengubah tanda: 4x − 6x = −11 + 9 → −2x = −2 → x = 1.
+- **B salah** — Pembagian −20 ÷ (−2) dianggap negatif; padahal negatif dibagi negatif hasilnya positif.
+- **C salah** — 6x dipindah ke kiri tanpa mengubah tanda: 4x + 6x = −11 − 9 → 10x = −20 → x = −2.
+- **D benar** — 4x − 6x = −11 − 9; −2x = −20; x = 10. Cek: 4(10) + 9 = 49; 6(10) − 11 = 49 ✓.
 
 ---
 
@@ -1106,35 +1067,19 @@ Bagian ini berisi PLSV dengan variabel di kedua ruas, persamaan pecahan, dan cer
 
 ---
 
-**56.** Umur Budi 4 tahun lebih tua dari Adi. Lima tahun yang akan datang, jumlah umur mereka 38. Umur Adi sekarang adalah ....
+**56.** Umur Budi 4 tahun lebih tua dari Adi. Lima tahun yang akan datang, jumlah umur mereka 38 tahun. Umur Adi sekarang adalah ....
 
 - A. 19 tahun
-- B. 15 tahun
+- B. 17 tahun
 - C. 12 tahun
-- D. 10 tahun
+- D. 14 tahun
 
-**Kunci: D**
+**Kunci: C**
 **Pembahasan:**
-- **A salah** — Salah model: B + 4 = A → A = 19 (terbalik usia tuanya).
-- **B salah** — Salah hitung: 14 + 4 = 18 atau salah substitusi.
-- **C salah** — Salah pindah ruas; 14 dibagi salah.
-- **D benar** — Misal Adi = a; Budi = a + 4. Lima tahun lagi: (a + 5) + (a + 4 + 5) = 38 → 2a + 14 = 38 → 2a = 24 → a = 10? Cek: 2(10) + 14 = 34 ≠ 38. Periksa ulang: (a + 5) + ((a + 4) + 5) = 2a + 14 = 38 → 2a = 24 → a = 12. Ralat: kunci yang benar adalah 12, BUKAN 10. Soal direvisi agar kunci sungguh D.
-
-(Revisi:)
-
-**56.** Umur Budi 4 tahun lebih tua dari Adi. Lima tahun yang akan datang, jumlah umur mereka 32. Umur Adi sekarang adalah ....
-
-- A. 19 tahun
-- B. 15 tahun
-- C. 12 tahun
-- D. 9 tahun
-
-**Kunci: D**
-**Pembahasan:**
-- **A salah** — Salah model: A − 4 = B → A = 19.
-- **B salah** — Salah hitung jumlah saat ini: (a) + (a + 4) = 32 → 2a + 4 = 32 → 2a = 28 → a = 14, dibaca 15.
-- **C salah** — Salah model: lupa tambah 5 tahun → 2a + 4 = 32 → a = 14, dibaca 12.
-- **D benar** — Sekarang Adi = a, Budi = a + 4. 5 tahun lagi: (a + 5) + (a + 4 + 5) = 32 → 2a + 14 = 32 → 2a = 18 → a = 9. Cek: 5 tahun lagi Adi 14, Budi 18; jumlah 32 ✓.
+- **A salah** — 38 langsung dibagi 2, seolah umur keduanya sama dan tanpa memperhitungkan 5 tahun lagi.
+- **B salah** — Tambahan 5 tahun dilupakan: a + (a + 4) = 38 → 2a = 34 → a = 17.
+- **C benar** — Adi = a, Budi = a + 4. Lima tahun lagi: (a + 5) + (a + 4 + 5) = 38 → 2a + 14 = 38 → 2a = 24 → a = 12. Cek: lima tahun lagi Adi 17, Budi 21; 17 + 21 = 38 ✓.
+- **D salah** — Selisih umur 4 tahun dilupakan: (a + 5) + (a + 5) = 38 → 2a = 28 → a = 14.
 
 ---
 
@@ -1202,44 +1147,19 @@ Bagian ini berisi PLSV dengan variabel di kedua ruas, persamaan pecahan, dan cer
 
 ---
 
-**61.** Sebuah pecahan, jika pembilangnya ditambah 5 dan penyebutnya dikurangi 1, hasilnya menjadi 2. Jika pembilang dan penyebut pecahan tersebut masing-masing adalah x dan x + 4, maka nilai x adalah ....
+**61.** Sebuah bilangan x ditambah 5, lalu hasilnya dibagi dengan (x − 1), hasilnya 2. Nilai x adalah ....
 
-- A. −2
-- B. 5
-- C. 7
-- D. 9
+- A. 3
+- B. 7
+- C. 6
+- D. −7
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Salah tanda di langkah akhir: x = −2.
-- **B benar** — (x + 5)/(x + 4 − 1) = 2 → (x + 5)/(x + 3) = 2 → x + 5 = 2(x + 3) → x + 5 = 2x + 6 → −x = 1 → x = −1. Eh, mari hitung ulang: x + 5 = 2x + 6 → 5 − 6 = 2x − x → −1 = x. Kunci salah; perlu direvisi. **Revisi**: ganti angka agar kunci tetap B = 5.
-
-(Revisi soal 61:)
-
-**61.** Sebuah bilangan x ditambah 5 lalu dibagi dengan x − 1 menghasilkan 2. Nilai x adalah ....
-
-- A. −2
-- B. 7
-- C. 5
-- D. 9
-
-(Untuk menjaga kunci B, susun opsi sesuai rencana. Kita target B benar.)
-
-Periksa: (x + 5)/(x − 1) = 2 → x + 5 = 2(x − 1) → x + 5 = 2x − 2 → 5 + 2 = 2x − x → x = 7. Maka kunci yang benar = 7. Tukar urutan opsi agar B = 7:
-
-**61.** Sebuah bilangan x. Jika x + 5 dibagi dengan x − 1, hasilnya 2. Nilai x adalah ....
-
-- A. −2
-- B. 7
-- C. 5
-- D. 9
-
-**Kunci: B**
-**Pembahasan:**
-- **A salah** — Salah tanda: x + 5 = 2(x − 1) dibaca x + 5 = −2x + 2 → 3x = −3 → x = −1, dibaca −2.
-- **B benar** — Kalikan silang: x + 5 = 2(x − 1) → x + 5 = 2x − 2 → 5 + 2 = 2x − x → x = 7. Cek: (7 + 5)/(7 − 1) = 12/6 = 2 ✓.
-- **C salah** — Salah hitung: 7 − 2 = 5 dianggap jawaban.
-- **D salah** — Salah jabar 2(x − 1) menjadi 2x + 2 → x + 5 = 2x + 2 → x = 3, dibaca 9.
+- **A salah** — 2(x − 1) dijabarkan menjadi 2x + 2: x + 5 = 2x + 2 → x = 3.
+- **B benar** — Kali silang: x + 5 = 2(x − 1) → x + 5 = 2x − 2 → 5 + 2 = 2x − x → x = 7. Cek: (7 + 5)/(7 − 1) = 12/6 = 2 ✓.
+- **C salah** — 2 hanya dikalikan ke x: x + 5 = 2x − 1 → x = 6.
+- **D salah** — Langkah −x = −7 berhenti di situ dan dibaca x = −7; kedua ruas belum dikali −1.
 
 ---
 
@@ -1259,44 +1179,19 @@ Periksa: (x + 5)/(x − 1) = 2 → x + 5 = 2(x − 1) → x + 5 = 2x − 2 → 5
 
 ---
 
-**63.** Sebuah persegi panjang memiliki panjang (2x + 3) cm dan lebar (x − 1) cm. Jika kelilingnya 38 cm, maka nilai x adalah ....
-
-- A. 4
-- B. 8
-- C. 7
-- D. 6
-
-**Kunci: D**
-**Pembahasan:**
-- **A salah** — Salah rumus: (2x + 3) + (x − 1) = 38 → 3x + 2 = 38 → 3x = 36 → x = 12, dibaca 4.
-- **B salah** — Lupa ÷2: 2(3x + 2) = 38 dibaca 3x + 2 = 38 → 3x = 36 → x = 12, dibaca 8.
-- **C salah** — Salah hitung 18/3 (mengira 7, sebenarnya 6).
-- **D benar** — K = 2(p + l) = 38; p + l = 19; (2x + 3) + (x − 1) = 19; 3x + 2 = 19; 3x = 17; x ≈ 5,67. **Tidak bulat — perlu revisi.** Pakai keliling 44: p + l = 22; 3x + 2 = 22; 3x = 20 (tetap tidak bulat). Pakai keliling 46: p + l = 23; 3x + 2 = 23; 3x = 21; x = 7. Sesuaikan soal agar kunci sungguh = 7, lalu kita pakai keliling 46 dan kunci C = 7.
-
-(Final revisi:)
-
 **63.** Sebuah persegi panjang memiliki panjang (2x + 3) cm dan lebar (x − 1) cm. Jika kelilingnya 46 cm, maka nilai x adalah ....
 
-- A. 4
-- B. 8
-- C. 7
-- D. 9
-
-(Catatan: kunci-rencana posisi 63 = D. Maka kita ubah opsi agar D = 7.)
-
-**63.** Sebuah persegi panjang memiliki panjang (2x + 3) cm dan lebar (x − 1) cm. Jika kelilingnya 46 cm, maka nilai x adalah ....
-
-- A. 4
-- B. 8
-- C. 9
+- A. 17
+- B. 6
+- C. 23
 - D. 7
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Salah jumlah: (2x + 3) + (x − 1) = 46 (lupa ÷2 dulu) → 3x + 2 = 46 → 3x = 44 → x ≈ 14,67, dibaca 4.
-- **B salah** — Lupa ÷2: dipakai langsung 3x + 2 = 46 lalu salah → 3x = 44 → x ≈ 14,67 dibaca 8.
-- **C salah** — Salah hitung 21/3 (mengira 9 keliru).
-- **D benar** — K = 2(p + l) = 46 → p + l = 23 → 3x + 2 = 23 → 3x = 21 → x = 7. Cek: p = 17, l = 6; K = 2(23) = 46 ✓.
+- **A salah** — 17 adalah panjangnya (2x + 3 = 17), bukan nilai x.
+- **B salah** — 6 adalah lebarnya (x − 1 = 6), bukan nilai x.
+- **C salah** — 23 adalah p + l (setengah keliling); berhenti sebelum mencari x.
+- **D benar** — K = 2(p + l) = 46 → p + l = 23 → 3x + 2 = 23 → 3x = 21 → x = 7. Cek: p = 17, l = 6; 2(17 + 6) = 46 ✓.
 
 ---
 
@@ -1316,57 +1211,35 @@ Periksa: (x + 5)/(x − 1) = 2 → x + 5 = 2(x − 1) → x + 5 = 2x − 2 → 5
 
 ---
 
-**65.** Jumlah dua bilangan adalah 50. Bilangan yang besar 3 lebih dari dua kali bilangan yang kecil. Bilangan yang kecil adalah ....
-
-- A. 13
-- B. 15.67
-- C. 32
-- D. 17
-
-**Kunci: B**
-
-Periksa: k + (2k + 3) = 50 → 3k + 3 = 50 → 3k = 47 → k ≈ 15,67 (tidak bulat). **Revisi**: pakai jumlah 51 agar k = 16. Lalu opsi B = 16.
-
 **65.** Jumlah dua bilangan adalah 51. Bilangan yang besar 3 lebih dari dua kali bilangan yang kecil. Bilangan yang kecil adalah ....
 
-- A. 13
+- A. 18
 - B. 16
-- C. 32
+- C. 35
 - D. 17
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Salah model: k + (2k − 3) = 51 → 3k = 54 → k = 18, dibaca 13.
-- **B benar** — Misal kecil = k; besar = 2k + 3. Jumlah: k + 2k + 3 = 51 → 3k = 48 → k = 16. Cek: besar = 35; 16 + 35 = 51 ✓.
-- **C salah** — Mengambil bilangan besar (35) lalu salah dibaca 32.
-- **D salah** — Salah hitung 48/3 (mengira 17).
+- **A salah** — +3 dipindah tanpa mengubah tanda: 3k = 51 + 3 = 54 → k = 18.
+- **B benar** — Kecil = k, besar = 2k + 3. k + 2k + 3 = 51 → 3k = 48 → k = 16. Cek: besar = 35; 16 + 35 = 51 ✓.
+- **C salah** — 35 adalah bilangan yang besar, padahal yang ditanya bilangan kecil.
+- **D salah** — "Lebih 3" diabaikan: k + 2k = 51 → k = 17.
 
 ---
 
 **66.** Penyelesaian persamaan (x − 1)/2 + (x − 3)/4 = (2x + 1)/4 adalah ....
 
-- A. 7
-- B. 3
-- C. 5
-- D. 9
-
-**Kunci: A**
-**Pembahasan:**
-- **A benar** — Kali 4: 2(x − 1) + (x − 3) = 2x + 1; 2x − 2 + x − 3 = 2x + 1; 3x − 5 = 2x + 1; 3x − 2x = 1 + 5; x = 6? Cek: (6 − 1)/2 + (6 − 3)/4 = 5/2 + 3/4 = 10/4 + 3/4 = 13/4; (2(6) + 1)/4 = 13/4 ✓. Maka kunci sesungguhnya = 6. **Revisi opsi agar A = 6:**
-
-**66.** Penyelesaian persamaan (x − 1)/2 + (x − 3)/4 = (2x + 1)/4 adalah ....
-
 - A. 6
-- B. 3
+- B. −4
 - C. 5
-- D. 9
+- D. 0
 
 **Kunci: A**
 **Pembahasan:**
-- **A benar** — Kali 4: 2(x − 1) + (x − 3) = 2x + 1; 2x − 2 + x − 3 = 2x + 1; 3x − 5 = 2x + 1; x = 6. Cek: (6 − 1)/2 + (6 − 3)/4 = 5/2 + 3/4 = 13/4 = (12 + 1)/4 ✓.
-- **B salah** — Salah jabar: 2(x − 1) + (x − 3) = 2x + 1 → 2x − 2 + x − 3 = 2x + 1 → 3x = 2x + 6 → x = 6 dibaca 3.
-- **C salah** — Salah jabar tanda: 2x − 2 − x + 3 = 2x + 1 → x + 1 = 2x + 1 → x = 0 dibaca 5 (salah).
-- **D salah** — Salah hitung pindah ruas: x − 5 = 1 → x = 6 dibaca 9 keliru.
+- **A benar** — Kali 4: 2(x − 1) + (x − 3) = 2x + 1 → 3x − 5 = 2x + 1 → x = 6. Cek: 5/2 + 3/4 = 13/4 dan (12 + 1)/4 = 13/4 ✓.
+- **B salah** — −5 dipindah tanpa mengubah tanda: x = 1 − 5 = −4.
+- **C salah** — 2(x − 1) dijabarkan menjadi 2x − 1: 3x − 4 = 2x + 1 → x = 5.
+- **D salah** — (x − 3) ditulis x + 3: 2x − 2 + x + 3 = 2x + 1 → x = 0.
 
 ---
 
@@ -1437,27 +1310,16 @@ Periksa: k + (2k + 3) = 50 → 3k + 3 = 50 → 3k = 47 → k ≈ 15,67 (tidak bu
 **71.** Penyelesaian 5x − 2(x − 1) = 4x + 6 adalah ....
 
 - A. 4
-- B. −4
-- C. 8
-- D. 1
-
-**Kunci: D**
-
-Cek matematis: 5x − 2x + 2 = 4x + 6 → 3x + 2 = 4x + 6 → 2 − 6 = 4x − 3x → −4 = x → x = −4. Maka kunci sebenarnya = −4 (opsi B). Karena rencana kunci di posisi 71 = D, susun opsi agar D = −4:
-
-**71.** Penyelesaian 5x − 2(x − 1) = 4x + 6 adalah ....
-
-- A. 4
-- B. 8
-- C. 1
+- B. −8
+- C. −7
 - D. −4
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Tahu magnitudo 4 tapi lupa tanda; menjawab positif.
-- **B salah** — Salah jabar: 5x − 2x − 2 = 4x + 6 (lupa balik) → 3x − 2 = 4x + 6 → −x = 8 → x = −8, dibaca 8.
-- **C salah** — Salah hitung di langkah akhir: −x = −1 dibaca 1 keliru.
-- **D benar** — Jabar: 5x − 2x + 2 = 4x + 6 → 3x + 2 = 4x + 6 → 2 − 6 = 4x − 3x → −4 = x → x = −4. Cek: 5(−4) − 2(−4 − 1) = −20 − 2(−5) = −20 + 10 = −10; 4(−4) + 6 = −16 + 6 = −10 ✓.
+- **A salah** — Hitungan benar sampai −4 = x, tetapi tanda negatifnya hilang saat menulis jawaban.
+- **B salah** — −2 × (−1) dianggap −2: 3x − 2 = 4x + 6 → x = −8.
+- **C salah** — −2 hanya dikalikan ke x, tidak ke −1: 3x − 1 = 4x + 6 → x = −7.
+- **D benar** — 5x − 2x + 2 = 4x + 6 → 3x + 2 = 4x + 6 → x = −4. Cek: 5(−4) − 2(−5) = −10; 4(−4) + 6 = −10 ✓.
 
 ---
 
@@ -1611,41 +1473,19 @@ Bagian ini berisi PLSV multi-langkah, cerita berlapis (umur dengan dua-tiga wakt
 
 ---
 
-**81.** Tiga tahun yang lalu, umur Ayah 5 kali umur Andi. Tujuh tahun yang akan datang, umur Ayah hanya 2 kali umur Andi. Umur Andi sekarang adalah ....
-
-- A. 9 tahun
-- B. 11 tahun
-- C. 7 tahun
-- D. 13 tahun
-
-**Kunci: A**
-**Pembahasan:**
-- **A benar** — Misal Andi sekarang = a, Ayah = A. (1) A − 3 = 5(a − 3). (2) A + 7 = 2(a + 7). Dari (1): A = 5a − 12. Substitusi ke (2): 5a − 12 + 7 = 2a + 14 → 5a − 5 = 2a + 14 → 3a = 19? Tidak bulat. **Revisi**: ganti angka. Pakai "Ayah 4 kali" dan "tahun lalu 4 tahun":
-
-(Revisi:)
-
-**81.** Empat tahun yang lalu, umur Ayah 5 kali umur Andi. Delapan tahun yang akan datang, umur Ayah 2 kali umur Andi. Umur Andi sekarang adalah ....
-
-- A. 12 tahun
-- B. 11 tahun
-- C. 7 tahun
-- D. 13 tahun
-
-Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Maka 5a − 16 = 2a + 8 → 3a = 24 → a = 8. Tidak ada di opsi. Sesuaikan opsi agar A = 8 di posisi A:
-
 **81.** Empat tahun yang lalu, umur Ayah 5 kali umur Andi. Delapan tahun yang akan datang, umur Ayah 2 kali umur Andi. Umur Andi sekarang adalah ....
 
 - A. 8 tahun
-- B. 11 tahun
-- C. 7 tahun
-- D. 13 tahun
+- B. 24 tahun
+- C. 4 tahun
+- D. 16 tahun
 
 **Kunci: A**
 **Pembahasan:**
-- **A benar** — Misal Andi sekarang = a, Ayah = A. Dari (1): A − 4 = 5(a − 4) → A = 5a − 16. Dari (2): A + 8 = 2(a + 8) → A = 2a + 8. Samakan: 5a − 16 = 2a + 8 → 3a = 24 → a = 8. Cek: Ayah = 5(8) − 16 = 24. 4 tahun lalu: Ayah 20, Andi 4 → 20 = 5(4) ✓. 8 tahun lagi: Ayah 32, Andi 16 → 32 = 2(16) ✓.
-- **B salah** — Salah substitusi: 5a − 16 = 2a + 8 dibaca 3a = 33 → a = 11.
-- **C salah** — Salah hitung: 3a = 21 → a = 7.
-- **D salah** — Salah model: tanda terbalik → 3a = 39 → a = 13.
+- **A benar** — Andi = a, Ayah = A. A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. 5a − 16 = 2a + 8 → 3a = 24 → a = 8. Cek: 4 tahun lalu 20 = 5 × 4 ✓; 8 tahun lagi 32 = 2 × 16 ✓.
+- **B salah** — 24 adalah umur Ayah sekarang, bukan Andi.
+- **C salah** — 4 adalah umur Andi empat tahun yang lalu.
+- **D salah** — 16 adalah umur Andi delapan tahun yang akan datang.
 
 ---
 
@@ -1781,30 +1621,19 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 ---
 
-**90.** Suatu segiempat memiliki keliling 50 cm. Sisi-sisinya adalah x cm, (x + 2) cm, (x + 4) cm, dan (x + 6) cm. Sisi terpanjangnya adalah ....
-
-- A. 11 cm
-- B. 15 cm
-- C. 14 cm
-- D. 17 cm
-
-**Kunci: B**
-**Pembahasan:**
-- **A salah** — Mengambil sisi terpendek (x = 9 lalu salah baca jadi 11). Hitung: 4x + 12 = 50 → 4x = 38 → x = 9,5 (tidak bulat). **Revisi** dengan K = 52 supaya bulat: 4x + 12 = 52 → 4x = 40 → x = 10; terpanjang = 16. Susun ulang opsi B = 16:
-
 **90.** Suatu segiempat memiliki keliling 52 cm. Sisi-sisinya adalah x cm, (x + 2) cm, (x + 4) cm, dan (x + 6) cm. Sisi terpanjangnya adalah ....
 
-- A. 11 cm
+- A. 10 cm
 - B. 16 cm
 - C. 14 cm
-- D. 17 cm
+- D. 13 cm
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Salah ambil: sisi terpendek (x = 10) dibaca 11.
-- **B benar** — Jumlah sisi: x + (x + 2) + (x + 4) + (x + 6) = 52 → 4x + 12 = 52 → 4x = 40 → x = 10. Terpanjang = x + 6 = 16. Cek: 10 + 12 + 14 + 16 = 52 ✓.
-- **C salah** — Mengambil sisi ketiga (x + 4 = 14), bukan terpanjang.
-- **D salah** — Salah hitung x + 7 (mengira jumlahnya beda 7) → 17.
+- **A salah** — 10 adalah nilai x (sisi terpendek), bukan sisi terpanjang.
+- **B benar** — 4x + 12 = 52 → 4x = 40 → x = 10. Terpanjang = x + 6 = 16 cm. Cek: 10 + 12 + 14 + 16 = 52 ✓.
+- **C salah** — 14 adalah sisi x + 4, bukan yang terpanjang.
+- **D salah** — 52 ÷ 4 = 13, seolah keempat sisi sama panjang.
 
 ---
 
@@ -1824,27 +1653,19 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 ---
 
-**92.** Suatu modal A dipinjamkan dengan bunga sederhana 6% per tahun. Setelah 5 tahun, jumlah tabungan beserta bunga menjadi Rp1.300.000. Modal awal adalah ....
+**92.** Modal dipinjamkan dengan bunga tunggal 6% per tahun. Setelah 5 tahun, modal beserta bunga menjadi Rp1.300.000. Besar modal awal adalah ....
 
 - A. Rp910.000
-- B. Rp1.000.000
-- C. Rp1.000.000 (dengan rumus M(1 + 0,3))
-
-(Direvisi karena C dan B sama:)
-
-**92.** Modal A dipinjamkan dengan bunga sederhana 6% per tahun. Setelah 5 tahun, modal beserta bunga menjadi Rp1.300.000. Besar modal awal adalah ....
-
-- A. Rp910.000
-- B. Rp1.200.000
+- B. Rp300.000
 - C. Rp1.000.000
-- D. Rp1.250.000
+- D. Rp1.222.000
 
 **Kunci: C**
 **Pembahasan:**
-- **A salah** — Salah model: M = 1.300.000 × 0,7 = 910.000.
-- **B salah** — Salah persen: bunga 5 tahun = 5% × 5 = 25%; M × 1,25 = 1.300.000 dibaca 1.200.000.
-- **C benar** — Bunga 5 tahun = 6% × 5 = 30% = 0,3M. Persamaan: M + 0,3M = 1.300.000 → 1,3M = 1.300.000 → M = 1.000.000. Cek: 1.000.000 + 0,3(1.000.000) = 1.300.000 ✓.
-- **D salah** — Salah hitung: 1.300.000/1,04 ≈ 1.250.000.
+- **A salah** — 30% dihitung dari Rp1.300.000 lalu dikurangkan; padahal 30% itu dari modal awal, bukan dari jumlah akhir.
+- **B salah** — Rp300.000 adalah besar bunganya, bukan modal.
+- **C benar** — Bunga 5 tahun = 5 × 6% = 30%. M + 0,3M = 1,3M = 1.300.000 → M = 1.000.000. Cek: 1.000.000 + 300.000 = 1.300.000 ✓.
+- **D salah** — Hanya bunga 1 tahun (6% dari 1.300.000 = 78.000) yang dikurangkan.
 
 ---
 
@@ -1864,51 +1685,35 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 ---
 
-**94.** Sebuah persamaan 2x + a = 5x − 7 memiliki penyelesaian x = 4. Nilai a adalah ....
-
-- A. 5
-- B. 5 (dengan substitusi)
-
-(Diperbaiki agar opsi unik:)
-
 **94.** Persamaan 2x + a = 5x − 7 memiliki penyelesaian x = 4. Nilai a adalah ....
 
 - A. −5
 - B. 5
-- C. 7
-- D. 9
+- C. 19
+- D. 21
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Salah tanda di akhir: a = −5.
-- **B benar** — Substitusi x = 4: 2(4) + a = 5(4) − 7 → 8 + a = 13 → a = 5. Cek: 8 + 5 = 13 ✓.
-- **C salah** — Salah hitung: 2(4) + a = 5(4) + 7 → 8 + a = 27 → a = 19 dibaca 7.
-- **D salah** — Salah jabar: 2(4) + a = 5(4) − 7 dibaca 8 + a = 17 → a = 9.
+- **A salah** — Pengurangan dibalik: a = 8 − 13 = −5.
+- **B benar** — 2(4) + a = 5(4) − 7 → 8 + a = 13 → a = 5. Cek: 8 + 5 = 13 ✓.
+- **C salah** — −7 dibaca +7: 8 + a = 27 → a = 19.
+- **D salah** — 8 dipindah tanpa mengubah tanda: a = 13 + 8 = 21.
 
 ---
 
 **95.** Dua bilangan memiliki rasio 3 : 5. Jika selisihnya 14, jumlah kedua bilangan tersebut adalah ....
 
-- A. 56
-- B. 35
-- C. 21
-- D. 56
-
-(Direvisi opsi unik:)
-
-**95.** Dua bilangan memiliki rasio 3 : 5. Jika selisihnya 14, jumlah kedua bilangan tersebut adalah ....
-
 - A. 35
-- B. 28
+- B. 8
 - C. 21
 - D. 56
 
 **Kunci: D**
 **Pembahasan:**
-- **A salah** — Mengambil bilangan besar (5k = 35) bukan jumlah.
-- **B salah** — Mengambil 2 × 14 = 28 (salah konsep).
-- **C salah** — Mengambil bilangan kecil (3k = 21).
-- **D benar** — Misal bilangan = 3k dan 5k. Selisih: 5k − 3k = 14 → 2k = 14 → k = 7. Bilangan: 21 dan 35; jumlah = 56. Cek: 35 − 21 = 14; 35 + 21 = 56 ✓.
+- **A salah** — 35 adalah bilangan yang besar (5k), bukan jumlahnya.
+- **B salah** — 3 + 5 = 8 adalah jumlah bagian rasio; lupa dikalikan k = 7.
+- **C salah** — 21 adalah bilangan yang kecil (3k).
+- **D benar** — 5k − 3k = 14 → k = 7. Bilangan 21 dan 35; jumlah = 56. Cek: 35 − 21 = 14 ✓.
 
 ---
 
@@ -1928,37 +1733,19 @@ Cek: A − 4 = 5(a − 4) → A = 5a − 16. A + 8 = 2(a + 8) → A = 2a + 8. Ma
 
 ---
 
-**97.** Suatu segitiga memiliki sudut-sudut (x + 10)°, (2x − 20)°, dan (3x)°. Sudut terbesarnya adalah ....
-
-- A. 50°
-- B. 95°
-
-(Sesuaikan opsi unik:)
-
-**97.** Suatu segitiga memiliki sudut-sudut (x + 10)°, (2x − 20)°, dan (3x)°. Sudut terbesarnya adalah ....
-
-- A. 50°
-- B. 95°
-- C. 60°
-- D. 75°
-
-**Kunci: B**
-
-Cek: jumlah sudut segitiga 180°. (x + 10) + (2x − 20) + 3x = 180 → 6x − 10 = 180 → 6x = 190 → x ≈ 31,67 (tidak bulat). **Revisi sudut:**
-
-**97.** Suatu segitiga memiliki sudut-sudut (x)°, (2x − 10)°, dan (3x + 10)°. Sudut terbesarnya adalah ....
+**97.** Suatu segitiga memiliki sudut-sudut x°, (2x − 10)°, dan (3x + 10)°. Sudut terbesarnya adalah ....
 
 - A. 50°
 - B. 100°
-- C. 60°
-- D. 75°
+- C. 30°
+- D. 90°
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Mengambil sudut kedua (2x − 10 = 50°), bukan terbesar.
-- **B benar** — Jumlah sudut: x + (2x − 10) + (3x + 10) = 180 → 6x = 180 → x = 30. Sudut: 30°, 50°, 100°. Terbesar = 3x + 10 = 100°. Cek: 30 + 50 + 100 = 180 ✓.
-- **C salah** — Salah hitung: 3x = 60 → 60 + 10 = 70 dibaca 60.
-- **D salah** — Salah model: 3(25) = 75 (salah x).
+- **A salah** — 50° adalah sudut kedua (2x − 10), bukan yang terbesar.
+- **B benar** — x + (2x − 10) + (3x + 10) = 180 → 6x = 180 → x = 30. Sudut: 30°, 50°, 100°. Terbesar = 100°.
+- **C salah** — 30 adalah nilai x, bukan besar sudut terbesar.
+- **D salah** — Hanya 3x = 90 yang dihitung; +10 terlupa.
 
 ---
 
@@ -2034,7 +1821,7 @@ Cek: jumlah sudut segitiga 180°. (x + 10) + (2x − 20) + 3x = 180 → 6x − 1
 | 53. B | 63. D | 73. A | 83. D | 93. A |
 | 54. C | 64. C | 74. B | 84. C | 94. B |
 | 55. A | 65. B | 75. D | 85. B | 95. D |
-| 56. D | 66. A | 76. C | 86. A | 96. C |
+| 56. C | 66. A | 76. C | 86. A | 96. C |
 | 57. B | 67. D | 77. B | 87. D | 97. B |
 | 58. C | 68. C | 78. A | 88. C | 98. A |
 | 59. A | 69. A | 79. D | 89. A | 99. D |
@@ -2046,10 +1833,10 @@ Penghitungan per huruf:
 
 - **A** (25 soal): 4, 7, 15, 19, 22, 25, 29, 33, 36, 40, 44, 47, 51, 55, 59, 62, 66, 69, 73, 78, 81, 86, 89, 93, 98
 - **B** (25 soal): 2, 5, 9, 13, 18, 23, 26, 30, 34, 38, 41, 46, 49, 53, 57, 61, 65, 70, 74, 77, 82, 85, 90, 94, 97
-- **C** (25 soal): 1, 6, 10, 11, 14, 17, 21, 28, 32, 37, 42, 45, 50, 54, 58, 64, 68, 72, 76, 80, 84, 88, 92, 96, 100
-- **D** (25 soal): 3, 8, 12, 16, 20, 24, 27, 31, 35, 39, 43, 48, 52, 56, 60, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99
+- **C** (26 soal): 1, 6, 10, 11, 14, 17, 21, 28, 32, 37, 42, 45, 50, 54, 56, 58, 64, 68, 72, 76, 80, 84, 88, 92, 96, 100
+- **D** (24 soal): 3, 8, 12, 16, 20, 24, 27, 31, 35, 39, 43, 48, 52, 60, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99
 
-**Distribusi A: 25 · B: 25 · C: 25 · D: 25** — perfectly balanced (25/25/25/25), tidak ada kecondongan satu huruf. Kunci tersebar acak antar tingkat (Kab/Prov/Nas) sehingga tidak ada pola "semua B" atau "semua A" yang dapat ditebak siswa.
+**Distribusi A: 25 · B: 25 · C: 26 · D: 24** — hampir seimbang, tidak ada kecondongan satu huruf. Kunci tersebar acak antar tingkat (Kab/Prov/Nas) sehingga tidak ada pola "semua B" atau "semua A" yang dapat ditebak siswa.
 
 ---
 

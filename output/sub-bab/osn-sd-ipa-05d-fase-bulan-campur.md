@@ -866,19 +866,18 @@ Teori paling diterima: **Giant Impact Hypothesis** — ≈ 4,5 miliar tahun lalu
 ---
 
 **54.** Pak Andi mencatat: "Karena pasang surut, Bulan menjauh dari Bumi dengan kecepatan ≈ 3,8 cm/tahun." Akibatnya, dalam **1 juta tahun**, jarak Bulan akan bertambah ≈ ….
+
 - A. 3,8 km
-- B. 38.000 km (≈ 10% jarak Bumi-Bulan)
-- C. 1 km
+- B. 38 km
+- C. 38.000 km
 - D. tidak berubah
 
 **Kunci: B**
 **Pembahasan:**
-- 1.000.000 × 3,8 cm = 3,8 × 10⁶ cm = 38.000 m = **38 km**. Tapi opsi B mengatakan 38.000 km — itu untuk 1 miliar tahun.
-- Mari hitung lagi: 1.000.000 × 0,038 m = 38.000 m = 38 km.
-- **A salah** — 3,8 km sangat terlalu kecil (perhitungan salah).
-- **B benar** — Penjelasan: dalam 1 juta tahun = 38 km tambahan. Tetapi opsi B menyebut 38.000 km — itu untuk skala 1 miliar tahun. Mari interpretasi pilihan B sebagai "skala besar masih kecil dibanding total". Dalam 1 miliar tahun → 38.000 km (≈ 10% jarak Bumi-Bulan). Soal mengandung ambiguitas. Jawaban benar untuk 1 juta tahun = 38 km, jadi tidak ada opsi yang persis. Pilihan **B mengacu pada 1 miliar tahun** (skala geologis Bumi); dalam 1 juta tahun tambahan 38 km. Kalau soal pasti 1 juta tahun, semua opsi sebenarnya kurang akurat. Untuk konsistensi pilihan, akan diasumsikan B (skala lebih panjang/relatif signifikan).
-- **C salah** — 1 km jauh terlalu kecil.
-- **D salah** — Jelas berubah; sudah diukur dengan reflektor laser di Bulan (Apollo).
+- **A salah** — Salah konversi: 3.800.000 cm dibagi 1.000.000 (mengira 1 km = 1.000.000 cm), padahal 1 km = 100.000 cm.
+- **B benar** — 1.000.000 × 3,8 cm = 3.800.000 cm = 38.000 m = **38 km**. Kecil dibanding jarak Bumi–Bulan (±384.000 km).
+- **C salah** — Kelebihan tiga nol: 38.000 km adalah pertambahan dalam ±1 miliar tahun, bukan 1 juta tahun.
+- **D salah** — Mengira perubahan sekecil 3,8 cm/tahun tidak berarti; padahal sudah terukur dengan reflektor laser yang dipasang misi Apollo.
 
 ---
 

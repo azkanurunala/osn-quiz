@@ -2232,9 +2232,9 @@ Berapa **persentase** siswa yang nilainya minimal 70?
 ## BAGIAN III · CATATAN KUNCI
 
 **Distribusi kunci jawaban (100 soal):**
-- **A**: 22 soal
+- **A**: 23 soal
 - **B**: 26 soal
-- **C**: 31 soal
+- **C**: 30 soal
 - **D**: 21 soal
 - **Total**: 100 soal. (Catatan: distribusi sedikit condong ke C; tidak di-rebalance setelah pengembangan agar kunci tiap soal tetap apa adanya sesuai logika jawaban.)
 

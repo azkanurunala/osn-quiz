@@ -1964,11 +1964,11 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 | No | Kunci | No | Kunci | No | Kunci | No | Kunci | No | Kunci |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | D | 21 | D | 41 | C | 61 | A | 81 | B |
-| 2 | B | 22 | B | 42 | D | 62 | B | 82 | A |
+| 2 | B | 22 | D | 42 | D | 62 | B | 82 | A |
 | 3 | A | 23 | C | 43 | B | 63 | D | 83 | B |
 | 4 | C | 24 | C | 44 | C | 64 | A | 84 | A |
 | 5 | D | 25 | B | 45 | A | 65 | C | 85 | A |
-| 6 | B | 26 | B | 46 | C | 66 | A | 86 | A |
+| 6 | D | 26 | B | 46 | C | 66 | A | 86 | A |
 | 7 | A | 27 | B | 47 | C | 67 | B | 87 | A |
 | 8 | C | 28 | C | 48 | D | 68 | C | 88 | C |
 | 9 | C | 29 | B | 49 | B | 69 | D | 89 | B |
@@ -1976,7 +1976,7 @@ Soal cerita multi-langkah, sistem debit netto kompleks, kapasitas dengan ruang u
 | 11 | A | 31 | A | 51 | B | 71 | A | 91 | B |
 | 12 | C | 32 | C | 52 | D | 72 | A | 92 | A |
 | 13 | B | 33 | B | 53 | C | 73 | C | 93 | B |
-| 14 | B | 34 | A | 54 | C | 74 | B | 94 | B |
+| 14 | D | 34 | A | 54 | C | 74 | B | 94 | B |
 | 15 | C | 35 | B | 55 | D | 75 | C | 95 | C |
 | 16 | B | 36 | C | 56 | B | 76 | A | 96 | A |
 | 17 | D | 37 | A | 57 | C | 77 | B | 97 | A |

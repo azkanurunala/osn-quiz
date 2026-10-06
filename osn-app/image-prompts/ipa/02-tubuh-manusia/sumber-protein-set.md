@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02i
 - **Objek (EN):** protein-rich foods arranged in a tidy row
-- **Soal terkait:** 1035 soal di 181 file
+- **Soal terkait:** 1034 soal di 181 file
   - `ipa-01f-reproduksi-hewan-campur` (44)
   - `ipa-01b-klasifikasi-hewan-campur` (31)
   - `ipa-06b-keanekaragaman-hayati-sulit` (31)

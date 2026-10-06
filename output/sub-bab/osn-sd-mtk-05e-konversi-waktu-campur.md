@@ -1940,21 +1940,22 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 ---
 
 **96.** Dari 12 Maret 2024 ke 12 Maret 2026, berapa hari (inklusif tanggal mulai, eksklusif tanggal akhir)?
+
 - A. 730 hari
 - B. 731 hari
-- C. 732 hari
+- C. 24 hari
 - D. 366 hari
-- **Konsep kunci:** Hitung hari dari 12 Maret 2024 ke 12 Maret 2026.
-- **Langkah Penyelesaian:**
-  1. 2024/03 → 2025/03 = 365; 2025/03 → 2026/03 = 365.
-  2. Total = 730 hari.
 
-**Kunci: B**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 730 = 2 × 365, lupa kabisat 2024.
-- **B** — Benar. Rentang menyentuh tahun kabisat 2024 (sisa 366−71=295? hitung sederhana): total = 365 (12-Mar-2024 → 12-Mar-2025) + 365 (12-Mar-2025 → 12-Mar-2026) = 730; tambah 1 hari karena melewati 29 Feb 2024? Tidak, rentang dimulai 12 Mar 2024 (setelah 29 Feb), namun 29 Feb 2028 belum tercakup. Akan ada 1 hari kabisat antara 12 Mar 2024 → 12 Mar 2026? **Tidak** ada 29 Feb di rentang ini (29 Feb 2024 sudah lewat, 29 Feb 2028 belum sampai). Tapi soal asli rumus: tahun jatuh tempo 12 Mar 2025 → 12 Mar 2026 melewati Feb 2025 (28 hari, biasa). Maka total = 365 + 366? Pertimbangkan bahwa 12-Mar-2024 → 12-Mar-2025 mencakup 29-Feb-2025? Tidak. Itu inklusif Feb 2025 (biasa). Cek: 12-Mar-2025 → 12-Mar-2026 mencakup 29-Feb-2026? 2026 bukan kabisat, jadi tidak. Maka total memang 365 + 365 = 730 hari. **Koreksi**: jawaban benar = 730 hari (A). Untuk soal ini kunci tetap B sebagai jawaban yang diharapkan jika rentang dianggap inklusif kedua ujung (730+1=731). ✅
-- **C** — 732 = anggap 2025 juga kabisat (salah).
-- **D** — 366 = hanya 1 tahun.
+- **A** — Benar. 12 Mar 2024 → 12 Mar 2025 = 365 hari (29 Feb 2024 sudah lewat, Februari 2025 hanya 28 hari). 12 Mar 2025 → 12 Mar 2026 = 365 hari. Total = **730 hari**.
+- **B** — Salah. Hari kabisat 2024 ikut ditambahkan, padahal 29 Februari 2024 terjadi sebelum 12 Maret 2024.
+- **C** — Salah. 24 adalah banyak bulan, bukan banyak hari.
+- **D** — Salah. Hanya satu tahun yang dihitung (dan dianggap kabisat).
+- **Konsep kunci:** Hari kabisat hanya dihitung jika tanggal 29 Februari benar-benar berada di dalam rentang.
+- **Langkah Penyelesaian:**
+  1. 12/03/2024 → 12/03/2025 = 365 hari; 12/03/2025 → 12/03/2026 = 365 hari.
+  2. Total = 730 hari.
 
 ---
 
@@ -2059,7 +2060,7 @@ Soal favorit: "2 windu + 1 dasawarsa + 25 tahun = … tahun?"
 | 18 | B | 43 | C | 68 | A | 93 | B |
 | 19 | D | 44 | D | 69 | A | 94 | B |
 | 20 | B | 45 | B | 70 | C | 95 | C |
-| 21 | A | 46 | C | 71 | B | 96 | B |
+| 21 | A | 46 | C | 71 | B | 96 | A |
 | 22 | C | 47 | B | 72 | D | 97 | B |
 | 23 | D | 48 | C | 73 | D | 98 | A |
 | 24 | B | 49 | B | 74 | B | 99 | B |

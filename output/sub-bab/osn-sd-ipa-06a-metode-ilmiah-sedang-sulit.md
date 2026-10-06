@@ -2071,14 +2071,14 @@ D. Menyimpulkan tanpa memperhatikan titik itu
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Penanganan data outiler (janggal) dalam interpretasi grafik.
+- **Konsep yang diuji:** Penanganan data outlier (janggal) dalam interpretasi grafik.
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Membuang agar rapi** — Salah. "Agar rapi" bukan alasan ilmiah; membuang data = curang.
   - **B. Periksa ulang, kalau benar catat + tanda tanya** — Benar. Cek kemungkinan kesalahan alat, lalu putuskan dengan jujur.
   - **C. Menggambar ulang jadi 7 cm** — Salah. Memalsukan titik adalah kecurangan.
   - **D. Mengabaikan titik itu** — Salah. Titik janggal justru menarik untuk diselidiki, bukan diabaikan.
 - **Langkah Penyelesaian:**
-  1. Titik janggal → cek ulang dulu sumbernya.
+  1. Titik janggal → periksa dulu sumbernya.
   2. Tetap cantumkan dengan keterangan; jangan pernah diam-diam membuang.
 - **Hasil akhir:** Periksa ulang dan catat dengan tanda tanya.
 - **💭 Tips:** Outlier bukan musuh — ia bisa jadi alat rusak, atau justru temuan penting. Selidiki sebelum menyingkirkannya.

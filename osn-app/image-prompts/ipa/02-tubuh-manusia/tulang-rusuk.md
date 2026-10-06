@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02f, 02b
 - **Objek (EN):** a human rib cage model
-- **Soal terkait:** 497 soal di 46 file
+- **Soal terkait:** 499 soal di 47 file
   - `mtk-04b-volume-kubus-campur` (92)
   - `mtk-04g-lp-kubus-campur` (62)
   - `mtk-04a-elemen-bangun-ruang-campur` (55)

@@ -1242,16 +1242,16 @@ Gerhana hanya terjadi saat bulan baru/purnama **bersamaan dengan** Bulan dekat d
 
 **79.** Pak Hadi menjelaskan, "Bila kita memprediksi gerhana matahari pada tahun **2500**, kita gunakan ….
 - A. mistik
-- B. ekstrapolasi orbit Bumi + Bulan dengan komputer presisi, koreksi pasang surut (rotasi Bumi melambat → posisi geografis bayangan bisa bergeser puluhan km dalam 500 tahun)
+- B. ekstrapolasi orbit Bumi + Bulan dengan komputer presisi, penyesuaian pasang surut (rotasi Bumi melambat → posisi geografis bayangan bisa bergeser puluhan km dalam 500 tahun)
 - C. tidak bisa diprediksi
-- D. tunggu sampai tahun 2500
+- D. baru bisa diketahui saat tahun 2500 tiba
 
 **Kunci: B**
 **Pembahasan:**
-- **A salah** — Bukan mistik; sains.
-- **B benar** — Prediksi gerhana 500 tahun ke depan menggunakan: (1) **ekstrapolasi orbit** presisi tinggi (model numerik); (2) **koreksi pasang surut** — rotasi Bumi melambat ≈ 1,7 ms/abad → dalam 500 tahun, posisi geografis bayangan bisa **bergeser puluhan kilometer**. Faktor "ΔT" (selisih waktu universal/atom dengan waktu rotasi Bumi) jadi penting. Kanon Fred Espenak (NASA) dan IMCCE (Prancis) sudah ekstrapolasi sampai tahun 3000+.
-- **C salah** — Bisa diprediksi.
-- **D salah** — Bisa diprediksi sebelumnya.
+- **A salah** — Gerhana adalah peristiwa alam yang bisa dihitung dengan sains, bukan pertanda mistik.
+- **B benar** — Prediksi gerhana 500 tahun ke depan menggunakan: (1) **ekstrapolasi orbit** presisi tinggi (model numerik); (2) **penyesuaian pasang surut** — rotasi Bumi melambat ≈ 1,7 ms/abad → dalam 500 tahun, posisi geografis bayangan bisa **bergeser puluhan kilometer**. Faktor "ΔT" (selisih waktu universal/atom dengan waktu rotasi Bumi) jadi penting. Kanon Fred Espenak (NASA) dan IMCCE (Prancis) sudah ekstrapolasi sampai tahun 3000+.
+- **C salah** — Mengira masa depan yang jauh tidak bisa dihitung; gerak Bumi dan Bulan mengikuti hukum fisika yang teratur.
+- **D salah** — Mengira gerhana hanya bisa diketahui saat terjadi; gerak Bumi dan Bulan teratur sehingga bisa dihitung jauh sebelumnya.
 
 ---
 

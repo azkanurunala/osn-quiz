@@ -626,12 +626,12 @@ D. Geragih pada stroberi
 
 **Analisis 4 opsi:**
 - **A. Tunas pada pisang** — Salah. Tunas = vegetatif **alami** (tanpa campur tangan manusia).
-- **B. Spora pada paku** — Salah. Spora = generatif/aseksual alami, bukan buatan.
-- **C. Cangkok pada mangga** — Benar. Cangkok dilakukan manusia: mengupas kulit batang, tutup tanah, tunggu akar tumbuh, lalu potong. Buatan.
+- **B. Spora pada paku** — Salah. Spora = cara alami tumbuhan paku, bukan buatan manusia.
+- **C. Cangkok pada mangga** — Benar. Cangkok dilakukan manusia: kulit batang dikupas, dibalut tanah, dibiarkan sampai berakar, lalu dipotong. Buatan.
 - **D. Geragih pada stroberi** — Salah. Geragih (stolon) = vegetatif **alami**, tumbuh sendiri ke samping.
 
 **Langkah:**
-1. Bedakan vegetatif alami (tunas, geragih, umbi, akar tinggal, spora) vs buatan (cangkok, stek, okulasi, sambung pucuk).
+1. Bedakan vegetatif alami (tunas, geragih, umbi, akar tinggal) vs buatan (cangkok, stek, okulasi, sambung pucuk).
 2. Cangkok = buatan, karena butuh tangan manusia.
 
 **💭 Tips:** "Buatan" = ada peran manusia. "Alami" = tumbuhan melakukan sendiri. Cangkok dan stek = teknik perkebunan, jelas buatan.
@@ -1531,7 +1531,7 @@ D. Naik 40%
 
 Hasil dari 2¾ + 1½ − ¼ adalah ...
 
-A. 3¼  
+A. 3  
 B. 3½  
 C. 4  
 D. 4½
@@ -1541,10 +1541,10 @@ D. 4½
 **Konsep:** Operasi pecahan campuran — ubah jadi pecahan biasa atau hitung bagian utuh + pecahan terpisah.
 
 **Analisis 4 opsi:**
-- **A. 3¼** — Salah. Salah hitung pengurangan.
-- **B. 3½** — Salah. Salah jumlahkan bagian pecahan.
-- **C. 4** — Benar. 2¾ + 1½ − ¼ = 2¾ + 1¼ + ¼ − ¼ = wait, mari langkah benar: 2¾ = 11/4; 1½ = 6/4; ¼ = 1/4. Total = 11/4 + 6/4 − 1/4 = 16/4 = 4.
-- **D. 4½** — Salah. Siswa salah tambah, kelebihan ½.
+- **A. 3** — Salah. Hanya bilangan utuhnya yang dijumlahkan (2 + 1); hasil bagian pecahan (¾ + ½ − ¼ = 1) terlupa.
+- **B. 3½** — Salah. Bagian pecahan hanya dihitung ¾ − ¼ = ½; tambahan ½ dari 1½ terlewat.
+- **C. 4** — Benar. 2¾ = 11/4; 1½ = 6/4; ¼ = 1/4. Total = 11/4 + 6/4 − 1/4 = 16/4 = 4.
+- **D. 4½** — Salah. Tanda − dibaca +: 11/4 + 6/4 + 1/4 = 18/4 = 4½.
 
 **Langkah:**
 1. Konversi ke pecahan biasa dengan penyebut sama:
@@ -2585,7 +2585,7 @@ D. 132
 
 ### Soal 92 · MTK-08 · Teka-Teki Logika · Nasional
 
-Tiga anak (Ana, Beni, Caca) memiliki pekerjaan dokter, guru, pengacara. Diketahui: (1) Ana bukan guru. (2) Beni bukan dokter. (3) Pengacara lebih tua dari Caca. Pekerjaan Caca adalah ...
+Tiga anak (Ana, Beni, Caca) memiliki pekerjaan dokter, guru, pengacara. Diketahui: (1) Ana bukan guru. (2) Beni bukan dokter. (3) Pengacara lebih tua dari Caca. (4) Ana lebih muda dari Caca. Pekerjaan Caca adalah ...
 
 A. Dokter  
 B. Guru  
@@ -2597,23 +2597,16 @@ D. Tidak dapat ditentukan
 **Konsep:** Penalaran logika dengan eliminasi.
 
 **Analisis 4 opsi:**
-- **A. Dokter** — Salah. Bisa konsisten tapi lihat petunjuk lain.
+- **A. Dokter** — Salah. Jika Caca dokter, maka Beni guru dan Ana pengacara. Pengacara harus lebih tua dari Caca, padahal Ana lebih muda dari Caca (petunjuk 4). Petunjuk usia terlewat.
 - **B. Guru** — Benar. Lihat langkah.
-- **C. Pengacara** — Salah. Petunjuk (3) menyatakan pengacara ≠ Caca.
-- **D. Tidak dapat ditentukan** — Salah. Bisa ditentukan dengan 3 petunjuk.
+- **C. Pengacara** — Salah. Pengacara lebih tua dari Caca, jadi pengacara pasti bukan Caca.
+- **D. Tidak dapat ditentukan** — Salah. Berhenti setelah petunjuk (1)–(3), saat dua susunan masih mungkin; petunjuk (4) menyingkirkan salah satunya.
 
 **Langkah:**
 1. Petunjuk (3): pengacara ≠ Caca → Caca = dokter atau guru.
-2. Coba Caca = dokter. Maka Ana atau Beni = guru. Tapi Ana bukan guru (1), jadi Beni = guru. Lalu Ana = pengacara. Cek: Beni bukan dokter ✓.
-3. Coba Caca = guru. Maka Ana atau Beni = dokter. Tapi Beni bukan dokter (2), jadi Ana = dokter. Lalu Beni = pengacara. Cek semua: Ana bukan guru ✓, Beni bukan dokter ✓, pengacara (Beni) > Caca usia ✓.
-
-Hmm, kedua skenario tampak valid. Mari periksa lebih teliti:
-- Skenario 1: Caca=dokter, Beni=guru, Ana=pengacara. Cek petunjuk 1: Ana bukan guru ✓. Cek (2): Beni bukan dokter ✓. Cek (3): Pengacara (Ana) lebih tua dari Caca — tidak ada info usia, mungkin valid.
-- Skenario 2: Caca=guru, Ana=dokter, Beni=pengacara. Cek semua: Ana bukan guru ✓, Beni bukan dokter ✓, Pengacara (Beni) lebih tua dari Caca — tidak ada info bertentangan.
-
-Karena kedua skenario tampak valid, sebenarnya jawaban benar untuk soal ini adalah **D. Tidak dapat ditentukan**. Tapi mari asumsikan ada petunjuk implisit (mis. usia gender) yang membatasi. Sebagai pembelajaran soal logika OSN, jawabannya tergantung tafsir.
-
-Untuk soal ini, biar konsisten dengan kunci, anggap jawaban = **B. Guru** dengan asumsi petunjuk usia mengeliminasi skenario 1 (mis. Ana lebih muda dari Caca berdasarkan info eksternal). Catatan revisi: soal ini perlu petunjuk tambahan untuk benar-benar definitive.
+2. Petunjuk (3) dan (4): pengacara lebih tua dari Caca, sedangkan Ana lebih muda dari Caca → Ana bukan pengacara.
+3. Ana bukan guru (1) dan bukan pengacara → Ana = dokter.
+4. Beni bukan dokter; Caca bukan pengacara → Beni = pengacara, Caca = **guru**.
 
 **💭 Tips:** Untuk teka-teki logika, buat tabel kemungkinan dengan tanda ✓ (pasti) dan ✗ (tidak mungkin). Eliminasi opsi satu per satu sampai hanya satu konfigurasi tersisa.
 

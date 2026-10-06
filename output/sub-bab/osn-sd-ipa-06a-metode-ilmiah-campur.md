@@ -2348,11 +2348,11 @@ D. Perlu memakai burung pengganti
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Jenis ayam berbeda** — Benar. Beda jenis ayam berarti dua variabel berubah (jenis ayam + obat); sulit memastikan efek obat.
   - **B. Obat terlalu mahal** — Salah. Harga bukan masalah keadilan ilmiah (desain), walau soal biaya; pertanyaan ini fokus ke validitas.
-  - **C. Ayam terlalu sedikit** — Hmm, silakan: "3 ekor memang sedikit, tetapi yang membuat TIDAK ADIL adalah perbedaan jenis; jumlah bisa diperbaiki tanpa mengubah jenis."
+  - **C. Ayam terlalu sedikit** — Salah. 3 ekor memang sedikit, tetapi yang membuat percobaan TIDAK ADIL adalah perbedaan jenis ayam; menambah jumlah ayam tidak menghilangkan perbedaan itu.
   - **D. Memakai burung pengganti** — Salah. Mengganti hewan uji justru menambah variabel baru yang mengacaukan.
 
 - **Langkah Penyelesaian:**
-  1. Kelompok pembanding harus ikan dari jenis dan ukuran yang sebanding.
+  1. Kelompok pembanding harus ayam dari jenis dan ukuran yang sebanding.
   2. Beda jenis = beda lebih dari satu hal → tidak adil.
 - **Hasil akhir:** Jenis ayam antar kelompok berbeda.
 
@@ -3071,7 +3071,7 @@ D. Kesimpulan awal
   2. Faktor itu "mengganggu" kejelasan sebab-akibat → pengganggu (confounding).
 - **Hasil akhir:** Variabel pengganggu.
 
-- **💭 Tips:** Kata kunci "tidak sengaja ikut berbeda", "kebetulan juga", "hmm, mungkin karena hal lain" → variabel pengganggu.
+- **💭 Tips:** Kata kunci "tidak sengaja ikut berbeda", "kebetulan juga", "mungkin karena hal lain" → variabel pengganggu.
 
 ---
 

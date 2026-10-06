@@ -2263,8 +2263,8 @@ D. 78
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. 73** — Salah. Itu data yang baru ditambah, bukan median.
   - **B. 75** — Benar. Setelah masuk 73, urutan: 60, 65, 70, 72, 73, 75, 78, 80, 82, 85, 90 (n=11). Median = data ke-6 = 75.
-  - **C. 76** — Salah. Siswa pakai rata-rata median lama (76,5) dengan data baru.
-  - **D. 78** — Salah. Siswa pakai data ke-7, atau salah urut.
+  - **C. 76** — Salah. Median lama (75 + 78)/2 = 76,5 dibulatkan; data baru tidak diperhitungkan.
+  - **D. 78** — Salah. Data ke-6 dari daftar LAMA diambil; urutan setelah 73 masuk tidak disusun ulang.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Sebelum: 10 data, median = (75+78)/2 = 76,5.
@@ -2273,7 +2273,7 @@ D. 78
 
 - **Hasil akhir:** Median baru = 75.
 
-- **Tips:** Setelah penambahan, n berubah. Cek ulang posisi median (n+1)/2 untuk n ganjil.
+- **Tips:** Setelah penambahan, n berubah. Tentukan lagi posisi median (n+1)/2 untuk n ganjil.
 
 ---
 

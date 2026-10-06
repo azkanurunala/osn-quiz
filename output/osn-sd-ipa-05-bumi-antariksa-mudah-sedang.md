@@ -297,9 +297,9 @@ D. Mars
   - **D. Mars** — Salah. Mars adalah planet **keempat**, lebih jauh dari Bumi. Mars sering dikira dekat karena sering dibahas dalam misi luar angkasa.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Hafalkan urutan 8 planet pakai mnemonic: "**Me**ngapa **Ve**nus **Bu**mi **Ma**ri **Ju**ga **Sa**ndar **U**dara **Ne**egeri".
+  1. Hafalkan urutan 8 planet pakai mnemonic: "**Me**ngapa **Ve**nus **Bu**mi **Ma**ri **Ju**ga **Sa**ndar **U**dara **Ne**geri".
   2. Yang pertama (paling dekat Matahari) = Merkurius.
-  3. Cek ulang: jarak rata-rata Merkurius ke Matahari hanya 58 juta km, lebih dekat dari semua planet lain.
+  3. Faktanya: jarak rata-rata Merkurius ke Matahari hanya 58 juta km, lebih dekat dari semua planet lain.
 
 - **Hasil akhir:** Merkurius adalah planet paling dekat dengan Matahari.
 
@@ -1846,7 +1846,7 @@ D. Letusan kembang api
   - Gempa kuat di pesisir
   - Air laut tiba-tiba surut jauh dari biasanya
   - Suara mendengung dari laut
-  Saat tanda ini muncul → segera lari ke tempat tinggi! Jangan tunggu peringatan resmi.
+  Saat tanda ini muncul → segera lari ke tempat tinggi! Jangan menunggu peringatan resmi.
 
 ---
 

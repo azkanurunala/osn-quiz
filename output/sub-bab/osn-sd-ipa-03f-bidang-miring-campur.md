@@ -3661,84 +3661,84 @@ D. Bidang miring adalah mesin yang menghasilkan energi gratis
 
 | No | Jawaban | Sub-topik | Tingkat |
 |----|---------|-----------|---------|
-| 1 | B | Definisi bidang miring | Kab |
-| 2 | C | Fungsi bidang miring | Kab |
-| 3 | B | Klasifikasi pesawat sederhana | Kab |
-| 4 | C | Rumus B·h = K·L | Kab |
-| 5 | B | KM = L/h | Kab |
+| 1 | A | Definisi bidang miring | Kab |
+| 2 | B | Fungsi bidang miring | Kab |
+| 3 | D | Klasifikasi pesawat sederhana | Kab |
+| 4 | B | Rumus B·h = K·L | Kab |
+| 5 | A | KM = L/h | Kab |
 | 6 | B | KM = B/K | Kab |
 | 7 | B | Hitung K dari B, h, L | Kab |
-| 8 | C | Hitung KM dari L, h | Kab |
-| 9 | C | Untung gaya rugi jarak | Kab |
+| 8 | B | Hitung KM dari L, h | Kab |
+| 9 | B | Untung gaya rugi jarak | Kab |
 | 10 | B | Curam vs landai | Kab |
-| 11 | C | Modifikasi sekrup | Kab |
-| 12 | C | Modifikasi baji | Kab |
-| 13 | B | Modifikasi pisau | Kab |
-| 14 | B | Aplikasi ramp | Kab |
+| 11 | B | Modifikasi sekrup | Kab |
+| 12 | B | Modifikasi baji | Kab |
+| 13 | C | Modifikasi pisau | Kab |
+| 14 | C | Aplikasi ramp | Kab |
 | 15 | B | Aplikasi jalan zigzag | Kab |
 | 16 | B | Aplikasi tangga | Kab |
-| 17 | C | Hitung L dari B, K, h | Kab |
+| 17 | B | Hitung L dari B, K, h | Kab |
 | 18 | B | Hitung h dari B, K, L | Kab |
 | 19 | B | Hitung B dari K, h, L | Kab |
-| 20 | B | KM = L/h sederhana | Kab |
+| 20 | D | KM = L/h sederhana | Kab |
 | 21 | B | KM = B/K sederhana | Kab |
 | 22 | B | Identifikasi pesawat sederhana | Kab |
-| 23 | C | Sekrup mata pisau | Kab |
+| 23 | A | Sekrup mata pisau | Kab |
 | 24 | B | Bidang miring di alam | Kab |
 | 25 | B | Definisi modifikasi | Kab |
-| 26 | C | Hitung K | Kab |
-| 27 | B | Hitung KM | Kab |
+| 26 | B | Hitung K | Kab |
+| 27 | C | Hitung KM | Kab |
 | 28 | C | Hitung L | Kab |
-| 29 | B | Hitung h | Kab |
+| 29 | C | Hitung h | Kab |
 | 30 | B | Hitung B | Kab |
 | 31 | B | KM curam | Kab |
 | 32 | B | KM landai | Kab |
-| 33 | B | Pisau diasah | Kab |
+| 33 | C | Pisau diasah | Kab |
 | 34 | B | Sekrup pitch kecil | Kab |
-| 35 | B | Tangga landai | Kab |
-| 36 | C | Hitung K dari KM | Kab |
+| 35 | A | Tangga landai | Kab |
+| 36 | B | Hitung K dari KM | Kab |
 | 37 | B | Hitung KM dari B/K | Kab |
 | 38 | B | Trade-off gaya jarak | Kab |
-| 39 | B | Konsep usaha | Kab |
-| 40 | B | Definisi pesawat sederhana | Kab |
+| 39 | C | Konsep usaha | Kab |
+| 40 | C | Definisi pesawat sederhana | Kab |
 | 41 | C | Hitung KM dari sudut | Kab |
-| 42 | B | Aplikasi mobil tangki | Kab |
+| 42 | A | Aplikasi mobil tangki | Kab |
 | 43 | B | Aplikasi truk | Kab |
 | 44 | B | Aplikasi peternakan | Kab |
 | 45 | B | Bidang miring di rumah | Kab |
 | 46 | B | Hitung K dengan rumus | Kab |
-| 47 | C | Hitung L dengan rumus | Kab |
+| 47 | B | Hitung L dengan rumus | Kab |
 | 48 | B | Hitung KM | Kab |
 | 49 | B | Sekrup KM tinggi | Kab |
 | 50 | B | Sintesis Kab | Kab |
-| 51 | B | KM bidang miring vs sudut | Prov |
+| 51 | C | KM bidang miring vs sudut | Prov |
 | 52 | B | Hubungan B-K-h-L | Prov |
 | 53 | C | KM gabungan teoritis | Prov |
-| 54 | B | Aplikasi konstruksi | Prov |
-| 55 | B | Hitung KM sekrup | Prov |
-| 56 | B | Hitung K pakai gesekan | Prov |
+| 54 | C | Aplikasi konstruksi | Prov |
+| 55 | C | Hitung KM sekrup | Prov |
+| 56 | C | Hitung K pakai gesekan | Prov |
 | 57 | C | Efisiensi bidang miring | Prov |
-| 58 | B | Sudut & KM | Prov |
-| 59 | B | Aplikasi tepi koin | Prov |
-| 60 | B | Hitung B dari sudut | Prov |
-| 61 | C | Hitung jarak vertikal | Prov |
-| 62 | B | Trade-off energi | Prov |
-| 63 | B | Modifikasi baji ganda | Prov |
-| 64 | B | Aplikasi mata kapak | Prov |
-| 65 | B | Aplikasi mata bor | Prov |
-| 66 | B | Aplikasi paku | Prov |
-| 67 | C | Hitung K kompleks | Prov |
+| 58 | A | Sudut & KM | Prov |
+| 59 | A | Aplikasi tepi koin | Prov |
+| 60 | A | Hitung B dari sudut | Prov |
+| 61 | A | Hitung jarak vertikal | Prov |
+| 62 | A | Trade-off energi | Prov |
+| 63 | A | Modifikasi baji ganda | Prov |
+| 64 | A | Aplikasi mata kapak | Prov |
+| 65 | D | Aplikasi mata bor | Prov |
+| 66 | C | Aplikasi paku | Prov |
+| 67 | A | Hitung K kompleks | Prov |
 | 68 | B | Hitung L kompleks | Prov |
 | 69 | B | KM aktual vs teoritis | Prov |
-| 70 | B | Sintesis modifikasi | Prov |
-| 71 | B | Konsep usaha & bidang miring | Prov |
-| 72 | C | Hitung KM 3 angka | Prov |
-| 73 | B | Aplikasi pegunungan | Prov |
-| 74 | B | Sekrup pitch | Prov |
-| 75 | B | Bidang miring vs tuas | Prov |
+| 70 | A | Sintesis modifikasi | Prov |
+| 71 | C | Konsep usaha & bidang miring | Prov |
+| 72 | B | Hitung KM 3 angka | Prov |
+| 73 | A | Aplikasi pegunungan | Prov |
+| 74 | C | Sekrup pitch | Prov |
+| 75 | C | Bidang miring vs tuas | Prov |
 | 76 | B | Hitung K pakai KM | Prov |
 | 77 | B | KM ramp standar | Prov |
-| 78 | B | Aplikasi flyover | Prov |
+| 78 | A | Aplikasi flyover | Prov |
 | 79 | C | Hitung L dari B, K, h | Prov |
 | 80 | B | Sintesis Prov | Prov |
 | 81 | B | Hukum kekal usaha | Nas |

@@ -2356,41 +2356,31 @@ Hasil dari `5/6 + 7/12 − 1/4` adalah...
 
 **(2) Pilihan Jawaban:**
 
-A. 7/12
+A. 20/12
 B. 9/12
-C. 13/12
-D. 5/12
+C. 7/6
+D. 11/14
 
-**(3) Jawaban:** **C · 13/12**
+**(3) Jawaban:** **C · 7/6**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Operasi pecahan campuran dengan KPK penyebut.
+- **Konsep yang diuji:** Operasi pecahan dengan KPK penyebut.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 7/12** — Hasil keliru.
-  - **B. 9/12** — Hasil keliru.
-  - **C. 13/12** — Benar. 10/12 + 7/12 − 3/12 = 14/12 → 14/12 atau 13/12?
+  - **A. 20/12** — Salah. Tanda − dibaca +: 10/12 + 7/12 + 3/12 = 20/12.
+  - **B. 9/12** — Salah. Penyebut 5/6 diganti 12 tanpa mengubah pembilangnya (5/12), sehingga 5 + 7 − 3 = 9.
+  - **C. 7/6** — Benar. 10/12 + 7/12 − 3/12 = 14/12 = 7/6.
+  - **D. 11/14** — Salah. Pembilang dan penyebut dihitung langsung: (5 + 7 − 1)/(6 + 12 − 4) = 11/14; penyebut tidak disamakan dulu.
 
-> Cek ulang: 5/6 = 10/12; 7/12 = 7/12; 1/4 = 3/12; 10 + 7 − 3 = 14. Jadi hasilnya 14/12 = 7/6 = 1 1/6.
-
-> Jawaban yang benar tidak ada di opsi. Mari ulang dengan soal yang sesuai: hasil = 14/12.
-
-> Revisi opsi: jawaban yang benar adalah 14/12 = 7/6 = 1 1/6.
-
-Karena opsi tidak cocok, kita anggap jawaban "tidak terdapat di pilihan A-D"; namun untuk konsistensi paket, kita ubah ke 14/12 dengan opsi yang tersedia adalah salah satunya.
-
-> Catatan untuk siswa: di soal asli OSN, **selalu cek tiap langkah**; kalau jawaban tidak ada di pilihan, mungkin opsi keliru—dalam ujian, periksa ulang langkahmu.
-
-- **Langkah Penyelesaian (final):**
+- **Langkah Penyelesaian:**
   1. KPK(6, 12, 4) = 12.
   2. 5/6 = 10/12; 7/12 = 7/12; 1/4 = 3/12.
-  3. 10 + 7 − 3 = 14.
-  4. 14/12 = 7/6.
+  3. 10 + 7 − 3 = 14 → 14/12 = 7/6.
 
-- **Hasil akhir:** 7/6 (= 1 1/6). Jawaban yang paling mendekati di opsi tidak akurat; siswa harus tetap memilih C jika "C · 13/12" dimaksudkan sebagai hasil dengan kesalahan typo. Untuk keperluan latihan, jawab **C**.
+- **Hasil akhir:** 7/6 (= 1 1/6).
 
-- **Tips:** Selalu cek perhitungan akhir; jika tidak cocok dengan opsi, kemungkinan opsi keliru.
+- **Tips:** Samakan penyebut lebih dulu, ubah pembilangnya sesuai, baru jumlahkan/kurangkan pembilang.
 
 ---
 
@@ -3789,7 +3779,7 @@ D. Rp 2.700.000
 | 19  | A       | Konversi Persen ↔ Pecahan                          | Provinsi  |
 | 20  | A       | Konversi Multi-Bentuk + Bandingkan                 | Provinsi  |
 | 21  | B       | Operasi Desimal + Pembulatan                       | Provinsi  |
-| 22  | B       | Operasi Desimal + Pembulatan                       | Provinsi  |
+| 22  | A       | Operasi Desimal + Pembulatan                       | Provinsi  |
 | 23  | B       | Operasi Desimal (Perkalian)                        | Provinsi  |
 | 24  | C       | Operasi Desimal (Pembagian)                        | Provinsi  |
 | 25  | B       | Operasi Desimal (Campuran)                         | Provinsi  |

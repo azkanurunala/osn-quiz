@@ -2647,7 +2647,7 @@ D. 616 cm²
 - **Konsep yang diuji:** Luas seperempat lingkaran = ¼ × πr².
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 49 cm²** — Salah. Ini r² saja (14² = 196 wait no — 7²=49). Distraktor umpan.
+  - **A. 49 cm²** — Salah. ¼ × r² = ¼ × 196 = 49; lupa dikali π.
   - **B. 77 cm²** — Salah. Ini ½ × 154 = 77 — siswa bagi 2 (kira setengah lingkaran), bukan bagi 4.
   - **C. 154 cm²** — Benar. L lingkaran utuh = 22/7 × 14² = 22/7 × 196 = 22 × 28 = 616 cm². Seperempat = 616 ÷ 4 = 154 cm².
   - **D. 616 cm²** — Salah. Ini luas lingkaran utuh, lupa bagi 4.
@@ -2847,9 +2847,9 @@ Sebuah karpet berbentuk persegi panjang 4 m × 3 m diberi tambahan setengah ling
 **(2) Pilihan Jawaban:**
 
 A. 12 m²
-B. 14,355 m²
+B. 15,5325 m²
 C. 19,065 m²
-D. 24,71 m²
+D. 40,26 m²
 
 **(3) Jawaban:** **C. 19,065 m²**
 
@@ -2858,10 +2858,10 @@ D. 24,71 m²
 - **Konsep yang diuji:** Luas persegi panjang + dua setengah lingkaran (= 1 lingkaran utuh).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 12 m²** — Salah. Ini hanya luas persegi panjang, lupa tambah dua setengah lingkaran.
-  - **B. 14,355 m²** — Salah. Ini hasil 12 + 1 setengah lingkaran saja — siswa lupa ada dua setengah lingkaran.
-  - **C. 19,065 m²** — Benar. r = 1,5. L lingkaran utuh = 3,14 × 2,25 = 7,065 (dua setengah lingkaran = satu lingkaran utuh). L total = 12 + 7,065 = 19,065 m². Wait, periksa: r=1,5 → r² = 2,25 → πr² = 3,14 × 2,25 = 7,065. Yes ✓.
-  - **D. 24,71 m²** — Salah. Hitungan keliru; distraktor umpan.
+  - **A. 12 m²** — Salah. Ini hanya luas persegi panjang; kedua setengah lingkaran terlupa.
+  - **B. 15,5325 m²** — Salah. Hanya satu setengah lingkaran yang ditambahkan (12 + 3,5325).
+  - **C. 19,065 m²** — Benar. r = 1,5 m. Dua setengah lingkaran = satu lingkaran utuh = 3,14 × 2,25 = 7,065 m². Total = 12 + 7,065 = 19,065 m².
+  - **D. 40,26 m²** — Salah. Diameter 3 m dipakai sebagai jari-jari: 3,14 × 9 = 28,26, lalu 12 + 28,26 = 40,26.
 
 - **Langkah Penyelesaian (cara benar):**
   1. L persegi panjang = 4 × 3 = 12 m².

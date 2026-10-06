@@ -1279,22 +1279,20 @@ A. 540 cm²    B. 600 cm²    C. 660 cm²    D. 720 cm²
 ---
 
 **67.** Sebuah piramida miniatur alas persegi sisi 5 cm, tinggi vertikal 6 cm. LP = ...
-A. 90 cm²    B. 65 cm²    C. 25 cm²    D. 90 cm²
 
-**Kunci: D**
+A. 90 cm²    B. 65 cm²    C. 85 cm²    D. 155 cm²
+
+**Kunci: A**
 
 **Pembahasan:**
-- t_miring = √(6² + 2,5²) = √(36+6,25) = √42,25 = 6,5.
-- Alas = 25. 4 sisi = 4 × (½×5×6,5) = 65.
-- LP = 25 + 65 = **90 cm²**.
-- **A** Benar. **B** Sisi tegak. **C** Alas. **D** Duplikat A.
-
-**Kunci yang benar: A**
-- **Konsep kunci:** Cari tinggi miring dengan Pythagoras sebelum menghitung LP limas; hati-hati membaca opsi kunci yang benar.
+- t_miring = √(6² + 2,5²) = √(36 + 6,25) = √42,25 = 6,5 cm.
+- Alas = 25. 4 sisi = 4 × (½ × 5 × 6,5) = 65. LP = 25 + 65 = **90 cm²**.
+- **A** Benar. **B** Hanya luas 4 sisi tegak; alas terlupa. **C** Tinggi vertikal 6 cm dipakai sebagai tinggi segitiga sisi: 25 + 4 × 15 = 85. **D** Luas segitiga tanpa ½: 25 + 4 × 32,5 = 155.
+- **Konsep kunci:** Cari tinggi miring dengan Pythagoras sebelum menghitung LP limas.
 - **Langkah Penyelesaian:**
-  1. Tinggi miring = √(6²+2,5²) = √42,25 = 6,5 cm.
-  2. Alas = 25 cm²; 4 sisi = 4×(½×5×6,5) = 65 cm².
-  3. LP = 25+65 = 90 cm² (jawaban A, bukan D yang hanya duplikat angka).
+  1. Tinggi miring = √(6² + 2,5²) = √42,25 = 6,5 cm.
+  2. Alas = 25 cm²; 4 sisi = 4 × (½ × 5 × 6,5) = 65 cm².
+  3. LP = 25 + 65 = 90 cm².
 
 ---
 
@@ -1510,20 +1508,18 @@ A. 484 cm²    B. 1331 cm²    C. 726 cm²    D. 121 cm²
 ---
 
 **79.** Sebuah balok 13 × 7 × 5 cm. LP = ...
-A. 130 cm²    B. 262 cm²    C. 282 cm²    D. 350 cm²
+
+A. 191 cm²    B. 312 cm²    C. 382 cm²    D. 455 cm²
 
 **Kunci: C**
 
 **Pembahasan:**
 - LP = 2(91 + 65 + 35) = 2 × 191 = **382 cm²**.
-
-Koreksi: 13×7=91; 13×5=65; 7×5=35. Jumlah = 191. ×2 = 382.
-Opsi C seharusnya 382.
-- **A** Salah. **B** Salah. **C (382)** Benar. **D** Salah.
-- **Konsep kunci:** LP balok = 2(pl+pt+lt); di soal ini terjadi kesalahan cetak pada opsi, nilai benar 382 cm².
+- **A** Lupa dikali 2 (hanya 3 sisi). **B** Pasangan sisi l × t terlupa: 2(91 + 65) = 312. **C** Benar. **D** 13 × 7 × 5 = 455 adalah volume, bukan luas permukaan.
+- **Konsep kunci:** LP balok = 2(pl + pt + lt).
 - **Langkah Penyelesaian:**
   1. pl = 91, pt = 65, lt = 35.
-  2. Jumlah = 191, kali 2 = 382 cm² (dipilih sebagai jawaban C meski opsi tercetak 282).
+  2. Jumlah = 191, kali 2 = 382 cm².
 
 ---
 
@@ -1904,21 +1900,20 @@ A. 72 cm²    B. 144 cm²    C. 471,68 cm²    D. 583,68 cm²
 ---
 
 **99.** Sebuah balok berbentuk akuarium tanpa tutup atas, ukuran 80×40×50 cm. Luas kaca yang dibutuhkan = ...
-A. 19200 cm²    B. 16000 cm²    C. 15200 cm²    D. 12800 cm²
 
-**Kunci: B**
+A. 18400 cm²    B. 14400 cm²    C. 15200 cm²    D. 12000 cm²
+
+**Kunci: C**
 
 **Pembahasan:**
-- LP tertutup = 2(80×40 + 80×50 + 40×50) = 2(3200+4000+2000) = 2×9200 = 18400.
+- LP tertutup = 2(80×40 + 80×50 + 40×50) = 2(3200 + 4000 + 2000) = 18400.
 - Tutup atas = 80×40 = 3200. LP terbuka = 18400 − 3200 = **15200 cm²**.
-- **A** Salah. **B** Salah. **C** Benar. **D** Salah.
-
-**Kunci yang benar: C**
+- **A** LP balok tertutup; tutup atas tidak dikurangi. **B** Yang dikurangi sisi depan 80×50, bukan tutup atas 80×40. **C** Benar. **D** Tutup atas dan alas sama-sama dikurangi (18400 − 6400), padahal akuarium tetap punya alas.
 - **Konsep kunci:** Akuarium tanpa tutup: LP = LP balok tertutup dikurangi luas sisi tutup atas.
 - **Langkah Penyelesaian:**
-  1. LP tertutup = 2(3200+4000+2000) = 18400 cm².
+  1. LP tertutup = 2(3200 + 4000 + 2000) = 18400 cm².
   2. Tutup = 80×40 = 3200 cm².
-  3. LP terbuka = 18400−3200 = 15200 cm².
+  3. LP terbuka = 18400 − 3200 = 15200 cm².
 
 ---
 

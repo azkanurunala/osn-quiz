@@ -2699,36 +2699,36 @@ D. 18
 ### Soal 73 · Statistik Gabungan · Provinsi
 
 **(1) Soal:**
-Rata-rata nilai 20 siswa kelas A adalah 78. Setelah dihitung ulang, ternyata nilai seorang siswa salah dicatat: seharusnya 90 tetapi dicatat 60. Rata-rata yang benar adalah ...
+Rata-rata nilai 20 siswa kelas A adalah 78. Setelah diperiksa, ternyata nilai seorang siswa salah dicatat: seharusnya 90 tetapi dicatat 60. Rata-rata yang benar adalah ...
 
 **(2) Pilihan Jawaban:**
 
-A. 79
+A. 78
 B. 79,5
-C. 80
-D. 80,5
+C. 78,57
+D. 108
 
 **(3) Jawaban:** **B · 79,5**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Koreksi mean akibat kesalahan pencatatan.
+- **Konsep yang diuji:** Membetulkan mean akibat kesalahan pencatatan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 79** — Salah. Distraktor umpan.
-  - **B. 79,5** — Benar. Total salah = 78×20 = 1560. Selisih nilai = 90−60 = 30. Total benar = 1560+30 = 1590. Mean benar = 1590÷20 = 79,5.
-  - **C. 80** — Salah. Muncul kalau siswa salah hitung selisih jadi 40.
-  - **D. 80,5** — Salah. Muncul kalau siswa salah tambah 50.
+  - **A. 78** — Salah. Mengira membetulkan satu data tidak mengubah rata-rata.
+  - **B. 79,5** — Benar. Total tercatat = 78 × 20 = 1.560. Selisih = 90 − 60 = 30. Total benar = 1.590. Mean benar = 1.590 ÷ 20 = 79,5.
+  - **C. 78,57** — Salah. Nilai 90 ditambahkan sebagai data baru tanpa membuang 60: (1.560 + 90) ÷ 21 ≈ 78,57.
+  - **D. 108** — Salah. Selisih 30 langsung ditambahkan ke rata-rata tanpa dibagi 20.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Total salah = 78 × 20 = 1560.
+  1. Total tercatat = 78 × 20 = 1.560.
   2. Selisih nilai (benar − salah) = 90 − 60 = 30.
-  3. Total benar = 1560 + 30 = 1590.
-  4. Mean benar = 1590 ÷ 20 = 79,5.
+  3. Total benar = 1.560 + 30 = 1.590.
+  4. Mean benar = 1.590 ÷ 20 = 79,5.
 
 - **Hasil akhir:** 79,5.
 
-- **Tips:** Untuk koreksi mean, fokus pada SELISIH antara nilai yang salah dan yang benar. Tambahkan ke total.
+- **Tips:** Jika ada data salah catat, fokus pada SELISIH antara nilai yang salah dan yang benar. Tambahkan ke total, lalu bagi lagi.
 
 ---
 

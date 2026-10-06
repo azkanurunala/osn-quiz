@@ -3,7 +3,7 @@
 - **Bab:** IPA 01 · Makhluk Hidup & Lingkungan
 - **Sub-bab:** 01n, 01k
 - **Objek (EN):** a fresh cluster of oyster mushrooms (Pleurotus ostreatus)
-- **Soal terkait:** 204 soal di 44 file
+- **Soal terkait:** 205 soal di 44 file
   - `ipa-01n-klasifikasi-5-kingdom-campur` (30)
   - `ipa-02n-bioteknologi-campur` (17)
   - `ipa-01j-ekosistem-campur` (12)

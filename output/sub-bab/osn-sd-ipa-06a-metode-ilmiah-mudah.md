@@ -2348,12 +2348,12 @@ D. 2°C
 - **Konsep yang diuji:** Menghitung selisih dari tabel.
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. 10°C** — Benar. 40 – 30 = 10; dan 50 – 40 = 10 → naik 10°C tiap 5 menit.
-  - **B. 5°C** — Salah. Selisih antar data adalah 10, bukan 5.
+  - **B. 5°C** — Salah. Angka "5 menit" dari soal dikira besar kenaikan suhu.
   - **C. 20°C** — Salah. Itu kenaikan total untuk 10 menit, bukan per 5 menit.
-  - **D. 2°C** — Salah. Terlalu kecil dibanding selisih data.
+  - **D. 2°C** — Salah. Kenaikan 10°C dibagi 5 (per menit), padahal yang ditanya kenaikan tiap 5 menit.
 - **Langkah Penyelesaian:**
   1. Kurangkan dua data berurutan: 40 – 30 = 10.
-  2. Cek lagi: 50 – 40 = 10 → konstan naik 10°C.
+  2. Bandingkan juga: 50 – 40 = 10 → konstan naik 10°C.
 - **Hasil akhir:** A. 10°C.
 - **💭 Tips:** Selisih antar angka data berurutan = besar kenaikan per selang waktu.
 
@@ -2407,13 +2407,13 @@ D. Tetap sama
 
 - **Konsep yang diuji:** Membaca selisih pada grafik batang.
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Bertambah 4 butir** — Salah. Selisihnya 2, bukan 4.
+  - **A. Bertambah 4 butir** — Salah. Angka minggu ke-2 (4 butir) dikira besar kenaikan, padahal selisih antar minggu 2 butir.
   - **B. Bertambah 2 butir** — Benar. 4 – 2 = 2; 6 – 4 = 2 → naik 2 tiap minggu.
   - **C. Berkurang 2 butir** — Salah. Telurnya justru bertambah, bukan berkurang.
   - **D. Tetap sama** — Salah. Angkanya terus berubah (2, 4, 6).
 - **Langkah Penyelesaian:**
   1. Hitung selisih antar batang: 4 – 2 = 2.
-  2. Cek lagi: 6 – 4 = 2 → bertambah 2.
+  2. Bandingkan juga: 6 – 4 = 2 → bertambah 2.
 - **Hasil akhir:** B. Bertambah 2 butir.
 - **💭 Tips:** Tinggi batang yang berurutan menunjukkan besarnya kenaikan tiap periode.
 

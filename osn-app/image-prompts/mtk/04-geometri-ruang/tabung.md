@@ -3,11 +3,11 @@
 - **Bab:** MTK 04 · Geometri Ruang
 - **Sub-bab:** 04a, 04e, 04j
 - **Objek (EN):** a right circular cylinder standing upright
-- **Soal terkait:** 668 soal di 110 file
+- **Soal terkait:** 667 soal di 110 file
   - `mtk-04e-volume-tabung-campur` (100)
   - `mtk-04j-lp-tabung-campur` (97)
   - `mtk-04l-ruang-gabungan-campur` (44)
-  - `mtk-04f-volume-kerucut-bola-campur` (33)
+  - `mtk-04f-volume-kerucut-bola-campur` (32)
   - `mtk-04-geometri-ruang-sulit` (28)
   - `mtk-04-geometri-ruang-sedang-sulit` (26)
   - `mtk-04-geometri-ruang-sedang` (23)

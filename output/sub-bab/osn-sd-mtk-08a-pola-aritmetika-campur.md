@@ -161,7 +161,7 @@ Yuk mulai latihan 100 soal!
 **Pembahasan:**
 - **A** — **BENAR.** U₁=5, b=3. U₆ = 5 + (6−1)×3 = 5 + 15 = 20.
 - **B** — 17. Itu U₅ (= 5 + 4×3). Salah hitung urutan.
-- **C** — 21. Pakai n bukan (n−1): 5 + 6×3 − wait, 5+18=23. Mungkin 5 + 6×(3) − salah lain. Lupa kurangi 1.
+- **C** — 21. Pengecoh umpan dekat jawaban; tidak berasal dari langkah hitung tertentu.
 - **D** — 23. Pakai 5 + 6×3 = 23 (lupa kurangi 1 pada n).
 
 - **Konsep kunci:** Suku ke-n barisan aritmetika dicari dengan rumus Uₙ = U₁ + (n−1) × b.

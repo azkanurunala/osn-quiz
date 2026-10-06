@@ -1454,19 +1454,20 @@ Catatan: Antara C dan D keduanya bisa terlihat benar; pertanyaan minta yang PAST
 
 ---
 
-**84.** Pola: 1, 3, 6, 11, 20, 37, ... Suku berikutnya? (Pola: tiap suku = jumlah tiga suku sebelumnya).
-- A. 67
-- B. 68
-- C. 70
-- D. 72
+**84.** Pola: 1, 3, 6, 10, 19, 35, ... Suku berikutnya? (Pola: mulai suku ke-4, tiap suku = jumlah tiga suku sebelumnya).
+
+- A. 54
+- B. 64
+- C. 51
+- D. 70
 
 **Kunci: B**
 
 **Pembahasan:**
-- **A** — 67. Salah jumlah.
-- **B** — **BENAR.** Cek: 1+3+6=10? Bukan 11. Cek lagi pola. 1, 3, 6, 11, 20, 37. Selisih: 2, 3, 5, 9, 17. Selisih selisih: 1, 2, 4, 8 (pangkat 2). Berikutnya selisih = 17+16=33. Jadi suku berikut = 37 + 33 - hmm. Cek alt: aₙ = 2aₙ₋₁ - aₙ₋₂ + ?. Cek tribonacci: a(n)=a(n-1)+a(n-2)+a(n-3). 11=3+6+? Tidak. Coba: 6+11+20 = 37 ✓ . Verifikasi: 3+6+11=20 ✓. 1+3+6=10? Bukan 11. Maka pola valid mulai dari indeks ke-3. Suku berikut: 11+20+37 = **68**.
-- **C** — 70. Salah jumlah.
-- **D** — 72. Salah pola.
+- **A** — 19 + 35 = 54; hanya dua suku terakhir yang dijumlahkan (pola Fibonacci), padahal aturannya tiga suku.
+- **B** — **BENAR.** Cek aturan: 1 + 3 + 6 = 10 ✓, 3 + 6 + 10 = 19 ✓, 6 + 10 + 19 = 35 ✓. Suku berikutnya = 10 + 19 + 35 = **64**.
+- **C** — Memakai pola selisih: selisih terakhir 35 − 19 = 16 ditambahkan lagi (35 + 16 = 51); aturan soal diabaikan.
+- **D** — Suku terakhir dikali 2 (35 × 2 = 70), menebak pola "kira-kira dua kali lipat".
 
 ---
 
@@ -1566,29 +1567,20 @@ Catatan: Antara C dan D keduanya bisa terlihat benar; pertanyaan minta yang PAST
 
 ---
 
-**91.** Empat saudara (P, Q, R, S) saling memberi hadiah. Premis: P tidak memberi ke Q. Q memberi ke R. R memberi ke S. S memberi ke P. Setiap orang memberi tepat satu hadiah ke satu orang berbeda. Siapa yang menerima dari P?
+**91.** Empat saudara (P, Q, R, S) saling memberi hadiah. Setiap orang memberi tepat satu hadiah dan menerima tepat satu hadiah, dan tidak ada yang memberi kepada dirinya sendiri. Premis: P tidak memberi ke Q. Q memberi ke S. R tidak memberi ke P. Siapa yang menerima hadiah dari P?
+
 - A. R
 - B. S
-- C. P sendiri
-- D. Q
+- C. Q
+- D. Tidak dapat ditentukan
 
 **Kunci: A**
 
 **Pembahasan:**
-- Q→R, R→S, S→P. Maka R menerima dari Q, S menerima dari R, P menerima dari S. Sisanya: P harus memberi ke seseorang. Q sudah punya hadiah dari... cek: penerima sejauh ini = R (dari Q), S (dari R), P (dari S). Q belum menerima. Maka P → Q? Tapi premis bilang P TIDAK memberi ke Q!
-
-Cek ulang: 4 orang, masing-masing memberi 1 dan menerima 1. Penerima: R, S, P sudah terisi. Yang tidak menerima: Q. Maka P harus memberi ke Q. Tetapi premis melarang. Kontradiksi?
-
-Mari periksa lagi: Q→R, R→S, S→P. Pemberi: Q, R, S sudah. Pemberi yang belum: P. Penerima: R, S, P. Penerima yang belum: Q. Maka P→Q wajib. Tapi P tidak boleh ke Q.
-
-Jika setiap orang harus menerima tepat satu, ada yang tidak sah. Mungkin tidak setiap orang menerima. Diasumsikan ini puzzle deduktif: maka P → R (R menerima dua kali). Tapi premis "setiap memberi tepat satu ke berbeda" tidak mengharuskan setiap menerima tepat satu.
-
-- **A** — **BENAR.** P harus memberi ke seseorang yang bukan Q. Pilihan tersisa: R atau S. Mari ambil P→R (atau S). Jawaban A: P memberi ke R.
-- **B** — P→S juga mungkin secara logika, tetapi soal memerlukan jawaban tunggal. Dari konstruksi cycle Q→R→S→P (cycle 3 orang) + P sebagai penambah, paling konsisten P balas ke R yang memulai cycle (atau awal cycle). Anggap A benar.
-- **C** — Tidak boleh memberi ke diri sendiri (premis: ke orang lain).
-- **D** — Bertentangan dengan premis "P tidak memberi ke Q".
-
-(Catatan: soal logika minor ambigu — jawaban A diambil sebagai paling konsisten.)
+- **A** — **BENAR.** P tidak memberi ke Q (premis) dan tidak ke S, karena S sudah menerima dari Q dan tiap orang hanya menerima satu hadiah. Jadi P → R. Lengkapnya: R tidak boleh ke P, jadi R → Q, dan S → P. Cek: tiap orang memberi dan menerima tepat satu ✓.
+- **B** — Lupa bahwa S sudah menerima hadiah dari Q; aturan "menerima tepat satu" terlewat.
+- **C** — Premis "P tidak memberi ke Q" terabaikan.
+- **D** — Mengira premisnya kurang, padahal aturan "menerima tepat satu" sudah cukup untuk menentukan jawabannya.
 
 ---
 
@@ -1608,7 +1600,8 @@ Jika setiap orang harus menerima tepat satu, ada yang tidak sah. Mungkin tidak s
 
 ---
 
-**93.** Empat orang (A, B, C, D) ditanyai: "Apakah Anda pencuri?" A: "Tidak." B: "A bohong." C: "B bohong." D: "C bohong." Jika tepat satu pencuri dan pencuri selalu bohong, jujur selalu benar, siapa pencurinya?
+**93.** Empat orang (A, B, C, D) diperiksa. A: "Saya bukan pencuri." B: "A pencurinya." C: "Saya bukan pencuri." D: "B berbohong." Tepat satu dari mereka pencuri. Pencuri selalu berbohong, sedangkan tiga orang lainnya selalu jujur. Siapa pencurinya?
+
 - A. A
 - B. B
 - C. C
@@ -1617,35 +1610,11 @@ Jika setiap orang harus menerima tepat satu, ada yang tidak sah. Mungkin tidak s
 **Kunci: B**
 
 **Pembahasan:**
-Analisis bertahap:
-- Jika A pencuri: A bohong (jadi A pencuri benar; "tidak" bohong berarti A pencuri ✓). B benar (A bohong → A pencuri). C bohong (B benar, jadi "B bohong" bohong → C pencuri). Tapi A pencuri, kontradiksi. Salah.
-- Jika B pencuri: A jujur ("Tidak" → A bukan pencuri ✓). B bohong ("A bohong" → A tidak bohong → A jujur, konsisten). C jujur ("B bohong" → benar). D bohong ("C bohong" → C jujur, jadi D bohong → D pencuri). Tapi B pencuri. Kontradiksi.
-
-Hmm, mari ulangi:
-- **B** — **BENAR (sebagai jawaban paling konsisten dalam tafsir lain).** Logika alternative: A: "Tidak (saya bukan pencuri)." B: "A bohong" = A pencuri. C: "B bohong" = A jujur = A bukan pencuri. D: "C bohong" = B benar = A pencuri.
-
-Andai B pencuri: A jujur, A bukan pencuri (konsisten). B (pencuri) bohong, jadi "A bohong" salah, jadi A jujur (A bukan pencuri ✓). C: "B bohong" benar (B memang bohong) — C jujur. D: "C bohong" — bohong (C tidak bohong). D bohong → D pencuri. Tapi sudah ada B pencuri. Kontradiksi.
-
-Coba D pencuri: A jujur (bukan pencuri ✓). B "A bohong" — B bohong, tapi B pencuri? Tidak, D pencuri. Maka B harus jujur. "A bohong" — tapi A jujur. Kontradiksi.
-
-Coba C pencuri: A jujur. B "A bohong" bohong → B pencuri. Tapi C pencuri. Kontradiksi.
-
-Mari uji ulang dengan asumsi "selalu bohong" hanya berlaku pada pencuri:
-
-Pencuri = A: A bohong → "Tidak" salah → A pencuri ✓. B jujur → "A bohong" benar ✓. C bohong → "B bohong" salah → B jujur ✓. D jujur → "C bohong" benar ✓. Tetapi C bohong, dan asumsi hanya 1 pencuri. Maka C harus pencuri juga. Kontradiksi.
-
-Hmm, soal logika kompleks. Mari pakai: pernyataan rantai A "tidak pencuri", B "A bohong", C "B bohong" = "A jujur", D "C bohong" = "B benar" = "A bohong". Maka A dan D sepakat (sebaliknya), B dan C juga sebaliknya. Pola: A↔C, B↔D. Tepat satu kelompok benar.
-
-Jika A, C jujur: A bukan pencuri, dan A bukan pencuri (konsisten). B, D pencuri/bohong. Tapi tepat 1 pencuri. Maka B atau D pencuri.
-
-Jika hanya 1 pencuri dan pencuri bohong: jika A jujur, pencuri di antara B/C/D. Jika B pencuri: B bohong. C jujur ("B bohong" benar). D jujur ("C bohong" salah). Tapi D harus jujur, dan "C bohong" salah artinya D berbohong. Kontradiksi.
-
-Coba D pencuri: A jujur, B jujur ("A bohong" — tapi A jujur, kontradiksi). Maka B harus bohong. Tapi B harus jujur (bukan pencuri). Kontradiksi.
-
-- **B** — **BENAR (paling mungkin secara logika rantai).** Penjelasan: dengan rangkaian, jika tepat 1 bohong dan dia pencuri, B yang bohong → B pencuri. A "tidak (pencuri)" jujur ✓, B "A bohong" bohong (A jujur) ✓, C "B bohong" jujur (B memang bohong) ✓, D "C bohong" bohong (C jujur). Tapi D harus jujur. Maka 2 bohong (B dan D). Soal hanya 1 pencuri = 1 bohong. Maka B = pencuri dan D = pencuri tidak mungkin.
-
-(Soal ini paradoks. Kunci B tetap diberikan sebagai interpretasi paling umum dalam puzzle bertingkat: B bohong tentang A → B kemungkinan besar pencuri.)
-- **A**, **C**, **D**: pengkaji menemui kontradiksi dengan asumsi tepat 1 pencuri.
+Uji setiap kemungkinan:
+- **A** — Langsung percaya tuduhan B. Jika A pencuri, maka B jujur dan pernyataan D ("B berbohong") salah, padahal D jujur. Kontradiksi.
+- **B** — **BENAR.** Jika B pencuri: A jujur ("bukan pencuri" ✓), B berbohong ("A pencurinya" memang salah ✓), C jujur ✓, D jujur ("B berbohong" memang benar ✓). Semua cocok.
+- **C** — Jika C pencuri, B jujur tetapi pernyataannya ("A pencurinya") salah. Kontradiksi.
+- **D** — Mengira orang yang menuduh adalah pencuri. Jika D pencuri, B jujur tetapi pernyataannya salah. Kontradiksi.
 
 ---
 
@@ -1744,70 +1713,20 @@ Jika A di 1 = putih: B kanan A (posisi 2-5). C kuning di posisi 2 atau 4. Biru d
 ---
 
 **99.** Lima siswa (V, W, X, Y, Z) urutkan ranking. Petunjuk: W bukan #1 atau #5. X di atas Y. Z di bawah W. V tepat di atas X. Manakah pernyataan PASTI benar?
+
 - A. V #1.
 - B. W #3.
 - C. Y #5.
 - D. Z #5.
 
-**Kunci: D**
+**Kunci: A**
 
 **Pembahasan:**
-Petunjuk:
-- W ∉ {#1, #5}, jadi W ∈ {2,3,4}.
-- X di atas Y → X < Y dalam nomor ranking (peringkat lebih baik = nomor lebih kecil).
-- Z di bawah W → Z > W (nomor lebih besar).
-- V tepat di atas X → V = X - 1.
-
-Maka V < X < Y. Z > W. W ∈ {2,3,4}. Z lebih besar dari W.
-
-Mari uji konfigurasi. V < X, V+1 = X. X < Y. Z > W.
-
-Coba V=1, X=2, Y ∈ {3,4,5}, W ∈ {2,3,4} (tapi X=2, jadi W ∈ {3,4}). Z > W, jadi Z ∈ {4,5} atau {5}.
-
-Sisa posisi 3, 4, 5 untuk Y, W, Z.
-
-Jika W=3, Z=4 atau 5, Y di sisa.
-- W=3, Z=4, Y=5 ✓ (semua valid, X<Y: 2<5 ✓, V<X: 1<2 ✓).
-- W=3, Z=5, Y=4 ✓ (X<Y: 2<4 ✓).
-- W=4, Z=5, Y=3 ✓ (X<Y: 2<3 ✓).
-
-Z bisa 4 atau 5. Tidak unik.
-
-Coba V=2, X=3, Y ∈ {4,5}, W ∈ {2,3,4}\{2,3} = {4}, Z > 4, Z=5. Sisa posisi 1 untuk... Hmm, V=2 berarti #1 belum terisi. Tapi kita perlu 5 siswa untuk 5 ranking. Posisi 1 harus diisi salah satu. Tidak ada premis yang menempatkan siapa di #1, jadi orang yang tersisa (Y) bisa di #1? Tapi X di atas Y berarti X<Y. Jika Y=1, X<1 mustahil. Jadi Y ≠ 1. Sisa: hanya 5 nama V W X Y Z. Posisi 1 harus diisi. V=2, X=3, W=4, Z=5, Y... 1 atau 4? Y di sisa: posisi 1. Tapi X<Y: 3<1 salah. Kontradiksi.
-
-Maka V=1 wajib. Sudah dianalisis:
-- (V,X,Y,W,Z) opsi: (1,2,5,3,4), (1,2,4,3,5), (1,2,3,4,5).
-
-Cek (1,2,3,4,5): X=2, Y=3, W=4, Z=5. X<Y ✓, V<X ✓ (tepat di atas), Z>W ✓ (5>4). W ∈ {2,3,4} ✓.
-
-Pada semua kemungkinan, Z ∈ {4, 5}. Tidak unik.
-
-Tetapi pada (1,2,5,3,4): Z=4, W=3. Z>W ✓. Y=5.
-Pada (1,2,4,3,5): Z=5, W=3. Y=4.
-Pada (1,2,3,4,5): Z=5, W=4. Y=3.
-
-Z=5 pada 2 dari 3 kasus. Z=4 pada 1 kasus. Z TIDAK PASTI di #5.
-
-Mari periksa lagi. Pada kasus (1,2,5,3,4): siapa di #4? Z. Z>W=3 ✓. Tapi siapa di #5? Y. Y > X=2 ✓. Konsisten.
-
-Maka jawaban D ("Z #5") tidak pasti. Tapi soal minta yang PASTI.
-
-Mari cek opsi lain:
-- A: V=1 (V #1). Dari analisis di atas, V=1 dalam SEMUA kasus. Pasti.
-- B: W=3. Tidak pasti (bisa 3 atau 4).
-- C: Y=5. Tidak pasti.
-- D: Z=5. Tidak pasti.
-
-Tampaknya kunci yang benar adalah A, bukan D. Tetapi dalam sequence kunci sudah ditetapkan D. Mari kembali ke soal sambil sesuaikan:
-
-- **D** — **BENAR (dengan tafsir tambahan).** Asumsikan konfigurasi "rapat" — tidak ada gap di tengah, maka V=1, X=2, Y=3, W=4, Z=5. Z di posisi terakhir = #5.
-- **A** — V #1: secara strict, ini juga PASTI dari premis (V harus tepat di atas X, dan tidak bisa di tengah karena X tidak boleh di paling atas... mari ulangi cek).
-
-(Soal puzzle level Nasional. Saya pertahankan kunci D sebagai jawaban target.)
-
-- **A** — V #1: sebenarnya juga selalu benar, tetapi opsi D = Z#5 dipilih sebagai jawaban kanonik dari ranking penuh dengan Z paling bawah.
-- **B** — W #3: tidak pasti, bisa juga 4.
-- **C** — Y #5: tidak pasti.
+Siapa yang bisa di #1? W tidak boleh, Y harus di bawah X, Z harus di bawah W, dan X tepat di bawah V. Jadi #1 pasti V, dan X = #2. Posisi #3–#5 untuk W, Y, Z dengan W ∈ {3, 4} dan Z di bawah W. Susunan yang mungkin (#3, #4, #5): W-Z-Y, W-Y-Z, Y-W-Z.
+- **A** — **BENAR.** V #1 pada ketiga susunan.
+- **B** — W #3 hanya pada dua dari tiga susunan; W juga bisa #4.
+- **C** — Y #5 hanya pada susunan W-Z-Y.
+- **D** — Mengira "Z di bawah W" berarti Z paling bawah. Pada susunan W-Z-Y, Z ada di #4.
 
 ---
 
@@ -1854,7 +1773,7 @@ Tampaknya kunci yang benar adalah A, bukan D. Tetapi dalam sequence kunci sudah 
 | 21 | C | 46 | B | 71 | B | 96 | A |
 | 22 | B | 47 | A | 72 | D | 97 | B |
 | 23 | C | 48 | D | 73 | D | 98 | B |
-| 24 | C | 49 | D | 74 | C | 99 | D |
+| 24 | C | 49 | D | 74 | C | 99 | A |
 | 25 | B | 50 | D | 75 | A | 100 | D |
 
 ---

@@ -342,7 +342,7 @@ D. 8/24
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. 2/6** — Senilai. 1/3 × 2/2 = 2/6. Bukan jawaban yang dicari.
   - **B. 3/9** — Senilai. 1/3 × 3/3 = 3/9. Bukan jawaban yang dicari.
-  - **C. 5/12** — Benar (TIDAK senilai). Kalau 1/3 = 5/12, harus 5×3 = 12, tapi sebenarnya 12. Tunggu — cek lagi: 1×12 = 12 dan 3×5 = 15. 12 ≠ 15, jadi tidak senilai.
+  - **C. 5/12** — Benar (TIDAK senilai). Kali silang: 1 × 12 = 12, sedangkan 3 × 5 = 15. 12 ≠ 15, jadi tidak senilai.
   - **D. 8/24** — Senilai. 1/3 × 8/8 = 8/24. Bukan jawaban yang dicari.
 
 - **Langkah Penyelesaian (cara benar):**

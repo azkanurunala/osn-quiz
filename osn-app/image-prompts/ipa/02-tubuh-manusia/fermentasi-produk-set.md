@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02n
 - **Objek (EN):** traditional biotechnology (fermented) food products arranged in a tidy row
-- **Soal terkait:** 171 soal di 55 file
+- **Soal terkait:** 170 soal di 55 file
   - `ipa-02n-bioteknologi-campur` (45)
   - `ipa-01q-respirasi-fermentasi-campur` (24)
   - `ipa-01n-klasifikasi-5-kingdom-campur` (7)

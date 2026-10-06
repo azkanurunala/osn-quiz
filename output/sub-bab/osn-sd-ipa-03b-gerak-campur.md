@@ -850,7 +850,7 @@ D. 4 jam
   1. Diketahui: s = 120 km, v = 40 km/jam.
   2. t = s/v = 120/40 = 3 jam.
 - **Hasil akhir:** 3 jam.
-- **💭 Tips:** Cek ulang dengan perkalian: 40 × 3 = 120 ✓. Cara cepat memverifikasi jawaban.
+- **💭 Tips:** Periksa dengan perkalian: 40 × 3 = 120 ✓. Cara cepat memverifikasi jawaban.
 
 ---
 

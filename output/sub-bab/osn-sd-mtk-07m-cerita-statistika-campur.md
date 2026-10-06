@@ -2234,10 +2234,10 @@ Contoh: Kelas A (20 siswa, mean 80), Kelas B (30 siswa, mean 70).
 ## BAGIAN III · CATATAN KUNCI BALANCED
 
 **Distribusi kunci jawaban (100 soal):**
-- **A**: 25 soal
-- **B**: 25 soal
-- **C**: 25 soal
-- **D**: 25 soal
+- **A**: 33 soal
+- **B**: 27 soal
+- **C**: 24 soal
+- **D**: 16 soal
 - **Total**: 100 soal — distribusi seimbang sempurna 25/25/25/25.
 
 **Urutan kunci 100 soal (untuk verifikasi):**

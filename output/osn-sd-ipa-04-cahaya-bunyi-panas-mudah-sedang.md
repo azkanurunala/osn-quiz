@@ -1398,9 +1398,7 @@ D. 4.500 meter
 - **Konsep yang diuji:** Menghitung jarak menggunakan prinsip pemantulan bunyi (gema).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 750 meter** — Salah. Angka 750 muncul jika siswa menggunakan rumus s = v × t langsung tanpa dibagi 2, kemudian tidak yakin dan membagi hasilnya dengan 4: 1.500 × 2 ÷ 4 = 750. Tidak ada logika yang tepat untuk ini.
-
-    Tunggu — mari periksa: s = (v × t) ÷ 2 = (1.500 × 2) ÷ 2 = 1.500 m. Jadi A adalah distraktor jika siswa hanya menghitung setengah dari jarak pergi saja tanpa menggunakan rumus yang benar. Siswa yang mengira 750 adalah jawaban benar mungkin berhitung: 1.500 ÷ 2 = 750 (hanya membagi kecepatan, bukan mengalikan dengan waktu dulu).
+  - **A. 750 meter** — Salah. Kecepatan langsung dibagi 2 (1.500 ÷ 2 = 750) tanpa dikalikan waktu 2 detik lebih dulu.
   - **B. 1.500 meter** — Benar. Bunyi pergi ke dasar laut DAN kembali, jadi jarak tempuh total = 2 × kedalaman. Kedalaman = (v × t) ÷ 2 = (1.500 × 2) ÷ 2 = 1.500 m.
   - **C. 3.000 meter** — Salah. Angka 3.000 muncul jika siswa menggunakan s = v × t = 1.500 × 2 = 3.000, lupa bahwa bunyi harus pergi DAN pulang, sehingga jarak yang dihitung adalah jarak total (bukan kedalaman).
   - **D. 4.500 meter** — Salah. Distraktor umpan; tidak ada kalkulasi logis dari data soal yang menghasilkan 4.500.
@@ -3386,7 +3384,7 @@ D. Lensa datar karena tidak mengubah cahaya
 
 - **Langkah Penyelesaian (cara benar):**
   1. Identifikasi cacat mata: miopia = bayangan jatuh di depan retina (mata terlalu kuat membiaskan).
-  2. Untuk koreksi: butuh lensa yang MELEMAHKAN/menyebarkan sinar masuk.
+  2. Untuk memperbaikinya: butuh lensa yang MELEMAHKAN/menyebarkan sinar masuk.
   3. Lensa cekung = lensa divergen → menyebarkan sinar → bayangan bergeser ke belakang → jatuh tepat di retina.
   4. Pilihan: lensa cekung (negatif).
 
@@ -3821,9 +3819,9 @@ D. (2), (3), dan (4) saja
 | 44 | C | Sedang (Prov) |
 | 45 | B | Sedang (Prov) |
 | 46 | C | Sedang (Prov) |
-| 47 | B | Sedang (Prov) |
-| 48 | A | Sedang (Prov) |
-| 49 | B | Sedang (Prov) |
+| 47 | C | Sedang (Prov) |
+| 48 | B | Sedang (Prov) |
+| 49 | A | Sedang (Prov) |
 | 50 | A | Sedang (Prov) |
 | 51 | B | Sedang (Prov) |
 | 52 | C | Sedang (Prov) |
@@ -3957,5 +3955,4 @@ Setelah mengerjakan 100 soal di paket ini, isi refleksi berikut untuk membantu m
 ---
 
 **Selamat berlatih dan semoga sukses di KSN/OSN! 🌟**
-
 

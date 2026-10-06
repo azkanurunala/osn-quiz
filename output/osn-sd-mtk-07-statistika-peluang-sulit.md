@@ -1883,7 +1883,7 @@ D. 1/3
 
 ---
 
-### Soal 47 · Mean Berubah Karena Koreksi · Nasional
+### Soal 47 · Mean Berubah Karena Data Salah Catat · Nasional
 
 **(1) Soal:**
 Rata-rata nilai 30 siswa adalah 75. Ternyata ada nilai yang salah dicatat: nilai 90 tertulis 60. Berapa rata-rata yang benar?
@@ -1893,29 +1893,29 @@ Rata-rata nilai 30 siswa adalah 75. Ternyata ada nilai yang salah dicatat: nilai
 A. 74
 B. 75
 C. 76
-D. 77
+D. 105
 
 **(3) Jawaban:** **C. 76**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Koreksi data dan efek pada mean.
+- **Konsep yang diuji:** Pembetulan data yang salah catat dan efeknya pada mean.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 74** — Salah. Muncul jika siswa kurangi (90−60)/30 = 1 dari mean: 75 − 1 = 74 (salah arah).
-  - **B. 75** — Salah. Muncul jika siswa anggap koreksi tidak ubah mean.
-  - **C. 76** — Benar. Jumlah salah = 30 × 75 = 2.250. Jumlah benar = 2.250 + (90−60) = 2.280. Mean benar = 2.280/30 = 76.
-  - **D. 77** — Salah. Muncul jika siswa hitung selisih = 90−60 = 30, tetapi salah bagi: 75 + 30/15 = 77.
+  - **A. 74** — Salah. Arahnya terbalik: (90 − 60) ÷ 30 = 1 dikurangkan dari mean, padahal nilai yang benar lebih besar.
+  - **B. 75** — Salah. Mengira membetulkan satu data tidak mengubah mean.
+  - **C. 76** — Benar. Jumlah tercatat = 30 × 75 = 2.250. Jumlah benar = 2.250 + (90 − 60) = 2.280. Mean benar = 2.280 ÷ 30 = 76.
+  - **D. 105** — Salah. Selisih 30 langsung ditambahkan ke mean tanpa dibagi banyak siswa.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Jumlah salah = 30 × 75 = 2.250.
-  2. Koreksi: nilai 60 → 90, selisih = +30.
+  1. Jumlah tercatat = 30 × 75 = 2.250.
+  2. Nilai 60 seharusnya 90, selisih = +30.
   3. Jumlah benar = 2.250 + 30 = 2.280.
   4. Mean benar = 2.280 ÷ 30 = 76.
 
 - **Hasil akhir:** 76
 
-- **Tips:** Untuk koreksi data, hitung selisih (benar − salah), tambahkan ke jumlah total, lalu bagi ulang.
+- **Tips:** Jika ada data salah catat, hitung selisih (benar − salah), tambahkan ke jumlah total, lalu bagi lagi dengan banyak data.
 
 ---
 
@@ -3132,8 +3132,8 @@ Tiga dadu dilempar. Berapa peluang **jumlah ketiganya sama dengan 10**?
 
 A. 27/216
 B. 25/216
-C. 21/216
-D. 15/216
+C. 6/216
+D. 18/216
 
 **(3) Jawaban:** **A. 27/216**
 
@@ -3142,12 +3142,10 @@ D. 15/216
 - **Konsep yang diuji:** Peluang dengan kondisi jumlah pada 3 dadu.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 27/216** — Benar. n(S) = 216. Kombinasi (a,b,c) dengan a+b+c=10 dan a,b,c ∈ {1,...,6}: cara dihitung sebagai koefisien. Total terurut = 27.
-  - **B. 25/216** — Salah. Muncul jika siswa lupa beberapa permutasi.
-  - **C. 21/216** — Salah. Muncul jika siswa hitung hanya kombinasi tak terurut (tanpa kali jumlah permutasi).
-  - **D. 15/216** — Salah. Muncul jika siswa hitung jumlah = 9 (jumlah 9 punya 25 kasus terurut), bukan 10.
-
-  *Detail perhitungan jumlah = 10:* Kombinasi tak terurut (a≤b≤c) yang menjumlahkan 10: (1,3,6),(1,4,5),(2,2,6),(2,3,5),(2,4,4),(3,3,4),(1,3,6),... Mari hitung: (1,3,6):6 perm; (1,4,5):6; (2,2,6):3; (2,3,5):6; (2,4,4):3; (3,3,4):3. Total = 6+6+3+6+3+3 = 27. ✓
+  - **A. 27/216** — Benar. n(S) = 216. Ada 6 kombinasi tak terurut; setelah dihitung susunannya, total 27 hasil terurut (lihat langkah).
+  - **B. 25/216** — Salah. 25 adalah banyak hasil untuk jumlah 9, bukan 10.
+  - **C. 6/216** — Salah. Hanya kombinasi tak terurut yang dihitung; susunan (urutan dadu) tidak dikalikan.
+  - **D. 18/216** — Salah. Setiap kombinasi dianggap punya 3 susunan (6 × 3), padahal kombinasi tiga angka berbeda punya 6 susunan.
 
 - **Langkah Penyelesaian (cara benar):**
   1. n(S) = 6³ = 216.

@@ -744,7 +744,7 @@ D. Munculnya banyak ikan yang berenang ke pantai
 
 - **Hasil akhir:** Gempa besar di laut + air surut tiba-tiba = tanda tsunami
 
-- **💭 Tips:** Aturan emas: kalau merasa gempa kuat di dekat pantai, **jangan tunggu sirine** — langsung evakuasi ke tempat tinggi. Tsunami bisa datang dalam 5–30 menit dari gempa.
+- **💭 Tips:** Aturan emas: kalau merasa gempa kuat di dekat pantai, **jangan menunggu sirene** — langsung evakuasi ke tempat tinggi. Tsunami bisa datang dalam 5–30 menit dari gempa.
 
 ---
 
@@ -3875,10 +3875,4 @@ Setelah menguasai Bab IPA-05 di tingkat Sedang–Sulit, siswa disarankan:
 ---
 
 > **Selamat berlatih!** Pelajari setiap kesalahan sebagai peta menuju nilai sempurna di OSN/KSN. 🌍🌙☀️
-
-
-
-
-
-
 

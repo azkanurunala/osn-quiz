@@ -636,12 +636,12 @@ D. Paus menyemburkan air karena memakan plankton dalam jumlah besar, sedangkan h
 - **Konsep yang diuji:** Kelainan refraksi, pembiasan lensa kacamata.
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Miopi** — Salah. Miopi = sulit lihat jauh, jelas dekat. Kebalikan dari soal.
-  - **B. Hipermetropi** — Benar. Bayangan jatuh di belakang retina karena lensa mata kurang membias atau bola mata pendek. Koreksi: lensa cembung (positif) untuk menambah pembiasan.
-  - **C. Presbiopi** — Sebagian benar. Presbiopi adalah hipermetropi karena usia (lensa mata kaku), tapi koreksinya juga cembung. Lensa silinder untuk astigmatisme. Opsi salah karena salah jenis lensa.
+  - **B. Hipermetropi** — Benar. Bayangan jatuh di belakang retina karena lensa mata kurang membias atau bola mata pendek. Diatasi dengan lensa cembung (positif) untuk menambah pembiasan.
+  - **C. Presbiopi** — Salah. Presbiopi (mata tua) memang membuat sulit melihat dekat, tetapi diatasi dengan lensa cembung, bukan silinder. Lensa silinder untuk astigmatisme.
   - **D. Astigmatisme** — Salah. Astigmatisme = bayangan kabur karena permukaan kornea tidak rata; koreksi lensa silinder.
 - **Langkah Penyelesaian:**
   1. Identifikasi gejala: sulit dekat = hipermetropi (atau presbiopi).
-  2. Pilih koreksi: cembung menambah pembiasan.
+  2. Pilih lensa: cembung menambah pembiasan.
 - **Hasil akhir:** B.
 - **💭 Tips:** Hafalan: Miopi-Min(cekung)-Jauh-sulit; Hipermetropi-Plus(cembung)-Dekat-sulit. Presbiopi muncul setelah 40-an tahun.
 

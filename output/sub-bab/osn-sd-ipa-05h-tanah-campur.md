@@ -1379,22 +1379,18 @@ Dipakai untuk: perencanaan konservasi tanah, penilaian dampak lingkungan, perizi
 ---
 
 **85.** Pak Hadi memberi pertanyaan: "**Glomalin** adalah ….
-- A. tidak ada
-- B. protein yang dihasilkan mikoriza arbuskular
-- C. **glikoprotein lengket** yang dihasilkan **jamur mikoriza arbuskular**; mengikat partikel tanah membentuk **agregat tanah** yang stabil → struktur tanah baik, menyimpan karbon (lebih banyak dari humus!), aerasi-drainase optimal. Ditemukan 1996 oleh Sara Wright
-- C. virus
-- D. mineral
+
+- A. mineral lempung yang merekatkan butir tanah
+- B. **glikoprotein lengket** yang dihasilkan **jamur mikoriza arbuskular**; mengikat partikel tanah membentuk **agregat tanah** yang stabil
+- C. virus tanah
+- D. sejenis humus dari daun yang membusuk
 
 **Kunci: B**
 **Pembahasan:**
-Wait, both A says "protein yang dihasilkan mikoriza arbuskular" and B says "glikoprotein lengket..." — let me re-read. Actually I see B as the longer correct answer.
-
-- **A salah / kurang lengkap** — Pernyataan terlalu ringkas.
-- **B benar** — **Glomalin** = **glikoprotein (protein bergula) lengket** yang dihasilkan oleh **jamur mikoriza arbuskular (AMF)** pada hifa mereka. Fungsi penting: (1) **Mengikat partikel tanah** menjadi **agregat stabil** (mirip "lem alami" tanah) → struktur tanah baik, **aerasi dan drainase optimal**, **erosi berkurang**; (2) **Penyimpan karbon yang signifikan** — bahkan bisa **lebih banyak dari humus** dalam beberapa tanah! Penemuan glomalin pada 1996 oleh **Sara Wright** (USDA) mengubah pemahaman struktur dan karbon tanah. Tanah dengan banyak mikoriza & glomalin = tanah subur. Praktik no-till dan cover crop melestarikan glomalin; pengolahan intensif menghancurkannya.
-- **C salah** — Bukan virus.
-- **D salah** — Bukan mineral.
-
-Hmm, this is a confusing question because B is essentially expansion of A. Let me note that my key tabulation uses "B" but I should be careful.
+- **A salah** — Mengira perekat tanah pasti mineral lempung. Glomalin memang merekatkan butir tanah, tetapi ia zat organik (protein bergula), bukan mineral.
+- **B benar** — **Glomalin** = **glikoprotein (protein bergula) lengket** yang dihasilkan hifa **jamur mikoriza arbuskular**. Fungsinya: (1) **mengikat partikel tanah** menjadi **agregat stabil** ("lem alami" tanah) → aerasi dan drainase baik, erosi berkurang; (2) **menyimpan karbon** dalam jumlah besar. Ditemukan tahun 1996 oleh **Sara Wright** (USDA). Pengolahan tanah intensif merusaknya; praktik tanpa olah tanah dan tanaman penutup melestarikannya.
+- **C salah** — Pengecoh umpan; virus bukan zat perekat tanah.
+- **D salah** — Mengira semua bahan organik tanah adalah humus. Glomalin dibuat oleh jamur yang hidup, bukan hasil pelapukan daun.
 
 ---
 

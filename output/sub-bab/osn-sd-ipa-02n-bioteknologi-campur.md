@@ -2554,7 +2554,7 @@ D. 3 – 4 – 1 – 2
   - **D. 3 – 4 – 1 – 2** — Salah. Membungkus di awal tanpa bahan siap tidak masuk akal.
 - **Langkah Penyelesaian:**
   1. Masak bahan dahulu agar patinya mudah diubah ragi.
-  2. Tabur ragi setelah bahan tidak panas → bungkus → tunggu.
+  2. Tabur ragi setelah bahan tidak panas → bungkus → diamkan.
 - **Hasil akhir:** 1 – 2 – 3 – 4.
 - **💭 Tips:** "Ragi ditabur saat bahan sudah dingin, baru 'dikunci' dalam bungkusan."
 

@@ -3,7 +3,7 @@
 - **Bab:** MTK 05 · Pengukuran (Panjang, Berat, Volume, Waktu, Kecepatan, Debit)
 - **Sub-bab:** 05g, 05h
 - **Objek (EN):** a motorcycle analog speedometer gauge cluster
-- **Soal terkait:** 894 soal di 122 file
+- **Soal terkait:** 895 soal di 122 file
   - `mtk-05h-konversi-kecepatan-campur` (100)
   - `mtk-05g-kecepatan-jarak-waktu-campur` (98)
   - `ipa-03m-momentum-campur` (60)

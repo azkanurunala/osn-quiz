@@ -3,7 +3,7 @@
 - **Bab:** IPA 04 · Cahaya, Bunyi, Panas & Zat
 - **Sub-bab:** 04l
 - **Objek (EN):** items showing chemical changes arranged in a tidy row
-- **Soal terkait:** 146 soal di 63 file
+- **Soal terkait:** 147 soal di 63 file
   - `ipa-04l-sifat-fisika-kimia-campur` (23)
   - `ipa-04p-atom-partikel-campur` (11)
   - `ipa-04-cahaya-bunyi-panas-sedang-sulit` (6)

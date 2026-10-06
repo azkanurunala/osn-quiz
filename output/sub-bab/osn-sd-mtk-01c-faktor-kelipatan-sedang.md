@@ -1673,17 +1673,17 @@ Bagian ini berisi soal faktorisasi prima, FPB/KPK, aturan habis dibagi, dan soal
 **74.** Banyak faktor dari bilangan kuadrat 144 adalah ....
 
 - A. 15
-- B. 16
-- C. 18
+- B. 8
+- C. 6
 - D. 20
 
 **Kunci: A**
 **Pembahasan:**
 - **A benar** — 144 = 2⁴ × 3² → banyak faktor = (4+1)(2+1) = 5 × 3 = 15.
-- **B salah** — Menganggap pangkat 3 dianggap salah, menghasilkan (4+1)(3+1) dihitung keliru menjadi 16.
-- **C salah** — Salah hitung suku kedua, (4+1)(3+1) dihitung keliru menjadi 18.
-- **D salah** — Menganggap pangkat 3 dianggap 3, bukan 2: (4+1)(3+1) = 20.
-- **Konsep kunci:** Selalu cek ulang pangkat pada faktorisasi prima sebelum menerapkan rumus (a+1)(b+1)….
+- **B salah** — Pangkat langsung dikalikan tanpa ditambah 1: 4 × 2 = 8.
+- **C salah** — Pangkat dijumlahkan: 4 + 2 = 6.
+- **D salah** — 3² terbaca 3³: (4+1)(3+1) = 20.
+- **Konsep kunci:** Banyak faktor = hasil kali (pangkat + 1) dari setiap faktor prima.
 - **Langkah Penyelesaian:**
   1. Uraikan 144 = 2⁴ × 3².
   2. Terapkan rumus (4+1)(2+1).

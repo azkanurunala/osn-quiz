@@ -2856,8 +2856,8 @@ Suatu pola: 7, 12, 19, 28, 39, …. Tentukan suku ke-15.
 
 **(2) Pilihan Jawaban:**
 
-A. 247
-B. 252
+A. 77
+B. 225
 C. 256
 D. 259
 
@@ -2865,13 +2865,13 @@ D. 259
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Pola kuadrat dengan rumus `U_n = n² + 4n + 2` (atau ekuivalen `(n+2)² − 2`).
+- **Konsep yang diuji:** Pola kuadrat dengan rumus `U_n = n² + 2n + 4` (atau ekuivalen `(n+1)² + 3`).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 247** — Salah. Distraktor.
-  - **B. 252** — Salah. Bukan turunan rumus.
-  - **C. 256** — Salah. Ini `16²`, jika siswa pakai pola murni n²+offset salah.
-  - **D. 259** — Benar. Selisih: 5, 7, 9, 11 (beda 2 → pola kuadrat). A=1. U_1=7 → 1+B+C=7 → B+C=6. U_2=12 → 4+2B+C=12 → 2B+C=8. Selisih: B=2, C=4. Rumus: `U_n = n² + 2n + 4`. Hmm tunggu, cek: U_3 = 9+6+4=19 ✓. U_4 = 16+8+4=28 ✓. `U_15 = 225 + 30 + 4 = 259` ✓.
+  - **A. 77** — Salah. Pola dianggap aritmetika dengan beda tetap 5: 7 + 14 × 5 = 77; padahal selisihnya terus bertambah.
+  - **B. 225** — Salah. Hanya 15² yang dihitung; suku 2n + 4 terlupa.
+  - **C. 256** — Salah. Rumus (n + 1)² dipakai tanpa + 3: 16² = 256.
+  - **D. 259** — Benar. Selisih: 5, 7, 9, 11 (beda 2 → pola kuadrat). Rumus `U_n = n² + 2n + 4`; cek U_3 = 9 + 6 + 4 = 19 ✓, U_4 = 16 + 8 + 4 = 28 ✓. `U_15 = 225 + 30 + 4 = 259`.
 
 - **Langkah Penyelesaian:**
   1. Cek selisih pertama: 5, 7, 9, 11 (beda 2) → pola kuadrat.
@@ -2883,7 +2883,7 @@ D. 259
 
 - **Hasil akhir:** 259
 
-- **💭 Tips:** Untuk pola kuadrat, susun rumus dari dua suku awal, lalu verifikasi dengan suku ke-3 atau ke-4 sebelum substitusi n besar.
+- **💭 Tips:** Untuk pola kuadrat, susun rumus dari dua suku awal, lalu periksa dengan suku ke-3 atau ke-4 sebelum memasukkan n besar.
 
 ---
 

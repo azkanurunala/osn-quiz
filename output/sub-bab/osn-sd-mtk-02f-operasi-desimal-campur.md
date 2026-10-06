@@ -1981,30 +1981,26 @@ D. 5,2
 
 ---
 
-**82.** Sebuah taman berbentuk persegi panjang berukuran 8,5 m × 6,4 m. Di sekeliling taman akan dipasang lampu setiap 1,7 m. Berapa banyak lampu yang dibutuhkan?
+**82.** Sebuah taman berbentuk persegi panjang berukuran 8,5 m × 6,8 m. Di sekeliling taman akan dipasang lampu setiap 1,7 m. Berapa banyak lampu yang dibutuhkan?
 
-A. 16 lampu
+A. 9 lampu
 B. 18 lampu
-C. 20 lampu
-D. 30 lampu
+C. 19 lampu
+D. 52 lampu
 
 **Kunci: B**
 
 **Pembahasan:**
-- A) Salah hitung keliling: 2 × (8,5 + 6,4) = 2 × 14,9 = 29,8 → 29,8 ÷ 1,7 = 17,5 — distraktor 16 (membulatkan ke bawah salah).
-- B) **BENAR**. Keliling = 2 × (8,5 + 6,4) = 2 × 14,9 = 29,8 m. Hmm, 29,8 ÷ 1,7 = 17,5... → distraktor menyatakan jawaban 18 sebagai pembulatan ke atas (karena lampu dipasang di titik, dan titik awal = titik akhir bertemu, sehingga butuh pembulatan). 
-  Sebenarnya jika titik awal = titik akhir bertemu di keliling, jumlah lampu = jumlah titik di sekeliling = keliling ÷ jarak (dibulatkan agar pas membentuk siklus). Karena soal ini idealnya menghasilkan 17–18, kita pilih 18 sebagai pembulatan ke atas (agar tidak ada celah > 1,7 m). 
-  Untuk konsistensi pedagogis: keliling 29,8 m ÷ jarak 1,7 m = 17,529..., dibulatkan ke atas → **18 lampu**.
-- C) Salah hitung keliling: 2 × (8,5 + 6,4) dihitung 34 (lupa hitung 0,9); 34 ÷ 1,7 = 20.
-- D) Salah operasi: 29,8 × 1 + sisa = mengarang 30. Tidak konsisten.
+- A) Salah. Hanya setengah keliling (8,5 + 6,8 = 15,3) yang dibagi 1,7; lupa dikali 2.
+- B) **BENAR**. Keliling = 2 × (8,5 + 6,8) = 30,6 m. Banyak lampu = 30,6 ÷ 1,7 = 18. Karena lintasannya tertutup, lampu pertama dan terakhir bertemu, jadi tidak perlu ditambah 1.
+- C) Salah. Ditambah 1 seperti memasang lampu di garis lurus; pada keliling tertutup titik awal = titik akhir.
+- D) Salah. Keliling dikali 1,7 (30,6 × 1,7 ≈ 52), padahal seharusnya dibagi.
 
-> Catatan: Pembulatan pada soal lampu/pohon di sekeliling memerlukan ke atas agar siklus tertutup.
-
-- **Konsep kunci:** Soal lampu/pohon mengelilingi taman memerlukan pembulatan ke atas dari hasil keliling dibagi jarak agar tidak ada celah.
+- **Konsep kunci:** Banyak benda di sekeliling bangun tertutup = keliling ÷ jarak antarbenda (tanpa + 1).
 - **Langkah Penyelesaian:**
-  1. Hitung keliling taman: 2 × (8,5 + 6,4) = 29,8 m.
-  2. Bagi dengan jarak antar lampu: 29,8 ÷ 1,7 ≈ 17,5.
-  3. Bulatkan ke atas menjadi 18 lampu agar siklus tertutup.
+  1. Hitung keliling taman: 2 × (8,5 + 6,8) = 30,6 m.
+  2. Bagi dengan jarak antar lampu: 30,6 ÷ 1,7 = 18.
+  3. Lintasan tertutup → 18 lampu.
 
 ---
 

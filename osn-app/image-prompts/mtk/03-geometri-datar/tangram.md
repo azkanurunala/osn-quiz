@@ -3,10 +3,10 @@
 - **Bab:** MTK 03 · Geometri Datar & Sudut
 - **Sub-bab:** 03j, 03k, 08e
 - **Objek (EN):** a wooden tangram puzzle assembled into a square
-- **Soal terkait:** 357 soal di 102 file
+- **Soal terkait:** 359 soal di 102 file
   - `mtk-06c-diskon-campur` (61)
   - `mtk-03j-gabungan-jumlah-campur` (39)
-  - `mtk-04l-ruang-gabungan-campur` (14)
+  - `mtk-04l-ruang-gabungan-campur` (15)
   - `mtk-02k-cerita-persen-campur` (13)
   - `mtk-03-geometri-datar-sedang` (13)
   - `mtk-03-geometri-datar-sedang-sulit` (8)

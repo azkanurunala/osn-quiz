@@ -3,7 +3,7 @@
 - **Bab:** IPA 04 · Cahaya, Bunyi, Panas & Zat
 - **Sub-bab:** 04l, 04p
 - **Objek (EN):** samples of pure chemical elements in one row
-- **Soal terkait:** 259 soal di 82 file
+- **Soal terkait:** 260 soal di 82 file
   - `ipa-03k-konduktor-isolator-campur` (23)
   - `ipa-04l-sifat-fisika-kimia-campur` (18)
   - `ipa-04p-atom-partikel-campur` (16)

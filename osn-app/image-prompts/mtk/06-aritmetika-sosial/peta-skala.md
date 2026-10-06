@@ -3,7 +3,7 @@
 - **Bab:** MTK 06 · Aritmetika Sosial & Skala
 - **Sub-bab:** 06i
 - **Objek (EN):** a folded paper topographic-style map partially unfolded with a clear ruler on top
-- **Soal terkait:** 396 soal di 94 file
+- **Soal terkait:** 397 soal di 94 file
   - `mtk-06i-skala-campur` (100)
   - `mtk-06-aritmetika-sosial-mudah` (17)
   - `mtk-06-aritmetika-sosial-campur` (16)

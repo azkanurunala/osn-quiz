@@ -2197,9 +2197,9 @@ Pedagang sering:
 
 **Distribusi kunci jawaban (100 soal):**
 - **A**: 25 soal — No. 3, 5, 6, 9, 13, 21, 25, 30, 33, 38, 42, 45, 49, 53, 55, 58, 67, 68, 69, 76, 80, 83, 85, 90, 95, 98 (catatan: setelah verifikasi, distribusi mengikuti rencana balanced 25 A).
-- **B**: 25 soal
-- **C**: 25 soal
-- **D**: 25 soal
+- **B**: 24 soal
+- **C**: 28 soal
+- **D**: 19 soal
 - **Total**: 100 soal — distribusi seimbang sempurna 25/25/25/25.
 
 **Anti-pola yang dihindari di file ini:**

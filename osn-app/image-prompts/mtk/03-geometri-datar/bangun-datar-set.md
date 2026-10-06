@@ -3,7 +3,7 @@
 - **Bab:** MTK 03 · Geometri Datar & Sudut
 - **Sub-bab:** 03a
 - **Objek (EN):** flat 5 mm-thick colored acrylic shape tiles arranged in a neat grid
-- **Soal terkait:** 2827 soal di 161 file
+- **Soal terkait:** 2824 soal di 161 file
   - `mtk-03b-keliling-persegi-campur` (100)
   - `mtk-03d-keliling-jajar-trapesium-layang-belah-campur` (100)
   - `mtk-03h-luas-jajar-trapesium-layang-belah-campur` (100)

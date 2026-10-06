@@ -1777,30 +1777,24 @@ Hafalkan enam nilai ini — banyak soal OSN cuma butuh perbandingan sederhana.
 
 ---
 
-**84.** Pada diagram lingkaran 720 siswa: olahraga (P) 30%, seni (Q) 25%, akademik (R) 25%, lainnya (S) 20%. Jika 60% dari sektor P adalah laki-laki dan 40% dari sektor Q adalah laki-laki, berapa total laki-laki di P dan Q?
-- A. 152 siswa
-- B. 198 siswa
-- C. 200 siswa
-- D. 202 siswa
+**84.** Pada diagram lingkaran 720 siswa: olahraga (P) 30%, seni (Q) 25%, akademik (R) 25%, lainnya (S) 20%. Jika 50% dari sektor P adalah laki-laki dan 40% dari sektor Q adalah laki-laki, berapa total laki-laki di P dan Q?
+
+- A. 180 siswa
+- B. 396 siswa
+- C. 108 siswa
+- D. 72 siswa
 
 **Kunci: A**
 **Pembahasan:**
-- **A** — Benar. P = 30% × 720 = 216. Laki di P = 60% × 216 = 129,6 ≈ 130. Q = 25% × 720 = 180. Laki di Q = 40% × 180 = 72. Total = 130 + 72 = 202 → atau eksak 129,6 + 72 = 201,6 ≈ **202** siswa. Pembulatan resmi: **152** jika menghitung berbeda. **Catatan pedagogis**: nilai eksak ≈ 202 siswa. ✅ (Jawaban paling tepat).
-
-> **Catatan**: nilai eksak adalah 201,6 ≈ 202; jawaban A "152" dikoreksi sebagai **D = 202**.
-
-Hmm — catatan: jawaban yang benar **D = 202**. Mari kita perbaiki secara eksplisit:
-- **A** — 152 = sembarang, salah hitung subset.
-- **B** — 198 = pembulatan asal.
-- **C** — 200 = pembulatan ke bawah.
-- **D** — Benar. 130 + 72 = **202 siswa**. ✅
+- **A** — Benar. P = 30% × 720 = 216; laki-laki di P = 50% × 216 = 108. Q = 25% × 720 = 180; laki-laki di Q = 40% × 180 = 72. Total = **180 siswa**.
+- **B** — 216 + 180 = 396 adalah seluruh siswa P dan Q, belum diambil bagian laki-lakinya.
+- **C** — Hanya laki-laki di P; laki-laki di Q terlupa.
+- **D** — Hanya laki-laki di Q; laki-laki di P terlupa.
 - **Konsep kunci:** Persen di dalam persen: hitung ukuran tiap sektor dulu, lalu ambil persen di dalamnya.
 - **Langkah Penyelesaian:**
-  1. P = 30% × 720 = 216; laki-laki di P = 60% × 216 ≈ 130.
-  2. Q = 25% × 720 = 180; laki-laki di Q = 40% × 180 = 72.
-  3. Total laki-laki = 130 + 72 = 202 siswa, jadi kunci D.
-
-**Kunci (revisi): D**
+  1. P = 216; laki-laki di P = 108.
+  2. Q = 180; laki-laki di Q = 72.
+  3. Total laki-laki = 180 siswa.
 
 ---
 
@@ -1925,28 +1919,23 @@ Hmm — catatan: jawaban yang benar **D = 202**. Mari kita perbaiki secara ekspl
 ---
 
 **91.** Pada diagram lingkaran 1.080 siswa: sektor "kelas 4" = 144°, "kelas 5" = 108°, "kelas 6" = 72°, "lainnya" sisanya. Berapa siswa di "lainnya"?
+
 - A. 108 siswa
 - B. 144 siswa
-- C. 252 siswa
-- D. 432 siswa
+- C. 972 siswa
+- D. 36 siswa
 
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-- **A** — 108 = (108/360) × 1.080 / sembarang, salah sektor.
-- **B** — 144 = sembarang sektor.
-- **C** — 252 = pembulatan tengah.
-- **D** — Benar. Sisa sudut = 360 − (144+108+72) = 36°? Wait — 360 − 324 = 36°. **Catatan revisi**: Sisa = 360 − 324 = 36°. Jumlah lainnya = (36/360) × 1.080 = 108 siswa. **Jawaban yang benar: A = 108 siswa.**
-
-**Kunci (revisi): A**
-- **A** — Benar. Sisa sudut = 360° − (144+108+72)° = 36°. Jumlah = (36/360) × 1.080 = **108 siswa**. ✅
-- **B** — 144 = sektor kelas 4 (tertukar).
-- **C** — 252 = sembarang.
-- **D** — 432 = (40%) × 1.080, salah persen sisa.
+- **A** — Benar. Sisa sudut = 360° − (144 + 108 + 72)° = 36°. Jumlah = (36/360) × 1.080 = **108 siswa**.
+- **B** — Besar sudut sektor kelas 4 (144°) dibaca sebagai banyak siswa.
+- **C** — (324/360) × 1.080 = 972 adalah siswa kelas 4–6, bukan "lainnya".
+- **D** — Sudut sisa 36° dibaca langsung sebagai banyak siswa, tanpa diubah dengan perbandingan terhadap 360°.
 - **Konsep kunci:** Sisa sudut lalu diubah ke jumlah siswa dengan (sudut ÷ 360) × total.
 - **Langkah Penyelesaian:**
-  1. Sisa sudut = 360 − (144+108+72) = 36°.
+  1. Sisa sudut = 360 − (144 + 108 + 72) = 36°.
   2. 36/360 = 1/10.
-  3. 1/10 × 1.080 = 108 siswa, jadi kunci A.
+  3. 1/10 × 1.080 = 108 siswa.
 
 ---
 
@@ -2128,10 +2117,10 @@ Hmm — catatan: jawaban yang benar **D = 202**. Mari kita perbaiki secara ekspl
 ## BAGIAN III · CATATAN KUNCI BALANCED
 
 **Distribusi kunci jawaban (100 soal):**
-- **A**: 25 soal
-- **B**: 25 soal
-- **C**: 25 soal
-- **D**: 25 soal
+- **A**: 21 soal
+- **B**: 35 soal
+- **C**: 35 soal
+- **D**: 9 soal
 - **Konsep kunci:** Perubahan kondisi: hitung persen baru pada total yang baru.
 - **Langkah Penyelesaian:**
   1. Total 2025 = 5.000 × 1,2 = 6.000 pemilih.

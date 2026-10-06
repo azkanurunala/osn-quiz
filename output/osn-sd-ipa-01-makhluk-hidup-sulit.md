@@ -1038,7 +1038,7 @@ D. Kambium yang menggandakan jaringan
 - **Tips:** Memori xilem vs floem:
   - **Xilem (X)** — naik ke atas (X = X-ylem mengangkut H2O ke atas) — air + mineral, daun ke daun
   - **Floem (F)** — turun + ke mana saja (F = fotosintesis hasil) — gula
-  
+
   Trik: "Air naik Xilem, gula tFurun Floem".
 
 ---
@@ -2427,7 +2427,7 @@ D. Merunduk = menggali akar dan memindah ke tempat lain
 - **Konsep yang diuji:** Definisi empat metode perbanyakan vegetatif buatan.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Cangkok = balut luka batang → keluar akar → potong; mangga** — Benar. Cangkok (marcottage/air-layering): kupas kulit melingkar, balut dengan tanah lembap, tunggu akar keluar dari luka, potong dan tanam. Tepat untuk pohon berkambium (mangga, jambu, jeruk).
+  - **A. Cangkok = balut luka batang → keluar akar → potong; mangga** — Benar. Cangkok (marcottage/air-layering): kupas kulit melingkar, balut dengan tanah lembap, biarkan sampai akar keluar dari luka, potong dan tanam. Tepat untuk pohon berkambium (mangga, jambu, jeruk).
   - **B. Stek = tempel mata tunas** — Salah. Itu okulasi (budding). Stek = memotong cabang/batang lalu menancapkan ke tanah/media (singkong, mawar).
   - **C. Okulasi = tanam potongan batang** — Salah. Itu stek. Okulasi = tempel mata tunas.
   - **D. Merunduk = gali akar** — Salah. Merunduk (layering) = membengkokkan cabang yang fleksibel ke tanah agar bagian yang tertimbun mengeluarkan akar, baru kemudian dipotong (alamanda, melati, apel).

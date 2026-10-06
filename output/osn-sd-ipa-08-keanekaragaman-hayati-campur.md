@@ -1554,7 +1554,7 @@ D. Fungi selalu bersel satu, Plantae selalu multiseluler
 
 | No | Jawaban | Sub-topik | Tingkat |
 |----|---------|-----------|---------|
-| 1 | C | Pengertian Keanekaragaman Hayati | Kab |
+| 1 | A | Pengertian Keanekaragaman Hayati | Kab |
 | 2 | B | Pengertian Keanekaragaman Hayati | Kab |
 | 3 | C | Pengertian Keanekaragaman Hayati | Kab |
 | 4 | D | Pengertian Keanekaragaman Hayati | Kab |

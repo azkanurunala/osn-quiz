@@ -5,8 +5,8 @@
 - **Objek (EN):** length-measuring tools arranged in a tidy row, unbranded
 - **Soal terkait:** 2007 soal di 246 file
   - `mtk-03b-keliling-persegi-campur` (90)
-  - `mtk-03j-gabungan-jumlah-campur` (66)
-  - `mtk-03d-keliling-jajar-trapesium-layang-belah-campur` (51)
+  - `mtk-03j-gabungan-jumlah-campur` (65)
+  - `mtk-03d-keliling-jajar-trapesium-layang-belah-campur` (52)
   - `mtk-05a-konversi-panjang-campur` (49)
   - `mtk-04-geometri-ruang-mudah` (48)
   - `mtk-03-geometri-datar-mudah-sedang` (47)

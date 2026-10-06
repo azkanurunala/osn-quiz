@@ -3,7 +3,7 @@
 - **Bab:** IPA 02 · Tubuh Manusia & Kesehatan
 - **Sub-bab:** 02f
 - **Objek (EN):** a full human vertebral column model with sacrum and coccyx
-- **Soal terkait:** 125 soal di 37 file
+- **Soal terkait:** 126 soal di 38 file
   - `ipa-02f-rangka-otot-campur` (20)
   - `ipa-01b-klasifikasi-hewan-campur` (11)
   - `ipa-02e-saraf-indera-campur` (11)

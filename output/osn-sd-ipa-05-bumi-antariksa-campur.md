@@ -2207,7 +2207,7 @@ D. Bersembunyi di lemari kayu yang tinggi
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Langsung lari ke luar kelas tanpa peduli sekitar** — Salah. Lari panik di tengah gempa berbahaya: bisa tertimpa benda jatuh, terjepit pintu, atau jatuh tangga. Aturan internasional: jangan keluar saat masih bergoncang.
   - **B. Berdiri di tengah ruangan menunggu gempa berhenti** — Salah. Berdiri tegak saat gempa = risiko jatuh + tertimpa langit-langit/lampu. Tidak terlindung.
-  - **C. Berlindung di bawah meja yang kokoh, lindungi kepala, lalu evakuasi setelah goncangan reda** — Benar. Ini metode **"Drop, Cover, Hold On"** standar internasional: jatuhkan diri ke lantai, lindungi di bawah meja kuat, tutup kepala-leher, tunggu goncangan berhenti **baru** keluar dengan tertib.
+  - **C. Berlindung di bawah meja yang kokoh, lindungi kepala, lalu evakuasi setelah goncangan reda** — Benar. Ini metode **"Drop, Cover, Hold On"** standar internasional: jatuhkan diri ke lantai, lindungi di bawah meja kuat, tutup kepala-leher, bertahan sampai goncangan berhenti, **baru** keluar dengan tertib.
   - **D. Bersembunyi di lemari kayu yang tinggi** — Salah. Lemari tinggi justru berbahaya karena bisa **roboh menimpa**. Bukan tempat perlindungan saat gempa.
 
 - **Langkah Penyelesaian (cara benar):**
@@ -2695,7 +2695,7 @@ D. Penanda km di jalan tol
 
 - **Hasil akhir:** **B**.
 
-- **Tips:** Sistem InaTEWS dibuat setelah **tsunami Aceh 2004** yang merenggut 230.000+ jiwa. Saat itu Indonesia belum punya sistem peringatan. Sekarang BMKG bisa mengirim peringatan dalam **<5 menit** setelah gempa. Tetap, jangan tunggu peringatan — kalau gempa kuat di pesisir, segera mengungsi ke tempat tinggi.
+- **Tips:** Sistem InaTEWS dibuat setelah **tsunami Aceh 2004** yang merenggut 230.000+ jiwa. Saat itu Indonesia belum punya sistem peringatan. Sekarang BMKG bisa mengirim peringatan dalam **<5 menit** setelah gempa. Tetap, jangan menunggu peringatan — kalau gempa kuat di pesisir, segera mengungsi ke tempat tinggi.
 
 ---
 
@@ -3846,11 +3846,4 @@ Setelah menguasai bab ini (target: benar ≥80 dari 100), siswa disarankan lanju
 ---
 
 > **Selamat berlatih! Tetap semangat menjaga Bumi kita.**
-
-
-
-
-
-
-
 

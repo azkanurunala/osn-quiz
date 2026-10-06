@@ -2069,7 +2069,7 @@ D. Bifokal
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Koreksi miopi dengan kacamata.
+- **Konsep yang diuji:** Mengatasi miopi dengan kacamata.
 
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Cembung (plus, +)** — Salah. Lensa cembung untuk hipermetropi (rabun **dekat**), bukan rabun jauh.

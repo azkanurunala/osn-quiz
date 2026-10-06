@@ -3,8 +3,8 @@
 - **Bab:** IPA 01 · Makhluk Hidup & Lingkungan
 - **Sub-bab:** 01e
 - **Objek (EN):** four artificial vegetative propagation techniques on woody plant stems, in one row
-- **Soal terkait:** 321 soal di 94 file
-  - `mtk-03j-gabungan-jumlah-campur` (37)
+- **Soal terkait:** 323 soal di 94 file
+  - `mtk-03j-gabungan-jumlah-campur` (39)
   - `ipa-01e-reproduksi-tumbuhan-campur` (23)
   - `ipa-01l-simbiosis-campur` (14)
   - `mtk-04l-ruang-gabungan-campur` (13)

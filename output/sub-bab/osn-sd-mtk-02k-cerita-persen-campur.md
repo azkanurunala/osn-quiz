@@ -1652,19 +1652,20 @@ Persentase sisa (tidak lulus) = 100% − 75% = **25%**.
 ---
 
 **74.** Suatu kelas terdiri 25 siswa: 16 laki-laki. Setelah 3 siswa perempuan baru pindah masuk, berapa persen siswa laki-laki sekarang (dibulatkan)?
+
 - A. 53%
 - B. 57%
 - C. 64%
-- D. 67%
+- D. 43%
 
 **Kunci: B**
 **Pembahasan:**
-- **A** — 53% = 16/30 × 100% ≈ 53,3% (salah: total siswa baru = 28, bukan 30).
-- **B** — Benar. Total baru = 25 + 3 = 28 siswa. (16/28) × 100% ≈ 57,1% ≈ 57%. ✅
-- **C** — 64% = 16/25 × 100% (persen sebelum tambahan).
-- **D** — 67% = mengira 2/3.
+- **A** — Pengecoh umpan: 16/30 ≈ 53%, dengan total baru salah dihitung 30.
+- **B** — Benar. Total baru = 25 + 3 = 28 siswa. (16/28) × 100% ≈ 57,1% ≈ 57%.
+- **C** — 64% = 16/25 × 100%; masih memakai total lama sebelum 3 siswa masuk.
+- **D** — 43% = 12/28 × 100% adalah persen siswa perempuan, bukan laki-laki.
 
-- **Konsep kunci:** Saat ada penambahan anggota, hitung ulang persen dengan total yang baru, bukan total lama.
+- **Konsep kunci:** Saat ada penambahan anggota, persen dihitung lagi dengan total yang baru, bukan total lama.
 - **Langkah Penyelesaian:**
   1. Hitung total baru: 25 + 3 = 28 siswa.
   2. Bagi laki-laki dengan total baru: 16 ÷ 28.

@@ -3,7 +3,7 @@
 - **Bab:** MTK 06 · Aritmetika Sosial & Skala
 - **Sub-bab:** 06e
 - **Objek (EN):** a ceramic piggy bank
-- **Soal terkait:** 236 soal di 66 file
+- **Soal terkait:** 237 soal di 67 file
   - `mtk-06e-bunga-tunggal-campur` (51)
   - `mtk-06j-cerita-kombinasi-campur` (18)
   - `mtk-06-aritmetika-sosial-sedang` (13)

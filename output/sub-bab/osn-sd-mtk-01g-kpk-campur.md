@@ -1742,22 +1742,23 @@ KPK dipakai saat ada peristiwa **berulang** dan kita ingin tahu kapan **bersamaa
 ---
 
 **82.** Diketahui FPB(a, b) = 12 dan KPK(a, b) = 360 dengan a ≠ b. Pasangan (a, b) yang memenuhi adalah...
-- A. (24, 180)
-- B. (12, 360)
+
+- A. (24, 360)
+- B. (12, 180)
 - C. (36, 120)
 - D. (48, 90)
 
 **Kunci: C**
 **Pembahasan:**
-- **A** — Salah. FPB(24,180) = 12 ✅ tetapi KPK(24,180) = 360 ✅ — kelihatan memenuhi, namun cek lagi: 24 = 2³×3, 180 = 2²×3²×5 → FPB = 2²×3 = 12 ✅, KPK = 2³×3²×5 = 360 ✅. Pasangan ini valid juga, tetapi distractor dipilih C sebagai jawaban paling "klasik". *(Catatan: kasus seperti ini OSN sering pakai pasangan unik berdasar bentuk faktorisasi paling rapi.)*
-- **B** — Salah. Pasangan (12, 360) trivial (a=FPB, b=KPK) — biasanya tidak dianggap "pasangan" yang sah.
-- **C** — Benar. 36 = 2²×3², 120 = 2³×3×5. FPB = 2²×3 = 12 ✅, KPK = 2³×3²×5 = 360 ✅. Pasangan paling khas.
-- **D** — Salah. FPB(48,90) = 6, bukan 12.
-- **Konsep kunci:** Pasangan bilangan dengan FPB dan KPK tertentu dicek dengan menghitung FPB dan KPK tiap pilihan lalu dibandingkan.
+- **A** — Salah. KPK-nya memang 360, tetapi FPB(24, 360) = 24, bukan 12. Hanya KPK yang dicek.
+- **B** — Salah. FPB-nya memang 12, tetapi KPK(12, 180) = 180, bukan 360. Hanya FPB yang dicek.
+- **C** — Benar. 36 = 2² × 3², 120 = 2³ × 3 × 5. FPB = 2² × 3 = 12 ✅, KPK = 2³ × 3² × 5 = 360 ✅.
+- **D** — Salah. FPB(48, 90) = 6, bukan 12.
+- **Konsep kunci:** Cek FPB DAN KPK sekaligus. Petunjuk cepat: a × b harus sama dengan FPB × KPK = 4.320 (36 × 120 = 4.320 ✓).
 - **Langkah Penyelesaian:**
   1. Faktorkan tiap pasangan pilihan.
-  2. Hitung FPB dan KPK-nya, cocokkan dengan FPB=12 dan KPK=360.
-  3. Pasangan (36,120) paling sesuai dan khas untuk bentuk faktorisasi ini.
+  2. Hitung FPB dan KPK-nya, cocokkan dengan FPB = 12 dan KPK = 360.
+  3. Hanya (36, 120) yang memenuhi keduanya.
 
 ---
 

@@ -166,7 +166,8 @@ Yuk mulai latihan 100 soal!
 ---
 
 **4.** Suku ke-n dari barisan 4, 9, 14, 19, ... adalah ...
-- A. 5n − 1
+
+- A. n + 4
 - B. 4n + 1
 - C. 5n + 4
 - D. 5n − 1
@@ -174,10 +175,10 @@ Yuk mulai latihan 100 soal!
 **Kunci: D**
 
 **Pembahasan:**
-- **A** — 5n − 1. Sama dengan D, tapi cek lagi: untuk n=1, 5(1)−1 = 4 ✓ benar. Tapi opsi A dan D identik di sini — anggap A keliru tulis sebagai 5n + 1.
-- **B** — 4n + 1. Untuk n=1, 4(1)+1 = 5 ≠ 4. Salah; pakai a sebagai pengali alih-alih b.
-- **C** — 5n + 4. Untuk n=1, 5(1)+4 = 9 ≠ 4. Salah; menambah a tanpa kurangi b.
-- **D** — **BENAR.** Aritmetika a=4, b=5. Uₙ = 4 + (n−1)×5 = 4 + 5n − 5 = 5n − 1. Cek n=1: 5−1=4 ✓; n=2: 9 ✓.
+- **A** — n + 4. Untuk n = 2 hasilnya 6 ≠ 9; beda 5 tidak dipakai sebagai pengali n.
+- **B** — 4n + 1. Untuk n = 1, 4(1) + 1 = 5 ≠ 4. Suku pertama (4) dipakai sebagai pengali, padahal pengali n adalah beda (5).
+- **C** — 5n + 4. Untuk n = 1, 5(1) + 4 = 9 ≠ 4. Suku pertama ditambahkan tanpa dikurangi beda.
+- **D** — **BENAR.** a = 4, b = 5. Uₙ = 4 + (n−1) × 5 = 5n − 1. Cek n = 1: 4 ✓; n = 2: 9 ✓.
 
 ---
 
@@ -533,6 +534,7 @@ Yuk mulai latihan 100 soal!
 ---
 
 **27.** Berapa suku ke-12 dari barisan Fibonacci yang dimulai 1, 1, 2, 3, ...?
+
 - A. 144
 - B. 89
 - C. 233
@@ -541,12 +543,11 @@ Yuk mulai latihan 100 soal!
 **Kunci: A**
 
 **Pembahasan:**
-
-Hmm kunci 27 = A. Mari cek: F₁=1, F₂=1, F₃=2, F₄=3, F₅=5, F₆=8, F₇=13, F₈=21, F₉=34, F₁₀=55, F₁₁=89, F₁₂=144. ✓
-- **A** — **BENAR.** F₁₂ = 144 (mengikuti rumus rekursif Fibonacci).
-- **B** — 89. Itu F₁₁. Geser satu.
-- **C** — 233. Itu F₁₃. Geser ke depan.
-- **D** — 121. Itu 11² (salah jenis barisan).
+Urutkan: F₁ = 1, F₂ = 1, F₃ = 2, F₄ = 3, F₅ = 5, F₆ = 8, F₇ = 13, F₈ = 21, F₉ = 34, F₁₀ = 55, F₁₁ = 89, F₁₂ = 144.
+- **A** — **BENAR.** F₁₂ = 144.
+- **B** — 89 adalah F₁₁; terhenti satu suku terlalu awal.
+- **C** — 233 adalah F₁₃; kelebihan satu suku.
+- **D** — 121 = 11²; barisan Fibonacci tertukar dengan barisan bilangan kuadrat.
 
 ---
 

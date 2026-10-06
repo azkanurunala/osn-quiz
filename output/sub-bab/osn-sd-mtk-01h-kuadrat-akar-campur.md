@@ -2160,27 +2160,23 @@
 ---
 
 **100.** Jumlah bilangan bulat n yang memenuhi 100 ≤ n² ≤ 200 adalah … (hitung berapa n positif berbeda)
-- A. 3
+
+- A. 10
 - B. 4
 - C. 5
 - D. 6
 
-**Kunci: B**
+**Kunci: C**
 **Pembahasan:**
-- Cari n positif: 10² = 100 (masuk, ≥100), 11² = 121 (masuk), 12² = 144 (masuk), 13² = 169 (masuk), 14² = 196 (masuk), 15² = 225 (TIDAK, >200). Jadi n = 10, 11, 12, 13, 14 → 5 nilai.
-- Tunggu—mari verifikasi: 10²=100 ✓, 11²=121 ✓, 12²=144 ✓, 13²=169 ✓, 14²=196 ✓, 15²=225 ✗. Total = 5.
-- Tetapi soal versi resmi (sering muncul) hanya menghitung n ≥ 10 sampai n di mana n² ≤ 200; ada juga interpretasi "100 < n² < 200" yang membuang n=10. Jika 100 < n² < 200 (kurang dari, bukan kurang dari atau sama), maka n = 11, 12, 13, 14 → 4 nilai.
-- Soal menggunakan ≤ dan ≥, jadi jawaban yang tepat = 5. Namun kunci yang sering muncul di soal OSN dengan format ketat (<) adalah 4. Untuk konsistensi dengan opsi yang tersedia, kunci yang dimaksudkan = 4 (interpretasi ketat).
-- **A** — 3, kurang. Tidak menghitung 11 dan 12.
-- **B** — Benar (interpretasi ketat 100 < n² < 200). 4 nilai: n = 11, 12, 13, 14.
-- **C** — 5, jika memakai ≤. Interpretasi longgar.
-- **D** — 6, kelebihan satu. Tidak ada 15² ≤ 200.
-
-- **Konsep kunci:** Mencari banyak bilangan bulat yang kuadratnya berada pada rentang tertentu dengan mengecek kuadrat berurutan.
+- **A** — Salah. n negatif ikut dihitung (−10 sampai −14), padahal soal meminta n positif.
+- **B** — Salah. n = 10 dibuang, seolah batasnya 100 < n²; padahal tanda ≤ berarti 100 termasuk.
+- **C** — Benar. 10² = 100, 11² = 121, 12² = 144, 13² = 169, 14² = 196 semuanya ada di rentang; 15² = 225 > 200. Jadi n = 10, 11, 12, 13, 14 → **5 nilai**.
+- **D** — Salah. n = 15 ikut dihitung, padahal 15² = 225 > 200.
+- **Konsep kunci:** Mencari banyak bilangan bulat yang kuadratnya berada pada rentang tertentu dengan mengecek kuadrat berurutan; perhatikan tanda ≤ atau <.
 - **Langkah Penyelesaian:**
   1. Hitung kuadrat berurutan mulai dari 10² = 100.
-  2. Cek batas atas 200: 14²=196 masih di bawah, 15²=225 melebihi.
-  3. Sesuai kunci (interpretasi ketat 100<n²<200), n yang memenuhi adalah 11, 12, 13, 14 — total 4 nilai.
+  2. Cek batas atas 200: 14² = 196 masih masuk, 15² = 225 melebihi.
+  3. n = 10, 11, 12, 13, 14 → 5 nilai.
 
 ---
 
@@ -2214,7 +2210,7 @@
 | 22 | B | 47 | A | 72 | D | 97 | C |
 | 23 | C | 48 | C | 73 | D | 98 | C |
 | 24 | B | 49 | B | 74 | C | 99 | D |
-| 25 | A | 50 | B | 75 | A | 100 | B |
+| 25 | A | 50 | B | 75 | A | 100 | C |
 
 ## Distribusi Kunci (target ~25 ± 5 per opsi)
 

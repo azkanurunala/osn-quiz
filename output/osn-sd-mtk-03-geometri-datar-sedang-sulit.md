@@ -1041,8 +1041,8 @@ Sebuah taman berbentuk "L": persegi panjang 12 m × 5 m horizontal, lalu di ujun
 **(2) Pilihan Jawaban:**
 
 A. 34 m
-B. 38 m
-C. 42 m
+B. 26 m
+C. 60 m
 D. 50 m
 
 **(3) Jawaban:** **D. 50 m**
@@ -1052,25 +1052,25 @@ D. 50 m
 - **Konsep yang diuji:** Keliling bangun "L" = jumlah semua sisi luar (hanya pinggir).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 34 m** — Salah. Muncul jika siswa hanya menjumlahkan 2 sisi panjang dari masing-masing (12 + 5 + 8 + 5 + ... salah hitung).
-  - **B. 38 m** — Salah. Muncul jika siswa hitung keliling persegi panjang horizontal + sisi luar vertikal saja. Mis. 2×(12+5) − 5 (potong sisi dalam) + 2×(5+8) − 5 = 34 + 26 − 10 = 50. Memang yang benar 50. Maka 38 salah.
-  - **C. 42 m** — Salah. Muncul jika siswa hitung K = perimeter total dua bangun terpisah (34 + 26 = 60) − 2× sisi dalam dengan salah. Distraktor umpan.
-  - **D. 50 m** — Benar. Sisi-sisi luar bangun "L" (jalan sekitar pinggir): 12 (bawah) + 5 (kanan bawah, sebelum naik) + 8 (kanan atas, naik) ... mari telusuri: mulai dari pojok kiri-bawah, jalan ke kanan: 12 m (bawah). Naik di kanan-bawah sampai sisi atas horizontal: 5 m. Tunggu — bangun L: jadi setelah bagian horizontal selesai (di kanan), ada bagian vertikal yang naik 8 m. Lalu di atas, perlu jalan ke kiri sejauh 5 m (lebar bagian vertikal). Lalu turun 8 m (di kiri bagian vertikal) sampai sisi atas bagian horizontal. Lalu jalan ke kiri 7 m (12 − 5) di sisi atas horizontal. Lalu turun 5 m di kiri (sisi kiri horizontal). Total: 12 + 8 + 5 + 8 + 7 + 5 = 45. Hmm, tidak 50. Mari ulangi konfigurasi. (Lihat langkah penyelesaian — verifikasi 50 m.)
+  - **A. 34 m** — Salah. Hanya keliling persegi panjang horizontal: 2 × (12 + 5) = 34.
+  - **B. 26 m** — Salah. Hanya keliling persegi panjang vertikal: 2 × (5 + 8) = 26.
+  - **C. 60 m** — Salah. Kedua keliling dijumlahkan (34 + 26) tanpa membuang sisi 5 m yang menempel (terhitung dua kali).
+  - **D. 50 m** — Benar. Telusuri sisi luar dari pojok kiri-bawah: 12 + 13 + 5 + 8 + 7 + 5 = 50 m.
 
 - **Langkah Penyelesaian (cara benar):**
   1. Susun bangun "L": bagian horizontal 12 × 5 (lebar 12 m, tinggi 5 m), bagian vertikal 5 × 8 (lebar 5 m, tinggi 8 m) menempel di ujung kanan bagian horizontal, naik ke atas.
-  2. Sisi-sisi luar dari pojok kiri-bawah, searah jarum jam:
-     - kanan (sisi bawah horizontal) = 12 m
-     - naik (sisi kanan vertikal) = 8 + 5 = 13 m (sisi kanan TINGGI total dari bawah persegi panjang horizontal sampai atas persegi panjang vertikal)
-     - kiri (sisi atas vertikal) = 5 m
-     - turun (sisi kiri vertikal, dari atas vertikal sampai atas horizontal) = 8 m
-     - kiri (sisi atas horizontal yang tersisa di sebelah kiri vertikal) = 12 − 5 = 7 m
-     - turun (sisi kiri horizontal) = 5 m
+  2. Sisi-sisi luar dari pojok kiri-bawah, berlawanan arah jarum jam:
+     - ke kanan (sisi bawah) = 12 m
+     - naik (sisi kanan, tinggi total) = 5 + 8 = 13 m
+     - ke kiri (sisi atas bagian vertikal) = 5 m
+     - turun (sisi kiri bagian vertikal) = 8 m
+     - ke kiri (sisi atas bagian horizontal yang tersisa) = 12 − 5 = 7 m
+     - turun (sisi kiri bagian horizontal) = 5 m
   3. Total keliling = 12 + 13 + 5 + 8 + 7 + 5 = 50 m.
 
 - **Hasil akhir:** 50 m.
 
-- **💭 Tips:** Untuk bangun "L", jalan keliling sekali, hitung tiap segmen. Total bisa dicek: 2×(panjang total) + 2×(lebar total) untuk persegi panjang yang menyertakan "L" dalam kotak terkecil. Dalam soal ini: panjang total 12, lebar total 5+8=13 → 2×(12+13) = 50. ✓
+- **💭 Tips:** Keliling bangun "L" sama dengan keliling persegi panjang terkecil yang memuatnya: 2 × (12 + 13) = 50. ✓
 
 ---
 
@@ -2952,15 +2952,15 @@ D. 66 cm
 
 ---
 
-### Soal 77 · Persegi & Layang-Layang · Nasional
+### Soal 77 · Persegi & Segi Empat di Dalamnya · Nasional
 
 **(1) Soal:**
-Sebuah persegi sisi 12 cm. Di dalamnya digambar layang-layang dengan titik-titik sudutnya di tengah sisi atas, tengah sisi kanan, tengah sisi bawah, dan TITIK SUDUT KIRI-BAWAH persegi. Berapa luas layang-layang tersebut?
+Sebuah persegi bersisi 12 cm. Di dalamnya digambar segi empat dengan titik-titik sudut: tengah sisi atas, tengah sisi kanan, tengah sisi bawah, dan TITIK SUDUT KIRI-BAWAH persegi. Berapa luas segi empat tersebut?
 
 **(2) Pilihan Jawaban:**
 
 A. 36 cm²
-B. 54 cm²
+B. 90 cm²
 C. 72 cm²
 D. 108 cm²
 
@@ -2968,23 +2968,24 @@ D. 108 cm²
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Identifikasi diagonal layang-layang dari konfigurasi titik dalam persegi.
+- **Konsep yang diuji:** Luas segi empat di dalam persegi lewat pemotongan menjadi segitiga.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 36 cm²** — Salah. Muncul jika siswa pakai ½ × 6 × 12 = 36 (salah identifikasi diagonal).
-  - **B. 54 cm²** — Salah. Distraktor umpan.
-  - **C. 72 cm²** — Benar. Titik-titik: tengah atas (6, 12), tengah kanan (12, 6), tengah bawah (6, 0), kiri-bawah (0, 0). Diagonal horizontal: dari (0, 0) ke (12, 6) — tunggu, ini bukan diagonal yang lurus. Mari hitung dengan koordinat: titik di tengah atas T₁(6, 12), tengah kanan T₂(12, 6), tengah bawah T₃(6, 0), kiri-bawah T₄(0, 0). Diagonal: T₁T₃ vertikal (panjang 12), T₂T₄ — bukan tegak. Sebenarnya layang-layang ini punya 2 sumbu simetri yang TIDAK SAMA — bisa pakai cara lain: luas dengan dekomposisi atau formula koordinat (shoelace). Shoelace: ½ |x₁(y₂−y₄) + x₂(y₃−y₁) + x₃(y₄−y₂) + x₄(y₁−y₃)| = ½ |6(6−0) + 12(0−12) + 6(0−6) + 0(12−0)| = ½ |36 − 144 − 36 + 0| = ½ × 144 = 72 cm².
-  - **D. 108 cm²** — Salah. Distraktor.
+  - **A. 36 cm²** — Salah. Hanya satu dari dua segitiga penyusunnya yang dihitung.
+  - **B. 90 cm²** — Salah. Dari luas persegi hanya dikurangi segitiga kiri-atas (36) dan satu segitiga kecil (18); segitiga kecil yang lain terlupa.
+  - **C. 72 cm²** — Benar. Garis dari tengah sisi atas ke tengah sisi bawah (panjang 12) membagi segi empat menjadi dua segitiga. Masing-masing beralas 12 dan bertinggi 6: luas 36. Total 72 cm².
+  - **D. 108 cm²** — Salah. Hanya dua segitiga kecil di kanan (18 + 18) yang dikurangkan dari luas persegi; segitiga kiri-atas (36) terlupa.
 
 - **Langkah Penyelesaian (cara benar):**
-  1. Tetapkan koordinat: pojok kiri-bawah (0,0), kanan-bawah (12,0), kanan-atas (12,12), kiri-atas (0,12).
-  2. Titik layang-layang: tengah atas (6,12), tengah kanan (12,6), tengah bawah (6,0), kiri-bawah (0,0).
-  3. Pakai formula shoelace atau dekomposisi.
+  1. Tetapkan koordinat: pojok kiri-bawah (0,0); titik segi empat: (6,12), (12,6), (6,0), (0,0).
+  2. Tarik garis (6,12)–(6,0), panjang 12 cm.
+  3. Segitiga kiri: alas 12, tinggi 6 (jarak ke x = 0) → 36 cm². Segitiga kanan: alas 12, tinggi 6 (jarak ke x = 12) → 36 cm².
   4. Luas = 72 cm² (= ½ × luas persegi 144).
+  5. Cara lain: 144 − (36 + 18 + 18) = 72 cm².
 
 - **Hasil akhir:** 72 cm².
 
-- **💭 Tips:** Trik: titik-titik tengah sisi + 1 titik sudut sering membentuk bangun yang luasnya rasional terhadap persegi.
+- **💭 Tips:** Bangun di dalam persegi bisa dihitung dua cara: potong menjadi segitiga, atau kurangkan segitiga-segitiga di luarnya dari luas persegi.
 
 ---
 

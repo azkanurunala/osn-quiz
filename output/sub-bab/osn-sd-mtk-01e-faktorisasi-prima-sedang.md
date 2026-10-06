@@ -1878,7 +1878,7 @@ Seluruh 100 soal berikut fokus pada satu sub-topik yaitu **Faktorisasi Prima**, 
 - **Langkah Penyelesaian:**
   1. Cek pangkat pada 144 dan 324: semuanya genap pada kedua bilangan.
   2. Simpulkan keduanya kuadrat sempurna → pernyataan D benar.
-  3. Hitung ulang FPB dan KPK untuk membuktikan A, B salah; bandingkan nilai untuk membuktikan C salah.
+  3. Hitung FPB dan KPK untuk membuktikan A, B salah; bandingkan nilai untuk membuktikan C salah.
 
 ---
 

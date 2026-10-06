@@ -1771,31 +1771,23 @@ Hari 1 = 1,2 ton = 12 kuintal. Hari 2 = 12 − (25% × 12) = 12 − 3 = 9 kuinta
 ---
 
 **85.** Sebuah kapal mengangkut muatan ikan seberat 5 ton. Setelah singgah di 3 pelabuhan, kapal menurunkan masing-masing 8 kuintal, 750 kg, dan 1,2 ton. Sisa muatan kapal adalah ... kg.
-- A. 1.050 kg
-- B. 1.250 kg
-- C. 1.500 kg
-- D. 1.750 kg
-- **Konsep kunci:** Jumlahkan muatan yang diturunkan lalu kurangi dari total.
+
+- A. 2.250 kg
+- B. 2.750 kg
+- C. 3.042 kg
+- D. 2.970 kg
+
+**Kunci: A**
+**Pembahasan:**
+- **A** — Benar. Turun = 800 + 750 + 1.200 = 2.750 kg. Sisa = 5.000 − 2.750 = **2.250 kg**.
+- **B** — 2.750 kg adalah jumlah muatan yang diturunkan, bukan sisanya.
+- **C** — 8 kuintal tidak dikonversi (dianggap 8 kg): 5.000 − 8 − 750 − 1.200 = 3.042.
+- **D** — 1 kuintal dikira 10 kg (8 kuintal = 80 kg): 5.000 − 80 − 750 − 1.200 = 2.970.
+- **Konsep kunci:** Samakan semua satuan ke kg (1 ton = 1.000 kg, 1 kuintal = 100 kg), jumlahkan muatan yang diturunkan, lalu kurangi dari total.
 - **Langkah Penyelesaian:**
   1. Turun = 800 kg + 750 kg + 1.200 kg = 2.750 kg.
   2. Total awal = 5.000 kg.
   3. Sisa = 5.000 − 2.750 = 2.250 kg.
-
-**Kunci: D**
-**Pembahasan:**
-
-Total turun = 800 + 750 + 1.200 = 2.750 kg. Sisa = 5.000 − 2.750 = 2.250... Tunggu, hitung ulang.
-
-5.000 − 2.750 = 2.250 kg. Hmm, jawaban tidak ada. Mari periksa: 800 + 750 = 1.550; 1.550 + 1.200 = 2.750. 5.000 − 2.750 = 2.250 kg. Jika kapal awalnya 4 ton: 4.000 − 2.750 = 1.250 kg.
-
-Diasumsikan kapal awal **4 ton**: sisa = 1.250 kg → B. Tetapi soal menyebut 5 ton. Mari koreksi: jika ketiga pelabuhan menurunkan 8 kuintal + 1.250 kg + 1,2 ton = 800 + 1.250 + 1.200 = 3.250. Sisa = 5.000 − 3.250 = 1.750 kg → **D**.
-
-Perbaikan soal: nilai kedua adalah **1.250 kg** (bukan 750 kg). Bacaan resmi soal mengikuti perhitungan akhir.
-
-- **A** — 1.050 kg = salah penjumlahan.
-- **B** — 1.250 kg = nilai salah satu yang diturunkan.
-- **C** — 1.500 kg = 0,5 × 3.000, tebakan.
-- **D** — Benar. Sisa = 5.000 − (800 + 1.250 + 1.200) = 5.000 − 3.250 = **1.750 kg**. ✅
 
 ---
 
@@ -2150,9 +2142,9 @@ Total emas = 8 × 1,25 kg = 10 kg = 10.000 g. Nilai = 10.000 × 1.200.000 = 12.0
 - **Distribusi**: 50 Kab (No. 1–50) + 30 Prov (No. 51–80) + 20 Nas (No. 81–100)
 - **Distribusi kunci** (target balanced 25/25/25/25):
   - **A**: 25 soal — no. 4, 6 (B→harusnya cek lagi), dst. Lihat sebaran akhir di bawah.
-  - **B**: 25 soal
-  - **C**: 25 soal
-  - **D**: 25 soal
+  - **B**: 28 soal
+  - **C**: 28 soal
+  - **D**: 21 soal
 
 **Sebaran kunci final** (No. 1–100):
 - A: 4, 24, 30, 36, 41, 42, 46, 49, 50, 59, 63, 65, 67, 75, 76, 77, 78, 87, 93, 96 — *belum genap 25, lihat audit*

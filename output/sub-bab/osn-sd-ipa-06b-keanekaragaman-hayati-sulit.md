@@ -1499,29 +1499,29 @@ D. ular B naik karena katak makin banyak
 ### Soal 46 · Jaring Makanan · Nas
 
 **(1) Soal:**
-Jaring di pegunungan: pinus → lembing → tupai; pinus → burung pipit → tupai? (salah arah) — koreksi: pinus → kumbang → burung pelatuk; pinus → burung pipit → elang; kumbang → burung pelatuk → elang. Jika pinus ditebang berlebihan hingga biji & serangganya berkurang, spesies yang paling cepat terdampak adalah...
+Jaring makanan di pegunungan: pinus → kumbang → burung pelatuk → elang; pinus (biji) → burung pipit → elang. Jika pinus ditebang berlebihan hingga biji dan serangganya berkurang, hewan **puncak** yang ikut terancam walaupun **tidak memakan pinus secara langsung** adalah...
 
 **(2) Pilihan Jawaban:**
-A. Elang (di puncak jaring) — semua sumber makanannya berkurang
-B. Rumput (tidak terkait pinus)
-C. Batu (abiotik)
-D. Burung pipit hanya seorang
+A. Elang — semua jalur makanannya berawal dari pinus
+B. Rumput
+C. Batu
+D. Burung pipit
 
-**(3) Jawaban:** **A. Elang (di puncak jaring) — semua sumber makanannya berkurang**
+**(3) Jawaban:** **A. Elang — semua jalur makanannya berawal dari pinus**
 
 **(4) Pembahasan Komprehensif:**
-- **Konsep yang diuji:** Identifikasi posisi paling rawan saat dasar jaring runtuh.
+- **Konsep yang diuji:** Dampak tidak langsung pada predator puncak saat dasar jaring makanan runtuh.
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. Elang di puncak** — Benar. Elang bergantung pada burung pipit & burung pelatuk; keduanya bergantung pada pinus. Saat pinus menciut, seluruh jalur makanan elang turun → elang paling cepat kelaparan.
-  - **B. Rumput** — Salah. Rumput tidak dalam jalur makanan yang terhubung pinus; tidak terdampak dulu.
-  - **C. Batu** — Salah. Batu bukan makhluk hidup; tidak terdampak keanekaragaman hayati.
-  - **D. Burung pipit** — Salah. Pipit memang terdampak, tetapi tak sekuat elang yang kehilangan HAMPIR semua mangsa.
+  - **A. Elang** — Benar. Elang memakan burung pelatuk dan burung pipit; keduanya bergantung pada pinus (lewat kumbang atau biji). Saat pinus menyusut, kedua jalur makanan elang ikut menyusut.
+  - **B. Rumput** — Salah. Rumput tidak ada dalam jaring ini dan merupakan produsen, bukan hewan puncak.
+  - **C. Batu** — Salah. Batu benda tak hidup (abiotik), bukan anggota jaring makanan.
+  - **D. Burung pipit** — Salah. Pipit memang terancam, tetapi ia memakan biji pinus secara langsung dan bukan hewan puncak.
 - **Langkah Penyelesaian:**
-  1. Sumber: pinus → mangsa-mangsa.
-  2. Semua garis makanan mengalir ke atas menuju elang.
-  3. Saat dasar habis, “ujung puncak” (elang) kehilangan semua pemasok makanan dalam sekali waktu.
-- **Hasil akhir:** Elang paling cepat terdampak karena seluruh sumber makanannya berasal dari pinus.
-- **💭 Tips:** Predator puncak dengan spesialisasi pangan adalah yang paling rentan terhadap keruntuhan dasar jaring.
+  1. Telusuri semua jalur ke elang: pinus → kumbang → pelatuk → elang; pinus → pipit → elang.
+  2. Kedua jalur berawal dari pinus.
+  3. Elang tidak memakan pinus, tetapi seluruh makanannya bergantung pada pinus → ikut terancam.
+- **Hasil akhir:** Elang.
+- **💭 Tips:** Predator puncak yang semua jalur makanannya berasal dari satu produsen sangat rentan bila produsen itu hilang.
 
 ---
 

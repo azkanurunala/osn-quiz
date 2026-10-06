@@ -2149,7 +2149,7 @@ Bagian ini berisi soal cerita 2 langkah dan kombinasi operasi yang menantang pen
 - **A salah** — Membagi kasar: perubahan koin 74 − 30 = 44, lalu 44 ÷ 8 ≈ 6 (lupa memperhitungkan kalah).
 - **B salah** — Sama seperti A dengan pembulatan ke bawah (44 ÷ 8 ≈ 5).
 - **C benar** — Perubahan koin = 74 − 30 = 44. Misal menang = m, kalah = 10 − m. 8m − 4(10−m) = 44. 8m − 40 + 4m = 44. 12m = 84. m = 7.
-- **D salah** — Mengira hampir semua pertandingan menang tanpa cek ulang: 8×8 − 4×2 = 56 ≠ 44 (umpan).
+- **D salah** — Menebak hampir semua pertandingan menang tanpa diperiksa: 8 menang dan 2 kalah memberi 8×8 − 4×2 = 56, bukan 44.
 - **Konsep kunci:** Susun persamaan aljabar dari total pertandingan dan total perubahan koin.
 - **Langkah Penyelesaian:**
   1. Misalkan menang = m, kalah = 10 − m.

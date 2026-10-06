@@ -3,7 +3,7 @@
 - **Bab:** MTK 05 · Pengukuran (Panjang, Berat, Volume, Waktu, Kecepatan, Debit)
 - **Sub-bab:** 05i, 05j
 - **Objek (EN):** a chrome water faucet pouring a steady stream into a bucket
-- **Soal terkait:** 658 soal di 122 file
+- **Soal terkait:** 662 soal di 121 file
   - `mtk-05j-konversi-debit-campur` (92)
   - `mtk-05i-debit-campur` (84)
   - `mtk-04m-aplikasi-kapasitas-campur` (32)

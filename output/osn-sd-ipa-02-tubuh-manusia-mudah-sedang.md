@@ -3256,7 +3256,7 @@ D. Serambi kiri
 
 - **Hasil akhir:** Serambi kanan.
 
-- **Tips:** Serambi = "atrium" (ruang tunggu). Bilik = "ventrikel" (ruang pompa). Serambi menerima; bilik memompa.
+- **Tips:** Serambi = "atrium" (ruang penerima). Bilik = "ventrikel" (ruang pompa). Serambi menerima; bilik memompa.
 
 ---
 

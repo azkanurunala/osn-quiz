@@ -2146,30 +2146,22 @@ D. Pinset
 
 ### Soal 93 · IPA-03 · Rangkaian (campuran dengan analisis) · Provinsi
 
-Sumber 12 V, R1 = 2 Ω seri dengan R2 = 4 Ω. Setelah itu, lampu R3 = 6 Ω paralel dengan R2. Berapa arus yang lewat R3?
+Sumber 12 V, R1 = 2 Ω disusun seri dengan rangkaian paralel R2 = 3 Ω dan lampu R3 = 6 Ω. Berapa arus yang lewat R3?
 
-A. 0,4 A
-B. 0,5 A
+A. 2 A
+B. 3 A
 C. 1 A
-D. 2 A
+D. 1,5 A
 
-**Jawaban:** A
+**Jawaban:** C
 
 **Pembahasan komprehensif:**
-- R paralel (R2 ‖ R3) = (4 × 6)/(4+6) = 24/10 = 2,4 Ω. R total = R1 + R paralel = 2 + 2,4 = 4,4 Ω.
-- I total = V/R = 12/4,4 ≈ 2,73 A.
-- V paralel = I × R paralel = 2,73 × 2,4 ≈ 6,55 V.
-- I lewat R3 = V/R3 = 6,55/6 ≈ 1,09 A.
-
-Wait — recheck: dengan angka di atas, jawaban tidak match. Mari kita simpan rumus standar dan periksa hitungan ulang dengan kebenaran dasar:
-- Memang R total = 4,4; I total ≈ 2,727; V paralel ≈ 6,545; I_R3 ≈ 1,09 A. Tidak match A.
-- **Jawaban yang benar berdasarkan perhitungan: ≈ 1,09 A → terdekat dengan opsi C (1 A).** Jadi koreksi: jawaban yang benar adalah **C (1 A)** (pembulatan).
-- **A (0,4 A) — salah:** terlalu kecil.
-- **B (0,5 A) — salah:** terlalu kecil.
-- **C (1 A) — benar (dibulatkan):** sesuai perhitungan ≈ 1,09 A.
-- **D (2 A) — salah:** terlalu besar (itu mendekati arus total).
-
-**Jawaban final:** C
+- R paralel (R2 ‖ R3) = (3 × 6)/(3 + 6) = 18/9 = 2 Ω. R total = 2 + 2 = 4 Ω.
+- I total = 12/4 = 3 A. V paralel = 3 × 2 = 6 V. I lewat R3 = 6/6 = 1 A.
+- **A (2 A) — salah:** R1 diabaikan sehingga seluruh 12 V dianggap jatuh di R3 (12/6 = 2 A). (Kebetulan sama dengan arus di R2 = 6/3 = 2 A.)
+- **B (3 A) — salah:** itu arus total, belum dibagi ke dua cabang.
+- **C (1 A) — benar:** sesuai hitungan.
+- **D (1,5 A) — salah:** arus total dibagi rata ke dua cabang, padahal cabang dengan hambatan lebih kecil (R2) mendapat arus lebih besar.
 
 ---
 

@@ -2273,7 +2273,7 @@ D. Memperingatkan bahwa tubuhnya beracun
 
 - **Analisis Setiap Pilihan Jawaban:**
   - **A. Menarik pasangan** — Salah. Menarik pasangan biasa pakai warna cerah, bukan menyatu dengan daun.
-  - **B. Kamuflase** — Benar. Warna hijau = identik dengan daun → mantis sulit dilihat baik oleh **mangsanya** (serangga yang dia tunggu) maupun **predatornya** (burung). Strategi dua sisi.
+  - **B. Kamuflase** — Benar. Warna hijau = identik dengan daun → mantis sulit dilihat baik oleh **mangsanya** (serangga yang ia intai) maupun **predatornya** (burung). Strategi dua sisi.
   - **C. Mengusir hewan lain** — Salah. Mantis tidak mengusir, justru menyembunyikan diri.
   - **D. Peringatan beracun** — Salah. Mantis tidak beracun.
 

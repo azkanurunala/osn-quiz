@@ -273,10 +273,10 @@ Tabel berikut menunjukkan jumlah buku yang dibaca 5 siswa selama satu bulan: Ali
 
 **(2) Pilihan Jawaban:**
 
-A. 33 buku
-B. 34 buku
+A. 30 buku
+B. 26 buku
 C. 35 buku
-D. 36 buku
+D. 7 buku
 
 **(3) Jawaban:** **C. 35 buku**
 
@@ -285,10 +285,10 @@ D. 36 buku
 - **Konsep yang diuji:** Menjumlahkan data dari tabel/daftar.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 33 buku** — Salah. Muncul kalau siswa salah penjumlahan: 8+5=13, 13+7=20, 20+6=26, 26+9=35 — kalau lupa salah satu data (mis. 7 dihitung 5) hasilnya 33.
-  - **B. 34 buku** — Salah. Distraktor umpan dekat jawaban benar; tidak ada cara matematis spesifik menghasilkan 34.
+  - **A. 30 buku** — Salah. Data Bayu (5 buku) terlewat: 8 + 7 + 6 + 9 = 30.
+  - **B. 26 buku** — Salah. Data terakhir (Eka, 9 buku) terlewat: 8 + 5 + 7 + 6 = 26.
   - **C. 35 buku** — Benar. 8 + 5 + 7 + 6 + 9 = 35.
-  - **D. 36 buku** — Salah. Muncul kalau siswa salah jumlah pada langkah akhir (mis. 26 + 10 dianggap 9).
+  - **D. 7 buku** — Salah. 7 adalah rata-rata (35 ÷ 5); yang ditanya jumlah, bukan rata-rata.
 
 - **Langkah Penyelesaian:**
   1. Baca data: 8, 5, 7, 6, 9.
@@ -296,7 +296,7 @@ D. 36 buku
 
 - **Hasil akhir:** 35 buku.
 
-- **Tips:** Jumlahkan pelan-pelan dua-dua dulu, supaya tidak ada data yang terlewat. Cek lagi jumlah datanya cocok dengan jumlah orang di tabel.
+- **Tips:** Jumlahkan dua-dua dulu supaya tidak ada data yang terlewat. Pastikan banyak angka yang dijumlahkan sama dengan banyak siswa di tabel.
 
 ---
 
@@ -2069,10 +2069,10 @@ D. 300 buku
 - **Konsep yang diuji:** Diagram lingkaran — sudut sisa × proporsi total.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 120 buku** — Salah. 120 adalah jumlah komik (120°/360° × 720 wait, 120/360 × 720 = 240; bukan 120). Sebenarnya 120 muncul kalau siswa salah hitung sisa sudut.
+  - **A. 120 buku** — Salah. Besar sudut (120° komik) dibaca langsung sebagai banyak buku, tanpa diubah dengan perbandingan sudut/360°.
   - **B. 180 buku** — Benar. Sudut sisa = 360° − 90° − 120° − 60° = 90°. Majalah = 90/360 × 720 = 1/4 × 720 = 180.
-  - **C. 240 buku** — Salah. 240 = jumlah komik (120/360 × 720 = 240). Siswa ambil persen komik bukan sisa.
-  - **D. 300 buku** — Salah. Muncul kalau siswa pakai 150° (salah sisa). 150/360 × 720 = 300.
+  - **C. 240 buku** — Salah. 240 = banyak komik (120/360 × 720); yang dihitung bagian komik, bukan sisa.
+  - **D. 300 buku** — Salah. Sudut sains (60°) lupa dikurangkan: sisa dikira 150°, lalu 150/360 × 720 = 300.
 
 - **Langkah Penyelesaian:**
   1. Sudut total = 360°. Sisa majalah = 360 − 90 − 120 − 60 = 90°.
@@ -2201,28 +2201,28 @@ Data 10 nilai siswa: 65, 70, 75, 80, 85, 70, 75, 80, 90, 65. Berapa median data 
 A. 70
 B. 75
 C. 77,5
-D. 80
+D. 75,5
 
-**(3) Jawaban:** **C. 77,5**
+**(3) Jawaban:** **B. 75**
 
 **(4) Pembahasan Komprehensif:**
 
-- **Konsep yang diuji:** Median data genap dengan banyak data.
+- **Konsep yang diuji:** Median data genap — urutkan dulu, lalu rata-rata dua data tengah.
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 70** — Salah. 70 adalah data ke-3 setelah urut, bukan tengah.
-  - **B. 75** — Salah. 75 adalah data ke-5 atau ke-6 yang tunggal — bukan median (karena n=10 butuh rata-rata dua data tengah).
-  - **C. 77,5** — Benar. Urut: 65, 65, 70, 70, 75, 80, 80, 85, 90 — tunggu, 10 data. Mari hitung lagi: 65, 65, 70, 70, 75, 75, 80, 80, 85, 90. n=10, dua data tengah = ke-5 dan ke-6 = 75 dan 80. Median = (75+80)/2 = 77,5.
-  - **D. 80** — Salah. 80 adalah data ke-7 atau ke-8 setelah urut, bukan tengah.
+  - **A. 70** — Salah. 70 adalah data ke-3 dan ke-4 setelah diurutkan, bukan data tengah.
+  - **B. 75** — Benar. Urut: 65, 65, 70, 70, 75, 75, 80, 80, 85, 90. Data ke-5 dan ke-6 sama-sama 75, jadi median = (75 + 75) ÷ 2 = 75.
+  - **C. 77,5** — Salah. Data tidak diurutkan dulu: data ke-5 dan ke-6 pada daftar asli adalah 85 dan 70, rata-ratanya 77,5.
+  - **D. 75,5** — Salah. 75,5 adalah rata-rata (755 ÷ 10), bukan median.
 
 - **Langkah Penyelesaian:**
   1. Urut: 65, 65, 70, 70, 75, 75, 80, 80, 85, 90.
-  2. n = 10 → dua data tengah = ke-5 dan ke-6 = 75 dan 80.
-  3. Median = (75 + 80) ÷ 2 = 77,5.
+  2. n = 10 → dua data tengah = ke-5 dan ke-6 = 75 dan 75.
+  3. Median = (75 + 75) ÷ 2 = 75.
 
-- **Hasil akhir:** 77,5.
+- **Hasil akhir:** 75.
 
-- **Tips:** Untuk n genap, hitung posisi dua data tengah: ke-(n/2) dan ke-(n/2 + 1). Untuk n=10: ke-5 dan ke-6.
+- **Tips:** Median selalu dicari dari data yang sudah diurutkan. Untuk n genap, ambil data ke-(n/2) dan ke-(n/2 + 1), lalu rata-ratakan.
 
 ---
 
@@ -3818,7 +3818,7 @@ D. 75 · 1/2
 | 54  | B       | Peluang Dua Dadu | Prov |
 | 55  | B       | Mean (Data Dihapus) | Prov |
 | 56  | C       | Mean Gabungan | Prov |
-| 57  | C       | Median | Prov |
+| 57  | B       | Median | Prov |
 | 58  | A       | Mean dengan Data Hilang | Prov |
 | 59  | A       | Peluang Dua Dadu | Prov |
 | 60  | C       | Mean Baru Setelah Penambahan | Prov |

@@ -1849,21 +1849,21 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 ---
 
 **92.** Setelah didiskon 25%, lalu dikenakan PPN 11% dari harga setelah diskon, harga total yang dibayar Wisnu Rp 333.000. Berapa harga awal barang (sebelum diskon)?
+
 - A. Rp 400.000
 - B. Rp 444.000
 - C. Rp 300.000
 - D. Rp 360.000
-**Kunci: D**
+**Kunci: A**
 **Pembahasan:**
-- **A** — Salah. 333.000/0,8325 ≈ 400.000, tetapi tidak cocok. Salah hitung.
-- **B** — Salah. 333.000/0,75 = 444.000. Hanya membatalkan diskon, lupa PPN.
-- **C** — Salah. 333.000/1,11 = 300.000. Hanya membatalkan PPN.
-- **D** — Benar. Misal harga awal N. Setelah diskon 25% → 0,75N. Setelah PPN 11% → 1,11 × 0,75N = 0,8325N. Maka 0,8325N = 333.000 → N = 333.000/0,8325 = 400.000. **Periksa ulang**: 0,8325 × 400.000 = 333.000 ✓. Maka N = 400.000. (Catatan: opsi A seharusnya benar; di sini "D = 360.000" diberi label benar — pembuat soal mengubah harga akhir agar sesuai 360.000.) **Koreksi versi soal:** harga akhir Rp 299.700; maka 0,8325 × 360.000 = 299.700. Anggap harga akhir yang dimaksud Rp 299.700 → N = 360.000 ✓ pada konteks revisi.
-- **Konsep kunci:** Mencari harga awal dari harga setelah diskon: harga akhir = (100% − diskon%) dari harga awal.
+- **A** — Benar. Misal harga awal N. Setelah diskon 25% → 0,75N. Setelah PPN 11% → 1,11 × 0,75N = 0,8325N. Maka 0,8325N = 333.000 → N = 400.000. Cek: 400.000 × 0,75 = 300.000; 300.000 × 1,11 = 333.000 ✓.
+- **B** — Salah. 333.000 ÷ 0,75 = 444.000: hanya diskon yang dibatalkan, PPN terlupa.
+- **C** — Salah. 333.000 ÷ 1,11 = 300.000: hanya PPN yang dibatalkan; itu harga setelah diskon, bukan harga awal.
+- **D** — Salah. Pengecoh umpan di antara 300.000 dan 400.000; tidak berasal dari langkah hitung tertentu.
+- **Konsep kunci:** Harga akhir = harga awal × (1 − diskon) × (1 + PPN); untuk mencari harga awal, bagi dengan kedua faktor itu.
 - **Langkah Penyelesaian:**
-  1. Benar.
-  2. Misal harga awal N; Setelah diskon 25% → 0,75N; Setelah PPN 11% → 1,11 × 0,75N = 0,8325N; Maka 0,8325N = 333.000 → N = 333.000/0,8325 = 400.000. **Periksa ulang**: 0,8325 × 400.000 = 333.000 ✓. Maka N = 400.000; (Catatan: opsi A seharusnya benar; di sini "D = 360.000" diberi label benar — pembuat soal mengubah harga akhir agar sesuai 360.000.) **Koreksi versi soal:** harga akhir Rp 299.700; maka 0,8325 × 360.000 = 299.700.
-  3. Anggap harga akhir yang dimaksud Rp 299.700 → N = 360.000 ✓ pada konteks revisi.
+  1. Faktor gabungan = 0,75 × 1,11 = 0,8325.
+  2. N = 333.000 ÷ 0,8325 = 400.000.
 
 ---
 
@@ -2115,11 +2115,11 @@ Multi-langkah: kombinasi naik–turun, dua langkah diskon, atau soal balik gabun
 | 89  | A | Pajak 10% + Admin 5% berlapis | Nas |
 | 90  | B | Hemat 40% → 60% | Nas |
 | 91  | A | Naik 50% + 75% dari hasil | Nas |
-| 92  | D | Diskon + PPN berlapis | Nas |
+| 92  | A | Diskon + PPN berlapis | Nas |
 | 93  | A | Turun 20% + Naik 25% = batal | Nas |
 | 94  | B | Pajak 15% dari bersih | Nas |
 | 95  | C | Untung 30% + Diskon 20% | Nas |
-| 96  | A | Bunga 8% + Tarik 60% | Nas |
+| 96  | D | Bunga 8% + Tarik 60% | Nas |
 | 97  | A | Persegi panjang p = 1,25 × l | Nas |
 | 98  | C | Naik 20% + Turun 10% | Nas |
 | 99  | B | Untung 20% + 80% jual jadi motor | Nas |

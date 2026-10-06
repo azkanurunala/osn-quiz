@@ -87,9 +87,9 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Lumut kerak (lichen, simbiosis) | 4 | 13 | ✅ 3 | [lichen](ipa/01-makhluk-hidup/lichen.md) |
 | Ikan badut & anemon laut (mutualisme) | 4 | 14 | ✅ 3 | [ikan-badut-anemon](ipa/01-makhluk-hidup/ikan-badut-anemon.md) |
 | Kerbau & burung jalak (mutualisme) | 4 | 42 | ✅ 4 | [kerbau-jalak](ipa/01-makhluk-hidup/kerbau-jalak.md) |
-| Ekosistem kolam kecil (komponen biotik & abiotik) | 1 | 390 | — | [ekosistem-kolam](ipa/01-makhluk-hidup/ekosistem-kolam.md) |
+| Ekosistem kolam kecil (komponen biotik & abiotik) | 1 | 389 | — | [ekosistem-kolam](ipa/01-makhluk-hidup/ekosistem-kolam.md) |
 | Individu, populasi, komunitas (tingkatan organisasi kehidupan) | 1 | 315 | — | [tingkatan-organisasi-makhluk-hidup-set](ipa/01-makhluk-hidup/tingkatan-organisasi-makhluk-hidup-set.md) |
-| Jamur tiram (kingdom fungi) | 4 | 204 | ✅ 4 | [jamur-tiram](ipa/01-makhluk-hidup/jamur-tiram.md) |
+| Jamur tiram (kingdom fungi) | 4 | 205 | ✅ 4 | [jamur-tiram](ipa/01-makhluk-hidup/jamur-tiram.md) |
 | Jamur tempe Rhizopus (hifa & sporangium) | 4 | 86 | ✅ 2 | [jamur-rhizopus](ipa/01-makhluk-hidup/jamur-rhizopus.md) |
 | Ragi / khamir Saccharomyces (bertunas) | 1 | 92 | ✅ 3 | [sel-ragi](ipa/01-makhluk-hidup/sel-ragi.md) |
 | Bakteri (kingdom monera): bentuk kokus, basil, spirilum | 1 | 377 | ✅ 3 | [bakteri-bentuk-set](ipa/01-makhluk-hidup/bakteri-bentuk-set.md) |
@@ -120,7 +120,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Mawar (duri & bunga) | 1 | 46 | ✅ 3 | [mawar](ipa/01-makhluk-hidup/mawar.md) |
 | Perkecambahan kacang hijau | 1 | 93 | ✅ 1 | [kecambah](ipa/01-makhluk-hidup/kecambah.md) |
 | Pisang (tunas anakan) | 1 | 62 | ✅ 2 | [tanaman-pisang](ipa/01-makhluk-hidup/tanaman-pisang.md) |
-| Cangkok, okulasi, sambung, stek | 1 | 321 | ✅ 3 | [cangkok-okulasi-set](ipa/01-makhluk-hidup/cangkok-okulasi-set.md) |
+| Cangkok, okulasi, sambung, stek | 1 | 323 | ✅ 3 | [cangkok-okulasi-set](ipa/01-makhluk-hidup/cangkok-okulasi-set.md) |
 | Pohon jati (meranggas) | 1 | 20 | ✅ 2 | [pohon-jati](ipa/01-makhluk-hidup/pohon-jati.md) |
 | Melinjo (Gymnospermae) | 1 | 6 | ✅ 3 | [melinjo](ipa/01-makhluk-hidup/melinjo.md) |
 
@@ -133,7 +133,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Penampang gigi (email, dentin, pulpa) | 1 | 96 | ✅ 4 | [gigi-penampang](ipa/02-tubuh-manusia/gigi-penampang.md) |
 | Lidah (indera pengecap) | 4 | 75 | ✅ 3 | [lidah](ipa/02-tubuh-manusia/lidah.md) |
 | Lambung | 4 | 197 | ✅ 3 | [lambung](ipa/02-tubuh-manusia/lambung.md) |
-| Hati & kantong empedu | 4 | 218 | ✅ 3 | [hati-empedu](ipa/02-tubuh-manusia/hati-empedu.md) |
+| Hati & kantong empedu | 4 | 217 | ✅ 3 | [hati-empedu](ipa/02-tubuh-manusia/hati-empedu.md) |
 | Pankreas | 4 | 95 | ✅ 3 | [pankreas](ipa/02-tubuh-manusia/pankreas.md) |
 | Usus halus & usus besar (dengan umbai cacing) | 4 | 199 | ✅ 4 | [usus-halus-besar](ipa/02-tubuh-manusia/usus-halus-besar.md) |
 | Vili usus halus (jonjot penyerapan) | 1 | 111 | ✅ 3 | [vili-usus](ipa/02-tubuh-manusia/vili-usus.md) |
@@ -151,14 +151,14 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Penampang kulit (epidermis, dermis, kelenjar keringat) | 1 | 438 | ✅ 2 | [kulit-penampang](ipa/02-tubuh-manusia/kulit-penampang.md) |
 | Otak (besar, kecil, batang otak) | 4 | 160 | ✅ 4 | [otak](ipa/02-tubuh-manusia/otak.md) |
 | Sel saraf (neuron) | 1 | 18 | ✅ 2 | [neuron](ipa/02-tubuh-manusia/neuron.md) |
-| Bola mata (indera penglihat) | 4 | 605 | ✅ 3 | [mata](ipa/02-tubuh-manusia/mata.md) |
+| Bola mata (indera penglihat) | 4 | 606 | ✅ 3 | [mata](ipa/02-tubuh-manusia/mata.md) |
 | Penampang mata | 1 | 91 | ✅ 3 | [mata-penampang](ipa/02-tubuh-manusia/mata-penampang.md) |
 | Telinga (luar, tengah, dalam) | 1 | 124 | ✅ 4 | [telinga](ipa/02-tubuh-manusia/telinga.md) |
 | Penampang hidung (indera pembau) | 1 | 102 | ✅ 2 | [hidung-penampang](ipa/02-tubuh-manusia/hidung-penampang.md) |
 | Kerangka manusia lengkap | 4 | 360 | ✅ 2 | [kerangka-manusia](ipa/02-tubuh-manusia/kerangka-manusia.md) |
 | Tengkorak | 4 | 25 | ✅ 4 | [tengkorak](ipa/02-tubuh-manusia/tengkorak.md) |
-| Tulang belakang | 4 | 125 | ✅ 3 | [tulang-belakang](ipa/02-tubuh-manusia/tulang-belakang.md) |
-| Rongga dada (tulang rusuk & dada) | 4 | 497 | ✅ 3 | [tulang-rusuk](ipa/02-tubuh-manusia/tulang-rusuk.md) |
+| Tulang belakang | 4 | 126 | ✅ 3 | [tulang-belakang](ipa/02-tubuh-manusia/tulang-belakang.md) |
+| Rongga dada (tulang rusuk & dada) | 4 | 499 | ✅ 3 | [tulang-rusuk](ipa/02-tubuh-manusia/tulang-rusuk.md) |
 | Tulang pipa (femur) & penampangnya | 1 | 79 | ✅ 2 | [tulang-paha-penampang](ipa/02-tubuh-manusia/tulang-paha-penampang.md) |
 | Jenis sendi: peluru, engsel, putar, pelana | 1 | 45 | ✅ 4 | [sendi-set](ipa/02-tubuh-manusia/sendi-set.md) |
 | Otot lengan bisep & trisep (antagonis) | 4 | 274 | ✅ 3 | [otot-lengan](ipa/02-tubuh-manusia/otot-lengan.md) |
@@ -169,7 +169,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Janin dalam rahim (perkembangan) | 1 | 83 | ✅ 2 | [janin-rahim](ipa/02-tubuh-manusia/janin-rahim.md) |
 | Isi Piringku (gizi seimbang) | 1 | 18 | ✅ 2 | [isi-piringku](ipa/02-tubuh-manusia/isi-piringku.md) |
 | Sumber karbohidrat | 1 | 277 | ✅ 2 | [sumber-karbohidrat-set](ipa/02-tubuh-manusia/sumber-karbohidrat-set.md) |
-| Sumber protein (hewani & nabati) | 1 | 1035 | ✅ 4 | [sumber-protein-set](ipa/02-tubuh-manusia/sumber-protein-set.md) |
+| Sumber protein (hewani & nabati) | 1 | 1034 | ✅ 4 | [sumber-protein-set](ipa/02-tubuh-manusia/sumber-protein-set.md) |
 | Sumber lemak | 1 | 497 | ✅ 2 | [sumber-lemak-set](ipa/02-tubuh-manusia/sumber-lemak-set.md) |
 | Sumber vitamin & mineral | 1 | 348 | ✅ 2 | [sumber-vitamin-mineral-set](ipa/02-tubuh-manusia/sumber-vitamin-mineral-set.md) |
 | Virus dengue (DBD) | 1 | 97 | ✅ 2 | [virus-dengue](ipa/02-tubuh-manusia/virus-dengue.md) |
@@ -182,7 +182,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Tensimeter (alat ukur tekanan darah) | 1 | 91 | ✅ 3 | [tensimeter](ipa/02-tubuh-manusia/tensimeter.md) |
 | Glukometer (alat cek gula darah) | 1 | 214 | ✅ 2 | [glukometer](ipa/02-tubuh-manusia/glukometer.md) |
 | Stetoskop (denyut jantung) | 1 | 38 | ✅ 3 | [stetoskop](ipa/02-tubuh-manusia/stetoskop.md) |
-| Produk bioteknologi konvensional | 1 | 171 | ✅ 4 | [fermentasi-produk-set](ipa/02-tubuh-manusia/fermentasi-produk-set.md) |
+| Produk bioteknologi konvensional | 1 | 170 | ✅ 4 | [fermentasi-produk-set](ipa/02-tubuh-manusia/fermentasi-produk-set.md) |
 | Kantong darah donor | 1 | 23 | ⚠️ | [kantong-darah](ipa/02-tubuh-manusia/kantong-darah.md) |
 | Inhaler asma | 1 | 56 | ✅ 1 | [inhaler](ipa/02-tubuh-manusia/inhaler.md) |
 | Obat (tablet, kapsul, sirup) | 1 | 128 | ✅ 2 | [obat-set](ipa/02-tubuh-manusia/obat-set.md) |
@@ -238,7 +238,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Tekanan zat padat: paku runcing, pisau tajam, sepatu salju | 1 | 372 | ✅ 2 | [tekanan-benda-padat-set](ipa/03-gaya-gerak-energi/tekanan-benda-padat-set.md) |
 | Elektroskop (listrik statis) | 4 | 139 | ✅ 3 | [elektroskop](ipa/03-gaya-gerak-energi/elektroskop.md) |
 | Balon & sisir (gosokan listrik statis) | 1 | 99 | ✅ 3 | [balon-listrik-statis](ipa/03-gaya-gerak-energi/balon-listrik-statis.md) |
-| Transformator / trafo | 4 | 49 | ✅ 2 | [transformator](ipa/03-gaya-gerak-energi/transformator.md) |
+| Transformator / trafo | 4 | 48 | ✅ 2 | [transformator](ipa/03-gaya-gerak-energi/transformator.md) |
 | Induksi: magnet, kumparan & galvanometer | 1 | 83 | ✅ 2 | [galvanometer-kumparan](ipa/03-gaya-gerak-energi/galvanometer-kumparan.md) |
 | Ketapel (gaya pegas) | 1 | 4 | ✅ 1 | [ketapel](ipa/03-gaya-gerak-energi/ketapel.md) |
 | Karet gelang (elastis) | 1 | 7 | ✅ 1 | [karet-gelang](ipa/03-gaya-gerak-energi/karet-gelang.md) |
@@ -276,7 +276,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Gelas es berembun (mengembun) | 4 | 108 | ✅ 1 | [mengembun-gelas](ipa/04-cahaya-bunyi-panas-zat/mengembun-gelas.md) |
 | Kapur barus / naftalena (menyublim) | 1 | 82 | ✅ 2 | [kapur-barus](ipa/04-cahaya-bunyi-panas-zat/kapur-barus.md) |
 | Es kering / dry ice (menyublim) | 1 | 8 | ✅ 3 | [dry-ice](ipa/04-cahaya-bunyi-panas-zat/dry-ice.md) |
-| Perubahan kimia: besi berkarat, kayu terbakar, apel teroksidasi, telur matang | 1 | 146 | ✅ 2 | [perubahan-kimia-set](ipa/04-cahaya-bunyi-panas-zat/perubahan-kimia-set.md) |
+| Perubahan kimia: besi berkarat, kayu terbakar, apel teroksidasi, telur matang | 1 | 147 | ✅ 2 | [perubahan-kimia-set](ipa/04-cahaya-bunyi-panas-zat/perubahan-kimia-set.md) |
 | Perubahan fisika: kertas disobek, gelas pecah, cokelat meleleh | 1 | 78 | ✅ 3 | [perubahan-fisika-set](ipa/04-cahaya-bunyi-panas-zat/perubahan-fisika-set.md) |
 | Penyaringan / filtrasi | 1 | 244 | ✅ 3 | [filtrasi](ipa/04-cahaya-bunyi-panas-zat/filtrasi.md) |
 | Penyulingan / distilasi | 1 | 99 | ✅ 2 | [distilasi](ipa/04-cahaya-bunyi-panas-zat/distilasi.md) |
@@ -294,7 +294,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Air mendidih | 1 | 102 | ✅ 2 | [air-mendidih](ipa/04-cahaya-bunyi-panas-zat/air-mendidih.md) |
 | Gula larut dalam air | 1 | 105 | ✅ 1 | [gula-larut](ipa/04-cahaya-bunyi-panas-zat/gula-larut.md) |
 | Model molekul (H₂O, CO₂, O₂) | 1 | 109 | ✅ 1 | [molekul-set](ipa/04-cahaya-bunyi-panas-zat/molekul-set.md) |
-| Contoh unsur | 1 | 259 | ⚠️ | [unsur-logam-set](ipa/04-cahaya-bunyi-panas-zat/unsur-logam-set.md) |
+| Contoh unsur | 1 | 260 | ⚠️ | [unsur-logam-set](ipa/04-cahaya-bunyi-panas-zat/unsur-logam-set.md) |
 | Lemari es / kulkas | 1 | 84 | ✅ 1 | [lemari-es](ipa/04-cahaya-bunyi-panas-zat/lemari-es.md) |
 
 ## IPA 05 · Bumi, Antariksa & Lingkungan
@@ -320,7 +320,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Batuan beku: granit, basalt, obsidian, batu apung | 1 | 70 | ✅ 3 | [batuan-beku-set](ipa/05-bumi-antariksa/batuan-beku-set.md) |
 | Batuan sedimen: batu pasir, batu kapur, konglomerat, batu bara | 1 | 63 | ✅ 3 | [batuan-sedimen-set](ipa/05-bumi-antariksa/batuan-sedimen-set.md) |
 | Batuan metamorf: marmer, batu sabak, gneiss, kuarsit | 1 | 60 | ✅ 2 | [batuan-metamorf-set](ipa/05-bumi-antariksa/batuan-metamorf-set.md) |
-| Profil lapisan tanah (horizon O-A-B-C-R) | 4 | 717 | ✅ 3 | [profil-tanah](ipa/05-bumi-antariksa/profil-tanah.md) |
+| Profil lapisan tanah (horizon O-A-B-C-R) | 4 | 718 | ✅ 3 | [profil-tanah](ipa/05-bumi-antariksa/profil-tanah.md) |
 | SDA tak terbarukan: batu bara, minyak bumi, gas, bijih logam | 1 | 178 | ✅ 2 | [sda-tak-terbarukan-set](ipa/05-bumi-antariksa/sda-tak-terbarukan-set.md) |
 | SDA terbarukan: kayu, air, hasil pertanian | 1 | 92 | ✅ 2 | [sda-terbarukan-set](ipa/05-bumi-antariksa/sda-terbarukan-set.md) |
 | Alat ukur cuaca: barometer, anemometer, higrometer, penakar hujan, baling-baling angin | 1 | 159 | ✅ 2 | [alat-cuaca-set](ipa/05-bumi-antariksa/alat-cuaca-set.md) |
@@ -368,7 +368,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Objek | Tampak | Soal | Sumber & acuan | File |
 |---|---|---:|:---:|---|
 | Sempoa / abakus | 1 | 5 | ✅ 3 | [sempoa](mtk/01-bilangan-pecahan/sempoa.md) |
-| Pizza dipotong (pecahan) | 1 | 573 | ✅ 2 | [pizza-pecahan](mtk/01-bilangan-pecahan/pizza-pecahan.md) |
+| Pizza dipotong (pecahan) | 1 | 574 | ✅ 2 | [pizza-pecahan](mtk/01-bilangan-pecahan/pizza-pecahan.md) |
 | Cokelat batang berpetak (pecahan) | 1 | 102 | ✅ 1 | [cokelat-batang](mtk/01-bilangan-pecahan/cokelat-batang.md) |
 | Kue bolu/tart dipotong | 1 | 94 | ✅ 3 | [kue-bolu-pecahan](mtk/01-bilangan-pecahan/kue-bolu-pecahan.md) |
 | Kelereng berwarna (FPB/KPK, pembagian kelompok) | 1 | 99 | ✅ 1 | [kelereng-kantong](mtk/01-bilangan-pecahan/kelereng-kantong.md) |
@@ -377,12 +377,12 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 
 | Objek | Tampak | Soal | Sumber & acuan | File |
 |---|---|---:|:---:|---|
-| Bangun datar (keping akrilik) | 1 | 2827 | ✅ 2 | [bangun-datar-set](mtk/03-geometri-datar/bangun-datar-set.md) |
-| Tangram kayu | 1 | 357 | ✅ 2 | [tangram](mtk/03-geometri-datar/tangram.md) |
-| Alat geometri: busur derajat, jangka, penggaris segitiga | 1 | 150 | ✅ 3 | [alat-geometri-set](mtk/03-geometri-datar/alat-geometri-set.md) |
+| Bangun datar (keping akrilik) | 1 | 2824 | ✅ 2 | [bangun-datar-set](mtk/03-geometri-datar/bangun-datar-set.md) |
+| Tangram kayu | 1 | 359 | ✅ 2 | [tangram](mtk/03-geometri-datar/tangram.md) |
+| Alat geometri: busur derajat, jangka, penggaris segitiga | 1 | 151 | ✅ 3 | [alat-geometri-set](mtk/03-geometri-datar/alat-geometri-set.md) |
 | Jam dinding analog (sudut jarum jam) | 1 | 1489 | ✅ 2 | [jam-analog](mtk/03-geometri-datar/jam-analog.md) |
-| Geoboard (papan paku) | 1 | 44 | ✅ 2 | [geoboard](mtk/03-geometri-datar/geoboard.md) |
-| Benda berbentuk lingkaran (roda, piring, koin, tutup) | 1 | 1028 | ✅ 2 | [benda-lingkaran-set](mtk/03-geometri-datar/benda-lingkaran-set.md) |
+| Geoboard (papan paku) | 1 | 43 | ✅ 2 | [geoboard](mtk/03-geometri-datar/geoboard.md) |
+| Benda berbentuk lingkaran (roda, piring, koin, tutup) | 1 | 1023 | ✅ 2 | [benda-lingkaran-set](mtk/03-geometri-datar/benda-lingkaran-set.md) |
 
 ## MTK 04 · Geometri Ruang
 
@@ -393,9 +393,9 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Prisma segitiga | 4 | 215 | ✅ 2 | [prisma-segitiga](mtk/04-geometri-ruang/prisma-segitiga.md) |
 | Limas segiempat | 4 | 254 | ✅ 3 | [limas-segiempat](mtk/04-geometri-ruang/limas-segiempat.md) |
 | Limas segitiga (tetrahedron) | 4 | 26 | ✅ 3 | [limas-segitiga](mtk/04-geometri-ruang/limas-segitiga.md) |
-| Tabung | 4 | 668 | ✅ 1 | [tabung](mtk/04-geometri-ruang/tabung.md) |
-| Kerucut | 4 | 201 | ✅ 2 | [kerucut](mtk/04-geometri-ruang/kerucut.md) |
-| Bola (bangun ruang) | 1 | 58 | ✅ 2 | [bola](mtk/04-geometri-ruang/bola.md) |
+| Tabung | 4 | 667 | ✅ 1 | [tabung](mtk/04-geometri-ruang/tabung.md) |
+| Kerucut | 4 | 200 | ✅ 2 | [kerucut](mtk/04-geometri-ruang/kerucut.md) |
+| Bola (bangun ruang) | 1 | 57 | ✅ 2 | [bola](mtk/04-geometri-ruang/bola.md) |
 | Set semua bangun ruang (perbandingan) | 1 | 125 | ✅ 1 | [bangun-ruang-set](mtk/04-geometri-ruang/bangun-ruang-set.md) |
 | Jaring-jaring kubus (karton terbuka) | 1 | 92 | ✅ 2 | [jaring-jaring-kubus](mtk/04-geometri-ruang/jaring-jaring-kubus.md) |
 | Kubus satuan disusun (volume) | 1 | 183 | ✅ 2 | [kubus-satuan](mtk/04-geometri-ruang/kubus-satuan.md) |
@@ -411,18 +411,18 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Alat ukur berat: timbangan dapur, badan, neraca, dacin | 1 | 53 | ✅ 4 | [timbangan-set](mtk/05-pengukuran/timbangan-set.md) |
 | Anak timbangan (1 kg, 500 g, 1 ons…) | 1 | 73 | ✅ 2 | [anak-timbangan](mtk/05-pengukuran/anak-timbangan.md) |
 | Wadah volume: liter, mL, sendok takar, ember | 1 | 721 | ✅ 3 | [wadah-volume-set](mtk/05-pengukuran/wadah-volume-set.md) |
-| Keran air mengalir ke ember (debit) | 1 | 658 | ✅ 2 | [keran-debit](mtk/05-pengukuran/keran-debit.md) |
-| Alat ukur waktu: jam tangan, jam pasir, kalender meja | 1 | 1529 | ✅ 2 | [jam-tangan-kalender](mtk/05-pengukuran/jam-tangan-kalender.md) |
-| Speedometer (kecepatan km/jam) | 1 | 894 | ✅ 3 | [speedometer](mtk/05-pengukuran/speedometer.md) |
+| Keran air mengalir ke ember (debit) | 1 | 662 | ✅ 2 | [keran-debit](mtk/05-pengukuran/keran-debit.md) |
+| Alat ukur waktu: jam tangan, jam pasir, kalender meja | 1 | 1528 | ✅ 2 | [jam-tangan-kalender](mtk/05-pengukuran/jam-tangan-kalender.md) |
+| Speedometer (kecepatan km/jam) | 1 | 895 | ✅ 3 | [speedometer](mtk/05-pengukuran/speedometer.md) |
 | Kendaraan soal kecepatan: mobil, motor, bus, kereta | 1 | 1067 | ✅ 3 | [kendaraan-set](mtk/05-pengukuran/kendaraan-set.md) |
 
 ## MTK 06 · Aritmetika Sosial & Skala
 
 | Objek | Tampak | Soal | Sumber & acuan | File |
 |---|---|---:|:---:|---|
-| Barang belanja (untung, rugi, diskon) | 1 | 1701 | ✅ 1 | [belanja-set](mtk/06-aritmetika-sosial/belanja-set.md) |
-| Celengan (tabungan, bunga) | 4 | 236 | ✅ 1 | [celengan](mtk/06-aritmetika-sosial/celengan.md) |
-| Peta & penggaris skala | 1 | 396 | ✅ 3 | [peta-skala](mtk/06-aritmetika-sosial/peta-skala.md) |
+| Barang belanja (untung, rugi, diskon) | 1 | 1699 | ✅ 1 | [belanja-set](mtk/06-aritmetika-sosial/belanja-set.md) |
+| Celengan (tabungan, bunga) | 4 | 237 | ✅ 1 | [celengan](mtk/06-aritmetika-sosial/celengan.md) |
+| Peta & penggaris skala | 1 | 397 | ✅ 3 | [peta-skala](mtk/06-aritmetika-sosial/peta-skala.md) |
 | Maket rumah (skala/perbandingan) | 4 | 12 | ✅ 1 | [maket-rumah](mtk/06-aritmetika-sosial/maket-rumah.md) |
 
 ## MTK 07 · Statistika & Peluang
@@ -439,6 +439,6 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Objek | Tampak | Soal | Sumber & acuan | File |
 |---|---|---:|:---:|---|
 | Pola batang korek api | 1 | 34 | ✅ 2 | [batang-korek-pola](mtk/08-pola-logika-aljabar/batang-korek-pola.md) |
-| Timbangan seimbang (persamaan aljabar) | 1 | 465 | ✅ 1 | [timbangan-aljabar](mtk/08-pola-logika-aljabar/timbangan-aljabar.md) |
-| Pola bilangan segitiga/persegi (susunan bola) | 1 | 812 | ✅ 2 | [susunan-pola-bola](mtk/08-pola-logika-aljabar/susunan-pola-bola.md) |
+| Timbangan seimbang (persamaan aljabar) | 1 | 460 | ✅ 1 | [timbangan-aljabar](mtk/08-pola-logika-aljabar/timbangan-aljabar.md) |
+| Pola bilangan segitiga/persegi (susunan bola) | 1 | 809 | ✅ 2 | [susunan-pola-bola](mtk/08-pola-logika-aljabar/susunan-pola-bola.md) |
 

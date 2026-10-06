@@ -1632,10 +1632,10 @@ Sebuah balok memiliki panjang 10 cm, lebar 5 cm, dan tinggi 4 cm. Luas permukaan
 
 **(2) Pilihan Jawaban:**
 
-A. 100 cm²
+A. 110 cm²
 B. 200 cm²
 C. 220 cm²
-D. 400 cm²
+D. 440 cm²
 
 **(3) Jawaban:** **C. 220 cm²**
 
@@ -1644,10 +1644,10 @@ D. 400 cm²
 - **Konsep yang diuji:** Luas permukaan balok = 2(pl + pt + lt).
 
 - **Analisis Setiap Pilihan Jawaban:**
-  - **A. 100 cm²** — Salah. Itu mungkin pl + pt = 50 + 40 + dst, kurang lengkap.
+  - **A. 110 cm²** — Salah. pl + pt + lt = 110 belum dikali 2; hanya tiga sisi yang dihitung.
   - **B. 200 cm²** — Salah. Itu **volume** balok (10 × 5 × 4 = 200 cm³), bukan luas permukaan.
-  - **C. 220 cm²** — Benar. pl=50, pt=40, lt=20. LP = 2(50+40+20) = 2 × 110 = 220 cm².
-  - **D. 400 cm²** — Salah. Itu 4 × (pl + pt + lt) atau salah.
+  - **C. 220 cm²** — Benar. pl = 50, pt = 40, lt = 20. LP = 2(50 + 40 + 20) = 2 × 110 = 220 cm².
+  - **D. 440 cm²** — Salah. Dikali 4, seolah tiap jenis sisi ada empat buah.
 
 - **Langkah Penyelesaian:**
   1. pl = 10 × 5 = 50; pt = 10 × 4 = 40; lt = 5 × 4 = 20.
@@ -1655,7 +1655,7 @@ D. 400 cm²
 
 - **Hasil akhir:** **220 cm²**.
 
-- **💭 Tips:** Balok punya **3 pasang sisi**: depan-belakang (pl), kiri-kanan (lt), atas-bawah (pl). Wait — yang benar: 3 pasang muka (pl), (pt), (lt). Total = 2(pl+pt+lt).
+- **💭 Tips:** Balok punya **3 pasang sisi**: atas-bawah (pl), depan-belakang (pt), kiri-kanan (lt). Total = 2(pl + pt + lt).
 
 ---
 

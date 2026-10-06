@@ -3,8 +3,8 @@
 - **Bab:** MTK 04 · Geometri Ruang
 - **Sub-bab:** 04a, 04f
 - **Objek (EN):** a perfect sphere
-- **Soal terkait:** 58 soal di 16 file
-  - `mtk-04f-volume-kerucut-bola-campur` (31)
+- **Soal terkait:** 57 soal di 16 file
+  - `mtk-04f-volume-kerucut-bola-campur` (30)
   - `mtk-04-geometri-ruang-sulit` (6)
   - `mtk-04-geometri-ruang-campur` (3)
   - `mtk-04-geometri-ruang-sedang-sulit` (3)
