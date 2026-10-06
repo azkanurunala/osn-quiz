@@ -81,6 +81,10 @@ const NOT_FOR = {
   ayam: /betina|induk|bertelur|mengeram|dierami/,
   // human uterus picture: soal about animal pregnancy or vivipary in general
   'janin-rahim': /hewan|mamalia/,
+  // the picture is the Sun, not the sunflower
+  matahari: /bunga matahari|helianthus|zat hijau daun|klorofil|fotosintesis/,
+  // human gametes picture: not for plant fertilisation ("bakal biji", "serbuk sari")
+  'sperma-ovum': /tumbuhan|bunga|biji|serbuk sari|putik/,
   'hati-empedu': /hati-hati|senang hati|rendah hati|baik hati|sepenuh hati|dalam hati|berhati/,
   'hidung-penampang': /pesawat|kereta|kapal|diangkut/,
   'jamur-tiram': /penisilin|penicillium|panu|kurap|mikoriza|ragi|kaki atlet|penyakit/,
@@ -160,10 +164,16 @@ function single(hits, stem) {
   return null;
 }
 
+// A comma right after a number+unit ("panjang 50 cm, lebar 30 cm") separates measurements, not
+// named items ("ikan, katak, kadal"); only the latter means "this soal names several objects".
+const UNIT_COMMA = /\d\s*(cm|mm|m|km|kg|g|ons|kuintal|ton|liter|l|ml|detik|menit|jam|hari|rp)\s*,/gi;
 function inCommaList(stem, o) {
   for (const sentence of stem.split(/[.?!\n]/)) {
     o.re.lastIndex = 0;
-    if (o.re.test(sentence) && (sentence.match(/,/g) ?? []).length >= 2) return true;
+    if (!o.re.test(sentence)) continue;
+    const commas = (sentence.match(/,/g) ?? []).length;
+    const unitCommas = (sentence.match(UNIT_COMMA) ?? []).length;
+    if (commas - unitCommas >= 2) return true;
   }
   return false;
 }
@@ -172,8 +182,7 @@ function inCommaList(stem, o) {
  * @returns {{id:'objek-foto', title:string, objek:{id:string,file:string,dark:boolean}}|null}
  */
 export function matchObjekFoto(question, packageSubject, { anyPicture = false } = {}) {
-  // MTK story problems name animals too ("Pak Budi punya 12 ayam"); those never get a picture.
-  if ([packageSubject, question?.subTopic].some((s) => String(s ?? '').toLowerCase() === 'mtk')) return null;
+  const isMtkSubject = [packageSubject, question?.subTopic].some((s) => String(s ?? '').toLowerCase() === 'mtk');
   const raw = String(question?.question ?? '').replace(/```[\s\S]*?```/g, ' ').replace(/[*_`]/g, '');
   const stem = raw.toLowerCase();
   if (!stem.trim()) return null;
@@ -186,6 +195,9 @@ export function matchObjekFoto(question, packageSubject, { anyPicture = false } 
   const hit = single(hitsIn(stem, raw), stem);
   // anyPicture: audit only, to rank which unreviewed objects would unlock the most soal.
   if (!hit || (!hit.o.file && !anyPicture)) return null;
+  // MTK story problems name animals too ("Pak Budi punya 12 ayam"); only an MTK-catalog object
+  // itself (bab starts with "mtk") may illustrate an MTK soal, never an incidental IPA mention.
+  if (isMtkSubject && !hit.o.bab?.startsWith('mtk')) return null;
   if (hit.mentions.some((m) => m.otherKind || m.notTheAnimal)) return null;
   if (hit.mentions.every((m) => m.young)) return null;
   const { o } = hit;
@@ -196,11 +208,33 @@ export function matchObjekFoto(question, packageSubject, { anyPicture = false } 
     if (o.re.test(plain(opt))) return null;
   }
   if (inCommaList(stem, o)) return null;
-  return { id: 'objek-foto', title: o.title, objek: { id: o.id, file: o.file, dark: Boolean(o.dark) } };
+  const view = pickView(o, stem, question?.options);
+  return { id: 'objek-foto', title: o.title, objek: { id: o.id, file: o.views?.[view] ?? o.file, dark: Boolean(o.dark), view } };
+}
+
+// Which view of the object fits the soal. A soal about an inner part (heart chambers, eye layers,
+// stem tissues) gets the cut-open section; one about fins or the body outline gets the side profile.
+// Options count here (unlike for the object match): "Ruang jantung yang ...?" lists the chambers there.
+// Named inner parts: checked in the stem and the options. Vague words ("bagian", "lapisan",
+// "ruangan", "saraf") are left out: "lapisan ozon" or "ruangan gelap" are not about the inside.
+const PART_RE = /(?<![a-z])(?:serambi|bilik|katup jantung|sekat jantung|aorta|vena|arteri|alveol\w*|bronk\w*|trakea|lobus|korteks|medula|nefron|glomerulus|lensa mata|retina|kornea|pupil|koklea|rumah siput|gendang telinga|tulang pendengaran|inti sel|nukleus|sitoplasma|vakuola|kloroplas|mitokondria|dinding sel|membran sel|ribosom|xilem|floem|kambium|empulur|stomata|mesofil|palisade|benang sari|kepala sari|putik|bakal buah|bakal biji|endosperma|kotiledon|radikula|plumula|dentin|pulpa|kuning telur|putih telur|kantong udara|kalaza|vili|jonjot usus|folikel|dermis|epidermis|kelenjar keringat|insang|gelembung renang)(?![a-z])/;
+// Generic "show me the inside" wording: stem only.
+const INSIDE_RE = /penampang|bagian dalam|struktur dalam|susunan dalam|irisan melintang|irisan membujur/;
+const SAMPING_RE = /(?<![a-z])(?:samping|menyamping)(?![a-z])|tampak sisi|gurat sisi|sirip/;
+
+function pickView(o, stem, options) {
+  if (!o.views) return 'utama';
+  const opts = Object.values(options ?? {}).map(plain).join(' ');
+  if (o.views.penampang && (INSIDE_RE.test(stem) || PART_RE.test(`${stem} ${opts}`))) return 'penampang';
+  if (o.views.samping && SAMPING_RE.test(stem)) return 'samping';
+  return 'utama';
 }
 
 /** Figure for a soal: the reviewed object picture when the soal is plainly about one object,
- * otherwise the concept diagram. */
+ * otherwise the concept diagram. For MTK, a hand-built SVG diagram is exact (it can draw the
+ * soal's own numbers); a photo is only generic flavour, so the diagram wins when both apply. */
 export function matchFigure(question, packageSubject) {
+  const isMtkSubject = [packageSubject, question?.subTopic].some((s) => String(s ?? '').toLowerCase() === 'mtk');
+  if (isMtkSubject) return matchDiagram(question, packageSubject) ?? matchObjekFoto(question, packageSubject);
   return matchObjekFoto(question, packageSubject) ?? matchDiagram(question, packageSubject);
 }

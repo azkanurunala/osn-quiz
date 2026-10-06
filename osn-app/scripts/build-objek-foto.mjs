@@ -9,7 +9,8 @@
 //
 // Output:
 //   public/objek/<id>.webp                         one picture per approved object (max 640 px)
-//   src/features/diagrams/objek-foto-data.js       every IPA catalog object (id, title, kw) plus the
+//   src/features/diagrams/objek-foto-data.js       every IPA catalog object, plus the MTK_PHOTO_IDS
+//                                                  subset of catalog-mtk.mjs (id, title, kw) and the
 //                                                  file of its approved picture, if any. Objects
 //                                                  without a picture are kept so the matcher can
 //                                                  still detect "this soal names two organisms".
@@ -37,6 +38,12 @@ const SLOT_ORDER = [
   /ilustrasi-(kiri|kanan)/, /realistis-(kiri|kanan)/, /^(?!.*penampang)/,
 ];
 
+// Optional extra views, published only when the object has a main picture too.
+const VIEW_ORDER = {
+  samping: [/ilustrasi-(kiri|kanan)/, /realistis-(kiri|kanan)/],
+  penampang: [/penampang-belah/, /penampang-transparan/],
+};
+
 const review = JSON.parse(readFileSync(join(RESULTS, '_review.json'), 'utf8'));
 const approved = new Map(); // id -> [slot names]
 for (const [key, verdict] of Object.entries(review)) {
@@ -46,18 +53,30 @@ for (const [key, verdict] of Object.entries(review)) {
   approved.get(id).push(slot);
 }
 
-// Folder of each object inside image-results/ipa/<bab>/<id>.
+// Folder of each object inside image-results/<mapel>/<bab>/<id>.
 const folderOf = new Map();
-for (const bab of readdirSync(join(RESULTS, 'ipa'))) {
-  for (const id of readdirSync(join(RESULTS, 'ipa', bab))) folderOf.set(id, join(RESULTS, 'ipa', bab, id));
+for (const mapel of ['ipa', 'mtk']) {
+  for (const bab of readdirSync(join(RESULTS, mapel))) {
+    for (const id of readdirSync(join(RESULTS, mapel, bab))) folderOf.set(id, join(RESULTS, mapel, bab, id));
+  }
 }
 
-const catalogFiles = readdirSync(SRC).filter((f) => /^catalog-ipa.*\.mjs$/.test(f)).sort();
+const catalogFiles = readdirSync(SRC).filter((f) => /^catalog-(ipa|mtk).*\.mjs$/.test(f)).sort();
 const objects = [];
 for (const file of catalogFiles) {
   const mod = await import(pathToFileURL(join(SRC, file)).href);
   for (const o of mod.default) objects.push(o);
 }
+
+// Most MTK catalog objects are precision math props (dice, clocks, solids...) where an exact
+// count/angle/number IS the answer — Gemini can't be trusted for that (see catalog-mtk.mjs header),
+// so the app draws them as SVG (src/features/diagrams/families/*.jsx) instead. Only objects whose
+// picture is scene-setting flavour (soal give their numbers in the text, not the image) are safe to
+// publish as photos. Widen this allowlist only after checking a candidate the same way.
+const MTK_PHOTO_IDS = new Set([
+  'akuarium', 'celengan', 'maket-rumah', 'kelereng-kantong', 'tandon-air',
+  'benda-bangun-ruang-set', 'kendaraan-set', 'koin-peluang',
+]);
 
 rmSync(OUT_DIR, { recursive: true, force: true });
 mkdirSync(OUT_DIR, { recursive: true });
@@ -66,18 +85,32 @@ const rows = [];
 let published = 0;
 for (const o of objects) {
   if (!o.kw) continue;
+  // Unlike IPA (every catalog entry is a real illustratable organism, so a picture-less one is
+  // still kept to detect "two organisms named"), most MTK entries are shape/prop NAMES that a soal
+  // about an allowed object routinely also says (an akuarium soal says "balok", a tandon-air soal
+  // says "tabung"). They have no picture to unfairly favour, so keeping their kw would only make
+  // the matcher wrongly see "two objects" and reject a clean single match. Leave them out entirely.
+  if (o.bab?.startsWith('mtk') && !MTK_PHOTO_IDS.has(o.id)) continue;
   let file = null;
   const slots = approved.get(o.id) ?? [];
   const folder = folderOf.get(o.id);
   const pick = SLOT_ORDER.map((re) => slots.find((s) => re.test(s))).find(Boolean);
-  if (pick && folder) {
-    const img = readdirSync(folder).find((f) => f.startsWith(`${pick}.`) && /\.(png|jpe?g|webp)$/i.test(f));
-    if (img) {
-      file = `objek/${o.id}.webp`;
-      execFileSync(FFMPEG, ['-v', 'error', '-y', '-i', join(folder, img),
-        '-vf', "scale='min(640,iw)':-2", '-quality', '82', join(ROOT, 'public', file)]);
-      published += 1;
-    }
+  const publish = (slot, name) => {
+    const img = slot && folder && readdirSync(folder).find((f) => f.startsWith(`${slot}.`) && /\.(png|jpe?g|webp)$/i.test(f));
+    if (!img) return null;
+    execFileSync(FFMPEG, ['-v', 'error', '-y', '-i', join(folder, img),
+      '-vf', "scale='min(640,iw)':-2", '-quality', '82', join(ROOT, 'public', 'objek', `${name}.webp`)]);
+    return `objek/${name}.webp`;
+  };
+  file = publish(pick, o.id);
+  if (file) published += 1;
+  // Extra views the matcher picks per soal: a side profile (fins, lateral line) or the cut-open
+  // section (heart chambers, eye layers) when the soal is about a part rather than the whole.
+  const views = {};
+  for (const [view, order] of Object.entries(VIEW_ORDER)) {
+    const slot = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
+    const f = file && publish(slot, `${o.id}-${view}`);
+    if (f) views[view] = f;
   }
   rows.push({
     id: o.id,
@@ -86,6 +119,7 @@ for (const o of objects) {
     kw: o.kw,
     bab: o.bab,
     ...(file ? { file } : {}),
+    ...(Object.keys(views).length ? { views } : {}),
     // generated on a black background (catalog bg: 'k'); the frame must match it
     ...(file && o.bg === 'k' ? { dark: true } : {}),
   });
