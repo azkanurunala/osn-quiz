@@ -4,9 +4,9 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 
 | | Jumlah soal |
 |---|---:|
-| Foto objek lolos review (tampil di app) | 2301 |
-| Diagram SVG app | 7281 |
-| Objek ada di katalog, foto belum lolos/dipakai | 5852 |
+| Foto objek lolos review (tampil di app) | 2315 |
+| Diagram SVG app | 7272 |
+| Objek ada di katalog, foto belum lolos/dipakai | 5847 |
 | Tanpa ilustrasi | 3926 |
 
 | Video | Paket | Soal | Foto | Diagram | Objek | Tanpa |
@@ -67,24 +67,24 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 | 074 | ipa-04b-cermin-campur | 100 | 44 | 30 | 17 | 9 |
 | 075 | ipa-04c-lensa-pembiasan-campur | 100 | 11 | 31 | 41 | 17 |
 | 076 | ipa-04d-penguraian-cahaya-campur | 100 | 12 | 39 | 24 | 25 |
-| 077 | ipa-04e-sifat-bunyi-campur | 100 | 13 | 8 | 39 | 40 |
+| 077 | ipa-04e-sifat-bunyi-campur | 100 | 14 | 7 | 39 | 40 |
 | 078 | ipa-04f-pemantulan-bunyi-campur | 100 | 14 | 17 | 33 | 36 |
 | 079 | ipa-04g-perambatan-bunyi-campur | 100 | 17 | 8 | 22 | 53 |
-| 080 | ipa-04h-suhu-termometer-campur | 100 | 31 | 10 | 16 | 43 |
+| 080 | ipa-04h-suhu-termometer-campur | 100 | 32 | 10 | 15 | 43 |
 | 081 | ipa-04i-perpindahan-panas-campur | 100 | 21 | 48 | 10 | 21 |
 | 082 | ipa-04j-wujud-zat-campur | 100 | 20 | 2 | 53 | 25 |
 | 083 | ipa-04k-perubahan-wujud-campur | 100 | 15 | 20 | 37 | 28 |
 | 084 | ipa-04l-sifat-fisika-kimia-campur | 100 | 18 | 7 | 27 | 48 |
 | 085 | ipa-04m-pemisahan-campuran-campur | 100 | 14 | 25 | 24 | 37 |
 | 086 | ipa-04n-larutan-koloid-campur | 100 | 23 | 7 | 40 | 30 |
-| 087 | ipa-04o-gelombang-mekanik-campur | 100 | 10 | 3 | 47 | 40 |
+| 087 | ipa-04o-gelombang-mekanik-campur | 100 | 11 | 3 | 46 | 40 |
 | 088 | ipa-04p-atom-partikel-campur | 100 | 25 | 5 | 48 | 22 |
 | 089 | ipa-05-bumi-antariksa-campur | 100 | 21 | 50 | 24 | 5 |
-| 095 | ipa-05a-tata-surya-campur | 100 | 13 | 62 | 23 | 2 |
+| 095 | ipa-05a-tata-surya-campur | 100 | 14 | 62 | 22 | 2 |
 | 096 | ipa-05b-lapisan-bumi-campur | 100 | 27 | 15 | 40 | 18 |
 | 097 | ipa-05c-rotasi-revolusi-campur | 100 | 19 | 29 | 24 | 28 |
-| 098 | ipa-05d-fase-bulan-campur | 100 | 12 | 24 | 46 | 18 |
-| 099 | ipa-05e-gerhana-campur | 100 | 21 | 67 | 6 | 6 |
+| 098 | ipa-05d-fase-bulan-campur | 100 | 15 | 23 | 44 | 18 |
+| 099 | ipa-05e-gerhana-campur | 100 | 26 | 62 | 6 | 6 |
 | 100 | ipa-05f-cuaca-iklim-campur | 100 | 15 | 8 | 36 | 41 |
 | 101 | ipa-05g-batuan-campur | 100 | 22 | 6 | 36 | 36 |
 | 102 | ipa-05h-tanah-campur | 100 | 19 | 2 | 69 | 10 |
@@ -108,7 +108,7 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 | 130 | ipa-15-gelombang-optik-campur | 40 | 5 | 15 | 15 | 5 |
 | 131 | ipa-16-suhu-kalor-campur | 40 | 8 | 21 | 11 | 0 |
 | 132 | ipa-17-bentuk-energi-perubahan-campur | 40 | 9 | 1 | 21 | 9 |
-| 133 | ipa-18-bumi-tata-surya-antariksa-campur | 40 | 0 | 27 | 11 | 2 |
+| 133 | ipa-18-bumi-tata-surya-antariksa-campur | 40 | 2 | 25 | 11 | 2 |
 | 134 | ipa-19-atom-campur | 40 | 5 | 2 | 33 | 0 |
 | 135 | mtk-01-bilangan-operasi-campur | 100 | 1 | 64 | 11 | 24 |
 | 141 | mtk-01a-operasi-bilangan-bulat-campur | 100 | 1 | 54 | 13 | 32 |

@@ -154,6 +154,9 @@ for (const id of ids) {
     // follow-up butuh gambar depan di sesi yang sama → kalau slot follow-up diminta, jalankan seluruh sesinya
     const run = want.some(s => s.followUp) ? sess : want;
     const history = [];
+    // Gemini 3 + riwayat multi-giliran → sering membalas lembar multi-tampak (grid 2×2). Untuk tampak lanjutan,
+    // kirim satu giliran saja: gambar DEPAN sesi ini sebagai acuan + prompt tampak itu.
+    let anchor = null;
     for (const s of run) {
       const parts = [];
       const keep = !want.includes(s) && realFile(s.out);   // gambar lama yang sudah lolos: pakai sebagai konteks sesi, jangan ditimpa
@@ -163,7 +166,11 @@ for (const id of ids) {
           if (acuanLine) parts.push({ text: acuanLine });
         }
         parts.push({ text: s.text });
-        history.push({ role: 'user', parts }, { role: 'model', parts: [{ inline_data: { mime_type: mime(keep), data: fs.readFileSync(keep).toString('base64') } }] });
+        // Gemini 3 menolak gambar model tanpa thought_signature; gambar konteks ini bukan buatan sesi ini → pakai tanda lewati validasi resmi
+        const sig = MODEL.startsWith('gemini-3') ? { thought_signature: 'skip_thought_signature_validator' } : {};
+        const ctx = { mime_type: mime(keep), data: fs.readFileSync(keep).toString('base64') };
+        if (!s.followUp) anchor = ctx;
+        history.push({ role: 'user', parts }, { role: 'model', parts: [{ inline_data: ctx, ...sig }] });
         continue;
       }
       if (!s.followUp && acuan.length) {
@@ -176,9 +183,12 @@ for (const id of ids) {
       history.push({ role: 'user', parts });
       try {
         const imageConfig = { aspectRatio: /TURNAROUND/.test(s.text) ? '16:9' : '1:1' };
+        const contents = MODEL.startsWith('gemini-3') && s.followUp && anchor
+          ? [{ role: 'user', parts: [{ inline_data: anchor }, { text: 'The image above is the approved FRONT view of this exact object; "the previous image" below means this image. Draw ONE new image showing ONE copy of the object in the requested view only — never a grid, collage, turnaround, or multi-view sheet.' }, ...parts] }]
+          : history;
         let d, cand, img;
         for (let t = 0; t < 3 && !img; t++) {   // model kadang membalas teks saja (STOP) → coba lagi
-          d = await call(VERTEX ? V_URL(MODEL) : `${API}/models/${MODEL}:generateContent`, { contents: history, generationConfig: { responseModalities: ['TEXT', 'IMAGE'], imageConfig } });
+          d = await call(VERTEX ? V_URL(MODEL) : `${API}/models/${MODEL}:generateContent`, { contents, generationConfig: { responseModalities: ['TEXT', 'IMAGE'], imageConfig } });
           cand = d.candidates?.[0];
           img = cand?.content?.parts?.find(p => p.inlineData || p.inline_data);
           fs.appendFileSync(USAGE, JSON.stringify({ t: new Date().toISOString(), id, slot: tag, model: MODEL, ok: !!img, usage: d.usageMetadata || null }) + '\n');
@@ -187,6 +197,7 @@ for (const id of ids) {
         if (!img) throw new Error('tidak ada gambar di respons: ' + (cand?.finishReason || JSON.stringify(d.promptFeedback || {})));
         history.push({ role: 'model', parts: cand.content.parts });   // simpan utuh (termasuk thought signature) untuk langkah lanjutan
         const data = (img.inlineData || img.inline_data).data;
+        if (!s.followUp) anchor = { mime_type: (img.inlineData || img.inline_data).mimeType || 'image/png', data };
         fs.writeFileSync(s.out, Buffer.from(data, 'base64'));
         const ph = s.out.replace(/\.png$/, '.svg'); if (fs.existsSync(ph)) fs.rmSync(ph);
         made++; console.log(`  ✓ ${tag} → ${path.relative(APP, s.out)}`);

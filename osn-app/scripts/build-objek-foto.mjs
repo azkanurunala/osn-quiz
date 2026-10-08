@@ -17,6 +17,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync } from 'fs';
 import { execFileSync } from 'child_process';
+import { createHash } from 'crypto';
 import { join, dirname } from 'path';
 import { fileURLToPath, pathToFileURL } from 'url';
 
@@ -30,9 +31,9 @@ const ffmpegDir = readdirSync(join(ROOT, '.tools')).find((d) => d.startsWith('ff
 const FFMPEG = ffmpegDir ? join(ROOT, '.tools', ffmpegDir, 'bin', 'ffmpeg.exe') : 'ffmpeg';
 
 // Which approved slot represents the object best: a clean front illustration first (calm, readable
-// at a glance in a 10 s question phase), then realistic views. Cut-open (penampang) slots are left
-// out: an opened animal next to a general question is jarring and its empty callouts mean nothing
-// without the labels the app has not added yet.
+// at a glance in a 10 s question phase), then realistic views. Cut-open (penampang) slots are never
+// the main picture: an opened animal next to a general question is jarring. They are published as
+// an extra view, with the part names from label-penampang.mjs.
 const SLOT_ORDER = [
   /ilustrasi-depan/, /ilustrasi-atas/, /realistis-depan/, /realistis-atas/,
   /ilustrasi-(kiri|kanan)/, /realistis-(kiri|kanan)/, /^(?!.*penampang)/,
@@ -66,6 +67,24 @@ const objects = [];
 for (const file of catalogFiles) {
   const mod = await import(pathToFileURL(join(SRC, file)).href);
   for (const o of mod.default) objects.push(o);
+}
+const LABELS = (await import(pathToFileURL(join(SRC, 'label-penampang.mjs')).href)).default;
+const usedLabels = new Set();
+
+// Part names for a published penampang picture, only while it is the exact picture they were read
+// off (sha): a regenerated picture may put the parts elsewhere.
+function labelsFor(id, slot, path) {
+  const entry = LABELS[`${id}/${slot}`];
+  if (!entry) return null;
+  usedLabels.add(`${id}/${slot}`);
+  const buf = readFileSync(path);
+  if (createHash('sha1').update(buf).digest('hex').slice(0, 12) !== entry.sha) {
+    console.warn(`label-penampang: ${id}/${slot} sudah diganti gambarnya — label tidak dipakai sampai dicek ulang`);
+    return null;
+  }
+  // PNG header: width and height, big-endian, at bytes 16 and 20
+  const ar = buf.readUInt32BE(16) / buf.readUInt32BE(20);
+  return { ar: Math.round(ar * 1000) / 1000, parts: entry.parts };
 }
 
 // Most MTK catalog objects are precision math props (dice, clocks, solids...) where an exact
@@ -102,7 +121,9 @@ for (const o of objects) {
   const order = sideFirst ? [...VIEW_ORDER.samping, ...SLOT_ORDER] : SLOT_ORDER;
   const pick = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
   const publish = (slot, name) => {
-    const img = slot && folder && readdirSync(folder).find((f) => f.startsWith(`${slot}.`) && /\.(png|jpe?g|webp)$/i.test(f));
+    // Exact name only: "<slot>.lama.png" (the rejected picture kept after a --fix run) also starts
+    // with "<slot>." and sorts before "<slot>.png", so a prefix match would publish the reject.
+    const img = slot && folder && readdirSync(folder).find((f) => f === `${slot}.png` || f === `${slot}.jpg` || f === `${slot}.jpeg` || f === `${slot}.webp`);
     if (!img) return null;
     execFileSync(FFMPEG, ['-v', 'error', '-y', '-i', join(folder, img),
       '-vf', "scale='min(640,iw)':-2", '-quality', '82', join(ROOT, 'public', 'objek', `${name}.webp`)]);
@@ -113,11 +134,13 @@ for (const o of objects) {
   // Extra views the matcher picks per soal: a side profile (fins, lateral line) or the cut-open
   // section (heart chambers, eye layers) when the soal is about a part rather than the whole.
   const views = {};
+  let labels = null;
   for (const [view, order] of Object.entries(VIEW_ORDER)) {
     if (view === 'samping' && sideFirst) continue; // the main picture already is the side view
     const slot = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
     const f = file && publish(slot, `${o.id}-${view}`);
     if (f) views[view] = f;
+    if (f && view === 'penampang') labels = labelsFor(o.id, slot, join(folder, `${slot}.png`));
   }
   rows.push({
     id: o.id,
@@ -127,6 +150,7 @@ for (const o of objects) {
     bab: o.bab,
     ...(file ? { file } : {}),
     ...(Object.keys(views).length ? { views } : {}),
+    ...(labels ? { labels } : {}),
     // generated on a black background (catalog bg: 'k'); the frame must match it
     ...(file && o.bg === 'k' ? { dark: true } : {}),
   });
@@ -138,4 +162,8 @@ export const OBJEK_FOTO = ${JSON.stringify(rows, null, 2)};
 `);
 
 console.log(`${rows.length} objek katalog, ${published} punya gambar lolos review -> public/objek/`);
+console.log(`label penampang: ${rows.filter((r) => r.labels).length} gambar berlabel`);
+for (const k of Object.keys(LABELS)) {
+  if (!usedLabels.has(k)) console.warn(`label-penampang: ${k} tidak dipakai (gambar itu bukan penampang yang terbit)`);
+}
 if (!existsSync(FFMPEG) && FFMPEG !== 'ffmpeg') console.warn('ffmpeg tidak ditemukan');

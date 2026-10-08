@@ -70,7 +70,7 @@ View: strict FRONT view, full body. Orientation: FRONT = anterior view; BACK = p
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p03-realistis-belakang.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -78,7 +78,7 @@ Using the exact same medical anatomical model of the internal female reproductiv
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p04-realistis-kiri.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -86,7 +86,7 @@ Using the exact same medical anatomical model of the internal female reproductiv
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p05-realistis-kanan.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -134,7 +134,7 @@ View: strict FRONT view, full body. Orientation: FRONT = anterior view; BACK = p
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -142,7 +142,7 @@ Using the exact same medical anatomical model of the internal female reproductiv
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -150,7 +150,7 @@ Using the exact same medical anatomical model of the internal female reproductiv
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same medical anatomical model of the internal female reproductive organs only from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = anterior view; BACK = posterior; LEFT/RIGHT = lateral. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -179,7 +179,7 @@ View: straight-on, orthographic, no three-quarter angle.
 **Simpan hasil sebagai:** `image-results/ipa/02-tubuh-manusia/reproduksi-wanita/p12-penampang-transparan.png`
 
 ```text
-Educational SCHEMATIC SEE-THROUGH illustration of the internal female reproductive organs only. The outer surface is drawn as a semi-transparent tinted glass shell (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Reference section for what must be visible: front (coronal) section of the internal female reproductive organs.
+Educational SCHEMATIC SEE-THROUGH illustration of the internal female reproductive organs only. The object's own outer surface (its real casing, wall, skin, or body parts — exactly its true outline) is drawn semi-transparent (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Never add an extra enclosing shell, bottle, dome, or container around the object; open-frame parts stay open. Reference section for what must be visible: front (coronal) section of the internal female reproductive organs.
 Internal parts — draw EVERY one of these as its own clearly separated region, in exactly these colors: uterus with thick muscular wall (pink) and inner lining / endometrium (dark pink), uterine cavity (pale), fallopian tubes (light pink tubes) with fringed fimbriae, ovaries (light purple) with follicles at different stages (small yellow bubbles), cervix (rose), upper vagina (peach). Each organ its own color with dashed outlines.
 Schematic style: clean modern science-textbook SCHEMATIC for elementary-school students (age 10–12) — each region filled with its own distinct, harmonious, attractive flat color with soft cel shading, the boundary between neighboring regions traced with a crisp DASHED line (like a textbook diagram), the outer outline of the whole object solid and bold. Simplified but scientifically accurate shapes, positions, proportions, number of parts, and colors.
 Anatomical correctness: follow standard human anatomy exactly (Gray's Anatomy / Netter reference). Anatomical left/right = the PERSON'S left/right, so in the FRONT view the person's left side appears on the viewer's RIGHT.

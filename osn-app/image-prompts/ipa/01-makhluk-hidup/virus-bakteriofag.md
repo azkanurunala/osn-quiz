@@ -66,7 +66,7 @@ View: strict FRONT view, full body. Orientation: FRONT = standing on tail fibers
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p03-realistis-belakang.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -74,7 +74,7 @@ Using the exact same T4 bacteriophage virus from the previous image, rotate it 1
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p04-realistis-kiri.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -82,7 +82,7 @@ Using the exact same T4 bacteriophage virus from the previous images, rotate it 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p05-realistis-kanan.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -128,7 +128,7 @@ View: strict FRONT view, full body. Orientation: FRONT = standing on tail fibers
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -136,7 +136,7 @@ Using the exact same T4 bacteriophage virus from the previous image, rotate it 1
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -144,7 +144,7 @@ Using the exact same T4 bacteriophage virus from the previous images, rotate it 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same T4 bacteriophage virus from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = standing on tail fibers; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -172,7 +172,7 @@ View: straight-on, orthographic, no three-quarter angle.
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/virus-bakteriofag/p12-penampang-transparan.png`
 
 ```text
-Educational SCHEMATIC SEE-THROUGH illustration of a T4 bacteriophage virus. The outer surface is drawn as a semi-transparent tinted glass shell (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Reference section for what must be visible: the virus with its head and tail cut open lengthwise.
+Educational SCHEMATIC SEE-THROUGH illustration of a T4 bacteriophage virus. The object's own outer surface (its real casing, wall, skin, or body parts — exactly its true outline) is drawn semi-transparent (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Never add an extra enclosing shell, bottle, dome, or container around the object; open-frame parts stay open. Reference section for what must be visible: the virus with its head and tail cut open lengthwise.
 Internal parts — draw EVERY one of these as its own clearly separated region, in exactly these colors: icosahedral protein head / capsid (grey-blue), coiled DNA packed inside the head (bright orange strand), collar (grey), hollow tail core (tube inside, pale yellow), contractile tail sheath (grey-green rings), base plate (dark grey), tail fibers (thin grey legs.
 Schematic style: clean modern science-textbook SCHEMATIC for elementary-school students (age 10–12) — each region filled with its own distinct, harmonious, attractive flat color with soft cel shading, the boundary between neighboring regions traced with a crisp DASHED line (like a textbook diagram), the outer outline of the whole object solid and bold. Simplified but scientifically accurate shapes, positions, proportions, number of parts, and colors.
 Composition: ONLY this object, centered, about 12% empty margin on every side. FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.

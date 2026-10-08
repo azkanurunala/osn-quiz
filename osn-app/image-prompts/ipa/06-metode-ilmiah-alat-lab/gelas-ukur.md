@@ -67,7 +67,7 @@ View: strict FRONT view, full body. Orientation: FRONT = the side normally shown
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p03-realistis-belakang.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -75,7 +75,7 @@ Using the exact same 100 mL glass graduated cylinder partly filled from the prev
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p04-realistis-kiri.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -83,7 +83,7 @@ Using the exact same 100 mL glass graduated cylinder partly filled from the prev
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p05-realistis-kanan.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -129,7 +129,7 @@ View: strict FRONT view, full body. Orientation: FRONT = the side normally shown
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -137,7 +137,7 @@ Using the exact same 100 mL glass graduated cylinder partly filled from the prev
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -145,5 +145,5 @@ Using the exact same 100 mL glass graduated cylinder partly filled from the prev
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same 100 mL glass graduated cylinder partly filled from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the side normally shown in lab manuals; BACK = rotated 180°; LEFT/RIGHT = rotated 90°. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```

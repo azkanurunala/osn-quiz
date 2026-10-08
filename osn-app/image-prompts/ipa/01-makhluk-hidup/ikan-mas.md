@@ -67,7 +67,7 @@ View: strict FRONT view, full body. Orientation: FRONT = full left-side profile 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p03-realistis-belakang.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -75,7 +75,7 @@ Using the exact same adult golden-orange common carp (ikan mas from the previous
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p04-realistis-kiri.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -83,7 +83,7 @@ Using the exact same adult golden-orange common carp (ikan mas from the previous
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p05-realistis-kanan.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -131,7 +131,7 @@ View: strict FRONT view, full body. Orientation: FRONT = full left-side profile 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -139,7 +139,7 @@ Using the exact same adult golden-orange common carp (ikan mas from the previous
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -147,7 +147,7 @@ Using the exact same adult golden-orange common carp (ikan mas from the previous
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same adult golden-orange common carp (ikan mas from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = full left-side profile with the head pointing to the left edge of the image (the standard textbook view of a fish); BACK = full right-side profile, head pointing right; LEFT = head-on view; RIGHT = tail-on view. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -175,7 +175,7 @@ View: straight-on, orthographic, no three-quarter angle.
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/ikan-mas/p12-penampang-transparan.png`
 
 ```text
-Educational SCHEMATIC SEE-THROUGH illustration of an adult golden-orange common carp (ikan mas, Cyprinus carpio), not a goldfish. The outer surface is drawn as a semi-transparent tinted glass shell (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Reference section for what must be visible: side (sagittal) cutaway of the body with the left body wall removed.
+Educational SCHEMATIC SEE-THROUGH illustration of an adult golden-orange common carp (ikan mas, Cyprinus carpio), not a goldfish. The object's own outer surface (its real casing, wall, skin, or body parts — exactly its true outline) is drawn semi-transparent (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Never add an extra enclosing shell, bottle, dome, or container around the object; open-frame parts stay open. Reference section for what must be visible: side (sagittal) cutaway of the body with the left body wall removed.
 Internal parts — draw EVERY one of these as its own clearly separated region, in exactly these colors: gills with gill arches (bright red, clearly visible right behind the head under the gill cover), small two-chambered heart (dark red, one atrium and one ventricle, located just below and behind the gills; NOT a heart-symbol shape), liver (brown), stomach/intestine coiled (peach), swim bladder with two chambers (silvery pale blue, along the top of the body cavity), kidney (dark maroon strip under the backbone), gonad (cream), backbone and ribs (ivory), brain (pink), lateral line (dashed dark line along the side.
 Schematic style: clean modern science-textbook SCHEMATIC for elementary-school students (age 10–12) — each region filled with its own distinct, harmonious, attractive flat color with soft cel shading, the boundary between neighboring regions traced with a crisp DASHED line (like a textbook diagram), the outer outline of the whole object solid and bold. Simplified but scientifically accurate shapes, positions, proportions, number of parts, and colors.
 Composition: ONLY this object, centered, about 12% empty margin on every side. FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.

@@ -70,41 +70,23 @@ View: strict FRONT view, full body. Orientation: FRONT = the animal faces the ca
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p03-realistis-belakang.png`
 
 ```text
-Using the exact same giant clam (Tridacna) shell slightly open from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
-### Prompt 4 — Tampak KIRI (standalone, bukan lanjutan sesi)
+### Prompt 4 — Tampak KIRI
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p04-realistis-kiri.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of a giant clam (Tridacna) shell slightly open. Two heavy wavy ribbed calcareous valves, cream-white exterior with growth ridges, slightly open to reveal the iridescent blue-green-purple mantle.
-Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
-Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
-Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
-Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
-Composition: ONLY this single object, centered, about 10% empty margin on every side.
-FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
-Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
-Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
-View: strict LEFT side view, full body. Orientation: rotate the SAME giant clam shell 90° from the front view so the camera looks at it edge-on from its left flank: the two overlapping wavy valves are now seen in profile, forming a rounded kidney-shaped silhouette. The straight dark hinge seam (where the two valves join along the back/dorsal edge) runs along the FAR edge of this silhouette, away from the viewer — barely visible as a thin line. The wavy gaping margin where the iridescent mantle shows is visible only as a narrow sliver along the NEAR edge, toward the viewer; most of the mantle is hidden from this angle. Concentric growth ridges on the visible outer valve surface curve across the whole silhouette. The shell does NOT face the camera the way it did in the front view — only its narrow profile is shown, clearly different from the front and back views.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
-### Prompt 5 — Tampak KANAN (standalone, bukan lanjutan sesi)
+### Prompt 5 — Tampak KANAN
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p05-realistis-kanan.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of a giant clam (Tridacna) shell slightly open. Two heavy wavy ribbed calcareous valves, cream-white exterior with growth ridges, slightly open to reveal the iridescent blue-green-purple mantle.
-Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
-Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
-Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
-Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
-Composition: ONLY this single object, centered, about 10% empty margin on every side.
-FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
-Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
-Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
-View: strict RIGHT side view, full body. Orientation: rotate the SAME giant clam shell 90° to the opposite side from the front view — a true mirror image of the left-side view: the hinge seam now runs along the far edge on the opposite side, the narrow mantle-gape sliver is at the near edge mirrored left-to-right, growth ridges curve the same way but mirrored. This must look like a clear mirror of the left-side render, not a near-identical repeat of it.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -152,41 +134,21 @@ View: strict FRONT view, full body. Orientation: FRONT = the animal faces the ca
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same giant clam (Tridacna) shell slightly open from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
-### Prompt 9 — Tampak KIRI (standalone, bukan lanjutan sesi)
+### Prompt 9 — Tampak KIRI
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p09-ilustrasi-kiri.png`
 
 ```text
-High-quality, highly detailed educational illustration of a giant clam (Tridacna) shell slightly open. Two heavy wavy ribbed calcareous valves, cream-white exterior with growth ridges, slightly open to reveal the iridescent blue-green-purple mantle.
-Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
-Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real giant clam (Tridacna) shell slightly open.
-Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
-Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
-Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
-Composition: ONLY this single object, centered, about 10% empty margin on every side.
-FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
-Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
-Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
-View: strict LEFT side view, full body. Orientation: rotate the SAME giant clam shell 90° from the front view so the camera looks at it edge-on from its left flank: the two overlapping wavy valves are now seen in profile, forming a rounded kidney-shaped silhouette. The straight dark hinge seam runs along the FAR edge of this silhouette (away from the viewer), while the wavy gaping margin where the iridescent mantle shows is visible only as a narrow sliver along the NEAR edge; most of the mantle is hidden from this angle. This must look clearly different from the front and right-side views — not a near-symmetric repeat.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
-### Prompt 10 — Tampak KANAN (standalone, bukan lanjutan sesi)
+### Prompt 10 — Tampak KANAN
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kerang/p10-ilustrasi-kanan.png`
 
 ```text
-High-quality, highly detailed educational illustration of a giant clam (Tridacna) shell slightly open. Two heavy wavy ribbed calcareous valves, cream-white exterior with growth ridges, slightly open to reveal the iridescent blue-green-purple mantle.
-Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
-Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real giant clam (Tridacna) shell slightly open.
-Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
-Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
-Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
-Composition: ONLY this single object, centered, about 10% empty margin on every side.
-FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
-Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
-Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
-View: strict RIGHT side view, full body. Orientation: rotate the SAME giant clam shell 90° to the opposite side from the front view — a true mirror image of the left-side illustration: the hinge seam runs along the far edge on the opposite side, the mantle-gape sliver mirrored to the near edge. This must look like a clear mirror of the left-side render, not a near-identical repeat.
+Using the exact same giant clam (Tridacna) shell slightly open from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Orientation for this object: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```

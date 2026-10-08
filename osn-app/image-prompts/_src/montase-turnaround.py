@@ -8,6 +8,7 @@ from PIL import Image, ImageChops, ImageFilter
 ROOT = 'image-results'
 REV = os.path.join(ROOT, '_review.json')
 rev = json.load(open(REV, encoding='utf8'))
+upd = {}   # hanya kunci milik skrip ini; digabung ke _review.json yang dibaca ulang tepat sebelum ditulis (sesi lain ikut menulis)
 VIEWS = ['depan', 'belakang', 'kiri', 'kanan']
 W, H, PAD = 1920, 1080, 40
 
@@ -42,6 +43,8 @@ for d, _, files in os.walk(ROOT):
                 break
             singles.append(f)
         if len(singles) < 4:
+            if auto and rev[tkey].get('status') == 'ok':   # montase lama memuat tampak yang kini ditolak
+                upd[tkey] = {'status': 'revisi', 'catatan': f'Disusun otomatis — perlu disusun ulang: tampak {VIEWS[len(singles)]} belum lolos review.'}
             continue
         crops = [trimmed(os.path.join(d, f)) for f in singles]
         bg = (0, 0, 0) if sum(crops[0][2]) < 200 else (255, 255, 255)   # latar polos putih / hitam
@@ -62,11 +65,13 @@ for d, _, files in os.walk(ROOT):
                 os.remove(lama)
             os.rename(out, lama)
             if tkey in rev:
-                rev[tkey + '.lama'] = rev[tkey]
+                upd[tkey + '.lama'] = rev[tkey]
         sheet.save(out)
-        rev[tkey] = {'status': 'ok', 'catatan': 'Disusun otomatis dari ' + ', '.join(s[:3] for s in singles) +
+        upd[tkey] = {'status': 'ok', 'catatan': 'Disusun otomatis dari ' + ', '.join(s[:3] for s in singles) +
                      ' (depan, belakang, kiri, kanan) yang sudah lolos review.'}
         made += 1
 
-json.dump(rev, open(REV, 'w', encoding='utf8'), ensure_ascii=False, indent=2)
+cur = json.load(open(REV, encoding='utf8'))
+cur.update(upd)
+json.dump(cur, open(REV, 'w', encoding='utf8'), ensure_ascii=False, indent=2)
 print(made, 'lembar turnaround disusun')

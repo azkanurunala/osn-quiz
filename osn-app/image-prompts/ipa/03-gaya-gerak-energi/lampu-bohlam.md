@@ -66,7 +66,7 @@ View: strict FRONT view, full body. Orientation: FRONT = the side normally shown
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p03-realistis-belakang.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -74,7 +74,7 @@ Using the exact same clear incandescent light bulb from the previous image, rota
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p04-realistis-kiri.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -82,7 +82,7 @@ Using the exact same clear incandescent light bulb from the previous images, rot
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p05-realistis-kanan.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -128,7 +128,7 @@ View: strict FRONT view, full body. Orientation: FRONT = the side normally shown
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -136,7 +136,7 @@ Using the exact same clear incandescent light bulb from the previous image, rota
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -144,7 +144,7 @@ Using the exact same clear incandescent light bulb from the previous images, rot
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Using the exact same clear incandescent light bulb from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -172,7 +172,7 @@ View: straight-on, orthographic, no three-quarter angle.
 **Simpan hasil sebagai:** `image-results/ipa/03-gaya-gerak-energi/lampu-bohlam/p12-penampang-transparan.png`
 
 ```text
-Educational SCHEMATIC SEE-THROUGH illustration of a clear incandescent light bulb, switched off. The outer surface is drawn as a semi-transparent tinted glass shell (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Reference section for what must be visible: the bulb shown with transparent glass (already clear) and a cutaway of the screw base.
+Educational SCHEMATIC SEE-THROUGH illustration of a clear incandescent light bulb, switched off. The object's own outer surface (its real casing, wall, skin, or body parts — exactly its true outline) is drawn semi-transparent (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Never add an extra enclosing shell, bottle, dome, or container around the object; open-frame parts stay open. Reference section for what must be visible: the bulb shown with transparent glass (already clear) and a cutaway of the screw base.
 Internal parts — draw EVERY one of these as its own clearly separated region, in exactly these colors: glass bulb (clear with light blue tint), inert gas filling (very faint pale lavender), coiled tungsten filament (bright orange), support wires (silver), glass stem (pale), lead-in wires (copper), screw base shell (silver), insulator (black), bottom contact (brass). Filament circuit path traced with a thin dashed line.
 Schematic style: clean modern science-textbook SCHEMATIC for elementary-school students (age 10–12) — each region filled with its own distinct, harmonious, attractive flat color with soft cel shading, the boundary between neighboring regions traced with a crisp DASHED line (like a textbook diagram), the outer outline of the whole object solid and bold. Simplified but scientifically accurate shapes, positions, proportions, number of parts, and colors.
 Composition: ONLY this object, centered, about 12% empty margin on every side. FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.

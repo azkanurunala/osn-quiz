@@ -1,3 +1,4 @@
+#Requires -Version 7.0
 # Hapus semua project GCP + lepas billing untuk akun azukanurunara94@gmail.com.
 # Pakai gcloud config "osn-sd" saja. JANGAN sentuh config "default" (milik klien lain).
 #   .\scripts\gcp-cleanup.ps1 -DryRun   # cuma tampilkan

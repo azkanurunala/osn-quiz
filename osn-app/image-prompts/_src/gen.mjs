@@ -148,7 +148,7 @@ View: straight-on, orthographic, no three-quarter angle.`)}
 
 ${sv(o, n0 + 1)}
 
-${code(`Educational SCHEMATIC SEE-THROUGH illustration of ${illusEn(o)}. The outer surface is drawn as a semi-transparent tinted glass shell (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Reference section for what must be visible: ${x.c}.
+${code(`Educational SCHEMATIC SEE-THROUGH illustration of ${illusEn(o)}. The object's own outer surface (its real casing, wall, skin, or body parts — exactly its true outline) is drawn semi-transparent (about 25% opacity) so the internal parts are visible inside in their correct positions without cutting. Never add an extra enclosing shell, bottle, dome, or container around the object; open-frame parts stay open. Reference section for what must be visible: ${x.c}.
 ${common}
 No leader lines, no circles.
 View: straight-on FRONT view, orthographic, no three-quarter angle.`)}
@@ -161,7 +161,8 @@ function prompts(o, bg, mode, n0) {
   const keep = mode === 'real'
     ? 'same object, same proportions, colors, textures, lighting, scale, and camera height'
     : 'same object, same illustration style, line weight, shading, colors, proportions, and scale';
-  const tail = `Full body — nothing cropped. Same pure solid ${bg[0]} background (${bg[1]}), no shadow, no text, nothing else in the frame.`;
+  // objects with their own orientation (f) repeat it in the follow-ups; ONE copy of the object per image
+  const tail = `${o.f ? `Orientation for this object: ${o.f}. ` : ''}Exactly ONE copy of the object — not a multi-view sheet. Full body — nothing cropped. Same pure solid ${bg[0]} background (${bg[1]}), no shadow, no text, nothing else in the frame.`;
   const code = (s) => '```text\n' + s + '\n```';
 
   if (o.v === 1) {

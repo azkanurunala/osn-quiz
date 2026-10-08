@@ -2,5 +2,8 @@
   "name": "budget-killswitch",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": { "@google-cloud/billing": "^4.0.0" }
+  "dependencies": {
+    "@google-cloud/billing": "^6.1.1",
+    "@google-cloud/functions-framework": "^5.0.5"
+  }
 }

@@ -30,6 +30,8 @@ const KW_OVERRIDE = {
   'sumber-protein-set': 'sumber protein|protein',
   'tanaman-kacang': 'tanaman kacang|kacang tanah|biji kacang|kecambah kacang|bintil akar|legum',
   'tulang-belakang': 'tulang belakang|ruas tulang belakang|vertebra|skoliosis|lordosis|kifosis',
+  // the picture is two SEEDS cut open: not for "batang dikotil", "akar monokotil" or "lingkaran tahun"
+  'biji-mono-dikotil-set': 'biji jagung|biji monokotil|biji dikotil|berkeping (?:satu|dua)',
 };
 
 // The soal must also say this, or the picture is only loosely related ("jaringan listrik",
@@ -85,6 +87,8 @@ const NOT_FOR = {
   matahari: /bunga matahari|helianthus|zat hijau daun|klorofil|fotosintesis/,
   // human gametes picture: not for plant fertilisation ("bakal biji", "serbuk sari")
   'sperma-ovum': /tumbuhan|bunga|biji|serbuk sari|putik/,
+  // particles of solid, liquid and gas: not for carbon-monoxide poisoning soal that just say "gas"
+  'wujud-zat-set': /karbon monoksida|keracunan|asfiksia|hemoglobin/,
   'hati-empedu': /hati-hati|senang hati|rendah hati|baik hati|sepenuh hati|dalam hati|berhati/,
   'hidung-penampang': /pesawat|kereta|kapal|diangkut/,
   'jamur-tiram': /penisilin|penicillium|panu|kurap|mikoriza|ragi|kaki atlet|penyakit/,
@@ -208,26 +212,47 @@ export function matchObjekFoto(question, packageSubject, { anyPicture = false } 
     if (o.re.test(plain(opt))) return null;
   }
   if (inCommaList(stem, o)) return null;
-  const view = pickView(o, stem, question?.options);
-  return { id: 'objek-foto', title: o.title, objek: { id: o.id, file: o.views?.[view] ?? o.file, dark: Boolean(o.dark), view } };
+  const view = pickView(o, stem, question);
+  const parts = view === 'penampang' ? focusParts(o, stem, question) : [];
+  return {
+    id: 'objek-foto',
+    title: o.title,
+    objek: {
+      id: o.id, file: o.views?.[view] ?? o.file, dark: Boolean(o.dark), view,
+      // explanation phase only: the parts this soal is about, pointed at on the cut-open picture
+      ...(parts.length ? { parts, ar: o.labels.ar } : {}),
+    },
+  };
 }
 
-// Which view of the object fits the soal. A soal about an inner part (heart chambers, eye layers,
-// stem tissues) gets the cut-open section; one about fins or the body outline gets the side profile.
-// Options count here (unlike for the object match): "Ruang jantung yang ...?" lists the chambers there.
-// Named inner parts: checked in the stem and the options. Vague words ("bagian", "lapisan",
-// "ruangan", "saraf") are left out: "lapisan ozon" or "ruangan gelap" are not about the inside.
-const PART_RE = /(?<![a-z])(?:serambi|bilik|katup jantung|sekat jantung|aorta|vena|arteri|alveol\w*|bronk\w*|trakea|lobus|korteks|medula|nefron|glomerulus|lensa mata|retina|kornea|pupil|koklea|rumah siput|gendang telinga|tulang pendengaran|inti sel|nukleus|sitoplasma|vakuola|kloroplas|mitokondria|dinding sel|membran sel|ribosom|xilem|floem|kambium|empulur|stomata|mesofil|palisade|benang sari|kepala sari|putik|bakal buah|bakal biji|endosperma|kotiledon|radikula|plumula|dentin|pulpa|kuning telur|putih telur|kantong udara|kalaza|vili|jonjot usus|folikel|dermis|epidermis|kelenjar keringat|insang|gelembung renang)(?![a-z])/;
-// Generic "show me the inside" wording: stem only.
+// Which view of the object fits the soal. The cut-open section is chosen when the soal (stem or
+// options: "Ruang jantung yang ...?" lists the chambers there) names a part that THIS picture has a
+// checked label for (label-penampang.mjs), or asks about the inside in general words. A part word
+// from some other organism ("kloroplas" in a microscope soal) no longer pulls in a section that does
+// not show it. The side profile is for fins and the body outline.
 const INSIDE_RE = /penampang|bagian dalam|struktur dalam|susunan dalam|irisan melintang|irisan membujur/;
 const SAMPING_RE = /(?<![a-z])(?:samping|menyamping)(?![a-z])|tampak sisi|gurat sisi|sirip/;
+const partRe = (p) => new RegExp(`(?<![a-z])(?:${p.kw})(?![a-z])`);
 
-function pickView(o, stem, options) {
+function pickView(o, stem, question) {
   if (!o.views) return 'utama';
-  const opts = Object.values(options ?? {}).map(plain).join(' ');
-  if (o.views.penampang && (INSIDE_RE.test(stem) || PART_RE.test(`${stem} ${opts}`))) return 'penampang';
+  if (o.views.penampang) {
+    const opts = Object.values(question?.options ?? {}).map(plain).join(' ');
+    if (INSIDE_RE.test(stem) || (o.labels?.parts ?? []).some((p) => partRe(p).test(`${stem} ${opts}`))) return 'penampang';
+  }
   if (o.views.samping && SAMPING_RE.test(stem)) return 'samping';
   return 'utama';
+}
+
+// Parts to point at: named in the stem first, then in the correct option or its explanation (the
+// explanation phase may show the answer; parts named only in wrong options are left out).
+function focusParts(o, stem, question) {
+  const labelled = o.labels?.parts ?? [];
+  const key = question?.answerKey;
+  const answer = plain(`${question?.options?.[key] ?? ''} ${question?.analysis?.[key] ?? ''}`);
+  const inStem = labelled.filter((p) => partRe(p).test(stem));
+  const inAnswer = labelled.filter((p) => !inStem.includes(p) && partRe(p).test(answer));
+  return [...inStem, ...inAnswer].slice(0, 3).map(({ x, y, t }) => ({ x, y, t }));
 }
 
 /** Figure for a soal: the reviewed object picture when the soal is plainly about one object,

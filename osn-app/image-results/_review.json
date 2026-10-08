@@ -2028,8 +2028,8 @@
     "catatan": "Lolos: kutikula, epidermis atas, jaringan palisade, bunga karang, berkas pengangkut, epidermis bawah dengan stomata."
   },
   "penampang-daun/p04-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos: kutikula, epidermis atas, jaringan palisade, bunga karang, berkas pengangkut, epidermis bawah dengan stomata."
+    "status": "revisi",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung): jaringan daun digambar terbungkus KOTAK KACA biru bertepi tegas (snow-globe artifact dari template 'tinted glass shell' lama yang sudah dibenerin osn-app-c2 di gen.mjs). Isi jaringannya sendiri (kutikula, palisade, bunga karang, berkas pengangkut, stomata) akurat — cuma kotak kacanya yang gak seharusnya ada, daun bukan diawetkan dalam kotak. Prompt koreksi: \"Remove the glass box/shell container entirely. The leaf tissue block itself must be the translucent, see-through material (ghosted/semi-transparent tissue showing internal cell layers) — not solid tissue enclosed inside a separate glass case. No visible glass walls, no blue-tinted glass surface, no glass edges or reflections.\""
   },
   "pinus-konus/p01-realistis-depan": {
     "status": "ok",
@@ -2144,8 +2144,8 @@
     "catatan": "Lolos: dinding sel, membran, vakuola besar, inti, kloroplas, mitokondria, badan Golgi; callout kosong."
   },
   "sel-tumbuhan/p11-penampang-belah": {
-    "status": "ok",
-    "catatan": "Lolos: dinding sel, membran, vakuola besar, inti, kloroplas, mitokondria, badan Golgi; callout kosong."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung, tayang live di app) — miskonsepsi klasik. Inti sel, sebagian retikulum endoplasma, dan 1 kloroplas digambar DI DALAM vakuola sentral (bulatan biru), padahal vakuola sentral seharusnya hanya berisi cairan sel bening. Inti, RE, kloroplas seharusnya ada di lapisan sitoplasma (hijau) TIPIS yang terdesak ke tepi sel oleh vakuola, menempel ke dinding sel. Dinding sel, membran, kloroplas lain, mitokondria sudah benar. Prompt koreksi: \"The large central vacuole contains ONLY clear cell sap -- empty, nothing else inside it. The nucleus, ER and ALL chloroplasts lie in the thin layer of cytoplasm squeezed between the vacuole and the cell wall, pressed against the edge -- never floating inside the central vacuole.\""
   },
   "sel-tumbuhan/p12-penampang-transparan": {
     "status": "ok",
@@ -2404,8 +2404,8 @@
     "catatan": "Lolos: cangkang, putih telur, kuning telur, kalaza di dua sisi, rongga udara di ujung tumpul."
   },
   "telur-ayam/p04-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos: cangkang, putih telur, kuning telur, kalaza di dua sisi, rongga udara di ujung tumpul."
+    "status": "revisi",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung, tayang live di app). Rongga udara (biru muda) digambar sebagai pita/bulan sabit TEBAL yang melingkar turun ke kedua sisi hampir separuh cangkang, bukan kantong KECIL dan PIPIH yang terbatas hanya di satu ujung di antara 2 selaput cangkang. Bintik lembaga (germinal disc, bintik putih kecil di permukaan kuning telur) sama sekali tidak digambar, padahal diminta eksplisit di prompt. Kuning telur, putih telur, kalaza, cangkang sudah benar. Prompt koreksi: \"The air cell must be a SMALL, FLAT, lens-shaped pocket confined to just the tip of the blunt end, sandwiched between the inner and outer shell membranes -- NOT a thick band or crescent wrapping down the sides of the egg. Add a small pale germinal disc as a tiny whitish spot on the yolk's surface.\""
   },
   "tempe-tape-set/p01-realistis-depan": {
     "status": "ok",
@@ -2820,8 +2820,8 @@
     "catatan": "Lolos (perlu paraf guru IPA): bola mata dengan 6 otot penggerak, saraf optik di belakang; penampang kornea, iris, lensa, retina, badan kaca."
   },
   "mata/p11-penampang-belah": {
-    "status": "ok",
-    "catatan": "Lolos (perlu paraf guru IPA): bola mata dengan 6 otot penggerak, saraf optik di belakang; penampang kornea, iris, lensa, retina, badan kaca."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung): bintik kuning (fovea) digambar sebagai cakram kuning MENGAMBANG di tengah badan kaca, seharusnya titik kecil di dinding retina segaris sumbu lensa. Saraf optik & bintik buta TIDAK tampak sama sekali (yang terlihat di kanan hanya otot mata, bukan saraf). Retina digambar sebagai isi oranye PADAT mengisi seluruh rongga dengan garis radial, bukan lapisan TIPIS di dinding dalam dengan badan kaca BENING mengisi rongga tengah. Ini salah struktur, bisa mengajarkan model mata yang keliru. Verdict lama (\"ok\") salah, kemungkinan reviewer sebelumnya tidak memeriksa posisi fovea/retina dengan teliti. Prompt koreksi: \"Redraw the eye cross-section: the retina must be a THIN layer lining the inside of the back wall (not a solid filled interior), the vitreous humor filling the central cavity must be CLEAR/transparent, the fovea must be a small yellow spot ON the retinal wall aligned with the lens axis (not floating in the vitreous), and the optic nerve with its blind spot must be clearly visible exiting the back of the eyeball, distinct from the extraocular muscles.\""
   },
   "mata/p12-penampang-transparan": {
     "status": "ok",
@@ -3016,8 +3016,8 @@
     "catatan": "Lolos (perlu paraf guru IPA): laring, trakea bercincin, bronkus, paru kanan 3 lobus / kiri 2 lobus, diafragma."
   },
   "sistem-pernapasan/p11-penampang-belah": {
-    "status": "ok",
-    "catatan": "Lolos (perlu paraf guru IPA): laring, trakea bercincin, bronkus, paru kanan 3 lobus / kiri 2 lobus, diafragma."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung, tayang live di app untuk soal bronkus). (1) Trakea bercincin terus berlanjut ke bawah di antara kedua paru sampai ke kantong di bawah, padahal trakea seharusnya BERHENTI persis di titik percabangan jadi bronkus kanan/kiri. (2) Diafragma digambar sebagai kantong/kantung merah besar menggembung mirip lambung, bukan lembar otot tipis berbentuk kubah di bawah paru-paru. (3) Pohon percabangan bronkus cuma jelas terlihat di satu paru (sisi kiri gambar), paru satunya nyaris polos tanpa cabang. Prompt koreksi: \"The trachea STOPS exactly where it splits into the left and right main bronchi -- nothing continues down between the lungs below that point. The diaphragm is a THIN dome-shaped sheet of red muscle directly under both lungs, like a shallow umbrella, NOT a bulging pouch or sac. Both lungs must show a clearly branching bronchial tree in equal detail, not just one side.\""
   },
   "sistem-urinaria/p01-realistis-turnaround": {
     "status": "ok",
@@ -3160,8 +3160,8 @@
     "catatan": "Lolos: bola sepak pola segilima hitam & segienam putih (ikosahedron terpotong)."
   },
   "jungkat-jungkit/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Hanya 3 salinan. Prompt: \"Exactly four copies: front, back, left, right.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "jungkat-jungkit/p02-realistis-depan": {
     "status": "ok",
@@ -3660,8 +3660,8 @@
     "catatan": "Lolos (perlu paraf guru IPA): daun telinga, liang telinga, gendang telinga, tulang pendengaran, saluran setengah lingkaran, koklea, saraf pendengaran, saluran Eustachius."
   },
   "telinga/p04-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos (perlu paraf guru IPA): daun telinga, liang telinga, gendang telinga, tulang pendengaran, saluran setengah lingkaran, koklea, saraf pendengaran, saluran Eustachius."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung). Sama seperti p02/p03: seluruh telinga tengah+dalam (tulang pendengaran, koklea, kanal semisirkular) digambar terkurung di dalam siluet daun telinga, bukan di dalam tulang tengkorak. Prompt koreksi: \"Coronal section of the HEAD through the ear canal, textbook layout: the auricle sticks out on the LEFT edge, the ear canal runs horizontally to the RIGHT into the skull, ends at the eardrum; the middle ear (hammer-anvil-stirrup chain) and inner ear (cochlea, semicircular canals, vestibule, auditory nerve, Eustachian tube) sit to the RIGHT of the eardrum INSIDE the translucent skull bone — never inside the auricle or earlobe.\""
   },
   "tengkorak/p02-realistis-depan": {
     "status": "ok",
@@ -3793,15 +3793,15 @@
   },
   "katrol-tetap/p07-ilustrasi-depan": {
     "status": "ok",
-    "catatan": "Lolos: katrol tetap pada balok, tali melewati roda, satu ujung ke ember dan ujung lain bebas ditarik."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak depan: roda menghadap kamera, ember di utas kiri, ujung bebas di kanan. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "katrol-tetap/p08-ilustrasi-belakang": {
     "status": "ok",
-    "catatan": "Lolos: katrol tetap pada balok, tali melewati roda, satu ujung ke ember dan ujung lain bebas ditarik."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak belakang: cermin tampak depan (ember di kanan, ujung bebas di kiri). Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "katrol-tetap/p09-ilustrasi-kiri": {
     "status": "ok",
-    "catatan": "Lolos: katrol tetap pada balok, tali melewati roda, satu ujung ke ember dan ujung lain bebas ditarik."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak samping: roda terlihat dari tepinya, kedua utas tali segaris di bidang roda, ember di bawah. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "kincir-angin/p02-realistis-depan": {
     "status": "ok",
@@ -4013,7 +4013,7 @@
   },
   "sepeda/p05-realistis-kanan": {
     "status": "ok",
-    "catatan": "Lolos: sepeda dengan dua roda, rangka, setang, sadel, pedal, rantai dan gir; tampak kanan memperlihatkan rantai."
+    "catatan": "Lolos (model pro). File DITUKAR dengan p04 oleh reviewer (bukan edit piksel): gambar baru menghadap KANAN (roda depan & keranjang di kanan gambar) dan memperlihatkan sisi rantai/gir — sisi kanan sepeda memang sisi penggerak, jadi benar untuk tampak kanan. Rangka hitam polos tanpa decal (dicek zoom 2×), 2 roda bulat, bel, reflektor; utuh, latar putih."
   },
   "sepeda/p07-ilustrasi-depan": {
     "status": "ok",
@@ -4396,16 +4396,16 @@
     "catatan": "Yang digambar adalah sendi lutut dengan tulang kering dan tulang betis (fibula terlihat), bukan tulang paha (femur). Prompt: \"A single human femur, whole on the left and cut lengthwise on the right: rounded head and neck at the top, long shaft, two condyles at the bottom; spongy bone with red marrow in the ends, compact bone wall and yellow marrow in the shaft; no tibia or fibula.\""
   },
   "rangkaian-paralel/p01-realistis-atas.lama": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 4, seharusnya PERSIS 3 sesuai katalog. Topologi kabel juga perlu dicek ulang guru IPA — kabel merah/hitam menyambung dari bohlam ke bohlam berurutan (bukan dari rel/bus bersama yang jelas), perlu dipastikan ini benar-benar paralel bukan seri-terselubung. Prompt koreksi: \"Exactly 3 bulbs, each wired as a clear independent branch off two shared common rails (ladder layout), not chained bulb-to-bulb.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI: 6 bohlam (harus PERSIS 3), berpasangan membentuk loop kecil sehingga topologi tidak terbaca sebagai paralel; sakelar tidak tersambung kabel sama sekali; teks garbled di badan baterai. Prompt koreksi: \"Exactly THREE bulbs, each on its own branch between two straight parallel wires (ladder layout); the toggle switch wired into one main wire between the battery and the first branch; plain unlabeled batteries.\" Rekomendasi: gambar VEKTOR via kode (seperti vektor-mtk.mjs) — rangkaian sudah gagal berulang di Gemini."
   },
   "rangkaian-paralel/p02-ilustrasi-atas.lama": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 5, seharusnya PERSIS 3. Prompt koreksi sama seperti versi realistis: \"Exactly 3 bulbs on independent parallel branches.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI: 5 bohlam (harus 3); tempat baterai TIDAK tersambung kabel apa pun (bohlam menyala tanpa sumber = menyesatkan); satu ujung kabel buntu di sekrup terminal. Prompt koreksi sama seperti p01 + \"both battery holder terminals visibly wired into the circuit\". Rekomendasi: VEKTOR via kode."
   },
   "kamera-lubang-jarum/p02-realistis-depan.lama": {
-    "status": "salah",
-    "catatan": "SALAH — depan menampilkan gambar lilin, seharusnya cuma lubang jarum polos."
+    "status": "revisi",
+    "catatan": "Kotak kamera lubang jarum seharusnya terlihat OPAK/gelap total dari depan (kardus hitam solid), dengan satu-satunya bukaan adalah lubang jarum kecil pada foil. Pada hasil generate, seluruh panel depan terlihat TRANSLUSEN/tembus cahaya (abu-abu buram) dan bayangan nyala lilin terbalik justru terlihat menyala di balik panel DEPAN ini -- padahal secara fisika, bayangan terbalik hanya terbentuk di layar BELAKANG (kertas kalkir), dan dari tampak depan seharusnya TIDAK terlihat bayangan apa pun (kotak opak). Ini berpotensi menyesatkan konsep cara kerja kamera lubang jarum. Saran prompt koreksi: \"The box must be fully OPAQUE solid black cardboard on all visible front walls -- no glow, no visible image, no translucency through the front panel. Only the small foil pinhole patch should be visible on the front; nothing else should be see-through.\""
   },
   "kamera-lubang-jarum/p03-realistis-belakang.lama": {
     "status": "salah",
@@ -4612,16 +4612,16 @@
     "catatan": "Prompt meminta gaya SEE-THROUGH: kulit/periderm digambar sebagai cangkang semi-transparan (~25% opacity) sehingga bagian dalam terlihat menembus kulit luar, tanpa garis leader/lingkaran label. Hasil generate ini tidak terlihat transparan sama sekali — tepi coklat tua di sekeliling umbi tampak solid/opaque, gaya visualnya nyaris sama dengan versi 'dibelah' (p11), hanya area dalam diberi dua garis putus-putus konsentris. Selain itu pembagian warna region tidak lengkap: cortex (cream) dan daging penyimpan pati (pale yellow) seharusnya dua warna berbeda sesuai penampang.mjs, tapi di gambar ini hanya terlihat satu warna kuning pucat seragam untuk seluruh bagian dalam. Tidak ada leader line/lingkaran kosong, itu sudah benar sesuai spek transparan. Saran prompt koreksi (EN): \"Make the outer skin genuinely semi-transparent (about 25% opacity tinted shell) so the viewer can see through the potato's outer surface to the internal layers underneath, rather than drawing a solid opaque brown border. Also give the cortex (cream) and the starch-storage flesh (pale yellow with dotted starch grains) clearly separate, distinctly colored regions divided by a dashed line, not one uniform color.\""
   },
   "kepiting/p04-realistis-kiri.lama": {
-    "status": "revisi",
-    "catatan": "Prompt meminta 'strict LEFT side profile ... pure side silhouette ... no three-quarter', tapi sudut kamera di gambar ini masih berupa sudut 3/4 (bagian atas karapas dan kedua capit masih terlihat jelas dari depan-samping, bukan siluet murni dari samping). Anatomi kepiting sendiri (capit besar sepasang, kaki jalan, mata) terlihat wajar. Saran prompt koreksi (EN): \"Regenerate as a STRICT 90° side profile (pure side silhouette) — camera directly to the side of the crab, not at a three-quarter angle; only one side's legs and the near claw should be clearly visible, with the carapace seen edge-on.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI (ke-2 kalinya) + masalah baru — file ini memiliki BAR HITAM SOLID di atas dan bawah gambar (letterbox), melanggar instruksi background putih solid bersih tanpa elemen lain. Selain itu sudut kamera masih terlihat 3/4 (karapas atas dan kedua capit terlihat dari depan-samping), bukan profil murni 90° seperti diminta, dan posenya nyaris sama dengan p05 (kanan) — tidak terdiferensiasi sebagai cerminan kiri vs kanan. Correction (EN): \"Regenerate on a clean solid white background with NO black bars/letterboxing, as a STRICT 90° side profile (pure side silhouette, not three-quarter), clearly mirrored from the right-side view.\""
   },
   "kepiting/p05-realistis-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Sama seperti p04: sudut kamera masih 3/4, bukan profil samping murni 90°. Selain itu komposisi/pose gambar ini sangat mirip dengan p04 (kiri) — seharusnya p04 dan p05 adalah cerminan satu sama lain (kepala/capit menghadap arah berlawanan), tapi di sini keduanya terlihat condong ke arah yang serupa, sehingga 'kiri' dan 'kanan' tidak terdiferensiasi dengan jelas. Saran prompt koreksi (EN): \"Regenerate as a STRICT 90° RIGHT side profile, a true mirror image of the left-side view (claws/head pointing toward the right edge), not a three-quarter angle similar to the left-view render.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI (ke-2 kalinya) + masalah baru — sama seperti p04: ada BAR HITAM SOLID di atas/bawah gambar (background tidak bersih putih solid), sudut kamera masih 3/4 bukan profil murni, dan pose nyaris identik dengan p04 (kiri) sehingga kiri/kanan tidak terdiferensiasi sebagai cerminan. Correction (EN): \"Regenerate on a clean solid white background with NO black bars, as a STRICT 90° RIGHT side profile, true mirror image of the left view.\""
   },
   "kepiting/p08-ilustrasi-belakang.lama": {
-    "status": "revisi",
-    "catatan": "Dibandingkan p07-ilustrasi-depan, gambar ini nyaris identik: kedua capit terbuka simetris menghadap kamera, mata dan tepi karapas bergerigi terlihat jelas dari depan — ini tetap menampilkan tampak DEPAN kepiting, bukan tampak belakang. Secara anatomi, dilihat dari belakang seharusnya kedua capit besar TIDAK terlihat (tersembunyi di depan tubuh) dan yang tampak adalah bagian abdomen/telson terlipat di bawah karapas. Saran prompt koreksi (EN): \"Rotate the crab 180° to show the true BACK/REAR view: the large claws should be hidden in front of the body (not visible), and the folded abdominal flap (telson) underneath the rear of the carapace should be the visible feature — this must look clearly different from the front view.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI (ke-2 kalinya) — dibandingkan p07-ilustrasi-depan, gambar ini masih nyaris identik: kedua capit besar tetap terbuka penuh dan terlihat jelas menghadap kamera dari atas, bukan tersembunyi di depan tubuh seperti seharusnya pada tampak belakang. Ada elemen flap/lipatan segitiga di bagian bawah tengah (kemungkinan dimaksudkan sebagai telson/abdomen terlipat), tapi karena kedua capit tetap dominan terlihat, tampilan keseluruhan tetap terbaca sebagai tampak depan, bukan belakang. Correction (EN): \"Rotate the crab 180 degrees to a true BACK/REAR view: the two large claws must be hidden in front of the body and NOT visible at all, with only the folded abdominal flap (telson) visible at the rear of the carapace — currently both claws are still fully open and visible, which still reads as a front view.\""
   },
   "kepiting/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
@@ -5109,31 +5109,31 @@
   },
   "katrol-bergerak/p01-realistis-depan.lama": {
     "status": "salah",
-    "catatan": "GAGAL LAGI — beban logam masih bertuliskan \"1 Kg\" tercetak jelas, persis pelanggaran yang sama dengan versi .lama (melanggar aturan exclude text/numbers). Selain itu mekanisme tali kini terlihat MEMBINGUNGKAN: tampak TIGA segmen tali terpisah (satu diikat di klem kiri turun ke katrol, satu garis lurus terpisah dari tengah batang turun ke atas katrol, dan satu lagi berbentuk loop lepas tergantung di ujung kanan batang tanpa terhubung ke sistem katrol) — bukan SATU tali menerus yang diikat-turun-melingkar di bawah katrol-naik ke ujung bebas. Correction (EN): \"Regenerate with a plain unmarked cylindrical iron mass (remove the '1 Kg' embossed text entirely), and show ONE continuous rope: tied to the rod, running down, looping UNDER the movable pulley that carries the load, then back UP to a single free hanging end — remove the extra disconnected rope segments.\""
+    "catatan": "GAGAL ke-3 (model pro): tali kiri membentuk simpul menggantung mirip jerat gantung (tidak pantas untuk anak) dan ujung bebas tali disampirkan ke batang statif, bukan ditarik ke atas. Diganti gambar vektor."
   },
   "katrol-bergerak/p02-ilustrasi-depan.lama": {
-    "status": "revisi",
-    "catatan": "Teks '1 kg' tercetak jelas di balok beban, melanggar aturan ZERO TEXT/no-numbers. Selain itu alur tali pada palang atas perlu diverifikasi: tampak seolah tali memiliki DUA titik tetap di palang (satu lurus turun ke katrol, satu lagi naik dari arah cincin bebas di kanan) — untuk katrol bergerak yang benar seharusnya hanya SATU ujung tali terikat tetap ke palang, tali melingkar di bawah katrol yang membawa beban, lalu ujung lainnya bebas (tidak terikat ke palang) agar bisa ditarik. Saran: \"Remove the '1 kg' text from the hanging mass block — show a plain grey cylindrical mass with no numbers or labels anywhere. Also make the rope path unambiguous: one end tied fixed to the stand's horizontal bar, the rope runs down and loops under the movable pulley carrying the load, then back up and simply hangs free with an open loop handle for pulling — it must NOT be tied to a second fixed point on the bar.\""
+    "status": "salah",
+    "catatan": "GAGAL ke-3 (model pro): teks \"1 kg\" tercetak di beban, statif tanpa alas, ujung tali kanan dijepit klem (bukan ujung bebas). Diganti gambar vektor."
   },
   "katrol-majemuk/p02-ilustrasi-depan.lama": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI — beban masih bertuliskan huruf \"W\" tercetak jelas, persis pelanggaran yang sama dengan versi .lama (melanggar aturan exclude text/letters). Hal positif: jumlah tali penyangga antara blok atas dan bawah sekarang sudah benar 4 lajur (sebelumnya diragukan hanya 3) — ini sudah membaik. Correction (EN): \"Regenerate with a plain unmarked weight — remove the 'W' letter completely — keep the four rope strands between the upper and lower pulley blocks exactly as they are now.\""
+    "status": "revisi",
+    "catatan": "Berdasarkan gambar acuan-1 (diagram referensi katrol majemuk 2+2 sheave), sistem yang benar punya 5 bentangan tali total: 4 utas tali vertikal di antara blok atas dan blok bawah (masing-masing menopang W/4) DITAMBAH 1 utas tali bebas/tarik terpisah yang keluar dari salah satu katrol untuk ditarik tangan. Pada hasil generate, tampak hanya 4 utas tali di antara kedua blok TANPA ada ujung tali bebas terpisah yang jelas keluar untuk ditarik -- tanpa ujung bebas, sistem tali tertutup ini secara mekanis tidak bisa berfungsi untuk mengangkat beban. Perlu verifikasi hitung jumlah utas tali persis dan keberadaan ujung tarik bebas. Saran prompt koreksi: \"Add a 5th rope segment: a free end exiting from one of the upper block's sheaves, hanging separately to the side as the loose pulling end held by hand, distinct from the 4 parallel supporting strands between the two blocks.\""
   },
   "katrol-tetap/p02-realistis-depan.lama": {
-    "status": "revisi",
-    "catatan": "Tali hanya turun ke ember; ujung tali yang ditarik di sisi lain roda tidak ada, sehingga cara kerja katrol tetap tidak terlihat. Prompt: \"Fixed pulley: rope passes OVER the wheel, one end tied to the bucket, the other end hanging down on the other side to be pulled.\""
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya KELIRU: dua roda berdampingan dan tali keluar dari poros di antara roda, satu utas saja ke ember, tidak ada ujung bebas — bukan katrol tetap yang berfungsi."
   },
   "katrol-tetap/p03-realistis-belakang.lama": {
-    "status": "revisi",
-    "catatan": "Tidak ada ujung tali yang ditarik. Prompt: \"Rope over the wheel with both ends visible.\""
+    "status": "salah",
+    "catatan": "Diganti bersama set realistis (mengikuti p02 yang salah)."
   },
   "katrol-tetap/p04-realistis-kiri.lama": {
-    "status": "revisi",
-    "catatan": "Tidak ada ujung tali yang ditarik. Prompt: \"Rope over the wheel with both ends visible.\""
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya KELIRU: roda menghadap kamera dan tali hanya satu utas menggantung dari bawah roda; tidak ada ujung bebas."
   },
   "katrol-tetap/p05-realistis-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Tidak ada ujung tali yang ditarik. Prompt: \"Rope over the wheel with both ends visible.\""
+    "status": "salah",
+    "catatan": "Diganti bersama set realistis (mengikuti p02/p04 yang salah)."
   },
   "kincir-angin/p05-realistis-kanan.lama": {
     "status": "revisi",
@@ -5145,15 +5145,15 @@
   },
   "kipas-angin/p05-realistis-kanan.lama": {
     "status": "revisi",
-    "catatan": "GAGAL LAGI (lihat .lama): masalah yang sama persis dengan versi sebelumnya — kisi-kisi kipas masih tampak sebagai oval lebar dengan bilah kipas jelas terlihat menembus kisi, bukan profil 90 derajat murni (seharusnya kisi terlihat nyaris sebagai garis/elips tipis edge-on dari samping). Sudut kamera masih sekitar 3/4, belum diperbaiki. Prompt koreksi (EN): \"Regenerate as a strict 90-degree right-side profile with the fan grille seen edge-on as a thin ellipse/line — the blades must NOT be visible through the grille face, not a three-quarter angle.\""
+    "catatan": "Profil sekarang hampir 90° (kisi tampak elips sempit) — membaik. Tapi ARAH salah: kisi/depan kipas menghadap ke KIRI gambar, sama persis dengan p04 (kiri). Tampak kanan harus menghadap ke KANAN gambar (cermin p04). Prompt koreksi: \"Strict RIGHT side profile: the fan grille (front) faces the RIGHT edge of the image, motor housing on the left — the exact mirror of the left view.\""
   },
   "kipas-angin/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
-    "catatan": "Sudut masih ~45 derajat, bukan profil 90 derajat murni. Correction: \"Rotate the fan to a strict 90-degree right-side profile view, not a 45-degree three-quarter angle.\""
+    "catatan": "Sama seperti p05: kisi menghadap ke KIRI gambar (itu tampak kiri), seharusnya menghadap ke KANAN. Prompt koreksi: \"Strict RIGHT side profile, grille facing the RIGHT edge of the image, motor on the left.\""
   },
   "kompas/p01-realistis-atas.lama": {
     "status": "revisi",
-    "catatan": "Angka derajat terbaca jelas di bezel, seharusnya blur. Correction: \"Blur the degree numbers printed on the compass bezel so they are not clearly readable, per the no-readable-text rule.\""
+    "catatan": "Kompas kuningan tutup terbuka, tampak atas, jarum merah/perak di poros — bentuk benar. Masalah: angka derajat masih terbaca dan URUTANNYA ACAK di bagian bawah (mis. 240, 220, 180, 120, 160 bercampur; 20 & 40–50 hilang), huruf N/E/S/W terbaca (prompt minta tanpa huruf terbaca). PERLU KEPUTUSAN USER: bolehkah huruf N-E-S-W dan angka derajat asal BENAR? Kalau boleh, opsi paling aman = gambar vektor (angka dihitung kode). Kalau tidak: \"Compass dial with fine degree tick marks only — no letters, no numbers; the north end of the needle painted red.\""
   },
   "kompor-gas/p04-realistis-kiri.lama": {
     "status": "revisi",
@@ -5173,7 +5173,7 @@
   },
   "neraca-pegas/p07-ilustrasi-depan.lama": {
     "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca. Correction: \"Blur the scale numbers on the spring scale so they are not clearly readable, per the no-readable-text rule.\""
+    "catatan": "Beban kuningan yang digantung memiliki tulisan terbaca jelas \"100 g\" -- ini melanggar instruksi eksplisit prompt \"Exclude: text, labels, letters, numbers\". Perlu regenerasi tanpa teks/angka terbaca pada beban maupun bagian manapun. Saran prompt koreksi: \"Remove all visible text/numbers from the hanging brass mass -- it must be a plain unmarked slotted weight with no engraved or printed characters.\""
   },
   "neraca-pegas/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
@@ -5193,7 +5193,7 @@
   },
   "sepeda/p04-realistis-kiri.lama": {
     "status": "revisi",
-    "catatan": "Ada tanda/logo samar di top tube dekat sadel yang kemungkinan terbaca sebagai teks/merek — perlu dipastikan guru/reviewer manusia karena resolusinya kecil. Prompt koreksi preventif: \"The frame must be completely plain, no decals, no text, no logos anywhere.\""
+    "catatan": "Profil kiri murni (depan ke kiri gambar), 2 roda bulat, keranjang, rem & spakbor wajar. Sisa: masih ada tanda samar seperti decal/teks di top tube dekat head tube dan di ujung atas seat tube (terlihat saat di-zoom 2×). Prompt koreksi: \"Plain glossy black frame with no decals, logos, stickers or printed text on any tube.\" Detail kecil — mohon cek manusia di resolusi penuh."
   },
   "sepeda/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
@@ -5213,7 +5213,7 @@
   },
   "cermin-datar/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
-    "catatan": "Sudut 3/4, bukan tampak belakang lurus. Correction: \"Show a strict straight-on back view, not a three-quarter angle.\""
+    "catatan": "Prompt menyebutkan tampak belakang harus memperlihatkan \"grey painted backing\" (backing dicat abu-abu) dan dudukan lipat, tapi hasil generate menampilkan seluruh permukaan belakang bertekstur kayu (wood grain) coklat seragam, sama seperti bingkai -- tidak ada bagian backing abu-abu yang berbeda dari bingkai kayu. Hanya terlihat sedikit garis gelap tipis di tepi atas (kemungkinan tepi kaca cermin). Saran prompt koreksi: \"The back panel (inside the thin wooden frame) must be a distinct flat grey painted backing material, clearly different in color/texture from the wood-grain frame border around it.\""
   },
   "cermin-datar/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
@@ -5225,11 +5225,11 @@
   },
   "lensa-cembung-cekung-set/p01-realistis-depan.lama": {
     "status": "revisi",
-    "catatan": "Kedua lensa terlihat sama (cembung semua), tidak ada cekung. Correction: \"Make the concave (cekung) lens visibly thinner in the middle and thicker at the edges, curving inward — clearly different in shape from the convex (cembung) lens, which must be thicker in the middle and thinner at the edges. The two lenses must not look identical.\""
+    "catatan": "Prompt meminta perbedaan ketebalan yang jelas terlihat lewat highlight kaustik (lensa kiri tebal di tengah/cembung, lensa kanan tipis di tengah tebal di tepi/cekung), tapi pada hasil generate kedua lensa terlihat nyaris identik secara siluet -- hanya terlihat sebagai bingkai logam tipis berisi kaca nyaris transparan tanpa profil ketebalan yang jelas berbeda. Perlu verifikasi apakah siswa SD bisa membedakan mana cembung dan mana cekung hanya dari gambar ini. Saran prompt koreksi: \"Make the thickness difference obvious even from the front: the convex lens must show a clearly bulging, brighter central highlight (thick middle), while the concave lens must show a visibly pinched/thinner central zone with brighter thick edges -- the two must look clearly different, not like identical empty frames.\""
   },
   "lensa-cembung-cekung-set/p02-ilustrasi-depan.lama": {
-    "status": "salah",
-    "catatan": "SALAH — tidak terlihat seperti lensa sama sekali."
+    "status": "revisi",
+    "catatan": "Lensa cekung (kanan) sudah cukup jelas menunjukkan bentuk pinggang terjepit/hourglass (menunjukkan tipis di tengah), tapi lensa cembung (kiri) hanya berupa oval biru muda polos tanpa penekanan visual yang menunjukkan bagian tengah lebih tebal/menonjol -- tidak setara kejelasannya dengan lensa cekung. Saran prompt koreksi: \"Give the convex lens (left) an equally clear visual cue for its bulging thick center -- e.g. a bold rounded highlight shape that clearly bulges outward in the middle -- matching the clarity of the concave lens's pinched-waist shape on the right.\""
   },
   "mengembun-gelas/p02-realistis-depan.lama": {
     "status": "revisi",
@@ -5237,7 +5237,7 @@
   },
   "termometer-set/p03-penampang-belah.lama": {
     "status": "salah",
-    "catatan": "SALAH — teks label bahasa Inggris tercetak banyak, dengan typo berulang (\"reseurvtor\" alih-alih \"reservoir\", \"Colinical\" alih-alih \"Clinical\"), padahal harus pakai lingkaran kosong. Termometer kiri juga membingungkan: ada kolom merah DAN reservoir abu-abu \"mercury\" sekaligus (campur 2 jenis cairan di 1 termometer). Prompt koreksi: \"ZERO TEXT, use empty circle callouts only. Each thermometer must use ONE liquid type consistently (mercury OR colored alcohol, not both).\""
+    "catatan": "GAGAL LAGI: masih penuh teks label dengan typo ('thermerator', 'Capailary', 'Constrction', 'reservair' ×3). Termometer klinis kiri juga salah: kolom raksa TERPUTUS dari tabung reservoir di bawah (ada celah). Prompt koreksi: \"ZERO TEXT, empty callout circles only. Clinical thermometer: mercury column continuous from the bulb up through a small constriction; lab thermometer: red alcohol column continuous from bulb.\" Rekomendasi: gemini-3-pro-image (model 2.5 terus menambah label)."
   },
   "rafflesia/p02-realistis-depan": {
     "status": "ok",
@@ -5844,12 +5844,12 @@
     "catatan": "Diagram skematik penampang sistem pencernaan lengkap (mulut dengan lidah & tonsil, hati, kandung empedu+pankreas, lambung dengan potongan dinding berlapis, usus halus & usus besar, apendiks, rektum) dengan leader line menuju lingkaran kosong (sekitar 10 callout) — semua lingkaran benar-benar kosong, tidak ada teks/angka, sesuai aturan ZERO TEXT. Garis putus-putus pada potongan lambung menunjukkan lapisan dinding dengan benar."
   },
   "telinga/p02-ilustrasi-depan": {
-    "status": "ok",
-    "catatan": "Potongan telinga menampilkan daun telinga, liang telinga, 3 tulang pendengaran (maleus-inkus-stapes, jumlah benar), dan koklea berbentuk spiral yang benar. Konsisten dengan gaya ilustrasi organ lain yang menampilkan potongan internal pada versi 'depan' karena struktur telinga tengah/dalam memang perlu terlihat untuk tujuan edukasi."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung — INI GAMBAR UTAMA yang tayang live di app untuk objek telinga). Seluruh telinga tengah (3 tulang pendengaran) dan telinga dalam (koklea) digambar DI DALAM daun telinga/cuping, bukan di dalam tulang tengkorak seperti anatomi sebenarnya — tidak ada liang telinga yang menembus ke tengkorak, tidak ada gendang telinga sebagai batas. Siswa bisa salah paham koklea ada di cuping telinga. Dipakai untuk 2 soal '3 tulang pendengaran'. Akar masalah: prompt 'front (coronal) section through the ear' ditafsirkan sebagai memotong daun telinga saja. Prompt koreksi: \"Coronal section of the HEAD through the ear canal, textbook layout: the auricle sticks out on the LEFT edge, the ear canal runs horizontally to the RIGHT into the skull, ends at the eardrum; the middle ear (hammer-anvil-stirrup chain, three DISTINCT bone shapes, not round beads) and the inner ear (cochlea, semicircular canals, vestibule, auditory nerve) sit to the RIGHT of the eardrum INSIDE the beige skull bone — never inside the auricle or earlobe.\""
   },
   "telinga/p03-penampang-belah": {
-    "status": "ok",
-    "catatan": "Gaya skematik sesuai: batas antar wilayah berupa garis putus-putus, 7 lingkaran callout kosong (tanpa teks/angka, sesuai ZERO TEXT), 3 tulang pendengaran digambarkan sebagai 3 titik krem pada rantai (jumlah benar), koklea spiral ungu, kanal semisirkular hijau, saraf kuning — pemisahan warna jelas dan proporsional."
+    "status": "salah",
+    "catatan": "Dikoreksi ulang (ditemukan osn-app-80, dikonfirmasi langsung). Sama seperti p02: seluruh telinga tengah+dalam digambar di dalam daun telinga, bukan di dalam tengkorak — tidak ada liang telinga menuju tengkorak. 3 tulang pendengaran digambar sebagai 3 manik bulat identik, bukan bentuk martil-landasan-sanggurdi yang berbeda. Prompt koreksi: \"Coronal section of the HEAD through the ear canal, textbook layout: the auricle sticks out on the LEFT edge, the ear canal runs horizontally to the RIGHT into the skull, ends at the eardrum; the middle ear (hammer, anvil, stirrup — three DISTINCT bone shapes, not round beads) and inner ear (cochlea, semicircular canals, vestibule, auditory nerve) sit to the RIGHT of the eardrum INSIDE the beige skull bone — never inside the auricle or earlobe. Keep the dashed region borders and empty callout circles.\""
   },
   "tengkorak/p06-ilustrasi-turnaround": {
     "status": "revisi",
@@ -5908,8 +5908,8 @@
     "catatan": "Menampilkan sisi samping (sidewall) ban yang rata dengan garis motif tipis, sesuai orientasi prompt (kiri/kanan = permukaan samping, bukan tapak). Lurus/ortografik, utuh, tanpa teks, latar bersih."
   },
   "ban-berulir/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Ada TEKS besar 'FRONT / BACK / LEFT SIDE / RIGHT VIEW' tertulis jelas di bawah tiap panel — melanggar aturan ZERO TEXT/'no text labels' secara eksplisit. Selain itu keempat panel menampilkan tapak (tread) yang nyaris sama, tidak ada panel yang menunjukkan sisi samping (sidewall) rata untuk KIRI/KANAN sesuai prompt. Prompt koreksi: \"Regenerate the 4-panel turnaround sheet with ABSOLUTELY NO text/words/captions anywhere in the image, and make panels 3 and 4 (LEFT and RIGHT) show the flat circular SIDEWALL face of the tire (no tread knobs), distinct from the tread-facing FRONT/BACK panels.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "bel-listrik/p03-penampang-belah": {
     "status": "ok",
@@ -6037,19 +6037,19 @@
   },
   "katrol-tetap/p02-realistis-depan": {
     "status": "ok",
-    "catatan": "Tampak depan (sisi tepi/groove katrol) dengan balok kayu, tali simpul ke ember seng, logis dan sesuai prompt. Tanpa teks, background bersih."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak depan: roda menghadap kamera, ember di utas kiri, ujung bebas di kanan. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "katrol-tetap/p03-realistis-belakang": {
     "status": "ok",
-    "catatan": "Tampak belakang konsisten dengan tampak depan (katrol relatif simetris depan-belakang), detail kayu dan tali masih logis. Tanpa teks."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak belakang: cermin tampak depan (ember di kanan, ujung bebas di kiri). Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "katrol-tetap/p04-realistis-kiri": {
     "status": "ok",
-    "catatan": "Tampak kiri menunjukkan wajah datar roda katrol (rotasi 90° dari tampak depan yang menunjukkan sisi tepi) — masuk akal secara mekanis untuk sebuah roda. Tanpa teks."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak samping: roda terlihat dari tepinya, kedua utas tali segaris di bidang roda, ember di bawah. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "katrol-tetap/p05-realistis-kanan": {
     "status": "ok",
-    "catatan": "Tampak kanan menunjukkan wajah datar roda dari sisi berlawanan (mirror dari kiri), detail as/poros terlihat. Tanpa teks, konsisten."
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak samping (cermin): roda dari tepi, tali segaris, ember di bawah. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "ketapel/p02-ilustrasi-depan": {
     "status": "ok",
@@ -6084,8 +6084,8 @@
     "catatan": "Lolos: konsisten."
   },
   "lilin-menyala/p06-ilustrasi-turnaround": {
-    "status": "salah",
-    "catatan": "SALAH — teks label \"FRONT/BACK/BACK/RIGHT\" tercetak, panel duplikat, tidak ada LEFT."
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "komidi-putar/p01-realistis-depan": {
     "status": "ok",
@@ -6156,8 +6156,8 @@
     "catatan": "Lolos: pola garis gaya akurat."
   },
   "neraca-pegas/p06-ilustrasi-turnaround": {
-    "status": "salah",
-    "catatan": "SALAH — angka terbaca di semua panel, panel nyaris identik."
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "neraca-pegas/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -6242,10 +6242,6 @@
   "transformator/p05-realistis-kanan": {
     "status": "ok",
     "catatan": "Lolos: konsisten."
-  },
-  "transformator/p12-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos: kumparan primer/sekunder beda warna jelas di toroidal."
   },
   "alat-gelas-lab-set/p02-ilustrasi-depan": {
     "status": "ok",
@@ -6477,11 +6473,11 @@
   },
   "panel-surya/p11-penampang-belah.lama": {
     "status": "salah",
-    "catatan": "SALAH — ada teks label tertulis langsung di gambar (\"Tempered glass\", \"EVA layer\", \"Junction box\", \"n-type\", dst, beberapa garbled), padahal aturan ZERO TEXT / pakai lingkaran kosong untuk callout. Prompt koreksi: \"ZERO TEXT anywhere in the image. Replace all text labels with thin leader lines ending in small EMPTY circles (no text inside) placed outside the object.\""
+    "catatan": "GAGAL LAGI: masih penuh teks label ('Tempered Glass' dobel, 'Top EVA Layer' dobel, 'n-type layer', 'p-type layer', 'White Backsheet', 'Junction Box', 'Aluminum') dan beberapa label menunjuk bagian yang salah; juga sudut isometrik, bukan lurus. Model terus memberi label pada diagram lapisan 'exploded'. Rekomendasi: regenerate dengan gemini-3-pro-image ATAU ubah prompt penampang.mjs agar tidak 'exploded view'. Prompt koreksi: \"Straight-on flat cross-section of the panel layers stacked tightly (glass, EVA, silicon cell, EVA, backsheet, aluminum frame), each layer a distinct color separated by dashed lines; ZERO text — only thin leader lines ending in small EMPTY circles.\""
   },
   "panel-surya/p12-penampang-transparan.lama": {
-    "status": "salah",
-    "catatan": "SALAH — ada teks label tertulis langsung di gambar (\"Tempered glass\", \"EVA layer\", \"Junction box\", \"n-type\", dst, beberapa garbled), padahal aturan ZERO TEXT / pakai lingkaran kosong untuk callout. Prompt koreksi: \"ZERO TEXT anywhere in the image. Replace all text labels with thin leader lines ending in small EMPTY circles (no text inside) placed outside the object.\""
+    "status": "revisi",
+    "catatan": "Teks sudah hilang (membaik). Sisa: sudut isometrik 3/4 (prompt minta lurus/ortografik) dan proporsi menyesatkan — panel digambar seperti kotak akuarium tebal dengan sel berbentuk balok tebal, padahal panel surya tipis (~4 cm). Prompt koreksi: \"Straight-on front view, thin flat panel proportions; see-through glass shows the cell grid and the junction box on the back.\""
   },
   "transformator/p07-ilustrasi-depan.lama": {
     "status": "salah",
@@ -6828,12 +6824,12 @@
     "catatan": "Bagian ujung tulang tampak terpisah dari batang (seperti sendi), membingungkan; dan bentuk kepala femur tidak terlihat. Prompt: \"One continuous see-through femur: head and neck at the top, shaft, condyles at the bottom; spongy bone and red marrow at the ends, yellow marrow in the shaft; dashed borders, empty callout circles.\""
   },
   "jungkat-jungkit/p09-ilustrasi-kiri.lama": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI — identik dengan p07-ilustrasi-depan (sisi panjang penuh terlihat, pivot segitiga di tengah, kedua kursi merah di kedua ujung terlihat bersamaan), bukan tampak ujung (end-on view, hanya satu kursi/pegangan dekat kamera, tiang pivot di belakang). Masalah persis sama dengan versi .lama. Correction (EN): \"Regenerate as a true end-on view: camera looking straight down the length of the beam from one end, only one seat and handle visible close to the camera, the pivot stand behind it — not the full side-length view.\""
+    "status": "revisi",
+    "catatan": "Perbaikan besar dari versi .lama (sebelumnya identik dengan tampak depan penuh sisi panjang) — sekarang kontennya sudah benar menampilkan tampak UJUNG (end-on): satu dudukan besar/dekat terlihat, satu pegangan kecil/jauh di ujung lain, tiang penyangga di tengah — sesuai definisi end-on view objek ini. Namun KOMPOSISI melanggar aturan margin ~10%: objek hanya mengisi sebagian kecil (sekitar 20%) dari kanvas, sisanya kosong putih berlebihan jauh melebihi margin 10% yang diminta — objek terlihat terlalu kecil/jauh dari kamera. Correction (EN): \"Keep this correct end-on view and pose, but zoom in so the object fills the frame with only about 10% empty margin on each side — the object is currently far too small with excessive empty white space.\""
   },
   "jungkat-jungkit/p10-ilustrasi-kanan.lama": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI — identik dengan p07-ilustrasi-depan dan p09-ilustrasi-kiri (sisi panjang penuh terlihat), bukan tampak ujung dari sisi berlawanan. Masalah persis sama dengan versi .lama. Correction (EN): \"Regenerate as a true end-on view from the opposite end of p09, only one seat and handle visible close to the camera — not a duplicate of the full side-length view.\""
+    "status": "revisi",
+    "catatan": "Tampak kanan (end-on) seharusnya memperlihatkan ujung papan jungkat-jungkit (kursi, pegangan, dudukan poros) dilihat dari ujung panjangnya, tapi hasil generate terlihat seperti mainan skuter/pijakan kecil yang tidak jelas identitasnya sebagai jungkat-jungkit klasik: ada bentuk silinder/corong hitam di bagian bawah yang tidak jelas fungsinya (bukan tiang poros berbentuk A-frame seperti pada acuan). Perlu verifikasi manusia apakah ini benar menunjukkan dudukan poros tengah jungkat-jungkit. Saran prompt koreksi: \"Show the seesaw strictly end-on from the right side: one seat with handle in front, the central A-frame pivot stand with its single metal post visible directly behind, and the long wooden plank foreshortened going into the distance. Remove any unidentifiable black cylindrical shape at the base; the support must clearly read as a pivot stand post, not a wheel or scooter base.\""
   },
   "kamera-lubang-jarum/p07-ilustrasi-depan.lama": {
     "status": "revisi",
@@ -6929,11 +6925,11 @@
   },
   "baterai-set/p03-penampang-belah.lama": {
     "status": "salah",
-    "catatan": "Set item SALAH TOTAL: prompt meminta penampang 4 item (AA dibelah + 9V, koin, aki mobil utuh), tapi gambar ini menunjukkan 6 silinder berbeda ukuran (berlabel teks 'AAA' dan '9V' yang jelas-jelas melanggar ZERO TEXT) — TIDAK ADA koin maupun aki mobil (12V lead-acid) sama sekali, item paling relevan untuk soal rangkaian listrik. Ini kombinasi kesalahan komposisi set + pelanggaran teks yang serius. Saran prompt koreksi (EN): \"Regenerate showing exactly these four items: (1) one AA cell cut open lengthwise showing internal layers, (2) one intact 9V rectangular battery, (3) one intact coin cell, (4) one intact 12V lead-acid car battery (aki) — no AAA, no duplicate cylinders, and completely blank surfaces with no text anywhere.\""
+    "catatan": "GAGAL LAGI (model pro): 6 benda — ada baterai silinder besar ekstra dan dua baterai kamera hitam, baterai KOIN hilang (harus tepat 4: AA, 9V, koin, aki). Penampang AA juga salah: kiri gelap, kanan terang (tidak simetris); seharusnya dari luar ke dalam di kedua sisi sama: kaleng, katode MnO2 (gelap), separator, gel anode seng (terang), pin kuningan di sumbu. Rekomendasi: gambar VEKTOR via kode (jumlah & lapisan pasti benar)."
   },
   "baterai-set/p04-penampang-transparan.lama": {
     "status": "salah",
-    "catatan": "Perbaikan sebagian: aki mobil (yang hilang total di versi lama) sekarang SUDAH ADA dan terlihat dengan struktur pelat internal — ini perbaikan baik. Namun pelanggaran ZERO TEXT masih terjadi: tulisan 'AKI' besar dan simbol '+/−' masih tercetak jelas pada badan aki. Saran prompt koreksi (EN): \"Keep the car battery (aki) with its internal plate structure visible, but remove the 'AKI' text and the '+/−' symbols completely — no text or letters anywhere in the image.\""
+    "catatan": "Membaik (tepat 4 benda, tanpa simbol, aki 6 sel), TAPI baterai 9V berisi 5 sel — baterai 9V berisi 6 sel 1,5 V (6 × 1,5 V = 9 V). Salah hitung = menyesatkan. Rekomendasi: gambar VEKTOR via kode."
   },
   "bel-listrik/p01-realistis-depan.lama": {
     "status": "revisi",
@@ -6957,15 +6953,15 @@
   },
   "elektromagnet/p01-realistis-depan.lama": {
     "status": "salah",
-    "catatan": "Rakitan pada gambar tidak masuk akal secara fisik dan menyesatkan: kumparan kawat melilit sebuah batang horizontal yang menembus badan baterai silinder (bukan melilit paku sepanjang batangnya), klip kertas tersebar di KEDUA ujung batang horizontal, DITAMBAH klip kertas lain menggantung di batang terpisah di bawah baterai, DITAMBAH klip kertas yang 'duduk' di atas tutup baterai seperti atap. Ini bukan representasi elektromagnet sederhana (satu paku besar dililit kumparan sepanjang batangnya, ujung kabel ke terminal + dan - baterai, klip menempel hanya di SATU ujung paku yang termagnetisasi). Berisiko menyesatkan siswa tentang cara kerja elektromagnet. Saran: \"A single large iron nail laid horizontal, wrapped along most of its shaft with neat coils of red enamelled copper wire; the two wire ends run to the + and - terminals of a D-size battery placed beside the nail (never pierced through it); a cluster of steel paper clips clings to ONLY the exposed magnetized tip of the nail; no clips anywhere else, nothing resting on top of the battery.\""
+    "catatan": "Rangkaian TERBUKA: hanya satu kawat dari kumparan ke baterai (ke kutub −), kutub + tidak tersambung — tapi klip kertas tetap menempel di ujung paku. Menyesatkan: tanpa rangkaian tertutup tidak ada arus, tidak ada kemagnetan. Juga ada simbol '+' tercetak. Prompt koreksi: \"Closed circuit: one enamelled wire end connected to the battery's positive terminal and the other wire end connected to the negative terminal, both clearly visible; a D-size battery with a plain blank body, no symbols or text.\""
   },
   "elektromagnet/p03-penampang-belah.lama": {
-    "status": "revisi",
-    "catatan": "Simbol teks '+' dan '-' tercetak jelas langsung di badan baterai, melanggar aturan ZERO TEXT untuk gambar skematik (callout circles sendiri sudah benar kosong). Konstruksi elektromagnetnya sendiri (paku, kumparan, arah kabel ke baterai, klip di ujung) sudah benar secara fisik. Saran: \"Remove the plus and minus text characters printed on the battery body — show the battery as a plain colored rectangle with no characters, letters, numbers or symbols anywhere; keep the empty leader-line callout circles exactly as before.\""
+    "status": "salah",
+    "catatan": "Baterai diberi DUA simbol '+' (salah: baterai punya satu kutub + dan satu kutub −) sekaligus pelanggaran zero-text; sambungan kawat ke kedua kutub juga tidak jelas tertutup. Callout kosong & paku+kumparan+klip sudah benar. Prompt koreksi: \"Battery with plain body and no symbols; both wire ends clearly connected, one to each battery terminal, forming a closed loop.\""
   },
   "elektromagnet/p04-penampang-transparan.lama": {
     "status": "revisi",
-    "catatan": "Sama seperti versi penampang-belah: simbol teks '+' dan '-' tercetak jelas di badan baterai, melanggar ZERO TEXT. Konstruksi fisiknya (paku, kumparan, kabel, klip di ujung bawah) sudah benar. Saran: \"Remove the plus and minus text characters printed on the battery body — show the battery as a plain colored shape with no characters, letters, numbers or symbols anywhere.\""
+    "catatan": "Rangkaian tertutup (2 kawat ke baterai) & garis medan magnet melingkar ujung-ke-ujung paku sudah benar, klip di ujung paku benar. Sisa masalah: simbol '+' dan '−' tercetak di tutup terminal baterai (polaritas benar, tapi melanggar aturan zero-text yang dipakai reviewer sebelumnya). PERLU KEPUTUSAN USER: apakah simbol +/− yang benar di baterai boleh (bukan huruf/angka)? Kalau boleh → ubah jadi ok. Kalau tidak → prompt: \"No plus/minus symbols; distinguish terminals by cap color only.\""
   },
   "elektroskop/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
@@ -6988,8 +6984,8 @@
     "catatan": "Kawat ground (pembumian) seharusnya SATU kawat dengan selubung garis hijau-kuning (standar warna kabel), tapi di gambar ini terlihat sebagai DUA kawat solid terpisah (satu hijau polos, satu kuning polos) di ujung kanan — total jadi 4 kawat, bukan 3 seperti pada deskripsi objek dan prompt (\"three insulated conductors\"). Prompt koreksi: \"Regenerate so the ground/earth conductor is a SINGLE wire with a green-and-yellow striped insulation sleeve (not two separate solid-colored green and yellow wires) — the cable must show exactly THREE conductors total: brown, blue, and one green-yellow striped wire.\""
   },
   "kabel-penampang/p04-penampang-transparan.lama": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (variasi masalah .lama) — ketiga kawat tidak konsisten terlihat memanjang penuh di dalam selubung transparan: ujung kiri hanya menampilkan kawat coklat + hijau-kuning, ujung kanan hanya menampilkan kawat biru + hijau-kuning (warna berbeda di tiap ujung untuk kabel yang sama!), dan badan tengah transparan tidak menunjukkan ketiga kawat berjalan jelas melintasinya. Correction (EN): \"Show all THREE insulated conductors (brown, blue, green-yellow striped) consistently and simultaneously visible running the FULL length inside the semi-transparent sheath, with the SAME three wires appearing at both cut ends — not different wire pairs at each end.\""
+    "status": "revisi",
+    "catatan": "Gambar menunjukkan dua ujung kabel yang terlihat agak tidak konsisten satu sama lain -- salah satu ujung tampak tidak jelas memperlihatkan kawat hijau-kuning (ground) secara terpisah, dan lapisan filler putih tidak terlihat jelas di kedua ujung. Karena kedua ujung adalah satu kabel yang sama, penampang keduanya harus identik: PVC abu-abu, 3 kawat berinsulasi (coklat/biru/hijau-kuning) dengan serat tembaga oranye-tembaga di dalamnya, dan filler putih. Perlu verifikasi close-up. Saran prompt koreksi: \"Make both stripped ends of the same cable show an IDENTICAL cross-section: grey PVC sheath, three clearly separated insulated conductors in brown, blue, and green-yellow, each with visible copper strand filaments, plus a visible white filler region between them.\""
   },
   "ketapel/p01-realistis-depan.lama": {
     "status": "revisi",
@@ -7021,15 +7017,15 @@
   },
   "tangga-rumah/p02-realistis-depan.lama": {
     "status": "revisi",
-    "catatan": "Ada teks merek \"GORILLA...\" tercetak di pelat atas tangga — katalog minta unbranded. Prompt koreksi: \"The top platform/rail must be completely plain brushed aluminum or black plastic with NO printed brand name, NO logo, NO text of any kind.\""
+    "catatan": "Teks merek 'GORILLA' sudah hilang, tapi (1) sudut 3/4, bukan tampak depan lurus; (2) ada stiker peringatan oranye/putih bertulisan kecil di rel. Prompt koreksi: \"Strict straight-on FRONT view: camera directly in front of the climbing side, both front rails symmetrical, rear legs hidden directly behind; no warning stickers, labels or printed text anywhere.\""
   },
   "tangga-rumah/p07-ilustrasi-depan.lama": {
     "status": "revisi",
-    "catatan": "Bukan tampak depan lurus — ini sudut 3/4 (kedua kaki depan + palang penguat kanan terlihat sekaligus, khas perspektif miring, bukan ortografik lurus). Prompt koreksi: \"Strict straight-on FRONT view: camera directly in front at mid-height, the A-frame symmetrical left-right, no perspective convergence, no three-quarter angle.\""
+    "catatan": "Masih sudut 3/4: rangka belakang terlihat bergeser ke kiri sehingga sisi tangga A tampak. Prompt koreksi: \"Strict straight-on FRONT view: camera directly in front of the steps, both front rails symmetrical, rear legs hidden exactly behind the front rails; orthographic.\""
   },
   "tangga-rumah/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
-    "catatan": "Sama seperti p07 — sudut 3/4, nyaris tidak beda dari tampak depan/kanan, bukan tampak belakang ortografik. Prompt koreksi sama seperti p07 tapi untuk BACK view. Correction: \"Render a strict orthographic BACK view of the staircase, straight-on from behind, not a three-quarter angle nearly identical to the front and right views.\""
+    "catatan": "Masih sudut 3/4: anak tangga depan tampak bergeser di belakang X-brace. Prompt koreksi: \"Strict straight-on BACK view: camera directly behind the rear legs, rear rails and X-brace symmetrical, front steps hidden exactly behind; orthographic.\""
   },
   "tangga-rumah/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
@@ -7045,7 +7041,7 @@
   },
   "panel-surya/p07-ilustrasi-depan.lama": {
     "status": "revisi",
-    "catatan": "Ada 2 kotak tambahan tak diminta di bawah gambar utama. Correction: \"Remove the two extra small boxes shown below the main solar panel — show only the single solar panel object and nothing else in the frame.\""
+    "catatan": "Kotak tambahan sudah hilang (membaik). Masalah baru: junction box + kabel digambar di MUKA DEPAN menutupi sel surya — salah fakta, junction box ada di belakang panel (lihat p08 yang benar). Prompt koreksi: \"FRONT view shows only the solar cell grid, busbars and aluminum frame — NO junction box or cables on the front face (they are on the back).\""
   },
   "panel-surya/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
@@ -7053,23 +7049,23 @@
   },
   "panel-surya/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
-    "catatan": "Muncul DUA junction box (kiri & kanan dari tepi panel), padahal aslinya cuma 1. Prompt koreksi: \"Only ONE junction box on one side of the thin edge profile, not duplicated on both sides.\""
+    "catatan": "Profil samping tipis & bracket di sisi belakang (kiri) sudah benar. Masalah: DUA junction box, dan box tengah digambar menembus panel (muncul di sisi belakang DAN sisi depan/sel surya) dengan kabel keluar di kedua sisi — junction box hanya ada di belakang. Prompt koreksi: \"Strict RIGHT side profile of the thin panel, cell side facing the RIGHT edge: exactly ONE junction box, attached only to the BACK face (left side of the image), with its two cables hanging from it; nothing protrudes from the front (cell) face.\""
   },
   "rangkaian-seri/p01-realistis-atas.lama": {
-    "status": "revisi",
-    "catatan": "Ada teks/logo garbled tercetak di badan baterai (terbalik, tidak terbaca tapi jelas berupa teks/merek palsu), melanggar aturan no-text/no-brand. Jumlah bohlam (3) & topologi seri sudah benar. Prompt koreksi: \"Battery casings must be completely plain/unmarked, no printed text, letters, or logos of any kind.\""
+    "status": "salah",
+    "catatan": "Jumlah benar (3 bohlam, 1 sakelar, baterai polos), TAPI kabel membentuk dua rel menerus (semua terminal atas tersambung, semua terminal bawah tersambung, plus loop di ujung kanan yang menghubungkan kedua rel) — topologi itu paralel/korsleting, bukan seri; sakelar dipasang melintang di antara dua rel. Menyesatkan untuk gambar rangkaian seri. Prompt koreksi: \"Single loop: battery + to switch, switch to bulb 1, bulb 1 to bulb 2, bulb 2 to bulb 3, bulb 3 back to battery −; each wire joins one component's output terminal to the NEXT component's input terminal only. Bulbs glow dimly.\" Rekomendasi: VEKTOR via kode."
   },
   "rangkaian-seri/p02-ilustrasi-atas.lama": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 4, seharusnya PERSIS 3. Juga ada 2 sakelar (duplikat), seharusnya cuma 1. Prompt koreksi: \"Exactly 3 bulbs in one single series loop, and exactly ONE toggle switch (not two).\""
+    "status": "salah",
+    "catatan": "Jumlah sudah benar (3 bohlam, 1 sakelar), TAPI rangkaian TERBUKA: tempat baterai tidak tersambung kabel sama sekali, kabel dari sakelar berakhir buntu di tengah papan, kabel bohlam 3 kembali ke dirinya sendiri — bohlam tetap menyala (menyesatkan). Prompt koreksi sama seperti p01. Rekomendasi: VEKTOR via kode."
   },
   "sakelar-stopkontak-set/p01-realistis-depan.lama": {
     "status": "revisi",
-    "catatan": "Bentuk stopkontak gaya Amerika (3 lubang kotak + ground), padahal katalog eksplisit minta Tipe C/F gaya Indonesia (2 lubang bulat). Prompt koreksi: \"The wall socket must be Indonesian/European Type C/F style: two small round pin holes only, no rectangular slots, no ground hole.\" MCB ada tulisan/rating tercetak (CE mark dkk) — idealnya polos tanpa teks juga."
+    "catatan": "Membaik: 5 benda benar, stopkontak sudah 2 lubang bulat (Tipe C), steker 2 pin bulat benar. Sisa: MCB bertuliskan simbol/teks kecil (di strip biru & sekitar tuas, terlihat jelas saat di-zoom). Prompt koreksi: \"MCB with a plain blank front: no printed numbers, symbols or text anywhere; only the toggle lever and two terminal screws.\""
   },
   "sakelar-stopkontak-set/p02-ilustrasi-depan.lama": {
     "status": "revisi",
-    "catatan": "Bentuk stopkontak gaya Amerika (3 lubang kotak + ground), padahal katalog eksplisit minta Tipe C/F gaya Indonesia (2 lubang bulat). Prompt koreksi: \"The wall socket must be Indonesian/European Type C/F style: two small round pin holes only, no rectangular slots, no ground hole.\""
+    "catatan": "Stopkontak MASIH gaya Amerika: dua lubang berbentuk D + lubang ground bulat di bawah. Stopkontak Indonesia (Tipe C/F) hanya punya DUA lubang bulat berdampingan dalam ceruk bulat, dengan klip ground logam di atas & bawah ceruk (Tipe F). Benda lain (sakelar, steker 2 pin bulat, sekring, MCB tanpa teks) sudah benar. Prompt koreksi: \"Wall socket Type F (Schuko): a round recessed well with exactly TWO round pin holes side by side and two small metal earthing clips at the top and bottom inside the well; no third hole, no flat or D-shaped slots.\""
   },
   "alat-gelas-lab-set/p01-realistis-depan.lama": {
     "status": "revisi",
@@ -7125,23 +7121,23 @@
   },
   "stopwatch/p02-realistis-depan.lama": {
     "status": "revisi",
-    "catatan": "Angka dial (5,10,15...60) terbaca jelas, padahal katalog minta \"numbers blurred\". Prompt koreksi: \"All dial numbers must be blurred/illegible, only fine tick marks and hands clearly visible.\" Juga ada teks garbled kecil di bawah dial (seperti merek)."
+    "catatan": "(1) Mahkota + cincin ada di ATAS DAN BAWAH — stopwatch hanya punya satu mahkota dengan cincin di arah jam 12; (2) ada blok mosaik/pixelasi di dial (bekas teks diburamkan); (3) angka subdial ngawur (60, 5, 0, 40, 10, 30) dan '60' utama rusak; angka 5–55 terbaca jelas (prompt: angka diburamkan — menunggu keputusan user soal angka dial). Prompt koreksi: \"Single crown with lanyard ring at the TOP only (12 o'clock), nothing at the bottom; one side pusher at 10 o'clock. Dial with fine tick marks only and NO numerals, no blurred patches; one small minutes subdial with ticks only.\" Karena p02 jadi acuan sesi, p03–p05 ikut diulang."
   },
   "stopwatch/p03-realistis-belakang.lama": {
     "status": "revisi",
-    "catatan": "Angka dial (5,10,15...60) terbaca jelas, padahal katalog minta \"numbers blurred\". Prompt koreksi: \"All dial numbers must be blurred/illegible, only fine tick marks and hands clearly visible.\""
+    "catatan": "Ikut salah dari p02: mahkota + cincin di atas DAN bawah. Tombol samping di posisi jam 4 — tidak konsisten (dari belakang, tombol jam 10 di depan harus tampak di jam 2). Prompt koreksi: \"Single crown and ring at the top only; side pusher at the 2 o'clock position (mirror of the front's 10 o'clock); plain polished case back.\""
   },
   "stopwatch/p04-realistis-kiri.lama": {
     "status": "revisi",
-    "catatan": "Angka dial (5,10,15...60) terbaca jelas, padahal katalog minta \"numbers blurred\". Prompt koreksi: \"All dial numbers must be blurred/illegible, only fine tick marks and hands clearly visible.\""
+    "catatan": "Ikut salah dari p02: cincin + mahkota di atas DAN bawah, dan dua tombol di tepi (atas & bawah). Harus diulang setelah p02 benar: satu mahkota + cincin di atas saja; dari sisi kiri (dial menghadap kiri gambar) tombol jam 10 ada di sisi jauh sehingga tidak terlihat."
   },
   "stopwatch/p05-realistis-kanan.lama": {
     "status": "revisi",
-    "catatan": "Angka dial (5,10,15...60) terbaca jelas, padahal katalog minta \"numbers blurred\". Prompt koreksi: \"All dial numbers must be blurred/illegible, only fine tick marks and hands clearly visible.\""
+    "catatan": "Ikut salah dari p02: cincin di atas DAN bawah. Tambahan: jarum digambar melayang di LUAR casing (di kiri kaca) — mustahil secara fisik. Prompt koreksi: \"Edge-on profile, dial facing the RIGHT edge; single crown and ring at the top only; hands hidden under the crystal, nothing outside the case; the 10 o'clock pusher visible on this side.\""
   },
   "stopwatch/p07-ilustrasi-depan.lama": {
     "status": "revisi",
-    "catatan": "Angka dial (5,10,15...60) terbaca jelas, padahal katalog minta \"numbers blurred\". Prompt koreksi: \"All dial numbers must be blurred/illegible, only fine tick marks and hands clearly visible.\" Juga angka \"55\" muncul dobel/tumpang tindih di dial."
+    "catatan": "Angka '55' dobel sudah hilang; angka utama 5–55 benar urutannya (tapi prompt minta angka diburamkan — menunggu keputusan user). Sisa: DUA subdial (prompt: satu subdial menit) dengan angka buram berurutan salah (60/45/10 — kanan seharusnya 15; 60/20 — bawah seharusnya 30); dua jarum di poros tengah (tebal ke 60, tipis ke ~8 detik) seperti jam dinding — stopwatch klasik cukup satu jarum detik. Prompt koreksi: \"Exactly one central seconds hand; exactly ONE small minutes subdial below 12 with tick marks only; fine tick marks only, NO numerals or blurred digits anywhere. Keep the single top crown (no ring) and the side pusher at 10 o'clock, matching the approved back and side views.\""
   },
   "stopwatch/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
@@ -7299,10 +7295,6 @@
     "status": "ok",
     "catatan": "Lolos: konsisten."
   },
-  "mikroskop/p12-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos: jalur cahaya jelas, tanpa teks."
-  },
   "globe/p02-realistis-depan": {
     "status": "ok",
     "catatan": "Tampak depan globe menunjukkan Asia, Timur Tengah, India, Asia Tenggara, Australia sesuai spesifikasi (FRONT = Asia/Indonesia), lingkar meridian kuningan dan dudukan kayu gelap terlihat, sumbu miring wajar, background putih bersih, tanpa teks terbaca."
@@ -7439,89 +7431,41 @@
     "status": "revisi",
     "catatan": "Badan suntikan ada angka/skala semu terbaca. Prompt koreksi: \"Syringe barrel plain unmarked graduation lines only, no numbers.\""
   },
-  "tangga-rumah/p02-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Ada teks merek \"GORILLA...\" di pelat atas. Prompt koreksi: \"No printed brand name on top platform.\""
-  },
-  "tangga-rumah/p07-ilustrasi-depan": {
-    "status": "revisi",
-    "catatan": "Sudut 3/4, bukan tampak depan lurus ortografik."
-  },
-  "tangga-rumah/p08-ilustrasi-belakang": {
-    "status": "revisi",
-    "catatan": "Sudut 3/4, nyaris sama dgn depan/kanan."
-  },
   "tangga-rumah/p09-ilustrasi-kiri": {
-    "status": "revisi",
-    "catatan": "Bukan profil kiri 90 derajat murni, masih tampak depan."
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil): profil samping 90° murni berbentuk A — tutup atas, palang pengunci (spreader) berengsel, kaki karet; tanpa teks, latar putih, utuh."
   },
   "tangga-rumah/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "Sudut 3/4, nyaris identik p07/p08."
-  },
-  "panel-surya/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "Muncul DUA junction box, seharusnya cuma 1."
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil): profil samping 90° murni, cermin p09 (profil samping tangga A memang hampir simetris, jadi mirip p09 itu benar); tanpa teks, utuh."
   },
   "rangkaian-paralel/p01-realistis-atas": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 4, seharusnya PERSIS 3."
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: rangkaian digambar kode supaya topologi pasti benar. Isi: papan kayu tampak atas; tempat 2 baterai AA (tab merah = +, tab hitam = −, tanpa simbol); sakelar ON di kabel utama; dua rel (merah atas, hitam bawah) dan TIGA cabang, tiap bohlam di cabangnya sendiri di antara kedua rel (susunan tangga); bohlam menyala TERANG. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "rangkaian-paralel/p02-ilustrasi-atas": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 5, seharusnya PERSIS 3."
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: rangkaian digambar kode supaya topologi pasti benar. Isi: papan kayu tampak atas; tempat 2 baterai AA (tab merah = +, tab hitam = −, tanpa simbol); sakelar ON di kabel utama; dua rel (merah atas, hitam bawah) dan TIGA cabang, tiap bohlam di cabangnya sendiri di antara kedua rel (susunan tangga); bohlam menyala TERANG. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "rangkaian-seri/p01-realistis-atas": {
-    "status": "revisi",
-    "catatan": "Teks/logo garbled di badan baterai."
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: rangkaian digambar kode supaya topologi pasti benar. Isi: papan kayu tampak atas; tempat 2 baterai AA (sel tersambung seri, tab merah = kutub +, tab hitam = kutub −, tanpa simbol tercetak); sakelar ON; 3 bohlam di fiting porselen tersambung SATU LOOP: + → sakelar → bohlam 1 → bohlam 2 → bohlam 3 → kembali ke −; bohlam menyala REDUP (beda dengan rangkaian paralel yang terang). Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "rangkaian-seri/p02-ilustrasi-atas": {
-    "status": "revisi",
-    "catatan": "Jumlah bohlam 4 (seharusnya 3), 2 sakelar duplikat (seharusnya 1)."
-  },
-  "sakelar-stopkontak-set/p01-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Stopkontak gaya Amerika, seharusnya Tipe C/F Indonesia."
-  },
-  "sakelar-stopkontak-set/p02-ilustrasi-depan": {
-    "status": "revisi",
-    "catatan": "Stopkontak gaya Amerika, seharusnya Tipe C/F."
-  },
-  "sepeda/p04-realistis-kiri": {
-    "status": "revisi",
-    "catatan": "Ada tanda samar di top tube yang mungkin teks/merek."
-  },
-  "stopwatch/p02-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca. Ada teks garbled kecil di bawah dial."
-  },
-  "stopwatch/p03-realistis-belakang": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
-  },
-  "stopwatch/p04-realistis-kiri": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
-  },
-  "stopwatch/p05-realistis-kanan": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
-  },
-  "stopwatch/p07-ilustrasi-depan": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca. Angka \"55\" dobel."
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: rangkaian digambar kode supaya topologi pasti benar. Isi: papan kayu tampak atas; tempat 2 baterai AA (sel tersambung seri, tab merah = kutub +, tab hitam = kutub −, tanpa simbol tercetak); sakelar ON; 3 bohlam di fiting porselen tersambung SATU LOOP: + → sakelar → bohlam 1 → bohlam 2 → bohlam 3 → kembali ke −; bohlam menyala REDUP (beda dengan rangkaian paralel yang terang). Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "stopwatch/p08-ilustrasi-belakang": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
+    "status": "ok",
+    "catatan": "Lolos: tutup belakang polos mengkilap, satu mahkota di atas, tombol samping di jam 1–2 (cermin yang benar dari tombol jam 10 di depan), tanpa teks/angka, utuh."
   },
   "stopwatch/p09-ilustrasi-kiri": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
+    "status": "ok",
+    "catatan": "Lolos. File DITUKAR dengan p10 oleh reviewer (bukan edit piksel): gambar yang dulu di slot kanan memperlihatkan tepi tanpa tombol samping — itu yang benar untuk tampak KIRI (dial menghadap kiri gambar → sisi jam 3 menghadap kamera, tombol jam 10 di sisi jauh). Profil tepi murni, satu mahkota di atas, tanpa teks."
   },
   "stopwatch/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "Angka skala terbaca jelas, padahal harus blur/tak terbaca."
+    "status": "ok",
+    "catatan": "Lolos. File DITUKAR dengan p09 oleh reviewer: tampak KANAN (dial menghadap kanan gambar) memperlihatkan sisi jam 9, jadi tombol jam 10 terlihat dari ujung — sesuai gambar ini. Profil tepi murni, satu mahkota di atas, tanpa teks."
   },
   "dry-ice/p01-realistis-depan": {
     "status": "ok",
@@ -7811,7 +7755,7 @@
     "status": "ok",
     "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: neraca seimbang: kiri kantong tertutup + 2 kubus, kanan 5 kubus, kedua piring sejajar. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
-  "neptunus/p02-realistis-depan": {
+  "neptunus/p02-realistis-depan.lama": {
     "status": "salah",
     "catatan": "Bentuk planet terlihat seperti telur/buah pir (melebar di atas, menyempit meruncing di bawah), BUKAN bola sempurna seperti yang diminta prompt ('the planet Neptune as a full sphere'). Ini bukan sekadar pemipihan kutub wajar (oblateness Neptunus sangat kecil, ~1.7%) melainkan distorsi geometri yang signifikan dan menyesatkan secara sains (planet harus bulat). Badai gelap oval (Great Dark Spot) dan garis sirus metana putih sudah sesuai warna. Prompt koreksi: \"Regenerate Neptune as a PERFECT SPHERE (perfectly circular silhouette from this orthographic front view, only very slight polar flattening ~1.7%) -- remove the egg/pear-shaped distortion where the bottom is narrower than the top.\""
   },
@@ -7886,10 +7830,6 @@
   "termos-penampang/p01-realistis-depan": {
     "status": "ok",
     "catatan": "Lolos: termos utuh + penampang belah menunjukkan tabung kaca dalam, tanpa teks."
-  },
-  "termos-penampang/p04-penampang-transparan": {
-    "status": "ok",
-    "catatan": "Lolos: ada celah kecil terlihat antara dinding luar biru & lapisan perak dalam, merepresentasikan ruang hampa dengan cukup jelas."
   },
   "teropong-bintang/p02-realistis-depan": {
     "status": "ok",
@@ -8904,24 +8844,24 @@
     "catatan": "Sama seperti catatan kiri dan belakang -- hampir identik dengan kedua panel lainnya, bukan rotasi berbeda dari bola yang sama. Prompt koreksi: \"Regenerate as a genuine 90-degree rotation from FRONT (mirror of LEFT), visually distinct from the other panels.\""
   },
   "periskop/p07-ilustrasi-depan.lama": {
-    "status": "revisi",
-    "catatan": "Sudut 3/4 (ada kedalaman/perspektif terlihat), bukan tampak lurus ortografik. Prompt koreksi: \"Strict straight-on view, no three-quarter angle, box square to the camera.\""
+    "status": "salah",
+    "catatan": "Bentuk Z sudah benar (bukaan atas-kiri, bawah-kanan), TAPI cermin digambar datar menghadap kamera (bukan miring 45°) dan garis cahaya lurus vertikal menembus cermin bawah tanpa dipantulkan — menyesatkan untuk konsep pemantulan. Prompt koreksi: \"Both mirrors tilted exactly 45 degrees inside the tube; if a light path is shown it enters the top opening horizontally, reflects down at the top mirror, reflects out horizontally at the bottom mirror.\""
   },
   "periskop/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
-    "catatan": "Sudut 3/4 (ada kedalaman/perspektif terlihat), bukan tampak lurus ortografik. Prompt koreksi: \"Strict straight-on view, no three-quarter angle, box square to the camera.\""
+    "catatan": "Ada TIGA tonjolan (atas-kiri tertutup, atas-kanan terbuka, bawah-kiri terbuka) — periskop hanya punya DUA bukaan di sisi berlawanan. Prompt koreksi: \"Exactly two openings: one near the top facing one way, one near the bottom facing the opposite way (mirror of the front view); no extra boxes.\""
   },
   "periskop/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
-    "catatan": "Sudut 3/4 (ada kedalaman/perspektif terlihat), bukan tampak lurus ortografik. Prompt koreksi: \"Strict straight-on view, no three-quarter angle, box square to the camera.\""
+    "catatan": "Kedua bukaan menghadap kamera di muka yang SAMA — itu bukan periskop (bukaan atas & bawah harus berlawanan arah). Dari samping, kerah bukaan harus terlihat menonjol: atas ke satu sisi, bawah ke sisi lain. Prompt koreksi: \"Side profile: top opening collar protrudes toward one side, bottom opening collar protrudes toward the opposite side (Z-shape silhouette).\""
   },
   "periskop/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
-    "catatan": "Sudut 3/4 (ada kedalaman/perspektif terlihat), bukan tampak lurus ortografik. Prompt koreksi: \"Strict straight-on view, no three-quarter angle, box square to the camera.\""
+    "catatan": "Tiga tonjolan lagi, dan dua bukaan terbuka sama-sama di KIRI (arah sama) — salah untuk periskop. Prompt koreksi sama seperti p08/p09: tepat dua bukaan, arah berlawanan."
   },
   "periskop/p11-penampang-belah.lama": {
-    "status": "revisi",
-    "catatan": "Ada huruf \"a\" tercetak di pojok kiri bawah (pelanggaran kecil aturan zero-text), meskipun jalur cahaya & pantulan 2 cermin 45 derajat sudah digambar BENAR. Prompt koreksi: \"Remove the stray letter 'a' — zero text anywhere.\""
+    "status": "salah",
+    "catatan": "LEBIH BURUK dari versi lama (.lama hanya punya huruf 'a' nyasar): sekarang bentuk L (bukan Z), ujung atas DITUTUP tutup hitam (tidak ada bukaan atas), cermin kotak datar (bukan 45°), jalur cahaya hanya berbelok sekali. Prompt koreksi: \"Z-shaped tube with an open window at the top facing left and an open eyepiece at the bottom facing right; two flat mirrors each tilted exactly 45 degrees; dashed light ray enters top window horizontally, reflects down, reflects out horizontally to the eyepiece; ZERO text, empty callout circles.\" Rekomendasi: gambar VEKTOR (SVG via kode, seperti vektor-mtk.mjs) karena sudut 45° & jalur sinar harus presisi."
   },
   "batang-korek-pola/p01-realistis-atas.lama": {
     "status": "revisi",
@@ -9004,8 +8944,8 @@
     "catatan": "Ada huruf teks 'O', 'A', 'B', 'C' tercetak langsung di dalam gambar, padahal prompt eksplisit melarang teks apa pun ('ZERO TEXT'). Warna horizon sudah sesuai katalog dan tidak ada leader line/lingkaran (sesuai instruksi prompt 12 yang memang tidak meminta callout). Prompt koreksi: \"Remove the printed letters O/A/B/C from inside the image entirely -- zero text anywhere, rely only on the distinct colors and dashed boundary lines to separate the horizons.\""
   },
   "termos-penampang/p03-penampang-belah.lama": {
-    "status": "revisi",
-    "catatan": "Tidak ada celah ruang hampa (vacuum gap) yang jelas antara dinding luar & dalam — padahal itu konsep inti termos (ruang hampa mencegah konduksi/konveksi panas). Isi cuma langsung mengisi dari dinding luar. Prompt koreksi: \"Show a clear visible gap/empty space between the outer wall and inner glass liner, representing the vacuum layer that prevents heat transfer.\""
+    "status": "salah",
+    "catatan": "Konsep inti salah terbaca (temuan osn-app-80, dicek ulang): tidak ada celah hampa di antara dinding dalam (perak) & dinding luar — celah terisi biru casing; yang diberi warna lavender + garis putus-putus justru bagian ATAS di dalam ruang isi, sehingga 'ruang hampa' terbaca sebagai lapisan di dalam botol. Spesifikasi penampang.mjs sudah dipertegas (pita hampa berbentuk U di sisi & dasar, di antara dua dinding). Prompt koreksi: \"The vacuum gap is a thin continuous U-shaped empty band (pale lavender, dashed outline) running down both sides and under the bottom BETWEEN the inner silvered wall and the outer wall; inside the inner vessel there is only air space and the orange liquid; empty callout circles, zero text.\""
   },
   "pupuk-kompos-set/p01-realistis-depan.lama": {
     "status": "revisi",
@@ -9093,19 +9033,19 @@
   },
   "bidang-miring-papan/p04-realistis-kiri.lama": {
     "status": "revisi",
-    "catatan": "Komposisi gambar ini HAMPIR IDENTIK dengan p02 (tampak depan) — sudut, posisi kereta, dan framing sama persis. Prompt mendefinisikan 'LEFT = low end' (artinya kamera seharusnya diposisikan di ujung RENDAH landai, melihat sepanjang papan ke arah ujung tinggi — tampilan 'dari ujung', bukan profil samping yang sama seperti tampak depan). Rotasi tidak diterapkan dengan benar, mirip pola kegagalan yang pernah ditemukan pada otot-lengan. Saran prompt koreksi (EN): \"Render this from the LOW END of the ramp, looking lengthwise up the slope toward the high end — a view clearly distinct from the front side-profile, not a near-duplicate of it.\""
+    "catatan": "Sudut 3/4 (terlihat sisi + atas papan), bukan tampak KIRI sesuai definisi katalog (LEFT = dilihat lurus dari ujung RENDAH landai). Prompt koreksi: \"Strict end-on view from the LOW end of the ramp: camera at ground level looking straight up the slope, the board seen as a receding rectangle with the cart on it and the triangular support behind; orthographic, no side or three-quarter angle.\""
   },
   "bidang-miring-papan/p05-realistis-kanan.lama": {
     "status": "revisi",
-    "catatan": "Sama seperti p04: komposisi hampir identik dengan tampak depan (p02), bukan cerminan 'RIGHT = high end' seperti yang didefinisikan prompt (seharusnya kamera di ujung tinggi landai, melihat ke bawah lereng). Saran prompt koreksi (EN): \"Render this from the HIGH END of the ramp, looking down the slope toward the low end — a view clearly distinct from the front side-profile and from p04, not a near-duplicate.\""
+    "catatan": "Yang tergambar profil samping (definisi FRONT), bukan tampak KANAN (= dilihat lurus dari ujung TINGGI landai). Gambarnya sendiri bagus & akurat. Prompt koreksi: \"Strict end-on view from the HIGH end of the ramp: camera behind the tall support looking down the slope; orthographic, not a side profile.\""
   },
   "bidang-miring-papan/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
-    "catatan": "Sudut kamera tampak belakang terlihat seperti dilihat dari atas-belakang (hampir 3/4 melihat ke bawah panjang papan), bukan silhouette profil-samping lurus yang konsisten dengan definisi 'BACK = opposite side' (seharusnya mirror dari tampak depan). Objek sendiri (papan, gerobak, rangka kayu) digambar benar, hanya sudut pandang yang menyimpang. Saran: \"Show the strict BACK view as a pure side-profile silhouette of the triangular ramp (mirror of the front view), straight-on orthographic camera at mid-height, NOT a three-quarter or elevated angle looking down the ramp's length.\""
+    "catatan": "Tidak terbaca sebagai bidang miring sama sekali (seperti kotak/rangka), troli hilang. BACK seharusnya profil samping sisi seberang (segitiga landai terlihat jelas, cermin dari tampak depan). Prompt koreksi: \"BACK = the opposite side profile: the same right-triangle ramp mirrored horizontally, slope rising the other way, small wooden cart halfway up.\""
   },
   "katrol-tetap/p10-ilustrasi-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Mekanisme tali kurang logis: pada p07 (depan, sudah ok) tali jelas memiliki DUA ujung berbeda — satu turun ke ember, satu lagi menggantung bebas di sisi lain (ujung yang ditarik tangan) — ini yang membuat katrol tetap berfungsi secara fisik. Pada p10, kedua sisi tali di atas roda justru menyatu ke satu simpul yang langsung terhubung ke ember, tanpa ujung bebas terpisah yang bisa ditarik — secara mekanis tidak masuk akal sebagai katrol yang sedang dipakai. Selain itu komposisi p10 nyaris identik dengan p09 (kiri) — roda katrol masih tampak dari depan (permukaan lingkaran dengan jari-jari terlihat penuh), bukan profil 90 derajat dari sisi kanan seperti diminta prompt. Background bersih, tanpa teks. Saran prompt koreksi (EN): \"Show the pulley wheel edge-on in a true right-side silhouette (not the circular face-on view), with the rope clearly split into two distinct strands — one going down to the bucket, one hanging free as the pulling end — matching the mechanism shown in the front view.\""
+    "status": "salah",
+    "catatan": "GAGAL (model pro): TIGA salinan katrol+ember dalam satu gambar (lembar multi-tampak)."
   },
   "katrol-tetap/p06-ilustrasi-turnaround.lama": {
     "status": "salah",
@@ -9142,18 +9082,6 @@
   "kentang-bertunas/p12-penampang-transparan": {
     "status": "revisi",
     "catatan": "GAGAL SEBAGIAN (ke-2 kalinya, perbaikan parsial) — perbaikan: cortex (krem) dan daging penyimpan pati (kuning pucat berbintik putih, dipisahkan garis putus-putus) sekarang sudah dibedakan jadi dua region warna berbeda (sebelumnya satu warna seragam) — ini sudah benar. Tapi kulit luar masih digambar sebagai cincin/garis tepi COKLAT SOLID/OPAQUE di sekeliling umbi, bukan cangkang semi-transparan (~25% opacity) yang tembus pandang seperti diminta prompt — gaya visualnya masih mirip versi \"dibelah\" (p11), bukan \"see-through\". Correction (EN): \"Make the outer potato skin genuinely semi-transparent (about 25% opacity tinted shell), not a solid opaque brown ring/border, so the internal cortex and starch-flesh layers appear to show THROUGH the skin rather than being revealed by a cut.\""
-  },
-  "kepiting/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) + masalah baru — file ini memiliki BAR HITAM SOLID di atas dan bawah gambar (letterbox), melanggar instruksi background putih solid bersih tanpa elemen lain. Selain itu sudut kamera masih terlihat 3/4 (karapas atas dan kedua capit terlihat dari depan-samping), bukan profil murni 90° seperti diminta, dan posenya nyaris sama dengan p05 (kanan) — tidak terdiferensiasi sebagai cerminan kiri vs kanan. Correction (EN): \"Regenerate on a clean solid white background with NO black bars/letterboxing, as a STRICT 90° side profile (pure side silhouette, not three-quarter), clearly mirrored from the right-side view.\""
-  },
-  "kepiting/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) + masalah baru — sama seperti p04: ada BAR HITAM SOLID di atas/bawah gambar (background tidak bersih putih solid), sudut kamera masih 3/4 bukan profil murni, dan pose nyaris identik dengan p04 (kiri) sehingga kiri/kanan tidak terdiferensiasi sebagai cerminan. Correction (EN): \"Regenerate on a clean solid white background with NO black bars, as a STRICT 90° RIGHT side profile, true mirror image of the left view.\""
-  },
-  "kepiting/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) — dibandingkan p07-ilustrasi-depan, gambar ini masih nyaris identik: kedua capit besar tetap terbuka penuh dan terlihat jelas menghadap kamera dari atas, bukan tersembunyi di depan tubuh seperti seharusnya pada tampak belakang. Ada elemen flap/lipatan segitiga di bagian bawah tengah (kemungkinan dimaksudkan sebagai telson/abdomen terlipat), tapi karena kedua capit tetap dominan terlihat, tampilan keseluruhan tetap terbaca sebagai tampak depan, bukan belakang. Correction (EN): \"Rotate the crab 180 degrees to a true BACK/REAR view: the two large claws must be hidden in front of the body and NOT visible at all, with only the folded abdominal flap (telson) visible at the rear of the carapace — currently both claws are still fully open and visible, which still reads as a front view.\""
   },
   "kerbau-jalak/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -9216,12 +9144,12 @@
     "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "ambulans-doppler/p02-ilustrasi-depan.lama": {
-    "status": "salah",
-    "catatan": "SALAH — logo Mercedes-Benz di gril, plus gelombang simetris."
+    "status": "revisi",
+    "catatan": "Tujuan gambar ini adalah menunjukkan efek Doppler: garis gelombang bunyi harus terlihat jelas LEBIH RAPAT di depan (kiri, arah gerak) dan LEBIH RENGGANG di belakang (kanan). Pada hasil generate, jarak antar-garis lengkung di kiri dan kanan terlihat relatif mirip/simetris, tidak menunjukkan kompresi-vs-regangan yang jelas -- ini inti konsep fisika yang diuji sehingga harus jelas. Perlu verifikasi dengan pengukuran jarak garis. Saran prompt koreksi: \"Make the sound-wave arcs on the LEFT (front, direction of travel) clearly and tightly compressed close together, while the arcs on the RIGHT (behind) are clearly spread much farther apart -- the asymmetry must be obvious at a glance, not a generic symmetric motion-line fan.\""
   },
   "kromatografi/p02-ilustrasi-depan.lama": {
     "status": "salah",
-    "catatan": "SALAH — titik tinta terendam di garis pelarut."
+    "catatan": "Pelanggaran aturan khusus kromatografi: titik tinta (dan pita warna hasil pemisahannya) harus berada DI ATAS garis permukaan air/pelarut, bukan tercelup di bawahnya. Pada hasil generate, titik hitam (penanda titik asal) berada tepat di garis permukaan air, dan DUA dari EMPAT pita warna (ungu dan biru) terlihat berada DI BAWAH garis air (tercelup air), sementara hanya pink dan kuning yang di atas garis air. Ini salah secara ilmiah -- jika titik tinta tercelup langsung ke air, tinta akan larut/luntur ke air alih-alih naik terpisah lewat kapilaritas kertas. Perlu regenerasi. Saran prompt koreksi: \"Move the ink spot and ALL four separated color bands (pink, yellow, purple, blue) entirely ABOVE the water line. Only plain clear water (no color) should be below the water line; the paper strip dips into clear water, with the spot positioned clearly above the water surface before it was run.\""
   },
   "larutan-koloid-suspensi/p02-ilustrasi-depan.lama": {
     "status": "salah",
@@ -9229,15 +9157,15 @@
   },
   "larutan-koloid-suspensi/p03-penampang-belah.lama": {
     "status": "salah",
-    "catatan": "SALAH — teks label tercetak (ukuran partikel di zoom sudah akurat)."
+    "catatan": "Pelanggaran eksplisit instruksi \"ZERO TEXT\": gambar memuat label teks terbaca \"Solution\", \"Colloid\", \"Supension\" (salah eja, seharusnya \"Suspension\") di atas tiap gelas, padahal prompt mewajibkan nol teks dan hanya lingkaran callout KOSONG untuk label yang akan ditambahkan nanti di aplikasi. Harus diregenerasi tanpa teks apa pun. Saran prompt koreksi: \"Remove ALL text labels completely. Each zoom-window circle and its leader line must end in a small EMPTY circle (no words, no letters) -- absolutely zero text anywhere in the image.\""
   },
   "larutan-koloid-suspensi/p04-penampang-transparan.lama": {
     "status": "salah",
-    "catatan": "SALAH — teks label tercetak."
+    "catatan": "Sama seperti versi p03: melanggar instruksi eksplisit \"ZERO TEXT\". Gambar memuat label teks terbaca \"SOLUTION\", \"COLLOID\", \"SUSPENSION\" di bawah tiap gelas, padahal prompt secara eksplisit melarang teks/huruf apa pun karena label akan ditambahkan kemudian di aplikasi. Saran prompt koreksi: \"Remove ALL text labels completely -- no words, no letters, no captions anywhere in the image, per the zero-text requirement.\""
   },
   "mikroskop/p11-penampang-belah.lama": {
     "status": "salah",
-    "catatan": "SALAH — teks label tercetak & typo (\"eyeyive lens\", \"diaprham\")."
+    "catatan": "Pelanggaran eksplisit instruksi \"ZERO TEXT\" dan aturan callout kosong: gambar memuat banyak label teks terbaca dengan salah eja -- \"Eyepeye lens\" (seharusnya \"Eyepiece lens\"), \"Iris diaphyram\" (seharusnya \"diaphragm\") -- plus \"Body tube\", \"Objective lenses\", \"Condenser lens\", \"Light source\". Prompt mewajibkan NOL teks dan HANYA lingkaran callout kosong untuk label yang ditambahkan nanti di aplikasi; gambar ini malah campur aduk antara label teks penuh (kiri) dan lingkaran kosong (kanan). Harus diregenerasi total. Saran prompt koreksi: \"Remove ALL text labels completely, including any typos. Every leader line must end in a small EMPTY circle only (thin dark outline, white inside) -- zero words, zero letters, zero captions anywhere in the image.\""
   },
   "molekul-set/p01-realistis-depan.lama": {
     "status": "salah",
@@ -9245,31 +9173,31 @@
   },
   "molekul-set/p02-ilustrasi-depan.lama": {
     "status": "salah",
-    "catatan": "SALAH — cuma 2 molekul, O2 hilang total."
+    "catatan": "O2 sekarang sudah ada (bug .lama 'O2 hilang' sudah diperbaiki) dan proporsi atom benar, TAPI muncul pelanggaran baru: ada teks tercetak jelas di dalam gambar -- huruf 'O' di dalam atom oksigen H2O, label 'H2O', 'Carbon', 'CO2', dan 'O2' -- padahal prompt eksplisit menyatakan 'No letters' dan 'Exclude: text, labels, letters, numbers'. Prompt koreksi: \"Remove ALL text, letters, and labels from the image -- no 'H2O', no 'CO2', no 'O2', no 'O' or 'Carbon' text anywhere. The three molecules must be identifiable purely from ball-and-stick shape and standard atom colors, with zero text.\""
   },
   "periskop/p12-penampang-transparan.lama": {
     "status": "salah",
-    "catatan": "SALAH — tabung digambar LURUS tanpa bentuk Z/tikungan periskop, dan jalur cahaya (garis putus kuning) juga digambar LURUS menembus kedua cermin tanpa berbelok — padahal inti periskop adalah cahaya dipantulkan 2x oleh cermin 45 derajat sehingga arah pandang bergeser. Prompt koreksi: \"The tube must have the characteristic offset/Z-shape with two 45-degree mirrors, and the light path line must visibly bend/reflect at each mirror, not pass straight through.\""
+    "catatan": "GAGAL LAGI: bentuk tabung tangga/aneh, bukaan atas menghadap ke atas (bukan samping), cermin tidak 45° terhadap jalur sinar, sudut isometrik. Tidak terbaca sebagai periskop. Rekomendasi sama: gambar VEKTOR (sudut presisi) atau gemini-3-pro-image dengan prompt Z-tube + 2 cermin 45°."
   },
   "slinki/p02-ilustrasi-depan.lama": {
-    "status": "salah",
-    "catatan": "SALAH — ada teks \"rapatan\" dan \"renggangan\" (dobel) tercetak langsung, melanggar aturan zero-text. Prompt koreksi: \"No text labels anywhere — the compression/rarefaction pattern must be visible from the coil spacing alone, alternating properly (rapatan-renggangan-rapatan-renggangan).\""
+    "status": "revisi",
+    "catatan": "Teks 'rapatan/renggangan' sudah hilang (membaik). Tapi slinki digambar MELENGKUNG (pose 'jalan', kedua ujung di lantai), bukan DIREGANGKAN HORIZONTAL sesuai katalog — bentuk lengkung bisa disangka gelombang transversal. Prompt koreksi: \"Slinky stretched straight and horizontal along one line, alternating zones of tightly bunched coils and widely spread coils; no arching.\""
   },
   "termos-penampang/p02-ilustrasi-depan.lama": {
     "status": "salah",
     "catatan": "SALAH — ada teks merek \"THERMOS®\" tercetak besar jelas, pelanggaran merek dagang nyata. Prompt koreksi: \"No brand name, no logo, no text of any kind on the flask body — plain unbranded red surface.\""
   },
   "bidang-miring-papan/p09-ilustrasi-kiri.lama": {
-    "status": "salah",
-    "catatan": "File kiri (p09) dan kanan (p10) identik piksel demi piksel — posisi gerobak, arah lereng, posisi bidang vertikal semua sama persis. Bukan dua tampak berbeda seperti yang diminta (LEFT=ujung rendah, RIGHT=ujung tinggi). Kemungkinan gagal lagi setelah regenerate (duplikasi sudut). Saran: \"Rotate the ramp so the LEFT view is a true mirror of the RIGHT view: in the LEFT view the low end of the ramp (ground contact) points toward the left edge of frame; in the RIGHT view the high end (vertical support) points toward the right edge.\""
+    "status": "revisi",
+    "catatan": "Profil samping segitiga yang rapi, tapi (1) bukan tampak KIRI (= dari ujung rendah) dan (2) troli kayu hilang. Prompt koreksi: \"Strict end-on view from the LOW end of the ramp with the small cart visible halfway up; not a side profile.\""
   },
   "bidang-miring-papan/p10-ilustrasi-kanan.lama": {
     "status": "salah",
-    "catatan": "File kanan (p10) dan kiri (p09) identik piksel demi piksel — sama persis, bukan dua tampak berbeda. Kemungkinan gagal lagi setelah regenerate (duplikasi sudut). Saran sama seperti p09: regenerate salah satu agar benar-benar mirror (low end vs high end bertukar sisi)."
+    "catatan": "GAGAL LAGI: identik piksel-demi-piksel dengan p09 (kiri). Tampak kanan harus beda (dari ujung TINGGI). Pertimbangkan model gemini-3-pro-image karena duplikasi sudut berulang."
   },
   "mikroskop/p03-realistis-belakang.lama": {
-    "status": "salah",
-    "catatan": "Tampak 'belakang' yang dihasilkan nyaris identik secara fungsional dengan tampak depan (p02): kedua lensa objektif pada revolver nosepiece masih terlihat jelas menggantung ke bawah, meja preparat (stage) dengan tuas penjepit mekanis masih terlihat dari depan, dan lensa cermin/kondensor cekung di dasar masih terlihat — semua ini adalah fitur yang menghadap ke DEPAN pada mikroskop asli dan seharusnya TIDAK terlihat (atau hanya terlihat tepi belakangnya) dari sisi belakang murni, yang semestinya hanya menampilkan lengan (arm) mikroskop yang melengkung polos. Ini berisiko mengajarkan anatomi mikroskop yang salah ke siswa. Prompt koreksi (EN): \"Strict BACK view: show only the plain curved back of the microscope's arm/column and the back of the focus-knob hub — the objective lenses, stage slide-clip mechanism, and mirror/condenser must NOT be visible from directly behind, since they all face forward.\""
+    "status": "revisi",
+    "catatan": "Tampak belakang seharusnya menunjukkan sisi lengan/arm mikroskop (berbeda dari tampak depan yang menunjukkan lensa objektif dan meja preparat menghadap kamera), tapi hasil generate masih menampilkan lensa objektif ganda dan meja preparat menghadap kamera, terlihat sangat mirip dengan tampak depan alih-alih tampak belakang yang berbeda. Perlu verifikasi apakah rotasi 180 derajat sudah benar dilakukan dari tampak depan. Saran prompt koreksi: \"Rotate fully 180° from the front view: the back view must show the solid curved arm/back of the microscope body, with the objective lenses and stage mostly hidden behind the body structure, clearly distinct from the front-facing view.\""
   },
   "bulan/p02-realistis-depan.lama": {
     "status": "salah",
@@ -9542,5 +9470,465 @@
   "pizza-pecahan/p01-realistis-atas.lama": {
     "status": "salah",
     "catatan": "Potongan pizza tidak sama besar (garis potong tidak berasal dari satu titik pusat dan lebar irisan berbeda-beda), padahal objek ini dipakai untuk soal pecahan 1/8. Menyesatkan. Koreksi: \"Exactly 8 equal 45° wedges, all cut lines passing through the exact center, one wedge pulled slightly away from the rest.\""
+  },
+  "kubus/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "limas-segitiga/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "limas-segitiga/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "prisma-segitiga/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "prisma-segitiga/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "dadu/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "dadu/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "molekul-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Lolos, dan perbaikan dari versi .lama berhasil: ketiga molekul lengkap (H2O bentuk bengkok ~104 derajat dengan 2 atom H putih kecil, CO2 linear O-C-O, O2 dua atom O terikat), warna atom sesuai konvensi (O merah, H putih, C hitam), tanpa teks/label, background putih solid, tampak depan lurus, full view tidak overlap."
+  },
+  "bulan/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Tampak depan (near side) meyakinkan: mare gelap luas mendominasi kiri-atas hingga tengah, kawah bercincin pancaran terang (mirip Tycho) di bawah, tekstur dan warna greyscale realistis, background hitam solid, full body, lurus depan."
+  },
+  "bulan/p03-realistis-belakang": {
+    "status": "salah",
+    "catatan": "GAGAL -- bug duplikasi 4-sudut dari versi .lama BELUM benar-benar teratasi untuk set realistis. Diukur dengan analisis piksel (fraksi area gelap/mare dalam piringan bulan): tampak depan (p02) = 46.7% gelap, tampak belakang (p03) = 43.8% gelap -- HAMPIR SAMA, padahal sisi jauh seharusnya nyaris seluruhnya highlands TERANG tanpa mare besar (seharusnya fraksi gelap jauh lebih kecil, mendekati set ilustrasi p08 yang hanya 6.9%). Pola mare di p03 secara visual juga mirip p02 (dark patch besar di atas + kawah bercincin terang di bawah), bukan permukaan padat berkawah terang seperti far side asli. Prompt koreksi: \"Regenerate the BACK (far side) view with dramatically less dark mare coverage than the front view -- the far side must be overwhelmingly bright, densely cratered highland terrain with no large dark maria, only two small modest dark patches (Mare Moscoviense, Mare Ingenii) at most. Do not repeat the front view's large dark mare pattern.\""
+  },
+  "bulan/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Fraksi area gelap/mare = 26.2%, lebih rendah dari depan (46.7%) dan belakang (43.8%) -- ada tren penurunan mare yang masuk akal untuk limb 90-barat, jadi TIDAK identik dengan p02/p03. Namun saya tidak bisa memastikan dengan yakin apakah pola kawah bercincin ganda (Mare Orientale) yang diminta prompt benar-benar tergambar secara akurat, hanya terlihat dark patch generik. Perlu dicek manusia dengan membandingkan ke acuan-3.png (far side) atau citra limb barat asli. Jika ragu, anggap belum lolos penuh."
+  },
+  "bulan/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "Fraksi area gelap/mare = 18.3%, paling terang dari keempat tampak realistis -- menunjukkan diferensiasi nyata dari depan/belakang, bukan duplikasi literal. Namun saya tidak bisa memastikan pola Mare Crisium yang bulat/khas benar-benar tergambar akurat dari tekstur yang ada, hanya terlihat dark patch generik. Perlu dicek manusia dengan membandingkan ke citra limb timur asli."
+  },
+  "bulan/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Perbaikan dari versi .lama berhasil: background sekarang hitam solid (sebelumnya putih). Pola mare gelap luas (mirip near side asli) dan kawah bercincin pancaran terang di bawah sudah sesuai gaya ilustrasi textbook, full body, lurus depan."
+  },
+  "bulan/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Perbaikan BERHASIL dibanding versi .lama (dulu background putih + pola identik dengan depan). Sekarang: background hitam solid, dan analisis piksel menunjukkan fraksi area gelap hanya 6.9% (vs depan p07 = 43.2%) -- kontras drastis yang benar, menampilkan highlands terang padat berkawah dengan mare minimal, sesuai sisi jauh Bulan yang sebenarnya. Ini satu-satunya dari 4 kuartet (realistis+ilustrasi) yang benar-benar berhasil menunjukkan sisi jauh yang jauh lebih terang dari sisi dekat."
+  },
+  "bulan/p09-ilustrasi-kiri": {
+    "status": "salah",
+    "catatan": "Ada artefak render: muncul garis-garis lingkaran konsentris datar/geometris berwarna gelap yang menempel di tepi kiri piringan bulan, terlihat seperti overlay/stiker digital yang tidak menyatu dengan tekstur ilustrasi di sekitarnya (bukan representasi alami dari cincin pegunungan Mare Orientale yang dimaksud prompt C -- gaya garis terlalu rapi/vektor dan kontras tajam dibanding shading bulan di sekitarnya). Prompt koreksi: \"Remove the flat geometric concentric ring overlay on the left edge -- if depicting Mare Orientale's multi-ring basin, render it as a natural shaded landform fully integrated with the Moon's illustration style and lighting, not as a separate flat graphic overlay.\""
+  },
+  "bulan/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "Fraksi area gelap = 9.3%, jauh lebih terang dari depan (43.2%), konsisten dengan highlands sisi limb timur, dan tidak ada artefak aneh seperti p09. Namun saya tidak bisa memastikan pola Mare Crisium yang bulat khas benar-benar tergambar akurat, hanya terlihat dark patch generik di beberapa titik. Perlu dicek manusia terhadap citra limb timur asli."
+  },
+  "mars/p03-realistis-belakang": {
+    "status": "revisi",
+    "catatan": "Tidak jelas menampilkan fitur yang diminta (cekungan Hellas Planitia yang luas dan pucat/halus, serta tanda gelap segitiga Syrtis Major) -- sisi kiri gambar justru menampilkan jaringan garis gelap bercabang yang mirip lembah/kanyon, mengingatkan pada gaya Valles Marineris yang seharusnya HANYA ada di tampak depan (Tharsis), bukan di belakang. Tutup kutub putih atas-bawah sudah benar. Karena file tampak depan (p02) tidak termasuk dalam tugas review ini, saya tidak bisa membandingkan langsung untuk memastikan ini duplikasi. Perlu dicek manusia: apakah pola kanyon di p03 sama dengan p02? Jika ya, ini duplikasi gagal seperti bug .lama. Prompt koreksi jika perlu: \"Regenerate the BACK view to clearly show the huge smooth pale Hellas Planitia basin and the dark triangular Syrtis Major marking, with NO canyon/valley network resembling Valles Marineris -- that feature belongs only on the Tharsis-facing front hemisphere.\""
+  },
+  "mars/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Menampilkan garis gelap tipis horizontal yang bisa diartikan sebagai 'ujung Valles Marineris yang memudar' sesuai prompt (yang memang mengizinkan sedikit sisa kanyon di tepi), plus bentuk cincin gelap di tepi kiri yang bisa jadi cekungan Argyre. Tidak jelas-jelas salah, tapi juga tidak meyakinkan sebagai Argyre Planitia yang khas (cekungan halus pucat besar) -- fitur yang terlihat lebih mirip noda/garis generik. Perlu dicek manusia dibanding acuan topografi Mars asli."
+  },
+  "mars/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "PERHATIAN: gambar menampilkan garis gelap horizontal yang cukup menonjol membentang di tengah piringan, sangat mirip motif kanyon/Valles Marineris -- padahal deskripsi prompt untuk tampak kanan (dataran rendah utara Vastitas Borealis/Acidalia + cekungan Isidis Planitia) SAMA SEKALI TIDAK menyebut kanyon apa pun untuk hemisfer ini. ini berpotensi menjadi kebocoran/duplikasi motif kanyon dari tampak depan (pola kegagalan yang sama persis dengan versi ilustrasi p10 di set ini, lihat catatan mars/p10). Karena p02 (depan) tidak ada di daftar review, saya tidak 100% yakin ini duplikasi literal, jadi saya tandai revisi bukan salah -- tapi sangat disarankan dicek manusia dengan membandingkan ke p02. Prompt koreksi jika terbukti duplikat: \"Regenerate the RIGHT view with NO canyon/valley line at all -- this hemisphere (Isidis Planitia / Vastitas Borealis northern lowlands) has no major canyon; only smooth lowland plains, the Isidis impact basin, and craters.\""
+  },
+  "mars/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Menampilkan tiga gunung berapi perisai dengan kawah puncak (konsisten dengan rangkaian Tharsis: Olympus Mons dkk.) dan jaringan kanyon gelap bercabang horizontal (Valles Marineris) sesuai deskripsi, tutup kutub putih atas-bawah terlihat jelas. Sesuai dengan hemisfer Tharsis/Valles Marineris yang diminta."
+  },
+  "mars/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Diferensiasi BERHASIL dari tampak depan: menampilkan cekungan bulat besar berwarna pucat/krem (sesuai Hellas Planitia) dan area gelap kebiruan di sampingnya (mewakili Syrtis Major, meski warnanya agak lebih biru-abu dibanding 'gelap' yang diharapkan), TANPA gunung berapi dan TANPA kanyon besar -- kontras jelas dengan tampak depan. Tutup kutub putih atas-bawah ada."
+  },
+  "mars/p09-ilustrasi-kiri": {
+    "status": "salah",
+    "catatan": "GAGAL duplikasi -- meski cekungan bulat pucat besar (Argyre Planitia) tergambar bagus di kiri, jaringan kanyon gelap bercabang yang MENDOMINASI separuh kanan gambar nyaris identik gaya dan skalanya dengan kanyon di tampak depan (p07), jauh lebih besar dari 'ujung Valles Marineris yang memudar di satu tepi' seperti yang diminta prompt. Ini adalah pola kegagalan duplikasi fitur ikonik yang sama seperti yang didokumentasikan di .lama sebelumnya. Prompt koreksi: \"Shrink the canyon feature drastically -- only a small trailing/fading edge of Valles Marineris should be visible at the frame edge, not a large dominant branching canyon network covering half the disk. The Argyre Planitia basin on the opposite side should be the dominant feature of this view.\""
+  },
+  "mars/p10-ilustrasi-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL duplikasi -- prompt untuk tampak kanan (hemisfer Isidis Planitia / dataran rendah Vastitas Borealis-Acidalia) SAMA SEKALI TIDAK menyebutkan kanyon apa pun, hanya 'ujung Olympus Mons memudar' dan 'ujung Syrtis Major memudar'. Namun gambar yang dihasilkan menampilkan jaringan kanyon gelap bercabang besar yang nyaris identik dengan Valles Marineris di tampak depan (p07) dan tampak kiri (p09) -- fitur ikonik Tharsis ini bocor/terduplikasi ke hemisfer yang seharusnya sama sekali tidak menampilkannya. Ini persis pola kegagalan 'kanyon/kawah besar yang sama muncul di 2+ tampak' yang diperingatkan di awal tugas. Prompt koreksi: \"Regenerate the RIGHT view with absolutely NO canyon or valley network -- this hemisphere shows smooth northern lowland plains (Vastitas Borealis/Acidalia Planitia), the Isidis Planitia impact basin, and ordinary craters only. Remove the branching canyon entirely; it must not resemble Valles Marineris.\""
+  },
+  "kepiting/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Perbaikan sebagian dari versi .lama — BAR HITAM/LETTERBOX sudah hilang (background putih bersih penuh), dan sekarang jelas berbeda dari p05 (kanan) sebagai pasangan cermin (badan menghadap kiri vs kanan). Namun sudut kamera masih belum TRUE 90° side profile seperti diminta: karapas atas dan kedua mata terlihat dari depan-atas, dan KEDUA capit (bukan hanya capit sisi dekat) masih terlihat penuh terbuka dengan gigi — seharusnya capit sisi jauh tersembunyi di belakang siluet tubuh pada profil murni. Ini masih terbaca sebagai sudut 3/4, bukan profil lateral sejati. Correction (EN): \"Regenerate as a TRUE 90-degree lateral silhouette: only the near-side claw and legs visible, the far-side claw and legs fully hidden behind the body's silhouette, carapace seen edge-on (not from above), not a three-quarter angle.\""
+  },
+  "kepiting/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "Sama seperti p04 — background sudah bersih (tidak ada bar hitam), dan sudah jadi cerminan yang jelas berbeda dari p04 (kiri). Tapi masih sudut 3/4: karapas dan kedua mata terlihat dari depan-atas, kedua capit (dekat dan jauh) sama-sama terlihat terbuka penuh, bukan profil lateral murni 90°. Correction (EN) sama seperti p04, dicerminkan: \"Regenerate as a TRUE 90-degree lateral silhouette, mirror of the left view — only the near-side (right) claw and legs visible, far-side hidden behind the body.\""
+  },
+  "kepiting/p08-ilustrasi-belakang": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI (pola kegagalan sama persis dengan versi .lama, tidak ada perbaikan) — gambar ini masih terbaca sebagai tampak DEPAN: kedua mata terlihat jelas sebagai dua bintik hitam di antara kedua capit, kedua capit besar terbuka penuh menghadap kamera dengan gigi terlihat, tepi depan karapas yang bergerigi juga terlihat. Prompt eksplisit melarang mata/mulut/capit terlihat sama sekali pada tampak belakang. Correction (EN): \"Rotate the crab 180 degrees to a true BACK/REAR view: hide both eyes and both claws completely behind/in front of the body (not visible at all) — show only the smooth rear carapace margin and trailing rear legs. Currently both eyes and both wide-open claws are fully visible, which is still a front view.\""
+  },
+  "kepompong/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Perbaikan total dari versi .lama (sebelumnya grid 2x2 berisi 4 salinan) — sekarang hanya SATU kepompong tunggal, tampak depan dengan sisi wing-case cembung menghadap kamera, ranting horizontal menembus badan dengan sabuk sutra dan bantalan sutra di ujung ekor, bintik emas terlihat, proporsi dan bentuk sesuai pupa Papilio demoleus. Tidak ada grid/panel ganda. Sesuai prompt."
+  },
+  "kepompong/p08-ilustrasi-belakang": {
+    "status": "revisi",
+    "catatan": "Perbaikan besar dari versi .lama (sebelumnya p08/p09/p10 nyaris identik satu sama lain) — sekarang p08 jelas berbeda posenya dari p07 (depan) dan dari p09/p10: ranting bercabang membentuk huruf Y menopang bagian atas kepompong. Namun ada elemen aneh: di bagian BAWAH gambar ada potongan ranting lurus terpisah yang TIDAK terhubung ke ranting Y di atas maupun ke badan kepompong secara jelas — fisiknya tidak masuk akal (kepompong seharusnya hanya menempel pada SATU ranting via bantalan sutra di ekor, bukan mengapit dua ranting berbeda). PERLU dicek apakah ini artefak render yang membingungkan siswa. Correction (EN): \"Remove the disconnected twig fragment floating below the chrysalis — the pupa should attach to only ONE continuous twig via the silk pad at its tail end, not appear flanked by a second unconnected stick.\""
+  },
+  "kepompong/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Perbaikan besar dari versi .lama (sebelumnya nyaris identik dengan p08/p10) — sekarang jelas berbeda: ranting terlihat edge-on sebagai garis vertikal tunggal di tepi kiri, badan kepompong di sebelah kanannya dengan benjolan wing-case-ridge menonjol ke kanan (searah menjauhi ranting), sabuk sutra menyilang sebagai garis diagonal pendek. Konsisten dengan deskripsi profil kiri di prompt (ranting edge-on di belakang, siluet sempit)."
+  },
+  "kepompong/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "Perbaikan dari versi .lama (sebelumnya nyaris identik dengan p08/p09) — sekarang kepompong terlihat berbeda dari p08/p09 dengan benjolan di sisi kiri. Namun render rantingnya TIDAK konsisten sebagai cerminan p09: di p09 ranting adalah satu garis vertikal PENUH di sepanjang tepi; di p10 ranting hanya potongan diagonal PENDEK di bagian atas saja, tidak menerus ke bawah seperti pasangannya. Ini membuat p09/p10 tidak terlihat seperti pasangan cermin yang konsisten. Correction (EN): \"Redraw the twig as a single continuous vertical line running the full height behind the body, mirroring p09's left-view twig style exactly (not a short diagonal stub only at the top).\""
+  },
+  "kerang/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Perbaikan dari versi .lama (sebelumnya sudut diagonal 3/4 mirip p05) — siluet oval sempit dengan garis hinge-seam vertikal di tengah dan hanya sliver tipis mantel teal di satu sisi tampak lebih mendekati profil 90° yang diminta. Namun TIDAK cocok sebagai pasangan cermin dari p05 (kanan) di batch ini — p05 menampilkan komposisi yang sangat berbeda (lihat catatan p05). PERLU verifikasi ulang pasangan kiri-kanan secara bersamaan sebelum disahkan. Correction (EN) jika regenerasi ulang: \"Keep this left-side silhouette style, and make the right-side view a true mirror of exactly this same narrow profile, not a wide gaping top-down view.\""
+  },
+  "kerang/p05-realistis-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI dengan bentuk kegagalan berbeda — bukan lagi sudut diagonal 3/4 seperti .lama, tapi sekarang malah tampak seperti dilihat dari ATAS/DEPAN ke dalam celah cangkang: mantel iridesen teal terlihat PENUH mengelilingi seluruh tepi atas cangkang seperti mangkuk terbuka, bukan sliver sempit di satu sisi seperti seharusnya untuk profil lateral murni. Ini sama sekali tidak mirip dengan p04 (kiri) yang menunjukkan siluet sempit — bukan pasangan cermin yang masuk akal. Correction (EN): \"Regenerate as a true 90-degree RIGHT lateral silhouette (narrow oval profile, hinge seam as a thin central line, mantle visible only as a narrow sliver on the near edge) — a true mirror of the left-side view, not a wide top-down view showing the full scalloped mantle rim.\""
+  },
+  "kerang/p09-ilustrasi-kiri": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI — masih tampak seperti tampak DEPAN simetris, bukan profil 90°: mantel biru-ungu-hijau terlihat sebagai pita bergelombang yang membentang PENUH di seluruh lebar cangkang secara simetris kiri-kanan, bukan sliver sempit di satu sisi dengan hinge seam di sisi jauh seperti dideskripsikan prompt. Pola kegagalan identik dengan versi .lama. Correction (EN): \"Rotate 90 degrees to a true left lateral silhouette: the mantle gape must be a narrow sliver visible only along the near edge, with the hinge seam as a thin line along the far edge — not a full-width symmetric band as in the front view.\""
+  },
+  "kerang/p10-ilustrasi-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI — nyaris identik dengan p09 (kiri) dalam komposisi: mantel bergelombang penuh lebar simetris, bukan cerminan 90° yang jelas berbeda. Pola kegagalan sama dengan versi .lama, belum ada perbaikan nyata. Correction (EN) sama seperti p09, dicerminkan: \"Rotate 90 degrees to a true right lateral silhouette, true mirror of a corrected left view — not a near-duplicate full-width front-like band.\""
+  },
+  "nyamuk-aedes/p08-ilustrasi-belakang": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI, pola kegagalan sama persis dengan versi .lama — gambar ini menampilkan tampak DORSAL (atas) lengkap: sayap terbentang simetris dengan venasi sayap terlihat dari atas, keenam kaki radial simetris, kepala dengan probosis dan antena jelas terlihat dari depan-atas. Definisi BACK untuk objek ini adalah tampak VENTRAL (bawah tubuh), bukan pengulangan dorsal. Correction (EN): \"Show the mosquito's ventral (underside) view — looking up at the belly/underside with legs and wings folded differently, clearly distinct from the dorsal top-down view — not a repeat of the dorsal front view.\""
+  },
+  "hati-empedu/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Perbaikan sebagian dari versi .lama — kantong empedu dan pembuluh permukaan viseral TIDAK terlihat (sesuai aturan: struktur tersebut seharusnya tidak tampak dari sudut lateral murni), ini sudah benar. Namun siluet keseluruhan (dua bagian dipisahkan pita ligamentum pucat, lobus besar di kiri menyempit ke ujung lancip di kanan) masih sangat mirip dengan apa yang diharapkan pada tampak DEPAN (dua lobus terpisah ligamentum falsiform), bukan siluet yang jelas berbeda/lebih sempit khas tampak lateral. PERLU dicek guru sains untuk memastikan ini benar-benar representasi lateral kiri yang valid, bukan sekadar tampak depan tanpa kantong empedu. Correction (EN) jika masih diragukan: \"Make the left lateral silhouette clearly narrower and differently shaped from the anterior two-lobe view — a true side elevation, not the same two-lobe outline with the gallbladder simply omitted.\""
+  },
+  "neptunus/p02-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Bentuk telur/pir SUDAH DIPERBAIKI pakai fix programatik (bukan generate ulang): radial warp memakai radius horizontal sebagai acuan, diverifikasi matematis w/h=1.000, fill-ratio=0.785 (lingkaran sempurna). Tapi ketemu masalah lain yang masih belum diperbaiki: badai gelap (Great Dark Spot) ada di posisi hampir SAMA PERSIS di keempat tampak (p02/p03/p04/p05) -- menandakan konten belum benar-benar beda per rotasi (warisan prompt chained lama yang belum di-standalone-kan khusus utk Neptunus, cuma bentuknya yang direinforce). Perlu dicek: apakah storm spot seharusnya terlihat beda posisi/tidak ada di tiap sisi, atau diterima karena permukaan Neptunus relatif seragam."
+  },
+  "neptunus/p03-realistis-belakang": {
+    "status": "revisi",
+    "catatan": "Bentuk sudah diperbaiki pakai fix programatik (radial warp, sama seperti p02), diverifikasi w/h=1.000, fill-ratio≈0.785. Tapi badai gelap di posisi hampir sama dengan p02/p04/p05 -- konten belum terdiferensiasi antar tampak, perlu dicek."
+  },
+  "neptunus/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Bentuk sudah diperbaiki pakai fix programatik (radial warp), diverifikasi w/h=1.000, fill-ratio≈0.785. Tapi badai gelap di posisi hampir sama dengan p02/p03/p05 -- konten belum terdiferensiasi antar tampak, perlu dicek."
+  },
+  "neptunus/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "Bentuk sudah diperbaiki pakai fix programatik (radial warp), diverifikasi w/h=1.000, fill-ratio≈0.785. KESIMPULAN SET REALISTIS NEPTUNUS: pendekatan prompt-rewrite (instruksi teks 'PERFECT SPHERE') terbukti GAGAL TOTAL untuk masalah bentuk (dikonfirmasi lewat pengukuran piksel identik di keempat tampak) -- berhasil diperbaiki hanya lewat fix programatik non-prompt (radial warp berbasis radius horizontal, lihat image-prompts/_src kalau perlu referensi skripnya; skrip ada di scratchpad sesi ini, belum dicommit sebagai tool permanen). Masalah SISA: badai gelap di posisi hampir sama di keempat tampak, konten belum terdiferensiasi antar rotasi -- beda isu dari bentuk, kemungkinan karena prompt p03-p05 masih chained bukan standalone (hanya ditambah reinforcement bentuk, bukan ditulis ulang total seperti bulan/mars)."
+  },
+  "neptunus/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Perbaikan BERHASIL dibanding versi .lama (yang gagal karena background putih). Diverifikasi dengan pengukuran piksel: rasio w/h = 1.000 dan fill-ratio = 0.787 (hampir persis match lingkaran sempurna pi/4=0.785) -- bola BENAR-BENAR sempurna, bukan telur/pir. Background hitam solid benar, satu badai gelap oval + garis sirus metana putih sesuai prompt, tanpa teks."
+  },
+  "neptunus/p08-ilustrasi-belakang": {
+    "status": "revisi",
+    "catatan": "Bentuk bola sempurna tercapai (w/h=1.000, fill-ratio=0.787, sama seperti p07) dan background hitam solid benar -- perbaikan bentuk BERHASIL untuk set ilustrasi. TAPI ada masalah sains baru: muncul EMPAT bintik gelap kecil dengan garis tepi cincin tegas/rapi (tersebar di berbagai posisi), terlihat seperti kawah tumbukan dengan outline bergaya kartun, padahal Neptunus adalah raksasa gas TANPA permukaan padat dan TANPA kawah -- prompt hanya meminta 'a dark oval storm' (tunggal, badai atmosfer berbentuk oval lembut), bukan beberapa 'kawah' bercincin. Prompt koreksi: \"Remove the multiple small crater-like dark circles with crisp ring outlines -- Neptune has no solid surface and no craters. Show at most ONE soft-edged dark oval atmospheric storm (like the Great Dark Spot), blended smoothly into the cloud bands, no hard ring outlines.\""
+  },
+  "neptunus/p09-ilustrasi-kiri": {
+    "status": "revisi",
+    "catatan": "Bentuk bola sempurna tercapai (w/h=1.000, fill-ratio=0.787) dan background hitam benar -- berhasil. Hanya ada SATU badai gelap oval besar (benar, sesuai sains) dengan garis sirus metana putih. Namun pola lengkung garis sirus putih (bentuk S/swirl) terlihat SANGAT mirip posisinya dengan pola di p07 (tampak depan) -- mengingatkan pada bug duplikasi tekstur awan antar-sudut yang pernah terjadi sebelumnya pada objek lain. Perlu dicek manusia: apakah pola awan ini benar-benar hasil rotasi berbeda atau tekstur yang digeser ulang dari tampak depan. Prompt koreksi jika terbukti duplikat: \"Generate a genuinely different cloud streak pattern for this rotated view, not the same S-curve shape repositioned from the front view.\""
+  },
+  "neptunus/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "Bentuk bola sempurna tercapai (w/h=1.000, fill-ratio=0.787) dan background hitam benar -- berhasil. TAPI masalah sama seperti p08: muncul TIGA bintik gelap dengan garis tepi cincin tegas bergaya kawah, bukan satu badai atmosfer lembut -- tidak sesuai sains Neptunus (gas giant, tanpa permukaan padat/kawah). Pola garis sirus putih juga mirip bentuk S yang sama dengan p07/p09, kemungkinan tekstur awan terduplikasi. Prompt koreksi: \"Remove the extra crater-like dark ring spots -- show at most one soft dark atmospheric storm oval, no hard ring outlines (Neptune has no solid cratered surface). Also vary the cloud streak shape so it is not a repeat of the front view's S-curve.\""
+  },
+  "hati-empedu/p05-realistis-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI, bentuk berbeda dari .lama tapi masalah intinya sama — kantong empedu (blob hijau-zaitun) dan sebuah pembuluh biru TERLIHAT JELAS dekat pita ligamentum, padahal struktur permukaan viseral ini seharusnya TIDAK terlihat dari sudut lateral murni (sesuai aturan anatomi yang sama yang dipakai untuk menilai p04). Selain itu tidak konsisten dengan p04 (kiri) yang sudah benar menyembunyikan kantong empedu — p04 dan p05 seharusnya pasangan cermin yang konsisten. WAJIB dicek guru sains. Correction (EN): \"Hide the gallbladder and portal vessels completely in this right lateral view, consistent with the left lateral view — they belong on the visceral (inferior) surface, not visible from a pure lateral angle.\""
+  },
+  "hati-empedu/p09-ilustrasi-kiri": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI, pola sama dengan versi .lama — siluet dua lobus dipisah pita ligamentum pucat dengan kantong empedu hijau kecil terlihat di bawah, komposisi ini nyaris identik dengan yang diharapkan pada tampak DEPAN (lobus kanan besar + lobus kiri kecil + kantong empedu), bukan profil lateral 90° yang berbeda. WAJIB dicek guru sains. Correction (EN): \"Rotate the SAME liver illustration exactly 90 degrees to a true LEFT LATERAL side silhouette, clearly different in outline from the front view, with the gallbladder hidden on the far visceral surface — not a near-duplicate of the anterior composition.\""
+  },
+  "hati-empedu/p10-ilustrasi-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI — nyaris identik dengan p09 (kiri): siluet sama persis (lobus besar di kiri, lobus kecil runcing di kanan, kantong empedu hijau di posisi yang sama), bukan cerminan 90° yang berbeda. Pola kegagalan .lama belum teratasi. WAJIB dicek guru sains. Correction (EN) sama seperti p09, dicerminkan: \"Render a true RIGHT lateral silhouette, mirrored from a corrected left view and clearly different in outline from the front/left — not a near-duplicate.\""
+  },
+  "jantung/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "Perbaikan sebagian dari versi .lama — permukaan ventrikel berotot DENGAN pembuluh koroner kini terlihat dominan mengisi sebagian besar siluet (sesuai arahan agar ventrikel kiri mendominasi tampak lateral kiri). Namun masih ada SATU PEMBULUH BIRU VERTIKAL besar yang menonjol di bagian atas-kiri gambar — struktur mirip vena cava yang secara anatomis berada di sisi KANAN jantung, berpotensi membingungkan jika memang dimaksudkan sebagai vena cava pada tampak kiri. WAJIB dicek guru sains untuk memastikan identitas pembuluh biru tersebut (mungkin dimaksudkan sebagai vena pulmonalis/trunkus pulmonalis yang memang bisa terlihat sedikit dari kiri, tapi perlu konfirmasi). Correction (EN) jika memang salah: \"Confirm the prominent blue vertical vessel at the upper-left is the pulmonary trunk/pulmonary veins (visible from the left side) and NOT a vena cava stump, which belongs on the right side only.\""
+  },
+  "jantung/p08-ilustrasi-belakang": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI, pola kegagalan sama persis dengan versi .lama — komposisi nyaris identik dengan tampak depan (p07, sudah ok): aorta melengkung di tengah-atas, dua pembuluh biru bercabang ke kedua aurikel atrium yang simetris kiri-kanan, permukaan ventrikel dengan percabangan pembuluh koroner yang serupa. Tampak belakang jantung seharusnya didominasi ATRIUM KIRI dengan vena-vena pulmonalis masuk, bukan pengulangan susunan anterior dengan kedua aurikel simetris. WAJIB dicek guru sains. Correction (EN): \"Redraw the posterior (back) view dominated by the LEFT ATRIUM with the four pulmonary veins entering it — this must look clearly different in silhouette and vessel arrangement from the anterior (front) view, not a near-duplicate with both auricles symmetric.\""
+  },
+  "jantung/p09-ilustrasi-kiri": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI — komposisi nyaris identik dengan p07 (depan) dan p08 (belakang): kedua aurikel atrium simetris terlihat, pola percabangan koroner serupa, lengkung pembuluh besar sama. Seharusnya didominasi permukaan VENTRIKEL KIRI yang berotot dengan siluet jelas berbeda dari depan/belakang. Set ilustrasi jantung (p08, p09, p10) masih tidak menunjukkan diferensiasi rotasi yang nyata — sama persis dengan masalah di versi .lama. WAJIB dicek guru sains. Correction (EN): \"Redraw the LEFT lateral view dominated by the left ventricle's muscular surface and the left auricle only, clearly different in silhouette from front and back — currently shows both auricles symmetrically like the front/back views.\""
+  },
+  "jantung/p10-ilustrasi-kanan": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI — sama seperti p08 dan p09, komposisi nyaris identik dengan seluruh set (kedua aurikel simetris, susunan pembuluh dan koroner sama). Seharusnya profil kanan didominasi VENTRIKEL KANAN dan ATRIUM KANAN, mirror dari kiri, jelas berbeda dari depan/belakang/kiri. Seluruh set p08-p10 gagal menunjukkan diferensiasi rotasi — persis masalah .lama, belum ada perbaikan nyata. WAJIB dicek guru sains. Correction (EN): \"Render a true right lateral view dominated by the right ventricle and right atrium, visually distinct in silhouette from front, back, and left — currently a near-duplicate of all three.\""
+  },
+  "lidah/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "Perbaikan sebagian dari versi .lama — tekstur papila (bintik-bintik fungiform merah muda) dan pembuluh darah biru di permukaan bawah/samping kini terlihat jelas (sebelumnya tekstur papila dikeluhkan tidak jelas). Namun baris V papila sirkumvalata di bagian pangkal lidah masih TIDAK terlihat jelas sebagai struktur khas, dan pose lidah menjulur dari mulut pada sudut yang lebih menyerupai 3/4 (melengkung turun-kanan dari sudut mulut) daripada profil KANAN murni 90° yang lurus. Tidak bisa dipastikan apakah ini benar-benar cerminan p09 (kiri) karena p09 tidak termasuk dalam batch review ini. Correction (EN): \"Render a strict 90-degree right-side profile (not a 3/4 angle) with the V-shaped row of circumvallate papillae clearly visible near the back of the tongue, and verify it is a true mirror of the left view (p09).\""
+  },
+  "ban-berulir/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Perbaikan total dari versi .lama (sebelumnya menampilkan pola tapak/tread penuh seperti tampak depan) — sekarang menampilkan permukaan SAMPING (sidewall) ban yang rata dan halus dengan garis-garis lengkung khas cetakan sidewall, TIDAK ada blok tapak (tread knobs) sama sekali. Sesuai prompt."
+  },
+  "ban-berulir/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Perbaikan total dari versi .lama (sebelumnya pola tapak penuh) — sekarang menampilkan sidewall rata dengan garis lengkung cetakan, tanpa tread knobs, konsisten dengan p09 (kiri). Sesuai prompt."
+  },
+  "jungkat-jungkit/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Perbaikan total dari versi .lama (sebelumnya menampilkan sisi panjang penuh dimiringkan, bukan tampak ujung) — sekarang jelas menampilkan tampak UJUNG (end-on) yang benar: dudukan merah besar dekat kamera di depan, papan memanjang ke arah dudukan kedua yang kecil karena perspektif, tiang pivot biru-abu dengan pegangan di bagian jauh. Sesuai definisi LEFT/RIGHT = end-on views pada prompt objek ini."
+  },
+  "lilin-menyala/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "lilin-menyala/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "lilin-menyala/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "lilin-menyala/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "lilin-menyala/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "lilin-menyala/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "cermin-datar/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "larutan-koloid-suspensi/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": ""
+  },
+  "baterai-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil): 4 benda (AA, 9V, koin, aki) tanpa teks/simbol tercetak; polaritas cukup terlihat dari bentuk terminal (tonjolan AA, snap 9V, tutup terminal merah/hitam aki)."
+  },
+  "panel-surya/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Lolos: backsheet putih, junction box + 2 kabel konektor di belakang, bracket, tanpa teks, tanpa kotak tambahan."
+  },
+  "periskop/p11-penampang-belah": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: sudut & jalur sinar dihitung kode. Isi: penampang samping tabung periskop; bukaan atas menghadap KIRI, bukaan bawah menghadap KANAN (berlawanan); dua cermin datar SEJAJAR, masing-masing tepat 45°; sinar kuning putus-putus masuk mendatar lewat bukaan atas → dipantulkan ke bawah oleh cermin atas → dipantulkan mendatar oleh cermin bawah → keluar lewat bukaan bawah, dengan kepala panah kecil penunjuk arah. Dinding tabung terbelah; 6 lingkaran callout kosong (dinding tabung, cermin atas, cermin bawah, bukaan atas, bukaan bawah, jalur sinar), tanpa teks. Diperiksa visual."
+  },
+  "periskop/p12-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: sudut & jalur sinar dihitung kode. Isi: penampang samping tabung periskop; bukaan atas menghadap KIRI, bukaan bawah menghadap KANAN (berlawanan); dua cermin datar SEJAJAR, masing-masing tepat 45°; sinar kuning putus-putus masuk mendatar lewat bukaan atas → dipantulkan ke bawah oleh cermin atas → dipantulkan mendatar oleh cermin bawah → keluar lewat bukaan bawah, dengan kepala panah kecil penunjuk arah. Tabung digambar tembus pandang, tanpa callout, tanpa teks. Diperiksa visual."
+  },
+  "termos-penampang/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil): teks merek 'THERMOS' hilang; termos utuh + penampang menunjukkan tabung kaca perak di dalam cangkang luar dengan celah & penyangga — konsep dinding ganda terlihat."
+  },
+  "transformator/p12-penampang-transparan.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya dicabut (temuan osn-app-80, dicek ulang): (1) inti + kumparan dikurung kotak kaca membulat yang bukan bagian trafo (akibat template lama 'glass shell', gen.mjs sudah diperbaiki); (2) SALAH SAINS: ini trafo STEP-DOWN, tapi kumparan primer (oranye, ±23 lilitan) dan sekunder (teal, ±22 lilitan) digambar sama banyak — konsep Np > Ns untuk penurun tegangan jadi hilang. Prompt koreksi: \"Square laminated iron core frame standing open on its base, no enclosing box or shell; the primary coil (copper-orange) has clearly about TWICE as many turns as the secondary coil (teal); only the coil insulation drawn semi-transparent; dashed magnetic loop around the core; zero text.\""
+  },
+  "mikroskop/p12-penampang-transparan.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya dicabut (temuan osn-app-80, dicek ulang): mikroskop digambar terkurung di dalam cangkang kaca berbentuk botol — mikroskop tidak punya cangkang, menyesatkan. Lengan (arm) juga tidak tampak. Akar masalah ada di template prompt transparan ('semi-transparent tinted glass shell'); gen.mjs sudah diubah: hanya permukaan luar asli benda yang dibuat transparan, dilarang menambah cangkang/botol/kubah. Prompt koreksi: \"No enclosing shell, bottle or dome: the microscope stands open in air; only its own body tube and arm are drawn semi-transparent so the lenses and the dashed yellow light path from lamp through condenser, slide, objective and tube to the eyepiece are visible; include the curved arm connecting the tube to the base.\""
+  },
+  "termos-penampang/p04-penampang-transparan.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya dicabut (temuan osn-app-80, dicek ulang): ruang hampa digambar sebagai PITA lavender melintang di tengah isi botol (di antara udara & cairan), bukan celah di antara dinding dalam dan luar di sepanjang sisi & dasar — konsep vakum mencegah konduksi/konveksi jadi salah. Bentuknya juga lebih mirip botol kaca bergabus daripada termos. Spesifikasi penampang.mjs sudah dipertegas. Prompt koreksi: \"Vacuum flask with a semi-transparent outer casing; inside, a silvered inner vessel separated from the outer wall by a thin continuous U-shaped empty vacuum band (pale lavender, dashed outline) down both sides and under the bottom; the liquid stays only inside the inner vessel; no band across the contents.\""
+  },
+  "ban-berulir/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Ada TEKS besar 'FRONT / BACK / LEFT SIDE / RIGHT VIEW' tertulis jelas di bawah tiap panel — melanggar aturan ZERO TEXT/'no text labels' secara eksplisit. Selain itu keempat panel menampilkan tapak (tread) yang nyaris sama, tidak ada panel yang menunjukkan sisi samping (sidewall) rata untuk KIRI/KANAN sesuai prompt. Prompt koreksi: \"Regenerate the 4-panel turnaround sheet with ABSOLUTELY NO text/words/captions anywhere in the image, and make panels 3 and 4 (LEFT and RIGHT) show the flat circular SIDEWALL face of the tire (no tread knobs), distinct from the tread-facing FRONT/BACK panels.\""
+  },
+  "jungkat-jungkit/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Hanya 3 salinan. Prompt: \"Exactly four copies: front, back, left, right.\""
+  },
+  "lilin-menyala/p06-ilustrasi-turnaround.lama": {
+    "status": "salah",
+    "catatan": "SALAH — teks label \"FRONT/BACK/BACK/RIGHT\" tercetak, panel duplikat, tidak ada LEFT."
+  },
+  "alat-energi-listrik-panas-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model gemini-3-pro-image): tepat 4 alat — setrika uap (tapak terlihat), rice cooker, ketel listrik, solder di dudukannya — kabel tergulung; teks merek 'SALTON' sudah hilang, panel rice cooker hanya 2 lampu indikator + tuas (dicek zoom 2×), latar putih."
+  },
+  "baterai-set/p03-penampang-belah": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: jumlah benda, sel, dan lapisan dihitung kode (Gemini gagal 3× soal jumlah). Tepat 4 benda: baterai AA, baterai 9V, baterai koin, aki 12 V (tutup kutub merah = +, hitam = −, tanpa simbol/teks). AA dibelah memanjang, lapisan simetris di kedua sisi sumbu: kaleng baja (+, tonjolan di atas), katode MnO2 (abu gelap), separator (putih), gel anode seng (abu terang), pin kolektor kuningan di sumbu, segel plastik (merah) dan tutup negatif di bawah; 8 lingkaran callout kosong. 9V, koin, aki utuh. Diperiksa visual."
+  },
+  "baterai-set/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: jumlah benda, sel, dan lapisan dihitung kode (Gemini gagal 3× soal jumlah). Tepat 4 benda: baterai AA, baterai 9V, baterai koin, aki 12 V (tutup kutub merah = +, hitam = −, tanpa simbol/teks). Semua tembus pandang: AA (lapisan + pin), 9V berisi TEPAT 6 sel 1,5 V bertumpuk (6 × 1,5 V = 9 V), koin (lapisan katode/separator/anode), aki berisi TEPAT 6 sel (5 sekat putus-putus) dengan pelat bergantian di elektrolit dan 5 penghubung antarsel. Tanpa callout, tanpa teks. Diperiksa visual."
+  },
+  "bel-listrik/p01-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Membaik: palu kini menempel di tepi gong. Tapi mekanisme tidak benar secara fisika: tidak ada jangkar besi di depan ujung kutub kumparan (kumparan berdiri tegak, batang berpegas di bawahnya tidak menghadap kutub), dan kontak pemutus arus tidak bisa dikenali. Deskripsi katalog sudah dipertegas (jangkar tepat di depan kutub, pegas daun, sekrup kontak). Prompt koreksi: \"A flat soft-iron armature sits directly in front of, and very close to, the pole ends of the two coils; it is mounted on a thin spring strip; a short rod from the armature carries the hammer ball resting just beside the gong rim; a brass contact screw touches the spring strip.\""
+  },
+  "bel-listrik/p02-ilustrasi-depan": {
+    "status": "revisi",
+    "catatan": "Mekanisme tidak koheren: lengan jangkar melintang DI ATAS dua kumparan horizontal (kutub kumparan menghadap ke samping, jadi tidak bisa menarik lengan itu), dan bola palu berada di atas gong, tidak bersentuhan dengan tepinya. Prompt koreksi sama seperti p01: \"A flat soft-iron armature sits directly in front of, and very close to, the pole ends of the two coils; it is mounted on a thin spring strip; a short rod from the armature carries the hammer ball resting just beside the gong rim; a brass contact screw touches the spring strip.\""
+  },
+  "bidang-miring-papan/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): profil samping sisi seberang — segitiga landai jelas, ujung tinggi kini di KANAN (cermin p07 yang ujung tingginya di kiri), troli kayu 4 roda di tengah lereng, rangka penyangga + sekrup; sedikit dari atas, konsisten dengan gaya p07. Tanpa teks."
+  },
+  "elektromagnet/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): rangkaian TERTUTUP — satu ujung kawat ke tonjolan + baterai D, ujung lain ke ujung − ; paku besi dililit kawat email tembaga rapat (±30 lilitan), beberapa klip kertas menempel di ujung runcing paku; badan baterai polos tanpa simbol/teks; latar putih."
+  },
+  "elektromagnet/p03-penampang-belah": {
+    "status": "ok",
+    "catatan": "Lolos berdasarkan keputusan user 2026-10-09 (simbol +/− baterai boleh asal benar): polaritas −/+ benar, rangkaian tertutup, potongan kumparan memperlihatkan penampang kawat bulat, garis medan putus-putus dari ujung ke ujung paku, 8 callout kosong. Catatan: baterai bertipe kotak 9V (katalog/p01: D) — tidak menyesatkan."
+  },
+  "elektromagnet/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): simbol +/− sudah hilang; rangkaian tertutup (konektor jepit di atas baterai, kedua kawat turun ke kedua ujung kumparan), kumparan rapat di paku, garis medan putus-putus melingkar dari ujung ke ujung, klip kertas di ujung runcing. Catatan: baterai bertipe 9V (katalog: D) — tidak menyesatkan untuk konsep elektromagnet."
+  },
+  "galvanometer-kumparan/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): kumparan tembaga berongga, magnet batang (merah/biru) masuk ke kumparan, kedua ujung kumparan tersambung kabel merah & biru ke galvanometer, jarum menyimpang; skala hanya garis tanpa angka; noda/blur di dial sudah hilang."
+  },
+  "jungkat-jungkit/p09-ilustrasi-kiri": {
+    "status": "revisi",
+    "catatan": "GAGAL (model pro): gambar berisi TIGA jungkat-jungkit tampak samping (miring, datar, miring) — bukan satu tampak UJUNG (end-on). Akar masalah: prompt lanjutan tidak menyebut definisi orientasi objek; gen.mjs sudah diperbaiki (orientasi objek + 'exactly ONE copy'). Prompt koreksi: \"Exactly ONE seesaw seen END-ON (looking along the plank from one end): the near seat and handle in front, the pivot stand below the plank's center, the far seat hidden behind; not a side view.\""
+  },
+  "jungkat-jungkit/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "GAGAL (model pro): dua benda dalam satu gambar — bentuk ujung yang tak jelas di atas + jungkat-jungkit tampak samping di bawah. Harus satu jungkat-jungkit tampak ujung (cermin p09). Prompt koreksi: \"Exactly ONE seesaw seen END-ON from the other end (mirror of the left view): near seat and handle in front, pivot stand below the plank's center; not a side view, no second object.\""
+  },
+  "kabel-penampang/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): kedua ujung kini konsisten — tiga konduktor berisolasi cokelat (fase), biru (netral), hijau-kuning (arde) dengan serabut tembaga terkelupas, pengisi putih di mulut selubung abu. Selubung tampak padat (bukan tembus pandang), tapi isi kabel jelas di kedua ujung; tidak menyesatkan."
+  },
+  "katrol-bergerak/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini (gagal 3×: tali satu utas, simpul mirip jerat gantung, ujung bebas dijepit, teks \"1 kg\"). Isi: statif (alas, tiang, batang mendatar, klem); tali diikat di batang (kiri), turun, melingkar DI BAWAH roda katrol, naik lagi ke ujung bebas berlengkung untuk ditarik ke atas — DUA utas tali menopang katrol (keuntungan mekanis 2); katrol bergerak bersama beban: rangka, kait, beban besi silinder. Tanpa teks. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "katrol-bergerak/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini (gagal 3×: tali satu utas, simpul mirip jerat gantung, ujung bebas dijepit, teks \"1 kg\"). Isi: statif (alas, tiang, batang mendatar, klem); tali diikat di batang (kiri), turun, melingkar DI BAWAH roda katrol, naik lagi ke ujung bebas berlengkung untuk ditarik ke atas — DUA utas tali menopang katrol (keuntungan mekanis 2); katrol bergerak bersama beban: rangka, kait, beban besi silinder. Tanpa teks. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "katrol-majemuk/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): dua blok masing-masing 2 roda, TEPAT 4 utas tali penopang di antara blok + 1 ujung tarik bebas keluar dari blok atas (sesuai koreksi sebelumnya), kait blok atas, kait blok bawah membawa beban besi; tanpa teks. Sudut sedikit miring tapi struktur terbaca jelas."
+  },
+  "katrol-tetap/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya KELIRU: kedua utas tali dari roda turun ke simpul yang sama di ember (tali tidak bisa ditarik), dan tali lain disampirkan di balok — bukan katrol tetap yang berfungsi."
+  },
+  "katrol-tetap/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya KELIRU: sama seperti p07 — tali melingkari roda lalu kedua ujung diikat ke ember, ujung lain disampirkan di balok."
+  },
+  "katrol-tetap/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Verdict ok sebelumnya KELIRU: roda jari-jari menghadap kamera tapi tali turun lurus melewati PUSAT roda (mustahil), desain roda berbeda dari p07."
+  },
+  "katrol-tetap/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua versi Gemini salah fisika (tali tidak melewati alur roda / hanya satu utas / tali keluar dari poros / ujung bebas disampirkan di balok). Isi: balok kayu, braket baja, roda katrol besi beralur; tali MELEWATI bagian atas roda di alurnya — satu ujung turun ke pegangan ember, ujung lain menggantung bebas untuk ditarik (katrol tetap: arah gaya berubah, keuntungan mekanis 1). Tampak samping (cermin): roda dari tepi, tali segaris, ember di bawah. Tanpa teks. Gaya ilustrasi datar dipakai juga untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "kincir-angin/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "GAGAL (model pro): EMPAT turbin dalam satu gambar (grid 2×2 depan/belakang/kiri/kanan), bukan satu tampak kanan. Penyebab: model Gemini 3 membalas lembar multi-tampak bila diberi riwayat multi-giliran; gemini-gen.mjs sudah diubah (tampak lanjutan dikirim satu giliran dengan gambar depan sebagai acuan). Prompt koreksi: \"Exactly ONE wind turbine, strict RIGHT side profile: rotor and blades facing the RIGHT edge of the image, nacelle behind it on the tower, mirror of the left view.\""
+  },
+  "kipas-angin/p05-realistis-kanan": {
+    "status": "revisi",
+    "catatan": "GAGAL (model pro): EMPAT kipas dalam satu gambar (grid 2×2), bukan satu tampak kanan; ada juga angka kecil di tombol kecepatan pada panel depan. Penyebab sama dengan kincir-angin p10 (riwayat multi-giliran Gemini 3) — gemini-gen.mjs sudah diperbaiki. Prompt koreksi: \"Exactly ONE desk fan, strict RIGHT side profile: the grille (front) faces the RIGHT edge of the image, motor housing on the left — the exact mirror of the left view.\""
+  },
+  "kompas/p01-realistis-atas": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini (Gemini 3× menulis angka derajat acak). Sesuai keputusan user 2026-10-09 (angka/huruf instrumen boleh asal benar): kompas kuningan tampak atas, tutup terbuka di belakang engsel; piringan dengan garis tiap 5°, angka 30–330 tiap 30° searah jarum jam, huruf N (merah, atas) – E (kanan) – S (bawah) – W (kiri) tegak agar mudah dibaca; jarum ujung merah menunjuk N, ujung perak ke S. Gaya ilustrasi datar dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "kipas-angin/p10-ilustrasi-kanan": {
+    "status": "revisi",
+    "catatan": "GAGAL (model pro): EMPAT kipas dalam satu gambar (grid 2×2), bukan satu tampak kanan. Penyebab: riwayat multi-giliran Gemini 3 — gemini-gen.mjs sudah diperbaiki. Prompt koreksi: \"Exactly ONE desk fan, strict RIGHT side profile, grille facing the RIGHT edge of the image, motor on the left.\""
+  },
+  "magnet-bentuk-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): tepat 5 magnet — batang merah-biru, ladam merah berujung perak, silinder neodimium perak, cincin ferit hitam, jarum kompas kini berdiri di atas poros/dudukan; tanpa huruf N/S, latar putih."
+  },
+  "magnet-serbuk-besi/p02-ilustrasi-atas": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): huruf N/S sudah hilang; serbuk besi membentuk lengkung tertutup dari kutub ke kutub di atas & bawah magnet dan memancar rapat di kedua kutub, magnet terlihat di bawah lembar akrilik bening; tampak atas."
+  },
+  "neraca-pegas/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): teks '100 g' di beban sudah hilang; tabung bening dengan pegas baja di dalam, penunjuk merah, skala garis halus (angka diburamkan), cincin atas, kait bawah membawa beban kuningan bercelah; tampak depan."
+  },
+  "panel-surya/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): junction box tidak lagi di muka depan; hanya kisi sel monokristal (sudut terpotong) dengan busbar perak dan rangka aluminium; tanpa teks."
+  },
+  "panel-surya/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Lolos (model pro, pipeline baru satu-giliran + acuan tampak depan): satu panel tipis, muka sel menghadap kanan gambar, TEPAT satu junction box di sisi belakang (kiri) dengan kabelnya; sedikit miring dari profil murni tapi struktur benar, tanpa teks."
+  },
+  "panel-surya/p11-penampang-belah": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): TANPA teks; tumpukan lapisan sedikit terurai sesuai spesifikasi — sudut rangka aluminium, kaca temper (biru muda), EVA atas (kuning pucat), sel silikon dengan lapisan n (biru muda) di atas lapisan p (biru tua) dipisah garis putus-putus, busbar perak, EVA bawah, backsheet putih, junction box hitam; 8 callout kosong. Urutan lapisan benar."
+  },
+  "panel-surya/p12-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): kini tampak lurus dengan proporsi panel tipis; sel terlihat menembus kaca, junction box + kabel di belakang terlihat samar, sisipan jendela-zoom memperlihatkan urutan lapisan (kaca, EVA, sel + busbar, EVA, backsheet); tanpa teks."
+  },
+  "sakelar-stopkontak-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): tepat 5 benda — sakelar dinding, stopkontak Tipe F (ceruk bulat, 2 lubang bulat, klip arde atas-bawah, sekrup tengah penutup), steker 2 pin bulat (Europlug) berkabel, sekring keramik, MCB; MCB kini polos tanpa teks/simbol. Catatan: sakelar bertipe tuas (toggle), bukan rocker — tetap benar sebagai sakelar."
+  },
+  "sakelar-stopkontak-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): stopkontak kini Tipe F Indonesia (ceruk bulat, tepat 2 lubang bulat, klip arde atas-bawah) — tidak ada lubang ketiga; sakelar rocker, steker 2 pin bulat dengan ujung kabel terkupas, sekring tabung kaca dengan kawat sekring terlihat, MCB tanpa teks. Tepat 5 benda."
+  },
+  "sepeda/p04-realistis-kiri": {
+    "status": "revisi",
+    "catatan": "File DITUKAR dengan p05 (gambar ini menghadap KIRI = tampak kiri yang benar). Sisa masalah: tanda samar seperti decal/teks di top tube dekat head tube dan di ujung atas seat tube (terlihat saat zoom 2×). Regenerasi tampak kiri. Prompt koreksi: \"Strict LEFT side profile: front wheel and basket on the LEFT of the image, the non-drive side facing the camera; plain glossy black frame with no decals, logos, stickers or printed text on any tube.\""
+  },
+  "tangga-rumah/p02-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Membaik (model pro): kini tampak DEPAN lurus & simetris, stiker peringatan hilang, anak tangga + kaki belakang + kaki karet benar. Sisa: emblem oval berisi huruf/logo timbul di tengah platform atas (terlihat jelas saat zoom 3×). Prompt koreksi: \"Top platform is plain molded grey plastic with tool holes only — no emblem, logo, lettering or brand mark anywhere.\""
+  },
+  "tangga-rumah/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): kini tampak DEPAN lurus & simetris — 5 anak tangga depan, rangka belakang tepat di belakang, penguat kuning di bawah, kaki karet hitam, platform atas dengan tutup ujung hitam; tanpa teks."
+  },
+  "tangga-rumah/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): kini tampak BELAKANG lurus & simetris — rangka belakang dengan silang X dan palang mendatar, anak tangga depan terlihat di belakangnya; detail (platform, kaki, penguat kuning) konsisten dengan p07; tanpa teks."
+  },
+  "tekanan-hidrostatis-botol/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Lolos (perbaikan berhasil, model pro): konsep kini benar — botol bening berisi air (permukaan di atas lubang teratas), TEPAT 3 lubang di dinding; pancaran bawah paling jauh & paling mendatar, tengah lebih pendek, atas paling pendek & paling menukik (makin dalam = tekanan makin besar). Tanpa teks/label."
+  },
+  "katrol-tetap/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "neraca-pegas/p06-ilustrasi-turnaround.lama": {
+    "status": "salah",
+    "catatan": "SALAH — angka terbaca di semua panel, panel nyaris identik."
+  },
+  "panel-surya/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   }
 }

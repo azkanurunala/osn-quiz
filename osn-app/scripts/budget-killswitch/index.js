@@ -1,16 +1,19 @@
 // Cloud Function (gen2, Pub/Sub). Budget alert -> lepas billing dari semua project di billing account.
 // Hanya unlink (bisa dibalik dengan relink). Tidak menghapus project.
+const functions = require('@google-cloud/functions-framework');
 const { CloudBillingClient } = require('@google-cloud/billing');
 const client = new CloudBillingClient();
 const BILLING = `billingAccounts/${process.env.BILLING_ACCOUNT_ID}`;
 
-exports.killBilling = async (event) => {
+functions.cloudEvent('killBilling', async (event) => {
   const msg = JSON.parse(Buffer.from(event.data.message.data, 'base64').toString());
-  console.log('budget msg', msg);
-  if (msg.costAmount < msg.budgetAmount) return; // alert threshold < 100%, abaikan
-
+  // list di setiap notifikasi (beberapa kali sehari), sekalian bukti izin service account masih jalan
   const [projects] = await client.listProjectBillingInfo({ name: BILLING });
-  for (const p of projects.filter((p) => p.billingEnabled)) {
+  const aktif = projects.filter((p) => p.billingEnabled);
+  console.log('budget', msg.costAmount, '/', msg.budgetAmount, msg.currencyCode, 'aktif:', aktif.map((p) => p.projectId).join(','));
+  if (!(msg.costAmount >= msg.budgetAmount)) return; // putus hanya kalau jelas >= budget; pesan rusak/uji diabaikan
+
+  for (const p of aktif) {
     try {
       await client.updateProjectBillingInfo({
         name: `projects/${p.projectId}`,
@@ -21,4 +24,4 @@ exports.killBilling = async (event) => {
       console.error('gagal unlink', p.projectId, e.message);
     }
   }
-};
+});
