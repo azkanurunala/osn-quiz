@@ -6,30 +6,21 @@ export const OBJEK_FOTO = [
     "title": "Kucing",
     "kw": "\\bkucing",
     "bab": "ipa-01",
-    "file": "objek/kucing-domestik.webp",
-    "views": {
-      "samping": "objek/kucing-domestik-samping.webp"
-    }
+    "file": "objek/kucing-domestik.webp"
   },
   {
     "id": "sapi",
     "title": "Sapi",
     "kw": "\\bsapi\\b",
     "bab": "ipa-01",
-    "file": "objek/sapi.webp",
-    "views": {
-      "samping": "objek/sapi-samping.webp"
-    }
+    "file": "objek/sapi.webp"
   },
   {
     "id": "kelinci",
     "title": "Kelinci",
     "kw": "kelinci",
     "bab": "ipa-01",
-    "file": "objek/kelinci.webp",
-    "views": {
-      "samping": "objek/kelinci-samping.webp"
-    }
+    "file": "objek/kelinci.webp"
   },
   {
     "id": "kelelawar-ekolokasi",
@@ -56,20 +47,14 @@ export const OBJEK_FOTO = [
     "title": "Lumba-lumba",
     "kw": "lumba-lumba",
     "bab": "ipa-01",
-    "file": "objek/lumba-lumba.webp",
-    "views": {
-      "samping": "objek/lumba-lumba-samping.webp"
-    }
+    "file": "objek/lumba-lumba.webp"
   },
   {
     "id": "paus-biru",
     "title": "Paus",
     "kw": "\\bpaus\\b",
     "bab": "ipa-01",
-    "file": "objek/paus-biru.webp",
-    "views": {
-      "samping": "objek/paus-biru-samping.webp"
-    }
+    "file": "objek/paus-biru.webp"
   },
   {
     "id": "ayam",
@@ -78,7 +63,6 @@ export const OBJEK_FOTO = [
     "bab": "ipa-01",
     "file": "objek/ayam.webp",
     "views": {
-      "samping": "objek/ayam-samping.webp",
       "penampang": "objek/ayam-penampang.webp"
     }
   },
@@ -97,20 +81,14 @@ export const OBJEK_FOTO = [
     "title": "Bebek",
     "kw": "bebek|itik",
     "bab": "ipa-01",
-    "file": "objek/bebek.webp",
-    "views": {
-      "samping": "objek/bebek-samping.webp"
-    }
+    "file": "objek/bebek.webp"
   },
   {
     "id": "elang",
     "title": "Elang",
     "kw": "elang",
     "bab": "ipa-01",
-    "file": "objek/elang.webp",
-    "views": {
-      "samping": "objek/elang-samping.webp"
-    }
+    "file": "objek/elang.webp"
   },
   {
     "id": "katak",
@@ -119,7 +97,6 @@ export const OBJEK_FOTO = [
     "bab": "ipa-01",
     "file": "objek/katak.webp",
     "views": {
-      "samping": "objek/katak-samping.webp",
       "penampang": "objek/katak-penampang.webp"
     }
   },
@@ -149,30 +126,21 @@ export const OBJEK_FOTO = [
     "title": "Cicak",
     "kw": "cicak|tokek",
     "bab": "ipa-01",
-    "file": "objek/cicak.webp",
-    "views": {
-      "samping": "objek/cicak-samping.webp"
-    }
+    "file": "objek/cicak.webp"
   },
   {
     "id": "bunglon",
     "title": "Bunglon",
     "kw": "bunglon",
     "bab": "ipa-01",
-    "file": "objek/bunglon.webp",
-    "views": {
-      "samping": "objek/bunglon-samping.webp"
-    }
+    "file": "objek/bunglon.webp"
   },
   {
     "id": "ular",
     "title": "Ular",
     "kw": "\\bular\\b",
     "bab": "ipa-01",
-    "file": "objek/ular.webp",
-    "views": {
-      "samping": "objek/ular-samping.webp"
-    }
+    "file": "objek/ular.webp"
   },
   {
     "id": "kura-kura",
@@ -189,30 +157,21 @@ export const OBJEK_FOTO = [
     "title": "Buaya",
     "kw": "buaya",
     "bab": "ipa-01",
-    "file": "objek/buaya.webp",
-    "views": {
-      "samping": "objek/buaya-samping.webp"
-    }
+    "file": "objek/buaya.webp"
   },
   {
     "id": "komodo",
     "title": "Komodo",
     "kw": "komodo",
     "bab": "ipa-01",
-    "file": "objek/komodo.webp",
-    "views": {
-      "samping": "objek/komodo-samping.webp"
-    }
+    "file": "objek/komodo.webp"
   },
   {
     "id": "anoa",
     "title": "Anoa",
     "kw": "anoa",
     "bab": "ipa-01",
-    "file": "objek/anoa.webp",
-    "views": {
-      "samping": "objek/anoa-samping.webp"
-    }
+    "file": "objek/anoa.webp"
   },
   {
     "id": "jalak-bali",
@@ -220,9 +179,6 @@ export const OBJEK_FOTO = [
     "kw": "jalak bali",
     "bab": "ipa-01",
     "file": "objek/jalak-bali.webp",
-    "views": {
-      "samping": "objek/jalak-bali-samping.webp"
-    },
     "dark": true
   },
   {
@@ -230,70 +186,49 @@ export const OBJEK_FOTO = [
     "title": "Orangutan",
     "kw": "orang ?utan",
     "bab": "ipa-01",
-    "file": "objek/orangutan.webp",
-    "views": {
-      "samping": "objek/orangutan-samping.webp"
-    }
+    "file": "objek/orangutan.webp"
   },
   {
     "id": "harimau-sumatra",
     "title": "Harimau Sumatra",
     "kw": "harimau",
     "bab": "ipa-01",
-    "file": "objek/harimau-sumatra.webp",
-    "views": {
-      "samping": "objek/harimau-sumatra-samping.webp"
-    }
+    "file": "objek/harimau-sumatra.webp"
   },
   {
     "id": "badak-jawa",
     "title": "Badak bercula satu",
     "kw": "badak",
     "bab": "ipa-01",
-    "file": "objek/badak-jawa.webp",
-    "views": {
-      "samping": "objek/badak-jawa-samping.webp"
-    }
+    "file": "objek/badak-jawa.webp"
   },
   {
     "id": "cenderawasih",
     "title": "Burung Cenderawasih",
     "kw": "cendrawasih|cenderawasih",
     "bab": "ipa-01",
-    "file": "objek/cenderawasih.webp",
-    "views": {
-      "samping": "objek/cenderawasih-samping.webp"
-    }
+    "file": "objek/cenderawasih.webp"
   },
   {
     "id": "maleo",
     "title": "Maleo",
     "kw": "maleo",
     "bab": "ipa-01",
-    "file": "objek/maleo.webp",
-    "views": {
-      "samping": "objek/maleo-samping.webp"
-    }
+    "file": "objek/maleo.webp"
   },
   {
     "id": "tarsius",
     "title": "Tarsius",
     "kw": "tarsius",
     "bab": "ipa-01",
-    "file": "objek/tarsius.webp",
-    "views": {
-      "samping": "objek/tarsius-samping.webp"
-    }
+    "file": "objek/tarsius.webp"
   },
   {
     "id": "gajah-sumatra",
     "title": "Gajah Sumatra",
     "kw": "gajah",
     "bab": "ipa-01",
-    "file": "objek/gajah-sumatra.webp",
-    "views": {
-      "samping": "objek/gajah-sumatra-samping.webp"
-    }
+    "file": "objek/gajah-sumatra.webp"
   },
   {
     "id": "bintang-laut",
@@ -307,10 +242,7 @@ export const OBJEK_FOTO = [
     "title": "Spons laut",
     "kw": "porifera|spons|karang",
     "bab": "ipa-01",
-    "file": "objek/spons-porifera.webp",
-    "views": {
-      "samping": "objek/spons-porifera-samping.webp"
-    }
+    "file": "objek/spons-porifera.webp"
   },
   {
     "id": "ubur-ubur",
@@ -318,9 +250,6 @@ export const OBJEK_FOTO = [
     "kw": "ubur-ubur",
     "bab": "ipa-01",
     "file": "objek/ubur-ubur.webp",
-    "views": {
-      "samping": "objek/ubur-ubur-samping.webp"
-    },
     "dark": true
   },
   {
@@ -338,20 +267,14 @@ export const OBJEK_FOTO = [
     "title": "Bekicot",
     "kw": "bekicot|siput",
     "bab": "ipa-01",
-    "file": "objek/bekicot.webp",
-    "views": {
-      "samping": "objek/bekicot-samping.webp"
-    }
+    "file": "objek/bekicot.webp"
   },
   {
     "id": "cumi-cumi",
     "title": "Cumi-cumi",
     "kw": "cumi|gurita",
     "bab": "ipa-01",
-    "file": "objek/cumi-cumi.webp",
-    "views": {
-      "samping": "objek/cumi-cumi-samping.webp"
-    }
+    "file": "objek/cumi-cumi.webp"
   },
   {
     "id": "kerang",
@@ -365,40 +288,28 @@ export const OBJEK_FOTO = [
     "title": "Kepiting",
     "kw": "kepiting|udang",
     "bab": "ipa-01",
-    "file": "objek/kepiting.webp",
-    "views": {
-      "samping": "objek/kepiting-samping.webp"
-    }
+    "file": "objek/kepiting.webp"
   },
   {
     "id": "laba-laba",
     "title": "Laba-laba",
     "kw": "laba-laba",
     "bab": "ipa-01",
-    "file": "objek/laba-laba.webp",
-    "views": {
-      "samping": "objek/laba-laba-samping.webp"
-    }
+    "file": "objek/laba-laba.webp"
   },
   {
     "id": "semut",
     "title": "Semut",
     "kw": "\\bsemut",
     "bab": "ipa-01",
-    "file": "objek/semut.webp",
-    "views": {
-      "samping": "objek/semut-samping.webp"
-    }
+    "file": "objek/semut.webp"
   },
   {
     "id": "lebah",
     "title": "Lebah madu",
     "kw": "lebah",
     "bab": "ipa-01",
-    "file": "objek/lebah.webp",
-    "views": {
-      "samping": "objek/lebah-samping.webp"
-    }
+    "file": "objek/lebah.webp"
   },
   {
     "id": "belalang",
@@ -407,7 +318,6 @@ export const OBJEK_FOTO = [
     "bab": "ipa-01",
     "file": "objek/belalang.webp",
     "views": {
-      "samping": "objek/belalang-samping.webp",
       "penampang": "objek/belalang-penampang.webp"
     }
   },
@@ -416,10 +326,7 @@ export const OBJEK_FOTO = [
     "title": "Kecoak",
     "kw": "kecoak?",
     "bab": "ipa-01",
-    "file": "objek/kecoak.webp",
-    "views": {
-      "samping": "objek/kecoak-samping.webp"
-    }
+    "file": "objek/kecoak.webp"
   },
   {
     "id": "capung",
@@ -446,10 +353,7 @@ export const OBJEK_FOTO = [
     "title": "Lalat rumah",
     "kw": "lalat",
     "bab": "ipa-01",
-    "file": "objek/lalat.webp",
-    "views": {
-      "samping": "objek/lalat-samping.webp"
-    }
+    "file": "objek/lalat.webp"
   },
   {
     "id": "daur-kupu-kupu-set",
@@ -480,10 +384,7 @@ export const OBJEK_FOTO = [
     "title": "Kepompong",
     "kw": "kepompong|pupa",
     "bab": "ipa-01",
-    "file": "objek/kepompong.webp",
-    "views": {
-      "samping": "objek/kepompong-samping.webp"
-    }
+    "file": "objek/kepompong.webp"
   },
   {
     "id": "daur-katak-set",
@@ -771,20 +672,14 @@ export const OBJEK_FOTO = [
     "title": "Ikan badut & anemon laut",
     "kw": "anemon|ikan badut",
     "bab": "ipa-01",
-    "file": "objek/ikan-badut-anemon.webp",
-    "views": {
-      "samping": "objek/ikan-badut-anemon-samping.webp"
-    }
+    "file": "objek/ikan-badut-anemon.webp"
   },
   {
     "id": "kerbau-jalak",
     "title": "Kerbau & burung jalak",
     "kw": "kerbau|jalak",
     "bab": "ipa-01",
-    "file": "objek/kerbau-jalak.webp",
-    "views": {
-      "samping": "objek/kerbau-jalak-samping.webp"
-    }
+    "file": "objek/kerbau-jalak.webp"
   },
   {
     "id": "ekosistem-kolam",
@@ -1586,10 +1481,7 @@ export const OBJEK_FOTO = [
     "title": "Sepeda",
     "kw": "sepeda",
     "bab": "ipa-03",
-    "file": "objek/sepeda.webp",
-    "views": {
-      "samping": "objek/sepeda-samping.webp"
-    }
+    "file": "objek/sepeda.webp"
   },
   {
     "id": "roda-berporos-set",

@@ -94,7 +94,13 @@ for (const o of objects) {
   let file = null;
   const slots = approved.get(o.id) ?? [];
   const folder = folderOf.get(o.id);
-  const pick = SLOT_ORDER.map((re) => slots.find((s) => re.test(s))).find(Boolean);
+  // Animals are recognised by their side profile (body shape, legs, tail), not a head-on face:
+  // where the catalog's LEFT/RIGHT views are the full side profile, those lead. Animals with their
+  // own orientation (fish already drawn side-on as FRONT; butterflies, bats with spread wings) keep
+  // the default order.
+  const sideFirst = /LEFT\/RIGHT = full side profile/.test(o.f ?? '');
+  const order = sideFirst ? [...VIEW_ORDER.samping, ...SLOT_ORDER] : SLOT_ORDER;
+  const pick = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
   const publish = (slot, name) => {
     const img = slot && folder && readdirSync(folder).find((f) => f.startsWith(`${slot}.`) && /\.(png|jpe?g|webp)$/i.test(f));
     if (!img) return null;
@@ -108,6 +114,7 @@ for (const o of objects) {
   // section (heart chambers, eye layers) when the soal is about a part rather than the whole.
   const views = {};
   for (const [view, order] of Object.entries(VIEW_ORDER)) {
+    if (view === 'samping' && sideFirst) continue; // the main picture already is the side view
     const slot = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
     const f = file && publish(slot, `${o.id}-${view}`);
     if (f) views[view] = f;
