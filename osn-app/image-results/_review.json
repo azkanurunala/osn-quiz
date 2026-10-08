@@ -4629,19 +4629,19 @@
   },
   "kerang/p04-realistis-kiri.lama": {
     "status": "revisi",
-    "catatan": "Cangkang kima (Tridacna) ditampilkan pada sudut yang hampir sama dengan versi lain di set ini (p05, p09, p10) — tepi bergelombang mantel biru-hijau menghadap ke kiri-atas dengan kemiringan serupa, tidak terlihat rotasi 90° yang jelas dan berbeda dibanding tampak kanan. Karena kima tidak punya 'kepala' yang jelas, orientasi kiri/kanan sulit dibedakan, tapi hasil akhirnya empat tampak (kiri/kanan x realistis/ilustrasi) semuanya terlihat sangat mirip satu sama lain. Saran prompt koreksi (EN): \"Rotate the giant clam shell a clear 90° from the front view so this left-side render is visually distinct from the right-side render — vary the visible angle of the wavy mantle opening and shell ridges.\""
+    "catatan": "GAGAL LAGI (ke-2 kalinya) — cangkang kima (Tridacna) masih ditampilkan pada sudut diagonal 3/4 yang mirip dengan p05 (kanan): oval besar diagonal dari kiri-bawah ke kanan-atas, mantel biru-hijau bergelombang di sisi atas-kiri, lubang sifon di kanan-bawah. Dibanding p05, perbedaan sudut masih tipis/tidak jelas sebagai cerminan 90°. Karena kima tidak punya \"kepala\" yang jelas, sarankan memakai posisi lubang sifon sebagai jangkar orientasi yang konsisten. Correction (EN): \"Rotate the giant clam shell a clear, unambiguous 90° from the front view so the left-side render is visually distinct from the right-side render — use the siphon hole position as a fixed anatomical anchor to make the rotation unambiguous.\""
   },
   "kerang/p05-realistis-kanan.lama": {
     "status": "revisi",
-    "catatan": "Sama seperti p04 — komposisi dan sudut hampir identik dengan p04 (kiri), bukan cerminan 90° yang jelas berbeda. Lihat catatan p04 untuk saran koreksi. Correction: \"Render a true mirror-image right side view of the clam shell, clearly different from the left view, not a near-identical duplicate.\""
+    "catatan": "GAGAL LAGI (ke-2 kalinya) — sama seperti p04: sudut diagonal 3/4 yang mirip dengan p04, bukan cerminan 90° yang jelas berbeda. Correction (EN) sama seperti p04."
   },
   "kerang/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
-    "catatan": "Versi ilustrasi juga menunjukkan masalah yang sama dengan versi realistis: p09 dan p10 (serta p04/p05) nyaris identik satu sama lain, tidak ada diferensiasi sudut pandang 90° yang jelas untuk kiri vs kanan. Warna dan pola gelombang mantel sudah sesuai Tridacna secara ilustratif. Saran prompt koreksi sama seperti p04 (EN di atas). Correction: \"Render a genuine 90-degree left side view of the clam, visually distinct from the right and front views, not a near-duplicate.\""
+    "catatan": "GAGAL LAGI (ke-2 kalinya) — versi ilustrasi kiri dan kanan (p09/p10) nyaris IDENTIK: keduanya menampilkan cangkang simetris tampak depan dengan mantel bergelombang biru-ungu-hijau di tengah, tidak ada rotasi 90° yang membedakan kiri vs kanan. Correction (EN): \"Rotate the clam a clear 90° from the front view so the left-side illustration is visually distinct from the right-side illustration — the current pair look like near-duplicates of a front/symmetric view.\""
   },
   "kerang/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
-    "catatan": "Sama seperti p09 — nyaris identik dengan p09 (kiri), bukan cerminan yang jelas berbeda. Lihat catatan p04/p09 untuk saran koreksi. Correction: \"Render a true mirror-image right side view, clearly different from the left view, not a near-identical duplicate.\""
+    "catatan": "GAGAL LAGI (ke-2 kalinya) — nyaris identik dengan p09 (kiri), bukan cerminan 90° yang jelas berbeda. Correction (EN) sama seperti p09."
   },
   "kerbau-jalak/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
@@ -9154,22 +9154,6 @@
   "kepiting/p08-ilustrasi-belakang": {
     "status": "salah",
     "catatan": "GAGAL LAGI (ke-2 kalinya) — dibandingkan p07-ilustrasi-depan, gambar ini masih nyaris identik: kedua capit besar tetap terbuka penuh dan terlihat jelas menghadap kamera dari atas, bukan tersembunyi di depan tubuh seperti seharusnya pada tampak belakang. Ada elemen flap/lipatan segitiga di bagian bawah tengah (kemungkinan dimaksudkan sebagai telson/abdomen terlipat), tapi karena kedua capit tetap dominan terlihat, tampilan keseluruhan tetap terbaca sebagai tampak depan, bukan belakang. Correction (EN): \"Rotate the crab 180 degrees to a true BACK/REAR view: the two large claws must be hidden in front of the body and NOT visible at all, with only the folded abdominal flap (telson) visible at the rear of the carapace — currently both claws are still fully open and visible, which still reads as a front view.\""
-  },
-  "kerang/p04-realistis-kiri": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) — cangkang kima (Tridacna) masih ditampilkan pada sudut diagonal 3/4 yang mirip dengan p05 (kanan): oval besar diagonal dari kiri-bawah ke kanan-atas, mantel biru-hijau bergelombang di sisi atas-kiri, lubang sifon di kanan-bawah. Dibanding p05, perbedaan sudut masih tipis/tidak jelas sebagai cerminan 90°. Karena kima tidak punya \"kepala\" yang jelas, sarankan memakai posisi lubang sifon sebagai jangkar orientasi yang konsisten. Correction (EN): \"Rotate the giant clam shell a clear, unambiguous 90° from the front view so the left-side render is visually distinct from the right-side render — use the siphon hole position as a fixed anatomical anchor to make the rotation unambiguous.\""
-  },
-  "kerang/p05-realistis-kanan": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) — sama seperti p04: sudut diagonal 3/4 yang mirip dengan p04, bukan cerminan 90° yang jelas berbeda. Correction (EN) sama seperti p04."
-  },
-  "kerang/p09-ilustrasi-kiri": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) — versi ilustrasi kiri dan kanan (p09/p10) nyaris IDENTIK: keduanya menampilkan cangkang simetris tampak depan dengan mantel bergelombang biru-ungu-hijau di tengah, tidak ada rotasi 90° yang membedakan kiri vs kanan. Correction (EN): \"Rotate the clam a clear 90° from the front view so the left-side illustration is visually distinct from the right-side illustration — the current pair look like near-duplicates of a front/symmetric view.\""
-  },
-  "kerang/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-2 kalinya) — nyaris identik dengan p09 (kiri), bukan cerminan 90° yang jelas berbeda. Correction (EN) sama seperti p09."
   },
   "kerbau-jalak/p08-ilustrasi-belakang": {
     "status": "ok",

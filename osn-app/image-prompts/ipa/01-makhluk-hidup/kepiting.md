@@ -145,12 +145,22 @@ Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, h
 View: strict FRONT view, full body. Orientation: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
 ```
 
-### Prompt 8 — Tampak BELAKANG (kirim di chat yang sama setelah Prompt 7)
+### Prompt 8 — Tampak BELAKANG (standalone, bukan lanjutan sesi)
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kepiting/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same mud crab (Scylla serrata) from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of a mud crab (Scylla serrata). Standing. Dark olive-green hard carapace with serrated front edge, two large powerful claws (chelae), four pairs of walking legs, stalked eyes, jointed exoskeleton.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real mud crab (Scylla serrata).
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
+View: strict BACK view, full body. Orientation: the SAME mud crab (Scylla serrata) rotated 180° from the front view so the camera looks at its posterior (rear) end: the two large claws (chelae) are folded down and tucked in FRONT of the body, on the far side away from the camera — they must NOT be visible, not even partially open, from this angle. What fills the frame instead is the smooth rear/posterior margin of the carapace (without the serrated frontal teeth seen from the front), the rearmost walking legs trailing to the sides, and possibly the small flattened rear swimming legs. No eyes, no mouthparts, and no claws should be visible or recognizable in this view — if any claw shape is visible, the image is wrong. This must look clearly different from the front view, not a repeat of it with the claws still open.
 ```
 
 ### Prompt 9 — Tampak KIRI
