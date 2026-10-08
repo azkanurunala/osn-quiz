@@ -71,10 +71,6 @@
     "status": "ok",
     "catatan": "Sudah diperbaiki — versi ilustrasi tampak belakang kini menunjukkan dinding posterior utuh tanpa jendela potongan/rugae, berbeda jelas dari p07-ilustrasi-depan. Masalah versi .lama sudah teratasi."
   },
-  "lidah/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (variasi dari masalah .lama) — p10 (kanan) nyaris identik posenya dengan p09-ilustrasi-kiri (lidah terangkat/melengkung dengan orientasi ujung ke atas-kanan yang sama), bukan mirror sisi kanan yang berbeda. Tekstur papila (filiform, fungiform, baris V papila sirkumvalata) juga masih belum jelas terlihat pada profil ini seperti dikeluhkan sebelumnya. Correction (EN): \"Render a true RIGHT-side profile of the tongue — the mirror image of the LEFT view (p09), not a near-identical pose — with visible papillae texture: filiform, fungiform, and the V-shaped row of circumvallate papillae near the back.\""
-  },
   "jungkat-jungkit/p03-realistis-belakang": {
     "status": "ok",
     "catatan": "Rotasi 180° genuine dari tampak depan (p02): arah kemiringan terbalik (plank tinggi di kanan jadi di kiri), pola noda cat merah/pink di tiap ujung berbeda posisi konsisten dengan sisi berlawanan terlihat. Full body, background putih bersih, tanpa teks."
@@ -4236,20 +4232,20 @@
     "catatan": "3 dari 4 tahap akurat: telur di daun, pupa/kepompong tegak menempel ke ranting dengan girdle sutra (BENAR — pupa swallowtail memang tegak, bukan menggantung terbalik seperti kupu-kupu monarch), kupu-kupu dewasa dengan sayap belakang TANPA ekor (sesuai Papilio demoleus) dan eyespot merah-biru di sayap belakang. Namun pada tahap ulat (ke-2), tanda 'eyespot' (pola mata palsu besar) yang diminta prompt tidak terlihat jelas — hanya tampak bercak-bercak hitam generik, bukan pola mata palsu khas ulat swallowtail. Saran prompt koreksi: \"Redraw the caterpillar (2nd stage) with a clearer, more distinct eyespot marking (a large false 'eye' pattern near the thorax, as in real Papilio demoleus 5th-instar larvae) rather than generic black blotches, so it reads as the characteristic swallowtail-larva eyespot camouflage.\""
   },
   "kepompong/p07-ilustrasi-depan.lama": {
-    "status": "revisi",
-    "catatan": "Set 4-tampak kepompong (p07 depan, p08 belakang, p09 kiri, p10 kanan) semuanya menunjukkan pose dan sudut yang SAMA PERSIS — ranting di kiri, kepompong menempel di kanan ranting dengan lekuk punggung dan pola bintik emas identik di keempat gambar. Tidak ada rotasi 90°/180° yang nyata antar tampak, sehingga keempat file ini secara visual tidak terdiferensiasi meskipun diberi label berbeda. Secara sains bentuk kepompong (menempel tegak dengan girdle sutra, warna hijau dengan bintik emas) sudah sesuai Papilio demoleus. Saran prompt koreksi (EN): \"Regenerate all four views (front/back/left/right) so each one shows a genuinely different rotation of the same chrysalis-on-twig — currently all four renders are nearly identical in pose and angle.\""
+    "status": "salah",
+    "catatan": "MASALAH BARU (lebih parah dari sebelumnya) — file ini bukan satu gambar objek tunggal, melainkan GRID 2x2 berisi 4 salinan kepompong yang hampir identik dalam satu file, padahal prompt mensyaratkan \"ONLY this single object, centered\" untuk tampak depan tunggal. Ini melanggar komposisi secara mendasar (bukan soal rotasi lagi, tapi jumlah/layout objek dalam file). Isi tiap panel sendiri (pupa Papilio hijau menempel tegak pada ranting dengan sabuk sutra, bintik emas) sudah sesuai sains. Correction (EN): \"Regenerate as ONE single centered chrysalis-on-twig object filling the frame — the current output incorrectly contains a 2x2 grid of four near-identical copies in one image; this file must show only one object, one view.\""
   },
   "kepompong/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
-    "catatan": "Identik dengan p07/p09/p10 — tidak menunjukkan rotasi 180° dari tampak depan (ranting dan kepompong pada posisi serta sudut yang sama persis). Lihat catatan p07 untuk detail dan saran koreksi. Correction: \"Render a genuine 180-degree back view of the chrysalis and twig, clearly different in angle from the front view, not an identical duplicate.\""
+    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — pose dan sudut ranting+kepompong nyaris IDENTIK dengan p09 (kiri) dan p10 (kanan): posisi ranting bercabang di kiri-atas, kepompong menggantung ke kanan dengan lekuk dan pola bintik emas yang sama, tidak ada rotasi 90°/180° yang nyata untuk membedakan depan/belakang/kiri/kanan. (Catatan: p07 pada sesi ini memiliki masalah berbeda — grid 4 panel dalam satu file — jadi perbandingan langsung dengan p07 sulit dilakukan, tapi dibandingkan p09/p10 jelas tidak terdiferensiasi.) Correction (EN): \"Render a genuine 180-degree back view clearly different in angle/silhouette from the left and right views — currently p08/p09/p10 all show the same twig-and-chrysalis pose and angle.\""
   },
   "kepompong/p09-ilustrasi-kiri.lama": {
     "status": "revisi",
-    "catatan": "Identik dengan p07/p08/p10 — tidak menunjukkan rotasi 90° dari tampak depan. Lihat catatan p07 untuk detail dan saran koreksi. Correction: \"Render a genuine 90-degree left side view, clearly different in angle from the front view, not an identical duplicate.\""
+    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — nyaris identik dengan p08 dan p10 dalam pose, sudut ranting, dan bentuk kepompong; tidak ada rotasi 90° yang nyata. Correction (EN): \"Render a genuine 90-degree left side view, visibly different in angle from the back and right views — currently near-identical to both.\""
   },
   "kepompong/p10-ilustrasi-kanan.lama": {
     "status": "revisi",
-    "catatan": "Identik dengan p07/p08/p09 — tidak menunjukkan rotasi 90° (seharusnya cerminan dari p09), tetap sudut yang sama persis. Lihat catatan p07 untuk detail dan saran koreksi. Correction: \"Render a genuine 90-degree right side view that mirrors the left view, not an identical duplicate of the front.\""
+    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — nyaris identik dengan p08 dan p09; seharusnya cerminan dari p09 tapi tidak menunjukkan sudut yang berbeda secara jelas. Correction (EN): \"Render a genuine 90-degree right side view that is a true mirror of the left view — currently near-identical to both the back and left renders.\""
   },
   "kupu-kupu/p01-realistis-turnaround.lama": {
     "status": "salah",
@@ -4784,20 +4780,20 @@
     "catatan": "Lobus kanan (lebih besar) berada di sisi KIRI gambar dan lobus kiri (lebih kecil) di sisi KANAN gambar — ini SESUAI konvensi anatomis yang diminta prompt (sisi kiri pasien = kanan gambar, lobus kanan lebih besar ada di sisi kiri gambar). Kantong empedu (hijau) terlihat di area bawah-tengah yang konsisten dengan posisi di bawah lobus kanan. Namun ada BENJOLAN KUNING tambahan di sebelah kantong empedu hijau yang tidak disebutkan di daftar bagian prompt (gallbladder, bile ducts, portal vein ungu, hepatic artery merah, hepatic veins biru) — tidak jelas benjolan kuning ini mewakili apa. Karena ini organ dalam manusia, PERLU dicek oleh guru sains untuk memastikan struktur kuning tersebut akurat (mungkin dimaksudkan sebagai duktus sistikus/empedu tapi warnanya tidak sesuai kode warna prompt). Saran prompt koreksi (EN): \"Clarify or remove the extra yellow blob next to the green gallbladder — if it represents the cystic duct or bile duct, color it according to the bile duct description (greenish tubes), not a separate yellow shape.\""
   },
   "hati-empedu/p04-realistis-kiri.lama": {
-    "status": "revisi",
-    "catatan": "Dibandingkan dengan p05 (kanan), komposisi gambar ini nyaris identik (bentuk baji hati dengan ujung lancip ke kanan gambar, kubah bulat di kiri, kantong empedu+pembuluh terlihat di bawah-tengah) — tidak menunjukkan cerminan kiri-kanan yang jelas berbeda arah sesuai definisi prompt ('the organ's own left and right lateral sides', seharusnya p04 dan p05 adalah cerminan satu sama lain). Perlu verifikasi guru sains juga untuk memastikan profil ini benar mewakili sisi kiri organ hati. Saran prompt koreksi (EN): \"Regenerate the LEFT lateral view as a genuine mirror of the right lateral view — if the right view shows the wedge tip pointing one direction, the left view must point the opposite direction, not the same composition repeated.\""
+    "status": "salah",
+    "catatan": "GAGAL rotasi 90 derajat — pola gagal yang sudah diketahui. p04 (kiri) komposisinya nyaris identik dengan p02 (depan): lobus kanan besar tetap di kiri gambar, kantong empedu dan pembuluh tetap terlihat di posisi yang sama seperti tampak depan, bukan silhouette profil samping sejati. Dari sisi (lateral) seharusnya hati terlihat sebagai irisan yang jauh lebih sempit/berbeda siluet, dan kantong empedu/pembuluh pada permukaan viseral seharusnya TIDAK terlihat dari profil murni. Perlu regenerasi ulang sebagai true 90-degree left lateral profile. Saran prompt koreksi: \"Rotate the SAME liver model exactly 90 degrees to a true LEFT LATERAL profile view — a narrow side silhouette very different from the front view, not a repeat of the anterior composition. The gallbladder and portal vessels on the visceral surface should NOT be visible from a pure lateral angle; show only the smooth diaphragmatic surface silhouette from the side.\""
   },
   "hati-empedu/p05-realistis-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Sama seperti p04 — nyaris identik dengan p04 (kiri), bukan cerminan yang jelas berbeda arah. Lihat catatan p04 untuk saran koreksi. Perlu verifikasi guru sains. Correction: \"Render a true mirror-image right side view of the liver and gallbladder, clearly different from the left view.\""
+    "status": "salah",
+    "catatan": "Sama seperti p04 — GAGAL rotasi 90 derajat, pola gagal yang sudah diketahui dari review sebelumnya. p05 (kanan) nyaris duplikat p02 (depan) dan p04 (kiri): siluet dua-lobus yang sama, kantong empedu dan pembuluh di posisi yang sama, bukan mirror/profil lateral kanan sejati 90 derajat. Perlu regenerasi ulang. Saran prompt koreksi: \"Rotate the SAME liver model exactly 90 degrees to a true RIGHT LATERAL profile view, mirrored from the left-side view and clearly different in silhouette from the front/anterior composition — not a repeat of the anterior view.\""
   },
   "hati-empedu/p09-ilustrasi-kiri.lama": {
-    "status": "revisi",
-    "catatan": "Gambar ini menunjukkan tampak DEPAN hati (simetris, pembuluh darah di atas-tengah, kantong empedu di bawah-tengah) — bukan profil 90° dari sisi kiri organ sesuai definisi prompt. Tidak ada rotasi yang nyata dari tampak depan. Perlu verifikasi guru sains. Saran prompt koreksi (EN): \"Rotate the liver 90° to show a true LEFT lateral profile (narrower silhouette, vessels and gallbladder seen from the side) — this must look clearly different from the symmetric front view.\""
+    "status": "salah",
+    "catatan": "Sama pola gagal duplikat seperti versi realistis: p09 (kiri) secara komposisi nyaris identik dengan tampak depan (dua lobus dibagi ligamentum, kantong empedu hijau & pembuluh di posisi sama) — bukan profil lateral 90 derajat sejati. Perlu regenerasi. Saran prompt koreksi: \"Rotate the SAME liver illustration exactly 90 degrees to a true LEFT LATERAL side silhouette, clearly different in outline from the front view — not a near-duplicate of the anterior composition.\""
   },
   "hati-empedu/p10-ilustrasi-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Masalah sama dengan p09: menunjukkan tampak depan yang simetris, bukan profil 90° dari sisi kanan, dan nyaris identik dengan p09 (tidak terdiferensiasi sebagai cerminan). Perlu verifikasi guru sains. Saran prompt koreksi sama seperti p09 (EN di atas). Correction: \"Render a genuine 90-degree right side profile that mirrors the left view, not a symmetric front-like duplicate.\""
+    "status": "salah",
+    "catatan": "Sama pola gagal duplikat: p10 (kanan) nyaris identik dengan p09 (kiri) dan tampak depan — bukan mirror/profil lateral kanan 90 derajat sejati, hanya variasi ukuran/zoom kecil dari komposisi yang sama. Perlu regenerasi. Saran prompt koreksi: \"Rotate the SAME liver illustration exactly 90 degrees to a true RIGHT LATERAL side silhouette, mirrored from the left-side view and clearly different in outline from the front view.\""
   },
   "hati-empedu/p11-penampang-belah.lama": {
     "status": "revisi",
@@ -4816,16 +4812,16 @@
     "catatan": "Masih bermasalah sama seperti catatan .lama sebelumnya: tampak 'kiri' ini didominasi oleh sebuah pembuluh biru vertikal besar (menyerupai vena cava, struktur yang anatomisnya ada di sisi KANAN jantung) dan dua lubang bundar merah (kemungkinan ujung potongan vena pulmonalis), BUKAN permukaan ventrikel kiri yang halus dan berotot yang seharusnya mendominasi tampak lateral kiri sejati. Identitas struktur tabung/lubang ini ambigu dan berisiko mengajarkan anatomi jantung yang keliru. WAJIB dicek oleh guru sains sebelum dipakai. Saran prompt koreksi (EN): \"Render a true left lateral view of the heart dominated by the smooth muscular surface of the LEFT VENTRICLE and the left auricle — do NOT show a prominent vena-cava-like blue tube or open vessel-stump holes, which belong on the right side, not the left.\""
   },
   "jantung/p08-ilustrasi-belakang.lama": {
-    "status": "revisi",
-    "catatan": "Tampak belakang jantung seharusnya didominasi oleh ATRIUM KIRI dan vena-vena pulmonalis yang masuk ke dalamnya (permukaan posterior), BUKAN lengkungan aorta dan trunkus pulmonalis yang menonjol simetris seperti yang terlihat di gambar ini — komposisi ini lebih menyerupai tampak depan (anterior) yang diulang, dengan kedua aurikel atrium terlihat jelas di kedua sisi seperti pada tampak depan. Ini berisiko mengajarkan konsep anatomi jantung posterior yang salah ke siswa. WAJIB dicek oleh guru sains. Saran prompt koreksi (EN): \"Redraw the posterior (back) view to be dominated by the LEFT ATRIUM with the four pulmonary veins entering it and the coronary sinus — NOT a repeat of the anterior arrangement with the aortic arch and pulmonary trunk prominent.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI setelah regenerate — persis pola kegagalan yang sudah ditandai di entri .lama sebelumnya. Dibandingkan p07 (depan, sudah ok), gambar ini nyaris identik: posisi kedua aurikel atrium (simetris kiri-kanan), lengkung aorta dan trunkus pulmonalis di atas, bahkan pola percabangan pembuluh koroner di permukaan nyaris sama persis. Tampak belakang jantung seharusnya didominasi ATRIUM KIRI dengan vena-vena pulmonalis masuk ke dalamnya (permukaan posterior), bukan pengulangan susunan anterior. Ini mengajarkan konsep anatomi posterior jantung yang salah. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Redraw the posterior (back) view to be dominated by the LEFT ATRIUM with the four pulmonary veins entering it and the coronary sinus — this must look clearly different in silhouette and vessel arrangement from the anterior (front) view, not a near-duplicate.\""
   },
   "jantung/p09-ilustrasi-kiri.lama": {
-    "status": "revisi",
-    "catatan": "Komposisi ini terlihat nyaris identik dengan p08 (belakang) — kedua aurikel atrium simetris terlihat jelas di kedua sisi, pembuluh besar tersebar merata seperti tampak depan — bukan profil 90° dari sisi kiri jantung yang seharusnya didominasi oleh permukaan VENTRIKEL KIRI. Tidak ada diferensiasi rotasi yang jelas antara p08 dan p09. WAJIB dicek oleh guru sains. Saran prompt koreksi (EN): \"Redraw the LEFT lateral view to be dominated by the left ventricle's muscular surface and the left auricle, clearly different in silhouette from both the front and back views — not a near-duplicate of the back view.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI setelah regenerate — sama seperti p08, komposisi ini nyaris identik dengan p07 (depan) dan p08 (belakang): kedua aurikel atrium simetris, lengkung pembuluh besar sama, pola percabangan koroner sama. Seharusnya profil lateral kiri 90 derajat, didominasi permukaan VENTRIKEL KIRI yang berotot dan aurikel kiri, bentuk siluet jelas berbeda dari depan/belakang. Set ilustrasi jantung (p08, p09, p10) semuanya gagal menunjukkan rotasi yang nyata berbeda satu sama lain — tidak ada perubahan dari masalah yang sama di versi .lama. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Redraw the LEFT lateral view to be dominated by the left ventricle's muscular surface and the left auricle, clearly different in silhouette from the front and back views, not a near-duplicate.\""
   },
   "jantung/p10-ilustrasi-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Komposisi ini terlihat nyaris identik dengan p08 (belakang) dan p09 (kiri) yang sudah ditandai revisi sebelumnya — kedua aurikel atrium simetris terlihat jelas di kedua sisi, pembuluh besar tersebar merata seperti tampak depan, bukan profil 90° dari sisi KANAN jantung yang seharusnya didominasi permukaan VENTRIKEL KANAN dan atrium kanan. Set jantung ilustrasi (p08, p09, p10) semuanya gagal menunjukkan rotasi yang nyata berbeda satu sama lain. WAJIB dicek oleh guru sains. Correction: \"Render a true right-side profile of the heart dominated by the right ventricle and right atrium, visually distinct from the back and left views, not a near-duplicate.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI setelah regenerate — sama seperti p08 dan p09, komposisi ini nyaris identik dengan p07/p08/p09: susunan aurikel, pembuluh besar, dan percabangan koroner sama persis seperti tampak depan. Seharusnya profil lateral kanan 90 derajat (mirror dari kiri), didominasi permukaan VENTRIKEL KANAN dan atrium kanan. Seluruh set p08-p10 tidak menunjukkan diferensiasi rotasi sama sekali — persis masalah yang sudah ditandai di versi .lama sebelumnya, tidak ada perbaikan nyata. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Render a true right lateral view of the heart dominated by the right ventricle and right atrium, visually distinct in silhouette from the front, back, and left views, not a near-duplicate.\""
   },
   "lambung/p03-realistis-belakang.lama": {
     "status": "revisi",
@@ -4856,8 +4852,8 @@
     "catatan": "Pelanggaran ganda: (1) Prompt mewajibkan ZERO TEXT, tapi gambar ini penuh label teks tertulis langsung di gambar: \"Cardiac sphincter\", \"Fundus\", \"Pyloric\", \"Duounem start\". (2) \"Duounem\" adalah SALAH EJA untuk \"Duodenum\" (huruf 'd' kedua hilang) — istilah anatomi yang salah ini berisiko langsung mengajarkan ejaan keliru ke siswa. Struktur anatomis yang digambarkan sendiri (sfingter kardiak dekat esofagus, fundus di kubah atas, sfingter pilorus di ujung bawah sebelum duodenum, lipatan rugae, lapisan dinding) tampak proporsional dan posisinya masuk akal. Karena ada kesalahan ejaan istilah medis yang jelas dan pelanggaran zero-text, status SALAH. WAJIB dicek guru sains sebelum dipakai. Saran prompt koreksi (EN): \"Remove ALL text labels from the image completely — no words like 'Cardiac sphincter', 'Fundus', 'Pyloric', 'Duodenum' or any other text. Keep only the empty leader-line circles for labels to be added later externally.\""
   },
   "lidah/p10-ilustrasi-kanan.lama": {
-    "status": "revisi",
-    "catatan": "Bentuk yang dihasilkan tidak mudah dikenali sebagai profil lidah yang jelas — tampak seperti bentuk memanjang dengan lipatan/kait di bagian atas (mungkin dimaksudkan sebagai pangkal lidah/epiglotis) dan garis biru tipis di bagian bawah (kemungkinan frenulum/vena sesuai deskripsi prompt), tapi tekstur papila (filiform, fungiform, barisan V papila sirkumvalata) yang diminta prompt tidak terlihat jelas pada profil ini. Karena ini anatomi indera pengecap dan hasilnya ambigu, PERLU dicek oleh guru sains untuk memastikan profil ini benar mewakili sisi kanan lidah manusia. Correction: \"Render a clearer right-side profile of the tongue showing visible papillae texture: filiform, fungiform, and the V-shaped row of circumvallate papillae near the back.\""
+    "status": "salah",
+    "catatan": "GAGAL LAGI (variasi dari masalah .lama) — p10 (kanan) nyaris identik posenya dengan p09-ilustrasi-kiri (lidah terangkat/melengkung dengan orientasi ujung ke atas-kanan yang sama), bukan mirror sisi kanan yang berbeda. Tekstur papila (filiform, fungiform, baris V papila sirkumvalata) juga masih belum jelas terlihat pada profil ini seperti dikeluhkan sebelumnya. Correction (EN): \"Render a true RIGHT-side profile of the tongue — the mirror image of the LEFT view (p09), not a near-identical pose — with visible papillae texture: filiform, fungiform, and the V-shaped row of circumvallate papillae near the back.\""
   },
   "pankreas/p02-realistis-depan.lama": {
     "status": "revisi",
@@ -6456,20 +6452,20 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kubus/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Bangun yang digambar punya 12 titik sudut merah dan siluet segi enam (seperti prisma segi enam/kubus terpotong), bukan kubus 8 titik sudut. Menyesatkan untuk soal menghitung titik sudut dan rusuk. Koreksi: \"Draw a true cube: exactly 8 vertices (red spheres), 12 edges, 6 square faces. Front face is a square seen face-on; the back face is the same-size square offset slightly up, connected by 4 short edges. No extra corners, no chamfered or hexagonal outline.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-mtk.mjs), bukan Gemini. Isi: kubus: tepat 8 titik sudut (bola merah), 12 rusuk biru, rusuk tersembunyi putus-putus; diproyeksikan dari koordinat 3D, sedikit diputar agar 8 titik sudut terpisah. Keempat tampak ilustrasi dibuat vektor supaya seragam. Diperiksa visual."
   },
   "kubus/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "Sama dengan p07: 12 titik sudut dan siluet segi enam, bukan kubus (8 titik sudut). Koreksi: \"Draw a true cube: exactly 8 vertices (red spheres), 12 edges, 6 square faces. Front face is a square seen face-on; the back face is the same-size square offset slightly up, connected by 4 short edges. No extra corners, no chamfered or hexagonal outline.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-mtk.mjs), bukan Gemini. Isi: kubus: tepat 8 titik sudut (bola merah), 12 rusuk biru, rusuk tersembunyi putus-putus; diproyeksikan dari koordinat 3D, sedikit diputar agar 8 titik sudut terpisah. Keempat tampak ilustrasi dibuat vektor supaya seragam. Diperiksa visual."
   },
   "kubus/p09-ilustrasi-kiri": {
     "status": "ok",
-    "catatan": "Lolos: 8 titik sudut, 12 rusuk, sisi depan persegi, kamera sedikit di atas sesuai prompt, latar putih, tanpa teks."
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-mtk.mjs), bukan Gemini. Isi: kubus: tepat 8 titik sudut (bola merah), 12 rusuk biru, rusuk tersembunyi putus-putus; diproyeksikan dari koordinat 3D, sedikit diputar agar 8 titik sudut terpisah. Keempat tampak ilustrasi dibuat vektor supaya seragam. Diperiksa visual."
   },
   "kubus/p10-ilustrasi-kanan": {
     "status": "ok",
-    "catatan": "Lolos: 8 titik sudut, 12 rusuk, sisi depan persegi, konsisten dengan p09 (kubus simetris), latar putih, tanpa teks."
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-mtk.mjs), bukan Gemini. Isi: kubus: tepat 8 titik sudut (bola merah), 12 rusuk biru, rusuk tersembunyi putus-putus; diproyeksikan dari koordinat 3D, sedikit diputar agar 8 titik sudut terpisah. Keempat tampak ilustrasi dibuat vektor supaya seragam. Diperiksa visual."
   },
   "hydrilla-ingenhousz/p01-realistis-depan.lama": {
     "status": "salah",
@@ -6616,36 +6612,36 @@
     "catatan": "Lolos: konsisten."
   },
   "limas-segitiga/p02-realistis-depan": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "prisma-segitiga/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Bangun berbentuk rumah (persegi + atap) dengan 9 titik sudut — itu prisma segi lima, bukan prisma segitiga (6 titik sudut). Menyesatkan. Koreksi: \"Triangular prism: exactly 2 triangular end faces and 3 rectangular faces, 6 vertices, 9 edges. LEFT view shows one triangular end face head-on as a plain triangle — no square body under the triangle.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "akuarium/p07-ilustrasi-depan": {
     "status": "ok",
@@ -6700,8 +6696,8 @@
     "catatan": "Lolos: tandon silinder biru bergerigi dengan tutup ulir dan cincin penguat, keran di bawah (tampak dari depan/samping sesuai arah), tanpa merek, latar putih."
   },
   "jaring-jaring-kubus/p01-realistis-depan": {
-    "status": "salah",
-    "catatan": "Jaring-jaring di kiri hanya terdiri dari 5 persegi (atas 1, tengah 3, bawah 1) — itu jaring kotak terbuka, bukan kubus (6 sisi). Kubus setengah terlipat di kanan juga terbuka di atas dan tiap sisinya terbagi 4. Menyesatkan untuk soal jaring-jaring. Koreksi: \"Left: a flat cross-shaped net of exactly SIX equal squares (one column of four squares with one square on each side of the second square). Right: the same six-square net partly folded. Each face is one plain square, no grid lines.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: jaring 6 persegi bentuk salib + kubus terlipat; warna sisi kubus (atas, depan, kanan) cocok dengan jaringnya. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "lup/p02-realistis-depan": {
     "status": "ok",
@@ -7196,36 +7192,36 @@
     "catatan": "Lolos: konsisten."
   },
   "dadu/p02-realistis-depan": {
-    "status": "salah",
-    "catatan": "Kedua dadu memperlihatkan angka 5 di sisi depan dan sisi atas sekaligus — satu dadu tidak mungkin punya dua sisi bernilai sama. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "Sisi atas dadu kanan punya 8 titik (tidak ada di dadu standar 1–6). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "Dadu yang miring memperlihatkan dua sisi bernilai 5; susunan titik tidak sesuai dadu standar. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Dadu yang miring memperlihatkan dua sisi bernilai 5; susunan titik tidak sesuai dadu standar. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Dadu kiri: angka 1 muncul di sisi depan dan atas sekaligus. Dadu kanan: sisi 3 dan 4 terlihat bersebelahan, padahal keduanya berseberangan (3 + 4 = 7). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "Dadu kiri: sisi 3 dan 4 terlihat bersebelahan, padahal berseberangan (3 + 4 = 7). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Dadu kiri: angka 1 muncul dua kali; dadu kanan: angka 3 muncul dua kali. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "dadu/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "Dadu kiri punya sisi depan kosong (0 titik); dadu kanan: sisi 3 dan 4 bersebelahan. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: dua dadu standar: sisi berseberangan berjumlah 7, tidak ada angka ganda atau sisi berseberangan yang tampak bersamaan; tampak diproyeksikan dari 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "celengan/p02-realistis-depan": {
     "status": "ok",
@@ -7380,16 +7376,16 @@
     "catatan": "Lolos: kelereng kaca kelompok merah, biru, hijau dan kantong serut krem terbuka, latar putih, tanpa teks."
   },
   "pizza-pecahan/p01-realistis-atas": {
-    "status": "salah",
-    "catatan": "Potongan pizza tidak sama besar (garis potong tidak berasal dari satu titik pusat dan lebar irisan berbeda-beda), padahal objek ini dipakai untuk soal pecahan 1/8. Menyesatkan. Koreksi: \"Exactly 8 equal 45° wedges, all cut lines passing through the exact center, one wedge pulled slightly away from the rest.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-mtk.mjs), bukan Gemini. Isi: pizza 8 irisan sama besar (45°), semua garis potong melalui pusat, satu irisan ditarik keluar. Diperiksa visual."
   },
   "pizza-pecahan/p02-ilustrasi-atas": {
     "status": "ok",
     "catatan": "Lolos: 8 irisan dari satu titik pusat, ukuran tampak sama, satu irisan ditarik keluar, topping sesuai, latar putih, tanpa teks."
   },
   "sempoa/p02-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Tiap batang punya 3 manik di atas dan 5 di bawah — itu bukan soroban (1 atas + 4 bawah). Menyesatkan untuk soal nilai manik sempoa. Koreksi: \"Japanese soroban: exactly ONE bead above the divider beam and FOUR beads below it on every rod; 13 rods.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 13 batang, tiap batang 1 manik atas + 4 manik bawah (soroban), posisi nol, titik satuan tiap 3 batang. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "benda-lingkaran-set/p01-realistis-depan": {
     "status": "ok",
@@ -7592,20 +7588,20 @@
     "catatan": "Lolos: papan pasak kayu dengan karet membentuk segitiga (merah), persegi panjang (biru), dan trapesium (hijau), sudut tepat di pasak, latar putih, tanpa teks. Catatan kecil: grid sedikit lebih dari 7×7, tidak memengaruhi konsep."
   },
   "jam-analog/p01-realistis-depan": {
-    "status": "salah",
-    "catatan": "Jarum jam menunjukkan sekitar pukul 10.10, bukan tepat pukul 3.00 seperti prompt. Objek ini dipakai untuk soal sudut jarum jam (pukul 3 = 90°), jadi gambar ini menyesatkan. Koreksi: \"Hands set at exactly 3:00 — the minute hand points straight up at 12, the shorter hour hand points straight right at 3, forming a 90° angle; red second hand pointing at 12.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tepat pukul 3.00: jarum pendek ke angka 3, jarum panjang ke 12 (sudut 90°), 12 penanda jam + 60 penanda menit, tanpa angka. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "jam-analog/p02-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Jarum jam menunjukkan sekitar pukul 10.10, bukan tepat pukul 3.00 seperti prompt. Objek ini dipakai untuk soal sudut jarum jam (pukul 3 = 90°), jadi gambar ini menyesatkan. Koreksi: \"Hands set at exactly 3:00 — the minute hand points straight up at 12, the shorter hour hand points straight right at 3, forming a 90° angle; red second hand pointing at 12.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tepat pukul 3.00: jarum pendek ke angka 3, jarum panjang ke 12 (sudut 90°), 12 penanda jam + 60 penanda menit, tanpa angka. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "tangram/p01-realistis-atas": {
-    "status": "salah",
-    "catatan": "Potongan bukan tangram baku: ada trapesium dan persegi panjang/segi lima, dan jumlah serta ukuran segitiga tidak sesuai (tangram = 2 segitiga besar, 1 segitiga sedang, 2 segitiga kecil, 1 persegi, 1 jajargenjang). Menyesatkan untuk soal bagian/luas tangram. Koreksi: \"Classic 7-piece tangram assembled into a square: two large right isosceles triangles (each 1/4 of the square), one medium triangle (1/8), two small triangles (1/16 each), one square (1/8) and one parallelogram (1/8), in the standard arrangement, each piece a different color.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 7 keping tangram baku (2 segitiga besar, 1 sedang, 2 kecil, 1 persegi, 1 jajargenjang) tersusun persegi, luas 4+4+2+2+2+1+1=16. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "tangram/p02-ilustrasi-atas": {
-    "status": "salah",
-    "catatan": "Potongan bukan tangram baku: ada trapesium dan persegi panjang/segi lima, dan jumlah serta ukuran segitiga tidak sesuai (tangram = 2 segitiga besar, 1 segitiga sedang, 2 segitiga kecil, 1 persegi, 1 jajargenjang). Menyesatkan untuk soal bagian/luas tangram. Koreksi: \"Classic 7-piece tangram assembled into a square: two large right isosceles triangles (each 1/4 of the square), one medium triangle (1/8), two small triangles (1/16 each), one square (1/8) and one parallelogram (1/8), in the standard arrangement, each piece a different color.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 7 keping tangram baku (2 segitiga besar, 1 sedang, 2 kecil, 1 persegi, 1 jajargenjang) tersusun persegi, luas 4+4+2+2+2+1+1=16. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "alat-ukur-panjang-set/p01-realistis-depan": {
     "status": "ok",
@@ -7728,28 +7724,28 @@
     "catatan": "Profil samping mirror dari kiri, wajah terpoles di tepi kanan, kerak fusi gelap mendominasi -- sesuai spesifikasi side profile, konsisten dengan spesimen yang sama."
   },
   "speedometer/p01-realistis-depan": {
-    "status": "salah",
-    "catatan": "Angka pada dial tidak berurutan (mis. 20, 30, 50, 60, 120, 100, 140, 120, 100) dan ada tulisan/angka odometer, padahal prompt melarang teks/angka. Skala yang kacau menyesatkan untuk soal membaca kecepatan. Koreksi: \"Speedometer dial with ONLY white tick marks (major and minor), no printed numbers, no letters, no MPH/km/h text, odometer window blurred; orange needle on a center hub.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: speedometer analog tanpa angka/teks: penanda skala 270° berurutan, jarum oranye, jendela odometer kosong. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "speedometer/p02-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Angka pada dial tidak berurutan (mis. 20, 30, 50, 60, 120, 100, 140, 120, 100) dan ada tulisan/angka odometer, padahal prompt melarang teks/angka. Skala yang kacau menyesatkan untuk soal membaca kecepatan. Koreksi: \"Speedometer dial with ONLY white tick marks (major and minor), no printed numbers, no letters, no MPH/km/h text, odometer window blurred; orange needle on a center hub.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: speedometer analog tanpa angka/teks: penanda skala 270° berurutan, jarum oranye, jendela odometer kosong. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "spinner/p01-realistis-atas": {
-    "status": "salah",
-    "catatan": "Spinner terbagi 12 juring, bukan 8 juring sama besar seperti prompt (dan ada warna berulang). Objek ini dipakai untuk soal peluang (1/8), jadi gambar ini menyesatkan. Koreksi: \"Exactly 8 equal 45° sectors, one each in red, orange, yellow, green, teal, blue, purple, pink — no repeated colors — with a black arrow on a center pivot.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 8 juring sama besar (45°) dengan 8 warna berbeda, panah menunjuk tengah juring. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "spinner/p02-ilustrasi-atas": {
-    "status": "salah",
-    "catatan": "Spinner terbagi 12 juring, bukan 8 juring sama besar seperti prompt (dan ada warna berulang). Objek ini dipakai untuk soal peluang (1/8), jadi gambar ini menyesatkan. Koreksi: \"Exactly 8 equal 45° sectors, one each in red, orange, yellow, green, teal, blue, purple, pink — no repeated colors — with a black arrow on a center pivot.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 8 juring sama besar (45°) dengan 8 warna berbeda, panah menunjuk tengah juring. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "kartu-bernomor/p01-realistis-depan": {
-    "status": "salah",
-    "catatan": "Kantong hanya berisi 8 bola (3 merah, 3 biru, 2 kuning), padahal prompt: 5 merah, 3 biru, 2 kuning (10 bola). Soal peluang mengambil bola memakai komposisi ini, jadi gambar menyesatkan. Kartu kosong di kiri sudah benar. Koreksi: \"The clear bag holds exactly 10 clearly countable ping-pong balls: 5 red, 3 blue, 2 yellow, none hidden behind others.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: kipas 5 kartu kosong + kantong berisi tepat 10 bola: 5 merah, 3 biru, 2 kuning, tidak saling menutupi. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "kartu-bernomor/p02-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Kantong berisi 8 bola (4 merah, 2 biru, 2 kuning), bukan 5 merah, 3 biru, 2 kuning. Menyesatkan untuk soal peluang. Koreksi: \"The clear bag holds exactly 10 clearly countable ping-pong balls: 5 red, 3 blue, 2 yellow, none hidden behind others.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: kipas 5 kartu kosong + kantong berisi tepat 10 bola: 5 merah, 3 biru, 2 kuning, tidak saling menutupi. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "timbangan-set/p01-realistis-depan": {
     "status": "ok",
@@ -7808,28 +7804,16 @@
     "catatan": "Lolos: konsisten dengan kiri."
   },
   "susunan-pola-bola/p02-ilustrasi-atas": {
-    "status": "salah",
-    "catatan": "Kelompok yang tampak 3, 6, dan 6–7 manik, bukan bilangan segitiga 1, 3, 6, 10; manik juga diberi angka acak (1, 5, 3, 6, 2, 10, 4…) padahal prompt melarang angka. Menyesatkan untuk soal pola bilangan segitiga. Koreksi: \"Four separate triangular groups left to right with exactly 1, 3, 6 and 10 plain wooden beads (rows 1 / 1-2 / 1-2-3 / 1-2-3-4), beads touching, no numbers or marks on any bead.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: bilangan segitiga 1, 3, 6, 10 manik kayu, tanpa angka. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "timbangan-aljabar/p02-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Piring kanan hanya berisi 4 kubus (prompt: 5) dan kedua piring tidak sejajar (kiri lebih rendah). Soal 'kantong + 2 = 5' jadi tidak cocok dengan gambar. Koreksi: \"Left pan: one closed paper bag plus exactly 2 wooden cubes; right pan: exactly 5 identical wooden cubes, all visible; beam perfectly horizontal and both pans at exactly the same height (equilibrium).\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: neraca seimbang: kiri kantong tertutup + 2 kubus, kanan 5 kubus, kedua piring sejajar. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "neptunus/p02-realistis-depan": {
     "status": "salah",
     "catatan": "Bentuk planet terlihat seperti telur/buah pir (melebar di atas, menyempit meruncing di bawah), BUKAN bola sempurna seperti yang diminta prompt ('the planet Neptune as a full sphere'). Ini bukan sekadar pemipihan kutub wajar (oblateness Neptunus sangat kecil, ~1.7%) melainkan distorsi geometri yang signifikan dan menyesatkan secara sains (planet harus bulat). Badai gelap oval (Great Dark Spot) dan garis sirus metana putih sudah sesuai warna. Prompt koreksi: \"Regenerate Neptune as a PERFECT SPHERE (perfectly circular silhouette from this orthographic front view, only very slight polar flattening ~1.7%) -- remove the egg/pear-shaped distortion where the bottom is narrower than the top.\""
-  },
-  "neptunus/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "Sama seperti tampak depan: bentuk planet seperti telur/pir, bukan bola sempurna -- distorsi geometri signifikan. Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped.\""
-  },
-  "neptunus/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "Sama seperti tampak lain: bentuk planet seperti telur/pir, bukan bola sempurna. Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped.\""
-  },
-  "neptunus/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Sama seperti tampak lain: bentuk planet seperti telur/pir, bukan bola sempurna (juga nyaris tanpa fitur awan, sangat polos). Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped, and include some visible cloud streak texture consistent with the other views.\""
   },
   "perubahan-fisika-set/p01-realistis-depan": {
     "status": "ok",
@@ -8311,38 +8295,6 @@
     "status": "ok",
     "catatan": "Tampak samping kiri menunjukkan kelengkungan cermin cembung (menonjol keluar) dengan bingkai oranye dan tiang abu-abu di belakang, sesuai dengan sifat optik cermin cembung. Tidak ada teks, background bersih, full body (tiang terlihat sampai bawah), bukan sudut 3/4."
   },
-  "bulan/p02-realistis-depan": {
-    "status": "salah",
-    "catatan": "Bagian dari kuartet realistis (p02 depan, p03 belakang, p04 kiri, p05 kanan) yang pola kawah dan mare-nya IDENTIK/nyaris identik satu sama lain, padahal keempatnya harus menunjukkan hemisfer Bulan yang berbeda signifikan: sisi dekat (depan) kaya mare gelap luas, sisi jauh (belakang) nyaris seluruhnya dataran tinggi terang berkawah TANPA mare besar, dan kiri/kanan adalah hemisfer 90° yang berbeda lagi. Ini persis masalah duplikasi 4-sudut yang sudah dikenal berulang untuk objek bulan — kemungkinan gagal lagi setelah regenerate. Saran: \"Generate four genuinely different hemispheres of the Moon: FRONT = the familiar near side with large dark maria (Mare Imbrium, Mare Tranquillitatis, etc.); BACK = the far side, almost entirely bright heavily-cratered highlands with NO large dark maria, completely different texture from the front; LEFT and RIGHT = the 90-degree-west and 90-degree-east limb hemispheres, each with their own distinct mix of mare and highland terrain, not a copy of the front.\""
-  },
-  "bulan/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "Seharusnya menunjukkan sisi jauh Bulan (far side: nyaris seluruhnya dataran tinggi terang berkawah, TANPA mare gelap luas) tetapi pola permukaannya identik dengan p02 (depan)/p04/p05 yang menampilkan pola mare khas sisi dekat. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate. Saran sama seperti p02: regenerate agar BACK benar-benar menampilkan highlands terang berkawah padat tanpa mare besar."
-  },
-  "bulan/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "Pola kawah/mare identik dengan p02/p03/p05 — bukan hemisfer 90°-barat yang berbeda seperti seharusnya. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate."
-  },
-  "bulan/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Pola kawah/mare identik dengan p02/p03/p04 — bukan hemisfer 90°-timur yang berbeda seperti seharusnya. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate."
-  },
-  "bulan/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "Bagian dari kuartet ilustrasi (p07 depan, p08 belakang, p09 kiri, p10 kanan) yang pola kawahnya IDENTIK/nyaris identik satu sama lain — sama persis seperti masalah pada set realistis (p02-p05). Keempatnya harus menunjukkan hemisfer berbeda (depan=mare khas, belakang=highlands tanpa mare besar, kiri/kanan=hemisfer 90°). Kemungkinan gagal lagi setelah regenerate. Saran sama seperti bulan/p02 (versi ilustrasi, gaya tetap sama seperti prompt B, tapi empat sudut harus benar-benar berbeda secara geografis)."
-  },
-  "bulan/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "Seharusnya sisi jauh Bulan (highlands terang berkawah padat, tanpa mare besar) tetapi pola permukaannya identik dengan p07 (depan)/p09/p10. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
-  },
-  "bulan/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Pola kawah identik dengan p07/p08/p10 — bukan hemisfer 90-barat berbeda. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
-  },
-  "bulan/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "Pola kawah identik dengan p07/p08/p09 — bukan hemisfer 90-timur berbeda. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
-  },
   "bulan/p11-penampang-belah": {
     "status": "ok",
     "catatan": "Lapisan internal Bulan tergambar dengan warna dan urutan yang sesuai: kerak abu-abu muda (dengan tekstur kawah di permukaan luar), mantel cokelat-tan, lapisan sebagian meleleh oranye tua, inti luar cair oranye, inti dalam padat kuning di tengah — sesuai model ilmiah sederhana struktur internal Bulan. Potongan baji seperempat, garis batas putus-putus, callout kosong tanpa teks, background hitam solid, sudut lurus tanpa 3/4 — semua sesuai prompt."
@@ -8379,22 +8331,6 @@
     "status": "ok",
     "catatan": "Tampak depan hati sesuai Prompt 2: lobus kanan (lebih besar) di sisi KIRI gambar = benar secara anatomis (kiri-kanan pasien terbalik dari sudut pandang penonton di tampak depan), lobus kiri lebih kecil di sisi kanan gambar, kantong empedu hijau di bawah lobus kanan dekat ligamentum, pembuluh merah/biru di tengah. Sesuai dengan gaya acuan (3D medical model), background putih bersih, full body, tanpa teks."
   },
-  "hati-empedu/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "GAGAL rotasi 90 derajat — pola gagal yang sudah diketahui. p04 (kiri) komposisinya nyaris identik dengan p02 (depan): lobus kanan besar tetap di kiri gambar, kantong empedu dan pembuluh tetap terlihat di posisi yang sama seperti tampak depan, bukan silhouette profil samping sejati. Dari sisi (lateral) seharusnya hati terlihat sebagai irisan yang jauh lebih sempit/berbeda siluet, dan kantong empedu/pembuluh pada permukaan viseral seharusnya TIDAK terlihat dari profil murni. Perlu regenerasi ulang sebagai true 90-degree left lateral profile. Saran prompt koreksi: \"Rotate the SAME liver model exactly 90 degrees to a true LEFT LATERAL profile view — a narrow side silhouette very different from the front view, not a repeat of the anterior composition. The gallbladder and portal vessels on the visceral surface should NOT be visible from a pure lateral angle; show only the smooth diaphragmatic surface silhouette from the side.\""
-  },
-  "hati-empedu/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Sama seperti p04 — GAGAL rotasi 90 derajat, pola gagal yang sudah diketahui dari review sebelumnya. p05 (kanan) nyaris duplikat p02 (depan) dan p04 (kiri): siluet dua-lobus yang sama, kantong empedu dan pembuluh di posisi yang sama, bukan mirror/profil lateral kanan sejati 90 derajat. Perlu regenerasi ulang. Saran prompt koreksi: \"Rotate the SAME liver model exactly 90 degrees to a true RIGHT LATERAL profile view, mirrored from the left-side view and clearly different in silhouette from the front/anterior composition — not a repeat of the anterior view.\""
-  },
-  "hati-empedu/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Sama pola gagal duplikat seperti versi realistis: p09 (kiri) secara komposisi nyaris identik dengan tampak depan (dua lobus dibagi ligamentum, kantong empedu hijau & pembuluh di posisi sama) — bukan profil lateral 90 derajat sejati. Perlu regenerasi. Saran prompt koreksi: \"Rotate the SAME liver illustration exactly 90 degrees to a true LEFT LATERAL side silhouette, clearly different in outline from the front view — not a near-duplicate of the anterior composition.\""
-  },
-  "hati-empedu/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "Sama pola gagal duplikat: p10 (kanan) nyaris identik dengan p09 (kiri) dan tampak depan — bukan mirror/profil lateral kanan 90 derajat sejati, hanya variasi ukuran/zoom kecil dari komposisi yang sama. Perlu regenerasi. Saran prompt koreksi: \"Rotate the SAME liver illustration exactly 90 degrees to a true RIGHT LATERAL side silhouette, mirrored from the left-side view and clearly different in outline from the front view.\""
-  },
   "jamur-tiram/p09-ilustrasi-kiri": {
     "status": "ok",
     "catatan": "Perbaikan dari versi .lama sebelumnya (yang nyaris identik dengan p07/p08) — sekarang menunjukkan campuran tudung dan insang yang berbeda proporsinya dari p07 (tudung dominan) maupun p08 (insang dominan), sesuai sifat rumpun jamur yang tidak beraturan saat dilihat dari samping. Susunan tudung individu berbeda dari p10 (bukan duplikat). Background bersih, full body, tanpa teks, gaya ilustrasi konsisten."
@@ -8402,18 +8338,6 @@
   "jamur-tiram/p10-ilustrasi-kanan": {
     "status": "ok",
     "catatan": "Sama seperti p09, sudah berbeda dari p07/p08 (bukan pengulangan pola gagal .lama sebelumnya). Susunan tudung individu dalam rumpun terlihat berbeda dari p09 (bukan duplikat persis), konsisten dengan objek rumpun jamur yang tidak simetris sempurna. Background bersih, full body, tanpa teks."
-  },
-  "jantung/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI setelah regenerate — persis pola kegagalan yang sudah ditandai di entri .lama sebelumnya. Dibandingkan p07 (depan, sudah ok), gambar ini nyaris identik: posisi kedua aurikel atrium (simetris kiri-kanan), lengkung aorta dan trunkus pulmonalis di atas, bahkan pola percabangan pembuluh koroner di permukaan nyaris sama persis. Tampak belakang jantung seharusnya didominasi ATRIUM KIRI dengan vena-vena pulmonalis masuk ke dalamnya (permukaan posterior), bukan pengulangan susunan anterior. Ini mengajarkan konsep anatomi posterior jantung yang salah. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Redraw the posterior (back) view to be dominated by the LEFT ATRIUM with the four pulmonary veins entering it and the coronary sinus — this must look clearly different in silhouette and vessel arrangement from the anterior (front) view, not a near-duplicate.\""
-  },
-  "jantung/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI setelah regenerate — sama seperti p08, komposisi ini nyaris identik dengan p07 (depan) dan p08 (belakang): kedua aurikel atrium simetris, lengkung pembuluh besar sama, pola percabangan koroner sama. Seharusnya profil lateral kiri 90 derajat, didominasi permukaan VENTRIKEL KIRI yang berotot dan aurikel kiri, bentuk siluet jelas berbeda dari depan/belakang. Set ilustrasi jantung (p08, p09, p10) semuanya gagal menunjukkan rotasi yang nyata berbeda satu sama lain — tidak ada perubahan dari masalah yang sama di versi .lama. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Redraw the LEFT lateral view to be dominated by the left ventricle's muscular surface and the left auricle, clearly different in silhouette from the front and back views, not a near-duplicate.\""
-  },
-  "jantung/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI setelah regenerate — sama seperti p08 dan p09, komposisi ini nyaris identik dengan p07/p08/p09: susunan aurikel, pembuluh besar, dan percabangan koroner sama persis seperti tampak depan. Seharusnya profil lateral kanan 90 derajat (mirror dari kiri), didominasi permukaan VENTRIKEL KANAN dan atrium kanan. Seluruh set p08-p10 tidak menunjukkan diferensiasi rotasi sama sekali — persis masalah yang sudah ditandai di versi .lama sebelumnya, tidak ada perbaikan nyata. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Render a true right lateral view of the heart dominated by the right ventricle and right atrium, visually distinct in silhouette from the front, back, and left views, not a near-duplicate.\""
   },
   "badak-jawa/p01-realistis-turnaround.lama": {
     "status": "revisi",
@@ -8555,38 +8479,6 @@
     "status": "ok",
     "catatan": "FIXED (lihat .lama): masalah sebelumnya menampilkan lubang jarum (fitur sisi depan) alih-alih sisi kanan; sekarang sisi kanan kotak polos rata, tanpa lubang jarum/foil terlihat, konsisten dengan sisi kiri (p09). Tanpa teks, background putih solid."
   },
-  "mars/p02-realistis-depan": {
-    "status": "salah",
-    "catatan": "GAGAL turnaround: tampak depan, belakang, kiri, dan kanan (p02-p05) semuanya menampilkan permukaan Mars yang hampir IDENTIK — kanyon Valles Marineris yang sama memanjang horizontal di tengah, kawah besar bercincin terang yang sama di kiri-atas, dan tudung es kutub yang sama di puncak muncul di SEMUA empat 'sudut pandang', padahal seharusnya tampak belakang (180 derajat) menunjukkan BELAHAN BUMI Mars yang sepenuhnya berbeda (kanyon yang hanya membentang ~90 derajat bujur seharusnya tidak terlihat sama sekali dari sisi berlawanan). Pola gagal ini persis seperti yang diperingatkan untuk objek astronomi. Prompt koreksi (EN): \"Each of the 4 turnaround panels must render a genuinely different Mars hemisphere based on real global topography — the BACK view (180 degrees) must NOT show Valles Marineris at all; use accurate Mars surface maps so each rotation shows distinct craters/terrain.\""
-  },
-  "mars/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p04/p05: kanyon Valles Marineris dan tudung es kutub yang sama masih terlihat jelas pada tampak 'belakang' (180 derajat), padahal seharusnya belahan Mars yang berlawanan tidak menampilkan kanyon ini sama sekali. Lihat catatan p02 untuk prompt koreksi lengkap."
-  },
-  "mars/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p03/p05: kanyon dan pola kawah yang sama (hanya sedikit bergeser framing) muncul lagi di tampak kiri (90 derajat), bukan belahan Mars yang benar-benar berbeda sesuai rotasi 90 derajat. Lihat catatan p02 untuk prompt koreksi lengkap."
-  },
-  "mars/p05-realistis-kanan": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p03/p04: kanyon dan tudung es kutub yang sama kembali muncul di tampak kanan (90 derajat berlawanan arah dari kiri), bukan belahan Mars yang berbeda. Lihat catatan p02 untuk prompt koreksi lengkap."
-  },
-  "mars/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "GAGAL turnaround (versi ilustrasi): sama seperti set realistis, tampak depan/belakang/kiri/kanan ilustrasi (p07-p10) menampilkan kawah besar bercincin pancaran (rayed crater) yang sama persis dan kanyon yang sama di posisi yang hampir sama pada SEMUA empat panel, bukan empat belahan Mars yang berbeda sesuai rotasi 0/180/90/90 derajat. Prompt koreksi (EN): \"Each of the 4 turnaround panels must show a genuinely different Mars hemisphere/terrain, not the same crater and canyon repeated — vary craters and surface markings per real Mars topography for each rotation.\""
-  },
-  "mars/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p09/p10: kawah bercincin pancaran dan kanyon yang sama persis muncul lagi di tampak 'belakang', nyaris identik komposisinya dengan tampak depan (p07). Lihat catatan p07 untuk prompt koreksi lengkap."
-  },
-  "mars/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p08/p10: kawah bercincin pancaran dan kanyon yang sama persis (hanya framing sedikit bergeser) muncul lagi di tampak kiri, bukan belahan Mars berbeda sesuai rotasi 90 derajat. Lihat catatan p07 untuk prompt koreksi lengkap."
-  },
-  "mars/p10-ilustrasi-kanan": {
-    "status": "salah",
-    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p08/p09: kawah bercincin pancaran dan kanyon yang sama persis muncul lagi di tampak kanan, bukan belahan Mars berbeda. Lihat catatan p07 untuk prompt koreksi lengkap."
-  },
   "mars/p12-penampang-transparan": {
     "status": "ok",
     "catatan": "Penampang transparan Mars menunjukkan 3 region sesuai katalog: kerak (merah karat, terluar), mantel (oranye-cokelat, tengah), inti cair besi-belerang (kuning-oranye, tengah-dalam), dengan garis batas putus-putus, permukaan terluar semi-transparan menampilkan tekstur permukaan Mars, konsisten dengan p11-penampang-belah yang sudah disetujui sebelumnya, background hitam solid, tanpa teks, tanpa leader line/lingkaran callout (sesuai spek versi transparan)."
@@ -8616,12 +8508,12 @@
     "catatan": "Kue bolu bundar dengan satu potongan (wedge) diambil, menunjukkan penampang lapisan sponge kuning dengan 2 garis selai merah di antara 3 lapisan dan frosting putih di atas — potongan yang diambil rapi dan simetris (dua sisi potong lurus bertemu di pusat, tidak ada potongan lain yang berukuran tidak sama karena hanya satu wedge yang dipotong). Tampak depan lurus, tanpa teks, background putih solid, sesuai referensi sponge cake/layer cake."
   },
   "kubus-satuan/p01-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Jumlah kubus pada balok utama tidak jelas sesuai spesifikasi '4×3×2' (24 kubus satuan) — dari tampak depan hanya terhitung sekitar 2 kolom x 3 baris (6 kubus) yang jelas terlihat pada wajah depan, dengan kedalaman (depth) nyaris tidak terlihat/ambigu (hanya sedikit sisi tipis di kanan). Untuk soal volume yang mengandalkan hitungan kubus satuan, ketidakjelasan jumlah ini berisiko membingungkan siswa. 4 kubus lepas di depan (merah, hijau, biru, kuning) sudah sesuai 'a few loose cubes'. Prompt koreksi (EN): \"Arrange the main block as a clearly countable 4-wide x 3-tall x 2-deep grid of snap-cubes, photographed at a slight 3/4 angle so students can visually count 4 columns across the front, 3 rows tall, and 2 cubes of depth on the visible side face — every individual cube face and seam must be distinguishable.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: balok 4×3×2 = 24 kubus satuan, mudah dihitung, + 3 kubus lepas. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "limas-segitiga/p04-realistis-kiri": {
-    "status": "salah",
-    "catatan": "GAGAL LAGI (riwayat dikenal: limas segitiga harus tepat 4 titik sudut, 6 rusuk): pada gambar ini saya menghitung 5 titik yang ditandai bola merah — 3 di sudut luar segitiga (atas, bawah-kiri, bawah-kanan) DITAMBAH 2 lagi di ujung-ujung garis horizontal di bagian dalam figur, sehingga tampak seperti 5 titik sudut, bukan 4. Sebuah tetrahedron yang dilihat dari sisi samping seharusnya tetap hanya menampilkan 4 titik sudut (3 di siluet luar + 1 titik sudut ke-4 yang terlihat tembus pandang di dalam/di belakang, ditandai hanya SATU bola merah, bukan dua). Prompt koreksi (EN): \"This is a TETRAHEDRON with EXACTLY 4 vertices and 6 edges — mark vertices with EXACTLY 4 red spheres total (3 at the outer silhouette corners, 1 at the single 4th vertex seen through the transparent material), and draw EXACTLY 6 edges connecting them. Do not add a 5th marked point.\""
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: tetrahedron beraturan: 4 titik sudut (bola merah), 6 rusuk, rusuk tersembunyi putus-putus; tampak diproyeksikan dari koordinat 3D. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
   },
   "jungkat-jungkit/p06-ilustrasi-turnaround.lama": {
     "status": "salah",
@@ -9263,22 +9155,6 @@
     "status": "salah",
     "catatan": "GAGAL LAGI (ke-2 kalinya) — dibandingkan p07-ilustrasi-depan, gambar ini masih nyaris identik: kedua capit besar tetap terbuka penuh dan terlihat jelas menghadap kamera dari atas, bukan tersembunyi di depan tubuh seperti seharusnya pada tampak belakang. Ada elemen flap/lipatan segitiga di bagian bawah tengah (kemungkinan dimaksudkan sebagai telson/abdomen terlipat), tapi karena kedua capit tetap dominan terlihat, tampilan keseluruhan tetap terbaca sebagai tampak depan, bukan belakang. Correction (EN): \"Rotate the crab 180 degrees to a true BACK/REAR view: the two large claws must be hidden in front of the body and NOT visible at all, with only the folded abdominal flap (telson) visible at the rear of the carapace — currently both claws are still fully open and visible, which still reads as a front view.\""
   },
-  "kepompong/p07-ilustrasi-depan": {
-    "status": "salah",
-    "catatan": "MASALAH BARU (lebih parah dari sebelumnya) — file ini bukan satu gambar objek tunggal, melainkan GRID 2x2 berisi 4 salinan kepompong yang hampir identik dalam satu file, padahal prompt mensyaratkan \"ONLY this single object, centered\" untuk tampak depan tunggal. Ini melanggar komposisi secara mendasar (bukan soal rotasi lagi, tapi jumlah/layout objek dalam file). Isi tiap panel sendiri (pupa Papilio hijau menempel tegak pada ranting dengan sabuk sutra, bintik emas) sudah sesuai sains. Correction (EN): \"Regenerate as ONE single centered chrysalis-on-twig object filling the frame — the current output incorrectly contains a 2x2 grid of four near-identical copies in one image; this file must show only one object, one view.\""
-  },
-  "kepompong/p08-ilustrasi-belakang": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — pose dan sudut ranting+kepompong nyaris IDENTIK dengan p09 (kiri) dan p10 (kanan): posisi ranting bercabang di kiri-atas, kepompong menggantung ke kanan dengan lekuk dan pola bintik emas yang sama, tidak ada rotasi 90°/180° yang nyata untuk membedakan depan/belakang/kiri/kanan. (Catatan: p07 pada sesi ini memiliki masalah berbeda — grid 4 panel dalam satu file — jadi perbandingan langsung dengan p07 sulit dilakukan, tapi dibandingkan p09/p10 jelas tidak terdiferensiasi.) Correction (EN): \"Render a genuine 180-degree back view clearly different in angle/silhouette from the left and right views — currently p08/p09/p10 all show the same twig-and-chrysalis pose and angle.\""
-  },
-  "kepompong/p09-ilustrasi-kiri": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — nyaris identik dengan p08 dan p10 dalam pose, sudut ranting, dan bentuk kepompong; tidak ada rotasi 90° yang nyata. Correction (EN): \"Render a genuine 90-degree left side view, visibly different in angle from the back and right views — currently near-identical to both.\""
-  },
-  "kepompong/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "GAGAL LAGI (ke-3 kalinya untuk masalah ini) — nyaris identik dengan p08 dan p09; seharusnya cerminan dari p09 tapi tidak menunjukkan sudut yang berbeda secara jelas. Correction (EN): \"Render a genuine 90-degree right side view that is a true mirror of the left view — currently near-identical to both the back and left renders.\""
-  },
   "kerang/p04-realistis-kiri": {
     "status": "revisi",
     "catatan": "GAGAL LAGI (ke-2 kalinya) — cangkang kima (Tridacna) masih ditampilkan pada sudut diagonal 3/4 yang mirip dengan p05 (kanan): oval besar diagonal dari kiri-bawah ke kanan-atas, mantel biru-hijau bergelombang di sisi atas-kiri, lubang sifon di kanan-bawah. Dibanding p05, perbedaan sudut masih tipis/tidak jelas sebagai cerminan 90°. Karena kima tidak punya \"kepala\" yang jelas, sarankan memakai posisi lubang sifon sebagai jangkar orientasi yang konsisten. Correction (EN): \"Rotate the giant clam shell a clear, unambiguous 90° from the front view so the left-side render is visually distinct from the right-side render — use the siphon hole position as a fixed anatomical anchor to make the rotation unambiguous.\""
@@ -9410,5 +9286,277 @@
   "mikroskop/p03-realistis-belakang.lama": {
     "status": "salah",
     "catatan": "Tampak 'belakang' yang dihasilkan nyaris identik secara fungsional dengan tampak depan (p02): kedua lensa objektif pada revolver nosepiece masih terlihat jelas menggantung ke bawah, meja preparat (stage) dengan tuas penjepit mekanis masih terlihat dari depan, dan lensa cermin/kondensor cekung di dasar masih terlihat — semua ini adalah fitur yang menghadap ke DEPAN pada mikroskop asli dan seharusnya TIDAK terlihat (atau hanya terlihat tepi belakangnya) dari sisi belakang murni, yang semestinya hanya menampilkan lengan (arm) mikroskop yang melengkung polos. Ini berisiko mengajarkan anatomi mikroskop yang salah ke siswa. Prompt koreksi (EN): \"Strict BACK view: show only the plain curved back of the microscope's arm/column and the back of the focus-knob hub — the objective lenses, stage slide-clip mechanism, and mirror/condenser must NOT be visible from directly behind, since they all face forward.\""
+  },
+  "bulan/p02-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kuartet realistis (p02 depan, p03 belakang, p04 kiri, p05 kanan) yang pola kawah dan mare-nya IDENTIK/nyaris identik satu sama lain, padahal keempatnya harus menunjukkan hemisfer Bulan yang berbeda signifikan: sisi dekat (depan) kaya mare gelap luas, sisi jauh (belakang) nyaris seluruhnya dataran tinggi terang berkawah TANPA mare besar, dan kiri/kanan adalah hemisfer 90° yang berbeda lagi. Ini persis masalah duplikasi 4-sudut yang sudah dikenal berulang untuk objek bulan — kemungkinan gagal lagi setelah regenerate. Saran: \"Generate four genuinely different hemispheres of the Moon: FRONT = the familiar near side with large dark maria (Mare Imbrium, Mare Tranquillitatis, etc.); BACK = the far side, almost entirely bright heavily-cratered highlands with NO large dark maria, completely different texture from the front; LEFT and RIGHT = the 90-degree-west and 90-degree-east limb hemispheres, each with their own distinct mix of mare and highland terrain, not a copy of the front.\""
+  },
+  "bulan/p03-realistis-belakang.lama": {
+    "status": "salah",
+    "catatan": "Seharusnya menunjukkan sisi jauh Bulan (far side: nyaris seluruhnya dataran tinggi terang berkawah, TANPA mare gelap luas) tetapi pola permukaannya identik dengan p02 (depan)/p04/p05 yang menampilkan pola mare khas sisi dekat. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate. Saran sama seperti p02: regenerate agar BACK benar-benar menampilkan highlands terang berkawah padat tanpa mare besar."
+  },
+  "bulan/p04-realistis-kiri.lama": {
+    "status": "salah",
+    "catatan": "Pola kawah/mare identik dengan p02/p03/p05 — bukan hemisfer 90°-barat yang berbeda seperti seharusnya. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate."
+  },
+  "bulan/p05-realistis-kanan.lama": {
+    "status": "salah",
+    "catatan": "Pola kawah/mare identik dengan p02/p03/p04 — bukan hemisfer 90°-timur yang berbeda seperti seharusnya. Duplikasi 4-sudut — kemungkinan gagal lagi setelah regenerate."
+  },
+  "bulan/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kuartet ilustrasi (p07 depan, p08 belakang, p09 kiri, p10 kanan) yang pola kawahnya IDENTIK/nyaris identik satu sama lain — sama persis seperti masalah pada set realistis (p02-p05). Keempatnya harus menunjukkan hemisfer berbeda (depan=mare khas, belakang=highlands tanpa mare besar, kiri/kanan=hemisfer 90°). Kemungkinan gagal lagi setelah regenerate. Saran sama seperti bulan/p02 (versi ilustrasi, gaya tetap sama seperti prompt B, tapi empat sudut harus benar-benar berbeda secara geografis)."
+  },
+  "bulan/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Seharusnya sisi jauh Bulan (highlands terang berkawah padat, tanpa mare besar) tetapi pola permukaannya identik dengan p07 (depan)/p09/p10. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
+  },
+  "bulan/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Pola kawah identik dengan p07/p08/p10 — bukan hemisfer 90-barat berbeda. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
+  },
+  "bulan/p10-ilustrasi-kanan.lama": {
+    "status": "salah",
+    "catatan": "Pola kawah identik dengan p07/p08/p09 — bukan hemisfer 90-timur berbeda. Duplikasi 4-sudut pada set ilustrasi — kemungkinan gagal lagi setelah regenerate."
+  },
+  "mars/p02-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "GAGAL turnaround: tampak depan, belakang, kiri, dan kanan (p02-p05) semuanya menampilkan permukaan Mars yang hampir IDENTIK — kanyon Valles Marineris yang sama memanjang horizontal di tengah, kawah besar bercincin terang yang sama di kiri-atas, dan tudung es kutub yang sama di puncak muncul di SEMUA empat 'sudut pandang', padahal seharusnya tampak belakang (180 derajat) menunjukkan BELAHAN BUMI Mars yang sepenuhnya berbeda (kanyon yang hanya membentang ~90 derajat bujur seharusnya tidak terlihat sama sekali dari sisi berlawanan). Pola gagal ini persis seperti yang diperingatkan untuk objek astronomi. Prompt koreksi (EN): \"Each of the 4 turnaround panels must render a genuinely different Mars hemisphere based on real global topography — the BACK view (180 degrees) must NOT show Valles Marineris at all; use accurate Mars surface maps so each rotation shows distinct craters/terrain.\""
+  },
+  "mars/p03-realistis-belakang.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p04/p05: kanyon Valles Marineris dan tudung es kutub yang sama masih terlihat jelas pada tampak 'belakang' (180 derajat), padahal seharusnya belahan Mars yang berlawanan tidak menampilkan kanyon ini sama sekali. Lihat catatan p02 untuk prompt koreksi lengkap."
+  },
+  "mars/p04-realistis-kiri.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p03/p05: kanyon dan pola kawah yang sama (hanya sedikit bergeser framing) muncul lagi di tampak kiri (90 derajat), bukan belahan Mars yang benar-benar berbeda sesuai rotasi 90 derajat. Lihat catatan p02 untuk prompt koreksi lengkap."
+  },
+  "mars/p05-realistis-kanan.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround yang sama dengan p02/p03/p04: kanyon dan tudung es kutub yang sama kembali muncul di tampak kanan (90 derajat berlawanan arah dari kiri), bukan belahan Mars yang berbeda. Lihat catatan p02 untuk prompt koreksi lengkap."
+  },
+  "mars/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "GAGAL turnaround (versi ilustrasi): sama seperti set realistis, tampak depan/belakang/kiri/kanan ilustrasi (p07-p10) menampilkan kawah besar bercincin pancaran (rayed crater) yang sama persis dan kanyon yang sama di posisi yang hampir sama pada SEMUA empat panel, bukan empat belahan Mars yang berbeda sesuai rotasi 0/180/90/90 derajat. Prompt koreksi (EN): \"Each of the 4 turnaround panels must show a genuinely different Mars hemisphere/terrain, not the same crater and canyon repeated — vary craters and surface markings per real Mars topography for each rotation.\""
+  },
+  "mars/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p09/p10: kawah bercincin pancaran dan kanyon yang sama persis muncul lagi di tampak 'belakang', nyaris identik komposisinya dengan tampak depan (p07). Lihat catatan p07 untuk prompt koreksi lengkap."
+  },
+  "mars/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p08/p10: kawah bercincin pancaran dan kanyon yang sama persis (hanya framing sedikit bergeser) muncul lagi di tampak kiri, bukan belahan Mars berbeda sesuai rotasi 90 derajat. Lihat catatan p07 untuk prompt koreksi lengkap."
+  },
+  "mars/p10-ilustrasi-kanan.lama": {
+    "status": "salah",
+    "catatan": "Bagian dari kegagalan turnaround ilustrasi yang sama dengan p07/p08/p09: kawah bercincin pancaran dan kanyon yang sama persis muncul lagi di tampak kanan, bukan belahan Mars berbeda. Lihat catatan p07 untuk prompt koreksi lengkap."
+  },
+  "neptunus/p03-realistis-belakang.lama": {
+    "status": "salah",
+    "catatan": "Sama seperti tampak depan: bentuk planet seperti telur/pir, bukan bola sempurna -- distorsi geometri signifikan. Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped.\""
+  },
+  "neptunus/p04-realistis-kiri.lama": {
+    "status": "salah",
+    "catatan": "Sama seperti tampak lain: bentuk planet seperti telur/pir, bukan bola sempurna. Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped.\""
+  },
+  "neptunus/p05-realistis-kanan.lama": {
+    "status": "salah",
+    "catatan": "Sama seperti tampak lain: bentuk planet seperti telur/pir, bukan bola sempurna (juga nyaris tanpa fitur awan, sangat polos). Prompt koreksi sama: \"Regenerate as a perfect sphere, not egg/pear-shaped, and include some visible cloud streak texture consistent with the other views.\""
+  },
+  "sempoa/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: 13 batang, tiap batang 1 manik atas + 4 manik bawah (soroban), posisi nol, titik satuan tiap 3 batang. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "sempoa/p02-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Tiap batang punya 3 manik di atas dan 5 di bawah — itu bukan soroban (1 atas + 4 bawah). Menyesatkan untuk soal nilai manik sempoa. Koreksi: \"Japanese soroban: exactly ONE bead above the divider beam and FOUR beads below it on every rod; 13 rods.\""
+  },
+  "jam-analog/p01-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Jarum jam menunjukkan sekitar pukul 10.10, bukan tepat pukul 3.00 seperti prompt. Objek ini dipakai untuk soal sudut jarum jam (pukul 3 = 90°), jadi gambar ini menyesatkan. Koreksi: \"Hands set at exactly 3:00 — the minute hand points straight up at 12, the shorter hour hand points straight right at 3, forming a 90° angle; red second hand pointing at 12.\""
+  },
+  "jam-analog/p02-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Jarum jam menunjukkan sekitar pukul 10.10, bukan tepat pukul 3.00 seperti prompt. Objek ini dipakai untuk soal sudut jarum jam (pukul 3 = 90°), jadi gambar ini menyesatkan. Koreksi: \"Hands set at exactly 3:00 — the minute hand points straight up at 12, the shorter hour hand points straight right at 3, forming a 90° angle; red second hand pointing at 12.\""
+  },
+  "tangram/p01-realistis-atas.lama": {
+    "status": "salah",
+    "catatan": "Potongan bukan tangram baku: ada trapesium dan persegi panjang/segi lima, dan jumlah serta ukuran segitiga tidak sesuai (tangram = 2 segitiga besar, 1 segitiga sedang, 2 segitiga kecil, 1 persegi, 1 jajargenjang). Menyesatkan untuk soal bagian/luas tangram. Koreksi: \"Classic 7-piece tangram assembled into a square: two large right isosceles triangles (each 1/4 of the square), one medium triangle (1/8), two small triangles (1/16 each), one square (1/8) and one parallelogram (1/8), in the standard arrangement, each piece a different color.\""
+  },
+  "tangram/p02-ilustrasi-atas.lama": {
+    "status": "salah",
+    "catatan": "Potongan bukan tangram baku: ada trapesium dan persegi panjang/segi lima, dan jumlah serta ukuran segitiga tidak sesuai (tangram = 2 segitiga besar, 1 segitiga sedang, 2 segitiga kecil, 1 persegi, 1 jajargenjang). Menyesatkan untuk soal bagian/luas tangram. Koreksi: \"Classic 7-piece tangram assembled into a square: two large right isosceles triangles (each 1/4 of the square), one medium triangle (1/8), two small triangles (1/16 each), one square (1/8) and one parallelogram (1/8), in the standard arrangement, each piece a different color.\""
+  },
+  "jaring-jaring-kubus/p01-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Jaring-jaring di kiri hanya terdiri dari 5 persegi (atas 1, tengah 3, bawah 1) — itu jaring kotak terbuka, bukan kubus (6 sisi). Kubus setengah terlipat di kanan juga terbuka di atas dan tiap sisinya terbagi 4. Menyesatkan untuk soal jaring-jaring. Koreksi: \"Left: a flat cross-shaped net of exactly SIX equal squares (one column of four squares with one square on each side of the second square). Right: the same six-square net partly folded. Each face is one plain square, no grid lines.\""
+  },
+  "jaring-jaring-kubus/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: jaring 6 persegi bentuk salib + kubus terlipat; warna sisi kubus (atas, depan, kanan) cocok dengan jaringnya. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "kubus-satuan/p01-realistis-depan.lama": {
+    "status": "revisi",
+    "catatan": "Jumlah kubus pada balok utama tidak jelas sesuai spesifikasi '4×3×2' (24 kubus satuan) — dari tampak depan hanya terhitung sekitar 2 kolom x 3 baris (6 kubus) yang jelas terlihat pada wajah depan, dengan kedalaman (depth) nyaris tidak terlihat/ambigu (hanya sedikit sisi tipis di kanan). Untuk soal volume yang mengandalkan hitungan kubus satuan, ketidakjelasan jumlah ini berisiko membingungkan siswa. 4 kubus lepas di depan (merah, hijau, biru, kuning) sudah sesuai 'a few loose cubes'. Prompt koreksi (EN): \"Arrange the main block as a clearly countable 4-wide x 3-tall x 2-deep grid of snap-cubes, photographed at a slight 3/4 angle so students can visually count 4 columns across the front, 3 rows tall, and 2 cubes of depth on the visible side face — every individual cube face and seam must be distinguishable.\""
+  },
+  "kubus-satuan/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: balok 4×3×2 = 24 kubus satuan, mudah dihitung, + 3 kubus lepas. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "limas-segitiga/p02-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p03-realistis-belakang.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p04-realistis-kiri.lama": {
+    "status": "salah",
+    "catatan": "GAGAL LAGI (riwayat dikenal: limas segitiga harus tepat 4 titik sudut, 6 rusuk): pada gambar ini saya menghitung 5 titik yang ditandai bola merah — 3 di sudut luar segitiga (atas, bawah-kiri, bawah-kanan) DITAMBAH 2 lagi di ujung-ujung garis horizontal di bagian dalam figur, sehingga tampak seperti 5 titik sudut, bukan 4. Sebuah tetrahedron yang dilihat dari sisi samping seharusnya tetap hanya menampilkan 4 titik sudut (3 di siluet luar + 1 titik sudut ke-4 yang terlihat tembus pandang di dalam/di belakang, ditandai hanya SATU bola merah, bukan dua). Prompt koreksi (EN): \"This is a TETRAHEDRON with EXACTLY 4 vertices and 6 edges — mark vertices with EXACTLY 4 red spheres total (3 at the outer silhouette corners, 1 at the single 4th vertex seen through the transparent material), and draw EXACTLY 6 edges connecting them. Do not add a 5th marked point.\""
+  },
+  "limas-segitiga/p05-realistis-kanan.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "limas-segitiga/p10-ilustrasi-kanan.lama": {
+    "status": "salah",
+    "catatan": "Limas segitiga (tetrahedron) seharusnya 4 titik sudut, 6 rusuk, 4 sisi segitiga. Gambar ini menunjukkan 5 titik sudut (puncak + 4 titik alas) dengan garis mendatar di antara dua titik belakang, sehingga tampak seperti limas segi empat. Menyesatkan untuk soal menghitung titik sudut/rusuk. Koreksi: \"Regular tetrahedron: exactly 4 vertices (red spheres) and 6 edges. Front view = one equilateral triangle face toward the camera; the single back vertex shows through the clear acrylic, connected to the apex and both front base corners. No fifth vertex, no quadrilateral base.\""
+  },
+  "prisma-segitiga/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "prisma-segitiga/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Bangun berbentuk rumah (persegi + atap) dengan 9 titik sudut — itu prisma segi lima, bukan prisma segitiga (6 titik sudut). Menyesatkan. Koreksi: \"Triangular prism: exactly 2 triangular end faces and 3 rectangular faces, 6 vertices, 9 edges. LEFT view shows one triangular end face head-on as a plain triangle — no square body under the triangle.\""
+  },
+  "prisma-segitiga/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: prisma segitiga rebah: 6 titik sudut, 9 rusuk; tampak samping = segitiga; rusuk tersembunyi putus-putus. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "speedometer/p01-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Angka pada dial tidak berurutan (mis. 20, 30, 50, 60, 120, 100, 140, 120, 100) dan ada tulisan/angka odometer, padahal prompt melarang teks/angka. Skala yang kacau menyesatkan untuk soal membaca kecepatan. Koreksi: \"Speedometer dial with ONLY white tick marks (major and minor), no printed numbers, no letters, no MPH/km/h text, odometer window blurred; orange needle on a center hub.\""
+  },
+  "speedometer/p02-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Angka pada dial tidak berurutan (mis. 20, 30, 50, 60, 120, 100, 140, 120, 100) dan ada tulisan/angka odometer, padahal prompt melarang teks/angka. Skala yang kacau menyesatkan untuk soal membaca kecepatan. Koreksi: \"Speedometer dial with ONLY white tick marks (major and minor), no printed numbers, no letters, no MPH/km/h text, odometer window blurred; orange needle on a center hub.\""
+  },
+  "dadu/p02-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Kedua dadu memperlihatkan angka 5 di sisi depan dan sisi atas sekaligus — satu dadu tidak mungkin punya dua sisi bernilai sama. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p03-realistis-belakang.lama": {
+    "status": "salah",
+    "catatan": "Sisi atas dadu kanan punya 8 titik (tidak ada di dadu standar 1–6). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p04-realistis-kiri.lama": {
+    "status": "salah",
+    "catatan": "Dadu yang miring memperlihatkan dua sisi bernilai 5; susunan titik tidak sesuai dadu standar. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p05-realistis-kanan.lama": {
+    "status": "salah",
+    "catatan": "Dadu yang miring memperlihatkan dua sisi bernilai 5; susunan titik tidak sesuai dadu standar. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Dadu kiri: angka 1 muncul di sisi depan dan atas sekaligus. Dadu kanan: sisi 3 dan 4 terlihat bersebelahan, padahal keduanya berseberangan (3 + 4 = 7). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Dadu kiri: sisi 3 dan 4 terlihat bersebelahan, padahal berseberangan (3 + 4 = 7). Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p09-ilustrasi-kiri.lama": {
+    "status": "salah",
+    "catatan": "Dadu kiri: angka 1 muncul dua kali; dadu kanan: angka 3 muncul dua kali. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "dadu/p10-ilustrasi-kanan.lama": {
+    "status": "salah",
+    "catatan": "Dadu kiri punya sisi depan kosong (0 titik); dadu kanan: sisi 3 dan 4 bersebelahan. Menyesatkan untuk soal peluang dadu (sisi berseberangan berjumlah 7). Koreksi: \"Standard six-sided dice: each die shows six DIFFERENT faces 1–6, opposite faces sum to 7 (1–6, 2–5, 3–4), so 1&6, 2&5 and 3&4 can NEVER be visible at the same time. Every visible face must have between 1 and 6 pips in the standard layout — no blank faces, no faces with 7 or more pips, no repeated number on one die.\""
+  },
+  "kartu-bernomor/p01-realistis-depan.lama": {
+    "status": "salah",
+    "catatan": "Kantong hanya berisi 8 bola (3 merah, 3 biru, 2 kuning), padahal prompt: 5 merah, 3 biru, 2 kuning (10 bola). Soal peluang mengambil bola memakai komposisi ini, jadi gambar menyesatkan. Kartu kosong di kiri sudah benar. Koreksi: \"The clear bag holds exactly 10 clearly countable ping-pong balls: 5 red, 3 blue, 2 yellow, none hidden behind others.\""
+  },
+  "kartu-bernomor/p02-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Kantong berisi 8 bola (4 merah, 2 biru, 2 kuning), bukan 5 merah, 3 biru, 2 kuning. Menyesatkan untuk soal peluang. Koreksi: \"The clear bag holds exactly 10 clearly countable ping-pong balls: 5 red, 3 blue, 2 yellow, none hidden behind others.\""
+  },
+  "spinner/p01-realistis-atas.lama": {
+    "status": "salah",
+    "catatan": "Spinner terbagi 12 juring, bukan 8 juring sama besar seperti prompt (dan ada warna berulang). Objek ini dipakai untuk soal peluang (1/8), jadi gambar ini menyesatkan. Koreksi: \"Exactly 8 equal 45° sectors, one each in red, orange, yellow, green, teal, blue, purple, pink — no repeated colors — with a black arrow on a center pivot.\""
+  },
+  "spinner/p02-ilustrasi-atas.lama": {
+    "status": "salah",
+    "catatan": "Spinner terbagi 12 juring, bukan 8 juring sama besar seperti prompt (dan ada warna berulang). Objek ini dipakai untuk soal peluang (1/8), jadi gambar ini menyesatkan. Koreksi: \"Exactly 8 equal 45° sectors, one each in red, orange, yellow, green, teal, blue, purple, pink — no repeated colors — with a black arrow on a center pivot.\""
+  },
+  "susunan-pola-bola/p01-realistis-atas": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: bilangan segitiga 1, 3, 6, 10 manik kayu, tanpa angka. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "susunan-pola-bola/p02-ilustrasi-atas.lama": {
+    "status": "salah",
+    "catatan": "Kelompok yang tampak 3, 6, dan 6–7 manik, bukan bilangan segitiga 1, 3, 6, 10; manik juga diberi angka acak (1, 5, 3, 6, 2, 10, 4…) padahal prompt melarang angka. Menyesatkan untuk soal pola bilangan segitiga. Koreksi: \"Four separate triangular groups left to right with exactly 1, 3, 6 and 10 plain wooden beads (rows 1 / 1-2 / 1-2-3 / 1-2-3-4), beads touching, no numbers or marks on any bead.\""
+  },
+  "timbangan-aljabar/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-mtk.mjs), bukan Gemini: semua jumlah/sudut dihitung kode. Isi: neraca seimbang: kiri kantong tertutup + 2 kubus, kanan 5 kubus, kedua piring sejajar. Gaya ilustrasi datar juga dipakai untuk slot realistis karena akurasi lebih penting. Diperiksa visual."
+  },
+  "timbangan-aljabar/p02-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Piring kanan hanya berisi 4 kubus (prompt: 5) dan kedua piring tidak sejajar (kiri lebih rendah). Soal 'kantong + 2 = 5' jadi tidak cocok dengan gambar. Koreksi: \"Left pan: one closed paper bag plus exactly 2 wooden cubes; right pan: exactly 5 identical wooden cubes, all visible; beam perfectly horizontal and both pans at exactly the same height (equilibrium).\""
+  },
+  "kubus/p07-ilustrasi-depan.lama": {
+    "status": "salah",
+    "catatan": "Bangun yang digambar punya 12 titik sudut merah dan siluet segi enam (seperti prisma segi enam/kubus terpotong), bukan kubus 8 titik sudut. Menyesatkan untuk soal menghitung titik sudut dan rusuk. Koreksi: \"Draw a true cube: exactly 8 vertices (red spheres), 12 edges, 6 square faces. Front face is a square seen face-on; the back face is the same-size square offset slightly up, connected by 4 short edges. No extra corners, no chamfered or hexagonal outline.\""
+  },
+  "kubus/p08-ilustrasi-belakang.lama": {
+    "status": "salah",
+    "catatan": "Sama dengan p07: 12 titik sudut dan siluet segi enam, bukan kubus (8 titik sudut). Koreksi: \"Draw a true cube: exactly 8 vertices (red spheres), 12 edges, 6 square faces. Front face is a square seen face-on; the back face is the same-size square offset slightly up, connected by 4 short edges. No extra corners, no chamfered or hexagonal outline.\""
+  },
+  "kubus/p09-ilustrasi-kiri.lama": {
+    "status": "ok",
+    "catatan": "Lolos: 8 titik sudut, 12 rusuk, sisi depan persegi, kamera sedikit di atas sesuai prompt, latar putih, tanpa teks."
+  },
+  "kubus/p10-ilustrasi-kanan.lama": {
+    "status": "ok",
+    "catatan": "Lolos: 8 titik sudut, 12 rusuk, sisi depan persegi, konsisten dengan p09 (kubus simetris), latar putih, tanpa teks."
+  },
+  "pizza-pecahan/p01-realistis-atas.lama": {
+    "status": "salah",
+    "catatan": "Potongan pizza tidak sama besar (garis potong tidak berasal dari satu titik pusat dan lebar irisan berbeda-beda), padahal objek ini dipakai untuk soal pecahan 1/8. Menyesatkan. Koreksi: \"Exactly 8 equal 45° wedges, all cut lines passing through the exact center, one wedge pulled slightly away from the rest.\""
   }
 }

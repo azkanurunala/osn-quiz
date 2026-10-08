@@ -121,33 +121,63 @@ Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segm
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
 Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
 Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
-Composition: ONLY this single object, centered, about 10% empty margin on every side.
+Composition: ONLY this single object, centered, about 10% empty margin on every side. ONE single image of ONE single chrysalis — absolutely NOT a grid, NOT a 2×2 layout, NOT a contact sheet, NOT multiple panels or copies in one frame.
 FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
 Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
-Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
-View: strict FRONT view, full body. Orientation: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture, grid layout, multiple panels, duplicate copies, collage, contact sheet.
+View: strict FRONT view, ONE single chrysalis, full body, one image only. Orientation: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). The chrysalis's long axis is vertical (head end near the silk girdle at the top, tapering down to the tail/cremaster at the silk pad); it faces the camera so its convex front surface, with the bulging wing-case ridge, is toward the viewer, left and right halves roughly symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose. If the output shows more than one chrysalis anywhere in the frame, it is wrong.
 ```
 
-### Prompt 8 — Tampak BELAKANG (kirim di chat yang sama setelah Prompt 7)
+### Prompt 8 — Tampak BELAKANG (standalone, bukan lanjutan sesi)
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kepompong/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of a lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig. Attached upright to the twig by a small white silk pad at its tail end and a thin silk girdle around its middle (swallowtail pupae do not hang upside down). Green angular chrysalis with subtle gold dots and visible outline of the developing wings, smooth waxy surface.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
+Composition: ONLY this single object, centered, about 10% empty margin on every side. ONE single image of ONE single chrysalis — not a grid, not multiple panels.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture, grid layout, multiple panels, duplicate copies.
+View: strict BACK view, full body, ONE single chrysalis. Orientation: this is the SAME lime butterfly chrysalis (Papilio demoleus pupa) on its short bare twig, rotated 180° around its own vertical axis from the front view so the camera now looks at the side that faces the twig/bark: the smoother, flatter dorsal ridge of the chrysalis is toward the viewer, and the pronounced wing-case bulge that dominates the front view is now on the FAR side, hidden or only barely visible at the silhouette's edge. The thin silk girdle thread still crosses the middle, and the twig attachment point is a little more visible just behind the body. The chrysalis keeps the same vertical orientation (head end up near the girdle, tail/cremaster down at the silk pad). This rendering must look clearly different from the front view — if the wing-case bulge faces the camera the same way as in the front view, the image is wrong.
 ```
 
-### Prompt 9 — Tampak KIRI
+### Prompt 9 — Tampak KIRI (standalone, bukan lanjutan sesi)
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kepompong/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of a lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig. Attached upright to the twig by a small white silk pad at its tail end and a thin silk girdle around its middle (swallowtail pupae do not hang upside down). Green angular chrysalis with subtle gold dots and visible outline of the developing wings, smooth waxy surface.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
+Composition: ONLY this single object, centered, about 10% empty margin on every side. ONE single image of ONE single chrysalis — not a grid, not multiple panels.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture, grid layout, multiple panels, duplicate copies.
+View: strict LEFT side view, full body, ONE single chrysalis. Orientation: this is the SAME chrysalis, rotated 90° to the LEFT around its own vertical axis from the front view: the camera now looks at the chrysalis's left flank in pure profile — the body's silhouette is seen edge-on, its elongated angular cross-section showing the wing-case bulge as a distinct outward hump pointing toward the LEFT edge of the frame. The twig is seen edge-on, a thin line running vertically behind the body, and the silk girdle thread crosses the profile as a short diagonal line. The convex front surface that faced the camera in the front view is now turned away — only the narrow profile silhouette is visible, clearly different from both the front and back views.
 ```
 
-### Prompt 10 — Tampak KANAN
+### Prompt 10 — Tampak KANAN (standalone, bukan lanjutan sesi)
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/kepompong/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of a lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig. Attached upright to the twig by a small white silk pad at its tail end and a thin silk girdle around its middle (swallowtail pupae do not hang upside down). Green angular chrysalis with subtle gold dots and visible outline of the developing wings, smooth waxy surface.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real lime butterfly chrysalis (Papilio demoleus pupa) on a short bare twig.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
+Composition: ONLY this single object, centered, about 10% empty margin on every side. ONE single image of ONE single chrysalis — not a grid, not multiple panels.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture, grid layout, multiple panels, duplicate copies.
+View: strict RIGHT side view, full body, ONE single chrysalis. Orientation: this is the SAME chrysalis, rotated 90° to the RIGHT around its own vertical axis from the front view — the true mirror image of the left-side view: the body's silhouette seen edge-on from the opposite flank, with the wing-case bulge hump now pointing toward the RIGHT edge of the frame instead of the left. The twig is seen edge-on behind the body, and the girdle thread crosses as a mirrored diagonal line. This must look like a mirror of the left-side view, not an identical repeat of it or of the front/back views.
 ```

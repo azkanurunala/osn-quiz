@@ -62,12 +62,21 @@ Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, h
 View: strict FRONT view, full body. Orientation: FRONT = the animal faces the camera head-on; LEFT/RIGHT = full side profile showing the whole body length; BACK = seen from behind (tail end). The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
 ```
 
-### Prompt 3 — Tampak BELAKANG (kirim di chat yang sama setelah Prompt 2)
+### Prompt 3 — Tampak BELAKANG (standalone, bukan lanjutan sesi)
 
 **Simpan hasil sebagai:** `image-results/ipa/01-makhluk-hidup/lebah/p03-realistis-belakang.png`
 
 ```text
-Using the exact same western honey bee worker (Apis mellifera) from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid white background (#FFFFFF), no shadow, no text, nothing else in the frame.
+Ultra-photorealistic, hyper-detailed natural-history studio photograph of a real, living specimen of a western honey bee worker (Apis mellifera), macro view. Fuzzy golden-brown thorax hairs, striped black-and-amber abdomen, two pairs of transparent veined wings, compound eyes, antennae, pollen baskets with yellow pollen on hind legs, stinger retracted inside the abdomen tip (not visible).
+Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
+Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
+Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
+Child-appropriate (students aged 10–12): in any rear or back view the tail hangs down naturally and covers the rear; no anus or genitals visible.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid white background (#FFFFFF) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
+View: strict BACK view, full body. Orientation: the SAME western honey bee worker (Apis mellifera), rotated 180° from the front view so the camera looks at it from directly behind, along its body axis: the striped black-and-amber abdomen tip (where the stinger retracts, not visible) is the part nearest the camera/at the bottom of the frame, while the thorax and head are at the far end of the body and strongly foreshortened — the head, compound eyes, and antennae must NOT be visible or recognizable from this angle. The two pairs of wings are folded back over the abdomen, seen from behind as overlapping translucent panels. The hind legs with their yellow pollen baskets trail backward to the sides, visible in profile. This must look clearly different from the front (head-first) view — if the head or antennae are visible, the image is wrong.
 ```
 
 ### Prompt 4 — Tampak KIRI

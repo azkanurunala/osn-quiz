@@ -48,7 +48,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p02-realistis-depan.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed photorealistic NASA-quality 3D render based on real spacecraft imagery of the planet Mars as a full sphere, fully lit. Rusty red-orange dusty surface, dark albedo markings, Valles Marineris canyon, Olympus Mons volcano, white polar ice cap, thin hazy atmosphere at the limb.
+Ultra-photorealistic, hyper-detailed photorealistic NASA-quality 3D render based on real spacecraft imagery of the planet Mars as a full sphere, fully lit. This view shows Mars' THARSIS-FACING HEMISPHERE: the four giant Tharsis shield volcanoes dominate this side (Olympus Mons, the largest volcano in the Solar System, plus Arsia Mons, Pavonis Mons and Ascraeus Mons lined up in a diagonal chain), and immediately to the east of the Tharsis bulge runs the vast Valles Marineris canyon system, a long dark gash cutting across the rusty red-orange dusty surface. A bright white north polar ice cap caps the very top of the sphere and a bright white south polar ice cap caps the very bottom (both polar caps appear in every view, since the camera only rotates around the planet's vertical spin axis).
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -56,15 +56,23 @@ Composition: ONLY this single object, centered, about 10% empty margin on every 
 FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
 Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
 Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
-View: strict FRONT view, full body. Orientation: FRONT = hemisphere facing camera at 0° longitude; BACK = opposite hemisphere (180°); LEFT/RIGHT = hemispheres at 90° west and 90° east; north pole always up. The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
+View: strict FRONT view, full body, showing exactly the Tharsis / Valles Marineris hemisphere described above, with both white polar ice caps visible top and bottom. The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
 ```
 
-### Prompt 3 — Tampak BELAKANG (kirim di chat yang sama setelah Prompt 2)
+### Prompt 3 — Tampak BELAKANG
 
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p03-realistis-belakang.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+Ultra-photorealistic, hyper-detailed photorealistic NASA-quality 3D render based on real spacecraft imagery of the planet Mars as a full sphere, fully lit. This view shows the hemisphere roughly OPPOSITE the Tharsis volcanoes (180° around from the front view) — clearly different terrain: the huge, smooth, pale Hellas Planitia impact basin (one of the largest impact craters in the Solar System) sits prominently on the rusty red-orange dusty surface, with the dark triangular albedo marking of Syrtis Major Planum nearby, set among ancient heavily cratered highland terrain (Arabia Terra / Noachis Terra). No Tharsis volcanoes and no Valles Marineris canyon are visible on this side. The same bright white north polar ice cap sits at the top and south polar ice cap at the bottom as in every view.
+Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. This back hemisphere must look CLEARLY DIFFERENT from the front view — no volcanoes, no canyon; instead the pale round Hellas basin and dark Syrtis Major marking. Every fine detail must be visible and physically plausible.
+Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
+Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
+View: strict BACK view, full body, showing exactly the Hellas Planitia / Syrtis Major hemisphere described above (180° from the front view), with both white polar ice caps visible top and bottom, same as every view. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose. Same proportions, colors, textures, lighting, scale and camera height as the front view so the two renders are directly comparable in quality — but the surface pattern itself must be this genuinely different back hemisphere, never a copy of the front view's volcanoes and canyon.
 ```
 
 ### Prompt 4 — Tampak KIRI
@@ -72,7 +80,15 @@ Using the exact same planet Mars as a full sphere from the previous image, rotat
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p04-realistis-kiri.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+Ultra-photorealistic, hyper-detailed photorealistic NASA-quality 3D render based on real spacecraft imagery of the planet Mars as a full sphere, fully lit. This view shows the transitional hemisphere 90° to one side of the front view — dominated by ancient, densely cratered southern highland terrain (Noachis Terra) and the large circular Argyre Planitia impact basin (the second-largest basin on Mars, a smooth pale depression), with the end of Valles Marineris trailing off near one edge of this view and the edge of Hellas Planitia trailing off near the other edge. The same bright white polar ice caps sit at the top and bottom as in every view.
+Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. This hemisphere's named surface features must be genuinely distinct from the front (Tharsis/Valles Marineris), back (Hellas/Syrtis Major), and right (Isidis/northern lowlands) views. Every fine detail must be visible and physically plausible.
+Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
+Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
+View: strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): pure side silhouette showing the Argyre Planitia / southern-highlands terrain described above, with both white polar ice caps visible top and bottom. Straight side-on, orthographic, no three-quarter angle. Same proportions, colors, textures, lighting, scale, and camera height as the other views, same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 5 — Tampak KANAN
@@ -80,7 +96,15 @@ Using the exact same planet Mars as a full sphere from the previous images, rota
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p05-realistis-kanan.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same proportions, colors, textures, lighting, scale, and camera height. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+Ultra-photorealistic, hyper-detailed photorealistic NASA-quality 3D render based on real spacecraft imagery of the planet Mars as a full sphere, fully lit. This view shows the transitional hemisphere 90° to the other side of the front view — dominated by smooth northern lowland plains (Vastitas Borealis / Acidalia Planitia) and the large circular Isidis Planitia impact basin near one edge, with the edge of Olympus Mons trailing off near one edge of this view and the edge of Syrtis Major trailing off near the other edge. The same bright white polar ice caps sit at the top and bottom as in every view.
+Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. This hemisphere's named surface features must be genuinely distinct from the front (Tharsis/Valles Marineris), back (Hellas/Syrtis Major), and left (Argyre/southern highlands) views — each of the four views must show its own distinct combination of named Mars landmarks. Every fine detail must be visible and physically plausible.
+Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
+Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, cartoon or illustration style, CGI plastic look.
+View: strict RIGHT side profile (the object's own right side, exactly 90° from the front view, mirror layout of the left view): pure side silhouette showing the Isidis Planitia / northern-lowlands terrain described above, with both white polar ice caps visible top and bottom. Straight side-on, orthographic, no three-quarter angle. Same proportions, colors, textures, lighting, scale, and camera height as the other views, same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
 ```
 
 ---
@@ -109,24 +133,33 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p07-ilustrasi-depan.png`
 
 ```text
-High-quality, highly detailed educational illustration of the planet Mars as a full sphere, fully lit, drawn as an astronomy textbook illustration. Rusty red-orange dusty surface, dark albedo markings, Valles Marineris canyon, Olympus Mons volcano, white polar ice cap, thin hazy atmosphere at the limb.
+High-quality, highly detailed educational illustration of the planet Mars as a full sphere, fully lit, drawn as an astronomy textbook illustration. This view shows Mars' THARSIS-FACING HEMISPHERE: the four giant Tharsis shield volcanoes dominate this side (Olympus Mons, the largest volcano in the Solar System, plus Arsia Mons, Pavonis Mons and Ascraeus Mons lined up in a diagonal chain), and immediately to the east of the Tharsis bulge runs the vast Valles Marineris canyon system, a long dark gash cutting across the rusty red-orange dusty surface. A bright white north polar ice cap caps the very top and a bright white south polar ice cap caps the very bottom (both polar caps appear in every view, since the view only rotates around the planet's vertical spin axis).
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
-Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real planet Mars as a full sphere.
+Accuracy: correct proportions and colors, matching the Tharsis/Valles Marineris hemisphere of the real planet Mars.
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
 Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
 Composition: ONLY this single object, centered, about 10% empty margin on every side.
 FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
 Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
 Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
-View: strict FRONT view, full body. Orientation: FRONT = hemisphere facing camera at 0° longitude; BACK = opposite hemisphere (180°); LEFT/RIGHT = hemispheres at 90° west and 90° east; north pole always up. The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
+View: strict FRONT view, full body, showing exactly the Tharsis / Valles Marineris hemisphere described above, with both white polar ice caps visible top and bottom. The object faces the camera squarely: its centerline points straight at the lens and its left and right halves look symmetrical. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose.
 ```
 
-### Prompt 8 — Tampak BELAKANG (kirim di chat yang sama setelah Prompt 7)
+### Prompt 8 — Tampak BELAKANG
 
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p08-ilustrasi-belakang.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous image, rotate it 180° and show the strict BACK view. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of the planet Mars as a full sphere, fully lit, drawn as an astronomy textbook illustration. This view shows the hemisphere roughly OPPOSITE the Tharsis volcanoes (180° around from the front view) — clearly different terrain: the huge, smooth, pale Hellas Planitia impact basin sits prominently on the rusty red-orange dusty surface, with the dark triangular albedo marking of Syrtis Major Planum nearby, set among ancient heavily cratered highland terrain (Arabia Terra / Noachis Terra). No Tharsis volcanoes and no Valles Marineris canyon are visible on this side. The same bright white polar ice caps sit at the top and bottom as in every view.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: this back hemisphere must look CLEARLY DIFFERENT from the front-view illustration — no volcanoes, no canyon; instead the pale round Hellas basin and dark Syrtis Major marking.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
+View: strict BACK view, full body, showing exactly the Hellas Planitia / Syrtis Major hemisphere described above (180° from the front view), with both white polar ice caps visible top and bottom. Camera at mid-height, straight-on, orthographic, absolutely no three-quarter or angled pose. Same illustration style, line weight, shading, colors, proportions, and scale as the front view — but the surface pattern itself must be this genuinely different back hemisphere.
 ```
 
 ### Prompt 9 — Tampak KIRI
@@ -134,7 +167,16 @@ Using the exact same planet Mars as a full sphere from the previous image, rotat
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p09-ilustrasi-kiri.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous images, rotate it to show the strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): the front/head of the object points to the LEFT edge of the image, pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of the planet Mars as a full sphere, fully lit, drawn as an astronomy textbook illustration. This view shows the transitional hemisphere 90° to one side of the front view — dominated by ancient, densely cratered southern highland terrain (Noachis Terra) and the large circular Argyre Planitia impact basin (a smooth pale depression), with the end of Valles Marineris trailing off near one edge of this view and the edge of Hellas Planitia trailing off near the other edge. The same bright white polar ice caps sit at the top and bottom as in every view.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: this hemisphere's named surface features must be genuinely distinct from the front (Tharsis/Valles Marineris), back (Hellas/Syrtis Major), and right (Isidis/northern lowlands) illustrations.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
+View: strict LEFT side profile (the object's own left side, exactly 90° from the front view, not three-quarter): pure side silhouette showing the Argyre Planitia / southern-highlands terrain described above, with both white polar ice caps visible top and bottom. Straight side-on, orthographic, no three-quarter angle. Same illustration style, line weight, shading, colors, proportions, and scale as the other views. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
 ```
 
 ### Prompt 10 — Tampak KANAN
@@ -142,7 +184,16 @@ Using the exact same planet Mars as a full sphere from the previous images, rota
 **Simpan hasil sebagai:** `image-results/ipa/05-bumi-antariksa/mars/p10-ilustrasi-kanan.png`
 
 ```text
-Using the exact same planet Mars as a full sphere from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: same object, same illustration style, line weight, shading, colors, proportions, and scale. Full body — nothing cropped. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
+High-quality, highly detailed educational illustration of the planet Mars as a full sphere, fully lit, drawn as an astronomy textbook illustration. This view shows the transitional hemisphere 90° to the other side of the front view — dominated by smooth northern lowland plains (Vastitas Borealis / Acidalia Planitia) and the large circular Isidis Planitia impact basin near one edge, with the edge of Olympus Mons trailing off near one edge of this view and the edge of Syrtis Major trailing off near the other edge. The same bright white polar ice caps sit at the top and bottom as in every view.
+Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
+Accuracy: this hemisphere's named surface features must be genuinely distinct from the front, back, and left illustrations — each of the four views must show its own distinct combination of named Mars landmarks.
+Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
+Rendering: vector-like clean edges, high resolution, sharp, suitable for printing and for use as a cut-out sticker.
+Composition: ONLY this single object, centered, about 10% empty margin on every side.
+FULL BODY: the entire object shown completely from its topmost to bottommost point, including all extremities (legs, tail, antennae, wingtips, fins, roots, stems, cables, handles) — nothing cropped, nothing cut off by the frame edge.
+Background: isolated on a pure, flat, solid black background (#000000) — absolutely no scene, no environment, no floor, no table, no cast shadow, no reflection, no gradient, no vignette.
+Exclude: text, labels, letters, numbers, arrows, watermark, logo, brand names, human hands, extra objects, blood, gore, photorealism, photographic textures, 3D render look, sketchy or messy lines, paper texture.
+View: strict RIGHT side profile (the object's own right side, exactly 90° from the front view, mirror layout of the left view): pure side silhouette showing the Isidis Planitia / northern-lowlands terrain described above, with both white polar ice caps visible top and bottom. Straight side-on, orthographic, no three-quarter angle. Same illustration style, line weight, shading, colors, proportions, and scale as the other views. Same pure solid black background (#000000), no shadow, no text, nothing else in the frame.
 ```
 
 ---
