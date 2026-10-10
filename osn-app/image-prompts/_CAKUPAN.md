@@ -4,16 +4,16 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 
 | | Jumlah soal |
 |---|---:|
-| Foto objek lolos review (tampil di app) | 2315 |
-| Diagram SVG app | 7272 |
-| Objek ada di katalog, foto belum lolos/dipakai | 5847 |
+| Foto objek lolos review (tampil di app) | 2346 |
+| Diagram SVG app | 7253 |
+| Objek ada di katalog, foto belum lolos/dipakai | 5835 |
 | Tanpa ilustrasi | 3926 |
 
 | Video | Paket | Soal | Foto | Diagram | Objek | Tanpa |
 |---|---|---:|---:|---:|---:|---:|
-| 001 | ipa-01-makhluk-hidup-campur | 100 | 17 | 26 | 32 | 25 |
+| 001 | ipa-01-makhluk-hidup-campur | 100 | 16 | 26 | 33 | 25 |
 | 007 | ipa-01a-ciri-makhluk-hidup-campur | 100 | 21 | 16 | 27 | 36 |
-| 008 | ipa-01b-klasifikasi-hewan-campur | 100 | 5 | 16 | 67 | 12 |
+| 008 | ipa-01b-klasifikasi-hewan-campur | 100 | 6 | 16 | 66 | 12 |
 | 009 | ipa-01c-klasifikasi-tumbuhan-campur | 100 | 23 | 0 | 57 | 20 |
 | 010 | ipa-01d-struktur-tumbuhan-campur | 100 | 16 | 1 | 57 | 26 |
 | 011 | ipa-01e-reproduksi-tumbuhan-campur | 100 | 8 | 0 | 65 | 27 |
@@ -32,7 +32,7 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 | 024 | ipa-01r-populasi-siklus-materi-campur | 100 | 23 | 36 | 32 | 9 |
 | 025 | ipa-02-tubuh-manusia-campur | 100 | 19 | 47 | 26 | 8 |
 | 031 | ipa-02a-pencernaan-campur | 100 | 9 | 62 | 22 | 7 |
-| 032 | ipa-02b-pernapasan-campur | 100 | 24 | 35 | 21 | 20 |
+| 032 | ipa-02b-pernapasan-campur | 100 | 23 | 35 | 22 | 20 |
 | 033 | ipa-02c-peredaran-darah-campur | 100 | 20 | 26 | 41 | 13 |
 | 034 | ipa-02d-ekskresi-campur | 100 | 15 | 34 | 49 | 2 |
 | 035 | ipa-02e-saraf-indera-campur | 100 | 18 | 3 | 60 | 19 |
@@ -45,26 +45,26 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 | 042 | ipa-02l-kebersihan-campur | 100 | 24 | 3 | 37 | 36 |
 | 043 | ipa-02m-diagnosis-gejala-campur | 100 | 11 | 7 | 54 | 28 |
 | 044 | ipa-02n-bioteknologi-campur | 100 | 26 | 2 | 61 | 11 |
-| 045 | ipa-03-gaya-gerak-energi-campur | 100 | 26 | 32 | 27 | 15 |
+| 045 | ipa-03-gaya-gerak-energi-campur | 100 | 28 | 30 | 27 | 15 |
 | 051 | ipa-03a-jenis-gaya-campur | 100 | 27 | 15 | 37 | 21 |
 | 052 | ipa-03b-gerak-campur | 100 | 29 | 12 | 38 | 21 |
 | 053 | ipa-03c-pengaruh-gaya-campur | 100 | 18 | 3 | 49 | 30 |
 | 054 | ipa-03d-tuas-campur | 100 | 24 | 4 | 34 | 38 |
-| 055 | ipa-03e-katrol-campur | 100 | 43 | 53 | 2 | 2 |
+| 055 | ipa-03e-katrol-campur | 100 | 54 | 42 | 2 | 2 |
 | 056 | ipa-03f-bidang-miring-campur | 100 | 46 | 46 | 7 | 1 |
 | 057 | ipa-03g-roda-berporos-campur | 100 | 21 | 42 | 35 | 2 |
-| 058 | ipa-03h-bentuk-energi-campur | 100 | 24 | 3 | 42 | 31 |
-| 059 | ipa-03i-perubahan-energi-campur | 100 | 20 | 2 | 55 | 23 |
-| 060 | ipa-03j-listrik-seri-paralel-campur | 100 | 14 | 32 | 27 | 27 |
-| 061 | ipa-03k-konduktor-isolator-campur | 100 | 15 | 55 | 21 | 9 |
-| 062 | ipa-03l-magnet-campur | 100 | 29 | 63 | 7 | 1 |
+| 058 | ipa-03h-bentuk-energi-campur | 100 | 25 | 3 | 41 | 31 |
+| 059 | ipa-03i-perubahan-energi-campur | 100 | 21 | 2 | 54 | 23 |
+| 060 | ipa-03j-listrik-seri-paralel-campur | 100 | 23 | 29 | 21 | 27 |
+| 061 | ipa-03k-konduktor-isolator-campur | 100 | 19 | 54 | 18 | 9 |
+| 062 | ipa-03l-magnet-campur | 100 | 30 | 63 | 6 | 1 |
 | 063 | ipa-03m-momentum-campur | 100 | 28 | 0 | 57 | 15 |
 | 064 | ipa-03n-tekanan-campur | 100 | 19 | 9 | 61 | 11 |
 | 065 | ipa-03o-listrik-statis-campur | 100 | 25 | 20 | 50 | 5 |
 | 066 | ipa-03p-induksi-elektromagnetik-campur | 100 | 17 | 25 | 52 | 6 |
 | 067 | ipa-04-cahaya-bunyi-panas-campur | 80 | 24 | 27 | 14 | 15 |
 | 073 | ipa-04a-sifat-cahaya-campur | 100 | 19 | 44 | 24 | 13 |
-| 074 | ipa-04b-cermin-campur | 100 | 44 | 30 | 17 | 9 |
+| 074 | ipa-04b-cermin-campur | 100 | 46 | 28 | 17 | 9 |
 | 075 | ipa-04c-lensa-pembiasan-campur | 100 | 11 | 31 | 41 | 17 |
 | 076 | ipa-04d-penguraian-cahaya-campur | 100 | 12 | 39 | 24 | 25 |
 | 077 | ipa-04e-sifat-bunyi-campur | 100 | 14 | 7 | 39 | 40 |
@@ -83,7 +83,7 @@ Di-generate oleh `_src/audit-cakupan.mjs`. 201 video, 19360 soal.
 | 095 | ipa-05a-tata-surya-campur | 100 | 14 | 62 | 22 | 2 |
 | 096 | ipa-05b-lapisan-bumi-campur | 100 | 27 | 15 | 40 | 18 |
 | 097 | ipa-05c-rotasi-revolusi-campur | 100 | 19 | 29 | 24 | 28 |
-| 098 | ipa-05d-fase-bulan-campur | 100 | 15 | 23 | 44 | 18 |
+| 098 | ipa-05d-fase-bulan-campur | 100 | 16 | 23 | 43 | 18 |
 | 099 | ipa-05e-gerhana-campur | 100 | 26 | 62 | 6 | 6 |
 | 100 | ipa-05f-cuaca-iklim-campur | 100 | 15 | 8 | 36 | 41 |
 | 101 | ipa-05g-batuan-campur | 100 | 22 | 6 | 36 | 36 |

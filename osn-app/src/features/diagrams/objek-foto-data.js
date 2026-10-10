@@ -1970,7 +1970,8 @@ export const OBJEK_FOTO = [
     "id": "katrol-bergerak",
     "title": "Katrol bergerak",
     "kw": "katrol bergerak|katrol bebas",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/katrol-bergerak.webp"
   },
   {
     "id": "katrol-majemuk",
@@ -1984,7 +1985,10 @@ export const OBJEK_FOTO = [
     "title": "Bidang miring",
     "kw": "bidang miring|papan|landai|curam",
     "bab": "ipa-03",
-    "file": "objek/bidang-miring-papan.webp"
+    "file": "objek/bidang-miring-papan.webp",
+    "views": {
+      "samping": "objek/bidang-miring-papan-samping.webp"
+    }
   },
   {
     "id": "sekrup-baut",
@@ -2115,7 +2119,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-03",
     "file": "objek/panel-surya.webp",
     "views": {
-      "samping": "objek/panel-surya-samping.webp"
+      "samping": "objek/panel-surya-samping.webp",
+      "penampang": "objek/panel-surya-penampang.webp"
     }
   },
   {
@@ -2134,7 +2139,10 @@ export const OBJEK_FOTO = [
     "title": "Baterai & aki",
     "kw": "baterai|aki|batu baterai|elemen",
     "bab": "ipa-03",
-    "file": "objek/baterai-set.webp"
+    "file": "objek/baterai-set.webp",
+    "views": {
+      "penampang": "objek/baterai-set-penampang.webp"
+    }
   },
   {
     "id": "rangkaian-seri",
@@ -2154,7 +2162,8 @@ export const OBJEK_FOTO = [
     "id": "sakelar-stopkontak-set",
     "title": "Sakelar, stopkontak, steker, sekering",
     "kw": "sakelar|saklar|stop ?kontak|steker|sekering|mcb|colokan",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/sakelar-stopkontak-set.webp"
   },
   {
     "id": "kabel-penampang",
@@ -2199,13 +2208,20 @@ export const OBJEK_FOTO = [
     "title": "Elektromagnet",
     "kw": "elektromagnet|kumparan|lilitan",
     "bab": "ipa-03",
-    "file": "objek/elektromagnet.webp"
+    "file": "objek/elektromagnet.webp",
+    "views": {
+      "penampang": "objek/elektromagnet-penampang.webp"
+    }
   },
   {
     "id": "bel-listrik",
     "title": "Bel listrik",
     "kw": "bel listrik|bel",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/bel-listrik.webp",
+    "views": {
+      "penampang": "objek/bel-listrik-penampang.webp"
+    }
   },
   {
     "id": "tekanan-hidrostatis-botol",

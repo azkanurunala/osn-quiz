@@ -629,7 +629,7 @@ function solidsSet() {
   o += solidOpaque([[-1, -1, 0], [1, -1, 0], [1, 1, 0], [-1, 1, 0], [0, 0, 2]], [[0, 3, 2, 1], [0, 1, 4], [1, 2, 4], [2, 3, 4], [3, 0, 4]],
     { yaw: 25, scale: 80, cx: X[3], cy: G1, color: '#fdd835' });                                                  // limas segiempat
   const tb = [0, 1, 2].map((i) => [Math.cos(rad(90 + i * 120)), Math.sin(rad(90 + i * 120)), 0]);
-  o += solidOpaque([...tb, [0, 0, 1.63]], [[0, 2, 1], [0, 1, 3], [1, 2, 3], [2, 0, 3]], { yaw: 10, scale: 110, cx: X[0], cy: G2, color: '#8e24aa' }); // limas segitiga
+  o += solidOpaque([...tb, [0, 0, 1.63]], [[0, 2, 1], [0, 1, 3], [1, 2, 3], [2, 0, 3]], { yaw: 60, scale: 110, cx: X[0], cy: G2, color: "#8e24aa" }); // limas segitiga
   // tabung
   const tr = 66; const tryy = tr * Math.sin(rad(20)); const th = 170;
   o += `<path d="M${X[1] - tr},${G2 - th} V${G2} A${tr},${f(tryy)} 0 0 0 ${X[1] + tr},${G2} V${G2 - th} Z" fill="url(#cyl)" stroke="${INK}" stroke-width="5"/>`
@@ -715,20 +715,22 @@ function geoboard() {
 // ---------- MTK: matchstick pattern — 1, 2, 3 joined squares (4, 7, 10 sticks), one pattern per row ----------
 function matchsticks() {
   const L = 210;
+  // wooden stick from (x1,y1) to (x2,y2); its red head is the last 30 px at the (x2,y2) end
   const stick = (x1, y1, x2, y2) => {
     const a = Math.atan2(y2 - y1, x2 - x1); const ux = Math.cos(a); const uy = Math.sin(a);
-    const p = [x1 + ux * 12, y1 + uy * 12]; const q = [x2 - ux * 12, y2 - uy * 12];
-    const hx = Math.abs(ux) > 0.5;
-    return `<line x1="${f(p[0])}" y1="${f(p[1])}" x2="${f(q[0])}" y2="${f(q[1])}" stroke="#8d6e63" stroke-width="22" stroke-linecap="round"/>`
-      + `<line x1="${f(p[0])}" y1="${f(p[1])}" x2="${f(q[0])}" y2="${f(q[1])}" stroke="#e3c08d" stroke-width="15" stroke-linecap="round"/>`
-      + `<ellipse cx="${f(q[0])}" cy="${f(q[1])}" rx="${hx ? 20 : 15}" ry="${hx ? 15 : 20}" fill="#c62828" stroke="#7f0000" stroke-width="3"/>`;
+    const p = [x1 + ux * 14, y1 + uy * 14]; const q = [x2 - ux * 14, y2 - uy * 14]; const h = [q[0] - ux * 30, q[1] - uy * 30];
+    const seg = (c, w, [sx, sy], [ex, ey]) => `<line x1="${f(sx)}" y1="${f(sy)}" x2="${f(ex)}" y2="${f(ey)}" stroke="${c}" stroke-width="${w}" stroke-linecap="round"/>`;
+    return seg('#8d6e63', 22, p, q) + seg('#e3c08d', 15, p, q) + seg('#7f0000', 22, h, q) + seg('#c62828', 15, h, q);
   };
   let o = '';
   const x0 = (1024 - 3 * L) / 2;
   [1, 2, 3].forEach((n, k) => {
     const y0 = 105 + k * 315; const y1 = y0 + L;
-    for (let i = 0; i < n; i++) o += stick(x0 + i * L, y0, x0 + (i + 1) * L, y0) + stick(x0 + i * L, y1, x0 + (i + 1) * L, y1);
-    for (let i = 0; i <= n; i++) o += stick(x0 + i * L, y1, x0 + i * L, y0);
+    for (let i = 0; i < n; i++) {
+      o += stick(x0 + i * L, y0, x0 + (i + 1) * L, y0);   // top sticks: head to the right
+      o += stick(x0 + (i + 1) * L, y1, x0 + i * L, y1);   // bottom sticks: head to the left
+    }
+    for (let i = 0; i <= n; i++) o += i % 2 ? stick(x0 + i * L, y1, x0 + i * L, y0) : stick(x0 + i * L, y0, x0 + i * L, y1);
   });
   return svg(o);
 }
@@ -774,7 +776,7 @@ const OBJECTS = {
   'mtk/04-geometri-ruang/bangun-ruang-set': () => solidsSet(),
   'mtk/03-geometri-datar/bangun-datar-set': () => flatShapes(),
   'mtk/03-geometri-datar/alat-geometri-set': () => geometrySet(),
-  'mtk/03-geometri-datar/geoboard': { draw: () => geoboard(), only: /^p01-/ },
+  'mtk/03-geometri-datar/geoboard': () => geoboard(),
   'mtk/08-pola-logika-aljabar/batang-korek-pola': () => matchsticks(),
   'mtk/01-bilangan-pecahan/cokelat-batang': () => chocolate(),
   'mtk/01-bilangan-pecahan/kue-bolu-pecahan': { draw: () => cake(), only: /^p01-/ },
@@ -816,7 +818,7 @@ for (const [rel, spec] of Object.entries(OBJECTS)) {
   if (only && !only.split(',').includes(rel.split('/').pop())) continue;
   const { draw, only: slotRe } = typeof spec === 'function' ? { draw: spec } : spec;
   const dir = join('image-results', rel);
-  const slots = [...new Set(readdirSync(dir).filter((f) => /^p\d\d-/.test(f) && !f.includes('.lama.') && !/turnaround/.test(f)).map((f) => f.replace(/\.[a-z]+$/, '')))]
+  const slots = [...new Set(readdirSync(dir).filter((f) => /^p\d\d-/.test(f) && !/turnaround/.test(f)).map((f) => f.replace(/[.]lama(?=[.])/, '').replace(/[.][a-z]+$/, '')))]
     .filter((s) => !slotRe || slotRe.test(s))
     .filter((s) => !emptyOnly || !hasPic(dir, s));
   for (const slot of slots) {
