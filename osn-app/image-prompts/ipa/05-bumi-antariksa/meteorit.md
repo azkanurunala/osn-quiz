@@ -3,15 +3,15 @@
 - **Bab:** IPA 05 · Bumi, Antariksa & Lingkungan
 - **Sub-bab:** 05a
 - **Objek (EN):** an iron meteorite (octahedrite) specimen
-- **Soal terkait:** 70 soal di 21 file
-  - `ipa-05a-tata-surya-campur` (15)
-  - `ipa-05-bumi-antariksa-mudah-sedang` (5)
-  - `ipa-05-bumi-antariksa-sedang-sulit` (5)
-  - `ipa-05-bumi-antariksa-sulit` (5)
-  - `ipa-05o-bintang-galaksi-campur` (5)
-  - `ipa-05-bumi-antariksa-campur` (4)
-  - `ipa-05-bumi-antariksa-sedang` (4)
-  - `ipa-05d-fase-bulan-campur` (4)
+- **Soal terkait:** 36 soal di 19 file
+  - `ipa-05g-batuan-campur` (4)
+  - `ipa-05n-bencana-alam-campur` (4)
+  - `ipa-05a-tata-surya-campur` (3)
+  - `ipa-05k-atmosfer-campur` (3)
+  - `ipa-05o-bintang-galaksi-campur` (3)
+  - `ipa-05-bumi-antariksa-mudah-sedang` (2)
+  - `ipa-05-bumi-antariksa-sedang-sulit` (2)
+  - `ipa-05-bumi-antariksa-sedang` (2)
 - **Tampak:** depan · belakang · kiri · kanan, semua full body
 - **Versi:** A. Realistis (prompt 1–5) · B. Ilustrasi (prompt 6–10)
 - **Folder hasil:** `image-results/ipa/05-bumi-antariksa/meteorit/`

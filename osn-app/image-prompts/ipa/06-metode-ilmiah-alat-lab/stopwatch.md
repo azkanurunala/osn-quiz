@@ -33,7 +33,7 @@
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/stopwatch/p01-realistis-turnaround.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed studio product photograph of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds ticks (numbers blurred) and a small minutes subdial, black hands, lanyard ring.
+Ultra-photorealistic, hyper-detailed studio product photograph of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds tick marks only (no numerals, no blurred patches) and ONE small minutes subdial with ticks only, one central seconds hand, a single crown with its lanyard ring at the top (12 oclock position) and nothing at the bottom, one small side pusher at the 10 oclock position.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -49,7 +49,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/stopwatch/p02-realistis-depan.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed studio product photograph of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds ticks (numbers blurred) and a small minutes subdial, black hands, lanyard ring.
+Ultra-photorealistic, hyper-detailed studio product photograph of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds tick marks only (no numerals, no blurred patches) and ONE small minutes subdial with ticks only, one central seconds hand, a single crown with its lanyard ring at the top (12 oclock position) and nothing at the bottom, one small side pusher at the 10 oclock position.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -93,7 +93,7 @@ Using the exact same classic mechanical sports stopwatch from the previous image
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/stopwatch/p06-ilustrasi-turnaround.png`
 
 ```text
-High-quality, highly detailed educational illustration of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds ticks (numbers blurred) and a small minutes subdial, black hands, lanyard ring.
+High-quality, highly detailed educational illustration of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds tick marks only (no numerals, no blurred patches) and ONE small minutes subdial with ticks only, one central seconds hand, a single crown with its lanyard ring at the top (12 oclock position) and nothing at the bottom, one small side pusher at the 10 oclock position.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real classic mechanical sports stopwatch.
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
@@ -110,7 +110,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/stopwatch/p07-ilustrasi-depan.png`
 
 ```text
-High-quality, highly detailed educational illustration of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds ticks (numbers blurred) and a small minutes subdial, black hands, lanyard ring.
+High-quality, highly detailed educational illustration of a classic mechanical sports stopwatch. Chrome case with top crown button and side button, white dial with fine seconds tick marks only (no numerals, no blurred patches) and ONE small minutes subdial with ticks only, one central seconds hand, a single crown with its lanyard ring at the top (12 oclock position) and nothing at the bottom, one small side pusher at the 10 oclock position.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real classic mechanical sports stopwatch.
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.

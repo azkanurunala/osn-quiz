@@ -1,0 +1,99 @@
+{
+  "_aturan": "Daftar gambar stok yang dipakai LANGSUNG di app. Hanya CC0 / public domain (atau Pixabay/Pexels/Unsplash dengan bukti lisensi). Dilarang CC BY / CC BY-SA. Gambar tanpa teks/label; URL dicatat di sini, TIDAK di piksel gambar. Satu entri per gambar.",
+  "_contoh": {
+    "objek": "jantung",
+    "slot": "p07-ilustrasi-depan",
+    "url_sumber": "https://commons.wikimedia.org/wiki/File:Contoh.svg",
+    "pembuat": "nama pembuat / situs",
+    "lisensi": "CC0 1.0",
+    "tanggal_unduh": "2026-10-10",
+    "bukti": "image-results/_stok-bukti/jantung-p07.png",
+    "catatan": "tanpa teks; sudah dicek"
+  },
+  "gambar": [
+    {
+      "objek": "bulan",
+      "slot": "p04-realistis-kiri",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Moon_left-view_(Clementine_dataset).png",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Moon_left-view_%28Clementine_dataset%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA/Goddard Space Flight Center Scientific Visualization Studio",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/bulan-p04-realistis-kiri.json",
+      "catatan": "Hemisfer 90°B (sisi dekat di kanan): Oceanus Procellarum, Mare Orientale dekat tengah-bawah; render NASA/GSFC SVS dari mosaik albedo Clementine (abu-abu), bukan foto langsung. Dipotong persegi (crop) di sekitar bola."
+    },
+    {
+      "objek": "bulan",
+      "slot": "p05-realistis-kanan",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Moon_right-view_(Clementine_dataset).png",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Moon_right-view_%28Clementine_dataset%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA/Goddard Space Flight Center Scientific Visualization Studio",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/bulan-p05-realistis-kanan.json",
+      "catatan": "Hemisfer 90°T (sisi dekat di kiri): Mare Crisium di kiri, Mare Moscoviense dan kawah Tsiolkovsky di sisi jauh; render NASA/GSFC SVS dari mosaik albedo Clementine (abu-abu). Dipotong persegi (crop) di sekitar bola."
+    },
+    {
+      "objek": "mars",
+      "slot": "p03-realistis-belakang",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Cerberus_Hemisphere.jpg",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cerberus_Hemisphere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/mars-p03-realistis-belakang.json",
+      "catatan": "Hemisfer ±175°T (bujur ±5° dari 180°): Elysium Mons, Cerberus; mosaik Viking Orbiter NASA/USGS, warna alami."
+    },
+    {
+      "objek": "mars",
+      "slot": "p04-realistis-kiri",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mars_Valles_Marineris.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA / USGS (see PIA04304 catalog page)",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/mars-p04-realistis-kiri.json",
+      "catatan": "Hemisfer ±78°B (±12° dari 90°B): Valles Marineris di tengah, tiga gunung api Tharsis di tepi kiri; mosaik 102 citra Viking 1 Orbiter NASA/USGS."
+    },
+    {
+      "objek": "mars",
+      "slot": "p05-realistis-kanan",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Marsglobe3.jpg",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Marsglobe3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA/USGS",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/mars-p05-realistis-kanan.json",
+      "catatan": "Hemisfer Syrtis Major, pusat ±54°T (selisih ±36° dari 90°T — tampak belahan timur yang benar, bukan tepat 90°): Syrtis Major gelap, Isidis, es Hellas di tepi bawah; mosaik Viking Orbiter NASA/USGS."
+    },
+    {
+      "objek": "neptunus",
+      "slot": "p02-realistis-depan",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Neptune_-_Voyager_2_(29347980845).png",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Neptune_-_Voyager_2_%2829347980845%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA / JPL / Voyager-ISS / Justin Cowart",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/neptunus-p02-realistis-depan.json",
+      "catatan": "Neptunus dari Voyager 2 (20 Agustus 1989): Great Dark Spot oval di tengah dengan sirus metana putih; diolah dari data NASA/JPL. Dipotong persegi (crop) di sekitar bola."
+    },
+    {
+      "objek": "neptunus",
+      "slot": "p05-realistis-kanan",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:PIA00046.jpg",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/PIA00046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "pembuat": "NASA/JPL",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-10",
+      "bukti": "image-results/_stok-bukti/neptunus-p05-realistis-kanan.json",
+      "catatan": "Neptunus dari Voyager 2 (16–17 Agustus 1989): Great Dark Spot bergeser ke tepi kiri (±45° dari tengah) dengan sirus putih; belahan timur dari tampak depan. Dipotong persegi (crop) di sekitar bola."
+    }
+  ]
+}

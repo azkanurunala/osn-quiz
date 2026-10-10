@@ -3,15 +3,9 @@
 - **Bab:** IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 - **Sub-bab:** 03a
 - **Objek (EN):** a laboratory spring scale (dynamometer)
-- **Soal terkait:** 53 soal di 18 file
-  - `ipa-03c-pengaruh-gaya-campur` (12)
-  - `ipa-03a-jenis-gaya-campur` (7)
-  - `ipa-03b-gerak-campur` (6)
-  - `ipa-04d-penguraian-cahaya-campur` (5)
-  - `ipa-03-gaya-gerak-energi-sulit` (4)
-  - `ipa-04a-sifat-cahaya-campur` (4)
-  - `ipa-03-gaya-gerak-energi-campur` (3)
-  - `ipa-03-gaya-gerak-energi-mudah` (2)
+- **Soal terkait:** 6 soal di 2 file
+  - `ipa-03a-jenis-gaya-campur` (5)
+  - `ipa-03-gaya-gerak-energi-mudah` (1)
 - **Tampak:** depan · belakang · kiri · kanan, semua full body
 - **Versi:** A. Realistis (prompt 1–5) · B. Ilustrasi (prompt 6–10)
 - **Folder hasil:** `image-results/ipa/03-gaya-gerak-energi/neraca-pegas/`

@@ -3,15 +3,8 @@
 - **Bab:** IPA 05 · Bumi, Antariksa & Lingkungan
 - **Sub-bab:** 05c
 - **Objek (EN):** a classic desk globe tilted 23.5° on its axis
-- **Soal terkait:** 294 soal di 70 file
-  - `ipa-05c-rotasi-revolusi-campur` (27)
-  - `ipa-03g-roda-berporos-campur` (17)
-  - `ipa-05-bumi-antariksa-sulit` (15)
-  - `ipa-05-bumi-antariksa-mudah` (14)
-  - `ipa-05-bumi-antariksa-sedang` (13)
-  - `ipa-05d-fase-bulan-campur` (12)
-  - `ipa-05-bumi-antariksa-campur` (11)
-  - `ipa-05-bumi-antariksa-mudah-sedang` (11)
+- **Soal terkait:** 1 soal di 1 file
+  - `ipa-05b-lapisan-bumi-campur` (1)
 - **Tampak:** depan · belakang · kiri · kanan, semua full body
 - **Versi:** A. Realistis (prompt 1–5) · B. Ilustrasi (prompt 6–10)
 - **Folder hasil:** `image-results/ipa/05-bumi-antariksa/globe/`

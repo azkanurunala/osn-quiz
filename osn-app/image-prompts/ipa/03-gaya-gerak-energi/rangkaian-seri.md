@@ -3,15 +3,15 @@
 - **Bab:** IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 - **Sub-bab:** 03j
 - **Objek (EN):** a real hands-on series circuit built on a wooden board
-- **Soal terkait:** 122 soal di 32 file
-  - `ipa-03j-listrik-seri-paralel-campur` (27)
-  - `ipa-03-gaya-gerak-energi-sedang` (13)
-  - `ipa-03-gaya-gerak-energi-sedang-sulit` (11)
-  - `ipa-03-gaya-gerak-energi-sulit` (10)
-  - `ipa-03-gaya-gerak-energi-campur` (9)
-  - `ipa-14-listrik-magnet-campur` (9)
-  - `ipa-03-gaya-gerak-energi-mudah-sedang` (7)
-  - `ipa-03-gaya-gerak-energi-mudah` (5)
+- **Soal terkait:** 63 soal di 20 file
+  - `ipa-03j-listrik-seri-paralel-campur` (15)
+  - `ipa-03-gaya-gerak-energi-campur` (6)
+  - `ipa-03-gaya-gerak-energi-sedang-sulit` (6)
+  - `ipa-03-gaya-gerak-energi-sedang` (6)
+  - `ipa-14-listrik-magnet-campur` (5)
+  - `ipa-03-gaya-gerak-energi-mudah-sedang` (4)
+  - `ipa-03-gaya-gerak-energi-mudah` (3)
+  - `ipa-komprehensif-sedang` (3)
 - **Tampak:** satu tampak lurus dari atas, full body (objek datar/simetris/percobaan)
 - **Versi:** A. Realistis (prompt 1) · B. Ilustrasi (prompt 2)
 - **Folder hasil:** `image-results/ipa/03-gaya-gerak-energi/rangkaian-seri/`

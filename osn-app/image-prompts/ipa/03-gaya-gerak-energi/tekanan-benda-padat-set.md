@@ -3,15 +3,15 @@
 - **Bab:** IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 - **Sub-bab:** 03n
 - **Objek (EN):** objects illustrating solid pressure arranged in a tidy row
-- **Soal terkait:** 372 soal di 88 file
-  - `ipa-03n-tekanan-campur` (65)
-  - `ipa-04k-perubahan-wujud-campur` (16)
-  - `ipa-01b-klasifikasi-hewan-campur` (11)
-  - `ipa-02e-saraf-indera-campur` (11)
-  - `ipa-05g-batuan-campur` (11)
-  - `ipa-04j-wujud-zat-campur` (10)
-  - `ipa-02c-peredaran-darah-campur` (9)
-  - `ipa-02-tubuh-manusia-sulit` (8)
+- **Soal terkait:** 24 soal di 13 file
+  - `ipa-03n-tekanan-campur` (11)
+  - `ipa-03o-listrik-statis-campur` (2)
+  - `ipa-01-makhluk-hidup-mudah` (1)
+  - `ipa-01-makhluk-hidup-sedang-sulit` (1)
+  - `ipa-01-makhluk-hidup-sedang` (1)
+  - `ipa-01-makhluk-hidup-sulit` (1)
+  - `ipa-01a-ciri-makhluk-hidup-campur` (1)
+  - `ipa-03-gaya-gerak-energi-mudah-sedang` (1)
 - **Tampak:** satu gambar berisi beberapa benda (set), lurus, full body
 - **Versi:** A. Realistis (prompt 1) · B. Ilustrasi (prompt 2)
 - **Folder hasil:** `image-results/ipa/03-gaya-gerak-energi/tekanan-benda-padat-set/`

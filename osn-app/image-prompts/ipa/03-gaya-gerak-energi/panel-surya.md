@@ -3,15 +3,15 @@
 - **Bab:** IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 - **Sub-bab:** 03h, 05i
 - **Objek (EN):** a monocrystalline solar panel module
-- **Soal terkait:** 77 soal di 37 file
-  - `ipa-05i-sumber-daya-alam-campur` (11)
-  - `ipa-03i-perubahan-energi-campur` (9)
-  - `ipa-04i-perpindahan-panas-campur` (5)
-  - `ipa-03h-bentuk-energi-campur` (4)
-  - `ipa-04a-sifat-cahaya-campur` (4)
+- **Soal terkait:** 40 soal di 24 file
+  - `ipa-03i-perubahan-energi-campur` (7)
+  - `ipa-03h-bentuk-energi-campur` (3)
   - `ipa-03j-listrik-seri-paralel-campur` (3)
-  - `ipa-04d-penguraian-cahaya-campur` (3)
-  - `ipa-17-bentuk-energi-perubahan-campur` (3)
+  - `ipa-04a-sifat-cahaya-campur` (3)
+  - `ipa-05i-sumber-daya-alam-campur` (3)
+  - `ipa-04i-perpindahan-panas-campur` (2)
+  - `ipa-17-bentuk-energi-perubahan-campur` (2)
+  - `ipa-03-gaya-gerak-energi-campur` (1)
 - **Tampak:** depan · belakang · kiri · kanan, semua full body
 - **Versi:** A. Realistis (prompt 1–5) · B. Ilustrasi (prompt 6–10) · C. Penampang skematik (prompt 11–12)
 - **Folder hasil:** `image-results/ipa/03-gaya-gerak-energi/panel-surya/`

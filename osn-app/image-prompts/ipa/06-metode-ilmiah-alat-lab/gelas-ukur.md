@@ -35,7 +35,7 @@
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p01-realistis-turnaround.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed studio product photograph of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines (numbers blurred), curved meniscus of the blue water clearly visible.
+Ultra-photorealistic, hyper-detailed studio product photograph of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines only (no numerals), curved meniscus of the blue water clearly visible.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -51,7 +51,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p02-realistis-depan.png`
 
 ```text
-Ultra-photorealistic, hyper-detailed studio product photograph of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines (numbers blurred), curved meniscus of the blue water clearly visible.
+Ultra-photorealistic, hyper-detailed studio product photograph of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines only (no numerals), curved meniscus of the blue water clearly visible.
 Accuracy: scientifically correct, true-to-life proportions, colors, and surface textures, as it would appear in a premium educational reference catalog. Every fine detail (texture, pores, grain, fibers, seams, veins, scratches) must be visible and physically plausible.
 Lighting: soft, even, diffused three-point studio lighting — large softbox key light from front-left at 45°, gentle fill light from the right, subtle rim light from behind to separate the edges — no harsh shadows, no blown-out highlights.
 Camera: 100mm lens at f/11, entire object in crisp focus from front to back, 8K resolution, ultra-sharp micro-detail, neutral true-to-life color grading.
@@ -95,7 +95,7 @@ Using the exact same 100 mL glass graduated cylinder partly filled from the prev
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p06-ilustrasi-turnaround.png`
 
 ```text
-High-quality, highly detailed educational illustration of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines (numbers blurred), curved meniscus of the blue water clearly visible.
+High-quality, highly detailed educational illustration of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines only (no numerals), curved meniscus of the blue water clearly visible.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real 100 mL glass graduated cylinder partly filled.
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
@@ -112,7 +112,7 @@ Layout: TURNAROUND REFERENCE SHEET — one wide image (16:9) showing EXACTLY FOU
 **Simpan hasil sebagai:** `image-results/ipa/06-metode-ilmiah-alat-lab/gelas-ukur/p07-ilustrasi-depan.png`
 
 ```text
-High-quality, highly detailed educational illustration of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines (numbers blurred), curved meniscus of the blue water clearly visible.
+High-quality, highly detailed educational illustration of a 100 mL glass graduated cylinder partly filled with blue-tinted water. Tall narrow cylinder with hexagonal base and pour spout, fine white graduation lines only (no numerals), curved meniscus of the blue water clearly visible.
 Style: clean modern children's science-textbook illustration for elementary-school students (age 10–12) — crisp confident dark outlines with varied line weight, smooth soft cel shading (2–3 tone steps) plus gentle gradients, bright but true-to-life colors, simplified but anatomically and scientifically accurate shapes, every important part clearly readable. Friendly, clear, and appealing — not cute-chibi, not caricature, no exaggerated eyes or facial expressions.
 Accuracy: correct proportions, colors, number of parts (legs, fins, petals, segments, etc.), and structure exactly as in the real 100 mL glass graduated cylinder partly filled.
 Lighting: one soft light source from the upper-left, consistent simple highlights and core shadows on the object only.
