@@ -1,0 +1,24 @@
+{
+  "objek": "vaksin-suntik",
+  "slot": "p01-realistis-depan",
+  "url_sumber": "https://www.pexels.com/photo/syringe-and-a-vial-on-yellow-surface-5921983/",
+  "file_url": "https://images.pexels.com/photos/5921983/pexels-photo-5921983.jpeg",
+  "pembuat": "Thirdman (Pexels, https://www.pexels.com/@thirdman/)",
+  "lisensi": "Pexels License (free to use, no attribution required, commercial use allowed) — BUKAN CC0/public domain",
+  "atribusi_wajib": false,
+  "tanggal_unduh": "2026-10-11",
+  "bukti": "image-results/_stok-bukti/vaksin-suntik-p01-realistis-depan.json",
+  "catatan": "Piksel tidak diedit; hanya crop persegi di sekitar objek (3400x3400 dari 4087x6130) lalu diperkecil ke 2048x2048. Vial label kosong, spuit 2,5 mL dengan skala 1-2 (angka skala instrumen, benar dan berurutan). Tanpa orang/merek.",
+  "halaman_foto": {
+    "judul": "Syringe and a Vial on Yellow Surface",
+    "diunggah": "2020-11-18",
+    "dimensi_asli": "4087x6130",
+    "lisensi_di_halaman": "Free"
+  },
+  "halaman_lisensi": {
+    "url": "https://www.pexels.com/license/",
+    "dibaca": "2026-10-11",
+    "ringkas": "All photos and videos on Pexels are free to use. Attribution is not required. Can be modified. Commercial use allowed. Not allowed: selling unaltered copies, implying endorsement, redistributing on other stock platforms, using as trademark."
+  },
+  "sha256_file_asli": "d44e83e594c6c3687a91cffa320745aceb2a818b8f932e09228fbadb34633a5f"
+}

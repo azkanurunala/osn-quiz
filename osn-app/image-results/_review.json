@@ -1,4 +1,156 @@
 {
+  "kelereng-kantong/p01-realistis-depan": {
+    "status": "revisi",
+    "catatan": "Cek ulang: isi sesuai (kelereng kaca merah, biru, hijau; kantong serut krem terbuka; latar putih; tanpa teks). MASALAH: kantong kain TERPOTONG di tepi kanan gambar (625 piksel tepi kanan tidak putih, terukur) dan hampir menyentuh tepi atas, padahal prompt mewajibkan seluruh objek tampil utuh dengan margin sekitar 10 persen. Tampak juga agak dari atas, bukan lurus dari depan. Versi ilustrasi p02 tetap lolos. Koreksi (siap tempel): \"Show the ENTIRE cloth bag and all marbles completely inside the frame with about 10% empty margin on every side; nothing touching or cut by any edge. Straight front view at eye level, pure white background.\""
+  },
+  "benda-bangun-ruang-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. 7 benda nyata mewakili bangun ruang: tabung (kaleng), kubus (kotak, rubik), kerucut (tumpeng, cone es krim), bola (basket), prisma segitiga (kotak) -- variasi baik."
+  },
+  "benda-bangun-ruang-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Versi ilustrasi konsisten dengan p01, gaya bersih."
+  },
+  "maket-rumah/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Profil sisi kiri dengan jendela tunggal, teras di sisi ini -- jelas berbeda dari p02/p03."
+  },
+  "maket-rumah/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Dinding tanpa jendela, arah kemiringan atap terbalik dari p04 -- sisi berbeda dari rumah, bukan duplikat meski teras tetap terlihat dari sudut ini (wajar jika teras di satu sisi dan sudut kamera menangkap ujung bangunan)."
+  },
+  "bekicot/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Cangkang spiral dari belakang, kaki terlihat, kepala/tentakel tersembunyi di sisi jauh -- masuk akal."
+  },
+  "akuarium/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Kotak kaca kosong bersih, cocok untuk objek geometri volume."
+  },
+  "akuarium/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Mirip p02 -- wajar, kotak kaca transparan simetris depan-belakang secara fisik memang terlihat sama."
+  },
+  "akuarium/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Siluet lebih sempit/persegi dari sisi samping, proporsi benar."
+  },
+  "akuarium/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan konsisten dari p04."
+  },
+  "akuarium/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Versi ilustrasi konsisten dengan realistis, gaya bersih."
+  },
+  "akuarium/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan konsisten dari p09."
+  },
+  "tandon-air/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Keran outlet terlihat dari sudut ini, rusuk silinder, tutup ulir -- konsisten."
+  },
+  "maket-rumah/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Maket rumah dengan atap genteng, teras, jendela -- detail miniatur arsitektur jelas."
+  },
+  "maket-rumah/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Sudut atap pinggul berbeda jelas dari p02, teras pindah ke kiri, susunan jendela beda -- diferensiasi baik."
+  },
+  "pencemaran-sungai/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Pipa limbah industri, sampah, ikan mati -- pencemaran sungai jelas."
+  },
+  "petir/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Penangkal petir benar: petir menyambar batang, kabel konduktor mengarah ke tanah -- fisika benar."
+  },
+  "pupuk-kompos-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Kompos, sabut kelapa, pupuk sintetis butiran, jerami -- set pupuk/kompos beragam."
+  },
+  "sampah-plastik-laut/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Mikroplastik, botol, sedotan, tutup botol di pasir pantai dengan ombak -- jelas."
+  },
+  "sampah-plastik-laut/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Versi ilustrasi konsisten dengan p01."
+  },
+  "sengkedan/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Terasering sawah bertingkat dengan irigasi -- representasi sengkedan jelas."
+  },
+  "siklus-air-diorama/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Siklus air lengkap dan benar: evaporasi, kondensasi, presipitasi, aliran permukaan, infiltrasi -- semua tahap tergambar dengan panah arah benar."
+  },
+  "terumbu-karang/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Perbandingan karang sehat (berwarna, ikan, bintang laut) vs karang memutih (putih pucat) -- representasi pemutihan karang yang benar secara sains."
+  },
+  "terumbu-karang/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Versi ilustrasi konsisten dengan p01, perbandingan sehat vs memutih jelas."
+  },
+  "alat-cuaca-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Set 5 alat: barometer, anemometer, higrometer, penakar hujan, baling-baling angin -- angka dial sesuai aturan (benar & berurutan), tanpa merek."
+  },
+  "aurora/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tirai aurora hijau-ungu, bintang, cakrawala bersalju -- representasi jelas."
+  },
+  "awan-jenis-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. 4 jenis awan benar: sirus (berbulu tipis), kumulus (menggumpal), stratus (lapisan datar), kumulonimbus (menjulang badai)."
+  },
+  "banjir/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Diorama banjir: rumah terendam, pohon, puing -- jelas."
+  },
+  "batuan-beku-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. 4 batuan beku benar: granit (berbintik kasar), basal (gelap berongga), obsidian (kaca hitam), pumis (ringan berpori)."
+  },
+  "gempa-patahan/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Penampang patahan dengan hiposentrum (bintang) di kedalaman, episentrum (titik merah) tepat di atasnya di permukaan, riak gelombang seismik -- hubungan hiposentrum-episentrum benar."
+  },
+  "hujan-asam/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Pohon mati/kering, patung batu terkorosi (ciri khas kerusakan hujan asam pada monumen), air tercemar -- efek sesuai sains."
+  },
+  "kekeringan/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tanah retak kering, tanaman jagung layu, sungai mengering -- representasi kekeringan jelas."
+  },
+  "amoeba/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Pseudopodia, nukleus, vakuola kontraktil, vakuola makanan berisi partikel -- anatomi amoeba masuk akal, gaya mikroskopis."
+  },
+  "ekosistem-kolam/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Akuarium dengan tanaman air, ikan guppy, siput, capung -- representasi ekosistem kolam yang jelas."
+  },
+  "putri-malu/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Daun majemuk menyirip ganda, bunga bulat merah muda, batang berduri -- sesuai Mimosa pudica."
+  },
+  "tingkatan-organisasi-makhluk-hidup-set/p01-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Set 3 panel: individu (1 burung gereja) -> populasi (kelompok burung) -> komunitas (burung+belalang+tumbuhan bersama) -- progresi tingkatan organisasi jelas."
+  },
+  "fermentasi-produk-set/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tempe, yogurt, keju, kecap, roti, acar -- produk fermentasi beragam dan jelas dikenali."
+  },
+  "virus-dengue/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Virus dengue ikosahedral dengan protein selubung, potongan menunjukkan nukleokapsid + RNA genom melingkar di dalam -- struktur flavivirus masuk akal."
+  },
   "anoa/p07-ilustrasi-depan": {
     "status": "ok",
     "catatan": "Slot kosong sebelumnya. Tanduk pendek lurus mengarah ke belakang, bulu coklat gelap-hitam, tanda putih di kaki -- sesuai spesifikasi, gaya ilustrasi bersih."
@@ -108,8 +260,8 @@
     "catatan": "Sama seperti p03, rewrite standalone berhasil: abdomen dominan, kepala kecil/jauh, jelas beda dari p07 (depan)."
   },
   "nyamuk-anopheles/p02-ilustrasi-depan": {
-    "status": "ok",
-    "catatan": "Diperbaiki di sumber (catalog-tambahan.mjs field d: 'CRITICAL LEG COUNT: exactly SIX legs...'). Dihitung ulang manual: 4 kaki menapak + 2 kaki belakang terangkat = 6 total, tidak ada segmen tambahan. Postur istirahat 45 derajat abdomen terangkat tetap benar, sayap berbintik, abdomen berpita."
+    "status": "revisi",
+    "catatan": "Cek ulang gambar hasil regenerasi (zoom toraks dan kepala). Yang sudah benar: 4 kaki menapak + 2 kaki belakang terangkat (jumlah kaki utama 6), postur 45 derajat dengan abdomen terangkat, sayap berbintik, antena berbulu, latar putih, tanpa teks. Keraguan yang membuat tidak bisa ok: (1) PALP PENDEK. Hanya satu tonjolan kecil seperti daun di dekat pangkal probosis, jauh lebih pendek dari probosis; ciri kunci Anopheles adalah palp sepanjang probosis (prompt juga meminta), sehingga tampak seperti Culex. (2) Ada dua segmen mirip kaki yang berhenti tumpul di dekat toraks: satu diagonal tebal di sebelah kaki depan dan satu lipatan kecil di kiri atas di belakang sayap; anak bisa menghitungnya sebagai kaki ke-7 dan ke-8. Perlu cek manusia untuk memastikan itu kaki tersembunyi atau segmen berlebih. (3) Probosis tebal menjulur hingga garis tanah sehingga terbaca sebagai kaki tambahan. (4) Ada bayangan abu tipis di bawah kaki, padahal prompt melarang cast shadow. Koreksi (siap tempel): \"Female Anopheles: exactly six legs (four touching the surface, the hind pair raised in the air), no stub or truncated leg segments. Two maxillary palps as long as the proboscis, lying alongside it; the proboscis stays short of the surface and clearly thinner than the legs. Pure flat white background, no cast shadow, no ground shadow.\""
   },
   "kerangka-manusia/p02-realistis-depan": {
     "status": "ok",
@@ -7708,8 +7860,8 @@
     "catatan": "Gambar vektor datar (vektor-ipa.mjs, bukan Gemini) dengan jumlah ruas dihitung eksak: 7 servikal + 12 torakal + 5 lumbal = 24 ruas, 1 sakrum menyatu, 1 tulang ekor. Lengkung S alami (lordosis leher, kifosis dada, lordosis pinggang, kifosis sakrum). Tampak kanan: depan tubuh di sisi kanan gambar, prosesus spinosus mengarah ke kiri gambar, cakram antarruas biru. Perlu paraf guru IPA (tulang)."
   },
   "vaksin-suntik/p01-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Konten benar (vial kaca dengan tutup aluminium + sumbat karet abu-abu, label putih KOSONG, cairan bening; spuit 3 mL transparan dengan garis skala TANPA angka dan tutup jarum) tetapi file ini gambar VEKTOR datar, bukan foto/render realistis — gaya tidak konsisten dengan versi realistis. Tidak diterbitkan app (utama = p02 ilustrasi). Perbaikan: foto vial+suntik CC0/PD tanpa teks (tidak ditemukan di Commons) atau generasi realistis baru."
+    "status": "ok",
+    "catatan": "Foto stok (Pexels License, Thirdman; dicatat di _stok.json): satu vial kaca dengan sumbat karet abu-abu, label putih KOSONG, cairan bening, dan spuit 2,5 mL berjarum biru yang menembus sumbat; skala 1-2 benar dan berurutan; latar kuning polos; tanpa orang, tangan, atau merek. Hanya di-crop persegi, piksel tidak diedit. Bukan CC0 murni (lisensi Pexels, tanpa atribusi)."
   },
   "tangga-rumah/p09-ilustrasi-kiri": {
     "status": "ok",
@@ -11398,5 +11550,9 @@
   "kerangka-manusia/p06-ilustrasi-turnaround.lama": {
     "status": "revisi",
     "catatan": "Set turnaround ini jauh lebih baik dari p01: panel 1 (depan), panel 2 (belakang, tengkorak dari belakang), dan panel 3 (profil KIRI, tengkorak terlihat dari samping dengan rahang dan kurva tulang belakang) semuanya benar dan jelas berbeda satu sama lain. TAPI panel 4 (seharusnya profil KANAN, cerminan panel 3) malah menampilkan TAMPAK BELAKANG lagi (duplikat dari panel 2), bukan profil samping kanan. WAJIB dicek oleh guru sains. Saran prompt koreksi (EN): \"Regenerate panel 4 (RIGHT) as a true mirror of panel 3's left side profile — head/face pointing right, seen edge-on — not a repeat of the back/posterior view already shown in panel 2.\""
+  },
+  "vaksin-suntik/p01-realistis-depan.lama2": {
+    "status": "revisi",
+    "catatan": "Konten benar (vial kaca dengan tutup aluminium + sumbat karet abu-abu, label putih KOSONG, cairan bening; spuit 3 mL transparan dengan garis skala TANPA angka dan tutup jarum) tetapi file ini gambar VEKTOR datar, bukan foto/render realistis — gaya tidak konsisten dengan versi realistis. Tidak diterbitkan app (utama = p02 ilustrasi). Perbaikan: foto vial+suntik CC0/PD tanpa teks (tidak ditemukan di Commons) atau generasi realistis baru."
   }
 }

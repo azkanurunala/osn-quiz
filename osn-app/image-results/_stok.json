@@ -94,6 +94,18 @@
       "tanggal_unduh": "2026-10-10",
       "bukti": "image-results/_stok-bukti/neptunus-p05-realistis-kanan.json",
       "catatan": "Neptunus dari Voyager 2 (16–17 Agustus 1989): Great Dark Spot bergeser ke tepi kiri (±45° dari tengah) dengan sirus putih; belahan timur dari tampak depan. Dipotong persegi (crop) di sekitar bola."
+    },
+    {
+      "objek": "vaksin-suntik",
+      "slot": "p01-realistis-depan",
+      "url_sumber": "https://www.pexels.com/photo/syringe-and-a-vial-on-yellow-surface-5921983/",
+      "file_url": "https://images.pexels.com/photos/5921983/pexels-photo-5921983.jpeg",
+      "pembuat": "Thirdman (Pexels, https://www.pexels.com/@thirdman/)",
+      "lisensi": "Pexels License (free to use, no attribution required, commercial use allowed) — BUKAN CC0/public domain",
+      "atribusi_wajib": false,
+      "tanggal_unduh": "2026-10-11",
+      "bukti": "image-results/_stok-bukti/vaksin-suntik-p01-realistis-depan.json",
+      "catatan": "Piksel tidak diedit; hanya crop persegi di sekitar objek (3400x3400 dari 4087x6130) lalu diperkecil ke 2048x2048. Vial label kosong, spuit 2,5 mL dengan skala 1-2 (angka skala instrumen, benar dan berurutan). Tanpa orang/merek."
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 Di-generate oleh `image-prompts/_src/gen.mjs`. Jangan edit manual. Hasil review disimpan di `_review.json`.
 Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos · ⚠️ perlu revisi · ❌ salah (generate ulang)
-**Total:** 2009/2092 slot terisi · 1995/2092 lolos review
+**Total:** 2053/2092 slot terisi · 2032/2092 lolos review
 
 ## IPA 01 · Makhluk Hidup & Lingkungan
 
@@ -14,7 +14,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Kelelawar pemakan serangga (ekolokasi)](ipa/01-makhluk-hidup/kelelawar-ekolokasi/) | 10/10 | 10/10 |  |
 | [Kalong / kelelawar buah (penyerbuk, penyebar biji — TIDAK berekolokasi)](ipa/01-makhluk-hidup/kelelawar/) | 10/10 | 10/10 |  |
 | [Lumba-lumba (mamalia laut, ekolokasi)](ipa/01-makhluk-hidup/lumba-lumba/) | 10/10 | 10/10 |  |
-| [Paus (mamalia laut)](ipa/01-makhluk-hidup/paus-biru/) | 5/10 | 5/10 |  |
+| [Paus (mamalia laut)](ipa/01-makhluk-hidup/paus-biru/) | 8/10 | 5/10 | p02-realistis-depan: 🔍 belum direview<br>p09-ilustrasi-kiri: 🔍 belum direview<br>p10-ilustrasi-kanan: 🔍 belum direview |
 | [Ayam (aves, ovipar)](ipa/01-makhluk-hidup/ayam/) | 12/12 | 12/12 |  |
 | [Telur ayam (utuh & dibelah)](ipa/01-makhluk-hidup/telur-ayam/) | 4/4 | 4/4 |  |
 | [Bebek (kaki berselaput)](ipa/01-makhluk-hidup/bebek/) | 10/10 | 10/10 |  |
@@ -41,7 +41,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Spons laut (porifera)](ipa/01-makhluk-hidup/spons-porifera/) | 10/10 | 10/10 |  |
 | [Ubur-ubur (coelenterata)](ipa/01-makhluk-hidup/ubur-ubur/) | 10/10 | 10/10 |  |
 | [Cacing tanah (annelida, pengurai)](ipa/01-makhluk-hidup/cacing-tanah/) | 4/4 | 4/4 |  |
-| [Bekicot / siput (moluska)](ipa/01-makhluk-hidup/bekicot/) | 8/10 | 8/10 |  |
+| [Bekicot / siput (moluska)](ipa/01-makhluk-hidup/bekicot/) | 9/10 | 9/10 |  |
 | [Cumi-cumi (moluska)](ipa/01-makhluk-hidup/cumi-cumi/) | 10/10 | 10/10 |  |
 | [Kerang (moluska)](ipa/01-makhluk-hidup/kerang/) | 10/10 | 10/10 |  |
 | [Kepiting (crustacea)](ipa/01-makhluk-hidup/kepiting/) | 10/10 | 10/10 |  |
@@ -65,7 +65,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Biji monokotil vs dikotil (penampang)](ipa/01-makhluk-hidup/biji-mono-dikotil-set/) | 3/4 | 3/4 |  |
 | [Tulang daun: sejajar, melengkung, menyirip, menjari](ipa/01-makhluk-hidup/daun-sejajar-menyirip-menjari-set/) | 2/2 | 2/2 |  |
 | [Lumut (bryophyta)](ipa/01-makhluk-hidup/lumut/) | 10/10 | 10/10 |  |
-| [Tumbuhan paku (pteridophyta)](ipa/01-makhluk-hidup/paku/) | 8/10 | 8/10 |  |
+| [Tumbuhan paku (pteridophyta)](ipa/01-makhluk-hidup/paku/) | 10/10 | 8/10 | p04-realistis-kiri: 🔍 belum direview<br>p05-realistis-kanan: 🔍 belum direview |
 | [Pinus & runjung (gymnospermae)](ipa/01-makhluk-hidup/pinus-konus/) | 2/2 | 2/2 |  |
 | [Bunga sepatu (bunga sempurna)](ipa/01-makhluk-hidup/bunga-sepatu/) | 11/12 | 11/12 |  |
 | [Penampang bunga sempurna (bagian-bagian bunga)](ipa/01-makhluk-hidup/bunga-penampang/) | 4/4 | 4/4 |  |
@@ -75,13 +75,13 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Rimpang jahe (vegetatif)](ipa/01-makhluk-hidup/jahe-rimpang/) | 10/10 | 10/10 |  |
 | [Geragih stroberi (stolon, vegetatif)](ipa/01-makhluk-hidup/stroberi-geragih/) | 2/2 | 2/2 |  |
 | [Cocor bebek (tunas adventif daun)](ipa/01-makhluk-hidup/cocor-bebek/) | 2/2 | 2/2 |  |
-| [Stek batang singkong (vegetatif buatan)](ipa/01-makhluk-hidup/singkong-stek/) | 9/10 | 9/10 |  |
+| [Stek batang singkong (vegetatif buatan)](ipa/01-makhluk-hidup/singkong-stek/) | 10/10 | 9/10 | p04-realistis-kiri: 🔍 belum direview |
 | [Kaktus (xerofit)](ipa/01-makhluk-hidup/kaktus/) | 12/12 | 12/12 |  |
 | [Teratai (hidrofit, daun mengapung)](ipa/01-makhluk-hidup/teratai/) | 12/12 | 12/12 |  |
 | [Eceng gondok (hidrofit mengapung)](ipa/01-makhluk-hidup/eceng-gondok/) | 12/12 | 12/12 |  |
 | [Bakau / mangrove (halofit)](ipa/01-makhluk-hidup/bakau/) | 10/10 | 10/10 |  |
 | [Kantong semar (tumbuhan karnivora)](ipa/01-makhluk-hidup/kantong-semar/) | 12/12 | 12/12 |  |
-| [Putri malu (peka rangsang)](ipa/01-makhluk-hidup/putri-malu/) | 1/2 | 1/2 |  |
+| [Putri malu (peka rangsang)](ipa/01-makhluk-hidup/putri-malu/) | 2/2 | 2/2 |  |
 | [Anggrek bulan (epifit, puspa pesona)](ipa/01-makhluk-hidup/anggrek-bulan/) | 10/10 | 10/10 |  |
 | [Rafflesia arnoldii (puspa langka)](ipa/01-makhluk-hidup/rafflesia/) | 10/10 | 10/10 |  |
 | [Bunga bangkai (Amorphophallus titanum)](ipa/01-makhluk-hidup/bunga-bangkai/) | 10/10 | 10/10 |  |
@@ -89,13 +89,13 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Lumut kerak (lichen, simbiosis)](ipa/01-makhluk-hidup/lichen/) | 10/10 | 10/10 |  |
 | [Ikan badut & anemon laut (mutualisme)](ipa/01-makhluk-hidup/ikan-badut-anemon/) | 10/10 | 10/10 |  |
 | [Kerbau & burung jalak (mutualisme)](ipa/01-makhluk-hidup/kerbau-jalak/) | 10/10 | 10/10 |  |
-| [Ekosistem kolam kecil (komponen biotik & abiotik)](ipa/01-makhluk-hidup/ekosistem-kolam/) | 1/2 | 1/2 |  |
-| [Individu, populasi, komunitas (tingkatan organisasi kehidupan)](ipa/01-makhluk-hidup/tingkatan-organisasi-makhluk-hidup-set/) | 1/2 | 1/2 |  |
+| [Ekosistem kolam kecil (komponen biotik & abiotik)](ipa/01-makhluk-hidup/ekosistem-kolam/) | 2/2 | 2/2 |  |
+| [Individu, populasi, komunitas (tingkatan organisasi kehidupan)](ipa/01-makhluk-hidup/tingkatan-organisasi-makhluk-hidup-set/) | 2/2 | 2/2 |  |
 | [Jamur tiram (kingdom fungi)](ipa/01-makhluk-hidup/jamur-tiram/) | 12/12 | 12/12 |  |
 | [Jamur tempe Rhizopus (hifa & sporangium)](ipa/01-makhluk-hidup/jamur-rhizopus/) | 10/10 | 10/10 |  |
 | [Ragi / khamir Saccharomyces (bertunas)](ipa/01-makhluk-hidup/sel-ragi/) | 4/4 | 4/4 |  |
 | [Bakteri (kingdom monera): bentuk kokus, basil, spirilum](ipa/01-makhluk-hidup/bakteri-bentuk-set/) | 4/4 | 4/4 |  |
-| [Amoeba (protista mirip hewan)](ipa/01-makhluk-hidup/amoeba/) | 3/4 | 3/4 |  |
+| [Amoeba (protista mirip hewan)](ipa/01-makhluk-hidup/amoeba/) | 4/4 | 4/4 |  |
 | [Paramecium (protista bersilia)](ipa/01-makhluk-hidup/paramecium/) | 4/4 | 4/4 |  |
 | [Euglena (protista mirip tumbuhan)](ipa/01-makhluk-hidup/euglena/) | 4/4 | 4/4 |  |
 | [Virus (bakteriofag)](ipa/01-makhluk-hidup/virus-bakteriofag/) | 12/12 | 12/12 |  |
@@ -174,22 +174,22 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Sumber protein (hewani & nabati)](ipa/02-tubuh-manusia/sumber-protein-set/) | 2/2 | 2/2 |  |
 | [Sumber lemak](ipa/02-tubuh-manusia/sumber-lemak-set/) | 2/2 | 2/2 |  |
 | [Sumber vitamin & mineral](ipa/02-tubuh-manusia/sumber-vitamin-mineral-set/) | 2/2 | 2/2 |  |
-| [Virus dengue (DBD)](ipa/02-tubuh-manusia/virus-dengue/) | 3/4 | 3/4 |  |
+| [Virus dengue (DBD)](ipa/02-tubuh-manusia/virus-dengue/) | 4/4 | 4/4 |  |
 | [Virus SARS-CoV-2 (COVID-19)](ipa/02-tubuh-manusia/virus-corona/) | 4/4 | 4/4 |  |
 | [Virus influenza](ipa/02-tubuh-manusia/virus-influenza/) | 4/4 | 4/4 |  |
 | [Bakteri TBC (Mycobacterium tuberculosis)](ipa/02-tubuh-manusia/bakteri-tbc/) | 4/4 | 4/4 |  |
-| [Vaksin (vial & jarum suntik)](ipa/02-tubuh-manusia/vaksin-suntik/) | 2/2 | 1/2 | p01-realistis-depan: ⚠️ revisi — Konten benar (vial kaca dengan tutup aluminium + sumbat karet abu-abu, label putih KOSONG, cairan bening; spuit 3 mL transparan dengan garis skala TANPA angka dan tutup jarum) tetapi file ini gambar VEKTOR datar, bukan foto/render realistis — gaya tidak konsisten dengan versi realistis. Tidak diterbitkan app (utama = p02 ilustrasi). Perbaikan: foto vial+suntik CC0/PD tanpa teks (tidak ditemukan di Commons) atau generasi realistis baru. |
+| [Vaksin (vial & jarum suntik)](ipa/02-tubuh-manusia/vaksin-suntik/) | 2/2 | 2/2 |  |
 | [Masker medis](ipa/02-tubuh-manusia/masker-medis/) | 12/12 | 12/12 |  |
 | [Alat kebersihan diri](ipa/02-tubuh-manusia/alat-kebersihan-set/) | 2/2 | 2/2 |  |
 | [Tensimeter (alat ukur tekanan darah)](ipa/02-tubuh-manusia/tensimeter/) | 2/2 | 2/2 |  |
 | [Glukometer (alat cek gula darah)](ipa/02-tubuh-manusia/glukometer/) | 2/2 | 2/2 |  |
 | [Stetoskop (denyut jantung)](ipa/02-tubuh-manusia/stetoskop/) | 2/2 | 2/2 |  |
-| [Produk bioteknologi konvensional](ipa/02-tubuh-manusia/fermentasi-produk-set/) | 1/2 | 1/2 |  |
+| [Produk bioteknologi konvensional](ipa/02-tubuh-manusia/fermentasi-produk-set/) | 2/2 | 2/2 |  |
 | [Kantong darah donor](ipa/02-tubuh-manusia/kantong-darah/) | 2/2 | 2/2 |  |
 | [Inhaler asma](ipa/02-tubuh-manusia/inhaler/) | 2/2 | 2/2 |  |
 | [Obat (tablet, kapsul, sirup)](ipa/02-tubuh-manusia/obat-set/) | 2/2 | 2/2 |  |
 | [Kutu rambut](ipa/02-tubuh-manusia/kutu-rambut/) | 2/2 | 2/2 |  |
-| [Nyamuk Anopheles (malaria)](ipa/02-tubuh-manusia/nyamuk-anopheles/) | 2/2 | 2/2 |  |
+| [Nyamuk Anopheles (malaria)](ipa/02-tubuh-manusia/nyamuk-anopheles/) | 2/2 | 1/2 | p02-ilustrasi-depan: ⚠️ revisi — Cek ulang gambar hasil regenerasi (zoom toraks dan kepala). Yang sudah benar: 4 kaki menapak + 2 kaki belakang terangkat (jumlah kaki utama 6), postur 45 derajat dengan abdomen terangkat, sayap berbintik, antena berbulu, latar putih, tanpa teks. Keraguan yang membuat tidak bisa ok: (1) PALP PENDEK. Hanya satu tonjolan kecil seperti daun di dekat pangkal probosis, jauh lebih pendek dari probosis; ciri kunci Anopheles adalah palp sepanjang probosis (prompt juga meminta), sehingga tampak seperti Culex. (2) Ada dua segmen mirip kaki yang berhenti tumpul di dekat toraks: satu diagonal tebal di sebelah kaki depan dan satu lipatan kecil di kiri atas di belakang sayap; anak bisa menghitungnya sebagai kaki ke-7 dan ke-8. Perlu cek manusia untuk memastikan itu kaki tersembunyi atau segmen berlebih. (3) Probosis tebal menjulur hingga garis tanah sehingga terbaca sebagai kaki tambahan. (4) Ada bayangan abu tipis di bawah kaki, padahal prompt melarang cast shadow. Koreksi (siap tempel): "Female Anopheles: exactly six legs (four touching the surface, the hind pair raised in the air), no stub or truncated leg segments. Two maxillary palps as long as the proboscis, lying alongside it; the proboscis stays short of the surface and clearly thinner than the legs. Pure flat white background, no cast shadow, no ground shadow." |
 
 ## IPA 03 · Gaya, Gerak, Energi, Listrik & Magnet
 
@@ -319,40 +319,40 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Meteorit (batu dari antariksa)](ipa/05-bumi-antariksa/meteorit/) | 10/10 | 10/10 |  |
 | [Lapisan Bumi (kerak, mantel, inti)](ipa/05-bumi-antariksa/bumi-lapisan/) | 4/4 | 4/4 |  |
 | [Globe (rotasi & kemiringan sumbu 23,5°)](ipa/05-bumi-antariksa/globe/) | 5/10 | 5/10 |  |
-| [Batuan beku: granit, basalt, obsidian, batu apung](ipa/05-bumi-antariksa/batuan-beku-set/) | 1/2 | 1/2 |  |
+| [Batuan beku: granit, basalt, obsidian, batu apung](ipa/05-bumi-antariksa/batuan-beku-set/) | 2/2 | 2/2 |  |
 | [Batuan sedimen: batu pasir, batu kapur, konglomerat, batu bara](ipa/05-bumi-antariksa/batuan-sedimen-set/) | 2/2 | 2/2 |  |
 | [Batuan metamorf: marmer, batu sabak, gneiss, kuarsit](ipa/05-bumi-antariksa/batuan-metamorf-set/) | 2/2 | 2/2 |  |
 | [Profil lapisan tanah (horizon O-A-B-C-R)](ipa/05-bumi-antariksa/profil-tanah/) | 12/12 | 12/12 |  |
 | [SDA tak terbarukan: batu bara, minyak bumi, gas, bijih logam](ipa/05-bumi-antariksa/sda-tak-terbarukan-set/) | 2/2 | 2/2 |  |
 | [SDA terbarukan: kayu, air, hasil pertanian](ipa/05-bumi-antariksa/sda-terbarukan-set/) | 2/2 | 2/2 |  |
-| [Alat ukur cuaca: barometer, anemometer, higrometer, penakar hujan, baling-baling angin](ipa/05-bumi-antariksa/alat-cuaca-set/) | 1/2 | 1/2 |  |
+| [Alat ukur cuaca: barometer, anemometer, higrometer, penakar hujan, baling-baling angin](ipa/05-bumi-antariksa/alat-cuaca-set/) | 2/2 | 2/2 |  |
 | [Sampah organik vs anorganik](ipa/05-bumi-antariksa/sampah-organik-anorganik-set/) | 2/2 | 2/2 |  |
 | [Tempat sampah terpilah (organik, anorganik, B3)](ipa/05-bumi-antariksa/tempat-sampah-3/) | 2/2 | 2/2 |  |
 | [Gunung api meletus](ipa/05-bumi-antariksa/gunung-meletus/) | 4/4 | 4/4 |  |
-| [Gempa: patahan, hiposentrum, episentrum](ipa/05-bumi-antariksa/gempa-patahan/) | 1/2 | 1/2 |  |
+| [Gempa: patahan, hiposentrum, episentrum](ipa/05-bumi-antariksa/gempa-patahan/) | 2/2 | 2/2 |  |
 | [Tsunami](ipa/05-bumi-antariksa/tsunami/) | 2/2 | 2/2 |  |
-| [Banjir](ipa/05-bumi-antariksa/banjir/) | 1/2 | 1/2 |  |
-| [Kekeringan](ipa/05-bumi-antariksa/kekeringan/) | 1/2 | 1/2 |  |
-| [Jenis awan](ipa/05-bumi-antariksa/awan-jenis-set/) | 1/2 | 1/2 |  |
-| [Petir](ipa/05-bumi-antariksa/petir/) | 1/2 | 1/2 |  |
+| [Banjir](ipa/05-bumi-antariksa/banjir/) | 2/2 | 2/2 |  |
+| [Kekeringan](ipa/05-bumi-antariksa/kekeringan/) | 2/2 | 2/2 |  |
+| [Jenis awan](ipa/05-bumi-antariksa/awan-jenis-set/) | 2/2 | 2/2 |  |
+| [Petir](ipa/05-bumi-antariksa/petir/) | 2/2 | 2/2 |  |
 | [Pelangi](ipa/05-bumi-antariksa/pelangi/) | 2/2 | 2/2 |  |
-| [Siklus air (diorama)](ipa/05-bumi-antariksa/siklus-air-diorama/) | 1/2 | 1/2 |  |
-| [Sengkedan / terasering](ipa/05-bumi-antariksa/sengkedan/) | 1/2 | 1/2 |  |
+| [Siklus air (diorama)](ipa/05-bumi-antariksa/siklus-air-diorama/) | 2/2 | 2/2 |  |
+| [Sengkedan / terasering](ipa/05-bumi-antariksa/sengkedan/) | 2/2 | 2/2 |  |
 | [Hutan gundul & reboisasi](ipa/05-bumi-antariksa/reboisasi/) | 2/2 | 2/2 |  |
-| [Pencemaran air sungai](ipa/05-bumi-antariksa/pencemaran-sungai/) | 1/2 | 1/2 |  |
+| [Pencemaran air sungai](ipa/05-bumi-antariksa/pencemaran-sungai/) | 2/2 | 2/2 |  |
 | [Pencemaran udara](ipa/05-bumi-antariksa/polusi-udara/) | 2/2 | 2/2 |  |
-| [Dampak hujan asam](ipa/05-bumi-antariksa/hujan-asam/) | 1/2 | 1/2 |  |
+| [Dampak hujan asam](ipa/05-bumi-antariksa/hujan-asam/) | 2/2 | 2/2 |  |
 | [Rumah kaca](ipa/05-bumi-antariksa/rumah-kaca/) | 2/2 | 2/2 |  |
 | [Es kutub mencair](ipa/05-bumi-antariksa/es-kutub-mencair/) | 2/2 | 2/2 |  |
-| [Sampah plastik di laut](ipa/05-bumi-antariksa/sampah-plastik-laut/) | ⬜ 0/2 | 0/2 |  |
-| [Terumbu karang (sehat & memutih)](ipa/05-bumi-antariksa/terumbu-karang/) | ⬜ 0/2 | 0/2 |  |
+| [Sampah plastik di laut](ipa/05-bumi-antariksa/sampah-plastik-laut/) | 2/2 | 2/2 |  |
+| [Terumbu karang (sehat & memutih)](ipa/05-bumi-antariksa/terumbu-karang/) | 2/2 | 2/2 |  |
 | [Pasang naik & surut](ipa/05-bumi-antariksa/pasang-surut-set/) | 2/2 | 2/2 |  |
-| [Aurora](ipa/05-bumi-antariksa/aurora/) | 1/2 | 1/2 |  |
+| [Aurora](ipa/05-bumi-antariksa/aurora/) | 2/2 | 2/2 |  |
 | [Roket](ipa/05-bumi-antariksa/roket/) | 2/2 | 2/2 |  |
 | [Astronot (baju antariksa)](ipa/05-bumi-antariksa/astronot/) | 2/2 | 2/2 |  |
 | [Rasi bintang Orion (Waluku)](ipa/05-bumi-antariksa/rasi-orion/) | 2/2 | 2/2 |  |
 | [Galaksi Bima Sakti](ipa/05-bumi-antariksa/galaksi-bima-sakti/) | 1/2 | 1/2 |  |
-| [Pupuk & kompos](ipa/05-bumi-antariksa/pupuk-kompos-set/) | 1/2 | 1/2 |  |
+| [Pupuk & kompos](ipa/05-bumi-antariksa/pupuk-kompos-set/) | 2/2 | 2/2 |  |
 
 ## IPA 06 · Metode Ilmiah & Alat Laboratorium
 
@@ -373,7 +373,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Pizza dipotong (pecahan)](mtk/01-bilangan-pecahan/pizza-pecahan/) | 2/2 | 2/2 |  |
 | [Cokelat batang berpetak (pecahan)](mtk/01-bilangan-pecahan/cokelat-batang/) | 2/2 | 2/2 |  |
 | [Kue bolu/tart dipotong](mtk/01-bilangan-pecahan/kue-bolu-pecahan/) | 2/2 | 2/2 |  |
-| [Kelereng berwarna (FPB/KPK, pembagian kelompok)](mtk/01-bilangan-pecahan/kelereng-kantong/) | 1/2 | 1/2 |  |
+| [Kelereng berwarna (FPB/KPK, pembagian kelompok)](mtk/01-bilangan-pecahan/kelereng-kantong/) | 2/2 | 1/2 | p01-realistis-depan: ⚠️ revisi — Cek ulang: isi sesuai (kelereng kaca merah, biru, hijau; kantong serut krem terbuka; latar putih; tanpa teks). MASALAH: kantong kain TERPOTONG di tepi kanan gambar (625 piksel tepi kanan tidak putih, terukur) dan hampir menyentuh tepi atas, padahal prompt mewajibkan seluruh objek tampil utuh dengan margin sekitar 10 persen. Tampak juga agak dari atas, bukan lurus dari depan. Versi ilustrasi p02 tetap lolos. Koreksi (siap tempel): "Show the ENTIRE cloth bag and all marbles completely inside the frame with about 10% empty margin on every side; nothing touching or cut by any edge. Straight front view at eye level, pure white background." |
 
 ## MTK 03 · Geometri Datar & Sudut
 
@@ -401,9 +401,9 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Set semua bangun ruang (perbandingan)](mtk/04-geometri-ruang/bangun-ruang-set/) | 2/2 | 2/2 |  |
 | [Jaring-jaring kubus (karton terbuka)](mtk/04-geometri-ruang/jaring-jaring-kubus/) | 2/2 | 2/2 |  |
 | [Kubus satuan disusun (volume)](mtk/04-geometri-ruang/kubus-satuan/) | 2/2 | 2/2 |  |
-| [Akuarium balok (kapasitas)](mtk/04-geometri-ruang/akuarium/) | 2/10 | 2/10 |  |
-| [Benda sehari-hari berbentuk bangun ruang](mtk/04-geometri-ruang/benda-bangun-ruang-set/) | ⬜ 0/2 | 0/2 |  |
-| [Tandon / toren air (tabung)](mtk/04-geometri-ruang/tandon-air/) | 8/10 | 8/10 |  |
+| [Akuarium balok (kapasitas)](mtk/04-geometri-ruang/akuarium/) | 8/10 | 8/10 |  |
+| [Benda sehari-hari berbentuk bangun ruang](mtk/04-geometri-ruang/benda-bangun-ruang-set/) | 2/2 | 2/2 |  |
+| [Tandon / toren air (tabung)](mtk/04-geometri-ruang/tandon-air/) | 9/10 | 9/10 |  |
 
 ## MTK 05 · Pengukuran (Panjang, Berat, Volume, Waktu, Kecepatan, Debit)
 
@@ -425,7 +425,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Barang belanja (untung, rugi, diskon)](mtk/06-aritmetika-sosial/belanja-set/) | 2/2 | 2/2 |  |
 | [Celengan (tabungan, bunga)](mtk/06-aritmetika-sosial/celengan/) | 10/10 | 10/10 |  |
 | [Peta & penggaris skala](mtk/06-aritmetika-sosial/peta-skala/) | 2/2 | 2/2 |  |
-| [Maket rumah (skala/perbandingan)](mtk/06-aritmetika-sosial/maket-rumah/) | 5/10 | 5/10 |  |
+| [Maket rumah (skala/perbandingan)](mtk/06-aritmetika-sosial/maket-rumah/) | 9/10 | 9/10 |  |
 
 ## MTK 07 · Statistika & Peluang
 
