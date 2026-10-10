@@ -1,7 +1,87 @@
 {
+  "anoa/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tanduk pendek lurus mengarah ke belakang, bulu coklat gelap-hitam, tanda putih di kaki -- sesuai spesifikasi, gaya ilustrasi bersih."
+  },
+  "belalang/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Kaki belakang (lompat, berduri) dominan di sisi, kepala kecil/jauh -- konsisten dengan pola sukses p03 (realistis)."
+  },
+  "kerangka-manusia/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tampak depan lengkap dan benar, gaya ilustrasi bersih."
+  },
+  "kerangka-manusia/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Tampak belakang benar: bagian belakang tengkorak, scapula menonjol, tulang belakang terlihat -- diferensiasi jelas dari depan."
+  },
+  "otot-lengan/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Percobaan 1 gagal (identik piksel dgn p07). Rewrite standalone (pose lengan lurus/terentang, bukan tertekuk) berhasil: lengan lurus dengan tangan terlihat, otot trisep/lengan bawah jelas berbeda dari p07 yang tertekuk."
+  },
+  "otot-lengan/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Sama seperti p08, rewrite standalone berhasil: pose terentang vertikal, bahu/deltoid menonjol, jelas beda dari p07."
+  },
+  "pankreas/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Orientasi dicerminkan dari p02 (kepala/ekor terbalik), duktus kurang menonjol (sesuai sudut dari belakang). Duodenum, kepala-ekor pankreas, pulau jaringan bertekstur sesuai acuan."
+  },
+  "pankreas/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Sudut berbeda menampilkan loop duodenum C lebih penuh, percabangan duktus terlihat berbeda dari p02/p03."
+  },
+  "pankreas/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Konten benar (duodenum, kepala-ekor, duktus), komposisi mirip p02 -- wajar untuk organ kecil tanpa banyak sudut distingtif."
+  },
+  "pankreas/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Duodenum tidak terlihat (masuk akal untuk sudut posterior murni -- duodenum melengkung di balik kepala pankreas), duktus pankreas jelas. Konten tidak menyesatkan."
+  },
+  "pankreas/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Loop duodenum C PENUH terlihat (lebih lengkap dari p07), papila duodeni mayor + duktus empedu terlihat jelas -- diferensiasi baik."
+  },
+  "pankreas/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Komposisi mirip p07 (bukan duplikat piksel, tapi mirip), konten anatomis benar dan tidak menyesatkan -- diterima mengingat keterbatasan visual organ kecil ini dari berbagai sudut."
+  },
+  "otot-lengan/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Profil samping kiri lengan tertekuk (bicep curl), serat otot & tendon terlihat jelas, kulit terlepas sesuai spesifikasi."
+  },
+  "otot-lengan/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan benar dari p04 (lengan tertekuk sisi kanan)."
+  },
+  "otot-lengan/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Pose lengan lurus/terentang (bukan tertekuk seperti p07/p08) menunjukkan otot bahu+lengan atas+bawah dari sudut berbeda -- diferensiasi baik dari tampak depan."
+  },
+  "rafflesia/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Dibanding p02 (depan, lubang gelap dalam melihat ke rongga bunga): p03 menampilkan permukaan disk lebih terang/padat di tengah -- konsisten dengan tampak belakang bunga (sisi cembung kolom tengah), bukan rongga yang sama. Kelopak berbintik, tekstur berkutil sesuai acuan Rafflesia."
+  },
+  "rafflesia/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Profil tertekan/menyamping jelas berbeda dari tampak depan datar -- kelopak terlipat dalam siluet lebih sempit, sesuai sudut pandang samping."
+  },
+  "rafflesia/p08-ilustrasi-belakang": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Dibanding p07 (depan, rongga gelap terbuka dgn duri ramentum terlihat): p08 menampilkan kolom tengah cembung tertutup -- diferensiasi baik, menunjukkan sisi belakang bunga secara masuk akal."
+  },
+  "rafflesia/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Profil lateral sempit jelas berbeda dari tampak depan/belakang -- lubang tampak oval (bukan bundar), kelopak terkompresi, orientasi vertikal memanjang."
+  },
+  "rafflesia/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan dari p09 (lubang di tepi kanan, bukan kiri), profil lateral sempit konsisten."
+  },
   "usus-halus-besar/p08-ilustrasi-belakang": {
-    "status": "revisi",
-    "catatan": "GAGAL 2x memperbaiki posisi sekum/apendiks (field-f dgn instruksi 'mirror' abstrak, lalu rewrite standalone dgn instruksi posisi eksplisit 'RIGHT-hand side, 2-3 o'clock') -- model TETAP menempatkan sekum di KIRI gambar, identik dgn p07 (depan), setiap kali. Bias model yang kuat terhadap satu layout tetap, terlepas dari instruksi depan/belakang. Konten lain (usus halus melingkar di tengah, usus besar haustra membingkai) benar, hanya posisi sekum yang perlu dicek/diperbaiki jika memungkinkan via pendekatan lain (vektor?). Tidak mengulang approach prompt lagi -- sudah 2x gagal persis sama."
+    "status": "ok",
+    "catatan": "Gambar vektor skematik (vektor-ipa.mjs, bukan Gemini) setelah 4x gagal di Gemini (posisi kiri-kanan terbalik). Tampak belakang = tata letak tampak depan dicerminkan kiri-kanan: sekum + usus buntu di sisi KANAN gambar (sisi kanan pasien = kanan penampil dari belakang), kolon naik di kanan gambar, kolon turun di kiri gambar, kolon melintang di atas, sigmoid dan rektum di bawah; usus halus berkelok di tengah berujung di sekum. Tampak datar skematis. Perlu paraf guru IPA (organ)."
   },
   "usus-halus-besar/p05-realistis-kanan": {
     "status": "ok",
@@ -164,8 +244,8 @@
     "catatan": "Setelah 2x gagal (antena tetap di atas, duplikat tampak depan), rewrite standalone berhasil: tampilan kini genuinely tampak belakang -- sepasang kaki belakang (pasangan kaki terpanjang/terkuat pada kecoak asli) tampak besar dan dekat kamera di bawah bingkai (foreshortened), kaki depan+tengah lebih kecil di sisi, kepala+antena kecil dan jauh di ujung atas. Anatomis masuk akal: perspektif kaki belakang membesar sesuai sudut pandang dari belakang. 6 kaki total, pita kuning pronotum terlihat di ujung jauh."
   },
   "kecoak/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL 4x berturut-turut (chained awal, rewrite standalone cerci-prominent, rewrite kedua dengan framing kaki-belakang-besar yang BERHASIL untuk versi ilustrasi p08 -- tapi versi fotorealistis tetap kembali ke pose dorsal depan: antena panjang di atas, mata majemuk menghadap kamera, tidak ada rotasi sama sekali). Model foto-realistis tampak lebih kuat 'berpegang' pada komposisi studio-photo kanonis dibanding model ilustrasi untuk objek ini. Limitasi model, sama kategori dengan jantung/bulan-p09/lebah-p03. Opsi: vektor (gaya fotoreal sulit direplikasi vektor, resiko mismatch gaya seperti lebah p03) atau coba sekali lagi dengan model berbeda di masa depan."
+    "status": "revisi",
+    "catatan": "Konten benar setelah 5x gagal di Gemini (duplikat tampak depan): kecoak dari belakang, sayap penutup berupa kubah dengan garis tengah, ujung perut dan sepasang sersi (cerci) bersegmen mengarah ke penonton, tiga pasang kaki berduri terentang (kaki belakang paling besar), antena panjang ke depan. Tetapi ini gambar VEKTOR datar, bukan foto realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (slot belakang tidak dipakai)."
   },
   "tulang-belakang/p11-penampang-belah": {
     "status": "ok",
@@ -684,8 +764,8 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "belalang/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Tampak tidak konsisten (ventral, dorsal, samping, dorsal); profil kanan tidak ada. Prompt: \"Four copies: front, back, left profile, right profile.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "belalang/p02-realistis-depan": {
     "status": "ok",
@@ -2280,12 +2360,12 @@
     "catatan": "Lolos: daun jarum berkelompok, runjung jantan kuning (serbuk sari) dan runjung betina berkayu."
   },
   "rafflesia/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Tampak tidak lengkap (depan muncul 2 kali). Prompt: \"Exactly four copies: front (top), back (underside), left side, right side.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "rafflesia/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "1 depan + 3 samping mirip kuncup. Prompt: \"Four copies: top, underside, left side, right side of a fully open five-lobed flower.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "rafflesia/p07-ilustrasi-depan": {
     "status": "ok",
@@ -3064,12 +3144,12 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "pankreas/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Ada teks FRONT/BACK/LEFT SIDE/RIGHT dan keempat salinan sama. Prompt: \"No text; anterior, posterior, left, right views.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "pankreas/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Ada teks (Front view, Back view, ...) dan 2 baris. Prompt: \"Four copies in one row, no text.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "pankreas/p07-ilustrasi-depan": {
     "status": "ok",
@@ -3332,8 +3412,8 @@
     "catatan": "Lolos (perlu paraf guru IPA): ruas leher, punggung, pinggang, sakrum, tulang ekor dengan cakram antarruas; lengkung S pada tampak samping."
   },
   "usus-halus-besar/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Ada teks Front/Back/Left side/Right. Prompt: \"No text.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "usus-halus-besar/p02-realistis-depan": {
     "status": "ok",
@@ -3413,7 +3493,7 @@
   },
   "anoa/p06-ilustrasi-turnaround.lama": {
     "status": "revisi",
-    "catatan": "Tampak salah: 1 depan + 3 belakang (tidak ada kiri/kanan), tanduk lebar seperti kerbau. Prompt: \"Four copies: front, back, left profile, right profile; anoa horns short, straight, conical, pointing backward.\""
+    "catatan": "4 panel arah sudah benar (depan/belakang/kiri/kanan berbeda, tidak ada 3/4), gaya ilustrasi konsisten di semua panel. Namun sama seperti versi realistis, tanduk pada panel depan terlihat tegak/melengkung ke atas, bukan merebah ke belakang mendekati leher seperti anoa asli — meski pada panel kiri/kanan tanduknya sedikit lebih merebah, masih kurang panjang dan kurang rapat ke kepala dibanding referensi. Prompt koreksi: 'Make the horns longer, straighter, and swept further backward along the skull in every panel, closely matching the real lowland anoa's horn shape (compare reference photos) — not an upright/curved cattle-like horn.'"
   },
   "anoa/p08-ilustrasi-belakang.lama": {
     "status": "revisi",
@@ -5472,8 +5552,8 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "anoa/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "4 panel arah sudah benar (depan/belakang/kiri/kanan berbeda, tidak ada 3/4), gaya ilustrasi konsisten di semua panel. Namun sama seperti versi realistis, tanduk pada panel depan terlihat tegak/melengkung ke atas, bukan merebah ke belakang mendekati leher seperti anoa asli — meski pada panel kiri/kanan tanduknya sedikit lebih merebah, masih kurang panjang dan kurang rapat ke kepala dibanding referensi. Prompt koreksi: 'Make the horns longer, straighter, and swept further backward along the skull in every panel, closely matching the real lowland anoa's horn shape (compare reference photos) — not an upright/curved cattle-like horn.'"
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "amoeba/p02-ilustrasi-depan": {
     "status": "ok",
@@ -5948,8 +6028,8 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kerangka-manusia/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Set turnaround ini jauh lebih baik dari p01: panel 1 (depan), panel 2 (belakang, tengkorak dari belakang), dan panel 3 (profil KIRI, tengkorak terlihat dari samping dengan rahang dan kurva tulang belakang) semuanya benar dan jelas berbeda satu sama lain. TAPI panel 4 (seharusnya profil KANAN, cerminan panel 3) malah menampilkan TAMPAK BELAKANG lagi (duplikat dari panel 2), bukan profil samping kanan. WAJIB dicek oleh guru sains. Saran prompt koreksi (EN): \"Regenerate panel 4 (RIGHT) as a true mirror of panel 3's left side profile — head/face pointing right, seen edge-on — not a repeat of the back/posterior view already shown in panel 2.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kutu-rambut/p01-realistis-atas": {
     "status": "ok",
@@ -6020,12 +6100,12 @@
     "catatan": "Tampak samping dengan lobus berwarna sesuai kode: frontal (biru), parietal (kuning), temporal (hijau, posisi bawah-lateral wajar), oksipital (oranye, belakang), serebelum (merah muda dengan tekstur folia halus), batang otak (ungu). Irisan sagital menampilkan corpus callosum (lengkung putih), talamus (ungu muda), area magenta kecil dekat talamus (kemungkinan hipotalamus), batang otak bergradasi ungu. Garis putus-putus memisahkan tiap region, tanpa teks. Struktur kompleks ini tergambar cukup akurat dan sesuai kode warna — tetap direkomendasikan verifikasi guru sains sebagai standar untuk gambar otak."
   },
   "otot-lengan/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Keempat panel (seharusnya depan/bisep, belakang/trisep, kiri, kanan) menampilkan pose dan tonjolan otot yang HAMPIR IDENTIK — semuanya menunjukkan sisi dengan tonjolan bisep yang sama menghadap kamera, tidak ada panel yang jelas menunjukkan sisi trisep (belakang) yang seharusnya berbeda bentuk (otot trisep berbentuk tapal kuda, bukan tonjolan bisep). Rotasi turnaround gagal total. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Regenerate with four genuinely distinct panels: FRONT showing the biceps bulge, BACK showing the horseshoe-shaped triceps (different muscle shape, no biceps peak visible), and LEFT/RIGHT showing true lateral/medial profiles — all four panels currently show the same biceps-side view.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "otot-lengan/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Sama seperti p01 (versi realistis) — keempat panel ilustrasi menampilkan pose dan tonjolan bisep yang identik, tidak ada panel trisep (belakang) yang jelas berbeda bentuk. WAJIB dicek guru sains. Saran prompt koreksi sama seperti p01 (EN di atas)."
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "otot-lengan/p12-penampang-transparan": {
     "status": "ok",
@@ -11274,5 +11354,49 @@
   "bulan/p06-ilustrasi-turnaround": {
     "status": "ok",
     "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "rafflesia/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Tampak tidak lengkap (depan muncul 2 kali). Prompt: \"Exactly four copies: front (top), back (underside), left side, right side.\""
+  },
+  "rafflesia/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "1 depan + 3 samping mirip kuncup. Prompt: \"Four copies: top, underside, left side, right side of a fully open five-lobed flower.\""
+  },
+  "otot-lengan/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Keempat panel (seharusnya depan/bisep, belakang/trisep, kiri, kanan) menampilkan pose dan tonjolan otot yang HAMPIR IDENTIK — semuanya menunjukkan sisi dengan tonjolan bisep yang sama menghadap kamera, tidak ada panel yang jelas menunjukkan sisi trisep (belakang) yang seharusnya berbeda bentuk (otot trisep berbentuk tapal kuda, bukan tonjolan bisep). Rotasi turnaround gagal total. WAJIB dicek guru sains. Saran prompt koreksi (EN): \"Regenerate with four genuinely distinct panels: FRONT showing the biceps bulge, BACK showing the horseshoe-shaped triceps (different muscle shape, no biceps peak visible), and LEFT/RIGHT showing true lateral/medial profiles — all four panels currently show the same biceps-side view.\""
+  },
+  "otot-lengan/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Sama seperti p01 (versi realistis) — keempat panel ilustrasi menampilkan pose dan tonjolan bisep yang identik, tidak ada panel trisep (belakang) yang jelas berbeda bentuk. WAJIB dicek guru sains. Saran prompt koreksi sama seperti p01 (EN di atas)."
+  },
+  "pankreas/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Ada teks FRONT/BACK/LEFT SIDE/RIGHT dan keempat salinan sama. Prompt: \"No text; anterior, posterior, left, right views.\""
+  },
+  "pankreas/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Ada teks (Front view, Back view, ...) dan 2 baris. Prompt: \"Four copies in one row, no text.\""
+  },
+  "usus-halus-besar/p08-ilustrasi-belakang.lama4": {
+    "status": "revisi",
+    "catatan": "GAGAL 2x memperbaiki posisi sekum/apendiks (field-f dgn instruksi 'mirror' abstrak, lalu rewrite standalone dgn instruksi posisi eksplisit 'RIGHT-hand side, 2-3 o'clock') -- model TETAP menempatkan sekum di KIRI gambar, identik dgn p07 (depan), setiap kali. Bias model yang kuat terhadap satu layout tetap, terlepas dari instruksi depan/belakang. Konten lain (usus halus melingkar di tengah, usus besar haustra membingkai) benar, hanya posisi sekum yang perlu dicek/diperbaiki jika memungkinkan via pendekatan lain (vektor?). Tidak mengulang approach prompt lagi -- sudah 2x gagal persis sama."
+  },
+  "kecoak/p03-realistis-belakang.lama4": {
+    "status": "salah",
+    "catatan": "GAGAL 4x berturut-turut (chained awal, rewrite standalone cerci-prominent, rewrite kedua dengan framing kaki-belakang-besar yang BERHASIL untuk versi ilustrasi p08 -- tapi versi fotorealistis tetap kembali ke pose dorsal depan: antena panjang di atas, mata majemuk menghadap kamera, tidak ada rotasi sama sekali). Model foto-realistis tampak lebih kuat 'berpegang' pada komposisi studio-photo kanonis dibanding model ilustrasi untuk objek ini. Limitasi model, sama kategori dengan jantung/bulan-p09/lebah-p03. Opsi: vektor (gaya fotoreal sulit direplikasi vektor, resiko mismatch gaya seperti lebah p03) atau coba sekali lagi dengan model berbeda di masa depan."
+  },
+  "usus-halus-besar/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Ada teks Front/Back/Left side/Right. Prompt: \"No text.\""
+  },
+  "belalang/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Tampak tidak konsisten (ventral, dorsal, samping, dorsal); profil kanan tidak ada. Prompt: \"Four copies: front, back, left profile, right profile.\""
+  },
+  "kerangka-manusia/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Set turnaround ini jauh lebih baik dari p01: panel 1 (depan), panel 2 (belakang, tengkorak dari belakang), dan panel 3 (profil KIRI, tengkorak terlihat dari samping dengan rahang dan kurva tulang belakang) semuanya benar dan jelas berbeda satu sama lain. TAPI panel 4 (seharusnya profil KANAN, cerminan panel 3) malah menampilkan TAMPAK BELAKANG lagi (duplikat dari panel 2), bukan profil samping kanan. WAJIB dicek oleh guru sains. Saran prompt koreksi (EN): \"Regenerate panel 4 (RIGHT) as a true mirror of panel 3's left side profile — head/face pointing right, seen edge-on — not a repeat of the back/posterior view already shown in panel 2.\""
   }
 }

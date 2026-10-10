@@ -1924,6 +1924,72 @@ function mosquitoVentral() {
   for (const s of [-1, 1]) o += `<ellipse cx="${cx + s * 30}" cy="252" rx="20" ry="26" fill="#0f0f0f" stroke="#444" stroke-width="2"/>`;
   return svg(o);
 }
+
+// ================= Small + large intestine (front layout; the back view is the same layout mirrored left-right, because the person's right is the viewer's right from behind) =================
+const catmull = (p, closed = false) => {
+  const n = p.length; const g = (i) => p[Math.max(0, Math.min(n - 1, i))]; let d = `M${f(p[0][0])},${f(p[0][1])}`;
+  for (let i = 0; i < n - 1; i++) { const a = g(i - 1); const b = g(i); const c = g(i + 1); const e = g(i + 2); d += ` C${f(b[0] + (c[0] - a[0]) / 6)},${f(b[1] + (c[1] - a[1]) / 6)} ${f(c[0] - (e[0] - b[0]) / 6)},${f(c[1] - (e[1] - b[1]) / 6)} ${f(c[0])},${f(c[1])}`; }
+  return d;
+};
+function intestines(back) {
+  const COL = '#c9a38a'; const COLO = '#7a5a46'; const SI = '#f4a6a0'; const SIO = '#b3524c';
+  // large intestine centreline: cecum (person's right = viewer's left in front view) -> ascending -> transverse -> descending -> sigmoid -> rectum
+  const colon = [[292, 706], [274, 600], [268, 470], [272, 340], [310, 268], [420, 300], [512, 318], [610, 300], [714, 268], [752, 340], [752, 470], [744, 580], [704, 650], [616, 672], [566, 704], [534, 764], [518, 850]];
+  let o = '';
+  o += `<path d="${catmull(colon)}" fill="none" stroke="${COLO}" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>`;
+  o += `<circle cx="292" cy="728" r="42" fill="${COLO}"/>`;
+  o += `<path d="${catmull(colon)}" fill="none" stroke="${COL}" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>`;
+  o += `<circle cx="292" cy="728" r="36" fill="${COL}"/>`;
+  // haustra: short cross ticks every ~26 px along the centreline (sampled from the same spline)
+  const pl = []; for (let i = 0; i < colon.length - 1; i++) { const a = colon[Math.max(0, i - 1)]; const b = colon[i]; const c = colon[i + 1]; const e = colon[Math.min(colon.length - 1, i + 2)]; for (let t = 0; t < 1; t += 0.1) { const t2 = t * t; const t3 = t2 * t; pl.push([0.5 * ((2 * b[0]) + (-a[0] + c[0]) * t + (2 * a[0] - 5 * b[0] + 4 * c[0] - e[0]) * t2 + (-a[0] + 3 * b[0] - 3 * c[0] + e[0]) * t3), 0.5 * ((2 * b[1]) + (-a[1] + c[1]) * t + (2 * a[1] - 5 * b[1] + 4 * c[1] - e[1]) * t2 + (-a[1] + 3 * b[1] - 3 * c[1] + e[1]) * t3)]); } }
+  let acc = 0;
+  for (let i = 1; i < pl.length; i++) { const dx = pl[i][0] - pl[i - 1][0]; const dy = pl[i][1] - pl[i - 1][1]; const n = Math.hypot(dx, dy) || 1; acc += n; if (acc >= 26) { acc = 0; const nx = -dy / n; const ny = dx / n; o += L(pl[i][0] - nx * 20, pl[i][1] - ny * 20, pl[i][0] + nx * 20, pl[i][1] + ny * 20, '#a8806a', 3); } }
+  // appendix (thin worm-like tube hanging from the cecum)
+  o += `<path d="M286,760 C300,800 330,820 312,872 C304,896 282,890 286,868" fill="none" stroke="${COLO}" stroke-width="18" stroke-linecap="round"/><path d="M286,760 C300,800 330,820 312,872 C304,896 282,890 286,868" fill="none" stroke="${COL}" stroke-width="10" stroke-linecap="round"/>`;
+  // small intestine: one long tube folded back and forth in many tight loops, ending at the cecum (ileocecal junction)
+  const si = [[500, 338]]; const r = rng(5);
+  for (let k = 0; k < 11; k++) {
+    const y = 360 + k * 30; const l = 392 + r() * 22; const rt = 640 + r() * 24;
+    const row = k % 2 === 0 ? [[l, y], [(l + rt) / 2, y + 14 + r() * 8], [rt, y]] : [[rt, y], [(l + rt) / 2, y - 12 - r() * 8], [l, y]];
+    si.push(...row);
+  }
+  si.push([380, 690], [326, 696]);
+  o += `<path d="${catmull(si)}" fill="none" stroke="${SIO}" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="${catmull(si)}" fill="none" stroke="${SI}" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/><path d="${catmull(si)}" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>`;
+  return svg(back ? `<g transform="translate(1024 0) scale(-1 1)">${o}</g>` : o);
+}
+
+// ================= Cockroach seen from BEHIND: pronotum + wing covers fill the view, three pairs of spiny legs splayed, two short cerci at the tip, antennae sweeping forward over the body =================
+function cockroachRear() {
+  const BR = '#8c3b1c'; const BRL = '#b5602a'; const OUT = '#4a1d0c'; const LEG = '#9a4a24';
+  const m = (p) => p.map(([x, y]) => [1024 - x, y]);
+  const leg = (p, w0, sp) => {
+    let s = '';
+    for (let i = 0; i < p.length - 1; i++) { const w = [w0, w0 * 0.78, w0 * 0.5][i] ?? 6; s += `<line x1="${p[i][0]}" y1="${p[i][1]}" x2="${p[i + 1][0]}" y2="${p[i + 1][1]}" stroke="${OUT}" stroke-width="${w + 5}" stroke-linecap="round"/>`; }
+    for (let i = 0; i < p.length - 1; i++) { const w = [w0, w0 * 0.78, w0 * 0.5][i] ?? 6; s += `<line x1="${p[i][0]}" y1="${p[i][1]}" x2="${p[i + 1][0]}" y2="${p[i + 1][1]}" stroke="${LEG}" stroke-width="${w}" stroke-linecap="round"/>`; }
+    if (sp) for (let i = 1; i < p.length - 1; i++) for (let k = 1; k <= 5; k++) { const t = k / 6; const x = p[i][0] + (p[i + 1][0] - p[i][0]) * t; const y = p[i][1] + (p[i + 1][1] - p[i][1]) * t; s += L(x, y, x + (x > 512 ? 13 : -13), y - 7, OUT, 2.5); }
+    return s;
+  };
+  let o = '';
+  // far parts first: antennae, head, pronotum (smaller, farther away), front and middle legs
+  for (const s of [-1, 1]) o += `<path d="M${512 + s * 14},236 C${512 + s * 100},120 ${512 + s * 270},70 ${512 + s * 430},110" fill="none" stroke="${OUT}" stroke-width="3.5" stroke-linecap="round"/>`;
+  const front = [[420, 360], [336, 326], [286, 392], [268, 452]]; const mid = [[408, 440], [300, 404], [222, 508], [190, 590]];
+  o += leg(front, 12, true) + leg(m(front), 12, true) + leg(mid, 15, true) + leg(m(mid), 15, true);
+  o += `<ellipse cx="512" cy="262" rx="30" ry="22" fill="#3b160a" stroke="${OUT}" stroke-width="4"/>`;
+  o += `<ellipse cx="512" cy="318" rx="104" ry="52" fill="#a4481f" stroke="${OUT}" stroke-width="6"/><ellipse cx="512" cy="312" rx="76" ry="30" fill="#e3b04a" opacity="0.9"/><ellipse cx="512" cy="312" rx="42" ry="15" fill="#7a2f14" opacity="0.7"/>`;
+  // wing covers seen from behind: a dome with a central seam running toward the viewer
+  o += `<path d="M322,560 C310,360 410,290 512,290 C614,290 714,360 702,560 Z" fill="${BR}" stroke="${OUT}" stroke-width="7" stroke-linejoin="round"/>`;
+  o += `<path d="M352,556 C346,390 430,322 512,322 C594,322 678,390 672,556 Z" fill="${BRL}" opacity="0.5"/>`;
+  o += `<line x1="512" y1="294" x2="512" y2="560" stroke="${OUT}" stroke-width="5"/>`;
+  for (const s of [-1, 1]) for (let k = 0; k < 4; k++) o += `<path d="M512,${340 + k * 50} C${512 + s * 60},${352 + k * 50} ${512 + s * 130},${400 + k * 40} ${512 + s * 168},${520}" fill="none" stroke="#6d2c12" stroke-width="2.5" opacity="0.55"/>`;
+  // abdomen tip seen end-on (segmented), then the two cerci pointing at the viewer
+  o += `<path d="M330,556 C330,640 420,672 512,672 C604,672 694,640 694,556 Z" fill="#5a2410" stroke="${OUT}" stroke-width="6" stroke-linejoin="round"/>`;
+  for (const yy of [590, 622, 650]) o += `<path d="M${350 + (yy - 590) * 0.4},${yy} C430,${yy + 14} 594,${yy + 14} ${674 - (yy - 590) * 0.4},${yy}" fill="none" stroke="#8a3a1a" stroke-width="3"/>`;
+  for (const s of [-1, 1]) for (let k = 0; k < 6; k++) { const cx = 512 + s * (46 + k * 6); const cy = 690 + k * 34; o += `<ellipse cx="${cx}" cy="${cy}" rx="${22 - k * 2.2}" ry="17" fill="#7a3216" stroke="${OUT}" stroke-width="3.5" transform="rotate(${s * -12} ${cx} ${cy})"/>`; }
+  // big hind legs, nearest to the viewer, drawn last
+  const hind = [[360, 560], [236, 520], [168, 650], [138, 770]];
+  o += leg(hind, 20, true) + leg(m(hind), 20, true);
+  return svg(o);
+}
 // ---------- slots ----------
 const OBJECTS = {
   'ipa/04-cahaya-bunyi-panas-zat/ambulans-doppler': () => ambulanceDoppler(),
@@ -1962,6 +2028,8 @@ const OBJECTS = {
   'ipa/05-bumi-antariksa/bulan': { draw: (slot) => moonLimb(/kiri$/.test(slot) ? 'kiri' : 'kanan'), only: /^p(09|10)-/ },
   'ipa/01-makhluk-hidup/kepiting': { draw: () => crabRear(), only: /^p08-/ },
   'ipa/01-makhluk-hidup/nyamuk-aedes': { draw: () => mosquitoVentral(), only: /^p0[38]-/ },
+  'ipa/02-tubuh-manusia/usus-halus-besar': { draw: (slot) => intestines(/belakang/.test(slot)), only: /^p08-/ },
+  'ipa/01-makhluk-hidup/kecoak': { draw: () => cockroachRear(), only: /^p03-/ },
   'ipa/05-bumi-antariksa/profil-tanah': { draw: (slot) => soilProfile(/penampang/.test(slot) ? 'penampang' : slot.match(/(depan|belakang|kiri|kanan)$/)[1], /belah/.test(slot)), only: /^p(0[2-5]|0[7-9]|10|11|12)-/ },
   'ipa/05-bumi-antariksa/pelangi': () => rainbow(),
   'ipa/05-bumi-antariksa/gunung-meletus': { draw: (slot) => volcanoSection(/belah/.test(slot), /transparan/.test(slot)), only: /^p0[34]-/ },
