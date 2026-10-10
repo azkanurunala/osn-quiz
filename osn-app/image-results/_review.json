@@ -1,4 +1,8 @@
 {
+  "usus-halus-besar/p08-ilustrasi-belakang": {
+    "status": "revisi",
+    "catatan": "GAGAL 2x memperbaiki posisi sekum/apendiks (field-f dgn instruksi 'mirror' abstrak, lalu rewrite standalone dgn instruksi posisi eksplisit 'RIGHT-hand side, 2-3 o'clock') -- model TETAP menempatkan sekum di KIRI gambar, identik dgn p07 (depan), setiap kali. Bias model yang kuat terhadap satu layout tetap, terlepas dari instruksi depan/belakang. Konten lain (usus halus melingkar di tengah, usus besar haustra membingkai) benar, hanya posisi sekum yang perlu dicek/diperbaiki jika memungkinkan via pendekatan lain (vektor?). Tidak mengulang approach prompt lagi -- sudah 2x gagal persis sama."
+  },
   "usus-halus-besar/p05-realistis-kanan": {
     "status": "ok",
     "catatan": "Slot kosong sebelumnya. Tampak kanan: usus besar (coklat, haustra) membingkai usus halus merah muda melingkar, sekum+apendiks di bawah, sedikit hati/jaringan ikat di atas -- posisi masuk akal untuk tampak samping kanan (kolon asendens dekat kamera)."
@@ -60,12 +64,12 @@
     "catatan": "Cerminan dari p04: sliver jendela DNA di tepi KANAN (bukan kiri), siluet kepala sempit sama. Pasangan kiri-kanan yang konsisten dan genuinely terdiferensiasi dari tampak depan."
   },
   "nyamuk-aedes/p03-realistis-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL 3x (field-f diperkuat dengan deskripsi ventral eksplisit berhasil mengubah WARNA jadi pucat krem sesuai perut ventral, TAPI pose/framing tetap sama persis dengan tampak depan: mata majemuk menghadap kamera, kaki simetris terentang, sayap terbentang penuh dengan venasi terlihat jelas -- bukan rotasi 180 derajat sungguhan ke sisi bawah. Sama seperti bug p08. Dikonfirmasi osn-app-7a: tidak ada foto stok CC0/PD untuk tampak ventral nyamuk. Diserahkan ke vektor jika osn-app-7a berminat, atau tetap salah."
+    "status": "revisi",
+    "catatan": "Konten benar (tampak bawah/ventral nyamuk Aedes betina: perut dan dada krem, 6 kaki bercincin putih, belalai, antena betina berambut jarang, halter, sayap terlipat) tetapi file ini gambar VEKTOR datar, bukan foto makro realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (belakang tidak dipakai). Perbaikan: foto makro ventral nyamuk CC0/PD (belum ditemukan) atau biarkan sebagai pelengkap set."
   },
   "nyamuk-aedes/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL 4x (percobaan terbaru adalah efek samping regenerasi p03, bukan diminta eksplisit) -- tetap pose dorsal simetris identik dengan tampak depan, tidak ada rotasi ke ventral. Dikonfirmasi osn-app-7a: tidak ada foto stok CC0/PD untuk tampak ventral nyamuk. Diserahkan ke vektor jika osn-app-7a berminat, atau tetap salah."
+    "status": "ok",
+    "catatan": "Gambar vektor datar (vektor-ipa.mjs, bukan Gemini) setelah 4x gagal di Gemini. Tampak bawah (ventral) nyamuk Aedes betina: perut dan dada krem pucat tanpa pola lira, 6 kaki menempel di sisi bawah dada dengan cincin putih di persendian, belalai panjang ke depan, palpus pendek, antena betina tipis berambut jarang, halter kecil di kedua sisi, sayap terlipat tampak dari tepi (tidak terbentang). Jelas berbeda dari tampak depan (dorsal). Perlu paraf guru IPA."
   },
   "kepompong/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -120,8 +124,8 @@
     "catatan": "Sama seperti p04: profil lateral benar (cerminan kanan), letterbox diperbaiki programatik (crop+pad putih)."
   },
   "kepiting/p08-ilustrasi-belakang": {
-    "status": "salah",
-    "catatan": "GAGAL 5x berturut-turut (chained awal x2, rewrite field-f x1, rewrite standalone eksplisit 'NEITHER eye visible, NEITHER claw visible, smooth rear edge not serrated' x2) -- model TETAP menggambar komposisi tampak depan: tepi karapas bergerigi jelas terlihat, dua mata di sela gerigi, dua capit besar membuka penuh di bawah. Sama persis pola kegagalan jantung (5x gagal, limitasi model bukan prompt). Diserahkan ke pencarian stok (CC0/PD) atau vektor skematik (bukan hewan realistis, tapi versi ilustrasi B mungkin masih bisa coba vektor siluet kepiting dari belakang jika osn-app-7a berminat)."
+    "status": "ok",
+    "catatan": "Gambar vektor datar (vektor-ipa.mjs, bukan Gemini) setelah 5x gagal di Gemini. Kepiting bakau dilihat tepat dari belakang: karapas kubah lebar dengan tepi belakang halus (tanpa gerigi depan), mata dan kedua capit tersembunyi, tiga pasang kaki jalan bersendi menekuk di tiap sisi, sepasang kaki renang pipih (pasangan ke-5) paling dekat. Perlu paraf guru IPA."
   },
   "katak/p07-ilustrasi-depan": {
     "status": "ok",
@@ -184,8 +188,8 @@
     "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (4 percobaan Gemini selalu kembali ke pose depan/dorsal). Lebah madu dilihat dari BELAKANG: ujung perut + sengat paling dekat dan terbesar (perut bergaris kuning-cokelat tua, 5 pita), kepala kecil dengan sepasang antena bersiku di ujung jauh, toraks berbulu, empat sayap bening terlipat di atas punggung menutupi sebagian garis perut, enam kaki — kaki belakang membawa keranjang serbuk sari (oranye) di tibia. Tanpa teks. Gaya ilustrasi datar. Diperiksa visual."
   },
   "bulan/p09-ilustrasi-kiri": {
-    "status": "salah",
-    "catatan": "GAGAL 3x berturut-turut (konten chained awal, rewrite standalone attempt 1 dgn bg putih salah, attempt 2 dgn bg hitam benar tapi pola kawah TETAP meniru pola full-moon near-side ikonik yang sama persis dengan p07 depan -- mare besar atas-kiri + kawah bercahaya Tycho-style di bawah). Model terus default ke gambar bulan purnama ikonik terlepas dari instruksi hemisfer 90-barat. Sama seperti bug jantung p04/08/09/10 -- limitasi model, bukan prompt. Diserahkan ke pencarian stok (CC0/PD) seperti item lain di daftar."
+    "status": "ok",
+    "catatan": "Gambar vektor (vektor-ipa.mjs, bukan Gemini) dihitung dari koordinat selenografis nyata (daftar mare di Wikipedia: Procellarum 20,7N 56,7W; Imbrium 34,7N 14,9W; Crisium 16,2N 59,1E; Serenitatis 27,3N 18,4E; Tranquillitatis 8,4N 30,8E; Fecunditatis 7,8S 53,7E; Nectaris; Frigoris; Humorum; Nubium; Smythii; Marginis; Orientale 19,9S 94,7W; Moscoviense; Ingenii) dengan proyeksi ortografis, lalu dibandingkan dengan foto Clementine p04/p05 (letak mare cocok). Latar hitam, bulan purnama penuh. Tampak kiri (pusat 90 derajat BB): Oceanus Procellarum besar di sisi kanan gambar (sisi dekat), Mare Orientale (cincin bull-eye) di kiri-bawah pusat, sisi jauh dataran tinggi terang berkawah, sinar Tycho di kanan-bawah."
   },
   "uranus/p03-realistis-belakang": {
     "status": "ok",
@@ -376,8 +380,8 @@
     "catatan": "Profil samping, kepala ke kiri, 6 kaki bergelang putih, belalai dan antena. Benar."
   },
   "nyamuk-aedes/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "5 panel (seharusnya tepat 4), tersusun 2 baris. Isi ilmiah benar. Generate ulang dengan template baru."
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "akar-tunggang-serabut-set/p03-penampang-belah.lama": {
     "status": "salah",
@@ -1776,8 +1780,8 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kepiting/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Tampak tidak konsisten. Prompt: \"Four copies: front, back, left profile, right profile.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kepiting/p02-realistis-depan": {
     "status": "ok",
@@ -2384,12 +2388,12 @@
     "catatan": "Lolos: dinding sel, membran, vakuola besar, inti, kloroplas, mitokondria, badan Golgi; callout kosong."
   },
   "semut/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Keempat salinan identik (tampak atas). Prompt: \"Four copies: front, back, left profile, right profile.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "semut/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Tampak depan dobel. Prompt: \"Four copies: front, back, left profile, right profile.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "semut/p02-realistis-depan": {
     "status": "ok",
@@ -3120,8 +3124,8 @@
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "reproduksi-wanita/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Tampak depan muncul 3 kali. Prompt: \"Four copies: anterior, posterior, left lateral, right lateral.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "reproduksi-wanita/p02-realistis-depan": {
     "status": "ok",
@@ -6052,8 +6056,8 @@
     "catatan": "Diagram skematik penampang sistem pencernaan lengkap (mulut dengan lidah & tonsil, hati, kandung empedu+pankreas, lambung dengan potongan dinding berlapis, usus halus & usus besar, apendiks, rektum) dengan leader line menuju lingkaran kosong (sekitar 10 callout) — semua lingkaran benar-benar kosong, tidak ada teks/angka, sesuai aturan ZERO TEXT. Garis putus-putus pada potongan lambung menunjukkan lapisan dinding dengan benar."
   },
   "tengkorak/p06-ilustrasi-turnaround": {
-    "status": "revisi",
-    "catatan": "Panel 1 (depan) dan panel 2 (belakang) sudah benar berbeda. Tapi panel 3 (kiri) dan panel 4 (kanan) sama-sama menampilkan wajah/hidung menghadap ke arah yang SAMA (kiri), bukan cerminan satu sama lain — tampak kanan seharusnya wajah menghadap ke kanan (mirror dari tampak kiri). Panel 4 terlihat seperti duplikasi profil kiri, bukan tampak kanan yang genuin. English correction prompt: 'Panel 4 (right profile) must show the skull facing the OPPOSITE direction from panel 3 (left profile) — a true mirror-image right lateral view, not a repeat of the left profile.'"
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "tulang-paha-penampang/p01-realistis-depan": {
     "status": "ok",
@@ -9652,8 +9656,8 @@
     "catatan": "Perbaikan BERHASIL dibanding versi .lama (dulu background putih + pola identik dengan depan). Sekarang: background hitam solid, dan analisis piksel menunjukkan fraksi area gelap hanya 6.9% (vs depan p07 = 43.2%) -- kontras drastis yang benar, menampilkan highlands terang padat berkawah dengan mare minimal, sesuai sisi jauh Bulan yang sebenarnya. Ini satu-satunya dari 4 kuartet (realistis+ilustrasi) yang benar-benar berhasil menunjukkan sisi jauh yang jauh lebih terang dari sisi dekat."
   },
   "bulan/p10-ilustrasi-kanan": {
-    "status": "revisi",
-    "catatan": "Fraksi area gelap = 9.3%, jauh lebih terang dari depan (43.2%), konsisten dengan highlands sisi limb timur, dan tidak ada artefak aneh seperti p09. Namun saya tidak bisa memastikan pola Mare Crisium yang bulat khas benar-benar tergambar akurat, hanya terlihat dark patch generik di beberapa titik. Perlu dicek manusia terhadap citra limb timur asli."
+    "status": "ok",
+    "catatan": "Gambar vektor (vektor-ipa.mjs, bukan Gemini) dihitung dari koordinat selenografis nyata (daftar mare di Wikipedia: Procellarum 20,7N 56,7W; Imbrium 34,7N 14,9W; Crisium 16,2N 59,1E; Serenitatis 27,3N 18,4E; Tranquillitatis 8,4N 30,8E; Fecunditatis 7,8S 53,7E; Nectaris; Frigoris; Humorum; Nubium; Smythii; Marginis; Orientale 19,9S 94,7W; Moscoviense; Ingenii) dengan proyeksi ortografis, lalu dibandingkan dengan foto Clementine p04/p05 (letak mare cocok). Latar hitam, bulan purnama penuh. Tampak kanan (pusat 90 derajat BT): Crisium bulat di kiri atas pusat, Fecunditatis, Smythii/Marginis dekat pusat, Moscoviense di kanan atas, Tsiolkovsky dan Ingenii di kanan bawah; sisi jauh dataran tinggi."
   },
   "mars/p03-realistis-belakang": {
     "status": "ok",
@@ -11212,6 +11216,62 @@
     "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "venus/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "reproduksi-pria/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Gambar vektor skematik klinis (vektor-ipa.mjs, bukan Gemini), hanya organ dalam, tanpa alat kelamin luar atau tubuh. Kandung kemih (potongan, kuning pucat) dengan dua ureter, prostat (oranye) dilintasi uretra, sepasang vesikula seminalis (kuning, di belakang dasar kandung kemih), sepasang vas deferens (biru) melengkung melewati ureter lalu ke belakang kandung kemih, sepasang testis dengan epididimis (biru muda) di sisi luar. Tanpa teks. Perlu paraf guru IPA (organ reproduksi)."
+  },
+  "bulan/p09-ilustrasi-kiri.lama3": {
+    "status": "salah",
+    "catatan": "GAGAL 3x berturut-turut (konten chained awal, rewrite standalone attempt 1 dgn bg putih salah, attempt 2 dgn bg hitam benar tapi pola kawah TETAP meniru pola full-moon near-side ikonik yang sama persis dengan p07 depan -- mare besar atas-kiri + kawah bercahaya Tycho-style di bawah). Model terus default ke gambar bulan purnama ikonik terlepas dari instruksi hemisfer 90-barat. Sama seperti bug jantung p04/08/09/10 -- limitasi model, bukan prompt. Diserahkan ke pencarian stok (CC0/PD) seperti item lain di daftar."
+  },
+  "bulan/p10-ilustrasi-kanan.lama2": {
+    "status": "revisi",
+    "catatan": "Fraksi area gelap = 9.3%, jauh lebih terang dari depan (43.2%), konsisten dengan highlands sisi limb timur, dan tidak ada artefak aneh seperti p09. Namun saya tidak bisa memastikan pola Mare Crisium yang bulat khas benar-benar tergambar akurat, hanya terlihat dark patch generik di beberapa titik. Perlu dicek manusia terhadap citra limb timur asli."
+  },
+  "kepiting/p08-ilustrasi-belakang.lama5": {
+    "status": "salah",
+    "catatan": "GAGAL 5x berturut-turut (chained awal x2, rewrite field-f x1, rewrite standalone eksplisit 'NEITHER eye visible, NEITHER claw visible, smooth rear edge not serrated' x2) -- model TETAP menggambar komposisi tampak depan: tepi karapas bergerigi jelas terlihat, dua mata di sela gerigi, dua capit besar membuka penuh di bawah. Sama persis pola kegagalan jantung (5x gagal, limitasi model bukan prompt). Diserahkan ke pencarian stok (CC0/PD) atau vektor skematik (bukan hewan realistis, tapi versi ilustrasi B mungkin masih bisa coba vektor siluet kepiting dari belakang jika osn-app-7a berminat)."
+  },
+  "nyamuk-aedes/p03-realistis-belakang.lama4": {
+    "status": "salah",
+    "catatan": "GAGAL 3x (field-f diperkuat dengan deskripsi ventral eksplisit berhasil mengubah WARNA jadi pucat krem sesuai perut ventral, TAPI pose/framing tetap sama persis dengan tampak depan: mata majemuk menghadap kamera, kaki simetris terentang, sayap terbentang penuh dengan venasi terlihat jelas -- bukan rotasi 180 derajat sungguhan ke sisi bawah. Sama seperti bug p08. Dikonfirmasi osn-app-7a: tidak ada foto stok CC0/PD untuk tampak ventral nyamuk. Diserahkan ke vektor jika osn-app-7a berminat, atau tetap salah."
+  },
+  "nyamuk-aedes/p08-ilustrasi-belakang.lama2": {
+    "status": "salah",
+    "catatan": "GAGAL 4x (percobaan terbaru adalah efek samping regenerasi p03, bukan diminta eksplisit) -- tetap pose dorsal simetris identik dengan tampak depan, tidak ada rotasi ke ventral. Dikonfirmasi osn-app-7a: tidak ada foto stok CC0/PD untuk tampak ventral nyamuk. Diserahkan ke vektor jika osn-app-7a berminat, atau tetap salah."
+  },
+  "kepiting/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Tampak tidak konsisten. Prompt: \"Four copies: front, back, left profile, right profile.\""
+  },
+  "nyamuk-aedes/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "5 panel (seharusnya tepat 4), tersusun 2 baris. Isi ilmiah benar. Generate ulang dengan template baru."
+  },
+  "semut/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Keempat salinan identik (tampak atas). Prompt: \"Four copies: front, back, left profile, right profile.\""
+  },
+  "semut/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Tampak depan dobel. Prompt: \"Four copies: front, back, left profile, right profile.\""
+  },
+  "reproduksi-wanita/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Tampak depan muncul 3 kali. Prompt: \"Four copies: anterior, posterior, left lateral, right lateral.\""
+  },
+  "tengkorak/p06-ilustrasi-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Panel 1 (depan) dan panel 2 (belakang) sudah benar berbeda. Tapi panel 3 (kiri) dan panel 4 (kanan) sama-sama menampilkan wajah/hidung menghadap ke arah yang SAMA (kiri), bukan cerminan satu sama lain — tampak kanan seharusnya wajah menghadap ke kanan (mirror dari tampak kiri). Panel 4 terlihat seperti duplikasi profil kiri, bukan tampak kanan yang genuin. English correction prompt: 'Panel 4 (right profile) must show the skull facing the OPPOSITE direction from panel 3 (left profile) — a true mirror-image right lateral view, not a repeat of the left profile.'"
+  },
+  "usus-halus-besar/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "bulan/p06-ilustrasi-turnaround": {
     "status": "ok",
     "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
   }

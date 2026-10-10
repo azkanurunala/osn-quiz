@@ -1790,6 +1790,140 @@ function planetDisc(kind, view) {
   o += `<g clip-path="url(#pdc)">${g}<circle cx="${cx}" cy="${cy}" r="${Rr}" fill="url(#psh)"/></g><circle cx="${cx}" cy="${cy}" r="${Rr}" fill="none" stroke="#1a1a1a" stroke-width="5"/>`;
   return svg(o, '#000');
 }
+
+// ================= Moon, left (centre 90 deg W) and right (centre 90 deg E) limb views from real selenographic coordinates (orthographic, fully lit, black background) =================
+function moonLimb(view) {
+  const cx = 512; const cy = 512; const Rr = 360; const lon0 = view === 'kiri' ? -90 : 90;
+  const d2r = Math.PI / 180;
+  const proj = (lat, lon) => { const dl = (lon - lon0) * d2r; const la = lat * d2r; return { x: Math.cos(la) * Math.sin(dl), y: Math.sin(la), z: Math.cos(la) * Math.cos(dl) }; };
+  const scr = (p) => { let { x, y } = p; if (p.z < 0) { const n = Math.hypot(x, y) || 1; x /= n; y /= n; } return [cx + Rr * x, cy - Rr * y]; };
+  const dest = (lat, lon, dist, brg) => {                                                  // point at angular distance dist (deg) along bearing brg from (lat, lon)
+    const la = lat * d2r; const lo = lon * d2r; const dd = dist * d2r; const b = brg * d2r;
+    const la2 = Math.asin(Math.sin(la) * Math.cos(dd) + Math.cos(la) * Math.sin(dd) * Math.cos(b));
+    const lo2 = lo + Math.atan2(Math.sin(b) * Math.sin(dd) * Math.cos(la), Math.cos(dd) - Math.sin(la) * Math.sin(la2));
+    return [la2 / d2r, ((lo2 / d2r + 540) % 360) - 180];
+  };
+  const cap = (lat, lon, rDeg, fill, extra = '') => {
+    if (proj(lat, lon).z < -0.25) return '';
+    const p = []; for (let b = 0; b < 360; b += 15) { const [la, lo] = dest(lat, lon, rDeg, b); p.push(scr(proj(la, lo))); }
+    return `<polygon points="${pts(p)}" fill="${fill}" ${extra}/>`;
+  };
+  const r = rng(view === 'kiri' ? 91 : 97);
+  let g = `<rect x="${cx - Rr}" y="${cy - Rr}" width="${2 * Rr}" height="${2 * Rr}" fill="#bdbab3"/>`;
+  // maria: [lat, lon, radius in deg] — circles approximating each mare (Wikipedia list of maria on the Moon)
+  const maria = [
+    [20.7, -57, 19], [8, -45, 11], [35, -47, 12], [0, -62, 8], [14, -70, 7],                                    // Oceanus Procellarum
+    [34.7, -14.9, 15], [27.3, 18.4, 8.5], [8.4, 30.8, 11], [4, 26, 6], [16.2, 59.1, 7],                          // Imbrium, Serenitatis, Tranquillitatis, Crisium
+    [-7.8, 53.7, 9], [-15.2, 34.6, 5], [57.6, -30, 4.5], [57.6, -10, 5], [57.6, 10, 5], [57.6, 30, 4.5],        // Fecunditatis, Nectaris, Frigoris
+    [-24.5, -38.6, 5.5], [-20.6, -17.3, 9], [-10.5, -22.3, 4.5], [13.2, 4.1, 4], [7.8, -30.6, 7],               // Humorum, Nubium, Cognitum, Vaporum, Insularum
+    [-1.7, 87, 5], [12.7, 86.5, 5], [-40, 85, 3], [-47.8, 92, 3.5], [-52, 100, 3], [-45, 106, 3],              // Smythii, Marginis, Australe patches
+    [27.3, 148.1, 4.5], [-33.3, 164.8, 4.5], [-20.4, 129.1, 2.5], [-36.1, -151.8, 4], [-19.9, -94.7, 3.4],       // Moscoviense, Ingenii, Tsiolkovsky, Apollo, Orientale centre
+    [-5.2, -68.3, 2.6], [51.6, -9.3, 1.8],                                                                       // Grimaldi, Plato floors
+  ];
+  for (const [la, lo, rr] of maria) g += cap(la, lo, rr, '#6f6f77');
+  // Orientale rings (bull's-eye), drawn as outlines around its dark centre
+  for (const rr of [6.5, 10, 15]) { const p = []; for (let b = 0; b < 360; b += 10) { const [la, lo] = dest(-19.9, -94.7, rr, b); const pr = proj(la, lo); if (pr.z > 0) p.push(scr(pr)); } if (p.length > 3) g += `<polyline points="${pts(p)}" fill="none" stroke="#8a877f" stroke-width="5" stroke-linejoin="round"/>`; }
+  // ray systems: Tycho (long), Copernicus (short)
+  const rays = (la0, lo0, n, len, op) => { let s = ''; for (let k = 0; k < n; k++) { const brg = k * (360 / n) + r() * 14; const p = []; for (let dd = 3; dd <= len * (0.6 + r() * 0.4); dd += 3) { const [la, lo] = dest(la0, lo0, dd, brg); const pr = proj(la, lo); if (pr.z > 0.02) p.push(scr(pr)); } if (p.length > 2) s += `<polyline points="${pts(p)}" fill="none" stroke="rgba(245,243,236,${op})" stroke-width="${f(3 + r() * 3)}" stroke-linecap="round"/>`; } return s; };
+  g += rays(-43.3, -11.4, 14, 45, 0.5) + rays(9.6, -20, 9, 14, 0.45) + rays(8.1, -38, 6, 8, 0.4) + rays(23.7, -47.4, 6, 7, 0.45);
+  // craters: named ones first, then random highlands craters; each foreshortened toward the limb
+  const crater = (lat, lon, rDeg, bright) => {
+    const pr = proj(lat, lon); if (pr.z < 0.08) return '';
+    const [sx, sy] = scr(pr); const r0 = rDeg * d2r * Rr; const ang = Math.atan2(-pr.y, pr.x) * 180 / Math.PI; const z = pr.z;
+    return `<g transform="translate(${f(sx)} ${f(sy)}) rotate(${f(ang)})"><ellipse cx="0" cy="0" rx="${f(Math.max(1.5, r0 * z))}" ry="${f(Math.max(1.5, r0))}" fill="${bright ? '#e8e6df' : '#8f8c85'}" stroke="${bright ? '#fffdf5' : '#d9d6cf'}" stroke-width="${f(Math.max(1.5, r0 / 6))}"/></g>`;
+  };
+  for (const [la, lo, rr, br] of [[-43.3, -11.4, 1.8, 1], [9.6, -20, 1.3, 1], [8.1, -38, 1.1, 1], [23.7, -47.4, 1.1, 1], [-8.9, 61, 2, 0], [-20.4, 129.1, 2.6, 0], [13.4, 124.3, 2, 0], [-46.2, 72.5, 2.2, 0], [-19.5, -105, 1.8, 0]]) g += crater(la, lo, rr, br);
+  for (let k = 0; k < 70; k++) { const lat = Math.asin(r() * 2 - 1) / d2r; const lon = (r() * 360 - 180); g += crater(lat, lon, 0.6 + r() * 1.8, r() < 0.12); }
+  const o = `<defs><clipPath id="mnc"><circle cx="${cx}" cy="${cy}" r="${Rr}"/></clipPath><radialGradient id="mns" cx="0.5" cy="0.5" r="0.5"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.62"/></radialGradient></defs>`
+    + `<g clip-path="url(#mnc)">${g}<circle cx="${cx}" cy="${cy}" r="${Rr}" fill="url(#mns)"/></g><circle cx="${cx}" cy="${cy}" r="${Rr}" fill="none" stroke="#2a2a2a" stroke-width="4"/>`;
+  return svg(o, '#000');
+}
+
+// ================= Mud crab seen from BEHIND: smooth rear carapace margin, no eyes or claws visible, trailing walking legs and swimming paddles =================
+function crabRear() {
+  const BODY = '#5d6b3b'; const BODYO = '#2f3a1c'; const LEG = '#6f7f48'; const LEGL = '#9aab68';
+  const seg = (a, b, w) => `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${BODYO}" stroke-width="${w + 7}" stroke-linecap="round"/>`;
+  const segF = (a, b, w, c = LEG) => `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${c}" stroke-width="${w}" stroke-linecap="round"/>`;
+  const mx = (p) => [1024 - p[0], p[1]];
+  const legs = [
+    [[290, 500], [172, 424], [92, 502], [64, 612], [68, 690]],
+    [[300, 514], [192, 452], [132, 536], [112, 632], [118, 692]],
+    [[312, 528], [226, 482], [178, 558], [162, 642], [168, 696]],
+  ];
+  const wd = [38, 30, 24, 12];
+  let back = ''; let front = '';
+  for (const lg of legs) for (const side of [1, -1]) {
+    const p = lg.map((q) => (side > 0 ? q : mx(q)));
+    for (let i = 0; i < 4; i++) back += seg(p[i], p[i + 1], wd[i]);
+    for (let i = 0; i < 4; i++) back += segF(p[i], p[i + 1], wd[i]) + (i < 3 ? `<circle cx="${p[i + 1][0]}" cy="${p[i + 1][1]}" r="${wd[i] / 2 - 4}" fill="${LEGL}"/>` : '');
+    back += segF(p[3], p[4], 8, '#3b3a2a');
+  }
+  // carapace: smooth rear margin (no serrated front edge, no eyes)
+  const shell = 'M232,486 C232,362 372,300 512,300 C652,300 792,362 792,486 C792,536 700,558 512,560 C324,558 232,536 232,486 Z';
+  front += `<path d="${shell}" fill="${BODY}" stroke="${BODYO}" stroke-width="9" stroke-linejoin="round"/>`;
+  front += `<path d="M290,510 C400,546 624,546 734,510" fill="none" stroke="#8a9a5b" stroke-width="12" stroke-linecap="round"/>`;                      // smooth posterior margin
+  front += `<path d="M320,380 C420,342 604,342 704,380" fill="none" stroke="#4a5730" stroke-width="5" opacity="0.7"/><path d="M512,322 L512,480" stroke="#4a5730" stroke-width="5" opacity="0.6"/>`;
+  front += `<ellipse cx="420" cy="380" rx="70" ry="24" fill="rgba(255,255,255,0.12)" transform="rotate(-12 420 360)"/>`;
+  // swimming paddles (5th pair), nearest to the viewer, low on each side
+  for (const side of [1, -1]) {
+    const q = (x, y) => (side > 0 ? [x, y] : [1024 - x, y]);
+    const a = q(340, 552); const b = q(268, 596); const c = q(214, 634);
+    front += seg(a, b, 26) + segF(a, b, 26) + seg(b, c, 22) + segF(b, c, 22);
+    const pc = q(196, 664); front += `<ellipse cx="${pc[0]}" cy="${pc[1]}" rx="64" ry="26" transform="rotate(${side > 0 ? -28 : 28} ${pc[0]} ${pc[1]})" fill="${LEG}" stroke="${BODYO}" stroke-width="7"/>`
+      + `<ellipse cx="${pc[0]}" cy="${pc[1]}" rx="40" ry="10" transform="rotate(${side > 0 ? -28 : 28} ${pc[0]} ${pc[1]})" fill="${LEGL}" opacity="0.7"/>`;
+  }
+  const ground = `<ellipse cx="512" cy="704" rx="400" ry="20" fill="#e3e3dc"/>`;
+  return svg(ground + back + front);
+}
+
+// ================= Female Aedes aegypti seen from BELOW (ventral): pale cream underside, legs with white bands, no spread wings =================
+function mosquitoVentral() {
+  const DARK = '#1f1f1f'; const CREAM = '#efe3c4'; const CREAMO = '#8a7a52';
+  let o = '';
+  const leg = (pts4, bands) => {
+    let s = '';
+    for (let i = 0; i < pts4.length - 1; i++) s += `<line x1="${pts4[i][0]}" y1="${pts4[i][1]}" x2="${pts4[i + 1][0]}" y2="${pts4[i + 1][1]}" stroke="${DARK}" stroke-width="${f(10 - i * 1.6)}" stroke-linecap="round"/>`;
+    for (const [i, t] of bands) { const a = pts4[i]; const b = pts4[i + 1]; const x = a[0] + (b[0] - a[0]) * t; const y = a[1] + (b[1] - a[1]) * t; const dx = b[0] - a[0]; const dy = b[1] - a[1]; const n = Math.hypot(dx, dy); s += `<line x1="${f(x)}" y1="${f(y)}" x2="${f(x + dx / n * 14)}" y2="${f(y + dy / n * 14)}" stroke="#fff" stroke-width="${f(7 - i * 1.2)}" stroke-linecap="butt"/>`; }
+    return s;
+  };
+  // three pairs of legs attach to the underside of the thorax: front forward-out, middle sideways, hind backward-out; white bands at the joints (Aedes aegypti)
+  const cx = 512;
+  const LEGS = [
+    [[cx - 22, 300], [cx - 120, 250], [cx - 190, 150], [cx - 230, 80]],
+    [[cx - 26, 336], [cx - 150, 340], [cx - 260, 300], [cx - 330, 330]],
+    [[cx - 22, 372], [cx - 120, 450], [cx - 190, 590], [cx - 240, 700]],
+  ];
+  for (const lg of LEGS) for (const side of [-1, 1]) {
+    const p = lg.map(([x, y]) => [side < 0 ? x : 1024 - x, y]);
+    o += leg(p, [[1, 0.1], [1, 0.8], [2, 0.5]]);
+  }
+  // abdomen (8 segments, pale ventral side with thin dark segment borders and a few white bands), tapering to the tip
+  const segs = 8; let y = 410;
+  for (let i = 0; i < segs; i++) {
+    const w = 46 - i * 3.4; const h = 44 - i * 1.5;
+    o += `<rect x="${f(cx - w)}" y="${f(y)}" width="${f(2 * w)}" height="${f(h)}" rx="14" fill="${CREAM}" stroke="${CREAMO}" stroke-width="3"/>`;
+    if (i % 2 === 1) o += `<rect x="${f(cx - w + 6)}" y="${f(y + h * 0.35)}" width="${f(2 * w - 12)}" height="${f(h * 0.3)}" rx="6" fill="#fffdf6"/>`;
+    y += h - 2;
+  }
+  o += `<ellipse cx="${cx}" cy="${y + 8}" rx="14" ry="12" fill="${CREAM}" stroke="${CREAMO}" stroke-width="3"/>` + L(cx - 8, y + 16, cx - 12, y + 40, DARK, 3) + L(cx + 8, y + 16, cx + 12, y + 40, DARK, 3);
+  // wings folded: only their narrow tips seen alongside the abdomen, edge-on
+  for (const side of [-1, 1]) o += `<path d="M${cx + side * 52},370 C${cx + side * 64},470 ${cx + side * 60},580 ${cx + side * 36},650" fill="none" stroke="#6b6b6b" stroke-width="5" stroke-linecap="round" opacity="0.8"/>`
+    + `<path d="M${cx + side * 52},370 C${cx + side * 70},470 ${cx + side * 66},590 ${cx + side * 40},660" fill="none" stroke="#9a9a9a" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>`;
+  // thorax (pale underside with leg attachment plates) and halteres
+  o += `<ellipse cx="${cx}" cy="338" rx="58" ry="74" fill="${CREAM}" stroke="${CREAMO}" stroke-width="4"/>`;
+  for (const yy of [300, 336, 372]) for (const s of [-1, 1]) o += `<circle cx="${cx + s * 26}" cy="${yy}" r="9" fill="#d9c9a0" stroke="${CREAMO}" stroke-width="2.5"/>`;
+  for (const s of [-1, 1]) o += `<line x1="${cx + s * 50}" y1="388" x2="${cx + s * 86}" y2="404" stroke="${DARK}" stroke-width="4" stroke-linecap="round"/><circle cx="${cx + s * 90}" cy="406" r="7" fill="${DARK}"/>`;
+  // head from below: dark capsule with compound eyes at the sides, long proboscis forward, short palps, thin sparsely haired (female) antennae
+  o += `<line x1="${cx}" y1="230" x2="${cx}" y2="62" stroke="${DARK}" stroke-width="9" stroke-linecap="round"/>`;
+  for (const s of [-1, 1]) o += `<line x1="${cx + s * 14}" y1="226" x2="${cx + s * 22}" y2="150" stroke="#3a3a3a" stroke-width="7" stroke-linecap="round"/>`;
+  for (const s of [-1, 1]) {
+    o += `<polyline points="${cx + s * 22},232 ${cx + s * 70},178 ${cx + s * 100},110" fill="none" stroke="#555" stroke-width="3.5" stroke-linecap="round"/>`;
+    for (const [px, py] of [[cx + s * 52, 196], [cx + s * 80, 150], [cx + s * 92, 128]]) o += `<line x1="${px}" y1="${py}" x2="${px + s * 14}" y2="${py - 6}" stroke="#777" stroke-width="1.8"/>`;
+  }
+  o += `<ellipse cx="${cx}" cy="250" rx="46" ry="38" fill="#2a2a2a" stroke="#000" stroke-width="3"/>`;
+  for (const s of [-1, 1]) o += `<ellipse cx="${cx + s * 30}" cy="252" rx="20" ry="26" fill="#0f0f0f" stroke="#444" stroke-width="2"/>`;
+  return svg(o);
+}
 // ---------- slots ----------
 const OBJECTS = {
   'ipa/04-cahaya-bunyi-panas-zat/ambulans-doppler': () => ambulanceDoppler(),
@@ -1812,7 +1946,7 @@ const OBJECTS = {
   'ipa/02-tubuh-manusia/sistem-urinaria': { draw: (slot) => urinary(/belakang/.test(slot) ? 'belakang' : 'depan', /p11-/.test(slot) ? 'belah' : /p12-/.test(slot) ? 'see' : 'solid', /p1[12]-/.test(slot)), only: /^p(07|08|11|12)-/ },
   'ipa/02-tubuh-manusia/tulang-belakang': { draw: (slot) => (/p11-/.test(slot) ? spineBelah() : spineView(/p10-/.test(slot) ? 'bone' : 'see', /p12-/.test(slot))), only: /^p1[012]-/ },
   'ipa/02-tubuh-manusia/tulang-paha-penampang': { draw: (slot) => femurSection(/transparan/.test(slot)), only: /^p0[34]-/ },
-  'ipa/02-tubuh-manusia/reproduksi-pria': { draw: (slot) => maleRepro(/transparan/.test(slot) ? 'see' : 'belah'), only: /^p0[34]-/ },
+  'ipa/02-tubuh-manusia/reproduksi-pria': { draw: (slot) => maleRepro(/transparan/.test(slot) ? 'see' : /p02-/.test(slot) ? 'solid' : 'belah'), only: /^p0[234]-/ },
   'ipa/01-makhluk-hidup/telur-ayam': { draw: (slot) => eggSection(/belah/.test(slot), /transparan/.test(slot)), only: /^p0[34]-/ },
   'ipa/01-makhluk-hidup/penampang-daun': { draw: (slot) => leafSection(/belah/.test(slot)), only: /^p0[34]-/ },
   'ipa/01-makhluk-hidup/akar-tunggang-serabut-set': { draw: () => rootsSeeThrough(false), only: /^p04-/ },
@@ -1825,6 +1959,9 @@ const OBJECTS = {
   'ipa/05-bumi-antariksa/jupiter': { draw: (slot) => (/p1[12]-/.test(slot) ? cutawayPlanet('jupiter', /belah/.test(slot), /transparan/.test(slot)) : planetDisc('jupiter', slot.match(/(belakang|kiri|kanan)$/)[1])), only: /^p(08|09|10)-/ },
   'ipa/05-bumi-antariksa/merkurius': { draw: (slot) => planetDisc('merkurius', slot.match(/(belakang|kiri|kanan)$/)[1]), only: /^p(08|09|10)-/ },
   'ipa/05-bumi-antariksa/venus': { draw: (slot) => planetDisc('venus', slot.match(/(belakang|kiri|kanan)$/)[1]), only: /^p(08|09|10)-/ },
+  'ipa/05-bumi-antariksa/bulan': { draw: (slot) => moonLimb(/kiri$/.test(slot) ? 'kiri' : 'kanan'), only: /^p(09|10)-/ },
+  'ipa/01-makhluk-hidup/kepiting': { draw: () => crabRear(), only: /^p08-/ },
+  'ipa/01-makhluk-hidup/nyamuk-aedes': { draw: () => mosquitoVentral(), only: /^p0[38]-/ },
   'ipa/05-bumi-antariksa/profil-tanah': { draw: (slot) => soilProfile(/penampang/.test(slot) ? 'penampang' : slot.match(/(depan|belakang|kiri|kanan)$/)[1], /belah/.test(slot)), only: /^p(0[2-5]|0[7-9]|10|11|12)-/ },
   'ipa/05-bumi-antariksa/pelangi': () => rainbow(),
   'ipa/05-bumi-antariksa/gunung-meletus': { draw: (slot) => volcanoSection(/belah/.test(slot), /transparan/.test(slot)), only: /^p0[34]-/ },
