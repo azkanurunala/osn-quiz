@@ -95,6 +95,10 @@ function labelsFor(id, slot, path) {
 const MTK_PHOTO_IDS = new Set([
   'akuarium', 'celengan', 'maket-rumah', 'kelereng-kantong', 'tandon-air',
   'benda-bangun-ruang-set', 'kendaraan-set', 'koin-peluang',
+  // plain solids drawn as exact vectors (image-prompts/_src/vektor-mtk.mjs) or an acrylic model with
+  // no counts to get wrong: shown only for soal that name that one solid (see REQUIRE/NOT_FOR in
+  // src/features/diagrams/objekFoto.js), and only when no concept diagram already covers the soal.
+  'kubus', 'balok', 'tabung', 'kerucut', 'limas-segiempat',
 ]);
 
 rmSync(OUT_DIR, { recursive: true, force: true });

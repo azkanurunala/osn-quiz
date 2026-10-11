@@ -2864,6 +2864,56 @@ export const OBJEK_FOTO = [
     "file": "objek/kelereng-kantong.webp"
   },
   {
+    "id": "kubus",
+    "title": "Kubus",
+    "kw": "kubus",
+    "bab": "mtk-04",
+    "file": "objek/kubus.webp",
+    "views": {
+      "samping": "objek/kubus-samping.webp"
+    }
+  },
+  {
+    "id": "balok",
+    "title": "Balok",
+    "kw": "balok",
+    "bab": "mtk-04",
+    "file": "objek/balok.webp",
+    "views": {
+      "samping": "objek/balok-samping.webp"
+    }
+  },
+  {
+    "id": "limas-segiempat",
+    "title": "Limas segiempat",
+    "kw": "limas|piramida",
+    "bab": "mtk-04",
+    "file": "objek/limas-segiempat.webp",
+    "views": {
+      "samping": "objek/limas-segiempat-samping.webp"
+    }
+  },
+  {
+    "id": "tabung",
+    "title": "Tabung",
+    "kw": "tabung|silinder",
+    "bab": "mtk-04",
+    "file": "objek/tabung.webp",
+    "views": {
+      "samping": "objek/tabung-samping.webp"
+    }
+  },
+  {
+    "id": "kerucut",
+    "title": "Kerucut",
+    "kw": "kerucut",
+    "bab": "mtk-04",
+    "file": "objek/kerucut.webp",
+    "views": {
+      "samping": "objek/kerucut-samping.webp"
+    }
+  },
+  {
     "id": "akuarium",
     "title": "Akuarium balok",
     "kw": "akuarium",

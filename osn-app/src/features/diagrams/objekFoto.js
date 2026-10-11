@@ -169,6 +169,83 @@ const NOT_FOR = {
   celengan: /bunga (tunggal|majemuk|bank)|suku bunga|per tahun|bank (gen|biji|benih)|koperasi/,
 };
 
+// --- added after reading every (soal, picture) pair the videos show (2026-10): each of these objects
+// matched on a word that is also used for something else. REQUIRE = the soal must really be about
+// the object; NOT_FOR_EXTRA is OR-ed into NOT_FOR above.
+const REQUIRE_EXTRA = {
+  // a square-based pyramid picture: not "limas segi-12", "limas segitiga" or a rectangular base
+  'limas-segiempat': /persegi|segiempat|segi empat|segi-4|segi 4/,
+  // kw "tabung" also fires on "tabung reaksi/gas" (NOT_FOR) and needs a real cylinder soal
+  tabung: /jari|diameter|tinggi|volume|luas|kapasitas|permukaan|selimut|alas|berbentuk tabung|bentuk tabung|silinder|drum|kaleng|tangki|pipa/,
+  // the picture is the planet: "gempa bumi", "panas bumi", "berat di bumi" are not about it
+  bumi: /rotasi|revolusi|berotasi|berevolusi|poros|sumbu|belahan|bentuk bumi|bentuk(nya)? (yang )?(sebenarnya|paling|sebenarnya)|berbentuk|bulat|\bbola\b|khatulistiwa|ekuator|kutub|lintang|bujur|garis khayal|siang|malam|musim|kemiringan|miring|berputar/,
+  // the picture is the star itself, not sunlight in a rainbow/eclipse/photosynthesis soal
+  matahari: /suhu|inti matahari|permukaan matahari|korona|bintang|fusi|matahari (adalah|tergolong|merupakan|menghasilkan|kelak|padam)|raksasa merah|halo|diameter|piringan|jarak/,
+  // the picture is particles of solid/liquid/gas, not "gas rumah kaca" or "limbah cair"
+  'wujud-zat-set': /wujud|partikel|zat padat|zat cair|zat gas|benda padat|sifat zat|contoh zat|membeku|mencair|menguap|mengembun|menyublim|mengkristal|susunan/,
+  // "papan" alone also means a board used as a lever
+  'bidang-miring-papan': /miring/,
+  // the picture is the soil layers: "meresap ke dalam tanah", "bola jatuh ke tanah" are not about them
+  'profil-tanah': /lapisan tanah|profil tanah|horison|humus|jenis tanah|abu letusan|tanah (yang )?(subur|liat|pasir|kapur|vulkanik|gambut|aluvial|lempung|asam|basa)|tanah terbentuk|terbentuk dari|pelapukan|tekstur|ph tanah|yang dimaksud dengan tanah|tanah paling|renzina|degradasi|tanah adalah|tanah subur/,
+  // kw bare "angin": sea breeze, trade winds, Coriolis are not the wind turbine
+  'kincir-angin': /kincir|turbin|pltb|pembangkit listrik tenaga angin|tenaga angin/,
+  // a balloon of air (gas laws, helium) is not the charged balloon
+  'balon-listrik-statis': /gosok|muatan|statis|menarik (potongan )?kertas|elektron|sisir/,
+  // the picture is a tyre tread / shoe sole: block-on-floor friction numbers are not about it
+  'ban-berulir': /\bban\b|berulir|alur|sol sepatu|sepatu|telapak|bergerigi|manfaat|menguntungkan|merugikan|\brem\b|licin|kasar/,
+  // the picture is the arm (biceps/triceps): not diaphragm, polio, nerves, puberty
+  'otot-lengan': /bisep|trisep|lengan|siku|mengerut|berkontraksi|antagonis|otot rangka|gaya otot|kontraksi|menegang|mengangkat/,
+  // "fase" also means pupa/larva stage or the phase of light
+  'fase-bulan-deret': /bulan|purnama|kuartil|sabit|terminator/,
+  // radiation T^4, CMB, Hawking radiation are not the three ways heat travels
+  'perpindahan-panas-set': /konduksi|konveksi|radiasi|perpindahan panas|merambat|dihantarkan/,
+  // "tidak ada angin" in a chimney soal
+  'kipas-angin': /kipas/,
+};
+const NOT_FOR_EXTRA = {
+  // MTK solids (exact vector pictures): only the plain solid, not combined/cut/stacked ones
+  kubus: /es kubus|kubus es|gula|kubik|pangkat tiga|dadu|rubik|gabungan|dipotong|kubus (kecil|satuan)|disusun|tersusun|tumpukan|jaring|direkatkan|dimasukkan/,
+  balok: /gabungan|dipotong|direkatkan|disusun|tersusun|dimasukkan|dilubangi|jaring|dicor|dilebur|μ|koefisien|gesek|ditarik|kg/,
+  tabung: /tabung (reaksi|gas|oksigen|elpiji|lpg|ukur|pemadam|kapiler)|menabung|tabungan|gabungan|bola|kerucut|balok|kubus|setengah|dilebur|dileburkan/,
+  kerucut: /es krim|cone|tabung|bola|gabungan|dileburkan|melebur|setengah/,
+  'limas-segiempat': /persegi panjang|jajar|belah ketupat|trapesium|segi-?(tiga|lima|enam|delapan|\d{2})|segitiga|segilima|segienam|frustum|terpotong|dipotong/,
+  bumi: /gempa bumi|panas bumi|gaya gravitasi|gravitasi bumi|massa bumi|jari-jari bumi|kecepatan lepas|pasang surut|\bbulan\b|satelit|astronot|luar angkasa|stasiun|ozon|atmosfer|persen|tertutup air|karbon|nuklir|bayangan|sabit/,
+  matahari: /gerhana|pelangi|energi alternatif|plts|panel|sinar matahari|cahaya matahari|jemur|terbit|terbenam|vitamin|uap|penguapan|sundial|waktu surya|polar night|bayangan|pohon|pltn|berkilau|catatan|astronot/,
+  'wujud-zat-set': /gas rumah kaca|limbah|karbon dioksida|oksigen|bernapas|menghembuskan|menghirup|pemanasan global|elpiji|roket|stempel|lensa cair|pascal|plasma|galinstan|boyle|gas ideal|perpindahan panas|konduksi|konveksi|tekanan|bunyi|iodin|asap|pencemar|emisi|hujan asam|nitrogen|udara|fotosintesis/,
+  'profil-tanah': /air tanah|meresap|resapan|infiltrasi|longsor|erosi|pencemaran|petir|\bbola\b|bayangan|jatuh|gravitasi|batu bata|jerigen|karbon|hutan tropis|diam terhadap/,
+  'kendaraan-set': /antariksa|angkasa|astronot|voyager|roket|headphone|airpods|phased array|\bndt\b|\bf-\d+|mach\b|nasa|manusia pertama ke bulan|^(?![\s\S]*(mobil|motor|bus|kereta|truk))[\s\S]*pesawat/,
+  'tata-surya-deret': /galaksi|bima sakti|planetary boundary|batas planet/,
+  'lampu-bohlam': /bayangan|penumbra|umbra|layar|cd\/dvd|\buv\b|ultraviolet|lalu lintas|dilihat dalam cahaya|warna apa|piring/,
+  'sumber-vitamin-mineral-set': /zat besi|air mineral|menambang|asteroid|sifat fisika/,
+  'lensa-cembung-cekung-set': /lempeng|tektonik/,
+  'alat-energi-listrik-panas-set': /\bac\b|pendingin|bagian atas/,
+  'larutan-koloid-suspensi': /iodium|iodin|amilum|\bmol\b|konsentrasi|persen massa|nacl|saline|asam asetat|cuka/,
+  'perubahan-kimia-set': /termosfer|gambut|alga|danau|eutrofikasi|astronaut|hutan/,
+  'es-batu-mencair': /batuan|magma|hewan ikonik/,
+  'benda-bangun-ruang-set': /dilempar|dilambungkan|ruang sampel|kemungkinan|peluang|\brp\b|rp\s?\d|resep|patungan|angka|sisi atas|mata dadu|susu : krim/,
+  'model-atom': /grafen|graphene|bermuatan|menerima elektron|melepaskan elektron|\b0 k\b|foton|reaksi inti|uranium|molekul|suhu mendekati/,
+  'tingkatan-organisasi-makhluk-hidup-set': /mitigasi|krisis|perkotaan|piramida|\bdna\b|trenggiling|bagian biji|pertahanan|diburu|grafik|strategi/,
+  'sumber-lemak-set': /potensial|pohon|menyebar|terapung|famili|arecaceae|gerak|jatuh|sabut|perkebunan|sawit|penggundulan|hutan|campuran|dikocok|konversi|produsen minyak/,
+  'kacamata-minus-plus-set': /rabun senja|kekurangan vitamin|polarisasi|terpolarisasi/,
+  'alat-cuaca-set': /pakaian|wol|berwarna|pelangi|gunung|abu vulkanik|el ni|la ni|satelit/,
+  'sda-tak-terbarukan-set': /plta|emas|spektroskopi|spectroscopy|\bnir\b|fosil sebagian|eksplorasi|bijih/,
+  tensimeter: /migrain|sakit kepala/,
+  telinga: /menyelam|di bawah air/,
+  'perpindahan-panas-set': /cmb|cosmic|big bang|hawking|black hole|σ|stefan|emissivity|emisivitas|termal|wien|t⁴|gelombang mikro/,
+  sepeda: /pemanasan global|transportasi umum/,
+  'tanaman-jagung': /panjang daun|rata-rata|bibit|kekeringan|kelompok tani/,
+  'penguapan-garam': /transpirasi|danau|evapotranspirasi|hujan|siklus air/,
+  venus: /flytrap|dionaea|tumbuhan|serangga/,
+  'tangga-rumah': /erosi|lereng|terasering|sengkedan|spiral|mercusuar/,
+  'koin-peluang': /jari-jari|luas|total uang|500-an|1\.000-an/,
+  'batuan-sedimen-set': /asam asetat|cuka/,
+  'sel-tumbuhan': /serat|manfaat makan|sayur/,
+  neptunus: /kuiper/,
+  'kelereng-kantong': /hujan|butiran es|jangka sorong/,
+};
+for (const [id, re] of Object.entries(NOT_FOR_EXTRA)) NOT_FOR[id] = NOT_FOR[id] ? new RegExp(`${NOT_FOR[id].source}|${re.source}`) : re;
+Object.assign(REQUIRE, REQUIRE_EXTRA);
+
 const BEFORE = /(?:mirip|seperti|menyerupai|bagaikan|layaknya|daging|susu|sate|sop|soto|bulu|kulit|pukat)\s+(?:\S+\s+)?$/;
 // Also non-biology uses of the word: "mata tunas", "hidung pesawat", "kulit batang".
 const AFTER_FOOD = /^\s+(?:goreng|bakar|panggang|rebus|geprek|potong|tunas|gergaji|pencaharian|uang|pisau|angin|air|kaki|pelajaran|rantai|pesawat|kereta|batang|pohon|buah|kayu|telur|bawang|jeruk)\b/;
@@ -252,33 +329,37 @@ function inCommaList(stem, o) {
 /**
  * @returns {{id:'objek-foto', title:string, objek:{id:string,file:string,dark:boolean}}|null}
  */
-export function matchObjekFoto(question, packageSubject, { anyPicture = false } = {}) {
+export function matchObjekFoto(question, packageSubject, { anyPicture = false, why = null } = {}) {
+  // why: audit only, receives { code, id } for the first rule that rejected a soal that named exactly one object
+  const no = (code, id) => { if (why) { why.code = code; why.id = id; } return null; };
   const isMtkSubject = [packageSubject, question?.subTopic].some((s) => String(s ?? '').toLowerCase() === 'mtk');
   const raw = String(question?.question ?? '').replace(/```[\s\S]*?```/g, ' ').replace(/[*_`]/g, '');
   const stem = raw.toLowerCase();
   if (!stem.trim()) return null;
-  if (/→|->|⇒/.test(stem) || OTHER_RE.test(stem)) return null;
+  if (/→|->|⇒/.test(stem)) return no('panah');
+  if (OTHER_RE.test(stem)) return no('organisme-lain');
   // A bullet list of pairs/cases is a matching task, not a soal about one object.
   if ((stem.match(/(^|\n)\s*-\s/g) ?? []).length >= 2) return null;
   // "Perhatikan gambar berikut": our picture would be mistaken for the soal's own (missing) figure.
-  if (/perhatikan gambar|gambar berikut|gambar di (atas|bawah)|^gambar\s/.test(stem.trim())) return null;
+  if (/perhatikan gambar|gambar berikut|gambar di (atas|bawah)|^gambar\s/.test(stem.trim())) return no('perhatikan-gambar');
 
   const hit = single(hitsIn(stem, raw), stem);
   // anyPicture: audit only, to rank which unreviewed objects would unlock the most soal.
-  if (!hit || (!hit.o.file && !anyPicture)) return null;
+  if (!hit) return no('geen-treffer');
+  if (!hit.o.file && !anyPicture) return no('tanpa-gambar', hit.o.id);
   // MTK story problems name animals too ("Pak Budi punya 12 ayam"); only an MTK-catalog object
   // itself (bab starts with "mtk") may illustrate an MTK soal, never an incidental IPA mention.
-  if (isMtkSubject && !hit.o.bab?.startsWith('mtk')) return null;
-  if (hit.mentions.some((m) => m.otherKind || m.notTheAnimal)) return null;
-  if (hit.mentions.every((m) => m.young)) return null;
+  if (isMtkSubject && !hit.o.bab?.startsWith('mtk')) return no('ipa-objek-di-mtk', hit.o.id);
+  if (hit.mentions.some((m) => m.otherKind || m.notTheAnimal)) return no('bukan-objeknya', hit.o.id);
+  if (hit.mentions.every((m) => m.young)) return no('anak-hewan', hit.o.id);
   const { o } = hit;
-  if (NOT_FOR[o.id]?.test(stem)) return null;
-  if (REQUIRE[o.id] && !REQUIRE[o.id].test(stem)) return null;
+  if (NOT_FOR[o.id]?.test(stem)) return no('not-for', o.id);
+  if (REQUIRE[o.id] && !REQUIRE[o.id].test(stem)) return no('require', o.id);
   for (const opt of Object.values(question?.options ?? {})) {
     o.re.lastIndex = 0;
-    if (o.re.test(plain(opt))) return null;
+    if (o.re.test(plain(opt))) return no('di-opsi', o.id);
   }
-  if (inCommaList(stem, o)) return null;
+  if (inCommaList(stem, o)) return no('daftar-koma', o.id);
   const view = pickView(o, stem, question);
   const parts = view === 'penampang' ? focusParts(o, stem, question) : [];
   return {
