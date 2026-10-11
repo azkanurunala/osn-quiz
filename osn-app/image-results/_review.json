@@ -1,7 +1,63 @@
 {
+  "globe/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Re-entry setelah verdict live hilang (bukan duplikat, hanya 1 occurrence sebelum edit ini -- lihat .lama di key terpisah untuk riwayat gagal versi lama). Slot kosong sebelumnya, diisi baru dgn Gemini. Globe detail dengan cincin meridian kuningan, dudukan kayu, sumbu miring -- sisi Pasifik (Australia, NZ) terlihat, bukan duplikat tampak depan."
+  },
+  "globe/p07-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Re-entry setelah verdict live hilang. Slot kosong sebelumnya, diisi baru. Versi ilustrasi, sisi Asia-Australia (118E) terlihat, konsisten dengan p02 realistis, gaya bersih."
+  },
+  "globe/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Re-entry setelah verdict live hilang. Slot kosong sebelumnya, diisi baru. Konsisten dengan p05 (sisi Pasifik/Australia), gaya ilustrasi bersih, bukan duplikat p07."
+  },
   "kelereng-kantong/p01-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Cek ulang: isi sesuai (kelereng kaca merah, biru, hijau; kantong serut krem terbuka; latar putih; tanpa teks). MASALAH: kantong kain TERPOTONG di tepi kanan gambar (625 piksel tepi kanan tidak putih, terukur) dan hampir menyentuh tepi atas, padahal prompt mewajibkan seluruh objek tampil utuh dengan margin sekitar 10 persen. Tampak juga agak dari atas, bukan lurus dari depan. Versi ilustrasi p02 tetap lolos. Koreksi (siap tempel): \"Show the ENTIRE cloth bag and all marbles completely inside the frame with about 10% empty margin on every side; nothing touching or cut by any edge. Straight front view at eye level, pure white background.\""
+    "status": "ok",
+    "catatan": "Diperbaiki di sumber (catalog-mtk.mjs field d, margin 15% + straight eye-level). Kantong+kelereng penuh dalam bingkai, tidak terpotong, sudut lurus dari depan."
+  },
+  "singkong-stek/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Stek batang singkong dengan daun majemuk menjari, akar baru tumbuh dari pangkal potongan, batang berkayu -- perbanyakan vegetatif benar."
+  },
+  "paku/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Pakis dengan daun majemuk menyirip, titik sori di bawah daun, fiddlehead (pucuk melingkar), rizoma+akar -- anatomi benar, tampak samping."
+  },
+  "paku/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan konsisten dari p04."
+  },
+  "paus-biru/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Lubang semprot ganda (benar untuk paus balin), lipatan tenggorokan (ventral grooves), sirip dada, pola kulit belang-belang -- fitur anatomi paus biru benar."
+  },
+  "paus-biru/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Slot kosong sebelumnya. Profil samping kiri jelas, sirip punggung, sirip dada, ekor -- proporsi benar."
+  },
+  "paus-biru/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Cerminan konsisten dari p09."
+  },
+  "nyamuk-anopheles/p02-ilustrasi-depan": {
+    "status": "ok",
+    "catatan": "Regenerasi ke-2 di sumber (catalog-tambahan.mjs, penekanan eksplisit palp=probosis, probosis tidak menyentuh tanah, tanpa bayangan). Keempat masalah dari review sebelumnya teratasi: palp kini sepanjang probosis (bukan stub pendek ala Culex), 6 kaki bersih tanpa segmen tambahan, probosis berhenti di atas garis tanah, tidak ada bayangan cor di bawah kaki."
+  },
+  "tulang-rusuk/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Regenerasi Gemini (percobaan ke-2, pakai field-f dengan instruksi jumlah rusuk eksplisit). Tampak depan: 12 pasang rusuk terhitung rapat, 7 sejati+kartilago sendiri ke sternum, 3 palsu berbagi kartilago, kartilago biru jelas. Diganti dari vektor (revisi gaya) ke foto sesuai arahan user."
+  },
+  "tulang-rusuk/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Regenerasi Gemini, tampak belakang: tulang belakang + rusuk dari sisi dalam terlihat rapat, beda jelas dari depan."
+  },
+  "tulang-rusuk/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Percobaan 1 (chained + field-f) GAGAL -- identik piksel dgn p02, rotasi tidak terjadi sama sekali. Rewrite standalone (deskripsi eksplisit bentuk oval memanjang dari samping, sternum di tepi kiri, tulang belakang di tepi kanan) berhasil: profil lateral sejati tercapai, bentuk jelas berbeda dari tampak depan (oval sempit vs barel lebar)."
+  },
+  "tulang-rusuk/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Sama seperti p04, rewrite standalone berhasil: cerminan presisi dari p04 (tulang belakang di kiri, sternum di kanan)."
   },
   "benda-bangun-ruang-set/p01-realistis-depan": {
     "status": "ok",
@@ -258,10 +314,6 @@
   "semut/p08-ilustrasi-belakang": {
     "status": "ok",
     "catatan": "Sama seperti p03, rewrite standalone berhasil: abdomen dominan, kepala kecil/jauh, jelas beda dari p07 (depan)."
-  },
-  "nyamuk-anopheles/p02-ilustrasi-depan": {
-    "status": "revisi",
-    "catatan": "Cek ulang gambar hasil regenerasi (zoom toraks dan kepala). Yang sudah benar: 4 kaki menapak + 2 kaki belakang terangkat (jumlah kaki utama 6), postur 45 derajat dengan abdomen terangkat, sayap berbintik, antena berbulu, latar putih, tanpa teks. Keraguan yang membuat tidak bisa ok: (1) PALP PENDEK. Hanya satu tonjolan kecil seperti daun di dekat pangkal probosis, jauh lebih pendek dari probosis; ciri kunci Anopheles adalah palp sepanjang probosis (prompt juga meminta), sehingga tampak seperti Culex. (2) Ada dua segmen mirip kaki yang berhenti tumpul di dekat toraks: satu diagonal tebal di sebelah kaki depan dan satu lipatan kecil di kiri atas di belakang sayap; anak bisa menghitungnya sebagai kaki ke-7 dan ke-8. Perlu cek manusia untuk memastikan itu kaki tersembunyi atau segmen berlebih. (3) Probosis tebal menjulur hingga garis tanah sehingga terbaca sebagai kaki tambahan. (4) Ada bayangan abu tipis di bawah kaki, padahal prompt melarang cast shadow. Koreksi (siap tempel): \"Female Anopheles: exactly six legs (four touching the surface, the hind pair raised in the air), no stub or truncated leg segments. Two maxillary palps as long as the proboscis, lying alongside it; the proboscis stays short of the surface and clearly thinner than the legs. Pure flat white background, no cast shadow, no ground shadow.\""
   },
   "kerangka-manusia/p02-realistis-depan": {
     "status": "ok",
@@ -6296,8 +6348,8 @@
     "catatan": "Kiri: tulang paha (femur) utuh dengan kepala bulat, leher, batang panjang, kondilus di lutut — benar. Kanan: potongan memanjang menunjukkan tulang kompak, tulang spons di ujung dengan sumsum merah, rongga sumsum kuning di tengah batang, dan tutup tulang rawan di ujung — sesuai deskripsi prompt."
   },
   "tulang-rusuk/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Panel 1 (depan), panel 2 (belakang), dan panel 3 (kiri/profil) sudah berbeda dan benar secara genuin (wajah dari depan, tengkorak dari belakang, profil dengan tulang belakang melengkung terlihat). Tapi panel 4 (seharusnya kanan) tampak mengulang tampak belakang (tengkorak dari belakang, skapula terlihat) seperti panel 2, bukan cerminan profil kanan yang berbeda dari panel 3. English correction prompt: 'Panel 4 must be a genuine RIGHT lateral profile view (mirror of panel 3's left profile), not a repeat of panel 2's posterior view.'"
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "tulang-rusuk/p06-ilustrasi-turnaround": {
     "status": "ok",
@@ -9177,7 +9229,7 @@
   },
   "kelereng-kantong/p01-realistis-depan.lama": {
     "status": "revisi",
-    "catatan": "Kelereng tiga warna dan kantong serut krem sesuai, tetapi latar abu-abu bergradasi (prompt: putih polos). Koreksi: \"Pure flat white #FFFFFF background, no gradient, no shadow.\""
+    "catatan": "Cek ulang: isi sesuai (kelereng kaca merah, biru, hijau; kantong serut krem terbuka; latar putih; tanpa teks). MASALAH: kantong kain TERPOTONG di tepi kanan gambar (625 piksel tepi kanan tidak putih, terukur) dan hampir menyentuh tepi atas, padahal prompt mewajibkan seluruh objek tampil utuh dengan margin sekitar 10 persen. Tampak juga agak dari atas, bukan lurus dari depan. Versi ilustrasi p02 tetap lolos. Koreksi (siap tempel): \"Show the ENTIRE cloth bag and all marbles completely inside the frame with about 10% empty margin on every side; nothing touching or cut by any edge. Straight front view at eye level, pure white background.\""
   },
   "kue-bolu-pecahan/p01-realistis-depan.lama": {
     "status": "revisi",
@@ -11311,22 +11363,6 @@
     "status": "ok",
     "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak kanan: cermin p09 (rangka dada simetris), depan tubuh di kanan gambar. Perlu paraf guru IPA (organ/tulang)."
   },
-  "tulang-rusuk/p02-realistis-depan": {
-    "status": "revisi",
-    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak depan: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, depan view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
-  },
-  "tulang-rusuk/p03-realistis-belakang": {
-    "status": "revisi",
-    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak belakang: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, belakang view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
-  },
-  "tulang-rusuk/p04-realistis-kiri": {
-    "status": "revisi",
-    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak kiri: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, kiri view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
-  },
-  "tulang-rusuk/p05-realistis-kanan": {
-    "status": "revisi",
-    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak kanan: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, kanan view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
-  },
   "uranus/p02-realistis-depan.lama5": {
     "status": "revisi",
     "catatan": "Warna biru-cyan pucat dan pita halus sudah sesuai acuan (Voyager 2), cincin tipis gelap juga sesuai. TAPI bentuk planet terlihat agak lonjong/distorsi seperti telur (melebar di bagian bawah), bukan bola/lingkaran sempurna seperti seharusnya untuk planet. Prompt koreksi: \"Regenerate with Uranus as a perfectly spherical planet (a true circle in this orthographic view), not an egg or pear-shaped distortion.\" Catatan: percobaan fix programatik (radial roundify, sama seperti neptunus) GAGAL untuk objek ini karena cincin tipis ikut masuk mask dan merusak gambar saat warp -- jangan dicoba lagi dengan skrip yang sama, perlu pendekatan lain (mis. mask planet saja tanpa cincin) atau regenerasi ulang."
@@ -11554,5 +11590,145 @@
   "vaksin-suntik/p01-realistis-depan.lama2": {
     "status": "revisi",
     "catatan": "Konten benar (vial kaca dengan tutup aluminium + sumbat karet abu-abu, label putih KOSONG, cairan bening; spuit 3 mL transparan dengan garis skala TANPA angka dan tutup jarum) tetapi file ini gambar VEKTOR datar, bukan foto/render realistis — gaya tidak konsisten dengan versi realistis. Tidak diterbitkan app (utama = p02 ilustrasi). Perbaikan: foto vial+suntik CC0/PD tanpa teks (tidak ditemukan di Commons) atau generasi realistis baru."
+  },
+  "tulang-rusuk/p02-realistis-depan.lama2": {
+    "status": "revisi",
+    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak depan: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, depan view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
+  },
+  "tulang-rusuk/p03-realistis-belakang.lama2": {
+    "status": "revisi",
+    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak belakang: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, belakang view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
+  },
+  "tulang-rusuk/p04-realistis-kiri.lama2": {
+    "status": "revisi",
+    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak kiri: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, kiri view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
+  },
+  "tulang-rusuk/p05-realistis-kanan.lama2": {
+    "status": "revisi",
+    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak kanan: isi sains benar tetapi gaya datar vektor ada di slot \"realistis\" (bukan foto). Boleh dipakai bila gaya datar diterima; kalau mau foto asli, generate ulang di Gemini: \"photorealistic human rib cage skeleton, kanan view, full thoracic cage with sternum and costal cartilage, solid white background, no text\"."
+  },
+  "nyamuk-anopheles/p02-ilustrasi-depan.lama2": {
+    "status": "revisi",
+    "catatan": "Cek ulang gambar hasil regenerasi (zoom toraks dan kepala). Yang sudah benar: 4 kaki menapak + 2 kaki belakang terangkat (jumlah kaki utama 6), postur 45 derajat dengan abdomen terangkat, sayap berbintik, antena berbulu, latar putih, tanpa teks. Keraguan yang membuat tidak bisa ok: (1) PALP PENDEK. Hanya satu tonjolan kecil seperti daun di dekat pangkal probosis, jauh lebih pendek dari probosis; ciri kunci Anopheles adalah palp sepanjang probosis (prompt juga meminta), sehingga tampak seperti Culex. (2) Ada dua segmen mirip kaki yang berhenti tumpul di dekat toraks: satu diagonal tebal di sebelah kaki depan dan satu lipatan kecil di kiri atas di belakang sayap; anak bisa menghitungnya sebagai kaki ke-7 dan ke-8. Perlu cek manusia untuk memastikan itu kaki tersembunyi atau segmen berlebih. (3) Probosis tebal menjulur hingga garis tanah sehingga terbaca sebagai kaki tambahan. (4) Ada bayangan abu tipis di bawah kaki, padahal prompt melarang cast shadow. Koreksi (siap tempel): \"Female Anopheles: exactly six legs (four touching the surface, the hind pair raised in the air), no stub or truncated leg segments. Two maxillary palps as long as the proboscis, lying alongside it; the proboscis stays short of the surface and clearly thinner than the legs. Pure flat white background, no cast shadow, no ground shadow.\""
+  },
+  "bumi/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: NASA Earth Observatory \"Whole world - land and oceans\" (Public domain). Tampak kiri berpusat di 28 derajat BT: Afrika, Eropa selatan, Timur Tengah (sesuai spesifikasi turnaround; depan 118 BT, kiri = depan - 90). Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "bumi/p09-ilustrasi-kiri": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: NASA Earth Observatory \"Whole world - land and oceans\" (Public domain). Tampak kiri berpusat di 28 derajat BT: Afrika, Eropa selatan, Timur Tengah (sesuai spesifikasi turnaround; depan 118 BT, kiri = depan - 90). Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "bumi/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: NASA Earth Observatory \"Whole world - land and oceans\" (Public domain). Tampak kanan berpusat di 152 derajat BB: Samudra Pasifik, tepi Asia timur dan Selandia Baru (sesuai spesifikasi turnaround; kanan = depan + 90). Tanpa awan, berbeda dari p02 dan p03 yang berawan. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "bumi/p10-ilustrasi-kanan": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: NASA Earth Observatory \"Whole world - land and oceans\" (Public domain). Tampak kanan berpusat di 152 derajat BB: Samudra Pasifik, tepi Asia timur dan Selandia Baru (sesuai spesifikasi turnaround; kanan = depan + 90). Tanpa awan, berbeda dari p02 dan p03 yang berawan. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "jupiter/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: peta silinder Cassini Des 2000 PIA07782, NASA/JPL/SSI (Public domain). Belahan seberang p02: Bintik Merah Besar tidak tampak, pita awan sejajar khatulistiwa. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "jupiter/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: peta silinder Cassini Des 2000 PIA07782, NASA/JPL/SSI (Public domain). Diputar 90 derajat dari p02: Bintik Merah Besar berada dekat tepi kanan piringan (benar secara geometri). Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "jupiter/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: peta silinder Cassini Des 2000 PIA07782, NASA/JPL/SSI (Public domain). Diputar 90 derajat ke sisi lain dari p02: Bintik Merah Besar tidak tampak. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "mars/p02-realistis-depan": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: Viking MDIM 2.1 color mosaic, NASA/JPL/USGS (Public domain), berpusat di 0 derajat BT. Warna dan ukuran disamakan dengan p03 sampai p05 (foto stok domain publik); p03 (belakang) berpusat 175 BT sehingga urutan putaran sama: kiri Valles Marineris, kanan Syrtis Major. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "merkurius/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: mosaik global MESSENGER MDIS (MD3, pencahayaan seragam), NASA/JHUAPL/Carnegie (Public domain). Tiga belahan berbeda dari permukaan yang sama (belakang 180, kiri -90, kanan +90 dari depan). Kawah dan sinar kawah nyata, bukan karangan. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "merkurius/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: mosaik global MESSENGER MDIS (MD3, pencahayaan seragam), NASA/JHUAPL/Carnegie (Public domain). Tiga belahan berbeda dari permukaan yang sama (belakang 180, kiri -90, kanan +90 dari depan). Kawah dan sinar kawah nyata, bukan karangan. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "merkurius/p05-realistis-kanan": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: mosaik global MESSENGER MDIS (MD3, pencahayaan seragam), NASA/JHUAPL/Carnegie (Public domain). Tiga belahan berbeda dari permukaan yang sama (belakang 180, kiri -90, kanan +90 dari depan). Kawah dan sinar kawah nyata, bukan karangan. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "venus/p03-realistis-belakang": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: tekstur awan PROSEDURAL (bukan data observasi). Venus dalam cahaya tampak adalah lapisan awan asam sulfat krem pucat yang nyaris polos tanpa permukaan terlihat, jadi tampak belakang dan kiri sengaja mirip; yang berbeda hanya goresan awan halus. Pola Y pada p02 dan p05 hanya terlihat di ultraviolet. Perlu cek guru sains kalau ingin pola awan identik antar sisi. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "venus/p04-realistis-kiri": {
+    "status": "ok",
+    "catatan": "Dirender dengan image-prompts/_src/planet-peta.py dari peta domain publik NASA (proyeksi ortografik; bukan Gemini), sehingga tampak depan/belakang/kiri/kanan adalah rotasi sungguhan dari permukaan yang sama. Sumber: tekstur awan PROSEDURAL (bukan data observasi). Venus dalam cahaya tampak adalah lapisan awan asam sulfat krem pucat yang nyaris polos tanpa permukaan terlihat, jadi tampak belakang dan kiri sengaja mirip; yang berbeda hanya goresan awan halus. Pola Y pada p02 dan p05 hanya terlihat di ultraviolet. Perlu cek guru sains kalau ingin pola awan identik antar sisi. Latar hitam polos, tanpa teks, tidak terpotong."
+  },
+  "galaksi-bima-sakti/p01-realistis-atas": {
+    "status": "ok",
+    "catatan": "STOK (bukan Gemini): konsep artis NASA/JPL-Caltech/ESO/R. Hurt \"Artist's impression of the Milky Way\" (Wikimedia Commons, Public domain; kredit NASA/JPL-Caltech/ESO/R. Hurt), diperkecil ke 1024 x 1024. Tampak atas galaksi spiral berbatang: batang pusat lonjong jelas, dua lengan utama dan lengan minor, tonjolan pusat kekuningan, latar hitam, tanpa teks, tidak terpotong. Ini ilustrasi ilmiah (galaksi tidak pernah difoto dari atas), sama seperti yang dipakai NASA. Perbaikan atas versi Gemini sebelumnya yang tanpa batang."
+  },
+  "bekicot/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "paus-biru/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "paus-biru/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "tulang-rusuk/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Panel 1 (depan), panel 2 (belakang), dan panel 3 (kiri/profil) sudah berbeda dan benar secara genuin (wajah dari depan, tengkorak dari belakang, profil dengan tulang belakang melengkung terlihat). Tapi panel 4 (seharusnya kanan) tampak mengulang tampak belakang (tengkorak dari belakang, skapula terlihat) seperti panel 2, bukan cerminan profil kanan yang berbeda dari panel 3. English correction prompt: 'Panel 4 must be a genuine RIGHT lateral profile view (mirror of panel 3's left profile), not a repeat of panel 2's posterior view.'"
+  },
+  "bumi/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "bumi/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "globe/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "globe/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "jupiter/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "mars/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "merkurius/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "venus/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "akuarium/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "akuarium/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "tandon-air/p06-ilustrasi-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p07, p08, p09, p10 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "maket-rumah/p01-realistis-turnaround": {
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   }
 }
