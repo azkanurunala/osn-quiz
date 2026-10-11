@@ -23,6 +23,8 @@ def trimmed(path):
     return im.crop(box), mask.crop(box), bg
 
 
+_sl = os.path.join(os.path.dirname(REV), '_slots.json')
+EXPECT = {k: v['slots'] for k, v in json.load(open(_sl, encoding='utf8')).items()} if os.path.exists(_sl) else None
 made = 0
 for d, _, files in os.walk(ROOT):
     oid = os.path.basename(d)
@@ -33,6 +35,8 @@ for d, _, files in os.walk(ROOT):
             continue
         turn = turn if turn.endswith('.png') else turn + '.png'
         tkey = f'{oid}/{turn[:-4]}'
+        if EXPECT is not None and oid in EXPECT and turn[:-4] not in EXPECT[oid]:   # catalog 'views': this object does not need a turnaround sheet
+            continue
         auto = rev.get(tkey, {}).get('catatan', '').startswith('Disusun otomatis')   # montase lama: susun ulang
         if rev.get(tkey, {}).get('status') == 'ok' and not auto:
             continue

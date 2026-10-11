@@ -1,0 +1,3829 @@
+{
+ "kucing-domestik": {
+  "dir": "ipa/01-makhluk-hidup/kucing-domestik",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "sapi": {
+  "dir": "ipa/01-makhluk-hidup/sapi",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kelinci": {
+  "dir": "ipa/01-makhluk-hidup/kelinci",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kelelawar-ekolokasi": {
+  "dir": "ipa/01-makhluk-hidup/kelelawar-ekolokasi",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kelelawar": {
+  "dir": "ipa/01-makhluk-hidup/kelelawar",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lumba-lumba": {
+  "dir": "ipa/01-makhluk-hidup/lumba-lumba",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "paus-biru": {
+  "dir": "ipa/01-makhluk-hidup/paus-biru",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ayam": {
+  "dir": "ipa/01-makhluk-hidup/ayam",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "telur-ayam": {
+  "dir": "ipa/01-makhluk-hidup/telur-ayam",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "bebek": {
+  "dir": "ipa/01-makhluk-hidup/bebek",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "elang": {
+  "dir": "ipa/01-makhluk-hidup/elang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "katak": {
+  "dir": "ipa/01-makhluk-hidup/katak",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "ikan-mas": {
+  "dir": "ipa/01-makhluk-hidup/ikan-mas",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "hiu": {
+  "dir": "ipa/01-makhluk-hidup/hiu",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "cicak": {
+  "dir": "ipa/01-makhluk-hidup/cicak",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bunglon": {
+  "dir": "ipa/01-makhluk-hidup/bunglon",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ular": {
+  "dir": "ipa/01-makhluk-hidup/ular",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kura-kura": {
+  "dir": "ipa/01-makhluk-hidup/kura-kura",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "buaya": {
+  "dir": "ipa/01-makhluk-hidup/buaya",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "komodo": {
+  "dir": "ipa/01-makhluk-hidup/komodo",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "anoa": {
+  "dir": "ipa/01-makhluk-hidup/anoa",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "jalak-bali": {
+  "dir": "ipa/01-makhluk-hidup/jalak-bali",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "orangutan": {
+  "dir": "ipa/01-makhluk-hidup/orangutan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "harimau-sumatra": {
+  "dir": "ipa/01-makhluk-hidup/harimau-sumatra",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "badak-jawa": {
+  "dir": "ipa/01-makhluk-hidup/badak-jawa",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "cenderawasih": {
+  "dir": "ipa/01-makhluk-hidup/cenderawasih",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "maleo": {
+  "dir": "ipa/01-makhluk-hidup/maleo",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "tarsius": {
+  "dir": "ipa/01-makhluk-hidup/tarsius",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "gajah-sumatra": {
+  "dir": "ipa/01-makhluk-hidup/gajah-sumatra",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bintang-laut": {
+  "dir": "ipa/01-makhluk-hidup/bintang-laut",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "spons-porifera": {
+  "dir": "ipa/01-makhluk-hidup/spons-porifera",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ubur-ubur": {
+  "dir": "ipa/01-makhluk-hidup/ubur-ubur",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "cacing-tanah": {
+  "dir": "ipa/01-makhluk-hidup/cacing-tanah",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "bekicot": {
+  "dir": "ipa/01-makhluk-hidup/bekicot",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "cumi-cumi": {
+  "dir": "ipa/01-makhluk-hidup/cumi-cumi",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kerang": {
+  "dir": "ipa/01-makhluk-hidup/kerang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kepiting": {
+  "dir": "ipa/01-makhluk-hidup/kepiting",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "laba-laba": {
+  "dir": "ipa/01-makhluk-hidup/laba-laba",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "semut": {
+  "dir": "ipa/01-makhluk-hidup/semut",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lebah": {
+  "dir": "ipa/01-makhluk-hidup/lebah",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "belalang": {
+  "dir": "ipa/01-makhluk-hidup/belalang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "kecoak": {
+  "dir": "ipa/01-makhluk-hidup/kecoak",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "capung": {
+  "dir": "ipa/01-makhluk-hidup/capung",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "nyamuk-aedes": {
+  "dir": "ipa/01-makhluk-hidup/nyamuk-aedes",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lalat": {
+  "dir": "ipa/01-makhluk-hidup/lalat",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "daur-kupu-kupu-set": {
+  "dir": "ipa/01-makhluk-hidup/daur-kupu-kupu-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kupu-kupu": {
+  "dir": "ipa/01-makhluk-hidup/kupu-kupu",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ulat": {
+  "dir": "ipa/01-makhluk-hidup/ulat",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kepompong": {
+  "dir": "ipa/01-makhluk-hidup/kepompong",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "daur-katak-set": {
+  "dir": "ipa/01-makhluk-hidup/daur-katak-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "daur-nyamuk-set": {
+  "dir": "ipa/01-makhluk-hidup/daur-nyamuk-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "daur-kecoak-set": {
+  "dir": "ipa/01-makhluk-hidup/daur-kecoak-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tanaman-jagung": {
+  "dir": "ipa/01-makhluk-hidup/tanaman-jagung",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "tanaman-kacang": {
+  "dir": "ipa/01-makhluk-hidup/tanaman-kacang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "biji-mono-dikotil-set": {
+  "dir": "ipa/01-makhluk-hidup/biji-mono-dikotil-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "daun-sejajar-menyirip-menjari-set": {
+  "dir": "ipa/01-makhluk-hidup/daun-sejajar-menyirip-menjari-set",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "lumut": {
+  "dir": "ipa/01-makhluk-hidup/lumut",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "paku": {
+  "dir": "ipa/01-makhluk-hidup/paku",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "pinus-konus": {
+  "dir": "ipa/01-makhluk-hidup/pinus-konus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "bunga-sepatu": {
+  "dir": "ipa/01-makhluk-hidup/bunga-sepatu",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "bunga-penampang": {
+  "dir": "ipa/01-makhluk-hidup/bunga-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "akar-tunggang-serabut-set": {
+  "dir": "ipa/01-makhluk-hidup/akar-tunggang-serabut-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "kentang-bertunas": {
+  "dir": "ipa/01-makhluk-hidup/kentang-bertunas",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "bawang-merah": {
+  "dir": "ipa/01-makhluk-hidup/bawang-merah",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jahe-rimpang": {
+  "dir": "ipa/01-makhluk-hidup/jahe-rimpang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "stroberi-geragih": {
+  "dir": "ipa/01-makhluk-hidup/stroberi-geragih",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "cocor-bebek": {
+  "dir": "ipa/01-makhluk-hidup/cocor-bebek",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "singkong-stek": {
+  "dir": "ipa/01-makhluk-hidup/singkong-stek",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kaktus": {
+  "dir": "ipa/01-makhluk-hidup/kaktus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "teratai": {
+  "dir": "ipa/01-makhluk-hidup/teratai",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "eceng-gondok": {
+  "dir": "ipa/01-makhluk-hidup/eceng-gondok",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "bakau": {
+  "dir": "ipa/01-makhluk-hidup/bakau",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kantong-semar": {
+  "dir": "ipa/01-makhluk-hidup/kantong-semar",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "putri-malu": {
+  "dir": "ipa/01-makhluk-hidup/putri-malu",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "anggrek-bulan": {
+  "dir": "ipa/01-makhluk-hidup/anggrek-bulan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "rafflesia": {
+  "dir": "ipa/01-makhluk-hidup/rafflesia",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bunga-bangkai": {
+  "dir": "ipa/01-makhluk-hidup/bunga-bangkai",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "benalu": {
+  "dir": "ipa/01-makhluk-hidup/benalu",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lichen": {
+  "dir": "ipa/01-makhluk-hidup/lichen",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ikan-badut-anemon": {
+  "dir": "ipa/01-makhluk-hidup/ikan-badut-anemon",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kerbau-jalak": {
+  "dir": "ipa/01-makhluk-hidup/kerbau-jalak",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "ekosistem-kolam": {
+  "dir": "ipa/01-makhluk-hidup/ekosistem-kolam",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tingkatan-organisasi-makhluk-hidup-set": {
+  "dir": "ipa/01-makhluk-hidup/tingkatan-organisasi-makhluk-hidup-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jamur-tiram": {
+  "dir": "ipa/01-makhluk-hidup/jamur-tiram",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "jamur-rhizopus": {
+  "dir": "ipa/01-makhluk-hidup/jamur-rhizopus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "sel-ragi": {
+  "dir": "ipa/01-makhluk-hidup/sel-ragi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "bakteri-bentuk-set": {
+  "dir": "ipa/01-makhluk-hidup/bakteri-bentuk-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "amoeba": {
+  "dir": "ipa/01-makhluk-hidup/amoeba",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "paramecium": {
+  "dir": "ipa/01-makhluk-hidup/paramecium",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "euglena": {
+  "dir": "ipa/01-makhluk-hidup/euglena",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "virus-bakteriofag": {
+  "dir": "ipa/01-makhluk-hidup/virus-bakteriofag",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "sel-hewan": {
+  "dir": "ipa/01-makhluk-hidup/sel-hewan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "sel-tumbuhan": {
+  "dir": "ipa/01-makhluk-hidup/sel-tumbuhan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "kloroplas": {
+  "dir": "ipa/01-makhluk-hidup/kloroplas",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "penampang-daun": {
+  "dir": "ipa/01-makhluk-hidup/penampang-daun",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "stomata": {
+  "dir": "ipa/01-makhluk-hidup/stomata",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "hydrilla-ingenhousz": {
+  "dir": "ipa/01-makhluk-hidup/hydrilla-ingenhousz",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tempe-tape-set": {
+  "dir": "ipa/01-makhluk-hidup/tempe-tape-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sistem-pencernaan": {
+  "dir": "ipa/02-tubuh-manusia/sistem-pencernaan",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "gigi-jenis-set": {
+  "dir": "ipa/02-tubuh-manusia/gigi-jenis-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gigi-penampang": {
+  "dir": "ipa/02-tubuh-manusia/gigi-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "lidah": {
+  "dir": "ipa/02-tubuh-manusia/lidah",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "lambung": {
+  "dir": "ipa/02-tubuh-manusia/lambung",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "hati-empedu": {
+  "dir": "ipa/02-tubuh-manusia/hati-empedu",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "pankreas": {
+  "dir": "ipa/02-tubuh-manusia/pankreas",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "usus-halus-besar": {
+  "dir": "ipa/02-tubuh-manusia/usus-halus-besar",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "vili-usus": {
+  "dir": "ipa/02-tubuh-manusia/vili-usus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "sistem-pernapasan": {
+  "dir": "ipa/02-tubuh-manusia/sistem-pernapasan",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "paru-paru": {
+  "dir": "ipa/02-tubuh-manusia/paru-paru",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "alveolus": {
+  "dir": "ipa/02-tubuh-manusia/alveolus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "insang-ikan": {
+  "dir": "ipa/02-tubuh-manusia/insang-ikan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "jantung": {
+  "dir": "ipa/02-tubuh-manusia/jantung",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "jantung-penampang": {
+  "dir": "ipa/02-tubuh-manusia/jantung-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "pembuluh-darah-set": {
+  "dir": "ipa/02-tubuh-manusia/pembuluh-darah-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "sel-darah-set": {
+  "dir": "ipa/02-tubuh-manusia/sel-darah-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "sistem-urinaria": {
+  "dir": "ipa/02-tubuh-manusia/sistem-urinaria",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "ginjal-penampang": {
+  "dir": "ipa/02-tubuh-manusia/ginjal-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "nefron": {
+  "dir": "ipa/02-tubuh-manusia/nefron",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "kulit-penampang": {
+  "dir": "ipa/02-tubuh-manusia/kulit-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "otak": {
+  "dir": "ipa/02-tubuh-manusia/otak",
+  "slots": [
+   "p02-realistis-depan",
+   "p04-realistis-kiri",
+   "p07-ilustrasi-depan",
+   "p09-ilustrasi-kiri",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "neuron": {
+  "dir": "ipa/02-tubuh-manusia/neuron",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "mata": {
+  "dir": "ipa/02-tubuh-manusia/mata",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "mata-penampang": {
+  "dir": "ipa/02-tubuh-manusia/mata-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "telinga": {
+  "dir": "ipa/02-tubuh-manusia/telinga",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "hidung-penampang": {
+  "dir": "ipa/02-tubuh-manusia/hidung-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "kerangka-manusia": {
+  "dir": "ipa/02-tubuh-manusia/kerangka-manusia",
+  "slots": [
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang"
+  ]
+ },
+ "tengkorak": {
+  "dir": "ipa/02-tubuh-manusia/tengkorak",
+  "slots": [
+   "p02-realistis-depan",
+   "p04-realistis-kiri",
+   "p07-ilustrasi-depan",
+   "p09-ilustrasi-kiri"
+  ]
+ },
+ "tulang-belakang": {
+  "dir": "ipa/02-tubuh-manusia/tulang-belakang",
+  "slots": [
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "tulang-rusuk": {
+  "dir": "ipa/02-tubuh-manusia/tulang-rusuk",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan"
+  ]
+ },
+ "tulang-paha-penampang": {
+  "dir": "ipa/02-tubuh-manusia/tulang-paha-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "sendi-set": {
+  "dir": "ipa/02-tubuh-manusia/sendi-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "otot-lengan": {
+  "dir": "ipa/02-tubuh-manusia/otot-lengan",
+  "slots": [
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "jenis-otot-set": {
+  "dir": "ipa/02-tubuh-manusia/jenis-otot-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "reproduksi-wanita": {
+  "dir": "ipa/02-tubuh-manusia/reproduksi-wanita",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "reproduksi-pria": {
+  "dir": "ipa/02-tubuh-manusia/reproduksi-pria",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "sperma-ovum": {
+  "dir": "ipa/02-tubuh-manusia/sperma-ovum",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "janin-rahim": {
+  "dir": "ipa/02-tubuh-manusia/janin-rahim",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "isi-piringku": {
+  "dir": "ipa/02-tubuh-manusia/isi-piringku",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "sumber-karbohidrat-set": {
+  "dir": "ipa/02-tubuh-manusia/sumber-karbohidrat-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sumber-protein-set": {
+  "dir": "ipa/02-tubuh-manusia/sumber-protein-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sumber-lemak-set": {
+  "dir": "ipa/02-tubuh-manusia/sumber-lemak-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sumber-vitamin-mineral-set": {
+  "dir": "ipa/02-tubuh-manusia/sumber-vitamin-mineral-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "virus-dengue": {
+  "dir": "ipa/02-tubuh-manusia/virus-dengue",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "virus-corona": {
+  "dir": "ipa/02-tubuh-manusia/virus-corona",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "virus-influenza": {
+  "dir": "ipa/02-tubuh-manusia/virus-influenza",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "bakteri-tbc": {
+  "dir": "ipa/02-tubuh-manusia/bakteri-tbc",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "vaksin-suntik": {
+  "dir": "ipa/02-tubuh-manusia/vaksin-suntik",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "masker-medis": {
+  "dir": "ipa/02-tubuh-manusia/masker-medis",
+  "slots": [
+   "p02-realistis-depan",
+   "p07-ilustrasi-depan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "alat-kebersihan-set": {
+  "dir": "ipa/02-tubuh-manusia/alat-kebersihan-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tensimeter": {
+  "dir": "ipa/02-tubuh-manusia/tensimeter",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "glukometer": {
+  "dir": "ipa/02-tubuh-manusia/glukometer",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "stetoskop": {
+  "dir": "ipa/02-tubuh-manusia/stetoskop",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "fermentasi-produk-set": {
+  "dir": "ipa/02-tubuh-manusia/fermentasi-produk-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "neraca-pegas": {
+  "dir": "ipa/03-gaya-gerak-energi/neraca-pegas",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bola-sepak": {
+  "dir": "ipa/03-gaya-gerak-energi/bola-sepak",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "plastisin": {
+  "dir": "ipa/03-gaya-gerak-energi/plastisin",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "ban-berulir": {
+  "dir": "ipa/03-gaya-gerak-energi/ban-berulir",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "momentum-bola-set": {
+  "dir": "ipa/03-gaya-gerak-energi/momentum-bola-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jungkat-jungkit": {
+  "dir": "ipa/03-gaya-gerak-energi/jungkat-jungkit",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "tuas-jenis-1-set": {
+  "dir": "ipa/03-gaya-gerak-energi/tuas-jenis-1-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tuas-jenis-2-set": {
+  "dir": "ipa/03-gaya-gerak-energi/tuas-jenis-2-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tuas-jenis-3-set": {
+  "dir": "ipa/03-gaya-gerak-energi/tuas-jenis-3-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gerobak-dorong": {
+  "dir": "ipa/03-gaya-gerak-energi/gerobak-dorong",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "katrol-tetap": {
+  "dir": "ipa/03-gaya-gerak-energi/katrol-tetap",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "katrol-bergerak": {
+  "dir": "ipa/03-gaya-gerak-energi/katrol-bergerak",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "katrol-majemuk": {
+  "dir": "ipa/03-gaya-gerak-energi/katrol-majemuk",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "bidang-miring-papan": {
+  "dir": "ipa/03-gaya-gerak-energi/bidang-miring-papan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "sekrup-baut": {
+  "dir": "ipa/03-gaya-gerak-energi/sekrup-baut",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "baji-set": {
+  "dir": "ipa/03-gaya-gerak-energi/baji-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tangga-rumah": {
+  "dir": "ipa/03-gaya-gerak-energi/tangga-rumah",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "sepeda": {
+  "dir": "ipa/03-gaya-gerak-energi/sepeda",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "roda-berporos-set": {
+  "dir": "ipa/03-gaya-gerak-energi/roda-berporos-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "alat-energi-listrik-panas-set": {
+  "dir": "ipa/03-gaya-gerak-energi/alat-energi-listrik-panas-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kipas-angin": {
+  "dir": "ipa/03-gaya-gerak-energi/kipas-angin",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lampu-bohlam": {
+  "dir": "ipa/03-gaya-gerak-energi/lampu-bohlam",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "lampu-led-cfl-set": {
+  "dir": "ipa/03-gaya-gerak-energi/lampu-led-cfl-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "senter": {
+  "dir": "ipa/03-gaya-gerak-energi/senter",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "lilin-menyala": {
+  "dir": "ipa/03-gaya-gerak-energi/lilin-menyala",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "speaker-mikrofon-set": {
+  "dir": "ipa/03-gaya-gerak-energi/speaker-mikrofon-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "kompor-gas": {
+  "dir": "ipa/03-gaya-gerak-energi/kompor-gas",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "dinamo-sepeda": {
+  "dir": "ipa/03-gaya-gerak-energi/dinamo-sepeda",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "panel-surya": {
+  "dir": "ipa/03-gaya-gerak-energi/panel-surya",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "kincir-angin": {
+  "dir": "ipa/03-gaya-gerak-energi/kincir-angin",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "baterai-set": {
+  "dir": "ipa/03-gaya-gerak-energi/baterai-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "rangkaian-seri": {
+  "dir": "ipa/03-gaya-gerak-energi/rangkaian-seri",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "rangkaian-paralel": {
+  "dir": "ipa/03-gaya-gerak-energi/rangkaian-paralel",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "sakelar-stopkontak-set": {
+  "dir": "ipa/03-gaya-gerak-energi/sakelar-stopkontak-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kabel-penampang": {
+  "dir": "ipa/03-gaya-gerak-energi/kabel-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "konduktor-isolator-set": {
+  "dir": "ipa/03-gaya-gerak-energi/konduktor-isolator-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "magnet-bentuk-set": {
+  "dir": "ipa/03-gaya-gerak-energi/magnet-bentuk-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "magnet-serbuk-besi": {
+  "dir": "ipa/03-gaya-gerak-energi/magnet-serbuk-besi",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "kompas": {
+  "dir": "ipa/03-gaya-gerak-energi/kompas",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "elektromagnet": {
+  "dir": "ipa/03-gaya-gerak-energi/elektromagnet",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "bel-listrik": {
+  "dir": "ipa/03-gaya-gerak-energi/bel-listrik",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "tekanan-hidrostatis-botol": {
+  "dir": "ipa/03-gaya-gerak-energi/tekanan-hidrostatis-botol",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tekanan-benda-padat-set": {
+  "dir": "ipa/03-gaya-gerak-energi/tekanan-benda-padat-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "elektroskop": {
+  "dir": "ipa/03-gaya-gerak-energi/elektroskop",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "balon-listrik-statis": {
+  "dir": "ipa/03-gaya-gerak-energi/balon-listrik-statis",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "transformator": {
+  "dir": "ipa/03-gaya-gerak-energi/transformator",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "galvanometer-kumparan": {
+  "dir": "ipa/03-gaya-gerak-energi/galvanometer-kumparan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "cermin-datar": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/cermin-datar",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "cermin-cekung-cembung-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/cermin-cekung-cembung-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "cermin-cembung-jalan": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/cermin-cembung-jalan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "lensa-cembung-cekung-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/lensa-cembung-cekung-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "lup": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/lup",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kacamata-minus-plus-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/kacamata-minus-plus-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "prisma-kaca": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/prisma-kaca",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "cakram-newton": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/cakram-newton",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "periskop": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/periskop",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "kamera-lubang-jarum": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/kamera-lubang-jarum",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "mikroskop": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/mikroskop",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "teropong-bintang": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/teropong-bintang",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "garpu-tala": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/garpu-tala",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "alat-musik-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/alat-musik-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "telepon-kaleng": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/telepon-kaleng",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "termometer-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/termometer-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "termos-penampang": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/termos-penampang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "panci-pegangan": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/panci-pegangan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "perpindahan-panas-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/perpindahan-panas-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "wujud-zat-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/wujud-zat-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "es-batu-mencair": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/es-batu-mencair",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "mengembun-gelas": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/mengembun-gelas",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kapur-barus": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/kapur-barus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "dry-ice": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/dry-ice",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "perubahan-kimia-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/perubahan-kimia-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "perubahan-fisika-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/perubahan-fisika-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "filtrasi": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/filtrasi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "distilasi": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/distilasi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kromatografi": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/kromatografi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "penguapan-garam": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/penguapan-garam",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "larutan-koloid-suspensi": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/larutan-koloid-suspensi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "efek-tyndall": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/efek-tyndall",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "slinki": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/slinki",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "model-atom": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/model-atom",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "matahari": {
+  "dir": "ipa/05-bumi-antariksa/matahari",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "merkurius": {
+  "dir": "ipa/05-bumi-antariksa/merkurius",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "venus": {
+  "dir": "ipa/05-bumi-antariksa/venus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bumi": {
+  "dir": "ipa/05-bumi-antariksa/bumi",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bulan": {
+  "dir": "ipa/05-bumi-antariksa/bulan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "mars": {
+  "dir": "ipa/05-bumi-antariksa/mars",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "jupiter": {
+  "dir": "ipa/05-bumi-antariksa/jupiter",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "saturnus": {
+  "dir": "ipa/05-bumi-antariksa/saturnus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "uranus": {
+  "dir": "ipa/05-bumi-antariksa/uranus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "neptunus": {
+  "dir": "ipa/05-bumi-antariksa/neptunus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "tata-surya-deret": {
+  "dir": "ipa/05-bumi-antariksa/tata-surya-deret",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "fase-bulan-deret": {
+  "dir": "ipa/05-bumi-antariksa/fase-bulan-deret",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "komet": {
+  "dir": "ipa/05-bumi-antariksa/komet",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "meteorit": {
+  "dir": "ipa/05-bumi-antariksa/meteorit",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bumi-lapisan": {
+  "dir": "ipa/05-bumi-antariksa/bumi-lapisan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "globe": {
+  "dir": "ipa/05-bumi-antariksa/globe",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "batuan-beku-set": {
+  "dir": "ipa/05-bumi-antariksa/batuan-beku-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "batuan-sedimen-set": {
+  "dir": "ipa/05-bumi-antariksa/batuan-sedimen-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "batuan-metamorf-set": {
+  "dir": "ipa/05-bumi-antariksa/batuan-metamorf-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "profil-tanah": {
+  "dir": "ipa/05-bumi-antariksa/profil-tanah",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan",
+   "p11-penampang-belah",
+   "p12-penampang-transparan"
+  ]
+ },
+ "sda-tak-terbarukan-set": {
+  "dir": "ipa/05-bumi-antariksa/sda-tak-terbarukan-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sda-terbarukan-set": {
+  "dir": "ipa/05-bumi-antariksa/sda-terbarukan-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "alat-cuaca-set": {
+  "dir": "ipa/05-bumi-antariksa/alat-cuaca-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sampah-organik-anorganik-set": {
+  "dir": "ipa/05-bumi-antariksa/sampah-organik-anorganik-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tempat-sampah-3": {
+  "dir": "ipa/05-bumi-antariksa/tempat-sampah-3",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "alat-gelas-lab-set": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/alat-gelas-lab-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gelas-ukur": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/gelas-ukur",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "pembakar-spiritus": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/pembakar-spiritus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "neraca-ohauss": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/neraca-ohauss",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "stopwatch": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/stopwatch",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kaca-preparat": {
+  "dir": "ipa/06-metode-ilmiah-alat-lab/kaca-preparat",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sempoa": {
+  "dir": "mtk/01-bilangan-pecahan/sempoa",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pizza-pecahan": {
+  "dir": "mtk/01-bilangan-pecahan/pizza-pecahan",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "cokelat-batang": {
+  "dir": "mtk/01-bilangan-pecahan/cokelat-batang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kue-bolu-pecahan": {
+  "dir": "mtk/01-bilangan-pecahan/kue-bolu-pecahan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kelereng-kantong": {
+  "dir": "mtk/01-bilangan-pecahan/kelereng-kantong",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "bangun-datar-set": {
+  "dir": "mtk/03-geometri-datar/bangun-datar-set",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "tangram": {
+  "dir": "mtk/03-geometri-datar/tangram",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "alat-geometri-set": {
+  "dir": "mtk/03-geometri-datar/alat-geometri-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jam-analog": {
+  "dir": "mtk/03-geometri-datar/jam-analog",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "geoboard": {
+  "dir": "mtk/03-geometri-datar/geoboard",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "benda-lingkaran-set": {
+  "dir": "mtk/03-geometri-datar/benda-lingkaran-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kubus": {
+  "dir": "mtk/04-geometri-ruang/kubus",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "balok": {
+  "dir": "mtk/04-geometri-ruang/balok",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "prisma-segitiga": {
+  "dir": "mtk/04-geometri-ruang/prisma-segitiga",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "limas-segiempat": {
+  "dir": "mtk/04-geometri-ruang/limas-segiempat",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "limas-segitiga": {
+  "dir": "mtk/04-geometri-ruang/limas-segitiga",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "tabung": {
+  "dir": "mtk/04-geometri-ruang/tabung",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "kerucut": {
+  "dir": "mtk/04-geometri-ruang/kerucut",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "bola": {
+  "dir": "mtk/04-geometri-ruang/bola",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "bangun-ruang-set": {
+  "dir": "mtk/04-geometri-ruang/bangun-ruang-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jaring-jaring-kubus": {
+  "dir": "mtk/04-geometri-ruang/jaring-jaring-kubus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kubus-satuan": {
+  "dir": "mtk/04-geometri-ruang/kubus-satuan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "akuarium": {
+  "dir": "mtk/04-geometri-ruang/akuarium",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "benda-bangun-ruang-set": {
+  "dir": "mtk/04-geometri-ruang/benda-bangun-ruang-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tandon-air": {
+  "dir": "mtk/04-geometri-ruang/tandon-air",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "alat-ukur-panjang-set": {
+  "dir": "mtk/05-pengukuran/alat-ukur-panjang-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "timbangan-set": {
+  "dir": "mtk/05-pengukuran/timbangan-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "anak-timbangan": {
+  "dir": "mtk/05-pengukuran/anak-timbangan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "wadah-volume-set": {
+  "dir": "mtk/05-pengukuran/wadah-volume-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "keran-debit": {
+  "dir": "mtk/05-pengukuran/keran-debit",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "jam-tangan-kalender": {
+  "dir": "mtk/05-pengukuran/jam-tangan-kalender",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "speedometer": {
+  "dir": "mtk/05-pengukuran/speedometer",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kendaraan-set": {
+  "dir": "mtk/05-pengukuran/kendaraan-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "belanja-set": {
+  "dir": "mtk/06-aritmetika-sosial/belanja-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "celengan": {
+  "dir": "mtk/06-aritmetika-sosial/celengan",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "peta-skala": {
+  "dir": "mtk/06-aritmetika-sosial/peta-skala",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "maket-rumah": {
+  "dir": "mtk/06-aritmetika-sosial/maket-rumah",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "dadu": {
+  "dir": "mtk/07-statistika-peluang/dadu",
+  "slots": [
+   "p01-realistis-turnaround",
+   "p02-realistis-depan",
+   "p03-realistis-belakang",
+   "p04-realistis-kiri",
+   "p05-realistis-kanan",
+   "p06-ilustrasi-turnaround",
+   "p07-ilustrasi-depan",
+   "p08-ilustrasi-belakang",
+   "p09-ilustrasi-kiri",
+   "p10-ilustrasi-kanan"
+  ]
+ },
+ "koin-peluang": {
+  "dir": "mtk/07-statistika-peluang/koin-peluang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "spinner": {
+  "dir": "mtk/07-statistika-peluang/spinner",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "kartu-bernomor": {
+  "dir": "mtk/07-statistika-peluang/kartu-bernomor",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "batang-korek-pola": {
+  "dir": "mtk/08-pola-logika-aljabar/batang-korek-pola",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "timbangan-aljabar": {
+  "dir": "mtk/08-pola-logika-aljabar/timbangan-aljabar",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "susunan-pola-bola": {
+  "dir": "mtk/08-pola-logika-aljabar/susunan-pola-bola",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "anjing": {
+  "dir": "ipa/01-makhluk-hidup/anjing",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kuda": {
+  "dir": "ipa/01-makhluk-hidup/kuda",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tikus": {
+  "dir": "ipa/01-makhluk-hidup/tikus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "burung-pipit": {
+  "dir": "ipa/01-makhluk-hidup/burung-pipit",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "burung-hantu": {
+  "dir": "ipa/01-makhluk-hidup/burung-hantu",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "unta": {
+  "dir": "ipa/01-makhluk-hidup/unta",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "trenggiling": {
+  "dir": "ipa/01-makhluk-hidup/trenggiling",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "walang-sangit": {
+  "dir": "ipa/01-makhluk-hidup/walang-sangit",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "owa-jawa": {
+  "dir": "ipa/01-makhluk-hidup/owa-jawa",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "hydra": {
+  "dir": "ipa/01-makhluk-hidup/hydra",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tanaman-padi": {
+  "dir": "ipa/01-makhluk-hidup/tanaman-padi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tanaman-mangga": {
+  "dir": "ipa/01-makhluk-hidup/tanaman-mangga",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pohon-karet": {
+  "dir": "ipa/01-makhluk-hidup/pohon-karet",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "mawar": {
+  "dir": "ipa/01-makhluk-hidup/mawar",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kecambah": {
+  "dir": "ipa/01-makhluk-hidup/kecambah",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tanaman-pisang": {
+  "dir": "ipa/01-makhluk-hidup/tanaman-pisang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "cangkok-okulasi-set": {
+  "dir": "ipa/01-makhluk-hidup/cangkok-okulasi-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pohon-jati": {
+  "dir": "ipa/01-makhluk-hidup/pohon-jati",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "melinjo": {
+  "dir": "ipa/01-makhluk-hidup/melinjo",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kantong-darah": {
+  "dir": "ipa/02-tubuh-manusia/kantong-darah",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "inhaler": {
+  "dir": "ipa/02-tubuh-manusia/inhaler",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "obat-set": {
+  "dir": "ipa/02-tubuh-manusia/obat-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kutu-rambut": {
+  "dir": "ipa/02-tubuh-manusia/kutu-rambut",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "nyamuk-anopheles": {
+  "dir": "ipa/02-tubuh-manusia/nyamuk-anopheles",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "ketapel": {
+  "dir": "ipa/03-gaya-gerak-energi/ketapel",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "karet-gelang": {
+  "dir": "ipa/03-gaya-gerak-energi/karet-gelang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "ayunan": {
+  "dir": "ipa/03-gaya-gerak-energi/ayunan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "delman": {
+  "dir": "ipa/03-gaya-gerak-energi/delman",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "komidi-putar": {
+  "dir": "ipa/03-gaya-gerak-energi/komidi-putar",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "bendungan-plta": {
+  "dir": "ipa/03-gaya-gerak-energi/bendungan-plta",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "alat-listrik-rumah-set": {
+  "dir": "ipa/03-gaya-gerak-energi/alat-listrik-rumah-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sedotan-gelas-air": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/sedotan-gelas-air",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kapal-selam-sonar": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/kapal-selam-sonar",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tebing-gema": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/tebing-gema",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "ambulans-doppler": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/ambulans-doppler",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gelombang-tali": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/gelombang-tali",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "air-mendidih": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/air-mendidih",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gula-larut": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/gula-larut",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "molekul-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/molekul-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "unsur-logam-set": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/unsur-logam-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "lemari-es": {
+  "dir": "ipa/04-cahaya-bunyi-panas-zat/lemari-es",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "gunung-meletus": {
+  "dir": "ipa/05-bumi-antariksa/gunung-meletus",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan",
+   "p03-penampang-belah",
+   "p04-penampang-transparan"
+  ]
+ },
+ "gempa-patahan": {
+  "dir": "ipa/05-bumi-antariksa/gempa-patahan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "tsunami": {
+  "dir": "ipa/05-bumi-antariksa/tsunami",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "banjir": {
+  "dir": "ipa/05-bumi-antariksa/banjir",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "kekeringan": {
+  "dir": "ipa/05-bumi-antariksa/kekeringan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "awan-jenis-set": {
+  "dir": "ipa/05-bumi-antariksa/awan-jenis-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "petir": {
+  "dir": "ipa/05-bumi-antariksa/petir",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pelangi": {
+  "dir": "ipa/05-bumi-antariksa/pelangi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "siklus-air-diorama": {
+  "dir": "ipa/05-bumi-antariksa/siklus-air-diorama",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sengkedan": {
+  "dir": "ipa/05-bumi-antariksa/sengkedan",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "reboisasi": {
+  "dir": "ipa/05-bumi-antariksa/reboisasi",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pencemaran-sungai": {
+  "dir": "ipa/05-bumi-antariksa/pencemaran-sungai",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "polusi-udara": {
+  "dir": "ipa/05-bumi-antariksa/polusi-udara",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "hujan-asam": {
+  "dir": "ipa/05-bumi-antariksa/hujan-asam",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "rumah-kaca": {
+  "dir": "ipa/05-bumi-antariksa/rumah-kaca",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "es-kutub-mencair": {
+  "dir": "ipa/05-bumi-antariksa/es-kutub-mencair",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "sampah-plastik-laut": {
+  "dir": "ipa/05-bumi-antariksa/sampah-plastik-laut",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "terumbu-karang": {
+  "dir": "ipa/05-bumi-antariksa/terumbu-karang",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "pasang-surut-set": {
+  "dir": "ipa/05-bumi-antariksa/pasang-surut-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "aurora": {
+  "dir": "ipa/05-bumi-antariksa/aurora",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "roket": {
+  "dir": "ipa/05-bumi-antariksa/roket",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "astronot": {
+  "dir": "ipa/05-bumi-antariksa/astronot",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "rasi-orion": {
+  "dir": "ipa/05-bumi-antariksa/rasi-orion",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ },
+ "galaksi-bima-sakti": {
+  "dir": "ipa/05-bumi-antariksa/galaksi-bima-sakti",
+  "slots": [
+   "p01-realistis-atas",
+   "p02-ilustrasi-atas"
+  ]
+ },
+ "pupuk-kompos-set": {
+  "dir": "ipa/05-bumi-antariksa/pupuk-kompos-set",
+  "slots": [
+   "p01-realistis-depan",
+   "p02-ilustrasi-depan"
+  ]
+ }
+}

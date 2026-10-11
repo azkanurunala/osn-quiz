@@ -1,4 +1,8 @@
-// temporary diagnostic: why was a soal that names exactly one catalog object NOT shown its picture?
+// node image-prompts/_src/audit-alasan.mjs <out.json>   (dari osn-app/)
+// Per soal in every package of the manifest: which object picture / diagram the app would show, and
+// for a soal that names exactly one catalog object but gets no picture, the rule that rejected it
+// (matchObjekFoto's `why`: require, not-for, di-opsi, daftar-koma, ...). Use it after changing
+// REQUIRE / NOT_FOR in src/features/diagrams/objekFoto.js: diff two runs to see which pairs appear or vanish.
 import fs from 'fs'; import path from 'path'; import { fileURLToPath } from 'url'; import { createServer } from 'vite';
 const APP = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..'); process.chdir(APP);
 const server = await createServer({ server: { middlewareMode: true }, appType: 'custom', logLevel: 'silent', optimizeDeps: { noDiscovery: true, include: [] } });

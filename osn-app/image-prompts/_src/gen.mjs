@@ -114,15 +114,19 @@ const FRONT_DEF = 'FRONT = the side normally shown in textbooks';
 
 // ---- slot gambar: 1 prompt = 1 file hasil di image-results/<mapel>/<bab>/<id>/pNN-<nama>.png ----
 const VIEWS4 = ['turnaround', 'depan', 'belakang', 'kiri', 'kanan'];
+// o.views (optional): which of depan/belakang/kiri/kanan this object really needs (front is always included).
+// Slot numbers stay those of the full set, so existing files, verdicts and prompts keep their names; the turnaround
+// sheet only exists when all four views are wanted.
+const wantView = (o, v) => !o.views || (v === 'turnaround' ? ['depan', 'belakang', 'kiri', 'kanan'].every((x) => o.views.includes(x)) : v === 'depan' || o.views.includes(v));
 function slots(o) {
   const views = o.v === 1 ? [o.top ? 'atas' : 'depan'] : VIEWS4;
   const s = [];
-  for (const mode of ['realistis', 'ilustrasi']) for (const v of views) s.push(`${mode}-${v}`);
-  if (X[o.id]) s.push('penampang-belah', 'penampang-transparan');
-  return s.map((name, i) => ({ n: i + 1, file: `p${String(i + 1).padStart(2, '0')}-${name}` }));
+  for (const mode of ['realistis', 'ilustrasi']) for (const v of views) s.push({ name: `${mode}-${v}`, keep: o.v === 1 || wantView(o, v) });
+  if (X[o.id]) s.push({ name: 'penampang-belah', keep: true }, { name: 'penampang-transparan', keep: true });
+  return s.map((x, i) => ({ n: i + 1, file: `p${String(i + 1).padStart(2, '0')}-${x.name}`, keep: x.keep })).filter((x) => x.keep);
 }
 const resDir = (o) => { const [mapel, dir] = BAB[o.bab]; return `image-results/${mapel}/${dir}/${o.id}`; };
-const sv = (o, n) => `**Simpan hasil sebagai:** \`${resDir(o)}/${slots(o)[n - 1].file}.png\``;
+const sv = (o, n) => `**Simpan hasil sebagai:** \`${resDir(o)}/${slots(o).find((x) => x.n === n)?.file}.png\``;
 
 function penampang(o, bg, n0) {
   const x = X[o.id];
@@ -176,7 +180,7 @@ View: perfectly straight-on ${o.top ? "top-down (bird's-eye, camera directly abo
 `;
   }
 
-  return `
+  const full = `
 ### Prompt ${n0} — Lembar 4 tampak sekaligus (turnaround)
 
 ${sv(o, n0)}
@@ -209,6 +213,8 @@ ${sv(o, n0 + 4)}
 
 ${code(`Using the exact same ${same(o)} from the previous images, rotate it to show the strict RIGHT side profile (the object's own right side, exactly 90° from the front view): the front/head of the object points to the RIGHT edge of the image (mirror of the left view), pure side silhouette, head not turned toward the camera. Keep everything identical: ${keep}. ${tail}`)}
 `;
+  const keepN = new Set(slots(o).map((x) => x.n));
+  return full.split(/(?=\n### Prompt \d+ )/).filter((sec) => { const m = sec.match(/^\n### Prompt (\d+) /); return !m || keepN.has(Number(m[1])); }).join('');
 }
 
 function render(o, hits) {
@@ -224,7 +230,7 @@ function render(o, hits) {
 - **Bab:** ${babTitle}${o.sub ? `\n- **Sub-bab:** ${o.sub}` : ''}
 - **Objek (EN):** ${o.en}
 - **Soal terkait:** ${hits.length} soal di ${Object.keys(byFile).length} file${top.length ? '\n' + top.map(([f, c]) => `  - \`${f}\` (${c})`).join('\n') : ''}
-- **Tampak:** ${o.v === 1 ? (o.set ? 'satu gambar berisi beberapa benda (set), lurus, full body' : `satu tampak lurus ${o.top ? 'dari atas' : 'dari depan'}, full body (objek datar/simetris/percobaan)`) : 'depan · belakang · kiri · kanan, semua full body'}
+- **Tampak:** ${o.v === 1 ? (o.set ? 'satu gambar berisi beberapa benda (set), lurus, full body' : `satu tampak lurus ${o.top ? 'dari atas' : 'dari depan'}, full body (objek datar/simetris/percobaan)`) : (o.views ? o.views.join(' · ') : 'depan · belakang · kiri · kanan') + ', semua full body'}
 - **Versi:** A. Realistis (prompt 1${per > 1 ? `–${per}` : ''}) · B. Ilustrasi (prompt ${per + 1}${per > 1 ? `–${per * 2}` : ''})${X[o.id] ? ` · C. Penampang skematik (prompt ${per * 2 + 1}–${per * 2 + 2})` : ''}
 - **Folder hasil:** \`${resDir(o)}/\`
 - **Background:** solid ${bg[0]} ${bg[1]} → hapus setelah generate (lihat README)
@@ -321,6 +327,8 @@ for (const bab of Object.keys(BAB)) {
 }
 status = status.replace('\n\n## ', `\n**Total:** ${tot.ada}/${tot.slot} slot terisi · ${tot.ok}/${tot.slot} lolos review\n\n## `);
 fs.writeFileSync(path.join(RES, '_STATUS.md'), status);
+
+fs.writeFileSync(path.join(RES, '_slots.json'), JSON.stringify(Object.fromEntries(catalog.map((o) => [o.id, { dir: resDir(o).replace('image-results/', ''), slots: slots(o).map((x) => x.file) }])), null, 1));
 
 const zero = catalog.filter(o => !qs.some(q => kwRe(o).test(q.t)));
 console.log(`${catalog.length} objek ditulis. ${zero.length} tanpa soal terkait: ${zero.map(o => o.id).join(', ')}`);

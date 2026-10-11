@@ -157,7 +157,7 @@ function enqueueMux(files) {
     for (const file of files) {
       const src = join(OUT_DIR, file);
       const dest = join(MUSIC_OUT, file);
-      if (existsSync(dest)) { record.push(`skip  ${file}`); continue; }
+      if (existsSync(dest) && !FORCE) { record.push(`skip  ${file}`); continue; }
       try { await muxVideo(src, dest); record.push(`music ${file}`); }
       catch (err) { record.push(`FAIL! ${file}: ${err.message}`); }
     }
@@ -296,22 +296,32 @@ async function recordOne(browser, item) {
       console.log(`skip  ${filename} (already exists)`);
       return;
     }
+    // Only the raw copy goes now. The finished music version in MUSIC_OUT stays until its
+    // replacement is muxed (enqueueMux overwrites it under --force), so a failed or interrupted
+    // re-record never leaves a package with no video at all.
     unlinkSync(dest);
-    const musicDest = join(MUSIC_OUT, filename);
-    if (existsSync(musicDest)) unlinkSync(musicDest);
   }
 
   const recordId = item.subBab || item.chapter;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
       await recordOneAttempt(browser, item, attempt);
+      consecutiveGiveUps = 0;
       return;
     } catch (err) {
       console.error(`FAIL  ${recordId} (attempt ${attempt}/${MAX_ATTEMPTS}): ${err.message}`);
     }
   }
   console.error(`GIVE UP on ${recordId} after ${MAX_ATTEMPTS} attempts`);
+  // Three packages in a row that never recorded means the app/dev server is down, not that three
+  // packages are bad: stop instead of burning through (and, under --force, discarding) the rest.
+  consecutiveGiveUps += 1;
+  if (consecutiveGiveUps >= 3) {
+    console.error('3 packages in a row failed - aborting the batch (is the dev server still running?).');
+    process.exit(2);
+  }
 }
+let consecutiveGiveUps = 0;
 
 async function pool(items, size, worker) {
   const queue = [...items];
@@ -323,6 +333,15 @@ async function pool(items, size, worker) {
       }
     })
   );
+}
+
+// Pre-flight: a dev server that is not answering would fail every package.
+try {
+  const res = await fetch(BASE_URL);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+} catch (err) {
+  console.error(`Cannot reach ${BASE_URL} (${err.message}). Start the dev server first: npm run dev`);
+  process.exit(1);
 }
 
 const browser = await chromium.launch({ headless: true });

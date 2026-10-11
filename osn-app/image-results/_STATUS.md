@@ -2,7 +2,7 @@
 
 Di-generate oleh `image-prompts/_src/gen.mjs`. Jangan edit manual. Hasil review disimpan di `_review.json`.
 Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos · ⚠️ perlu revisi · ❌ salah (generate ulang)
-**Total:** 2092/2092 slot terisi · 2092/2092 lolos review
+**Total:** 1952/1952 slot terisi · 1952/1952 lolos review
 
 ## IPA 01 · Makhluk Hidup & Lingkungan
 
@@ -130,42 +130,42 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 
 | Objek | Terisi | Lolos | Catatan review |
 |---|---:|---:|---|
-| [Sistem pencernaan lengkap](ipa/02-tubuh-manusia/sistem-pencernaan/) | 12/12 | 12/12 |  |
+| [Sistem pencernaan lengkap](ipa/02-tubuh-manusia/sistem-pencernaan/) | 4/4 | 4/4 |  |
 | [Jenis gigi: seri, taring, geraham kecil, geraham besar](ipa/02-tubuh-manusia/gigi-jenis-set/) | 2/2 | 2/2 |  |
 | [Penampang gigi (email, dentin, pulpa)](ipa/02-tubuh-manusia/gigi-penampang/) | 4/4 | 4/4 |  |
-| [Lidah (indera pengecap)](ipa/02-tubuh-manusia/lidah/) | 12/12 | 12/12 |  |
-| [Lambung](ipa/02-tubuh-manusia/lambung/) | 12/12 | 12/12 |  |
-| [Hati & kantong empedu](ipa/02-tubuh-manusia/hati-empedu/) | 12/12 | 12/12 |  |
-| [Pankreas](ipa/02-tubuh-manusia/pankreas/) | 12/12 | 12/12 |  |
-| [Usus halus & usus besar (dengan umbai cacing)](ipa/02-tubuh-manusia/usus-halus-besar/) | 12/12 | 12/12 |  |
+| [Lidah (indera pengecap)](ipa/02-tubuh-manusia/lidah/) | 4/4 | 4/4 |  |
+| [Lambung](ipa/02-tubuh-manusia/lambung/) | 4/4 | 4/4 |  |
+| [Hati & kantong empedu](ipa/02-tubuh-manusia/hati-empedu/) | 4/4 | 4/4 |  |
+| [Pankreas](ipa/02-tubuh-manusia/pankreas/) | 4/4 | 4/4 |  |
+| [Usus halus & usus besar (dengan umbai cacing)](ipa/02-tubuh-manusia/usus-halus-besar/) | 4/4 | 4/4 |  |
 | [Vili usus halus (jonjot penyerapan)](ipa/02-tubuh-manusia/vili-usus/) | 4/4 | 4/4 |  |
-| [Sistem pernapasan (laring → paru-paru)](ipa/02-tubuh-manusia/sistem-pernapasan/) | 12/12 | 12/12 |  |
-| [Paru-paru](ipa/02-tubuh-manusia/paru-paru/) | 12/12 | 12/12 |  |
+| [Sistem pernapasan (laring → paru-paru)](ipa/02-tubuh-manusia/sistem-pernapasan/) | 4/4 | 4/4 |  |
+| [Paru-paru](ipa/02-tubuh-manusia/paru-paru/) | 4/4 | 4/4 |  |
 | [Alveolus (pertukaran O₂ & CO₂)](ipa/02-tubuh-manusia/alveolus/) | 4/4 | 4/4 |  |
 | [Insang ikan (alat napas hewan)](ipa/02-tubuh-manusia/insang-ikan/) | 4/4 | 4/4 |  |
-| [Jantung (luar)](ipa/02-tubuh-manusia/jantung/) | 12/12 | 12/12 |  |
+| [Jantung (luar)](ipa/02-tubuh-manusia/jantung/) | 4/4 | 4/4 |  |
 | [Penampang jantung (4 ruang & katup)](ipa/02-tubuh-manusia/jantung-penampang/) | 4/4 | 4/4 |  |
 | [Pembuluh darah: arteri, vena, kapiler](ipa/02-tubuh-manusia/pembuluh-darah-set/) | 4/4 | 4/4 |  |
 | [Sel darah: eritrosit, leukosit, trombosit](ipa/02-tubuh-manusia/sel-darah-set/) | 4/4 | 4/4 |  |
-| [Sistem ekskresi ginjal (ginjal, ureter, kandung kemih)](ipa/02-tubuh-manusia/sistem-urinaria/) | 12/12 | 12/12 |  |
+| [Sistem ekskresi ginjal (ginjal, ureter, kandung kemih)](ipa/02-tubuh-manusia/sistem-urinaria/) | 4/4 | 4/4 |  |
 | [Penampang ginjal (korteks, medula, pelvis)](ipa/02-tubuh-manusia/ginjal-penampang/) | 4/4 | 4/4 |  |
 | [Nefron (penyaringan darah)](ipa/02-tubuh-manusia/nefron/) | 4/4 | 4/4 |  |
 | [Penampang kulit (epidermis, dermis, kelenjar keringat)](ipa/02-tubuh-manusia/kulit-penampang/) | 4/4 | 4/4 |  |
-| [Otak (besar, kecil, batang otak)](ipa/02-tubuh-manusia/otak/) | 12/12 | 12/12 |  |
+| [Otak (besar, kecil, batang otak)](ipa/02-tubuh-manusia/otak/) | 6/6 | 6/6 |  |
 | [Sel saraf (neuron)](ipa/02-tubuh-manusia/neuron/) | 4/4 | 4/4 |  |
-| [Bola mata (indera penglihat)](ipa/02-tubuh-manusia/mata/) | 12/12 | 12/12 |  |
+| [Bola mata (indera penglihat)](ipa/02-tubuh-manusia/mata/) | 4/4 | 4/4 |  |
 | [Penampang mata](ipa/02-tubuh-manusia/mata-penampang/) | 4/4 | 4/4 |  |
 | [Telinga (luar, tengah, dalam)](ipa/02-tubuh-manusia/telinga/) | 4/4 | 4/4 |  |
 | [Penampang hidung (indera pembau)](ipa/02-tubuh-manusia/hidung-penampang/) | 4/4 | 4/4 |  |
-| [Kerangka manusia lengkap](ipa/02-tubuh-manusia/kerangka-manusia/) | 10/10 | 10/10 |  |
-| [Tengkorak](ipa/02-tubuh-manusia/tengkorak/) | 10/10 | 10/10 |  |
-| [Tulang belakang](ipa/02-tubuh-manusia/tulang-belakang/) | 12/12 | 12/12 |  |
-| [Rongga dada (tulang rusuk & dada)](ipa/02-tubuh-manusia/tulang-rusuk/) | 10/10 | 10/10 |  |
+| [Kerangka manusia lengkap](ipa/02-tubuh-manusia/kerangka-manusia/) | 4/4 | 4/4 |  |
+| [Tengkorak](ipa/02-tubuh-manusia/tengkorak/) | 4/4 | 4/4 |  |
+| [Tulang belakang](ipa/02-tubuh-manusia/tulang-belakang/) | 8/8 | 8/8 |  |
+| [Rongga dada (tulang rusuk & dada)](ipa/02-tubuh-manusia/tulang-rusuk/) | 2/2 | 2/2 |  |
 | [Tulang pipa (femur) & penampangnya](ipa/02-tubuh-manusia/tulang-paha-penampang/) | 4/4 | 4/4 |  |
 | [Jenis sendi: peluru, engsel, putar, pelana](ipa/02-tubuh-manusia/sendi-set/) | 4/4 | 4/4 |  |
-| [Otot lengan bisep & trisep (antagonis)](ipa/02-tubuh-manusia/otot-lengan/) | 12/12 | 12/12 |  |
+| [Otot lengan bisep & trisep (antagonis)](ipa/02-tubuh-manusia/otot-lengan/) | 6/6 | 6/6 |  |
 | [3 jenis otot: lurik, polos, jantung](ipa/02-tubuh-manusia/jenis-otot-set/) | 2/2 | 2/2 |  |
-| [Organ reproduksi wanita (internal)](ipa/02-tubuh-manusia/reproduksi-wanita/) | 12/12 | 12/12 |  |
+| [Organ reproduksi wanita (internal)](ipa/02-tubuh-manusia/reproduksi-wanita/) | 4/4 | 4/4 |  |
 | [Organ reproduksi pria (internal, testis & saluran)](ipa/02-tubuh-manusia/reproduksi-pria/) | 4/4 | 4/4 |  |
 | [Sel kelamin: sperma & ovum (pembuahan)](ipa/02-tubuh-manusia/sperma-ovum/) | 4/4 | 4/4 |  |
 | [Janin dalam rahim (perkembangan)](ipa/02-tubuh-manusia/janin-rahim/) | 2/2 | 2/2 |  |
@@ -179,7 +179,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Virus influenza](ipa/02-tubuh-manusia/virus-influenza/) | 4/4 | 4/4 |  |
 | [Bakteri TBC (Mycobacterium tuberculosis)](ipa/02-tubuh-manusia/bakteri-tbc/) | 4/4 | 4/4 |  |
 | [Vaksin (vial & jarum suntik)](ipa/02-tubuh-manusia/vaksin-suntik/) | 2/2 | 2/2 |  |
-| [Masker medis](ipa/02-tubuh-manusia/masker-medis/) | 12/12 | 12/12 |  |
+| [Masker medis](ipa/02-tubuh-manusia/masker-medis/) | 4/4 | 4/4 |  |
 | [Alat kebersihan diri](ipa/02-tubuh-manusia/alat-kebersihan-set/) | 2/2 | 2/2 |  |
 | [Tensimeter (alat ukur tekanan darah)](ipa/02-tubuh-manusia/tensimeter/) | 2/2 | 2/2 |  |
 | [Glukometer (alat cek gula darah)](ipa/02-tubuh-manusia/glukometer/) | 2/2 | 2/2 |  |

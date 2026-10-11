@@ -5,6 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 const RES = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../image-results');
 const review = fs.existsSync(path.join(RES, '_review.json')) ? JSON.parse(fs.readFileSync(path.join(RES, '_review.json'), 'utf8')) : {};
+const EXPECT = fs.existsSync(path.join(RES, '_slots.json')) ? JSON.parse(fs.readFileSync(path.join(RES, '_slots.json'), 'utf8')) : null;   // id -> { slots: [file names] }
 const BADGE = { ok: ['lolos', '#16a34a'], revisi: ['revisi', '#d97706'], salah: ['salah', '#dc2626'] };
 const SLOT = /^(p\d\d-[a-z-]+)\.(png|jpe?g|webp|svg)$/;   // slot utama; *.lama.png (arsip) tidak cocok
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
@@ -20,12 +21,16 @@ const objs = [];
     if (m[2] !== 'svg') s.img = f;
     slots.set(m[1], s);
   }
+  const exp = EXPECT?.[path.basename(d)]?.slots;
+  if (exp) for (const n of exp) if (!slots.has(n)) slots.set(n, { name: n, img: null });   // expected but missing: placeholder card
+  for (const sl of slots.values()) sl.extra = !!exp && !exp.includes(sl.name);   // present but not needed any more (archive)
   if (slots.size) objs.push({ dir: d, slots: [...slots.values()].sort((a, b) => a.name.localeCompare(b.name)) });
   for (const f of fs.readdirSync(d)) if (fs.statSync(path.join(d, f)).isDirectory()) walk(path.join(d, f));
 })(RES);
 
-const zero = () => ({ total: 0, terisi: 0, kosong: 0, ok: 0, revisi: 0, salah: 0, belum: 0 });
+const zero = () => ({ total: 0, terisi: 0, kosong: 0, ok: 0, revisi: 0, salah: 0, belum: 0, arsip: 0 });
 const tally = (st, s, r) => {
+  if (s.extra) { st.arsip = (st.arsip || 0) + 1; return; }
   st.total++;
   if (!s.img) { st.kosong++; return; }
   st.terisi++;
@@ -39,7 +44,7 @@ for (const { dir, slots } of objs) {
   const rel = path.relative(RES, dir).split(path.sep).join('/');
   const [mapel, bab] = rel.split('/');
   const objSt = zero();
-  const cards = slots.map((s) => {
+  const card = (s) => {
     const r = review[`${id}/${s.name}`];
     tally(objSt, s, r); tally(all, s, r);
     if (!s.img) {
@@ -50,8 +55,11 @@ for (const { dir, slots } of objs) {
     const [txt, col] = r ? BADGE[r.status] || [r.status, '#64748b'] : ['belum direview', '#64748b'];
     return `<figure><a href="${esc(rel + '/' + s.img)}" target="_blank"><img loading="lazy" src="${esc(rel + '/' + s.img)}" alt="${esc(id + ' ' + s.name)}"></a>
 <figcaption><b>${esc(s.name)}</b> <span style="background:${col}">${txt}</span>${r?.catatan ? `<small>${esc(r.catatan)}</small>` : ''}</figcaption></figure>`;
-  }).join('');
-  const section = `<section><h2>${esc(id)} <em>${esc(rel)}</em> <span class="cnt">${objSt.terisi}/${objSt.total} terisi</span></h2><div class="grid">${cards}</div></section>`;
+  };
+  const cards = slots.filter((s) => !s.extra).map(card).join('');
+  const arsip = slots.filter((s) => s.extra);
+  const arsipHtml = arsip.length ? `<details class="arsip"><summary>${arsip.length} gambar tidak dipakai lagi (tampak yang tidak dibutuhkan, disimpan sebagai arsip)</summary><div class="grid">${arsip.map(card).join('')}</div></details>` : '';
+  const section = `<section><h2>${esc(id)} <em>${esc(rel)}</em> <span class="cnt">${objSt.terisi}/${objSt.total} terisi</span></h2><div class="grid">${cards}</div>${arsipHtml}</section>`;
   if (!mapelMap.has(mapel)) { mapelMap.set(mapel, new Map()); mapelStat.set(mapel, zero()); }
   const babMap = mapelMap.get(mapel);
   if (!babMap.has(bab)) babMap.set(bab, { secs: [], st: zero() });
@@ -74,7 +82,7 @@ ${babPanels}
 </div>`;
 }).join('');
 
-const ringkas = `${all.total} slot seharusnya ada · ${all.terisi} terisi · ${all.kosong} belum di-generate (${pct(all.terisi, all.total)}% terisi) · ${objs.length} objek`;
+const ringkas = `${all.total} slot seharusnya ada · ${all.terisi} terisi · ${all.kosong} belum di-generate (${pct(all.terisi, all.total)}% terisi) · ${objs.length} objek${all.arsip ? ` · ${all.arsip} gambar arsip (tidak dibutuhkan lagi)` : ''}`;
 const status = `lolos: ${all.ok} · revisi: ${all.revisi} · salah: ${all.salah} · belum direview: ${all.belum}`;
 
 fs.writeFileSync(path.join(RES, '_galeri.html'), `<!doctype html><meta charset="utf-8"><title>Galeri gambar OSN SD</title>
@@ -90,7 +98,7 @@ figcaption span{color:#fff;border-radius:99px;padding:1px 8px;font-size:12px}sma
 .tabs button.active{background:#0f172a;color:#fff;border-color:#0f172a}
 .tabs-mapel button{font-weight:600}
 .tabs-bab{margin-top:12px}
-.ringkas{margin:6px 0 14px;font-size:15px}.ringkas b{font-weight:700}</style>
+.arsip{margin-top:10px;opacity:.65}.arsip summary{cursor:pointer;color:#64748b}.ringkas{margin:6px 0 14px;font-size:15px}.ringkas b{font-weight:700}</style>
 <h1>Galeri gambar OSN SD</h1>
 <p class="ringkas"><b>${esc(ringkas)}</b><br>${esc(status)}</p>
 <p>klik gambar untuk ukuran penuh · kotak putus-putus = slot yang seharusnya ada tetapi belum di-generate · muat ulang halaman ini setelah menjalankan galeri.mjs lagi</p>
@@ -111,5 +119,5 @@ document.querySelectorAll('.panel-mapel').forEach((panel) => {
 });
 </script>`);
 
-console.log(`${all.total} slot seharusnya ada · ${all.terisi} terisi · ${all.kosong} belum di-generate (${pct(all.terisi, all.total)}% terisi) · ${objs.length} objek → image-results/_galeri.html`);
+console.log(`${all.total} slot seharusnya ada · ${all.terisi} terisi · ${all.kosong} belum di-generate (${pct(all.terisi, all.total)}% terisi) · ${objs.length} objek${all.arsip ? ` · ${all.arsip} arsip` : ''} → image-results/_galeri.html`);
 console.log(`lolos: ${all.ok} · revisi: ${all.revisi} · salah: ${all.salah} · belum direview: ${all.belum}`);
