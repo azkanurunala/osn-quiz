@@ -1596,6 +1596,47 @@ export const OBJEK_FOTO = [
     "views": {
       "samping": "objek/mata-samping.webp",
       "penampang": "objek/mata-penampang.webp"
+    },
+    "labels": {
+      "ar": 1,
+      "parts": [
+        {
+          "x": 0.375,
+          "y": 0.5,
+          "t": "pupil",
+          "kw": "pupil|anak mata"
+        },
+        {
+          "x": 0.32,
+          "y": 0.43,
+          "t": "iris (selaput pelangi)",
+          "kw": "iris|selaput pelangi"
+        },
+        {
+          "x": 0.22,
+          "y": 0.5,
+          "t": "kornea",
+          "kw": "kornea|selaput bening"
+        },
+        {
+          "x": 0.505,
+          "y": 0.5,
+          "t": "lensa mata",
+          "kw": "lensa mata|lensa"
+        },
+        {
+          "x": 0.81,
+          "y": 0.5,
+          "t": "saraf optik",
+          "kw": "saraf optik|saraf penglihatan"
+        },
+        {
+          "x": 0.74,
+          "y": 0.31,
+          "t": "otot mata",
+          "kw": "otot mata"
+        }
+      ]
     }
   },
   {
