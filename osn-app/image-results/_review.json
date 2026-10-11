@@ -11001,15 +11001,15 @@
   },
   "jantung/p08-ilustrasi-belakang": {
     "status": "ok",
-    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak BELAKANG (posterior): apeks ke bawah-KIRI gambar (= kiri tubuh); atrium kiri di atas dengan 4 vena pulmonalis (2 kiri, 2 kanan); atrium kanan di sisi kanan gambar dengan vena kava superior (atas) dan inferior (bawah); sinus koronarius di alur atrioventrikular masuk ke atrium kanan; alur interventrikular posterior dengan arteri & vena; lengkung aorta dengan 3 cabang, arteri pulmonalis kanan/kiri, ligamentum arteriosum di atasnya. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+    "catatan": "Ilustrasi buku teks (dirender Gemini lewat gemini-ref.mjs: sudut dan anatomi dari foto model jantung realistis yang sudah lolos review, gaya garis tegas + warna datar dari ilustrasi paru-paru; menggantikan gambar vektor datar yang jelek). Merah = kaya oksigen, biru = miskin oksigen; semua pembuluh menyambung ke jantung, tanpa teks, tanpa penyangga. Tampak belakang: vena kava atas dan bawah tegak di tengah-kanan gambar, atrium kiri dengan 2 muara vena pulmonalis, lengkung aorta bercabang tiga di kiri atas, arteri pulmonalis biru melintang. Perlu paraf guru IPA (organ)."
   },
   "jantung/p09-ilustrasi-kiri": {
     "status": "ok",
-    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak SAMPING KIRI (depan jantung ke kiri gambar): ventrikel kiri dominan, apeks ke kiri-bawah, sedikit ventrikel kanan di tepi depan, arteri koroner kiri descendens anterior + vena jantung besar di alur depan, arteri sirkumfleks di alur AV, aurikel kiri di bawah batang pulmonalis, atrium kiri di belakang dengan 2 vena pulmonalis kiri, lengkung aorta 3 cabang. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+    "catatan": "Ilustrasi buku teks (dirender Gemini lewat gemini-ref.mjs: sudut dan anatomi dari foto model jantung realistis yang sudah lolos review, gaya garis tegas + warna datar dari ilustrasi paru-paru; menggantikan gambar vektor datar yang jelek). Merah = kaya oksigen, biru = miskin oksigen; semua pembuluh menyambung ke jantung, tanpa teks, tanpa penyangga. Tampak samping kiri: ventrikel kiri dominan dengan apeks ke bawah-kiri, lengkung aorta bercabang tiga di atas, batang pulmonalis biru melintang di depan, aurikel kiri, dua vena pulmonalis kiri di tepi kanan, LAD dan vena jantung besar di permukaan. Perlu paraf guru IPA (organ)."
   },
   "jantung/p10-ilustrasi-kanan": {
     "status": "ok",
-    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak SAMPING KANAN (depan jantung ke kanan gambar): atrium kanan besar dengan aurikel kanan di atas pangkal aorta, vena kava superior masuk dari atas dan inferior dari bawah, ventrikel kanan di depan-bawah, batang pulmonalis di depan, arteri koroner kanan di alur AV kanan, aorta asenden melengkung ke belakang, 2 vena pulmonalis kanan di belakang atrium. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+    "catatan": "Ilustrasi buku teks (dirender Gemini lewat gemini-ref.mjs: sudut dan anatomi dari foto model jantung realistis yang sudah lolos review, gaya garis tegas + warna datar dari ilustrasi paru-paru; menggantikan gambar vektor datar yang jelek). Merah = kaya oksigen, biru = miskin oksigen; semua pembuluh menyambung ke jantung, tanpa teks, tanpa penyangga. Tampak samping kanan: atrium kanan dengan aurikelnya di kiri gambar, vena kava atas (atas) dan bawah (bawah), ventrikel kanan di depan, lengkung aorta di belakang dengan 3 cabang, batang pulmonalis biru. Perlu paraf guru IPA (organ)."
   },
   "alveolus/p03-penampang-belah": {
     "status": "ok",
@@ -11029,7 +11029,7 @@
   },
   "ginjal-penampang/p01-realistis-depan": {
     "status": "ok",
-    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini: geometri dihitung kode (versi Gemini gagal berulang: teks salah eja / objek salah). Penampang membujur ginjal: kapsul ginjal (garis tipis mengkilap), korteks (merah-cokelat, pita luar) dan kolumna ginjal di antara piramida; 8 piramida medula (merah tua bergaris) dengan garis putus-putus batas korteks–medula; kaliks minor (cangkir kuning) bergabung ke kaliks mayor lalu pelvis ginjal (kuning), ureter keluar ke bawah lewat hilum; arteri ginjal (merah) dan vena ginjal (biru) masuk di hilum. Tidak ada struktur tambahan (kelenjar adrenal/lemak) seperti pada versi Gemini. Tanpa teks. Diperiksa visual. Gambar organ perlu ditinjau guru IPA sebelum rilis."
+    "catatan": "Model anatomi realistis ginjal dibelah memanjang (dirender Gemini lewat gemini-ref.mjs: struktur dan tata letak dari ilustrasi p02 yang sudah lolos, tampilan model dari foto model jantung p02 jantung; menggantikan gambar vektor datar yang jelek). Terlihat kapsul tipis, korteks merah-cokelat, piramida medula bergaris, kolumna ginjal, kaliks dan pelvis kuning pucat, ureter turun ke bawah, arteri ginjal merah dan vena ginjal biru masuk di hilum (tepi cekung), kelenjar adrenal di atas. Latar putih polos, tanpa teks. Perlu paraf guru IPA (organ)."
   },
   "telinga/p02-ilustrasi-depan": {
     "status": "ok",
@@ -11790,5 +11790,21 @@
   "jantung/p01-realistis-turnaround.lama": {
     "status": "revisi",
     "catatan": "Keempat salinan hampir sama (tampak depan miring). Prompt: \"Exactly four copies: anterior, posterior, left lateral, right lateral.\""
+  },
+  "jantung/p08-ilustrasi-belakang.lama3": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak BELAKANG (posterior): apeks ke bawah-KIRI gambar (= kiri tubuh); atrium kiri di atas dengan 4 vena pulmonalis (2 kiri, 2 kanan); atrium kanan di sisi kanan gambar dengan vena kava superior (atas) dan inferior (bawah); sinus koronarius di alur atrioventrikular masuk ke atrium kanan; alur interventrikular posterior dengan arteri & vena; lengkung aorta dengan 3 cabang, arteri pulmonalis kanan/kiri, ligamentum arteriosum di atasnya. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+  },
+  "jantung/p09-ilustrasi-kiri.lama3": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak SAMPING KIRI (depan jantung ke kiri gambar): ventrikel kiri dominan, apeks ke kiri-bawah, sedikit ventrikel kanan di tepi depan, arteri koroner kiri descendens anterior + vena jantung besar di alur depan, arteri sirkumfleks di alur AV, aurikel kiri di bawah batang pulmonalis, atrium kiri di belakang dengan 2 vena pulmonalis kiri, lengkung aorta 3 cabang. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+  },
+  "jantung/p10-ilustrasi-kanan.lama3": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini (5 percobaan Gemini, termasuk model pro, selalu kembali ke tampak depan). Konvensi sama dengan p07 depan: arteri merah, vena kava & arteri pulmonalis biru, vena pulmonalis merah, lemak/alur kuning, tanpa teks. Tampak SAMPING KANAN (depan jantung ke kanan gambar): atrium kanan besar dengan aurikel kanan di atas pangkal aorta, vena kava superior masuk dari atas dan inferior dari bawah, ventrikel kanan di depan-bawah, batang pulmonalis di depan, arteri koroner kanan di alur AV kanan, aorta asenden melengkung ke belakang, 2 vena pulmonalis kanan di belakang atrium. Skema buku pelajaran SD, bukan model anatomi detail; WAJIB paraf guru IPA sebelum rilis (organ)."
+  },
+  "ginjal-penampang/p01-realistis-depan.lama2": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini: geometri dihitung kode (versi Gemini gagal berulang: teks salah eja / objek salah). Penampang membujur ginjal: kapsul ginjal (garis tipis mengkilap), korteks (merah-cokelat, pita luar) dan kolumna ginjal di antara piramida; 8 piramida medula (merah tua bergaris) dengan garis putus-putus batas korteks–medula; kaliks minor (cangkir kuning) bergabung ke kaliks mayor lalu pelvis ginjal (kuning), ureter keluar ke bawah lewat hilum; arteri ginjal (merah) dan vena ginjal (biru) masuk di hilum. Tidak ada struktur tambahan (kelenjar adrenal/lemak) seperti pada versi Gemini. Tanpa teks. Diperiksa visual. Gambar organ perlu ditinjau guru IPA sebelum rilis."
   }
 }
