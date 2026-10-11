@@ -2,7 +2,7 @@
 
 Di-generate oleh `image-prompts/_src/gen.mjs`. Jangan edit manual. Hasil review disimpan di `_review.json`.
 Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos · ⚠️ perlu revisi · ❌ salah (generate ulang)
-**Total:** 2092/2092 slot terisi · 2084/2092 lolos review
+**Total:** 2092/2092 slot terisi · 2092/2092 lolos review
 
 ## IPA 01 · Makhluk Hidup & Lingkungan
 
@@ -47,11 +47,11 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Kepiting (crustacea)](ipa/01-makhluk-hidup/kepiting/) | 10/10 | 10/10 |  |
 | [Laba-laba (arachnida)](ipa/01-makhluk-hidup/laba-laba/) | 10/10 | 10/10 |  |
 | [Semut (insecta)](ipa/01-makhluk-hidup/semut/) | 10/10 | 10/10 |  |
-| [Lebah madu (insecta, penyerbuk)](ipa/01-makhluk-hidup/lebah/) | 10/10 | 8/10 | p01-realistis-turnaround: ⚠️ revisi — Kedua profil menghadap ke kiri; profil kanan tidak ada. Prompt: "Third copy head pointing LEFT, fourth copy head pointing RIGHT."<br>p03-realistis-belakang: ⚠️ revisi — Konten benar (lebah dari belakang: ujung perut + sengat paling dekat, kepala kecil + antena bersiku di ujung jauh, 4 sayap terlipat, 6 kaki, keranjang serbuk sari) tetapi file ini gambar VEKTOR datar, bukan foto ultra-realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis (permintaan reviewer osn-app-ce). Tidak diterbitkan app. Perbaikan: foto tampak belakang lebah madu CC0/PD (belum ditemukan di Commons) atau generasi foto realistis baru dengan acuan depan satu-giliran. |
+| [Lebah madu (insecta, penyerbuk)](ipa/01-makhluk-hidup/lebah/) | 10/10 | 10/10 |  |
 | [Belalang (metamorfosis tidak sempurna)](ipa/01-makhluk-hidup/belalang/) | 12/12 | 12/12 |  |
-| [Kecoak (metamorfosis tidak sempurna)](ipa/01-makhluk-hidup/kecoak/) | 10/10 | 8/10 | p01-realistis-turnaround: ⚠️ revisi — Keempat salinan identik (tampak atas). Prompt: "Four copies: front (head toward camera, eye level), back, left profile, right profile."<br>p03-realistis-belakang: ⚠️ revisi — Konten benar setelah 5x gagal di Gemini (duplikat tampak depan): kecoak dari belakang, sayap penutup berupa kubah dengan garis tengah, ujung perut dan sepasang sersi (cerci) bersegmen mengarah ke penonton, tiga pasang kaki berduri terentang (kaki belakang paling besar), antena panjang ke depan. Tetapi ini gambar VEKTOR datar, bukan foto realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (slot belakang tidak dipakai). |
+| [Kecoak (metamorfosis tidak sempurna)](ipa/01-makhluk-hidup/kecoak/) | 10/10 | 10/10 |  |
 | [Capung](ipa/01-makhluk-hidup/capung/) | 10/10 | 10/10 |  |
-| [Nyamuk Aedes aegypti (vektor DBD)](ipa/01-makhluk-hidup/nyamuk-aedes/) | 10/10 | 8/10 | p01-realistis-turnaround: ⚠️ revisi — Ilmiah benar (pola lira putih di toraks, kaki bergelang putih, antena betina berambut jarang, 6 kaki), tetapi ada garis pembatas panel padahal dilarang. Kecil; bisa dipakai setelah dipotong per panel, atau generate ulang dengan template baru.<br>p03-realistis-belakang: ⚠️ revisi — Konten benar (tampak bawah/ventral nyamuk Aedes betina: perut dan dada krem, 6 kaki bercincin putih, belalai, antena betina berambut jarang, halter, sayap terlipat) tetapi file ini gambar VEKTOR datar, bukan foto makro realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (belakang tidak dipakai). Perbaikan: foto makro ventral nyamuk CC0/PD (belum ditemukan) atau biarkan sebagai pelengkap set. |
+| [Nyamuk Aedes aegypti (vektor DBD)](ipa/01-makhluk-hidup/nyamuk-aedes/) | 10/10 | 10/10 |  |
 | [Lalat rumah (vektor)](ipa/01-makhluk-hidup/lalat/) | 10/10 | 10/10 |  |
 | [Metamorfosis sempurna kupu-kupu (4 tahap)](ipa/01-makhluk-hidup/daur-kupu-kupu-set/) | 2/2 | 2/2 |  |
 | [Kupu-kupu dewasa (imago)](ipa/01-makhluk-hidup/kupu-kupu/) | 10/10 | 10/10 |  |
@@ -143,7 +143,7 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Paru-paru](ipa/02-tubuh-manusia/paru-paru/) | 12/12 | 12/12 |  |
 | [Alveolus (pertukaran O₂ & CO₂)](ipa/02-tubuh-manusia/alveolus/) | 4/4 | 4/4 |  |
 | [Insang ikan (alat napas hewan)](ipa/02-tubuh-manusia/insang-ikan/) | 4/4 | 4/4 |  |
-| [Jantung (luar)](ipa/02-tubuh-manusia/jantung/) | 12/12 | 10/12 | p01-realistis-turnaround: ⚠️ revisi — Keempat salinan hampir sama (tampak depan miring). Prompt: "Exactly four copies: anterior, posterior, left lateral, right lateral."<br>p04-realistis-kiri: ⚠️ revisi — Konten benar (jantung tampak samping kiri: ventrikel kiri dominan, apeks kiri-bawah, LAD + vena jantung besar, sirkumfleks, aurikel kiri, batang pulmonalis, lengkung aorta, 2 vena pulmonalis kiri) tetapi file ini gambar VEKTOR skematik datar, bukan foto/model realistis seperti p02/p03/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (utama = p07 ilustrasi-depan; samping = p05). Perbaikan: foto model jantung tampak kiri CC0/PD (tidak ditemukan di Commons) atau generasi realistis baru. Perlu paraf guru IPA. |
+| [Jantung (luar)](ipa/02-tubuh-manusia/jantung/) | 12/12 | 12/12 |  |
 | [Penampang jantung (4 ruang & katup)](ipa/02-tubuh-manusia/jantung-penampang/) | 4/4 | 4/4 |  |
 | [Pembuluh darah: arteri, vena, kapiler](ipa/02-tubuh-manusia/pembuluh-darah-set/) | 4/4 | 4/4 |  |
 | [Sel darah: eritrosit, leukosit, trombosit](ipa/02-tubuh-manusia/sel-darah-set/) | 4/4 | 4/4 |  |

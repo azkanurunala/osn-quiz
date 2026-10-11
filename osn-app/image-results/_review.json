@@ -348,8 +348,8 @@
     "catatan": "Cerminan dari p04: sliver jendela DNA di tepi KANAN (bukan kiri), siluet kepala sempit sama. Pasangan kiri-kanan yang konsisten dan genuinely terdiferensiasi dari tampak depan."
   },
   "nyamuk-aedes/p03-realistis-belakang": {
-    "status": "revisi",
-    "catatan": "Konten benar (tampak bawah/ventral nyamuk Aedes betina: perut dan dada krem, 6 kaki bercincin putih, belalai, antena betina berambut jarang, halter, sayap terlipat) tetapi file ini gambar VEKTOR datar, bukan foto makro realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (belakang tidak dipakai). Perbaikan: foto makro ventral nyamuk CC0/PD (belum ditemukan) atau biarkan sebagai pelengkap set."
+    "status": "ok",
+    "catatan": "Foto realistis (dirender Gemini dari panduan komposisi vektor + foto depan p02, skrip gemini-ref.mjs). Tampak bawah (ventral): perut dan dada krem pucat bergaris segmen, tepat 6 kaki hitam bercincin putih (3 pasang: depan, tengah, belakang) menempel di sisi bawah dada, belalai panjang ke depan dengan 2 palpus pendek, 2 antena tipis berambut jarang (betina), halter kecil, sayap terlipat tampak dari tepi (tidak terbentang), tanpa pola lira. Berbeda jelas dari tampak depan (dorsal). Latar putih polos, tanpa teks. Jumlah kaki dihitung manual."
   },
   "nyamuk-aedes/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -448,8 +448,8 @@
     "catatan": "Setelah 2x gagal (antena tetap di atas, duplikat tampak depan), rewrite standalone berhasil: tampilan kini genuinely tampak belakang -- sepasang kaki belakang (pasangan kaki terpanjang/terkuat pada kecoak asli) tampak besar dan dekat kamera di bawah bingkai (foreshortened), kaki depan+tengah lebih kecil di sisi, kepala+antena kecil dan jauh di ujung atas. Anatomis masuk akal: perspektif kaki belakang membesar sesuai sudut pandang dari belakang. 6 kaki total, pita kuning pronotum terlihat di ujung jauh."
   },
   "kecoak/p03-realistis-belakang": {
-    "status": "revisi",
-    "catatan": "Konten benar setelah 5x gagal di Gemini (duplikat tampak depan): kecoak dari belakang, sayap penutup berupa kubah dengan garis tengah, ujung perut dan sepasang sersi (cerci) bersegmen mengarah ke penonton, tiga pasang kaki berduri terentang (kaki belakang paling besar), antena panjang ke depan. Tetapi ini gambar VEKTOR datar, bukan foto realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (slot belakang tidak dipakai)."
+    "status": "ok",
+    "catatan": "Foto realistis (dirender Gemini dari panduan komposisi vektor + foto depan p02, skrip gemini-ref.mjs). Tampak belakang sungguhan: kubah sayap penutup dengan garis tengah, ujung perut dan sepasang sersi bersegmen mengarah ke kamera, pronotum berpita pucat di ujung jauh, 6 kaki berduri (3 per sisi, kaki belakang terbesar), 2 antena panjang. Latar putih polos, tanpa teks. Jumlah bagian dihitung manual dari gambar."
   },
   "tulang-belakang/p11-penampang-belah": {
     "status": "ok",
@@ -464,8 +464,8 @@
     "catatan": "Sama seperti p02: mulut tertutup, tanpa lidah/gigi, isu anatomi utama teratasi. Pose sedikit dinamis (ekor melengkung ke kiri, bukan simetri sempurna) tapi masih terbaca jelas sebagai tampak depan dan konsisten dengan gaya ilustrasi hewan lain di katalog ini -- bukan masalah ilmiah."
   },
   "lebah/p03-realistis-belakang": {
-    "status": "revisi",
-    "catatan": "Konten benar (lebah dari belakang: ujung perut + sengat paling dekat, kepala kecil + antena bersiku di ujung jauh, 4 sayap terlipat, 6 kaki, keranjang serbuk sari) tetapi file ini gambar VEKTOR datar, bukan foto ultra-realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis (permintaan reviewer osn-app-ce). Tidak diterbitkan app. Perbaikan: foto tampak belakang lebah madu CC0/PD (belum ditemukan di Commons) atau generasi foto realistis baru dengan acuan depan satu-giliran."
+    "status": "ok",
+    "catatan": "Foto realistis (dirender Gemini dari panduan komposisi vektor + foto depan p02, skrip gemini-ref.mjs). Tampak belakang (ujung perut mengarah ke kamera): perut bergaris amber-hitam, sayap terlipat di atas punggung, toraks berbulu emas, kepala kecil dengan 2 antena bersiku di ujung jauh, 6 kaki (3 per sisi) dengan keranjang serbuk sari kuning di kaki belakang. Sengat tidak terlihat (sesuai katalog). Latar putih polos, tanpa teks. Jumlah bagian dihitung manual."
   },
   "lebah/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -652,8 +652,8 @@
     "catatan": "Profil samping, kepala ke kanan gambar. Benar."
   },
   "nyamuk-aedes/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Ilmiah benar (pola lira putih di toraks, kaki bergelang putih, antena betina berambut jarang, 6 kaki), tetapi ada garis pembatas panel padahal dilarang. Kecil; bisa dipakai setelah dipotong per panel, atau generate ulang dengan template baru."
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "nyamuk-aedes/p02-realistis-depan": {
     "status": "ok",
@@ -1884,8 +1884,8 @@
     "catatan": "Lolos: katak sawah, kaki depan 4 jari, kaki belakang 5 jari berselaput, gendang telinga terlihat."
   },
   "kecoak/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Keempat salinan identik (tampak atas). Prompt: \"Four copies: front (head toward camera, eye level), back, left profile, right profile.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "kecoak/p06-ilustrasi-turnaround": {
     "status": "ok",
@@ -2300,8 +2300,8 @@
     "catatan": "Lolos: lalat rumah, 2 sayap, 6 kaki berbulu, mata majemuk merah, 4 garis gelap di toraks."
   },
   "lebah/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Kedua profil menghadap ke kiri; profil kanan tidak ada. Prompt: \"Third copy head pointing LEFT, fourth copy head pointing RIGHT.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "lebah/p06-ilustrasi-turnaround": {
     "status": "ok",
@@ -3200,8 +3200,8 @@
     "catatan": "Lolos (perlu paraf guru IPA): janin di dalam rahim dengan plasenta, tali pusat, cairan ketuban; diagram klinis."
   },
   "jantung/p01-realistis-turnaround": {
-    "status": "revisi",
-    "catatan": "Keempat salinan hampir sama (tampak depan miring). Prompt: \"Exactly four copies: anterior, posterior, left lateral, right lateral.\""
+    "status": "ok",
+    "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
   },
   "jantung/p06-ilustrasi-turnaround": {
     "status": "ok",
@@ -10996,8 +10996,8 @@
     "catatan": "Gambar VEKTOR skematik (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini. Tanpa teks. Tampak SAMPING KANAN hati: lobus kanan besar berbentuk baji, tebal di belakang (kiri gambar) dan menipis ke tepi bawah di depan (kanan gambar), area gundul (bare area) di belakang, fundus kantong empedu (hijau zaitun) menonjol di tepi bawah depan. Skema buku pelajaran SD; organ WAJIB diparaf guru IPA sebelum rilis."
   },
   "jantung/p04-realistis-kiri": {
-    "status": "revisi",
-    "catatan": "Konten benar (jantung tampak samping kiri: ventrikel kiri dominan, apeks kiri-bawah, LAD + vena jantung besar, sirkumfleks, aurikel kiri, batang pulmonalis, lengkung aorta, 2 vena pulmonalis kiri) tetapi file ini gambar VEKTOR skematik datar, bukan foto/model realistis seperti p02/p03/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (utama = p07 ilustrasi-depan; samping = p05). Perbaikan: foto model jantung tampak kiri CC0/PD (tidak ditemukan di Commons) atau generasi realistis baru. Perlu paraf guru IPA."
+    "status": "ok",
+    "catatan": "Model jantung realistis tampak samping kiri (dirender Gemini dengan acuan sudut dari foto model jantung domain publik \"Heart with ventricles and arteries\" (Commons, hanya sebagai masukan, tidak dipakai langsung) + foto depan p02 untuk gaya; skrip gemini-ref.mjs). Semua pembuluh menyambung ke jantung: lengkung aorta merah dengan 3 cabang di atas, batang pulmonalis biru melintang di depan, vena kava atas biru di kiri atas, aurikel kiri, dua muara vena pulmonalis kiri di sisi kanan gambar, pembuluh koroner (LAD + vena jantung besar) di permukaan ventrikel kiri yang dominan, apeks ke bawah-kiri. Latar putih polos, tanpa teks, tanpa penyangga. Perlu paraf guru IPA (organ)."
   },
   "jantung/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -11758,5 +11758,37 @@
   "tanaman-kacang/p12-penampang-transparan": {
     "status": "ok",
     "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Tanaman kacang tanah tercabut: akar tunggang dengan akar cabang dan bintil akar bulat merah muda, dua polong di bawah tanah menggantung pada ginofor (tangkai), batang tembus pandang dengan berkas pembuluh di tepi dan empulur krem, daun majemuk 4 anak daun; irisan melintang batang: epidermis hijau tua, korteks hijau muda, berkas pembuluh dalam SATU cincin (xilem biru di dalam, kambium kuning tipis, floem oranye di luar), empulur krem di tengah (sifat dikotil). Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "kecoak/p03-realistis-belakang.lama5": {
+    "status": "revisi",
+    "catatan": "Konten benar setelah 5x gagal di Gemini (duplikat tampak depan): kecoak dari belakang, sayap penutup berupa kubah dengan garis tengah, ujung perut dan sepasang sersi (cerci) bersegmen mengarah ke penonton, tiga pasang kaki berduri terentang (kaki belakang paling besar), antena panjang ke depan. Tetapi ini gambar VEKTOR datar, bukan foto realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (slot belakang tidak dipakai)."
+  },
+  "lebah/p03-realistis-belakang.lama4": {
+    "status": "revisi",
+    "catatan": "Konten benar (lebah dari belakang: ujung perut + sengat paling dekat, kepala kecil + antena bersiku di ujung jauh, 4 sayap terlipat, 6 kaki, keranjang serbuk sari) tetapi file ini gambar VEKTOR datar, bukan foto ultra-realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis (permintaan reviewer osn-app-ce). Tidak diterbitkan app. Perbaikan: foto tampak belakang lebah madu CC0/PD (belum ditemukan di Commons) atau generasi foto realistis baru dengan acuan depan satu-giliran."
+  },
+  "nyamuk-aedes/p03-realistis-belakang.lama2": {
+    "status": "revisi",
+    "catatan": "Konten benar (tampak bawah/ventral nyamuk Aedes betina: perut dan dada krem, 6 kaki bercincin putih, belalai, antena betina berambut jarang, halter, sayap terlipat) tetapi file ini gambar VEKTOR datar, bukan foto makro realistis seperti p02/p04/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (belakang tidak dipakai). Perbaikan: foto makro ventral nyamuk CC0/PD (belum ditemukan) atau biarkan sebagai pelengkap set."
+  },
+  "jantung/p04-realistis-kiri.lama3": {
+    "status": "revisi",
+    "catatan": "Konten benar (jantung tampak samping kiri: ventrikel kiri dominan, apeks kiri-bawah, LAD + vena jantung besar, sirkumfleks, aurikel kiri, batang pulmonalis, lengkung aorta, 2 vena pulmonalis kiri) tetapi file ini gambar VEKTOR skematik datar, bukan foto/model realistis seperti p02/p03/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (utama = p07 ilustrasi-depan; samping = p05). Perbaikan: foto model jantung tampak kiri CC0/PD (tidak ditemukan di Commons) atau generasi realistis baru. Perlu paraf guru IPA."
+  },
+  "kecoak/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Keempat salinan identik (tampak atas). Prompt: \"Four copies: front (head toward camera, eye level), back, left profile, right profile.\""
+  },
+  "lebah/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Kedua profil menghadap ke kiri; profil kanan tidak ada. Prompt: \"Third copy head pointing LEFT, fourth copy head pointing RIGHT.\""
+  },
+  "nyamuk-aedes/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Ilmiah benar (pola lira putih di toraks, kaki bergelang putih, antena betina berambut jarang, 6 kaki), tetapi ada garis pembatas panel padahal dilarang. Kecil; bisa dipakai setelah dipotong per panel, atau generate ulang dengan template baru."
+  },
+  "jantung/p01-realistis-turnaround.lama": {
+    "status": "revisi",
+    "catatan": "Keempat salinan hampir sama (tampak depan miring). Prompt: \"Exactly four copies: anterior, posterior, left lateral, right lateral.\""
   }
 }
