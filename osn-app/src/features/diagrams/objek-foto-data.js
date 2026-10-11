@@ -1515,7 +1515,6 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/otak.webp",
     "views": {
-      "samping": "objek/otak-samping.webp",
       "penampang": "objek/otak-penampang.webp"
     },
     "labels": {

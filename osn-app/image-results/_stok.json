@@ -106,6 +106,18 @@
       "tanggal_unduh": "2026-10-11",
       "bukti": "image-results/_stok-bukti/vaksin-suntik-p01-realistis-depan.json",
       "catatan": "Piksel tidak diedit; hanya crop persegi di sekitar objek (3400x3400 dari 4087x6130) lalu diperkecil ke 2048x2048. Vial label kosong, spuit 2,5 mL dengan skala 1-2 (angka skala instrumen, benar dan berurutan). Tanpa orang/merek."
+    },
+    {
+      "objek": "galaksi-bima-sakti",
+      "slot": "p01-realistis-atas",
+      "url_sumber": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_the_Milky_Way.jpg",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Artist%E2%80%99s_impression_of_the_Milky_Way.jpg",
+      "pembuat": "NASA/JPL-Caltech/ESO/R. Hurt",
+      "lisensi": "Public domain",
+      "atribusi_wajib": "false",
+      "tanggal_unduh": "2026-10-11",
+      "bukti": "image-results/_stok-bukti/galaksi-bima-sakti-p01.png",
+      "catatan": "konsep artis (tampak atas, galaksi berbatang), 5600x5600 diperkecil ke 1024; tanpa teks. Halaman rilis ESO eso1339g memakai CC BY 4.0 untuk versi TIFF; berkas JPG ini berlabel Public domain di Commons (karya NASA/JPL)."
     }
   ]
 }

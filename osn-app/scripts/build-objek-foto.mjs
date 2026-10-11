@@ -141,7 +141,10 @@ for (const o of objects) {
   let labels = null;
   for (const [view, order] of Object.entries(VIEW_ORDER)) {
     if (view === 'samping' && sideFirst) continue; // the main picture already is the side view
-    const slot = order.map((re) => slots.find((s) => re.test(s))).find(Boolean);
+    // Approved candidates in preference order; among cut-open pictures one that has part labels wins, so a newer
+    // unlabelled picture (e.g. a vector drawn later) does not silently remove the labels of an older approved one.
+    const cands = order.flatMap((re) => slots.filter((s) => re.test(s)));
+    const slot = (view === 'penampang' && cands.find((s) => LABELS[`${o.id}/${s}`])) || cands[0];
     const f = file && publish(slot, `${o.id}-${view}`);
     if (f) views[view] = f;
     if (f && view === 'penampang') labels = labelsFor(o.id, slot, join(folder, `${slot}.png`));
