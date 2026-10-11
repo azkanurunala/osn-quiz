@@ -39,3 +39,5 @@ metadata/
 # rahasia lokal (API key)
 .env
 # image-results/*
+# planet maps cache (image-prompts/_src/planet-peta.py)
+image-prompts/_src/_peta/

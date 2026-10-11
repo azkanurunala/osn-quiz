@@ -193,7 +193,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 
 | Objek | Tampak | Soal | Sumber & acuan | File |
 |---|---|---:|:---:|---|
-| Neraca pegas / dinamometer (satuan Newton) | 4 | 53 | ✅ 4 | [neraca-pegas](ipa/03-gaya-gerak-energi/neraca-pegas.md) |
+| Neraca pegas / dinamometer (satuan Newton) | 4 | 6 | ✅ 4 | [neraca-pegas](ipa/03-gaya-gerak-energi/neraca-pegas.md) |
 | Bola sepak (gaya dorong/tendang) | 1 | 50 | ✅ 1 | [bola-sepak](ipa/03-gaya-gerak-energi/bola-sepak.md) |
 | Plastisin/tanah liat berubah bentuk (pengaruh gaya) | 1 | 81 | ✅ 1 | [plastisin](ipa/03-gaya-gerak-energi/plastisin.md) |
 | Ban berulir (manfaat gaya gesek) | 4 | 288 | ✅ 4 | [ban-berulir](ipa/03-gaya-gerak-energi/ban-berulir.md) |
@@ -221,11 +221,11 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Speaker & mikrofon (listrik ↔ bunyi) | 1 | 55 | ✅ 2 | [speaker-mikrofon-set](ipa/03-gaya-gerak-energi/speaker-mikrofon-set.md) |
 | Kompor gas (kimia → panas) | 4 | 44 | ✅ 3 | [kompor-gas](ipa/03-gaya-gerak-energi/kompor-gas.md) |
 | Dinamo sepeda (gerak → listrik) | 4 | 73 | ✅ 2 | [dinamo-sepeda](ipa/03-gaya-gerak-energi/dinamo-sepeda.md) |
-| Panel surya (cahaya → listrik) | 4 | 77 | ✅ 2 | [panel-surya](ipa/03-gaya-gerak-energi/panel-surya.md) |
+| Panel surya (cahaya → listrik) | 4 | 40 | ✅ 2 | [panel-surya](ipa/03-gaya-gerak-energi/panel-surya.md) |
 | Kincir angin / turbin angin (gerak → listrik) | 4 | 373 | ✅ 2 | [kincir-angin](ipa/03-gaya-gerak-energi/kincir-angin.md) |
 | Baterai & aki (sumber listrik kimia) | 1 | 220 | ✅ 2 | [baterai-set](ipa/03-gaya-gerak-energi/baterai-set.md) |
-| Rangkaian seri (papan praktikum) | 1 | 122 | ✅ 2 | [rangkaian-seri](ipa/03-gaya-gerak-energi/rangkaian-seri.md) |
-| Rangkaian paralel (papan praktikum) | 1 | 142 | ✅ 2 | [rangkaian-paralel](ipa/03-gaya-gerak-energi/rangkaian-paralel.md) |
+| Rangkaian seri (papan praktikum) | 1 | 63 | ✅ 2 | [rangkaian-seri](ipa/03-gaya-gerak-energi/rangkaian-seri.md) |
+| Rangkaian paralel (papan praktikum) | 1 | 46 | ✅ 2 | [rangkaian-paralel](ipa/03-gaya-gerak-energi/rangkaian-paralel.md) |
 | Sakelar, stopkontak, steker, sekering/MCB | 1 | 49 | ✅ 2 | [sakelar-stopkontak-set](ipa/03-gaya-gerak-energi/sakelar-stopkontak-set.md) |
 | Kabel listrik (konduktor tembaga & isolator) | 1 | 297 | ✅ 2 | [kabel-penampang](ipa/03-gaya-gerak-energi/kabel-penampang.md) |
 | Bahan konduktor vs isolator | 1 | 180 | ✅ 3 | [konduktor-isolator-set](ipa/03-gaya-gerak-energi/konduktor-isolator-set.md) |
@@ -235,7 +235,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Elektromagnet (paku + kumparan + baterai) | 1 | 100 | ✅ 2 | [elektromagnet](ipa/03-gaya-gerak-energi/elektromagnet.md) |
 | Bel listrik (penerapan elektromagnet) | 1 | 31 | ✅ 3 | [bel-listrik](ipa/03-gaya-gerak-energi/bel-listrik.md) |
 | Tekanan hidrostatis (botol berlubang 3) | 1 | 226 | ⚠️ | [tekanan-hidrostatis-botol](ipa/03-gaya-gerak-energi/tekanan-hidrostatis-botol.md) |
-| Tekanan zat padat: paku runcing, pisau tajam, sepatu salju | 1 | 372 | ✅ 2 | [tekanan-benda-padat-set](ipa/03-gaya-gerak-energi/tekanan-benda-padat-set.md) |
+| Tekanan zat padat: paku runcing, pisau tajam, sepatu salju | 1 | 24 | ✅ 2 | [tekanan-benda-padat-set](ipa/03-gaya-gerak-energi/tekanan-benda-padat-set.md) |
 | Elektroskop (listrik statis) | 4 | 139 | ✅ 3 | [elektroskop](ipa/03-gaya-gerak-energi/elektroskop.md) |
 | Balon & sisir (gosokan listrik statis) | 1 | 99 | ✅ 3 | [balon-listrik-statis](ipa/03-gaya-gerak-energi/balon-listrik-statis.md) |
 | Transformator / trafo | 4 | 48 | ✅ 2 | [transformator](ipa/03-gaya-gerak-energi/transformator.md) |
@@ -314,9 +314,9 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Deret 8 planet (urutan dari Matahari) | 1 | 255 | ✅ 1 | [tata-surya-deret](ipa/05-bumi-antariksa/tata-surya-deret.md) |
 | Fase-fase Bulan (8 fase) | 1 | 196 | ✅ 1 | [fase-bulan-deret](ipa/05-bumi-antariksa/fase-bulan-deret.md) |
 | Komet | 1 | 42 | ✅ 2 | [komet](ipa/05-bumi-antariksa/komet.md) |
-| Meteorit (batu dari antariksa) | 4 | 70 | ✅ 3 | [meteorit](ipa/05-bumi-antariksa/meteorit.md) |
+| Meteorit (batu dari antariksa) | 4 | 36 | ✅ 3 | [meteorit](ipa/05-bumi-antariksa/meteorit.md) |
 | Lapisan Bumi (kerak, mantel, inti) | 1 | 107 | ✅ 2 | [bumi-lapisan](ipa/05-bumi-antariksa/bumi-lapisan.md) |
-| Globe (rotasi & kemiringan sumbu 23,5°) | 4 | 294 | ✅ 1 | [globe](ipa/05-bumi-antariksa/globe.md) |
+| Globe (rotasi & kemiringan sumbu 23,5°) | 4 | 1 | ✅ 1 | [globe](ipa/05-bumi-antariksa/globe.md) |
 | Batuan beku: granit, basalt, obsidian, batu apung | 1 | 70 | ✅ 3 | [batuan-beku-set](ipa/05-bumi-antariksa/batuan-beku-set.md) |
 | Batuan sedimen: batu pasir, batu kapur, konglomerat, batu bara | 1 | 63 | ✅ 3 | [batuan-sedimen-set](ipa/05-bumi-antariksa/batuan-sedimen-set.md) |
 | Batuan metamorf: marmer, batu sabak, gneiss, kuarsit | 1 | 60 | ✅ 2 | [batuan-metamorf-set](ipa/05-bumi-antariksa/batuan-metamorf-set.md) |
@@ -399,7 +399,7 @@ Total **375 objek**. Kolom "Soal" = jumlah soal (dari 31595 soal di 325 file dat
 | Set semua bangun ruang (perbandingan) | 1 | 125 | ✅ 1 | [bangun-ruang-set](mtk/04-geometri-ruang/bangun-ruang-set.md) |
 | Jaring-jaring kubus (karton terbuka) | 1 | 92 | ✅ 2 | [jaring-jaring-kubus](mtk/04-geometri-ruang/jaring-jaring-kubus.md) |
 | Kubus satuan disusun (volume) | 1 | 183 | ✅ 2 | [kubus-satuan](mtk/04-geometri-ruang/kubus-satuan.md) |
-| Akuarium balok (kapasitas) | 4 | 332 | ✅ 1 | [akuarium](mtk/04-geometri-ruang/akuarium.md) |
+| Akuarium balok (kapasitas) | 4 | 74 | ✅ 1 | [akuarium](mtk/04-geometri-ruang/akuarium.md) |
 | Benda sehari-hari berbentuk bangun ruang | 1 | 386 | ✅ 3 | [benda-bangun-ruang-set](mtk/04-geometri-ruang/benda-bangun-ruang-set.md) |
 | Tandon / toren air (tabung) | 4 | 199 | ✅ 1 | [tandon-air](mtk/04-geometri-ruang/tandon-air.md) |
 

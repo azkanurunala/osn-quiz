@@ -3,15 +3,15 @@
 - **Bab:** MTK 04 · Geometri Ruang
 - **Sub-bab:** 04c, 04m, 05d
 - **Objek (EN):** an empty rectangular glass aquarium
-- **Soal terkait:** 332 soal di 126 file
-  - `mtk-05i-debit-campur` (14)
-  - `mtk-04c-volume-balok-campur` (11)
-  - `mtk-04m-aplikasi-kapasitas-campur` (10)
-  - `mtk-05j-konversi-debit-campur` (9)
-  - `mtk-04-geometri-ruang-mudah-sedang` (8)
-  - `mtk-04-geometri-ruang-sedang` (8)
-  - `mtk-05d-konversi-volume-campur` (8)
-  - `ipa-03n-tekanan-campur` (7)
+- **Soal terkait:** 74 soal di 46 file
+  - `mtk-04c-volume-balok-campur` (9)
+  - `ipa-06b-keanekaragaman-hayati-sulit` (4)
+  - `mtk-04-geometri-ruang-mudah-sedang` (4)
+  - `mtk-04-geometri-ruang-sedang` (3)
+  - `mtk-05d-konversi-volume-campur` (3)
+  - `ipa-06b-keanekaragaman-hayati-campur` (2)
+  - `ipa-06b-keanekaragaman-hayati-mudah-sedang` (2)
+  - `ipa-06b-keanekaragaman-hayati-sedang` (2)
 - **Tampak:** depan · belakang · kiri · kanan, semua full body
 - **Versi:** A. Realistis (prompt 1–5) · B. Ilustrasi (prompt 6–10)
 - **Folder hasil:** `image-results/mtk/04-geometri-ruang/akuarium/`

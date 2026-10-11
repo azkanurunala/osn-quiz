@@ -9,6 +9,15 @@
 // t    name shown (Bahasa Indonesia, textbook term first)
 // kw   words in a soal that mean this part (regex source, matched as whole words, lower case)
 export default {
+  'pembuluh-darah-set/p03-penampang-belah': {
+    sha: '6b1f3f93c8c1',
+    parts: [
+      { x: 0.60, y: 0.21, t: 'arteri (pembuluh nadi)', kw: 'arteri|pembuluh nadi' },
+      { x: 0.45, y: 0.52, t: 'vena (pembuluh balik)', kw: 'vena|pembuluh balik' },
+      { x: 0.67, y: 0.48, t: 'katup vena', kw: 'katup' },
+      { x: 0.60, y: 0.815, t: 'kapiler', kw: 'kapiler' },
+    ],
+  },
   'pembuluh-darah-set/p04-penampang-transparan': {
     sha: '167ba432aef8',
     parts: [

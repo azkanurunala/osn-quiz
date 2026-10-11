@@ -50,6 +50,13 @@ const REQUIRE = {
   'sel-tumbuhan': /tumbuhan/,
   'sel-hewan': /hewan|membran sel/,
   mata: /pupil|kedip|lensa mata|kornea|retina|cacat mata|kelainan (pada )?mata|kesehatan mata|gangguan mata|rabun|buta warna|berkedip|debu (masuk )?(di|ke) mata/,
+  // kw is generic ("ekosistem"); the soal must actually be about a POND, not another biome
+  'ekosistem-kolam': /kolam/,
+  // kw is generic ("sumur|timba"); the soal must be about the pulley mechanism itself, not water
+  // quality/plumbing in general
+  'katrol-tetap': /katrol|kerekan|roda (ber)?alur|tali.*(beban|kuasa)|keuntungan mekanik/,
+  // kw is generic ("lubang|kedalaman"); must actually be about water pressure, not any hole/depth
+  'tekanan-hidrostatis-botol': /hidrostatis|tekanan (air|zat cair)/,
 };
 
 // Generic words several objects share; a specific name in the same stem wins over them.
@@ -83,15 +90,16 @@ const NOT_FOR = {
   ayam: /betina|induk|bertelur|mengeram|dierami/,
   // human uterus picture: soal about animal pregnancy or vivipary in general
   'janin-rahim': /hewan|mamalia/,
-  // the picture is the Sun, not the sunflower
-  matahari: /bunga matahari|helianthus|zat hijau daun|klorofil|fotosintesis/,
+  // the picture is the Sun, not the sunflower, a comet passing it, or Moon albedo
+  matahari: /bunga matahari|helianthus|zat hijau daun|klorofil|fotosintesis|bintang berekor|komet|ekor panjang|albedo bulan|memantulkan cahaya matahari/,
   // human gametes picture: not for plant fertilisation ("bakal biji", "serbuk sari")
   'sperma-ovum': /tumbuhan|bunga|biji|serbuk sari|putik/,
-  // particles of solid, liquid and gas: not for carbon-monoxide poisoning soal that just say "gas"
-  'wujud-zat-set': /karbon monoksida|keracunan|asfiksia|hemoglobin/,
+  // particles of solid, liquid and gas: not for carbon-monoxide poisoning, diarrhoea, decibels,
+  // stars/nebulae, or a controlled-variable experiment that just happens to say "cair"/"gas"
+  'wujud-zat-set': /karbon monoksida|keracunan|asfiksia|hemoglobin|diare|bab (cair|berdarah)|disentri|desibel|kebisingan|bintang (adalah|merupakan)|nebula|variabel kontrol|pupuk cair/,
   'hati-empedu': /hati-hati|senang hati|rendah hati|baik hati|sepenuh hati|dalam hati|berhati/,
   'hidung-penampang': /pesawat|kereta|kapal|diangkut/,
-  'jamur-tiram': /penisilin|penicillium|panu|kurap|mikoriza|ragi|kaki atlet|penyakit/,
+  'jamur-tiram': /penisilin|penicillium|panu|kurap|mikoriza|ragi|kaki atlet|penyakit|jamur merang/,
   'kulit-penampang': /batuk|kutu|mencangkok|cangkok|salak|kina|pohon|batang|tumbuhan/,
   // the picture shows the foods themselves, which are often the options of these soal
   'sumber-protein-set': /berikut|kecuali|nabati|hewani|sumber|enzim/,
@@ -100,6 +108,65 @@ const NOT_FOR = {
   'vili-usus': /penyerapan air|diare/,
   // a bacteriophage infects bacteria; it must not stand for human disease viruses
   'virus-bakteriofag': /penyakit|diare|imun|vaksin|campak|menular|infeksi|flu|demam/,
+
+  // --- added after a text audit of (soal, matched object) pairs found many keyword collisions ---
+  // kw "kolam" is generic; a swimming pool, bathtub, or pure number-pattern soal is not an aquarium
+  akuarium: /kolam renang|bak mandi|titik-titik|pola bilangan/,
+  // kw bare "pesawat" also means "simple machine" (tuas/pesawat sederhana), not an aircraft
+  'kendaraan-set': /pesawat sederhana|tuas|katrol|crane|lift\b|eskalator|keran|kemudi/,
+  // kw "rangka|tulang" also means a wire/cage/building frame, not the human skeleton
+  'kerangka-manusia': /sangkar|kandang|kawat.*(rangka|kerangka)/,
+  // kw bare "lampu" also fires on a glow stick (chemiluminescent, no filament/electricity at all)
+  'lampu-bohlam': /glow stick|kemiluminesensi/,
+  // kw "pegangan" also means a ship's wheel handle, not a pot handle
+  'panci-pegangan': /kemudi kapal|helm kapal|roda kemudi/,
+  // the picture is cooking-oil/butter/coconut *food*, not crude oil, solar calendars, or acoustics
+  'sumber-lemak-set': /minyak bumi|kilang minyak|cracking|barel|cepat rambat bunyi di minyak|jatuh bebas|gerak jatuh/,
+  // the picture is specifically a corn plant; salak and bamboo are other monocots, not corn
+  'tanaman-jagung': /\bsalak\b|\bbambu\b/,
+  // "basal" also means baseline (suhu/ganglia basal in biology), not igneous basalt rock
+  'batuan-beku-set': /suhu (tubuh )?basal|ovulasi|ganglia basal/,
+  // generic flower-part words (benang sari, putik, mahkota) also describe a tomato flower
+  'bunga-sepatu': /\btomat\b/,
+  // "hemat energi" also describes an efficient AC unit, nothing to do with light bulbs
+  'lampu-led-cfl-set': /\bac\b.*(baru|pendingin|watt|pk\b)|pendingin ruangan/,
+  // "mencair/membeku" also means blood clotting, molten iron, or lava solidifying into rock
+  'es-batu-mencair': /darah|pembekuan darah|hemofilia|besi mencair|lava|batu lava|logam cair/,
+  // "menyaring" also describes a kidney filtering blood, not lab filtration equipment
+  filtrasi: /ginjal|organ ekskresi|urine|urin\b/,
+  // "tembaga" (copper) is also a mining/geography topic, not an electrical cable
+  'kabel-penampang': /tambang|provinsi|kalimantan|papua|freeport/,
+  // kw "manik" also means beads for a bracelet/necklace, a different object than a bag of marbles
+  'kelereng-kantong': /gelang|kalung|merangkai/,
+  // kw "otot" also means leg/calf/thigh muscles, not the arm biceps/triceps pictured
+  'otot-lengan': /otot (kaki|tungkai|betis|paha)/,
+  // "mineral" is also a rock/geology term (feldspar, gemstones), not dietary minerals
+  'sumber-vitamin-mineral-set': /feldspar|batuan|kristal.*(perhiasan|berlapis)|mineral sintetik|intan\b/,
+  // "gesek/gaya gesek" also covers shoe soles, pencils on paper, or a hovercraft (which REDUCES
+  // friction with an air cushion -- opposite concept)
+  'ban-berulir': /sol sepatu|trotoar|hovercraft|pensil.*kertas/,
+  // "dongkrak" also means a hydraulic jack (Pascal's principle, a piston, not a screw thread)
+  'sekrup-baut': /dongkrak hidrolik|piston/,
+  // "sapu" also appears inside "sapu tangan" (handkerchief), unrelated to a broom
+  'tuas-jenis-3-set': /sapu tangan|saputangan/,
+  // "glukosa" is also the general biology word for photosynthesis/respiration sugar, not diabetes
+  glukometer: /fotosintesis|respirasi sel|\batp\b|klorofil/,
+  // kw bare "angin" also covers seed dispersal, falling leaves, an anemometer, or acid rain --
+  // none of those are about a wind turbine
+  'kincir-angin': /anemometer|penyebaran biji|daun kering|hujan asam|\bph\b.*danau/,
+  // "generator" also covers a thermoelectric generator (Seebeck effect, no spinning magnet at all)
+  'dinamo-sepeda': /termoelektrik|thermoelectric|\bteg\b|efek seebeck/,
+  // "kompor" also covers an electric induction stove, which has no flame
+  'kompor-gas': /kompor listrik|induksi/,
+  // "garam" is also a nutrition/chemistry/buoyancy topic, not the evaporation process pictured
+  'penguapan-garam': /konsumsi|kesehatan|mengapung|massa jenis|natrium|klorin|unsur.*senyawa/,
+  // "tangki" also means a submarine ballast tank or a fuel tank, not a home water tank
+  'tandon-air': /kapal selam|ballast|bensin|mudah menguap|mudah terbakar/,
+  // "tangga" also appears inside the fixed phrase "rumah tangga" (household), unrelated to stairs
+  'tangga-rumah': /rumah tangga/,
+  // the picture is a piggy bank (no interest at all); soal about real bank/cooperative interest
+  // (bunga tunggal/majemuk) or gene/seed banks are a different "bank" meaning entirely
+  celengan: /bunga (tunggal|majemuk|bank)|suku bunga|per tahun|bank (gen|biji|benih)|koperasi/,
 };
 
 const BEFORE = /(?:mirip|seperti|menyerupai|bagaikan|layaknya|daging|susu|sate|sop|soto|bulu|kulit|pukat)\s+(?:\S+\s+)?$/;

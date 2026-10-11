@@ -71,7 +71,10 @@ export const OBJEK_FOTO = [
     "title": "Telur ayam",
     "kw": "telur",
     "bab": "ipa-01",
-    "file": "objek/telur-ayam.webp"
+    "file": "objek/telur-ayam.webp",
+    "views": {
+      "penampang": "objek/telur-ayam-penampang.webp"
+    }
   },
   {
     "id": "bebek",
@@ -441,7 +444,10 @@ export const OBJEK_FOTO = [
     "title": "Daur hidup katak",
     "kw": "katak|berudu|kecebong",
     "bab": "ipa-01",
-    "file": "objek/daur-katak-set.webp"
+    "file": "objek/daur-katak-set.webp",
+    "views": {
+      "penampang": "objek/daur-katak-set-penampang.webp"
+    }
   },
   {
     "id": "daur-nyamuk-set",
@@ -865,7 +871,8 @@ export const OBJEK_FOTO = [
     "id": "tingkatan-organisasi-makhluk-hidup-set",
     "title": "Individu, populasi, komunitas",
     "kw": "populasi|komunitas|individu|tingkatan organisasi",
-    "bab": "ipa-01"
+    "bab": "ipa-01",
+    "file": "objek/tingkatan-organisasi-makhluk-hidup-set.webp"
   },
   {
     "id": "jamur-tiram",
@@ -1044,6 +1051,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-01",
     "file": "objek/sel-hewan.webp",
     "views": {
+      "samping": "objek/sel-hewan-samping.webp",
       "penampang": "objek/sel-hewan-penampang.webp"
     },
     "labels": {
@@ -1126,7 +1134,10 @@ export const OBJEK_FOTO = [
     "title": "Penampang melintang daun",
     "kw": "jaringan|stomata|mesofil|palisade|epidermis",
     "bab": "ipa-01",
-    "file": "objek/penampang-daun.webp"
+    "file": "objek/penampang-daun.webp",
+    "views": {
+      "penampang": "objek/penampang-daun-penampang.webp"
+    }
   },
   {
     "id": "stomata",
@@ -1209,6 +1220,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/hati-empedu.webp",
     "views": {
+      "samping": "objek/hati-empedu-samping.webp",
       "penampang": "objek/hati-empedu-penampang.webp"
     }
   },
@@ -1219,6 +1231,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/pankreas.webp",
     "views": {
+      "samping": "objek/pankreas-samping.webp",
       "penampang": "objek/pankreas-penampang.webp"
     }
   },
@@ -1250,7 +1263,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/sistem-pernapasan.webp",
     "views": {
-      "samping": "objek/sistem-pernapasan-samping.webp"
+      "samping": "objek/sistem-pernapasan-samping.webp",
+      "penampang": "objek/sistem-pernapasan-penampang.webp"
     }
   },
   {
@@ -1269,7 +1283,10 @@ export const OBJEK_FOTO = [
     "title": "Alveolus",
     "kw": "alveol(?:us|i)|pertukaran gas",
     "bab": "ipa-02",
-    "file": "objek/alveolus.webp"
+    "file": "objek/alveolus.webp",
+    "views": {
+      "penampang": "objek/alveolus-penampang.webp"
+    }
   },
   {
     "id": "insang-ikan",
@@ -1338,28 +1355,28 @@ export const OBJEK_FOTO = [
       "ar": 1,
       "parts": [
         {
-          "x": 0.19,
-          "y": 0.4,
+          "x": 0.6,
+          "y": 0.21,
           "t": "arteri (pembuluh nadi)",
           "kw": "arteri|pembuluh nadi"
         },
         {
-          "x": 0.53,
-          "y": 0.36,
-          "t": "kapiler",
-          "kw": "kapiler"
-        },
-        {
-          "x": 0.82,
-          "y": 0.5,
+          "x": 0.45,
+          "y": 0.52,
           "t": "vena (pembuluh balik)",
           "kw": "vena|pembuluh balik"
         },
         {
-          "x": 0.76,
-          "y": 0.41,
+          "x": 0.67,
+          "y": 0.48,
           "t": "katup vena",
           "kw": "katup"
+        },
+        {
+          "x": 0.6,
+          "y": 0.815,
+          "t": "kapiler",
+          "kw": "kapiler"
         }
       ]
     }
@@ -1404,7 +1421,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/sistem-urinaria.webp",
     "views": {
-      "samping": "objek/sistem-urinaria-samping.webp"
+      "samping": "objek/sistem-urinaria-samping.webp",
+      "penampang": "objek/sistem-urinaria-penampang.webp"
     }
   },
   {
@@ -1579,61 +1597,27 @@ export const OBJEK_FOTO = [
     "views": {
       "samping": "objek/mata-samping.webp",
       "penampang": "objek/mata-penampang.webp"
-    },
-    "labels": {
-      "ar": 1,
-      "parts": [
-        {
-          "x": 0.375,
-          "y": 0.5,
-          "t": "pupil",
-          "kw": "pupil|anak mata"
-        },
-        {
-          "x": 0.32,
-          "y": 0.43,
-          "t": "iris (selaput pelangi)",
-          "kw": "iris|selaput pelangi"
-        },
-        {
-          "x": 0.22,
-          "y": 0.5,
-          "t": "kornea",
-          "kw": "kornea|selaput bening"
-        },
-        {
-          "x": 0.505,
-          "y": 0.5,
-          "t": "lensa mata",
-          "kw": "lensa mata|lensa"
-        },
-        {
-          "x": 0.81,
-          "y": 0.5,
-          "t": "saraf optik",
-          "kw": "saraf optik|saraf penglihatan"
-        },
-        {
-          "x": 0.74,
-          "y": 0.31,
-          "t": "otot mata",
-          "kw": "otot mata"
-        }
-      ]
     }
   },
   {
     "id": "mata-penampang",
     "title": "Penampang mata",
     "kw": "retina|kornea|lensa mata|bintik kuning|saraf optik",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/mata-penampang.webp",
+    "views": {
+      "penampang": "objek/mata-penampang-penampang.webp"
+    }
   },
   {
     "id": "telinga",
     "title": "Telinga",
     "kw": "telinga|gendang|koklea|rumah siput|tulang pendengaran",
     "bab": "ipa-02",
-    "file": "objek/telinga.webp"
+    "file": "objek/telinga.webp",
+    "views": {
+      "penampang": "objek/telinga-penampang.webp"
+    }
   },
   {
     "id": "hidung-penampang",
@@ -1672,21 +1656,29 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/tulang-belakang.webp",
     "views": {
-      "samping": "objek/tulang-belakang-samping.webp"
+      "samping": "objek/tulang-belakang-samping.webp",
+      "penampang": "objek/tulang-belakang-penampang.webp"
     }
   },
   {
     "id": "tulang-rusuk",
     "title": "Rongga dada",
     "kw": "rusuk|tulang dada|sternum",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/tulang-rusuk.webp",
+    "views": {
+      "samping": "objek/tulang-rusuk-samping.webp"
+    }
   },
   {
     "id": "tulang-paha-penampang",
     "title": "Tulang pipa",
     "kw": "tulang pipa|sumsum|femur|tulang paha",
     "bab": "ipa-02",
-    "file": "objek/tulang-paha-penampang.webp"
+    "file": "objek/tulang-paha-penampang.webp",
+    "views": {
+      "penampang": "objek/tulang-paha-penampang-penampang.webp"
+    }
   },
   {
     "id": "sendi-set",
@@ -1705,6 +1697,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-02",
     "file": "objek/otot-lengan.webp",
     "views": {
+      "samping": "objek/otot-lengan-samping.webp",
       "penampang": "objek/otot-lengan-penampang.webp"
     }
   },
@@ -1731,7 +1724,10 @@ export const OBJEK_FOTO = [
     "title": "Organ reproduksi pria",
     "kw": "testis|sperma|vas deferens|prostat|buah zakar",
     "bab": "ipa-02",
-    "file": "objek/reproduksi-pria.webp"
+    "file": "objek/reproduksi-pria.webp",
+    "views": {
+      "penampang": "objek/reproduksi-pria-penampang.webp"
+    }
   },
   {
     "id": "sperma-ovum",
@@ -1789,7 +1785,11 @@ export const OBJEK_FOTO = [
     "id": "virus-dengue",
     "title": "Virus dengue",
     "kw": "dbd|dengue|demam berdarah",
-    "bab": "ipa-02"
+    "bab": "ipa-02",
+    "file": "objek/virus-dengue.webp",
+    "views": {
+      "penampang": "objek/virus-dengue-penampang.webp"
+    }
   },
   {
     "id": "virus-corona",
@@ -1877,7 +1877,7 @@ export const OBJEK_FOTO = [
   {
     "id": "neraca-pegas",
     "title": "Neraca pegas",
-    "kw": "neraca pegas|dinamometer|newton",
+    "kw": "neraca pegas|dinamometer",
     "bab": "ipa-03",
     "file": "objek/neraca-pegas.webp",
     "views": {
@@ -2089,7 +2089,11 @@ export const OBJEK_FOTO = [
     "id": "speaker-mikrofon-set",
     "title": "Speaker & mikrofon",
     "kw": "speaker|pengeras suara|mikrofon|mic",
-    "bab": "ipa-03"
+    "bab": "ipa-03",
+    "file": "objek/speaker-mikrofon-set.webp",
+    "views": {
+      "penampang": "objek/speaker-mikrofon-set-penampang.webp"
+    }
   },
   {
     "id": "kompor-gas",
@@ -2115,7 +2119,7 @@ export const OBJEK_FOTO = [
   {
     "id": "panel-surya",
     "title": "Panel surya",
-    "kw": "panel surya|sel surya|tenaga surya|solar",
+    "kw": "panel surya|sel surya|tenaga surya",
     "bab": "ipa-03",
     "file": "objek/panel-surya.webp",
     "views": {
@@ -2147,14 +2151,14 @@ export const OBJEK_FOTO = [
   {
     "id": "rangkaian-seri",
     "title": "Rangkaian seri",
-    "kw": "seri",
+    "kw": "rangkaian seri|disusun seri|dirangkai seri|susunan seri",
     "bab": "ipa-03",
     "file": "objek/rangkaian-seri.webp"
   },
   {
     "id": "rangkaian-paralel",
     "title": "Rangkaian paralel",
-    "kw": "paralel",
+    "kw": "rangkaian paralel|disusun paralel|dirangkai paralel|susunan paralel",
     "bab": "ipa-03",
     "file": "objek/rangkaian-paralel.webp"
   },
@@ -2233,7 +2237,7 @@ export const OBJEK_FOTO = [
   {
     "id": "tekanan-benda-padat-set",
     "title": "Tekanan zat padat: paku runcing, pisau tajam, sepatu salju",
-    "kw": "tekanan|runcing|tajam|sepatu salju|luas bidang",
+    "kw": "tekanan (benda|zat) padat|runcing|sepatu salju|luas bidang",
     "bab": "ipa-03",
     "file": "objek/tekanan-benda-padat-set.webp"
   },
@@ -2261,7 +2265,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-03",
     "file": "objek/transformator.webp",
     "views": {
-      "samping": "objek/transformator-samping.webp"
+      "samping": "objek/transformator-samping.webp",
+      "penampang": "objek/transformator-penampang.webp"
     }
   },
   {
@@ -2302,7 +2307,8 @@ export const OBJEK_FOTO = [
     "id": "lensa-cembung-cekung-set",
     "title": "Lensa cembung & lensa cekung",
     "kw": "lensa cembung|lensa cekung|konvergen|divergen",
-    "bab": "ipa-04"
+    "bab": "ipa-04",
+    "file": "objek/lensa-cembung-cekung-set.webp"
   },
   {
     "id": "lup",
@@ -2318,7 +2324,8 @@ export const OBJEK_FOTO = [
     "id": "kacamata-minus-plus-set",
     "title": "Kacamata minus",
     "kw": "kacamata|miopi|hipermetropi|rabun|presbiopi",
-    "bab": "ipa-04"
+    "bab": "ipa-04",
+    "file": "objek/kacamata-minus-plus-set.webp"
   },
   {
     "id": "prisma-kaca",
@@ -2364,7 +2371,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-04",
     "file": "objek/mikroskop.webp",
     "views": {
-      "samping": "objek/mikroskop-samping.webp"
+      "samping": "objek/mikroskop-samping.webp",
+      "penampang": "objek/mikroskop-penampang.webp"
     }
   },
   {
@@ -2374,7 +2382,8 @@ export const OBJEK_FOTO = [
     "bab": "ipa-04",
     "file": "objek/teropong-bintang.webp",
     "views": {
-      "samping": "objek/teropong-bintang-samping.webp"
+      "samping": "objek/teropong-bintang-samping.webp",
+      "penampang": "objek/teropong-bintang-penampang.webp"
     }
   },
   {
@@ -2416,7 +2425,10 @@ export const OBJEK_FOTO = [
     "title": "Termos",
     "kw": "termos",
     "bab": "ipa-04",
-    "file": "objek/termos-penampang.webp"
+    "file": "objek/termos-penampang.webp",
+    "views": {
+      "penampang": "objek/termos-penampang-penampang.webp"
+    }
   },
   {
     "id": "panci-pegangan",
@@ -2504,7 +2516,8 @@ export const OBJEK_FOTO = [
     "id": "distilasi",
     "title": "Penyulingan",
     "kw": "distilasi|destilasi|penyulingan|sulingan",
-    "bab": "ipa-04"
+    "bab": "ipa-04",
+    "file": "objek/distilasi.webp"
   },
   {
     "id": "kromatografi",
@@ -2525,7 +2538,10 @@ export const OBJEK_FOTO = [
     "title": "Larutan, koloid, suspensi",
     "kw": "larutan|koloid|suspensi",
     "bab": "ipa-04",
-    "file": "objek/larutan-koloid-suspensi.webp"
+    "file": "objek/larutan-koloid-suspensi.webp",
+    "views": {
+      "penampang": "objek/larutan-koloid-suspensi-penampang.webp"
+    }
   },
   {
     "id": "efek-tyndall",
@@ -2571,6 +2587,9 @@ export const OBJEK_FOTO = [
     "kw": "merkurius",
     "bab": "ipa-05",
     "file": "objek/merkurius.webp",
+    "views": {
+      "samping": "objek/merkurius-samping.webp"
+    },
     "dark": true
   },
   {
@@ -2590,6 +2609,9 @@ export const OBJEK_FOTO = [
     "kw": "\\bbumi\\b",
     "bab": "ipa-05",
     "file": "objek/bumi.webp",
+    "views": {
+      "samping": "objek/bumi-samping.webp"
+    },
     "dark": true
   },
   {
@@ -2599,6 +2621,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-05",
     "file": "objek/bulan.webp",
     "views": {
+      "samping": "objek/bulan-samping.webp",
       "penampang": "objek/bulan-penampang.webp"
     },
     "dark": true
@@ -2610,6 +2633,7 @@ export const OBJEK_FOTO = [
     "bab": "ipa-05",
     "file": "objek/mars.webp",
     "views": {
+      "samping": "objek/mars-samping.webp",
       "penampang": "objek/mars-penampang.webp"
     },
     "dark": true
@@ -2620,6 +2644,10 @@ export const OBJEK_FOTO = [
     "kw": "jupiter|yupiter",
     "bab": "ipa-05",
     "file": "objek/jupiter.webp",
+    "views": {
+      "samping": "objek/jupiter-samping.webp",
+      "penampang": "objek/jupiter-penampang.webp"
+    },
     "dark": true
   },
   {
@@ -2639,6 +2667,9 @@ export const OBJEK_FOTO = [
     "kw": "uranus",
     "bab": "ipa-05",
     "file": "objek/uranus.webp",
+    "views": {
+      "samping": "objek/uranus-samping.webp"
+    },
     "dark": true
   },
   {
@@ -2647,19 +2678,26 @@ export const OBJEK_FOTO = [
     "kw": "neptunus",
     "bab": "ipa-05",
     "file": "objek/neptunus.webp",
+    "views": {
+      "samping": "objek/neptunus-samping.webp"
+    },
     "dark": true
   },
   {
     "id": "tata-surya-deret",
     "title": "Deret 8 planet",
     "kw": "planet|tata surya",
-    "bab": "ipa-05"
+    "bab": "ipa-05",
+    "file": "objek/tata-surya-deret.webp",
+    "dark": true
   },
   {
     "id": "fase-bulan-deret",
     "title": "Fase-fase Bulan",
     "kw": "fase bulan|bulan purnama|bulan sabit|bulan baru|kuartir|fase",
-    "bab": "ipa-05"
+    "bab": "ipa-05",
+    "file": "objek/fase-bulan-deret.webp",
+    "dark": true
   },
   {
     "id": "komet",
@@ -2672,7 +2710,7 @@ export const OBJEK_FOTO = [
   {
     "id": "meteorit",
     "title": "Meteorit",
-    "kw": "meteor|asteroid",
+    "kw": "meteorit|meteor(?!oid)",
     "bab": "ipa-05",
     "file": "objek/meteorit.webp",
     "views": {
@@ -2685,12 +2723,15 @@ export const OBJEK_FOTO = [
     "kw": "kerak|mantel|inti bumi|lapisan bumi|litosfer|astenosfer",
     "bab": "ipa-05",
     "file": "objek/bumi-lapisan.webp",
+    "views": {
+      "penampang": "objek/bumi-lapisan-penampang.webp"
+    },
     "dark": true
   },
   {
     "id": "globe",
     "title": "Globe",
-    "kw": "globe|rotasi|kemiringan|sumbu",
+    "kw": "globe",
     "bab": "ipa-05",
     "file": "objek/globe.webp",
     "views": {
@@ -2723,7 +2764,11 @@ export const OBJEK_FOTO = [
     "title": "Profil lapisan tanah",
     "kw": "lapisan tanah|humus|tanah|horizon",
     "bab": "ipa-05",
-    "file": "objek/profil-tanah.webp"
+    "file": "objek/profil-tanah.webp",
+    "views": {
+      "samping": "objek/profil-tanah-samping.webp",
+      "penampang": "objek/profil-tanah-penampang.webp"
+    }
   },
   {
     "id": "sda-tak-terbarukan-set",
@@ -2788,7 +2833,11 @@ export const OBJEK_FOTO = [
     "id": "neraca-ohauss",
     "title": "Neraca Ohauss",
     "kw": "neraca|timbangan|ohaus",
-    "bab": "ipa-06"
+    "bab": "ipa-06",
+    "file": "objek/neraca-ohauss.webp",
+    "views": {
+      "samping": "objek/neraca-ohauss-samping.webp"
+    }
   },
   {
     "id": "stopwatch",
@@ -2817,15 +2866,19 @@ export const OBJEK_FOTO = [
   {
     "id": "akuarium",
     "title": "Akuarium balok",
-    "kw": "akuarium|bak mandi|kolam",
+    "kw": "akuarium",
     "bab": "mtk-04",
-    "file": "objek/akuarium.webp"
+    "file": "objek/akuarium.webp",
+    "views": {
+      "samping": "objek/akuarium-samping.webp"
+    }
   },
   {
     "id": "benda-bangun-ruang-set",
     "title": "Benda sehari-hari berbentuk bangun ruang",
     "kw": "kaleng|dadu|kardus|tumpeng|toren|drum|es krim",
-    "bab": "mtk-04"
+    "bab": "mtk-04",
+    "file": "objek/benda-bangun-ruang-set.webp"
   },
   {
     "id": "tandon-air",

@@ -11730,5 +11730,33 @@
   "maket-rumah/p01-realistis-turnaround": {
     "status": "ok",
     "catatan": "Disusun otomatis dari p02, p03, p04, p05 (depan, belakang, kiri, kanan) yang sudah lolos review."
+  },
+  "sel-darah-set/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Tiga jenis sel darah tembus pandang (~25 persen): eritrosit cakram bikonkaf, lebih tipis di tengah (lingkar putus-putus), tanpa inti; leukosit (neutrofil) dengan butiran sitoplasma lilac dan inti berlobus banyak (4 lobus dihubungkan benang tipis) ungu; trombosit 6 keping kecil tanpa inti, sekitar sepertiga lebar eritrosit. Perbandingan ukuran eritrosit : leukosit sekitar 1 : 1,5 sesuai kenyataan (7,5 : 12 mikrometer). Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "pembuluh-darah-set/p03-penampang-belah": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Tiga pembuluh, masing-masing penampang lintang bulat + potongan memanjang. Arteri: lapisan luar krem, otot-elastis tebal merah muda, endotel kuning muda, lumen kecil bulat berisi darah merah. Vena: lapisan luar, otot tipis abu-biru, lumen lebar pipih berisi darah kebiruan, dua katup putih searah aliran. Kapiler: dinding satu lapis sel pipih merah muda, eritrosit berbaris satu-satu. Tidak berskala antar pembuluh (kapiler sebenarnya jauh lebih kecil). Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "vili-usus/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Blok dinding usus halus tembus pandang dengan vili jari: epitel merah muda dengan tepi lebih terang (brush border), gelung kapiler merah (naik) dan biru (turun) dengan dua penghubung, lakteal tengah kuning-putih berujung buntu, kripta (kelenjar usus) lavender di antara vili, submukosa kuning pucat, dua lapis otot merah. Deretan vili belakang lebih pudar untuk kesan 3D. Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "biji-mono-dikotil-set/p04-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Jagung (kiri): dinding buah menyatu dengan kulit biji keemasan, endosperma kuning pucat, satu kotiledon (skutelum) hijau muda, plumula di dalam koleoptil hijau, radikula di dalam koleoriza putih, lembaga di sisi pangkal runcing. Kacang merah rendam (kanan): kulit biji marun dengan bekas hilum, dua kotiledon krem bertumpuk (tembus pandang), hipokotil hijau muda, plumula dengan daun kecil hijau, radikula putih menghadap hilum. Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "bunga-sepatu/p12-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Bunga sepatu tembus pandang, bagian dalam pada posisi aslinya: epikaliks hijau tua, kelopak hijau, mahkota 5 helai merah tembus pandang, tabung benang sari merah-muda, benang sari dengan kepala sari kuning, tangkai putik merah muda di dalam tabung, lima kepala putik merah tua di ujung, bakal buah menumpang hijau muda dengan bakal biji putih, dasar bunga hijau pucat, tangkai bunga hijau. Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "tanaman-jagung/p12-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Tanaman jagung muda tercabut: akar serabut, batang tembus pandang beruas dengan berkas pembuluh tersebar (xilem biru, floem oranye-kuning), daun berurat sejajar; irisan melintang batang di samping: epidermis hijau tua, jaringan dasar hijau pucat, berkas pembuluh TERSEBAR (lebih rapat dekat tepi), tanpa kambium dan tanpa empulur terpisah (sifat monokotil). Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
+  },
+  "tanaman-kacang/p12-penampang-transparan": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (image-prompts/_src/vektor-bio.mjs: SVG -> PNG), bukan Gemini; bentuk, jumlah bagian, dan warna digambar dari spesifikasi katalog (penampang.mjs), bukan ditebak model. Tanaman kacang tanah tercabut: akar tunggang dengan akar cabang dan bintil akar bulat merah muda, dua polong di bawah tanah menggantung pada ginofor (tangkai), batang tembus pandang dengan berkas pembuluh di tepi dan empulur krem, daun majemuk 4 anak daun; irisan melintang batang: epidermis hijau tua, korteks hijau muda, berkas pembuluh dalam SATU cincin (xilem biru di dalam, kambium kuning tipis, floem oranye di luar), empulur krem di tengah (sifat dikotil). Gaya skematik datar, batas bagian putus-putus, lingkaran callout kosong untuk label yang ditambahkan aplikasi nanti. Latar putih polos, tanpa teks, tidak terpotong. Sebaiknya ditandatangani guru IPA sebelum rilis."
   }
 }

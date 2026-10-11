@@ -2,7 +2,7 @@
 
 Di-generate oleh `image-prompts/_src/gen.mjs`. Jangan edit manual. Hasil review disimpan di `_review.json`.
 Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos · ⚠️ perlu revisi · ❌ salah (generate ulang)
-**Total:** 2085/2092 slot terisi · 2077/2092 lolos review
+**Total:** 2092/2092 slot terisi · 2084/2092 lolos review
 
 ## IPA 01 · Makhluk Hidup & Lingkungan
 
@@ -60,14 +60,14 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Daur hidup katak (telur → berudu → katak muda → katak)](ipa/01-makhluk-hidup/daur-katak-set/) | 4/4 | 4/4 |  |
 | [Daur hidup nyamuk (telur → jentik → pupa → nyamuk)](ipa/01-makhluk-hidup/daur-nyamuk-set/) | 2/2 | 2/2 |  |
 | [Metamorfosis tidak sempurna kecoak (telur → nimfa → imago)](ipa/01-makhluk-hidup/daur-kecoak-set/) | 2/2 | 2/2 |  |
-| [Tanaman jagung (monokotil, akar serabut)](ipa/01-makhluk-hidup/tanaman-jagung/) | 11/12 | 11/12 |  |
-| [Tanaman kacang tanah (dikotil, akar tunggang)](ipa/01-makhluk-hidup/tanaman-kacang/) | 11/12 | 11/12 |  |
-| [Biji monokotil vs dikotil (penampang)](ipa/01-makhluk-hidup/biji-mono-dikotil-set/) | 3/4 | 3/4 |  |
+| [Tanaman jagung (monokotil, akar serabut)](ipa/01-makhluk-hidup/tanaman-jagung/) | 12/12 | 12/12 |  |
+| [Tanaman kacang tanah (dikotil, akar tunggang)](ipa/01-makhluk-hidup/tanaman-kacang/) | 12/12 | 12/12 |  |
+| [Biji monokotil vs dikotil (penampang)](ipa/01-makhluk-hidup/biji-mono-dikotil-set/) | 4/4 | 4/4 |  |
 | [Tulang daun: sejajar, melengkung, menyirip, menjari](ipa/01-makhluk-hidup/daun-sejajar-menyirip-menjari-set/) | 2/2 | 2/2 |  |
 | [Lumut (bryophyta)](ipa/01-makhluk-hidup/lumut/) | 10/10 | 10/10 |  |
 | [Tumbuhan paku (pteridophyta)](ipa/01-makhluk-hidup/paku/) | 10/10 | 10/10 |  |
 | [Pinus & runjung (gymnospermae)](ipa/01-makhluk-hidup/pinus-konus/) | 2/2 | 2/2 |  |
-| [Bunga sepatu (bunga sempurna)](ipa/01-makhluk-hidup/bunga-sepatu/) | 11/12 | 11/12 |  |
+| [Bunga sepatu (bunga sempurna)](ipa/01-makhluk-hidup/bunga-sepatu/) | 12/12 | 12/12 |  |
 | [Penampang bunga sempurna (bagian-bagian bunga)](ipa/01-makhluk-hidup/bunga-penampang/) | 4/4 | 4/4 |  |
 | [Akar tunggang vs akar serabut](ipa/01-makhluk-hidup/akar-tunggang-serabut-set/) | 4/4 | 4/4 |  |
 | [Umbi batang kentang (vegetatif)](ipa/01-makhluk-hidup/kentang-bertunas/) | 12/12 | 12/12 |  |
@@ -138,15 +138,15 @@ Keterangan: ⬜ belum ada gambar · 🔍 ada gambar, belum direview · ✅ lolos
 | [Hati & kantong empedu](ipa/02-tubuh-manusia/hati-empedu/) | 12/12 | 12/12 |  |
 | [Pankreas](ipa/02-tubuh-manusia/pankreas/) | 12/12 | 12/12 |  |
 | [Usus halus & usus besar (dengan umbai cacing)](ipa/02-tubuh-manusia/usus-halus-besar/) | 12/12 | 12/12 |  |
-| [Vili usus halus (jonjot penyerapan)](ipa/02-tubuh-manusia/vili-usus/) | 3/4 | 3/4 |  |
+| [Vili usus halus (jonjot penyerapan)](ipa/02-tubuh-manusia/vili-usus/) | 4/4 | 4/4 |  |
 | [Sistem pernapasan (laring → paru-paru)](ipa/02-tubuh-manusia/sistem-pernapasan/) | 12/12 | 12/12 |  |
 | [Paru-paru](ipa/02-tubuh-manusia/paru-paru/) | 12/12 | 12/12 |  |
 | [Alveolus (pertukaran O₂ & CO₂)](ipa/02-tubuh-manusia/alveolus/) | 4/4 | 4/4 |  |
 | [Insang ikan (alat napas hewan)](ipa/02-tubuh-manusia/insang-ikan/) | 4/4 | 4/4 |  |
 | [Jantung (luar)](ipa/02-tubuh-manusia/jantung/) | 12/12 | 10/12 | p01-realistis-turnaround: ⚠️ revisi — Keempat salinan hampir sama (tampak depan miring). Prompt: "Exactly four copies: anterior, posterior, left lateral, right lateral."<br>p04-realistis-kiri: ⚠️ revisi — Konten benar (jantung tampak samping kiri: ventrikel kiri dominan, apeks kiri-bawah, LAD + vena jantung besar, sirkumfleks, aurikel kiri, batang pulmonalis, lengkung aorta, 2 vena pulmonalis kiri) tetapi file ini gambar VEKTOR skematik datar, bukan foto/model realistis seperti p02/p03/p05 — gaya tidak konsisten dengan set realistis. Tidak diterbitkan app (utama = p07 ilustrasi-depan; samping = p05). Perbaikan: foto model jantung tampak kiri CC0/PD (tidak ditemukan di Commons) atau generasi realistis baru. Perlu paraf guru IPA. |
 | [Penampang jantung (4 ruang & katup)](ipa/02-tubuh-manusia/jantung-penampang/) | 4/4 | 4/4 |  |
-| [Pembuluh darah: arteri, vena, kapiler](ipa/02-tubuh-manusia/pembuluh-darah-set/) | 3/4 | 3/4 |  |
-| [Sel darah: eritrosit, leukosit, trombosit](ipa/02-tubuh-manusia/sel-darah-set/) | 3/4 | 3/4 |  |
+| [Pembuluh darah: arteri, vena, kapiler](ipa/02-tubuh-manusia/pembuluh-darah-set/) | 4/4 | 4/4 |  |
+| [Sel darah: eritrosit, leukosit, trombosit](ipa/02-tubuh-manusia/sel-darah-set/) | 4/4 | 4/4 |  |
 | [Sistem ekskresi ginjal (ginjal, ureter, kandung kemih)](ipa/02-tubuh-manusia/sistem-urinaria/) | 12/12 | 12/12 |  |
 | [Penampang ginjal (korteks, medula, pelvis)](ipa/02-tubuh-manusia/ginjal-penampang/) | 4/4 | 4/4 |  |
 | [Nefron (penyaringan darah)](ipa/02-tubuh-manusia/nefron/) | 4/4 | 4/4 |  |
