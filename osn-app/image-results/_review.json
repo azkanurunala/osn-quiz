@@ -569,7 +569,7 @@
   },
   "mata-penampang/p02-ilustrasi-depan": {
     "status": "ok",
-    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini: geometri dihitung kode (versi Gemini gagal berulang: teks salah eja / objek salah). Penampang mendatar bola mata: kornea (kubah biru muda, menyambung ke sklera), bilik depan berisi humor akuos (biru sangat pucat), iris (cokelat) dengan celah pupil, lensa bikonveks (kuning pucat) ditahan badan siliar (merah muda) + ligamen penggantung (garis putih tipis), humor vitreus bening, retina (jingga-merah) melapisi bagian belakang, bintik kuning/fovea (kuning) TEPAT pada sumbu lensa, bintik buta (putih) tempat saraf optik (kuning) keluar di sisi hidung sedikit di bawah sumbu, koroid (cokelat tua), sklera (putih). Tanpa callout. Tanpa teks. Diperiksa visual. Gambar organ perlu ditinjau guru IPA sebelum rilis."
+    "catatan": "Penampang bola mata: kornea, iris dan pupil, lensa dengan badan siliaris, retina dengan bintik kuning dan bintik buta tempat saraf optik keluar, koroid, sklera. Ilustrasi buku teks dirender Gemini (gemini-ref.mjs) dari panduan tata letak gambar yang sudah lolos review + gaya garis tegas/warna datar dari ilustrasi organ lain; menggantikan gambar vektor datar yang kasar. Tanpa teks. Jumlah dan hubungan bagian dicek manual. Perlu paraf guru IPA (organ)."
   },
   "mata-penampang/p03-penampang-belah": {
     "status": "ok",
@@ -11349,7 +11349,7 @@
   },
   "tulang-rusuk/p07-ilustrasi-depan": {
     "status": "ok",
-    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak depan: rusuk 1-7 menyambung ke tulang dada, 8-10 menyambung ke tulang rawan di atasnya, 11-12 melayang. Perlu paraf guru IPA (organ/tulang)."
+    "catatan": "Rongga dada: tulang dada (manubrium, badan, prosesus xifoid), rusuk sejati/palsu/melayang dengan tulang rawan kosta biru, ruas tulang belakang dada di belakang; sama dengan tata letak foto realistis p02 yang sudah lolos. Ilustrasi buku teks dirender Gemini (gemini-ref.mjs) dari panduan tata letak gambar yang sudah lolos review + gaya garis tegas/warna datar dari ilustrasi organ lain; menggantikan gambar vektor datar yang kasar. Tanpa teks. Jumlah dan hubungan bagian dicek manual. Perlu paraf guru IPA (organ)."
   },
   "tulang-rusuk/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -11377,7 +11377,7 @@
   },
   "sistem-urinaria/p07-ilustrasi-depan": {
     "status": "ok",
-    "catatan": "Gambar vektor datar (vektor-ipa.mjs, bukan Gemini). Tampak depan: ginjal kiri orang lebih tinggi (di sisi kanan gambar), aorta merah di sisi kanan gambar dan vena kava inferior biru di sisi kiri gambar, vena ginjal kiri melintas di depan aorta, kelenjar adrenal di kutub atas, ureter kuning turun ke kandung kemih, uretra keluar dari bawah. Perlu paraf guru IPA (organ)."
+    "catatan": "Sistem urinaria tampak depan: dua ginjal berbentuk kacang dengan kelenjar adrenal di atas, aorta (merah) dan vena kava inferior (biru) di antara ginjal beserta cabang pembuluh ginjal, dua ureter turun ke kandung kemih, uretra keluar di bawah; semua bagian tersambung. Ilustrasi buku teks dirender Gemini (gemini-ref.mjs) dari panduan tata letak gambar yang sudah lolos review + gaya garis tegas/warna datar dari ilustrasi organ lain; menggantikan gambar vektor datar yang kasar. Tanpa teks. Jumlah dan hubungan bagian dicek manual. Perlu paraf guru IPA (organ)."
   },
   "sistem-urinaria/p08-ilustrasi-belakang": {
     "status": "ok",
@@ -11489,7 +11489,7 @@
   },
   "reproduksi-pria/p02-ilustrasi-depan": {
     "status": "ok",
-    "catatan": "Gambar vektor skematik klinis (vektor-ipa.mjs, bukan Gemini), hanya organ dalam, tanpa alat kelamin luar atau tubuh. Kandung kemih (potongan, kuning pucat) dengan dua ureter, prostat (oranye) dilintasi uretra, sepasang vesikula seminalis (kuning, di belakang dasar kandung kemih), sepasang vas deferens (biru) melengkung melewati ureter lalu ke belakang kandung kemih, sepasang testis dengan epididimis (biru muda) di sisi luar. Tanpa teks. Perlu paraf guru IPA (organ reproduksi)."
+    "catatan": "Hanya organ dalam (klinis, tanpa alat kelamin luar, tanpa tubuh): potongan kandung kemih dengan dua ureter, prostat, dua vesikula seminalis, dua vas deferens melengkung di atas ureter, dua testis dengan epididimis; uretra hanya tunggul pendek di bawah prostat. Dua percobaan pertama ditolak karena menampilkan alat kelamin luar. Ilustrasi buku teks dirender Gemini (gemini-ref.mjs) dari panduan tata letak gambar yang sudah lolos review + gaya garis tegas/warna datar dari ilustrasi organ lain; menggantikan gambar vektor datar yang kasar. Tanpa teks. Jumlah dan hubungan bagian dicek manual. Perlu paraf guru IPA (organ)."
   },
   "bulan/p09-ilustrasi-kiri.lama3": {
     "status": "salah",
@@ -11806,5 +11806,21 @@
   "ginjal-penampang/p01-realistis-depan.lama2": {
     "status": "ok",
     "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini: geometri dihitung kode (versi Gemini gagal berulang: teks salah eja / objek salah). Penampang membujur ginjal: kapsul ginjal (garis tipis mengkilap), korteks (merah-cokelat, pita luar) dan kolumna ginjal di antara piramida; 8 piramida medula (merah tua bergaris) dengan garis putus-putus batas korteks–medula; kaliks minor (cangkir kuning) bergabung ke kaliks mayor lalu pelvis ginjal (kuning), ureter keluar ke bawah lewat hilum; arteri ginjal (merah) dan vena ginjal (biru) masuk di hilum. Tidak ada struktur tambahan (kelenjar adrenal/lemak) seperti pada versi Gemini. Tanpa teks. Diperiksa visual. Gambar organ perlu ditinjau guru IPA sebelum rilis."
+  },
+  "sistem-urinaria/p07-ilustrasi-depan.lama2": {
+    "status": "ok",
+    "catatan": "Gambar vektor datar (vektor-ipa.mjs, bukan Gemini). Tampak depan: ginjal kiri orang lebih tinggi (di sisi kanan gambar), aorta merah di sisi kanan gambar dan vena kava inferior biru di sisi kiri gambar, vena ginjal kiri melintas di depan aorta, kelenjar adrenal di kutub atas, ureter kuning turun ke kandung kemih, uretra keluar dari bawah. Perlu paraf guru IPA (organ)."
+  },
+  "tulang-rusuk/p07-ilustrasi-depan.lama2": {
+    "status": "ok",
+    "catatan": "Gambar vektor datar (bukan Gemini) via vektor-ipa.mjs. Isi: 12 pasang rusuk (7 sejati menyambung ke tulang dada lewat tulang rawan biru, 3 palsu bersambung ke tulang rawan di atasnya, 2 melayang pendek), tulang dada (manubrium, badan, prosesus xifoid), 12 ruas tulang belakang dada. Tampak depan: rusuk 1-7 menyambung ke tulang dada, 8-10 menyambung ke tulang rawan di atasnya, 11-12 melayang. Perlu paraf guru IPA (organ/tulang)."
+  },
+  "mata-penampang/p02-ilustrasi-depan.lama2": {
+    "status": "ok",
+    "catatan": "Gambar VEKTOR (SVG→PNG via image-prompts/_src/vektor-ipa.mjs), bukan Gemini: geometri dihitung kode (versi Gemini gagal berulang: teks salah eja / objek salah). Penampang mendatar bola mata: kornea (kubah biru muda, menyambung ke sklera), bilik depan berisi humor akuos (biru sangat pucat), iris (cokelat) dengan celah pupil, lensa bikonveks (kuning pucat) ditahan badan siliar (merah muda) + ligamen penggantung (garis putih tipis), humor vitreus bening, retina (jingga-merah) melapisi bagian belakang, bintik kuning/fovea (kuning) TEPAT pada sumbu lensa, bintik buta (putih) tempat saraf optik (kuning) keluar di sisi hidung sedikit di bawah sumbu, koroid (cokelat tua), sklera (putih). Tanpa callout. Tanpa teks. Diperiksa visual. Gambar organ perlu ditinjau guru IPA sebelum rilis."
+  },
+  "reproduksi-pria/p02-ilustrasi-depan.lama2": {
+    "status": "ok",
+    "catatan": "Gambar vektor skematik klinis (vektor-ipa.mjs, bukan Gemini), hanya organ dalam, tanpa alat kelamin luar atau tubuh. Kandung kemih (potongan, kuning pucat) dengan dua ureter, prostat (oranye) dilintasi uretra, sepasang vesikula seminalis (kuning, di belakang dasar kandung kemih), sepasang vas deferens (biru) melengkung melewati ureter lalu ke belakang kandung kemih, sepasang testis dengan epididimis (biru muda) di sisi luar. Tanpa teks. Perlu paraf guru IPA (organ reproduksi)."
   }
 }
